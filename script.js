@@ -22,7 +22,6 @@ document.getElementById("latestLetter").innerHTML = data;
 });
 
 
-
 let currentQuestion = 0;
 let score = 0;
 let timer;
@@ -33,14 +32,32 @@ let questions = [];
 const correctSound = new Audio("correct.mp3");
 const wrongSound = new Audio("wrong.mp3");
 
-// ✅ single fetch (ONLY ONE)
+// 👇 URL से chapter detect
+const page = window.location.pathname;
+
+let chapter = "";
+
+if(page.includes("06")) chapter = "chapter6";
+else if(page.includes("07")) chapter = "chapter7";
+else chapter = "chapter6"; // 🔥 default (important)
+
+// 👇 fetch system
 fetch("mcq.json")
   .then(res => res.json())
   .then(data => {
-    questions = data;
+
+    if(!data[chapter]){
+      document.getElementById("mcq-container").innerHTML =
+        "<p>Questions not found 😢</p>";
+      return;
+    }
+
+    questions = data[chapter];
     loadQuestion();
+
   })
   .catch(err => console.log(err));
+
 
 
 function loadQuestion() {
