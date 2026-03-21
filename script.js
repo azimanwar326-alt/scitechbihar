@@ -18,7 +18,11 @@ function toggleSearch() {
 fetch("latest-letter.html")
 .then(response => response.text())
 .then(data => {
-document.getElementById("latestLetter").innerHTML = data;
+const letterBox = document.getElementById("latestLetter");
+
+if (letterBox && data) {
+  letterBox.innerHTML = data;
+}
 });
 
 
@@ -35,30 +39,35 @@ const wrongSound = new Audio("wrong.mp3");
 // 👇 URL से chapter detect
 const page = window.location.pathname;
 
-let chapter = "";
+let chapter = "chapter06"; // default
 
-if(page.includes("06")) chapter = "chapter6";
-else if(page.includes("07")) chapter = "chapter7";
-else chapter = "chapter6"; // 🔥 default (important)
+if (page.includes("05")) chapter = "chapter05";
+else if (page.includes("06")) chapter = "chapter06";
+else if (page.includes("07")) chapter = "chapter07";
 
 // 👇 fetch system
 fetch("mcq.json")
   .then(res => res.json())
   .then(data => {
 
-    if(!data[chapter]){
+    // 👇 यहीं डालें (IMPORTANT)
+    console.log("Data:", data);
+    console.log("Chapter:", chapter);
+    console.log("Questions:", data.class6[chapter]);
+
+    const questionsData = data.class6[chapter];
+
+    if (!questionsData || questionsData.length === 0) {
       document.getElementById("mcq-container").innerHTML =
-        "<p>Questions not found 😢</p>";
+        "<p>❌ Questions not found</p>";
       return;
     }
 
-    questions = data[chapter];
+    questions = questionsData;
     loadQuestion();
 
   })
   .catch(err => console.log(err));
-
-
 
 function loadQuestion() {
   clearInterval(timer);
@@ -67,69 +76,61 @@ function loadQuestion() {
 
   const container = document.getElementById("mcq-container");
 
-  // ✅ safety check
   if (!container) {
-    console.log("mcq-container not found ❌");
+    console.log("❌ mcq-container नहीं मिला");
     return;
   }
-
-  // ✅ question check
-  if (!questions[currentQuestion]) {
-    console.log("Question not found ❌");
-    return;
-  }
-
-  container.innerHTML = "";
 
   const q = questions[currentQuestion];
 
-  const div = document.createElement("div");
-  div.classList.add("mcq");
-
-  div.innerHTML = `
-    <p><strong>Q${currentQuestion + 1}. ${q.q}</strong></p>
-    ${q.options.map(opt =>
-      `<button onclick="checkAnswer(this, '${q.answer}')">${opt}</button>`
-    ).join("")}
-    <p id="result"></p>
-  `;
-
-  container.appendChild(div);
-}
-
-
-function checkAnswer(btn, correctAnswer) {
-  clearInterval(timer);
-
-  const result = btn.parentElement.querySelector("#result");
-  const buttons = document.querySelectorAll("#mcq-container button");
-
-  buttons.forEach(b => {
-    b.disabled = true;
-  });
-
-  if (btn.innerText.trim() === correctAnswer.trim()) {
-    result.innerHTML = "✅ सही उत्तर";
-    result.style.color = "green";
-    score++;
-
-    correctSound.currentTime = 0;
-    correctSound.play().catch(()=>{});
-
-  } else {
-    result.innerHTML = `❌ गलत! सही: ${correctAnswer}`;
-    result.style.color = "red";
-
-    wrongSound.currentTime = 0;
-    wrongSound.play().catch(()=>{});
+  if (!q) {
+    container.innerHTML = "<p>❌ Question load नहीं हुआ</p>";
+    return;
   }
 
-  document.getElementById("score").innerText = `Score: ${score}`;
-
-  setTimeout(() => {
-    nextQuestion();
-  }, 1500);
+  // 👇 पूरा HTML एक बार में डालें
+  container.innerHTML = `
+    <div class="mcq">
+      <p><strong>Q${currentQuestion + 1}. ${q.q}</strong></p>
+      <div id="options">
+        ${q.options.map((opt, i) =>
+          `<button onclick="checkAnswer(this, '${opt}', '${q.answer}')">${opt}</button>`
+        ).join("")}
+      </div>
+      <p id="result"></p>
+    </div>
+  `;
 }
+
+
+function checkAnswer(btn, selected, correct) {
+  const buttons = btn.parentElement.querySelectorAll("button");
+
+  // सभी buttons disable करें
+  buttons.forEach(b => b.disabled = true);
+
+  if (selected === correct) {
+    btn.classList.add("correct");
+    correctSound.play();
+    score++;
+  } else {
+    btn.classList.add("wrong");
+    wrongSound.play();
+
+    // सही answer highlight करें
+    buttons.forEach(b => {
+      if (b.innerText === correct) {
+        b.classList.add("correct");
+      }
+    });
+  }
+
+  document.getElementById("score").innerText = "Score: " + score;
+
+  // ⏭️ 2 सेकंड बाद next question
+  setTimeout(nextQuestion, 2000);
+}
+
 
 
 function nextQuestion() {

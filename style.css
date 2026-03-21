@@ -603,3 +603,13 @@ h1, h2 {
   width: 100% !important;
   margin: 10px 0 !important;
 }
+
+button.correct {
+  background: green;
+  color: white;
+}
+
+button.wrong {
+  background: red;
+  color: white;
+}
