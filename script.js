@@ -22,6 +22,7 @@ document.getElementById("latestLetter").innerHTML = data;
 });
 
 
+
 let currentQuestion = 0;
 let score = 0;
 let timer;
@@ -29,8 +30,8 @@ let timeLeft = 30;
 let questions = [];
 
 // 🔊 sound
-const correctSound = new Audio("sounds/correct.mp3");
-const wrongSound = new Audio("sounds/wrong.mp3");
+const correctSound = new Audio("correct.mp3");
+const wrongSound = new Audio("wrong.mp3");
 
 // ✅ single fetch (ONLY ONE)
 fetch("mcq.json")
@@ -80,7 +81,6 @@ function loadQuestion() {
 }
 
 
-
 function checkAnswer(btn, correctAnswer) {
   clearInterval(timer);
 
@@ -89,11 +89,6 @@ function checkAnswer(btn, correctAnswer) {
 
   buttons.forEach(b => {
     b.disabled = true;
-
-    if (b.innerText.trim() === correctAnswer.trim()) {
-      b.style.backgroundColor = "green";
-      b.style.color = "white";
-    }
   });
 
   if (btn.innerText.trim() === correctAnswer.trim()) {
@@ -103,9 +98,8 @@ function checkAnswer(btn, correctAnswer) {
 
     correctSound.currentTime = 0;
     correctSound.play().catch(()=>{});
+
   } else {
-    btn.style.backgroundColor = "red";
-    btn.style.color = "white";
     result.innerHTML = `❌ गलत! सही: ${correctAnswer}`;
     result.style.color = "red";
 
@@ -119,6 +113,7 @@ function checkAnswer(btn, correctAnswer) {
     nextQuestion();
   }, 1500);
 }
+
 
 function nextQuestion() {
   currentQuestion++;
