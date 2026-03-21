@@ -42,6 +42,21 @@
     
   <script src="seo.js"></script>
   <script src="script.js"></script>
+ 
+    <script>
+const correctSound = new Audio("correct.mp3");
+const wrongSound = new Audio("wrong.mp3");
+
+function playCorrect(){
+    correctSound.currentTime = 0;
+    correctSound.play().catch(e => console.log(e));
+}
+
+function playWrong(){
+    wrongSound.currentTime = 0;
+    wrongSound.play().catch(e => console.log(e));
+}
+</script>
 
 </body>
            
