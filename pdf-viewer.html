@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDF Viewer | SciTech Bihar</title>
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            background: #f8f9fa;
+            margin: 0;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            padding: 20px;
+        }
+        h2 {
+            color: #2c3e50;
+            margin-bottom: 20px;
+        }
+        iframe {
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            background: #fff;
+            width: 100%;
+            height: 600px;
+        }
+        .back-btn {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 25px;
+            background: #3498db;
+            color: white;
+            text-decoration: none;
+            border-radius: 25px;
+            font-weight: 500;
+            transition: background 0.3s;
+        }
+        .back-btn:hover {
+            background: #2980b9;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>📄 अध्ययन सामग्री</h2>
+        
+        <!-- PDF दिखाने के लिए iframe -->
+        <iframe id="pdfViewer" frameborder="0"></iframe>
+        
+        <br><br>
+        <a href="class6-science.html" class="back-btn">⬅ वापस जाएं</a>
+    </div>
+
+    <script>
+        // URL से PDF फाइल का नाम लेना
+        function getPdfNameFromUrl() {
+            const urlParams = new URLSearchParams(window.location.search);
+            let pdfFile = urlParams.get('file');
+            
+            // अगर URL में file पैरामीटर नहीं है
+            if (!pdfFile) {
+                pdfFile = "01-विज्ञान-का-अनूठा-संसार.pdf";
+            }
+            
+            return pdfFile;
+        }
+
+        // PDF लोड करना
+        function loadPdf() {
+            const pdfFile = getPdfNameFromUrl();
+            document.getElementById('pdfViewer').src = pdfFile;
+            document.title = pdfFile + " | SciTech Bihar";
+        }
+
+        // पेज लोड होते ही PDF लोड करें
+        window.onload = loadPdf;
+    </script>
+
+    <!-- यह लाइन </body> के ठीक पहले है -->
+<a href="javascript:history.back()" class="back-btn">⬅ वापस जाएं</a>
+</body>
+</html>
