@@ -26,6 +26,7 @@ if (letterBox && data) {
 });
 
 
+
 let currentQuestion = 0;
 let score = 0;
 let timer;
@@ -50,6 +51,20 @@ fetch("mcq.json")
   .then(res => res.json())
   .then(data => {
 
+     questions = data.class6[chapter];
+
+function updateProgress() {
+
+  if (!questions || questions.length === 0) return; // 🔥 safety
+
+  const percent = ((currentQuestion) / questions.length) * 100;
+
+  document.getElementById("progress-bar").style.width = percent + "%";
+  document.getElementById("progress-text").innerText =
+    "Progress: " + Math.round(percent) + "%";
+}
+
+
     // 👇 यहीं डालें (IMPORTANT)
     console.log("Data:", data);
     console.log("Chapter:", chapter);
@@ -68,6 +83,9 @@ fetch("mcq.json")
 
   })
   .catch(err => console.log(err));
+
+
+
 
 function loadQuestion() {
   clearInterval(timer);
@@ -103,6 +121,7 @@ function loadQuestion() {
 }
 
 
+
 function checkAnswer(btn, selected, correct) {
   const buttons = btn.parentElement.querySelectorAll("button");
 
@@ -132,16 +151,44 @@ function checkAnswer(btn, selected, correct) {
 }
 
 
-
 function nextQuestion() {
   currentQuestion++;
 
   if (currentQuestion < questions.length) {
     loadQuestion();
   } else {
-    showResult();
+
+    const total = questions.length;
+    const percentage = Math.round((score / total) * 100);
+
+    let grade = "";
+    if (percentage >= 90) {
+      grade = "Excellent 🏆";
+    } else if (percentage >= 60) {
+      grade = "Good 👍";
+    } else {
+      grade = "Try Again 😅";
+    }
+
+    // ✅ progress complete
+    document.getElementById("progress-bar").style.width = "100%";
+    document.getElementById("progress-text").innerText = "Completed ✅";
+
+    // ✅ new result UI
+    document.getElementById("mcq-container").innerHTML = `
+      <div class="result-box">
+        <h2>🎉 Quiz Finished</h2>
+        <p><strong>Score:</strong> ${score}/${total}</p>
+        <p><strong>Percentage:</strong> ${percentage}%</p>
+        <p><strong>Grade:</strong> ${grade}</p>
+
+        <button onclick="location.reload()">🔄 Restart Quiz</button>
+      </div>
+    `;
   }
 }
+  
+
 
 function startTimer() {
   document.getElementById("timer").innerText = `Time: ${timeLeft}s`;
