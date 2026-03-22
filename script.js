@@ -158,21 +158,20 @@ function nextQuestion() {
     loadQuestion();
   } else {
 
+    // ✅ पहले update करें
+    const progressBar = document.getElementById("progress-bar");
+    const progressText = document.getElementById("progress-text");
+
+    if (progressBar) progressBar.style.width = "100%";
+    if (progressText) progressText.innerText = "Completed ✅";
+
+    // ✅ फिर result दिखाएँ
     const total = questions.length;
     const percentage = Math.round((score / total) * 100);
 
-    let grade = "";
-    if (percentage >= 90) {
-      grade = "Excellent 🏆";
-    } else if (percentage >= 60) {
-      grade = "Good 👍";
-    } else {
-      grade = "Try Again 😅";
-    }
-
-    // ✅ progress complete
-    document.getElementById("progress-bar").style.width = "100%";
-    document.getElementById("progress-text").innerText = "Completed ✅";
+    let grade = percentage >= 90 ? "Excellent 🏆"
+              : percentage >= 60 ? "Good 👍"
+              : "Try Again 😅";
 
     // ✅ new result UI
     document.getElementById("mcq-container").innerHTML = `
