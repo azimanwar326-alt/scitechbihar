@@ -613,3 +613,19 @@ button.wrong {
   background: red;
   color: white;
 }
+
+.progress-box {
+  width: 100%;
+  height: 20px;
+  background: #ddd;
+  border-radius: 10px;
+  margin: 10px 0;
+}
+
+#progress-bar {
+  height: 100%;
+  width: 0%;
+  background: green;
+  border-radius: 10px;
+  transition: 0.3s;
+}
