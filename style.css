@@ -126,9 +126,11 @@ html, body {
     color: white;
 }
 
-.hero h1 {
+.hero h1,
+.hero p {
     font-size: 40px;
     margin-bottom: 10px;
+    color: white;
 }
 
 .hero p {
@@ -515,10 +517,9 @@ details ul li a:hover {
         width: 150px;
     }
 
-    .hero h1, 
-    .hero h2 {
+    .hero {
         font-size: 30px;
-        color: white;
+       
     }
 
     .hero p {
