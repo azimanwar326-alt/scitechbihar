@@ -40,7 +40,9 @@ const wrongSound = new Audio("wrong.mp3");
 // 👇 URL से chapter detect
 const page = window.location.pathname;
 
+
 let chapter = "chapter06"; // default
+let currentSection = "section1";
 
 if (page.includes("05")) chapter = "chapter05";
 else if (page.includes("06")) chapter = "chapter06";
@@ -51,39 +53,59 @@ fetch("mcq.json")
   .then(res => res.json())
   .then(data => {
 
-     questions = data.class6[chapter];
+    const chapterData = data.class6[chapter];
 
+    if (!chapterData) {
+      document.getElementById("mcq-container").innerHTML =
+        "<p>❌ Chapter not found</p>";
+      return;
+    }
+
+    // 🔥 अगर section structure है
+    if (chapterData.section1) {
+      window.chapterData = chapterData;
+      questions = chapterData[currentSection];
+    } else {
+      // 🔥 old structure (backup support)
+      questions = chapterData;
+    }
+
+    // ✅ load first question
+    loadQuestion();
+
+    // 👇 debug
+    console.log("Data:", data);
+    console.log("Chapter:", chapter);
+    console.log("Questions:", questions);
+
+  })
+  .catch(err => console.log(err));
+
+
+// 🔥 Section switch function
+function loadSection(sectionName) {
+  currentSection = sectionName;
+  currentQuestion = 0;
+  score = 0;
+
+  questions = chapterData[sectionName];
+
+  loadQuestion();
+  updateProgress();
+}
+
+
+// 🔥 Progress function
 function updateProgress() {
 
-  if (!questions || questions.length === 0) return; // 🔥 safety
+  if (!questions || questions.length === 0) return;
 
-  const percent = ((currentQuestion) / questions.length) * 100;
+  const percent = ((currentQuestion + 1) / questions.length) * 100;
 
   document.getElementById("progress-bar").style.width = percent + "%";
   document.getElementById("progress-text").innerText =
     "Progress: " + Math.round(percent) + "%";
 }
-
-
-    // 👇 यहीं डालें (IMPORTANT)
-    console.log("Data:", data);
-    console.log("Chapter:", chapter);
-    console.log("Questions:", data.class6[chapter]);
-
-    const questionsData = data.class6[chapter];
-
-    if (!questionsData || questionsData.length === 0) {
-      document.getElementById("mcq-container").innerHTML =
-        "<p>❌ Questions not found</p>";
-      return;
-    }
-
-    questions = questionsData;
-    loadQuestion();
-
-  })
-  .catch(err => console.log(err));
-
 
 
 
@@ -99,6 +121,12 @@ function loadQuestion() {
     return;
   }
 
+  // 🔥 safety check
+  if (!questions || questions.length === 0) {
+    container.innerHTML = "<p>❌ Questions not available</p>";
+    return;
+  }
+
   const q = questions[currentQuestion];
 
   if (!q) {
@@ -106,19 +134,29 @@ function loadQuestion() {
     return;
   }
 
-  // 👇 पूरा HTML एक बार में डालें
+  // 🔥 options HTML generate
+  let optionsHTML = "";
+  q.options.forEach(opt => {
+    optionsHTML += `<button class="option-btn" onclick="checkAnswer(this, '${opt}', '${q.answer}')">${opt}</button>`;
+  });
+
+  // 🔥 main HTML
   container.innerHTML = `
     <div class="mcq">
-      <p><strong>Q${currentQuestion + 1}. ${q.q}</strong></p>
+      <p class="question"><strong>Q${currentQuestion + 1}. ${q.q}</strong></p>
+      
       <div id="options">
-        ${q.options.map((opt, i) =>
-          `<button onclick="checkAnswer(this, '${opt}', '${q.answer}')">${opt}</button>`
-        ).join("")}
+        ${optionsHTML}
       </div>
+
       <p id="result"></p>
     </div>
   `;
+
+  // 🔥 progress update (important)
+  updateProgress();
 }
+
 
 
 
@@ -149,6 +187,7 @@ function checkAnswer(btn, selected, correct) {
   // ⏭️ 2 सेकंड बाद next question
   setTimeout(nextQuestion, 2000);
 }
+
 
 
 function nextQuestion() {
@@ -187,6 +226,19 @@ function nextQuestion() {
   }
 }
   
+if (currentQuestion >= questions.length) {
+
+  // 🔥 current section button को green करो
+  const activeBtn = document.querySelector(".section-buttons button.active");
+  if (activeBtn) {
+    activeBtn.classList.remove("active");
+    activeBtn.classList.add("completed");
+  }
+
+  alert("Section Completed ✅");
+}
+
+
 
 
 function startTimer() {

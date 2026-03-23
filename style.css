@@ -632,3 +632,28 @@ button.wrong {
   border-radius: 10px;
   transition: 0.3s;
 }
+
+.section-buttons button {
+  padding: 8px 12px;
+  margin: 5px;
+  border: none;
+  background: #0b3d91;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* 🔵 Hover (लेकिन active को छोड़कर) */
+.section-buttons button:hover:not(.active) {
+  background: #1e5bbf;
+}
+
+.section-buttons button.active {
+  background: orange;
+  color: white;
+}
+
+.section-buttons button.completed {
+  background: green;
+  color: white;
+}

@@ -27,3 +27,5 @@ document.querySelector('meta[property="og:description"]').setAttribute(
   "content",
   `${chapterName} के 50 महत्वपूर्ण MCQ प्रश्न उत्तर के साथ अभ्यास करें`
 );
+
+console.log(document.querySelector("meta[name='description']"));
