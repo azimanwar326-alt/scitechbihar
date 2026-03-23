@@ -118,58 +118,97 @@ html, body {
     margin: 4px;
 }
 
-/* Hero Section */
-.hero {
-    text-align: center;
-    padding: 80px 20px;
-    background: linear-gradient(to right, #0b3d91, #1f5bb5);
+/* 
+
+/* --- Modern Hero Section CSS --- */
+.hero-modern {
+    background: linear-gradient(135deg, #0044cc 0%, #002266 100%); /* गहरा नीला ग्रेडिएंट */
+    padding: 60px 5%;
     color: white;
-}
-
-.hero h1,
-.hero p {
-    font-size: 40px;
-    margin-bottom: 10px;
-    color: white;
-}
-
-.hero p {
-    font-size: 18px;
-}
-
-/* Slider */
-.slider {
-    width: 100%;
-    max-width: 1200px;
-    margin: auto;
-    overflow: hidden;
-}
-
-.slider img {
-    width: 100%;
-    height: auto;
-    display: block;
-}
-
-.slides {
     display: flex;
-    animation: slide 12s infinite;
+    justify-content: center;
 }
 
-.slide {
+.hero-container {
+    max-width: 1200px;
     width: 100%;
-    height: 350px;
-    object-fit: cover;
-    object-fit: cover; /* इमेज क्रॉप होगी लेकिन खिंचेगी नहीं */
-    /* object-fit: contain;  से इमेज पूरी दिखेगी लेकिन साइड में स्पेस आ सकता है */
+    display: flex;
+    align-items: center;
+    gap: 40px;
 }
 
-@keyframes slide {
-    0% { transform: translateX(0); }
-    33% { transform: translateX(-100%); }
-    66% { transform: translateX(-200%); }
-    100% { transform: translateX(0); }
+.hero-content {
+    flex: 1.2; /* टेक्स्ट को थोड़ा ज़्यादा जगह दी */
 }
+
+.hero-content h1 {
+    font-size: 2.8rem;
+    margin-bottom: 10px;
+    color: #fff;
+}
+
+.hero-content .subtitle {
+    font-size: 1.3rem;
+    color: #ffd700; /* पीला रंग नाम के लिए */
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.welcome-text {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 30px;
+}
+
+.hero-btn {
+    display: inline-block;
+    background: #ffd700;
+    color: #002266;
+    padding: 12px 25px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 50px;
+    transition: 0.3s;
+}
+
+.hero-btn:hover {
+    background: #fff;
+    transform: scale(1.05);
+}
+
+/* इमेज बॉक्स स्टाइल */
+.hero-image-box {
+    flex: 0.8;
+    display: flex;
+    justify-content: center;
+}
+
+.featured-img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+    border: 5px solid rgba(255,255,255,0.2);
+    background: white; /* इमेज के पीछे सफ़ेद बैकग्राउंड ताकि पारदर्शी इमेज अच्छी दिखे */
+    padding: 5px;
+}
+
+/* मोबाइल के लिए Responsive */
+@media (max-width: 850px) {
+    .hero-container {
+        flex-direction: column; /* मोबाइल पर ऊपर-नीचे */
+        text-align: center;
+    }
+    
+    .hero-content h1 {
+        font-size: 2rem;
+    }
+    
+    .hero-image-box {
+        order: -1; /* इमेज को मोबाइल पर ऊपर दिखाएगा */
+    }
+}
+
 
 /* Ticker/News */
 .ticker {
@@ -637,23 +676,171 @@ button.wrong {
   padding: 8px 12px;
   margin: 5px;
   border: none;
-  background: #0b3d91;
+  background: #0b3d91; /* 🔵 default */
   color: white;
   border-radius: 5px;
   cursor: pointer;
+  transition: 0.3s;
 }
 
-/* 🔵 Hover (लेकिन active को छोड़कर) */
-.section-buttons button:hover:not(.active) {
+/* 🔵 hover सिर्फ normal buttons */
+.section-buttons button:hover:not(.active):not(.completed) {
   background: #1e5bbf;
 }
 
+/* 🟠 active */
 .section-buttons button.active {
   background: orange;
   color: white;
 }
 
+/* 🟢 completed */
 .section-buttons button.completed {
   background: green;
   color: white;
+}
+
+/* विकल्पों को एक के नीचे एक करने के लिए */
+.options {
+    display: flex;
+    flex-direction: column; /* यह बटनों को vertical लाइन में खड़ा कर देगा */
+    gap: 10px; /* बटनों के बीच की दूरी */
+    margin-top: 20px;
+}
+
+.options button {
+    width: 100%; /* बटन पूरे बॉक्स की चौड़ाई घेर लेंगे */
+    padding: 12px;
+    font-size: 16px;
+    cursor: pointer;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    transition: 0.3s;
+    text-align: left; /* टेक्स्ट को बाईं ओर रखने के लिए */
+}
+
+.options button:hover {
+    background-color: #e0e0e0;
+}
+
+/* सही और गलत उत्तर के रंग */
+.correct {
+    background-color: #4CAF50 !important;
+    color: white;
+}
+
+.wrong {
+    background-color: #f44336 !important;
+    color: white;
+}
+
+/* MCQ कंटेनर के लिए स्टाइल */
+#mcq-container {
+    margin-top: 20px;
+    padding: 15px;
+    background: #fdfdfd;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+/* प्रश्न के बॉक्स के लिए */
+.question-box h3 {
+    color: #333;
+    font-size: 1.1rem;
+    margin-bottom: 15px;
+}
+
+/* विकल्पों (Options) को एक के नीचे एक करने के लिए मुख्य कोड */
+.options {
+    display: flex;
+    flex-direction: column; /* यह एक के नीचे एक लाएगा */
+    gap: 12px; /* बटनों के बीच की दूरी */
+}
+
+/* विकल्पों वाले बटन की स्टाइल */
+.options button {
+    width: 100%; /* पूरी चौड़ाई */
+    padding: 15px;
+    font-size: 16px;
+    text-align: left; /* टेक्स्ट बाईं ओर */
+    background-color: #ffffff;
+    border: 2px solid #e0e0e0;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    font-family: 'Arial', sans-serif;
+}
+
+/* माउस ले जाने पर (Hover) */
+.options button:hover:not([disabled]) {
+    background-color: #f0f7ff;
+    border-color: #2196F3;
+    transform: translateY(-2px);
+}
+
+/* सही उत्तर का रंग */
+.correct {
+    background-color: #d4edda !important;
+    border-color: #28a745 !important;
+    color: #155724;
+    font-weight: bold;
+}
+
+/* गलत उत्तर का रंग */
+.wrong {
+    background-color: #f8d7da !important;
+    border-color: #dc3545 !important;
+    color: #721c24;
+}
+
+/* सेक्शन बटनों के लिए भी थोड़ी स्टाइल (Optional) */
+.section-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 20px;
+}
+
+.section-buttons button {
+    padding: 8px 15px;
+    border: none;
+    background: #5c67f2;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.section-buttons button.active {
+    background: #28a745; /* एक्टिव सेक्शन का रंग हरा */
+}
+
+#progress-bar {
+    transition: width 0.4s ease-in-out; /* इससे प्रोग्रेस बार स्मूथली बढ़ेगा */
+}
+
+/* बटनों की लिस्ट को नंबरिंग देना */
+.options {
+    counter-reset: option-counter; /* काउंटर शुरू करें */
+}
+
+.options button::before {
+    counter-increment: option-counter;
+    content: counter(option-counter, upper-alpha) ") "; /* A), B) आदि दिखाएगा */
+    margin-right: 10px;
+    font-weight: bold;
+    color: #555;
+}
+
+/* जब बटन सही या गलत हो, तो अक्षर का रंग सफ़ेद कर दें */
+.correct::before, .wrong::before {
+    color: white !important;
+}
+
+@media (max-width: 600px) {
+    .options button {
+        font-size: 14px;
+        padding: 12px;
+    }
+    h2 { font-size: 1.2rem; }
 }

@@ -1,46 +1,17 @@
-function toggleMenu() {
-const nav = document.getElementById("navLinks");
-nav.classList.toggle("active");
-}
-
-
-function toggleSearch() {
-    const searchBox = document.getElementById("searchBox");
-    searchBox.classList.toggle("active");
-    
-    // अगर सर्च बॉक्स खुल जाए, तो ऑटोमैटिक कर्सर वहां चला जाए
-    if (searchBox.classList.contains("active")) {
-        searchBox.querySelector("input").focus();
-    }
-}
-
-
-fetch("latest-letter.html")
-.then(response => response.text())
-.then(data => {
-const letterBox = document.getElementById("latestLetter");
-
-if (letterBox && data) {
-  letterBox.innerHTML = data;
-}
-});
-
-
-
+// Global variables
 let currentQuestion = 0;
 let score = 0;
 let timer;
 let timeLeft = 30;
 let questions = [];
+let chapterData = null;
 
-// 🔊 sound
+// Sound
 const correctSound = new Audio("correct.mp3");
 const wrongSound = new Audio("wrong.mp3");
 
-// 👇 URL से chapter detect
+// URL से chapter detect
 const page = window.location.pathname;
-
-
 let chapter = "chapter06"; // default
 let currentSection = "section1";
 
@@ -48,113 +19,93 @@ if (page.includes("05")) chapter = "chapter05";
 else if (page.includes("06")) chapter = "chapter06";
 else if (page.includes("07")) chapter = "chapter07";
 
-// 👇 fetch system
+
+
+
+// 1. Load questions from JSON
 fetch("mcq.json")
   .then(res => res.json())
   .then(data => {
-
-    const chapterData = data.class6[chapter];
+    chapterData = data.class6[chapter];
 
     if (!chapterData) {
-      document.getElementById("mcq-container").innerHTML =
-        "<p>❌ Chapter not found</p>";
+      document.getElementById("mcq-container").innerHTML = "<p>❌ Chapter not found</p>";
       return;
     }
 
-    // 🔥 अगर section structure है
-    if (chapterData.section1) {
-      window.chapterData = chapterData;
-      questions = chapterData[currentSection];
-    } else {
-      // 🔥 old structure (backup support)
+    // JSON स्ट्रक्चर के हिसाब से डेटा सेट करना
+    if (Array.isArray(chapterData)) {
       questions = chapterData;
+    } else {
+      questions = chapterData[currentSection] || [];
     }
 
-    // ✅ load first question
-    loadQuestion();
-
-    // 👇 debug
-    console.log("Data:", data);
-    console.log("Chapter:", chapter);
-    console.log("Questions:", questions);
-
+    if (questions.length > 0) {
+      loadQuestion();
+    }
   })
-  .catch(err => console.log(err));
-
-
-// 🔥 Section switch function
-function loadSection(sectionName) {
-  currentSection = sectionName;
-  currentQuestion = 0;
-  score = 0;
-
-  questions = chapterData[sectionName];
-
-  loadQuestion();
-  updateProgress();
-}
-
-
-// 🔥 Progress function
-function updateProgress() {
-
-  if (!questions || questions.length === 0) return;
-
-  const percent = ((currentQuestion + 1) / questions.length) * 100;
-
-  document.getElementById("progress-bar").style.width = percent + "%";
-  document.getElementById("progress-text").innerText =
-    "Progress: " + Math.round(percent) + "%";
-}
+  .catch(err => console.error("Error loading JSON:", err));
 
 
 
+
+// 2. Load individual question
 function loadQuestion() {
-  clearInterval(timer);
+  if (timer) clearInterval(timer);
   timeLeft = 30;
-  startTimer();
-
-  const container = document.getElementById("mcq-container");
-
-  if (!container) {
-    console.log("❌ mcq-container नहीं मिला");
-    return;
-  }
-
-  // 🔥 safety check
-  if (!questions || questions.length === 0) {
-    container.innerHTML = "<p>❌ Questions not available</p>";
-    return;
-  }
-
+  startTimer(); // यहाँ कॉल हो रहा है
+  
   const q = questions[currentQuestion];
-
-  if (!q) {
-    container.innerHTML = "<p>❌ Question load नहीं हुआ</p>";
-    return;
-  }
-
-  // 🔥 options HTML generate
-  let optionsHTML = "";
+  if (!q) return;
+  
+  updateProgress();
+  document.getElementById("score").innerText = "Score: " + score;
+  
+  const container = document.getElementById("mcq-container");
+  if (!container) return;
+  
+  let optionsHtml = "";
   q.options.forEach(opt => {
-    optionsHTML += `<button class="option-btn" onclick="checkAnswer(this, '${opt}', '${q.answer}')">${opt}</button>`;
+    // JSON में 'answer' की (key) है, इसलिए q.answer भेजा
+    optionsHtml += `
+      <button onclick="checkAnswer(this, '${opt}', '${q.answer}')">
+        ${opt}
+      </button>
+    `;
   });
-
-  // 🔥 main HTML
+  
   container.innerHTML = `
-    <div class="mcq">
-      <p class="question"><strong>Q${currentQuestion + 1}. ${q.q}</strong></p>
-      
-      <div id="options">
-        ${optionsHTML}
+    <div class="question-box">
+      <h3>Question ${currentQuestion + 1}/${questions.length}</h3>
+      <p>${q.q}</p> 
+      <div class="options">
+        ${optionsHtml}
       </div>
-
-      <p id="result"></p>
     </div>
   `;
+}
 
-  // 🔥 progress update (important)
-  updateProgress();
+
+
+
+// 3. Start Timer Function (यह सबसे ज़रूरी है)
+function startTimer() {
+  const timerElement = document.getElementById("timer");
+  if (!timerElement) return;
+
+  timerElement.innerText = `Time: ${timeLeft}s`;
+
+  timer = setInterval(() => {
+    timeLeft--;
+    timerElement.innerText = `Time: ${timeLeft}s`;
+
+    if (timeLeft <= 0) {
+      clearInterval(timer);
+      const buttons = document.querySelectorAll(".options button");
+      buttons.forEach(btn => btn.disabled = true);
+      setTimeout(nextQuestion, 1000);
+    }
+  }, 1000);
 }
 
 
@@ -162,106 +113,77 @@ function loadQuestion() {
 
 function checkAnswer(btn, selected, correct) {
   const buttons = btn.parentElement.querySelectorAll("button");
-
-  // सभी buttons disable करें
   buttons.forEach(b => b.disabled = true);
 
-  if (selected === correct) {
+  // फीडबैक मैसेज के लिए एक नया एलिमेंट बनाएँ
+  const feedback = document.createElement("p");
+  feedback.id = "feedback-msg";
+  feedback.style.fontWeight = "bold";
+  feedback.style.marginTop = "10px";
+  feedback.style.textAlign = "center";
+
+  if (String(selected) === String(correct)) {
     btn.classList.add("correct");
-    correctSound.play();
+    feedback.innerText = "बहुत बढ़िया! ✅";
+    feedback.style.color = "#28a745"; // हरा रंग
+    if(correctSound) correctSound.play();
     score++;
   } else {
     btn.classList.add("wrong");
-    wrongSound.play();
-
-    // सही answer highlight करें
+    feedback.innerText = "गलत जवाब! ❌ सही उत्तर: " + correct;
+    feedback.style.color = "#dc3545"; // लाल रंग
+    if(wrongSound) wrongSound.play();
+    
+    // सही उत्तर वाले बटन को भी हाईलाइट करें
     buttons.forEach(b => {
-      if (b.innerText === correct) {
+      if (String(b.innerText).trim() === String(correct).trim()) {
         b.classList.add("correct");
       }
     });
   }
 
-  document.getElementById("score").innerText = "Score: " + score;
+  // मैसेज को स्क्रीन पर दिखाएँ
+  document.querySelector(".question-box").appendChild(feedback);
 
-  // ⏭️ 2 सेकंड बाद next question
+  document.getElementById("score").innerText = "Score: " + score;
+  if (timer) clearInterval(timer);
+  
+  // 2 सेकंड बाद अगले प्रश्न पर जाएँ
   setTimeout(nextQuestion, 2000);
 }
 
 
 
+
+
+// 5. Next Question
 function nextQuestion() {
   currentQuestion++;
-
   if (currentQuestion < questions.length) {
     loadQuestion();
   } else {
-
-    // ✅ पहले update करें
-    const progressBar = document.getElementById("progress-bar");
-    const progressText = document.getElementById("progress-text");
-
-    if (progressBar) progressBar.style.width = "100%";
-    if (progressText) progressText.innerText = "Completed ✅";
-
-    // ✅ फिर result दिखाएँ
-    const total = questions.length;
-    const percentage = Math.round((score / total) * 100);
-
-    let grade = percentage >= 90 ? "Excellent 🏆"
-              : percentage >= 60 ? "Good 👍"
-              : "Try Again 😅";
-
-    // ✅ new result UI
-    document.getElementById("mcq-container").innerHTML = `
-      <div class="result-box">
-        <h2>🎉 Quiz Finished</h2>
-        <p><strong>Score:</strong> ${score}/${total}</p>
-        <p><strong>Percentage:</strong> ${percentage}%</p>
-        <p><strong>Grade:</strong> ${grade}</p>
-
-        <button onclick="location.reload()">🔄 Restart Quiz</button>
-      </div>
-    `;
+    showResult();
   }
 }
-  
-if (currentQuestion >= questions.length) {
 
-  // 🔥 current section button को green करो
-  const activeBtn = document.querySelector(".section-buttons button.active");
-  if (activeBtn) {
-    activeBtn.classList.remove("active");
-    activeBtn.classList.add("completed");
-  }
-
-  alert("Section Completed ✅");
-}
-
-
-
-
-function startTimer() {
-  document.getElementById("timer").innerText = `Time: ${timeLeft}s`;
-
-  timer = setInterval(() => {
-    timeLeft--;
-    document.getElementById("timer").innerText = `Time: ${timeLeft}s`;
-
-    if (timeLeft === 0) {
-      clearInterval(timer);
-      nextQuestion();
-    }
-  }, 1000);
-}
-
+// 6. Show Result
 function showResult() {
-  const container = document.getElementById("mcq-container");
+  const total = questions.length;
+  const percentage = Math.round((score / total) * 100);
+  let grade = percentage >= 60 ? "Good 👍" : "Try Again 😅";
 
-  container.innerHTML = `
-    <h2>🎉 Quiz Complete!</h2>
-    <h3>Score: ${score} / ${questions.length}</h3>
+  document.getElementById("mcq-container").innerHTML = `
+    <div class="result-box">
+      <h2>🎉 Quiz Finished</h2>
+      <p>Score: ${score}/${total}</p>
+      <button onclick="location.reload()">🔄 Restart Quiz</button>
+    </div>
   `;
 }
 
-
+// 7. Update Progress
+function updateProgress() {
+  const percent = ((currentQuestion + 1) / questions.length) * 100;
+  const progressBar = document.getElementById("progress-bar");
+  if (progressBar) progressBar.style.width = percent + "%";
+}
