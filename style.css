@@ -871,51 +871,78 @@ button.wrong {
     left: 25%;
 }
 
+
+/* --- न्यू मॉडर्न क्लास कार्ड्स स्टाइल --- */
 .class-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); /* ऑटोमैटिक एडजस्ट */
-    gap: 20px;
-    max-width: 1000px;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 25px;
+    padding: 20px;
+    max-width: 1100px;
     margin: 0 auto;
 }
 
-/* क्लास कार्ड्स को सुंदर बनाना */
 .class-card {
-    background: linear-gradient(145deg, #ffffff, #f0f0f0);
+    position: relative;
+    background: #ffffff; /* डिफ़ॉल्ट सफ़ेद बैकग्राउंड */
     border: 2px solid #0044cc;
     color: #0044cc;
-    padding: 30px 20px;
+    padding: 40px 20px;
+    text-align: center;
     text-decoration: none;
-    font-size: 1.2rem;
-    font-weight: bold;
-    border-radius: 15px;
-    transition: all 0.3s ease;
-    box-shadow: 5px 5px 15px rgba(0,0,0,0.05);
+    font-size: 1.4rem;
+    font-weight: 800;
+    border-radius: 20px; /* ज़्यादा गोल कोने */
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275); /* स्मूथ बाउंस इफेक्ट */
+    box-shadow: 0 8px 20px rgba(0,0,0,0.06);
     display: flex;
     align-items: center;
     justify-content: center;
+    overflow: hidden;
+    z-index: 1;
 }
 
-/* माउस ले जाने पर चमक और उभार */
+/* माउस ले जाने पर (Hover Effect) */
 .class-card:hover {
-    background: #0044cc;
-    color: #ffffff;
-    transform: translateY(-5px);
-    box-shadow: 0 10px 20px rgba(0,68,204,0.2);
+    transform: translateY(-12px) scale(1.03); /* ऊपर उठना और थोड़ा बड़ा होना */
+    box-shadow: 0 15px 35px rgba(0,68,204,0.2);
+    color: #ffffff !important; /* टेक्स्ट सफ़ेद हो जाएगा */
 }
 
-/* हर क्लास के लिए अलग बॉर्डर रंग (Optional) */
-.class-card:nth-child(1) { border-color: #FF5733; color: #FF5733; } /* Class 6 - Red */
-.class-card:nth-child(2) { border-color: #28A745; color: #28A745; } /* Class 7 - Green */
-.class-card:nth-child(3) { border-color: #007BFF; color: #007BFF; } /* Class 8 - Blue */
-.class-card:nth-child(4) { border-color: #6F42C1; color: #6F42C1; } /* Class 9 - Purple */
-.class-card:nth-child(5) { border-color: #FD7E14; color: #FD7E14; } /* Class 10 - Orange */
-
-/* होवर करने पर टेक्स्ट सफ़ेद हो जाए */
-.class-card:hover {
-    color: #fff !important;
+/* बटन के अंदर बैकग्राउंड चमक (Hover Background) */
+.class-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #0044cc; /* होवर करने पर नीला रंग */
+    z-index: -1;
+    transform: scaleX(0); /* शुरू में छुपा रहेगा */
+    transform-origin: right;
+    transition: transform 0.4s ease-in-out;
 }
-/* -
+
+.class-card:hover::before {
+    transform: scaleX(1); /* माउस ले जाने पर रंग फैलेगा */
+    transform-origin: left;
+}
+
+/* --- हर क्लास के लिए अलग रंग (Optional) --- */
+/* अगर आप चाहते हैं कि हर क्लास का होवर रंग अलग हो, तो इसे इस्तेमाल करें */
+.class-card:nth-child(1):hover::before { background: #e74c3c; } /* Class 6 - Red */
+.class-card:nth-child(2):hover::before { background: #2ecc71; } /* Class 7 - Green */
+.class-card:nth-child(3):hover::before { background: #3498db; } /* Class 8 - Blue */
+.class-card:nth-child(4):hover::before { background: #9b59b6; } /* Class 9 - Purple */
+.class-card:nth-child(5):hover::before { background: #f39c12; } /* Class 10 - Orange */
+
+/* बॉर्डर का रंग भी होवर पर बदलें */
+.class-card:nth-child(1):hover { border-color: #e74c3c; }
+.class-card:nth-child(2):hover { border-color: #2ecc71; }
+.class-card:nth-child(3):hover { border-color: #3498db; }
+.class-card:nth-child(4):hover { border-color: #9b59b6; }
+.class-card:nth-child(5):hover { border-color: #f39c12; }
 
 /* --- फूटर सुधार (CSS) --- */
 .main-footer {
@@ -1027,4 +1054,31 @@ button.wrong {
     .social-icons {
         align-items: center;
     }
+}
+
+
+/* Latest Letters Styling */
+.letter-box-modern {
+    background: #fdfdfd;
+    border-left: 5px solid #d32f2f; /* लाल रंग की साइड लाइन */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+}
+
+.view-all-btn {
+    display: inline-block;
+    padding: 12px 25px;
+    background-color: #0044cc;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+.view-all-btn:hover {
+    background-color: #002266;
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(0,68,204,0.3);
 }
