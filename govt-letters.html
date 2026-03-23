@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Govt. Letters - SciTech Bihar</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/png" href="logo.png">
+    <style>
+        /* इस पेज के लिए खास स्टाइल */
+        .letters-page-container { max-width: 1100px; margin: 40px auto; padding: 20px; }
+        .page-header { text-align: center; margin-bottom: 40px; }
+        .page-header h1 { color: #002266; font-size: 2.2rem; }
+        
+        .search-filter { margin-bottom: 30px; display: flex; justify-content: center; }
+        .search-filter input { 
+            width: 100%; max-width: 500px; padding: 12px 20px; 
+            border: 2px solid #0044cc; border-radius: 50px; font-size: 1rem;
+        }
+
+        .letters-table-container { overflow-x: auto; background: white; border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.05); }
+        table { width: 100%; border-collapse: collapse; min-width: 600px; }
+        th, td { padding: 15px; text-align: left; border-bottom: 1px solid #eee; }
+        th { background-color: #0044cc; color: white; font-weight: bold; }
+        tr:hover { background-color: #f9f9f9; }
+        
+        .pdf-link { 
+            background: #d32f2f; color: white !important; padding: 6px 12px; 
+            border-radius: 4px; text-decoration: none; font-size: 0.9rem; font-weight: bold;
+        }
+        .pdf-link:hover { background: #b71c1c; }
+    </style>
+</head>
+<body>
+
+    
+    <nav class="navbar">
+        <div class="logo">SciTech Bihar</div>
+
+        <div class="search-container">
+            <button class="search-icon" onclick="toggleSearch()">🔍</button>
+            
+            <div class="search-box" id="searchBox">
+                <input type="text" placeholder="Search...">
+            </div>
+        </div>
+
+
+    <ul class="nav-links" id="navLinks">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Govt Letters</a></li>
+        <li><a href="#">Study Material</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="#">YouTube</a></li>
+        <li><a href="#">Contact</a></li>
+    </ul>
+    <div class="hamburger" onclick="toggleMenu()">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+</nav>
+
+    <div class="letters-page-container">
+        <div class="page-header">
+            <h1>📄 बिहार सरकार के महत्वपूर्ण पत्र</h1>
+            <p>यहाँ आप शिक्षा विभाग, DEO सीवान और अन्य महत्वपूर्ण आदेशों को डाउनलोड कर सकते हैं।</p>
+        </div>
+
+        <div class="search-filter">
+            <input type="text" id="letterSearch" placeholder="पत्र का नाम या दिनांक खोजें..." onkeyup="filterLetters()">
+        </div>
+
+        <div class="letters-table-container">
+            <table id="lettersTable">
+                <thead>
+                    <tr>
+                        <th>दिनांक</th>
+                        <th>पत्र का विषय (Subject)</th>
+                        <th>विभाग</th>
+                        <th>डाउनलोड</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>20-03-2026</td>
+                        <td>DEO Siwan: मासिक मूल्यांकन एवं बैठक पत्र</td>
+                        <td>DEO Siwan</td>
+                        <td><a href="letters/deo-march.pdf" class="pdf-link" target="_blank">PDF</a></td>
+                    </tr>
+                    <tr>
+                        <td>12-01-2026</td>
+                        <td>शीतलहर के कारण विद्यालय अवकाश सूचना</td>
+                        <td>DM Siwan</td>
+                        <td><a href="letters/cold-wave-leave.pdf" class="pdf-link" target="_blank">PDF</a></td>
+                    </tr>
+                    <tr>
+                        <td>15-12-2025</td>
+                        <td>शिक्षा विभाग: नया परीक्षा कैलेंडर 2026</td>
+                        <td>Education Dept.</td>
+                        <td><a href="letters/exam-calendar.pdf" class="pdf-link" target="_blank">PDF</a></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        // सर्च फिल्टर काम करने के लिए छोटा सा फंक्शन
+        function filterLetters() {
+            let input = document.getElementById('letterSearch');
+            let filter = input.value.toUpperCase();
+            let table = document.getElementById('lettersTable');
+            let tr = table.getElementsByTagName('tr');
+
+            for (let i = 1; i < tr.length; i++) {
+                let td = tr[i].getElementsByTagName('td')[1]; // विषय वाला कॉलम
+                if (td) {
+                    let textValue = td.textContent || td.innerText;
+                    if (textValue.toUpperCase().indexOf(filter) > -1) {
+                        tr[i].style.display = "";
+                    } else {
+                        tr[i].style.display = "none";
+                    }
+                }
+            }
+        }
+    </script>
+</body>
+</html>
