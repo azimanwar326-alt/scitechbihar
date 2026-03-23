@@ -844,3 +844,74 @@ button.wrong {
     }
     h2 { font-size: 1.2rem; }
 }
+
+/* Study Material Section Styling */
+.study-material {
+    padding: 50px 20px;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+.study-material h2 {
+    font-size: 2rem;
+    color: #002266;
+    margin-bottom: 30px;
+    position: relative;
+    display: inline-block;
+}
+
+/* हेडिंग के नीचे एक छोटी लाइन */
+.study-material h2::after {
+    content: '';
+    width: 50%;
+    height: 3px;
+    background: #ffd700;
+    position: absolute;
+    bottom: -10px;
+    left: 25%;
+}
+
+.class-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); /* ऑटोमैटिक एडजस्ट */
+    gap: 20px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+/* क्लास कार्ड्स को सुंदर बनाना */
+.class-card {
+    background: linear-gradient(145deg, #ffffff, #f0f0f0);
+    border: 2px solid #0044cc;
+    color: #0044cc;
+    padding: 30px 20px;
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: bold;
+    border-radius: 15px;
+    transition: all 0.3s ease;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.05);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* माउस ले जाने पर चमक और उभार */
+.class-card:hover {
+    background: #0044cc;
+    color: #ffffff;
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,68,204,0.2);
+}
+
+/* हर क्लास के लिए अलग बॉर्डर रंग (Optional) */
+.class-card:nth-child(1) { border-color: #FF5733; color: #FF5733; } /* Class 6 - Red */
+.class-card:nth-child(2) { border-color: #28A745; color: #28A745; } /* Class 7 - Green */
+.class-card:nth-child(3) { border-color: #007BFF; color: #007BFF; } /* Class 8 - Blue */
+.class-card:nth-child(4) { border-color: #6F42C1; color: #6F42C1; } /* Class 9 - Purple */
+.class-card:nth-child(5) { border-color: #FD7E14; color: #FD7E14; } /* Class 10 - Orange */
+
+/* होवर करने पर टेक्स्ट सफ़ेद हो जाए */
+.class-card:hover {
+    color: #fff !important;
+}
