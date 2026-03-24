@@ -1082,3 +1082,53 @@ button.wrong {
     transform: translateY(-2px);
     box-shadow: 0 5px 15px rgba(0,68,204,0.3);
 }
+
+/* सरकारी लेटर्स की लिस्ट के लिए */
+.letter-item {
+    background: #ffffff;
+    border: 1px solid #ddd;
+    margin-bottom: 12px;
+    padding: 15px 20px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: 0.3s;
+}
+
+.letter-item:hover {
+    border-color: #0044cc;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    transform: translateX(5px); /* हल्का सा दाईं ओर खिसकना */
+}
+
+.pdf-btn {
+    background: #d32f2f;
+    color: white !important;
+    padding: 8px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 0.85rem;
+    font-weight: bold;
+}
+
+.pdf-btn:hover {
+    background: #b71c1c;
+}
+
+/* मोबाइल के लिए */
+@media (max-width: 600px) {
+    .letter-item {
+        flex-direction: column;
+        text-align: center;
+        gap: 10px;
+    }
+}
+
+.section-buttons button.completed {
+    background-color: #28a745 !important; /* Green */
+    color: white;
+}
+.section-buttons button.active {
+    background-color: #ff9800 !important; /* Orange */
+}
