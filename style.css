@@ -1132,3 +1132,14 @@ button.wrong {
 .section-buttons button.active {
     background-color: #ff9800 !important; /* Orange */
 }
+
+.visitor-counter {
+  margin-top: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  border: 1px solid #ccc;
+}
+
+.visitor-counter span#count {
+  font-family: 'Courier New', Courier, monospace; /* थोड़ा डिजिटल लुक के लिए */
+  letter-spacing: 1px;
+}

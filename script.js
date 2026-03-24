@@ -197,6 +197,7 @@ function nextQuestion() {
 }
 
 
+
 // 6. Show Result (Updated Version)
 function showResult() {
   const total = questions.length;
@@ -240,10 +241,25 @@ function loadNextSection(nextSectionName) {
 
 
 
-
 // 7. Update Progress
 function updateProgress() {
   const percent = ((currentQuestion + 1) / questions.length) * 100;
   const progressBar = document.getElementById("progress-bar");
   if (progressBar) progressBar.style.width = percent + "%";
 }
+
+
+
+
+// इसे बदलें
+const namespace = "my-unique-quiz-2026-xyz-123"; 
+
+fetch(`https://api.countapi.xyz/hit/${namespace}/visits`)
+  .then(res => res.json())
+  .then(data => {
+    document.getElementById('count').innerText = data.value;
+  })
+  .catch(err => {
+    // यहाँ आप '0' भी लिख सकते हैं अगर आप चाहते हैं कि फेल होने पर 0 दिखे
+    document.getElementById('count').innerText = "1"; 
+  });
