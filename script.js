@@ -196,20 +196,50 @@ function nextQuestion() {
   }
 }
 
-// 6. Show Result
+
+// 6. Show Result (Updated Version)
 function showResult() {
   const total = questions.length;
   const percentage = Math.round((score / total) * 100);
-  let grade = percentage >= 60 ? "Good 👍" : "Try Again 😅";
+  let grade = percentage >= 60 ? "शानदार! 👍" : "फिर से कोशिश करें 😅";
 
-  document.getElementById("mcq-container").innerHTML = `
+  // पता करें कि अगला सेक्शन कौन सा है (जैसे section1 -> section2)
+  const currentNum = parseInt(currentSection.replace('section', ''));
+  const nextSectionName = 'section' + (currentNum + 1);
+  
+  // चेक करें कि क्या अगला सेक्शन JSON डेटा में है
+  const hasNextSection = window.chapterData && window.chapterData[nextSectionName];
+
+  let resultHtml = `
     <div class="result-box">
-      <h2>🎉 Quiz Finished</h2>
-      <p>Score: ${score}/${total}</p>
-      <button onclick="location.reload()">🔄 Restart Quiz</button>
-    </div>
+      <h2>🎉 ${grade}</h2>
+      <p style="font-size: 1.2rem; margin: 10px 0;">आपका स्कोर: <b>${score} / ${total}</b> (${percentage}%)</p>
+      
+      <div class="result-buttons" style="display: flex; gap: 10px; justify-content: center; margin-top: 20px;">
+        <button onclick="location.reload()" style="background:#6c757d;">🔄 Restart</button>
   `;
+
+  // अगर अगला सेक्शन मौजूद है, तो ही "Next Section" बटन दिखाएँ
+  if (hasNextSection) {
+    resultHtml += `
+      <button onclick="loadNextSection('${nextSectionName}')" style="background:#28a745;">
+        Next Section ➡️
+      </button>`;
+  }
+
+  resultHtml += `</div></div>`;
+  document.getElementById("mcq-container").innerHTML = resultHtml;
 }
+
+// अगला सेक्शन लोड करने के लिए नया फंक्शन
+function loadNextSection(nextSectionName) {
+    // UI में बटन को ढूंढें ताकि उसे 'active' कर सकें
+    const nextBtn = document.querySelector(`button[onclick*="'${nextSectionName}'"]`);
+    loadSection(nextSectionName, nextBtn);
+}
+
+
+
 
 // 7. Update Progress
 function updateProgress() {
