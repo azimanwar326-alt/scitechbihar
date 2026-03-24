@@ -1143,3 +1143,18 @@ button.wrong {
   font-family: 'Courier New', Courier, monospace; /* थोड़ा डिजिटल लुक के लिए */
   letter-spacing: 1px;
 }
+
+
+.pdf-link {
+    background-color: #dc3545; /* लाल रंग */
+    color: white;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.pdf-link:hover {
+    background-color: #c82333;
+    color: white;
+}
