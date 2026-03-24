@@ -26,22 +26,26 @@ else if (page.includes("07")) chapter = "chapter07";
 fetch("mcq.json")
   .then(res => res.json())
   .then(data => {
-    chapterData = data.class6[chapter];
+    window.chapterData = data.class6[chapter];
 
-    if (!chapterData) {
+    if (!window.chapterData) {
       document.getElementById("mcq-container").innerHTML = "<p>❌ Chapter not found</p>";
       return;
     }
 
     // JSON स्ट्रक्चर के हिसाब से डेटा सेट करना
-    if (Array.isArray(chapterData)) {
-      questions = chapterData;
+    if (Array.isArray(window.chapterData)) {
+      questions = window.chapterData;
     } else {
-      questions = chapterData[currentSection] || [];
+      questions = window.chapterData[currentSection] || [];
     }
 
     if (questions.length > 0) {
       loadQuestion();
+
+      // पहले बटन को active दिखाने के लिए (Optional)
+      const firstBtn = document.querySelector(".section-buttons button");
+      if(firstBtn) firstBtn.classList.add("active");
     }
   })
   .catch(err => console.error("Error loading JSON:", err));
@@ -59,8 +63,12 @@ function loadQuestion() {
   if (!q) return;
   
   updateProgress();
-  document.getElementById("score").innerText = "Score: " + score;
-  
+ 
+  // 🔥 यहाँ बदलाव करें
+  const scoreElem = document.getElementById("score");
+  if (scoreElem) {
+    scoreElem.innerText = "Score: " + score;
+  }
   const container = document.getElementById("mcq-container");
   if (!container) return;
   
@@ -83,6 +91,28 @@ function loadQuestion() {
       </div>
     </div>
   `;
+}
+
+
+
+
+function loadSection(sectionName, btn) {
+    // 1. पुराने 'active' बटन से हाईलाइट हटाएँ
+    document.querySelectorAll(".section-buttons button").forEach(b => {
+        b.classList.remove("active");
+    });
+
+    // 2. अभी वाले बटन को 'active' (Orange) बनाएँ
+    btn.classList.add("active");
+
+    // 3. डेटा सेट करें
+    currentSection = sectionName;
+    currentQuestion = 0;
+    score = 0;
+    questions = window.chapterData[sectionName];
+    
+    // 4. पहला सवाल लोड करें
+    loadQuestion();
 }
 
 
