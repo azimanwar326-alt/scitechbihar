@@ -1,3 +1,15 @@
+function toggleMenu() {
+    // 1. Toggle a class on the icon itself for animation
+    const icon = document.querySelector('.hamburger');
+    icon.classList.toggle('open');
+
+    // 2. Logic to show/hide your actual menu
+    const navLinks = document.querySelector('.nav-links'); // Replace with your menu's class
+    navLinks.classList.toggle('active');
+}
+
+
+
 // Global variables
 let currentQuestion = 0;
 let score = 0;
