@@ -27,7 +27,8 @@ const page = window.location.pathname;
 let chapter = "chapter06"; // default
 let currentSection = "section1";
 
-if (page.includes("02")) chapter = "chapter02";
+if (page.includes("01")) chapter = "chapter01";
+else if (page.includes("02")) chapter = "chapter02";
 else if (page.includes("03")) chapter = "chapter03";
 else if (page.includes("04")) chapter = "chapter04";
 else if (page.includes("05")) chapter = "chapter05";
