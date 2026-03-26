@@ -198,6 +198,12 @@ Watch on YouTube & Subscribe
     <span id="count" style="font-weight: bold; color: #0b3d91;">लोड हो रहा है...</span>
   </div>
 </footer>
+<script>
+  function cb(response) {
+      document.getElementById('count').innerText = response.value;
+  }
+</script>
+<script async src="https://api.countapi.xyz/hit/scitechbihar/visits?callback=cb"></script>
 
 <script src="script.js"></script>
 </body>
