@@ -34,6 +34,7 @@ else if (page.includes("04")) chapter = "chapter04";
 else if (page.includes("05")) chapter = "chapter05";
 else if (page.includes("06")) chapter = "chapter06";
 else if (page.includes("07")) chapter = "chapter07";
+else if (page.includes("08")) chapter = "chapter08";
 
 
 
@@ -42,6 +43,9 @@ else if (page.includes("07")) chapter = "chapter07";
 fetch("mcq.json")
   .then(res => res.json())
   .then(data => {
+
+    
+
     window.chapterData = data.class6[chapter];
 
     if (!window.chapterData) {
