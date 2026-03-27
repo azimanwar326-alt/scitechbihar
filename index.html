@@ -193,17 +193,25 @@ Watch on YouTube & Subscribe
 <footer style="text-align: center; padding: 20px; margin-top: 50px; border-top: 1px solid #ddd;">
   <p>© 2026 Quiz Portal | सभी अधिकार सुरक्षित</p>
   
+<footer style="text-align: center; padding: 20px; margin-top: 50px; border-top: 1px solid #ddd;">
+  <p>© 2026 Quiz Portal | सभी अधिकार सुरक्षित</p>
+
   <div class="visitor-counter" style="display: inline-flex; align-items: center; gap: 10px; background: #f0f0f0; padding: 5px 15px; border-radius: 20px; font-size: 0.9rem;">
     <span>👥 कुल विज़िटर्स:</span>
     <span id="count" style="font-weight: bold; color: #0b3d91;">लोड हो रहा है...</span>
   </div>
 </footer>
+
 <script>
-  function cb(response) {
-      document.getElementById('count').innerText = response.value;
-  }
+fetch('https://api.countapi.xyz/hit/quiz-portal/visits')
+  .then(res => res.json())
+  .then(res => {
+    document.getElementById('count').innerText = res.value;
+  })
+  .catch(() => {
+    document.getElementById('count').innerText = "Error";
+  });
 </script>
-<script async src="https://api.countapi.xyz/hit/scitechbihar/visits?callback=cb"></script>
 
 <script src="script.js"></script>
 </body>
