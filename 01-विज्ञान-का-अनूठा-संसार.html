@@ -10,43 +10,44 @@
   <link rel="stylesheet" href="style.css">
 </head>
 
-<body data-page="chapter01">
+<body data-page="chapter07">
 
-  <!-- Chapter Heading -->
-<h2>📏 Chapter 01 विज्ञान का अनूठा संसार</h2>
+  <h2>📏 Chapter 01 विज्ञान का अनूठा संसार </h2>
 
-<!-- Language Toggle Button -->
-<div class="language-toggle-container">
-    <button id="lang-toggle" onclick="toggleLanguage()">
-        🇬🇧 English
-    </button>
+  
+<div id="mcq-container">
+  <h2 id="question"></h2>
+  <div id="options"></div>
 </div>
 
-<!-- Score, Timer and Progress -->
-<div class="quiz-info">
-    <div class="score-time">
-        <p><strong>Score:</strong> <span id="score">0</span></p>
-        <p><strong>Time:</strong> <span id="timer">30s</span></p>
+<button onclick="toggleLang()">🌐 Change Language</button>
+
+
+  <section class="mcq-section">
+
+    <h3>📚 50 महत्वपूर्ण MCQ</h3>
+
+    <h3 id="score">Score: 0</h3>
+    <h3 id="timer">Time: 30s</h3>
+
+    <!-- 🔥 Progress Bar -->
+    <div style="width:100%; background:#ddd; height:10px;">
+      <div id="progress-bar" style="width:0%; height:10px; background:green;"></div>
     </div>
-    
-    <!-- Progress Bar -->
-    <div class="progress-container">
-        <div id="progress-bar" class="progress-bar"></div>
+    <p id="progress-text">Progress: 0%</p>
+
+    <!-- 🔥 Section Buttons -->
+    <div class="section-buttons">
+      <button onclick="loadSection('section1', this)">Section 1</button>
+      <button onclick="loadSection('section2', this)">Section 2</button>
+      <button onclick="loadSection('section3', this)">Section 3</button>
+      <button onclick="loadSection('section4', this)">Section 4</button>
+      <button onclick="loadSection('section5', this)">Section 5</button>
+      <button onclick="loadSection('section5', this)">Section 6</button>
     </div>
-    <p class="progress-text">Progress: <span id="progress-text">0%</span></p>
-</div>
 
-<!-- Section Buttons -->
-<div class="section-buttons">
-    <button onclick="loadSection('section1', this)" class="section-btn active">Section 1</button>
-    <button onclick="loadSection('section2', this)" class="section-btn">Section 2</button>
-    <button onclick="loadSection('section3', this)" class="section-btn">Section 3</button>
-    <button onclick="loadSection('section4', this)" class="section-btn">Section 4</button>
-    <button onclick="loadSection('section5', this)" class="section-btn">Section 5</button>
-</div>
-
-<!-- MCQ Container -->
-<div id="mcq-container"></div>
+    <!-- 👇 MCQ यहीं दिखेंगे -->
+    <div id="mcq-container"></div>
 
     <button id="nextBtn" onclick="nextQuestion()" style="display:none;">
       Next Question
