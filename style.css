@@ -559,11 +559,11 @@ h1, h2 {
   color: #2c3e50;
 }
 
-.mcq {
+.mcq-bilingual {
   text-align: center;
 }
 
-.mcq button {
+.mcq-bilingual button {
   display: block;
   width: 60%;
   margin: 10px auto;
@@ -571,7 +571,7 @@ h1, h2 {
   border-radius: 8px;
 }
 
-.mcq button:hover {
+.mcq-bilingual button:hover {
   background-color: #f0f0f0;
 }
 
@@ -601,7 +601,7 @@ h1, h2 {
   cursor: pointer;
 }
 
-#mcq-container .mcq button {
+#mcq-bilingual-container .mcq-bilingual button {
   display: block !important;
   width: 100% !important;
   margin: 10px 0 !important;
@@ -1121,17 +1121,4 @@ button.wrong {
 .pdf-link:hover {
     background-color: #c82333;
     color: white;
-}
-
-
-#options button {
-  display: block;
-  width: 100%;
-  margin: 8px 0;
-  padding: 10px;
-  font-size: 16px;
-  text-align: left;
-  border-radius: 6px;
-  border: 1px solid #ccc;
-  cursor: pointer;
 }
