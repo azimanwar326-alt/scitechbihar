@@ -1,152 +1,237 @@
-// 1. सेटिंग्स और वेरिएबल्स
-let lang = "hi"; 
-let currentQuestion = 0;
+/**
+ * SciTech Bihar - Bilingual MCQ Quiz Engine
+ * सभी सेटिंग्स mcq-bilingual.json के अनुसार अपडेट की गई हैं।
+ */
+
+// 1. ग्लोबल वेरिएबल्स
+let currentLang = "hi"; 
+let questions = [];     
+let currentQIdx = 0;
 let score = 0;
-let timer;
+let timerInterval;
 let timeLeft = 30;
-let questions = [];
-window.chapterData = null;
+let chapterData = null;
 
-const containerId = "mcq-bilingual-container"; // आपकी नई ID
+// HTML एलिमेंट्स (IDs)
+// हमने इसे "mcq-bilingual-container" में बदल दिया है ताकि यह आपकी HTML फाइल से मैच करे
+const containerId = "mcq-bilingual-container"; 
+const correctSound = document.getElementById("correctSound");
+const wrongSound = document.getElementById("wrongSound");
 
-// 2. डेटा लोड करना
-const chapter = document.body.getAttribute('data-page') || "chapter01";
+// 2. वर्तमान चैप्टर की पहचान (Body के data-page से)
+const chapterKey = document.body.getAttribute('data-page');
 
-fetch("./mcq-bilingual.json")
-    .then(res => {
-        if (!res.ok) throw new Error("JSON फाइल नहीं मिली");
-        return res.json();
+console.log("Loading Chapter:", chapterKey);
+
+// 3. JSON डेटा लोड करना
+fetch('./mcq-bilingual.json')
+    .then(response => {
+        if (!response.ok) throw new Error("JSON फाइल लोड नहीं हो सकी!");
+        return response.json();
     })
     .then(data => {
-        console.log("डेटा सफलतापूर्वक मिला:", chapter);
-        if (data.class6 && data.class6[chapter]) {
-            window.chapterData = data.class6[chapter];
+        // 'class6' के अंदर चैप्टर की जाँच
+        if (data.class6 && data.class6[chapterKey]) {
+            chapterData = data.class6[chapterKey];
             
-            // सेक्शन्स की जाँच
-            const sections = Object.keys(window.chapterData);
-            let firstSection = sections.includes("section1") ? "section1" : sections[0];
-            
-            // शुरूआती लोड
-            window.loadSection(firstSection); 
+            // उपलब्ध सेक्शन्स की सूची (जैसे section1, section2)
+            const sections = Object.keys(chapterData);
+            if (sections.length > 0) {
+                // डिफ़ॉल्ट रूप से पहला उपलब्ध सेक्शन लोड करें
+                const defaultSection = sections.includes("section1") ? "section1" : sections[0];
+                loadSection(defaultSection);
+            }
+        } else {
+            showError(`Error: JSON में '${chapterKey}' नहीं मिला। <br> 
+                      HTML में data-page="${chapterKey}" है, कृपया JSON फाइल चेक करें।`);
         }
     })
     .catch(err => {
-        console.error("Error:", err);
-        const div = document.getElementById(containerId);
-        if(div) div.innerHTML = `<p style="color:red;">❌ डेटा लोड एरर: ${err.message}</p>`;
+        showError("Loading Error: " + err.message);
     });
 
-// 3. सेक्शन लोड करने का फंक्शन (इसे ग्लोबल रखा है)
-window.loadSection = function(sectionName, btn) {
-    if (!window.chapterData || !window.chapterData[sectionName]) return;
 
-    // बटन का रंग बदलना
+
+
+
+// 4. सेक्शन लोड करने का फंक्शन
+window.loadSection = function(sectionId, btn) {
+    if (!chapterData || !chapterData[sectionId]) return;
+
+    // बटन का एक्टिव स्टेट बदलें
     document.querySelectorAll(".section-buttons button").forEach(b => b.classList.remove("active"));
-    if (!btn) {
-        // अगर पेज पहली बार लोड हो रहा है तो सही बटन ढूंढें
-        btn = document.querySelector(`button[onclick*="'${sectionName}'"]`);
-    }
     if (btn) btn.classList.add("active");
 
-    // डेटा सेट करें
-    questions = window.chapterData[sectionName];
-    currentQuestion = 0;
+    questions = chapterData[sectionId];
+    currentQIdx = 0;
     score = 0;
+    
+    updateScoreUI();
     loadQuestion();
 };
 
-// 4. प्रश्न दिखाना
+// 5. प्रश्न को स्क्रीन पर रेंडर करना
 function loadQuestion() {
-    if (timer) clearInterval(timer);
+    if (!questions || questions.length === 0) return;
+
+    clearInterval(timerInterval);
     timeLeft = 30;
+    updateTimerUI();
     startTimer();
 
-    const q = questions[currentQuestion];
-    if (!q) return;
+    const qData = questions[currentQIdx];
+    const container = document.getElementById(containerId);
+    
+    if (!container) return;
 
-    // प्रोग्रेस बार और स्कोर
     updateProgress();
-    document.getElementById("score").innerText = "Score: " + score;
 
-    let optionsHtml = "";
-    q.options.forEach(opt => {
-        const selectedText = opt[lang];
-        const correctText = q.answer[lang];
-        optionsHtml += `
-            <button onclick="checkAnswer(this, ${JSON.stringify(selectedText)}, ${JSON.stringify(correctText)})">
-                ${selectedText}
-                <br><span style="color:#777; font-size:12px;">${lang === "hi" ? opt.en : opt.hi}</span>
-            </button>`;
-    });
+    // Bilingual Data (q.hi, options[i].hi)
+    const qText = qData.q[currentLang];
+    const options = qData.options;
 
-    document.getElementById(containerId).innerHTML = `
-        <div class="question-box">
-            <h4>Question ${currentQuestion + 1} / ${questions.length}</h4>
-            <p><strong>${q.q[lang]}</strong><br><small style="color:gray">${lang === "hi" ? q.q.en : q.q.hi}</small></p>
-            <div class="options">${optionsHtml}</div>
-        </div>`;
+    let optionsHTML = options.map((opt) => {
+        const text = opt[currentLang];
+        // जावास्क्रिप्ट एरर से बचने के लिए ' को एस्केप करें
+        const safeText = text.replace(/'/g, "\\'");
+        return `<button class="option-btn" onclick="checkAnswer('${safeText}', this)">${text}</button>`;
+    }).join('');
+
+    container.innerHTML = `
+        <div class="question-card" style="animation: fadeIn 0.4s ease;">
+            <p class="question-text"><b>प्रश्न ${currentQIdx + 1}:</b> ${qText}</p>
+            <div class="options-grid">${optionsHTML}</div>
+            <div id="feedback-area"></div>
+        </div>
+    `;
+
+    document.getElementById("nextBtn").style.display = "none";
 }
 
-// 5. उत्तर चेक करना
-window.checkAnswer = function(btn, selected, correct) {
-    clearInterval(timer);
-    const buttons = document.querySelectorAll(".options button");
-    buttons.forEach(b => b.disabled = true);
 
-    const correctAudio = document.getElementById("correctSound");
-    const wrongAudio = document.getElementById("wrongSound");
 
-    if (String(selected) === String(correct)) {
-        btn.classList.add("correct");
+
+
+// 6. उत्तर की जाँच (यहाँ साउंड और मैसेज काम करेगा)
+window.checkAnswer = function(selectedOption, btn) {
+    clearInterval(timerInterval);
+    const qData = questions[currentQIdx];
+    const correctAnswer = qData.answer[currentLang];
+    const feedbackArea = document.getElementById("feedback-area");
+    
+    const allBtns = document.querySelectorAll(".option-btn");
+    allBtns.forEach(b => b.disabled = true);
+
+    if (selectedOption === correctAnswer) {
+        // सही उत्तर होने पर
+        if (btn) btn.classList.add("correct");
         score++;
-        if(correctAudio) { correctAudio.currentTime = 0; correctAudio.play().catch(()=>{}); }
+        
+        // साउंड बजाना
+        if (correctSound) {
+            correctSound.currentTime = 0;
+            correctSound.play().catch(e => console.log("Sound error"));
+        }
+        
+        showFeedback(feedbackArea, true, qData.explanation ? qData.explanation[currentLang] : "सही जवाब!");
     } else {
-        btn.classList.add("wrong");
-        if(wrongAudio) { wrongAudio.currentTime = 0; wrongAudio.play().catch(()=>{}); }
-        buttons.forEach(b => {
-            if (b.innerText.includes(correct)) b.classList.add("correct");
+        // गलत उत्तर होने पर
+        if (btn) btn.classList.add("wrong");
+        
+        if (wrongSound) {
+            wrongSound.currentTime = 0;
+            wrongSound.play().catch(e => console.log("Sound error"));
+        }
+        
+        // सही उत्तर हाईलाइट करें
+        allBtns.forEach(b => {
+            if (b.innerText.trim() === correctAnswer.trim()) b.classList.add("correct");
         });
+
+        const msg = qData.explanation ? qData.explanation[currentLang] : "";
+        showFeedback(feedbackArea, false, `गलत! सही उत्तर <b>${correctAnswer}</b> है। <br>${msg}`);
     }
-    document.getElementById("score").innerText = "Score: " + score;
-    setTimeout(nextQuestion, 2000);
+
+    updateScoreUI();
+    document.getElementById("nextBtn").style.display = "block";
 };
 
-// 6. अन्य सपोर्ट फंक्शन
+// 7. UI और प्रोग्रेस ट्रैकर्स
+function showFeedback(target, isCorrect, msg) {
+    if (!target) return;
+    target.innerHTML = `
+        <div style="margin-top:15px; padding:15px; border-radius:10px; 
+                    background: ${isCorrect ? '#e8f5e9' : '#ffebee'}; 
+                    color: ${isCorrect ? '#2e7d32' : '#c62828'};
+                    border-left: 6px solid ${isCorrect ? '#4caf50' : '#f44336'};
+                    font-size: 0.95rem;">
+            <strong>${isCorrect ? '✔️ शाबाश!' : '❌ कोई बात नहीं!'}</strong><br>${msg}
+        </div>
+    `;
+}
+
+
+
+
+
 function startTimer() {
-    const timerElement = document.getElementById("timer");
-    timer = setInterval(() => {
+    timerInterval = setInterval(() => {
         timeLeft--;
-        if(timerElement) timerElement.innerText = `Time: ${timeLeft}s`;
-        if (timeLeft <= 0) { clearInterval(timer); nextQuestion(); }
+        updateTimerUI();
+        if (timeLeft <= 0) {
+            clearInterval(timerInterval);
+            window.checkAnswer(null, null); 
+        }
     }, 1000);
 }
 
-function nextQuestion() {
-    currentQuestion++;
-    if (currentQuestion < questions.length) loadQuestion();
-    else showResult();
+function updateTimerUI() {
+    const t = document.getElementById("timer");
+    if (t) t.innerText = `Time: ${timeLeft}s`;
 }
 
-function showResult() {
-    const total = questions.length;
-    const percentage = Math.round((score / total) * 100);
-    document.getElementById(containerId).innerHTML = `
-        <div class="result-box" style="text-align:center; padding:20px; border:2px solid #4A90E2; border-radius:10px;">
-            <h2>🎉 क्विज समाप्त!</h2>
-            <p style="font-size:1.4em;">आपका स्कोर: <b>${score} / ${total}</b> (${percentage}%)</p>
-            <button onclick="location.reload()" style="padding:10px 20px; background:#4A90E2; color:white; border:none; border-radius:5px; cursor:pointer;">🔄 Restart</button>
-        </div>`;
+function updateScoreUI() {
+    const s = document.getElementById("score");
+    if (s) s.innerText = `Score: ${score}`;
 }
 
 function updateProgress() {
-    const percent = ((currentQuestion + 1) / questions.length) * 100;
     const pb = document.getElementById("progress-bar");
-    if (pb) pb.style.width = percent + "%";
+    const pt = document.getElementById("progress-text");
+    const progress = ((currentQIdx + 1) / questions.length) * 100;
+    if(pb) pb.style.width = progress + "%";
+    if(pt) pt.innerText = `Progress: ${Math.round(progress)}%`;
 }
 
-window.toggleLang = function() {
-    lang = (lang === "hi") ? "en" : "hi";
-    const btn = document.getElementById("langToggle");
-    if(btn) btn.innerText = (lang === "hi") ? "🌐 EN" : "🌐 HI";
-    loadQuestion();
+function showError(msg) {
+    const container = document.getElementById(containerId);
+    if (container) {
+        container.innerHTML = `<div style="color:red; background:#fee; padding:20px; border:1px solid red; border-radius:8px;">${msg}</div>`;
+    }
+}
+
+// 8. नेविगेशन
+window.nextQuestion = function() {
+    currentQIdx++;
+    if (currentQIdx < questions.length) {
+        loadQuestion();
+    } else {
+        showFinalResult();
+    }
 };
+
+function showFinalResult() {
+    const container = document.getElementById(containerId);
+    const total = questions.length;
+    const percent = Math.round((score / total) * 100);
+    
+    container.innerHTML = `
+        <div style="text-align:center; padding:30px; background:white; border-radius:15px; box-shadow:0 4px 20px rgba(0,0,0,0.1);">
+            <h2 style="color:#003366;">🎉 क्विज़ समाप्त!</h2>
+            <p style="font-size:1.6rem;">स्कोर: <b>${score} / ${total}</b></p>
+            <p>सफलता दर: ${percent}%</p>
+            <button onclick="location.reload()" style="padding:10px 30px; background:#003366; color:white; border:none; border-radius:50px; cursor:pointer; font-size:1.1rem; margin-top:20px;">🔄 फिर से शुरू करें</button>
+        </div>
+    `;
+    document.getElementById("nextBtn").style.display = "none";
+}
