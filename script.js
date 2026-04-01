@@ -197,3 +197,14 @@ function showError(msg) {
     const container = document.getElementById('mcq-bilingual-container');
     if (container) container.innerHTML = `<div class="error">${msg}</div>`;
 }
+
+
+
+function toggleMenu() {
+    const menuIcon = document.querySelector('.hamburger');
+    const nav = document.querySelector('.nav-links'); // मेनू को सिलेक्ट करें
+    console.log("Menu clicked!"); // ब्राउज़र के Console (F12) में चेक करें
+    menuIcon.classList.toggle('open');
+    nav.classList.toggle('active'); // मेनू को दिखाएँ/छुपाएँ
+}
+
