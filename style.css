@@ -1171,3 +1171,98 @@ button.wrong {
     margin-bottom: 10px;
     padding: 12px;
 }
+
+/* जो सेक्शन अभी चुना हुआ है (Active) */
+.section-buttons button.active {
+    background-color: #ff9800 !important; /* संतरा रंग */
+    color: white;
+    border: 2px solid #e65100;
+    font-weight: bold;
+    transform: scale(1.05); /* थोड़ा बड़ा दिखेगा */
+}
+
+/* जो सेक्शन पूरा हो चुका है (Completed) */
+.section-buttons button.completed {
+    background-color: #4caf50 !important; /* हरा रंग */
+    color: white;
+    position: relative;
+}
+
+/* Completed बटन पर एक छोटा टिक मार्क (Optional) */
+.section-buttons button.completed::after {
+    content: " ✓";
+    font-size: 12px;
+}
+
+/* बटन का डिफ़ॉल्ट स्टाइल (अगर पहले से न हो) */
+.section-buttons button {
+    padding: 10px 15px;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+}
+
+
+
+
+
+/* --- 1. जनरल सेटिंग्स (जो मोबाइल और डेस्कटॉप दोनों पर रहेंगी) --- */
+.hamburger {
+    width: 30px;
+    height: 25px;
+    display: flex; /* मोबाइल पर डिफ़ॉल्ट दिखेगा */
+    flex-direction: column;
+    justify-content: space-between;
+    cursor: pointer;
+    position: relative;
+    z-index: 100;
+}
+
+.hamburger span {
+    display: block;
+    height: 4px;
+    width: 100%;
+    background-color: #333;
+    border-radius: 10px;
+    transition: all 0.3s ease-in-out;
+}
+
+/* एनीमेशन (X बनना) */
+.hamburger.open span:nth-child(1) { transform: translateY(10px) rotate(45deg); }
+.hamburger.open span:nth-child(2) { opacity: 0; transform: translateX(-20px); }
+.hamburger.open span:nth-child(3) { transform: translateY(-10px) rotate(-45deg); }
+
+/* --- 2. मोबाइल मेनू (शुरुआत में छुपा हुआ) --- */
+.nav-links {
+    display: none; 
+    flex-direction: column;
+    background-color: #f4f4f4;
+    position: absolute;
+    top: 60px;
+    right: 20px;
+    width: 200px;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+/* मोबाइल पर क्लिक करने के बाद दिखना */
+.nav-links.active {
+    display: flex;
+}
+
+/* --- 3. डेस्कटॉप व्यू (768px से बड़ी स्क्रीन के लिए) --- */
+@media screen and (min-width: 768px) {
+    .hamburger {
+        display: none; /* डेस्कटॉप पर हैमबर्गर गायब */
+    }
+
+    .nav-links {
+        display: flex !important; /* डेस्कटॉप पर हमेशा दिखेगा */
+        flex-direction: row; 
+        position: static; 
+        background: transparent;
+        width: auto;
+        padding: 0; /* मोबाइल वाली पैडिंग हटा दी */
+    }
+}
