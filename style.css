@@ -1122,3 +1122,52 @@ button.wrong {
     background-color: #c82333;
     color: white;
 }
+
+
+/* MCQ कंटेनर के अंदर के बटनों (options) के लिए */
+#mcq-bilingual-container button {
+    display: block;          /* बटन को पूरी लाइन घेरने दें */
+    width: 100%;             /* पूरी चौड़ाई */
+    margin-bottom: 10px;     /* हर बटन के नीचे थोड़ी जगह */
+    padding: 12px;           /* बटन के अंदर जगह */
+    text-align: left;        /* टेक्स्ट बाईं ओर */
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    cursor: pointer;
+}
+
+/* बटन पर माउस ले जाने पर रंग बदलें */
+#mcq-bilingual-container button:hover {
+    background-color: #e2e2e2;
+}
+
+
+/* ऑप्शंस को वर्टिकल (Vertical) करने के लिए */
+.option-btn {
+    display: block !important; /* नई लाइन से शुरू करने के लिए */
+    width: 100%;               /* पूरी चौड़ाई */
+    margin: 10px 0;            /* हर ऑप्शन के बीच गैप */
+    padding: 15px;             /* बटन के अंदर जगह */
+    text-align: left;          /* लिखावट बाईं ओर */
+    background: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.option-btn:hover {
+    background-color: #f1f1f1;
+}
+
+/* इसे सबसे नीचे पेस्ट करें ताकि यह सबको ओवरराइड कर दे */
+#mcq-bilingual-container .option-btn {
+    display: block !important;
+    width: 100% !important;
+    clear: both; /* पुरानी किसी सेटिंग को हटाने के लिए */
+    margin-bottom: 10px;
+    padding: 12px;
+}
