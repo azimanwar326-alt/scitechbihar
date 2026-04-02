@@ -21,9 +21,13 @@
 
 <body data-page="chapter03">
 
-  <h2>📏 Chapter 03 उचित आहार स्वस्थ जीवन का आधार  </h2>
+  <h2>📏 Chapter 03 उचित आहार स्वस्थ जावन का आधार </h2>
 
-  <section class="mcq-section">
+  <button id="langToggle" onclick="toggleLang()">
+  🌐 EN
+</button>
+
+  <section class="mcq-bilingual-section">
 
     <h3>📚 50 महत्वपूर्ण MCQ</h3>
 
@@ -43,11 +47,11 @@
       <button onclick="loadSection('section3', this)">Section 3</button>
       <button onclick="loadSection('section4', this)">Section 4</button>
       <button onclick="loadSection('section5', this)">Section 5</button>
+      
     </div>
 
     <!-- 👇 MCQ यहीं दिखेंगे -->
-    <div id="mcq-container"></div>
-
+    <div id="mcq-bilingual-container"></div>
     <button id="nextBtn" onclick="nextQuestion()" style="display:none;">
       Next Question
     </button>
@@ -59,7 +63,6 @@
   <audio id="correctSound" src="correct.mp3"></audio>
   <audio id="wrongSound" src="wrong.mp3"></audio>
 
-  
   <script src="script.js"></script>
 </body>
 </html>
