@@ -1,45 +1,57 @@
 /**
- * SciTech Bihar - Bilingual MCQ Quiz Engine (Cleaned Version)
+ * SciTech Bihar - Universal Bilingual MCQ Quiz Engine
  */
 
-// 1. ग्लोबल वेरिएबल्स (सिर्फ एक बार)
+// 1. ग्लोबल वेरिएबल्स
+// 1. ग्लोबल वेरिएबल्स के पास इसे जोड़ें
 let currentLang = "hi"; 
 let chapterData = {};      
 let currentQuestions = []; 
 let currentQIdx = 0;    
 let score = 0;
-let timerInterval;
+let timerInterval; // <--- यह लाइन सुनिश्चित करें कि यहाँ लिखी हो
 let timeLeft = 30;
 
+// URL पैरामीटर हटा दिए गए हैं। अब डेटा सीधे HTML के body attributes से लिया जाएगा।
+const classNum = document.body.getAttribute('data-class') || '6'; 
+const subject = document.body.getAttribute('data-sub') || 'sci'; 
+
+// डायनामिक फाइल का नाम और डेटा की 'Key' तय करना
+// अगर class 6 है तो 'mcq-bilingual.json' अन्यथा 'sci7-bilingual.json' आदि
+const fileName = (classNum === '6' && subject === 'sci') ? './mcq-bilingual.json' : `./${subject}${classNum}-bilingual.json`;
+const classKey = `class${classNum}`;
 const chapterKey = document.body.getAttribute('data-page');
+
 const correctSound = document.getElementById("correctSound");
 const wrongSound = document.getElementById("wrongSound");
 
-// 2. JSON डेटा लोड करना
-fetch('./mcq-bilingual.json')
+// 2. JSON डेटा लोड करना (बाकी कोड पहले जैसा ही रहेगा)
+fetch(fileName)
     .then(response => {
-        if (!response.ok) throw new Error("JSON फाइल लोड नहीं हो सकी!");
+        if (!response.ok) throw new Error(`${fileName} लोड नहीं हो सकी!`);
         return response.json();
     })
+// ... बाकी का कोड वैसा ही रहने दें
+
+
     .then(data => {
-        if (data.class6 && data.class6[chapterKey]) {
-            chapterData = data.class6[chapterKey];
+        // यहाँ data[classKey] का उपयोग किया गया है ताकि class6, 7, 8 कुछ भी लोड हो सके
+        if (data[classKey] && data[classKey][chapterKey]) {
+            chapterData = data[classKey][chapterKey];
             const sections = Object.keys(chapterData);
             if (sections.length > 0) {
-                // डिफ़ॉल्ट रूप से Section 1 लोड करें
-                loadSection('section1');
+                loadSection('section1'); // डिफ़ॉल्ट Section 1
             }
         } else {
-            showError(`Error: JSON में '${chapterKey}' नहीं मिला।`);
+            showError(`त्रुटि: ${classKey} के अंदर '${chapterKey}' नहीं मिला।`);
         }
     })
     .catch(err => showError("Loading Error: " + err.message));
 
-// 3. सेक्शन लोड करने का फंक्शन
+// 3. सेक्शन लोड करने का फंक्शन (इसमें बदलाव की जरूरत नहीं)
 window.loadSection = function(sectionId, btn) {
     if (!chapterData || !chapterData[sectionId]) return;
 
-    // बटन का एक्टिव स्टेट बदलें
     document.querySelectorAll(".section-buttons button").forEach(b => b.classList.remove("active"));
     if (btn) btn.classList.add("active");
 
@@ -50,9 +62,7 @@ window.loadSection = function(sectionId, btn) {
     displayQuestion(); 
 };
 
-
-
-
+// 4. प्रश्न दिखाने का फंक्शन (आपका पुराना लॉजिक)
 function displayQuestion() {
     const container = document.getElementById('mcq-bilingual-container');
     if (!currentQuestions || currentQuestions.length === 0) return;
@@ -61,10 +71,8 @@ function displayQuestion() {
     const questionText = qData.q[currentLang];
     const options = qData.options;
 
-    // यहाँ (opt, index) लिखना बहुत ज़रूरी है, तभी 'index' काम करेगा
     let optionsHTML = options.map((opt, index) => {
         const optionText = opt[currentLang];
-        // यहाँ हमने index को बटन के साथ भेज दिया है
         return `<button class="option-btn" onclick="checkAnswer(${index}, this)">${optionText}</button>`;
     }).join('');
 
@@ -80,17 +88,14 @@ function displayQuestion() {
     updateProgress();
 }
 
-
-
-
-
 window.checkAnswer = function(clickedIdx, btn) {
     clearInterval(timerInterval);
     const qData = currentQuestions[currentQIdx];
     
-    // JSON में 'answer_index' नहीं है, इसलिए हम options एरे में 
-    // सही उत्तर का इंडेक्स (0, 1, 2, या 3) ढूंढेंगे।
-    const correctIdx = qData.options.findIndex(opt => opt.hi === qData.answer.hi);
+    // सुधार: .trim() का उपयोग करें ताकि एक्स्ट्रा स्पेस की वजह से मैच फेल न हो
+    const correctIdx = qData.options.findIndex(opt => 
+        opt.hi.trim() === qData.answer.hi.trim()
+    );
     
     const feedbackArea = document.getElementById("feedback-area");
     const allBtns = document.querySelectorAll(".option-btn");
@@ -99,64 +104,46 @@ window.checkAnswer = function(clickedIdx, btn) {
     allBtns.forEach(b => b.disabled = true);
 
     if (clickedIdx === correctIdx) {
-        // सही उत्तर होने पर
         if (btn) btn.classList.add("correct");
         score++;
-        if (correctSound) {
-            correctSound.currentTime = 0;
-            correctSound.play().catch(e => {});
+        if (correctSound) { 
+            correctSound.currentTime = 0; 
+            correctSound.play().catch(e => console.log("Sound Error")); 
         }
         showFeedback(feedbackArea, true, "सही जवाब!");
     } else {
-        // गलत उत्तर होने पर
         if (btn) btn.classList.add("wrong");
-        if (wrongSound) {
-            wrongSound.currentTime = 0;
-            wrongSound.play().catch(e => {});
+        if (wrongSound) { 
+            wrongSound.currentTime = 0; 
+            wrongSound.play().catch(e => console.log("Sound Error")); 
         }
         
-        // सही वाले बटन को हाईलाइट करें (Error Resolve)
+        // सही वाले बटन को हमेशा हाईलाइट करें
         if(allBtns[correctIdx]) {
             allBtns[correctIdx].classList.add("correct");
         }
-
-        // सही उत्तर का टेक्स्ट दिखाएं
+        
         const correctText = qData.answer[currentLang];
         showFeedback(feedbackArea, false, `गलत! सही उत्तर <b>${correctText}</b> है।`);
     }
 
     updateScoreUI();
-    document.getElementById("nextBtn").style.display = "block";
+    
+    // सुनिश्चित करें कि Next बटन दिखाई दे
+    const nextBtn = document.getElementById("nextBtn");
+    if (nextBtn) {
+        nextBtn.style.display = "block";
+    }
 };
 
 
-
-
-
-// 6. भाषा बदलने का फंक्शन
+// --- बाकी हेल्पर्स (बिना बदलाव के) ---
 window.toggleLang = function() {
     currentLang = (currentLang === 'hi') ? 'en' : 'hi';
     const btn = document.getElementById('langToggle');
     if (btn) btn.innerText = (currentLang === 'hi') ? '🌐 EN' : '🌐 HI';
     displayQuestion();
 };
-
-// --- बाकी के हेल्पर्स (Helpers) ---
-function startTimer() {
-    timerInterval = setInterval(() => {
-        timeLeft--;
-        updateTimerUI();
-        if (timeLeft <= 0) {
-            clearInterval(timerInterval);
-            checkAnswer(-1, null); 
-        }
-    }, 1000);
-}
-
-function updateTimerUI() {
-    const t = document.getElementById("timer");
-    if (t) t.innerText = `Time: ${timeLeft}s`;
-}
 
 function updateScoreUI() {
     const s = document.getElementById("score");
@@ -198,13 +185,9 @@ function showError(msg) {
     if (container) container.innerHTML = `<div class="error">${msg}</div>`;
 }
 
-
-
 function toggleMenu() {
     const menuIcon = document.querySelector('.hamburger');
-    const nav = document.querySelector('.nav-links'); // मेनू को सिलेक्ट करें
-    console.log("Menu clicked!"); // ब्राउज़र के Console (F12) में चेक करें
+    const nav = document.querySelector('.nav-links');
     menuIcon.classList.toggle('open');
-    nav.classList.toggle('active'); // मेनू को दिखाएँ/छुपाएँ
+    nav.classList.toggle('active');
 }
-
