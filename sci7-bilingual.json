@@ -1323,6 +1323,668 @@
           "answer": {"hi": "मुख में", "en": "In mouth"}
         }
       ]
+    },
+    "chapter03": {
+      "section1": [
+        {
+          "q": {
+            "hi": "शीतकाल में हम किस प्रकार के वस्त्र पहनना पसंद करते हैं जो हमें गर्म रखते हैं?",
+            "en": "What type of clothes do we prefer to wear in winter to keep us warm?"
+          },
+          "options": [
+            {"hi": "सूती वस्त्र", "en": "Cotton clothes"},
+            {"hi": "ऊनी वस्त्र", "en": "Woollen clothes"},
+            {"hi": "रेशमी वस्त्र", "en": "Silk clothes"},
+            {"hi": "नायलॉन के वस्त्र", "en": "Nylon clothes"}
+          ],
+          "answer": {"hi": "ऊनी वस्त्र", "en": "Woollen clothes"}
+        },
+        {
+          "q": {
+            "hi": "हल्के रंग के सूती वस्त्र हमें कैसा अनुभव कराते हैं?",
+            "en": "How do light-coloured cotton clothes make us feel?"
+          },
+          "options": [
+            {"hi": "गर्माहट का", "en": "Warmth"},
+            {"hi": "ठंडक का", "en": "Coolness"},
+            {"hi": "खुजली का", "en": "Itching"},
+            {"hi": "भारीपन का", "en": "Heaviness"}
+          ],
+          "answer": {"hi": "ठंडक का", "en": "Coolness"}
+        },
+        {
+          "q": {
+            "hi": "किसी वस्तु की उष्णता (गर्मी) की विश्वसनीय माप क्या है?",
+            "en": "What is the reliable measure of the hotness of an object?"
+          },
+          "options": [
+            {"hi": "आकार", "en": "Size"},
+            {"hi": "रंग", "en": "Colour"},
+            {"hi": "ताप", "en": "Temperature"},
+            {"hi": "भार", "en": "Weight"}
+          ],
+          "answer": {"hi": "ताप", "en": "Temperature"}
+        },
+        {
+          "q": {
+            "hi": "ताप मापने के लिए उपयोग की जाने वाली युक्ति को क्या कहते हैं?",
+            "en": "What is the device used for measuring temperature called?"
+          },
+          "options": [
+            {"hi": "बैरोमीटर", "en": "Barometer"},
+            {"hi": "थर्मामीटर (तापमापी)", "en": "Thermometer"},
+            {"hi": "स्पीडोमीटर", "en": "Speedometer"},
+            {"hi": "अमीटर", "en": "Ammeter"}
+          ],
+          "answer": {"hi": "थर्मामीटर (तापमापी)", "en": "Thermometer"}
+        },
+        {
+          "q": {
+            "hi": "जिस तापमापी से हम अपने शरीर के ताप को मापते हैं, उसे क्या कहते हैं?",
+            "en": "The thermometer that measures our body temperature is called?"
+          },
+          "options": [
+            {"hi": "प्रयोगशाला तापमापी", "en": "Laboratory thermometer"},
+            {"hi": "डॉक्टरी थर्मामीटर", "en": "Clinical thermometer"},
+            {"hi": "डिजिटल थर्मामीटर", "en": "Digital thermometer"},
+            {"hi": "अधिकतम-न्यूनतम तापमापी", "en": "Maximum-minimum thermometer"}
+          ],
+          "answer": {"hi": "डॉक्टरी थर्मामीटर", "en": "Clinical thermometer"}
+        },
+        {
+          "q": {
+            "hi": "डॉक्टरी थर्मामीटर का मापन स्केल (परिसर) क्या है?",
+            "en": "What is the scale range of a clinical thermometer?"
+          },
+          "options": [
+            {"hi": "0°C से 100°C", "en": "0°C to 100°C"},
+            {"hi": "35°C से 42°C", "en": "35°C to 42°C"},
+            {"hi": "-10°C से 110°C", "en": "-10°C to 110°C"},
+            {"hi": "94°F से 108°F", "en": "94°F to 108°F"}
+          ],
+          "answer": {"hi": "35°C से 42°C", "en": "35°C to 42°C"}
+        },
+        {
+          "q": {
+            "hi": "मानव शरीर का सामान्य ताप कितना होता है?",
+            "en": "What is the normal temperature of the human body?"
+          },
+          "options": [
+            {"hi": "35°C", "en": "35°C"},
+            {"hi": "37°C", "en": "37°C"},
+            {"hi": "40°C", "en": "40°C"},
+            {"hi": "98°C", "en": "98°C"}
+          ],
+          "answer": {"hi": "37°C", "en": "37°C"}
+        },
+        {
+          "q": {
+            "hi": "डॉक्टरी थर्मामीटर में पारे की धारी देखने के लिए क्या करना चाहिए?",
+            "en": "What should be done to see the mercury thread in a clinical thermometer?"
+          },
+          "options": [
+            {"hi": "इसे गर्म पानी में डालें", "en": "Put it in hot water"},
+            {"hi": "इसे थोड़ा-सा घुमाएँ", "en": "Rotate it a bit"},
+            {"hi": "इसे धूप में रखें", "en": "Keep it in the sun"},
+            {"hi": "इसे जोर से हिलाएँ", "en": "Shake it hard"}
+          ],
+          "answer": {"hi": "इसे थोड़ा-सा घुमाएँ", "en": "Rotate it a bit"}
+        },
+        {
+          "q": {
+            "hi": "डॉक्टरी थर्मामीटर का उपयोग करने से पहले उसे झटके क्यों दिए जाते हैं?",
+            "en": "Why is a clinical thermometer given jerks before use?"
+          },
+          "options": [
+            {"hi": "पारे को गर्म करने के लिए", "en": "To heat the mercury"},
+            {"hi": "पारे का तल 35°C से नीचे लाने के लिए", "en": "To bring mercury level below 35°C"},
+            {"hi": "इसे साफ करने के लिए", "en": "To clean it"},
+            {"hi": "पारे को चमकाने के लिए", "en": "To make mercury shine"}
+          ],
+          "answer": {"hi": "पारे का तल 35°C से नीचे लाने के लिए", "en": "To bring mercury level below 35°C"}
+        },
+        {
+          "q": {
+            "hi": "तापमापी को पढ़ते समय पारे का तल कहाँ होना चाहिए?",
+            "en": "Where should the mercury level be while reading the thermometer?"
+          },
+          "options": [
+            {"hi": "ऊपर की ओर", "en": "Towards the top"},
+            {"hi": "दृष्टि-रेखा की सीध में", "en": "In the line of sight"},
+            {"hi": "नीचे की ओर", "en": "Towards the bottom"},
+            {"hi": "तिरछा", "en": "At an angle"}
+          ],
+          "answer": {"hi": "दृष्टि-रेखा की सीध में", "en": "In the line of sight"}
+        }
+      ],
+      "section2": [
+        {
+          "q": {
+            "hi": "प्रयोगशाला तापमापी का परिसर प्रायः कितना होता है?",
+            "en": "What is the usual range of a laboratory thermometer?"
+          },
+          "options": [
+            {"hi": "35°C से 42°C", "en": "35°C to 42°C"},
+            {"hi": "0°C से 100°C", "en": "0°C to 100°C"},
+            {"hi": "-10°C से 110°C", "en": "-10°C to 110°C"},
+            {"hi": "37°C से 45°C", "en": "37°C to 45°C"}
+          ],
+          "answer": {"hi": "-10°C से 110°C", "en": "-10°C to 110°C"}
+        },
+        {
+          "q": {
+            "hi": "मौसम की रिपोर्ट में अधिकतम तथा न्यूनतम ताप बताने के लिए कौन-सा तापमापी उपयोग होता है?",
+            "en": "Which thermometer is used to report maximum and minimum temperatures in weather reports?"
+          },
+          "options": [
+            {"hi": "डॉक्टरी थर्मामीटर", "en": "Clinical thermometer"},
+            {"hi": "प्रयोगशाला तापमापी", "en": "Laboratory thermometer"},
+            {"hi": "अधिकतम-न्यूनतम तापमापी", "en": "Maximum-minimum thermometer"},
+            {"hi": "डिजिटल थर्मामीटर", "en": "Digital thermometer"}
+          ],
+          "answer": {"hi": "अधिकतम-न्यूनतम तापमापी", "en": "Maximum-minimum thermometer"}
+        },
+        {
+          "q": {
+            "hi": "प्रयोगशाला तापमापी का पाठ्यांक कब नोट करना चाहिए?",
+            "en": "When should the reading of a laboratory thermometer be noted?"
+          },
+          "options": [
+            {"hi": "मुँह से बाहर निकालकर", "en": "After taking it out of the mouth"},
+            {"hi": "जब उसका बल्ब वस्तु के अंदर हो", "en": "While its bulb is inside the object"},
+            {"hi": "वस्तु से बाहर निकालने के बाद", "en": "After taking it out of the object"},
+            {"hi": "झटके देने के बाद", "en": "After giving it jerks"}
+          ],
+          "answer": {"hi": "जब उसका बल्ब वस्तु के अंदर हो", "en": "While its bulb is inside the object"}
+        },
+        {
+          "q": {
+            "hi": "डॉक्टरी थर्मामीटर में बल्ब के पास 'विभंग' (किंक) का क्या कार्य है?",
+            "en": "What is the function of the 'kink' near the bulb in a clinical thermometer?"
+          },
+          "options": [
+            {"hi": "ताप बढ़ाने के लिए", "en": "To increase temperature"},
+            {"hi": "पारे को नीचे गिरने से रोकने के लिए", "en": "To prevent mercury from falling down"},
+            {"hi": "थर्मामीटर को मजबूत बनाने के लिए", "en": "To make the thermometer strong"},
+            {"hi": "पारे को चमकाने के लिए", "en": "To make mercury shine"}
+          ],
+          "answer": {"hi": "पारे को नीचे गिरने से रोकने के लिए", "en": "To prevent mercury from falling down"}
+        },
+        {
+          "q": {
+            "hi": "अंकीय तापमापी (डिजिटल थर्मामीटर) में किसका उपयोग नहीं होता?",
+            "en": "What is not used in a digital thermometer?"
+          },
+          "options": [
+            {"hi": "प्लास्टिक", "en": "Plastic"},
+            {"hi": "पारा", "en": "Mercury"},
+            {"hi": "सेल", "en": "Cell"},
+            {"hi": "सेंसर", "en": "Sensor"}
+          ],
+          "answer": {"hi": "पारा", "en": "Mercury"}
+        },
+        {
+          "q": {
+            "hi": "ऊष्मा सदैव किस दिशा में प्रवाहित होती है?",
+            "en": "In which direction does heat always flow?"
+          },
+          "options": [
+            {"hi": "ठंडी से गर्म वस्तु की ओर", "en": "From cold to hot object"},
+            {"hi": "गर्म से अपेक्षाकृत ठंडी वस्तु की ओर", "en": "From hot to relatively cold object"},
+            {"hi": "ऊपर से नीचे की ओर", "en": "From top to bottom"},
+            {"hi": "स्थिर रहती है", "en": "Remains stationary"}
+          ],
+          "answer": {"hi": "गर्म से अपेक्षाकृत ठंडी वस्तु की ओर", "en": "From hot to relatively cold object"}
+        },
+        {
+          "q": {
+            "hi": "ठोसों में ऊष्मा स्थानांतरण का मुख्य प्रक्रम क्या है?",
+            "en": "What is the main process of heat transfer in solids?"
+          },
+          "options": [
+            {"hi": "संवहन", "en": "Convection"},
+            {"hi": "विकिरण", "en": "Radiation"},
+            {"hi": "चालन", "en": "Conduction"},
+            {"hi": "वाष्पीकरण", "en": "Evaporation"}
+          ],
+          "answer": {"hi": "चालन", "en": "Conduction"}
+        },
+        {
+          "q": {
+            "hi": "जो पदार्थ अपने से होकर ऊष्मा को आसानी से जाने देते हैं, उन्हें क्या कहते हैं?",
+            "en": "What are the substances that allow heat to pass through them easily called?"
+          },
+          "options": [
+            {"hi": "कुचालक", "en": "Insulators"},
+            {"hi": "ऊष्मा-रोधी", "en": "Heat-resistant"},
+            {"hi": "चालक", "en": "Conductors"},
+            {"hi": "अर्धचालक", "en": "Semiconductors"}
+          ],
+          "answer": {"hi": "चालक", "en": "Conductors"}
+        },
+        {
+          "q": {
+            "hi": "इनमें से कौन-सा पदार्थ ऊष्मा का कुचालक है?",
+            "en": "Which of these substances is an insulator of heat?"
+          },
+          "options": [
+            {"hi": "लोहा", "en": "Iron"},
+            {"hi": "ताँबा", "en": "Copper"},
+            {"hi": "ऐलुमिनियम", "en": "Aluminium"},
+            {"hi": "प्लास्टिक", "en": "Plastic"}
+          ],
+          "answer": {"hi": "प्लास्टिक", "en": "Plastic"}
+        },
+        {
+          "q": {
+            "hi": "जल तथा वायु ऊष्मा के क्या हैं?",
+            "en": "What are water and air in terms of heat conduction?"
+          },
+          "options": [
+            {"hi": "अच्छे चालक", "en": "Good conductors"},
+            {"hi": "कुचालक", "en": "Bad conductors (Insulators)"},
+            {"hi": "ऊष्मीय स्रोत", "en": "Heat sources"},
+            {"hi": "विकिरक", "en": "Radiators"}
+          ],
+          "answer": {"hi": "कुचालक", "en": "Bad conductors (Insulators)"}
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "द्रवों तथा गैसों में ऊष्मा स्थानांतरण किस प्रक्रम द्वारा होता है?",
+            "en": "By which process does heat transfer occur in liquids and gases?"
+          },
+          "options": [
+            {"hi": "चालन", "en": "Conduction"},
+            {"hi": "संवहन", "en": "Convection"},
+            {"hi": "विकिरण", "en": "Radiation"},
+            {"hi": "संघनन", "en": "Condensation"}
+          ],
+          "answer": {"hi": "संवहन", "en": "Convection"}
+        },
+        {
+          "q": {
+            "hi": "समुद्र समीर किस समय बहती है?",
+            "en": "At what time does the sea breeze blow?"
+          },
+          "options": [
+            {"hi": "केवल रात में", "en": "Only at night"},
+            {"hi": "दिन के समय", "en": "During the day"},
+            {"hi": "दोपहर में", "en": "In the afternoon"},
+            {"hi": "सुबह जल्दी", "en": "Early morning"}
+          ],
+          "answer": {"hi": "दिन के समय", "en": "During the day"}
+        },
+        {
+          "q": {
+            "hi": "स्थल समीर (थल समीर) के बहने की दिशा क्या होती है?",
+            "en": "What is the direction of the land breeze?"
+          },
+          "options": [
+            {"hi": "समुद्र से स्थल की ओर", "en": "From sea to land"},
+            {"hi": "स्थल से समुद्र की ओर", "en": "From land to sea"},
+            {"hi": "ऊपर से नीचे", "en": "From top to bottom"},
+            {"hi": "चारों दिशाओं में", "en": "In all directions"}
+          ],
+          "answer": {"hi": "स्थल से समुद्र की ओर", "en": "From land to sea"}
+        },
+        {
+          "q": {
+            "hi": "सूर्य से पृथ्वी तक ऊष्मा किस प्रक्रम द्वारा पहुँचती है?",
+            "en": "By which process does heat from the sun reach the earth?"
+          },
+          "options": [
+            {"hi": "चालन", "en": "Conduction"},
+            {"hi": "संवहन", "en": "Convection"},
+            {"hi": "विकिरण", "en": "Radiation"},
+            {"hi": "घर्षण", "en": "Friction"}
+          ],
+          "answer": {"hi": "विकिरण", "en": "Radiation"}
+        },
+        {
+          "q": {
+            "hi": "किस प्रक्रम में ऊष्मा स्थानांतरण के लिए किसी माध्यम की आवश्यकता नहीं होती?",
+            "en": "In which process is no medium required for heat transfer?"
+          },
+          "options": [
+            {"hi": "चालन", "en": "Conduction"},
+            {"hi": "संवहन", "en": "Convection"},
+            {"hi": "विकिरण", "en": "Radiation"},
+            {"hi": "विद्युत धारा", "en": "Electric current"}
+          ],
+          "answer": {"hi": "विकिरण", "en": "Radiation"}
+        },
+        {
+          "q": {
+            "hi": "गहरे रंग के पृष्ठ हल्के रंग के पृष्ठों की अपेक्षा ऊष्मा का अवशोषण कैसा करते हैं?",
+            "en": "How do dark-coloured surfaces absorb heat compared to light-coloured surfaces?"
+          },
+          "options": [
+            {"hi": "कम", "en": "Less"},
+            {"hi": "समान", "en": "Equal"},
+            {"hi": "अधिक", "en": "More"},
+            {"hi": "बिल्कुल नहीं", "en": "Not at all"}
+          ],
+          "answer": {"hi": "अधिक", "en": "More"}
+        },
+        {
+          "q": {
+            "hi": "गर्मियों में हमें किस रंग के वस्त्र अधिक आरामदायक लगते हैं?",
+            "en": "Which colour clothes do we find more comfortable in summer?"
+          },
+          "options": [
+            {"hi": "काला", "en": "Black"},
+            {"hi": "गहरा नीला", "en": "Dark blue"},
+            {"hi": "सफेद या हल्के रंग", "en": "White or light colours"},
+            {"hi": "लाल", "en": "Red"}
+          ],
+          "answer": {"hi": "सफेद या हल्के रंग", "en": "White or light colours"}
+        },
+        {
+          "q": {
+            "hi": "ऊन के रेशों के बीच क्या फँसी रहती है जो ऊष्मा-रोधी का कार्य करती है?",
+            "en": "What is trapped between wool fibres that acts as an insulator?"
+          },
+          "options": [
+            {"hi": "पानी", "en": "Water"},
+            {"hi": "धूल", "en": "Dust"},
+            {"hi": "वायु", "en": "Air"},
+            {"hi": "धूप", "en": "Sunlight"}
+          ],
+          "answer": {"hi": "वायु", "en": "Air"}
+        },
+        {
+          "q": {
+            "hi": "सर्दियों में एक मोटे कंबल की तुलना में दो पतले कंबल अधिक गर्मी क्यों देते हैं?",
+            "en": "Why do two thin blankets give more warmth than one thick blanket in winter?"
+          },
+          "options": [
+            {"hi": "वे भारी होते हैं", "en": "They are heavy"},
+            {"hi": "उनके बीच वायु की परत होती है", "en": "There is a layer of air between them"},
+            {"hi": "वे सुंदर दिखते हैं", "en": "They look beautiful"},
+            {"hi": "वे बड़े होते हैं", "en": "They are large"}
+          ],
+          "answer": {"hi": "उनके बीच वायु की परत होती है", "en": "There is a layer of air between them"}
+        },
+        {
+          "q": {
+            "hi": "गर्म जलवायु वाले क्षेत्रों में घरों की बाहरी दीवारों पर सफेद पेंट करने की सलाह क्यों दी जाती है?",
+            "en": "Why is it advised to paint outer walls white in hot climate areas?"
+          },
+          "options": [
+            {"hi": "सुंदरता के लिए", "en": "For beauty"},
+            {"hi": "ऊष्मा को परावर्तित करने के लिए", "en": "To reflect heat"},
+            {"hi": "दीवारों को मजबूत करने के लिए", "en": "To strengthen walls"},
+            {"hi": "अंधेरे से बचने के लिए", "en": "To avoid darkness"}
+          ],
+          "answer": {"hi": "ऊष्मा को परावर्तित करने के लिए", "en": "To reflect heat"}
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "पारा (मरकरी) क्या है?",
+            "en": "What is mercury?"
+          },
+          "options": [
+            {"hi": "एक गैस", "en": "A gas"},
+            {"hi": "एक विषाक्त धातु", "en": "A toxic metal"},
+            {"hi": "एक अधातु", "en": "A non-metal"},
+            {"hi": "एक विटामिन", "en": "A vitamin"}
+          ],
+          "answer": {"hi": "एक विषाक्त धातु", "en": "A toxic metal"}
+        },
+        {
+          "q": {
+            "hi": "डॉक्टरी थर्मामीटर से हम किसका ताप नहीं माप सकते?",
+            "en": "Whose temperature can we not measure with a clinical thermometer?"
+          },
+          "options": [
+            {"hi": "मनुष्य का", "en": "Human's"},
+            {"hi": "बच्चे का", "en": "Child's"},
+            {"hi": "उबलते दूध का", "en": "Boiling milk's"},
+            {"hi": "स्वस्थ व्यक्ति का", "en": "Healthy person's"}
+          ],
+          "answer": {"hi": "उबलते दूध का", "en": "Boiling milk's"}
+        },
+        {
+          "q": {
+            "hi": "सेल्सियस स्केल की अभिकल्पना किसने की थी?",
+            "en": "Who designed the Celsius scale?"
+          },
+          "options": [
+            {"hi": "न्यूटन", "en": "Newton"},
+            {"hi": "ऐंडर्स सेल्सियस", "en": "Anders Celsius"},
+            {"hi": "गैलीलियो", "en": "Galileo"},
+            {"hi": "आइंस्टीन", "en": "Einstein"}
+          ],
+          "answer": {"hi": "ऐंडर्स सेल्सियस", "en": "Anders Celsius"}
+        },
+        {
+          "q": {
+            "hi": "खाना पकाने के बर्तन की हत्थी किस पदार्थ की बनाई जाती है?",
+            "en": "What material is the handle of a cooking utensil made of?"
+          },
+          "options": [
+            {"hi": "ताँबा", "en": "Copper"},
+            {"hi": "लोहा", "en": "Iron"},
+            {"hi": "लकड़ी या प्लास्टिक", "en": "Wood or plastic"},
+            {"hi": "स्टील", "en": "Steel"}
+          ],
+          "answer": {"hi": "लकड़ी या प्लास्टिक", "en": "Wood or plastic"}
+        },
+        {
+          "q": {
+            "hi": "पोटैशियम परमैंगनेट के क्रिस्टल का उपयोग जल में ऊष्मा के किस प्रक्रम को देखने के लिए किया जाता है?",
+            "en": "Potassium permanganate crystals are used to observe which heat process in water?"
+          },
+          "options": [
+            {"hi": "चालन", "en": "Conduction"},
+            {"hi": "संवहन", "en": "Convection"},
+            {"hi": "विकिरण", "en": "Radiation"},
+            {"hi": "संघनन", "en": "Condensation"}
+          ],
+          "answer": {"hi": "संवहन", "en": "Convection"}
+        },
+        {
+          "q": {
+            "hi": "तटीय क्षेत्रों में खिड़कियाँ समुद्र की ओर क्यों बनाई जाती हैं?",
+            "en": "Why are windows in coastal areas made facing the sea?"
+          },
+          "options": [
+            {"hi": "समुद्र देखने के लिए", "en": "To see the sea"},
+            {"hi": "समुद्र समीर का लाभ उठाने के लिए", "en": "To take advantage of the sea breeze"},
+            {"hi": "मछलियाँ पकड़ने के लिए", "en": "To catch fish"},
+            {"hi": "धूप के लिए", "en": "For sunlight"}
+          ],
+          "answer": {"hi": "समुद्र समीर का लाभ उठाने के लिए", "en": "To take advantage of the sea breeze"}
+        },
+        {
+          "q": {
+            "hi": "ज्वाला से हटाकर रखा गया गर्म बर्तन विकिरण द्वारा ऊष्मा किसे देता है?",
+            "en": "To whom does a hot vessel removed from flame give heat by radiation?"
+          },
+          "options": [
+            {"hi": "पानी को", "en": "To water"},
+            {"hi": "परिवेश (आस-पास) को", "en": "To the surroundings"},
+            {"hi": "हाथ को", "en": "To the hand"},
+            {"hi": "आग को", "en": "To the fire"}
+          ],
+          "answer": {"hi": "परिवेश (आस-पास) को", "en": "To the surroundings"}
+        },
+        {
+          "q": {
+            "hi": "सर्दियों में गहरे रंग के वस्त्र हमें कैसे लगते हैं?",
+            "en": "How do dark-coloured clothes feel to us in winter?"
+          },
+          "options": [
+            {"hi": "ठंडे", "en": "Cold"},
+            {"hi": "सुखद (गर्म)", "en": "Pleasant (Warm)"},
+            {"hi": "अजीब", "en": "Strange"},
+            {"hi": "चुभने वाले", "en": "Prickly"}
+          ],
+          "answer": {"hi": "सुखद (गर्म)", "en": "Pleasant (Warm)"}
+        },
+        {
+          "q": {
+            "hi": "डॉक्टरी थर्मामीटर को धोते समय किसका उपयोग सुरक्षित रहता है?",
+            "en": "What is safe to use while washing a clinical thermometer?"
+          },
+          "options": [
+            {"hi": "उबलता पानी", "en": "Boiling water"},
+            {"hi": "पूतिरोधी (ऐंटीसेप्टिक) घोल", "en": "Antiseptic solution"},
+            {"hi": "दूध", "en": "Milk"},
+            {"hi": "तेल", "en": "Oil"}
+          ],
+          "answer": {"hi": "पूतिरोधी (ऐंटीसेप्टिक) घोल", "en": "Antiseptic solution"}
+        },
+        {
+          "q": {
+            "hi": "एक स्वस्थ व्यक्ति के विशाल समूह के शरीर का औसत ताप क्या कहलाता है?",
+            "en": "What is the average body temperature of a large group of healthy persons called?"
+          },
+          "options": [
+            {"hi": "उच्च ताप", "en": "High temperature"},
+            {"hi": "सामान्य ताप", "en": "Normal temperature"},
+            {"hi": "न्यूनतम ताप", "en": "Minimum temperature"},
+            {"hi": "बुखार", "en": "Fever"}
+          ],
+          "answer": {"hi": "सामान्य ताप", "en": "Normal temperature"}
+        }
+      ],
+      "section5": [
+        {
+          "q": {
+            "hi": "प्रयोगशाला तापमापी को बर्तन में कैसे रखना चाहिए?",
+            "en": "How should a laboratory thermometer be placed in a vessel?"
+          },
+          "options": [
+            {"hi": "तिरछा", "en": "Tilted"},
+            {"hi": "ऊर्ध्वाधर (सीधा)", "en": "Vertical (Straight)"},
+            {"hi": "तली पर लिटाकर", "en": "Lying on the bottom"},
+            {"hi": "दीवारों से सटाकर", "en": "Against the walls"}
+          ],
+          "answer": {"hi": "ऊर्ध्वाधर (सीधा)", "en": "Vertical (Straight)"}
+        },
+        {
+          "q": {
+            "hi": "क्या लकड़ी की चम्मच को आइसक्रीम में डुबोने पर उसका दूसरा सिरा ठंडा होगा?",
+            "en": "Will the other end of a wooden spoon become cold when dipped in ice cream?"
+          },
+          "options": [
+            {"hi": "हाँ, चालन के कारण", "en": "Yes, due to conduction"},
+            {"hi": "हाँ, संवहन के कारण", "en": "Yes, due to convection"},
+            {"hi": "नहीं, क्योंकि लकड़ी कुचालक है", "en": "No, because wood is an insulator"},
+            {"hi": "हाँ, विकिरण के कारण", "en": "Yes, due to radiation"}
+          ],
+          "answer": {"hi": "नहीं, क्योंकि लकड़ी कुचालक है", "en": "No, because wood is an insulator"}
+        },
+        {
+          "q": {
+            "hi": "स्टेनलेस इस्पात की कड़ाही में ताँबे की तली क्यों लगाई जाती है?",
+            "en": "Why is a copper bottom provided in a stainless steel pan?"
+          },
+          "options": [
+            {"hi": "सुंदरता के लिए", "en": "For beauty"},
+            {"hi": "ताँबा ऊष्मा का अच्छा चालक है", "en": "Copper is a better conductor of heat"},
+            {"hi": "सफाई के लिए", "en": "For cleaning"},
+            {"hi": "वजन बढ़ाने के लिए", "en": "To increase weight"}
+          ],
+          "answer": {"hi": "ताँबा ऊष्मा का अच्छा चालक है", "en": "Copper is a better conductor of heat"}
+        },
+        {
+          "q": {
+            "hi": "0°C पर बर्फ जमती है, इसे क्या कहते हैं?",
+            "en": "Ice freezes at 0°C, what is this called?"
+          },
+          "options": [
+            {"hi": "क्वथनांक", "en": "Boiling point"},
+            {"hi": "हिमांक", "en": "Freezing point"},
+            {"hi": "तापमान", "en": "Temperature"},
+            {"hi": "संवहन", "en": "Convection"}
+          ],
+          "answer": {"hi": "हिमांक", "en": "Freezing point"}
+        },
+        {
+          "q": {
+            "hi": "ऊनी वस्त्र पहनने पर हमें उष्णता का अनुभव क्यों होता है?",
+            "en": "Why do we feel warm when wearing woollen clothes?"
+          },
+          "options": [
+            {"hi": "क्योंकि ऊन गर्म होती है", "en": "Because wool is hot"},
+            {"hi": "क्योंकि वायु ऊष्मा को बाहर जाने से रोकती है", "en": "Because air prevents heat from going out"},
+            {"hi": "धूप के कारण", "en": "Due to sunlight"},
+            {"hi": "रंग के कारण", "en": "Due to colour"}
+          ],
+          "answer": {"hi": "क्योंकि वायु ऊष्मा को बाहर जाने से रोकती है", "en": "Because air prevents heat from going out"}
+        },
+        {
+          "q": {
+            "hi": "थर्मामीटर को धूप या आग के पास रखने से क्या हो सकता है?",
+            "en": "What can happen if a thermometer is kept near sun or fire?"
+          },
+          "options": [
+            {"hi": "यह चमकने लगेगा", "en": "It will start shining"},
+            {"hi": "यह टूट सकता है", "en": "It can break"},
+            {"hi": "यह साफ हो जाएगा", "en": "It will get cleaned"},
+            {"hi": "कुछ नहीं होगा", "en": "Nothing will happen"}
+          ],
+          "answer": {"hi": "यह टूट सकता है", "en": "It can break"}
+        },
+        {
+          "q": {
+            "hi": "ऊष्मा स्थानांतरण के लिए माध्यम की आवश्यकता किन प्रक्रमों में होती है?",
+            "en": "In which processes is a medium required for heat transfer?"
+          },
+          "options": [
+            {"hi": "केवल चालन", "en": "Only conduction"},
+            {"hi": "चालन तथा संवहन", "en": "Conduction and Convection"},
+            {"hi": "विकिरण", "en": "Radiation"},
+            {"hi": "किसी में नहीं", "en": "In none"}
+          ],
+          "answer": {"hi": "चालन तथा संवहन", "en": "Conduction and Convection"}
+        },
+        {
+          "q": {
+            "hi": "प्रयोगशाला तापमापी का बल्ब बर्तन की तली से क्यों नहीं छूना चाहिए?",
+            "en": "Why should the bulb of a lab thermometer not touch the bottom of the vessel?"
+          },
+          "options": [
+            {"hi": "ताकि वह टूटे नहीं", "en": "So that it doesn't break"},
+            {"hi": "केवल वस्तु का सही ताप मापने के लिए", "en": "To measure the correct temperature of the object only"},
+            {"hi": "पारे को बचाने के लिए", "en": "To save the mercury"},
+            {"hi": "नियमों के कारण", "en": "Due to rules"}
+          ],
+          "answer": {"hi": "केवल वस्तु का सही ताप मापने के लिए", "en": "To measure the correct temperature of the object only"}
+        },
+        {
+          "q": {
+            "hi": "खोखली ईंटों का उपयोग भवन निर्माण में क्यों किया जाता है?",
+            "en": "Why are hollow bricks used in building construction?"
+          },
+          "options": [
+            {"hi": "वजन कम करने के लिए", "en": "To reduce weight"},
+            {"hi": "वायु की परत द्वारा तापमान नियंत्रित रखने के लिए", "en": "To control temperature by a layer of air"},
+            {"hi": "सस्ता होने के कारण", "en": "Because they are cheap"},
+            {"hi": "मजबूती के लिए", "en": "For strength"}
+          ],
+          "answer": {"hi": "वायु की परत द्वारा तापमान नियंत्रित रखने के लिए", "en": "To control temperature by a layer of air"}
+        },
+        {
+          "q": {
+            "hi": "1742 में सेल्सियस स्केल की अभिकल्पना किसने की थी?",
+            "en": "Who designed the Celsius scale in 1742?"
+          },
+          "options": [
+            {"hi": "फारेनहाइट", "en": "Fahrenheit"},
+            {"hi": "ऐंडर्स सेल्सियस", "en": "Anders Celsius"},
+            {"hi": "केल्विन", "en": "Kelvin"},
+            {"hi": "पास्कल", "en": "Pascal"}
+          ],
+          "answer": {"hi": "ऐंडर्स सेल्सियस", "en": "Anders Celsius"}
+        }
+      ]
     }
   }
 }
