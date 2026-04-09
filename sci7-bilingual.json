@@ -661,6 +661,668 @@
           "answer": {"hi": "CO2 + जल → कार्बोहाइड्रेट + O2", "en": "CO2 + Water → Carbohydrate + O2"}
         }
       ]
+    },
+    "chapter02": {
+      "section1": [
+        {
+          "q": {
+            "hi": "प्राणी अपना भोजन प्रत्यक्ष अथवा परोक्ष रूप से किससे प्राप्त करते हैं?",
+            "en": "From where do animals obtain their food directly or indirectly?"
+          },
+          "options": [
+            {"hi": "हवा से", "en": "From air"},
+            {"hi": "पौधों से", "en": "From plants"},
+            {"hi": "मिट्टी से", "en": "From soil"},
+            {"hi": "बादलों से", "en": "From clouds"}
+          ],
+          "answer": {"hi": "पौधों से", "en": "From plants"}
+        },
+        {
+          "q": {
+            "hi": "जटिल खाद्य पदार्थों का सरल पदार्थों में परिवर्तित होना क्या कहलाता है?",
+            "en": "The breakdown of complex components of food into simpler substances is called?"
+          },
+          "options": [
+            {"hi": "श्वसन", "en": "Respiration"},
+            {"hi": "पाचन", "en": "Digestion"},
+            {"hi": "उत्सर्जन", "en": "Excretion"},
+            {"hi": "प्रकाश संश्लेषण", "en": "Photosynthesis"}
+          ],
+          "answer": {"hi": "पाचन", "en": "Digestion"}
+        },
+        {
+          "q": {
+            "hi": "मधुमक्खी एवं मर्मर पक्षी (हमिंग बर्ड) भोजन किस विधि से ग्रहण करते हैं?",
+            "en": "What is the mode of taking food in bees and hummingbirds?"
+          },
+          "options": [
+            {"hi": "चूसना", "en": "Sucking"},
+            {"hi": "निगलना", "en": "Swallowing"},
+            {"hi": "चबाना", "en": "Chewing"},
+            {"hi": "पकड़ना", "en": "Capturing"}
+          ],
+          "answer": {"hi": "चूसना", "en": "Sucking"}
+        },
+        {
+          "q": {
+            "hi": "अजगर जैसे सर्प भोजन किस प्रकार ग्रहण करते हैं?",
+            "en": "How do snakes like pythons take their food?"
+          },
+          "options": [
+            {"hi": "चबाकर", "en": "By chewing"},
+            {"hi": "चूसकर", "en": "By sucking"},
+            {"hi": "पूरा निगलकर", "en": "By swallowing whole"},
+            {"hi": "छानकर", "en": "By filtering"}
+          ],
+          "answer": {"hi": "पूरा निगलकर", "en": "By swallowing whole"}
+        },
+        {
+          "q": {
+            "hi": "स्टारफिश (तारा मछली) का मुख्य आहार क्या है?",
+            "en": "What is the primary food of starfish?"
+          },
+          "options": [
+            {"hi": "घास", "en": "Grass"},
+            {"hi": "कैल्सियम कार्बोनेट के कठोर कवच वाले जंतु", "en": "Animals covered by hard shells of calcium carbonate"},
+            {"hi": "मकरंद", "en": "Nectar"},
+            {"hi": "मिट्टी", "en": "Soil"}
+          ],
+          "answer": {"hi": "कैल्सियम कार्बोनेट के कठोर कवच वाले जंतु", "en": "Animals covered by hard shells of calcium carbonate"}
+        },
+        {
+          "q": {
+            "hi": "भोजन को शरीर के अंदर लेने की क्रिया क्या कहलाती है?",
+            "en": "The process of taking food into the body is called?"
+          },
+          "options": [
+            {"hi": "पाचन", "en": "Digestion"},
+            {"hi": "अवशोषण", "en": "Absorption"},
+            {"hi": "अंतर्ग्रहण", "en": "Ingestion"},
+            {"hi": "निष्कासन", "en": "Egestion"}
+          ],
+          "answer": {"hi": "अंतर्ग्रहण", "en": "Ingestion"}
+        },
+        {
+          "q": {
+            "hi": "मानव पाचन नली (आहार नाल) कहाँ से शुरू होती है?",
+            "en": "The human digestive tract starts from which part?"
+          },
+          "options": [
+            {"hi": "आमाशय", "en": "Stomach"},
+            {"hi": "मुख-गुहिका", "en": "Buccal cavity"},
+            {"hi": "क्षुद्रांत्र", "en": "Small intestine"},
+            {"hi": "ग्रसिका", "en": "Oesophagus"}
+          ],
+          "answer": {"hi": "मुख-गुहिका", "en": "Buccal cavity"}
+        },
+        {
+          "q": {
+            "hi": "दूध के दाँत लगभग किस आयु तक गिर जाते हैं?",
+            "en": "At approximately what age do milk teeth fall off?"
+          },
+          "options": [
+            {"hi": "2 वर्ष", "en": "2 years"},
+            {"hi": "5 वर्ष", "en": "5 years"},
+            {"hi": "8 वर्ष", "en": "8 years"},
+            {"hi": "15 वर्ष", "en": "15 years"}
+          ],
+          "answer": {"hi": "8 वर्ष", "en": "8 years"}
+        },
+        {
+          "q": {
+            "hi": "भोजन को काटने एवं दंशन के लिए किन दाँतों का उपयोग होता है?",
+            "en": "Which teeth are used for cutting and biting?"
+          },
+          "options": [
+            {"hi": "रदनक", "en": "Canines"},
+            {"hi": "चर्वणक", "en": "Molars"},
+            {"hi": "कृतक", "en": "Incisors"},
+            {"hi": "अग्रचर्वणक", "en": "Premolars"}
+          ],
+          "answer": {"hi": "कृतक", "en": "Incisors"}
+        },
+        {
+          "q": {
+            "hi": "दाँतों को चीरने और फाड़ने के काम कौन से दाँत आते हैं?",
+            "en": "Which teeth are meant for piercing and tearing?"
+          },
+          "options": [
+            {"hi": "कृतक", "en": "Incisors"},
+            {"hi": "रदनक", "en": "Canines"},
+            {"hi": "अग्रचर्वणक", "en": "Premolars"},
+            {"hi": "चर्वणक", "en": "Molars"}
+          ],
+          "answer": {"hi": "रदनक", "en": "Canines"}
+        }
+      ],
+      "section2": [
+        {
+          "q": {
+            "hi": "मुख में लाला रस (लार) क्या कार्य करता है?",
+            "en": "What is the function of saliva in the mouth?"
+          },
+          "options": [
+            {"hi": "वसा को पचाना", "en": "Digesting fat"},
+            {"hi": "मंड को शर्करा में बदलना", "en": "Converting starch into sugars"},
+            {"hi": "अम्ल बनाना", "en": "Making acid"},
+            {"hi": "हड्डियों को मजबूत करना", "en": "Strengthening bones"}
+          ],
+          "answer": {"hi": "मंड को शर्करा में बदलना", "en": "Converting starch into sugars"}
+        },
+        {
+          "q": {
+            "hi": "जीभ एक कैसा अंग है?",
+            "en": "What kind of organ is the tongue?"
+          },
+          "options": [
+            {"hi": "अस्थिल अंग", "en": "Bony organ"},
+            {"hi": "माँसल पेशीय अंग", "en": "Fleshy muscular organ"},
+            {"hi": "कठोर अंग", "en": "Hard organ"},
+            {"hi": "संवेदी बाल", "en": "Sensory hair"}
+          ],
+          "answer": {"hi": "माँसल पेशीय अंग", "en": "Fleshy muscular organ"}
+        },
+        {
+          "q": {
+            "hi": "दंत क्षय का मुख्य कारण क्या है?",
+            "en": "What is the main cause of tooth decay?"
+          },
+          "options": [
+            {"hi": "फल खाना", "en": "Eating fruits"},
+            {"hi": "जीवाणुओं द्वारा शर्करा का विघटन कर अम्ल बनाना", "en": "Breakdown of sugars by bacteria to release acid"},
+            {"hi": "पानी पीना", "en": "Drinking water"},
+            {"hi": "नमक का उपयोग", "en": "Use of salt"}
+          ],
+          "answer": {"hi": "जीवाणुओं द्वारा शर्करा का विघटन कर अम्ल बनाना", "en": "Breakdown of sugars by bacteria to release acid"}
+        },
+        {
+          "q": {
+            "hi": "ग्रसिका में भोजन की गति कैसी होती है?",
+            "en": "How does food move in the oesophagus?"
+          },
+          "options": [
+            {"hi": "ऊपर की ओर", "en": "Upwards"},
+            {"hi": "भित्ति के संकुचन के कारण नीचे की ओर", "en": "Downwards due to contraction of walls"},
+            {"hi": "स्थिर रहती है", "en": "Stays still"},
+            {"hi": "तेजी से गिरती है", "en": "Falls rapidly"}
+          ],
+          "answer": {"hi": "भित्ति के संकुचन के कारण नीचे की ओर", "en": "Downwards due to contraction of walls"}
+        },
+        {
+          "q": {
+            "hi": "आहार नाल का सबसे चौड़ा भाग कौन सा है?",
+            "en": "Which is the widest part of the alimentary canal?"
+          },
+          "options": [
+            {"hi": "मुख-गुहिका", "en": "Buccal cavity"},
+            {"hi": "क्षुद्रांत्र", "en": "Small intestine"},
+            {"hi": "आमाशय", "en": "Stomach"},
+            {"hi": "बृहदांत्र", "en": "Large intestine"}
+          ],
+          "answer": {"hi": "आमाशय", "en": "Stomach"}
+        },
+        {
+          "q": {
+            "hi": "आमाशय का आकार अंग्रेजी के किस अक्षर जैसा होता है?",
+            "en": "The stomach is shaped like which English alphabet?"
+          },
+          "options": [
+            {"hi": "O", "en": "O"},
+            {"hi": "J", "en": "J"},
+            {"hi": "C", "en": "C"},
+            {"hi": "L", "en": "L"}
+          ],
+          "answer": {"hi": "J", "en": "J"}
+        },
+        {
+          "q": {
+            "hi": "आमाशय में स्रावित होने वाला हाइड्रोक्लोरिक अम्ल क्या करता है?",
+            "en": "What is the function of hydrochloric acid secreted in the stomach?"
+          },
+          "options": [
+            {"hi": "भोजन को ठंडा करना", "en": "Cooling the food"},
+            {"hi": "जीवाणुओं को नष्ट करना एवं माध्यम अम्लीय बनाना", "en": "Killing bacteria and making the medium acidic"},
+            {"hi": "वसा को पचाना", "en": "Digesting fat"},
+            {"hi": "विटामिन बनाना", "en": "Making vitamins"}
+          ],
+          "answer": {"hi": "जीवाणुओं को नष्ट करना एवं माध्यम अम्लीय बनाना", "en": "Killing bacteria and making the medium acidic"}
+        },
+        {
+          "q": {
+            "hi": "आमाशय में पाचक रस (जठर रस) किसका पाचन करते हैं?",
+            "en": "Digestive juices in the stomach break down which component?"
+          },
+          "options": [
+            {"hi": "कार्बोहाइड्रेट", "en": "Carbohydrates"},
+            {"hi": "विटामिन", "en": "Vitamins"},
+            {"hi": "प्रोटीन", "en": "Proteins"},
+            {"hi": "वसा", "en": "Fats"}
+          ],
+          "answer": {"hi": "प्रोटीन", "en": "Proteins"}
+        },
+        {
+          "q": {
+            "hi": "क्षुद्रांत्र (छोटी आँत) की लंबाई लगभग कितनी होती है?",
+            "en": "What is the approximate length of the small intestine?"
+          },
+          "options": [
+            {"hi": "1.5 मीटर", "en": "1.5 metres"},
+            {"hi": "3 मीटर", "en": "3 metres"},
+            {"hi": "7.5 मीटर", "en": "7.5 metres"},
+            {"hi": "10 मीटर", "en": "10 metres"}
+          ],
+          "answer": {"hi": "7.5 मीटर", "en": "7.5 metres"}
+        },
+        {
+          "q": {
+            "hi": "मानव शरीर की सबसे बड़ी ग्रंथि कौन सी है?",
+            "en": "Which is the largest gland in the human body?"
+          },
+          "options": [
+            {"hi": "अग्न्याशय", "en": "Pancreas"},
+            {"hi": "यकृत (लीवर)", "en": "Liver"},
+            {"hi": "लाला-ग्रंथि", "en": "Salivary gland"},
+            {"hi": "थायरॉयड", "en": "Thyroid"}
+          ],
+          "answer": {"hi": "यकृत (लीवर)", "en": "Liver"}
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "पित्त रस कहाँ संग्रहित होता है?",
+            "en": "Where is bile juice stored?"
+          },
+          "options": [
+            {"hi": "यकृत में", "en": "In liver"},
+            {"hi": "पित्ताशय में", "en": "In gall bladder"},
+            {"hi": "आमाशय में", "en": "In stomach"},
+            {"hi": "अग्न्याशय में", "en": "In pancreas"}
+          ],
+          "answer": {"hi": "पित्ताशय में", "en": "In gall bladder"}
+        },
+        {
+          "q": {
+            "hi": "पित्त रस किसके पाचन में महत्वपूर्ण भूमिका निभाता है?",
+            "en": "Bile plays an important role in the digestion of?"
+          },
+          "options": [
+            {"hi": "प्रोटीन", "en": "Proteins"},
+            {"hi": "कार्बोहाइड्रेट", "en": "Carbohydrates"},
+            {"hi": "वसा (Fats)", "en": "Fats"},
+            {"hi": "विटामिन", "en": "Vitamins"}
+          ],
+          "answer": {"hi": "वसा (Fats)", "en": "Fats"}
+        },
+        {
+          "q": {
+            "hi": "प्रोटीन पाचन के बाद किसमें बदल जाते हैं?",
+            "en": "Proteins change into what after digestion?"
+          },
+          "options": [
+            {"hi": "ग्लूकोस", "en": "Glucose"},
+            {"hi": "वसा अम्ल", "en": "Fatty acids"},
+            {"hi": "ऐमीनो अम्ल", "en": "Amino acids"},
+            {"hi": "ग्लिसरॉल", "en": "Glycerol"}
+          ],
+          "answer": {"hi": "ऐमीनो अम्ल", "en": "Amino acids"}
+        },
+        {
+          "q": {
+            "hi": "क्षुद्रांत्र की आंतरिक भित्ति पर अँगुली के समान उभरी संरचनाएँ क्या कहलाती हैं?",
+            "en": "The finger-like outgrowths on the inner walls of the small intestine are called?"
+          },
+          "options": [
+            {"hi": "पादाभ", "en": "Pseudopodia"},
+            {"hi": "दीर्घरोम (रसांकुर)", "en": "Villi"},
+            {"hi": "रंध्र", "en": "Stomata"},
+            {"hi": "कोशिका", "en": "Cells"}
+          ],
+          "answer": {"hi": "दीर्घरोम (रसांकुर)", "en": "Villi"}
+        },
+        {
+          "q": {
+            "hi": "दीर्घरोम का मुख्य कार्य क्या है?",
+            "en": "What is the main function of villi?"
+          },
+          "options": [
+            {"hi": "भोजन को चबाना", "en": "Chewing food"},
+            {"hi": "पचे हुए भोजन के अवशोषण हेतु तल क्षेत्र बढ़ाना", "en": "Increasing surface area for absorption of digested food"},
+            {"hi": "अम्ल बनाना", "en": "Making acid"},
+            {"hi": "अपशिष्ट बाहर निकालना", "en": "Removing waste"}
+          ],
+          "answer": {"hi": "पचे हुए भोजन के अवशोषण हेतु तल क्षेत्र बढ़ाना", "en": "Increasing surface area for absorption of digested food"}
+        },
+        {
+          "q": {
+            "hi": "अवशोषित भोजन का शरीर के उपयोग हेतु स्थानांतरण क्या कहलाता है?",
+            "en": "The transport of absorbed substances to different organs for body use is called?"
+          },
+          "options": [
+            {"hi": "अवशोषण", "en": "Absorption"},
+            {"hi": "स्वांगीकरण", "en": "Assimilation"},
+            {"hi": "अंतर्ग्रहण", "en": "Ingestion"},
+            {"hi": "पाचन", "en": "Digestion"}
+          ],
+          "answer": {"hi": "स्वांगीकरण", "en": "Assimilation"}
+        },
+        {
+          "q": {
+            "hi": "जल एवं लवणों का अवशोषण मुख्यतः कहाँ होता है?",
+            "en": "Where does the absorption of water and salts mainly take place?"
+          },
+          "options": [
+            {"hi": "आमाशय", "en": "Stomach"},
+            {"hi": "क्षुद्रांत्र", "en": "Small intestine"},
+            {"hi": "बृहदांत्र (बड़ी आँत)", "en": "Large intestine"},
+            {"hi": "मुख", "en": "Mouth"}
+          ],
+          "answer": {"hi": "बृहदांत्र (बड़ी आँत)", "en": "Large intestine"}
+        },
+        {
+          "q": {
+            "hi": "बृहदांत्र (बड़ी आँत) की लंबाई लगभग कितनी है?",
+            "en": "What is the approximate length of the large intestine?"
+          },
+          "options": [
+            {"hi": "1.5 मीटर", "en": "1.5 metres"},
+            {"hi": "7.5 मीटर", "en": "7.5 metres"},
+            {"hi": "5 मीटर", "en": "5 metres"},
+            {"hi": "10 मीटर", "en": "10 metres"}
+          ],
+          "answer": {"hi": "1.5 मीटर", "en": "1.5 metres"}
+        },
+        {
+          "q": {
+            "hi": "ग्लूकोस का विघटन ऑक्सीजन की सहायता से किसमें होता है?",
+            "en": "Glucose breaks down with the help of oxygen into?"
+          },
+          "options": [
+            {"hi": "केवल जल", "en": "Water only"},
+            {"hi": "कार्बन डाइऑक्साइड, जल एवं ऊर्जा", "en": "Carbon dioxide, water and energy"},
+            {"hi": "वसा अम्ल", "en": "Fatty acids"},
+            {"hi": "प्रोटीन", "en": "Proteins"}
+          ],
+          "answer": {"hi": "कार्बन डाइऑक्साइड, जल एवं ऊर्जा", "en": "Carbon dioxide, water and energy"}
+        },
+        {
+          "q": {
+            "hi": "ओ.आर.एस. (ORS) का उपयोग कब किया जाता है?",
+            "en": "When is ORS used?"
+          },
+          "options": [
+            {"hi": "नींद आने पर", "en": "When feeling sleepy"},
+            {"hi": "दस्त (Diarrhoea) होने पर", "en": "In case of diarrhoea"},
+            {"hi": "भूख लगने पर", "en": "When hungry"},
+            {"hi": "चोट लगने पर", "en": "When injured"}
+          ],
+          "answer": {"hi": "दस्त (Diarrhoea) होने पर", "en": "In case of diarrhoea"}
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "घास खाने वाले जंतुओं में आमाशय का प्रथम भाग क्या कहलाता है?",
+            "en": "What is the first compartment of the stomach in grass-eating animals?"
+          },
+          "options": [
+            {"hi": "क्षुद्रांत्र", "en": "Small intestine"},
+            {"hi": "रूमेन", "en": "Rumen"},
+            {"hi": "अंधनाल", "en": "Caecum"},
+            {"hi": "ग्रसिका", "en": "Oesophagus"}
+          ],
+          "answer": {"hi": "रूमेन", "en": "Rumen"}
+        },
+        {
+          "q": {
+            "hi": "जुगाल (कड) क्या है?",
+            "en": "What is cud?"
+          },
+          "options": [
+            {"hi": "पूरी तरह पचा भोजन", "en": "Fully digested food"},
+            {"hi": "रूमेन में आंशिक रूप से पचा भोजन", "en": "Partially digested food in the rumen"},
+            {"hi": "मिट्टी", "en": "Soil"},
+            {"hi": "दूध", "en": "Milk"}
+          ],
+          "answer": {"hi": "रूमेन में आंशिक रूप से पचा भोजन", "en": "Partially digested food in the rumen"}
+        },
+        {
+          "q": {
+            "hi": "घास में प्रचुर मात्रा में पाया जाने वाला कार्बोहाइड्रेट कौन सा है?",
+            "en": "Which carbohydrate is found in abundance in grass?"
+          },
+          "options": [
+            {"hi": "ग्लूकोस", "en": "Glucose"},
+            {"hi": "शर्करा", "en": "Sugar"},
+            {"hi": "सेलुलोस", "en": "Cellulose"},
+            {"hi": "मंड", "en": "Starch"}
+          ],
+          "answer": {"hi": "सेलुलोस", "en": "Cellulose"}
+        },
+        {
+          "q": {
+            "hi": "मनुष्य सेलुलोस को क्यों नहीं पचा सकता?",
+            "en": "Why can't humans digest cellulose?"
+          },
+          "options": [
+            {"hi": "दाँतों की कमी के कारण", "en": "Due to lack of teeth"},
+            {"hi": "आहार नाल में सेलुलोस पचाने वाले जीवाणुओं की अनुपस्थिति के कारण", "en": "Due to absence of cellulose-digesting bacteria in the digestive tract"},
+            {"hi": "पानी की कमी के कारण", "en": "Due to lack of water"},
+            {"hi": "पसीना न आने के कारण", "en": "Due to lack of sweating"}
+          ],
+          "answer": {"hi": "आहार नाल में सेलुलोस पचाने वाले जीवाणुओं की अनुपस्थिति के कारण", "en": "Due to absence of cellulose-digesting bacteria in the digestive tract"}
+        },
+        {
+          "q": {
+            "hi": "अमीबा कैसा जीव है?",
+            "en": "What kind of organism is Amoeba?"
+          },
+          "options": [
+            {"hi": "बहुकोशिक", "en": "Multicellular"},
+            {"hi": "एककोशिक", "en": "Unicellular"},
+            {"hi": "मृतजीवी", "en": "Saprophyte"},
+            {"hi": "बड़ा जंतु", "en": "Large animal"}
+          ],
+          "answer": {"hi": "एककोशिक", "en": "Unicellular"}
+        },
+        {
+          "q": {
+            "hi": "अमीबा गति करने और भोजन पकड़ने के लिए किसका उपयोग करता है?",
+            "en": "What does Amoeba use for movement and capturing food?"
+          },
+          "options": [
+            {"hi": "पंखों का", "en": "Wings"},
+            {"hi": "पादाभ (कृत्रिम पाँव)", "en": "Pseudopodia"},
+            {"hi": "पूँछ का", "en": "Tail"},
+            {"hi": "जीभ का", "en": "Tongue"}
+          ],
+          "answer": {"hi": "पादाभ (कृत्रिम पाँव)", "en": "Pseudopodia"}
+        },
+        {
+          "q": {
+            "hi": "अमीबा में भोजन का पाचन कहाँ होता है?",
+            "en": "Where is food digested in Amoeba?"
+          },
+          "options": [
+            {"hi": "केंद्रक में", "en": "In nucleus"},
+            {"hi": "खाद्य धानी में", "en": "In food vacuole"},
+            {"hi": "त्वचा पर", "en": "On skin"},
+            {"hi": "हवा में", "en": "In air"}
+          ],
+          "answer": {"hi": "खाद्य धानी में", "en": "In food vacuole"}
+        },
+        {
+          "q": {
+            "hi": "घोड़े और खरगोश में सेलुलोस का पाचन कहाँ होता है?",
+            "en": "Where is cellulose digested in horses and rabbits?"
+          },
+          "options": [
+            {"hi": "मुख में", "en": "In mouth"},
+            {"hi": "अंधनाल (Caecum) में", "en": "In caecum"},
+            {"hi": "आमाशय में", "en": "In stomach"},
+            {"hi": "फेफड़ों में", "en": "In lungs"}
+          ],
+          "answer": {"hi": "अंधनाल (Caecum) में", "en": "In caecum"}
+        },
+        {
+          "q": {
+            "hi": "पोषण के मुख्य चरणों का सही क्रम क्या है?",
+            "en": "What is the correct sequence of the main steps of nutrition?"
+          },
+          "options": [
+            {"hi": "पाचन, अवशोषण, अंतर्ग्रहण, निष्कासन", "en": "Digestion, Absorption, Ingestion, Egestion"},
+            {"hi": "अंतर्ग्रहण, पाचन, अवशोषण, स्वांगीकरण, निष्कासन", "en": "Ingestion, Digestion, Absorption, Assimilation, Egestion"},
+            {"hi": "अवशोषण, पाचन, अंतर्ग्रहण", "en": "Absorption, Digestion, Ingestion"},
+            {"hi": "निष्कासन, पाचन, अंतर्ग्रहण", "en": "Egestion, Digestion, Ingestion"}
+          ],
+          "answer": {"hi": "अंतर्ग्रहण, पाचन, अवशोषण, स्वांगीकरण, निष्कासन", "en": "Ingestion, Digestion, Absorption, Assimilation, Egestion"}
+        },
+        {
+          "q": {
+            "hi": "आमाशय की कार्य प्रणाली की खोज किसने की थी?",
+            "en": "Who discovered the working of the stomach?"
+          },
+          "options": [
+            {"hi": "न्यूटन", "en": "Newton"},
+            {"hi": "विलियम ब्यूमॉण्ट", "en": "William Beaumont"},
+            {"hi": "चार्ल्स डार्विन", "en": "Charles Darwin"},
+            {"hi": "आर्यभट्ट", "en": "Aryabhata"}
+          ],
+          "answer": {"hi": "विलियम ब्यूमॉण्ट", "en": "William Beaumont"}
+        }
+      ],
+      "section5": [
+        {
+          "q": {
+            "hi": "बकरी का दूध गाय के दूध की तुलना में आसानी से क्यों पचता है?",
+            "en": "Why is goat's milk easier to digest than cow's milk?"
+          },
+          "options": [
+            {"hi": "यह मीठा होता है", "en": "It is sweet"},
+            {"hi": "इसकी वसा संरचना सरल होती है", "en": "Its fat structure is simpler"},
+            {"hi": "इसमें पानी ज्यादा होता है", "en": "It has more water"},
+            {"hi": "इसमें नमक होता है", "en": "It has salt"}
+          ],
+          "answer": {"hi": "इसकी वसा संरचना सरल होती है", "en": "Its fat structure is simpler"}
+        },
+        {
+          "q": {
+            "hi": "अग्न्याशयिक रस किन पर क्रिया करता है?",
+            "en": "Pancreatic juice acts on?"
+          },
+          "options": [
+            {"hi": "केवल जल", "en": "Water only"},
+            {"hi": "कार्बोहाइड्रेट, वसा एवं प्रोटीन", "en": "Carbohydrates, fats and proteins"},
+            {"hi": "केवल विटामिन", "en": "Vitamins only"},
+            {"hi": "केवल लवण", "en": "Salts only"}
+          ],
+          "answer": {"hi": "कार्बोहाइड्रेट, वसा एवं प्रोटीन", "en": "Carbohydrates, fats and proteins"}
+        },
+        {
+          "q": {
+            "hi": "वसा पाचन के बाद किसमें बदल जाती है?",
+            "en": "Fats change into what after digestion?"
+          },
+          "options": [
+            {"hi": "ऐमीनो अम्ल", "en": "Amino acids"},
+            {"hi": "वसा अम्ल एवं ग्लिसरॉल", "en": "Fatty acids and glycerol"},
+            {"hi": "केवल ग्लूकोस", "en": "Glucose only"},
+            {"hi": "मंड", "en": "Starch"}
+          ],
+          "answer": {"hi": "वसा अम्ल एवं ग्लिसरॉल", "en": "Fatty acids and glycerol"}
+        },
+        {
+          "q": {
+            "hi": "कार्बोहाइड्रेट पाचन के बाद किस सरल शर्करा में बदल जाते हैं?",
+            "en": "Carbohydrates change into which simple sugar after digestion?"
+          },
+          "options": [
+            {"hi": "ऐमीनो अम्ल", "en": "Amino acids"},
+            {"hi": "वसा अम्ल", "en": "Fatty acids"},
+            {"hi": "ग्लूकोस", "en": "Glucose"},
+            {"hi": "विटामिन", "en": "Vitamins"}
+          ],
+          "answer": {"hi": "ग्लूकोस", "en": "Glucose"}
+        },
+        {
+          "q": {
+            "hi": "आमाशय की आंतरिक सतह को सुरक्षा कौन प्रदान करता है?",
+            "en": "What provides protection to the inner lining of the stomach?"
+          },
+          "options": [
+            {"hi": "अम्ल", "en": "Acid"},
+            {"hi": "श्लेष्मल (Mucous)", "en": "Mucous"},
+            {"hi": "पाचक रस", "en": "Digestive juices"},
+            {"hi": "भोजन", "en": "Food"}
+          ],
+          "answer": {"hi": "श्लेष्मल (Mucous)", "en": "Mucous"}
+        },
+        {
+          "q": {
+            "hi": "भोजन के पाचन का आधारभूत प्रक्रम क्या है?",
+            "en": "What is the basic process of digestion of food?"
+          },
+          "options": [
+            {"hi": "केवल भोजन को निगलना", "en": "Only swallowing food"},
+            {"hi": "खाद्य पदार्थों का सरल पदार्थों में परिवर्तन एवं ऊर्जा मुक्त होना", "en": "Breakdown of food into simpler substances and release of energy"},
+            {"hi": "केवल पानी पीना", "en": "Only drinking water"},
+            {"hi": "केवल चबाना", "en": "Only chewing"}
+          ],
+          "answer": {"hi": "खाद्य पदार्थों का सरल पदार्थों में परिवर्तन एवं ऊर्जा मुक्त होना", "en": "Breakdown of food into simpler substances and release of energy"}
+        },
+        {
+          "q": {
+            "hi": "अमीबा अपने अपशिष्ट को कहाँ से बाहर निकालता है?",
+            "en": "From where does Amoeba expel its waste?"
+          },
+          "options": [
+            {"hi": "मुख से", "en": "From mouth"},
+            {"hi": "खाद्य धानी द्वारा", "en": "By food vacuole"},
+            {"hi": "केंद्रक द्वारा", "en": "By nucleus"},
+            {"hi": "हवा द्वारा", "en": "By air"}
+          ],
+          "answer": {"hi": "खाद्य धानी द्वारा", "en": "By food vacuole"}
+        },
+        {
+          "q": {
+            "hi": "रूमिनैन्ट में सेलुलोस का पाचन किसके द्वारा होता है?",
+            "en": "In ruminants, cellulose is digested by?"
+          },
+          "options": [
+            {"hi": "अम्ल द्वारा", "en": "By acid"},
+            {"hi": "विशिष्ट जीवाणुओं द्वारा", "en": "By specific bacteria"},
+            {"hi": "धूप द्वारा", "en": "By sunlight"},
+            {"hi": "पानी द्वारा", "en": "By water"}
+          ],
+          "answer": {"hi": "विशिष्ट जीवाणुओं द्वारा", "en": "By specific bacteria"}
+        },
+        {
+          "q": {
+            "hi": "पाचन तंत्र का निर्माण कौन करता है?",
+            "en": "What constitutes the digestive system?"
+          },
+          "options": [
+            {"hi": "केवल दाँत", "en": "Only teeth"},
+            {"hi": "आहार नाल एवं संबद्ध ग्रंथियाँ", "en": "Alimentary canal and associated glands"},
+            {"hi": "केवल फेफड़े", "en": "Only lungs"},
+            {"hi": "केवल हृदय", "en": "Only heart"}
+          ],
+          "answer": {"hi": "आहार नाल एवं संबद्ध ग्रंथियाँ", "en": "Alimentary canal and associated glands"}
+        },
+        {
+          "q": {
+            "hi": "मंड (Starch) का पाचन कहाँ से प्रारंभ होता है?",
+            "en": "Where does the digestion of starch start?"
+          },
+          "options": [
+            {"hi": "आमाशय में", "en": "In stomach"},
+            {"hi": "मुख में", "en": "In mouth"},
+            {"hi": "क्षुद्रांत्र में", "en": "In small intestine"},
+            {"hi": "बृहदांत्र में", "en": "In large intestine"}
+          ],
+          "answer": {"hi": "मुख में", "en": "In mouth"}
+        }
+      ]
     }
   }
 }
