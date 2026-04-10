@@ -3309,6 +3309,668 @@
           "answer": {"hi": "जंग जल्दी लगती है", "en": "Rusting is fast"}
         }
       ]
+    },
+    "chapter06": {
+      "section1": [
+        {
+          "q": {
+            "hi": "जीव की सबसे छोटी संरचनात्मक और क्रियात्मक इकाई क्या है?",
+            "en": "What is the smallest structural and functional unit of an organism?"
+          },
+          "options": [
+            {"hi": "ऊतक", "en": "Tissue"},
+            {"hi": "अंग", "en": "Organ"},
+            {"hi": "कोशिका", "en": "Cell"},
+            {"hi": "अंग तंत्र", "en": "Organ system"}
+          ],
+          "answer": {"hi": "कोशिका", "en": "Cell"}
+        },
+        {
+          "q": {
+            "hi": "कोशिका में भोजन के विखंडन के प्रक्रम को क्या कहते हैं?",
+            "en": "What is the process of breakdown of food in the cell called?"
+          },
+          "options": [
+            {"hi": "पाचन", "en": "Digestion"},
+            {"hi": "कोशिकीय श्वसन", "en": "Cellular respiration"},
+            {"hi": "उत्सर्जन", "en": "Excretion"},
+            {"hi": "परिवहन", "en": "Transport"}
+          ],
+          "answer": {"hi": "कोशिकीय श्वसन", "en": "Cellular respiration"}
+        },
+        {
+          "q": {
+            "hi": "जब ग्लूकोस का विखंडन ऑक्सीजन के उपयोग द्वारा होता है, तो वह क्या कहलाता है?",
+            "en": "When breakdown of glucose occurs with the use of oxygen it is called?"
+          },
+          "options": [
+            {"hi": "अवायवीय श्वसन", "en": "Anaerobic respiration"},
+            {"hi": "वायवीय श्वसन", "en": "Aerobic respiration"},
+            {"hi": "किण्वन", "en": "Fermentation"},
+            {"hi": "ऑक्सीकरण", "en": "Oxidation"}
+          ],
+          "answer": {"hi": "वायवीय श्वसन", "en": "Aerobic respiration"}
+        },
+        {
+          "q": {
+            "hi": "ऑक्सीजन की अनुपस्थिति में होने वाला भोजन का विखंडन क्या कहलाता है?",
+            "en": "The breakdown of food that occurs in the absence of oxygen is called?"
+          },
+          "options": [
+            {"hi": "वायवीय श्वसन", "en": "Aerobic respiration"},
+            {"hi": "अवायवीय श्वसन", "en": "Anaerobic respiration"},
+            {"hi": "श्वसन दर", "en": "Breathing rate"},
+            {"hi": "अंतःश्वसन", "en": "Inhalation"}
+          ],
+          "answer": {"hi": "अवायवीय श्वसन", "en": "Anaerobic respiration"}
+        },
+        {
+          "q": {
+            "hi": "यीस्ट अवायवीय श्वसन के दौरान क्या निर्मित करते हैं?",
+            "en": "What do yeasts produce during anaerobic respiration?"
+          },
+          "options": [
+            {"hi": "पानी", "en": "Water"},
+            {"hi": "लैक्टिक अम्ल", "en": "Lactic acid"},
+            {"hi": "ऐल्कोहॉल", "en": "Alcohol"},
+            {"hi": "सल्फर", "en": "Sulphur"}
+          ],
+          "answer": {"hi": "ऐल्कोहॉल", "en": "Alcohol"}
+        },
+        {
+          "q": {
+            "hi": "अत्यधिक व्यायाम करने के बाद हमारी पेशियों में ऐंठन क्यों होती है?",
+            "en": "Why do we get muscle cramps after heavy exercise?"
+          },
+          "options": [
+            {"hi": "CO2 के संचयन के कारण", "en": "Due to CO2 accumulation"},
+            {"hi": "लैक्टिक अम्ल के संचयन के कारण", "en": "Due to accumulation of lactic acid"},
+            {"hi": "ऑक्सीजन की अधिकता के कारण", "en": "Due to excess oxygen"},
+            {"hi": "पानी की कमी के कारण", "en": "Due to lack of water"}
+          ],
+          "answer": {"hi": "लैक्टिक अम्ल के संचयन के कारण", "en": "Due to accumulation of lactic acid"}
+        },
+        {
+          "q": {
+            "hi": "ऑक्सीजन से समृद्ध वायु को शरीर के अंदर लेना क्या कहलाता है?",
+            "en": "Taking in of air rich in oxygen into the body is called?"
+          },
+          "options": [
+            {"hi": "उच्छ्वसन", "en": "Exhalation"},
+            {"hi": "अंतःश्वसन", "en": "Inhalation"},
+            {"hi": "विसरण", "en": "Diffusion"},
+            {"hi": "किण्वन", "en": "Fermentation"}
+          ],
+          "answer": {"hi": "अंतःश्वसन", "en": "Inhalation"}
+        },
+        {
+          "q": {
+            "hi": "कार्बन डाइऑक्साइड से समृद्ध वायु को बाहर निकालना क्या कहलाता है?",
+            "en": "Giving out of air rich in carbon dioxide is known as?"
+          },
+          "options": [
+            {"hi": "उच्छ्वसन", "en": "Exhalation"},
+            {"hi": "अंतःश्वसन", "en": "Inhalation"},
+            {"hi": "अवशोषण", "en": "Absorption"},
+            {"hi": "उत्सर्जन", "en": "Excretion"}
+          ],
+          "answer": {"hi": "उच्छ्वसन", "en": "Exhalation"}
+        },
+        {
+          "q": {
+            "hi": "कोई व्यक्ति एक मिनट में जितनी बार श्वसन करता है, वह उसकी क्या कहलाती है?",
+            "en": "The number of times a person breathes in a minute is termed as?"
+          },
+          "options": [
+            {"hi": "हृदय दर", "en": "Heart rate"},
+            {"hi": "श्वसन दर", "en": "Breathing rate"},
+            {"hi": "नाड़ी दर", "en": "Pulse rate"},
+            {"hi": "ऊर्जा दर", "en": "Energy rate"}
+          ],
+          "answer": {"hi": "श्वसन दर", "en": "Breathing rate"}
+        },
+        {
+          "q": {
+            "hi": "एक श्वास (साँस) का क्या अर्थ है?",
+            "en": "What does one breath mean?"
+          },
+          "options": [
+            {"hi": "केवल एक अंतःश्वसन", "en": "Only one inhalation"},
+            {"hi": "केवल एक उच्छ्वसन", "en": "Only one exhalation"},
+            {"hi": "एक अंतःश्वसन और एक उच्छ्वसन", "en": "One inhalation and one exhalation"},
+            {"hi": "दो अंतःश्वसन", "en": "Two inhalations"}
+          ],
+          "answer": {"hi": "एक अंतःश्वसन और एक उच्छ्वसन", "en": "One inhalation and one exhalation"}
+        }
+      ],
+      "section2": [
+        {
+          "q": {
+            "hi": "विश्राम की अवस्था में किसी वयस्क व्यक्ति की औसत श्वसन दर कितनी होती है?",
+            "en": "On average, an adult human being at rest breathes how many times per minute?"
+          },
+          "options": [
+            {"hi": "9-12 बार", "en": "9-12 times"},
+            {"hi": "15-18 बार", "en": "15-18 times"},
+            {"hi": "21-24 बार", "en": "21-24 times"},
+            {"hi": "25-30 बार", "en": "25-30 times"}
+          ],
+          "answer": {"hi": "15-18 बार", "en": "15-18 times"}
+        },
+        {
+          "q": {
+            "hi": "भारी व्यायाम के दौरान श्वसन दर कितनी बढ़ सकती है?",
+            "en": "During heavy exercise, the breathing rate can increase up to?"
+          },
+          "options": [
+            {"hi": "20 बार प्रति मिनट", "en": "20 times per minute"},
+            {"hi": "25 बार प्रति मिनट", "en": "25 times per minute"},
+            {"hi": "30 बार प्रति मिनट", "en": "30 times per minute"},
+            {"hi": "50 बार प्रति मिनट", "en": "50 times per minute"}
+          ],
+          "answer": {"hi": "25 बार प्रति मिनट", "en": "25 times per minute"}
+        },
+        {
+          "q": {
+            "hi": "अंतःश्वसन के दौरान वायु नथुनों से कहाँ जाती है?",
+            "en": "During inhalation, through nostrils, air passes into?"
+          },
+          "options": [
+            {"hi": "फेफड़ों में", "en": "Lungs"},
+            {"hi": "श्वास नली में", "en": "Windpipe"},
+            {"hi": "नासा-गुहा में", "en": "Nasal cavity"},
+            {"hi": "मुख-गुहा में", "en": "Buccal cavity"}
+          ],
+          "answer": {"hi": "नासा-गुहा में", "en": "Nasal cavity"}
+        },
+        {
+          "q": {
+            "hi": "फेफड़े शरीर के किस भाग में स्थित होते हैं?",
+            "en": "Lungs are situated in which part of the body?"
+          },
+          "options": [
+            {"hi": "उदर-गुहा", "en": "Abdominal cavity"},
+            {"hi": "वक्ष-गुहा", "en": "Chest cavity"},
+            {"hi": "मस्तिष्क", "en": "Brain"},
+            {"hi": "पीठ", "en": "Back"}
+          ],
+          "answer": {"hi": "वक्ष-गुहा", "en": "Chest cavity"}
+        },
+        {
+          "q": {
+            "hi": "वक्ष-गुहा को आधार प्रदान करने वाली पेशीय परत क्या कहलाती है?",
+            "en": "What is the muscular sheet forming the floor of the chest cavity called?"
+          },
+          "options": [
+            {"hi": "पसलियाँ", "en": "Ribs"},
+            {"hi": "श्वास नली", "en": "Windpipe"},
+            {"hi": "डायाफ्राम (मध्यपट)", "en": "Diaphragm"},
+            {"hi": "ग्रसनी", "en": "Pharynx"}
+          ],
+          "answer": {"hi": "डायाफ्राम (मध्यपट)", "en": "Diaphragm"}
+        },
+        {
+          "q": {
+            "hi": "अंतःश्वसन के समय डायाफ्राम किस दिशा में गति करता है?",
+            "en": "During inhalation, the diaphragm moves in which direction?"
+          },
+          "options": [
+            {"hi": "ऊपर की ओर", "en": "Upwards"},
+            {"hi": "नीचे की ओर", "en": "Downwards"},
+            {"hi": "पार्श्व की ओर", "en": "Sideways"},
+            {"hi": "कोई गति नहीं", "en": "No movement"}
+          ],
+          "answer": {"hi": "नीचे की ओर", "en": "Downwards"}
+        },
+        {
+          "q": {
+            "hi": "उच्छ्वसन के समय पसलियाँ किस दिशा में गति करती हैं?",
+            "en": "During exhalation, ribs move in which direction?"
+          },
+          "options": [
+            {"hi": "ऊपर और बाहर", "en": "Up and outwards"},
+            {"hi": "नीचे और अंदर", "en": "Down and inwards"},
+            {"hi": "बाहर की ओर", "en": "Outwards"},
+            {"hi": "स्थिर रहती हैं", "en": "Remain still"}
+          ],
+          "answer": {"hi": "नीचे और अंदर", "en": "Down and inwards"}
+        },
+        {
+          "q": {
+            "hi": "वायु में उपस्थित अवांछित कणों के नासा-गुहा में जाने पर क्या होता है?",
+            "en": "What happens when unwanted particles enter the nasal cavity?"
+          },
+          "options": [
+            {"hi": "खांसी", "en": "Cough"},
+            {"hi": "छींक", "en": "Sneeze"},
+            {"hi": "हिचकी", "en": "Hiccup"},
+            {"hi": "बुखार", "en": "Fever"}
+          ],
+          "answer": {"hi": "छींक", "en": "Sneeze"}
+        },
+        {
+          "q": {
+            "hi": "धूम्रपान से शरीर के किस अंग को सबसे अधिक क्षति पहुँचती है?",
+            "en": "Which organ of the body is most damaged by smoking?"
+          },
+          "options": [
+            {"hi": "हृदय", "en": "Heart"},
+            {"hi": "यकृत", "en": "Liver"},
+            {"hi": "फेफड़े", "en": "Lungs"},
+            {"hi": "वृक्क", "en": "Kidney"}
+          ],
+          "answer": {"hi": "फेफड़े", "en": "Lungs"}
+        },
+        {
+          "q": {
+            "hi": "उच्छ्वसित वायु में कार्बन डाइऑक्साइड का प्रतिशत कितना होता है?",
+            "en": "What is the percentage of carbon dioxide in exhaled air?"
+          },
+          "options": [
+            {"hi": "0.04%", "en": "0.04%"},
+            {"hi": "4.4%", "en": "4.4%"},
+            {"hi": "16.4%", "en": "16.4%"},
+            {"hi": "21%", "en": "21%"}
+          ],
+          "answer": {"hi": "4.4%", "en": "4.4%"}
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "कॉकरोच के शरीर के पार्श्व भाग के छोटे छिद्र क्या कहलाते हैं?",
+            "en": "Small openings on the side of a cockroach's body are called?"
+          },
+          "options": [
+            {"hi": "फेफड़े", "en": "Lungs"},
+            {"hi": "श्वास रंध्र", "en": "Spiracles"},
+            {"hi": "क्लोम", "en": "Gills"},
+            {"hi": "त्वचा", "en": "Skin"}
+          ],
+          "answer": {"hi": "श्वास रंध्र", "en": "Spiracles"}
+        },
+        {
+          "q": {
+            "hi": "कीटों में गैस विनिमय के लिए वायु नलियों का जाल क्या कहलाता है?",
+            "en": "The network of air tubes for gas exchange in insects is called?"
+          },
+          "options": [
+            {"hi": "श्वासप्रणाल (वातक)", "en": "Tracheae"},
+            {"hi": "धमनियाँ", "en": "Arteries"},
+            {"hi": "शिराएँ", "en": "Veins"},
+            {"hi": "मूलरोम", "en": "Root hairs"}
+          ],
+          "answer": {"hi": "श्वासप्रणाल (वातक)", "en": "Tracheae"}
+        },
+        {
+          "q": {
+            "hi": "केंचुआ अपने शरीर के किस भाग से श्वसन करता है?",
+            "en": "Through which part of its body does an earthworm breathe?"
+          },
+          "options": [
+            {"hi": "फेफड़े", "en": "Lungs"},
+            {"hi": "त्वचा", "en": "Skin"},
+            {"hi": "मुँह", "en": "Mouth"},
+            {"hi": "पैर", "en": "Legs"}
+          ],
+          "answer": {"hi": "त्वचा", "en": "Skin"}
+        },
+        {
+          "q": {
+            "hi": "मेंढक अपने फेफड़ों के अतिरिक्त और किससे श्वसन कर सकता है?",
+            "en": "Besides lungs, what else can a frog use for breathing?"
+          },
+          "options": [
+            {"hi": "क्लोम", "en": "Gills"},
+            {"hi": "त्वचा", "en": "Skin"},
+            {"hi": "पंख", "en": "Wings"},
+            {"hi": "पूँछ", "en": "Tail"}
+          ],
+          "answer": {"hi": "त्वचा", "en": "Skin"}
+        },
+        {
+          "q": {
+            "hi": "मछलियों में जल में घुली ऑक्सीजन ग्रहण करने के लिए कौन सा अंग होता है?",
+            "en": "Which organ in fish helps them use oxygen dissolved in water?"
+          },
+          "options": [
+            {"hi": "फेफड़े", "en": "Lungs"},
+            {"hi": "क्लोम (गिल)", "en": "Gills"},
+            {"hi": "श्वास रंध्र", "en": "Spiracles"},
+            {"hi": "नथुने", "en": "Nostrils"}
+          ],
+          "answer": {"hi": "क्लोम (गिल)", "en": "Gills"}
+        },
+        {
+          "q": {
+            "hi": "पादप की पत्तियों में गैसों के विनिमय के लिए उपस्थित सूक्ष्म छिद्र क्या कहलाते हैं?",
+            "en": "Tiny pores on plant leaves for gas exchange are called?"
+          },
+          "options": [
+            {"hi": "जाइलम", "en": "Xylem"},
+            {"hi": "फ्लोएम", "en": "Phloem"},
+            {"hi": "रंध्र (स्टोमेटा)", "en": "Stomata"},
+            {"hi": "मूलरोम", "en": "Root hairs"}
+          ],
+          "answer": {"hi": "रंध्र (स्टोमेटा)", "en": "Stomata"}
+        },
+        {
+          "q": {
+            "hi": "पादप की जड़ें (मूल) ऑक्सीजन कहाँ से प्राप्त करती हैं?",
+            "en": "From where do the roots of a plant take in oxygen?"
+          },
+          "options": [
+            {"hi": "वायुमंडल से सीधे", "en": "Directly from atmosphere"},
+            {"hi": "मृदा कणों के बीच के वायु अवकाशों से", "en": "From air spaces between soil particles"},
+            {"hi": "पत्तियों से", "en": "From leaves"},
+            {"hi": "तने से", "en": "From stem"}
+          ],
+          "answer": {"hi": "मृदा कणों के बीच के वायु अवकाशों से", "en": "From air spaces between soil particles"}
+        },
+        {
+          "q": {
+            "hi": "वायवीय श्वसन का अंतिम उत्पाद क्या होता है?",
+            "en": "What is the end product of aerobic respiration?"
+          },
+          "options": [
+            {"hi": "CO2 + जल + ऊर्जा", "en": "CO2 + Water + Energy"},
+            {"hi": "ऐल्कोहॉल + ऊर्जा", "en": "Alcohol + Energy"},
+            {"hi": "लैक्टिक अम्ल + ऊर्जा", "en": "Lactic acid + Energy"},
+            {"hi": "केवल ऑक्सीजन", "en": "Only Oxygen"}
+          ],
+          "answer": {"hi": "CO2 + जल + ऊर्जा", "en": "CO2 + Water + Energy"}
+        },
+        {
+          "q": {
+            "hi": "कौन सा जीव केवल एक कोशिका का बना होता है?",
+            "en": "Which organism is single-celled?"
+          },
+          "options": [
+            {"hi": "हाथी", "en": "Elephant"},
+            {"hi": "मछली", "en": "Fish"},
+            {"hi": "यीस्ट", "en": "Yeast"},
+            {"hi": "मेंढक", "en": "Frog"}
+          ],
+          "answer": {"hi": "यीस्ट", "en": "Yeast"}
+        },
+        {
+          "q": {
+            "hi": "जम्हाई लेना शरीर में किसकी कमी को दर्शाता है?",
+            "en": "Yawning indicates the deficiency of what in our body?"
+          },
+          "options": [
+            {"hi": "भोजन", "en": "Food"},
+            {"hi": "नींद", "en": "Sleep"},
+            {"hi": "ऑक्सीजन", "en": "Oxygen"},
+            {"hi": "कार्बन डाइऑक्साइड", "en": "Carbon dioxide"}
+          ],
+          "answer": {"hi": "ऑक्सीजन", "en": "Oxygen"}
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "अंतःश्वसित वायु में ऑक्सीजन का प्रतिशत कितना होता है?",
+            "en": "What is the percentage of oxygen in inhaled air?"
+          },
+          "options": [
+            {"hi": "0.04%", "en": "0.04%"},
+            {"hi": "16.4%", "en": "16.4%"},
+            {"hi": "21%", "en": "21%"},
+            {"hi": "4.4%", "en": "4.4%"}
+          ],
+          "answer": {"hi": "21%", "en": "21%"}
+        },
+        {
+          "q": {
+            "hi": "उच्छ्वसन के समय डायाफ्राम किस स्थिति में आ जाता है?",
+            "en": "In which position does the diaphragm return during exhalation?"
+          },
+          "options": [
+            {"hi": "पूर्व स्थिति (ऊपर की ओर)", "en": "Original position (Upwards)"},
+            {"hi": "नीचे की ओर", "en": "Downwards"},
+            {"hi": "गायब हो जाता है", "en": "Disappears"},
+            {"hi": "सिकुड़ जाता है", "en": "Contracts"}
+          ],
+          "answer": {"hi": "पूर्व स्थिति (ऊपर की ओर)", "en": "Original position (Upwards)"}
+        },
+        {
+          "q": {
+            "hi": "व्हेल और डॉल्फिन पानी की सतह पर क्यों आती हैं?",
+            "en": "Why do whales and dolphins come to the water surface?"
+          },
+          "options": [
+            {"hi": "खेलने के लिए", "en": "To play"},
+            {"hi": "भोजन के लिए", "en": "For food"},
+            {"hi": "श्वास लेने के लिए", "en": "To breathe"},
+            {"hi": "सोने के लिए", "en": "To sleep"}
+          ],
+          "answer": {"hi": "श्वास लेने के लिए", "en": "To breathe"}
+        },
+        {
+          "q": {
+            "hi": "फेफड़ों में वायु भर जाने पर वक्ष-गुहा के आयतन पर क्या प्रभाव पड़ता है?",
+            "en": "What is the effect on chest cavity volume when lungs fill with air?"
+          },
+          "options": [
+            {"hi": "कम हो जाता है", "en": "Decreases"},
+            {"hi": "बढ़ जाता है", "en": "Increases"},
+            {"hi": "स्थिर रहता है", "en": "Stays same"},
+            {"hi": "शून्य हो जाता है", "en": "Becomes zero"}
+          ],
+          "answer": {"hi": "बढ़ जाता है", "en": "Increases"}
+        },
+        {
+          "q": {
+            "hi": "शराब और बियर बनाने में किसका उपयोग किया जाता है?",
+            "en": "What is used in making wine and beer?"
+          },
+          "options": [
+            {"hi": "मशरूम", "en": "Mushroom"},
+            {"hi": "यीस्ट", "en": "Yeast"},
+            {"hi": "शैवाल", "en": "Algae"},
+            {"hi": "मछली", "en": "Fish"}
+          ],
+          "answer": {"hi": "यीस्ट", "en": "Yeast"}
+        },
+        {
+          "q": {
+            "hi": "प्राणायाम (श्वसन व्यायाम) से फेफड़ों पर क्या प्रभाव पड़ता है?",
+            "en": "What is the effect of Pranayama on lungs?"
+          },
+          "options": [
+            {"hi": "क्षमता कम होती है", "en": "Capacity decreases"},
+            {"hi": "वायु लेने की क्षमता बढ़ती है", "en": "Capacity to take in air increases"},
+            {"hi": "कोई प्रभाव नहीं", "en": "No effect"},
+            {"hi": "फेफड़े छोटे होते हैं", "en": "Lungs become small"}
+          ],
+          "answer": {"hi": "वायु लेने की क्षमता बढ़ती है", "en": "Capacity to take in air increases"}
+        },
+        {
+          "q": {
+            "hi": "पर्वतारोही अपने साथ ऑक्सीजन सिलिंडर क्यों ले जाते हैं?",
+            "en": "Why do mountaineers carry oxygen cylinders with them?"
+          },
+          "options": [
+            {"hi": "वहाँ वायु नहीं है", "en": "There is no air"},
+            {"hi": "वहाँ वायु की मात्रा भू-तल से कम है", "en": "Air amount is less than at ground level"},
+            {"hi": "ठंड से बचने के लिए", "en": "To avoid cold"},
+            {"hi": "ईंधन के रूप में", "en": "As fuel"}
+          ],
+          "answer": {"hi": "वहाँ वायु की मात्रा भू-तल से कम है", "en": "Air amount is less than at ground level"}
+        },
+        {
+          "q": {
+            "hi": "कीटों के श्वसन तंत्र का मुख्य अंग क्या है?",
+            "en": "What is the main respiratory organ of insects?"
+          },
+          "options": [
+            {"hi": "फेफड़े", "en": "Lungs"},
+            {"hi": "क्लोम", "en": "Gills"},
+            {"hi": "श्वासप्रणाल", "en": "Tracheae"},
+            {"hi": "त्वचा", "en": "Skin"}
+          ],
+          "answer": {"hi": "श्वासप्रणाल", "en": "Tracheae"}
+        },
+        {
+          "q": {
+            "hi": "पादपों में ग्लूकोस का विखंडन कहाँ होता है?",
+            "en": "Where does the breakdown of glucose occur in plants?"
+          },
+          "options": [
+            {"hi": "केवल जड़ों में", "en": "Only in roots"},
+            {"hi": "कोशिकाओं में", "en": "In cells"},
+            {"hi": "केवल तने में", "en": "Only in stems"},
+            {"hi": "मिट्टी में", "en": "In soil"}
+          ],
+          "answer": {"hi": "कोशिकाओं में", "en": "In cells"}
+        },
+        {
+          "q": {
+            "hi": "श्वसन के दौरान ऊर्जा किस रूप में निर्मुक्त होती है?",
+            "en": "In what form is energy released during respiration?"
+          },
+          "options": [
+            {"hi": "भोजन के रूप में", "en": "As food"},
+            {"hi": "ऊष्मा और एटीपी", "en": "Heat and ATP"},
+            {"hi": "प्रकाश के रूप में", "en": "As light"},
+            {"hi": "पानी के रूप में", "en": "As water"}
+          ],
+          "answer": {"hi": "ऊष्मा और एटीपी", "en": "Heat and ATP"}
+        }
+      ],
+      "section5": [
+        {
+          "q": {
+            "hi": "उच्छ्वसन के दौरान पसलियाँ किस ओर गति करती हैं?",
+            "en": "During exhalation, ribs move?"
+          },
+          "options": [
+            {"hi": "बाहर की ओर", "en": "Outwards"},
+            {"hi": "नीचे की ओर", "en": "Downwards"},
+            {"hi": "ऊपर की ओर", "en": "Upwards"},
+            {"hi": "स्थिर रहती हैं", "en": "Stay still"}
+          ],
+          "answer": {"hi": "नीचे की ओर", "en": "Downwards"}
+        },
+        {
+          "q": {
+            "hi": "मछली के सिर के पार्श्व में पल्ले जैसी संरचना क्या कहलाती है?",
+            "en": "What are the flap-like structures on the side of a fish's head?"
+          },
+          "options": [
+            {"hi": "पंख", "en": "Fins"},
+            {"hi": "क्लोम (गिल)", "en": "Gills"},
+            {"hi": "स्केल", "en": "Scales"},
+            {"hi": "फेफड़े", "en": "Lungs"}
+          ],
+          "answer": {"hi": "क्लोम (गिल)", "en": "Gills"}
+        },
+        {
+          "q": {
+            "hi": "शुद्ध ऑक्सीजन में लंबे समय तक श्वसन करना कैसा होता है?",
+            "en": "Breathing pure oxygen for a long time is?"
+          },
+          "options": [
+            {"hi": "बहुत अच्छा", "en": "Very good"},
+            {"hi": "हानिकारक", "en": "Harmful"},
+            {"hi": "अनिवार्य", "en": "Essential"},
+            {"hi": "असंभव", "en": "Impossible"}
+          ],
+          "answer": {"hi": "हानिकारक", "en": "Harmful"}
+        },
+        {
+          "q": {
+            "hi": "गर्म पानी से स्नान ऐंठन में आराम क्यों देता है?",
+            "en": "Why does a hot water bath give relief from cramps?"
+          },
+          "options": [
+            {"hi": "नींद आने के कारण", "en": "Due to sleep"},
+            {"hi": "रक्त संचरण बढ़ने के कारण", "en": "Due to increased blood circulation"},
+            {"hi": "पसीना आने के कारण", "en": "Due to sweating"},
+            {"hi": "दर्द कम होने के कारण", "en": "Due to pain reduction"}
+          ],
+          "answer": {"hi": "रक्त संचरण बढ़ने के कारण", "en": "Due to increased blood circulation"}
+        },
+        {
+          "q": {
+            "hi": "कोशिकीय श्वसन किन जीवों में होता है?",
+            "en": "Cellular respiration occurs in which organisms?"
+          },
+          "options": [
+            {"hi": "केवल मनुष्य में", "en": "Only in humans"},
+            {"hi": "केवल जंतुओं में", "en": "Only in animals"},
+            {"hi": "सभी जीवों की कोशिकाओं में", "en": "In cells of all organisms"},
+            {"hi": "केवल पादपों में", "en": "Only in plants"}
+          ],
+          "answer": {"hi": "सभी जीवों की कोशिकाओं में", "en": "In cells of all organisms"}
+        },
+        {
+          "q": {
+            "hi": "गाय और कुत्ते में श्वसन अंग किसके समान होते हैं?",
+            "en": "Respiratory organs in cows and dogs are similar to?"
+          },
+          "options": [
+            {"hi": "मछली के", "en": "Fish"},
+            {"hi": "कीटों के", "en": "Insects"},
+            {"hi": "मानव के", "en": "Humans"},
+            {"hi": "केंचुए के", "en": "Earthworms"}
+          ],
+          "answer": {"hi": "मानव के", "en": "Humans"}
+        },
+        {
+          "q": {
+            "hi": "अवायवीय जीवों के लिए ऑक्सीजन कैसी होती है?",
+            "en": "For anaerobic organisms, oxygen is?"
+          },
+          "options": [
+            {"hi": "अनिवार्य", "en": "Essential"},
+            {"hi": "विषाक्त", "en": "Toxic"},
+            {"hi": "भोजन", "en": "Food"},
+            {"hi": "ऊर्जा", "en": "Energy"}
+          ],
+          "answer": {"hi": "विषाक्त", "en": "Toxic"}
+        },
+        {
+          "q": {
+            "hi": "गमले के पौधे में बहुत अधिक पानी डालने पर क्या होता है?",
+            "en": "What happens if a potted plant is overwatered?"
+          },
+          "options": [
+            {"hi": "तेजी से बढ़ता है", "en": "Grows fast"},
+            {"hi": "जड़ें श्वसन नहीं कर पातीं", "en": "Roots cannot breathe"},
+            {"hi": "ज्यादा फूल आते हैं", "en": "More flowers bloom"},
+            {"hi": "कोई फर्क नहीं पड़ता", "en": "No difference"}
+          ],
+          "answer": {"hi": "जड़ें श्वसन नहीं कर पातीं", "en": "Roots cannot breathe"}
+        },
+        {
+          "q": {
+            "hi": "वक्ष-गुहा पार्श्व में किससे घिरी रहती है?",
+            "en": "The chest cavity is surrounded laterally by?"
+          },
+          "options": [
+            {"hi": "त्वचा", "en": "Skin"},
+            {"hi": "पसलियों", "en": "Ribs"},
+            {"hi": "डायाफ्राम", "en": "Diaphragm"},
+            {"hi": "फेफड़ों", "en": "Lungs"}
+          ],
+          "answer": {"hi": "पसलियों", "en": "Ribs"}
+        },
+        {
+          "q": {
+            "hi": "श्वसन किस प्रकार का प्रक्रम है?",
+            "en": "What kind of process is respiration?"
+          },
+          "options": [
+            {"hi": "भौतिक प्रक्रम", "en": "Physical process"},
+            {"hi": "जैविक प्रक्रम", "en": "Biological process"},
+            {"hi": "अजैविक प्रक्रम", "en": "Abiotic process"},
+            {"hi": "यांत्रिक प्रक्रम", "en": "Mechanical process"}
+          ],
+          "answer": {"hi": "जैविक प्रक्रम", "en": "Biological process"}
+        }
+      ]
     }
   }
 }
