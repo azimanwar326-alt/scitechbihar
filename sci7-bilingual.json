@@ -5295,8 +5295,671 @@
           "answer": {"hi": "विलग्न (अलग हुआ) भाग", "en": "Detached part"}
         }
       ]
+    },
+    "chapter09": {
+      "section1": [
+        {
+          "q": {
+            "hi": "किसी सरल रेखा के अनुदिश होने वाली गति क्या कहलाती है?",
+            "en": "What is motion along a straight line called?"
+          },
+          "options": [
+            {"hi": "वर्तुल गति", "en": "Circular motion"},
+            {"hi": "सरलरेखीय गति", "en": "Straight line motion"},
+            {"hi": "आवर्ती गति", "en": "Periodic motion"},
+            {"hi": "दोलन गति", "en": "Oscillatory motion"}
+          ],
+          "answer": {"hi": "सरलरेखीय गति", "en": "Straight line motion"}
+        },
+        {
+          "q": {
+            "hi": "मार्च पास्ट करते सैनिकों की गति किस प्रकार की गति है?",
+            "en": "What type of motion is the march past of soldiers?"
+          },
+          "options": [
+            {"hi": "सरलरेखीय गति", "en": "Straight line motion"},
+            {"hi": "वर्तुल गति", "en": "Circular motion"},
+            {"hi": "आवर्ती गति", "en": "Periodic motion"},
+            {"hi": "अनियमित गति", "en": "Irregular motion"}
+          ],
+          "answer": {"hi": "सरलरेखीय गति", "en": "Straight line motion"}
+        },
+        {
+          "q": {
+            "hi": "किसी वस्तु द्वारा एकांक समय में तय की गई दूरी को क्या कहते हैं?",
+            "en": "The distance moved by an object in a unit time is called its?"
+          },
+          "options": [
+            {"hi": "वेग", "en": "Velocity"},
+            {"hi": "त्वरण", "en": "Acceleration"},
+            {"hi": "चाल", "en": "Speed"},
+            {"hi": "विस्थापन", "en": "Displacement"}
+          ],
+          "answer": {"hi": "चाल", "en": "Speed"}
+        },
+        {
+          "q": {
+            "hi": "चाल का मूल मात्रक क्या है?",
+            "en": "What is the basic unit of speed?"
+          },
+          "options": [
+            {"hi": "km/h", "en": "km/h"},
+            {"hi": "m/min", "en": "m/min"},
+            {"hi": "m/s", "en": "m/s"},
+            {"hi": "km/s", "en": "km/s"}
+          ],
+          "answer": {"hi": "m/s", "en": "m/s"}
+        },
+        {
+          "q": {
+            "hi": "झूले की गति किस प्रकार की गति का उदाहरण है?",
+            "en": "Motion of a swing is an example of which type of motion?"
+          },
+          "options": [
+            {"hi": "सरलरेखीय गति", "en": "Straight line motion"},
+            {"hi": "आवर्ती गति", "en": "Periodic motion"},
+            {"hi": "वर्तुल गति", "en": "Circular motion"},
+            {"hi": "घूर्णन गति", "en": "Rotational motion"}
+          ],
+          "answer": {"hi": "आवर्ती गति", "en": "Periodic motion"}
+        },
+        {
+          "q": {
+            "hi": "दौड़ते समय आपके हाथों की गति किस प्रकार की होती है?",
+            "en": "What is the type of motion of your hands while running?"
+          },
+          "options": [
+            {"hi": "सरलरेखीय", "en": "Straight line"},
+            {"hi": "वर्तुल", "en": "Circular"},
+            {"hi": "आवर्ती", "en": "Periodic"},
+            {"hi": "मंद", "en": "Slow"}
+          ],
+          "answer": {"hi": "आवर्ती", "en": "Periodic"}
+        },
+        {
+          "q": {
+            "hi": "यदि किसी सरल रेखा के अनुदिश गति करने वाली वस्तु की चाल बदलती रहती है, तो उस गति को क्या कहते हैं?",
+            "en": "If the speed of an object moving along a straight line keeps changing, its motion is called?"
+          },
+          "options": [
+            {"hi": "एकसमान गति", "en": "Uniform motion"},
+            {"hi": "असमान गति", "en": "Non-uniform motion"},
+            {"hi": "स्थिर गति", "en": "Stationary motion"},
+            {"hi": "तीव्र गति", "en": "Fast motion"}
+          ],
+          "answer": {"hi": "असमान गति", "en": "Non-uniform motion"}
+        },
+        {
+          "q": {
+            "hi": "पृथ्वी के चारों ओर चंद्रमा की गति कैसी है?",
+            "en": "What is the motion of the moon around the earth?"
+          },
+          "options": [
+            {"hi": "सरलरेखीय", "en": "Straight line"},
+            {"hi": "वर्तुल", "en": "Circular"},
+            {"hi": "दोलन", "en": "Oscillatory"},
+            {"hi": "अनियमित", "en": "Irregular"}
+          ],
+          "answer": {"hi": "वर्तुल", "en": "Circular"}
+        },
+        {
+          "q": {
+            "hi": "चाल ज्ञात करने का सही सूत्र क्या है?",
+            "en": "What is the correct formula to find speed?"
+          },
+          "options": [
+            {"hi": "कुल दूरी / कुल समय", "en": "Total distance / Total time"},
+            {"hi": "दूरी × समय", "en": "Distance × Time"},
+            {"hi": "समय / दूरी", "en": "Time / Distance"},
+            {"hi": "दूरी + समय", "en": "Distance + Time"}
+          ],
+          "answer": {"hi": "कुल दूरी / कुल समय", "en": "Total distance / Total time"}
+        },
+        {
+          "q": {
+            "hi": "एकसमान चाल से गति करने वाली वस्तु का दूरी-समय ग्राफ़ कैसा होता है?",
+            "en": "What is the distance-time graph for an object moving with constant speed?"
+          },
+          "options": [
+            {"hi": "वक्र रेखा", "en": "Curved line"},
+            {"hi": "सरल रेखा", "en": "Straight line"},
+            {"hi": "वृत्ताकार", "en": "Circular"},
+            {"hi": "बिंदुवत", "en": "Pointed"}
+          ],
+          "answer": {"hi": "सरल रेखा", "en": "Straight line"}
+        }
+      ],
+      "section2": [
+        {
+          "q": {
+            "hi": "समय मापने की सबसे सामान्य युक्ति कौन-सी है?",
+            "en": "What is the most common device for measuring time?"
+          },
+          "options": [
+            {"hi": "धूपघड़ी", "en": "Sundial"},
+            {"hi": "रेतघड़ी", "en": "Sand clock"},
+            {"hi": "घड़ियाँ", "en": "Clocks"},
+            {"hi": "जलघड़ी", "en": "Water clock"}
+          ],
+          "answer": {"hi": "घड़ियाँ", "en": "Clocks"}
+        },
+        {
+          "q": {
+            "hi": "घड़ियों की कार्यविधि किस पर आधारित होती है?",
+            "en": "The working of clocks is based on?"
+          },
+          "options": [
+            {"hi": "सरल गति", "en": "Simple motion"},
+            {"hi": "आवर्ती गति", "en": "Periodic motion"},
+            {"hi": "वर्तुल गति", "en": "Circular motion"},
+            {"hi": "तीव्र गति", "en": "Fast motion"}
+          ],
+          "answer": {"hi": "आवर्ती गति", "en": "Periodic motion"}
+        },
+        {
+          "q": {
+            "hi": "आवर्ती गति का एक चिरपरिचित उदाहरण क्या है?",
+            "en": "What is a well-known example of periodic motion?"
+          },
+          "options": [
+            {"hi": "चलती कार", "en": "Moving car"},
+            {"hi": "सरल लोलक", "en": "Simple pendulum"},
+            {"hi": "उड़ता पक्षी", "en": "Flying bird"},
+            {"hi": "गिरता पत्थर", "en": "Falling stone"}
+          ],
+          "answer": {"hi": "सरल लोलक", "en": "Simple pendulum"}
+        },
+        {
+          "q": {
+            "hi": "लोलक के धातु के गोले को क्या कहते हैं?",
+            "en": "What is the metallic ball of the pendulum called?"
+          },
+          "options": [
+            {"hi": "पिंड", "en": "Object"},
+            {"hi": "गोलक", "en": "Bob"},
+            {"hi": "भार", "en": "Weight"},
+            {"hi": "केंद्र", "en": "Center"}
+          ],
+          "answer": {"hi": "गोलक", "en": "Bob"}
+        },
+        {
+          "q": {
+            "hi": "लोलक द्वारा एक दोलन पूरा करने में लिया गया समय क्या कहलाता है?",
+            "en": "The time taken by the pendulum to complete one oscillation is called?"
+          },
+          "options": [
+            {"hi": "समय अंतराल", "en": "Time interval"},
+            {"hi": "आवर्तकाल", "en": "Time period"},
+            {"hi": "एक सेकंड", "en": "One second"},
+            {"hi": "मध्य स्थिति", "en": "Mean position"}
+          ],
+          "answer": {"hi": "आवर्तकाल", "en": "Time period"}
+        },
+        {
+          "q": {
+            "hi": "समय का मूल मात्रक क्या है?",
+            "en": "What is the basic unit of time?"
+          },
+          "options": [
+            {"hi": "मिनट", "en": "Minute"},
+            {"hi": "घंटा", "en": "Hour"},
+            {"hi": "सेकंड", "en": "Second"},
+            {"hi": "दिन", "en": "Day"}
+          ],
+          "answer": {"hi": "सेकंड", "en": "Second"}
+        },
+        {
+          "q": {
+            "hi": "प्राचीन काल में जंतर-मंतर, दिल्ली में समय मापने के लिए क्या उपयोग किया जाता था?",
+            "en": "What was used to measure time at Jantar Mantar, Delhi in ancient times?"
+          },
+          "options": [
+            {"hi": "रेतघड़ी", "en": "Sand clock"},
+            {"hi": "जलघड़ी", "en": "Water clock"},
+            {"hi": "धूपघड़ी", "en": "Sundial"},
+            {"hi": "दीवार घड़ी", "en": "Wall clock"}
+          ],
+          "answer": {"hi": "धूपघड़ी", "en": "Sundial"}
+        },
+        {
+          "q": {
+            "hi": "वाहनों द्वारा तय की गई दूरी मापने वाले यंत्र को क्या कहते हैं?",
+            "en": "The instrument that measures distance moved by a vehicle is called?"
+          },
+          "options": [
+            {"hi": "स्पीडोमीटर", "en": "Speedometer"},
+            {"hi": "ओडोमीटर (पथमापी)", "en": "Odometer"},
+            {"hi": "थर्मामीटर", "en": "Thermometer"},
+            {"hi": "बैरोमीटर", "en": "Barometer"}
+          ],
+          "answer": {"hi": "ओडोमीटर (पथमापी)", "en": "Odometer"}
+        },
+        {
+          "q": {
+            "hi": "वाहनों की चाल सीधे मापने वाले यंत्र को क्या कहते हैं?",
+            "en": "Which instrument directly records the speed of a vehicle?"
+          },
+          "options": [
+            {"hi": "ओडोमीटर", "en": "Odometer"},
+            {"hi": "स्पीडोमीटर (चालमापी)", "en": "Speedometer"},
+            {"hi": "स्टॉपवॉच", "en": "Stopwatch"},
+            {"hi": "एनीमोमीटर", "en": "Anemometer"}
+          ],
+          "answer": {"hi": "स्पीडोमीटर (चालमापी)", "en": "Speedometer"}
+        },
+        {
+          "q": {
+            "hi": "किसी वस्तु की चाल 36 km/h है, तो m/s में इसका मान क्या होगा?",
+            "en": "If an object's speed is 36 km/h, what is its value in m/s?"
+          },
+          "options": [
+            {"hi": "5 m/s", "en": "5 m/s"},
+            {"hi": "10 m/s", "en": "10 m/s"},
+            {"hi": "15 m/s", "en": "15 m/s"},
+            {"hi": "20 m/s", "en": "20 m/s"}
+          ],
+          "answer": {"hi": "10 m/s", "en": "10 m/s"}
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "दूरी-समय ग्राफ़ में X-अक्ष पर आमतौर पर किसे दर्शाया जाता है?",
+            "en": "What is usually shown on the X-axis in a distance-time graph?"
+          },
+          "options": [
+            {"hi": "दूरी", "en": "Distance"},
+            {"hi": "समय", "en": "Time"},
+            {"hi": "चाल", "en": "Speed"},
+            {"hi": "त्वरण", "en": "Acceleration"}
+          ],
+          "answer": {"hi": "समय", "en": "Time"}
+        },
+        {
+          "q": {
+            "hi": "जब कोई वस्तु नियत चाल से चलती है, तो दूरी और समय का अनुपात कैसा रहता है?",
+            "en": "When an object moves with constant speed, the ratio of distance and time remains?"
+          },
+          "options": [
+            {"hi": "बदलता रहता है", "en": "Keep changing"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "स्थिर (नियत)", "en": "Constant"},
+            {"hi": "अनंत", "en": "Infinite"}
+          ],
+          "answer": {"hi": "स्थिर (नियत)", "en": "Constant"}
+        },
+        {
+          "q": {
+            "hi": "एक माइक्रोसेकंड एक सेकंड का कौन-सा भाग होता है?",
+            "en": "A microsecond is what part of a second?"
+          },
+          "options": [
+            {"hi": "दसवाँ भाग", "en": "Tenth part"},
+            {"hi": "हज़ारवाँ भाग", "en": "Thousandth part"},
+            {"hi": "दस लाखवाँ भाग", "en": "Millionth part"},
+            {"hi": "सौवाँ भाग", "en": "Hundredth part"}
+          ],
+          "answer": {"hi": "दस लाखवाँ भाग", "en": "Millionth part"}
+        },
+        {
+          "q": {
+            "hi": "आवृत्ति का मात्रक क्या है?",
+            "en": "What is the unit of frequency?"
+          },
+          "options": [
+            {"hi": "सेकंड", "en": "Second"},
+            {"hi": "मीटर", "en": "Meter"},
+            {"hi": "हर्ट्ज़ (Hz)", "en": "Hertz (Hz)"},
+            {"hi": "जूल", "en": "Joule"}
+          ],
+          "answer": {"hi": "हर्ट्ज़ (Hz)", "en": "Hertz (Hz)"}
+        },
+        {
+          "q": {
+            "hi": "यदि कोई कार 40 km/h की चाल से 15 मिनट चलती है, तो वह कितनी दूरी तय करेगी?",
+            "en": "If a car travels at 40 km/h for 15 minutes, what distance will it cover?"
+          },
+          "options": [
+            {"hi": "10 km", "en": "10 km"},
+            {"hi": "20 km", "en": "20 km"},
+            {"hi": "30 km", "en": "30 km"},
+            {"hi": "40 km", "en": "40 km"}
+          ],
+          "answer": {"hi": "10 km", "en": "10 km"}
+        },
+        {
+          "q": {
+            "hi": "खेलकूद में समय मापने के लिए किस विशेष घड़ी का उपयोग किया जाता है?",
+            "en": "Which special clock is used to measure time in sports?"
+          },
+          "options": [
+            {"hi": "धूपघड़ी", "en": "Sundial"},
+            {"hi": "विराम घड़ी (स्टॉपवॉच)", "en": "Stopwatch"},
+            {"hi": "दीवार घड़ी", "en": "Wall clock"},
+            {"hi": "रेतघड़ी", "en": "Sand clock"}
+          ],
+          "answer": {"hi": "विराम घड़ी (स्टॉपवॉच)", "en": "Stopwatch"}
+        },
+        {
+          "q": {
+            "hi": "दूरी ज्ञात करने का सूत्र क्या है?",
+            "en": "What is the formula to find distance?"
+          },
+          "options": [
+            {"hi": "चाल × समय", "en": "Speed × Time"},
+            {"hi": "चाल / समय", "en": "Speed / Time"},
+            {"hi": "समय / चाल", "en": "Time / Speed"},
+            {"hi": "चाल + समय", "en": "Speed + Time"}
+          ],
+          "answer": {"hi": "चाल × समय", "en": "Speed × Time"}
+        },
+        {
+          "q": {
+            "hi": "लोलक की लंबाई बढ़ाने पर उसके आवर्तकाल पर क्या प्रभाव पड़ता है?",
+            "en": "What is the effect on the time period if the length of the pendulum is increased?"
+          },
+          "options": [
+            {"hi": "घटता है", "en": "Decreases"},
+            {"hi": "बढ़ता है", "en": "Increases"},
+            {"hi": "कोई प्रभाव नहीं", "en": "No effect"},
+            {"hi": "शून्य हो जाता है", "en": "Becomes zero"}
+          ],
+          "answer": {"hi": "बढ़ता है", "en": "Increases"}
+        },
+        {
+          "q": {
+            "hi": "इनमें से कौन-सा ग्राफ समय और दूरी के बीच संबंध को सबसे अच्छा दर्शाता है?",
+            "en": "Which of these graphs best represents the relationship between time and distance?"
+          },
+          "options": [
+            {"hi": "स्तंभ ग्राफ", "en": "Bar graph"},
+            {"hi": "वृत्त आरेख", "en": "Pie chart"},
+            {"hi": "रेखा ग्राफ", "en": "Line graph"},
+            {"hi": "चित्र ग्राफ", "en": "Pictograph"}
+          ],
+          "answer": {"hi": "रेखा ग्राफ", "en": "Line graph"}
+        },
+        {
+          "q": {
+            "hi": "समय मापने की सबसे छोटी प्राकृतिक इकाई क्या मानी जाती है?",
+            "en": "What is considered the smallest natural unit of measuring time?"
+          },
+          "options": [
+            {"hi": "घंटा", "en": "Hour"},
+            {"hi": "मिनट", "en": "Minute"},
+            {"hi": "एक सूर्योदय से अगले सूर्योदय का समय", "en": "Time from one sunrise to next"},
+            {"hi": "एक पूर्ण चंद्रमा से अगले तक", "en": "One full moon to next"}
+          ],
+          "answer": {"hi": "एक सूर्योदय से अगले सूर्योदय का समय", "en": "Time from one sunrise to next"}
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "किसी वाहन की चाल 72 km/h है। 10 सेकंड में वह कितनी दूरी तय करेगा?",
+            "en": "A vehicle's speed is 72 km/h. How much distance will it cover in 10 seconds?"
+          },
+          "options": [
+            {"hi": "72 m", "en": "72 m"},
+            {"hi": "200 m", "en": "200 m"},
+            {"hi": "720 m", "en": "720 m"},
+            {"hi": "20 m", "en": "20 m"}
+          ],
+          "answer": {"hi": "200 m", "en": "200 m"}
+        },
+        {
+          "q": {
+            "hi": "समय अंतराल मापने के लिए क्वार्ट्ज़ घड़ी में किसका उपयोग किया जाता है?",
+            "en": "What is used in quartz clocks to measure time intervals?"
+          },
+          "options": [
+            {"hi": "पारा", "en": "Mercury"},
+            {"hi": "क्वार्ट्ज़ क्रिस्टल", "en": "Quartz crystal"},
+            {"hi": "लोलक", "en": "Pendulum"},
+            {"hi": "स्प्रिंग", "en": "Spring"}
+          ],
+          "answer": {"hi": "क्वार्ट्ज़ क्रिस्टल", "en": "Quartz crystal"}
+        },
+        {
+          "q": {
+            "hi": "पृथ्वी के सूर्य के चारों ओर एक परिक्रमा पूरी करने का समय क्या कहलाता है?",
+            "en": "The time taken by the earth to complete one revolution around the sun is called?"
+          },
+          "options": [
+            {"hi": "एक मास", "en": "A month"},
+            {"hi": "एक वर्ष", "en": "A year"},
+            {"hi": "एक दिन", "en": "A day"},
+            {"hi": "एक शताब्दी", "en": "A century"}
+          ],
+          "answer": {"hi": "एक वर्ष", "en": "A year"}
+        },
+        {
+          "q": {
+            "hi": "एक नैनोसेकंड एक सेकंड का कौन-सा भाग है?",
+            "en": "A nanosecond is what part of a second?"
+          },
+          "options": [
+            {"hi": "अरबवाँ भाग", "en": "One billionth part"},
+            {"hi": "करोड़वाँ भाग", "en": "Ten millionth part"},
+            {"hi": "लाखवाँ भाग", "en": "One hundred thousandth part"},
+            {"hi": "हज़ारवाँ भाग", "en": "One thousandth part"}
+          ],
+          "answer": {"hi": "अरबवाँ भाग", "en": "One billionth part"}
+        },
+        {
+          "q": {
+            "hi": "दूरी-समय ग्राफ़ में यदि रेखा समय-अक्ष के समांतर है, तो वस्तु की गति कैसी है?",
+            "en": "If the line in a distance-time graph is parallel to the time axis, what is the object's state?"
+          },
+          "options": [
+            {"hi": "नियत चाल", "en": "Constant speed"},
+            {"hi": "विराम अवस्था (स्थिर)", "en": "At rest (Stationary)"},
+            {"hi": "असमान चाल", "en": "Non-uniform speed"},
+            {"hi": "तीव्र गति", "en": "Fast motion"}
+          ],
+          "answer": {"hi": "विराम अवस्था (स्थिर)", "en": "At rest (Stationary)"}
+        },
+        {
+          "q": {
+            "hi": "समय ज्ञात करने का सही सूत्र क्या है?",
+            "en": "What is the correct formula to find time?"
+          },
+          "options": [
+            {"hi": "दूरी / चाल", "en": "Distance / Speed"},
+            {"hi": "चाल / दूरी", "en": "Speed / Distance"},
+            {"hi": "दूरी × चाल", "en": "Distance × Speed"},
+            {"hi": "दूरी + चाल", "en": "Distance + Speed"}
+          ],
+          "answer": {"hi": "दूरी / चाल", "en": "Distance / Speed"}
+        },
+        {
+          "q": {
+            "hi": "10 वर्ष की अवधि को क्या कहते हैं?",
+            "en": "What is a period of 10 years called?"
+          },
+          "options": [
+            {"hi": "शताब्दी", "en": "Century"},
+            {"hi": "सहस्राब्दी", "en": "Millennium"},
+            {"hi": "दशक", "en": "Decade"},
+            {"hi": "युग", "en": "Era"}
+          ],
+          "answer": {"hi": "दशक", "en": "Decade"}
+        },
+        {
+          "q": {
+            "hi": "संसार की सर्वाधिक यथार्थ घड़ी किस देश में विकसित की गई है?",
+            "en": "In which country was the world's most accurate clock developed?"
+          },
+          "options": [
+            {"hi": "भारत", "en": "India"},
+            {"hi": "चीन", "en": "China"},
+            {"hi": "संयुक्त राज्य अमेरिका", "en": "United States of America"},
+            {"hi": "रूस", "en": "Russia"}
+          ],
+          "answer": {"hi": "संयुक्त राज्य अमेरिका", "en": "United States of America"}
+        },
+        {
+          "q": {
+            "hi": "इनमें से कौन-सी आवर्ती गति नहीं है?",
+            "en": "Which of the following is not a periodic motion?"
+          },
+          "options": [
+            {"hi": "घड़ी की सुई की गति", "en": "Motion of clock hand"},
+            {"hi": "सीधी सड़क पर दौड़ती कार", "en": "Car running on straight road"},
+            {"hi": "झूले की गति", "en": "Motion of swing"},
+            {"hi": "सर्कस में घूमता पहिया", "en": "Spinning wheel in circus"}
+          ],
+          "answer": {"hi": "सीधी सड़क पर दौड़ती कार", "en": "Car running on straight road"}
+        },
+        {
+          "q": {
+            "hi": "दूरी-समय ग्राफ़ की ढाल (slope) क्या बताती है?",
+            "en": "What does the slope of a distance-time graph represent?"
+          },
+          "options": [
+            {"hi": "कुल समय", "en": "Total time"},
+            {"hi": "कुल दूरी", "en": "Total distance"},
+            {"hi": "चाल", "en": "Speed"},
+            {"hi": "विस्थापन", "en": "Displacement"}
+          ],
+          "answer": {"hi": "चाल", "en": "Speed"}
+        }
+      ],
+      "section5": [
+        {
+          "q": {
+            "hi": "एक शताब्दी में कितने वर्ष होते हैं?",
+            "en": "How many years are there in a century?"
+          },
+          "options": [
+            {"hi": "10 वर्ष", "en": "10 years"},
+            {"hi": "50 वर्ष", "en": "50 years"},
+            {"hi": "100 वर्ष", "en": "100 years"},
+            {"hi": "1000 वर्ष", "en": "1000 years"}
+          ],
+          "answer": {"hi": "100 वर्ष", "en": "100 years"}
+        },
+        {
+          "q": {
+            "hi": "भारत में समय अनुरक्षण सेवा किस संस्था द्वारा प्रदान की जाती है?",
+            "en": "Time maintenance service in India is provided by which institution?"
+          },
+          "options": [
+            {"hi": "ISRO", "en": "ISRO"},
+            {"hi": "DRDO", "en": "DRDO"},
+            {"hi": "राष्ट्रीय भौतिकी प्रयोगशाला (NPL)", "en": "National Physical Laboratory (NPL)"},
+            {"hi": "IIT Delhi", "en": "IIT Delhi"}
+          ],
+          "answer": {"hi": "राष्ट्रीय भौतिकी प्रयोगशाला (NPL)", "en": "National Physical Laboratory (NPL)"}
+        },
+        {
+          "q": {
+            "hi": "यदि ग्राफ़ में रेखा X-अक्ष के समांतर है, तो चाल का मान क्या होगा?",
+            "en": "If the line in a graph is parallel to the X-axis (time), what is the speed?"
+          },
+          "options": [
+            {"hi": "स्थिर", "en": "Constant"},
+            {"hi": "अनंत", "en": "Infinite"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "बहुत अधिक", "en": "Very high"}
+          ],
+          "answer": {"hi": "शून्य", "en": "Zero"}
+        },
+        {
+          "q": {
+            "hi": "एक लोलक 20 दोलन पूरे करने में 32 सेकंड लेता है। इसका आवर्तकाल क्या है?",
+            "en": "A pendulum takes 32 seconds to complete 20 oscillations. What is its time period?"
+          },
+          "options": [
+            {"hi": "1.6 s", "en": "1.6 s"},
+            {"hi": "0.625 s", "en": "0.625 s"},
+            {"hi": "2.0 s", "en": "2.0 s"},
+            {"hi": "3.2 s", "en": "3.2 s"}
+          ],
+          "answer": {"hi": "1.6 s", "en": "1.6 s"}
+        },
+        {
+          "q": {
+            "hi": "रेतघड़ी और जलघड़ी किस काल की यंत्र हैं?",
+            "en": "Sand clock and water clock belong to which era?"
+          },
+          "options": [
+            {"hi": "आधुनिक काल", "en": "Modern era"},
+            {"hi": "प्राचीन काल", "en": "Ancient era"},
+            {"hi": "भविष्य", "en": "Future"},
+            {"hi": "मध्यकालीन", "en": "Medieval"}
+          ],
+          "answer": {"hi": "प्राचीन काल", "en": "Ancient era"}
+        },
+        {
+          "q": {
+            "hi": "इनमें से कौन-सा समय का मात्रक नहीं है?",
+            "en": "Which of the following is not a unit of time?"
+          },
+          "options": [
+            {"hi": "सेकंड", "en": "Second"},
+            {"hi": "प्रकाश वर्ष", "en": "Light year"},
+            {"hi": "घंटा", "en": "Hour"},
+            {"hi": "दिन", "en": "Day"}
+          ],
+          "answer": {"hi": "प्रकाश वर्ष", "en": "Light year"}
+        },
+        {
+          "q": {
+            "hi": "चालमापी (Speedometer) चाल को किस मात्रक में मापता है?",
+            "en": "In which unit does a Speedometer measure speed?"
+          },
+          "options": [
+            {"hi": "m/s", "en": "m/s"},
+            {"hi": "km/h", "en": "km/h"},
+            {"hi": "m/min", "en": "m/min"},
+            {"hi": "km/min", "en": "km/min"}
+          ],
+          "answer": {"hi": "km/h", "en": "km/h"}
+        },
+        {
+          "q": {
+            "hi": "एक लोलक की मध्य स्थिति क्या कहलाती है?",
+            "en": "What is the middle position of a pendulum called?"
+          },
+          "options": [
+            {"hi": "चरम स्थिति", "en": "Extreme position"},
+            {"hi": "विराम स्थिति", "en": "Rest position"},
+            {"hi": "माध्य (औसत) स्थिति", "en": "Mean position"},
+            {"hi": "आधार", "en": "Base"}
+          ],
+          "answer": {"hi": "माध्य (औसत) स्थिति", "en": "Mean position"}
+        },
+        {
+          "q": {
+            "hi": "किसी वस्तु की चाल 15 m/s है। 2 मिनट में वह कितनी दूरी तय करेगी?",
+            "en": "An object's speed is 15 m/s. How much distance will it cover in 2 minutes?"
+          },
+          "options": [
+            {"hi": "30 m", "en": "30 m"},
+            {"hi": "180 m", "en": "180 m"},
+            {"hi": "1800 m", "en": "1800 m"},
+            {"hi": "300 m", "en": "300 m"}
+          ],
+          "answer": {"hi": "1800 m", "en": "1800 m"}
+        },
+        {
+          "q": {
+            "hi": "क्या सरल लोलक का आवर्तकाल नियत रहता है?",
+            "en": "Does the time period of a simple pendulum remain constant?"
+          },
+          "options": [
+            {"hi": "हाँ, लगभग", "en": "Yes, nearly"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "केवल रात में", "en": "Only at night"},
+            {"hi": "केवल अंतरिक्ष में", "en": "Only in space"}
+          ],
+          "answer": {"hi": "हाँ, लगभग", "en": "Yes, nearly"}
+        }
+      ]
     }
   }
 }
+
 
 
