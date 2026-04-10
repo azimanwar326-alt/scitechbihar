@@ -7943,9 +7943,672 @@
           "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
         }
       ]
+    },
+    "chapter13": {
+      "section1": [
+        {
+          "q": {
+            "hi": "झाग से भरपूर, तेल मिश्रित, काले-भूरे रंग का जल जो नालियों में जाता है, क्या कहलाता है?",
+            "en": "The frothy, oil mixed, black-brown water that goes into drains is called?"
+          },
+          "options": [
+            {"hi": "स्वच्छ जल", "en": "Clean water"},
+            {"hi": "अपशिष्ट जल (Wastewater)", "en": "Wastewater"},
+            {"hi": "पेयजल", "en": "Drinking water"},
+            {"hi": "खनिज जल", "en": "Mineral water"}
+          ],
+          "answer": {"hi": "अपशिष्ट जल (Wastewater)", "en": "Wastewater"}
+        },
+        {
+          "q": {
+            "hi": "विश्व जल दिवस कब मनाया जाता है?",
+            "en": "When is World Water Day celebrated?"
+          },
+          "options": [
+            {"hi": "22 जनवरी", "en": "22 January"},
+            {"hi": "22 मार्च", "en": "22 March"},
+            {"hi": "5 जून", "en": "5 June"},
+            {"hi": "14 नवंबर", "en": "14 November"}
+          ],
+          "answer": {"hi": "22 मार्च", "en": "22 March"}
+        },
+        {
+          "q": {
+            "hi": "संयुक्त राष्ट्र ने 2005-2015 की अवधि को किस रूप में घोषित किया था?",
+            "en": "The period 2005–2015 was proclaimed by the UN as the International Decade for action on?"
+          },
+          "options": [
+            {"hi": "स्वच्छता के लिए जीवन", "en": "Sanitation for life"},
+            {"hi": "जीवन के लिए जल", "en": "Water for life"},
+            {"hi": "भोजन के लिए जल", "en": "Water for food"},
+            {"hi": "गरीबी हटाओ", "en": "Eradicate poverty"}
+          ],
+          "answer": {"hi": "जीवन के लिए जल", "en": "Water for life"}
+        },
+        {
+          "q": {
+            "hi": "अपशिष्ट जल उपचार के प्रक्रम को सामान्यतः क्या कहते हैं?",
+            "en": "The process of wastewater treatment is commonly known as?"
+          },
+          "options": [
+            {"hi": "जल शोधन", "en": "Water purification"},
+            {"hi": "मलजल उपचार (Sewage treatment)", "en": "Sewage treatment"},
+            {"hi": "क्लोरीनीकरण", "en": "Chlorination"},
+            {"hi": "वाष्पीकरण", "en": "Evaporation"}
+          ],
+          "answer": {"hi": "मलजल उपचार (Sewage treatment)", "en": "Sewage treatment"}
+        },
+        {
+          "q": {
+            "hi": "मलजल (Sewage) किस प्रकार का अपशिष्ट है?",
+            "en": "Sewage is which type of waste?"
+          },
+          "options": [
+            {"hi": "ठोस अपशिष्ट", "en": "Solid waste"},
+            {"hi": "द्रव रूपी अपशिष्ट", "en": "Liquid waste"},
+            {"hi": "गैसीय अपशिष्ट", "en": "Gaseous waste"},
+            {"hi": "घातक अपशिष्ट", "en": "Hazardous waste"}
+          ],
+          "answer": {"hi": "द्रव रूपी अपशिष्ट", "en": "Liquid waste"}
+        },
+        {
+          "q": {
+            "hi": "जल में घुले हुए और निलंबित अपद्रव्य क्या कहलाते हैं?",
+            "en": "The dissolved and suspended impurities in water are called?"
+          },
+          "options": [
+            {"hi": "पोषक तत्व", "en": "Nutrients"},
+            {"hi": "संदूषक (Contaminants)", "en": "Contaminants"},
+            {"hi": "कीटाणु", "en": "Germs"},
+            {"hi": "रसायन", "en": "Chemicals"}
+          ],
+          "answer": {"hi": "संदूषक (Contaminants)", "en": "Contaminants"}
+        },
+        {
+          "q": {
+            "hi": "मलजल में उपस्थित कार्बनिक अशुद्धि का उदाहरण कौन सा है?",
+            "en": "Which of the following is an organic impurity in sewage?"
+          },
+          "options": [
+            {"hi": "फॉस्फेट", "en": "Phosphate"},
+            {"hi": "नाइट्रेट", "en": "Nitrate"},
+            {"hi": "मानव मल", "en": "Human faeces"},
+            {"hi": "धातुएँ", "en": "Metals"}
+          ],
+          "answer": {"hi": "मानव मल", "en": "Human faeces"}
+        },
+        {
+          "q": {
+            "hi": "अपशिष्ट जल में फास्फेट और नाइट्रेट किस प्रकार की अशुद्धियाँ हैं?",
+            "en": "Phosphate and nitrate in wastewater are which type of impurities?"
+          },
+          "options": [
+            {"hi": "कार्बनिक", "en": "Organic"},
+            {"hi": "अकार्बनिक (Inorganic)", "en": "Inorganic"},
+            {"hi": "बैक्टीरिया", "en": "Bacteria"},
+            {"hi": "पोषक तत्व", "en": "Nutrients"}
+          ],
+          "answer": {"hi": "अकार्बनिक (Inorganic)", "en": "Inorganic"}
+        },
+        {
+          "q": {
+            "hi": "मलजल ले जाने वाले पाइपों के जाल को क्या कहते हैं?",
+            "en": "The network of pipes that carry sewage is called?"
+          },
+          "options": [
+            {"hi": "परिवहन तंत्र", "en": "Transport system"},
+            {"hi": "मल व्यवस्था (Sewerage)", "en": "Sewerage"},
+            {"hi": "जल पाइपलाइन", "en": "Water pipeline"},
+            {"hi": "गैस ग्रिड", "en": "Gas grid"}
+          ],
+          "answer": {"hi": "मल व्यवस्था (Sewerage)", "en": "Sewerage"}
+        },
+        {
+          "q": {
+            "hi": "मल व्यवस्था में 'मैनहोल' (Manholes) सामान्यतः कितनी दूरी पर बनाए जाते हैं?",
+            "en": "Manholes in sewerage systems are usually located every?"
+          },
+          "options": [
+            {"hi": "10-20 मीटर", "en": "10-20 m"},
+            {"hi": "50-60 मीटर", "en": "50-60 m"},
+            {"hi": "100-200 मीटर", "en": "100-200 m"},
+            {"hi": "5-10 मीटर", "en": "5-10 m"}
+          ],
+          "answer": {"hi": "50-60 मीटर", "en": "50-60 m"}
+        }
+      ],
+      "section2": [
+        {
+          "q": {
+            "hi": "WWTP का पूर्ण रूप क्या है?",
+            "en": "What is the full form of WWTP?"
+          },
+          "options": [
+            {"hi": "Water Waste Time Plant", "en": "Water Waste Time Plant"},
+            {"hi": "Waste Water Treatment Plant", "en": "Waste Water Treatment Plant"},
+            {"hi": "World Water Treatment Project", "en": "World Water Treatment Project"},
+            {"hi": "Water Works Treatment Plan", "en": "Water Works Treatment Plan"}
+          ],
+          "answer": {"hi": "Waste Water Treatment Plant", "en": "Waste Water Treatment Plant"}
+        },
+        {
+          "q": {
+            "hi": "उपचार संयंत्र में सबसे पहले अपशिष्ट जल को किन छड़ों से बने स्क्रीन से गुजारा जाता है?",
+            "en": "In a treatment plant, wastewater first passes through which screens?"
+          },
+          "options": [
+            {"hi": "लकड़ी की छड़ें", "en": "Wooden bars"},
+            {"hi": "शलाका छन्ने (Bar screens)", "en": "Bar screens"},
+            {"hi": "प्लास्टिक जाल", "en": "Plastic mesh"},
+            {"hi": "काँच की छड़ें", "en": "Glass rods"}
+          ],
+          "answer": {"hi": "शलाका छन्ने (Bar screens)", "en": "Bar screens"}
+        },
+        {
+          "q": {
+            "hi": "टैंकी के पेंदे में बैठने वाले ठोस जैसे मल को क्या कहते हैं?",
+            "en": "Solid wastes like faeces that settle at the bottom of the tank are called?"
+          },
+          "options": [
+            {"hi": "झाग", "en": "Scum"},
+            {"hi": "आपंक (Sludge)", "en": "Sludge"},
+            {"hi": "कीचड़", "en": "Mud"},
+            {"hi": "कंकड़", "en": "Grit"}
+          ],
+          "answer": {"hi": "आपंक (Sludge)", "en": "Sludge"}
+        },
+        {
+          "q": {
+            "hi": "अपशिष्ट जल में तैरने वाले तेल और ग्रीज को हटाने के लिए किसका उपयोग किया जाता है?",
+            "en": "What is used to remove floatable solids like oil and grease from wastewater?"
+          },
+          "options": [
+            {"hi": "खुरचनी (Scraper)", "en": "Scraper"},
+            {"hi": "मथनी (Skimmer)", "en": "Skimmer"},
+            {"hi": "छलनी", "en": "Sieve"},
+            {"hi": "पंप", "en": "Pump"}
+          ],
+          "answer": {"hi": "मथनी (Skimmer)", "en": "Skimmer"}
+        },
+        {
+          "q": {
+            "hi": "उपचारित जल जिसमें से तेल और ठोस पदार्थ हटा दिए गए हों, क्या कहलाता है?",
+            "en": "Treated water after removing solids and grease is called?"
+          },
+          "options": [
+            {"hi": "कठोर जल", "en": "Hard water"},
+            {"hi": "निर्मलीकृत जल (Clarified water)", "en": "Clarified water"},
+            {"hi": "भारी जल", "en": "Heavy water"},
+            {"hi": "आसुत जल", "en": "Distilled water"}
+          ],
+          "answer": {"hi": "निर्मलीकृत जल (Clarified water)", "en": "Clarified water"}
+        },
+        {
+          "q": {
+            "hi": "आपंक (Sludge) को एक पृथक् टंकी में किसके द्वारा अपघटित किया जाता है?",
+            "en": "Sludge is decomposed in a separate tank by?"
+          },
+          "options": [
+            {"hi": "वायवीय जीवाणु", "en": "Aerobic bacteria"},
+            {"hi": "अवायवीय जीवाणु (Anaerobic bacteria)", "en": "Anaerobic bacteria"},
+            {"hi": "विषाणु", "en": "Virus"},
+            {"hi": "कवक", "en": "Fungi"}
+          ],
+          "answer": {"hi": "अवायवीय जीवाणु (Anaerobic bacteria)", "en": "Anaerobic bacteria"}
+        },
+        {
+          "q": {
+            "hi": "आपंक के अपघटन से कौन-सी गैस उत्पन्न होती है जिसका उपयोग ईंधन के रूप में किया जा सकता है?",
+            "en": "Which gas produced during sludge decomposition can be used as fuel?"
+          },
+          "options": [
+            {"hi": "ऑक्सीजन", "en": "Oxygen"},
+            {"hi": "बायोगैस (Biogas)", "en": "Biogas"},
+            {"hi": "नाइट्रोजन", "en": "Nitrogen"},
+            {"hi": "क्लोरीन", "en": "Chlorine"}
+          ],
+          "answer": {"hi": "बायोगैस (Biogas)", "en": "Biogas"}
+        },
+        {
+          "q": {
+            "hi": "निर्मलीकृत जल में वायवीय जीवाणुओं की वृद्धि के लिए क्या किया जाता है?",
+            "en": "What is done to clarified water to help aerobic bacteria grow?"
+          },
+          "options": [
+            {"hi": "पानी गर्म करना", "en": "Heating water"},
+            {"hi": "वायु गुज़ारना (Aeration)", "en": "Passing air (Aeration)"},
+            {"hi": "अंधेरे में रखना", "en": "Keeping in dark"},
+            {"hi": "नमक मिलाना", "en": "Adding salt"}
+          ],
+          "answer": {"hi": "वायु गुज़ारना (Aeration)", "en": "Passing air (Aeration)"}
+        },
+        {
+          "q": {
+            "hi": "जल को वितरित करने से पहले उसे रोगाणुमुक्त करने के लिए किन रसायनों का उपयोग किया जाता है?",
+            "en": "Which chemicals are used to disinfect water before distribution?"
+          },
+          "options": [
+            {"hi": "चीनी और नमक", "en": "Sugar and Salt"},
+            {"hi": "क्लोरीन और ओजोन", "en": "Chlorine and Ozone"},
+            {"hi": "नाइट्रोजन और फास्फोरस", "en": "Nitrogen and Phosphorus"},
+            {"hi": "लोहा और ताँबा", "en": "Iron and Copper"}
+          ],
+          "answer": {"hi": "क्लोरीन और ओजोन", "en": "Chlorine and Ozone"}
+        },
+        {
+          "q": {
+            "hi": "खाद्य तेलों और वसाओं को नाली में क्यों नहीं बहाना चाहिए?",
+            "en": "Why should cooking oils and fats not be thrown down the drain?"
+          },
+          "options": [
+            {"hi": "वे पाइपों को सख्त कर जाम कर सकते हैं", "en": "They can harden and block the pipes"},
+            {"hi": "वे पानी को मीठा करते हैं", "en": "They make water sweet"},
+            {"hi": "वे पाइपों को साफ़ करते हैं", "en": "They clean the pipes"},
+            {"hi": "वे ऑक्सीजन बढ़ाते हैं", "en": "They increase oxygen"}
+          ],
+          "answer": {"hi": "वे पाइपों को सख्त कर जाम कर सकते हैं", "en": "They can harden and block the pipes"}
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "पेंट, विलायक और कीटनाशकों को नाली में क्यों नहीं फेंकना चाहिए?",
+            "en": "Why should paints, solvents and insecticides not be thrown in the drain?"
+          },
+          "options": [
+            {"hi": "वे पानी का रंग बदलते हैं", "en": "They change water color"},
+            {"hi": "वे जल शुद्धि करने वाले सूक्ष्मजीवों को मार सकते हैं", "en": "They may kill microbes that help purify water"},
+            {"hi": "वे पाइपों को नया बनाते हैं", "en": "They make pipes new"},
+            {"hi": "वे मछली का भोजन हैं", "en": "They are food for fish"}
+          ],
+          "answer": {"hi": "वे जल शुद्धि करने वाले सूक्ष्मजीवों को मार सकते हैं", "en": "They may kill microbes that help purify water"}
+        },
+        {
+          "q": {
+            "hi": "चाय की पत्तियाँ और ठोस खाद्य अवशेषों को कहाँ फेंकना चाहिए?",
+            "en": "Where should tea leaves and solid food remains be thrown?"
+          },
+          "options": [
+            {"hi": "नाली में", "en": "In the drain"},
+            {"hi": "कचरेदान (Dustbin) में", "en": "In the dustbin"},
+            {"hi": "शौचालय में", "en": "In the toilet"},
+            {"hi": "सड़क पर", "en": "On the road"}
+          ],
+          "answer": {"hi": "कचरेदान (Dustbin) में", "en": "In the dustbin"}
+        },
+        {
+          "q": {
+            "hi": "वाहित मल उपचार संयंत्र के चारों ओर कौन से वृक्ष लगाने चाहिए?",
+            "en": "Which trees should be planted all along sewage ponds?"
+          },
+          "options": [
+            {"hi": "आम के पेड़", "en": "Mango trees"},
+            {"hi": "यूकेलिप्टस के पेड़", "en": "Eucalyptus trees"},
+            {"hi": "बरगद के पेड़", "en": "Banyan trees"},
+            {"hi": "नारियल के पेड़", "en": "Coconut trees"}
+          ],
+          "answer": {"hi": "यूकेलिप्टस के पेड़", "en": "Eucalyptus trees"}
+        },
+        {
+          "q": {
+            "hi": "यूकेलिप्टस के पेड़ जल उपचार में कैसे सहायक हैं?",
+            "en": "How do Eucalyptus trees help in water treatment?"
+          },
+          "options": [
+            {"hi": "वे जल को प्रदूषित करते हैं", "en": "They pollute water"},
+            {"hi": "वे अतिरिक्त अपशिष्ट जल को अवशोषित कर वाष्प उत्सर्जित करते हैं", "en": "They absorb surplus wastewater and release water vapour"},
+            {"hi": "वे केवल छाया देते हैं", "en": "They only give shade"},
+            {"hi": "वे फल देते हैं", "en": "They give fruits"}
+          ],
+          "answer": {"hi": "वे अतिरिक्त अपशिष्ट जल को अवशोषित कर वाष्प उत्सर्जित करते हैं", "en": "They absorb surplus wastewater and release water vapour"}
+        },
+        {
+          "q": {
+            "hi": "गंदगी और असुरक्षित पेयजल के कारण कौन सी बीमारियाँ होती हैं?",
+            "en": "Which diseases are caused by filth and unsafe drinking water?"
+          },
+          "options": [
+            {"hi": "हैजा और टाइफाइड", "en": "Cholera and Typhoid"},
+            {"hi": "पीलिया (हेपेटाइटिस)", "en": "Jaundice (Hepatitis)"},
+            {"hi": "पेचिश और मेनिन्जाइटिस", "en": "Dysentery and Meningitis"},
+            {"hi": "उपरोक्त सभी", "en": "All of the above"}
+          ],
+          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
+        },
+        {
+          "q": {
+            "hi": "मल निपटान की वैकल्पिक व्यवस्था कौन सी है?",
+            "en": "Which is an alternative arrangement for sewage disposal?"
+          },
+          "options": [
+            {"hi": "खुली नाली", "en": "Open drain"},
+            {"hi": "सेप्टिक टैंक", "en": "Septic tank"},
+            {"hi": "नदी में बहाना", "en": "Flowing into river"},
+            {"hi": "खेतों में डालना", "en": "Dumping in fields"}
+          ],
+          "answer": {"hi": "सेप्टिक टैंक", "en": "Septic tank"}
+        },
+        {
+          "q": {
+            "hi": "सेप्टिक टैंक शौचालय किन स्थानों के लिए उपयुक्त हैं?",
+            "en": "Septic tank toilets are suitable for places where?"
+          },
+          "options": [
+            {"hi": "शहरों में", "en": "In cities"},
+            {"hi": "जहाँ मल व्यवस्था नहीं है", "en": "There is no sewerage system"},
+            {"hi": "हवाई अड्डों पर", "en": "At airports"},
+            {"hi": "स्कूलों में", "en": "In schools"}
+          ],
+          "answer": {"hi": "जहाँ मल व्यवस्था नहीं है", "en": "There is no sewerage system"}
+        },
+        {
+          "q": {
+            "hi": "वर्मी-प्रोसेसिंग (केंचुआ-प्रक्रमण) शौचालय में क्या उपयोग किया जाता है?",
+            "en": "What is used in vermi-processing toilets?"
+          },
+          "options": [
+            {"hi": "मछली", "en": "Fish"},
+            {"hi": "केंचुए (Earthworms)", "en": "Earthworms"},
+            {"hi": "मेंढक", "en": "Frogs"},
+            {"hi": "कॉकरोच", "en": "Cockroaches"}
+          ],
+          "answer": {"hi": "केंचुए (Earthworms)", "en": "Earthworms"}
+        },
+        {
+          "q": {
+            "hi": "केंचुओं द्वारा उपचारित मानव मल क्या कहलाता है?",
+            "en": "The human excreta treated by earthworms is called?"
+          },
+          "options": [
+            {"hi": "अपशिष्ट", "en": "Waste"},
+            {"hi": "वर्मी केक (Vermi cakes)", "en": "Vermi cakes"},
+            {"hi": "गंदगी", "en": "Filth"},
+            {"hi": "राख", "en": "Ash"}
+          ],
+          "answer": {"hi": "वर्मी केक (Vermi cakes)", "en": "Vermi cakes"}
+        },
+        {
+          "q": {
+"hi": "हवाई जहाजों और ट्रेनों में किस प्रकार के शौचालय लोकप्रिय हो रहे हैं?",
+            "en": "Which type of toilets are becoming popular in airplanes and trains?"
+          },
+          "options": [
+            {"hi": "सेप्टिक टैंक", "en": "Septic tank"},
+            {"hi": "शुष्क अपघटन शौचालय (Vacuum/Dry toilets)", "en": "Vacuum/Dry toilets"},
+            {"hi": "खुले शौचालय", "en": "Open toilets"},
+            {"hi": "नदी शौचालय", "en": "River toilets"}
+          ],
+          "answer": {"hi": "शुष्क अपघटन शौचालय (Vacuum/Dry toilets)", "en": "Vacuum/Dry toilets"}
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "सार्वजनिक स्थानों पर स्वच्छता बनाए रखने की जिम्मेदारी किसकी है?",
+            "en": "Whose responsibility is it to maintain sanitation at public places?"
+          },
+          "options": [
+            {"hi": "केवल सरकार की", "en": "Only Government"},
+            {"hi": "केवल नगर निगम की", "en": "Only Municipal Corporation"},
+            {"hi": "प्रत्येक नागरिक की", "en": "Every citizen"},
+            {"hi": "किसी की नहीं", "en": "No one's"}
+          ],
+          "answer": {"hi": "प्रत्येक नागरिक की", "en": "Every citizen"}
+        },
+        {
+          "q": {
+            "hi": "खुले में मलत्याग से कौन सा प्रदूषण होता है?",
+            "en": "Defecation in the open causes which pollution?"
+          },
+          "options": [
+            {"hi": "जल प्रदूषण", "en": "Water pollution"},
+            {"hi": "मृदा प्रदूषण", "en": "Soil pollution"},
+            {"hi": "दोनों", "en": "Both"},
+            {"hi": "केवल वायु प्रदूषण", "en": "Only air pollution"}
+          ],
+          "answer": {"hi": "दोनों", "en": "Both"}
+        },
+        {
+          "q": {
+            "hi": "अपशिष्ट जल के उपचार के बाद प्राप्त शुष्क आपंक (Dry sludge) का उपयोग किस रूप में होता है?",
+            "en": "What is the use of dried sludge obtained after wastewater treatment?"
+          },
+          "options": [
+            {"hi": "ईंधन के रूप में", "en": "As fuel"},
+            {"hi": "खाद (Manure) के रूप में", "en": "As manure"},
+            {"hi": "पीने के लिए", "en": "For drinking"},
+            {"hi": "सजावट के लिए", "en": "For decoration"}
+          ],
+          "answer": {"hi": "खाद (Manure) के रूप में", "en": "As manure"}
+        },
+        {
+          "q": {
+            "hi": "क्या उपचारित जल को सीधे समुद्र या नदियों में विसर्जित किया जा सकता है?",
+            "en": "Can treated water be discharged directly into seas or rivers?"
+          },
+          "options": [
+            {"hi": "हाँ, क्योंकि यह काफी स्वच्छ होता है", "en": "Yes, as it is clean enough"},
+            {"hi": "नहीं, कभी नहीं", "en": "No, never"},
+            {"hi": "केवल रात में", "en": "Only at night"},
+            {"hi": "केवल बारिश में", "en": "Only in rain"}
+          ],
+          "answer": {"hi": "हाँ, क्योंकि यह काफी स्वच्छ होता है", "en": "Yes, as it is clean enough"}
+        },
+        {
+          "q": {
+            "hi": "सिंधु घाटी सभ्यता में जल निकासी की व्यवस्था कैसी थी?",
+            "en": "How was the drainage system in the Indus Valley Civilization?"
+          },
+          "options": [
+            {"hi": "कोई व्यवस्था नहीं थी", "en": "There was no system"},
+            {"hi": "अत्यंत विकसित और बंद नालियाँ", "en": "Highly developed and closed drains"},
+            {"hi": "खुली नालियाँ", "en": "Open drains"},
+            {"hi": "पाइप नहीं थे", "en": "No pipes"}
+          ],
+          "answer": {"hi": "अत्यंत विकसित और बंद नालियाँ", "en": "Highly developed and closed drains"}
+        },
+        {
+          "q": {
+            "hi": "विश्व का पहला शहरी स्वच्छता संयंत्र कहाँ विकसित हुआ था?",
+            "en": "Where was the world's first urban sanitation plant developed?"
+          },
+          "options": [
+            {"hi": "लंदन", "en": "London"},
+            {"hi": "हड़प्पा और मोहनजोदड़ो", "en": "Harappa and Mohenjo-daro"},
+            {"hi": "न्यूयॉर्क", "en": "New York"},
+            {"hi": "पेरिस", "en": "Paris"}
+          ],
+          "answer": {"hi": "हड़प्पा और मोहनजोदड़ो", "en": "Harappa and Mohenjo-daro"}
+        },
+        {
+          "q": {
+            "hi": "शौचालयों में पानी की बचत के लिए किस प्रणाली का उपयोग किया जा सकता है?",
+            "en": "Which system can be used to save water in toilets?"
+          },
+          "options": [
+            {"hi": "फ्लश हटाकर", "en": "Removing flush"},
+            {"hi": "कम पानी वाले फ्लश (Dual flush)", "en": "Dual flush system"},
+            {"hi": "पानी का उपयोग न करके", "en": "By not using water"},
+            {"hi": "पाइप तोड़कर", "en": "Breaking pipes"}
+          ],
+          "answer": {"hi": "कम पानी वाले फ्लश (Dual flush)", "en": "Dual flush system"}
+        },
+        {
+          "q": {
+            "hi": "अपशिष्ट जल से ठोस कचरा हटाने की प्रक्रिया क्या कहलाती है?",
+            "en": "The process of removing solid waste from wastewater is called?"
+          },
+          "options": [
+            {"hi": "छानना (Screening)", "en": "Screening"},
+            {"hi": "वाष्पीकरण", "en": "Evaporation"},
+            {"hi": "मिश्रण", "en": "Mixing"},
+            {"hi": "गर्म करना", "en": "Heating"}
+          ],
+          "answer": {"hi": "छानना (Screening)", "en": "Screening"}
+        },
+        {
+          "q": {
+            "hi": "जल प्रदूषण के लिए कौन उत्तरदायी है?",
+            "en": "Who is responsible for water pollution?"
+          },
+          "options": [
+            {"hi": "औद्योगिक अपशिष्ट", "en": "Industrial waste"},
+            {"hi": "घरेलू मलजल", "en": "Domestic sewage"},
+            {"hi": "कृषि रसायन", "en": "Agricultural chemicals"},
+            {"hi": "उपरोक्त सभी", "en": "All of the above"}
+          ],
+          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
+        },
+        {
+          "q": {
+            "hi": "ओजोन का उपयोग जल उपचार में किस लिए किया जाता है?",
+            "en": "What is Ozone used for in water treatment?"
+          },
+          "options": [
+            {"hi": "पानी ठंडा करने के लिए", "en": "To cool water"},
+            {"hi": "रोगाणुनाशन के लिए (Disinfection)", "en": "For disinfection"},
+            {"hi": "स्वाद बढ़ाने के लिए", "en": "To increase taste"},
+            {"hi": "रंग बदलने के लिए", "en": "To change color"}
+          ],
+          "answer": {"hi": "रोगाणुनाशन के लिए (Disinfection)", "en": "For disinfection"}
+        }
+      ],
+      "section5": [
+        {
+          "q": {
+            "hi": "अपशिष्ट जल उपचार का प्राथमिक चरण क्या है?",
+            "en": "What is the primary stage of wastewater treatment?"
+          },
+          "options": [
+            {"hi": "जैविक उपचार", "en": "Biological treatment"},
+            {"hi": "भौतिक उपचार (Physical treatment)", "en": "Physical treatment"},
+            {"hi": "रासायनिक उपचार", "en": "Chemical treatment"},
+            {"hi": "कीटाणुशोधन", "en": "Disinfection"}
+          ],
+          "answer": {"hi": "भौतिक उपचार (Physical treatment)", "en": "Physical treatment"}
+        },
+        {
+          "q": {
+            "hi": "ग्रीट और बालू को हटाने के लिए जल की गति को क्या किया जाता है?",
+            "en": "To remove grit and sand, the speed of water is?"
+          },
+          "options": [
+            {"hi": "तेज किया जाता है", "en": "Increased"},
+            {"hi": "कम किया जाता है (Decreased)", "en": "Decreased"},
+            {"hi": "रोका जाता है", "en": "Stopped"},
+            {"hi": "स्थिर रखा जाता है", "en": "Kept constant"}
+          ],
+          "answer": {"hi": "कम किया जाता है (Decreased)", "en": "Decreased"}
+        },
+        {
+          "q": {
+            "hi": "मलजल में कौन से जीवाणु हैजा का कारण बनते हैं?",
+            "en": "Which bacteria in sewage cause cholera?"
+          },
+          "options": [
+            {"hi": "विब्रियो कोलेरी", "en": "Vibrio cholerae"},
+            {"hi": "साल्मोनेला टाइफी", "en": "Salmonella typhi"},
+            {"hi": "ई-कोलाई", "en": "E. coli"},
+            {"hi": "लैक्टोबैसिलस", "en": "Lactobacillus"}
+          ],
+          "answer": {"hi": "विब्रियो कोलेरी", "en": "Vibrio cholerae"}
+        },
+        {
+          "q": {
+            "hi": "टाइफाइड किस बैक्टीरिया के कारण होता है?",
+            "en": "Typhoid is caused by which bacteria?"
+          },
+          "options": [
+            {"hi": "विब्रियो कोलेरी", "en": "Vibrio cholerae"},
+            {"hi": "साल्मोनेला टाइफी", "en": "Salmonella typhi"},
+            {"hi": "राइजोबियम", "en": "Rhizobium"},
+            {"hi": "यीस्ट", "en": "Yeast"}
+          ],
+          "answer": {"hi": "साल्मोनेला टाइफी", "en": "Salmonella typhi"}
+        },
+        {
+          "q": {
+            "hi": "एक सक्रिय नागरिक के रूप में हमें क्या करना चाहिए?",
+            "en": "As an active citizen, what should we do?"
+          },
+          "options": [
+            {"hi": "अपशिष्ट कम उत्पन्न करना", "en": "Produce less waste"},
+            {"hi": "नगरपालिका को गंदगी की सूचना देना", "en": "Inform municipality about filth"},
+            {"hi": "आस-पास स्वच्छता रखना", "en": "Maintain cleanliness nearby"},
+            {"hi": "उपरोक्त सभी", "en": "All of the above"}
+          ],
+          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
+        },
+        {
+          "q": {
+            "hi": "स्वच्छ भारत अभियान की शुरुआत कब हुई थी?",
+            "en": "When was the Swachh Bharat Mission started?"
+          },
+          "options": [
+            {"hi": "2010", "en": "2010"},
+            {"hi": "2014", "en": "2014"},
+            {"hi": "2018", "en": "2018"},
+            {"hi": "2020", "en": "2020"}
+          ],
+          "answer": {"hi": "2014", "en": "2014"}
+        },
+        {
+          "q": {
+            "hi": "वाहित मल में कौन-सा पोषक तत्व पाया जाता है?",
+            "en": "Which nutrient is found in sewage?"
+          },
+          "options": [
+            {"hi": "फास्फोरस और नाइट्रोजन", "en": "Phosphorus and Nitrogen"},
+            {"hi": "सोना और चांदी", "en": "Gold and Silver"},
+            {"hi": "विटामिन C", "en": "Vitamin C"},
+            {"hi": "केवल ऑक्सीजन", "en": "Only Oxygen"}
+          ],
+          "answer": {"hi": "फास्फोरस और नाइट्रोजन", "en": "Phosphorus and Nitrogen"}
+        },
+        {
+          "q": {
+            "hi": "बायोगैस का उपयोग किसमें किया जा सकता है?",
+            "en": "Biogas can be used for?"
+          },
+          "options": [
+            {"hi": "खाना पकाने में", "en": "Cooking"},
+            {"hi": "विद्युत उत्पादन में", "en": "Electricity generation"},
+            {"hi": "दोनों", "en": "Both"},
+            {"hi": "कपड़े धोने में", "en": "Washing clothes"}
+          ],
+          "answer": {"hi": "दोनों", "en": "Both"}
+        },
+        {
+          "q": {
+            "hi": "उपचारित जल का उपयोग कहाँ किया जा सकता है?",
+            "en": "Where can treated water be used?"
+          },
+          "options": [
+            {"hi": "खेती और सिंचाई में", "en": "Farming and Irrigation"},
+            {"hi": "औद्योगिक कार्यों में", "en": "Industrial purposes"},
+            {"hi": "बगीचों में", "en": "In gardens"},
+            {"hi": "उपरोक्त सभी", "en": "All of the above"}
+          ],
+          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
+        },
+        {
+          "q": {
+            "hi": "स्वच्छता और बीमारी के बीच क्या संबंध है?",
+            "en": "What is the relation between sanitation and disease?"
+          },
+          "options": [
+            {"hi": "स्वच्छता बढ़ने से बीमारियाँ बढ़ती हैं", "en": "Sanitation increases diseases"},
+            {"hi": "स्वच्छता बढ़ने से बीमारियाँ कम होती हैं", "en": "Sanitation decreases diseases"},
+            {"hi": "कोई संबंध नहीं है", "en": "No relation"},
+            {"hi": "बीमारी से स्वच्छता आती है", "en": "Disease brings sanitation"}
+          ],
+          "answer": {"hi": "स्वच्छता बढ़ने से बीमारियाँ कम होती हैं", "en": "Sanitation decreases diseases"}
+        }
+      ]
     }
   }
 }
+
 
 
 
