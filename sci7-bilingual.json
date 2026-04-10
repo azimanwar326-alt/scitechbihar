@@ -6619,9 +6619,1335 @@
           "answer": {"hi": "हाँ", "en": "Yes"}
         }
       ]
+    },
+    "chapter11": {
+      "section1": [
+        {
+          "q": {
+            "hi": "प्रकाश किस प्रकार की रेखा में गमन करता है?",
+            "en": "In what type of line does light travel?"
+          },
+          "options": [
+            {"hi": "टेढ़ी-मेढ़ी रेखा", "en": "Zig-zag line"},
+            {"hi": "सरल रेखा", "en": "Straight line"},
+            {"hi": "वृत्ताकार रेखा", "en": "Circular line"},
+            {"hi": "अनियमित रेखा", "en": "Irregular line"}
+          ],
+          "answer": {"hi": "सरल रेखा", "en": "Straight line"}
+        },
+        {
+          "q": {
+            "hi": "प्रकाश के पथ में परिवर्तन की प्रक्रिया क्या कहलाती है?",
+            "en": "What is the process of changing the path of light called?"
+          },
+          "options": [
+            {"hi": "अपवर्तन", "en": "Refraction"},
+            {"hi": "परावर्तन", "en": "Reflection"},
+            {"hi": "अवशोषण", "en": "Absorption"},
+            {"hi": "विसरण", "en": "Diffusion"}
+          ],
+          "answer": {"hi": "परावर्तन", "en": "Reflection"}
+        },
+        {
+          "q": {
+            "hi": "चमकदार पृष्ठ (सतह) किसकी भाँति कार्य करता है?",
+            "en": "A shiny surface acts like a?"
+          },
+          "options": [
+            {"hi": "लेंस", "en": "Lens"},
+            {"hi": "दर्पण", "en": "Mirror"},
+            {"hi": "दीवार", "en": "Wall"},
+            {"hi": "कागज", "en": "Paper"}
+          ],
+          "answer": {"hi": "दर्पण", "en": "Mirror"}
+        },
+        {
+          "q": {
+            "hi": "समतल दर्पण द्वारा बना प्रतिबिंब कैसा होता है?",
+            "en": "What is the nature of the image formed by a plane mirror?"
+          },
+          "options": [
+            {"hi": "सीधा और बिंब के समान आमाप का", "en": "Erect and of the same size as the object"},
+            {"hi": "उल्टा और छोटा", "en": "Inverted and small"},
+            {"hi": "सीधा और बड़ा", "en": "Erect and large"},
+            {"hi": "उल्टा और बड़ा", "en": "Inverted and large"}
+          ],
+          "answer": {"hi": "सीधा और बिंब के समान आमाप का", "en": "Erect and of the same size as the object"}
+        },
+        {
+          "q": {
+            "hi": "समतल दर्पण में बिंब का बायाँ भाग प्रतिबिंब के किस भाग जैसा दिखाई देता है?",
+            "en": "In a plane mirror, the left side of the object appears as which side of the image?"
+          },
+          "options": [
+            {"hi": "बायाँ", "en": "Left"},
+            {"hi": "दायाँ", "en": "Right"},
+            {"hi": "ऊपरी", "en": "Top"},
+            {"hi": "निचला", "en": "Bottom"}
+          ],
+          "answer": {"hi": "दायाँ", "en": "Right"}
+        },
+        {
+          "q": {
+            "hi": "जिस प्रतिबिंब को पर्दे पर प्राप्त किया जा सके, उसे क्या कहते हैं?",
+            "en": "An image that can be obtained on a screen is called?"
+          },
+          "options": [
+            {"hi": "आभासी प्रतिबिंब", "en": "Virtual image"},
+            {"hi": "वास्तविक प्रतिबिंब", "en": "Real image"},
+            {"hi": "धुंधला प्रतिबिंब", "en": "Blurry image"},
+            {"hi": "उल्टा प्रतिबिंब", "en": "Inverted image"}
+          ],
+          "answer": {"hi": "वास्तविक प्रतिबिंब", "en": "Real image"}
+        },
+        {
+          "q": {
+            "hi": "समतल दर्पण द्वारा बने प्रतिबिंब को पर्दे पर प्राप्त क्यों नहीं किया जा सकता?",
+            "en": "Why can't an image formed by a plane mirror be obtained on a screen?"
+          },
+          "options": [
+            {"hi": "क्योंकि यह वास्तविक है", "en": "Because it is real"},
+            {"hi": "क्योंकि यह आभासी है", "en": "Because it is virtual"},
+            {"hi": "क्योंकि यह उल्टा है", "en": "Because it is inverted"},
+            {"hi": "क्योंकि दर्पण छोटा है", "en": "Because mirror is small"}
+          ],
+          "answer": {"hi": "क्योंकि यह आभासी है", "en": "Because it is virtual"}
+        },
+        {
+          "q": {
+            "hi": "यदि किसी गोलीय दर्पण का परावर्तक पृष्ठ अवतल (Concave) है, तो उसे क्या कहते हैं?",
+            "en": "If the reflecting surface of a spherical mirror is concave, it is called a?"
+          },
+          "options": [
+            {"hi": "उत्तल दर्पण", "en": "Convex mirror"},
+            {"hi": "अवतल दर्पण", "en": "Concave mirror"},
+            {"hi": "समतल दर्पण", "en": "Plane mirror"},
+            {"hi": "द्वि-अवतल दर्पण", "en": "Bi-concave mirror"}
+          ],
+          "answer": {"hi": "अवतल दर्पण", "en": "Concave mirror"}
+        },
+        {
+          "q": {
+            "hi": "गोलीय दर्पण जिसका परावर्तक पृष्ठ उत्तल (Convex) हो, क्या कहलाता है?",
+            "en": "A spherical mirror whose reflecting surface is convex is called a?"
+          },
+          "options": [
+            {"hi": "अवतल दर्पण", "en": "Concave mirror"},
+            {"hi": "उत्तल दर्पण", "en": "Convex mirror"},
+            {"hi": "समतल दर्पण", "en": "Plane mirror"},
+            {"hi": "लेंस", "en": "Lens"}
+          ],
+          "answer": {"hi": "उत्तल दर्पण", "en": "Convex mirror"}
+        },
+        {
+          "q": {
+            "hi": "स्टेनलेस स्टील की चम्मच का भीतरी पृष्ठ किसकी भाँति कार्य करता है?",
+            "en": "The inner surface of a stainless steel spoon acts like a?"
+          },
+          "options": [
+            {"hi": "उत्तल दर्पण", "en": "Convex mirror"},
+            {"hi": "अवतल दर्पण", "en": "Concave mirror"},
+            {"hi": "समतल दर्पण", "en": "Plane mirror"},
+            {"hi": "काँच", "en": "Glass"}
+          ],
+          "answer": {"hi": "अवतल दर्पण", "en": "Concave mirror"}
+        }
+      ],
+      "section2": [
+        {
+          "q": {
+            "hi": "चम्मच का बाहरी पृष्ठ किसकी भाँति कार्य करता है?",
+            "en": "The outer surface of a spoon acts like a?"
+          },
+          "options": [
+            {"hi": "अवतल दर्पण", "en": "Concave mirror"},
+            {"hi": "उत्तल दर्पण", "en": "Convex mirror"},
+            {"hi": "लेंस", "en": "Lens"},
+            {"hi": "अपारदर्शी वस्तु", "en": "Opaque object"}
+          ],
+          "answer": {"hi": "उत्तल दर्पण", "en": "Convex mirror"}
+        },
+        {
+          "q": {
+            "hi": "दंत विशेषज्ञ (Dentists) दाँतों का बड़ा प्रतिबिंब देखने के लिए किसका उपयोग करते हैं?",
+            "en": "What do dentists use to see an enlarged image of teeth?"
+          },
+          "options": [
+            {"hi": "उत्तल दर्पण", "en": "Convex mirror"},
+            {"hi": "अवतल दर्पण", "en": "Concave mirror"},
+            {"hi": "समतल दर्पण", "en": "Plane mirror"},
+            {"hi": "मैग्नीफाइंग ग्लास", "en": "Magnifying glass"}
+          ],
+          "answer": {"hi": "अवतल दर्पण", "en": "Concave mirror"}
+        },
+        {
+          "q": {
+            "hi": "वाहनों के पार्श्व दर्पण (Side mirrors) में किस दर्पण का उपयोग किया जाता है?",
+            "en": "Which mirror is used as side mirrors in vehicles?"
+          },
+          "options": [
+            {"hi": "अवतल दर्पण", "en": "Concave mirror"},
+            {"hi": "उत्तल दर्पण", "en": "Convex mirror"},
+            {"hi": "समतल दर्पण", "en": "Plane mirror"},
+            {"hi": "लेंस", "en": "Lens"}
+          ],
+          "answer": {"hi": "उत्तल दर्पण", "en": "Convex mirror"}
+        },
+        {
+          "q": {
+            "hi": "कौन सा दर्पण अधिक क्षेत्र की वस्तुओं का प्रतिबिंब बना सकता है?",
+            "en": "Which mirror can form images of objects spread over a large area?"
+          },
+          "options": [
+            {"hi": "अवतल दर्पण", "en": "Concave mirror"},
+            {"hi": "समतल दर्पण", "en": "Plane mirror"},
+            {"hi": "उत्तल दर्पण", "en": "Convex mirror"},
+            {"hi": "कोई नहीं", "en": "None"}
+          ],
+          "answer": {"hi": "उत्तल दर्पण", "en": "Convex mirror"}
+        },
+        {
+          "q": {
+            "hi": "किनारे की अपेक्षा बीच में मोटे लेंस को क्या कहते हैं?",
+            "en": "A lens which feels thicker in the middle than at the edges is called a?"
+          },
+          "options": [
+            {"hi": "अवतल लेंस", "en": "Concave lens"},
+            {"hi": "उत्तल लेंस", "en": "Convex lens"},
+            {"hi": "समतल लेंस", "en": "Plane lens"},
+            {"hi": "बेलनाकार लेंस", "en": "Cylindrical lens"}
+          ],
+          "answer": {"hi": "उत्तल लेंस", "en": "Convex lens"}
+        },
+        {
+          "q": {
+            "hi": "किनारे की अपेक्षा बीच में पतले महसूस होने वाले लेंस क्या कहलाते हैं?",
+            "en": "Lenses which feel thinner in the middle than at the edges are called?"
+          },
+          "options": [
+            {"hi": "उत्तल लेंस", "en": "Convex lens"},
+            {"hi": "अवतल लेंस", "en": "Concave lens"},
+            {"hi": "मैग्नीफाइंग लेंस", "en": "Magnifying lens"},
+            {"hi": "काँच की पट्टी", "en": "Glass slab"}
+          ],
+          "answer": {"hi": "अवतल लेंस", "en": "Concave lens"}
+        },
+        {
+          "q": {
+            "hi": "प्रकाश को अंदर की ओर मोड़ने (अभिसरित करने) वाला लेंस कौन सा है?",
+            "en": "Which lens converges (bends inward) the light falling on it?"
+          },
+          "options": [
+            {"hi": "अवतल लेंस", "en": "Concave lens"},
+            {"hi": "उत्तल लेंस", "en": "Convex lens"},
+            {"hi": "अपसारी लेंस", "en": "Diverging lens"},
+            {"hi": "समतल काँच", "en": "Plain glass"}
+          ],
+          "answer": {"hi": "उत्तल लेंस", "en": "Convex lens"}
+        },
+        {
+          "q": {
+            "hi": "प्रकाश को बाहर की ओर मोड़ने (अपसरित करने) वाले लेंस को क्या कहते हैं?",
+            "en": "A lens that diverges (bends outward) the light is called?"
+          },
+          "options": [
+            {"hi": "अभिसारी लेंस", "en": "Converging lens"},
+            {"hi": "अवतल लेंस", "en": "Concave lens"},
+            {"hi": "उत्तल लेंस", "en": "Convex lens"},
+            {"hi": "काँच का प्रिज्म", "en": "Glass prism"}
+          ],
+          "answer": {"hi": "अवतल लेंस", "en": "Concave lens"}
+        },
+        {
+          "q": {
+            "hi": "आवर्धक लेंस (Magnifying glass) वास्तव में किस प्रकार का लेंस है?",
+            "en": "What type of lens is a magnifying glass in reality?"
+          },
+          "options": [
+            {"hi": "अवतल लेंस", "en": "Concave lens"},
+            {"hi": "उत्तल लेंस", "en": "Convex lens"},
+            {"hi": "अपसारी लेंस", "en": "Diverging lens"},
+            {"hi": "द्वि-अवतल लेंस", "en": "Bi-concave lens"}
+          ],
+          "answer": {"hi": "उत्तल लेंस", "en": "Convex lens"}
+        },
+        {
+          "q": {
+            "hi": "आकाश में इंद्रधनुष कब दिखाई देता है?",
+            "en": "When is a rainbow usually seen in the sky?"
+          },
+          "options": [
+            {"hi": "दोपहर में", "en": "At noon"},
+            {"hi": "वर्षा के पश्चात् जब सूर्य आकाश में नीचे हो", "en": "After rain when sun is low in the sky"},
+            {"hi": "आधी रात को", "en": "At midnight"},
+            {"hi": "बिना वर्षा के", "en": "Without rain"}
+          ],
+          "answer": {"hi": "वर्षा के पश्चात् जब सूर्य आकाश में नीचे हो", "en": "After rain when sun is low in the sky"}
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "इंद्रधनुष में कितने रंग होते हैं?",
+            "en": "How many colors are there in a rainbow?"
+          },
+          "options": [
+            {"hi": "पाँच", "en": "Five"},
+            {"hi": "छह", "en": "Six"},
+            {"hi": "सात", "en": "Seven"},
+            {"hi": "आठ", "en": "Eight"}
+          ],
+          "answer": {"hi": "सात", "en": "Seven"}
+        },
+        {
+          "q": {
+            "hi": "श्वेत प्रकाश को सात रंगों में कौन बाँट सकता है?",
+            "en": "What can split white light into seven colors?"
+          },
+          "options": [
+            {"hi": "समतल दर्पण", "en": "Plane mirror"},
+            {"hi": "काँच का प्रिज्म", "en": "Glass prism"},
+            {"hi": "स्टील की प्लेट", "en": "Steel plate"},
+            {"hi": "लोहे की छड़", "en": "Iron rod"}
+          ],
+          "answer": {"hi": "काँच का प्रिज्म", "en": "Glass prism"}
+        },
+        {
+          "q": {
+            "hi": "सात रंगों वाली डिस्क को तेजी से घुमाने पर वह कैसी दिखाई देती है?",
+            "en": "How does a disc with seven colors appear when rotated fast?"
+          },
+          "options": [
+            {"hi": "काली", "en": "Black"},
+            {"hi": "सफेद (श्वेत)", "en": "White"},
+            {"hi": "लाल", "en": "Red"},
+            {"hi": "रंगीन", "en": "Colorful"}
+          ],
+          "answer": {"hi": "सफेद (श्वेत)", "en": "White"}
+        },
+        {
+          "q": {
+            "hi": "न्यूटन की डिस्क का उपयोग क्या दिखाने के लिए किया जाता है?",
+            "en": "Newton's disc is used to show that?"
+          },
+          "options": [
+            {"hi": "प्रकाश काला है", "en": "Light is black"},
+            {"hi": "श्वेत प्रकाश सात रंगों का मिश्रण है", "en": "White light is a mixture of seven colors"},
+            {"hi": "अंधेरा अच्छा है", "en": "Darkness is good"},
+            {"hi": "दर्पण प्रकाश मोड़ता है", "en": "Mirror bends light"}
+          ],
+          "answer": {"hi": "श्वेत प्रकाश सात रंगों का मिश्रण है", "en": "White light is a mixture of seven colors"}
+        },
+        {
+          "q": {
+            "hi": "वास्तविक प्रतिबिंब हमेशा कैसा होता है?",
+            "en": "A real image is always?"
+          },
+          "options": [
+            {"hi": "सीधा", "en": "Erect"},
+            {"hi": "उल्टा", "en": "Inverted"},
+            {"hi": "छोटा", "en": "Small"},
+            {"hi": "आभासी", "en": "Virtual"}
+          ],
+          "answer": {"hi": "उल्टा", "en": "Inverted"}
+        },
+        {
+          "q": {
+            "hi": "किस लेंस द्वारा बना प्रतिबिंब हमेशा आभासी, सीधा और छोटा होता है?",
+            "en": "Which lens always forms a virtual, erect and diminished image?"
+          },
+          "options": [
+            {"hi": "उत्तल लेंस", "en": "Convex lens"},
+            {"hi": "अवतल लेंस", "en": "Concave lens"},
+            {"hi": "बेलनाकार लेंस", "en": "Cylindrical lens"},
+            {"hi": "बड़ा लेंस", "en": "Large lens"}
+          ],
+          "answer": {"hi": "अवतल लेंस", "en": "Concave lens"}
+        },
+        {
+          "q": {
+            "hi": "परावर्तन के पश्चात प्रकाश कहाँ जाता है?",
+            "en": "Where does light go after reflection?"
+          },
+          "options": [
+            {"hi": "दूसरी दिशा में", "en": "In another direction"},
+            {"hi": "दर्पण के अंदर", "en": "Inside the mirror"},
+            {"hi": "गायब हो जाता है", "en": "Disappears"},
+            {"hi": "सीधा पार निकल जाता है", "en": "Passes straight through"}
+          ],
+          "answer": {"hi": "दूसरी दिशा में", "en": "In another direction"}
+        },
+        {
+          "q": {
+            "hi": "समतल दर्पण से प्रतिबिंब की दूरी और बिंब की दूरी में क्या संबंध है?",
+            "en": "What is the relation between image distance and object distance in a plane mirror?"
+          },
+          "options": [
+            {"hi": "दोनों समान होती हैं", "en": "Both are equal"},
+            {"hi": "प्रतिबिंब दूर होता है", "en": "Image is farther"},
+            {"hi": "बिंब दूर होता है", "en": "Object is farther"},
+            {"hi": "कोई संबंध नहीं है", "en": "No relation"}
+          ],
+          "answer": {"hi": "दोनों समान होती हैं", "en": "Both are equal"}
+        },
+        {
+          "q": {
+            "hi": "टॉर्च और सर्चलाइट के परावर्तक पृष्ठ की आकृति कैसी होती है?",
+            "en": "What is the shape of reflectors in torches and searchlights?"
+          },
+          "options": [
+            {"hi": "उत्तल", "en": "Convex"},
+            {"hi": "अवतल", "en": "Concave"},
+            {"hi": "समतल", "en": "Plane"},
+            {"hi": "त्रिकोणीय", "en": "Triangular"}
+          ],
+          "answer": {"hi": "अवतल", "en": "Concave"}
+        },
+        {
+          "q": {
+            "hi": "इंद्रधनुष के सात रंगों का सही क्रम याद रखने का शब्द क्या है?",
+            "en": "What word is used to remember the correct order of seven colors of rainbow?"
+          },
+          "options": [
+            {"hi": "VIBGYOR", "en": "VIBGYOR"},
+            {"hi": "RAINBOW", "en": "RAINBOW"},
+            {"hi": "LIGHT7", "en": "LIGHT7"},
+            {"hi": "SUNCOL", "en": "SUNCOL"}
+          ],
+          "answer": {"hi": "VIBGYOR", "en": "VIBGYOR"}
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "एक बिंब समतल दर्पण से 5 cm की दूरी पर है। बिंब और प्रतिबिंब के बीच की दूरी क्या होगी?",
+            "en": "An object is 5 cm from a plane mirror. What is the distance between object and image?"
+          },
+          "options": [
+            {"hi": "5 cm", "en": "5 cm"},
+            {"hi": "10 cm", "en": "10 cm"},
+            {"hi": "15 cm", "en": "15 cm"},
+            {"hi": "0 cm", "en": "0 cm"}
+          ],
+          "answer": {"hi": "10 cm", "en": "10 cm"}
+        },
+        {
+          "q": {
+            "hi": "एम्बुलेंस (AMBULANCE) शब्द वाहनों पर उल्टा क्यों लिखा जाता है?",
+            "en": "Why is the word AMBULANCE written laterally inverted on vehicles?"
+          },
+          "options": [
+            {"hi": "स्टाइल के लिए", "en": "For style"},
+            {"hi": "ताकि आगे वाले वाहन के दर्पण में सीधा दिखे", "en": "So it appears erect in the mirror of vehicle ahead"},
+            {"hi": "गलती से", "en": "By mistake"},
+            {"hi": "नियम के कारण", "en": "Due to law"}
+          ],
+          "answer": {"hi": "ताकि आगे वाले वाहन के दर्पण में सीधा दिखे", "en": "So it appears erect in the mirror of vehicle ahead"}
+        },
+        {
+          "q": {
+            "hi": "पर्दे पर बनने वाले प्रतिबिंब को क्या कहते हैं?",
+            "en": "The image formed on a screen is called?"
+          },
+          "options": [
+            {"hi": "आभासी", "en": "Virtual"},
+            {"hi": "वास्तविक", "en": "Real"},
+            {"hi": "पार्श्व", "en": "Lateral"},
+            {"hi": "सीधा", "en": "Erect"}
+          ],
+          "answer": {"hi": "वास्तविक", "en": "Real"}
+        },
+        {
+          "q": {
+            "hi": "अवतल दर्पण द्वारा बना प्रतिबिंब कैसा हो सकता है?",
+            "en": "An image formed by a concave mirror can be?"
+          },
+          "options": [
+            {"hi": "वास्तविक या आभासी", "en": "Real or virtual"},
+            {"hi": "छोटा या बड़ा", "en": "Small or large"},
+            {"hi": "उल्टा या सीधा", "en": "Inverted or erect"},
+            {"hi": "उपरोक्त सभी", "en": "All of the above"}
+          ],
+          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
+        },
+        {
+          "q": {
+            "hi": "स्कूटर के साइड मिरर में वस्तुएँ कैसी दिखाई देती हैं?",
+            "en": "How do objects appear in the side mirror of a scooter?"
+          },
+          "options": [
+            {"hi": "बड़ी", "en": "Large"},
+            {"hi": "छोटी", "en": "Small"},
+            {"hi": "समान आमाप", "en": "Same size"},
+            {"hi": "उल्टी", "en": "Inverted"}
+          ],
+          "answer": {"hi": "छोटी", "en": "Small"}
+        },
+        {
+          "q": {
+            "hi": "सूक्ष्म वस्तुओं को बड़ा करके देखने के लिए किसका उपयोग किया जाता है?",
+            "en": "What is used to see tiny objects enlarged?"
+          },
+          "options": [
+            {"hi": "अवतल लेंस", "en": "Concave lens"},
+            {"hi": "उत्तल लेंस", "en": "Convex lens"},
+            {"hi": "समतल काँच", "en": "Plain glass"},
+            {"hi": "चश्मा", "en": "Spectacles"}
+          ],
+          "answer": {"hi": "उत्तल लेंस", "en": "Convex lens"}
+        },
+        {
+          "q": {
+            "hi": "धूप के चश्मे में किस लेंस का उपयोग किया जाता है?",
+            "en": "Which lens is used in sunglasses?"
+          },
+          "options": [
+            {"hi": "उत्तल", "en": "Convex"},
+            {"hi": "अवतल", "en": "Concave"},
+            {"hi": "साधारण काँच", "en": "Ordinary glass"},
+            {"hi": "कोई नहीं", "en": "None"}
+          ],
+          "answer": {"hi": "साधारण काँच", "en": "Ordinary glass"}
+        },
+        {
+          "q": {
+            "hi": "प्रकाश के सात रंगों का मिश्रण क्या कहलाता है?",
+            "en": "The mixture of seven colors of light is called?"
+          },
+          "options": [
+            {"hi": "श्वेत प्रकाश", "en": "White light"},
+            {"hi": "काला प्रकाश", "en": "Black light"},
+            {"hi": "लाल प्रकाश", "en": "Red light"},
+            {"hi": "नीला प्रकाश", "en": "Blue light"}
+          ],
+          "answer": {"hi": "श्वेत प्रकाश", "en": "White light"}
+        },
+        {
+          "q": {
+            "hi": "साबुन के बुलबुले रंगीन क्यों दिखाई देते हैं?",
+            "en": "Why do soap bubbles appear colorful?"
+          },
+          "options": [
+            {"hi": "प्रकाश के परावर्तन के कारण", "en": "Due to reflection of light"},
+            {"hi": "प्रकाश के विक्षेपण के कारण", "en": "Due to dispersion of light"},
+            {"hi": "साबुन के रंग के कारण", "en": "Due to soap color"},
+            {"hi": "अंधेरे के कारण", "en": "Due to darkness"}
+          ],
+          "answer": {"hi": "प्रकाश के विक्षेपण के कारण", "en": "Due to dispersion of light"}
+        },
+        {
+          "q": {
+            "hi": "दर्पण के सामने खड़े होने पर आपका प्रतिबिंब कैसा होता है?",
+            "en": "When you stand in front of a mirror, your image is?"
+          },
+          "options": [
+            {"hi": "आभासी", "en": "Virtual"},
+            {"hi": "वास्तविक", "en": "Real"},
+            {"hi": "उल्टा", "en": "Inverted"},
+            {"hi": "पर्दे पर आने वाला", "en": "Coming on screen"}
+          ],
+          "answer": {"hi": "आभासी", "en": "Virtual"}
+        }
+      ],
+      "section5": [
+        {
+          "q": {
+            "hi": "कौन सा लेंस वास्तविक प्रतिबिंब बना सकता है?",
+            "en": "Which lens can form a real image?"
+          },
+          "options": [
+            {"hi": "अवतल लेंस", "en": "Concave lens"},
+            {"hi": "उत्तल लेंस", "en": "Convex lens"},
+            {"hi": "समतल लेंस", "en": "Plane lens"},
+            {"hi": "कोई नहीं", "en": "None"}
+          ],
+          "answer": {"hi": "उत्तल लेंस", "en": "Convex lens"}
+        },
+        {
+          "q": {
+            "hi": "कैमरे में किस लेंस का उपयोग किया जाता है?",
+            "en": "Which lens is used in a camera?"
+          },
+          "options": [
+            {"hi": "उत्तल लेंस", "en": "Convex lens"},
+            {"hi": "अवतल लेंस", "en": "Concave lens"},
+            {"hi": "समतल काँच", "en": "Plain glass"},
+            {"hi": "प्रिज्म", "en": "Prism"}
+          ],
+          "answer": {"hi": "उत्तल लेंस", "en": "Convex lens"}
+        },
+        {
+          "q": {
+            "hi": "पार्श्व परावर्तन (Lateral Inversion) क्या है?",
+            "en": "What is Lateral Inversion?"
+          },
+          "options": [
+            {"hi": "प्रतिबिंब का उल्टा होना", "en": "Inversion of image"},
+            {"hi": "बाएँ का दायाँ और दाएँ का बायाँ दिखना", "en": "Left appearing right and right appearing left"},
+            {"hi": "प्रतिबिंब का छोटा होना", "en": "Diminishing of image"},
+            {"hi": "रंगों का बदलना", "en": "Change of colors"}
+          ],
+          "answer": {"hi": "बाएँ का दायाँ और दाएँ का बायाँ दिखना", "en": "Left appearing right and right appearing left"}
+        },
+        {
+          "q": {
+            "hi": "सीधे पाइप से मोमबत्ती देखना आसान है, लेकिन मुड़े हुए पाइप से नहीं क्योंकि?",
+            "en": "It is easy to see a candle through a straight pipe but not a bent one because?"
+          },
+          "options": [
+            {"hi": "प्रकाश टेढ़ा चलता है", "en": "Light travels zig-zag"},
+            {"hi": "प्रकाश सरल रेखा में चलता है", "en": "Light travels in a straight line"},
+            {"hi": "पाइप काला है", "en": "Pipe is black"},
+            {"hi": "हवा नहीं है", "en": "There is no air"}
+          ],
+          "answer": {"hi": "प्रकाश सरल रेखा में चलता है", "en": "Light travels in a straight line"}
+        },
+        {
+          "q": {
+            "hi": "प्रिज्म से गुजरने पर प्रकाश कितने रंगों में विभक्त होता है?",
+            "en": "Into how many colors is light split when passing through a prism?"
+          },
+          "options": [
+            {"hi": "तीन", "en": "Three"},
+            {"hi": "पाँच", "en": "Five"},
+            {"hi": "सात", "en": "Seven"},
+            {"hi": "नौ", "en": "Nine"}
+          ],
+          "answer": {"hi": "सात", "en": "Seven"}
+        },
+        {
+          "q": {
+            "hi": "दर्पण द्वारा प्रकाश की दिशा परिवर्तन क्या कहलाता है?",
+            "en": "The change in direction of light by a mirror is called?"
+          },
+          "options": [
+            {"hi": "अपवर्तन", "en": "Refraction"},
+            {"hi": "परावर्तन", "en": "Reflection"},
+            {"hi": "प्रकीर्णन", "en": "Scattering"},
+            {"hi": "ध्रुवण", "en": "Polarization"}
+          ],
+          "answer": {"hi": "परावर्तन", "en": "Reflection"}
+        },
+        {
+          "q": {
+            "hi": "उत्तल दर्पण द्वारा बना प्रतिबिंब हमेशा कैसा होता है?",
+            "en": "The image formed by a convex mirror is always?"
+          },
+          "options": [
+            {"hi": "वास्तविक", "en": "Real"},
+            {"hi": "आभासी, सीधा और छोटा", "en": "Virtual, erect and small"},
+            {"hi": "आभासी, उल्टा और बड़ा", "en": "Virtual, inverted and large"},
+            {"hi": "पर्दे पर प्राप्त होने वाला", "en": "Obtainable on screen"}
+          ],
+          "answer": {"hi": "आभासी, सीधा और छोटा", "en": "Virtual, erect and small"}
+        },
+        {
+          "q": {
+            "hi": "सीडी (CD) के चमकदार पृष्ठ पर क्या दिखाई देते हैं?",
+            "en": "What do you see on the shiny surface of a CD?"
+          },
+          "options": [
+            {"hi": "केवल सफेद प्रकाश", "en": "Only white light"},
+            {"hi": "अनेकों रंग", "en": "Many colors"},
+            {"hi": "केवल लाल रंग", "en": "Only red color"},
+            {"hi": "कोई रंग नहीं", "en": "No color"}
+          ],
+          "answer": {"hi": "अनेकों रंग", "en": "Many colors"}
+        },
+        {
+          "q": {
+            "hi": "आवर्धक लेंस अक्षरों को कैसा दिखाता है?",
+            "en": "How does a magnifying lens show letters?"
+          },
+          "options": [
+            {"hi": "छोटा", "en": "Smaller"},
+            {"hi": "बड़ा", "en": "Larger"},
+            {"hi": "उल्टा", "en": "Inverted"},
+            {"hi": "समान", "en": "Same"}
+          ],
+          "answer": {"hi": "बड़ा", "en": "Larger"}
+        },
+        {
+          "q": {
+            "hi": "टॉर्च का बल्ब परावर्तक के किस स्थान पर होता है?",
+            "en": "At what position is the torch bulb located in the reflector?"
+          },
+          "options": [
+            {"hi": "किनारे पर", "en": "At the edge"},
+            {"hi": "बीच में (फोकस पर)", "en": "In the middle (at focus)"},
+            {"hi": "बाहर", "en": "Outside"},
+            {"hi": "कहीं भी", "en": "Anywhere"}
+          ],
+          "answer": {"hi": "बीच में (फोकस पर)", "en": "In the middle (at focus)"}
+        }
+      ]
+    },
+    "chapter12": {
+      "section1": [
+        {
+          "q": {
+            "hi": "वनों को 'हरे फेफड़े' (Green Lungs) क्यों कहा जाता है?",
+            "en": "Why are forests called 'Green Lungs'?"
+          },
+          "options": [
+            {"hi": "उनके रंग के कारण", "en": "Because of their color"},
+            {"hi": "ऑक्सीजन और CO2 के संतुलन के कारण", "en": "Due to oxygen and CO2 balance"},
+            {"hi": "वे ठंडे होते हैं", "en": "They are cool"},
+            {"hi": "वे बहुत ऊँचे होते हैं", "en": "They are very tall"}
+          ],
+          "answer": {"hi": "ऑक्सीजन और CO2 के संतुलन के कारण", "en": "Due to oxygen and CO2 balance"}
+        },
+        {
+          "q": {
+            "hi": "वन में ऊँचे वृक्षों की शाखाएँ कम ऊँचाई के वृक्षों के ऊपर छत की तरह दिखती हैं, इसे क्या कहते हैं?",
+            "en": "The branches of tall trees look like a roof over the other plants in the forest. What is this called?"
+          },
+          "options": [
+            {"hi": "वितान (कैनोपी)", "en": "Canopy"},
+            {"hi": "अधोतल", "en": "Understorey"},
+            {"hi": "शिखर", "en": "Crown"},
+            {"hi": "परत", "en": "Layer"}
+          ],
+          "answer": {"hi": "वितान (कैनोपी)", "en": "Canopy"}
+        },
+        {
+          "q": {
+            "hi": "वृक्ष का शाखायुक्त भाग तने से ऊपर क्या कहलाता है?",
+            "en": "The branchy part of a tree above the stem is known as?"
+          },
+          "options": [
+            {"hi": "जड़", "en": "Root"},
+            {"hi": "शिखर (क्राउन)", "en": "Crown"},
+            {"hi": "छाल", "en": "Bark"},
+            {"hi": "शाखा", "en": "Branch"}
+          ],
+          "answer": {"hi": "शिखर (क्राउन)", "en": "Crown"}
+        },
+        {
+          "q": {
+            "hi": "वनों में वितान के नीचे की विभिन्न परतें क्या कहलाती हैं?",
+            "en": "The different layers below the canopy in the forest are called?"
+          },
+          "options": [
+            {"hi": "शिखर", "en": "Crowns"},
+            {"hi": "अधोतल (अंडरस्टोरी)", "en": "Understorey"},
+            {"hi": "मिट्टी", "en": "Soil"},
+            {"hi": "जंगल", "en": "Jungle"}
+          ],
+          "answer": {"hi": "अधोतल (अंडरस्टोरी)", "en": "Understorey"}
+        },
+        {
+          "q": {
+            "hi": "वन की सबसे ऊपरी परत कौन बनाता है?",
+            "en": "Who forms the uppermost layer of the forest?"
+          },
+          "options": [
+            {"hi": "झाड़ियाँ", "en": "Shrubs"},
+            {"hi": "शाक", "en": "Herbs"},
+            {"hi": "विशाल और ऊँचे वृक्ष", "en": "Giant and tall trees"},
+            {"hi": "घास", "en": "Grass"}
+          ],
+          "answer": {"hi": "विशाल और ऊँचे वृक्ष", "en": "Giant and tall trees"}
+        },
+        {
+          "q": {
+            "hi": "पादपों और जंतुओं के मृत ऊतकों को खाने वाले सूक्ष्म जीव क्या कहलाते हैं?",
+            "en": "Micro-organisms which feed upon the dead plants and animals are called?"
+          },
+          "options": [
+            {"hi": "स्वपोषी", "en": "Autotrophs"},
+            {"hi": "अपघटक (Decomposers)", "en": "Decomposers"},
+            {"hi": "उपभोक्ता", "en": "Consumers"},
+            {"hi": "परजीवी", "en": "Parasites"}
+          ],
+          "answer": {"hi": "अपघटक (Decomposers)", "en": "Decomposers"}
+        },
+        {
+          "q": {
+            "hi": "अपघटक मृत जीव-जंतुओं को किस गहरे रंग के पदार्थ में बदल देते हैं?",
+            "en": "Decomposers convert dead organisms into a dark colored substance called?"
+          },
+          "options": [
+            {"hi": "रेत", "en": "Sand"},
+            {"hi": "ह्यूमस", "en": "Humus"},
+            {"hi": "चट्टान", "en": "Rock"},
+            {"hi": "गोबर", "en": "Dung"}
+          ],
+          "answer": {"hi": "ह्यूमस", "en": "Humus"}
+        },
+        {
+          "q": {
+            "hi": "वन में कौन सा जीव 'स्वपोषी' (Autotrophs) है?",
+            "en": "Which organism in the forest is an 'autotroph'?"
+          },
+          "options": [
+            {"hi": "बाघ", "en": "Tiger"},
+            {"hi": "पादप (पेड़-पौधे)", "en": "Plants"},
+            {"hi": "मशरूम", "en": "Mushroom"},
+            {"hi": "गीदड़", "en": "Jackal"}
+          ],
+          "answer": {"hi": "पादप (पेड़-पौधे)", "en": "Plants"}
+        },
+        {
+          "q": {
+            "hi": "खाद्य श्रृंखला का सही क्रम क्या है?",
+            "en": "What is the correct sequence of a food chain?"
+          },
+          "options": [
+            {"hi": "घास -> कीट -> मेंढक -> सर्प", "en": "Grass -> Insects -> Frog -> Snake"},
+            {"hi": "सर्प -> मेंढक -> कीट -> घास", "en": "Snake -> Frog -> Insects -> Grass"},
+            {"hi": "कीट -> घास -> सर्प -> मेंढक", "en": "Insects -> Grass -> Snake -> Frog"},
+            {"hi": "घास -> सर्प -> कीट -> मेंढक", "en": "Grass -> Snake -> Insects -> Frog"}
+          ],
+          "answer": {"hi": "घास -> कीट -> मेंढक -> सर्प", "en": "Grass -> Insects -> Frog -> Snake"}
+        },
+        {
+          "q": {
+            "hi": "वन मृदा को किससे बचाते हैं?",
+            "en": "Forests protect the soil from?"
+          },
+          "options": [
+            {"hi": "धूप से", "en": "Sunlight"},
+            {"hi": "अपरदन (Erosion)", "en": "Erosion"},
+            {"hi": "हवा से", "en": "Wind"},
+            {"hi": "जंतुओं से", "en": "Animals"}
+          ],
+          "answer": {"hi": "अपरदन (Erosion)", "en": "Erosion"}
+        }
+      ],
+      "section2": [
+        {
+          "q": {
+            "hi": "वन किसका शुद्धिकरण करते हैं?",
+            "en": "Forests help in the purification of?"
+          },
+          "options": [
+            {"hi": "केवल जल", "en": "Only water"},
+            {"hi": "केवल वायु", "en": "Only air"},
+            {"hi": "वायु और जल दोनों", "en": "Both air and water"},
+            {"hi": "मिट्टी", "en": "Soil"}
+          ],
+          "answer": {"hi": "वायु और जल दोनों", "en": "Both air and water"}
+        },
+        {
+          "q": {
+            "hi": "वन जल चक्र को बनाए रखने में कैसे सहायता करते हैं?",
+            "en": "How do forests help in maintaining the water cycle?"
+          },
+          "options": [
+            {"hi": "वाष्पोत्सर्जन द्वारा", "en": "Through transpiration"},
+            {"hi": "जड़ के अवशोषण द्वारा", "en": "Through root absorption"},
+            {"hi": "छाया प्रदान करके", "en": "By providing shade"},
+            {"hi": "उपरोक्त सभी", "en": "All of the above"}
+          ],
+          "answer": {"hi": "वाष्पोत्सर्जन द्वारा", "en": "Through transpiration"}
+        },
+        {
+          "q": {
+            "hi": "वनों में रहने वाले लोगों को क्या कहते हैं?",
+            "en": "People living in forests are generally known as?"
+          },
+          "options": [
+            {"hi": "शहरवासी", "en": "City dwellers"},
+            {"hi": "वनवासी (Tribals)", "en": "Forest dwellers"},
+            {"hi": "वैज्ञानिक", "en": "Scientists"},
+            {"hi": "पर्यटक", "en": "Tourists"}
+          ],
+          "answer": {"hi": "वनवासी (Tribals)", "en": "Forest dwellers"}
+        },
+        {
+          "q": {
+            "hi": "मृदा की उपजाऊ शक्ति कौन बढ़ाता है?",
+            "en": "Who increases the fertility of the soil?"
+          },
+          "options": [
+            {"hi": "जंतुओं की लीद", "en": "Animal droppings"},
+            {"hi": "मृत पादप", "en": "Dead plants"},
+            {"hi": "ह्यूमस", "en": "Humus"},
+            {"hi": "उपरोक्त सभी", "en": "All of the above"}
+          ],
+          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
+        },
+        {
+          "q": {
+            "hi": "वन में कौन सा पादप उत्पाद नहीं मिलता है?",
+            "en": "Which plant product is NOT obtained from forests?"
+          },
+          "options": [
+            {"hi": "गोंद", "en": "Gum"},
+            {"hi": "लाह", "en": "Lac"},
+            {"hi": "मिट्टी का तेल", "en": "Kerosene"},
+            {"hi": "शहद", "en": "Honey"}
+          ],
+          "answer": {"hi": "मिट्टी का तेल", "en": "Kerosene"}
+        },
+        {
+          "q": {
+            "hi": "वनों में पादपों के बीज के प्रकीर्णन में कौन सहायता करता है?",
+            "en": "Who helps in the dispersal of seeds in the forest?"
+          },
+          "options": [
+            {"hi": "हवा", "en": "Wind"},
+            {"hi": "जंतु", "en": "Animals"},
+            {"hi": "जल", "en": "Water"},
+            {"hi": "उपरोक्त सभी", "en": "All of the above"}
+          ],
+          "answer": {"hi": "जंतु", "en": "Animals"}
+        },
+        {
+          "q": {
+            "hi": "प्रकाश संश्लेषण के दौरान पादप कौन सी गैस मुक्त करते हैं?",
+            "en": "Which gas is released by plants during photosynthesis?"
+          },
+          "options": [
+            {"hi": "CO2", "en": "CO2"},
+            {"hi": "ऑक्सीजन", "en": "Oxygen"},
+            {"hi": "नाइट्रोजन", "en": "Nitrogen"},
+            {"hi": "मीथेन", "en": "Methane"}
+          ],
+          "answer": {"hi": "ऑक्सीजन", "en": "Oxygen"}
+        },
+        {
+          "q": {
+            "hi": "यदि वन नष्ट हो जाएँ, तो वायु में किसकी मात्रा बढ़ जाएगी?",
+            "en": "If forests disappear, the amount of which gas will increase in air?"
+          },
+          "options": [
+            {"hi": "ऑक्सीजन", "en": "Oxygen"},
+            {"hi": "कार्बन डाइऑक्साइड", "en": "Carbon dioxide"},
+            {"hi": "हाइड्रोजन", "en": "Hydrogen"},
+            {"hi": "हीलियम", "en": "Helium"}
+          ],
+          "answer": {"hi": "कार्बन डाइऑक्साइड", "en": "Carbon dioxide"}
+        },
+        {
+          "q": {
+            "hi": "CO2 की मात्रा बढ़ने से पृथ्वी के तापमान पर क्या प्रभाव पड़ेगा?",
+            "en": "What will be the effect of increased CO2 on Earth's temperature?"
+          },
+          "options": [
+            {"hi": "कम होगा", "en": "Will decrease"},
+            {"hi": "बढ़ेगा (ग्लोबल वार्मिंग)", "en": "Will increase (Global warming)"},
+            {"hi": "स्थिर रहेगा", "en": "Will stay same"},
+            {"hi": "शून्य हो जाएगा", "en": "Will be zero"}
+          ],
+          "answer": {"hi": "बढ़ेगा (ग्लोबल वार्मिंग)", "en": "Will increase (Global warming)"}
+        },
+        {
+          "q": {
+            "hi": "वन वर्षा जल के लिए किस रूप में कार्य करते हैं?",
+            "en": "Forests act as what for the rain water?"
+          },
+          "options": [
+            {"hi": "प्राकृतिक अवशोषक", "en": "Natural absorber"},
+            {"hi": "जल अवरोधक", "en": "Water blocker"},
+            {"hi": "जल वितरक", "en": "Water distributor"},
+            {"hi": "A और C दोनों", "en": "Both A and C"}
+          ],
+          "answer": {"hi": "A और C दोनों", "en": "Both A and C"}
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "वनों की अनुपस्थिति में क्या आने की संभावना बढ़ जाती है?",
+            "en": "In the absence of forests, what is more likely to occur?"
+          },
+          "options": [
+            {"hi": "सूखा", "en": "Drought"},
+            {"hi": "बाढ़", "en": "Floods"},
+            {"hi": "भूकंप", "en": "Earthquake"},
+            {"hi": "सुनामी", "en": "Tsunami"}
+          ],
+          "answer": {"hi": "बाढ़", "en": "Floods"}
+        },
+        {
+          "q": {
+            "hi": "पेड़ों की जड़ों का मृदा के लिए क्या कार्य है?",
+            "en": "What is the function of tree roots for the soil?"
+          },
+          "options": [
+            {"hi": "मृदा को ढीला करना", "en": "Loosening soil"},
+            {"hi": "मृदा को बांधे रखना", "en": "Binding the soil"},
+            {"hi": "मृदा को सुखाना", "en": "Drying soil"},
+            {"hi": "कोई कार्य नहीं", "en": "No function"}
+          ],
+          "answer": {"hi": "मृदा को बांधे रखना", "en": "Binding the soil"}
+        },
+        {
+          "q": {
+            "hi": "जंतुओं के लिए वन क्या प्रदान करते हैं?",
+            "en": "What do forests provide for animals?"
+          },
+          "options": [
+            {"hi": "आश्रय (घर)", "en": "Shelter"},
+            {"hi": "भोजन", "en": "Food"},
+            {"hi": "सुरक्षा", "en": "Protection"},
+            {"hi": "उपरोक्त सभी", "en": "All of the above"}
+          ],
+          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
+        },
+        {
+          "q": {
+            "hi": "मृदा की सबसे ऊपरी परत में क्या पाया जाता है जो इसे उपजाऊ बनाता है?",
+            "en": "What is found in the top layer of soil that makes it fertile?"
+          },
+          "options": [
+            {"hi": "कंकड़", "en": "Pebbles"},
+            {"hi": "ह्यूमस (Humus)", "en": "Humus"},
+            {"hi": "लोहा", "en": "Iron"},
+            {"hi": "प्लास्टिक", "en": "Plastic"}
+          ],
+          "answer": {"hi": "ह्यूमस (Humus)", "en": "Humus"}
+        },
+        {
+          "q": {
+            "hi": "वन अधिकारी जंतुओं की उपस्थिति का पता कैसे लगाते हैं?",
+            "en": "How do forest officers identify the presence of animals?"
+          },
+          "options": [
+            {"hi": "उनकी लीद और पदचिह्नों से", "en": "By their droppings and footprints"},
+            {"hi": "केवल आवाज़ से", "en": "Only by sound"},
+            {"hi": "कैमरे से", "en": "By camera"},
+            {"hi": "वैज्ञानिक मशीनों से", "en": "By scientific machines"}
+          ],
+          "answer": {"hi": "उनकी लीद और पदचिह्नों से", "en": "By their droppings and footprints"}
+        },
+        {
+          "q": {
+            "hi": "वनों को क्या कहा जाता है?",
+            "en": "What are forests called?"
+          },
+          "options": [
+            {"hi": "हरे फेफड़े", "en": "Green lungs"},
+            {"hi": "जल शोधन तंत्र", "en": "Water purifying system"},
+            {"hi": "A और B दोनों", "en": "Both A and B"},
+            {"hi": "नीले फेफड़े", "en": "Blue lungs"}
+          ],
+          "answer": {"hi": "A और B दोनों", "en": "Both A and B"}
+        },
+        {
+          "q": {
+            "hi": "वन में होने वाले परिवर्तनों को कौन संचालित करता है?",
+            "en": "Who drives the changes occurring in the forest?"
+          },
+          "options": [
+            {"hi": "मनुष्य", "en": "Humans"},
+            {"hi": "जंतु और पादप स्वयं", "en": "Animals and plants themselves"},
+            {"hi": "मशीनें", "en": "Machines"},
+            {"hi": "कोई नहीं", "en": "None"}
+          ],
+          "answer": {"hi": "जंतु और पादप स्वयं", "en": "Animals and plants themselves"}
+        },
+        {
+          "q": {
+            "hi": "वन के फर्श पर सड़ी-गली पत्तियाँ कैसी होती हैं?",
+            "en": "The decaying leaves on the forest floor are?"
+          },
+          "options": [
+            {"hi": "सूखी और ठंडी", "en": "Dry and cold"},
+            {"hi": "नम और गर्म", "en": "Moist and warm"},
+            {"hi": "सख्त और कड़ी", "en": "Hard and tough"},
+            {"hi": "चमकीली", "en": "Shiny"}
+          ],
+          "answer": {"hi": "नम और गर्म", "en": "Moist and warm"}
+        },
+        {
+          "q": {
+            "hi": "वन हमारी किस प्रकार सहायता करते हैं?",
+            "en": "In what way do forests help us?"
+          },
+          "options": [
+            {"hi": "शोर कम करके", "en": "By reducing noise"},
+            {"hi": "वर्षा कराके", "en": "By bringing rain"},
+            {"hi": "हवा शुद्ध करके", "en": "By cleaning air"},
+            {"hi": "उपरोक्त सभी", "en": "All of the above"}
+          ],
+          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
+        },
+        {
+          "q": {
+            "hi": "सागौन (Teak) किस प्रकार का वृक्ष है?",
+            "en": "What kind of tree is Teak?"
+          },
+          "options": [
+            {"hi": "शाक", "en": "Herb"},
+            {"hi": "झाड़ी", "en": "Shrub"},
+            {"hi": "मजबूत लकड़ी वाला वृक्ष", "en": "Strong timber tree"},
+            {"hi": "लता", "en": "Creeper"}
+          ],
+          "answer": {"hi": "मजबूत लकड़ी वाला वृक्ष", "en": "Strong timber tree"}
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "वनों में खाद्य श्रृंखलाएँ कैसी होती हैं?",
+            "en": "Food chains in forests are?"
+          },
+          "options": [
+            {"hi": "एक दूसरे से स्वतंत्र", "en": "Independent of each other"},
+            {"hi": "परस्पर संबद्ध (Interlinked)", "en": "Interlinked"},
+            {"hi": "केवल एक होती है", "en": "Only one exists"},
+            {"hi": "नष्ट हो जाती हैं", "en": "Get destroyed"}
+          ],
+          "answer": {"hi": "परस्पर संबद्ध (Interlinked)", "en": "Interlinked"}
+        },
+        {
+          "q": {
+            "hi": "वन में जीवों के बीच ऊर्जा का प्रवाह कैसे होता है?",
+            "en": "How does energy flow between organisms in the forest?"
+          },
+          "options": [
+            {"hi": "भोजन के माध्यम से", "en": "Through food"},
+            {"hi": "पानी के माध्यम से", "en": "Through water"},
+            {"hi": "हवा के माध्यम से", "en": "Through air"},
+            {"hi": "मिट्टी के माध्यम से", "en": "Through soil"}
+          ],
+          "answer": {"hi": "भोजन के माध्यम से", "en": "Through food"}
+        },
+        {
+          "q": {
+            "hi": "अपघटक पोषक तत्वों को कहाँ वापस पहुँचाते हैं?",
+            "en": "Where do decomposers return the nutrients to?"
+          },
+          "options": [
+            {"hi": "हवा में", "en": "Into the air"},
+            {"hi": "मृदा (Soil) में", "en": "Into the soil"},
+            {"hi": "समुद्र में", "en": "Into the sea"},
+            {"hi": "पत्थरों में", "en": "Into rocks"}
+          ],
+          "answer": {"hi": "मृदा (Soil) में", "en": "Into the soil"}
+        },
+        {
+          "q": {
+            "hi": "वनों का कटाव (Deforestation) क्या है?",
+            "en": "What is deforestation?"
+          },
+          "options": [
+            {"hi": "पेड़ लगाना", "en": "Planting trees"},
+            {"hi": "पेड़ों की कटाई करना", "en": "Cutting down trees"},
+            {"hi": "वनों की रक्षा", "en": "Protecting forests"},
+            {"hi": "जंतुओं को पालना", "en": "Rearing animals"}
+          ],
+          "answer": {"hi": "पेड़ों की कटाई करना", "en": "Cutting down trees"}
+        },
+        {
+          "q": {
+            "hi": "वन क्षेत्र कम होने से क्या संकट पैदा होता है?",
+            "en": "What crisis is caused by reduction in forest area?"
+          },
+          "options": [
+            {"hi": "पारिस्थितिक असंतुलन", "en": "Ecological imbalance"},
+            {"hi": "जीवों के आवास का नष्ट होना", "en": "Loss of habitat for animals"},
+            {"hi": "मृदा अपरदन", "en": "Soil erosion"},
+            {"hi": "उपरोक्त सभी", "en": "All of the above"}
+          ],
+          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
+        },
+        {
+          "q": {
+            "hi": "वन किस प्रकार सौर ऊर्जा को संचित करते हैं?",
+            "en": "How do forests store solar energy?"
+          },
+          "options": [
+            {"hi": "श्वसन द्वारा", "en": "Through respiration"},
+            {"hi": "प्रकाश संश्लेषण द्वारा", "en": "Through photosynthesis"},
+            {"hi": "वाष्पन द्वारा", "en": "Through evaporation"},
+            {"hi": "अवशोषण द्वारा", "en": "Through absorption"}
+          ],
+          "answer": {"hi": "प्रकाश संश्लेषण द्वारा", "en": "Through photosynthesis"}
+        },
+        {
+          "q": {
+            "hi": "वन वर्षा जल को रोकने में कैसे मदद करते हैं?",
+            "en": "How do forests help in holding back rain water?"
+          },
+          "options": [
+            {"hi": "ऊपरी वितान द्वारा", "en": "By upper canopy"},
+            {"hi": "मृदा की ह्यूमस द्वारा", "en": "By soil humus"},
+            {"hi": "पेड़ों के तनों द्वारा", "en": "By tree trunks"},
+            {"hi": "A और B दोनों", "en": "Both A and B"}
+          ],
+          "answer": {"hi": "A और B दोनों", "en": "Both A and B"}
+        },
+        {
+          "q": {
+            "hi": "वन में कौन सा जीव 'अपमार्जक' (Scavenger) है?",
+            "en": "Which organism in the forest is a 'scavenger'?"
+          },
+          "options": [
+            {"hi": "गिद्ध", "en": "Vulture"},
+            {"hi": "खरगोश", "en": "Rabbit"},
+            {"hi": "गाय", "en": "Cow"},
+            {"hi": "बकरी", "en": "Goat"}
+          ],
+          "answer": {"hi": "गिद्ध", "en": "Vulture"}
+        },
+        {
+          "q": {
+            "hi": "भारत में कितने प्रतिशत क्षेत्र पर वन हैं?",
+            "en": "What percentage of India's land is covered by forests?"
+          },
+          "options": [
+            {"hi": "10%", "en": "10%"},
+            {"hi": "21%", "en": "21%"},
+            {"hi": "50%", "en": "50%"},
+            {"hi": "80%", "en": "80"}
+          ],
+          "answer": {"hi": "21%", "en": "21%"}
+        },
+        {
+          "q": {
+            "hi": "वन क्या प्रदान करते हैं?",
+            "en": "What do forests provide?"
+          },
+          "options": [
+            {"hi": "जलाऊ लकड़ी", "en": "Firewood"},
+            {"hi": "इमारती लकड़ी", "en": "Timber"},
+            {"hi": "औषधियाँ", "en": "Medicines"},
+            {"hi": "उपरोक्त सभी", "en": "All of the above"}
+          ],
+          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
+        }
+      ],
+      "section5": [
+        {
+          "q": {
+            "hi": "मशरूम और अन्य सूक्ष्म जीव क्या खाते हैं?",
+            "en": "What do mushrooms and other micro-organisms eat?"
+          },
+          "options": [
+            {"hi": "हरे पादप", "en": "Green plants"},
+            {"hi": "जीवित जंतु", "en": "Living animals"},
+            {"hi": "मृत पादप और जंतु ऊतक", "en": "Dead plant and animal tissues"},
+            {"hi": "मिट्टी", "en": "Soil"}
+          ],
+          "answer": {"hi": "मृत पादप और जंतु ऊतक", "en": "Dead plant and animal tissues"}
+        },
+        {
+          "q": {
+            "hi": "वन मृदा को कैसा रखते हैं?",
+            "en": "Forests keep the soil?"
+          },
+          "options": [
+            {"hi": "सूखा और रेतीला", "en": "Dry and sandy"},
+            {"hi": "नम और उपजाऊ", "en": "Moist and fertile"},
+            {"hi": "कठोर और पथरीला", "en": "Hard and stony"},
+            {"hi": "बेजान", "en": "Lifeless"}
+          ],
+          "answer": {"hi": "नम और उपजाऊ", "en": "Moist and fertile"}
+        },
+        {
+          "q": {
+            "hi": "वन में रहने वाले जंतु पादपों के लिए क्या करते हैं?",
+            "en": "What do animals living in forests do for plants?"
+          },
+          "options": [
+            {"hi": "बीज प्रकीर्णन", "en": "Seed dispersal"},
+            {"hi": "परागकण में सहायता", "en": "Help in pollination"},
+            {"hi": "खाद प्रदान करना", "en": "Providing manure"},
+            {"hi": "उपरोक्त सभी", "en": "All of the above"}
+          ],
+          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
+        },
+        {
+          "q": {
+            "hi": "वन किस प्रकार का पारिस्थितिक तंत्र (Ecosystem) है?",
+            "en": "What kind of ecosystem is a forest?"
+          },
+          "options": [
+            {"hi": "स्थैतिक", "en": "Static"},
+            {"hi": "गतिक सजीव इकाई", "en": "Dynamic living entity"},
+            {"hi": "निर्जीव", "en": "Non-living"},
+            {"hi": "कृत्रिम", "en": "Artificial"}
+          ],
+          "answer": {"hi": "गतिक सजीव इकाई", "en": "Dynamic living entity"}
+        },
+        {
+          "q": {
+            "hi": "वन में अधोतल (Understorey) किनसे मिलकर बनता है?",
+            "en": "Understorey in the forest is formed by?"
+          },
+          "options": [
+            {"hi": "ऊँचे पेड़ों से", "en": "Tall trees"},
+            {"hi": "झाड़ियों और शाकों से", "en": "Shrubs and herbs"},
+            {"hi": "केवल घासों से", "en": "Only grasses"},
+            {"hi": "बादलों से", "en": "Clouds"}
+          ],
+          "answer": {"hi": "झाड़ियों और शाकों से", "en": "Shrubs and herbs"}
+        },
+        {
+          "q": {
+            "hi": "वन शोर प्रदूषण को कैसे कम करते हैं?",
+            "en": "How do forests reduce noise pollution?"
+          },
+          "options": [
+            {"hi": "ध्वनि को अवशोषित करके", "en": "By absorbing sound"},
+            {"hi": "शांत रहकर", "en": "By being quiet"},
+            {"hi": "हवा रोककर", "en": "By stopping wind"},
+            {"hi": "छाया प्रदान करके", "en": "By providing shade"}
+          ],
+          "answer": {"hi": "ध्वनि को अवशोषित करके", "en": "By absorbing sound"}
+        },
+        {
+          "q": {
+            "hi": "वनों को नष्ट करने का परिणाम क्या होगा?",
+            "en": "What will be the result of destroying forests?"
+          },
+          "options": [
+            {"hi": "पर्यावरण का तापमान बढ़ना", "en": "Increase in environmental temperature"},
+            {"hi": "जंतुओं का बेघर होना", "en": "Animals becoming homeless"},
+            {"hi": "मिट्टी का बह जाना", "en": "Washing away of soil"},
+            {"hi": "उपरोक्त सभी", "en": "All of the above"}
+          ],
+          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
+        },
+        {
+          "q": {
+            "hi": "वन में गिरे हुए फल और पत्तियाँ अंततः किसमें बदल जाती हैं?",
+            "en": "The fallen fruits and leaves in the forest eventually turn into?"
+          },
+          "options": [
+            {"hi": "पत्थरों में", "en": "Rocks"},
+            {"hi": "कोयले में", "en": "Coal"},
+            {"hi": "ह्यूमस में", "en": "Humus"},
+            {"hi": "प्लास्टिक में", "en": "Plastic"}
+          ],
+          "answer": {"hi": "ह्यूमस में", "en": "Humus"}
+        },
+        {
+          "q": {
+            "hi": "वनों की रक्षा करना किसकी जिम्मेदारी है?",
+            "en": "Whose responsibility is it to protect forests?"
+          },
+          "options": [
+            {"hi": "केवल सरकार की", "en": "Only government"},
+            {"hi": "केवल वन विभाग की", "en": "Only forest department"},
+            {"hi": "प्रत्येक नागरिक की", "en": "Every citizen"},
+            {"hi": "किसी की नहीं", "en": "No one's"}
+          ],
+          "answer": {"hi": "प्रत्येक नागरिक की", "en": "Every citizen"}
+        },
+        {
+          "q": {
+            "hi": "वन क्या कहलाते हैं?",
+            "en": "What are forests known as?"
+          },
+          "options": [
+            {"hi": "हमारी जीवन रेखा", "en": "Our lifeline"},
+            {"hi": "आर्थिक संपदा", "en": "Economic wealth"},
+            {"hi": "पर्यावरण के रक्षक", "en": "Protectors of environment"},
+            {"hi": "उपरोक्त सभी", "en": "All of the above"}
+          ],
+          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
+        }
+      ]
     }
   }
 }
+
+
 
 
 
