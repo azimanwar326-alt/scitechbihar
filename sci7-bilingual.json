@@ -3971,6 +3971,1332 @@
           "answer": {"hi": "जैविक प्रक्रम", "en": "Biological process"}
         }
       ]
+    },
+    "chapter07": {
+      "section1": [
+        {
+          "q": {
+            "hi": "हृदय और रक्त वाहिनियाँ संयुक्त रूप से शरीर का क्या बनाती हैं?",
+            "en": "The heart and the blood vessels together form which system of the body?"
+          },
+          "options": [
+            {"hi": "श्वसन तंत्र", "en": "Respiratory system"},
+            {"hi": "पाचन तंत्र", "en": "Digestive system"},
+            {"hi": "परिसंचरण तंत्र", "en": "Circulatory system"},
+            {"hi": "उत्सर्जन तंत्र", "en": "Excretory system"}
+          ],
+          "answer": {"hi": "परिसंचरण तंत्र", "en": "Circulatory system"}
+        },
+        {
+          "q": {
+            "hi": "रक्त का तरल भाग क्या कहलाता है?",
+            "en": "What is the fluid part of the blood called?"
+          },
+          "options": [
+            {"hi": "हीमोग्लोबिन", "en": "Haemoglobin"},
+            {"hi": "प्लाज्मा", "en": "Plasma"},
+            {"hi": "पट्टिकाणु", "en": "Platelets"},
+            {"hi": "धमनी", "en": "Artery"}
+          ],
+          "answer": {"hi": "प्लाज्मा", "en": "Plasma"}
+        },
+        {
+          "q": {
+            "hi": "रक्त में उपस्थित लाल वर्णक को क्या कहते हैं?",
+            "en": "What is the red pigment present in the blood called?"
+          },
+          "options": [
+            {"hi": "क्लोरोफिल", "en": "Chlorophyll"},
+            {"hi": "हीमोग्लोबिन", "en": "Haemoglobin"},
+            {"hi": "मेलेनिन", "en": "Melanin"},
+            {"hi": "प्लाज्मा", "en": "Plasma"}
+          ],
+          "answer": {"hi": "हीमोग्लोबिन", "en": "Haemoglobin"}
+        },
+        {
+          "q": {
+            "hi": "कौन सी रक्त कोशिकाएँ रोगाणुओं को नष्ट करती हैं?",
+            "en": "Which blood cells fight against germs that enter our body?"
+          },
+          "options": [
+            {"hi": "लाल रक्त कोशिकाएँ", "en": "Red blood cells"},
+            {"hi": "श्वेत रक्त कोशिकाएँ", "en": "White blood cells"},
+            {"hi": "पट्टिकाणु", "en": "Platelets"},
+            {"hi": "केशिकाएँ", "en": "Capillaries"}
+          ],
+          "answer": {"hi": "श्वेत रक्त कोशिकाएँ", "en": "White blood cells"}
+        },
+        {
+          "q": {
+            "hi": "रक्त का थक्का जमना किस कोशिका की उपस्थिति के कारण होता है?",
+            "en": "The formation of a blood clot is due to the presence of which cells?"
+          },
+          "options": [
+            {"hi": "प्लाज्मा", "en": "Plasma"},
+            {"hi": "WBC", "en": "WBC"},
+            {"hi": "पट्टिकाणु (Platelets)", "en": "Platelets"},
+            {"hi": "RBC", "en": "RBC"}
+          ],
+          "answer": {"hi": "पट्टिकाणु (Platelets)", "en": "Platelets"}
+        },
+        {
+          "q": {
+            "hi": "हृदय से ऑक्सीजन समृद्ध रक्त को शरीर के भागों में कौन ले जाती है?",
+            "en": "Which vessels carry oxygen-rich blood from the heart to all parts of the body?"
+          },
+          "options": [
+            {"hi": "शिराएँ", "en": "Veins"},
+            {"hi": "धमनियाँ", "en": "Arteries"},
+            {"hi": "केशिकाएँ", "en": "Capillaries"},
+            {"hi": "मूत्रवाहिनियाँ", "en": "Ureters"}
+          ],
+          "answer": {"hi": "धमनियाँ", "en": "Arteries"}
+        },
+        {
+          "q": {
+            "hi": "धमनियों की भित्तियाँ कैसी होती हैं?",
+            "en": "What is the nature of the walls of arteries?"
+          },
+          "options": [
+            {"hi": "पतली", "en": "Thin"},
+            {"hi": "मोटी और प्रत्यास्थ", "en": "Thick and elastic"},
+            {"hi": "पारदर्शी", "en": "Transparent"},
+            {"hi": "अपरिवर्तनीय", "en": "Irreversible"}
+          ],
+          "answer": {"hi": "मोटी और प्रत्यास्थ", "en": "Thick and elastic"}
+        },
+        {
+          "q": {
+            "hi": "प्रति मिनट स्पंदों की संख्या क्या कहलाती है?",
+            "en": "The number of beats per minute is called?"
+          },
+          "options": [
+            {"hi": "श्वसन दर", "en": "Breathing rate"},
+            {"hi": "स्पंदन दर (Pulse rate)", "en": "Pulse rate"},
+            {"hi": "हृदय दर", "en": "Heart rate"},
+            {"hi": "वृक्क दर", "en": "Kidney rate"}
+          ],
+          "answer": {"hi": "स्पंदन दर (Pulse rate)", "en": "Pulse rate"}
+        },
+        {
+          "q": {
+            "hi": "एक स्वस्थ वयस्क व्यक्ति की सामान्य स्पंदन दर कितनी होती है?",
+            "en": "What is the resting pulse rate of a healthy adult person?"
+          },
+          "options": [
+            {"hi": "40-50", "en": "40-50"},
+            {"hi": "60-70", "en": "60-70"},
+            {"hi": "72-80", "en": "72-80"},
+            {"hi": "90-100", "en": "90-100"}
+          ],
+          "answer": {"hi": "72-80", "en": "72-80"}
+        },
+        {
+          "q": {
+            "hi": "कार्बन डाइऑक्साइड समृद्ध रक्त को वापस हृदय में कौन ले जाती हैं?",
+            "en": "Which vessels carry carbon dioxide-rich blood from all parts of the body back to the heart?"
+          },
+          "options": [
+            {"hi": "धमनियाँ", "en": "Arteries"},
+            {"hi": "शिराएँ", "en": "Veins"},
+            {"hi": "केशिकाएँ", "en": "Capillaries"},
+            {"hi": "वाल्व", "en": "Valves"}
+          ],
+          "answer": {"hi": "शिराएँ", "en": "Veins"}
+        }
+      ],
+      "section2": [
+        {
+          "q": {
+            "hi": "किस रक्त वाहिनी में वाल्व (Valves) होते हैं?",
+            "en": "Which blood vessels have valves to prevent backflow?"
+          },
+          "options": [
+            {"hi": "धमनी", "en": "Artery"},
+            {"hi": "शिरा (Vein)", "en": "Vein"},
+            {"hi": "केशिका", "en": "Capillary"},
+            {"hi": "महाधमनी", "en": "Aorta"}
+          ],
+          "answer": {"hi": "शिरा (Vein)", "en": "Vein"}
+        },
+        {
+          "q": {
+            "hi": "अत्यधिक पतली रक्त वाहिकाओं को क्या कहते हैं?",
+            "en": "Extremely thin blood vessels are called?"
+          },
+          "options": [
+            {"hi": "शिराएँ", "en": "Veins"},
+            {"hi": "धमनियाँ", "en": "Arteries"},
+            {"hi": "केशिकाएँ (Capillaries)", "en": "Capillaries"},
+            {"hi": "पट्टिकाणु", "en": "Platelets"}
+          ],
+          "answer": {"hi": "केशिकाएँ (Capillaries)", "en": "Capillaries"}
+        },
+        {
+          "q": {
+            "hi": "हृदय वक्ष-गुहा में किस ओर झुका रहता है?",
+            "en": "In the chest cavity, the heart is slightly tilted towards which side?"
+          },
+          "options": [
+            {"hi": "दाईं ओर", "en": "Right"},
+            {"hi": "बाईं ओर", "en": "Left"},
+            {"hi": "ऊपर की ओर", "en": "Upwards"},
+            {"hi": "नीचे की ओर", "en": "Downwards"}
+          ],
+          "answer": {"hi": "बाईं ओर", "en": "Left"}
+        },
+        {
+          "q": {
+            "hi": "हृदय के ऊपरी दो कक्ष क्या कहलाते हैं?",
+            "en": "The two upper chambers of the heart are called?"
+          },
+          "options": [
+            {"hi": "निलय", "en": "Ventricles"},
+            {"hi": "अलिन्द (Atria)", "en": "Atria"},
+            {"hi": "धमनी", "en": "Artery"},
+            {"hi": "शिरा", "en": "Vein"}
+          ],
+          "answer": {"hi": "अलिन्द (Atria)", "en": "Atria"}
+        },
+        {
+          "q": {
+            "hi": "हृदय के निचले दो कक्षों को क्या कहते हैं?",
+            "en": "What are the two lower chambers of the heart called?"
+          },
+          "options": [
+            {"hi": "अलिन्द", "en": "Atria"},
+            {"hi": "निलय (Ventricles)", "en": "Ventricles"},
+            {"hi": "केशिका", "en": "Capillary"},
+            {"hi": "महाशिरा", "en": "Vena cava"}
+          ],
+          "answer": {"hi": "निलय (Ventricles)", "en": "Ventricles"}
+        },
+        {
+          "q": {
+            "hi": "हृदय की लयबद्ध संकुचन और विश्रांति क्या कहलाती है?",
+            "en": "The rhythmic contraction and relaxation of the heart is called?"
+          },
+          "options": [
+            {"hi": "श्वसन", "en": "Respiration"},
+            {"hi": "हृदय स्पंद (Heartbeat)", "en": "Heartbeat"},
+            {"hi": "उत्सर्जन", "en": "Excretion"},
+            {"hi": "पाचन", "en": "Digestion"}
+          ],
+          "answer": {"hi": "हृदय स्पंद (Heartbeat)", "en": "Heartbeat"}
+        },
+        {
+          "q": {
+            "hi": "हृदय स्पंद मापने के लिए किस यंत्र का उपयोग किया जाता है?",
+            "en": "Which instrument is used to measure heartbeat?"
+          },
+          "options": [
+            {"hi": "थर्मामीटर", "en": "Thermometer"},
+            {"hi": "स्टेथोस्कोप", "en": "Stethoscope"},
+            {"hi": "बैरोमीटर", "en": "Barometer"},
+            {"hi": "माइक्रोस्कोप", "en": "Microscope"}
+          ],
+          "answer": {"hi": "स्टेथोस्कोप", "en": "Stethoscope"}
+        },
+        {
+          "q": {
+            "hi": "रक्त परिसंचरण की खोज किसने की थी?",
+            "en": "Who discovered the circulation of blood?"
+          },
+          "options": [
+            {"hi": "न्यूटन", "en": "Newton"},
+            {"hi": "विलियम हार्वे", "en": "William Harvey"},
+            {"hi": "एडिसन", "en": "Edison"},
+            {"hi": "गैलीलियो", "en": "Galileo"}
+          ],
+          "answer": {"hi": "विलियम हार्वे", "en": "William Harvey"}
+        },
+        {
+          "q": {
+            "hi": "किन जंतुओं में परिसंचरण तंत्र नहीं पाया जाता है?",
+            "en": "In which organisms is a circulatory system absent?"
+          },
+          "options": [
+            {"hi": "हाथी", "en": "Elephant"},
+            {"hi": "मछली", "en": "Fish"},
+            {"hi": "स्पंज और हाइड्रा", "en": "Sponges and Hydra"},
+            {"hi": "पक्षी", "en": "Birds"}
+          ],
+          "answer": {"hi": "स्पंज और हाइड्रा", "en": "Sponges and Hydra"}
+        },
+        {
+          "q": {
+            "hi": "कोशिकाओं में निर्मित अपशिष्ट पदार्थों को बाहर निकालने का प्रक्रम क्या है?",
+            "en": "The process of removal of waste products produced in cells is called?"
+          },
+          "options": [
+            {"hi": "पाचन", "en": "Digestion"},
+            {"hi": "श्वसन", "en": "Respiration"},
+            {"hi": "उत्सर्जन (Excretion)", "en": "Excretion"},
+            {"hi": "परिवहन", "en": "Transportation"}
+          ],
+          "answer": {"hi": "उत्सर्जन (Excretion)", "en": "Excretion"}
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "मानव उत्सर्जन तंत्र में मुख्य अंग कौन सा है?",
+            "en": "Which is the main organ in the human excretory system?"
+          },
+          "options": [
+            {"hi": "हृदय", "en": "Heart"},
+            {"hi": "वृक्क (गुर्दे)", "en": "Kidneys"},
+            {"hi": "फेफड़े", "en": "Lungs"},
+            {"hi": "यकृत", "en": "Liver"}
+          ],
+          "answer": {"hi": "वृक्क (गुर्दे)", "en": "Kidneys"}
+        },
+        {
+          "q": {
+            "hi": "वृक्क से मूत्र को मूत्राशय तक कौन ले जाती है?",
+            "en": "What carries urine from the kidneys to the urinary bladder?"
+          },
+          "options": [
+            {"hi": "मूत्रमार्ग", "en": "Urethra"},
+            {"hi": "मूत्रवाहिनी (Ureters)", "en": "Ureters"},
+            {"hi": "धमनी", "en": "Artery"},
+            {"hi": "शिरा", "en": "Vein"}
+          ],
+          "answer": {"hi": "मूत्रवाहिनी (Ureters)", "en": "Ureters"}
+        },
+        {
+          "q": {
+            "hi": "एक वयस्क व्यक्ति 24 घंटे में औसतन कितना मूत्र करता है?",
+            "en": "On average, how much urine does an adult pass in 24 hours?"
+          },
+          "options": [
+            {"hi": "0.5 लीटर", "en": "0.5 L"},
+            {"hi": "1 से 1.8 लीटर", "en": "1 to 1.8 L"},
+            {"hi": "3 लीटर", "en": "3 L"},
+            {"hi": "5 लीटर", "en": "5 L"}
+          ],
+          "answer": {"hi": "1 से 1.8 लीटर", "en": "1 to 1.8 L"}
+        },
+        {
+          "q": {
+            "hi": "मूत्र में यूरिया का प्रतिशत कितना होता है?",
+            "en": "What is the percentage of urea in urine?"
+          },
+          "options": [
+            {"hi": "95%", "en": "95%"},
+            {"hi": "2.5%", "en": "2.5%"},
+            {"hi": "50%", "en": "50%"},
+            {"hi": "0.1%", "en": "0.1%"}
+          ],
+          "answer": {"hi": "2.5%", "en": "2.5%"}
+        },
+        {
+          "q": {
+            "hi": "पसीने (स्वेद) में मुख्य रूप से क्या होता है?",
+            "en": "What does sweat mainly consist of?"
+          },
+          "options": [
+            {"hi": "केवल तेल", "en": "Only oil"},
+            {"hi": "जल और लवण", "en": "Water and salts"},
+            {"hi": "केवल यूरिया", "en": "Only urea"},
+            {"hi": "अम्ल", "en": "Acid"}
+          ],
+          "answer": {"hi": "जल और लवण", "en": "Water and salts"}
+        },
+        {
+          "q": {
+            "hi": "कृत्रिम वृक्क द्वारा रक्त को छानने की विधि क्या कहलाती है?",
+            "en": "The process of filtering blood using an artificial kidney is called?"
+          },
+          "options": [
+            {"hi": "पाचन", "en": "Digestion"},
+            {"hi": "अपोहन (Dialysis)", "en": "Dialysis"},
+            {"hi": "किण्वन", "en": "Fermentation"},
+            {"hi": "क्रिस्टलीकरण", "en": "Crystallization"}
+          ],
+          "answer": {"hi": "अपोहन (Dialysis)", "en": "Dialysis"}
+        },
+        {
+          "q": {
+            "hi": "मछली अपशिष्ट पदार्थ को किस रूप में उत्सर्जित करती है?",
+            "en": "Fish excrete waste products in which form?"
+          },
+          "options": [
+            {"hi": "यूरिया", "en": "Urea"},
+            {"hi": "अमोनिया", "en": "Ammonia"},
+            {"hi": "यूरिक अम्ल", "en": "Uric acid"},
+            {"hi": "ऑक्सीजन", "en": "Oxygen"}
+          ],
+          "answer": {"hi": "अमोनिया", "en": "Ammonia"}
+        },
+        {
+          "q": {
+            "hi": "पक्षी और छिपकली अर्ध घन रूप में क्या उत्सर्जित करते हैं?",
+            "en": "Birds and lizards excrete a semi-solid white compound called?"
+          },
+          "options": [
+            {"hi": "अमोनिया", "en": "Ammonia"},
+            {"hi": "यूरिक अम्ल (Uric acid)", "en": "Uric acid"},
+            {"hi": "यूरिया", "en": "Urea"},
+            {"hi": "चीनी", "en": "Sugar"}
+          ],
+          "answer": {"hi": "यूरिक अम्ल (Uric acid)", "en": "Uric acid"}
+        },
+        {
+          "q": {
+            "hi": "पादपों में जल और खनिजों का अवशोषण किसके द्वारा होता है?",
+            "en": "Water and minerals are absorbed in plants by which part?"
+          },
+          "options": [
+            {"hi": "पत्तियों", "en": "Leaves"},
+            {"hi": "तने", "en": "Stem"},
+            {"hi": "मूलरोम (Root hairs)", "en": "Root hairs"},
+            {"hi": "फूलों", "en": "Flowers"}
+          ],
+          "answer": {"hi": "मूलरोम (Root hairs)", "en": "Root hairs"}
+        },
+        {
+          "q": {
+            "hi": "पादपों में जल के परिवहन के लिए कौन सा संवहन ऊतक होता है?",
+            "en": "Which vascular tissue transports water in plants?"
+          },
+          "options": [
+            {"hi": "फ्लोएम", "en": "Phloem"},
+            {"hi": "जाइलम (दारू)", "en": "Xylem"},
+            {"hi": "पेशी ऊतक", "en": "Muscle tissue"},
+            {"hi": "रंध्र", "en": "Stomata"}
+          ],
+          "answer": {"hi": "जाइलम (दारू)", "en": "Xylem"}
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "पत्तियों द्वारा निर्मित भोजन का परिवहन कौन सा ऊतक करता है?",
+            "en": "Which tissue transports food synthesized by leaves to all parts of the plant?"
+          },
+          "options": [
+            {"hi": "जाइलम", "en": "Xylem"},
+            {"hi": "फ्लोएम (पोषवाह)", "en": "Phloem"},
+            {"hi": "अधिचर्म", "en": "Epidermis"},
+            {"hi": "मूलरोम", "en": "Root hair"}
+          ],
+          "answer": {"hi": "फ्लोएम (पोषवाह)", "en": "Phloem"}
+        },
+        {
+          "q": {
+            "hi": "पत्तियों से जल का वाष्प के रूप में निकलना क्या कहलाता है?",
+            "en": "The release of water as vapor from leaves is called?"
+          },
+          "options": [
+            {"hi": "अवशोषण", "en": "Absorption"},
+            {"hi": "श्वसन", "en": "Respiration"},
+            {"hi": "वाष्पोत्सर्जन (Transpiration)", "en": "Transpiration"},
+            {"hi": "संयोजन", "en": "Combination"}
+          ],
+          "answer": {"hi": "वाष्पोत्सर्जन (Transpiration)", "en": "Transpiration"}
+        },
+        {
+          "q": {
+            "hi": "वृक्षों में जल ऊपर खींचने के लिए कौन सा बल कार्य करता है?",
+            "en": "Which force helps pull water to great heights in tall trees?"
+          },
+          "options": [
+            {"hi": "गुरुत्वाकर्षण बल", "en": "Gravitational force"},
+            {"hi": "चूषण अभिकर्षण (Suction pull)", "en": "Suction pull"},
+            {"hi": "चुंबकीय बल", "en": "Magnetic force"},
+            {"hi": "पेशीय बल", "en": "Muscular force"}
+          ],
+          "answer": {"hi": "चूषण अभिकर्षण (Suction pull)", "en": "Suction pull"}
+        },
+        {
+          "q": {
+            "hi": "रक्त वाहिनियों में प्रवाहित होने वाला तरल क्या है?",
+            "en": "What is the fluid that flows in blood vessels?"
+          },
+          "options": [
+            {"hi": "जल", "en": "Water"},
+            {"hi": "रक्त (रुधिर)", "en": "Blood"},
+            {"hi": "मूत्र", "en": "Urine"},
+            {"hi": "पसीना", "en": "Sweat"}
+          ],
+          "answer": {"hi": "रक्त (रुधिर)", "en": "Blood"}
+        },
+        {
+          "q": {
+            "hi": "हीमोग्लोबिन किस कोशिका में पाया जाता है?",
+            "en": "Haemoglobin is found in which cells?"
+          },
+          "options": [
+            {"hi": "WBC", "en": "WBC"},
+            {"hi": "लाल रक्त कोशिकाएँ (RBC)", "en": "Red Blood Cells"},
+            {"hi": "प्लेटलेट्स", "en": "Platelets"},
+            {"hi": "तंत्रिका कोशिका", "en": "Nerve cell"}
+          ],
+          "answer": {"hi": "लाल रक्त कोशिकाएँ (RBC)", "en": "Red Blood Cells"}
+        },
+        {
+          "q": {
+            "hi": "कौन सी धमनी कार्बन डाइऑक्साइड समृद्ध रक्त फेफड़ों में ले जाती है?",
+            "en": "Which artery carries carbon dioxide-rich blood to the lungs?"
+          },
+          "options": [
+            {"hi": "महाधमनी", "en": "Aorta"},
+            {"hi": "फुफ्फुस धमनी (Pulmonary artery)", "en": "Pulmonary artery"},
+            {"hi": "वृक्क धमनी", "en": "Renal artery"},
+            {"hi": "शिरा", "en": "Vein"}
+          ],
+          "answer": {"hi": "फुफ्फुस धमनी (Pulmonary artery)", "en": "Pulmonary artery"}
+        },
+        {
+          "q": {
+            "hi": "कौन सी शिरा ऑक्सीजन समृद्ध रक्त हृदय में लाती है?",
+            "en": "Which vein carries oxygen-rich blood to the heart?"
+          },
+          "options": [
+            {"hi": "महाशिरा", "en": "Vena cava"},
+            {"hi": "फुफ्फुस शिरा (Pulmonary vein)", "en": "Pulmonary vein"},
+            {"hi": "केशिका", "en": "Capillary"},
+            {"hi": "धमनी", "en": "Artery"}
+          ],
+          "answer": {"hi": "फुफ्फुस शिरा (Pulmonary vein)", "en": "Pulmonary vein"}
+        },
+        {
+          "q": {
+            "hi": "हृदय का आमाप लगभग किसके बराबर होता है?",
+            "en": "The size of the heart is roughly equivalent to?"
+          },
+          "options": [
+            {"hi": "अंगूठे", "en": "Thumb"},
+            {"hi": "मुट्ठी (Fist)", "en": "Fist"},
+            {"hi": "सिर", "en": "Head"},
+            {"hi": "पैर", "en": "Foot"}
+          ],
+          "answer": {"hi": "मुट्ठी (Fist)", "en": "Fist"}
+        },
+        {
+          "q": {
+            "hi": "मूत्र मूत्राशय से किस नली द्वारा बाहर निकलता है?",
+            "en": "Through which tube does urine pass out of the bladder?"
+          },
+          "options": [
+            {"hi": "मूत्रवाहिनी", "en": "Ureter"},
+            {"hi": "मूत्रमार्ग (Urethra)", "en": "Urethra"},
+            {"hi": "वृक्क", "en": "Kidney"},
+            {"hi": "अलिन्द", "en": "Atrium"}
+          ],
+          "answer": {"hi": "मूत्रमार्ग (Urethra)", "en": "Urethra"}
+        },
+        {
+          "q": {
+            "hi": "कोशिकाओं का वह समूह जो विशेष कार्य करता है, क्या कहलाता है?",
+            "en": "A group of cells that performs a specialized function is called?"
+          },
+          "options": [
+            {"hi": "अंग", "en": "Organ"},
+            {"hi": "ऊतक (Tissue)", "en": "Tissue"},
+            {"hi": "तंत्र", "en": "System"},
+            {"hi": "प्लाज्मा", "en": "Plasma"}
+          ],
+          "answer": {"hi": "ऊतक (Tissue)", "en": "Tissue"}
+        }
+      ],
+      "section5": [
+        {
+          "q": {
+            "hi": "गर्मियों में घड़े का पानी ठंडा क्यों होता है?",
+            "en": "Why does water kept in an earthen pot become cool in summer?"
+          },
+          "options": [
+            {"hi": "अवशोषण के कारण", "en": "Due to absorption"},
+            {"hi": "वाष्पन (Evaporation) के कारण", "en": "Due to evaporation"},
+            {"hi": "पसीने के कारण", "en": "Due to sweat"},
+            {"hi": "विकिरण के कारण", "en": "Due to radiation"}
+          ],
+          "answer": {"hi": "वाष्पन (Evaporation) के कारण", "en": "Due to evaporation"}
+        },
+        {
+          "q": {
+            "hi": "हृदय के कक्षों के बीच की दीवार का क्या कार्य है?",
+            "en": "What is the function of the dividing wall between the heart chambers?"
+          },
+          "options": [
+            {"hi": "धड़कन रोकना", "en": "Stopping beats"},
+            {"hi": "रक्त को मिलने से रोकना", "en": "To prevent mixing of blood"},
+            {"hi": "ऊर्जा बनाना", "en": "Creating energy"},
+            {"hi": "हवा भरना", "en": "Filling air"}
+          ],
+          "answer": {"hi": "रक्त को मिलने से रोकना", "en": "To prevent mixing of blood"}
+        },
+        {
+          "q": {
+            "hi": "अमोनिया किसमें सीधे घुल जाती है?",
+            "en": "Ammonia directly dissolves in which medium?"
+          },
+          "options": [
+            {"hi": "हवा", "en": "Air"},
+            {"hi": "जल (Water)", "en": "Water"},
+            {"hi": "मिट्टी", "en": "Soil"},
+            {"hi": "रक्त", "en": "Blood"}
+          ],
+          "answer": {"hi": "जल (Water)", "en": "Water"}
+        },
+        {
+          "q": {
+            "hi": "जाइलम किसका परिवहन करता है?",
+            "en": "What does xylem transport?"
+          },
+          "options": [
+            {"hi": "भोजन", "en": "Food"},
+            {"hi": "जल और खनिज (Water and minerals)", "en": "Water and minerals"},
+            {"hi": "ऑक्सीजन", "en": "Oxygen"},
+            {"hi": "कार्बन डाइऑक्साइड", "en": "Carbon dioxide"}
+          ],
+          "answer": {"hi": "जल और खनिज (Water and minerals)", "en": "Water and minerals"}
+        },
+        {
+          "q": {
+            "hi": "फ्लोएम किसका परिवहन करता है?",
+            "en": "What does phloem transport?"
+          },
+          "options": [
+            {"hi": "जल", "en": "Water"},
+            {"hi": "भोजन (Food)", "en": "Food"},
+            {"hi": "खनिज", "en": "Minerals"},
+            {"hi": "मिट्टी", "en": "Soil"}
+          ],
+          "answer": {"hi": "भोजन (Food)", "en": "Food"}
+        },
+        {
+          "q": {
+            "hi": "वाष्पोत्सर्जन पादप को क्या रखने में सहायता करता है?",
+            "en": "Transpiration helps in keeping the plant?"
+          },
+          "options": [
+            {"hi": "गर्म", "en": "Hot"},
+            {"hi": "ठंडा (Cool)", "en": "Cool"},
+            {"hi": "सूखा", "en": "Dry"},
+            {"hi": "पीला", "en": "Yellow"}
+          ],
+          "answer": {"hi": "ठंडा (Cool)", "en": "Cool"}
+        },
+        {
+          "q": {
+            "hi": "रक्त का लाल रंग किसके कारण होता है?",
+            "en": "The red color of blood is due to?"
+          },
+          "options": [
+            {"hi": "मैग्नीशियम", "en": "Magnesium"},
+            {"hi": "हीमोग्लोबिन (Haemoglobin)", "en": "Haemoglobin"},
+            {"hi": "आयोडीन", "en": "Iodine"},
+            {"hi": "कैल्शियम", "en": "Calcium"}
+          ],
+          "answer": {"hi": "हीमोग्लोबिन (Haemoglobin)", "en": "Haemoglobin"}
+        },
+        {
+          "q": {
+            "hi": "वृक्क अक्रिय होने पर रक्त छनन की कृत्रिम विधि क्या है?",
+            "en": "What is the artificial method of blood filtration when kidneys fail?"
+          },
+          "options": [
+            {"hi": "ऑक्सीकरण", "en": "Oxidation"},
+            {"hi": "अपोहन (Dialysis)", "en": "Dialysis"},
+            {"hi": "पाचन", "en": "Digestion"},
+            {"hi": "श्वसन", "en": "Respiration"}
+          ],
+          "answer": {"hi": "अपोहन (Dialysis)", "en": "Dialysis"}
+        },
+        {
+          "q": {
+            "hi": "स्टेथोस्कोप के संवेदनशील भाग को क्या कहते हैं?",
+            "en": "What is the sensitive part of a stethoscope chest piece called?"
+          },
+          "options": [
+            {"hi": "ट्यूब", "en": "Tube"},
+            {"hi": "डायाफ्राम (Diaphragm)", "en": "Diaphragm"},
+            {"hi": "इयर पीस", "en": "Ear piece"},
+            {"hi": "पट्टा", "en": "Belt"}
+          ],
+          "answer": {"hi": "डायाफ्राम (Diaphragm)", "en": "Diaphragm"}
+        },
+        {
+          "q": {
+            "hi": "शरीर के अंगों को रक्त की आवश्यकता क्यों है?",
+            "en": "Why do body organs need blood?"
+          },
+          "options": [
+            {"hi": "केवल सुंदर दिखने के लिए", "en": "Only for beauty"},
+            {"hi": "पोषक तत्वों और ऑक्सीजन के लिए", "en": "For nutrients and oxygen"},
+            {"hi": "केवल जल के लिए", "en": "Only for water"},
+            {"hi": "भार बढ़ाने के लिए", "en": "To increase weight"}
+          ],
+          "answer": {"hi": "पोषक तत्वों और ऑक्सीजन के लिए", "en": "For nutrients and oxygen"}
+        }
+      ]
+    },
+    "chapter08": {
+      "section1": [
+        {
+          "q": {
+            "hi": "माता-पिता से संतति का जन्म क्या कहलाता है?",
+            "en": "The production of new individuals from their parents is known as?"
+          },
+          "options": [
+            {"hi": "पाचन", "en": "Digestion"},
+            {"hi": "जनन", "en": "Reproduction"},
+            {"hi": "श्वसन", "en": "Respiration"},
+            {"hi": "परिवहन", "en": "Transportation"}
+          ],
+          "answer": {"hi": "जनन", "en": "Reproduction"}
+        },
+        {
+          "q": {
+            "hi": "पादप के मूल, तना और पत्तियाँ क्या कहलाते हैं?",
+            "en": "Roots, stems and leaves of a plant are called?"
+          },
+          "options": [
+            {"hi": "जनन अंग", "en": "Reproductive organs"},
+            {"hi": "कायिक अंग", "en": "Vegetative parts"},
+            {"hi": "अतिरिक्त अंग", "en": "Extra parts"},
+            {"hi": "बाहरी अंग", "en": "External parts"}
+          ],
+          "answer": {"hi": "कायिक अंग", "en": "Vegetative parts"}
+        },
+        {
+          "q": {
+            "hi": "पादप में जनन का कार्य कौन करता है?",
+            "en": "Which part of the plant performs the function of reproduction?"
+          },
+          "options": [
+            {"hi": "जड़", "en": "Root"},
+            {"hi": "तना", "en": "Stem"},
+            {"hi": "पुष्प (फूल)", "en": "Flower"},
+            {"hi": "पत्ती", "en": "Leaf"}
+          ],
+          "answer": {"hi": "पुष्प (फूल)", "en": "Flower"}
+        },
+        {
+          "q": {
+            "hi": "वह जनन जिसमें पादप बिना बीजों के ही नए पादप को उत्पन्न कर सकते हैं?",
+            "en": "The type of reproduction in which plants can give rise to new plants without seeds?"
+          },
+          "options": [
+            {"hi": "लैंगिक जनन", "en": "Sexual reproduction"},
+            {"hi": "अलैंगिक जनन", "en": "Asexual reproduction"},
+            {"hi": "परागण", "en": "Pollination"},
+            {"hi": "निषेचन", "en": "Fertilisation"}
+          ],
+          "answer": {"hi": "अलैंगिक जनन", "en": "Asexual reproduction"}
+        },
+        {
+          "q": {
+            "hi": "कायिक अंगों द्वारा नया पादप प्राप्त करना क्या कहलाता है?",
+            "en": "Producing new plants from vegetative parts is called?"
+          },
+          "options": [
+            {"hi": "मुकुलन", "en": "Budding"},
+            {"hi": "खंडन", "en": "Fragmentation"},
+            {"hi": "कायिक प्रवर्धन", "en": "Vegetative propagation"},
+            {"hi": "बीजाणु निर्माण", "en": "Spore formation"}
+          ],
+          "answer": {"hi": "कायिक प्रवर्धन", "en": "Vegetative propagation"}
+        },
+        {
+          "q": {
+            "hi": "गुलाब के पौधे को उगाने के लिए किसका उपयोग किया जाता है?",
+            "en": "What is used to grow a rose plant?"
+          },
+          "options": [
+            {"hi": "बीज", "en": "Seed"},
+            {"hi": "कलम (कर्तन)", "en": "Cutting"},
+            {"hi": "फल", "en": "Fruit"},
+            {"hi": "जड़", "en": "Root"}
+          ],
+          "answer": {"hi": "कलम (कर्तन)", "en": "Cutting"}
+        },
+        {
+          "q": {
+            "hi": "आलू के ऊपर स्थित 'आँख' वास्तव में क्या है?",
+            "en": "What are the 'eyes' of a potato in reality?"
+          },
+          "options": [
+            {"hi": "बीज", "en": "Seeds"},
+            {"hi": "कलिकाएँ (मुकुल)", "en": "Buds"},
+            {"hi": "फूल", "en": "Flowers"},
+            {"hi": "पत्तियाँ", "en": "Leaves"}
+          ],
+          "answer": {"hi": "कलिकाएँ (मुकुल)", "en": "Buds"}
+        },
+        {
+          "q": {
+            "hi": "ब्रायोफिलम (पत्थरचट्टा) अपने किस भाग द्वारा जनन करता है?",
+            "en": "Bryophyllum reproduces through which of its parts?"
+          },
+          "options": [
+            {"hi": "तना", "en": "Stem"},
+            {"hi": "जड़", "en": "Root"},
+            {"hi": "पत्ती", "en": "Leaf"},
+            {"hi": "पुष्प", "en": "Flower"}
+          ],
+          "answer": {"hi": "पत्ती", "en": "Leaf"}
+        },
+        {
+          "q": {
+            "hi": "कायिक प्रवर्धन द्वारा उत्पन्न पादप किसके समान होते हैं?",
+            "en": "Plants produced by vegetative propagation are identical to?"
+          },
+          "options": [
+            {"hi": "बीजों के", "en": "Seeds"},
+            {"hi": "जनक पादप के", "en": "Parent plant"},
+            {"hi": "फूलों के", "en": "Flowers"},
+            {"hi": "किसी के नहीं", "en": "None"}
+          ],
+          "answer": {"hi": "जनक पादप के", "en": "Parent plant"}
+        },
+        {
+          "q": {
+            "hi": "शकरकंद और डहेलिया में जनन किसके द्वारा होता है?",
+            "en": "Reproduction in sweet potato and dahlia occurs through?"
+          },
+          "options": [
+            {"hi": "तना", "en": "Stem"},
+            {"hi": "पत्तियाँ", "en": "Leaves"},
+            {"hi": "जड़ें (मूल)", "en": "Roots"},
+            {"hi": "बीजाणु", "en": "Spores"}
+          ],
+          "answer": {"hi": "जड़ें (मूल)", "en": "Roots"}
+        }
+      ],
+      "section2": [
+        {
+          "q": {
+            "hi": "यीस्ट जैसे एककोशिक जीव किस विधि द्वारा जनन करते हैं?",
+            "en": "Single-celled organisms like yeast reproduce by which method?"
+          },
+          "options": [
+            {"hi": "खंडन", "en": "Fragmentation"},
+            {"hi": "मुकुलन (Budding)", "en": "Budding"},
+            {"hi": "परागण", "en": "Pollination"},
+            {"hi": "बीज निर्माण", "en": "Seed formation"}
+          ],
+          "answer": {"hi": "मुकुलन (Budding)", "en": "Budding"}
+        },
+        {
+          "q": {
+            "hi": "यीस्ट कोशिका से बाहर निकलने वाला छोटा बल्ब जैसा प्रवर्ध क्या कहलाता है?",
+            "en": "The small bulb-like projection coming out from the yeast cell is called?"
+          },
+          "options": [
+            {"hi": "बीजाणु", "en": "Spore"},
+            {"hi": "मुकुल (कली)", "en": "Bud"},
+            {"hi": "खंड", "en": "Fragment"},
+            {"hi": "युग्मक", "en": "Gamete"}
+          ],
+          "answer": {"hi": "मुकुल (कली)", "en": "Bud"}
+        },
+        {
+          "q": {
+            "hi": "स्पाइरोगाइरा (शैवाल) में जनन की विधि क्या है?",
+            "en": "What is the method of reproduction in Spirogyra (algae)?"
+          },
+          "options": [
+            {"hi": "मुकुलन", "en": "Budding"},
+            {"hi": "बीजाणु निर्माण", "en": "Spore formation"},
+            {"hi": "खंडन (Fragmentation)", "en": "Fragmentation"},
+            {"hi": "लैंगिक जनन", "en": "Sexual reproduction"}
+          ],
+          "answer": {"hi": "खंडन (Fragmentation)", "en": "Fragmentation"}
+        },
+        {
+          "q": {
+            "hi": "डबलरोटी पर उगने वाली फफूँद (कवक) कैसे जनन करती है?",
+            "en": "How does the fungus on bread reproduce?"
+          },
+          "options": [
+            {"hi": "बीजाणु निर्माण द्वारा", "en": "By spore formation"},
+            {"hi": "कलम लगाकर", "en": "By cutting"},
+            {"hi": "मुकुलन द्वारा", "en": "By budding"},
+            {"hi": "बीजों द्वारा", "en": "By seeds"}
+          ],
+          "answer": {"hi": "बीजाणु निर्माण द्वारा", "en": "By spore formation"}
+        },
+        {
+          "q": {
+            "hi": "बीजाणु प्रतिकूल परिस्थितियों को झेलने के लिए किससे ढके रहते हैं?",
+            "en": "Spores are covered by what to withstand unfavorable conditions?"
+          },
+          "options": [
+            {"hi": "पानी की परत", "en": "Layer of water"},
+            {"hi": "कठोर सुरक्षात्मक आवरण", "en": "Hard protective coat"},
+            {"hi": "मोम", "en": "Wax"},
+            {"hi": "मिट्टी", "en": "Soil"}
+          ],
+          "answer": {"hi": "कठोर सुरक्षात्मक आवरण", "en": "Hard protective coat"}
+        },
+        {
+          "q": {
+            "hi": "मॉस और फर्न में जनन किस विधि से होता है?",
+            "en": "Moss and ferns reproduce by which method?"
+          },
+          "options": [
+            {"hi": "खंडन", "en": "Fragmentation"},
+            {"hi": "बीजाणु निर्माण (Spore formation)", "en": "Spore formation"},
+            {"hi": "मुकुलन", "en": "Budding"},
+            {"hi": "कायिक प्रवर्धन", "en": "Vegetative propagation"}
+          ],
+          "answer": {"hi": "बीजाणु निर्माण (Spore formation)", "en": "Spore formation"}
+        },
+        {
+          "q": {
+            "hi": "पुष्प का 'नर जनन अंग' कौन सा है?",
+            "en": "Which is the male reproductive part of a flower?"
+          },
+          "options": [
+            {"hi": "स्त्रीकेसर", "en": "Pistil"},
+            {"hi": "पुंकेसर (Stamen)", "en": "Stamen"},
+            {"hi": "पंखुड़ी", "en": "Petal"},
+            {"hi": "बाह्यदल", "en": "Sepal"}
+          ],
+          "answer": {"hi": "पुंकेसर (Stamen)", "en": "Stamen"}
+        },
+        {
+          "q": {
+            "hi": "पुष्प का 'मादा जनन अंग' कौन सा है?",
+            "en": "Which is the female reproductive part of a flower?"
+          },
+          "options": [
+            {"hi": "पुंकेसर", "en": "Stamen"},
+            {"hi": "स्त्रीकेसर (Pistil)", "en": "Pistil"},
+            {"hi": "परागकोश", "en": "Anther"},
+            {"hi": "तंतु", "en": "Filament"}
+          ],
+          "answer": {"hi": "स्त्रीकेसर (Pistil)", "en": "Pistil"}
+        },
+        {
+          "q": {
+            "hi": "ऐसे पुष्प जिनमें या तो केवल पुंकेसर या केवल स्त्रीकेसर होता है?",
+            "en": "Flowers which contain either only pistil or only stamens?"
+          },
+          "options": [
+            {"hi": "द्विलिंगी पुष्प", "en": "Bisexual flowers"},
+            {"hi": "एकलिंगी पुष्प (Unisexual)", "en": "Unisexual flowers"},
+            {"hi": "संपूर्ण पुष्प", "en": "Complete flowers"},
+            {"hi": "बंध्य पुष्प", "en": "Sterile flowers"}
+          ],
+          "answer": {"hi": "एकलिंगी पुष्प (Unisexual)", "en": "Unisexual flowers"}
+        },
+        {
+          "q": {
+            "hi": "सरसों, गुलाब और गुड़हल के पुष्प किस प्रकार के होते हैं?",
+            "en": "Flowers of mustard, rose and petunia are?"
+          },
+          "options": [
+            {"hi": "एकलिंगी", "en": "Unisexual"},
+            {"hi": "द्विलिंगी (Bisexual)", "en": "Bisexual"},
+            {"hi": "अलिंगी", "en": "Asexual"},
+            {"hi": "कोई नहीं", "en": "None"}
+          ],
+          "answer": {"hi": "द्विलिंगी (Bisexual)", "en": "Bisexual"}
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "परागकण (Pollen grains) कहाँ बनते हैं?",
+            "en": "Where are pollen grains produced?"
+          },
+          "options": [
+            {"hi": "अंडाशय में", "en": "In ovary"},
+            {"hi": "परागकोश में (Anther)", "en": "In anther"},
+            {"hi": "वर्तिकाग्र पर", "en": "On stigma"},
+            {"hi": "बीजांड में", "en": "In ovule"}
+          ],
+          "answer": {"hi": "परागकोश में (Anther)", "en": "In anther"}
+        },
+        {
+          "q": {
+            "hi": "मादा युग्मक अथवा 'अंड' का निर्माण कहाँ होता है?",
+            "en": "Where is the female gamete or egg formed?"
+          },
+          "options": [
+            {"hi": "परागकोश में", "en": "In anther"},
+            {"hi": "बीजांड में (Ovule)", "en": "In ovule"},
+            {"hi": "पूंकेसर में", "en": "In stamen"},
+            {"hi": "तंतु में", "en": "In filament"}
+          ],
+          "answer": {"hi": "बीजांड में (Ovule)", "en": "In ovule"}
+        },
+        {
+          "q": {
+            "hi": "नर और मादा युग्मकों के युग्मन (संयोग) से क्या बनता है?",
+            "en": "The fusion of male and female gametes forms a?"
+          },
+          "options": [
+            {"hi": "परागकण", "en": "Pollen grain"},
+            {"hi": "फल", "en": "Fruit"},
+            {"hi": "युग्मनज़ (Zygote)", "en": "Zygote"},
+            {"hi": "बीजाणु", "en": "Spore"}
+          ],
+          "answer": {"hi": "युग्मनज़ (Zygote)", "en": "Zygote"}
+        },
+        {
+          "q": {
+            "hi": "परागकणों का परागकोश से पुष्प के वर्तिकाग्र पर स्थानांतरण क्या कहलाता है?",
+            "en": "The transfer of pollen grains from the anther to the stigma is called?"
+          },
+          "options": [
+            {"hi": "निषेचन", "en": "Fertilisation"},
+            {"hi": "परागण (Pollination)", "en": "Pollination"},
+            {"hi": "अवशोषण", "en": "Absorption"},
+            {"hi": "मुकुलन", "en": "Budding"}
+          ],
+          "answer": {"hi": "परागण (Pollination)", "en": "Pollination"}
+        },
+        {
+          "q": {
+            "hi": "यदि परागकण उसी पुष्प के वर्तिकाग्र पर गिरते हैं, तो वह क्या कहलाता है?",
+            "en": "If the pollen lands on the stigma of the same flower, it is called?"
+          },
+          "options": [
+            {"hi": "पर-परागण", "en": "Cross-pollination"},
+            {"hi": "स्व-परागण (Self-pollination)", "en": "Self-pollination"},
+            {"hi": "निषेचन", "en": "Fertilisation"},
+            {"hi": "खंडन", "en": "Fragmentation"}
+          ],
+          "answer": {"hi": "स्व-परागण (Self-pollination)", "en": "Self-pollination"}
+        },
+        {
+          "q": {
+            "hi": "परागकणों का एक पुष्प से दूसरे पादप के पुष्प पर जाना क्या कहलाता है?",
+            "en": "Transfer of pollen from one flower to a flower on another plant of the same kind?"
+          },
+          "options": [
+            {"hi": "स्व-परागण", "en": "Self-pollination"},
+            {"hi": "पर-परागण (Cross-pollination)", "en": "Cross-pollination"},
+            {"hi": "अंकुरण", "en": "Germination"},
+            {"hi": "विखंडन", "en": "Fission"}
+          ],
+          "answer": {"hi": "पर-परागण (Cross-pollination)", "en": "Cross-pollination"}
+        },
+        {
+          "q": {
+            "hi": "युग्मनज बनाने के लिए युग्मकों के युग्मन का प्रक्रम क्या कहलाता है?",
+            "en": "The process of fusion of gametes to form a zygote is called?"
+          },
+          "options": [
+            {"hi": "परागण", "en": "Pollination"},
+            {"hi": "निषेचन (Fertilisation)", "en": "Fertilisation"},
+            {"hi": "प्रकीर्णन", "en": "Dispersal"},
+            {"hi": "संलयन", "en": "Fusion"}
+          ],
+          "answer": {"hi": "निषेचन (Fertilisation)", "en": "Fertilisation"}
+        },
+        {
+          "q": {
+            "hi": "निषेचन के पश्चात् अंडाशय (Ovary) किसमें विकसित हो जाता है?",
+            "en": "After fertilisation, the ovary develops into?"
+          },
+          "options": [
+            {"hi": "बीज में", "en": "Seed"},
+            {"hi": "फल में (Fruit)", "en": "Fruit"},
+            {"hi": "पुष्प में", "en": "Flower"},
+            {"hi": "तने में", "en": "Stem"}
+          ],
+          "answer": {"hi": "फल में (Fruit)", "en": "Fruit"}
+        },
+        {
+          "q": {
+            "hi": "बीजांड (Ovule) से क्या विकसित होता है?",
+            "en": "What develops from the ovule?"
+          },
+          "options": [
+            {"hi": "फल", "en": "Fruit"},
+            {"hi": "पत्ती", "en": "Leaf"},
+            {"hi": "बीज (Seed)", "en": "Seed"},
+            {"hi": "जड़", "en": "Root"}
+          ],
+          "answer": {"hi": "बीज (Seed)", "en": "Seed"}
+        },
+        {
+          "q": {
+            "hi": "बीज के अंदर क्या होता है, जो सुरक्षात्मक बीजावरण में रहता है?",
+            "en": "What is inside the seed, enclosed in a protective coat?"
+          },
+          "options": [
+            {"hi": "फल", "en": "Fruit"},
+            {"hi": "भ्रूण (Embryo)", "en": "Embryo"},
+            {"hi": "परागकण", "en": "Pollen"},
+            {"hi": "कलिका", "en": "Bud"}
+          ],
+          "answer": {"hi": "भ्रूण (Embryo)", "en": "Embryo"}
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "आम, सेब और संतरा किस प्रकार के फल हैं?",
+            "en": "What kind of fruits are mango, apple and orange?"
+          },
+          "options": [
+            {"hi": "कठोर", "en": "Hard"},
+            {"hi": "सूखे", "en": "Dry"},
+            {"hi": "गूदेदार और रसीले", "en": "Fleshy and juicy"},
+            {"hi": "बीज रहित", "en": "Seedless"}
+          ],
+          "answer": {"hi": "गूदेदार और रसीले", "en": "Fleshy and juicy"}
+        },
+        {
+          "q": {
+            "hi": "बादाम और अखरोट किस प्रकार के फल हैं?",
+            "en": "What kind of fruits are almonds and walnuts?"
+          },
+          "options": [
+            {"hi": "रसीले", "en": "Juicy"},
+            {"hi": "कठोर (Hard)", "en": "Hard"},
+            {"hi": "मुलायम", "en": "Soft"},
+            {"hi": "बिना बीज वाले", "en": "Without seeds"}
+          ],
+          "answer": {"hi": "कठोर (Hard)", "en": "Hard"}
+        },
+        {
+          "q": {
+            "hi": "बीजों का विभिन्न स्थानों पर पहुँचना क्या कहलाता है?",
+            "en": "The carrying away of seeds to different places is called?"
+          },
+          "options": [
+            {"hi": "परागण", "en": "Pollination"},
+            {"hi": "निषेचन", "en": "Fertilisation"},
+            {"hi": "बीज प्रकीर्णन (Dispersal)", "en": "Seed dispersal"},
+            {"hi": "अंकुरण", "en": "Germination"}
+          ],
+          "answer": {"hi": "बीज प्रकीर्णन (Dispersal)", "en": "Seed dispersal"}
+        },
+        {
+          "q": {
+            "hi": "सहजन (ड्रमस्टिक) और मैपिल के बीज किसके द्वारा प्रकीर्णित होते हैं?",
+            "en": "Seeds of drumstick and maple are dispersed by?"
+          },
+          "options": [
+            {"hi": "जल", "en": "Water"},
+            {"hi": "पवन (Wind)", "en": "Wind"},
+            {"hi": "जंतु", "en": "Animals"},
+            {"hi": "कीट", "en": "Insects"}
+          ],
+          "answer": {"hi": "पवन (Wind)", "en": "Wind"}
+        },
+        {
+          "q": {
+            "hi": "पवन द्वारा प्रकीर्णित होने वाले बीजों में क्या विशेषता होती है?",
+            "en": "What is the feature of seeds dispersed by wind?"
+          },
+          "options": [
+            {"hi": "हुक होते हैं", "en": "Have hooks"},
+            {"hi": "भारी होते हैं", "en": "Are heavy"},
+            {"hi": "पंख या रोमयुक्त होते हैं", "en": "Have wings or hair"},
+            {"hi": "चिपचिपे होते हैं", "en": "Are sticky"}
+          ],
+          "answer": {"hi": "पंख या रोमयुक्त होते हैं", "en": "Have wings or hair"}
+        },
+        {
+          "q": {
+            "hi": "नारियल के बीज किसके द्वारा प्रकीर्णित होते हैं?",
+            "en": "Coconut seeds are dispersed by?"
+          },
+          "options": [
+            {"hi": "पवन", "en": "Wind"},
+            {"hi": "जंतु", "en": "Animals"},
+            {"hi": "जल (Water)", "en": "Water"},
+            {"hi": "विस्फोट", "en": "Explosion"}
+          ],
+          "answer": {"hi": "जल (Water)", "en": "Water"}
+        },
+        {
+          "q": {
+            "hi": "जैन्थियम के बीज जंतुओं से कैसे चिपक जाते हैं?",
+            "en": "How do Xanthium seeds stick to animals?"
+          },
+          "options": [
+            {"hi": "पंखों द्वारा", "en": "By wings"},
+            {"hi": "काँटे (हुक) द्वारा", "en": "By spine-like hooks"},
+            {"hi": "चिपचिपे पदार्थ से", "en": "By sticky substance"},
+            {"hi": "रेशों द्वारा", "en": "By fibers"}
+          ],
+          "answer": {"hi": "काँटे (हुक) द्वारा", "en": "By spine-like hooks"}
+        },
+        {
+          "q": {
+            "hi": "एरंड और बाल्सम के बीजों का प्रकीर्णन कैसे होता है?",
+            "en": "How are seeds of castor and balsam dispersed?"
+          },
+          "options": [
+            {"hi": "हवा से", "en": "By wind"},
+            {"hi": "पानी से", "en": "By water"},
+            {"hi": "फलों के फटने से (झटके से)", "en": "By sudden jerks (bursting)"},
+            {"hi": "पक्षियों से", "en": "By birds"}
+          ],
+          "answer": {"hi": "फलों के फटने से (झटके से)", "en": "By sudden jerks (bursting)"}
+        },
+        {
+          "q": {
+            "hi": "बीज प्रकीर्णन से पादपों को क्या लाभ होता है?",
+            "en": "What is the benefit of seed dispersal to plants?"
+          },
+          "options": [
+            {"hi": "स्पर्धा कम होती है", "en": "Reduces competition"},
+            {"hi": "नए आवास मिलते हैं", "en": "Occupies new habitats"},
+            {"hi": "स्वस्थ विकास", "en": "Healthy growth"},
+            {"hi": "उपरोक्त सभी", "en": "All of the above"}
+          ],
+          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
+        },
+        {
+          "q": {
+            "hi": "नर और मादा युग्मकों को क्या कहा जाता है?",
+            "en": "Male and female gametes are collectively called?"
+          },
+          "options": [
+            {"hi": "भ्रूण", "en": "Embryo"},
+            {"hi": "युग्मक (Gametes)", "en": "Gametes"},
+            {"hi": "बीजाणु", "en": "Spores"},
+            {"hi": "मुकुल", "en": "Buds"}
+          ],
+          "answer": {"hi": "युग्मक (Gametes)", "en": "Gametes"}
+        }
+      ],
+      "section5": [
+        {
+          "q": {
+            "hi": "स्त्रीकेसर के सबसे ऊपरी भाग को क्या कहते हैं?",
+            "en": "What is the topmost part of the pistil called?"
+          },
+          "options": [
+            {"hi": "वर्तिका", "en": "Style"},
+            {"hi": "अंडाशय", "en": "Ovary"},
+            {"hi": "वर्तिकाग्र (Stigma)", "en": "Stigma"},
+            {"hi": "बीजांड", "en": "Ovule"}
+          ],
+          "answer": {"hi": "वर्तिकाग्र (Stigma)", "en": "Stigma"}
+        },
+        {
+          "q": {
+            "hi": "लैंगिक जनन में कितने जनकों की आवश्यकता होती है?",
+            "en": "How many parents are required in sexual reproduction?"
+          },
+          "options": [
+            {"hi": "एक", "en": "One"},
+            {"hi": "दो (Two)", "en": "Two"},
+            {"hi": "तीन", "en": "Three"},
+            {"hi": "कोई नहीं", "en": "None"}
+          ],
+          "answer": {"hi": "दो (Two)", "en": "Two"}
+        },
+        {
+          "q": {
+            "hi": "कलम लगाना (Cutting) किस प्रकार का जनन है?",
+            "en": "Cutting is which type of reproduction?"
+          },
+          "options": [
+            {"hi": "लैंगिक", "en": "Sexual"},
+            {"hi": "अलैंगिक (Asexual)", "en": "Asexual"},
+            {"hi": "कृत्रिम परागण", "en": "Artificial pollination"},
+            {"hi": "निषेचन", "en": "Fertilisation"}
+          ],
+          "answer": {"hi": "अलैंगिक (Asexual)", "en": "Asexual"}
+        },
+        {
+          "q": {
+            "hi": "परागकोश (Anther) में क्या पाया जाता है?",
+            "en": "What is found inside the anther?"
+          },
+          "options": [
+            {"hi": "अंडकोशिका", "en": "Egg cell"},
+            {"hi": "बीजांड", "en": "Ovule"},
+            {"hi": "परागकण (Pollen grains)", "en": "Pollen grains"},
+            {"hi": "भ्रूण", "en": "Embryo"}
+          ],
+          "answer": {"hi": "परागकण (Pollen grains)", "en": "Pollen grains"}
+        },
+        {
+          "q": {
+            "hi": "निषेचित अंड को और क्या कहा जाता है?",
+            "en": "What else is the fertilised egg called?"
+          },
+          "options": [
+            {"hi": "युग्मक", "en": "Gamete"},
+            {"hi": "युग्मनज़ (Zygote)", "en": "Zygote"},
+            {"hi": "परागकण", "en": "Pollen"},
+            {"hi": "फल", "en": "Fruit"}
+          ],
+          "answer": {"hi": "युग्मनज़ (Zygote)", "en": "Zygote"}
+        },
+        {
+          "q": {
+            "hi": "सूरजमुखी के फल किसके द्वारा सुदूर स्थानों तक जाते हैं?",
+            "en": "Sunflower fruits are carried to distant places by?"
+          },
+          "options": [
+            {"hi": "जल", "en": "Water"},
+            {"hi": "पवन (Wind)", "en": "Wind"},
+            {"hi": "जंतु", "en": "Animals"},
+            {"hi": "विस्फोट", "en": "Jerks"}
+          ],
+          "answer": {"hi": "पवन (Wind)", "en": "Wind"}
+        },
+        {
+          "q": {
+            "hi": "मुकुल (Bud) द्वारा जनन किसमें होता है?",
+            "en": "Reproduction through bud occurs in?"
+          },
+          "options": [
+            {"hi": "शैवाल", "en": "Algae"},
+            {"hi": "यीस्ट (Yeast)", "en": "Yeast"},
+            {"hi": "मक्का", "en": "Maize"},
+            {"hi": "गुलाब", "en": "Rose"}
+          ],
+          "answer": {"hi": "यीस्ट (Yeast)", "en": "Yeast"}
+        },
+        {
+          "q": {
+            "hi": "कवक (Fungus) में बीजाणु कहाँ स्थित होते हैं?",
+            "en": "Where are spores located in fungi?"
+          },
+          "options": [
+            {"hi": "बीजाणुधानी (Sporangium)", "en": "Sporangium"},
+            {"hi": "परागकोश", "en": "Anther"},
+            {"hi": "अंडाशय", "en": "Ovary"},
+            {"hi": "जड़", "en": "Root"}
+          ],
+          "answer": {"hi": "बीजाणुधानी (Sporangium)", "en": "Sporangium"}
+        },
+        {
+          "q": {
+            "hi": "पुष्प के परागकण कीटों द्वारा क्यों ले जाए जाते हैं?",
+            "en": "Why are flower pollen grains carried by insects?"
+          },
+          "options": [
+            {"hi": "सुगंध के कारण", "en": "Due to scent"},
+            {"hi": "रंग के कारण", "en": "Due to color"},
+            {"hi": "कीटों के चिपक जाने से", "en": "They stick to insects"},
+            {"hi": "उपरोक्त सभी", "en": "All of the above"}
+          ],
+          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
+        },
+        {
+          "q": {
+            "hi": "कैक्टस का कौन सा भाग नया पादप बनाता है?",
+            "en": "Which part of cactus gives rise to a new plant?"
+          },
+          "options": [
+            {"hi": "बीज", "en": "Seed"},
+            {"hi": "विलग्न (अलग हुआ) भाग", "en": "Detached part"},
+            {"hi": "पुष्प", "en": "Flower"},
+            {"hi": "जड़", "en": "Root"}
+          ],
+          "answer": {"hi": "विलग्न (अलग हुआ) भाग", "en": "Detached part"}
+        }
+      ]
     }
   }
 }
+
+
