@@ -2647,7 +2647,668 @@
           "answer": {"hi": "फ़िनॉल्फथेलिन", "en": "Phenolphthalein"}
         }
       ]
+    },
+    "chapter05": {
+      "section1": [
+        {
+          "q": {
+            "hi": "पदार्थ के आकार, आमाप, रंग और अवस्था जैसे गुण क्या कहलाते हैं?",
+            "en": "What are properties such as shape, size, colour and state of a substance called?"
+          },
+          "options": [
+            {"hi": "रासायनिक गुण", "en": "Chemical properties"},
+            {"hi": "जैविक गुण", "en": "Biological properties"},
+            {"hi": "भौतिक गुण", "en": "Physical properties"},
+            {"hi": "धात्विक गुण", "en": "Metallic properties"}
+          ],
+          "answer": {"hi": "भौतिक गुण", "en": "Physical properties"}
+        },
+        {
+          "q": {
+            "hi": "वह परिवर्तन जिसमें किसी पदार्थ के भौतिक गुणों में परिवर्तन होता है, क्या कहलाता है?",
+            "en": "A change in which a substance undergoes a change in its physical properties is called?"
+          },
+          "options": [
+            {"hi": "रासायनिक परिवर्तन", "en": "Chemical change"},
+            {"hi": "भौतिक परिवर्तन", "en": "Physical change"},
+            {"hi": "जैविक परिवर्तन", "en": "Biological change"},
+            {"hi": "स्थायी परिवर्तन", "en": "Permanent change"}
+          ],
+          "answer": {"hi": "भौतिक परिवर्तन", "en": "Physical change"}
+        },
+        {
+          "q": {
+            "hi": "भौतिक परिवर्तन सामान्यतः किस प्रकृति के होते हैं?",
+            "en": "What is the general nature of physical changes?"
+          },
+          "options": [
+            {"hi": "अनुत्क्रमणीय", "en": "Irreversible"},
+            {"hi": "उत्क्रमणीय", "en": "Reversible"},
+            {"hi": "स्थायी", "en": "Permanent"},
+            {"hi": "जटिल", "en": "Complex"}
+          ],
+          "answer": {"hi": "उत्क्रमणीय", "en": "Reversible"}
+        },
+        {
+          "q": {
+            "hi": "लोहे के टुकड़े को खुले में छोड़ने पर उस पर जमने वाली भूरे रंग की परत क्या कहलाती है?",
+            "en": "What is the brown filmy substance formed on a piece of iron left in the open called?"
+          },
+          "options": [
+            {"hi": "पेंट", "en": "Paint"},
+            {"hi": "जंग", "en": "Rust"},
+            {"hi": "मिट्टी", "en": "Dust"},
+            {"hi": "पॉलिश", "en": "Polish"}
+          ],
+          "answer": {"hi": "जंग", "en": "Rust"}
+        },
+        {
+          "q": {
+            "hi": "मैग्नीशियम के फीते को जलाने पर वह किस रंग का प्रकाश देता है?",
+            "en": "What color light does a magnesium ribbon produce when burnt?"
+          },
+          "options": [
+            {"hi": "लाल", "en": "Red"},
+            {"hi": "नीला", "en": "Blue"},
+            {"hi": "चमकदार श्वेत", "en": "Brilliant white"},
+            {"hi": "पीला", "en": "Yellow"}
+          ],
+          "answer": {"hi": "चमकदार श्वेत", "en": "Brilliant white"}
+        },
+        {
+          "q": {
+            "hi": "मैग्नीशियम ऑक्साइड (MgO) को जल में घोलने पर क्या बनता है?",
+            "en": "What is formed when magnesium oxide (MgO) is dissolved in water?"
+          },
+          "options": [
+            {"hi": "मैग्नीशियम सल्फेट", "en": "Magnesium sulphate"},
+            {"hi": "मैग्नीशियम हाइड्रॉक्साइड", "en": "Magnesium hydroxide"},
+            {"hi": "मैग्नीशियम क्लोराइड", "en": "Magnesium chloride"},
+            {"hi": "मैग्नीशियम कार्बोनेट", "en": "Magnesium carbonate"}
+          ],
+          "answer": {"hi": "मैग्नीशियम हाइड्रॉक्साइड", "en": "Magnesium hydroxide"}
+        },
+        {
+          "q": {
+            "hi": "मैग्नीशियम हाइड्रॉक्साइड [Mg(OH)₂] की प्रकृति कैसी होती है?",
+            "en": "What is the nature of Magnesium hydroxide [Mg(OH)₂]?"
+          },
+          "options": [
+            {"hi": "अम्लीय", "en": "Acidic"},
+            {"hi": "क्षारकीय", "en": "Basic"},
+            {"hi": "उदासीन", "en": "Neutral"},
+            {"hi": "लवणीय", "en": "Saline"}
+          ],
+          "answer": {"hi": "क्षारकीय", "en": "Basic"}
+        },
+        {
+          "q": {
+            "hi": "कॉपर सल्फेट को अन्य किस नाम से जाना जाता है?",
+            "en": "By what other name is Copper Sulphate known?"
+          },
+          "options": [
+            {"hi": "हरा कसीस", "en": "Green vitriol"},
+            {"hi": "नीला थोथा", "en": "Blue vitriol"},
+            {"hi": "खाने का सोडा", "en": "Baking soda"},
+            {"hi": "कास्टिक सोडा", "en": "Caustic soda"}
+          ],
+          "answer": {"hi": "नीला थोथा", "en": "Blue vitriol"}
+        },
+        {
+          "q": {
+            "hi": "लोहे और कॉपर सल्फेट की अभिक्रिया में विलयन का रंग नीले से क्या हो जाता है?",
+            "en": "In the reaction between iron and copper sulphate, the color of the solution changes from blue to?"
+          },
+          "options": [
+            {"hi": "पीला", "en": "Yellow"},
+            {"hi": "लाल", "en": "Red"},
+            {"hi": "हरा", "en": "Green"},
+            {"hi": "काला", "en": "Black"}
+          ],
+          "answer": {"hi": "हरा", "en": "Green"}
+        },
+        {
+          "q": {
+            "hi": "लोहे की कील पर भूरे रंग का निक्षेप किस पदार्थ का होता है?",
+            "en": "The brown deposit on the iron nail is of which substance?"
+          },
+          "options": [
+            {"hi": "मैग्नीशियम", "en": "Magnesium"},
+            {"hi": "आयरन सल्फेट", "en": "Iron sulphate"},
+            {"hi": "कॉपर (ताँबा)", "en": "Copper"},
+            {"hi": "जिंक", "en": "Zinc"}
+          ],
+          "answer": {"hi": "कॉपर (ताँबा)", "en": "Copper"}
+        }
+      ],
+      "section2": [
+        {
+          "q": {
+            "hi": "सिरका (ऐसीटिक अम्ल) और खाने के सोडे की अभिक्रिया से कौन सी गैस निकलती है?",
+            "en": "Which gas is released by the reaction of vinegar (acetic acid) and baking soda?"
+          },
+          "options": [
+            {"hi": "ऑक्सीजन", "en": "Oxygen"},
+            {"hi": "नाइट्रोजन", "en": "Nitrogen"},
+            {"hi": "कार्बन डाइऑक्साइड", "en": "Carbon dioxide"},
+            {"hi": "हाइड्रोजन", "en": "Hydrogen"}
+          ],
+          "answer": {"hi": "कार्बन डाइऑक्साइड", "en": "Carbon dioxide"}
+        },
+        {
+          "q": {
+            "hi": "चूने के पानी में कार्बन डाइऑक्साइड प्रवाहित करने पर क्या बनता है?",
+            "en": "What is formed when carbon dioxide is passed through lime water?"
+          },
+          "options": [
+            {"hi": "कैल्सियम कार्बोनेट", "en": "Calcium carbonate"},
+            {"hi": "कैल्सियम हाइड्रॉक्साइड", "en": "Calcium hydroxide"},
+            {"hi": "कैल्सियम सल्फेट", "en": "Calcium sulphate"},
+            {"hi": "सोडियम कार्बोनेट", "en": "Sodium carbonate"}
+          ],
+          "answer": {"hi": "कैल्सियम कार्बोनेट", "en": "Calcium carbonate"}
+        },
+        {
+          "q": {
+            "hi": "चूने के पानी का दूधिया हो जाना किस गैस का मानक परीक्षण है?",
+            "en": "The turning of lime water milky is a standard test for which gas?"
+          },
+          "options": [
+            {"hi": "CO", "en": "CO"},
+            {"hi": "CO₂", "en": "CO₂"},
+            {"hi": "O₂", "en": "O₂"},
+            {"hi": "H₂", "en": "H₂"}
+          ],
+          "answer": {"hi": "CO₂", "en": "CO₂"}
+        },
+        {
+          "q": {
+            "hi": "वह परिवर्तन जिसमें एक या अधिक नए पदार्थ बनते हैं, क्या कहलाता है?",
+            "en": "A change in which one or more new substances are formed is called?"
+          },
+          "options": [
+            {"hi": "भौतिक परिवर्तन", "en": "Physical change"},
+            {"hi": "रासायनिक परिवर्तन", "en": "Chemical change"},
+            {"hi": "उत्क्रमणीय परिवर्तन", "en": "Reversible change"},
+            {"hi": "अस्थायी परिवर्तन", "en": "Temporary change"}
+          ],
+          "answer": {"hi": "रासायनिक परिवर्तन", "en": "Chemical change"}
+        },
+        {
+          "q": {
+            "hi": "भोजन का पाचन किस प्रकार का परिवर्तन है?",
+            "en": "What type of change is the digestion of food?"
+          },
+          "options": [
+            {"hi": "भौतिक", "en": "Physical"},
+            {"hi": "रासायनिक", "en": "Chemical"},
+            {"hi": "दोनों", "en": "Both"},
+            {"hi": "कोई नहीं", "en": "None"}
+          ],
+          "answer": {"hi": "रासायनिक", "en": "Chemical"}
+        },
+        {
+          "q": {
+            "hi": "फलों का पकना कौन सा परिवर्तन है?",
+            "en": "Ripening of fruits is which type of change?"
+          },
+          "options": [
+            {"hi": "रासायनिक", "en": "Chemical"},
+            {"hi": "भौतिक", "en": "Physical"},
+            {"hi": "यांत्रिक", "en": "Mechanical"},
+            {"hi": "वैद्युत", "en": "Electrical"}
+          ],
+          "answer": {"hi": "रासायनिक", "en": "Chemical"}
+        },
+        {
+          "q": {
+            "hi": "किसी भी पदार्थ का जलना सदैव कैसा परिवर्तन होता है?",
+            "en": "Burning of any substance is always which type of change?"
+          },
+          "options": [
+            {"hi": "भौतिक", "en": "Physical"},
+            {"hi": "रासायनिक", "en": "Chemical"},
+            {"hi": "उदासीन", "en": "Neutral"},
+            {"hi": "उत्क्रमणीय", "en": "Reversible"}
+          ],
+          "answer": {"hi": "रासायनिक", "en": "Chemical"}
+        },
+        {
+          "q": {
+            "hi": "पटाखों के विस्फोट में कौन सी घटनाएँ होती हैं?",
+            "en": "Which events occur during the explosion of fireworks?"
+          },
+          "options": [
+            {"hi": "ऊष्मा और प्रकाश", "en": "Heat and light"},
+            {"hi": "ध्वनि", "en": "Sound"},
+            {"hi": "अरुचिकर गैसें", "en": "Unpleasant gases"},
+            {"hi": "उपरोक्त सभी", "en": "All of the above"}
+          ],
+          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
+        },
+        {
+          "q": {
+            "hi": "बासी भोजन से दुर्गंध आना कैसा परिवर्तन है?",
+            "en": "Spoilage of food leading to a foul smell is which type of change?"
+          },
+          "options": [
+            {"hi": "भौतिक", "en": "Physical"},
+            {"hi": "रासायनिक", "en": "Chemical"},
+            {"hi": "अपरिवर्तनीय", "en": "Irreversible"},
+            {"hi": "ऊपर के बी और सी दोनों", "en": "Both B and C above"}
+          ],
+          "answer": {"hi": "ऊपर के बी और सी दोनों", "en": "Both B and C above"}
+        },
+        {
+          "q": {
+            "hi": "ओजोन परत हमें किस हानिकारक विकिरण से बचाती है?",
+            "en": "The ozone layer protects us from which harmful radiation?"
+          },
+          "options": [
+            {"hi": "अवरक्त", "en": "Infrared"},
+            {"hi": "पराबैंगनी", "en": "Ultraviolet"},
+            {"hi": "एक्स-रे", "en": "X-rays"},
+            {"hi": "गामा किरणें", "en": "Gamma rays"}
+          ],
+          "answer": {"hi": "पराबैंगनी", "en": "Ultraviolet"}
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "ओजोन का ऑक्सीजन में अपघटन कैसा परिवर्तन है?",
+            "en": "The breakdown of ozone into oxygen is which type of change?"
+          },
+          "options": [
+            {"hi": "भौतिक", "en": "Physical"},
+            {"hi": "रासायनिक", "en": "Chemical"},
+            {"hi": "उदासीनीकरण", "en": "Neutralization"},
+            {"hi": "संघनन", "en": "Condensation"}
+          ],
+          "answer": {"hi": "रासायनिक", "en": "Chemical"}
+        },
+        {
+          "q": {
+            "hi": "कटे हुए सेब के टुकड़े का रंग भूरा होना क्या दर्शाता है?",
+            "en": "What does the browning of a cut apple slice indicate?"
+          },
+          "options": [
+            {"hi": "नए पदार्थ का बनना", "en": "Formation of new substance"},
+            {"hi": "भौतिक गुण बदलना", "en": "Change in physical property"},
+            {"hi": "सेब का सूखना", "en": "Drying of apple"},
+            {"hi": "कोई परिवर्तन नहीं", "en": "No change"}
+          ],
+          "answer": {"hi": "नए पदार्थ का बनना", "en": "Formation of new substance"}
+        },
+        {
+          "q": {
+            "hi": "प्रकाश संश्लेषण (Photosynthesis) कैसा प्रक्रम है?",
+            "en": "What kind of process is Photosynthesis?"
+          },
+          "options": [
+            {"hi": "भौतिक", "en": "Physical"},
+            {"hi": "रासायनिक", "en": "Chemical"},
+            {"hi": "यांत्रिक", "en": "Mechanical"},
+            {"hi": "अजैविक", "en": "Abiotic"}
+          ],
+          "answer": {"hi": "रासायनिक", "en": "Chemical"}
+        },
+        {
+          "q": {
+            "hi": "लोहे में जंग लगने के लिए किनकी उपस्थिति अनिवार्य है?",
+            "en": "The presence of which substances is essential for the rusting of iron?"
+          },
+          "options": [
+            {"hi": "केवल ऑक्सीजन", "en": "Only Oxygen"},
+            {"hi": "केवल जल", "en": "Only Water"},
+            {"hi": "ऑक्सीजन और जल दोनों", "en": "Both Oxygen and Water"},
+            {"hi": "नाइट्रोजन और जल", "en": "Nitrogen and Water"}
+          ],
+          "answer": {"hi": "ऑक्सीजन और जल दोनों", "en": "Both Oxygen and Water"}
+        },
+        {
+          "q": {
+            "hi": "जंग का रासायनिक नाम क्या है?",
+            "en": "What is the chemical name of rust?"
+          },
+          "options": [
+            {"hi": "फेरस सल्फेट", "en": "Ferrous sulphate"},
+            {"hi": "आयरन ऑक्साइड (Fe₂O₃)", "en": "Iron oxide (Fe₂O₃)"},
+            {"hi": "फेरिक क्लोराइड", "en": "Ferric chloride"},
+            {"hi": "मैग्नीशियम ऑक्साइड", "en": "Magnesium oxide"}
+          ],
+          "answer": {"hi": "आयरन ऑक्साइड (Fe₂O₃)", "en": "Iron oxide (Fe₂O₃)"}
+        },
+        {
+          "q": {
+            "hi": "जंग लगने की दर कहाँ अधिक होती है?",
+            "en": "Where is the rate of rusting higher?"
+          },
+          "options": [
+            {"hi": "रेगिस्तान में", "en": "In deserts"},
+            {"hi": "समुद्रतटीय क्षेत्रों में", "en": "In coastal areas"},
+            {"hi": "पहाड़ों पर", "en": "On mountains"},
+            {"hi": "बंद कमरों में", "en": "In closed rooms"}
+          ],
+          "answer": {"hi": "समुद्रतटीय क्षेत्रों में", "en": "In coastal areas"}
+        },
+        {
+          "q": {
+            "hi": "लोहे पर जस्ते (जिंक) की परत चढ़ाने का प्रक्रम क्या कहलाता है?",
+            "en": "The process of depositing a layer of zinc on iron is called?"
+          },
+          "options": [
+            {"hi": "पेंटिंग", "en": "Painting"},
+            {"hi": "यशद्-लेपन (Galvanization)", "en": "Galvanization"},
+            {"hi": "क्रिस्टलीकरण", "en": "Crystallization"},
+            {"hi": "उदासीनीकरण", "en": "Neutralization"}
+          ],
+          "answer": {"hi": "यशद्-लेपन (Galvanization)", "en": "Galvanization"}
+        },
+        {
+          "q": {
+            "hi": "घरों में पानी की आपूर्ति वाले पाइप जंग से बचने के लिए क्या किए जाते हैं?",
+            "en": "What is done to water supply pipes in homes to prevent rusting?"
+          },
+          "options": [
+            {"hi": "उन्हें उबाला जाता है", "en": "They are boiled"},
+            {"hi": "यशद्-लेपित", "en": "Galvanized"},
+            {"hi": "मिट्टी से ढके", "en": "Covered with soil"},
+            {"hi": "खुले छोड़े", "en": "Left open"}
+          ],
+          "answer": {"hi": "यशद्-लेपित", "en": "Galvanized"}
+        },
+        {
+          "q": {
+            "hi": "स्टेनलेस स्टील (Stainless Steel) किन धातुओं का मिश्रण है?",
+            "en": "Stainless steel is a mixture of which metals with iron?"
+          },
+          "options": [
+            {"hi": "क्रोमियम, निकैल और मैंगनीज", "en": "Chromium, Nickel and Manganese"},
+            {"hi": "सोना और चाँदी", "en": "Gold and Silver"},
+            {"hi": "ताँबा और जस्ता", "en": "Copper and Zinc"},
+            {"hi": "एल्युमिनियम और टिन", "en": "Aluminium and Tin"}
+          ],
+          "answer": {"hi": "क्रोमियम, निकैल और मैंगनीज", "en": "Chromium, Nickel and Manganese"}
+        },
+        {
+          "q": {
+            "hi": "किसी पदार्थ के शुद्ध क्रिस्टल उनके विलयन से प्राप्त करना क्या कहलाता है?",
+            "en": "Obtaining pure crystals of a substance from its solution is called?"
+          },
+          "options": [
+            {"hi": "वाष्पन", "en": "Evaporation"},
+            {"hi": "क्रिस्टलीकरण", "en": "Crystallization"},
+            {"hi": "निस्पंदन", "en": "Filtration"},
+            {"hi": "अवसादन", "en": "Sedimentation"}
+          ],
+          "answer": {"hi": "क्रिस्टलीकरण", "en": "Crystallization"}
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "क्रिस्टलीकरण किस प्रकार के परिवर्तन का उदाहरण है?",
+            "en": "Crystallization is an example of which type of change?"
+          },
+          "options": [
+            {"hi": "भौतिक परिवर्तन", "en": "Physical change"},
+            {"hi": "रासायनिक परिवर्तन", "en": "Chemical change"},
+            {"hi": "जैविक परिवर्तन", "en": "Biological change"},
+            {"hi": "स्थायी परिवर्तन", "en": "Permanent change"}
+          ],
+          "answer": {"hi": "भौतिक परिवर्तन", "en": "Physical change"}
+        },
+        {
+          "q": {
+            "hi": "कॉपर सल्फेट के क्रिस्टल बनाने के लिए जल में कौन सा अम्ल मिलाया जाता है?",
+            "en": "Which acid is added to water to make copper sulphate crystals?"
+          },
+          "options": [
+            {"hi": "नाइट्रिक अम्ल", "en": "Nitric acid"},
+            {"hi": "तनु सल्फ्यूरिक अम्ल", "en": "Dilute sulphuric acid"},
+            {"hi": "हाइड्रोक्लोरिक अम्ल", "en": "Hydrochloric acid"},
+            {"hi": "ऐसीटिक अम्ल", "en": "Acetic acid"}
+          ],
+          "answer": {"hi": "तनु सल्फ्यूरिक अम्ल", "en": "Dilute sulphuric acid"}
+        },
+        {
+          "q": {
+            "hi": "दिल्ली में कुतुबमीनार के पास स्थित लौह स्तंभ कितने वर्ष पुराना है?",
+            "en": "How old is the iron pillar located near Qutub Minar in Delhi?"
+          },
+          "options": [
+            {"hi": "400 वर्ष", "en": "400 years"},
+            {"hi": "1600 वर्ष से अधिक", "en": "More than 1600 years"},
+            {"hi": "1000 वर्ष", "en": "1000 years"},
+            {"hi": "2000 वर्ष", "en": "2000 years"}
+          ],
+          "answer": {"hi": "1600 वर्ष से अधिक", "en": "More than 1600 years"}
+        },
+        {
+          "q": {
+            "hi": "खाने के सोडे का रासायनिक नाम क्या है?",
+            "en": "What is the chemical name of baking soda?"
+          },
+          "options": [
+            {"hi": "सोडियम कार्बोनेट", "en": "Sodium carbonate"},
+            {"hi": "सोडियम हाइड्रोजन कार्बोनेट", "en": "Sodium hydrogen carbonate"},
+            {"hi": "कैल्सियम कार्बोनेट", "en": "Calcium carbonate"},
+            {"hi": "पोटेशियम क्लोराइड", "en": "Potassium chloride"}
+          ],
+          "answer": {"hi": "सोडियम हाइड्रोजन कार्बोनेट", "en": "Sodium hydrogen carbonate"}
+        },
+        {
+          "q": {
+            "hi": "कागज के टुकड़ों को काटना कैसा परिवर्तन है?",
+            "en": "Cutting pieces of paper is which type of change?"
+          },
+          "options": [
+            {"hi": "भौतिक", "en": "Physical"},
+            {"hi": "रासायनिक", "en": "Chemical"},
+            {"hi": "अपरिवर्तनीय रासायनिक", "en": "Irreversible chemical"},
+            {"hi": "उदासीनीकरण", "en": "Neutralization"}
+          ],
+          "answer": {"hi": "भौतिक", "en": "Physical"}
+        },
+        {
+          "q": {
+            "hi": "गर्म करने पर आरी के ब्लेड का रंग बदलना कैसा परिवर्तन है?",
+            "en": "The color change of a hacksaw blade on heating is which type of change?"
+          },
+          "options": [
+            {"hi": "भौतिक", "en": "Physical"},
+            {"hi": "रासायनिक", "en": "Chemical"},
+            {"hi": "स्थायी", "en": "Permanent"},
+            {"hi": "जैविक", "en": "Biological"}
+          ],
+          "answer": {"hi": "भौतिक", "en": "Physical"}
+        },
+        {
+          "q": {
+            "hi": "लकड़ी का जलना और लकड़ी को काटना क्रमशः कैसे परिवर्तन हैं?",
+            "en": "Burning wood and cutting wood are which types of changes respectively?"
+          },
+          "options": [
+            {"hi": "भौतिक और रासायनिक", "en": "Physical and Chemical"},
+            {"hi": "रासायनिक और भौतिक", "en": "Chemical and Physical"},
+            {"hi": "दोनों भौतिक", "en": "Both Physical"},
+            {"hi": "दोनों रासायनिक", "en": "Both Chemical"}
+          ],
+          "answer": {"hi": "रासायनिक और भौतिक", "en": "Chemical and Physical"}
+        },
+        {
+          "q": {
+            "hi": "LPG का जलना किस प्रकार का परिवर्तन है?",
+            "en": "What type of change is the burning of LPG?"
+          },
+          "options": [
+            {"hi": "परिवर्तन-A (भौतिक)", "en": "Change-A (Physical)"},
+            {"hi": "रासायनिक परिवर्तन", "en": "Chemical change"},
+            {"hi": "अस्थायी परिवर्तन", "en": "Temporary change"},
+            {"hi": "कोई परिवर्तन नहीं", "en": "No change"}
+          ],
+          "answer": {"hi": "रासायनिक परिवर्तन", "en": "Chemical change"}
+        },
+        {
+          "q": {
+            "hi": "अवायवीय जीवाणुओं द्वारा बायोगैस बनाना कैसा परिवर्तन है?",
+            "en": "What type of change is the production of biogas by anaerobic bacteria?"
+          },
+          "options": [
+            {"hi": "भौतिक", "en": "Physical"},
+            {"hi": "रासायनिक", "en": "Chemical"},
+            {"hi": "यांत्रिक", "en": "Mechanical"},
+            {"hi": "विद्युत", "en": "Electrical"}
+          ],
+          "answer": {"hi": "रासायनिक", "en": "Chemical"}
+        },
+        {
+          "q": {
+            "hi": "समुद्र के जल से नमक प्राप्त करना कैसा परिवर्तन है?",
+            "en": "Obtaining salt from sea water is which type of change?"
+          },
+          "options": [
+            {"hi": "रासायनिक", "en": "Chemical"},
+            {"hi": "भौतिक", "en": "Physical"},
+            {"hi": "जैविक", "en": "Biological"},
+            {"hi": "जटिल", "en": "Complex"}
+          ],
+          "answer": {"hi": "भौतिक", "en": "Physical"}
+        }
+      ],
+      "section5": [
+        {
+          "q": {
+            "hi": "मोमबत्ती के जलने में कौन से परिवर्तन होते हैं?",
+            "en": "Which changes occur during the burning of a candle?"
+          },
+          "options": [
+            {"hi": "केवल भौतिक", "en": "Only Physical"},
+            {"hi": "केवल रासायनिक", "en": "Only Chemical"},
+            {"hi": "भौतिक और रासायनिक दोनों", "en": "Both Physical and Chemical"},
+            {"hi": "कोई नहीं", "en": "None"}
+          ],
+          "answer": {"hi": "भौतिक और रासायनिक दोनों", "en": "Both Physical and Chemical"}
+        },
+        {
+          "q": {
+            "hi": "लोहे को जंग से बचाने के लिए उस पर किस धातु की परत चढ़ाई जाती है?",
+            "en": "Which metal is coated on iron to protect it from rusting?"
+          },
+          "options": [
+            {"hi": "सोना", "en": "Gold"},
+            {"hi": "जस्ता (जिंक)", "en": "Zinc"},
+            {"hi": "ताँबा", "en": "Copper"},
+            {"hi": "पारा", "en": "Mercury"}
+          ],
+          "answer": {"hi": "जस्ता (जिंक)", "en": "Zinc"}
+        },
+        {
+          "q": {
+            "hi": "दही का जमना कैसा परिवर्तन है?",
+            "en": "Curdling of milk into curd is which type of change?"
+          },
+          "options": [
+            {"hi": "भौतिक", "en": "Physical"},
+            {"hi": "रासायनिक", "en": "Chemical"},
+            {"hi": "उत्क्रमणीय", "en": "Reversible"},
+            {"hi": "अस्थायी", "en": "Temporary"}
+          ],
+          "answer": {"hi": "रासायनिक", "en": "Chemical"}
+        },
+        {
+          "q": {
+            "hi": "भाप का संघनन (Condensation) कैसा परिवर्तन है?",
+            "en": "Condensation of steam is which type of change?"
+          },
+          "options": [
+            {"hi": "रासायनिक", "en": "Chemical"},
+            {"hi": "भौतिक", "en": "Physical"},
+            {"hi": "अपरिवर्तनीय", "en": "Irreversible"},
+            {"hi": "जैव रासायनिक", "en": "Biochemical"}
+          ],
+          "answer": {"hi": "भौतिक", "en": "Physical"}
+        },
+        {
+          "q": {
+            "hi": "रासायनिक अभिक्रिया किसे कहते हैं?",
+            "en": "What is another name for a chemical change?"
+          },
+          "options": [
+            {"hi": "भौतिक प्रक्रम", "en": "Physical process"},
+            {"hi": "रासायनिक परिवर्तन", "en": "Chemical change"},
+            {"hi": "क्रिस्टलीकरण", "en": "Crystallization"},
+            {"hi": "यशद्-लेपन", "en": "Galvanization"}
+          ],
+          "answer": {"hi": "रासायनिक परिवर्तन", "en": "Chemical change"}
+        },
+        {
+          "q": {
+            "hi": "लोहे के गेट को पेंट करने से क्या होता है?",
+            "en": "What happens when an iron gate is painted?"
+          },
+          "options": [
+            {"hi": "वह भारी हो जाता है", "en": "It becomes heavy"},
+            {"hi": "उसका जंग से बचाव होता है", "en": "It is protected from rust"},
+            {"hi": "वह गल जाता है", "en": "It melts"},
+            {"hi": "उसका आकार बदल जाता है", "en": "Its shape changes"}
+          ],
+          "answer": {"hi": "उसका जंग से बचाव होता है", "en": "It is protected from rust"}
+        },
+        {
+          "q": {
+            "hi": "चूने के पानी का सूत्र क्या है?",
+            "en": "What is the formula for lime water?"
+          },
+          "options": [
+            {"hi": "CaCO₃", "en": "CaCO₃"},
+            {"hi": "Ca(OH)₂", "en": "Ca(OH)₂"},
+            {"hi": "CaO", "en": "CaO"},
+            {"hi": "CaCl₂", "en": "CaCl₂"}
+          ],
+          "answer": {"hi": "Ca(OH)₂", "en": "Ca(OH)₂"}
+        },
+        {
+          "q": {
+            "hi": "लवणयुक्त जल जंग लगने की दर को क्या करता है?",
+            "en": "What does saline water do to the rate of rusting?"
+          },
+          "options": [
+            {"hi": "कम करता है", "en": "Decreases it"},
+            {"hi": "बढ़ा देता है", "en": "Increases it"},
+            {"hi": "कोई प्रभाव नहीं", "en": "No effect"},
+            {"hi": "रोक देता है", "en": "Stops it"}
+          ],
+          "answer": {"hi": "बढ़ा देता है", "en": "Increases it"}
+        },
+        {
+          "q": {
+            "hi": "मैग्नीशियम को जलाने पर मिलने वाली भस्म कैसी होती है?",
+            "en": "What is the nature of the ash obtained by burning magnesium?"
+          },
+          "options": [
+            {"hi": "नीली भस्म", "en": "Blue ash"},
+            {"hi": "श्वेत पाउडर", "en": "White powder"},
+            {"hi": "काली राख", "en": "Black soot"},
+            {"hi": "लाल पाउडर", "en": "Red powder"}
+          ],
+          "answer": {"hi": "श्वेत पाउडर", "en": "White powder"}
+        },
+        {
+          "q": {
+            "hi": "वायु में नमी (आर्द्रता) अधिक होने पर जंग पर क्या प्रभाव पड़ता है?",
+            "en": "What is the effect of high humidity on rusting?"
+          },
+          "options": [
+            {"hi": "जंग धीरे लगती है", "en": "Rusting is slow"},
+            {"hi": "जंग जल्दी लगती है", "en": "Rusting is fast"},
+            {"hi": "जंग नहीं लगती", "en": "No rusting"},
+            {"hi": "लोहा पिघल जाता है", "en": "Iron melts"}
+          ],
+          "answer": {"hi": "जंग जल्दी लगती है", "en": "Rusting is fast"}
+        }
+      ]
     }
   }
-  
 }
