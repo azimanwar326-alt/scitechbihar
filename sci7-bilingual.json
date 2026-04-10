@@ -1985,6 +1985,669 @@
           "answer": {"hi": "ऐंडर्स सेल्सियस", "en": "Anders Celsius"}
         }
       ]
+    },
+    "chapter04": {
+      "section1": [
+        {
+          "q": {
+            "hi": "नींबू के रस और सिरके का स्वाद कैसा होता है?",
+            "en": "What is the taste of lemon juice and vinegar?"
+          },
+          "options": [
+            {"hi": "कड़वा", "en": "Bitter"},
+            {"hi": "खट्टा", "en": "Sour"},
+            {"hi": "मीठा", "en": "Sweet"},
+            {"hi": "नमकीन", "en": "Salty"}
+          ],
+          "answer": {"hi": "खट्टा", "en": "Sour"}
+        },
+        {
+          "q": {
+            "hi": "एसिड (Acid) शब्द की उत्पत्ति किस लैटिन शब्द से हुई है?",
+            "en": "From which Latin word is the word 'Acid' derived?"
+          },
+          "options": [
+            {"hi": "इंडिकेटर", "en": "Indicator"},
+            {"hi": "बेसियर", "en": "Basier"},
+            {"hi": "एसियर", "en": "Acere"},
+            {"hi": "लिटमस", "en": "Litmus"}
+          ],
+          "answer": {"hi": "एसियर", "en": "Acere"}
+        },
+        {
+          "q": {
+            "hi": "ऐसे पदार्थ जिनका स्वाद कड़वा होता है और जो साबुन जैसे लगते हैं, क्या कहलाते हैं?",
+            "en": "Substances that taste bitter and feel soapy to touch are called?"
+          },
+          "options": [
+            {"hi": "अम्ल", "en": "Acids"},
+            {"hi": "लवण", "en": "Salts"},
+            {"hi": "क्षारक", "en": "Bases"},
+            {"hi": "सूचक", "en": "Indicators"}
+          ],
+          "answer": {"hi": "क्षारक", "en": "Bases"}
+        },
+        {
+          "q": {
+            "hi": "सिरके में कौन-सा अम्ल पाया जाता है?",
+            "en": "Which acid is found in vinegar?"
+          },
+          "options": [
+            {"hi": "लैक्टिक अम्ल", "en": "Lactic acid"},
+            {"hi": "ऐसीटिक अम्ल", "en": "Acetic acid"},
+            {"hi": "साइट्रिक अम्ल", "en": "Citric acid"},
+            {"hi": "ऑक्सेलिक अम्ल", "en": "Oxalic acid"}
+          ],
+          "answer": {"hi": "ऐसीटिक अम्ल", "en": "Acetic acid"}
+        },
+        {
+          "q": {
+            "hi": "चींटी के डंक में कौन-सा अम्ल होता है?",
+            "en": "Which acid is present in an ant's sting?"
+          },
+          "options": [
+            {"hi": "फॉर्मिक अम्ल", "en": "Formic acid"},
+            {"hi": "टार्टरिक अम्ल", "en": "Tartaric acid"},
+            {"hi": "ऐस्कॉर्बिक अम्ल", "en": "Ascorbic acid"},
+            {"hi": "नाइट्रिक अम्ल", "en": "Nitric acid"}
+          ],
+          "answer": {"hi": "फॉर्मिक अम्ल", "en": "Formic acid"}
+        },
+        {
+          "q": {
+            "hi": "दही में मुख्य रूप से कौन-सा अम्ल पाया जाता है?",
+            "en": "Which acid is primarily found in curd?"
+          },
+          "options": [
+            {"hi": "ऐसीटिक अम्ल", "en": "Acetic acid"},
+            {"hi": "लैक्टिक अम्ल", "en": "Lactic acid"},
+            {"hi": "ऑक्सेलिक अम्ल", "en": "Oxalic acid"},
+            {"hi": "साइट्रिक अम्ल", "en": "Citric acid"}
+          ],
+          "answer": {"hi": "लैक्टिक अम्ल", "en": "Lactic acid"}
+        },
+        {
+          "q": {
+            "hi": "नींबू और संतरे जैसे फलों में कौन-सा अम्ल होता है?",
+            "en": "Which acid is present in citrus fruits like lemon and orange?"
+          },
+          "options": [
+            {"hi": "साइट्रिक अम्ल", "en": "Citric acid"},
+            {"hi": "लैक्टिक अम्ल", "en": "Lactic acid"},
+            {"hi": "फॉर्मिक अम्ल", "en": "Formic acid"},
+            {"hi": "ऐसीटिक अम्ल", "en": "Acetic acid"}
+          ],
+          "answer": {"hi": "साइट्रिक अम्ल", "en": "Citric acid"}
+        },
+        {
+          "q": {
+            "hi": "पालक में कौन-सा अम्ल पाया जाता है?",
+            "en": "Which acid is found in spinach?"
+          },
+          "options": [
+            {"hi": "टार्टरिक अम्ल", "en": "Tartaric acid"},
+            {"hi": "ऑक्सेलिक अम्ल", "en": "Oxalic acid"},
+            {"hi": "ऐस्कॉर्बिक अम्ल", "en": "Ascorbic acid"},
+            {"hi": "फॉर्मिक अम्ल", "en": "Formic acid"}
+          ],
+          "answer": {"hi": "ऑक्सेलिक अम्ल", "en": "Oxalic acid"}
+        },
+        {
+          "q": {
+            "hi": "आँवला और सिट्रस फलों में कौन-सा विटामिन अम्ल के रूप में होता है?",
+            "en": "Which vitamin is present as an acid in Amla and citrus fruits?"
+          },
+          "options": [
+            {"hi": "विटामिन A", "en": "Vitamin A"},
+            {"hi": "विटामिन B", "en": "Vitamin B"},
+            {"hi": "ऐस्कॉर्बिक अम्ल (विटामिन C)", "en": "Ascorbic acid (Vitamin C)"},
+            {"hi": "विटामिन D", "en": "Vitamin D"}
+          ],
+          "answer": {"hi": "ऐस्कॉर्बिक अम्ल (विटामिन C)", "en": "Ascorbic acid (Vitamin C)"}
+        },
+        {
+          "q": {
+            "hi": "इमली, अंगूर और कच्चे आमों में कौन-सा अम्ल पाया जाता है?",
+            "en": "Which acid is found in tamarind, grapes, and unripe mangoes?"
+          },
+          "options": [
+            {"hi": "ऐसीटिक अम्ल", "en": "Acetic acid"},
+            {"hi": "टार्टरिक अम्ल", "en": "Tartaric acid"},
+            {"hi": "लैक्टिक अम्ल", "en": "Lactic acid"},
+            {"hi": "ऑक्सेलिक अम्ल", "en": "Oxalic acid"}
+          ],
+          "answer": {"hi": "टार्टरिक अम्ल", "en": "Tartaric acid"}
+        }
+      ],
+      "section2": [
+        {
+          "q": {
+            "hi": "चूने के पानी (Lime water) में कौन-सा क्षारक होता है?",
+            "en": "Which base is present in lime water?"
+          },
+          "options": [
+            {"hi": "सोडियम हाइड्रॉक्साइड", "en": "Sodium hydroxide"},
+            {"hi": "कैल्सियम हाइड्रॉक्साइड", "en": "Calcium hydroxide"},
+            {"hi": "पोटैशियम हाइड्रॉक्साइड", "en": "Potassium hydroxide"},
+            {"hi": "मैग्नीशियम हाइड्रॉक्साइड", "en": "Magnesium hydroxide"}
+          ],
+          "answer": {"hi": "कैल्सियम हाइड्रॉक्साइड", "en": "Calcium hydroxide"}
+        },
+        {
+          "q": {
+            "hi": "खिड़की साफ़ करने वाले मार्जकों में कौन-सा क्षारक पाया जाता है?",
+            "en": "Which base is found in window cleaners?"
+          },
+          "options": [
+            {"hi": "अमोनियम हाइड्रॉक्साइड", "en": "Ammonium hydroxide"},
+            {"hi": "कैल्सियम हाइड्रॉक्साइड", "en": "Calcium hydroxide"},
+            {"hi": "मैग्नीशियम हाइड्रॉक्साइड", "en": "Magnesium hydroxide"},
+            {"hi": "सोडियम हाइड्रॉक्साइड", "en": "Sodium hydroxide"}
+          ],
+          "answer": {"hi": "अमोनियम हाइड्रॉक्साइड", "en": "Ammonium hydroxide"}
+        },
+        {
+          "q": {
+            "hi": "साबुन में कौन-सा क्षारक मुख्य रूप से पाया जाता है?",
+            "en": "Which base is primarily found in soap?"
+          },
+          "options": [
+            {"hi": "मैग्नीशियम हाइड्रॉक्साइड", "en": "Magnesium hydroxide"},
+            {"hi": "सोडियम / पोटैशियम हाइड्रॉक्साइड", "en": "Sodium / Potassium hydroxide"},
+            {"hi": "अमोनियम हाइड्रॉक्साइड", "en": "Ammonium hydroxide"},
+            {"hi": "कैल्सियम हाइड्रॉक्साइड", "en": "Calcium hydroxide"}
+          ],
+          "answer": {"hi": "सोडियम / पोटैशियम हाइड्रॉक्साइड", "en": "Sodium / Potassium hydroxide"}
+        },
+        {
+          "q": {
+            "hi": "दूधिया मैग्नीशियम (Milk of Magnesia) में कौन-सा क्षारक होता है?",
+            "en": "Which base is present in Milk of Magnesia?"
+          },
+          "options": [
+            {"hi": "कैल्सियम हाइड्रॉक्साइड", "en": "Calcium hydroxide"},
+            {"hi": "मैग्नीशियम हाइड्रॉक्साइड", "en": "Magnesium hydroxide"},
+            {"hi": "सोडियम हाइड्रॉक्साइड", "en": "Sodium hydroxide"},
+            {"hi": "पोटैशियम हाइड्रॉक्साइड", "en": "Potassium hydroxide"}
+          ],
+          "answer": {"hi": "मैग्नीशियम हाइड्रॉक्साइड", "en": "Magnesium hydroxide"}
+        },
+        {
+          "q": {
+            "hi": "पदार्थों की प्रकृति की जाँच करने वाले विशेष पदार्थ क्या कहलाते हैं?",
+            "en": "What are special substances used to test the nature of substances called?"
+          },
+          "options": [
+            {"hi": "उत्प्रेरक", "en": "Catalysts"},
+            {"hi": "सूचक (Indicators)", "en": "Indicators"},
+            {"hi": "मिश्रण", "en": "Mixtures"},
+            {"hi": "विलयन", "en": "Solutions"}
+          ],
+          "answer": {"hi": "सूचक (Indicators)", "en": "Indicators"}
+        },
+        {
+          "q": {
+            "hi": "लिटमस किससे प्राप्त किया जाता है?",
+            "en": "From where is litmus obtained?"
+          },
+          "options": [
+            {"hi": "गुलाब के फूल से", "en": "From rose flower"},
+            {"hi": "लाइकेनों (शैक) से", "en": "From lichens"},
+            {"hi": "नीम की छाल से", "en": "From neem bark"},
+            {"hi": "हल्दी से", "en": "From turmeric"}
+          ],
+          "answer": {"hi": "लाइकेनों (शैक) से", "en": "From lichens"}
+        },
+        {
+          "q": {
+            "hi": "आसुत जल में लिटमस का रंग कैसा होता है?",
+            "en": "What is the colour of litmus in distilled water?"
+          },
+          "options": [
+            {"hi": "लाल", "en": "Red"},
+            {"hi": "नीला", "en": "Blue"},
+            {"hi": "मॉव (नीलशोण)", "en": "Mauve"},
+            {"hi": "हरा", "en": "Green"}
+          ],
+          "answer": {"hi": "मॉव (नीलशोण)", "en": "Mauve"}
+        },
+        {
+          "q": {
+            "hi": "अम्लीय विलयन में लिटमस का रंग बदलकर क्या हो जाता है?",
+            "en": "What colour does litmus turn in an acidic solution?"
+          },
+          "options": [
+            {"hi": "नीला", "en": "Blue"},
+            {"hi": "लाल", "en": "Red"},
+            {"hi": "बैंगनी", "en": "Purple"},
+            {"hi": "काला", "en": "Black"}
+          ],
+          "answer": {"hi": "लाल", "en": "Red"}
+        },
+        {
+          "q": {
+            "hi": "क्षारीय विलयन में लिटमस का रंग कैसा हो जाता है?",
+            "en": "What colour does litmus turn in a basic solution?"
+          },
+          "options": [
+            {"hi": "लाल", "en": "Red"},
+            {"hi": "पीला", "en": "Yellow"},
+            {"hi": "नीला", "en": "Blue"},
+            {"hi": "गुलाबी", "en": "Pink"}
+          ],
+          "answer": {"hi": "नीला", "en": "Blue"}
+        },
+        {
+          "q": {
+            "hi": "ऐसे विलयन जो लिटमस पत्र के रंग को नहीं बदलते, क्या कहलाते हैं?",
+            "en": "Solutions that do not change the colour of litmus paper are called?"
+          },
+          "options": [
+            {"hi": "अम्लीय", "en": "Acidic"},
+            {"hi": "क्षारीय", "en": "Basic"},
+            {"hi": "उदासीन (Neutral)", "en": "Neutral"},
+            {"hi": "कठोर", "en": "Hard"}
+          ],
+          "answer": {"hi": "उदासीन (Neutral)", "en": "Neutral"}
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "क्षारीय विलयन में हल्दी पत्र का रंग कैसा हो जाता है?",
+            "en": "What colour does turmeric paper turn in a basic solution?"
+          },
+          "options": [
+            {"hi": "पीला", "en": "Yellow"},
+            {"hi": "नीला", "en": "Blue"},
+            {"hi": "लाल", "en": "Red"},
+            {"hi": "हरा", "en": "Green"}
+          ],
+          "answer": {"hi": "लाल", "en": "Red"}
+        },
+        {
+          "q": {
+            "hi": "गुड़हल के पुष्प का सूचक अम्लीय विलयन को किस रंग में बदल देता है?",
+            "en": "What colour does China rose indicator turn acidic solutions?"
+          },
+          "options": [
+            {"hi": "नीला", "en": "Blue"},
+            {"hi": "गहरा गुलाबी (मैजेंटा)", "en": "Deep pink (Magenta)"},
+            {"hi": "हरा", "en": "Green"},
+            {"hi": "रंगहीन", "en": "Colourless"}
+          ],
+          "answer": {"hi": "गहरा गुलाबी (मैजेंटा)", "en": "Deep pink (Magenta)"}
+        },
+        {
+          "q": {
+            "hi": "गुड़हल का सूचक क्षारीय विलयनों को किस रंग में बदल देता है?",
+            "en": "What colour does China rose indicator turn basic solutions?"
+          },
+          "options": [
+            {"hi": "लाल", "en": "Red"},
+            {"hi": "गुलाबी", "en": "Pink"},
+            {"hi": "हरा", "en": "Green"},
+            {"hi": "काला", "en": "Black"}
+          ],
+          "answer": {"hi": "हरा", "en": "Green"}
+        },
+        {
+          "q": {
+            "hi": "अम्ल वर्षा (Acid rain) का मुख्य कारण क्या है?",
+            "en": "What is the main cause of acid rain?"
+          },
+          "options": [
+            {"hi": "ऑक्सीजन की अधिकता", "en": "Excess of oxygen"},
+            {"hi": "CO2, SO2 और NO2 जैसी गैसों का घुलना", "en": "Dissolving of gases like CO2, SO2 and NO2"},
+            {"hi": "धूल मिट्टी", "en": "Dust and soil"},
+            {"hi": "पेड़ों की कटाई", "en": "Deforestation"}
+          ],
+          "answer": {"hi": "CO2, SO2 और NO2 जैसी गैसों का घुलना", "en": "Dissolving of gases like CO2, SO2 and NO2"}
+        },
+        {
+          "q": {
+            "hi": "अम्ल और क्षारक के बीच होने वाली अभिक्रिया क्या कहलाती है?",
+            "en": "The reaction between an acid and a base is called?"
+          },
+          "options": [
+            {"hi": "पाचन", "en": "Digestion"},
+            {"hi": "उदासीनीकरण (Neutralisation)", "en": "Neutralisation"},
+            {"hi": "वाष्पीकरण", "en": "Evaporation"},
+            {"hi": "प्रकाश संश्लेषण", "en": "Photosynthesis"}
+          ],
+          "answer": {"hi": "उदासीनीकरण (Neutralisation)", "en": "Neutralisation"}
+        },
+        {
+          "q": {
+            "hi": "उदासीनीकरण अभिक्रिया में ऊष्मा के साथ और क्या निर्मित होता है?",
+            "en": "What else is produced along with heat in a neutralisation reaction?"
+          },
+          "options": [
+            {"hi": "केवल गैस", "en": "Only gas"},
+            {"hi": "लवण और जल", "en": "Salt and water"},
+            {"hi": "केवल अम्ल", "en": "Only acid"},
+            {"hi": "विटामिन", "en": "Vitamins"}
+          ],
+          "answer": {"hi": "लवण और जल", "en": "Salt and water"}
+        },
+        {
+          "q": {
+            "hi": "फ़िनॉल्फथेलिन सूचक क्षारीय विलयन में कैसा रंग देता है?",
+            "en": "What colour does phenolphthalein indicator give in a basic solution?"
+          },
+          "options": [
+            {"hi": "रंगहीन", "en": "Colourless"},
+            {"hi": "पीला", "en": "Yellow"},
+            {"hi": "गुलाबी", "en": "Pink"},
+            {"hi": "नीला", "en": "Blue"}
+          ],
+          "answer": {"hi": "गुलाबी", "en": "Pink"}
+        },
+        {
+          "q": {
+            "hi": "फ़िनॉल्फथेलिन अम्लीय विलयन में कैसा रहता है?",
+            "en": "How does phenolphthalein behave in an acidic solution?"
+          },
+          "options": [
+            {"hi": "लाल हो जाता है", "en": "Turns red"},
+            {"hi": "रंगहीन रहता है", "en": "Remains colourless"},
+            {"hi": "हरा हो जाता है", "en": "Turns green"},
+            {"hi": "नीला हो जाता है", "en": "Turns blue"}
+          ],
+          "answer": {"hi": "रंगहीन रहता है", "en": "Remains colourless"}
+        },
+        {
+          "q": {
+            "hi": "उदासीनीकरण के बाद मिश्रण का तापमान कैसा हो जाता है?",
+            "en": "What happens to the temperature of the mixture after neutralisation?"
+          },
+          "options": [
+            {"hi": "कम हो जाता है", "en": "Decreases"},
+            {"hi": "बढ़ जाता है", "en": "Increases"},
+            {"hi": "समान रहता है", "en": "Remains same"},
+            {"hi": "शून्य हो जाता है", "en": "Becomes zero"}
+          ],
+          "answer": {"hi": "बढ़ जाता है", "en": "Increases"}
+        },
+        {
+          "q": {
+            "hi": "हमारे आमाशय में कौन-सा अम्ल भोजन पचाने में सहायता करता है?",
+            "en": "Which acid in our stomach helps in digesting food?"
+          },
+          "options": [
+            {"hi": "सल्फ्यूरिक अम्ल", "en": "Sulphuric acid"},
+            {"hi": "नाइट्रिक अम्ल", "en": "Nitric acid"},
+            {"hi": "हाइड्रोक्लोरिक अम्ल (HCl)", "en": "Hydrochloric acid (HCl)"},
+            {"hi": "ऐसीटिक अम्ल", "en": "Acetic acid"}
+          ],
+          "answer": {"hi": "हाइड्रोक्लोरिक अम्ल (HCl)", "en": "Hydrochloric acid (HCl)"}
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "अपाचन (Indigestion) से मुक्ति के लिए किस प्रतिअम्ल का उपयोग होता है?",
+            "en": "Which antacid is used to relieve indigestion?"
+          },
+          "options": [
+            {"hi": "सिरका", "en": "Vinegar"},
+            {"hi": "नींबू का रस", "en": "Lemon juice"},
+            {"hi": "दूधिया मैग्नीशियम (Milk of Magnesia)", "en": "Milk of Magnesia"},
+            {"hi": "नमक", "en": "Salt"}
+          ],
+          "answer": {"hi": "दूधिया मैग्नीशियम (Milk of Magnesia)", "en": "Milk of Magnesia"}
+        },
+        {
+          "q": {
+            "hi": "चींटी के डंक के प्रभाव को उदासीन करने के लिए क्या लगाया जाता है?",
+            "en": "What is applied to neutralise the effect of an ant sting?"
+          },
+          "options": [
+            {"hi": "खाने का सोडा (बेकिंग सोडा)", "en": "Baking soda"},
+            {"hi": "सल्फ्यूरिक अम्ल", "en": "Sulphuric acid"},
+            {"hi": "तेल", "en": "Oil"},
+            {"hi": "पानी", "en": "Water"}
+          ],
+          "answer": {"hi": "खाने का सोडा (बेकिंग सोडा)", "en": "Baking soda"}
+        },
+        {
+          "q": {
+            "hi": "अत्यधिक अम्लीय मृदा (मिट्टी) को ठीक करने के लिए क्या मिलाया जाता है?",
+            "en": "What is added to treat highly acidic soil?"
+          },
+          "options": [
+            {"hi": "अम्ल", "en": "Acid"},
+            {"hi": "बिना बुझा चूना / बुझा हुआ चूना", "en": "Quick lime / Slaked lime"},
+            {"hi": "नमक", "en": "Salt"},
+            {"hi": "प्लास्टिक", "en": "Plastic"}
+          ],
+          "answer": {"hi": "बिना बुझा चूना / बुझा हुआ चूना", "en": "Quick lime / Slaked lime"}
+        },
+        {
+          "q": {
+            "hi": "यदि मृदा अत्यधिक क्षारकीय हो, तो उसमें क्या मिलाना चाहिए?",
+            "en": "What should be added if the soil is too basic?"
+          },
+          "options": [
+            {"hi": "चूना", "en": "Lime"},
+            {"hi": "जैव पदार्थ (कंपोस्ट खाद)", "en": "Organic matter (Compost)"},
+            {"hi": "रेत", "en": "Sand"},
+            {"hi": "पोटैशियम", "en": "Potassium"}
+          ],
+          "answer": {"hi": "जैव पदार्थ (कंपोस्ट खाद)", "en": "Organic matter (Compost)"}
+        },
+        {
+          "q": {
+            "hi": "कारखानों के अपशिष्ट को जलाशयों में बहाने से पहले क्या करना चाहिए?",
+            "en": "What should be done to factory waste before discharging it into water bodies?"
+          },
+          "options": [
+            {"hi": "और अम्ल मिलाना चाहिए", "en": "Add more acid"},
+            {"hi": "क्षारकीय पदार्थ मिलाकर उदासीन करना चाहिए", "en": "Neutralise by adding basic substances"},
+            {"hi": "उबालना चाहिए", "en": "Boil it"},
+            {"hi": "कुछ नहीं करना चाहिए", "en": "Do nothing"}
+          ],
+          "answer": {"hi": "क्षारकीय पदार्थ मिलाकर उदासीन करना चाहिए", "en": "Neutralise by adding basic substances"}
+        },
+        {
+          "q": {
+            "hi": "वर्षा जल में सल्फ्यूरिक अम्ल और नाइट्रिक अम्ल किसकी उपस्थिति से बनते हैं?",
+            "en": "Presence of which gases forms sulphuric and nitric acid in rain water?"
+          },
+          "options": [
+            {"hi": "ऑक्सीजन और हाइड्रोजन", "en": "Oxygen and hydrogen"},
+            {"hi": "नाइट्रोजन और हीलियम", "en": "Nitrogen and helium"},
+            {"hi": "सल्फर और नाइट्रोजन के डाइऑक्साइड", "en": "Dioxides of sulphur and nitrogen"},
+            {"hi": "मिथेन", "en": "Methane"}
+          ],
+          "answer": {"hi": "सल्फर और नाइट्रोजन के डाइऑक्साइड", "en": "Dioxides of sulphur and nitrogen"}
+        },
+        {
+          "q": {
+            "hi": "दंत क्षय (Tooth decay) मुख्य रूप से किसके कारण होता है?",
+            "en": "What is the main cause of tooth decay?"
+          },
+          "options": [
+            {"hi": "क्षारक से", "en": "From base"},
+            {"hi": "जीवाणुओं द्वारा बनाए गए अम्ल से", "en": "From acid produced by bacteria"},
+            {"hi": "नमक से", "en": "From salt"},
+            {"hi": "पानी से", "en": "From water"}
+          ],
+          "answer": {"hi": "जीवाणुओं द्वारा बनाए गए अम्ल से", "en": "From acid produced by bacteria"}
+        },
+        {
+          "q": {
+            "hi": "प्रयोगशाला अम्लों और क्षारकों के रखरखाव में क्या सावधानी बरतनी चाहिए?",
+            "en": "What precaution should be taken while handling lab acids and bases?"
+          },
+          "options": [
+            {"hi": "उन्हें चखना चाहिए", "en": "They should be tasted"},
+            {"hi": "वे संक्षारक होते हैं, सीधे स्पर्श से बचना चाहिए", "en": "They are corrosive, direct touch should be avoided"},
+            {"hi": "उन्हें खुला छोड़ना चाहिए", "en": "Leave them open"},
+            {"hi": "धूप में रखना चाहिए", "en": "Keep in sunlight"}
+          ],
+          "answer": {"hi": "वे संक्षारक होते हैं, सीधे स्पर्श से बचना चाहिए", "en": "They are corrosive, direct touch should be avoided"}
+        },
+        {
+          "q": {
+            "hi": "लाइकेन क्या है?",
+            "en": "What is a lichen?"
+          },
+          "options": [
+            {"hi": "एक जानवर", "en": "An animal"},
+            {"hi": "कवक और शैवाल का सहजीवन", "en": "Symbiosis of fungus and algae"},
+            {"hi": "एक प्रकार की मछली", "en": "A type of fish"},
+            {"hi": "एक मिट्टी", "en": "A soil"}
+          ],
+          "answer": {"hi": "कवक और शैवाल का सहजीवन", "en": "Symbiosis of fungus and algae"}
+        },
+        {
+          "q": {
+            "hi": "हल्दी के दाग पर साबुन लगाने से वह लाल क्यों हो जाता है?",
+            "en": "Why does a turmeric stain turn red when soap is applied?"
+          },
+          "options": [
+            {"hi": "साबुन अम्लीय होता है", "en": "Soap is acidic"},
+            {"hi": "साबुन क्षारकीय होता है", "en": "Soap is basic"},
+            {"hi": "साबुन उदासीन होता है", "en": "Soap is neutral"},
+            {"hi": "हल्दी खराब होती है", "en": "Turmeric is bad"}
+          ],
+          "answer": {"hi": "साबुन क्षारकीय होता है", "en": "Soap is basic"}
+        }
+      ],
+      "section5": [
+        {
+          "q": {
+            "hi": "DNA (डी-ऑक्सीराइबोन्यूक्लीइक अम्ल) कहाँ पाया जाता है?",
+            "en": "Where is DNA found?"
+          },
+          "options": [
+            {"hi": "केवल पेट में", "en": "Only in stomach"},
+            {"hi": "शरीर की प्रत्येक कोशिका में", "en": "In every cell of the body"},
+            {"hi": "केवल फेफड़ों में", "en": "Only in lungs"},
+            {"hi": "दाँतों में", "en": "In teeth"}
+          ],
+          "answer": {"hi": "शरीर की प्रत्येक कोशिका में", "en": "In every cell of the body"}
+        },
+        {
+          "q": {
+            "hi": "प्रोटीन किसके बने होते हैं?",
+            "en": "What are proteins made of?"
+          },
+          "options": [
+            {"hi": "वसा अम्ल", "en": "Fatty acids"},
+            {"hi": "ऐमीनो अम्ल", "en": "Amino acids"},
+            {"hi": "ऐसीटिक अम्ल", "en": "Acetic acid"},
+            {"hi": "नमक", "en": "Salt"}
+          ],
+          "answer": {"hi": "ऐमीनो अम्ल", "en": "Amino acids"}
+        },
+        {
+          "q": {
+            "hi": "हमारे शरीर में पाई जाने वाली वसा (Fat) क्या है?",
+            "en": "What is the fat found in our body?"
+          },
+          "options": [
+            {"hi": "साइट्रिक अम्ल", "en": "Citric acid"},
+            {"hi": "वसा अम्ल (Fatty acids)", "en": "Fatty acids"},
+            {"hi": "नाइट्रिक अम्ल", "en": "Nitric acid"},
+            {"hi": "शक्कर", "en": "Sugar"}
+          ],
+          "answer": {"hi": "वसा अम्ल (Fatty acids)", "en": "Fatty acids"}
+        },
+        {
+          "q": {
+            "hi": "उदासीनीकरण अभिक्रिया का एक उदाहरण लिखिए:",
+            "en": "Give an example of a neutralisation reaction:"
+          },
+          "options": [
+            {"hi": "HCl + NaOH -> NaCl + H2O", "en": "HCl + NaOH -> NaCl + H2O"},
+            {"hi": "H2 + O2 -> H2O", "en": "H2 + O2 -> H2O"},
+            {"hi": "C + O2 -> CO2", "en": "C + O2 -> CO2"},
+            {"hi": "N2 + H2 -> NH3", "en": "N2 + H2 -> NH3"}
+          ],
+          "answer": {"hi": "HCl + NaOH -> NaCl + H2O", "en": "HCl + NaOH -> NaCl + H2O"}
+        },
+        {
+          "q": {
+            "hi": "लाल लिटमस पत्र को नीला करने वाले पदार्थ की प्रकृति क्या है?",
+            "en": "What is the nature of a substance that turns red litmus paper blue?"
+          },
+          "options": [
+            {"hi": "अम्लीय", "en": "Acidic"},
+            {"hi": "क्षारकीय", "en": "Basic"},
+            {"hi": "उदासीन", "en": "Neutral"},
+            {"hi": "नमकीन", "en": "Salty"}
+          ],
+          "answer": {"hi": "क्षारकीय", "en": "Basic"}
+        },
+        {
+          "q": {
+            "hi": "नीले लिटमस को लाल करने वाला पदार्थ क्या है?",
+            "en": "What is the substance that turns blue litmus red?"
+          },
+          "options": [
+            {"hi": "क्षारक", "en": "Base"},
+            {"hi": "अम्ल", "en": "Acid"},
+            {"hi": "पानी", "en": "Water"},
+            {"hi": "तेल", "en": "Oil"}
+          ],
+          "answer": {"hi": "अम्ल", "en": "Acid"}
+        },
+        {
+          "q": {
+            "hi": "कॉफी का स्वाद कड़वा है, लेकिन इसकी प्रकृति क्या है?",
+            "en": "Coffee tastes bitter, but what is its nature?"
+          },
+          "options": [
+            {"hi": "क्षारकीय", "en": "Basic"},
+            {"hi": "अम्लीय", "en": "Acidic"},
+            {"hi": "उदासीन", "en": "Neutral"},
+            {"hi": "मीठा", "en": "Sweet"}
+          ],
+          "answer": {"hi": "अम्लीय", "en": "Acidic"}
+        },
+        {
+          "q": {
+            "hi": "कैलेमाइन (Calamine) विलयन में कौन-सा यौगिक होता है?",
+            "en": "Which compound is present in Calamine solution?"
+          },
+          "options": [
+            {"hi": "सोडियम कार्बोनेट", "en": "Sodium carbonate"},
+            {"hi": "जिंक कार्बोनेट", "en": "Zinc carbonate"},
+            {"hi": "कैल्सियम सल्फेट", "en": "Calcium sulphate"},
+            {"hi": "पोटैशियम क्लोराइड", "en": "Potassium chloride"}
+          ],
+          "answer": {"hi": "जिंक कार्बोनेट", "en": "Zinc carbonate"}
+        },
+        {
+          "q": {
+            "hi": "अम्ल वर्षा से किन ऐतिहासिक इमारतों को खतरा है?",
+            "en": "Which historical buildings are threatened by acid rain?"
+          },
+          "options": [
+            {"hi": "ताजमहल", "en": "Taj Mahal"},
+            {"hi": "लाल किला", "en": "Red Fort"},
+            {"hi": "उपर्युक्त सभी", "en": "All of the above"},
+            {"hi": "कोई नहीं", "en": "None"}
+          ],
+          "answer": {"hi": "उपर्युक्त सभी", "en": "All of the above"}
+        },
+        {
+          "q": {
+            "hi": "इनमें से कौन-सा सूचक कृत्रिम (मानव निर्मित) है?",
+            "en": "Which of these indicators is synthetic (man-made)?"
+          },
+          "options": [
+            {"hi": "हल्दी", "en": "Turmeric"},
+            {"hi": "लिटमस", "en": "Litmus"},
+            {"hi": "फ़िनॉल्फथेलिन", "en": "Phenolphthalein"},
+            {"hi": "गुड़हल", "en": "China rose"}
+          ],
+          "answer": {"hi": "फ़िनॉल्फथेलिन", "en": "Phenolphthalein"}
+        }
+      ]
     }
   }
+  
 }
