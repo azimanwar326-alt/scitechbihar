@@ -5957,9 +5957,672 @@
           "answer": {"hi": "हाँ, लगभग", "en": "Yes, nearly"}
         }
       ]
+    },
+    "chapter10": {
+      "section1": [
+        {
+          "q": {
+            "hi": "विद्युत अवयवों को आसानी से निरूपित करने के लिए किसका उपयोग किया जाता है?",
+            "en": "What is used to represent electric components easily?"
+          },
+          "options": [
+            {"hi": "चित्रों का", "en": "Pictures"},
+            {"hi": "प्रतीकों का", "en": "Symbols"},
+            {"hi": "नामों का", "en": "Names"},
+            {"hi": "रंगों का", "en": "Colors"}
+          ],
+          "answer": {"hi": "प्रतीकों का", "en": "Symbols"}
+        },
+        {
+          "q": {
+            "hi": "विद्युत सेल के प्रतीक में लंबी रेखा किसको निरूपित करती है?",
+            "en": "In the symbol of an electric cell, what does the longer line represent?"
+          },
+          "options": [
+            {"hi": "ऋण टर्मिनल", "en": "Negative terminal"},
+            {"hi": "धन टर्मिनल", "en": "Positive terminal"},
+            {"hi": "स्विच", "en": "Switch"},
+            {"hi": "बल्ब", "en": "Bulb"}
+          ],
+          "answer": {"hi": "धन टर्मिनल", "en": "Positive terminal"}
+        },
+        {
+          "q": {
+            "hi": "विद्युत सेल के प्रतीक में छोटी और मोटी रेखा किसको निरूपित करती है?",
+            "en": "In the symbol of an electric cell, what does the shorter, thicker line represent?"
+          },
+          "options": [
+            {"hi": "धन टर्मिनल", "en": "Positive terminal"},
+            {"hi": "ऋण टर्मिनल", "en": "Negative terminal"},
+            {"hi": "संयोजक तार", "en": "Connecting wire"},
+            {"hi": "बैटरी", "en": "Battery"}
+          ],
+          "answer": {"hi": "ऋण टर्मिनल", "en": "Negative terminal"}
+        },
+        {
+          "q": {
+            "hi": "दो या अधिक सेलों के संयोजन को क्या कहते हैं?",
+            "en": "What is a combination of two or more cells called?"
+          },
+          "options": [
+            {"hi": "परिपथ", "en": "Circuit"},
+            {"hi": "बैटरी", "en": "Battery"},
+            {"hi": "फ़्यूज़", "en": "Fuse"},
+            {"hi": "स्विच", "en": "Switch"}
+          ],
+          "answer": {"hi": "बैटरी", "en": "Battery"}
+        },
+        {
+          "q": {
+            "hi": "बैटरी बनाने के लिए एक सेल के धन टर्मिनल को दूसरे सेल के किस टर्मिनल से जोड़ा जाता है?",
+            "en": "To make a battery, the positive terminal of one cell is connected to which terminal of the next cell?"
+          },
+          "options": [
+            {"hi": "धन टर्मिनल", "en": "Positive terminal"},
+            {"hi": "ऋण टर्मिनल", "en": "Negative terminal"},
+            {"hi": "दोनों", "en": "Both"},
+            {"hi": "किसी से नहीं", "en": "None"}
+          ],
+          "answer": {"hi": "ऋण टर्मिनल", "en": "Negative terminal"}
+        },
+        {
+          "q": {
+            "hi": "टॉर्च, ट्रांजिस्टर और खिलौनों में सेलों को अक्सर कैसे रखा जाता है?",
+            "en": "How are cells often placed in torches, transistors, and toys?"
+          },
+          "options": [
+            {"hi": "केवल समांतर", "en": "Only parallel"},
+            {"hi": "एक के बाद दूसरे को", "en": "One after another"},
+            {"hi": "अलग-अलग", "en": "Separately"},
+            {"hi": "बिना तार के", "en": "Without wires"}
+          ],
+          "answer": {"hi": "एक के बाद दूसरे को", "en": "One after another"}
+        },
+        {
+          "q": {
+            "hi": "जब स्विच 'ऑन' की स्थिति में होता है, तो परिपथ क्या कहलाता है?",
+            "en": "When the switch is in the 'ON' position, what is the circuit called?"
+          },
+          "options": [
+            {"hi": "खुला परिपथ", "en": "Open circuit"},
+            {"hi": "बंद परिपथ", "en": "Closed circuit"},
+            {"hi": "खंडित परिपथ", "en": "Broken circuit"},
+            {"hi": "सुरक्षित परिपथ", "en": "Safe circuit"}
+          ],
+          "answer": {"hi": "बंद परिपथ", "en": "Closed circuit"}
+        },
+        {
+          "q": {
+            "hi": "जब स्विच 'ऑफ' की स्थिति में होता है, तो परिपथ कैसा होता है?",
+            "en": "When the switch is in the 'OFF' position, the circuit is?"
+          },
+          "options": [
+            {"hi": "बंद", "en": "Closed"},
+            {"hi": "खुला (अपूर्ण)", "en": "Open (Incomplete)"},
+            {"hi": "सक्रिय", "en": "Active"},
+            {"hi": "पूर्ण", "en": "Complete"}
+          ],
+          "answer": {"hi": "खुला (अपूर्ण)", "en": "Open (Incomplete)"}
+        },
+        {
+          "q": {
+            "hi": "विद्युत बल्ब में एक पतला तार होता है जो प्रकाश देता है, उसे क्या कहते हैं?",
+            "en": "What is the thin wire in an electric bulb that glows called?"
+          },
+          "options": [
+            {"hi": "स्विच", "en": "Switch"},
+            {"hi": "फिलामेंट (तंतु)", "en": "Filament"},
+            {"hi": "फ्यूज", "en": "Fuse"},
+            {"hi": "बैटरी", "en": "Battery"}
+          ],
+          "answer": {"hi": "फिलामेंट (तंतु)", "en": "Filament"}
+        },
+        {
+          "q": {
+            "hi": "बल्ब का तंतु टूट जाने पर बल्ब क्या कहलाता है?",
+            "en": "When the filament of the bulb breaks, the bulb is said to be?"
+          },
+          "options": [
+            {"hi": "चालू", "en": "On"},
+            {"hi": "फ्यूज", "en": "Fused"},
+            {"hi": "चमकदार", "en": "Glowing"},
+            {"hi": "नया", "en": "New"}
+          ],
+          "answer": {"hi": "फ्यूज", "en": "Fused"}
+        }
+      ],
+      "section2": [
+        {
+          "q": {
+            "hi": "जब तार से विद्युत धारा प्रवाहित होती है, तो वह गर्म हो जाता है। यह क्या कहलाता है?",
+            "en": "When electric current flows through a wire, it gets hot. What is this effect called?"
+          },
+          "options": [
+            {"hi": "चुंबकीय प्रभाव", "en": "Magnetic effect"},
+            {"hi": "तापीय प्रभाव", "en": "Heating effect"},
+            {"hi": "रासायनिक प्रभाव", "en": "Chemical effect"},
+            {"hi": "प्रकाशिक प्रभाव", "en": "Optical effect"}
+          ],
+          "answer": {"hi": "तापीय प्रभाव", "en": "Heating effect"}
+        },
+        {
+          "q": {
+            "hi": "विद्युत हीटर या प्रेस में तारों की कुंडली को क्या कहते हैं?",
+            "en": "What is the coil of wire in an electric heater or iron called?"
+          },
+          "options": [
+            {"hi": "तंतु", "en": "Filament"},
+            {"hi": "अवयव (एलीमेंट)", "en": "Element"},
+            {"hi": "फ्यूज", "en": "Fuse"},
+            {"hi": "स्विच", "en": "Switch"}
+          ],
+          "answer": {"hi": "अवयव (एलीमेंट)", "en": "Element"}
+        },
+        {
+          "q": {
+            "hi": "किसी तार में उत्पन्न ऊष्मा की मात्रा किस पर निर्भर करती है?",
+            "en": "The amount of heat produced in a wire depends on its?"
+          },
+          "options": [
+            {"hi": "पदार्थ", "en": "Material"},
+            {"hi": "लंबाई और मोटाई", "en": "Length and thickness"},
+            {"hi": "उपरोक्त दोनों", "en": "Both of above"},
+            {"hi": "केवल रंग", "en": "Only color"}
+          ],
+          "answer": {"hi": "उपरोक्त दोनों", "en": "Both of above"}
+        },
+        {
+          "q": {
+            "hi": "विद्युत बल्ब का तंतु किस धातु का बना होता है जो अत्यधिक गर्म होकर प्रकाश देता है?",
+            "en": "The filament of an electric bulb is made of which metal that glows at high temperature?"
+          },
+          "options": [
+            {"hi": "ताँबा", "en": "Copper"},
+            {"hi": "टंगस्टन", "en": "Tungsten"},
+            {"hi": "लोहा", "en": "Iron"},
+            {"hi": "एल्युमिनियम", "en": "Aluminium"}
+          ],
+          "answer": {"hi": "टंगस्टन", "en": "Tungsten"}
+        },
+        {
+          "q": {
+            "hi": "ऊर्जा की बर्बादी को कम करने के लिए बल्ब के स्थान पर किसका उपयोग करना बेहतर है?",
+            "en": "To reduce wastage of energy, what is better to use instead of bulbs?"
+          },
+          "options": [
+            {"hi": "मोमबत्ती", "en": "Candle"},
+            {"hi": "CFL और LED", "en": "CFL and LED"},
+            {"hi": "हीटर", "en": "Heater"},
+            {"hi": "बड़ा बल्ब", "en": "Big bulb"}
+          ],
+          "answer": {"hi": "CFL और LED", "en": "CFL and LED"}
+        },
+        {
+          "q": {
+            "hi": "आईएसआई (ISI) मार्क किन उत्पादों पर लगा होता है?",
+            "en": "ISI mark is placed on which products?"
+          },
+          "options": [
+            {"hi": "केवल भोजन", "en": "Only food"},
+            {"hi": "सुरक्षित विद्युत साधित्र", "en": "Safe electrical appliances"},
+            {"hi": "खिलौने", "en": "Toys"},
+            {"hi": "कपड़े", "en": "Clothes"}
+          ],
+          "answer": {"hi": "सुरक्षित विद्युत साधित्र", "en": "Safe electrical appliances"}
+        },
+        {
+          "q": {
+            "hi": "विशेष पदार्थों से बने तार जो अधिक धारा प्रवाहित होने पर पिघल जाते हैं, क्या कहलाते हैं?",
+            "en": "Wires made from special materials that melt when large current passes are called?"
+          },
+          "options": [
+            {"hi": "बैटरी", "en": "Battery"},
+            {"hi": "विद्युत फ़्यूज़", "en": "Electric Fuse"},
+            {"hi": "एलीमेंट", "en": "Element"},
+            {"hi": "कुंडली", "en": "Coil"}
+          ],
+          "answer": {"hi": "विद्युत फ़्यूज़", "en": "Electric Fuse"}
+        },
+        {
+          "q": {
+            "hi": "आजकल फ्यूज के स्थान पर किन स्विचों का उपयोग बढ़ रहा है?",
+            "en": "Nowadays, which switches are being used increasingly instead of fuses?"
+          },
+          "options": [
+            {"hi": "CFL", "en": "CFL"},
+            {"hi": "MCB", "en": "MCB"},
+            {"hi": "LED", "en": "LED"},
+            {"hi": "ISI", "en": "ISI"}
+          ],
+          "answer": {"hi": "MCB", "en": "MCB"}
+        },
+        {
+          "q": {
+            "hi": "MCB का पूर्ण रूप क्या है?",
+            "en": "What is the full form of MCB?"
+          },
+          "options": [
+            {"hi": "Main Circuit Board", "en": "Main Circuit Board"},
+            {"hi": "Miniature Circuit Breaker", "en": "Miniature Circuit Breaker"},
+            {"hi": "Motor Circuit Box", "en": "Motor Circuit Box"},
+            {"hi": "Mini Circuit Bulb", "en": "Mini Circuit Bulb"}
+          ],
+          "answer": {"hi": "Miniature Circuit Breaker", "en": "Miniature Circuit Breaker"}
+        },
+        {
+          "q": {
+            "hi": "विद्युत परिपथों में अत्यधिक धारा प्रवाहित होने का मुख्य कारण क्या है?",
+            "en": "What is the main reason for excessive current in electric circuits?"
+          },
+          "options": [
+            {"hi": "तारों का सीधा संपर्क (Short circuit)", "en": "Direct contact of wires (Short circuit)"},
+            {"hi": "स्विच ऑफ होना", "en": "Switch off"},
+            {"hi": "बैटरी का नया होना", "en": "New battery"},
+            {"hi": "बल्ब का फ्यूज होना", "en": "Fused bulb"}
+          ],
+          "answer": {"hi": "तारों का सीधा संपर्क (Short circuit)", "en": "Direct contact of wires (Short circuit)"}
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "हंस क्रिश्चियन ऑयर्स्टेड ने सबसे पहले विद्युत धारा के किस प्रभाव को देखा था?",
+            "en": "Which effect of electric current did Hans Christian Oersted observe first?"
+          },
+          "options": [
+            {"hi": "तापीय प्रभाव", "en": "Heating effect"},
+            {"hi": "चुंबकीय प्रभाव", "en": "Magnetic effect"},
+            {"hi": "प्रकाश प्रभाव", "en": "Light effect"},
+            {"hi": "ध्वनि प्रभाव", "en": "Sound effect"}
+          ],
+          "answer": {"hi": "चुंबकीय प्रभाव", "en": "Magnetic effect"}
+        },
+        {
+          "q": {
+            "hi": "विद्युत धारा प्रवाहित होने पर तार किसकी भाँति व्यवहार करता है?",
+            "en": "When electric current flows, the wire behaves like a?"
+          },
+          "options": [
+            {"hi": "प्लास्टिक", "en": "Plastic"},
+            {"hi": "चुंबक", "en": "Magnet"},
+            {"hi": "लकड़ी", "en": "Wood"},
+            {"hi": "शीशा", "en": "Glass"}
+          ],
+          "answer": {"hi": "चुंबक", "en": "Magnet"}
+        },
+        {
+          "q": {
+            "hi": "लोहे के टुकड़े पर लिपटी विद्युतरोधी तार की कुंडली क्या कहलाती है?",
+            "en": "What is a coil of insulated wire wrapped around an iron piece called?"
+          },
+          "options": [
+            {"hi": "स्थायी चुंबक", "en": "Permanent magnet"},
+            {"hi": "विद्युत चुंबक", "en": "Electromagnet"},
+            {"hi": "बैटरी", "en": "Battery"},
+            {"hi": "फ्यूज", "en": "Fuse"}
+          ],
+          "answer": {"hi": "विद्युत चुंबक", "en": "Electromagnet"}
+        },
+        {
+          "q": {
+            "hi": "विद्युत चुंबक का चुंबकीय गुण कब समाप्त हो जाता है?",
+            "en": "When does the magnetic property of an electromagnet disappear?"
+          },
+          "options": [
+            {"hi": "हमेशा रहता है", "en": "Stays forever"},
+            {"hi": "विद्युत धारा बंद करने पर", "en": "When current is switched off"},
+            {"hi": "तार गरम होने पर", "en": "When wire gets hot"},
+            {"hi": "रात के समय", "en": "At night"}
+          ],
+          "answer": {"hi": "विद्युत धारा बंद करने पर", "en": "When current is switched off"}
+        },
+        {
+          "q": {
+            "hi": "कबाड़ से लोहे के टुकड़ों को अलग करने के लिए किसका उपयोग किया जाता है?",
+            "en": "What is used to separate iron pieces from junk?"
+          },
+          "options": [
+            {"hi": "बड़ी छननी", "en": "Large sieve"},
+            {"hi": "विद्युत चुंबक युक्त क्रेन", "en": "Crane with electromagnet"},
+            {"hi": "पानी का फव्वारा", "en": "Water fountain"},
+            {"hi": "हाथ से चुनकर", "en": "Manual picking"}
+          ],
+          "answer": {"hi": "विद्युत चुंबक युक्त क्रेन", "en": "Crane with electromagnet"}
+        },
+        {
+          "q": {
+            "hi": "विद्युत घंटी (Electric Bell) में कौन सा मुख्य अवयव होता है?",
+            "en": "Which main component is present in an Electric Bell?"
+          },
+          "options": [
+            {"hi": "फ्यूज", "en": "Fuse"},
+            {"hi": "विद्युत चुंबक", "en": "Electromagnet"},
+            {"hi": "हीटिंग एलीमेंट", "en": "Heating element"},
+            {"hi": "सेल", "en": "Cell"}
+          ],
+          "answer": {"hi": "विद्युत चुंबक", "en": "Electromagnet"}
+        },
+        {
+          "q": {
+            "hi": "विद्युत घंटी में हथौड़ा किस पर प्रहार करके ध्वनि उत्पन्न करता है?",
+            "en": "In an electric bell, what does the hammer strike to produce sound?"
+          },
+          "options": [
+            {"hi": "तार पर", "en": "On wire"},
+            {"hi": "धातु की कटोरी पर (Gong)", "en": "On metal gong"},
+            {"hi": "बैटरी पर", "en": "On battery"},
+            {"hi": "स्विच पर", "en": "On switch"}
+          ],
+          "answer": {"hi": "धातु की कटोरी पर (Gong)", "en": "On metal gong"}
+        },
+        {
+          "q": {
+            "hi": "एक ही सॉकेट से कई साधित्रों (Appliances) को जोड़ने से क्या हो सकता है?",
+            "en": "Connecting many appliances to a single socket can cause?"
+          },
+          "options": [
+            {"hi": "अतिभारण (Overload)", "en": "Overload"},
+            {"hi": "बिजली की बचत", "en": "Power saving"},
+            {"hi": "बल्ब का तेज चमकना", "en": "Brighter bulb"},
+            {"hi": "कोई प्रभाव नहीं", "en": "No effect"}
+          ],
+          "answer": {"hi": "अतिभारण (Overload)", "en": "Overload"}
+        },
+        {
+          "q": {
+            "hi": "विद्युत बल्ब के आविष्कार का श्रेय किसे दिया जाता है?",
+            "en": "Who is credited with the invention of the electric bulb?"
+          },
+          "options": [
+            {"hi": "आइजैक न्यूटन", "en": "Isaac Newton"},
+            {"hi": "थॉमस अल्वा एडीसन", "en": "Thomas Alva Edison"},
+            {"hi": "अल्बर्ट आइंस्टीन", "en": "Albert Einstein"},
+            {"hi": "जेम्स वाट", "en": "James Watt"}
+          ],
+          "answer": {"hi": "थॉमस अल्वा एडीसन", "en": "Thomas Alva Edison"}
+        },
+        {
+          "q": {
+            "hi": "विद्युत धारा के तापीय प्रभाव पर आधारित युक्ति कौन सी है?",
+            "en": "Which device is based on the heating effect of electric current?"
+          },
+          "options": [
+            {"hi": "विद्युत घंटी", "en": "Electric bell"},
+            {"hi": "विद्युत इस्त्री (Press)", "en": "Electric iron"},
+            {"hi": "चुंबकीय सुई", "en": "Magnetic needle"},
+            {"hi": "टेलीफोन", "en": "Telephone"}
+          ],
+          "answer": {"hi": "विद्युत इस्त्री (Press)", "en": "Electric iron"}
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "बैटरी बनाने के लिए न्यूनतम कितने सेलों की आवश्यकता होती है?",
+            "en": "What is the minimum number of cells required to make a battery?"
+          },
+          "options": [
+            {"hi": "एक", "en": "One"},
+            {"hi": "दो", "en": "Two"},
+            {"hi": "चार", "en": "Four"},
+            {"hi": "दस", "en": "Ten"}
+          ],
+          "answer": {"hi": "दो", "en": "Two"}
+        },
+        {
+          "q": {
+            "hi": "विद्युत सेल के प्रतीक में समांतर रेखाएँ क्या दर्शाती हैं?",
+            "en": "What do parallel lines in the electric cell symbol show?"
+          },
+          "options": [
+            {"hi": "दो सेल", "en": "Two cells"},
+            {"hi": "टर्मिनल्स", "en": "Terminals"},
+            {"hi": "फ्यूज", "en": "Fuse"},
+            {"hi": "तार", "en": "Wire"}
+          ],
+          "answer": {"hi": "टर्मिनल्स", "en": "Terminals"}
+        },
+        {
+          "q": {
+            "hi": "विद्युत साधित्रों में 'एलीमेंट' का गर्म होना क्या कहलाता है?",
+            "en": "What is the glowing of 'element' in electric appliances called?"
+          },
+          "options": [
+            {"hi": "रक्त तप्त होना", "en": "Red hot"},
+            {"hi": "ठंडा होना", "en": "Cooling"},
+            {"hi": "फ्यूज होना", "en": "Fusing"},
+            {"hi": "टूटना", "en": "Breaking"}
+          ],
+          "answer": {"hi": "रक्त तप्त होना", "en": "Red hot"}
+        },
+        {
+          "q": {
+            "hi": "टेलीग्राफ में विद्युत धारा के किस प्रभाव का उपयोग किया जाता है?",
+            "en": "Which effect of electric current is used in a telegraph?"
+          },
+          "options": [
+            {"hi": "तापीय प्रभाव", "en": "Heating effect"},
+            {"hi": "चुंबकीय प्रभाव", "en": "Magnetic effect"},
+            {"hi": "ध्वनि प्रभाव", "en": "Sound effect"},
+            {"hi": "कोई नहीं", "en": "None"}
+          ],
+          "answer": {"hi": "चुंबकीय प्रभाव", "en": "Magnetic effect"}
+        },
+        {
+          "q": {
+            "hi": "क्या विद्युत चुंबक का उपयोग शरीर के अंदर से लोहे के कण निकालने में किया जा सकता है?",
+            "en": "Can electromagnets be used to remove iron particles from inside the body?"
+          },
+          "options": [
+            {"hi": "हाँ, डॉक्टर करते हैं", "en": "Yes, doctors do"},
+            {"hi": "नहीं, यह खतरनाक है", "en": "No, it's dangerous"},
+            {"hi": "केवल कबाड़ में", "en": "Only in junk"},
+            {"hi": "संभव नहीं है", "en": "Not possible"}
+          ],
+          "answer": {"hi": "हाँ, डॉक्टर करते हैं", "en": "Yes, doctors do"}
+        },
+        {
+          "q": {
+            "hi": "विद्युत फ्यूज का मुख्य कार्य क्या है?",
+            "en": "What is the main function of an electric fuse?"
+          },
+          "options": [
+            {"hi": "धारा बढ़ाना", "en": "Increase current"},
+            {"hi": "परिपथ की सुरक्षा करना", "en": "Protect the circuit"},
+            {"hi": "बैटरी चार्ज करना", "en": "Charge battery"},
+            {"hi": "प्रकाश देना", "en": "Give light"}
+          ],
+          "answer": {"hi": "परिपथ की सुरक्षा करना", "en": "Protect the circuit"}
+        },
+        {
+          "q": {
+            "hi": "विद्युत परिपथ का वह भाग जो धारा को रोकता या शुरू करता है?",
+            "en": "Part of an electric circuit that stops or starts the current?"
+          },
+          "options": [
+            {"hi": "बल्ब", "en": "Bulb"},
+            {"hi": "तार", "en": "Wire"},
+            {"hi": "स्विच", "en": "Switch"},
+            {"hi": "फ्यूज", "en": "Fuse"}
+          ],
+          "answer": {"hi": "स्विच", "en": "Switch"}
+        },
+        {
+          "q": {
+            "hi": "ट्रकों और कारों की बैटरी में सेलों को कैसे जोड़ा जाता है?",
+            "en": "How are cells connected in truck and car batteries?"
+          },
+          "options": [
+            {"hi": "केवल एक सेल होता है", "en": "Only one cell"},
+            {"hi": "कई सेलों का संयोजन", "en": "Combination of several cells"},
+            {"hi": "बिना सेल के", "en": "Without cell"},
+            {"hi": "परावर्तन द्वारा", "en": "By reflection"}
+          ],
+          "answer": {"hi": "कई सेलों का संयोजन", "en": "Combination of several cells"}
+        },
+        {
+          "q": {
+            "hi": "विद्युत सेल के प्रतीक में मोटी रेखा क्या है?",
+            "en": "What is the thick line in the electric cell symbol?"
+          },
+          "options": [
+            {"hi": "ऋण टर्मिनल", "en": "Negative terminal"},
+            {"hi": "धन टर्मिनल", "en": "Positive terminal"},
+            {"hi": "बल्ब", "en": "Bulb"},
+            {"hi": "स्विच", "en": "Switch"}
+          ],
+          "answer": {"hi": "ऋण टर्मिनल", "en": "Negative terminal"}
+        },
+        {
+          "q": {
+            "hi": "क्या चुंबक के पास रखी कंपास सुई विक्षेपित होती है?",
+            "en": "Does a compass needle near a magnet get deflected?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "केवल गर्म होने पर", "en": "Only when hot"},
+            {"hi": "कभी-कभी", "en": "Sometimes"}
+          ],
+          "answer": {"hi": "हाँ", "en": "Yes"}
+        }
+      ],
+      "section5": [
+        {
+          "q": {
+            "hi": "विद्युत परिपथ खींचते समय बल्ब के लिए किस प्रतीक का उपयोग होता है?",
+            "en": "Which symbol is used for a bulb while drawing a circuit?"
+          },
+          "options": [
+            {"hi": "दो समांतर रेखाएं", "en": "Two parallel lines"},
+            {"hi": "घुमावदार तंतु युक्त वृत्त", "en": "Circle with coiled filament"},
+            {"hi": "लंबी रेखा", "en": "Long line"},
+            {"hi": "बिंदु", "en": "Dot"}
+          ],
+          "answer": {"hi": "घुमावदार तंतु युक्त वृत्त", "en": "Circle with coiled filament"}
+        },
+        {
+          "q": {
+            "hi": "फ्यूज उड़ने का क्या अर्थ है?",
+            "en": "What does 'fuse blowing' mean?"
+          },
+          "options": [
+            {"hi": "फ्यूज तार का पिघलकर टूटना", "en": "Fuse wire melting and breaking"},
+            {"hi": "बल्ब का जलना", "en": "Bulb glowing"},
+            {"hi": "बैटरी का नया होना", "en": "Battery being new"},
+            {"hi": "स्विच ऑन होना", "en": "Switch being on"}
+          ],
+          "answer": {"hi": "फ्यूज तार का पिघलकर टूटना", "en": "Fuse wire melting and breaking"}
+        },
+        {
+          "q": {
+            "hi": "विद्युत धारा के तापीय प्रभाव का उदाहरण नहीं है?",
+            "en": "Which is not an example of the heating effect of electric current?"
+          },
+          "options": [
+            {"hi": "गीजर", "en": "Geyser"},
+            {"hi": "विद्युत केतली", "en": "Electric kettle"},
+            {"hi": "विद्युत घंटी", "en": "Electric bell"},
+            {"hi": "हॉट प्लेट", "en": "Hot plate"}
+          ],
+          "answer": {"hi": "विद्युत घंटी", "en": "Electric bell"}
+        },
+        {
+          "q": {
+            "hi": "विद्युत चुंबक की प्रबलता कैसे बढ़ाई जा सकती है?",
+            "en": "How can the strength of an electromagnet be increased?"
+          },
+          "options": [
+            {"hi": "फेरों की संख्या बढ़ाकर", "en": "Increasing number of turns"},
+            {"hi": "धारा बंद करके", "en": "Switching off current"},
+            {"hi": "तार हटाकर", "en": "Removing wire"},
+            {"hi": "बल्ब लगाकर", "en": "Adding a bulb"}
+          ],
+          "answer": {"hi": "फेरों की संख्या बढ़ाकर", "en": "Increasing number of turns"}
+        },
+        {
+          "q": {
+            "hi": "विद्युत सेल का सिरा जो टोपी जैसा होता है, वह क्या है?",
+            "en": "The end of an electric cell that is like a cap is?"
+          },
+          "options": [
+            {"hi": "ऋण सिरा", "en": "Negative end"},
+            {"hi": "धन सिरा", "en": "Positive end"},
+            {"hi": "उदासीन", "en": "Neutral"},
+            {"hi": "प्लास्टिक", "en": "Plastic"}
+          ],
+          "answer": {"hi": "धन सिरा", "en": "Positive end"}
+        },
+        {
+          "q": {
+            "hi": "खुले परिपथ में धारा का प्रवाह कैसा होता है?",
+            "en": "How is current flow in an open circuit?"
+          },
+          "options": [
+            {"hi": "बहुत तेज", "en": "Very fast"},
+            {"hi": "बिल्कुल नहीं", "en": "Not at all"},
+            {"hi": "धीमा", "en": "Slow"},
+            {"hi": "अनियमित", "en": "Irregular"}
+          ],
+          "answer": {"hi": "बिल्कुल नहीं", "en": "Not at all"}
+        },
+        {
+          "q": {
+            "hi": "कौन सी गैस विद्युत बल्ब में भरी जाती है?",
+            "en": "Which gas is filled in electric bulbs?"
+          },
+          "options": [
+            {"hi": "ऑक्सीजन", "en": "Oxygen"},
+            {"hi": "नाइट्रोजन या आर्गन", "en": "Nitrogen or Argon"},
+            {"hi": "हाइड्रोजन", "en": "Hydrogen"},
+            {"hi": "क्लोरीन", "en": "Chlorine"}
+          ],
+          "answer": {"hi": "नाइट्रोजन या आर्गन", "en": "Nitrogen or Argon"}
+        },
+        {
+          "q": {
+            "hi": "विद्युत चुंबक का उपयोग किसमें किया जाता है?",
+            "en": "Electromagnets are used in?"
+          },
+          "options": [
+            {"hi": "खिलौनों में", "en": "In toys"},
+            {"hi": "टेलीफोन में", "en": "In telephones"},
+            {"hi": "विद्युत घंटी में", "en": "In electric bells"},
+            {"hi": "उपरोक्त सभी में", "en": "In all of above"}
+          ],
+          "answer": {"hi": "उपरोक्त सभी में", "en": "In all of above"}
+        },
+        {
+          "q": {
+            "hi": "विद्युत धारा का तापीय प्रभाव सबसे पहले किसने दिया?",
+            "en": "Who first gave the heating effect of electric current?"
+          },
+          "options": [
+            {"hi": "न्यूटन", "en": "Newton"},
+            {"hi": "जूल", "en": "Joule"},
+            {"hi": "एडीसन", "en": "Edison"},
+            {"hi": "वाट", "en": "Watt"}
+          ],
+          "answer": {"hi": "जूल", "en": "Joule"}
+        },
+        {
+          "q": {
+            "hi": "क्या फ्यूज तार का प्रतिरोध उच्च होना चाहिए?",
+            "en": "Should the fuse wire have high resistance?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "फर्क नहीं पड़ता", "en": "Doesn't matter"},
+            {"hi": "केवल एसी में", "en": "Only in AC"}
+          ],
+          "answer": {"hi": "हाँ", "en": "Yes"}
+        }
+      ]
     }
   }
 }
+
 
 
 
