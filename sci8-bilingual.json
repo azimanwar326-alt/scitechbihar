@@ -662,668 +662,669 @@
         }
       ]
     },
-    "chapter02": {
+    "chapter02":{
       "section1": [
         {
           "q": {
-            "hi": "प्राणी अपना भोजन प्रत्यक्ष अथवा परोक्ष रूप से किससे प्राप्त करते हैं?",
-            "en": "From where do animals obtain their food directly or indirectly?"
+            "hi": "वे जीव जिन्हें हम बिना यंत्र की सहायता से केवल आँखों से नहीं देख सकते, क्या कहलाते हैं?",
+            "en": "What are those organisms called which we cannot see with the naked eye without the help of an instrument?"
           },
           "options": [
-            {"hi": "हवा से", "en": "From air"},
-            {"hi": "पौधों से", "en": "From plants"},
-            {"hi": "मिट्टी से", "en": "From soil"},
-            {"hi": "बादलों से", "en": "From clouds"}
+            {"hi": "कीट", "en": "Insects"},
+            {"hi": "सूक्ष्मजीव", "en": "Microorganisms"},
+            {"hi": "जन्तु", "en": "Animals"},
+            {"hi": "पौधे", "en": "Plants"}
           ],
-          "answer": {"hi": "पौधों से", "en": "From plants"}
+          "answer": {"hi": "सूक्ष्मजीव", "en": "Microorganisms"}
         },
         {
           "q": {
-            "hi": "जटिल खाद्य पदार्थों का सरल पदार्थों में परिवर्तित होना क्या कहलाता है?",
-            "en": "The breakdown of complex components of food into simpler substances is called?"
+            "hi": "सूक्ष्मजीवों को कितने मुख्य वर्गों में बाँटा गया है?",
+            "en": "Into how many main groups are microorganisms divided?"
           },
           "options": [
-            {"hi": "श्वसन", "en": "Respiration"},
-            {"hi": "पाचन", "en": "Digestion"},
-            {"hi": "उत्सर्जन", "en": "Excretion"},
-            {"hi": "प्रकाश संश्लेषण", "en": "Photosynthesis"}
+            {"hi": "दो", "en": "Two"},
+            {"hi": "तीन", "en": "Three"},
+            {"hi": "चार", "en": "Four"},
+            {"hi": "पाँच", "en": "Five"}
           ],
-          "answer": {"hi": "पाचन", "en": "Digestion"}
+          "answer": {"hi": "चार", "en": "Four"}
         },
         {
           "q": {
-            "hi": "मधुमक्खी एवं मर्मर पक्षी (हमिंग बर्ड) भोजन किस विधि से ग्रहण करते हैं?",
-            "en": "What is the mode of taking food in bees and hummingbirds?"
+            "hi": "अमीबा और पैरामीशियम किस सूक्ष्मजीव वर्ग के उदाहरण हैं?",
+            "en": "Amoeba and Paramecium are examples of which group of microorganisms?"
           },
           "options": [
-            {"hi": "चूसना", "en": "Sucking"},
-            {"hi": "निगलना", "en": "Swallowing"},
-            {"hi": "चबाना", "en": "Chewing"},
-            {"hi": "पकड़ना", "en": "Capturing"}
+            {"hi": "जीवाणु", "en": "Bacteria"},
+            {"hi": "कवक", "en": "Fungi"},
+            {"hi": "प्रोटोजोआ", "en": "Protozoa"},
+            {"hi": "शैवाल", "en": "Algae"}
           ],
-          "answer": {"hi": "चूसना", "en": "Sucking"}
+          "answer": {"hi": "प्रोटोजोआ", "en": "Protozoa"}
         },
         {
           "q": {
-            "hi": "अजगर जैसे सर्प भोजन किस प्रकार ग्रहण करते हैं?",
-            "en": "How do snakes like pythons take their food?"
+            "hi": "विषाणु (वायरस) कहाँ गुणन करते हैं?",
+            "en": "Where do viruses reproduce?"
           },
           "options": [
-            {"hi": "चबाकर", "en": "By chewing"},
-            {"hi": "चूसकर", "en": "By sucking"},
-            {"hi": "पूरा निगलकर", "en": "By swallowing whole"},
-            {"hi": "छानकर", "en": "By filtering"}
+            {"hi": "केवल जल में", "en": "Only in water"},
+            {"hi": "केवल मिट्टी में", "en": "Only in soil"},
+            {"hi": "केवल परपोषी की कोशिकाओं में", "en": "Only inside the cells of the host"},
+            {"hi": "हवा में स्वतंत्र रूप से", "en": "Freely in the air"}
           ],
-          "answer": {"hi": "पूरा निगलकर", "en": "By swallowing whole"}
+          "answer": {"hi": "केवल परपोषी की कोशिकाओं में", "en": "Only inside the cells of the host"}
         },
         {
           "q": {
-            "hi": "स्टारफिश (तारा मछली) का मुख्य आहार क्या है?",
-            "en": "What is the primary food of starfish?"
+            "hi": "मलेरिया और अतिसार (Dysentery) किसके द्वारा होते हैं?",
+            "en": "Malaria and Dysentery are caused by which organism?"
           },
           "options": [
-            {"hi": "घास", "en": "Grass"},
-            {"hi": "कैल्सियम कार्बोनेट के कठोर कवच वाले जंतु", "en": "Animals covered by hard shells of calcium carbonate"},
-            {"hi": "मकरंद", "en": "Nectar"},
-            {"hi": "मिट्टी", "en": "Soil"}
+            {"hi": "जीवाणु", "en": "Bacteria"},
+            {"hi": "विषाणु", "en": "Virus"},
+            {"hi": "प्रोटोजोआ", "en": "Protozoa"},
+            {"hi": "कवक", "en": "Fungi"}
           ],
-          "answer": {"hi": "कैल्सियम कार्बोनेट के कठोर कवच वाले जंतु", "en": "Animals covered by hard shells of calcium carbonate"}
+          "answer": {"hi": "प्रोटोजोआ", "en": "Protozoa"}
         },
         {
           "q": {
-            "hi": "भोजन को शरीर के अंदर लेने की क्रिया क्या कहलाती है?",
-            "en": "The process of taking food into the body is called?"
+            "hi": "दूध को दही में परिवर्तित करने वाला प्रमुख जीवाणु कौन सा है?",
+            "en": "Which is the main bacterium that converts milk into curd?"
           },
           "options": [
-            {"hi": "पाचन", "en": "Digestion"},
-            {"hi": "अवशोषण", "en": "Absorption"},
-            {"hi": "अंतर्ग्रहण", "en": "Ingestion"},
-            {"hi": "निष्कासन", "en": "Egestion"}
+            {"hi": "राइजोबियम", "en": "Rhizobium"},
+            {"hi": "लैक्टोबैसिलस", "en": "Lactobacillus"},
+            {"hi": "यीस्ट", "en": "Yeast"},
+            {"hi": "स्ट्रेप्टोकोकस", "en": "Streptococcus"}
           ],
-          "answer": {"hi": "अंतर्ग्रहण", "en": "Ingestion"}
+          "answer": {"hi": "लैक्टोबैसिलस", "en": "Lactobacillus"}
         },
         {
           "q": {
-            "hi": "मानव पाचन नली (आहार नाल) कहाँ से शुरू होती है?",
-            "en": "The human digestive tract starts from which part?"
+            "hi": "ब्रेड और केक बनाने के लिए किस सूक्ष्मजीव का उपयोग किया जाता है?",
+            "en": "Which microorganism is used to make bread and cakes?"
           },
           "options": [
-            {"hi": "आमाशय", "en": "Stomach"},
-            {"hi": "मुख-गुहिका", "en": "Buccal cavity"},
-            {"hi": "क्षुद्रांत्र", "en": "Small intestine"},
-            {"hi": "ग्रसिका", "en": "Oesophagus"}
+            {"hi": "अमीबा", "en": "Amoeba"},
+            {"hi": "यीस्ट (खमीर)", "en": "Yeast"},
+            {"hi": "शैवाल", "en": "Algae"},
+            {"hi": "प्रोटोजोआ", "en": "Protozoa"}
           ],
-          "answer": {"hi": "मुख-गुहिका", "en": "Buccal cavity"}
+          "answer": {"hi": "यीस्ट (खमीर)", "en": "Yeast"}
         },
         {
           "q": {
-            "hi": "दूध के दाँत लगभग किस आयु तक गिर जाते हैं?",
-            "en": "At approximately what age do milk teeth fall off?"
+            "hi": "वर्षा ऋतु में नम ब्रेड पर उगने वाले काले धब्बे वास्तव में क्या हैं?",
+            "en": "What are the black spots that grow on moist bread during the rainy season?"
           },
           "options": [
-            {"hi": "2 वर्ष", "en": "2 years"},
-            {"hi": "5 वर्ष", "en": "5 years"},
-            {"hi": "8 वर्ष", "en": "8 years"},
-            {"hi": "15 वर्ष", "en": "15 years"}
+            {"hi": "जीवाणु", "en": "Bacteria"},
+            {"hi": "शैवाल", "en": "Algae"},
+            {"hi": "कवक", "en": "Fungi"},
+            {"hi": "विषाणु", "en": "Virus"}
           ],
-          "answer": {"hi": "8 वर्ष", "en": "8 years"}
+          "answer": {"hi": "कवक", "en": "Fungi"}
         },
         {
           "q": {
-            "hi": "भोजन को काटने एवं दंशन के लिए किन दाँतों का उपयोग होता है?",
-            "en": "Which teeth are used for cutting and biting?"
+            "hi": "यीस्ट श्वसन के दौरान कौन सी गैस उत्पन्न करता है जिससे मैदा फूल जाता है?",
+            "en": "Which gas does yeast produce during respiration that makes the dough rise?"
           },
           "options": [
-            {"hi": "रदनक", "en": "Canines"},
-            {"hi": "चर्वणक", "en": "Molars"},
-            {"hi": "कृतक", "en": "Incisors"},
-            {"hi": "अग्रचर्वणक", "en": "Premolars"}
+            {"hi": "ऑक्सीजन", "en": "Oxygen"},
+            {"hi": "नाइट्रोजन", "en": "Nitrogen"},
+            {"hi": "कार्बन डाइऑक्साइड", "en": "Carbon dioxide"},
+            {"hi": "हाइड्रोजन", "en": "Hydrogen"}
           ],
-          "answer": {"hi": "कृतक", "en": "Incisors"}
+          "answer": {"hi": "कार्बन डाइऑक्साइड", "en": "Carbon dioxide"}
         },
         {
           "q": {
-            "hi": "दाँतों को चीरने और फाड़ने के काम कौन से दाँत आते हैं?",
-            "en": "Which teeth are meant for piercing and tearing?"
+            "hi": "सूक्ष्मजीव कहाँ पाए जाते हैं?",
+            "en": "Where are microorganisms found?"
           },
           "options": [
-            {"hi": "कृतक", "en": "Incisors"},
-            {"hi": "रदनक", "en": "Canines"},
-            {"hi": "अग्रचर्वणक", "en": "Premolars"},
-            {"hi": "चर्वणक", "en": "Molars"}
+            {"hi": "केवल ठंडे स्थानों में", "en": "Only in cold places"},
+            {"hi": "केवल गर्म झरनों में", "en": "Only in hot springs"},
+            {"hi": "केवल मरुस्थल में", "en": "Only in deserts"},
+            {"hi": "सभी प्रकार की परिस्थितियों में", "en": "In all types of environments"}
           ],
-          "answer": {"hi": "रदनक", "en": "Canines"}
+          "answer": {"hi": "सभी प्रकार की परिस्थितियों में", "en": "In all types of environments"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "मुख में लाला रस (लार) क्या कार्य करता है?",
-            "en": "What is the function of saliva in the mouth?"
+            "hi": "चीनी के एल्कोहल में परिवर्तन की प्रक्रिया क्या कहलाती है?",
+            "en": "What is the process of conversion of sugar into alcohol called?"
           },
           "options": [
-            {"hi": "वसा को पचाना", "en": "Digesting fat"},
-            {"hi": "मंड को शर्करा में बदलना", "en": "Converting starch into sugars"},
-            {"hi": "अम्ल बनाना", "en": "Making acid"},
-            {"hi": "हड्डियों को मजबूत करना", "en": "Strengthening bones"}
+            {"hi": "नाइट्रोजन स्थिरीकरण", "en": "Nitrogen fixation"},
+            {"hi": "किण्वन (फर्मेंटेशन)", "en": "Fermentation"},
+            {"hi": "मोल्डिंग", "en": "Moulding"},
+            {"hi": "संक्रमण", "en": "Infection"}
           ],
-          "answer": {"hi": "मंड को शर्करा में बदलना", "en": "Converting starch into sugars"}
+          "answer": {"hi": "किण्वन (फर्मेंटेशन)", "en": "Fermentation"}
         },
         {
           "q": {
-            "hi": "जीभ एक कैसा अंग है?",
-            "en": "What kind of organ is the tongue?"
+            "hi": "लुई पाश्चर ने किण्वन की खोज कब की थी?",
+            "en": "When did Louis Pasteur discover fermentation?"
           },
           "options": [
-            {"hi": "अस्थिल अंग", "en": "Bony organ"},
-            {"hi": "माँसल पेशीय अंग", "en": "Fleshy muscular organ"},
-            {"hi": "कठोर अंग", "en": "Hard organ"},
-            {"hi": "संवेदी बाल", "en": "Sensory hair"}
+            {"hi": "1850", "en": "1850"},
+            {"hi": "1857", "en": "1857"},
+            {"hi": "1929", "en": "1929"},
+            {"hi": "1798", "en": "1798"}
           ],
-          "answer": {"hi": "माँसल पेशीय अंग", "en": "Fleshy muscular organ"}
+          "answer": {"hi": "1857", "en": "1857"}
         },
         {
           "q": {
-            "hi": "दंत क्षय का मुख्य कारण क्या है?",
-            "en": "What is the main cause of tooth decay?"
+            "hi": "बीमारी पैदा करने वाले सूक्ष्मजीवों को नष्ट करने वाली औषधियाँ क्या कहलाती हैं?",
+            "en": "What are the medicines that destroy disease-causing microorganisms called?"
           },
           "options": [
-            {"hi": "फल खाना", "en": "Eating fruits"},
-            {"hi": "जीवाणुओं द्वारा शर्करा का विघटन कर अम्ल बनाना", "en": "Breakdown of sugars by bacteria to release acid"},
-            {"hi": "पानी पीना", "en": "Drinking water"},
-            {"hi": "नमक का उपयोग", "en": "Use of salt"}
+            {"hi": "टीका (वैक्सीन)", "en": "Vaccine"},
+            {"hi": "प्रतिरक्षी (Antibodies)", "en": "Antibodies"},
+            {"hi": "प्रतिजैविक (Antibiotics)", "en": "Antibiotics"},
+            {"hi": "दर्दनाशक", "en": "Painkillers"}
           ],
-          "answer": {"hi": "जीवाणुओं द्वारा शर्करा का विघटन कर अम्ल बनाना", "en": "Breakdown of sugars by bacteria to release acid"}
+          "answer": {"hi": "प्रतिजैविक (Antibiotics)", "en": "Antibiotics"}
         },
         {
           "q": {
-            "hi": "ग्रसिका में भोजन की गति कैसी होती है?",
-            "en": "How does food move in the oesophagus?"
+            "hi": "अलेक्जेंडर फ्लैमिंग ने किस प्रतिजैविक की खोज की थी?",
+            "en": "Which antibiotic was discovered by Alexander Fleming?"
           },
           "options": [
-            {"hi": "ऊपर की ओर", "en": "Upwards"},
-            {"hi": "भित्ति के संकुचन के कारण नीचे की ओर", "en": "Downwards due to contraction of walls"},
-            {"hi": "स्थिर रहती है", "en": "Stays still"},
-            {"hi": "तेजी से गिरती है", "en": "Falls rapidly"}
+            {"hi": "स्ट्रेप्टोमाइसिन", "en": "Streptomycin"},
+            {"hi": "पेनिसिलिन", "en": "Penicillin"},
+            {"hi": "टेट्रासाइक्लिन", "en": "Tetracycline"},
+            {"hi": "एरिथ्रोमाइसिन", "en": "Erythromycin"}
           ],
-          "answer": {"hi": "भित्ति के संकुचन के कारण नीचे की ओर", "en": "Downwards due to contraction of walls"}
+          "answer": {"hi": "पेनिसिलिन", "en": "Penicillin"}
         },
         {
           "q": {
-            "hi": "आहार नाल का सबसे चौड़ा भाग कौन सा है?",
-            "en": "Which is the widest part of the alimentary canal?"
+            "hi": "प्रतिजैविक औषधियाँ किस सूक्ष्मजीव वर्ग से तैयार की जाती हैं?",
+            "en": "From which groups of microorganisms are antibiotic medicines prepared?"
           },
           "options": [
-            {"hi": "मुख-गुहिका", "en": "Buccal cavity"},
-            {"hi": "क्षुद्रांत्र", "en": "Small intestine"},
-            {"hi": "आमाशय", "en": "Stomach"},
-            {"hi": "बृहदांत्र", "en": "Large intestine"}
+            {"hi": "जीवाणु और कवक", "en": "Bacteria and Fungi"},
+            {"hi": "विषाणु और शैवाल", "en": "Viruses and Algae"},
+            {"hi": "प्रोटोजोआ और जीवाणु", "en": "Protozoa and Bacteria"},
+            {"hi": "कवक और शैवाल", "en": "Fungi and Algae"}
           ],
-          "answer": {"hi": "आमाशय", "en": "Stomach"}
+          "answer": {"hi": "जीवाणु और कवक", "en": "Bacteria and Fungi"}
         },
         {
           "q": {
-            "hi": "आमाशय का आकार अंग्रेजी के किस अक्षर जैसा होता है?",
-            "en": "The stomach is shaped like which English alphabet?"
+            "hi": "सर्दी-जुकाम एवं फ्लू में प्रतिजैविक प्रभावशाली क्यों नहीं होते?",
+            "en": "Why are antibiotics not effective against common cold and flu?"
           },
           "options": [
-            {"hi": "O", "en": "O"},
-            {"hi": "J", "en": "J"},
-            {"hi": "C", "en": "C"},
-            {"hi": "L", "en": "L"}
+            {"hi": "वे जीवाणु द्वारा होते हैं", "en": "They are caused by bacteria"},
+            {"hi": "वे विषाणु द्वारा होते हैं", "en": "They are caused by viruses"},
+            {"hi": "वे कवक द्वारा होते हैं", "en": "They are caused by fungi"},
+            {"hi": "वे प्रोटोजोआ द्वारा होते हैं", "en": "They are caused by protozoa"}
           ],
-          "answer": {"hi": "J", "en": "J"}
+          "answer": {"hi": "वे विषाणु द्वारा होते हैं", "en": "They are caused by viruses"}
         },
         {
           "q": {
-            "hi": "आमाशय में स्रावित होने वाला हाइड्रोक्लोरिक अम्ल क्या करता है?",
-            "en": "What is the function of hydrochloric acid secreted in the stomach?"
+            "hi": "अलेक्जेंडर फ्लैमिंग ने पेनिसिलिन की खोज किस वर्ष की थी?",
+            "en": "In which year did Alexander Fleming discover Penicillin?"
           },
           "options": [
-            {"hi": "भोजन को ठंडा करना", "en": "Cooling the food"},
-            {"hi": "जीवाणुओं को नष्ट करना एवं माध्यम अम्लीय बनाना", "en": "Killing bacteria and making the medium acidic"},
-            {"hi": "वसा को पचाना", "en": "Digesting fat"},
-            {"hi": "विटामिन बनाना", "en": "Making vitamins"}
+            {"hi": "1857", "en": "1857"},
+            {"hi": "1798", "en": "1798"},
+            {"hi": "1929", "en": "1929"},
+            {"hi": "1945", "en": "1945"}
           ],
-          "answer": {"hi": "जीवाणुओं को नष्ट करना एवं माध्यम अम्लीय बनाना", "en": "Killing bacteria and making the medium acidic"}
+          "answer": {"hi": "1929", "en": "1929"}
         },
         {
           "q": {
-            "hi": "आमाशय में पाचक रस (जठर रस) किसका पाचन करते हैं?",
-            "en": "Digestive juices in the stomach break down which component?"
+            "hi": "डॉक्टर की सलाह के बिना अनावश्यक रूप से प्रतिजैविक लेने का क्या नुकसान है?",
+            "en": "What is the disadvantage of taking antibiotics unnecessarily without a doctor's advice?"
           },
           "options": [
-            {"hi": "कार्बोहाइड्रेट", "en": "Carbohydrates"},
-            {"hi": "विटामिन", "en": "Vitamins"},
-            {"hi": "प्रोटीन", "en": "Proteins"},
-            {"hi": "वसा", "en": "Fats"}
+            {"hi": "यह नींद लाती है", "en": "It induces sleep"},
+            {"hi": "यह उपयोगी जीवाणुओं को नष्ट कर सकती है", "en": "It can destroy useful bacteria"},
+            {"hi": "यह भूख बढ़ाती है", "en": "It increases appetite"},
+            {"hi": "इससे बुखार हो सकता है", "en": "It can cause fever"}
           ],
-          "answer": {"hi": "प्रोटीन", "en": "Proteins"}
+          "answer": {"hi": "यह उपयोगी जीवाणुओं को नष्ट कर सकती है", "en": "It can destroy useful bacteria"}
         },
         {
           "q": {
-            "hi": "क्षुद्रांत्र (छोटी आँत) की लंबाई लगभग कितनी होती है?",
-            "en": "What is the approximate length of the small intestine?"
+            "hi": "यीस्ट का उपयोग निम्नलिखित में से किसके उत्पादन में होता है?",
+            "en": "Yeast is used in the production of which of the following?"
           },
           "options": [
-            {"hi": "1.5 मीटर", "en": "1.5 metres"},
-            {"hi": "3 मीटर", "en": "3 metres"},
-            {"hi": "7.5 मीटर", "en": "7.5 metres"},
-            {"hi": "10 मीटर", "en": "10 metres"}
+            {"hi": "चीनी", "en": "Sugar"},
+            {"hi": "एल्कोहल", "en": "Alcohol"},
+            {"hi": "हाइड्रोक्लोरिक अम्ल", "en": "Hydrochloric acid"},
+            {"hi": "ऑक्सीजन", "en": "Oxygen"}
           ],
-          "answer": {"hi": "7.5 मीटर", "en": "7.5 metres"}
+          "answer": {"hi": "एल्कोहल", "en": "Alcohol"}
         },
         {
           "q": {
-            "hi": "मानव शरीर की सबसे बड़ी ग्रंथि कौन सी है?",
-            "en": "Which is the largest gland in the human body?"
+            "hi": "इकोहॉल के वाणिज्यिक उत्पादन के लिए किस सूक्ष्मजीव का उपयोग किया जाता है?",
+            "en": "Which microorganism is used for the commercial production of alcohol?"
           },
           "options": [
-            {"hi": "अग्न्याशय", "en": "Pancreas"},
-            {"hi": "यकृत (लीवर)", "en": "Liver"},
-            {"hi": "लाला-ग्रंथि", "en": "Salivary gland"},
-            {"hi": "थायरॉयड", "en": "Thyroid"}
+            {"hi": "जीवाणु", "en": "Bacteria"},
+            {"hi": "शैवाल", "en": "Algae"},
+            {"hi": "यीस्ट (खमीर)", "en": "Yeast"},
+            {"hi": "अमीबा", "en": "Amoeba"}
           ],
-          "answer": {"hi": "यकृत (लीवर)", "en": "Liver"}
+          "answer": {"hi": "यीस्ट (खमीर)", "en": "Yeast"}
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "पित्त रस कहाँ संग्रहित होता है?",
-            "en": "Where is bile juice stored?"
+            "hi": "जब कोई रोगकारक सूक्ष्मजीव शरीर में प्रवेश करता है, तो शरीर उससे लड़ने के लिए क्या उत्पन्न करता है?",
+            "en": "When a disease-carrying microorganism enters the body, what does the body produce to fight it?"
           },
           "options": [
-            {"hi": "यकृत में", "en": "In liver"},
-            {"hi": "पित्ताशय में", "en": "In gall bladder"},
-            {"hi": "आमाशय में", "en": "In stomach"},
-            {"hi": "अग्न्याशय में", "en": "In pancreas"}
+            {"hi": "विषाणु", "en": "Virus"},
+            {"hi": "प्रतिरक्षी (Antibodies)", "en": "Antibodies"},
+            {"hi": "प्रतिजैविक", "en": "Antibiotics"},
+            {"hi": "हार्मोन", "en": "Hormones"}
           ],
-          "answer": {"hi": "पित्ताशय में", "en": "In gall bladder"}
+          "answer": {"hi": "प्रतिरक्षी (Antibodies)", "en": "Antibodies"}
         },
         {
           "q": {
-            "hi": "पित्त रस किसके पाचन में महत्वपूर्ण भूमिका निभाता है?",
-            "en": "Bile plays an important role in the digestion of?"
+            "hi": "चेचक के टीके की खोज किसने की थी?",
+            "en": "Who discovered the vaccine for smallpox?"
           },
           "options": [
-            {"hi": "प्रोटीन", "en": "Proteins"},
-            {"hi": "कार्बोहाइड्रेट", "en": "Carbohydrates"},
-            {"hi": "वसा (Fats)", "en": "Fats"},
-            {"hi": "विटामिन", "en": "Vitamins"}
+            {"hi": "लुई पाश्चर", "en": "Louis Pasteur"},
+            {"hi": "एडवर्ड जेनर", "en": "Edward Jenner"},
+            {"hi": "रॉबर्ट कोच", "en": "Robert Koch"},
+            {"hi": "अलेक्जेंडर फ्लैमिंग", "en": "Alexander Fleming"}
           ],
-          "answer": {"hi": "वसा (Fats)", "en": "Fats"}
+          "answer": {"hi": "एडवर्ड जेनर", "en": "Edward Jenner"}
         },
         {
           "q": {
-            "hi": "प्रोटीन पाचन के बाद किसमें बदल जाते हैं?",
-            "en": "Proteins change into what after digestion?"
+            "hi": "वायुमण्डलीय नाइट्रोजन का स्थिरीकरण करने वाले सूक्ष्मजीव क्या कहलाते हैं?",
+            "en": "What are microorganisms that fix atmospheric nitrogen called?"
           },
           "options": [
-            {"hi": "ग्लूकोस", "en": "Glucose"},
-            {"hi": "वसा अम्ल", "en": "Fatty acids"},
-            {"hi": "ऐमीनो अम्ल", "en": "Amino acids"},
-            {"hi": "ग्लिसरॉल", "en": "Glycerol"}
+            {"hi": "परजीवी", "en": "Parasites"},
+            {"hi": "रोगजनक", "en": "Pathogens"},
+            {"hi": "जैविक नाइट्रोजन स्थिरीकारक", "en": "Biological nitrogen fixers"},
+            {"hi": "अपघटक", "en": "Decomposers"}
           ],
-          "answer": {"hi": "ऐमीनो अम्ल", "en": "Amino acids"}
+          "answer": {"hi": "जैविक नाइट्रोजन स्थिरीकारक", "en": "Biological nitrogen fixers"}
         },
         {
           "q": {
-            "hi": "क्षुद्रांत्र की आंतरिक भित्ति पर अँगुली के समान उभरी संरचनाएँ क्या कहलाती हैं?",
-            "en": "The finger-like outgrowths on the inner walls of the small intestine are called?"
+            "hi": "सूक्ष्मजीव मृत जैविक अवशिष्ट का अपघटन करके उन्हें किन पदार्थों में बदल देते हैं?",
+            "en": "Microorganisms decompose dead organic waste and convert them into which substances?"
           },
           "options": [
-            {"hi": "पादाभ", "en": "Pseudopodia"},
-            {"hi": "दीर्घरोम (रसांकुर)", "en": "Villi"},
-            {"hi": "रंध्र", "en": "Stomata"},
-            {"hi": "कोशिका", "en": "Cells"}
+            {"hi": "विषैले पदार्थ", "en": "Toxic substances"},
+            {"hi": "सरल पदार्थों (खाद)", "en": "Simple substances (Manure)"},
+            {"hi": "प्लास्टिक", "en": "Plastic"},
+            {"hi": "गैस", "en": "Gas"}
           ],
-          "answer": {"hi": "दीर्घरोम (रसांकुर)", "en": "Villi"}
+          "answer": {"hi": "सरल पदार्थों (खाद)", "en": "Simple substances (Manure)"}
         },
         {
           "q": {
-            "hi": "दीर्घरोम का मुख्य कार्य क्या है?",
-            "en": "What is the main function of villi?"
+            "hi": "पल्स पोलियो कार्यक्रम के अंतर्गत दी जाने वाली 'पोलियो ड्रॉप' क्या है?",
+            "en": "What is the 'Polio Drop' given under the Pulse Polio program?"
           },
           "options": [
-            {"hi": "भोजन को चबाना", "en": "Chewing food"},
-            {"hi": "पचे हुए भोजन के अवशोषण हेतु तल क्षेत्र बढ़ाना", "en": "Increasing surface area for absorption of digested food"},
-            {"hi": "अम्ल बनाना", "en": "Making acid"},
-            {"hi": "अपशिष्ट बाहर निकालना", "en": "Removing waste"}
+            {"hi": "प्रतिजैविक", "en": "Antibiotic"},
+            {"hi": "टीका (वैक्सीन)", "en": "Vaccine"},
+            {"hi": "विटामिन सी", "en": "Vitamin C"},
+            {"hi": "खाद्य पूरक", "en": "Food supplement"}
           ],
-          "answer": {"hi": "पचे हुए भोजन के अवशोषण हेतु तल क्षेत्र बढ़ाना", "en": "Increasing surface area for absorption of digested food"}
+          "answer": {"hi": "टीका (वैक्सीन)", "en": "Vaccine"}
         },
         {
           "q": {
-            "hi": "अवशोषित भोजन का शरीर के उपयोग हेतु स्थानांतरण क्या कहलाता है?",
-            "en": "The transport of absorbed substances to different organs for body use is called?"
+            "hi": "एडवर्ड जेनर ने चेचक के टीके की खोज कब की थी?",
+            "en": "When did Edward Jenner discover the smallpox vaccine?"
           },
           "options": [
-            {"hi": "अवशोषण", "en": "Absorption"},
-            {"hi": "स्वांगीकरण", "en": "Assimilation"},
-            {"hi": "अंतर्ग्रहण", "en": "Ingestion"},
-            {"hi": "पाचन", "en": "Digestion"}
+            {"hi": "1857", "en": "1857"},
+            {"hi": "1798", "en": "1798"},
+            {"hi": "1929", "en": "1929"},
+            {"hi": "1876", "en": "1876"}
           ],
-          "answer": {"hi": "स्वांगीकरण", "en": "Assimilation"}
+          "answer": {"hi": "1798", "en": "1798"}
         },
         {
           "q": {
-            "hi": "जल एवं लवणों का अवशोषण मुख्यतः कहाँ होता है?",
-            "en": "Where does the absorption of water and salts mainly take place?"
+            "hi": "नीले-हरे शैवाल मिट्टी की उर्वरता बढ़ाने के लिए वायु से किसका स्थिरीकरण करते हैं?",
+            "en": "Blue-green algae fix what from the air to increase soil fertility?"
           },
           "options": [
-            {"hi": "आमाशय", "en": "Stomach"},
-            {"hi": "क्षुद्रांत्र", "en": "Small intestine"},
-            {"hi": "बृहदांत्र (बड़ी आँत)", "en": "Large intestine"},
-            {"hi": "मुख", "en": "Mouth"}
+            {"hi": "ऑक्सीजन", "en": "Oxygen"},
+            {"hi": "कार्बन डाइऑक्साइड", "en": "Carbon dioxide"},
+            {"hi": "नाइट्रोजन", "en": "Nitrogen"},
+            {"hi": "हाइड्रोजन", "en": "Hydrogen"}
           ],
-          "answer": {"hi": "बृहदांत्र (बड़ी आँत)", "en": "Large intestine"}
+          "answer": {"hi": "नाइट्रोजन", "en": "Nitrogen"}
         },
         {
           "q": {
-            "hi": "बृहदांत्र (बड़ी आँत) की लंबाई लगभग कितनी है?",
-            "en": "What is the approximate length of the large intestine?"
+            "hi": "रोग उत्पन्न करने वाले सूक्ष्मजीवों को क्या कहते हैं?",
+            "en": "What are the microorganisms that cause diseases called?"
           },
           "options": [
-            {"hi": "1.5 मीटर", "en": "1.5 metres"},
-            {"hi": "7.5 मीटर", "en": "7.5 metres"},
-            {"hi": "5 मीटर", "en": "5 metres"},
-            {"hi": "10 मीटर", "en": "10 metres"}
+            {"hi": "मित्र जीव", "en": "Friendly microbes"},
+            {"hi": "परिरक्षक", "en": "Preservatives"},
+            {"hi": "रोगाणु (Pathogens)", "en": "Pathogens"},
+            {"hi": "एंटीबॉडी", "en": "Antibodies"}
           ],
-          "answer": {"hi": "1.5 मीटर", "en": "1.5 metres"}
+          "answer": {"hi": "रोगाणु (Pathogens)", "en": "Pathogens"}
         },
         {
           "q": {
-            "hi": "ग्लूकोस का विघटन ऑक्सीजन की सहायता से किसमें होता है?",
-            "en": "Glucose breaks down with the help of oxygen into?"
+            "hi": "हैजा, क्षयरोग और चेचक जैसी बीमारियों को किसके द्वारा रोका जा सकता है?",
+            "en": "Diseases like cholera, tuberculosis, and smallpox can be prevented by what?"
           },
           "options": [
-            {"hi": "केवल जल", "en": "Water only"},
-            {"hi": "कार्बन डाइऑक्साइड, जल एवं ऊर्जा", "en": "Carbon dioxide, water and energy"},
-            {"hi": "वसा अम्ल", "en": "Fatty acids"},
-            {"hi": "प्रोटीन", "en": "Proteins"}
+            {"hi": "भोजन", "en": "Food"},
+            {"hi": "व्यायाम", "en": "Exercise"},
+            {"hi": "टीकाकरण (Vaccination)", "en": "Vaccination"},
+            {"hi": "विश्राम", "en": "Rest"}
           ],
-          "answer": {"hi": "कार्बन डाइऑक्साइड, जल एवं ऊर्जा", "en": "Carbon dioxide, water and energy"}
+          "answer": {"hi": "टीकाकरण (Vaccination)", "en": "Vaccination"}
         },
         {
           "q": {
-            "hi": "ओ.आर.एस. (ORS) का उपयोग कब किया जाता है?",
-            "en": "When is ORS used?"
+            "hi": "कौन सा सूक्ष्मजीव एककोशिक (Unicellular) होता है?",
+            "en": "Which microorganism is unicellular?"
           },
           "options": [
-            {"hi": "नींद आने पर", "en": "When feeling sleepy"},
-            {"hi": "दस्त (Diarrhoea) होने पर", "en": "In case of diarrhoea"},
-            {"hi": "भूख लगने पर", "en": "When hungry"},
-            {"hi": "चोट लगने पर", "en": "When injured"}
+            {"hi": "जीवाणु और कुछ शैवाल", "en": "Bacteria and some Algae"},
+            {"hi": "कवक", "en": "Fungi"},
+            {"hi": "मनुष्य", "en": "Humans"},
+            {"hi": "आम का पेड़", "en": "Mango tree"}
           ],
-          "answer": {"hi": "दस्त (Diarrhoea) होने पर", "en": "In case of diarrhoea"}
+          "answer": {"hi": "जीवाणु और कुछ शैवाल", "en": "Bacteria and some Algae"}
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "घास खाने वाले जंतुओं में आमाशय का प्रथम भाग क्या कहलाता है?",
-            "en": "What is the first compartment of the stomach in grass-eating animals?"
+            "hi": "संक्रमित व्यक्ति से स्वस्थ व्यक्ति में वायु, जल या भोजन द्वारा फैलने वाले रोग क्या कहलाते हैं?",
+            "en": "What are the diseases that spread from an infected person to a healthy person through air, water, or food called?"
           },
           "options": [
-            {"hi": "क्षुद्रांत्र", "en": "Small intestine"},
-            {"hi": "रूमेन", "en": "Rumen"},
-            {"hi": "अंधनाल", "en": "Caecum"},
-            {"hi": "ग्रसिका", "en": "Oesophagus"}
+            {"hi": "असंचरणीय रोग", "en": "Non-communicable diseases"},
+            {"hi": "संचरणीय रोग (Communicable diseases)", "en": "Communicable diseases"},
+            {"hi": "वंशानुगत रोग", "en": "Hereditary diseases"},
+            {"hi": "मानसिक रोग", "en": "Mental diseases"}
           ],
-          "answer": {"hi": "रूमेन", "en": "Rumen"}
+          "answer": {"hi": "संचरणीय रोग (Communicable diseases)", "en": "Communicable diseases"}
         },
         {
           "q": {
-            "hi": "जुगाल (कड) क्या है?",
-            "en": "What is cud?"
+            "hi": "संचरणीय रोगों का सबसे मुख्य वाहक (Carrier) कौन है?",
+            "en": "Who is the most common carrier of communicable diseases?"
           },
           "options": [
-            {"hi": "पूरी तरह पचा भोजन", "en": "Fully digested food"},
-            {"hi": "रूमेन में आंशिक रूप से पचा भोजन", "en": "Partially digested food in the rumen"},
-            {"hi": "मिट्टी", "en": "Soil"},
-            {"hi": "दूध", "en": "Milk"}
+            {"hi": "चींटी", "en": "Ant"},
+            {"hi": "घरेलू मक्खी", "en": "Housefly"},
+            {"hi": "तितली", "en": "Butterfly"},
+            {"hi": "मकड़ी", "en": "Spider"}
           ],
-          "answer": {"hi": "रूमेन में आंशिक रूप से पचा भोजन", "en": "Partially digested food in the rumen"}
+          "answer": {"hi": "घरेलू मक्खी", "en": "Housefly"}
         },
         {
           "q": {
-            "hi": "घास में प्रचुर मात्रा में पाया जाने वाला कार्बोहाइड्रेट कौन सा है?",
-            "en": "Which carbohydrate is found in abundance in grass?"
+            "hi": "मादा एनॉफ्लीज़ मच्छर किस परजीवी का वाहक है?",
+            "en": "The female Anopheles mosquito is a carrier of which parasite?"
           },
           "options": [
-            {"hi": "ग्लूकोस", "en": "Glucose"},
-            {"hi": "शर्करा", "en": "Sugar"},
-            {"hi": "सेलुलोस", "en": "Cellulose"},
-            {"hi": "मंड", "en": "Starch"}
+            {"hi": "डेंगू वायरस", "en": "Dengue virus"},
+            {"hi": "मलेरिया परजीवी (प्लज्मोडियम)", "en": "Malaria parasite (Plasmodium)"},
+            {"hi": "टाइफाइड जीवाणु", "en": "Typhoid bacteria"},
+            {"hi": "अमीबा", "en": "Amoeba"}
           ],
-          "answer": {"hi": "सेलुलोस", "en": "Cellulose"}
+          "answer": {"hi": "मलेरिया परजीवी (प्लज्मोडियम)", "en": "Malaria parasite (Plasmodium)"}
         },
         {
           "q": {
-            "hi": "मनुष्य सेलुलोस को क्यों नहीं पचा सकता?",
-            "en": "Why can't humans digest cellulose?"
+            "hi": "मादा एडीस मच्छर किस वायरस का वाहक है?",
+            "en": "The female Aedes mosquito is a carrier of which virus?"
           },
           "options": [
-            {"hi": "दाँतों की कमी के कारण", "en": "Due to lack of teeth"},
-            {"hi": "आहार नाल में सेलुलोस पचाने वाले जीवाणुओं की अनुपस्थिति के कारण", "en": "Due to absence of cellulose-digesting bacteria in the digestive tract"},
-            {"hi": "पानी की कमी के कारण", "en": "Due to lack of water"},
-            {"hi": "पसीना न आने के कारण", "en": "Due to lack of sweating"}
+            {"hi": "पोलियो", "en": "Polio"},
+            {"hi": "डेंगू", "en": "Dengue"},
+            {"hi": "हैजा", "en": "Cholera"},
+            {"hi": "जुकाम", "en": "Common cold"}
           ],
-          "answer": {"hi": "आहार नाल में सेलुलोस पचाने वाले जीवाणुओं की अनुपस्थिति के कारण", "en": "Due to absence of cellulose-digesting bacteria in the digestive tract"}
+          "answer": {"hi": "डेंगू", "en": "Dengue"}
         },
         {
           "q": {
-            "hi": "अमीबा कैसा जीव है?",
-            "en": "What kind of organism is Amoeba?"
+            "hi": "मच्छरों को पैदा होने से रोकने का सबसे अच्छा तरीका क्या है?",
+            "en": "What is the best way to prevent mosquitoes from breeding?"
           },
           "options": [
-            {"hi": "बहुकोशिक", "en": "Multicellular"},
-            {"hi": "एककोशिक", "en": "Unicellular"},
-            {"hi": "मृतजीवी", "en": "Saprophyte"},
-            {"hi": "बड़ा जंतु", "en": "Large animal"}
+            {"hi": "पानी को बहने देना", "en": "Letting the water flow"},
+            {"hi": "कहीं भी जल को एकत्र न होने देना", "en": "Not letting water collect anywhere"},
+            {"hi": "खिड़कियाँ खोलना", "en": "Opening windows"},
+            {"hi": "पेड़ काटना", "en": "Cutting trees"}
           ],
-          "answer": {"hi": "एककोशिक", "en": "Unicellular"}
+          "answer": {"hi": "कहीं भी जल को एकत्र न होने देना", "en": "Not letting water collect anywhere"}
         },
         {
           "q": {
-            "hi": "अमीबा गति करने और भोजन पकड़ने के लिए किसका उपयोग करता है?",
-            "en": "What does Amoeba use for movement and capturing food?"
+            "hi": "टायफाइड और क्षयरोग (TB) किसके द्वारा होते हैं?",
+            "en": "Typhoid and Tuberculosis (TB) are caused by which organism?"
           },
           "options": [
-            {"hi": "पंखों का", "en": "Wings"},
-            {"hi": "पादाभ (कृत्रिम पाँव)", "en": "Pseudopodia"},
-            {"hi": "पूँछ का", "en": "Tail"},
-            {"hi": "जीभ का", "en": "Tongue"}
+            {"hi": "विषाणु", "en": "Virus"},
+            {"hi": "प्रोटोजोआ", "en": "Protozoa"},
+            {"hi": "जीवाणु (Bacteria)", "en": "Bacteria"},
+            {"hi": "कवक", "en": "Fungi"}
           ],
-          "answer": {"hi": "पादाभ (कृत्रिम पाँव)", "en": "Pseudopodia"}
+          "answer": {"hi": "जीवाणु (Bacteria)", "en": "Bacteria"}
         },
         {
           "q": {
-            "hi": "अमीबा में भोजन का पाचन कहाँ होता है?",
-            "en": "Where is food digested in Amoeba?"
+            "hi": "एंथ्रेक्स (Anthrax) मवेशियों में होने वाला रोग किसके द्वारा होता है?",
+            "en": "Anthrax, a disease occurring in cattle, is caused by which organism?"
           },
           "options": [
-            {"hi": "केंद्रक में", "en": "In nucleus"},
-            {"hi": "खाद्य धानी में", "en": "In food vacuole"},
-            {"hi": "त्वचा पर", "en": "On skin"},
-            {"hi": "हवा में", "en": "In air"}
+            {"hi": "विषाणु", "en": "Virus"},
+            {"hi": "जीवाणु (Bacteria)", "en": "Bacteria"},
+            {"hi": "कवक", "en": "Fungi"},
+            {"hi": "शैवाल", "en": "Algae"}
           ],
-          "answer": {"hi": "खाद्य धानी में", "en": "In food vacuole"}
+          "answer": {"hi": "जीवाणु (Bacteria)", "en": "Bacteria"}
         },
         {
           "q": {
-            "hi": "घोड़े और खरगोश में सेलुलोस का पाचन कहाँ होता है?",
-            "en": "Where is cellulose digested in horses and rabbits?"
+            "hi": "रॉबर्ट कोच ने किस जीवाणु की खोज की थी जो एंथ्रेक्स रोग का कारक है?",
+            "en": "Which bacterium causing Anthrax was discovered by Robert Koch?"
           },
           "options": [
-            {"hi": "मुख में", "en": "In mouth"},
-            {"hi": "अंधनाल (Caecum) में", "en": "In caecum"},
-            {"hi": "आमाशय में", "en": "In stomach"},
-            {"hi": "फेफड़ों में", "en": "In lungs"}
+            {"hi": "लैक्टोबैसिलस", "en": "Lactobacillus"},
+            {"hi": "बेसीलस एन्थेसिस", "en": "Bacillus anthracis"},
+            {"hi": "राइजोबियम", "en": "Rhizobium"},
+            {"hi": "साल्मोनेला", "en": "Salmonella"}
           ],
-          "answer": {"hi": "अंधनाल (Caecum) में", "en": "In caecum"}
+          "answer": {"hi": "बेसीलस एन्थेसिस", "en": "Bacillus anthracis"}
         },
         {
           "q": {
-            "hi": "पोषण के मुख्य चरणों का सही क्रम क्या है?",
-            "en": "What is the correct sequence of the main steps of nutrition?"
+            "hi": "नींबू कैंकर (Citrus Canker) पौधों में होने वाला एक रोग है, यह किसके द्वारा फैलता है?",
+            "en": "Citrus Canker is a disease in plants, how does it spread?"
           },
           "options": [
-            {"hi": "पाचन, अवशोषण, अंतर्ग्रहण, निष्कासन", "en": "Digestion, Absorption, Ingestion, Egestion"},
-            {"hi": "अंतर्ग्रहण, पाचन, अवशोषण, स्वांगीकरण, निष्कासन", "en": "Ingestion, Digestion, Absorption, Assimilation, Egestion"},
-            {"hi": "अवशोषण, पाचन, अंतर्ग्रहण", "en": "Absorption, Digestion, Ingestion"},
-            {"hi": "निष्कासन, पाचन, अंतर्ग्रहण", "en": "Egestion, Digestion, Ingestion"}
+            {"hi": "जल द्वारा", "en": "By water"},
+            {"hi": "वायु द्वारा", "en": "By air"},
+            {"hi": "कीटों द्वारा", "en": "By insects"},
+            {"hi": "बीजों द्वारा", "en": "By seeds"}
           ],
-          "answer": {"hi": "अंतर्ग्रहण, पाचन, अवशोषण, स्वांगीकरण, निष्कासन", "en": "Ingestion, Digestion, Absorption, Assimilation, Egestion"}
+          "answer": {"hi": "वायु द्वारा", "en": "By air"}
         },
         {
           "q": {
-            "hi": "आमाशय की कार्य प्रणाली की खोज किसने की थी?",
-            "en": "Who discovered the working of the stomach?"
+            "hi": "भिंडी की 'पीत' (Yellow vein mosaic) रोग का वाहक कौन है?",
+            "en": "What is the carrier of Yellow vein mosaic disease in Bhindi?"
           },
           "options": [
-            {"hi": "न्यूटन", "en": "Newton"},
-            {"hi": "विलियम ब्यूमॉण्ट", "en": "William Beaumont"},
-            {"hi": "चार्ल्स डार्विन", "en": "Charles Darwin"},
-            {"hi": "आर्यभट्ट", "en": "Aryabhata"}
+            {"hi": "वायु", "en": "Air"},
+            {"hi": "जल", "en": "Water"},
+            {"hi": "कीट", "en": "Insect"},
+            {"hi": "मिट्टी", "en": "Soil"}
           ],
-          "answer": {"hi": "विलियम ब्यूमॉण्ट", "en": "William Beaumont"}
+          "answer": {"hi": "कीट", "en": "Insect"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "बकरी का दूध गाय के दूध की तुलना में आसानी से क्यों पचता है?",
-            "en": "Why is goat's milk easier to digest than cow's milk?"
+            "hi": "सूक्ष्मजीवों द्वारा संदूषित भोजन करने से क्या हो सकता है?",
+            "en": "What can happen by consuming food spoiled by microorganisms?"
           },
           "options": [
-            {"hi": "यह मीठा होता है", "en": "It is sweet"},
-            {"hi": "इसकी वसा संरचना सरल होती है", "en": "Its fat structure is simpler"},
-            {"hi": "इसमें पानी ज्यादा होता है", "en": "It has more water"},
-            {"hi": "इसमें नमक होता है", "en": "It has salt"}
+            {"hi": "अच्छी नींद आती है", "en": "Good sleep"},
+            {"hi": "खाद्य विषाक्तन (Food Poisoning)", "en": "Food Poisoning"},
+            {"hi": "शारीरिक शक्ति बढ़ती है", "en": "Increased physical strength"},
+            {"hi": "चेहरे पर चमक आती है", "en": "Face glows"}
           ],
-          "answer": {"hi": "इसकी वसा संरचना सरल होती है", "en": "Its fat structure is simpler"}
+          "answer": {"hi": "खाद्य विषाक्तन (Food Poisoning)", "en": "Food Poisoning"}
         },
         {
           "q": {
-            "hi": "अग्न्याशयिक रस किन पर क्रिया करता है?",
-            "en": "Pancreatic juice acts on?"
+            "hi": "नमक और खाद्य तेल जैसे पदार्थ जो सूक्ष्मजीवों की वृद्धि रोकते हैं, क्या कहलाते हैं?",
+            "en": "Substances like salt and edible oils that prevent the growth of microorganisms are called what?"
           },
           "options": [
-            {"hi": "केवल जल", "en": "Water only"},
-            {"hi": "कार्बोहाइड्रेट, वसा एवं प्रोटीन", "en": "Carbohydrates, fats and proteins"},
-            {"hi": "केवल विटामिन", "en": "Vitamins only"},
-            {"hi": "केवल लवण", "en": "Salts only"}
+            {"hi": "रंग", "en": "Colors"},
+            {"hi": "पोषक", "en": "Nutrients"},
+            {"hi": "परिरक्षक (Preservatives)", "en": "Preservatives"},
+            {"hi": "स्वाद बढ़ाने वाले", "en": "Flavor enhancers"}
           ],
-          "answer": {"hi": "कार्बोहाइड्रेट, वसा एवं प्रोटीन", "en": "Carbohydrates, fats and proteins"}
+          "answer": {"hi": "परिरक्षक (Preservatives)", "en": "Preservatives"}
         },
         {
           "q": {
-            "hi": "वसा पाचन के बाद किसमें बदल जाती है?",
-            "en": "Fats change into what after digestion?"
+            "hi": "जैम, जेली एवं स्क्वैश के परिरक्षण के लिए किसका उपयोग किया जाता है?",
+            "en": "What is used for the preservation of jams, jellies, and squashes?"
           },
           "options": [
-            {"hi": "ऐमीनो अम्ल", "en": "Amino acids"},
-            {"hi": "वसा अम्ल एवं ग्लिसरॉल", "en": "Fatty acids and glycerol"},
-            {"hi": "केवल ग्लूकोस", "en": "Glucose only"},
-            {"hi": "मंड", "en": "Starch"}
+            {"hi": "मसाले", "en": "Spices"},
+            {"hi": "चीनी", "en": "Sugar"},
+            {"hi": "दूध", "en": "Milk"},
+            {"hi": "हल्दी", "en": "Turmeric"}
           ],
-          "answer": {"hi": "वसा अम्ल एवं ग्लिसरॉल", "en": "Fatty acids and glycerol"}
+          "answer": {"hi": "चीनी", "en": "Sugar"}
         },
         {
           "q": {
-            "hi": "कार्बोहाइड्रेट पाचन के बाद किस सरल शर्करा में बदल जाते हैं?",
-            "en": "Carbohydrates change into which simple sugar after digestion?"
+            "hi": "दूध को पॉश्चरीकृत (Pasteurized) करने के लिए उसे कितने डिग्री सेल्सियस पर गर्म किया जाता है?",
+            "en": "To pasteurize milk, it is heated to how many degrees Celsius?"
           },
           "options": [
-            {"hi": "ऐमीनो अम्ल", "en": "Amino acids"},
-            {"hi": "वसा अम्ल", "en": "Fatty acids"},
-            {"hi": "ग्लूकोस", "en": "Glucose"},
-            {"hi": "विटामिन", "en": "Vitamins"}
+            {"hi": "50 डिग्री", "en": "50 degrees"},
+            {"hi": "70 डिग्री", "en": "70 degrees"},
+            {"hi": "100 डिग्री", "en": "100 degrees"},
+            {"hi": "150 डिग्री", "en": "150 degrees"}
           ],
-          "answer": {"hi": "ग्लूकोस", "en": "Glucose"}
+          "answer": {"hi": "70 डिग्री", "en": "70 degrees"}
         },
         {
           "q": {
-            "hi": "आमाशय की आंतरिक सतह को सुरक्षा कौन प्रदान करता है?",
-            "en": "What provides protection to the inner lining of the stomach?"
+            "hi": "पॉश्चरीकरण की खोज किस वैज्ञानिक ने की थी?",
+            "en": "Which scientist discovered the process of pasteurization?"
           },
           "options": [
-            {"hi": "अम्ल", "en": "Acid"},
-            {"hi": "श्लेष्मल (Mucous)", "en": "Mucous"},
-            {"hi": "पाचक रस", "en": "Digestive juices"},
-            {"hi": "भोजन", "en": "Food"}
+            {"hi": "एडवर्ड जेनर", "en": "Edward Jenner"},
+            {"hi": "अलेक्जेंडर फ्लैमिंग", "en": "Alexander Fleming"},
+            {"hi": "लुई पॉश्चर", "en": "Louis Pasteur"},
+            {"hi": "रॉबर्ट कोच", "en": "Robert Koch"}
           ],
-          "answer": {"hi": "श्लेष्मल (Mucous)", "en": "Mucous"}
+          "answer": {"hi": "लुई पॉश्चर", "en": "Louis Pasteur"}
         },
         {
           "q": {
-            "hi": "भोजन के पाचन का आधारभूत प्रक्रम क्या है?",
-            "en": "What is the basic process of digestion of food?"
+            "hi": "वायुमण्डल में नाइट्रोजन गैस की मात्रा कितनी है?",
+            "en": "What is the percentage of nitrogen gas in the atmosphere?"
           },
           "options": [
-            {"hi": "केवल भोजन को निगलना", "en": "Only swallowing food"},
-            {"hi": "खाद्य पदार्थों का सरल पदार्थों में परिवर्तन एवं ऊर्जा मुक्त होना", "en": "Breakdown of food into simpler substances and release of energy"},
-            {"hi": "केवल पानी पीना", "en": "Only drinking water"},
-            {"hi": "केवल चबाना", "en": "Only chewing"}
+            {"hi": "21%", "en": "21%"},
+            {"hi": "0.03%", "en": "0.03%"},
+            {"hi": "78%", "en": "78%"},
+            {"hi": "1%", "en": "1%"}
           ],
-          "answer": {"hi": "खाद्य पदार्थों का सरल पदार्थों में परिवर्तन एवं ऊर्जा मुक्त होना", "en": "Breakdown of food into simpler substances and release of energy"}
+          "answer": {"hi": "78%", "en": "78"}
         },
         {
           "q": {
-            "hi": "अमीबा अपने अपशिष्ट को कहाँ से बाहर निकालता है?",
-            "en": "From where does Amoeba expel its waste?"
+            "hi": "राइजोबियम जीवाणु किन पौधों की ग्रंथिकाओं में पाए जाते हैं?",
+            "en": "Rhizobium bacteria are found in the root nodules of which plants?"
           },
           "options": [
-            {"hi": "मुख से", "en": "From mouth"},
-            {"hi": "खाद्य धानी द्वारा", "en": "By food vacuole"},
-            {"hi": "केंद्रक द्वारा", "en": "By nucleus"},
-            {"hi": "हवा द्वारा", "en": "By air"}
+            {"hi": "अनाज", "en": "Cereals"},
+            {"hi": "लैग्यूम पौधे (दलहन)", "en": "Leguminous plants"},
+            {"hi": "फलदार पेड़", "en": "Fruit trees"},
+            {"hi": "सजावटी पौधे", "en": "Ornamental plants"}
           ],
-          "answer": {"hi": "खाद्य धानी द्वारा", "en": "By food vacuole"}
+          "answer": {"hi": "लैग्यूम पौधे (दलहन)", "en": "Leguminous plants"}
         },
         {
           "q": {
-            "hi": "रूमिनैन्ट में सेलुलोस का पाचन किसके द्वारा होता है?",
-            "en": "In ruminants, cellulose is digested by?"
+            "hi": "मिट्टी में उपस्थित नाइट्रोजन यौगिकों को वापस नाइट्रोजन गैस में कौन बदलता है?",
+            "en": "Who converts nitrogen compounds in the soil back into nitrogen gas?"
           },
           "options": [
-            {"hi": "अम्ल द्वारा", "en": "By acid"},
-            {"hi": "विशिष्ट जीवाणुओं द्वारा", "en": "By specific bacteria"},
-            {"hi": "धूप द्वारा", "en": "By sunlight"},
-            {"hi": "पानी द्वारा", "en": "By water"}
+            {"hi": "पौधे", "en": "Plants"},
+            {"hi": "जन्तु", "en": "Animals"},
+            {"hi": "विशिष्ट जीवाणु", "en": "Specific bacteria"},
+            {"hi": "वायु", "en": "Air"}
           ],
-          "answer": {"hi": "विशिष्ट जीवाणुओं द्वारा", "en": "By specific bacteria"}
+          "answer": {"hi": "विशिष्ट जीवाणु", "en": "Specific bacteria"}
         },
         {
           "q": {
-            "hi": "पाचन तंत्र का निर्माण कौन करता है?",
-            "en": "What constitutes the digestive system?"
+            "hi": "जैम अथवा इडली के फूलने का क्या कारण है?",
+            "en": "What causes the rising of bread or idli dough?"
           },
           "options": [
-            {"hi": "केवल दाँत", "en": "Only teeth"},
-            {"hi": "आहार नाल एवं संबद्ध ग्रंथियाँ", "en": "Alimentary canal and associated glands"},
-            {"hi": "केवल फेफड़े", "en": "Only lungs"},
-            {"hi": "केवल हृदय", "en": "Only heart"}
+            {"hi": "गर्मी", "en": "Heat"},
+            {"hi": "पीसना", "en": "Grinding"},
+            {"hi": "यीस्ट कोशिकाओं की वृद्धि", "en": "Growth of yeast cells"},
+            {"hi": "फेंटने के कारण", "en": "Beating"}
           ],
-          "answer": {"hi": "आहार नाल एवं संबद्ध ग्रंथियाँ", "en": "Alimentary canal and associated glands"}
+          "answer": {"hi": "यीस्ट कोशिकाओं की वृद्धि", "en": "Growth of yeast cells"}
         },
         {
           "q": {
-            "hi": "मंड (Starch) का पाचन कहाँ से प्रारंभ होता है?",
-            "en": "Where does the digestion of starch start?"
+            "hi": "सोडियम बेंजोएट क्या है?",
+            "en": "What is sodium benzoate?"
           },
           "options": [
-            {"hi": "आमाशय में", "en": "In stomach"},
-            {"hi": "मुख में", "en": "In mouth"},
-            {"hi": "क्षुद्रांत्र में", "en": "In small intestine"},
-            {"hi": "बृहदांत्र में", "en": "In large intestine"}
+            {"hi": "एक सूक्ष्मजीव", "en": "A microorganism"},
+            {"hi": "एक सामान्य परिरक्षक", "en": "A common preservative"},
+            {"hi": "एक प्रतिजैविक", "en": "An antibiotic"},
+            {"hi": "एक उर्वरक", "en": "A fertilizer"}
           ],
-          "answer": {"hi": "मुख में", "en": "In mouth"}
+          "answer": {"hi": "एक सामान्य परिरक्षक", "en": "A common preservative"}
         }
       ]
-    },
+    }
+  ,
     "chapter03": {
       "section1": [
         {
