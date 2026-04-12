@@ -6621,592 +6621,1468 @@
         }
       ]
     },
-    "chapter11": {
+    "chapter11":{
       "section1": [
         {
           "q": {
-            "hi": "प्रकाश किस प्रकार की रेखा में गमन करता है?",
-            "en": "In what type of line does light travel?"
+            "hi": "जो पदार्थ अपने से होकर विद्युत धारा को प्रवाहित होने देते हैं, वे क्या कहलाते हैं?",
+            "en": "Substances that allow electric current to pass through them are called?"
           },
           "options": [
-            {"hi": "टेढ़ी-मेढ़ी रेखा", "en": "Zig-zag line"},
-            {"hi": "सरल रेखा", "en": "Straight line"},
-            {"hi": "वृत्ताकार रेखा", "en": "Circular line"},
-            {"hi": "अनियमित रेखा", "en": "Irregular line"}
+            {"hi": "हीन चालक", "en": "Poor conductors"},
+            {"hi": "सुचालक (Good Conductors)", "en": "Good conductors"},
+            {"hi": "विद्युतरोधी", "en": "Insulators"},
+            {"hi": "अचालक", "en": "Non-conductors"}
           ],
-          "answer": {"hi": "सरल रेखा", "en": "Straight line"}
+          "answer": {"hi": "सुचालक (Good Conductors)", "en": "Good conductors"}
         },
         {
           "q": {
-            "hi": "प्रकाश के पथ में परिवर्तन की प्रक्रिया क्या कहलाती है?",
-            "en": "What is the process of changing the path of light called?"
+            "hi": "निम्नलिखित में से कौन सा पदार्थ विद्युत का हीन चालक (Poor Conductor) है?",
+            "en": "Which of the following substances is a poor conductor of electricity?"
           },
           "options": [
-            {"hi": "अपवर्तन", "en": "Refraction"},
-            {"hi": "परावर्तन", "en": "Reflection"},
-            {"hi": "अवशोषण", "en": "Absorption"},
-            {"hi": "विसरण", "en": "Diffusion"}
+            {"hi": "ताँबा", "en": "Copper"},
+            {"hi": "ऐलुमिनियम", "en": "Aluminium"},
+            {"hi": "रबड़", "en": "Rubber"},
+            {"hi": "लोहा", "en": "Iron"}
           ],
-          "answer": {"hi": "परावर्तन", "en": "Reflection"}
+          "answer": {"hi": "रबड़", "en": "Rubber"}
         },
         {
           "q": {
-            "hi": "चमकदार पृष्ठ (सतह) किसकी भाँति कार्य करता है?",
-            "en": "A shiny surface acts like a?"
+            "hi": "क्या द्रव भी विद्युत का चालन करते हैं?",
+            "en": "Do liquids also conduct electricity?"
           },
           "options": [
-            {"hi": "लेंस", "en": "Lens"},
-            {"hi": "दर्पण", "en": "Mirror"},
-            {"hi": "दीवार", "en": "Wall"},
-            {"hi": "कागज", "en": "Paper"}
+            {"hi": "हाँ, कुछ द्रव करते हैं", "en": "Yes, some liquids do"},
+            {"hi": "नहीं, कोई द्रव नहीं करता", "en": "No, no liquid does"},
+            {"hi": "केवल तेल करता है", "en": "Only oil does"},
+            {"hi": "केवल पारा करता है", "en": "Only mercury does"}
           ],
-          "answer": {"hi": "दर्पण", "en": "Mirror"}
+          "answer": {"hi": "हाँ, कुछ द्रव करते हैं", "en": "Yes, some liquids do"}
         },
         {
           "q": {
-            "hi": "समतल दर्पण द्वारा बना प्रतिबिंब कैसा होता है?",
-            "en": "What is the nature of the image formed by a plane mirror?"
+            "hi": "संपरीक्षित्र (Tester) में बल्ब के न जलने का एक कारण क्या हो सकता है?",
+            "en": "What could be a reason for the bulb not glowing in a tester?"
           },
           "options": [
-            {"hi": "सीधा और बिंब के समान आमाप का", "en": "Erect and of the same size as the object"},
-            {"hi": "उल्टा और छोटा", "en": "Inverted and small"},
-            {"hi": "सीधा और बड़ा", "en": "Erect and large"},
-            {"hi": "उल्टा और बड़ा", "en": "Inverted and large"}
+            {"hi": "परिपथ पूर्ण होना", "en": "Circuit is complete"},
+            {"hi": "बल्ब का फ्यूज़ होना", "en": "Bulb is fused"},
+            {"hi": "बैटरी का नया होना", "en": "Battery is new"},
+            {"hi": "तारों का जुड़ा होना", "en": "Wires are connected"}
           ],
-          "answer": {"hi": "सीधा और बिंब के समान आमाप का", "en": "Erect and of the same size as the object"}
+          "answer": {"hi": "बल्ब का फ्यूज़ होना", "en": "Bulb is fused"}
         },
         {
           "q": {
-            "hi": "समतल दर्पण में बिंब का बायाँ भाग प्रतिबिंब के किस भाग जैसा दिखाई देता है?",
-            "en": "In a plane mirror, the left side of the object appears as which side of the image?"
+            "hi": "किसी हीन चालक द्रव में विद्युत धारा के बहुत दुर्बल होने पर बल्ब क्यों नहीं जलता?",
+            "en": "Why does the bulb not glow when the electric current is very weak in a poor conducting liquid?"
           },
           "options": [
-            {"hi": "बायाँ", "en": "Left"},
-            {"hi": "दायाँ", "en": "Right"},
-            {"hi": "ऊपरी", "en": "Top"},
-            {"hi": "निचला", "en": "Bottom"}
+            {"hi": "बल्ब टूट जाता है", "en": "Bulb breaks"},
+            {"hi": "तंतु पर्याप्त गर्म नहीं हो पाता", "en": "Filament does not get heated enough"},
+            {"hi": "हवा के कारण", "en": "Due to air"},
+            {"hi": "पानी ठंडा होता है", "en": "Water is cold"}
           ],
-          "answer": {"hi": "दायाँ", "en": "Right"}
+          "answer": {"hi": "तंतु पर्याप्त गर्म नहीं हो पाता", "en": "Filament does not get heated enough"}
         },
         {
           "q": {
-            "hi": "जिस प्रतिबिंब को पर्दे पर प्राप्त किया जा सके, उसे क्या कहते हैं?",
-            "en": "An image that can be obtained on a screen is called?"
+            "hi": "LED का पूर्ण रूप क्या है?",
+            "en": "What is the full form of LED?"
           },
           "options": [
-            {"hi": "आभासी प्रतिबिंब", "en": "Virtual image"},
-            {"hi": "वास्तविक प्रतिबिंब", "en": "Real image"},
-            {"hi": "धुंधला प्रतिबिंब", "en": "Blurry image"},
-            {"hi": "उल्टा प्रतिबिंब", "en": "Inverted image"}
+            {"hi": "लाइट एमिटिंग डायोड", "en": "Light Emitting Diode"},
+            {"hi": "लो एनर्जी डिवाइस", "en": "Low Energy Device"},
+            {"hi": "लॉन्ग एमिटिंग डिस्प्ले", "en": "Long Emitting Display"},
+            {"hi": "लाइट एनेबल्ड डायोड", "en": "Light Enabled Diode"}
           ],
-          "answer": {"hi": "वास्तविक प्रतिबिंब", "en": "Real image"}
+          "answer": {"hi": "लाइट एमिटिंग डायोड", "en": "Light Emitting Diode"}
         },
         {
           "q": {
-            "hi": "समतल दर्पण द्वारा बने प्रतिबिंब को पर्दे पर प्राप्त क्यों नहीं किया जा सकता?",
-            "en": "Why can't an image formed by a plane mirror be obtained on a screen?"
+            "hi": "LED के साथ जुड़े दो तारों को क्या कहते हैं?",
+            "en": "What are the two wires attached to an LED called?"
           },
           "options": [
-            {"hi": "क्योंकि यह वास्तविक है", "en": "Because it is real"},
-            {"hi": "क्योंकि यह आभासी है", "en": "Because it is virtual"},
-            {"hi": "क्योंकि यह उल्टा है", "en": "Because it is inverted"},
-            {"hi": "क्योंकि दर्पण छोटा है", "en": "Because mirror is small"}
+            {"hi": "ध्रुव", "en": "Poles"},
+            {"hi": "लीड्स (Leads)", "en": "Leads"},
+            {"hi": "तंतु", "en": "Filaments"},
+            {"hi": "स्विच", "en": "Switches"}
           ],
-          "answer": {"hi": "क्योंकि यह आभासी है", "en": "Because it is virtual"}
+          "answer": {"hi": "लीड्स (Leads)", "en": "Leads"}
         },
         {
           "q": {
-            "hi": "यदि किसी गोलीय दर्पण का परावर्तक पृष्ठ अवतल (Concave) है, तो उसे क्या कहते हैं?",
-            "en": "If the reflecting surface of a spherical mirror is concave, it is called a?"
+            "hi": "LED की लंबी लीड को हमेशा बैटरी के किस टर्मिनल से जोड़ा जाता है?",
+            "en": "The longer lead of an LED is always connected to which terminal of the battery?"
           },
           "options": [
-            {"hi": "उत्तल दर्पण", "en": "Convex mirror"},
-            {"hi": "अवतल दर्पण", "en": "Concave mirror"},
-            {"hi": "समतल दर्पण", "en": "Plane mirror"},
-            {"hi": "द्वि-अवतल दर्पण", "en": "Bi-concave mirror"}
+            {"hi": "ऋण (-) टर्मिनल", "en": "Negative terminal"},
+            {"hi": "धन (+) टर्मिनल", "en": "Positive terminal"},
+            {"hi": "किसी भी टर्मिनल से", "en": "To any terminal"},
+            {"hi": "अर्थिंग से", "en": "To earthing"}
           ],
-          "answer": {"hi": "अवतल दर्पण", "en": "Concave mirror"}
+          "answer": {"hi": "धन (+) टर्मिनल", "en": "Positive terminal"}
         },
         {
           "q": {
-            "hi": "गोलीय दर्पण जिसका परावर्तक पृष्ठ उत्तल (Convex) हो, क्या कहलाता है?",
-            "en": "A spherical mirror whose reflecting surface is convex is called a?"
+            "hi": "दुर्बल विद्युत धारा का पता लगाने के लिए बल्ब के स्थान पर किसका उपयोग किया जा सकता है?",
+            "en": "What can be used instead of a bulb to detect weak electric current?"
           },
           "options": [
-            {"hi": "अवतल दर्पण", "en": "Concave mirror"},
-            {"hi": "उत्तल दर्पण", "en": "Convex mirror"},
-            {"hi": "समतल दर्पण", "en": "Plane mirror"},
-            {"hi": "लेंस", "en": "Lens"}
+            {"hi": "लकड़ी", "en": "Wood"},
+            {"hi": "चुम्बकीय सुई (Magnetic Needle)", "en": "Magnetic needle"},
+            {"hi": "कागज", "en": "Paper"},
+            {"hi": "प्लास्टिक", "en": "Plastic"}
           ],
-          "answer": {"hi": "उत्तल दर्पण", "en": "Convex mirror"}
+          "answer": {"hi": "चुम्बकीय सुई (Magnetic Needle)", "en": "Magnetic needle"}
         },
         {
           "q": {
-            "hi": "स्टेनलेस स्टील की चम्मच का भीतरी पृष्ठ किसकी भाँति कार्य करता है?",
-            "en": "The inner surface of a stainless steel spoon acts like a?"
+            "hi": "आसुत जल (Distilled Water) विद्युत का कैसा चालक है?",
+            "en": "What kind of conductor is distilled water?"
           },
           "options": [
-            {"hi": "उत्तल दर्पण", "en": "Convex mirror"},
-            {"hi": "अवतल दर्पण", "en": "Concave mirror"},
-            {"hi": "समतल दर्पण", "en": "Plane mirror"},
-            {"hi": "काँच", "en": "Glass"}
+            {"hi": "सुचालक", "en": "Good conductor"},
+            {"hi": "हीन चालक (Poor Conductor)", "en": "Poor conductor"},
+            {"hi": "अतिचालक", "en": "Superconductor"},
+            {"hi": "अर्धचालक", "en": "Semiconductor"}
           ],
-          "answer": {"hi": "अवतल दर्पण", "en": "Concave mirror"}
+          "answer": {"hi": "हीन चालक (Poor Conductor)", "en": "Poor conductor"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "चम्मच का बाहरी पृष्ठ किसकी भाँति कार्य करता है?",
-            "en": "The outer surface of a spoon acts like a?"
+            "hi": "आसुत जल में नमक घोलने पर वह विद्युत का क्या बन जाता है?",
+            "en": "What does distilled water become when salt is dissolved in it?"
           },
           "options": [
-            {"hi": "अवतल दर्पण", "en": "Concave mirror"},
-            {"hi": "उत्तल दर्पण", "en": "Convex mirror"},
-            {"hi": "लेंस", "en": "Lens"},
-            {"hi": "अपारदर्शी वस्तु", "en": "Opaque object"}
+            {"hi": "हीन चालक", "en": "Poor conductor"},
+            {"hi": "सुचालक (Good Conductor)", "en": "Good conductor"},
+            {"hi": "विद्युतरोधी", "en": "Insulator"},
+            {"hi": "कुछ नहीं बदलता", "en": "Nothing changes"}
           ],
-          "answer": {"hi": "उत्तल दर्पण", "en": "Convex mirror"}
+          "answer": {"hi": "सुचालक (Good Conductor)", "en": "Good conductor"}
         },
         {
           "q": {
-            "hi": "दंत विशेषज्ञ (Dentists) दाँतों का बड़ा प्रतिबिंब देखने के लिए किसका उपयोग करते हैं?",
-            "en": "What do dentists use to see an enlarged image of teeth?"
+            "hi": "हमें नलों, कुओं और तालाबों से प्राप्त होने वाला जल विद्युत का सुचालक क्यों होता है?",
+            "en": "Why is water obtained from taps, wells, and ponds a good conductor of electricity?"
           },
           "options": [
-            {"hi": "उत्तल दर्पण", "en": "Convex mirror"},
-            {"hi": "अवतल दर्पण", "en": "Concave mirror"},
-            {"hi": "समतल दर्पण", "en": "Plane mirror"},
-            {"hi": "मैग्नीफाइंग ग्लास", "en": "Magnifying glass"}
+            {"hi": "क्योंकि वह ठंडा होता है", "en": "Because it is cold"},
+            {"hi": "क्योंकि इसमें खनिज लवण घुले होते हैं", "en": "Because minerals salts are dissolved in it"},
+            {"hi": "क्योंकि उसमें मिट्टी होती है", "en": "Because it has soil"},
+            {"hi": "उसमें हवा होती है", "en": "It has air"}
           ],
-          "answer": {"hi": "अवतल दर्पण", "en": "Concave mirror"}
+          "answer": {"hi": "क्योंकि इसमें खनिज लवण घुले होते हैं", "en": "Because minerals salts are dissolved in it"}
         },
         {
           "q": {
-            "hi": "वाहनों के पार्श्व दर्पण (Side mirrors) में किस दर्पण का उपयोग किया जाता है?",
-            "en": "Which mirror is used as side mirrors in vehicles?"
+            "hi": "विद्युत उपकरणों का उपयोग गीले हाथों या गीले फर्श पर खड़े होकर क्यों नहीं करना चाहिए?",
+            "en": "Why should electrical appliances not be handled with wet hands or while standing on a wet floor?"
           },
           "options": [
-            {"hi": "अवतल दर्पण", "en": "Concave mirror"},
-            {"hi": "उत्तल दर्पण", "en": "Convex mirror"},
-            {"hi": "समतल दर्पण", "en": "Plane mirror"},
-            {"hi": "लेंस", "en": "Lens"}
+            {"hi": "गंदगी के कारण", "en": "Due to dirt"},
+            {"hi": "विद्युत झटका (Shock) लगने के खतरे के कारण", "en": "Due to the risk of electric shock"},
+            {"hi": "उपकरण खराब होने के कारण", "en": "Due to damage to the appliance"},
+            {"hi": "फिसलने के कारण", "en": "Due to slipping"}
           ],
-          "answer": {"hi": "उत्तल दर्पण", "en": "Convex mirror"}
+          "answer": {"hi": "विद्युत झटका (Shock) लगने के खतरे के कारण", "en": "Due to the risk of electric shock"}
         },
         {
           "q": {
-            "hi": "कौन सा दर्पण अधिक क्षेत्र की वस्तुओं का प्रतिबिंब बना सकता है?",
-            "en": "Which mirror can form images of objects spread over a large area?"
+            "hi": "किसी चालक द्रव में विद्युत धारा प्रवाहित करने पर क्या होता है?",
+            "en": "What happens when electric current is passed through a conducting liquid?"
           },
           "options": [
-            {"hi": "अवतल दर्पण", "en": "Concave mirror"},
-            {"hi": "समतल दर्पण", "en": "Plane mirror"},
-            {"hi": "उत्तल दर्पण", "en": "Convex mirror"},
-            {"hi": "कोई नहीं", "en": "None"}
+            {"hi": "द्रव जम जाता है", "en": "Liquid freezes"},
+            {"hi": "रासायनिक प्रभाव (Chemical effects) उत्पन्न होते हैं", "en": "Chemical effects are produced"},
+            {"hi": "द्रव गायब हो जाता है", "en": "Liquid disappears"},
+            {"hi": "कोई प्रभाव नहीं", "en": "No effect"}
           ],
-          "answer": {"hi": "उत्तल दर्पण", "en": "Convex mirror"}
+          "answer": {"hi": "रासायनिक प्रभाव (Chemical effects) उत्पन्न होते हैं", "en": "Chemical effects are produced"}
         },
         {
           "q": {
-            "hi": "किनारे की अपेक्षा बीच में मोटे लेंस को क्या कहते हैं?",
-            "en": "A lens which feels thicker in the middle than at the edges is called a?"
+            "hi": "सन 1800 में ब्रिटिश रसायनज्ञ विलियम निकोल्सन ने क्या दर्शाया था?",
+            "en": "What did British chemist William Nicholson show in 1800?"
           },
           "options": [
-            {"hi": "अवतल लेंस", "en": "Concave lens"},
-            {"hi": "उत्तल लेंस", "en": "Convex lens"},
-            {"hi": "समतल लेंस", "en": "Plane lens"},
-            {"hi": "बेलनाकार लेंस", "en": "Cylindrical lens"}
+            {"hi": "प्रकाश का वेग", "en": "Velocity of light"},
+            {"hi": "जल का विद्युत अपघटन (Electrolysis of water)", "en": "Electrolysis of water"},
+            {"hi": "गुरुत्वाकर्षण", "en": "Gravity"},
+            {"hi": "परमाणु संरचना", "en": "Atomic structure"}
           ],
-          "answer": {"hi": "उत्तल लेंस", "en": "Convex lens"}
+          "answer": {"hi": "जल का विद्युत अपघटन (Electrolysis of water)", "en": "Electrolysis of water"}
         },
         {
           "q": {
-            "hi": "किनारे की अपेक्षा बीच में पतले महसूस होने वाले लेंस क्या कहलाते हैं?",
-            "en": "Lenses which feel thinner in the middle than at the edges are called?"
+            "hi": "जल में इलेक्ट्रोड डूबाकर धारा प्रवाहित करने पर ऑक्सीजन के बुलबुले किस इलेक्ट्रोड पर बनते हैं?",
+            "en": "On which electrode do oxygen bubbles form when current is passed through water with electrodes?"
           },
           "options": [
-            {"hi": "उत्तल लेंस", "en": "Convex lens"},
-            {"hi": "अवतल लेंस", "en": "Concave lens"},
-            {"hi": "मैग्नीफाइंग लेंस", "en": "Magnifying lens"},
-            {"hi": "काँच की पट्टी", "en": "Glass slab"}
+            {"hi": "ऋण (-) टर्मिनल", "en": "Negative terminal"},
+            {"hi": "धन (+) टर्मिनल", "en": "Positive terminal"},
+            {"hi": "दोनों पर", "en": "On both"},
+            {"hi": "किसी पर नहीं", "en": "On none"}
           ],
-          "answer": {"hi": "अवतल लेंस", "en": "Concave lens"}
+          "answer": {"hi": "धन (+) टर्मिनल", "en": "Positive terminal"}
         },
         {
           "q": {
-            "hi": "प्रकाश को अंदर की ओर मोड़ने (अभिसरित करने) वाला लेंस कौन सा है?",
-            "en": "Which lens converges (bends inward) the light falling on it?"
+            "hi": "विद्युत धारा के रासायनिक प्रभाव के कारण विलयन में क्या परिवर्तन हो सकते हैं?",
+            "en": "What changes can occur in a solution due to the chemical effect of electric current?"
           },
           "options": [
-            {"hi": "अवतल लेंस", "en": "Concave lens"},
-            {"hi": "उत्तल लेंस", "en": "Convex lens"},
-            {"hi": "अपसारी लेंस", "en": "Diverging lens"},
-            {"hi": "समतल काँच", "en": "Plain glass"}
-          ],
-          "answer": {"hi": "उत्तल लेंस", "en": "Convex lens"}
-        },
-        {
-          "q": {
-            "hi": "प्रकाश को बाहर की ओर मोड़ने (अपसरित करने) वाले लेंस को क्या कहते हैं?",
-            "en": "A lens that diverges (bends outward) the light is called?"
-          },
-          "options": [
-            {"hi": "अभिसारी लेंस", "en": "Converging lens"},
-            {"hi": "अवतल लेंस", "en": "Concave lens"},
-            {"hi": "उत्तल लेंस", "en": "Convex lens"},
-            {"hi": "काँच का प्रिज्म", "en": "Glass prism"}
-          ],
-          "answer": {"hi": "अवतल लेंस", "en": "Concave lens"}
-        },
-        {
-          "q": {
-            "hi": "आवर्धक लेंस (Magnifying glass) वास्तव में किस प्रकार का लेंस है?",
-            "en": "What type of lens is a magnifying glass in reality?"
-          },
-          "options": [
-            {"hi": "अवतल लेंस", "en": "Concave lens"},
-            {"hi": "उत्तल लेंस", "en": "Convex lens"},
-            {"hi": "अपसारी लेंस", "en": "Diverging lens"},
-            {"hi": "द्वि-अवतल लेंस", "en": "Bi-concave lens"}
-          ],
-          "answer": {"hi": "उत्तल लेंस", "en": "Convex lens"}
-        },
-        {
-          "q": {
-            "hi": "आकाश में इंद्रधनुष कब दिखाई देता है?",
-            "en": "When is a rainbow usually seen in the sky?"
-          },
-          "options": [
-            {"hi": "दोपहर में", "en": "At noon"},
-            {"hi": "वर्षा के पश्चात् जब सूर्य आकाश में नीचे हो", "en": "After rain when sun is low in the sky"},
-            {"hi": "आधी रात को", "en": "At midnight"},
-            {"hi": "बिना वर्षा के", "en": "Without rain"}
-          ],
-          "answer": {"hi": "वर्षा के पश्चात् जब सूर्य आकाश में नीचे हो", "en": "After rain when sun is low in the sky"}
-        }
-      ],
-      "section3": [
-        {
-          "q": {
-            "hi": "इंद्रधनुष में कितने रंग होते हैं?",
-            "en": "How many colors are there in a rainbow?"
-          },
-          "options": [
-            {"hi": "पाँच", "en": "Five"},
-            {"hi": "छह", "en": "Six"},
-            {"hi": "सात", "en": "Seven"},
-            {"hi": "आठ", "en": "Eight"}
-          ],
-          "answer": {"hi": "सात", "en": "Seven"}
-        },
-        {
-          "q": {
-            "hi": "श्वेत प्रकाश को सात रंगों में कौन बाँट सकता है?",
-            "en": "What can split white light into seven colors?"
-          },
-          "options": [
-            {"hi": "समतल दर्पण", "en": "Plane mirror"},
-            {"hi": "काँच का प्रिज्म", "en": "Glass prism"},
-            {"hi": "स्टील की प्लेट", "en": "Steel plate"},
-            {"hi": "लोहे की छड़", "en": "Iron rod"}
-          ],
-          "answer": {"hi": "काँच का प्रिज्म", "en": "Glass prism"}
-        },
-        {
-          "q": {
-            "hi": "सात रंगों वाली डिस्क को तेजी से घुमाने पर वह कैसी दिखाई देती है?",
-            "en": "How does a disc with seven colors appear when rotated fast?"
-          },
-          "options": [
-            {"hi": "काली", "en": "Black"},
-            {"hi": "सफेद (श्वेत)", "en": "White"},
-            {"hi": "लाल", "en": "Red"},
-            {"hi": "रंगीन", "en": "Colorful"}
-          ],
-          "answer": {"hi": "सफेद (श्वेत)", "en": "White"}
-        },
-        {
-          "q": {
-            "hi": "न्यूटन की डिस्क का उपयोग क्या दिखाने के लिए किया जाता है?",
-            "en": "Newton's disc is used to show that?"
-          },
-          "options": [
-            {"hi": "प्रकाश काला है", "en": "Light is black"},
-            {"hi": "श्वेत प्रकाश सात रंगों का मिश्रण है", "en": "White light is a mixture of seven colors"},
-            {"hi": "अंधेरा अच्छा है", "en": "Darkness is good"},
-            {"hi": "दर्पण प्रकाश मोड़ता है", "en": "Mirror bends light"}
-          ],
-          "answer": {"hi": "श्वेत प्रकाश सात रंगों का मिश्रण है", "en": "White light is a mixture of seven colors"}
-        },
-        {
-          "q": {
-            "hi": "वास्तविक प्रतिबिंब हमेशा कैसा होता है?",
-            "en": "A real image is always?"
-          },
-          "options": [
-            {"hi": "सीधा", "en": "Erect"},
-            {"hi": "उल्टा", "en": "Inverted"},
-            {"hi": "छोटा", "en": "Small"},
-            {"hi": "आभासी", "en": "Virtual"}
-          ],
-          "answer": {"hi": "उल्टा", "en": "Inverted"}
-        },
-        {
-          "q": {
-            "hi": "किस लेंस द्वारा बना प्रतिबिंब हमेशा आभासी, सीधा और छोटा होता है?",
-            "en": "Which lens always forms a virtual, erect and diminished image?"
-          },
-          "options": [
-            {"hi": "उत्तल लेंस", "en": "Convex lens"},
-            {"hi": "अवतल लेंस", "en": "Concave lens"},
-            {"hi": "बेलनाकार लेंस", "en": "Cylindrical lens"},
-            {"hi": "बड़ा लेंस", "en": "Large lens"}
-          ],
-          "answer": {"hi": "अवतल लेंस", "en": "Concave lens"}
-        },
-        {
-          "q": {
-            "hi": "परावर्तन के पश्चात प्रकाश कहाँ जाता है?",
-            "en": "Where does light go after reflection?"
-          },
-          "options": [
-            {"hi": "दूसरी दिशा में", "en": "In another direction"},
-            {"hi": "दर्पण के अंदर", "en": "Inside the mirror"},
-            {"hi": "गायब हो जाता है", "en": "Disappears"},
-            {"hi": "सीधा पार निकल जाता है", "en": "Passes straight through"}
-          ],
-          "answer": {"hi": "दूसरी दिशा में", "en": "In another direction"}
-        },
-        {
-          "q": {
-            "hi": "समतल दर्पण से प्रतिबिंब की दूरी और बिंब की दूरी में क्या संबंध है?",
-            "en": "What is the relation between image distance and object distance in a plane mirror?"
-          },
-          "options": [
-            {"hi": "दोनों समान होती हैं", "en": "Both are equal"},
-            {"hi": "प्रतिबिंब दूर होता है", "en": "Image is farther"},
-            {"hi": "बिंब दूर होता है", "en": "Object is farther"},
-            {"hi": "कोई संबंध नहीं है", "en": "No relation"}
-          ],
-          "answer": {"hi": "दोनों समान होती हैं", "en": "Both are equal"}
-        },
-        {
-          "q": {
-            "hi": "टॉर्च और सर्चलाइट के परावर्तक पृष्ठ की आकृति कैसी होती है?",
-            "en": "What is the shape of reflectors in torches and searchlights?"
-          },
-          "options": [
-            {"hi": "उत्तल", "en": "Convex"},
-            {"hi": "अवतल", "en": "Concave"},
-            {"hi": "समतल", "en": "Plane"},
-            {"hi": "त्रिकोणीय", "en": "Triangular"}
-          ],
-          "answer": {"hi": "अवतल", "en": "Concave"}
-        },
-        {
-          "q": {
-            "hi": "इंद्रधनुष के सात रंगों का सही क्रम याद रखने का शब्द क्या है?",
-            "en": "What word is used to remember the correct order of seven colors of rainbow?"
-          },
-          "options": [
-            {"hi": "VIBGYOR", "en": "VIBGYOR"},
-            {"hi": "RAINBOW", "en": "RAINBOW"},
-            {"hi": "LIGHT7", "en": "LIGHT7"},
-            {"hi": "SUNCOL", "en": "SUNCOL"}
-          ],
-          "answer": {"hi": "VIBGYOR", "en": "VIBGYOR"}
-        }
-      ],
-      "section4": [
-        {
-          "q": {
-            "hi": "एक बिंब समतल दर्पण से 5 cm की दूरी पर है। बिंब और प्रतिबिंब के बीच की दूरी क्या होगी?",
-            "en": "An object is 5 cm from a plane mirror. What is the distance between object and image?"
-          },
-          "options": [
-            {"hi": "5 cm", "en": "5 cm"},
-            {"hi": "10 cm", "en": "10 cm"},
-            {"hi": "15 cm", "en": "15 cm"},
-            {"hi": "0 cm", "en": "0 cm"}
-          ],
-          "answer": {"hi": "10 cm", "en": "10 cm"}
-        },
-        {
-          "q": {
-            "hi": "एम्बुलेंस (AMBULANCE) शब्द वाहनों पर उल्टा क्यों लिखा जाता है?",
-            "en": "Why is the word AMBULANCE written laterally inverted on vehicles?"
-          },
-          "options": [
-            {"hi": "स्टाइल के लिए", "en": "For style"},
-            {"hi": "ताकि आगे वाले वाहन के दर्पण में सीधा दिखे", "en": "So it appears erect in the mirror of vehicle ahead"},
-            {"hi": "गलती से", "en": "By mistake"},
-            {"hi": "नियम के कारण", "en": "Due to law"}
-          ],
-          "answer": {"hi": "ताकि आगे वाले वाहन के दर्पण में सीधा दिखे", "en": "So it appears erect in the mirror of vehicle ahead"}
-        },
-        {
-          "q": {
-            "hi": "पर्दे पर बनने वाले प्रतिबिंब को क्या कहते हैं?",
-            "en": "The image formed on a screen is called?"
-          },
-          "options": [
-            {"hi": "आभासी", "en": "Virtual"},
-            {"hi": "वास्तविक", "en": "Real"},
-            {"hi": "पार्श्व", "en": "Lateral"},
-            {"hi": "सीधा", "en": "Erect"}
-          ],
-          "answer": {"hi": "वास्तविक", "en": "Real"}
-        },
-        {
-          "q": {
-            "hi": "अवतल दर्पण द्वारा बना प्रतिबिंब कैसा हो सकता है?",
-            "en": "An image formed by a concave mirror can be?"
-          },
-          "options": [
-            {"hi": "वास्तविक या आभासी", "en": "Real or virtual"},
-            {"hi": "छोटा या बड़ा", "en": "Small or large"},
-            {"hi": "उल्टा या सीधा", "en": "Inverted or erect"},
+            {"hi": "गैस के बुलबुले बनना", "en": "Formation of gas bubbles"},
+            {"hi": "इलेक्ट्रोडों पर धातु का जमा होना", "en": "Deposition of metal on electrodes"},
+            {"hi": "विलयन के रंग में परिवर्तन", "en": "Change in color of solution"},
             {"hi": "उपरोक्त सभी", "en": "All of the above"}
           ],
           "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
         },
         {
           "q": {
-            "hi": "स्कूटर के साइड मिरर में वस्तुएँ कैसी दिखाई देती हैं?",
-            "en": "How do objects appear in the side mirror of a scooter?"
+            "hi": "विद्युत द्वारा किसी पदार्थ पर किसी वांछित धातु की परत निक्षेपित करने की प्रक्रिया क्या कहलाती है?",
+            "en": "The process of depositing a layer of any desired metal on another material by means of electricity is called?"
           },
           "options": [
-            {"hi": "बड़ी", "en": "Large"},
-            {"hi": "छोटी", "en": "Small"},
-            {"hi": "समान आमाप", "en": "Same size"},
-            {"hi": "उल्टी", "en": "Inverted"}
+            {"hi": "विद्युत अपघटन", "en": "Electrolysis"},
+            {"hi": "विद्युतलेपन (Electroplating)", "en": "Electroplating"},
+            {"hi": "विद्युत चालन", "en": "Electric conduction"},
+            {"hi": "विद्युत प्रेरण", "en": "Electric induction"}
           ],
-          "answer": {"hi": "छोटी", "en": "Small"}
+          "answer": {"hi": "विद्युतलेपन (Electroplating)", "en": "Electroplating"}
         },
         {
           "q": {
-            "hi": "सूक्ष्म वस्तुओं को बड़ा करके देखने के लिए किसका उपयोग किया जाता है?",
-            "en": "What is used to see tiny objects enlarged?"
+            "hi": "साइकिल के हैंडल और पहियों के रिम को चमकदार बनाने के लिए किस धातु का लेपन किया जाता है?",
+            "en": "Which metal is plated on bicycle handlebars and wheel rims to make them shiny?"
           },
           "options": [
-            {"hi": "अवतल लेंस", "en": "Concave lens"},
-            {"hi": "उत्तल लेंस", "en": "Convex lens"},
-            {"hi": "समतल काँच", "en": "Plain glass"},
-            {"hi": "चश्मा", "en": "Spectacles"}
+            {"hi": "लोहा", "en": "Iron"},
+            {"hi": "क्रोमियम", "en": "Chromium"},
+            {"hi": "ताँबा", "en": "Copper"},
+            {"hi": "ऐलुमिनियम", "en": "Aluminium"}
           ],
-          "answer": {"hi": "उत्तल लेंस", "en": "Convex lens"}
+          "answer": {"hi": "क्रोमियम", "en": "Chromium"}
         },
         {
           "q": {
-            "hi": "धूप के चश्मे में किस लेंस का उपयोग किया जाता है?",
-            "en": "Which lens is used in sunglasses?"
+            "hi": "सस्ती धातुओं के आभूषणों पर सोने या चाँदी का लेपन किस विधि से किया जाता है?",
+            "en": "By which method is gold or silver plating done on ornaments made of cheap metals?"
           },
           "options": [
-            {"hi": "उत्तल", "en": "Convex"},
-            {"hi": "अवतल", "en": "Concave"},
-            {"hi": "साधारण काँच", "en": "Ordinary glass"},
-            {"hi": "कोई नहीं", "en": "None"}
+            {"hi": "पेंटिंग", "en": "Painting"},
+            {"hi": "विद्युतलेपन (Electroplating)", "en": "Electroplating"},
+            {"hi": "पॉलिशिंग", "en": "Polishing"},
+            {"hi": "गर्म करके", "en": "By heating"}
           ],
-          "answer": {"hi": "साधारण काँच", "en": "Ordinary glass"}
+          "answer": {"hi": "विद्युतलेपन (Electroplating)", "en": "Electroplating"}
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "खाद्य पदार्थों के भण्डारण के लिए लोहे के डिब्बों पर किस धातु का लेपन किया जाता है?",
+            "en": "Which metal is plated on iron cans used for storing food?"
+          },
+          "options": [
+            {"hi": "क्रोमियम", "en": "Chromium"},
+            {"hi": "टिन (Tin)", "en": "Tin"},
+            {"hi": "जस्ता (Zinc)", "en": "Zinc"},
+            {"hi": "सोना", "en": "Gold"}
+          ],
+          "answer": {"hi": "टिन (Tin)", "en": "Tin"}
         },
         {
           "q": {
-            "hi": "प्रकाश के सात रंगों का मिश्रण क्या कहलाता है?",
-            "en": "The mixture of seven colors of light is called?"
+            "hi": "लोहे को संक्षारित होने और जंग लगने से बचाने के लिए उस पर किस धातु की परत चढ़ाई जाती है?",
+            "en": "A coating of which metal is deposited on iron to protect it from corrosion and rusting?"
           },
           "options": [
-            {"hi": "श्वेत प्रकाश", "en": "White light"},
-            {"hi": "काला प्रकाश", "en": "Black light"},
-            {"hi": "लाल प्रकाश", "en": "Red light"},
-            {"hi": "नीला प्रकाश", "en": "Blue light"}
+            {"hi": "ताँबा", "en": "Copper"},
+            {"hi": "चाँदी", "en": "Silver"},
+            {"hi": "यशद/जस्ता (Zinc)", "en": "Zinc"},
+            {"hi": "ऐलुमिनियम", "en": "Aluminium"}
           ],
-          "answer": {"hi": "श्वेत प्रकाश", "en": "White light"}
+          "answer": {"hi": "यशद/जस्ता (Zinc)", "en": "Zinc"}
         },
         {
           "q": {
-            "hi": "साबुन के बुलबुले रंगीन क्यों दिखाई देते हैं?",
-            "en": "Why do soap bubbles appear colorful?"
+            "hi": "विद्युतलेपन कारखानों में उपयोग किए जा चुके अपशिष्ट विलयनों का निपटारा एक बड़ी समस्या क्यों है?",
+            "en": "Why is the disposal of used waste solutions in electroplating factories a major problem?"
           },
           "options": [
-            {"hi": "प्रकाश के परावर्तन के कारण", "en": "Due to reflection of light"},
-            {"hi": "प्रकाश के विक्षेपण के कारण", "en": "Due to dispersion of light"},
-            {"hi": "साबुन के रंग के कारण", "en": "Due to soap color"},
-            {"hi": "अंधेरे के कारण", "en": "Due to darkness"}
+            {"hi": "क्योंकि वे भारी होते हैं", "en": "Because they are heavy"},
+            {"hi": "क्योंकि वे प्रदूषणकारी (Polluting) होते हैं", "en": "Because they are polluting"},
+            {"hi": "क्योंकि वे कीमती होते हैं", "en": "Because they are valuable"},
+            {"hi": "क्योंकि वे जलते हैं", "en": "Because they burn"}
           ],
-          "answer": {"hi": "प्रकाश के विक्षेपण के कारण", "en": "Due to dispersion of light"}
+          "answer": {"hi": "क्योंकि वे प्रदूषणकारी (Polluting) होते हैं", "en": "Because they are polluting"}
         },
         {
           "q": {
-            "hi": "दर्पण के सामने खड़े होने पर आपका प्रतिबिंब कैसा होता है?",
-            "en": "When you stand in front of a mirror, your image is?"
+            "hi": "कॉपर सल्फेट विलयन में विद्युत धारा प्रवाहित करने पर कॉपर किस टर्मिनल से जुड़े इलेक्ट्रोड पर जमा होता है?",
+            "en": "When electric current is passed through copper sulphate solution, on which terminal's electrode does copper get deposited?"
           },
           "options": [
-            {"hi": "आभासी", "en": "Virtual"},
-            {"hi": "वास्तविक", "en": "Real"},
-            {"hi": "उल्टा", "en": "Inverted"},
-            {"hi": "पर्दे पर आने वाला", "en": "Coming on screen"}
+            {"hi": "धन (+) टर्मिनल", "en": "Positive terminal"},
+            {"hi": "ऋण (-) टर्मिनल", "en": "Negative terminal"},
+            {"hi": "बैटरी के ऊपर", "en": "On top of the battery"},
+            {"hi": "स्विच पर", "en": "On the switch"}
           ],
-          "answer": {"hi": "आभासी", "en": "Virtual"}
+          "answer": {"hi": "ऋण (-) टर्मिनल", "en": "Negative terminal"}
+        },
+        {
+          "q": {
+            "hi": "विद्युतलेपन की प्रक्रिया में विलयन से नष्ट हुए कॉपर की पूर्ति कैसे होती है?",
+            "en": "In the process of electroplating, how is the copper lost from the solution replenished?"
+          },
+          "options": [
+            {"hi": "बाहर से कॉपर डालकर", "en": "By adding copper from outside"},
+            {"hi": "दूसरे कॉपर इलेक्ट्रोड के घुलने से", "en": "By the dissolving of the other copper electrode"},
+            {"hi": "पानी से", "en": "From water"},
+            {"hi": "हवा से", "en": "From air"}
+          ],
+          "answer": {"hi": "दूसरे कॉपर इलेक्ट्रोड के घुलने से", "en": "By the dissolving of the other copper electrode"}
+        },
+        {
+          "q": {
+            "hi": "शहद (Honey) विद्युत का कैसा चालक है?",
+            "en": "What kind of conductor is honey?"
+          },
+          "options": [
+            {"hi": "सुचालक", "en": "Good conductor"},
+            {"hi": "हीन चालक (Poor Conductor)", "en": "Poor conductor"},
+            {"hi": "अतिचालक", "en": "Superconductor"},
+            {"hi": "चालन नहीं करता", "en": "Does not conduct"}
+          ],
+          "answer": {"hi": "हीन चालक (Poor Conductor)", "en": "Poor conductor"}
+        },
+        {
+          "q": {
+            "hi": "विद्युत धारा प्रवाहित होने पर चुम्बकीय सुई में विक्षेप होना क्या दर्शाता है?",
+            "en": "What does the deflection in a magnetic needle indicate when electric current flows?"
+          },
+          "options": [
+            {"hi": "धारा का ऊष्मीय प्रभाव", "en": "Heating effect of current"},
+            {"hi": "धारा का चुम्बकीय प्रभाव (Magnetic effect)", "en": "Magnetic effect of current"},
+            {"hi": "धारा का प्रकाशिक प्रभाव", "en": "Optical effect of current"},
+            {"hi": "सुई का टूटना", "en": "Breaking of needle"}
+          ],
+          "answer": {"hi": "धारा का चुम्बकीय प्रभाव (Magnetic effect)", "en": "Magnetic effect of current"}
+        },
+        {
+          "q": {
+            "hi": "क्रोमियम धातु का उपयोग लेपन के लिए क्यों किया जाता है?",
+            "en": "Why is chromium metal used for plating?"
+          },
+          "options": [
+            {"hi": "यह चमकदार होती है", "en": "It is shiny"},
+            {"hi": "यह संक्षारित नहीं होती", "en": "It does not corrode"},
+            {"hi": "यह खरोंचों का प्रतिरोध करती है", "en": "It resists scratches"},
+            {"hi": "उपरोक्त सभी", "en": "All of the above"}
+          ],
+          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
+        },
+        {
+          "q": {
+            "hi": "क्या वनस्पति तेल विद्युत का चालन करते हैं?",
+            "en": "Do vegetable oils conduct electricity?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "केवल गरम करने पर", "en": "Only on heating"},
+            {"hi": "बहुत अधिक", "en": "Very much"}
+          ],
+          "answer": {"hi": "नहीं", "en": "No"}
+        },
+        {
+          "q": {
+            "hi": "विद्युतलेपन बाथ (Electroplating bath) में इलेक्ट्रोड के रूप में किसका उपयोग किया जा सकता है?",
+            "en": "What can be used as electrodes in an electroplating bath?"
+          },
+          "options": [
+            {"hi": "कार्बन की छड़ें", "en": "Carbon rods"},
+            {"hi": "ताँबे की प्लेटें", "en": "Copper plates"},
+            {"hi": "कोई भी धातु की प्लेट", "en": "Any metal plate"},
+            {"hi": "उपरोक्त सभी", "en": "All of the above"}
+          ],
+          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "संपरीक्षित्र (Tester) के स्वतंत्र सिरों को बहुत अधिक समय तक एक-दूसरे से जोड़कर क्यों नहीं रखना चाहिए?",
+            "en": "Why should the free ends of a tester not be joined together for too long?"
+          },
+          "options": [
+            {"hi": "तार गर्म हो जाएँगे", "en": "Wires will get hot"},
+            {"hi": "बैटरी बहुत तेज़ी से समाप्त हो जाएगी", "en": "The battery will drain very quickly"},
+            {"hi": "झटका लग सकता है", "en": "May get a shock"},
+            {"hi": "बल्ब फूट जाएगा", "en": "Bulb will burst"}
+          ],
+          "answer": {"hi": "बैटरी बहुत तेज़ी से समाप्त हो जाएगी", "en": "The battery will drain very quickly"}
+        },
+        {
+          "q": {
+            "hi": "नींबू के रस में संपरीक्षित्र के सिरे डालने पर चुम्बकीय सुई में क्या होता है?",
+            "en": "What happens to the magnetic needle when the ends of a tester are dipped in lemon juice?"
+          },
+          "options": [
+            {"hi": "कोई विक्षेप नहीं", "en": "No deflection"},
+            {"hi": "विक्षेप (Deflection) होता है", "en": "Deflection occurs"},
+            {"hi": "सुई पिघल जाती है", "en": "Needle melts"},
+            {"hi": "सुई उलटी घूमती है", "en": "Needle rotates backwards"}
+          ],
+          "answer": {"hi": "विक्षेप (Deflection) होता है", "en": "Deflection occurs"}
+        },
+        {
+          "q": {
+            "hi": "विद्युत चालन करने वाले अधिकांश द्रव किसके विलयन होते हैं?",
+            "en": "Most liquids that conduct electricity are solutions of?"
+          },
+          "options": [
+            {"hi": "अम्लों के", "en": "Acids"},
+            {"hi": "क्षारकों के", "en": "Bases"},
+            {"hi": "लवणों के", "en": "Salts"},
+            {"hi": "उपरोक्त सभी", "en": "All of the above"}
+          ],
+          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
+        },
+        {
+          "q": {
+            "hi": "क्या ताँबे की प्लेटों को उपयोग करने से पहले रेगमाल से साफ करना चाहिए?",
+            "en": "Should copper plates be cleaned with sandpaper before use?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "केवल पानी से", "en": "Only with water"},
+            {"hi": "तेल से", "en": "With oil"}
+          ],
+          "answer": {"hi": "हाँ", "en": "Yes"}
+        },
+        {
+          "q": {
+            "hi": "विद्युतलेपन के बाद उपयोग में आ चुके रसायनों को फेंकना क्यों खतरनाक है?",
+            "en": "Why is it dangerous to throw away used chemicals after electroplating?"
+          },
+          "options": [
+            {"hi": "वे बदबू करते हैं", "en": "They smell bad"},
+            {"hi": "वे पर्यावरण के लिए विषैले अपशिष्ट हैं", "en": "They are toxic waste for the environment"},
+            {"hi": "वे हवा सोख लेते हैं", "en": "They absorb air"},
+            {"hi": "वे मिट्टी को पत्थर बना देते हैं", "en": "They turn soil into stone"}
+          ],
+          "answer": {"hi": "वे पर्यावरण के लिए विषैले अपशिष्ट हैं", "en": "They are toxic waste for the environment"}
+        },
+        {
+          "q": {
+            "hi": "क्या आलू विद्युत का चालन कर सकता है?",
+            "en": "Can a potato conduct electricity?"
+          },
+          "options": [
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "केवल पकने पर", "en": "Only when cooked"},
+            {"hi": "केवल उबालने पर", "en": "Only when boiled"}
+          ],
+          "answer": {"hi": "हाँ", "en": "Yes"}
+        },
+        {
+          "q": {
+            "hi": "आलू में संपरीक्षित्र के तार डालने पर धन टर्मिनल के चारों ओर कैसा धब्बा दिखाई देता है?",
+            "en": "What kind of spot appears around the positive terminal when tester wires are inserted into a potato?"
+          },
+          "options": [
+            {"hi": "लाल", "en": "Red"},
+            {"hi": "नीला-हरा (Greenish blue)", "en": "Greenish blue"},
+            {"hi": "काला", "en": "Black"},
+            {"hi": "सफेद", "en": "White"}
+          ],
+          "answer": {"hi": "नीला-हरा (Greenish blue)", "en": "Greenish blue"}
+        },
+        {
+          "q": {
+            "hi": "क्या वर्षा का जल आसुत जल के समान ही हीन चालक होता है?",
+            "en": "Is rainwater as poor a conductor as distilled water?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं, इसमें अशुद्धियाँ घुली होती हैं", "en": "No, it contains dissolved impurities"},
+            {"hi": "पता नहीं", "en": "Don't know"},
+            {"hi": "केवल बिहार में", "en": "Only in Bihar"}
+          ],
+          "answer": {"hi": "नहीं, इसमें अशुद्धियाँ घुली होती हैं", "en": "No, it contains dissolved impurities"}
+        },
+        {
+          "q": {
+            "hi": "सिरका (Vinegar) विद्युत का कैसा चालक है?",
+            "en": "What kind of conductor is vinegar?"
+          },
+          "options": [
+            {"hi": "सुचालक", "en": "Good conductor"},
+            {"hi": "हीन चालक", "en": "Poor conductor"},
+            {"hi": "अचालक", "en": "Non-conductor"},
+            {"hi": "विद्युतरोधी", "en": "Insulator"}
+          ],
+          "answer": {"hi": "सुचालक", "en": "Good conductor"}
+        },
+        {
+          "q": {
+            "hi": "क्या वायु विद्युत की सुचालक है?",
+            "en": "Is air a good conductor of electricity?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं, यह हीन चालक है", "en": "No, it is a poor conductor"},
+            {"hi": "केवल दिन में", "en": "Only during day"},
+            {"hi": "केवल पहाड़ों पर", "en": "Only on mountains"}
+          ],
+          "answer": {"hi": "नहीं, यह हीन चालक है", "en": "No, it is a poor conductor"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "कौन सा लेंस वास्तविक प्रतिबिंब बना सकता है?",
-            "en": "Which lens can form a real image?"
+            "hi": "तड़ित (Lightning) के समय वायु से विद्युत धारा क्यों प्रवाहित होती है?",
+            "en": "Why does electric current flow through air during lightning?"
           },
           "options": [
-            {"hi": "अवतल लेंस", "en": "Concave lens"},
-            {"hi": "उत्तल लेंस", "en": "Convex lens"},
-            {"hi": "समतल लेंस", "en": "Plane lens"},
-            {"hi": "कोई नहीं", "en": "None"}
+            {"hi": "वायु सुचालक बन जाती है", "en": "Air becomes a good conductor"},
+            {"hi": "विद्युत दाब बहुत अधिक होता है", "en": "Electric pressure is very high"},
+            {"hi": "हवा गर्म होती है", "en": "Air is hot"},
+            {"hi": "बादलों के कारण", "en": "Due to clouds"}
           ],
-          "answer": {"hi": "उत्तल लेंस", "en": "Convex lens"}
+          "answer": {"hi": "विद्युत दाब बहुत अधिक होता है", "en": "Electric pressure is very high"}
         },
         {
           "q": {
-            "hi": "कैमरे में किस लेंस का उपयोग किया जाता है?",
-            "en": "Which lens is used in a camera?"
+            "hi": "क्या प्लास्टिक की बोतल के ढक्कन में विद्युत चालन का परीक्षण सुरक्षित है?",
+            "en": "Is it safe to test electric conduction in plastic bottle caps?"
           },
           "options": [
-            {"hi": "उत्तल लेंस", "en": "Convex lens"},
-            {"hi": "अवतल लेंस", "en": "Concave lens"},
-            {"hi": "समतल काँच", "en": "Plain glass"},
-            {"hi": "प्रिज्म", "en": "Prism"}
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "पता नहीं", "en": "Don't know"},
+            {"hi": "केवल बड़ों के साथ", "en": "Only with elders"}
           ],
-          "answer": {"hi": "उत्तल लेंस", "en": "Convex lens"}
+          "answer": {"hi": "हाँ", "en": "Yes"}
         },
         {
           "q": {
-            "hi": "पार्श्व परावर्तन (Lateral Inversion) क्या है?",
-            "en": "What is Lateral Inversion?"
+            "hi": "कॉपर सल्फेट विलयन का रंग कैसा होता है?",
+            "en": "What is the color of copper sulphate solution?"
           },
           "options": [
-            {"hi": "प्रतिबिंब का उल्टा होना", "en": "Inversion of image"},
-            {"hi": "बाएँ का दायाँ और दाएँ का बायाँ दिखना", "en": "Left appearing right and right appearing left"},
-            {"hi": "प्रतिबिंब का छोटा होना", "en": "Diminishing of image"},
-            {"hi": "रंगों का बदलना", "en": "Change of colors"}
+            {"hi": "हरा", "en": "Green"},
+            {"hi": "नीला (Blue)", "en": "Blue"},
+            {"hi": "पीला", "en": "Yellow"},
+            {"hi": "लाल", "en": "Red"}
           ],
-          "answer": {"hi": "बाएँ का दायाँ और दाएँ का बायाँ दिखना", "en": "Left appearing right and right appearing left"}
+          "answer": {"hi": "नीला (Blue)", "en": "Blue"}
         },
         {
           "q": {
-            "hi": "सीधे पाइप से मोमबत्ती देखना आसान है, लेकिन मुड़े हुए पाइप से नहीं क्योंकि?",
-            "en": "It is easy to see a candle through a straight pipe but not a bent one because?"
+            "hi": "क्या आसुत जल में चीनी घोलने पर वह सुचालक हो जाता है?",
+            "en": "Does distilled water become a good conductor when sugar is dissolved in it?"
           },
           "options": [
-            {"hi": "प्रकाश टेढ़ा चलता है", "en": "Light travels zig-zag"},
-            {"hi": "प्रकाश सरल रेखा में चलता है", "en": "Light travels in a straight line"},
-            {"hi": "पाइप काला है", "en": "Pipe is black"},
-            {"hi": "हवा नहीं है", "en": "There is no air"}
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "पता नहीं", "en": "Don't know"},
+            {"hi": "मीठा होने पर", "en": "When it's sweet"}
           ],
-          "answer": {"hi": "प्रकाश सरल रेखा में चलता है", "en": "Light travels in a straight line"}
+          "answer": {"hi": "नहीं", "en": "No"}
         },
         {
           "q": {
-            "hi": "प्रिज्म से गुजरने पर प्रकाश कितने रंगों में विभक्त होता है?",
-            "en": "Into how many colors is light split when passing through a prism?"
+            "hi": "यदि विद्युत धारा का रासायनिक प्रभाव न होता, तो क्या विद्युतलेपन संभव था?",
+            "en": "Would electroplating be possible if there were no chemical effect of electric current?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "पता नहीं", "en": "Don't know"},
+            {"hi": "केवल धूप में", "en": "Only in sunlight"}
+          ],
+          "answer": {"hi": "नहीं", "en": "No"}
+        },
+        {
+          "q": {
+            "hi": "इलेक्ट्रोड के रूप में पुरानी बैटरी से क्या निकाला जा सकता है?",
+            "en": "What can be extracted from an old battery to be used as an electrode?"
+          },
+          "options": [
+            {"hi": "लोहे की कील", "en": "Iron nail"},
+            {"hi": "कार्बन की छड़ (Carbon rod)", "en": "Carbon rod"},
+            {"hi": "प्लास्टिक", "en": "Plastic"},
+            {"hi": "पानी", "en": "Water"}
+          ],
+          "answer": {"hi": "कार्बन की छड़ (Carbon rod)", "en": "Carbon rod"}
+        },
+        {
+          "q": {
+            "hi": "विद्युतलेपन के विलयन को नालियों में क्यों नहीं फेंकना चाहिए?",
+            "en": "Why should electroplating solutions not be thrown into drains?"
+          },
+          "options": [
+            {"hi": "नालियाँ भर जाएँगी", "en": "Drains will overflow"},
+            {"hi": "यह जल प्रदूषण फैलाता है", "en": "It causes water pollution"},
+            {"hi": "मछलियाँ खुश होंगी", "en": "Fish will be happy"},
+            {"hi": "बदबू आएगी", "en": "It will smell"}
+          ],
+          "answer": {"hi": "यह जल प्रदूषण फैलाता है", "en": "It causes water pollution"}
+        },
+        {
+          "q": {
+            "hi": "नल के जल में विद्युत धारा प्रवाहित करने पर क्या उत्पन्न हो सकता है?",
+            "en": "What can be produced when electric current is passed through tap water?"
+          },
+          "options": [
+            {"hi": "ऑक्सीजन और हाइड्रोजन गैस", "en": "Oxygen and hydrogen gas"},
+            {"hi": "केवल धुआँ", "en": "Only smoke"},
+            {"hi": "पत्थर", "en": "Stones"},
+            {"hi": "कीटाणु", "en": "Germs"}
+          ],
+          "answer": {"hi": "ऑक्सीजन और हाइड्रोजन गैस", "en": "Oxygen and hydrogen gas"}
+        },
+        {
+          "q": {
+            "hi": "लोहे के पुलों को जंग से बचाने के लिए उन पर किसका लेपन होता है?",
+            "en": "What is plated on iron bridges to prevent them from rusting?"
+          },
+          "options": [
+            {"hi": "सोना", "en": "Gold"},
+            {"hi": "चाँदी", "en": "Silver"},
+            {"hi": "जिंक/जस्ता (Zinc)", "en": "Zinc"},
+            {"hi": "ताँबा", "en": "Copper"}
+          ],
+          "answer": {"hi": "जिंक/जस्ता (Zinc)", "en": "Zinc"}
+        },
+        {
+          "q": {
+            "hi": "क्रोमियम का लेपन पूरी वस्तु पर न करके केवल परत क्यों चढ़ाई जाती है?",
+            "en": "Why is chromium only layered instead of making the whole object out of it?"
+          },
+          "options": [
+            {"hi": "सुंदरता के लिए", "en": "For beauty"},
+            {"hi": "क्योंकि क्रोमियम बहुत महँगा है", "en": "Because chromium is very expensive"},
+            {"hi": "भारी होने के कारण", "en": "Because it's heavy"},
+            {"hi": "मजबूती के लिए", "en": "For strength"}
+          ],
+          "answer": {"hi": "क्योंकि क्रोमियम बहुत महँगा है", "en": "Because chromium is very expensive"}
+        }
+      ]
+    },
+    "chapter12": {
+      "section1": [
+        {
+          "q": {
+            "hi": "तड़ित (बिजली) वास्तव में क्या है?",
+            "en": "What is lightning in reality?"
+          },
+          "options": [
+            {"hi": "भगवान का क्रोध", "en": "God's anger"},
+            {"hi": "विशाल स्तर की विद्युत चिंगारी", "en": "Large scale electric spark"},
+            {"hi": "बादलों का टकराना", "en": "Collision of clouds"},
+            {"hi": "सूरज की रोशनी", "en": "Sunlight"}
+          ],
+          "answer": {"hi": "विशाल स्तर की विद्युत चिंगारी", "en": "Large scale electric spark"}
+        },
+        {
+          "q": {
+            "hi": "प्राचीन यूनानी जानते थे कि जब ऐम्बर को 'फर' से रगड़ते हैं, तो वह किसे आकर्षित करता है?",
+            "en": "Ancient Greeks knew that when amber is rubbed with fur, it attracts?"
+          },
+          "options": [
+            {"hi": "लोहे को", "en": "Iron"},
+            {"hi": "पानी को", "en": "Water"},
+            {"hi": "बालों जैसी हल्की वस्तुओं को", "en": "Light objects like hair"},
+            {"hi": "पत्थरों को", "en": "Stones"}
+          ],
+          "answer": {"hi": "बालों जैसी हल्की वस्तुओं को", "en": "Light objects like hair"}
+        },
+        {
+          "q": {
+            "hi": "अमेरिकी वैज्ञानिक बेंजामिन फ्रेंकलिन ने बादलों में बिजली की खोज कब की थी?",
+            "en": "When did American scientist Benjamin Franklin discover electricity in clouds?"
+          },
+          "options": [
+            {"hi": "1600 ई.", "en": "1600 AD"},
+            {"hi": "1752 ई.", "en": "1752 AD"},
+            {"hi": "1850 ई.", "en": "1850 AD"},
+            {"hi": "1901 ई.", "en": "1901 AD"}
+          ],
+          "answer": {"hi": "1752 ई.", "en": "1752 AD"}
+        },
+        {
+          "q": {
+            "hi": "रगड़ द्वारा वस्तुओं पर क्या एकत्र हो जाता है?",
+            "en": "What accumulates on objects by rubbing?"
+          },
+          "options": [
+            {"hi": "पानी", "en": "Water"},
+            {"hi": "आवेश (Charge)", "en": "Charge"},
+            {"hi": "धूल", "en": "Dust"},
+            {"hi": "चुम्बक", "en": "Magnet"}
+          ],
+          "answer": {"hi": "आवेश (Charge)", "en": "Charge"}
+        },
+        {
+          "q": {
+            "hi": "सजातीय (एक ही प्रकार के) आवेश एक-दूसरे को क्या करते हैं?",
+            "en": "How do like charges interact with each other?"
+          },
+          "options": [
+            {"hi": "आकर्षित", "en": "Attract"},
+            {"hi": "प्रतिकर्षित (Repel)", "en": "Repel"},
+            {"hi": "नष्ट", "en": "Destroy"},
+            {"hi": "गर्म", "en": "Heat"}
+          ],
+          "answer": {"hi": "प्रतिकर्षित (Repel)", "en": "Repel"}
+        },
+        {
+          "q": {
+            "hi": "विजातीय (विपरीत) आवेश एक-दूसरे को क्या करते हैं?",
+            "en": "How do unlike (opposite) charges interact with each other?"
+          },
+          "options": [
+            {"hi": "आकर्षित", "en": "Attract"},
+            {"hi": "प्रतिकर्षित", "en": "Repel"},
+            {"hi": "स्थिर", "en": "Stationary"},
+            {"hi": "ठंडा", "en": "Cool"}
+          ],
+          "answer": {"hi": "आकर्षित", "en": "Attract"}
+        },
+        {
+          "q": {
+            "hi": "किसी वस्तु में आवेश है या नहीं, इसका पता लगाने के लिए किस यंत्र का उपयोग किया जाता है?",
+            "en": "Which instrument is used to detect if an object carries a charge?"
+          },
+          "options": [
+            {"hi": "थर्मामीटर", "en": "Thermometer"},
+            {"hi": "विद्युतदर्शी (Electroscope)", "en": "Electroscope"},
+            {"hi": "बैरोमीटर", "en": "Barometer"},
+            {"hi": "स्केल", "en": "Scale"}
+          ],
+          "answer": {"hi": "विद्युतदर्शी (Electroscope)", "en": "Electroscope"}
+        },
+        {
+          "q": {
+            "hi": "किसी आवेशित वस्तु से आवेश को पृथ्वी में भेजने की प्रक्रिया क्या कहलाती है?",
+            "en": "The process of transferring charge from a charged object to the earth is called?"
+          },
+          "options": [
+            {"hi": "विद्युत प्रवाह", "en": "Current flow"},
+            {"hi": "भू-संपर्कन (Earthing)", "en": "Earthing"},
+            {"hi": "रगड़ना", "en": "Rubbing"},
+            {"hi": "विद्युत लेपन", "en": "Electroplating"}
+          ],
+          "answer": {"hi": "भू-संपर्कन (Earthing)", "en": "Earthing"}
+        },
+        {
+          "q": {
+            "hi": "तड़ित झंझा (गरज के साथ वर्षा) के समय बादलों के ऊपरी किनारों पर कौन सा आवेश एकत्र होता है?",
+            "en": "During a thunderstorm, which charge accumulates at the upper edges of the clouds?"
+          },
+          "options": [
+            {"hi": "ऋण आवेश", "en": "Negative charge"},
+            {"hi": "धन आवेश (Positive charge)", "en": "Positive charge"},
+            {"hi": "कोई आवेश नहीं", "en": "No charge"},
+            {"hi": "स्थिर आवेश", "en": "Static charge"}
+          ],
+          "answer": {"hi": "धन आवेश (Positive charge)", "en": "Positive charge"}
+        },
+        {
+          "q": {
+            "hi": "बादलों और पृथ्वी के बीच विद्युत विसर्जन की प्रक्रिया को क्या कहते हैं?",
+            "en": "What is the process of electric discharge between clouds and the earth called?"
+          },
+          "options": [
+            {"hi": "वर्षा", "en": "Rain"},
+            {"hi": "तड़ित (Lightning)", "en": "Lightning"},
+            {"hi": "आंधी", "en": "Storm"},
+            {"hi": "भूकंप", "en": "Earthquake"}
+          ],
+          "answer": {"hi": "तड़ित (Lightning)", "en": "Lightning"}
+        }
+      ],
+      "section2": [
+        {
+          "q": {
+            "hi": "तड़ित झंझा के समय सुरक्षित स्थान कौन सा है?",
+            "en": "Which is a safe place during a thunderstorm?"
+          },
+          "options": [
+            {"hi": "खुला मैदान", "en": "Open field"},
+            {"hi": "पेड़ के नीचे", "en": "Under a tree"},
+            {"hi": "कोई घर या बंद इमारत", "en": "A house or closed building"},
+            {"hi": "छतरी के नीचे", "en": "Under an umbrella"}
+          ],
+          "answer": {"hi": "कोई घर या बंद इमारत", "en": "A house or closed building"}
+        },
+        {
+          "q": {
+            "hi": "यदि आप वाहन (कार या बस) में हैं, तो तड़ित के समय क्या करना चाहिए?",
+            "en": "If you are in a vehicle (car or bus) during lightning, what should you do?"
+          },
+          "options": [
+            {"hi": "बाहर निकल जाना चाहिए", "en": "Get out"},
+            {"hi": "खिड़की-दरवाजे बंद करके अंदर रहना चाहिए", "en": "Stay inside with windows and doors shut"},
+            {"hi": "वाहन की छत पर बैठना चाहिए", "en": "Sit on the roof"},
+            {"hi": "तेज़ गाड़ी चलानी चाहिए", "en": "Drive fast"}
+          ],
+          "answer": {"hi": "खिड़की-दरवाजे बंद करके अंदर रहना चाहिए", "en": "Stay inside with windows and doors shut"}
+        },
+        {
+          "q": {
+            "hi": "तड़ित के समय खुले मैदान में होने पर आपको क्या करना चाहिए?",
+            "en": "What should you do if you are in an open field during lightning?"
+          },
+          "options": [
+            {"hi": "सीधे खड़े रहना", "en": "Stand straight"},
+            {"hi": "ज़मीन पर सिमट कर बैठना", "en": "Squat low on the ground"},
+            {"hi": "पेड़ की ओर भागना", "en": "Run towards a tree"},
+            {"hi": "लेट जाना", "en": "Lie down"}
+          ],
+          "answer": {"hi": "ज़मीन पर सिमट कर बैठना", "en": "Squat low on the ground"}
+        },
+        {
+          "q": {
+            "hi": "तड़ित के समय टेलीफोन के तारों और धातु के पाइपों को क्यों नहीं छूना चाहिए?",
+            "en": "Why should telephone wires and metal pipes not be touched during lightning?"
+          },
+          "options": [
+            {"hi": "वे गर्म हो जाते हैं", "en": "They get hot"},
+            {"hi": "वे विद्युत के सुचालक हैं और आवेश उनमें प्रवाहित हो सकता है", "en": "They are conductors and charge can flow through them"},
+            {"hi": "वे टूट सकते हैं", "en": "They might break"},
+            {"hi": "उन पर जंग लग सकती है", "en": "They might rust"}
+          ],
+          "answer": {"hi": "वे विद्युत के सुचालक हैं और आवेश उनमें प्रवाहित हो सकता है", "en": "They are conductors and charge can flow through them"}
+        },
+        {
+          "q": {
+            "hi": "ऊँची इमारतों को तड़ित के प्रभाव से बचाने के लिए किसका उपयोग किया जाता है?",
+            "en": "What is used to protect tall buildings from the effects of lightning?"
+          },
+          "options": [
+            {"hi": "लकड़ी की छड़ी", "en": "Wooden stick"},
+            {"hi": "तड़ित चालक (Lightning Conductor)", "en": "Lightning conductor"},
+            {"hi": "काँच की खिड़की", "en": "Glass window"},
+            {"hi": "पेंट", "en": "Paint"}
+          ],
+          "answer": {"hi": "तड़ित चालक (Lightning Conductor)", "en": "Lightning conductor"}
+        },
+        {
+          "q": {
+            "hi": "तड़ित चालक छड़ का एक सिरा हवा में और दूसरा सिरा कहाँ होता है?",
+            "en": "One end of the lightning conductor rod is in the air, and where is the other?"
+          },
+          "options": [
+            {"hi": "छत पर", "en": "On the roof"},
+            {"hi": "जमीन में काफी गहराई तक दबा हुआ", "en": "Buried deep in the ground"},
+            {"hi": "पानी की टंकी में", "en": "In the water tank"},
+            {"hi": "दीवार के अंदर", "en": "Inside the wall"}
+          ],
+          "answer": {"hi": "जमीन में काफी गहराई तक दबा हुआ", "en": "Buried deep in the ground"}
+        },
+        {
+          "q": {
+            "hi": "पृथ्वी का अचानक काँपना अथवा थरथराना क्या कहलाता है?",
+            "en": "The sudden shaking or trembling of the earth is called?"
+          },
+          "options": [
+            {"hi": "तड़ित", "en": "Lightning"},
+            {"hi": "चक्रवात", "en": "Cyclone"},
+            {"hi": "भूकंप (Earthquake)", "en": "Earthquake"},
+            {"hi": "बाढ़", "en": "Flood"}
+          ],
+          "answer": {"hi": "भूकंप (Earthquake)", "en": "Earthquake"}
+        },
+        {
+          "q": {
+            "hi": "भूकंप पृथ्वी की किस परत की गहराई में होने वाली गड़बड़ के कारण आता है?",
+            "en": "Earthquakes are caused by disturbances deep inside which layer of the earth?"
+          },
+          "options": [
+            {"hi": "क्रोड (Core)", "en": "Core"},
+            {"hi": "प्रावार (Mantel)", "en": "Mantel"},
+            {"hi": "भूपर्पटी (Crust)", "en": "Crust"},
+            {"hi": "वायुमण्डल", "en": "Atmosphere"}
+          ],
+          "answer": {"hi": "भूपर्पटी (Crust)", "en": "Crust"}
+        },
+        {
+          "q": {
+            "hi": "पृथ्वी की बाहरी परत टुकड़ों में विभाजित है, इन टुकड़ों को क्या कहते हैं?",
+            "en": "The outermost layer of the earth is fragmented, what are these fragments called?"
+          },
+          "options": [
+            {"hi": "पत्थर", "en": "Stones"},
+            {"hi": "प्लेटें (Plates)", "en": "Plates"},
+            {"hi": "द्वीप", "en": "Islands"},
+            {"hi": "खंड", "en": "Blocks"}
+          ],
+          "answer": {"hi": "प्लेटें (Plates)", "en": "Plates"}
+        },
+        {
+          "q": {
+            "hi": "प्लेटों की सीमाओं को क्या कहा जाता है जहाँ भूकंप आने की संभावना अधिक होती है?",
+            "en": "What are the boundaries of the plates called where earthquakes are more likely to occur?"
+          },
+          "options": [
+            {"hi": "सुरक्षित क्षेत्र", "en": "Safe zones"},
+            {"hi": "भूकंपी क्षेत्र या भ्रंश क्षेत्र (Fault zones)", "en": "Seismic or fault zones"},
+            {"hi": "तटीय क्षेत्र", "en": "Coastal zones"},
+            {"hi": "गर्म क्षेत्र", "en": "Hot zones"}
+          ],
+          "answer": {"hi": "भूकंपी क्षेत्र या भ्रंश क्षेत्र (Fault zones)", "en": "Seismic or fault zones"}
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "किसी भूकंप की शक्ति के परिमाण को किस पैमाने पर व्यक्त किया जाता है?",
+            "en": "On what scale is the magnitude of an earthquake expressed?"
+          },
+          "options": [
+            {"hi": "सेल्सियस पैमाना", "en": "Celsius scale"},
+            {"hi": "रिक्टर पैमाना (Richter scale)", "en": "Richter scale"},
+            {"hi": "मीटर पैमाना", "en": "Meter scale"},
+            {"hi": "डेसिबल पैमाना", "en": "Decibel scale"}
+          ],
+          "answer": {"hi": "रिक्टर पैमाना (Richter scale)", "en": "Richter scale"}
+        },
+        {
+          "q": {
+            "hi": "रिक्टर पैमाने पर कितने परिमाण से अधिक वाला भूकंप विनाशकारी होता है?",
+            "en": "Earthquakes with a magnitude higher than what on the Richter scale are destructive?"
+          },
+          "options": [
+            {"hi": "3", "en": "3"},
+            {"hi": "5", "en": "5"},
+            {"hi": "7", "en": "7"},
+            {"hi": "2", "en": "2"}
+          ],
+          "answer": {"hi": "7", "en": "7"}
+        },
+        {
+          "q": {
+            "hi": "भूकंपी तरंगों को रिकॉर्ड करने वाले यंत्र को क्या कहते हैं?",
+            "en": "What is the instrument that records seismic waves called?"
+          },
+          "options": [
+            {"hi": "सिस्मोग्राफ (भूकंपलेखी)", "en": "Seismograph"},
+            {"hi": "टेलीग्राफ", "en": "Telegraph"},
+            {"hi": "ऑल्टोमीटर", "en": "Altimeter"},
+            {"hi": "लैक्टोमीटर", "en": "Lactometer"}
+          ],
+          "answer": {"hi": "सिस्मोग्राफ (भूकंपलेखी)", "en": "Seismograph"}
+        },
+        {
+          "q": {
+            "hi": "26 जनवरी 2001 को भारत के किस क्षेत्र में बड़ा भूकंप आया था?",
+            "en": "In which region of India did a major earthquake occur on January 26, 2001?"
+          },
+          "options": [
+            {"hi": "उत्तर कश्मीर", "en": "North Kashmir"},
+            {"hi": "गुजरात के भुज जिले में", "en": "Bhuj district of Gujarat"},
+            {"hi": "अंडमान निकोबार", "en": "Andaman Nicobar"},
+            {"hi": "बिहार", "en": "Bihar"}
+          ],
+          "answer": {"hi": "गुजरात के भुज जिले में", "en": "Bhuj district of Gujarat"}
+        },
+        {
+          "q": {
+            "hi": "भूकंप के कारण समुद्र में उठने वाली विशाल लहरों को क्या कहते हैं?",
+            "en": "What are the huge waves in the sea caused by earthquakes called?"
+          },
+          "options": [
+            {"hi": "ज्वार", "en": "Tides"},
+            {"hi": "सुनामी (Tsunami)", "en": "Tsunami"},
+            {"hi": "धारा", "en": "Current"},
+            {"hi": "भंवर", "en": "Whirlpool"}
+          ],
+          "answer": {"hi": "सुनामी (Tsunami)", "en": "Tsunami"}
+        },
+        {
+          "q": {
+            "hi": "8 अक्टूबर 2005 को भारत में कहाँ बड़ा भूकंप आया था?",
+            "en": "Where in India did a big earthquake occur on October 8, 2005?"
+          },
+          "options": [
+            {"hi": "उरी तथा तंगधार (उत्तर कश्मीर)", "en": "Uri and Tangdhar (North Kashmir)"},
+            {"hi": "मुंबई", "en": "Mumbai"},
+            {"hi": "दिल्ली", "en": "Delhi"},
+            {"hi": "चेन्नई", "en": "Chennai"}
+          ],
+          "answer": {"hi": "उरी तथा तंगधार (उत्तर कश्मीर)", "en": "Uri and Tangdhar (North Kashmir)"}
+        },
+        {
+          "q": {
+            "hi": "रिक्टर पैमाना रेखीय नहीं है, इसका क्या अर्थ है?",
+            "en": "Richter scale is not linear, what does this mean?"
+          },
+          "options": [
+            {"hi": "यह सीधा है", "en": "It is straight"},
+            {"hi": "परिमाण में 2 की वृद्धि का अर्थ 1000 गुनी अधिक विनाशकारी ऊर्जा है", "en": "Increase of 2 in magnitude means 1000 times more destructive energy"},
+            {"hi": "यह केवल 10 तक है", "en": "It is only up to 10"},
+            {"hi": "यह गलत है", "en": "It is wrong"}
+          ],
+          "answer": {"hi": "परिमाण में 2 की वृद्धि का अर्थ 1000 गुनी अधिक विनाशकारी ऊर्जा है", "en": "Increase of 2 in magnitude means 1000 times more destructive energy"}
+        },
+        {
+          "q": {
+            "hi": "भूकंप आने पर यदि आप घर के अंदर हैं, तो आपको क्या करना चाहिए?",
+            "en": "If you are indoors during an earthquake, what should you do?"
+          },
+          "options": [
+            {"hi": "सीढ़ियों से नीचे भागना", "en": "Run down the stairs"},
+            {"hi": "किसी मज़बूत मेज़ के नीचे छिप जाना", "en": "Hide under a sturdy table"},
+            {"hi": "खिड़की के पास खड़े होना", "en": "Stand near the window"},
+            {"hi": "बिस्तर के नीचे घुसना", "en": "Go under the bed"}
+          ],
+          "answer": {"hi": "किसी मज़बूत मेज़ के नीचे छिप जाना", "en": "Hide under a sturdy table"}
+        },
+        {
+          "q": {
+            "hi": "भूकंप के समय यदि आप बिस्तर पर हैं, तो क्या करें?",
+            "en": "What should you do if you are in bed during an earthquake?"
+          },
+          "options": [
+            {"hi": "बिस्तर से नीचे उतरें", "en": "Get off the bed"},
+            {"hi": "लेटे रहें और अपने सिर को तकिये से बचाएँ", "en": "Stay in bed and protect your head with a pillow"},
+            {"hi": "बाहर की ओर भागें", "en": "Run outside"},
+            {"hi": "लाइट जलाएँ", "en": "Switch on the lights"}
+          ],
+          "answer": {"hi": "लेटे रहें और अपने सिर को तकिये से बचाएँ", "en": "Stay in bed and protect your head with a pillow"}
+        },
+        {
+          "q": {
+            "hi": "भूकंप के समय खुले क्षेत्र में होने पर किन चीजों से दूर रहना चाहिए?",
+            "en": "What things should you stay away from if you are in an open area during an earthquake?"
+          },
+          "options": [
+            {"hi": "भवन, वृक्ष और ऊपर जाती विद्युत लाइनों से", "en": "Buildings, trees and overhead power lines"},
+            {"hi": "सड़कों से", "en": "Roads"},
+            {"hi": "कार से", "en": "Cars"},
+            {"hi": "मैदान के बीच से", "en": "Middle of the field"}
+          ],
+          "answer": {"hi": "भवन, वृक्ष और ऊपर जाती विद्युत लाइनों से", "en": "Buildings, trees and overhead power lines"}
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "बादलों में आवेश कैसे उत्पन्न होता है?",
+            "en": "How is charge generated in the clouds?"
+          },
+          "options": [
+            {"hi": "हवा के घर्षण और वायु धाराओं की गति से", "en": "By air friction and movement of air currents"},
+            {"hi": "सूरज की किरणों से", "en": "By sun rays"},
+            {"hi": "पक्षी उड़ने से", "en": "By birds flying"},
+            {"hi": "समुद्र के पानी से", "en": "By sea water"}
+          ],
+          "answer": {"hi": "हवा के घर्षण और वायु धाराओं की गति से", "en": "By air friction and movement of air currents"}
+        },
+        {
+          "q": {
+            "hi": "विद्युतदर्शी में एल्युमिनियम की पट्टियाँ क्यों फैल जाती हैं?",
+            "en": "Why do the aluminum strips in an electroscope spread apart?"
+          },
+          "options": [
+            {"hi": "वे हल्की होती हैं", "en": "They are light"},
+            {"hi": "समान आवेश एक-दूसरे को प्रतिकर्षित करते हैं", "en": "Like charges repel each other"},
+            {"hi": "हवा के कारण", "en": "Due to air"},
+            {"hi": "चुम्बक के कारण", "en": "Due to magnet"}
+          ],
+          "answer": {"hi": "समान आवेश एक-दूसरे को प्रतिकर्षित करते हैं", "en": "Like charges repel each other"}
+        },
+        {
+          "q": {
+            "hi": "क्या आवेशित गुब्बारा दूसरे आवेशित गुब्बारे को आकर्षित करता है?",
+            "en": "Does a charged balloon attract another charged balloon?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं, वह उसे प्रतिकर्षित करता है", "en": "No, it repels it"},
+            {"hi": "केवल रात में", "en": "Only at night"},
+            {"hi": "पता नहीं", "en": "Don't know"}
+          ],
+          "answer": {"hi": "नहीं, वह उसे प्रतिकर्षित करता है", "en": "No, it repels it"}
+        },
+        {
+          "q": {
+            "hi": "तड़ित झंझा के समय नहाने से क्यों बचना चाहिए?",
+            "en": "Why should one avoid bathing during a thunderstorm?"
+          },
+          "options": [
+            {"hi": "पानी ठंडा होता है", "en": "Water is cold"},
+            {"hi": "बहते जल से विद्युत आघात का खतरा रहता है", "en": "There is a risk of electric shock from running water"},
+            {"hi": "साबुन नहीं मिलता", "en": "Soap is not available"},
+            {"hi": "अंधेरा होता है", "en": "It is dark"}
+          ],
+          "answer": {"hi": "बहते जल से विद्युत आघात का खतरा रहता है", "en": "There is a risk of electric shock from running water"}
+        },
+        {
+          "q": {
+            "hi": "पृथ्वी के भीतर सबसे अधिक विनाशकारी झटके कहाँ उत्पन्न होते हैं?",
+            "en": "Where are the most destructive tremors generated inside the earth?"
+          },
+          "options": [
+            {"hi": "सतह पर", "en": "On the surface"},
+            {"hi": "प्लेटों की सीमाओं पर", "en": "At the boundaries of plates"},
+            {"hi": "पहाड़ों पर", "en": "On mountains"},
+            {"hi": "रेगिस्तान में", "en": "In deserts"}
+          ],
+          "answer": {"hi": "प्लेटों की सीमाओं पर", "en": "At the boundaries of plates"}
+        },
+        {
+          "q": {
+            "hi": "भूकंपीय क्षेत्रों में भवनों का निर्माण कैसा होना चाहिए?",
+            "en": "How should buildings be constructed in seismic zones?"
+          },
+          "options": [
+            {"hi": "काँच का", "en": "Of glass"},
+            {"hi": "भारी पत्थरों का", "en": "Of heavy stones"},
+            {"hi": "हल्की सामग्री (मिट्टी या लकड़ी) और 'क्वेक सेफ' ढांचा", "en": "Light materials (mud or wood) and 'quake-safe' structure"},
+            {"hi": "बहुमंजिला", "en": "Multi-storeyed"}
+          ],
+          "answer": {"hi": "हल्की सामग्री (मिट्टी या लकड़ी) और 'क्वेक सेफ' ढांचा", "en": "Light materials (mud or wood) and 'quake-safe' structure"}
+        },
+        {
+          "q": {
+            "hi": "आवेशित रिफिल आवेशित गुब्बारे को क्या करती है?",
+            "en": "What does a charged refill do to a charged balloon?"
+          },
+          "options": [
+            {"hi": "प्रतिकर्षित", "en": "Repel"},
+            {"hi": "आकर्षित (Attract)", "en": "Attract"},
+            {"hi": "फोड़ देती है", "en": "Bursts it"},
+            {"hi": "ठंडा करती है", "en": "Cools it"}
+          ],
+          "answer": {"hi": "आकर्षित (Attract)", "en": "Attract"}
+        },
+        {
+          "q": {
+            "hi": "क्या भूकंप की भविष्यवाणी पहले से की जा सकती है?",
+            "en": "Can earthquakes be predicted in advance?"
+          },
+          "options": [
+            {"hi": "हाँ, पूरी तरह", "en": "Yes, fully"},
+            {"hi": "नहीं, वर्तमान तकनीक से संभव नहीं है", "en": "No, it's not possible with current technology"},
+            {"hi": "केवल जानवरों द्वारा", "en": "Only by animals"},
+            {"hi": "केवल बिहार में", "en": "Only in Bihar"}
+          ],
+          "answer": {"hi": "नहीं, वर्तमान तकनीक से संभव नहीं है", "en": "No, it's not possible with current technology"}
+        },
+        {
+          "q": {
+            "hi": "तड़ित चालक किस धातु का बना होता है?",
+            "en": "Of what metal is a lightning conductor made?"
+          },
+          "options": [
+            {"hi": "ताँबा (Copper)", "en": "Copper"},
+            {"hi": "एल्युमिनियम", "en": "Aluminium"},
+            {"hi": "लोहा", "en": "Iron"},
+            {"hi": "सोना", "en": "Gold"}
+          ],
+          "answer": {"hi": "ताँबा (Copper)", "en": "Copper"}
+        },
+        {
+          "q": {
+            "hi": "भूकंप के झटके आने पर अलमारी के पास खड़ा होना सुरक्षित है?",
+            "en": "Is it safe to stand near a cupboard when earthquake tremors occur?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं, वह आपके ऊपर गिर सकती है", "en": "No, it might fall on you"},
+            {"hi": "केवल अगर वह छोटी हो", "en": "Only if it is small"},
+            {"hi": "पता नहीं", "en": "Don't know"}
+          ],
+          "answer": {"hi": "नहीं, वह आपके ऊपर गिर सकती है", "en": "No, it might fall on you"}
+        }
+      ],
+      "section5": [
+        {
+          "q": {
+            "hi": "विद्युत विसर्जन के दौरान क्या उत्पन्न होता है?",
+            "en": "What is produced during electric discharge?"
+          },
+          "options": [
+            {"hi": "केवल प्रकाश", "en": "Only light"},
+            {"hi": "प्रकाश की धारियाँ और ध्वनि", "en": "Streaks of light and sound"},
+            {"hi": "केवल धुआँ", "en": "Only smoke"},
+            {"hi": "सिर्फ पानी", "en": "Only water"}
+          ],
+          "answer": {"hi": "प्रकाश की धारियाँ और ध्वनि", "en": "Streaks of light and sound"}
+        },
+        {
+          "q": {
+            "hi": "यदि आप अँधेरे में सिंथेटिक कपड़े उतारते हैं, तो चट-चट की आवाज़ और चिंगारी क्यों दिखती है?",
+            "en": "Why do you see sparks and hear crackling when taking off synthetic clothes in the dark?"
+          },
+          "options": [
+            {"hi": "गर्मी के कारण", "en": "Due to heat"},
+            {"hi": "आवेशों के विसर्जन के कारण", "en": "Due to discharge of charges"},
+            {"hi": "पसीने के कारण", "en": "Due to sweat"},
+            {"hi": "कपड़े फटने के कारण", "en": "Due to clothes tearing"}
+          ],
+          "answer": {"hi": "आवेशों के विसर्जन के कारण", "en": "Due to discharge of charges"}
+        },
+        {
+          "q": {
+            "hi": "पृथ्वी की कौन सी प्लेट भारत के उत्तरी भाग में हिमालय के पास स्थित है?",
+            "en": "Which plate of the earth is located near the Himalayas in the northern part of India?"
+          },
+          "options": [
+            {"hi": "यूरेशियन प्लेट", "en": "Eurasian plate"},
+            {"hi": "इण्डो-ऑस्ट्रेलियन प्लेट", "en": "Indo-Australian plate"},
+            {"hi": "अफ्रीकन प्लेट", "en": "African plate"},
+            {"hi": "पैसिफिक प्लेट", "en": "Pacific plate"}
+          ],
+          "answer": {"hi": "यूरेशियन प्लेट", "en": "Eurasian plate"}
+        },
+        {
+          "q": {
+            "hi": "भूकंपी क्षेत्रों में भारी सामान (जैसे फोटो फ्रेम, गीजर) कहाँ नहीं लटकाना चाहिए?",
+            "en": "Where should heavy items (like photo frames, geysers) not be hung in seismic zones?"
+          },
+          "options": [
+            {"hi": "किचन में", "en": "In the kitchen"},
+            {"hi": "बिस्तर के ऊपर", "en": "Above the bed"},
+            {"hi": "दरवाजे पर", "en": "On the door"},
+            {"hi": "दीवार के कोने में", "en": "In the corner of the wall"}
+          ],
+          "answer": {"hi": "बिस्तर के ऊपर", "en": "Above the bed"}
+        },
+        {
+          "q": {
+            "hi": "भूकंप आने पर आग लगने का खतरा क्यों रहता है?",
+            "en": "Why is there a risk of fire when an earthquake occurs?"
+          },
+          "options": [
+            {"hi": "सूरज की गर्मी से", "en": "Due to sun heat"},
+            {"hi": "बिजली के शार्ट सर्किट और गैस पाइप लाइन फटने से", "en": "Due to electrical short circuits and gas pipeline leaks"},
+            {"hi": "हवा चलने से", "en": "Due to wind"},
+            {"hi": "घर्षण से", "en": "By friction"}
+          ],
+          "answer": {"hi": "बिजली के शार्ट सर्किट और गैस पाइप लाइन फटने से", "en": "Due to electrical short circuits and gas pipeline leaks"}
+        },
+        {
+          "q": {
+            "hi": "रबड़ के गुब्बारे को ऊनी कपड़े से रगड़ने पर वह कैसा आवेश प्राप्त करता है?",
+            "en": "What kind of charge does a rubber balloon acquire when rubbed with woolen cloth?"
+          },
+          "options": [
+            {"hi": "कोई आवेश नहीं", "en": "No charge"},
+            {"hi": "ऋण आवेश", "en": "Negative charge"},
+            {"hi": "स्थिर विद्युत आवेश", "en": "Static electric charge"},
+            {"hi": "धनात्मक आवेश", "en": "Positive charge"}
+          ],
+          "answer": {"hi": "स्थिर विद्युत आवेश", "en": "Static electric charge"}
+        },
+        {
+          "q": {
+            "hi": "तड़ित चालक बिजली को सुरक्षित रूप से कहाँ पहुँचा देता है?",
+            "en": "Where does a lightning conductor safely lead the electricity?"
+          },
+          "options": [
+            {"hi": "दूसरे घर में", "en": "To another house"},
+            {"hi": "जमीन के अंदर (Earthing)", "en": "Deep into the earth"},
+            {"hi": "बैटरी में", "en": "To a battery"},
+            {"hi": "पड़ोसी की छत पर", "en": "To the neighbor's roof"}
+          ],
+          "answer": {"hi": "जमीन के अंदर (Earthing)", "en": "Deep into the earth"}
+        },
+        {
+          "q": {
+            "hi": "क्या बादलों में केवल एक ही प्रकार का आवेश होता है?",
+            "en": "Do clouds carry only one type of charge?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं, उनमें धन और ऋण दोनों आवेश होते हैं", "en": "No, they carry both positive and negative charges"},
+            {"hi": "केवल धन आवेश", "en": "Only positive charge"},
+            {"hi": "केवल ऋण आवेश", "en": "Only negative charge"}
+          ],
+          "answer": {"hi": "नहीं, उनमें धन और ऋण दोनों आवेश होते हैं", "en": "No, they carry both positive and negative charges"}
+        },
+        {
+          "q": {
+            "hi": "भूकंप के समय बहुमंजिला इमारतों में अग्निशमन उपकरण क्यों होने चाहिए?",
+            "en": "Why should high-rise buildings have firefighting equipment for earthquakes?"
+          },
+          "options": [
+            {"hi": "दिखावे के लिए", "en": "For show"},
+            {"hi": "क्योंकि भूकंप से आग लग सकती है", "en": "Because earthquakes can cause fires"},
+            {"hi": "सजावट के लिए", "en": "For decoration"},
+            {"hi": "नगर पालिका के नियम के कारण", "en": "Due to municipal rules"}
+          ],
+          "answer": {"hi": "क्योंकि भूकंप से आग लग सकती है", "en": "Because earthquakes can cause fires"}
+        },
+        {
+          "q": {
+            "hi": "भूकंप के दौरान घर के बिजली के मुख्य स्विच का क्या करना चाहिए?",
+            "en": "What should be done with the main electric switch of the house during an earthquake?"
+          },
+          "options": [
+            {"hi": "उसे चालू रहने देना चाहिए", "en": "Leave it on"},
+            {"hi": "उसे बंद कर देना चाहिए", "en": "Switch it off"},
+            {"hi": "उस पर पानी डालना चाहिए", "en": "Pour water on it"},
+            {"hi": "उसे पकड़ कर रखना चाहिए", "en": "Hold onto it"}
+          ],
+          "answer": {"hi": "उसे बंद कर देना चाहिए", "en": "Switch it off"}
+        }
+      ]
+    },
+    "chapter13": {
+      "section1": [
+        {
+          "q": {
+            "hi": "किसी वस्तु को देखने के लिए क्या आवश्यक है?",
+            "en": "What is necessary to see an object?"
+          },
+          "options": [
+            {"hi": "केवल नेत्र", "en": "Only eyes"},
+            {"hi": "वस्तु से आने वाला प्रकाश", "en": "Light coming from the object"},
+            {"hi": "अंधेरा", "en": "Darkness"},
+            {"hi": "ध्वनि", "en": "Sound"}
+          ],
+          "answer": {"hi": "वस्तु से आने वाला प्रकाश", "en": "Light coming from the object"}
+        },
+        {
+          "q": {
+            "hi": "किसी पृष्ठ पर पड़ने वाली प्रकाश किरण को क्या कहते हैं?",
+            "en": "What is the light ray which strikes any surface called?"
+          },
+          "options": [
+            {"hi": "परावर्तित किरण", "en": "Reflected ray"},
+            {"hi": "आपतित किरण (Incident ray)", "en": "Incident ray"},
+            {"hi": "अपवर्तित किरण", "en": "Refracted ray"},
+            {"hi": "सीधी किरण", "en": "Straight ray"}
+          ],
+          "answer": {"hi": "आपतित किरण (Incident ray)", "en": "Incident ray"}
+        },
+        {
+          "q": {
+            "hi": "पृष्ठ से परावर्तन के पश्चात् वापस आने वाली प्रकाश किरण को क्या कहते हैं?",
+            "en": "The ray that comes back from the surface after reflection is called?"
+          },
+          "options": [
+            {"hi": "आपतित किरण", "en": "Incident ray"},
+            {"hi": "परावर्तित किरण (Reflected ray)", "en": "Reflected ray"},
+            {"hi": "अभिलंब", "en": "Normal"},
+            {"hi": "मुख्य अक्ष", "en": "Principal axis"}
+          ],
+          "answer": {"hi": "परावर्तित किरण (Reflected ray)", "en": "Reflected ray"}
+        },
+        {
+          "q": {
+            "hi": "आपतित किरण और अभिलंब के बीच के कोण को क्या कहते हैं?",
+            "en": "What is the angle between the incident ray and the normal called?"
+          },
+          "options": [
+            {"hi": "परावर्तन कोण", "en": "Angle of reflection"},
+            {"hi": "आपतन कोण (Angle of incidence)", "en": "Angle of incidence"},
+            {"hi": "समकोण", "en": "Right angle"},
+            {"hi": "न्यून कोण", "en": "Acute angle"}
+          ],
+          "answer": {"hi": "आपतन कोण (Angle of incidence)", "en": "Angle of incidence"}
+        },
+        {
+          "q": {
+            "hi": "परावर्तन के नियम के अनुसार, आपतन कोण हमेशा किसके बराबर होता है?",
+            "en": "According to the law of reflection, the angle of incidence is always equal to?"
+          },
+          "options": [
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "90 डिग्री", "en": "90 degrees"},
+            {"hi": "परावर्तन कोण (Angle of reflection)", "en": "Angle of reflection"},
+            {"hi": "दोगुना कोण", "en": "Double angle"}
+          ],
+          "answer": {"hi": "परावर्तन कोण (Angle of reflection)", "en": "Angle of reflection"}
+        },
+        {
+          "q": {
+            "hi": "दर्पण द्वारा बने प्रतिबिंब में बायाँ भाग दायाँ और दायाँ भाग बायाँ दिखाई देना क्या कहलाता है?",
+            "en": "In an image formed by a mirror, the left appearing right and right appearing left is called?"
+          },
+          "options": [
+            {"hi": "परावर्तन", "en": "Reflection"},
+            {"hi": "पार्श्व परिवर्तन (Lateral inversion)", "en": "Lateral inversion"},
+            {"hi": "अपवर्तन", "en": "Refraction"},
+            {"hi": "विसरण", "en": "Diffusion"}
+          ],
+          "answer": {"hi": "पार्श्व परिवर्तन (Lateral inversion)", "en": "Lateral inversion"}
+        },
+        {
+          "q": {
+            "hi": "खुरदरे पृष्ठ से होने वाले परावर्तन को क्या कहते हैं जहाँ परावर्तित किरणें समांतर नहीं होतीं?",
+            "en": "Reflection from a rough surface where reflected rays are not parallel is called?"
+          },
+          "options": [
+            {"hi": "नियमित परावर्तन", "en": "Regular reflection"},
+            {"hi": "विस्तरित या अनियमित परावर्तन", "en": "Diffused or Irregular reflection"},
+            {"hi": "दर्पण परावर्तन", "en": "Mirror reflection"},
+            {"hi": "शून्य परावर्तन", "en": "Zero reflection"}
+          ],
+          "answer": {"hi": "विस्तरित या अनियमित परावर्तन", "en": "Diffused or Irregular reflection"}
+        },
+        {
+          "q": {
+            "hi": "समतल दर्पण जैसे चिकने पृष्ठ से होने वाले परावर्तन को क्या कहते हैं?",
+            "en": "Reflection from a smooth surface like a plane mirror is called?"
+          },
+          "options": [
+            {"hi": "अनियमित परावर्तन", "en": "Irregular reflection"},
+            {"hi": "नियमित परावर्तन (Regular reflection)", "en": "Regular reflection"},
+            {"hi": "विस्तरित परावर्तन", "en": "Diffused reflection"},
+            {"hi": "अपवर्तन", "en": "Refraction"}
+          ],
+          "answer": {"hi": "नियमित परावर्तन (Regular reflection)", "en": "Regular reflection"}
+        },
+        {
+          "q": {
+            "hi": "वे वस्तुएँ जो स्वयं प्रकाश उत्सर्जित करती हैं, क्या कहलाती हैं?",
+            "en": "Objects which emit their own light are called?"
+          },
+          "options": [
+            {"hi": "प्रदीप्त वस्तुएँ (Luminous objects)", "en": "Luminous objects"},
+            {"hi": "अदीप्त वस्तुएँ", "en": "Non-luminous objects"},
+            {"hi": "पारदर्शी वस्तुएँ", "en": "Transparent objects"},
+            {"hi": "अपारदर्शी वस्तुएँ", "en": "Opaque objects"}
+          ],
+          "answer": {"hi": "प्रदीप्त वस्तुएँ (Luminous objects)", "en": "Luminous objects"}
+        },
+        {
+          "q": {
+            "hi": "बहुमूर्तिकला (कलाईडोस्कोप) में कितने समतल दर्पणों का उपयोग किया जाता है?",
+            "en": "How many plane mirrors are used in a Kaleidoscope?"
+          },
+          "options": [
+            {"hi": "एक", "en": "One"},
+            {"hi": "दो", "en": "Two"},
+            {"hi": "तीन", "en": "Three"},
+            {"hi": "चार", "en": "Four"}
+          ],
+          "answer": {"hi": "तीन", "en": "Three"}
+        }
+      ],
+      "section2": [
+        {
+          "q": {
+            "hi": "श्वेत प्रकाश (सूर्य का प्रकाश) कितने रंगों का मिश्रण है?",
+            "en": "White light (sunlight) is a mixture of how many colors?"
           },
           "options": [
             {"hi": "तीन", "en": "Three"},
@@ -7218,1392 +8094,516 @@
         },
         {
           "q": {
-            "hi": "दर्पण द्वारा प्रकाश की दिशा परिवर्तन क्या कहलाता है?",
-            "en": "The change in direction of light by a mirror is called?"
+            "hi": "प्रकाश के अपने रंगों में विभाजित होने की प्रक्रिया को क्या कहते हैं?",
+            "en": "The process of splitting of light into its colors is called?"
           },
           "options": [
-            {"hi": "अपवर्तन", "en": "Refraction"},
             {"hi": "परावर्तन", "en": "Reflection"},
-            {"hi": "प्रकीर्णन", "en": "Scattering"},
-            {"hi": "ध्रुवण", "en": "Polarization"}
+            {"hi": "विक्षेपण (Dispersion)", "en": "Dispersion"},
+            {"hi": "अपवर्तन", "en": "Refraction"},
+            {"hi": "अवशोषण", "en": "Absorption"}
           ],
-          "answer": {"hi": "परावर्तन", "en": "Reflection"}
+          "answer": {"hi": "विक्षेपण (Dispersion)", "en": "Dispersion"}
         },
         {
           "q": {
-            "hi": "उत्तल दर्पण द्वारा बना प्रतिबिंब हमेशा कैसा होता है?",
-            "en": "The image formed by a convex mirror is always?"
+            "hi": "नेत्र का बाहरी आवरण कैसा होता है?",
+            "en": "How is the outer coat of the eye?"
           },
           "options": [
-            {"hi": "वास्तविक", "en": "Real"},
-            {"hi": "आभासी, सीधा और छोटा", "en": "Virtual, erect and small"},
-            {"hi": "आभासी, उल्टा और बड़ा", "en": "Virtual, inverted and large"},
-            {"hi": "पर्दे पर प्राप्त होने वाला", "en": "Obtainable on screen"}
+            {"hi": "काला और कोमल", "en": "Black and soft"},
+            {"hi": "सफेद और कठोर", "en": "White and tough"},
+            {"hi": "पारदर्शी और नीला", "en": "Transparent and blue"},
+            {"hi": "लाल और लचीला", "en": "Red and flexible"}
           ],
-          "answer": {"hi": "आभासी, सीधा और छोटा", "en": "Virtual, erect and small"}
+          "answer": {"hi": "सफेद और कठोर", "en": "White and tough"}
         },
         {
           "q": {
-            "hi": "सीडी (CD) के चमकदार पृष्ठ पर क्या दिखाई देते हैं?",
-            "en": "What do you see on the shiny surface of a CD?"
+            "hi": "नेत्र के सामने वाले पारदर्शी भाग को क्या कहते हैं?",
+            "en": "What is the transparent front part of the eye called?"
           },
           "options": [
-            {"hi": "केवल सफेद प्रकाश", "en": "Only white light"},
-            {"hi": "अनेकों रंग", "en": "Many colors"},
-            {"hi": "केवल लाल रंग", "en": "Only red color"},
-            {"hi": "कोई रंग नहीं", "en": "No color"}
+            {"hi": "परितारिका", "en": "Iris"},
+            {"hi": "पुतली", "en": "Pupil"},
+            {"hi": "कॉर्निया (स्वच्छ मण्डल)", "en": "Cornea"},
+            {"hi": "लेंस", "en": "Lens"}
           ],
-          "answer": {"hi": "अनेकों रंग", "en": "Many colors"}
+          "answer": {"hi": "कॉर्निया (स्वच्छ मण्डल)", "en": "Cornea"}
         },
         {
           "q": {
-            "hi": "आवर्धक लेंस अक्षरों को कैसा दिखाता है?",
-            "en": "How does a magnifying lens show letters?"
+            "hi": "कॉर्निया के पीछे एक गहरे रंग की पेशियों की संरचना होती है, उसे क्या कहते हैं?",
+            "en": "Behind the cornea is a dark muscular structure, what is it called?"
           },
           "options": [
-            {"hi": "छोटा", "en": "Smaller"},
-            {"hi": "बड़ा", "en": "Larger"},
-            {"hi": "उल्टा", "en": "Inverted"},
-            {"hi": "समान", "en": "Same"}
+            {"hi": "दृष्टि पटल", "en": "Retina"},
+            {"hi": "परितारिका (Iris)", "en": "Iris"},
+            {"hi": "श्वेत पटल", "en": "Sclera"},
+            {"hi": "अंध बिंदु", "en": "Blind spot"}
           ],
-          "answer": {"hi": "बड़ा", "en": "Larger"}
+          "answer": {"hi": "परितारिका (Iris)", "en": "Iris"}
         },
         {
           "q": {
-            "hi": "टॉर्च का बल्ब परावर्तक के किस स्थान पर होता है?",
-            "en": "At what position is the torch bulb located in the reflector?"
+            "hi": "नेत्र का वह भाग जो इसे विशिष्ट रंग प्रदान करता है?",
+            "en": "The part of the eye which gives it its distinctive color?"
           },
           "options": [
-            {"hi": "किनारे पर", "en": "At the edge"},
-            {"hi": "बीच में (फोकस पर)", "en": "In the middle (at focus)"},
-            {"hi": "बाहर", "en": "Outside"},
-            {"hi": "कहीं भी", "en": "Anywhere"}
+            {"hi": "पुतली", "en": "Pupil"},
+            {"hi": "लेंस", "en": "Lens"},
+            {"hi": "परितारिका (Iris)", "en": "Iris"},
+            {"hi": "कॉर्निया", "en": "Cornea"}
           ],
-          "answer": {"hi": "बीच में (फोकस पर)", "en": "In the middle (at focus)"}
-        }
-      ]
-    },
-    "chapter12": {
-      "section1": [
-        {
-          "q": {
-            "hi": "वनों को 'हरे फेफड़े' (Green Lungs) क्यों कहा जाता है?",
-            "en": "Why are forests called 'Green Lungs'?"
-          },
-          "options": [
-            {"hi": "उनके रंग के कारण", "en": "Because of their color"},
-            {"hi": "ऑक्सीजन और CO2 के संतुलन के कारण", "en": "Due to oxygen and CO2 balance"},
-            {"hi": "वे ठंडे होते हैं", "en": "They are cool"},
-            {"hi": "वे बहुत ऊँचे होते हैं", "en": "They are very tall"}
-          ],
-          "answer": {"hi": "ऑक्सीजन और CO2 के संतुलन के कारण", "en": "Due to oxygen and CO2 balance"}
+          "answer": {"hi": "परितारिका (Iris)", "en": "Iris"}
         },
         {
           "q": {
-            "hi": "वन में ऊँचे वृक्षों की शाखाएँ कम ऊँचाई के वृक्षों के ऊपर छत की तरह दिखती हैं, इसे क्या कहते हैं?",
-            "en": "The branches of tall trees look like a roof over the other plants in the forest. What is this called?"
+            "hi": "परितारिका नेत्र में प्रवेश करने वाले किस मात्रा को नियंत्रित करती है?",
+            "en": "The iris controls the amount of what entering the eye?"
           },
           "options": [
-            {"hi": "वितान (कैनोपी)", "en": "Canopy"},
-            {"hi": "अधोतल", "en": "Understorey"},
-            {"hi": "शिखर", "en": "Crown"},
-            {"hi": "परत", "en": "Layer"}
+            {"hi": "धूल", "en": "Dust"},
+            {"hi": "प्रकाश", "en": "Light"},
+            {"hi": "पानी", "en": "Water"},
+            {"hi": "हवा", "en": "Air"}
           ],
-          "answer": {"hi": "वितान (कैनोपी)", "en": "Canopy"}
+          "answer": {"hi": "प्रकाश", "en": "Light"}
         },
         {
           "q": {
-            "hi": "वृक्ष का शाखायुक्त भाग तने से ऊपर क्या कहलाता है?",
-            "en": "The branchy part of a tree above the stem is known as?"
+            "hi": "नेत्र के पीछे वाले प्रकाश संवेदी परत को क्या कहते हैं?",
+            "en": "What is the light-sensitive layer at the back of the eye called?"
           },
           "options": [
-            {"hi": "जड़", "en": "Root"},
-            {"hi": "शिखर (क्राउन)", "en": "Crown"},
-            {"hi": "छाल", "en": "Bark"},
-            {"hi": "शाखा", "en": "Branch"}
+            {"hi": "कॉर्निया", "en": "Cornea"},
+            {"hi": "परितारिका", "en": "Iris"},
+            {"hi": "रिटिना (दृष्टि पटल)", "en": "Retina"},
+            {"hi": "पुतली", "en": "Pupil"}
           ],
-          "answer": {"hi": "शिखर (क्राउन)", "en": "Crown"}
+          "answer": {"hi": "रिटिना (दृष्टि पटल)", "en": "Retina"}
         },
         {
           "q": {
-            "hi": "वनों में वितान के नीचे की विभिन्न परतें क्या कहलाती हैं?",
-            "en": "The different layers below the canopy in the forest are called?"
+            "hi": "रिटिना में स्थित कौन सी कोशिकाएँ मंद प्रकाश के लिए सुग्राही होती हैं?",
+            "en": "Which cells in the retina are sensitive to dim light?"
           },
           "options": [
-            {"hi": "शिखर", "en": "Crowns"},
-            {"hi": "अधोतल (अंडरस्टोरी)", "en": "Understorey"},
-            {"hi": "मिट्टी", "en": "Soil"},
-            {"hi": "जंगल", "en": "Jungle"}
+            {"hi": "शंकु (Cones)", "en": "Cones"},
+            {"hi": "शलाकाएँ (Rods)", "en": "Rods"},
+            {"hi": "तंत्रिका कोशिका", "en": "Nerve cells"},
+            {"hi": "रक्त कोशिका", "en": "Blood cells"}
           ],
-          "answer": {"hi": "अधोतल (अंडरस्टोरी)", "en": "Understorey"}
+          "answer": {"hi": "शलाकाएँ (Rods)", "en": "Rods"}
         },
         {
           "q": {
-            "hi": "वन की सबसे ऊपरी परत कौन बनाता है?",
-            "en": "Who forms the uppermost layer of the forest?"
+            "hi": "रिटिना में स्थित कौन सी कोशिकाएँ तीव्र प्रकाश और रंगों के लिए सुग्राही होती हैं?",
+            "en": "Which cells in the retina are sensitive to bright light and colors?"
           },
           "options": [
-            {"hi": "झाड़ियाँ", "en": "Shrubs"},
-            {"hi": "शाक", "en": "Herbs"},
-            {"hi": "विशाल और ऊँचे वृक्ष", "en": "Giant and tall trees"},
-            {"hi": "घास", "en": "Grass"}
+            {"hi": "शलाकाएँ", "en": "Rods"},
+            {"hi": "शंकु (Cones)", "en": "Cones"},
+            {"hi": "लेंस", "en": "Lens"},
+            {"hi": "पुतली", "en": "Pupil"}
           ],
-          "answer": {"hi": "विशाल और ऊँचे वृक्ष", "en": "Giant and tall trees"}
-        },
-        {
-          "q": {
-            "hi": "पादपों और जंतुओं के मृत ऊतकों को खाने वाले सूक्ष्म जीव क्या कहलाते हैं?",
-            "en": "Micro-organisms which feed upon the dead plants and animals are called?"
-          },
-          "options": [
-            {"hi": "स्वपोषी", "en": "Autotrophs"},
-            {"hi": "अपघटक (Decomposers)", "en": "Decomposers"},
-            {"hi": "उपभोक्ता", "en": "Consumers"},
-            {"hi": "परजीवी", "en": "Parasites"}
-          ],
-          "answer": {"hi": "अपघटक (Decomposers)", "en": "Decomposers"}
-        },
-        {
-          "q": {
-            "hi": "अपघटक मृत जीव-जंतुओं को किस गहरे रंग के पदार्थ में बदल देते हैं?",
-            "en": "Decomposers convert dead organisms into a dark colored substance called?"
-          },
-          "options": [
-            {"hi": "रेत", "en": "Sand"},
-            {"hi": "ह्यूमस", "en": "Humus"},
-            {"hi": "चट्टान", "en": "Rock"},
-            {"hi": "गोबर", "en": "Dung"}
-          ],
-          "answer": {"hi": "ह्यूमस", "en": "Humus"}
-        },
-        {
-          "q": {
-            "hi": "वन में कौन सा जीव 'स्वपोषी' (Autotrophs) है?",
-            "en": "Which organism in the forest is an 'autotroph'?"
-          },
-          "options": [
-            {"hi": "बाघ", "en": "Tiger"},
-            {"hi": "पादप (पेड़-पौधे)", "en": "Plants"},
-            {"hi": "मशरूम", "en": "Mushroom"},
-            {"hi": "गीदड़", "en": "Jackal"}
-          ],
-          "answer": {"hi": "पादप (पेड़-पौधे)", "en": "Plants"}
-        },
-        {
-          "q": {
-            "hi": "खाद्य श्रृंखला का सही क्रम क्या है?",
-            "en": "What is the correct sequence of a food chain?"
-          },
-          "options": [
-            {"hi": "घास -> कीट -> मेंढक -> सर्प", "en": "Grass -> Insects -> Frog -> Snake"},
-            {"hi": "सर्प -> मेंढक -> कीट -> घास", "en": "Snake -> Frog -> Insects -> Grass"},
-            {"hi": "कीट -> घास -> सर्प -> मेंढक", "en": "Insects -> Grass -> Snake -> Frog"},
-            {"hi": "घास -> सर्प -> कीट -> मेंढक", "en": "Grass -> Snake -> Insects -> Frog"}
-          ],
-          "answer": {"hi": "घास -> कीट -> मेंढक -> सर्प", "en": "Grass -> Insects -> Frog -> Snake"}
-        },
-        {
-          "q": {
-            "hi": "वन मृदा को किससे बचाते हैं?",
-            "en": "Forests protect the soil from?"
-          },
-          "options": [
-            {"hi": "धूप से", "en": "Sunlight"},
-            {"hi": "अपरदन (Erosion)", "en": "Erosion"},
-            {"hi": "हवा से", "en": "Wind"},
-            {"hi": "जंतुओं से", "en": "Animals"}
-          ],
-          "answer": {"hi": "अपरदन (Erosion)", "en": "Erosion"}
-        }
-      ],
-      "section2": [
-        {
-          "q": {
-            "hi": "वन किसका शुद्धिकरण करते हैं?",
-            "en": "Forests help in the purification of?"
-          },
-          "options": [
-            {"hi": "केवल जल", "en": "Only water"},
-            {"hi": "केवल वायु", "en": "Only air"},
-            {"hi": "वायु और जल दोनों", "en": "Both air and water"},
-            {"hi": "मिट्टी", "en": "Soil"}
-          ],
-          "answer": {"hi": "वायु और जल दोनों", "en": "Both air and water"}
-        },
-        {
-          "q": {
-            "hi": "वन जल चक्र को बनाए रखने में कैसे सहायता करते हैं?",
-            "en": "How do forests help in maintaining the water cycle?"
-          },
-          "options": [
-            {"hi": "वाष्पोत्सर्जन द्वारा", "en": "Through transpiration"},
-            {"hi": "जड़ के अवशोषण द्वारा", "en": "Through root absorption"},
-            {"hi": "छाया प्रदान करके", "en": "By providing shade"},
-            {"hi": "उपरोक्त सभी", "en": "All of the above"}
-          ],
-          "answer": {"hi": "वाष्पोत्सर्जन द्वारा", "en": "Through transpiration"}
-        },
-        {
-          "q": {
-            "hi": "वनों में रहने वाले लोगों को क्या कहते हैं?",
-            "en": "People living in forests are generally known as?"
-          },
-          "options": [
-            {"hi": "शहरवासी", "en": "City dwellers"},
-            {"hi": "वनवासी (Tribals)", "en": "Forest dwellers"},
-            {"hi": "वैज्ञानिक", "en": "Scientists"},
-            {"hi": "पर्यटक", "en": "Tourists"}
-          ],
-          "answer": {"hi": "वनवासी (Tribals)", "en": "Forest dwellers"}
-        },
-        {
-          "q": {
-            "hi": "मृदा की उपजाऊ शक्ति कौन बढ़ाता है?",
-            "en": "Who increases the fertility of the soil?"
-          },
-          "options": [
-            {"hi": "जंतुओं की लीद", "en": "Animal droppings"},
-            {"hi": "मृत पादप", "en": "Dead plants"},
-            {"hi": "ह्यूमस", "en": "Humus"},
-            {"hi": "उपरोक्त सभी", "en": "All of the above"}
-          ],
-          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
-        },
-        {
-          "q": {
-            "hi": "वन में कौन सा पादप उत्पाद नहीं मिलता है?",
-            "en": "Which plant product is NOT obtained from forests?"
-          },
-          "options": [
-            {"hi": "गोंद", "en": "Gum"},
-            {"hi": "लाह", "en": "Lac"},
-            {"hi": "मिट्टी का तेल", "en": "Kerosene"},
-            {"hi": "शहद", "en": "Honey"}
-          ],
-          "answer": {"hi": "मिट्टी का तेल", "en": "Kerosene"}
-        },
-        {
-          "q": {
-            "hi": "वनों में पादपों के बीज के प्रकीर्णन में कौन सहायता करता है?",
-            "en": "Who helps in the dispersal of seeds in the forest?"
-          },
-          "options": [
-            {"hi": "हवा", "en": "Wind"},
-            {"hi": "जंतु", "en": "Animals"},
-            {"hi": "जल", "en": "Water"},
-            {"hi": "उपरोक्त सभी", "en": "All of the above"}
-          ],
-          "answer": {"hi": "जंतु", "en": "Animals"}
-        },
-        {
-          "q": {
-            "hi": "प्रकाश संश्लेषण के दौरान पादप कौन सी गैस मुक्त करते हैं?",
-            "en": "Which gas is released by plants during photosynthesis?"
-          },
-          "options": [
-            {"hi": "CO2", "en": "CO2"},
-            {"hi": "ऑक्सीजन", "en": "Oxygen"},
-            {"hi": "नाइट्रोजन", "en": "Nitrogen"},
-            {"hi": "मीथेन", "en": "Methane"}
-          ],
-          "answer": {"hi": "ऑक्सीजन", "en": "Oxygen"}
-        },
-        {
-          "q": {
-            "hi": "यदि वन नष्ट हो जाएँ, तो वायु में किसकी मात्रा बढ़ जाएगी?",
-            "en": "If forests disappear, the amount of which gas will increase in air?"
-          },
-          "options": [
-            {"hi": "ऑक्सीजन", "en": "Oxygen"},
-            {"hi": "कार्बन डाइऑक्साइड", "en": "Carbon dioxide"},
-            {"hi": "हाइड्रोजन", "en": "Hydrogen"},
-            {"hi": "हीलियम", "en": "Helium"}
-          ],
-          "answer": {"hi": "कार्बन डाइऑक्साइड", "en": "Carbon dioxide"}
-        },
-        {
-          "q": {
-            "hi": "CO2 की मात्रा बढ़ने से पृथ्वी के तापमान पर क्या प्रभाव पड़ेगा?",
-            "en": "What will be the effect of increased CO2 on Earth's temperature?"
-          },
-          "options": [
-            {"hi": "कम होगा", "en": "Will decrease"},
-            {"hi": "बढ़ेगा (ग्लोबल वार्मिंग)", "en": "Will increase (Global warming)"},
-            {"hi": "स्थिर रहेगा", "en": "Will stay same"},
-            {"hi": "शून्य हो जाएगा", "en": "Will be zero"}
-          ],
-          "answer": {"hi": "बढ़ेगा (ग्लोबल वार्मिंग)", "en": "Will increase (Global warming)"}
-        },
-        {
-          "q": {
-            "hi": "वन वर्षा जल के लिए किस रूप में कार्य करते हैं?",
-            "en": "Forests act as what for the rain water?"
-          },
-          "options": [
-            {"hi": "प्राकृतिक अवशोषक", "en": "Natural absorber"},
-            {"hi": "जल अवरोधक", "en": "Water blocker"},
-            {"hi": "जल वितरक", "en": "Water distributor"},
-            {"hi": "A और C दोनों", "en": "Both A and C"}
-          ],
-          "answer": {"hi": "A और C दोनों", "en": "Both A and C"}
+          "answer": {"hi": "शंकु (Cones)", "en": "Cones"}
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "वनों की अनुपस्थिति में क्या आने की संभावना बढ़ जाती है?",
-            "en": "In the absence of forests, what is more likely to occur?"
+            "hi": "दृक् तंत्रिका और रिटिना की संधि पर जहाँ कोई तंत्रिका कोशिका नहीं होती, उसे क्या कहते हैं?",
+            "en": "The junction of the optic nerve and the retina where no nerve cells exist is called?"
           },
           "options": [
-            {"hi": "सूखा", "en": "Drought"},
-            {"hi": "बाढ़", "en": "Floods"},
-            {"hi": "भूकंप", "en": "Earthquake"},
-            {"hi": "सुनामी", "en": "Tsunami"}
+            {"hi": "पीत बिंदु", "en": "Yellow spot"},
+            {"hi": "अंध बिंदु (Blind spot)", "en": "Blind spot"},
+            {"hi": "केंद्र बिंदु", "en": "Focus point"},
+            {"hi": "निकट बिंदु", "en": "Near point"}
           ],
-          "answer": {"hi": "बाढ़", "en": "Floods"}
+          "answer": {"hi": "अंध बिंदु (Blind spot)", "en": "Blind spot"}
         },
         {
           "q": {
-            "hi": "पेड़ों की जड़ों का मृदा के लिए क्या कार्य है?",
-            "en": "What is the function of tree roots for the soil?"
+            "hi": "रिटिना पर बने प्रतिबिंब का प्रभाव वस्तु हटा लेने के बाद भी कितने समय तक बना रहता है?",
+            "en": "How long does the impression of an image persist on the retina after the object is removed?"
           },
           "options": [
-            {"hi": "मृदा को ढीला करना", "en": "Loosening soil"},
-            {"hi": "मृदा को बांधे रखना", "en": "Binding the soil"},
-            {"hi": "मृदा को सुखाना", "en": "Drying soil"},
-            {"hi": "कोई कार्य नहीं", "en": "No function"}
+            {"hi": "1 सेकंड", "en": "1 second"},
+            {"hi": "1/2 सेकंड", "en": "1/2 second"},
+            {"hi": "1/16 सेकंड", "en": "1/16 second"},
+            {"hi": "1/100 सेकंड", "en": "1/100 second"}
           ],
-          "answer": {"hi": "मृदा को बांधे रखना", "en": "Binding the soil"}
+          "answer": {"hi": "1/16 सेकंड", "en": "1/16 second"}
         },
         {
           "q": {
-            "hi": "जंतुओं के लिए वन क्या प्रदान करते हैं?",
-            "en": "What do forests provide for animals?"
+            "hi": "पलकों का मुख्य कार्य क्या है?",
+            "en": "What is the main function of the eyelids?"
           },
           "options": [
-            {"hi": "आश्रय (घर)", "en": "Shelter"},
-            {"hi": "भोजन", "en": "Food"},
-            {"hi": "सुरक्षा", "en": "Protection"},
-            {"hi": "उपरोक्त सभी", "en": "All of the above"}
+            {"hi": "देखने में मदद करना", "en": "Helping in vision"},
+            {"hi": "नेत्र में प्रवेश करने वाले प्रकाश को रोकना और सुरक्षा देना", "en": "Shut out light and protect the eye"},
+            {"hi": "रंगों को पहचानना", "en": "Recognizing colors"},
+            {"hi": "आँसू बनाना", "en": "Making tears"}
           ],
-          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
+          "answer": {"hi": "नेत्र में प्रवेश करने वाले प्रकाश को रोकना और सुरक्षा देना", "en": "Shut out light and protect the eye"}
         },
         {
           "q": {
-            "hi": "मृदा की सबसे ऊपरी परत में क्या पाया जाता है जो इसे उपजाऊ बनाता है?",
-            "en": "What is found in the top layer of soil that makes it fertile?"
+            "hi": "स्वस्थ नेत्र के लिए स्पष्ट पढ़ने की न्यूनतम दूरी लगभग कितनी होती है?",
+            "en": "What is the minimum distance for clear reading for a healthy eye?"
           },
           "options": [
-            {"hi": "कंकड़", "en": "Pebbles"},
-            {"hi": "ह्यूमस (Humus)", "en": "Humus"},
-            {"hi": "लोहा", "en": "Iron"},
-            {"hi": "प्लास्टिक", "en": "Plastic"}
+            {"hi": "10 cm", "en": "10 cm"},
+            {"hi": "15 cm", "en": "15 cm"},
+            {"hi": "25 cm", "en": "25 cm"},
+            {"hi": "50 cm", "en": "50 cm"}
           ],
-          "answer": {"hi": "ह्यूमस (Humus)", "en": "Humus"}
+          "answer": {"hi": "25 cm", "en": "25 cm"}
         },
         {
           "q": {
-            "hi": "वन अधिकारी जंतुओं की उपस्थिति का पता कैसे लगाते हैं?",
-            "en": "How do forest officers identify the presence of animals?"
+            "hi": "वृद्धावस्था में नेत्र लेंस के धुंधला हो जाने की बीमारी को क्या कहते हैं?",
+            "en": "What is the disease where the eye lens becomes cloudy in old age called?"
           },
           "options": [
-            {"hi": "उनकी लीद और पदचिह्नों से", "en": "By their droppings and footprints"},
-            {"hi": "केवल आवाज़ से", "en": "Only by sound"},
-            {"hi": "कैमरे से", "en": "By camera"},
-            {"hi": "वैज्ञानिक मशीनों से", "en": "By scientific machines"}
+            {"hi": "निकट दृष्टि दोष", "en": "Myopia"},
+            {"hi": "मोतियाबिंद (Cataract)", "en": "Cataract"},
+            {"hi": "रतौंधी", "en": "Night blindness"},
+            {"hi": "ग्लूकोमा", "en": "Glaucoma"}
           ],
-          "answer": {"hi": "उनकी लीद और पदचिह्नों से", "en": "By their droppings and footprints"}
+          "answer": {"hi": "मोतियाबिंद (Cataract)", "en": "Cataract"}
         },
         {
           "q": {
-            "hi": "वनों को क्या कहा जाता है?",
-            "en": "What are forests called?"
+            "hi": "विटामिन-A की कमी से नेत्र संबंधी कौन सा मुख्य रोग होता है?",
+            "en": "Which main eye disease is caused by Vitamin-A deficiency?"
           },
           "options": [
-            {"hi": "हरे फेफड़े", "en": "Green lungs"},
-            {"hi": "जल शोधन तंत्र", "en": "Water purifying system"},
-            {"hi": "A और B दोनों", "en": "Both A and B"},
-            {"hi": "नीले फेफड़े", "en": "Blue lungs"}
+            {"hi": "मोतियाबिंद", "en": "Cataract"},
+            {"hi": "रतौंधी (Night blindness)", "en": "Night blindness"},
+            {"hi": "एनीमिया", "en": "Anemia"},
+            {"hi": "स्कर्वी", "en": "Scurvy"}
           ],
-          "answer": {"hi": "A और B दोनों", "en": "Both A and B"}
+          "answer": {"hi": "रतौंधी (Night blindness)", "en": "Night blindness"}
         },
         {
           "q": {
-            "hi": "वन में होने वाले परिवर्तनों को कौन संचालित करता है?",
-            "en": "Who drives the changes occurring in the forest?"
+            "hi": "विटामिन-A का एक अच्छा स्रोत कौन सा है?",
+            "en": "Which is a good source of Vitamin-A?"
           },
           "options": [
-            {"hi": "मनुष्य", "en": "Humans"},
-            {"hi": "जंतु और पादप स्वयं", "en": "Animals and plants themselves"},
-            {"hi": "मशीनें", "en": "Machines"},
-            {"hi": "कोई नहीं", "en": "None"}
+            {"hi": "चावल", "en": "Rice"},
+            {"hi": "गाजर (Carrot)", "en": "Carrot"},
+            {"hi": "मिर्च", "en": "Chili"},
+            {"hi": "गेहूँ", "en": "Wheat"}
           ],
-          "answer": {"hi": "जंतु और पादप स्वयं", "en": "Animals and plants themselves"}
+          "answer": {"hi": "गाजर (Carrot)", "en": "Carrot"}
         },
         {
           "q": {
-            "hi": "वन के फर्श पर सड़ी-गली पत्तियाँ कैसी होती हैं?",
-            "en": "The decaying leaves on the forest floor are?"
+            "hi": "चाक्षुषविकृति (Visual impairment) वाले व्यक्तियों के लिए सबसे लोकप्रिय साधन कौन सा है?",
+            "en": "Which is the most popular resource for visually impaired persons?"
           },
           "options": [
-            {"hi": "सूखी और ठंडी", "en": "Dry and cold"},
-            {"hi": "नम और गर्म", "en": "Moist and warm"},
-            {"hi": "सख्त और कड़ी", "en": "Hard and tough"},
-            {"hi": "चमकीली", "en": "Shiny"}
+            {"hi": "चश्मा", "en": "Spectacles"},
+            {"hi": "ब्रेल (Braille)", "en": "Braille"},
+            {"hi": "दूरबीन", "en": "Binoculars"},
+            {"hi": "माइक्रोस्कोप", "en": "Microscope"}
           ],
-          "answer": {"hi": "नम और गर्म", "en": "Moist and warm"}
+          "answer": {"hi": "ब्रेल (Braille)", "en": "Braille"}
         },
         {
           "q": {
-            "hi": "वन हमारी किस प्रकार सहायता करते हैं?",
-            "en": "In what way do forests help us?"
+            "hi": "लुई ब्रेल ने ब्रेल लिपि का विकास कब किया था?",
+            "en": "When did Louis Braille develop the Braille system?"
           },
           "options": [
-            {"hi": "शोर कम करके", "en": "By reducing noise"},
-            {"hi": "वर्षा कराके", "en": "By bringing rain"},
-            {"hi": "हवा शुद्ध करके", "en": "By cleaning air"},
-            {"hi": "उपरोक्त सभी", "en": "All of the above"}
+            {"hi": "1800", "en": "1800"},
+            {"hi": "1821", "en": "1821"},
+            {"hi": "1905", "en": "1905"},
+            {"hi": "1950", "en": "1950"}
           ],
-          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
+          "answer": {"hi": "1821", "en": "1821"}
         },
         {
           "q": {
-            "hi": "सागौन (Teak) किस प्रकार का वृक्ष है?",
-            "en": "What kind of tree is Teak?"
+            "hi": "वर्तमान ब्रेल पद्धति को कब अपनाया गया?",
+            "en": "When was the current Braille system adopted?"
           },
           "options": [
-            {"hi": "शाक", "en": "Herb"},
-            {"hi": "झाड़ी", "en": "Shrub"},
-            {"hi": "मजबूत लकड़ी वाला वृक्ष", "en": "Strong timber tree"},
-            {"hi": "लता", "en": "Creeper"}
+            {"hi": "1821", "en": "1821"},
+            {"hi": "1932", "en": "1932"},
+            {"hi": "1947", "en": "1947"},
+            {"hi": "2000", "en": "2000"}
           ],
-          "answer": {"hi": "मजबूत लकड़ी वाला वृक्ष", "en": "Strong timber tree"}
+          "answer": {"hi": "1932", "en": "1932"}
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "वनों में खाद्य श्रृंखलाएँ कैसी होती हैं?",
-            "en": "Food chains in forests are?"
+            "hi": "ब्रेल पद्धति में कितने बिन्दुकित पैटर्न (Dots) होते हैं?",
+            "en": "How many dot patterns are there in the Braille system?"
           },
           "options": [
-            {"hi": "एक दूसरे से स्वतंत्र", "en": "Independent of each other"},
-            {"hi": "परस्पर संबद्ध (Interlinked)", "en": "Interlinked"},
-            {"hi": "केवल एक होती है", "en": "Only one exists"},
-            {"hi": "नष्ट हो जाती हैं", "en": "Get destroyed"}
+            {"hi": "26", "en": "26"},
+            {"hi": "50", "en": "50"},
+            {"hi": "63", "en": "63"},
+            {"hi": "100", "en": "100"}
           ],
-          "answer": {"hi": "परस्पर संबद्ध (Interlinked)", "en": "Interlinked"}
+          "answer": {"hi": "63", "en": "63"}
         },
         {
           "q": {
-            "hi": "वन में जीवों के बीच ऊर्जा का प्रवाह कैसे होता है?",
-            "en": "How does energy flow between organisms in the forest?"
+            "hi": "ब्रेल कोड के प्रत्येक सेल में बिंदुओं की कितनी पंक्तियाँ होती हैं?",
+            "en": "How many rows of dots are in each Braille cell?"
           },
           "options": [
-            {"hi": "भोजन के माध्यम से", "en": "Through food"},
-            {"hi": "पानी के माध्यम से", "en": "Through water"},
-            {"hi": "हवा के माध्यम से", "en": "Through air"},
-            {"hi": "मिट्टी के माध्यम से", "en": "Through soil"}
+            {"hi": "दो पंक्तियाँ (तीन-तीन बिंदु)", "en": "Two rows (three dots each)"},
+            {"hi": "चार पंक्तियाँ", "en": "Four rows"},
+            {"hi": "एक पंक्ति", "en": "One row"},
+            {"hi": "तीन पंक्तियाँ", "en": "Three rows"}
           ],
-          "answer": {"hi": "भोजन के माध्यम से", "en": "Through food"}
+          "answer": {"hi": "दो पंक्तियाँ (तीन-तीन बिंदु)", "en": "Two rows (three dots each)"}
         },
         {
           "q": {
-            "hi": "अपघटक पोषक तत्वों को कहाँ वापस पहुँचाते हैं?",
-            "en": "Where do decomposers return the nutrients to?"
+            "hi": "हेलन ए. केलर कौन थीं?",
+            "en": "Who was Helen A. Keller?"
           },
           "options": [
-            {"hi": "हवा में", "en": "Into the air"},
-            {"hi": "मृदा (Soil) में", "en": "Into the soil"},
-            {"hi": "समुद्र में", "en": "Into the sea"},
-            {"hi": "पत्थरों में", "en": "Into rocks"}
+            {"hi": "एक वैज्ञानिक", "en": "A scientist"},
+            {"hi": "एक प्रसिद्ध अमेरिकी लेखिका और चाक्षुषविकृति वाली महिला", "en": "A famous American author and visually impaired woman"},
+            {"hi": "एक नेत्र डॉक्टर", "en": "An eye doctor"},
+            {"hi": "एक अंतरिक्ष यात्री", "en": "An astronaut"}
           ],
-          "answer": {"hi": "मृदा (Soil) में", "en": "Into the soil"}
+          "answer": {"hi": "एक प्रसिद्ध अमेरिकी लेखिका और चाक्षुषविकृति वाली महिला", "en": "A famous American author and visually impaired woman"}
         },
         {
           "q": {
-            "hi": "वनों का कटाव (Deforestation) क्या है?",
-            "en": "What is deforestation?"
+            "hi": "परावर्तन के पश्चात परावर्तित किरण का दर्पण से टकराना और पुनः परावर्तित होना क्या कहलाता है?",
+            "en": "The striking of reflected ray on a mirror and reflecting again is called?"
           },
           "options": [
-            {"hi": "पेड़ लगाना", "en": "Planting trees"},
-            {"hi": "पेड़ों की कटाई करना", "en": "Cutting down trees"},
-            {"hi": "वनों की रक्षा", "en": "Protecting forests"},
-            {"hi": "जंतुओं को पालना", "en": "Rearing animals"}
+            {"hi": "दोहरा परावर्तन", "en": "Double reflection"},
+            {"hi": "बहुगुणित परावर्तन (Multiple reflection)", "en": "Multiple reflection"},
+            {"hi": "अपवर्तन", "en": "Refraction"},
+            {"hi": "शून्य परावर्तन", "en": "Zero reflection"}
           ],
-          "answer": {"hi": "पेड़ों की कटाई करना", "en": "Cutting down trees"}
+          "answer": {"hi": "बहुगुणित परावर्तन (Multiple reflection)", "en": "Multiple reflection"}
         },
         {
           "q": {
-            "hi": "वन क्षेत्र कम होने से क्या संकट पैदा होता है?",
-            "en": "What crisis is caused by reduction in forest area?"
+            "hi": "पेरिस्कोप (परिदर्शी) का उपयोग कहाँ किया जाता है?",
+            "en": "Where is a Periscope used?"
           },
           "options": [
-            {"hi": "पारिस्थितिक असंतुलन", "en": "Ecological imbalance"},
-            {"hi": "जीवों के आवास का नष्ट होना", "en": "Loss of habitat for animals"},
-            {"hi": "मृदा अपरदन", "en": "Soil erosion"},
-            {"hi": "उपरोक्त सभी", "en": "All of the above"}
+            {"hi": "आसमान देखने में", "en": "To see the sky"},
+            {"hi": "पनडुब्बियों और बंकरों में बाहर देखने के लिए", "en": "In submarines and bunkers to see outside"},
+            {"hi": "पढ़ने के लिए", "en": "To read"},
+            {"hi": "खाना बनाने के लिए", "en": "To cook"}
           ],
-          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
+          "answer": {"hi": "पनडुब्बियों और बंकरों में बाहर देखने के लिए", "en": "In submarines and bunkers to see outside"}
         },
         {
           "q": {
-            "hi": "वन किस प्रकार सौर ऊर्जा को संचित करते हैं?",
-            "en": "How do forests store solar energy?"
+            "hi": "यदि दो समतल दर्पण एक-दूसरे के समांतर रखे हों, तो कितने प्रतिबिंब बनेंगे?",
+            "en": "If two plane mirrors are kept parallel to each other, how many images will be formed?"
           },
           "options": [
-            {"hi": "श्वसन द्वारा", "en": "Through respiration"},
-            {"hi": "प्रकाश संश्लेषण द्वारा", "en": "Through photosynthesis"},
-            {"hi": "वाष्पन द्वारा", "en": "Through evaporation"},
-            {"hi": "अवशोषण द्वारा", "en": "Through absorption"}
+            {"hi": "एक", "en": "One"},
+            {"hi": "दो", "en": "Two"},
+            {"hi": "दस", "en": "Ten"},
+            {"hi": "अनंत (Infinite)", "en": "Infinite"}
           ],
-          "answer": {"hi": "प्रकाश संश्लेषण द्वारा", "en": "Through photosynthesis"}
+          "answer": {"hi": "अनंत (Infinite)", "en": "Infinite"}
         },
         {
           "q": {
-            "hi": "वन वर्षा जल को रोकने में कैसे मदद करते हैं?",
-            "en": "How do forests help in holding back rain water?"
+            "hi": "इंद्रधनुष (Rainbow) प्रकाश की किस घटना का प्राकृतिक उदाहरण है?",
+            "en": "Rainbow is a natural example of which light phenomenon?"
           },
           "options": [
-            {"hi": "ऊपरी वितान द्वारा", "en": "By upper canopy"},
-            {"hi": "मृदा की ह्यूमस द्वारा", "en": "By soil humus"},
-            {"hi": "पेड़ों के तनों द्वारा", "en": "By tree trunks"},
-            {"hi": "A और B दोनों", "en": "Both A and B"}
+            {"hi": "परावर्तन", "en": "Reflection"},
+            {"hi": "विक्षेपण (Dispersion)", "en": "Dispersion"},
+            {"hi": "अवशोषण", "en": "Absorption"},
+            {"hi": "सीधी रेखा", "en": "Straight line"}
           ],
-          "answer": {"hi": "A और B दोनों", "en": "Both A and B"}
+          "answer": {"hi": "विक्षेपण (Dispersion)", "en": "Dispersion"}
         },
         {
           "q": {
-            "hi": "वन में कौन सा जीव 'अपमार्जक' (Scavenger) है?",
-            "en": "Which organism in the forest is a 'scavenger'?"
+            "hi": "नेत्रों की देखभाल के लिए क्या करना चाहिए?",
+            "en": "What should be done for eye care?"
           },
           "options": [
-            {"hi": "गिद्ध", "en": "Vulture"},
-            {"hi": "खरगोश", "en": "Rabbit"},
-            {"hi": "गाय", "en": "Cow"},
-            {"hi": "बकरी", "en": "Goat"}
+            {"hi": "तेज़ धूप में सीधे सूर्य को देखना", "en": "Looking directly at the sun"},
+            {"hi": "अंधेरे में पढ़ना", "en": "Reading in dark"},
+            {"hi": "नेत्रों को स्वच्छ जल से धोना", "en": "Washing eyes with clean water"},
+            {"hi": "नेत्रों को मलना", "en": "Rubbing the eyes"}
           ],
-          "answer": {"hi": "गिद्ध", "en": "Vulture"}
+          "answer": {"hi": "नेत्रों को स्वच्छ जल से धोना", "en": "Washing eyes with clean water"}
         },
         {
           "q": {
-            "hi": "भारत में कितने प्रतिशत क्षेत्र पर वन हैं?",
-            "en": "What percentage of India's land is covered by forests?"
+            "hi": "बहुत कम प्रकाश में पढ़ने से क्या होता है?",
+            "en": "What happens by reading in too little light?"
           },
           "options": [
-            {"hi": "10%", "en": "10%"},
-            {"hi": "21%", "en": "21%"},
-            {"hi": "50%", "en": "50%"},
-            {"hi": "80%", "en": "80"}
+            {"hi": "आँखें तेज होती हैं", "en": "Eyes become sharp"},
+            {"hi": "सिरदर्द और आँखों में खिंचाव", "en": "Headache and eye strain"},
+            {"hi": "नींद अच्छी आती है", "en": "Sleep well"},
+            {"hi": "कोई फर्क नहीं पड़ता", "en": "No difference"}
           ],
-          "answer": {"hi": "21%", "en": "21%"}
+          "answer": {"hi": "सिरदर्द और आँखों में खिंचाव", "en": "Headache and eye strain"}
         },
         {
           "q": {
-            "hi": "वन क्या प्रदान करते हैं?",
-            "en": "What do forests provide?"
+            "hi": "किसी वस्तु का प्रतिबिंब रिटिना के किस भाग पर बनने पर सबसे स्पष्ट दिखता है?",
+            "en": "An image of an object is clearest when formed on which part of the retina?"
           },
           "options": [
-            {"hi": "जलाऊ लकड़ी", "en": "Firewood"},
-            {"hi": "इमारती लकड़ी", "en": "Timber"},
-            {"hi": "औषधियाँ", "en": "Medicines"},
-            {"hi": "उपरोक्त सभी", "en": "All of the above"}
+            {"hi": "अंध बिंदु पर", "en": "On blind spot"},
+            {"hi": "पीत बिंदु पर (Yellow spot)", "en": "On yellow spot"},
+            {"hi": "कॉर्निया पर", "en": "On cornea"},
+            {"hi": "लेंस पर", "en": "On lens"}
           ],
-          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
+          "answer": {"hi": "पीत बिंदु पर (Yellow spot)", "en": "On yellow spot"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "मशरूम और अन्य सूक्ष्म जीव क्या खाते हैं?",
-            "en": "What do mushrooms and other micro-organisms eat?"
+            "hi": "परावर्तन के समय 'अभिलंब' (Normal) क्या है?",
+            "en": "What is the 'Normal' during reflection?"
           },
           "options": [
-            {"hi": "हरे पादप", "en": "Green plants"},
-            {"hi": "जीवित जंतु", "en": "Living animals"},
-            {"hi": "मृत पादप और जंतु ऊतक", "en": "Dead plant and animal tissues"},
-            {"hi": "मिट्टी", "en": "Soil"}
+            {"hi": "परावर्तित किरण", "en": "Reflected ray"},
+            {"hi": "आपतन बिंदु पर पृष्ठ के लंबवत रेखा", "en": "Line perpendicular to the surface at the point of incidence"},
+            {"hi": "दर्पण का किनारा", "en": "Edge of the mirror"},
+            {"hi": "एक रंग", "en": "A color"}
           ],
-          "answer": {"hi": "मृत पादप और जंतु ऊतक", "en": "Dead plant and animal tissues"}
+          "answer": {"hi": "आपतन बिंदु पर पृष्ठ के लंबवत रेखा", "en": "Line perpendicular to the surface at the point of incidence"}
         },
         {
           "q": {
-            "hi": "वन मृदा को कैसा रखते हैं?",
-            "en": "Forests keep the soil?"
+            "hi": "परावर्तन का दूसरा नियम क्या कहता है?",
+            "en": "What does the second law of reflection state?"
           },
           "options": [
-            {"hi": "सूखा और रेतीला", "en": "Dry and sandy"},
-            {"hi": "नम और उपजाऊ", "en": "Moist and fertile"},
-            {"hi": "कठोर और पथरीला", "en": "Hard and stony"},
-            {"hi": "बेजान", "en": "Lifeless"}
+            {"hi": "आपतित किरण, परावर्तित किरण और अभिलंब एक ही तल में होते हैं", "en": "Incident ray, reflected ray and normal lie in the same plane"},
+            {"hi": "प्रकाश हमेशा मुड़ता है", "en": "Light always bends"},
+            {"hi": "किरणें हमेशा समांतर होती हैं", "en": "Rays are always parallel"},
+            {"hi": "दर्पण काला होता है", "en": "Mirror is black"}
           ],
-          "answer": {"hi": "नम और उपजाऊ", "en": "Moist and fertile"}
+          "answer": {"hi": "आपतित किरण, परावर्तित किरण और अभिलंब एक ही तल में होते हैं", "en": "Incident ray, reflected ray and normal lie in the same plane"}
         },
         {
           "q": {
-            "hi": "वन में रहने वाले जंतु पादपों के लिए क्या करते हैं?",
-            "en": "What do animals living in forests do for plants?"
+            "hi": "समतल दर्पण द्वारा बना प्रतिबिंब कैसा होता है?",
+            "en": "What is the nature of an image formed by a plane mirror?"
           },
           "options": [
-            {"hi": "बीज प्रकीर्णन", "en": "Seed dispersal"},
-            {"hi": "परागकण में सहायता", "en": "Help in pollination"},
-            {"hi": "खाद प्रदान करना", "en": "Providing manure"},
-            {"hi": "उपरोक्त सभी", "en": "All of the above"}
+            {"hi": "उल्टा और छोटा", "en": "Inverted and small"},
+            {"hi": "आभासी, सीधा और वस्तु के साइज के बराबर", "en": "Virtual, erect and same size as the object"},
+            {"hi": "वास्तविक और बड़ा", "en": "Real and large"},
+            {"hi": "टेढ़ा-मेढ़ा", "en": "Distorted"}
           ],
-          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
+          "answer": {"hi": "आभासी, सीधा और वस्तु के साइज के बराबर", "en": "Virtual, erect and same size as the object"}
         },
         {
           "q": {
-            "hi": "वन किस प्रकार का पारिस्थितिक तंत्र (Ecosystem) है?",
-            "en": "What kind of ecosystem is a forest?"
+            "hi": "अदीप्त वस्तुएँ हमें क्यों दिखाई देती हैं?",
+            "en": "Why are non-luminous objects visible to us?"
           },
           "options": [
-            {"hi": "स्थैतिक", "en": "Static"},
-            {"hi": "गतिक सजीव इकाई", "en": "Dynamic living entity"},
-            {"hi": "निर्जीव", "en": "Non-living"},
-            {"hi": "कृत्रिम", "en": "Artificial"}
+            {"hi": "वे चमकती हैं", "en": "They shine"},
+            {"hi": "वे प्रकाश को परावर्तित करती हैं", "en": "They reflect the light"},
+            {"hi": "वे पारदर्शी होती हैं", "en": "They are transparent"},
+            {"hi": "नेत्रों में रोशनी होती है", "en": "Eyes have light"}
           ],
-          "answer": {"hi": "गतिक सजीव इकाई", "en": "Dynamic living entity"}
+          "answer": {"hi": "वे प्रकाश को परावर्तित करती हैं", "en": "They reflect the light"}
         },
         {
           "q": {
-            "hi": "वन में अधोतल (Understorey) किनसे मिलकर बनता है?",
-            "en": "Understorey in the forest is formed by?"
+            "hi": "क्या विसरित परावर्तन में परावर्तन के नियमों का पालन होता है?",
+            "en": "Are laws of reflection followed in diffused reflection?"
           },
           "options": [
-            {"hi": "ऊँचे पेड़ों से", "en": "Tall trees"},
-            {"hi": "झाड़ियों और शाकों से", "en": "Shrubs and herbs"},
-            {"hi": "केवल घासों से", "en": "Only grasses"},
-            {"hi": "बादलों से", "en": "Clouds"}
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "केवल चिकनी सतह पर", "en": "Only on smooth surface"},
+            {"hi": "कभी-कभी", "en": "Sometimes"}
           ],
-          "answer": {"hi": "झाड़ियों और शाकों से", "en": "Shrubs and herbs"}
+          "answer": {"hi": "हाँ", "en": "Yes"}
         },
         {
           "q": {
-            "hi": "वन शोर प्रदूषण को कैसे कम करते हैं?",
-            "en": "How do forests reduce noise pollution?"
+            "hi": "एक-दूसरे से 90 डिग्री पर रखे दो दर्पणों के बीच रखी वस्तु के कितने प्रतिबिंब बनेंगे?",
+            "en": "How many images will be formed for an object kept between two mirrors at 90 degrees?"
           },
           "options": [
-            {"hi": "ध्वनि को अवशोषित करके", "en": "By absorbing sound"},
-            {"hi": "शांत रहकर", "en": "By being quiet"},
-            {"hi": "हवा रोककर", "en": "By stopping wind"},
-            {"hi": "छाया प्रदान करके", "en": "By providing shade"}
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "3", "en": "3"},
+            {"hi": "4", "en": "4"}
           ],
-          "answer": {"hi": "ध्वनि को अवशोषित करके", "en": "By absorbing sound"}
+          "answer": {"hi": "3", "en": "3"}
         },
         {
           "q": {
-            "hi": "वनों को नष्ट करने का परिणाम क्या होगा?",
-            "en": "What will be the result of destroying forests?"
+            "hi": "कलाईडोस्कोप (बहुमूर्तिकला) का क्या उपयोग है?",
+            "en": "What is the use of a Kaleidoscope?"
           },
           "options": [
-            {"hi": "पर्यावरण का तापमान बढ़ना", "en": "Increase in environmental temperature"},
-            {"hi": "जंतुओं का बेघर होना", "en": "Animals becoming homeless"},
-            {"hi": "मिट्टी का बह जाना", "en": "Washing away of soil"},
-            {"hi": "उपरोक्त सभी", "en": "All of the above"}
+            {"hi": "दूरी मापने में", "en": "To measure distance"},
+            {"hi": "नए और सुंदर पैटर्न देखने के लिए", "en": "To see new and beautiful patterns"},
+            {"hi": "अँधेरे में देखने के लिए", "en": "To see in dark"},
+            {"hi": "किरणें गिनने के लिए", "en": "To count rays"}
           ],
-          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
+          "answer": {"hi": "नए और सुंदर पैटर्न देखने के लिए", "en": "To see new and beautiful patterns"}
         },
         {
           "q": {
-            "hi": "वन में गिरे हुए फल और पत्तियाँ अंततः किसमें बदल जाती हैं?",
-            "en": "The fallen fruits and leaves in the forest eventually turn into?"
+            "hi": "नेत्र लेंस प्रकाश को रिटिना के किस भाग पर फोकसित करता है?",
+            "en": "The eye lens focuses light on which part of the retina?"
           },
           "options": [
-            {"hi": "पत्थरों में", "en": "Rocks"},
-            {"hi": "कोयले में", "en": "Coal"},
-            {"hi": "ह्यूमस में", "en": "Humus"},
-            {"hi": "प्लास्टिक में", "en": "Plastic"}
+            {"hi": "कॉर्निया", "en": "Cornea"},
+            {"hi": "परितारिका", "en": "Iris"},
+            {"hi": "पिछला भाग (Retina)", "en": "Back part (Retina)"},
+            {"hi": "अंध बिंदु", "en": "Blind spot"}
           ],
-          "answer": {"hi": "ह्यूमस में", "en": "Humus"}
+          "answer": {"hi": "पिछला भाग (Retina)", "en": "Back part (Retina)"}
         },
         {
           "q": {
-            "hi": "वनों की रक्षा करना किसकी जिम्मेदारी है?",
-            "en": "Whose responsibility is it to protect forests?"
+            "hi": "अंध बिंदु पर प्रतिबिंब क्यों नहीं दिखाई देता?",
+            "en": "Why is an image not visible on the blind spot?"
           },
           "options": [
-            {"hi": "केवल सरकार की", "en": "Only government"},
-            {"hi": "केवल वन विभाग की", "en": "Only forest department"},
-            {"hi": "प्रत्येक नागरिक की", "en": "Every citizen"},
-            {"hi": "किसी की नहीं", "en": "No one's"}
+            {"hi": "वहाँ खून नहीं होता", "en": "No blood there"},
+            {"hi": "वहाँ कोई संवेदी कोशिकाएँ नहीं होतीं", "en": "There are no sensory cells there"},
+            {"hi": "वहाँ बहुत अधिक प्रकाश होता है", "en": "Too much light there"},
+            {"hi": "वहाँ लेंस होता है", "en": "Lens is there"}
           ],
-          "answer": {"hi": "प्रत्येक नागरिक की", "en": "Every citizen"}
+          "answer": {"hi": "वहाँ कोई संवेदी कोशिकाएँ नहीं होतीं", "en": "There are no sensory cells there"}
         },
         {
           "q": {
-            "hi": "वन क्या कहलाते हैं?",
-            "en": "What are forests known as?"
+            "hi": "मृत्यु के बाद कितने समय के भीतर नेत्रदान कर देना चाहिए?",
+            "en": "Eye donation should be done within how much time after death?"
           },
           "options": [
-            {"hi": "हमारी जीवन रेखा", "en": "Our lifeline"},
-            {"hi": "आर्थिक संपदा", "en": "Economic wealth"},
-            {"hi": "पर्यावरण के रक्षक", "en": "Protectors of environment"},
-            {"hi": "उपरोक्त सभी", "en": "All of the above"}
+            {"hi": "1 घंटा", "en": "1 hour"},
+            {"hi": "4-6 घंटे", "en": "4-6 hours"},
+            {"hi": "24 घंटे", "en": "24 hours"},
+            {"hi": "2 दिन", "en": "2 days"}
           ],
-          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
-        }
-      ]
-    },
-    "chapter13": {
-      "section1": [
-        {
-          "q": {
-            "hi": "झाग से भरपूर, तेल मिश्रित, काले-भूरे रंग का जल जो नालियों में जाता है, क्या कहलाता है?",
-            "en": "The frothy, oil mixed, black-brown water that goes into drains is called?"
-          },
-          "options": [
-            {"hi": "स्वच्छ जल", "en": "Clean water"},
-            {"hi": "अपशिष्ट जल (Wastewater)", "en": "Wastewater"},
-            {"hi": "पेयजल", "en": "Drinking water"},
-            {"hi": "खनिज जल", "en": "Mineral water"}
-          ],
-          "answer": {"hi": "अपशिष्ट जल (Wastewater)", "en": "Wastewater"}
-        },
-        {
-          "q": {
-            "hi": "विश्व जल दिवस कब मनाया जाता है?",
-            "en": "When is World Water Day celebrated?"
-          },
-          "options": [
-            {"hi": "22 जनवरी", "en": "22 January"},
-            {"hi": "22 मार्च", "en": "22 March"},
-            {"hi": "5 जून", "en": "5 June"},
-            {"hi": "14 नवंबर", "en": "14 November"}
-          ],
-          "answer": {"hi": "22 मार्च", "en": "22 March"}
-        },
-        {
-          "q": {
-            "hi": "संयुक्त राष्ट्र ने 2005-2015 की अवधि को किस रूप में घोषित किया था?",
-            "en": "The period 2005–2015 was proclaimed by the UN as the International Decade for action on?"
-          },
-          "options": [
-            {"hi": "स्वच्छता के लिए जीवन", "en": "Sanitation for life"},
-            {"hi": "जीवन के लिए जल", "en": "Water for life"},
-            {"hi": "भोजन के लिए जल", "en": "Water for food"},
-            {"hi": "गरीबी हटाओ", "en": "Eradicate poverty"}
-          ],
-          "answer": {"hi": "जीवन के लिए जल", "en": "Water for life"}
-        },
-        {
-          "q": {
-            "hi": "अपशिष्ट जल उपचार के प्रक्रम को सामान्यतः क्या कहते हैं?",
-            "en": "The process of wastewater treatment is commonly known as?"
-          },
-          "options": [
-            {"hi": "जल शोधन", "en": "Water purification"},
-            {"hi": "मलजल उपचार (Sewage treatment)", "en": "Sewage treatment"},
-            {"hi": "क्लोरीनीकरण", "en": "Chlorination"},
-            {"hi": "वाष्पीकरण", "en": "Evaporation"}
-          ],
-          "answer": {"hi": "मलजल उपचार (Sewage treatment)", "en": "Sewage treatment"}
-        },
-        {
-          "q": {
-            "hi": "मलजल (Sewage) किस प्रकार का अपशिष्ट है?",
-            "en": "Sewage is which type of waste?"
-          },
-          "options": [
-            {"hi": "ठोस अपशिष्ट", "en": "Solid waste"},
-            {"hi": "द्रव रूपी अपशिष्ट", "en": "Liquid waste"},
-            {"hi": "गैसीय अपशिष्ट", "en": "Gaseous waste"},
-            {"hi": "घातक अपशिष्ट", "en": "Hazardous waste"}
-          ],
-          "answer": {"hi": "द्रव रूपी अपशिष्ट", "en": "Liquid waste"}
-        },
-        {
-          "q": {
-            "hi": "जल में घुले हुए और निलंबित अपद्रव्य क्या कहलाते हैं?",
-            "en": "The dissolved and suspended impurities in water are called?"
-          },
-          "options": [
-            {"hi": "पोषक तत्व", "en": "Nutrients"},
-            {"hi": "संदूषक (Contaminants)", "en": "Contaminants"},
-            {"hi": "कीटाणु", "en": "Germs"},
-            {"hi": "रसायन", "en": "Chemicals"}
-          ],
-          "answer": {"hi": "संदूषक (Contaminants)", "en": "Contaminants"}
-        },
-        {
-          "q": {
-            "hi": "मलजल में उपस्थित कार्बनिक अशुद्धि का उदाहरण कौन सा है?",
-            "en": "Which of the following is an organic impurity in sewage?"
-          },
-          "options": [
-            {"hi": "फॉस्फेट", "en": "Phosphate"},
-            {"hi": "नाइट्रेट", "en": "Nitrate"},
-            {"hi": "मानव मल", "en": "Human faeces"},
-            {"hi": "धातुएँ", "en": "Metals"}
-          ],
-          "answer": {"hi": "मानव मल", "en": "Human faeces"}
-        },
-        {
-          "q": {
-            "hi": "अपशिष्ट जल में फास्फेट और नाइट्रेट किस प्रकार की अशुद्धियाँ हैं?",
-            "en": "Phosphate and nitrate in wastewater are which type of impurities?"
-          },
-          "options": [
-            {"hi": "कार्बनिक", "en": "Organic"},
-            {"hi": "अकार्बनिक (Inorganic)", "en": "Inorganic"},
-            {"hi": "बैक्टीरिया", "en": "Bacteria"},
-            {"hi": "पोषक तत्व", "en": "Nutrients"}
-          ],
-          "answer": {"hi": "अकार्बनिक (Inorganic)", "en": "Inorganic"}
-        },
-        {
-          "q": {
-            "hi": "मलजल ले जाने वाले पाइपों के जाल को क्या कहते हैं?",
-            "en": "The network of pipes that carry sewage is called?"
-          },
-          "options": [
-            {"hi": "परिवहन तंत्र", "en": "Transport system"},
-            {"hi": "मल व्यवस्था (Sewerage)", "en": "Sewerage"},
-            {"hi": "जल पाइपलाइन", "en": "Water pipeline"},
-            {"hi": "गैस ग्रिड", "en": "Gas grid"}
-          ],
-          "answer": {"hi": "मल व्यवस्था (Sewerage)", "en": "Sewerage"}
-        },
-        {
-          "q": {
-            "hi": "मल व्यवस्था में 'मैनहोल' (Manholes) सामान्यतः कितनी दूरी पर बनाए जाते हैं?",
-            "en": "Manholes in sewerage systems are usually located every?"
-          },
-          "options": [
-            {"hi": "10-20 मीटर", "en": "10-20 m"},
-            {"hi": "50-60 मीटर", "en": "50-60 m"},
-            {"hi": "100-200 मीटर", "en": "100-200 m"},
-            {"hi": "5-10 मीटर", "en": "5-10 m"}
-          ],
-          "answer": {"hi": "50-60 मीटर", "en": "50-60 m"}
-        }
-      ],
-      "section2": [
-        {
-          "q": {
-            "hi": "WWTP का पूर्ण रूप क्या है?",
-            "en": "What is the full form of WWTP?"
-          },
-          "options": [
-            {"hi": "Water Waste Time Plant", "en": "Water Waste Time Plant"},
-            {"hi": "Waste Water Treatment Plant", "en": "Waste Water Treatment Plant"},
-            {"hi": "World Water Treatment Project", "en": "World Water Treatment Project"},
-            {"hi": "Water Works Treatment Plan", "en": "Water Works Treatment Plan"}
-          ],
-          "answer": {"hi": "Waste Water Treatment Plant", "en": "Waste Water Treatment Plant"}
-        },
-        {
-          "q": {
-            "hi": "उपचार संयंत्र में सबसे पहले अपशिष्ट जल को किन छड़ों से बने स्क्रीन से गुजारा जाता है?",
-            "en": "In a treatment plant, wastewater first passes through which screens?"
-          },
-          "options": [
-            {"hi": "लकड़ी की छड़ें", "en": "Wooden bars"},
-            {"hi": "शलाका छन्ने (Bar screens)", "en": "Bar screens"},
-            {"hi": "प्लास्टिक जाल", "en": "Plastic mesh"},
-            {"hi": "काँच की छड़ें", "en": "Glass rods"}
-          ],
-          "answer": {"hi": "शलाका छन्ने (Bar screens)", "en": "Bar screens"}
-        },
-        {
-          "q": {
-            "hi": "टैंकी के पेंदे में बैठने वाले ठोस जैसे मल को क्या कहते हैं?",
-            "en": "Solid wastes like faeces that settle at the bottom of the tank are called?"
-          },
-          "options": [
-            {"hi": "झाग", "en": "Scum"},
-            {"hi": "आपंक (Sludge)", "en": "Sludge"},
-            {"hi": "कीचड़", "en": "Mud"},
-            {"hi": "कंकड़", "en": "Grit"}
-          ],
-          "answer": {"hi": "आपंक (Sludge)", "en": "Sludge"}
-        },
-        {
-          "q": {
-            "hi": "अपशिष्ट जल में तैरने वाले तेल और ग्रीज को हटाने के लिए किसका उपयोग किया जाता है?",
-            "en": "What is used to remove floatable solids like oil and grease from wastewater?"
-          },
-          "options": [
-            {"hi": "खुरचनी (Scraper)", "en": "Scraper"},
-            {"hi": "मथनी (Skimmer)", "en": "Skimmer"},
-            {"hi": "छलनी", "en": "Sieve"},
-            {"hi": "पंप", "en": "Pump"}
-          ],
-          "answer": {"hi": "मथनी (Skimmer)", "en": "Skimmer"}
-        },
-        {
-          "q": {
-            "hi": "उपचारित जल जिसमें से तेल और ठोस पदार्थ हटा दिए गए हों, क्या कहलाता है?",
-            "en": "Treated water after removing solids and grease is called?"
-          },
-          "options": [
-            {"hi": "कठोर जल", "en": "Hard water"},
-            {"hi": "निर्मलीकृत जल (Clarified water)", "en": "Clarified water"},
-            {"hi": "भारी जल", "en": "Heavy water"},
-            {"hi": "आसुत जल", "en": "Distilled water"}
-          ],
-          "answer": {"hi": "निर्मलीकृत जल (Clarified water)", "en": "Clarified water"}
-        },
-        {
-          "q": {
-            "hi": "आपंक (Sludge) को एक पृथक् टंकी में किसके द्वारा अपघटित किया जाता है?",
-            "en": "Sludge is decomposed in a separate tank by?"
-          },
-          "options": [
-            {"hi": "वायवीय जीवाणु", "en": "Aerobic bacteria"},
-            {"hi": "अवायवीय जीवाणु (Anaerobic bacteria)", "en": "Anaerobic bacteria"},
-            {"hi": "विषाणु", "en": "Virus"},
-            {"hi": "कवक", "en": "Fungi"}
-          ],
-          "answer": {"hi": "अवायवीय जीवाणु (Anaerobic bacteria)", "en": "Anaerobic bacteria"}
-        },
-        {
-          "q": {
-            "hi": "आपंक के अपघटन से कौन-सी गैस उत्पन्न होती है जिसका उपयोग ईंधन के रूप में किया जा सकता है?",
-            "en": "Which gas produced during sludge decomposition can be used as fuel?"
-          },
-          "options": [
-            {"hi": "ऑक्सीजन", "en": "Oxygen"},
-            {"hi": "बायोगैस (Biogas)", "en": "Biogas"},
-            {"hi": "नाइट्रोजन", "en": "Nitrogen"},
-            {"hi": "क्लोरीन", "en": "Chlorine"}
-          ],
-          "answer": {"hi": "बायोगैस (Biogas)", "en": "Biogas"}
-        },
-        {
-          "q": {
-            "hi": "निर्मलीकृत जल में वायवीय जीवाणुओं की वृद्धि के लिए क्या किया जाता है?",
-            "en": "What is done to clarified water to help aerobic bacteria grow?"
-          },
-          "options": [
-            {"hi": "पानी गर्म करना", "en": "Heating water"},
-            {"hi": "वायु गुज़ारना (Aeration)", "en": "Passing air (Aeration)"},
-            {"hi": "अंधेरे में रखना", "en": "Keeping in dark"},
-            {"hi": "नमक मिलाना", "en": "Adding salt"}
-          ],
-          "answer": {"hi": "वायु गुज़ारना (Aeration)", "en": "Passing air (Aeration)"}
-        },
-        {
-          "q": {
-            "hi": "जल को वितरित करने से पहले उसे रोगाणुमुक्त करने के लिए किन रसायनों का उपयोग किया जाता है?",
-            "en": "Which chemicals are used to disinfect water before distribution?"
-          },
-          "options": [
-            {"hi": "चीनी और नमक", "en": "Sugar and Salt"},
-            {"hi": "क्लोरीन और ओजोन", "en": "Chlorine and Ozone"},
-            {"hi": "नाइट्रोजन और फास्फोरस", "en": "Nitrogen and Phosphorus"},
-            {"hi": "लोहा और ताँबा", "en": "Iron and Copper"}
-          ],
-          "answer": {"hi": "क्लोरीन और ओजोन", "en": "Chlorine and Ozone"}
-        },
-        {
-          "q": {
-            "hi": "खाद्य तेलों और वसाओं को नाली में क्यों नहीं बहाना चाहिए?",
-            "en": "Why should cooking oils and fats not be thrown down the drain?"
-          },
-          "options": [
-            {"hi": "वे पाइपों को सख्त कर जाम कर सकते हैं", "en": "They can harden and block the pipes"},
-            {"hi": "वे पानी को मीठा करते हैं", "en": "They make water sweet"},
-            {"hi": "वे पाइपों को साफ़ करते हैं", "en": "They clean the pipes"},
-            {"hi": "वे ऑक्सीजन बढ़ाते हैं", "en": "They increase oxygen"}
-          ],
-          "answer": {"hi": "वे पाइपों को सख्त कर जाम कर सकते हैं", "en": "They can harden and block the pipes"}
-        }
-      ],
-      "section3": [
-        {
-          "q": {
-            "hi": "पेंट, विलायक और कीटनाशकों को नाली में क्यों नहीं फेंकना चाहिए?",
-            "en": "Why should paints, solvents and insecticides not be thrown in the drain?"
-          },
-          "options": [
-            {"hi": "वे पानी का रंग बदलते हैं", "en": "They change water color"},
-            {"hi": "वे जल शुद्धि करने वाले सूक्ष्मजीवों को मार सकते हैं", "en": "They may kill microbes that help purify water"},
-            {"hi": "वे पाइपों को नया बनाते हैं", "en": "They make pipes new"},
-            {"hi": "वे मछली का भोजन हैं", "en": "They are food for fish"}
-          ],
-          "answer": {"hi": "वे जल शुद्धि करने वाले सूक्ष्मजीवों को मार सकते हैं", "en": "They may kill microbes that help purify water"}
-        },
-        {
-          "q": {
-            "hi": "चाय की पत्तियाँ और ठोस खाद्य अवशेषों को कहाँ फेंकना चाहिए?",
-            "en": "Where should tea leaves and solid food remains be thrown?"
-          },
-          "options": [
-            {"hi": "नाली में", "en": "In the drain"},
-            {"hi": "कचरेदान (Dustbin) में", "en": "In the dustbin"},
-            {"hi": "शौचालय में", "en": "In the toilet"},
-            {"hi": "सड़क पर", "en": "On the road"}
-          ],
-          "answer": {"hi": "कचरेदान (Dustbin) में", "en": "In the dustbin"}
-        },
-        {
-          "q": {
-            "hi": "वाहित मल उपचार संयंत्र के चारों ओर कौन से वृक्ष लगाने चाहिए?",
-            "en": "Which trees should be planted all along sewage ponds?"
-          },
-          "options": [
-            {"hi": "आम के पेड़", "en": "Mango trees"},
-            {"hi": "यूकेलिप्टस के पेड़", "en": "Eucalyptus trees"},
-            {"hi": "बरगद के पेड़", "en": "Banyan trees"},
-            {"hi": "नारियल के पेड़", "en": "Coconut trees"}
-          ],
-          "answer": {"hi": "यूकेलिप्टस के पेड़", "en": "Eucalyptus trees"}
-        },
-        {
-          "q": {
-            "hi": "यूकेलिप्टस के पेड़ जल उपचार में कैसे सहायक हैं?",
-            "en": "How do Eucalyptus trees help in water treatment?"
-          },
-          "options": [
-            {"hi": "वे जल को प्रदूषित करते हैं", "en": "They pollute water"},
-            {"hi": "वे अतिरिक्त अपशिष्ट जल को अवशोषित कर वाष्प उत्सर्जित करते हैं", "en": "They absorb surplus wastewater and release water vapour"},
-            {"hi": "वे केवल छाया देते हैं", "en": "They only give shade"},
-            {"hi": "वे फल देते हैं", "en": "They give fruits"}
-          ],
-          "answer": {"hi": "वे अतिरिक्त अपशिष्ट जल को अवशोषित कर वाष्प उत्सर्जित करते हैं", "en": "They absorb surplus wastewater and release water vapour"}
-        },
-        {
-          "q": {
-            "hi": "गंदगी और असुरक्षित पेयजल के कारण कौन सी बीमारियाँ होती हैं?",
-            "en": "Which diseases are caused by filth and unsafe drinking water?"
-          },
-          "options": [
-            {"hi": "हैजा और टाइफाइड", "en": "Cholera and Typhoid"},
-            {"hi": "पीलिया (हेपेटाइटिस)", "en": "Jaundice (Hepatitis)"},
-            {"hi": "पेचिश और मेनिन्जाइटिस", "en": "Dysentery and Meningitis"},
-            {"hi": "उपरोक्त सभी", "en": "All of the above"}
-          ],
-          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
-        },
-        {
-          "q": {
-            "hi": "मल निपटान की वैकल्पिक व्यवस्था कौन सी है?",
-            "en": "Which is an alternative arrangement for sewage disposal?"
-          },
-          "options": [
-            {"hi": "खुली नाली", "en": "Open drain"},
-            {"hi": "सेप्टिक टैंक", "en": "Septic tank"},
-            {"hi": "नदी में बहाना", "en": "Flowing into river"},
-            {"hi": "खेतों में डालना", "en": "Dumping in fields"}
-          ],
-          "answer": {"hi": "सेप्टिक टैंक", "en": "Septic tank"}
-        },
-        {
-          "q": {
-            "hi": "सेप्टिक टैंक शौचालय किन स्थानों के लिए उपयुक्त हैं?",
-            "en": "Septic tank toilets are suitable for places where?"
-          },
-          "options": [
-            {"hi": "शहरों में", "en": "In cities"},
-            {"hi": "जहाँ मल व्यवस्था नहीं है", "en": "There is no sewerage system"},
-            {"hi": "हवाई अड्डों पर", "en": "At airports"},
-            {"hi": "स्कूलों में", "en": "In schools"}
-          ],
-          "answer": {"hi": "जहाँ मल व्यवस्था नहीं है", "en": "There is no sewerage system"}
-        },
-        {
-          "q": {
-            "hi": "वर्मी-प्रोसेसिंग (केंचुआ-प्रक्रमण) शौचालय में क्या उपयोग किया जाता है?",
-            "en": "What is used in vermi-processing toilets?"
-          },
-          "options": [
-            {"hi": "मछली", "en": "Fish"},
-            {"hi": "केंचुए (Earthworms)", "en": "Earthworms"},
-            {"hi": "मेंढक", "en": "Frogs"},
-            {"hi": "कॉकरोच", "en": "Cockroaches"}
-          ],
-          "answer": {"hi": "केंचुए (Earthworms)", "en": "Earthworms"}
-        },
-        {
-          "q": {
-            "hi": "केंचुओं द्वारा उपचारित मानव मल क्या कहलाता है?",
-            "en": "The human excreta treated by earthworms is called?"
-          },
-          "options": [
-            {"hi": "अपशिष्ट", "en": "Waste"},
-            {"hi": "वर्मी केक (Vermi cakes)", "en": "Vermi cakes"},
-            {"hi": "गंदगी", "en": "Filth"},
-            {"hi": "राख", "en": "Ash"}
-          ],
-          "answer": {"hi": "वर्मी केक (Vermi cakes)", "en": "Vermi cakes"}
-        },
-        {
-          "q": {
-"hi": "हवाई जहाजों और ट्रेनों में किस प्रकार के शौचालय लोकप्रिय हो रहे हैं?",
-            "en": "Which type of toilets are becoming popular in airplanes and trains?"
-          },
-          "options": [
-            {"hi": "सेप्टिक टैंक", "en": "Septic tank"},
-            {"hi": "शुष्क अपघटन शौचालय (Vacuum/Dry toilets)", "en": "Vacuum/Dry toilets"},
-            {"hi": "खुले शौचालय", "en": "Open toilets"},
-            {"hi": "नदी शौचालय", "en": "River toilets"}
-          ],
-          "answer": {"hi": "शुष्क अपघटन शौचालय (Vacuum/Dry toilets)", "en": "Vacuum/Dry toilets"}
-        }
-      ],
-      "section4": [
-        {
-          "q": {
-            "hi": "सार्वजनिक स्थानों पर स्वच्छता बनाए रखने की जिम्मेदारी किसकी है?",
-            "en": "Whose responsibility is it to maintain sanitation at public places?"
-          },
-          "options": [
-            {"hi": "केवल सरकार की", "en": "Only Government"},
-            {"hi": "केवल नगर निगम की", "en": "Only Municipal Corporation"},
-            {"hi": "प्रत्येक नागरिक की", "en": "Every citizen"},
-            {"hi": "किसी की नहीं", "en": "No one's"}
-          ],
-          "answer": {"hi": "प्रत्येक नागरिक की", "en": "Every citizen"}
-        },
-        {
-          "q": {
-            "hi": "खुले में मलत्याग से कौन सा प्रदूषण होता है?",
-            "en": "Defecation in the open causes which pollution?"
-          },
-          "options": [
-            {"hi": "जल प्रदूषण", "en": "Water pollution"},
-            {"hi": "मृदा प्रदूषण", "en": "Soil pollution"},
-            {"hi": "दोनों", "en": "Both"},
-            {"hi": "केवल वायु प्रदूषण", "en": "Only air pollution"}
-          ],
-          "answer": {"hi": "दोनों", "en": "Both"}
-        },
-        {
-          "q": {
-            "hi": "अपशिष्ट जल के उपचार के बाद प्राप्त शुष्क आपंक (Dry sludge) का उपयोग किस रूप में होता है?",
-            "en": "What is the use of dried sludge obtained after wastewater treatment?"
-          },
-          "options": [
-            {"hi": "ईंधन के रूप में", "en": "As fuel"},
-            {"hi": "खाद (Manure) के रूप में", "en": "As manure"},
-            {"hi": "पीने के लिए", "en": "For drinking"},
-            {"hi": "सजावट के लिए", "en": "For decoration"}
-          ],
-          "answer": {"hi": "खाद (Manure) के रूप में", "en": "As manure"}
-        },
-        {
-          "q": {
-            "hi": "क्या उपचारित जल को सीधे समुद्र या नदियों में विसर्जित किया जा सकता है?",
-            "en": "Can treated water be discharged directly into seas or rivers?"
-          },
-          "options": [
-            {"hi": "हाँ, क्योंकि यह काफी स्वच्छ होता है", "en": "Yes, as it is clean enough"},
-            {"hi": "नहीं, कभी नहीं", "en": "No, never"},
-            {"hi": "केवल रात में", "en": "Only at night"},
-            {"hi": "केवल बारिश में", "en": "Only in rain"}
-          ],
-          "answer": {"hi": "हाँ, क्योंकि यह काफी स्वच्छ होता है", "en": "Yes, as it is clean enough"}
-        },
-        {
-          "q": {
-            "hi": "सिंधु घाटी सभ्यता में जल निकासी की व्यवस्था कैसी थी?",
-            "en": "How was the drainage system in the Indus Valley Civilization?"
-          },
-          "options": [
-            {"hi": "कोई व्यवस्था नहीं थी", "en": "There was no system"},
-            {"hi": "अत्यंत विकसित और बंद नालियाँ", "en": "Highly developed and closed drains"},
-            {"hi": "खुली नालियाँ", "en": "Open drains"},
-            {"hi": "पाइप नहीं थे", "en": "No pipes"}
-          ],
-          "answer": {"hi": "अत्यंत विकसित और बंद नालियाँ", "en": "Highly developed and closed drains"}
-        },
-        {
-          "q": {
-            "hi": "विश्व का पहला शहरी स्वच्छता संयंत्र कहाँ विकसित हुआ था?",
-            "en": "Where was the world's first urban sanitation plant developed?"
-          },
-          "options": [
-            {"hi": "लंदन", "en": "London"},
-            {"hi": "हड़प्पा और मोहनजोदड़ो", "en": "Harappa and Mohenjo-daro"},
-            {"hi": "न्यूयॉर्क", "en": "New York"},
-            {"hi": "पेरिस", "en": "Paris"}
-          ],
-          "answer": {"hi": "हड़प्पा और मोहनजोदड़ो", "en": "Harappa and Mohenjo-daro"}
-        },
-        {
-          "q": {
-            "hi": "शौचालयों में पानी की बचत के लिए किस प्रणाली का उपयोग किया जा सकता है?",
-            "en": "Which system can be used to save water in toilets?"
-          },
-          "options": [
-            {"hi": "फ्लश हटाकर", "en": "Removing flush"},
-            {"hi": "कम पानी वाले फ्लश (Dual flush)", "en": "Dual flush system"},
-            {"hi": "पानी का उपयोग न करके", "en": "By not using water"},
-            {"hi": "पाइप तोड़कर", "en": "Breaking pipes"}
-          ],
-          "answer": {"hi": "कम पानी वाले फ्लश (Dual flush)", "en": "Dual flush system"}
-        },
-        {
-          "q": {
-            "hi": "अपशिष्ट जल से ठोस कचरा हटाने की प्रक्रिया क्या कहलाती है?",
-            "en": "The process of removing solid waste from wastewater is called?"
-          },
-          "options": [
-            {"hi": "छानना (Screening)", "en": "Screening"},
-            {"hi": "वाष्पीकरण", "en": "Evaporation"},
-            {"hi": "मिश्रण", "en": "Mixing"},
-            {"hi": "गर्म करना", "en": "Heating"}
-          ],
-          "answer": {"hi": "छानना (Screening)", "en": "Screening"}
-        },
-        {
-          "q": {
-            "hi": "जल प्रदूषण के लिए कौन उत्तरदायी है?",
-            "en": "Who is responsible for water pollution?"
-          },
-          "options": [
-            {"hi": "औद्योगिक अपशिष्ट", "en": "Industrial waste"},
-            {"hi": "घरेलू मलजल", "en": "Domestic sewage"},
-            {"hi": "कृषि रसायन", "en": "Agricultural chemicals"},
-            {"hi": "उपरोक्त सभी", "en": "All of the above"}
-          ],
-          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
-        },
-        {
-          "q": {
-            "hi": "ओजोन का उपयोग जल उपचार में किस लिए किया जाता है?",
-            "en": "What is Ozone used for in water treatment?"
-          },
-          "options": [
-            {"hi": "पानी ठंडा करने के लिए", "en": "To cool water"},
-            {"hi": "रोगाणुनाशन के लिए (Disinfection)", "en": "For disinfection"},
-            {"hi": "स्वाद बढ़ाने के लिए", "en": "To increase taste"},
-            {"hi": "रंग बदलने के लिए", "en": "To change color"}
-          ],
-          "answer": {"hi": "रोगाणुनाशन के लिए (Disinfection)", "en": "For disinfection"}
-        }
-      ],
-      "section5": [
-        {
-          "q": {
-            "hi": "अपशिष्ट जल उपचार का प्राथमिक चरण क्या है?",
-            "en": "What is the primary stage of wastewater treatment?"
-          },
-          "options": [
-            {"hi": "जैविक उपचार", "en": "Biological treatment"},
-            {"hi": "भौतिक उपचार (Physical treatment)", "en": "Physical treatment"},
-            {"hi": "रासायनिक उपचार", "en": "Chemical treatment"},
-            {"hi": "कीटाणुशोधन", "en": "Disinfection"}
-          ],
-          "answer": {"hi": "भौतिक उपचार (Physical treatment)", "en": "Physical treatment"}
-        },
-        {
-          "q": {
-            "hi": "ग्रीट और बालू को हटाने के लिए जल की गति को क्या किया जाता है?",
-            "en": "To remove grit and sand, the speed of water is?"
-          },
-          "options": [
-            {"hi": "तेज किया जाता है", "en": "Increased"},
-            {"hi": "कम किया जाता है (Decreased)", "en": "Decreased"},
-            {"hi": "रोका जाता है", "en": "Stopped"},
-            {"hi": "स्थिर रखा जाता है", "en": "Kept constant"}
-          ],
-          "answer": {"hi": "कम किया जाता है (Decreased)", "en": "Decreased"}
-        },
-        {
-          "q": {
-            "hi": "मलजल में कौन से जीवाणु हैजा का कारण बनते हैं?",
-            "en": "Which bacteria in sewage cause cholera?"
-          },
-          "options": [
-            {"hi": "विब्रियो कोलेरी", "en": "Vibrio cholerae"},
-            {"hi": "साल्मोनेला टाइफी", "en": "Salmonella typhi"},
-            {"hi": "ई-कोलाई", "en": "E. coli"},
-            {"hi": "लैक्टोबैसिलस", "en": "Lactobacillus"}
-          ],
-          "answer": {"hi": "विब्रियो कोलेरी", "en": "Vibrio cholerae"}
-        },
-        {
-          "q": {
-            "hi": "टाइफाइड किस बैक्टीरिया के कारण होता है?",
-            "en": "Typhoid is caused by which bacteria?"
-          },
-          "options": [
-            {"hi": "विब्रियो कोलेरी", "en": "Vibrio cholerae"},
-            {"hi": "साल्मोनेला टाइफी", "en": "Salmonella typhi"},
-            {"hi": "राइजोबियम", "en": "Rhizobium"},
-            {"hi": "यीस्ट", "en": "Yeast"}
-          ],
-          "answer": {"hi": "साल्मोनेला टाइफी", "en": "Salmonella typhi"}
-        },
-        {
-          "q": {
-            "hi": "एक सक्रिय नागरिक के रूप में हमें क्या करना चाहिए?",
-            "en": "As an active citizen, what should we do?"
-          },
-          "options": [
-            {"hi": "अपशिष्ट कम उत्पन्न करना", "en": "Produce less waste"},
-            {"hi": "नगरपालिका को गंदगी की सूचना देना", "en": "Inform municipality about filth"},
-            {"hi": "आस-पास स्वच्छता रखना", "en": "Maintain cleanliness nearby"},
-            {"hi": "उपरोक्त सभी", "en": "All of the above"}
-          ],
-          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
-        },
-        {
-          "q": {
-            "hi": "स्वच्छ भारत अभियान की शुरुआत कब हुई थी?",
-            "en": "When was the Swachh Bharat Mission started?"
-          },
-          "options": [
-            {"hi": "2010", "en": "2010"},
-            {"hi": "2014", "en": "2014"},
-            {"hi": "2018", "en": "2018"},
-            {"hi": "2020", "en": "2020"}
-          ],
-          "answer": {"hi": "2014", "en": "2014"}
-        },
-        {
-          "q": {
-            "hi": "वाहित मल में कौन-सा पोषक तत्व पाया जाता है?",
-            "en": "Which nutrient is found in sewage?"
-          },
-          "options": [
-            {"hi": "फास्फोरस और नाइट्रोजन", "en": "Phosphorus and Nitrogen"},
-            {"hi": "सोना और चांदी", "en": "Gold and Silver"},
-            {"hi": "विटामिन C", "en": "Vitamin C"},
-            {"hi": "केवल ऑक्सीजन", "en": "Only Oxygen"}
-          ],
-          "answer": {"hi": "फास्फोरस और नाइट्रोजन", "en": "Phosphorus and Nitrogen"}
-        },
-        {
-          "q": {
-            "hi": "बायोगैस का उपयोग किसमें किया जा सकता है?",
-            "en": "Biogas can be used for?"
-          },
-          "options": [
-            {"hi": "खाना पकाने में", "en": "Cooking"},
-            {"hi": "विद्युत उत्पादन में", "en": "Electricity generation"},
-            {"hi": "दोनों", "en": "Both"},
-            {"hi": "कपड़े धोने में", "en": "Washing clothes"}
-          ],
-          "answer": {"hi": "दोनों", "en": "Both"}
-        },
-        {
-          "q": {
-            "hi": "उपचारित जल का उपयोग कहाँ किया जा सकता है?",
-            "en": "Where can treated water be used?"
-          },
-          "options": [
-            {"hi": "खेती और सिंचाई में", "en": "Farming and Irrigation"},
-            {"hi": "औद्योगिक कार्यों में", "en": "Industrial purposes"},
-            {"hi": "बगीचों में", "en": "In gardens"},
-            {"hi": "उपरोक्त सभी", "en": "All of the above"}
-          ],
-          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
-        },
-        {
-          "q": {
-            "hi": "स्वच्छता और बीमारी के बीच क्या संबंध है?",
-            "en": "What is the relation between sanitation and disease?"
-          },
-          "options": [
-            {"hi": "स्वच्छता बढ़ने से बीमारियाँ बढ़ती हैं", "en": "Sanitation increases diseases"},
-            {"hi": "स्वच्छता बढ़ने से बीमारियाँ कम होती हैं", "en": "Sanitation decreases diseases"},
-            {"hi": "कोई संबंध नहीं है", "en": "No relation"},
-            {"hi": "बीमारी से स्वच्छता आती है", "en": "Disease brings sanitation"}
-          ],
-          "answer": {"hi": "स्वच्छता बढ़ने से बीमारियाँ कम होती हैं", "en": "Sanitation decreases diseases"}
+          "answer": {"hi": "4-6 घंटे", "en": "4-6 hours"}
         }
       ]
     }
