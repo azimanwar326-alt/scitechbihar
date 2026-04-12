@@ -5297,665 +5297,665 @@
         }
       ]
     },
-    "chapter09": {
+   "chapter09": {
       "section1": [
         {
           "q": {
-            "hi": "किसी सरल रेखा के अनुदिश होने वाली गति क्या कहलाती है?",
-            "en": "What is motion along a straight line called?"
+            "hi": "दो पृष्ठों के बीच सापेक्ष गति का विरोध करने वाले बल को क्या कहते हैं?",
+            "en": "What is the force that opposes the relative motion between two surfaces called?"
           },
           "options": [
-            {"hi": "वर्तुल गति", "en": "Circular motion"},
-            {"hi": "सरलरेखीय गति", "en": "Straight line motion"},
-            {"hi": "आवर्ती गति", "en": "Periodic motion"},
-            {"hi": "दोलन गति", "en": "Oscillatory motion"}
+            {"hi": "पेशीय बल", "en": "Muscular force"},
+            {"hi": "घर्षण बल", "en": "Frictional force"},
+            {"hi": "चुम्बकीय बल", "en": "Magnetic force"},
+            {"hi": "गुरुत्व बल", "en": "Gravitational force"}
           ],
-          "answer": {"hi": "सरलरेखीय गति", "en": "Straight line motion"}
+          "answer": {"hi": "घर्षण बल", "en": "Frictional force"}
         },
         {
           "q": {
-            "hi": "मार्च पास्ट करते सैनिकों की गति किस प्रकार की गति है?",
-            "en": "What type of motion is the march past of soldiers?"
+            "hi": "घर्षण बल किस पर निर्भर करता है?",
+            "en": "Frictional force depends on what?"
           },
           "options": [
-            {"hi": "सरलरेखीय गति", "en": "Straight line motion"},
-            {"hi": "वर्तुल गति", "en": "Circular motion"},
-            {"hi": "आवर्ती गति", "en": "Periodic motion"},
-            {"hi": "अनियमित गति", "en": "Irregular motion"}
+            {"hi": "केवल वस्तु के रंग पर", "en": "Only on the color of the object"},
+            {"hi": "संपर्क के पृष्ठों की प्रकृति पर", "en": "On the nature of the surfaces in contact"},
+            {"hi": "वस्तु के आयतन पर", "en": "On the volume of the object"},
+            {"hi": "हवा के तापमान पर", "en": "On the air temperature"}
           ],
-          "answer": {"hi": "सरलरेखीय गति", "en": "Straight line motion"}
+          "answer": {"hi": "संपर्क के पृष्ठों की प्रकृति पर", "en": "On the nature of the surfaces in contact"}
         },
         {
           "q": {
-            "hi": "किसी वस्तु द्वारा एकांक समय में तय की गई दूरी को क्या कहते हैं?",
-            "en": "The distance moved by an object in a unit time is called its?"
+            "hi": "घर्षण का मुख्य कारण क्या है?",
+            "en": "What is the main cause of friction?"
           },
           "options": [
-            {"hi": "वेग", "en": "Velocity"},
-            {"hi": "त्वरण", "en": "Acceleration"},
-            {"hi": "चाल", "en": "Speed"},
-            {"hi": "विस्थापन", "en": "Displacement"}
+            {"hi": "पृष्ठों की चिकनाई", "en": "Smoothness of surfaces"},
+            {"hi": "पृष्ठों की अनियमितताओं का अंतःपाशन (Interlocking)", "en": "Interlocking of irregularities of surfaces"},
+            {"hi": "वस्तु का वेग", "en": "Velocity of the object"},
+            {"hi": "प्रकाश की उपस्थिति", "en": "Presence of light"}
           ],
-          "answer": {"hi": "चाल", "en": "Speed"}
+          "answer": {"hi": "पृष्ठों की अनियमितताओं का अंतःपाशन (Interlocking)", "en": "Interlocking of irregularities of surfaces"}
         },
         {
           "q": {
-            "hi": "चाल का मूल मात्रक क्या है?",
-            "en": "What is the basic unit of speed?"
+            "hi": "किसी रुकी हुई वस्तु को विराम से गति प्रारंभ करने की स्थिति में घर्षण पर पार पाने के लिए आवश्यक बल किसकी माप है?",
+            "en": "The force required to overcome friction at the instant an object starts moving from rest is a measure of?"
           },
           "options": [
-            {"hi": "km/h", "en": "km/h"},
-            {"hi": "m/min", "en": "m/min"},
-            {"hi": "m/s", "en": "m/s"},
-            {"hi": "km/s", "en": "km/s"}
+            {"hi": "सर्पी घर्षण", "en": "Sliding friction"},
+            {"hi": "स्थैतिक घर्षण (Static Friction)", "en": "Static friction"},
+            {"hi": "लोटनिक घर्षण", "en": "Rolling friction"},
+            {"hi": "तरल घर्षण", "en": "Fluid friction"}
           ],
-          "answer": {"hi": "m/s", "en": "m/s"}
+          "answer": {"hi": "स्थैतिक घर्षण (Static Friction)", "en": "Static friction"}
         },
         {
           "q": {
-            "hi": "झूले की गति किस प्रकार की गति का उदाहरण है?",
-            "en": "Motion of a swing is an example of which type of motion?"
+            "hi": "जब एक वस्तु दूसरी वस्तु के पृष्ठ पर सरकना प्रारंभ कर देती है, तो लगने वाला बल क्या कहलाता है?",
+            "en": "When one object starts sliding over the surface of another, what is the force called?"
           },
           "options": [
-            {"hi": "सरलरेखीय गति", "en": "Straight line motion"},
-            {"hi": "आवर्ती गति", "en": "Periodic motion"},
-            {"hi": "वर्तुल गति", "en": "Circular motion"},
-            {"hi": "घूर्णन गति", "en": "Rotational motion"}
+            {"hi": "स्थैतिक घर्षण", "en": "Static friction"},
+            {"hi": "सर्पी घर्षण (Sliding Friction)", "en": "Sliding friction"},
+            {"hi": "लोटनिक घर्षण", "en": "Rolling friction"},
+            {"hi": "वायु दाब", "en": "Air pressure"}
           ],
-          "answer": {"hi": "आवर्ती गति", "en": "Periodic motion"}
+          "answer": {"hi": "सर्पी घर्षण (Sliding Friction)", "en": "Sliding friction"}
         },
         {
           "q": {
-            "hi": "दौड़ते समय आपके हाथों की गति किस प्रकार की होती है?",
-            "en": "What is the type of motion of your hands while running?"
+            "hi": "सर्पी घर्षण का मान स्थैतिक घर्षण से कैसा होता है?",
+            "en": "How does sliding friction compare to static friction?"
           },
           "options": [
-            {"hi": "सरलरेखीय", "en": "Straight line"},
-            {"hi": "वर्तुल", "en": "Circular"},
-            {"hi": "आवर्ती", "en": "Periodic"},
-            {"hi": "मंद", "en": "Slow"}
+            {"hi": "अधिक", "en": "Higher"},
+            {"hi": "कम (Less)", "en": "Less"},
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "शून्य", "en": "Zero"}
           ],
-          "answer": {"hi": "आवर्ती", "en": "Periodic"}
+          "answer": {"hi": "कम (Less)", "en": "Less"}
         },
         {
           "q": {
-            "hi": "यदि किसी सरल रेखा के अनुदिश गति करने वाली वस्तु की चाल बदलती रहती है, तो उस गति को क्या कहते हैं?",
-            "en": "If the speed of an object moving along a straight line keeps changing, its motion is called?"
+            "hi": "घर्षण हानिकारक है क्योंकि यह:",
+            "en": "Friction is harmful because it:"
           },
           "options": [
-            {"hi": "एकसमान गति", "en": "Uniform motion"},
-            {"hi": "असमान गति", "en": "Non-uniform motion"},
-            {"hi": "स्थिर गति", "en": "Stationary motion"},
-            {"hi": "तीव्र गति", "en": "Fast motion"}
+            {"hi": "ऊर्जा बढ़ाता है", "en": "Increases energy"},
+            {"hi": "मशीनों के पुर्जों को घिसा देता है", "en": "Wears out machine parts"},
+            {"hi": "वस्तु को ठंडा रखता है", "en": "Keeps object cool"},
+            {"hi": "गति तेज़ करता है", "en": "Increases speed"}
           ],
-          "answer": {"hi": "असमान गति", "en": "Non-uniform motion"}
+          "answer": {"hi": "मशीनों के पुर्जों को घिसा देता है", "en": "Wears out machine parts"}
         },
         {
           "q": {
-            "hi": "पृथ्वी के चारों ओर चंद्रमा की गति कैसी है?",
-            "en": "What is the motion of the moon around the earth?"
+            "hi": "घर्षण से क्या उत्पन्न होती है?",
+            "en": "What is produced by friction?"
           },
           "options": [
-            {"hi": "सरलरेखीय", "en": "Straight line"},
-            {"hi": "वर्तुल", "en": "Circular"},
-            {"hi": "दोलन", "en": "Oscillatory"},
-            {"hi": "अनियमित", "en": "Irregular"}
+            {"hi": "ऊष्मा (Heat)", "en": "Heat"},
+            {"hi": "ठंडक", "en": "Coldness"},
+            {"hi": "पानी", "en": "Water"},
+            {"hi": "गैस", "en": "Gas"}
           ],
-          "answer": {"hi": "वर्तुल", "en": "Circular"}
+          "answer": {"hi": "ऊष्मा (Heat)", "en": "Heat"}
         },
         {
           "q": {
-            "hi": "चाल ज्ञात करने का सही सूत्र क्या है?",
-            "en": "What is the correct formula to find speed?"
+            "hi": "जूतों की तलियाँ और टायरों को खाँचेदार क्यों बनाया जाता है?",
+            "en": "Why are the soles of shoes and tires treaded?"
           },
           "options": [
-            {"hi": "कुल दूरी / कुल समय", "en": "Total distance / Total time"},
-            {"hi": "दूरी × समय", "en": "Distance × Time"},
-            {"hi": "समय / दूरी", "en": "Time / Distance"},
-            {"hi": "दूरी + समय", "en": "Distance + Time"}
+            {"hi": "डिज़ाइन के लिए", "en": "For design"},
+            {"hi": "वजन कम करने के लिए", "en": "To reduce weight"},
+            {"hi": "पकड़ (घर्षण) बढ़ाने के लिए", "en": "To increase grip (friction)"},
+            {"hi": "सस्ता बनाने के लिए", "en": "To make it cheap"}
           ],
-          "answer": {"hi": "कुल दूरी / कुल समय", "en": "Total distance / Total time"}
+          "answer": {"hi": "पकड़ (घर्षण) बढ़ाने के लिए", "en": "To increase grip (friction)"}
         },
         {
           "q": {
-            "hi": "एकसमान चाल से गति करने वाली वस्तु का दूरी-समय ग्राफ़ कैसा होता है?",
-            "en": "What is the distance-time graph for an object moving with constant speed?"
+            "hi": "मशीनों में घर्षण कम करने के लिए किन पदार्थों का उपयोग किया जाता है?",
+            "en": "Which substances are used to reduce friction in machines?"
           },
           "options": [
-            {"hi": "वक्र रेखा", "en": "Curved line"},
-            {"hi": "सरल रेखा", "en": "Straight line"},
-            {"hi": "वृत्ताकार", "en": "Circular"},
-            {"hi": "बिंदुवत", "en": "Pointed"}
+            {"hi": "रेत", "en": "Sand"},
+            {"hi": "स्नेहक (Lubricants)", "en": "Lubricants"},
+            {"hi": "मिट्टी", "en": "Soil"},
+            {"hi": "पानी", "en": "Water"}
           ],
-          "answer": {"hi": "सरल रेखा", "en": "Straight line"}
+          "answer": {"hi": "स्नेहक (Lubricants)", "en": "Lubricants"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "समय मापने की सबसे सामान्य युक्ति कौन-सी है?",
-            "en": "What is the most common device for measuring time?"
+            "hi": "कैरम बोर्ड पर पाउडर छिड़कने से क्या होता है?",
+            "en": "What happens when powder is sprinkled on a carrom board?"
           },
           "options": [
-            {"hi": "धूपघड़ी", "en": "Sundial"},
-            {"hi": "रेतघड़ी", "en": "Sand clock"},
-            {"hi": "घड़ियाँ", "en": "Clocks"},
-            {"hi": "जलघड़ी", "en": "Water clock"}
+            {"hi": "घर्षण बढ़ जाता है", "en": "Friction increases"},
+            {"hi": "घर्षण कम हो जाता है", "en": "Friction reduces"},
+            {"hi": "बोर्ड भारी हो जाता है", "en": "Board becomes heavy"},
+            {"hi": "गोटियाँ चिपक जाती हैं", "en": "Coins stick"}
           ],
-          "answer": {"hi": "घड़ियाँ", "en": "Clocks"}
+          "answer": {"hi": "घर्षण कम हो जाता है", "en": "Friction reduces"}
         },
         {
           "q": {
-            "hi": "घड़ियों की कार्यविधि किस पर आधारित होती है?",
-            "en": "The working of clocks is based on?"
+            "hi": "जब एक वस्तु दूसरी वस्तु पर लोटन (Roll) करती है, तो उसे क्या कहते हैं?",
+            "en": "When an object rolls over the surface of another, what is it called?"
           },
           "options": [
-            {"hi": "सरल गति", "en": "Simple motion"},
-            {"hi": "आवर्ती गति", "en": "Periodic motion"},
-            {"hi": "वर्तुल गति", "en": "Circular motion"},
-            {"hi": "तीव्र गति", "en": "Fast motion"}
+            {"hi": "सर्पी घर्षण", "en": "Sliding friction"},
+            {"hi": "स्थैतिक घर्षण", "en": "Static friction"},
+            {"hi": "लोटनिक घर्षण (Rolling Friction)", "en": "Rolling friction"},
+            {"hi": "वायु प्रतिरोध", "en": "Air resistance"}
           ],
-          "answer": {"hi": "आवर्ती गति", "en": "Periodic motion"}
+          "answer": {"hi": "लोटनिक घर्षण (Rolling Friction)", "en": "Rolling friction"}
         },
         {
           "q": {
-            "hi": "आवर्ती गति का एक चिरपरिचित उदाहरण क्या है?",
-            "en": "What is a well-known example of periodic motion?"
+            "hi": "लोटनिक घर्षण का मान सर्पी घर्षण से कैसा होता है?",
+            "en": "How does rolling friction compare to sliding friction?"
           },
           "options": [
-            {"hi": "चलती कार", "en": "Moving car"},
-            {"hi": "सरल लोलक", "en": "Simple pendulum"},
-            {"hi": "उड़ता पक्षी", "en": "Flying bird"},
-            {"hi": "गिरता पत्थर", "en": "Falling stone"}
+            {"hi": "अधिक", "en": "Higher"},
+            {"hi": "बहुत कम (Very less)", "en": "Very less"},
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "असीमित", "en": "Infinite"}
           ],
-          "answer": {"hi": "सरल लोलक", "en": "Simple pendulum"}
+          "answer": {"hi": "बहुत कम (Very less)", "en": "Very less"}
         },
         {
           "q": {
-            "hi": "लोलक के धातु के गोले को क्या कहते हैं?",
-            "en": "What is the metallic ball of the pendulum called?"
+            "hi": "मशीनों के धुरों में बॉल बेयरिंग का उपयोग क्यों किया जाता है?",
+            "en": "Why are ball bearings used in the axles of machines?"
           },
           "options": [
-            {"hi": "पिंड", "en": "Object"},
-            {"hi": "गोलक", "en": "Bob"},
+            {"hi": "चमक बढ़ाने के लिए", "en": "To increase shine"},
+            {"hi": "सर्पी घर्षण को लोटनिक घर्षण में बदलने के लिए", "en": "To replace sliding friction with rolling friction"},
+            {"hi": "मशीन का वजन बढ़ाने के लिए", "en": "To increase machine weight"},
+            {"hi": "बिजली बचाने के लिए", "en": "To save electricity"}
+          ],
+          "answer": {"hi": "सर्पी घर्षण को लोटनिक घर्षण में बदलने के लिए", "en": "To replace sliding friction with rolling friction"}
+        },
+        {
+          "q": {
+            "hi": "तरलों (गैसों और द्रवों) द्वारा लगाए गए घर्षण बल को क्या कहते हैं?",
+            "en": "What is the frictional force exerted by fluids (gases and liquids) called?"
+          },
+          "options": [
+            {"hi": "कर्षण (Drag)", "en": "Drag"},
+            {"hi": "धक्का", "en": "Push"},
             {"hi": "भार", "en": "Weight"},
-            {"hi": "केंद्र", "en": "Center"}
+            {"hi": "स्थैतिक", "en": "Static"}
           ],
-          "answer": {"hi": "गोलक", "en": "Bob"}
+          "answer": {"hi": "कर्षण (Drag)", "en": "Drag"}
         },
         {
           "q": {
-            "hi": "लोलक द्वारा एक दोलन पूरा करने में लिया गया समय क्या कहलाता है?",
-            "en": "The time taken by the pendulum to complete one oscillation is called?"
+            "hi": "तरल घर्षण किस पर निर्भर करता है?",
+            "en": "Fluid friction depends on what?"
           },
           "options": [
-            {"hi": "समय अंतराल", "en": "Time interval"},
-            {"hi": "आवर्तकाल", "en": "Time period"},
-            {"hi": "एक सेकंड", "en": "One second"},
-            {"hi": "मध्य स्थिति", "en": "Mean position"}
+            {"hi": "वस्तु की आकृति पर", "en": "On the shape of the object"},
+            {"hi": "तरल की प्रकृति पर", "en": "On the nature of the fluid"},
+            {"hi": "वस्तु की चाल पर", "en": "On the speed of the object"},
+            {"hi": "उपरोक्त सभी", "en": "All of the above"}
           ],
-          "answer": {"hi": "आवर्तकाल", "en": "Time period"}
+          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
         },
         {
           "q": {
-            "hi": "समय का मूल मात्रक क्या है?",
-            "en": "What is the basic unit of time?"
+            "hi": "हवाई जहाज़ों की आकृति पक्षियों के समान क्यों बनाई जाती है?",
+            "en": "Why is the shape of airplanes made similar to birds?"
           },
           "options": [
-            {"hi": "मिनट", "en": "Minute"},
-            {"hi": "घंटा", "en": "Hour"},
-            {"hi": "सेकंड", "en": "Second"},
-            {"hi": "दिन", "en": "Day"}
+            {"hi": "सुंदर दिखने के लिए", "en": "To look beautiful"},
+            {"hi": "वायु के तरल घर्षण (कर्षण) को कम करने के लिए", "en": "To reduce the fluid friction (drag) of air"},
+            {"hi": "पक्षी उड़ने से डराने के लिए", "en": "To scare birds away"},
+            {"hi": "भारी बनाने के लिए", "en": "To make it heavy"}
           ],
-          "answer": {"hi": "सेकंड", "en": "Second"}
+          "answer": {"hi": "वायु के तरल घर्षण (कर्षण) को कम करने के लिए", "en": "To reduce the fluid friction (drag) of air"}
         },
         {
           "q": {
-            "hi": "प्राचीन काल में जंतर-मंतर, दिल्ली में समय मापने के लिए क्या उपयोग किया जाता था?",
-            "en": "What was used to measure time at Jantar Mantar, Delhi in ancient times?"
+            "hi": "चिकने पृष्ठ पर चलना क्यों कठिन होता है?",
+            "en": "Why is it difficult to walk on a smooth surface?"
           },
           "options": [
-            {"hi": "रेतघड़ी", "en": "Sand clock"},
-            {"hi": "जलघड़ी", "en": "Water clock"},
-            {"hi": "धूपघड़ी", "en": "Sundial"},
-            {"hi": "दीवार घड़ी", "en": "Wall clock"}
+            {"hi": "घर्षण बहुत अधिक होता है", "en": "Friction is very high"},
+            {"hi": "घर्षण बहुत कम होता है", "en": "Friction is very low"},
+            {"hi": "हवा का दबाव अधिक होता है", "en": "Air pressure is high"},
+            {"hi": "सतह गर्म होती है", "en": "Surface is hot"}
           ],
-          "answer": {"hi": "धूपघड़ी", "en": "Sundial"}
+          "answer": {"hi": "घर्षण बहुत कम होता है", "en": "Friction is very low"}
         },
         {
           "q": {
-            "hi": "वाहनों द्वारा तय की गई दूरी मापने वाले यंत्र को क्या कहते हैं?",
-            "en": "The instrument that measures distance moved by a vehicle is called?"
+            "hi": "घर्षण को कम करने वाले पदार्थों को क्या कहते हैं?",
+            "en": "What are the substances that reduce friction called?"
           },
           "options": [
-            {"hi": "स्पीडोमीटर", "en": "Speedometer"},
-            {"hi": "ओडोमीटर (पथमापी)", "en": "Odometer"},
-            {"hi": "थर्मामीटर", "en": "Thermometer"},
-            {"hi": "बैरोमीटर", "en": "Barometer"}
+            {"hi": "घर्षक", "en": "Abrasives"},
+            {"hi": "स्नेहक (Lubricants)", "en": "Lubricants"},
+            {"hi": "ईंधन", "en": "Fuel"},
+            {"hi": "चालक", "en": "Conductor"}
           ],
-          "answer": {"hi": "ओडोमीटर (पथमापी)", "en": "Odometer"}
+          "answer": {"hi": "स्नेहक (Lubricants)", "en": "Lubricants"}
         },
         {
           "q": {
-            "hi": "वाहनों की चाल सीधे मापने वाले यंत्र को क्या कहते हैं?",
-            "en": "Which instrument directly records the speed of a vehicle?"
+            "hi": "यदि हम घर्षण को शून्य कर दें, तो क्या होगा?",
+            "en": "What will happen if we make friction zero?"
           },
           "options": [
-            {"hi": "ओडोमीटर", "en": "Odometer"},
-            {"hi": "स्पीडोमीटर (चालमापी)", "en": "Speedometer"},
-            {"hi": "स्टॉपवॉच", "en": "Stopwatch"},
-            {"hi": "एनीमोमीटर", "en": "Anemometer"}
+            {"hi": "हम लिख नहीं पाएँगे", "en": "We won't be able to write"},
+            {"hi": "वाहन रुक नहीं पाएँगे", "en": "Vehicles won't be able to stop"},
+            {"hi": "कोई इमारत नहीं बन पाएगी", "en": "No building can be constructed"},
+            {"hi": "उपरोक्त सभी", "en": "All of the above"}
           ],
-          "answer": {"hi": "स्पीडोमीटर (चालमापी)", "en": "Speedometer"}
-        },
-        {
-          "q": {
-            "hi": "किसी वस्तु की चाल 36 km/h है, तो m/s में इसका मान क्या होगा?",
-            "en": "If an object's speed is 36 km/h, what is its value in m/s?"
-          },
-          "options": [
-            {"hi": "5 m/s", "en": "5 m/s"},
-            {"hi": "10 m/s", "en": "10 m/s"},
-            {"hi": "15 m/s", "en": "15 m/s"},
-            {"hi": "20 m/s", "en": "20 m/s"}
-          ],
-          "answer": {"hi": "10 m/s", "en": "10 m/s"}
+          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "दूरी-समय ग्राफ़ में X-अक्ष पर आमतौर पर किसे दर्शाया जाता है?",
-            "en": "What is usually shown on the X-axis in a distance-time graph?"
+            "hi": "स्प्रिंग तुला (Spring Balance) का उपयोग क्या मापने के लिए किया जाता है?",
+            "en": "What is a Spring Balance used to measure?"
           },
           "options": [
-            {"hi": "दूरी", "en": "Distance"},
-            {"hi": "समय", "en": "Time"},
-            {"hi": "चाल", "en": "Speed"},
-            {"hi": "त्वरण", "en": "Acceleration"}
+            {"hi": "तापमान", "en": "Temperature"},
+            {"hi": "किसी वस्तु पर लगने वाला बल", "en": "Force acting on an object"},
+            {"hi": "तरल की शुद्धता", "en": "Purity of fluid"},
+            {"hi": "वायु की गति", "en": "Air speed"}
           ],
-          "answer": {"hi": "समय", "en": "Time"}
+          "answer": {"hi": "किसी वस्तु पर लगने वाला बल", "en": "Force acting on an object"}
         },
         {
           "q": {
-            "hi": "जब कोई वस्तु नियत चाल से चलती है, तो दूरी और समय का अनुपात कैसा रहता है?",
-            "en": "When an object moves with constant speed, the ratio of distance and time remains?"
+            "hi": "माचिस की तीली को खुरदरी सतह पर रगड़ने से क्या उत्पन्न होता है?",
+            "en": "What is produced by rubbing a matchstick on a rough surface?"
           },
           "options": [
-            {"hi": "बदलता रहता है", "en": "Keep changing"},
-            {"hi": "शून्य", "en": "Zero"},
-            {"hi": "स्थिर (नियत)", "en": "Constant"},
-            {"hi": "अनंत", "en": "Infinite"}
+            {"hi": "पानी", "en": "Water"},
+            {"hi": "ऊष्मा के कारण आग", "en": "Fire due to heat"},
+            {"hi": "ठंडक", "en": "Coldness"},
+            {"hi": "चुम्बकत्व", "en": "Magnetism"}
           ],
-          "answer": {"hi": "स्थिर (नियत)", "en": "Constant"}
+          "answer": {"hi": "ऊष्मा के कारण आग", "en": "Fire due to heat"}
         },
         {
           "q": {
-            "hi": "एक माइक्रोसेकंड एक सेकंड का कौन-सा भाग होता है?",
-            "en": "A microsecond is what part of a second?"
+            "hi": "घर्षण बल हमेशा लगाए गए बल का क्या करता है?",
+            "en": "Frictional force always does what to the applied force?"
           },
           "options": [
-            {"hi": "दसवाँ भाग", "en": "Tenth part"},
-            {"hi": "हज़ारवाँ भाग", "en": "Thousandth part"},
-            {"hi": "दस लाखवाँ भाग", "en": "Millionth part"},
-            {"hi": "सौवाँ भाग", "en": "Hundredth part"}
+            {"hi": "सहयोग", "en": "Supports"},
+            {"hi": "विरोध (Opposes)", "en": "Opposes"},
+            {"hi": "गुणन", "en": "Multiplies"},
+            {"hi": "शून्य", "en": "Zeroes"}
           ],
-          "answer": {"hi": "दस लाखवाँ भाग", "en": "Millionth part"}
+          "answer": {"hi": "विरोध (Opposes)", "en": "Opposes"}
         },
         {
           "q": {
-            "hi": "आवृत्ति का मात्रक क्या है?",
-            "en": "What is the unit of frequency?"
+            "hi": "घर्षण किस पर निर्भर करता है?",
+            "en": "Friction depends on?"
           },
           "options": [
-            {"hi": "सेकंड", "en": "Second"},
-            {"hi": "मीटर", "en": "Meter"},
-            {"hi": "हर्ट्ज़ (Hz)", "en": "Hertz (Hz)"},
-            {"hi": "जूल", "en": "Joule"}
+            {"hi": "वस्तु के द्रव्यमान पर", "en": "Mass of the object"},
+            {"hi": "पृष्ठों के परस्पर दबाने के बल पर", "en": "The force with which surfaces press together"},
+            {"hi": "पृष्ठों की चिकनाहट पर", "en": "Smoothness of surfaces"},
+            {"hi": "उपरोक्त सभी", "en": "All of the above"}
           ],
-          "answer": {"hi": "हर्ट्ज़ (Hz)", "en": "Hertz (Hz)"}
+          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
         },
         {
           "q": {
-            "hi": "यदि कोई कार 40 km/h की चाल से 15 मिनट चलती है, तो वह कितनी दूरी तय करेगी?",
-            "en": "If a car travels at 40 km/h for 15 minutes, what distance will it cover?"
+            "hi": "कबड्डी के खिलाड़ी अपने हाथों पर मिट्टी क्यों रगड़ते हैं?",
+            "en": "Why do Kabaddi players rub soil on their hands?"
           },
           "options": [
-            {"hi": "10 km", "en": "10 km"},
-            {"hi": "20 km", "en": "20 km"},
-            {"hi": "30 km", "en": "30 km"},
-            {"hi": "40 km", "en": "40 km"}
+            {"hi": "चोट से बचने के लिए", "en": "To avoid injury"},
+            {"hi": "घर्षण बढ़ाकर बेहतर पकड़ बनाने के लिए", "en": "To increase friction for better grip"},
+            {"hi": "साफ दिखने के लिए", "en": "To look clean"},
+            {"hi": "परंपरा के कारण", "en": "Due to tradition"}
           ],
-          "answer": {"hi": "10 km", "en": "10 km"}
+          "answer": {"hi": "घर्षण बढ़ाकर बेहतर पकड़ बनाने के लिए", "en": "To increase friction for better grip"}
         },
         {
           "q": {
-            "hi": "खेलकूद में समय मापने के लिए किस विशेष घड़ी का उपयोग किया जाता है?",
-            "en": "Which special clock is used to measure time in sports?"
+            "hi": "मशीनों में तेल या ग्रीस का उपयोग करने का मुख्य उद्देश्य क्या है?",
+            "en": "What is the main purpose of using oil or grease in machines?"
           },
           "options": [
-            {"hi": "धूपघड़ी", "en": "Sundial"},
-            {"hi": "विराम घड़ी (स्टॉपवॉच)", "en": "Stopwatch"},
-            {"hi": "दीवार घड़ी", "en": "Wall clock"},
-            {"hi": "रेतघड़ी", "en": "Sand clock"}
+            {"hi": "मशीन की कीमत बढ़ाना", "en": "To increase machine price"},
+            {"hi": "घर्षण कम करना (Reduce friction)", "en": "To reduce friction"},
+            {"hi": "मशीन को रंगना", "en": "To color the machine"},
+            {"hi": "धुआँ रोकना", "en": "To stop smoke"}
           ],
-          "answer": {"hi": "विराम घड़ी (स्टॉपवॉच)", "en": "Stopwatch"}
+          "answer": {"hi": "घर्षण कम करना (Reduce friction)", "en": "To reduce friction"}
         },
         {
           "q": {
-            "hi": "दूरी ज्ञात करने का सूत्र क्या है?",
-            "en": "What is the formula to find distance?"
+            "hi": "पहियों के उपयोग से घर्षण पर क्या प्रभाव पड़ता है?",
+            "en": "What effect do wheels have on friction?"
           },
           "options": [
-            {"hi": "चाल × समय", "en": "Speed × Time"},
-            {"hi": "चाल / समय", "en": "Speed / Time"},
-            {"hi": "समय / चाल", "en": "Time / Speed"},
-            {"hi": "चाल + समय", "en": "Speed + Time"}
-          ],
-          "answer": {"hi": "चाल × समय", "en": "Speed × Time"}
-        },
-        {
-          "q": {
-            "hi": "लोलक की लंबाई बढ़ाने पर उसके आवर्तकाल पर क्या प्रभाव पड़ता है?",
-            "en": "What is the effect on the time period if the length of the pendulum is increased?"
-          },
-          "options": [
-            {"hi": "घटता है", "en": "Decreases"},
-            {"hi": "बढ़ता है", "en": "Increases"},
+            {"hi": "घर्षण बढ़ जाता है", "en": "Friction increases"},
+            {"hi": "घर्षण कम हो जाता है", "en": "Friction reduces"},
             {"hi": "कोई प्रभाव नहीं", "en": "No effect"},
-            {"hi": "शून्य हो जाता है", "en": "Becomes zero"}
+            {"hi": "घर्षण अनंत हो जाता है", "en": "Friction becomes infinite"}
           ],
-          "answer": {"hi": "बढ़ता है", "en": "Increases"}
+          "answer": {"hi": "घर्षण कम हो जाता है", "en": "Friction reduces"}
         },
         {
           "q": {
-            "hi": "इनमें से कौन-सा ग्राफ समय और दूरी के बीच संबंध को सबसे अच्छा दर्शाता है?",
-            "en": "Which of these graphs best represents the relationship between time and distance?"
+            "hi": "सूटकेस में 'रोलर' (Roller) क्यों लगाए जाते हैं?",
+            "en": "Why are rollers attached to suitcases?"
           },
           "options": [
-            {"hi": "स्तंभ ग्राफ", "en": "Bar graph"},
-            {"hi": "वृत्त आरेख", "en": "Pie chart"},
-            {"hi": "रेखा ग्राफ", "en": "Line graph"},
-            {"hi": "चित्र ग्राफ", "en": "Pictograph"}
+            {"hi": "सुंदरता के लिए", "en": "For beauty"},
+            {"hi": "घर्षण कम करके आसानी से खींचने के लिए", "en": "To reduce friction for easy pulling"},
+            {"hi": "वजन बढ़ाने के लिए", "en": "To increase weight"},
+            {"hi": "पकड़ने के लिए", "en": "For holding"}
           ],
-          "answer": {"hi": "रेखा ग्राफ", "en": "Line graph"}
+          "answer": {"hi": "घर्षण कम करके आसानी से खींचने के लिए", "en": "To reduce friction for easy pulling"}
         },
         {
           "q": {
-            "hi": "समय मापने की सबसे छोटी प्राकृतिक इकाई क्या मानी जाती है?",
-            "en": "What is considered the smallest natural unit of measuring time?"
+            "hi": "अंतरिक्ष यान जब वायुमण्डल में प्रवेश करते हैं, तो वे क्यों जलने लगते हैं?",
+            "en": "Why do spacecraft start burning when entering the atmosphere?"
           },
           "options": [
-            {"hi": "घंटा", "en": "Hour"},
-            {"hi": "मिनट", "en": "Minute"},
-            {"hi": "एक सूर्योदय से अगले सूर्योदय का समय", "en": "Time from one sunrise to next"},
-            {"hi": "एक पूर्ण चंद्रमा से अगले तक", "en": "One full moon to next"}
+            {"hi": "सूरज की गर्मी से", "en": "Due to sun's heat"},
+            {"hi": "वायु के साथ तीव्र घर्षण के कारण", "en": "Due to intense friction with air"},
+            {"hi": "इंजन फटने से", "en": "Due to engine blast"},
+            {"hi": "बिजली गिरने से", "en": "Due to lightning"}
           ],
-          "answer": {"hi": "एक सूर्योदय से अगले सूर्योदय का समय", "en": "Time from one sunrise to next"}
+          "answer": {"hi": "वायु के साथ तीव्र घर्षण के कारण", "en": "Due to intense friction with air"}
+        },
+        {
+          "q": {
+            "hi": "हथेली को आपस में रगड़ने पर वे गर्म क्यों हो जाती हैं?",
+            "en": "Why do palms become warm when rubbed together?"
+          },
+          "options": [
+            {"hi": "हवा के कारण", "en": "Due to air"},
+            {"hi": "घर्षण द्वारा ऊष्मा उत्पन्न होने के कारण", "en": "Due to heat generated by friction"},
+            {"hi": "खून के दौरे के कारण", "en": "Due to blood circulation"},
+            {"hi": "पसीने के कारण", "en": "Due to sweat"}
+          ],
+          "answer": {"hi": "घर्षण द्वारा ऊष्मा उत्पन्न होने के कारण", "en": "Due to heat generated by friction"}
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "किसी वाहन की चाल 72 km/h है। 10 सेकंड में वह कितनी दूरी तय करेगा?",
-            "en": "A vehicle's speed is 72 km/h. How much distance will it cover in 10 seconds?"
+            "hi": "किस प्रकार की सतह पर घर्षण सबसे कम होगा?",
+            "en": "On which type of surface will friction be minimum?"
           },
           "options": [
-            {"hi": "72 m", "en": "72 m"},
-            {"hi": "200 m", "en": "200 m"},
-            {"hi": "720 m", "en": "720 m"},
-            {"hi": "20 m", "en": "20 m"}
+            {"hi": "रेतीली सतह", "en": "Sandy surface"},
+            {"hi": "खुरदरी सतह", "en": "Rough surface"},
+            {"hi": "काँच की चिकनी सतह", "en": "Smooth glass surface"},
+            {"hi": "मिट्टी की सतह", "en": "Muddy surface"}
           ],
-          "answer": {"hi": "200 m", "en": "200 m"}
+          "answer": {"hi": "काँच की चिकनी सतह", "en": "Smooth glass surface"}
         },
         {
           "q": {
-            "hi": "समय अंतराल मापने के लिए क्वार्ट्ज़ घड़ी में किसका उपयोग किया जाता है?",
-            "en": "What is used in quartz clocks to measure time intervals?"
+            "hi": "घर्षण को कम करने के लिए मशीनों के कुछ हिस्सों में क्या बनाया जाता है?",
+            "en": "What is created in some parts of machines to reduce friction?"
           },
           "options": [
-            {"hi": "पारा", "en": "Mercury"},
-            {"hi": "क्वार्ट्ज़ क्रिस्टल", "en": "Quartz crystal"},
-            {"hi": "लोलक", "en": "Pendulum"},
-            {"hi": "स्प्रिंग", "en": "Spring"}
+            {"hi": "हवा की परत", "en": "Air cushion"},
+            {"hi": "पानी की पाइप", "en": "Water pipe"},
+            {"hi": "लोहे की छड़", "en": "Iron rod"},
+            {"hi": "पत्थर की कोटिंग", "en": "Stone coating"}
           ],
-          "answer": {"hi": "क्वार्ट्ज़ क्रिस्टल", "en": "Quartz crystal"}
+          "answer": {"hi": "हवा की परत", "en": "Air cushion"}
         },
         {
           "q": {
-            "hi": "पृथ्वी के सूर्य के चारों ओर एक परिक्रमा पूरी करने का समय क्या कहलाता है?",
-            "en": "The time taken by the earth to complete one revolution around the sun is called?"
+            "hi": "घर्षण के बारे में कौन सा कथन सत्य है?",
+            "en": "Which statement about friction is true?"
           },
           "options": [
-            {"hi": "एक मास", "en": "A month"},
-            {"hi": "एक वर्ष", "en": "A year"},
-            {"hi": "एक दिन", "en": "A day"},
-            {"hi": "एक शताब्दी", "en": "A century"}
+            {"hi": "यह हमेशा लाभदायक है", "en": "It is always beneficial"},
+            {"hi": "यह हमेशा हानिकारक है", "en": "It is always harmful"},
+            {"hi": "यह लाभदायक और हानिकारक दोनों हो सकता है", "en": "It can be both beneficial and harmful"},
+            {"hi": "यह शून्य हो सकता है", "en": "It can be zero"}
           ],
-          "answer": {"hi": "एक वर्ष", "en": "A year"}
+          "answer": {"hi": "यह लाभदायक और हानिकारक दोनों हो सकता है", "en": "It can be both beneficial and harmful"}
         },
         {
           "q": {
-            "hi": "एक नैनोसेकंड एक सेकंड का कौन-सा भाग है?",
-            "en": "A nanosecond is what part of a second?"
+            "hi": "यदि फर्श पर तेल फैल जाए, तो उस पर चलना क्यों मुश्किल है?",
+            "en": "If oil spills on the floor, why is it difficult to walk on it?"
           },
           "options": [
-            {"hi": "अरबवाँ भाग", "en": "One billionth part"},
-            {"hi": "करोड़वाँ भाग", "en": "Ten millionth part"},
-            {"hi": "लाखवाँ भाग", "en": "One hundred thousandth part"},
-            {"hi": "हज़ारवाँ भाग", "en": "One thousandth part"}
+            {"hi": "घर्षण बढ़ जाता है", "en": "Friction increases"},
+            {"hi": "घर्षण कम हो जाता है", "en": "Friction reduces"},
+            {"hi": "तेल भारी होता है", "en": "Oil is heavy"},
+            {"hi": "दबाव कम हो जाता है", "en": "Pressure reduces"}
           ],
-          "answer": {"hi": "अरबवाँ भाग", "en": "One billionth part"}
+          "answer": {"hi": "घर्षण कम हो जाता है", "en": "Friction reduces"}
         },
         {
           "q": {
-            "hi": "दूरी-समय ग्राफ़ में यदि रेखा समय-अक्ष के समांतर है, तो वस्तु की गति कैसी है?",
-            "en": "If the line in a distance-time graph is parallel to the time axis, what is the object's state?"
+            "hi": "ब्रेक पैड का उपयोग किसलिए किया जाता है?",
+            "en": "What are brake pads used for?"
           },
           "options": [
-            {"hi": "नियत चाल", "en": "Constant speed"},
-            {"hi": "विराम अवस्था (स्थिर)", "en": "At rest (Stationary)"},
-            {"hi": "असमान चाल", "en": "Non-uniform speed"},
-            {"hi": "तीव्र गति", "en": "Fast motion"}
+            {"hi": "घर्षण कम करने के लिए", "en": "To reduce friction"},
+            {"hi": "घर्षण बढ़ाने के लिए (To increase friction)", "en": "To increase friction"},
+            {"hi": "पहिया सजाने के लिए", "en": "To decorate wheel"},
+            {"hi": "आवाज़ करने के लिए", "en": "To make sound"}
           ],
-          "answer": {"hi": "विराम अवस्था (स्थिर)", "en": "At rest (Stationary)"}
+          "answer": {"hi": "घर्षण बढ़ाने के लिए (To increase friction)", "en": "To increase friction"}
         },
         {
           "q": {
-            "hi": "समय ज्ञात करने का सही सूत्र क्या है?",
-            "en": "What is the correct formula to find time?"
+            "hi": "घर्षण का मान शून्य क्यों नहीं किया जा सकता?",
+            "en": "Why can't friction be made zero?"
           },
           "options": [
-            {"hi": "दूरी / चाल", "en": "Distance / Speed"},
-            {"hi": "चाल / दूरी", "en": "Speed / Distance"},
-            {"hi": "दूरी × चाल", "en": "Distance × Speed"},
-            {"hi": "दूरी + चाल", "en": "Distance + Speed"}
+            {"hi": "क्योंकि कोई भी सतह पूर्णतः चिकनी नहीं होती", "en": "Because no surface is perfectly smooth"},
+            {"hi": "क्योंकि मशीनों में तेल महँगा है", "en": "Because oil is expensive in machines"},
+            {"hi": "क्योंकि पृथ्वी घूम रही है", "en": "Because Earth is rotating"},
+            {"hi": "पता नहीं", "en": "Don't know"}
           ],
-          "answer": {"hi": "दूरी / चाल", "en": "Distance / Speed"}
+          "answer": {"hi": "क्योंकि कोई भी सतह पूर्णतः चिकनी नहीं होती", "en": "Because no surface is perfectly smooth"}
         },
         {
           "q": {
-            "hi": "10 वर्ष की अवधि को क्या कहते हैं?",
-            "en": "What is a period of 10 years called?"
+            "hi": "मशीनों में गतिशील पुर्जों के बीच 'स्नेहक' लगाने से क्या होता है?",
+            "en": "What happens by applying lubricants between moving parts of machines?"
           },
           "options": [
-            {"hi": "शताब्दी", "en": "Century"},
-            {"hi": "सहस्राब्दी", "en": "Millennium"},
-            {"hi": "दशक", "en": "Decade"},
-            {"hi": "युग", "en": "Era"}
+            {"hi": "पुर्जे आपस में टकराते हैं", "en": "Parts collide"},
+            {"hi": "एक पतली परत बन जाती है जिससे अनियमितताएँ आपस में नहीं उलझतीं", "en": "A thin layer is formed preventing interlocking of irregularities"},
+            {"hi": "मशीन रुक जाती है", "en": "Machine stops"},
+            {"hi": "तापमान बढ़ जाता है", "en": "Temperature increases"}
           ],
-          "answer": {"hi": "दशक", "en": "Decade"}
+          "answer": {"hi": "एक पतली परत बन जाती है जिससे अनियमितताएँ आपस में नहीं उलझतीं", "en": "A thin layer is formed preventing interlocking of irregularities"}
         },
         {
           "q": {
-            "hi": "संसार की सर्वाधिक यथार्थ घड़ी किस देश में विकसित की गई है?",
-            "en": "In which country was the world's most accurate clock developed?"
+            "hi": "घर्षण बल का मान 'स्थैतिक' से 'सर्पी' में बदलते समय क्या होता है?",
+            "en": "What happens when frictional value changes from static to sliding?"
           },
           "options": [
-            {"hi": "भारत", "en": "India"},
-            {"hi": "चीन", "en": "China"},
-            {"hi": "संयुक्त राज्य अमेरिका", "en": "United States of America"},
-            {"hi": "रूस", "en": "Russia"}
+            {"hi": "घटता है", "en": "Decreases"},
+            {"hi": "बढ़ता है", "en": "Increases"},
+            {"hi": "समान रहता है", "en": "Remains same"},
+            {"hi": "दो गुना होता है", "en": "Doubles"}
           ],
-          "answer": {"hi": "संयुक्त राज्य अमेरिका", "en": "United States of America"}
+          "answer": {"hi": "घटता है", "en": "Decreases"}
         },
         {
           "q": {
-            "hi": "इनमें से कौन-सी आवर्ती गति नहीं है?",
-            "en": "Which of the following is not a periodic motion?"
+            "hi": "लोटनिक घर्षण सर्पी घर्षण से कैसा होता है?",
+            "en": "Rolling friction is how compared to sliding friction?"
           },
           "options": [
-            {"hi": "घड़ी की सुई की गति", "en": "Motion of clock hand"},
-            {"hi": "सीधी सड़क पर दौड़ती कार", "en": "Car running on straight road"},
-            {"hi": "झूले की गति", "en": "Motion of swing"},
-            {"hi": "सर्कस में घूमता पहिया", "en": "Spinning wheel in circus"}
+            {"hi": "बड़ा", "en": "Larger"},
+            {"hi": "छोटा (Smaler/Less)", "en": "Smaller/Less"},
+            {"hi": "समान", "en": "Equal"},
+            {"hi": "शून्य", "en": "Zero"}
           ],
-          "answer": {"hi": "सीधी सड़क पर दौड़ती कार", "en": "Car running on straight road"}
+          "answer": {"hi": "छोटा (Smaler/Less)", "en": "Smaller/Less"}
         },
         {
           "q": {
-            "hi": "दूरी-समय ग्राफ़ की ढाल (slope) क्या बताती है?",
-            "en": "What does the slope of a distance-time graph represent?"
+            "hi": "द्रव में गति करने वाली वस्तुओं को 'विशेष आकृति' देने का क्या लाभ है?",
+            "en": "What is the benefit of giving special shapes to objects moving in fluids?"
           },
           "options": [
-            {"hi": "कुल समय", "en": "Total time"},
-            {"hi": "कुल दूरी", "en": "Total distance"},
-            {"hi": "चाल", "en": "Speed"},
-            {"hi": "विस्थापन", "en": "Displacement"}
+            {"hi": "ऊर्जा की बचत", "en": "Saving energy"},
+            {"hi": "घर्षण कम करना", "en": "Reducing friction"},
+            {"hi": "तीव्र गति", "en": "High speed"},
+            {"hi": "उपरोक्त सभी", "en": "All of the above"}
           ],
-          "answer": {"hi": "चाल", "en": "Speed"}
+          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "एक शताब्दी में कितने वर्ष होते हैं?",
-            "en": "How many years are there in a century?"
+            "hi": "घर्षण से मशीनों की 'दक्षता' पर क्या प्रभाव पड़ता है?",
+            "en": "How does friction affect the 'efficiency' of machines?"
           },
           "options": [
-            {"hi": "10 वर्ष", "en": "10 years"},
-            {"hi": "50 वर्ष", "en": "50 years"},
-            {"hi": "100 वर्ष", "en": "100 years"},
-            {"hi": "1000 वर्ष", "en": "1000 years"}
+            {"hi": "दक्षता बढ़ती है", "en": "Efficiency increases"},
+            {"hi": "दक्षता कम होती है", "en": "Efficiency decreases"},
+            {"hi": "दक्षता शून्य होती है", "en": "Efficiency becomes zero"},
+            {"hi": "कोई प्रभाव नहीं", "en": "No effect"}
           ],
-          "answer": {"hi": "100 वर्ष", "en": "100 years"}
+          "answer": {"hi": "दक्षता कम होती है", "en": "Efficiency decreases"}
         },
         {
           "q": {
-            "hi": "भारत में समय अनुरक्षण सेवा किस संस्था द्वारा प्रदान की जाती है?",
-            "en": "Time maintenance service in India is provided by which institution?"
+            "hi": "छत के पंखों में कौन सा पुर्जा घर्षण कम करने के लिए लगाया जाता है?",
+            "en": "Which part is used in ceiling fans to reduce friction?"
           },
           "options": [
-            {"hi": "ISRO", "en": "ISRO"},
-            {"hi": "DRDO", "en": "DRDO"},
-            {"hi": "राष्ट्रीय भौतिकी प्रयोगशाला (NPL)", "en": "National Physical Laboratory (NPL)"},
-            {"hi": "IIT Delhi", "en": "IIT Delhi"}
+            {"hi": "ब्रेक", "en": "Brake"},
+            {"hi": "बॉल बेयरिंग (Ball bearing)", "en": "Ball bearing"},
+            {"hi": "धागा", "en": "Thread"},
+            {"hi": "कागज", "en": "Paper"}
           ],
-          "answer": {"hi": "राष्ट्रीय भौतिकी प्रयोगशाला (NPL)", "en": "National Physical Laboratory (NPL)"}
+          "answer": {"hi": "बॉल बेयरिंग (Ball bearing)", "en": "Ball bearing"}
         },
         {
           "q": {
-            "hi": "यदि ग्राफ़ में रेखा X-अक्ष के समांतर है, तो चाल का मान क्या होगा?",
-            "en": "If the line in a graph is parallel to the X-axis (time), what is the speed?"
+            "hi": "क्या वायु घर्षण बल लगाती है?",
+            "en": "Does air exert frictional force?"
           },
           "options": [
-            {"hi": "स्थिर", "en": "Constant"},
-            {"hi": "अनंत", "en": "Infinite"},
-            {"hi": "शून्य", "en": "Zero"},
-            {"hi": "बहुत अधिक", "en": "Very high"}
-          ],
-          "answer": {"hi": "शून्य", "en": "Zero"}
-        },
-        {
-          "q": {
-            "hi": "एक लोलक 20 दोलन पूरे करने में 32 सेकंड लेता है। इसका आवर्तकाल क्या है?",
-            "en": "A pendulum takes 32 seconds to complete 20 oscillations. What is its time period?"
-          },
-          "options": [
-            {"hi": "1.6 s", "en": "1.6 s"},
-            {"hi": "0.625 s", "en": "0.625 s"},
-            {"hi": "2.0 s", "en": "2.0 s"},
-            {"hi": "3.2 s", "en": "3.2 s"}
-          ],
-          "answer": {"hi": "1.6 s", "en": "1.6 s"}
-        },
-        {
-          "q": {
-            "hi": "रेतघड़ी और जलघड़ी किस काल की यंत्र हैं?",
-            "en": "Sand clock and water clock belong to which era?"
-          },
-          "options": [
-            {"hi": "आधुनिक काल", "en": "Modern era"},
-            {"hi": "प्राचीन काल", "en": "Ancient era"},
-            {"hi": "भविष्य", "en": "Future"},
-            {"hi": "मध्यकालीन", "en": "Medieval"}
-          ],
-          "answer": {"hi": "प्राचीन काल", "en": "Ancient era"}
-        },
-        {
-          "q": {
-            "hi": "इनमें से कौन-सा समय का मात्रक नहीं है?",
-            "en": "Which of the following is not a unit of time?"
-          },
-          "options": [
-            {"hi": "सेकंड", "en": "Second"},
-            {"hi": "प्रकाश वर्ष", "en": "Light year"},
-            {"hi": "घंटा", "en": "Hour"},
-            {"hi": "दिन", "en": "Day"}
-          ],
-          "answer": {"hi": "प्रकाश वर्ष", "en": "Light year"}
-        },
-        {
-          "q": {
-            "hi": "चालमापी (Speedometer) चाल को किस मात्रक में मापता है?",
-            "en": "In which unit does a Speedometer measure speed?"
-          },
-          "options": [
-            {"hi": "m/s", "en": "m/s"},
-            {"hi": "km/h", "en": "km/h"},
-            {"hi": "m/min", "en": "m/min"},
-            {"hi": "km/min", "en": "km/min"}
-          ],
-          "answer": {"hi": "km/h", "en": "km/h"}
-        },
-        {
-          "q": {
-            "hi": "एक लोलक की मध्य स्थिति क्या कहलाती है?",
-            "en": "What is the middle position of a pendulum called?"
-          },
-          "options": [
-            {"hi": "चरम स्थिति", "en": "Extreme position"},
-            {"hi": "विराम स्थिति", "en": "Rest position"},
-            {"hi": "माध्य (औसत) स्थिति", "en": "Mean position"},
-            {"hi": "आधार", "en": "Base"}
-          ],
-          "answer": {"hi": "माध्य (औसत) स्थिति", "en": "Mean position"}
-        },
-        {
-          "q": {
-            "hi": "किसी वस्तु की चाल 15 m/s है। 2 मिनट में वह कितनी दूरी तय करेगी?",
-            "en": "An object's speed is 15 m/s. How much distance will it cover in 2 minutes?"
-          },
-          "options": [
-            {"hi": "30 m", "en": "30 m"},
-            {"hi": "180 m", "en": "180 m"},
-            {"hi": "1800 m", "en": "1800 m"},
-            {"hi": "300 m", "en": "300 m"}
-          ],
-          "answer": {"hi": "1800 m", "en": "1800 m"}
-        },
-        {
-          "q": {
-            "hi": "क्या सरल लोलक का आवर्तकाल नियत रहता है?",
-            "en": "Does the time period of a simple pendulum remain constant?"
-          },
-          "options": [
-            {"hi": "हाँ, लगभग", "en": "Yes, nearly"},
             {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल रात में", "en": "Only at night"},
-            {"hi": "केवल अंतरिक्ष में", "en": "Only in space"}
+            {"hi": "हाँ, बहुत कम", "en": "Yes, very little"},
+            {"hi": "केवल बारिश में", "en": "Only in rain"},
+            {"hi": "हमेशा शून्य", "en": "Always zero"}
           ],
-          "answer": {"hi": "हाँ, लगभग", "en": "Yes, nearly"}
+          "answer": {"hi": "हाँ, बहुत कम", "en": "Yes, very little"}
+        },
+        {
+          "q": {
+            "hi": "जूते के तलवे घिस क्यों जाते हैं?",
+            "en": "Why do soles of shoes wear out?"
+          },
+          "options": [
+            {"hi": "पुराने होने से", "en": "Due to aging"},
+            {"hi": "घर्षण के कारण", "en": "Due to friction"},
+            {"hi": "गलत साइज के कारण", "en": "Due to wrong size"},
+            {"hi": "पानी के कारण", "en": "Due to water"}
+          ],
+          "answer": {"hi": "घर्षण के कारण", "en": "Due to friction"}
+        },
+        {
+          "q": {
+            "hi": "एक भारी बक्से को ढकेलने की तुलना में उसे रोल करना आसान क्यों है?",
+            "en": "Why is it easier to roll a heavy box than to push it?"
+          },
+          "options": [
+            {"hi": "लोटनिक घर्षण कम होता है", "en": "Rolling friction is less"},
+            {"hi": "सर्पी घर्षण कम होता है", "en": "Sliding friction is less"},
+            {"hi": "बक्सा हल्का हो जाता है", "en": "Box becomes light"},
+            {"hi": "हवा का दबाव कम होता है", "en": "Air pressure is less"}
+          ],
+          "answer": {"hi": "लोटनिक घर्षण कम होता है", "en": "Rolling friction is less"}
+        },
+        {
+          "q": {
+            "hi": "घर्षण बल वस्तुओं की गति का क्या करता है?",
+            "en": "Frictional force does what to the motion of objects?"
+          },
+          "options": [
+            {"hi": "तेज़", "en": "Fasten"},
+            {"hi": "विरोध (Opposes)", "en": "Opposes"},
+            {"hi": "कुछ नहीं", "en": "Nothing"},
+            {"hi": "बदलाव", "en": "Change"}
+          ],
+          "answer": {"hi": "विरोध (Opposes)", "en": "Opposes"}
+        },
+        {
+          "q": {
+            "hi": "पक्षी और मछलियाँ तरल में चलते समय अपनी ऊर्जा क्यों खो देते हैं?",
+            "en": "Why do birds and fishes lose energy while moving in fluid?"
+          },
+          "options": [
+            {"hi": "भूख के कारण", "en": "Due to hunger"},
+            {"hi": "घर्षण (कर्षण) को पार करने के कारण", "en": "Due to overcoming friction (drag)"},
+            {"hi": "ठंड के कारण", "en": "Due to cold"},
+            {"hi": "तेजी के कारण", "en": "Due to speed"}
+          ],
+          "answer": {"hi": "घर्षण (कर्षण) को पार करने के कारण", "en": "Due to overcoming friction (drag)"}
+        },
+        {
+          "q": {
+            "hi": "यदि सड़क और टायर के बीच घर्षण न हो, तो क्या होगा?",
+            "en": "What will happen if there is no friction between the road and tires?"
+          },
+          "options": [
+            {"hi": "वाहन कभी नहीं रुक पाएगा", "en": "Vehicle will never stop"},
+            {"hi": "वाहन कभी मुड़ नहीं पाएगा", "en": "Vehicle will never turn"},
+            {"hi": "वाहन गति प्रारंभ नहीं कर पाएगा", "en": "Vehicle will never start moving"},
+            {"hi": "उपरोक्त सभी", "en": "All of the above"}
+          ],
+          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
+        },
+        {
+          "q": {
+            "hi": "घर्षण को कम करने के लिए किस धातु के बॉल बेयरिंग का प्रयोग होता है?",
+            "en": "Which metal ball bearings are used to reduce friction?"
+          },
+          "options": [
+            {"hi": "सोने के", "en": "Gold"},
+            {"hi": "स्टील या लोहे के", "en": "Steel or Iron"},
+            {"hi": "ताँबे के", "en": "Copper"},
+            {"hi": "प्लास्टिक के", "en": "Plastic"}
+          ],
+          "answer": {"hi": "स्टील या लोहे के", "en": "Steel or Iron"}
+        },
+        {
+          "q": {
+            "hi": "किसी पृष्ठ को बहुत अधिक चिकना बनाने से घर्षण पर क्या प्रभाव पड़ता है?",
+            "en": "What is the effect of making a surface very smooth on friction?"
+          },
+          "options": [
+            {"hi": "शून्य हो जाता है", "en": "Becomes zero"},
+            {"hi": "बहुत कम हो जाता है", "en": "Becomes very low"},
+            {"hi": "बढ़ जाता है", "en": "Increases"},
+            {"hi": "स्थिर रहता है", "en": "Remains constant"}
+          ],
+          "answer": {"hi": "बहुत कम हो जाता है", "en": "Becomes very low"}
         }
       ]
     },
