@@ -25,6 +25,9 @@ const chapterKey = document.body.getAttribute('data-page');
 const correctSound = document.getElementById("correctSound");
 const wrongSound = document.getElementById("wrongSound");
 
+
+
+
 // 2. JSON डेटा लोड करना (बाकी कोड पहले जैसा ही रहेगा)
 fetch(fileName)
     .then(response => {
@@ -36,6 +39,12 @@ fetch(fileName)
 
     .then(data => {
         // यहाँ data[classKey] का उपयोग किया गया है ताकि class6, 7, 8 कुछ भी लोड हो सके
+        console.log("CHAPTER DATA:", data[classKey][chapterKey]);
+         console.log("CLASS:", classKey);
+         console.log("CLASS DATA:", data[classKey]);
+    console.log("CHAPTER:", chapterKey);
+    console.log("DATA:", data);
+
         if (data[classKey] && data[classKey][chapterKey]) {
             chapterData = data[classKey][chapterKey];
             const sections = Object.keys(chapterData);
@@ -93,9 +102,9 @@ window.checkAnswer = function(clickedIdx, btn) {
     const qData = currentQuestions[currentQIdx];
     
     // सुधार: .trim() का उपयोग करें ताकि एक्स्ट्रा स्पेस की वजह से मैच फेल न हो
-    const correctIdx = qData.options.findIndex(opt => 
-        opt.hi.trim() === qData.answer.hi.trim()
-    );
+   const correctIdx = qData.options.findIndex(opt => 
+  opt[currentLang].trim() === qData.answer[currentLang].trim()
+);
     
     const feedbackArea = document.getElementById("feedback-area");
     const allBtns = document.querySelectorAll(".option-btn");
