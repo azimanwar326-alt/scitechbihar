@@ -5564,1411 +5564,661 @@
       "section1": [
         {
           "q": {
-            "hi": "किसी वस्तु को बनाने के लिए उपयोग किए जाने वाले पदार्थ को क्या कहते हैं?",
-            "en": "What is the material used to make an object called?"
+            "hi": "भारत की सबसे प्राचीन सभ्यता को किस नाम से जाना जाता है?",
+            "en": "By what name is the most ancient civilization of India known?"
           },
           "options": [
-            {
-              "hi": "आकार",
-              "en": "size"
-            },
-            {
-              "hi": "रंग",
-              "en": "Colour"
-            },
-            {
-              "hi": "सामग्री",
-              "en": "Material"
-            },
-            {
-              "hi": "भार",
-              "en": "Burden"
-            }
+            {"hi": "वैदिक सभ्यता", "en": "Vedic Civilization"},
+            {"hi": "हड़प्पा या सिंधु-सरस्वती सभ्यता", "en": "Harappan or Indus-Sarasvati Civilization"},
+            {"hi": "मौर्य सभ्यता", "en": "Mauryan Civilization"},
+            {"hi": "मेसोपोटामिया", "en": "Mesopotamia"}
           ],
-          "answer": {
-            "hi": "सामग्री",
-            "en": "Material"
-          }
+          "answer": {"hi": "हड़प्पा या सिंधु-सरस्वती सभ्यता", "en": "Harappan or Indus-Sarasvati Civilization"}
         },
         {
           "q": {
-            "hi": "वस्तुओं को उनके गुणों के आधार पर समूहों में व्यवस्थित करने की विधि कहलाती है:",
-            "en": "The method of arranging objects into groups on the basis of their properties is called:"
+            "hi": "सभ्यता शब्द का प्रयोग सामान्यतः मानव समाज के किस चरण के लिए किया जाता है?",
+            "en": "For which stage of human society is the word 'civilization' generally used?"
           },
           "options": [
-            {
-              "hi": "एकत्रीकरण",
-              "en": "aggregation"
-            },
-            {
-              "hi": "वर्गीकरण",
-              "en": "Classification"
-            },
-            {
-              "hi": "संपीडन",
-              "en": "compression"
-            },
-            {
-              "hi": "विलेयता",
-              "en": "solubility"
-            }
+            {"hi": "प्रारंभिक चरण", "en": "Initial stage"},
+            {"hi": "उन्नत चरण", "en": "Advanced stage"},
+            {"hi": "ग्रामीण चरण", "en": "Rural stage"},
+            {"hi": "अविकसित चरण", "en": "Undeveloped stage"}
           ],
-          "answer": {
-            "hi": "वर्गीकरण",
-            "en": "Classification"
-          }
+          "answer": {"hi": "उन्नत चरण", "en": "Advanced stage"}
         },
         {
           "q": {
-            "hi": "भारतीय उपमहाद्वीप में पाए जाने वाले सबसे पुराने मिट्टी के बर्तन कहाँ पाए गए हैं?",
-            "en": "Where has the oldest pottery found in the Indian subcontinent been found?"
+            "hi": "मेसोपोटामिया की सभ्यता में 'सभ्यता' का आरंभ लगभग कितने वर्ष पहले हुआ था?",
+            "en": "Approximately how many years ago did civilization begin in Mesopotamia?"
           },
           "options": [
-            {
-              "hi": "मेहरगढ़ और लहुरादेवा",
-              "en": "Mehrgarh and Lahuradeva"
-            },
-            {
-              "hi": "दिल्ली और मुंबई",
-              "en": "Delhi and Mumbai"
-            },
-            {
-              "hi": "जयपुर और पटना",
-              "en": "Jaipur and Patna"
-            },
-            {
-              "hi": "चेन्नई",
-              "en": "Chennai"
-            }
+            {"hi": "2000 वर्ष", "en": "2000 years"},
+            {"hi": "4000 वर्ष", "en": "4000 years"},
+            {"hi": "6000 वर्ष", "en": "6000 years"},
+            {"hi": "10000 वर्ष", "en": "10000 years"}
           ],
-          "answer": {
-            "hi": "मेहरगढ़ और लहुरादेवा",
-            "en": "Mehrgarh and Lahuradeva"
-          }
+          "answer": {"hi": "6000 वर्ष", "en": "6000 years"}
         },
         {
           "q": {
-            "hi": "पकी हुई मिट्टी को वैज्ञानिक भाषा में क्या कहा जाता है?",
-            "en": "What is baked soil called in scientific language?"
+            "hi": "सिंधु-सरस्वती सभ्यता का मुख्य समय काल क्या माना जाता है?",
+            "en": "What is considered the main time period of the Indus-Sarasvati civilization?"
           },
           "options": [
-            {
-              "hi": "कंक्रीट",
-              "en": "concrete"
-            },
-            {
-              "hi": "प्लास्टिक",
-              "en": "plastic"
-            },
-            {
-              "hi": "टेराकोटा",
-              "en": "terracotta"
-            },
-            {
-              "hi": "सिलिका",
-              "en": "silica"
-            }
+            {"hi": "4000 से 3000 सा.सं.पू.", "en": "4000 to 3000 BCE"},
+            {"hi": "2600 से 1900 सा.सं.पू.", "en": "2600 to 1900 BCE"},
+            {"hi": "1000 से 500 सा.सं.पू.", "en": "1000 to 500 BCE"},
+            {"hi": "1500 से 1000 सा.सं.पू.", "en": "1500 to 1000 BCE"}
           ],
-          "answer": {
-            "hi": "टेराकोटा",
-            "en": "terracotta"
-          }
+          "answer": {"hi": "2600 से 1900 सा.सं.पू.", "en": "2600 to 1900 BCE"}
         },
         {
           "q": {
-            "hi": "हड़प्पा सभ्यता के दौरान बर्तनों पर किस रंग के डिजाइन बनाए जाते थे?",
-            "en": "What color designs were made on utensils during the Harappan civilization?"
+            "hi": "हड़प्पा सभ्यता से संबंधित पहला उत्खनित नगर कौन-सा था?",
+            "en": "Which was the first excavated city related to the Harappan civilization?"
           },
           "options": [
-            {
-              "hi": "नीले",
-              "en": "blue"
-            },
-            {
-              "hi": "काले",
-              "en": "black"
-            },
-            {
-              "hi": "पीले",
-              "en": "Yellow"
-            },
-            {
-              "hi": "हरे",
-              "en": "Hare"
-            }
+            {"hi": "मोहनजो-दड़ो", "en": "Mohenjo-daro"},
+            {"hi": "लोथल", "en": "Lothal"},
+            {"hi": "हड़प्पा", "en": "Harappa"},
+            {"hi": "धौलावीरा", "en": "Dholavira"}
           ],
-          "answer": {
-            "hi": "काले",
-            "en": "black"
-          }
+          "answer": {"hi": "हड़प्पा", "en": "Harappa"}
         },
         {
           "q": {
-            "hi": "इनमें से कौन सी वस्तु एक से अधिक सामग्रियों से बनी हो सकती है?",
-            "en": "Which of these objects can be made of more than one material?"
+            "hi": "हड़प्पा नगर की खोज किस वर्ष हुई थी?",
+            "en": "In which year was the city of Harappa discovered?"
           },
           "options": [
-            {
-              "hi": "चॉक",
-              "en": "chalk"
-            },
-            {
-              "hi": "ताँबे का तार",
-              "en": "copper wire"
-            },
-            {
-              "hi": "पेन",
-              "en": "pen"
-            },
-            {
-              "hi": "कागज़",
-              "en": "paper"
-            }
+            {"hi": "1947", "en": "1947"},
+            {"hi": "1920-21", "en": "1920-21"},
+            {"hi": "1950", "en": "1950"},
+            {"hi": "1901", "en": "1901"}
           ],
-          "answer": {
-            "hi": "पेन",
-            "en": "pen"
-          }
+          "answer": {"hi": "1920-21", "en": "1920-21"}
         },
         {
           "q": {
-            "hi": "मूषा (क्रूसिबल) बनाने के लिए प्राचीन काल में किन सामग्रियों का उपयोग होता था?",
-            "en": "What materials were used in ancient times to make crucible?"
+            "hi": "सिंधु और उसकी सहायक नदियाँ किस क्षेत्र को सिंचित करती हैं?",
+            "en": "Which region is irrigated by the Indus and its tributaries?"
           },
           "options": [
-            {
-              "hi": "सोना और चाँदी",
-              "en": "gold and silver"
-            },
-            {
-              "hi": "मिट्टी और लोहा",
-              "en": "clay and iron"
-            },
-            {
-              "hi": "प्लास्टिक और रबर",
-              "en": "plastic and rubber"
-            },
-            {
-              "hi": "काँच और लकड़ी",
-              "en": "glass and wood"
-            }
+            {"hi": "पंजाब और सिंध", "en": "Punjab and Sindh"},
+            {"hi": "बंगाल और असम", "en": "Bengal and Assam"},
+            {"hi": "केरल और तमिलनाडु", "en": "Kerala and Tamil Nadu"},
+            {"hi": "महाराष्ट्र और गोवा", "en": "Maharashtra and Goa"}
           ],
-          "answer": {
-            "hi": "मिट्टी और लोहा",
-            "en": "clay and iron"
-          }
+          "answer": {"hi": "पंजाब और सिंध", "en": "Punjab and Sindh"}
         },
         {
           "q": {
-            "hi": "सामग्री का चयन किस आधार पर किया जाता है?",
-            "en": "On what basis is the material selected?"
+            "hi": "सरस्वती नदी को आज भारत में किस नाम से जाना जाता है?",
+            "en": "By what name is the Sarasvati River known in India today?"
           },
           "options": [
-            {
-              "hi": "केवल रंग",
-              "en": "color only"
-            },
-            {
-              "hi": "केवल आकार",
-              "en": "size only"
-            },
-            {
-              "hi": "गुणों और उपयोग के प्रयोजन",
-              "en": "Properties and purpose of use"
-            },
-            {
-              "hi": "केवल कीमत",
-              "en": "price only"
-            }
+            {"hi": "यमुना", "en": "Yamuna"},
+            {"hi": "घग्गर", "en": "Ghaggar"},
+            {"hi": "साबरमती", "en": "Sabarmati"},
+            {"hi": "नर्मदा", "en": "Narmada"}
           ],
-          "answer": {
-            "hi": "गुणों और उपयोग के प्रयोजन",
-            "en": "Properties and purpose of use"
-          }
+          "answer": {"hi": "घग्गर", "en": "Ghaggar"}
         },
         {
           "q": {
-            "hi": "राष्ट्रीय संग्रहालय, नई दिल्ली में क्या प्रदर्शित किया गया है?",
-            "en": "What is displayed in the National Museum, New Delhi?"
+            "hi": "सिंधु-सरस्वती सभ्यता के विकास को और क्या कहा जाता है?",
+            "en": "What else is the development of the Indus-Sarasvati civilization called?"
           },
           "options": [
-            {
-              "hi": "आधुनिक कारें",
-              "en": "modern cars"
-            },
-            {
-              "hi": "मिट्टी के बड़े भंडारण पात्र",
-              "en": "large clay storage containers"
-            },
-            {
-              "hi": "प्लास्टिक की कुर्सियाँ",
-              "en": "plastic chairs"
-            },
-            {
-              "hi": "नए पेन",
-              "en": "new pens"
-            }
+            {"hi": "लौह युग", "en": "Iron Age"},
+            {"hi": "भारत का पहला नगरीकरण", "en": "India's first urbanization"},
+            {"hi": "स्वर्ण युग", "en": "Golden Age"},
+            {"hi": "औद्योगिक क्रांति", "en": "Industrial Revolution"}
           ],
-          "answer": {
-            "hi": "मिट्टी के बड़े भंडारण पात्र",
-            "en": "large clay storage containers"
-          }
+          "answer": {"hi": "भारत का पहला नगरीकरण", "en": "India's first urbanization"}
         },
         {
           "q": {
-            "hi": "समूह बनाना क्यों उपयोगी है?",
-            "en": "Why is grouping useful?"
+            "hi": "नगर प्रबंधन में सामान्यतः कौन-सी व्यवस्था शामिल होती है?",
+            "en": "Which system is generally included in city management?"
           },
           "options": [
-            {
-              "hi": "वस्तुओं को खोने के लिए",
-              "en": "to lose things"
-            },
-            {
-              "hi": "गुणों का व्यवस्थित अध्ययन करने के लिए",
-              "en": "to systematically study the properties"
-            },
-            {
-              "hi": "वस्तुओं को भारी बनाने के लिए",
-              "en": "to make objects heavier"
-            },
-            {
-              "hi": "रंग बदलने के लिए",
-              "en": "to change color"
-            }
+            {"hi": "केवल मनोरंजन", "en": "Only entertainment"},
+            {"hi": "जल प्रबंधन और जल निकास", "en": "Water management and drainage"},
+            {"hi": "केवल चित्रकारी", "en": "Only painting"},
+            {"hi": "शिकार", "en": "Hunting"}
           ],
-          "answer": {
-            "hi": "गुणों का व्यवस्थित अध्ययन करने के लिए",
-            "en": "to systematically study the properties"
-          }
+          "answer": {"hi": "जल प्रबंधन and जल निकास", "en": "Water management and drainage"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "जिन सामग्रियों की सतह चमकदार होती है, वे क्या कहलाती हैं?",
-            "en": "What are the materials whose surface is shiny called?"
+            "hi": "हड़प्पावासी नगरों को कितने विशिष्ट भागों में बाँटते थे?",
+            "en": "Into how many distinct parts did Harappans divide their cities?"
           },
           "options": [
-            {
-              "hi": "द्युतिहीन",
-              "en": "lightless"
-            },
-            {
-              "hi": "द्युतिमय",
-              "en": "luminous"
-            },
-            {
-              "hi": "पारभासी",
-              "en": "translucent"
-            },
-            {
-              "hi": "कोमल",
-              "en": "Tender"
-            }
+            {"hi": "एक", "en": "One"},
+            {"hi": "दो ('ऊपरी' और 'निचला')", "en": "Two ('Upper' and 'Lower')"},
+            {"hi": "चार", "en": "Four"},
+            {"hi": "पाँच", "en": "Five"}
           ],
-          "answer": {
-            "hi": "द्युतिमय",
-            "en": "luminous"
-          }
+          "answer": {"hi": "दो ('ऊपरी' और 'निचला')", "en": "Two ('Upper' and 'Lower')"}
         },
         {
           "q": {
-            "hi": "इनमें से कौन सा चमकदार सामग्री (धातु) का उदाहरण है?",
-            "en": "Which of the following is an example of a shiny material (metal)?"
+            "hi": "हड़प्पा सभ्यता के नगरों में 'ऊपरी नगर' में संभवतः कौन रहता था?",
+            "en": "Who probably lived in the 'Upper Town' of Harappan cities?"
           },
           "options": [
-            {
-              "hi": "लकड़ी",
-              "en": "Wood"
-            },
-            {
-              "hi": "सोना",
-              "en": "Sleep"
-            },
-            {
-              "hi": "जूट",
-              "en": "Jute"
-            },
-            {
-              "hi": "रबर",
-              "en": "Rubber"
-            }
+            {"hi": "साधारण किसान", "en": "Ordinary farmers"},
+            {"hi": "अभिजात वर्ग के लोग", "en": "Elite class people"},
+            {"hi": "विदेशी यात्री", "en": "Foreign travelers"},
+            {"hi": "केवल बच्चे", "en": "Only children"}
           ],
-          "answer": {
-            "hi": "सोना",
-            "en": "Sleep"
-          }
+          "answer": {"hi": "अभिजात वर्ग के लोग", "en": "Elite class people"}
         },
         {
           "q": {
-            "hi": "कुछ धातुएँ अपनी चमक क्यों खो देती हैं?",
-            "en": "Why do some metals lose their shine?"
+            "hi": "मोहनजो-दड़ो के प्रसिद्ध 'महास्नानागार' का आकार क्या है?",
+            "en": "What is the size of the famous 'Great Bath' of Mohenjo-daro?"
           },
           "options": [
-            {
-              "hi": "पुराना होने पर",
-              "en": "when old"
-            },
-            {
-              "hi": "हवा और नमी के प्रभाव से",
-              "en": "due to the effects of wind and moisture"
-            },
-            {
-              "hi": "अधिक उपयोग से",
-              "en": "from overuse"
-            },
-            {
-              "hi": "रंग बदलने से",
-              "en": "by changing color"
-            }
+            {"hi": "5x5 मीटर", "en": "5x5 meters"},
+            {"hi": "12x7 मीटर", "en": "12x7 meters"},
+            {"hi": "20x10 मीटर", "en": "20x10 meters"},
+            {"hi": "50x30 मीटर", "en": "50x30 meters"}
           ],
-          "answer": {
-            "hi": "हवा और नमी के प्रभाव से",
-            "en": "due to the effects of wind and moisture"
-          }
+          "answer": {"hi": "12x7 मीटर", "en": "12x7 meters"}
         },
         {
           "q": {
-            "hi": "बिना पॉलिश की हुई ताजी कटी लकड़ी का स्वरूप किससे भिन्न होता है?",
-            "en": "How is the appearance of freshly cut wood different from that of unpolished wood?"
+            "hi": "महास्नानागार की ईंटों पर जल रोकने के लिए किस सामग्री की परत चढ़ाई गई थी?",
+            "en": "Which material was layered on the bricks of the Great Bath to make it water-resistant?"
           },
           "options": [
-            {
-              "hi": "कागज से",
-              "en": "from paper"
-            },
-            {
-              "hi": "गत्ते से",
-              "en": "from cardboard"
-            },
-            {
-              "hi": "लोहे से",
-              "en": "from iron"
-            },
-            {
-              "hi": "चॉक से",
-              "en": "from chalk"
-            }
+            {"hi": "सीमेंट", "en": "Cement"},
+            {"hi": "प्लास्टिक", "en": "Plastic"},
+            {"hi": "प्राकृतिक बिटुमन (डामर)", "en": "Natural bitumen (Tar)"},
+            {"hi": "तेल", "en": "Oil"}
           ],
-          "answer": {
-            "hi": "लोहे से",
-            "en": "from iron"
-          }
+          "answer": {"hi": "प्राकृतिक बिटुमन (डामर)", "en": "Natural bitumen (Tar)"}
         },
         {
           "q": {
-            "hi": "जिन सामग्रियों को आसानी से दबाया या खरोंचा जा सकता है, उन्हें कहते हैं:",
-            "en": "Materials which can be easily pressed or scratched are called:"
+            "hi": "हड़प्पा सभ्यता का कौन-सा नगर तीन अलग-अलग क्षेत्रों में विभाजित था?",
+            "en": "Which Harappan city was divided into three different sectors?"
           },
           "options": [
-            {
-              "hi": "कठोर",
-              "en": "Harsh"
-            },
-            {
-              "hi": "नरम",
-              "en": "soft"
-            },
-            {
-              "hi": "भारी",
-              "en": "Heavy"
-            },
-            {
-              "hi": "पारदर्शी",
-              "en": "transparent"
-            }
+            {"hi": "हड़प्पा", "en": "Harappa"},
+            {"hi": "कालीबंगा", "en": "Kalibangan"},
+            {"hi": "धौलावीरा", "en": "Dholavira"},
+            {"hi": "लोथल", "en": "Lothal"}
           ],
-          "answer": {
-            "hi": "नरम",
-            "en": "soft"
-          }
+          "answer": {"hi": "धौलावीरा", "en": "Dholavira"}
         },
         {
           "q": {
-            "hi": "कठोरता का गुण कैसा होता है?",
-            "en": "What is the quality of hardness?"
+            "hi": "धौलावीरा में चट्टान को काटकर बनाया गया सबसे बड़ा जलाशय कितना लंबा है?",
+            "en": "How long is the largest rock-cut reservoir found in Dholavira?"
           },
           "options": [
-            {
-              "hi": "निश्चित",
-              "en": "Fixed"
-            },
-            {
-              "hi": "सापेक्ष",
-              "en": "Relative"
-            },
-            {
-              "hi": "अदृश्य",
-              "en": "invisible"
-            },
-            {
-              "hi": "केवल रंग पर निर्भर",
-              "en": "depend only on color"
-            }
+            {"hi": "10 मीटर", "en": "10 meters"},
+            {"hi": "33 मीटर", "en": "33 meters"},
+            {"hi": "73 मीटर", "en": "73 meters"},
+            {"hi": "100 मीटर", "en": "100 meters"}
           ],
-          "answer": {
-            "hi": "सापेक्ष",
-            "en": "Relative"
-          }
+          "answer": {"hi": "73 मीटर", "en": "73 meters"}
         },
         {
           "q": {
-            "hi": "रबर और स्पंज में से कौन अधिक कठोर है?",
-            "en": "Which is harder between rubber and sponge?"
+            "hi": "हड़प्पावासी जल-निकास की नालियाँ सामान्यतः कहाँ बनाते थे?",
+            "en": "Where did the Harappans generally build their drainage channels?"
           },
           "options": [
-            {
-              "hi": "स्पंज",
-              "en": "sponge"
-            },
-            {
-              "hi": "रबर",
-              "en": "Rubber"
-            },
-            {
-              "hi": "दोनों समान हैं",
-              "en": "both are same"
-            },
-            {
-              "hi": "कोई नहीं",
-              "en": "nobody"
-            }
+            {"hi": "छतों पर", "en": "On roofs"},
+            {"hi": "सड़कों के नीचे", "en": "Under the roads"},
+            {"hi": "खेतों के बीच", "en": "In middle of fields"},
+            {"hi": "दीवारों के अंदर", "en": "Inside the walls"}
           ],
-          "answer": {
-            "hi": "रबर",
-            "en": "Rubber"
-          }
+          "answer": {"hi": "सड़कों के नीचे", "en": "Under the roads"}
         },
         {
           "q": {
-            "hi": "धातु की चाबी से किसे खरोंचना सबसे कठिन होगा?",
-            "en": "Which would be hardest to scratch with a metal key?"
+            "hi": "मोहनजो-दड़ो में लगभग कितने कुओं की गणना की गई है?",
+            "en": "Approximately how many wells have been counted in Mohenjo-daro?"
           },
           "options": [
-            {
-              "hi": "मोमबत्ती",
-              "en": "candle"
-            },
-            {
-              "hi": "चॉक",
-              "en": "chalk"
-            },
-            {
-              "hi": "पत्थर",
-              "en": "Stone"
-            },
-            {
-              "hi": "लकड़ी",
-              "en": "Wood"
-            }
+            {"hi": "100", "en": "100"},
+            {"hi": "300", "en": "300"},
+            {"hi": "700", "en": "700"},
+            {"hi": "1000", "en": "1000"}
           ],
-          "answer": {
-            "hi": "पत्थर",
-            "en": "Stone"
-          }
+          "answer": {"hi": "700", "en": "700"}
         },
         {
           "q": {
-            "hi": "द्युतिहीन सामग्री का उदाहरण कौन सा है?",
-            "en": "Which is an example of a nonluminescent material?"
+            "hi": "किस नगर में अधिकांश भवनों की नींव पत्थरों से बनाई गई थी?",
+            "en": "In which city were the foundations of most buildings made of stones?"
           },
           "options": [
-            {
-              "hi": "ताँबा",
-              "en": "copper"
-            },
-            {
-              "hi": "एल्युमीनियम",
-              "en": "aluminum"
-            },
-            {
-              "hi": "लकड़ी",
-              "en": "Wood"
-            },
-            {
-              "hi": "स्टील",
-              "en": "steel"
-            }
+            {"hi": "हड़प्पा", "en": "Harappa"},
+            {"hi": "मोहनजो-दड़ो", "en": "Mohenjo-daro"},
+            {"hi": "धौलावीरा", "en": "Dholavira"},
+            {"hi": "राखीगढ़ी", "en": "Rakhigarhi"}
           ],
-          "answer": {
-            "hi": "लकड़ी",
-            "en": "Wood"
-          }
+          "answer": {"hi": "धौलावीरा", "en": "Dholavira"}
         },
         {
           "q": {
-            "hi": "ताजी कटी हुई धातुओं की सतह पर क्या देखा जा सकता है?",
-            "en": "What can be seen on the surface of freshly cut metals?"
+            "hi": "किलेबंदी का मुख्य उद्देश्य क्या होता था?",
+            "en": "What was the main purpose of fortification?"
           },
           "options": [
-            {
-              "hi": "धुंधलापन",
-              "en": "haziness"
-            },
-            {
-              "hi": "चमक",
-              "en": "Glow"
-            },
-            {
-              "hi": "कालापन",
-              "en": "blackness"
-            },
-            {
-              "hi": "खुरदरापन",
-              "en": "roughness"
-            }
+            {"hi": "सजावट", "en": "Decoration"},
+            {"hi": "सुरक्षा", "en": "Protection"},
+            {"hi": "खेती", "en": "Farming"},
+            {"hi": "व्यापार", "en": "Trade"}
           ],
-          "answer": {
-            "hi": "चमक",
-            "en": "Glow"
-          }
+          "answer": {"hi": "सुरक्षा", "en": "Protection"}
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "जिन सामग्रियों के आर-पार स्पष्ट रूप से देखा जा सकता है, वे कहलाती हैं:",
-            "en": "Materials which can be seen clearly through are called:"
+            "hi": "हड़प्पावासी यूरेशिया में कौन-सी फसल उगाने वाले सर्वप्रथम लोग थे?",
+            "en": "Harappans were the first people in Eurasia to grow which crop?"
           },
           "options": [
-            {
-              "hi": "अपारदर्शी",
-              "en": "opaque"
-            },
-            {
-              "hi": "पारभासी",
-              "en": "translucent"
-            },
-            {
-              "hi": "पारदर्शी",
-              "en": "transparent"
-            },
-            {
-              "hi": "कठोर",
-              "en": "Harsh"
-            }
+            {"hi": "चावल", "en": "Rice"},
+            {"hi": "कपास", "en": "Cotton"},
+            {"hi": "मक्का", "en": "Maize"},
+            {"hi": "गन्ना", "en": "Sugarcane"}
           ],
-          "answer": {
-            "hi": "पारदर्शी",
-            "en": "transparent"
-          }
+          "answer": {"hi": "कपास", "en": "Cotton"}
         },
         {
           "q": {
-            "hi": "इनमें से कौन सा पारभासी सामग्री का उदाहरण है?",
-            "en": "Which of the following is an example of a translucent material?"
+            "hi": "मिट्टी से निर्मित हल का लघु प्रतिरूप कहाँ से प्राप्त हुआ है?",
+            "en": "Where was the terracotta model of a plough found?"
           },
           "options": [
-            {
-              "hi": "काँच",
-              "en": "glass"
-            },
-            {
-              "hi": "बटर पेपर",
-              "en": "butter paper"
-            },
-            {
-              "hi": "लकड़ी",
-              "en": "Wood"
-            },
-            {
-              "hi": "लोहा",
-              "en": "Iron"
-            }
+            {"hi": "लोथल", "en": "Lothal"},
+            {"hi": "बनावली (हरियाणा)", "en": "Banawali (Haryana)"},
+            {"hi": "धौलावीरा", "en": "Dholavira"},
+            {"hi": "सिंध", "en": "Sindh"}
           ],
-          "answer": {
-            "hi": "बटर पेपर",
-            "en": "butter paper"
-          }
+          "answer": {"hi": "बनावली (हरियाणा)", "en": "Banawali (Haryana)"}
         },
         {
           "q": {
-            "hi": "दीवार और लकड़ी का दरवाजा किस प्रकार की सामग्री हैं?",
-            "en": "What kind of material are the wall and wooden door?"
+            "hi": "हड़प्पावासी किस धातु में टिन मिलाकर कांसा (Bronze) बनाते थे?",
+            "en": "Harappans made Bronze by mixing tin with which metal?"
           },
           "options": [
-            {
-              "hi": "पारदर्शी",
-              "en": "transparent"
-            },
-            {
-              "hi": "अपारदर्शी",
-              "en": "opaque"
-            },
-            {
-              "hi": "पारभासी",
-              "en": "translucent"
-            },
-            {
-              "hi": "विलेय",
-              "en": "solute"
-            }
+            {"hi": "लोहा", "en": "Iron"},
+            {"hi": "तांबा", "en": "Copper"},
+            {"hi": "सोना", "en": "Gold"},
+            {"hi": "चांदी", "en": "Silver"}
           ],
-          "answer": {
-            "hi": "अपारदर्शी",
-            "en": "opaque"
-          }
+          "answer": {"hi": "तांबा", "en": "Copper"}
         },
         {
           "q": {
-            "hi": "जल में पूरी तरह घुल जाने वाली सामग्री कहलाती है:",
-            "en": "Materials that dissolve completely in water are called:"
+            "hi": "हड़प्पावासियों के सर्वाधिक प्रिय आभूषण 'कार्नेलियन के मोती' किस रंग के पत्थर के होते थे?",
+            "en": "Of what color were the 'Carnelian beads', the favorite jewelry of Harappans?"
           },
           "options": [
-            {
-              "hi": "अघुलनशील",
-              "en": "insoluble"
-            },
-            {
-              "hi": "कठोर",
-              "en": "Harsh"
-            },
-            {
-              "hi": "घुलनशील",
-              "en": "soluble"
-            },
-            {
-              "hi": "पारभासी",
-              "en": "translucent"
-            }
+            {"hi": "नीला", "en": "Blue"},
+            {"hi": "लाल", "en": "Red"},
+            {"hi": "हरा", "en": "Green"},
+            {"hi": "पीला", "en": "Yellow"}
           ],
-          "answer": {
-            "hi": "घुलनशील",
-            "en": "soluble"
-          }
+          "answer": {"hi": "लाल", "en": "Red"}
         },
         {
           "q": {
-            "hi": "रेत और बुरादा जल में मिलाने पर क्या होता है?",
-            "en": "What happens when sand and sawdust are mixed with water?"
+            "hi": "लोथल में प्राप्त विशाल बेसिन की लंबाई कितनी है?",
+            "en": "What is the length of the large basin found in Lothal?"
           },
           "options": [
-            {
-              "hi": "अदृश्य हो जाते हैं",
-              "en": "become invisible"
-            },
-            {
-              "hi": "जल में नहीं घुलते",
-              "en": "do not dissolve in water"
-            },
-            {
-              "hi": "गायब हो जाते हैं",
-              "en": "disappear"
-            },
-            {
-              "hi": "जल का रंग पारदर्शी कर देते हैं",
-              "en": "turns the color of water transparent"
-            }
+            {"hi": "50 मीटर", "en": "50 meters"},
+            {"hi": "100 मीटर", "en": "100 meters"},
+            {"hi": "217 मीटर", "en": "217 meters"},
+            {"hi": "500 मीटर", "en": "500 meters"}
           ],
-          "answer": {
-            "hi": "जल में नहीं घुलते",
-            "en": "do not dissolve in water"
-          }
+          "answer": {"hi": "217 मीटर", "en": "217 meters"}
         },
         {
           "q": {
-            "hi": "जलीय जंतुओं के अस्तित्व के लिए जल में घुली कौन सी गैस महत्वपूर्ण है?",
-            "en": "Which gas dissolved in water is important for the survival of aquatic animals?"
+            "hi": "हड़प्पा की मुहरें किस मुलायम पत्थर से बनाई जाती थीं?",
+            "en": "From which soft stone were Harappan seals made?"
           },
           "options": [
-            {
-              "hi": "नाइट्रोजन",
-              "en": "Nitrogen"
-            },
-            {
-              "hi": "ऑक्सीजन",
-              "en": "oxygen"
-            },
-            {
-              "hi": "हाइड्रोजन",
-              "en": "hydrogen"
-            },
-            {
-              "hi": "हीलियम",
-              "en": "helium"
-            }
+            {"hi": "ग्रेनाइट", "en": "Granite"},
+            {"hi": "स्टीऐटाइट (सेलखड़ी)", "en": "Steatite"},
+            {"hi": "संगमरमर", "en": "Marble"},
+            {"hi": "बलुआ पत्थर", "en": "Sandstone"}
           ],
-          "answer": {
-            "hi": "ऑक्सीजन",
-            "en": "oxygen"
-          }
+          "answer": {"hi": "स्टीऐटाइट (सेलखड़ी)", "en": "Steatite"}
         },
         {
           "q": {
-            "hi": "ओ.आर.एस. (ORS) का उपयोग किस उपचार के लिए किया जाता है?",
-            "en": "O.R.S. What are ORS used to treat?"
+            "hi": "लोथल के एक पात्र पर किस प्रसिद्ध कहानी का चित्रण मिलता है?",
+            "en": "The illustration of which famous story is found on a vessel from Lothal?"
           },
           "options": [
-            {
-              "hi": "बुखार",
-              "en": "Fever"
-            },
-            {
-              "hi": "निर्जलीकरण",
-              "en": "dehydration"
-            },
-            {
-              "hi": "चोट",
-              "en": "Injury"
-            },
-            {
-              "hi": "सर दर्द",
-              "en": "Headache"
-            }
+            {"hi": "लालची कुत्ता", "en": "Greedy Dog"},
+            {"hi": "प्यासा कौआ", "en": "Thirsty Crow"},
+            {"hi": "शेर और चूहा", "en": "Lion and Mouse"},
+            {"hi": "कछुआ और खरगोश", "en": "Tortoise and Hare"}
           ],
-          "answer": {
-            "hi": "निर्जलीकरण",
-            "en": "dehydration"
-          }
+          "answer": {"hi": "प्यासा कौआ", "en": "Thirsty Crow"}
         },
         {
           "q": {
-            "hi": "घर पर ओ.आर.एस. बनाने के लिए पानी में क्या मिलाया जाता है?",
-            "en": "ORS at home What is added to water to make it?"
+            "hi": "मोहनजो-दड़ो से प्राप्त 'नर्तकी' की लघु प्रतिमा किस धातु की बनी है?",
+            "en": "Of which metal is the small 'Dancing Girl' statue from Mohenjo-daro made?"
           },
           "options": [
-            {
-              "hi": "केवल तेल",
-              "en": "oil only"
-            },
-            {
-              "hi": "चीनी और नमक",
-              "en": "sugar and salt"
-            },
-            {
-              "hi": "रेत और चॉक",
-              "en": "sand and chalk"
-            },
-            {
-              "hi": "केवल नींबू रस",
-              "en": "lemon juice only"
-            }
+            {"hi": "सोना", "en": "Gold"},
+            {"hi": "लोहा", "en": "Iron"},
+            {"hi": "कांसा (Bronze)", "en": "Bronze"},
+            {"hi": "चांदी", "en": "Silver"}
           ],
-          "answer": {
-            "hi": "चीनी और नमक",
-            "en": "sugar and salt"
-          }
+          "answer": {"hi": "कांसा (Bronze)", "en": "Bronze"}
         },
         {
           "q": {
-            "hi": "कुछ द्रव जल के साथ मिश्रित नहीं होते और क्या बना लेते हैं?",
-            "en": "Some liquids do not mix with water and what do they form?"
+            "hi": "हड़प्पावासी बाहरी व्यापार के लिए किन रास्तों का उपयोग करते थे?",
+            "en": "Which routes did Harappans use for external trade?"
           },
           "options": [
-            {
-              "hi": "धुआँ",
-              "en": "smoke"
-            },
-            {
-              "hi": "एक अलग परत",
-              "en": "a separate layer"
-            },
-            {
-              "hi": "बुलबुले",
-              "en": "bubbles"
-            },
-            {
-              "hi": "ठोस पत्थर",
-              "en": "solid stone"
-            }
+            {"hi": "केवल हवाई मार्ग", "en": "Only air routes"},
+            {"hi": "स्थल और समुद्री मार्ग", "en": "Land and sea routes"},
+            {"hi": "केवल भूमिगत मार्ग", "en": "Only underground routes"},
+            {"hi": "कोई व्यापार नहीं करते थे", "en": "Did not trade"}
           ],
-          "answer": {
-            "hi": "एक अलग परत",
-            "en": "a separate layer"
-          }
+          "answer": {"hi": "स्थल और समुद्री मार्ग", "en": "Land and sea routes"}
         },
         {
           "q": {
-            "hi": "सेलोफेन कागज किस प्रकार की सामग्री का उदाहरण है?",
-            "en": "Cellophane paper is an example of what type of material?"
+            "hi": "हड़प्पा के हाथी दाँत का कंघा कहाँ पाया गया है?",
+            "en": "Where was the Harappan ivory comb found?"
           },
           "options": [
-            {
-              "hi": "अपारदर्शी",
-              "en": "opaque"
-            },
-            {
-              "hi": "पारभासी",
-              "en": "translucent"
-            },
-            {
-              "hi": "पारदर्शी",
-              "en": "transparent"
-            },
-            {
-              "hi": "कठोर",
-              "en": "Harsh"
-            }
+            {"hi": "चीन में", "en": "In China"},
+            {"hi": "ओमान के तट पर", "en": "On the coast of Oman"},
+            {"hi": "मिस्र में", "en": "In Egypt"},
+            {"hi": "यूरोप में", "en": "In Europe"}
           ],
-          "answer": {
-            "hi": "पारदर्शी",
-            "en": "transparent"
-          }
+          "answer": {"hi": "ओमान के तट पर", "en": "On the coast of Oman"}
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "कोई भी वस्तु जो स्थान घेरती है और जिसमें द्रव्यमान होता है, कहलाती है:",
-            "en": "Any object that occupies space and has mass is called:"
+            "hi": "हड़प्पा सभ्यता का ह्रास (पतन) लगभग कब शुरू हुआ?",
+            "en": "Around when did the decline of the Harappan civilization begin?"
           },
           "options": [
-            {
-              "hi": "ऊर्जा",
-              "en": "energy"
-            },
-            {
-              "hi": "द्रव्य",
-              "en": "liquid"
-            },
-            {
-              "hi": "छाया",
-              "en": "Shadow"
-            },
-            {
-              "hi": "प्रकाश",
-              "en": "Light"
-            }
+            {"hi": "2600 सा.सं.पू.", "en": "2600 BCE"},
+            {"hi": "1900 सा.सं.पू.", "en": "1900 BCE"},
+            {"hi": "1000 सा.सं.पू.", "en": "1000 BCE"},
+            {"hi": "1500 सा.सं.पू.", "en": "1500 BCE"}
           ],
-          "answer": {
-            "hi": "द्रव्य",
-            "en": "liquid"
-          }
+          "answer": {"hi": "1900 सा.सं.पू.", "en": "1900 BCE"}
         },
         {
           "q": {
-            "hi": "द्रव्यमान को मापने की अंतरराष्ट्रीय मात्रक पद्धति (SI) इकाई क्या है?",
-            "en": "What is the International System of Units (SI) unit for measuring mass?"
+            "hi": "विद्वानों के अनुसार सभ्यता के पतन का एक प्रमुख कारण क्या था?",
+            "en": "According to scholars, what was a major reason for the decline of the civilization?"
           },
           "options": [
-            {
-              "hi": "लीटर",
-              "en": "liter"
-            },
-            {
-              "hi": "किलोग्राम (kg)",
-              "en": "kilogram (kg)"
-            },
-            {
-              "hi": "मीटर",
-              "en": "meter"
-            },
-            {
-              "hi": "सेंटीमीटर",
-              "en": "centimeter"
-            }
+            {"hi": "भूकंप", "en": "Earthquake"},
+            {"hi": "जलवायु परिवर्तन और शुष्कता", "en": "Climate change and aridity"},
+            {"hi": "विदेशी आक्रमण", "en": "Foreign invasion"},
+            {"hi": "आग लगना", "en": "Fire breakout"}
           ],
-          "answer": {
-            "hi": "किलोग्राम (kg)",
-            "en": "kilogram (kg)"
-          }
+          "answer": {"hi": "जलवायु परिवर्तन और शुष्कता", "en": "Climate change and aridity"}
         },
         {
           "q": {
-            "hi": "द्रव्य द्वारा घेरा गया स्थान क्या कहलाता है?",
-            "en": "What is the space occupied by matter called?"
+            "hi": "कौन-सी नदी सूखने के कारण कालीबंगा जैसे नगर छोड़ दिए गए?",
+            "en": "The drying up of which river led to the abandonment of cities like Kalibangan?"
           },
           "options": [
-            {
-              "hi": "द्रव्यमान",
-              "en": "Mass"
-            },
-            {
-              "hi": "आयतन",
-              "en": "volume"
-            },
-            {
-              "hi": "भार",
-              "en": "Burden"
-            },
-            {
-              "hi": "घनत्व",
-              "en": "density"
-            }
+            {"hi": "सिंधु", "en": "Indus"},
+            {"hi": "गंगा", "en": "Ganga"},
+            {"hi": "सरस्वती", "en": "Sarasvati"},
+            {"hi": "यमुना", "en": "Yamuna"}
           ],
-          "answer": {
-            "hi": "आयतन",
-            "en": "volume"
-          }
+          "answer": {"hi": "सरस्वती", "en": "Sarasvati"}
         },
         {
           "q": {
-            "hi": "7 किलोग्राम को सही तरीके से कैसे लिखा जाएगा?",
-            "en": "How will 7 kilograms be written correctly?"
+            "hi": "पतन के बाद हड़प्पावासी किस जीवन-शैली की ओर लौट गए?",
+            "en": "After the decline, towards which lifestyle did the Harappans return?"
           },
           "options": [
-            {
-              "hi": "7kgs",
-              "en": "7kgs"
-            },
-            {
-              "hi": "7 kg",
-              "en": "7kg"
-            },
-            {
-              "hi": "7.kg",
-              "en": "7.kg"
-            },
-            {
-              "hi": "7 k g s",
-              "en": "7kgs"
-            }
+            {"hi": "नगरीय", "en": "Urban"},
+            {"hi": "ग्रामीण", "en": "Rural"},
+            {"hi": "घुमंतू", "en": "Nomadic"},
+            {"hi": "आदिम", "en": "Primitive"}
           ],
-          "answer": {
-            "hi": "7 kg",
-            "en": "7kg"
-          }
+          "answer": {"hi": "ग्रामीण", "en": "Rural"}
         },
         {
           "q": {
-            "hi": "आयतन को मापने के लिए सामान्यतः किन इकाइयों का उपयोग होता है?",
-            "en": "What units are commonly used to measure volume?"
+            "hi": "हड़प्पावासियों के भोजन में मुख्य अनाज कौन-से शामिल थे?",
+            "en": "Which major grains were included in the Harappans' food?"
           },
           "options": [
-            {
-              "hi": "ग्राम और किलोग्राम",
-              "en": "grams and kilograms"
-            },
-            {
-              "hi": "लीटर (L) और मिलीलीटर (mL)",
-              "en": "liter (L) and milliliter (mL)"
-            },
-            {
-              "hi": "मीटर और किलोमीटर",
-              "en": "meter and kilometer"
-            },
-            {
-              "hi": "डिग्री",
-              "en": "degree"
-            }
+            {"hi": "मक्का और ज्वार", "en": "Maize and Sorghum"},
+            {"hi": "जौ और गेहूँ", "en": "Barley and Wheat"},
+            {"hi": "केवल दालें", "en": "Only pulses"},
+            {"hi": "सोयाबीन", "en": "Soybean"}
           ],
-          "answer": {
-            "hi": "लीटर (L) और मिलीलीटर (mL)",
-            "en": "liter (L) and milliliter (mL)"
-          }
+          "answer": {"hi": "जौ और गेहूँ", "en": "Barley and Wheat"}
         },
         {
           "q": {
-            "hi": "1 घन मीटर ($m^3$) में कितने लीटर होते हैं?",
-            "en": "How many liters are there in 1 cubic meter ($m^3$)?"
+            "hi": "हड़प्पा की मुहरों पर सामान्यतः किसके चित्र मिलते हैं?",
+            "en": "Whose pictures are commonly found on Harappan seals?"
           },
           "options": [
-            {
-              "hi": "10 L",
-              "en": "10 L"
-            },
-            {
-              "hi": "100 L",
-              "en": "100 L"
-            },
-            {
-              "hi": "1000 L",
-              "en": "1000 L"
-            },
-            {
-              "hi": "1 L",
-              "en": "1 liter"
-            }
+            {"hi": "वाहनों के", "en": "Vehicles"},
+            {"hi": "जानवरों (जैसे बैल, बाघ) के", "en": "Animals (like bull, tiger)"},
+            {"hi": "फूलों के", "en": "Flowers"},
+            {"hi": "तारों के", "en": "Stars"}
           ],
-          "answer": {
-            "hi": "1000 L",
-            "en": "1000 L"
-          }
+          "answer": {"hi": "जानवरों (जैसे बैल, बाघ) के", "en": "Animals (like bull, tiger)"}
         },
         {
           "q": {
-            "hi": "द्रव्य के शुद्ध रूप को क्या कहते हैं?",
-            "en": "What is the pure form of matter called?"
+            "hi": "हड़प्पावासी चूड़ियाँ बनाने के लिए किस समुद्री वस्तु का उपयोग करते थे?",
+            "en": "What marine object did Harappans use to make bangles?"
           },
           "options": [
-            {
-              "hi": "मिश्रण",
-              "en": "mixture"
-            },
-            {
-              "hi": "पदार्थ",
-              "en": "Substance"
-            },
-            {
-              "hi": "कचरा",
-              "en": "Trash"
-            },
-            {
-              "hi": "विलयन",
-              "en": "Merger"
-            }
+            {"hi": "मछली की हड्डी", "en": "Fish bone"},
+            {"hi": "शंख (Shells)", "en": "Shells"},
+            {"hi": "मूंगा", "en": "Coral"},
+            {"hi": "रेत", "en": "Sand"}
           ],
-          "answer": {
-            "hi": "पदार्थ",
-            "en": "Substance"
-          }
+          "answer": {"hi": "शंख (Shells)", "en": "Shells"}
         },
         {
           "q": {
-            "hi": "यदि दो वस्तुओं का आयतन समान हो, तो भारी वस्तु का क्या अधिक होगा?",
-            "en": "If two objects have the same volume, what will be more of the heavier object?"
+            "hi": "हड़प्पा सभ्यता को 'शांतिपूर्ण सभ्यता' क्यों कहा जाता है?",
+            "en": "Why is the Harappan civilization called a 'peaceful civilization'?"
           },
           "options": [
-            {
-              "hi": "रंग",
-              "en": "Colour"
-            },
-            {
-              "hi": "द्रव्यमान",
-              "en": "Mass"
-            },
-            {
-              "hi": "पारदर्शिता",
-              "en": "transparency"
-            },
-            {
-              "hi": "कोमलता",
-              "en": "softness"
-            }
+            {"hi": "वहाँ कोई लोग नहीं थे", "en": "There were no people"},
+            {"hi": "वहाँ सेना या युद्ध के हथियारों के निशान नहीं मिलते", "en": "No signs of army or war weapons are found"},
+            {"hi": "वहाँ केवल संगीत था", "en": "There was only music"},
+            {"hi": "वे डरपोक थे", "en": "They were cowards"}
           ],
-          "answer": {
-            "hi": "द्रव्यमान",
-            "en": "Mass"
-          }
+          "answer": {"hi": "वहाँ सेना या युद्ध के हथियारों के निशान नहीं मिलते", "en": "No signs of army or war weapons are found"}
         },
         {
           "q": {
-            "hi": "मिलीलीटर को संक्षिप्त रूप में कैसे लिखा जाता है?",
-            "en": "How is milliliter written in short form?"
+            "hi": "हड़प्पावासियों के मिट्टी के पात्रों में किस फल के अवशेष मिले हैं?",
+            "en": "Remains of which fruit have been found in Harappan pottery?"
           },
           "options": [
-            {
-              "hi": "ml",
-              "en": "ml"
-            },
-            {
-              "hi": "ML",
-              "en": "ML"
-            },
-            {
-              "hi": "mL",
-              "en": "ml"
-            },
-            {
-              "hi": "m.l.",
-              "en": "m.l."
-            }
+            {"hi": "सेब", "en": "Apple"},
+            {"hi": "आम", "en": "Mango"},
+            {"hi": "केला", "en": "Banana"},
+            {"hi": "संतरा", "en": "Orange"}
           ],
-          "answer": {
-            "hi": "mL",
-            "en": "ml"
-          }
+          "answer": {"hi": "केला", "en": "Banana"}
         },
         {
           "q": {
-            "hi": "क्या वायु (Air) एक द्रव्य है?",
-            "en": "Is air a liquid?"
+            "hi": "हड़प्पा की लिपि (लेखन प्रणाली) को लेकर क्या स्थिति है?",
+            "en": "What is the status regarding the Harappan script?"
           },
           "options": [
-            {
-              "hi": "नहीं",
-              "en": "No"
-            },
-            {
-              "hi": "हाँ",
-              "en": "Yes"
-            },
-            {
-              "hi": "केवल बादलों में",
-              "en": "only in the clouds"
-            },
-            {
-              "hi": "पता नहीं",
-              "en": "Don't know"
-            }
+            {"hi": "सब पढ़ सकते हैं", "en": "Everyone can read it"},
+            {"hi": "अभी तक इसे समझा नहीं जा सका है", "en": "It has not been understood yet"},
+            {"hi": "यह अंग्रेजी जैसी है", "en": "It is like English"},
+            {"hi": "इसमें केवल संख्याएँ हैं", "en": "It has only numbers"}
           ],
-          "answer": {
-            "hi": "हाँ",
-            "en": "Yes"
-          }
+          "answer": {"hi": "अभी तक इसे समझा नहीं जा सका है", "en": "It has not been understood yet"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "आयुर्वेद के अनुसार भौतिक पदार्थों का वर्णन करने के लिए कितने गुणों का उपयोग किया जाता है?",
-            "en": "How many qualities are used to describe physical substances according to Ayurveda?"
+            "hi": "धौलावीरा गुजरात के किस क्षेत्र में स्थित है?",
+            "en": "In which region of Gujarat is Dholavira located?"
           },
           "options": [
-            {
-              "hi": "5",
-              "en": "5"
-            },
-            {
-              "hi": "10",
-              "en": "10"
-            },
-            {
-              "hi": "20",
-              "en": "20"
-            },
-            {
-              "hi": "50",
-              "en": "50"
-            }
+            {"hi": "सूरत", "en": "Surat"},
+            {"hi": "कच्छ का रन", "en": "Rann of Kutch"},
+            {"hi": "अहमदाबाद", "en": "Ahmedabad"},
+            {"hi": "जामनगर", "en": "Jamnagar"}
           ],
-          "answer": {
-            "hi": "20",
-            "en": "20"
-          }
+          "answer": {"hi": "कच्छ का रन", "en": "Rann of Kutch"}
         },
         {
           "q": {
-            "hi": "आयुर्वेद में 'गुरु' (भारी) का विपरीत गुण क्या है?",
-            "en": "What is the opposite quality of 'Guru' (heavy) in Ayurveda?"
+            "hi": "लोथल नगर आधुनिक भारत के किस राज्य में है?",
+            "en": "In which state of modern India is the city of Lothal located?"
           },
           "options": [
-            {
-              "hi": "उष्ण",
-              "en": "hot"
-            },
-            {
-              "hi": "लघु",
-              "en": "short"
-            },
-            {
-              "hi": "मंद",
-              "en": "dim"
-            },
-            {
-              "hi": "स्थिर",
-              "en": "steady"
-            }
+            {"hi": "राजस्थान", "en": "Rajasthan"},
+            {"hi": "पंजाब", "en": "Punjab"},
+            {"hi": "गुजरात", "en": "Gujarat"},
+            {"hi": "हरियाणा", "en": "Haryana"}
           ],
-          "answer": {
-            "hi": "लघु",
-            "en": "short"
-          }
+          "answer": {"hi": "गुजरात", "en": "Gujarat"}
         },
         {
           "q": {
-            "hi": "आयुर्वेद में 'मृदु' (कोमल) का विपरीत गुण क्या है?",
-            "en": "What is the opposite of 'Mridu' (gentle) in Ayurveda?"
+            "hi": "राखीगढ़ी नगर किस राज्य में स्थित है?",
+            "en": "In which state is the city of Rakhigarhi located?"
           },
           "options": [
-            {
-              "hi": "कठिन",
-              "en": "Difficult"
-            },
-            {
-              "hi": "हिम",
-              "en": "snow"
-            },
-            {
-              "hi": "सूक्ष्म",
-              "en": "Micro"
-            },
-            {
-              "hi": "सान्द्र",
-              "en": "concentrate"
-            }
+            {"hi": "हरियाणा", "en": "Haryana"},
+            {"hi": "उत्तर प्रदेश", "en": "Uttar Pradesh"},
+            {"hi": "मध्य प्रदेश", "en": "Madhya Pradesh"},
+            {"hi": "बिहार", "en": "Bihar"}
           ],
-          "answer": {
-            "hi": "कठिन",
-            "en": "Difficult"
-          }
+          "answer": {"hi": "हरियाणा", "en": "Haryana"}
         },
         {
           "q": {
-            "hi": "अष्टाङ्ग-हृदय के अनुसार 'शीतल' के लिए कौन सा शब्द प्रयुक्त हुआ है?",
-            "en": "According to Ashtanga-Hridaya, which word is used for 'Sheetal'?"
+            "hi": "हड़प्पा सभ्यता के लोग मनोरंजन के लिए क्या करते थे?",
+            "en": "What did Harappan people do for entertainment?"
           },
           "options": [
-            {
-              "hi": "उष्ण",
-              "en": "hot"
-            },
-            {
-              "hi": "हिम",
-              "en": "snow"
-            },
-            {
-              "hi": "रुक्ष",
-              "en": "dry"
-            },
-            {
-              "hi": "खर",
-              "en": "khar"
-            }
+            {"hi": "केवल टी.वी. देखते थे", "en": "Only watched TV"},
+            {"hi": "खेल-बोर्ड पर खेल और सीटी बजाना", "en": "Games on boards and whistling"},
+            {"hi": "वीडियो गेम", "en": "Video games"},
+            {"hi": "क्रिकेट", "en": "Cricket"}
           ],
-          "answer": {
-            "hi": "हिम",
-            "en": "snow"
-          }
+          "answer": {"hi": "खेल-बोर्ड पर खेल और सीटी बजाना", "en": "Games on boards and whistling"}
         },
         {
           "q": {
-            "hi": "पंसारी दालों और मसालों को अलग-अलग कोनों में क्यों रखता है?",
-            "en": "Why does the grocer keep pulses and spices in different corners?"
+            "hi": "नमस्ते की मुद्रा में बैठी टेराकोटा की मूर्ति कहाँ से प्राप्त हुई है?",
+            "en": "From where was the terracotta figurine in a 'Namaste' posture found?"
           },
           "options": [
-            {
-              "hi": "जगह बचाने के लिए",
-              "en": "to save space"
-            },
-            {
-              "hi": "वर्गीकरण और आसान पहुँच के लिए",
-              "en": "For classification and easy access"
-            },
-            {
-              "hi": "चूहे से बचाने के लिए",
-              "en": "to protect from rats"
-            },
-            {
-              "hi": "रंग दिखाने के लिए",
-              "en": "to show color"
-            }
+            {"hi": "हड़प्पा सभ्यता के स्थलों से", "en": "From Harappan sites"},
+            {"hi": "केवल चीन से", "en": "Only from China"},
+            {"hi": "अमेरिका से", "en": "From America"},
+            {"hi": "आधुनिक दिल्ली से", "en": "From modern Delhi"}
           ],
-          "answer": {
-            "hi": "वर्गीकरण और आसान पहुँच के लिए",
-            "en": "For classification and easy access"
-          }
+          "answer": {"hi": "हड़प्पा सभ्यता के स्थलों से", "en": "From Harappan sites"}
         },
         {
           "q": {
-            "hi": "प्लास्टिक की बोतलों पर 500 mL का लेबल क्या दर्शाता है?",
-            "en": "What does the 500 mL label on plastic bottles indicate?"
+            "hi": "हड़प्पावासियों के घरों में कचरे का पानी निकालने के लिए क्या व्यवस्था थी?",
+            "en": "What arrangement was there in Harappan houses to drain waste water?"
           },
           "options": [
-            {
-              "hi": "बोतल का वजन",
-              "en": "bottle weight"
-            },
-            {
-              "hi": "द्रव्य का आयतन",
-              "en": "volume of liquid"
-            },
-            {
-              "hi": "पानी की शुद्धता",
-              "en": "purity of water"
-            },
-            {
-              "hi": "बोतल की कीमत",
-              "en": "bottle price"
-            }
+            {"hi": "खुली नालियाँ", "en": "Open drains"},
+            {"hi": "पक्की और ढकी हुई नालियाँ", "en": "Built and covered drains"},
+            {"hi": "कोई व्यवस्था नहीं थी", "en": "There was no arrangement"},
+            {"hi": "बड़े गड्ढे", "en": "Big pits"}
           ],
-          "answer": {
-            "hi": "द्रव्य का आयतन",
-            "en": "volume of liquid"
-          }
+          "answer": {"hi": "पक्की और ढकी हुई नालियाँ", "en": "Built and covered drains"}
         },
         {
           "q": {
-            "hi": "गेंदों का चयन खेल के आधार पर क्यों किया जाता है?",
-            "en": "Why are balls selected depending on the game?"
+            "hi": "हड़प्पा सभ्यता में 'बंदरगाह' जैसी संरचना किस नगर में मिली है?",
+            "en": "In which city has a dockyard-like structure been found in Harappan civilization?"
           },
           "options": [
-            {
-              "hi": "केवल सुंदरता के लिए",
-              "en": "just for beauty"
-            },
-            {
-              "hi": "सामग्री के विशेष गुणों के कारण",
-              "en": "Due to special properties of the material"
-            },
-            {
-              "hi": "केवल विज्ञापन के लिए",
-              "en": "for advertising only"
-            },
-            {
-              "hi": "खिलाड़ी की पसंद के लिए",
-              "en": "for player's choice"
-            }
+            {"hi": "मोहनजो-दड़ो", "en": "Mohenjo-daro"},
+            {"hi": "लोथल", "en": "Lothal"},
+            {"hi": "कालीबंगा", "en": "Kalibangan"},
+            {"hi": "बनावली", "en": "Banawali"}
           ],
-          "answer": {
-            "hi": "सामग्री के विशेष गुणों के कारण",
-            "en": "Due to special properties of the material"
-          }
+          "answer": {"hi": "लोथल", "en": "Lothal"}
         },
         {
           "q": {
-            "hi": "आयुर्वेद में 'स्थिर' का विपरीत गुण क्या है?",
-            "en": "What is the opposite quality of 'sthira' in Ayurveda?"
+            "hi": "हड़प्पावासी अपने आभूषणों के निर्माण में किस लाल पत्थर का उपयोग करते थे?",
+            "en": "Which red stone did Harappans use in manufacturing their jewelry?"
           },
           "options": [
-            {
-              "hi": "मंद",
-              "en": "dim"
-            },
-            {
-              "hi": "चल",
-              "en": "Ambulatory"
-            },
-            {
-              "hi": "स्थूल",
-              "en": "gross"
-            },
-            {
-              "hi": "पिच्छिल",
-              "en": "Pichhil"
-            }
+            {"hi": "रूबी", "en": "Ruby"},
+            {"hi": "कार्नेलियन", "en": "Carnelian"},
+            {"hi": "मूँगा", "en": "Coral"},
+            {"hi": "पुखराज", "en": "Topaz"}
           ],
-          "answer": {
-            "hi": "चल",
-            "en": "Ambulatory"
-          }
+          "answer": {"hi": "कार्नेलियन", "en": "Carnelian"}
         },
         {
           "q": {
-            "hi": "द्रव्यमान और आयतन के बीच संबंध को समझने के लिए किस यंत्र का उपयोग किया जाता है?",
-            "en": "Which instrument is used to understand the relationship between mass and volume?"
+            "hi": "सभ्यता के पतन के बाद क्या हड़प्पा की संस्कृति पूरी तरह लुप्त हो गई?",
+            "en": "Did Harappan culture completely vanish after the decline of the civilization?"
           },
           "options": [
-            {
-              "hi": "थर्मामीटर",
-              "en": "thermometer"
-            },
-            {
-              "hi": "तराजू",
-              "en": "Balance"
-            },
-            {
-              "hi": "स्केल",
-              "en": "scale"
-            },
-            {
-              "hi": "घड़ी",
-              "en": "Watch"
-            }
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं, यह अगले चरण में पहुँच गई", "en": "No, it moved into the next stage"},
+            {"hi": "पता नहीं", "en": "Don't know"},
+            {"hi": "केवल पहाड़ों में बची", "en": "Only survived in mountains"}
           ],
-          "answer": {
-            "hi": "तराजू",
-            "en": "Balance"
-          }
+          "answer": {"hi": "नहीं, यह अगले चरण में पहुँच गई", "en": "No, it moved into the next stage"}
         },
         {
           "q": {
-            "hi": "आयुर्वेद में 'विशद' का विपरीत गुण क्या है?",
-            "en": "What is the opposite quality of 'Vishad' in Ayurveda?"
+            "hi": "हड़प्पावासियों का समाज कैसा था?",
+            "en": "What kind of society did the Harappans have?"
           },
           "options": [
-            {
-              "hi": "पिच्छिल",
-              "en": "Pichhil"
-            },
-            {
-              "hi": "सूक्ष्म",
-              "en": "Micro"
-            },
-            {
-              "hi": "स्थूल",
-              "en": "gross"
-            },
-            {
-              "hi": "खर",
-              "en": "khar"
-            }
+            {"hi": "अत्यधिक शोषणकारी", "en": "Highly exploitative"},
+            {"hi": "संतुलित और आपसी सामंजस्य वाला", "en": "Balanced and with mutual harmony"},
+            {"hi": "केवल युद्ध लड़ने वाला", "en": "Only war-fighting"},
+            {"hi": "पिछड़ा हुआ", "en": "Backward"}
           ],
-          "answer": {
-            "hi": "पिच्छिल",
-            "en": "Pichhil"
-          }
+          "answer": {"hi": "संतुलित और आपसी सामंजस्य वाला", "en": "Balanced and with mutual harmony"}
         }
       ]
     },
