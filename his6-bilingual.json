@@ -4898,1415 +4898,665 @@
         }
       ]
     },
-    "chapter05": {
+    "chapter05":{
       "section1": [
         {
           "q": {
-            "hi": "लंबाई का अंतरराष्ट्रीय मात्रक (SI मात्रक) क्या है?",
-            "en": "What is the international unit of length (SI unit)?"
+            "hi": "ऋग्वेद में उपमहाद्वीप के उत्तर-पश्चिमी क्षेत्र को क्या नाम दिया गया है?",
+            "en": "What name is given to the north-western region of the subcontinent in the Rigveda?"
           },
           "options": [
-            {
-              "hi": "सेंटीमीटर",
-              "en": "centimeter"
-            },
-            {
-              "hi": "किलोमीटर",
-              "en": "kilometers"
-            },
-            {
-              "hi": "मीटर",
-              "en": "meter"
-            },
-            {
-              "hi": "बालिश्त",
-              "en": "Balisht"
-            }
+            {"hi": "भारतवर्ष", "en": "Bharatvarsha"},
+            {"hi": "सप्त सैंधव", "en": "Sapta Saindhava"},
+            {"hi": "जम्बूद्वीप", "en": "Jambudvipa"},
+            {"hi": "हिंदुस्तान", "en": "Hindustan"}
           ],
-          "answer": {
-            "hi": "मीटर",
-            "en": "meter"
-          }
+          "answer": {"hi": "सप्त सैंधव", "en": "Sapta Saindhava"}
         },
         {
           "q": {
-            "hi": "1 किलोमीटर (km) में कितने मीटर होते हैं?",
-            "en": "How many meters are there in 1 kilometer (km)?"
+            "hi": "'सप्त सैंधव' का शाब्दिक अर्थ क्या है?",
+            "en": "What is the literal meaning of 'Sapta Saindhava'?"
           },
           "options": [
-            {
-              "hi": "100 m",
-              "en": "100m"
-            },
-            {
-              "hi": "1000 m",
-              "en": "1000m"
-            },
-            {
-              "hi": "10 m",
-              "en": "10m"
-            },
-            {
-              "hi": "10000 m",
-              "en": "10000m"
-            }
+            {"hi": "सात पहाड़ों की भूमि", "en": "Land of seven mountains"},
+            {"hi": "सात नदियों की भूमि", "en": "Land of seven rivers"},
+            {"hi": "सात द्वीपों की भूमि", "en": "Land of seven islands"},
+            {"hi": "सात राजाओं की भूमि", "en": "Land of seven kings"}
           ],
-          "answer": {
-            "hi": "1000 m",
-            "en": "1000m"
-          }
+          "answer": {"hi": "सात नदियों की भूमि", "en": "Land of seven rivers"}
         },
         {
           "q": {
-            "hi": "1 मीटर को 100 बराबर भागों में विभाजित करने पर प्रत्येक भाग क्या कहलाता है?",
-            "en": "What is each part called when 1 meter is divided into 100 equal parts?"
+            "hi": "'सैंधव' शब्द की उत्पत्ति किस नदी के नाम से हुई है?",
+            "en": "From the name of which river is the word 'Saindhava' derived?"
           },
           "options": [
-            {
-              "hi": "मिलीमीटर",
-              "en": "millimeter"
-            },
-            {
-              "hi": "सेंटीमीटर",
-              "en": "centimeter"
-            },
-            {
-              "hi": "डेसीमीटर",
-              "en": "decimeter"
-            },
-            {
-              "hi": "इंच",
-              "en": "inches"
-            }
+            {"hi": "गंगा", "en": "Ganga"},
+            {"hi": "यमुना", "en": "Yamuna"},
+            {"hi": "सिंधु", "en": "Indus"},
+            {"hi": "सरस्वती", "en": "Sarasvati"}
           ],
-          "answer": {
-            "hi": "सेंटीमीटर",
-            "en": "centimeter"
-          }
+          "answer": {"hi": "सिंधु", "en": "Indus"}
         },
         {
           "q": {
-            "hi": "1 सेंटीमीटर (cm) में कितने मिलीमीटर (mm) होते हैं?",
-            "en": "How many millimeters (mm) are there in 1 centimeter (cm)?"
+            "hi": "महाभारत में समूचे उपमहाद्वीप के लिए किस शब्द का स्पष्ट प्रयोग मिलता है?",
+            "en": "Which word is clearly used for the entire subcontinent in the Mahabharata?"
           },
           "options": [
-            {
-              "hi": "10 mm",
-              "en": "10mm"
-            },
-            {
-              "hi": "100 mm",
-              "en": "100 mm"
-            },
-            {
-              "hi": "5 mm",
-              "en": "5mm"
-            },
-            {
-              "hi": "1 mm",
-              "en": "1mm"
-            }
+            {"hi": "इंडिया", "en": "India"},
+            {"hi": "भारतवर्ष", "en": "Bharatvarsha"},
+            {"hi": "यिन्तू", "en": "Yintu"},
+            {"hi": "इंडिके", "en": "Indike"}
           ],
-          "answer": {
-            "hi": "10 mm",
-            "en": "10mm"
-          }
+          "answer": {"hi": "भारतवर्ष", "en": "Bharatvarsha"}
         },
         {
           "q": {
-            "hi": "मापन के लिए उपयोग किया जाने वाला 'बालिश्त' (Handspan) किसका उदाहरण है?",
-            "en": "'Handspan' used for measurement is an example of?"
+            "hi": "'जम्बूद्वीप' शब्द का अर्थ क्या है?",
+            "en": "What is the meaning of the word 'Jambudvipa'?"
           },
           "options": [
-            {
-              "hi": "मानक मात्रक",
-              "en": "standard unit"
-            },
-            {
-              "hi": "SI मात्रक",
-              "en": "SI units"
-            },
-            {
-              "hi": "गैर-मानक मात्रक",
-              "en": "non-standard units"
-            },
-            {
-              "hi": "अंतरराष्ट्रीय मात्रक",
-              "en": "international units"
-            }
+            {"hi": "आम के वृक्ष का द्वीप", "en": "Island of mango tree"},
+            {"hi": "जामुन वृक्ष के फल का द्वीप", "en": "Island of the jambul fruit"},
+            {"hi": "पीपल के वृक्ष का द्वीप", "en": "Island of pipal tree"},
+            {"hi": "नारियल का द्वीप", "en": "Island of coconut"}
           ],
-          "answer": {
-            "hi": "गैर-मानक मात्रक",
-            "en": "non-standard units"
-          }
+          "answer": {"hi": "जामुन वृक्ष के फल का द्वीप", "en": "Island of the jambul fruit"}
         },
         {
           "q": {
-            "hi": "प्राचीन काल में भारत में लंबाई मापने के लिए किस मात्रक का उपयोग होता था?",
-            "en": "Which unit was used to measure length in ancient times in India?"
+            "hi": "किस सम्राट ने अपने शिलालेखों में पूरे भारत के लिए 'जम्बूद्वीप' शब्द का प्रयोग किया?",
+            "en": "Which emperor used the word 'Jambudvipa' in his inscriptions to describe the whole of India?"
           },
           "options": [
-            {
-              "hi": "अँगुल",
-              "en": "finger"
-            },
-            {
-              "hi": "धनुष",
-              "en": "bow"
-            },
-            {
-              "hi": "योजन",
-              "en": "planning"
-            },
-            {
-              "hi": "उपरोक्त सभी",
-              "en": "all of the above"
-            }
+            {"hi": "चंद्रगुप्त मौर्य", "en": "Chandragupta Maurya"},
+            {"hi": "अकबर", "en": "Akbar"},
+            {"hi": "अशोक", "en": "Ashoka"},
+            {"hi": "महाराणा प्रताप", "en": "Maharana Pratap"}
           ],
-          "answer": {
-            "hi": "उपरोक्त सभी",
-            "en": "all of the above"
-          }
+          "answer": {"hi": "अशोक", "en": "Ashoka"}
         },
         {
           "q": {
-            "hi": "लंबाई का SI मात्रक दर्शाने के लिए किस प्रतीक का उपयोग किया जाता है?",
-            "en": "Which symbol is used to represent SI unit of length?"
+            "hi": "सम्राट अशोक का काल लगभग क्या माना जाता है?",
+            "en": "What is the approximate period of Emperor Ashoka?"
           },
           "options": [
-            {
-              "hi": "M",
-              "en": "M"
-            },
-            {
-              "hi": "m",
-              "en": "m"
-            },
-            {
-              "hi": "mtr",
-              "en": "mtr"
-            },
-            {
-              "hi": "me",
-              "en": "me"
-            }
+            {"hi": "500 सा.सं.पू.", "en": "500 B.C.E."},
+            {"hi": "250 सा.सं.पू.", "en": "250 B.C.E."},
+            {"hi": "100 सा.सं.", "en": "100 C.E."},
+            {"hi": "1000 सा.सं.", "en": "1000 C.E."}
           ],
-          "answer": {
-            "hi": "m",
-            "en": "m"
-          }
+          "answer": {"hi": "250 सा.सं.पू.", "en": "250 B.C.E."}
         },
         {
           "q": {
-            "hi": "1 इंच लगभग कितने सेंटीमीटर के बराबर होता है?",
-            "en": "1 inch is approximately equal to how many centimeters?"
+            "hi": "विष्णु पुराण के अनुसार भारत की भौगोलिक स्थिति क्या है?",
+            "en": "According to Vishnu Purana, what is the geographical position of Bharat?"
           },
           "options": [
-            {
-              "hi": "2.54 cm",
-              "en": "2.54 cm"
-            },
-            {
-              "hi": "1.54 cm",
-              "en": "1.54 cm"
-            },
-            {
-              "hi": "3.0 cm",
-              "en": "3.0 cm"
-            },
-            {
-              "hi": "2.0 cm",
-              "en": "2.0 cm"
-            }
+            {"hi": "समुद्र के उत्तर और हिमालय के दक्षिण में", "en": "North of the ocean and south of the Himalayas"},
+            {"hi": "हिमालय के उत्तर में", "en": "North of the Himalayas"},
+            {"hi": "समुद्र के दक्षिण में", "en": "South of the ocean"},
+            {"hi": "पर्वतों के बीच में", "en": "Between the mountains"}
           ],
-          "answer": {
-            "hi": "2.54 cm",
-            "en": "2.54 cm"
-          }
+          "answer": {"hi": "समुद्र के उत्तर और हिमालय के दक्षिण में", "en": "North of the ocean and south of the Himalayas"}
         },
         {
           "q": {
-            "hi": "हड़प्पा सभ्यता के उत्खनन में प्राप्त रेखांकित चिह्नों वाली वस्तुओं को क्या माना गया है?",
-            "en": "What are the objects with underlined marks found in the excavation of Harappan civilization considered?"
+            "hi": "भारतीय संविधान के मूल अंग्रेजी पाठ में किन दो नामों का उल्लेख है?",
+            "en": "Which two names are mentioned in the original English text of the Indian Constitution?"
           },
           "options": [
-            {
-              "hi": "खिलौने",
-              "en": "toys"
-            },
-            {
-              "hi": "पैमाने (Scales)",
-              "en": "Scales"
-            },
-            {
-              "hi": "हथियार",
-              "en": "Weapon"
-            },
-            {
-              "hi": "सिक्के",
-              "en": "coins"
-            }
+            {"hi": "भारत और हिंदुस्तान", "en": "Bharat and Hindustan"},
+            {"hi": "इंडिया और आर्यावर्त", "en": "India and Aryavarta"},
+            {"hi": "इंडिया, दैट इज भारत", "en": "India, that is Bharat"},
+            {"hi": "जम्बूद्वीप और इंडिया", "en": "Jambudvipa and India"}
           ],
-          "answer": {
-            "hi": "पैमाने (Scales)",
-            "en": "Scales"
-          }
+          "answer": {"hi": "इंडिया, दैट इज भारत", "en": "India, that is Bharat"}
         },
         {
           "q": {
-            "hi": "लंबाई के मात्रकों और उनके संकेतों के संदर्भ में क्या सही है?",
-            "en": "What is correct regarding units of length and their signs?"
+            "hi": "भारतीय संविधान किस वर्ष लागू हुआ था?",
+            "en": "In which year did the Indian Constitution come into effect?"
           },
           "options": [
-            {
-              "hi": "इनके अंत में बिंदु लगाया जाता है",
-              "en": "a dot is placed at the end"
-            },
-            {
-              "hi": "इनके बहुवचन (s लगाकर) लिखे जाते हैं",
-              "en": "Their plurals are written (by adding s)"
-            },
-            {
-              "hi": "इनके बहुवचन नहीं होते हैं",
-              "en": "they don't have plurals"
-            },
-            {
-              "hi": "संकेत हमेशा बड़े अक्षरों में होते हैं",
-              "en": "signs are always in capital letters"
-            }
+            {"hi": "1947", "en": "1947"},
+            {"hi": "1950", "en": "1950"},
+            {"hi": "1952", "en": "1952"},
+            {"hi": "1948", "en": "1948"}
           ],
-          "answer": {
-            "hi": "इनके बहुवचन नहीं होते हैं",
-            "en": "they don't have plurals"
-          }
+          "answer": {"hi": "1950", "en": "1950"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "किसी पेंसिल की लंबाई मापने के लिए सबसे उपयुक्त उपकरण कौन सा है?",
-            "en": "Which is the most suitable instrument for measuring the length of a pencil?"
+            "hi": "सर्वप्रथम किन विदेशियों ने भारत के लिए 'हिंद' या 'हिंदू' शब्द का प्रयोग किया?",
+            "en": "Which foreigners first used the words 'Hind' or 'Hindu' for India?"
           },
           "options": [
-            {
-              "hi": "15 cm पैमाना",
-              "en": "15 cm scale"
-            },
-            {
-              "hi": "मापन-टेप",
-              "en": "measure tape"
-            },
-            {
-              "hi": "हाथ की लंबाई",
-              "en": "arm length"
-            },
-            {
-              "hi": "धागा",
-              "en": "Thread"
-            }
+            {"hi": "यूनानी (Greek)", "en": "Greeks"},
+            {"hi": "ईरानी (Persian)", "en": "Persians"},
+            {"hi": "चीनी (Chinese)", "en": "Chinese"},
+            {"hi": "फ्रांसीसी (French)", "en": "French"}
           ],
-          "answer": {
-            "hi": "15 cm पैमाना",
-            "en": "15 cm scale"
-          }
+          "answer": {"hi": "ईरानी (Persian)", "en": "Persians"}
         },
         {
           "q": {
-            "hi": "दर्जी द्वारा शरीर का माप लेने के लिए किस उपकरण का उपयोग किया जाता है?",
-            "en": "Which instrument is used by tailors to take body measurements?"
+            "hi": "प्राचीन फारसी भाषा में 'हिंदू' शब्द का अर्थ क्या था?",
+            "en": "What was the meaning of the word 'Hindu' in ancient Persian?"
           },
           "options": [
-            {
-              "hi": "धातु की छड़",
-              "en": "metal rod"
-            },
-            {
-              "hi": "लचीला मापन-फीता",
-              "en": "flexible measuring tape"
-            },
-            {
-              "hi": "15 cm स्केल",
-              "en": "15 cm scale"
-            },
-            {
-              "hi": "कदम",
-              "en": "step"
-            }
+            {"hi": "एक धर्म", "en": "A religion"},
+            {"hi": "एक भौगोलिक शब्द (सिंधु क्षेत्र)", "en": "A geographical term (Indus region)"},
+            {"hi": "एक राजा", "en": "A king"},
+            {"hi": "एक भाषा", "en": "A language"}
           ],
-          "answer": {
-            "hi": "लचीला मापन-फीता",
-            "en": "flexible measuring tape"
-          }
+          "answer": {"hi": "एक भौगोलिक शब्द (सिंधु क्षेत्र)", "en": "A geographical term (Indus region)"}
         },
         {
           "q": {
-            "hi": "पैमाने से लंबाई मापते समय आँख की सही स्थिति क्या होनी चाहिए?",
-            "en": "What should be the correct position of the eye while measuring length with a scale?"
+            "hi": "यूनानियों ने भारत को 'इंडोई' या 'इंडिके' नाम क्यों दिया?",
+            "en": "Why did the Greeks give the names 'Indoi' or 'Indike' to India?"
           },
           "options": [
-            {
-              "hi": "तिरछी",
-              "en": "oblique"
-            },
-            {
-              "hi": "मापन बिंदु के ठीक ऊपर",
-              "en": "just above the measurement point"
-            },
-            {
-              "hi": "बाईं ओर से",
-              "en": "from the left"
-            },
-            {
-              "hi": "दाईं ओर से",
-              "en": "from the right side"
-            }
+            {"hi": "वे 'ह' अक्षर नहीं बोल सकते थे", "en": "They could not pronounce the letter 'H'"},
+            {"hi": "वे सिंधु को पसंद करते थे", "en": "They liked the Indus"},
+            {"hi": "यह उनके राजा का नाम था", "en": "It was their king's name"},
+            {"hi": "उन्होंने इसे मानचित्र पर देखा था", "en": "They saw it on a map"}
           ],
-          "answer": {
-            "hi": "मापन बिंदु के ठीक ऊपर",
-            "en": "just above the measurement point"
-          }
+          "answer": {"hi": "वे 'ह' अक्षर नहीं बोल सकते थे", "en": "They could not pronounce the letter 'H'"}
         },
         {
           "q": {
-            "hi": "यदि किसी पैमाने का सिरा टूटा हो और शून्यांक स्पष्ट न हो, तो मापन कहाँ से शुरू करना चाहिए?",
-            "en": "If the end of a scale is broken and the zero mark is not clear, where should one start the measurement?"
+            "hi": "प्राचीन चीनी ग्रंथों में भारत के लिए किस शब्द का उल्लेख मिलता है?",
+            "en": "Which word is mentioned for India in ancient Chinese texts?"
           },
           "options": [
-            {
-              "hi": "टूटे हुए हिस्से से",
-              "en": "from the broken part"
-            },
-            {
-              "hi": "किसी अन्य पूर्णांक (जैसे 1.0 cm) से",
-              "en": "to any other integer (e.g. 1.0 cm)"
-            },
-            {
-              "hi": "अनुमान से",
-              "en": "by guess"
-            },
-            {
-              "hi": "उसे उपयोग नहीं करना चाहिए",
-              "en": "it should not be used"
-            }
+            {"hi": "हिंदुस्तान", "en": "Hindustan"},
+            {"hi": "यिन्तू या यिंदू", "en": "Yintu or Yindu"},
+            {"hi": "इंडोई", "en": "Indoi"},
+            {"hi": "आर्यावर्त", "en": "Aryavarta"}
           ],
-          "answer": {
-            "hi": "किसी अन्य पूर्णांक (जैसे 1.0 cm) से",
-            "en": "to any other integer (e.g. 1.0 cm)"
-          }
+          "answer": {"hi": "यिन्तू या यिंदू", "en": "Yintu or Yindu"}
         },
         {
           "q": {
-            "hi": "यदि मापन 1.0 cm से शुरू किया गया और दूसरे सिरे का पाठ्यांक 10.4 cm है, तो वस्तु की वास्तविक लंबाई क्या होगी?",
-            "en": "If the measurement is started from 1.0 cm and the reading at the other end is 10.4 cm, what will be the actual length of the object?"
+            "hi": "प्रसिद्ध चीनी यात्री जुआनजेंग (ह्वेनसांग) भारत कब आए थे?",
+            "en": "When did the famous Chinese traveler Xuanzang visit India?"
           },
           "options": [
-            {
-              "hi": "10.4 cm",
-              "en": "10.4cm"
-            },
-            {
-              "hi": "11.4 cm",
-              "en": "11.4cm"
-            },
-            {
-              "hi": "9.4 cm",
-              "en": "9.4cm"
-            },
-            {
-              "hi": "10.0 cm",
-              "en": "10.0 cm"
-            }
+            {"hi": "5वीं शताब्दी सा.सं.", "en": "5th Century C.E."},
+            {"hi": "7वीं शताब्दी सा.सं.", "en": "7th Century C.E."},
+            {"hi": "10वीं शताब्दी सा.सं.", "en": "10th Century C.E."},
+            {"hi": "2वीं शताब्दी सा.सं.", "en": "2nd Century C.E."}
           ],
-          "answer": {
-            "hi": "9.4 cm",
-            "en": "9.4cm"
-          }
+          "answer": {"hi": "7वीं शताब्दी सा.सं.", "en": "7th Century C.E."}
         },
         {
           "q": {
-            "hi": "दृष्टिबाधित विद्यार्थी लंबाई मापने के लिए किस प्रकार के पैमाने का उपयोग करते हैं?",
-            "en": "What type of scale do visually impaired students use to measure height?"
+            "hi": "चीनी शब्द 'तियन्जू' का एक अर्थ क्या निकाला जा सकता है?",
+            "en": "What is one meaning that can be derived from the Chinese word 'Tianzhu'?"
           },
           "options": [
-            {
-              "hi": "रंगीन पैमाने",
-              "en": "color scale"
-            },
-            {
-              "hi": "उभरे अंकन बिंदु वाले पैमाने",
-              "en": "scale with raised marking points"
-            },
-            {
-              "hi": "बड़े डिजिटल पैमाने",
-              "en": "large digital scale"
-            },
-            {
-              "hi": "साधारण पैमाने",
-              "en": "simple scale"
-            }
+            {"hi": "मसालों की भूमि", "en": "Land of spices"},
+            {"hi": "स्वर्गतुल्य स्वामी", "en": "Heavenly Master"},
+            {"hi": "नदियों का जाल", "en": "Network of rivers"},
+            {"hi": "सोने की चिड़िया", "en": "Golden bird"}
           ],
-          "answer": {
-            "hi": "उभरे अंकन बिंदु वाले पैमाने",
-            "en": "scale with raised marking points"
-          }
+          "answer": {"hi": "स्वर्गतुल्य स्वामी", "en": "Heavenly Master"}
         },
         {
           "q": {
-            "hi": "किसी वक्र रेखा (Curved line) की लंबाई मापने के लिए किसका उपयोग किया जा सकता है?",
-            "en": "What can be used to measure the length of a curved line?"
+            "hi": "'हिंदुस्तान' शब्द का सर्वप्रथम प्रयोग कितने वर्ष पूर्व एक फारसी शिलालेख में हुआ था?",
+            "en": "How many years ago was the word 'Hindustan' first used in a Persian inscription?"
           },
           "options": [
-            {
-              "hi": "सीधा मीटर स्केल",
-              "en": "straight meter scale"
-            },
-            {
-              "hi": "धागा और मीटर पैमाना",
-              "en": "thread and meter scale"
-            },
-            {
-              "hi": "बालिश्त",
-              "en": "Balisht"
-            },
-            {
-              "hi": "केवल अनुमान",
-              "en": "only guess"
-            }
+            {"hi": "500 वर्ष", "en": "500 years"},
+            {"hi": "1000 वर्ष", "en": "1000 years"},
+            {"hi": "1800 वर्ष", "en": "1800 years"},
+            {"hi": "3000 वर्ष", "en": "3000 years"}
           ],
-          "answer": {
-            "hi": "धागा और मीटर पैमाना",
-            "en": "thread and meter scale"
-          }
+          "answer": {"hi": "1800 वर्ष", "en": "1800 years"}
         },
         {
           "q": {
-            "hi": "वृक्ष के तने की मोटाई मापने के लिए सबसे उपयुक्त क्या है?",
-            "en": "What is most suitable for measuring the thickness of a tree trunk?"
+            "hi": "तमिल साहित्य में भारत की सीमा कहाँ से कहाँ तक बताई गई है?",
+            "en": "In Tamil literature, the boundary of India is described from where to where?"
           },
           "options": [
-            {
-              "hi": "मीटर पैमाना",
-              "en": "meter scale"
-            },
-            {
-              "hi": "लचीला मापन-फीता",
-              "en": "flexible measuring tape"
-            },
-            {
-              "hi": "15 cm प्लास्टिक स्केल",
-              "en": "15 cm plastic scale"
-            },
-            {
-              "hi": "हाथ की अँगुली",
-              "en": "finger of hand"
-            }
+            {"hi": "दिल्ली से कन्याकुमारी", "en": "Delhi to Kanyakumari"},
+            {"hi": "केप कुमारी से उत्तर में महान पर्वत तक", "en": "From Cape Kumari to the great mountain in the North"},
+            {"hi": "बंगाल से गुजरात", "en": "From Bengal to Gujarat"},
+            {"hi": "सिंधु से गंगा तक", "en": "From Indus to Ganga"}
           ],
-          "answer": {
-            "hi": "लचीला मापन-फीता",
-            "en": "flexible measuring tape"
-          }
+          "answer": {"hi": "केप कुमारी से उत्तर में महान पर्वत तक", "en": "From Cape Kumari to the great mountain in the North"}
         },
         {
           "q": {
-            "hi": "लंबाई लिखते समय संख्या और मात्रक के बीच में क्या होना चाहिए?",
-            "en": "What should be between the number and the unit while writing length?"
+            "hi": "जुआनजेंग भारत से अपने साथ क्या लेकर वापस चीन गए थे?",
+            "en": "What did Xuanzang take back to China from India?"
           },
           "options": [
-            {
-              "hi": "कोई स्थान नहीं",
-              "en": "no place"
-            },
-            {
-              "hi": "एक स्थान (Space) छोड़ना चाहिए",
-              "en": "One space should be left"
-            },
-            {
-              "hi": "डैश (-) लगाना चाहिए",
-              "en": "dash (-) should be used"
-            },
-            {
-              "hi": "बिंदु (.) लगाना चाहिए",
-              "en": "Dot (.) should be placed"
-            }
+            {"hi": "सोना-चांदी", "en": "Gold and Silver"},
+            {"hi": "मसाले और कपड़े", "en": "Spices and Clothes"},
+            {"hi": "बौद्ध ग्रंथ और पांडुलिपियाँ", "en": "Buddhist texts and manuscripts"},
+            {"hi": "हथियार", "en": "Weapons"}
           ],
-          "answer": {
-            "hi": "एक स्थान (Space) छोड़ना चाहिए",
-            "en": "One space should be left"
-          }
+          "answer": {"hi": "बौद्ध ग्रंथ और पांडुलिपियाँ", "en": "Buddhist texts and manuscripts"}
         },
         {
           "q": {
-            "hi": "15 cm पैमाने पर सबसे छोटा मान (mm में) क्या मापा जा सकता है?",
-            "en": "What is the smallest value (in mm) that can be measured on a 15 cm scale?"
+            "hi": "प्राचीन भारतीयों के अनुसार 'उत्तर में महान पर्वत' किसे कहा गया है?",
+            "en": "According to ancient Indians, what is referred to as the 'Great mountain in the North'?"
           },
           "options": [
-            {
-              "hi": "0.1 mm",
-              "en": "0.1mm"
-            },
-            {
-              "hi": "1 mm",
-              "en": "1mm"
-            },
-            {
-              "hi": "1 cm",
-              "en": "1cm"
-            },
-            {
-              "hi": "0.5 mm",
-              "en": "0.5 mm"
-            }
+            {"hi": "अरावली", "en": "Aravalli"},
+            {"hi": "विंध्याचल", "en": "Vindhyachal"},
+            {"hi": "हिमालय", "en": "Himalayas"},
+            {"hi": "नीलगिरी", "en": "Nilgiri"}
           ],
-          "answer": {
-            "hi": "1 mm",
-            "en": "1mm"
-          }
+          "answer": {"hi": "हिमालय", "en": "Himalayas"}
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "किसी वस्तु की स्थिति निर्धारित करने के लिए उपयोग किए जाने वाले नियत बिंदु को क्या कहते हैं?",
-            "en": "What is a fixed point used to determine the position of an object called?"
+            "hi": "भारत के उत्तर-पश्चिमी क्षेत्र में बहने वाली सात नदियों को क्या कहा गया है?",
+            "en": "What are the seven rivers flowing in the north-western region of India called?"
           },
           "options": [
-            {
-              "hi": "अंतिम बिंदु",
-              "en": "last point"
-            },
-            {
-              "hi": "मध्य बिंदु",
-              "en": "mid point"
-            },
-            {
-              "hi": "संदर्भ बिंदु",
-              "en": "reference point"
-            },
-            {
-              "hi": "शून्य बिंदु",
-              "en": "zero point"
-            }
+            {"hi": "सप्त धारा", "en": "Sapta Dhara"},
+            {"hi": "सप्त सैंधव", "en": "Sapta Saindhava"},
+            {"hi": "सप्त ऋषि", "en": "Sapta Rishi"},
+            {"hi": "सप्त सागर", "en": "Sapta Sagar"}
           ],
-          "answer": {
-            "hi": "संदर्भ बिंदु",
-            "en": "reference point"
-          }
+          "answer": {"hi": "सप्त सैंधव", "en": "Sapta Saindhava"}
         },
         {
           "q": {
-            "hi": "सड़क के किनारे लगे किलोमीटर सूचक पत्थर क्या दर्शाते हैं?",
-            "en": "What do the kilometer markers on the roadside indicate?"
+            "hi": "ऋग्वेद में 'भरत' शब्द का प्रयोग किसके लिए हुआ है?",
+            "en": "In Rigveda, the word 'Bharat' is used for whom?"
           },
           "options": [
-            {
-              "hi": "सड़क की चौड़ाई",
-              "en": "road width"
-            },
-            {
-              "hi": "संदर्भ बिंदु से दूरी",
-              "en": "distance from reference point"
-            },
-            {
-              "hi": "गाड़ी की गति",
-              "en": "vehicle speed"
-            },
-            {
-              "hi": "शहर का नाम",
-              "en": "city ​​name"
-            }
+            {"hi": "एक राजा के लिए", "en": "For a king"},
+            {"hi": "एक प्रमुख वैदिक समूह (लोगों) के लिए", "en": "For a major Vedic group (people)"},
+            {"hi": "एक नदी के लिए", "en": "For a river"},
+            {"hi": "एक पर्वत के लिए", "en": "For a mountain"}
           ],
-          "answer": {
-            "hi": "संदर्भ बिंदु से दूरी",
-            "en": "distance from reference point"
-          }
+          "answer": {"hi": "एक प्रमुख वैदिक समूह (लोगों) के लिए", "en": "For a major Vedic group (people)"}
         },
         {
           "q": {
-            "hi": "कोई वस्तु गति (Motion) में तब कही जाती है जब:",
-            "en": "An object is said to be in motion when:"
+            "hi": "महाभारत में केरल और कश्मीर जैसे क्षेत्रों को क्या माना गया है?",
+            "en": "What are regions like Kerala and Kashmir considered in the Mahabharata?"
           },
           "options": [
-            {
-              "hi": "वह बहुत तेज चलती है",
-              "en": "she walks very fast"
-            },
-            {
-              "hi": "संदर्भ बिंदु के सापेक्ष उसकी स्थिति समय के साथ बदलती है",
-              "en": "Its position relative to the reference point changes with time"
-            },
-            {
-              "hi": "उसका आकार बदलता है",
-              "en": "changes its shape"
-            },
-            {
-              "hi": "वह स्थिर रहती है",
-              "en": "she stands still"
-            }
+            {"hi": "अलग देश", "en": "Different countries"},
+            {"hi": "भारतवर्ष के हिस्से", "en": "Parts of Bharatvarsha"},
+            {"hi": "द्वीप", "en": "Islands"},
+            {"hi": "पहाड़ी कबीले", "en": "Hill tribes"}
           ],
-          "answer": {
-            "hi": "संदर्भ बिंदु के सापेक्ष उसकी स्थिति समय के साथ बदलती है",
-            "en": "Its position relative to the reference point changes with time"
-          }
+          "answer": {"hi": "भारतवर्ष के हिस्से", "en": "Parts of Bharatvarsha"}
         },
         {
           "q": {
-            "hi": "यदि किसी संदर्भ बिंदु के सापेक्ष वस्तु की स्थिति समय के साथ नहीं बदलती है, तो वह वस्तु:",
-            "en": "If the position of an object relative to a reference point does not change with time, then the object:"
+            "hi": "दक्षिण भारत में 'भारत' नाम को सामान्यतः कैसे लिखा जाता है?",
+            "en": "How is the name 'Bharat' commonly written in South India?"
           },
           "options": [
-            {
-              "hi": "गति में है",
-              "en": "is in motion"
-            },
-            {
-              "hi": "स्थिर (विराम अवस्था) में है",
-              "en": "is at rest"
-            },
-            {
-              "hi": "अदृश्य है",
-              "en": "is invisible"
-            },
-            {
-              "hi": "त्वरित है",
-              "en": "is quick"
-            }
+            {"hi": "भारतम", "en": "Bharatam"},
+            {"hi": "भारतवर्षम", "en": "Bharatvarsham"},
+            {"hi": "भारती", "en": "Bharati"},
+            {"hi": "भाराद", "en": "Bharad"}
           ],
-          "answer": {
-            "hi": "स्थिर (विराम अवस्था) में है",
-            "en": "is at rest"
-          }
+          "answer": {"hi": "भारतम", "en": "Bharatam"}
         },
         {
           "q": {
-            "hi": "बस में बैठे यात्रियों के लिए, यदि बस को संदर्भ बिंदु माना जाए, तो यात्री किस अवस्था में हैं?",
-            "en": "For the passengers sitting on the bus, if the bus is considered as the reference point, what state are the passengers in?"
+            "hi": "'केप कुमारी' को आज किस नाम से जाना जाता है?",
+            "en": "By what name is 'Cape Kumari' known today?"
           },
           "options": [
-            {
-              "hi": "गतिशील",
-              "en": "dynamic"
-            },
-            {
-              "hi": "स्थिर",
-              "en": "steady"
-            },
-            {
-              "hi": "दोलायमान",
-              "en": "oscillating"
-            },
-            {
-              "hi": "वृत्तीय",
-              "en": "circular"
-            }
+            {"hi": "कोचीन", "en": "Cochin"},
+            {"hi": "कन्याकुमारी", "en": "Kanyakumari"},
+            {"hi": "रामेश्वरम", "en": "Rameswaram"},
+            {"hi": "चेन्नई", "en": "Chennai"}
           ],
-          "answer": {
-            "hi": "स्थिर",
-            "en": "steady"
-          }
+          "answer": {"hi": "कन्याकुमारी", "en": "Kanyakumari"}
         },
         {
           "q": {
-            "hi": "जब कोई वस्तु सरल रेखा के अनुदिश (सीधी रेखा में) गति करती है, तो उसे क्या कहते हैं?",
-            "en": "When an object moves along a straight line (in a straight line), what is it called?"
+            "hi": "छठी शताब्दी सा.सं.पू. में किस विदेशी साम्राज्य ने सिंधु क्षेत्र पर नियंत्रण किया था?",
+            "en": "Which foreign empire controlled the Indus region in the 6th century B.C.E.?"
           },
           "options": [
-            {
-              "hi": "वृत्तीय गति",
-              "en": "circular motion"
-            },
-            {
-              "hi": "दोलन-गति",
-              "en": "oscillatory motion"
-            },
-            {
-              "hi": "सरल रेखीय गति",
-              "en": "rectilinear motion"
-            },
-            {
-              "hi": "आवर्ती गति",
-              "en": "periodic motion"
-            }
+            {"hi": "रोमन", "en": "Roman"},
+            {"hi": "फारसी (Persian)", "en": "Persian"},
+            {"hi": "मंगोल", "en": "Mongol"},
+            {"hi": "ब्रिटिश", "en": "British"}
           ],
-          "answer": {
-            "hi": "सरल रेखीय गति",
-            "en": "rectilinear motion"
-          }
+          "answer": {"hi": "फारसी (Persian)", "en": "Persian"}
         },
         {
           "q": {
-            "hi": "गणतंत्र दिवस की परेड में सैनिकों का 'मार्च पास्ट' किस गति का उदाहरण है?",
-            "en": "The 'march past' of soldiers in the Republic Day parade is an example of which movement?"
+            "hi": "यूनानी शब्द 'इंडिके' (Indike) किस मूल शब्द का रूपांतरण है?",
+            "en": "The Greek word 'Indike' is a transformation of which original word?"
           },
           "options": [
-            {
-              "hi": "सरल रेखीय गति",
-              "en": "rectilinear motion"
-            },
-            {
-              "hi": "वृत्तीय गति",
-              "en": "circular motion"
-            },
-            {
-              "hi": "दोलन-गति",
-              "en": "oscillatory motion"
-            },
-            {
-              "hi": "अनियमित गति",
-              "en": "irregular motion"
-            }
+            {"hi": "गंगा", "en": "Ganga"},
+            {"hi": "हिंदू", "en": "Hindu"},
+            {"hi": "भारत", "en": "Bharat"},
+            {"hi": "यिन्दू", "en": "Yindu"}
           ],
-          "answer": {
-            "hi": "सरल रेखीय गति",
-            "en": "rectilinear motion"
-          }
+          "answer": {"hi": "हिंदू", "en": "Hindu"}
         },
         {
           "q": {
-            "hi": "पेड़ से गिरते हुए संतरे की गति किस प्रकार की होती है?",
-            "en": "What kind of motion does an orange have when falling from a tree?"
+            "hi": "जुआनजेंग ने भारत में कितने वर्ष बिताए थे?",
+            "en": "How many years did Xuanzang spend in India?"
           },
           "options": [
-            {
-              "hi": "वृत्तीय",
-              "en": "circular"
-            },
-            {
-              "hi": "सरल रेखीय",
-              "en": "rectilinear"
-            },
-            {
-              "hi": "आवर्ती",
-              "en": "recurring"
-            },
-            {
-              "hi": "दोलायमान",
-              "en": "oscillating"
-            }
+            {"hi": "5 वर्ष", "en": "5 years"},
+            {"hi": "10 वर्ष", "en": "10 years"},
+            {"hi": "17 वर्ष", "en": "17 years"},
+            {"hi": "25 वर्ष", "en": "25 years"}
           ],
-          "answer": {
-            "hi": "सरल रेखीय",
-            "en": "rectilinear"
-          }
+          "answer": {"hi": "17 वर्ष", "en": "17 years"}
         },
         {
           "q": {
-            "hi": "किसी सीधी सड़क पर चलती कार की गति का प्रकार है:",
-            "en": "The type of motion of a car moving on a straight road is:"
+            "hi": "भारत की आध्यात्मिक और सांस्कृतिक एकता का विचार किसने दिया जो उद्धरण में है?",
+            "en": "Who gave the idea of India's spiritual and cultural unity mentioned in the quote?"
           },
           "options": [
-            {
-              "hi": "दोलन",
-              "en": "oscillation"
-            },
-            {
-              "hi": "वृत्तीय",
-              "en": "circular"
-            },
-            {
-              "hi": "सरल रेखीय",
-              "en": "rectilinear"
-            },
-            {
-              "hi": "कोई नहीं",
-              "en": "nobody"
-            }
+            {"hi": "स्वामी विवेकानंद", "en": "Swami Vivekananda"},
+            {"hi": "श्री अरविंद", "en": "Sri Aurobindo"},
+            {"hi": "रवींद्रनाथ टैगोर", "en": "Rabindranath Tagore"},
+            {"hi": "जवाहरलाल नेहरू", "en": "Jawaharlal Nehru"}
           ],
-          "answer": {
-            "hi": "सरल रेखीय",
-            "en": "rectilinear"
-          }
+          "answer": {"hi": "श्री अरविंद", "en": "Sri Aurobindo"}
         },
         {
           "q": {
-            "hi": "इनमें से कौन सी वस्तु स्थिर (Rest) अवस्था का उदाहरण है?",
-            "en": "Which of the following objects is an example of a state of rest?"
+            "hi": "प्राचीन काल में भारत को 'बुद्ध की भूमि' के रूप में कौन अत्यधिक सम्मान देते थे?",
+            "en": "In ancient times, who gave high respect to India as the 'Land of Buddha'?"
           },
           "options": [
-            {
-              "hi": "उड़ती तितली",
-              "en": "flying butterfly"
-            },
-            {
-              "hi": "खेत में चरती गाय",
-              "en": "cow grazing in the field"
-            },
-            {
-              "hi": "भवन",
-              "en": "building"
-            },
-            {
-              "hi": "चलती बस",
-              "en": "moving bus"
-            }
+            {"hi": "यूनानी", "en": "Greeks"},
+            {"hi": "चीनी", "en": "Chinese"},
+            {"hi": "ईरानी", "en": "Persians"},
+            {"hi": "रोमन", "en": "Romans"}
           ],
-          "answer": {
-            "hi": "भवन",
-            "en": "building"
-          }
+          "answer": {"hi": "चीनी", "en": "Chinese"}
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "जब कोई वस्तु वृत्तीय पथ के अनुदिश गति करती है, तो वह कहलाती है:",
-            "en": "When an object moves along a circular path, it is called:"
+            "hi": "महाभारत में असम के किस भाग को 'प्राग्ज्योतिष' कहा गया है?",
+            "en": "Which part of Assam is called 'Pragjyotisha' in the Mahabharata?"
           },
           "options": [
-            {
-              "hi": "सरल रेखीय गति",
-              "en": "rectilinear motion"
-            },
-            {
-              "hi": "वृत्तीय गति",
-              "en": "circular motion"
-            },
-            {
-              "hi": "दोलन-गति",
-              "en": "oscillatory motion"
-            },
-            {
-              "hi": "सीधी गति",
-              "en": "straight motion"
-            }
+            {"hi": "दिसपुर", "en": "Dispur"},
+            {"hi": "कामरूप", "en": "Kamrup"},
+            {"hi": "प्राग्ज्योतिष", "en": "Pragjyotisha"},
+            {"hi": "सिलचर", "en": "Silchar"}
           ],
-          "answer": {
-            "hi": "वृत्तीय गति",
-            "en": "circular motion"
-          }
+          "answer": {"hi": "प्राग्ज्योतिष", "en": "Pragjyotisha"}
         },
         {
           "q": {
-            "hi": "घूमने वाले हिंडोले (Merry-go-round) की गति किस प्रकार की है?",
-            "en": "What type of motion is the merry-go-round?"
+            "hi": "महाभारत में हरियाणा के भाग को किस नाम से सूचीबद्ध किया गया है?",
+            "en": "By what name is the part of Haryana listed in the Mahabharata?"
           },
           "options": [
-            {
-              "hi": "सरल रेखीय",
-              "en": "rectilinear"
-            },
-            {
-              "hi": "वृत्तीय गति",
-              "en": "circular motion"
-            },
-            {
-              "hi": "दोलन-गति",
-              "en": "oscillatory motion"
-            },
-            {
-              "hi": "अस्थिर गति",
-              "en": "unsteady pace"
-            }
+            {"hi": "पानीपत", "en": "Panipat"},
+            {"hi": "कुरुक्षेत्र", "en": "Kurukshetra"},
+            {"hi": "हिसार", "en": "Hisar"},
+            {"hi": "रोहतक", "en": "Rohtak"}
           ],
-          "answer": {
-            "hi": "वृत्तीय गति",
-            "en": "circular motion"
-          }
+          "answer": {"hi": "कुरुक्षेत्र", "en": "Kurukshetra"}
         },
         {
           "q": {
-            "hi": "धागे से बंधे पत्थर को हाथ से गोल घुमाने पर पत्थर की गति क्या होगी?",
-            "en": "If a stone tied to a thread is rotated by hand, what will be the speed of the stone?"
+            "hi": "निम्नलिखित में से कौन सा नाम सिंधु नदी पर आधारित नहीं है?",
+            "en": "Which of the following names is NOT based on the Indus River?"
           },
           "options": [
-            {
-              "hi": "दोलन",
-              "en": "oscillation"
-            },
-            {
-              "hi": "वृत्तीय",
-              "en": "circular"
-            },
-            {
-              "hi": "सरल रेखीय",
-              "en": "rectilinear"
-            },
-            {
-              "hi": "विराम",
-              "en": "pause"
-            }
+            {"hi": "हिंदू", "en": "Hindu"},
+            {"hi": "इंडिया", "en": "India"},
+            {"hi": "जम्बूद्वीप", "en": "Jambudvipa"},
+            {"hi": "यिन्तू", "en": "Yintu"}
           ],
-          "answer": {
-            "hi": "वृत्तीय",
-            "en": "circular"
-          }
+          "answer": {"hi": "जम्बूद्वीप", "en": "Jambudvipa"}
         },
         {
           "q": {
-            "hi": "जब कोई वस्तु किसी नियत स्थिति के इधर-उधर (To and fro) गति करती है, तो उसे क्या कहते हैं?",
-            "en": "When an object moves to and fro from a fixed position, what is it called?"
+            "hi": "प्राचीन काल में लोग भारत की यात्रा क्यों करते थे?",
+            "en": "Why did people travel to India in ancient times?"
           },
           "options": [
-            {
-              "hi": "सरल रेखीय गति",
-              "en": "rectilinear motion"
-            },
-            {
-              "hi": "वृत्तीय गति",
-              "en": "circular motion"
-            },
-            {
-              "hi": "दोलन-गति",
-              "en": "oscillatory motion"
-            },
-            {
-              "hi": "अनियमित गति",
-              "en": "irregular motion"
-            }
+            {"hi": "व्यापार के लिए", "en": "For trade"},
+            {"hi": "ज्ञान और धर्म की खोज में", "en": "In search of knowledge and religion"},
+            {"hi": "आक्रमण के लिए", "en": "For invasion"},
+            {"hi": "उपर्युक्त सभी", "en": "All of the above"}
           ],
-          "answer": {
-            "hi": "दोलन-गति",
-            "en": "oscillatory motion"
-          }
+          "answer": {"hi": "उपर्युक्त सभी", "en": "All of the above"}
         },
         {
           "q": {
-            "hi": "झूले की गति किस प्रकार की गति का उदाहरण है?",
-            "en": "The motion of a swing is an example of what type of motion?"
+            "hi": "फ्रांसीसी भाषा में भारत को क्या कहा जाता है?",
+            "en": "What is India called in the French language?"
           },
           "options": [
-            {
-              "hi": "सरल रेखीय",
-              "en": "rectilinear"
-            },
-            {
-              "hi": "वृत्तीय",
-              "en": "circular"
-            },
-            {
-              "hi": "दोलन-गति",
-              "en": "oscillatory motion"
-            },
-            {
-              "hi": "विराम",
-              "en": "pause"
-            }
+            {"hi": "इन्डे (Inde)", "en": "Inde"},
+            {"hi": "इंडिया", "en": "India"},
+            {"hi": "हिंद", "en": "Hind"},
+            {"hi": "यिंदू", "en": "Yindu"}
           ],
-          "answer": {
-            "hi": "दोलन-गति",
-            "en": "oscillatory motion"
-          }
+          "answer": {"hi": "इन्डे (Inde)", "en": "Inde"}
         },
         {
           "q": {
-            "hi": "धागे से लटके हुए आलू या रबर की इधर-उधर की गति कहलाती है:",
-            "en": "The movement of a potato or rubber hanging from a thread to and fro is called:"
+            "hi": "अशोक के शिलालेखों के अनुसार जम्बूद्वीप में कौन सा आधुनिक देश शामिल नहीं था?",
+            "en": "According to Ashoka's inscriptions, which modern country was NOT part of Jambudvipa?"
           },
           "options": [
-            {
-              "hi": "वृत्तीय",
-              "en": "circular"
-            },
-            {
-              "hi": "दोलन",
-              "en": "oscillation"
-            },
-            {
-              "hi": "सरल रेखीय",
-              "en": "rectilinear"
-            },
-            {
-              "hi": "स्थिर",
-              "en": "steady"
-            }
+            {"hi": "पाकिस्तान", "en": "Pakistan"},
+            {"hi": "बांग्लादेश", "en": "Bangladesh"},
+            {"hi": "अफगानिस्तान", "en": "Afghanistan"},
+            {"hi": "जापान", "en": "Japan"}
           ],
-          "answer": {
-            "hi": "दोलन",
-            "en": "oscillation"
-          }
+          "answer": {"hi": "जापान", "en": "Japan"}
         },
         {
           "q": {
-            "hi": "मेज पर दबी हुई धातु की पट्टी के दूसरे छोर को दबाकर छोड़ने पर होने वाली गति है:",
-            "en": "The speed of pressing and releasing the other end of a metal strip pressed on the table is:"
+            "hi": "तमिल साहित्य के अनुसार भारत की पश्चिमी सीमा क्या थी?",
+            "en": "What was the western boundary of India according to Tamil literature?"
           },
           "options": [
-            {
-              "hi": "सरल रेखीय",
-              "en": "rectilinear"
-            },
-            {
-              "hi": "वृत्तीय",
-              "en": "circular"
-            },
-            {
-              "hi": "दोलन-गति",
-              "en": "oscillatory motion"
-            },
-            {
-              "hi": "कोई नहीं",
-              "en": "nobody"
-            }
+            {"hi": "हिमालय", "en": "Himalayas"},
+            {"hi": "पश्चिम का महासागर (अरब सागर)", "en": "The Ocean of the West (Arabian Sea)"},
+            {"hi": "सिंधु नदी", "en": "Indus River"},
+            {"hi": "थार मरुस्थल", "en": "Thar Desert"}
           ],
-          "answer": {
-            "hi": "दोलन-गति",
-            "en": "oscillatory motion"
-          }
+          "answer": {"hi": "पश्चिम का महासागर (अरब सागर)", "en": "The Ocean of the West (Arabian Sea)"}
         },
         {
           "q": {
-            "hi": "यदि कोई वस्तु एक निश्चित समय अंतराल के बाद अपनी गति दोहराती है, तो उसे क्या कहते हैं?",
-            "en": "If an object repeats its motion after a certain time interval, what is it called?"
+            "hi": "ऋग्वेद की आयु लगभग कितनी मानी जाती है?",
+            "en": "Approximately how old is the Rigveda considered to be?"
           },
           "options": [
-            {
-              "hi": "सरल रेखीय गति",
-              "en": "rectilinear motion"
-            },
-            {
-              "hi": "आवर्ती गति",
-              "en": "periodic motion"
-            },
-            {
-              "hi": "अनियमित गति",
-              "en": "irregular motion"
-            },
-            {
-              "hi": "स्थिर गति",
-              "en": "constant speed"
-            }
+            {"hi": "500 वर्ष", "en": "500 years"},
+            {"hi": "1000 वर्ष", "en": "1000 years"},
+            {"hi": "हजारों वर्ष", "en": "Thousands of years"},
+            {"hi": "200 वर्ष", "en": "200 years"}
           ],
-          "answer": {
-            "hi": "आवर्ती गति",
-            "en": "periodic motion"
-          }
+          "answer": {"hi": "हजारों वर्ष", "en": "Thousands of years"}
         },
         {
           "q": {
-            "hi": "वृत्तीय गति और दोलन-गति दोनों ही प्रकृति में कैसी होती हैं?",
-            "en": "How do both circular motion and oscillatory motion occur in nature?"
+            "hi": "साँची स्तूप का दृश्य कितने वर्ष पूर्व के भारत को दर्शाता है?",
+            "en": "The scene of Sanchi Stupa depicts India from how many years ago?"
           },
           "options": [
-            {
-              "hi": "सरल रेखीय",
-              "en": "rectilinear"
-            },
-            {
-              "hi": "आवर्ती गति",
-              "en": "periodic motion"
-            },
-            {
-              "hi": "विराम",
-              "en": "pause"
-            },
-            {
-              "hi": "अनिश्चित",
-              "en": "uncertain"
-            }
+            {"hi": "500 वर्ष", "en": "500 years"},
+            {"hi": "1000 वर्ष", "en": "1000 years"},
+            {"hi": "2300 वर्ष", "en": "2300 years"},
+            {"hi": "5000 वर्ष", "en": "5000 years"}
           ],
-          "answer": {
-            "hi": "आवर्ती गति",
-            "en": "periodic motion"
-          }
+          "answer": {"hi": "2300 वर्ष", "en": "2300 years"}
         },
         {
           "q": {
-            "hi": "घड़ी के पेंडुलम (लोलक) की गति किस श्रेणी में आती है?",
-            "en": "In which category does the movement of the clock's pendulum fall?"
+            "hi": "विष्णु पुराण के उद्धरण में 'हिमाद्रि' शब्द का क्या अर्थ है?",
+            "en": "What is the meaning of the word 'Himadri' in the Vishnu Purana quote?"
           },
           "options": [
-            {
-              "hi": "सरल रेखीय",
-              "en": "rectilinear"
-            },
-            {
-              "hi": "वृत्तीय",
-              "en": "circular"
-            },
-            {
-              "hi": "दोलन एवं आवर्ती",
-              "en": "oscillatory and periodic"
-            },
-            {
-              "hi": "स्थिर",
-              "en": "steady"
-            }
+            {"hi": "सागर", "en": "Ocean"},
+            {"hi": "हिमाच्छादित पर्वत (हिमालय)", "en": "Snow-capped mountains (Himalayas)"},
+            {"hi": "मैदान", "en": "Plains"},
+            {"hi": "आसमान", "en": "Sky"}
           ],
-          "answer": {
-            "hi": "दोलन एवं आवर्ती",
-            "en": "oscillatory and periodic"
-          }
+          "answer": {"hi": "हिमाच्छादित पर्वत (हिमालय)", "en": "Snow-capped mountains (Himalayas)"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "दिल्ली एवं लखनऊ के बीच की दूरी मापने के लिए सबसे उपयुक्त मात्रक है:",
-            "en": "The most suitable unit to measure the distance between Delhi and Lucknow is:"
+            "hi": "भारत का सबसे प्राचीन ग्रंथ कौन सा है?",
+            "en": "Which is the most ancient text of India?"
           },
           "options": [
-            {
-              "hi": "सेंटीमीटर",
-              "en": "centimeter"
-            },
-            {
-              "hi": "मिलीमीटर",
-              "en": "millimeter"
-            },
-            {
-              "hi": "किलोमीटर",
-              "en": "kilometers"
-            },
-            {
-              "hi": "मीटर",
-              "en": "meter"
-            }
+            {"hi": "महाभारत", "en": "Mahabharata"},
+            {"hi": "रामायण", "en": "Ramayana"},
+            {"hi": "ऋग्वेद", "en": "Rigveda"},
+            {"hi": "विष्णु पुराण", "en": "Vishnu Purana"}
           ],
-          "answer": {
-            "hi": "किलोमीटर",
-            "en": "kilometers"
-          }
+          "answer": {"hi": "ऋग्वेद", "en": "Rigveda"}
         },
         {
           "q": {
-            "hi": "सिक्के की मोटाई मापने के लिए किस मात्रक का उपयोग करना सुविधाजनक होगा?",
-            "en": "Which unit would be convenient to use to measure the thickness of a coin?"
+            "hi": "संविधान के हिंदी अनुवाद में 'India, that is Bharat' को क्या लिखा गया है?",
+            "en": "How is 'India, that is Bharat' written in the Hindi translation of the Constitution?"
           },
           "options": [
-            {
-              "hi": "मीटर",
-              "en": "meter"
-            },
-            {
-              "hi": "किलोमीटर",
-              "en": "kilometers"
-            },
-            {
-              "hi": "मिलीमीटर",
-              "en": "millimeter"
-            },
-            {
-              "hi": "सेंटीमीटर",
-              "en": "centimeter"
-            }
+            {"hi": "इंडिया और भारत", "en": "India and Bharat"},
+            {"hi": "भारत अर्थात इंडिया", "en": "Bharat arthat India"},
+            {"hi": "हिंदुस्तान ही भारत है", "en": "Hindustan is Bharat"},
+            {"hi": "आर्यावर्त", "en": "Aryavarta"}
           ],
-          "answer": {
-            "hi": "मिलीमीटर",
-            "en": "millimeter"
-          }
+          "answer": {"hi": "भारत अर्थात इंडिया", "en": "Bharat arthat India"}
         },
         {
           "q": {
-            "hi": "1.5 km को मीटर में व्यक्त करने पर क्या मान प्राप्त होगा?",
-            "en": "What value will be obtained by expressing 1.5 km in meters?"
+            "hi": "प्राचीन यूनानियों के पास अपनी भाषा में कौन सा अक्षर नहीं था?",
+            "en": "Which letter did the ancient Greeks not have in their language?"
           },
           "options": [
-            {
-              "hi": "150 m",
-              "en": "150m"
-            },
-            {
-              "hi": "1500 m",
-              "en": "1500m"
-            },
-            {
-              "hi": "15 m",
-              "en": "15 m"
-            },
-            {
-              "hi": "15000 m",
-              "en": "15000 m"
-            }
+            {"hi": "स (S)", "en": "S"},
+            {"hi": "ह (H)", "en": "H"},
+            {"hi": "त (T)", "en": "T"},
+            {"hi": "न (N)", "en": "N"}
           ],
-          "answer": {
-            "hi": "1500 m",
-            "en": "1500m"
-          }
+          "answer": {"hi": "ह (H)", "en": "H"}
         },
         {
           "q": {
-            "hi": "मापन में 'मात्रक' (Unit) का क्या अर्थ है?",
-            "en": "What is the meaning of 'unit' in measurement?"
+            "hi": "जम्बूद्वीप का पर्याय कौन सा क्षेत्र बन गया?",
+            "en": "Which region became synonymous with Jambudvipa?"
           },
           "options": [
-            {
-              "hi": "कोई भी संख्या",
-              "en": "any number"
-            },
-            {
-              "hi": "मापन के लिए चुना गया एक निश्चित मानक",
-              "en": "A fixed standard chosen for measurement"
-            },
-            {
-              "hi": "पैमाने का रंग",
-              "en": "scale color"
-            },
-            {
-              "hi": "वस्तु की मोटाई",
-              "en": "thickness of object"
-            }
+            {"hi": "यूरोप", "en": "Europe"},
+            {"hi": "अफ्रीका", "en": "Africa"},
+            {"hi": "भारतीय उपमहाद्वीप", "en": "Indian Subcontinent"},
+            {"hi": "ऑस्ट्रेलिया", "en": "Australia"}
           ],
-          "answer": {
-            "hi": "मापन के लिए चुना गया एक निश्चित मानक",
-            "en": "A fixed standard chosen for measurement"
-          }
+          "answer": {"hi": "भारतीय उपमहाद्वीप", "en": "Indian Subcontinent"}
         },
         {
           "q": {
-            "hi": "SI मात्रक प्रणाली का पूरा नाम क्या है?",
-            "en": "What is the full name of SI unit system?"
+            "hi": "विदेशी यात्रियों के यात्रा वृत्तांत हमें किसके बारे में जानकारी देते हैं?",
+            "en": "Travelogues of foreign travelers give us information about what?"
           },
           "options": [
-            {
-              "hi": "सिस्टम ऑफ इंडिया",
-              "en": "System of India"
-            },
-            {
-              "hi": "इंटरनेशनल सिस्टम ऑफ यूनिट्स",
-              "en": "International System of Units"
-            },
-            {
-              "hi": "स्टैंडर्ड इंडियन यूनिट्स",
-              "en": "Standard Indian Units"
-            },
-            {
-              "hi": "सिंपल इंटरनेशनल यूनिट्स",
-              "en": "Simple International Units"
-            }
+            {"hi": "भविष्य के बारे में", "en": "About the future"},
+            {"hi": "भारत के अतीत और विकास के बारे में", "en": "About India's past and development"},
+            {"hi": "दूसरे ग्रहों के बारे में", "en": "About other planets"},
+            {"hi": "केवल आधुनिक शहरों के बारे में", "en": "Only about modern cities"}
           ],
-          "answer": {
-            "hi": "इंटरनेशनल सिस्टम ऑफ यूनिट्स",
-            "en": "International System of Units"
-          }
+          "answer": {"hi": "भारत के अतीत और विकास के बारे में", "en": "About India's past and development"}
         },
         {
           "q": {
-            "hi": "इनमें से कौन सा लंबाई मापने का मानक मात्रक 'नहीं' है?",
-            "en": "Which of the following is not a standard unit of measurement of length?"
+            "hi": "महाभारत में 'वंग' किस क्षेत्र को कहा गया है?",
+            "en": "Which region is called 'Vanga' in the Mahabharata?"
           },
           "options": [
-            {
-              "hi": "मिलीमीटर",
-              "en": "millimeter"
-            },
-            {
-              "hi": "सेंटीमीटर",
-              "en": "centimeter"
-            },
-            {
-              "hi": "बालिश्त",
-              "en": "Balisht"
-            },
-            {
-              "hi": "मीटर",
-              "en": "meter"
-            }
+            {"hi": "बिहार", "en": "Bihar"},
+            {"hi": "उड़ीसा", "en": "Odisha"},
+            {"hi": "बंगाल", "en": "Bengal"},
+            {"hi": "गुजरात", "en": "Gujarat"}
           ],
-          "answer": {
-            "hi": "बालिश्त",
-            "en": "Balisht"
-          }
+          "answer": {"hi": "बंगाल", "en": "Bengal"}
         },
         {
           "q": {
-            "hi": "साइकिल के पहिए द्वारा तय की गई दूरी ज्ञात करने के लिए क्या आवश्यक है?",
-            "en": "What is required to find the distance covered by a bicycle wheel?"
+            "hi": "क्या प्राचीन फारसी में 'हिंदू' शब्द का प्रयोग धर्म के लिए किया गया था?",
+            "en": "Was the word 'Hindu' used for religion in ancient Persian?"
           },
           "options": [
-            {
-              "hi": "पहिए का रंग",
-              "en": "wheel color"
-            },
-            {
-              "hi": "पहिए की परिधि और घूमने की संख्या",
-              "en": "Wheel circumference and number of revolutions"
-            },
-            {
-              "hi": "साइकिल की कंपनी",
-              "en": "bicycle company"
-            },
-            {
-              "hi": "हवा का दबाव",
-              "en": "air pressure"
-            }
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं, यह भौगोलिक था", "en": "No, it was geographical"},
+            {"hi": "केवल राजा के लिए", "en": "Only for the king"},
+            {"hi": "पता नहीं", "en": "Don't know"}
           ],
-          "answer": {
-            "hi": "पहिए की परिधि और घूमने की संख्या",
-            "en": "Wheel circumference and number of revolutions"
-          }
+          "answer": {"hi": "नहीं, यह भौगोलिक था", "en": "No, it was geographical"}
         },
         {
           "q": {
-            "hi": "किसी पुस्तक के पृष्ठ की मोटाई मापने के लिए किसका उपयोग करना बेहतर है?",
-            "en": "Which is better to use to measure the thickness of a book page?"
+            "hi": "भारत को 'भारतीय उपमहाद्वीप' क्यों कहा जाता है?",
+            "en": "Why is India called the 'Indian Subcontinent'?"
           },
           "options": [
-            {
-              "hi": "किलोमीटर",
-              "en": "kilometers"
-            },
-            {
-              "hi": "मिलीमीटर",
-              "en": "millimeter"
-            },
-            {
-              "hi": "बालिश्त",
-              "en": "Balisht"
-            },
-            {
-              "hi": "कदम",
-              "en": "step"
-            }
+            {"hi": "यह बहुत छोटा है", "en": "It is very small"},
+            {"hi": "इसकी अपनी स्पष्ट भौगोलिक और सांस्कृतिक पहचान है", "en": "It has its own distinct geographical and cultural identity"},
+            {"hi": "यह एक द्वीप है", "en": "It is an island"},
+            {"hi": "यहाँ नदियाँ नहीं हैं", "en": "There are no rivers here"}
           ],
-          "answer": {
-            "hi": "मिलीमीटर",
-            "en": "millimeter"
-          }
+          "answer": {"hi": "इसकी अपनी स्पष्ट भौगोलिक और सांस्कृतिक पहचान है", "en": "It has its own distinct geographical and cultural identity"}
         },
         {
           "q": {
-            "hi": "हरियाणा की दीपा की उम्र अध्याय के आरंभ में कितनी बताई गई है?",
-            "en": "What is the age of Deepa from Haryana mentioned in the beginning of the chapter?"
+            "hi": "ऋग्वेद में 'सिंधु' शब्द का सामान्य आशय क्या है?",
+            "en": "What is the general meaning of the word 'Sindhu' in Rigveda?"
           },
           "options": [
-            {
-              "hi": "10 वर्ष",
-              "en": "10 years"
-            },
-            {
-              "hi": "11 वर्ष",
-              "en": "11 years"
-            },
-            {
-              "hi": "12 वर्ष",
-              "en": "12 years"
-            },
-            {
-              "hi": "15 वर्ष",
-              "en": "15 years"
-            }
+            {"hi": "पर्वत", "en": "Mountain"},
+            {"hi": "नदी", "en": "River"},
+            {"hi": "आकाश", "en": "Sky"},
+            {"hi": "समुद्र", "en": "Sea"}
           ],
-          "answer": {
-            "hi": "11 वर्ष",
-            "en": "11 years"
-          }
+          "answer": {"hi": "नदी", "en": "River"}
         },
         {
           "q": {
-            "hi": "पैमाने का उपयोग करते समय शून्य (0) चिह्न को वस्तु के किस सिरे पर रखना चाहिए?",
-            "en": "While using a scale, at which end of the object should the zero (0) mark be placed?"
+            "hi": "आधुनिक राष्ट्र के रूप में भारत की क्या विशेषताएँ हैं?",
+            "en": "What are the characteristics of India as a modern nation?"
           },
           "options": [
-            {
-              "hi": "मध्य में",
-              "en": "in the middle"
-            },
-            {
-              "hi": "प्रारंभिक सिरे पर",
-              "en": "at the beginning end"
-            },
-            {
-              "hi": "अंतिम सिरे पर",
-              "en": "at the end"
-            },
-            {
-              "hi": "कहीं भी",
-              "en": "anywhere"
-            }
+            {"hi": "परिभाषित सीमाएँ", "en": "Defined boundaries"},
+            {"hi": "राज्य", "en": "States"},
+            {"hi": "ज्ञात जनसंख्या", "en": "Known population"},
+            {"hi": "उपर्युक्त सभी", "en": "All of the above"}
           ],
-          "answer": {
-            "hi": "प्रारंभिक सिरे पर",
-            "en": "at the beginning end"
-          }
+          "answer": {"hi": "उपर्युक्त सभी", "en": "All of the above"}
         }
       ]
     },
