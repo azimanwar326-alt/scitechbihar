@@ -1328,1411 +1328,661 @@
       "section1": [
         {
           "q": {
-            "hi": "संस्कृत सूक्ति 'अन्नेन जातानि जीवन्ति' का अर्थ क्या है?",
-            "en": "What is the meaning of the Sanskrit aphorism 'Annen Jaatani Jeevanti'?"
+            "hi": "पृथ्वी की सतह के भौतिक स्वरूप को व्यापक रूप से कितनी श्रेणियों में बाँटा जा सकता है?",
+            "en": "Into how many broad categories can the physical forms of the Earth's surface be divided?"
           },
           "options": [
-            {
-              "hi": "आहार जीवित प्राणियों को जीवन देता है",
-              "en": "Food gives life to living beings"
-            },
-            {
-              "hi": "भोजन ही सब कुछ है",
-              "en": "food is everything"
-            },
-            {
-              "hi": "बिना भोजन के जीवन संभव है",
-              "en": "life is possible without food"
-            },
-            {
-              "hi": "भोजन केवल स्वाद के लिए है",
-              "en": "food is only for taste"
-            }
+            {"hi": "दो", "en": "Two"},
+            {"hi": "तीन", "en": "Three"},
+            {"hi": "चार", "en": "Four"},
+            {"hi": "पाँच", "en": "Five"}
           ],
-          "answer": {
-            "hi": "आहार जीवित प्राणियों को जीवन देता है",
-            "en": "Food gives life to living beings"
-          }
+          "answer": {"hi": "तीन", "en": "Three"}
         },
         {
           "q": {
-            "hi": "किसी क्षेत्र का पारंपरिक आहार मुख्य रूप से किस पर आधारित होता है?",
-            "en": "What is the traditional diet of a region mainly based on?"
+            "hi": "समुद्र तल से किसी वस्तु या लक्ष्य की ऊँचाई को क्या कहा जाता है?",
+            "en": "What is the height of an object or target from sea level called?"
           },
           "options": [
-            {
-              "hi": "विदेशी आयात पर",
-              "en": "on foreign imports"
-            },
-            {
-              "hi": "स्थानीय स्तर पर उगाई जाने वाली फसलों पर",
-              "en": "on locally grown crops"
-            },
-            {
-              "hi": "डिब्बाबंद भोजन पर",
-              "en": "on canned food"
-            },
-            {
-              "hi": "केवल जंक फूड पर",
-              "en": "only on junk food"
-            }
+            {"hi": "अक्षांश", "en": "Latitude"},
+            {"hi": "तुंगता (एल्टीट्यूड)", "en": "Altitude"},
+            {"hi": "गहराई", "en": "Depth"},
+            {"hi": "चौड़ाई", "en": "Width"}
           ],
-          "answer": {
-            "hi": "स्थानीय स्तर पर उगाई जाने वाली फसलों पर",
-            "en": "on locally grown crops"
-          }
+          "answer": {"hi": "तुंगता (एल्टीट्यूड)", "en": "Altitude"}
         },
         {
           "q": {
-            "hi": "पंजाब का मुख्य पारंपरिक खाद्य पदार्थ कौन सा है?",
-            "en": "Which is the main traditional food item of Punjab?"
+            "hi": "वायुमंडल से भूमि पर किसी भी रूप में जल के गिरने को क्या कहते हैं?",
+            "en": "What is the falling of water in any form from the atmosphere to the ground called?"
           },
           "options": [
-            {
-              "hi": "इडली-डोसा",
-              "en": "Idli-Dosa"
-            },
-            {
-              "hi": "मक्के की रोटी और सरसों का साग",
-              "en": "Corn bread and mustard greens"
-            },
-            {
-              "hi": "मछली और चावल",
-              "en": "fish and rice"
-            },
-            {
-              "hi": "इरोम्बा",
-              "en": "Iromba"
-            }
+            {"hi": "वाष्पीकरण", "en": "Evaporation"},
+            {"hi": "वर्षण", "en": "Precipitation"},
+            {"hi": "संघनन", "en": "Condensation"},
+            {"hi": "अपवाह", "en": "Runoff"}
           ],
-          "answer": {
-            "hi": "मक्के की रोटी और सरसों का साग",
-            "en": "Corn bread and mustard greens"
-          }
+          "answer": {"hi": "वर्षण", "en": "Precipitation"}
         },
         {
           "q": {
-            "hi": "कर्नाटक में स्थानीय स्तर पर कौन सी फसल उगाई जाती है?",
-            "en": "Which crop is grown locally in Karnataka?"
+            "hi": "विश्व का सबसे ऊँचा पर्वत शिखर कौन-सा है?",
+            "en": "Which is the highest mountain peak in the world?"
           },
           "options": [
-            {
-              "hi": "सरसों",
-              "en": "Mustard"
-            },
-            {
-              "hi": "रागी और नारियल",
-              "en": "Ragi and Coconut"
-            },
-            {
-              "hi": "बाँस",
-              "en": "bamboo"
-            },
-            {
-              "hi": "मक्का",
-              "en": "Maize"
-            }
+            {"hi": "कंचनजंगा", "en": "Kanchenjunga"},
+            {"hi": "एवरेस्ट", "en": "Everest"},
+            {"hi": "अकोंकागुआ", "en": "Aconcagua"},
+            {"hi": "किलिमंजारो", "en": "Kilimanjaro"}
           ],
-          "answer": {
-            "hi": "रागी और नारियल",
-            "en": "Ragi and Coconut"
-          }
+          "answer": {"hi": "एवरेस्ट", "en": "Everest"}
         },
         {
           "q": {
-            "hi": "मणिपुर के पारंपरिक पेय का नाम क्या है?",
-            "en": "What is the name of the traditional drink of Manipur?"
+            "hi": "कम ऊँचाई वाले वे ऊँचे स्थान जिनके शीर्ष गोल आकार के होते हैं, क्या कहलाते हैं?",
+            "en": "What are low-height elevated places with rounded tops called?"
           },
           "options": [
-            {
-              "hi": "लस्सी",
-              "en": "Lassi"
-            },
-            {
-              "hi": "कॉफी",
-              "en": "coffee"
-            },
-            {
-              "hi": "बिना दूध की चाय",
-              "en": "tea without milk"
-            },
-            {
-              "hi": "छाछ",
-              "en": "buttermilk"
-            }
+            {"hi": "मैदान", "en": "Plains"},
+            {"hi": "पहाड़ी (हिल)", "en": "Hill"},
+            {"hi": "पठार", "en": "Plateau"},
+            {"hi": "घाटी", "en": "Valley"}
           ],
-          "answer": {
-            "hi": "बिना दूध की चाय",
-            "en": "tea without milk"
-          }
+          "answer": {"hi": "पहाड़ी (हिल)", "en": "Hill"}
         },
         {
           "q": {
-            "hi": "पुराने समय में अनाज या मसाले पीसने के लिए किसका उपयोग किया जाता था?",
-            "en": "What was used for grinding grains or spices in ancient times?"
+            "hi": "एवरेस्ट गिरिशृंग की ऊँचाई कितनी है?",
+            "en": "What is the height of Everest peak?"
           },
           "options": [
-            {
-              "hi": "इलेक्ट्रिक ग्राइंडर",
-              "en": "electric grinder"
-            },
-            {
-              "hi": "मिक्सर",
-              "en": "mixer"
-            },
-            {
-              "hi": "सिल-बट्टा",
-              "en": "Grinding Stone"
-            },
-            {
-              "hi": "माइक्रोवेव",
-              "en": "microwave"
-            }
+            {"hi": "8848 मीटर", "en": "8848 meters"},
+            {"hi": "8849 मीटर", "en": "8849 meters"},
+            {"hi": "8611 मीटर", "en": "8611 meters"},
+            {"hi": "8586 मीटर", "en": "8586 meters"}
           ],
-          "answer": {
-            "hi": "सिल-बट्टा",
-            "en": "Grinding Stone"
-          }
+          "answer": {"hi": "8849 मीटर", "en": "8849 meters"}
         },
         {
           "q": {
-            "hi": "आधुनिक समय में भोजन पकाने के लिए अधिकांश लोग किसका उपयोग करते हैं?",
-            "en": "What do most people use to cook food in modern times?"
+            "hi": "नेपाल निवासी एवरेस्ट को किस नाम से पुकारते हैं?",
+            "en": "By what name do the people of Nepal call Everest?"
           },
           "options": [
-            {
-              "hi": "मिट्टी का चूल्हा",
-              "en": "clay stove"
-            },
-            {
-              "hi": "आधुनिक गैस चूल्हा",
-              "en": "modern gas stove"
-            },
-            {
-              "hi": "लकड़ी की आग",
-              "en": "wood fire"
-            },
-            {
-              "hi": "सौर ऊर्जा",
-              "en": "solar energy"
-            }
+            {"hi": "चोमोलुंगमा", "en": "Chomolungma"},
+            {"hi": "सागरमाथा", "en": "Sagarmatha"},
+            {"hi": "नंदा देवी", "en": "Nanda Devi"},
+            {"hi": "अनाईमुडी", "en": "Anaimudi"}
           ],
-          "answer": {
-            "hi": "आधुनिक गैस चूल्हा",
-            "en": "modern gas stove"
-          }
+          "answer": {"hi": "सागरमाथा", "en": "Sagarmatha"}
         },
         {
           "q": {
-            "hi": "भारत कैसा देश है जहाँ मृदा और जलवायु विविध प्रकार की होती है?",
-            "en": "What kind of country is India where there are diverse types of soil and climate?"
+            "hi": "दक्षिण भारत का सबसे ऊँचा गिरिशृंग कौन-सा है?",
+            "en": "Which is the highest peak of South India?"
           },
           "options": [
-            {
-              "hi": "औद्योगिक",
-              "en": "industrial"
-            },
-            {
-              "hi": "कृषि प्रधान",
-              "en": "Agriculture dominated"
-            },
-            {
-              "hi": "रेगिस्तानी",
-              "en": "desert"
-            },
-            {
-              "hi": "पहाड़ी",
-              "en": "hill"
-            }
+            {"hi": "महेंद्रगिरी", "en": "Mahendragiri"},
+            {"hi": "डोडाबेट्टा", "en": "Doddabetta"},
+            {"hi": "अनाईमुडी", "en": "Anaimudi"},
+            {"hi": "कलसुबाई", "en": "Kalsubai"}
           ],
-          "answer": {
-            "hi": "कृषि प्रधान",
-            "en": "Agriculture dominated"
-          }
+          "answer": {"hi": "अनाईमुडी", "en": "Anaimudi"}
         },
         {
           "q": {
-            "hi": "पाक पद्धतियों में परिवर्तन के प्रमुख कारण क्या हो सकते हैं?",
-            "en": "What could be the main reasons for change in culinary methods?"
+            "hi": "पर्वतों की ढलानों पर सामान्यतः किस प्रकार के वन पाए जाते हैं?",
+            "en": "Which type of forests are generally found on mountain slopes?"
           },
           "options": [
-            {
-              "hi": "केवल स्वाद",
-              "en": "just taste"
-            },
-            {
-              "hi": "तकनीकी विकास और बेहतर परिवहन",
-              "en": "Technological development and better transportation"
-            },
-            {
-              "hi": "पुराना फैशन",
-              "en": "old fashion"
-            },
-            {
-              "hi": "मिट्टी की कमी",
-              "en": "soil deficiency"
-            }
+            {"hi": "सदाबहार वन", "en": "Evergreen forests"},
+            {"hi": "शंकुधारी वन", "en": "Coniferous forests"},
+            {"hi": "मैंग्रोव वन", "en": "Mangrove forests"},
+            {"hi": "कांटेदार वन", "en": "Thorny forests"}
           ],
-          "answer": {
-            "hi": "तकनीकी विकास और बेहतर परिवहन",
-            "en": "Technological development and better transportation"
-          }
+          "answer": {"hi": "शंकुधारी वन", "en": "Coniferous forests"}
         },
         {
           "q": {
-            "hi": "मेदू और मिष्टी ने विद्यालय के नोटिस बोर्ड पर क्या पढ़ा?",
-            "en": "What did Medu and Mishti read on the school notice board?"
+            "hi": "इनमें से कौन-सा एक नवीन पर्वत का उदाहरण है?",
+            "en": "Which of these is an example of a young fold mountain?"
           },
           "options": [
-            {
-              "hi": "खेल समाचार",
-              "en": "sports news"
-            },
-            {
-              "hi": "आज का विचार",
-              "en": "today's thought"
-            },
-            {
-              "hi": "छुट्टी की घोषणा",
-              "en": "declaration of holiday"
-            },
-            {
-              "hi": "परीक्षा परिणाम",
-              "en": "Test result"
-            }
+            {"hi": "अरावली", "en": "Aravalli"},
+            {"hi": "हिमालय", "en": "Himalayas"},
+            {"hi": "विंध्यांचल", "en": "Vindhyanchal"},
+            {"hi": "सतपुड़ा", "en": "Satpura"}
           ],
-          "answer": {
-            "hi": "आज का विचार",
-            "en": "today's thought"
-          }
+          "answer": {"hi": "हिमालय", "en": "Himalayas"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "शरीर को तुरंत ऊर्जा प्रदान करने वाला पोषक तत्व कौन सा है?",
-            "en": "Which is the nutrient that provides instant energy to the body?"
+            "hi": "चट्टानों या पेड़ों से चिपके रहने वाले 'पौधे के समान जीव' क्या कहलाते हैं?",
+            "en": "What are 'plant-like organisms' that stick to rocks or trees called?"
           },
           "options": [
-            {
-              "hi": "प्रोटीन",
-              "en": "protein"
-            },
-            {
-              "hi": "विटामिन",
-              "en": "vitamins"
-            },
-            {
-              "hi": "वसा",
-              "en": "fat"
-            },
-            {
-              "hi": "ग्लूकोस (कार्बोहाइड्रेट)",
-              "en": "glucose (carbohydrate)"
-            }
+            {"hi": "मॉस", "en": "Moss"},
+            {"hi": "लाइकेन", "en": "Lichen"},
+            {"hi": "देवदार", "en": "Cedar"},
+            {"hi": "घास", "en": "Grass"}
           ],
-          "answer": {
-            "hi": "ग्लूकोस (कार्बोहाइड्रेट)",
-            "en": "glucose (carbohydrate)"
-          }
+          "answer": {"hi": "लाइकेन", "en": "Lichen"}
         },
         {
           "q": {
-            "hi": "कार्बोहाइड्रेट का एक प्रमुख स्रोत इनमें से कौन सा है?",
-            "en": "Which of the following is a major source of carbohydrates?"
+            "hi": "पर्वतों के बीच के निचले क्षेत्र को क्या कहते हैं जहाँ से जलधारा बहती है?",
+            "en": "What is the low area between mountains where a stream flows called?"
           },
           "options": [
-            {
-              "hi": "मछली",
-              "en": "fish"
-            },
-            {
-              "hi": "आलू",
-              "en": "Potato"
-            },
-            {
-              "hi": "पनीर",
-              "en": "Cheese"
-            },
-            {
-              "hi": "अंडा",
-              "en": "Egg"
-            }
+            {"hi": "पठार", "en": "Plateau"},
+            {"hi": "मैदान", "en": "Plain"},
+            {"hi": "घाटी", "en": "Valley"},
+            {"hi": "चोटी", "en": "Peak"}
           ],
-          "answer": {
-            "hi": "आलू",
-            "en": "Potato"
-          }
+          "answer": {"hi": "घाटी", "en": "Valley"}
         },
         {
           "q": {
-            "hi": "घी और मक्खन किस पोषक तत्व के उदाहरण हैं?",
-            "en": "Ghee and butter are examples of which nutrient?"
+            "hi": "एवरेस्ट गिरिशृंग पर चढ़ने वाली प्रथम भारतीय महिला कौन थीं?",
+            "en": "Who was the first Indian woman to climb Everest?"
           },
           "options": [
-            {
-              "hi": "प्रोटीन",
-              "en": "protein"
-            },
-            {
-              "hi": "विटामिन",
-              "en": "vitamins"
-            },
-            {
-              "hi": "वसा",
-              "en": "fat"
-            },
-            {
-              "hi": "रेशे",
-              "en": "fibers"
-            }
+            {"hi": "अरूणिमा सिन्हा", "en": "Arunima Sinha"},
+            {"hi": "बछेंद्री पाल", "en": "Bachendri Pal"},
+            {"hi": "संतोष यादव", "en": "Santosh Yadav"},
+            {"hi": "अंशु जामसेन्पा", "en": "Anshu Jamsenpa"}
           ],
-          "answer": {
-            "hi": "वसा",
-            "en": "fat"
-          }
+          "answer": {"hi": "बछेंद्री पाल", "en": "Bachendri Pal"}
         },
         {
           "q": {
-            "hi": "'ऊर्जा प्रदायी भोजन' (Energy giving food) किन्हें कहा जाता है?",
-            "en": "What is called 'energy giving food'?"
+            "hi": "अकोंकागुआ गिरिशृंग किस महाद्वीप में स्थित है?",
+            "en": "In which continent is Aconcagua peak located?"
           },
           "options": [
-            {
-              "hi": "केवल विटामिन",
-              "en": "only vitamins"
-            },
-            {
-              "hi": "कार्बोहाइड्रेट और वसा",
-              "en": "Carbohydrates and Fats"
-            },
-            {
-              "hi": "केवल प्रोटीन",
-              "en": "protein only"
-            },
-            {
-              "hi": "खनिज लवण",
-              "en": "mineral salts"
-            }
+            {"hi": "एशिया", "en": "Asia"},
+            {"hi": "यूरोप", "en": "Europe"},
+            {"hi": "उत्तरी अमेरिका", "en": "North America"},
+            {"hi": "दक्षिणी अमेरिका", "en": "South America"}
           ],
-          "answer": {
-            "hi": "कार्बोहाइड्रेट और वसा",
-            "en": "Carbohydrates and Fats"
-          }
+          "answer": {"hi": "दक्षिणी अमेरिका", "en": "South America"}
         },
         {
           "q": {
-            "hi": "ध्रुवीय भालू की त्वचा के नीचे क्या एकत्रित होता है जो उसे ऊर्जा देता है?",
-            "en": "What is stored under the polar bear's skin that gives it energy?"
+            "hi": "किलिमंजारो गिरिशृंग किस महाद्वीप में स्थित है?",
+            "en": "In which continent is Kilimanjaro peak located?"
           },
           "options": [
-            {
-              "hi": "पानी",
-              "en": "Water"
-            },
-            {
-              "hi": "प्रोटीन",
-              "en": "protein"
-            },
-            {
-              "hi": "वसा",
-              "en": "fat"
-            },
-            {
-              "hi": "चीनी",
-              "en": "Sugar"
-            }
+            {"hi": "ऑस्ट्रेलिया", "en": "Australia"},
+            {"hi": "अफ्रीका", "en": "Africa"},
+            {"hi": "अंटार्कटिका", "en": "Antarctica"},
+            {"hi": "एशिया", "en": "Asia"}
           ],
-          "answer": {
-            "hi": "वसा",
-            "en": "fat"
-          }
+          "answer": {"hi": "अफ्रीका", "en": "Africa"}
         },
         {
           "q": {
-            "hi": "खिलाड़ियों को अपनी मांसपेशियाँ बनाने के लिए किसकी अधिक आवश्यकता होती है?",
-            "en": "What do athletes need more to build their muscles?"
+            "hi": "आल्प्स पर्वत श्रृंखला का सबसे ऊँचा शिखर कौन-सा है?",
+            "en": "Which is the highest peak of the Alps mountain range?"
           },
           "options": [
-            {
-              "hi": "वसा",
-              "en": "fat"
-            },
-            {
-              "hi": "विटामिन",
-              "en": "vitamins"
-            },
-            {
-              "hi": "प्रोटीन",
-              "en": "protein"
-            },
-            {
-              "hi": "कार्बोहाइड्रेट",
-              "en": "carbohydrates"
-            }
+            {"hi": "एवरेस्ट", "en": "Everest"},
+            {"hi": "ब्लांक", "en": "Blanc"},
+            {"hi": "अनाईमुडी", "en": "Anaimudi"},
+            {"hi": "कंचनजंगा", "en": "Kanchenjunga"}
           ],
-          "answer": {
-            "hi": "प्रोटीन",
-            "en": "protein"
-          }
+          "answer": {"hi": "ब्लांक", "en": "Blanc"}
         },
         {
           "q": {
-            "hi": "'शरीर वर्धक भोजन' (Body building food) किसे कहा जाता है?",
-            "en": "What is called 'body building food'?"
+            "hi": "एक पैर खोने के बावजूद एवरेस्ट पर चढ़ने वाली साहसी महिला कौन हैं?",
+            "en": "Who is the courageous woman who climbed Everest despite losing a leg?"
           },
           "options": [
-            {
-              "hi": "प्रोटीन",
-              "en": "protein"
-            },
-            {
-              "hi": "कार्बोहाइड्रेट",
-              "en": "carbohydrates"
-            },
-            {
-              "hi": "वसा",
-              "en": "fat"
-            },
-            {
-              "hi": "रूक्षांश",
-              "en": "roughage"
-            }
+            {"hi": "बछेंद्री पाल", "en": "Bachendri Pal"},
+            {"hi": "अरूणिमा सिन्हा", "en": "Arunima Sinha"},
+            {"hi": "मेरी कॉम", "en": "Mary Kom"},
+            {"hi": "पी.वी. सिंधु", "en": "P.V. Sindhu"}
           ],
-          "answer": {
-            "hi": "प्रोटीन",
-            "en": "protein"
-          }
+          "answer": {"hi": "अरूणिमा सिन्हा", "en": "Arunima Sinha"}
         },
         {
           "q": {
-            "hi": "प्रोटीन का उत्कृष्ट पादप स्रोत कौन सा है?",
-            "en": "Which is an excellent plant source of protein?"
+            "hi": "पर्वतों पर सीढ़ीदार खेत बनाकर की जाने वाली खेती को क्या कहते हैं?",
+            "en": "What is farming done by making terraced fields on mountains called?"
           },
           "options": [
-            {
-              "hi": "चावल",
-              "en": "Rice"
-            },
-            {
-              "hi": "मक्का",
-              "en": "Maize"
-            },
-            {
-              "hi": "सोयाबीन और दालें",
-              "en": "soybeans and pulses"
-            },
-            {
-              "hi": "चीनी",
-              "en": "Sugar"
-            }
+            {"hi": "झूम कृषि", "en": "Jhum farming"},
+            {"hi": "वेदिका कृषि", "en": "Terrace farming"},
+            {"hi": "मिश्रित कृषि", "en": "Mixed farming"},
+            {"hi": "व्यावसायिक कृषि", "en": "Commercial farming"}
           ],
-          "answer": {
-            "hi": "सोयाबीन और दालें",
-            "en": "soybeans and pulses"
-          }
+          "answer": {"hi": "वेदिका कृषि", "en": "Terrace farming"}
         },
         {
           "q": {
-            "hi": "पनीर और अंडा प्रोटीन के किस प्रकार के स्रोत हैं?",
-            "en": "What kind of sources of protein are cheese and egg?"
+            "hi": "गंगा नदी की लंबाई लगभग कितनी है?",
+            "en": "What is the approximate length of the Ganga river?"
           },
           "options": [
-            {
-              "hi": "पादप स्रोत",
-              "en": "plant source"
-            },
-            {
-              "hi": "जंतु स्रोत",
-              "en": "animal source"
-            },
-            {
-              "hi": "समुद्री स्रोत",
-              "en": "marine source"
-            },
-            {
-              "hi": "कृत्रिम स्रोत",
-              "en": "artificial source"
-            }
+            {"hi": "1500 कि.मी.", "en": "1500 km"},
+            {"hi": "2500 कि.मी.", "en": "2500 km"},
+            {"hi": "3000 कि.मी.", "en": "3000 km"},
+            {"hi": "4000 कि.मी.", "en": "4000 km"}
           ],
-          "answer": {
-            "hi": "जंतु स्रोत",
-            "en": "animal source"
-          }
+          "answer": {"hi": "2500 कि.मी.", "en": "2500 km"}
         },
         {
           "q": {
-            "hi": "खाद्य मशरूम किसका एक अच्छा स्रोत माना जाता है?",
-            "en": "Edible mushrooms are considered a good source of?"
+            "hi": "अचानक प्रचंड तूफान सहित वर्षा होने को क्या कहा जाता है?",
+            "en": "What is sudden rainfall with a fierce storm called?"
           },
           "options": [
-            {
-              "hi": "वसा",
-              "en": "fat"
-            },
-            {
-              "hi": "कार्बोहाइड्रेट",
-              "en": "carbohydrates"
-            },
-            {
-              "hi": "प्रोटीन",
-              "en": "protein"
-            },
-            {
-              "hi": "खनिज",
-              "en": "mineral"
-            }
+            {"hi": "भूकंप", "en": "Earthquake"},
+            {"hi": "बादल फटना", "en": "Cloudburst"},
+            {"hi": "चक्रवात", "en": "Cyclone"},
+            {"hi": "सूखा", "en": "Drought"}
           ],
-          "answer": {
-            "hi": "प्रोटीन",
-            "en": "protein"
-          }
+          "answer": {"hi": "बादल फटना", "en": "Cloudburst"}
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "विटामिन C की कमी से कौन सा रोग होता है?",
-            "en": "Which disease is caused by deficiency of Vitamin C?"
+            "hi": "पर्वतीय भूखंड के एक बड़े भाग का अचानक टूटकर गिरना क्या कहलाता है?",
+            "en": "What is the sudden falling of a large part of a mountain block called?"
           },
           "options": [
-            {
-              "hi": "घेघा",
-              "en": "esophagus"
-            },
-            {
-              "hi": "रिकेट्स",
-              "en": "rickets"
-            },
-            {
-              "hi": "स्कर्वी",
-              "en": "scurvy"
-            },
-            {
-              "hi": "बेरीबेरी",
-              "en": "beriberi"
-            }
+            {"hi": "हिमस्खलन", "en": "Avalanche"},
+            {"hi": "भूस्खलन", "en": "Landslide"},
+            {"hi": "बाढ़", "en": "Flood"},
+            {"hi": "सुनामी", "en": "Tsunami"}
           ],
-          "answer": {
-            "hi": "स्कर्वी",
-            "en": "scurvy"
-          }
+          "answer": {"hi": "भूस्खलन", "en": "Landslide"}
         },
         {
           "q": {
-            "hi": "मसूड़ों से खून आना और सूजन किस रोग के लक्षण हैं?",
-            "en": "Bleeding and swelling of gums are symptoms of which disease?"
+            "hi": "पर्वत से अकस्मात हिम का गिरना क्या कहलाता है?",
+            "en": "What is the sudden falling of snow from a mountain called?"
           },
           "options": [
-            {
-              "hi": "घेघा",
-              "en": "esophagus"
-            },
-            {
-              "hi": "स्कर्वी",
-              "en": "scurvy"
-            },
-            {
-              "hi": "रतौंधी",
-              "en": "night blindness"
-            },
-            {
-              "hi": "एनीमिया",
-              "en": "anemia"
-            }
+            {"hi": "भूस्खलन", "en": "Landslide"},
+            {"hi": "हिमस्खलन (एवलांश)", "en": "Avalanche"},
+            {"hi": "वर्षण", "en": "Precipitation"},
+            {"hi": "ओला वृष्टि", "en": "Hailstorm"}
           ],
-          "answer": {
-            "hi": "स्कर्वी",
-            "en": "scurvy"
-          }
+          "answer": {"hi": "हिमस्खलन (एवलांश)", "en": "Avalanche"}
         },
         {
           "q": {
-            "hi": "आयोडीन की कमी से कौन सा रोग होता है?",
-            "en": "Which disease is caused by iodine deficiency?"
+            "hi": "आस-पास की भूमि से उठी हुई चपटी सतह वाली स्थलाकृति क्या कहलाती है?",
+            "en": "What is a flat-topped landform elevated from its surroundings called?"
           },
           "options": [
-            {
-              "hi": "एनीमिया",
-              "en": "anemia"
-            },
-            {
-              "hi": "घेघा (गॉयटर)",
-              "en": "goitre"
-            },
-            {
-              "hi": "रिकेट्स",
-              "en": "rickets"
-            },
-            {
-              "hi": "बेरीबेरी",
-              "en": "beriberi"
-            }
+            {"hi": "मैदान", "en": "Plain"},
+            {"hi": "पर्वत", "en": "Mountain"},
+            {"hi": "पठार", "en": "Plateau"},
+            {"hi": "घाटी", "en": "Valley"}
           ],
-          "answer": {
-            "hi": "घेघा (गॉयटर)",
-            "en": "goitre"
-          }
+          "answer": {"hi": "पठार", "en": "Plateau"}
         },
         {
           "q": {
-            "hi": "गर्दन के अगले भाग में सूजन किस रोग का मुख्य लक्षण है?",
-            "en": "Swelling in the front part of the neck is the main symptom of which disease?"
+            "hi": "विश्व का सबसे बड़ा और ऊँचा पठार कौन-सा है?",
+            "en": "Which is the largest and highest plateau in the world?"
           },
           "options": [
-            {
-              "hi": "स्कर्वी",
-              "en": "scurvy"
-            },
-            {
-              "hi": "घेघा",
-              "en": "esophagus"
-            },
-            {
-              "hi": "रतौंधी",
-              "en": "night blindness"
-            },
-            {
-              "hi": "दंतक्षय",
-              "en": "tooth decay"
-            }
+            {"hi": "दक्कन का पठार", "en": "Deccan Plateau"},
+            {"hi": "तिब्बत का पठार", "en": "Tibet Plateau"},
+            {"hi": "छोटा नागपुर पठार", "en": "Chota Nagpur Plateau"},
+            {"hi": "पूर्वी अफ्रीकी पठार", "en": "East African Plateau"}
           ],
-          "answer": {
-            "hi": "घेघा",
-            "en": "esophagus"
-          }
+          "answer": {"hi": "तिब्बत का पठार", "en": "Tibet Plateau"}
         },
         {
           "q": {
-            "hi": "रतौंधी (रात में कम दिखाई देना) किस विटामिन की कमी से होती है?",
-            "en": "Night blindness (low vision at night) is caused by deficiency of which vitamin?"
+            "hi": "तिब्बत के पठार को और किस नाम से जाना जाता है?",
+            "en": "By what other name is the Tibet Plateau known?"
           },
           "options": [
-            {
-              "hi": "विटामिन A",
-              "en": "Vitamin A"
-            },
-            {
-              "hi": "विटामिन B1",
-              "en": "Vitamin B1"
-            },
-            {
-              "hi": "विटामिन C",
-              "en": "Vitamin C"
-            },
-            {
-              "hi": "विटामिन D",
-              "en": "Vitamin D"
-            }
+            {"hi": "विश्व का हृदय", "en": "Heart of the world"},
+            {"hi": "विश्व की छत", "en": "Roof of the world"},
+            {"hi": "विश्व का आँगन", "en": "Courtyard of the world"},
+            {"hi": "विश्व का भंडार", "en": "Storehouse of the world"}
           ],
-          "answer": {
-            "hi": "विटामिन A",
-            "en": "Vitamin A"
-          }
+          "answer": {"hi": "विश्व की छत", "en": "Roof of the world"}
         },
         {
           "q": {
-            "hi": "विटामिन B1 की कमी से होने वाला रोग कौन सा है?",
-            "en": "Which disease is caused by deficiency of Vitamin B1?"
+            "hi": "तिब्बत के पठार की औसत ऊँचाई कितनी है?",
+            "en": "What is the average height of the Tibet Plateau?"
           },
           "options": [
-            {
-              "hi": "रिकेट्स",
-              "en": "rickets"
-            },
-            {
-              "hi": "बेरीबेरी",
-              "en": "beriberi"
-            },
-            {
-              "hi": "स्कर्वी",
-              "en": "scurvy"
-            },
-            {
-              "hi": "एनीमिया",
-              "en": "anemia"
-            }
+            {"hi": "3000 मीटर", "en": "3000 meters"},
+            {"hi": "4500 मीटर", "en": "4500 meters"},
+            {"hi": "6000 मीटर", "en": "6000 meters"},
+            {"hi": "8000 मीटर", "en": "8000 meters"}
           ],
-          "answer": {
-            "hi": "बेरीबेरी",
-            "en": "beriberi"
-          }
+          "answer": {"hi": "4500 मीटर", "en": "4500 meters"}
         },
         {
           "q": {
-            "hi": "अस्थियों का मुलायम होकर मुड़ जाना किस रोग का लक्षण है?",
-            "en": "Softening of bones and bending is a symptom of which disease?"
+            "hi": "पठारों को खनिजों का क्या कहा जाता है?",
+            "en": "What are plateaus called in terms of minerals?"
           },
           "options": [
-            {
-              "hi": "बेरीबेरी",
-              "en": "beriberi"
-            },
-            {
-              "hi": "रिकेट्स",
-              "en": "rickets"
-            },
-            {
-              "hi": "घेघा",
-              "en": "esophagus"
-            },
-            {
-              "hi": "स्कर्वी",
-              "en": "scurvy"
-            }
+            {"hi": "अजायबघर", "en": "Museum"},
+            {"hi": "भंडार-गृह", "en": "Storehouse"},
+            {"hi": "कारखाना", "en": "Factory"},
+            {"hi": "बाजार", "en": "Market"}
           ],
-          "answer": {
-            "hi": "रिकेट्स",
-            "en": "rickets"
-          }
+          "answer": {"hi": "भंडार-गृह", "en": "Storehouse"}
         },
         {
           "q": {
-            "hi": "रक्त में आयरन (लौह तत्व) की कमी से कौन सा रोग होता है?",
-            "en": "Which disease is caused by iron deficiency in blood?"
+            "hi": "छोटा नागपुर के पठार में किन खनिजों के प्रचुर भंडार हैं?",
+            "en": "Which minerals have abundant deposits in the Chota Nagpur Plateau?"
           },
           "options": [
-            {
-              "hi": "रक्ताल्पता (एनीमिया)",
-              "en": "Anemia"
-            },
-            {
-              "hi": "रतौंधी",
-              "en": "night blindness"
-            },
-            {
-              "hi": "दंतक्षय",
-              "en": "tooth decay"
-            },
-            {
-              "hi": "मोटापा",
-              "en": "obesity"
-            }
+            {"hi": "सोना और हीरा", "en": "Gold and Diamond"},
+            {"hi": "लौह, कोयला और मैगनीज", "en": "Iron, Coal and Manganese"},
+            {"hi": "चांदी और तांबा", "en": "Silver and Copper"},
+            {"hi": "तेल और गैस", "en": "Oil and Gas"}
           ],
-          "answer": {
-            "hi": "रक्ताल्पता (एनीमिया)",
-            "en": "Anemia"
-          }
+          "answer": {"hi": "लौह, कोयला और मैगनीज", "en": "Iron, Coal and Manganese"}
         },
         {
           "q": {
-            "hi": "विटामिन D का मुख्य स्रोत क्या है?",
-            "en": "What is the main source of Vitamin D?"
+            "hi": "ज्वालामुखी क्रियाओं से निर्मित किस पठार की मिट्टी उपजाऊ होती है?",
+            "en": "Which plateau formed by volcanic activities has fertile soil?"
           },
           "options": [
-            {
-              "hi": "आंवला",
-              "en": "Gooseberry"
-            },
-            {
-              "hi": "सूर्य का प्रकाश",
-              "en": "sunlight"
-            },
-            {
-              "hi": "चावल",
-              "en": "Rice"
-            },
-            {
-              "hi": "हरी मिर्च",
-              "en": "Green chilly"
-            }
+            {"hi": "बर्फ पठार", "en": "Ice plateau"},
+            {"hi": "लावा पठार", "en": "Lava plateau"},
+            {"hi": "रेत पठार", "en": "Sand plateau"},
+            {"hi": "पत्थर पठार", "en": "Stone plateau"}
           ],
-          "answer": {
-            "hi": "सूर्य का प्रकाश",
-            "en": "sunlight"
-          }
+          "answer": {"hi": "लावा पठार", "en": "Lava plateau"}
         },
         {
           "q": {
-            "hi": "आयोडीनयुक्त नमक साधारण नमक में क्या मिलाकर बनाया जाता है?",
-            "en": "What is iodized salt mixed with to make ordinary salt?"
+            "hi": "लावा पठारों में किस प्रकार की मिट्टी पाई जाती है?",
+            "en": "Which type of soil is found in lava plateaus?"
           },
           "options": [
-            {
-              "hi": "चीनी",
-              "en": "Sugar"
-            },
-            {
-              "hi": "आयोडीन के लवण",
-              "en": "Iodine salts"
-            },
-            {
-              "hi": "कैल्सियम",
-              "en": "calcium"
-            },
-            {
-              "hi": "प्रोटीन",
-              "en": "protein"
-            }
+            {"hi": "लाल मिट्टी", "en": "Red soil"},
+            {"hi": "काली मिट्टी", "en": "Black soil"},
+            {"hi": "पीली मिट्टी", "en": "Yellow soil"},
+            {"hi": "लेटराइट मिट्टी", "en": "Laterite soil"}
           ],
-          "answer": {
-            "hi": "आयोडीन के लवण",
-            "en": "Iodine salts"
-          }
+          "answer": {"hi": "काली मिट्टी", "en": "Black soil"}
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "'सुरक्षात्मक पोषक तत्व' किन्हें कहा जाता है?",
-            "en": "What are called 'protective nutrients'?"
+            "hi": "हुंडरू जल प्रपात किस नदी पर स्थित है?",
+            "en": "On which river is the Hundru falls located?"
           },
           "options": [
-            {
-              "hi": "कार्बोहाइड्रेट और वसा",
-              "en": "Carbohydrates and Fats"
-            },
-            {
-              "hi": "विटामिन और खनिज",
-              "en": "vitamins and minerals"
-            },
-            {
-              "hi": "प्रोटीन और वसा",
-              "en": "protein and fat"
-            },
-            {
-              "hi": "केवल कार्बोहाइड्रेट",
-              "en": "only carbohydrates"
-            }
+            {"hi": "गंगा", "en": "Ganga"},
+            {"hi": "यमुना", "en": "Yamuna"},
+            {"hi": "सुवर्ण रेखा", "en": "Subarnarekha"},
+            {"hi": "नर्मदा", "en": "Narmada"}
           ],
-          "answer": {
-            "hi": "विटामिन और खनिज",
-            "en": "vitamins and minerals"
-          }
+          "answer": {"hi": "सुवर्ण रेखा", "en": "Subarnarekha"}
         },
         {
           "q": {
-            "hi": "खाना पकाते समय उच्च ताप से कौन सा विटामिन अक्सर नष्ट हो जाता है?",
-            "en": "Which vitamin is often destroyed by high heat while cooking?"
+            "hi": "विस्तृत सपाट अथवा हल्के तरंगित धरातल वाली स्थलाकृति क्या कहलाती है?",
+            "en": "What is a landform with an extensive flat or slightly undulating surface called?"
           },
           "options": [
-            {
-              "hi": "विटामिन A",
-              "en": "Vitamin A"
-            },
-            {
-              "hi": "विटामिन B1",
-              "en": "Vitamin B1"
-            },
-            {
-              "hi": "विटामिन C",
-              "en": "Vitamin C"
-            },
-            {
-              "hi": "विटामिन D",
-              "en": "Vitamin D"
-            }
+            {"hi": "पहाड़", "en": "Mountain"},
+            {"hi": "पठार", "en": "Plateau"},
+            {"hi": "मैदान", "en": "Plain"},
+            {"hi": "मरुस्थल", "en": "Desert"}
           ],
-          "answer": {
-            "hi": "विटामिन C",
-            "en": "Vitamin C"
-          }
+          "answer": {"hi": "मैदान", "en": "Plain"}
         },
         {
           "q": {
-            "hi": "आहारीय रेशों को और क्या कहा जाता है?",
-            "en": "What else are dietary fibers called?"
+            "hi": "मैदानों की ऊँचाई समुद्र तल से सामान्यतः कितनी होती है?",
+            "en": "What is the general height of plains from sea level?"
           },
           "options": [
-            {
-              "hi": "प्रोटीन",
-              "en": "protein"
-            },
-            {
-              "hi": "रूक्षांश (Roughage)",
-              "en": "Roughage"
-            },
-            {
-              "hi": "वसा",
-              "en": "fat"
-            },
-            {
-              "hi": "खनिज",
-              "en": "mineral"
-            }
+            {"hi": "300 मीटर से अधिक नहीं", "en": "Not more than 300 meters"},
+            {"hi": "1000 मीटर", "en": "1000 meters"},
+            {"hi": "2000 मीटर", "en": "2000 meters"},
+            {"hi": "5000 मीटर", "en": "5000 meters"}
           ],
-          "answer": {
-            "hi": "रूक्षांश (Roughage)",
-            "en": "Roughage"
-          }
+          "answer": {"hi": "300 मीटर से अधिक नहीं", "en": "Not more than 300 meters"}
         },
         {
           "q": {
-            "hi": "रूक्षांश का मुख्य कार्य क्या है?",
-            "en": "What is the main function of dry matter?"
+            "hi": "नदियों द्वारा बहाकर लाई गई रेत और गाद को क्या कहा जाता है?",
+            "en": "What is the sand and silt brought by rivers called?"
           },
           "options": [
-            {
-              "hi": "ऊर्जा देना",
-              "en": "to give energy"
-            },
-            {
-              "hi": "शरीर की वृद्धि",
-              "en": "body growth"
-            },
-            {
-              "hi": "मल के सुचारू निकास में मदद करना",
-              "en": "helps in smooth passage of stool"
-            },
-            {
-              "hi": "हड्डियों को मजबूत करना",
-              "en": "strengthen bones"
-            }
+            {"hi": "कचरा", "en": "Waste"},
+            {"hi": "तलछट (गाद)", "en": "Sediment"},
+            {"hi": "कोयला", "en": "Coal"},
+            {"hi": "लावा", "en": "Lava"}
           ],
-          "answer": {
-            "hi": "मल के सुचारू निकास में मदद करना",
-            "en": "helps in smooth passage of stool"
-          }
+          "answer": {"hi": "तलछट (गाद)", "en": "Sediment"}
         },
         {
           "q": {
-            "hi": "भोजन से पोषक तत्वों को अवशोषित करने में शरीर की सहायता कौन करता है?",
-            "en": "What helps the body absorb nutrients from food?"
+            "hi": "भारत के गंगा के मैदान में लगभग कितनी जनसंख्या निवास करती है?",
+            "en": "Approximately how much population resides in India's Ganga plains?"
           },
           "options": [
-            {
-              "hi": "वसा",
-              "en": "fat"
-            },
-            {
-              "hi": "चीनी",
-              "en": "Sugar"
-            },
-            {
-              "hi": "जल",
-              "en": "Water"
-            },
-            {
-              "hi": "आयरन",
-              "en": "iron"
-            }
+            {"hi": "10 करोड़", "en": "10 crore"},
+            {"hi": "20 करोड़", "en": "20 crore"},
+            {"hi": "40 करोड़", "en": "40 crore"},
+            {"hi": "100 करोड़", "en": "100 crore"}
           ],
-          "answer": {
-            "hi": "जल",
-            "en": "Water"
-          }
+          "answer": {"hi": "40 करोड़", "en": "40 crore"}
         },
         {
           "q": {
-            "hi": "भारत में मध्याह्न भोजन योजना (PM पोषण) का उद्देश्य क्या है?",
-            "en": "What is the objective of Mid Day Meal Scheme (PM Poshan) in India?"
+            "hi": "दो या दो से अधिक नदियों के मिलने के स्थान को क्या कहते हैं?",
+            "en": "What is the meeting point of two or more rivers called?"
           },
           "options": [
-            {
-              "hi": "बच्चों को खिलौने देना",
-              "en": "giving toys to children"
-            },
-            {
-              "hi": "संतुलित आहार उपलब्ध कराना",
-              "en": "providing a balanced diet"
-            },
-            {
-              "hi": "स्कूल की फीस कम करना",
-              "en": "reduce school fees"
-            },
-            {
-              "hi": "वर्दी बाँटना",
-              "en": "distributing uniforms"
-            }
+            {"hi": "मुहाना", "en": "Mouth"},
+            {"hi": "उद्गम", "en": "Origin"},
+            {"hi": "संगम", "en": "Sangam (Confluence)"},
+            {"hi": "नहर", "en": "Canal"}
           ],
-          "answer": {
-            "hi": "संतुलित आहार उपलब्ध कराना",
-            "en": "providing a balanced diet"
-          }
+          "answer": {"hi": "संगम", "en": "Sangam (Confluence)"}
         },
         {
           "q": {
-            "hi": "मंड (स्टार्च) का परीक्षण करने के लिए किस रसायन का उपयोग किया जाता है?",
-            "en": "Which chemical is used to test starch?"
+            "hi": "यमुना किस नदी की सहायक नदी है?",
+            "en": "Yamuna is a tributary of which river?"
           },
           "options": [
-            {
-              "hi": "कॉपर सल्फेट",
-              "en": "copper sulphate"
-            },
-            {
-              "hi": "कास्टिक सोडा",
-              "en": "caustic soda"
-            },
-            {
-              "hi": "तनु आयोडीन विलयन",
-              "en": "dilute iodine solution"
-            },
-            {
-              "hi": "नमक",
-              "en": "Salt"
-            }
+            {"hi": "ब्रह्मपुत्र", "en": "Brahmaputra"},
+            {"hi": "सिंधु", "en": "Indus"},
+            {"hi": "गंगा", "en": "Ganga"},
+            {"hi": "गोदावरी", "en": "Godavari"}
           ],
-          "answer": {
-            "hi": "तनु आयोडीन विलयन",
-            "en": "dilute iodine solution"
-          }
+          "answer": {"hi": "गंगा", "en": "Ganga"}
         },
         {
           "q": {
-            "hi": "आयोडीन विलयन डालने पर नीला-काला रंग किसकी उपस्थिति दर्शाता है?",
-            "en": "What does the blue-black color indicate when iodine solution is added?"
+            "hi": "विश्व का सबसे बड़ा मरुस्थल कौन-सा है?",
+            "en": "Which is the largest desert in the world?"
           },
           "options": [
-            {
-              "hi": "वसा",
-              "en": "fat"
-            },
-            {
-              "hi": "प्रोटीन",
-              "en": "protein"
-            },
-            {
-              "hi": "मंड (स्टार्च)",
-              "en": "starch"
-            },
-            {
-              "hi": "विटामिन",
-              "en": "vitamins"
-            }
+            {"hi": "थार मरुस्थल", "en": "Thar Desert"},
+            {"hi": "गोबी मरुस्थल", "en": "Gobi Desert"},
+            {"hi": "सहारा मरुस्थल", "en": "Sahara Desert"},
+            {"hi": "अटाकामा मरुस्थल", "en": "Atacama Desert"}
           ],
-          "answer": {
-            "hi": "मंड (स्टार्च)",
-            "en": "starch"
-          }
+          "answer": {"hi": "सहारा मरुस्थल", "en": "Sahara Desert"}
         },
         {
           "q": {
-            "hi": "कागज पर तैलीय धब्बा खाद्य पदार्थ में किसकी उपस्थिति का परीक्षण है?",
-            "en": "Oily stain on paper is a test for the presence of which in food?"
+            "hi": "एशिया के एक ठंडे मरुस्थल का उदाहरण कौन-सा है?",
+            "en": "Which is an example of a cold desert in Asia?"
           },
           "options": [
-            {
-              "hi": "कार्बोहाइड्रेट",
-              "en": "carbohydrates"
-            },
-            {
-              "hi": "वसा",
-              "en": "fat"
-            },
-            {
-              "hi": "प्रोटीन",
-              "en": "protein"
-            },
-            {
-              "hi": "विटामिन",
-              "en": "vitamins"
-            }
+            {"hi": "सहारा", "en": "Sahara"},
+            {"hi": "गोबी", "en": "Gobi"},
+            {"hi": "थार", "en": "Thar"},
+            {"hi": "कालाहारी", "en": "Kalahari"}
           ],
-          "answer": {
-            "hi": "वसा",
-            "en": "fat"
-          }
+          "answer": {"hi": "गोबी", "en": "Gobi"}
         },
         {
           "q": {
-            "hi": "प्रोटीन परीक्षण में खाद्य पदार्थ का रंग कैसा हो जाता है?",
-            "en": "What color does the food get in protein test?"
+            "hi": "चुनौतियों का सामना करने और उनके अनुसार ढलने की क्षमता क्या कहलाती है?",
+            "en": "What is the capacity to face challenges and adapt accordingly called?"
           },
           "options": [
-            {
-              "hi": "नीला-काला",
-              "en": "blue-black"
-            },
-            {
-              "hi": "लाल",
-              "en": "Red"
-            },
-            {
-              "hi": "बैंगनी",
-              "en": "Purple"
-            },
-            {
-              "hi": "हरा",
-              "en": "Green"
-            }
+            {"hi": "आलस्य", "en": "Laziness"},
+            {"hi": "लचीलापन (रेजिलियंस)", "en": "Resilience"},
+            {"hi": "क्रोध", "en": "Anger"},
+            {"hi": "भय", "en": "Fear"}
           ],
-          "answer": {
-            "hi": "बैंगनी",
-            "en": "Purple"
-          }
+          "answer": {"hi": "लचीलापन (रेजिलियंस)", "en": "Resilience"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "संतुलित आहार किसे कहते हैं?",
-            "en": "What is a balanced diet?"
+            "hi": "प्राचीन तमिल संगम कविता में पर्वतीय क्षेत्र के लिए कौन-सा शब्द प्रयुक्त है?",
+            "en": "Which term is used for mountain regions in ancient Tamil Sangam poetry?"
           },
           "options": [
-            {
-              "hi": "केवल फल खाना",
-              "en": "eat only fruits"
-            },
-            {
-              "hi": "जिसमें सभी पोषक तत्व, रूक्षांश और जल सही मात्रा में हों",
-              "en": "Which contains all the nutrients, dry matter and water in the right quantity."
-            },
-            {
-              "hi": "जिसमें अधिक वसा हो",
-              "en": "high in fat"
-            },
-            {
-              "hi": "केवल दूध पीना",
-              "en": "drink only milk"
-            }
+            {"hi": "मुल्लाई", "en": "Mullai"},
+            {"hi": "कुरिंजी", "en": "Kurinji"},
+            {"hi": "मरूदम", "en": "Marudam"},
+            {"hi": "नेयदल", "en": "Neydal"}
           ],
-          "answer": {
-            "hi": "जिसमें सभी पोषक तत्व, रूक्षांश और जल सही मात्रा में हों",
-            "en": "Which contains all the nutrients, dry matter and water in the right quantity."
-          }
+          "answer": {"hi": "कुरिंजी", "en": "Kurinji"}
         },
         {
           "q": {
-            "hi": "जंक फूड (अस्वास्थ्य-प्रद खाद्य) का उदाहरण इनमें से कौन सा है?",
-            "en": "Which of the following is an example of junk food?"
+            "hi": "तमिल वर्गीकरण 'मरूदम' किस प्रकार की दृश्यभूमि को दर्शाता है?",
+            "en": "What type of landscape does the Tamil classification 'Marudam' represent?"
           },
           "options": [
-            {
-              "hi": "ताजे फल",
-              "en": "fresh fruits"
-            },
-            {
-              "hi": "आलू के चिप्स और कार्बोनेटेड पेय",
-              "en": "Potato Chips and Carbonated Drinks"
-            },
-            {
-              "hi": "दाल और चावल",
-              "en": "pulses and rice"
-            },
-            {
-              "hi": "मोटा अनाज",
-              "en": "coarse grain"
-            }
+            {"hi": "तटीय क्षेत्र", "en": "Coastal region"},
+            {"hi": "पर्वतीय क्षेत्र", "en": "Mountain region"},
+            {"hi": "उपजाऊ कृषि मैदान", "en": "Fertile agricultural plains"},
+            {"hi": "मरूस्थल", "en": "Desert"}
           ],
-          "answer": {
-            "hi": "आलू के चिप्स और कार्बोनेटेड पेय",
-            "en": "Potato Chips and Carbonated Drinks"
-          }
+          "answer": {"hi": "उपजाऊ कृषि मैदान", "en": "Fertile agricultural plains"}
         },
         {
           "q": {
-            "hi": "जंक फूड के अधिक सेवन से कौन सी समस्या हो सकती है?",
-            "en": "What problems can occur due to excessive consumption of junk food?"
+            "hi": "मेघालय के चेरापूंजी पठार से गिरने वाले प्रसिद्ध जल प्रपात का नाम क्या है?",
+            "en": "What is the name of the famous waterfall falling from the Cherrapunji plateau in Meghalaya?"
           },
           "options": [
-            {
-              "hi": "ऊँचाई बढ़ना",
-              "en": "height increase"
-            },
-            {
-              "hi": "मोटापा",
-              "en": "obesity"
-            },
-            {
-              "hi": "तेज याददाश्त",
-              "en": "sharp memory"
-            },
-            {
-              "hi": "मजबूत मांसपेशियाँ",
-              "en": "strong muscles"
-            }
+            {"hi": "जोग जल प्रपात", "en": "Jog falls"},
+            {"hi": "हुंडरू जल प्रपात", "en": "Hundru falls"},
+            {"hi": "नहकालीकाई जल प्रपात", "en": "Nohkalikai falls"},
+            {"hi": "धुआँधार जल प्रपात", "en": "Dhuandhar falls"}
           ],
-          "answer": {
-            "hi": "मोटापा",
-            "en": "obesity"
-          }
+          "answer": {"hi": "नहकालीकाई जल प्रपात", "en": "Nohkalikai falls"}
         },
         {
           "q": {
-            "hi": "भारत में खाद्य गुणवत्ता को नियंत्रित करने वाली एजेंसी कौन सी है?",
-            "en": "Which is the agency that controls food quality in India?"
+            "hi": "पर्वतों पर पाए जाने वाले 'शंकुधारी वृक्ष' का एक उदाहरण कौन-सा है?",
+            "en": "What is an example of 'coniferous trees' found on mountains?"
           },
           "options": [
-            {
-              "hi": "FSSAI",
-              "en": "FSSAI"
-            },
-            {
-              "hi": "NCERT",
-              "en": "NCERT"
-            },
-            {
-              "hi": "IIT",
-              "en": "IIT"
-            },
-            {
-              "hi": "AIIMS",
-              "en": "AIIMS"
-            }
+            {"hi": "नीम", "en": "Neem"},
+            {"hi": "पीपल", "en": "Peepal"},
+            {"hi": "पाइन (चीड़)", "en": "Pine"},
+            {"hi": "बरगद", "en": "Banyan"}
           ],
-          "answer": {
-            "hi": "FSSAI",
-            "en": "FSSAI"
-          }
+          "answer": {"hi": "पाइन (चीड़)", "en": "Pine"}
         },
         {
           "q": {
-            "hi": "प्रबलीकरण (Fortification) क्या है?",
-            "en": "What is Fortification?"
+            "hi": "अथर्ववेद के 'भूमि सूक्त' के अनुसार पृथ्वी को क्या माना गया है?",
+            "en": "According to the 'Bhumi Sukta' of Atharvaveda, what is the Earth considered?"
           },
           "options": [
-            {
-              "hi": "भोजन पकाना",
-              "en": "baking dish"
-            },
-            {
-              "hi": "आहार में अधिक पोषक तत्व मिलाना",
-              "en": "adding more nutrients to the diet"
-            },
-            {
-              "hi": "भोजन ठंडा करना",
-              "en": "cooling food"
-            },
-            {
-              "hi": "फसल काटना",
-              "en": "harvest"
-            }
+            {"hi": "शत्रु", "en": "Enemy"},
+            {"hi": "माता", "en": "Mother"},
+            {"hi": "दासी", "en": "Maid"},
+            {"hi": "स्वर्ग", "en": "Heaven"}
           ],
-          "answer": {
-            "hi": "आहार में अधिक पोषक तत्व मिलाना",
-            "en": "adding more nutrients to the diet"
-          }
+          "answer": {"hi": "माता", "en": "Mother"}
         },
         {
           "q": {
-            "hi": "कदन्न (मिलेट) या मोटा अनाज का उदाहरण कौन सा है?",
-            "en": "Which is an example of millet or millet?"
+            "hi": "पर्वत के सँकरे ऊपरी भाग को क्या कहते हैं?",
+            "en": "What is the narrow top part of a mountain called?"
           },
           "options": [
-            {
-              "hi": "केवल गेहूँ",
-              "en": "wheat only"
-            },
-            {
-              "hi": "ज्वार, बाजरा, रागी",
-              "en": "Jowar, Bajra, Ragi"
-            },
-            {
-              "hi": "चावल और मूंग",
-              "en": "rice and mung beans"
-            },
-            {
-              "hi": "मैदा",
-              "en": "Fine flour"
-            }
+            {"hi": "आधार", "en": "Base"},
+            {"hi": "ढलान", "en": "Slope"},
+            {"hi": "शिखर (चोटी)", "en": "Peak"},
+            {"hi": "पठार", "en": "Plateau"}
           ],
-          "answer": {
-            "hi": "ज्वार, बाजरा, रागी",
-            "en": "Jowar, Bajra, Ragi"
-          }
+          "answer": {"hi": "शिखर (चोटी)", "en": "Peak"}
         },
         {
           "q": {
-            "hi": "खाद्य मील (Food Mile) क्या दर्शाता है?",
-            "en": "What does Food Mile represent?"
+            "hi": "इनमें से कौन-सा एक पर्वतीय जीव है?",
+            "en": "Which of these is a mountain animal?"
           },
           "options": [
-            {
-              "hi": "भोजन का वजन",
-              "en": "weight of food"
-            },
-            {
-              "hi": "उत्पादक से उपभोक्ता तक भोजन की दूरी",
-              "en": "distance of food from producer to consumer"
-            },
-            {
-              "hi": "भोजन पकाने का समय",
-              "en": "cooking time"
-            },
-            {
-              "hi": "भोजन की कीमत",
-              "en": "price of food"
-            }
+            {"hi": "हाथी", "en": "Elephant"},
+            {"hi": "याक", "en": "Yak"},
+            {"hi": "मगरमच्छ", "en": "Crocodile"},
+            {"hi": "ऊँट", "en": "Camel"}
           ],
-          "answer": {
-            "hi": "उत्पादक से उपभोक्ता तक भोजन की दूरी",
-            "en": "distance of food from producer to consumer"
-          }
+          "answer": {"hi": "याक", "en": "Yak"}
         },
         {
           "q": {
-            "hi": "भोजन की बर्बादी कम करने के लिए हमें क्या करना चाहिए?",
-            "en": "What should we do to reduce food wastage?"
+            "hi": "पर्वतों पर रहने वाले समुदायों के लिए आय का मुख्य स्रोत क्या है?",
+            "en": "What is a main source of income for communities living in mountains?"
           },
           "options": [
-            {
-              "hi": "थाली में बहुत सारा खाना लेना",
-              "en": "having a lot of food on the plate"
-            },
-            {
-              "hi": "उतना ही भोजन लेना जितना खा सकें",
-              "en": "eat as much as you can"
-            },
-            {
-              "hi": "भोजन फेंक देना",
-              "en": "throw away food"
-            },
-            {
-              "hi": "भोजन न करना",
-              "en": "not eating"
-            }
+            {"hi": "खनन", "en": "Mining"},
+            {"hi": "भारी उद्योग", "en": "Heavy industry"},
+            {"hi": "पर्यटन", "en": "Tourism"},
+            {"hi": "मछली पालन", "en": "Fishing"}
           ],
-          "answer": {
-            "hi": "उतना ही भोजन लेना जितना खा सकें",
-            "en": "eat as much as you can"
-          }
+          "answer": {"hi": "पर्यटन", "en": "Tourism"}
         },
         {
           "q": {
-            "hi": "आँखों और त्वचा को स्वस्थ रखने में कौन सा विटामिन सहायक है?",
-            "en": "Which vitamin is helpful in keeping eyes and skin healthy?"
+            "hi": "दक्कन का पठार किस प्रकार बना था?",
+            "en": "How was the Deccan Plateau formed?"
           },
           "options": [
-            {
-              "hi": "विटामिन A",
-              "en": "Vitamin A"
-            },
-            {
-              "hi": "विटामिन C",
-              "en": "Vitamin C"
-            },
-            {
-              "hi": "विटामिन D",
-              "en": "Vitamin D"
-            },
-            {
-              "hi": "विटामिन B1",
-              "en": "Vitamin B1"
-            }
+            {"hi": "बाढ़ से", "en": "By floods"},
+            {"hi": "भूकंप से", "en": "By earthquakes"},
+            {"hi": "ज्वालामुखी सक्रियता से", "en": "By volcanic activity"},
+            {"hi": "हिमपात से", "en": "By snowfall"}
           ],
-          "answer": {
-            "hi": "विटामिन A",
-            "en": "Vitamin A"
-          }
+          "answer": {"hi": "ज्वालामुखी सक्रियता से", "en": "By volcanic activity"}
         },
         {
           "q": {
-            "hi": "कैल्सियम मुख्य रूप से किसके स्वास्थ्य के लिए आवश्यक है?",
-            "en": "Calcium is mainly necessary for whose health?"
+            "hi": "समुद्र की सतह के औसत स्तर को क्या कहते हैं?",
+            "en": "What is the average level of the sea surface called?"
           },
           "options": [
-            {
-              "hi": "बालों के लिए",
-              "en": "for hair"
-            },
-            {
-              "hi": "अस्थियों और दाँतों के लिए",
-              "en": "for bones and teeth"
-            },
-            {
-              "hi": "नाखूनों के लिए",
-              "en": "for nails"
-            },
-            {
-              "hi": "पाचन के लिए",
-              "en": "for digestion"
-            }
+            {"hi": "लहर स्तर", "en": "Wave level"},
+            {"hi": "माध्य समुद्र तल", "en": "Mean Sea Level"},
+            {"hi": "गहराई स्तर", "en": "Depth level"},
+            {"hi": "तट स्तर", "en": "Shore level"}
           ],
-          "answer": {
-            "hi": "अस्थियों और दाँतों के लिए",
-            "en": "for bones and teeth"
-          }
+          "answer": {"hi": "माध्य समुद्र तल", "en": "Mean Sea Level"}
         }
       ]
     },
