@@ -666,1411 +666,661 @@
       "section1": [
         {
           "q": {
-            "hi": "प्रकृति की सैर (नेचर वॉक) का मुख्य उद्देश्य क्या है?",
-            "en": "What is the main objective of nature walk?"
+            "hi": "अंतरिक्ष से देखने पर पृथ्वी किस रंग की दिखाई देती है?",
+            "en": "In what color does the Earth appear when viewed from space?"
           },
           "options": [
-            {
-              "hi": "पौधों और जंतुओं की विविधता का अनुभव करना",
-              "en": "Experiencing the diversity of plants and animals"
-            },
-            {
-              "hi": "केवल व्यायाम करना",
-              "en": "just exercising"
-            },
-            {
-              "hi": "पिकनिक मनाना",
-              "en": "having a picnic"
-            },
-            {
-              "hi": "मिट्टी इकट्ठा करना",
-              "en": "collecting soil"
-            }
+            {"hi": "हरा", "en": "Green"},
+            {"hi": "नीला", "en": "Blue"},
+            {"hi": "भूरा", "en": "Brown"},
+            {"hi": "लाल", "en": "Red"}
           ],
-          "answer": {
-            "hi": "पौधों और जंतुओं की विविधता का अनुभव करना",
-            "en": "Experiencing the diversity of plants and animals"
-          }
+          "answer": {"hi": "नीला", "en": "Blue"}
         },
         {
           "q": {
-            "hi": "इनमें से कौन पक्षियों की ध्वनि की नकल करने में विशेषज्ञ हैं?",
-            "en": "Which of the following are experts in imitating the sounds of birds?"
+            "hi": "पृथ्वी का लगभग कितना भाग जल से घिरा हुआ है?",
+            "en": "Approximately how much part of the Earth is surrounded by water?"
           },
           "options": [
-            {
-              "hi": "डॉ. रघु",
-              "en": "Dr Raghu"
-            },
-            {
-              "hi": "मनीराम चाचा",
-              "en": "Maniram uncle"
-            },
-            {
-              "hi": "सुलेखा शिक्षिका",
-              "en": "Sulekha teacher"
-            },
-            {
-              "hi": "एलेक्स",
-              "en": "alex"
-            }
+            {"hi": "एक-चौथाई", "en": "One-fourth"},
+            {"hi": "आधा", "en": "Half"},
+            {"hi": "तीन-चौथाई", "en": "Three-fourths"},
+            {"hi": "दो-तिहाई", "en": "Two-thirds"}
           ],
-          "answer": {
-            "hi": "मनीराम चाचा",
-            "en": "Maniram uncle"
-          }
+          "answer": {"hi": "तीन-चौथाई", "en": "Three-fourths"}
         },
         {
           "q": {
-            "hi": "प्रकृति में प्रत्येक पक्षी की अपनी एक अलग चहचहाहट होना किसका उदाहरण है?",
-            "en": "In nature, each bird having its own unique chirping sound is an example of?"
+            "hi": "ग्लोब पर दिखाई देने वाली सबसे बड़ी जलराशियों को क्या कहते हैं?",
+            "en": "What are the largest water bodies visible on the globe called?"
           },
           "options": [
-            {
-              "hi": "समानता",
-              "en": "Equality"
-            },
-            {
-              "hi": "विविधता",
-              "en": "Diversity"
-            },
-            {
-              "hi": "एकता",
-              "en": "Unity"
-            },
-            {
-              "hi": "स्थिरता",
-              "en": "Stability"
-            }
+            {"hi": "नदियाँ", "en": "Rivers"},
+            {"hi": "झीलें", "en": "Lakes"},
+            {"hi": "महासागर", "en": "Oceans"},
+            {"hi": "तालाब", "en": "Ponds"}
           ],
-          "answer": {
-            "hi": "विविधता",
-            "en": "Diversity"
-          }
+          "answer": {"hi": "महासागर", "en": "Oceans"}
         },
         {
           "q": {
-            "hi": "किसी विशेष क्षेत्र में पाए जाने वाले पौधों और जंतुओं की विविधता क्या कहलाती है?",
-            "en": "What is the diversity of plants and animals found in a particular area called?"
+            "hi": "भूमि के एक बड़े निरंतर विस्तार को क्या कहा जाता है?",
+            "en": "What is a large continuous stretch of land called?"
           },
           "options": [
-            {
-              "hi": "सांस्कृतिक विविधता",
-              "en": "cultural diversity"
-            },
-            {
-              "hi": "जैव विविधता",
-              "en": "biodiversity"
-            },
-            {
-              "hi": "मिट्टी की विविधता",
-              "en": "soil diversity"
-            },
-            {
-              "hi": "जलवायु",
-              "en": "climate"
-            }
+            {"hi": "द्वीप", "en": "Island"},
+            {"hi": "महाद्वीप", "en": "Continent"},
+            {"hi": "प्रायद्वीप", "en": "Peninsula"},
+            {"hi": "खाड़ी", "en": "Bay"}
           ],
-          "answer": {
-            "hi": "जैव विविधता",
-            "en": "biodiversity"
-          }
+          "answer": {"hi": "महाद्वीप", "en": "Continent"}
         },
         {
           "q": {
-            "hi": "जंतु फल खाने के बाद क्या फैलाने में सहायता करते हैं?",
-            "en": "What do animals help in spreading after eating fruits?"
+            "hi": "भारतीय नौसेना के प्रतीक चिह्न पर कौन-सा आदर्श वाक्य अंकित है?",
+            "en": "Which motto is inscribed on the emblem of the Indian Navy?"
           },
           "options": [
-            {
-              "hi": "पानी",
-              "en": "Water"
-            },
-            {
-              "hi": "मिट्टी",
-              "en": "Soil"
-            },
-            {
-              "hi": "बीज",
-              "en": "Seed"
-            },
-            {
-              "hi": "पत्तियाँ",
-              "en": "leaves"
-            }
+            {"hi": "सत्यमेव जयते", "en": "Satyamev Jayate"},
+            {"hi": "जय हिंद", "en": "Jai Hind"},
+            {"hi": "शं नो वरुणः", "en": "Sam No Varunah"},
+            {"hi": "वंदे मातरम", "en": "Vande Mataram"}
           ],
-          "answer": {
-            "hi": "बीज",
-            "en": "Seed"
-          }
+          "answer": {"hi": "शं नो वरुणः", "en": "Sam No Varunah"}
         },
         {
           "q": {
-            "hi": "तुलसी का तना किस प्रकार का होता है?",
-            "en": "What type of stem is basil?"
+            "hi": "वैदिक देवता वरुण का संबंध किससे है?",
+            "en": "The Vedic deity Varuna is associated with what?"
           },
           "options": [
-            {
-              "hi": "कोमल और पतला",
-              "en": "soft and thin"
-            },
-            {
-              "hi": "कठोर और मोटा",
-              "en": "hard and thick"
-            },
-            {
-              "hi": "कठोर और पतला",
-              "en": "hard and thin"
-            },
-            {
-              "hi": "बहुत ऊँचा",
-              "en": "Very high"
-            }
+            {"hi": "अग्नि", "en": "Fire"},
+            {"hi": "वायु", "en": "Wind"},
+            {"hi": "महासागर, आकाश तथा जल", "en": "Ocean, sky, and water"},
+            {"hi": "पृथ्वी", "en": "Earth"}
           ],
-          "answer": {
-            "hi": "कठोर और पतला",
-            "en": "hard and thin"
-          }
+          "answer": {"hi": "महासागर, आकाश तथा जल", "en": "Ocean, sky, and water"}
         },
         {
           "q": {
-            "hi": "चींटी के पास चलने के लिए कितने पाद (पैर) होते हैं?",
-            "en": "How many legs does an ant have to walk?"
+            "hi": "पृथ्वी का कितना भाग भूमि (भूखंड) से ढका है?",
+            "en": "How much part of the Earth is covered by land?"
           },
           "options": [
-            {
-              "hi": "दो",
-              "en": "Two"
-            },
-            {
-              "hi": "चार",
-              "en": "Four"
-            },
-            {
-              "hi": "छह",
-              "en": "Six"
-            },
-            {
-              "hi": "आठ",
-              "en": "Eight"
-            }
+            {"hi": "लगभग आधा", "en": "About half"},
+            {"hi": "लगभग एक-चौथाई", "en": "About one-fourth"},
+            {"hi": "लगभग तीन-चौथाई", "en": "About three-fourths"},
+            {"hi": "संपूर्ण भाग", "en": "Entire part"}
           ],
-          "answer": {
-            "hi": "छह",
-            "en": "Six"
-          }
+          "answer": {"hi": "लगभग एक-चौथाई", "en": "About one-fourth"}
         },
         {
           "q": {
-            "hi": "मछलियाँ मुख्य रूप से कहाँ रहती हैं?",
-            "en": "Where do fish mainly live?"
+            "hi": "उत्तरी और दक्षिणी गोलार्ध में महासागर और महाद्वीप कैसे वितरित हैं?",
+            "en": "How are oceans and continents distributed in the Northern and Southern hemispheres?"
           },
           "options": [
-            {
-              "hi": "वृक्षों पर",
-              "en": "on the trees"
-            },
-            {
-              "hi": "भूमि पर",
-              "en": "on land"
-            },
-            {
-              "hi": "जल में",
-              "en": "in water"
-            },
-            {
-              "hi": "बिल में",
-              "en": "in the bill"
-            }
+            {"hi": "समान रूप से", "en": "Equally"},
+            {"hi": "असमान रूप से", "en": "Unequally"},
+            {"hi": "केवल उत्तरी गोलार्ध में", "en": "Only in Northern hemisphere"},
+            {"hi": "केवल दक्षिणी गोलार्ध में", "en": "Only in Southern hemisphere"}
           ],
-          "answer": {
-            "hi": "जल में",
-            "en": "in water"
-          }
+          "answer": {"hi": "असमान रूप से", "en": "Unequally"}
         },
         {
           "q": {
-            "hi": "मेंढक किस प्रकार का जंतु है जो जल और थल दोनों पर रह सकता है?",
-            "en": "What type of animal is a frog which can live both in water and on land?"
+            "hi": "महासागरों का जल कैसा होता है?",
+            "en": "What is the nature of ocean water?"
           },
           "options": [
-            {
-              "hi": "जलीय",
-              "en": "aquatic"
-            },
-            {
-              "hi": "थलीय",
-              "en": "terrestrial"
-            },
-            {
-              "hi": "उभयचर",
-              "en": "amphibian"
-            },
-            {
-              "hi": "नभचर",
-              "en": "Nabchar"
-            }
+            {"hi": "मीठा (अलवणीय)", "en": "Sweet (Freshwater)"},
+            {"hi": "खारा (लवणीय)", "en": "Salty (Saline)"},
+            {"hi": "गर्म", "en": "Hot"},
+            {"hi": "पीने योग्य", "en": "Potable"}
           ],
-          "answer": {
-            "hi": "उभयचर",
-            "en": "amphibian"
-          }
+          "answer": {"hi": "खारा (लवणीय)", "en": "Salty (Saline)"}
         },
         {
           "q": {
-            "hi": "पौधों और जंतुओं को समूहों में व्यवस्थित करने की विधि को क्या कहते हैं?",
-            "en": "What is the method of arranging plants and animals into groups called?"
+            "hi": "अलवणीय (पेय) जल किस रूप में पाया जाता है?",
+            "en": "In what form is freshwater found?"
           },
           "options": [
-            {
-              "hi": "विभाजन",
-              "en": "Division"
-            },
-            {
-              "hi": "समूहन",
-              "en": "grouping"
-            },
-            {
-              "hi": "अंकन",
-              "en": "marking"
-            },
-            {
-              "hi": "सर्वेक्षण",
-              "en": "survey"
-            }
+            {"hi": "महासागर", "en": "Oceans"},
+            {"hi": "खाड़ी", "en": "Bays"},
+            {"hi": "हिमनद, नदियाँ और झीलें", "en": "Glaciers, rivers, and lakes"},
+            {"hi": "सागर", "en": "Seas"}
           ],
-          "answer": {
-            "hi": "समूहन",
-            "en": "grouping"
-          }
+          "answer": {"hi": "हिमनद, नदियाँ और झीलें", "en": "Glaciers, rivers, and lakes"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "ऊँचाई और तने के प्रकार के आधार पर पौधों को किन समूहों में बाँटा जा सकता है?",
-            "en": "Into which groups can plants be divided on the basis of height and type of stem?"
+            "hi": "विश्व में कुल कितने प्रमुख महासागर माने जाते हैं?",
+            "en": "How many major oceans are considered in the world?"
           },
           "options": [
-            {
-              "hi": "जड़ और पत्ती",
-              "en": "root and leaf"
-            },
-            {
-              "hi": "शाक, झाड़ी और वृक्ष",
-              "en": "herb, bush and tree"
-            },
-            {
-              "hi": "फल और फूल",
-              "en": "fruits and flowers"
-            },
-            {
-              "hi": "थलीय और जलीय",
-              "en": "terrestrial and aquatic"
-            }
+            {"hi": "चार", "en": "Four"},
+            {"hi": "पाँच", "en": "Five"},
+            {"hi": "सात", "en": "Seven"},
+            {"hi": "तीन", "en": "Three"}
           ],
-          "answer": {
-            "hi": "शाक, झाड़ी और वृक्ष",
-            "en": "herb, bush and tree"
-          }
+          "answer": {"hi": "पाँच", "en": "Five"}
         },
         {
           "q": {
-            "hi": "आम का पौधा किस श्रेणी में आता है?",
-            "en": "Which category does the mango plant fall in?"
+            "hi": "क्षेत्रफल की दृष्टि से सबसे बड़ा महासागर कौन-सा है?",
+            "en": "Which is the largest ocean by area?"
           },
           "options": [
-            {
-              "hi": "शाक",
-              "en": "herb"
-            },
-            {
-              "hi": "झाड़ी",
-              "en": "bush"
-            },
-            {
-              "hi": "वृक्ष",
-              "en": "Tree"
-            },
-            {
-              "hi": "लता",
-              "en": "creeper"
-            }
+            {"hi": "अटलांटिक महासागर", "en": "Atlantic Ocean"},
+            {"hi": "हिंद महासागर", "en": "Indian Ocean"},
+            {"hi": "प्रशांत महासागर", "en": "Pacific Ocean"},
+            {"hi": "आर्कटिक महासागर", "en": "Arctic Ocean"}
           ],
-          "answer": {
-            "hi": "वृक्ष",
-            "en": "Tree"
-          }
+          "answer": {"hi": "प्रशांत महासागर", "en": "Pacific Ocean"}
         },
         {
           "q": {
-            "hi": "टमाटर का पौधा किस श्रेणी में आता है?",
-            "en": "Which category does tomato plant fall in?"
+            "hi": "क्षेत्रफल की दृष्टि से सबसे छोटा महासागर कौन-सा है?",
+            "en": "Which is the smallest ocean by area?"
           },
           "options": [
-            {
-              "hi": "शाक",
-              "en": "herb"
-            },
-            {
-              "hi": "झाड़ी",
-              "en": "bush"
-            },
-            {
-              "hi": "वृक्ष",
-              "en": "Tree"
-            },
-            {
-              "hi": "आरोही",
-              "en": "Ascending"
-            }
+            {"hi": "दक्षिणी महासागर", "en": "Southern Ocean"},
+            {"hi": "आर्कटिक महासागर", "en": "Arctic Ocean"},
+            {"hi": "हिंद महासागर", "en": "Indian Ocean"},
+            {"hi": "प्रशांत महासागर", "en": "Pacific Ocean"}
           ],
-          "answer": {
-            "hi": "शाक",
-            "en": "herb"
-          }
+          "answer": {"hi": "आर्कटिक महासागर", "en": "Arctic Ocean"}
         },
         {
           "q": {
-            "hi": "गुलाब का पौधा किस श्रेणी में आता है?",
-            "en": "Which category does the rose plant fall in?"
+            "hi": "विश्व का दूसरा सबसे बड़ा महासागर कौन-सा है?",
+            "en": "Which is the second largest ocean in the world?"
           },
           "options": [
-            {
-              "hi": "शाक",
-              "en": "herb"
-            },
-            {
-              "hi": "झाड़ी",
-              "en": "bush"
-            },
-            {
-              "hi": "वृक्ष",
-              "en": "Tree"
-            },
-            {
-              "hi": "विसर्पी",
-              "en": "meandering"
-            }
+            {"hi": "हिंद महासागर", "en": "Indian Ocean"},
+            {"hi": "अटलांटिक महासागर", "en": "Atlantic Ocean"},
+            {"hi": "आर्कटिक महासागर", "en": "Arctic Ocean"},
+            {"hi": "प्रशांत महासागर", "en": "Pacific Ocean"}
           ],
-          "answer": {
-            "hi": "झाड़ी",
-            "en": "bush"
-          }
+          "answer": {"hi": "अटलांटिक महासागर", "en": "Atlantic Ocean"}
         },
         {
           "q": {
-            "hi": "जिन पौधों के तने कोमल और हरे होते हैं, उन्हें क्या कहते हैं?",
-            "en": "What are the plants whose stems are soft and green called?"
+            "hi": "हिंद महासागर के पश्चिम में कौन-सा महाद्वीप स्थित है?",
+            "en": "Which continent is located to the west of the Indian Ocean?"
           },
           "options": [
-            {
-              "hi": "झाड़ी",
-              "en": "bush"
-            },
-            {
-              "hi": "शाक",
-              "en": "herb"
-            },
-            {
-              "hi": "वृक्ष",
-              "en": "Tree"
-            },
-            {
-              "hi": "काष्ठीय",
-              "en": "wooden"
-            }
+            {"hi": "आस्ट्रेलिया", "en": "Australia"},
+            {"hi": "एशिया", "en": "Asia"},
+            {"hi": "अफ्रीका", "en": "Africa"},
+            {"hi": "यूरोप", "en": "Europe"}
           ],
-          "answer": {
-            "hi": "शाक",
-            "en": "herb"
-          }
+          "answer": {"hi": "अफ्रीका", "en": "Africa"}
         },
         {
           "q": {
-            "hi": "वृक्षों की शाखाएँ कहाँ से निकलना आरंभ होती हैं?",
-            "en": "Where do the branches of trees start emerging from?"
+            "hi": "भारत के पश्चिम में कौन-सा सागर स्थित है?",
+            "en": "Which sea is located to the west of India?"
           },
           "options": [
-            {
-              "hi": "भूमि के बिल्कुल पास से",
-              "en": "close to the ground"
-            },
-            {
-              "hi": "जड़ से",
-              "en": "from the root"
-            },
-            {
-              "hi": "भूमि से दूर तने की ऊँचाई से",
-              "en": "height of the stem off the ground"
-            },
-            {
-              "hi": "के केवल शिखर से",
-              "en": "only from the top of"
-            }
+            {"hi": "बंगाल की खाड़ी", "en": "Bay of Bengal"},
+            {"hi": "अरब सागर", "en": "Arabian Sea"},
+            {"hi": "लाल सागर", "en": "Red Sea"},
+            {"hi": "आर्कटिक सागर", "en": "Arctic Sea"}
           ],
-          "answer": {
-            "hi": "भूमि से दूर तने की ऊँचाई से",
-            "en": "height of the stem off the ground"
-          }
+          "answer": {"hi": "अरब सागर", "en": "Arabian Sea"}
         },
         {
           "q": {
-            "hi": "आरोही लता (क्लाइम्बर) को बढ़ने के लिए किसकी आवश्यकता होती है?",
-            "en": "What does a climber need to grow?"
+            "hi": "भारत के पूर्व में कौन-सी जलराशि स्थित है?",
+            "en": "Which water body is located to the east of India?"
           },
           "options": [
-            {
-              "hi": "मिट्टी",
-              "en": "Soil"
-            },
-            {
-              "hi": "सहारे",
-              "en": "support"
-            },
-            {
-              "hi": "केवल हवा",
-              "en": "only air"
-            },
-            {
-              "hi": "सूखी पत्तियाँ",
-              "en": "dry leaves"
-            }
+            {"hi": "अरब सागर", "en": "Arabian Sea"},
+            {"hi": "भूमध्य सागर", "en": "Mediterranean Sea"},
+            {"hi": "बंगाल की खाड़ी", "en": "Bay of Bengal"},
+            {"hi": "हिंद महासागर", "en": "Indian Ocean"}
           ],
-          "answer": {
-            "hi": "सहारे",
-            "en": "support"
-          }
+          "answer": {"hi": "बंगाल की खाड़ी", "en": "Bay of Bengal"}
         },
         {
           "q": {
-            "hi": "भूमि की सतह पर फैलकर बढ़ने वाले पौधों को क्या कहते हैं?",
-            "en": "What are the plants that grow on the surface of the land called?"
+            "hi": "महासागरों से उत्पन्न होने वाली विध्वंसक हवाओं को क्या कहते हैं?",
+            "en": "What are the destructive winds originating from the oceans called?"
           },
           "options": [
-            {
-              "hi": "आरोही लता",
-              "en": "climbing vine"
-            },
-            {
-              "hi": "विसर्पी लता (क्रीपर)",
-              "en": "Creeper"
-            },
-            {
-              "hi": "झाड़ी",
-              "en": "bush"
-            },
-            {
-              "hi": "वृक्ष",
-              "en": "Tree"
-            }
+            {"hi": "भूकंप", "en": "Earthquake"},
+            {"hi": "चक्रवात", "en": "Cyclone"},
+            {"hi": "सूखा", "en": "Drought"},
+            {"hi": "ज्वालामुखी", "en": "Volcano"}
           ],
-          "answer": {
-            "hi": "विसर्पी लता (क्रीपर)",
-            "en": "Creeper"
-          }
+          "answer": {"hi": "चक्रवात", "en": "Cyclone"}
         },
         {
           "q": {
-            "hi": "पत्तियों पर दिखाई देने वाली पतली रेखाओं को क्या कहते हैं?",
-            "en": "What are the thin lines seen on leaves called?"
+            "hi": "समुद्र के भीतर भूकंप के कारण उत्पन्न होने वाली विशाल लहरों को क्या कहते हैं?",
+            "en": "What are the giant waves caused by earthquakes under the sea called?"
           },
           "options": [
-            {
-              "hi": "शाखाएँ",
-              "en": "branches"
-            },
-            {
-              "hi": "शिराएँ",
-              "en": "Veins"
-            },
-            {
-              "hi": "तना",
-              "en": "Trunk"
-            },
-            {
-              "hi": "जाल",
-              "en": "Net"
-            }
+            {"hi": "ज्वार", "en": "Tide"},
+            {"hi": "भाटा", "en": "Ebb"},
+            {"hi": "सुनामी", "en": "Tsunami"},
+            {"hi": "धारा", "en": "Current"}
           ],
-          "answer": {
-            "hi": "शिराएँ",
-            "en": "Veins"
-          }
+          "answer": {"hi": "सुनामी", "en": "Tsunami"}
         },
         {
           "q": {
-            "hi": "शिराओं द्वारा दर्शाए गए पैटर्न को क्या कहा जाता है?",
-            "en": "What is the pattern shown by veins called?"
+            "hi": "26 दिसंबर 2004 को सुनामी किस महासागर में आई थी?",
+            "en": "In which ocean did the Tsunami occur on 26 December 2004?"
           },
           "options": [
-            {
-              "hi": "शिरा-विन्यास",
-              "en": "venation"
-            },
-            {
-              "hi": "पर्ण-विन्यास",
-              "en": "foliage arrangement"
-            },
-            {
-              "hi": "जड़-तंत्र",
-              "en": "root system"
-            },
-            {
-              "hi": "कलरव",
-              "en": "Tweet"
-            }
+            {"hi": "प्रशांत महासागर", "en": "Pacific Ocean"},
+            {"hi": "हिंद महासागर", "en": "Indian Ocean"},
+            {"hi": "अटलांटिक महासागर", "en": "Atlantic Ocean"},
+            {"hi": "आर्कटिक महासागर", "en": "Arctic Ocean"}
           ],
-          "answer": {
-            "hi": "शिरा-विन्यास",
-            "en": "venation"
-          }
+          "answer": {"hi": "हिंद महासागर", "en": "Indian Ocean"}
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "गुड़हल की पत्ती में किस प्रकार का शिरा-विन्यास पाया जाता है?",
-            "en": "What type of venation is found in hibiscus leaves?"
+            "hi": "भारत में सुनामी और अन्य आपदाओं के प्रबंधन के लिए कौन-सी संस्था है?",
+            "en": "Which organization in India is responsible for managing Tsunami and other disasters?"
           },
           "options": [
-            {
-              "hi": "समांतर",
-              "en": "parallel"
-            },
-            {
-              "hi": "जालिकारूपी",
-              "en": "reticular"
-            },
-            {
-              "hi": "कोई नहीं",
-              "en": "nobody"
-            },
-            {
-              "hi": "वृत्ताकार",
-              "en": "circular"
-            }
+            {"hi": "भारतीय सेना", "en": "Indian Army"},
+            {"hi": "राष्ट्रीय आपदा प्रबंधन प्राधिकरण", "en": "National Disaster Management Authority"},
+            {"hi": "भारतीय रेलवे", "en": "Indian Railways"},
+            {"hi": "पुलिस विभाग", "en": "Police Department"}
           ],
-          "answer": {
-            "hi": "जालिकारूपी",
-            "en": "reticular"
-          }
+          "answer": {"hi": "राष्ट्रीय आपदा प्रबंधन प्राधिकरण", "en": "National Disaster Management Authority"}
         },
         {
           "q": {
-            "hi": "केले और घास की पत्तियों में किस प्रकार का शिरा-विन्यास होता है?",
-            "en": "What type of venation is there in banana and grass leaves?"
+            "hi": "व्यापक रूप से कितने महाद्वीपों की सूची को अपनाया जाता है?",
+            "en": "The list of how many continents is widely adopted?"
           },
           "options": [
-            {
-              "hi": "समांतर",
-              "en": "parallel"
-            },
-            {
-              "hi": "जालिकारूपी",
-              "en": "reticular"
-            },
-            {
-              "hi": "अनियमित",
-              "en": "irregular"
-            },
-            {
-              "hi": "टेढ़ा-मेढ़ा",
-              "en": "crooked"
-            }
+            {"hi": "पाँच", "en": "Five"},
+            {"hi": "छह", "en": "Six"},
+            {"hi": "सात", "en": "Seven"},
+            {"hi": "चार", "en": "Four"}
           ],
-          "answer": {
-            "hi": "समांतर",
-            "en": "parallel"
-          }
+          "answer": {"hi": "सात", "en": "Seven"}
         },
         {
           "q": {
-            "hi": "मूसला जड़ में एक मुख्य जड़ से निकलने वाली छोटी जड़ों को क्या कहते हैं?",
-            "en": "What are the small roots emerging from a main root in a tap root called?"
+            "hi": "यूरोप और एशिया को मिलाकर कौन-सा भूखंड बनता है?",
+            "en": "Which landmass is formed by combining Europe and Asia?"
           },
           "options": [
-            {
-              "hi": "मुख्य जड़ें",
-              "en": "main roots"
-            },
-            {
-              "hi": "पार्श्व जड़ें",
-              "en": "lateral roots"
-            },
-            {
-              "hi": "झकड़ा जड़ें",
-              "en": "thorny roots"
-            },
-            {
-              "hi": "तंतु",
-              "en": "fiber"
-            }
+            {"hi": "अफ्रीका", "en": "Africa"},
+            {"hi": "यूरेशिया", "en": "Eurasia"},
+            {"hi": "अमेरिका", "en": "America"},
+            {"hi": "ओशिनिया", "en": "Oceania"}
           ],
-          "answer": {
-            "hi": "पार्श्व जड़ें",
-            "en": "lateral roots"
-          }
+          "answer": {"hi": "यूरेशिया", "en": "Eurasia"}
         },
         {
           "q": {
-            "hi": "सरसों के पौधे में किस प्रकार का जड़तंत्र पाया जाता है?",
-            "en": "What type of root system is found in mustard plant?"
+            "hi": "ओलंपिक के पाँच छल्ले किन महाद्वीपों का प्रतिनिधित्व करते हैं?",
+            "en": "The five rings of the Olympics represent which continents?"
           },
           "options": [
-            {
-              "hi": "झकड़ा (रेशेदार)",
-              "en": "fibrous (fibrous)"
-            },
-            {
-              "hi": "मूसला",
-              "en": "pestle"
-            },
-            {
-              "hi": "अपस्थानिक",
-              "en": "alien"
-            },
-            {
-              "hi": "हवाई",
-              "en": "Airport"
-            }
+            {"hi": "सभी सात महाद्वीप", "en": "All seven continents"},
+            {"hi": "पाँच बसे हुए महाद्वीप", "en": "Five inhabited continents"},
+            {"hi": "केवल एशिया", "en": "Only Asia"},
+            {"hi": "केवल यूरोप", "en": "Only Europe"}
           ],
-          "answer": {
-            "hi": "मूसला",
-            "en": "pestle"
-          }
+          "answer": {"hi": "पाँच बसे हुए महाद्वीप", "en": "Five inhabited continents"}
         },
         {
           "q": {
-            "hi": "घास के पौधे की जड़ें किस प्रकार की होती हैं?",
-            "en": "What type of roots do grass plants have?"
+            "hi": "चारों ओर जल से घिरे हुए भूखंड को क्या कहते हैं?",
+            "en": "What is a landmass surrounded by water on all sides called?"
           },
           "options": [
-            {
-              "hi": "मूसला",
-              "en": "pestle"
-            },
-            {
-              "hi": "झकड़ा (रेशेदार)",
-              "en": "fibrous (fibrous)"
-            },
-            {
-              "hi": "मोटी और कठोर",
-              "en": "thick and hard"
-            },
-            {
-              "hi": "काष्ठीय",
-              "en": "wooden"
-            }
+            {"hi": "महाद्वीप", "en": "Continent"},
+            {"hi": "प्रायद्वीप", "en": "Peninsula"},
+            {"hi": "द्वीप", "en": "Island"},
+            {"hi": "पर्वत", "en": "Mountain"}
           ],
-          "answer": {
-            "hi": "झकड़ा (रेशेदार)",
-            "en": "fibrous (fibrous)"
-          }
+          "answer": {"hi": "द्वीप", "en": "Island"}
         },
         {
           "q": {
-            "hi": "जालिकारूपी शिरा-विन्यास वाली पत्तियों वाले पौधों में सामान्यतः कौन सी जड़ें होती हैं?",
-            "en": "Which roots do plants with reticulate venation leaves generally have?"
+            "hi": "विश्व का सबसे बड़ा द्वीप कौन-सा है?",
+            "en": "Which is the largest island in the world?"
           },
           "options": [
-            {
-              "hi": "झकड़ा",
-              "en": "quarrel"
-            },
-            {
-              "hi": "मूसला",
-              "en": "pestle"
-            },
-            {
-              "hi": "कोई जड़ नहीं",
-              "en": "no root"
-            },
-            {
-              "hi": "वायुवीय",
-              "en": "pneumatic"
-            }
+            {"hi": "लक्षद्वीप", "en": "Lakshadweep"},
+            {"hi": "ग्रीनलैंड", "en": "Greenland"},
+            {"hi": "श्रीलंका", "en": "Sri Lanka"},
+            {"hi": "मेडागास्कर", "en": "Madagascar"}
           ],
-          "answer": {
-            "hi": "मूसला",
-            "en": "pestle"
-          }
+          "answer": {"hi": "ग्रीनलैंड", "en": "Greenland"}
         },
         {
           "q": {
-            "hi": "समांतर शिरा-विन्यास वाले पौधों (जैसे गेहूँ) में कौन सी जड़ें पाई जाती हैं?",
-            "en": "Which roots are found in plants with parallel venation (such as wheat)?"
+            "hi": "अंडमान और निकोबार द्वीप समूह कहाँ स्थित है?",
+            "en": "Where is the Andaman and Nicobar Islands group located?"
           },
           "options": [
-            {
-              "hi": "मूसला",
-              "en": "pestle"
-            },
-            {
-              "hi": "झकड़ा (रेशेदार)",
-              "en": "fibrous (fibrous)"
-            },
-            {
-              "hi": "पार्श्व",
-              "en": "side"
-            },
-            {
-              "hi": "महीन",
-              "en": "fine"
-            }
+            {"hi": "अरब सागर", "en": "Arabian Sea"},
+            {"hi": "हिंद महासागर", "en": "Indian Ocean"},
+            {"hi": "बंगाल की खाड़ी", "en": "Bay of Bengal"},
+            {"hi": "प्रशांत महासागर", "en": "Pacific Ocean"}
           ],
-          "answer": {
-            "hi": "झकड़ा (रेशेदार)",
-            "en": "fibrous (fibrous)"
-          }
+          "answer": {"hi": "बंगाल की खाड़ी", "en": "Bay of Bengal"}
         },
         {
           "q": {
-            "hi": "द्विबीजपत्री (डाइकॉट) बीजों में कितने बीजपत्र होते हैं?",
-            "en": "How many cotyledons are there in dicot seeds?"
+            "hi": "लक्षद्वीप द्वीप समूह किस सागर में स्थित है?",
+            "en": "In which sea is the Lakshadweep Islands group located?"
           },
           "options": [
-            {
-              "hi": "एक",
-              "en": "One"
-            },
-            {
-              "hi": "दो",
-              "en": "Two"
-            },
-            {
-              "hi": "तीन",
-              "en": "Three"
-            },
-            {
-              "hi": "अनेक",
-              "en": "many"
-            }
+            {"hi": "अरब सागर", "en": "Arabian Sea"},
+            {"hi": "बंगाल की खाड़ी", "en": "Bay of Bengal"},
+            {"hi": "कैस्पियन सागर", "en": "Caspian Sea"},
+            {"hi": "लाल सागर", "en": "Red Sea"}
           ],
-          "answer": {
-            "hi": "दो",
-            "en": "Two"
-          }
+          "answer": {"hi": "अरब सागर", "en": "Arabian Sea"}
         },
         {
           "q": {
-            "hi": "मक्का का बीज किस श्रेणी में आता है?",
-            "en": "Which category does maize seed fall in?"
+            "hi": "अंटार्कटिका में भारत का पहला वैज्ञानिक बेस स्टेशन कौन-सा था?",
+            "en": "Which was India's first scientific base station in Antarctica?"
           },
           "options": [
-            {
-              "hi": "द्विबीजपत्री",
-              "en": "dicotyledon"
-            },
-            {
-              "hi": "एकबीजपत्री",
-              "en": "monocotyledon"
-            },
-            {
-              "hi": "त्रिबीजपत्री",
-              "en": "tricotyledon"
-            },
-            {
-              "hi": "बीजहीन",
-              "en": "seedless"
-            }
+            {"hi": "मैत्री", "en": "Maitri"},
+            {"hi": "भारती", "en": "Bharati"},
+            {"hi": "दक्षिण गंगोत्री", "en": "Dakshin Gangotri"},
+            {"hi": "हिमालय", "en": "Himalaya"}
           ],
-          "answer": {
-            "hi": "एकबीजपत्री",
-            "en": "monocotyledon"
-          }
+          "answer": {"hi": "दक्षिण गंगोत्री", "en": "Dakshin Gangotri"}
         },
         {
           "q": {
-            "hi": "चने का बीज किस प्रकार का उदाहरण है?",
-            "en": "What type of example is a gram seed?"
+            "hi": "विश्व की लगभग आधी ऑक्सीजन कौन उत्पन्न करता है?",
+            "en": "Who produces about half of the world's oxygen?"
           },
           "options": [
-            {
-              "hi": "एकबीजपत्री",
-              "en": "monocotyledon"
-            },
-            {
-              "hi": "द्विबीजपत्री",
-              "en": "dicotyledon"
-            },
-            {
-              "hi": "शाक",
-              "en": "herb"
-            },
-            {
-              "hi": "झाड़ी",
-              "en": "bush"
-            }
+            {"hi": "अमेजन के जंगल", "en": "Amazon forests"},
+            {"hi": "महासागर का वनस्पति जगत", "en": "Ocean's vegetation"},
+            {"hi": "खेत", "en": "Farms"},
+            {"hi": "पहाड़", "en": "Mountains"}
           ],
-          "answer": {
-            "hi": "द्विबीजपत्री",
-            "en": "dicotyledon"
-          }
+          "answer": {"hi": "महासागर का वनस्पति जगत", "en": "Ocean's vegetation"}
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "मछली जल में गति करने के लिए किसका उपयोग करती है?",
-            "en": "What do fish use to move in water?"
+            "hi": "किसे 'पृथ्वी के फेफड़े' कहा जाता है?",
+            "en": "What are called the 'lungs of the Earth'?"
           },
           "options": [
-            {
-              "hi": "टाँगें",
-              "en": "legs"
-            },
-            {
-              "hi": "पख (फिन)",
-              "en": "fin"
-            },
-            {
-              "hi": "पंख",
-              "en": "Wing"
-            },
-            {
-              "hi": "पूछ",
-              "en": "ask"
-            }
+            {"hi": "महाद्वीप", "en": "Continents"},
+            {"hi": "महासागर", "en": "Oceans"},
+            {"hi": "बादल", "en": "Clouds"},
+            {"hi": "हिमनद", "en": "Glaciers"}
           ],
-          "answer": {
-            "hi": "पख (फिन)",
-            "en": "fin"
-          }
+          "answer": {"hi": "महासागर", "en": "Oceans"}
         },
         {
           "q": {
-            "hi": "भारतीय वनस्पतिशास्त्री जानकी अम्माल का मुख्य योगदान किसमें था?",
-            "en": "What was the main contribution of Indian botanist Janaki Ammal?"
+            "hi": "विश्व महासागर दिवस कब मनाया जाता है?",
+            "en": "When is World Ocean Day celebrated?"
           },
           "options": [
-            {
-              "hi": "रसायन विज्ञान",
-              "en": "chemistry"
-            },
-            {
-              "hi": "जैव विविधता का संरक्षण",
-              "en": "conservation of biodiversity"
-            },
-            {
-              "hi": "तारामंडल की खोज",
-              "en": "exploration of constellations"
-            },
-            {
-              "hi": "विद्युत ऊर्जा",
-              "en": "electrical energy"
-            }
+            {"hi": "5 जून", "en": "5 June"},
+            {"hi": "8 जून", "en": "8 June"},
+            {"hi": "15 अगस्त", "en": "15 August"},
+            {"hi": "22 अप्रैल", "en": "22 April"}
           ],
-          "answer": {
-            "hi": "जैव विविधता का संरक्षण",
-            "en": "conservation of biodiversity"
-          }
+          "answer": {"hi": "8 जून", "en": "8 June"}
         },
         {
           "q": {
-            "hi": "'साइलेंट वैली बचाओ' आंदोलन भारत के किस राज्य से संबंधित है?",
-            "en": "'Save Silent Valley' movement is related to which state of India?"
+            "hi": "महासागरों में प्रदूषण का एक मुख्य कारण क्या है?",
+            "en": "What is a major cause of pollution in the oceans?"
           },
           "options": [
-            {
-              "hi": "राजस्थान",
-              "en": "Rajasthan"
-            },
-            {
-              "hi": "केरल",
-              "en": "Kerala"
-            },
-            {
-              "hi": "हिमाचल प्रदेश",
-              "en": "Himachal Pradesh"
-            },
-            {
-              "hi": "सिक्किम",
-              "en": "Sikkim"
-            }
+            {"hi": "मछली पकड़ना", "en": "Fishing"},
+            {"hi": "प्लास्टिक कचरा", "en": "Plastic waste"},
+            {"hi": "जहाज चलना", "en": "Shipping"},
+            {"hi": "बारिश", "en": "Rain"}
           ],
-          "answer": {
-            "hi": "केरल",
-            "en": "Kerala"
-          }
+          "answer": {"hi": "प्लास्टिक कचरा", "en": "Plastic waste"}
         },
         {
           "q": {
-            "hi": "मरुस्थल में उगने वाले नागफनी के पौधों के तने कैसे होते हैं?",
-            "en": "What kind of stems do the hawthorn plants growing in the desert have?"
+            "hi": "उत्तरी गोलार्ध में स्थल भाग दक्षिणी गोलार्ध की तुलना में कैसा है?",
+            "en": "How is the land portion in the Northern hemisphere compared to the Southern hemisphere?"
           },
           "options": [
-            {
-              "hi": "पतले और सूखे",
-              "en": "thin and dry"
-            },
-            {
-              "hi": "मोटे और मांसल",
-              "en": "thick and fleshy"
-            },
-            {
-              "hi": "काले",
-              "en": "black"
-            },
-            {
-              "hi": "कमजोर",
-              "en": "Weak"
-            }
+            {"hi": "कम है", "en": "Less"},
+            {"hi": "अधिक है", "en": "More"},
+            {"hi": "बराबर है", "en": "Equal"},
+            {"hi": "शून्य है", "en": "Zero"}
           ],
-          "answer": {
-            "hi": "मोटे और मांसल",
-            "en": "thick and fleshy"
-          }
+          "answer": {"hi": "अधिक है", "en": "More"}
         },
         {
           "q": {
-            "hi": "पर्वतीय क्षेत्रों में देवदार के वृक्षों की आकृति कैसी होती है?",
-            "en": "What is the shape of cedar trees in mountainous areas?"
+            "hi": "क्षेत्रफल के अनुसार सबसे बड़ा महाद्वीप कौन-सा है?",
+            "en": "Which is the largest continent by area?"
           },
           "options": [
-            {
-              "hi": "छतरी जैसी",
-              "en": "like an umbrella"
-            },
-            {
-              "hi": "शंक्वाकार",
-              "en": "conical"
-            },
-            {
-              "hi": "गोलाकार",
-              "en": "spherical"
-            },
-            {
-              "hi": "सीधी",
-              "en": "straight"
-            }
+            {"hi": "अफ्रीका", "en": "Africa"},
+            {"hi": "एशिया", "en": "Asia"},
+            {"hi": "उत्तरी अमेरिका", "en": "North America"},
+            {"hi": "यूरोप", "en": "Europe"}
           ],
-          "answer": {
-            "hi": "शंक्वाकार",
-            "en": "conical"
-          }
+          "answer": {"hi": "एशिया", "en": "Asia"}
         },
         {
           "q": {
-            "hi": "राजस्थान के गरम मरुस्थल में रहने वाले ऊँटों के पैर कैसे होते हैं?",
-            "en": "What are the feet of camels living in the hot desert of Rajasthan?"
+            "hi": "क्षेत्रफल के अनुसार सबसे छोटा महाद्वीप कौन-सा है?",
+            "en": "Which is the smallest continent by area?"
           },
           "options": [
-            {
-              "hi": "छोटे",
-              "en": "small"
-            },
-            {
-              "hi": "लंबे और चौड़े खुर वाले",
-              "en": "long and broad hoofed"
-            },
-            {
-              "hi": "झिल्लीदार",
-              "en": "membranous"
-            },
-            {
-              "hi": "बहुत पतले",
-              "en": "very thin"
-            }
+            {"hi": "आस्ट्रेलिया", "en": "Australia"},
+            {"hi": "यूरोप", "en": "Europe"},
+            {"hi": "अंटार्कटिका", "en": "Antarctica"},
+            {"hi": "दक्षिणी अमेरिका", "en": "South America"}
           ],
-          "answer": {
-            "hi": "लंबे और चौड़े खुर वाले",
-            "en": "long and broad hoofed"
-          }
+          "answer": {"hi": "आस्ट्रेलिया", "en": "Australia"}
         },
         {
           "q": {
-            "hi": "लद्दाख के ठंडे मरुस्थल के ऊँटों में कितने कूबड़ होते हैं?",
-            "en": "How many humps do camels of the cold desert of Ladakh have?"
+            "hi": "अंटार्कटिका महाद्वीप की जलवायु कैसी है?",
+            "en": "What is the climate of the Antarctica continent?"
           },
           "options": [
-            {
-              "hi": "एक",
-              "en": "One"
-            },
-            {
-              "hi": "दो",
-              "en": "Two"
-            },
-            {
-              "hi": "तीन",
-              "en": "Three"
-            },
-            {
-              "hi": "कोई नहीं",
-              "en": "nobody"
-            }
+            {"hi": "उष्ण", "en": "Hot"},
+            {"hi": "समशीतोष्ण", "en": "Temperate"},
+            {"hi": "अत्यधिक ठंडी और कठोर", "en": "Extremely cold and harsh"},
+            {"hi": "नम", "en": "Humid"}
           ],
-          "answer": {
-            "hi": "दो",
-            "en": "Two"
-          }
+          "answer": {"hi": "अत्यधिक ठंडी और कठोर", "en": "Extremely cold and harsh"}
         },
         {
           "q": {
-            "hi": "ऊँट अपने शरीर में पानी की बचत कैसे करते हैं?",
-            "en": "How do camels save water in their bodies?"
+            "hi": "महासागरों से उत्पन्न बादल महाद्वीपों में क्या लाते हैं?",
+            "en": "What do clouds originating from the oceans bring to the continents?"
           },
           "options": [
-            {
-              "hi": "कम मूत्र विसर्जन और पसीना न आना",
-              "en": "low urine output and lack of sweating"
-            },
-            {
-              "hi": "ज्यादा दौड़कर",
-              "en": "by running a lot"
-            },
-            {
-              "hi": "छाया में सोकर",
-              "en": "sleeping in the shade"
-            },
-            {
-              "hi": "पत्तियाँ खाकर",
-              "en": "by eating leaves"
-            }
+            {"hi": "धूल", "en": "Dust"},
+            {"hi": "वर्षा", "en": "Rain"},
+            {"hi": "धुआं", "en": "Smoke"},
+            {"hi": "प्रकाश", "en": "Light"}
           ],
-          "answer": {
-            "hi": "कम मूत्र विसर्जन और पसीना न आना",
-            "en": "low urine output and lack of sweating"
-          }
+          "answer": {"hi": "वर्षा", "en": "Rain"}
         },
         {
           "q": {
-            "hi": "विशिष्ट विशेषताएँ जो जीवों को किसी क्षेत्र में जीवित रहने में सक्षम बनाती हैं, क्या कहलाती हैं?",
-            "en": "What are the special characteristics that enable organisms to survive in an area called?"
+            "hi": "ग्रीनलैंड का आकार भारत के कितने बड़े राज्यों के क्षेत्रफल के बराबर है?",
+            "en": "The size of Greenland is equal to the area of how many large Indian states?"
           },
           "options": [
-            {
-              "hi": "आवास",
-              "en": "Accommodation"
-            },
-            {
-              "hi": "अनुकूलन",
-              "en": "Adaptation"
-            },
-            {
-              "hi": "प्रदूषण",
-              "en": "pollution"
-            },
-            {
-              "hi": "विविधता",
-              "en": "Diversity"
-            }
+            {"hi": "2", "en": "2"},
+            {"hi": "5", "en": "5"},
+            {"hi": "10", "en": "10"},
+            {"hi": "20", "en": "20"}
           ],
-          "answer": {
-            "hi": "अनुकूलन",
-            "en": "Adaptation"
-          }
+          "answer": {"hi": "10", "en": "10"}
         },
         {
           "q": {
-            "hi": "वह स्थान जहाँ पौधे और जंतु रहते हैं, उसे क्या कहते हैं?",
-            "en": "What is the place where plants and animals live called?"
+            "hi": "भारत में कुल कितने द्वीप हैं?",
+            "en": "How many islands are there in India in total?"
           },
           "options": [
-            {
-              "hi": "मैदान",
-              "en": "Field"
-            },
-            {
-              "hi": "आवास",
-              "en": "Accommodation"
-            },
-            {
-              "hi": "अनुकूलन",
-              "en": "Adaptation"
-            },
-            {
-              "hi": "बाजार",
-              "en": "Market"
-            }
+            {"hi": "100 से कम", "en": "Less than 100"},
+            {"hi": "लगभग 500", "en": "About 500"},
+            {"hi": "1,300 से अधिक", "en": "More than 1,300"},
+            {"hi": "केवल 2", "en": "Only 2"}
           ],
-          "answer": {
-            "hi": "आवास",
-            "en": "Accommodation"
-          }
+          "answer": {"hi": "1,300 से अधिक", "en": "More than 1,300"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "'भारत का पक्षी पुरुष' (बर्ड मैन ऑफ इंडिया) के रूप में किन्हें जाना जाता है?",
-            "en": "Who is known as 'Bird Man of India'?"
+            "hi": "महासागर पृथ्वी के लगभग कितने भाग पर व्याप्त है?",
+            "en": "Oceans occupy approximately how much part of the Earth?"
           },
           "options": [
-            {
-              "hi": "डॉ. रघु",
-              "en": "Dr Raghu"
-            },
-            {
-              "hi": "सालिम अली",
-              "en": "Salim Ali"
-            },
-            {
-              "hi": "मनीराम चाचा",
-              "en": "Maniram uncle"
-            },
-            {
-              "hi": "जेम्स लिंड",
-              "en": "James Lind"
-            }
+            {"hi": "1/2 भाग", "en": "1/2 part"},
+            {"hi": "7/10 भाग", "en": "7/10 part"},
+            {"hi": "1/4 भाग", "en": "1/4 part"},
+            {"hi": "9/10 भाग", "en": "9/10 part"}
           ],
-          "answer": {
-            "hi": "सालिम अली",
-            "en": "Salim Ali"
-          }
+          "answer": {"hi": "7/10 भाग", "en": "7/10 part"}
         },
         {
           "q": {
-            "hi": "सालिम अली को उनके योगदान के लिए किस सम्मान से नवाजा गया?",
-            "en": "Which honor was given to Salim Ali for his contribution?"
+            "hi": "समुद्री वनस्पति जगत में क्या सम्मिलित है?",
+            "en": "What is included in the marine plant kingdom?"
           },
           "options": [
-            {
-              "hi": "पद्म भूषण",
-              "en": "Padma Bhushan"
-            },
-            {
-              "hi": "पद्म विभूषण",
-              "en": "Padma Vibhushan"
-            },
-            {
-              "hi": "भारत रत्न",
-              "en": "Bharat Ratna"
-            },
-            {
-              "hi": "परमवीर चक्र",
-              "en": "Paramveer Chakra"
-            }
+            {"hi": "केवल बड़े पेड़", "en": "Only big trees"},
+            {"hi": "छोटे पौधे एवं समुद्री शैवाल", "en": "Small plants and seaweeds"},
+            {"hi": "रेगिस्तानी झाड़ियाँ", "en": "Desert shrubs"},
+            {"hi": "पर्वतीय वन", "en": "Mountain forests"}
           ],
-          "answer": {
-            "hi": "पद्म विभूषण",
-            "en": "Padma Vibhushan"
-          }
+          "answer": {"hi": "छोटे पौधे एवं समुद्री शैवाल", "en": "Small plants and seaweeds"}
         },
         {
           "q": {
-            "hi": "थलीय आवास का उदाहरण इनमें से कौन सा है?",
-            "en": "Which of the following is an example of terrestrial habitat?"
+            "hi": "कौन-सा महासागर तीसरे स्थान पर है?",
+            "en": "Which ocean is in the third position (by size)?"
           },
           "options": [
-            {
-              "hi": "महासागर",
-              "en": "ocean"
-            },
-            {
-              "hi": "नदियाँ",
-              "en": "rivers"
-            },
-            {
-              "hi": "वन और मरुस्थल",
-              "en": "forests and deserts"
-            },
-            {
-              "hi": "झील",
-              "en": "Lake"
-            }
+            {"hi": "प्रशांत महासागर", "en": "Pacific Ocean"},
+            {"hi": "हिंद महासागर", "en": "Indian Ocean"},
+            {"hi": "अटलांटिक महासागर", "en": "Atlantic Ocean"},
+            {"hi": "दक्षिणी महासागर", "en": "Southern Ocean"}
           ],
-          "answer": {
-            "hi": "वन और मरुस्थल",
-            "en": "forests and deserts"
-          }
+          "answer": {"hi": "हिंद महासागर", "en": "Indian Ocean"}
         },
         {
           "q": {
-            "hi": "जलीय आवास का उदाहरण कौन सा है?",
-            "en": "Which is an example of aquatic habitat?"
+            "hi": "वनस्पति जगत (Flora) का क्या अर्थ है?",
+            "en": "What does Flora mean?"
           },
           "options": [
-            {
-              "hi": "पर्वतीय क्षेत्र",
-              "en": "mountainous terrain"
-            },
-            {
-              "hi": "घास के मैदान",
-              "en": "grasslands"
-            },
-            {
-              "hi": "तालाब और समुद्र",
-              "en": "pond and sea"
-            },
-            {
-              "hi": "रेगिस्तान",
-              "en": "Desert"
-            }
+            {"hi": "जीव-जंतु", "en": "Animals"},
+            {"hi": "पेड़-पौधे", "en": "Plants"},
+            {"hi": "चट्टानें", "en": "Rocks"},
+            {"hi": "मिट्टी", "en": "Soil"}
           ],
-          "answer": {
-            "hi": "तालाब और समुद्र",
-            "en": "pond and sea"
-          }
+          "answer": {"hi": "पेड़-पौधे", "en": "Plants"}
         },
         {
           "q": {
-            "hi": "जैव विविधता की हानि का मुख्य कारण क्या है?",
-            "en": "What is the main reason for loss of biodiversity?"
+            "hi": "प्राणि जगत (Fauna) का क्या अर्थ है?",
+            "en": "What does Fauna mean?"
           },
           "options": [
-            {
-              "hi": "नया भोजन मिलना",
-              "en": "getting new food"
-            },
-            {
-              "hi": "आवासों का नष्ट होना",
-              "en": "destruction of habitats"
-            },
-            {
-              "hi": "बारिश होना",
-              "en": "to rain"
-            },
-            {
-              "hi": "पेड़ लगाना",
-              "en": "To plant trees"
-            }
+            {"hi": "पौधे", "en": "Plants"},
+            {"hi": "मशीनें", "en": "Machines"},
+            {"hi": "जीव-जंतु", "en": "Animals"},
+            {"hi": "समुद्र", "en": "Sea"}
           ],
-          "answer": {
-            "hi": "आवासों का नष्ट होना",
-            "en": "destruction of habitats"
-          }
+          "answer": {"hi": "जीव-जंतु", "en": "Animals"}
         },
         {
           "q": {
-            "hi": "बंगाल टाइगर के संरक्षण के लिए 'बाघ परियोजना' कब आरंभ की गई थी?",
-            "en": "When was 'Project Tiger' started for the conservation of Bengal Tiger?"
+            "hi": "सुनामी लहरें किसके कारण उत्पन्न होती हैं?",
+            "en": "Tsunami waves are generated due to what?"
           },
           "options": [
-            {
-              "hi": "1947",
-              "en": "1947"
-            },
-            {
-              "hi": "1973",
-              "en": "1973"
-            },
-            {
-              "hi": "2002",
-              "en": "2002"
-            },
-            {
-              "hi": "2022",
-              "en": "2022"
-            }
+            {"hi": "चांद की रोशनी", "en": "Moonlight"},
+            {"hi": "तेज धूप", "en": "Bright sun"},
+            {"hi": "तीव्र भूकंप अथवा ज्वालामुखी", "en": "Strong earthquake or volcano"},
+            {"hi": "मानवीय शोर", "en": "Human noise"}
           ],
-          "answer": {
-            "hi": "1973",
-            "en": "1973"
-          }
+          "answer": {"hi": "तीव्र भूकंप अथवा ज्वालामुखी", "en": "Strong earthquake or volcano"}
         },
         {
           "q": {
-            "hi": "चीता पुनर्वास परियोजना किस वर्ष प्रारंभ की गई?",
-            "en": "In which year was the Cheetah Rehabilitation Project started?"
+            "hi": "भारत का दक्षिणतम द्वीप समूह कौन-सा है?",
+            "en": "Which is the southernmost island group of India?"
           },
           "options": [
-            {
-              "hi": "2020",
-              "en": "2020"
-            },
-            {
-              "hi": "2021",
-              "en": "2021"
-            },
-            {
-              "hi": "2022",
-              "en": "2022"
-            },
-            {
-              "hi": "2023",
-              "en": "2023"
-            }
+            {"hi": "लक्षद्वीप", "en": "Lakshadweep"},
+            {"hi": "अंडमान और निकोबार", "en": "Andaman and Nicobar"},
+            {"hi": "श्रीलंका", "en": "Sri Lanka"},
+            {"hi": "मालदीव", "en": "Maldives"}
           ],
-          "answer": {
-            "hi": "2022",
-            "en": "2022"
-          }
+          "answer": {"hi": "अंडमान और निकोबार", "en": "Andaman and Nicobar"}
         },
         {
           "q": {
-            "hi": "स्थानीय समुदाय द्वारा संरक्षित वनों को क्या कहा जाता है?",
-            "en": "What are the forests protected by the local community called?"
+            "hi": "हिंद महासागर के पूर्व में कौन-सा महाद्वीप है?",
+            "en": "Which continent is to the east of the Indian Ocean?"
           },
           "options": [
-            {
-              "hi": "सरकारी वन",
-              "en": "government forest"
-            },
-            {
-              "hi": "पवित्र उपवन (सेक्रेड ग्रोव्स)",
-              "en": "Sacred Groves"
-            },
-            {
-              "hi": "खाली मैदान",
-              "en": "empty field"
-            },
-            {
-              "hi": "नर्सरी",
-              "en": "nursery"
-            }
+            {"hi": "अफ्रीका", "en": "Africa"},
+            {"hi": "यूरोप", "en": "Europe"},
+            {"hi": "आस्ट्रेलिया", "en": "Australia"},
+            {"hi": "अमेरिका", "en": "America"}
           ],
-          "answer": {
-            "hi": "पवित्र उपवन (सेक्रेड ग्रोव्स)",
-            "en": "Sacred Groves"
-          }
+          "answer": {"hi": "आस्ट्रेलिया", "en": "Australia"}
         },
         {
           "q": {
-            "hi": "मूली किस प्रकार की जड़ का उदाहरण है?",
-            "en": "Radish is an example of which type of root?"
+            "hi": "महाद्वीपों को सामान्यतः कितनी संख्या में गिना जाता है?",
+            "en": "In what number are continents generally counted?"
           },
           "options": [
-            {
-              "hi": "झकड़ा जड़",
-              "en": "thorn root"
-            },
-            {
-              "hi": "मूसला जड़",
-              "en": "tap root"
-            },
-            {
-              "hi": "हवाई जड़",
-              "en": "aerial root"
-            },
-            {
-              "hi": "अपस्थानिक जड़",
-              "en": "adventitious root"
-            }
+            {"hi": "4", "en": "4"},
+            {"hi": "7", "en": "7"},
+            {"hi": "10", "en": "10"},
+            {"hi": "5", "en": "5"}
           ],
-          "answer": {
-            "hi": "मूसला जड़",
-            "en": "tap root"
-          }
+          "answer": {"hi": "7", "en": "7"}
         },
         {
           "q": {
-            "hi": "बत्तख के पंजों की क्या विशेषता है जो उसे तैरने में मदद करती है?",
-            "en": "What is the special feature of a duck's claws that helps it swim?"
+            "hi": "महासागरों को बचाने का उत्तरदायित्व किसका है?",
+            "en": "Whose responsibility is it to save the oceans?"
           },
           "options": [
-            {
-              "hi": "नुकीले नाखून",
-              "en": "sharp nails"
-            },
-            {
-              "hi": "झिल्लीयुक्त पंजे",
-              "en": "webbed claws"
-            },
-            {
-              "hi": "बहुत लंबे पैर",
-              "en": "very long legs"
-            },
-            {
-              "hi": "गुलाबी रंग",
-              "en": "pink Colour"
-            }
+            {"hi": "केवल सरकार का", "en": "Only the government's"},
+            {"hi": "केवल वैज्ञानिकों का", "en": "Only the scientists'"},
+            {"hi": "हम सभी का सामूहिक दायित्व", "en": "A collective responsibility of all of us"},
+            {"hi": "किसी का नहीं", "en": "No one's"}
           ],
-          "answer": {
-            "hi": "झिल्लीयुक्त पंजे",
-            "en": "webbed claws"
-          }
+          "answer": {"hi": "हम सभी का सामूहिक दायित्व", "en": "A collective responsibility of all of us"}
         }
       ]
     },
