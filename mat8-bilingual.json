@@ -1328,661 +1328,661 @@
       "section1": [
         {
           "q": {
-            "hi": "एग्रीकल्चर शब्द की उत्पत्ति किस भाषा के शब्दों से हुई है?",
-            "en": "The word agriculture is derived from words of which language?"
+            "hi": "केवल रेखाखंडों से बना सरल बंद वक्र क्या कहलाता है?",
+            "en": "What is a simple closed curve made up of only line segments called?"
           },
           "options": [
-            { "hi": "ग्रीक", "en": "Greek" },
-            { "hi": "लैटिन", "en": "Latin" },
-            { "hi": "फ्रेंच", "en": "French" },
-            { "hi": "स्पेनिश", "en": "Spanish" }
+            {"hi": "वक्र", "en": "Curve"},
+            {"hi": "बहुभुज", "en": "Polygon"},
+            {"hi": "वृत्त", "en": "Circle"},
+            {"hi": "रेखा", "en": "Line"}
           ],
-          "answer": { "hi": "लैटिन", "en": "Latin" }
+          "answer": {"hi": "बहुभुज", "en": "Polygon"}
         },
         {
           "q": {
-            "hi": "इनमें से कौन-सा एक प्राथमिक क्रिया का उदाहरण है?",
-            "en": "Which of the following is an example of a primary activity?"
+            "hi": "जिस बहुभुज के विकर्णों का कोई भी भाग बहिर्भाग में नहीं होता, वह क्या कहलाता है?",
+            "en": "A polygon whose diagonals have no portion in its exterior is called?"
           },
           "options": [
-            { "hi": "बैंकिंग", "en": "Banking" },
-            { "hi": "कपड़ा बुनना", "en": "Weaving cloth" },
-            { "hi": "कृषि", "en": "Agriculture" },
-            { "hi": "विज्ञापन", "en": "Advertising" }
+            {"hi": "अवतल बहुभुज", "en": "Concave polygon"},
+            {"hi": "उत्तल बहुभुज", "en": "Convex polygon"},
+            {"hi": "विषम बहुभुज", "en": "Irregular polygon"},
+            {"hi": "सरल वक्र", "en": "Simple curve"}
           ],
-          "answer": { "hi": "कृषि", "en": "Agriculture" }
+          "answer": {"hi": "उत्तल बहुभुज", "en": "Convex polygon"}
         },
         {
           "q": {
-            "hi": "विश्व में कितने प्रतिशत लोग कृषि से संबंधित क्रियाओं में संलग्न हैं?",
-            "en": "What percentage of people in the world are engaged in agricultural activities?"
+            "hi": "एक सम बहुभुज (Regular Polygon) कैसा होता है?",
+            "en": "What are the characteristics of a regular polygon?"
           },
           "options": [
-            { "hi": "25 प्रतिशत", "en": "25 percent" },
-            { "hi": "50 प्रतिशत", "en": "50 percent" },
-            { "hi": "75 प्रतिशत", "en": "75 percent" },
-            { "hi": "90 प्रतिशत", "en": "90 percent" }
+            {"hi": "केवल समभुज", "en": "Equilateral only"},
+            {"hi": "केवल समकोणिक", "en": "Equiangular only"},
+            {"hi": "समभुज तथा समकोणिक", "en": "Both equilateral and equiangular"},
+            {"hi": "विषमबाहु", "en": "Scalene"}
           ],
-          "answer": { "hi": "50 प्रतिशत", "en": "50 percent" }
+          "answer": {"hi": "समभुज तथा समकोणिक", "en": "Both equilateral and equiangular"}
         },
         {
           "q": {
-            "hi": "भारत की कितनी जनसंख्या अब तक कृषि पर निर्भर है?",
-            "en": "How much of India's population is still dependent on agriculture?"
+            "hi": "एक वर्ग किस प्रकार का बहुभुज है?",
+            "en": "What type of polygon is a square?"
           },
           "options": [
-            { "hi": "एक-तिहाई", "en": "One-third" },
-            { "hi": "आधा", "en": "Half" },
-            { "hi": "दो-तिहाई", "en": "Two-thirds" },
-            { "hi": "एक-चौथाई", "en": "One-fourth" }
+            {"hi": "विषम बहुभुज", "en": "Irregular polygon"},
+            {"hi": "सम बहुभुज", "en": "Regular polygon"},
+            {"hi": "अवतल बहुभुज", "en": "Concave polygon"},
+            {"hi": "त्रिभुज", "en": "Triangle"}
           ],
-          "answer": { "hi": "दो-तिहाई", "en": "Two-thirds" }
+          "answer": {"hi": "सम बहुभुज", "en": "Regular polygon"}
         },
         {
           "q": {
-            "hi": "द्वितीयक क्रियाएं किससे संबंधित हैं?",
-            "en": "Secondary activities are related to what?"
+            "hi": "किसी बहुभुज के सभी बाह्य कोणों के मापों का योग कितना होता है?",
+            "en": "What is the sum of the measures of the external angles of any polygon?"
           },
           "options": [
-            { "hi": "संसाधनों का निष्कर्षण", "en": "Extraction of resources" },
-            { "hi": "संसाधनों का प्रसंस्करण", "en": "Processing of resources" },
-            { "hi": "सेवा कार्य", "en": "Service works" },
-            { "hi": "पशुपालन", "en": "Animal husbandry" }
+            {"hi": "180°", "en": "180°"},
+            {"hi": "360°", "en": "360°"},
+            {"hi": "540°", "en": "540°"},
+            {"hi": "90°", "en": "90°"}
           ],
-          "answer": { "hi": "संसाधनों का प्रसंस्करण", "en": "Processing of resources" }
+          "answer": {"hi": "360°", "en": "360°"}
         },
         {
           "q": {
-            "hi": "तृतीयक क्रियाओं का एक उदाहरण कौन-सा है?",
-            "en": "What is an example of tertiary activities?"
+            "hi": "एक सम बहुभुज की भुजाओं की संख्या क्या होगी यदि प्रत्येक बाह्य कोण 45° हो?",
+            "en": "What is the number of sides of a regular polygon if each exterior angle is 45°?"
           },
           "options": [
-            { "hi": "मत्स्यन", "en": "Fishing" },
-            { "hi": "इस्पात विनिर्माण", "en": "Steel manufacturing" },
-            { "hi": "यातायात", "en": "Transport" },
-            { "hi": "खेती", "en": "Farming" }
+            {"hi": "4", "en": "4"},
+            {"hi": "6", "en": "6"},
+            {"hi": "8", "en": "8"},
+            {"hi": "10", "en": "10"}
           ],
-          "answer": { "hi": "यातायात", "en": "Transport" }
+          "answer": {"hi": "8", "en": "8"}
         },
         {
           "q": {
-            "hi": "रेशम के कीटों का वाणिज्यिक पालन क्या कहलाता है?",
-            "en": "What is the commercial rearing of silkworms called?"
+            "hi": "वह चतुर्भुज जिसमें भुजाओं का केवल एक युग्म समांतर होता है, क्या कहलाता है?",
+            "en": "What is a quadrilateral called in which only one pair of sides is parallel?"
           },
           "options": [
-            { "hi": "पिसीकल्चर", "en": "Pisciculture" },
-            { "hi": "सेरीकल्चर", "en": "Sericulture" },
-            { "hi": "विटिकल्चर", "en": "Viticulture" },
-            { "hi": "हॉर्टीकल्चर", "en": "Horticulture" }
+            {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"},
+            {"hi": "समलंब", "en": "Trapezium"},
+            {"hi": "पतंग", "en": "Kite"},
+            {"hi": "आयत", "en": "Rectangle"}
           ],
-          "answer": { "hi": "सेरीकल्चर", "en": "Sericulture" }
+          "answer": {"hi": "समलंब", "en": "Trapezium"}
         },
         {
           "q": {
-            "hi": "अंगूरों की खेती को किस नाम से जाना जाता है?",
-            "en": "By what name is the cultivation of grapes known?"
+            "hi": "एक समांतर चतुर्भुज में सम्मुख भुजाएँ कैसी होती हैं?",
+            "en": "How are the opposite sides in a parallelogram?"
           },
           "options": [
-            { "hi": "विटिकल्चर", "en": "Viticulture" },
-            { "hi": "हॉर्टीकल्चर", "en": "Horticulture" },
-            { "hi": "सेरीकल्चर", "en": "Sericulture" },
-            { "hi": "पिसीकल्चर", "en": "Pisciculture" }
+            {"hi": "असमान", "en": "Unequal"},
+            {"hi": "बराबर माप की", "en": "Equal in measure"},
+            {"hi": "केवल लंबवत", "en": "Only perpendicular"},
+            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
           ],
-          "answer": { "hi": "विटिकल्चर", "en": "Viticulture" }
+          "answer": {"hi": "बराबर माप की", "en": "Equal in measure"}
         },
         {
           "q": {
-            "hi": "मत्स्यपालन को विशिष्ट रूप से क्या कहा जाता है?",
-            "en": "What is fish breeding specifically called?"
+            "hi": "समांतर चतुर्भुज के आसन्न कोण (Adjacent Angles) कैसे होते हैं?",
+            "en": "What is the property of adjacent angles in a parallelogram?"
           },
           "options": [
-            { "hi": "एग्रीकल्चर", "en": "Agriculture" },
-            { "hi": "पिसीकल्चर", "en": "Pisciculture" },
-            { "hi": "हॉर्टीकल्चर", "en": "Horticulture" },
-            { "hi": "विटिकल्चर", "en": "Viticulture" }
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "संपूरक (180°)", "en": "Supplementary (180°)"},
+            {"hi": "पूरक (90°)", "en": "Complementary (90°)"},
+            {"hi": "विषम", "en": "Odd"}
           ],
-          "answer": { "hi": "पिसीकल्चर", "en": "Pisciculture" }
+          "answer": {"hi": "संपूरक (180°)", "en": "Supplementary (180°)"}
         },
         {
           "q": {
-            "hi": "वाणिज्यिक उपयोग के लिए सब्जियों, फूलों और फलों को उगाना क्या कहलाता है?",
-            "en": "What is growing vegetables, flowers, and fruits for commercial use called?"
+            "hi": "समांतर चतुर्भुज के विकर्णों का मुख्य गुण क्या है?",
+            "en": "What is the main property of the diagonals of a parallelogram?"
           },
           "options": [
-            { "hi": "सेरीकल्चर", "en": "Sericulture" },
-            { "hi": "पिसीकल्चर", "en": "Pisciculture" },
-            { "hi": "हॉर्टीकल्चर", "en": "Horticulture" },
-            { "hi": "एग्रीकल्चर", "en": "Agriculture" }
+            {"hi": "बराबर होते हैं", "en": "Are equal"},
+            {"hi": "एक दूसरे को समद्विभाजित करते हैं", "en": "Bisect each other"},
+            {"hi": "लंब होते हैं", "en": "Are perpendicular"},
+            {"hi": "प्रतिच्छेद नहीं करते", "en": "Do not intersect"}
           ],
-          "answer": { "hi": "हॉर्टीकल्चर", "en": "Horticulture" }
+          "answer": {"hi": "एक दूसरे को समद्विभाजित करते हैं", "en": "Bisect each other"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "कृषि तंत्र के महत्त्वपूर्ण निवेशों में क्या शामिल है?",
-            "en": "What are included in the important inputs of the agricultural system?"
+            "hi": "एक समचतुर्भुज (Rhombus) की सभी भुजाएँ कैसी होती हैं?",
+            "en": "How are all the sides of a rhombus?"
           },
           "options": [
-            { "hi": "बीज, उर्वरक और मशीनरी", "en": "Seeds, fertilizers, and machinery" },
-            { "hi": "केवल फसल", "en": "Only crop" },
-            { "hi": "डेरी उत्पाद", "en": "Dairy products" },
-            { "hi": "परिवहन जाल", "en": "Transport network" }
+            {"hi": "असमान लंबाई की", "en": "Of unequal length"},
+            {"hi": "बराबर लंबाई की", "en": "Of equal length"},
+            {"hi": "केवल सम्मुख भुजाएँ बराबर", "en": "Only opposite sides equal"},
+            {"hi": "परिभाषित नहीं है", "en": "Not defined"}
           ],
-          "answer": { "hi": "बीज, उर्वरक और मशीनरी", "en": "Seeds, fertilizers, and machinery" }
+          "answer": {"hi": "बराबर लंबाई की", "en": "Of equal length"}
         },
         {
           "q": {
-            "hi": "इनमें से कौन-सा कृषि का एक भौतिक निवेश है?",
-            "en": "Which of these is a physical input for agriculture?"
+            "hi": "समचतुर्भुज के विकर्ण एक दूसरे को किस कोण पर समद्विभाजित करते हैं?",
+            "en": "At what angle do the diagonals of a rhombus bisect each other?"
           },
           "options": [
-            { "hi": "मशीनरी", "en": "Machinery" },
-            { "hi": "श्रम", "en": "Labour" },
-            { "hi": "सूर्य प्रकाश", "en": "Sunlight" },
-            { "hi": "भंडारण", "en": "Storage" }
+            {"hi": "45°", "en": "45°"},
+            {"hi": "60°", "en": "60°"},
+            {"hi": "90° (समकोण)", "en": "90° (Right angle)"},
+            {"hi": "180°", "en": "180°"}
           ],
-          "answer": { "hi": "सूर्य प्रकाश", "en": "Sunlight" }
+          "answer": {"hi": "90° (समकोण)", "en": "90° (Right angle)"}
         },
         {
           "q": {
-            "hi": "जैविक कृषि में किसका उपयोग किया जाता है?",
-            "en": "What is used in organic farming?"
+            "hi": "एक आयत (Rectangle) क्या है?",
+            "en": "What is a rectangle?"
           },
           "options": [
-            { "hi": "रासायनिक खाद", "en": "Chemical fertilizers" },
-            { "hi": "जैविक खाद और प्राकृतिक पीड़कनाशी", "en": "Organic manure and natural pesticides" },
-            { "hi": "आनुवंशिक रूपांतरण", "en": "Genetic modification" },
-            { "hi": "केवल मशीनें", "en": "Only machines" }
+            {"hi": "विषम चतुर्भुज", "en": "Irregular quadrilateral"},
+            {"hi": "समांतर चतुर्भुज जिसके सभी कोण समान हों", "en": "A parallelogram with all equal angles"},
+            {"hi": "अवतल बहुभुज", "en": "Concave polygon"},
+            {"hi": "पतंग", "en": "Kite"}
           ],
-          "answer": { "hi": "जैविक खाद और प्राकृतिक पीड़कनाशी", "en": "Organic manure and natural pesticides" }
+          "answer": {"hi": "समांतर चतुर्भुज जिसके सभी कोण समान हों", "en": "A parallelogram with all equal angles"}
         },
         {
           "q": {
-            "hi": "निर्वाह कृषि का मुख्य उद्देश्य क्या है?",
-            "en": "What is the main objective of subsistence farming?"
+            "hi": "आयत का प्रत्येक कोण कितने अंश का होता है?",
+            "en": "What is the measure of each angle of a rectangle?"
           },
           "options": [
-            { "hi": "बाजार में बेचना", "en": "Selling in the market" },
-            { "hi": "कृषक परिवार की आवश्यकताओं को पूरा करना", "en": "Meeting the needs of the farmer's family" },
-            { "hi": "निर्यात करना", "en": "Exporting" },
-            { "hi": "केवल पूँजी कमाना", "en": "Only earning capital" }
+            {"hi": "60°", "en": "60°"},
+            {"hi": "90°", "en": "90°"},
+            {"hi": "100°", "en": "100°"},
+            {"hi": "120°", "en": "120°"}
           ],
-          "answer": { "hi": "कृषक परिवार की आवश्यकताओं को पूरा करना", "en": "Meeting the needs of the farmer's family" }
+          "answer": {"hi": "90°", "en": "90°"}
         },
         {
           "q": {
-            "hi": "गहन निर्वाह कृषि किन क्षेत्रों में प्रचलित है?",
-            "en": "In which regions is intensive subsistence agriculture prevalent?"
+            "hi": "आयत के विकर्णों के बारे में कौन सा कथन सत्य है?",
+            "en": "Which statement is true about the diagonals of a rectangle?"
           },
           "options": [
-            { "hi": "विरल आबादी वाले", "en": "Sparsely populated" },
-            { "hi": "सघन जनसंख्या वाले मानसूनी प्रदेश", "en": "Thickly populated monsoon regions" },
-            { "hi": "रेगिस्तानी इलाके", "en": "Desert areas" },
-            { "hi": "ध्रुवीय प्रदेश", "en": "Polar regions" }
+            {"hi": "वे असमान होते हैं", "en": "They are unequal"},
+            {"hi": "वे बराबर लंबाई के होते हैं", "en": "They are of equal length"},
+            {"hi": "वे समकोण पर नहीं काटते", "en": "They don't cut at right angles"},
+            {"hi": "विकर्ण नहीं होते", "en": "There are no diagonals"}
           ],
-          "answer": { "hi": "सघन जनसंख्या वाले मानसूनी प्रदेश", "en": "Thickly populated monsoon regions" }
+          "answer": {"hi": "वे बराबर लंबाई के होते हैं", "en": "They are of equal length"}
         },
         {
           "q": {
-            "hi": "स्थानांतरी कृषि को और किस नाम से जाना जाता है?",
-            "en": "By what other name is shifting cultivation known?"
+            "hi": "वर्ग (Square) के बारे में क्या सही है?",
+            "en": "What is true about a square?"
           },
           "options": [
-            { "hi": "मिश्रित कृषि", "en": "Mixed farming" },
-            { "hi": "कर्तन एवं दहन कृषि", "en": "Slash and burn agriculture" },
-            { "hi": "रोपण कृषि", "en": "Plantation agriculture" },
-            { "hi": "जैविक कृषि", "en": "Organic farming" }
+            {"hi": "यह एक आयत है जिसकी भुजाएँ बराबर हैं", "en": "It is a rectangle with equal sides"},
+            {"hi": "इसके विकर्ण बराबर नहीं होते", "en": "Its diagonals are not equal"},
+            {"hi": "यह समांतर चतुर्भुज नहीं है", "en": "It is not a parallelogram"},
+            {"hi": "केवल दो भुजाएँ समांतर हैं", "en": "Only two sides are parallel"}
           ],
-          "answer": { "hi": "कर्तन एवं दहन कृषि", "en": "Slash and burn agriculture" }
+          "answer": {"hi": "यह एक आयत है जिसकी भुजाएँ बराबर हैं", "en": "It is a rectangle with equal sides"}
         },
         {
           "q": {
-            "hi": "उत्तर-पूर्वी भारत में स्थानांतरी कृषि को क्या कहते हैं?",
-            "en": "What is shifting cultivation called in North-East India?"
+            "hi": "वर्ग के विकर्ण एक दूसरे को कैसे प्रतिच्छेद करते हैं?",
+            "en": "How do the diagonals of a square intersect each other?"
           },
           "options": [
-            { "hi": "मिल्पा", "en": "Milpa" },
-            { "hi": "झूमिंग", "en": "Jhumming" },
-            { "hi": "रोका", "en": "Roca" },
-            { "hi": "लदांग", "en": "Ladang" }
+            {"hi": "केवल प्रतिच्छेद करते हैं", "en": "Just intersect"},
+            {"hi": "समकोण पर समद्विभाजित करते हैं", "en": "Bisect each other at right angles"},
+            {"hi": "बराबर नहीं होते", "en": "Are not equal"},
+            {"hi": "60° पर काटते हैं", "en": "Cut at 60°"}
           ],
-          "answer": { "hi": "झूमिंग", "en": "Jhumming" }
+          "answer": {"hi": "समकोण पर समद्विभाजित करते हैं", "en": "Bisect each other at right angles"}
         },
         {
           "q": {
-            "hi": "चलवासी पशुचारण किन क्षेत्रों में प्रचलित है?",
-            "en": "Nomadic herding is prevalent in which regions?"
+            "hi": "एक पतंग (Kite) में कितने अलग-अलग आसन्न भुजाओं के युग्म होते हैं?",
+            "en": "How many distinct consecutive pairs of sides are there in a kite?"
           },
           "options": [
-            { "hi": "अमेजन बेसिन", "en": "Amazon basin" },
-            { "hi": "सहारा के अर्धशुष्क और शुष्क प्रदेश", "en": "Semi-arid and arid regions of Sahara" },
-            { "hi": "यूरोप के मैदान", "en": "Plains of Europe" },
-            { "hi": "दक्षिण-पूर्व एशिया", "en": "South-East Asia" }
+            {"hi": "एक", "en": "One"},
+            {"hi": "दो", "en": "Two"},
+            {"hi": "तीन", "en": "Three"},
+            {"hi": "चार", "en": "Four"}
           ],
-          "answer": { "hi": "सहारा के अर्धशुष्क और शुष्क प्रदेश", "en": "Semi-arid and arid regions of Sahara" }
+          "answer": {"hi": "दो", "en": "Two"}
         },
         {
           "q": {
-            "hi": "वाणिज्यिक कृषि में मुख्य रूप से किसका उपयोग किया जाता है?",
-            "en": "What is mainly used in commercial farming?"
+            "hi": "यदि समलंब की असमांतर भुजाएँ बराबर लंबाई की हों, तो उसे क्या कहते हैं?",
+            "en": "If the non-parallel sides of a trapezium are of equal length, what is it called?"
           },
           "options": [
-            { "hi": "कम पूँजी", "en": "Low capital" },
-            { "hi": "पारिवारिक श्रम", "en": "Family labour" },
-            { "hi": "विस्तृत क्षेत्र और अधिक पूँजी", "en": "Large area and more capital" },
-            { "hi": "पुराने औजार", "en": "Old tools" }
+            {"hi": "समबाहु समलंब", "en": "Equilateral trapezium"},
+            {"hi": "समद्विबाहु समलंब", "en": "Isosceles trapezium"},
+            {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"},
+            {"hi": "वर्ग", "en": "Square"}
           ],
-          "answer": { "hi": "विस्तृत क्षेत्र और अधिक पूँजी", "en": "Large area and more capital" }
+          "answer": {"hi": "समद्विबाहु समलंब", "en": "Isosceles trapezium"}
         },
         {
           "q": {
-            "hi": "मिश्रित कृषि में क्या किया जाता है?",
-            "en": "What is done in mixed farming?"
+            "hi": "क्या सभी वर्ग समांतर चतुर्भुज होते हैं?",
+            "en": "Are all squares parallelograms?"
           },
           "options": [
-            { "hi": "केवल गेहूँ उगाना", "en": "Only growing wheat" },
-            { "hi": "भोजन व चारे की फसलें उगाना और पशुधन पालन", "en": "Growing food and fodder crops and rearing livestock" },
-            { "hi": "केवल अंगूर उगाना", "en": "Only growing grapes" },
-            { "hi": "केवल मछली पालना", "en": "Only fish breeding" }
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "कभी-कभी", "en": "Sometimes"},
+            {"hi": "कह नहीं सकते", "en": "Cannot say"}
           ],
-          "answer": { "hi": "भोजन व चारे की फसलें उगाना और पशुधन पालन", "en": "Growing food and fodder crops and rearing livestock" }
+          "answer": {"hi": "हाँ", "en": "Yes"}
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "रोपण कृषि में कौन-सी एकल फसल उगाई जा सकती है?",
-            "en": "Which single crop can be grown in plantation agriculture?"
+            "hi": "एक चतुर्भुज के चारों कोणों का योग कितना होता है?",
+            "en": "What is the sum of the four angles of a quadrilateral?"
           },
           "options": [
-            { "hi": "चाय अथवा कहवा", "en": "Tea or Coffee" },
-            { "hi": "मक्का और ज्वार", "en": "Maize and Jowar" },
-            { "hi": "आलू और टमाटर", "en": "Potato and Tomato" },
-            { "hi": "बाजरा", "en": "Millet" }
+            {"hi": "180°", "en": "180°"},
+            {"hi": "270°", "en": "270°"},
+            {"hi": "360°", "en": "360°"},
+            {"hi": "540°", "en": "540°"}
           ],
-          "answer": { "hi": "चाय अथवा कहवा", "en": "Tea or Coffee" }
+          "answer": {"hi": "360°", "en": "360°"}
         },
         {
           "q": {
-            "hi": "ब्राजील किसके उत्पादन के लिए प्रसिद्ध है?",
-            "en": "Brazil is famous for the production of what?"
+            "hi": "यदि समांतर चतुर्भुज RING में ∠R = 70° हो, तो ∠N (सम्मुख कोण) का मान क्या होगा?",
+            "en": "In parallelogram RING, if ∠R = 70°, what will be the value of ∠N (opposite angle)?"
           },
           "options": [
-            { "hi": "रबड़", "en": "Rubber" },
-            { "hi": "कहवा (कॉफी)", "en": "Coffee" },
-            { "hi": "चाय", "en": "Tea" },
-            { "hi": "जूट", "en": "Jute" }
+            {"hi": "110°", "en": "110°"},
+            {"hi": "70°", "en": "70°"},
+            {"hi": "180°", "en": "180°"},
+            {"hi": "90°", "en": "90°"}
           ],
-          "answer": { "hi": "कहवा (कॉफी)", "en": "Coffee" }
+          "answer": {"hi": "70°", "en": "70°"}
         },
         {
           "q": {
-            "hi": "चावल के लिए किस प्रकार की मृदा सर्वोत्तम है?",
-            "en": "Which type of soil is best for rice?"
+            "hi": "समांतर चतुर्भुज के आसन्न कोण ∠R और ∠I का योग कितना होगा?",
+            "en": "What will be the sum of adjacent angles ∠R and ∠I in a parallelogram?"
           },
           "options": [
-            { "hi": "बलुई मृदा", "en": "Sandy soil" },
-            { "hi": "चीकायुक्त जलोढ़ मृदा", "en": "Clayey alluvial soil" },
-            { "hi": "लाल मृदा", "en": "Red soil" },
-            { "hi": "काली मृदा", "en": "Black soil" }
+            {"hi": "90°", "en": "90°"},
+            {"hi": "180°", "en": "180°"},
+            {"hi": "360°", "en": "360°"},
+            {"hi": "70°", "en": "70°"}
           ],
-          "answer": { "hi": "चीकायुक्त जलोढ़ मृदा", "en": "Clayey alluvial soil" }
+          "answer": {"hi": "180°", "en": "180°"}
         },
         {
           "q": {
-            "hi": "विश्व में चावल उत्पादन में अग्रणी देश कौन-सा है?",
-            "en": "Which is the leading country in rice production in the world?"
+            "hi": "3 भुजाओं वाले सम बहुभुज का नाम क्या है?",
+            "en": "What is the name of a regular polygon with 3 sides?"
           },
           "options": [
-            { "hi": "भारत", "en": "India" },
-            { "hi": "चीन", "en": "China" },
-            { "hi": "जापान", "en": "Japan" },
-            { "hi": "मिस्र", "en": "Egypt" }
+            {"hi": "विषमबाहु त्रिभुज", "en": "Scalene triangle"},
+            {"hi": "समबाहु त्रिभुज", "en": "Equilateral triangle"},
+            {"hi": "आयत", "en": "Rectangle"},
+            {"hi": "वर्ग", "en": "Square"}
           ],
-          "answer": { "hi": "चीन", "en": "China" }
+          "answer": {"hi": "समबाहु त्रिभुज", "en": "Equilateral triangle"}
         },
         {
           "q": {
-            "hi": "गेहूँ का विकास किस मृदा में सर्वोत्तम होता है?",
-            "en": "Wheat grows best in which soil?"
+            "hi": "6 भुजाओं वाले सम बहुभुज का नाम क्या है?",
+            "en": "What is the name of a regular polygon with 6 sides?"
           },
           "options": [
-            { "hi": "दोमट मृदा", "en": "Loamy soil" },
-            { "hi": "सु-अपवाहित दुमट मृदा", "en": "Well-drained loamy soil" },
-            { "hi": "रेतीली मृदा", "en": "Sandy soil" },
-            { "hi": "कठोर मृदा", "en": "Hard soil" }
+            {"hi": "सम पंचभुज", "en": "Regular pentagon"},
+            {"hi": "सम षड्भुज", "en": "Regular hexagon"},
+            {"hi": "सम अष्टभुज", "en": "Regular octagon"},
+            {"hi": "वर्ग", "en": "Square"}
           ],
-          "answer": { "hi": "सु-अपवाहित दुमट मृदा", "en": "Well-drained loamy soil" }
+          "answer": {"hi": "सम षड्भुज", "en": "Regular hexagon"}
         },
         {
           "q": {
-            "hi": "मिलेट को और किस नाम से जाना जाता है?",
-            "en": "By what other name are millets known?"
+            "hi": "एक सम बहुभुज की भुजाओं की संख्या क्या होगी यदि एक बाह्य कोण 24° हो?",
+            "en": "How many sides does a regular polygon have if an exterior angle is 24°?"
           },
           "options": [
-            { "hi": "महीन अनाज", "en": "Fine grains" },
-            { "hi": "मोटे अनाज", "en": "Coarse grains" },
-            { "hi": "नकदी फसलें", "en": "Cash crops" },
-            { "hi": "पेय फसलें", "en": "Beverage crops" }
+            {"hi": "10", "en": "10"},
+            {"hi": "12", "en": "12"},
+            {"hi": "15", "en": "15"},
+            {"hi": "20", "en": "20"}
           ],
-          "answer": { "hi": "मोटे अनाज", "en": "Coarse grains" }
+          "answer": {"hi": "15", "en": "15"}
         },
         {
           "q": {
-            "hi": "कपास की वृद्धि के लिए कितने पालारहित दिनों की आवश्यकता होती है?",
-            "en": "How many frost-free days are required for the growth of cotton?"
+            "hi": "क्या 22° किसी सम बहुभुज का बाह्य कोण हो सकता है?",
+            "en": "Can 22° be an exterior angle of a regular polygon?"
           },
           "options": [
-            { "hi": "100", "en": "100" },
-            { "hi": "150", "en": "150" },
-            { "hi": "210", "en": "210" },
-            { "hi": "300", "en": "300" }
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं, क्योंकि 360, 22 से विभाज्य नहीं है", "en": "No, because 360 is not divisible by 22"},
+            {"hi": "केवल त्रिभुज के लिए", "en": "Only for a triangle"},
+            {"hi": "परिभाषित नहीं", "en": "Not defined"}
           ],
-          "answer": { "hi": "210", "en": "210" }
+          "answer": {"hi": "नहीं, क्योंकि 360, 22 से विभाज्य नहीं है", "en": "No, because 360 is not divisible by 22"}
         },
         {
           "q": {
-            "hi": "'सुनहरा रेशा' (Golden Fibre) किसे कहा जाता है?",
-            "en": "What is known as the 'Golden Fibre'?"
+            "hi": "किसी सम बहुभुज में कम से कम कितने अंश का अंतःकोण संभव है?",
+            "en": "What is the minimum interior angle possible for a regular polygon?"
           },
           "options": [
-            { "hi": "कपास", "en": "Cotton" },
-            { "hi": "रेशम", "en": "Silk" },
-            { "hi": "पटसन (जूट)", "en": "Jute" },
-            { "hi": "ऊन", "en": "Wool" }
+            {"hi": "90°", "en": "90°"},
+            {"hi": "60° (समबाहु त्रिभुज)", "en": "60° (Equilateral triangle)"},
+            {"hi": "45°", "en": "45°"},
+            {"hi": "120°", "en": "120°"}
           ],
-          "answer": { "hi": "पटसन (जूट)", "en": "Jute" }
+          "answer": {"hi": "60° (समबाहु त्रिभुज)", "en": "60° (Equilateral triangle)"}
         },
         {
           "q": {
-            "hi": "कॉफी के अग्रणी उत्पादक देशों में कौन शामिल है?",
-            "en": "Who is included among the leading coffee producing countries?"
+            "hi": "किसी सम बहुभुज में अधिक से अधिक कितने अंश का बाह्य कोण संभव है?",
+            "en": "What is the maximum exterior angle possible for a regular polygon?"
           },
           "options": [
-            { "hi": "ब्राजील", "en": "Brazil" },
-            { "hi": "कनाडा", "en": "Canada" },
-            { "hi": "रूस", "en": "Russia" },
-            { "hi": "आस्ट्रेलिया", "en": "Australia" }
+            {"hi": "120°", "en": "120°"},
+            {"hi": "90°", "en": "90°"},
+            {"hi": "180°", "en": "180°"},
+            {"hi": "360°", "en": "360°"}
           ],
-          "answer": { "hi": "ब्राजील", "en": "Brazil" }
+          "answer": {"hi": "120°", "en": "120°"}
         },
         {
           "q": {
-            "hi": "चाय के लिए किस प्रकार के ढाल की आवश्यकता होती है?",
-            "en": "What type of slope is required for tea?"
+            "hi": "समांतर चतुर्भुज PQRS का परिमाप क्या होगा यदि PQ = 12 cm और QR = 7 cm?",
+            "en": "What is the perimeter of parallelogram PQRS if PQ = 12 cm and QR = 7 cm?"
           },
           "options": [
-            { "hi": "तीव्र ढाल", "en": "Steep slope" },
-            { "hi": "समतल भूमि", "en": "Flat land" },
-            { "hi": "मंद ढाल", "en": "Gentle slope" },
-            { "hi": "ढाल की आवश्यकता नहीं", "en": "No slope needed" }
+            {"hi": "19 cm", "en": "19 cm"},
+            {"hi": "38 cm", "en": "38 cm"},
+            {"hi": "24 cm", "en": "24 cm"},
+            {"hi": "14 cm", "en": "14 cm"}
           ],
-          "answer": { "hi": "मंद ढाल", "en": "Gentle slope" }
+          "answer": {"hi": "38 cm", "en": "38 cm"}
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "कृषि विकास का चरम लक्ष्य क्या है?",
-            "en": "What is the ultimate aim of agricultural development?"
+            "hi": "क्या सभी आयत वर्ग होते हैं?",
+            "en": "Are all rectangles squares?"
           },
           "options": [
-            { "hi": "मशीनें बेचना", "en": "Selling machines" },
-            { "hi": "खाद्य सुरक्षा को बढ़ाना", "en": "To increase food security" },
-            { "hi": "जनसंख्या कम करना", "en": "Reducing population" },
-            { "hi": "मिट्टी खराब करना", "en": "Degrading soil" }
+            {"hi": "सत्य", "en": "True"},
+            {"hi": "असत्य", "en": "False"},
+            {"hi": "केवल विशेष स्थितियों में", "en": "Only in special cases"},
+            {"hi": "निश्चित नहीं", "en": "Not certain"}
           ],
-          "answer": { "hi": "खाद्य सुरक्षा को बढ़ाना", "en": "To increase food security" }
+          "answer": {"hi": "असत्य", "en": "False"}
         },
         {
           "q": {
-            "hi": "खाद्य सुरक्षा कब बनी रहती है?",
-            "en": "When is food security maintained?"
+            "hi": "क्या सभी समचतुर्भुज समांतर चतुर्भुज होते हैं?",
+            "en": "Are all rhombuses parallelograms?"
           },
           "options": [
-            { "hi": "जब अनाज महंगा हो", "en": "When grain is expensive" },
-            { "hi": "जब सभी को हर समय पर्याप्त और पौष्टिक भोजन मिले", "en": "When everyone has access to sufficient and nutritious food at all times" },
-            { "hi": "जब केवल अमीर लोग खा सकें", "en": "When only rich people can eat" },
-            { "hi": "जब भोजन की कमी हो", "en": "When there is a food shortage" }
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "केवल वर्ग", "en": "Only squares"},
+            {"hi": "केवल पतंग", "en": "Only kites"}
           ],
-          "answer": { "hi": "जब सभी को हर समय पर्याप्त और पौष्टिक भोजन मिले", "en": "When everyone has access to sufficient and nutritious food at all times" }
+          "answer": {"hi": "हाँ", "en": "Yes"}
         },
         {
           "q": {
-            "hi": "भारत में मुन्नालाल जैसे छोटे किसान के पास लगभग कितनी भूमि होती है?",
-            "en": "How much land does a small farmer like Munnalal in India typically have?"
+            "hi": "क्या सभी वर्ग समचतुर्भुज और आयत भी होते हैं?",
+            "en": "Are all squares rhombuses and also rectangles?"
           },
           "options": [
-            { "hi": "1.5 हेक्टेयर", "en": "1.5 hectares" },
-            { "hi": "100 हेक्टेयर", "en": "100 hectares" },
-            { "hi": "250 हेक्टेयर", "en": "250 hectares" },
-            { "hi": "500 हेक्टेयर", "en": "500 hectares" }
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "केवल समचतुर्भुज", "en": "Only rhombuses"},
+            {"hi": "केवल आयत", "en": "Only rectangles"}
           ],
-          "answer": { "hi": "1.5 हेक्टेयर", "en": "1.5 hectares" }
+          "answer": {"hi": "हाँ", "en": "Yes"}
         },
         {
           "q": {
-            "hi": "संयुक्त राज्य अमेरिका में एक प्रारूपिक फार्म का औसत आकार क्या है?",
-            "en": "What is the average size of a typical farm in the USA?"
+            "hi": "क्या सभी वर्ग समांतर चतुर्भुज नहीं होते?",
+            "en": "Are all squares NOT parallelograms?"
           },
           "options": [
-            { "hi": "1.5 हेक्टेयर", "en": "1.5 hectares" },
-            { "hi": "10 हेक्टेयर", "en": "10 hectares" },
-            { "hi": "250 हेक्टेयर", "en": "250 hectares" },
-            { "hi": "50 हेक्टेयर", "en": "50 hectares" }
+            {"hi": "सत्य", "en": "True"},
+            {"hi": "असत्य", "en": "False"},
+            {"hi": "कह नहीं सकते", "en": "Cannot say"},
+            {"hi": "अपरिभाषित", "en": "Undefined"}
           ],
-          "answer": { "hi": "250 हेक्टेयर", "en": "250 hectares" }
+          "answer": {"hi": "असत्य", "en": "False"}
         },
         {
           "q": {
-            "hi": "अमेरिकी किसान अपने मृदा के नमूनों को कहाँ भेजता है?",
-            "en": "Where does an American farmer send his soil samples?"
+            "hi": "क्या सभी पतंगें समचतुर्भुज होती हैं?",
+            "en": "Are all kites rhombuses?"
           },
           "options": [
-            { "hi": "मंडी में", "en": "To the market" },
-            { "hi": "मृदा परीक्षण प्रयोगशाला में", "en": "To a soil testing laboratory" },
-            { "hi": "स्कूल में", "en": "To school" },
-            { "hi": "पुलिस स्टेशन", "en": "To the police station" }
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "हमेशा", "en": "Always"},
+            {"hi": "शून्य भुजाओं के लिए", "en": "For zero sides"}
           ],
-          "answer": { "hi": "मृदा परीक्षण प्रयोगशाला में", "en": "To a soil testing laboratory" }
+          "answer": {"hi": "नहीं", "en": "No"}
         },
         {
           "q": {
-            "hi": "संयुक्त राज्य अमेरिका में किसान किस तरह काम करता है?",
-            "en": "How does a farmer in the USA work?"
+            "hi": "क्या सभी समचतुर्भुज पतंग होते हैं?",
+            "en": "Are all rhombuses kites?"
           },
           "options": [
-            { "hi": "खेतिहर किसान की तरह", "en": "Like a peasant farmer" },
-            { "hi": "व्यवसायी की तरह", "en": "Like a businessman" },
-            { "hi": "मजदूर की तरह", "en": "Like a labourer" },
-            { "hi": "कारीगर की तरह", "en": "Like an artisan" }
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "केवल यदि वे वर्ग हों", "en": "Only if they are squares"},
+            {"hi": "कभी नहीं", "en": "Never"}
           ],
-          "answer": { "hi": "व्यवसायी की तरह", "en": "Like a businessman" }
+          "answer": {"hi": "हाँ", "en": "Yes"}
         },
         {
           "q": {
-            "hi": "मुन्नालाल अपने उत्पाद कहाँ बेचता है?",
-            "en": "Where does Munnalal sell his produce?"
+            "hi": "क्या सभी समांतर चतुर्भुज समलंब होते हैं?",
+            "en": "Are all parallelograms trapeziums?"
           },
           "options": [
-            { "hi": "केवल घर पर", "en": "Only at home" },
-            { "hi": "शहर की मंडी में", "en": "In the city market (mandi)" },
-            { "hi": "खेत में ही छोड़ देता है", "en": "Leaves it in the field" },
-            { "hi": "विदेश भेजता है", "en": "Sends it abroad" }
+            {"hi": "सत्य", "en": "True"},
+            {"hi": "असत्य", "en": "False"},
+            {"hi": "केवल यदि भुजाएँ बराबर हों", "en": "Only if sides are equal"},
+            {"hi": "निश्चित नहीं", "en": "Not certain"}
           ],
-          "answer": { "hi": "शहर की मंडी में", "en": "In the city market (mandi)" }
+          "answer": {"hi": "सत्य", "en": "True"}
         },
         {
           "q": {
-            "hi": "स्थानांतरी कृषि में भूमि को साफ करने के लिए क्या किया जाता है?",
-            "en": "What is done to clear land in shifting cultivation?"
+            "hi": "क्या सभी वर्ग समलंब होते हैं?",
+            "en": "Are all squares trapeziums?"
           },
           "options": [
-            { "hi": "ट्रैक्टर चलाना", "en": "Ploughing with a tractor" },
-            { "hi": "वृक्षों को काटकर जलाना", "en": "Cutting and burning trees" },
-            { "hi": "केवल पानी डालना", "en": "Only pouring water" },
-            { "hi": "मशीन से सफाई", "en": "Cleaning with a machine" }
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "अपरिभाषित", "en": "Undefined"},
+            {"hi": "केवल 90° के लिए", "en": "Only for 90°"}
           ],
-          "answer": { "hi": "वृक्षों को काटकर जलाना", "en": "Cutting and burning trees" }
+          "answer": {"hi": "हाँ", "en": "Yes"}
         },
         {
           "q": {
-            "hi": "भारत में गेहूँ किस ऋतु में उगाया जाता है?",
-            "en": "In which season is wheat grown in India?"
+            "hi": "उस चतुर्भुज की पहचान कीजिए जिसकी चारों भुजाएँ बराबर लंबाई की हों।",
+            "en": "Identify the quadrilateral with four sides of equal length."
           },
           "options": [
-            { "hi": "वर्षा ऋतु", "en": "Rainy season" },
-            { "hi": "ग्रीष्म ऋतु", "en": "Summer season" },
-            { "hi": "शीत ऋतु", "en": "Winter season" },
-            { "hi": "कभी भी", "en": "Anytime" }
+            {"hi": "आयत और वर्ग", "en": "Rectangle and Square"},
+            {"hi": "समचतुर्भुज और वर्ग", "en": "Rhombus and Square"},
+            {"hi": "समांतर चतुर्भुज और आयत", "en": "Parallelogram and Rectangle"},
+            {"hi": "समलंब और पतंग", "en": "Trapezium and Kite"}
           ],
-          "answer": { "hi": "शीत ऋतु", "en": "Winter season" }
+          "answer": {"hi": "समचतुर्भुज और वर्ग", "en": "Rhombus and Square"}
         },
         {
           "q": {
-            "hi": "मक्का के लिए कैसी जलवायु की आवश्यकता होती है?",
-            "en": "What kind of climate is required for maize?"
+            "hi": "उस चतुर्भुज की पहचान कीजिए जिसमें चार समकोण हों।",
+            "en": "Identify the quadrilateral with four right angles."
           },
           "options": [
-            { "hi": "बहुत ठंडी", "en": "Very cold" },
-            { "hi": "मध्यम तापमान, वर्षा और अधिक धूप", "en": "Moderate temperature, rainfall, and lots of sunshine" },
-            { "hi": "केवल बर्फबारी", "en": "Only snowfall" },
-            { "hi": "बिना धूप वाली", "en": "Without sunshine" }
+            {"hi": "वर्ग और आयत", "en": "Square and Rectangle"},
+            {"hi": "समचतुर्भुज और समलंब", "en": "Rhombus and Trapezium"},
+            {"hi": "पतंग और समांतर चतुर्भुज", "en": "Kite and Parallelogram"},
+            {"hi": "केवल वर्ग", "en": "Only Square"}
           ],
-          "answer": { "hi": "मध्यम तापमान, वर्षा और अधिक धूप", "en": "Moderate temperature, rainfall, and lots of sunshine" }
+          "answer": {"hi": "वर्ग और आयत", "en": "Square and Rectangle"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "ब्राजील में स्थानांतरी कृषि को क्या कहते हैं?",
-            "en": "What is shifting cultivation called in Brazil?"
+            "hi": "बताइए कैसे एक वर्ग एक चतुर्भुज है?",
+            "en": "Explain how a square is a quadrilateral."
           },
           "options": [
-            { "hi": "रोका", "en": "Roca" },
-            { "hi": "लदांग", "en": "Ladang" },
-            { "hi": "मिल्पा", "en": "Milpa" },
-            { "hi": "झूम", "en": "Jhum" }
+            {"hi": "क्योंकि इसकी 4 भुजाएँ हैं", "en": "Because it has 4 sides"},
+            {"hi": "क्योंकि इसमें 90° कोण है", "en": "Because it has a 90° angle"},
+            {"hi": "क्योंकि विकर्ण बराबर हैं", "en": "Because diagonals are equal"},
+            {"hi": "यह नहीं है", "en": "It is not"}
           ],
-          "answer": { "hi": "रोका", "en": "Roca" }
+          "answer": {"hi": "क्योंकि इसकी 4 भुजाएँ हैं", "en": "Because it has 4 sides"}
         },
         {
           "q": {
-            "hi": "पटसन के लिए कैसी जलवायु की आवश्यकता होती है?",
-            "en": "What kind of climate is required for Jute?"
+            "hi": "बताइए कैसे एक वर्ग एक समांतर चतुर्भुज है?",
+            "en": "Explain how a square is a parallelogram."
           },
           "options": [
-            { "hi": "शुष्क और ठंडी", "en": "Dry and cold" },
-            { "hi": "उच्च तापमान, भारी वर्षा और आर्द्र", "en": "High temperature, heavy rainfall, and humid" },
-            { "hi": "पालारहित", "en": "Frost-free" },
-            { "hi": "रेगिस्तानी", "en": "Desert-like" }
+            {"hi": "विकर्ण लंबवत हैं", "en": "Diagonals are perpendicular"},
+            {"hi": "सम्मुख भुजाएँ समांतर होती हैं", "en": "Opposite sides are parallel"},
+            {"hi": "चारों भुजाएँ बराबर हैं", "en": "All four sides are equal"},
+            {"hi": "कोण समकोण हैं", "en": "Angles are right angles"}
           ],
-          "answer": { "hi": "उच्च तापमान, भारी वर्षा और आर्द्र", "en": "High temperature, heavy rainfall, and humid" }
+          "answer": {"hi": "सम्मुख भुजाएँ समांतर होती हैं", "en": "Opposite sides are parallel"}
         },
         {
           "q": {
-            "hi": "कॉफी के पौधे की खोज किसने की थी?",
-            "en": "Who discovered the coffee plant?"
+            "hi": "बताइए कैसे एक वर्ग एक समचतुर्भुज है?",
+            "en": "Explain how a square is a rhombus."
           },
           "options": [
-            { "hi": "कोलंबस", "en": "Columbus" },
-            { "hi": "कालदी", "en": "Kaldi" },
-            { "hi": "मैगलन", "en": "Magellan" },
-            { "hi": "वास्को-डि-गामा", "en": "Vasco da Gama" }
+            {"hi": "यह एक समांतर चतुर्भुज है जिसकी 4 भुजाएँ बराबर हैं", "en": "It is a parallelogram with 4 equal sides"},
+            {"hi": "इसके कोण 90° के हैं", "en": "Its angles are 90°"},
+            {"hi": "इसके विकर्ण बराबर नहीं हैं", "en": "Its diagonals are not equal"},
+            {"hi": "सम्मुख कोण बराबर हैं", "en": "Opposite angles are equal"}
           ],
-          "answer": { "hi": "कालदी", "en": "Kaldi" }
+          "answer": {"hi": "यह एक समांतर चतुर्भुज है जिसकी 4 भुजाएँ बराबर हैं", "en": "It is a parallelogram with 4 equal sides"}
         },
         {
           "q": {
-            "hi": "इनमें से कौन-सी एक रेशेदार फसल है?",
-            "en": "Which of these is a fibre crop?"
+            "hi": "एक चतुर्भुज का नाम बताइए जिसके विकर्ण एक दूसरे को समद्विभाजित करते हैं।",
+            "en": "Name a quadrilateral whose diagonals bisect each other."
           },
           "options": [
-            { "hi": "चावल", "en": "Rice" },
-            { "hi": "कॉफी", "en": "Coffee" },
-            { "hi": "कपास", "en": "Cotton" },
-            { "hi": "गेहूँ", "en": "Wheat" }
+            {"hi": "केवल वर्ग", "en": "Only square"},
+            {"hi": "समांतर चतुर्भुज, समचतुर्भुज, आयत और वर्ग", "en": "Parallelogram, Rhombus, Rectangle and Square"},
+            {"hi": "केवल समलंब", "en": "Only trapezium"},
+            {"hi": "पतंग और समलंब", "en": "Kite and trapezium"}
           ],
-          "answer": { "hi": "कपास", "en": "Cotton" }
+          "answer": {"hi": "समांतर चतुर्भुज, समचतुर्भुज, आयत और वर्ग", "en": "Parallelogram, Rhombus, Rectangle and Square"}
         },
         {
           "q": {
-            "hi": "मक्का को और किस नाम से जाना जाता है?",
-            "en": "By what other name is maize known?"
+            "hi": "एक चतुर्भुज का नाम बताइए जिसके विकर्ण एक दूसरे पर लंब समद्विभाजक हों।",
+            "en": "Name a quadrilateral whose diagonals are perpendicular bisectors of each other."
           },
           "options": [
-            { "hi": "धान", "en": "Paddy" },
-            { "hi": "कॉर्न", "en": "Corn" },
-            { "hi": "मिलेट", "en": "Millet" },
-            { "hi": "कहवा", "en": "Coffee" }
+            {"hi": "समचतुर्भुज और वर्ग", "en": "Rhombus and Square"},
+            {"hi": "आयत और वर्ग", "en": "Rectangle and Square"},
+            {"hi": "समांतर चतुर्भुज और आयत", "en": "Parallelogram and Rectangle"},
+            {"hi": "केवल पतंग", "en": "Only kite"}
           ],
-          "answer": { "hi": "कॉर्न", "en": "Corn" }
+          "answer": {"hi": "समचतुर्भुज और वर्ग", "en": "Rhombus and Square"}
         },
         {
           "q": {
-            "hi": "चाय की पत्तियों को चुनने के लिए किसकी आवश्यकता होती है?",
-            "en": "What is required to pluck tea leaves?"
+            "hi": "एक चतुर्भुज का नाम बताइए जिसके विकर्ण बराबर हों।",
+            "en": "Name a quadrilateral whose diagonals are equal."
           },
           "options": [
-            { "hi": "कम श्रमिक", "en": "Few labourers" },
-            { "hi": "अधिक संख्या में श्रमिक", "en": "Large number of labourers" },
-            { "hi": "केवल मशीनें", "en": "Only machines" },
-            { "hi": "श्रमिकों की आवश्यकता नहीं", "en": "No need for labourers" }
+            {"hi": "समांतर चतुर्भुज और समचतुर्भुज", "en": "Parallelogram and Rhombus"},
+            {"hi": "आयत और वर्ग", "en": "Rectangle and Square"},
+            {"hi": "समलंब और पतंग", "en": "Trapezium and Kite"},
+            {"hi": "केवल समचतुर्भुज", "en": "Only Rhombus"}
           ],
-          "answer": { "hi": "अधिक संख्या में श्रमिक", "en": "Large number of labourers" }
+          "answer": {"hi": "आयत और वर्ग", "en": "Rectangle and Square"}
         },
         {
           "q": {
-            "hi": "इनमें से कौन-सी एक पेय फसल (Beverage crop) है?",
-            "en": "Which of these is a beverage crop?"
+            "hi": "बताइए एक आयत उत्तल चतुर्भुज कैसे है?",
+            "en": "Explain how a rectangle is a convex quadrilateral."
           },
           "options": [
-            { "hi": "कपास", "en": "Cotton" },
-            { "hi": "चाय", "en": "Tea" },
-            { "hi": "पटसन", "en": "Jute" },
-            { "hi": "बाजरा", "en": "Millet" }
+            {"hi": "इसके दोनों विकर्ण अभ्यंतर (अंदर) स्थित होते हैं", "en": "Both its diagonals lie in its interior"},
+            {"hi": "इसका एक विकर्ण बाहर होता है", "en": "One of its diagonals is outside"},
+            {"hi": "इसकी भुजाएँ समांतर हैं", "en": "Its sides are parallel"},
+            {"hi": "इसके कोण 90° के हैं", "en": "Its angles are 90°"}
           ],
-          "answer": { "hi": "चाय", "en": "Tea" }
+          "answer": {"hi": "इसके दोनों विकर्ण अभ्यंतर (अंदर) स्थित होते हैं", "en": "Both its diagonals lie in its interior"}
         },
         {
           "q": {
-            "hi": "आयोवा राज्य कहाँ स्थित है?",
-            "en": "Where is the state of Iowa located?"
+            "hi": "समांतर चतुर्भुज के सम्मुख कोण कैसे होते हैं?",
+            "en": "How are the opposite angles in a parallelogram?"
           },
           "options": [
-            { "hi": "भारत", "en": "India" },
-            { "hi": "कनाडा", "en": "Canada" },
-            { "hi": "संयुक्त राज्य अमेरिका", "en": "USA" },
-            { "hi": "ब्राजील", "en": "Brazil" }
+            {"hi": "असमान", "en": "Unequal"},
+            {"hi": "बराबर माप के", "en": "Equal in measure"},
+            {"hi": "पूरक", "en": "Complementary"},
+            {"hi": "शून्य", "en": "Zero"}
           ],
-          "answer": { "hi": "संयुक्त राज्य अमेरिका", "en": "USA" }
+          "answer": {"hi": "बराबर माप के", "en": "Equal in measure"}
         },
         {
           "q": {
-            "hi": "कृषि क्रियाकलाप के लिए क्या अनिवार्य है?",
-            "en": "What is mandatory for agricultural activities?"
+            "hi": "किसी सम बहुभुज का प्रत्येक अंतःकोण 165° है, तो भुजाओं की संख्या क्या होगी?",
+            "en": "If each interior angle of a regular polygon is 165°, what is the number of sides?"
           },
           "options": [
-            { "hi": "अनुकूल स्थलाकृति, मृदा और जलवायु", "en": "Favourable topography, soil, and climate" },
-            { "hi": "केवल बर्फ", "en": "Only snow" },
-            { "hi": "केवल बहुत सारा पैसा", "en": "Only lots of money" },
-            { "hi": "ऊँची इमारतें", "en": "High buildings" }
+            {"hi": "12", "en": "12"},
+            {"hi": "20", "en": "20"},
+            {"hi": "24", "en": "24"},
+            {"hi": "36", "en": "36"}
           ],
-          "answer": { "hi": "अनुकूल स्थलाकृति, मृदा और जलवायु", "en": "Favourable topography, soil, and climate" }
+          "answer": {"hi": "24", "en": "24"}
         },
         {
           "q": {
-            "hi": "सहकारी समिति किसानों को किस विषय में सलाह देती है?",
-            "en": "On what subject does the cooperative society advise farmers?"
+            "hi": "पतंग के विकर्ण एक दूसरे को किस कोण पर काटते हैं?",
+            "en": "At what angle do the diagonals of a kite intersect?"
           },
           "options": [
-            { "hi": "केवल कपड़ों के बारे में", "en": "Only about clothes" },
-            { "hi": "पशुओं के चारे और स्वास्थ्य के बारे में", "en": "About animal fodder and health" },
-            { "hi": "केवल मोबाइल फोन के बारे में", "en": "Only about mobile phones" },
-            { "hi": "फिल्मों के बारे में", "en": "About movies" }
+            {"hi": "45°", "en": "45°"},
+            {"hi": "60°", "en": "60°"},
+            {"hi": "90° (समकोण)", "en": "90° (Right angle)"},
+            {"hi": "180°", "en": "180°"}
           ],
-          "answer": { "hi": "पशुओं के चारे और स्वास्थ्य के बारे में", "en": "About animal fodder and health" }
+          "answer": {"hi": "90° (समकोण)", "en": "90° (Right angle)"}
         }
       ]
     },
