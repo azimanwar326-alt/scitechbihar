@@ -666,661 +666,661 @@
       "section1": [
         {
           "q": {
-            "hi": "भूपृष्ठ के कुल क्षेत्रफल का लगभग कितना प्रतिशत भाग भूमि है?",
-            "en": "Approximately what percentage of the Earth's total surface area is land?"
+            "hi": "समीकरणों में सदैव किस चिह्न का प्रयोग होता है जो व्यंजकों में नहीं होता?",
+            "en": "Which symbol is always used in equations but not in expressions?"
           },
           "options": [
-            { "hi": "70 प्रतिशत", "en": "70 percent" },
-            { "hi": "30 प्रतिशत", "en": "30 percent" },
-            { "hi": "50 प्रतिशत", "en": "50 percent" },
-            { "hi": "90 प्रतिशत", "en": "90 percent" }
+            {"hi": "प्लस (+)", "en": "Plus (+)"},
+            {"hi": "माइनस (-)", "en": "Minus (-)"},
+            {"hi": "समता (=)", "en": "Equality (=)"},
+            {"hi": "गुणा (x)", "en": "Multiplication (x)"}
           ],
-          "answer": { "hi": "30 प्रतिशत", "en": "30 percent" }
+          "answer": {"hi": "समता (=)", "en": "Equality (=)"}
         },
         {
           "q": {
-            "hi": "विश्व की 90 प्रतिशत जनसंख्या भूमि क्षेत्र के कितने प्रतिशत भाग पर रहती है?",
-            "en": "What percentage of the land area does 90 percent of the world's population live on?"
+            "hi": "रैखिक व्यंजक में चर की अधिकतम घात कितनी होती है?",
+            "en": "What is the maximum power of a variable in a linear expression?"
           },
           "options": [
-            { "hi": "10 प्रतिशत", "en": "10 percent" },
-            { "hi": "50 प्रतिशत", "en": "50 percent" },
-            { "hi": "30 प्रतिशत", "en": "30 percent" },
-            { "hi": "70 प्रतिशत", "en": "70 percent" }
+            {"hi": "0", "en": "0"},
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "3", "en": "3"}
           ],
-          "answer": { "hi": "30 प्रतिशत", "en": "30 percent" }
+          "answer": {"hi": "1", "en": "1"}
         },
         {
           "q": {
-            "hi": "सघन बसे क्षेत्रों में मुख्य रूप से क्या पाए जाते हैं?",
-            "en": "What are primarily found in densely populated areas?"
+            "hi": "इनमें से कौन सा एक रैखिक व्यंजक है?",
+            "en": "Which of these is a linear expression?"
           },
           "options": [
-            { "hi": "पर्वतों के तीव्र ढाल", "en": "Steep mountain slopes" },
-            { "hi": "मरुस्थल क्षेत्र", "en": "Desert areas" },
-            { "hi": "उर्वर मैदान और नदी घाटियाँ", "en": "Fertile plains and river valleys" },
-            { "hi": "जलाक्रांत क्षेत्र", "en": "Waterlogged areas" }
+            {"hi": "$x^2 + 1$", "en": "$x^2 + 1$"},
+            {"hi": "$y + y^2$", "en": "$y + y^2$"},
+            {"hi": "$2x + 1$", "en": "$2x + 1$"},
+            {"hi": "$1 + z + z^2$", "en": "$1 + z + z^2$"}
           ],
-          "answer": { "hi": "उर्वर मैदान और नदी घाटियाँ", "en": "Fertile plains and river valleys" }
+          "answer": {"hi": "$2x + 1$", "en": "$2x + 1$"}
         },
         {
           "q": {
-            "hi": "सामुदायिक भूमि को और किस नाम से जाना जाता है?",
-            "en": "By what other name is community land known?"
+            "hi": "समीकरण के बाईं ओर वाले व्यंजक को क्या कहते हैं?",
+            "en": "What is the expression on the left side of an equation called?"
           },
           "options": [
-            { "hi": "निजी संपत्ति", "en": "Private property" },
-            { "hi": "साझा संपत्ति संसाधन", "en": "Common property resource" },
-            { "hi": "सरकारी भूमि", "en": "Government land" },
-            { "hi": "विदेशी संपत्ति", "en": "Foreign property" }
+            {"hi": "दायाँ पक्ष (RHS)", "en": "Right Hand Side (RHS)"},
+            {"hi": "बायाँ पक्ष (LHS)", "en": "Left Hand Side (LHS)"},
+            {"hi": "चर", "en": "Variable"},
+            {"hi": "अचर", "en": "Constant"}
           ],
-          "answer": { "hi": "साझा संपत्ति संसाधन", "en": "Common property resource" }
+          "answer": {"hi": "बायाँ पक्ष (LHS)", "en": "Left Hand Side (LHS)"}
         },
         {
           "q": {
-            "hi": "मृदा किसे कहते हैं?",
-            "en": "What is soil?"
+            "hi": "व्यंजक $2xy + 5$ में कितने चर हैं?",
+            "en": "How many variables are there in the expression $2xy + 5$?"
           },
           "options": [
-            { "hi": "केवल रेत", "en": "Only sand" },
-            { "hi": "दानेदार कणों के आवरण की पतली परत", "en": "Thin layer of grainy substance covering the surface" },
-            { "hi": "समुद्र का पानी", "en": "Sea water" },
-            { "hi": "आसमान का धुआँ", "en": "Smoke from the sky" }
+            {"hi": "एक", "en": "One"},
+            {"hi": "दो", "en": "Two"},
+            {"hi": "तीन", "en": "Three"},
+            {"hi": "कोई नहीं", "en": "None"}
           ],
-          "answer": { "hi": "दानेदार कणों के आवरण की पतली परत", "en": "Thin layer of grainy substance covering the surface" }
+          "answer": {"hi": "दो", "en": "Two"}
         },
         {
           "q": {
-            "hi": "केवल 1 सेंटीमीटर मृदा को बनने में कितने वर्ष लग सकते हैं?",
-            "en": "How many years can it take to form just 1 centimeter of soil?"
+            "hi": "समीकरण $2x - 3 = 7$ का हल क्या है?",
+            "en": "What is the solution to the equation $2x - 3 = 7$?"
           },
           "options": [
-            { "hi": "10 वर्ष", "en": "10 years" },
-            { "hi": "50 वर्ष", "en": "50 years" },
-            { "hi": "सैकड़ों वर्ष", "en": "Hundreds of years" },
-            { "hi": "1000 वर्ष", "en": "1000 years" }
+            {"hi": "x = 2", "en": "x = 2"},
+            {"hi": "x = 5", "en": "x = 5"},
+            {"hi": "x = 10", "en": "x = 10"},
+            {"hi": "x = 4", "en": "x = 4"}
           ],
-          "answer": { "hi": "सैकड़ों वर्ष", "en": "Hundreds of years" }
+          "answer": {"hi": "x = 5", "en": "x = 5"}
         },
         {
           "q": {
-            "hi": "मृदा निर्माण के मुख्य कारक क्या हैं?",
-            "en": "What are the major factors of soil formation?"
+            "hi": "चर के वे मान जो समीकरण को संतुष्ट करते हैं, क्या कहलाते हैं?",
+            "en": "The values of the variable that satisfy the equation are called?"
           },
           "options": [
-            { "hi": "केवल हवा", "en": "Only air" },
-            { "hi": "जनक शैल का स्वरूप और जलवायु", "en": "Nature of parent rock and climate" },
-            { "hi": "केवल मनुष्य", "en": "Only humans" },
-            { "hi": "कारखाने", "en": "Factories" }
+            {"hi": "गुणांक", "en": "Coefficients"},
+            {"hi": "समीकरण का हल", "en": "Solution of the equation"},
+            {"hi": "समता", "en": "Equality"},
+            {"hi": "व्यंजक", "en": "Expression"}
           ],
-          "answer": { "hi": "जनक शैल का स्वरूप और जलवायु", "en": "Nature of parent rock and climate" }
+          "answer": {"hi": "समीकरण का हल", "en": "Solution of the equation"}
         },
         {
           "q": {
-            "hi": "अनावरित शैलों का टूटना और क्षय होना क्या कहलाता है?",
-            "en": "What is the breaking up and decay of exposed rocks called?"
+            "hi": "समीकरण को हल करते समय हम दोनों पक्षों पर कैसी संक्रियाएँ करते हैं?",
+            "en": "While solving an equation, what kind of operations do we perform on both sides?"
           },
           "options": [
-            { "hi": "मल्चिंग", "en": "Mulching" },
-            { "hi": "अपक्षय", "en": "Weathering" },
-            { "hi": "अपरदन", "en": "Erosion" },
-            { "hi": "निक्षेपण", "en": "Deposition" }
+            {"hi": "अलग-अलग", "en": "Different"},
+            {"hi": "एक जैसी", "en": "Same"},
+            {"hi": "केवल गुणा", "en": "Only multiplication"},
+            {"hi": "कोई संक्रिया नहीं", "en": "No operation"}
           ],
-          "answer": { "hi": "अपक्षय", "en": "Weathering" }
+          "answer": {"hi": "एक जैसी", "en": "Same"}
         },
         {
           "q": {
-            "hi": "मृदा के निम्नीकरण में सहायक मानवीय कारक कौन-सा है?",
-            "en": "Which human factor contributes to soil degradation?"
+            "hi": "एक चर वाले रैखिक समीकरण में चर की संख्या कितनी होती है?",
+            "en": "How many variables are there in a linear equation in one variable?"
           },
           "options": [
-            { "hi": "भारी वर्षा", "en": "Heavy rain" },
-            { "hi": "वनोन्मूलन", "en": "Deforestation" },
-            { "hi": "बाढ़", "en": "Floods" },
-            { "hi": "भूस्खलन", "en": "Landslides" }
+            {"hi": "0", "en": "0"},
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "अनेक", "en": "Many"}
           ],
-          "answer": { "hi": "वनोन्मूलन", "en": "Deforestation" }
+          "answer": {"hi": "1", "en": "1"}
         },
         {
           "q": {
-            "hi": "तीव्र ढालों पर मृदा अपरदन रोकने की सबसे उपयुक्त विधि कौन-सी है?",
-            "en": "Which is the most appropriate method to prevent soil erosion on steep slopes?"
+            "hi": "बीजीय समीकरण क्या प्रकट करता है?",
+            "en": "What does an algebraic equation represent?"
           },
           "options": [
-            { "hi": "रक्षक मेखला", "en": "Shelter belts" },
-            { "hi": "मल्च बनाना", "en": "Mulching" },
-            { "hi": "वेदिका कृषि", "en": "Terrace farming" },
-            { "hi": "चट्टान बाँध", "en": "Rock dams" }
+            {"hi": "असमता", "en": "Inequality"},
+            {"hi": "चरों में एक समता", "en": "An equality in variables"},
+            {"hi": "केवल संख्याएँ", "en": "Only numbers"},
+            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
           ],
-          "answer": { "hi": "वेदिका कृषि", "en": "Terrace farming" }
+          "answer": {"hi": "चरों में एक समता", "en": "An equality in variables"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "पवन गति रोकने के लिए कतारों में वृक्ष लगाना क्या कहलाता है?",
-            "en": "Planting rows of trees to check wind movement is called?"
+            "hi": "समीकरण $2x - 3 = x + 2$ को हल करने पर x का मान क्या होगा?",
+            "en": "What is the value of x after solving $2x - 3 = x + 2$?"
           },
           "options": [
-            { "hi": "चट्टान बाँध", "en": "Rock dam" },
-            { "hi": "मल्च बनाना", "en": "Mulching" },
-            { "hi": "रक्षक मेखला", "en": "Shelter belts" },
-            { "hi": "वेदिका फार्म", "en": "Terrace farm" }
+            {"hi": "1", "en": "1"},
+            {"hi": "3", "en": "3"},
+            {"hi": "5", "en": "5"},
+            {"hi": "-1", "en": "-1"}
           ],
-          "answer": { "hi": "रक्षक मेखला", "en": "Shelter belts" }
+          "answer": {"hi": "5", "en": "5"}
         },
         {
           "q": {
-            "hi": "भूपृष्ठ का कितना भाग जल से ढका है?",
-            "en": "How much of the Earth's surface is covered with water?"
+            "hi": "क्या हम समीकरण के दोनों पक्षों से चर वाले पद को घटा सकते हैं?",
+            "en": "Can we subtract a term containing a variable from both sides of an equation?"
           },
           "options": [
-            { "hi": "एक-तिहाई", "en": "One-third" },
-            { "hi": "आधा", "en": "Half" },
-            { "hi": "तीन-चौथाई", "en": "Three-fourths" },
-            { "hi": "एक-चौथाई", "en": "One-fourth" }
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "केवल अचर को", "en": "Only constants"},
+            {"hi": "परिभाषित नहीं है", "en": "Not defined"}
           ],
-          "answer": { "hi": "तीन-चौथाई", "en": "Three-fourths" }
+          "answer": {"hi": "हाँ", "en": "Yes"}
         },
         {
           "q": {
-            "hi": "पृथ्वी पर 'अलवण जल' (Fresh water) का प्रतिशत कितना है?",
-            "en": "What is the percentage of fresh water on Earth?"
+            "hi": "पक्षांतरण (Transposition) का क्या अर्थ है?",
+            "en": "What does Transposition mean?"
           },
           "options": [
-            { "hi": "70 प्रतिशत", "en": "70 percent" },
-            { "hi": "2.7 प्रतिशत", "en": "2.7 percent" },
-            { "hi": "97 प्रतिशत", "en": "97 percent" },
-            { "hi": "10 प्रतिशत", "en": "10 percent" }
+            {"hi": "संख्या को हटाना", "en": "Removing a number"},
+            {"hi": "एक पक्ष से दूसरे पक्ष में पद ले जाना", "en": "Moving a term from one side to the other"},
+            {"hi": "केवल गुणा करना", "en": "Only multiplying"},
+            {"hi": "वर्गमूल निकालना", "en": "Finding square root"}
           ],
-          "answer": { "hi": "2.7 प्रतिशत", "en": "2.7 percent" }
+          "answer": {"hi": "एक पक्ष से दूसरे पक्ष में पद ले जाना", "en": "Moving a term from one side to the other"}
         },
         {
           "q": {
-            "hi": "मानव उपभोग के लिए कितना अलवण जल उपलब्ध है?",
-            "en": "How much fresh water is available for human consumption?"
+            "hi": "समीकरण $3x = 2x + 18$ का हल क्या है?",
+            "en": "What is the solution to $3x = 2x + 18$?"
           },
           "options": [
-            { "hi": "केवल 1 प्रतिशत", "en": "Only 1 percent" },
-            { "hi": "2.7 प्रतिशत", "en": "2.7 percent" },
-            { "hi": "50 प्रतिशत", "en": "50 percent" },
-            { "hi": "10 प्रतिशत", "en": "10 percent" }
+            {"hi": "9", "en": "9"},
+            {"hi": "18", "en": "18"},
+            {"hi": "36", "en": "36"},
+            {"hi": "6", "en": "6"}
           ],
-          "answer": { "hi": "केवल 1 प्रतिशत", "en": "Only 1 percent" }
+          "answer": {"hi": "18", "en": "18"}
         },
         {
           "q": {
-            "hi": "एक टपकता नल एक वर्ष में कितने लीटर जल व्यर्थ करता है?",
-            "en": "How many liters of water does a dripping tap waste in a year?"
+            "hi": "समीकरण $5t - 3 = 3t - 5$ में t का मान ज्ञात कीजिए।",
+            "en": "Find the value of t in the equation $5t - 3 = 3t - 5$."
           },
           "options": [
-            { "hi": "500 लीटर", "en": "500 liters" },
-            { "hi": "1,200 लीटर", "en": "1,200 liters" },
-            { "hi": "2,000 लीटर", "en": "2,000 liters" },
-            { "hi": "100 लीटर", "en": "100 liters" }
+            {"hi": "1", "en": "1"},
+            {"hi": "-1", "en": "-1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "-2", "en": "-2"}
           ],
-          "answer": { "hi": "1,200 लीटर", "en": "1,200 liters" }
+          "answer": {"hi": "-1", "en": "-1"}
         },
         {
           "q": {
-            "hi": "औसतन एक भारतीय नागरिक प्रतिदिन कितने लीटर जल का उपयोग करता है?",
-            "en": "On average, how many liters of water does an Indian citizen use daily?"
+            "hi": "समीकरण $2x - 1 = 14 - x$ का हल क्या है?",
+            "en": "What is the solution to $2x - 1 = 14 - x$?"
           },
           "options": [
-            { "hi": "50 लीटर", "en": "50 liters" },
-            { "hi": "150 लीटर", "en": "150 liters" },
-            { "hi": "300 लीटर", "en": "300 liters" },
-            { "hi": "100 लीटर", "en": "100 liters" }
+            {"hi": "5", "en": "5"},
+            {"hi": "15", "en": "15"},
+            {"hi": "3", "en": "3"},
+            {"hi": "13", "en": "13"}
           ],
-          "answer": { "hi": "150 लीटर", "en": "150 liters" }
+          "answer": {"hi": "5", "en": "5"}
         },
         {
           "q": {
-            "hi": "शुष्क प्रदेशों में सिंचाई की कौन-सी विधि सबसे उपयोगी है?",
-            "en": "Which irrigation method is most useful in dry regions?"
+            "hi": "समीकरण $4z + 3 = 6 + 2z$ में z का मान क्या है?",
+            "en": "What is the value of z in $4z + 3 = 6 + 2z$?"
           },
           "options": [
-            { "hi": "नहर सिंचाई", "en": "Canal irrigation" },
-            { "hi": "बाढ़ सिंचाई", "en": "Flood irrigation" },
-            { "hi": "ड्रिप अथवा टपकन विधि", "en": "Drip or trickle irrigation" },
-            { "hi": "स्प्रिंकलर", "en": "Sprinkler" }
+            {"hi": "1.5", "en": "1.5"},
+            {"hi": "3", "en": "3"},
+            {"hi": "2", "en": "2"},
+            {"hi": "1", "en": "1"}
           ],
-          "answer": { "hi": "ड्रिप अथवा टपकन विधि", "en": "Drip or trickle irrigation" }
+          "answer": {"hi": "1.5", "en": "1.5"}
         },
         {
           "q": {
-            "hi": "प्राकृतिक वनस्पति और वन्य जीवन कहाँ पाए जाते हैं?",
-            "en": "Where are natural vegetation and wildlife found?"
+            "hi": "समीकरण $\\frac{6x+1}{3} + 1 = \\frac{x-3}{6}$ को हल करने के लिए दोनों पक्षों को किससे गुणा करना सुविधाजनक है?",
+            "en": "To solve $\\frac{6x+1}{3} + 1 = \\frac{x-3}{6}$, multiplying both sides by what is convenient?"
           },
           "options": [
-            { "hi": "केवल अंतरिक्ष में", "en": "Only in space" },
-            { "hi": "जैवमंडल (Biosphere) में", "en": "In the Biosphere" },
-            { "hi": "केवल प्रयोगशाला में", "en": "Only in labs" },
-            { "hi": "केवल बादलों में", "en": "Only in clouds" }
+            {"hi": "3", "en": "3"},
+            {"hi": "6", "en": "6"},
+            {"hi": "9", "en": "9"},
+            {"hi": "18", "en": "18"}
           ],
-          "answer": { "hi": "जैवमंडल (Biosphere) में", "en": "In the Biosphere" }
+          "answer": {"hi": "6", "en": "6"}
         },
         {
           "q": {
-            "hi": "पारितंत्र (Ecosystem) किसे कहते हैं?",
-            "en": "What is an Ecosystem?"
+            "hi": "समीकरणों के हरों के ल.स.प. (LCM) से गुणा करने का उद्देश्य क्या है?",
+            "en": "What is the purpose of multiplying by the LCM of the denominators in equations?"
           },
           "options": [
-            { "hi": "केवल मशीनों का जाल", "en": "Only a network of machines" },
-            { "hi": "जीवित जातियों का परस्पर संबंधित और आश्रित तंत्र", "en": "Interrelated and interdependent system of living species" },
-            { "hi": "केवल पत्थरों का समूह", "en": "Only a group of rocks" },
-            { "hi": "केवल नदियों का बहाव", "en": "Only the flow of rivers" }
+            {"hi": "संख्या बड़ी करना", "en": "To make numbers larger"},
+            {"hi": "समीकरण को सरल बनाना", "en": "To simplify the equation"},
+            {"hi": "चर हटाना", "en": "To remove the variable"},
+            {"hi": "उत्तर बदलना", "en": "To change the answer"}
           ],
-          "answer": { "hi": "जीवित जातियों का परस्पर संबंधित और आश्रित तंत्र", "en": "Interrelated and interdependent system of living species" }
+          "answer": {"hi": "समीकरण को सरल बनाना", "en": "To simplify the equation"}
         },
         {
           "q": {
-            "hi": "गिद्ध किस पीड़ानाशी (Painkiller) के कारण मर रहे थे?",
-            "en": "Vultures were dying due to which painkiller used on livestock?"
+            "hi": "समीकरण $8x + 4 = 3(x - 1) + 7$ का हल क्या है?",
+            "en": "What is the solution to $8x + 4 = 3(x - 1) + 7$?"
           },
           "options": [
-            { "hi": "पेरासिटामोल", "en": "Paracetamol" },
-            { "hi": "डिक्लोफिनैक", "en": "Diclofenac" },
-            { "hi": "पेनिसिलिन", "en": "Penicillin" },
-            { "hi": "इंसुलिन", "en": "Insulin" }
+            {"hi": "0", "en": "0"},
+            {"hi": "1", "en": "1"},
+            {"hi": "-1", "en": "-1"},
+            {"hi": "4", "en": "4"}
           ],
-          "answer": { "hi": "डिक्लोफिनैक", "en": "Diclofenac" }
+          "answer": {"hi": "0", "en": "0"}
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "विश्व की वनस्पति को मुख्य रूप से कितने वर्गों में रखा जा सकता है?",
-            "en": "Into how many main groups can world vegetation be categorized?"
+            "hi": "समीकरण $x = \\frac{4}{5}(x + 10)$ को हल करने पर x का मान क्या आता है?",
+            "en": "What is the value of x after solving $x = \\frac{4}{5}(x + 10)$?"
           },
           "options": [
-            { "hi": "दो", "en": "Two" },
-            { "hi": "चार", "en": "Four" },
-            { "hi": "छह", "en": "Six" },
-            { "hi": "आठ", "en": "Eight" }
+            {"hi": "10", "en": "10"},
+            {"hi": "20", "en": "20"},
+            {"hi": "40", "en": "40"},
+            {"hi": "50", "en": "50"}
           ],
-          "answer": { "hi": "चार", "en": "Four" }
+          "answer": {"hi": "40", "en": "40"}
         },
         {
           "q": {
-            "hi": "भारी वर्षा वाले क्षेत्रों में क्या उगते हैं?",
-            "en": "What grows in areas of heavy rainfall?"
+            "hi": "समीकरण $3m = 5m - \\frac{8}{5}$ में m का मान क्या है?",
+            "en": "What is the value of m in $3m = 5m - \\frac{8}{5}$?"
           },
           "options": [
-            { "hi": "कँटीली झाड़ियाँ", "en": "Thorny shrubs" },
-            { "hi": "विशाल वृक्ष", "en": "Huge trees" },
-            { "hi": "केवल घास", "en": "Only grass" },
-            { "hi": "टुंड्रा वनस्पति", "en": "Tundra vegetation" }
+            {"hi": "4/5", "en": "4/5"},
+            {"hi": "-4/5", "en": "-4/5"},
+            {"hi": "8/5", "en": "8/5"},
+            {"hi": "2/5", "en": "2/5"}
           ],
-          "answer": { "hi": "विशाल वृक्ष", "en": "Huge trees" }
+          "answer": {"hi": "4/5", "en": "4/5"}
         },
         {
           "q": {
-            "hi": "शीत ध्रुवीय प्रदेशों में कौन-सी वनस्पति पाई जाती है?",
-            "en": "Which vegetation is found in cold polar regions?"
+            "hi": "समीकरण $\\frac{x}{2} - \\frac{1}{5} = \\frac{x}{3} + \\frac{1}{4}$ का हल क्या है?",
+            "en": "What is the solution to $\\frac{x}{2} - \\frac{1}{5} = \\frac{x}{3} + \\frac{1}{4}$?"
           },
           "options": [
-            { "hi": "घास के मैदान", "en": "Grasslands" },
-            { "hi": "सदाबहार वन", "en": "Evergreen forests" },
-            { "hi": "टुंड्रा (मॉस और लाइकेन)", "en": "Tundra (moss and lichens)" },
-            { "hi": "रेगिस्तानी झाड़ियाँ", "en": "Desert shrubs" }
+            {"hi": "27/10", "en": "27/10"},
+            {"hi": "10/27", "en": "10/27"},
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"}
           ],
-          "answer": { "hi": "टुंड्रा (मॉस और लाइकेन)", "en": "Tundra (moss and lichens)" }
+          "answer": {"hi": "27/10", "en": "27/10"}
         },
         {
           "q": {
-            "hi": "ब्लैकबक (Blackbuck) को किसकी आवश्यकता है?",
-            "en": "What does the Blackbuck need?"
+            "hi": "कोष्ठक हटाने के बाद $5x - 2(2x - 7)$ का सरल रूप क्या होगा?",
+            "en": "What is the simplified form of $5x - 2(2x - 7)$ after removing brackets?"
           },
           "options": [
-            { "hi": "शिकार की", "en": "Hunting" },
-            { "hi": "सुरक्षा की", "en": "Protection" },
-            { "hi": "पिंजरे की", "en": "A cage" },
-            { "hi": "सर्कस की", "en": "A circus" }
+            {"hi": "$x - 14$", "en": "$x - 14$"},
+            {"hi": "$x + 14$", "en": "$x + 14$"},
+            {"hi": "$9x + 14$", "en": "$9x + 14$"},
+            {"hi": "$x + 7$", "en": "$x + 7$"}
           ],
-          "answer": { "hi": "सुरक्षा की", "en": "Protection" }
+          "answer": {"hi": "$x + 14$", "en": "$x + 14$"}
         },
         {
           "q": {
-            "hi": "सी.आई.टी.ई.एस. (CITES) का मुख्य उद्देश्य क्या है?",
-            "en": "What is the main objective of CITES?"
+            "hi": "समीकरण $0.25(4f - 3) = 0.05(10f - 9)$ में f का मान क्या है?",
+            "en": "What is the value of f in $0.25(4f - 3) = 0.05(10f - 9)$?"
           },
           "options": [
-            { "hi": "युद्ध रोकना", "en": "To stop wars" },
-            { "hi": "वन्य प्राणियों के अंतर्राष्ट्रीय व्यापार को नियंत्रित करना", "en": "To regulate international trade of wild species" },
-            { "hi": "खेलों को बढ़ावा देना", "en": "To promote sports" },
-            { "hi": "नई भाषाएँ सिखाना", "en": "To teach new languages" }
+            {"hi": "0.5", "en": "0.5"},
+            {"hi": "0.6", "en": "0.6"},
+            {"hi": "0.75", "en": "0.75"},
+            {"hi": "1", "en": "1"}
           ],
-          "answer": { "hi": "वन्य प्राणियों के अंतर्राष्ट्रीय व्यापार को नियंत्रित करना", "en": "To regulate international trade of wild species" }
+          "answer": {"hi": "0.6", "en": "0.6"}
         },
         {
           "q": {
-            "hi": "हिमाचल प्रदेश के पंजी गाँव में महामार्ग-22 क्यों नष्ट हुआ था?",
-            "en": "Why was Highway-22 destroyed in Panji village of Himachal Pradesh?"
+            "hi": "समीकरण $\\frac{n}{2} - \\frac{3n}{4} + \\frac{5n}{6} = 21$ का हल क्या है?",
+            "en": "What is the solution to $\\frac{n}{2} - \\frac{3n}{4} + \\frac{5n}{6} = 21$?"
           },
           "options": [
-            { "hi": "बाढ़ के कारण", "en": "Due to flood" },
-            { "hi": "भूस्खलन के कारण", "en": "Due to landslide" },
-            { "hi": "भूकंप के कारण", "en": "Due to earthquake" },
-            { "hi": "तूफान के कारण", "en": "Due to storm" }
+            {"hi": "36", "en": "36"},
+            {"hi": "42", "en": "42"},
+            {"hi": "12", "en": "12"},
+            {"hi": "24", "en": "24"}
           ],
-          "answer": { "hi": "भूस्खलन के कारण", "en": "Due to landslide" }
+          "answer": {"hi": "36", "en": "36"}
         },
         {
           "q": {
-            "hi": "वनस्पति की वृद्धि मुख्य रूप से किन दो कारकों पर निर्भर करती है?",
-            "en": "Vegetation growth primarily depends on which two factors?"
+            "hi": "यदि बायाँ पक्ष (LHS) = दायाँ पक्ष (RHS) हो, तो इसका क्या अर्थ है?",
+            "en": "If LHS = RHS, what does it mean?"
           },
           "options": [
-            { "hi": "मिट्टी और हवा", "en": "Soil and air" },
-            { "hi": "तापमान और आर्द्रता", "en": "Temperature and moisture" },
-            { "hi": "ऊंचाई और गहराई", "en": "Height and depth" },
-            { "hi": "मनुष्य और पशु", "en": "Humans and animals" }
+            {"hi": "समीकरण गलत है", "en": "Equation is wrong"},
+            {"hi": "उत्तर सही है", "en": "The answer is correct"},
+            {"hi": "चर शून्य है", "en": "Variable is zero"},
+            {"hi": "पक्षांतरण की आवश्यकता है", "en": "Transposition is needed"}
           ],
-          "answer": { "hi": "तापमान और आर्द्रता", "en": "Temperature and moisture" }
+          "answer": {"hi": "उत्तर सही है", "en": "The answer is correct"}
         },
         {
           "q": {
-            "hi": "वर्षा जल संग्रहण (Rainwater Harvesting) क्या है?",
-            "en": "What is Rainwater Harvesting?"
+            "hi": "समीकरण $\\frac{x-5}{3} = \\frac{x-3}{5}$ में x का मान क्या है?",
+            "en": "What is the value of x in $\\frac{x-5}{3} = \\frac{x-3}{5}$?"
           },
           "options": [
-            { "hi": "पानी को बहा देना", "en": "Wasting water" },
-            { "hi": "वर्षा जल को एकत्र करके संचित करना", "en": "Collecting and storing rainwater" },
-            { "hi": "केवल समुद्री जल का उपयोग", "en": "Only using sea water" },
-            { "hi": "बादल बनाना", "en": "Making clouds" }
+            {"hi": "8", "en": "8"},
+            {"hi": "10", "en": "10"},
+            {"hi": "12", "en": "12"},
+            {"hi": "4", "en": "4"}
           ],
-          "answer": { "hi": "वर्षा जल को एकत्र करके संचित करना", "en": "Collecting and storing rainwater" }
+          "answer": {"hi": "8", "en": "8"}
         },
         {
           "q": {
-            "hi": "इनमें से कौन-सा मृदा संरक्षण का एक तरीका है?",
-            "en": "Which of these is a method of soil conservation?"
+            "hi": "समीकरण $3(t - 3) = 5(2t + 1)$ का हल क्या है?",
+            "en": "What is the solution to $3(t - 3) = 5(2t + 1)$?"
           },
           "options": [
-            { "hi": "अतिचारण", "en": "Overgrazing" },
-            { "hi": "मल्च बनाना", "en": "Mulching" },
-            { "hi": "वनोन्मूलन", "en": "Deforestation" },
-            { "hi": "वर्षा दोहन", "en": "Rainwash" }
+            {"hi": "-2", "en": "-2"},
+            {"hi": "2", "en": "2"},
+            {"hi": "-1", "en": "-1"},
+            {"hi": "0", "en": "0"}
           ],
-          "answer": { "hi": "मल्च बनाना", "en": "Mulching" }
+          "answer": {"hi": "-2", "en": "-2"}
         },
         {
           "q": {
-            "hi": "भूस्खलन रोकने के लिए बनाई गई दीवार को क्या कहते हैं?",
-            "en": "What is the wall built to prevent landslides called?"
+            "hi": "संख्याओं और आयु पर आधारित समस्याओं को कैसे हल किया जा सकता है?",
+            "en": "How can problems based on numbers and age be solved?"
           },
           "options": [
-            { "hi": "चीन की दीवार", "en": "Great Wall of China" },
-            { "hi": "प्रतिधारी दीवार", "en": "Retention wall" },
-            { "hi": "मिट्टी की दीवार", "en": "Mud wall" },
-            { "hi": "पेंट की गई दीवार", "en": "Painted wall" }
+            {"hi": "केवल अनुमान लगाकर", "en": "By only guessing"},
+            {"hi": "रैखिक समीकरणों का उपयोग करके", "en": "By using linear equations"},
+            {"hi": "ग्राफ बनाकर", "en": "By making graphs"},
+            {"hi": "हल नहीं किया जा सकता", "en": "Cannot be solved"}
           ],
-          "answer": { "hi": "प्रतिधारी दीवार", "en": "Retention wall" }
+          "answer": {"hi": "रैखिक समीकरणों का उपयोग करके", "en": "By using linear equations"}
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "तंजानिया कहाँ स्थित है?",
-            "en": "Where is Tanzania located?"
+            "hi": "समीकरण $\\frac{2x}{3} + 1 = \\frac{7x}{15} + 3$ में x का मान क्या है?",
+            "en": "What is the value of x in $\\frac{2x}{3} + 1 = \\frac{7x}{15} + 3$?"
           },
           "options": [
-            { "hi": "एशिया", "en": "Asia" },
-            { "hi": "यूरोप", "en": "Europe" },
-            { "hi": "अफ्रीका", "en": "Africa" },
-            { "hi": "दक्षिण अमेरिका", "en": "South America" }
+            {"hi": "5", "en": "5"},
+            {"hi": "10", "en": "10"},
+            {"hi": "15", "en": "15"},
+            {"hi": "20", "en": "20"}
           ],
-          "answer": { "hi": "अफ्रीका", "en": "Africa" }
+          "answer": {"hi": "10", "en": "10"}
         },
         {
           "q": {
-            "hi": "पीटर कहाँ रहता है?",
-            "en": "Where does Peter live?"
+            "hi": "समीकरण $2y + \\frac{5}{3} = \\frac{26}{3} - y$ में y का मान क्या है?",
+            "en": "What is the value of y in $2y + \\frac{5}{3} = \\frac{26}{3} - y$?"
           },
           "options": [
-            { "hi": "भारत", "en": "India" },
-            { "hi": "न्यूजीलैंड", "en": "New Zealand" },
-            { "hi": "जापान", "en": "Japan" },
-            { "hi": "कनाडा", "en": "Canada" }
+            {"hi": "7/3", "en": "7/3"},
+            {"hi": "3/7", "en": "3/7"},
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"}
           ],
-          "answer": { "hi": "न्यूजीलैंड", "en": "New Zealand" }
+          "answer": {"hi": "7/3", "en": "7/3"}
         },
         {
           "q": {
-            "hi": "मृदा परिच्छेदिका (Soil Profile) में सबसे ऊपर क्या होता है?",
-            "en": "What is at the top of the Soil Profile?"
+            "hi": "समीकरण $x + 7 - \\frac{8x}{3} = \\frac{17}{6} - \\frac{5x}{2}$ का हल क्या है?",
+            "en": "What is the solution to $x + 7 - \\frac{8x}{3} = \\frac{17}{6} - \\frac{5x}{2}$?"
           },
           "options": [
-            { "hi": "जनक चट्टानें", "en": "Parent rock" },
-            { "hi": "ह्यूमस और वनस्पति", "en": "Humus and vegetation" },
-            { "hi": "केवल बालू", "en": "Only sand" },
-            { "hi": "मिट्टी के घड़े", "en": "Clay pots" }
+            {"hi": "-5", "en": "-5"},
+            {"hi": "5", "en": "5"},
+            {"hi": "1", "en": "1"},
+            {"hi": "-1", "en": "-1"}
           ],
-          "answer": { "hi": "ह्यूमस और वनस्पति", "en": "Humus and vegetation" }
+          "answer": {"hi": "-5", "en": "-5"}
         },
         {
           "q": {
-            "hi": "मृदा का उपजाऊपन किससे बढ़ता है?",
-            "en": "What increases the fertility of soil?"
+            "hi": "क्या रैखिक समीकरण बनाने वाले व्यंजक में एक से अधिक चर हो सकते हैं?",
+            "en": "Can the expression forming a linear equation have more than one variable?"
           },
           "options": [
-            { "hi": "केवल रसायनों से", "en": "Only by chemicals" },
-            { "hi": "खनिजों और जैव पदार्थों के सही मिश्रण से", "en": "Correct mix of minerals and organic matter" },
-            { "hi": "प्लास्टिक से", "en": "By plastic" },
-            { "hi": "धूप कम होने से", "en": "By less sunlight" }
+            {"hi": "हाँ, हमेशा", "en": "Yes, always"},
+            {"hi": "नहीं, केवल एक ही चर", "en": "No, only one variable"},
+            {"hi": "कभी-कभी", "en": "Sometimes"},
+            {"hi": "शून्य चर", "en": "Zero variables"}
           ],
-          "answer": { "hi": "खनिजों और जैव पदार्थों के सही मिश्रण से", "en": "Correct mix of minerals and organic matter" }
+          "answer": {"hi": "नहीं, केवल एक ही चर", "en": "No, only one variable"}
         },
         {
           "q": {
-            "hi": "जैवमंडल निचय (Biosphere Reserve) क्या है?",
-            "en": "What is a Biosphere Reserve?"
+            "hi": "समीकरण $15(y - 4) - 2(y - 9) + 5(y + 6) = 0$ में y का मान क्या है?",
+            "en": "What is the value of y in $15(y - 4) - 2(y - 9) + 5(y + 6) = 0$?"
           },
           "options": [
-            { "hi": "एक चिड़ियाघर", "en": "A zoo" },
-            { "hi": "रक्षित क्षेत्रों की वैश्विक श्रृंखला", "en": "Global series of protected areas" },
-            { "hi": "एक स्कूल", "en": "A school" },
-            { "hi": "एक कारखाना", "en": "A factory" }
+            {"hi": "2/3", "en": "2/3"},
+            {"hi": "3/2", "en": "3/2"},
+            {"hi": "1", "en": "1"},
+            {"hi": "0", "en": "0"}
           ],
-          "answer": { "hi": "रक्षित क्षेत्रों की वैश्विक श्रृंखला", "en": "Global series of protected areas" }
+          "answer": {"hi": "2/3", "en": "2/3"}
         },
         {
           "q": {
-            "hi": "दावानल (Forest Fire) का मुख्य कारण क्या हो सकता है?",
-            "en": "What can be a main cause of Forest Fire?"
+            "hi": "समीकरण हल करने का मुख्य लक्ष्य क्या होता है?",
+            "en": "What is the main goal of solving an equation?"
           },
           "options": [
-            { "hi": "तड़ित झंझा (Lightening)", "en": "Lightening strike" },
-            { "hi": "ज्यादा पानी", "en": "Too much water" },
-            { "hi": "ठंडी हवा", "en": "Cold breeze" },
-            { "hi": "कोहरा", "en": "Fog" }
+            {"hi": "बाएँ पक्ष को शून्य करना", "en": "Making LHS zero"},
+            {"hi": "चर का मान ज्ञात करना", "en": "Finding the value of the variable"},
+            {"hi": "दाएँ पक्ष को शून्य करना", "en": "Making RHS zero"},
+            {"hi": "चर को हटाना", "en": "Removing the variable"}
           ],
-          "answer": { "hi": "तड़ित झंझा (Lightening)", "en": "Lightening strike" }
+          "answer": {"hi": "चर का मान ज्ञात करना", "en": "Finding the value of the variable"}
         },
         {
           "q": {
-            "hi": "भारत में किन जानवरों को मारना अवैध है?",
-            "en": "Which animals are illegal to kill in India?"
+            "hi": "रैखिक समीकरणों की उपयोगिता किन क्षेत्रों में है?",
+            "en": "In which areas are linear equations useful?"
           },
           "options": [
-            { "hi": "शेर और मोर", "en": "Lions and Peacocks" },
-            { "hi": "केवल चूहे", "en": "Only rats" },
-            { "hi": "केवल मक्खी", "en": "Only flies" },
-            { "hi": "कोई नहीं", "en": "None" }
+            {"hi": "आयु की गणना", "en": "Age calculation"},
+            {"hi": "परिमाप ज्ञात करना", "en": "Finding perimeter"},
+            {"hi": "मुद्रा संबंधी समस्याएँ", "en": "Currency related problems"},
+            {"hi": "उपरोक्त सभी", "en": "All of the above"}
           ],
-          "answer": { "hi": "शेर और मोर", "en": "Lions and Peacocks" }
+          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
         },
         {
           "q": {
-            "hi": "मृदा निर्माण में 'समय' क्या निर्धारित करता है?",
-            "en": "What does 'time' determine in soil formation?"
+            "hi": "एक संतुलित तुला के समान समीकरण के दोनों पक्षों पर कैसी संक्रिया करनी चाहिए?",
+            "en": "Like a balanced scale, what operation should be performed on both sides of an equation?"
           },
           "options": [
-            { "hi": "मृदा का रंग", "en": "Color of soil" },
-            { "hi": "मृदा परिच्छेदिका की मोटाई", "en": "Thickness of soil profile" },
-            { "hi": "मृदा का स्वाद", "en": "Taste of soil" },
-            { "hi": "मृदा की गंध", "en": "Smell of soil" }
+            {"hi": "एक जैसी", "en": "Identical"},
+            {"hi": "विपरीत", "en": "Opposite"},
+            {"hi": "कोई भी", "en": "Any"},
+            {"hi": "केवल जोड़ना", "en": "Only addition"}
           ],
-          "answer": { "hi": "मृदा परिच्छेदिका की मोटाई", "en": "Thickness of soil profile" }
+          "answer": {"hi": "एक जैसी", "en": "Identical"}
         },
         {
           "q": {
-            "hi": "महासागरों का जल कैसा होता है?",
-            "en": "How is the water of the oceans?"
+            "hi": "समीकरण $m - \\frac{m-1}{2} = 1 - \\frac{m-2}{3}$ में m का मान क्या है?",
+            "en": "What is the value of m in $m - \\frac{m-1}{2} = 1 - \\frac{m-2}{3}$?"
           },
           "options": [
-            { "hi": "पीने योग्य", "en": "Drinkable" },
-            { "hi": "लवणीय (Saline)", "en": "Saline" },
-            { "hi": "मीठा", "en": "Sweet" },
-            { "hi": "रंगीन", "en": "Colored" }
+            {"hi": "7/5", "en": "7/5"},
+            {"hi": "5/7", "en": "5/7"},
+            {"hi": "1.2", "en": "1.2"},
+            {"hi": "1", "en": "1"}
           ],
-          "answer": { "hi": "लवणीय (Saline)", "en": "Saline" }
+          "answer": {"hi": "7/5", "en": "7/5"}
         },
         {
           "q": {
-            "hi": "पर्यावरण का 'अपमार्जक' (Scavenger) किसे कहा जाता है?",
-            "en": "Who is called the 'Scavenger' of the environment?"
+            "hi": "समीकरण $\\frac{3t-2}{4} - \\frac{2t+3}{3} = \\frac{2}{3} - t$ का हल क्या है?",
+            "en": "What is the solution to $\\frac{3t-2}{4} - \\frac{2t+3}{3} = \\frac{2}{3} - t$?"
           },
           "options": [
-            { "hi": "बाघ", "en": "Tiger" },
-            { "hi": "हाथी", "en": "Elephant" },
-            { "hi": "गिद्ध", "en": "Vulture" },
-            { "hi": "तोता", "en": "Parrot" }
+            {"hi": "2", "en": "2"},
+            {"hi": "-2", "en": "-2"},
+            {"hi": "1", "en": "1"},
+            {"hi": "0", "en": "0"}
           ],
-          "answer": { "hi": "गिद्ध", "en": "Vulture" }
+          "answer": {"hi": "2", "en": "2"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "मृदा संरक्षण की 'मल्च बनाना' विधि में क्या किया जाता है?",
-            "en": "What is done in the 'Mulching' method of soil conservation?"
+            "hi": "प्रायः समीकरण को हल करने से पहले उसे क्या किया जाता है?",
+            "en": "What is usually done to an equation before solving it?"
           },
           "options": [
-            { "hi": "दीवार बनाना", "en": "Building a wall" },
-            { "hi": "भूमि को घास-फूस से ढकना", "en": "Covering the ground with organic matter like straw" },
-            { "hi": "नहर खोदना", "en": "Digging a canal" },
-            { "hi": "पेड़ काटना", "en": "Cutting trees" }
+            {"hi": "बड़ा बनाया जाता है", "en": "Made larger"},
+            {"hi": "सरल बनाया जाता है", "en": "Simplified"},
+            {"hi": "मिटा दिया जाता है", "en": "Erased"},
+            {"hi": "उसी रूप में छोड़ा जाता है", "en": "Left as it is"}
           ],
-          "answer": { "hi": "भूमि को घास-फूस से ढकना", "en": "Covering the ground with organic matter like straw" }
+          "answer": {"hi": "सरल बनाया जाता है", "en": "Simplified"}
         },
         {
           "q": {
-            "hi": "जल प्रदूषण का एक मुख्य स्रोत क्या है?",
-            "en": "What is a major source of water pollution?"
+            "hi": "समीकरण $3(5z - 7) - 2(9z - 11) = 4(8z - 13) - 17$ में z का मान क्या है?",
+            "en": "What is the value of z in $3(5z - 7) - 2(9z - 11) = 4(8z - 13) - 17$?"
           },
           "options": [
-            { "hi": "साफ वर्षा", "en": "Clean rain" },
-            { "hi": "औद्योगिक बहिःस्राव", "en": "Industrial effluents" },
-            { "hi": "मछली पालन", "en": "Fish farming" },
-            { "hi": "पौधे लगाना", "en": "Planting trees" }
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "-1", "en": "-1"},
+            {"hi": "0", "en": "0"}
           ],
-          "answer": { "hi": "औद्योगिक बहिःस्राव", "en": "Industrial effluents" }
+          "answer": {"hi": "2", "en": "2"}
         },
         {
           "q": {
-            "hi": "रेशम किससे प्राप्त होता है?",
-            "en": "From where is silk obtained?"
+            "hi": "क्या रैखिक समीकरण बनाने वाले चर की घात 2 हो सकती है?",
+            "en": "Can the power of a variable in a linear equation be 2?"
           },
           "options": [
-            { "hi": "कपास के पौधे से", "en": "From cotton plant" },
-            { "hi": "रेशमकीटों (Silkworms) से", "en": "From silkworms" },
-            { "hi": "भेड़ से", "en": "From sheep" },
-            { "hi": "खनिज से", "en": "From minerals" }
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "केवल विशेष परिस्थितियों में", "en": "Only in special cases"},
+            {"hi": "निश्चित नहीं", "en": "Not certain"}
           ],
-          "answer": { "hi": "रेशमकीटों (Silkworms) से", "en": "From silkworms" }
+          "answer": {"hi": "नहीं", "en": "No"}
         },
         {
           "q": {
-            "hi": "विश्व में वनों का आवरण क्यों कम हो रहा है?",
-            "en": "Why is forest cover decreasing in the world?"
+            "hi": "समीकरण $5x + \\frac{7}{2} = \\frac{3}{2}x - 14$ में x का मान क्या है?",
+            "en": "What is the value of x in $5x + \\frac{7}{2} = \\frac{3}{2}x - 14$?"
           },
           "options": [
-            { "hi": "बढ़ती जनसंख्या की माँग के कारण", "en": "Due to demands of increasing population" },
-            { "hi": "ज्यादा बारिश के कारण", "en": "Due to too much rain" },
-            { "hi": "मिट्टी की कमी के कारण", "en": "Due to lack of soil" },
-            { "hi": "पशुओं के कारण", "en": "Due to animals" }
+            {"hi": "-5", "en": "-5"},
+            {"hi": "5", "en": "5"},
+            {"hi": "-7", "en": "-7"},
+            {"hi": "7", "en": "7"}
           ],
-          "answer": { "hi": "बढ़ती जनसंख्या की माँग के कारण", "en": "Due to demands of increasing population" }
+          "answer": {"hi": "-5", "en": "-5"}
         },
         {
           "q": {
-            "hi": "साल्ज़बर्ग शहर किस देश में है?",
-            "en": "In which country is the city of Salzburg located?"
+            "hi": "पक्षांतरण के दौरान यदि कोई पद धनात्मक (+) है, तो दूसरे पक्ष में जाकर वह क्या हो जाएगा?",
+            "en": "During transposition, if a term is positive (+), what will it become on the other side?"
           },
           "options": [
-            { "hi": "जर्मनी", "en": "Germany" },
-            { "hi": "ऑस्ट्रिया", "en": "Austria" },
-            { "hi": "फ्रांस", "en": "France" },
-            { "hi": "इटली", "en": "Italy" }
+            {"hi": "धनात्मक ही रहेगा", "en": "Will remain positive"},
+            {"hi": "ऋणात्मक (-)", "en": "Negative (-)"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "गुणा", "en": "Multiplication"}
           ],
-          "answer": { "hi": "ऑस्ट्रिया", "en": "Austria" }
+          "answer": {"hi": "ऋणात्मक (-)", "en": "Negative (-)"}
         },
         {
           "q": {
-            "hi": "मृदा निर्माण में 'जनक शैल' क्या निर्धारित करती है?",
-            "en": "What does the 'Parent Rock' determine in soil formation?"
+            "hi": "समीकरण के संतुलन को बनाए रखने के लिए क्या आवश्यक है?",
+            "en": "What is necessary to maintain the balance of an equation?"
           },
           "options": [
-            { "hi": "ह्यूमस की मात्रा", "en": "Amount of humus" },
-            { "hi": "रंग, गठन और खनिज", "en": "Color, texture, and minerals" },
-            { "hi": "मृदा की मोटाई", "en": "Thickness of soil" },
-            { "hi": "तापमान", "en": "Temperature" }
+            {"hi": "LHS और RHS पर समान संक्रिया", "en": "Identical operations on LHS and RHS"},
+            {"hi": "केवल LHS बदलना", "en": "Only changing LHS"},
+            {"hi": "केवल RHS बदलना", "en": "Only changing RHS"},
+            {"hi": "चर हटाना", "en": "Removing the variable"}
           ],
-          "answer": { "hi": "रंग, गठन और खनिज", "en": "Color, texture, and minerals" }
+          "answer": {"hi": "LHS और RHS पर समान संक्रिया", "en": "Identical operations on LHS and RHS"}
         },
         {
           "q": {
-            "hi": "समुदाय के स्वामित्व वाली भूमि को क्या कहते हैं?",
-            "en": "What is the land owned by the community called?"
+            "hi": "बीजीय व्यंजक $x^2 + 1$ रैखिक क्यों नहीं है?",
+            "en": "Why is the algebraic expression $x^2 + 1$ not linear?"
           },
           "options": [
-            { "hi": "निजी भूमि", "en": "Private land" },
-            { "hi": "सामुदायिक भूमि", "en": "Community land" },
-            { "hi": "विदेशी भूमि", "en": "Foreign land" },
-            { "hi": "खाली भूमि", "en": "Empty land" }
+            {"hi": "इसमें चर नहीं है", "en": "It has no variable"},
+            {"hi": "चर की घात 1 से अधिक है", "en": "Variable's power is more than 1"},
+            {"hi": "यह एक समीकरण है", "en": "It is an equation"},
+            {"hi": "इसमें समता चिह्न है", "en": "It has an equality sign"}
           ],
-          "answer": { "hi": "सामुदायिक भूमि", "en": "Community land" }
+          "answer": {"hi": "चर की घात 1 से अधिक है", "en": "Variable's power is more than 1"}
         },
         {
           "q": {
-            "hi": "पौधे हमें क्या प्रदान करते हैं?",
-            "en": "What do plants provide us?"
+            "hi": "समीकरण $2x - 3 = 7$ में अचर (Constant) पद कौन से हैं?",
+            "en": "Which are the constant terms in the equation $2x - 3 = 7$?"
           },
           "options": [
-            { "hi": "ऑक्सीजन और इमारती लकड़ी", "en": "Oxygen and timber" },
-            { "hi": "केवल प्लास्टिक", "en": "Only plastic" },
-            { "hi": "लोहा", "en": "Iron" },
-            { "hi": "पेट्रोल", "en": "Petrol" }
+            {"hi": "2x", "en": "2x"},
+            {"hi": "x", "en": "x"},
+            {"hi": "-3 और 7", "en": "-3 and 7"},
+            {"hi": "केवल 2", "en": "Only 2"}
           ],
-          "answer": { "hi": "ऑक्सीजन और इमारती लकड़ी", "en": "Oxygen and timber" }
+          "answer": {"hi": "-3 और 7", "en": "-3 and 7"}
         },
         {
           "q": {
-            "hi": "मृदा अपरदन रोकने के लिए पत्थरों और घास की रोधिकाएँ बनाना क्या कहलाता है?",
-            "en": "Making barriers with stones and grass to prevent soil erosion is called?"
+            "hi": "रैखिक समीकरण का हल हमेशा कैसी संख्या होती है?",
+            "en": "What kind of number is the solution of a linear equation?"
           },
           "options": [
-            { "hi": "मल्चिंग", "en": "Mulching" },
-            { "hi": "समोच्चरेखीय रोधिकाएँ", "en": "Contour barriers" },
-            { "hi": "रक्षक मेखला", "en": "Shelter belts" },
-            { "hi": "वेदिका फार्म", "en": "Terrace farm" }
+            {"hi": "केवल पूर्ण संख्या", "en": "Only a whole number"},
+            {"hi": "कोई भी परिमेय संख्या", "en": "Any rational number"},
+            {"hi": "केवल प्राकृत संख्या", "en": "Only a natural number"},
+            {"hi": "शून्य", "en": "Zero"}
           ],
-          "answer": { "hi": "समोच्चरेखीय रोधिकाएँ", "en": "Contour barriers" }
+          "answer": {"hi": "कोई भी परिमेय संख्या", "en": "Any rational number"}
         },
         {
           "q": {
-            "hi": "पृथ्वी को 'जल ग्रह' क्यों कहा जाता है?",
-            "en": "Why is Earth called the 'Water Planet'?"
+            "hi": "समीकरण में 'समता' का चिह्न क्या दर्शाता है?",
+            "en": "What does the 'equality' symbol in an equation represent?"
           },
           "options": [
-            { "hi": "क्योंकि यहाँ पानी नहीं है", "en": "Because there is no water" },
-            { "hi": "सत्तर प्रतिशत से अधिक भाग जल से ढका होने के कारण", "en": "Because more than seventy percent is covered with water" },
-            { "hi": "क्योंकि यह नीली दिखती है", "en": "Because it looks blue" },
-            { "hi": "केवल बादलों के कारण", "en": "Only because of clouds" }
+            {"hi": "बायाँ पक्ष बड़ा है", "en": "LHS is greater"},
+            {"hi": "दायाँ पक्ष बड़ा है", "en": "RHS is greater"},
+            {"hi": "दोनों पक्ष बराबर हैं", "en": "Both sides are equal"},
+            {"hi": "कोई संबंध नहीं है", "en": "There is no relationship"}
           ],
-          "answer": { "hi": "सत्तर प्रतिशत से अधिक भाग जल से ढका होने के कारण", "en": "Because more than seventy percent is covered with water" }
+          "answer": {"hi": "दोनों पक्ष बराबर हैं", "en": "Both sides are equal"}
         }
       ]
     },
