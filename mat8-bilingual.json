@@ -6611,6 +6611,668 @@
           "answer": {"hi": "ऋणात्मक घात वाला", "en": "With negative power"}
         }
       ]
+    },
+    "chapter11": {
+      "section1": [
+        {
+          "q": {
+            "hi": "यदि खरीदी गई वस्तुओं की संख्या में वृद्धि होती है, तो उनके कुल मूल्य में क्या परिवर्तन होता है?",
+            "en": "If the number of items purchased increases, what change occurs in their total cost?"
+          },
+          "options": [
+            {"hi": "कमी होती है", "en": "Decreases"},
+            {"hi": "वृद्धि होती है", "en": "Increases"},
+            {"hi": "कोई परिवर्तन नहीं", "en": "No change"},
+            {"hi": "आधा हो जाता है", "en": "Becomes half"}
+          ],
+          "answer": {"hi": "वृद्धि होती है", "en": "Increases"}
+        },
+        {
+          "q": {
+            "hi": "दो राशियाँ x और y सीधे समानुपात में कहलाती हैं यदि x/y किसके बराबर हो?",
+            "en": "Two quantities x and y are said to be in direct proportion if x/y is equal to?"
+          },
+          "options": [
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "अचर (k)", "en": "Constant (k)"},
+            {"hi": "x + y", "en": "x + y"},
+            {"hi": "x - y", "en": "x - y"}
+          ],
+          "answer": {"hi": "अचर (k)", "en": "Constant (k)"}
+        },
+        {
+          "q": {
+            "hi": "बैंक में जितनी अधिक धनराशि जमा की जाएगी, उतना ही अधिक क्या अर्जित होगा?",
+            "en": "The more money deposited in a bank, the more of what will be earned?"
+          },
+          "options": [
+            {"hi": "ऋण", "en": "Debt"},
+            {"hi": "ब्याज", "en": "Interest"},
+            {"hi": "बट्टा", "en": "Discount"},
+            {"hi": "हानि", "en": "Loss"}
+          ],
+          "answer": {"hi": "ब्याज", "en": "Interest"}
+        },
+        {
+          "q": {
+            "hi": "यदि वाहन की चाल में वृद्धि होती है, तो निश्चित दूरी तय करने के समय में क्या होता है?",
+            "en": "If the speed of a vehicle increases, what happens to the time taken to cover a fixed distance?"
+          },
+          "options": [
+            {"hi": "वृद्धि होती है", "en": "Increases"},
+            {"hi": "कमी होती है", "en": "Decreases"},
+            {"hi": "वही रहता है", "en": "Remains the same"},
+            {"hi": "शून्य हो जाता है", "en": "Becomes zero"}
+          ],
+          "answer": {"hi": "कमी होती है", "en": "Decreases"}
+        },
+        {
+          "q": {
+            "hi": "सीधे समानुपात में यदि x₁/y₁ = k है, तो x₂/y₂ किसके बराबर होगा?",
+            "en": "In direct proportion, if x₁/y₁ = k, then x₂/y₂ will be equal to?"
+          },
+          "options": [
+            {"hi": "k", "en": "k"},
+            {"hi": "2k", "en": "2k"},
+            {"hi": "1/k", "en": "1/k"},
+            {"hi": "0", "en": "0"}
+          ],
+          "answer": {"hi": "k", "en": "k"}
+        },
+        {
+          "q": {
+            "hi": "एक दिए गए कार्य के लिए, जितने अधिक व्यक्ति काम पर लगाए जाएँगे, समय उतना ही क्या लगेगा?",
+            "en": "For a given task, the more people employed, the amount of time taken will be?"
+          },
+          "options": [
+            {"hi": "अधिक", "en": "More"},
+            {"hi": "कम", "en": "Less"},
+            {"hi": "दुगुना", "en": "Double"},
+            {"hi": "अनिश्चित", "en": "Uncertain"}
+          ],
+          "answer": {"hi": "कम", "en": "Less"}
+        },
+        {
+          "q": {
+            "hi": "यदि 1 kg चीनी का मूल्य ₹ 36 है, तो 3 kg चीनी का मूल्य क्या होगा?",
+            "en": "If 1 kg of sugar costs ₹ 36, what will be the cost of 3 kg of sugar?"
+          },
+          "options": [
+            {"hi": "₹ 72", "en": "₹ 72"},
+            {"hi": "₹ 108", "en": "₹ 108"},
+            {"hi": "₹ 100", "en": "₹ 100"},
+            {"hi": "₹ 144", "en": "₹ 144"}
+          ],
+          "answer": {"hi": "₹ 108", "en": "₹ 108"}
+        },
+        {
+          "q": {
+            "hi": "सीधे समानुपात में राशियाँ किस प्रकार बदलती हैं?",
+            "en": "How do quantities change in direct proportion?"
+          },
+          "options": [
+            {"hi": "एक बढ़ती है, दूसरी घटती है", "en": "One increases, the other decreases"},
+            {"hi": "दोनों साथ-साथ बढ़ती या घटती हैं", "en": "Both increase or decrease together"},
+            {"hi": "कोई संबंध नहीं होता", "en": "There is no relationship"},
+            {"hi": "केवल एक बदलती है", "en": "Only one changes"}
+          ],
+          "answer": {"hi": "दोनों साथ-साथ बढ़ती या घटती हैं", "en": "Both increase or decrease together"}
+        },
+        {
+          "q": {
+            "hi": "नक्शे में उपयोग किया जाने वाला 'पैमाना' (Scale) किसका उदाहरण है?",
+            "en": "The 'Scale' used in a map is an example of?"
+          },
+          "options": [
+            {"hi": "प्रतिलोम समानुपात", "en": "Inverse proportion"},
+            {"hi": "सीधा समानुपात", "en": "Direct proportion"},
+            {"hi": "विषम अनुपात", "en": "Odd ratio"},
+            {"hi": "अंकगणित", "en": "Arithmetic"}
+          ],
+          "answer": {"hi": "सीधा समानुपात", "en": "Direct proportion"}
+        },
+        {
+          "q": {
+            "hi": "यदि x और y सीधे समानुपात में हैं, तो निम्न में से कौन सा सत्य है?",
+            "en": "If x and y are in direct proportion, which of the following is true?"
+          },
+          "options": [
+            {"hi": "x * y = k", "en": "x * y = k"},
+            {"hi": "x / y = k", "en": "x / y = k"},
+            {"hi": "x + y = k", "en": "x + y = k"},
+            {"hi": "x - y = k", "en": "x - y = k"}
+          ],
+          "answer": {"hi": "x / y = k", "en": "x / y = k"}
+        }
+      ],
+      "section2": [
+        {
+          "q": {
+            "hi": "प्रतिलोम समानुपात (Inverse Proportion) में क्या होता है?",
+            "en": "What happens in Inverse Proportion?"
+          },
+          "options": [
+            {"hi": "एक राशि बढ़ने पर दूसरी भी बढ़ती है", "en": "As one quantity increases, the other also increases"},
+            {"hi": "एक राशि बढ़ने पर दूसरी घटती है", "en": "As one quantity increases, the other decreases"},
+            {"hi": "दोनों राशियाँ अचर रहती हैं", "en": "Both quantities remain constant"},
+            {"hi": "योगफल अचर रहता है", "en": "The sum remains constant"}
+          ],
+          "answer": {"hi": "एक राशि बढ़ने पर दूसरी घटती है", "en": "As one quantity increases, the other decreases"}
+        },
+        {
+          "q": {
+            "hi": "यदि x और y प्रतिलोम समानुपात में हैं, तो उनका गुणनफल (xy) क्या होगा?",
+            "en": "If x and y are in inverse proportion, what will be their product (xy)?"
+          },
+          "options": [
+            {"hi": "परिवर्तनशील", "en": "Variable"},
+            {"hi": "अचर (k)", "en": "Constant (k)"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "अनंत", "en": "Infinite"}
+          ],
+          "answer": {"hi": "अचर (k)", "en": "Constant (k)"}
+        },
+        {
+          "q": {
+            "hi": "प्रतिलोम समानुपात की स्थिति में x₁ * y₁ किसके बराबर होता है?",
+            "en": "In a situation of inverse proportion, x₁ * y₁ is equal to?"
+          },
+          "options": [
+            {"hi": "x₂ / y₂", "en": "x₂ / y₂"},
+            {"hi": "x₂ * y₂", "en": "x₂ * y₂"},
+            {"hi": "x₁ / x₂", "en": "x₁ / x₂"},
+            {"hi": "y₁ / y₂", "en": "y₁ / y₂"}
+          ],
+          "answer": {"hi": "x₂ * y₂", "en": "x₂ * y₂"}
+        },
+        {
+          "q": {
+            "hi": "यदि 5 व्यक्ति एक दीवार 10 दिन में बनाते हैं, तो 10 व्यक्ति उसे कितने दिन में बनाएँगे?",
+            "en": "If 5 people build a wall in 10 days, in how many days will 10 people build it?"
+          },
+          "options": [
+            {"hi": "20 दिन", "en": "20 days"},
+            {"hi": "5 दिन", "en": "5 days"},
+            {"hi": "15 दिन", "en": "15 days"},
+            {"hi": "2 दिन", "en": "2 days"}
+          ],
+          "answer": {"hi": "5 दिन", "en": "5 days"}
+        },
+        {
+          "q": {
+            "hi": "एक ट्रेन 75 km/h की चाल से चल रही है। 20 मिनट में कितनी दूरी तय करेगी?",
+            "en": "A train travels at 75 km/h. How much distance will it cover in 20 minutes?"
+          },
+          "options": [
+            {"hi": "20 km", "en": "20 km"},
+            {"hi": "25 km", "en": "25 km"},
+            {"hi": "30 km", "en": "30 km"},
+            {"hi": "35 km", "en": "35 km"}
+          ],
+          "answer": {"hi": "25 km", "en": "25 km"}
+        },
+        {
+          "q": {
+            "hi": "यदि x और y प्रतिलोम समानुपात में हैं और x = 10 होने पर y = 6 है। यदि x = 12 हो, तो y क्या होगा?",
+            "en": "If x and y are in inverse proportion and y = 6 when x = 10. If x = 12, what will be y?"
+          },
+          "options": [
+            {"hi": "5", "en": "5"},
+            {"hi": "7.2", "en": "7.2"},
+            {"hi": "4", "en": "4"},
+            {"hi": "12", "en": "12"}
+          ],
+          "answer": {"hi": "5", "en": "5"}
+        },
+        {
+          "q": {
+            "hi": "एक मानचित्र का पैमाना 1:30,000,000 है। मानचित्र पर 2 cm की दूरी वास्तविक कितनी दूरी दर्शाती है?",
+            "en": "The scale of a map is 1:30,000,000. What actual distance is represented by 2 cm on the map?"
+          },
+          "options": [
+            {"hi": "300 km", "en": "300 km"},
+            {"hi": "600 km", "en": "600 km"},
+            {"hi": "150 km", "en": "150 km"},
+            {"hi": "60 km", "en": "60 km"}
+          ],
+          "answer": {"hi": "600 km", "en": "600 km"}
+        },
+        {
+          "q": {
+            "hi": "6 पाइप एक टैंक को 1 घंटा 20 मिनट में भरते हैं। 5 पाइपों द्वारा कितना समय लगेगा?",
+            "en": "6 pipes fill a tank in 1 hour 20 minutes. How much time will 5 pipes take?"
+          },
+          "options": [
+            {"hi": "1 घंटा", "en": "1 hour"},
+            {"hi": "1 घंटा 36 मिनट", "en": "1 hour 36 minutes"},
+            {"hi": "2 घंटे", "en": "2 hours"},
+            {"hi": "80 मिनट", "en": "80 minutes"}
+          ],
+          "answer": {"hi": "1 घंटा 36 मिनट", "en": "1 hour 36 minutes"}
+        },
+        {
+          "q": {
+            "hi": "दैनिक जीवन में मजदूरों की संख्या और कार्य पूर्ण करने के समय के बीच कैसा संबंध होता है?",
+            "en": "In daily life, what is the relationship between the number of workers and the time taken to complete a task?"
+          },
+          "options": [
+            {"hi": "सीधा समानुपात", "en": "Direct proportion"},
+            {"hi": "प्रतिलोम समानुपात", "en": "Inverse proportion"},
+            {"hi": "कोई संबंध नहीं", "en": "No relationship"},
+            {"hi": "स्थिर संबंध", "en": "Constant relationship"}
+          ],
+          "answer": {"hi": "प्रतिलोम समानुपात", "en": "Inverse proportion"}
+        },
+        {
+          "q": {
+            "hi": "यदि x/y = k है, तो x और y किस समानुपात में हैं?",
+            "en": "If x/y = k, in what proportion are x and y?"
+          },
+          "options": [
+            {"hi": "सीधा समानुपात", "en": "Direct proportion"},
+            {"hi": "प्रतिलोम समानुपात", "en": "Inverse proportion"},
+            {"hi": "असंगत", "en": "Inconsistent"},
+            {"hi": "शून्य", "en": "Zero"}
+          ],
+          "answer": {"hi": "सीधा समानुपात", "en": "Direct proportion"}
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "एक कार 60 km/h की चाल से एक दूरी 2 घंटे में तय करती है। 80 km/h की चाल से उसे कितना समय लगेगा?",
+            "en": "A car covers a distance in 2 hours at a speed of 60 km/h. How much time will it take at 80 km/h?"
+          },
+          "options": [
+            {"hi": "1.5 घंटे", "en": "1.5 hours"},
+            {"hi": "1 घंटा", "en": "1 hour"},
+            {"hi": "2.5 घंटे", "en": "2.5 hours"},
+            {"hi": "3 घंटे", "en": "3 hours"}
+          ],
+          "answer": {"hi": "1.5 घंटे", "en": "1.5 hours"}
+        },
+        {
+          "q": {
+            "hi": "यदि 14 मीटर ऊँचे बिजली के खंभे की छाया 10 मीटर है, तो 21 मीटर ऊँचे पेड़ की छाया कितनी होगी?",
+            "en": "If a 14m high electric pole casts a shadow of 10m, what will be the shadow of a 21m high tree?"
+          },
+          "options": [
+            {"hi": "12 मीटर", "en": "12 meters"},
+            {"hi": "15 मीटर", "en": "15 meters"},
+            {"hi": "18 मीटर", "en": "18 meters"},
+            {"hi": "20 मीटर", "en": "20 meters"}
+          ],
+          "answer": {"hi": "15 मीटर", "en": "15 meters"}
+        },
+        {
+          "q": {
+            "hi": "जब x बढ़ता है और y उसी अनुपात में घटता है, तो वे क्या कहलाते हैं?",
+            "en": "When x increases and y decreases in the same ratio, what are they called?"
+          },
+          "options": [
+            {"hi": "अनुक्रमानुपाती", "en": "Directly proportional"},
+            {"hi": "व्युत्क्रमानुपाती", "en": "Inversely proportional"},
+            {"hi": "समान", "en": "Equal"},
+            {"hi": "शून्य", "en": "Zero"}
+          ],
+          "answer": {"hi": "व्युत्क्रमानुपाती", "en": "Inversely proportional"}
+        },
+        {
+          "q": {
+            "hi": "यदि 25 मीटर कपड़े का मूल्य ₹ 1575 है, तो 5 मीटर कपड़े का मूल्य क्या होगा?",
+            "en": "If the cost of 25m of cloth is ₹ 1575, what is the cost of 5m of cloth?"
+          },
+          "options": [
+            {"hi": "₹ 315", "en": "₹ 315"},
+            {"hi": "₹ 300", "en": "₹ 300"},
+            {"hi": "₹ 250", "en": "₹ 250"},
+            {"hi": "₹ 350", "en": "₹ 350"}
+          ],
+          "answer": {"hi": "₹ 315", "en": "₹ 315"}
+        },
+        {
+          "q": {
+            "hi": "एक छात्रवास में 100 विद्यार्थी हैं और भोजन सामग्री 20 दिन के लिए है। यदि 25 विद्यार्थी और आ जाएँ, तो सामग्री कितने दिन चलेगी?",
+            "en": "A hostel has 100 students and food lasts for 20 days. If 25 more students arrive, how many days will it last?"
+          },
+          "options": [
+            {"hi": "16 दिन", "en": "16 days"},
+            {"hi": "15 दिन", "en": "15 days"},
+            {"hi": "18 दिन", "en": "18 days"},
+            {"hi": "25 दिन", "en": "25 days"}
+          ],
+          "answer": {"hi": "16 दिन", "en": "16 days"}
+        },
+        {
+          "q": {
+            "hi": "सीधे समानुपात में यदि x और y अनुक्रमानुपाती हैं, तो x₁/y₁ का मान कैसा रहता है?",
+            "en": "In direct proportion, if x and y are proportional, what happens to the value of x₁/y₁?"
+          },
+          "options": [
+            {"hi": "बढ़ता रहता है", "en": "Keeps increasing"},
+            {"hi": "घटता रहता है", "en": "Keeps decreasing"},
+            {"hi": "अचर रहता है", "en": "Remains constant"},
+            {"hi": "शून्य हो जाता है", "en": "Becomes zero"}
+          ],
+          "answer": {"hi": "अचर रहता है", "en": "Remains constant"}
+        },
+        {
+          "q": {
+            "hi": "यदि 15 मजदूरों की मजदूरी ₹ 3000 है, तो 25 मजदूरों की मजदूरी क्या होगी?",
+            "en": "If the wages of 15 workers are ₹ 3000, what will be the wages of 25 workers?"
+          },
+          "options": [
+            {"hi": "₹ 4000", "en": "₹ 4000"},
+            {"hi": "₹ 5000", "en": "₹ 5000"},
+            {"hi": "₹ 4500", "en": "₹ 4500"},
+            {"hi": "₹ 6000", "en": "₹ 6000"}
+          ],
+          "answer": {"hi": "₹ 5000", "en": "₹ 5000"}
+        },
+        {
+          "q": {
+            "hi": "एक मानचित्र में 1 cm दूरी 18 km को दर्शाती है। यदि सड़क पर दूरी 72 km है, तो मानचित्र पर दूरी क्या होगी?",
+            "en": "In a map, 1 cm represents 18 km. If the road distance is 72 km, what is the map distance?"
+          },
+          "options": [
+            {"hi": "3 cm", "en": "3 cm"},
+            {"hi": "4 cm", "en": "4 cm"},
+            {"hi": "5 cm", "en": "5 cm"},
+            {"hi": "2 cm", "en": "2 cm"}
+          ],
+          "answer": {"hi": "4 cm", "en": "4 cm"}
+        },
+        {
+          "q": {
+            "hi": "प्रतिलोम समानुपात में यदि x बढ़ता है, तो y किस प्रकार बदलता है?",
+            "en": "In inverse proportion, if x increases, how does y change?"
+          },
+          "options": [
+            {"hi": "y बढ़ता है", "en": "y increases"},
+            {"hi": "y घटता है", "en": "y decreases"},
+            {"hi": "y स्थिर रहता है", "en": "y stays constant"},
+            {"hi": "y शून्य हो जाता है", "en": "y becomes zero"}
+          ],
+          "answer": {"hi": "y घटता है", "en": "y decreases"}
+        },
+        {
+          "q": {
+            "hi": "दो राशियाँ x और y व्युत्क्रमानुपाती कहलाती हैं यदि उनके संगत मानों का गुणनफल (xy) क्या हो?",
+            "en": "Two quantities x and y are called inversely proportional if the product of their corresponding values (xy) is?"
+          },
+          "options": [
+            {"hi": "अचर", "en": "Constant"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "परिवर्तनशील", "en": "Variable"},
+            {"hi": "ऋणात्मक", "en": "Negative"}
+          ],
+          "answer": {"hi": "अचर", "en": "Constant"}
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "यदि 8 जहाजों के मॉडल की मस्तूल की ऊँचाई 9 cm है, जबकि वास्तविक मस्तूल 12 m है। यदि वास्तविक मस्तूल 28 m हो, तो मॉडल की ऊँचाई क्या होगी?",
+            "en": "If a ship model mast height is 9 cm for a real mast of 12 m. If the real mast is 28 m, what is the model mast height?"
+          },
+          "options": [
+            {"hi": "18 cm", "en": "18 cm"},
+            {"hi": "21 cm", "en": "21 cm"},
+            {"hi": "24 cm", "en": "24 cm"},
+            {"hi": "20 cm", "en": "20 cm"}
+          ],
+          "answer": {"hi": "21 cm", "en": "21 cm"}
+        },
+        {
+          "q": {
+            "hi": "एक टंकी को भरने में 1 घंटा 20 मिनट लगता है यदि 6 पाइपों का उपयोग किया जाए। 8 पाइपों का उपयोग करने पर कितना समय लगेगा?",
+            "en": "It takes 1 hour 20 minutes to fill a tank using 6 pipes. How much time will it take using 8 pipes?"
+          },
+          "options": [
+            {"hi": "1 घंटा", "en": "1 hour"},
+            {"hi": "40 मिनट", "en": "40 minutes"},
+            {"hi": "50 मिनट", "en": "50 minutes"},
+            {"hi": "70 मिनट", "en": "70 minutes"}
+          ],
+          "answer": {"hi": "1 घंटा", "en": "1 hour"}
+        },
+        {
+          "q": {
+            "hi": "वस्तुओं की संख्या और उनके कुल भार के बीच कैसा संबंध होता है?",
+            "en": "What is the relationship between the number of items and their total weight?"
+          },
+          "options": [
+            {"hi": "प्रतिलोम समानुपात", "en": "Inverse proportion"},
+            {"hi": "सीधा समानुपात", "en": "Direct proportion"},
+            {"hi": "कोई संबंध नहीं", "en": "No relationship"},
+            {"hi": "स्थिर संबंध", "en": "Fixed relationship"}
+          ],
+          "answer": {"hi": "सीधा समानुपात", "en": "Direct proportion"}
+        },
+        {
+          "q": {
+            "hi": "एक कार 25 लीटर पेट्रोल में 150 km चलती है। 30 लीटर पेट्रोल में वह कितनी दूरी तय करेगी?",
+            "en": "A car covers 150 km in 25 liters of petrol. How much distance will it cover in 30 liters?"
+          },
+          "options": [
+            {"hi": "180 km", "en": "180 km"},
+            {"hi": "200 km", "en": "200 km"},
+            {"hi": "160 km", "en": "160 km"},
+            {"hi": "210 km", "en": "210 km"}
+          ],
+          "answer": {"hi": "180 km", "en": "180 km"}
+        },
+        {
+          "q": {
+            "hi": "यदि x और y सीधे समानुपात में हैं, तो x/y का मान क्या होता है?",
+            "en": "If x and y are in direct proportion, what is the value of x/y?"
+          },
+          "options": [
+            {"hi": "बदलता रहता है", "en": "Changes"},
+            {"hi": "सदैव समान (अचर) रहता है", "en": "Always remains the same (constant)"},
+            {"hi": "शून्य होता है", "en": "Is zero"},
+            {"hi": "x + y के बराबर", "en": "Equal to x + y"}
+          ],
+          "answer": {"hi": "सदैव समान (अचर) रहता है", "en": "Always remains the same (constant)"}
+        },
+        {
+          "q": {
+            "hi": "100 ग्राम दाल का मूल्य ₹ 12 है। 1 किलोग्राम दाल का मूल्य क्या होगा?",
+            "en": "The cost of 100g of pulses is ₹ 12. What will be the cost of 1 kg?"
+          },
+          "options": [
+            {"hi": "₹ 100", "en": "₹ 100"},
+            {"hi": "₹ 120", "en": "₹ 120"},
+            {"hi": "₹ 140", "en": "₹ 140"},
+            {"hi": "₹ 110", "en": "₹ 110"}
+          ],
+          "answer": {"hi": "₹ 120", "en": "₹ 120"}
+        },
+        {
+          "q": {
+            "hi": "एक कारखाने में 42 मशीनें एक वस्तु 63 दिन में बनाती हैं। उसी वस्तु को 54 दिन में बनाने के लिए कितनी मशीनों की आवश्यकता होगी?",
+            "en": "In a factory, 42 machines produce an item in 63 days. How many machines are needed to produce it in 54 days?"
+          },
+          "options": [
+            {"hi": "49", "en": "49"},
+            {"hi": "50", "en": "50"},
+            {"hi": "48", "en": "48"},
+            {"hi": "45", "en": "45"}
+          ],
+          "answer": {"hi": "49", "en": "49"}
+        },
+        {
+          "q": {
+            "hi": "यदि x = k * y है, तो x और y कैसे संबंधित हैं?",
+            "en": "If x = k * y, how are x and y related?"
+          },
+          "options": [
+            {"hi": "व्युत्क्रमानुपाती", "en": "Inversely proportional"},
+            {"hi": "अनुक्रमानुपाती", "en": "Directly proportional"},
+            {"hi": "स्वतंत्र", "en": "Independent"},
+            {"hi": "शून्य संबंध", "en": "Zero relation"}
+          ],
+          "answer": {"hi": "अनुक्रमानुपाती", "en": "Directly proportional"}
+        },
+        {
+          "q": {
+            "hi": "किसी वाहन द्वारा तय की गई दूरी और लिया गया समय (यदि चाल समान हो) किस समानुपात में होते हैं?",
+            "en": "Distance covered and time taken (at constant speed) are in which proportion?"
+          },
+          "options": [
+            {"hi": "सीधा समानुपात", "en": "Direct proportion"},
+            {"hi": "प्रतिलोम समानुपात", "en": "Inverse proportion"},
+            {"hi": "कोई संबंध नहीं", "en": "No relationship"},
+            {"hi": "निश्चित नहीं", "en": "Not certain"}
+          ],
+          "answer": {"hi": "सीधा समानुपात", "en": "Direct proportion"}
+        },
+        {
+          "q": {
+            "hi": "एक विद्यार्थी किसी काम को 20 मिनट में करता है। उसी काम को 5 विद्यार्थी मिलकर कितने समय में करेंगे?",
+            "en": "A student does a job in 20 minutes. How long will 5 students take to do the same job?"
+          },
+          "options": [
+            {"hi": "100 मिनट", "en": "100 minutes"},
+            {"hi": "4 मिनट", "en": "4 minutes"},
+            {"hi": "10 मिनट", "en": "10 minutes"},
+            {"hi": "5 मिनट", "en": "5 minutes"}
+          ],
+          "answer": {"hi": "4 मिनट", "en": "4 minutes"}
+        }
+      ],
+      "section5": [
+        {
+          "q": {
+            "hi": "दो राशियाँ x और y अनुक्रमानुपाती हैं। यदि x = 5 होने पर y = 20 है, तो x = 10 होने पर y क्या होगा?",
+            "en": "Two quantities x and y are proportional. If y = 20 when x = 5, what is y when x = 10?"
+          },
+          "options": [
+            {"hi": "30", "en": "30"},
+            {"hi": "40", "en": "40"},
+            {"hi": "10", "en": "10"},
+            {"hi": "50", "en": "50"}
+          ],
+          "answer": {"hi": "40", "en": "40"}
+        },
+        {
+          "q": {
+            "hi": "किसी निश्चित समय में किसी वस्तु की ऊँचाई और उसकी छाया की लंबाई के बीच कैसा संबंध होता है?",
+            "en": "At a given time, what is the relationship between an object's height and its shadow length?"
+          },
+          "options": [
+            {"hi": "सीधा समानुपात", "en": "Direct proportion"},
+            {"hi": "प्रतिलोम समानुपात", "en": "Inverse proportion"},
+            {"hi": "कोई संबंध नहीं", "en": "No relationship"},
+            {"hi": "असमानुपाती", "en": "Disproportionate"}
+          ],
+          "answer": {"hi": "सीधा समानुपात", "en": "Direct proportion"}
+        },
+        {
+          "q": {
+            "hi": "एक कार 48 km/h की औसत चाल से 10 घंटे में गंतव्य तक पहुँचती है। उसी दूरी को 8 घंटे में तय करने के लिए चाल क्या होनी चाहिए?",
+            "en": "A car reaches its destination in 10 hours at 48 km/h. What should be the speed to cover it in 8 hours?"
+          },
+          "options": [
+            {"hi": "50 km/h", "en": "50 km/h"},
+            {"hi": "60 km/h", "en": "60 km/h"},
+            {"hi": "55 km/h", "en": "55 km/h"},
+            {"hi": "70 km/h", "en": "70 km/h"}
+          ],
+          "answer": {"hi": "60 km/h", "en": "60 km/h"}
+        },
+        {
+          "q": {
+            "hi": "यदि 12 मीटर धागे का वजन 60 ग्राम है, तो 2 मीटर धागे का वजन क्या होगा?",
+            "en": "If 12m of thread weighs 60g, what is the weight of 2m of thread?"
+          },
+          "options": [
+            {"hi": "10 ग्राम", "en": "10 grams"},
+            {"hi": "12 ग्राम", "en": "12 grams"},
+            {"hi": "20 ग्राम", "en": "20 grams"},
+            {"hi": "5 ग्राम", "en": "5 grams"}
+          ],
+          "answer": {"hi": "10 ग्राम", "en": "10 grams"}
+        },
+        {
+          "q": {
+            "hi": "प्रतिलोम समानुपात के लिए समीकरण x * y = k में k क्या है?",
+            "en": "In the equation x * y = k for inverse proportion, what is k?"
+          },
+          "options": [
+            {"hi": "एक धनात्मक अचर", "en": "A positive constant"},
+            {"hi": "एक शून्य", "en": "A zero"},
+            {"hi": "परिवर्तनशील संख्या", "en": "A variable number"},
+            {"hi": "एक ऋणात्मक संख्या", "en": "A negative number"}
+          ],
+          "answer": {"hi": "एक धनात्मक अचर", "en": "A positive constant"}
+        },
+        {
+          "q": {
+            "hi": "यदि 10 मीटर कपड़े का मूल्य ₹ 250 है, तो ₹ 100 में कितना कपड़ा मिलेगा?",
+            "en": "If 10m of cloth costs ₹ 250, how much cloth can be bought for ₹ 100?"
+          },
+          "options": [
+            {"hi": "4 मीटर", "en": "4 meters"},
+            {"hi": "5 मीटर", "en": "5 meters"},
+            {"hi": "2 मीटर", "en": "2 meters"},
+            {"hi": "6 मीटर", "en": "6 meters"}
+          ],
+          "answer": {"hi": "4 मीटर", "en": "4 meters"}
+        },
+        {
+          "q": {
+            "hi": "सीधे समानुपात की स्थिति में x₁ / y₁ = x₂ / y₂ होता है?",
+            "en": "In the case of direct proportion, is x₁ / y₁ = x₂ / y₂?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "केवल शून्य के लिए", "en": "Only for zero"},
+            {"hi": "कह नहीं सकते", "en": "Cannot say"}
+          ],
+          "answer": {"hi": "हाँ", "en": "Yes"}
+        },
+        {
+          "q": {
+            "hi": "व्युत्क्रमानुपाती राशियों के संगत मानों का क्या अचर रहता है?",
+            "en": "What remains constant for the corresponding values of inversely proportional quantities?"
+          },
+          "options": [
+            {"hi": "योगफल", "en": "Sum"},
+            {"hi": "अंतर", "en": "Difference"},
+            {"hi": "गुणनफल", "en": "Product"},
+            {"hi": "भागफल", "en": "Quotient"}
+          ],
+          "answer": {"hi": "गुणनफल", "en": "Product"}
+        },
+        {
+          "q": {
+            "hi": "एक कतार में बच्चों की संख्या और कतारों की संख्या के बीच (यदि कुल बच्चे समान हों) कैसा संबंध होगा?",
+            "en": "What is the relationship between the number of children in a row and the number of rows (if total children are fixed)?"
+          },
+          "options": [
+            {"hi": "सीधा समानुपात", "en": "Direct proportion"},
+            {"hi": "प्रतिलोम समानुपात", "en": "Inverse proportion"},
+            {"hi": "कोई संबंध नहीं", "en": "No relationship"},
+            {"hi": "समान", "en": "Equal"}
+          ],
+          "answer": {"hi": "प्रतिलोम समानुपात", "en": "Inverse proportion"}
+        },
+        {
+          "q": {
+            "hi": "यदि 20 संतरों की एक पेटी 25 बच्चों में बांटी जाए तो प्रत्येक को 5 संतरे मिलते हैं। यदि बच्चों की संख्या 5 कम कर दी जाए तो प्रत्येक को कितने संतरे मिलेंगे?",
+            "en": "If a box of 20 oranges is shared among 25 children, each gets 5 oranges. If children are reduced by 5, how many oranges will each get?"
+          },
+          "options": [
+            {"hi": "4", "en": "4"},
+            {"hi": "6.25", "en": "6.25"},
+            {"hi": "10", "en": "10"},
+            {"hi": "8", "en": "8"}
+          ],
+          "answer": {"hi": "6.25", "en": "6.25"}
+        }
+      ]
     }
   }
 }
