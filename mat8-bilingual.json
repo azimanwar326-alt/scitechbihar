@@ -7935,6 +7935,668 @@
           "answer": { "hi": "z - 4", "en": "z - 4" }
         }
       ]
+    },
+    "chapter13": {
+      "section1": [
+        {
+          "q": {
+            "hi": "आलेखों (Graphs) का मुख्य उद्देश्य क्या है?",
+            "en": "What is the primary purpose of graphs?"
+          },
+          "options": [
+            { "hi": "गणना करना", "en": "To calculate" },
+            { "hi": "तथ्यों को चित्रों द्वारा स्पष्ट रूप से दिखाना", "en": "To show facts clearly through pictures" },
+            { "hi": "संख्याओं को छिपाना", "en": "To hide numbers" },
+            { "hi": "केवल सजावट करना", "en": "Only for decoration" }
+          ],
+          "answer": { "hi": "तथ्यों को चित्रों द्वारा स्पष्ट रूप से दिखाना", "en": "To show facts clearly through pictures" }
+        },
+        {
+          "q": {
+            "hi": "एक रेखा-आलेख (Line Graph) क्या प्रदर्शित करता है?",
+            "en": "What does a line graph display?"
+          },
+          "options": [
+            { "hi": "केवल स्थिर आँकड़े", "en": "Only static data" },
+            { "hi": "समय के साथ लगातार बदलते आँकड़े", "en": "Data that changes continuously over time" },
+            { "hi": "केवल प्रतिशत", "en": "Only percentages" },
+            { "hi": "वस्तुओं के चित्र", "en": "Pictures of objects" }
+          ],
+          "answer": { "hi": "समय के साथ लगातार बदलते आँकड़े", "en": "Data that changes continuously over time" }
+        },
+        {
+          "q": {
+            "hi": "आलेख बनाने के लिए वर्गांकित कागज पर खींची गई क्षैतिज रेखा को क्या कहते हैं?",
+            "en": "What is the horizontal line drawn on a squared paper for a graph called?"
+          },
+          "options": [
+            { "hi": "y-अक्ष", "en": "y-axis" },
+            { "hi": "x-अक्ष", "en": "x-axis" },
+            { "hi": "मूल बिंदु", "en": "Origin" },
+            { "hi": "विकर्ण", "en": "Diagonal" }
+          ],
+          "answer": { "hi": "x-अक्ष", "en": "x-axis" }
+        },
+        {
+          "q": {
+            "hi": "आलेख में ऊर्ध्वाधर (Vertical) रेखा को क्या कहते हैं?",
+            "en": "What is the vertical line in a graph called?"
+          },
+          "options": [
+            { "hi": "x-अक्ष", "en": "x-axis" },
+            { "hi": "y-अक्ष", "en": "y-axis" },
+            { "hi": "क्षैतिज रेखा", "en": "Horizontal line" },
+            { "hi": "आधार", "en": "Base" }
+          ],
+          "answer": { "hi": "y-अक्ष", "en": "y-axis" }
+        },
+        {
+          "q": {
+            "hi": "x-अक्ष और y-अक्ष के प्रतिच्छेद बिंदु को क्या कहते हैं?",
+            "en": "What is the intersection point of the x-axis and y-axis called?"
+          },
+          "options": [
+            { "hi": "शिखर", "en": "Vertex" },
+            { "hi": "मूल बिंदु (Origin)", "en": "Origin" },
+            { "hi": "केंद्र", "en": "Center" },
+            { "hi": "अंत बिंदु", "en": "End point" }
+          ],
+          "answer": { "hi": "मूल बिंदु (Origin)", "en": "Origin" }
+        },
+        {
+          "q": {
+            "hi": "मूल बिंदु (Origin) के निर्देशांक क्या होते हैं?",
+            "en": "What are the coordinates of the Origin?"
+          },
+          "options": [
+            { "hi": "(1, 1)", "en": "(1, 1)" },
+            { "hi": "(0, 0)", "en": "(0, 0)" },
+            { "hi": "(0, 1)", "en": "(0, 1)" },
+            { "hi": "(1, 0)", "en": "(1, 0)" }
+          ],
+          "answer": { "hi": "(0, 0)", "en": "(0, 0)" }
+        },
+        {
+          "q": {
+            "hi": "बिंदु (3, 4) में '3' क्या दर्शाता है?",
+            "en": "In the point (3, 4), what does '3' represent?"
+          },
+          "options": [
+            { "hi": "y-निर्देशांक", "en": "y-coordinate" },
+            { "hi": "x-निर्देशांक", "en": "x-coordinate" },
+            { "hi": "मूल बिंदु से दूरी", "en": "Distance from origin" },
+            { "hi": "बिंदु का नाम", "en": "Point name" }
+          ],
+          "answer": { "hi": "x-निर्देशांक", "en": "x-coordinate" }
+        },
+        {
+          "q": {
+            "hi": "बिंदु (5, 2) में '2' क्या कहलाता है?",
+            "en": "What is '2' called in the point (5, 2)?"
+          },
+          "options": [
+            { "hi": "भुज", "en": "Abscissa" },
+            { "hi": "कोटि (Ordinate)", "en": "Ordinate" },
+            { "hi": "मूल बिंदु", "en": "Origin" },
+            { "hi": "अक्ष", "en": "Axis" }
+          ],
+          "answer": { "hi": "कोटि (Ordinate)", "en": "Ordinate" }
+        },
+        {
+          "q": {
+            "hi": "यदि किसी बिंदु का x-निर्देशांक शून्य है, तो वह बिंदु कहाँ स्थित होगा?",
+            "en": "If the x-coordinate of a point is zero, where will that point be located?"
+          },
+          "options": [
+            { "hi": "x-अक्ष पर", "en": "On the x-axis" },
+            { "hi": "y-अक्ष पर", "en": "On the y-axis" },
+            { "hi": "मूल बिंदु पर", "en": "At the origin" },
+            { "hi": "कहीं भी हो सकता है", "en": "Can be anywhere" }
+          ],
+          "answer": { "hi": "y-अक्ष पर", "en": "On the y-axis" }
+        },
+        {
+          "q": {
+            "hi": "एक पूर्ण अखंडित रेखा के रूप में आने वाले आलेख को क्या कहते हैं?",
+            "en": "What is a graph that comes as a single unbroken line called?"
+          },
+          "options": [
+            { "hi": "वृत्त आलेख", "en": "Circle graph" },
+            { "hi": "रैखिक आलेख (Linear Graph)", "en": "Linear Graph" },
+            { "hi": "दंड आलेख", "en": "Bar graph" },
+            { "hi": "आयत चित्र", "en": "Histogram" }
+          ],
+          "answer": { "hi": "रैखिक आलेख (Linear Graph)", "en": "Linear Graph" }
+        }
+      ],
+      "section2": [
+        {
+          "q": {
+            "hi": "एक आयत चित्र (Histogram) किस प्रकार के आँकड़ों को दर्शाता है?",
+            "en": "What type of data does a histogram show?"
+          },
+          "options": [
+            { "hi": "अवर्गीकृत आँकड़े", "en": "Ungrouped data" },
+            { "hi": "अंतरालों में वर्गीकृत आँकड़े", "en": "Data grouped in intervals" },
+            { "hi": "केवल दो राशियाँ", "en": "Only two quantities" },
+            { "hi": "व्यक्तियों के नाम", "en": "Names of persons" }
+          ],
+          "answer": { "hi": "अंतरालों में वर्गीकृत आँकड़े", "en": "Data grouped in intervals" }
+        },
+        {
+          "q": {
+            "hi": "निर्देशांक (4, 0) वाला बिंदु कहाँ स्थित होगा?",
+            "en": "Where will the point with coordinates (4, 0) be located?"
+          },
+          "options": [
+            { "hi": "y-अक्ष पर", "en": "On the y-axis" },
+            { "hi": "x-अक्ष पर", "en": "On the x-axis" },
+            { "hi": "दूसरे चतुर्थांश में", "en": "In the second quadrant" },
+            { "hi": "मूल बिंदु पर", "en": "At the origin" }
+          ],
+          "answer": { "hi": "x-अक्ष पर", "en": "On the x-axis" }
+        },
+        {
+          "q": {
+            "hi": "स्वतंत्र चर (Independent variable) को सामान्यतः किस अक्ष पर दर्शाया जाता है?",
+            "en": "On which axis is the independent variable usually represented?"
+          },
+          "options": [
+            { "hi": "y-अक्ष पर", "en": "On the y-axis" },
+            { "hi": "x-अक्ष पर", "en": "On the x-axis" },
+            { "hi": "दोनों पर", "en": "On both" },
+            { "hi": "किसी पर नहीं", "en": "On neither" }
+          ],
+          "answer": { "hi": "x-अक्ष पर", "en": "On the x-axis" }
+        },
+        {
+          "q": {
+            "hi": "आश्रित चर (Dependent variable) को किस अक्ष पर दर्शाया जाता है?",
+            "en": "On which axis is the dependent variable represented?"
+          },
+          "options": [
+            { "hi": "x-अक्ष पर", "en": "On the x-axis" },
+            { "hi": "y-अक्ष पर", "en": "On the y-axis" },
+            { "hi": "मूल बिंदु पर", "en": "At the origin" },
+            { "hi": "क्षैतिज अक्ष पर", "en": "On horizontal axis" }
+          ],
+          "answer": { "hi": "y-अक्ष पर", "en": "On the y-axis" }
+        },
+        {
+          "q": {
+            "hi": "समय-तापमान आलेख में 'समय' किस प्रकार का चर है?",
+            "en": "In a time-temperature graph, what type of variable is 'time'?"
+          },
+          "options": [
+            { "hi": "आश्रित चर", "en": "Dependent variable" },
+            { "hi": "स्वतंत्र चर (Independent variable)", "en": "Independent variable" },
+            { "hi": "अचर", "en": "Constant" },
+            { "hi": "शून्य चर", "en": "Zero variable" }
+          ],
+          "answer": { "hi": "स्वतंत्र चर (Independent variable)", "en": "Independent variable" }
+        },
+        {
+          "q": {
+            "hi": "यदि कार की चाल स्थिर है, तो दूरी और समय का आलेख कैसा होगा?",
+            "en": "If the speed of a car is constant, what will be the graph of distance and time?"
+          },
+          "options": [
+            { "hi": "एक वक्र रेखा", "en": "A curved line" },
+            { "hi": "एक सरल रेखा (Straight line)", "en": "A straight line" },
+            { "hi": "एक वृत्त", "en": "A circle" },
+            { "hi": "जिगजैग रेखा", "en": "A zigzag line" }
+          ],
+          "answer": { "hi": "एक सरल रेखा (Straight line)", "en": "A straight line" }
+        },
+        {
+          "q": {
+            "hi": "आलेख में एक बिंदु की स्थिति निर्धारित करने के लिए हमें कितने निर्देशांकों की आवश्यकता होती है?",
+            "en": "How many coordinates do we need to determine the position of a point in a graph?"
+          },
+          "options": [
+            { "hi": "एक", "en": "One" },
+            { "hi": "दो", "en": "Two" },
+            { "hi": "तीन", "en": "Three" },
+            { "hi": "चार", "en": "Four" }
+          ],
+          "answer": { "hi": "दो", "en": "Two" }
+        },
+        {
+          "q": {
+            "hi": "वर्गांकित कागज पर बिंदु (0, 0) कहाँ स्थित होता है?",
+            "en": "Where is the point (0, 0) located on a squared paper?"
+          },
+          "options": [
+            { "hi": "सबसे ऊपर", "en": "At the top" },
+            { "hi": "सबसे नीचे दाईं ओर", "en": "At the bottom right" },
+            { "hi": "क्षैतिज और ऊर्ध्वाधर अक्षों के मिलन बिंदु पर", "en": "At the meeting point of horizontal and vertical axes" },
+            { "hi": "केवल x-अक्ष पर", "en": "Only on the x-axis" }
+          ],
+          "answer": { "hi": "क्षैतिज और ऊर्ध्वाधर अक्षों के मिलन बिंदु पर", "en": "At the meeting point of horizontal and vertical axes" }
+        },
+        {
+          "q": {
+            "hi": "बिंदु (2, 3) और (3, 2) के बारे में क्या सत्य है?",
+            "en": "What is true about points (2, 3) and (3, 2)?"
+          },
+          "options": [
+            { "hi": "दोनों एक ही बिंदु हैं", "en": "Both are the same point" },
+            { "hi": "दोनों अलग-अलग बिंदु हैं", "en": "Both are different points" },
+            { "hi": "दोनों मूल बिंदु हैं", "en": "Both are origins" },
+            { "hi": "इनका स्थान समान है", "en": "Their location is same" }
+          ],
+          "answer": { "hi": "दोनों अलग-अलग बिंदु हैं", "en": "Both are different points" }
+        },
+        {
+          "q": {
+            "hi": "निर्देशांक पद्धति में x-अक्ष से दूरी क्या कहलाती है?",
+            "en": "What is the distance from the x-axis called in the coordinate system?"
+          },
+          "options": [
+            { "hi": "x-निर्देशांक", "en": "x-coordinate" },
+            { "hi": "y-निर्देशांक", "en": "y-coordinate" },
+            { "hi": "भुज", "en": "Abscissa" },
+            { "hi": "मूल बिंदु", "en": "Origin" }
+          ],
+          "answer": { "hi": "y-निर्देशांक", "en": "y-coordinate" }
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "एक रेखा-आलेख जो एक संपूर्ण अखंडित रेखा हो, क्या कहलाता है?",
+            "en": "A line graph that is a whole unbroken line is called?"
+          },
+          "options": [
+            { "hi": "रैखिक आलेख", "en": "Linear graph" },
+            { "hi": "पाई चार्ट", "en": "Pie chart" },
+            { "hi": "दंड आलेख", "en": "Bar graph" },
+            { "hi": "आयत चित्र", "en": "Histogram" }
+          ],
+          "answer": { "hi": "रैखिक आलेख", "en": "Linear graph" }
+        },
+        {
+          "q": {
+            "hi": "आलेख में पैमाना (Scale) क्यों चुना जाता है?",
+            "en": "Why is a scale chosen in a graph?"
+          },
+          "options": [
+            { "hi": "सजावट के लिए", "en": "For decoration" },
+            { "hi": "बड़ी मात्राओं को छोटे स्थान पर दिखाने के लिए", "en": "To show large quantities in a small space" },
+            { "hi": "संख्याओं को बदलने के लिए", "en": "To change numbers" },
+            { "hi": "रंग भरने के लिए", "en": "To fill colors" }
+          ],
+          "answer": { "hi": "बड़ी मात्राओं को छोटे स्थान पर दिखाने के लिए", "en": "To show large quantities in a small space" }
+        },
+        {
+          "q": {
+            "hi": "x-अक्ष पर स्थित सभी बिंदुओं का कौन सा निर्देशांक शून्य होता है?",
+            "en": "Which coordinate of all points lying on the x-axis is zero?"
+          },
+          "options": [
+            { "hi": "x-निर्देशांक", "en": "x-coordinate" },
+            { "hi": "y-निर्देशांक", "en": "y-coordinate" },
+            { "hi": "दोनों", "en": "Both" },
+            { "hi": "कोई नहीं", "en": "None" }
+          ],
+          "answer": { "hi": "y-निर्देशांक", "en": "y-coordinate" }
+        },
+        {
+          "q": {
+            "hi": "एक आलेख में मूल बिंदु से दाईं ओर बढ़ने पर x का मान क्या होता है?",
+            "en": "In a graph, what happens to the value of x when moving right from the origin?"
+          },
+          "options": [
+            { "hi": "घटता है", "en": "Decreases" },
+            { "hi": "बढ़ता है", "en": "Increases" },
+            { "hi": "स्थिर रहता है", "en": "Remains constant" },
+            { "hi": "शून्य हो जाता है", "en": "Becomes zero" }
+          ],
+          "answer": { "hi": "बढ़ता है", "en": "Increases" }
+        },
+        {
+          "q": {
+            "hi": "यदि दूरी समय के समानुपाती है, तो आलेख कैसा होगा?",
+            "en": "If distance is proportional to time, how will the graph look?"
+          },
+          "options": [
+            { "hi": "एक वक्र", "en": "A curve" },
+            { "hi": "एक सरल रेखा जो मूल बिंदु से गुजरती है", "en": "A straight line passing through the origin" },
+            { "hi": "एक ऊर्ध्वाधर रेखा", "en": "A vertical line" },
+            { "hi": "क्षैतिज रेखा", "en": "Horizontal line" }
+          ],
+          "answer": { "hi": "एक सरल रेखा जो मूल बिंदु से गुजरती है", "en": "A straight line passing through the origin" }
+        },
+        {
+          "q": {
+            "hi": "निर्देशांक (0, 5) वाला बिंदु कहाँ होगा?",
+            "en": "Where will the point with coordinates (0, 5) be?"
+          },
+          "options": [
+            { "hi": "x-अक्ष पर", "en": "On the x-axis" },
+            { "hi": "y-अक्ष पर", "en": "On the y-axis" },
+            { "hi": "मूल बिंदु पर", "en": "At the origin" },
+            { "hi": "चौथे चतुर्थांश में", "en": "In the fourth quadrant" }
+          ],
+          "answer": { "hi": "y-अक्ष पर", "en": "On the y-axis" }
+        },
+        {
+          "q": {
+            "hi": "निर्देशांक (2, 0) वाला बिंदु कहाँ होगा?",
+            "en": "Where will the point with coordinates (2, 0) be?"
+          },
+          "options": [
+            { "hi": "x-अक्ष पर", "en": "On the x-axis" },
+            { "hi": "y-अक्ष पर", "en": "On the y-axis" },
+            { "hi": "मूल बिंदु पर", "en": "At the origin" },
+            { "hi": "कहीं नहीं", "en": "Nowhere" }
+          ],
+          "answer": { "hi": "x-अक्ष पर", "en": "On the x-axis" }
+        },
+        {
+          "q": {
+            "hi": "आलेख में 'किंक' (Kink/Zig-zag line) का उपयोग क्यों किया जाता है?",
+            "en": "Why is a 'kink' or zig-zag line used in a graph?"
+          },
+          "options": [
+            { "hi": "आलेख को सुंदर बनाने के लिए", "en": "To make the graph beautiful" },
+            { "hi": "अक्ष पर शून्य और पहली संख्या के बीच के अंतर को कम करने के लिए", "en": "To show a break in the axis between zero and the first number" },
+            { "hi": "गलती सुधारने के लिए", "en": "To correct an error" },
+            { "hi": "दिशा बताने के लिए", "en": "To show direction" }
+          ],
+          "answer": { "hi": "अक्ष पर शून्य और पहली संख्या के बीच के अंतर को कम करने के लिए", "en": "To show a break in the axis between zero and the first number" }
+        },
+        {
+          "q": {
+            "hi": "बिंदु (4, 4) की x-अक्ष और y-अक्ष से दूरियाँ कैसी हैं?",
+            "en": "How are the distances of point (4, 4) from the x-axis and y-axis?"
+          },
+          "options": [
+            { "hi": "समान", "en": "Equal" },
+            { "hi": "असमान", "en": "Unequal" },
+            { "hi": "शून्य", "en": "Zero" },
+            { "hi": "कह नहीं सकते", "en": "Cannot say" }
+          ],
+          "answer": { "hi": "समान", "en": "Equal" }
+        },
+        {
+          "q": {
+            "hi": "निर्देशांक (x, y) में 'x' को और क्या कहा जाता है?",
+            "en": "In the coordinates (x, y), what else is 'x' called?"
+          },
+          "options": [
+            { "hi": "कोटि", "en": "Ordinate" },
+            { "hi": "भुज (Abscissa)", "en": "Abscissa" },
+            { "hi": "अक्ष", "en": "Axis" },
+            { "hi": "बिंदु", "en": "Point" }
+          ],
+          "answer": { "hi": "भुज (Abscissa)", "en": "Abscissa" }
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "यदि y = 2x है, तो बिंदु (2, ?) में रिक्त स्थान क्या होगा?",
+            "en": "If y = 2x, what will be the value in the blank for point (2, ?)?"
+          },
+          "options": [
+            { "hi": "2", "en": "2" },
+            { "hi": "4", "en": "4" },
+            { "hi": "0", "en": "0" },
+            { "hi": "1", "en": "1" }
+          ],
+          "answer": { "hi": "4", "en": "4" }
+        },
+        {
+          "q": {
+            "hi": "एक वर्ग की भुजा और उसके परिमाप का आलेख कैसा होता है?",
+            "en": "What is the graph of a square's side and its perimeter like?"
+          },
+          "options": [
+            { "hi": "रैखिक", "en": "Linear" },
+            { "hi": "वृत्ताकार", "en": "Circular" },
+            { "hi": "असतत", "en": "Discontinuous" },
+            { "hi": "वक्र", "en": "Curve" }
+          ],
+          "answer": { "hi": "रैखिक", "en": "Linear" }
+        },
+        {
+          "q": {
+            "hi": "एक वर्ग की भुजा और उसके क्षेत्रफल का आलेख कैसा होता है?",
+            "en": "What is the graph of a square's side and its area like?"
+          },
+          "options": [
+            { "hi": "रैखिक", "en": "Linear" },
+            { "hi": "गैर-रैखिक (वक्र)", "en": "Non-linear (Curve)" },
+            { "hi": "क्षैतिज रेखा", "en": "Horizontal line" },
+            { "hi": "ऊर्ध्वाधर रेखा", "en": "Vertical line" }
+          ],
+          "answer": { "hi": "गैर-रैखिक (वक्र)", "en": "Non-linear (Curve)" }
+        },
+        {
+          "q": {
+            "hi": "बिंदु P(3, 5) के लिए मूल बिंदु से x-अक्ष की दिशा में कितनी इकाइयाँ चलनी होंगी?",
+            "en": "For point P(3, 5), how many units must one move from the origin in the direction of the x-axis?"
+          },
+          "options": [
+            { "hi": "5", "en": "5" },
+            { "hi": "3", "en": "3" },
+            { "hi": "8", "en": "8" },
+            { "hi": "0", "en": "0" }
+          ],
+          "answer": { "hi": "3", "en": "3" }
+        },
+        {
+          "q": {
+            "hi": "बिंदु Q(4, 2) के लिए y-अक्ष की दिशा में कितनी इकाइयाँ चलनी होंगी?",
+            "en": "For point Q(4, 2), how many units must one move in the direction of the y-axis?"
+          },
+          "options": [
+            { "hi": "4", "en": "4" },
+            { "hi": "2", "en": "2" },
+            { "hi": "6", "en": "6" },
+            { "hi": "0", "en": "0" }
+          ],
+          "answer": { "hi": "2", "en": "2" }
+        },
+        {
+          "q": {
+            "hi": "निर्देशांक (5, 5) मूल बिंदु से कितनी दूरी पर है (लगभग)?",
+            "en": "Approximately how far is the coordinate (5, 5) from the origin?"
+          },
+          "options": [
+            { "hi": "5 इकाइयाँ", "en": "5 units" },
+            { "hi": "10 इकाइयाँ", "en": "10 units" },
+            { "hi": "7.07 इकाइयाँ", "en": "7.07 units" },
+            { "hi": "0 इकाइयाँ", "en": "0 units" }
+          ],
+          "answer": { "hi": "7.07 इकाइयाँ", "en": "7.07 units" }
+        },
+        {
+          "q": {
+            "hi": "आलेख द्वारा प्रदर्शित जानकारी को क्या कहते हैं?",
+            "en": "What is the information displayed by a graph called?"
+          },
+          "options": [
+            { "hi": "निर्देश", "en": "Instruction" },
+            { "hi": "आँकड़े (Data)", "en": "Data" },
+            { "hi": "समीकरण", "en": "Equation" },
+            { "hi": "गणना", "en": "Calculation" }
+          ],
+          "answer": { "hi": "आँकड़े (Data)", "en": "Data" }
+        },
+        {
+          "q": {
+            "hi": "यदि कोई बिंदु x-अक्ष और y-अक्ष दोनों पर है, तो वह बिंदु क्या है?",
+            "en": "If a point is on both the x-axis and y-axis, what is that point?"
+          },
+          "options": [
+            { "hi": "अक्ष", "en": "Axis" },
+            { "hi": "मूल बिंदु (Origin)", "en": "Origin" },
+            { "hi": "निर्देशांक", "en": "Coordinate" },
+            { "hi": "समतल", "en": "Plane" }
+          ],
+          "answer": { "hi": "मूल बिंदु (Origin)", "en": "Origin" }
+        },
+        {
+          "q": {
+            "hi": "क्या समय और तापमान का आलेख हमेशा एक सीधी रेखा होता है?",
+            "en": "Is the time and temperature graph always a straight line?"
+          },
+          "options": [
+            { "hi": "हाँ", "en": "Yes" },
+            { "hi": "नहीं", "en": "No" },
+            { "hi": "केवल गर्मियों में", "en": "Only in summers" },
+            { "hi": "केवल सर्दियों में", "en": "Only in winters" }
+          ],
+          "answer": { "hi": "नहीं", "en": "No" }
+        },
+        {
+          "q": {
+            "hi": "बिंदु (1, 10), (2, 20), (3, 30) किस प्रकार का आलेख बनाएंगे?",
+            "en": "What kind of graph will the points (1, 10), (2, 20), (3, 30) form?"
+          },
+          "options": [
+            { "hi": "वक्र", "en": "Curve" },
+            { "hi": "रैखिक आलेख (Linear Graph)", "en": "Linear Graph" },
+            { "hi": "वृत्त", "en": "Circle" },
+            { "hi": "असतत बिंदु", "en": "Discrete points" }
+          ],
+          "answer": { "hi": "रैखिक आलेख (Linear Graph)", "en": "Linear Graph" }
+        }
+      ],
+      "section5": [
+        {
+          "q": {
+            "hi": "आलेखीय प्रदर्शन का क्या लाभ है?",
+            "en": "What is the advantage of graphical representation?"
+          },
+          "options": [
+            { "hi": "यह समय बचाता है", "en": "It saves time" },
+            { "hi": "तुलना करना आसान हो जाता है", "en": "Comparison becomes easy" },
+            { "hi": "रुझानों को समझा जा सकता है", "en": "Trends can be understood" },
+            { "hi": "उपरोक्त सभी", "en": "All of the above" }
+          ],
+          "answer": { "hi": "उपरोक्त सभी", "en": "All of the above" }
+        },
+        {
+          "q": {
+            "hi": "y-अक्ष पर स्थित किसी बिंदु का रूप क्या होता है?",
+            "en": "What is the form of any point lying on the y-axis?"
+          },
+          "options": [
+            { "hi": "(x, 0)", "en": "(x, 0)" },
+            { "hi": "(0, y)", "en": "(0, y)" },
+            { "hi": "(x, y)", "en": "(x, y)" },
+            { "hi": "(0, 0)", "en": "(0, 0)" }
+          ],
+          "answer": { "hi": "(0, y)", "en": "(0, y)" }
+        },
+        {
+          "q": {
+            "hi": "x-अक्ष पर स्थित किसी बिंदु का रूप क्या होता है?",
+            "en": "What is the form of any point lying on the x-axis?"
+          },
+          "options": [
+            { "hi": "(x, 0)", "en": "(x, 0)" },
+            { "hi": "(0, y)", "en": "(0, y)" },
+            { "hi": "(y, x)", "en": "(y, x)" },
+            { "hi": "(1, 1)", "en": "(1, 1)" }
+          ],
+          "answer": { "hi": "(x, 0)", "en": "(x, 0)" }
+        },
+        {
+          "q": {
+            "hi": "बिंदु (2, 5) की y-अक्ष से दूरी क्या है?",
+            "en": "What is the distance of point (2, 5) from the y-axis?"
+          },
+          "options": [
+            { "hi": "5 इकाइयाँ", "en": "5 units" },
+            { "hi": "2 इकाइयाँ", "en": "2 units" },
+            { "hi": "7 इकाइयाँ", "en": "7 units" },
+            { "hi": "0 इकाइयाँ", "en": "0 units" }
+          ],
+          "answer": { "hi": "2 इकाइयाँ", "en": "2 units" }
+        },
+        {
+          "q": {
+            "hi": "बिंदु (2, 5) की x-अक्ष से दूरी क्या है?",
+            "en": "What is the distance of point (2, 5) from the x-axis?"
+          },
+          "options": [
+            { "hi": "2 इकाइयाँ", "en": "2 units" },
+            { "hi": "5 इकाइयाँ", "en": "5 units" },
+            { "hi": "3 इकाइयाँ", "en": "3 units" },
+            { "hi": "0 इकाइयाँ", "en": "0 units" }
+          ],
+          "answer": { "hi": "5 इकाइयाँ", "en": "5 units" }
+        },
+        {
+          "q": {
+            "hi": "निर्देशांक पद्धति को और किस नाम से जाना जाता है?",
+            "en": "By what other name is the coordinate system known?"
+          },
+          "options": [
+            { "hi": "यूक्लिडियन पद्धति", "en": "Euclidean system" },
+            { "hi": "कार्तीय पद्धति (Cartesian System)", "en": "Cartesian System" },
+            { "hi": "बीजीय पद्धति", "en": "Algebraic system" },
+            { "hi": "संख्या रेखा पद्धति", "en": "Number line system" }
+          ],
+          "answer": { "hi": "कार्तीय पद्धति (Cartesian System)", "en": "Cartesian System" }
+        },
+        {
+          "q": {
+            "hi": "एक रेखा-आलेख में बिंदुओं को किसके द्वारा जोड़ा जाता है?",
+            "en": "In a line graph, how are the points joined?"
+          },
+          "options": [
+            { "hi": "रेखाखंडों द्वारा", "en": "By line segments" },
+            { "hi": "वृत्तों द्वारा", "en": "By circles" },
+            { "hi": "बिंदुओं द्वारा", "en": "By dots" },
+            { "hi": "जोड़ा नहीं जाता", "en": "Are not joined" }
+          ],
+          "answer": { "hi": "रेखाखंडों द्वारा", "en": "By line segments" }
+        },
+        {
+          "q": {
+            "hi": "बिंदु (4, 3) किस चतुर्थांश (Quadrant) में स्थित है?",
+            "en": "In which quadrant is the point (4, 3) located?"
+          },
+          "options": [
+            { "hi": "प्रथम (First)", "en": "First" },
+            { "hi": "द्वितीय", "en": "Second" },
+            { "hi": "तृतीय", "en": "Third" },
+            { "hi": "चतुर्थ", "en": "Fourth" }
+          ],
+          "answer": { "hi": "प्रथम (First)", "en": "First" }
+        },
+        {
+          "q": {
+            "hi": "क्या बिंदु (0, 3) मूल बिंदु है?",
+            "en": "Is the point (0, 3) the origin?"
+          },
+          "options": [
+            { "hi": "हाँ", "en": "Yes" },
+            { "hi": "नहीं", "en": "No" },
+            { "hi": "हो सकता है", "en": "Maybe" },
+            { "hi": "कह नहीं सकते", "en": "Cannot say" }
+          ],
+          "answer": { "hi": "नहीं", "en": "No" }
+        },
+        {
+          "q": {
+            "hi": "एक आलेख में दोनों अक्ष एक-दूसरे के प्रति कैसे होते हैं?",
+            "en": "How are both the axes in a graph relative to each other?"
+          },
+          "options": [
+            { "hi": "समांतर", "en": "Parallel" },
+            { "hi": "लंबवत (Perpendicular)", "en": "Perpendicular" },
+            { "hi": "एक ही रेखा पर", "en": "On the same line" },
+            { "hi": "अलग-अलग समतल में", "en": "In different planes" }
+          ],
+          "answer": { "hi": "लंबवत (Perpendicular)", "en": "Perpendicular" }
+        }
+      ]
     }
   }
 }
