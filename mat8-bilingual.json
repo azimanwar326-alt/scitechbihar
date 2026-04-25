@@ -7273,6 +7273,668 @@
           "answer": {"hi": "6.25", "en": "6.25"}
         }
       ]
+    },
+    "chapter12": {
+      "section1": [
+        {
+          "q": {
+            "hi": "जब हम किसी बीजगणितीय व्यंजक को उसके गुणनखंडों के गुणनफल के रूप में लिखते हैं, तो उसे क्या कहते हैं?",
+            "en": "When we write an algebraic expression as a product of its factors, what is it called?"
+          },
+          "options": [
+            { "hi": "योगफल", "en": "Summation" },
+            { "hi": "गुणनखंडन (Factorisation)", "en": "Factorisation" },
+            { "hi": "विभाजन", "en": "Division" },
+            { "hi": "समीकरण", "en": "Equation" }
+          ],
+          "answer": { "hi": "गुणनखंडन (Factorisation)", "en": "Factorisation" }
+        },
+        {
+          "q": {
+            "hi": "संख्या 30 का अभाज्य गुणनखंड रूप क्या है?",
+            "en": "What is the prime factor form of the number 30?"
+          },
+          "options": [
+            { "hi": "2 x 15", "en": "2 x 15" },
+            { "hi": "3 x 10", "en": "3 x 10" },
+            { "hi": "2 x 3 x 5", "en": "2 x 3 x 5" },
+            { "hi": "5 x 6", "en": "5 x 6" }
+          ],
+          "answer": { "hi": "2 x 3 x 5", "en": "2 x 3 x 5" }
+        },
+        {
+          "q": {
+            "hi": "बीजीय व्यंजक 5xy के गुणनखंड क्या हैं?",
+            "en": "What are the factors of the algebraic expression 5xy?"
+          },
+          "options": [
+            { "hi": "5, x और y", "en": "5, x and y" },
+            { "hi": "5 और xy", "en": "5 and xy" },
+            { "hi": "5x और y", "en": "5x and y" },
+            { "hi": "केवल 5", "en": "Only 5" }
+          ],
+          "answer": { "hi": "5, x और y", "en": "5, x and y" }
+        },
+        {
+          "q": {
+            "hi": "पदों $2x$ और $4$ का सार्व गुणनखंड (Common Factor) क्या है?",
+            "en": "What is the common factor of the terms $2x$ and $4$?"
+          },
+          "options": [
+            { "hi": "x", "en": "x" },
+            { "hi": "2", "en": "2" },
+            { "hi": "4", "en": "4" },
+            { "hi": "2x", "en": "2x" }
+          ],
+          "answer": { "hi": "2", "en": "2" }
+        },
+        {
+          "q": {
+            "hi": "व्यंजक $3x + 9$ का गुणनखंडन क्या होगा?",
+            "en": "What is the factorisation of the expression $3x + 9$?"
+          },
+          "options": [
+            { "hi": "3(x + 9)", "en": "3(x + 9)" },
+            { "hi": "3(x + 3)", "en": "3(x + 3)" },
+            { "hi": "9(x + 1)", "en": "9(x + 1)" },
+            { "hi": "3x(1 + 3)", "en": "3x(1 + 3)" }
+          ],
+          "answer": { "hi": "3(x + 3)", "en": "3(x + 3)" }
+        },
+        {
+          "q": {
+            "hi": "एक अखंडनीय (Irreducible) गुणनखंड का क्या अर्थ है?",
+            "en": "What is meant by an irreducible factor?"
+          },
+          "options": [
+            { "hi": "जिसे आगे और गुणनखंडित किया जा सके", "en": "Which can be factorised further" },
+            { "hi": "जिसे आगे और गुणनखंडित न किया जा सके", "en": "Which cannot be factorised further" },
+            { "hi": "शून्य गुणनखंड", "en": "Zero factor" },
+            { "hi": "ऋणात्मक गुणनखंड", "en": "Negative factor" }
+          ],
+          "answer": { "hi": "जिसे आगे और गुणनखंडित न किया जा सके", "en": "Which cannot be factorised further" }
+        },
+        {
+          "q": {
+            "hi": "व्यंजक $2xy + 3x$ में सार्व गुणनखंड क्या है?",
+            "en": "What is the common factor in the expression $2xy + 3x$?"
+          },
+          "options": [
+            { "hi": "2", "en": "2" },
+            { "hi": "y", "en": "y" },
+            { "hi": "x", "en": "x" },
+            { "hi": "3", "en": "3" }
+          ],
+          "answer": { "hi": "x", "en": "x" }
+        },
+        {
+          "q": {
+            "hi": "सर्वसमिका $(a+b)^2$ किसके बराबर है?",
+            "en": "Identity $(a+b)^2$ is equal to?"
+          },
+          "options": [
+            { "hi": "$a^2 + b^2$", "en": "$a^2 + b^2$" },
+            { "hi": "$a^2 + 2ab + b^2$", "en": "$a^2 + 2ab + b^2$" },
+            { "hi": "$a^2 - 2ab + b^2$", "en": "$a^2 - 2ab + b^2$" },
+            { "hi": "$a^2 - b^2$", "en": "$a^2 - b^2$" }
+          ],
+          "answer": { "hi": "$a^2 + 2ab + b^2$", "en": "$a^2 + 2ab + b^2$" }
+        },
+        {
+          "q": {
+            "hi": "सर्वसमिका $a^2 - b^2$ के गुणनखंड क्या हैं?",
+            "en": "What are the factors of identity $a^2 - b^2$?"
+          },
+          "options": [
+            { "hi": "$(a-b)(a-b)$", "en": "$(a-b)(a-b)$" },
+            { "hi": "$(a+b)(a+b)$", "en": "$(a+b)(a+b)$" },
+            { "hi": "$(a+b)(a-b)$", "en": "$(a+b)(a-b)$" },
+            { "hi": "$a - b$", "en": "$a - b$" }
+          ],
+          "answer": { "hi": "$(a+b)(a-b)$", "en": "$(a+b)(a-b)$" }
+        },
+        {
+          "q": {
+            "hi": "पदों $10x^2$ और $15x$ का महत्तम सार्व गुणनखंड क्या है?",
+            "en": "What is the highest common factor (HCF) of $10x^2$ and $15x$?"
+          },
+          "options": [
+            { "hi": "5", "en": "5" },
+            { "hi": "x", "en": "x" },
+            { "hi": "5x", "en": "5x" },
+            { "hi": "10x", "en": "10x" }
+          ],
+          "answer": { "hi": "5x", "en": "5x" }
+        }
+      ],
+      "section2": [
+        {
+          "q": {
+            "hi": "व्यंजक $x^2 + 8x + 16$ किसका पूर्ण वर्ग है?",
+            "en": "Of which expression is $x^2 + 8x + 16$ a perfect square?"
+          },
+          "options": [
+            { "hi": "$(x + 4)^2$", "en": "$(x + 4)^2$" },
+            { "hi": "$(x - 4)^2$", "en": "$(x - 4)^2$" },
+            { "hi": "$(x + 8)^2$", "en": "$(x + 8)^2$" },
+            { "hi": "$(x + 16)^2$", "en": "$(x + 16)^2$" }
+          ],
+          "answer": { "hi": "$(x + 4)^2$", "en": "$(x + 4)^2$" }
+        },
+        {
+          "q": {
+            "hi": "$4y^2 - 12y + 9$ का गुणनखंडन रूप क्या है?",
+            "en": "What is the factorised form of $4y^2 - 12y + 9$?"
+          },
+          "options": [
+            { "hi": "$(2y + 3)^2$", "en": "$(2y + 3)^2$" },
+            { "hi": "$(2y - 3)^2$", "en": "$(2y - 3)^2$" },
+            { "hi": "$(y - 3)^2$", "en": "$(y - 3)^2$" },
+            { "hi": "$(4y - 9)^2$", "en": "$(4y - 9)^2$" }
+          ],
+          "answer": { "hi": "$(2y - 3)^2$", "en": "$(2y - 3)^2$" }
+        },
+        {
+          "q": {
+            "hi": "$x^2 - 49$ का गुणनखंडन क्या है?",
+            "en": "What is the factorisation of $x^2 - 49$?"
+          },
+          "options": [
+            { "hi": "$(x-7)(x-7)$", "en": "$(x-7)(x-7)$" },
+            { "hi": "$(x+7)(x-7)$", "en": "$(x+7)(x-7)$" },
+            { "hi": "$(x+49)(x-49)$", "en": "$(x+49)(x-49)$" },
+            { "hi": "$(x-7)^2$", "en": "$(x-7)^2$" }
+          ],
+          "answer": { "hi": "$(x+7)(x-7)$", "en": "$(x+7)(x-7)$" }
+        },
+        {
+          "q": {
+            "hi": "$x^2 + 5x + 6$ के गुणनखंड क्या होंगे?",
+            "en": "What are the factors of $x^2 + 5x + 6$?"
+          },
+          "options": [
+            { "hi": "$(x+1)(x+6)$", "en": "$(x+1)(x+6)$" },
+            { "hi": "$(x+2)(x+3)$", "en": "$(x+2)(x+3)$" },
+            { "hi": "$(x-2)(x-3)$", "en": "$(x-2)(x-3)$" },
+            { "hi": "$(x+5)(x+1)$", "en": "$(x+5)(x+1)$" }
+          ],
+          "answer": { "hi": "$(x+2)(x+3)$", "en": "$(x+2)(x+3)$" }
+        },
+        {
+          "q": {
+            "hi": "बहुपद $6xy - 4y + 6 - 9x$ को पुनर्समूहण (Regrouping) द्वारा गुणनखंडित करने पर क्या प्राप्त होगा?",
+            "en": "What is obtained by factorising $6xy - 4y + 6 - 9x$ using regrouping?"
+          },
+          "options": [
+            { "hi": "$(2y - 3)(3x - 2)$", "en": "$(2y - 3)(3x - 2)$" },
+            { "hi": "$(3x - 2)(2y + 3)$", "en": "$(3x - 2)(2y + 3)$" },
+            { "hi": "$(3x + 2)(2y - 3)$", "en": "$(3x + 2)(2y - 3)$" },
+            { "hi": "$(2y + 3)(3x + 2)$", "en": "$(2y + 3)(3x + 2)$" }
+          ],
+          "answer": { "hi": "$(2y - 3)(3x - 2)$", "en": "$(2y - 3)(3x - 2)$" }
+        },
+        {
+          "q": {
+            "hi": "$a^2 - 2ab + b^2$ किसका विस्तारित रूप है?",
+            "en": "$a^2 - 2ab + b^2$ is the expanded form of?"
+          },
+          "options": [
+            { "hi": "$(a+b)^2$", "en": "$(a+b)^2$" },
+            { "hi": "$(a-b)^2$", "en": "$(a-b)^2$" },
+            { "hi": "$a^2 + b^2$", "en": "$a^2 + b^2$" },
+            { "hi": "$(a+b)(a-b)$", "en": "$(a+b)(a-b)$" }
+          ],
+          "answer": { "hi": "$(a-b)^2$", "en": "$(a-b)^2$" }
+        },
+        {
+          "q": {
+            "hi": "बीजीय व्यंजकों का विभाजन किस संक्रिया की प्रतिलोम संक्रिया है?",
+            "en": "Division of algebraic expressions is the inverse operation of which operation?"
+          },
+          "options": [
+            { "hi": "योग", "en": "Addition" },
+            { "hi": "व्यवकलन", "en": "Subtraction" },
+            { "hi": "गुणा (Multiplication)", "en": "Multiplication" },
+            { "hi": "वर्ग", "en": "Square" }
+          ],
+          "answer": { "hi": "गुणा (Multiplication)", "en": "Multiplication" }
+        },
+        {
+          "q": {
+            "hi": "$6x^3 \\div 2x$ का मान क्या होगा?",
+            "en": "What is the value of $6x^3 \\div 2x$?"
+          },
+          "options": [
+            { "hi": "3x", "en": "3x" },
+            { "hi": "$3x^2$", "en": "$3x^2$" },
+            { "hi": "$4x^2$", "en": "$4x^2$" },
+            { "hi": "3", "en": "3" }
+          ],
+          "answer": { "hi": "$3x^2$", "en": "$3x^2$" }
+        },
+        {
+          "q": {
+            "hi": "बहुपद $(5x^2 - 6x)$ को एकपदी $3x$ से भाग देने पर क्या प्राप्त होगा?",
+            "en": "What is obtained by dividing polynomial $(5x^2 - 6x)$ by monomial $3x$?"
+          },
+          "options": [
+            { "hi": "$\\frac{1}{3}(5x - 6)$", "en": "$\\frac{1}{3}(5x - 6)$" },
+            { "hi": "$5x - 2$", "en": "$5x - 2$" },
+            { "hi": "$\\frac{5}{3}x - 6$", "en": "$\\frac{5}{3}x - 6$" },
+            { "hi": "$2x$", "en": "$2x$" }
+          ],
+          "answer": { "hi": "$\\frac{1}{3}(5x - 6)$", "en": "$\\frac{1}{3}(5x - 6)$" }
+        },
+        {
+          "q": {
+            "hi": "$x^2 + (a+b)x + ab$ का गुणनखंडन रूप क्या है?",
+            "en": "What is the factorised form of $x^2 + (a+b)x + ab$?"
+          },
+          "options": [
+            { "hi": "$(x+a)(x+b)$", "en": "$(x+a)(x+b)$" },
+            { "hi": "$(x-a)(x-b)$", "en": "$(x-a)(x-b)$" },
+            { "hi": "$(x+a)(x-b)$", "en": "$(x+a)(x-b)$" },
+            { "hi": "$(x+ab)$", "en": "$(x+ab)$" }
+          ],
+          "answer": { "hi": "$(x+a)(x+b)$", "en": "$(x+a)(x+b)$" }
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "$z^2 - 4z - 12$ के गुणनखंड क्या हैं?",
+            "en": "What are the factors of $z^2 - 4z - 12$?"
+          },
+          "options": [
+            { "hi": "$(z-6)(z+2)$", "en": "$(z-6)(z+2)$" },
+            { "hi": "$(z+6)(z-2)$", "en": "$(z+6)(z-2)$" },
+            { "hi": "$(z-4)(z+3)$", "en": "$(z-4)(z+3)$" },
+            { "hi": "$(z-12)(z+1)$", "en": "$(z-12)(z+1)$" }
+          ],
+          "answer": { "hi": "$(z-6)(z+2)$", "en": "$(z-6)(z+2)$" }
+        },
+        {
+          "q": {
+            "hi": "$10ab, 20bc, 30ca$ का सार्व गुणनखंड क्या है?",
+            "en": "What is the common factor of $10ab, 20bc, 30ca$?"
+          },
+          "options": [
+            { "hi": "10abc", "en": "10abc" },
+            { "hi": "10", "en": "10" },
+            { "hi": "a", "en": "a" },
+            { "hi": "abc", "en": "abc" }
+          ],
+          "answer": { "hi": "10", "en": "10" }
+        },
+        {
+          "q": {
+            "hi": "$7a^2 + 14a$ का गुणनखंडन क्या है?",
+            "en": "What is the factorisation of $7a^2 + 14a$?"
+          },
+          "options": [
+            { "hi": "7(a + 2)", "en": "7(a + 2)" },
+            { "hi": "7a(a + 2)", "en": "7a(a + 2)" },
+            { "hi": "$a(7a + 14)$", "en": "$a(7a + 14)$" },
+            { "hi": "$7a^2(1 + 2)$", "en": "$7a^2(1 + 2)$" }
+          ],
+          "answer": { "hi": "7a(a + 2)", "en": "7a(a + 2)" }
+        },
+        {
+          "q": {
+            "hi": "$a^4 - b^4$ को गुणनखंडित करने पर क्या प्राप्त होगा?",
+            "en": "What will be obtained by factorising $a^4 - b^4$?"
+          },
+          "options": [
+            { "hi": "$(a^2-b^2)(a^2-b^2)$", "en": "$(a^2-b^2)(a^2-b^2)$" },
+            { "hi": "$(a^2+b^2)(a+b)(a-b)$", "en": "$(a^2+b^2)(a+b)(a-b)$" },
+            { "hi": "$(a^2+b^2)(a^2+b^2)$", "en": "$(a^2+b^2)(a^2+b^2)$" },
+            { "hi": "$(a-b)^4$", "en": "$(a-b)^4$" }
+          ],
+          "answer": { "hi": "$(a^2+b^2)(a+b)(a-b)$", "en": "$(a^2+b^2)(a+b)(a-b)$" }
+        },
+        {
+          "q": {
+            "hi": "$p^2 - 10p + 25$ के गुणनखंड क्या हैं?",
+            "en": "What are the factors of $p^2 - 10p + 25$?"
+          },
+          "options": [
+            { "hi": "$(p+5)^2$", "en": "$(p+5)^2$" },
+            { "hi": "$(p-5)^2$", "en": "$(p-5)^2$" },
+            { "hi": "$(p-10)(p-25)$", "en": "$(p-10)(p-25)$" },
+            { "hi": "$p^2 - 25$", "en": "$p^2 - 25$" }
+          ],
+          "answer": { "hi": "$(p-5)^2$", "en": "$(p-5)^2$" }
+        },
+        {
+          "q": {
+            "hi": "$44x^4 \\div 11x^2$ का परिणाम क्या है?",
+            "en": "What is the result of $44x^4 \\div 11x^2$?"
+          },
+          "options": [
+            { "hi": "$4x$", "en": "4x" },
+            { "hi": "$4x^2$", "en": "$4x^2$" },
+            { "hi": "$33x^2$", "en": "$33x^2$" },
+            { "hi": "4", "en": "4" }
+          ],
+          "answer": { "hi": "$4x^2$", "en": "$4x^2$" }
+        },
+        {
+          "q": {
+            "hi": "$15xy + 6x + 5y + 2$ के गुणनखंड क्या हैं?",
+            "en": "What are the factors of $15xy + 6x + 5y + 2$?"
+          },
+          "options": [
+            { "hi": "$(3x+1)(5y+2)$", "en": "$(3x+1)(5y+2)$" },
+            { "hi": "$(3x-1)(5y-2)$", "en": "$(3x-1)(5y-2)$" },
+            { "hi": "$(5x+2)(3y+1)$", "en": "$(5x+2)(3y+1)$" },
+            { "hi": "$(x+1)(y+2)$", "en": "$(x+1)(y+2)$" }
+          ],
+          "answer": { "hi": "$(3x+1)(5y+2)$", "en": "$(3x+1)(5y+2)$" }
+        },
+        {
+          "q": {
+            "hi": "$x^2 + 7x + 10$ में $a+b$ और $ab$ के मान क्या हैं?",
+            "en": "In $x^2 + 7x + 10$, what are the values of $a+b$ and $ab$?"
+          },
+          "options": [
+            { "hi": "7 और 10", "en": "7 and 10" },
+            { "hi": "10 और 7", "en": "10 and 7" },
+            { "hi": "5 और 2", "en": "5 and 2" },
+            { "hi": "1 और 10", "en": "1 and 10" }
+          ],
+          "answer": { "hi": "7 और 10", "en": "7 and 10" }
+        },
+        {
+          "q": {
+            "hi": "$25a^2 - 4b^2$ का गुणनखंडन क्या है?",
+            "en": "What is the factorisation of $25a^2 - 4b^2$?"
+          },
+          "options": [
+            { "hi": "$(25a-4b)(25a+4b)$", "en": "$(25a-4b)(25a+4b)$" },
+            { "hi": "$(5a-2b)(5a+2b)$", "en": "$(5a-2b)(5a+2b)$" },
+            { "hi": "$(5a-2b)^2$", "en": "$(5a-2b)^2$" },
+            { "hi": "$(2a-5b)(2a+5b)$", "en": "$(2a-5b)(2a+5b)$" }
+          ],
+          "answer": { "hi": "$(5a-2b)(5a+2b)$", "en": "$(5a-2b)(5a+2b)$" }
+        },
+        {
+          "q": {
+            "hi": "बहुपद को बहुपद से भाग देने के लिए क्या करना चाहिए?",
+            "en": "What should be done to divide a polynomial by another polynomial?"
+          },
+          "options": [
+            { "hi": "प्रत्येक पद को अलग-अलग भाग दें", "en": "Divide each term separately" },
+            { "hi": "दोनों के गुणनखंड करके उभयनिष्ठ गुणनखंड काटें", "en": "Factorise both and cancel common factors" },
+            { "hi": "केवल अचरों को भाग दें", "en": "Divide only constants" },
+            { "hi": "केवल चरों को भाग दें", "en": "Divide only variables" }
+          ],
+          "answer": { "hi": "दोनों के गुणनखंड करके उभयनिष्ठ गुणनखंड काटें", "en": "Factorise both and cancel common factors" }
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "$4x^2 + 12x + 9$ का गुणनखंडन क्या है?",
+            "en": "What is the factorisation of $4x^2 + 12x + 9$?"
+          },
+          "options": [
+            { "hi": "$(2x+3)^2$", "en": "$(2x+3)^2$" },
+            { "hi": "$(2x-3)^2$", "en": "$(2x-3)^2$" },
+            { "hi": "$(4x+9)^2$", "en": "$(4x+9)^2$" },
+            { "hi": "$2x^2 + 3^2$", "en": "$2x^2 + 3^2$" }
+          ],
+          "answer": { "hi": "$(2x+3)^2$", "en": "$(2x+3)^2$" }
+        },
+        {
+          "q": {
+            "hi": "$a^2 + 8a + 16$ के गुणनखंड क्या हैं?",
+            "en": "What are the factors of $a^2 + 8a + 16$?"
+          },
+          "options": [
+            { "hi": "$(a+4)^2$", "en": "$(a+4)^2$" },
+            { "hi": "$(a-4)^2$", "en": "$(a-4)^2$" },
+            { "hi": "$(a+8)(a+2)$", "en": "$(a+8)(a+2)$" },
+            { "hi": "$(a+16)(a+1)$", "en": "$(a+16)(a+1)$" }
+          ],
+          "answer": { "hi": "$(a+4)^2$", "en": "$(a+4)^2$" }
+        },
+        {
+          "q": {
+            "hi": "$l^2 - m^2$ के गुणनखंड क्या हैं?",
+            "en": "What are the factors of $l^2 - m^2$?"
+          },
+          "options": [
+            { "hi": "$(l+m)(l+m)$", "en": "$(l+m)(l+m)$" },
+            { "hi": "$(l-m)(l-m)$", "en": "$(l-m)(l-m)$" },
+            { "hi": "$(l+m)(l-m)$", "en": "$(l+m)(l-m)$" },
+            { "hi": "$l - m$", "en": "$l - m$" }
+          ],
+          "answer": { "hi": "$(l+m)(l-m)$", "en": "$(l+m)(l-m)$" }
+        },
+        {
+          "q": {
+            "hi": "$y^2 - 7y + 12$ के गुणनखंड क्या हैं?",
+            "en": "What are the factors of $y^2 - 7y + 12$?"
+          },
+          "options": [
+            { "hi": "$(y-3)(y-4)$", "en": "$(y-3)(y-4)$" },
+            { "hi": "$(y+3)(y+4)$", "en": "$(y+3)(y+4)$" },
+            { "hi": "$(y-12)(y-1)$", "en": "$(y-12)(y-1)$" },
+            { "hi": "$(y-6)(y-2)$", "en": "$(y-6)(y-2)$" }
+          ],
+          "answer": { "hi": "$(y-3)(y-4)$", "en": "$(y-3)(y-4)$" }
+        },
+        {
+          "q": {
+            "hi": "$\\frac{x^2 - y^2}{x + y}$ का मान क्या होगा?",
+            "en": "What will be the value of $\\frac{x^2 - y^2}{x + y}$?"
+          },
+          "options": [
+            { "hi": "$x+y$", "en": "$x+y$" },
+            { "hi": "$x-y$", "en": "$x-y$" },
+            { "hi": "1", "en": "1" },
+            { "hi": "$x^2 - y^2$", "en": "$x^2 - y^2$" }
+          ],
+          "answer": { "hi": "$x-y$", "en": "$x-y$" }
+        },
+        {
+          "q": {
+            "hi": "$10y(6y+21) \\div 5(2y+7)$ का मान क्या है?",
+            "en": "What is the value of $10y(6y+21) \\div 5(2y+7)$?"
+          },
+          "options": [
+            { "hi": "3y", "en": "3y" },
+            { "hi": "6y", "en": "6y" },
+            { "hi": "2y", "en": "2y" },
+            { "hi": "30y", "en": "30y" }
+          ],
+          "answer": { "hi": "6y", "en": "6y" }
+        },
+        {
+          "q": {
+            "hi": "$x^2 + 5x + 6$ को $(x+3)$ से भाग देने पर क्या बचेगा?",
+            "en": "What remains after dividing $x^2 + 5x + 6$ by $(x+3)$?"
+          },
+          "options": [
+            { "hi": "$x+2$", "en": "$x+2$" },
+            { "hi": "$x+3$", "en": "$x+3$" },
+            { "hi": "$x+6$", "en": "$x+6$" },
+            { "hi": "2", "en": "2" }
+          ],
+          "answer": { "hi": "$x+2$", "en": "$x+2$" }
+        },
+        {
+          "q": {
+            "hi": "$a^2 + b^2 + 2ab$ किसका गुणनखंडन है?",
+            "en": "$a^2 + b^2 + 2ab$ is the factorisation of?"
+          },
+          "options": [
+            { "hi": "$(a-b)^2$", "en": "$(a-b)^2$" },
+            { "hi": "$(a+b)^2$", "en": "$(a+b)^2$" },
+            { "hi": "$a^2 - b^2$", "en": "$a^2 - b^2$" },
+            { "hi": "$2(a+b)$", "en": "$2(a+b)$" }
+          ],
+          "answer": { "hi": "$(a+b)^2$", "en": "$(a+b)^2$" }
+        },
+        {
+          "q": {
+            "hi": "पद $3x^2y^3$ में अखंडनीय गुणनखंड कौन से हैं?",
+            "en": "What are the irreducible factors in the term $3x^2y^3$?"
+          },
+          "options": [
+            { "hi": "3, x, x, y, y, y", "en": "3, x, x, y, y, y" },
+            { "hi": "3, x^2, y^3", "en": "3, x^2, y^3" },
+            { "hi": "3x^2, y^3", "en": "3x^2, y^3" },
+            { "hi": "3, xy", "en": "3, xy" }
+          ],
+          "answer": { "hi": "3, x, x, y, y, y", "en": "3, x, x, y, y, y" }
+        },
+        {
+          "q": {
+            "hi": "सर्वसमिका $(x+a)(x+b) = x^2 + (a+b)x + ab$ में $ab$ पद कहाँ से आता है?",
+            "en": "In identity $(x+a)(x+b) = x^2 + (a+b)x + ab$, where does the $ab$ term come from?"
+          },
+          "options": [
+            { "hi": "x और a के गुणा से", "en": "From product of x and a" },
+            { "hi": "a और b के गुणा से", "en": "From product of a and b" },
+            { "hi": "x और b के गुणा से", "en": "From product of x and b" },
+            { "hi": "x के वर्ग से", "en": "From square of x" }
+          ],
+          "answer": { "hi": "a और b के गुणा से", "en": "From product of a and b" }
+        }
+      ],
+      "section5": [
+        {
+          "q": {
+            "hi": "व्यंजक $x^2 + 10x + 25$ का गुणनखंड रूप क्या है?",
+            "en": "What is the factored form of $x^2 + 10x + 25$?"
+          },
+          "options": [
+            { "hi": "$(x + 5)^2$", "en": "$(x + 5)^2$" },
+            { "hi": "$(x - 5)^2$", "en": "$(x - 5)^2$" },
+            { "hi": "$(x + 10)^2$", "en": "$(x + 10)^2$" },
+            { "hi": "$(x + 25)^2$", "en": "$(x + 25)^2$" }
+          ],
+          "answer": { "hi": "$(x + 5)^2$", "en": "$(x + 5)^2$" }
+        },
+        {
+          "q": {
+            "hi": "$16x^2 - 36$ के गुणनखंड क्या हैं?",
+            "en": "What are the factors of $16x^2 - 36$?"
+          },
+          "options": [
+            { "hi": "$(4x-6)(4x+6)$", "en": "$(4x-6)(4x+6)$" },
+            { "hi": "$(4x-6)^2$", "en": "$(4x-6)^2$" },
+            { "hi": "$(4x+6)^2$", "en": "$(4x+6)^2$" },
+            { "hi": "$(16x-36)(x+1)$", "en": "$(16x-36)(x+1)$" }
+          ],
+          "answer": { "hi": "$(4x-6)(4x+6)$", "en": "$(4x-6)(4x+6)$" }
+        },
+        {
+          "q": {
+            "hi": "$9x^2y^2 - 16$ के गुणनखंड क्या हैं?",
+            "en": "What are the factors of $9x^2y^2 - 16$?"
+          },
+          "options": [
+            { "hi": "$(3xy-4)(3xy+4)$", "en": "$(3xy-4)(3xy+4)$" },
+            { "hi": "$(3xy-4)^2$", "en": "$(3xy-4)^2$" },
+            { "hi": "$(9xy-16)(xy+1)$", "en": "$(9xy-16)(xy+1)$" },
+            { "hi": "$(3x-4)(3y+4)$", "en": "$(3x-4)(3y+4)$" }
+          ],
+          "answer": { "hi": "$(3xy-4)(3xy+4)$", "en": "$(3xy-4)(3xy+4)$" }
+        },
+        {
+          "q": {
+            "hi": "$m^2 - 256$ के गुणनखंड क्या हैं?",
+            "en": "What are the factors of $m^2 - 256$?"
+          },
+          "options": [
+            { "hi": "$(m-16)(m+16)$", "en": "$(m-16)(m+16)$" },
+            { "hi": "$(m-16)^2$", "en": "$(m-16)^2$" },
+            { "hi": "$(m+16)^2$", "en": "$(m+16)^2$" },
+            { "hi": "$(m-14)(m+14)$", "en": "$(m-14)(m+14)$" }
+          ],
+          "answer": { "hi": "$(m-16)(m+16)$", "en": "$(m-16)(m+16)$" }
+        },
+        {
+          "q": {
+            "hi": "$121b^2 - 88bc + 16c^2$ किसका पूर्ण वर्ग है?",
+            "en": "Of which expression is $121b^2 - 88bc + 16c^2$ a perfect square?"
+          },
+          "options": [
+            { "hi": "$(11b - 4c)^2$", "en": "$(11b - 4c)^2$" },
+            { "hi": "$(11b + 4c)^2$", "en": "$(11b + 4c)^2$" },
+            { "hi": "$(11b - 8c)^2$", "en": "$(11b - 8c)^2$" },
+            { "hi": "$(121b - 16c)^2$", "en": "$(121b - 16c)^2$" }
+          ],
+          "answer": { "hi": "$(11b - 4c)^2$", "en": "$(11b - 4c)^2$" }
+        },
+        {
+          "q": {
+            "hi": "$p^2 + 6p + 8$ के गुणनखंड क्या हैं?",
+            "en": "What are the factors of $p^2 + 6p + 8$?"
+          },
+          "options": [
+            { "hi": "$(p+4)(p+2)$", "en": "$(p+4)(p+2)$" },
+            { "hi": "$(p+8)(p+1)$", "en": "$(p+8)(p+1)$" },
+            { "hi": "$(p-4)(p-2)$", "en": "$(p-4)(p-2)$" },
+            { "hi": "$(p+6)(p+2)$", "en": "$(p+6)(p+2)$" }
+          ],
+          "answer": { "hi": "$(p+4)(p+2)$", "en": "$(p+4)(p+2)$" }
+        },
+        {
+          "q": {
+            "hi": "$q^2 - 10q + 21$ के गुणनखंड क्या हैं?",
+            "en": "What are the factors of $q^2 - 10q + 21$?"
+          },
+          "options": [
+            { "hi": "$(q-7)(q-3)$", "en": "$(q-7)(q-3)$" },
+            { "hi": "$(q+7)(q+3)$", "en": "$(q+7)(q+3)$" },
+            { "hi": "$(q-21)(q-1)$", "en": "$(q-21)(q-1)$" },
+            { "hi": "$(q-5)(q-5)$", "en": "$(q-5)(q-5)$" }
+          ],
+          "answer": { "hi": "$(q-7)(q-3)$", "en": "$(q-7)(q-3)$" }
+        },
+        {
+          "q": {
+            "hi": "$x^2 - x - 6$ के गुणनखंड क्या हैं?",
+            "en": "What are the factors of $x^2 - x - 6$?"
+          },
+          "options": [
+            { "hi": "$(x-3)(x+2)$", "en": "$(x-3)(x+2)$" },
+            { "hi": "$(x+3)(x-2)$", "en": "$(x+3)(x-2)$" },
+            { "hi": "$(x-6)(x+1)$", "en": "$(x-6)(x+1)$" },
+            { "hi": "$(x-1)(x+6)$", "en": "$(x-1)(x+6)$" }
+          ],
+          "answer": { "hi": "$(x-3)(x+2)$", "en": "$(x-3)(x+2)$" }
+        },
+        {
+          "q": {
+            "hi": "($28x^4 \\div 56x$) का मान क्या होगा?",
+            "en": "What will be the value of ($28x^4 \\div 56x$)?"
+          },
+          "options": [
+            { "hi": "$2x^3$", "en": "$2x^3$" },
+            { "hi": "$\\frac{1}{2}x^3$", "en": "$\\frac{1}{2}x^3$" },
+            { "hi": "$x^3$", "en": "$x^3$" },
+            { "hi": "$\\frac{1}{2}x^4$", "en": "$\\frac{1}{2}x^4$" }
+          ],
+          "answer": { "hi": "$\\frac{1}{2}x^3$", "en": "$\\frac{1}{2}x^3$" }
+        },
+        {
+          "q": {
+            "hi": "विभाजन $z(5z^2 - 80) \\div 5z(z + 4)$ को सरल करने पर क्या प्राप्त होगा?",
+            "en": "What is obtained by simplifying $z(5z^2 - 80) \\div 5z(z + 4)$?"
+          },
+          "options": [
+            { "hi": "z - 4", "en": "z - 4" },
+            { "hi": "z + 4", "en": "z + 4" },
+            { "hi": "5(z - 4)", "en": "5(z - 4)" },
+            { "hi": "z - 16", "en": "z - 16" }
+          ],
+          "answer": { "hi": "z - 4", "en": "z - 4" }
+        }
+      ]
     }
   }
 }
