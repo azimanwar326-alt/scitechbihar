@@ -666,661 +666,661 @@
       "section1": [
         {
           "q": {
-            "hi": "समीकरणों में सदैव किस चिह्न का प्रयोग होता है जो व्यंजकों में नहीं होता?",
-            "en": "Which symbol is always used in equations but not in expressions?"
+            "hi": "एक आयत का क्षेत्रफल ज्ञात करने का सूत्र क्या है?",
+            "en": "What is the formula to find the area of a rectangle?"
           },
           "options": [
-            {"hi": "प्लस (+)", "en": "Plus (+)"},
-            {"hi": "माइनस (-)", "en": "Minus (-)"},
-            {"hi": "समता (=)", "en": "Equality (=)"},
-            {"hi": "गुणा (x)", "en": "Multiplication (x)"}
+            {"hi": "लंबाई + चौड़ाई", "en": "Length + Breadth"},
+            {"hi": "लंबाई × चौड़ाई", "en": "Length × Breadth"},
+            {"hi": "2 × (लंबाई + चौड़ाई)", "en": "2 × (Length + Breadth)"},
+            {"hi": "लंबाई ÷ चौड़ाई", "en": "Length ÷ Breadth"}
           ],
-          "answer": {"hi": "समता (=)", "en": "Equality (=)"}
+          "answer": {"hi": "लंबाई × चौड़ाई", "en": "Length × Breadth"}
         },
         {
           "q": {
-            "hi": "रैखिक व्यंजक में चर की अधिकतम घात कितनी होती है?",
-            "en": "What is the maximum power of a variable in a linear expression?"
+            "hi": "किसी पूर्ण संख्या को उचित भिन्न से गुणा करने के लिए पूर्ण संख्या को किसके साथ गुणा किया जाता है?",
+            "en": "To multiply a whole number by a proper fraction, the whole number is multiplied by what?"
           },
           "options": [
-            {"hi": "0", "en": "0"},
-            {"hi": "1", "en": "1"},
-            {"hi": "2", "en": "2"},
-            {"hi": "3", "en": "3"}
+            {"hi": "भिन्न के हर से", "en": "By the denominator of the fraction"},
+            {"hi": "भिन्न के अंश से", "en": "By the numerator of the fraction"},
+            {"hi": "शून्य से", "en": "By zero"},
+            {"hi": "एक से", "en": "By one"}
           ],
-          "answer": {"hi": "1", "en": "1"}
+          "answer": {"hi": "भिन्न के अंश से", "en": "By the numerator of the fraction"}
         },
         {
           "q": {
-            "hi": "इनमें से कौन सा एक रैखिक व्यंजक है?",
-            "en": "Which of these is a linear expression?"
+            "hi": "मिश्रित भिन्न को पूर्ण संख्या से गुणा करने से पहले उसे किसमें परिवर्तित करना चाहिए?",
+            "en": "Into what should a mixed fraction be converted before multiplying it by a whole number?"
           },
           "options": [
-            {"hi": "$x^2 + 1$", "en": "$x^2 + 1$"},
-            {"hi": "$y + y^2$", "en": "$y + y^2$"},
-            {"hi": "$2x + 1$", "en": "$2x + 1$"},
-            {"hi": "$1 + z + z^2$", "en": "$1 + z + z^2$"}
+            {"hi": "उचित भिन्न में", "en": "Into a proper fraction"},
+            {"hi": "विषम भिन्न में", "en": "Into an improper fraction"},
+            {"hi": "दशमलव में", "en": "Into a decimal"},
+            {"hi": "शून्य में", "en": "Into zero"}
           ],
-          "answer": {"hi": "$2x + 1$", "en": "$2x + 1$"}
+          "answer": {"hi": "विषम भिन्न में", "en": "Into an improper fraction"}
         },
         {
           "q": {
-            "hi": "समीकरण के बाईं ओर वाले व्यंजक को क्या कहते हैं?",
-            "en": "What is the expression on the left side of an equation called?"
+            "hi": "भिन्नों के संदर्भ में 'का' (of) शब्द किस गणितीय संक्रिया को दर्शाता है?",
+            "en": "In the context of fractions, what mathematical operation does the word 'of' represent?"
           },
           "options": [
-            {"hi": "दायाँ पक्ष (RHS)", "en": "Right Hand Side (RHS)"},
-            {"hi": "बायाँ पक्ष (LHS)", "en": "Left Hand Side (LHS)"},
-            {"hi": "चर", "en": "Variable"},
-            {"hi": "अचर", "en": "Constant"}
+            {"hi": "योग (Addition)", "en": "Addition"},
+            {"hi": "व्यवकलन (Subtraction)", "en": "Subtraction"},
+            {"hi": "गुणन (Multiplication)", "en": "Multiplication"},
+            {"hi": "विभाजन (Division)", "en": "Division"}
           ],
-          "answer": {"hi": "बायाँ पक्ष (LHS)", "en": "Left Hand Side (LHS)"}
+          "answer": {"hi": "गुणन (Multiplication)", "en": "Multiplication"}
         },
         {
           "q": {
-            "hi": "व्यंजक $2xy + 5$ में कितने चर हैं?",
-            "en": "How many variables are there in the expression $2xy + 5$?"
+            "hi": "यदि $2 \times \frac{1}{4}$ किया जाए, तो परिणाम क्या होगा?",
+            "en": "If $2 \times \frac{1}{4}$ is performed, what will be the result?"
           },
           "options": [
-            {"hi": "एक", "en": "One"},
-            {"hi": "दो", "en": "Two"},
-            {"hi": "तीन", "en": "Three"},
-            {"hi": "कोई नहीं", "en": "None"}
+            {"hi": "$\frac{1}{2}$", "en": "$\frac{1}{2}$"},
+            {"hi": "$\frac{2}{4}$", "en": "$\frac{2}{4}$"},
+            {"hi": "उपर्युक्त दोनों", "en": "Both of the above"},
+            {"hi": "$\frac{4}{2}$", "en": "$\frac{4}{2}$"}
           ],
-          "answer": {"hi": "दो", "en": "Two"}
+          "answer": {"hi": "उपर्युक्त दोनों", "en": "Both of the above"}
         },
         {
           "q": {
-            "hi": "समीकरण $2x - 3 = 7$ का हल क्या है?",
-            "en": "What is the solution to the equation $2x - 3 = 7$?"
-          },
-          "options": [
-            {"hi": "x = 2", "en": "x = 2"},
-            {"hi": "x = 5", "en": "x = 5"},
-            {"hi": "x = 10", "en": "x = 10"},
-            {"hi": "x = 4", "en": "x = 4"}
-          ],
-          "answer": {"hi": "x = 5", "en": "x = 5"}
-        },
-        {
-          "q": {
-            "hi": "चर के वे मान जो समीकरण को संतुष्ट करते हैं, क्या कहलाते हैं?",
-            "en": "The values of the variable that satisfy the equation are called?"
-          },
-          "options": [
-            {"hi": "गुणांक", "en": "Coefficients"},
-            {"hi": "समीकरण का हल", "en": "Solution of the equation"},
-            {"hi": "समता", "en": "Equality"},
-            {"hi": "व्यंजक", "en": "Expression"}
-          ],
-          "answer": {"hi": "समीकरण का हल", "en": "Solution of the equation"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण को हल करते समय हम दोनों पक्षों पर कैसी संक्रियाएँ करते हैं?",
-            "en": "While solving an equation, what kind of operations do we perform on both sides?"
-          },
-          "options": [
-            {"hi": "अलग-अलग", "en": "Different"},
-            {"hi": "एक जैसी", "en": "Same"},
-            {"hi": "केवल गुणा", "en": "Only multiplication"},
-            {"hi": "कोई संक्रिया नहीं", "en": "No operation"}
-          ],
-          "answer": {"hi": "एक जैसी", "en": "Same"}
-        },
-        {
-          "q": {
-            "hi": "एक चर वाले रैखिक समीकरण में चर की संख्या कितनी होती है?",
-            "en": "How many variables are there in a linear equation in one variable?"
-          },
-          "options": [
-            {"hi": "0", "en": "0"},
-            {"hi": "1", "en": "1"},
-            {"hi": "2", "en": "2"},
-            {"hi": "अनेक", "en": "Many"}
-          ],
-          "answer": {"hi": "1", "en": "1"}
-        },
-        {
-          "q": {
-            "hi": "बीजीय समीकरण क्या प्रकट करता है?",
-            "en": "What does an algebraic equation represent?"
-          },
-          "options": [
-            {"hi": "असमता", "en": "Inequality"},
-            {"hi": "चरों में एक समता", "en": "An equality in variables"},
-            {"hi": "केवल संख्याएँ", "en": "Only numbers"},
-            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
-          ],
-          "answer": {"hi": "चरों में एक समता", "en": "An equality in variables"}
-        }
-      ],
-      "section2": [
-        {
-          "q": {
-            "hi": "समीकरण $2x - 3 = x + 2$ को हल करने पर x का मान क्या होगा?",
-            "en": "What is the value of x after solving $2x - 3 = x + 2$?"
-          },
-          "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "3", "en": "3"},
-            {"hi": "5", "en": "5"},
-            {"hi": "-1", "en": "-1"}
-          ],
-          "answer": {"hi": "5", "en": "5"}
-        },
-        {
-          "q": {
-            "hi": "क्या हम समीकरण के दोनों पक्षों से चर वाले पद को घटा सकते हैं?",
-            "en": "Can we subtract a term containing a variable from both sides of an equation?"
-          },
-          "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल अचर को", "en": "Only constants"},
-            {"hi": "परिभाषित नहीं है", "en": "Not defined"}
-          ],
-          "answer": {"hi": "हाँ", "en": "Yes"}
-        },
-        {
-          "q": {
-            "hi": "पक्षांतरण (Transposition) का क्या अर्थ है?",
-            "en": "What does Transposition mean?"
-          },
-          "options": [
-            {"hi": "संख्या को हटाना", "en": "Removing a number"},
-            {"hi": "एक पक्ष से दूसरे पक्ष में पद ले जाना", "en": "Moving a term from one side to the other"},
-            {"hi": "केवल गुणा करना", "en": "Only multiplying"},
-            {"hi": "वर्गमूल निकालना", "en": "Finding square root"}
-          ],
-          "answer": {"hi": "एक पक्ष से दूसरे पक्ष में पद ले जाना", "en": "Moving a term from one side to the other"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण $3x = 2x + 18$ का हल क्या है?",
-            "en": "What is the solution to $3x = 2x + 18$?"
-          },
-          "options": [
-            {"hi": "9", "en": "9"},
-            {"hi": "18", "en": "18"},
-            {"hi": "36", "en": "36"},
-            {"hi": "6", "en": "6"}
-          ],
-          "answer": {"hi": "18", "en": "18"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण $5t - 3 = 3t - 5$ में t का मान ज्ञात कीजिए।",
-            "en": "Find the value of t in the equation $5t - 3 = 3t - 5$."
-          },
-          "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "-1", "en": "-1"},
-            {"hi": "2", "en": "2"},
-            {"hi": "-2", "en": "-2"}
-          ],
-          "answer": {"hi": "-1", "en": "-1"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण $2x - 1 = 14 - x$ का हल क्या है?",
-            "en": "What is the solution to $2x - 1 = 14 - x$?"
+            "hi": "एक कक्षा में 40 विद्यार्थी हैं, जिनमें से $\frac{1}{5}$ अंग्रेजी पसंद करते हैं। अंग्रेजी पसंद करने वालों की संख्या क्या है?",
+            "en": "In a class of 40 students, $\frac{1}{5}$ like English. What is the number of students who like English?"
           },
           "options": [
             {"hi": "5", "en": "5"},
-            {"hi": "15", "en": "15"},
-            {"hi": "3", "en": "3"},
-            {"hi": "13", "en": "13"}
-          ],
-          "answer": {"hi": "5", "en": "5"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण $4z + 3 = 6 + 2z$ में z का मान क्या है?",
-            "en": "What is the value of z in $4z + 3 = 6 + 2z$?"
-          },
-          "options": [
-            {"hi": "1.5", "en": "1.5"},
-            {"hi": "3", "en": "3"},
-            {"hi": "2", "en": "2"},
-            {"hi": "1", "en": "1"}
-          ],
-          "answer": {"hi": "1.5", "en": "1.5"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण $\\frac{6x+1}{3} + 1 = \\frac{x-3}{6}$ को हल करने के लिए दोनों पक्षों को किससे गुणा करना सुविधाजनक है?",
-            "en": "To solve $\\frac{6x+1}{3} + 1 = \\frac{x-3}{6}$, multiplying both sides by what is convenient?"
-          },
-          "options": [
-            {"hi": "3", "en": "3"},
-            {"hi": "6", "en": "6"},
-            {"hi": "9", "en": "9"},
-            {"hi": "18", "en": "18"}
-          ],
-          "answer": {"hi": "6", "en": "6"}
-        },
-        {
-          "q": {
-            "hi": "समीकरणों के हरों के ल.स.प. (LCM) से गुणा करने का उद्देश्य क्या है?",
-            "en": "What is the purpose of multiplying by the LCM of the denominators in equations?"
-          },
-          "options": [
-            {"hi": "संख्या बड़ी करना", "en": "To make numbers larger"},
-            {"hi": "समीकरण को सरल बनाना", "en": "To simplify the equation"},
-            {"hi": "चर हटाना", "en": "To remove the variable"},
-            {"hi": "उत्तर बदलना", "en": "To change the answer"}
-          ],
-          "answer": {"hi": "समीकरण को सरल बनाना", "en": "To simplify the equation"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण $8x + 4 = 3(x - 1) + 7$ का हल क्या है?",
-            "en": "What is the solution to $8x + 4 = 3(x - 1) + 7$?"
-          },
-          "options": [
-            {"hi": "0", "en": "0"},
-            {"hi": "1", "en": "1"},
-            {"hi": "-1", "en": "-1"},
-            {"hi": "4", "en": "4"}
-          ],
-          "answer": {"hi": "0", "en": "0"}
-        }
-      ],
-      "section3": [
-        {
-          "q": {
-            "hi": "समीकरण $x = \\frac{4}{5}(x + 10)$ को हल करने पर x का मान क्या आता है?",
-            "en": "What is the value of x after solving $x = \\frac{4}{5}(x + 10)$?"
-          },
-          "options": [
-            {"hi": "10", "en": "10"},
-            {"hi": "20", "en": "20"},
-            {"hi": "40", "en": "40"},
-            {"hi": "50", "en": "50"}
-          ],
-          "answer": {"hi": "40", "en": "40"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण $3m = 5m - \\frac{8}{5}$ में m का मान क्या है?",
-            "en": "What is the value of m in $3m = 5m - \\frac{8}{5}$?"
-          },
-          "options": [
-            {"hi": "4/5", "en": "4/5"},
-            {"hi": "-4/5", "en": "-4/5"},
-            {"hi": "8/5", "en": "8/5"},
-            {"hi": "2/5", "en": "2/5"}
-          ],
-          "answer": {"hi": "4/5", "en": "4/5"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण $\\frac{x}{2} - \\frac{1}{5} = \\frac{x}{3} + \\frac{1}{4}$ का हल क्या है?",
-            "en": "What is the solution to $\\frac{x}{2} - \\frac{1}{5} = \\frac{x}{3} + \\frac{1}{4}$?"
-          },
-          "options": [
-            {"hi": "27/10", "en": "27/10"},
-            {"hi": "10/27", "en": "10/27"},
-            {"hi": "1", "en": "1"},
-            {"hi": "2", "en": "2"}
-          ],
-          "answer": {"hi": "27/10", "en": "27/10"}
-        },
-        {
-          "q": {
-            "hi": "कोष्ठक हटाने के बाद $5x - 2(2x - 7)$ का सरल रूप क्या होगा?",
-            "en": "What is the simplified form of $5x - 2(2x - 7)$ after removing brackets?"
-          },
-          "options": [
-            {"hi": "$x - 14$", "en": "$x - 14$"},
-            {"hi": "$x + 14$", "en": "$x + 14$"},
-            {"hi": "$9x + 14$", "en": "$9x + 14$"},
-            {"hi": "$x + 7$", "en": "$x + 7$"}
-          ],
-          "answer": {"hi": "$x + 14$", "en": "$x + 14$"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण $0.25(4f - 3) = 0.05(10f - 9)$ में f का मान क्या है?",
-            "en": "What is the value of f in $0.25(4f - 3) = 0.05(10f - 9)$?"
-          },
-          "options": [
-            {"hi": "0.5", "en": "0.5"},
-            {"hi": "0.6", "en": "0.6"},
-            {"hi": "0.75", "en": "0.75"},
-            {"hi": "1", "en": "1"}
-          ],
-          "answer": {"hi": "0.6", "en": "0.6"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण $\\frac{n}{2} - \\frac{3n}{4} + \\frac{5n}{6} = 21$ का हल क्या है?",
-            "en": "What is the solution to $\\frac{n}{2} - \\frac{3n}{4} + \\frac{5n}{6} = 21$?"
-          },
-          "options": [
-            {"hi": "36", "en": "36"},
-            {"hi": "42", "en": "42"},
-            {"hi": "12", "en": "12"},
-            {"hi": "24", "en": "24"}
-          ],
-          "answer": {"hi": "36", "en": "36"}
-        },
-        {
-          "q": {
-            "hi": "यदि बायाँ पक्ष (LHS) = दायाँ पक्ष (RHS) हो, तो इसका क्या अर्थ है?",
-            "en": "If LHS = RHS, what does it mean?"
-          },
-          "options": [
-            {"hi": "समीकरण गलत है", "en": "Equation is wrong"},
-            {"hi": "उत्तर सही है", "en": "The answer is correct"},
-            {"hi": "चर शून्य है", "en": "Variable is zero"},
-            {"hi": "पक्षांतरण की आवश्यकता है", "en": "Transposition is needed"}
-          ],
-          "answer": {"hi": "उत्तर सही है", "en": "The answer is correct"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण $\\frac{x-5}{3} = \\frac{x-3}{5}$ में x का मान क्या है?",
-            "en": "What is the value of x in $\\frac{x-5}{3} = \\frac{x-3}{5}$?"
-          },
-          "options": [
             {"hi": "8", "en": "8"},
             {"hi": "10", "en": "10"},
-            {"hi": "12", "en": "12"},
-            {"hi": "4", "en": "4"}
+            {"hi": "20", "en": "20"}
           ],
           "answer": {"hi": "8", "en": "8"}
         },
         {
           "q": {
-            "hi": "समीकरण $3(t - 3) = 5(2t + 1)$ का हल क्या है?",
-            "en": "What is the solution to $3(t - 3) = 5(2t + 1)$?"
+            "hi": "$3 \times \frac{1}{2}$ का मान क्या है?",
+            "en": "What is the value of $3 \times \frac{1}{2}$?"
           },
           "options": [
-            {"hi": "-2", "en": "-2"},
-            {"hi": "2", "en": "2"},
-            {"hi": "-1", "en": "-1"},
-            {"hi": "0", "en": "0"}
+            {"hi": "$\frac{3}{2}$", "en": "$\frac{3}{2}$"},
+            {"hi": "$1 \frac{1}{2}$", "en": "$1 \frac{1}{2}$"},
+            {"hi": "दोनों (a) और (b)", "en": "Both (a) and (b)"},
+            {"hi": "$\frac{1}{6}$", "en": "$\frac{1}{6}$"}
           ],
-          "answer": {"hi": "-2", "en": "-2"}
+          "answer": {"hi": "दोनों (a) और (b)", "en": "Both (a) and (b)"}
         },
         {
           "q": {
-            "hi": "संख्याओं और आयु पर आधारित समस्याओं को कैसे हल किया जा सकता है?",
-            "en": "How can problems based on numbers and age be solved?"
+            "hi": "किसी संख्या का आधा ($\frac{1}{2}$) भाग निकालने के लिए उसे किससे गुणा करना होगा?",
+            "en": "To find half ($\frac{1}{2}$) of a number, by what should it be multiplied?"
           },
           "options": [
-            {"hi": "केवल अनुमान लगाकर", "en": "By only guessing"},
-            {"hi": "रैखिक समीकरणों का उपयोग करके", "en": "By using linear equations"},
-            {"hi": "ग्राफ बनाकर", "en": "By making graphs"},
-            {"hi": "हल नहीं किया जा सकता", "en": "Cannot be solved"}
+            {"hi": "$\frac{1}{2}$", "en": "$\frac{1}{2}$"},
+            {"hi": "2", "en": "2"},
+            {"hi": "1", "en": "1"},
+            {"hi": "0", "en": "0"}
           ],
-          "answer": {"hi": "रैखिक समीकरणों का उपयोग करके", "en": "By using linear equations"}
+          "answer": {"hi": "$\frac{1}{2}$", "en": "$\frac{1}{2}$"}
+        },
+        {
+          "q": {
+            "hi": "यदि फरीदा के पास 20 कँचे हैं और रेशमा के पास उसके $\frac{1}{5}$ कँचे हैं, तो रेशमा के कँचे कितने हैं?",
+            "en": "If Farida has 20 marbles and Reshma has $\frac{1}{5}$ of them, how many marbles does Reshma have?"
+          },
+          "options": [
+            {"hi": "4", "en": "4"},
+            {"hi": "5", "en": "5"},
+            {"hi": "15", "en": "15"},
+            {"hi": "10", "en": "10"}
+          ],
+          "answer": {"hi": "4", "en": "4"}
+        },
+        {
+          "q": {
+            "hi": "$\frac{2}{3} \times 5$ का मान क्या होगा?",
+            "en": "What will be the value of $\frac{2}{3} \times 5$?"
+          },
+          "options": [
+            {"hi": "$\frac{10}{3}$", "en": "$\frac{10}{3}$"},
+            {"hi": "$3 \frac{1}{3}$", "en": "$3 \frac{1}{3}$"},
+            {"hi": "$\frac{7}{3}$", "en": "$\frac{7}{3}$"},
+            {"hi": "दोनों (a) और (b)", "en": "Both (a) and (b)"}
+          ],
+          "answer": {"hi": "दोनों (a) और (b)", "en": "Both (a) and (b)"}
+        }
+      ],
+      "section2": [
+        {
+          "q": {
+            "hi": "दो भिन्नों का गुणनफल ज्ञात करने का सही तरीका क्या है?",
+            "en": "What is the correct way to find the product of two fractions?"
+          },
+          "options": [
+            {"hi": "अंशों का योग / हरों का योग", "en": "Sum of Numerators / Sum of Denominators"},
+            {"hi": "अंशों का गुणनफल / हरों का गुणनफल", "en": "Product of Numerators / Product of Denominators"},
+            {"hi": "तिरछा गुणनफल (Cross multiplication)", "en": "Cross multiplication"},
+            {"hi": "अंशों का गुणनफल / हरों का योग", "en": "Product of Numerators / Sum of Denominators"}
+          ],
+          "answer": {"hi": "अंशों का गुणनफल / हरों का गुणनफल", "en": "Product of Numerators / Product of Denominators"}
+        },
+        {
+          "q": {
+            "hi": "जब दो उचित भिन्नों (Proper fractions) को गुणा किया जाता है, तो गुणनफल क्या होता है?",
+            "en": "When two proper fractions are multiplied, what is the product?"
+          },
+          "options": [
+            {"hi": "दोनों भिन्नों से बड़ा", "en": "Larger than both fractions"},
+            {"hi": "दोनों भिन्नों से छोटा", "en": "Smaller than both fractions"},
+            {"hi": "हमेशा 1 के बराबर", "en": "Always equal to 1"},
+            {"hi": "हमेशा 0", "en": "Always 0"}
+          ],
+          "answer": {"hi": "दोनों भिन्नों से छोटा", "en": "Smaller than both fractions"}
+        },
+        {
+          "q": {
+            "hi": "दो विषम भिन्नों (Improper fractions) का गुणनफल उन भिन्नों से:",
+            "en": "The product of two improper fractions is __________ compared to those fractions:"
+          },
+          "options": [
+            {"hi": "छोटा होता है", "en": "Smaller"},
+            {"hi": "बड़ा होता है", "en": "Larger"},
+            {"hi": "बराबर होता है", "en": "Equal"},
+            {"hi": "शून्य होता है", "en": "Zero"}
+          ],
+          "answer": {"hi": "बड़ा होता है", "en": "Larger"}
+        },
+        {
+          "q": {
+            "hi": "$\frac{1}{2} \times \frac{5}{3}$ का मान क्या है?",
+            "en": "What is the value of $\frac{1}{2} \times \frac{5}{3}$?"
+          },
+          "options": [
+            {"hi": "$\frac{6}{5}$", "en": "$\frac{6}{5}$"},
+            {"hi": "$\frac{5}{6}$", "en": "$\frac{5}{6}$"},
+            {"hi": "$\frac{5}{5}$", "en": "$\frac{5}{5}$"},
+            {"hi": "$\frac{1}{3}$", "en": "$\frac{1}{3}$"}
+          ],
+          "answer": {"hi": "$\frac{5}{6}$", "en": "$\frac{5}{6}$"}
+        },
+        {
+          "q": {
+            "hi": "एक उचित और एक विषम भिन्न का गुणनफल:",
+            "en": "The product of a proper and an improper fraction is:"
+          },
+          "options": [
+            {"hi": "विषम भिन्न से बड़ा होता है", "en": "Greater than the improper fraction"},
+            {"hi": "विषम भिन्न से कम और उचित भिन्न से बड़ा होता है", "en": "Less than the improper and greater than the proper fraction"},
+            {"hi": "उचित भिन्न से कम होता है", "en": "Less than the proper fraction"},
+            {"hi": "हमेशा 1 होता है", "en": "Always 1"}
+          ],
+          "answer": {"hi": "विषम भिन्न से कम और उचित भिन्न से बड़ा होता है", "en": "Less than the improper and greater than the proper fraction"}
+        },
+        {
+          "q": {
+            "hi": "सुशांत 1 घंटे में $\frac{1}{3}$ पुस्तक पढ़ता है, तो $2 \frac{1}{5}$ घंटे में कितना पढ़ेगा?",
+            "en": "Sushant reads $\frac{1}{3}$ of a book in 1 hour, how much will he read in $2 \frac{1}{5}$ hours?"
+          },
+          "options": [
+            {"hi": "$\frac{11}{15}$", "en": "$\frac{11}{15}$"},
+            {"hi": "$\frac{3}{11}$", "en": "$\frac{3}{11}$"},
+            {"hi": "$\frac{15}{11}$", "en": "$\frac{15}{11}$"},
+            {"hi": "$\frac{1}{15}$", "en": "$\frac{1}{15}$"}
+          ],
+          "answer": {"hi": "$\frac{11}{15}$", "en": "$\frac{11}{15}$"}
+        },
+        {
+          "q": {
+            "hi": "$\frac{2}{3} \times \frac{4}{5}$ का मान क्या है?",
+            "en": "What is the value of $\frac{2}{3} \times \frac{4}{5}$?"
+          },
+          "options": [
+            {"hi": "$\frac{6}{8}$", "en": "$\frac{6}{8}$"},
+            {"hi": "$\frac{8}{15}$", "en": "$\frac{8}{15}$"},
+            {"hi": "$\frac{15}{8}$", "en": "$\frac{15}{8}$"},
+            {"hi": "$\frac{10}{12}$", "en": "$\frac{10}{12}$"}
+          ],
+          "answer": {"hi": "$\frac{8}{15}$", "en": "$\frac{8}{15}$"}
+        },
+        {
+          "q": {
+            "hi": "एक कार 1 लीटर में 16 किमी चलती है, तो $2 \frac{3}{4}$ लीटर में कितनी दूरी तय करेगी?",
+            "en": "A car runs 16 km in 1 litre, how much distance will it cover in $2 \frac{3}{4}$ litres?"
+          },
+          "options": [
+            {"hi": "32 किमी", "en": "32 km"},
+            {"hi": "44 किमी", "en": "44 km"},
+            {"hi": "40 किमी", "en": "40 km"},
+            {"hi": "48 किमी", "en": "48 km"}
+          ],
+          "answer": {"hi": "44 किमी", "en": "44 km"}
+        },
+        {
+          "q": {
+            "hi": "$\frac{2}{3} \times \\dots = \frac{10}{30}$ में रिक्त स्थान में क्या आएगा?",
+            "en": "What will come in the blank for $\frac{2}{3} \times \\dots = \frac{10}{30}$?"
+          },
+          "options": [
+            {"hi": "$\frac{5}{10}$", "en": "$\frac{5}{10}$"},
+            {"hi": "$\frac{10}{5}$", "en": "$\frac{10}{5}$"},
+            {"hi": "$\frac{2}{3}$", "en": "$\frac{2}{3}$"},
+            {"hi": "$\frac{1}{2}$", "en": "$\frac{1}{2}$"}
+          ],
+          "answer": {"hi": "$\frac{5}{10}$", "en": "$\frac{5}{10}$"}
+        },
+        {
+          "q": {
+            "hi": "लिपिका एक पुस्तक प्रतिदिन $1 \frac{3}{4}$ घंटे पढ़ती है और 6 दिनों में पूरी करती है। कुल कितने घंटे लगे?",
+            "en": "Lipika reads a book $1 \frac{3}{4}$ hours daily and finishes in 6 days. Total hours spent?"
+          },
+          "options": [
+            {"hi": "7 घंटे", "en": "7 hours"},
+            {"hi": "$10 \frac{1}{2}$ घंटे", "en": "$10 \frac{1}{2}$ hours"},
+            {"hi": "12 घंटे", "en": "12 hours"},
+            {"hi": "8 घंटे", "en": "8 hours"}
+          ],
+          "answer": {"hi": "$10 \frac{1}{2}$ घंटे", "en": "$10 \frac{1}{2}$ hours"}
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "किसी संख्या और उसके व्युत्क्रम (Reciprocal) का गुणनफल क्या होता है?",
+            "en": "What is the product of a number and its reciprocal?"
+          },
+          "options": [
+            {"hi": "0", "en": "0"},
+            {"hi": "1", "en": "1"},
+            {"hi": "वही संख्या", "en": "The same number"},
+            {"hi": "परिभाषित नहीं", "en": "Not defined"}
+          ],
+          "answer": {"hi": "1", "en": "1"}
+        },
+        {
+          "q": {
+            "hi": "$\frac{5}{9}$ का व्युत्क्रम क्या है?",
+            "en": "What is the reciprocal of $\frac{5}{9}$?"
+          },
+          "options": [
+            {"hi": "$\frac{5}{9}$", "en": "$\frac{5}{9}$"},
+            {"hi": "$\frac{9}{5}$", "en": "$\frac{9}{5}$"},
+            {"hi": "1", "en": "1"},
+            {"hi": "0", "en": "0"}
+          ],
+          "answer": {"hi": "$\frac{9}{5}$", "en": "$\frac{9}{5}$"}
+        },
+        {
+          "q": {
+            "hi": "किसी पूर्ण संख्या को भिन्न से भाग देने के लिए क्या किया जाता है?",
+            "en": "What is done to divide a whole number by a fraction?"
+          },
+          "options": [
+            {"hi": "पूर्ण संख्या को भिन्न से गुणा करना", "en": "Multiply the whole number by the fraction"},
+            {"hi": "पूर्ण संख्या को भिन्न के व्युत्क्रम से गुणा करना", "en": "Multiply the whole number by the reciprocal of the fraction"},
+            {"hi": "अंश को हर से जोड़ना", "en": "Add numerator to denominator"},
+            {"hi": "शून्य से भाग देना", "en": "Divide by zero"}
+          ],
+          "answer": {"hi": "पूर्ण संख्या को भिन्न के व्युत्क्रम से गुणा करना", "en": "Multiply the whole number by the reciprocal of the fraction"}
+        },
+        {
+          "q": {
+            "hi": "क्या उचित भिन्न का व्युत्क्रम भी एक उचित भिन्न होता है?",
+            "en": "Is the reciprocal of a proper fraction also a proper fraction?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं (वह विषम भिन्न होगा)", "en": "No (it will be an improper fraction)"},
+            {"hi": "कभी-कभी", "en": "Sometimes"},
+            {"hi": "केवल 1 के लिए", "en": "Only for 1"}
+          ],
+          "answer": {"hi": "नहीं (वह विषम भिन्न होगा)", "en": "No (it will be an improper fraction)"}
+        },
+        {
+          "q": {
+            "hi": "$1 \\div \frac{1}{2}$ का मान क्या है?",
+            "en": "What is the value of $1 \\div \frac{1}{2}$?"
+          },
+          "options": [
+            {"hi": "$\frac{1}{2}$", "en": "$\frac{1}{2}$"},
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "0", "en": "0"}
+          ],
+          "answer": {"hi": "2", "en": "2"}
+        },
+        {
+          "q": {
+            "hi": "$3 \\div \frac{1}{4}$ का मान क्या होगा?",
+            "en": "What will be the value of $3 \\div \frac{1}{4}$?"
+          },
+          "options": [
+            {"hi": "$\frac{3}{4}$", "en": "$\frac{3}{4}$"},
+            {"hi": "12", "en": "12"},
+            {"hi": "7", "en": "7"},
+            {"hi": "$\frac{4}{3}$", "en": "$\frac{4}{3}$"}
+          ],
+          "answer": {"hi": "12", "en": "12"}
+        },
+        {
+          "q": {
+            "hi": "$\frac{7}{3} \\div 2$ का मान ज्ञात कीजिए:",
+            "en": "Find the value of $\frac{7}{3} \\div 2$:"
+          },
+          "options": [
+            {"hi": "$\frac{14}{3}$", "en": "$\frac{14}{3}$"},
+            {"hi": "$\frac{7}{6}$", "en": "$\frac{7}{6}$"},
+            {"hi": "$\frac{6}{7}$", "en": "$\frac{6}{7}$"},
+            {"hi": "$\frac{7}{2}$", "en": "$\frac{7}{2}$"}
+          ],
+          "answer": {"hi": "$\frac{7}{6}$", "en": "$\frac{7}{6}$"}
+        },
+        {
+          "q": {
+            "hi": "मिश्रित भिन्न $2 \frac{2}{3}$ को 5 से भाग देने पर क्या प्राप्त होगा?",
+            "en": "What will be obtained by dividing mixed fraction $2 \frac{2}{3}$ by 5?"
+          },
+          "options": [
+            {"hi": "$\frac{8}{15}$", "en": "$\frac{8}{15}$"},
+            {"hi": "$\frac{15}{8}$", "en": "$\frac{15}{8}$"},
+            {"hi": "$\frac{10}{3}$", "en": "$\frac{10}{3}$"},
+            {"hi": "$\frac{4}{15}$", "en": "$\frac{4}{15}$"}
+          ],
+          "answer": {"hi": "$\frac{8}{15}$", "en": "$\frac{8}{15}$"}
+        },
+        {
+          "q": {
+            "hi": "एक भिन्न को दूसरी भिन्न से भाग देने के लिए पहली भिन्न को दूसरी भिन्न के __________ से गुणा करते हैं।",
+            "en": "To divide one fraction by another, multiply the first fraction by the __________ of the second."
+          },
+          "options": [
+            {"hi": "योग", "en": "Sum"},
+            {"hi": "अंतर", "en": "Difference"},
+            {"hi": "व्युत्क्रम", "en": "Reciprocal"},
+            {"hi": "अंश", "en": "Numerator"}
+          ],
+          "answer": {"hi": "व्युत्क्रम", "en": "Reciprocal"}
+        },
+        {
+          "q": {
+            "hi": "$\frac{1}{3} \\div \frac{6}{5}$ का मान क्या है?",
+            "en": "What is the value of $\frac{1}{3} \\div \frac{6}{5}$?"
+          },
+          "options": [
+            {"hi": "$\frac{6}{15}$", "en": "$\frac{6}{15}$"},
+            {"hi": "$\frac{5}{18}$", "en": "$\frac{5}{18}$"},
+            {"hi": "$\frac{18}{5}$", "en": "$\frac{18}{5}$"},
+            {"hi": "$\frac{2}{15}$", "en": "$\frac{2}{15}$"}
+          ],
+          "answer": {"hi": "$\frac{5}{18}$", "en": "$\frac{5}{18}$"}
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "समीकरण $\\frac{2x}{3} + 1 = \\frac{7x}{15} + 3$ में x का मान क्या है?",
-            "en": "What is the value of x in $\\frac{2x}{3} + 1 = \\frac{7x}{15} + 3$?"
+            "hi": "$0.1 \times 0.1$ का मान क्या है?",
+            "en": "What is the value of $0.1 \times 0.1$?"
           },
           "options": [
-            {"hi": "5", "en": "5"},
-            {"hi": "10", "en": "10"},
-            {"hi": "15", "en": "15"},
-            {"hi": "20", "en": "20"}
+            {"hi": "0.1", "en": "0.1"},
+            {"hi": "0.01", "en": "0.01"},
+            {"hi": "0.11", "en": "0.11"},
+            {"hi": "1.0", "en": "1.0"}
           ],
-          "answer": {"hi": "10", "en": "10"}
+          "answer": {"hi": "0.01", "en": "0.01"}
         },
         {
           "q": {
-            "hi": "समीकरण $2y + \\frac{5}{3} = \\frac{26}{3} - y$ में y का मान क्या है?",
-            "en": "What is the value of y in $2y + \\frac{5}{3} = \\frac{26}{3} - y$?"
+            "hi": "$0.2 \times 0.3$ का परिणाम क्या होगा?",
+            "en": "What will be the result of $0.2 \times 0.3$?"
           },
           "options": [
-            {"hi": "7/3", "en": "7/3"},
-            {"hi": "3/7", "en": "3/7"},
+            {"hi": "0.6", "en": "0.6"},
+            {"hi": "0.06", "en": "0.06"},
+            {"hi": "6.0", "en": "6.0"},
+            {"hi": "0.006", "en": "0.006"}
+          ],
+          "answer": {"hi": "0.06", "en": "0.06"}
+        },
+        {
+          "q": {
+            "hi": "जब किसी दशमलव संख्या को 10 से गुणा किया जाता है, तो दशमलव बिंदु किस ओर खिसकता है?",
+            "en": "When a decimal number is multiplied by 10, which way does the decimal point shift?"
+          },
+          "options": [
+            {"hi": "बाईं ओर 1 स्थान", "en": "Left by 1 place"},
+            {"hi": "दाईं ओर 1 स्थान", "en": "Right by 1 place"},
+            {"hi": "दाईं ओर 2 स्थान", "en": "Right by 2 places"},
+            {"hi": "कहीं नहीं", "en": "Nowhere"}
+          ],
+          "answer": {"hi": "दाईं ओर 1 स्थान", "en": "Right by 1 place"}
+        },
+        {
+          "q": {
+            "hi": "$1.76 \times 100$ का मान क्या है?",
+            "en": "What is the value of $1.76 \times 100$?"
+          },
+          "options": [
+            {"hi": "17.6", "en": "17.6"},
+            {"hi": "176", "en": "176"},
+            {"hi": "0.176", "en": "0.176"},
+            {"hi": "1760", "en": "1760"}
+          ],
+          "answer": {"hi": "176", "en": "176"}
+        },
+        {
+          "q": {
+            "hi": "एक समबाहु त्रिभुज की भुजा 3.5 सेमी है, उसका परिमाप क्या होगा?",
+            "en": "A side of an equilateral triangle is 3.5 cm, what is its perimeter?"
+          },
+          "options": [
+            {"hi": "7.0 सेमी", "en": "7.0 cm"},
+            {"hi": "10.5 सेमी", "en": "10.5 cm"},
+            {"hi": "12.25 सेमी", "en": "12.25 cm"},
+            {"hi": "14.0 सेमी", "en": "14.0 cm"}
+          ],
+          "answer": {"hi": "10.5 सेमी", "en": "10.5 cm"}
+        },
+        {
+          "q": {
+            "hi": "आयत का क्षेत्रफल ज्ञात कीजिए जिसकी लंबाई 5.7 सेमी और चौड़ाई 3 सेमी है।",
+            "en": "Find the area of a rectangle with length 5.7 cm and breadth 3 cm."
+          },
+          "options": [
+            {"hi": "17.1 वर्ग सेमी", "en": "17.1 sq cm"},
+            {"hi": "15.1 वर्ग सेमी", "en": "15.1 sq cm"},
+            {"hi": "8.7 वर्ग सेमी", "en": "8.7 sq cm"},
+            {"hi": "17.4 वर्ग सेमी", "en": "17.4 sq cm"}
+          ],
+          "answer": {"hi": "17.1 वर्ग सेमी", "en": "17.1 sq cm"}
+        },
+        {
+          "q": {
+            "hi": "$0.05 \times 7$ का मान क्या है?",
+            "en": "What is the value of $0.05 \times 7$?"
+          },
+          "options": [
+            {"hi": "3.5", "en": "3.5"},
+            {"hi": "0.35", "en": "0.35"},
+            {"hi": "0.035", "en": "0.035"},
+            {"hi": "35", "en": "35"}
+          ],
+          "answer": {"hi": "0.35", "en": "0.35"}
+        },
+        {
+          "q": {
+            "hi": "$1.2 \times 2.5$ का गुणनफल है:",
+            "en": "The product of $1.2 \times 2.5$ is:"
+          },
+          "options": [
+            {"hi": "30", "en": "30"},
+            {"hi": "3.0", "en": "3.0"},
+            {"hi": "0.3", "en": "0.3"},
+            {"hi": "300", "en": "300"}
+          ],
+          "answer": {"hi": "3.0", "en": "3.0"}
+        },
+        {
+          "q": {
+            "hi": "यदि किसी संख्या को 1000 से गुणा करें, तो दशमलव बिंदु दाईं ओर कितने स्थान खिसकेगा?",
+            "en": "If a number is multiplied by 1000, how many places will the decimal point shift to the right?"
+          },
+          "options": [
             {"hi": "1", "en": "1"},
-            {"hi": "2", "en": "2"}
-          ],
-          "answer": {"hi": "7/3", "en": "7/3"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण $x + 7 - \\frac{8x}{3} = \\frac{17}{6} - \\frac{5x}{2}$ का हल क्या है?",
-            "en": "What is the solution to $x + 7 - \\frac{8x}{3} = \\frac{17}{6} - \\frac{5x}{2}$?"
-          },
-          "options": [
-            {"hi": "-5", "en": "-5"},
-            {"hi": "5", "en": "5"},
-            {"hi": "1", "en": "1"},
-            {"hi": "-1", "en": "-1"}
-          ],
-          "answer": {"hi": "-5", "en": "-5"}
-        },
-        {
-          "q": {
-            "hi": "क्या रैखिक समीकरण बनाने वाले व्यंजक में एक से अधिक चर हो सकते हैं?",
-            "en": "Can the expression forming a linear equation have more than one variable?"
-          },
-          "options": [
-            {"hi": "हाँ, हमेशा", "en": "Yes, always"},
-            {"hi": "नहीं, केवल एक ही चर", "en": "No, only one variable"},
-            {"hi": "कभी-कभी", "en": "Sometimes"},
-            {"hi": "शून्य चर", "en": "Zero variables"}
-          ],
-          "answer": {"hi": "नहीं, केवल एक ही चर", "en": "No, only one variable"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण $15(y - 4) - 2(y - 9) + 5(y + 6) = 0$ में y का मान क्या है?",
-            "en": "What is the value of y in $15(y - 4) - 2(y - 9) + 5(y + 6) = 0$?"
-          },
-          "options": [
-            {"hi": "2/3", "en": "2/3"},
-            {"hi": "3/2", "en": "3/2"},
-            {"hi": "1", "en": "1"},
-            {"hi": "0", "en": "0"}
-          ],
-          "answer": {"hi": "2/3", "en": "2/3"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण हल करने का मुख्य लक्ष्य क्या होता है?",
-            "en": "What is the main goal of solving an equation?"
-          },
-          "options": [
-            {"hi": "बाएँ पक्ष को शून्य करना", "en": "Making LHS zero"},
-            {"hi": "चर का मान ज्ञात करना", "en": "Finding the value of the variable"},
-            {"hi": "दाएँ पक्ष को शून्य करना", "en": "Making RHS zero"},
-            {"hi": "चर को हटाना", "en": "Removing the variable"}
-          ],
-          "answer": {"hi": "चर का मान ज्ञात करना", "en": "Finding the value of the variable"}
-        },
-        {
-          "q": {
-            "hi": "रैखिक समीकरणों की उपयोगिता किन क्षेत्रों में है?",
-            "en": "In which areas are linear equations useful?"
-          },
-          "options": [
-            {"hi": "आयु की गणना", "en": "Age calculation"},
-            {"hi": "परिमाप ज्ञात करना", "en": "Finding perimeter"},
-            {"hi": "मुद्रा संबंधी समस्याएँ", "en": "Currency related problems"},
-            {"hi": "उपरोक्त सभी", "en": "All of the above"}
-          ],
-          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
-        },
-        {
-          "q": {
-            "hi": "एक संतुलित तुला के समान समीकरण के दोनों पक्षों पर कैसी संक्रिया करनी चाहिए?",
-            "en": "Like a balanced scale, what operation should be performed on both sides of an equation?"
-          },
-          "options": [
-            {"hi": "एक जैसी", "en": "Identical"},
-            {"hi": "विपरीत", "en": "Opposite"},
-            {"hi": "कोई भी", "en": "Any"},
-            {"hi": "केवल जोड़ना", "en": "Only addition"}
-          ],
-          "answer": {"hi": "एक जैसी", "en": "Identical"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण $m - \\frac{m-1}{2} = 1 - \\frac{m-2}{3}$ में m का मान क्या है?",
-            "en": "What is the value of m in $m - \\frac{m-1}{2} = 1 - \\frac{m-2}{3}$?"
-          },
-          "options": [
-            {"hi": "7/5", "en": "7/5"},
-            {"hi": "5/7", "en": "5/7"},
-            {"hi": "1.2", "en": "1.2"},
-            {"hi": "1", "en": "1"}
-          ],
-          "answer": {"hi": "7/5", "en": "7/5"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण $\\frac{3t-2}{4} - \\frac{2t+3}{3} = \\frac{2}{3} - t$ का हल क्या है?",
-            "en": "What is the solution to $\\frac{3t-2}{4} - \\frac{2t+3}{3} = \\frac{2}{3} - t$?"
-          },
-          "options": [
             {"hi": "2", "en": "2"},
-            {"hi": "-2", "en": "-2"},
-            {"hi": "1", "en": "1"},
-            {"hi": "0", "en": "0"}
+            {"hi": "3", "en": "3"},
+            {"hi": "4", "en": "4"}
           ],
-          "answer": {"hi": "2", "en": "2"}
+          "answer": {"hi": "3", "en": "3"}
+        },
+        {
+          "q": {
+            "hi": "दुपहिया वाहन 1 लीटर पेट्रोल में 55.3 किमी चलता है, तो 10 लीटर में कितना चलेगा?",
+            "en": "A two-wheeler covers 55.3 km in 1 litre, how far will it go in 10 litres?"
+          },
+          "options": [
+            {"hi": "5.53 किमी", "en": "5.53 km"},
+            {"hi": "553 किमी", "en": "553 km"},
+            {"hi": "5530 किमी", "en": "5530 km"},
+            {"hi": "55.3 किमी", "en": "55.3 km"}
+          ],
+          "answer": {"hi": "553 किमी", "en": "553 km"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "प्रायः समीकरण को हल करने से पहले उसे क्या किया जाता है?",
-            "en": "What is usually done to an equation before solving it?"
+            "hi": "$31.5 \\div 10$ का मान क्या है?",
+            "en": "What is the value of $31.5 \\div 10$?"
           },
           "options": [
-            {"hi": "बड़ा बनाया जाता है", "en": "Made larger"},
-            {"hi": "सरल बनाया जाता है", "en": "Simplified"},
-            {"hi": "मिटा दिया जाता है", "en": "Erased"},
-            {"hi": "उसी रूप में छोड़ा जाता है", "en": "Left as it is"}
+            {"hi": "315", "en": "315"},
+            {"hi": "3.15", "en": "3.15"},
+            {"hi": "0.315", "en": "0.315"},
+            {"hi": "31.5", "en": "31.5"}
           ],
-          "answer": {"hi": "सरल बनाया जाता है", "en": "Simplified"}
+          "answer": {"hi": "3.15", "en": "3.15"}
         },
         {
           "q": {
-            "hi": "समीकरण $3(5z - 7) - 2(9z - 11) = 4(8z - 13) - 17$ में z का मान क्या है?",
-            "en": "What is the value of z in $3(5z - 7) - 2(9z - 11) = 4(8z - 13) - 17$?"
+            "hi": "दशमलव संख्या को 100 से भाग देने पर दशमलव बिंदु किस ओर और कितने स्थान खिसकता है?",
+            "en": "When dividing a decimal by 100, which way and by how many places does the decimal point shift?"
           },
           "options": [
-            {"hi": "1", "en": "1"},
+            {"hi": "दाईं ओर 2 स्थान", "en": "Right by 2 places"},
+            {"hi": "बाईं ओर 1 स्थान", "en": "Left by 1 place"},
+            {"hi": "बाईं ओर 2 स्थान", "en": "Left by 2 places"},
+            {"hi": "कहीं नहीं खिसकता", "en": "Does not shift"}
+          ],
+          "answer": {"hi": "बाईं ओर 2 स्थान", "en": "Left by 2 places"}
+        },
+        {
+          "q": {
+            "hi": "$6.4 \\div 2$ का मान ज्ञात कीजिए:",
+            "en": "Find the value of $6.4 \\div 2$:"
+          },
+          "options": [
+            {"hi": "3.2", "en": "3.2"},
+            {"hi": "32", "en": "32"},
+            {"hi": "0.32", "en": "0.32"},
+            {"hi": "12.8", "en": "12.8"}
+          ],
+          "answer": {"hi": "3.2", "en": "3.2"}
+        },
+        {
+          "q": {
+            "hi": "4.2, 3.8 और 7.6 का औसत क्या होगा?",
+            "en": "What is the average of 4.2, 3.8 and 7.6?"
+          },
+          "options": [
+            {"hi": "5.0", "en": "5.0"},
+            {"hi": "5.2", "en": "5.2"},
+            {"hi": "15.6", "en": "15.6"},
+            {"hi": "4.5", "en": "4.5"}
+          ],
+          "answer": {"hi": "5.2", "en": "5.2"}
+        },
+        {
+          "q": {
+            "hi": "$25.5 \\div 0.5$ का मान क्या है?",
+            "en": "What is the value of $25.5 \\div 0.5$?"
+          },
+          "options": [
+            {"hi": "5.1", "en": "5.1"},
+            {"hi": "51", "en": "51"},
+            {"hi": "510", "en": "510"},
+            {"hi": "0.51", "en": "0.51"}
+          ],
+          "answer": {"hi": "51", "en": "51"}
+        },
+        {
+          "q": {
+            "hi": "बहुभुज का परिमाप 12.5 सेमी है और प्रत्येक भुजा 2.5 सेमी है। भुजाओं की संख्या क्या है?",
+            "en": "Perimeter of polygon is 12.5 cm and each side is 2.5 cm. Number of sides?"
+          },
+          "options": [
+            {"hi": "3", "en": "3"},
+            {"hi": "4", "en": "4"},
+            {"hi": "5", "en": "5"},
+            {"hi": "6", "en": "6"}
+          ],
+          "answer": {"hi": "5", "en": "5"}
+        },
+        {
+          "q": {
+            "hi": "कार 2.2 घंटे में 89.1 किमी चलती है। 1 घंटे में औसत दूरी क्या है?",
+            "en": "Car covers 89.1 km in 2.2 hours. Average distance in 1 hour?"
+          },
+          "options": [
+            {"hi": "40.5 किमी", "en": "40.5 km"},
+            {"hi": "4.05 किमी", "en": "4.05 km"},
+            {"hi": "45 किमी", "en": "45 km"},
+            {"hi": "89.1 किमी", "en": "89.1 km"}
+          ],
+          "answer": {"hi": "40.5 किमी", "en": "40.5 km"}
+        },
+        {
+          "q": {
+            "hi": "$0.5 \\div 0.25$ का मान है:",
+            "en": "The value of $0.5 \\div 0.25$ is:"
+          },
+          "options": [
+            {"hi": "0.2", "en": "0.2"},
             {"hi": "2", "en": "2"},
-            {"hi": "-1", "en": "-1"},
-            {"hi": "0", "en": "0"}
+            {"hi": "20", "en": "20"},
+            {"hi": "0.02", "en": "0.02"}
           ],
           "answer": {"hi": "2", "en": "2"}
         },
         {
           "q": {
-            "hi": "क्या रैखिक समीकरण बनाने वाले चर की घात 2 हो सकती है?",
-            "en": "Can the power of a variable in a linear equation be 2?"
+            "hi": "$7 \\div 3.5$ का मान क्या होगा?",
+            "en": "What will be the value of $7 \\div 3.5$?"
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल विशेष परिस्थितियों में", "en": "Only in special cases"},
-            {"hi": "निश्चित नहीं", "en": "Not certain"}
+            {"hi": "2", "en": "2"},
+            {"hi": "20", "en": "20"},
+            {"hi": "0.2", "en": "0.2"},
+            {"hi": "2.5", "en": "2.5"}
           ],
-          "answer": {"hi": "नहीं", "en": "No"}
+          "answer": {"hi": "2", "en": "2"}
         },
         {
           "q": {
-            "hi": "समीकरण $5x + \\frac{7}{2} = \\frac{3}{2}x - 14$ में x का मान क्या है?",
-            "en": "What is the value of x in $5x + \\frac{7}{2} = \\frac{3}{2}x - 14$?"
+            "hi": "$23.9 \\div 1000$ का परिणाम क्या है?",
+            "en": "What is the result of $23.9 \\div 1000$?"
           },
           "options": [
-            {"hi": "-5", "en": "-5"},
-            {"hi": "5", "en": "5"},
-            {"hi": "-7", "en": "-7"},
-            {"hi": "7", "en": "7"}
+            {"hi": "0.239", "en": "0.239"},
+            {"hi": "0.0239", "en": "0.0239"},
+            {"hi": "0.00239", "en": "0.00239"},
+            {"hi": "2.39", "en": "2.39"}
           ],
-          "answer": {"hi": "-5", "en": "-5"}
-        },
-        {
-          "q": {
-            "hi": "पक्षांतरण के दौरान यदि कोई पद धनात्मक (+) है, तो दूसरे पक्ष में जाकर वह क्या हो जाएगा?",
-            "en": "During transposition, if a term is positive (+), what will it become on the other side?"
-          },
-          "options": [
-            {"hi": "धनात्मक ही रहेगा", "en": "Will remain positive"},
-            {"hi": "ऋणात्मक (-)", "en": "Negative (-)"},
-            {"hi": "शून्य", "en": "Zero"},
-            {"hi": "गुणा", "en": "Multiplication"}
-          ],
-          "answer": {"hi": "ऋणात्मक (-)", "en": "Negative (-)"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण के संतुलन को बनाए रखने के लिए क्या आवश्यक है?",
-            "en": "What is necessary to maintain the balance of an equation?"
-          },
-          "options": [
-            {"hi": "LHS और RHS पर समान संक्रिया", "en": "Identical operations on LHS and RHS"},
-            {"hi": "केवल LHS बदलना", "en": "Only changing LHS"},
-            {"hi": "केवल RHS बदलना", "en": "Only changing RHS"},
-            {"hi": "चर हटाना", "en": "Removing the variable"}
-          ],
-          "answer": {"hi": "LHS और RHS पर समान संक्रिया", "en": "Identical operations on LHS and RHS"}
-        },
-        {
-          "q": {
-            "hi": "बीजीय व्यंजक $x^2 + 1$ रैखिक क्यों नहीं है?",
-            "en": "Why is the algebraic expression $x^2 + 1$ not linear?"
-          },
-          "options": [
-            {"hi": "इसमें चर नहीं है", "en": "It has no variable"},
-            {"hi": "चर की घात 1 से अधिक है", "en": "Variable's power is more than 1"},
-            {"hi": "यह एक समीकरण है", "en": "It is an equation"},
-            {"hi": "इसमें समता चिह्न है", "en": "It has an equality sign"}
-          ],
-          "answer": {"hi": "चर की घात 1 से अधिक है", "en": "Variable's power is more than 1"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण $2x - 3 = 7$ में अचर (Constant) पद कौन से हैं?",
-            "en": "Which are the constant terms in the equation $2x - 3 = 7$?"
-          },
-          "options": [
-            {"hi": "2x", "en": "2x"},
-            {"hi": "x", "en": "x"},
-            {"hi": "-3 और 7", "en": "-3 and 7"},
-            {"hi": "केवल 2", "en": "Only 2"}
-          ],
-          "answer": {"hi": "-3 और 7", "en": "-3 and 7"}
-        },
-        {
-          "q": {
-            "hi": "रैखिक समीकरण का हल हमेशा कैसी संख्या होती है?",
-            "en": "What kind of number is the solution of a linear equation?"
-          },
-          "options": [
-            {"hi": "केवल पूर्ण संख्या", "en": "Only a whole number"},
-            {"hi": "कोई भी परिमेय संख्या", "en": "Any rational number"},
-            {"hi": "केवल प्राकृत संख्या", "en": "Only a natural number"},
-            {"hi": "शून्य", "en": "Zero"}
-          ],
-          "answer": {"hi": "कोई भी परिमेय संख्या", "en": "Any rational number"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण में 'समता' का चिह्न क्या दर्शाता है?",
-            "en": "What does the 'equality' symbol in an equation represent?"
-          },
-          "options": [
-            {"hi": "बायाँ पक्ष बड़ा है", "en": "LHS is greater"},
-            {"hi": "दायाँ पक्ष बड़ा है", "en": "RHS is greater"},
-            {"hi": "दोनों पक्ष बराबर हैं", "en": "Both sides are equal"},
-            {"hi": "कोई संबंध नहीं है", "en": "There is no relationship"}
-          ],
-          "answer": {"hi": "दोनों पक्ष बराबर हैं", "en": "Both sides are equal"}
+          "answer": {"hi": "0.0239", "en": "0.0239"}
         }
       ]
     },
