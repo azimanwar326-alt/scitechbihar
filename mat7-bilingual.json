@@ -3314,653 +3314,661 @@
       "section1": [
         {
           "q": {
-            "hi": "हार्डी-रामानुजन संख्या किसे कहा जाता है?",
-            "en": "Which number is called the Hardy-Ramanujan Number?"
-          },
-          "options": [
-            {"hi": "1728", "en": "1728"},
-            {"hi": "1729", "en": "1729"},
-            {"hi": "1000", "en": "1000"},
-            {"hi": "729", "en": "729"}
-          ],
-          "answer": {"hi": "1729", "en": "1729"}
-        },
-        {
-          "q": {
-            "hi": "1729 को किन दो घनों के योग के रूप में लिखा जा सकता है ($12^3$ के अलावा)?",
-            "en": "As the sum of which two cubes can 1729 be written (besides $12^3$)?"
-          },
-          "options": [
-            {"hi": "$10^3 + 9^3$", "en": "$10^3 + 9^3$"},
-            {"hi": "$8^3 + 7^3$", "en": "$8^3 + 7^3$"},
-            {"hi": "$11^3 + 2^3$", "en": "$11^3 + 2^3$"},
-            {"hi": "$6^3 + 5^3$", "en": "$6^3 + 5^3$"}
-          ],
-          "answer": {"hi": "$10^3 + 9^3$", "en": "$10^3 + 9^3"}
-        },
-        {
-          "q": {
-            "hi": "2 का घन (Cube of 2) क्या है?",
-            "en": "What is the cube of 2?"
-          },
-          "options": [
-            {"hi": "4", "en": "4"},
-            {"hi": "6", "en": "6"},
-            {"hi": "8", "en": "8"},
-            {"hi": "10", "en": "10"}
-          ],
-          "answer": {"hi": "8", "en": "8"}
-        },
-        {
-          "q": {
-            "hi": "5 का घन क्या होगा?",
-            "en": "What will be the cube of 5?"
-          },
-          "options": [
-            {"hi": "15", "en": "15"},
-            {"hi": "25", "en": "25"},
-            {"hi": "125", "en": "125"},
-            {"hi": "225", "en": "225"}
-          ],
-          "answer": {"hi": "125", "en": "125"}
-        },
-        {
-          "q": {
-            "hi": "एक पूर्ण घन संख्या में शून्य की संख्या कभी भी कितनी नहीं हो सकती?",
-            "en": "The number of zeros in a perfect cube can never be?"
-          },
-          "options": [
-            {"hi": "3", "en": "3"},
-            {"hi": "6", "en": "6"},
-            {"hi": "2", "en": "2"},
-            {"hi": "9", "en": "9"}
-          ],
-          "answer": {"hi": "2", "en": "2"}
-        },
-        {
-          "q": {
-            "hi": "सम संख्या का घन हमेशा कैसी संख्या होती है?",
-            "en": "The cube of an even number is always?"
-          },
-          "options": [
-            {"hi": "विषम", "en": "Odd"},
-            {"hi": "सम", "en": "Even"},
-            {"hi": "शून्य", "en": "Zero"},
-            {"hi": "अपरिमेय", "en": "Irrational"}
-          ],
-          "answer": {"hi": "सम", "en": "Even"}
-        },
-        {
-          "q": {
-            "hi": "विषम संख्या का घन हमेशा कैसी संख्या होती है?",
-            "en": "The cube of an odd number is always?"
-          },
-          "options": [
-            {"hi": "सम", "en": "Even"},
-            {"hi": "विषम", "en": "Odd"},
-            {"hi": "ऋणात्मक", "en": "Negative"},
-            {"hi": "परिभाषित नहीं", "en": "Not defined"}
-          ],
-          "answer": {"hi": "विषम", "en": "Odd"}
-        },
-        {
-          "q": {
-            "hi": "10 का घन क्या है?",
-            "en": "What is the cube of 10?"
-          },
-          "options": [
-            {"hi": "100", "en": "100"},
-            {"hi": "1000", "en": "1000"},
-            {"hi": "10000", "en": "10000"},
-            {"hi": "30", "en": "30"}
-          ],
-          "answer": {"hi": "1000", "en": "1000"}
-        },
-        {
-          "q": {
-            "hi": "इकाई का अंक 1 होने पर उसके घन के इकाई का अंक क्या होगा?",
-            "en": "If the unit digit is 1, what will be the unit digit of its cube?"
+            "hi": "एक त्रिभुज में कितनी मध्यिकाएँ (medians) होती हैं?",
+            "en": "How many medians does a triangle have?"
           },
           "options": [
             {"hi": "1", "en": "1"},
-            {"hi": "3", "en": "3"},
-            {"hi": "7", "en": "7"},
-            {"hi": "9", "en": "9"}
-          ],
-          "answer": {"hi": "1", "en": "1"}
-        },
-        {
-          "q": {
-            "hi": "जिस संख्या के अंत में 5 है, उसके घन के अंत में क्या होगा?",
-            "en": "A number ending in 5 will have what at the end of its cube?"
-          },
-          "options": [
-            {"hi": "0", "en": "0"},
-            {"hi": "5", "en": "5"},
-            {"hi": "25", "en": "25"},
-            {"hi": "15", "en": "15"}
-          ],
-          "answer": {"hi": "5", "en": "5"}
-        }
-      ],
-      "section2": [
-        {
-          "q": {
-            "hi": "8 का घनमूल (Cube root) क्या है?",
-            "en": "What is the cube root of 8?"
-          },
-          "options": [
             {"hi": "2", "en": "2"},
             {"hi": "3", "en": "3"},
-            {"hi": "4", "en": "4"},
-            {"hi": "1", "en": "1"}
-          ],
-          "answer": {"hi": "2", "en": "2"}
-        },
-        {
-          "q": {
-            "hi": "27 का घनमूल क्या होगा?",
-            "en": "What will be the cube root of 27?"
-          },
-          "options": [
-            {"hi": "9", "en": "9"},
-            {"hi": "3", "en": "3"},
-            {"hi": "7", "en": "7"},
-            {"hi": "2", "en": "2"}
-          ],
-          "answer": {"hi": "3", "en": "3"}
-        },
-        {
-          "q": {
-            "hi": "64 का घनमूल क्या है?",
-            "en": "What is the cube root of 64?"
-          },
-          "options": [
-            {"hi": "4", "en": "4"},
-            {"hi": "8", "en": "8"},
-            {"hi": "6", "en": "6"},
-            {"hi": "2", "en": "2"}
-          ],
-          "answer": {"hi": "4", "en": "4"}
-        },
-        {
-          "q": {
-            "hi": "घनमूल के लिए किस प्रतीक का उपयोग किया जाता है?",
-            "en": "Which symbol is used for cube root?"
-          },
-          "options": [
-            {"hi": "√", "en": "√"},
-            {"hi": "³√", "en": "³√"},
-            {"hi": "²", "en": "²"},
-            {"hi": "³", "en": "³"}
-          ],
-          "answer": {"hi": "³√", "en": "³√"}
-        },
-        {
-          "q": {
-            "hi": "1000 का घनमूल क्या है?",
-            "en": "What is the cube root of 1000?"
-          },
-          "options": [
-            {"hi": "10", "en": "10"},
-            {"hi": "100", "en": "100"},
-            {"hi": "20", "en": "20"},
-            {"hi": "1", "en": "1"}
-          ],
-          "answer": {"hi": "10", "en": "10"}
-        },
-        {
-          "q": {
-            "hi": "216 का घनमूल क्या है?",
-            "en": "What is the cube root of 216?"
-          },
-          "options": [
-            {"hi": "4", "en": "4"},
-            {"hi": "5", "en": "5"},
-            {"hi": "6", "en": "6"},
-            {"hi": "7", "en": "7"}
-          ],
-          "answer": {"hi": "6", "en": "6"}
-        },
-        {
-          "q": {
-            "hi": "यदि किसी संख्या का घन 8 पर समाप्त होता है, तो उस संख्या का इकाई अंक क्या होगा?",
-            "en": "If the cube of a number ends in 8, what will be the unit digit of that number?"
-          },
-          "options": [
-            {"hi": "8", "en": "8"},
-            {"hi": "2", "en": "2"},
-            {"hi": "4", "en": "4"},
-            {"hi": "6", "en": "6"}
-          ],
-          "answer": {"hi": "2", "en": "2"}
-        },
-        {
-          "q": {
-            "hi": "इनमें से कौन सी एक पूर्ण घन संख्या है?",
-            "en": "Which of these is a perfect cube number?"
-          },
-          "options": [
-            {"hi": "100", "en": "100"},
-            {"hi": "125", "en": "125"},
-            {"hi": "200", "en": "200"},
-            {"hi": "50", "en": "50"}
-          ],
-          "answer": {"hi": "125", "en": "125"}
-        },
-        {
-          "q": {
-            "hi": "संख्या 4 के घन के इकाई का अंक क्या है?",
-            "en": "What is the unit digit of the cube of number 4?"
-          },
-          "options": [
-            {"hi": "2", "en": "2"},
-            {"hi": "4", "en": "4"},
-            {"hi": "6", "en": "6"},
-            {"hi": "8", "en": "8"}
-          ],
-          "answer": {"hi": "4", "en": "4"}
-        },
-        {
-          "q": {
-            "hi": "संख्या 3 के घन के इकाई का अंक क्या है?",
-            "en": "What is the unit digit of the cube of number 3?"
-          },
-          "options": [
-            {"hi": "3", "en": "3"},
-            {"hi": "9", "en": "9"},
-            {"hi": "7", "en": "7"},
-            {"hi": "1", "en": "1"}
-          ],
-          "answer": {"hi": "7", "en": "7"}
-        }
-      ],
-      "section3": [
-        {
-          "q": {
-            "hi": "वह सबसे छोटी संख्या क्या है जिससे 243 को गुणा करने पर यह पूर्ण घन बन जाए?",
-            "en": "What is the smallest number by which 243 must be multiplied to make it a perfect cube?"
-          },
-          "options": [
-            {"hi": "2", "en": "2"},
-            {"hi": "3", "en": "3"},
-            {"hi": "9", "en": "9"},
-            {"hi": "5", "en": "5"}
-          ],
-          "answer": {"hi": "3", "en": "3"}
-        },
-        {
-          "q": {
-            "hi": "वह सबसे छोटी संख्या क्या है जिससे 81 को भाग देने पर यह पूर्ण घन बन जाए?",
-            "en": "What is the smallest number by which 81 must be divided to make it a perfect cube?"
-          },
-          "options": [
-            {"hi": "3", "en": "3"},
-            {"hi": "9", "en": "9"},
-            {"hi": "2", "en": "2"},
             {"hi": "4", "en": "4"}
           ],
           "answer": {"hi": "3", "en": "3"}
         },
         {
           "q": {
-            "hi": "128 को पूर्ण घन बनाने के लिए किस छोटी संख्या से भाग देना चाहिए?",
-            "en": "By which smallest number should 128 be divided to make it a perfect cube?"
+            "hi": "त्रिभुज के शीर्ष को उसकी सम्मुख भुजा के मध्य बिंदु से मिलाने वाला रेखाखंड क्या कहलाता है?",
+            "en": "The line segment joining a vertex of a triangle to the midpoint of its opposite side is called?"
           },
           "options": [
-            {"hi": "2", "en": "2"},
-            {"hi": "4", "en": "4"},
-            {"hi": "8", "en": "8"},
-            {"hi": "16", "en": "16"}
+            {"hi": "शीर्षलंब (Altitude)", "en": "Altitude"},
+            {"hi": "मध्यिका (Median)", "en": "Median"},
+            {"hi": "कर्ण (Hypotenuse)", "en": "Hypotenuse"},
+            {"hi": "आधार (Base)", "en": "Base"}
           ],
-          "answer": {"hi": "2", "en": "2"}
+          "answer": {"hi": "मध्यिका (Median)", "en": "Median"}
         },
         {
           "q": {
-            "hi": "675 को पूर्ण घन बनाने के लिए किस सबसे छोटी संख्या से गुणा करना चाहिए?",
-            "en": "By which smallest number should 675 be multiplied to make it a perfect cube?"
-          },
-          "options": [
-            {"hi": "2", "en": "2"},
-            {"hi": "3", "en": "3"},
-            {"hi": "5", "en": "5"},
-            {"hi": "10", "en": "10"}
-          ],
-          "answer": {"hi": "5", "en": "5"}
-        },
-        {
-          "q": {
-            "hi": "एक घन की भुजा 3 cm है, उसका आयतन क्या होगा?",
-            "en": "The side of a cube is 3 cm, what will be its volume?"
-          },
-          "options": [
-            {"hi": "9 cm³", "en": "9 cm³"},
-            {"hi": "27 cm³", "en": "27 cm³"},
-            {"hi": "18 cm³", "en": "18 cm³"},
-            {"hi": "81 cm³", "en": "81 cm³"}
-          ],
-          "answer": {"hi": "27 cm³", "en": "27 cm³"}
-        },
-        {
-          "q": {
-            "hi": "512 का घनमूल क्या है?",
-            "en": "What is the cube root of 512?"
-          },
-          "options": [
-            {"hi": "6", "en": "6"},
-            {"hi": "7", "en": "7"},
-            {"hi": "8", "en": "8"},
-            {"hi": "9", "en": "9"}
-          ],
-          "answer": {"hi": "8", "en": "8"}
-        },
-        {
-          "q": {
-            "hi": "729 का घनमूल क्या है?",
-            "en": "What is the cube root of 729?"
-          },
-          "options": [
-            {"hi": "7", "en": "7"},
-            {"hi": "8", "en": "8"},
-            {"hi": "9", "en": "9"},
-            {"hi": "11", "en": "11"}
-          ],
-          "answer": {"hi": "9", "en": "9"}
-        },
-        {
-          "q": {
-            "hi": "1331 का घनमूल क्या है?",
-            "en": "What is the cube root of 1331?"
-          },
-          "options": [
-            {"hi": "11", "en": "11"},
-            {"hi": "13", "en": "13"},
-            {"hi": "21", "en": "21"},
-            {"hi": "12", "en": "12"}
-          ],
-          "answer": {"hi": "11", "en": "11"}
-        },
-        {
-          "q": {
-            "hi": "8000 का घनमूल क्या है?",
-            "en": "What is the cube root of 8000?"
-          },
-          "options": [
-            {"hi": "20", "en": "20"},
-            {"hi": "40", "en": "40"},
-            {"hi": "80", "en": "80"},
-            {"hi": "200", "en": "200"}
-          ],
-          "answer": {"hi": "20", "en": "20"}
-        },
-        {
-          "q": {
-            "hi": "इनमें से कौन सी संख्या पूर्ण घन नहीं है?",
-            "en": "Which of these numbers is not a perfect cube?"
-          },
-          "options": [
-            {"hi": "1000", "en": "1000"},
-            {"hi": "216", "en": "216"},
-            {"hi": "100", "en": "100"},
-            {"hi": "343", "en": "343"}
-          ],
-          "answer": {"hi": "100", "en": "100"}
-        }
-      ],
-      "section4": [
-        {
-          "q": {
-            "hi": "सत्य या असत्य: किसी भी विषम संख्या का घन सम होता है।",
-            "en": "True or False: The cube of any odd number is even."
-          },
-          "options": [
-            {"hi": "सत्य", "en": "True"},
-            {"hi": "असत्य", "en": "False"}
-          ],
-          "answer": {"hi": "असत्य", "en": "False"}
-        },
-        {
-          "q": {
-            "hi": "सत्य या असत्य: एक पूर्ण घन दो शून्यों पर समाप्त नहीं होता है।",
-            "en": "True or False: A perfect cube does not end with two zeros."
-          },
-          "options": [
-            {"hi": "सत्य", "en": "True"},
-            {"hi": "असत्य", "en": "False"}
-          ],
-          "answer": {"hi": "सत्य", "en": "True"}
-        },
-        {
-          "q": {
-            "hi": "सत्य या असत्य: एक अंक वाली संख्या का घन एक अंक वाली संख्या हो सकती है।",
-            "en": "True or False: The cube of a single digit number can be a single digit number."
-          },
-          "options": [
-            {"hi": "सत्य", "en": "True"},
-            {"hi": "असत्य", "en": "False"}
-          ],
-          "answer": {"hi": "सत्य", "en": "True"}
-        },
-        {
-          "q": {
-            "hi": "सत्य या असत्य: दो अंकों की संख्या का घन तीन अंकों वाली संख्या हो सकती है।",
-            "en": "True or False: The cube of a two digit number can be a three digit number."
-          },
-          "options": [
-            {"hi": "सत्य", "en": "True"},
-            {"hi": "असत्य", "en": "False"}
-          ],
-          "answer": {"hi": "असत्य", "en": "False"}
-        },
-        {
-          "q": {
-            "hi": "343 का घनमूल क्या है?",
-            "en": "What is the cube root of 343?"
+            "hi": "एक त्रिभुज के कितने शीर्षलंब (altitudes) होते हैं?",
+            "en": "How many altitudes does a triangle have?"
           },
           "options": [
             {"hi": "3", "en": "3"},
-            {"hi": "7", "en": "7"},
-            {"hi": "9", "en": "9"},
-            {"hi": "13", "en": "13"}
-          ],
-          "answer": {"hi": "7", "en": "7"}
-        },
-        {
-          "q": {
-            "hi": "46656 का घनमूल क्या है?",
-            "en": "What is the cube root of 46656?"
-          },
-          "options": [
-            {"hi": "36", "en": "36"},
-            {"hi": "46", "en": "46"},
-            {"hi": "56", "en": "56"},
-            {"hi": "26", "en": "26"}
-          ],
-          "answer": {"hi": "36", "en": "36"}
-        },
-        {
-          "q": {
-            "hi": "15625 का घनमूल क्या है?",
-            "en": "What is the cube root of 15625?"
-          },
-          "options": [
-            {"hi": "15", "en": "15"},
-            {"hi": "25", "en": "25"},
-            {"hi": "35", "en": "35"},
-            {"hi": "45", "en": "45"}
-          ],
-          "answer": {"hi": "25", "en": "25"}
-        },
-        {
-          "q": {
-            "hi": "91125 का घनमूल क्या है?",
-            "en": "What is the cube root of 91125?"
-          },
-          "options": [
-            {"hi": "35", "en": "35"},
-            {"hi": "45", "en": "45"},
-            {"hi": "55", "en": "55"},
-            {"hi": "65", "en": "65"}
-          ],
-          "answer": {"hi": "45", "en": "45"}
-        },
-        {
-          "q": {
-            "hi": "संख्या 9 के घन के इकाई का अंक क्या है?",
-            "en": "What is the unit digit of the cube of number 9?"
-          },
-          "options": [
+            {"hi": "2", "en": "2"},
             {"hi": "1", "en": "1"},
-            {"hi": "3", "en": "3"},
-            {"hi": "9", "en": "9"},
-            {"hi": "7", "en": "7"}
-          ],
-          "answer": {"hi": "9", "en": "9"}
-        },
-        {
-          "q": {
-            "hi": "13824 का घनमूल क्या है?",
-            "en": "What is the cube root of 13824?"
-          },
-          "options": [
-            {"hi": "24", "en": "24"},
-            {"hi": "14", "en": "14"},
-            {"hi": "34", "en": "34"},
-            {"hi": "44", "en": "44"}
-          ],
-          "answer": {"hi": "24", "en": "24"}
-        }
-      ],
-      "section5": [
-        {
-          "q": {
-            "hi": "64000 का घनमूल क्या है?",
-            "en": "What is the cube root of 64000?"
-          },
-          "options": [
-            {"hi": "40", "en": "40"},
-            {"hi": "80", "en": "80"},
-            {"hi": "400", "en": "400"},
-            {"hi": "20", "en": "20"}
-          ],
-          "answer": {"hi": "40", "en": "40"}
-        },
-        {
-          "q": {
-            "hi": "किसी संख्या का घनमूल ज्ञात करने की एक विधि कौन सी है?",
-            "en": "What is one method of finding the cube root of a number?"
-          },
-          "options": [
-            {"hi": "अभाज्य गुणनखंडन", "en": "Prime Factorization"},
-            {"hi": "पाइथागोरस त्रिक", "en": "Pythagorean triplet"},
-            {"hi": "क्षेत्रफल विधि", "en": "Area method"},
-            {"hi": "पक्षांतरण", "en": "Transposition"}
-          ],
-          "answer": {"hi": "अभाज्य गुणनखंडन", "en": "Prime Factorization"}
-        },
-        {
-          "q": {
-            "hi": "वह संख्या क्या है जिसका घन 216 है?",
-            "en": "What is the number whose cube is 216?"
-          },
-          "options": [
-            {"hi": "4", "en": "4"},
-            {"hi": "6", "en": "6"},
-            {"hi": "8", "en": "8"},
-            {"hi": "16", "en": "16"}
-          ],
-          "answer": {"hi": "6", "en": "6"}
-        },
-        {
-          "q": {
-            "hi": "7 का घन (7³) क्या है?",
-            "en": "What is the cube of 7 (7³)?"
-          },
-          "options": [
-            {"hi": "49", "en": "49"},
-            {"hi": "343", "en": "343"},
-            {"hi": "243", "en": "243"},
-            {"hi": "143", "en": "143"}
-          ],
-          "answer": {"hi": "343", "en": "343"}
-        },
-        {
-          "q": {
-            "hi": "11 का घन क्या है?",
-            "en": "What is the cube of 11?"
-          },
-          "options": [
-            {"hi": "121", "en": "121"},
-            {"hi": "1331", "en": "1331"},
-            {"hi": "111", "en": "111"},
-            {"hi": "1231", "en": "1231"}
-          ],
-          "answer": {"hi": "1331", "en": "1331"}
-        },
-        {
-          "q": {
-            "hi": "4 का घन क्या है?",
-            "en": "What is the cube of 4?"
-          },
-          "options": [
-            {"hi": "16", "en": "16"},
-            {"hi": "64", "en": "64"},
-            {"hi": "12", "en": "12"},
-            {"hi": "24", "en": "24"}
-          ],
-          "answer": {"hi": "64", "en": "64"}
-        },
-        {
-          "q": {
-            "hi": "8 का घन क्या है?",
-            "en": "What is the cube of 8?"
-          },
-          "options": [
-            {"hi": "512", "en": "512"},
-            {"hi": "64", "en": "64"},
-            {"hi": "216", "en": "216"},
-            {"hi": "128", "en": "128"}
-          ],
-          "answer": {"hi": "512", "en": "512"}
-        },
-        {
-          "q": {
-            "hi": "9 का घन क्या है?",
-            "en": "What is the cube of 9?"
-          },
-          "options": [
-            {"hi": "729", "en": "729"},
-            {"hi": "81", "en": "81"},
-            {"hi": "243", "en": "243"},
-            {"hi": "629", "en": "629"}
-          ],
-          "answer": {"hi": "729", "en": "729"}
-        },
-        {
-          "q": {
-            "hi": "इकाई अंक 7 होने पर उसके घनमूल के इकाई का अंक क्या होगा?",
-            "en": "If the unit digit is 7, what will be the unit digit of its cube root?"
-          },
-          "options": [
-            {"hi": "7", "en": "7"},
-            {"hi": "3", "en": "3"},
-            {"hi": "9", "en": "9"},
-            {"hi": "1", "en": "1"}
+            {"hi": "6", "en": "6"}
           ],
           "answer": {"hi": "3", "en": "3"}
         },
         {
           "q": {
-            "hi": "15 का घन क्या है?",
-            "en": "What is the cube of 15?"
+            "hi": "किसी त्रिभुज का बाह्य कोण उसके दो सम्मुख __________ कोणों के योग के बराबर होता है।",
+            "en": "An exterior angle of a triangle is equal to the sum of its two opposite __________ angles."
           },
           "options": [
-            {"hi": "225", "en": "225"},
-            {"hi": "3375", "en": "3375"},
-            {"hi": "1125", "en": "1125"},
-            {"hi": "3125", "en": "3125"}
+            {"hi": "बाह्य", "en": "Exterior"},
+            {"hi": "अंतः", "en": "Interior"},
+            {"hi": "आसन्न", "en": "Adjacent"},
+            {"hi": "पूरक", "en": "Complementary"}
           ],
-          "answer": {"hi": "3375", "en": "3375"}
+          "answer": {"hi": "अंतः", "en": "Interior"}
+        },
+        {
+          "q": {
+            "hi": "एक त्रिभुज के तीनों अंतः कोणों का योग कितना होता है?",
+            "en": "What is the sum of the three interior angles of a triangle?"
+          },
+          "options": [
+            {"hi": "90°", "en": "90°"},
+            {"hi": "180°", "en": "180°"},
+            {"hi": "360°", "en": "360°"},
+            {"hi": "270°", "en": "270°"}
+          ],
+          "answer": {"hi": "180°", "en": "180°"}
+        },
+        {
+          "q": {
+            "hi": "एक त्रिभुज जिसकी प्रत्येक भुजा की माप समान हो, क्या कहलाता है?",
+            "en": "A triangle in which all sides are of equal length is called?"
+          },
+          "options": [
+            {"hi": "विषमबाहु त्रिभुज", "en": "Scalene triangle"},
+            {"hi": "समद्विबाहु त्रिभुज", "en": "Isosceles triangle"},
+            {"hi": "समबाहु त्रिभुज", "en": "Equilateral triangle"},
+            {"hi": "समकोण त्रिभुज", "en": "Right-angled triangle"}
+          ],
+          "answer": {"hi": "समबाहु त्रिभुज", "en": "Equilateral triangle"}
+        },
+        {
+          "q": {
+            "hi": "समबाहु त्रिभुज का प्रत्येक कोण कितने डिग्री का होता है?",
+            "en": "Each angle of an equilateral triangle measures how many degrees?"
+          },
+          "options": [
+            {"hi": "45°", "en": "45°"},
+            {"hi": "60°", "en": "60°"},
+            {"hi": "90°", "en": "90°"},
+            {"hi": "180°", "en": "180°"}
+          ],
+          "answer": {"hi": "60°", "en": "60°"}
+        },
+        {
+          "q": {
+            "hi": "एक त्रिभुज जिसकी कोई दो भुजाएँ माप में समान हों, क्या कहलाता है?",
+            "en": "A triangle in which any two sides are of equal length is called?"
+          },
+          "options": [
+            {"hi": "समबाहु त्रिभुज", "en": "Equilateral triangle"},
+            {"hi": "समद्विबाहु त्रिभुज", "en": "Isosceles triangle"},
+            {"hi": "विषमबाहु त्रिभुज", "en": "Scalene triangle"},
+            {"hi": "न्यून कोण त्रिभुज", "en": "Acute-angled triangle"}
+          ],
+          "answer": {"hi": "समद्विबाहु त्रिभुज", "en": "Isosceles triangle"}
+        },
+        {
+          "q": {
+            "hi": "त्रिभुज की किन्हीं दो भुजाओं की मापों का योग, तीसरी भुजा की माप से __________ होता है।",
+            "en": "The sum of the lengths of any two sides of a triangle is __________ than the third side."
+          },
+          "options": [
+            {"hi": "कम", "en": "Less"},
+            {"hi": "अधिक", "en": "Greater"},
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "आधा", "en": "Half"}
+          ],
+          "answer": {"hi": "अधिक", "en": "Greater"}
+        },
+        {
+          "q": {
+            "hi": "समकोण त्रिभुज में समकोण के सामने वाली भुजा को क्या कहते हैं?",
+            "en": "In a right-angled triangle, what is the side opposite to the right angle called?"
+          },
+          "options": [
+            {"hi": "आधार (Base)", "en": "Base"},
+            {"hi": "लंब (Perpendicular)", "en": "Perpendicular"},
+            {"hi": "कर्ण (Hypotenuse)", "en": "Hypotenuse"},
+            {"hi": "मध्यिका", "en": "Median"}
+          ],
+          "answer": {"hi": "कर्ण (Hypotenuse)", "en": "Hypotenuse"}
+        }
+      ],
+      "section2": [
+        {
+          "q": {
+            "hi": "यदि एक त्रिभुज के दो कोण 60° और 40° हैं, तो तीसरा कोण क्या होगा?",
+            "en": "If two angles of a triangle are 60° and 40°, what will be the third angle?"
+          },
+          "options": [
+            {"hi": "100°", "en": "100°"},
+            {"hi": "80°", "en": "80°"},
+            {"hi": "90°", "en": "90°"},
+            {"hi": "70°", "en": "70°"}
+          ],
+          "answer": {"hi": "80°", "en": "80°"}
+        },
+        {
+          "q": {
+            "hi": "क्या एक त्रिभुज में दो समकोण हो सकते हैं?",
+            "en": "Can a triangle have two right angles?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "केवल समबाहु में", "en": "Only in equilateral"},
+            {"hi": "कह नहीं सकते", "en": "Can't say"}
+          ],
+          "answer": {"hi": "नहीं", "en": "No"}
+        },
+        {
+          "q": {
+            "hi": "किसी त्रिभुज के बाह्य कोण और उसके साथ लगे अंतः आसन्न कोण का योग कितना होता है?",
+            "en": "What is the sum of an exterior angle and its adjacent interior angle?"
+          },
+          "options": [
+            {"hi": "90°", "en": "90°"},
+            {"hi": "180°", "en": "180°"},
+            {"hi": "360°", "en": "360°"},
+            {"hi": "0°", "en": "0°"}
+          ],
+          "answer": {"hi": "180°", "en": "180°"}
+        },
+        {
+          "q": {
+            "hi": "पाइथागोरस गुण (Pythagoras property) केवल किस प्रकार के त्रिभुज के लिए सत्य है?",
+            "en": "Pythagoras property is true only for which type of triangle?"
+          },
+          "options": [
+            {"hi": "न्यून कोण त्रिभुज", "en": "Acute-angled triangle"},
+            {"hi": "अधिक कोण त्रिभुज", "en": "Obtuse-angled triangle"},
+            {"hi": "समकोण त्रिभुज", "en": "Right-angled triangle"},
+            {"hi": "समबाहु त्रिभुज", "en": "Equilateral triangle"}
+          ],
+          "answer": {"hi": "समकोण त्रिभुज", "en": "Right-angled triangle"}
+        },
+        {
+          "q": {
+            "hi": "यदि समकोण त्रिभुज की भुजाएँ a, b और कर्ण c है, तो पाइथागोरस संबंध क्या है?",
+            "en": "If sides of a right triangle are a, b and hypotenuse is c, what is the Pythagoras relation?"
+          },
+          "options": [
+            {"hi": "$a^2 + b^2 = c^2$", "en": "$a^2 + b^2 = c^2$"},
+            {"hi": "$a + b = c$", "en": "$a + b = c$"},
+            {"hi": "$a^2 - b^2 = c^2$", "en": "$a^2 - b^2 = c^2$"},
+            {"hi": "$a \\times b = c$", "en": "$a \\times b = c$"}
+          ],
+          "answer": {"hi": "$a^2 + b^2 = c^2$", "en": "$a^2 + b^2 = c^2$"}
+        },
+        {
+          "q": {
+            "hi": "एक समद्विबाहु त्रिभुज में आधार पर बने दोनों कोण __________ होते हैं।",
+            "en": "In an isosceles triangle, the two angles at the base are __________."
+          },
+          "options": [
+            {"hi": "असमान", "en": "Unequal"},
+            {"hi": "समान (बराबर)", "en": "Equal"},
+            {"hi": "90°", "en": "90°"},
+            {"hi": "पूरक", "en": "Complementary"}
+          ],
+          "answer": {"hi": "समान (बराबर)", "en": "Equal"}
+        },
+        {
+          "q": {
+            "hi": "क्या 2 cm, 3 cm और 5 cm भुजाओं से त्रिभुज संभव है?",
+            "en": "Is a triangle possible with sides 2 cm, 3 cm and 5 cm?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "केवल समकोण", "en": "Only right-angled"},
+            {"hi": "पता नहीं", "en": "Don't know"}
+          ],
+          "answer": {"hi": "नहीं", "en": "No"}
+        },
+        {
+          "q": {
+            "hi": "त्रिभुज की किन्हीं दो भुजाओं की मापों का अंतर, तीसरी भुजा की माप से __________ होता है।",
+            "en": "The difference between the lengths of any two sides of a triangle is __________ than the third side."
+          },
+          "options": [
+            {"hi": "अधिक", "en": "Greater"},
+            {"hi": "कम", "en": "Less"},
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "दोगुना", "en": "Double"}
+          ],
+          "answer": {"hi": "कम", "en": "Less"}
+        },
+        {
+          "q": {
+            "hi": "न्यून कोण त्रिभुज में प्रत्येक कोण __________ से कम होता है।",
+            "en": "In an acute-angled triangle, each angle is less than __________."
+          },
+          "options": [
+            {"hi": "45°", "en": "45°"},
+            {"hi": "90°", "en": "90°"},
+            {"hi": "60°", "en": "60°"},
+            {"hi": "180°", "en": "180°"}
+          ],
+          "answer": {"hi": "90°", "en": "90°"}
+        },
+        {
+          "q": {
+            "hi": "एक त्रिभुज के कितने अवयव (elements) होते हैं?",
+            "en": "How many elements (components) does a triangle have?"
+          },
+          "options": [
+            {"hi": "3", "en": "3"},
+            {"hi": "6", "en": "6"},
+            {"hi": "9", "en": "9"},
+            {"hi": "4", "en": "4"}
+          ],
+          "answer": {"hi": "6", "en": "6"}
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "शीर्षलंब त्रिभुज के शीर्ष से सम्मुख भुजा पर कैसा रेखाखंड होता है?",
+            "en": "An altitude is what kind of line segment from a vertex to the opposite side?"
+          },
+          "options": [
+            {"hi": "तिरछा", "en": "Slanting"},
+            {"hi": "लंबवत (Perpendicular)", "en": "Perpendicular"},
+            {"hi": "समांतर", "en": "Parallel"},
+            {"hi": "आधा", "en": "Half"}
+          ],
+          "answer": {"hi": "लंबवत (Perpendicular)", "en": "Perpendicular"}
+        },
+        {
+          "q": {
+            "hi": "एक अधिक कोण त्रिभुज में कितने अधिक कोण हो सकते हैं?",
+            "en": "How many obtuse angles can an obtuse-angled triangle have?"
+          },
+          "options": [
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "3", "en": "3"},
+            {"hi": "0", "en": "0"}
+          ],
+          "answer": {"hi": "1", "en": "1"}
+        },
+        {
+          "q": {
+            "hi": "यदि एक त्रिभुज के कोण 2:3:4 के अनुपात में हैं, तो सबसे छोटा कोण क्या होगा?",
+            "en": "If angles of a triangle are in ratio 2:3:4, what is the smallest angle?"
+          },
+          "options": [
+            {"hi": "20°", "en": "20°"},
+            {"hi": "40°", "en": "40°"},
+            {"hi": "60°", "en": "60°"},
+            {"hi": "80°", "en": "80°"}
+          ],
+          "answer": {"hi": "40°", "en": "40°"}
+        },
+        {
+          "q": {
+            "hi": "एक समकोण त्रिभुज में यदि एक न्यून कोण 35° है, तो दूसरा न्यून कोण क्या होगा?",
+            "en": "In a right triangle, if one acute angle is 35°, what is the other acute angle?"
+          },
+          "options": [
+            {"hi": "55°", "en": "55°"},
+            {"hi": "45°", "en": "45°"},
+            {"hi": "65°", "en": "65°"},
+            {"hi": "145°", "en": "145°"}
+          ],
+          "answer": {"hi": "55°", "en": "55°"}
+        },
+        {
+          "q": {
+            "hi": "क्या किसी त्रिभुज के सभी कोण 60° से कम हो सकते हैं?",
+            "en": "Can all angles of a triangle be less than 60°?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "कभी-कभी", "en": "Sometimes"},
+            {"hi": "पता नहीं", "en": "Don't know"}
+          ],
+          "answer": {"hi": "नहीं", "en": "No"}
+        },
+        {
+          "q": {
+            "hi": "क्या किसी त्रिभुज के सभी कोण 60° से अधिक हो सकते हैं?",
+            "en": "Can all angles of a triangle be greater than 60°?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "संभव है", "en": "Possible"},
+            {"hi": "शून्य", "en": "Zero"}
+          ],
+          "answer": {"hi": "नहीं", "en": "No"}
+        },
+        {
+          "q": {
+            "hi": "एक त्रिभुज जिसकी तीनों भुजाएँ असमान लंबाई की हों, क्या कहलाता है?",
+            "en": "A triangle with all three sides of different lengths is called?"
+          },
+          "options": [
+            {"hi": "समबाहु", "en": "Equilateral"},
+            {"hi": "समद्विबाहु", "en": "Isosceles"},
+            {"hi": "विषमबाहु (Scalene)", "en": "Scalene"},
+            {"hi": "समकोण", "en": "Right-angled"}
+          ],
+          "answer": {"hi": "विषमबाहु (Scalene)", "en": "Scalene"}
+        },
+        {
+          "q": {
+            "hi": "एक बाह्य कोण की माप 110° है और एक सम्मुख अंतः कोण 50° है। दूसरा सम्मुख अंतः कोण क्या होगा?",
+            "en": "An exterior angle is 110° and one opposite interior angle is 50°. What is the other one?"
+          },
+          "options": [
+            {"hi": "60°", "en": "60°"},
+            {"hi": "160°", "en": "160°"},
+            {"hi": "70°", "en": "70°"},
+            {"hi": "50°", "en": "50°"}
+          ],
+          "answer": {"hi": "60°", "en": "60°"}
+        },
+        {
+          "q": {
+            "hi": "मध्यिका सम्मुख भुजा को कितने भागों में बाँटती है?",
+            "en": "A median divides the opposite side into how many parts?"
+          },
+          "options": [
+            {"hi": "तीन", "en": "Three"},
+            {"hi": "दो बराबर भाग", "en": "Two equal parts"},
+            {"hi": "चार", "en": "Four"},
+            {"hi": "बाँटती नहीं", "en": "Doesn't divide"}
+          ],
+          "answer": {"hi": "दो बराबर भाग", "en": "Two equal parts"}
+        },
+        {
+          "q": {
+            "hi": "यदि त्रिभुज की भुजाएँ 3, 4, 5 हैं, तो यह किस प्रकार का त्रिभुज है?",
+            "en": "If sides of a triangle are 3, 4, 5, what type of triangle is it?"
+          },
+          "options": [
+            {"hi": "समबाहु", "en": "Equilateral"},
+            {"hi": "अधिक कोण", "en": "Obtuse-angled"},
+            {"hi": "समकोण (Right-angled)", "en": "Right-angled"},
+            {"hi": "न्यून कोण", "en": "Acute-angled"}
+          ],
+          "answer": {"hi": "समकोण (Right-angled)", "en": "Right-angled"}
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "एक समकोण समद्विबाहु त्रिभुज के न्यून कोणों की माप क्या होगी?",
+            "en": "What will be the measure of acute angles in a right-angled isosceles triangle?"
+          },
+          "options": [
+            {"hi": "30°, 60°", "en": "30°, 60°"},
+            {"hi": "45°, 45°", "en": "45°, 45°"},
+            {"hi": "40°, 50°", "en": "40°, 50°"},
+            {"hi": "90°, 0°", "en": "90°, 0°"}
+          ],
+          "answer": {"hi": "45°, 45°", "en": "45°, 45°"}
+        },
+        {
+          "q": {
+            "hi": "क्या 10 cm, 10 cm और 20 cm भुजाओं वाला त्रिभुज बन सकता है?",
+            "en": "Can a triangle with sides 10 cm, 10 cm and 20 cm be formed?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "शायद", "en": "Maybe"},
+            {"hi": "केवल विशेष स्थिति में", "en": "Only in special case"}
+          ],
+          "answer": {"hi": "नहीं", "en": "No"}
+        },
+        {
+          "q": {
+            "hi": "एक त्रिभुज के बाह्य कोणों का कुल योग कितना होता है?",
+            "en": "What is the total sum of the exterior angles of a triangle?"
+          },
+          "options": [
+            {"hi": "180°", "en": "180°"},
+            {"hi": "360°", "en": "360°"},
+            {"hi": "540°", "en": "540°"},
+            {"hi": "90°", "en": "90°"}
+          ],
+          "answer": {"hi": "360°", "en": "360°"}
+        },
+        {
+          "q": {
+            "hi": "यदि समद्विबाहु त्रिभुज का शीर्ष कोण 100° है, तो प्रत्येक आधार कोण क्या होगा?",
+            "en": "If vertex angle of an isosceles triangle is 100°, what is each base angle?"
+          },
+          "options": [
+            {"hi": "40°", "en": "40°"},
+            {"hi": "80°", "en": "80°"},
+            {"hi": "50°", "en": "50°"},
+            {"hi": "30°", "en": "30°"}
+          ],
+          "answer": {"hi": "40°", "en": "40°"}
+        },
+        {
+          "q": {
+            "hi": "त्रिभुज के तीनों शीर्षों से सम्मुख भुजाओं पर खींचे गए शीर्षलंब जहाँ मिलते हैं, उसे क्या कहते हैं?",
+            "en": "The point where all three altitudes of a triangle meet is called?"
+          },
+          "options": [
+            {"hi": "केंद्रक (Centroid)", "en": "Centroid"},
+            {"hi": "लंबकेंद्र (Orthocentre)", "en": "Orthocentre"},
+            {"hi": "अंतःकेंद्र", "en": "Incentre"},
+            {"hi": "परिकेंद्र", "en": "Circumcentre"}
+          ],
+          "answer": {"hi": "लंबकेंद्र (Orthocentre)", "en": "Orthocentre"}
+        },
+        {
+          "q": {
+            "hi": "त्रिभुज की तीनों मध्यिकाएँ जिस बिंदु पर मिलती हैं, उसे क्या कहते हैं?",
+            "en": "The point where all three medians of a triangle meet is called?"
+          },
+          "options": [
+            {"hi": "लंबकेंद्र", "en": "Orthocentre"},
+            {"hi": "केंद्रक (Centroid)", "en": "Centroid"},
+            {"hi": "मध्य बिंदु", "en": "Midpoint"},
+            {"hi": "शीर्ष", "en": "Vertex"}
+          ],
+          "answer": {"hi": "केंद्रक (Centroid)", "en": "Centroid"}
+        },
+        {
+          "q": {
+            "hi": "एक सीढ़ी दीवार के साथ टिकाई गई है। सीढ़ी, दीवार और जमीन मिलकर कौन सा त्रिभुज बनाते हैं?",
+            "en": "A ladder is leaning against a wall. Ladder, wall and ground form which triangle?"
+          },
+          "options": [
+            {"hi": "समबाहु", "en": "Equilateral"},
+            {"hi": "न्यून कोण", "en": "Acute-angled"},
+            {"hi": "समकोण (Right-angled)", "en": "Right-angled"},
+            {"hi": "विषमबाहु", "en": "Scalene"}
+          ],
+          "answer": {"hi": "समकोण (Right-angled)", "en": "Right-angled"}
+        },
+        {
+          "q": {
+            "hi": "यदि समकोण त्रिभुज की एक भुजा 6 cm और दूसरी 8 cm है, तो कर्ण की लंबाई क्या होगी?",
+            "en": "If sides of a right triangle are 6 cm and 8 cm, what is the length of hypotenuse?"
+          },
+          "options": [
+            {"hi": "14 cm", "en": "14 cm"},
+            {"hi": "10 cm", "en": "10 cm"},
+            {"hi": "2 cm", "en": "2 cm"},
+            {"hi": "48 cm", "en": "48 cm"}
+          ],
+          "answer": {"hi": "10 cm", "en": "10 cm"}
+        },
+        {
+          "q": {
+            "hi": "किसी त्रिभुज में कम से कम कितने न्यून कोण होने चाहिए?",
+            "en": "A triangle must have at least how many acute angles?"
+          },
+          "options": [
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "3", "en": "3"},
+            {"hi": "0", "en": "0"}
+          ],
+          "answer": {"hi": "2", "en": "2"}
+        },
+        {
+          "q": {
+            "hi": "एक त्रिभुज के बाह्य कोण और अंतः सम्मुख कोणों के बीच क्या संबंध है?",
+            "en": "What is the relation between exterior angle and interior opposite angles?"
+          },
+          "options": [
+            {"hi": "योग के बराबर", "en": "Equal to sum"},
+            {"hi": "अंतर के बराबर", "en": "Equal to difference"},
+            {"hi": "गुणनफल के बराबर", "en": "Equal to product"},
+            {"hi": "कोई संबंध नहीं", "en": "No relation"}
+          ],
+          "answer": {"hi": "योग के बराबर", "en": "Equal to sum"}
+        }
+      ],
+      "section5": [
+        {
+          "q": {
+            "hi": "एक समकोण त्रिभुज का एक न्यून कोण दूसरे का दोगुना है। कोणों के माप क्या हैं?",
+            "en": "One acute angle of a right triangle is twice the other. What are the angles?"
+          },
+          "options": [
+            {"hi": "30°, 60°", "en": "30°, 60°"},
+            {"hi": "40°, 80°", "en": "40°, 80°"},
+            {"hi": "45°, 45°", "en": "45°, 45°"},
+            {"hi": "20°, 40°", "en": "20°, 40°"}
+          ],
+          "answer": {"hi": "30°, 60°", "en": "30°, 60°"}
+        },
+        {
+          "q": {
+            "hi": "यदि किसी त्रिभुज की दो भुजाओं का अंतर 4 cm है, तो तीसरी भुजा 4 cm से __________ होनी चाहिए।",
+            "en": "If the difference of two sides is 4 cm, the third side must be __________ than 4 cm."
+          },
+          "options": [
+            {"hi": "कम", "en": "Less"},
+            {"hi": "अधिक", "en": "Greater"},
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "शून्य", "en": "Zero"}
+          ],
+          "answer": {"hi": "अधिक", "en": "Greater"}
+        },
+        {
+          "q": {
+            "hi": "समकोण त्रिभुज की भुजाओं 5, 12 और 13 में कर्ण कौन सी भुजा है?",
+            "en": "Among sides 5, 12 and 13 of a right triangle, which is the hypotenuse?"
+          },
+          "options": [
+            {"hi": "5", "en": "5"},
+            {"hi": "12", "en": "12"},
+            {"hi": "13", "en": "13"},
+            {"hi": "कोई भी", "en": "Any one"}
+          ],
+          "answer": {"hi": "13", "en": "13"}
+        },
+        {
+          "q": {
+            "hi": "क्या एक त्रिभुज के दो कोण अधिक कोण हो सकते हैं?",
+            "en": "Can a triangle have two obtuse angles?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "केवल विषमबाहु में", "en": "Only in scalene"},
+            {"hi": "संभव है", "en": "Possible"}
+          ],
+          "answer": {"hi": "नहीं", "en": "No"}
+        },
+        {
+          "q": {
+            "hi": "एक समबाहु त्रिभुज की एक मध्यिका की लंबाई 5 cm है। दूसरी मध्यिका की लंबाई क्या होगी?",
+            "en": "A median of an equilateral triangle is 5 cm. What is the length of the second median?"
+          },
+          "options": [
+            {"hi": "10 cm", "en": "10 cm"},
+            {"hi": "2.5 cm", "en": "2.5 cm"},
+            {"hi": "5 cm", "en": "5 cm"},
+            {"hi": "7.5 cm", "en": "7.5 cm"}
+          ],
+          "answer": {"hi": "5 cm", "en": "5 cm"}
+        },
+        {
+          "q": {
+            "hi": "त्रिभुज के अंतः कोणों के योग का गुण क्या कहलाता है?",
+            "en": "What is the property of the sum of interior angles of a triangle called?"
+          },
+          "options": [
+            {"hi": "पाइथागोरस गुण", "en": "Pythagoras property"},
+            {"hi": "कोण योग गुण (Angle sum property)", "en": "Angle sum property"},
+            {"hi": "बाह्य कोण गुण", "en": "Exterior angle property"},
+            {"hi": "संवृत गुण", "en": "Closure property"}
+          ],
+          "answer": {"hi": "कोण योग गुण (Angle sum property)", "en": "Angle sum property"}
+        },
+        {
+          "q": {
+            "hi": "यदि $a, b, c$ त्रिभुज की भुजाएँ हैं, तो इनमें से कौन सा कथन सही है?",
+            "en": "If $a, b, c$ are sides of a triangle, which statement is correct?"
+          },
+          "options": [
+            {"hi": "$a + b > c$", "en": "$a + b > c$"},
+            {"hi": "$a + b < c$", "en": "$a + b < c$"},
+            {"hi": "$a + b = c$", "en": "$a + b = c$"},
+            {"hi": "$a - b > c$", "en": "$a - b > c$"}
+          ],
+          "answer": {"hi": "$a + b > c$", "en": "$a + b > c$"}
+        },
+        {
+          "q": {
+            "hi": "किसी समद्विबाहु त्रिभुज में समान भुजाओं के सम्मुख कोण कैसे होते हैं?",
+            "en": "In an isosceles triangle, angles opposite to equal sides are?"
+          },
+          "options": [
+            {"hi": "असमान", "en": "Unequal"},
+            {"hi": "समान (बराबर)", "en": "Equal"},
+            {"hi": "पूरक", "en": "Complementary"},
+            {"hi": "अधिक कोण", "en": "Obtuse"}
+          ],
+          "answer": {"hi": "समान (बराबर)", "en": "Equal"}
+        },
+        {
+          "q": {
+            "hi": "एक त्रिभुज के शीर्षों के नाम सामान्यतः किन अक्षरों से लिखे जाते हैं?",
+            "en": "Vertices of a triangle are usually named with which letters?"
+          },
+          "options": [
+            {"hi": "छोटे अक्षर (a, b, c)", "en": "Small letters"},
+            {"hi": "बड़े अक्षर (A, B, C)", "en": "Capital letters"},
+            {"hi": "संख्याएँ (1, 2, 3)", "en": "Numbers"},
+            {"hi": "क, ख, ग", "en": "Hindi letters"}
+          ],
+          "answer": {"hi": "बड़े अक्षर (A, B, C)", "en": "Capital letters"}
+        },
+        {
+          "q": {
+            "hi": "एक समकोण त्रिभुज के आधार और लंब को क्या कहते हैं?",
+            "en": "What are the base and perpendicular of a right triangle called?"
+          },
+          "options": [
+            {"hi": "कर्ण", "en": "Hypotenuse"},
+            {"hi": "पाद (Legs)", "en": "Legs"},
+            {"hi": "मध्यिका", "en": "Median"},
+            {"hi": "शीर्ष", "en": "Vertex"}
+          ],
+          "answer": {"hi": "पाद (Legs)", "en": "Legs"}
         }
       ]
     },
