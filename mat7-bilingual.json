@@ -2652,661 +2652,661 @@
       "section1": [
         {
           "q": {
-            "hi": "यदि एक प्राकृत संख्या m को n² के रूप में व्यक्त किया जा सकता है, तो m क्या कहलाती है? [cite: 1]",
-            "en": "If a natural number m can be expressed as n², then what is m called? [cite: 1]"
+            "hi": "एक रेखा के कितने अंत बिंदु होते हैं?",
+            "en": "How many end points does a line have?"
           },
           "options": [
-            {"hi": "घन संख्या", "en": "Cube number"},
-            {"hi": "वर्ग संख्या", "en": "Square number"},
-            {"hi": "अभाज्य संख्या", "en": "Prime number"},
-            {"hi": "विषम संख्या", "en": "Odd number"}
-          ],
-          "answer": {"hi": "वर्ग संख्या", "en": "Square number"}
-        },
-        {
-          "q": {
-            "hi": "3 का वर्ग (3²) क्या है? [cite: 1]",
-            "en": "What is the square of 3 (3²)? [cite: 1]"
-          },
-          "options": [
-            {"hi": "6", "en": "6"},
-            {"hi": "9", "en": "9"},
-            {"hi": "12", "en": "12"},
-            {"hi": "1", "en": "1"}
-          ],
-          "answer": {"hi": "9", "en": "9"}
-        },
-        {
-          "q": {
-            "hi": "इनमें से कौन सी एक पूर्ण वर्ग संख्या है? [cite: 1]",
-            "en": "Which of the following is a perfect square number? [cite: 1]"
-          },
-          "options": [
-            {"hi": "32", "en": "32"},
-            {"hi": "64", "en": "64"},
-            {"hi": "22", "en": "22"},
-            {"hi": "15", "en": "15"}
-          ],
-          "answer": {"hi": "64", "en": "64"}
-        },
-        {
-          "q": {
-            "hi": "8 का वर्ग क्या होगा? [cite: 1]",
-            "en": "What is the square of 8? [cite: 1]"
-          },
-          "options": [
-            {"hi": "16", "en": "16"},
-            {"hi": "64", "en": "64"},
-            {"hi": "80", "en": "80"},
-            {"hi": "48", "en": "48"}
-          ],
-          "answer": {"hi": "64", "en": "64"}
-        },
-        {
-          "q": {
-            "hi": "वर्ग का क्षेत्रफल ज्ञात करने का सूत्र क्या है? [cite: 1]",
-            "en": "What is the formula to find the area of a square? [cite: 1]"
-          },
-          "options": [
-            {"hi": "2 × भुजा", "en": "2 × side"},
-            {"hi": "भुजा × भुजा", "en": "side × side"},
-            {"hi": "4 × भुजा", "en": "4 × side"},
-            {"hi": "भुजा + भुजा", "en": "side + side"}
-          ],
-          "answer": {"hi": "भुजा × भुजा", "en": "side × side"}
-        },
-        {
-          "q": {
-            "hi": "संख्या 1, 4, 9, 16, 25 को क्या कहा जाता है? [cite: 1]",
-            "en": "What are the numbers 1, 4, 9, 16, 25 called? [cite: 1]"
-          },
-          "options": [
-            {"hi": "प्राकृत संख्या", "en": "Natural numbers"},
-            {"hi": "वर्ग संख्या", "en": "Square numbers"},
-            {"hi": "सम संख्या", "en": "Even numbers"},
-            {"hi": "ऋणात्मक संख्या", "en": "Negative numbers"}
-          ],
-          "answer": {"hi": "वर्ग संख्या", "en": "Square numbers"}
-        },
-        {
-          "q": {
-            "hi": "10 का वर्ग क्या है?",
-            "en": "What is the square of 10?"
-          },
-          "options": [
-            {"hi": "20", "en": "20"},
-            {"hi": "100", "en": "100"},
-            {"hi": "1000", "en": "1000"},
-            {"hi": "110", "en": "110"}
-          ],
-          "answer": {"hi": "100", "en": "100"}
-        },
-        {
-          "q": {
-            "hi": "यदि किसी संख्या के इकाई स्थान पर 1 या 9 है, तो उसकी वर्ग संख्या के अंत में क्या होगा?",
-            "en": "If a number has 1 or 9 in the unit's place, what will its square end with?"
-          },
-          "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "9", "en": "9"},
-            {"hi": "8", "en": "8"},
-            {"hi": "5", "en": "5"}
-          ],
-          "answer": {"hi": "1", "en": "1"}
-        },
-        {
-          "q": {
-            "hi": "एक वर्ग संख्या के अंत में शून्य (0) की संख्या हमेशा कैसी होती है?",
-            "en": "The number of zeros at the end of a square number is always?"
-          },
-          "options": [
-            {"hi": "विषम", "en": "Odd"},
-            {"hi": "सम", "en": "Even"},
             {"hi": "एक", "en": "One"},
+            {"hi": "दो", "en": "Two"},
+            {"hi": "कोई नहीं", "en": "None"},
+            {"hi": "अपरिमित", "en": "Infinite"}
+          ],
+          "answer": {"hi": "कोई नहीं", "en": "None"}
+        },
+        {
+          "q": {
+            "hi": "एक किरण (Ray) के कितने अंत बिंदु होते हैं?",
+            "en": "How many end points does a ray have?"
+          },
+          "options": [
+            {"hi": "एक", "en": "One"},
+            {"hi": "दो", "en": "Two"},
+            {"hi": "कोई नहीं", "en": "None"},
             {"hi": "तीन", "en": "Three"}
           ],
-          "answer": {"hi": "सम", "en": "Even"}
+          "answer": {"hi": "एक", "en": "One"}
         },
         {
           "q": {
-            "hi": "400 का वर्गमूल (Square root) क्या है? [cite: 1]",
-            "en": "What is the square root of 400? [cite: 1]"
+            "hi": "दो कोणों को पूरक (Complementary) तब कहा जाता है जब उनके मापों का योग कितना हो?",
+            "en": "Two angles are called complementary when the sum of their measures is?"
           },
           "options": [
-            {"hi": "10", "en": "10"},
-            {"hi": "20", "en": "20"},
-            {"hi": "40", "en": "40"},
-            {"hi": "200", "en": "200"}
+            {"hi": "180°", "en": "180°"},
+            {"hi": "90°", "en": "90°"},
+            {"hi": "360°", "en": "360°"},
+            {"hi": "45°", "en": "45°"}
           ],
-          "answer": {"hi": "20", "en": "20"}
+          "answer": {"hi": "90°", "en": "90°"}
+        },
+        {
+          "q": {
+            "hi": "दो कोणों को संपूरक (Supplementary) तब कहा जाता है जब उनके मापों का योग कितना हो?",
+            "en": "Two angles are called supplementary when the sum of their measures is?"
+          },
+          "options": [
+            {"hi": "90°", "en": "90°"},
+            {"hi": "180°", "en": "180°"},
+            {"hi": "100°", "en": "100°"},
+            {"hi": "270°", "en": "270°"}
+          ],
+          "answer": {"hi": "180°", "en": "180°"}
+        },
+        {
+          "q": {
+            "hi": "60° के कोण का पूरक कोण क्या होगा?",
+            "en": "What will be the complementary angle of 60°?"
+          },
+          "options": [
+            {"hi": "30°", "en": "30°"},
+            {"hi": "120°", "en": "120°"},
+            {"hi": "60°", "en": "60°"},
+            {"hi": "90°", "en": "90°"}
+          ],
+          "answer": {"hi": "30°", "en": "30°"}
+        },
+        {
+          "q": {
+            "hi": "100° के कोण का संपूरक कोण क्या होगा?",
+            "en": "What will be the supplementary angle of 100°?"
+          },
+          "options": [
+            {"hi": "80°", "en": "80°"},
+            {"hi": "100°", "en": "100°"},
+            {"hi": "200°", "en": "200°"},
+            {"hi": "10°", "en": "10°"}
+          ],
+          "answer": {"hi": "80°", "en": "80°"}
+        },
+        {
+          "q": {
+            "hi": "आसन्न कोणों (Adjacent angles) में क्या उभयनिष्ठ (Common) होता है?",
+            "en": "What is common in adjacent angles?"
+          },
+          "options": [
+            {"hi": "उभयनिष्ठ शीर्ष", "en": "Common vertex"},
+            {"hi": "उभयनिष्ठ भुजा", "en": "Common arm"},
+            {"hi": "उपर्युक्त दोनों", "en": "Both of the above"},
+            {"hi": "कोई नहीं", "en": "None"}
+          ],
+          "answer": {"hi": "उपर्युक्त दोनों", "en": "Both of the above"}
+        },
+        {
+          "q": {
+            "hi": "एक 'रैखिक युग्म' (Linear pair) बनाने वाले दो कोणों का योग कितना होता है?",
+            "en": "What is the sum of two angles forming a 'linear pair'?"
+          },
+          "options": [
+            {"hi": "90°", "en": "90°"},
+            {"hi": "180°", "en": "180°"},
+            {"hi": "360°", "en": "360°"},
+            {"hi": "270°", "en": "270°"}
+          ],
+          "answer": {"hi": "180°", "en": "180°"}
+        },
+        {
+          "q": {
+            "hi": "शीर्षाभिमुख कोण (Vertically opposite angles) हमेशा क्या होते हैं?",
+            "en": "Vertically opposite angles are always?"
+          },
+          "options": [
+            {"hi": "असमान", "en": "Unequal"},
+            {"hi": "समान", "en": "Equal"},
+            {"hi": "पूरक", "en": "Complementary"},
+            {"hi": "90°", "en": "90°"}
+          ],
+          "answer": {"hi": "समान", "en": "Equal"}
+        },
+        {
+          "q": {
+            "hi": "यदि दो रेखाएँ एक-दूसरे को एक बिंदु पर प्रतिच्छेद करती हैं, तो शीर्षाभिमुख कोण क्या कहलाते हैं?",
+            "en": "If two lines intersect at a point, what are the vertically opposite angles called?"
+          },
+          "options": [
+            {"hi": "पूरक", "en": "Complementary"},
+            {"hi": "आसन्न", "en": "Adjacent"},
+            {"hi": "शीर्षाभिमुख", "en": "Vertically opposite"},
+            {"hi": "संपूरक", "en": "Supplementary"}
+          ],
+          "answer": {"hi": "शीर्षाभिमुख", "en": "Vertically opposite"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "पाइथागोरस त्रिक (Pythagorean triplet) में यदि एक संख्या 6 है, तो अन्य दो क्या होंगी?",
-            "en": "In a Pythagorean triplet, if one number is 6, what are the other two?"
+            "hi": "वह रेखा जो दो या अधिक रेखाओं को भिन्न बिंदुओं पर काटती है, क्या कहलाती है?",
+            "en": "A line that intersects two or more lines at distinct points is called?"
           },
           "options": [
-            {"hi": "8, 10", "en": "8, 10"},
-            {"hi": "7, 9", "en": "7, 9"},
-            {"hi": "5, 12", "en": "5, 12"},
-            {"hi": "1, 2", "en": "1, 2"}
+            {"hi": "समांतर रेखा", "en": "Parallel line"},
+            {"hi": "तिर्यक छेदी रेखा", "en": "Transversal line"},
+            {"hi": "लंब रेखा", "en": "Perpendicular line"},
+            {"hi": "किरण", "en": "Ray"}
           ],
-          "answer": {"hi": "8, 10", "en": "8, 10"}
+          "answer": {"hi": "तिर्यक छेदी रेखा", "en": "Transversal line"}
         },
         {
           "q": {
-            "hi": "विषम संख्याओं का योग: 1 + 3 + 5 + 7 किसके बराबर है?",
-            "en": "Sum of odd numbers: 1 + 3 + 5 + 7 is equal to?"
+            "hi": "यदि दो समांतर रेखाओं को एक तिर्यक छेदी रेखा काटती है, तो संगत कोण (Corresponding angles) क्या होते हैं?",
+            "en": "If two parallel lines are cut by a transversal, corresponding angles are?"
           },
           "options": [
-            {"hi": "4", "en": "4"},
-            {"hi": "16 (4²)", "en": "16 (4²)"},
-            {"hi": "25", "en": "25"},
-            {"hi": "9", "en": "9"}
+            {"hi": "असमान", "en": "Unequal"},
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "पूरक", "en": "Complementary"},
+            {"hi": "90°", "en": "90°"}
           ],
-          "answer": {"hi": "16 (4²)", "en": "16 (4²)"}
+          "answer": {"hi": "बराबर", "en": "Equal"}
         },
         {
           "q": {
-            "hi": "वर्गमूल के लिए किस चिह्न का प्रयोग किया जाता है?",
-            "en": "Which symbol is used for square root?"
+            "hi": "दो समांतर रेखाओं के बीच बने अंतः एकांतर कोण (Alternate interior angles) कैसे होते हैं?",
+            "en": "How are the alternate interior angles formed between two parallel lines?"
           },
           "options": [
-            {"hi": "+", "en": "+"},
-            {"hi": "√", "en": "√"},
-            {"hi": "²", "en": "²"},
-            {"hi": "π", "en": "π"}
+            {"hi": "समान", "en": "Equal"},
+            {"hi": "असमान", "en": "Unequal"},
+            {"hi": "180°", "en": "180°"},
+            {"hi": "शून्य", "en": "Zero"}
           ],
-          "answer": {"hi": "√", "en": "√"}
+          "answer": {"hi": "समान", "en": "Equal"}
         },
         {
           "q": {
-            "hi": "81 का वर्गमूल क्या है?",
-            "en": "What is the square root of 81?"
+            "hi": "तिर्यक छेदी रेखा के एक ही तरफ बने अंतःकोणों का योग कितना होता है (समांतर रेखाओं के लिए)?",
+            "en": "What is the sum of interior angles on the same side of the transversal (for parallel lines)?"
           },
           "options": [
-            {"hi": "7", "en": "7"},
-            {"hi": "8", "en": "8"},
-            {"hi": "9", "en": "9"},
-            {"hi": "10", "en": "10"}
+            {"hi": "90°", "en": "90°"},
+            {"hi": "180°", "en": "180°"},
+            {"hi": "360°", "en": "360°"},
+            {"hi": "समान", "en": "Equal"}
           ],
-          "answer": {"hi": "9", "en": "9"}
+          "answer": {"hi": "180°", "en": "180°"}
         },
         {
           "q": {
-            "hi": "25² का मान क्या है?",
-            "en": "What is the value of 25²?"
+            "hi": "यदि संगत कोणों का एक युग्म बराबर है, तो रेखाएँ कैसी होंगी?",
+            "en": "If a pair of corresponding angles is equal, then the lines will be?"
           },
           "options": [
-            {"hi": "50", "en": "50"},
-            {"hi": "225", "en": "225"},
-            {"hi": "625", "en": "625"},
-            {"hi": "125", "en": "125"}
+            {"hi": "समांतर", "en": "Parallel"},
+            {"hi": "प्रतिच्छेदी", "en": "Intersecting"},
+            {"hi": "लंब", "en": "Perpendicular"},
+            {"hi": "तिर्यक", "en": "Transversal"}
           ],
-          "answer": {"hi": "625", "en": "625"}
+          "answer": {"hi": "समांतर", "en": "Parallel"}
         },
         {
           "q": {
-            "hi": "प्रथम n विषम प्राकृत संख्याओं का योग क्या होता है?",
-            "en": "What is the sum of the first n odd natural numbers?"
+            "hi": "क्या दो न्यून कोण एक-दूसरे के संपूरक हो सकते हैं?",
+            "en": "Can two acute angles be supplementary to each other?"
           },
           "options": [
-            {"hi": "2n", "en": "2n"},
-            {"hi": "n²", "en": "n²"},
-            {"hi": "n + 1", "en": "n + 1"},
-            {"hi": "n³", "en": "n³"}
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "हमेशा", "en": "Always"},
+            {"hi": "कह नहीं सकते", "en": "Can't say"}
           ],
-          "answer": {"hi": "n²", "en": "n²"}
+          "answer": {"hi": "नहीं", "en": "No"}
         },
         {
           "q": {
-            "hi": "पूर्ण वर्ग संख्या प्राप्त करने के लिए 402 में से क्या घटाया जाना चाहिए? [cite: 1]",
-            "en": "What should be subtracted from 402 to get a perfect square? [cite: 1]"
+            "hi": "दो अधिक कोणों का योग हमेशा किससे अधिक होगा?",
+            "en": "The sum of two obtuse angles will always be greater than?"
           },
           "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "2", "en": "2"},
-            {"hi": "5", "en": "5"},
-            {"hi": "10", "en": "10"}
+            {"hi": "90°", "en": "90°"},
+            {"hi": "180°", "en": "180°"},
+            {"hi": "360°", "en": "360°"},
+            {"hi": "270°", "en": "270°"}
           ],
-          "answer": {"hi": "2", "en": "2"}
+          "answer": {"hi": "180°", "en": "180°"}
         },
         {
           "q": {
-            "hi": "यदि एक समकोण त्रिभुज की भुजाएँ 6 cm और 8 cm हैं, तो कर्ण (hypotenuse) क्या होगा? [cite: 1]",
-            "en": "If the sides of a right-angled triangle are 6 cm and 8 cm, what will be the hypotenuse? [cite: 1]"
+            "hi": "एक समकोण का संपूरक कोण क्या होगा?",
+            "en": "What will be the supplementary angle of a right angle?"
           },
           "options": [
-            {"hi": "14 cm", "en": "14 cm"},
-            {"hi": "10 cm", "en": "10 cm"},
-            {"hi": "12 cm", "en": "12 cm"},
-            {"hi": "48 cm", "en": "48 cm"}
+            {"hi": "न्यून कोण", "en": "Acute angle"},
+            {"hi": "अधिक कोण", "en": "Obtuse angle"},
+            {"hi": "समकोण (90°)", "en": "Right angle (90°)"},
+            {"hi": "शून्य कोण", "en": "Zero angle"}
           ],
-          "answer": {"hi": "10 cm", "en": "10 cm"}
+          "answer": {"hi": "समकोण (90°)", "en": "Right angle (90°)"}
         },
         {
           "q": {
-            "hi": "6.25 का वर्गमूल क्या है?",
-            "en": "What is the square root of 6.25?"
+            "hi": "यदि दो रेखाएँ प्रतिच्छेद नहीं करती हैं और एक ही तल में हैं, तो वे क्या कहलाती हैं?",
+            "en": "If two lines do not intersect and are in the same plane, what are they called?"
           },
           "options": [
-            {"hi": "2.5", "en": "2.5"},
-            {"hi": "0.25", "en": "0.25"},
-            {"hi": "25", "en": "25"},
-            {"hi": "1.5", "en": "1.5"}
+            {"hi": "लंब रेखाएँ", "en": "Perpendicular lines"},
+            {"hi": "समांतर रेखाएँ", "en": "Parallel lines"},
+            {"hi": "तिर्यक रेखाएँ", "en": "Transversal lines"},
+            {"hi": "किरणें", "en": "Rays"}
           ],
-          "answer": {"hi": "2.5", "en": "2.5"}
+          "answer": {"hi": "समांतर रेखाएँ", "en": "Parallel lines"}
         },
         {
           "q": {
-            "hi": "एक माली के पास 1000 पौधे हैं। पंक्तियों और कॉलम की संख्या समान रखने के लिए उसे कम से कम कितने और पौधों की आवश्यकता है? [cite: 1]",
-            "en": "A gardener has 1000 plants. How many minimum additional plants does he need to keep the number of rows and columns the same? [cite: 1]"
+            "hi": "45° के कोण का पूरक कोण क्या है?",
+            "en": "What is the complementary angle of 45°?"
           },
           "options": [
-            {"hi": "14", "en": "14"},
-            {"hi": "24", "en": "24"},
-            {"hi": "31", "en": "31"},
-            {"hi": "2", "en": "2"}
+            {"hi": "45°", "en": "45°"},
+            {"hi": "90°", "en": "90°"},
+            {"hi": "135°", "en": "135°"},
+            {"hi": "180°", "en": "180°"}
           ],
-          "answer": {"hi": "24", "en": "24"}
+          "answer": {"hi": "45°", "en": "45°"}
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "किसी वर्ग का क्षेत्रफल 441 m² है। उसकी भुजा की लंबाई क्या होगी? [cite: 1]",
-            "en": "The area of a square is 441 m². What will be the length of its side? [cite: 1]"
+            "hi": "एक रेखाखंड के कितने अंत बिंदु होते हैं?",
+            "en": "How many end points does a line segment have?"
           },
           "options": [
-            {"hi": "19 m", "en": "19 m"},
-            {"hi": "21 m", "en": "21 m"},
-            {"hi": "25 m", "en": "25 m"},
-            {"hi": "41 m", "en": "41 m"}
-          ],
-          "answer": {"hi": "21 m", "en": "21 m"}
-        },
-        {
-          "q": {
-            "hi": "समकोण त्रिभुज ABC में, ∠B = 90°। यदि AC = 13 cm, BC = 5 cm है, तो AB ज्ञात कीजिए। [cite: 1]",
-            "en": "In right-angled triangle ABC, ∠B = 90°. If AC = 13 cm, BC = 5 cm, find AB. [cite: 1]"
-          },
-          "options": [
-            {"hi": "12 cm", "en": "12 cm"},
-            {"hi": "8 cm", "en": "8 cm"},
-            {"hi": "18 cm", "en": "18 cm"},
-            {"hi": "6.5 cm", "en": "6.5 cm"}
-          ],
-          "answer": {"hi": "12 cm", "en": "12 cm"}
-        },
-        {
-          "q": {
-            "hi": "पूर्ण वर्ग संख्या प्राप्त करने के लिए 525 में कम से कम कितना जोड़ा जाना चाहिए? [cite: 1]",
-            "en": "What is the minimum number that should be added to 525 to get a perfect square? [cite: 1]"
-          },
-          "options": [
-            {"hi": "4", "en": "4"},
-            {"hi": "10", "en": "10"},
-            {"hi": "15", "en": "15"},
-            {"hi": "2", "en": "2"}
-          ],
-          "answer": {"hi": "4", "en": "4"}
-        },
-        {
-          "q": {
-            "hi": "500 विद्यार्थियों को पी.टी. के लिए पंक्तियों और कॉलम की संख्या समान रखकर खड़ा किया गया। कितने विद्यार्थी बाहर रह गए? [cite: 1]",
-            "en": "500 students stood for P.T. with equal rows and columns. How many students were left out? [cite: 1]"
-          },
-          "options": [
-            {"hi": "10", "en": "10"},
-            {"hi": "16", "en": "16"},
-            {"hi": "25", "en": "25"},
-            {"hi": "5", "en": "5"}
-          ],
-          "answer": {"hi": "16", "en": "16"}
-        },
-        {
-          "q": {
-            "hi": "121 किस संख्या का वर्ग है?",
-            "en": "121 is the square of which number?"
-          },
-          "options": [
-            {"hi": "10", "en": "10"},
-            {"hi": "11", "en": "11"},
-            {"hi": "12", "en": "12"},
-            {"hi": "21", "en": "21"}
-          ],
-          "answer": {"hi": "11", "en": "11"}
-        },
-        {
-          "q": {
-            "hi": "0.4 का वर्ग क्या है?",
-            "en": "What is the square of 0.4?"
-          },
-          "options": [
-            {"hi": "0.16", "en": "0.16"},
-            {"hi": "1.6", "en": "1.6"},
-            {"hi": "16", "en": "16"},
-            {"hi": "0.8", "en": "0.8"}
-          ],
-          "answer": {"hi": "0.16", "en": "0.16"}
-        },
-        {
-          "q": {
-            "hi": "संख्या 100 के वर्ग में कितने शून्य होंगे?",
-            "en": "How many zeros will be in the square of 100?"
-          },
-          "options": [
+            {"hi": "1", "en": "1"},
             {"hi": "2", "en": "2"},
-            {"hi": "4", "en": "4"},
-            {"hi": "3", "en": "3"},
-            {"hi": "6", "en": "6"}
+            {"hi": "0", "en": "0"},
+            {"hi": "असीमित", "en": "Unlimited"}
           ],
-          "answer": {"hi": "4", "en": "4"}
+          "answer": {"hi": "2", "en": "2"}
         },
         {
           "q": {
-            "hi": "सम संख्या का वर्ग हमेशा कैसी संख्या होती है?",
-            "en": "The square of an even number is always?"
+            "hi": "दो कोणों को आसन्न कहा जाता है यदि उनके पास एक उभयनिष्ठ भुजा और एक उभयनिष्ठ ________ हो।",
+            "en": "Two angles are called adjacent if they have a common arm and a common ________."
           },
           "options": [
-            {"hi": "विषम", "en": "Odd"},
-            {"hi": "सम", "en": "Even"},
+            {"hi": "कोण", "en": "Angle"},
+            {"hi": "शीर्ष", "en": "Vertex"},
+            {"hi": "तल", "en": "Plane"},
+            {"hi": "रेखा", "en": "Line"}
+          ],
+          "answer": {"hi": "शीर्ष", "en": "Vertex"}
+        },
+        {
+          "q": {
+            "hi": "यदि एक किरण एक रेखा पर खड़ी हो, तो बनने वाले दो आसन्न कोणों का योग कितना होता है?",
+            "en": "If a ray stands on a line, what is the sum of the two adjacent angles formed?"
+          },
+          "options": [
+            {"hi": "90°", "en": "90°"},
+            {"hi": "180°", "en": "180°"},
+            {"hi": "360°", "en": "360°"},
+            {"hi": "0°", "en": "0°"}
+          ],
+          "answer": {"hi": "180°", "en": "180°"}
+        },
+        {
+          "q": {
+            "hi": "दो रेखाओं के प्रतिच्छेद करने पर बने आमने-सामने के कोण क्या कहलाते हैं?",
+            "en": "What are the opposite angles formed when two lines intersect called?"
+          },
+          "options": [
+            {"hi": "संगत कोण", "en": "Corresponding angles"},
+            {"hi": "एकांतर कोण", "en": "Alternate angles"},
+            {"hi": "शीर्षाभिमुख कोण", "en": "Vertically opposite angles"},
+            {"hi": "पूरक कोण", "en": "Complementary angles"}
+          ],
+          "answer": {"hi": "शीर्षाभिमुख कोण", "en": "Vertically opposite angles"}
+        },
+        {
+          "q": {
+            "hi": "यदि $\\angle1$ और $\\angle2$ पूरक हैं, तो $\\angle1 + \\angle2$ = ?",
+            "en": "If $\\angle1$ and $\\angle2$ are complementary, then $\\angle1 + \\angle2$ = ?"
+          },
+          "options": [
+            {"hi": "180°", "en": "180°"},
+            {"hi": "90°", "en": "90°"},
+            {"hi": "45°", "en": "45°"},
+            {"hi": "360°", "en": "360°"}
+          ],
+          "answer": {"hi": "90°", "en": "90°"}
+        },
+        {
+          "q": {
+            "hi": "दो समांतर रेखाओं को काटने वाली तिर्यक रेखा द्वारा बने बाह्य एकांतर कोण क्या होते हैं?",
+            "en": "What are the alternate exterior angles formed by a transversal cutting two parallel lines?"
+          },
+          "options": [
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "असमान", "en": "Unequal"},
+            {"hi": "संपूरक", "en": "Supplementary"},
+            {"hi": "पूरक", "en": "Complementary"}
+          ],
+          "answer": {"hi": "बराबर", "en": "Equal"}
+        },
+        {
+          "q": {
+            "hi": "90° से कम माप वाले कोण को क्या कहते हैं?",
+            "en": "What is an angle measuring less than 90° called?"
+          },
+          "options": [
+            {"hi": "अधिक कोण", "en": "Obtuse angle"},
+            {"hi": "न्यून कोण", "en": "Acute angle"},
+            {"hi": "समकोण", "en": "Right angle"},
+            {"hi": "सरल कोण", "en": "Straight angle"}
+          ],
+          "answer": {"hi": "न्यून कोण", "en": "Acute angle"}
+        },
+        {
+          "q": {
+            "hi": "90° और 180° के बीच के माप वाले कोण को क्या कहते हैं?",
+            "en": "What is an angle measuring between 90° and 180° called?"
+          },
+          "options": [
+            {"hi": "न्यून कोण", "en": "Acute angle"},
+            {"hi": "अधिक कोण", "en": "Obtuse angle"},
+            {"hi": "समकोण", "en": "Right angle"},
+            {"hi": "वृहत कोण", "en": "Reflex angle"}
+          ],
+          "answer": {"hi": "अधिक कोण", "en": "Obtuse angle"}
+        },
+        {
+          "q": {
+            "hi": "180° के माप वाले कोण को क्या कहते हैं?",
+            "en": "What is an angle measuring 180° called?"
+          },
+          "options": [
+            {"hi": "समकोण", "en": "Right angle"},
+            {"hi": "सरल कोण", "en": "Straight angle"},
+            {"hi": "अधिक कोण", "en": "Obtuse angle"},
+            {"hi": "वृहत कोण", "en": "Reflex angle"}
+          ],
+          "answer": {"hi": "सरल कोण", "en": "Straight angle"}
+        },
+        {
+          "q": {
+            "hi": "समांतर रेखाओं के बीच की दूरी हमेशा ________ रहती है।",
+            "en": "The distance between parallel lines always remains ________."
+          },
+          "options": [
+            {"hi": "बदलती", "en": "Changing"},
+            {"hi": "समान", "en": "Same/Constant"},
             {"hi": "शून्य", "en": "Zero"},
-            {"hi": "अपरिमेय", "en": "Irrational"}
+            {"hi": "बढ़ती", "en": "Increasing"}
           ],
-          "answer": {"hi": "सम", "en": "Even"}
-        },
-        {
-          "q": {
-            "hi": "विषम संख्या का वर्ग हमेशा कैसी संख्या होती है?",
-            "en": "The square of an odd number is always?"
-          },
-          "options": [
-            {"hi": "सम", "en": "Even"},
-            {"hi": "विषम", "en": "Odd"},
-            {"hi": "एक", "en": "One"},
-            {"hi": "धनात्मक", "en": "Positive"}
-          ],
-          "answer": {"hi": "विषम", "en": "Odd"}
-        },
-        {
-          "q": {
-            "hi": "इनमें से कौन सी संख्या पूर्ण वर्ग नहीं हो सकती (इकाई अंक के आधार पर)?",
-            "en": "Which of these cannot be a perfect square (based on the unit digit)?"
-          },
-          "options": [
-            {"hi": "100", "en": "100"},
-            {"hi": "127", "en": "127"},
-            {"hi": "144", "en": "144"},
-            {"hi": "121", "en": "121"}
-          ],
-          "answer": {"hi": "127", "en": "127"}
+          "answer": {"hi": "समान", "en": "Same/Constant"}
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "900 का वर्गमूल क्या है?",
-            "en": "What is the square root of 900?"
+            "hi": "एक बिंदु के चारों ओर बने सभी कोणों का योग कितना होता है?",
+            "en": "What is the sum of all angles formed around a point?"
           },
           "options": [
-            {"hi": "20", "en": "20"},
-            {"hi": "30", "en": "30"},
-            {"hi": "45", "en": "45"},
-            {"hi": "90", "en": "90"}
+            {"hi": "180°", "en": "180°"},
+            {"hi": "360°", "en": "360°"},
+            {"hi": "90°", "en": "90°"},
+            {"hi": "270°", "en": "270°"}
           ],
-          "answer": {"hi": "30", "en": "30"}
+          "answer": {"hi": "360°", "en": "360°"}
         },
         {
           "q": {
-            "hi": "12 का वर्ग क्या है?",
-            "en": "What is the square of 12?"
+            "hi": "एक अधिक कोण का संपूरक कोण हमेशा कैसा होगा?",
+            "en": "What will be the supplementary angle of an obtuse angle?"
           },
           "options": [
-            {"hi": "24", "en": "24"},
-            {"hi": "144", "en": "144"},
-            {"hi": "122", "en": "122"},
-            {"hi": "169", "en": "169"}
+            {"hi": "अधिक कोण", "en": "Obtuse angle"},
+            {"hi": "न्यून कोण", "en": "Acute angle"},
+            {"hi": "समकोण", "en": "Right angle"},
+            {"hi": "सरल कोण", "en": "Straight angle"}
           ],
-          "answer": {"hi": "144", "en": "144"}
+          "answer": {"hi": "न्यून कोण", "en": "Acute angle"}
         },
         {
           "q": {
-            "hi": "संख्या 7 का वर्ग करने पर इकाई का अंक क्या होगा?",
-            "en": "What will be the unit digit when squaring 7?"
+            "hi": "एक न्यून कोण का पूरक कोण हमेशा कैसा होगा?",
+            "en": "What will be the complementary angle of an acute angle?"
           },
           "options": [
-            {"hi": "7", "en": "7"},
-            {"hi": "9", "en": "9"},
-            {"hi": "1", "en": "1"},
-            {"hi": "4", "en": "4"}
+            {"hi": "न्यून कोण", "en": "Acute angle"},
+            {"hi": "अधिक कोण", "en": "Obtuse angle"},
+            {"hi": "समकोण", "en": "Right angle"},
+            {"hi": "वृहत कोण", "en": "Reflex angle"}
           ],
-          "answer": {"hi": "9", "en": "9"}
+          "answer": {"hi": "न्यून कोण", "en": "Acute angle"}
         },
         {
           "q": {
-            "hi": "6400 का वर्गमूल ज्ञात कीजिए।",
-            "en": "Find the square root of 6400."
+            "hi": "यदि $\\angle A = 70^\\circ$ है और $\\angle B$ इसका संपूरक है, तो $\\angle B$ का मान क्या है?",
+            "en": "If $\\angle A = 70^\\circ$ and $\\angle B$ is its supplement, what is the value of $\\angle B$?"
           },
           "options": [
-            {"hi": "40", "en": "40"},
-            {"hi": "80", "en": "80"},
-            {"hi": "64", "en": "64"},
-            {"hi": "800", "en": "800"}
+            {"hi": "20°", "en": "20°"},
+            {"hi": "110°", "en": "110°"},
+            {"hi": "180°", "en": "180°"},
+            {"hi": "70°", "en": "70°"}
           ],
-          "answer": {"hi": "80", "en": "80"}
+          "answer": {"hi": "110°", "en": "110°"}
         },
         {
           "q": {
-            "hi": "लगातार विषम संख्याओं को घटाकर वर्गमूल ज्ञात करने की विधि क्या कहलाती है?",
-            "en": "What is the method of finding the square root by subtracting consecutive odd numbers called?"
+            "hi": "यदि $\\angle X = 50^\\circ$ है और $\\angle Y$ इसका पूरक है, तो $\\angle Y$ का मान क्या है?",
+            "en": "If $\\angle X = 50^\\circ$ and $\\angle Y$ is its complement, what is the value of $\\angle Y$?"
           },
           "options": [
-            {"hi": "गुणनखंड विधि", "en": "Factorization method"},
-            {"hi": "बार-बार घटाने की विधि", "en": "Repeated subtraction method"},
-            {"hi": "भाग विधि", "en": "Division method"},
-            {"hi": "योग विधि", "en": "Addition method"}
+            {"hi": "40°", "en": "40°"},
+            {"hi": "130°", "en": "130°"},
+            {"hi": "50°", "en": "50°"},
+            {"hi": "90°", "en": "90°"}
           ],
-          "answer": {"hi": "बार-बार घटाने की विधि", "en": "Repeated subtraction method"}
+          "answer": {"hi": "40°", "en": "40°"}
         },
         {
           "q": {
-            "hi": "यदि n² = 169 है, तो n का मान क्या होगा?",
-            "en": "If n² = 169, what is the value of n?"
+            "hi": "शीर्षाभिमुख कोणों के एक युग्म में यदि एक कोण न्यून कोण है, तो दूसरा कैसा होगा?",
+            "en": "In a pair of vertically opposite angles, if one is acute, what will the other be?"
           },
           "options": [
-            {"hi": "13", "en": "13"},
-            {"hi": "14", "en": "14"},
-            {"hi": "17", "en": "17"},
-            {"hi": "19", "en": "19"}
+            {"hi": "अधिक कोण", "en": "Obtuse angle"},
+            {"hi": "न्यून कोण", "en": "Acute angle"},
+            {"hi": "समकोण", "en": "Right angle"},
+            {"hi": "सरल कोण", "en": "Straight angle"}
           ],
-          "answer": {"hi": "13", "en": "13"}
+          "answer": {"hi": "न्यून कोण", "en": "Acute angle"}
         },
         {
           "q": {
-            "hi": "16 का वर्गमूल क्या है?",
-            "en": "What is the square root of 16?"
+            "hi": "अंग्रेजी वर्णमाला का 'Z' अक्षर किन कोणों को दर्शाता है?",
+            "en": "Which angles does the letter 'Z' of English alphabet represent?"
           },
           "options": [
-            {"hi": "2", "en": "2"},
-            {"hi": "4", "en": "4"},
-            {"hi": "8", "en": "8"},
-            {"hi": "32", "en": "32"}
+            {"hi": "संगत कोण", "en": "Corresponding angles"},
+            {"hi": "एकांतर कोण", "en": "Alternate angles"},
+            {"hi": "शीर्षाभिमुख कोण", "en": "Vertically opposite angles"},
+            {"hi": "आसन्न कोण", "en": "Adjacent angles"}
           ],
-          "answer": {"hi": "4", "en": "4"}
+          "answer": {"hi": "एकांतर कोण", "en": "Alternate angles"}
         },
         {
           "q": {
-            "hi": "20 और 30 के बीच की वर्ग संख्या कौन सी है?",
-            "en": "Which square number lies between 20 and 30?"
+            "hi": "अंग्रेजी वर्णमाला का 'F' अक्षर किन कोणों को दर्शाता है?",
+            "en": "Which angles does the letter 'F' of English alphabet represent?"
           },
           "options": [
-            {"hi": "21", "en": "21"},
-            {"hi": "25", "en": "25"},
-            {"hi": "29", "en": "29"},
-            {"hi": "24", "en": "24"}
+            {"hi": "संगत कोण", "en": "Corresponding angles"},
+            {"hi": "एकांतर कोण", "en": "Alternate angles"},
+            {"hi": "रैखिक युग्म", "en": "Linear pair"},
+            {"hi": "पूरक कोण", "en": "Complementary angles"}
           ],
-          "answer": {"hi": "25", "en": "25"}
+          "answer": {"hi": "संगत कोण", "en": "Corresponding angles"}
         },
         {
           "q": {
-            "hi": "1.21 का वर्गमूल क्या है?",
-            "en": "What is the square root of 1.21?"
+            "hi": "दो रेखाएँ जो एक ही रेखा के समांतर हों, वे परस्पर क्या होंगी?",
+            "en": "Two lines which are parallel to the same line are ________ to each other?"
           },
           "options": [
-            {"hi": "1.1", "en": "1.1"},
-            {"hi": "11", "en": "11"},
-            {"hi": "0.11", "en": "0.11"},
-            {"hi": "1.2", "en": "1.2"}
+            {"hi": "लंब", "en": "Perpendicular"},
+            {"hi": "समांतर", "en": "Parallel"},
+            {"hi": "तिर्यक", "en": "Transversal"},
+            {"hi": "प्रतिच्छेदी", "en": "Intersecting"}
           ],
-          "answer": {"hi": "1.1", "en": "1.1"}
+          "answer": {"hi": "समांतर", "en": "Parallel"}
         },
         {
           "q": {
-            "hi": "15² किसके बराबर है?",
-            "en": "15² is equal to?"
+            "hi": "रैखिक युग्म के कोण हमेशा ________ होते हैं।",
+            "en": "The angles of a linear pair are always ________."
           },
           "options": [
-            {"hi": "30", "en": "30"},
-            {"hi": "225", "en": "225"},
-            {"hi": "150", "en": "150"},
-            {"hi": "255", "en": "255"}
+            {"hi": "पूरक", "en": "Complementary"},
+            {"hi": "संपूरक", "en": "Supplementary"},
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "अधिक कोण", "en": "Obtuse"}
           ],
-          "answer": {"hi": "225", "en": "225"}
+          "answer": {"hi": "संपूरक", "en": "Supplementary"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "पाइथागोरस त्रिक (m²-1, 2m, m²+1) में सबसे बड़ी संख्या कौन सी है?",
-            "en": "In the Pythagorean triplet (m²-1, 2m, m²+1), which is the largest number?"
+            "hi": "उस कोण का माप क्या है जो अपने पूरक के बराबर है?",
+            "en": "What is the measure of the angle which is equal to its complement?"
           },
           "options": [
-            {"hi": "2m", "en": "2m"},
-            {"hi": "m² - 1", "en": "m² - 1"},
-            {"hi": "m² + 1", "en": "m² + 1"},
-            {"hi": "m", "en": "m"}
+            {"hi": "90°", "en": "90°"},
+            {"hi": "45°", "en": "45°"},
+            {"hi": "180°", "en": "180°"},
+            {"hi": "0°", "en": "0°"}
           ],
-          "answer": {"hi": "m² + 1", "en": "m² + 1"}
+          "answer": {"hi": "45°", "en": "45°"}
         },
         {
           "q": {
-            "hi": "संख्या 49 को प्रथम 7 विषम संख्याओं के योग के रूप में लिखा जा सकता है?",
-            "en": "Can 49 be written as the sum of the first 7 odd numbers?"
+            "hi": "उस कोण का माप क्या है जो अपने संपूरक के बराबर है?",
+            "en": "What is the measure of the angle which is equal to its supplement?"
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल सम के लिए", "en": "Only for even"},
-            {"hi": "निश्चित नहीं", "en": "Not certain"}
+            {"hi": "90°", "en": "90°"},
+            {"hi": "180°", "en": "180°"},
+            {"hi": "45°", "en": "45°"},
+            {"hi": "100°", "en": "100°"}
           ],
-          "answer": {"hi": "हाँ", "en": "Yes"}
+          "answer": {"hi": "90°", "en": "90°"}
         },
         {
           "q": {
-            "hi": "√1600 का मान क्या है?",
-            "en": "What is the value of √1600?"
+            "hi": "दो समांतर रेखाओं को काटने वाली तिर्यक रेखा के एक ही ओर के अंतःकोण क्या कहलाते हैं?",
+            "en": "What are the interior angles on the same side of a transversal cutting two parallel lines called?"
           },
           "options": [
-            {"hi": "4", "en": "4"},
-            {"hi": "40", "en": "40"},
-            {"hi": "400", "en": "400"},
-            {"hi": "20", "en": "20"}
+            {"hi": "क्रमागत अंतःकोण", "en": "Consecutive interior angles"},
+            {"hi": "एकांतर अंतःकोण", "en": "Alternate interior angles"},
+            {"hi": "संगत कोण", "en": "Corresponding angles"},
+            {"hi": "शीर्षाभिमुख कोण", "en": "Vertically opposite angles"}
           ],
-          "answer": {"hi": "40", "en": "40"}
+          "answer": {"hi": "क्रमागत अंतःकोण", "en": "Consecutive interior angles"}
         },
         {
           "q": {
-            "hi": "किसी संख्या का वर्ग -10 हो सकता है?",
-            "en": "Can the square of any number be -10?"
+            "hi": "यदि $\\angle1 = 120^\\circ$ है, तो इसका रैखिक युग्म $\\angle2$ क्या होगा?",
+            "en": "If $\\angle1 = 120^\\circ$, what will be its linear pair $\\angle2$?"
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "कभी-कभी", "en": "Sometimes"},
-            {"hi": "केवल ऋणात्मक संख्याओं के लिए", "en": "Only for negative numbers"}
+            {"hi": "120°", "en": "120°"},
+            {"hi": "60°", "en": "60°"},
+            {"hi": "180°", "en": "180°"},
+            {"hi": "90°", "en": "90°"}
           ],
-          "answer": {"hi": "नहीं", "en": "No"}
+          "answer": {"hi": "60°", "en": "60°"}
         },
         {
           "q": {
-            "hi": "100 का वर्गमूल क्या है?",
-            "en": "What is the square root of 100?"
+            "hi": "किसी कोण के शीर्षाभिमुख कोणों के कितने युग्म हो सकते हैं (दो रेखाओं के प्रतिच्छेदन से)?",
+            "en": "How many pairs of vertically opposite angles are there (by intersection of two lines)?"
           },
           "options": [
             {"hi": "1", "en": "1"},
-            {"hi": "10", "en": "10"},
-            {"hi": "100", "en": "100"},
-            {"hi": "0", "en": "0"}
-          ],
-          "answer": {"hi": "10", "en": "10"}
-        },
-        {
-          "q": {
-            "hi": "√256 का मान क्या है?",
-            "en": "What is the value of √256?"
-          },
-          "options": [
-            {"hi": "14", "en": "14"},
-            {"hi": "16", "en": "16"},
-            {"hi": "18", "en": "18"},
-            {"hi": "26", "en": "26"}
-          ],
-          "answer": {"hi": "16", "en": "16"}
-        },
-        {
-          "q": {
-            "hi": "वर्ग संख्या 36 का वर्गमूल क्या है?",
-            "en": "What is the square root of square number 36?"
-          },
-          "options": [
+            {"hi": "2", "en": "2"},
             {"hi": "4", "en": "4"},
-            {"hi": "6", "en": "6"},
-            {"hi": "8", "en": "8"},
-            {"hi": "12", "en": "12"}
+            {"hi": "असीमित", "en": "Unlimited"}
           ],
-          "answer": {"hi": "6", "en": "6"}
+          "answer": {"hi": "2", "en": "2"}
         },
         {
           "q": {
-            "hi": "पूर्ण वर्ग संख्या का इकाई अंक 2, 3, 7 या 8 हो सकता है?",
-            "en": "Can the unit digit of a perfect square be 2, 3, 7, or 8?"
+            "hi": "यदि $\\angle ABC = 70^\\circ$ है और इसकी भुजाएँ दूसरी आकृति के समांतर हैं, तो संगत कोण का मान क्या होगा?",
+            "en": "If $\\angle ABC = 70^\\circ$ and its arms are parallel to another figure, what is the value of corresponding angle?"
+          },
+          "options": [
+            {"hi": "70°", "en": "70°"},
+            {"hi": "110°", "en": "110°"},
+            {"hi": "180°", "en": "180°"},
+            {"hi": "90°", "en": "90°"}
+          ],
+          "answer": {"hi": "70°", "en": "70°"}
+        },
+        {
+          "q": {
+            "hi": "क्या दो समकोण एक-दूसरे के पूरक हो सकते हैं?",
+            "en": "Can two right angles be complementary to each other?"
           },
           "options": [
             {"hi": "हाँ", "en": "Yes"},
             {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल 2 के लिए", "en": "Only for 2"},
-            {"hi": "हमेशा", "en": "Always"}
+            {"hi": "कह नहीं सकते", "en": "Can't say"},
+            {"hi": "शून्य होगा", "en": "Will be zero"}
           ],
           "answer": {"hi": "नहीं", "en": "No"}
         },
         {
           "q": {
-            "hi": "संख्या 5 के वर्ग का इकाई अंक क्या होगा? [cite: 1]",
-            "en": "What will be the unit digit of the square of number 5? [cite: 1]"
+            "hi": "180° से अधिक और 360° से कम माप वाले कोण को क्या कहते हैं?",
+            "en": "What is an angle measuring more than 180° and less than 360° called?"
           },
           "options": [
-            {"hi": "0", "en": "0"},
-            {"hi": "5", "en": "5"},
-            {"hi": "2", "en": "2"},
-            {"hi": "1", "en": "1"}
+            {"hi": "वृहत कोण (Reflex angle)", "en": "Reflex angle"},
+            {"hi": "अधिक कोण", "en": "Obtuse angle"},
+            {"hi": "पूर्ण कोण", "en": "Complete angle"},
+            {"hi": "सरल कोण", "en": "Straight angle"}
           ],
-          "answer": {"hi": "5", "en": "5"}
+          "answer": {"hi": "वृहत कोण (Reflex angle)", "en": "Reflex angle"}
         },
         {
           "q": {
-            "hi": "169 का वर्गमूल क्या है?",
-            "en": "What is the square root of 169?"
+            "hi": "अंग्रेजी वर्णमाला का 'X' अक्षर किन कोणों का उदाहरण है?",
+            "en": "Which angles is the letter 'X' of English alphabet an example of?"
           },
           "options": [
-            {"hi": "13", "en": "13"},
-            {"hi": "14", "en": "14"},
-            {"hi": "12", "en": "12"},
-            {"hi": "15", "en": "15"}
+            {"hi": "संगत कोण", "en": "Corresponding angles"},
+            {"hi": "शीर्षाभिमुख कोण", "en": "Vertically opposite angles"},
+            {"hi": "एकांतर कोण", "en": "Alternate angles"},
+            {"hi": "पूरक कोण", "en": "Complementary angles"}
           ],
-          "answer": {"hi": "13", "en": "13"}
+          "answer": {"hi": "शीर्षाभिमुख कोण", "en": "Vertically opposite angles"}
+        },
+        {
+          "q": {
+            "hi": "तिर्यक छेदी रेखा द्वारा समांतर रेखाओं पर बने संगत कोणों के कितने युग्म होते हैं?",
+            "en": "How many pairs of corresponding angles are formed by a transversal on parallel lines?"
+          },
+          "options": [
+            {"hi": "2", "en": "2"},
+            {"hi": "4", "en": "4"},
+            {"hi": "8", "en": "8"},
+            {"hi": "1", "en": "1"}
+          ],
+          "answer": {"hi": "4", "en": "4"}
         }
       ]
     },
