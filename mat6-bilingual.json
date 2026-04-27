@@ -5302,661 +5302,661 @@
       "section1": [
         {
           "q": {
-            "hi": "समांतर चतुर्भुज के क्षेत्रफल का सूत्र क्या है?",
-            "en": "What is the formula for the area of a parallelogram?"
+            "hi": "जब किसी आकृति के कुछ भाग एक निश्चित पैटर्न में दोहराए जाते हैं, तो उसे क्या कहते हैं?",
+            "en": "When parts of a figure are repeated in a certain pattern, what is it called?"
           },
           "options": [
-            {"hi": "आधार × ऊँचाई", "en": "Base × Height"},
-            {"hi": "1/2 × आधार × ऊँचाई", "en": "1/2 × Base × Height"},
-            {"hi": "लंबाई × चौड़ाई", "en": "Length × Breadth"},
-            {"hi": "2 × (आधार + ऊँचाई)", "en": "2 × (Base + Height)"}
+            {"hi": "असमानता", "en": "Asymmetry"},
+            {"hi": "सममिति", "en": "Symmetry"},
+            {"hi": "विभाजन", "en": "Division"},
+            {"hi": "कोण", "en": "Angle"}
           ],
-          "answer": {"hi": "आधार × ऊँचाई", "en": "Base × Height"}
+          "answer": {"hi": "सममिति", "en": "Symmetry"}
         },
         {
           "q": {
-            "hi": "एक त्रिभुज के क्षेत्रफल का सूत्र क्या होता है?",
-            "en": "What is the formula for the area of a triangle?"
+            "hi": "वह रेखा जो किसी आकृति को दो समान भागों में इस प्रकार बाँटती है कि वे एक-दूसरे को पूरी तरह ढक लें, क्या कहलाती है?",
+            "en": "What is the line called that divides a figure into two identical parts such that they overlap perfectly?"
           },
           "options": [
-            {"hi": "आधार × ऊँचाई", "en": "Base × Height"},
-            {"hi": "1/2 × आधार × ऊँचाई", "en": "1/2 × Base × Height"},
-            {"hi": "भुजा × भुजा", "en": "Side × Side"},
-            {"hi": "2 × आधार × ऊँचाई", "en": "2 × Base × Height"}
+            {"hi": "व्यास", "en": "Diameter"},
+            {"hi": "जीवा", "en": "Chord"},
+            {"hi": "सममिति की रेखा", "en": "Line of symmetry"},
+            {"hi": "किरण", "en": "Ray"}
           ],
-          "answer": {"hi": "1/2 × आधार × ऊँचाई", "en": "1/2 × Base × Height"}
+          "answer": {"hi": "सममिति की रेखा", "en": "Line of symmetry"}
         },
         {
           "q": {
-            "hi": "समांतर चतुर्भुज में ऊँचाई किस पर लंब होती है?",
-            "en": "In a parallelogram, height is perpendicular to what?"
+            "hi": "अंग्रेजी अक्षर 'A' में कितनी सममिति रेखाएँ होती हैं?",
+            "en": "How many lines of symmetry does the English letter 'A' have?"
           },
           "options": [
-            {"hi": "विकर्ण पर", "en": "On the diagonal"},
-            {"hi": "आधार पर", "en": "On the base"},
-            {"hi": "शीर्ष पर", "en": "On the vertex"},
-            {"hi": "किसी पर नहीं", "en": "On none"}
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "अनंत", "en": "Infinite"}
           ],
-          "answer": {"hi": "आधार पर", "en": "On the base"}
+          "answer": {"hi": "1", "en": "1"}
         },
         {
           "q": {
-            "hi": "वृत्त के व्यास (diameter) और त्रिज्या (radius) में क्या संबंध है?",
-            "en": "What is the relation between the diameter and radius of a circle?"
+            "hi": "एक वर्ग (Square) में कुल कितनी सममिति रेखाएँ होती हैं?",
+            "en": "How many lines of symmetry are there in a square?"
           },
           "options": [
-            {"hi": "व्यास = 2 × त्रिज्या", "en": "Diameter = 2 × Radius"},
-            {"hi": "त्रिज्या = 2 × व्यास", "en": "Radius = 2 × Diameter"},
-            {"hi": "व्यास = त्रिज्या + 2", "en": "Diameter = Radius + 2"},
-            {"hi": "व्यास = त्रिज्या", "en": "Diameter = Radius"}
+            {"hi": "2", "en": "2"},
+            {"hi": "3", "en": "3"},
+            {"hi": "4", "en": "4"},
+            {"hi": "6", "en": "6"}
           ],
-          "answer": {"hi": "व्यास = 2 × त्रिज्या", "en": "Diameter = 2 × Radius"}
+          "answer": {"hi": "4", "en": "4"}
         },
         {
           "q": {
-            "hi": "वृत्त की परिधि (circumference) ज्ञात करने का सूत्र क्या है?",
-            "en": "What is the formula to find the circumference of a circle?"
+            "hi": "दर्पण में किसी वस्तु का दिखना किस प्रकार की सममिति का उदाहरण है?",
+            "en": "The appearance of an object in a mirror is an example of what kind of symmetry?"
           },
           "options": [
-            {"hi": "πr²", "en": "πr²"},
-            {"hi": "2πr", "en": "2πr"},
-            {"hi": "πd²", "en": "πd²"},
-            {"hi": "2πd", "en": "2πd"}
+            {"hi": "घूर्णन सममिति", "en": "Rotational symmetry"},
+            {"hi": "परावर्तन सममिति", "en": "Reflection symmetry"},
+            {"hi": "ऊर्ध्वाधर सममिति", "en": "Vertical symmetry"},
+            {"hi": "कोई नहीं", "en": "None"}
           ],
-          "answer": {"hi": "2πr", "en": "2πr"}
+          "answer": {"hi": "परावर्तन सममिति", "en": "Reflection symmetry"}
         },
         {
           "q": {
-            "hi": "वृत्त के क्षेत्रफल का सूत्र क्या है?",
-            "en": "What is the formula for the area of a circle?"
+            "hi": "एक वृत्त (Circle) में कितनी सममिति रेखाएँ हो सकती हैं?",
+            "en": "How many lines of symmetry can a circle have?"
           },
           "options": [
-            {"hi": "2πr", "en": "2πr"},
-            {"hi": "πr²", "en": "πr²"},
-            {"hi": "πd", "en": "πd"},
-            {"hi": "2πr²", "en": "2πr²"}
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "4", "en": "4"},
+            {"hi": "अनंत (Infinite)", "en": "Infinite"}
           ],
-          "answer": {"hi": "πr²", "en": "πr²"}
+          "answer": {"hi": "अनंत (Infinite)", "en": "Infinite"}
         },
         {
           "q": {
-            "hi": "π (पाई) का लगभग मान क्या लिया जाता है?",
-            "en": "What is the approximate value taken for π (pi)?"
+            "hi": "अंग्रेजी अक्षर 'H' में कितनी सममिति रेखाएँ होती हैं?",
+            "en": "How many lines of symmetry are in the English letter 'H'?"
           },
           "options": [
-            {"hi": "22/7", "en": "22/7"},
-            {"hi": "3.14", "en": "3.14"},
-            {"hi": "उपर्युक्त दोनों", "en": "Both of the above"},
-            {"hi": "7/22", "en": "7/22"}
+            {"hi": "केवल 1", "en": "Only 1"},
+            {"hi": "2 (एक क्षैतिज और एक ऊर्ध्वाधर)", "en": "2 (one horizontal and one vertical)"},
+            {"hi": "3", "en": "3"},
+            {"hi": "शून्य", "en": "Zero"}
           ],
-          "answer": {"hi": "उपर्युक्त दोनों", "en": "Both of the above"}
+          "answer": {"hi": "2 (एक क्षैतिज और एक ऊर्ध्वाधर)", "en": "2 (one horizontal and one vertical)"}
         },
         {
           "q": {
-            "hi": "एक समांतर चतुर्भुज का आधार 5 cm और ऊँचाई 3 cm है, इसका क्षेत्रफल क्या होगा?",
-            "en": "The base of a parallelogram is 5 cm and height is 3 cm, what is its area?"
+            "hi": "परावर्तन में, वस्तु और उसके प्रतिबिंब के बीच की दूरी दर्पण रेखा से कैसी होती है?",
+            "en": "In reflection, what is the distance of the object and its image from the mirror line?"
           },
           "options": [
-            {"hi": "15 cm²", "en": "15 cm²"},
-            {"hi": "8 cm²", "en": "8 cm²"},
-            {"hi": "7.5 cm²", "en": "7.5 cm²"},
-            {"hi": "10 cm²", "en": "10 cm²"}
+            {"hi": "अलग-अलग", "en": "Different"},
+            {"hi": "समान", "en": "Same"},
+            {"hi": "दोगुनी", "en": "Double"},
+            {"hi": "शून्य", "en": "Zero"}
           ],
-          "answer": {"hi": "15 cm²", "en": "15 cm²"}
+          "answer": {"hi": "समान", "en": "Same"}
         },
         {
           "q": {
-            "hi": "एक त्रिभुज का आधार 6 cm और ऊँचाई 4 cm है, इसका क्षेत्रफल क्या होगा?",
-            "en": "The base of a triangle is 6 cm and height is 4 cm, what is its area?"
+            "hi": "तितली का शरीर किस प्रकार की सममिति का एक सुंदर उदाहरण है?",
+            "en": "A butterfly's body is a beautiful example of what kind of symmetry?"
           },
           "options": [
-            {"hi": "24 cm²", "en": "24 cm²"},
-            {"hi": "12 cm²", "en": "12 cm²"},
-            {"hi": "10 cm²", "en": "10 cm²"},
-            {"hi": "48 cm²", "en": "48 cm²"}
+            {"hi": "क्षैतिज सममिति", "en": "Horizontal symmetry"},
+            {"hi": "ऊर्ध्वाधर सममिति", "en": "Vertical symmetry"},
+            {"hi": "घूर्णन सममिति", "en": "Rotational symmetry"},
+            {"hi": "कोई सममिति नहीं", "en": "No symmetry"}
           ],
-          "answer": {"hi": "12 cm²", "en": "12 cm²"}
+          "answer": {"hi": "ऊर्ध्वाधर सममिति", "en": "Vertical symmetry"}
         },
         {
           "q": {
-            "hi": "1 cm² में कितने mm² होते हैं?",
-            "en": "How many mm² are in 1 cm²?"
+            "hi": "जब किसी आकृति को एक निश्चित बिंदु के चारों ओर घुमाया जाता है और वह पहले जैसी दिखती है, तो उसे क्या कहते हैं?",
+            "en": "When a figure is rotated around a fixed point and looks the same as before, what is it called?"
           },
           "options": [
-            {"hi": "10", "en": "10"},
-            {"hi": "100", "en": "100"},
-            {"hi": "1000", "en": "1000"},
-            {"hi": "1", "en": "1"}
+            {"hi": "परावर्तन सममिति", "en": "Reflection symmetry"},
+            {"hi": "घूर्णन सममिति", "en": "Rotational symmetry"},
+            {"hi": "विस्थापन", "en": "Displacement"},
+            {"hi": "झुकाव", "en": "Inclination"}
           ],
-          "answer": {"hi": "100", "en": "100"}
+          "answer": {"hi": "घूर्णन सममिति", "en": "Rotational symmetry"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "वृत्त की परिधि और व्यास का अनुपात सदैव क्या होता है?",
-            "en": "What is the ratio of the circumference to the diameter of a circle always?"
+            "hi": "एक समबाहु त्रिभुज (Equilateral Triangle) में कितनी सममिति रेखाएँ होती हैं?",
+            "en": "How many lines of symmetry does an equilateral triangle have?"
           },
           "options": [
-            {"hi": "स्थिर (π)", "en": "Constant (π)"},
-            {"hi": "त्रिज्या के बराबर", "en": "Equal to radius"},
+            {"hi": "1", "en": "1"},
             {"hi": "2", "en": "2"},
-            {"hi": "बदलता रहता है", "en": "Keep changing"}
+            {"hi": "3", "en": "3"},
+            {"hi": "शून्य", "en": "Zero"}
           ],
-          "answer": {"hi": "स्थिर (π)", "en": "Constant (π)"}
+          "answer": {"hi": "3", "en": "3"}
         },
         {
           "q": {
-            "hi": "1 m² में कितने cm² होते हैं?",
-            "en": "How many cm² are in 1 m²?"
+            "hi": "जिस निश्चित बिंदु के परितः आकृति को घुमाया जाता है, वह क्या कहलाता है?",
+            "en": "What is the fixed point around which a figure is rotated called?"
           },
           "options": [
-            {"hi": "100", "en": "100"},
-            {"hi": "1000", "en": "1000"},
-            {"hi": "10000", "en": "10000"},
-            {"hi": "10", "en": "10"}
+            {"hi": "शीर्ष", "en": "Vertex"},
+            {"hi": "घूर्णन का केंद्र", "en": "Center of rotation"},
+            {"hi": "आधार", "en": "Base"},
+            {"hi": "मध्य बिंदु", "en": "Midpoint"}
           ],
-          "answer": {"hi": "10000", "en": "10000"}
+          "answer": {"hi": "घूर्णन का केंद्र", "en": "Center of rotation"}
         },
         {
           "q": {
-            "hi": "एक हेक्टेयर (hectare) में कितने वर्ग मीटर (m²) होते हैं?",
-            "en": "How many square meters (m²) are in one hectare?"
+            "hi": "वह न्यूनतम कोण जिस पर घूमने के बाद आकृति मूल रूप जैसी दिखती है, क्या कहलाता है?",
+            "en": "The minimum angle at which a figure looks identical to the original after rotation is called?"
           },
           "options": [
-            {"hi": "100", "en": "100"},
-            {"hi": "1000", "en": "1000"},
-            {"hi": "10000", "en": "10000"},
-            {"hi": "100000", "en": "100000"}
+            {"hi": "समकोण", "en": "Right angle"},
+            {"hi": "सममिति का कोण", "en": "Angle of symmetry"},
+            {"hi": "न्यून कोण", "en": "Acute angle"},
+            {"hi": "पूरक कोण", "en": "Complementary angle"}
           ],
-          "answer": {"hi": "10000", "en": "10000"}
+          "answer": {"hi": "सममिति का कोण", "en": "Angle of symmetry"}
         },
         {
           "q": {
-            "hi": "किसी बंद समतल आकृति के घेरे की लंबाई को क्या कहते हैं?",
-            "en": "What is the length of the boundary of a closed plane figure called?"
+            "hi": "एक आयत (Rectangle) में कितनी सममिति रेखाएँ होती हैं?",
+            "en": "How many lines of symmetry does a rectangle have?"
           },
           "options": [
-            {"hi": "क्षेत्रफल", "en": "Area"},
-            {"hi": "परिमाप", "en": "Perimeter"},
-            {"hi": "व्यास", "en": "Diameter"},
-            {"hi": "त्रिज्या", "en": "Radius"}
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "4", "en": "4"},
+            {"hi": "शून्य", "en": "Zero"}
           ],
-          "answer": {"hi": "परिमाप", "en": "Perimeter"}
+          "answer": {"hi": "2", "en": "2"}
         },
         {
           "q": {
-            "hi": "किसी आकृति द्वारा घेरे गए तल के परिमाण को क्या कहते हैं?",
-            "en": "What is the magnitude of the plane enclosed by a figure called?"
+            "hi": "अंग्रेजी अक्षर 'O' में कितनी सममिति रेखाएँ होती हैं?",
+            "en": "How many lines of symmetry are in the English letter 'O'?"
           },
           "options": [
-            {"hi": "परिमाप", "en": "Perimeter"},
-            {"hi": "क्षेत्रफल", "en": "Area"},
-            {"hi": "लंबाई", "en": "Length"},
-            {"hi": "आयतन", "en": "Volume"}
+            {"hi": "केवल 2", "en": "Only 2"},
+            {"hi": "अनेक (Many)", "en": "Many"},
+            {"hi": "1", "en": "1"},
+            {"hi": "शून्य", "en": "Zero"}
           ],
-          "answer": {"hi": "क्षेत्रफल", "en": "Area"}
+          "answer": {"hi": "अनेक (Many)", "en": "Many"}
         },
         {
           "q": {
-            "hi": "यदि समांतर चतुर्भुज का क्षेत्रफल 24 cm² और आधार 4 cm है, तो ऊँचाई क्या होगी?",
-            "en": "If the area of a parallelogram is 24 cm² and base is 4 cm, what is the height?"
+            "hi": "दर्पण में 'बायाँ' भाग 'दायाँ' और 'दायाँ' भाग 'बायाँ' दिखना क्या कहलाता है?",
+            "en": "What is it called when the 'left' part appears 'right' and vice versa in a mirror?"
           },
           "options": [
-            {"hi": "6 cm", "en": "6 cm"},
-            {"hi": "96 cm", "en": "96 cm"},
-            {"hi": "20 cm", "en": "20 cm"},
-            {"hi": "10 cm", "en": "10 cm"}
+            {"hi": "ऊर्ध्वाधर परिवर्तन", "en": "Vertical change"},
+            {"hi": "पाार्श्व परिवर्तन (Lateral Inversion)", "en": "Lateral Inversion"},
+            {"hi": "घूर्णन", "en": "Rotation"},
+            {"hi": "झुकाव", "en": "Incline"}
           ],
-          "answer": {"hi": "6 cm", "en": "6 cm"}
+          "answer": {"hi": "पाार्श्व परिवर्तन (Lateral Inversion)", "en": "Lateral Inversion"}
         },
         {
           "q": {
-            "hi": "7 cm त्रिज्या वाले वृत्त की परिधि क्या होगी? (π = 22/7)",
-            "en": "What will be the circumference of a circle with 7 cm radius? (π = 22/7)"
+            "hi": "एक नियमित षट्भुज (Regular Hexagon) में कितनी सममिति रेखाएँ होती हैं?",
+            "en": "How many lines of symmetry does a regular hexagon have?"
           },
           "options": [
-            {"hi": "22 cm", "en": "22 cm"},
-            {"hi": "44 cm", "en": "44 cm"},
-            {"hi": "154 cm", "en": "154 cm"},
-            {"hi": "11 cm", "en": "11 cm"}
+            {"hi": "3", "en": "3"},
+            {"hi": "4", "en": "4"},
+            {"hi": "6", "en": "6"},
+            {"hi": "8", "en": "8"}
           ],
-          "answer": {"hi": "44 cm", "en": "44 cm"}
+          "answer": {"hi": "6", "en": "6"}
         },
         {
           "q": {
-            "hi": "7 cm त्रिज्या वाले वृत्त का क्षेत्रफल क्या होगा?",
-            "en": "What will be the area of a circle with 7 cm radius?"
+            "hi": "क्या 'फिरकी' (Windmill toy) में घूर्णन सममिति होती है?",
+            "en": "Does a 'Windmill toy' have rotational symmetry?"
           },
           "options": [
-            {"hi": "44 cm²", "en": "44 cm²"},
-            {"hi": "154 cm²", "en": "154 cm²"},
-            {"hi": "22 cm²", "en": "22 cm²"},
-            {"hi": "49 cm²", "en": "49 cm²"}
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "कह नहीं सकते", "en": "Can't say"},
+            {"hi": "केवल हवा चलने पर", "en": "Only when wind blows"}
           ],
-          "answer": {"hi": "154 cm²", "en": "154 cm²"}
+          "answer": {"hi": "हाँ", "en": "Yes"}
         },
         {
           "q": {
-            "hi": "अर्धवृत्त (Semicircle) का क्षेत्रफल पूरे वृत्त के क्षेत्रफल का कितना होता है?",
-            "en": "What is the area of a semicircle compared to the area of the full circle?"
+            "hi": "यदि किसी आकृति को 180° घुमाने पर वह वैसी ही दिखे, तो उसका घूर्णन क्रम क्या होगा?",
+            "en": "If a figure looks the same after a 180° rotation, what is its order of rotation?"
           },
           "options": [
-            {"hi": "दुगुना", "en": "Double"},
-            {"hi": "आधा", "en": "Half"},
-            {"hi": "एक-चौथाई", "en": "One-fourth"},
-            {"hi": "समान", "en": "Same"}
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "4", "en": "4"},
+            {"hi": "शून्य", "en": "Zero"}
           ],
-          "answer": {"hi": "आधा", "en": "Half"}
+          "answer": {"hi": "2", "en": "2"}
         },
         {
           "q": {
-            "hi": "14 cm व्यास वाले पहिये की परिधि क्या होगी?",
-            "en": "What will be the circumference of a wheel with 14 cm diameter?"
+            "hi": "प्रकृति में सममिति के उदाहरण कहाँ देखे जा सकते हैं?",
+            "en": "Where can examples of symmetry be seen in nature?"
           },
           "options": [
-            {"hi": "44 cm", "en": "44 cm"},
-            {"hi": "88 cm", "en": "88 cm"},
-            {"hi": "22 cm", "en": "22 cm"},
-            {"hi": "154 cm", "en": "154 cm"}
+            {"hi": "फूलों में", "en": "In flowers"},
+            {"hi": "पत्तियों में", "en": "In leaves"},
+            {"hi": "तितलियों में", "en": "In butterflies"},
+            {"hi": "उपरोक्त सभी", "en": "All of the above"}
           ],
-          "answer": {"hi": "44 cm", "en": "44 cm"}
+          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "किसी समांतर चतुर्भुज को दो सर्वांगसम त्रिभुजों में कौन विभाजित करता है?",
-            "en": "Who divides a parallelogram into two congruent triangles?"
+            "hi": "एक समद्विबाहु त्रिभुज (Isosceles Triangle) में कितनी सममिति रेखाएँ होती हैं?",
+            "en": "How many lines of symmetry does an isosceles triangle have?"
           },
           "options": [
-            {"hi": "इसका विकर्ण", "en": "Its diagonal"},
-            {"hi": "इसकी भुजा", "en": "Its side"},
-            {"hi": "इसका आधार", "en": "Its base"},
-            {"hi": "इसकी ऊँचाई", "en": "Its height"}
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "3", "en": "3"},
+            {"hi": "शून्य", "en": "Zero"}
           ],
-          "answer": {"hi": "इसका विकर्ण", "en": "Its diagonal"}
+          "answer": {"hi": "1", "en": "1"}
         },
         {
           "q": {
-            "hi": "वृत्ताकार क्षेत्र के चारों ओर की दूरी को क्या कहते हैं?",
-            "en": "What is the distance around a circular region called?"
+            "hi": "अंग्रेजी अक्षर 'Z' में कितनी सममिति रेखाएँ होती हैं?",
+            "en": "How many lines of symmetry are in the English letter 'Z'?"
           },
           "options": [
-            {"hi": "व्यास", "en": "Diameter"},
-            {"hi": "परिधि (Circumference)", "en": "Circumference"},
-            {"hi": "क्षेत्रफल", "en": "Area"},
-            {"hi": "जीवा", "en": "Chord"}
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "अनेक", "en": "Many"}
           ],
-          "answer": {"hi": "परिधि (Circumference)", "en": "Circumference"}
+          "answer": {"hi": "शून्य", "en": "Zero"}
         },
         {
           "q": {
-            "hi": "वृत्त के केंद्र से परिधि तक की दूरी क्या कहलाती है?",
-            "en": "What is the distance from the center of the circle to the circumference called?"
+            "hi": "दैनिक जीवन में सममिति का उपयोग कहाँ किया जाता है?",
+            "en": "Where is symmetry used in daily life?"
           },
           "options": [
-            {"hi": "व्यास", "en": "Diameter"},
-            {"hi": "त्रिज्या (Radius)", "en": "Radius"},
-            {"hi": "परिमाप", "en": "Perimeter"},
-            {"hi": "चाप", "en": "Arc"}
+            {"hi": "वास्तुकला (Architecture) में", "en": "In architecture"},
+            {"hi": "कपड़ों के डिजाइन में", "en": "In clothing designs"},
+            {"hi": "रंगोली बनाने में", "en": "In making Rangoli"},
+            {"hi": "उपरोक्त सभी", "en": "All of the above"}
           ],
-          "answer": {"hi": "त्रिज्या (Radius)", "en": "Radius"}
+          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
         },
         {
           "q": {
-            "hi": "यदि समांतर चतुर्भुज की ऊँचाई 5 cm और क्षेत्रफल 20 cm² है, तो आधार क्या होगा?",
-            "en": "If the height of a parallelogram is 5 cm and area is 20 cm², what is the base?"
+            "hi": "एक समबाहु त्रिभुज के घूर्णन सममिति का कोण क्या है?",
+            "en": "What is the angle of rotational symmetry for an equilateral triangle?"
           },
           "options": [
-            {"hi": "4 cm", "en": "4 cm"},
-            {"hi": "100 cm", "en": "100 cm"},
-            {"hi": "15 cm", "en": "15 cm"},
-            {"hi": "10 cm", "en": "10 cm"}
+            {"hi": "90°", "en": "90°"},
+            {"hi": "120°", "en": "120°"},
+            {"hi": "180°", "en": "180°"},
+            {"hi": "360°", "en": "360°"}
           ],
-          "answer": {"hi": "4 cm", "en": "4 cm"}
+          "answer": {"hi": "120°", "en": "120°"}
         },
         {
           "q": {
-            "hi": "एक आयताकार बगीचे की लंबाई 10 m और चौड़ाई 5 m है। इसके चारों ओर 1 m चौड़ा रास्ता है। रास्ते का क्षेत्रफल क्या होगा?",
-            "en": "A rectangular garden is 10 m long and 5 m wide. There is a 1 m wide path around it. What will be the area of the path?"
+            "hi": "इनमें से किस आकृति में कोई सममिति रेखा नहीं है?",
+            "en": "Which of these figures has no line of symmetry?"
           },
           "options": [
-            {"hi": "50 m²", "en": "50 m²"},
-            {"hi": "34 m²", "en": "34 m²"},
-            {"hi": "84 m²", "en": "84 m²"},
-            {"hi": "15 m²", "en": "15 m²"}
+            {"hi": "वर्ग", "en": "Square"},
+            {"hi": "विषमबाहु त्रिभुज (Scalene Triangle)", "en": "Scalene Triangle"},
+            {"hi": "वृत्त", "en": "Circle"},
+            {"hi": "नियमित पंचभुज", "en": "Regular Pentagon"}
           ],
-          "answer": {"hi": "34 m²", "en": "34 m²"}
+          "answer": {"hi": "विषमबाहु त्रिभुज (Scalene Triangle)", "en": "Scalene Triangle"}
         },
         {
           "q": {
-            "hi": "वृत्त की सबसे बड़ी जीवा क्या होती है?",
-            "en": "What is the longest chord of a circle?"
-          },
-          "options": [
-            {"hi": "त्रिज्या", "en": "Radius"},
-            {"hi": "व्यास (Diameter)", "en": "Diameter"},
-            {"hi": "परिधि", "en": "Circumference"},
-            {"hi": "चाप", "en": "Arc"}
-          ],
-          "answer": {"hi": "व्यास (Diameter)", "en": "Diameter"}
-        },
-        {
-          "q": {
-            "hi": "10 cm भुजा वाले वर्ग का क्षेत्रफल क्या होगा?",
-            "en": "What will be the area of a square with side 10 cm?"
-          },
-          "options": [
-            {"hi": "40 cm²", "en": "40 cm²"},
-            {"hi": "100 cm²", "en": "100 cm²"},
-            {"hi": "20 cm²", "en": "20 cm²"},
-            {"hi": "10 cm²", "en": "10 cm²"}
-          ],
-          "answer": {"hi": "100 cm²", "en": "100 cm²"}
-        },
-        {
-          "q": {
-            "hi": "10 cm भुजा वाले वर्ग का परिमाप क्या होगा?",
-            "en": "What will be the perimeter of a square with side 10 cm?"
-          },
-          "options": [
-            {"hi": "100 cm", "en": "100 cm"},
-            {"hi": "40 cm", "en": "40 cm"},
-            {"hi": "20 cm", "en": "20 cm"},
-            {"hi": "80 cm", "en": "80 cm"}
-          ],
-          "answer": {"hi": "40 cm", "en": "40 cm"}
-        },
-        {
-          "q": {
-            "hi": "त्रिज्या r वाले वृत्त का व्यास क्या होता है?",
-            "en": "What is the diameter of a circle with radius r?"
-          },
-          "options": [
-            {"hi": "r/2", "en": "r/2"},
-            {"hi": "2r", "en": "2r"},
-            {"hi": "r²", "en": "r²"},
-            {"hi": "πr", "en": "πr"}
-          ],
-          "answer": {"hi": "2r", "en": "2r"}
-        },
-        {
-          "q": {
-            "hi": "समकोण त्रिभुज का क्षेत्रफल ज्ञात करते समय किन दो भुजाओं का उपयोग किया जाता है?",
-            "en": "Which two sides are used while finding the area of a right-angled triangle?"
-          },
-          "options": [
-            {"hi": "कर्ण और आधार", "en": "Hypotenuse and base"},
-            {"hi": "आधार और लंब", "en": "Base and perpendicular"},
-            {"hi": "कर्ण और लंब", "en": "Hypotenuse and perpendicular"},
-            {"hi": "केवल कर्ण", "en": "Only hypotenuse"}
-          ],
-          "answer": {"hi": "आधार और लंब", "en": "Base and perpendicular"}
-        }
-      ],
-      "section4": [
-        {
-          "q": {
-            "hi": "समांतर चतुर्भुज का क्षेत्रफल ज्ञात करने के लिए आधार और ऊँचाई को क्या करते हैं?",
-            "en": "What do we do with base and height to find the area of a parallelogram?"
-          },
-          "options": [
-            {"hi": "जोड़ते हैं", "en": "Add"},
-            {"hi": "घटाते हैं", "en": "Subtract"},
-            {"hi": "गुणा करते हैं", "en": "Multiply"},
-            {"hi": "भाग देते हैं", "en": "Divide"}
-          ],
-          "answer": {"hi": "गुणा करते हैं", "en": "Multiply"}
-        },
-        {
-          "q": {
-            "hi": "31.4 cm परिधि वाले वृत्त की त्रिज्या क्या होगी? (π = 3.14)",
-            "en": "What will be the radius of a circle with a circumference of 31.4 cm? (π = 3.14)"
-          },
-          "options": [
-            {"hi": "10 cm", "en": "10 cm"},
-            {"hi": "5 cm", "en": "5 cm"},
-            {"hi": "3.14 cm", "en": "3.14 cm"},
-            {"hi": "1 cm", "en": "1 cm"}
-          ],
-          "answer": {"hi": "5 cm", "en": "5 cm"}
-        },
-        {
-          "q": {
-            "hi": "वृत्ताकार शीट की त्रिज्या 14 cm है। इसकी परिधि क्या है?",
-            "en": "Radius of circular sheet is 14 cm. What is its circumference?"
-          },
-          "options": [
-            {"hi": "44 cm", "en": "44 cm"},
-            {"hi": "88 cm", "en": "88 cm"},
-            {"hi": "154 cm", "en": "154 cm"},
-            {"hi": "22 cm", "en": "22 cm"}
-          ],
-          "answer": {"hi": "88 cm", "en": "88 cm"}
-        },
-        {
-          "q": {
-            "hi": "एक वृत्ताकार घड़ी की मिनट की सुई की लंबाई 15 cm है। 1 घंटे में वह कितनी दूरी तय करेगी?",
-            "en": "A circular clock's minute hand is 15 cm long. How much distance will it cover in 1 hour?"
-          },
-          "options": [
-            {"hi": "30 cm", "en": "30 cm"},
-            {"hi": "94.2 cm", "en": "94.2 cm"},
-            {"hi": "47.1 cm", "en": "47.1 cm"},
-            {"hi": "15 cm", "en": "15 cm"}
-          ],
-          "answer": {"hi": "94.2 cm", "en": "94.2 cm"}
-        },
-        {
-          "q": {
-            "hi": "समांतर चतुर्भुज का क्षेत्रफल आयत के क्षेत्रफल के बराबर होता है यदि क्या समान हों?",
-            "en": "Area of parallelogram is equal to the area of rectangle if what is same?"
-          },
-          "options": [
-            {"hi": "आधार और ऊँचाई", "en": "Base and height"},
-            {"hi": "विकर्ण", "en": "Diagonals"},
-            {"hi": "केवल आधार", "en": "Only base"},
-            {"hi": "केवल ऊँचाई", "en": "Only height"}
-          ],
-          "answer": {"hi": "आधार और ऊँचाई", "en": "Base and height"}
-        },
-        {
-          "q": {
-            "hi": "28 cm त्रिज्या वाले पहिये को 352 m दूरी तय करने के लिए कितनी बार घुमाना पड़ेगा?",
-            "en": "How many times a wheel with 28 cm radius must rotate to cover 352 m?"
-          },
-          "options": [
-            {"hi": "100", "en": "100"},
-            {"hi": "200", "en": "200"},
-            {"hi": "50", "en": "50"},
-            {"hi": "400", "en": "400"}
-          ],
-          "answer": {"hi": "200", "en": "200"}
-        },
-        {
-          "q": {
-            "hi": "वृत्ताकार क्यारी का व्यास 66 m है। इसके चारों ओर 4 m चौड़ा रास्ता है। रास्ते का क्षेत्रफल क्या होगा?",
-            "en": "A circular bed has a diameter of 66 m. There is a 4 m wide path around it. Area of the path?"
-          },
-          "options": [
-            {"hi": "879.2 m²", "en": "879.2 m²"},
-            {"hi": "314 m²", "en": "314 m²"},
-            {"hi": "100 m²", "en": "100 m²"},
-            {"hi": "500 m²", "en": "500 m²"}
-          ],
-          "answer": {"hi": "879.2 m²", "en": "879.2 m²"}
-        },
-        {
-          "q": {
-            "hi": "यदि वृत्त की परिधि 154 cm है, तो उसकी त्रिज्या क्या होगी?",
-            "en": "If the circumference of a circle is 154 cm, what will be its radius?"
-          },
-          "options": [
-            {"hi": "24.5 cm", "en": "24.5 cm"},
-            {"hi": "7 cm", "en": "7 cm"},
-            {"hi": "14 cm", "en": "14 cm"},
-            {"hi": "49 cm", "en": "49 cm"}
-          ],
-          "answer": {"hi": "24.5 cm", "en": "24.5 cm"}
-        },
-        {
-          "q": {
-            "hi": "एक तार को मोड़कर 10 cm भुजा वाला वर्ग बनाया गया। तार की कुल लंबाई क्या है?",
-            "en": "A wire is bent into a square of side 10 cm. What is the total length of the wire?"
-          },
-          "options": [
-            {"hi": "100 cm", "en": "100 cm"},
-            {"hi": "40 cm", "en": "40 cm"},
-            {"hi": "20 cm", "en": "20 cm"},
-            {"hi": "10 cm", "en": "10 cm"}
-          ],
-          "answer": {"hi": "40 cm", "en": "40 cm"}
-        },
-        {
-          "q": {
-            "hi": "एक तार 44 cm लम्बा है। इसे वृत्त के रूप में मोड़ा गया। इसकी त्रिज्या क्या होगी?",
-            "en": "A wire is 44 cm long. It is bent into a circle. What will be its radius?"
-          },
-          "options": [
-            {"hi": "14 cm", "en": "14 cm"},
-            {"hi": "7 cm", "en": "7 cm"},
-            {"hi": "22 cm", "en": "22 cm"},
-            {"hi": "44 cm", "en": "44 cm"}
-          ],
-          "answer": {"hi": "7 cm", "en": "7 cm"}
-        }
-      ],
-      "section5": [
-        {
-          "q": {
-            "hi": "यदि वृत्त का क्षेत्रफल 616 cm² है, तो उसकी त्रिज्या क्या है?",
-            "en": "If the area of the circle is 616 cm², what is its radius?"
-          },
-          "options": [
-            {"hi": "7 cm", "en": "7 cm"},
-            {"hi": "14 cm", "en": "14 cm"},
-            {"hi": "21 cm", "en": "21 cm"},
-            {"hi": "28 cm", "en": "28 cm"}
-          ],
-          "answer": {"hi": "14 cm", "en": "14 cm"}
-        },
-        {
-          "q": {
-            "hi": "एक त्रिभुज का क्षेत्रफल 36 cm² और ऊँचाई 9 cm है। इसका आधार क्या होगा?",
-            "en": "The area of a triangle is 36 cm² and height is 9 cm. What will be its base?"
-          },
-          "options": [
-            {"hi": "4 cm", "en": "4 cm"},
-            {"hi": "8 cm", "en": "8 cm"},
-            {"hi": "12 cm", "en": "12 cm"},
-            {"hi": "16 cm", "en": "16 cm"}
-          ],
-          "answer": {"hi": "8 cm", "en": "8 cm"}
-        },
-        {
-          "q": {
-            "hi": "1 cm² किसके बराबर है?",
-            "en": "1 cm² is equal to what?"
-          },
-          "options": [
-            {"hi": "100 mm²", "en": "100 mm²"},
-            {"hi": "10 mm²", "en": "10 mm²"},
-            {"hi": "1000 mm²", "en": "1000 mm²"},
-            {"hi": "1 mm²", "en": "1 mm²"}
-          ],
-          "answer": {"hi": "100 mm²", "en": "100 mm²"}
-        },
-        {
-          "q": {
-            "hi": "6 cm भुजा वाले वर्गाकार शीट में से 2 cm त्रिज्या का वृत्त काटा गया। शेष शीट का क्षेत्रफल क्या है? (π = 3.14)",
-            "en": "A circle of radius 2 cm is cut from a square sheet of side 6 cm. Area of remaining sheet? (π = 3.14)"
-          },
-          "options": [
-            {"hi": "23.44 cm²", "en": "23.44 cm²"},
-            {"hi": "36 cm²", "en": "36 cm²"},
-            {"hi": "12.56 cm²", "en": "12.56 cm²"},
-            {"hi": "25 cm²", "en": "25 cm²"}
-          ],
-          "answer": {"hi": "23.44 cm²", "en": "23.44 cm²"}
-        },
-        {
-          "q": {
-            "hi": "वृत्ताकार बगीचे का क्षेत्रफल 314 m² है। 12 m रेंज वाला फव्वारा क्या पूरे बगीचे में पानी छिड़क सकेगा?",
-            "en": "A circular garden area is 314 m². Can a sprinkler with 12 m range water the whole garden?"
+            "hi": "क्या ताज महल एक सममित इमारत है?",
+            "en": "Is the Taj Mahal a symmetrical building?"
           },
           "options": [
             {"hi": "हाँ", "en": "Yes"},
             {"hi": "नहीं", "en": "No"},
-            {"hi": "आधे में ही", "en": "Only half"},
+            {"hi": "केवल रात में", "en": "Only at night"},
             {"hi": "कह नहीं सकते", "en": "Can't say"}
           ],
           "answer": {"hi": "हाँ", "en": "Yes"}
         },
         {
           "q": {
-            "hi": "90° वाले वृत्त के चतुर्थांश (Quadrant) का क्षेत्रफल क्या होता है?",
-            "en": "What is the area of a quadrant of a circle (90° part)?"
+            "hi": "अंग्रेजी अक्षर 'S' में घूर्णन सममिति का क्रम क्या है?",
+            "en": "What is the order of rotational symmetry in the English letter 'S'?"
           },
           "options": [
-            {"hi": "1/4 × πr²", "en": "1/4 × πr²"},
-            {"hi": "1/2 × πr²", "en": "1/2 × πr²"},
-            {"hi": "πr²", "en": "πr²"},
-            {"hi": "2πr", "en": "2πr"}
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "3", "en": "3"},
+            {"hi": "4", "en": "4"}
           ],
-          "answer": {"hi": "1/4 × πr²", "en": "1/4 × πr²"}
+          "answer": {"hi": "2", "en": "2"}
         },
         {
           "q": {
-            "hi": "समांतर चतुर्भुज की कोई भी भुजा __________ के रूप में ली जा सकती है।",
-            "en": "Any side of a parallelogram can be taken as a __________."
+            "hi": "एक नियमित पंचभुज (Regular Pentagon) में कितनी सममिति रेखाएँ होती हैं?",
+            "en": "How many lines of symmetry does a regular pentagon have?"
           },
           "options": [
-            {"hi": "आधार", "en": "Base"},
-            {"hi": "ऊँचाई", "en": "Height"},
-            {"hi": "विकर्ण", "en": "Diagonal"},
-            {"hi": "लंब", "en": "Perpendicular"}
+            {"hi": "3", "en": "3"},
+            {"hi": "4", "en": "4"},
+            {"hi": "5", "en": "5"},
+            {"hi": "10", "en": "10"}
           ],
-          "answer": {"hi": "आधार", "en": "Base"}
+          "answer": {"hi": "5", "en": "5"}
         },
         {
           "q": {
-            "hi": "दो वृत्तों की परिधि का अनुपात 2:3 है। उनकी त्रिज्याओं का अनुपात क्या होगा?",
-            "en": "Ratio of circumference of two circles is 2:3. What is the ratio of their radii?"
+            "hi": "सममिति की रेखा को और क्या कहा जा सकता है?",
+            "en": "What else can a line of symmetry be called?"
           },
           "options": [
-            {"hi": "4:9", "en": "4:9"},
-            {"hi": "2:3", "en": "2:3"},
-            {"hi": "3:2", "en": "3:2"},
-            {"hi": "1:1", "en": "1:1"}
+            {"hi": "दर्पण रेखा (Mirror line)", "en": "Mirror line"},
+            {"hi": "त्रिज्या", "en": "Radius"},
+            {"hi": "किरण", "en": "Ray"},
+            {"hi": "कोण", "en": "Angle"}
           ],
-          "answer": {"hi": "2:3", "en": "2:3"}
+          "answer": {"hi": "दर्पण रेखा (Mirror line)", "en": "Mirror line"}
         },
         {
           "q": {
-            "hi": "समांतर चतुर्भुज का क्षेत्रफल 100 cm² और ऊँचाई 10 cm है। आधार क्या है?",
-            "en": "Area of parallelogram is 100 cm² and height is 10 cm. What is the base?"
+            "hi": "क्या सममिति सुंदरता और संतुलन में सहायता करती है?",
+            "en": "Does symmetry help in beauty and balance?"
           },
           "options": [
-            {"hi": "10 cm", "en": "10 cm"},
-            {"hi": "1000 cm", "en": "1000 cm"},
-            {"hi": "1 cm", "en": "1 cm"},
-            {"hi": "20 cm", "en": "20 cm"}
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "कभी-कभी", "en": "Sometimes"},
+            {"hi": "केवल गणित में", "en": "Only in math"}
           ],
-          "answer": {"hi": "10 cm", "en": "10 cm"}
+          "answer": {"hi": "हाँ", "en": "Yes"}
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "एक पंखे (3 ब्लेड वाला) के घूर्णन सममिति का कोण क्या होगा?",
+            "en": "What is the angle of rotational symmetry for a 3-blade fan?"
+          },
+          "options": [
+            {"hi": "90°", "en": "90°"},
+            {"hi": "120°", "en": "120°"},
+            {"hi": "180°", "en": "180°"},
+            {"hi": "60°", "en": "60°"}
+          ],
+          "answer": {"hi": "120°", "en": "120°"}
         },
         {
           "q": {
-            "hi": "21 cm त्रिज्या वाले वृत्त का आधा भाग (Semi-circle) का क्षेत्रफल क्या है?",
-            "en": "What is the area of a semi-circle with 21 cm radius?"
+            "hi": "अंग्रेजी अक्षर 'X' में कितनी सममिति रेखाएँ होती हैं?",
+            "en": "How many lines of symmetry are in the English letter 'X'?"
           },
           "options": [
-            {"hi": "693 cm²", "en": "693 cm²"},
-            {"hi": "1386 cm²", "en": "1386 cm²"},
-            {"hi": "346.5 cm²", "en": "346.5 cm²"},
-            {"hi": "100 cm²", "en": "100 cm²"}
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "4", "en": "4"}
           ],
-          "answer": {"hi": "693 cm²", "en": "693 cm²"}
+          "answer": {"hi": "2", "en": "2"}
+        },
+        {
+          "q": {
+            "hi": "एक पतंग (Kite) में सामान्यतः कितनी सममिति रेखाएँ होती हैं?",
+            "en": "How many lines of symmetry does a kite usually have?"
+          },
+          "options": [
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "4", "en": "4"},
+            {"hi": "शून्य", "en": "Zero"}
+          ],
+          "answer": {"hi": "1", "en": "1"}
+        },
+        {
+          "q": {
+            "hi": "क्या एक ही आकृति में परावर्तन और घूर्णन दोनों सममिति हो सकती हैं?",
+            "en": "Can a figure have both reflection and rotational symmetry?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "केवल वृत्तों में", "en": "Only in circles"},
+            {"hi": "कह नहीं सकते", "en": "Can't say"}
+          ],
+          "answer": {"hi": "हाँ", "en": "Yes"}
+        },
+        {
+          "q": {
+            "hi": "एक वर्ग को उसके केंद्र के परितः न्यूनतम कितने डिग्री घुमाने पर वह पहले जैसा दिखेगा?",
+            "en": "By how many minimum degrees must a square be rotated around its center to look the same?"
+          },
+          "options": [
+            {"hi": "45°", "en": "45°"},
+            {"hi": "90°", "en": "90°"},
+            {"hi": "180°", "en": "180°"},
+            {"hi": "360°", "en": "360°"}
+          ],
+          "answer": {"hi": "90°", "en": "90°"}
+        },
+        {
+          "q": {
+            "hi": "अंग्रेजी अक्षर 'M' में कौन-सी सममिति रेखा होती है?",
+            "en": "Which line of symmetry does the English letter 'M' have?"
+          },
+          "options": [
+            {"hi": "क्षैतिज (Horizontal)", "en": "Horizontal"},
+            {"hi": "ऊर्ध्वाधर (Vertical)", "en": "Vertical"},
+            {"hi": "दोनों", "en": "Both"},
+            {"hi": "कोई नहीं", "en": "None"}
+          ],
+          "answer": {"hi": "ऊर्ध्वाधर (Vertical)", "en": "Vertical"}
+        },
+        {
+          "q": {
+            "hi": "एक समलंब चतुर्भुज (Scalene Trapezium) में कितनी सममिति रेखाएँ होती हैं?",
+            "en": "How many lines of symmetry does a scalene trapezium have?"
+          },
+          "options": [
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "अनेक", "en": "Many"}
+          ],
+          "answer": {"hi": "शून्य", "en": "Zero"}
+        },
+        {
+          "q": {
+            "hi": "यदि किसी आकृति को 360° घुमाने पर ही वह वैसी दिखे, तो उसका घूर्णन क्रम क्या है?",
+            "en": "If a figure looks the same only after a 360° rotation, what is its order of rotation?"
+          },
+          "options": [
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "360", "en": "360"}
+          ],
+          "answer": {"hi": "1", "en": "1"}
+        },
+        {
+          "q": {
+            "hi": "रंगोली में सममिति क्यों महत्वपूर्ण है?",
+            "en": "Why is symmetry important in Rangoli?"
+          },
+          "options": [
+            {"hi": "रंग बचाने के लिए", "en": "To save colors"},
+            {"hi": "आकृति को सुंदर और व्यवस्थित बनाने के लिए", "en": "To make the figure beautiful and organized"},
+            {"hi": "जगह कम लेने के लिए", "en": "To take less space"},
+            {"hi": "महत्वपूर्ण नहीं है", "en": "Not important"}
+          ],
+          "answer": {"hi": "आकृति को सुंदर और व्यवस्थित बनाने के लिए", "en": "To make the figure beautiful and organized"}
+        },
+        {
+          "q": {
+            "hi": "अंग्रेजी अक्षर 'B' में कौन-सी सममिति रेखा होती है?",
+            "en": "Which line of symmetry does the English letter 'B' have?"
+          },
+          "options": [
+            {"hi": "ऊर्ध्वाधर", "en": "Vertical"},
+            {"hi": "क्षैतिज (Horizontal)", "en": "Horizontal"},
+            {"hi": "दोनों", "en": "Both"},
+            {"hi": "शून्य", "en": "Zero"}
+          ],
+          "answer": {"hi": "क्षैतिज (Horizontal)", "en": "Horizontal"}
+        }
+      ],
+      "section5": [
+        {
+          "q": {
+            "hi": "क्या मनुष्य का चेहरा पूरी तरह सममित होता है?",
+            "en": "Is the human face perfectly symmetrical?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं (लगभग होता है)", "en": "No (it is approximately)"},
+            {"hi": "केवल बच्चों का", "en": "Only children's"},
+            {"hi": "कह नहीं सकते", "en": "Can't say"}
+          ],
+          "answer": {"hi": "नहीं (लगभग होता है)", "en": "No (it is approximately)"}
+        },
+        {
+          "q": {
+            "hi": "एक समषट्भुज को 60° घुमाने पर वह पहले जैसा दिखेगा, इसका क्रम क्या होगा?",
+            "en": "Rotating a regular hexagon by 60° makes it look identical, what will be its order?"
+          },
+          "options": [
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "6", "en": "6"},
+            {"hi": "12", "en": "12"}
+          ],
+          "answer": {"hi": "6", "en": "6"}
+        },
+        {
+          "q": {
+            "hi": "आकृति को दो भागों में 'काटना' या 'मोड़ना' किस सममिति की जाँच है?",
+            "en": "Is 'cutting' or 'folding' a figure into two parts a test for which symmetry?"
+          },
+          "options": [
+            {"hi": "घूर्णन", "en": "Rotation"},
+            {"hi": "रेखा सममिति (Line Symmetry)", "en": "Line Symmetry"},
+            {"hi": "विस्थापन", "en": "Displacement"},
+            {"hi": "विस्तार", "en": "Expansion"}
+          ],
+          "answer": {"hi": "रेखा सममिति (Line Symmetry)", "en": "Line Symmetry"}
+        },
+        {
+          "q": {
+            "hi": "अंग्रेजी अक्षर 'E' में कितनी सममिति रेखाएँ हैं?",
+            "en": "How many lines of symmetry are in the English letter 'E'?"
+          },
+          "options": [
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "3", "en": "3"}
+          ],
+          "answer": {"hi": "1", "en": "1"}
+        },
+        {
+          "q": {
+            "hi": "एक समबाहु त्रिभुज के सभी सममिति रेखाएँ कहाँ मिलती हैं?",
+            "en": "Where do all lines of symmetry of an equilateral triangle meet?"
+          },
+          "options": [
+            {"hi": "कोने पर", "en": "At the corner"},
+            {"hi": "केंद्र पर (At the center)", "en": "At the center"},
+            {"hi": "भुजा पर", "en": "On the side"},
+            {"hi": "कहीं नहीं मिलती", "en": "Do not meet"}
+          ],
+          "answer": {"hi": "केंद्र पर (At the center)", "en": "At the center"}
+        },
+        {
+          "q": {
+            "hi": "क्या समद्विबाहु समलंब (Isosceles Trapezium) में सममिति रेखा होती है?",
+            "en": "Does an isosceles trapezium have a line of symmetry?"
+          },
+          "options": [
+            {"hi": "हाँ (1 रेखा)", "en": "Yes (1 line)"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "हाँ (2 रेखाएँ)", "en": "Yes (2 lines)"},
+            {"hi": "केवल वर्गों में", "en": "Only in squares"}
+          ],
+          "answer": {"hi": "हाँ (1 रेखा)", "en": "Yes (1 line)"}
+        },
+        {
+          "q": {
+            "hi": "एक फूल को 90° घुमाने पर वह पहले जैसा दिखता है, उसकी पंखुड़ियों की संख्या क्या हो सकती है?",
+            "en": "A flower looks identical after a 90° rotation, what could be the number of its petals?"
+          },
+          "options": [
+            {"hi": "3", "en": "3"},
+            {"hi": "4 या 4 का गुणज", "en": "4 or a multiple of 4"},
+            {"hi": "5", "en": "5"},
+            {"hi": "7", "en": "7"}
+          ],
+          "answer": {"hi": "4 या 4 का गुणज", "en": "4 or a multiple of 4"}
+        },
+        {
+          "q": {
+            "hi": "सममिति हमें आकृतियों को ______ करने में मदद करती है।",
+            "en": "Symmetry helps us to ______ figures."
+          },
+          "options": [
+            {"hi": "जटिल", "en": "Complicate"},
+            {"hi": "वर्गीकृत और समझने", "en": "Classify and understand"},
+            {"hi": "नष्ट", "en": "Destroy"},
+            {"hi": "रंगने", "en": "Color"}
+          ],
+          "answer": {"hi": "वर्गीकृत और समझने", "en": "Classify and understand"}
+        },
+        {
+          "q": {
+            "hi": "अंग्रेजी अक्षर 'T' में कौन-सी सममिति रेखा है?",
+            "en": "Which line of symmetry does the English letter 'T' have?"
+          },
+          "options": [
+            {"hi": "ऊर्ध्वाधर (Vertical)", "en": "Vertical"},
+            {"hi": "क्षैतिज", "en": "Horizontal"},
+            {"hi": "दोनों", "en": "Both"},
+            {"hi": "शून्य", "en": "Zero"}
+          ],
+          "answer": {"hi": "ऊर्ध्वाधर (Vertical)", "en": "Vertical"}
+        },
+        {
+          "q": {
+            "hi": "सममिति का 'घूर्णन क्रम' (Order of rotation) क्या दर्शाता है?",
+            "en": "What does the 'order of rotation' in symmetry indicate?"
+          },
+          "options": [
+            {"hi": "भुजाओं की संख्या", "en": "Number of sides"},
+            {"hi": "एक पूरे चक्कर में आकृति कितनी बार मूल रूप जैसी दिखती है", "en": "How many times a figure looks like the original in one full turn"},
+            {"hi": "कोनों की संख्या", "en": "Number of corners"},
+            {"hi": "रेखाओं की लंबाई", "en": "Length of lines"}
+          ],
+          "answer": {"hi": "एक पूरे चक्कर में आकृति कितनी बार मूल रूप जैसी दिखती है", "en": "How many times a figure looks like the original in one full turn"}
         }
       ]
     },
