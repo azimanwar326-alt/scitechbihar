@@ -5300,583 +5300,81 @@
       "section1": [
         {
           "q": {
-            "hi": "किसी बंद समतल आकृति की सीमा के चारों ओर की दूरी क्या कहलाती है?",
-            "en": "What is the distance around the boundary of a closed plane figure called?"
+            "hi": "समांतर चतुर्भुज के क्षेत्रफल का सूत्र क्या है?",
+            "en": "What is the formula for the area of a parallelogram?"
           },
           "options": [
-            {"hi": "क्षेत्रफल", "en": "Area"},
-            {"hi": "परिमाप", "en": "Perimeter"},
-            {"hi": "आयतन", "en": "Volume"},
-            {"hi": "सतह", "en": "Surface"}
-          ],
-          "answer": {"hi": "परिमाप", "en": "Perimeter"}
-        },
-        {
-          "q": {
-            "hi": "आकृति द्वारा घिरे हुए क्षेत्र को क्या कहते हैं?",
-            "en": "What is the region enclosed by a figure called?"
-          },
-          "options": [
-            {"hi": "परिमाप", "en": "Perimeter"},
-            {"hi": "क्षेत्रफल", "en": "Area"},
-            {"hi": "ऊँचाई", "en": "Height"},
-            {"hi": "चौड़ाई", "en": "Width"}
-          ],
-          "answer": {"hi": "क्षेत्रफल", "en": "Area"}
-        },
-        {
-          "q": {
-            "hi": "भुजा 'a' वाले वर्ग का क्षेत्रफल क्या होगा?",
-            "en": "What is the area of a square with side 'a'?"
-          },
-          "options": [
-            {"hi": "4a", "en": "4a"},
-            {"hi": "a²", "en": "a²"},
-            {"hi": "2a", "en": "2a"},
-            {"hi": "a³", "en": "a³"}
-          ],
-          "answer": {"hi": "a²", "en": "a²"}
-        },
-        {
-          "q": {
-            "hi": "आयत का क्षेत्रफल ज्ञात करने का सूत्र क्या है?",
-            "en": "What is the formula to find the area of a rectangle?"
-          },
-          "options": [
-            {"hi": "लंबाई + चौड़ाई", "en": "Length + Breadth"},
+            {"hi": "आधार × ऊँचाई", "en": "Base × Height"},
+            {"hi": "1/2 × आधार × ऊँचाई", "en": "1/2 × Base × Height"},
             {"hi": "लंबाई × चौड़ाई", "en": "Length × Breadth"},
-            {"hi": "2 × (लंबाई + चौड़ाई)", "en": "2 × (Length + Breadth)"},
-            {"hi": "लंबाई / चौड़ाई", "en": "Length / Breadth"}
-          ],
-          "answer": {"hi": "लंबाई × चौड़ाई", "en": "Length × Breadth"}
-        },
-        {
-          "q": {
-            "hi": "त्रिभुज का क्षेत्रफल क्या होता है?",
-            "en": "What is the area of a triangle?"
-          },
-          "options": [
-            {"hi": "आधार × ऊँचाई", "en": "Base × Height"},
-            {"hi": "½ × आधार × ऊँचाई", "en": "½ × Base × Height"},
-            {"hi": "2 × आधार × ऊँचाई", "en": "2 × Base × Height"},
-            {"hi": "आधार + ऊँचाई", "en": "Base + Height"}
-          ],
-          "answer": {"hi": "½ × आधार × ऊँचाई", "en": "½ × Base × Height"}
-        },
-        {
-          "q": {
-            "hi": "समांतर चतुर्भुज का क्षेत्रफल क्या है?",
-            "en": "What is the area of a parallelogram?"
-          },
-          "options": [
-            {"hi": "आधार × ऊँचाई", "en": "Base × Height"},
-            {"hi": "½ × आधार × ऊँचाई", "en": "½ × Base × Height"},
-            {"hi": "भुजा²", "en": "Side²"},
             {"hi": "2 × (आधार + ऊँचाई)", "en": "2 × (Base + Height)"}
           ],
           "answer": {"hi": "आधार × ऊँचाई", "en": "Base × Height"}
         },
         {
           "q": {
-            "hi": "त्रिज्या 'r' वाले वृत्त का क्षेत्रफल क्या है?",
-            "en": "What is the area of a circle with radius 'r'?"
+            "hi": "एक त्रिभुज के क्षेत्रफल का सूत्र क्या होता है?",
+            "en": "What is the formula for the area of a triangle?"
+          },
+          "options": [
+            {"hi": "आधार × ऊँचाई", "en": "Base × Height"},
+            {"hi": "1/2 × आधार × ऊँचाई", "en": "1/2 × Base × Height"},
+            {"hi": "भुजा × भुजा", "en": "Side × Side"},
+            {"hi": "2 × आधार × ऊँचाई", "en": "2 × Base × Height"}
+          ],
+          "answer": {"hi": "1/2 × आधार × ऊँचाई", "en": "1/2 × Base × Height"}
+        },
+        {
+          "q": {
+            "hi": "समांतर चतुर्भुज में ऊँचाई किस पर लंब होती है?",
+            "en": "In a parallelogram, height is perpendicular to what?"
+          },
+          "options": [
+            {"hi": "विकर्ण पर", "en": "On the diagonal"},
+            {"hi": "आधार पर", "en": "On the base"},
+            {"hi": "शीर्ष पर", "en": "On the vertex"},
+            {"hi": "किसी पर नहीं", "en": "On none"}
+          ],
+          "answer": {"hi": "आधार पर", "en": "On the base"}
+        },
+        {
+          "q": {
+            "hi": "वृत्त के व्यास (diameter) और त्रिज्या (radius) में क्या संबंध है?",
+            "en": "What is the relation between the diameter and radius of a circle?"
+          },
+          "options": [
+            {"hi": "व्यास = 2 × त्रिज्या", "en": "Diameter = 2 × Radius"},
+            {"hi": "त्रिज्या = 2 × व्यास", "en": "Radius = 2 × Diameter"},
+            {"hi": "व्यास = त्रिज्या + 2", "en": "Diameter = Radius + 2"},
+            {"hi": "व्यास = त्रिज्या", "en": "Diameter = Radius"}
+          ],
+          "answer": {"hi": "व्यास = 2 × त्रिज्या", "en": "Diameter = 2 × Radius"}
+        },
+        {
+          "q": {
+            "hi": "वृत्त की परिधि (circumference) ज्ञात करने का सूत्र क्या है?",
+            "en": "What is the formula to find the circumference of a circle?"
+          },
+          "options": [
+            {"hi": "πr²", "en": "πr²"},
+            {"hi": "2πr", "en": "2πr"},
+            {"hi": "πd²", "en": "πd²"},
+            {"hi": "2πd", "en": "2πd"}
+          ],
+          "answer": {"hi": "2πr", "en": "2πr"}
+        },
+        {
+          "q": {
+            "hi": "वृत्त के क्षेत्रफल का सूत्र क्या है?",
+            "en": "What is the formula for the area of a circle?"
           },
           "options": [
             {"hi": "2πr", "en": "2πr"},
             {"hi": "πr²", "en": "πr²"},
-            {"hi": "πr", "en": "πr"},
+            {"hi": "πd", "en": "πd"},
             {"hi": "2πr²", "en": "2πr²"}
           ],
           "answer": {"hi": "πr²", "en": "πr²"}
-        },
-        {
-          "q": {
-            "hi": "समलंब (Trapezium) का क्षेत्रफल ज्ञात करने का सूत्र क्या है?",
-            "en": "What is the formula for the area of a trapezium?"
-          },
-          "options": [
-            {"hi": "ऊँचाई × (समांतर भुजाओं का योग)", "en": "Height × (Sum of parallel sides)"},
-            {"hi": "½ × ऊँचाई × (समांतर भुजाओं का योग)", "en": "½ × Height × (Sum of parallel sides)"},
-            {"hi": "आधार × ऊँचाई", "en": "Base × Height"},
-            {"hi": "½ × आधार × ऊँचाई", "en": "½ × Base × Height"}
-          ],
-          "answer": {"hi": "½ × ऊँचाई × (समांतर भुजाओं का योग)", "en": "½ × Height × (Sum of parallel sides)"}
-        },
-        {
-          "q": {
-            "hi": "समचतुर्भुज (Rhombus) का क्षेत्रफल विकर्णों d₁ और d₂ के रूप में क्या है?",
-            "en": "What is the area of a rhombus in terms of diagonals d₁ and d₂?"
-          },
-          "options": [
-            {"hi": "d₁ × d₂", "en": "d₁ × d₂"},
-            {"hi": "½ × d₁ × d₂", "en": "½ × d₁ × d₂"},
-            {"hi": "2 × (d₁ + d₂)", "en": "2 × (d₁ + d₂)"},
-            {"hi": "d₁ + d₂", "en": "d₁ + d₂"}
-          ],
-          "answer": {"hi": "½ × d₁ × d₂", "en": "½ × d₁ × d₂"}
-        },
-        {
-          "q": {
-            "hi": "किसी सामान्य चतुर्भुज का क्षेत्रफल ज्ञात करने के लिए उसे किन भागों में बाँटा जा सकता है?",
-            "en": "Into which parts can a general quadrilateral be divided to find its area?"
-          },
-          "options": [
-            {"hi": "दो त्रिभुजों में", "en": "Into two triangles"},
-            {"hi": "दो वृत्तों में", "en": "Into two circles"},
-            {"hi": "चार वर्गों में", "en": "Into four squares"},
-            {"hi": "दो बेलनों में", "en": "Into two cylinders"}
-          ],
-          "answer": {"hi": "दो त्रिभुजों में", "en": "Into two triangles"}
-        }
-      ],
-      "section2": [
-        {
-          "q": {
-            "hi": "एक ठोस का पृष्ठीय क्षेत्रफल क्या होता है?",
-            "en": "What is the surface area of a solid?"
-          },
-          "options": [
-            {"hi": "इसके फलकों के क्षेत्रफलों का योग", "en": "Sum of the areas of its faces"},
-            {"hi": "इसकी भुजाओं की लंबाई", "en": "Length of its sides"},
-            {"hi": "इसके अंदर की खाली जगह", "en": "The space inside it"},
-            {"hi": "केवल आधार का क्षेत्रफल", "en": "Only the area of the base"}
-          ],
-          "answer": {"hi": "इसके फलकों के क्षेत्रफलों का योग", "en": "Sum of the areas of its faces"}
-        },
-        {
-          "q": {
-            "hi": "घनाभ (Cuboid) का कुल पृष्ठीय क्षेत्रफल क्या है?",
-            "en": "What is the total surface area of a cuboid?"
-          },
-          "options": [
-            {"hi": "lb + bh + hl", "en": "lb + bh + hl"},
-            {"hi": "2(lb + bh + hl)", "en": "2(lb + bh + hl)"},
-            {"hi": "l × b × h", "en": "l × b × h"},
-            {"hi": "4(l + b + h)", "en": "4(l + b + h)"}
-          ],
-          "answer": {"hi": "2(lb + bh + hl)", "en": "2(lb + bh + hl)"}
-        },
-        {
-          "q": {
-            "hi": "भुजा 'l' वाले घन (Cube) का पृष्ठीय क्षेत्रफल क्या है?",
-            "en": "What is the surface area of a cube with side 'l'?"
-          },
-          "options": [
-            {"hi": "l²", "en": "l²"},
-            {"hi": "4l²", "en": "4l²"},
-            {"hi": "6l²", "en": "6l²"},
-            {"hi": "l³", "en": "l³"}
-          ],
-          "answer": {"hi": "6l²", "en": "6l²"}
-        },
-        {
-          "q": {
-            "hi": "त्रिज्या 'r' और ऊँचाई 'h' वाले बेलन का वक्र पृष्ठीय क्षेत्रफल क्या है?",
-            "en": "What is the lateral surface area of a cylinder with radius 'r' and height 'h'?"
-          },
-          "options": [
-            {"hi": "πr²h", "en": "πr²h"},
-            {"hi": "2πrh", "en": "2πrh"},
-            {"hi": "2πr(r+h)", "en": "2πr(r+h)"},
-            {"hi": "πrh", "en": "πrh"}
-          ],
-          "answer": {"hi": "2πrh", "en": "2πrh"}
-        },
-        {
-          "q": {
-            "hi": "बेलन का कुल पृष्ठीय क्षेत्रफल क्या है?",
-            "en": "What is the total surface area of a cylinder?"
-          },
-          "options": [
-            {"hi": "2πrh", "en": "2πrh"},
-            {"hi": "2πr(r + h)", "en": "2πr(r + h)"},
-            {"hi": "πr²h", "en": "πr²h"},
-            {"hi": "2πr²", "en": "2πr²"}
-          ],
-          "answer": {"hi": "2πr(r + h)", "en": "2πr(r + h)"}
-        },
-        {
-          "q": {
-            "hi": "घनाभ के पार्श्व पृष्ठीय क्षेत्रफल (चारों दीवारों का क्षेत्रफल) का सूत्र क्या है?",
-            "en": "What is the formula for the lateral surface area of a cuboid?"
-          },
-          "options": [
-            {"hi": "2h(l + b)", "en": "2h(l + b)"},
-            {"hi": "2(lb + bh)", "en": "2(lb + bh)"},
-            {"hi": "lbh", "en": "lbh"},
-            {"hi": "2(l + b)", "en": "2(l + b)"}
-          ],
-          "answer": {"hi": "2h(l + b)", "en": "2h(l + b)"}
-        },
-        {
-          "q": {
-            "hi": "किसी वस्तु द्वारा घेरे गए स्थान की मात्रा क्या कहलाती है?",
-            "en": "What is the amount of space occupied by an object called?"
-          },
-          "options": [
-            {"hi": "क्षेत्रफल", "en": "Area"},
-            {"hi": "परिमाप", "en": "Perimeter"},
-            {"hi": "आयतन (Volume)", "en": "Volume"},
-            {"hi": "धारिता", "en": "Capacity"}
-          ],
-          "answer": {"hi": "आयतन (Volume)", "en": "Volume"}
-        },
-        {
-          "q": {
-            "hi": "किसी बर्तन में भरी जा सकने वाली वस्तु की मात्रा को क्या कहते हैं?",
-            "en": "What is the amount of substance that a container can hold called?"
-          },
-          "options": [
-            {"hi": "आयतन", "en": "Volume"},
-            {"hi": "धारिता (Capacity)", "en": "Capacity"},
-            {"hi": "क्षेत्रफल", "en": "Area"},
-            {"hi": "द्रव्यमान", "en": "Mass"}
-          ],
-          "answer": {"hi": "धारिता (Capacity)", "en": "Capacity"}
-        },
-        {
-          "q": {
-            "hi": "घनाभ का आयतन ज्ञात करने का सूत्र क्या है?",
-            "en": "What is the formula to find the volume of a cuboid?"
-          },
-          "options": [
-            {"hi": "l + b + h", "en": "l + b + h"},
-            {"hi": "2(lb + bh + hl)", "en": "2(lb + bh + hl)"},
-            {"hi": "l × b × h", "en": "l × b × h"},
-            {"hi": "आधार का क्षेत्रफल / ऊँचाई", "en": "Area of base / Height"}
-          ],
-          "answer": {"hi": "l × b × h", "en": "l × b × h"}
-        },
-        {
-          "q": {
-            "hi": "भुजा 'a' वाले घन का आयतन क्या है?",
-            "en": "What is the volume of a cube with side 'a'?"
-          },
-          "options": [
-            {"hi": "a²", "en": "a²"},
-            {"hi": "a³", "en": "a³"},
-            {"hi": "6a²", "en": "6a²"},
-            {"hi": "4a", "en": "4a"}
-          ],
-          "answer": {"hi": "a³", "en": "a³"}
-        }
-      ],
-      "section3": [
-        {
-          "q": {
-            "hi": "बेलन का आयतन ज्ञात करने का सूत्र क्या है?",
-            "en": "What is the formula to find the volume of a cylinder?"
-          },
-          "options": [
-            {"hi": "2πrh", "en": "2πrh"},
-            {"hi": "πr²h", "en": "πr²h"},
-            {"hi": "2πr(r+h)", "en": "2πr(r+h)"},
-            {"hi": "πr²", "en": "πr²"}
-          ],
-          "answer": {"hi": "πr²h", "en": "πr²h"}
-        },
-        {
-          "q": {
-            "hi": "1 cm³ किसके बराबर होता है?",
-            "en": "1 cm³ is equal to?"
-          },
-          "options": [
-            {"hi": "1 mL", "en": "1 mL"},
-            {"hi": "1 L", "en": "1 L"},
-            {"hi": "10 mL", "en": "10 mL"},
-            {"hi": "100 mL", "en": "100 mL"}
-          ],
-          "answer": {"hi": "1 mL", "en": "1 mL"}
-        },
-        {
-          "q": {
-            "hi": "1000 cm³ किसके बराबर है?",
-            "en": "1000 cm³ is equal to?"
-          },
-          "options": [
-            {"hi": "1 L", "en": "1 L"},
-            {"hi": "10 L", "en": "10 L"},
-            {"hi": "100 L", "en": "100 L"},
-            {"hi": "1 mL", "en": "1 mL"}
-          ],
-          "answer": {"hi": "1 L", "en": "1 L"}
-        },
-        {
-          "q": {
-            "hi": "1 m³ कितने लीटर (L) के बराबर होता है?",
-            "en": "1 m³ is equal to how many liters (L)?"
-          },
-          "options": [
-            {"hi": "100 L", "en": "100 L"},
-            {"hi": "1000 L", "en": "1000 L"},
-            {"hi": "10000 L", "en": "10000 L"},
-            {"hi": "10 L", "en": "10 L"}
-          ],
-          "answer": {"hi": "1000 L", "en": "1000 L"}
-        },
-        {
-          "q": {
-            "hi": "एक घन की भुजा दुगुनी करने पर उसके आयतन में कितने गुना वृद्धि होगी?",
-            "en": "If the side of a cube is doubled, how many times will its volume increase?"
-          },
-          "options": [
-            {"hi": "2 गुना", "en": "2 times"},
-            {"hi": "4 गुना", "en": "4 times"},
-            {"hi": "8 गुना", "en": "8 times"},
-            {"hi": "16 गुना", "en": "16 times"}
-          ],
-          "answer": {"hi": "8 गुना", "en": "8 times"}
-        },
-        {
-          "q": {
-            "hi": "एक घन की भुजा दुगुनी करने पर उसके पृष्ठीय क्षेत्रफल में कितने गुना वृद्धि होगी?",
-            "en": "If the side of a cube is doubled, how many times will its surface area increase?"
-          },
-          "options": [
-            {"hi": "2 गुना", "en": "2 times"},
-            {"hi": "4 गुना", "en": "4 times"},
-            {"hi": "6 गुना", "en": "6 times"},
-            {"hi": "8 गुना", "en": "8 times"}
-          ],
-          "answer": {"hi": "4 गुना", "en": "4 times"}
-        },
-        {
-          "q": {
-            "hi": "समलंब का क्षेत्रफल 34 cm² और ऊँचाई 4 cm है। यदि एक समांतर भुजा 10 cm है, तो दूसरी समांतर भुजा क्या होगी?",
-            "en": "Area of a trapezium is 34 cm² and height is 4 cm. If one parallel side is 10 cm, what is the other parallel side?"
-          },
-          "options": [
-            {"hi": "5 cm", "en": "5 cm"},
-            {"hi": "7 cm", "en": "7 cm"},
-            {"hi": "8 cm", "en": "8 cm"},
-            {"hi": "6 cm", "en": "6 cm"}
-          ],
-          "answer": {"hi": "7 cm", "en": "7 cm"}
-        },
-        {
-          "q": {
-            "hi": "समचतुर्भुज के विकर्ण 7.5 cm और 12 cm हैं। इसका क्षेत्रफल क्या होगा?",
-            "en": "The diagonals of a rhombus are 7.5 cm and 12 cm. What will be its area?"
-          },
-          "options": [
-            {"hi": "45 cm²", "en": "45 cm²"},
-            {"hi": "90 cm²", "en": "90 cm²"},
-            {"hi": "30 cm²", "en": "30 cm²"},
-            {"hi": "60 cm²", "en": "60 cm²"}
-          ],
-          "answer": {"hi": "45 cm²", "en": "45 cm²"}
-        },
-        {
-          "q": {
-            "hi": "बेलनाकार टैंक की धारिता लीटर में ज्ञात करने के लिए पहले हमें क्या ज्ञात करना चाहिए?",
-            "en": "To find the capacity of a cylindrical tank in liters, what should we find first?"
-          },
-          "options": [
-            {"hi": "वक्र पृष्ठीय क्षेत्रफल", "en": "Curved surface area"},
-            {"hi": "कुल पृष्ठीय क्षेत्रफल", "en": "Total surface area"},
-            {"hi": "आयतन (m³ या cm³ में)", "en": "Volume (in m³ or cm³)"},
-            {"hi": "आधार का परिमाप", "en": "Perimeter of base"}
-          ],
-          "answer": {"hi": "आयतन (m³ या cm³ में)", "en": "Volume (in m³ or cm³)"}
-        },
-        {
-          "q": {
-            "hi": "1 लीटर (L) में कितने मिलीलीटर (mL) होते हैं?",
-            "en": "How many milliliters (mL) are there in 1 liter (L)?"
-          },
-          "options": [
-            {"hi": "100 mL", "en": "100 mL"},
-            {"hi": "500 mL", "en": "500 mL"},
-            {"hi": "1000 mL", "en": "1000 mL"},
-            {"hi": "10000 mL", "en": "10000 mL"}
-          ],
-          "answer": {"hi": "1000 mL", "en": "1000 mL"}
-        }
-      ],
-      "section4": [
-        {
-          "q": {
-            "hi": "एक ऐसे घनाभ की ऊँचाई क्या होगी जिसके आधार का क्षेत्रफल 180 cm² और आयतन 900 cm³ है?",
-            "en": "What will be the height of a cuboid whose base area is 180 cm² and volume is 900 cm³?"
-          },
-          "options": [
-            {"hi": "4 cm", "en": "4 cm"},
-            {"hi": "5 cm", "en": "5 cm"},
-            {"hi": "6 cm", "en": "6 cm"},
-            {"hi": "10 cm", "en": "10 cm"}
-          ],
-          "answer": {"hi": "5 cm", "en": "5 cm"}
-        },
-        {
-          "q": {
-            "hi": "घनाभ की विमाएँ 60cm × 54cm × 30cm हैं। इसके अंदर 6cm भुजा वाले कितने छोटे घन रखे जा सकते हैं?",
-            "en": "Dimensions of a cuboid are 60cm × 54cm × 30cm. How many small cubes of side 6cm can be placed inside it?"
-          },
-          "options": [
-            {"hi": "450", "en": "450"},
-            {"hi": "480", "en": "480"},
-            {"hi": "500", "en": "500"},
-            {"hi": "540", "en": "540"}
-          ],
-          "answer": {"hi": "450", "en": "450"}
-        },
-        {
-          "q": {
-            "hi": "एक बेलन का आयतन 1.54 m³ और आधार का व्यास 140 cm है। इसकी ऊँचाई क्या होगी?",
-            "en": "A cylinder has a volume of 1.54 m³ and base diameter of 140 cm. What will be its height?"
-          },
-          "options": [
-            {"hi": "1 m", "en": "1 m"},
-            {"hi": "2 m", "en": "2 m"},
-            {"hi": "0.5 m", "en": "0.5 m"},
-            {"hi": "1.5 m", "en": "1.5 m"}
-          ],
-          "answer": {"hi": "1 m", "en": "1 m"}
-        },
-        {
-          "q": {
-            "hi": "एक दूध का टैंक बेलनाकार है (r = 1.5m, h = 7m)। इसमें कितना दूध (लीटर में) आ सकता है?",
-            "en": "A milk tank is cylindrical (r = 1.5m, h = 7m). How much milk (in liters) can it hold?"
-          },
-          "options": [
-            {"hi": "49500 L", "en": "49500 L"},
-            {"hi": "49.5 L", "en": "49.5 L"},
-            {"hi": "495 L", "en": "495 L"},
-            {"hi": "50000 L", "en": "50000 L"}
-          ],
-          "answer": {"hi": "49500 L", "en": "49500 L"}
-        },
-        {
-          "q": {
-            "hi": "एक कुंड का आयतन 108 m³ है। यदि 60 लीटर प्रति मिनट की दर से पानी गिर रहा है, तो भरने में कितने घंटे लगेंगे?",
-            "en": "A reservoir has a volume of 108 m³. If water is falling at 60 liters per minute, how many hours will it take to fill?"
-          },
-          "options": [
-            {"hi": "20 घंटे", "en": "20 hours"},
-            {"hi": "30 घंटे", "en": "30 hours"},
-            {"hi": "40 घंटे", "en": "40 hours"},
-            {"hi": "60 घंटे", "en": "60 hours"}
-          ],
-          "answer": {"hi": "30 घंटे", "en": "30 hours"}
-        },
-        {
-          "q": {
-            "hi": "बेलन के आधार की आकृति कैसी होती है?",
-            "en": "What is the shape of the base of a cylinder?"
-          },
-          "options": [
-            {"hi": "वर्ग", "en": "Square"},
-            {"hi": "आयत", "en": "Rectangle"},
-            {"hi": "वृत्त (Circle)", "en": "Circle"},
-            {"hi": "त्रिभुज", "en": "Triangle"}
-          ],
-          "answer": {"hi": "वृत्त (Circle)", "en": "Circle"}
-        },
-        {
-          "q": {
-            "hi": "घनाभ में कुल कितने फलक (Faces) होते हैं?",
-            "en": "How many faces are there in a cuboid?"
-          },
-          "options": [
-            {"hi": "4", "en": "4"},
-            {"hi": "6", "en": "6"},
-            {"hi": "8", "en": "8"},
-            {"hi": "12", "en": "12"}
-          ],
-          "answer": {"hi": "6", "en": "6"}
-        },
-        {
-          "q": {
-            "hi": "घन में कुल कितने किनारे (Edges) होते हैं?",
-            "en": "How many edges are there in a cube?"
-          },
-          "options": [
-            {"hi": "6", "en": "6"},
-            {"hi": "8", "en": "8"},
-            {"hi": "10", "en": "10"},
-            {"hi": "12", "en": "12"}
-          ],
-          "answer": {"hi": "12", "en": "12"}
-        },
-        {
-          "q": {
-            "hi": "किसी बहुभुज को त्रिभुजों में बाँटकर उसका क्षेत्रफल ज्ञात करने की विधि को क्या कहते हैं?",
-            "en": "What is the method of finding the area of a polygon by dividing it into triangles called?"
-          },
-          "options": [
-            {"hi": "त्रिकोणीकरण (Triangulation)", "en": "Triangulation"},
-            {"hi": "वर्गीकरण", "en": "Classification"},
-            {"hi": "समाकलन", "en": "Integration"},
-            {"hi": "खंडन", "en": "Splitting"}
-          ],
-          "answer": {"hi": "त्रिकोणीकरण (Triangulation)", "en": "Triangulation"}
-        },
-        {
-          "q": {
-            "hi": "क्षेत्रफल की मानक इकाई क्या है?",
-            "en": "What is the standard unit of area?"
-          },
-          "options": [
-            {"hi": "वर्ग इकाई (Square unit)", "en": "Square unit"},
-            {"hi": "घन इकाई", "en": "Cubic unit"},
-            {"hi": "मीटर", "en": "Meter"},
-            {"hi": "लीटर", "en": "Liter"}
-          ],
-          "answer": {"hi": "वर्ग इकाई (Square unit)", "en": "Square unit"}
-        }
-      ],
-      "section5": [
-        {
-          "q": {
-            "hi": "आयतन की मानक इकाई क्या है?",
-            "en": "What is the standard unit of volume?"
-          },
-          "options": [
-            {"hi": "वर्ग इकाई", "en": "Square unit"},
-            {"hi": "घन इकाई (Cubic unit)", "en": "Cubic unit"},
-            {"hi": "मीटर", "en": "Meter"},
-            {"hi": "किलोग्राम", "en": "Kilogram"}
-          ],
-          "answer": {"hi": "घन इकाई (Cubic unit)", "en": "Cubic unit"}
-        },
-        {
-          "q": {
-            "hi": "यदि बेलन की त्रिज्या आधी कर दी जाए और ऊँचाई वही रहे, तो आयतन क्या हो जाएगा?",
-            "en": "If the radius of a cylinder is halved and height remains the same, what will happen to the volume?"
-          },
-          "options": [
-            {"hi": "आधा", "en": "Half"},
-            {"hi": "एक चौथाई (1/4)", "en": "One-fourth"},
-            {"hi": "वही रहेगा", "en": "Remain same"},
-            {"hi": "दुगुना", "en": "Double"}
-          ],
-          "answer": {"hi": "एक चौथाई (1/4)", "en": "One-fourth"}
-        },
-        {
-          "q": {
-            "hi": "घनाभ के आधार का क्षेत्रफल 'A' और ऊँचाई 'h' है, तो आयतन V = ?",
-            "en": "If the base area of a cuboid is 'A' and height is 'h', then Volume V = ?"
-          },
-          "options": [
-            {"hi": "A + h", "en": "A + h"},
-            {"hi": "A / h", "en": "A / h"},
-            {"hi": "A × h", "en": "A × h"},
-            {"hi": "2A + h", "en": "2A + h"}
-          ],
-          "answer": {"hi": "A × h", "en": "A × h"}
-        },
-        {
-          "q": {
-            "hi": "किसी कमरे की चारों दीवारों का क्षेत्रफल उसके किस क्षेत्रफल के बराबर होता है?",
-            "en": "The area of the four walls of a room is equal to its which area?"
-          },
-          "options": [
-            {"hi": "कुल पृष्ठीय क्षेत्रफल", "en": "Total surface area"},
-            {"hi": "पार्श्व पृष्ठीय क्षेत्रफल (Lateral surface area)", "en": "Lateral surface area"},
-            {"hi": "आधार का क्षेत्रफल", "en": "Base area"},
-            {"hi": "आयतन", "en": "Volume"}
-          ],
-          "answer": {"hi": "पार्श्व पृष्ठीय क्षेत्रफल (Lateral surface area)", "en": "Lateral surface area"}
         },
         {
           "q": {
@@ -5884,77 +5382,579 @@
             "en": "What is the approximate value taken for π (pi)?"
           },
           "options": [
-            {"hi": "3.14 या 22/7", "en": "3.14 or 22/7"},
-            {"hi": "3.12", "en": "3.12"},
-            {"hi": "2.14", "en": "2.14"},
+            {"hi": "22/7", "en": "22/7"},
+            {"hi": "3.14", "en": "3.14"},
+            {"hi": "उपर्युक्त दोनों", "en": "Both of the above"},
             {"hi": "7/22", "en": "7/22"}
           ],
-          "answer": {"hi": "3.14 या 22/7", "en": "3.14 or 22/7"}
+          "answer": {"hi": "उपर्युक्त दोनों", "en": "Both of the above"}
         },
         {
           "q": {
-            "hi": "यदि एक बेलन की ऊँचाई और त्रिज्या दोनों 7 cm हैं, तो वक्र पृष्ठीय क्षेत्रफल क्या होगा?",
-            "en": "If both the height and radius of a cylinder are 7 cm, what will be the curved surface area?"
+            "hi": "एक समांतर चतुर्भुज का आधार 5 cm और ऊँचाई 3 cm है, इसका क्षेत्रफल क्या होगा?",
+            "en": "The base of a parallelogram is 5 cm and height is 3 cm, what is its area?"
           },
           "options": [
-            {"hi": "154 cm²", "en": "154 cm²"},
-            {"hi": "308 cm²", "en": "308 cm²"},
-            {"hi": "44 cm²", "en": "44 cm²"},
-            {"hi": "616 cm²", "en": "616 cm²"}
+            {"hi": "15 cm²", "en": "15 cm²"},
+            {"hi": "8 cm²", "en": "8 cm²"},
+            {"hi": "7.5 cm²", "en": "7.5 cm²"},
+            {"hi": "10 cm²", "en": "10 cm²"}
           ],
-          "answer": {"hi": "308 cm²", "en": "308 cm²"}
+          "answer": {"hi": "15 cm²", "en": "15 cm²"}
         },
         {
           "q": {
-            "hi": "एक घनाभ में लंबाई, चौड़ाई और ऊँचाई बराबर होने पर वह क्या कहलाता है?",
-            "en": "What is a cuboid called when its length, breadth, and height are equal?"
+            "hi": "एक त्रिभुज का आधार 6 cm और ऊँचाई 4 cm है, इसका क्षेत्रफल क्या होगा?",
+            "en": "The base of a triangle is 6 cm and height is 4 cm, what is its area?"
           },
           "options": [
-            {"hi": "बेलन", "en": "Cylinder"},
-            {"hi": "घन (Cube)", "en": "Cube"},
-            {"hi": "गोला", "en": "Sphere"},
-            {"hi": "शंकु", "en": "Cone"}
+            {"hi": "24 cm²", "en": "24 cm²"},
+            {"hi": "12 cm²", "en": "12 cm²"},
+            {"hi": "10 cm²", "en": "10 cm²"},
+            {"hi": "48 cm²", "en": "48 cm²"}
           ],
-          "answer": {"hi": "घन (Cube)", "en": "Cube"}
+          "answer": {"hi": "12 cm²", "en": "12 cm²"}
         },
         {
           "q": {
-            "hi": "क्षेत्रमिति (Mensuration) गणित की किस शाखा से संबंधित है?",
-            "en": "Mensuration belongs to which branch of mathematics?"
+            "hi": "1 cm² में कितने mm² होते हैं?",
+            "en": "How many mm² are in 1 cm²?"
           },
           "options": [
-            {"hi": "ज्यामिति (Geometry)", "en": "Geometry"},
-            {"hi": "अंकगणित", "en": "Arithmetic"},
-            {"hi": "बीजगणित", "en": "Algebra"},
-            {"hi": "सांख्यिकी", "en": "Statistics"}
+            {"hi": "10", "en": "10"},
+            {"hi": "100", "en": "100"},
+            {"hi": "1000", "en": "1000"},
+            {"hi": "1", "en": "1"}
           ],
-          "answer": {"hi": "ज्यामिति (Geometry)", "en": "Geometry"}
-        },
+          "answer": {"hi": "100", "en": "100"}
+        }
+      ],
+      "section2": [
         {
           "q": {
-            "hi": "वृत्त की परिधि का सूत्र क्या है?",
-            "en": "What is the formula for the circumference of a circle?"
+            "hi": "वृत्त की परिधि और व्यास का अनुपात सदैव क्या होता है?",
+            "en": "What is the ratio of the circumference to the diameter of a circle always?"
           },
           "options": [
-            {"hi": "πr²", "en": "πr²"},
-            {"hi": "2πr", "en": "2πr"},
-            {"hi": "πd²", "en": "πd²"},
-            {"hi": "2πr²", "en": "2πr²"}
+            {"hi": "स्थिर (π)", "en": "Constant (π)"},
+            {"hi": "त्रिज्या के बराबर", "en": "Equal to radius"},
+            {"hi": "2", "en": "2"},
+            {"hi": "बदलता रहता है", "en": "Keep changing"}
           ],
-          "answer": {"hi": "2πr", "en": "2πr"}
+          "answer": {"hi": "स्थिर (π)", "en": "Constant (π)"}
         },
         {
           "q": {
-            "hi": "यदि घन का आयतन 27 cm³ है, तो इसकी भुजा क्या होगी?",
-            "en": "If the volume of a cube is 27 cm³, what will be its side?"
+            "hi": "1 m² में कितने cm² होते हैं?",
+            "en": "How many cm² are in 1 m²?"
           },
           "options": [
-            {"hi": "3 cm", "en": "3 cm"},
-            {"hi": "9 cm", "en": "9 cm"},
+            {"hi": "100", "en": "100"},
+            {"hi": "1000", "en": "1000"},
+            {"hi": "10000", "en": "10000"},
+            {"hi": "10", "en": "10"}
+          ],
+          "answer": {"hi": "10000", "en": "10000"}
+        },
+        {
+          "q": {
+            "hi": "एक हेक्टेयर (hectare) में कितने वर्ग मीटर (m²) होते हैं?",
+            "en": "How many square meters (m²) are in one hectare?"
+          },
+          "options": [
+            {"hi": "100", "en": "100"},
+            {"hi": "1000", "en": "1000"},
+            {"hi": "10000", "en": "10000"},
+            {"hi": "100000", "en": "100000"}
+          ],
+          "answer": {"hi": "10000", "en": "10000"}
+        },
+        {
+          "q": {
+            "hi": "किसी बंद समतल आकृति के घेरे की लंबाई को क्या कहते हैं?",
+            "en": "What is the length of the boundary of a closed plane figure called?"
+          },
+          "options": [
+            {"hi": "क्षेत्रफल", "en": "Area"},
+            {"hi": "परिमाप", "en": "Perimeter"},
+            {"hi": "व्यास", "en": "Diameter"},
+            {"hi": "त्रिज्या", "en": "Radius"}
+          ],
+          "answer": {"hi": "परिमाप", "en": "Perimeter"}
+        },
+        {
+          "q": {
+            "hi": "किसी आकृति द्वारा घेरे गए तल के परिमाण को क्या कहते हैं?",
+            "en": "What is the magnitude of the plane enclosed by a figure called?"
+          },
+          "options": [
+            {"hi": "परिमाप", "en": "Perimeter"},
+            {"hi": "क्षेत्रफल", "en": "Area"},
+            {"hi": "लंबाई", "en": "Length"},
+            {"hi": "आयतन", "en": "Volume"}
+          ],
+          "answer": {"hi": "क्षेत्रफल", "en": "Area"}
+        },
+        {
+          "q": {
+            "hi": "यदि समांतर चतुर्भुज का क्षेत्रफल 24 cm² और आधार 4 cm है, तो ऊँचाई क्या होगी?",
+            "en": "If the area of a parallelogram is 24 cm² and base is 4 cm, what is the height?"
+          },
+          "options": [
             {"hi": "6 cm", "en": "6 cm"},
-            {"hi": "4.5 cm", "en": "4.5 cm"}
+            {"hi": "96 cm", "en": "96 cm"},
+            {"hi": "20 cm", "en": "20 cm"},
+            {"hi": "10 cm", "en": "10 cm"}
           ],
-          "answer": {"hi": "3 cm", "en": "3 cm"}
+          "answer": {"hi": "6 cm", "en": "6 cm"}
+        },
+        {
+          "q": {
+            "hi": "7 cm त्रिज्या वाले वृत्त की परिधि क्या होगी? (π = 22/7)",
+            "en": "What will be the circumference of a circle with 7 cm radius? (π = 22/7)"
+          },
+          "options": [
+            {"hi": "22 cm", "en": "22 cm"},
+            {"hi": "44 cm", "en": "44 cm"},
+            {"hi": "154 cm", "en": "154 cm"},
+            {"hi": "11 cm", "en": "11 cm"}
+          ],
+          "answer": {"hi": "44 cm", "en": "44 cm"}
+        },
+        {
+          "q": {
+            "hi": "7 cm त्रिज्या वाले वृत्त का क्षेत्रफल क्या होगा?",
+            "en": "What will be the area of a circle with 7 cm radius?"
+          },
+          "options": [
+            {"hi": "44 cm²", "en": "44 cm²"},
+            {"hi": "154 cm²", "en": "154 cm²"},
+            {"hi": "22 cm²", "en": "22 cm²"},
+            {"hi": "49 cm²", "en": "49 cm²"}
+          ],
+          "answer": {"hi": "154 cm²", "en": "154 cm²"}
+        },
+        {
+          "q": {
+            "hi": "अर्धवृत्त (Semicircle) का क्षेत्रफल पूरे वृत्त के क्षेत्रफल का कितना होता है?",
+            "en": "What is the area of a semicircle compared to the area of the full circle?"
+          },
+          "options": [
+            {"hi": "दुगुना", "en": "Double"},
+            {"hi": "आधा", "en": "Half"},
+            {"hi": "एक-चौथाई", "en": "One-fourth"},
+            {"hi": "समान", "en": "Same"}
+          ],
+          "answer": {"hi": "आधा", "en": "Half"}
+        },
+        {
+          "q": {
+            "hi": "14 cm व्यास वाले पहिये की परिधि क्या होगी?",
+            "en": "What will be the circumference of a wheel with 14 cm diameter?"
+          },
+          "options": [
+            {"hi": "44 cm", "en": "44 cm"},
+            {"hi": "88 cm", "en": "88 cm"},
+            {"hi": "22 cm", "en": "22 cm"},
+            {"hi": "154 cm", "en": "154 cm"}
+          ],
+          "answer": {"hi": "44 cm", "en": "44 cm"}
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "किसी समांतर चतुर्भुज को दो सर्वांगसम त्रिभुजों में कौन विभाजित करता है?",
+            "en": "Who divides a parallelogram into two congruent triangles?"
+          },
+          "options": [
+            {"hi": "इसका विकर्ण", "en": "Its diagonal"},
+            {"hi": "इसकी भुजा", "en": "Its side"},
+            {"hi": "इसका आधार", "en": "Its base"},
+            {"hi": "इसकी ऊँचाई", "en": "Its height"}
+          ],
+          "answer": {"hi": "इसका विकर्ण", "en": "Its diagonal"}
+        },
+        {
+          "q": {
+            "hi": "वृत्ताकार क्षेत्र के चारों ओर की दूरी को क्या कहते हैं?",
+            "en": "What is the distance around a circular region called?"
+          },
+          "options": [
+            {"hi": "व्यास", "en": "Diameter"},
+            {"hi": "परिधि (Circumference)", "en": "Circumference"},
+            {"hi": "क्षेत्रफल", "en": "Area"},
+            {"hi": "जीवा", "en": "Chord"}
+          ],
+          "answer": {"hi": "परिधि (Circumference)", "en": "Circumference"}
+        },
+        {
+          "q": {
+            "hi": "वृत्त के केंद्र से परिधि तक की दूरी क्या कहलाती है?",
+            "en": "What is the distance from the center of the circle to the circumference called?"
+          },
+          "options": [
+            {"hi": "व्यास", "en": "Diameter"},
+            {"hi": "त्रिज्या (Radius)", "en": "Radius"},
+            {"hi": "परिमाप", "en": "Perimeter"},
+            {"hi": "चाप", "en": "Arc"}
+          ],
+          "answer": {"hi": "त्रिज्या (Radius)", "en": "Radius"}
+        },
+        {
+          "q": {
+            "hi": "यदि समांतर चतुर्भुज की ऊँचाई 5 cm और क्षेत्रफल 20 cm² है, तो आधार क्या होगा?",
+            "en": "If the height of a parallelogram is 5 cm and area is 20 cm², what is the base?"
+          },
+          "options": [
+            {"hi": "4 cm", "en": "4 cm"},
+            {"hi": "100 cm", "en": "100 cm"},
+            {"hi": "15 cm", "en": "15 cm"},
+            {"hi": "10 cm", "en": "10 cm"}
+          ],
+          "answer": {"hi": "4 cm", "en": "4 cm"}
+        },
+        {
+          "q": {
+            "hi": "एक आयताकार बगीचे की लंबाई 10 m और चौड़ाई 5 m है। इसके चारों ओर 1 m चौड़ा रास्ता है। रास्ते का क्षेत्रफल क्या होगा?",
+            "en": "A rectangular garden is 10 m long and 5 m wide. There is a 1 m wide path around it. What will be the area of the path?"
+          },
+          "options": [
+            {"hi": "50 m²", "en": "50 m²"},
+            {"hi": "34 m²", "en": "34 m²"},
+            {"hi": "84 m²", "en": "84 m²"},
+            {"hi": "15 m²", "en": "15 m²"}
+          ],
+          "answer": {"hi": "34 m²", "en": "34 m²"}
+        },
+        {
+          "q": {
+            "hi": "वृत्त की सबसे बड़ी जीवा क्या होती है?",
+            "en": "What is the longest chord of a circle?"
+          },
+          "options": [
+            {"hi": "त्रिज्या", "en": "Radius"},
+            {"hi": "व्यास (Diameter)", "en": "Diameter"},
+            {"hi": "परिधि", "en": "Circumference"},
+            {"hi": "चाप", "en": "Arc"}
+          ],
+          "answer": {"hi": "व्यास (Diameter)", "en": "Diameter"}
+        },
+        {
+          "q": {
+            "hi": "10 cm भुजा वाले वर्ग का क्षेत्रफल क्या होगा?",
+            "en": "What will be the area of a square with side 10 cm?"
+          },
+          "options": [
+            {"hi": "40 cm²", "en": "40 cm²"},
+            {"hi": "100 cm²", "en": "100 cm²"},
+            {"hi": "20 cm²", "en": "20 cm²"},
+            {"hi": "10 cm²", "en": "10 cm²"}
+          ],
+          "answer": {"hi": "100 cm²", "en": "100 cm²"}
+        },
+        {
+          "q": {
+            "hi": "10 cm भुजा वाले वर्ग का परिमाप क्या होगा?",
+            "en": "What will be the perimeter of a square with side 10 cm?"
+          },
+          "options": [
+            {"hi": "100 cm", "en": "100 cm"},
+            {"hi": "40 cm", "en": "40 cm"},
+            {"hi": "20 cm", "en": "20 cm"},
+            {"hi": "80 cm", "en": "80 cm"}
+          ],
+          "answer": {"hi": "40 cm", "en": "40 cm"}
+        },
+        {
+          "q": {
+            "hi": "त्रिज्या r वाले वृत्त का व्यास क्या होता है?",
+            "en": "What is the diameter of a circle with radius r?"
+          },
+          "options": [
+            {"hi": "r/2", "en": "r/2"},
+            {"hi": "2r", "en": "2r"},
+            {"hi": "r²", "en": "r²"},
+            {"hi": "πr", "en": "πr"}
+          ],
+          "answer": {"hi": "2r", "en": "2r"}
+        },
+        {
+          "q": {
+            "hi": "समकोण त्रिभुज का क्षेत्रफल ज्ञात करते समय किन दो भुजाओं का उपयोग किया जाता है?",
+            "en": "Which two sides are used while finding the area of a right-angled triangle?"
+          },
+          "options": [
+            {"hi": "कर्ण और आधार", "en": "Hypotenuse and base"},
+            {"hi": "आधार और लंब", "en": "Base and perpendicular"},
+            {"hi": "कर्ण और लंब", "en": "Hypotenuse and perpendicular"},
+            {"hi": "केवल कर्ण", "en": "Only hypotenuse"}
+          ],
+          "answer": {"hi": "आधार और लंब", "en": "Base and perpendicular"}
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "समांतर चतुर्भुज का क्षेत्रफल ज्ञात करने के लिए आधार और ऊँचाई को क्या करते हैं?",
+            "en": "What do we do with base and height to find the area of a parallelogram?"
+          },
+          "options": [
+            {"hi": "जोड़ते हैं", "en": "Add"},
+            {"hi": "घटाते हैं", "en": "Subtract"},
+            {"hi": "गुणा करते हैं", "en": "Multiply"},
+            {"hi": "भाग देते हैं", "en": "Divide"}
+          ],
+          "answer": {"hi": "गुणा करते हैं", "en": "Multiply"}
+        },
+        {
+          "q": {
+            "hi": "31.4 cm परिधि वाले वृत्त की त्रिज्या क्या होगी? (π = 3.14)",
+            "en": "What will be the radius of a circle with a circumference of 31.4 cm? (π = 3.14)"
+          },
+          "options": [
+            {"hi": "10 cm", "en": "10 cm"},
+            {"hi": "5 cm", "en": "5 cm"},
+            {"hi": "3.14 cm", "en": "3.14 cm"},
+            {"hi": "1 cm", "en": "1 cm"}
+          ],
+          "answer": {"hi": "5 cm", "en": "5 cm"}
+        },
+        {
+          "q": {
+            "hi": "वृत्ताकार शीट की त्रिज्या 14 cm है। इसकी परिधि क्या है?",
+            "en": "Radius of circular sheet is 14 cm. What is its circumference?"
+          },
+          "options": [
+            {"hi": "44 cm", "en": "44 cm"},
+            {"hi": "88 cm", "en": "88 cm"},
+            {"hi": "154 cm", "en": "154 cm"},
+            {"hi": "22 cm", "en": "22 cm"}
+          ],
+          "answer": {"hi": "88 cm", "en": "88 cm"}
+        },
+        {
+          "q": {
+            "hi": "एक वृत्ताकार घड़ी की मिनट की सुई की लंबाई 15 cm है। 1 घंटे में वह कितनी दूरी तय करेगी?",
+            "en": "A circular clock's minute hand is 15 cm long. How much distance will it cover in 1 hour?"
+          },
+          "options": [
+            {"hi": "30 cm", "en": "30 cm"},
+            {"hi": "94.2 cm", "en": "94.2 cm"},
+            {"hi": "47.1 cm", "en": "47.1 cm"},
+            {"hi": "15 cm", "en": "15 cm"}
+          ],
+          "answer": {"hi": "94.2 cm", "en": "94.2 cm"}
+        },
+        {
+          "q": {
+            "hi": "समांतर चतुर्भुज का क्षेत्रफल आयत के क्षेत्रफल के बराबर होता है यदि क्या समान हों?",
+            "en": "Area of parallelogram is equal to the area of rectangle if what is same?"
+          },
+          "options": [
+            {"hi": "आधार और ऊँचाई", "en": "Base and height"},
+            {"hi": "विकर्ण", "en": "Diagonals"},
+            {"hi": "केवल आधार", "en": "Only base"},
+            {"hi": "केवल ऊँचाई", "en": "Only height"}
+          ],
+          "answer": {"hi": "आधार और ऊँचाई", "en": "Base and height"}
+        },
+        {
+          "q": {
+            "hi": "28 cm त्रिज्या वाले पहिये को 352 m दूरी तय करने के लिए कितनी बार घुमाना पड़ेगा?",
+            "en": "How many times a wheel with 28 cm radius must rotate to cover 352 m?"
+          },
+          "options": [
+            {"hi": "100", "en": "100"},
+            {"hi": "200", "en": "200"},
+            {"hi": "50", "en": "50"},
+            {"hi": "400", "en": "400"}
+          ],
+          "answer": {"hi": "200", "en": "200"}
+        },
+        {
+          "q": {
+            "hi": "वृत्ताकार क्यारी का व्यास 66 m है। इसके चारों ओर 4 m चौड़ा रास्ता है। रास्ते का क्षेत्रफल क्या होगा?",
+            "en": "A circular bed has a diameter of 66 m. There is a 4 m wide path around it. Area of the path?"
+          },
+          "options": [
+            {"hi": "879.2 m²", "en": "879.2 m²"},
+            {"hi": "314 m²", "en": "314 m²"},
+            {"hi": "100 m²", "en": "100 m²"},
+            {"hi": "500 m²", "en": "500 m²"}
+          ],
+          "answer": {"hi": "879.2 m²", "en": "879.2 m²"}
+        },
+        {
+          "q": {
+            "hi": "यदि वृत्त की परिधि 154 cm है, तो उसकी त्रिज्या क्या होगी?",
+            "en": "If the circumference of a circle is 154 cm, what will be its radius?"
+          },
+          "options": [
+            {"hi": "24.5 cm", "en": "24.5 cm"},
+            {"hi": "7 cm", "en": "7 cm"},
+            {"hi": "14 cm", "en": "14 cm"},
+            {"hi": "49 cm", "en": "49 cm"}
+          ],
+          "answer": {"hi": "24.5 cm", "en": "24.5 cm"}
+        },
+        {
+          "q": {
+            "hi": "एक तार को मोड़कर 10 cm भुजा वाला वर्ग बनाया गया। तार की कुल लंबाई क्या है?",
+            "en": "A wire is bent into a square of side 10 cm. What is the total length of the wire?"
+          },
+          "options": [
+            {"hi": "100 cm", "en": "100 cm"},
+            {"hi": "40 cm", "en": "40 cm"},
+            {"hi": "20 cm", "en": "20 cm"},
+            {"hi": "10 cm", "en": "10 cm"}
+          ],
+          "answer": {"hi": "40 cm", "en": "40 cm"}
+        },
+        {
+          "q": {
+            "hi": "एक तार 44 cm लम्बा है। इसे वृत्त के रूप में मोड़ा गया। इसकी त्रिज्या क्या होगी?",
+            "en": "A wire is 44 cm long. It is bent into a circle. What will be its radius?"
+          },
+          "options": [
+            {"hi": "14 cm", "en": "14 cm"},
+            {"hi": "7 cm", "en": "7 cm"},
+            {"hi": "22 cm", "en": "22 cm"},
+            {"hi": "44 cm", "en": "44 cm"}
+          ],
+          "answer": {"hi": "7 cm", "en": "7 cm"}
+        }
+      ],
+      "section5": [
+        {
+          "q": {
+            "hi": "यदि वृत्त का क्षेत्रफल 616 cm² है, तो उसकी त्रिज्या क्या है?",
+            "en": "If the area of the circle is 616 cm², what is its radius?"
+          },
+          "options": [
+            {"hi": "7 cm", "en": "7 cm"},
+            {"hi": "14 cm", "en": "14 cm"},
+            {"hi": "21 cm", "en": "21 cm"},
+            {"hi": "28 cm", "en": "28 cm"}
+          ],
+          "answer": {"hi": "14 cm", "en": "14 cm"}
+        },
+        {
+          "q": {
+            "hi": "एक त्रिभुज का क्षेत्रफल 36 cm² और ऊँचाई 9 cm है। इसका आधार क्या होगा?",
+            "en": "The area of a triangle is 36 cm² and height is 9 cm. What will be its base?"
+          },
+          "options": [
+            {"hi": "4 cm", "en": "4 cm"},
+            {"hi": "8 cm", "en": "8 cm"},
+            {"hi": "12 cm", "en": "12 cm"},
+            {"hi": "16 cm", "en": "16 cm"}
+          ],
+          "answer": {"hi": "8 cm", "en": "8 cm"}
+        },
+        {
+          "q": {
+            "hi": "1 cm² किसके बराबर है?",
+            "en": "1 cm² is equal to what?"
+          },
+          "options": [
+            {"hi": "100 mm²", "en": "100 mm²"},
+            {"hi": "10 mm²", "en": "10 mm²"},
+            {"hi": "1000 mm²", "en": "1000 mm²"},
+            {"hi": "1 mm²", "en": "1 mm²"}
+          ],
+          "answer": {"hi": "100 mm²", "en": "100 mm²"}
+        },
+        {
+          "q": {
+            "hi": "6 cm भुजा वाले वर्गाकार शीट में से 2 cm त्रिज्या का वृत्त काटा गया। शेष शीट का क्षेत्रफल क्या है? (π = 3.14)",
+            "en": "A circle of radius 2 cm is cut from a square sheet of side 6 cm. Area of remaining sheet? (π = 3.14)"
+          },
+          "options": [
+            {"hi": "23.44 cm²", "en": "23.44 cm²"},
+            {"hi": "36 cm²", "en": "36 cm²"},
+            {"hi": "12.56 cm²", "en": "12.56 cm²"},
+            {"hi": "25 cm²", "en": "25 cm²"}
+          ],
+          "answer": {"hi": "23.44 cm²", "en": "23.44 cm²"}
+        },
+        {
+          "q": {
+            "hi": "वृत्ताकार बगीचे का क्षेत्रफल 314 m² है। 12 m रेंज वाला फव्वारा क्या पूरे बगीचे में पानी छिड़क सकेगा?",
+            "en": "A circular garden area is 314 m². Can a sprinkler with 12 m range water the whole garden?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "आधे में ही", "en": "Only half"},
+            {"hi": "कह नहीं सकते", "en": "Can't say"}
+          ],
+          "answer": {"hi": "हाँ", "en": "Yes"}
+        },
+        {
+          "q": {
+            "hi": "90° वाले वृत्त के चतुर्थांश (Quadrant) का क्षेत्रफल क्या होता है?",
+            "en": "What is the area of a quadrant of a circle (90° part)?"
+          },
+          "options": [
+            {"hi": "1/4 × πr²", "en": "1/4 × πr²"},
+            {"hi": "1/2 × πr²", "en": "1/2 × πr²"},
+            {"hi": "πr²", "en": "πr²"},
+            {"hi": "2πr", "en": "2πr"}
+          ],
+          "answer": {"hi": "1/4 × πr²", "en": "1/4 × πr²"}
+        },
+        {
+          "q": {
+            "hi": "समांतर चतुर्भुज की कोई भी भुजा __________ के रूप में ली जा सकती है।",
+            "en": "Any side of a parallelogram can be taken as a __________."
+          },
+          "options": [
+            {"hi": "आधार", "en": "Base"},
+            {"hi": "ऊँचाई", "en": "Height"},
+            {"hi": "विकर्ण", "en": "Diagonal"},
+            {"hi": "लंब", "en": "Perpendicular"}
+          ],
+          "answer": {"hi": "आधार", "en": "Base"}
+        },
+        {
+          "q": {
+            "hi": "दो वृत्तों की परिधि का अनुपात 2:3 है। उनकी त्रिज्याओं का अनुपात क्या होगा?",
+            "en": "Ratio of circumference of two circles is 2:3. What is the ratio of their radii?"
+          },
+          "options": [
+            {"hi": "4:9", "en": "4:9"},
+            {"hi": "2:3", "en": "2:3"},
+            {"hi": "3:2", "en": "3:2"},
+            {"hi": "1:1", "en": "1:1"}
+          ],
+          "answer": {"hi": "2:3", "en": "2:3"}
+        },
+        {
+          "q": {
+            "hi": "समांतर चतुर्भुज का क्षेत्रफल 100 cm² और ऊँचाई 10 cm है। आधार क्या है?",
+            "en": "Area of parallelogram is 100 cm² and height is 10 cm. What is the base?"
+          },
+          "options": [
+            {"hi": "10 cm", "en": "10 cm"},
+            {"hi": "1000 cm", "en": "1000 cm"},
+            {"hi": "1 cm", "en": "1 cm"},
+            {"hi": "20 cm", "en": "20 cm"}
+          ],
+          "answer": {"hi": "10 cm", "en": "10 cm"}
+        },
+        {
+          "q": {
+            "hi": "21 cm त्रिज्या वाले वृत्त का आधा भाग (Semi-circle) का क्षेत्रफल क्या है?",
+            "en": "What is the area of a semi-circle with 21 cm radius?"
+          },
+          "options": [
+            {"hi": "693 cm²", "en": "693 cm²"},
+            {"hi": "1386 cm²", "en": "1386 cm²"},
+            {"hi": "346.5 cm²", "en": "346.5 cm²"},
+            {"hi": "100 cm²", "en": "100 cm²"}
+          ],
+          "answer": {"hi": "693 cm²", "en": "693 cm²"}
         }
       ]
     },
