@@ -3978,661 +3978,661 @@
       "section1": [
         {
           "q": {
-            "hi": "अनुपात का अर्थ क्या है?",
-            "en": "What is the meaning of ratio?"
+            "hi": "जब एक पूरी वस्तु को समान भागों में बाँटा जाता है, तो प्रत्येक भाग क्या कहलाता है?",
+            "en": "When a whole object is divided into equal parts, what is each part called?"
           },
           "options": [
-            {"hi": "दो मात्राओं का योग", "en": "Sum of two quantities"},
-            {"hi": "दो मात्राओं की तुलना", "en": "Comparison of two quantities"},
-            {"hi": "मात्राओं का गुणनफल", "en": "Product of quantities"},
-            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+            {"hi": "पूर्णांक", "en": "Integer"},
+            {"hi": "भिन्न", "en": "Fraction"},
+            {"hi": "गुणज", "en": "Multiple"},
+            {"hi": "योगफल", "en": "Sum"}
           ],
-          "answer": {"hi": "दो मात्राओं की तुलना", "en": "Comparison of two quantities"}
+          "answer": {"hi": "भिन्न", "en": "Fraction"}
         },
         {
           "q": {
-            "hi": "एक टोकरी में 5 संतरे और 20 सेब हैं। संतरों का सेबों से अनुपात क्या होगा?",
-            "en": "A basket has 5 oranges and 20 apples. What is the ratio of oranges to apples?"
+            "hi": "भिन्न 3/4 में संख्या '3' को क्या कहा जाता है?",
+            "en": "In the fraction 3/4, what is the number '3' called?"
           },
           "options": [
-            {"hi": "1 : 4", "en": "1 : 4"},
-            {"hi": "4 : 1", "en": "4 : 1"},
-            {"hi": "5 : 1", "en": "5 : 1"},
-            {"hi": "1 : 5", "en": "1 : 5"}
+            {"hi": "हर", "en": "Denominator"},
+            {"hi": "अंश", "en": "Numerator"},
+            {"hi": "भाजक", "en": "Divisor"},
+            {"hi": "शेषफल", "en": "Remainder"}
           ],
-          "answer": {"hi": "1 : 4", "en": "1 : 4"}
+          "answer": {"hi": "अंश", "en": "Numerator"}
         },
         {
           "q": {
-            "hi": "यदि संतरों की संख्या 5 और कुल फल 25 हैं, तो संतरों का प्रतिशत क्या है?",
-            "en": "If the number of oranges is 5 and total fruits are 25, what is the percentage of oranges?"
+            "hi": "भिन्न 5/8 में संख्या '8' क्या दर्शाती है?",
+            "en": "In the fraction 5/8, what does the number '8' represent?"
           },
           "options": [
-            {"hi": "10%", "en": "10%"},
-            {"hi": "20%", "en": "20%"},
-            {"hi": "25%", "en": "25%"},
-            {"hi": "50%", "en": "50"}
+            {"hi": "कुल समान भागों की संख्या", "en": "Total number of equal parts"},
+            {"hi": "चुने गए भागों की संख्या", "en": "Number of parts taken"},
+            {"hi": "वस्तु की लंबाई", "en": "Length of the object"},
+            {"hi": "वस्तु का मूल्य", "en": "Value of the object"}
           ],
-          "answer": {"hi": "20%", "en": "20%"}
+          "answer": {"hi": "कुल समान भागों की संख्या", "en": "Total number of equal parts"}
         },
         {
           "q": {
-            "hi": "अंकित मूल्य पर दी गई छूट क्या कहलाती है?",
-            "en": "What is the reduction given on the marked price called?"
+            "hi": "एक रोटी को 4 बच्चों में बराबर बाँटने पर प्रत्येक को कितना भाग मिलेगा?",
+            "en": "If one roti is divided equally among 4 children, how much part will each get?"
           },
           "options": [
-            {"hi": "लाभ", "en": "Profit"},
-            {"hi": "हानि", "en": "Loss"},
-            {"hi": "बट्टा (छूट)", "en": "Discount"},
-            {"hi": "ब्याज", "en": "Interest"}
+            {"hi": "1/2", "en": "1/2"},
+            {"hi": "1/3", "en": "1/3"},
+            {"hi": "1/4", "en": "1/4"},
+            {"hi": "4/1", "en": "4/1"}
           ],
-          "answer": {"hi": "बट्टा (छूट)", "en": "Discount"}
+          "answer": {"hi": "1/4", "en": "1/4"}
         },
         {
           "q": {
-            "hi": "बट्टा ज्ञात करने का सही सूत्र क्या है?",
-            "en": "What is the correct formula to find Discount?"
+            "hi": "आधे भाग को भिन्न के रूप में कैसे लिखा जाता है?",
+            "en": "How is a half part written as a fraction?"
           },
           "options": [
-            {"hi": "अंकित मूल्य - विक्रय मूल्य", "en": "Marked Price - Selling Price"},
-            {"hi": "क्रय मूल्य - विक्रय मूल्य", "en": "Cost Price - Selling Price"},
-            {"hi": "अंकित मूल्य + विक्रय मूल्य", "en": "Marked Price + Selling Price"},
-            {"hi": "विक्रय मूल्य - अंकित मूल्य", "en": "Selling Price - Marked Price"}
+            {"hi": "1/4", "en": "1/4"},
+            {"hi": "1/2", "en": "1/2"},
+            {"hi": "2/1", "en": "2/1"},
+            {"hi": "1/3", "en": "1/3"}
           ],
-          "answer": {"hi": "अंकित मूल्य - विक्रय मूल्य", "en": "Marked Price - Selling Price"}
+          "answer": {"hi": "1/2", "en": "1/2"}
         },
         {
           "q": {
-            "hi": "वस्तु को खरीदने के बाद उस पर किए गए अतिरिक्त खर्चे क्या कहलाते हैं?",
-            "en": "What are the additional expenses made on an item after buying called?"
+            "hi": "यदि अंश, हर से छोटा हो, तो वह कैसी भिन्न कहलाती है?",
+            "en": "If the numerator is smaller than the denominator, what kind of fraction is it?"
           },
           "options": [
-            {"hi": "बट्टा", "en": "Discount"},
-            {"hi": "ऊपरी खर्चे (Overhead charges)", "en": "Overhead charges"},
-            {"hi": "बिक्री कर", "en": "Sales Tax"},
-            {"hi": "कमीशन", "en": "Commission"}
+            {"hi": "विषम भिन्न", "en": "Improper fraction"},
+            {"hi": "उचित भिन्न", "en": "Proper fraction"},
+            {"hi": "मिश्रित भिन्न", "en": "Mixed fraction"},
+            {"hi": "तुल्य भिन्न", "en": "Equivalent fraction"}
           ],
-          "answer": {"hi": "ऊपरी खर्चे (Overhead charges)", "en": "Overhead charges"}
+          "answer": {"hi": "उचित भिन्न", "en": "Proper fraction"}
         },
         {
           "q": {
-            "hi": "प्रभावी क्रय मूल्य (Effective CP) का सूत्र क्या है?",
-            "en": "What is the formula for effective Cost Price?"
+            "hi": "संख्या रेखा पर 0 और 1 के ठीक बीच में कौन-सी भिन्न स्थित होती है?",
+            "en": "Which fraction lies exactly between 0 and 1 on a number line?"
           },
           "options": [
-            {"hi": "खरीद मूल्य - ऊपरी खर्च", "en": "Buying Price - Overhead expenses"},
-            {"hi": "खरीद मूल्य + ऊपरी खर्च", "en": "Buying Price + Overhead expenses"},
-            {"hi": "विक्रय मूल्य + लाभ", "en": "Selling Price + Profit"},
-            {"hi": "अंकित मूल्य - बट्टा", "en": "Marked Price - Discount"}
+            {"hi": "1/4", "en": "1/4"},
+            {"hi": "1/2", "en": "1/2"},
+            {"hi": "3/4", "en": "3/4"},
+            {"hi": "1/3", "en": "1/3"}
           ],
-          "answer": {"hi": "खरीद मूल्य + ऊपरी खर्च", "en": "Buying Price + Overhead expenses"}
+          "answer": {"hi": "1/2", "en": "1/2"}
         },
         {
           "q": {
-            "hi": "बिक्री कर (Sales Tax) किस पर वसूला जाता है?",
-            "en": "On what is Sales Tax charged?"
+            "hi": "इनमें से कौन-सी भिन्न सबसे बड़ी है: 1/2, 1/4, 1/8?",
+            "en": "Which of these fractions is the largest: 1/2, 1/4, 1/8?"
           },
           "options": [
-            {"hi": "अंकित मूल्य", "en": "Marked Price"},
-            {"hi": "क्रय मूल्य", "en": "Cost Price"},
-            {"hi": "विक्रय मूल्य", "en": "Selling Price"},
-            {"hi": "लाभ", "en": "Profit"}
+            {"hi": "1/8", "en": "1/8"},
+            {"hi": "1/4", "en": "1/4"},
+            {"hi": "1/2", "en": "1/2"},
+            {"hi": "सभी बराबर हैं", "en": "All are equal"}
           ],
-          "answer": {"hi": "विक्रय मूल्य", "en": "Selling Price"}
+          "answer": {"hi": "1/2", "en": "1/2"}
         },
         {
           "q": {
-            "hi": "GST का पूर्ण रूप क्या है?",
-            "en": "What is the full form of GST?"
+            "hi": "एक पूर्ण इकाई (Whole) को भिन्न के रूप में कैसे दर्शा सकते हैं?",
+            "en": "How can a whole unit be represented as a fraction?"
           },
           "options": [
-            {"hi": "Goods and Sales Tax", "en": "Goods and Sales Tax"},
-            {"hi": "Goods and Services Tax", "en": "Goods and Services Tax"},
-            {"hi": "Government Sales Tax", "en": "Government Sales Tax"},
-            {"hi": "General Service Tax", "en": "General Service Tax"}
+            {"hi": "0/1", "en": "0/1"},
+            {"hi": "1/1", "en": "1/1"},
+            {"hi": "1/2", "en": "1/2"},
+            {"hi": "1/0", "en": "1/0"}
           ],
-          "answer": {"hi": "Goods and Services Tax", "en": "Goods and Services Tax"}
+          "answer": {"hi": "1/1", "en": "1/1"}
         },
         {
           "q": {
-            "hi": "उधार ली गई राशि पर अतिरिक्त भुगतान किया गया धन क्या कहलाता है?",
-            "en": "What is the extra money paid on the borrowed amount called?"
+            "hi": "समान भाग प्रदर्शित करने वाली भिन्नें क्या कहलाती हैं?",
+            "en": "Fractions representing the same part are called?"
           },
           "options": [
-            {"hi": "मूलधन", "en": "Principal"},
-            {"hi": "ब्याज", "en": "Interest"},
-            {"hi": "मिश्रधन", "en": "Amount"},
-            {"hi": "दर", "en": "Rate"}
+            {"hi": "विषम भिन्न", "en": "Improper fractions"},
+            {"hi": "तुल्य भिन्न", "en": "Equivalent fractions"},
+            {"hi": "इकाई भिन्न", "en": "Unit fractions"},
+            {"hi": "मिश्रित भिन्न", "en": "Mixed fractions"}
           ],
-          "answer": {"hi": "ब्याज", "en": "Interest"}
+          "answer": {"hi": "तुल्य भिन्न", "en": "Equivalent fractions"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "चक्रवृद्धि ब्याज (Compound Interest) की गणना किस पर की जाती है?",
-            "en": "On what is Compound Interest calculated?"
+            "hi": "1/2 की एक तुल्य भिन्न कौन-सी है?",
+            "en": "Which is an equivalent fraction of 1/2?"
           },
           "options": [
-            {"hi": "केवल मूलधन पर", "en": "Only on Principal"},
-            {"hi": "पिछले वर्ष के मिश्रधन पर", "en": "On the previous year's Amount"},
-            {"hi": "केवल ब्याज पर", "en": "Only on Interest"},
-            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+            {"hi": "2/3", "en": "2/3"},
+            {"hi": "2/4", "en": "2/4"},
+            {"hi": "1/3", "en": "1/3"},
+            {"hi": "3/5", "en": "3/5"}
           ],
-          "answer": {"hi": "पिछले वर्ष के मिश्रधन पर", "en": "On the previous year's Amount"}
+          "answer": {"hi": "2/4", "en": "2/4"}
         },
         {
           "q": {
-            "hi": "वार्षिक रूप से संयोजित होने पर चक्रवृद्धि मिश्रधन (A) का सूत्र क्या है?",
-            "en": "What is the formula for Compound Amount (A) when compounded annually?"
+            "hi": "एक उचित भिन्न का मान हमेशा 1 से ______ होता है।",
+            "en": "The value of a proper fraction is always ______ than 1."
           },
           "options": [
-            {"hi": "A = P(1 + R/100)ⁿ", "en": "A = P(1 + R/100)ⁿ"},
-            {"hi": "A = P + (P*R*T)/100", "en": "A = P + (P*R*T)/100"},
-            {"hi": "A = P(1 - R/100)ⁿ", "en": "A = P(1 - R/100)ⁿ"},
-            {"hi": "A = P*R*T", "en": "A = P*R*T"}
-          ],
-          "answer": {"hi": "A = P(1 + R/100)ⁿ", "en": "A = P(1 + R/100)ⁿ"}
-        },
-        {
-          "q": {
-            "hi": "जब ब्याज अर्धवार्षिक रूप से संयोजित होता है, तो दर (Rate) क्या हो जाती है?",
-            "en": "When interest is compounded half-yearly, what happens to the Rate?"
-          },
-          "options": [
-            {"hi": "दुगुनी", "en": "Doubled"},
-            {"hi": "आधी", "en": "Half"},
-            {"hi": "वही रहती है", "en": "Remains same"},
+            {"hi": "बड़ा", "en": "Greater"},
+            {"hi": "छोटा", "en": "Less"},
+            {"hi": "बराबर", "en": "Equal"},
             {"hi": "शून्य", "en": "Zero"}
           ],
-          "answer": {"hi": "आधी", "en": "Half"}
+          "answer": {"hi": "छोटा", "en": "Less"}
         },
         {
           "q": {
-            "hi": "जब ब्याज अर्धवार्षिक संयोजित होता है, तो समय (Time) क्या हो जाता है?",
-            "en": "When interest is compounded half-yearly, what happens to the Time?"
+            "hi": "वह भिन्न जिसका अंश हर से बड़ा या बराबर हो, क्या कहलाती है?",
+            "en": "A fraction whose numerator is greater than or equal to its denominator is called?"
           },
           "options": [
-            {"hi": "दुगुना (छमाही की संख्या)", "en": "Doubled (Number of half-years)"},
-            {"hi": "आधा", "en": "Half"},
-            {"hi": "तीन गुना", "en": "Triple"},
-            {"hi": "वही रहता है", "en": "Remains same"}
+            {"hi": "उचित भिन्न", "en": "Proper fraction"},
+            {"hi": "विषम भिन्न", "en": "Improper fraction"},
+            {"hi": "इकाई भिन्न", "en": "Unit fraction"},
+            {"hi": "शून्य भिन्न", "en": "Zero fraction"}
           ],
-          "answer": {"hi": "दुगुना (छमाही की संख्या)", "en": "Doubled (Number of half-years)"}
+          "answer": {"hi": "विषम भिन्न", "en": "Improper fraction"}
         },
         {
           "q": {
-            "hi": "किसी वस्तु के मूल्य में समय के साथ होने वाली कमी को क्या कहते हैं?",
-            "en": "What is the decrease in the value of an item over time called?"
+            "hi": "एक पूर्ण संख्या और एक उचित भिन्न का संयोजन क्या कहलाता है?",
+            "en": "A combination of a whole number and a proper fraction is called?"
           },
           "options": [
-            {"hi": "वृद्धि", "en": "Appreciation"},
-            {"hi": "अवमूल्यन (Depreciation)", "en": "Depreciation"},
-            {"hi": "बट्टा", "en": "Discount"},
-            {"hi": "मिश्रधन", "en": "Amount"}
+            {"hi": "मिश्रित भिन्न", "en": "Mixed fraction"},
+            {"hi": "विषम भिन्न", "en": "Improper fraction"},
+            {"hi": "तुल्य भिन्न", "en": "Equivalent fraction"},
+            {"hi": "सामान्य भिन्न", "en": "Common fraction"}
           ],
-          "answer": {"hi": "अवमूल्यन (Depreciation)", "en": "Depreciation"}
+          "answer": {"hi": "मिश्रित भिन्न", "en": "Mixed fraction"}
         },
         {
           "q": {
-            "hi": "साधारण ब्याज (SI) का सूत्र क्या है?",
-            "en": "What is the formula for Simple Interest (SI)?"
+            "hi": "6/4 को मिश्रित भिन्न के रूप में कैसे लिखेंगे?",
+            "en": "How will 6/4 be written as a mixed fraction?"
           },
           "options": [
-            {"hi": "(P × R × T) / 100", "en": "(P × R × T) / 100"},
-            {"hi": "P + R + T", "en": "P + R + T"},
-            {"hi": "P(1 + R/100)", "en": "P(1 + R/100)"},
-            {"hi": "A - P", "en": "A - P"}
+            {"hi": "1 1/2", "en": "1 1/2"},
+            {"hi": "1 2/4", "en": "1 2/4"},
+            {"hi": "2 1/4", "en": "2 1/4"},
+            {"hi": "1 3/4", "en": "1 3/4"}
           ],
-          "answer": {"hi": "(P × R × T) / 100", "en": "(P × R × T) / 100"}
+          "answer": {"hi": "1 2/4", "en": "1 2/4"}
         },
         {
           "q": {
-            "hi": "80% को भिन्न (fraction) में कैसे लिखेंगे?",
-            "en": "How to write 80% as a fraction?"
+            "hi": "भिन्नों के वे समूह जिनके हर समान होते हैं, क्या कहलाते हैं?",
+            "en": "Groups of fractions with the same denominators are called?"
           },
           "options": [
-            {"hi": "8/10 या 4/5", "en": "8/10 or 4/5"},
-            {"hi": "1/4", "en": "1/4"},
-            {"hi": "1/8", "en": "1/8"},
-            {"hi": "8/100", "en": "8/100"}
+            {"hi": "समान भिन्न", "en": "Like fractions"},
+            {"hi": "असमान भिन्न", "en": "Unlike fractions"},
+            {"hi": "तुल्य भिन्न", "en": "Equivalent fractions"},
+            {"hi": "इकाई भिन्न", "en": "Unit fractions"}
           ],
-          "answer": {"hi": "8/10 या 4/5", "en": "8/10 or 4/5"}
+          "answer": {"hi": "समान भिन्न", "en": "Like fractions"}
         },
         {
           "q": {
-            "hi": "मिश्रधन (Amount) और मूलधन (Principal) का अंतर क्या दर्शाता है?",
-            "en": "What does the difference between Amount and Principal represent?"
+            "hi": "इनमें से कौन-सा जोड़ा समान भिन्न (Like fractions) है?",
+            "en": "Which of these pairs are like fractions?"
           },
           "options": [
-            {"hi": "दर", "en": "Rate"},
-            {"hi": "समय", "en": "Time"},
-            {"hi": "ब्याज", "en": "Interest"},
-            {"hi": "बट्टा", "en": "Discount"}
+            {"hi": "1/2 और 1/3", "en": "1/2 and 1/3"},
+            {"hi": "2/5 और 3/5", "en": "2/5 and 3/5"},
+            {"hi": "3/4 और 4/3", "en": "3/4 and 4/3"},
+            {"hi": "1/5 और 1/6", "en": "1/5 and 1/6"}
           ],
-          "answer": {"hi": "ब्याज", "en": "Interest"}
+          "answer": {"hi": "2/5 and 3/5", "en": "2/5 and 3/5"}
         },
         {
           "q": {
-            "hi": "एक स्कूटर ₹ 42,000 में खरीदा गया। 8% वार्षिक दर से अवमूल्यन होने पर 1 वर्ष बाद मूल्य क्या होगा?",
-            "en": "A scooter was bought for ₹ 42,000. If it depreciates at 8% per annum, what is its value after 1 year?"
+            "hi": "यदि भिन्नों के हर अलग-अलग हों, तो उन्हें क्या कहते हैं?",
+            "en": "If the denominators of fractions are different, what are they called?"
           },
           "options": [
-            {"hi": "₹ 38,640", "en": "₹ 38,640"},
-            {"hi": "₹ 45,360", "en": "₹ 45,360"},
-            {"hi": "₹ 40,000", "en": "₹ 40,000"},
-            {"hi": "₹ 35,000", "en": "₹ 35,000"}
+            {"hi": "समान भिन्न", "en": "Like fractions"},
+            {"hi": "असमान भिन्न", "en": "Unlike fractions"},
+            {"hi": "मिश्रित भिन्न", "en": "Mixed fractions"},
+            {"hi": "उचित भिन्न", "en": "Proper fractions"}
           ],
-          "answer": {"hi": "₹ 38,640", "en": "₹ 38,640"}
+          "answer": {"hi": "असमान भिन्न", "en": "Unlike fractions"}
         },
         {
           "q": {
-            "hi": "₹ 1000 पर 10% वार्षिक दर से 1 वर्ष का साधारण ब्याज क्या होगा?",
-            "en": "What is the simple interest on ₹ 1000 at 10% p.a. for 1 year?"
+            "hi": "2/3 का सरलतम रूप क्या है?",
+            "en": "What is the simplest form of 2/3?"
           },
           "options": [
-            {"hi": "₹ 10", "en": "₹ 10"},
-            {"hi": "₹ 100", "en": "₹ 100"},
-            {"hi": "₹ 110", "en": "₹ 110"},
-            {"hi": "₹ 50", "en": "₹ 50"}
+            {"hi": "4/6", "en": "4/6"},
+            {"hi": "2/3", "en": "2/3"},
+            {"hi": "1/3", "en": "1/3"},
+            {"hi": "6/9", "en": "6/9"}
           ],
-          "answer": {"hi": "₹ 100", "en": "₹ 100"}
+          "answer": {"hi": "2/3", "en": "2/3"}
+        },
+        {
+          "q": {
+            "hi": "किसी भिन्न को सरलतम रूप में कब माना जाता है?",
+            "en": "When is a fraction considered in its simplest form?"
+          },
+          "options": [
+            {"hi": "जब अंश 1 हो", "en": "When numerator is 1"},
+            {"hi": "जब अंश और हर का साझा गुणनखंड केवल 1 हो", "en": "When numerator and denominator have only 1 as a common factor"},
+            {"hi": "जब हर 10 हो", "en": "When denominator is 10"},
+            {"hi": "जब अंश सम संख्या हो", "en": "When numerator is an even number"}
+          ],
+          "answer": {"hi": "जब अंश और हर का साझा गुणनखंड केवल 1 हो", "en": "When numerator and denominator have only 1 as a common factor"}
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "एक वस्तु का अंकित मूल्य ₹ 840 है और विक्रय मूल्य ₹ 714 है। बट्टा कितना है?",
-            "en": "The marked price of an item is ₹ 840 and the selling price is ₹ 714. What is the discount?"
+            "hi": "1/4 + 2/4 का योगफल क्या होगा?",
+            "en": "What is the sum of 1/4 + 2/4?"
           },
           "options": [
-            {"hi": "₹ 126", "en": "₹ 126"},
-            {"hi": "₹ 140", "en": "₹ 140"},
-            {"hi": "₹ 100", "en": "₹ 100"},
-            {"hi": "₹ 114", "en": "₹ 114"}
+            {"hi": "3/8", "en": "3/8"},
+            {"hi": "3/4", "en": "3/4"},
+            {"hi": "1/4", "en": "1/4"},
+            {"hi": "3/1", "en": "3/1"}
           ],
-          "answer": {"hi": "₹ 126", "en": "₹ 126"}
+          "answer": {"hi": "3/4", "en": "3/4"}
         },
         {
           "q": {
-            "hi": "₹ 126 के बट्टे पर बट्टा प्रतिशत क्या होगा यदि अंकित मूल्य ₹ 840 है?",
-            "en": "What is the discount percentage for ₹ 126 discount if the marked price is ₹ 840?"
+            "hi": "समान हर वाली भिन्नों को जोड़ते समय हम क्या करते हैं?",
+            "en": "What do we do while adding fractions with the same denominator?"
           },
           "options": [
-            {"hi": "10%", "en": "10%"},
-            {"hi": "15%", "en": "15%"},
-            {"hi": "20%", "en": "20%"},
-            {"hi": "12.6%", "en": "12.6%"}
+            {"hi": "हरों को जोड़ते हैं", "en": "Add the denominators"},
+            {"hi": "केवल अंशों को जोड़ते हैं", "en": "Add only the numerators"},
+            {"hi": "अंश और हर दोनों को जोड़ते हैं", "en": "Add both numerator and denominator"},
+            {"hi": "घटाते हैं", "en": "Subtract"}
           ],
-          "answer": {"hi": "15%", "en": "15%"}
+          "answer": {"hi": "केवल अंशों को जोड़ते हैं", "en": "Add only the numerators"}
         },
         {
           "q": {
-            "hi": "एक मेज ₹ 450 में खरीदी गई और ₹ 50 ऊपरी खर्च किए गए। यदि इसे ₹ 600 में बेचा जाए, तो लाभ प्रतिशत क्या है?",
-            "en": "A table was bought for ₹ 450 and ₹ 50 spent on overheads. If it is sold for ₹ 600, what is the profit percentage?"
+            "hi": "5/7 - 2/7 का मान क्या होगा?",
+            "en": "What is the value of 5/7 - 2/7?"
           },
           "options": [
-            {"hi": "10%", "en": "10%"},
-            {"hi": "20%", "en": "20%"},
-            {"hi": "25%", "en": "25%"},
-            {"hi": "15%", "en": "15%"}
+            {"hi": "7/7", "en": "7/7"},
+            {"hi": "3/0", "en": "3/0"},
+            {"hi": "3/7", "en": "3/7"},
+            {"hi": "3/14", "en": "3/14"}
           ],
-          "answer": {"hi": "20%", "en": "20%"}
+          "answer": {"hi": "3/7", "en": "3/7"}
         },
         {
           "q": {
-            "hi": "यदि विक्रय मूल्य > क्रय मूल्य, तो क्या होता है?",
-            "en": "If Selling Price > Cost Price, then what occurs?"
+            "hi": "असमान हर वाली भिन्नों को जोड़ने के लिए सबसे पहले क्या करना चाहिए?",
+            "en": "What should be done first to add unlike fractions?"
           },
           "options": [
-            {"hi": "हानि", "en": "Loss"},
-            {"hi": "लाभ", "en": "Profit"},
-            {"hi": "बट्टा", "en": "Discount"},
-            {"hi": "कोई परिवर्तन नहीं", "en": "No change"}
+            {"hi": "उन्हें समान हर वाली भिन्नों में बदलें", "en": "Change them into like fractions"},
+            {"hi": "सीधे जोड़ें", "en": "Add directly"},
+            {"hi": "हर को 1 बना दें", "en": "Make the denominator 1"},
+            {"hi": "अंशों का गुणा करें", "en": "Multiply the numerators"}
           ],
-          "answer": {"hi": "लाभ", "en": "Profit"}
+          "answer": {"hi": "उन्हें समान हर वाली भिन्नों में बदलें", "en": "Change them into like fractions"}
         },
         {
           "q": {
-            "hi": "हानि प्रतिशत का सूत्र क्या है?",
-            "en": "What is the formula for Loss percentage?"
+            "hi": "भिन्नों के योग और घटाव की 'ब्रह्मगुप्त विधि' में किस पर ध्यान दिया जाता है?",
+            "en": "What is focused on in Brahmagupta's method of adding and subtracting fractions?"
           },
           "options": [
-            {"hi": "(हानि / क्रय मूल्य) × 100", "en": "(Loss / CP) × 100"},
-            {"hi": "(हानि / विक्रय मूल्य) × 100", "en": "(Loss / SP) × 100"},
-            {"hi": "(लाभ / क्रय मूल्य) × 100", "en": "(Profit / CP) × 100"},
-            {"hi": "हानि × 100", "en": "Loss × 100"}
+            {"hi": "केवल अंशों पर", "en": "Only on numerators"},
+            {"hi": "समान भिन्नात्मक इकाई बनाने पर", "en": "Making the same fractional units"},
+            {"hi": "दशमलव में बदलने पर", "en": "Converting to decimals"},
+            {"hi": "बड़ी संख्या ढूँढने पर", "en": "Finding larger numbers"}
           ],
-          "answer": {"hi": "(हानि / क्रय मूल्य) × 100", "en": "(Loss / CP) × 100"}
+          "answer": {"hi": "समान भिन्नात्मक इकाई बनाने पर", "en": "Making the same fractional units"}
         },
         {
           "q": {
-            "hi": "मिश्रधन (A) = मूलधन (P) + ?",
-            "en": "Amount (A) = Principal (P) + ?"
+            "hi": "1/2 और 1/4 का योगफल क्या है?",
+            "en": "What is the sum of 1/2 and 1/4?"
           },
           "options": [
-            {"hi": "ब्याज (I)", "en": "Interest (I)"},
-            {"hi": "दर (R)", "en": "Rate (R)"},
-            {"hi": "समय (T)", "en": "Time (T)"},
-            {"hi": "बट्टा", "en": "Discount"}
+            {"hi": "2/6", "en": "2/6"},
+            {"hi": "3/4", "en": "3/4"},
+            {"hi": "1/6", "en": "1/6"},
+            {"hi": "3/2", "en": "3/2"}
           ],
-          "answer": {"hi": "ब्याज (I)", "en": "Interest (I)"}
+          "answer": {"hi": "3/4", "en": "3/4"}
         },
         {
           "q": {
-            "hi": "अनुपात 1 : 4 का प्रतिशत रूप क्या है?",
-            "en": "What is the percentage form of the ratio 1 : 4?"
+            "hi": "संख्या रेखा पर भिन्न 4/4 कहाँ स्थित होगी?",
+            "en": "Where will the fraction 4/4 be located on a number line?"
           },
           "options": [
-            {"hi": "20%", "en": "20%"},
-            {"hi": "25%", "en": "25%"},
-            {"hi": "40%", "en": "40%"},
-            {"hi": "10%", "en": "10%"}
+            {"hi": "0 पर", "en": "At 0"},
+            {"hi": "1 पर", "en": "At 1"},
+            {"hi": "2 पर", "en": "At 2"},
+            {"hi": "0 और 1 के बीच", "en": "Between 0 and 1"}
           ],
-          "answer": {"hi": "25%", "en": "25%"}
+          "answer": {"hi": "1 पर", "en": "At 1"}
         },
         {
           "q": {
-            "hi": "72% विद्यार्थी गणित में अच्छे हैं। 25 में से कितने विद्यार्थी गणित में अच्छे नहीं हैं?",
-            "en": "72% of students are good in math. Out of 25, how many students are NOT good in math?"
+            "hi": "यदि एक चॉकलेट के 10 टुकड़े हैं और आपने 3 खा लिए, तो बचा हुआ भाग क्या है?",
+            "en": "If a chocolate has 10 pieces and you ate 3, what is the remaining part?"
           },
           "options": [
-            {"hi": "18", "en": "18"},
-            {"hi": "7", "en": "7"},
-            {"hi": "10", "en": "10"},
-            {"hi": "15", "en": "15"}
+            {"hi": "3/10", "en": "3/10"},
+            {"hi": "7/10", "en": "7/10"},
+            {"hi": "10/7", "en": "10/7"},
+            {"hi": "1/10", "en": "1/10"}
           ],
-          "answer": {"hi": "7", "en": "7"}
+          "answer": {"hi": "7/10", "en": "7/10"}
         },
         {
           "q": {
-            "hi": "एक फुटबॉल टीम ने 10 मैच जीते जो कुल मैचों का 40% था। कुल कितने मैच खेले गए?",
-            "en": "A football team won 10 matches, which was 40% of the total matches. How many matches were played in total?"
+            "hi": "मिश्रित भिन्न 2 1/3 को विषम भिन्न में बदलें:",
+            "en": "Convert the mixed fraction 2 1/3 into an improper fraction:"
           },
           "options": [
-            {"hi": "20", "en": "20"},
-            {"hi": "25", "en": "25"},
-            {"hi": "30", "en": "30"},
-            {"hi": "40", "en": "40"}
+            {"hi": "5/3", "en": "5/3"},
+            {"hi": "7/3", "en": "7/3"},
+            {"hi": "6/3", "en": "6/3"},
+            {"hi": "3/2", "en": "3/2"}
           ],
-          "answer": {"hi": "25", "en": "25"}
+          "answer": {"hi": "7/3", "en": "7/3"}
         },
         {
           "q": {
-            "hi": "चक्रवृद्धि ब्याज साधारण ब्याज से कैसा होता है (यदि ब्याज वार्षिक संयोजित हो और समय > 1 वर्ष)?",
-            "en": "How is Compound Interest compared to Simple Interest (if compounded annually and time > 1 year)?"
+            "hi": "1/5 और 1/10 में कौन-सी भिन्न छोटी है?",
+            "en": "Which fraction is smaller between 1/5 and 1/10?"
           },
           "options": [
-            {"hi": "कम", "en": "Less"},
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "अधिक", "en": "More"},
-            {"hi": "आधा", "en": "Half"}
+            {"hi": "1/5", "en": "1/5"},
+            {"hi": "1/10", "en": "1/10"},
+            {"hi": "दोनों बराबर हैं", "en": "Both are equal"},
+            {"hi": "कह नहीं सकते", "en": "Can't say"}
           ],
-          "answer": {"hi": "अधिक", "en": "More"}
+          "answer": {"hi": "1/10", "en": "1/10"}
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "₹ 10,000 पर 1 वर्ष के लिए 8% वार्षिक दर से अर्धवार्षिक रूप से संयोजित चक्रवृद्धि ब्याज के लिए समय अवधि (n) क्या होगी?",
-            "en": "What will be the time period (n) for interest compounded half-yearly on ₹ 10,000 at 8% p.a. for 1 year?"
+            "hi": "4/12 का सरलतम रूप क्या है?",
+            "en": "What is the simplest form of 4/12?"
           },
           "options": [
+            {"hi": "2/6", "en": "2/6"},
+            {"hi": "1/3", "en": "1/3"},
+            {"hi": "1/4", "en": "1/4"},
+            {"hi": "4/12", "en": "4/12"}
+          ],
+          "answer": {"hi": "1/3", "en": "1/3"}
+        },
+        {
+          "q": {
+            "hi": "एक घंटे का 30 मिनट कौन-सा भाग है?",
+            "en": "What part of an hour is 30 minutes?"
+          },
+          "options": [
+            {"hi": "1/4", "en": "1/4"},
+            {"hi": "1/2", "en": "1/2"},
+            {"hi": "1/3", "en": "1/3"},
+            {"hi": "2/3", "en": "2/3"}
+          ],
+          "answer": {"hi": "1/2", "en": "1/2"}
+        },
+        {
+          "q": {
+            "hi": "एक सप्ताह का 3 दिन कौन-सा भाग दर्शाता है?",
+            "en": "What fraction of a week does 3 days represent?"
+          },
+          "options": [
+            {"hi": "3/7", "en": "3/7"},
+            {"hi": "7/3", "en": "7/3"},
+            {"hi": "1/7", "en": "1/7"},
+            {"hi": "3/30", "en": "3/30"}
+          ],
+          "answer": {"hi": "3/7", "en": "3/7"}
+        },
+        {
+          "q": {
+            "hi": "तुल्य भिन्न प्राप्त करने के लिए अंश और हर को क्या करना चाहिए?",
+            "en": "What should be done to numerator and denominator to get an equivalent fraction?"
+          },
+          "options": [
+            {"hi": "समान संख्या से गुणा या भाग", "en": "Multiply or divide by the same number"},
+            {"hi": "अलग-अलग संख्या से गुणा", "en": "Multiply by different numbers"},
+            {"hi": "केवल अंश में जोड़ें", "en": "Add only to the numerator"},
+            {"hi": "केवल हर में घटाएं", "en": "Subtract only from the denominator"}
+          ],
+          "answer": {"hi": "समान संख्या से गुणा या भाग", "en": "Multiply or divide by the same number"}
+        },
+        {
+          "q": {
+            "hi": "3/5 और 4/5 की तुलना करने पर कौन-सी बड़ी है?",
+            "en": "On comparing 3/5 and 4/5, which one is larger?"
+          },
+          "options": [
+            {"hi": "3/5", "en": "3/5"},
+            {"hi": "4/5", "en": "4/5"},
+            {"hi": "दोनों बराबर हैं", "en": "Both are equal"},
+            {"hi": "कोई नहीं", "en": "None"}
+          ],
+          "answer": {"hi": "4/5", "en": "4/5"}
+        },
+        {
+          "q": {
+            "hi": "2/5 की ऐसी तुल्य भिन्न जिसका हर 20 हो, क्या होगी?",
+            "en": "What is the equivalent fraction of 2/5 with denominator 20?"
+          },
+          "options": [
+            {"hi": "4/20", "en": "4/20"},
+            {"hi": "8/20", "en": "8/20"},
+            {"hi": "10/20", "en": "10/20"},
+            {"hi": "2/20", "en": "2/20"}
+          ],
+          "answer": {"hi": "8/20", "en": "8/20"}
+        },
+        {
+          "q": {
+            "hi": "इनमें से कौन-सी उचित भिन्न (Proper fraction) नहीं है?",
+            "en": "Which of these is not a proper fraction?"
+          },
+          "options": [
+            {"hi": "2/3", "en": "2/3"},
+            {"hi": "5/6", "en": "5/6"},
+            {"hi": "7/4", "en": "7/4"},
+            {"hi": "1/10", "en": "1/10"}
+          ],
+          "answer": {"hi": "7/4", "en": "7/4"}
+        },
+        {
+          "q": {
+            "hi": "संख्या रेखा पर 1/2 और 1 के बीच कौन-सी भिन्न हो सकती है?",
+            "en": "Which fraction can be between 1/2 and 1 on a number line?"
+          },
+          "options": [
+            {"hi": "1/4", "en": "1/4"},
+            {"hi": "3/4", "en": "3/4"},
+            {"hi": "0", "en": "0"},
+            {"hi": "2/1", "en": "2/1"}
+          ],
+          "answer": {"hi": "3/4", "en": "3/4"}
+        },
+        {
+          "q": {
+            "hi": "भिन्नों को घटते क्रम में लिखना क्या कहलाता है?",
+            "en": "Writing fractions in decreasing order is called?"
+          },
+          "options": [
+            {"hi": "आरोही क्रम", "en": "Ascending order"},
+            {"hi": "अवरोही क्रम", "en": "Descending order"},
+            {"hi": "सरल क्रम", "en": "Simple order"},
+            {"hi": "मिश्रित क्रम", "en": "Mixed order"}
+          ],
+          "answer": {"hi": "अवरोही क्रम", "en": "Descending order"}
+        },
+        {
+          "q": {
+            "hi": "15/15 का मान क्या है?",
+            "en": "What is the value of 15/15?"
+          },
+          "options": [
+            {"hi": "0", "en": "0"},
             {"hi": "1", "en": "1"},
-            {"hi": "2", "en": "2"},
-            {"hi": "4", "en": "4"},
-            {"hi": "8", "en": "8"}
+            {"hi": "15", "en": "15"},
+            {"hi": "30", "en": "30"}
           ],
-          "answer": {"hi": "2", "en": "2"}
-        },
-        {
-          "q": {
-            "hi": "उपरोक्त प्रश्न में गणना के लिए दर (R) क्या ली जाएगी?",
-            "en": "What rate (R) will be taken for the calculation in the above question?"
-          },
-          "options": [
-            {"hi": "8%", "en": "8%"},
-            {"hi": "4%", "en": "4%"},
-            {"hi": "16%", "en": "16%"},
-            {"hi": "2%", "en": "2"}
-          ],
-          "answer": {"hi": "4%", "en": "4%"}
-        },
-        {
-          "q": {
-            "hi": "₹ 500 का 10% क्या होगा?",
-            "en": "What is 10% of ₹ 500?"
-          },
-          "options": [
-            {"hi": "₹ 5", "en": "₹ 5"},
-            {"hi": "₹ 50", "en": "₹ 50"},
-            {"hi": "₹ 10", "en": "₹ 10"},
-            {"hi": "₹ 100", "en": "₹ 100"}
-          ],
-          "answer": {"hi": "₹ 50", "en": "₹ 50"}
-        },
-        {
-          "q": {
-            "hi": "यदि चमेली के पास अपने धन का 75% खर्च करने के बाद ₹ 600 बचे, तो शुरू में उसके पास कितने थे?",
-            "en": "If Chameli had ₹ 600 left after spending 75% of her money, how much did she have initially?"
-          },
-          "options": [
-            {"hi": "₹ 1200", "en": "₹ 1200"},
-            {"hi": "₹ 2400", "en": "₹ 2400"},
-            {"hi": "₹ 1800", "en": "₹ 1800"},
-            {"hi": "₹ 3000", "en": "₹ 3000"}
-          ],
-          "answer": {"hi": "₹ 2400", "en": "₹ 2400"}
-        },
-        {
-          "q": {
-            "hi": "2 : 3 का प्रतिशत रूप क्या है?",
-            "en": "What is the percentage form of 2 : 3?"
-          },
-          "options": [
-            {"hi": "66.66%", "en": "66.66%"},
-            {"hi": "50%", "en": "50%"},
-            {"hi": "33.33%", "en": "33.33%"},
-            {"hi": "75%", "en": "75%"}
-          ],
-          "answer": {"hi": "66.66%", "en": "66.66%"}
-        },
-        {
-          "q": {
-            "hi": "बट्टा प्रतिशत हमेशा किस पर निकाला जाता है?",
-            "en": "On what is discount percentage always calculated?"
-          },
-          "options": [
-            {"hi": "विक्रय मूल्य", "en": "Selling Price"},
-            {"hi": "क्रय मूल्य", "en": "Cost Price"},
-            {"hi": "अंकित मूल्य", "en": "Marked Price"},
-            {"hi": "लाभ", "en": "Profit"}
-          ],
-          "answer": {"hi": "अंकित मूल्य", "en": "Marked Price"}
-        },
-        {
-          "q": {
-            "hi": "VAT का अर्थ क्या है?",
-            "en": "What is the meaning of VAT?"
-          },
-          "options": [
-            {"hi": "Value Added Tax", "en": "Value Added Tax"},
-            {"hi": "Variable Amount Tax", "en": "Variable Amount Tax"},
-            {"hi": "Volume Added Tax", "en": "Volume Added Tax"},
-            {"hi": "Value Amount Tax", "en": "Value Amount Tax"}
-          ],
-          "answer": {"hi": "Value Added Tax", "en": "Value Added Tax"}
-        },
-        {
-          "q": {
-            "hi": "एक सिलाई मशीन ₹ 1600 की है। दुकानदार 5% की छूट देता है। मशीन का विक्रय मूल्य क्या है?",
-            "en": "A sewing machine costs ₹ 1600. The shopkeeper gives 5% discount. What is the SP of the machine?"
-          },
-          "options": [
-            {"hi": "₹ 1520", "en": "₹ 1520"},
-            {"hi": "₹ 1500", "en": "₹ 1500"},
-            {"hi": "₹ 1550", "en": "₹ 1550"},
-            {"hi": "₹ 1680", "en": "₹ 1680"}
-          ],
-          "answer": {"hi": "₹ 1520", "en": "₹ 1520"}
-        },
-        {
-          "q": {
-            "hi": "लाभ प्रतिशत हमेशा किस पर निकाला जाता है?",
-            "en": "On what is profit percentage always calculated?"
-          },
-          "options": [
-            {"hi": "विक्रय मूल्य", "en": "Selling Price"},
-            {"hi": "क्रय मूल्य", "en": "Cost Price"},
-            {"hi": "अंकित मूल्य", "en": "Marked Price"},
-            {"hi": "बट्टा", "en": "Discount"}
-          ],
-          "answer": {"hi": "क्रय मूल्य", "en": "Cost Price"}
-        },
-        {
-          "q": {
-            "hi": "एक व्यक्ति का वेतन ₹ 1,50,000 से बढ़कर ₹ 1,65,000 हो गया। वेतन में प्रतिशत वृद्धि क्या है?",
-            "en": "A person's salary increased from ₹ 1,50,000 to ₹ 1,65,000. What is the percentage increase?"
-          },
-          "options": [
-            {"hi": "10%", "en": "10%"},
-            {"hi": "15%", "en": "15%"},
-            {"hi": "5%", "en": "5%"},
-            {"hi": "20%", "en": "20%"}
-          ],
-          "answer": {"hi": "10%", "en": "10%"}
+          "answer": {"hi": "1", "en": "1"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "मिश्रधन के सूत्र A = P(1 + R/100)ⁿ में 'n' क्या दर्शाता है?",
-            "en": "In the formula A = P(1 + R/100)ⁿ, what does 'n' represent?"
+            "hi": "क्या 1/3 और 3/9 तुल्य भिन्न हैं?",
+            "en": "Are 1/3 and 3/9 equivalent fractions?"
           },
           "options": [
-            {"hi": "मूलधन", "en": "Principal"},
-            {"hi": "दर", "en": "Rate"},
-            {"hi": "समय (वर्षों की संख्या)", "en": "Time (number of years)"},
-            {"hi": "ब्याज", "en": "Interest"}
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "कह नहीं सकते", "en": "Can't say"},
+            {"hi": "केवल जोड़ने पर", "en": "Only on adding"}
           ],
-          "answer": {"hi": "समय (वर्षों की संख्या)", "en": "Time (number of years)"}
+          "answer": {"hi": "हाँ", "en": "Yes"}
         },
         {
           "q": {
-            "hi": "₹ 1000 पर 2 वर्ष के लिए 10% वार्षिक दर से साधारण ब्याज क्या है?",
-            "en": "What is the simple interest on ₹ 1000 for 2 years at 10% p.a.?"
+            "hi": "यदि मुक्ता को एक केक का 1/3 भाग मिला और शबनम को 1/4, तो किसे ज्यादा मिला?",
+            "en": "If Mukta got 1/3 of a cake and Shabnam got 1/4, who got more?"
           },
           "options": [
-            {"hi": "₹ 200", "en": "₹ 200"},
-            {"hi": "₹ 100", "en": "₹ 100"},
-            {"hi": "₹ 210", "en": "₹ 210"},
-            {"hi": "₹ 1200", "en": "₹ 1200"}
+            {"hi": "मुक्ता", "en": "Mukta"},
+            {"hi": "शबनम", "en": "Shabnam"},
+            {"hi": "दोनों को बराबर", "en": "Both equal"},
+            {"hi": "किसी को नहीं", "en": "No one"}
           ],
-          "answer": {"hi": "₹ 200", "en": "₹ 200"}
+          "answer": {"hi": "मुक्ता", "en": "Mukta"}
         },
         {
           "q": {
-            "hi": "उपरोक्त प्रश्न में चक्रवृद्धि ब्याज क्या होगा?",
-            "en": "What will be the compound interest in the above question?"
+            "hi": "5/12 + 7/12 का मान क्या होगा?",
+            "en": "What will be the value of 5/12 + 7/12?"
           },
           "options": [
-            {"hi": "₹ 200", "en": "₹ 200"},
-            {"hi": "₹ 210", "en": "₹ 210"},
-            {"hi": "₹ 1210", "en": "₹ 1210"},
-            {"hi": "₹ 100", "en": "₹ 100"}
+            {"hi": "12/24", "en": "12/24"},
+            {"hi": "1", "en": "1"},
+            {"hi": "2/12", "en": "2/12"},
+            {"hi": "12/1", "en": "12/1"}
           ],
-          "answer": {"hi": "₹ 210", "en": "₹ 210"}
+          "answer": {"hi": "1", "en": "1"}
         },
         {
           "q": {
-            "hi": "₹ 100 का 20% लाभ पर विक्रय मूल्य क्या होगा?",
-            "en": "What is the SP of ₹ 100 at 20% profit?"
+            "hi": "किसी संख्या का आधा और उसका एक चौथाई मिलकर क्या बनाते हैं?",
+            "en": "Half of a number and its one-fourth together make?"
           },
           "options": [
-            {"hi": "₹ 120", "en": "₹ 120"},
-            {"hi": "₹ 80", "en": "₹ 80"},
-            {"hi": "₹ 100", "en": "₹ 100"},
-            {"hi": "₹ 20", "en": "₹ 20"}
+            {"hi": "1/2", "en": "1/2"},
+            {"hi": "3/4", "en": "3/4"},
+            {"hi": "1/4", "en": "1/4"},
+            {"hi": "1", "en": "1"}
           ],
-          "answer": {"hi": "₹ 120", "en": "₹ 120"}
+          "answer": {"hi": "3/4", "en": "3/4"}
         },
         {
           "q": {
-            "hi": "मिश्रधन (A) और ब्याज (I) ज्ञात होने पर मूलधन (P) कैसे निकालेंगे?",
-            "en": "How to find Principal (P) if Amount (A) and Interest (I) are known?"
+            "hi": "भिन्न का उपयोग दैनिक जीवन में कहाँ होता है?",
+            "en": "Where is a fraction used in daily life?"
           },
           "options": [
-            {"hi": "P = A + I", "en": "P = A + I"},
-            {"hi": "P = A - I", "en": "P = A - I"},
-            {"hi": "P = A × I", "en": "P = A × I"},
-            {"hi": "P = I - A", "en": "P = I - A"}
+            {"hi": "खाना बाँटने में", "en": "In sharing food"},
+            {"hi": "समय बताने में", "en": "In telling time"},
+            {"hi": "मापन में", "en": "In measurement"},
+            {"hi": "उपरोक्त सभी", "en": "All of the above"}
           ],
-          "answer": {"hi": "P = A - I", "en": "P = A - I"}
+          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
         },
         {
           "q": {
-            "hi": "एक शहर की जनसंख्या 4% वार्षिक दर से बढ़ रही है। 2 वर्ष बाद जनसंख्या क्या होगी यदि वर्तमान में 50,000 है?",
-            "en": "A city's population is increasing at 4% p.a. What will it be after 2 years if it is currently 50,000?"
+            "hi": "9/11 - 4/11 का परिणाम क्या है?",
+            "en": "What is the result of 9/11 - 4/11?"
           },
           "options": [
-            {"hi": "54,080", "en": "54,080"},
-            {"hi": "54,000", "en": "54,000"},
-            {"hi": "52,000", "en": "52,000"},
-            {"hi": "58,000", "en": "58,000"}
+            {"hi": "5/0", "en": "5/0"},
+            {"hi": "5/11", "en": "5/11"},
+            {"hi": "13/11", "en": "13/11"},
+            {"hi": "5/22", "en": "5/22"}
           ],
-          "answer": {"hi": "54,080", "en": "54,080"}
+          "answer": {"hi": "5/11", "en": "5/11"}
         },
         {
           "q": {
-            "hi": "1/2 को प्रतिशत में कैसे बदलेंगे?",
-            "en": "How to convert 1/2 into percentage?"
+            "hi": "मिश्रित भिन्न में कौन-सा भाग 'पूर्ण' होता है?",
+            "en": "Which part is 'whole' in a mixed fraction?"
           },
           "options": [
-            {"hi": "25%", "en": "25%"},
-            {"hi": "50%", "en": "50%"},
-            {"hi": "75%", "en": "75%"},
-            {"hi": "100%", "en": "100%"}
+            {"hi": "अंश", "en": "Numerator"},
+            {"hi": "हर", "en": "Denominator"},
+            {"hi": "पूर्ण संख्यात्मक भाग", "en": "Whole numerical part"},
+            {"hi": "भिन्नात्मक भाग", "en": "Fractional part"}
           ],
-          "answer": {"hi": "50%", "en": "50%"}
+          "answer": {"hi": "पूर्ण संख्यात्मक भाग", "en": "Whole numerical part"}
         },
         {
           "q": {
-            "hi": "यदि एक पेन का क्रय मूल्य ₹ 10 और विक्रय मूल्य ₹ 8 है, तो हानि प्रतिशत क्या है?",
-            "en": "If the CP of a pen is ₹ 10 and SP is ₹ 8, what is the loss percentage?"
+            "hi": "क्या 0/5 एक भिन्न है?",
+            "en": "Is 0/5 a fraction?"
           },
           "options": [
-            {"hi": "2%", "en": "2%"},
-            {"hi": "20%", "en": "20%"},
-            {"hi": "10%", "en": "10%"},
-            {"hi": "25%", "en": "25%"}
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "कह नहीं सकते", "en": "Can't say"},
+            {"hi": "केवल ऋणात्मक", "en": "Only negative"}
           ],
-          "answer": {"hi": "20%", "en": "20%"}
+          "answer": {"hi": "हाँ", "en": "Yes"}
         },
         {
           "q": {
-            "hi": "अवमूल्यन (Depreciation) होने पर मिश्रधन के सूत्र में R का चिह्न क्या होता है?",
-            "en": "In the case of depreciation, what is the sign of R in the Amount formula?"
+            "hi": "भिन्न का 'हर' (Denominator) कभी भी ______ नहीं हो सकता।",
+            "en": "The 'Denominator' of a fraction can never be ______."
           },
           "options": [
-            {"hi": "धनात्मक (+)", "en": "Positive (+)"},
-            {"hi": "ऋणात्मक (-)", "en": "Negative (-)"},
-            {"hi": "गुणा", "en": "Multiplication"},
-            {"hi": "कोई नहीं", "en": "None"}
+            {"hi": "1", "en": "1"},
+            {"hi": "10", "en": "10"},
+            {"hi": "शून्य (0)", "en": "Zero (0)"},
+            {"hi": "विषम संख्या", "en": "Odd number"}
           ],
-          "answer": {"hi": "ऋणात्मक (-)", "en": "Negative (-)"}
+          "answer": {"hi": "शून्य (0)", "en": "Zero (0)"}
         },
         {
           "q": {
-            "hi": "ब्याज की दर '5% वार्षिक' का क्या अर्थ है?",
-            "en": "What does the rate of interest '5% p.a.' mean?"
+            "hi": "यदि अंश और हर समान हों, तो भिन्न का मान क्या होगा?",
+            "en": "If numerator and denominator are same, what is the value of the fraction?"
           },
           "options": [
-            {"hi": "₹ 100 पर 1 वर्ष का ₹ 5 ब्याज", "en": "₹ 5 interest on ₹ 100 for 1 year"},
-            {"hi": "₹ 1000 पर ₹ 5 ब्याज", "en": "₹ 5 interest on ₹ 1000"},
-            {"hi": "₹ 100 पर ₹ 50 ब्याज", "en": "₹ 50 interest on ₹ 100"},
-            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+            {"hi": "0", "en": "0"},
+            {"hi": "1", "en": "1"},
+            {"hi": "अंश के बराबर", "en": "Equal to numerator"},
+            {"hi": "अनंत", "en": "Infinite"}
           ],
-          "answer": {"hi": "₹ 100 पर 1 वर्ष का ₹ 5 ब्याज", "en": "₹ 5 interest on ₹ 100 for 1 year"}
+          "answer": {"hi": "1", "en": "1"}
         }
       ]
     },
