@@ -3312,665 +3312,665 @@
         }
       ]
     },
-    "chapter06": {
+    "chapter06":{
       "section1": [
         {
           "q": {
-            "hi": "एक त्रिभुज में कितनी मध्यिकाएँ (medians) होती हैं?",
-            "en": "How many medians does a triangle have?"
+            "hi": "किसी बंद समतल आकृति की सीमा के चारों ओर तय की गई दूरी को क्या कहते हैं?",
+            "en": "What is the distance covered along the boundary of a closed plane figure called?"
           },
           "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "2", "en": "2"},
-            {"hi": "3", "en": "3"},
-            {"hi": "4", "en": "4"}
+            {"hi": "क्षेत्रफल", "en": "Area"},
+            {"hi": "आयतन", "en": "Volume"},
+            {"hi": "परिमाप", "en": "Perimeter"},
+            {"hi": "विकर्ण", "en": "Diagonal"}
           ],
-          "answer": {"hi": "3", "en": "3"}
+          "answer": {"hi": "परिमाप", "en": "Perimeter"}
         },
         {
           "q": {
-            "hi": "त्रिभुज के शीर्ष को उसकी सम्मुख भुजा के मध्य बिंदु से मिलाने वाला रेखाखंड क्या कहलाता है?",
-            "en": "The line segment joining a vertex of a triangle to the midpoint of its opposite side is called?"
+            "hi": "एक बहुभुज का परिमाप किसके बराबर होता है?",
+            "en": "The perimeter of a polygon is equal to what?"
           },
           "options": [
-            {"hi": "शीर्षलंब (Altitude)", "en": "Altitude"},
-            {"hi": "मध्यिका (Median)", "en": "Median"},
-            {"hi": "कर्ण (Hypotenuse)", "en": "Hypotenuse"},
-            {"hi": "आधार (Base)", "en": "Base"}
+            {"hi": "लंबाई और चौड़ाई का गुणनफल", "en": "Product of length and breadth"},
+            {"hi": "सभी भुजाओं की लंबाइयों का योग", "en": "Sum of the lengths of all sides"},
+            {"hi": "भुजा का वर्ग", "en": "Square of a side"},
+            {"hi": "आधा योगफल", "en": "Half the sum"}
           ],
-          "answer": {"hi": "मध्यिका (Median)", "en": "Median"}
+          "answer": {"hi": "सभी भुजाओं की लंबाइयों का योग", "en": "Sum of the lengths of all sides"}
         },
         {
           "q": {
-            "hi": "एक त्रिभुज के कितने शीर्षलंब (altitudes) होते हैं?",
-            "en": "How many altitudes does a triangle have?"
+            "hi": "आयत का परिमाप ज्ञात करने का सूत्र क्या है?",
+            "en": "What is the formula to find the perimeter of a rectangle?"
           },
           "options": [
-            {"hi": "3", "en": "3"},
-            {"hi": "2", "en": "2"},
-            {"hi": "1", "en": "1"},
-            {"hi": "6", "en": "6"}
+            {"hi": "लंबाई + चौड़ाई", "en": "Length + Breadth"},
+            {"hi": "2 × (लंबाई + चौड़ाई)", "en": "2 × (Length + Breadth)"},
+            {"hi": "लंबाई × चौड़ाई", "en": "Length × Breadth"},
+            {"hi": "4 × भुजा", "en": "4 × Side"}
           ],
-          "answer": {"hi": "3", "en": "3"}
+          "answer": {"hi": "2 × (लंबाई + चौड़ाई)", "en": "2 × (Length + Breadth)"}
         },
         {
           "q": {
-            "hi": "किसी त्रिभुज का बाह्य कोण उसके दो सम्मुख __________ कोणों के योग के बराबर होता है।",
-            "en": "An exterior angle of a triangle is equal to the sum of its two opposite __________ angles."
+            "hi": "एक आयत की लंबाई 12 सेमी और चौड़ाई 8 सेमी है। इसका परिमाप क्या होगा?",
+            "en": "The length of a rectangle is 12 cm and breadth is 8 cm. What is its perimeter?"
           },
           "options": [
-            {"hi": "बाह्य", "en": "Exterior"},
-            {"hi": "अंतः", "en": "Interior"},
-            {"hi": "आसन्न", "en": "Adjacent"},
-            {"hi": "पूरक", "en": "Complementary"}
+            {"hi": "20 सेमी", "en": "20 cm"},
+            {"hi": "40 सेमी", "en": "40 cm"},
+            {"hi": "96 सेमी", "en": "96 cm"},
+            {"hi": "24 सेमी", "en": "24 cm"}
           ],
-          "answer": {"hi": "अंतः", "en": "Interior"}
+          "answer": {"hi": "40 सेमी", "en": "40 cm"}
         },
         {
           "q": {
-            "hi": "एक त्रिभुज के तीनों अंतः कोणों का योग कितना होता है?",
-            "en": "What is the sum of the three interior angles of a triangle?"
+            "hi": "वर्ग का परिमाप ज्ञात करने का सूत्र क्या है?",
+            "en": "What is the formula to find the perimeter of a square?"
           },
           "options": [
-            {"hi": "90°", "en": "90°"},
-            {"hi": "180°", "en": "180°"},
-            {"hi": "360°", "en": "360°"},
-            {"hi": "270°", "en": "270°"}
+            {"hi": "3 × भुजा", "en": "3 × Side"},
+            {"hi": "भुजा × भुजा", "en": "Side × Side"},
+            {"hi": "4 × भुजा", "en": "4 × Side"},
+            {"hi": "2 × भुजा", "en": "2 × Side"}
           ],
-          "answer": {"hi": "180°", "en": "180°"}
+          "answer": {"hi": "4 × भुजा", "en": "4 × Side"}
         },
         {
           "q": {
-            "hi": "एक त्रिभुज जिसकी प्रत्येक भुजा की माप समान हो, क्या कहलाता है?",
-            "en": "A triangle in which all sides are of equal length is called?"
+            "hi": "एक वर्ग की भुजा 5 सेमी है। इसका परिमाप क्या होगा?",
+            "en": "The side of a square is 5 cm. What is its perimeter?"
           },
           "options": [
-            {"hi": "विषमबाहु त्रिभुज", "en": "Scalene triangle"},
-            {"hi": "समद्विबाहु त्रिभुज", "en": "Isosceles triangle"},
-            {"hi": "समबाहु त्रिभुज", "en": "Equilateral triangle"},
-            {"hi": "समकोण त्रिभुज", "en": "Right-angled triangle"}
+            {"hi": "10 सेमी", "en": "10 cm"},
+            {"hi": "15 सेमी", "en": "15 cm"},
+            {"hi": "20 सेमी", "en": "20 cm"},
+            {"hi": "25 सेमी", "en": "25 cm"}
           ],
-          "answer": {"hi": "समबाहु त्रिभुज", "en": "Equilateral triangle"}
+          "answer": {"hi": "20 सेमी", "en": "20 cm"}
         },
         {
           "q": {
-            "hi": "समबाहु त्रिभुज का प्रत्येक कोण कितने डिग्री का होता है?",
-            "en": "Each angle of an equilateral triangle measures how many degrees?"
+            "hi": "समबाहु त्रिभुज का परिमाप क्या होता है?",
+            "en": "What is the perimeter of an equilateral triangle?"
           },
           "options": [
-            {"hi": "45°", "en": "45°"},
-            {"hi": "60°", "en": "60°"},
-            {"hi": "90°", "en": "90°"},
-            {"hi": "180°", "en": "180°"}
+            {"hi": "3 × एक भुजा की लंबाई", "en": "3 × Length of a side"},
+            {"hi": "2 × (लंबाई + चौड़ाई)", "en": "2 × (Length + Breadth)"},
+            {"hi": "भुजा × भुजा × भुजा", "en": "Side × Side × Side"},
+            {"hi": "4 × भुजा", "en": "4 × Side"}
           ],
-          "answer": {"hi": "60°", "en": "60°"}
+          "answer": {"hi": "3 × एक भुजा की लंबाई", "en": "3 × Length of a side"}
         },
         {
           "q": {
-            "hi": "एक त्रिभुज जिसकी कोई दो भुजाएँ माप में समान हों, क्या कहलाता है?",
-            "en": "A triangle in which any two sides are of equal length is called?"
+            "hi": "एक समबाहु त्रिभुज की एक भुजा 6 सेमी है। इसका परिमाप क्या होगा?",
+            "en": "One side of an equilateral triangle is 6 cm. What is its perimeter?"
           },
           "options": [
-            {"hi": "समबाहु त्रिभुज", "en": "Equilateral triangle"},
-            {"hi": "समद्विबाहु त्रिभुज", "en": "Isosceles triangle"},
-            {"hi": "विषमबाहु त्रिभुज", "en": "Scalene triangle"},
-            {"hi": "न्यून कोण त्रिभुज", "en": "Acute-angled triangle"}
+            {"hi": "12 सेमी", "en": "12 cm"},
+            {"hi": "18 सेमी", "en": "18 cm"},
+            {"hi": "24 सेमी", "en": "24 cm"},
+            {"hi": "36 सेमी", "en": "36 cm"}
           ],
-          "answer": {"hi": "समद्विबाहु त्रिभुज", "en": "Isosceles triangle"}
+          "answer": {"hi": "18 सेमी", "en": "18 cm"}
         },
         {
           "q": {
-            "hi": "त्रिभुज की किन्हीं दो भुजाओं की मापों का योग, तीसरी भुजा की माप से __________ होता है।",
-            "en": "The sum of the lengths of any two sides of a triangle is __________ than the third side."
+            "hi": "सम पंचभुज (Regular Pentagon) का परिमाप क्या होगा?",
+            "en": "What is the perimeter of a regular pentagon?"
           },
           "options": [
-            {"hi": "कम", "en": "Less"},
-            {"hi": "अधिक", "en": "Greater"},
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "आधा", "en": "Half"}
+            {"hi": "4 × भुजा", "en": "4 × Side"},
+            {"hi": "5 × भुजा", "en": "5 × Side"},
+            {"hi": "6 × भुजा", "en": "6 × Side"},
+            {"hi": "10 × भुजा", "en": "10 × Side"}
           ],
-          "answer": {"hi": "अधिक", "en": "Greater"}
+          "answer": {"hi": "5 × भुजा", "en": "5 × Side"}
         },
         {
           "q": {
-            "hi": "समकोण त्रिभुज में समकोण के सामने वाली भुजा को क्या कहते हैं?",
-            "en": "In a right-angled triangle, what is the side opposite to the right angle called?"
+            "hi": "किसी बंद आकृति द्वारा घेरे गए तल के परिमाण को क्या कहते हैं?",
+            "en": "What is the measure of the region enclosed by a closed figure called?"
           },
           "options": [
-            {"hi": "आधार (Base)", "en": "Base"},
-            {"hi": "लंब (Perpendicular)", "en": "Perpendicular"},
-            {"hi": "कर्ण (Hypotenuse)", "en": "Hypotenuse"},
-            {"hi": "मध्यिका", "en": "Median"}
+            {"hi": "परिमाप", "en": "Perimeter"},
+            {"hi": "क्षेत्रफल", "en": "Area"},
+            {"hi": "ऊंचाई", "en": "Height"},
+            {"hi": "लंबाई", "en": "Length"}
           ],
-          "answer": {"hi": "कर्ण (Hypotenuse)", "en": "Hypotenuse"}
+          "answer": {"hi": "क्षेत्रफल", "en": "Area"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "यदि एक त्रिभुज के दो कोण 60° और 40° हैं, तो तीसरा कोण क्या होगा?",
-            "en": "If two angles of a triangle are 60° and 40°, what will be the third angle?"
+            "hi": "क्षेत्रफल को मापने की मानक इकाई क्या है?",
+            "en": "What is the standard unit for measuring area?"
           },
           "options": [
-            {"hi": "100°", "en": "100°"},
-            {"hi": "80°", "en": "80°"},
-            {"hi": "90°", "en": "90°"},
-            {"hi": "70°", "en": "70°"}
+            {"hi": "सेमी", "en": "cm"},
+            {"hi": "वर्ग इकाई (जैसे वर्ग सेमी)", "en": "Square units (e.g. sq cm)"},
+            {"hi": "मीटर", "en": "meter"},
+            {"hi": "घन सेमी", "en": "cubic cm"}
           ],
-          "answer": {"hi": "80°", "en": "80°"}
+          "answer": {"hi": "वर्ग इकाई (जैसे वर्ग सेमी)", "en": "Square units (e.g. sq cm)"}
         },
         {
           "q": {
-            "hi": "क्या एक त्रिभुज में दो समकोण हो सकते हैं?",
-            "en": "Can a triangle have two right angles?"
+            "hi": "आयत का क्षेत्रफल ज्ञात करने का सूत्र क्या है?",
+            "en": "What is the formula to find the area of a rectangle?"
+          },
+          "options": [
+            {"hi": "2 × (लंबाई + चौड़ाई)", "en": "2 × (Length + Breadth)"},
+            {"hi": "लंबाई + चौड़ाई", "en": "Length + Breadth"},
+            {"hi": "लंबाई × चौड़ाई", "en": "Length × Breadth"},
+            {"hi": "4 × भुजा", "en": "4 × Side"}
+          ],
+          "answer": {"hi": "लंबाई × चौड़ाई", "en": "Length × Breadth"}
+        },
+        {
+          "q": {
+            "hi": "वर्ग का क्षेत्रफल ज्ञात करने का सूत्र क्या है?",
+            "en": "What is the formula to find the area of a square?"
+          },
+          "options": [
+            {"hi": "4 × भुजा", "en": "4 × Side"},
+            {"hi": "भुजा × भुजा", "en": "Side × Side"},
+            {"hi": "2 × भुजा", "en": "2 × Side"},
+            {"hi": "3 × भुजा", "en": "3 × Side"}
+          ],
+          "answer": {"hi": "भुजा × भुजा", "en": "Side × Side"}
+        },
+        {
+          "q": {
+            "hi": "एक आयत की लंबाई 5 सेमी और चौड़ाई 3 सेमी है। इसका क्षेत्रफल क्या होगा?",
+            "en": "A rectangle has length 5 cm and breadth 3 cm. What is its area?"
+          },
+          "options": [
+            {"hi": "8 वर्ग सेमी", "en": "8 sq cm"},
+            {"hi": "16 वर्ग सेमी", "en": "16 sq cm"},
+            {"hi": "15 वर्ग सेमी", "en": "15 sq cm"},
+            {"hi": "15 सेमी", "en": "15 cm"}
+          ],
+          "answer": {"hi": "15 वर्ग सेमी", "en": "15 sq cm"}
+        },
+        {
+          "q": {
+            "hi": "एक वर्ग की भुजा 4 सेमी है। इसका क्षेत्रफल क्या होगा?",
+            "en": "A square has a side of 4 cm. What is its area?"
+          },
+          "options": [
+            {"hi": "8 वर्ग सेमी", "en": "8 sq cm"},
+            {"hi": "16 सेमी", "en": "16 cm"},
+            {"hi": "16 वर्ग सेमी", "en": "16 sq cm"},
+            {"hi": "12 वर्ग सेमी", "en": "12 sq cm"}
+          ],
+          "answer": {"hi": "16 वर्ग सेमी", "en": "16 sq cm"}
+        },
+        {
+          "q": {
+            "hi": "यदि दो आकृतियों का क्षेत्रफल समान है, तो क्या उनका परिमाप भी हमेशा समान होगा?",
+            "en": "If two figures have the same area, will their perimeter always be the same?"
           },
           "options": [
             {"hi": "हाँ", "en": "Yes"},
             {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल समबाहु में", "en": "Only in equilateral"},
-            {"hi": "कह नहीं सकते", "en": "Can't say"}
+            {"hi": "कह नहीं सकते", "en": "Can't say"},
+            {"hi": "केवल वर्गों के लिए", "en": "Only for squares"}
           ],
           "answer": {"hi": "नहीं", "en": "No"}
         },
         {
           "q": {
-            "hi": "किसी त्रिभुज के बाह्य कोण और उसके साथ लगे अंतः आसन्न कोण का योग कितना होता है?",
-            "en": "What is the sum of an exterior angle and its adjacent interior angle?"
+            "hi": "100 मीटर भुजा वाले वर्गाकार पार्क का क्षेत्रफल क्या होगा?",
+            "en": "What is the area of a square park with a side of 100 m?"
           },
           "options": [
-            {"hi": "90°", "en": "90°"},
-            {"hi": "180°", "en": "180°"},
-            {"hi": "360°", "en": "360°"},
-            {"hi": "0°", "en": "0°"}
+            {"hi": "400 वर्ग मीटर", "en": "400 sq m"},
+            {"hi": "10,000 वर्ग मीटर", "en": "10,000 sq m"},
+            {"hi": "1,000 वर्ग मीटर", "en": "1,000 sq m"},
+            {"hi": "200 वर्ग मीटर", "en": "200 sq m"}
           ],
-          "answer": {"hi": "180°", "en": "180°"}
+          "answer": {"hi": "10,000 वर्ग मीटर", "en": "10,000 sq m"}
         },
         {
           "q": {
-            "hi": "पाइथागोरस गुण (Pythagoras property) केवल किस प्रकार के त्रिभुज के लिए सत्य है?",
-            "en": "Pythagoras property is true only for which type of triangle?"
+            "hi": "एक सम षड्भुज (Regular Hexagon) की एक भुजा 8 मीटर है। इसका परिमाप क्या होगा?",
+            "en": "One side of a regular hexagon is 8 m. What is its perimeter?"
           },
           "options": [
-            {"hi": "न्यून कोण त्रिभुज", "en": "Acute-angled triangle"},
-            {"hi": "अधिक कोण त्रिभुज", "en": "Obtuse-angled triangle"},
-            {"hi": "समकोण त्रिभुज", "en": "Right-angled triangle"},
-            {"hi": "समबाहु त्रिभुज", "en": "Equilateral triangle"}
+            {"hi": "32 मीटर", "en": "32 m"},
+            {"hi": "40 मीटर", "en": "40 m"},
+            {"hi": "48 मीटर", "en": "48 m"},
+            {"hi": "64 मीटर", "en": "64 m"}
           ],
-          "answer": {"hi": "समकोण त्रिभुज", "en": "Right-angled triangle"}
+          "answer": {"hi": "48 मीटर", "en": "48 m"}
         },
         {
           "q": {
-            "hi": "यदि समकोण त्रिभुज की भुजाएँ a, b और कर्ण c है, तो पाइथागोरस संबंध क्या है?",
-            "en": "If sides of a right triangle are a, b and hypotenuse is c, what is the Pythagoras relation?"
+            "hi": "क्षेत्रफल निकालने के लिए वर्गाकार पेपर (Graph paper) पर आधे से कम घिरे वर्ग को कैसे गिना जाता है?",
+            "en": "While calculating area on graph paper, how is a square that is less than half filled counted?"
           },
           "options": [
-            {"hi": "$a^2 + b^2 = c^2$", "en": "$a^2 + b^2 = c^2$"},
-            {"hi": "$a + b = c$", "en": "$a + b = c$"},
-            {"hi": "$a^2 - b^2 = c^2$", "en": "$a^2 - b^2 = c^2$"},
-            {"hi": "$a \\times b = c$", "en": "$a \\times b = c$"}
+            {"hi": "एक पूर्ण वर्ग", "en": "One full square"},
+            {"hi": "आधा वर्ग", "en": "Half square"},
+            {"hi": "छोड़ दिया जाता है (शून्य)", "en": "Ignored (Zero)"},
+            {"hi": "दो वर्ग", "en": "Two squares"}
           ],
-          "answer": {"hi": "$a^2 + b^2 = c^2$", "en": "$a^2 + b^2 = c^2$"}
+          "answer": {"hi": "छोड़ दिया जाता है (शून्य)", "en": "Ignored (Zero)"}
         },
         {
           "q": {
-            "hi": "एक समद्विबाहु त्रिभुज में आधार पर बने दोनों कोण __________ होते हैं।",
-            "en": "In an isosceles triangle, the two angles at the base are __________."
+            "hi": "ग्राफ पेपर पर आधे से अधिक घिरे वर्ग को कितना गिना जाता है?",
+            "en": "How much is a square more than half filled counted on graph paper?"
           },
           "options": [
-            {"hi": "असमान", "en": "Unequal"},
-            {"hi": "समान (बराबर)", "en": "Equal"},
-            {"hi": "90°", "en": "90°"},
-            {"hi": "पूरक", "en": "Complementary"}
+            {"hi": "आधा वर्ग", "en": "Half square"},
+            {"hi": "एक पूर्ण वर्ग", "en": "One full square"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "दो वर्ग", "en": "Two squares"}
           ],
-          "answer": {"hi": "समान (बराबर)", "en": "Equal"}
-        },
-        {
-          "q": {
-            "hi": "क्या 2 cm, 3 cm और 5 cm भुजाओं से त्रिभुज संभव है?",
-            "en": "Is a triangle possible with sides 2 cm, 3 cm and 5 cm?"
-          },
-          "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल समकोण", "en": "Only right-angled"},
-            {"hi": "पता नहीं", "en": "Don't know"}
-          ],
-          "answer": {"hi": "नहीं", "en": "No"}
-        },
-        {
-          "q": {
-            "hi": "त्रिभुज की किन्हीं दो भुजाओं की मापों का अंतर, तीसरी भुजा की माप से __________ होता है।",
-            "en": "The difference between the lengths of any two sides of a triangle is __________ than the third side."
-          },
-          "options": [
-            {"hi": "अधिक", "en": "Greater"},
-            {"hi": "कम", "en": "Less"},
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "दोगुना", "en": "Double"}
-          ],
-          "answer": {"hi": "कम", "en": "Less"}
-        },
-        {
-          "q": {
-            "hi": "न्यून कोण त्रिभुज में प्रत्येक कोण __________ से कम होता है।",
-            "en": "In an acute-angled triangle, each angle is less than __________."
-          },
-          "options": [
-            {"hi": "45°", "en": "45°"},
-            {"hi": "90°", "en": "90°"},
-            {"hi": "60°", "en": "60°"},
-            {"hi": "180°", "en": "180°"}
-          ],
-          "answer": {"hi": "90°", "en": "90°"}
-        },
-        {
-          "q": {
-            "hi": "एक त्रिभुज के कितने अवयव (elements) होते हैं?",
-            "en": "How many elements (components) does a triangle have?"
-          },
-          "options": [
-            {"hi": "3", "en": "3"},
-            {"hi": "6", "en": "6"},
-            {"hi": "9", "en": "9"},
-            {"hi": "4", "en": "4"}
-          ],
-          "answer": {"hi": "6", "en": "6"}
+          "answer": {"hi": "एक पूर्ण वर्ग", "en": "One full square"}
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "शीर्षलंब त्रिभुज के शीर्ष से सम्मुख भुजा पर कैसा रेखाखंड होता है?",
-            "en": "An altitude is what kind of line segment from a vertex to the opposite side?"
+            "hi": "यदि एक आयत का परिमाप 20 सेमी है और लंबाई 6 सेमी है, तो चौड़ाई क्या होगी?",
+            "en": "If the perimeter of a rectangle is 20 cm and length is 6 cm, what is the breadth?"
           },
           "options": [
-            {"hi": "तिरछा", "en": "Slanting"},
-            {"hi": "लंबवत (Perpendicular)", "en": "Perpendicular"},
-            {"hi": "समांतर", "en": "Parallel"},
-            {"hi": "आधा", "en": "Half"}
+            {"hi": "14 सेमी", "en": "14 cm"},
+            {"hi": "4 सेमी", "en": "4 cm"},
+            {"hi": "8 सेमी", "en": "8 cm"},
+            {"hi": "10 सेमी", "en": "10 cm"}
           ],
-          "answer": {"hi": "लंबवत (Perpendicular)", "en": "Perpendicular"}
+          "answer": {"hi": "4 सेमी", "en": "4 cm"}
         },
         {
           "q": {
-            "hi": "एक अधिक कोण त्रिभुज में कितने अधिक कोण हो सकते हैं?",
-            "en": "How many obtuse angles can an obtuse-angled triangle have?"
+            "hi": "2 मीटर लंबाई और 1.5 मीटर चौड़ाई वाले मेज के ऊपरी भाग का परिमाप क्या होगा?",
+            "en": "What is the perimeter of a tabletop with length 2 m and breadth 1.5 m?"
           },
           "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "2", "en": "2"},
-            {"hi": "3", "en": "3"},
-            {"hi": "0", "en": "0"}
+            {"hi": "3.5 मीटर", "en": "3.5 m"},
+            {"hi": "7 मीटर", "en": "7 m"},
+            {"hi": "3 वर्ग मीटर", "en": "3 sq m"},
+            {"hi": "5 मीटर", "en": "5 m"}
           ],
-          "answer": {"hi": "1", "en": "1"}
+          "answer": {"hi": "7 मीटर", "en": "7 m"}
         },
         {
           "q": {
-            "hi": "यदि एक त्रिभुज के कोण 2:3:4 के अनुपात में हैं, तो सबसे छोटा कोण क्या होगा?",
-            "en": "If angles of a triangle are in ratio 2:3:4, what is the smallest angle?"
+            "hi": "एक धागे का टुकड़ा 30 सेमी लंबा है। यदि इससे एक वर्ग बनाया जाए, तो प्रत्येक भुजा की लंबाई क्या होगी?",
+            "en": "A piece of string is 30 cm long. If a square is formed using it, what will be the length of each side?"
           },
           "options": [
-            {"hi": "20°", "en": "20°"},
-            {"hi": "40°", "en": "40°"},
-            {"hi": "60°", "en": "60°"},
-            {"hi": "80°", "en": "80°"}
+            {"hi": "10 सेमी", "en": "10 cm"},
+            {"hi": "15 सेमी", "en": "15 cm"},
+            {"hi": "7.5 सेमी", "en": "7.5 cm"},
+            {"hi": "5 सेमी", "en": "5 cm"}
           ],
-          "answer": {"hi": "40°", "en": "40°"}
+          "answer": {"hi": "7.5 सेमी", "en": "7.5 cm"}
         },
         {
           "q": {
-            "hi": "एक समकोण त्रिभुज में यदि एक न्यून कोण 35° है, तो दूसरा न्यून कोण क्या होगा?",
-            "en": "In a right triangle, if one acute angle is 35°, what is the other acute angle?"
+            "hi": "एक धागे के 30 सेमी लंबे टुकड़े से एक समबाहु त्रिभुज बनाया गया। इसकी भुजा क्या होगी?",
+            "en": "An equilateral triangle is formed using a 30 cm long string. What will be its side?"
           },
           "options": [
-            {"hi": "55°", "en": "55°"},
-            {"hi": "45°", "en": "45°"},
-            {"hi": "65°", "en": "65°"},
-            {"hi": "145°", "en": "145°"}
+            {"hi": "10 सेमी", "en": "10 cm"},
+            {"hi": "15 सेमी", "en": "15 cm"},
+            {"hi": "5 सेमी", "en": "5 cm"},
+            {"hi": "7.5 सेमी", "en": "7.5 cm"}
           ],
-          "answer": {"hi": "55°", "en": "55°"}
+          "answer": {"hi": "10 सेमी", "en": "10 cm"}
         },
         {
           "q": {
-            "hi": "क्या किसी त्रिभुज के सभी कोण 60° से कम हो सकते हैं?",
-            "en": "Can all angles of a triangle be less than 60°?"
+            "hi": "आयत का क्षेत्रफल 24 वर्ग सेमी है और लंबाई 6 सेमी है। इसकी चौड़ाई क्या होगी?",
+            "en": "The area of a rectangle is 24 sq cm and length is 6 cm. What is its breadth?"
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "कभी-कभी", "en": "Sometimes"},
-            {"hi": "पता नहीं", "en": "Don't know"}
+            {"hi": "18 सेमी", "en": "18 cm"},
+            {"hi": "4 सेमी", "en": "4 cm"},
+            {"hi": "30 सेमी", "en": "30 cm"},
+            {"hi": "12 सेमी", "en": "12 cm"}
           ],
-          "answer": {"hi": "नहीं", "en": "No"}
+          "answer": {"hi": "4 सेमी", "en": "4 cm"}
         },
         {
           "q": {
-            "hi": "क्या किसी त्रिभुज के सभी कोण 60° से अधिक हो सकते हैं?",
-            "en": "Can all angles of a triangle be greater than 60°?"
+            "hi": "1 वर्ग मीटर में कितने वर्ग सेमी होते हैं?",
+            "en": "How many sq cm are there in 1 sq m?"
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "संभव है", "en": "Possible"},
-            {"hi": "शून्य", "en": "Zero"}
+            {"hi": "100", "en": "100"},
+            {"hi": "1,000", "en": "1,000"},
+            {"hi": "10,000", "en": "10,000"},
+            {"hi": "10", "en": "10"}
           ],
-          "answer": {"hi": "नहीं", "en": "No"}
+          "answer": {"hi": "10,000", "en": "10,000"}
         },
         {
           "q": {
-            "hi": "एक त्रिभुज जिसकी तीनों भुजाएँ असमान लंबाई की हों, क्या कहलाता है?",
-            "en": "A triangle with all three sides of different lengths is called?"
+            "hi": "एक भूखंड (Plot) की लंबाई 500 मीटर और चौड़ाई 200 मीटर है। इसका क्षेत्रफल क्या होगा?",
+            "en": "A plot has length 500 m and breadth 200 m. What is its area?"
           },
           "options": [
-            {"hi": "समबाहु", "en": "Equilateral"},
-            {"hi": "समद्विबाहु", "en": "Isosceles"},
-            {"hi": "विषमबाहु (Scalene)", "en": "Scalene"},
-            {"hi": "समकोण", "en": "Right-angled"}
+            {"hi": "700 वर्ग मीटर", "en": "700 sq m"},
+            {"hi": "1,000 वर्ग मीटर", "en": "1,000 sq m"},
+            {"hi": "1,00,000 वर्ग मीटर", "en": "1,00,000 sq m"},
+            {"hi": "1,400 वर्ग मीटर", "en": "1,400 sq m"}
           ],
-          "answer": {"hi": "विषमबाहु (Scalene)", "en": "Scalene"}
+          "answer": {"hi": "1,00,000 वर्ग मीटर", "en": "1,00,000 sq m"}
         },
         {
           "q": {
-            "hi": "एक बाह्य कोण की माप 110° है और एक सम्मुख अंतः कोण 50° है। दूसरा सम्मुख अंतः कोण क्या होगा?",
-            "en": "An exterior angle is 110° and one opposite interior angle is 50°. What is the other one?"
+            "hi": "निम्न में से किसका परिमाप सबसे अधिक है: 6 सेमी भुजा वाला वर्ग या 7 सेमी लंबाई और 4 सेमी चौड़ाई वाला आयत?",
+            "en": "Which has a greater perimeter: a square of side 6 cm or a rectangle of length 7 cm and breadth 4 cm?"
           },
           "options": [
-            {"hi": "60°", "en": "60°"},
-            {"hi": "160°", "en": "160°"},
-            {"hi": "70°", "en": "70°"},
-            {"hi": "50°", "en": "50°"}
+            {"hi": "वर्ग (24 सेमी)", "en": "Square (24 cm)"},
+            {"hi": "आयत (22 सेमी)", "en": "Rectangle (22 cm)"},
+            {"hi": "दोनों समान हैं", "en": "Both are equal"},
+            {"hi": "कह नहीं सकते", "en": "Can't say"}
           ],
-          "answer": {"hi": "60°", "en": "60°"}
+          "answer": {"hi": "वर्ग (24 सेमी)", "en": "Square (24 cm)"}
         },
         {
           "q": {
-            "hi": "मध्यिका सम्मुख भुजा को कितने भागों में बाँटती है?",
-            "en": "A median divides the opposite side into how many parts?"
+            "hi": "एक आयताकार कार्डबोर्ड का क्षेत्रफल 36 वर्ग सेमी है और लंबाई 9 सेमी है। इसकी चौड़ाई क्या होगी?",
+            "en": "The area of a rectangular cardboard is 36 sq cm and length is 9 cm. What is its breadth?"
           },
           "options": [
-            {"hi": "तीन", "en": "Three"},
-            {"hi": "दो बराबर भाग", "en": "Two equal parts"},
-            {"hi": "चार", "en": "Four"},
-            {"hi": "बाँटती नहीं", "en": "Doesn't divide"}
+            {"hi": "27 सेमी", "en": "27 cm"},
+            {"hi": "4 सेमी", "en": "4 cm"},
+            {"hi": "6 सेमी", "en": "6 cm"},
+            {"hi": "45 सेमी", "en": "45 cm"}
           ],
-          "answer": {"hi": "दो बराबर भाग", "en": "Two equal parts"}
+          "answer": {"hi": "4 सेमी", "en": "4 cm"}
         },
         {
           "q": {
-            "hi": "यदि त्रिभुज की भुजाएँ 3, 4, 5 हैं, तो यह किस प्रकार का त्रिभुज है?",
-            "en": "If sides of a triangle are 3, 4, 5, what type of triangle is it?"
+            "hi": "यदि किसी आकृति का परिमाप 16 सेमी है और वह एक वर्ग है, तो इसका क्षेत्रफल क्या होगा?",
+            "en": "If the perimeter of a figure is 16 cm and it is a square, what is its area?"
           },
           "options": [
-            {"hi": "समबाहु", "en": "Equilateral"},
-            {"hi": "अधिक कोण", "en": "Obtuse-angled"},
-            {"hi": "समकोण (Right-angled)", "en": "Right-angled"},
-            {"hi": "न्यून कोण", "en": "Acute-angled"}
+            {"hi": "4 वर्ग सेमी", "en": "4 sq cm"},
+            {"hi": "16 वर्ग सेमी", "en": "16 sq cm"},
+            {"hi": "64 वर्ग सेमी", "en": "64 sq cm"},
+            {"hi": "8 वर्ग सेमी", "en": "8 sq cm"}
           ],
-          "answer": {"hi": "समकोण (Right-angled)", "en": "Right-angled"}
+          "answer": {"hi": "16 वर्ग सेमी", "en": "16 sq cm"}
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "एक समकोण समद्विबाहु त्रिभुज के न्यून कोणों की माप क्या होगी?",
-            "en": "What will be the measure of acute angles in a right-angled isosceles triangle?"
+            "hi": "एक आयताकार बगीचे की लंबाई 10 मीटर और चौड़ाई 8 मीटर है। इसके चारों ओर बाड़ लगाने के लिए कितनी तार की आवश्यकता होगी?",
+            "en": "A rectangular garden is 10 m long and 8 m wide. How much wire is needed to fence it?"
           },
           "options": [
-            {"hi": "30°, 60°", "en": "30°, 60°"},
-            {"hi": "45°, 45°", "en": "45°, 45°"},
-            {"hi": "40°, 50°", "en": "40°, 50°"},
-            {"hi": "90°, 0°", "en": "90°, 0°"}
+            {"hi": "18 मीटर", "en": "18 m"},
+            {"hi": "80 मीटर", "en": "80 m"},
+            {"hi": "36 मीटर", "en": "36 m"},
+            {"hi": "40 मीटर", "en": "40 m"}
           ],
-          "answer": {"hi": "45°, 45°", "en": "45°, 45°"}
+          "answer": {"hi": "36 मीटर", "en": "36 m"}
         },
         {
           "q": {
-            "hi": "क्या 10 cm, 10 cm और 20 cm भुजाओं वाला त्रिभुज बन सकता है?",
-            "en": "Can a triangle with sides 10 cm, 10 cm and 20 cm be formed?"
+            "hi": "एक फोटो को फ्रेम करने के लिए 32 सेमी लंबाई और 21 सेमी चौड़ाई वाली लकड़ी की पट्टी की आवश्यकता है। पट्टी की कुल लंबाई क्या होगी?",
+            "en": "A photo frame needs a wooden strip for a length of 32 cm and breadth of 21 cm. What is the total length of the strip?"
+          },
+          "options": [
+            {"hi": "53 सेमी", "en": "53 cm"},
+            {"hi": "106 सेमी", "en": "106 cm"},
+            {"hi": "672 सेमी", "en": "672 cm"},
+            {"hi": "64 सेमी", "en": "64 cm"}
+          ],
+          "answer": {"hi": "106 सेमी", "en": "106 cm"}
+        },
+        {
+          "q": {
+            "hi": "एक नियमित अष्टभुज (Regular Octagon) की भुजा 5 सेमी है। इसका परिमाप क्या है?",
+            "en": "A regular octagon has a side of 5 cm. What is its perimeter?"
+          },
+          "options": [
+            {"hi": "30 सेमी", "en": "30 cm"},
+            {"hi": "40 सेमी", "en": "40 cm"},
+            {"hi": "45 सेमी", "en": "45 cm"},
+            {"hi": "25 सेमी", "en": "25 cm"}
+          ],
+          "answer": {"hi": "40 सेमी", "en": "40 cm"}
+        },
+        {
+          "q": {
+            "hi": "क्या अलग-अलग परिमाप वाली दो आकृतियों का क्षेत्रफल समान हो सकता है?",
+            "en": "Can two figures with different perimeters have the same area?"
           },
           "options": [
             {"hi": "हाँ", "en": "Yes"},
             {"hi": "नहीं", "en": "No"},
-            {"hi": "शायद", "en": "Maybe"},
-            {"hi": "केवल विशेष स्थिति में", "en": "Only in special case"}
+            {"hi": "केवल आयतों के लिए", "en": "Only for rectangles"},
+            {"hi": "कभी नहीं", "en": "Never"}
           ],
-          "answer": {"hi": "नहीं", "en": "No"}
+          "answer": {"hi": "हाँ", "en": "Yes"}
         },
         {
           "q": {
-            "hi": "एक त्रिभुज के बाह्य कोणों का कुल योग कितना होता है?",
-            "en": "What is the total sum of the exterior angles of a triangle?"
+            "hi": "एक वर्ग का क्षेत्रफल 81 वर्ग सेमी है। इसकी भुजा की लंबाई क्या होगी?",
+            "en": "The area of a square is 81 sq cm. What is the length of its side?"
           },
           "options": [
-            {"hi": "180°", "en": "180°"},
-            {"hi": "360°", "en": "360°"},
-            {"hi": "540°", "en": "540°"},
-            {"hi": "90°", "en": "90°"}
+            {"hi": "18 सेमी", "en": "18 cm"},
+            {"hi": "9 सेमी", "en": "9 cm"},
+            {"hi": "81 सेमी", "en": "81 cm"},
+            {"hi": "27 सेमी", "en": "27 cm"}
           ],
-          "answer": {"hi": "360°", "en": "360°"}
+          "answer": {"hi": "9 सेमी", "en": "9 cm"}
         },
         {
           "q": {
-            "hi": "यदि समद्विबाहु त्रिभुज का शीर्ष कोण 100° है, तो प्रत्येक आधार कोण क्या होगा?",
-            "en": "If vertex angle of an isosceles triangle is 100°, what is each base angle?"
+            "hi": "एक आयताकार हॉल 15 मीटर लंबा और 10 मीटर चौड़ा है। इसमें 2 वर्ग मीटर वाली कितनी टाइलें लगेंगी?",
+            "en": "A rectangular hall is 15 m long and 10 m wide. How many tiles of 2 sq m each are needed?"
           },
           "options": [
-            {"hi": "40°", "en": "40°"},
-            {"hi": "80°", "en": "80°"},
-            {"hi": "50°", "en": "50°"},
-            {"hi": "30°", "en": "30°"}
+            {"hi": "150", "en": "150"},
+            {"hi": "75", "en": "75"},
+            {"hi": "300", "en": "300"},
+            {"hi": "50", "en": "50"}
           ],
-          "answer": {"hi": "40°", "en": "40°"}
+          "answer": {"hi": "75", "en": "75"}
         },
         {
           "q": {
-            "hi": "त्रिभुज के तीनों शीर्षों से सम्मुख भुजाओं पर खींचे गए शीर्षलंब जहाँ मिलते हैं, उसे क्या कहते हैं?",
-            "en": "The point where all three altitudes of a triangle meet is called?"
+            "hi": "एक त्रिभुज की भुजाएँ 3 सेमी, 4 सेमी और 5 सेमी हैं। इसका परिमाप क्या होगा?",
+            "en": "The sides of a triangle are 3 cm, 4 cm, and 5 cm. What is its perimeter?"
           },
           "options": [
-            {"hi": "केंद्रक (Centroid)", "en": "Centroid"},
-            {"hi": "लंबकेंद्र (Orthocentre)", "en": "Orthocentre"},
-            {"hi": "अंतःकेंद्र", "en": "Incentre"},
-            {"hi": "परिकेंद्र", "en": "Circumcentre"}
+            {"hi": "7 सेमी", "en": "7 cm"},
+            {"hi": "12 सेमी", "en": "12 cm"},
+            {"hi": "9 सेमी", "en": "9 cm"},
+            {"hi": "15 सेमी", "en": "15 cm"}
           ],
-          "answer": {"hi": "लंबकेंद्र (Orthocentre)", "en": "Orthocentre"}
+          "answer": {"hi": "12 सेमी", "en": "12 cm"}
         },
         {
           "q": {
-            "hi": "त्रिभुज की तीनों मध्यिकाएँ जिस बिंदु पर मिलती हैं, उसे क्या कहते हैं?",
-            "en": "The point where all three medians of a triangle meet is called?"
+            "hi": "एक धागा एक सम पंचभुज के चारों ओर लपेटा गया जिसकी भुजा 7 सेमी है। धागे की लंबाई क्या होगी?",
+            "en": "A string is wrapped around a regular pentagon of side 7 cm. What is the length of the string?"
           },
           "options": [
-            {"hi": "लंबकेंद्र", "en": "Orthocentre"},
-            {"hi": "केंद्रक (Centroid)", "en": "Centroid"},
-            {"hi": "मध्य बिंदु", "en": "Midpoint"},
-            {"hi": "शीर्ष", "en": "Vertex"}
+            {"hi": "28 सेमी", "en": "28 cm"},
+            {"hi": "35 सेमी", "en": "35 cm"},
+            {"hi": "42 सेमी", "en": "42 cm"},
+            {"hi": "49 सेमी", "en": "49 cm"}
           ],
-          "answer": {"hi": "केंद्रक (Centroid)", "en": "Centroid"}
+          "answer": {"hi": "35 सेमी", "en": "35 cm"}
         },
         {
           "q": {
-            "hi": "एक सीढ़ी दीवार के साथ टिकाई गई है। सीढ़ी, दीवार और जमीन मिलकर कौन सा त्रिभुज बनाते हैं?",
-            "en": "A ladder is leaning against a wall. Ladder, wall and ground form which triangle?"
+            "hi": "वर्गाकार टाइल की भुजा 10 सेमी है। इसका क्षेत्रफल क्या होगा?",
+            "en": "The side of a square tile is 10 cm. What is its area?"
           },
           "options": [
-            {"hi": "समबाहु", "en": "Equilateral"},
-            {"hi": "न्यून कोण", "en": "Acute-angled"},
-            {"hi": "समकोण (Right-angled)", "en": "Right-angled"},
-            {"hi": "विषमबाहु", "en": "Scalene"}
+            {"hi": "20 वर्ग सेमी", "en": "20 sq cm"},
+            {"hi": "40 वर्ग सेमी", "en": "40 sq cm"},
+            {"hi": "100 वर्ग सेमी", "en": "100 sq cm"},
+            {"hi": "100 सेमी", "en": "100 cm"}
           ],
-          "answer": {"hi": "समकोण (Right-angled)", "en": "Right-angled"}
+          "answer": {"hi": "100 वर्ग सेमी", "en": "100 sq cm"}
         },
         {
           "q": {
-            "hi": "यदि समकोण त्रिभुज की एक भुजा 6 cm और दूसरी 8 cm है, तो कर्ण की लंबाई क्या होगी?",
-            "en": "If sides of a right triangle are 6 cm and 8 cm, what is the length of hypotenuse?"
+            "hi": "एक आयताकार मैदान का क्षेत्रफल 300 वर्ग मीटर है। यदि चौड़ाई 15 मीटर है, तो लंबाई क्या है?",
+            "en": "The area of a rectangular field is 300 sq m. If the breadth is 15 m, what is the length?"
           },
           "options": [
-            {"hi": "14 cm", "en": "14 cm"},
-            {"hi": "10 cm", "en": "10 cm"},
-            {"hi": "2 cm", "en": "2 cm"},
-            {"hi": "48 cm", "en": "48 cm"}
+            {"hi": "20 मीटर", "en": "20 m"},
+            {"hi": "4500 मीटर", "en": "4500 m"},
+            {"hi": "30 मीटर", "en": "30 m"},
+            {"hi": "15 मीटर", "en": "15 m"}
           ],
-          "answer": {"hi": "10 cm", "en": "10 cm"}
-        },
-        {
-          "q": {
-            "hi": "किसी त्रिभुज में कम से कम कितने न्यून कोण होने चाहिए?",
-            "en": "A triangle must have at least how many acute angles?"
-          },
-          "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "2", "en": "2"},
-            {"hi": "3", "en": "3"},
-            {"hi": "0", "en": "0"}
-          ],
-          "answer": {"hi": "2", "en": "2"}
-        },
-        {
-          "q": {
-            "hi": "एक त्रिभुज के बाह्य कोण और अंतः सम्मुख कोणों के बीच क्या संबंध है?",
-            "en": "What is the relation between exterior angle and interior opposite angles?"
-          },
-          "options": [
-            {"hi": "योग के बराबर", "en": "Equal to sum"},
-            {"hi": "अंतर के बराबर", "en": "Equal to difference"},
-            {"hi": "गुणनफल के बराबर", "en": "Equal to product"},
-            {"hi": "कोई संबंध नहीं", "en": "No relation"}
-          ],
-          "answer": {"hi": "योग के बराबर", "en": "Equal to sum"}
+          "answer": {"hi": "20 मीटर", "en": "20 m"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "एक समकोण त्रिभुज का एक न्यून कोण दूसरे का दोगुना है। कोणों के माप क्या हैं?",
-            "en": "One acute angle of a right triangle is twice the other. What are the angles?"
+            "hi": "यदि एक वर्ग की भुजा को दोगुना कर दिया जाए, तो उसके परिमाप पर क्या प्रभाव पड़ेगा?",
+            "en": "If the side of a square is doubled, what will be the effect on its perimeter?"
           },
           "options": [
-            {"hi": "30°, 60°", "en": "30°, 60°"},
-            {"hi": "40°, 80°", "en": "40°, 80°"},
-            {"hi": "45°, 45°", "en": "45°, 45°"},
-            {"hi": "20°, 40°", "en": "20°, 40°"}
+            {"hi": "वही रहेगा", "en": "Remains the same"},
+            {"hi": "दोगुना हो जाएगा", "en": "Will be doubled"},
+            {"hi": "चार गुना हो जाएगा", "en": "Will be four times"},
+            {"hi": "आधा हो जाएगा", "en": "Will be halved"}
           ],
-          "answer": {"hi": "30°, 60°", "en": "30°, 60°"}
+          "answer": {"hi": "दोगुना हो जाएगा", "en": "Will be doubled"}
         },
         {
           "q": {
-            "hi": "यदि किसी त्रिभुज की दो भुजाओं का अंतर 4 cm है, तो तीसरी भुजा 4 cm से __________ होनी चाहिए।",
-            "en": "If the difference of two sides is 4 cm, the third side must be __________ than 4 cm."
+            "hi": "यदि एक वर्ग की भुजा को दोगुना कर दिया जाए, तो उसके क्षेत्रफल पर क्या प्रभाव पड़ेगा?",
+            "en": "If the side of a square is doubled, what will be the effect on its area?"
           },
           "options": [
-            {"hi": "कम", "en": "Less"},
-            {"hi": "अधिक", "en": "Greater"},
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "शून्य", "en": "Zero"}
+            {"hi": "दोगुना", "en": "Double"},
+            {"hi": "तीन गुना", "en": "Triple"},
+            {"hi": "चार गुना", "en": "Four times"},
+            {"hi": "वही रहेगा", "en": "Same"}
           ],
-          "answer": {"hi": "अधिक", "en": "Greater"}
+          "answer": {"hi": "चार गुना हो जाएगा", "en": "Will be four times"}
         },
         {
           "q": {
-            "hi": "समकोण त्रिभुज की भुजाओं 5, 12 और 13 में कर्ण कौन सी भुजा है?",
-            "en": "Among sides 5, 12 and 13 of a right triangle, which is the hypotenuse?"
+            "hi": "एक आयत की लंबाई 25 सेमी और चौड़ाई 10 सेमी है। इसका क्षेत्रफल क्या होगा?",
+            "en": "The length of a rectangle is 25 cm and breadth is 10 cm. What is its area?"
           },
           "options": [
-            {"hi": "5", "en": "5"},
-            {"hi": "12", "en": "12"},
-            {"hi": "13", "en": "13"},
-            {"hi": "कोई भी", "en": "Any one"}
+            {"hi": "35 वर्ग सेमी", "en": "35 sq cm"},
+            {"hi": "250 वर्ग सेमी", "en": "250 sq cm"},
+            {"hi": "70 वर्ग सेमी", "en": "70 sq cm"},
+            {"hi": "150 वर्ग सेमी", "en": "150 sq cm"}
           ],
-          "answer": {"hi": "13", "en": "13"}
+          "answer": {"hi": "250 वर्ग सेमी", "en": "250 sq cm"}
         },
         {
           "q": {
-            "hi": "क्या एक त्रिभुज के दो कोण अधिक कोण हो सकते हैं?",
-            "en": "Can a triangle have two obtuse angles?"
+            "hi": "20 मीटर भुजा वाले वर्गाकार आंगन को पक्का करने का खर्च ₹10 प्रति वर्ग मीटर की दर से क्या होगा?",
+            "en": "What is the cost of paving a square courtyard of side 20 m at ₹10 per sq m?"
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल विषमबाहु में", "en": "Only in scalene"},
-            {"hi": "संभव है", "en": "Possible"}
+            {"hi": "₹400", "en": "₹400"},
+            {"hi": "₹2000", "en": "₹2000"},
+            {"hi": "₹4000", "en": "₹4000"},
+            {"hi": "₹800", "en": "₹800"}
           ],
-          "answer": {"hi": "नहीं", "en": "No"}
+          "answer": {"hi": "₹4000", "en": "₹4000"}
         },
         {
           "q": {
-            "hi": "एक समबाहु त्रिभुज की एक मध्यिका की लंबाई 5 cm है। दूसरी मध्यिका की लंबाई क्या होगी?",
-            "en": "A median of an equilateral triangle is 5 cm. What is the length of the second median?"
+            "hi": "1 सेमी भुजा वाले 5 वर्गों को मिलाकर एक आकृति बनाई गई। इसका क्षेत्रफल क्या होगा?",
+            "en": "A figure is made by joining 5 squares of side 1 cm each. What will be its area?"
           },
           "options": [
-            {"hi": "10 cm", "en": "10 cm"},
-            {"hi": "2.5 cm", "en": "2.5 cm"},
-            {"hi": "5 cm", "en": "5 cm"},
-            {"hi": "7.5 cm", "en": "7.5 cm"}
+            {"hi": "1 वर्ग सेमी", "en": "1 sq cm"},
+            {"hi": "5 वर्ग सेमी", "en": "5 sq cm"},
+            {"hi": "25 वर्ग सेमी", "en": "25 sq cm"},
+            {"hi": "10 वर्ग सेमी", "en": "10 sq cm"}
           ],
-          "answer": {"hi": "5 cm", "en": "5 cm"}
+          "answer": {"hi": "5 वर्ग सेमी", "en": "5 sq cm"}
         },
         {
           "q": {
-            "hi": "त्रिभुज के अंतः कोणों के योग का गुण क्या कहलाता है?",
-            "en": "What is the property of the sum of interior angles of a triangle called?"
+            "hi": "एक आयताकार पट्टी का परिमाप 100 सेमी है। यदि लंबाई 35 सेमी है, तो चौड़ाई क्या है?",
+            "en": "The perimeter of a rectangular strip is 100 cm. If the length is 35 cm, what is the breadth?"
           },
           "options": [
-            {"hi": "पाइथागोरस गुण", "en": "Pythagoras property"},
-            {"hi": "कोण योग गुण (Angle sum property)", "en": "Angle sum property"},
-            {"hi": "बाह्य कोण गुण", "en": "Exterior angle property"},
-            {"hi": "संवृत गुण", "en": "Closure property"}
+            {"hi": "65 सेमी", "en": "65 cm"},
+            {"hi": "15 सेमी", "en": "15 cm"},
+            {"hi": "30 सेमी", "en": "30 cm"},
+            {"hi": "50 सेमी", "en": "50 cm"}
           ],
-          "answer": {"hi": "कोण योग गुण (Angle sum property)", "en": "Angle sum property"}
+          "answer": {"hi": "15 सेमी", "en": "15 cm"}
         },
         {
           "q": {
-            "hi": "यदि $a, b, c$ त्रिभुज की भुजाएँ हैं, तो इनमें से कौन सा कथन सही है?",
-            "en": "If $a, b, c$ are sides of a triangle, which statement is correct?"
+            "hi": "नियमित बहुभुज किसे कहते हैं?",
+            "en": "What is a regular polygon?"
           },
           "options": [
-            {"hi": "$a + b > c$", "en": "$a + b > c$"},
-            {"hi": "$a + b < c$", "en": "$a + b < c$"},
-            {"hi": "$a + b = c$", "en": "$a + b = c$"},
-            {"hi": "$a - b > c$", "en": "$a - b > c$"}
+            {"hi": "जिसकी सभी भुजाएँ और कोण समान हों", "en": "Whose all sides and angles are equal"},
+            {"hi": "जिसकी केवल भुजाएँ समान हों", "en": "Whose only sides are equal"},
+            {"hi": "जिसकी 4 भुजाएँ हों", "en": "Which has 4 sides"},
+            {"hi": "जो बंद न हो", "en": "Which is not closed"}
           ],
-          "answer": {"hi": "$a + b > c$", "en": "$a + b > c$"}
+          "answer": {"hi": "जिसकी सभी भुजाएँ और कोण समान हों", "en": "Whose all sides and angles are equal"}
         },
         {
           "q": {
-            "hi": "किसी समद्विबाहु त्रिभुज में समान भुजाओं के सम्मुख कोण कैसे होते हैं?",
-            "en": "In an isosceles triangle, angles opposite to equal sides are?"
+            "hi": "एक समबाहु त्रिभुज का परिमाप 15 सेमी है। इसकी एक भुजा की लंबाई क्या है?",
+            "en": "The perimeter of an equilateral triangle is 15 cm. What is the length of its one side?"
           },
           "options": [
-            {"hi": "असमान", "en": "Unequal"},
-            {"hi": "समान (बराबर)", "en": "Equal"},
-            {"hi": "पूरक", "en": "Complementary"},
-            {"hi": "अधिक कोण", "en": "Obtuse"}
+            {"hi": "5 सेमी", "en": "5 cm"},
+            {"hi": "3 सेमी", "en": "3 cm"},
+            {"hi": "10 सेमी", "en": "10 cm"},
+            {"hi": "7.5 सेमी", "en": "7.5 cm"}
           ],
-          "answer": {"hi": "समान (बराबर)", "en": "Equal"}
+          "answer": {"hi": "5 सेमी", "en": "5 cm"}
         },
         {
           "q": {
-            "hi": "एक त्रिभुज के शीर्षों के नाम सामान्यतः किन अक्षरों से लिखे जाते हैं?",
-            "en": "Vertices of a triangle are usually named with which letters?"
+            "hi": "यदि एक आयत की लंबाई और चौड़ाई दोनों को दोगुना कर दिया जाए, तो क्षेत्रफल कितने गुना हो जाएगा?",
+            "en": "If both length and breadth of a rectangle are doubled, how many times will the area become?"
           },
           "options": [
-            {"hi": "छोटे अक्षर (a, b, c)", "en": "Small letters"},
-            {"hi": "बड़े अक्षर (A, B, C)", "en": "Capital letters"},
-            {"hi": "संख्याएँ (1, 2, 3)", "en": "Numbers"},
-            {"hi": "क, ख, ग", "en": "Hindi letters"}
+            {"hi": "2 गुना", "en": "2 times"},
+            {"hi": "4 गुना", "en": "4 times"},
+            {"hi": "8 गुना", "en": "8 times"},
+            {"hi": "वही रहेगा", "en": "Same"}
           ],
-          "answer": {"hi": "बड़े अक्षर (A, B, C)", "en": "Capital letters"}
+          "answer": {"hi": "4 गुना", "en": "4 times"}
         },
         {
           "q": {
-            "hi": "एक समकोण त्रिभुज के आधार और लंब को क्या कहते हैं?",
-            "en": "What are the base and perpendicular of a right triangle called?"
+            "hi": "किसी भी बंद आकृति के घेरे के माप (क्षेत्रफल) को सामान्यतः किस इकाई में व्यक्त करते हैं?",
+            "en": "In which unit is the measure of the region (area) of a closed figure generally expressed?"
           },
           "options": [
-            {"hi": "कर्ण", "en": "Hypotenuse"},
-            {"hi": "पाद (Legs)", "en": "Legs"},
-            {"hi": "मध्यिका", "en": "Median"},
-            {"hi": "शीर्ष", "en": "Vertex"}
+            {"hi": "इकाई", "en": "Unit"},
+            {"hi": "वर्ग इकाई", "en": "Square unit"},
+            {"hi": "घन इकाई", "en": "Cubic unit"},
+            {"hi": "कोई नहीं", "en": "None"}
           ],
-          "answer": {"hi": "पाद (Legs)", "en": "Legs"}
+          "answer": {"hi": "वर्ग इकाई", "en": "Square unit"}
         }
       ]
     },
