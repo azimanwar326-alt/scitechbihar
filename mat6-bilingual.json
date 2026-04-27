@@ -1990,661 +1990,661 @@
       "section1": [
         {
           "q": {
-            "hi": "किसी संख्या को 4 से गुणा करके उसमें 5 जोड़ने पर 65 प्राप्त होता है। वह संख्या क्या है?",
-            "en": "Multiplying a number by 4 and adding 5 gives 65. What is that number?"
+            "hi": "किसी विशेष उद्देश्य के लिए एकत्रित की गई जानकारी (संख्याओं के रूप में) क्या कहलाती है?",
+            "en": "What is the information (in numerical form) collected for a specific purpose called?"
           },
           "options": [
-            {"hi": "10", "en": "10"},
-            {"hi": "15", "en": "15"},
-            {"hi": "12", "en": "12"},
-            {"hi": "20", "en": "20"}
+            {"hi": "पैटर्न", "en": "Pattern"},
+            {"hi": "आंकड़े (Data)", "en": "Data"},
+            {"hi": "ज्यामिति", "en": "Geometry"},
+            {"hi": "संख्या रेखा", "en": "Number line"}
           ],
-          "answer": {"hi": "15", "en": "15"}
+          "answer": {"hi": "आंकड़े (Data)", "en": "Data"}
         },
         {
           "q": {
-            "hi": "एक संख्या को 10 से गुणा करने और उसमें से 20 घटाने पर 50 प्राप्त होता है। सोची गई संख्या क्या है?",
-            "en": "Multiplying a number by 10 and subtracting 20 gives 50. What is the thought number?"
+            "hi": "आंकड़ों को व्यवस्थित करने के लिए इस्तेमाल किए जाने वाले ऊर्ध्वाधर निशानों को क्या कहते हैं?",
+            "en": "What are the vertical marks used to organize data called?"
           },
           "options": [
-            {"hi": "5", "en": "5"},
-            {"hi": "7", "en": "7"},
-            {"hi": "10", "en": "10"},
-            {"hi": "8", "en": "8"}
+            {"hi": "मिलान चिह्न (Tally marks)", "en": "Tally marks"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "भुजा", "en": "Arm"},
+            {"hi": "कोण", "en": "Angle"}
           ],
-          "answer": {"hi": "7", "en": "7"}
+          "answer": {"hi": "मिलान चिह्न (Tally marks)", "en": "Tally marks"}
         },
         {
           "q": {
-            "hi": "समीकरण $x + 3 = 8$ में $x$ का मान क्या है?",
-            "en": "What is the value of $x$ in the equation $x + 3 = 8$?"
+            "hi": "मिलान चिह्न में संख्या 5 को कैसे दर्शाया जाता है?",
+            "en": "How is the number 5 represented in tally marks?"
           },
           "options": [
-            {"hi": "5", "en": "5"},
-            {"hi": "11", "en": "11"},
-            {"hi": "3", "en": "3"},
-            {"hi": "8", "en": "8"}
+            {"hi": "पाँच खड़ी रेखाएँ", "en": "Five vertical lines"},
+            {"hi": "चार खड़ी रेखाएँ और एक तिरछी रेखा", "en": "Four vertical lines and one diagonal line"},
+            {"hi": "एक गोला", "en": "A circle"},
+            {"hi": "V के आकार में", "en": "In the shape of V"}
           ],
-          "answer": {"hi": "5", "en": "5"}
+          "answer": {"hi": "चार खड़ी रेखाएँ और एक तिरछी रेखा", "en": "Four vertical lines and one diagonal line"}
         },
         {
           "q": {
-            "hi": "चर का वह मान जो समीकरण को संतुष्ट करता है, क्या कहलाता है?",
-            "en": "The value of the variable that satisfies the equation is called what?"
+            "hi": "एक विशेष जानकारी के आंकड़े में कितनी बार एक संख्या आती है, उसे क्या कहते हैं?",
+            "en": "What is the number of times a particular entry occurs in a data set called?"
           },
           "options": [
-            {"hi": "गुणांक", "en": "Coefficient"},
-            {"hi": "समीकरण का हल", "en": "Solution of the equation"},
-            {"hi": "व्यंजक", "en": "Expression"},
-            {"hi": "शून्य", "en": "Zero"}
+            {"hi": "योग", "en": "Sum"},
+            {"hi": "बारंबारता (Frequency)", "en": "Frequency"},
+            {"hi": "औसत", "en": "Average"},
+            {"hi": "गुणनफल", "en": "Product"}
           ],
-          "answer": {"hi": "समीकरण का हल", "en": "Solution of the equation"}
+          "answer": {"hi": "बारंबारता (Frequency)", "en": "Frequency"}
         },
         {
           "q": {
-            "hi": "समीकरण के बाएँ और दाएँ पक्षों को परस्पर बदलने पर क्या समीकरण बदलता है?",
-            "en": "Does the equation change when the left and right sides of an equation are interchanged?"
+            "hi": "आंकड़ों को चित्रों के माध्यम से प्रदर्शित करना क्या कहलाता है?",
+            "en": "What is representing data through pictures called?"
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल धनात्मक मानों के लिए", "en": "Only for positive values"},
-            {"hi": "कह नहीं सकते", "en": "Can't say"}
+            {"hi": "दंड आलेख", "en": "Bar graph"},
+            {"hi": "चित्रलेख (Pictograph)", "en": "Pictograph"},
+            {"hi": "वृत्त आलेख", "en": "Pie chart"},
+            {"hi": "मिलान तालिका", "en": "Tally table"}
           ],
-          "answer": {"hi": "नहीं", "en": "No"}
+          "answer": {"hi": "चित्रलेख (Pictograph)", "en": "Pictograph"}
         },
         {
           "q": {
-            "hi": "समीकरण $4x = 20$ में $x$ का मान क्या होगा?",
-            "en": "What will be the value of $x$ in the equation $4x = 20$?"
+            "hi": "चित्रलेख में एक प्रतीक (Symbol) का उपयोग किसके लिए किया जाता है?",
+            "en": "In a pictograph, what is a symbol used for?"
           },
           "options": [
-            {"hi": "80", "en": "80"},
-            {"hi": "16", "en": "16"},
-            {"hi": "5", "en": "5"},
-            {"hi": "4", "en": "4"}
+            {"hi": "केवल 1 वस्तु के लिए", "en": "Only for 1 object"},
+            {"hi": "वस्तुओं की एक निश्चित संख्या के लिए", "en": "For a fixed number of objects"},
+            {"hi": "सुंदरता के लिए", "en": "For decoration"},
+            {"hi": "शून्य के लिए", "en": "For zero"}
           ],
-          "answer": {"hi": "5", "en": "5"}
+          "answer": {"hi": "वस्तुओं की एक निश्चित संख्या के लिए", "en": "For a fixed number of objects"}
         },
         {
           "q": {
-            "hi": "एक संतुलित समीकरण के दोनों पक्षों में एक ही संख्या जोड़ने पर क्या होता है?",
-            "en": "What happens when the same number is added to both sides of a balanced equation?"
+            "hi": "समान चौड़ाई के ऊर्ध्वाधर या क्षैतिज स्तंभों द्वारा आंकड़ों का प्रदर्शन क्या कहलाता है?",
+            "en": "What is the display of data using vertical or horizontal bars of uniform width called?"
           },
           "options": [
-            {"hi": "संतुलन बदल जाता है", "en": "Balance changes"},
-            {"hi": "संतुलन बना रहता है", "en": "Balance remains"},
-            {"hi": "LHS बड़ा हो जाता है", "en": "LHS becomes larger"},
-            {"hi": "RHS बड़ा हो जाता है", "en": "RHS becomes larger"}
+            {"hi": "दंड आलेख (Bar Graph)", "en": "Bar Graph"},
+            {"hi": "चित्रलेख", "en": "Pictograph"},
+            {"hi": "संख्या सूची", "en": "Number list"},
+            {"hi": "मिलान चिह्न", "en": "Tally marks"}
           ],
-          "answer": {"hi": "संतुलन बना रहता है", "en": "Balance remains"}
+          "answer": {"hi": "दंड आलेख (Bar Graph)", "en": "Bar Graph"}
         },
         {
           "q": {
-            "hi": "किसी संख्या को एक पक्ष से दूसरे पक्ष में ले जाने की प्रक्रिया क्या कहलाती है?",
-            "en": "The process of moving a number from one side to the other is called what?"
+            "hi": "दंड आलेख में स्तंभों (Bars) के बीच की दूरी कैसी होनी चाहिए?",
+            "en": "In a bar graph, the distance between the bars should be?"
           },
           "options": [
-            {"hi": "गुणा", "en": "Multiplication"},
-            {"hi": "स्थानापन्न (Transposing)", "en": "Transposing"},
-            {"hi": "जोड़ना", "en": "Addition"},
-            {"hi": "विभाजन", "en": "Division"}
+            {"hi": "असमान", "en": "Unequal"},
+            {"hi": "समान (Uniform)", "en": "Uniform"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "बढ़ती हुई", "en": "Increasing"}
           ],
-          "answer": {"hi": "स्थानापन्न (Transposing)", "en": "Transposing"}
+          "answer": {"hi": "समान (Uniform)", "en": "Uniform"}
         },
         {
           "q": {
-            "hi": "समीकरण $y - 7 = 10$ का हल क्या है?",
-            "en": "What is the solution to the equation $y - 7 = 10$?"
+            "hi": "दंड आलेख में प्रत्येक स्तंभ की ऊंचाई क्या दर्शाती है?",
+            "en": "In a bar graph, what does the height of each bar represent?"
           },
           "options": [
-            {"hi": "3", "en": "3"},
-            {"hi": "17", "en": "17"},
-            {"hi": "7", "en": "7"},
-            {"hi": "10", "en": "10"}
+            {"hi": "वस्तु का नाम", "en": "Name of the object"},
+            {"hi": "संख्यात्मक मान (Value/Frequency)", "en": "Numerical value/Frequency"},
+            {"hi": "स्तंभ की चौड़ाई", "en": "Width of the bar"},
+            {"hi": "शीर्षक", "en": "Title"}
           ],
-          "answer": {"hi": "17", "en": "17"}
+          "answer": {"hi": "संख्यात्मक मान (Value/Frequency)", "en": "Numerical value/Frequency"}
         },
         {
           "q": {
-            "hi": "जब आप एक संख्या को स्थानापन्न करते हैं, तो क्या बदल जाता है?",
-            "en": "When you transpose a number, what changes?"
+            "hi": "आंकड़ों को एकत्रित करने का प्राथमिक चरण क्या है?",
+            "en": "What is the primary step in data collection?"
           },
           "options": [
-            {"hi": "उसका मान", "en": "Its value"},
-            {"hi": "उसका चिह्न", "en": "Its sign"},
-            {"hi": "चर का मान", "en": "Variable value"},
-            {"hi": "कुछ नहीं", "en": "Nothing"}
+            {"hi": "ग्राफ बनाना", "en": "Drawing a graph"},
+            {"hi": "जानकारी एकत्र करना (Recording data)", "en": "Recording data"},
+            {"hi": "निष्कर्ष निकालना", "en": "Drawing conclusions"},
+            {"hi": "रंग भरना", "en": "Filling colors"}
           ],
-          "answer": {"hi": "उसका चिह्न", "en": "Its sign"}
+          "answer": {"hi": "जानकारी एकत्र करना (Recording data)", "en": "Recording data"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "समीकरण $3n + 7 = 25$ में $n$ का मान ज्ञात कीजिए।",
-            "en": "Find the value of $n$ in the equation $3n + 7 = 25$."
+            "hi": "मिलान चिह्न '||||' किस संख्या को दर्शाता है?",
+            "en": "Which number does the tally mark '||||' represent?"
           },
           "options": [
-            {"hi": "6", "en": "6"},
-            {"hi": "10", "en": "10"},
-            {"hi": "8", "en": "8"},
-            {"hi": "12", "en": "12"}
-          ],
-          "answer": {"hi": "6", "en": "6"}
-        },
-        {
-          "q": {
-            "hi": "यदि $2p - 1 = 23$ है, तो $p$ का मान क्या है?",
-            "en": "If $2p - 1 = 23$, what is the value of $p$?"
-          },
-          "options": [
-            {"hi": "11", "en": "11"},
-            {"hi": "12", "en": "12"},
-            {"hi": "24", "en": "24"},
-            {"hi": "10", "en": "10"}
-          ],
-          "answer": {"hi": "12", "en": "12"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण $\\frac{m}{5} = 3$ में $m$ का मान क्या होगा?",
-            "en": "What will be the value of $m$ in the equation $\\frac{m}{5} = 3$?"
-          },
-          "options": [
-            {"hi": "8", "en": "8"},
-            {"hi": "15", "en": "15"},
-            {"hi": "2", "en": "2"},
-            {"hi": "5", "en": "5"}
-          ],
-          "answer": {"hi": "15", "en": "15"}
-        },
-        {
-          "q": {
-            "hi": "किसी संख्या के तिगुने और 11 का योग 32 है। समीकरण क्या होगा?",
-            "en": "Sum of three times a number and 11 is 32. What will be the equation?"
-          },
-          "options": [
-            {"hi": "$3x + 11 = 32$", "en": "$3x + 11 = 32$"},
-            {"hi": "$3x - 11 = 32$", "en": "$3x - 11 = 32$"},
-            {"hi": "$11x + 3 = 32$", "en": "$11x + 3 = 32$"},
-            {"hi": "$x/3 + 11 = 32$", "en": "$x/3 + 11 = 32$"}
-          ],
-          "answer": {"hi": "$3x + 11 = 32$", "en": "$3x + 11 = 32$"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण $10y = 80$ में $y$ का मान क्या है?",
-            "en": "What is the value of $y$ in the equation $10y = 80$?"
-          },
-          "options": [
-            {"hi": "70", "en": "70"},
-            {"hi": "90", "en": "90"},
-            {"hi": "8", "en": "8"},
-            {"hi": "10", "en": "10"}
-          ],
-          "answer": {"hi": "8", "en": "8"}
-        },
-        {
-          "q": {
-            "hi": "लक्ष्मी के पिता की आयु 49 वर्ष है। वह लक्ष्मी की आयु के तिगुने से 4 वर्ष बड़े हैं। समीकरण बनाइए।",
-            "en": "Laxmi's father is 49 years old. He is 4 years older than three times Laxmi's age. Form the equation."
-          },
-          "options": [
-            {"hi": "$3y + 4 = 49$", "en": "$3y + 4 = 49$"},
-            {"hi": "$4y + 3 = 49$", "en": "$4y + 3 = 49$"},
-            {"hi": "$3y - 4 = 49$", "en": "$3y - 4 = 49$"},
-            {"hi": "$y/3 + 4 = 49$", "en": "$y/3 + 4 = 49$"}
-          ],
-          "answer": {"hi": "$3y + 4 = 49$", "en": "$3y + 4 = 49$"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण $2(x + 4) = 12$ का हल क्या है?",
-            "en": "What is the solution to the equation $2(x + 4) = 12$?"
-          },
-          "options": [
-            {"hi": "2", "en": "2"},
-            {"hi": "8", "en": "8"},
-            {"hi": "6", "en": "6"},
-            {"hi": "4", "en": "4"}
-          ],
-          "answer": {"hi": "2", "en": "2"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण $4 + 5(p - 1) = 34$ को हल करने पर $p$ का मान क्या आता है?",
-            "en": "On solving $4 + 5(p - 1) = 34$, what is the value of $p$?"
-          },
-          "options": [
-            {"hi": "6", "en": "6"},
-            {"hi": "7", "en": "7"},
-            {"hi": "5", "en": "5"},
-            {"hi": "8", "en": "8"}
-          ],
-          "answer": {"hi": "7", "en": "7"}
-        },
-        {
-          "q": {
-            "hi": "किसी संख्या के एक चौथाई में से 4 घटाने पर 4 प्राप्त होता है। वह संख्या क्या है?",
-            "en": "Subtracting 4 from one-fourth of a number gives 4. What is that number?"
-          },
-          "options": [
-            {"hi": "16", "en": "16"},
-            {"hi": "32", "en": "32"},
-            {"hi": "8", "en": "8"},
-            {"hi": "20", "en": "20"}
-          ],
-          "answer": {"hi": "32", "en": "32"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण $0 = 16 + 4(m - 6)$ में $m$ का मान क्या होगा?",
-            "en": "What will be the value of $m$ in the equation $0 = 16 + 4(m - 6)$?"
-          },
-          "options": [
-            {"hi": "6", "en": "6"},
+            {"hi": "3", "en": "3"},
             {"hi": "4", "en": "4"},
-            {"hi": "2", "en": "2"},
-            {"hi": "10", "en": "10"}
+            {"hi": "5", "en": "5"},
+            {"hi": "6", "en": "6"}
           ],
-          "answer": {"hi": "2", "en": "2"}
-        }
-      ],
-      "section3": [
+          "answer": {"hi": "4", "en": "4"}
+        },
         {
           "q": {
-            "hi": "यदि किसी संख्या के आधे में से 7 घटाया जाए तो परिणाम 8 आता है। संख्या क्या है?",
-            "en": "If 7 is subtracted from half of a number, the result is 8. What is the number?"
+            "hi": "यदि चित्रलेख में एक स्माइली (😊) = 10 बच्चे हैं, तो 3 स्माइली कितने बच्चे दर्शाएंगे?",
+            "en": "If in a pictograph, one smiley (😊) = 10 children, how many children will 3 smileys represent?"
           },
           "options": [
-            {"hi": "15", "en": "15"},
-            {"hi": "30", "en": "30"},
+            {"hi": "10", "en": "10"},
             {"hi": "20", "en": "20"},
-            {"hi": "25", "en": "25"}
+            {"hi": "30", "en": "30"},
+            {"hi": "40", "en": "40"}
           ],
           "answer": {"hi": "30", "en": "30"}
         },
         {
           "q": {
-            "hi": "समीकरण $4l = 42$ में चर को पृथक करने के लिए आप क्या करेंगे?",
-            "en": "What will you do to separate the variable in the equation $4l = 42$?"
+            "hi": "आंकड़ों का संगठन (Organization of data) क्यों आवश्यक है?",
+            "en": "Why is the organization of data necessary?"
           },
           "options": [
-            {"hi": "4 से गुणा", "en": "Multiply by 4"},
-            {"hi": "4 से भाग", "en": "Divide by 4"},
-            {"hi": "4 घटाना", "en": "Subtract 4"},
-            {"hi": "4 जोड़ना", "en": "Add 4"}
+            {"hi": "आंकड़ों को सुंदर बनाने के लिए", "en": "To make data look beautiful"},
+            {"hi": "आसानी से समझने और निष्कर्ष निकालने के लिए", "en": "To understand and draw conclusions easily"},
+            {"hi": "कागज बचाने के लिए", "en": "To save paper"},
+            {"hi": "संख्याओं को छिपाने के लिए", "en": "To hide numbers"}
           ],
-          "answer": {"hi": "4 से भाग", "en": "Divide by 4"}
+          "answer": {"hi": "आसानी से समझने और निष्कर्ष निकालने के लिए", "en": "To understand and draw conclusions easily"}
         },
         {
           "q": {
-            "hi": "समीकरण $z/3 = 5/4$ में $z$ का मान क्या है?",
-            "en": "What is the value of $z$ in the equation $z/3 = 5/4$?"
+            "hi": "चित्रलेख में यदि आधा चित्र बना हो, तो वह क्या दर्शाता है?",
+            "en": "In a pictograph, if a half-picture is drawn, what does it represent?"
           },
           "options": [
-            {"hi": "15/4", "en": "15/4"},
-            {"hi": "20/3", "en": "20/3"},
-            {"hi": "4/15", "en": "4/15"},
-            {"hi": "8/5", "en": "8/5"}
+            {"hi": "पूरी इकाई", "en": "Full unit"},
+            {"hi": "इकाई का आधा हिस्सा", "en": "Half of the unit"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "दोगुनी इकाई", "en": "Double the unit"}
           ],
-          "answer": {"hi": "15/4", "en": "15/4"}
+          "answer": {"hi": "इकाई का आधा हिस्सा", "en": "Half of the unit"}
         },
         {
           "q": {
-            "hi": "इरफान कहता है कि उसके पास परमीत के पास जितने कँचे हैं उनके 5 गुने से 7 अधिक कँचे हैं। यदि इरफान के पास 37 कँचे हैं, तो परमीत के कँचों की संख्या हेतु समीकरण क्या होगा?",
-            "en": "Irfan says he has 7 more marbles than 5 times the marbles Parmit has. If Irfan has 37 marbles, what is the equation for Parmit's marbles?"
+            "hi": "दंड आलेख खींचते समय चुने गए 'पैमाने' (Scale) का क्या महत्व है?",
+            "en": "What is the importance of the 'Scale' chosen while drawing a bar graph?"
           },
           "options": [
-            {"hi": "$5m + 7 = 37$", "en": "$5m + 7 = 37$"},
-            {"hi": "$7m + 5 = 37$", "en": "$7m + 5 = 37$"},
-            {"hi": "$5m - 7 = 37$", "en": "$5m - 7 = 37$"},
-            {"hi": "$m/5 + 7 = 37$", "en": "$m/5 + 7 = 37$"}
+            {"hi": "यह स्तंभों का रंग तय करता है", "en": "It decides the color of bars"},
+            {"hi": "यह बड़ी संख्याओं को छोटी ऊंचाई में दिखाने में मदद करता है", "en": "It helps show large numbers in smaller heights"},
+            {"hi": "यह केवल 1 के लिए होता है", "en": "It is only for 1"},
+            {"hi": "इसका कोई महत्व नहीं है", "en": "It has no importance"}
           ],
-          "answer": {"hi": "$5m + 7 = 37$", "en": "$5m + 7 = 37$"}
+          "answer": {"hi": "यह बड़ी संख्याओं को छोटी ऊंचाई में दिखाने में मदद करता है", "en": "It helps show large numbers in smaller heights"}
         },
         {
           "q": {
-            "hi": "समीकरण $b/2 = 6$ का हल क्या है?",
-            "en": "What is the solution to the equation $b/2 = 6$?"
+            "hi": "यदि स्केल 1 इकाई = 5 किलो है, तो 25 किलो के लिए दंड की ऊंचाई कितनी होगी?",
+            "en": "If scale is 1 unit = 5 kg, what will be the height of the bar for 25 kg?"
           },
           "options": [
-            {"hi": "3", "en": "3"},
-            {"hi": "12", "en": "12"},
-            {"hi": "8", "en": "8"},
-            {"hi": "4", "en": "4"}
+            {"hi": "5 इकाई", "en": "5 units"},
+            {"hi": "10 इकाई", "en": "10 units"},
+            {"hi": "25 इकाई", "en": "25 units"},
+            {"hi": "1 इकाई", "en": "1 unit"}
           ],
-          "answer": {"hi": "12", "en": "12"}
+          "answer": {"hi": "5 इकाई", "en": "5 units"}
         },
         {
           "q": {
-            "hi": "एक समद्विबाहु त्रिभुज में आधार कोण बराबर होते हैं। शीर्ष कोण $40^\\circ$ है। आधार कोण क्या होंगे?",
-            "en": "In an isosceles triangle, base angles are equal. Vertex angle is $40^\\circ$. What are the base angles?"
+            "hi": "दंड आलेख में क्षैतिज अक्ष (Horizontal axis) को सामान्यतः क्या कहा जाता है?",
+            "en": "What is the horizontal axis in a bar graph usually called?"
           },
           "options": [
-            {"hi": "$70^\\circ$", "en": "$70^\\circ$"},
-            {"hi": "$80^\\circ$", "en": "$80^\\circ$"},
-            {"hi": "$140^\\circ$", "en": "$140^\\circ$"},
-            {"hi": "$60^\\circ$", "en": "$60^\\circ$"}
+            {"hi": "X-अक्ष", "en": "X-axis"},
+            {"hi": "Y-अक्ष", "en": "Y-axis"},
+            {"hi": "शून्य अक्ष", "en": "Zero axis"},
+            {"hi": "ऊर्ध्वाधर अक्ष", "en": "Vertical axis"}
           ],
-          "answer": {"hi": "$70^\\circ$", "en": "$70^\\circ$"}
+          "answer": {"hi": "X-अक्ष", "en": "X-axis"}
         },
         {
           "q": {
-            "hi": "समीकरण $20p/3 = 40$ में $p$ का मान क्या है?",
-            "en": "What is the value of $p$ in the equation $20p/3 = 40$?"
+            "hi": "दंड आलेख में ऊर्ध्वाधर अक्ष (Vertical axis) को क्या कहा जाता है?",
+            "en": "What is the vertical axis in a bar graph called?"
           },
           "options": [
-            {"hi": "2", "en": "2"},
-            {"hi": "6", "en": "6"},
-            {"hi": "4", "en": "4"},
-            {"hi": "10", "en": "10"}
+            {"hi": "X-अक्ष", "en": "X-axis"},
+            {"hi": "Y-अक्ष", "en": "Y-axis"},
+            {"hi": "क्षैतिज अक्ष", "en": "Horizontal axis"},
+            {"hi": "मुख्य अक्ष", "en": "Main axis"}
           ],
-          "answer": {"hi": "6", "en": "6"}
+          "answer": {"hi": "Y-अक्ष", "en": "Y-axis"}
         },
         {
           "q": {
-            "hi": "सचिन द्वारा बनाए गए रन राहुल द्वारा बनाए गए रनों के दुगुने हैं। दोनों के कुल रन एक दोहरे शतक से 2 कम हैं। राहुल के रन कितने हैं?",
-            "en": "Runs scored by Sachin are twice Rahul's runs. Their total is 2 less than a double century. What are Rahul's runs?"
+            "hi": "मिलान चिह्न में संख्या 7 को कैसे लिखा जाएगा?",
+            "en": "How will the number 7 be written in tally marks?"
           },
           "options": [
-            {"hi": "66", "en": "66"},
-            {"hi": "132", "en": "132"},
-            {"hi": "198", "en": "198"},
-            {"hi": "100", "en": "100"}
+            {"hi": "|||||||", "en": "|||||||"},
+            {"hi": "<s>||||</s> ||", "en": "<s>||||</s> ||"},
+            {"hi": "<s>|||</s> |||", "en": "<s>|||</s> |||"},
+            {"hi": "<s>||||</s> <s>||</s>", "en": "<s>||||</s> <s>||</s>"}
           ],
-          "answer": {"hi": "66", "en": "66"}
+          "answer": {"hi": "<s>||||</s> ||", "en": "<s>||||</s> ||"}
         },
         {
           "q": {
-            "hi": "समीकरण $p + 4 = 15$ का हल क्या है?",
-            "en": "What is the solution to the equation $p + 4 = 15$?"
+            "hi": "आंकड़ों का प्रस्तुतीकरण (Presentation of data) अधिक प्रभावशाली कब होता है?",
+            "en": "When is the presentation of data more effective?"
           },
           "options": [
-            {"hi": "11", "en": "11"},
-            {"hi": "19", "en": "19"},
-            {"hi": "15", "en": "15"},
-            {"hi": "4", "en": "4"}
+            {"hi": "जब वह केवल शब्दों में हो", "en": "When it is only in words"},
+            {"hi": "जब वह दृश्य रूप (Visual form) में हो", "en": "When it is in visual form"},
+            {"hi": "जब वह बिखरा हुआ हो", "en": "When it is scattered"},
+            {"hi": "जब कोई चित्र न हो", "en": "When there are no pictures"}
           ],
-          "answer": {"hi": "11", "en": "11"}
+          "answer": {"hi": "जब वह दृश्य रूप (Visual form) में हो", "en": "When it is in visual form"}
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "आंकड़ों की वह श्रेणी जो सबसे अधिक बार आती है, क्या कहलाती है?",
+            "en": "The category of data that occurs most frequently is called?"
+          },
+          "options": [
+            {"hi": "न्यूनतम", "en": "Minimum"},
+            {"hi": "अधिकतम/बहुलक", "en": "Maximum/Mode"},
+            {"hi": "माध्य", "en": "Mean"},
+            {"hi": "परास", "en": "Range"}
+          ],
+          "answer": {"hi": "अधिकतम/बहुलक", "en": "Maximum/Mode"}
         },
         {
           "q": {
-            "hi": "किसी संख्या के 6 गुने में से 5 घटाने पर 7 प्राप्त होता है। वह संख्या क्या है?",
-            "en": "Subtracting 5 from 6 times a number gives 7. What is that number?"
+            "hi": "एक चित्रलेख में 'चाबी' (Key) का क्या अर्थ है?",
+            "en": "What does a 'Key' mean in a pictograph?"
           },
           "options": [
-            {"hi": "2", "en": "2"},
-            {"hi": "12", "en": "12"},
-            {"hi": "1", "en": "1"},
-            {"hi": "3", "en": "3"}
+            {"hi": "ताला खोलने वाली चाबी", "en": "A key to open a lock"},
+            {"hi": "यह बताना कि एक चित्र कितनी संख्या के बराबर है", "en": "Explaining how much one picture represents"},
+            {"hi": "स्तंभों का रंग", "en": "Color of bars"},
+            {"hi": "ग्राफ का शीर्षक", "en": "Title of the graph"}
           ],
-          "answer": {"hi": "2", "en": "2"}
+          "answer": {"hi": "यह बताना कि एक चित्र कितनी संख्या के बराबर है", "en": "Explaining how much one picture represents"}
+        },
+        {
+          "q": {
+            "hi": "मिलान चिह्न तालिका में कुल संख्या निकालने के लिए हम क्या करते हैं?",
+            "en": "In a tally mark table, what do we do to find the total count?"
+          },
+          "options": [
+            {"hi": "चिह्नों को घटाते हैं", "en": "Subtract the marks"},
+            {"hi": "चिह्नों को गिनते हैं", "en": "Count the marks"},
+            {"hi": "चिह्नों को गुणा करते हैं", "en": "Multiply the marks"},
+            {"hi": "केवल पहली लाइन देखते हैं", "en": "Look only at the first line"}
+          ],
+          "answer": {"hi": "चिह्नों को गिनते हैं", "en": "Count the marks"}
+        },
+        {
+          "q": {
+            "hi": "यदि दंड आलेख में एक स्तंभ सबसे लंबा है, तो वह क्या दर्शाता है?",
+            "en": "If a bar is the longest in a bar graph, what does it represent?"
+          },
+          "options": [
+            {"hi": "न्यूनतम मान", "en": "Minimum value"},
+            {"hi": "अधिकतम मान", "en": "Maximum value"},
+            {"hi": "शून्य मान", "en": "Zero value"},
+            {"hi": "औसत मान", "en": "Average value"}
+          ],
+          "answer": {"hi": "अधिकतम मान", "en": "Maximum value"}
+        },
+        {
+          "q": {
+            "hi": "यदि दंड आलेख में एक स्तंभ सबसे छोटा है, तो वह क्या दर्शाता है?",
+            "en": "If a bar is the shortest in a bar graph, what does it represent?"
+          },
+          "options": [
+            {"hi": "अधिकतम मान", "en": "Maximum value"},
+            {"hi": "न्यूनतम मान", "en": "Minimum value"},
+            {"hi": "बराबर मान", "en": "Equal value"},
+            {"hi": "बढ़ता हुआ मान", "en": "Increasing value"}
+          ],
+          "answer": {"hi": "न्यूनतम मान", "en": "Minimum value"}
+        },
+        {
+          "q": {
+            "hi": "जनगणना (Census) के दौरान आंकड़े एकत्र करना किसका उदाहरण है?",
+            "en": "Collecting data during a census is an example of what?"
+          },
+          "options": [
+            {"hi": "चित्रकारी", "en": "Painting"},
+            {"hi": "आंकड़ों का प्रबंधन", "en": "Data management"},
+            {"hi": "खेल", "en": "Gaming"},
+            {"hi": "केवल गिनती", "en": "Only counting"}
+          ],
+          "answer": {"hi": "आंकड़ों का प्रबंधन", "en": "Data management"}
+        },
+        {
+          "q": {
+            "hi": "चित्रलेख का मुख्य नुकसान क्या हो सकता है?",
+            "en": "What can be a major disadvantage of a pictograph?"
+          },
+          "options": [
+            {"hi": "यह देखने में अच्छा लगता है", "en": "It looks good"},
+            {"hi": "अपूर्ण चित्रों को समझना मुश्किल हो सकता है", "en": "It can be difficult to interpret partial pictures"},
+            {"hi": "यह बहुत सरल है", "en": "It is very simple"},
+            {"hi": "यह कम जगह लेता है", "en": "It takes less space"}
+          ],
+          "answer": {"hi": "अपूर्ण चित्रों को समझना मुश्किल हो सकता है", "en": "It can be difficult to interpret partial pictures"}
+        },
+        {
+          "q": {
+            "hi": "दंड आलेख में स्तंभ की चौड़ाई कैसी होनी चाहिए?",
+            "en": "In a bar graph, what should be the width of the bars?"
+          },
+          "options": [
+            {"hi": "अलग-अलग", "en": "Different"},
+            {"hi": "एक समान (Uniform)", "en": "Uniform"},
+            {"hi": "लंबाई के बराबर", "en": "Equal to height"},
+            {"hi": "कुछ भी", "en": "Anything"}
+          ],
+          "answer": {"hi": "एक समान (Uniform)", "en": "Uniform"}
+        },
+        {
+          "q": {
+            "hi": "दंड आलेख का दूसरा नाम क्या हो सकता है?",
+            "en": "What could be another name for a bar graph?"
+          },
+          "options": [
+            {"hi": "स्तंभ आलेख (Column graph)", "en": "Column graph"},
+            {"hi": "संख्या रेखा", "en": "Number line"},
+            {"hi": "वृत्त आलेख", "en": "Pie chart"},
+            {"hi": "बिंदु आलेख", "en": "Point graph"}
+          ],
+          "answer": {"hi": "स्तंभ आलेख (Column graph)", "en": "Column graph"}
+        },
+        {
+          "q": {
+            "hi": "आंकड़ों को देखकर जानकारी प्राप्त करना क्या कहलाता है?",
+            "en": "Getting information by looking at data is called?"
+          },
+          "options": [
+            {"hi": "आंकड़ों की व्याख्या (Interpretation of data)", "en": "Interpretation of data"},
+            {"hi": "आंकड़ों को मिटाना", "en": "Deleting data"},
+            {"hi": "आंकड़ों को उलझाना", "en": "Confusing data"},
+            {"hi": "केवल देखना", "en": "Just watching"}
+          ],
+          "answer": {"hi": "आंकड़ों की व्याख्या (Interpretation of data)", "en": "Interpretation of data"}
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "समीकरण $3s = -9$ का हल क्या होगा?",
-            "en": "What will be the solution to the equation $3s = -9$?"
+            "hi": "मिलान चिह्न में 10 को कैसे दर्शाया जाएगा?",
+            "en": "How will 10 be represented in tally marks?"
           },
           "options": [
-            {"hi": "3", "en": "3"},
-            {"hi": "-3", "en": "-3"},
-            {"hi": "0", "en": "0"},
-            {"hi": "-27", "en": "-27"}
+            {"hi": "दस खड़ी रेखाएँ", "en": "Ten vertical lines"},
+            {"hi": "5-5 के दो समूह (<s>||||</s> <s>||||</s>)", "en": "Two groups of 5 (<s>||||</s> <s>||||</s>)"},
+            {"hi": "एक बड़ा 'X'", "en": "A big 'X'"},
+            {"hi": "एक गोला", "en": "A circle"}
           ],
-          "answer": {"hi": "-3", "en": "-3"}
+          "answer": {"hi": "5-5 के दो समूह (<s>||||</s> <s>||||</s>)", "en": "Two groups of 5 (<s>||||</s> <s>||||</s>)"}
         },
         {
           "q": {
-            "hi": "समीकरण $3s + 12 = 0$ में $s$ का मान ज्ञात करें।",
-            "en": "Find the value of $s$ in the equation $3s + 12 = 0$."
+            "hi": "यदि 1 चित्र = 100 गाड़ियाँ है, तो 250 गाड़ियों के लिए कितने चित्र चाहिए?",
+            "en": "If 1 picture = 100 cars, how many pictures are needed for 250 cars?"
           },
           "options": [
-            {"hi": "4", "en": "4"},
-            {"hi": "-4", "en": "-4"},
-            {"hi": "12", "en": "12"},
-            {"hi": "-12", "en": "-12"}
+            {"hi": "2 चित्र", "en": "2 pictures"},
+            {"hi": "3 चित्र", "en": "3 pictures"},
+            {"hi": "2 पूरे और 1 आधा चित्र", "en": "2 full and 1 half pictures"},
+            {"hi": "5 चित्र", "en": "5 pictures"}
           ],
-          "answer": {"hi": "-4", "en": "-4"}
+          "answer": {"hi": "2 पूरे और 1 आधा चित्र", "en": "2 full and 1 half pictures"}
         },
         {
           "q": {
-            "hi": "किसी संख्या के 8 गुने में 4 जोड़ें तो आपको 60 प्राप्त होता है। संख्या क्या है?",
-            "en": "If you add 4 to 8 times a number, you get 60. What is the number?"
+            "hi": "दंड आलेख का मुख्य लाभ क्या है?",
+            "en": "What is the main advantage of a bar graph?"
           },
           "options": [
-            {"hi": "8", "en": "8"},
-            {"hi": "7", "en": "7"},
-            {"hi": "5", "en": "5"},
-            {"hi": "10", "en": "10"}
+            {"hi": "तुलना करना आसान होता है", "en": "Comparison becomes easy"},
+            {"hi": "इसे बनाना कठिन है", "en": "It is difficult to make"},
+            {"hi": "यह बहुत अधिक समय लेता है", "en": "It takes too much time"},
+            {"hi": "इसमें कोई पैमाना नहीं होता", "en": "It has no scale"}
           ],
-          "answer": {"hi": "7", "en": "7"}
+          "answer": {"hi": "तुलना करना आसान होता है", "en": "Comparison becomes easy"}
         },
         {
           "q": {
-            "hi": "समीकरण $2q + 6 = 12$ में $q$ का मान क्या है?",
-            "en": "What is the value of $q$ in the equation $2q + 6 = 12$?"
+            "hi": "आंकड़ों को अवरोही या आरोही क्रम में व्यवस्थित करना क्या कहलाता है?",
+            "en": "Arranging data in ascending or descending order is called?"
           },
           "options": [
-            {"hi": "3", "en": "3"},
-            {"hi": "9", "en": "9"},
-            {"hi": "6", "en": "6"},
-            {"hi": "4", "en": "4"}
+            {"hi": "वर्गीकरण", "en": "Classification"},
+            {"hi": "क्रमबद्ध करना (Sorting)", "en": "Sorting"},
+            {"hi": "मिटाना", "en": "Deleting"},
+            {"hi": "गुणा करना", "en": "Multiplying"}
           ],
-          "answer": {"hi": "3", "en": "3"}
+          "answer": {"hi": "क्रमबद्ध करना (Sorting)", "en": "Sorting"}
         },
         {
           "q": {
-            "hi": "समीकरण $3p - 2 = 46$ का हल क्या है?",
-            "en": "What is the solution to the equation $3p - 2 = 46$?"
+            "hi": "निम्न में से कौन आंकड़ों को प्रदर्शित करने का तरीका नहीं है?",
+            "en": "Which of the following is NOT a way to represent data?"
           },
           "options": [
-            {"hi": "16", "en": "16"},
-            {"hi": "15", "en": "15"},
-            {"hi": "48", "en": "48"},
-            {"hi": "14", "en": "14"}
+            {"hi": "चित्रलेख", "en": "Pictograph"},
+            {"hi": "दंड आलेख", "en": "Bar Graph"},
+            {"hi": "कविता लिखना", "en": "Writing a poem"},
+            {"hi": "मिलान चिह्न तालिका", "en": "Tally mark table"}
           ],
-          "answer": {"hi": "16", "en": "16"}
+          "answer": {"hi": "कविता लिखना", "en": "Writing a poem"}
         },
         {
           "q": {
-            "hi": "मुन्ना ने 50 में से अपनी अभ्यास पुस्तिकाओं की संख्या के तिगुने को घटाया, तो उसे परिणाम 8 प्राप्त हुआ। अभ्यास पुस्तिकाओं की संख्या क्या है?",
-            "en": "Munna subtracted thrice the number of notebooks from 50 and got 8. What is the number of notebooks?"
+            "hi": "एक स्कूल में विभिन्न खेलों को पसंद करने वाले बच्चों के लिए सबसे अच्छा ग्राफ कौन सा होगा?",
+            "en": "Which graph would be best for showing children liking different sports in a school?"
           },
           "options": [
-            {"hi": "14", "en": "14"},
-            {"hi": "15", "en": "15"},
-            {"hi": "12", "en": "12"},
-            {"hi": "10", "en": "10"}
+            {"hi": "संख्या रेखा", "en": "Number line"},
+            {"hi": "दंड आलेख", "en": "Bar graph"},
+            {"hi": "कोण आलेख", "en": "Angle graph"},
+            {"hi": "कोई ग्राफ नहीं", "en": "No graph"}
           ],
-          "answer": {"hi": "14", "en": "14"}
+          "answer": {"hi": "दंड आलेख", "en": "Bar graph"}
         },
         {
           "q": {
-            "hi": "समीकरण $3p/10 = 6$ में $p$ का मान क्या है?",
-            "en": "What is the value of $p$ in the equation $3p/10 = 6$?"
+            "hi": "दंड आलेख में 'अक्ष' (Axis) का प्रतिच्छेद बिंदु क्या कहलाता है?",
+            "en": "What is the intersection point of 'Axes' in a bar graph called?"
           },
           "options": [
-            {"hi": "20", "en": "20"},
-            {"hi": "60", "en": "60"},
-            {"hi": "10", "en": "10"},
-            {"hi": "30", "en": "30"}
+            {"hi": "शीर्ष", "en": "Vertex"},
+            {"hi": "मूल बिंदु (Origin)", "en": "Origin"},
+            {"hi": "केंद्र", "en": "Center"},
+            {"hi": "अंत बिंदु", "en": "End point"}
           ],
-          "answer": {"hi": "20", "en": "20"}
+          "answer": {"hi": "मूल बिंदु (Origin)", "en": "Origin"}
         },
         {
           "q": {
-            "hi": "इबेहल एक संख्या सोचती है। यदि वह इसमें 19 जोड़कर योग को 5 से भाग दे, तो उसे 8 प्राप्त होता है। वह संख्या क्या है?",
-            "en": "Ibehal thinks of a number. Adding 19 and dividing the sum by 5 gives 8. What is the number?"
+            "hi": "यदि आंकड़े बहुत बड़े हों, तो हम क्या करते हैं?",
+            "en": "What do we do if the data values are very large?"
           },
           "options": [
-            {"hi": "21", "en": "21"},
-            {"hi": "40", "en": "40"},
-            {"hi": "19", "en": "19"},
-            {"hi": "25", "en": "25"}
+            {"hi": "ग्राफ नहीं बनाते", "en": "Don't make a graph"},
+            {"hi": "उपयुक्त पैमाना (Scale) चुनते हैं", "en": "Choose an appropriate scale"},
+            {"hi": "संख्याओं को बदल देते हैं", "en": "Change the numbers"},
+            {"hi": "केवल 1-1 करके गिनते हैं", "en": "Count only one by one"}
           ],
-          "answer": {"hi": "21", "en": "21"}
+          "answer": {"hi": "उपयुक्त पैमाना (Scale) चुनते हैं", "en": "Choose an appropriate scale"}
         },
         {
           "q": {
-            "hi": "समीकरण $x - 5 = 9$ को हल करने के लिए आप दोनों पक्षों में क्या करेंगे?",
-            "en": "What will you do to both sides to solve $x - 5 = 9$?"
+            "hi": "एक दुकानदार द्वारा बेचे गए फलों की मात्रा दिखाने के लिए किसका उपयोग किया जा सकता है?",
+            "en": "What can be used to show the quantity of fruits sold by a shopkeeper?"
           },
           "options": [
-            {"hi": "5 जोड़ना", "en": "Add 5"},
-            {"hi": "5 घटाना", "en": "Subtract 5"},
-            {"hi": "9 जोड़ना", "en": "Add 9"},
-            {"hi": "5 से गुणा", "en": "Multiply by 5"}
+            {"hi": "चित्रलेख", "en": "Pictograph"},
+            {"hi": "दंड आलेख", "en": "Bar graph"},
+            {"hi": "दोनों", "en": "Both"},
+            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
           ],
-          "answer": {"hi": "5 जोड़ना", "en": "Add 5"}
+          "answer": {"hi": "दोनों", "en": "Both"}
         },
         {
           "q": {
-            "hi": "अनवर एक संख्या सोचता है। यदि वह इस संख्या के $5/2$ में से 7 निकाल दे, तो परिणाम 23 है। संख्या क्या है?",
-            "en": "Anwar thinks of a number. Taking away 7 from $5/2$ of the number gives 23. What is the number?"
+            "hi": "आंकड़ों के प्रबंधन का अंतिम चरण क्या है?",
+            "en": "What is the final step in data management?"
           },
           "options": [
-            {"hi": "12", "en": "12"},
-            {"hi": "10", "en": "10"},
-            {"hi": "15", "en": "15"},
-            {"hi": "8", "en": "8"}
+            {"hi": "आंकड़े एकत्र करना", "en": "Collecting data"},
+            {"hi": "निष्कर्ष निकालना (Conclusion)", "en": "Drawing conclusions"},
+            {"hi": "मिलान चिह्न लगाना", "en": "Applying tally marks"},
+            {"hi": "पेंसिल छीलना", "en": "Sharpening pencil"}
           ],
-          "answer": {"hi": "12", "en": "12"}
+          "answer": {"hi": "निष्कर्ष निकालना (Conclusion)", "en": "Drawing conclusions"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "समीकरण $2y + 5/2 = 37/2$ में $y$ का मान क्या है?",
-            "en": "What is the value of $y$ in the equation $2y + 5/2 = 37/2$?"
+            "hi": "दंड आलेख में दंड (Bars) कैसे हो सकते हैं?",
+            "en": "How can bars be in a bar graph?"
           },
           "options": [
-            {"hi": "8", "en": "8"},
-            {"hi": "16", "en": "16"},
-            {"hi": "32", "en": "32"},
-            {"hi": "4", "en": "4"}
+            {"hi": "केवल ऊर्ध्वाधर", "en": "Only vertical"},
+            {"hi": "केवल क्षैतिज", "en": "Only horizontal"},
+            {"hi": "ऊर्ध्वाधर या क्षैतिज दोनों", "en": "Both vertical or horizontal"},
+            {"hi": "टेढ़े-मेढ़े", "en": "Zig-zag"}
           ],
-          "answer": {"hi": "8", "en": "8"}
+          "answer": {"hi": "ऊर्ध्वाधर या क्षैतिज दोनों", "en": "Both vertical or horizontal"}
         },
         {
           "q": {
-            "hi": "समीकरण $5t + 28 = 10$ में $t$ का मान क्या होगा?",
-            "en": "What will be the value of $t$ in the equation $5t + 28 = 10$?"
+            "hi": "क्या दंड आलेख में दंडों की चौड़ाई का महत्व होता है?",
+            "en": "Does the width of the bars matter in a bar graph?"
           },
           "options": [
-            {"hi": "18/5", "en": "18/5"},
-            {"hi": "-18/5", "en": "-18/5"},
-            {"hi": "5/18", "en": "5/18"},
-            {"hi": "-5/18", "en": "-5/18"}
+            {"hi": "हाँ, वे अलग होने चाहिए", "en": "Yes, they should be different"},
+            {"hi": "नहीं, लेकिन वे एक समान होनी चाहिए", "en": "No, but they should be uniform"},
+            {"hi": "हाँ, वे बहुत मोटी होनी चाहिए", "en": "Yes, they should be very thick"},
+            {"hi": "चौड़ाई शून्य होनी चाहिए", "en": "Width should be zero"}
           ],
-          "answer": {"hi": "-18/5", "en": "-18/5"}
+          "answer": {"hi": "नहीं, लेकिन वे एक समान होनी चाहिए", "en": "No, but they should be uniform"}
         },
         {
           "q": {
-            "hi": "समीकरण $a/5 + 3 = 2$ का हल क्या है?",
-            "en": "What is the solution to the equation $a/5 + 3 = 2$?"
+            "hi": "यदि 1 इकाई = 10 पेड़ है, तो 60 पेड़ों के लिए दंड की ऊंचाई क्या होगी?",
+            "en": "If 1 unit = 10 trees, what will be the height of the bar for 60 trees?"
+          },
+          "options": [
+            {"hi": "6 इकाई", "en": "6 units"},
+            {"hi": "60 इकाई", "en": "60 units"},
+            {"hi": "10 इकाई", "en": "10 units"},
+            {"hi": "1 इकाई", "en": "1 unit"}
+          ],
+          "answer": {"hi": "6 इकाई", "en": "6 units"}
+        },
+        {
+          "q": {
+            "hi": "आंकड़ों का एकत्रीकरण (Collection of data) किस पर निर्भर करता है?",
+            "en": "Collection of data depends on what?"
+          },
+          "options": [
+            {"hi": "उद्देश्य (Purpose) पर", "en": "On the purpose"},
+            {"hi": "मौसम पर", "en": "On the weather"},
+            {"hi": "केवल भाग्य पर", "en": "Only on luck"},
+            {"hi": "किताब के रंग पर", "en": "On the color of the book"}
+          ],
+          "answer": {"hi": "उद्देश्य (Purpose) पर", "en": "On the purpose"}
+        },
+        {
+          "q": {
+            "hi": "मिलान चिह्न '<s>||||</s> <s>||||</s> |||' किस संख्या को दर्शाता है?",
+            "en": "Which number does the tally mark '<s>||||</s> <s>||||</s> |||' represent?"
+          },
+          "options": [
+            {"hi": "10", "en": "10"},
+            {"hi": "12", "en": "12"},
+            {"hi": "13", "en": "13"},
+            {"hi": "15", "en": "15"}
+          ],
+          "answer": {"hi": "13", "en": "13"}
+        },
+        {
+          "q": {
+            "hi": "दंड आलेख में आंकड़ों की तुलना कैसे की जाती है?",
+            "en": "How is the comparison of data done in a bar graph?"
+          },
+          "options": [
+            {"hi": "स्तंभों की ऊंचाई देखकर", "en": "By looking at the height of bars"},
+            {"hi": "स्तंभों का रंग देखकर", "en": "By looking at the color of bars"},
+            {"hi": "पन्ने को पलटकर", "en": "By turning the page"},
+            {"hi": "स्तंभों को गिनकर", "en": "By counting the bars"}
+          ],
+          "answer": {"hi": "स्तंभों की ऊंचाई देखकर", "en": "By looking at the height of bars"}
+        },
+        {
+          "q": {
+            "hi": "निम्नलिखित में से कौन सा प्राथमिक आंकड़ा (Primary data) संग्रह का तरीका है?",
+            "en": "Which of the following is a primary data collection method?"
+          },
+          "options": [
+            {"hi": "साक्षात्कार (Interview)", "en": "Interview"},
+            {"hi": "पुराना अखबार पढ़ना", "en": "Reading old newspaper"},
+            {"hi": "इंटरनेट से कॉपी करना", "en": "Copying from internet"},
+            {"hi": "दूसरे की कॉपी देखना", "en": "Looking at someone else's copy"}
+          ],
+          "answer": {"hi": "साक्षात्कार (Interview)", "en": "Interview"}
+        },
+        {
+          "q": {
+            "hi": "चित्रलेख में यदि एक सेब का चित्र 5 फल दर्शाता है, तो 4 चित्र कितने फल दर्शाएंगे?",
+            "en": "In a pictograph, if one apple picture represents 5 fruits, how many fruits will 4 pictures represent?"
           },
           "options": [
             {"hi": "5", "en": "5"},
-            {"hi": "-5", "en": "-5"},
-            {"hi": "-1", "en": "-1"},
-            {"hi": "1", "en": "1"}
+            {"hi": "10", "en": "10"},
+            {"hi": "15", "en": "15"},
+            {"hi": "20", "en": "20"}
           ],
-          "answer": {"hi": "-5", "en": "-5"}
+          "answer": {"hi": "20", "en": "20"}
         },
         {
           "q": {
-            "hi": "समीकरण $q/4 + 7 = 5$ में $q$ का मान क्या है?",
-            "en": "What is the value of $q$ in the equation $q/4 + 7 = 5$?"
+            "hi": "दंड आलेख बनाते समय पैमाना (Scale) कहाँ लिखा जाता है?",
+            "en": "Where is the scale written while making a bar graph?"
           },
           "options": [
-            {"hi": "-8", "en": "-8"},
-            {"hi": "8", "en": "8"},
-            {"hi": "-2", "en": "-2"},
-            {"hi": "4", "en": "4"}
+            {"hi": "ग्राफ के ऊपर या कोने में", "en": "At the top or in the corner of the graph"},
+            {"hi": "ग्राफ के नीचे छिपाकर", "en": "Hidden below the graph"},
+            {"hi": "कहीं भी नहीं", "en": "Nowhere"},
+            {"hi": "दूसरी कॉपी में", "en": "In another copy"}
           ],
-          "answer": {"hi": "-8", "en": "-8"}
+          "answer": {"hi": "ग्राफ के ऊपर या कोने में", "en": "At the top or in the corner of the graph"}
         },
         {
           "q": {
-            "hi": "समीकरण $5x/2 = 25/4$ में $x$ का मान ज्ञात कीजिए।",
-            "en": "Find the value of $x$ in the equation $5x/2 = 25/4$."
+            "hi": "आंकड़ों का प्रस्तुतीकरण हमें क्या बनाने में सक्षम बनाता है?",
+            "en": "Presentation of data enables us to do what?"
           },
           "options": [
-            {"hi": "5/2", "en": "5/2"},
-            {"hi": "2/5", "en": "2/5"},
-            {"hi": "5/4", "en": "5/4"},
-            {"hi": "4/5", "en": "4/5"}
+            {"hi": "त्वरित निर्णय (Quick decisions)", "en": "Quick decisions"},
+            {"hi": "चित्रकार", "en": "Painter"},
+            {"hi": "लेखक", "en": "Writer"},
+            {"hi": "खिलाड़ी", "en": "Player"}
           ],
-          "answer": {"hi": "5/2", "en": "5/2"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण $7m + 19/2 = 13$ में $m$ का मान क्या होगा?",
-            "en": "What will be the value of $m$ in the equation $7m + 19/2 = 13$?"
-          },
-          "options": [
-            {"hi": "1/2", "en": "1/2"},
-            {"hi": "7/2", "en": "7/2"},
-            {"hi": "13/7", "en": "13/7"},
-            {"hi": "2", "en": "2"}
-          ],
-          "answer": {"hi": "1/2", "en": "1/2"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण $6z + 10 = -2$ का हल क्या है?",
-            "en": "What is the solution to the equation $6z + 10 = -2$?"
-          },
-          "options": [
-            {"hi": "2", "en": "2"},
-            {"hi": "-2", "en": "-2"},
-            {"hi": "12", "en": "12"},
-            {"hi": "-12", "en": "-12"}
-          ],
-          "answer": {"hi": "-2", "en": "-2"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण $2b/3 - 5 = 3$ में $b$ का मान क्या है?",
-            "en": "What is the value of $b$ in the equation $2b/3 - 5 = 3$?"
-          },
-          "options": [
-            {"hi": "12", "en": "12"},
-            {"hi": "8", "en": "8"},
-            {"hi": "4", "en": "4"},
-            {"hi": "10", "en": "10"}
-          ],
-          "answer": {"hi": "12", "en": "12"}
-        },
-        {
-          "q": {
-            "hi": "अध्यापिका बताती हैं कि उनकी कक्षा में एक विद्यार्थी द्वारा प्राप्त किए गए अधिकतम अंक, न्यूनतम अंक का दुगुना जमा 7 है। यदि अधिकतम अंक 87 हैं, तो न्यूनतम अंक क्या हैं?",
-            "en": "The teacher says that the highest marks are 7 more than twice the lowest. If the highest is 87, what is the lowest?"
-          },
-          "options": [
-            {"hi": "40", "en": "40"},
-            {"hi": "80", "en": "80"},
-            {"hi": "43", "en": "43"},
-            {"hi": "45", "en": "45"}
-          ],
-          "answer": {"hi": "40", "en": "40"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण $x = 2$ से प्रारंभ करके 3 समीकरण बनाए जा सकते हैं। क्या $10x + 2 = 22$ उनमें से एक है?",
-            "en": "Starting with $x = 2$, 3 equations can be formed. Is $10x + 2 = 22$ one of them?"
-          },
-          "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल धनात्मक के लिए", "en": "Only for positive"},
-            {"hi": "कह नहीं सकते", "en": "Can't say"}
-          ],
-          "answer": {"hi": "हाँ", "en": "Yes"}
+          "answer": {"hi": "त्वरित निर्णय (Quick decisions)", "en": "Quick decisions"}
         }
       ]
     },
