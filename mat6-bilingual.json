@@ -4640,661 +4640,661 @@
       "section1": [
         {
           "q": {
-            "hi": "शब्द 'परिमेय' (Rational) की उत्पत्ति किस शब्द से हुई है?",
-            "en": "From which word is the word 'Rational' derived?"
+            "hi": "ज्यामितीय आकृतियाँ बनाने के लिए मुख्य रूप से किन उपकरणों का उपयोग किया जाता है?",
+            "en": "Which instruments are mainly used to draw geometric shapes?"
           },
           "options": [
-            {"hi": "अनुपात (Ratio)", "en": "Ratio"},
-            {"hi": "दर (Rate)", "en": "Rate"},
-            {"hi": "अंश (Fraction)", "en": "Fraction"},
-            {"hi": "पूर्णांक (Integer)", "en": "Integer"}
+            {"hi": "पेन और रबर", "en": "Pen and eraser"},
+            {"hi": "परकार और रूलर", "en": "Compass and ruler"},
+            {"hi": "रंग और ब्रश", "en": "Colors and brush"},
+            {"hi": "केवल पेंसिल", "en": "Only pencil"}
           ],
-          "answer": {"hi": "अनुपात (Ratio)", "en": "Ratio"}
+          "answer": {"hi": "परकार और रूलर", "en": "Compass and ruler"}
         },
         {
           "q": {
-            "hi": "एक परिमेय संख्या को किस रूप में लिखा जा सकता है?",
-            "en": "In what form can a rational number be written?"
+            "hi": "वृत्त बनाने के लिए सबसे उपयुक्त उपकरण कौन-सा है?",
+            "en": "Which is the most suitable instrument for drawing a circle?"
           },
           "options": [
-            {"hi": "p + q", "en": "p + q"},
-            {"hi": "p - q", "en": "p - q"},
-            {"hi": "p/q (जहाँ q ≠ 0)", "en": "p/q (where q ≠ 0)"},
-            {"hi": "p × q", "en": "p × q"}
+            {"hi": "डिवाइडर", "en": "Divider"},
+            {"hi": "चाँदा", "en": "Protractor"},
+            {"hi": "परकार (Compass)", "en": "Compass"},
+            {"hi": "रूलर", "en": "Ruler"}
           ],
-          "answer": {"hi": "p/q (जहाँ q ≠ 0)", "en": "p/q (where q ≠ 0)"}
+          "answer": {"hi": "परकार (Compass)", "en": "Compass"}
         },
         {
           "q": {
-            "hi": "परिमेय संख्या p/q में 'p' क्या कहलाता है?",
-            "en": "What is 'p' called in the rational number p/q?"
+            "hi": "वृत्त के सभी बिंदु उसके केंद्र से कितनी दूरी पर होते हैं?",
+            "en": "All points of a circle are at what distance from its center?"
           },
           "options": [
-            {"hi": "हर (Denominator)", "en": "Denominator"},
-            {"hi": "अंश (Numerator)", "en": "Numerator"},
-            {"hi": "गुणांक (Coefficient)", "en": "Coefficient"},
-            {"hi": "चर (Variable)", "en": "Variable"}
+            {"hi": "अलग-अलग दूरी पर", "en": "At different distances"},
+            {"hi": "समान दूरी पर", "en": "At equal distance"},
+            {"hi": "दोगुनी दूरी पर", "en": "At double distance"},
+            {"hi": "शून्य दूरी पर", "en": "At zero distance"}
           ],
-          "answer": {"hi": "अंश (Numerator)", "en": "Numerator"}
+          "answer": {"hi": "समान दूरी पर", "en": "At equal distance"}
         },
         {
           "q": {
-            "hi": "क्या सभी पूर्णांक परिमेय संख्याएँ भी होते हैं?",
-            "en": "Are all integers also rational numbers?"
+            "hi": "केंद्र से वृत्त की सीमा तक की दूरी को क्या कहते हैं?",
+            "en": "What is the distance from the center to the boundary of the circle called?"
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल धनात्मक", "en": "Only positive"},
-            {"hi": "केवल ऋणात्मक", "en": "Only negative"}
+            {"hi": "व्यास", "en": "Diameter"},
+            {"hi": "परिधि", "en": "Circumference"},
+            {"hi": "त्रिज्या (Radius)", "en": "Radius"},
+            {"hi": "जीवा", "en": "Chord"}
           ],
-          "answer": {"hi": "हाँ", "en": "Yes"}
+          "answer": {"hi": "त्रिज्या (Radius)", "en": "Radius"}
         },
         {
           "q": {
-            "hi": "शून्य (0) को परिमेय संख्या के रूप में कैसे लिखा जा सकता है?",
-            "en": "How can zero (0) be written as a rational number?"
+            "hi": "एक रेखाखंड का लंब समद्विभाजक उसे कितने भागों में बाँटता है?",
+            "en": "Into how many parts does the perpendicular bisector divide a line segment?"
           },
           "options": [
-            {"hi": "0/1", "en": "0/1"},
-            {"hi": "0/5", "en": "0/5"},
-            {"hi": "0/-2", "en": "0/-2"},
-            {"hi": "उपर्युक्त सभी", "en": "All of the above"}
+            {"hi": "दो बराबर भागों में", "en": "Into two equal parts"},
+            {"hi": "तीन भागों में", "en": "Into three parts"},
+            {"hi": "चार बराबर भागों में", "en": "Into four equal parts"},
+            {"hi": "विभाजित नहीं करता", "en": "Does not divide"}
           ],
-          "answer": {"hi": "उपर्युक्त सभी", "en": "All of the above"}
+          "answer": {"hi": "दो बराबर भागों में", "en": "Into two equal parts"}
         },
         {
           "q": {
-            "hi": "यदि अंश और हर दोनों धनात्मक हों, तो वह कैसी परिमेय संख्या है?",
-            "en": "If both numerator and denominator are positive, what type of rational number is it?"
+            "hi": "लंब समद्विभाजक रेखाखंड के साथ कितने डिग्री का कोण बनाता है?",
+            "en": "What degree of angle does a perpendicular bisector make with the line segment?"
           },
           "options": [
-            {"hi": "ऋणात्मक", "en": "Negative"},
-            {"hi": "धनात्मक", "en": "Positive"},
-            {"hi": "शून्य", "en": "Zero"},
-            {"hi": "अपरिभाषित", "en": "Undefined"}
+            {"hi": "45°", "en": "45°"},
+            {"hi": "60°", "en": "60°"},
+            {"hi": "90°", "en": "90°"},
+            {"hi": "180°", "en": "180°"}
           ],
-          "answer": {"hi": "धनात्मक", "en": "Positive"}
+          "answer": {"hi": "90°", "en": "90°"}
         },
         {
           "q": {
-            "hi": "-3/5 कैसी परिमेय संख्या है?",
-            "en": "What type of rational number is -3/5?"
+            "hi": "एक दिए गए बिंदु से होकर कितनी रेखाएँ खींची जा सकती हैं?",
+            "en": "How many lines can be drawn passing through a given point?"
           },
           "options": [
-            {"hi": "धनात्मक", "en": "Positive"},
-            {"hi": "ऋणात्मक", "en": "Negative"},
-            {"hi": "न धनात्मक न ऋणात्मक", "en": "Neither positive nor negative"},
-            {"hi": "पूर्ण संख्या", "en": "Whole number"}
+            {"hi": "केवल एक", "en": "Only one"},
+            {"hi": "केवल दो", "en": "Only two"},
+            {"hi": "अनंत (Infinite)", "en": "Infinite"},
+            {"hi": "शून्य", "en": "Zero"}
           ],
-          "answer": {"hi": "ऋणात्मक", "en": "Negative"}
+          "answer": {"hi": "अनंत (Infinite)", "en": "Infinite"}
         },
         {
           "q": {
-            "hi": "संख्या -8/-9 का सरलतम रूप क्या है?",
-            "en": "What is the simplest form of the number -8/-9?"
+            "hi": "परकार की सहायता से 4 सेमी त्रिज्या का वृत्त खींचने के लिए परकार को कितना खोलना होगा?",
+            "en": "How much should the compass be opened to draw a circle of 4 cm radius?"
           },
           "options": [
-            {"hi": "-8/9", "en": "-8/9"},
-            {"hi": "8/9", "en": "8/9"},
-            {"hi": "8/-9", "en": "8/-9"},
-            {"hi": "1", "en": "1"}
+            {"hi": "2 सेमी", "en": "2 cm"},
+            {"hi": "4 सेमी", "en": "4 cm"},
+            {"hi": "8 सेमी", "en": "8 cm"},
+            {"hi": "6 सेमी", "en": "6 cm"}
           ],
-          "answer": {"hi": "8/9", "en": "8/9"}
+          "answer": {"hi": "4 सेमी", "en": "4 cm"}
         },
         {
           "q": {
-            "hi": "परिमेय संख्या 2/3 के समतुल्य (equivalent) संख्या क्या होगी?",
-            "en": "What will be an equivalent number for the rational number 2/3?"
+            "hi": "दो बिंदुओं से होकर कितनी सीधी रेखाएँ खींची जा सकती हैं?",
+            "en": "How many straight lines can be drawn through two points?"
           },
           "options": [
-            {"hi": "4/6", "en": "4/6"},
-            {"hi": "6/9", "en": "6/9"},
-            {"hi": "10/15", "en": "10/15"},
-            {"hi": "उपर्युक्त सभी", "en": "All of the above"}
+            {"hi": "केवल एक", "en": "Only one"},
+            {"hi": "दो", "en": "Two"},
+            {"hi": "अनेक", "en": "Many"},
+            {"hi": "शून्य", "en": "Zero"}
           ],
-          "answer": {"hi": "उपर्युक्त सभी", "en": "All of the above"}
+          "answer": {"hi": "केवल एक", "en": "Only one"}
         },
         {
           "q": {
-            "hi": "क्या सभी भिन्न (Fractions) परिमेय संख्याएँ होती हैं?",
-            "en": "Are all fractions rational numbers?"
+            "hi": "ज्यामितीय रचनाओं में सटीकता के लिए पेंसिल कैसी होनी चाहिए?",
+            "en": "How should the pencil be for accuracy in geometric constructions?"
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल उचित भिन्न", "en": "Only proper fractions"},
-            {"hi": "कह नहीं सकते", "en": "Can't say"}
+            {"hi": "मोटी", "en": "Thick"},
+            {"hi": "नुकीली और बारीक", "en": "Sharp and fine"},
+            {"hi": "रंगीन", "en": "Colored"},
+            {"hi": "छोटी", "en": "Small"}
           ],
-          "answer": {"hi": "हाँ", "en": "Yes"}
+          "answer": {"hi": "नुकीली और बारीक", "en": "Sharp and fine"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "संख्या रेखा पर धनात्मक परिमेय संख्याएँ शून्य के किस ओर स्थित होती हैं?",
-            "en": "On which side of zero are positive rational numbers located on a number line?"
+            "hi": "किसी कोण को दो बराबर भागों में बाँटने वाली रेखा क्या कहलाती है?",
+            "en": "What is the line that divides an angle into two equal parts called?"
           },
           "options": [
-            {"hi": "बाईं ओर", "en": "To the left"},
-            {"hi": "दाईं ओर", "en": "To the right"},
-            {"hi": "ऊपर", "en": "Above"},
-            {"hi": "नीचे", "en": "Below"}
+            {"hi": "लंब रेखा", "en": "Perpendicular line"},
+            {"hi": "कोण समद्विभाजक", "en": "Angle bisector"},
+            {"hi": "व्यास", "en": "Diameter"},
+            {"hi": "आधार", "en": "Base"}
           ],
-          "answer": {"hi": "दाईं ओर", "en": "To the right"}
+          "answer": {"hi": "कोण समद्विभाजक", "en": "Angle bisector"}
         },
         {
           "q": {
-            "hi": "संख्या रेखा पर ऋणात्मक परिमेय संख्याएँ शून्य के किस ओर होती हैं?",
-            "en": "On which side of zero are negative rational numbers on the number line?"
+            "hi": "90° के कोण का समद्विभाजक कितने डिग्री का कोण बनाता है?",
+            "en": "An angle bisector of 90° creates angles of how many degrees?"
           },
           "options": [
-            {"hi": "दाईं ओर", "en": "To the right"},
-            {"hi": "बाईं ओर", "en": "To the left"},
-            {"hi": "शून्य पर ही", "en": "At zero itself"},
-            {"hi": "कहीं भी", "en": "Anywhere"}
+            {"hi": "30°", "en": "30°"},
+            {"hi": "45°", "en": "45°"},
+            {"hi": "60°", "en": "60°"},
+            {"hi": "20°", "en": "20°"}
           ],
-          "answer": {"hi": "बाईं ओर", "en": "To the left"}
+          "answer": {"hi": "45°", "en": "45°"}
         },
         {
           "q": {
-            "hi": "एक परिमेय संख्या मानक रूप (Standard form) में तब होती है जब उसका हर क्या हो?",
-            "en": "A rational number is in standard form when its denominator is?"
+            "hi": "परकार और रूलर की सहायता से इनमें से कौन-सा कोण बनाना संभव है?",
+            "en": "Which of these angles can be constructed using a compass and ruler?"
           },
           "options": [
-            {"hi": "ऋणात्मक", "en": "Negative"},
-            {"hi": "धनात्मक पूर्णांक", "en": "Positive integer"},
-            {"hi": "शून्य", "en": "Zero"},
-            {"hi": "विषम", "en": "Odd"}
+            {"hi": "60°", "en": "60°"},
+            {"hi": "10°", "en": "10°"},
+            {"hi": "25°", "en": "25°"},
+            {"hi": "40°", "en": "40°"}
           ],
-          "answer": {"hi": "धनात्मक पूर्णांक", "en": "Positive integer"}
+          "answer": {"hi": "60°", "en": "60°"}
         },
         {
           "q": {
-            "hi": "45/30 का मानक रूप क्या है?",
-            "en": "What is the standard form of 45/30?"
+            "hi": "60° के कोण की रचना के लिए सबसे पहले क्या खींचा जाता है?",
+            "en": "What is drawn first for the construction of a 60° angle?"
           },
           "options": [
-            {"hi": "9/6", "en": "9/6"},
-            {"hi": "3/2", "en": "3/2"},
-            {"hi": "15/10", "en": "15/10"},
-            {"hi": "5/3", "en": "5/3"}
+            {"hi": "एक चाप", "en": "An arc"},
+            {"hi": "एक वृत्त", "en": "A circle"},
+            {"hi": "एक किरण या रेखाखंड", "en": "A ray or line segment"},
+            {"hi": "एक लंब", "en": "A perpendicular"}
           ],
-          "answer": {"hi": "3/2", "en": "3/2"}
+          "answer": {"hi": "एक किरण या रेखाखंड", "en": "A ray or line segment"}
         },
         {
           "q": {
-            "hi": "-12/18 का मानक रूप क्या होगा?",
-            "en": "What will be the standard form of -12/18?"
+            "hi": "एक वृत्त का व्यास उसकी त्रिज्या का कितना होता है?",
+            "en": "The diameter of a circle is how much of its radius?"
           },
           "options": [
-            {"hi": "-6/9", "en": "-6/9"},
-            {"hi": "2/3", "en": "2/3"},
-            {"hi": "-2/3", "en": "-2/3"},
-            {"hi": "12/18", "en": "12/18"}
+            {"hi": "आधा", "en": "Half"},
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "दोगुना", "en": "Double"},
+            {"hi": "तीन गुना", "en": "Triple"}
           ],
-          "answer": {"hi": "-2/3", "en": "-2/3"}
+          "answer": {"hi": "दोगुना", "en": "Double"}
         },
         {
           "q": {
-            "hi": "दो परिमेय संख्याओं के बीच में कितनी परिमेय संख्याएँ होती हैं?",
-            "en": "How many rational numbers are there between two rational numbers?"
+            "hi": "यदि वृत्त की त्रिज्या 5 सेमी है, तो व्यास क्या होगा?",
+            "en": "If the radius of a circle is 5 cm, what will be the diameter?"
           },
           "options": [
-            {"hi": "केवल एक", "en": "Only one"},
-            {"hi": "दो", "en": "Two"},
-            {"hi": "अनंत (अपरिमित)", "en": "Infinite (unlimited)"},
-            {"hi": "दस", "en": "Ten"}
+            {"hi": "2.5 सेमी", "en": "2.5 cm"},
+            {"hi": "5 सेमी", "en": "5 cm"},
+            {"hi": "10 सेमी", "en": "10 cm"},
+            {"hi": "15 सेमी", "en": "15 cm"}
           ],
-          "answer": {"hi": "अनंत (अपरिमित)", "en": "Infinite (unlimited)"}
+          "answer": {"hi": "10 सेमी", "en": "10 cm"}
         },
         {
           "q": {
-            "hi": "0 और 1 के ठीक बीच की परिमेय संख्या क्या है?",
-            "en": "What is the rational number exactly between 0 and 1?"
+            "hi": "रचनाओं में 'सहायक वक्र' का क्या कार्य है?",
+            "en": "What is the function of an 'auxiliary curve' in constructions?"
           },
           "options": [
-            {"hi": "1/4", "en": "1/4"},
-            {"hi": "1/2", "en": "1/2"},
-            {"hi": "3/4", "en": "3/4"},
-            {"hi": "0.1", "en": "0.1"}
+            {"hi": "सजावट करना", "en": "Decoration"},
+            {"hi": "अंतिम आकृति बनाने में मदद करना", "en": "Helping in making the final shape"},
+            {"hi": "आकृति को मिटाना", "en": "Erasing the shape"},
+            {"hi": "कोई कार्य नहीं", "en": "No function"}
           ],
-          "answer": {"hi": "1/2", "en": "1/2"}
+          "answer": {"hi": "अंतिम आकृति बनाने में मदद करना", "en": "Helping in making the final shape"}
         },
         {
           "q": {
-            "hi": "क्या -1/2 और 1/2 समान (equal) हैं?",
-            "en": "Are -1/2 and 1/2 equal?"
+            "hi": "एक समबाहु त्रिभुज की रचना के लिए तीनों भुजाएँ कैसी होनी चाहिए?",
+            "en": "For the construction of an equilateral triangle, how should the three sides be?"
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "शून्य के बराबर", "en": "Equal to zero"},
-            {"hi": "पता नहीं", "en": "Don't know"}
+            {"hi": "बराबर लंबाई की", "en": "Of equal length"},
+            {"hi": "अलग-अलग लंबाई की", "en": "Of different lengths"},
+            {"hi": "केवल दो बराबर", "en": "Only two equal"},
+            {"hi": "बहुत बड़ी", "en": "Very large"}
           ],
-          "answer": {"hi": "नहीं", "en": "No"}
+          "answer": {"hi": "बराबर लंबाई की", "en": "Of equal length"}
         },
         {
           "q": {
-            "hi": "कौन सी परिमेय संख्या न तो धनात्मक है और न ही ऋणात्मक?",
-            "en": "Which rational number is neither positive nor negative?"
+            "hi": "परकार से चाप लगाते समय केंद्र बिंदु को कैसा रखना चाहिए?",
+            "en": "How should the center point be kept while drawing an arc with a compass?"
           },
           "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "-1", "en": "-1"},
-            {"hi": "0", "en": "0"},
-            {"hi": "100", "en": "100"}
+            {"hi": "हिलाते हुए", "en": "Moving"},
+            {"hi": "स्थिर (Fixed)", "en": "Fixed"},
+            {"hi": "हल्का", "en": "Light"},
+            {"hi": "ऊपर की ओर", "en": "Upwards"}
           ],
-          "answer": {"hi": "0", "en": "0"}
+          "answer": {"hi": "स्थिर (Fixed)", "en": "Fixed"}
         },
         {
           "q": {
-            "hi": "हर परिमेय संख्या को संख्या रेखा पर एक ________ द्वारा दर्शाया जा सकता है।",
-            "en": "Every rational number can be represented by a ________ on the number line."
+            "hi": "60° और 120° के चापों के बीच का समद्विभाजक कौन-सा कोण बनाता है?",
+            "en": "The bisector between the arcs of 60° and 120° forms which angle?"
           },
           "options": [
-            {"hi": "बिंदु (Point)", "en": "Point"},
-            {"hi": "रेखा", "en": "Line"},
-            {"hi": "वृत्त", "en": "Circle"},
-            {"hi": "वर्ग", "en": "Square"}
+            {"hi": "75°", "en": "75°"},
+            {"hi": "90°", "en": "90°"},
+            {"hi": "100°", "en": "100°"},
+            {"hi": "80°", "en": "80°"}
           ],
-          "answer": {"hi": "बिंदु (Point)", "en": "Point"}
+          "answer": {"hi": "90°", "en": "90°"}
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "समान हर वाली दो परिमेय संख्याओं को जोड़ने के लिए क्या किया जाता है?",
-            "en": "What is done to add two rational numbers with the same denominator?"
+            "hi": "एक वर्ग की रचना के लिए सभी अंतः कोण कितने डिग्री के होने चाहिए?",
+            "en": "For the construction of a square, all interior angles should be of how many degrees?"
           },
           "options": [
-            {"hi": "अंशों को जोड़ा जाता है", "en": "Add the numerators"},
-            {"hi": "हरों को जोड़ा जाता है", "en": "Add the denominators"},
-            {"hi": "गुणा किया जाता है", "en": "Multiply them"},
-            {"hi": "घटाया जाता है", "en": "Subtract them"}
+            {"hi": "45°", "en": "45°"},
+            {"hi": "60°", "en": "60°"},
+            {"hi": "90°", "en": "90°"},
+            {"hi": "180°", "en": "180°"}
           ],
-          "answer": {"hi": "अंशों को जोड़ा जाता है", "en": "Add the numerators"}
+          "answer": {"hi": "90°", "en": "90°"}
         },
         {
           "q": {
-            "hi": "7/3 + (-5/3) का मान क्या होगा?",
-            "en": "What will be the value of 7/3 + (-5/3)?"
+            "hi": "वृत्त की परिधि पर स्थित किसी बिंदु से केंद्र तक की दूरी क्या कहलाती है?",
+            "en": "What is the distance from a point on the circumference of a circle to the center called?"
           },
           "options": [
-            {"hi": "12/3", "en": "12/3"},
-            {"hi": "2/3", "en": "2/3"},
-            {"hi": "-2/3", "en": "-2/3"},
-            {"hi": "0", "en": "0"}
+            {"hi": "व्यास", "en": "Diameter"},
+            {"hi": "जीवा", "en": "Chord"},
+            {"hi": "त्रिज्या", "en": "Radius"},
+            {"hi": "स्पर्श रेखा", "en": "Tangent"}
           ],
-          "answer": {"hi": "2/3", "en": "2/3"}
+          "answer": {"hi": "त्रिज्या", "en": "Radius"}
         },
         {
           "q": {
-            "hi": "भिन्न-भिन्न हरों वाली संख्याओं को जोड़ने के लिए पहले क्या ज्ञात किया जाता है?",
-            "en": "What is found first to add numbers with different denominators?"
+            "hi": "परकार के प्रयोग से 'सममिति' (Symmetry) प्राप्त करना कैसा होता है?",
+            "en": "How is it to achieve 'Symmetry' using a compass?"
           },
           "options": [
-            {"hi": "गुणनफल", "en": "Product"},
-            {"hi": "ल.स. (LCM)", "en": "LCM"},
-            {"hi": "म.स. (HCF)", "en": "HCF"},
-            {"hi": "अंतर", "en": "Difference"}
+            {"hi": "कठिन", "en": "Difficult"},
+            {"hi": "आसान और सटीक", "en": "Easy and accurate"},
+            {"hi": "असंभव", "en": "Impossible"},
+            {"hi": "गलत", "en": "Wrong"}
           ],
-          "answer": {"hi": "ल.स. (LCM)", "en": "LCM"}
+          "answer": {"hi": "आसान और सटीक", "en": "Easy and accurate"}
         },
         {
           "q": {
-            "hi": "परिमेय संख्या 4/7 का योज्य प्रतिलोम (Additive inverse) क्या है?",
-            "en": "What is the additive inverse of the rational number 4/7?"
+            "hi": "रूलर का मुख्य उपयोग क्या है?",
+            "en": "What is the main use of a ruler?"
           },
           "options": [
-            {"hi": "7/4", "en": "7/4"},
-            {"hi": "-4/7", "en": "-4/7"},
-            {"hi": "1", "en": "1"},
-            {"hi": "0", "en": "0"}
+            {"hi": "कोण मापना", "en": "Measuring angles"},
+            {"hi": "सीधी रेखाएँ खींचना और लंबाई मापना", "en": "Drawing straight lines and measuring length"},
+            {"hi": "वृत्त बनाना", "en": "Drawing circles"},
+            {"hi": "मिटाना", "en": "Erasing"}
           ],
-          "answer": {"hi": "-4/7", "en": "-4/7"}
+          "answer": {"hi": "सीधी रेखाएँ खींचना और लंबाई मापना", "en": "Drawing straight lines and measuring length"}
         },
         {
           "q": {
-            "hi": "-2/3 का योज्य प्रतिलोम क्या है?",
-            "en": "What is the additive inverse of -2/3?"
+            "hi": "120° का कोण बनाने के लिए 60° के चाप से कितनी बार समान दूरी का चाप काटना होगा?",
+            "en": "How many times should an arc of equal distance be cut from the 60° arc to make a 120° angle?"
           },
           "options": [
-            {"hi": "-2/3", "en": "-2/3"},
-            {"hi": "2/3", "en": "2/3"},
-            {"hi": "3/2", "en": "3/2"},
-            {"hi": "0", "en": "0"}
+            {"hi": "एक बार", "en": "One more time"},
+            {"hi": "दो बार", "en": "Two times"},
+            {"hi": "तीन बार", "en": "Three times"},
+            {"hi": "नहीं काटना होगा", "en": "No need to cut"}
           ],
-          "answer": {"hi": "2/3", "en": "2/3"}
+          "answer": {"hi": "एक बार", "en": "One more time"}
         },
         {
           "q": {
-            "hi": "शून्य (0) का योज्य प्रतिलोम क्या है?",
-            "en": "What is the additive inverse of zero (0)?"
+            "hi": "एक रेखाखंड AB का मध्य बिंदु खोजने के लिए किसका उपयोग किया जाता है?",
+            "en": "What is used to find the midpoint of a line segment AB?"
           },
           "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "-1", "en": "-1"},
-            {"hi": "0", "en": "0"},
-            {"hi": "अपरिभाषित", "en": "Undefined"}
+            {"hi": "कोण समद्विभाजक", "en": "Angle bisector"},
+            {"hi": "लंब समद्विभाजक (Perpendicular bisector)", "en": "Perpendicular bisector"},
+            {"hi": "व्यास", "en": "Diameter"},
+            {"hi": "त्रिज्या", "en": "Radius"}
           ],
-          "answer": {"hi": "0", "en": "0"}
+          "answer": {"hi": "लंब समद्विभाजक (Perpendicular bisector)", "en": "Perpendicular bisector"}
         },
         {
           "q": {
-            "hi": "दो परिमेय संख्याओं का व्यवकलन (subtraction) करने के लिए क्या जोड़ा जाता है?",
-            "en": "What is added to perform subtraction of two rational numbers?"
+            "hi": "ज्यामितीय रचनाओं में 'P' बिंदु से 4 सेमी दूरी पर स्थित सभी बिंदु मिलकर क्या बनाते हैं?",
+            "en": "In geometric constructions, all points at a distance of 4 cm from point 'P' together form what?"
           },
           "options": [
-            {"hi": "योज्य प्रतिलोम", "en": "Additive inverse"},
-            {"hi": "गुणनात्मक प्रतिलोम", "en": "Multiplicative inverse"},
-            {"hi": "वही संख्या", "en": "The same number"},
-            {"hi": "शून्य", "en": "Zero"}
+            {"hi": "एक वर्ग", "en": "A square"},
+            {"hi": "एक रेखा", "en": "A line"},
+            {"hi": "एक वृत्त (Circle)", "en": "A circle"},
+            {"hi": "एक त्रिभुज", "en": "A triangle"}
           ],
-          "answer": {"hi": "योज्य प्रतिलोम", "en": "Additive inverse"}
+          "answer": {"hi": "एक वृत्त (Circle)", "en": "A circle"}
         },
         {
           "q": {
-            "hi": "5/8 - 3/8 का मान क्या है?",
-            "en": "What is the value of 5/8 - 3/8?"
+            "hi": "रचना 'एक व्यक्ति' (आकृति 8.1) में आँखों के वक्र बनाने के लिए किनका उपयोग किया गया है?",
+            "en": "In the construction 'A Person' (Fig 8.1), what is used to make the curves of the eyes?"
           },
           "options": [
-            {"hi": "2/8 (या 1/4)", "en": "2/8 (or 1/4)"},
-            {"hi": "8/8", "en": "8/8"},
-            {"hi": "1/8", "en": "1/8"},
-            {"hi": "0", "en": "0"}
+            {"hi": "रूलर", "en": "Ruler"},
+            {"hi": "परकार (Compass)", "en": "Compass"},
+            {"hi": "डिवाइडर", "en": "Divider"},
+            {"hi": "पेंसिल से मुक्त-हस्त", "en": "Free-hand with pencil"}
           ],
-          "answer": {"hi": "2/8 (या 1/4)", "en": "2/8 (or 1/4)"}
+          "answer": {"hi": "परकार (Compass)", "en": "Compass"}
         },
         {
           "q": {
-            "hi": "दो परिमेय संख्याओं का योग हमेशा क्या होता है?",
-            "en": "The sum of two rational numbers is always what?"
+            "hi": "यदि परकार की दूरी को बिना बदले चाप काटा जाए, तो वह कैसी दूरी को दर्शाता है?",
+            "en": "If an arc is cut without changing the compass distance, what distance does it represent?"
           },
           "options": [
-            {"hi": "पूर्णांक", "en": "Integer"},
-            {"hi": "परिमेय संख्या", "en": "Rational number"},
-            {"hi": "प्राकृत संख्या", "en": "Natural number"},
-            {"hi": "शून्य", "en": "Zero"}
+            {"hi": "बदलती हुई दूरी", "en": "Changing distance"},
+            {"hi": "समान त्रिज्या", "en": "Same radius"},
+            {"hi": "शून्य दूरी", "en": "Zero distance"},
+            {"hi": "व्यास", "en": "Diameter"}
           ],
-          "answer": {"hi": "परिमेय संख्या", "en": "Rational number"}
+          "answer": {"hi": "समान त्रिज्या", "en": "Same radius"}
         },
         {
           "q": {
-            "hi": "यदि a/b एक परिमेय संख्या है, तो a/b + 0 = ?",
-            "en": "If a/b is a rational number, then a/b + 0 = ?"
+            "hi": "90° के कोण की रचना के लिए आधार रेखा पर किस प्रकार की रेखा खींची जाती है?",
+            "en": "What kind of line is drawn on the base line for the construction of a 90° angle?"
           },
           "options": [
-            {"hi": "0", "en": "0"},
-            {"hi": "1", "en": "1"},
-            {"hi": "a/b", "en": "a/b"},
-            {"hi": "-a/b", "en": "-a/b"}
+            {"hi": "समांतर रेखा", "en": "Parallel line"},
+            {"hi": "लंब रेखा (Perpendicular)", "en": "Perpendicular line"},
+            {"hi": "तिरछी रेखा", "en": "Slanting line"},
+            {"hi": "वक्र रेखा", "en": "Curved line"}
           ],
-          "answer": {"hi": "a/b", "en": "a/b"}
+          "answer": {"hi": "लंब रेखा (Perpendicular)", "en": "Perpendicular line"}
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "दो परिमेय संख्याओं का गुणनफल (Product) कैसे ज्ञात करते हैं?",
-            "en": "How to find the product of two rational numbers?"
+            "hi": "वृत्त के केंद्र को सामान्यतः किस अक्षर से दर्शाया जाता है?",
+            "en": "Which letter is usually used to denote the center of a circle?"
           },
           "options": [
-            {"hi": "अंशों का गुणनफल / हरों का गुणनफल", "en": "Product of numerators / Product of denominators"},
-            {"hi": "अंशों का गुणनफल / हरों का योग", "en": "Product of numerators / Sum of denominators"},
-            {"hi": "तिरछा गुणा करके", "en": "By cross multiplication"},
-            {"hi": "केवल अंशों को गुणा करके", "en": "Only by multiplying numerators"}
+            {"hi": "C या O", "en": "C or O"},
+            {"hi": "X", "en": "X"},
+            {"hi": "R", "en": "R"},
+            {"hi": "D", "en": "D"}
           ],
-          "answer": {"hi": "अंशों का गुणनफल / हरों का गुणनफल", "en": "Product of numerators / Product of denominators"}
+          "answer": {"hi": "C या O", "en": "C or O"}
         },
         {
           "q": {
-            "hi": "(-3/5) × 2 का मान क्या होगा?",
-            "en": "What will be the value of (-3/5) × 2?"
+            "hi": "एक चाप (Arc) वृत्त का क्या होता है?",
+            "en": "An arc is what of a circle?"
           },
           "options": [
-            {"hi": "-6/5", "en": "-6/5"},
-            {"hi": "-3/10", "en": "-3/10"},
-            {"hi": "6/5", "en": "6/5"},
-            {"hi": "0", "en": "0"}
+            {"hi": "केंद्र", "en": "Center"},
+            {"hi": "पूरा घेरा", "en": "Full boundary"},
+            {"hi": "एक भाग (Part)", "en": "A part"},
+            {"hi": "त्रिज्या", "en": "Radius"}
           ],
-          "answer": {"hi": "-6/5", "en": "-6/5"}
+          "answer": {"hi": "एक भाग (Part)", "en": "A part"}
         },
         {
           "q": {
-            "hi": "(-2/3) × (-6/7) का परिणाम क्या है?",
-            "en": "What is the result of (-2/3) × (-6/7)?"
+            "hi": "रचना 'घर' में छत बनाने के लिए किस आकृति का उपयोग किया जा सकता है?",
+            "en": "What shape can be used to make the roof in the 'House' construction?"
           },
           "options": [
-            {"hi": "-12/21", "en": "-12/21"},
-            {"hi": "12/21 (या 4/7)", "en": "12/21 (or 4/7)"},
-            {"hi": "8/21", "en": "8/21"},
-            {"hi": "0", "en": "0"}
+            {"hi": "वृत्त", "en": "Circle"},
+            {"hi": "त्रिभुज", "en": "Triangle"},
+            {"hi": "आयत", "en": "Rectangle"},
+            {"hi": "रेखा", "en": "Line"}
           ],
-          "answer": {"hi": "12/21 (या 4/7)", "en": "12/21 (or 4/7)"}
+          "answer": {"hi": "त्रिभुज", "en": "Triangle"}
         },
         {
           "q": {
-            "hi": "एक परिमेय संख्या और उसके व्युत्क्रम (Reciprocal) का गुणनफल क्या होता है?",
-            "en": "What is the product of a rational number and its reciprocal?"
+            "hi": "परकार का एक सिरा नुकीला क्यों होता है?",
+            "en": "Why is one end of the compass pointed?"
           },
           "options": [
-            {"hi": "0", "en": "0"},
-            {"hi": "1", "en": "1"},
-            {"hi": "-1", "en": "-1"},
-            {"hi": "वही संख्या", "en": "The same number"}
+            {"hi": "पकड़ने के लिए", "en": "To hold"},
+            {"hi": "कागज पर स्थिर रहने के लिए", "en": "To stay fixed on the paper"},
+            {"hi": "लिखने के लिए", "en": "To write"},
+            {"hi": "छेद करने के लिए", "en": "To make a hole"}
           ],
-          "answer": {"hi": "1", "en": "1"}
+          "answer": {"hi": "कागज पर स्थिर रहने के लिए", "en": "To stay fixed on the paper"}
         },
         {
           "q": {
-            "hi": "परिमेय संख्या 4/9 का व्युत्क्रम क्या है?",
-            "en": "What is the reciprocal of the rational number 4/9?"
-          },
-          "options": [
-            {"hi": "-4/9", "en": "-4/9"},
-            {"hi": "9/4", "en": "9/4"},
-            {"hi": "1", "en": "1"},
-            {"hi": "0", "en": "0"}
-          ],
-          "answer": {"hi": "9/4", "en": "9/4"}
-        },
-        {
-          "q": {
-            "hi": "किस परिमेय संख्या का कोई व्युत्क्रम नहीं होता है?",
-            "en": "Which rational number has no reciprocal?"
-          },
-          "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "-1", "en": "-1"},
-            {"hi": "0", "en": "0"},
-            {"hi": "10", "en": "10"}
-          ],
-          "answer": {"hi": "0", "en": "0"}
-        },
-        {
-          "q": {
-            "hi": "एक परिमेय संख्या को दूसरी परिमेय संख्या से भाग देने के लिए क्या करते हैं?",
-            "en": "How to divide a rational number by another rational number?"
-          },
-          "options": [
-            {"hi": "दूसरी संख्या के व्युत्क्रम से गुणा", "en": "Multiply by the reciprocal of the second number"},
-            {"hi": "संख्याओं को घटाना", "en": "Subtract the numbers"},
-            {"hi": "संख्याओं को जोड़ना", "en": "Add the numbers"},
-            {"hi": "केवल अंशों को भाग देना", "en": "Divide only the numerators"}
-          ],
-          "answer": {"hi": "दूसरी संख्या के व्युत्क्रम से गुणा", "en": "Multiply by the reciprocal of the second number"}
-        },
-        {
-          "q": {
-            "hi": "(-4/5) ÷ (-4/5) का मान क्या है?",
-            "en": "What is the value of (-4/5) ÷ (-4/5)?"
-          },
-          "options": [
-            {"hi": "0", "en": "0"},
-            {"hi": "1", "en": "1"},
-            {"hi": "-1", "en": "-1"},
-            {"hi": "16/25", "en": "16/25"}
-          ],
-          "answer": {"hi": "1", "en": "1"}
-        },
-        {
-          "q": {
-            "hi": "6/13 ÷ 1 का मान क्या होगा?",
-            "en": "What will be the value of 6/13 ÷ 1?"
-          },
-          "options": [
-            {"hi": "13/6", "en": "13/6"},
-            {"hi": "1", "en": "1"},
-            {"hi": "6/13", "en": "6/13"},
-            {"hi": "0", "en": "0"}
-          ],
-          "answer": {"hi": "6/13", "en": "6/13"}
-        },
-        {
-          "q": {
-            "hi": "(-2/3) ÷ 1 का मान क्या है?",
-            "en": "What is the value of (-2/3) ÷ 1?"
-          },
-          "options": [
-            {"hi": "-2/3", "en": "-2/3"},
-            {"hi": "2/3", "en": "2/3"},
-            {"hi": "-3/2", "en": "-3/2"},
-            {"hi": "1", "en": "1"}
-          ],
-          "answer": {"hi": "-2/3", "en": "-2/3"}
-        }
-      ],
-      "section5": [
-        {
-          "q": {
-            "hi": "सभी प्राकृत संख्याएँ परिमेय संख्याएँ होती हैं, लेकिन शून्य एक ________ नहीं है।",
-            "en": "All natural numbers are rational, but zero is not a ________."
-          },
-          "options": [
-            {"hi": "पूर्ण संख्या", "en": "Whole number"},
-            {"hi": "प्राकृत संख्या", "en": "Natural number"},
-            {"hi": "पूर्णांक", "en": "Integer"},
-            {"hi": "परिमेय संख्या", "en": "Rational number"}
-          ],
-          "answer": {"hi": "प्राकृत संख्या", "en": "Natural number"}
-        },
-        {
-          "q": {
-            "hi": "यदि a/b एक परिमेय संख्या है, तो b कभी भी क्या नहीं हो सकता?",
-            "en": "If a/b is a rational number, what can b never be?"
-          },
-          "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "धनात्मक", "en": "Positive"},
-            {"hi": "ऋणात्मक", "en": "Negative"},
-            {"hi": "शून्य (0)", "en": "Zero (0)"}
-          ],
-          "answer": {"hi": "शून्य (0)", "en": "Zero (0)"}
-        },
-        {
-          "q": {
-            "hi": "संख्या रेखा पर -3 और -4 के बीच में क्या कोई पूर्णांक है?",
-            "en": "Is there any integer between -3 and -4 on the number line?"
+            "hi": "क्या चाप की लंबाई त्रिज्या पर निर्भर करती है?",
+            "en": "Does the length of the arc depend on the radius?"
           },
           "options": [
             {"hi": "हाँ", "en": "Yes"},
             {"hi": "नहीं", "en": "No"},
-            {"hi": "अनेक", "en": "Many"},
-            {"hi": "पता नहीं", "en": "Don't know"}
-          ],
-          "answer": {"hi": "नहीं", "en": "No"}
-        },
-        {
-          "q": {
-            "hi": "-1/2 और -3/2 में से कौन सी संख्या बड़ी है?",
-            "en": "Which number is greater between -1/2 and -3/2?"
-          },
-          "options": [
-            {"hi": "-1/2", "en": "-1/2"},
-            {"hi": "-3/2", "en": "-3/2"},
-            {"hi": "दोनों बराबर", "en": "Both are equal"},
-            {"hi": "शून्य", "en": "Zero"}
-          ],
-          "answer": {"hi": "-1/2", "en": "-1/2"}
-        },
-        {
-          "q": {
-            "hi": "(-3/4) का गुणात्मक प्रतिलोम (Multiplicative inverse) क्या है?",
-            "en": "What is the multiplicative inverse of (-3/4)?"
-          },
-          "options": [
-            {"hi": "3/4", "en": "3/4"},
-            {"hi": "-4/3", "en": "-4/3"},
-            {"hi": "4/3", "en": "4/3"},
-            {"hi": "0", "en": "0"}
-          ],
-          "answer": {"hi": "-4/3", "en": "-4/3"}
-        },
-        {
-          "q": {
-            "hi": "शून्य को किसी भी परिमेय संख्या (शून्य को छोड़कर) से भाग देने पर क्या मिलता है?",
-            "en": "What do we get on dividing zero by any rational number (except zero)?"
-          },
-          "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "शून्य (0)", "en": "0"},
-            {"hi": "वही संख्या", "en": "The same number"},
-            {"hi": "अपरिभाषित", "en": "Undefined"}
-          ],
-          "answer": {"hi": "शून्य (0)", "en": "0"}
-        },
-        {
-          "q": {
-            "hi": "दो ऋणात्मक परिमेय संख्याओं का गुणनफल हमेशा क्या होता है?",
-            "en": "The product of two negative rational numbers is always?"
-          },
-          "options": [
-            {"hi": "ऋणात्मक", "en": "Negative"},
-            {"hi": "धनात्मक", "en": "Positive"},
-            {"hi": "शून्य", "en": "Zero"},
-            {"hi": "1", "en": "1"}
-          ],
-          "answer": {"hi": "धनात्मक", "en": "Positive"}
-        },
-        {
-          "q": {
-            "hi": "3/10 को दशमलव रूप में कैसे लिखेंगे?",
-            "en": "How to write 3/10 in decimal form?"
-          },
-          "options": [
-            {"hi": "0.3", "en": "0.3"},
-            {"hi": "3.0", "en": "3.0"},
-            {"hi": "0.03", "en": "0.03"},
-            {"hi": "33", "en": "33"}
-          ],
-          "answer": {"hi": "0.3", "en": "0.3"}
-        },
-        {
-          "q": {
-            "hi": "क्या -5 एक परिमेय संख्या है?",
-            "en": "Is -5 a rational number?"
-          },
-          "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल पूर्णांक है", "en": "It is only an integer"},
-            {"hi": "शून्य", "en": "Zero"}
+            {"hi": "कभी-कभी", "en": "Sometimes"},
+            {"hi": "केवल बड़े वृत्तों में", "en": "Only in large circles"}
           ],
           "answer": {"hi": "हाँ", "en": "Yes"}
         },
         {
           "q": {
-            "hi": "परिमेय संख्याओं के संग्रह को किस अक्षर से दर्शाया जाता है?",
-            "en": "Which letter represents the collection of rational numbers?"
+            "hi": "180° का कोण बनाने वाली रेखा कैसी दिखती है?",
+            "en": "How does a line forming a 180° angle look?"
           },
           "options": [
-            {"hi": "N", "en": "N"},
-            {"hi": "W", "en": "W"},
-            {"hi": "Z", "en": "Z"},
-            {"hi": "Q", "en": "Q"}
+            {"hi": "एकदम सीधी", "en": "Perfectly straight"},
+            {"hi": "मुड़ी हुई", "en": "Bent"},
+            {"hi": "लंबवत", "en": "Perpendicular"},
+            {"hi": "वृत्ताकार", "en": "Circular"}
           ],
-          "answer": {"hi": "Q", "en": "Q"}
+          "answer": {"hi": "एकदम सीधी", "en": "Perfectly straight"}
+        },
+        {
+          "q": {
+            "hi": "30° के कोण की रचना के लिए किस कोण का समद्विभाजन करना होगा?",
+            "en": "Which angle needs to be bisected to construct a 30° angle?"
+          },
+          "options": [
+            {"hi": "90°", "en": "90°"},
+            {"hi": "60°", "en": "60°"},
+            {"hi": "120°", "en": "120°"},
+            {"hi": "45°", "en": "45°"}
+          ],
+          "answer": {"hi": "60°", "en": "60°"}
+        },
+        {
+          "q": {
+            "hi": "ज्यामितीय रचनाओं में 'मुक्त-हस्त' (Free-hand) का क्या अर्थ है?",
+            "en": "What does 'Free-hand' mean in geometric constructions?"
+          },
+          "options": [
+            {"hi": "उपकरणों का प्रयोग करना", "en": "Using instruments"},
+            {"hi": "बिना किसी उपकरण के हाथ से बनाना", "en": "Drawing by hand without any instruments"},
+            {"hi": "पेंसिल का प्रयोग न करना", "en": "Not using a pencil"},
+            {"hi": "गलत चित्र बनाना", "en": "Drawing a wrong figure"}
+          ],
+          "answer": {"hi": "बिना किसी उपकरण के हाथ से बनाना", "en": "Drawing by hand without any instruments"}
+        },
+        {
+          "q": {
+            "hi": "परकार के दूसरे सिरे पर क्या लगाया जाता है?",
+            "en": "What is attached to the other end of the compass?"
+          },
+          "options": [
+            {"hi": "रबर", "en": "Eraser"},
+            {"hi": "पेंसिल", "en": "Pencil"},
+            {"hi": "पेन", "en": "Pen"},
+            {"hi": "स्केल", "en": "Scale"}
+          ],
+          "answer": {"hi": "पेंसिल", "en": "Pencil"}
+        },
+        {
+          "q": {
+            "hi": "रचना 'घर' (आकृति 8.1) में दीवारों के लिए किस आकृति का प्रयोग किया गया है?",
+            "en": "In the construction 'House' (Fig 8.1), which shape is used for the walls?"
+          },
+          "options": [
+            {"hi": "वृत्त", "en": "Circle"},
+            {"hi": "त्रिभुज", "en": "Triangle"},
+            {"hi": "वर्ग या आयत", "en": "Square or rectangle"},
+            {"hi": "विषमकोण", "en": "Rhombus"}
+          ],
+          "answer": {"hi": "वर्ग या आयत", "en": "Square or rectangle"}
+        }
+      ],
+      "section5": [
+        {
+          "q": {
+            "hi": "क्या एक ही केंद्र से अलग-अलग त्रिज्याओं के वृत्त खींचे जा सकते हैं?",
+            "en": "Can circles of different radii be drawn from the same center?"
+          },
+          "options": [
+            {"hi": "हाँ (इन्हें संकेंद्रित वृत्त कहते हैं)", "en": "Yes (these are called concentric circles)"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "केवल दो", "en": "Only two"},
+            {"hi": "केवल छोटे वृत्त", "en": "Only small circles"}
+          ],
+          "answer": {"hi": "हाँ (इन्हें संकेंद्रित वृत्त कहते हैं)", "en": "Yes (these are called concentric circles)"}
+        },
+        {
+          "q": {
+            "hi": "45° के कोण की रचना के लिए किसका समद्विभाजन किया जाता है?",
+            "en": "Which angle is bisected to construct a 45° angle?"
+          },
+          "options": [
+            {"hi": "60°", "en": "60°"},
+            {"hi": "90°", "en": "90°"},
+            {"hi": "30°", "en": "30°"},
+            {"hi": "180°", "en": "180°"}
+          ],
+          "answer": {"hi": "90°", "en": "90°"}
+        },
+        {
+          "q": {
+            "hi": "रचनाओं में सफाई (Cleanliness) क्यों महत्वपूर्ण है?",
+            "en": "Why is cleanliness important in constructions?"
+          },
+          "options": [
+            {"hi": "ताकि चित्र सुंदर दिखे", "en": "So the figure looks beautiful"},
+            {"hi": "ताकि माप सटीक और स्पष्ट हो", "en": "So the measurements are accurate and clear"},
+            {"hi": "ताकि कम कागज लगे", "en": "To use less paper"},
+            {"hi": "महत्वपूर्ण नहीं है", "en": "Not important"}
+          ],
+          "answer": {"hi": "ताकि माप सटीक और स्पष्ट हो", "en": "So the measurements are accurate and clear"}
+        },
+        {
+          "q": {
+            "hi": "परकार के दोनों सिरों के बीच की दूरी को क्या माना जाता है?",
+            "en": "The distance between the two ends of the compass is considered as what?"
+          },
+          "options": [
+            {"hi": "त्रिज्या (Radius)", "en": "Radius"},
+            {"hi": "व्यास", "en": "Diameter"},
+            {"hi": "परिधि", "en": "Circumference"},
+            {"hi": "जीवा", "en": "Chord"}
+          ],
+          "answer": {"hi": "त्रिज्या (Radius)", "en": "Radius"}
+        },
+        {
+          "q": {
+            "hi": "रूलर पर अंक किस इकाई में होते हैं?",
+            "en": "In which unit are the markings on a ruler?"
+          },
+          "options": [
+            {"hi": "किलोमीटर", "en": "Kilometer"},
+            {"hi": "सेंटीमीटर और इंच", "en": "Centimeter and inch"},
+            {"hi": "लीटर", "en": "Liter"},
+            {"hi": "ग्राम", "en": "Gram"}
+          ],
+          "answer": {"hi": "सेंटीमीटर और इंच", "en": "Centimeter and inch"}
+        },
+        {
+          "q": {
+            "hi": "दो चाप जहाँ एक-दूसरे को काटते हैं, वह बिंदु क्या कहलाता है?",
+            "en": "What is the point where two arcs intersect each other called?"
+          },
+          "options": [
+            {"hi": "केंद्र", "en": "Center"},
+            {"hi": "प्रतिच्छेद बिंदु (Intersection point)", "en": "Intersection point"},
+            {"hi": "शून्य बिंदु", "en": "Zero point"},
+            {"hi": "अंत बिंदु", "en": "End point"}
+          ],
+          "answer": {"hi": "प्रतिच्छेद बिंदु (Intersection point)", "en": "Intersection point"}
+        },
+        {
+          "q": {
+            "hi": "क्या परकार की सहायता से एक सीधी रेखा खींची जा सकती है?",
+            "en": "Can a straight line be drawn using a compass?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं (इसके लिए रूलर चाहिए)", "en": "No (a ruler is needed for this)"},
+            {"hi": "केवल छोटी रेखा", "en": "Only a short line"},
+            {"hi": "पेंसिल हटाकर", "en": "By removing the pencil"}
+          ],
+          "answer": {"hi": "नहीं (इसके लिए रूलर चाहिए)", "en": "No (a ruler is needed for this)"}
+        },
+        {
+          "q": {
+            "hi": "150° का कोण किन दो कोणों के बीच आता है?",
+            "en": "Between which two angles does a 150° angle fall?"
+          },
+          "options": [
+            {"hi": "90° और 120°", "en": "90° and 120°"},
+            {"hi": "120° और 180°", "en": "120° and 180°"},
+            {"hi": "0° और 90°", "en": "0° and 90°"},
+            {"hi": "60° और 90°", "en": "60° and 90°"}
+          ],
+          "answer": {"hi": "120° और 180°", "en": "120° and 180°"}
+        },
+        {
+          "q": {
+            "hi": "एक पूर्ण वृत्त (Full Circle) कितने डिग्री का होता है?",
+            "en": "How many degrees are in a full circle?"
+          },
+          "options": [
+            {"hi": "90°", "en": "90°"},
+            {"hi": "180°", "en": "180°"},
+            {"hi": "360°", "en": "360°"},
+            {"hi": "270°", "en": "270°"}
+          ],
+          "answer": {"hi": "360°", "en": "360°"}
+        },
+        {
+          "q": {
+            "hi": "रचना 'घर' समस्या में प्रयुक्त बिंदुओं को खोजने के लिए किस विधि का प्रयोग किया जा सकता है?",
+            "en": "Which method can be used to find the points used in the 'House' problem?"
+          },
+          "options": [
+            {"hi": "अनुमान विधि", "en": "Estimation method"},
+            {"hi": "परकार से समान दूरी का चाप", "en": "Equal distance arc with compass"},
+            {"hi": "केवल स्केल से", "en": "Only with a scale"},
+            {"hi": "हाथ से बिंदु अंकित करना", "en": "Marking points by hand"}
+          ],
+          "answer": {"hi": "परकार से समान दूरी का चाप", "en": "Equal distance arc with compass"}
         }
       ]
     },
