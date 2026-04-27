@@ -2652,661 +2652,663 @@
       "section1": [
         {
           "q": {
-            "hi": "एक रेखा के कितने अंत बिंदु होते हैं?",
-            "en": "How many end points does a line have?"
+            "hi": "वे संख्याएँ जिनके केवल दो गुणनखंड (1 और स्वयं वह संख्या) होते हैं, क्या कहलाती हैं?",
+            "en": "Numbers that have only two factors (1 and the number itself) are called?"
           },
           "options": [
-            {"hi": "एक", "en": "One"},
-            {"hi": "दो", "en": "Two"},
-            {"hi": "कोई नहीं", "en": "None"},
-            {"hi": "अपरिमित", "en": "Infinite"}
+            {"hi": "भाज्य संख्याएँ", "en": "Composite numbers"},
+            {"hi": "अभाज्य संख्याएँ", "en": "Prime numbers"},
+            {"hi": "सम संख्याएँ", "en": "Even numbers"},
+            {"hi": "विषम संख्याएँ", "en": "Odd numbers"}
           ],
-          "answer": {"hi": "कोई नहीं", "en": "None"}
+          "answer": {"hi": "अभाज्य संख्याएँ", "en": "Prime numbers"}
         },
         {
           "q": {
-            "hi": "एक किरण (Ray) के कितने अंत बिंदु होते हैं?",
-            "en": "How many end points does a ray have?"
+            "hi": "सबसे छोटी अभाज्य संख्या कौन सी है?",
+            "en": "Which is the smallest prime number?"
           },
           "options": [
-            {"hi": "एक", "en": "One"},
-            {"hi": "दो", "en": "Two"},
-            {"hi": "कोई नहीं", "en": "None"},
-            {"hi": "तीन", "en": "Three"}
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "3", "en": "3"},
+            {"hi": "4", "en": "4"}
           ],
-          "answer": {"hi": "एक", "en": "One"}
+          "answer": {"hi": "2", "en": "2"}
         },
         {
           "q": {
-            "hi": "दो कोणों को पूरक (Complementary) तब कहा जाता है जब उनके मापों का योग कितना हो?",
-            "en": "Two angles are called complementary when the sum of their measures is?"
+            "hi": "वह संख्या जिसके दो से अधिक गुणनखंड होते हैं, उसे क्या कहते हैं?",
+            "en": "A number that has more than two factors is called?"
           },
           "options": [
-            {"hi": "180°", "en": "180°"},
-            {"hi": "90°", "en": "90°"},
-            {"hi": "360°", "en": "360°"},
-            {"hi": "45°", "en": "45°"}
+            {"hi": "अभाज्य संख्या", "en": "Prime number"},
+            {"hi": "भाज्य संख्या", "en": "Composite number"},
+            {"hi": "विषम संख्या", "en": "Odd number"},
+            {"hi": "पूर्ण संख्या", "en": "Whole number"}
           ],
-          "answer": {"hi": "90°", "en": "90°"}
+          "answer": {"hi": "भाज्य संख्या", "en": "Composite number"}
         },
         {
           "q": {
-            "hi": "दो कोणों को संपूरक (Supplementary) तब कहा जाता है जब उनके मापों का योग कितना हो?",
-            "en": "Two angles are called supplementary when the sum of their measures is?"
+            "hi": "संख्या 1 किस श्रेणी में आती है?",
+            "en": "In which category does the number 1 fall?"
           },
           "options": [
-            {"hi": "90°", "en": "90°"},
-            {"hi": "180°", "en": "180°"},
-            {"hi": "100°", "en": "100°"},
-            {"hi": "270°", "en": "270°"}
+            {"hi": "अभाज्य संख्या", "en": "Prime number"},
+            {"hi": "भाज्य संख्या", "en": "Composite number"},
+            {"hi": "न तो अभाज्य और न ही भाज्य", "en": "Neither prime nor composite"},
+            {"hi": "सम संख्या", "en": "Even number"}
           ],
-          "answer": {"hi": "180°", "en": "180°"}
+          "answer": {"hi": "न तो अभाज्य और न ही भाज्य", "en": "Neither prime nor composite"}
         },
         {
           "q": {
-            "hi": "60° के कोण का पूरक कोण क्या होगा?",
-            "en": "What will be the complementary angle of 60°?"
+            "hi": "एकमात्र सम (Even) अभाज्य संख्या कौन सी है?",
+            "en": "Which is the only even prime number?"
           },
           "options": [
-            {"hi": "30°", "en": "30°"},
-            {"hi": "120°", "en": "120°"},
-            {"hi": "60°", "en": "60°"},
-            {"hi": "90°", "en": "90°"}
+            {"hi": "4", "en": "4"},
+            {"hi": "6", "en": "6"},
+            {"hi": "2", "en": "2"},
+            {"hi": "0", "en": "0"}
           ],
-          "answer": {"hi": "30°", "en": "30°"}
+          "answer": {"hi": "2", "en": "2"}
         },
         {
           "q": {
-            "hi": "100° के कोण का संपूरक कोण क्या होगा?",
-            "en": "What will be the supplementary angle of 100°?"
+            "hi": "यदि संख्या 4, 12 को विभाजित करती है, तो 4 को 12 का क्या कहा जाएगा?",
+            "en": "If number 4 divides 12, what is 4 called in relation to 12?"
           },
           "options": [
-            {"hi": "80°", "en": "80°"},
-            {"hi": "100°", "en": "100°"},
-            {"hi": "200°", "en": "200°"},
-            {"hi": "10°", "en": "10°"}
+            {"hi": "गुणज (Multiple)", "en": "Multiple"},
+            {"hi": "गुणनखंड (Factor)", "en": "Factor"},
+            {"hi": "योगफल", "en": "Sum"},
+            {"hi": "भागफल", "en": "Quotient"}
           ],
-          "answer": {"hi": "80°", "en": "80°"}
+          "answer": {"hi": "गुणनखंड (Factor)", "en": "Factor"}
         },
         {
           "q": {
-            "hi": "आसन्न कोणों (Adjacent angles) में क्या उभयनिष्ठ (Common) होता है?",
-            "en": "What is common in adjacent angles?"
+            "hi": "3 के प्रथम तीन गुणज (Multiples) कौन से हैं?",
+            "en": "What are the first three multiples of 3?"
           },
           "options": [
-            {"hi": "उभयनिष्ठ शीर्ष", "en": "Common vertex"},
-            {"hi": "उभयनिष्ठ भुजा", "en": "Common arm"},
-            {"hi": "उपर्युक्त दोनों", "en": "Both of the above"},
-            {"hi": "कोई नहीं", "en": "None"}
+            {"hi": "1, 2, 3", "en": "1, 2, 3"},
+            {"hi": "3, 6, 9", "en": "3, 6, 9"},
+            {"hi": "3, 5, 7", "en": "3, 5, 7"},
+            {"hi": "9, 12, 15", "en": "9, 12, 15"}
           ],
-          "answer": {"hi": "उपर्युक्त दोनों", "en": "Both of the above"}
+          "answer": {"hi": "3, 6, 9", "en": "3, 6, 9"}
         },
         {
           "q": {
-            "hi": "एक 'रैखिक युग्म' (Linear pair) बनाने वाले दो कोणों का योग कितना होता है?",
-            "en": "What is the sum of two angles forming a 'linear pair'?"
+            "hi": "वह कौन-सी पहली संख्या है जो 3 और 5 दोनों का गुणज है?",
+            "en": "Which is the first number that is a multiple of both 3 and 5?"
           },
           "options": [
-            {"hi": "90°", "en": "90°"},
-            {"hi": "180°", "en": "180°"},
-            {"hi": "360°", "en": "360°"},
-            {"hi": "270°", "en": "270°"}
+            {"hi": "8", "en": "8"},
+            {"hi": "10", "en": "10"},
+            {"hi": "15", "en": "15"},
+            {"hi": "30", "en": "30"}
           ],
-          "answer": {"hi": "180°", "en": "180°"}
+          "answer": {"hi": "15", "en": "15"}
         },
         {
           "q": {
-            "hi": "शीर्षाभिमुख कोण (Vertically opposite angles) हमेशा क्या होते हैं?",
-            "en": "Vertically opposite angles are always?"
+            "hi": "84 को 2 x 2 x 3 x 7 के रूप में लिखना क्या कहलाता है?",
+            "en": "Writing 84 as 2 x 2 x 3 x 7 is called?"
           },
           "options": [
-            {"hi": "असमान", "en": "Unequal"},
-            {"hi": "समान", "en": "Equal"},
-            {"hi": "पूरक", "en": "Complementary"},
-            {"hi": "90°", "en": "90°"}
+            {"hi": "जोड़ना", "en": "Addition"},
+            {"hi": "अभाज्य गुणनखंडन", "en": "Prime Factorisation"},
+            {"hi": "विभाजन", "en": "Division"},
+            {"hi": "आकलन", "en": "Estimation"}
           ],
-          "answer": {"hi": "समान", "en": "Equal"}
+          "answer": {"hi": "अभाज्य गुणनखंडन", "en": "Prime Factorisation"}
         },
         {
           "q": {
-            "hi": "यदि दो रेखाएँ एक-दूसरे को एक बिंदु पर प्रतिच्छेद करती हैं, तो शीर्षाभिमुख कोण क्या कहलाते हैं?",
-            "en": "If two lines intersect at a point, what are the vertically opposite angles called?"
+            "hi": "संख्या 15 के गुणनखंड कौन-से हैं?",
+            "en": "What are the factors of 15?"
           },
           "options": [
-            {"hi": "पूरक", "en": "Complementary"},
-            {"hi": "आसन्न", "en": "Adjacent"},
-            {"hi": "शीर्षाभिमुख", "en": "Vertically opposite"},
-            {"hi": "संपूरक", "en": "Supplementary"}
+            {"hi": "1, 3, 5, 15", "en": "1, 3, 5, 15"},
+            {"hi": "3, 5, 10", "en": "3, 5, 10"},
+            {"hi": "1, 15", "en": "1, 15"},
+            {"hi": "5, 10, 15", "en": "5, 10, 15"}
           ],
-          "answer": {"hi": "शीर्षाभिमुख", "en": "Vertically opposite"}
+          "answer": {"hi": "1, 3, 5, 15", "en": "1, 3, 5, 15"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "वह रेखा जो दो या अधिक रेखाओं को भिन्न बिंदुओं पर काटती है, क्या कहलाती है?",
-            "en": "A line that intersects two or more lines at distinct points is called?"
+            "hi": "निम्न में से कौन-सी संख्या अभाज्य है?",
+            "en": "Which of the following numbers is prime?"
           },
           "options": [
-            {"hi": "समांतर रेखा", "en": "Parallel line"},
-            {"hi": "तिर्यक छेदी रेखा", "en": "Transversal line"},
-            {"hi": "लंब रेखा", "en": "Perpendicular line"},
-            {"hi": "किरण", "en": "Ray"}
+            {"hi": "9", "en": "9"},
+            {"hi": "15", "en": "15"},
+            {"hi": "17", "en": "17"},
+            {"hi": "21", "en": "21"}
           ],
-          "answer": {"hi": "तिर्यक छेदी रेखा", "en": "Transversal line"}
+          "answer": {"hi": "17", "en": "17"}
         },
         {
           "q": {
-            "hi": "यदि दो समांतर रेखाओं को एक तिर्यक छेदी रेखा काटती है, तो संगत कोण (Corresponding angles) क्या होते हैं?",
-            "en": "If two parallel lines are cut by a transversal, corresponding angles are?"
+            "hi": "1 से 10 के बीच कितनी अभाज्य संख्याएँ हैं?",
+            "en": "How many prime numbers are between 1 and 10?"
           },
           "options": [
-            {"hi": "असमान", "en": "Unequal"},
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "पूरक", "en": "Complementary"},
-            {"hi": "90°", "en": "90°"}
+            {"hi": "3", "en": "3"},
+            {"hi": "4", "en": "4"},
+            {"hi": "5", "en": "5"},
+            {"hi": "2", "en": "2"}
           ],
-          "answer": {"hi": "बराबर", "en": "Equal"}
+          "answer": {"hi": "4", "en": "4"}
         },
         {
           "q": {
-            "hi": "दो समांतर रेखाओं के बीच बने अंतः एकांतर कोण (Alternate interior angles) कैसे होते हैं?",
-            "en": "How are the alternate interior angles formed between two parallel lines?"
+            "hi": "सबसे छोटी भाज्य संख्या कौन-सी है?",
+            "en": "Which is the smallest composite number?"
           },
           "options": [
-            {"hi": "समान", "en": "Equal"},
-            {"hi": "असमान", "en": "Unequal"},
-            {"hi": "180°", "en": "180°"},
-            {"hi": "शून्य", "en": "Zero"}
+            {"hi": "2", "en": "2"},
+            {"hi": "3", "en": "3"},
+            {"hi": "4", "en": "4"},
+            {"hi": "6", "en": "6"}
           ],
-          "answer": {"hi": "समान", "en": "Equal"}
+          "answer": {"hi": "4", "en": "4"}
+        },
+        {
+          "hi": "दो अभाज्य संख्याएँ जिनका अंतर 2 होता है (जैसे 3, 5), क्या कहलाती हैं?",
+          "en": "Two prime numbers with a difference of 2 (like 3, 5) are called?"
         },
         {
           "q": {
-            "hi": "तिर्यक छेदी रेखा के एक ही तरफ बने अंतःकोणों का योग कितना होता है (समांतर रेखाओं के लिए)?",
-            "en": "What is the sum of interior angles on the same side of the transversal (for parallel lines)?"
+            "hi": "सह-अभाज्य संख्याएँ", "en": "Co-prime numbers"
           },
           "options": [
-            {"hi": "90°", "en": "90°"},
-            {"hi": "180°", "en": "180°"},
-            {"hi": "360°", "en": "360°"},
-            {"hi": "समान", "en": "Equal"}
+            {"hi": "जुड़वाँ अभाज्य (Twin primes)", "en": "Twin primes"},
+            {"hi": "सम संख्याएँ", "en": "Even numbers"},
+            {"hi": "पूर्ण संख्याएँ", "en": "Whole numbers"}
           ],
-          "answer": {"hi": "180°", "en": "180°"}
+          "answer": {"hi": "जुड़वाँ अभाज्य (Twin primes)", "en": "Twin primes"}
         },
         {
           "q": {
-            "hi": "यदि संगत कोणों का एक युग्म बराबर है, तो रेखाएँ कैसी होंगी?",
-            "en": "If a pair of corresponding angles is equal, then the lines will be?"
+            "hi": "संख्या 10 के गुणनखंडों का योग क्या है?",
+            "en": "What is the sum of the factors of 10?"
           },
           "options": [
-            {"hi": "समांतर", "en": "Parallel"},
-            {"hi": "प्रतिच्छेदी", "en": "Intersecting"},
-            {"hi": "लंब", "en": "Perpendicular"},
-            {"hi": "तिर्यक", "en": "Transversal"}
+            {"hi": "10", "en": "10"},
+            {"hi": "17", "en": "17"},
+            {"hi": "18", "en": "18"},
+            {"hi": "15", "en": "15"}
           ],
-          "answer": {"hi": "समांतर", "en": "Parallel"}
+          "answer": {"hi": "18", "en": "18"}
         },
         {
           "q": {
-            "hi": "क्या दो न्यून कोण एक-दूसरे के संपूरक हो सकते हैं?",
-            "en": "Can two acute angles be supplementary to each other?"
+            "hi": "इनमें से कौन-सा 5 का गुणज नहीं है?",
+            "en": "Which of these is not a multiple of 5?"
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "हमेशा", "en": "Always"},
-            {"hi": "कह नहीं सकते", "en": "Can't say"}
+            {"hi": "15", "en": "15"},
+            {"hi": "20", "en": "20"},
+            {"hi": "23", "en": "23"},
+            {"hi": "25", "en": "25"}
           ],
-          "answer": {"hi": "नहीं", "en": "No"}
+          "answer": {"hi": "23", "en": "23"}
         },
         {
           "q": {
-            "hi": "दो अधिक कोणों का योग हमेशा किससे अधिक होगा?",
-            "en": "The sum of two obtuse angles will always be greater than?"
+            "hi": "प्रत्येक संख्या स्वयं का एक ______ होती है।",
+            "en": "Every number is a ______ of itself."
           },
           "options": [
-            {"hi": "90°", "en": "90°"},
-            {"hi": "180°", "en": "180°"},
-            {"hi": "360°", "en": "360°"},
-            {"hi": "270°", "en": "270°"}
+            {"hi": "गुणनखंड", "en": "Factor"},
+            {"hi": "गुणज", "en": "Multiple"},
+            {"hi": "दोनों (गुणनखंड और गुणज)", "en": "Both (Factor and Multiple)"},
+            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
           ],
-          "answer": {"hi": "180°", "en": "180°"}
+          "answer": {"hi": "दोनों (गुणनखंड और गुणज)", "en": "Both (Factor and Multiple)"}
         },
         {
           "q": {
-            "hi": "एक समकोण का संपूरक कोण क्या होगा?",
-            "en": "What will be the supplementary angle of a right angle?"
+            "hi": "6 के सभी गुणनखंडों की सूची क्या है?",
+            "en": "What is the list of all factors of 6?"
           },
           "options": [
-            {"hi": "न्यून कोण", "en": "Acute angle"},
-            {"hi": "अधिक कोण", "en": "Obtuse angle"},
-            {"hi": "समकोण (90°)", "en": "Right angle (90°)"},
-            {"hi": "शून्य कोण", "en": "Zero angle"}
+            {"hi": "1, 2, 3, 6", "en": "1, 2, 3, 6"},
+            {"hi": "2, 3", "en": "2, 3"},
+            {"hi": "1, 6", "en": "1, 6"},
+            {"hi": "0, 6", "en": "0, 6"}
           ],
-          "answer": {"hi": "समकोण (90°)", "en": "Right angle (90°)"}
+          "answer": {"hi": "1, 2, 3, 6", "en": "1, 2, 3, 6"}
         },
         {
           "q": {
-            "hi": "यदि दो रेखाएँ प्रतिच्छेद नहीं करती हैं और एक ही तल में हैं, तो वे क्या कहलाती हैं?",
-            "en": "If two lines do not intersect and are in the same plane, what are they called?"
+            "hi": "100 से छोटी सबसे बड़ी अभाज्य संख्या कौन-सी है?",
+            "en": "Which is the largest prime number less than 100?"
           },
           "options": [
-            {"hi": "लंब रेखाएँ", "en": "Perpendicular lines"},
-            {"hi": "समांतर रेखाएँ", "en": "Parallel lines"},
-            {"hi": "तिर्यक रेखाएँ", "en": "Transversal lines"},
-            {"hi": "किरणें", "en": "Rays"}
+            {"hi": "91", "en": "91"},
+            {"hi": "93", "en": "93"},
+            {"hi": "97", "en": "97"},
+            {"hi": "99", "en": "99"}
           ],
-          "answer": {"hi": "समांतर रेखाएँ", "en": "Parallel lines"}
+          "answer": {"hi": "97", "en": "97"}
         },
         {
           "q": {
-            "hi": "45° के कोण का पूरक कोण क्या है?",
-            "en": "What is the complementary angle of 45°?"
+            "hi": "निम्न में से कौन-सी संख्या भाज्य (Composite) है?",
+            "en": "Which of the following numbers is composite?"
           },
           "options": [
-            {"hi": "45°", "en": "45°"},
-            {"hi": "90°", "en": "90°"},
-            {"hi": "135°", "en": "135°"},
-            {"hi": "180°", "en": "180°"}
+            {"hi": "2", "en": "2"},
+            {"hi": "3", "en": "3"},
+            {"hi": "5", "en": "5"},
+            {"hi": "9", "en": "9"}
           ],
-          "answer": {"hi": "45°", "en": "45°"}
+          "answer": {"hi": "9", "en": "9"}
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "एक रेखाखंड के कितने अंत बिंदु होते हैं?",
-            "en": "How many end points does a line segment have?"
+            "hi": "अभाज्य गुणनखंडन में केवल ______ संख्याओं का उपयोग किया जाता है।",
+            "en": "In prime factorisation, only ______ numbers are used."
           },
           "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "2", "en": "2"},
-            {"hi": "0", "en": "0"},
-            {"hi": "असीमित", "en": "Unlimited"}
+            {"hi": "सम", "en": "Even"},
+            {"hi": "अभाज्य", "en": "Prime"},
+            {"hi": "भाज्य", "en": "Composite"},
+            {"hi": "विषम", "en": "Odd"}
           ],
-          "answer": {"hi": "2", "en": "2"}
+          "answer": {"hi": "अभाज्य", "en": "Prime"}
         },
         {
           "q": {
-            "hi": "दो कोणों को आसन्न कहा जाता है यदि उनके पास एक उभयनिष्ठ भुजा और एक उभयनिष्ठ ________ हो।",
-            "en": "Two angles are called adjacent if they have a common arm and a common ________."
+            "hi": "12 के अभाज्य गुणनखंड क्या हैं?",
+            "en": "What are the prime factors of 12?"
           },
           "options": [
-            {"hi": "कोण", "en": "Angle"},
-            {"hi": "शीर्ष", "en": "Vertex"},
-            {"hi": "तल", "en": "Plane"},
-            {"hi": "रेखा", "en": "Line"}
+            {"hi": "2, 2, 3", "en": "2, 2, 3"},
+            {"hi": "3, 4", "en": "3, 4"},
+            {"hi": "2, 6", "en": "2, 6"},
+            {"hi": "1, 12", "en": "1, 12"}
           ],
-          "answer": {"hi": "शीर्ष", "en": "Vertex"}
+          "answer": {"hi": "2, 2, 3", "en": "2, 2, 3"}
         },
         {
           "q": {
-            "hi": "यदि एक किरण एक रेखा पर खड़ी हो, तो बनने वाले दो आसन्न कोणों का योग कितना होता है?",
-            "en": "If a ray stands on a line, what is the sum of the two adjacent angles formed?"
+            "hi": "दो लगातार अभाज्य संख्याएँ कौन-सी हैं?",
+            "en": "Which are two consecutive prime numbers?"
           },
           "options": [
-            {"hi": "90°", "en": "90°"},
-            {"hi": "180°", "en": "180°"},
-            {"hi": "360°", "en": "360°"},
-            {"hi": "0°", "en": "0°"}
+            {"hi": "1, 2", "en": "1, 2"},
+            {"hi": "2, 3", "en": "2, 3"},
+            {"hi": "3, 5", "en": "3, 5"},
+            {"hi": "7, 9", "en": "7, 9"}
           ],
-          "answer": {"hi": "180°", "en": "180°"}
+          "answer": {"hi": "2, 3", "en": "2, 3"}
         },
         {
           "q": {
-            "hi": "दो रेखाओं के प्रतिच्छेद करने पर बने आमने-सामने के कोण क्या कहलाते हैं?",
-            "en": "What are the opposite angles formed when two lines intersect called?"
-          },
-          "options": [
-            {"hi": "संगत कोण", "en": "Corresponding angles"},
-            {"hi": "एकांतर कोण", "en": "Alternate angles"},
-            {"hi": "शीर्षाभिमुख कोण", "en": "Vertically opposite angles"},
-            {"hi": "पूरक कोण", "en": "Complementary angles"}
-          ],
-          "answer": {"hi": "शीर्षाभिमुख कोण", "en": "Vertically opposite angles"}
-        },
-        {
-          "q": {
-            "hi": "यदि $\\angle1$ और $\\angle2$ पूरक हैं, तो $\\angle1 + \\angle2$ = ?",
-            "en": "If $\\angle1$ and $\\angle2$ are complementary, then $\\angle1 + \\angle2$ = ?"
-          },
-          "options": [
-            {"hi": "180°", "en": "180°"},
-            {"hi": "90°", "en": "90°"},
-            {"hi": "45°", "en": "45°"},
-            {"hi": "360°", "en": "360°"}
-          ],
-          "answer": {"hi": "90°", "en": "90°"}
-        },
-        {
-          "q": {
-            "hi": "दो समांतर रेखाओं को काटने वाली तिर्यक रेखा द्वारा बने बाह्य एकांतर कोण क्या होते हैं?",
-            "en": "What are the alternate exterior angles formed by a transversal cutting two parallel lines?"
-          },
-          "options": [
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "असमान", "en": "Unequal"},
-            {"hi": "संपूरक", "en": "Supplementary"},
-            {"hi": "पूरक", "en": "Complementary"}
-          ],
-          "answer": {"hi": "बराबर", "en": "Equal"}
-        },
-        {
-          "q": {
-            "hi": "90° से कम माप वाले कोण को क्या कहते हैं?",
-            "en": "What is an angle measuring less than 90° called?"
-          },
-          "options": [
-            {"hi": "अधिक कोण", "en": "Obtuse angle"},
-            {"hi": "न्यून कोण", "en": "Acute angle"},
-            {"hi": "समकोण", "en": "Right angle"},
-            {"hi": "सरल कोण", "en": "Straight angle"}
-          ],
-          "answer": {"hi": "न्यून कोण", "en": "Acute angle"}
-        },
-        {
-          "q": {
-            "hi": "90° और 180° के बीच के माप वाले कोण को क्या कहते हैं?",
-            "en": "What is an angle measuring between 90° and 180° called?"
-          },
-          "options": [
-            {"hi": "न्यून कोण", "en": "Acute angle"},
-            {"hi": "अधिक कोण", "en": "Obtuse angle"},
-            {"hi": "समकोण", "en": "Right angle"},
-            {"hi": "वृहत कोण", "en": "Reflex angle"}
-          ],
-          "answer": {"hi": "अधिक कोण", "en": "Obtuse angle"}
-        },
-        {
-          "q": {
-            "hi": "180° के माप वाले कोण को क्या कहते हैं?",
-            "en": "What is an angle measuring 180° called?"
-          },
-          "options": [
-            {"hi": "समकोण", "en": "Right angle"},
-            {"hi": "सरल कोण", "en": "Straight angle"},
-            {"hi": "अधिक कोण", "en": "Obtuse angle"},
-            {"hi": "वृहत कोण", "en": "Reflex angle"}
-          ],
-          "answer": {"hi": "सरल कोण", "en": "Straight angle"}
-        },
-        {
-          "q": {
-            "hi": "समांतर रेखाओं के बीच की दूरी हमेशा ________ रहती है।",
-            "en": "The distance between parallel lines always remains ________."
-          },
-          "options": [
-            {"hi": "बदलती", "en": "Changing"},
-            {"hi": "समान", "en": "Same/Constant"},
-            {"hi": "शून्य", "en": "Zero"},
-            {"hi": "बढ़ती", "en": "Increasing"}
-          ],
-          "answer": {"hi": "समान", "en": "Same/Constant"}
-        }
-      ],
-      "section4": [
-        {
-          "q": {
-            "hi": "एक बिंदु के चारों ओर बने सभी कोणों का योग कितना होता है?",
-            "en": "What is the sum of all angles formed around a point?"
-          },
-          "options": [
-            {"hi": "180°", "en": "180°"},
-            {"hi": "360°", "en": "360°"},
-            {"hi": "90°", "en": "90°"},
-            {"hi": "270°", "en": "270°"}
-          ],
-          "answer": {"hi": "360°", "en": "360°"}
-        },
-        {
-          "q": {
-            "hi": "एक अधिक कोण का संपूरक कोण हमेशा कैसा होगा?",
-            "en": "What will be the supplementary angle of an obtuse angle?"
-          },
-          "options": [
-            {"hi": "अधिक कोण", "en": "Obtuse angle"},
-            {"hi": "न्यून कोण", "en": "Acute angle"},
-            {"hi": "समकोण", "en": "Right angle"},
-            {"hi": "सरल कोण", "en": "Straight angle"}
-          ],
-          "answer": {"hi": "न्यून कोण", "en": "Acute angle"}
-        },
-        {
-          "q": {
-            "hi": "एक न्यून कोण का पूरक कोण हमेशा कैसा होगा?",
-            "en": "What will be the complementary angle of an acute angle?"
-          },
-          "options": [
-            {"hi": "न्यून कोण", "en": "Acute angle"},
-            {"hi": "अधिक कोण", "en": "Obtuse angle"},
-            {"hi": "समकोण", "en": "Right angle"},
-            {"hi": "वृहत कोण", "en": "Reflex angle"}
-          ],
-          "answer": {"hi": "न्यून कोण", "en": "Acute angle"}
-        },
-        {
-          "q": {
-            "hi": "यदि $\\angle A = 70^\\circ$ है और $\\angle B$ इसका संपूरक है, तो $\\angle B$ का मान क्या है?",
-            "en": "If $\\angle A = 70^\\circ$ and $\\angle B$ is its supplement, what is the value of $\\angle B$?"
-          },
-          "options": [
-            {"hi": "20°", "en": "20°"},
-            {"hi": "110°", "en": "110°"},
-            {"hi": "180°", "en": "180°"},
-            {"hi": "70°", "en": "70°"}
-          ],
-          "answer": {"hi": "110°", "en": "110°"}
-        },
-        {
-          "q": {
-            "hi": "यदि $\\angle X = 50^\\circ$ है और $\\angle Y$ इसका पूरक है, तो $\\angle Y$ का मान क्या है?",
-            "en": "If $\\angle X = 50^\\circ$ and $\\angle Y$ is its complement, what is the value of $\\angle Y$?"
-          },
-          "options": [
-            {"hi": "40°", "en": "40°"},
-            {"hi": "130°", "en": "130°"},
-            {"hi": "50°", "en": "50°"},
-            {"hi": "90°", "en": "90°"}
-          ],
-          "answer": {"hi": "40°", "en": "40°"}
-        },
-        {
-          "q": {
-            "hi": "शीर्षाभिमुख कोणों के एक युग्म में यदि एक कोण न्यून कोण है, तो दूसरा कैसा होगा?",
-            "en": "In a pair of vertically opposite angles, if one is acute, what will the other be?"
-          },
-          "options": [
-            {"hi": "अधिक कोण", "en": "Obtuse angle"},
-            {"hi": "न्यून कोण", "en": "Acute angle"},
-            {"hi": "समकोण", "en": "Right angle"},
-            {"hi": "सरल कोण", "en": "Straight angle"}
-          ],
-          "answer": {"hi": "न्यून कोण", "en": "Acute angle"}
-        },
-        {
-          "q": {
-            "hi": "अंग्रेजी वर्णमाला का 'Z' अक्षर किन कोणों को दर्शाता है?",
-            "en": "Which angles does the letter 'Z' of English alphabet represent?"
-          },
-          "options": [
-            {"hi": "संगत कोण", "en": "Corresponding angles"},
-            {"hi": "एकांतर कोण", "en": "Alternate angles"},
-            {"hi": "शीर्षाभिमुख कोण", "en": "Vertically opposite angles"},
-            {"hi": "आसन्न कोण", "en": "Adjacent angles"}
-          ],
-          "answer": {"hi": "एकांतर कोण", "en": "Alternate angles"}
-        },
-        {
-          "q": {
-            "hi": "अंग्रेजी वर्णमाला का 'F' अक्षर किन कोणों को दर्शाता है?",
-            "en": "Which angles does the letter 'F' of English alphabet represent?"
-          },
-          "options": [
-            {"hi": "संगत कोण", "en": "Corresponding angles"},
-            {"hi": "एकांतर कोण", "en": "Alternate angles"},
-            {"hi": "रैखिक युग्म", "en": "Linear pair"},
-            {"hi": "पूरक कोण", "en": "Complementary angles"}
-          ],
-          "answer": {"hi": "संगत कोण", "en": "Corresponding angles"}
-        },
-        {
-          "q": {
-            "hi": "दो रेखाएँ जो एक ही रेखा के समांतर हों, वे परस्पर क्या होंगी?",
-            "en": "Two lines which are parallel to the same line are ________ to each other?"
-          },
-          "options": [
-            {"hi": "लंब", "en": "Perpendicular"},
-            {"hi": "समांतर", "en": "Parallel"},
-            {"hi": "तिर्यक", "en": "Transversal"},
-            {"hi": "प्रतिच्छेदी", "en": "Intersecting"}
-          ],
-          "answer": {"hi": "समांतर", "en": "Parallel"}
-        },
-        {
-          "q": {
-            "hi": "रैखिक युग्म के कोण हमेशा ________ होते हैं।",
-            "en": "The angles of a linear pair are always ________."
-          },
-          "options": [
-            {"hi": "पूरक", "en": "Complementary"},
-            {"hi": "संपूरक", "en": "Supplementary"},
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "अधिक कोण", "en": "Obtuse"}
-          ],
-          "answer": {"hi": "संपूरक", "en": "Supplementary"}
-        }
-      ],
-      "section5": [
-        {
-          "q": {
-            "hi": "उस कोण का माप क्या है जो अपने पूरक के बराबर है?",
-            "en": "What is the measure of the angle which is equal to its complement?"
-          },
-          "options": [
-            {"hi": "90°", "en": "90°"},
-            {"hi": "45°", "en": "45°"},
-            {"hi": "180°", "en": "180°"},
-            {"hi": "0°", "en": "0°"}
-          ],
-          "answer": {"hi": "45°", "en": "45°"}
-        },
-        {
-          "q": {
-            "hi": "उस कोण का माप क्या है जो अपने संपूरक के बराबर है?",
-            "en": "What is the measure of the angle which is equal to its supplement?"
-          },
-          "options": [
-            {"hi": "90°", "en": "90°"},
-            {"hi": "180°", "en": "180°"},
-            {"hi": "45°", "en": "45°"},
-            {"hi": "100°", "en": "100°"}
-          ],
-          "answer": {"hi": "90°", "en": "90°"}
-        },
-        {
-          "q": {
-            "hi": "दो समांतर रेखाओं को काटने वाली तिर्यक रेखा के एक ही ओर के अंतःकोण क्या कहलाते हैं?",
-            "en": "What are the interior angles on the same side of a transversal cutting two parallel lines called?"
-          },
-          "options": [
-            {"hi": "क्रमागत अंतःकोण", "en": "Consecutive interior angles"},
-            {"hi": "एकांतर अंतःकोण", "en": "Alternate interior angles"},
-            {"hi": "संगत कोण", "en": "Corresponding angles"},
-            {"hi": "शीर्षाभिमुख कोण", "en": "Vertically opposite angles"}
-          ],
-          "answer": {"hi": "क्रमागत अंतःकोण", "en": "Consecutive interior angles"}
-        },
-        {
-          "q": {
-            "hi": "यदि $\\angle1 = 120^\\circ$ है, तो इसका रैखिक युग्म $\\angle2$ क्या होगा?",
-            "en": "If $\\angle1 = 120^\\circ$, what will be its linear pair $\\angle2$?"
-          },
-          "options": [
-            {"hi": "120°", "en": "120°"},
-            {"hi": "60°", "en": "60°"},
-            {"hi": "180°", "en": "180°"},
-            {"hi": "90°", "en": "90°"}
-          ],
-          "answer": {"hi": "60°", "en": "60°"}
-        },
-        {
-          "q": {
-            "hi": "किसी कोण के शीर्षाभिमुख कोणों के कितने युग्म हो सकते हैं (दो रेखाओं के प्रतिच्छेदन से)?",
-            "en": "How many pairs of vertically opposite angles are there (by intersection of two lines)?"
-          },
-          "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "2", "en": "2"},
-            {"hi": "4", "en": "4"},
-            {"hi": "असीमित", "en": "Unlimited"}
-          ],
-          "answer": {"hi": "2", "en": "2"}
-        },
-        {
-          "q": {
-            "hi": "यदि $\\angle ABC = 70^\\circ$ है और इसकी भुजाएँ दूसरी आकृति के समांतर हैं, तो संगत कोण का मान क्या होगा?",
-            "en": "If $\\angle ABC = 70^\\circ$ and its arms are parallel to another figure, what is the value of corresponding angle?"
-          },
-          "options": [
-            {"hi": "70°", "en": "70°"},
-            {"hi": "110°", "en": "110°"},
-            {"hi": "180°", "en": "180°"},
-            {"hi": "90°", "en": "90°"}
-          ],
-          "answer": {"hi": "70°", "en": "70°"}
-        },
-        {
-          "q": {
-            "hi": "क्या दो समकोण एक-दूसरे के पूरक हो सकते हैं?",
-            "en": "Can two right angles be complementary to each other?"
+            "hi": "क्या सभी विषम संख्याएँ अभाज्य होती हैं?",
+            "en": "Are all odd numbers prime?"
           },
           "options": [
             {"hi": "हाँ", "en": "Yes"},
             {"hi": "नहीं", "en": "No"},
-            {"hi": "कह नहीं सकते", "en": "Can't say"},
-            {"hi": "शून्य होगा", "en": "Will be zero"}
+            {"hi": "कह नहीं सकते", "en": "Cannot say"},
+            {"hi": "केवल 10 से बड़ी", "en": "Only those greater than 10"}
           ],
           "answer": {"hi": "नहीं", "en": "No"}
         },
         {
           "q": {
-            "hi": "180° से अधिक और 360° से कम माप वाले कोण को क्या कहते हैं?",
-            "en": "What is an angle measuring more than 180° and less than 360° called?"
+            "hi": "इडली-वड़ा खेल में, 15 संख्या के लिए क्या बोला जाएगा?",
+            "en": "In the Idli-Vada game, what will be said for the number 15?"
           },
           "options": [
-            {"hi": "वृहत कोण (Reflex angle)", "en": "Reflex angle"},
-            {"hi": "अधिक कोण", "en": "Obtuse angle"},
-            {"hi": "पूर्ण कोण", "en": "Complete angle"},
-            {"hi": "सरल कोण", "en": "Straight angle"}
+            {"hi": "इडली", "en": "Idli"},
+            {"hi": "वड़ा", "en": "Vada"},
+            {"hi": "इडली-वड़ा", "en": "Idli-Vada"},
+            {"hi": "कुछ नहीं", "en": "Nothing"}
           ],
-          "answer": {"hi": "वृहत कोण (Reflex angle)", "en": "Reflex angle"}
+          "answer": {"hi": "इडली-वड़ा", "en": "Idli-Vada"}
         },
         {
           "q": {
-            "hi": "अंग्रेजी वर्णमाला का 'X' अक्षर किन कोणों का उदाहरण है?",
-            "en": "Which angles is the letter 'X' of English alphabet an example of?"
+            "hi": "किसी संख्या का गुणनखंड उस संख्या से ______ होता है।",
+            "en": "A factor of a number is ______ compared to the number."
           },
           "options": [
-            {"hi": "संगत कोण", "en": "Corresponding angles"},
-            {"hi": "शीर्षाभिमुख कोण", "en": "Vertically opposite angles"},
-            {"hi": "एकांतर कोण", "en": "Alternate angles"},
-            {"hi": "पूरक कोण", "en": "Complementary angles"}
+            {"hi": "छोटा या बराबर", "en": "Smaller than or equal to"},
+            {"hi": "हमेशा बड़ा", "en": "Always larger"},
+            {"hi": "हमेशा दोगुना", "en": "Always double"},
+            {"hi": "शून्य", "en": "Zero"}
           ],
-          "answer": {"hi": "शीर्षाभिमुख कोण", "en": "Vertically opposite angles"}
+          "answer": {"hi": "छोटा या बराबर", "en": "Smaller than or equal to"}
         },
         {
           "q": {
-            "hi": "तिर्यक छेदी रेखा द्वारा समांतर रेखाओं पर बने संगत कोणों के कितने युग्म होते हैं?",
-            "en": "How many pairs of corresponding angles are formed by a transversal on parallel lines?"
+            "hi": "किसी संख्या के गुणजों (Multiples) की संख्या कितनी होती है?",
+            "en": "How many multiples does a number have?"
+          },
+          "options": [
+            {"hi": "निश्चित", "en": "Finite"},
+            {"hi": "असीमित (Infinite)", "en": "Infinite"},
+            {"hi": "केवल 10", "en": "Only 10"},
+            {"hi": "शून्य", "en": "Zero"}
+          ],
+          "answer": {"hi": "असीमित (Infinite)", "en": "Infinite"}
+        },
+        {
+          "q": {
+            "hi": "संख्या 25 का सबसे बड़ा गुणनखंड क्या है?",
+            "en": "What is the largest factor of number 25?"
+          },
+          "options": [
+            {"hi": "1", "en": "1"},
+            {"hi": "5", "en": "5"},
+            {"hi": "25", "en": "25"},
+            {"hi": "50", "en": "50"}
+          ],
+          "answer": {"hi": "25", "en": "25"}
+        },
+        {
+          "q": {
+            "hi": "निम्न में से कौन 30 का गुणनखंड नहीं है?",
+            "en": "Which of the following is not a factor of 30?"
           },
           "options": [
             {"hi": "2", "en": "2"},
             {"hi": "4", "en": "4"},
-            {"hi": "8", "en": "8"},
-            {"hi": "1", "en": "1"}
+            {"hi": "5", "en": "5"},
+            {"hi": "6", "en": "6"}
           ],
           "answer": {"hi": "4", "en": "4"}
+        },
+        {
+          "q": {
+            "hi": "20 के अभाज्य गुणनखंड क्या हैं?",
+            "en": "What are the prime factors of 20?"
+          },
+          "options": [
+            {"hi": "2, 10", "en": "2, 10"},
+            {"hi": "4, 5", "en": "4, 5"},
+            {"hi": "2, 2, 5", "en": "2, 2, 5"},
+            {"hi": "1, 20", "en": "1, 20"}
+          ],
+          "answer": {"hi": "2, 2, 5", "en": "2, 2, 5"}
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "वह संख्या जो न तो अभाज्य है और न ही भाज्य:",
+            "en": "The number which is neither prime nor composite:"
+          },
+          "options": [
+            {"hi": "0", "en": "0"},
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "4", "en": "4"}
+          ],
+          "answer": {"hi": "1", "en": "1"}
+        },
+        {
+          "q": {
+            "hi": "20 और 30 के बीच कितनी अभाज्य संख्याएँ हैं?",
+            "en": "How many prime numbers are between 20 and 30?"
+          },
+          "options": [
+            {"hi": "2", "en": "2"},
+            {"hi": "3", "en": "3"},
+            {"hi": "1", "en": "1"},
+            {"hi": "4", "en": "4"}
+          ],
+          "answer": {"hi": "2", "en": "2"}
+        },
+        {
+          "q": {
+            "hi": "प्रथम पाँच अभाज्य संख्याओं का योग क्या है?",
+            "en": "What is the sum of the first five prime numbers?"
+          },
+          "options": [
+            {"hi": "25", "en": "25"},
+            {"hi": "28", "en": "28"},
+            {"hi": "30", "en": "30"},
+            {"hi": "15", "en": "15"}
+          ],
+          "answer": {"hi": "28", "en": "28"}
+        },
+        {
+          "q": {
+            "hi": "क्या 27 एक अभाज्य संख्या है?",
+            "en": "Is 27 a prime number?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं, क्योंकि इसके गुणनखंड 1, 3, 9, 27 हैं", "en": "No, because its factors are 1, 3, 9, 27"},
+            {"hi": "कह नहीं सकते", "en": "Cannot say"},
+            {"hi": "केवल सोमवार को", "en": "Only on Mondays"}
+          ],
+          "answer": {"hi": "नहीं, क्योंकि इसके गुणनखंड 1, 3, 9, 27 हैं", "en": "No, because its factors are 1, 3, 9, 27"}
+        },
+        {
+          "q": {
+            "hi": "दो अभाज्य संख्याओं का योग हमेशा क्या होता है?",
+            "en": "What is the sum of two prime numbers always?"
+          },
+          "options": [
+            {"hi": "हमेशा सम", "en": "Always even"},
+            {"hi": "हमेशा विषम", "en": "Always odd"},
+            {"hi": "सम या विषम दोनों हो सकता है", "en": "Can be both even or odd"},
+            {"hi": "हमेशा अभाज्य", "en": "Always prime"}
+          ],
+          "answer": {"hi": "सम या विषम दोनों हो सकता है", "en": "Can be both even or odd"}
+        },
+        {
+          "q": {
+            "hi": "सबसे छोटा गुणनखंड जो हर संख्या का होता है:",
+            "en": "The smallest factor that every number has:"
+          },
+          "options": [
+            {"hi": "0", "en": "0"},
+            {"hi": "1", "en": "1"},
+            {"hi": "स्वयं वह संख्या", "en": "The number itself"},
+            {"hi": "2", "en": "2"}
+          ],
+          "answer": {"hi": "1", "en": "1"}
+        },
+        {
+          "q": {
+            "hi": "40 का अभाज्य गुणनखंडन है:",
+            "en": "The prime factorisation of 40 is:"
+          },
+          "options": [
+            {"hi": "2 x 2 x 2 x 5", "en": "2 x 2 x 2 x 5"},
+            {"hi": "4 x 10", "en": "4 x 10"},
+            {"hi": "2 x 20", "en": "2 x 20"},
+            {"hi": "8 x 5", "en": "8 x 5"}
+          ],
+          "answer": {"hi": "2 x 2 x 2 x 5", "en": "2 x 2 x 2 x 5"}
+        },
+        {
+          "q": {
+            "hi": "इनमें से कौन-सी संख्या 7 का गुणज है?",
+            "en": "Which of these numbers is a multiple of 7?"
+          },
+          "options": [
+            {"hi": "14", "en": "14"},
+            {"hi": "15", "en": "15"},
+            {"hi": "16", "en": "16"},
+            {"hi": "17", "en": "17"}
+          ],
+          "answer": {"hi": "14", "en": "14"}
+        },
+        {
+          "q": {
+            "hi": "अभाज्य संख्या 13 के गुणनखंडों की संख्या कितनी है?",
+            "en": "How many factors does the prime number 13 have?"
+          },
+          "options": [
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "3", "en": "3"},
+            {"hi": "13", "en": "13"}
+          ],
+          "answer": {"hi": "2", "en": "2"}
+        },
+        {
+          "q": {
+            "hi": "भाज्य संख्या 10 के कितने गुणनखंड हैं?",
+            "en": "How many factors does the composite number 10 have?"
+          },
+          "options": [
+            {"hi": "2", "en": "2"},
+            {"hi": "3", "en": "3"},
+            {"hi": "4", "en": "4"},
+            {"hi": "5", "en": "5"}
+          ],
+          "answer": {"hi": "4", "en": "4"}
+        }
+      ],
+      "section5": [
+        {
+          "q": {
+            "hi": "निम्न में से कौन-सा कथन सत्य है?",
+            "en": "Which of the following statements is true?"
+          },
+          "options": [
+            {"hi": "सभी अभाज्य संख्याएँ विषम होती हैं", "en": "All prime numbers are odd"},
+            {"hi": "2 सबसे छोटी अभाज्य संख्या है", "en": "2 is the smallest prime number"},
+            {"hi": "1 एक अभाज्य संख्या है", "en": "1 is a prime number"},
+            {"hi": "9 एक अभाज्य संख्या है", "en": "9 is a prime number"}
+          ],
+          "answer": {"hi": "2 सबसे छोटी अभाज्य संख्या है", "en": "2 is the smallest prime number"}
+        },
+        {
+          "q": {
+            "hi": "संख्या 4 के प्रथम पाँच गुणज का योग क्या है?",
+            "en": "What is the sum of the first five multiples of 4?"
+          },
+          "options": [
+            {"hi": "40", "en": "40"},
+            {"hi": "50", "en": "50"},
+            {"hi": "60", "en": "60"},
+            {"hi": "20", "en": "20"}
+          ],
+          "answer": {"hi": "60", "en": "60"}
+        },
+        {
+          "q": {
+            "hi": "इडली-वड़ा खेल में, 'वड़ा' किस संख्या के गुणज के लिए बोला जाता है?",
+            "en": "In the Idli-Vada game, 'Vada' is said for multiples of which number?"
+          },
+          "options": [
+            {"hi": "3", "en": "3"},
+            {"hi": "4", "en": "4"},
+            {"hi": "5", "en": "5"},
+            {"hi": "10", "en": "10"}
+          ],
+          "answer": {"hi": "5", "en": "5"}
+        },
+        {
+          "q": {
+            "hi": "10 और 20 के बीच आने वाली अभाज्य संख्याएँ कौन-सी हैं?",
+            "en": "What are the prime numbers between 10 and 20?"
+          },
+          "options": [
+            {"hi": "11, 13, 17, 19", "en": "11, 13, 17, 19"},
+            {"hi": "11, 15, 17, 19", "en": "11, 15, 17, 19"},
+            {"hi": "13, 17, 19", "en": "13, 17, 19"},
+            {"hi": "12, 14, 16, 18", "en": "12, 14, 16, 18"}
+          ],
+          "answer": {"hi": "11, 13, 17, 19", "en": "11, 13, 17, 19"}
+        },
+        {
+          "q": {
+            "hi": "क्या 0 एक अभाज्य संख्या है?",
+            "en": "Is 0 a prime number?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "शायद", "en": "Maybe"},
+            {"hi": "कह नहीं सकते", "en": "Cannot say"}
+          ],
+          "answer": {"hi": "नहीं", "en": "No"}
+        },
+        {
+          "q": {
+            "hi": "निम्न में से कौन-सा जोड़ा 'जुड़वाँ अभाज्य' (Twin Primes) है?",
+            "en": "Which of the following pairs is 'Twin Primes'?"
+          },
+          "options": [
+            {"hi": "2, 3", "en": "2, 3"},
+            {"hi": "5, 7", "en": "5, 7"},
+            {"hi": "11, 15", "en": "11, 15"},
+            {"hi": "17, 21", "en": "17, 21"}
+          ],
+          "answer": {"hi": "5, 7", "en": "5, 7"}
+        },
+        {
+          "q": {
+            "hi": "संख्या 18 का अभाज्य गुणनखंडन है:",
+            "en": "The prime factorisation of 18 is:"
+          },
+          "options": [
+            {"hi": "2 x 9", "en": "2 x 9"},
+            {"hi": "3 x 6", "en": "3 x 6"},
+            {"hi": "2 x 3 x 3", "en": "2 x 3 x 3"},
+            {"hi": "1 x 18", "en": "1 x 18"}
+          ],
+          "answer": {"hi": "2 x 3 x 3", "en": "2 x 3 x 3"}
+        },
+        {
+          "q": {
+            "hi": "एक संख्या जो 2 और 3 दोनों का गुणज है, वह निश्चित रूप से किसका गुणज होगी?",
+            "en": "A number that is a multiple of both 2 and 3 must also be a multiple of?"
+          },
+          "options": [
+            {"hi": "5", "en": "5"},
+            {"hi": "6", "en": "6"},
+            {"hi": "9", "en": "9"},
+            {"hi": "12", "en": "12"}
+          ],
+          "answer": {"hi": "6", "en": "6"}
+        },
+        {
+          "q": {
+            "hi": "अभाज्य संख्याओं के बारे में इरेटोस्थनीज की छलनी (Sieve) क्या खोजने में मदद करती है?",
+            "en": "What does Eratosthenes' Sieve help find regarding prime numbers?"
+          },
+          "options": [
+            {"hi": "संख्याओं का योग", "en": "Sum of numbers"},
+            {"hi": "1 से n तक की सभी अभाज्य संख्याएँ", "en": "All prime numbers from 1 to n"},
+            {"hi": "केवल सम संख्याएँ", "en": "Only even numbers"},
+            {"hi": "क्षेत्रफल", "en": "Area"}
+          ],
+          "answer": {"hi": "1 से n तक की सभी अभाज्य संख्याएँ", "en": "All prime numbers from 1 to n"}
+        },
+        {
+          "q": {
+            "hi": "संख्या 50 का अभाज्य गुणनखंडन है:",
+            "en": "The prime factorisation of 50 is:"
+          },
+          "options": [
+            {"hi": "2 x 5 x 5", "en": "2 x 5 x 5"},
+            {"hi": "5 x 10", "en": "5 x 10"},
+            {"hi": "2 x 25", "en": "2 x 25"},
+            {"hi": "1 x 50", "en": "1 x 50"}
+          ],
+          "answer": {"hi": "2 x 5 x 5", "en": "2 x 5 x 5"}
         }
       ]
     },
