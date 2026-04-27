@@ -5964,661 +5964,661 @@
       "section1": [
         {
           "q": {
-            "hi": "बीजीय व्यंजक किनके मेल से बनते हैं?",
-            "en": "Algebraic expressions are formed by the combination of what?"
+            "hi": "शून्य (0) से छोटी संख्याओं को क्या कहा जाता है?",
+            "en": "What are numbers smaller than zero (0) called?"
           },
           "options": [
-            {"hi": "केवल चरों से", "en": "Only variables"},
-            {"hi": "केवल अचरों से", "en": "Only constants"},
-            {"hi": "चरों और अचरों से", "en": "Variables and constants"},
-            {"hi": "केवल संख्याओं से", "en": "Only numbers"}
+            {"hi": "धनात्मक संख्याएँ", "en": "Positive numbers"},
+            {"hi": "ऋणात्मक संख्याएँ", "en": "Negative numbers"},
+            {"hi": "पूर्ण संख्याएँ", "en": "Whole numbers"},
+            {"hi": "प्राकृतिक संख्याएँ", "en": "Natural numbers"}
           ],
-          "answer": {"hi": "चरों और अचरों से", "en": "Variables and constants"}
+          "answer": {"hi": "ऋणात्मक संख्याएँ", "en": "Negative numbers"}
         },
         {
           "q": {
-            "hi": "अक्षरों x, y, l, m इत्यादि का प्रयोग किसे व्यक्त करने के लिए किया जाता है?",
-            "en": "Letters like x, y, l, m etc. are used to represent what?"
+            "hi": "ऋणात्मक संख्याओं के साथ पूर्ण संख्याओं के संग्रह को क्या कहते हैं?",
+            "en": "What is the collection of whole numbers along with negative numbers called?"
           },
           "options": [
-            {"hi": "अचर (Constant)", "en": "Constant"},
-            {"hi": "चर (Variable)", "en": "Variable"},
-            {"hi": "समीकरण", "en": "Equation"},
-            {"hi": "अंक", "en": "Digit"}
+            {"hi": "भिन्न", "en": "Fractions"},
+            {"hi": "पूर्णांक (Integers)", "en": "Integers"},
+            {"hi": "दशमलव", "en": "Decimals"},
+            {"hi": "केवल शून्य", "en": "Only zero"}
           ],
-          "answer": {"hi": "चर (Variable)", "en": "Variable"}
+          "answer": {"hi": "पूर्णांक (Integers)", "en": "Integers"}
         },
         {
           "q": {
-            "hi": "एक संख्या जिसका मान निश्चित होता है, क्या कहलाती है?",
-            "en": "A number whose value is fixed is called?"
+            "hi": "संख्या रेखा पर शून्य के दाईं ओर स्थित संख्याएँ कैसी होती हैं?",
+            "en": "What kind of numbers are located to the right of zero on a number line?"
           },
           "options": [
-            {"hi": "चर", "en": "Variable"},
-            {"hi": "अचर (Constant)", "en": "Constant"},
-            {"hi": "पद", "en": "Term"},
-            {"hi": "गुणनखंड", "en": "Factor"}
+            {"hi": "ऋणात्मक", "en": "Negative"},
+            {"hi": "धनात्मक (Positive)", "en": "Positive"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "कोई नहीं", "en": "None"}
           ],
-          "answer": {"hi": "अचर (Constant)", "en": "Constant"}
+          "answer": {"hi": "धनात्मक (Positive)", "en": "Positive"}
         },
         {
           "q": {
-            "hi": "व्यंजक $4x + 5$ में $x$ का गुणांक (coefficient) क्या है?",
-            "en": "In the expression $4x + 5$, what is the coefficient of $x$?"
+            "hi": "संख्या रेखा पर शून्य के बाईं ओर स्थित संख्याएँ कैसी होती हैं?",
+            "en": "What kind of numbers are located to the left of zero on a number line?"
           },
           "options": [
-            {"hi": "5", "en": "5"},
-            {"hi": "4", "en": "4"},
-            {"hi": "x", "en": "x"},
-            {"hi": "9", "en": "9"}
+            {"hi": "धनात्मक", "en": "Positive"},
+            {"hi": "ऋणात्मक (Negative)", "en": "Negative"},
+            {"hi": "बड़ी संख्याएँ", "en": "Larger numbers"},
+            {"hi": "प्राकृतिक संख्याएँ", "en": "Natural numbers"}
           ],
-          "answer": {"hi": "4", "en": "4"}
+          "answer": {"hi": "ऋणात्मक (Negative)", "en": "Negative"}
         },
         {
           "q": {
-            "hi": "व्यंजक किससे मिलकर बनते हैं जिन्हें बाद में जोड़ा जाता है?",
-            "en": "Expressions are made up of what, which are added later?"
+            "hi": "पूर्णांकों के संग्रह को सामान्यतः किस अक्षर से दर्शाया जाता है?",
+            "en": "Which letter is commonly used to denote the set of integers?"
           },
           "options": [
-            {"hi": "पदों (Terms) से", "en": "Terms"},
-            {"hi": "गुणनखंडों से", "en": "Factors"},
-            {"hi": "अंकों से", "en": "Digits"},
-            {"hi": "चिह्नों से", "en": "Signs"}
+            {"hi": "N", "en": "N"},
+            {"hi": "W", "en": "W"},
+            {"hi": "Z", "en": "Z"},
+            {"hi": "P", "en": "P"}
           ],
-          "answer": {"hi": "पदों (Terms) से", "en": "Terms"}
+          "answer": {"hi": "Z", "en": "Z"}
         },
         {
           "q": {
-            "hi": "एक पद किसका गुणनफल होता है?",
-            "en": "A term is a product of its what?"
+            "hi": "समुद्र तल से नीचे की गहराई को किस प्रकार के पूर्णांक से दर्शाया जाता है?",
+            "en": "Depth below sea level is represented by which type of integer?"
           },
           "options": [
-            {"hi": "योगफल का", "en": "Sum"},
-            {"hi": "गुणनखंडों (Factors) का", "en": "Factors"},
-            {"hi": "भागफल का", "en": "Quotient"},
-            {"hi": "चरों का", "en": "Variables"}
+            {"hi": "धनात्मक", "en": "Positive"},
+            {"hi": "ऋणात्मक (Negative)", "en": "Negative"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "इकाई", "en": "Unit"}
           ],
-          "answer": {"hi": "गुणनखंडों (Factors) का", "en": "Factors"}
+          "answer": {"hi": "ऋणात्मक (Negative)", "en": "Negative"}
         },
         {
           "q": {
-            "hi": "पदों के संख्यात्मक गुणनखंड को क्या कहते हैं?",
-            "en": "What is the numerical factor of a term called?"
+            "hi": "यदि लाभ को धनात्मक (+) माना जाए, तो हानि को कैसे दर्शाया जाएगा?",
+            "en": "If profit is considered positive (+), how will loss be represented?"
           },
           "options": [
-            {"hi": "चर", "en": "Variable"},
-            {"hi": "व्यंजक", "en": "Expression"},
-            {"hi": "गुणांक (Coefficient)", "en": "Coefficient"},
-            {"hi": "घात", "en": "Power"}
+            {"hi": "धनात्मक (+)", "en": "Positive (+)"},
+            {"hi": "ऋणात्मक (-)", "en": "Negative (-)"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "गुना द्वारा", "en": "By multiplication"}
           ],
-          "answer": {"hi": "गुणांक (Coefficient)", "en": "Coefficient"}
+          "answer": {"hi": "ऋणात्मक (-)", "en": "Negative (-)"}
         },
         {
           "q": {
-            "hi": "व्यंजक $10y - 20$ में पद कौन-कौन से हैं?",
-            "en": "What are the terms in the expression $10y - 20$?"
+            "hi": "संख्या -5 और 5 में से कौन सी संख्या छोटी है?",
+            "en": "Which number is smaller between -5 and 5?"
           },
           "options": [
-            {"hi": "10, y, 20", "en": "10, y, 20"},
-            {"hi": "10y, -20", "en": "10y, -20"},
-            {"hi": "y, -20", "en": "y, -20"},
-            {"hi": "10y, 20", "en": "10y, 20"}
-          ],
-          "answer": {"hi": "10y, -20", "en": "10y, -20"}
-        },
-        {
-          "q": {
-            "hi": "वह पद जिसमें कोई चर नहीं होता, क्या कहलाता है?",
-            "en": "A term that does not contain any variable is called?"
-          },
-          "options": [
-            {"hi": "अचर पद", "en": "Constant term"},
-            {"hi": "चर पद", "en": "Variable term"},
-            {"hi": "समान पद", "en": "Like term"},
-            {"hi": "शून्य पद", "en": "Zero term"}
-          ],
-          "answer": {"hi": "अचर पद", "en": "Constant term"}
-        },
-        {
-          "q": {
-            "hi": "व्यंजक $xy + 7$ में पद 'xy' के गुणनखंड क्या हैं?",
-            "en": "In the expression $xy + 7$, what are the factors of the term 'xy'?"
-          },
-          "options": [
-            {"hi": "x और y", "en": "x and y"},
-            {"hi": "x, y और 7", "en": "x, y and 7"},
-            {"hi": "केवल x", "en": "Only x"},
-            {"hi": "xy", "en": "xy"}
-          ],
-          "answer": {"hi": "x और y", "en": "x and y"}
-        }
-      ],
-      "section2": [
-        {
-          "q": {
-            "hi": "एक पद वाला व्यंजक क्या कहलाता है?",
-            "en": "An expression with one term is called?"
-          },
-          "options": [
-            {"hi": "एकपदी (Monomial)", "en": "Monomial"},
-            {"hi": "द्विपद (Binomial)", "en": "Binomial"},
-            {"hi": "त्रिपद (Trinomial)", "en": "Trinomial"},
-            {"hi": "बहुपद (Polynomial)", "en": "Polynomial"}
-          ],
-          "answer": {"hi": "एकपदी (Monomial)", "en": "Monomial"}
-        },
-        {
-          "q": {
-            "hi": "दो पदों वाला व्यंजक क्या कहलाता है?",
-            "en": "An expression containing two terms is called?"
-          },
-          "options": [
-            {"hi": "एकपदी", "en": "Monomial"},
-            {"hi": "द्विपद (Binomial)", "en": "Binomial"},
-            {"hi": "त्रिपद", "en": "Trinomial"},
-            {"hi": "अचर", "en": "Constant"}
-          ],
-          "answer": {"hi": "द्विपद (Binomial)", "en": "Binomial"}
-        },
-        {
-          "q": {
-            "hi": "तीन पदों वाला व्यंजक क्या कहलाता है?",
-            "en": "An expression containing three terms is called?"
-          },
-          "options": [
-            {"hi": "एकपदी", "en": "Monomial"},
-            {"hi": "द्विपद", "en": "Binomial"},
-            {"hi": "त्रिपद (Trinomial)", "en": "Trinomial"},
-            {"hi": "अचर", "en": "Constant"}
-          ],
-          "answer": {"hi": "त्रिपद (Trinomial)", "en": "Trinomial"}
-        },
-        {
-          "q": {
-            "hi": "वे पद जिनके बीजीय गुणनखंड एक जैसे होते हैं, क्या कहलाते हैं?",
-            "en": "Terms which have the same algebraic factors are called?"
-          },
-          "options": [
-            {"hi": "असमान पद", "en": "Unlike terms"},
-            {"hi": "समान पद (Like terms)", "en": "Like terms"},
-            {"hi": "एकपदी", "en": "Monomials"},
-            {"hi": "गुणांक", "en": "Coefficients"}
-          ],
-          "answer": {"hi": "समान पद (Like terms)", "en": "Like terms"}
-        },
-        {
-          "q": {
-            "hi": "वे पद जिनके बीजीय गुणनखंड भिन्न-भिन्न होते हैं, क्या कहलाते हैं?",
-            "en": "Terms which have different algebraic factors are called?"
-          },
-          "options": [
-            {"hi": "समान पद", "en": "Like terms"},
-            {"hi": "असमान पद (Unlike terms)", "en": "Unlike terms"},
-            {"hi": "द्विपद", "en": "Binomials"},
-            {"hi": "अचर", "en": "Constants"}
-          ],
-          "answer": {"hi": "असमान पद (Unlike terms)", "en": "Unlike terms"}
-        },
-        {
-          "q": {
-            "hi": "व्यंजक $2x^2 + 3y$ में पदों की संख्या कितनी है?",
-            "en": "How many terms are in the expression $2x^2 + 3y$?"
-          },
-          "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "2", "en": "2"},
-            {"hi": "3", "en": "3"},
-            {"hi": "4", "en": "4"}
-          ],
-          "answer": {"hi": "2", "en": "2"}
-        },
-        {
-          "q": {
-            "hi": "निम्नलिखित में से कौन सा एकपदी (monomial) है?",
-            "en": "Which of the following is a monomial?"
-          },
-          "options": [
-            {"hi": "$x + y$", "en": "$x + y$"},
-            {"hi": "$3xy$", "en": "$3xy$"},
-            {"hi": "$x^2 + 5$", "en": "$x^2 + 5$"},
-            {"hi": "$a + b + c$", "en": "$a + b + c$"}
-          ],
-          "answer": {"hi": "$3xy$", "en": "$3xy$"}
-        },
-        {
-          "q": {
-            "hi": "व्यंजक $5x^2 - 3x + 2$ किस प्रकार का व्यंजक है?",
-            "en": "What type of expression is $5x^2 - 3x + 2$?"
-          },
-          "options": [
-            {"hi": "एकपदी", "en": "Monomial"},
-            {"hi": "द्विपद", "en": "Binomial"},
-            {"hi": "त्रिपद (Trinomial)", "en": "Trinomial"},
-            {"hi": "अचर", "en": "Constant"}
-          ],
-          "answer": {"hi": "त्रिपद (Trinomial)", "en": "Trinomial"}
-        },
-        {
-          "q": {
-            "hi": "पदों $4xy$ और $-3xy$ में संबंध क्या है?",
-            "en": "What is the relation between the terms $4xy$ and $-3xy$?"
-          },
-          "options": [
-            {"hi": "वे असमान पद हैं", "en": "They are unlike terms"},
-            {"hi": "वे समान पद (Like terms) हैं", "en": "They are like terms"},
-            {"hi": "वे द्विपद हैं", "en": "They are binomials"},
-            {"hi": "वे अचर हैं", "en": "They are constants"}
-          ],
-          "answer": {"hi": "वे समान पद (Like terms) हैं", "en": "They are like terms"}
-        },
-        {
-          "q": {
-            "hi": "किसी भी व्यंजक जिसमें एक या अधिक पद हों, उसे सामान्यतः क्या कहते हैं?",
-            "en": "An expression containing one or more terms is generally called?"
-          },
-          "options": [
-            {"hi": "बहुपद (Polynomial)", "en": "Polynomial"},
-            {"hi": "एकपदी", "en": "Monomial"},
-            {"hi": "द्विपद", "en": "Binomial"},
-            {"hi": "समीकरण", "en": "Equation"}
-          ],
-          "answer": {"hi": "बहुपद (Polynomial)", "en": "Polynomial"}
-        }
-      ],
-      "section3": [
-        {
-          "q": {
-            "hi": "समान पदों को जोड़ने के लिए हम उनके किन मानों को जोड़ते हैं?",
-            "en": "To add like terms, what values do we add?"
-          },
-          "options": [
-            {"hi": "बीजीय गुणनखंडों को", "en": "Algebraic factors"},
-            {"hi": "संख्यात्मक गुणांकों (Numerical coefficients) को", "en": "Numerical coefficients"},
-            {"hi": "चरों को", "en": "Variables"},
-            {"hi": "घातों को", "en": "Powers"}
-          ],
-          "answer": {"hi": "संख्यात्मक गुणांकों (Numerical coefficients) को", "en": "Numerical coefficients"}
-        },
-        {
-          "q": {
-            "hi": "क्या असमान पदों (Unlike terms) को एक ही पद के रूप में जोड़ा जा सकता है?",
-            "en": "Can unlike terms be added into a single term?"
-          },
-          "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल धनात्मक के लिए", "en": "Only for positive"},
-            {"hi": "कभी-कभी", "en": "Sometimes"}
-          ],
-          "answer": {"hi": "नहीं", "en": "No"}
-        },
-        {
-          "q": {
-            "hi": "$3x$ और $4x$ का योग क्या होगा?",
-            "en": "What will be the sum of $3x$ and $4x$?"
-          },
-          "options": [
-            {"hi": "12x", "en": "12x"},
-            {"hi": "7x", "en": "7x"},
-            {"hi": "$7x^2$", "en": "$7x^2$"},
-            {"hi": "34x", "en": "34x"}
-          ],
-          "answer": {"hi": "7x", "en": "7x"}
-        },
-        {
-          "q": {
-            "hi": "$8xy - 3xy$ का परिणाम क्या है?",
-            "en": "What is the result of $8xy - 3xy$?"
-          },
-          "options": [
-            {"hi": "11xy", "en": "11xy"},
-            {"hi": "5xy", "en": "5xy"},
-            {"hi": "5", "en": "5"},
-            {"hi": "24xy", "en": "24xy"}
-          ],
-          "answer": {"hi": "5xy", "en": "5xy"}
-        },
-        {
-          "q": {
-            "hi": "व्यंजक $x + y$ और $x - y$ का योग क्या होगा?",
-            "en": "What will be the sum of expressions $x + y$ and $x - y$?"
-          },
-          "options": [
-            {"hi": "2x", "en": "2x"},
-            {"hi": "2y", "en": "2y"},
-            {"hi": "$2x + 2y$", "en": "$2x + 2y$"},
-            {"hi": "0", "en": "0"}
-          ],
-          "answer": {"hi": "2x", "en": "2x"}
-        },
-        {
-          "q": {
-            "hi": "असमान पदों $2x$ और $3y$ का योग कैसे लिखा जाएगा?",
-            "en": "How will the sum of unlike terms $2x$ and $3y$ be written?"
-          },
-          "options": [
-            {"hi": "5xy", "en": "5xy"},
-            {"hi": "6xy", "en": "6xy"},
-            {"hi": "$2x + 3y$", "en": "$2x + 3y$"},
-            {"hi": "5", "en": "5"}
-          ],
-          "answer": {"hi": "$2x + 3y$", "en": "$2x + 3y$"}
-        },
-        {
-          "q": {
-            "hi": "व्यंजक $(3a - b + 4)$ में से $(a - b)$ घटाने पर क्या प्राप्त होगा?",
-            "en": "What will be obtained by subtracting $(a - b)$ from $(3a - b + 4)$?"
-          },
-          "options": [
-            {"hi": "$2a + 4$", "en": "$2a + 4$"},
-            {"hi": "$2a - 2b + 4$", "en": "$2a - 2b + 4$"},
-            {"hi": "$4a + 4$", "en": "$4a + 4$"},
-            {"hi": "$2a + b + 4$", "en": "$2a + b + 4$"}
-          ],
-          "answer": {"hi": "$2a + 4$", "en": "$2a + 4$"}
-        },
-        {
-          "q": {
-            "hi": "$11ab$ में से $5ab$ घटाने पर क्या मिलेगा?",
-            "en": "What will be obtained by subtracting $5ab$ from $11ab$?"
-          },
-          "options": [
-            {"hi": "6", "en": "6"},
-            {"hi": "6ab", "en": "6ab"},
-            {"hi": "16ab", "en": "16ab"},
-            {"hi": "55ab", "en": "55ab"}
-          ],
-          "answer": {"hi": "6ab", "en": "6ab"}
-        },
-        {
-          "q": {
-            "hi": "$x^2 + 5x$ और $2x^2 - x$ का योग ज्ञात कीजिए।",
-            "en": "Find the sum of $x^2 + 5x$ and $2x^2 - x$."
-          },
-          "options": [
-            {"hi": "$3x^2 + 4x$", "en": "$3x^2 + 4x$"},
-            {"hi": "$3x^2 + 6x$", "en": "$3x^2 + 6x$"},
-            {"hi": "$x^2 + 4x$", "en": "$x^2 + 4x$"},
-            {"hi": "$3x^2 - 4x$", "en": "$3x^2 - 4x$"}
-          ],
-          "answer": {"hi": "$3x^2 + 4x$", "en": "$3x^2 + 4x$"}
-        },
-        {
-          "q": {
-            "hi": "जब हम दो बीजीय व्यंजकों को जोड़ते हैं, तो कौन से पदों को संयोजित किया जाता है?",
-            "en": "When we add two algebraic expressions, which terms are combined?"
-          },
-          "options": [
-            {"hi": "सभी पदों को", "en": "All terms"},
-            {"hi": "केवल समान पदों (Like terms) को", "en": "Only like terms"},
-            {"hi": "केवल अचरों को", "en": "Only constants"},
-            {"hi": "केवल चरों को", "en": "Only variables"}
-          ],
-          "answer": {"hi": "केवल समान पदों (Like terms) को", "en": "Only like terms"}
-        }
-      ],
-      "section4": [
-        {
-          "q": {
-            "hi": "यदि $x = 2$ है, तो व्यंजक $x + 3$ का मान क्या होगा?",
-            "en": "If $x = 2$, what will be the value of the expression $x + 3$?"
-          },
-          "options": [
-            {"hi": "2", "en": "2"},
-            {"hi": "3", "en": "3"},
-            {"hi": "5", "en": "5"},
-            {"hi": "6", "en": "6"}
-          ],
-          "answer": {"hi": "5", "en": "5"}
-        },
-        {
-          "q": {
-            "hi": "यदि $n = -2$ है, तो $5n - 2$ का मान क्या होगा?",
-            "en": "If $n = -2$, what will be the value of $5n - 2$?"
-          },
-          "options": [
-            {"hi": "8", "en": "8"},
-            {"hi": "-12", "en": "-12"},
-            {"hi": "-8", "en": "-8"},
-            {"hi": "12", "en": "12"}
-          ],
-          "answer": {"hi": "-12", "en": "-12"}
-        },
-        {
-          "q": {
-            "hi": "यदि $a = 3$ और $b = 2$ है, तो $a^2 - b^2$ का मान ज्ञात कीजिए।",
-            "en": "If $a = 3$ and $b = 2$, find the value of $a^2 - b^2$."
-          },
-          "options": [
-            {"hi": "5", "en": "5"},
-            {"hi": "1", "en": "1"},
-            {"hi": "13", "en": "13"},
-            {"hi": "6", "en": "6"}
-          ],
-          "answer": {"hi": "5", "en": "5"}
-        },
-        {
-          "q": {
-            "hi": "यदि $z = 10$ है, तो $z^3 - 3(z - 10)$ का मान क्या है?",
-            "en": "If $z = 10$, what is the value of $z^3 - 3(z - 10)$?"
-          },
-          "options": [
-            {"hi": "1000", "en": "1000"},
-            {"hi": "970", "en": "970"},
-            {"hi": "0", "en": "0"},
-            {"hi": "1030", "en": "1030"}
-          ],
-          "answer": {"hi": "1000", "en": "1000"}
-        },
-        {
-          "q": {
-            "hi": "किसी वर्ग का परिमाप $4l$ है। यदि $l = 5$ cm है, तो परिमाप क्या होगा?",
-            "en": "The perimeter of a square is $4l$. If $l = 5$ cm, what is the perimeter?"
-          },
-          "options": [
-            {"hi": "20 cm", "en": "20 cm"},
-            {"hi": "25 cm", "en": "25 cm"},
-            {"hi": "9 cm", "en": "9 cm"},
-            {"hi": "10 cm", "en": "10 cm"}
-          ],
-          "answer": {"hi": "20 cm", "en": "20 cm"}
-        },
-        {
-          "q": {
-            "hi": "यदि $x = 0$ है, तो $2x^2 + x - 5$ का मान क्या होगा?",
-            "en": "If $x = 0$, what will be the value of $2x^2 + x - 5$?"
-          },
-          "options": [
-            {"hi": "0", "en": "0"},
             {"hi": "5", "en": "5"},
             {"hi": "-5", "en": "-5"},
-            {"hi": "-3", "en": "-3"}
+            {"hi": "दोनों बराबर हैं", "en": "Both are equal"},
+            {"hi": "0", "en": "0"}
           ],
           "answer": {"hi": "-5", "en": "-5"}
         },
         {
           "q": {
-            "hi": "एक समबाहु त्रिभुज का परिमाप $3a$ है। यदि भुजा $a = 4$ है, तो परिमाप है:",
-            "en": "The perimeter of an equilateral triangle is $3a$. If side $a = 4$, the perimeter is:"
+            "hi": "शून्य (0) के बारे में कौन सा कथन सत्य है?",
+            "en": "Which statement about zero (0) is true?"
           },
           "options": [
-            {"hi": "7", "en": "7"},
-            {"hi": "12", "en": "12"},
-            {"hi": "1", "en": "1"},
-            {"hi": "16", "en": "16"}
+            {"hi": "यह धनात्मक है", "en": "It is positive"},
+            {"hi": "यह ऋणात्मक है", "en": "It is negative"},
+            {"hi": "यह न तो धनात्मक है न ऋणात्मक", "en": "It is neither positive nor negative"},
+            {"hi": "यह सबसे बड़ा पूर्णांक है", "en": "It is the largest integer"}
           ],
-          "answer": {"hi": "12", "en": "12"}
+          "answer": {"hi": "यह न तो धनात्मक है न ऋणात्मक", "en": "It is neither positive nor negative"}
         },
         {
           "q": {
-            "hi": "यदि $a = 5$ और $b = -3$ है, तो $a + b$ का मान है:",
-            "en": "If $a = 5$ and $b = -3$, the value of $a + b$ is:"
+            "hi": "तापमान का 'शून्य से नीचे' जाना क्या दर्शाता है?",
+            "en": "What does a temperature going 'below zero' represent?"
           },
           "options": [
-            {"hi": "8", "en": "8"},
-            {"hi": "2", "en": "2"},
-            {"hi": "-2", "en": "-2"},
-            {"hi": "15", "en": "15"}
+            {"hi": "गर्मी", "en": "Heat"},
+            {"hi": "ठंड (ऋणात्मक तापमान)", "en": "Cold (Negative temperature)"},
+            {"hi": "सामान्य मौसम", "en": "Normal weather"},
+            {"hi": "बारिश", "en": "Rain"}
           ],
-          "answer": {"hi": "2", "en": "2"}
-        },
-        {
-          "q": {
-            "hi": "व्यंजक $100 - 10x^3$ का मान $x = 2$ पर क्या होगा?",
-            "en": "What will be the value of expression $100 - 10x^3$ at $x = 2$?"
-          },
-          "options": [
-            {"hi": "20", "en": "20"},
-            {"hi": "80", "en": "80"},
-            {"hi": "40", "en": "40"},
-            {"hi": "60", "en": "60"}
-          ],
-          "answer": {"hi": "20", "en": "20"}
-        },
-        {
-          "q": {
-            "hi": "किसी आयत का क्षेत्रफल $l \\times b$ है। यदि $l = 10, b = 5$ है, तो क्षेत्रफल क्या है?",
-            "en": "Area of a rectangle is $l \\times b$. If $l = 10, b = 5$, what is the area?"
-          },
-          "options": [
-            {"hi": "15", "en": "15"},
-            {"hi": "50", "en": "50"},
-            {"hi": "2", "en": "2"},
-            {"hi": "30", "en": "30"}
-          ],
-          "answer": {"hi": "50", "en": "50"}
+          "answer": {"hi": "ठंड (ऋणात्मक तापमान)", "en": "Cold (Negative temperature)"}
         }
       ],
-      "section5": [
+      "section2": [
         {
           "q": {
-            "hi": "अक्षरों का उपयोग करके बनाए गए प्रतिरूप (Patterns) में चर क्या दर्शाते हैं?",
-            "en": "In patterns made using letters, what do variables represent?"
+            "hi": "-3 का परवर्ती (Successor) क्या है?",
+            "en": "What is the successor of -3?"
           },
           "options": [
-            {"hi": "आकृतियों की संख्या", "en": "Number of figures"},
-            {"hi": "निश्चित संख्या", "en": "Fixed number"},
-            {"hi": "शून्य", "en": "Zero"},
-            {"hi": "कुछ नहीं", "en": "Nothing"}
-          ],
-          "answer": {"hi": "आकृतियों की संख्या", "en": "Number of figures"}
-        },
-        {
-          "q": {
-            "hi": "यदि 'n' आकृतियों की संख्या है, तो $2n + 1$ क्या हो सकता है?",
-            "en": "If 'n' is the number of figures, what can $2n + 1$ be?"
-          },
-          "options": [
-            {"hi": "नियम (Rule)", "en": "Rule"},
-            {"hi": "केवल एक संख्या", "en": "Just a number"},
-            {"hi": "अचर", "en": "Constant"},
-            {"hi": "परिणाम", "en": "Result"}
-          ],
-          "answer": {"hi": "नियम (Rule)", "en": "Rule"}
-        },
-        {
-          "q": {
-            "hi": "एक संख्या 'x' के दोगुने से 5 अधिक को व्यंजक के रूप में कैसे लिखेंगे?",
-            "en": "How to write '5 more than twice a number x' as an expression?"
-          },
-          "options": [
-            {"hi": "$x + 10$", "en": "$x + 10$"},
-            {"hi": "$2x + 5$", "en": "$2x + 5$"},
-            {"hi": "$2x - 5$", "en": "$2x - 5$"},
-            {"hi": "$5x + 2$", "en": "$5x + 2$"}
-          ],
-          "answer": {"hi": "$2x + 5$", "en": "$2x + 5$"}
-        },
-        {
-          "q": {
-            "hi": "व्यंजक $x/2$ का क्या अर्थ है?",
-            "en": "What is the meaning of expression $x/2$?"
-          },
-          "options": [
-            {"hi": "x का दोगुना", "en": "Twice of x"},
-            {"hi": "x का आधा (Half of x)", "en": "Half of x"},
-            {"hi": "x में 2 जोड़ना", "en": "Add 2 to x"},
-            {"hi": "x में से 2 घटाना", "en": "Subtract 2 from x"}
-          ],
-          "answer": {"hi": "x का आधा (Half of x)", "en": "Half of x"}
-        },
-        {
-          "q": {
-            "hi": "बीजीय गुणनखंडों में क्या शामिल होता है?",
-            "en": "What do algebraic factors include?"
-          },
-          "options": [
-            {"hi": "केवल संख्याएँ", "en": "Only numbers"},
-            {"hi": "केवल चर (Variables)", "en": "Only variables"},
-            {"hi": "केवल चिह्न", "en": "Only signs"},
-            {"hi": "अचर", "en": "Constants"}
-          ],
-          "answer": {"hi": "केवल चर (Variables)", "en": "Only variables"}
-        },
-        {
-          "q": {
-            "hi": "व्यंजक $x + 3 = 10$ में, $x+3$ क्या है?",
-            "en": "In $x + 3 = 10$, what is $x+3$?"
-          },
-          "options": [
-            {"hi": "बायाँ पक्ष (LHS)", "en": "LHS"},
-            {"hi": "दायाँ पक्ष (RHS)", "en": "RHS"},
-            {"hi": "अचर", "en": "Constant"},
-            {"hi": "हल", "en": "Solution"}
-          ],
-          "answer": {"hi": "बायाँ पक्ष (LHS)", "en": "LHS"}
-        },
-        {
-          "q": {
-            "hi": "व्यंजक $y^2$ में गुणांक क्या माना जाता है (यदि कुछ न लिखा हो)?",
-            "en": "What is the coefficient assumed in $y^2$ (if nothing is written)?"
-          },
-          "options": [
-            {"hi": "0", "en": "0"},
-            {"hi": "1", "en": "1"},
+            {"hi": "-4", "en": "-4"},
+            {"hi": "-2", "en": "-2"},
             {"hi": "2", "en": "2"},
-            {"hi": "y", "en": "y"}
+            {"hi": "4", "en": "4"}
           ],
-          "answer": {"hi": "1", "en": "1"}
+          "answer": {"hi": "-2", "en": "-2"}
         },
         {
           "q": {
-            "hi": "व्यंजक $-x$ का संख्यात्मक गुणांक क्या है?",
-            "en": "What is the numerical coefficient of the expression $-x$?"
+            "hi": "संख्या -10 का पूर्ववर्ती (Predecessor) क्या होगा?",
+            "en": "What will be the predecessor of -10?"
           },
           "options": [
-            {"hi": "0", "en": "0"},
-            {"hi": "1", "en": "1"},
+            {"hi": "-9", "en": "-9"},
+            {"hi": "-11", "en": "-11"},
+            {"hi": "11", "en": "11"},
+            {"hi": "0", "en": "0"}
+          ],
+          "answer": {"hi": "-11", "en": "-11"}
+        },
+        {
+          "q": {
+            "hi": "सबसे बड़ा ऋणात्मक पूर्णांक कौन सा है?",
+            "en": "Which is the largest negative integer?"
+          },
+          "options": [
             {"hi": "-1", "en": "-1"},
-            {"hi": "x", "en": "x"}
+            {"hi": "0", "en": "0"},
+            {"hi": "-100", "en": "-100"},
+            {"hi": "अनंत", "en": "Infinite"}
           ],
           "answer": {"hi": "-1", "en": "-1"}
         },
         {
           "q": {
-            "hi": "व्यंजक बनाने के लिए हम चरों और अचरों पर कौन सी संक्रियाएँ करते हैं?",
-            "en": "What operations do we perform on variables and constants to form expressions?"
+            "hi": "क्या -20, -10 से बड़ा है?",
+            "en": "Is -20 greater than -10?"
           },
           "options": [
-            {"hi": "केवल योग", "en": "Only addition"},
-            {"hi": "केवल गुणन", "en": "Only multiplication"},
-            {"hi": "योग, व्यवकलन, गुणन और विभाजन", "en": "Addition, subtraction, multiplication, and division"},
-            {"hi": "कोई नहीं", "en": "None"}
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "बराबर है", "en": "Equal"},
+            {"hi": "कह नहीं सकते", "en": "Cannot say"}
           ],
-          "answer": {"hi": "योग, व्यवकलन, गुणन और विभाजन", "en": "Addition, subtraction, multiplication, and division"}
+          "answer": {"hi": "नहीं", "en": "No"}
         },
         {
           "q": {
-            "hi": "यदि $a = 2, b = 2$ है, तो $2(a^2 + ab)$ का मान क्या होगा?",
-            "en": "If $a = 2, b = 2$, what will be the value of $2(a^2 + ab)$?"
+            "hi": "संख्या रेखा पर, -5 से 3 कदम दाईं ओर चलने पर आप कहाँ पहुँचेंगे?",
+            "en": "On a number line, where will you reach if you move 3 steps to the right of -5?"
           },
           "options": [
-            {"hi": "8", "en": "8"},
-            {"hi": "16", "en": "16"},
-            {"hi": "12", "en": "12"},
-            {"hi": "20", "en": "20"}
+            {"hi": "-8", "en": "-8"},
+            {"hi": "-2", "en": "-2"},
+            {"hi": "2", "en": "2"},
+            {"hi": "8", "en": "8"}
           ],
-          "answer": {"hi": "16", "en": "16"}
+          "answer": {"hi": "-2", "en": "-2"}
+        },
+        {
+          "q": {
+            "hi": "दो ऋणात्मक पूर्णांकों का योग हमेशा क्या होता है?",
+            "en": "What is the sum of two negative integers always?"
+          },
+          "options": [
+            {"hi": "धनात्मक", "en": "Positive"},
+            {"hi": "ऋणात्मक (Negative)", "en": "Negative"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "एक", "en": "One"}
+          ],
+          "answer": {"hi": "ऋणात्मक (Negative)", "en": "Negative"}
+        },
+        {
+          "q": {
+            "hi": "किसी पूर्णांक का 'योज्य प्रतिलोम' (Additive Inverse) क्या होता है?",
+            "en": "What is the 'Additive Inverse' of an integer?"
+          },
+          "options": [
+            {"hi": "उसका आधा", "en": "Half of it"},
+            {"hi": "विपरीत चिह्न वाली वही संख्या", "en": "The same number with opposite sign"},
+            {"hi": "उसका वर्ग", "en": "Its square"},
+            {"hi": "शून्य", "en": "Zero"}
+          ],
+          "answer": {"hi": "विपरीत चिह्न वाली वही संख्या", "en": "The same number with opposite sign"}
+        },
+        {
+          "q": {
+            "hi": "+7 का योज्य प्रतिलोम क्या है?",
+            "en": "What is the additive inverse of +7?"
+          },
+          "options": [
+            {"hi": "7", "en": "7"},
+            {"hi": "-7", "en": "-7"},
+            {"hi": "0", "en": "0"},
+            {"hi": "1/7", "en": "1/7"}
+          ],
+          "answer": {"hi": "-7", "en": "-7"}
+        },
+        {
+          "q": {
+            "hi": "शून्य (0) सभी ऋणात्मक पूर्णांकों से ______ होता है।",
+            "en": "Zero (0) is ______ than all negative integers."
+          },
+          "options": [
+            {"hi": "छोटा", "en": "Smaller"},
+            {"hi": "बड़ा (Greater)", "en": "Greater"},
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "दोगुना", "en": "Double"}
+          ],
+          "answer": {"hi": "बड़ा (Greater)", "en": "Greater"}
+        },
+        {
+          "q": {
+            "hi": "शून्य (0) सभी धनात्मक पूर्णांकों से ______ होता है।",
+            "en": "Zero (0) is ______ than all positive integers."
+          },
+          "options": [
+            {"hi": "बड़ा", "en": "Greater"},
+            {"hi": "छोटा (Smaller)", "en": "Smaller"},
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "कोई संबंध नहीं", "en": "No relation"}
+          ],
+          "answer": {"hi": "छोटा (Smaller)", "en": "Smaller"}
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "(-5) + (+5) का मान क्या होगा?",
+            "en": "What will be the value of (-5) + (+5)?"
+          },
+          "options": [
+            {"hi": "10", "en": "10"},
+            {"hi": "-10", "en": "-10"},
+            {"hi": "0", "en": "0"},
+            {"hi": "1", "en": "1"}
+          ],
+          "answer": {"hi": "0", "en": "0"}
+        },
+        {
+          "q": {
+            "hi": "(-10) + (-2) का हल क्या है?",
+            "en": "What is the solution for (-10) + (-2)?"
+          },
+          "options": [
+            {"hi": "-8", "en": "-8"},
+            {"hi": "12", "en": "12"},
+            {"hi": "-12", "en": "-12"},
+            {"hi": "8", "en": "8"}
+          ],
+          "answer": {"hi": "-12", "en": "-12"}
+        },
+        {
+          "q": {
+            "hi": "संख्या रेखा पर -2 से 5 कदम बाईं ओर जाने पर क्या मिलेगा?",
+            "en": "What will you get by moving 5 steps to the left of -2 on a number line?"
+          },
+          "options": [
+            {"hi": "3", "en": "3"},
+            {"hi": "-3", "en": "-3"},
+            {"hi": "-7", "en": "-7"},
+            {"hi": "7", "en": "7"}
+          ],
+          "answer": {"hi": "-7", "en": "-7"}
+        },
+        {
+          "q": {
+            "hi": "निम्नलिखित में से कौन सा पूर्णांक आरोही क्रम (बढ़ते क्रम) में है?",
+            "en": "Which of the following integers are in ascending order?"
+          },
+          "options": [
+            {"hi": "0, -1, -2", "en": "0, -1, -2"},
+            {"hi": "-5, 0, 5", "en": "-5, 0, 5"},
+            {"hi": "5, 0, -5", "en": "5, 0, -5"},
+            {"hi": "-1, -2, -3", "en": "-1, -2, -3"}
+          ],
+          "answer": {"hi": "-5, 0, 5", "en": "-5, 0, 5"}
+        },
+        {
+          "q": {
+            "hi": "एक ऋणात्मक पूर्णांक का योज्य प्रतिलोम कैसा होता है?",
+            "en": "What is the additive inverse of a negative integer like?"
+          },
+          "options": [
+            {"hi": "ऋणात्मक", "en": "Negative"},
+            {"hi": "धनात्मक (Positive)", "en": "Positive"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "हमेशा 1", "en": "Always 1"}
+          ],
+          "answer": {"hi": "धनात्मक (Positive)", "en": "Positive"}
+        },
+        {
+          "q": {
+            "hi": "(-8) - (-10) का मान क्या होगा?",
+            "en": "What will be the value of (-8) - (-10)?"
+          },
+          "options": [
+            {"hi": "-18", "en": "-18"},
+            {"hi": "18", "en": "18"},
+            {"hi": "2", "en": "2"},
+            {"hi": "-2", "en": "-2"}
+          ],
+          "answer": {"hi": "2", "en": "2"}
+        },
+        {
+          "q": {
+            "hi": "पूर्णांकों के जोड़ में, यदि दोनों के चिह्न विपरीत हों, तो हम क्या करते हैं?",
+            "en": "In addition of integers, if signs are opposite, what do we do?"
+          },
+          "options": [
+            {"hi": "जोड़ते हैं", "en": "Add"},
+            {"hi": "घटाते हैं और बड़े का चिह्न लगाते हैं", "en": "Subtract and apply larger number's sign"},
+            {"hi": "गुणा करते हैं", "en": "Multiply"},
+            {"hi": "चिह्न हटा देते हैं", "en": "Remove the sign"}
+          ],
+          "answer": {"hi": "घटाते हैं और बड़े का चिह्न लगाते हैं", "en": "Subtract and apply larger number's sign"}
+        },
+        {
+          "q": {
+            "hi": "बैंक खाते से पैसे निकालने (Withdrawal) को किस चिह्न से दर्शाते हैं?",
+            "en": "Withdrawing money from a bank account is represented by which sign?"
+          },
+          "options": [
+            {"hi": "+", "en": "+"},
+            {"hi": "-", "en": "-"},
+            {"hi": "×", "en": "×"},
+            {"hi": "÷", "en": "÷"}
+          ],
+          "answer": {"hi": "-", "en": "-"}
+        },
+        {
+          "q": {
+            "hi": "-100 और -50 में से कौन सी संख्या दाईं ओर होगी?",
+            "en": "Which number will be to the right between -100 and -50?"
+          },
+          "options": [
+            {"hi": "-100", "en": "-100"},
+            {"hi": "-50", "en": "-50"},
+            {"hi": "दोनों एक ही जगह", "en": "Both at the same place"},
+            {"hi": "शून्य", "en": "Zero"}
+          ],
+          "answer": {"hi": "-50", "en": "-50"}
+        },
+        {
+          "q": {
+            "hi": "(-1) + (-1) + (-1) का योग क्या है?",
+            "en": "What is the sum of (-1) + (-1) + (-1)?"
+          },
+          "options": [
+            {"hi": "3", "en": "3"},
+            {"hi": "-3", "en": "-3"},
+            {"hi": "1", "en": "1"},
+            {"hi": "0", "en": "0"}
+          ],
+          "answer": {"hi": "-3", "en": "-3"}
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "किसी संख्या में से 0 घटाने पर क्या प्राप्त होता है?",
+            "en": "What is obtained by subtracting 0 from a number?"
+          },
+          "options": [
+            {"hi": "0", "en": "0"},
+            {"hi": "वही संख्या (Same number)", "en": "The same number"},
+            {"hi": "उसका उल्टा", "en": "Its opposite"},
+            {"hi": "1", "en": "1"}
+          ],
+          "answer": {"hi": "वही संख्या (Same number)", "en": "The same number"}
+        },
+        {
+          "q": {
+            "hi": "शून्य का योज्य प्रतिलोम क्या है?",
+            "en": "What is the additive inverse of zero?"
+          },
+          "options": [
+            {"hi": "1", "en": "1"},
+            {"hi": "-1", "en": "-1"},
+            {"hi": "शून्य (0)", "en": "Zero (0)"},
+            {"hi": "अपरिभाषित", "en": "Undefined"}
+          ],
+          "answer": {"hi": "शून्य (0)", "en": "Zero (0)"}
+        },
+        {
+          "q": {
+            "hi": "(-15) + 0 का मान क्या होगा?",
+            "en": "What will be the value of (-15) + 0?"
+          },
+          "options": [
+            {"hi": "0", "en": "0"},
+            {"hi": "15", "en": "15"},
+            {"hi": "-15", "en": "-15"},
+            {"hi": "1", "en": "1"}
+          ],
+          "answer": {"hi": "-15", "en": "-15"}
+        },
+        {
+          "q": {
+            "hi": "संख्या रेखा पर धनात्मक दिशा किस ओर होती है?",
+            "en": "Which side is the positive direction on a number line?"
+          },
+          "options": [
+            {"hi": "बाईं ओर", "en": "Left side"},
+            {"hi": "दाईं ओर (Right side)", "en": "Right side"},
+            {"hi": "ऊपर", "en": "Upwards"},
+            {"hi": "नीचे", "en": "Downwards"}
+          ],
+          "answer": {"hi": "दाईं ओर (Right side)", "en": "Right side"}
+        },
+        {
+          "q": {
+            "hi": "10 - (-4) का परिणाम क्या है?",
+            "en": "What is the result of 10 - (-4)?"
+          },
+          "options": [
+            {"hi": "6", "en": "6"},
+            {"hi": "-6", "en": "-6"},
+            {"hi": "14", "en": "14"},
+            {"hi": "-14", "en": "-14"}
+          ],
+          "answer": {"hi": "14", "en": "14"}
+        },
+        {
+          "q": {
+            "hi": "सबसे छोटा धनात्मक पूर्णांक कौन सा है?",
+            "en": "Which is the smallest positive integer?"
+          },
+          "options": [
+            {"hi": "0", "en": "0"},
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "-1", "en": "-1"}
+          ],
+          "answer": {"hi": "1", "en": "1"}
+        },
+        {
+          "q": {
+            "hi": "दो धनात्मक पूर्णांकों का योग हमेशा ______ होता है।",
+            "en": "The sum of two positive integers is always ______."
+          },
+          "options": [
+            {"hi": "ऋणात्मक", "en": "Negative"},
+            {"hi": "धनात्मक (Positive)", "en": "Positive"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "विषम", "en": "Odd"}
+          ],
+          "answer": {"hi": "धनात्मक (Positive)", "en": "Positive"}
+        },
+        {
+          "q": {
+            "hi": "(-2) - 5 का मान क्या है?",
+            "en": "What is the value of (-2) - 5?"
+          },
+          "options": [
+            {"hi": "3", "en": "3"},
+            {"hi": "-3", "en": "-3"},
+            {"hi": "-7", "en": "-7"},
+            {"hi": "7", "en": "7"}
+          ],
+          "answer": {"hi": "-7", "en": "-7"}
+        },
+        {
+          "q": {
+            "hi": "क्या प्राकृतिक संख्याएँ पूर्णांकों का हिस्सा हैं?",
+            "en": "Are natural numbers part of integers?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "केवल 0", "en": "Only 0"},
+            {"hi": "कह नहीं सकते", "en": "Cannot say"}
+          ],
+          "answer": {"hi": "हाँ", "en": "Yes"}
+        },
+        {
+          "q": {
+            "hi": "किसी संख्या रेखा पर -1, 0 के किस ओर होता है?",
+            "en": "On a number line, -1 is on which side of 0?"
+          },
+          "options": [
+            {"hi": "दाईं ओर", "en": "Right side"},
+            {"hi": "बाईं ओर (Left side)", "en": "Left side"},
+            {"hi": "नीचे", "en": "Below"},
+            {"hi": "ऊपर", "en": "Above"}
+          ],
+          "answer": {"hi": "बाईं ओर (Left side)", "en": "Left side"}
+        }
+      ],
+      "section5": [
+        {
+          "q": {
+            "hi": "पूर्णांकों के घटाव के लिए हम क्या करते हैं?",
+            "en": "What do we do for subtraction of integers?"
+          },
+          "options": [
+            {"hi": "गुणा करते हैं", "en": "Multiply"},
+            {"hi": "संख्या के योज्य प्रतिलोम को जोड़ते हैं", "en": "Add the additive inverse of the number"},
+            {"hi": "केवल चिह्न बदलते हैं", "en": "Only change the sign"},
+            {"hi": "शून्य जोड़ते हैं", "en": "Add zero"}
+          ],
+          "answer": {"hi": "संख्या के योज्य प्रतिलोम को जोड़ते हैं", "en": "Add the additive inverse of the number"}
+        },
+        {
+          "q": {
+            "hi": "(-20) + (-10) + (30) का मान क्या है?",
+            "en": "What is the value of (-20) + (-10) + (30)?"
+          },
+          "options": [
+            {"hi": "60", "en": "60"},
+            {"hi": "0", "en": "0"},
+            {"hi": "-60", "en": "-60"},
+            {"hi": "10", "en": "10"}
+          ],
+          "answer": {"hi": "0", "en": "0"}
+        },
+        {
+          "q": {
+            "hi": "तापमान -5°C से 2°C बढ़ गया। नया तापमान क्या होगा?",
+            "en": "Temperature rose from -5°C by 2°C. What will be the new temperature?"
+          },
+          "options": [
+            {"hi": "-7°C", "en": "-7°C"},
+            {"hi": "-3°C", "en": "-3°C"},
+            {"hi": "3°C", "en": "3°C"},
+            {"hi": "7°C", "en": "7°C"}
+          ],
+          "answer": {"hi": "-3°C", "en": "-3°C"}
+        },
+        {
+          "q": {
+            "hi": "इनमें से कौन सा पूर्णांक नहीं है?",
+            "en": "Which of these is not an integer?"
+          },
+          "options": [
+            {"hi": "-5", "en": "-5"},
+            {"hi": "0", "en": "0"},
+            {"hi": "1/2", "en": "1/2"},
+            {"hi": "100", "en": "100"}
+          ],
+          "answer": {"hi": "1/2", "en": "1/2"}
+        },
+        {
+          "q": {
+            "hi": "यदि आप 0 से 4 कदम बाईं ओर चलते हैं, तो किस पूर्णांक पर पहुँचेंगे?",
+            "en": "If you move 4 steps left from 0, which integer will you reach?"
+          },
+          "options": [
+            {"hi": "4", "en": "4"},
+            {"hi": "-4", "en": "-4"},
+            {"hi": "0", "en": "0"},
+            {"hi": "-1", "en": "-1"}
+          ],
+          "answer": {"hi": "-4", "en": "-4"}
+        },
+        {
+          "q": {
+            "hi": "(-12) - (-5) का मान क्या है?",
+            "en": "What is the value of (-12) - (-5)?"
+          },
+          "options": [
+            {"hi": "-17", "en": "-17"},
+            {"hi": "17", "en": "17"},
+            {"hi": "-7", "en": "-7"},
+            {"hi": "7", "en": "7"}
+          ],
+          "answer": {"hi": "-7", "en": "-7"}
+        },
+        {
+          "q": {
+            "hi": "शून्य (0) और -1 में से कौन बड़ा है?",
+            "en": "Which is greater between zero (0) and -1?"
+          },
+          "options": [
+            {"hi": "-1", "en": "-1"},
+            {"hi": "0", "en": "0"},
+            {"hi": "दोनों बराबर हैं", "en": "Both are equal"},
+            {"hi": "कोई नहीं", "en": "None"}
+          ],
+          "answer": {"hi": "0", "en": "0"}
+        },
+        {
+          "q": {
+            "hi": "परवर्ती प्राप्त करने के लिए पूर्णांक में क्या जोड़ते हैं?",
+            "en": "What do we add to an integer to get its successor?"
+          },
+          "options": [
+            {"hi": "-1", "en": "-1"},
+            {"hi": "0", "en": "0"},
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"}
+          ],
+          "answer": {"hi": "1", "en": "1"}
+        },
+        {
+          "q": {
+            "hi": "पूर्ववर्ती प्राप्त करने के लिए पूर्णांक में से क्या घटाते हैं?",
+            "en": "What do we subtract from an integer to get its predecessor?"
+          },
+          "options": [
+            {"hi": "1", "en": "1"},
+            {"hi": "-1", "en": "-1"},
+            {"hi": "0", "en": "0"},
+            {"hi": "2", "en": "2"}
+          ],
+          "answer": {"hi": "1", "en": "1"}
+        },
+        {
+          "q": {
+            "hi": "पूर्णांकों की अवधारणा हमें क्या समझने में मदद करती है?",
+            "en": "What does the concept of integers help us understand?"
+          },
+          "options": [
+            {"hi": "केवल जोड़", "en": "Only addition"},
+            {"hi": "विपरीत स्थितियाँ (जैसे लाभ-हानि, ऊपर-नीचे)", "en": "Opposite situations (e.g. profit-loss, up-down)"},
+            {"hi": "केवल ज्यामिति", "en": "Only geometry"},
+            {"hi": "कहानियाँ", "en": "Stories"}
+          ],
+          "answer": {"hi": "विपरीत स्थितियाँ (जैसे लाभ-हानि, ऊपर-नीचे)", "en": "Opposite situations (e.g. profit-loss, up-down)"}
         }
       ]
     },
