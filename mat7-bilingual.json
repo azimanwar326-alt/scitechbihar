@@ -5962,661 +5962,661 @@
       "section1": [
         {
           "q": {
-            "hi": "संख्या $10^{24}$ में आधार (base) क्या है?",
-            "en": "What is the base in the number $10^{24}$?"
+            "hi": "बीजीय व्यंजक किनके मेल से बनते हैं?",
+            "en": "Algebraic expressions are formed by the combination of what?"
           },
           "options": [
-            {"hi": "24", "en": "24"},
-            {"hi": "10", "en": "10"},
-            {"hi": "100", "en": "100"},
-            {"hi": "5.97", "en": "5.97"}
+            {"hi": "केवल चरों से", "en": "Only variables"},
+            {"hi": "केवल अचरों से", "en": "Only constants"},
+            {"hi": "चरों और अचरों से", "en": "Variables and constants"},
+            {"hi": "केवल संख्याओं से", "en": "Only numbers"}
           ],
-          "answer": {"hi": "10", "en": "10"}
+          "answer": {"hi": "चरों और अचरों से", "en": "Variables and constants"}
         },
         {
           "q": {
-            "hi": "संख्या $10^{24}$ में घातांक (exponent) क्या है?",
-            "en": "What is the exponent in the number $10^{24}$?"
+            "hi": "अक्षरों x, y, l, m इत्यादि का प्रयोग किसे व्यक्त करने के लिए किया जाता है?",
+            "en": "Letters like x, y, l, m etc. are used to represent what?"
           },
           "options": [
-            {"hi": "10", "en": "10"},
-            {"hi": "24", "en": "24"},
-            {"hi": "1024", "en": "1024"},
-            {"hi": "0", "en": "0"}
+            {"hi": "अचर (Constant)", "en": "Constant"},
+            {"hi": "चर (Variable)", "en": "Variable"},
+            {"hi": "समीकरण", "en": "Equation"},
+            {"hi": "अंक", "en": "Digit"}
           ],
-          "answer": {"hi": "24", "en": "24"}
+          "answer": {"hi": "चर (Variable)", "en": "Variable"}
         },
         {
           "q": {
-            "hi": "$2 \times 2 \times 2 \times 2 \times 2$ को घातांकीय रूप में कैसे लिखेंगे?",
-            "en": "How to write $2 \times 2 \times 2 \times 2 \times 2$ in exponential form?"
+            "hi": "एक संख्या जिसका मान निश्चित होता है, क्या कहलाती है?",
+            "en": "A number whose value is fixed is called?"
           },
           "options": [
-            {"hi": "25", "en": "25"},
-            {"hi": "$2^5$", "en": "$2^5$"},
-            {"hi": "$5^2$", "en": "$5^2$"},
-            {"hi": "10", "en": "10"}
+            {"hi": "चर", "en": "Variable"},
+            {"hi": "अचर (Constant)", "en": "Constant"},
+            {"hi": "पद", "en": "Term"},
+            {"hi": "गुणनखंड", "en": "Factor"}
           ],
-          "answer": {"hi": "$2^5$", "en": "$2^5$"}
+          "answer": {"hi": "अचर (Constant)", "en": "Constant"}
         },
         {
           "q": {
-            "hi": "$10^{-1}$ किसके बराबर है?",
-            "en": "$10^{-1}$ is equal to?"
+            "hi": "व्यंजक $4x + 5$ में $x$ का गुणांक (coefficient) क्या है?",
+            "en": "In the expression $4x + 5$, what is the coefficient of $x$?"
           },
           "options": [
-            {"hi": "10", "en": "10"},
-            {"hi": "-10", "en": "-10"},
-            {"hi": "1/10", "en": "1/10"},
-            {"hi": "1", "en": "1"}
+            {"hi": "5", "en": "5"},
+            {"hi": "4", "en": "4"},
+            {"hi": "x", "en": "x"},
+            {"hi": "9", "en": "9"}
           ],
-          "answer": {"hi": "1/10", "en": "1/10"}
+          "answer": {"hi": "4", "en": "4"}
         },
         {
           "q": {
-            "hi": "$10^{-2}$ का मान क्या है?",
-            "en": "What is the value of $10^{-2}$?"
+            "hi": "व्यंजक किससे मिलकर बनते हैं जिन्हें बाद में जोड़ा जाता है?",
+            "en": "Expressions are made up of what, which are added later?"
           },
           "options": [
-            {"hi": "1/100", "en": "1/100"},
-            {"hi": "1/20", "en": "1/20"},
-            {"hi": "-20", "en": "-20"},
-            {"hi": "100", "en": "100"}
+            {"hi": "पदों (Terms) से", "en": "Terms"},
+            {"hi": "गुणनखंडों से", "en": "Factors"},
+            {"hi": "अंकों से", "en": "Digits"},
+            {"hi": "चिह्नों से", "en": "Signs"}
           ],
-          "answer": {"hi": "1/100", "en": "1/100"}
+          "answer": {"hi": "पदों (Terms) से", "en": "Terms"}
         },
         {
           "q": {
-            "hi": "किसी भी शून्येतर पूर्णांक 'a' के लिए $a^{-m}$ किसके बराबर है?",
-            "en": "For any non-zero integer 'a', $a^{-m}$ is equal to?"
+            "hi": "एक पद किसका गुणनफल होता है?",
+            "en": "A term is a product of its what?"
           },
           "options": [
-            {"hi": "$a^m$", "en": "$a^m$"},
-            {"hi": "$1/a^m$", "en": "$1/a^m$"},
-            {"hi": "$-a^m$", "en": "$-a^m$"},
-            {"hi": "$m/a$", "en": "$m/a$"}
+            {"hi": "योगफल का", "en": "Sum"},
+            {"hi": "गुणनखंडों (Factors) का", "en": "Factors"},
+            {"hi": "भागफल का", "en": "Quotient"},
+            {"hi": "चरों का", "en": "Variables"}
           ],
-          "answer": {"hi": "$1/a^m$", "en": "$1/a^m$"}
+          "answer": {"hi": "गुणनखंडों (Factors) का", "en": "Factors"}
         },
         {
           "q": {
-            "hi": "$(-2)^{-3}$ का मान क्या होगा?",
-            "en": "What will be the value of $(-2)^{-3}$?"
+            "hi": "पदों के संख्यात्मक गुणनखंड को क्या कहते हैं?",
+            "en": "What is the numerical factor of a term called?"
           },
           "options": [
-            {"hi": "8", "en": "8"},
-            {"hi": "-8", "en": "-8"},
-            {"hi": "-1/8", "en": "-1/8"},
-            {"hi": "1/8", "en": "1/8"}
+            {"hi": "चर", "en": "Variable"},
+            {"hi": "व्यंजक", "en": "Expression"},
+            {"hi": "गुणांक (Coefficient)", "en": "Coefficient"},
+            {"hi": "घात", "en": "Power"}
           ],
-          "answer": {"hi": "-1/8", "en": "-1/8"}
+          "answer": {"hi": "गुणांक (Coefficient)", "en": "Coefficient"}
         },
         {
           "q": {
-            "hi": "संख्या $a^m \times a^n$ किसके बराबर है?",
-            "en": "The number $a^m \times a^n$ is equal to?"
+            "hi": "व्यंजक $10y - 20$ में पद कौन-कौन से हैं?",
+            "en": "What are the terms in the expression $10y - 20$?"
           },
           "options": [
-            {"hi": "$a^{m+n}$", "en": "$a^{m+n}$"},
-            {"hi": "$a^{mn}$", "en": "$a^{mn}$"},
-            {"hi": "$a^{m-n}$", "en": "$a^{m-n}$"},
-            {"hi": "$2a^{m+n}$", "en": "$2a^{m+n}$"}
+            {"hi": "10, y, 20", "en": "10, y, 20"},
+            {"hi": "10y, -20", "en": "10y, -20"},
+            {"hi": "y, -20", "en": "y, -20"},
+            {"hi": "10y, 20", "en": "10y, 20"}
           ],
-          "answer": {"hi": "$a^{m+n}$", "en": "$a^{m+n}$"}
+          "answer": {"hi": "10y, -20", "en": "10y, -20"}
         },
         {
           "q": {
-            "hi": "संख्या $a^m \\div a^n$ का मान क्या है?",
-            "en": "What is the value of $a^m \\div a^n$?"
+            "hi": "वह पद जिसमें कोई चर नहीं होता, क्या कहलाता है?",
+            "en": "A term that does not contain any variable is called?"
           },
           "options": [
-            {"hi": "$a^{m+n}$", "en": "$a^{m+n}$"},
-            {"hi": "$a^{m-n}$", "en": "$a^{m-n}$"},
-            {"hi": "$a^{m/n}$", "en": "$a^{m/n}$"},
-            {"hi": "1", "en": "1"}
+            {"hi": "अचर पद", "en": "Constant term"},
+            {"hi": "चर पद", "en": "Variable term"},
+            {"hi": "समान पद", "en": "Like term"},
+            {"hi": "शून्य पद", "en": "Zero term"}
           ],
-          "answer": {"hi": "$a^{m-n}$", "en": "$a^{m-n}$"}
+          "answer": {"hi": "अचर पद", "en": "Constant term"}
         },
         {
           "q": {
-            "hi": "$(a^m)^n$ का सरल रूप क्या है?",
-            "en": "What is the simplified form of $(a^m)^n$?"
+            "hi": "व्यंजक $xy + 7$ में पद 'xy' के गुणनखंड क्या हैं?",
+            "en": "In the expression $xy + 7$, what are the factors of the term 'xy'?"
           },
           "options": [
-            {"hi": "$a^{m+n}$", "en": "$a^{m+n}$"},
-            {"hi": "$a^{m-n}$", "en": "$a^{m-n}$"},
-            {"hi": "$a^{mn}$", "en": "$a^{mn}$"},
-            {"hi": "$a^{m^n}$", "en": "$a^{m^n}$"}
+            {"hi": "x और y", "en": "x and y"},
+            {"hi": "x, y और 7", "en": "x, y and 7"},
+            {"hi": "केवल x", "en": "Only x"},
+            {"hi": "xy", "en": "xy"}
           ],
-          "answer": {"hi": "$a^{mn}$", "en": "$a^{mn}$"}
+          "answer": {"hi": "x और y", "en": "x and y"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "$a^m \times b^m$ किसके बराबर है?",
-            "en": "$a^m \times b^m$ is equal to?"
+            "hi": "एक पद वाला व्यंजक क्या कहलाता है?",
+            "en": "An expression with one term is called?"
           },
           "options": [
-            {"hi": "$(ab)^m$", "en": "$(ab)^m$"},
-            {"hi": "$(a+b)^m$", "en": "$(a+b)^m$"},
-            {"hi": "$ab^{2m}$", "en": "$ab^{2m}$"},
-            {"hi": "$a^m + b^m$", "en": "$a^m + b^m$"}
+            {"hi": "एकपदी (Monomial)", "en": "Monomial"},
+            {"hi": "द्विपद (Binomial)", "en": "Binomial"},
+            {"hi": "त्रिपद (Trinomial)", "en": "Trinomial"},
+            {"hi": "बहुपद (Polynomial)", "en": "Polynomial"}
           ],
-          "answer": {"hi": "$(ab)^m$", "en": "$(ab)^m$"}
+          "answer": {"hi": "एकपदी (Monomial)", "en": "Monomial"}
         },
         {
           "q": {
-            "hi": "$a^m \\div b^m$ का मान क्या होगा?",
-            "en": "What will be the value of $a^m \\div b^m$?"
+            "hi": "दो पदों वाला व्यंजक क्या कहलाता है?",
+            "en": "An expression containing two terms is called?"
           },
           "options": [
-            {"hi": "$(a/b)^m$", "en": "$(a/b)^m$"},
-            {"hi": "$a^m - b^m$", "en": "$a^m - b^m$"},
-            {"hi": "$(ab)^m$", "en": "$(ab)^m$"},
-            {"hi": "1", "en": "1"}
+            {"hi": "एकपदी", "en": "Monomial"},
+            {"hi": "द्विपद (Binomial)", "en": "Binomial"},
+            {"hi": "त्रिपद", "en": "Trinomial"},
+            {"hi": "अचर", "en": "Constant"}
           ],
-          "answer": {"hi": "$(a/b)^m$", "en": "$(a/b)^m$"}
+          "answer": {"hi": "द्विपद (Binomial)", "en": "Binomial"}
         },
         {
           "q": {
-            "hi": "किसी भी शून्येतर संख्या 'a' के लिए $a^0$ का मान क्या होता है?",
-            "en": "What is the value of $a^0$ for any non-zero number 'a'?"
+            "hi": "तीन पदों वाला व्यंजक क्या कहलाता है?",
+            "en": "An expression containing three terms is called?"
           },
           "options": [
-            {"hi": "0", "en": "0"},
+            {"hi": "एकपदी", "en": "Monomial"},
+            {"hi": "द्विपद", "en": "Binomial"},
+            {"hi": "त्रिपद (Trinomial)", "en": "Trinomial"},
+            {"hi": "अचर", "en": "Constant"}
+          ],
+          "answer": {"hi": "त्रिपद (Trinomial)", "en": "Trinomial"}
+        },
+        {
+          "q": {
+            "hi": "वे पद जिनके बीजीय गुणनखंड एक जैसे होते हैं, क्या कहलाते हैं?",
+            "en": "Terms which have the same algebraic factors are called?"
+          },
+          "options": [
+            {"hi": "असमान पद", "en": "Unlike terms"},
+            {"hi": "समान पद (Like terms)", "en": "Like terms"},
+            {"hi": "एकपदी", "en": "Monomials"},
+            {"hi": "गुणांक", "en": "Coefficients"}
+          ],
+          "answer": {"hi": "समान पद (Like terms)", "en": "Like terms"}
+        },
+        {
+          "q": {
+            "hi": "वे पद जिनके बीजीय गुणनखंड भिन्न-भिन्न होते हैं, क्या कहलाते हैं?",
+            "en": "Terms which have different algebraic factors are called?"
+          },
+          "options": [
+            {"hi": "समान पद", "en": "Like terms"},
+            {"hi": "असमान पद (Unlike terms)", "en": "Unlike terms"},
+            {"hi": "द्विपद", "en": "Binomials"},
+            {"hi": "अचर", "en": "Constants"}
+          ],
+          "answer": {"hi": "असमान पद (Unlike terms)", "en": "Unlike terms"}
+        },
+        {
+          "q": {
+            "hi": "व्यंजक $2x^2 + 3y$ में पदों की संख्या कितनी है?",
+            "en": "How many terms are in the expression $2x^2 + 3y$?"
+          },
+          "options": [
             {"hi": "1", "en": "1"},
-            {"hi": "a", "en": "a"},
-            {"hi": "-1", "en": "-1"}
-          ],
-          "answer": {"hi": "1", "en": "1"}
-        },
-        {
-          "q": {
-            "hi": "पृथ्वी का द्रव्यमान $5.97 \times 10^{24}$ kg है। यहाँ $10^{24}$ क्या दर्शाता है?",
-            "en": "The mass of Earth is $5.97 \times 10^{24}$ kg. What does $10^{24}$ represent here?"
-          },
-          "options": [
-            {"hi": "बड़ी संख्या का घातांकीय रूप", "en": "Exponential form of a large number"},
-            {"hi": "द्रव्यमान की इकाई", "en": "Unit of mass"},
-            {"hi": "एक ऋणात्मक संख्या", "en": "A negative number"},
-            {"hi": "मानक रूप नहीं है", "en": "Not a standard form"}
-          ],
-          "answer": {"hi": "बड़ी संख्या का घातांकीय रूप", "en": "Exponential form of a large number"}
-        },
-        {
-          "q": {
-            "hi": "$2^{-4} \times 2^{-3}$ का मान क्या है?",
-            "en": "What is the value of $2^{-4} \times 2^{-3}$?"
-          },
-          "options": [
-            {"hi": "$2^7$", "en": "$2^7$"},
-            {"hi": "$2^{-7}$", "en": "$2^{-7}$"},
-            {"hi": "$2^{-1}$", "en": "$2^{-1}$"},
-            {"hi": "$2^{12}$", "en": "$2^{12}$"}
-          ],
-          "answer": {"hi": "$2^{-7}$", "en": "$2^{-7}$"}
-        },
-        {
-          "q": {
-            "hi": "$(-3)^4 \times (-3)^{-4}$ का मान ज्ञात कीजिए।",
-            "en": "Find the value of $(-3)^4 \times $(-3)^{-4}$."
-          },
-          "options": [
-            {"hi": "-3", "en": "-3"},
-            {"hi": "0", "en": "0"},
-            {"hi": "1", "en": "1"},
-            {"hi": "81", "en": "81"}
-          ],
-          "answer": {"hi": "1", "en": "1"}
-        },
-        {
-          "q": {
-            "hi": "$5^2 \\div 5^{-3}$ का मान क्या होगा?",
-            "en": "What will be the value of $5^2 \\div 5^{-3}$?"
-          },
-          "options": [
-            {"hi": "$5^{-1}$", "en": "$5^{-1}$"},
-            {"hi": "$5^5$", "en": "$5^5$"},
-            {"hi": "$5^{-5}$", "en": "$5^{-5}$"},
-            {"hi": "$5^1$", "en": "$5^1$"}
-          ],
-          "answer": {"hi": "$5^5$", "en": "$5^5$"}
-        },
-        {
-          "q": {
-            "hi": "$1/3^{-2}$ को सरल करने पर क्या प्राप्त होगा?",
-            "en": "What will be obtained by simplifying $1/3^{-2}$?"
-          },
-          "options": [
-            {"hi": "1/9", "en": "1/9"},
-            {"hi": "9", "en": "9"},
-            {"hi": "6", "en": "6"},
-            {"hi": "-9", "en": "-9"}
-          ],
-          "answer": {"hi": "9", "en": "9"}
-        },
-        {
-          "q": {
-            "hi": "संख्या $0.000007$ को मानक रूप में कैसे लिखेंगे?",
-            "en": "How to write $0.000007$ in standard form?"
-          },
-          "options": [
-            {"hi": "$7 \times 10^6$", "en": "$7 \times 10^6$"},
-            {"hi": "$7 \times 10^{-6}$", "en": "$7 \times 10^{-6}$"},
-            {"hi": "$0.7 \times 10^{-5}$", "en": "$0.7 \times 10^{-5}$"},
-            {"hi": "$70 \times 10^{-7}$", "en": "$70 \times 10^{-7}$"}
-          ],
-          "answer": {"hi": "$7 \times 10^{-6}$", "en": "$7 \times 10^{-6}$"}
-        },
-        {
-          "q": {
-            "hi": "मानक रूप में $m$ का मान $1 \\leq m < 10$ के बीच होता है, इसे क्या कहते हैं?",
-            "en": "In standard form, $m$ lies between $1 \\leq m < 10$, what is this called?"
-          },
-          "options": [
-            {"hi": "सामान्य रूप", "en": "Usual form"},
-            {"hi": "वैज्ञानिक संकेतन (Scientific Notation)", "en": "Scientific Notation"},
-            {"hi": "घातांकीय विस्तार", "en": "Exponential expansion"},
-            {"hi": "गुणनखंडन", "en": "Factorization"}
-          ],
-          "answer": {"hi": "वैज्ञानिक संकेतन (Scientific Notation)", "en": "Scientific Notation"}
-        }
-      ],
-      "section3": [
-        {
-          "q": {
-            "hi": "$3^{-2}$ का मान क्या है?",
-            "en": "What is the value of $3^{-2}$?"
-          },
-          "options": [
-            {"hi": "9", "en": "9"},
-            {"hi": "-9", "en": "-9"},
-            {"hi": "1/9", "en": "1/9"},
-            {"hi": "-1/9", "en": "-1/9"}
-          ],
-          "answer": {"hi": "1/9", "en": "1/9"}
-        },
-        {
-          "q": {
-            "hi": "$(-4)^{-2}$ का मान ज्ञात कीजिए।",
-            "en": "Find the value of $(-4)^{-2}$."
-          },
-          "options": [
-            {"hi": "16", "en": "16"},
-            {"hi": "-16", "en": "-16"},
-            {"hi": "1/16", "en": "1/16"},
-            {"hi": "-1/16", "en": "-1/16"}
-          ],
-          "answer": {"hi": "1/16", "en": "1/16"}
-        },
-        {
-          "q": {
-            "hi": "$(1/2)^{-5}$ किसके बराबर है?",
-            "en": "$(1/2)^{-5}$ is equal to?"
-          },
-          "options": [
-            {"hi": "1/32", "en": "1/32"},
-            {"hi": "32", "en": "32"},
-            {"hi": "10", "en": "10"},
-            {"hi": "-32", "en": "-32"}
-          ],
-          "answer": {"hi": "32", "en": "32"}
-        },
-        {
-          "q": {
-            "hi": "सरल कीजिए: $2^5 \\div 2^8$",
-            "en": "Simplify: $2^5 \\div 2^8$"
-          },
-          "options": [
-            {"hi": "$2^3$", "en": "$2^3$"},
-            {"hi": "$2^{-3}$", "en": "$2^{-3}$"},
-            {"hi": "$2^{13}$", "en": "$2^{13}$"},
-            {"hi": "1", "en": "1"}
-          ],
-          "answer": {"hi": "$2^{-3}$", "en": "$2^{-3}$"}
-        },
-        {
-          "q": {
-            "hi": "ज्ञात कीजिए: $(3^0 + 4^{-1}) \times 2^2$",
-            "en": "Find: $(3^0 + 4^{-1}) \times 2^2$"
-          },
-          "options": [
-            {"hi": "4", "en": "4"},
-            {"hi": "5", "en": "5"},
             {"hi": "2", "en": "2"},
-            {"hi": "1", "en": "1"}
-          ],
-          "answer": {"hi": "5", "en": "5"}
-        },
-        {
-          "q": {
-            "hi": "मान ज्ञात कीजिए: $(2^{-1} \times 4^{-1}) \\div 2^{-2}$",
-            "en": "Evaluate: $(2^{-1} \times 4^{-1}) \\div 2^{-2}$"
-          },
-          "options": [
-            {"hi": "1/2", "en": "1/2"},
-            {"hi": "2", "en": "2"},
-            {"hi": "1", "en": "1"},
-            {"hi": "1/4", "en": "1/4"}
-          ],
-          "answer": {"hi": "1/2", "en": "1/2"}
-        },
-        {
-          "q": {
-            "hi": "$((1/2)^{-2} + (1/3)^{-2} + (1/4)^{-2})$ का मान क्या है?",
-            "en": "What is the value of $((1/2)^{-2} + (1/3)^{-2} + (1/4)^{-2})$?"
-          },
-          "options": [
-            {"hi": "29", "en": "29"},
-            {"hi": "20", "en": "20"},
-            {"hi": "1/29", "en": "1/29"},
-            {"hi": "9", "en": "9"}
-          ],
-          "answer": {"hi": "29", "en": "29"}
-        },
-        {
-          "q": {
-            "hi": "$(3^{-1} + 4^{-1} + 5^{-1})^0$ का मान क्या होगा?",
-            "en": "What will be the value of $(3^{-1} + 4^{-1} + 5^{-1})^0$?"
-          },
-          "options": [
-            {"hi": "12", "en": "12"},
-            {"hi": "1", "en": "1"},
-            {"hi": "0", "en": "0"},
-            {"hi": "60", "en": "60"}
-          ],
-          "answer": {"hi": "1", "en": "1"}
-        },
-        {
-          "q": {
-            "hi": "$((-2/3)^{-2})^2$ का मान ज्ञात कीजिए।",
-            "en": "Find the value of $((-2/3)^{-2})^2$."
-          },
-          "options": [
-            {"hi": "81/16", "en": "81/16"},
-            {"hi": "16/81", "en": "16/81"},
-            {"hi": "-81/16", "en": "-81/16"},
-            {"hi": "1", "en": "1"}
-          ],
-          "answer": {"hi": "81/16", "en": "81/16"}
-        },
-        {
-          "q": {
-            "hi": "सरल कीजिए: $(8^{-1} \times 5^3) / 2^{-4}$",
-            "en": "Simplify: $(8^{-1} \times 5^3) / 2^{-4}$"
-          },
-          "options": [
-            {"hi": "250", "en": "250"},
-            {"hi": "125", "en": "125"},
-            {"hi": "500", "en": "500"},
-            {"hi": "1000", "en": "1000"}
-          ],
-          "answer": {"hi": "250", "en": "250"}
-        }
-      ],
-      "section4": [
-        {
-          "q": {
-            "hi": "यदि $5^m \\div 5^{-3} = 5^5$ है, तो m का मान क्या है?",
-            "en": "If $5^m \\div 5^{-3} = 5^5$, what is the value of m?"
-          },
-          "options": [
-            {"hi": "2", "en": "2"},
-            {"hi": "8", "en": "8"},
-            {"hi": "-2", "en": "-2"},
-            {"hi": "5", "en": "5"}
+            {"hi": "3", "en": "3"},
+            {"hi": "4", "en": "4"}
           ],
           "answer": {"hi": "2", "en": "2"}
         },
         {
           "q": {
-            "hi": "$(1/3)^{-1} - (1/4)^{-1}$ का मान ज्ञात कीजिए।",
-            "en": "Find the value of $(1/3)^{-1} - (1/4)^{-1}$."
+            "hi": "निम्नलिखित में से कौन सा एकपदी (monomial) है?",
+            "en": "Which of the following is a monomial?"
           },
           "options": [
+            {"hi": "$x + y$", "en": "$x + y$"},
+            {"hi": "$3xy$", "en": "$3xy$"},
+            {"hi": "$x^2 + 5$", "en": "$x^2 + 5$"},
+            {"hi": "$a + b + c$", "en": "$a + b + c$"}
+          ],
+          "answer": {"hi": "$3xy$", "en": "$3xy$"}
+        },
+        {
+          "q": {
+            "hi": "व्यंजक $5x^2 - 3x + 2$ किस प्रकार का व्यंजक है?",
+            "en": "What type of expression is $5x^2 - 3x + 2$?"
+          },
+          "options": [
+            {"hi": "एकपदी", "en": "Monomial"},
+            {"hi": "द्विपद", "en": "Binomial"},
+            {"hi": "त्रिपद (Trinomial)", "en": "Trinomial"},
+            {"hi": "अचर", "en": "Constant"}
+          ],
+          "answer": {"hi": "त्रिपद (Trinomial)", "en": "Trinomial"}
+        },
+        {
+          "q": {
+            "hi": "पदों $4xy$ और $-3xy$ में संबंध क्या है?",
+            "en": "What is the relation between the terms $4xy$ and $-3xy$?"
+          },
+          "options": [
+            {"hi": "वे असमान पद हैं", "en": "They are unlike terms"},
+            {"hi": "वे समान पद (Like terms) हैं", "en": "They are like terms"},
+            {"hi": "वे द्विपद हैं", "en": "They are binomials"},
+            {"hi": "वे अचर हैं", "en": "They are constants"}
+          ],
+          "answer": {"hi": "वे समान पद (Like terms) हैं", "en": "They are like terms"}
+        },
+        {
+          "q": {
+            "hi": "किसी भी व्यंजक जिसमें एक या अधिक पद हों, उसे सामान्यतः क्या कहते हैं?",
+            "en": "An expression containing one or more terms is generally called?"
+          },
+          "options": [
+            {"hi": "बहुपद (Polynomial)", "en": "Polynomial"},
+            {"hi": "एकपदी", "en": "Monomial"},
+            {"hi": "द्विपद", "en": "Binomial"},
+            {"hi": "समीकरण", "en": "Equation"}
+          ],
+          "answer": {"hi": "बहुपद (Polynomial)", "en": "Polynomial"}
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "समान पदों को जोड़ने के लिए हम उनके किन मानों को जोड़ते हैं?",
+            "en": "To add like terms, what values do we add?"
+          },
+          "options": [
+            {"hi": "बीजीय गुणनखंडों को", "en": "Algebraic factors"},
+            {"hi": "संख्यात्मक गुणांकों (Numerical coefficients) को", "en": "Numerical coefficients"},
+            {"hi": "चरों को", "en": "Variables"},
+            {"hi": "घातों को", "en": "Powers"}
+          ],
+          "answer": {"hi": "संख्यात्मक गुणांकों (Numerical coefficients) को", "en": "Numerical coefficients"}
+        },
+        {
+          "q": {
+            "hi": "क्या असमान पदों (Unlike terms) को एक ही पद के रूप में जोड़ा जा सकता है?",
+            "en": "Can unlike terms be added into a single term?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "केवल धनात्मक के लिए", "en": "Only for positive"},
+            {"hi": "कभी-कभी", "en": "Sometimes"}
+          ],
+          "answer": {"hi": "नहीं", "en": "No"}
+        },
+        {
+          "q": {
+            "hi": "$3x$ और $4x$ का योग क्या होगा?",
+            "en": "What will be the sum of $3x$ and $4x$?"
+          },
+          "options": [
+            {"hi": "12x", "en": "12x"},
+            {"hi": "7x", "en": "7x"},
+            {"hi": "$7x^2$", "en": "$7x^2$"},
+            {"hi": "34x", "en": "34x"}
+          ],
+          "answer": {"hi": "7x", "en": "7x"}
+        },
+        {
+          "q": {
+            "hi": "$8xy - 3xy$ का परिणाम क्या है?",
+            "en": "What is the result of $8xy - 3xy$?"
+          },
+          "options": [
+            {"hi": "11xy", "en": "11xy"},
+            {"hi": "5xy", "en": "5xy"},
+            {"hi": "5", "en": "5"},
+            {"hi": "24xy", "en": "24xy"}
+          ],
+          "answer": {"hi": "5xy", "en": "5xy"}
+        },
+        {
+          "q": {
+            "hi": "व्यंजक $x + y$ और $x - y$ का योग क्या होगा?",
+            "en": "What will be the sum of expressions $x + y$ and $x - y$?"
+          },
+          "options": [
+            {"hi": "2x", "en": "2x"},
+            {"hi": "2y", "en": "2y"},
+            {"hi": "$2x + 2y$", "en": "$2x + 2y$"},
+            {"hi": "0", "en": "0"}
+          ],
+          "answer": {"hi": "2x", "en": "2x"}
+        },
+        {
+          "q": {
+            "hi": "असमान पदों $2x$ और $3y$ का योग कैसे लिखा जाएगा?",
+            "en": "How will the sum of unlike terms $2x$ and $3y$ be written?"
+          },
+          "options": [
+            {"hi": "5xy", "en": "5xy"},
+            {"hi": "6xy", "en": "6xy"},
+            {"hi": "$2x + 3y$", "en": "$2x + 3y$"},
+            {"hi": "5", "en": "5"}
+          ],
+          "answer": {"hi": "$2x + 3y$", "en": "$2x + 3y$"}
+        },
+        {
+          "q": {
+            "hi": "व्यंजक $(3a - b + 4)$ में से $(a - b)$ घटाने पर क्या प्राप्त होगा?",
+            "en": "What will be obtained by subtracting $(a - b)$ from $(3a - b + 4)$?"
+          },
+          "options": [
+            {"hi": "$2a + 4$", "en": "$2a + 4$"},
+            {"hi": "$2a - 2b + 4$", "en": "$2a - 2b + 4$"},
+            {"hi": "$4a + 4$", "en": "$4a + 4$"},
+            {"hi": "$2a + b + 4$", "en": "$2a + b + 4$"}
+          ],
+          "answer": {"hi": "$2a + 4$", "en": "$2a + 4$"}
+        },
+        {
+          "q": {
+            "hi": "$11ab$ में से $5ab$ घटाने पर क्या मिलेगा?",
+            "en": "What will be obtained by subtracting $5ab$ from $11ab$?"
+          },
+          "options": [
+            {"hi": "6", "en": "6"},
+            {"hi": "6ab", "en": "6ab"},
+            {"hi": "16ab", "en": "16ab"},
+            {"hi": "55ab", "en": "55ab"}
+          ],
+          "answer": {"hi": "6ab", "en": "6ab"}
+        },
+        {
+          "q": {
+            "hi": "$x^2 + 5x$ और $2x^2 - x$ का योग ज्ञात कीजिए।",
+            "en": "Find the sum of $x^2 + 5x$ and $2x^2 - x$."
+          },
+          "options": [
+            {"hi": "$3x^2 + 4x$", "en": "$3x^2 + 4x$"},
+            {"hi": "$3x^2 + 6x$", "en": "$3x^2 + 6x$"},
+            {"hi": "$x^2 + 4x$", "en": "$x^2 + 4x$"},
+            {"hi": "$3x^2 - 4x$", "en": "$3x^2 - 4x$"}
+          ],
+          "answer": {"hi": "$3x^2 + 4x$", "en": "$3x^2 + 4x$"}
+        },
+        {
+          "q": {
+            "hi": "जब हम दो बीजीय व्यंजकों को जोड़ते हैं, तो कौन से पदों को संयोजित किया जाता है?",
+            "en": "When we add two algebraic expressions, which terms are combined?"
+          },
+          "options": [
+            {"hi": "सभी पदों को", "en": "All terms"},
+            {"hi": "केवल समान पदों (Like terms) को", "en": "Only like terms"},
+            {"hi": "केवल अचरों को", "en": "Only constants"},
+            {"hi": "केवल चरों को", "en": "Only variables"}
+          ],
+          "answer": {"hi": "केवल समान पदों (Like terms) को", "en": "Only like terms"}
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "यदि $x = 2$ है, तो व्यंजक $x + 3$ का मान क्या होगा?",
+            "en": "If $x = 2$, what will be the value of the expression $x + 3$?"
+          },
+          "options": [
+            {"hi": "2", "en": "2"},
+            {"hi": "3", "en": "3"},
+            {"hi": "5", "en": "5"},
+            {"hi": "6", "en": "6"}
+          ],
+          "answer": {"hi": "5", "en": "5"}
+        },
+        {
+          "q": {
+            "hi": "यदि $n = -2$ है, तो $5n - 2$ का मान क्या होगा?",
+            "en": "If $n = -2$, what will be the value of $5n - 2$?"
+          },
+          "options": [
+            {"hi": "8", "en": "8"},
+            {"hi": "-12", "en": "-12"},
+            {"hi": "-8", "en": "-8"},
+            {"hi": "12", "en": "12"}
+          ],
+          "answer": {"hi": "-12", "en": "-12"}
+        },
+        {
+          "q": {
+            "hi": "यदि $a = 3$ और $b = 2$ है, तो $a^2 - b^2$ का मान ज्ञात कीजिए।",
+            "en": "If $a = 3$ and $b = 2$, find the value of $a^2 - b^2$."
+          },
+          "options": [
+            {"hi": "5", "en": "5"},
             {"hi": "1", "en": "1"},
-            {"hi": "-1", "en": "-1"},
+            {"hi": "13", "en": "13"},
+            {"hi": "6", "en": "6"}
+          ],
+          "answer": {"hi": "5", "en": "5"}
+        },
+        {
+          "q": {
+            "hi": "यदि $z = 10$ है, तो $z^3 - 3(z - 10)$ का मान क्या है?",
+            "en": "If $z = 10$, what is the value of $z^3 - 3(z - 10)$?"
+          },
+          "options": [
+            {"hi": "1000", "en": "1000"},
+            {"hi": "970", "en": "970"},
+            {"hi": "0", "en": "0"},
+            {"hi": "1030", "en": "1030"}
+          ],
+          "answer": {"hi": "1000", "en": "1000"}
+        },
+        {
+          "q": {
+            "hi": "किसी वर्ग का परिमाप $4l$ है। यदि $l = 5$ cm है, तो परिमाप क्या होगा?",
+            "en": "The perimeter of a square is $4l$. If $l = 5$ cm, what is the perimeter?"
+          },
+          "options": [
+            {"hi": "20 cm", "en": "20 cm"},
+            {"hi": "25 cm", "en": "25 cm"},
+            {"hi": "9 cm", "en": "9 cm"},
+            {"hi": "10 cm", "en": "10 cm"}
+          ],
+          "answer": {"hi": "20 cm", "en": "20 cm"}
+        },
+        {
+          "q": {
+            "hi": "यदि $x = 0$ है, तो $2x^2 + x - 5$ का मान क्या होगा?",
+            "en": "If $x = 0$, what will be the value of $2x^2 + x - 5$?"
+          },
+          "options": [
+            {"hi": "0", "en": "0"},
+            {"hi": "5", "en": "5"},
+            {"hi": "-5", "en": "-5"},
+            {"hi": "-3", "en": "-3"}
+          ],
+          "answer": {"hi": "-5", "en": "-5"}
+        },
+        {
+          "q": {
+            "hi": "एक समबाहु त्रिभुज का परिमाप $3a$ है। यदि भुजा $a = 4$ है, तो परिमाप है:",
+            "en": "The perimeter of an equilateral triangle is $3a$. If side $a = 4$, the perimeter is:"
+          },
+          "options": [
             {"hi": "7", "en": "7"},
-            {"hi": "1/12", "en": "1/12"}
-          ],
-          "answer": {"hi": "-1", "en": "-1"}
-        },
-        {
-          "q": {
-            "hi": "$(5/8)^{-7} \times (8/5)^{-4}$ का मान क्या होगा?",
-            "en": "What will be the value of $(5/8)^{-7} \times (8/5)^{-4}$?"
-          },
-          "options": [
-            {"hi": "512/125", "en": "512/125"},
-            {"hi": "125/512", "en": "125/512"},
+            {"hi": "12", "en": "12"},
             {"hi": "1", "en": "1"},
-            {"hi": "8/5", "en": "8/5"}
+            {"hi": "16", "en": "16"}
           ],
-          "answer": {"hi": "512/125", "en": "512/125"}
+          "answer": {"hi": "12", "en": "12"}
         },
         {
           "q": {
-            "hi": "$0.0000000000085$ को मानक रूप में लिखिए।",
-            "en": "Write $0.0000000000085$ in standard form."
+            "hi": "यदि $a = 5$ और $b = -3$ है, तो $a + b$ का मान है:",
+            "en": "If $a = 5$ and $b = -3$, the value of $a + b$ is:"
           },
           "options": [
-            {"hi": "$8.5 \times 10^{-12}$", "en": "$8.5 \times 10^{-12}$"},
-            {"hi": "$8.5 \times 10^{-11}$", "en": "$8.5 \times 10^{-11}$"},
-            {"hi": "$85 \times 10^{-13}$", "en": "$85 \times 10^{-13}$"},
-            {"hi": "$0.85 \times 10^{-11}$", "en": "$0.85 \times 10^{-11}$"}
+            {"hi": "8", "en": "8"},
+            {"hi": "2", "en": "2"},
+            {"hi": "-2", "en": "-2"},
+            {"hi": "15", "en": "15"}
           ],
-          "answer": {"hi": "$8.5 \times 10^{-12}$", "en": "$8.5 \times 10^{-12}$"}
+          "answer": {"hi": "2", "en": "2"}
         },
         {
           "q": {
-            "hi": "6020000000000000 का मानक रूप क्या है?",
-            "en": "What is the standard form of 6020000000000000?"
+            "hi": "व्यंजक $100 - 10x^3$ का मान $x = 2$ पर क्या होगा?",
+            "en": "What will be the value of expression $100 - 10x^3$ at $x = 2$?"
           },
           "options": [
-            {"hi": "$6.02 \times 10^{15}$", "en": "$6.02 \times 10^{15}$"},
-            {"hi": "$6.02 \times 10^{13}$", "en": "$6.02 \times 10^{13}$"},
-            {"hi": "$602 \times 10^{13}$", "en": "$602 \times 10^{13}$"},
-            {"hi": "$6.02 \times 10^{-15}$", "en": "$6.02 \times 10^{-15}$"}
+            {"hi": "20", "en": "20"},
+            {"hi": "80", "en": "80"},
+            {"hi": "40", "en": "40"},
+            {"hi": "60", "en": "60"}
           ],
-          "answer": {"hi": "$6.02 \times 10^{15}$", "en": "$6.02 \times 10^{15}$"}
+          "answer": {"hi": "20", "en": "20"}
         },
         {
           "q": {
-            "hi": "$3.02 \times 10^{-6}$ को सामान्य रूप में बदलिए।",
-            "en": "Change $3.02 \times 10^{-6}$ to usual form."
+            "hi": "किसी आयत का क्षेत्रफल $l \\times b$ है। यदि $l = 10, b = 5$ है, तो क्षेत्रफल क्या है?",
+            "en": "Area of a rectangle is $l \\times b$. If $l = 10, b = 5$, what is the area?"
           },
           "options": [
-            {"hi": "0.00000302", "en": "0.00000302"},
-            {"hi": "0.0000302", "en": "0.0000302"},
-            {"hi": "3020000", "en": "3020000"},
-            {"hi": "0.000302", "en": "0.000302"}
+            {"hi": "15", "en": "15"},
+            {"hi": "50", "en": "50"},
+            {"hi": "2", "en": "2"},
+            {"hi": "30", "en": "30"}
           ],
-          "answer": {"hi": "0.00000302", "en": "0.00000302"}
-        },
-        {
-          "q": {
-            "hi": "$4.5 \times 10^4$ का सामान्य रूप क्या है?",
-            "en": "What is the usual form of $4.5 \times 10^4$?"
-          },
-          "options": [
-            {"hi": "45000", "en": "45000"},
-            {"hi": "4500", "en": "4500"},
-            {"hi": "0.00045", "en": "0.00045"},
-            {"hi": "450000", "en": "450000"}
-          ],
-          "answer": {"hi": "45000", "en": "45000"}
-        },
-        {
-          "q": {
-            "hi": "1 माइक्रोन $1/1000000$ m के बराबर है, इसे मानक रूप में कैसे लिखेंगे?",
-            "en": "1 micron is equal to $1/1000000$ m, how to write it in standard form?"
-          },
-          "options": [
-            {"hi": "$10^6$ m", "en": "$10^6$ m"},
-            {"hi": "$10^{-6}$ m", "en": "$10^{-6}$ m"},
-            {"hi": "$1 \times 10^{-5}$ m", "en": "$1 \times 10^{-5}$ m"},
-            {"hi": "$0.1 \times 10^{-6}$ m", "en": "$0.1 \times 10^{-6}$ m"}
-          ],
-          "answer": {"hi": "$10^{-6}$ m", "en": "$10^{-6}$ m"}
-        },
-        {
-          "q": {
-            "hi": "एक बैक्टीरिया का माप $0.0000005$ m है। इसका मानक रूप क्या है?",
-            "en": "The size of a bacteria is $0.0000005$ m. What is its standard form?"
-          },
-          "options": [
-            {"hi": "$5 \times 10^{-7}$ m", "en": "$5 \times 10^{-7}$ m"},
-            {"hi": "$5 \times 10^7$ m", "en": "$5 \times 10^7$ m"},
-            {"hi": "$0.5 \times 10^{-6}$ m", "en": "$0.5 \times 10^{-6}$ m"},
-            {"hi": "$50 \times 10^{-8}$ m", "en": "$50 \times 10^{-8}$ m"}
-          ],
-          "answer": {"hi": "$5 \times 10^{-7}$ m", "en": "$5 \times 10^{-7}$ m"}
-        },
-        {
-          "q": {
-            "hi": "एक कागज की मोटाई $0.07$ mm है। मानक रूप में यह क्या होगा?",
-            "en": "The thickness of a paper is $0.07$ mm. What will it be in standard form?"
-          },
-          "options": [
-            {"hi": "$7 \times 10^{-2}$ mm", "en": "$7 \times 10^{-2}$ mm"},
-            {"hi": "$7 \times 10^{-1}$ mm", "en": "$7 \times 10^{-1}$ mm"},
-            {"hi": "$0.7 \times 10^{-1}$ mm", "en": "$0.7 \times 10^{-1}$ mm"},
-            {"hi": "$7 \times 10^2$ mm", "en": "$7 \times 10^2$ mm"}
-          ],
-          "answer": {"hi": "$7 \times 10^{-2}$ mm", "en": "$7 \times 10^{-2}$ mm"}
+          "answer": {"hi": "50", "en": "50"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "यदि आधार ऋणात्मक हो और घात सम (even) हो, तो उत्तर कैसा होगा?",
-            "en": "If the base is negative and the power is even, what will be the result?"
+            "hi": "अक्षरों का उपयोग करके बनाए गए प्रतिरूप (Patterns) में चर क्या दर्शाते हैं?",
+            "en": "In patterns made using letters, what do variables represent?"
           },
           "options": [
-            {"hi": "धनात्मक", "en": "Positive"},
-            {"hi": "ऋणात्मक", "en": "Negative"},
+            {"hi": "आकृतियों की संख्या", "en": "Number of figures"},
+            {"hi": "निश्चित संख्या", "en": "Fixed number"},
             {"hi": "शून्य", "en": "Zero"},
-            {"hi": "कह नहीं सकते", "en": "Cannot say"}
+            {"hi": "कुछ नहीं", "en": "Nothing"}
           ],
-          "answer": {"hi": "धनात्मक", "en": "Positive"}
+          "answer": {"hi": "आकृतियों की संख्या", "en": "Number of figures"}
         },
         {
           "q": {
-            "hi": "यदि आधार ऋणात्मक हो और घात विषम (odd) हो, तो उत्तर कैसा होगा?",
-            "en": "If the base is negative and the power is odd, what will be the result?"
+            "hi": "यदि 'n' आकृतियों की संख्या है, तो $2n + 1$ क्या हो सकता है?",
+            "en": "If 'n' is the number of figures, what can $2n + 1$ be?"
           },
           "options": [
-            {"hi": "धनात्मक", "en": "Positive"},
-            {"hi": "ऋणात्मक", "en": "Negative"},
+            {"hi": "नियम (Rule)", "en": "Rule"},
+            {"hi": "केवल एक संख्या", "en": "Just a number"},
+            {"hi": "अचर", "en": "Constant"},
+            {"hi": "परिणाम", "en": "Result"}
+          ],
+          "answer": {"hi": "नियम (Rule)", "en": "Rule"}
+        },
+        {
+          "q": {
+            "hi": "एक संख्या 'x' के दोगुने से 5 अधिक को व्यंजक के रूप में कैसे लिखेंगे?",
+            "en": "How to write '5 more than twice a number x' as an expression?"
+          },
+          "options": [
+            {"hi": "$x + 10$", "en": "$x + 10$"},
+            {"hi": "$2x + 5$", "en": "$2x + 5$"},
+            {"hi": "$2x - 5$", "en": "$2x - 5$"},
+            {"hi": "$5x + 2$", "en": "$5x + 2$"}
+          ],
+          "answer": {"hi": "$2x + 5$", "en": "$2x + 5$"}
+        },
+        {
+          "q": {
+            "hi": "व्यंजक $x/2$ का क्या अर्थ है?",
+            "en": "What is the meaning of expression $x/2$?"
+          },
+          "options": [
+            {"hi": "x का दोगुना", "en": "Twice of x"},
+            {"hi": "x का आधा (Half of x)", "en": "Half of x"},
+            {"hi": "x में 2 जोड़ना", "en": "Add 2 to x"},
+            {"hi": "x में से 2 घटाना", "en": "Subtract 2 from x"}
+          ],
+          "answer": {"hi": "x का आधा (Half of x)", "en": "Half of x"}
+        },
+        {
+          "q": {
+            "hi": "बीजीय गुणनखंडों में क्या शामिल होता है?",
+            "en": "What do algebraic factors include?"
+          },
+          "options": [
+            {"hi": "केवल संख्याएँ", "en": "Only numbers"},
+            {"hi": "केवल चर (Variables)", "en": "Only variables"},
+            {"hi": "केवल चिह्न", "en": "Only signs"},
+            {"hi": "अचर", "en": "Constants"}
+          ],
+          "answer": {"hi": "केवल चर (Variables)", "en": "Only variables"}
+        },
+        {
+          "q": {
+            "hi": "व्यंजक $x + 3 = 10$ में, $x+3$ क्या है?",
+            "en": "In $x + 3 = 10$, what is $x+3$?"
+          },
+          "options": [
+            {"hi": "बायाँ पक्ष (LHS)", "en": "LHS"},
+            {"hi": "दायाँ पक्ष (RHS)", "en": "RHS"},
+            {"hi": "अचर", "en": "Constant"},
+            {"hi": "हल", "en": "Solution"}
+          ],
+          "answer": {"hi": "बायाँ पक्ष (LHS)", "en": "LHS"}
+        },
+        {
+          "q": {
+            "hi": "व्यंजक $y^2$ में गुणांक क्या माना जाता है (यदि कुछ न लिखा हो)?",
+            "en": "What is the coefficient assumed in $y^2$ (if nothing is written)?"
+          },
+          "options": [
+            {"hi": "0", "en": "0"},
             {"hi": "1", "en": "1"},
-            {"hi": "परिभाषित नहीं", "en": "Not defined"}
-          ],
-          "answer": {"hi": "ऋणात्मक", "en": "Negative"}
-        },
-        {
-          "q": {
-            "hi": "$(x/y)^{-m}$ किसके बराबर है?",
-            "en": "$(x/y)^{-m}$ is equal to?"
-          },
-          "options": [
-            {"hi": "$(y/x)^m$", "en": "$(y/x)^m$"},
-            {"hi": "$(x/y)^m$", "en": "$(x/y)^m$"},
-            {"hi": "$1/(x/y)^m$", "en": "$1/(x/y)^m$"},
-            {"hi": "विकल्प (hi) और (iii) दोनों", "en": "Both options (hi) and (iii)"}
-          ],
-          "answer": {"hi": "विकल्प (hi) और (iii) दोनों", "en": "Both options (hi) and (iii)"}
-        },
-        {
-          "q": {
-            "hi": "$3.61492 \times 10^6$ का सामान्य रूप क्या है?",
-            "en": "What is the usual form of $3.61492 \times 10^6$?"
-          },
-          "options": [
-            {"hi": "3614920", "en": "3614920"},
-            {"hi": "361492", "en": "361492"},
-            {"hi": "36149.2", "en": "36149.2"},
-            {"hi": "36149200", "en": "36149200"}
-          ],
-          "answer": {"hi": "3614920", "en": "3614920"}
-        },
-        {
-          "q": {
-            "hi": "बहुत छोटी संख्याओं को पढ़ने और समझने के लिए किसका उपयोग किया जाता है?",
-            "en": "What is used to read and understand very small numbers?"
-          },
-          "options": [
-            {"hi": "धनात्मक घातांक", "en": "Positive exponents"},
-            {"hi": "ऋणात्मक घातांक", "en": "Negative exponents"},
-            {"hi": "केवल शून्य", "en": "Only zero"},
-            {"hi": "बड़ी संख्याएँ", "en": "Large numbers"}
-          ],
-          "answer": {"hi": "ऋणात्मक घातांक", "en": "Negative exponents"}
-        },
-        {
-          "q": {
-            "hi": "सरल कीजिए: $25 \times t^{-4} / (5^{-3} \times 10 \times t^{-8})$ ($t \neq 0$)",
-            "en": "Simplify: $25 \times t^{-4} / (5^{-3} \times 10 \times t^{-8})$ ($t \neq 0$)"
-          },
-          "options": [
-            {"hi": "$625t^4/2$", "en": "$625t^4/2$"},
-            {"hi": "$125t^4/2$", "en": "$125t^4/2$"},
-            {"hi": "$5^4t^4$", "en": "$5^4t^4$"},
-            {"hi": "$625t^{-4}/2$", "en": "$625t^{-4}/2$"}
-          ],
-          "answer": {"hi": "$625t^4/2$", "en": "$625t^4/2$"}
-        },
-        {
-          "q": {
-            "hi": "$3^{-5} \times 10^{-5} \times 125 / (5^{-7} \times 6^{-5})$ का मान क्या है?",
-            "en": "What is the value of $3^{-5} \times 10^{-5} \times 125 / (5^{-7} \times 6^{-5})$?"
-          },
-          "options": [
-            {"hi": "$5^5$", "en": "$5^5$"},
-            {"hi": "1", "en": "1"},
-            {"hi": "$5^3$", "en": "$5^3$"},
-            {"hi": "3125", "en": "3125"}
+            {"hi": "2", "en": "2"},
+            {"hi": "y", "en": "y"}
           ],
           "answer": {"hi": "1", "en": "1"}
         },
         {
           "q": {
-            "hi": "0.00003 का मानक रूप क्या है?",
-            "en": "What is the standard form of 0.00003?"
+            "hi": "व्यंजक $-x$ का संख्यात्मक गुणांक क्या है?",
+            "en": "What is the numerical coefficient of the expression $-x$?"
           },
           "options": [
-            {"hi": "$3 \times 10^{-5}$", "en": "$3 \times 10^{-5}$"},
-            {"hi": "$3 \times 10^{-4}$", "en": "$3 \times 10^{-4}$"},
-            {"hi": "$3 \times 10^5$", "en": "$3 \times 10^5$"},
-            {"hi": "$0.3 \times 10^{-4}$", "en": "$0.3 \times 10^{-4}$"}
+            {"hi": "0", "en": "0"},
+            {"hi": "1", "en": "1"},
+            {"hi": "-1", "en": "-1"},
+            {"hi": "x", "en": "x"}
           ],
-          "answer": {"hi": "$3 \times 10^{-5}$", "en": "$3 \times 10^{-5}$"}
+          "answer": {"hi": "-1", "en": "-1"}
         },
         {
           "q": {
-            "hi": "किसी संख्या का व्युत्क्रम (reciprocal) ज्ञात करने के लिए घातांक का चिह्न क्या किया जाता है?",
-            "en": "To find the reciprocal of a number, what is done to the sign of the exponent?"
+            "hi": "व्यंजक बनाने के लिए हम चरों और अचरों पर कौन सी संक्रियाएँ करते हैं?",
+            "en": "What operations do we perform on variables and constants to form expressions?"
           },
           "options": [
-            {"hi": "बदल दिया जाता है", "en": "Changed/Toggled"},
-            {"hi": "वही रखा जाता है", "en": "Kept same"},
-            {"hi": "हटा दिया जाता है", "en": "Removed"},
-            {"hi": "दुगुना किया जाता है", "en": "Doubled"}
+            {"hi": "केवल योग", "en": "Only addition"},
+            {"hi": "केवल गुणन", "en": "Only multiplication"},
+            {"hi": "योग, व्यवकलन, गुणन और विभाजन", "en": "Addition, subtraction, multiplication, and division"},
+            {"hi": "कोई नहीं", "en": "None"}
           ],
-          "answer": {"hi": "बदल दिया जाता है", "en": "Changed/Toggled"}
+          "answer": {"hi": "योग, व्यवकलन, गुणन और विभाजन", "en": "Addition, subtraction, multiplication, and division"}
         },
         {
           "q": {
-            "hi": "$a^m / a^n$ के लिए यदि m < n है, तो परिणाम कैसा होगा?",
-            "en": "For $a^m / a^n$, if m < n, how will the result be?"
+            "hi": "यदि $a = 2, b = 2$ है, तो $2(a^2 + ab)$ का मान क्या होगा?",
+            "en": "If $a = 2, b = 2$, what will be the value of $2(a^2 + ab)$?"
           },
           "options": [
-            {"hi": "ऋणात्मक घात वाला", "en": "With negative power"},
-            {"hi": "धनात्मक घात वाला", "en": "With positive power"},
-            {"hi": "शून्य", "en": "Zero"},
-            {"hi": "अपरिभाषित", "en": "Undefined"}
+            {"hi": "8", "en": "8"},
+            {"hi": "16", "en": "16"},
+            {"hi": "12", "en": "12"},
+            {"hi": "20", "en": "20"}
           ],
-          "answer": {"hi": "ऋणात्मक घात वाला", "en": "With negative power"}
+          "answer": {"hi": "16", "en": "16"}
         }
       ]
     },
