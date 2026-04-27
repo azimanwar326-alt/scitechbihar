@@ -1328,231 +1328,482 @@
       "section1": [
         {
           "q": {
-            "hi": "दिए गए आंकड़ों के समूह के लिए सबसे अधिक बार आने वाला मान क्या कहलाता है?",
-            "en": "What is the value that occurs most frequently in a given set of data called?"
+            "hi": "किसी संख्या का 'गुणनखंड' (Factor) क्या होता है?",
+            "en": "What is a 'Factor' of a number?"
           },
           "options": [
-            {"hi": "माध्य (Mean)", "en": "Mean"},
-            {"hi": "माध्यक (Median)", "en": "Median"},
-            {"hi": "बहुलक (Mode)", "en": "Mode"},
-            {"hi": "प्रसार (Range)", "en": "Range"}
+            {"hi": "संख्या का सटीक विभाजक", "en": "An exact divisor of that number"},
+            {"hi": "संख्या से बड़ी संख्या", "en": "A number greater than the number"},
+            {"hi": "संख्या का आधा", "en": "Half of the number"},
+            {"hi": "संख्या का गुणा", "en": "Multiple of the number"}
           ],
-          "answer": {"hi": "बहुलक (Mode)", "en": "Mode"}
+          "answer": {"hi": "संख्या का सटीक विभाजक", "en": "An exact divisor of that number"}
         },
         {
           "q": {
-            "hi": "आंकड़ों के अधिकतम और न्यूनतम मानों के बीच का अंतर क्या कहलाता है?",
-            "en": "What is the difference between the maximum and minimum values of data called?"
+            "hi": "संख्या 1 प्रत्येक संख्या का क्या होता है?",
+            "en": "Number 1 is a what for every number?"
           },
           "options": [
-            {"hi": "औसत", "en": "Average"},
-            {"hi": "प्रसार (परिसर)", "en": "Range"},
-            {"hi": "बहुलक", "en": "Mode"},
-            {"hi": "माध्यक", "en": "Median"}
+            {"hi": "गुणज", "en": "Multiple"},
+            {"hi": "गुणनखंड", "en": "Factor"},
+            {"hi": "अभाज्य संख्या", "en": "Prime number"},
+            {"hi": "विषम गुणनखंड", "en": "Odd factor"}
           ],
-          "answer": {"hi": "प्रसार (परिसर)", "en": "Range"}
+          "answer": {"hi": "गुणनखंड", "en": "Factor"}
         },
         {
           "q": {
-            "hi": "सभी प्रेक्षणों के योग को प्रेक्षणों की कुल संख्या से भाग देने पर क्या प्राप्त होता है?",
-            "en": "What is obtained by dividing the sum of all observations by the total number of observations?"
+            "hi": "प्रत्येक संख्या स्वयं का एक क्या होती है?",
+            "en": "Every number is a what of itself?"
           },
           "options": [
-            {"hi": "अंकगणितीय माध्य", "en": "Arithmetic Mean"},
-            {"hi": "बहुलक", "en": "Mode"},
-            {"hi": "माध्यक", "en": "Median"},
-            {"hi": "परिसर", "en": "Range"}
+            {"hi": "गुणनखंड", "en": "Factor"},
+            {"hi": "गुणज", "en": "Multiple"},
+            {"hi": "दोनों (गुणनखंड और गुणज)", "en": "Both (Factor and Multiple)"},
+            {"hi": "केवल अभाज्य", "en": "Only prime"}
           ],
-          "answer": {"hi": "अंकगणितीय माध्य", "en": "Arithmetic Mean"}
+          "answer": {"hi": "दोनों (गुणनखंड और गुणज)", "en": "Both (Factor and Multiple)"}
         },
         {
           "q": {
-            "hi": "आंकड़ों को आरोही या अवरोही क्रम में व्यवस्थित करने पर बीच का मान क्या कहलाता है?",
-            "en": "What is the middle value called when data is arranged in ascending or descending order?"
+            "hi": "किसी संख्या का प्रत्येक गुणनखंड उस संख्या से कैसा होता है?",
+            "en": "Every factor of a number is how compared to that number?"
           },
           "options": [
-            {"hi": "माध्य", "en": "Mean"},
-            {"hi": "बहुलक", "en": "Mode"},
-            {"hi": "माध्यक (Median)", "en": "Median"},
-            {"hi": "औसत", "en": "Average"}
+            {"hi": "हमेशा बड़ा", "en": "Always greater"},
+            {"hi": "कम या बराबर", "en": "Less than or equal to"},
+            {"hi": "हमेशा छोटा", "en": "Always smaller"},
+            {"hi": "संख्या का दोगुना", "en": "Double the number"}
           ],
-          "answer": {"hi": "माध्यक (Median)", "en": "Median"}
+          "answer": {"hi": "कम या बराबर", "en": "Less than or equal to"}
         },
         {
           "q": {
-            "hi": "प्रथम पांच पूर्ण संख्याओं का माध्य क्या है?",
-            "en": "What is the mean of the first five whole numbers?"
+            "hi": "दी गई संख्या के गुणनखंडों की संख्या कैसी होती है?",
+            "en": "The number of factors of a given number is:"
           },
           "options": [
-            {"hi": "3", "en": "3"},
+            {"hi": "परिमित (निश्चित)", "en": "Finite (Fixed)"},
+            {"hi": "अपरिमित (अनंत)", "en": "Infinite"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "केवल दो", "en": "Only two"}
+          ],
+          "answer": {"hi": "परिमित (निश्चित)", "en": "Finite (Fixed)"}
+        },
+        {
+          "q": {
+            "hi": "किसी संख्या के 'गुणज' (Multiples) की संख्या कितनी होती है?",
+            "en": "How many 'Multiples' does a number have?"
+          },
+          "options": [
+            {"hi": "परिमित", "en": "Finite"},
+            {"hi": "अपरिमित (अनंत)", "en": "Infinite"},
+            {"hi": "दस", "en": "Ten"},
+            {"hi": "संख्या के बराबर", "en": "Equal to the number"}
+          ],
+          "answer": {"hi": "अपरिमित (अनंत)", "en": "Infinite"}
+        },
+        {
+          "q": {
+            "hi": "वह संख्या जिसके केवल दो गुणनखंड (1 और स्वयं संख्या) हों, क्या कहलाती है?",
+            "en": "A number that has only two factors (1 and itself) is called?"
+          },
+          "options": [
+            {"hi": "भाज्य संख्या", "en": "Composite number"},
+            {"hi": "अभाज्य संख्या", "en": "Prime number"},
+            {"hi": "सम संख्या", "en": "Even number"},
+            {"hi": "विषम संख्या", "en": "Odd number"}
+          ],
+          "answer": {"hi": "अभाज्य संख्या", "en": "Prime number"}
+        },
+        {
+          "q": {
+            "hi": "वह संख्या जिसके दो से अधिक गुणनखंड हों, क्या कहलाती है?",
+            "en": "A number having more than two factors is called?"
+          },
+          "options": [
+            {"hi": "अभाज्य संख्या", "en": "Prime number"},
+            {"hi": "भाज्य संख्या", "en": "Composite number"},
+            {"hi": "पूर्ण संख्या", "en": "Whole number"},
+            {"hi": "विषम संख्या", "en": "Odd number"}
+          ],
+          "answer": {"hi": "भाज्य संख्या", "en": "Composite number"}
+        },
+        {
+          "q": {
+            "hi": "संख्या 1 किस श्रेणी में आती है?",
+            "en": "In which category does number 1 fall?"
+          },
+          "options": [
+            {"hi": "अभाज्य संख्या", "en": "Prime number"},
+            {"hi": "भाज्य संख्या", "en": "Composite number"},
+            {"hi": "न तो अभाज्य, न ही भाज्य", "en": "Neither prime nor composite"},
+            {"hi": "सम संख्या", "en": "Even number"}
+          ],
+          "answer": {"hi": "न तो अभाज्य, न ही भाज्य", "en": "Neither prime nor composite"}
+        },
+        {
+          "q": {
+            "hi": "सबसे छोटी अभाज्य संख्या कौन सी है?",
+            "en": "Which is the smallest prime number?"
+          },
+          "options": [
+            {"hi": "1", "en": "1"},
             {"hi": "2", "en": "2"},
-            {"hi": "2.5", "en": "2.5"},
+            {"hi": "3", "en": "3"},
             {"hi": "4", "en": "4"}
           ],
           "answer": {"hi": "2", "en": "2"}
-        },
-        {
-          "q": {
-            "hi": "एक पासे को फेंकने पर 7 आने की प्रायिकता क्या है?",
-            "en": "What is the probability of getting a 7 when a die is thrown?"
-          },
-          "options": [
-            {"hi": "1/6", "en": "1/6"},
-            {"hi": "1", "en": "1"},
-            {"hi": "0", "en": "0"},
-            {"hi": "1/2", "en": "1/2"}
-          ],
-          "answer": {"hi": "0", "en": "0"}
-        },
-        {
-          "q": {
-            "hi": "किसी निश्चित घटना की प्रायिकता क्या होती है?",
-            "en": "What is the probability of a certain event?"
-          },
-          "options": [
-            {"hi": "0", "en": "0"},
-            {"hi": "1", "en": "1"},
-            {"hi": "0.5", "en": "0.5"},
-            {"hi": "अनंत", "en": "Infinite"}
-          ],
-          "answer": {"hi": "1", "en": "1"}
-        },
-        {
-          "q": {
-            "hi": "आंकड़ों 2, 4, 2, 6, 7, 2 का बहुलक क्या है?",
-            "en": "What is the mode of the data 2, 4, 2, 6, 7, 2?"
-          },
-          "options": [
-            {"hi": "2", "en": "2"},
-            {"hi": "4", "en": "4"},
-            {"hi": "6", "en": "6"},
-            {"hi": "7", "en": "7"}
-          ],
-          "answer": {"hi": "2", "en": "2"}
-        },
-        {
-          "q": {
-            "hi": "यदि प्रेक्षणों की संख्या 'n' विषम है, तो माध्यक कौन सा पद होगा?",
-            "en": "If the number of observations 'n' is odd, which term will be the median?"
-          },
-          "options": [
-            {"hi": "n/2 वां पद", "en": "n/2 th term"},
-            {"hi": "(n+1)/2 वां पद", "en": "(n+1)/2 th term"},
-            {"hi": "n वां पद", "en": "n th term"},
-            {"hi": "कोई नहीं", "en": "None"}
-          ],
-          "answer": {"hi": "(n+1)/2 वां पद", "en": "(n+1)/2 th term"}
-        },
-        {
-          "q": {
-            "hi": "एक सिक्के को उछालने पर 'चित' (Head) आने की प्रायिकता क्या है?",
-            "en": "What is the probability of getting a 'Head' when a coin is tossed?"
-          },
-          "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "0", "en": "0"},
-            {"hi": "1/2", "en": "1/2"},
-            {"hi": "1/4", "en": "1/4"}
-          ],
-          "answer": {"hi": "1/2", "en": "1/2"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "आंकड़ों का माध्य हमेशा आंकड़ों में से ही एक संख्या होती है?",
-            "en": "Is the mean of the data always one of the numbers in the data?"
+            "hi": "एकमात्र 'सम' अभाज्य संख्या कौन सी है?",
+            "en": "Which is the only 'even' prime number?"
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल सम संख्या के लिए", "en": "Only for even numbers"},
-            {"hi": "कह नहीं सकते", "en": "Can't say"}
-          ],
-          "answer": {"hi": "नहीं", "en": "No"}
-        },
-        {
-          "q": {
-            "hi": "बहुलक हमेशा आंकड़ों में से ही एक संख्या होती है?",
-            "en": "Is the mode always one of the numbers in the data?"
-          },
-          "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "कभी-कभी", "en": "Sometimes"},
-            {"hi": "शून्य", "en": "Zero"}
-          ],
-          "answer": {"hi": "हाँ", "en": "Yes"}
-        },
-        {
-          "q": {
-            "hi": "माध्यक हमेशा आंकड़ों में से ही एक संख्या होती है?",
-            "en": "Is the median always one of the numbers in the data?"
-          },
-          "options": [
-            {"hi": "हमेशा", "en": "Always"},
-            {"hi": "कभी नहीं", "en": "Never"},
-            {"hi": "यदि n विषम है तो हाँ", "en": "Yes, if n is odd"},
-            {"hi": "शून्य", "en": "Zero"}
-          ],
-          "answer": {"hi": "यदि n विषम है तो हाँ", "en": "Yes, if n is odd"}
-        },
-        {
-          "q": {
-            "hi": "दंड आलेख में दंडों की चौड़ाई कैसी होनी चाहिए?",
-            "en": "What should be the width of the bars in a bar graph?"
-          },
-          "options": [
-            {"hi": "अलग-अलग", "en": "Different"},
-            {"hi": "समान", "en": "Uniform/Same"},
-            {"hi": "बढ़ती हुई", "en": "Increasing"},
-            {"hi": "कोई नियम नहीं", "en": "No rule"}
-          ],
-          "answer": {"hi": "समान", "en": "Uniform/Same"}
-        },
-        {
-          "q": {
-            "hi": "किसी असंभव घटना की प्रायिकता क्या होती है?",
-            "en": "What is the probability of an impossible event?"
-          },
-          "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "0.5", "en": "0.5"},
             {"hi": "0", "en": "0"},
-            {"hi": "-1", "en": "-1"}
+            {"hi": "2", "en": "2"},
+            {"hi": "4", "en": "4"},
+            {"hi": "6", "en": "6"}
           ],
-          "answer": {"hi": "0", "en": "0"}
+          "answer": {"hi": "2", "en": "2"}
         },
         {
           "q": {
-            "hi": "दो दंड आलेखों को एक साथ प्रदर्शित करना क्या कहलाता है?",
-            "en": "Displaying two bar graphs together is called what?"
+            "hi": "2 को छोड़कर सभी अभाज्य संख्याएँ कैसी होती हैं?",
+            "en": "Except 2, all other prime numbers are:"
           },
           "options": [
-            {"hi": "एकल दंड आलेख", "en": "Single bar graph"},
-            {"hi": "द्वि-दंड आलेख", "en": "Double bar graph"},
-            {"hi": "हिस्टोग्राम", "en": "Histogram"},
-            {"hi": "पाई चार्ट", "en": "Pie chart"}
+            {"hi": "सम", "en": "Even"},
+            {"hi": "विषम", "en": "Odd"},
+            {"hi": "भाज्य", "en": "Composite"},
+            {"hi": "पूर्ण वर्ग", "en": "Perfect square"}
           ],
-          "answer": {"hi": "द्वि-दंड आलेख", "en": "Double bar graph"}
+          "answer": {"hi": "विषम", "en": "Odd"}
         },
         {
           "q": {
-            "hi": "आंकड़ों 3, 5, 1, 2, 4 का परिसर (Range) क्या है?",
-            "en": "What is the range of the data 3, 5, 1, 2, 4?"
+            "hi": "विभाज्यता के नियम के अनुसार, यदि किसी संख्या के अंत में 0, 2, 4, 6, 8 हो, तो वह किससे विभाज्य होगी?",
+            "en": "According to divisibility rules, if a number ends in 0, 2, 4, 6, 8, it is divisible by?"
+          },
+          "options": [
+            {"hi": "3", "en": "3"},
+            {"hi": "5", "en": "5"},
+            {"hi": "2", "en": "2"},
+            {"hi": "10", "en": "10"}
+          ],
+          "answer": {"hi": "2", "en": "2"}
+        },
+        {
+          "q": {
+            "hi": "संख्या 3 से विभाज्यता की जाँच कैसे की जाती है?",
+            "en": "How is divisibility by 3 checked?"
+          },
+          "options": [
+            {"hi": "अंतिम अंक देखकर", "en": "By checking the last digit"},
+            {"hi": "अंकों का योग 3 से विभाज्य हो", "en": "If sum of digits is divisible by 3"},
+            {"hi": "अंतिम दो अंक देखकर", "en": "By checking last two digits"},
+            {"hi": "संख्या को आधा करके", "en": "By halving the number"}
+          ],
+          "answer": {"hi": "अंकों का योग 3 से विभाज्य हो", "en": "If sum of digits is divisible by 3"}
+        },
+        {
+          "q": {
+            "hi": "5 से विभाज्य होने के लिए संख्या का इकाई अंक क्या होना चाहिए?",
+            "en": "What should be the units digit for a number to be divisible by 5?"
+          },
+          "options": [
+            {"hi": "केवल 0", "en": "Only 0"},
+            {"hi": "0 या 5", "en": "0 or 5"},
+            {"hi": "केवल 5", "en": "Only 5"},
+            {"hi": "कोई भी सम संख्या", "en": "Any even number"}
+          ],
+          "answer": {"hi": "0 या 5", "en": "0 or 5"}
+        },
+        {
+          "q": {
+            "hi": "यदि कोई संख्या 2 और 3 दोनों से विभाज्य है, तो वह किससे भी विभाज्य होगी?",
+            "en": "If a number is divisible by both 2 and 3, it is also divisible by?"
           },
           "options": [
             {"hi": "5", "en": "5"},
+            {"hi": "6", "en": "6"},
+            {"hi": "9", "en": "9"},
+            {"hi": "12", "en": "12"}
+          ],
+          "answer": {"hi": "6", "en": "6"}
+        },
+        {
+          "q": {
+            "hi": "संख्या 4 से विभाज्यता का नियम क्या है?",
+            "en": "What is the rule for divisibility by 4?"
+          },
+          "options": [
+            {"hi": "अंकों का योग 4 हो", "en": "Sum of digits is 4"},
+            {"hi": "अंतिम दो अंक 4 से विभाज्य हों", "en": "Last two digits are divisible by 4"},
+            {"hi": "इकाई अंक 4 हो", "en": "Units digit is 4"},
+            {"hi": "संख्या विषम हो", "en": "Number is odd"}
+          ],
+          "answer": {"hi": "अंतिम दो अंक 4 से विभाज्य हों", "en": "Last two digits are divisible by 4"}
+        },
+        {
+          "q": {
+            "hi": "संख्या 9 से विभाज्यता की शर्त क्या है?",
+            "en": "What is the condition for divisibility by 9?"
+          },
+          "options": [
+            {"hi": "अंकों का योग 9 से विभाज्य हो", "en": "Sum of digits is divisible by 9"},
+            {"hi": "अंतिम अंक 9 हो", "en": "Last digit is 9"},
+            {"hi": "संख्या 3 से विभाज्य न हो", "en": "Number is not divisible by 3"},
+            {"hi": "अंतिम दो अंक 99 हों", "en": "Last two digits are 99"}
+          ],
+          "answer": {"hi": "अंकों का योग 9 से विभाज्य हो", "en": "Sum of digits is divisible by 9"}
+        },
+        {
+          "q": {
+            "hi": "जिन दो संख्याओं में केवल 1 उभयनिष्ठ गुणनखंड हो, वे क्या कहलाती हैं?",
+            "en": "Two numbers having only 1 as a common factor are called?"
+          },
+          "options": [
+            {"hi": "अभाज्य संख्याएँ", "en": "Prime numbers"},
+            {"hi": "सह-अभाज्य संख्याएँ", "en": "Co-prime numbers"},
+            {"hi": "जुड़वाँ अभाज्य", "en": "Twin primes"},
+            {"hi": "भाज्य संख्याएँ", "en": "Composite numbers"}
+          ],
+          "answer": {"hi": "सह-अभाज्य संख्याएँ", "en": "Co-prime numbers"}
+        },
+        {
+          "q": {
+            "hi": "इरेटोस्थनीज की छलनी (Sieve of Eratosthenes) का उपयोग क्या खोजने के लिए किया जाता है?",
+            "en": "What is the Sieve of Eratosthenes used to find?"
+          },
+          "options": [
+            {"hi": "गुणज", "en": "Multiples"},
+            {"hi": "अभाज्य संख्याएँ", "en": "Prime numbers"},
+            {"hi": "वर्गमूल", "en": "Square roots"},
+            {"hi": "क्षेत्रफल", "en": "Area"}
+          ],
+          "answer": {"hi": "अभाज्य संख्याएँ", "en": "Prime numbers"}
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "10 से विभाज्यता का सबसे सरल नियम क्या है?",
+            "en": "What is the simplest rule for divisibility by 10?"
+          },
+          "options": [
+            {"hi": "इकाई अंक 5 हो", "en": "Units digit is 5"},
+            {"hi": "इकाई अंक 0 हो", "en": "Units digit is 0"},
+            {"hi": "अंकों का योग 10 हो", "en": "Sum of digits is 10"},
+            {"hi": "संख्या 2 से विभाज्य हो", "en": "Number is divisible by 2"}
+          ],
+          "answer": {"hi": "इकाई अंक 0 हो", "en": "Units digit is 0"}
+        },
+        {
+          "q": {
+            "hi": "यदि दो अभाज्य संख्याओं के बीच का अंतर 2 हो, तो वे क्या कहलाती हैं?",
+            "en": "If the difference between two prime numbers is 2, they are called?"
+          },
+          "options": [
+            {"hi": "सह-अभाज्य", "en": "Co-primes"},
+            {"hi": "जुड़वाँ अभाज्य (Twin Primes)", "en": "Twin Primes"},
+            {"hi": "भाज्य संख्याएँ", "en": "Composite numbers"},
+            {"hi": "विषम संख्याएँ", "en": "Odd numbers"}
+          ],
+          "answer": {"hi": "जुड़वाँ अभाज्य (Twin Primes)", "en": "Twin Primes"}
+        },
+        {
+          "q": {
+            "hi": "8 से विभाज्यता के लिए अंतिम कितने अंकों की जाँच की जाती है?",
+            "en": "How many last digits are checked for divisibility by 8?"
+          },
+          "options": [
+            {"hi": "एक", "en": "One"},
+            {"hi": "दो", "en": "Two"},
+            {"hi": "तीन", "en": "Three"},
+            {"hi": "चार", "en": "Four"}
+          ],
+          "answer": {"hi": "तीन", "en": "Three"}
+        },
+        {
+          "q": {
+            "hi": "संख्या 11 से विभाज्यता के लिए किन स्थानों के अंकों के योग का अंतर लिया जाता है?",
+            "en": "For divisibility by 11, the difference of sum of digits at which places is taken?"
+          },
+          "options": [
+            {"hi": "विषम और सम स्थानों के", "en": "Odd and even places"},
+            {"hi": "प्रथम और अंतिम", "en": "First and last"},
+            {"hi": "केवल सम स्थानों के", "en": "Only even places"},
+            {"hi": "सभी अंकों के", "en": "All digits"}
+          ],
+          "answer": {"hi": "विषम और सम स्थानों के", "en": "Odd and even places"}
+        },
+        {
+          "q": {
+            "hi": "अभाज्य गुणनखंडन (Prime Factorisation) में संख्या को किसके गुणनफल के रूप में लिखा जाता है?",
+            "en": "In Prime Factorisation, a number is written as a product of?"
+          },
+          "options": [
+            {"hi": "भाज्य संख्याओं के", "en": "Composite numbers"},
+            {"hi": "अभाज्य संख्याओं के", "en": "Prime numbers"},
+            {"hi": "विषम संख्याओं के", "en": "Odd numbers"},
+            {"hi": "सम संख्याओं के", "en": "Even numbers"}
+          ],
+          "answer": {"hi": "अभाज्य संख्याओं के", "en": "Prime numbers"}
+        },
+        {
+          "q": {
+            "hi": "HCF का पूर्ण रूप क्या है?",
+            "en": "What is the full form of HCF?"
+          },
+          "options": [
+            {"hi": "Highest Common Factor", "en": "Highest Common Factor"},
+            {"hi": "Highest Common Fraction", "en": "Highest Common Fraction"},
+            {"hi": "Hidden Common Factor", "en": "Hidden Common Factor"},
+            {"hi": "High Count Factor", "en": "High Count Factor"}
+          ],
+          "answer": {"hi": "Highest Common Factor", "en": "Highest Common Factor"}
+        },
+        {
+          "q": {
+            "hi": "LCM का पूर्ण रूप क्या है?",
+            "en": "What is the full form of LCM?"
+          },
+          "options": [
+            {"hi": "Least Common Multiple", "en": "Least Common Multiple"},
+            {"hi": "Lowest Common Measure", "en": "Lowest Common Measure"},
+            {"hi": "Longest Common Multiple", "en": "Longest Common Multiple"},
+            {"hi": "Least Common Method", "en": "Least Common Method"}
+          ],
+          "answer": {"hi": "Least Common Multiple", "en": "Least Common Multiple"}
+        },
+        {
+          "q": {
+            "hi": "दो सह-अभाज्य संख्याओं का HCF हमेशा क्या होता है?",
+            "en": "What is always the HCF of two co-prime numbers?"
+          },
+          "options": [
+            {"hi": "0", "en": "0"},
             {"hi": "1", "en": "1"},
+            {"hi": "उनका गुणनफल", "en": "Their product"},
+            {"hi": "2", "en": "2"}
+          ],
+          "answer": {"hi": "1", "en": "1"}
+        },
+        {
+          "q": {
+            "hi": "दो संख्याओं का LCM उनके HCF से हमेशा कैसा होता है?",
+            "en": "The LCM of two numbers is always how compared to their HCF?"
+          },
+          "options": [
+            {"hi": "छोटा", "en": "Smaller"},
+            {"hi": "बड़ा या बराबर", "en": "Greater than or equal to"},
+            {"hi": "आधा", "en": "Half"},
+            {"hi": "समान", "en": "Same"}
+          ],
+          "answer": {"hi": "बड़ा या बराबर", "en": "Greater than or equal to"}
+        },
+        {
+          "q": {
+            "hi": "संख्या 24 के कुल कितने गुणनखंड हैं?",
+            "en": "How many total factors does the number 24 have?"
+          },
+          "options": [
             {"hi": "4", "en": "4"},
-            {"hi": "3", "en": "3"}
+            {"hi": "6", "en": "6"},
+            {"hi": "8", "en": "8"},
+            {"hi": "10", "en": "10"}
+          ],
+          "answer": {"hi": "8", "en": "8"}
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "सबसे छोटी भाज्य (Composite) संख्या कौन सी है?",
+            "en": "Which is the smallest composite number?"
+          },
+          "options": [
+            {"hi": "2", "en": "2"},
+            {"hi": "4", "en": "4"},
+            {"hi": "6", "en": "6"},
+            {"hi": "1", "en": "1"}
           ],
           "answer": {"hi": "4", "en": "4"}
         },
         {
           "q": {
-            "hi": "आंकड़ों 1, 1, 2, 4, 3, 2, 1, 2, 2, 4 में किस संख्या की बारंबारता सबसे अधिक है?",
-            "en": "In the data 1, 1, 2, 4, 3, 2, 1, 2, 2, 4, which number has the highest frequency?"
+            "hi": "निम्न में से कौन सी संख्या अभाज्य है?",
+            "en": "Which of the following numbers is prime?"
+          },
+          "options": [
+            {"hi": "15", "en": "15"},
+            {"hi": "21", "en": "21"},
+            {"hi": "23", "en": "23"},
+            {"hi": "27", "en": "27"}
+          ],
+          "answer": {"hi": "23", "en": "23"}
+        },
+        {
+          "q": {
+            "hi": "संख्या 15 के प्रथम पाँच गुणज क्या हैं?",
+            "en": "What are the first five multiples of 15?"
+          },
+          "options": [
+            {"hi": "1,3,5,15", "en": "1,3,5,15"},
+            {"hi": "15,30,45,60,75", "en": "15,30,45,60,75"},
+            {"hi": "5,10,15,20,25", "en": "5,10,15,20,25"},
+            {"hi": "15,16,17,18,19", "en": "15,16,17,18,19"}
+          ],
+          "answer": {"hi": "15,30,45,60,75", "en": "15,30,45,60,75"}
+        },
+        {
+          "q": {
+            "hi": "दो सम संख्याओं का योग हमेशा क्या होता है?",
+            "en": "The sum of two even numbers is always?"
+          },
+          "options": [
+            {"hi": "विषम", "en": "Odd"},
+            {"hi": "सम", "en": "Even"},
+            {"hi": "अभाज्य", "en": "Prime"},
+            {"hi": "1", "en": "1"}
+          ],
+          "answer": {"hi": "सम", "en": "Even"}
+        },
+        {
+          "q": {
+            "hi": "दो विषम संख्याओं का योग क्या होता है?",
+            "en": "What is the sum of two odd numbers?"
+          },
+          "options": [
+            {"hi": "विषम", "en": "Odd"},
+            {"hi": "सम", "en": "Even"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "एक अभाज्य संख्या", "en": "A prime number"}
+          ],
+          "answer": {"hi": "सम", "en": "Even"}
+        },
+        {
+          "q": {
+            "hi": "वह संख्या जो अपने सभी गुणनखंडों के योग (स्वयं को छोड़कर) के बराबर हो, क्या कहलाती है?",
+            "en": "A number equal to the sum of all its factors (excluding itself) is called?"
+          },
+          "options": [
+            {"hi": "अभाज्य संख्या", "en": "Prime number"},
+            {"hi": "संपूर्ण संख्या (Perfect Number)", "en": "Perfect Number"},
+            {"hi": "सम संख्या", "en": "Even number"},
+            {"hi": "भाज्य संख्या", "en": "Composite number"}
+          ],
+          "answer": {"hi": "संपूर्ण संख्या (Perfect Number)", "en": "Perfect Number"}
+        },
+        {
+          "q": {
+            "hi": "संख्या 6 का गुणनखंड नहीं है:",
+            "en": "Which is not a factor of 6?"
           },
           "options": [
             {"hi": "1", "en": "1"},
@@ -1560,250 +1811,144 @@
             {"hi": "3", "en": "3"},
             {"hi": "4", "en": "4"}
           ],
-          "answer": {"hi": "2", "en": "2"}
+          "answer": {"hi": "4", "en": "4"}
         },
         {
           "q": {
-            "hi": "एक पासे को फेंकने पर एक अभाज्य संख्या आने की प्रायिकता क्या है?",
-            "en": "What is the probability of getting a prime number when a die is thrown?"
-          },
-          "options": [
-            {"hi": "1/2", "en": "1/2"},
-            {"hi": "1/3", "en": "1/3"},
-            {"hi": "1/6", "en": "1/6"},
-            {"hi": "2/3", "en": "2/3"}
-          ],
-          "answer": {"hi": "1/2", "en": "1/2"}
-        },
-        {
-          "q": {
-            "hi": "यदि किसी घटना के होने के चांस 50-50 हैं, तो प्रायिकता क्या होगी?",
-            "en": "If the chances of an event occurring are 50-50, what will be the probability?"
-          },
-          "options": [
-            {"hi": "0", "en": "0"},
-            {"hi": "1", "en": "1"},
-            {"hi": "1/2", "en": "1/2"},
-            {"hi": "1/4", "en": "1/4"}
-          ],
-          "answer": {"hi": "1/2", "en": "1/2"}
-        }
-      ],
-      "section3": [
-        {
-          "q": {
-            "hi": "माध्य, बहुलक और माध्यक किसके विभिन्न प्रतिनिधि मान हैं?",
-            "en": "Mean, mode, and median are different representative values of what?"
-          },
-          "options": [
-            {"hi": "केंद्रीय प्रवृत्ति", "en": "Central Tendency"},
-            {"hi": "प्रसार", "en": "Spread"},
-            {"hi": "प्रायिकता", "en": "Probability"},
-            {"hi": "पूर्णांक", "en": "Integers"}
-          ],
-          "answer": {"hi": "केंद्रीय प्रवृत्ति", "en": "Central Tendency"}
-        },
-        {
-          "q": {
-            "hi": "एक थैले में 6 लाल और 4 नीली गेंदें हैं। एक लाल गेंद निकालने की प्रायिकता क्या है?",
-            "en": "A bag has 6 red and 4 blue balls. What is the probability of picking a red ball?"
-          },
-          "options": [
-            {"hi": "6/4", "en": "6/4"},
-            {"hi": "4/10", "en": "4/10"},
-            {"hi": "6/10", "en": "6/10"},
-            {"hi": "1/2", "en": "1/2"}
-          ],
-          "answer": {"hi": "6/10", "en": "6/10"}
-        },
-        {
-          "q": {
-            "hi": "क्या आंकड़ों के एक समूह में एक से अधिक बहुलक हो सकते हैं?",
-            "en": "Can a set of data have more than one mode?"
+            "hi": "क्या 128, 8 से विभाज्य है?",
+            "en": "Is 128 divisible by 8?"
           },
           "options": [
             {"hi": "हाँ", "en": "Yes"},
             {"hi": "नहीं", "en": "No"},
-            {"hi": "शून्य", "en": "Zero"},
-            {"hi": "परिभाषित नहीं", "en": "Not defined"}
+            {"hi": "कह नहीं सकते", "en": "Can't say"},
+            {"hi": "केवल 4 से", "en": "Only by 4"}
           ],
           "answer": {"hi": "हाँ", "en": "Yes"}
         },
         {
           "q": {
-            "hi": "एक पासे को फेंकने पर सम संख्या आने की प्रायिकता क्या है?",
-            "en": "What is the probability of getting an even number on throwing a die?"
+            "hi": "निम्न में से कौन सी संख्या 11 से विभाज्य है?",
+            "en": "Which of the following numbers is divisible by 11?"
           },
           "options": [
-            {"hi": "1/2", "en": "1/2"},
-            {"hi": "1/3", "en": "1/3"},
-            {"hi": "1/6", "en": "1/6"},
-            {"hi": "1", "en": "1"}
+            {"hi": "121", "en": "121"},
+            {"hi": "123", "en": "123"},
+            {"hi": "111", "en": "111"},
+            {"hi": "100", "en": "100"}
           ],
-          "answer": {"hi": "1/2", "en": "1/2"}
+          "answer": {"hi": "121", "en": "121"}
         },
         {
           "q": {
-            "hi": "आंकड़ों 32, 35, 37, 30, 33, 36, 35, 37 का परिसर क्या है?",
-            "en": "What is the range of the data 32, 35, 37, 30, 33, 36, 35, 37?"
+            "hi": "HCF को और किस नाम से जाना जाता है?",
+            "en": "By what other name is HCF known?"
           },
           "options": [
-            {"hi": "5", "en": "5"},
-            {"hi": "7", "en": "7"},
-            {"hi": "37", "en": "37"},
-            {"hi": "30", "en": "30"}
+            {"hi": "GCD", "en": "GCD"},
+            {"hi": "LCM", "en": "LCM"},
+            {"hi": "Factor Tree", "en": "Factor Tree"},
+            {"hi": "Multiple", "en": "Multiple"}
           ],
-          "answer": {"hi": "7", "en": "7"}
-        },
-        {
-          "q": {
-            "hi": "दंड आलेख का पैमाना (Scale) चुनते समय क्या ध्यान रखना चाहिए?",
-            "en": "What should be kept in mind while choosing the scale of a bar graph?"
-          },
-          "options": [
-            {"hi": "सबसे बड़ा मान", "en": "Maximum value"},
-            {"hi": "सबसे छोटा मान", "en": "Minimum value"},
-            {"hi": "कागज का आकार", "en": "Size of the paper"},
-            {"hi": "उपर्युक्त सभी", "en": "All of the above"}
-          ],
-          "answer": {"hi": "उपर्युक्त सभी", "en": "All of the above"}
-        },
-        {
-          "q": {
-            "hi": "आंकड़ों 10, 12, 14, 16, 18 का माध्य क्या है?",
-            "en": "What is the mean of the data 10, 12, 14, 16, 18?"
-          },
-          "options": [
-            {"hi": "12", "en": "12"},
-            {"hi": "14", "en": "14"},
-            {"hi": "16", "en": "16"},
-            {"hi": "70", "en": "70"}
-          ],
-          "answer": {"hi": "14", "en": "14"}
-        },
-        {
-          "q": {
-            "hi": "प्रायिकता का मान किनके बीच होता है?",
-            "en": "The value of probability lies between?"
-          },
-          "options": [
-            {"hi": "0 और 1", "en": "0 and 1"},
-            {"hi": "1 और 10", "en": "1 and 10"},
-            {"hi": "-1 और 1", "en": "-1 and 1"},
-            {"hi": "0 और 100", "en": "0 and 100"}
-          ],
-          "answer": {"hi": "0 और 1", "en": "0 and 1"}
-        },
-        {
-          "q": {
-            "hi": "जब हम कहते हैं 'कल बारिश हो सकती है', तो यह क्या दर्शाता है?",
-            "en": "When we say 'It may rain tomorrow', what does it represent?"
-          },
-          "options": [
-            {"hi": "निश्चितता", "en": "Certainty"},
-            {"hi": "संयोग (Chance)", "en": "Chance"},
-            {"hi": "असंभवता", "en": "Impossibility"},
-            {"hi": "शून्य", "en": "Zero"}
-          ],
-          "answer": {"hi": "संयोग (Chance)", "en": "Chance"}
-        },
-        {
-          "q": {
-            "hi": "आंकड़ों 17, 18, 24, 25, 35 में माध्यक क्या है?",
-            "en": "What is the median in the data 17, 18, 24, 25, 35?"
-          },
-          "options": [
-            {"hi": "18", "en": "18"},
-            {"hi": "24", "en": "24"},
-            {"hi": "25", "en": "25"},
-            {"hi": "35", "en": "35"}
-          ],
-          "answer": {"hi": "24", "en": "24"}
+          "answer": {"hi": "GCD", "en": "GCD"}
         }
       ],
-      "section4": [
+      "section5": [
         {
           "q": {
-            "hi": "संख्याओं के एक समूह का माध्यक हमेशा उस समूह की एक संख्या होती है?",
-            "en": "Is the median of a group of numbers always one of the numbers in that group?"
-          },
-          "options": [
-            {"hi": "हमेशा", "en": "Always"},
-            {"hi": "कभी-कभी", "en": "Sometimes"},
-            {"hi": "कभी नहीं", "en": "Never"},
-            {"hi": "शून्य", "en": "Zero"}
-          ],
-          "answer": {"hi": "कभी-कभी", "en": "Sometimes"}
-        },
-        {
-          "q": {
-            "hi": "बहुलक का उपयोग किसलिए किया जाता है?",
-            "en": "What is the mode used for?"
-          },
-          "options": [
-            {"hi": "औसत निकालने के लिए", "en": "To find the average"},
-            {"hi": "सबसे लोकप्रिय मांग जानने के लिए", "en": "To find the most popular demand"},
-            {"hi": "प्रसार जानने के लिए", "en": "To find the range"},
-            {"hi": "कोई नहीं", "en": "None"}
-          ],
-          "answer": {"hi": "सबसे लोकप्रिय मांग जानने के लिए", "en": "To find the most popular demand"}
-        },
-        {
-          "q": {
-            "hi": "प्रथम 10 प्राकृतिक संख्याओं का माध्य क्या है?",
-            "en": "What is the mean of the first 10 natural numbers?"
-          },
-          "options": [
-            {"hi": "5", "en": "5"},
-            {"hi": "5.5", "en": "5.5"},
-            {"hi": "6", "en": "6"},
-            {"hi": "4.5", "en": "4.5"}
-          ],
-          "answer": {"hi": "5.5", "en": "5.5"}
-        },
-        {
-          "q": {
-            "hi": "प्रायिकता 0 का क्या अर्थ है?",
-            "en": "What does probability 0 mean?"
-          },
-          "options": [
-            {"hi": "निश्चित घटना", "en": "Certain event"},
-            {"hi": "असंभव घटना", "en": "Impossible event"},
-            {"hi": "हो भी सकती है", "en": "May happen"},
-            {"hi": "अनिश्चित", "en": "Uncertain"}
-          ],
-          "answer": {"hi": "असंभव घटना", "en": "Impossible event"}
-        },
-        {
-          "q": {
-            "hi": "द्वि-दंड आलेख का मुख्य लाभ क्या है?",
-            "en": "What is the main advantage of a double bar graph?"
-          },
-          "options": [
-            {"hi": "सुंदरता", "en": "Beauty"},
-            {"hi": "तुलना करना आसान", "en": "Easy to compare"},
-            {"hi": "कम जगह घेरना", "en": "Occupies less space"},
-            {"hi": "कोई नहीं", "en": "None"}
-          ],
-          "answer": {"hi": "तुलना करना आसान", "en": "Easy to compare"}
-        },
-        {
-          "q": {
-            "hi": "आंकड़ों 1, 2, 3, 4, 5 का माध्य क्या है?",
-            "en": "What is the mean of data 1, 2, 3, 4, 5?"
+            "hi": "यदि एक संख्या 9 से विभाज्य है, तो वह निश्चित रूप से किससे विभाज्य होगी?",
+            "en": "If a number is divisible by 9, it must be divisible by?"
           },
           "options": [
             {"hi": "2", "en": "2"},
             {"hi": "3", "en": "3"},
-            {"hi": "4", "en": "4"},
-            {"hi": "15", "en": "15"}
+            {"hi": "5", "en": "5"},
+            {"hi": "6", "en": "6"}
           ],
           "answer": {"hi": "3", "en": "3"}
         },
         {
           "q": {
-            "hi": "आंकड़ों 1, 2, 3, 4, 5 का माध्यक क्या है?",
-            "en": "What is the median of data 1, 2, 3, 4, 5?"
+            "hi": "दो लगातार प्राकृतिक संख्याओं का HCF क्या होता है?",
+            "en": "What is the HCF of two consecutive natural numbers?"
+          },
+          "options": [
+            {"hi": "0", "en": "0"},
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "उनका योग", "en": "Their sum"}
+          ],
+          "answer": {"hi": "1", "en": "1"}
+        },
+        {
+          "q": {
+            "hi": "दो लगातार सम संख्याओं का HCF क्या होता है?",
+            "en": "What is the HCF of two consecutive even numbers?"
+          },
+          "options": [
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "4", "en": "4"},
+            {"hi": "सम", "en": "Even"}
+          ],
+          "answer": {"hi": "2", "en": "2"}
+        },
+        {
+          "q": {
+            "hi": "संख्या 12 और 18 का सबसे बड़ा साझा गुणनखंड (HCF) क्या है?",
+            "en": "What is the Highest Common Factor (HCF) of 12 and 18?"
+          },
+          "options": [
+            {"hi": "2", "en": "2"},
+            {"hi": "3", "en": "3"},
+            {"hi": "6", "en": "6"},
+            {"hi": "12", "en": "12"}
+          ],
+          "answer": {"hi": "6", "en": "6"}
+        },
+        {
+          "q": {
+            "hi": "संख्या 4 और 6 का सबसे छोटा साझा गुणज (LCM) क्या है?",
+            "en": "What is the Lowest Common Multiple (LCM) of 4 and 6?"
+          },
+          "options": [
+            {"hi": "12", "en": "12"},
+            {"hi": "24", "en": "24"},
+            {"hi": "2", "en": "2"},
+            {"hi": "10", "en": "10"}
+          ],
+          "answer": {"hi": "12", "en": "12"}
+        },
+        {
+          "q": {
+            "hi": "अभाज्य गुणनखंडन के लिए किस विधि का उपयोग किया जाता है?",
+            "en": "Which method is used for prime factorisation?"
+          },
+          "options": [
+            {"hi": "गुणनखंड वृक्ष (Factor Tree)", "en": "Factor Tree"},
+            {"hi": "विभाजन छलनी", "en": "Division Sieve"},
+            {"hi": "जोड़ विधि", "en": "Addition method"},
+            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+          ],
+          "answer": {"hi": "गुणनखंड वृक्ष (Factor Tree)", "en": "Factor Tree"}
+        },
+        {
+          "q": {
+            "hi": "क्या 210, 10 से विभाज्य है?",
+            "en": "Is 210 divisible by 10?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "केवल 5 से", "en": "Only by 5"},
+            {"hi": "केवल 2 से", "en": "Only by 2"}
+          ],
+          "answer": {"hi": "हाँ", "en": "Yes"}
+        },
+        {
+          "q": {
+            "hi": "60 के अभाज्य गुणनखंडों में कौन सी संख्या शामिल नहीं होगी?",
+            "en": "Which number will not be in the prime factors of 60?"
           },
           "options": [
             {"hi": "2", "en": "2"},
@@ -1811,178 +1956,33 @@
             {"hi": "4", "en": "4"},
             {"hi": "5", "en": "5"}
           ],
-          "answer": {"hi": "3", "en": "3"}
+          "answer": {"hi": "4", "en": "4"}
         },
         {
           "q": {
-            "hi": "यदि n=6 (सम) है, तो माध्यक किन दो पदों का औसत होगा?",
-            "en": "If n=6 (even), median will be the average of which two terms?"
+            "hi": "दो सह-अभाज्य संख्याओं का LCM क्या होगा?",
+            "en": "What will be the LCM of two co-prime numbers?"
           },
           "options": [
-            {"hi": "दूसरा और तीसरा", "en": "2nd and 3rd"},
-            {"hi": "तीसरा और चौथा", "en": "3rd and 4th"},
-            {"hi": "चौथा और पांचवां", "en": "4th and 5th"},
-            {"hi": "पहला और छठा", "en": "1st and 6th"}
-          ],
-          "answer": {"hi": "तीसरा और चौथा", "en": "3rd and 4th"}
-        },
-        {
-          "q": {
-            "hi": "क्या माध्य आंकड़ों के परिसर के बाहर हो सकता है?",
-            "en": "Can the mean be outside the range of the data?"
-          },
-          "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "शून्य", "en": "Zero"},
-            {"hi": "परिभाषित नहीं", "en": "Not defined"}
-          ],
-          "answer": {"hi": "नहीं", "en": "No"}
-        },
-        {
-          "q": {
-            "hi": "एक डिब्बे में 1 से 6 तक संख्या लिखे हुए 6 कंचे हैं। संख्या 2 वाला कंचा निकालने की प्रायिकता क्या है?",
-            "en": "There are 6 marbles in a box numbered 1 to 6. What is the probability of picking marble with number 2?"
-          },
-          "options": [
-            {"hi": "2/6", "en": "2/6"},
-            {"hi": "1/2", "en": "1/2"},
-            {"hi": "1/6", "en": "1/6"},
+            {"hi": "1", "en": "1"},
+            {"hi": "उनका गुणनफल", "en": "Their product"},
+            {"hi": "उनका योग", "en": "Their sum"},
             {"hi": "0", "en": "0"}
           ],
-          "answer": {"hi": "1/6", "en": "1/6"}
-        }
-      ],
-      "section5": [
-        {
-          "q": {
-            "hi": "आंकड़ों का संगठन करने के लिए किसका उपयोग किया जाता है?",
-            "en": "What is used to organize data?"
-          },
-          "options": [
-            {"hi": "मिलान चिह्न (Tally marks)", "en": "Tally marks"},
-            {"hi": "समीकरण", "en": "Equations"},
-            {"hi": "क्षेत्रफल", "en": "Area"},
-            {"hi": "परिमाप", "en": "Perimeter"}
-          ],
-          "answer": {"hi": "मिलान चिह्न (Tally marks)", "en": "Tally marks"}
+          "answer": {"hi": "उनका गुणनफल", "en": "Their product"}
         },
         {
           "q": {
-            "hi": "बहुलक ज्ञात करने के लिए आंकड़ों को किस क्रम में रखना सुविधाजनक है?",
-            "en": "In which order is it convenient to put data to find the mode?"
+            "hi": "विभाज्यता जाँच का उद्देश्य क्या है?",
+            "en": "What is the purpose of divisibility tests?"
           },
           "options": [
-            {"hi": "केवल आरोही", "en": "Only Ascending"},
-            {"hi": "केवल अवरोही", "en": "Only Descending"},
-            {"hi": "आरोही या अवरोही", "en": "Ascending or Descending"},
-            {"hi": "कोई भी नहीं", "en": "None"}
+            {"hi": "लंबी भाग प्रक्रिया से बचना", "en": "To avoid long division process"},
+            {"hi": "गुणा करना", "en": "To multiply"},
+            {"hi": "अंकों को जोड़ना", "en": "To add digits"},
+            {"hi": "केवल सम संख्या ढूँढना", "en": "Only to find even numbers"}
           ],
-          "answer": {"hi": "आरोही या अवरोही", "en": "Ascending or Descending"}
-        },
-        {
-          "q": {
-            "hi": "क्रिकेट के एक मैच में खिलाड़ियों द्वारा बनाए गए रनों का माध्य कैसे निकालेंगे?",
-            "en": "How will you find the mean of runs scored by players in a cricket match?"
-          },
-          "options": [
-            {"hi": "कुल रन / खिलाड़ियों की संख्या", "en": "Total runs / Number of players"},
-            {"hi": "कुल रन × खिलाड़ियों की संख्या", "en": "Total runs × Number of players"},
-            {"hi": "खिलाड़ियों की संख्या / कुल रन", "en": "Number of players / Total runs"},
-            {"hi": "कोई नहीं", "en": "None"}
-          ],
-          "answer": {"hi": "कुल रन / खिलाड़ियों की संख्या", "en": "Total runs / Number of players"}
-        },
-        {
-          "q": {
-            "hi": "एक पासे को फेंकने पर 6 से बड़ी संख्या आने की प्रायिकता क्या है?",
-            "en": "What is the probability of getting a number greater than 6 when a die is thrown?"
-          },
-          "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "0", "en": "0"},
-            {"hi": "1/6", "en": "1/6"},
-            {"hi": "1/2", "en": "1/2"}
-          ],
-          "answer": {"hi": "0", "en": "0"}
-        },
-        {
-          "q": {
-            "hi": "आंकड़ों 10, 20, 30, 40 का परिसर क्या है?",
-            "en": "What is the range of the data 10, 20, 30, 40?"
-          },
-          "options": [
-            {"hi": "10", "en": "10"},
-            {"hi": "30", "en": "30"},
-            {"hi": "40", "en": "40"},
-            {"hi": "50", "en": "50"}
-          ],
-          "answer": {"hi": "30", "en": "30"}
-        },
-        {
-          "q": {
-            "hi": "प्रायिकता का अधिकतम मान क्या हो सकता है?",
-            "en": "What can be the maximum value of probability?"
-          },
-          "options": [
-            {"hi": "0", "en": "0"},
-            {"hi": "0.5", "en": "0.5"},
-            {"hi": "1", "en": "1"},
-            {"hi": "अनंत", "en": "Infinite"}
-          ],
-          "answer": {"hi": "1", "en": "1"}
-        },
-        {
-          "q": {
-            "hi": "आंकड़ों 6, 4, 3, 8, 9, 12, 13, 9 का माध्यक क्या है?",
-            "en": "What is the median of 6, 4, 3, 8, 9, 12, 13, 9?"
-          },
-          "options": [
-            {"hi": "8", "en": "8"},
-            {"hi": "9", "en": "9"},
-            {"hi": "8.5", "en": "8.5"},
-            {"hi": "10", "en": "10"}
-          ],
-          "answer": {"hi": "8.5", "en": "8.5"}
-        },
-        {
-          "q": {
-            "hi": "औसत (Average) को और किस नाम से जाना जाता है?",
-            "en": "By what other name is Average known?"
-          },
-          "options": [
-            {"hi": "अंकगणितीय माध्य", "en": "Arithmetic Mean"},
-            {"hi": "बहुलक", "en": "Mode"},
-            {"hi": "परिसर", "en": "Range"},
-            {"hi": "संयोग", "en": "Chance"}
-          ],
-          "answer": {"hi": "अंकगणितीय माध्य", "en": "Arithmetic Mean"}
-        },
-        {
-          "q": {
-            "hi": "क्या माध्य हमेशा आंकड़ों में दी गई संख्याओं में से एक होता है?",
-            "en": "Is the mean always one of the numbers given in the data?"
-          },
-          "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "शून्य", "en": "Zero"},
-            {"hi": "परिभाषित नहीं", "en": "Not defined"}
-          ],
-          "answer": {"hi": "नहीं", "en": "No"}
-        },
-        {
-          "q": {
-            "hi": "आंकड़ों 1, 1, 2, 2, 2, 3, 3, 4 का बहुलक क्या है?",
-            "en": "What is the mode of data 1, 1, 2, 2, 2, 3, 3, 4?"
-          },
-          "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "2", "en": "2"},
-            {"hi": "3", "en": "3"},
-            {"hi": "4", "en": "4"}
-          ],
-          "answer": {"hi": "2", "en": "2"}
+          "answer": {"hi": "लंबी भाग प्रक्रिया से बचना", "en": "To avoid long division process"}
         }
       ]
     },
