@@ -6624,661 +6624,661 @@
       "section1": [
         {
           "q": {
-            "hi": "यदि खरीदी गई वस्तुओं की संख्या में वृद्धि होती है, तो उनके कुल मूल्य में क्या परिवर्तन होता है?",
-            "en": "If the number of items purchased increases, what change occurs in their total cost?"
+            "hi": "घातांकीय रूप $10^5$ में 'आधार' क्या है?",
+            "en": "What is the 'base' in the exponential form $10^5$?"
           },
           "options": [
-            {"hi": "कमी होती है", "en": "Decreases"},
-            {"hi": "वृद्धि होती है", "en": "Increases"},
-            {"hi": "कोई परिवर्तन नहीं", "en": "No change"},
-            {"hi": "आधा हो जाता है", "en": "Becomes half"}
+            {"hi": "5", "en": "5"},
+            {"hi": "10", "en": "10"},
+            {"hi": "50", "en": "50"},
+            {"hi": "100000", "en": "100000"}
           ],
-          "answer": {"hi": "वृद्धि होती है", "en": "Increases"}
+          "answer": {"hi": "10", "en": "10"}
         },
         {
           "q": {
-            "hi": "दो राशियाँ x और y सीधे समानुपात में कहलाती हैं यदि x/y किसके बराबर हो?",
-            "en": "Two quantities x and y are said to be in direct proportion if x/y is equal to?"
+            "hi": "संख्या $2 \\times 2 \\times 2 \\times 2$ का घातांकीय रूप क्या है?",
+            "en": "What is the exponential form of $2 \\times 2 \\times 2 \\times 2$?"
           },
           "options": [
-            {"hi": "शून्य", "en": "Zero"},
-            {"hi": "अचर (k)", "en": "Constant (k)"},
-            {"hi": "x + y", "en": "x + y"},
-            {"hi": "x - y", "en": "x - y"}
+            {"hi": "$2^2$", "en": "$2^2$"},
+            {"hi": "$2^4$", "en": "$2^4$"},
+            {"hi": "$4^2$", "en": "$4^2$"},
+            {"hi": "16", "en": "16"}
           ],
-          "answer": {"hi": "अचर (k)", "en": "Constant (k)"}
+          "answer": {"hi": "$2^4$", "en": "$2^4$"}
         },
         {
           "q": {
-            "hi": "बैंक में जितनी अधिक धनराशि जमा की जाएगी, उतना ही अधिक क्या अर्जित होगा?",
-            "en": "The more money deposited in a bank, the more of what will be earned?"
+            "hi": "व्यंजक $a^m \\times a^n$ किसके बराबर है?",
+            "en": "What is the expression $a^m \\times a^n$ equal to?"
           },
           "options": [
-            {"hi": "ऋण", "en": "Debt"},
-            {"hi": "ब्याज", "en": "Interest"},
-            {"hi": "बट्टा", "en": "Discount"},
-            {"hi": "हानि", "en": "Loss"}
+            {"hi": "$a^{m-n}$", "en": "$a^{m-n}$"},
+            {"hi": "$a^{m+n}$", "en": "$a^{m+n}$"},
+            {"hi": "$a^{mn}$", "en": "$a^{mn}$"},
+            {"hi": "$(2a)^{m+n}$", "en": "$(2a)^{m+n}$"}
           ],
-          "answer": {"hi": "ब्याज", "en": "Interest"}
+          "answer": {"hi": "$a^{m+n}$", "en": "$a^{m+n}$"}
         },
         {
           "q": {
-            "hi": "यदि वाहन की चाल में वृद्धि होती है, तो निश्चित दूरी तय करने के समय में क्या होता है?",
-            "en": "If the speed of a vehicle increases, what happens to the time taken to cover a fixed distance?"
+            "hi": "$a^m \\div a^n$ का मान क्या होगा (जहाँ $m > n$)?",
+            "en": "What is the value of $a^m \\div a^n$ (where $m > n$)?"
           },
           "options": [
-            {"hi": "वृद्धि होती है", "en": "Increases"},
-            {"hi": "कमी होती है", "en": "Decreases"},
-            {"hi": "वही रहता है", "en": "Remains the same"},
-            {"hi": "शून्य हो जाता है", "en": "Becomes zero"}
+            {"hi": "$a^{m+n}$", "en": "$a^{m+n}$"},
+            {"hi": "$a^{m-n}$", "en": "$a^{m-n}$"},
+            {"hi": "$a^{m/n}$", "en": "$a^{m/n}$"},
+            {"hi": "1", "en": "1"}
           ],
-          "answer": {"hi": "कमी होती है", "en": "Decreases"}
+          "answer": {"hi": "$a^{m-n}$", "en": "$a^{m-n}$"}
         },
         {
           "q": {
-            "hi": "सीधे समानुपात में यदि x₁/y₁ = k है, तो x₂/y₂ किसके बराबर होगा?",
-            "en": "In direct proportion, if x₁/y₁ = k, then x₂/y₂ will be equal to?"
+            "hi": "$(a^m)^n$ का सरल रूप क्या है?",
+            "en": "What is the simplified form of $(a^m)^n$?"
           },
           "options": [
-            {"hi": "k", "en": "k"},
-            {"hi": "2k", "en": "2k"},
-            {"hi": "1/k", "en": "1/k"},
-            {"hi": "0", "en": "0"}
+            {"hi": "$a^{m+n}$", "en": "$a^{m+n}$"},
+            {"hi": "$a^{mn}$", "en": "$a^{mn}$"},
+            {"hi": "$a^m + a^n$", "en": "$a^m + a^n$"},
+            {"hi": "$n \\cdot a^m$", "en": "$n \\cdot a^m$"}
           ],
-          "answer": {"hi": "k", "en": "k"}
+          "answer": {"hi": "$a^{mn}$", "en": "$a^{mn}$"}
         },
         {
           "q": {
-            "hi": "एक दिए गए कार्य के लिए, जितने अधिक व्यक्ति काम पर लगाए जाएँगे, समय उतना ही क्या लगेगा?",
-            "en": "For a given task, the more people employed, the amount of time taken will be?"
+            "hi": "किसी भी शून्येतर संख्या $a$ के लिए $a^0$ का मान क्या होता है?",
+            "en": "What is the value of $a^0$ for any non-zero number $a$?"
           },
           "options": [
-            {"hi": "अधिक", "en": "More"},
-            {"hi": "कम", "en": "Less"},
-            {"hi": "दुगुना", "en": "Double"},
-            {"hi": "अनिश्चित", "en": "Uncertain"}
+            {"hi": "0", "en": "0"},
+            {"hi": "1", "en": "1"},
+            {"hi": "a", "en": "a"},
+            {"hi": "-1", "en": "-1"}
           ],
-          "answer": {"hi": "कम", "en": "Less"}
+          "answer": {"hi": "1", "en": "1"}
         },
         {
           "q": {
-            "hi": "यदि 1 kg चीनी का मूल्य ₹ 36 है, तो 3 kg चीनी का मूल्य क्या होगा?",
-            "en": "If 1 kg of sugar costs ₹ 36, what will be the cost of 3 kg of sugar?"
+            "hi": "$a^m \\times b^m$ को कैसे लिखा जा सकता है?",
+            "en": "How can $a^m \\times b^m$ be written?"
           },
           "options": [
-            {"hi": "₹ 72", "en": "₹ 72"},
-            {"hi": "₹ 108", "en": "₹ 108"},
-            {"hi": "₹ 100", "en": "₹ 100"},
-            {"hi": "₹ 144", "en": "₹ 144"}
+            {"hi": "$(ab)^m$", "en": "$(ab)^m$"},
+            {"hi": "$a+b^m$", "en": "$a+b^m$"},
+            {"hi": "$(ab)^{2m}$", "en": "$(ab)^{2m}$"},
+            {"hi": "$a^m + b^m$", "en": "$a^m + b^m$"}
           ],
-          "answer": {"hi": "₹ 108", "en": "₹ 108"}
+          "answer": {"hi": "$(ab)^m$", "en": "$(ab)^m$"}
         },
         {
           "q": {
-            "hi": "सीधे समानुपात में राशियाँ किस प्रकार बदलती हैं?",
-            "en": "How do quantities change in direct proportion?"
+            "hi": "$(-1)$ की कोई भी विषम घात (odd power) क्या होती है?",
+            "en": "What is any odd power of $(-1)$?"
           },
           "options": [
-            {"hi": "एक बढ़ती है, दूसरी घटती है", "en": "One increases, the other decreases"},
-            {"hi": "दोनों साथ-साथ बढ़ती या घटती हैं", "en": "Both increase or decrease together"},
-            {"hi": "कोई संबंध नहीं होता", "en": "There is no relationship"},
-            {"hi": "केवल एक बदलती है", "en": "Only one changes"}
+            {"hi": "1", "en": "1"},
+            {"hi": "-1", "en": "-1"},
+            {"hi": "0", "en": "0"},
+            {"hi": "परिभाषित नहीं", "en": "Not defined"}
           ],
-          "answer": {"hi": "दोनों साथ-साथ बढ़ती या घटती हैं", "en": "Both increase or decrease together"}
+          "answer": {"hi": "-1", "en": "-1"}
         },
         {
           "q": {
-            "hi": "नक्शे में उपयोग किया जाने वाला 'पैमाना' (Scale) किसका उदाहरण है?",
-            "en": "The 'Scale' used in a map is an example of?"
+            "hi": "$(-1)$ की कोई भी सम घात (even power) क्या होती है?",
+            "en": "What is any even power of $(-1)$?"
           },
           "options": [
-            {"hi": "प्रतिलोम समानुपात", "en": "Inverse proportion"},
-            {"hi": "सीधा समानुपात", "en": "Direct proportion"},
-            {"hi": "विषम अनुपात", "en": "Odd ratio"},
-            {"hi": "अंकगणित", "en": "Arithmetic"}
+            {"hi": "1", "en": "1"},
+            {"hi": "-1", "en": "-1"},
+            {"hi": "0", "en": "0"},
+            {"hi": "(-1)", "en": "(-1)"}
           ],
-          "answer": {"hi": "सीधा समानुपात", "en": "Direct proportion"}
+          "answer": {"hi": "1", "en": "1"}
         },
         {
           "q": {
-            "hi": "यदि x और y सीधे समानुपात में हैं, तो निम्न में से कौन सा सत्य है?",
-            "en": "If x and y are in direct proportion, which of the following is true?"
+            "hi": "$10^3$ का मान क्या है?",
+            "en": "What is the value of $10^3$?"
           },
           "options": [
-            {"hi": "x * y = k", "en": "x * y = k"},
-            {"hi": "x / y = k", "en": "x / y = k"},
-            {"hi": "x + y = k", "en": "x + y = k"},
-            {"hi": "x - y = k", "en": "x - y = k"}
+            {"hi": "30", "en": "30"},
+            {"hi": "100", "en": "100"},
+            {"hi": "1000", "en": "1000"},
+            {"hi": "300", "en": "300"}
           ],
-          "answer": {"hi": "x / y = k", "en": "x / y = k"}
+          "answer": {"hi": "1000", "en": "1000"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "प्रतिलोम समानुपात (Inverse Proportion) में क्या होता है?",
-            "en": "What happens in Inverse Proportion?"
+            "hi": "संख्या $1,00,000$ को 10 की घात के रूप में कैसे लिखेंगे?",
+            "en": "How to write $1,00,000$ as a power of 10?"
           },
           "options": [
-            {"hi": "एक राशि बढ़ने पर दूसरी भी बढ़ती है", "en": "As one quantity increases, the other also increases"},
-            {"hi": "एक राशि बढ़ने पर दूसरी घटती है", "en": "As one quantity increases, the other decreases"},
-            {"hi": "दोनों राशियाँ अचर रहती हैं", "en": "Both quantities remain constant"},
-            {"hi": "योगफल अचर रहता है", "en": "The sum remains constant"}
+            {"hi": "$10^4$", "en": "$10^4$"},
+            {"hi": "$10^5$", "en": "$10^5$"},
+            {"hi": "$10^6$", "en": "$10^6$"},
+            {"hi": "$10^1$", "en": "$10^1$"}
           ],
-          "answer": {"hi": "एक राशि बढ़ने पर दूसरी घटती है", "en": "As one quantity increases, the other decreases"}
+          "answer": {"hi": "$10^5$", "en": "$10^5$"}
         },
         {
           "q": {
-            "hi": "यदि x और y प्रतिलोम समानुपात में हैं, तो उनका गुणनफल (xy) क्या होगा?",
-            "en": "If x and y are in inverse proportion, what will be their product (xy)?"
+            "hi": "$2^3$ और $3^2$ में से कौन बड़ा है?",
+            "en": "Which is greater between $2^3$ and $3^2$?"
           },
           "options": [
-            {"hi": "परिवर्तनशील", "en": "Variable"},
-            {"hi": "अचर (k)", "en": "Constant (k)"},
-            {"hi": "शून्य", "en": "Zero"},
-            {"hi": "अनंत", "en": "Infinite"}
+            {"hi": "$2^3$", "en": "$2^3$"},
+            {"hi": "$3^2$", "en": "$3^2$"},
+            {"hi": "दोनों बराबर हैं", "en": "Both are equal"},
+            {"hi": "तुलना नहीं की जा सकती", "en": "Cannot be compared"}
           ],
-          "answer": {"hi": "अचर (k)", "en": "Constant (k)"}
+          "answer": {"hi": "$3^2$", "en": "$3^2$"}
         },
         {
           "q": {
-            "hi": "प्रतिलोम समानुपात की स्थिति में x₁ * y₁ किसके बराबर होता है?",
-            "en": "In a situation of inverse proportion, x₁ * y₁ is equal to?"
+            "hi": "संख्या 729 को 3 की घात के रूप में व्यक्त कीजिए।",
+            "en": "Express 729 as a power of 3."
           },
           "options": [
-            {"hi": "x₂ / y₂", "en": "x₂ / y₂"},
-            {"hi": "x₂ * y₂", "en": "x₂ * y₂"},
-            {"hi": "x₁ / x₂", "en": "x₁ / x₂"},
-            {"hi": "y₁ / y₂", "en": "y₁ / y₂"}
+            {"hi": "$3^4$", "en": "$3^4$"},
+            {"hi": "$3^5$", "en": "$3^5$"},
+            {"hi": "$3^6$", "en": "$3^6$"},
+            {"hi": "$3^3$", "en": "$3^3$"}
           ],
-          "answer": {"hi": "x₂ * y₂", "en": "x₂ * y₂"}
+          "answer": {"hi": "$3^6$", "en": "$3^6$"}
         },
         {
           "q": {
-            "hi": "यदि 5 व्यक्ति एक दीवार 10 दिन में बनाते हैं, तो 10 व्यक्ति उसे कितने दिन में बनाएँगे?",
-            "en": "If 5 people build a wall in 10 days, in how many days will 10 people build it?"
+            "hi": "$(-3)^4$ का मान क्या होगा?",
+            "en": "What will be the value of $(-3)^4$?"
           },
           "options": [
-            {"hi": "20 दिन", "en": "20 days"},
-            {"hi": "5 दिन", "en": "5 days"},
-            {"hi": "15 दिन", "en": "15 days"},
-            {"hi": "2 दिन", "en": "2 days"}
+            {"hi": "-81", "en": "-81"},
+            {"hi": "81", "en": "81"},
+            {"hi": "12", "en": "12"},
+            {"hi": "-12", "en": "-12"}
           ],
-          "answer": {"hi": "5 दिन", "en": "5 days"}
+          "answer": {"hi": "81", "en": "81"}
         },
         {
           "q": {
-            "hi": "एक ट्रेन 75 km/h की चाल से चल रही है। 20 मिनट में कितनी दूरी तय करेगी?",
-            "en": "A train travels at 75 km/h. How much distance will it cover in 20 minutes?"
+            "hi": "व्यंजक $2^0 + 3^0 + 4^0$ का मान क्या है?",
+            "en": "What is the value of $2^0 + 3^0 + 4^0$?"
           },
           "options": [
-            {"hi": "20 km", "en": "20 km"},
-            {"hi": "25 km", "en": "25 km"},
-            {"hi": "30 km", "en": "30 km"},
-            {"hi": "35 km", "en": "35 km"}
+            {"hi": "0", "en": "0"},
+            {"hi": "1", "en": "1"},
+            {"hi": "3", "en": "3"},
+            {"hi": "9", "en": "9"}
           ],
-          "answer": {"hi": "25 km", "en": "25 km"}
+          "answer": {"hi": "3", "en": "3"}
         },
         {
           "q": {
-            "hi": "यदि x और y प्रतिलोम समानुपात में हैं और x = 10 होने पर y = 6 है। यदि x = 12 हो, तो y क्या होगा?",
-            "en": "If x and y are in inverse proportion and y = 6 when x = 10. If x = 12, what will be y?"
+            "hi": "$(-2)^3$ का मान क्या है?",
+            "en": "What is the value of $(-2)^3$?"
           },
           "options": [
-            {"hi": "5", "en": "5"},
-            {"hi": "7.2", "en": "7.2"},
-            {"hi": "4", "en": "4"},
+            {"hi": "8", "en": "8"},
+            {"hi": "-8", "en": "-8"},
+            {"hi": "6", "en": "6"},
+            {"hi": "-6", "en": "-6"}
+          ],
+          "answer": {"hi": "-8", "en": "-8"}
+        },
+        {
+          "q": {
+            "hi": "$5^2 \\times 5^4$ को सरल करने पर क्या प्राप्त होगा?",
+            "en": "What will be obtained by simplifying $5^2 \\times 5^4$?"
+          },
+          "options": [
+            {"hi": "$5^8$", "en": "$5^8$"},
+            {"hi": "$5^6$", "en": "$5^6$"},
+            {"hi": "$25^6$", "en": "$25^6$"},
+            {"hi": "$5^2$", "en": "$5^2$"}
+          ],
+          "answer": {"hi": "$5^6$", "en": "$5^6$"}
+        },
+        {
+          "q": {
+            "hi": "$x^m \\div x^n$ जहाँ $m < n$ हो, तो परिणाम क्या होगा?",
+            "en": "What will be the result of $x^m \\div x^n$ where $m < n$?"
+          },
+          "options": [
+            {"hi": "$x^{n-m}$", "en": "$x^{n-m}$"},
+            {"hi": "$1/x^{n-m}$", "en": "$1/x^{n-m}$"},
+            {"hi": "$x^{m+n}$", "en": "$x^{m+n}$"},
+            {"hi": "0", "en": "0"}
+          ],
+          "answer": {"hi": "$1/x^{n-m}$", "en": "$1/x^{n-m}$"}
+        },
+        {
+          "q": {
+            "hi": "$(2^3)^2$ का मान है:",
+            "en": "The value of $(2^3)^2$ is:"
+          },
+          "options": [
+            {"hi": "$2^5$", "en": "$2^5$"},
+            {"hi": "$2^6$", "en": "$2^6$"},
+            {"hi": "32", "en": "32"},
             {"hi": "12", "en": "12"}
           ],
-          "answer": {"hi": "5", "en": "5"}
+          "answer": {"hi": "$2^6$", "en": "$2^6$"}
         },
         {
           "q": {
-            "hi": "एक मानचित्र का पैमाना 1:30,000,000 है। मानचित्र पर 2 cm की दूरी वास्तविक कितनी दूरी दर्शाती है?",
-            "en": "The scale of a map is 1:30,000,000. What actual distance is represented by 2 cm on the map?"
+            "hi": "किसी संख्या को $1.0$ और $10.0$ के बीच की एक दशमलव संख्या और 10 की घात के गुणनफल के रूप में लिखना क्या कहलाता है?",
+            "en": "Writing a number as a product of a decimal between $1.0$ and $10.0$ and a power of 10 is called?"
           },
           "options": [
-            {"hi": "300 km", "en": "300 km"},
-            {"hi": "600 km", "en": "600 km"},
-            {"hi": "150 km", "en": "150 km"},
-            {"hi": "60 km", "en": "60 km"}
+            {"hi": "सामान्य रूप", "en": "Normal form"},
+            {"hi": "मानक रूप (Standard form)", "en": "Standard form"},
+            {"hi": "विस्तारित रूप", "en": "Expanded form"},
+            {"hi": "घातांकीय रूप", "en": "Exponential form"}
           ],
-          "answer": {"hi": "600 km", "en": "600 km"}
-        },
-        {
-          "q": {
-            "hi": "6 पाइप एक टैंक को 1 घंटा 20 मिनट में भरते हैं। 5 पाइपों द्वारा कितना समय लगेगा?",
-            "en": "6 pipes fill a tank in 1 hour 20 minutes. How much time will 5 pipes take?"
-          },
-          "options": [
-            {"hi": "1 घंटा", "en": "1 hour"},
-            {"hi": "1 घंटा 36 मिनट", "en": "1 hour 36 minutes"},
-            {"hi": "2 घंटे", "en": "2 hours"},
-            {"hi": "80 मिनट", "en": "80 minutes"}
-          ],
-          "answer": {"hi": "1 घंटा 36 मिनट", "en": "1 hour 36 minutes"}
-        },
-        {
-          "q": {
-            "hi": "दैनिक जीवन में मजदूरों की संख्या और कार्य पूर्ण करने के समय के बीच कैसा संबंध होता है?",
-            "en": "In daily life, what is the relationship between the number of workers and the time taken to complete a task?"
-          },
-          "options": [
-            {"hi": "सीधा समानुपात", "en": "Direct proportion"},
-            {"hi": "प्रतिलोम समानुपात", "en": "Inverse proportion"},
-            {"hi": "कोई संबंध नहीं", "en": "No relationship"},
-            {"hi": "स्थिर संबंध", "en": "Constant relationship"}
-          ],
-          "answer": {"hi": "प्रतिलोम समानुपात", "en": "Inverse proportion"}
-        },
-        {
-          "q": {
-            "hi": "यदि x/y = k है, तो x और y किस समानुपात में हैं?",
-            "en": "If x/y = k, in what proportion are x and y?"
-          },
-          "options": [
-            {"hi": "सीधा समानुपात", "en": "Direct proportion"},
-            {"hi": "प्रतिलोम समानुपात", "en": "Inverse proportion"},
-            {"hi": "असंगत", "en": "Inconsistent"},
-            {"hi": "शून्य", "en": "Zero"}
-          ],
-          "answer": {"hi": "सीधा समानुपात", "en": "Direct proportion"}
+          "answer": {"hi": "मानक रूप (Standard form)", "en": "Standard form"}
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "एक कार 60 km/h की चाल से एक दूरी 2 घंटे में तय करती है। 80 km/h की चाल से उसे कितना समय लगेगा?",
-            "en": "A car covers a distance in 2 hours at a speed of 60 km/h. How much time will it take at 80 km/h?"
+            "hi": "संख्या $3908.78$ का मानक रूप क्या है?",
+            "en": "What is the standard form of $3908.78$?"
           },
           "options": [
-            {"hi": "1.5 घंटे", "en": "1.5 hours"},
-            {"hi": "1 घंटा", "en": "1 hour"},
-            {"hi": "2.5 घंटे", "en": "2.5 hours"},
-            {"hi": "3 घंटे", "en": "3 hours"}
+            {"hi": "$3.90878 \\times 10^3$", "en": "$3.90878 \\times 10^3$"},
+            {"hi": "$39.0878 \\times 10^2$", "en": "$39.0878 \\times 10^2$"},
+            {"hi": "$3.90878 \\times 10^4$", "en": "$3.90878 \\times 10^4$"},
+            {"hi": "$0.390878 \\times 10^4$", "en": "$0.390878 \\times 10^4$"}
           ],
-          "answer": {"hi": "1.5 घंटे", "en": "1.5 hours"}
+          "answer": {"hi": "$3.90878 \\times 10^3$", "en": "$3.90878 \\times 10^3$"}
         },
         {
           "q": {
-            "hi": "यदि 14 मीटर ऊँचे बिजली के खंभे की छाया 10 मीटर है, तो 21 मीटर ऊँचे पेड़ की छाया कितनी होगी?",
-            "en": "If a 14m high electric pole casts a shadow of 10m, what will be the shadow of a 21m high tree?"
+            "hi": "प्रकाश की चाल $300,000,000$ m/s है। इसे मानक रूप में व्यक्त कीजिए।",
+            "en": "Speed of light is $300,000,000$ m/s. Express it in standard form."
           },
           "options": [
-            {"hi": "12 मीटर", "en": "12 meters"},
-            {"hi": "15 मीटर", "en": "15 meters"},
-            {"hi": "18 मीटर", "en": "18 meters"},
-            {"hi": "20 मीटर", "en": "20 meters"}
+            {"hi": "$3 \\times 10^7$ m/s", "en": "$3 \\times 10^7$ m/s"},
+            {"hi": "$3 \\times 10^8$ m/s", "en": "$3 \\times 10^8$ m/s"},
+            {"hi": "$30 \\times 10^7$ m/s", "en": "$30 \\times 10^7$ m/s"},
+            {"hi": "$0.3 \\times 10^9$ m/s", "en": "$0.3 \\times 10^9$ m/s"}
           ],
-          "answer": {"hi": "15 मीटर", "en": "15 meters"}
+          "answer": {"hi": "$3 \\times 10^8$ m/s", "en": "$3 \\times 10^8$ m/s"}
         },
         {
           "q": {
-            "hi": "जब x बढ़ता है और y उसी अनुपात में घटता है, तो वे क्या कहलाते हैं?",
-            "en": "When x increases and y decreases in the same ratio, what are they called?"
+            "hi": "$a^m \\div b^m$ को कैसे लिखा जा सकता है?",
+            "en": "How can $a^m \\div b^m$ be written?"
           },
           "options": [
-            {"hi": "अनुक्रमानुपाती", "en": "Directly proportional"},
-            {"hi": "व्युत्क्रमानुपाती", "en": "Inversely proportional"},
-            {"hi": "समान", "en": "Equal"},
-            {"hi": "शून्य", "en": "Zero"}
+            {"hi": "$(a/b)^m$", "en": "$(a/b)^m$"},
+            {"hi": "$(a-b)^m$", "en": "$(a-b)^m$"},
+            {"hi": "$a/b$", "en": "$a/b$"},
+            {"hi": "$(ab)^{-m}$", "en": "$(ab)^{-m}$"}
           ],
-          "answer": {"hi": "व्युत्क्रमानुपाती", "en": "Inversely proportional"}
+          "answer": {"hi": "$(a/b)^m$", "en": "$(a/b)^m$"}
         },
         {
           "q": {
-            "hi": "यदि 25 मीटर कपड़े का मूल्य ₹ 1575 है, तो 5 मीटर कपड़े का मूल्य क्या होगा?",
-            "en": "If the cost of 25m of cloth is ₹ 1575, what is the cost of 5m of cloth?"
+            "hi": "$10^2 \\times 10^5$ का मान क्या होगा?",
+            "en": "What will be the value of $10^2 \\times 10^5$?"
           },
           "options": [
-            {"hi": "₹ 315", "en": "₹ 315"},
-            {"hi": "₹ 300", "en": "₹ 300"},
-            {"hi": "₹ 250", "en": "₹ 250"},
-            {"hi": "₹ 350", "en": "₹ 350"}
+            {"hi": "$10^{10}$", "en": "$10^{10}$"},
+            {"hi": "$10^7$", "en": "$10^7$"},
+            {"hi": "$10^3$", "en": "$10^3$"},
+            {"hi": "$100^7$", "en": "$100^7$"}
           ],
-          "answer": {"hi": "₹ 315", "en": "₹ 315"}
+          "answer": {"hi": "$10^7$", "en": "$10^7$"}
         },
         {
           "q": {
-            "hi": "एक छात्रवास में 100 विद्यार्थी हैं और भोजन सामग्री 20 दिन के लिए है। यदि 25 विद्यार्थी और आ जाएँ, तो सामग्री कितने दिन चलेगी?",
-            "en": "A hostel has 100 students and food lasts for 20 days. If 25 more students arrive, how many days will it last?"
+            "hi": "संख्या $47,561$ का विस्तारित रूप (expanded form) 10 की घातों में क्या होगा?",
+            "en": "What is the expanded form of $47,561$ using powers of 10?"
           },
           "options": [
-            {"hi": "16 दिन", "en": "16 days"},
-            {"hi": "15 दिन", "en": "15 days"},
-            {"hi": "18 दिन", "en": "18 days"},
-            {"hi": "25 दिन", "en": "25 days"}
+            {"hi": "$4\\times10^4 + 7\\times10^3 + 5\\times10^2 + 6\\times10^1 + 1\\times10^0$", "en": "$4\\times10^4 + 7\\times10^3 + 5\\times10^2 + 6\\times10^1 + 1\\times10^0$"},
+            {"hi": "$4\\times10^5 + 7\\times10^4 + 5\\times10^3 + 6\\times10^2 + 1\\times10^1$", "en": "$4\\times10^5 + 7\\times10^4 + 5\\times10^3 + 6\\times10^2 + 1\\times10^1$"},
+            {"hi": "$47561 \\times 10^0$", "en": "$47561 \\times 10^0$"},
+            {"hi": "$4\\times10^3 + 7\\times10^2 + 5\\times10^1 + 6\\times10^0$", "en": "$4\\times10^3 + 7\\times10^2 + 5\\times10^1 + 6\\times10^0$"}
           ],
-          "answer": {"hi": "16 दिन", "en": "16 days"}
+          "answer": {"hi": "$4\\times10^4 + 7\\times10^3 + 5\\times10^2 + 6\\times10^1 + 1\\times10^0$", "en": "$4\\times10^4 + 7\\times10^3 + 5\\times10^2 + 6\\times10^1 + 1\\times10^0$"}
         },
         {
           "q": {
-            "hi": "सीधे समानुपात में यदि x और y अनुक्रमानुपाती हैं, तो x₁/y₁ का मान कैसा रहता है?",
-            "en": "In direct proportion, if x and y are proportional, what happens to the value of x₁/y₁?"
+            "hi": "यदि $2^n = 32$ है, तो $n$ का मान क्या है?",
+            "en": "If $2^n = 32$, what is the value of $n$?"
           },
           "options": [
-            {"hi": "बढ़ता रहता है", "en": "Keeps increasing"},
-            {"hi": "घटता रहता है", "en": "Keeps decreasing"},
-            {"hi": "अचर रहता है", "en": "Remains constant"},
-            {"hi": "शून्य हो जाता है", "en": "Becomes zero"}
+            {"hi": "4", "en": "4"},
+            {"hi": "5", "en": "5"},
+            {"hi": "6", "en": "6"},
+            {"hi": "16", "en": "16"}
           ],
-          "answer": {"hi": "अचर रहता है", "en": "Remains constant"}
+          "answer": {"hi": "5", "en": "5"}
         },
         {
           "q": {
-            "hi": "यदि 15 मजदूरों की मजदूरी ₹ 3000 है, तो 25 मजदूरों की मजदूरी क्या होगी?",
-            "en": "If the wages of 15 workers are ₹ 3000, what will be the wages of 25 workers?"
+            "hi": "$(-1)^{100}$ का मान क्या होगा?",
+            "en": "What will be the value of $(-1)^{100}$?"
           },
           "options": [
-            {"hi": "₹ 4000", "en": "₹ 4000"},
-            {"hi": "₹ 5000", "en": "₹ 5000"},
-            {"hi": "₹ 4500", "en": "₹ 4500"},
-            {"hi": "₹ 6000", "en": "₹ 6000"}
+            {"hi": "-1", "en": "-1"},
+            {"hi": "1", "en": "1"},
+            {"hi": "100", "en": "100"},
+            {"hi": "0", "en": "0"}
           ],
-          "answer": {"hi": "₹ 5000", "en": "₹ 5000"}
+          "answer": {"hi": "1", "en": "1"}
         },
         {
           "q": {
-            "hi": "एक मानचित्र में 1 cm दूरी 18 km को दर्शाती है। यदि सड़क पर दूरी 72 km है, तो मानचित्र पर दूरी क्या होगी?",
-            "en": "In a map, 1 cm represents 18 km. If the road distance is 72 km, what is the map distance?"
+            "hi": "संख्या $5.97 \\times 10^{24}$ kg किसका द्रव्यमान है?",
+            "en": "Whose mass is $5.97 \\times 10^{24}$ kg?"
           },
           "options": [
-            {"hi": "3 cm", "en": "3 cm"},
-            {"hi": "4 cm", "en": "4 cm"},
-            {"hi": "5 cm", "en": "5 cm"},
-            {"hi": "2 cm", "en": "2 cm"}
+            {"hi": "सूर्य", "en": "Sun"},
+            {"hi": "पृथ्वी (Earth)", "en": "Earth"},
+            {"hi": "चंद्रमा", "en": "Moon"},
+            {"hi": "यूरेनस", "en": "Uranus"}
           ],
-          "answer": {"hi": "4 cm", "en": "4 cm"}
+          "answer": {"hi": "पृथ्वी (Earth)", "en": "Earth"}
         },
         {
           "q": {
-            "hi": "प्रतिलोम समानुपात में यदि x बढ़ता है, तो y किस प्रकार बदलता है?",
-            "en": "In inverse proportion, if x increases, how does y change?"
+            "hi": "$3^2 \\times 3^3 \\times 3^4$ का सरल रूप क्या है?",
+            "en": "What is the simplified form of $3^2 \\times 3^3 \\times 3^4$?"
           },
           "options": [
-            {"hi": "y बढ़ता है", "en": "y increases"},
-            {"hi": "y घटता है", "en": "y decreases"},
-            {"hi": "y स्थिर रहता है", "en": "y stays constant"},
-            {"hi": "y शून्य हो जाता है", "en": "y becomes zero"}
+            {"hi": "$3^{24}$", "en": "$3^{24}$"},
+            {"hi": "$3^9$", "en": "$3^9$"},
+            {"hi": "$27^9$", "en": "$27^9$"},
+            {"hi": "$9^9$", "en": "$9^9$"}
           ],
-          "answer": {"hi": "y घटता है", "en": "y decreases"}
+          "answer": {"hi": "$3^9$", "en": "$3^9$"}
         },
         {
           "q": {
-            "hi": "दो राशियाँ x और y व्युत्क्रमानुपाती कहलाती हैं यदि उनके संगत मानों का गुणनफल (xy) क्या हो?",
-            "en": "Two quantities x and y are called inversely proportional if the product of their corresponding values (xy) is?"
+            "hi": "$a^m \\div a^n$ को $a^{m-n}$ लिखने के लिए $a$ कैसा होना चाहिए?",
+            "en": "To write $a^m \\div a^n$ as $a^{m-n}$, what should $a$ be?"
           },
           "options": [
-            {"hi": "अचर", "en": "Constant"},
             {"hi": "शून्य", "en": "Zero"},
-            {"hi": "परिवर्तनशील", "en": "Variable"},
-            {"hi": "ऋणात्मक", "en": "Negative"}
+            {"hi": "शून्य के अलावा कोई भी संख्या", "en": "Any non-zero number"},
+            {"hi": "केवल धनात्मक", "en": "Only positive"},
+            {"hi": "केवल ऋणात्मक", "en": "Only negative"}
           ],
-          "answer": {"hi": "अचर", "en": "Constant"}
+          "answer": {"hi": "शून्य के अलावा कोई भी संख्या", "en": "Any non-zero number"}
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "यदि 8 जहाजों के मॉडल की मस्तूल की ऊँचाई 9 cm है, जबकि वास्तविक मस्तूल 12 m है। यदि वास्तविक मस्तूल 28 m हो, तो मॉडल की ऊँचाई क्या होगी?",
-            "en": "If a ship model mast height is 9 cm for a real mast of 12 m. If the real mast is 28 m, what is the model mast height?"
+            "hi": "$7^x = 1$ में $x$ का मान क्या होगा?",
+            "en": "What will be the value of $x$ in $7^x = 1$?"
           },
           "options": [
-            {"hi": "18 cm", "en": "18 cm"},
-            {"hi": "21 cm", "en": "21 cm"},
-            {"hi": "24 cm", "en": "24 cm"},
-            {"hi": "20 cm", "en": "20 cm"}
+            {"hi": "1", "en": "1"},
+            {"hi": "0", "en": "0"},
+            {"hi": "7", "en": "7"},
+            {"hi": "परिभाषित नहीं", "en": "Not defined"}
           ],
-          "answer": {"hi": "21 cm", "en": "21 cm"}
+          "answer": {"hi": "0", "en": "0"}
         },
         {
           "q": {
-            "hi": "एक टंकी को भरने में 1 घंटा 20 मिनट लगता है यदि 6 पाइपों का उपयोग किया जाए। 8 पाइपों का उपयोग करने पर कितना समय लगेगा?",
-            "en": "It takes 1 hour 20 minutes to fill a tank using 6 pipes. How much time will it take using 8 pipes?"
+            "hi": "$(2^2 \\times 3)^2$ को हल कीजिए।",
+            "en": "Solve $(2^2 \\times 3)^2$."
           },
           "options": [
-            {"hi": "1 घंटा", "en": "1 hour"},
-            {"hi": "40 मिनट", "en": "40 minutes"},
-            {"hi": "50 मिनट", "en": "50 minutes"},
-            {"hi": "70 मिनट", "en": "70 minutes"}
+            {"hi": "144", "en": "144"},
+            {"hi": "12", "en": "12"},
+            {"hi": "24", "en": "24"},
+            {"hi": "36", "en": "36"}
           ],
-          "answer": {"hi": "1 घंटा", "en": "1 hour"}
+          "answer": {"hi": "144", "en": "144"}
         },
         {
           "q": {
-            "hi": "वस्तुओं की संख्या और उनके कुल भार के बीच कैसा संबंध होता है?",
-            "en": "What is the relationship between the number of items and their total weight?"
+            "hi": "$10^8 \\div 10^2$ का परिणाम है:",
+            "en": "The result of $10^8 \\div 10^2$ is:"
           },
           "options": [
-            {"hi": "प्रतिलोम समानुपात", "en": "Inverse proportion"},
-            {"hi": "सीधा समानुपात", "en": "Direct proportion"},
-            {"hi": "कोई संबंध नहीं", "en": "No relationship"},
-            {"hi": "स्थिर संबंध", "en": "Fixed relationship"}
+            {"hi": "$10^4$", "en": "$10^4$"},
+            {"hi": "$10^6$", "en": "$10^6$"},
+            {"hi": "$10^{10}$", "en": "$10^{10}$"},
+            {"hi": "$10^{16}$", "en": "$10^{16}$"}
           ],
-          "answer": {"hi": "सीधा समानुपात", "en": "Direct proportion"}
+          "answer": {"hi": "$10^6$", "en": "$10^6$"}
         },
         {
           "q": {
-            "hi": "एक कार 25 लीटर पेट्रोल में 150 km चलती है। 30 लीटर पेट्रोल में वह कितनी दूरी तय करेगी?",
-            "en": "A car covers 150 km in 25 liters of petrol. How much distance will it cover in 30 liters?"
+            "hi": "संख्या $0.000007$ का मानक रूप क्या होगा? (अग्रिम जानकारी)",
+            "en": "What will be the standard form of $0.000007$? (Advance info)"
           },
           "options": [
-            {"hi": "180 km", "en": "180 km"},
-            {"hi": "200 km", "en": "200 km"},
-            {"hi": "160 km", "en": "160 km"},
-            {"hi": "210 km", "en": "210 km"}
+            {"hi": "$7 \\times 10^{-6}$", "en": "$7 \\times 10^{-6}$"},
+            {"hi": "$7 \\times 10^6$", "en": "$7 \\times 10^6$"},
+            {"hi": "$0.7 \\times 10^{-5}$", "en": "$0.7 \\times 10^{-5}$"},
+            {"hi": "$70 \\times 10^{-7}$", "en": "$70 \\times 10^{-7}$"}
           ],
-          "answer": {"hi": "180 km", "en": "180 km"}
+          "answer": {"hi": "$7 \\times 10^{-6}$", "en": "$7 \\times 10^{-6}$"}
         },
         {
           "q": {
-            "hi": "यदि x और y सीधे समानुपात में हैं, तो x/y का मान क्या होता है?",
-            "en": "If x and y are in direct proportion, what is the value of x/y?"
+            "hi": "दो संख्याओं की तुलना करते समय यदि उनके घातांक (exponents) बड़े हों, तो कौन सी संख्या बड़ी होगी (समान आधार के लिए)?",
+            "en": "When comparing two numbers with the same base, which one is greater?"
           },
           "options": [
-            {"hi": "बदलता रहता है", "en": "Changes"},
-            {"hi": "सदैव समान (अचर) रहता है", "en": "Always remains the same (constant)"},
-            {"hi": "शून्य होता है", "en": "Is zero"},
-            {"hi": "x + y के बराबर", "en": "Equal to x + y"}
+            {"hi": "जिसका घातांक छोटा हो", "en": "One with smaller exponent"},
+            {"hi": "जिसका घातांक बड़ा हो", "en": "One with larger exponent"},
+            {"hi": "दोनों बराबर होंगी", "en": "Both will be equal"},
+            {"hi": "कहा नहीं जा सकता", "en": "Can't say"}
           ],
-          "answer": {"hi": "सदैव समान (अचर) रहता है", "en": "Always remains the same (constant)"}
+          "answer": {"hi": "जिसका घातांक बड़ा हो", "en": "One with larger exponent"}
         },
         {
           "q": {
-            "hi": "100 ग्राम दाल का मूल्य ₹ 12 है। 1 किलोग्राम दाल का मूल्य क्या होगा?",
-            "en": "The cost of 100g of pulses is ₹ 12. What will be the cost of 1 kg?"
+            "hi": "किसी संख्या की घात 1 का मान क्या होता है?",
+            "en": "What is the value of a number raised to power 1?"
           },
           "options": [
-            {"hi": "₹ 100", "en": "₹ 100"},
-            {"hi": "₹ 120", "en": "₹ 120"},
-            {"hi": "₹ 140", "en": "₹ 140"},
-            {"hi": "₹ 110", "en": "₹ 110"}
+            {"hi": "1", "en": "1"},
+            {"hi": "वही संख्या", "en": "The same number"},
+            {"hi": "0", "en": "0"},
+            {"hi": "संख्या का दुगुना", "en": "Twice the number"}
           ],
-          "answer": {"hi": "₹ 120", "en": "₹ 120"}
+          "answer": {"hi": "वही संख्या", "en": "The same number"}
         },
         {
           "q": {
-            "hi": "एक कारखाने में 42 मशीनें एक वस्तु 63 दिन में बनाती हैं। उसी वस्तु को 54 दिन में बनाने के लिए कितनी मशीनों की आवश्यकता होगी?",
-            "en": "In a factory, 42 machines produce an item in 63 days. How many machines are needed to produce it in 54 days?"
+            "hi": "$5^x = 125$ में $x$ का मान है:",
+            "en": "In $5^x = 125$, the value of $x$ is:"
           },
           "options": [
-            {"hi": "49", "en": "49"},
-            {"hi": "50", "en": "50"},
-            {"hi": "48", "en": "48"},
-            {"hi": "45", "en": "45"}
+            {"hi": "2", "en": "2"},
+            {"hi": "3", "en": "3"},
+            {"hi": "4", "en": "4"},
+            {"hi": "25", "en": "25"}
           ],
-          "answer": {"hi": "49", "en": "49"}
+          "answer": {"hi": "3", "en": "3"}
         },
         {
           "q": {
-            "hi": "यदि x = k * y है, तो x और y कैसे संबंधित हैं?",
-            "en": "If x = k * y, how are x and y related?"
+            "hi": "घातांकों का प्रयोग किसलिए किया जाता है?",
+            "en": "What are exponents used for?"
           },
           "options": [
-            {"hi": "व्युत्क्रमानुपाती", "en": "Inversely proportional"},
-            {"hi": "अनुक्रमानुपाती", "en": "Directly proportional"},
-            {"hi": "स्वतंत्र", "en": "Independent"},
-            {"hi": "शून्य संबंध", "en": "Zero relation"}
+            {"hi": "बड़ी संख्याओं को सरलता से लिखने के लिए", "en": "To write large numbers easily"},
+            {"hi": "संख्याओं को जोड़ने के लिए", "en": "To add numbers"},
+            {"hi": "केवल दशमलव के लिए", "en": "Only for decimals"},
+            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
           ],
-          "answer": {"hi": "अनुक्रमानुपाती", "en": "Directly proportional"}
+          "answer": {"hi": "बड़ी संख्याओं को सरलता से लिखने के लिए", "en": "To write large numbers easily"}
         },
         {
           "q": {
-            "hi": "किसी वाहन द्वारा तय की गई दूरी और लिया गया समय (यदि चाल समान हो) किस समानुपात में होते हैं?",
-            "en": "Distance covered and time taken (at constant speed) are in which proportion?"
+            "hi": "$2^5$ का अर्थ क्या है?",
+            "en": "What does $2^5$ mean?"
           },
           "options": [
-            {"hi": "सीधा समानुपात", "en": "Direct proportion"},
-            {"hi": "प्रतिलोम समानुपात", "en": "Inverse proportion"},
-            {"hi": "कोई संबंध नहीं", "en": "No relationship"},
-            {"hi": "निश्चित नहीं", "en": "Not certain"}
+            {"hi": "$2 \\times 5$", "en": "$2 \\times 5$"},
+            {"hi": "$2 \\times 2 \\times 2 \\times 2 \\times 2$", "en": "$2 \\times 2 \\times 2 \\times 2 \\times 2$"},
+            {"hi": "$5 \\times 5$", "en": "$5 \\times 5$"},
+            {"hi": "$2 + 5$", "en": "$2 + 5$"}
           ],
-          "answer": {"hi": "सीधा समानुपात", "en": "Direct proportion"}
+          "answer": {"hi": "$2 \\times 2 \\times 2 \\times 2 \\times 2$", "en": "$2 \\times 2 \\times 2 \\times 2 \\times 2$"}
         },
         {
           "q": {
-            "hi": "एक विद्यार्थी किसी काम को 20 मिनट में करता है। उसी काम को 5 विद्यार्थी मिलकर कितने समय में करेंगे?",
-            "en": "A student does a job in 20 minutes. How long will 5 students take to do the same job?"
+            "hi": "मानक रूप में संख्या किसके गुणनफल के रूप में होती है?",
+            "en": "In standard form, a number is a product of?"
           },
           "options": [
-            {"hi": "100 मिनट", "en": "100 minutes"},
-            {"hi": "4 मिनट", "en": "4 minutes"},
-            {"hi": "10 मिनट", "en": "10 minutes"},
-            {"hi": "5 मिनट", "en": "5 minutes"}
+            {"hi": "$k \\times 10^n$ (जहाँ $1 \\le k < 10$)", "en": "$k \\times 10^n$ (where $1 \\le k < 10$)"},
+            {"hi": "$k \\times 10^n$ (जहाँ $k > 10$)", "en": "$k \\times 10^n$ (where $k > 10$)"},
+            {"hi": "$k + 10^n$", "en": "$k + 10^n$"},
+            {"hi": "$10^k$", "en": "$10^k$"}
           ],
-          "answer": {"hi": "4 मिनट", "en": "4 minutes"}
+          "answer": {"hi": "$k \\times 10^n$ (जहाँ $1 \\le k < 10$)", "en": "$k \\times 10^n$ (where $1 \\le k < 10$)"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "दो राशियाँ x और y अनुक्रमानुपाती हैं। यदि x = 5 होने पर y = 20 है, तो x = 10 होने पर y क्या होगा?",
-            "en": "Two quantities x and y are proportional. If y = 20 when x = 5, what is y when x = 10?"
+            "hi": "यदि आधार ऋणात्मक हो और घात सम हो, तो उत्तर का चिह्न क्या होगा?",
+            "en": "If base is negative and power is even, what will be the sign of the answer?"
           },
           "options": [
-            {"hi": "30", "en": "30"},
-            {"hi": "40", "en": "40"},
-            {"hi": "10", "en": "10"},
-            {"hi": "50", "en": "50"}
+            {"hi": "ऋणात्मक (-)", "en": "Negative (-)"},
+            {"hi": "धनात्मक (+)", "en": "Positive (+)"},
+            {"hi": "कोई चिह्न नहीं", "en": "No sign"},
+            {"hi": "शून्य", "en": "Zero"}
           ],
-          "answer": {"hi": "40", "en": "40"}
+          "answer": {"hi": "धनात्मक (+)", "en": "Positive (+)"}
         },
         {
           "q": {
-            "hi": "किसी निश्चित समय में किसी वस्तु की ऊँचाई और उसकी छाया की लंबाई के बीच कैसा संबंध होता है?",
-            "en": "At a given time, what is the relationship between an object's height and its shadow length?"
+            "hi": "यदि आधार ऋणात्मक हो और घात विषम हो, तो उत्तर का चिह्न क्या होगा?",
+            "en": "If base is negative and power is odd, what will be the sign of the answer?"
           },
           "options": [
-            {"hi": "सीधा समानुपात", "en": "Direct proportion"},
-            {"hi": "प्रतिलोम समानुपात", "en": "Inverse proportion"},
-            {"hi": "कोई संबंध नहीं", "en": "No relationship"},
-            {"hi": "असमानुपाती", "en": "Disproportionate"}
+            {"hi": "धनात्मक (+)", "en": "Positive (+)"},
+            {"hi": "ऋणात्मक (-)", "en": "Negative (-)"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "अपरिभाषित", "en": "Undefined"}
           ],
-          "answer": {"hi": "सीधा समानुपात", "en": "Direct proportion"}
+          "answer": {"hi": "ऋणात्मक (-)", "en": "Negative (-)"}
         },
         {
           "q": {
-            "hi": "एक कार 48 km/h की औसत चाल से 10 घंटे में गंतव्य तक पहुँचती है। उसी दूरी को 8 घंटे में तय करने के लिए चाल क्या होनी चाहिए?",
-            "en": "A car reaches its destination in 10 hours at 48 km/h. What should be the speed to cover it in 8 hours?"
+            "hi": "$3^2 \\times 4^2$ किसके बराबर है?",
+            "en": "What is $3^2 \\times 4^2$ equal to?"
           },
           "options": [
-            {"hi": "50 km/h", "en": "50 km/h"},
-            {"hi": "60 km/h", "en": "60 km/h"},
-            {"hi": "55 km/h", "en": "55 km/h"},
-            {"hi": "70 km/h", "en": "70 km/h"}
+            {"hi": "$12^2$", "en": "$12^2$"},
+            {"hi": "$7^2$", "en": "$7^2$"},
+            {"hi": "$12^4$", "en": "$12^4$"},
+            {"hi": "144", "en": "144"}
           ],
-          "answer": {"hi": "60 km/h", "en": "60 km/h"}
+          "answer": {"hi": "$12^2$", "en": "$12^2$"}
         },
         {
           "q": {
-            "hi": "यदि 12 मीटर धागे का वजन 60 ग्राम है, तो 2 मीटर धागे का वजन क्या होगा?",
-            "en": "If 12m of thread weighs 60g, what is the weight of 2m of thread?"
+            "hi": "$a^m \\div a^n$ को और क्या कहा जाता है?",
+            "en": "What else is $a^m \\div a^n$ called?"
           },
           "options": [
-            {"hi": "10 ग्राम", "en": "10 grams"},
-            {"hi": "12 ग्राम", "en": "12 grams"},
-            {"hi": "20 ग्राम", "en": "20 grams"},
-            {"hi": "5 ग्राम", "en": "5 grams"}
+            {"hi": "घातों का विभाजन", "en": "Division of powers"},
+            {"hi": "समान आधार वाली घातों का विभाजन", "en": "Division of powers with same base"},
+            {"hi": "गुणा", "en": "Multiplication"},
+            {"hi": "जोड़ना", "en": "Addition"}
           ],
-          "answer": {"hi": "10 ग्राम", "en": "10 grams"}
+          "answer": {"hi": "समान आधार वाली घातों का विभाजन", "en": "Division of powers with same base"}
         },
         {
           "q": {
-            "hi": "प्रतिलोम समानुपात के लिए समीकरण x * y = k में k क्या है?",
-            "en": "In the equation x * y = k for inverse proportion, what is k?"
+            "hi": "सूर्य का व्यास $1,400,000,000$ m है। इसका मानक रूप है:",
+            "en": "Sun's diameter is $1,400,000,000$ m. Its standard form is:"
           },
           "options": [
-            {"hi": "एक धनात्मक अचर", "en": "A positive constant"},
-            {"hi": "एक शून्य", "en": "A zero"},
-            {"hi": "परिवर्तनशील संख्या", "en": "A variable number"},
-            {"hi": "एक ऋणात्मक संख्या", "en": "A negative number"}
+            {"hi": "$1.4 \\times 10^8$ m", "en": "$1.4 \\times 10^8$ m"},
+            {"hi": "$1.4 \\times 10^9$ m", "en": "$1.4 \\times 10^9$ m"},
+            {"hi": "$14 \\times 10^8$ m", "en": "$14 \\times 10^8$ m"},
+            {"hi": "$0.14 \\times 10^{10}$ m", "en": "$0.14 \\times 10^{10}$ m"}
           ],
-          "answer": {"hi": "एक धनात्मक अचर", "en": "A positive constant"}
+          "answer": {"hi": "$1.4 \\times 10^9$ m", "en": "$1.4 \\times 10^9$ m"}
         },
         {
           "q": {
-            "hi": "यदि 10 मीटर कपड़े का मूल्य ₹ 250 है, तो ₹ 100 में कितना कपड़ा मिलेगा?",
-            "en": "If 10m of cloth costs ₹ 250, how much cloth can be bought for ₹ 100?"
+            "hi": "$a^m \\times a^n = a^{m+n}$ नियम में $a$ क्या है?",
+            "en": "What is $a$ in the rule $a^m \\times a^n = a^{m+n}$?"
           },
           "options": [
-            {"hi": "4 मीटर", "en": "4 meters"},
-            {"hi": "5 मीटर", "en": "5 meters"},
-            {"hi": "2 मीटर", "en": "2 meters"},
-            {"hi": "6 मीटर", "en": "6 meters"}
+            {"hi": "घातांक", "en": "Exponent"},
+            {"hi": "आधार (Base)", "en": "Base"},
+            {"hi": "परिणाम", "en": "Result"},
+            {"hi": "गुणांक", "en": "Coefficient"}
           ],
-          "answer": {"hi": "4 मीटर", "en": "4 meters"}
+          "answer": {"hi": "आधार (Base)", "en": "Base"}
         },
         {
           "q": {
-            "hi": "सीधे समानुपात की स्थिति में x₁ / y₁ = x₂ / y₂ होता है?",
-            "en": "In the case of direct proportion, is x₁ / y₁ = x₂ / y₂?"
+            "hi": "संख्या $10,00,00,000$ में 10 की घात क्या होगी?",
+            "en": "What will be the power of 10 in number $10,00,00,000$?"
+          },
+          "options": [
+            {"hi": "7", "en": "7"},
+            {"hi": "8", "en": "8"},
+            {"hi": "9", "en": "9"},
+            {"hi": "6", "en": "6"}
+          ],
+          "answer": {"hi": "8", "en": "8"}
+        },
+        {
+          "q": {
+            "hi": "$(a^m)^n = (a^n)^m$ क्या यह सही है?",
+            "en": "Is $(a^m)^n = (a^n)^m$ correct?"
           },
           "options": [
             {"hi": "हाँ", "en": "Yes"},
             {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल शून्य के लिए", "en": "Only for zero"},
-            {"hi": "कह नहीं सकते", "en": "Cannot say"}
+            {"hi": "केवल 1 के लिए", "en": "Only for 1"},
+            {"hi": "शून्य के लिए नहीं", "en": "Not for zero"}
           ],
           "answer": {"hi": "हाँ", "en": "Yes"}
         },
         {
           "q": {
-            "hi": "व्युत्क्रमानुपाती राशियों के संगत मानों का क्या अचर रहता है?",
-            "en": "What remains constant for the corresponding values of inversely proportional quantities?"
+            "hi": "$3^4$ का मान क्या है?",
+            "en": "What is the value of $3^4$?"
           },
           "options": [
-            {"hi": "योगफल", "en": "Sum"},
-            {"hi": "अंतर", "en": "Difference"},
-            {"hi": "गुणनफल", "en": "Product"},
-            {"hi": "भागफल", "en": "Quotient"}
+            {"hi": "12", "en": "12"},
+            {"hi": "81", "en": "81"},
+            {"hi": "27", "en": "27"},
+            {"hi": "64", "en": "64"}
           ],
-          "answer": {"hi": "गुणनफल", "en": "Product"}
+          "answer": {"hi": "81", "en": "81"}
         },
         {
           "q": {
-            "hi": "एक कतार में बच्चों की संख्या और कतारों की संख्या के बीच (यदि कुल बच्चे समान हों) कैसा संबंध होगा?",
-            "en": "What is the relationship between the number of children in a row and the number of rows (if total children are fixed)?"
+            "hi": "किसी संख्या को स्वयं से बार-बार गुणा करना क्या कहलाता है?",
+            "en": "What is repeated multiplication of a number by itself called?"
           },
           "options": [
-            {"hi": "सीधा समानुपात", "en": "Direct proportion"},
-            {"hi": "प्रतिलोम समानुपात", "en": "Inverse proportion"},
-            {"hi": "कोई संबंध नहीं", "en": "No relationship"},
-            {"hi": "समान", "en": "Equal"}
+            {"hi": "योग", "en": "Addition"},
+            {"hi": "घातांक (Exponentiation)", "en": "Exponentiation"},
+            {"hi": "विभाजन", "en": "Division"},
+            {"hi": "व्यवकलन", "en": "Subtraction"}
           ],
-          "answer": {"hi": "प्रतिलोम समानुपात", "en": "Inverse proportion"}
-        },
-        {
-          "q": {
-            "hi": "यदि 20 संतरों की एक पेटी 25 बच्चों में बांटी जाए तो प्रत्येक को 5 संतरे मिलते हैं। यदि बच्चों की संख्या 5 कम कर दी जाए तो प्रत्येक को कितने संतरे मिलेंगे?",
-            "en": "If a box of 20 oranges is shared among 25 children, each gets 5 oranges. If children are reduced by 5, how many oranges will each get?"
-          },
-          "options": [
-            {"hi": "4", "en": "4"},
-            {"hi": "6.25", "en": "6.25"},
-            {"hi": "10", "en": "10"},
-            {"hi": "8", "en": "8"}
-          ],
-          "answer": {"hi": "6.25", "en": "6.25"}
+          "answer": {"hi": "घातांक (Exponentiation)", "en": "Exponentiation"}
         }
       ]
     },
