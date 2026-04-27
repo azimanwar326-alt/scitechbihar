@@ -4638,661 +4638,661 @@
       "section1": [
         {
           "q": {
-            "hi": "बीजीय व्यंजक किसकी सहायता से बनते हैं?",
-            "en": "Algebraic expressions are formed with the help of?"
+            "hi": "शब्द 'परिमेय' (Rational) की उत्पत्ति किस शब्द से हुई है?",
+            "en": "From which word is the word 'Rational' derived?"
           },
           "options": [
-            {"hi": "केवल चरों से", "en": "Only variables"},
-            {"hi": "केवल अचरों से", "en": "Only constants"},
-            {"hi": "चरों एवं अचरों से", "en": "Variables and constants"},
-            {"hi": "केवल शून्य से", "en": "Only zero"}
+            {"hi": "अनुपात (Ratio)", "en": "Ratio"},
+            {"hi": "दर (Rate)", "en": "Rate"},
+            {"hi": "अंश (Fraction)", "en": "Fraction"},
+            {"hi": "पूर्णांक (Integer)", "en": "Integer"}
           ],
-          "answer": {"hi": "चरों एवं अचरों से", "en": "Variables and constants"}
+          "answer": {"hi": "अनुपात (Ratio)", "en": "Ratio"}
         },
         {
           "q": {
-            "hi": "व्यंजक बनाने के लिए किसे जोड़ा जाता है?",
-            "en": "What are added to form expressions?"
+            "hi": "एक परिमेय संख्या को किस रूप में लिखा जा सकता है?",
+            "en": "In what form can a rational number be written?"
           },
           "options": [
-            {"hi": "पदों (Terms) को", "en": "Terms"},
-            {"hi": "गुणनखंडों को", "en": "Factors"},
-            {"hi": "केवल संख्याओं को", "en": "Only numbers"},
-            {"hi": "भागफल को", "en": "Quotient"}
+            {"hi": "p + q", "en": "p + q"},
+            {"hi": "p - q", "en": "p - q"},
+            {"hi": "p/q (जहाँ q ≠ 0)", "en": "p/q (where q ≠ 0)"},
+            {"hi": "p × q", "en": "p × q"}
           ],
-          "answer": {"hi": "पदों (Terms) को", "en": "Terms"}
+          "answer": {"hi": "p/q (जहाँ q ≠ 0)", "en": "p/q (where q ≠ 0)"}
         },
         {
           "q": {
-            "hi": "पद स्वयं किसके गुणनफल के रूप में बनते हैं?",
-            "en": "Terms themselves are formed as the product of?"
+            "hi": "परिमेय संख्या p/q में 'p' क्या कहलाता है?",
+            "en": "What is 'p' called in the rational number p/q?"
           },
           "options": [
-            {"hi": "व्यंजकों", "en": "Expressions"},
-            {"hi": "गुणनखंडों (Factors)", "en": "Factors"},
-            {"hi": "योगफल", "en": "Sum"},
-            {"hi": "शून्य", "en": "Zero"}
+            {"hi": "हर (Denominator)", "en": "Denominator"},
+            {"hi": "अंश (Numerator)", "en": "Numerator"},
+            {"hi": "गुणांक (Coefficient)", "en": "Coefficient"},
+            {"hi": "चर (Variable)", "en": "Variable"}
           ],
-          "answer": {"hi": "गुणनखंडों (Factors)", "en": "Factors"}
+          "answer": {"hi": "अंश (Numerator)", "en": "Numerator"}
         },
         {
           "q": {
-            "hi": "व्यंजक जिसमें केवल एक पद होता है, क्या कहलाता है?",
-            "en": "An expression containing only one term is called?"
-          },
-          "options": [
-            {"hi": "द्विपदी", "en": "Binomial"},
-            {"hi": "एकपदी (Monomial)", "en": "Monomial"},
-            {"hi": "त्रिपदी", "en": "Trinomial"},
-            {"hi": "बहुपद", "en": "Polynomial"}
-          ],
-          "answer": {"hi": "एकपदी (Monomial)", "en": "Monomial"}
-        },
-        {
-          "q": {
-            "hi": "व्यंजक जिसमें दो पद होते हैं, क्या कहलाता है?",
-            "en": "An expression containing two terms is called?"
-          },
-          "options": [
-            {"hi": "एकपदी", "en": "Monomial"},
-            {"hi": "द्विपदी (Binomial)", "en": "Binomial"},
-            {"hi": "त्रिपदी", "en": "Trinomial"},
-            {"hi": "शून्य पद", "en": "Zero term"}
-          ],
-          "answer": {"hi": "द्विपदी (Binomial)", "en": "Binomial"}
-        },
-        {
-          "q": {
-            "hi": "व्यंजक $4xy + 7$ किस प्रकार का व्यंजक है?",
-            "en": "What type of expression is $4xy + 7$?"
-          },
-          "options": [
-            {"hi": "एकपदी", "en": "Monomial"},
-            {"hi": "द्विपदी", "en": "Binomial"},
-            {"hi": "त्रिपदी", "en": "Trinomial"},
-            {"hi": "बहुपद नहीं", "en": "Not a polynomial"}
-          ],
-          "answer": {"hi": "द्विपदी", "en": "Binomial"}
-        },
-        {
-          "q": {
-            "hi": "सामान्यतः एक अथवा अधिक पदों वाला व्यंजक क्या कहलाता है?",
-            "en": "Generally, an expression with one or more terms is called?"
-          },
-          "options": [
-            {"hi": "एकपदी", "en": "Monomial"},
-            {"hi": "द्विपदी", "en": "Binomial"},
-            {"hi": "बहुपद (Polynomial)", "en": "Polynomial"},
-            {"hi": "अचर", "en": "Constant"}
-          ],
-          "answer": {"hi": "बहुपद (Polynomial)", "en": "Polynomial"}
-        },
-        {
-          "q": {
-            "hi": "समान चरों और समान घातों वाले पदों को क्या कहते हैं?",
-            "en": "Terms with the same variables and same powers are called?"
-          },
-          "options": [
-            {"hi": "असमान पद", "en": "Unlike terms"},
-            {"hi": "समान पद (Like terms)", "en": "Like terms"},
-            {"hi": "शून्य पद", "en": "Zero terms"},
-            {"hi": "विपरीत पद", "en": "Opposite terms"}
-          ],
-          "answer": {"hi": "समान पद (Like terms)", "en": "Like terms"}
-        },
-        {
-          "q": {
-            "hi": "व्यंजक $7x - 4x$ में पदों का स्वरूप कैसा है?",
-            "en": "What is the nature of terms in the expression $7x - 4x$?"
-          },
-          "options": [
-            {"hi": "समान पद", "en": "Like terms"},
-            {"hi": "असमान पद", "en": "Unlike terms"},
-            {"hi": "अचर पद", "en": "Constant terms"},
-            {"hi": "त्रिपदी", "en": "Trinomial"}
-          ],
-          "answer": {"hi": "समान पद", "en": "Like terms"}
-        },
-        {
-          "q": {
-            "hi": "क्या समान पदों के गुणांक (Coefficients) समान होने आवश्यक हैं?",
-            "en": "Is it necessary for the coefficients of like terms to be the same?"
+            "hi": "क्या सभी पूर्णांक परिमेय संख्याएँ भी होते हैं?",
+            "en": "Are all integers also rational numbers?"
           },
           "options": [
             {"hi": "हाँ", "en": "Yes"},
             {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल 1 के लिए", "en": "Only for 1"},
-            {"hi": "निश्चित नहीं", "en": "Not certain"}
+            {"hi": "केवल धनात्मक", "en": "Only positive"},
+            {"hi": "केवल ऋणात्मक", "en": "Only negative"}
           ],
-          "answer": {"hi": "नहीं", "en": "No"}
+          "answer": {"hi": "हाँ", "en": "Yes"}
+        },
+        {
+          "q": {
+            "hi": "शून्य (0) को परिमेय संख्या के रूप में कैसे लिखा जा सकता है?",
+            "en": "How can zero (0) be written as a rational number?"
+          },
+          "options": [
+            {"hi": "0/1", "en": "0/1"},
+            {"hi": "0/5", "en": "0/5"},
+            {"hi": "0/-2", "en": "0/-2"},
+            {"hi": "उपर्युक्त सभी", "en": "All of the above"}
+          ],
+          "answer": {"hi": "उपर्युक्त सभी", "en": "All of the above"}
+        },
+        {
+          "q": {
+            "hi": "यदि अंश और हर दोनों धनात्मक हों, तो वह कैसी परिमेय संख्या है?",
+            "en": "If both numerator and denominator are positive, what type of rational number is it?"
+          },
+          "options": [
+            {"hi": "ऋणात्मक", "en": "Negative"},
+            {"hi": "धनात्मक", "en": "Positive"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "अपरिभाषित", "en": "Undefined"}
+          ],
+          "answer": {"hi": "धनात्मक", "en": "Positive"}
+        },
+        {
+          "q": {
+            "hi": "-3/5 कैसी परिमेय संख्या है?",
+            "en": "What type of rational number is -3/5?"
+          },
+          "options": [
+            {"hi": "धनात्मक", "en": "Positive"},
+            {"hi": "ऋणात्मक", "en": "Negative"},
+            {"hi": "न धनात्मक न ऋणात्मक", "en": "Neither positive nor negative"},
+            {"hi": "पूर्ण संख्या", "en": "Whole number"}
+          ],
+          "answer": {"hi": "ऋणात्मक", "en": "Negative"}
+        },
+        {
+          "q": {
+            "hi": "संख्या -8/-9 का सरलतम रूप क्या है?",
+            "en": "What is the simplest form of the number -8/-9?"
+          },
+          "options": [
+            {"hi": "-8/9", "en": "-8/9"},
+            {"hi": "8/9", "en": "8/9"},
+            {"hi": "8/-9", "en": "8/-9"},
+            {"hi": "1", "en": "1"}
+          ],
+          "answer": {"hi": "8/9", "en": "8/9"}
+        },
+        {
+          "q": {
+            "hi": "परिमेय संख्या 2/3 के समतुल्य (equivalent) संख्या क्या होगी?",
+            "en": "What will be an equivalent number for the rational number 2/3?"
+          },
+          "options": [
+            {"hi": "4/6", "en": "4/6"},
+            {"hi": "6/9", "en": "6/9"},
+            {"hi": "10/15", "en": "10/15"},
+            {"hi": "उपर्युक्त सभी", "en": "All of the above"}
+          ],
+          "answer": {"hi": "उपर्युक्त सभी", "en": "All of the above"}
+        },
+        {
+          "q": {
+            "hi": "क्या सभी भिन्न (Fractions) परिमेय संख्याएँ होती हैं?",
+            "en": "Are all fractions rational numbers?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "केवल उचित भिन्न", "en": "Only proper fractions"},
+            {"hi": "कह नहीं सकते", "en": "Can't say"}
+          ],
+          "answer": {"hi": "हाँ", "en": "Yes"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "बहुपदों को जोड़ने या घटाने के लिए सबसे पहले किन्हें ढूंढा जाता है?",
-            "en": "To add or subtract polynomials, what are found first?"
+            "hi": "संख्या रेखा पर धनात्मक परिमेय संख्याएँ शून्य के किस ओर स्थित होती हैं?",
+            "en": "On which side of zero are positive rational numbers located on a number line?"
           },
           "options": [
-            {"hi": "असमान पदों को", "en": "Unlike terms"},
-            {"hi": "समान पदों (Like terms) को", "en": "Like terms"},
-            {"hi": "केवल अचरों को", "en": "Only constants"},
-            {"hi": "एकपदों को", "en": "Monomials"}
+            {"hi": "बाईं ओर", "en": "To the left"},
+            {"hi": "दाईं ओर", "en": "To the right"},
+            {"hi": "ऊपर", "en": "Above"},
+            {"hi": "नीचे", "en": "Below"}
           ],
-          "answer": {"hi": "समान पदों (Like terms) को", "en": "Like terms"}
+          "answer": {"hi": "दाईं ओर", "en": "To the right"}
         },
         {
           "q": {
-            "hi": "एकपदी को एकपदी से गुणा करने पर हमेशा क्या प्राप्त होता है?",
-            "en": "Multiplying a monomial by a monomial always results in a?"
+            "hi": "संख्या रेखा पर ऋणात्मक परिमेय संख्याएँ शून्य के किस ओर होती हैं?",
+            "en": "On which side of zero are negative rational numbers on the number line?"
           },
           "options": [
-            {"hi": "द्विपदी", "en": "Binomial"},
-            {"hi": "एकपदी (Monomial)", "en": "Monomial"},
-            {"hi": "त्रिपदी", "en": "Trinomial"},
-            {"hi": "बहुपद नहीं", "en": "Not a polynomial"}
+            {"hi": "दाईं ओर", "en": "To the right"},
+            {"hi": "बाईं ओर", "en": "To the left"},
+            {"hi": "शून्य पर ही", "en": "At zero itself"},
+            {"hi": "कहीं भी", "en": "Anywhere"}
           ],
-          "answer": {"hi": "एकपदी (Monomial)", "en": "Monomial"}
+          "answer": {"hi": "बाईं ओर", "en": "To the left"}
         },
         {
           "q": {
-            "hi": "बहुपद को एकपदी से गुणा करने के लिए बहुपद के प्रत्येक पद को किससे गुणा किया जाता है?",
-            "en": "To multiply a polynomial by a monomial, each term of the polynomial is multiplied by?"
+            "hi": "एक परिमेय संख्या मानक रूप (Standard form) में तब होती है जब उसका हर क्या हो?",
+            "en": "A rational number is in standard form when its denominator is?"
           },
           "options": [
-            {"hi": "शून्य से", "en": "Zero"},
-            {"hi": "उसी एकपदी से", "en": "That monomial"},
-            {"hi": "केवल पहले पद से", "en": "Only the first term"},
-            {"hi": "किसी से नहीं", "en": "Nothing"}
+            {"hi": "ऋणात्मक", "en": "Negative"},
+            {"hi": "धनात्मक पूर्णांक", "en": "Positive integer"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "विषम", "en": "Odd"}
           ],
-          "answer": {"hi": "उसी एकपदी से", "en": "That monomial"}
+          "answer": {"hi": "धनात्मक पूर्णांक", "en": "Positive integer"}
         },
         {
           "q": {
-            "hi": "द्विपदी को द्विपदी (या त्रिपदी) से गुणा करने के लिए किस नियम का उपयोग होता है?",
-            "en": "Which rule is used to multiply a binomial by a binomial (or trinomial)?"
+            "hi": "45/30 का मानक रूप क्या है?",
+            "en": "What is the standard form of 45/30?"
           },
           "options": [
-            {"hi": "क्रमविनिमेयता", "en": "Commutativity"},
-            {"hi": "साहचर्यता", "en": "Associativity"},
-            {"hi": "पद-दर-पद गुणा (वितरकता)", "en": "Term-by-term multiplication (Distributivity)"},
-            {"hi": "केवल जोड़", "en": "Only addition"}
+            {"hi": "9/6", "en": "9/6"},
+            {"hi": "3/2", "en": "3/2"},
+            {"hi": "15/10", "en": "15/10"},
+            {"hi": "5/3", "en": "5/3"}
           ],
-          "answer": {"hi": "पद-दर-पद गुणा (वितरकता)", "en": "Term-by-term multiplication (Distributivity)"}
+          "answer": {"hi": "3/2", "en": "3/2"}
         },
         {
           "q": {
-            "hi": "एक ऐसी समता जो चरों के सभी मानों के लिए सत्य हो, क्या कहलाती है?",
-            "en": "An equality which is true for all values of the variables is called?"
+            "hi": "-12/18 का मानक रूप क्या होगा?",
+            "en": "What will be the standard form of -12/18?"
           },
           "options": [
-            {"hi": "समीकरण", "en": "Equation"},
-            {"hi": "सर्वसमिका (Identity)", "en": "Identity"},
-            {"hi": "असमता", "en": "Inequality"},
-            {"hi": "व्यंजक", "en": "Expression"}
+            {"hi": "-6/9", "en": "-6/9"},
+            {"hi": "2/3", "en": "2/3"},
+            {"hi": "-2/3", "en": "-2/3"},
+            {"hi": "12/18", "en": "12/18"}
           ],
-          "answer": {"hi": "सर्वसमिका (Identity)", "en": "Identity"}
+          "answer": {"hi": "-2/3", "en": "-2/3"}
         },
         {
           "q": {
-            "hi": "सर्वसमिका I क्या है?",
-            "en": "What is Identity I?"
+            "hi": "दो परिमेय संख्याओं के बीच में कितनी परिमेय संख्याएँ होती हैं?",
+            "en": "How many rational numbers are there between two rational numbers?"
           },
           "options": [
-            {"hi": "$(a+b)^{2} = a^{2}+2ab+b^{2}$", "en": "$(a+b)^{2} = a^{2}+2ab+b^{2}$"},
-            {"hi": "$(a-b)^{2} = a^{2}-2ab+b^{2}$", "en": "$(a-b)^{2} = a^{2}-2ab+b^{2}$"},
-            {"hi": "$(a+b)(a-b) = a^{2}-b^{2}$", "en": "$(a+b)(a-b) = a^{2}-b^{2}$"},
-            {"hi": "$(x+a)(x+b) = x^{2}+(a+b)x+ab$", "en": "$(x+a)(x+b) = x^{2}+(a+b)x+ab$"}
+            {"hi": "केवल एक", "en": "Only one"},
+            {"hi": "दो", "en": "Two"},
+            {"hi": "अनंत (अपरिमित)", "en": "Infinite (unlimited)"},
+            {"hi": "दस", "en": "Ten"}
           ],
-          "answer": {"hi": "$(a+b)^{2} = a^{2}+2ab+b^{2}$", "en": "$(a+b)^{2} = a^{2}+2ab+b^{2}$"}
+          "answer": {"hi": "अनंत (अपरिमित)", "en": "Infinite (unlimited)"}
         },
         {
           "q": {
-            "hi": "सर्वसमिका II $(a-b)^{2}$ का मान क्या है?",
-            "en": "What is the value of Identity II $(a-b)^{2}$?"
+            "hi": "0 और 1 के ठीक बीच की परिमेय संख्या क्या है?",
+            "en": "What is the rational number exactly between 0 and 1?"
           },
           "options": [
-            {"hi": "$a^{2}+b^{2}$", "en": "$a^{2}+b^{2}$"},
-            {"hi": "$a^{2}-2ab+b^{2}$", "en": "$a^{2}-2ab+b^{2}$"},
-            {"hi": "$a^{2}+2ab+b^{2}$", "en": "$a^{2}+2ab+b^{2}$"},
-            {"hi": "$a^{2}-b^{2}$", "en": "$a^{2}-b^{2}$"}
+            {"hi": "1/4", "en": "1/4"},
+            {"hi": "1/2", "en": "1/2"},
+            {"hi": "3/4", "en": "3/4"},
+            {"hi": "0.1", "en": "0.1"}
           ],
-          "answer": {"hi": "$a^{2}-2ab+b^{2}$", "en": "$a^{2}-2ab+b^{2}$"}
+          "answer": {"hi": "1/2", "en": "1/2"}
         },
         {
           "q": {
-            "hi": "सर्वसमिका III $(a+b)(a-b)$ किसके बराबर है?",
-            "en": "Identity III $(a+b)(a-b)$ is equal to?"
+            "hi": "क्या -1/2 और 1/2 समान (equal) हैं?",
+            "en": "Are -1/2 and 1/2 equal?"
           },
           "options": [
-            {"hi": "$a^{2}+b^{2}$", "en": "$a^{2}+b^{2}$"},
-            {"hi": "$a^{2}-b^{2}$", "en": "$a^{2}-b^{2}$"},
-            {"hi": "$2a-2b$", "en": "$2a-2b$"},
-            {"hi": "$(a-b)^{2}$", "en": "$(a-b)^{2}$"}
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "शून्य के बराबर", "en": "Equal to zero"},
+            {"hi": "पता नहीं", "en": "Don't know"}
           ],
-          "answer": {"hi": "$a^{2}-b^{2}$", "en": "$a^{2}-b^{2}$"}
+          "answer": {"hi": "नहीं", "en": "No"}
         },
         {
           "q": {
-            "hi": "सर्वसमिका IV $(x+a)(x+b)$ का विस्तार क्या है?",
-            "en": "What is the expansion of Identity IV $(x+a)(x+b)$?"
+            "hi": "कौन सी परिमेय संख्या न तो धनात्मक है और न ही ऋणात्मक?",
+            "en": "Which rational number is neither positive nor negative?"
           },
           "options": [
-            {"hi": "$x^{2}+ab$", "en": "$x^{2}+ab$"},
-            {"hi": "$x^{2}+(a+b)x+ab$", "en": "$x^{2}+(a+b)x+ab$"},
-            {"hi": "$x^{2}+ax+b$", "en": "$x^{2}+ax+b$"},
-            {"hi": "$x+a+b$", "en": "$x+a+b$"}
+            {"hi": "1", "en": "1"},
+            {"hi": "-1", "en": "-1"},
+            {"hi": "0", "en": "0"},
+            {"hi": "100", "en": "100"}
           ],
-          "answer": {"hi": "$x^{2}+(a+b)x+ab$", "en": "$x^{2}+(a+b)x+ab$"}
+          "answer": {"hi": "0", "en": "0"}
         },
         {
           "q": {
-            "hi": "व्यंजक $2xy$ में $x$ का गुणांक क्या है?",
-            "en": "What is the coefficient of $x$ in the expression $2xy$?"
+            "hi": "हर परिमेय संख्या को संख्या रेखा पर एक ________ द्वारा दर्शाया जा सकता है।",
+            "en": "Every rational number can be represented by a ________ on the number line."
           },
           "options": [
-            {"hi": "2", "en": "2"},
-            {"hi": "2y", "en": "2y"},
-            {"hi": "y", "en": "y"},
-            {"hi": "x", "en": "x"}
+            {"hi": "बिंदु (Point)", "en": "Point"},
+            {"hi": "रेखा", "en": "Line"},
+            {"hi": "वृत्त", "en": "Circle"},
+            {"hi": "वर्ग", "en": "Square"}
           ],
-          "answer": {"hi": "2y", "en": "2y"}
+          "answer": {"hi": "बिंदु (Point)", "en": "Point"}
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "पदों $-3xz$ और $9zx$ के बारे में क्या कहा जा सकता है?",
-            "en": "What can be said about the terms $-3xz$ and $9zx$?"
+            "hi": "समान हर वाली दो परिमेय संख्याओं को जोड़ने के लिए क्या किया जाता है?",
+            "en": "What is done to add two rational numbers with the same denominator?"
           },
           "options": [
-            {"hi": "ये समान पद हैं", "en": "These are like terms"},
-            {"hi": "ये असमान पद हैं", "en": "These are unlike terms"},
-            {"hi": "ये एकपदी नहीं हैं", "en": "These are not monomials"},
-            {"hi": "इनमें चर अलग हैं", "en": "They have different variables"}
+            {"hi": "अंशों को जोड़ा जाता है", "en": "Add the numerators"},
+            {"hi": "हरों को जोड़ा जाता है", "en": "Add the denominators"},
+            {"hi": "गुणा किया जाता है", "en": "Multiply them"},
+            {"hi": "घटाया जाता है", "en": "Subtract them"}
           ],
-          "answer": {"hi": "ये समान पद हैं", "en": "These are like terms"}
+          "answer": {"hi": "अंशों को जोड़ा जाता है", "en": "Add the numerators"}
         },
         {
           "q": {
-            "hi": "$3x \times 5y$ का गुणनफल क्या है?",
-            "en": "What is the product of $3x \times 5y$?"
+            "hi": "7/3 + (-5/3) का मान क्या होगा?",
+            "en": "What will be the value of 7/3 + (-5/3)?"
           },
           "options": [
-            {"hi": "8xy", "en": "8xy"},
-            {"hi": "15xy", "en": "15xy"},
-            {"hi": "15x+y", "en": "15x+y"},
-            {"hi": "35xy", "en": "35xy"}
+            {"hi": "12/3", "en": "12/3"},
+            {"hi": "2/3", "en": "2/3"},
+            {"hi": "-2/3", "en": "-2/3"},
+            {"hi": "0", "en": "0"}
           ],
-          "answer": {"hi": "15xy", "en": "15xy"}
+          "answer": {"hi": "2/3", "en": "2/3"}
         },
         {
           "q": {
-            "hi": "$4x(3x + 7)$ का मान क्या होगा?",
-            "en": "What will be the value of $4x(3x + 7)$?"
+            "hi": "भिन्न-भिन्न हरों वाली संख्याओं को जोड़ने के लिए पहले क्या ज्ञात किया जाता है?",
+            "en": "What is found first to add numbers with different denominators?"
           },
           "options": [
-            {"hi": "$12x + 28$", "en": "$12x + 28$"},
-            {"hi": "$12x^{2} + 28x$", "en": "$12x^{2} + 28x$"},
-            {"hi": "$7x + 11$", "en": "$7x + 11$"},
-            {"hi": "$12x^{2} + 7$", "en": "$12x^{2} + 7$"}
+            {"hi": "गुणनफल", "en": "Product"},
+            {"hi": "ल.स. (LCM)", "en": "LCM"},
+            {"hi": "म.स. (HCF)", "en": "HCF"},
+            {"hi": "अंतर", "en": "Difference"}
           ],
-          "answer": {"hi": "$12x^{2} + 28x$", "en": "$12x^{2} + 28x$"}
+          "answer": {"hi": "ल.स. (LCM)", "en": "LCM"}
         },
         {
           "q": {
-            "hi": "सर्वसमिका का उपयोग करके $103 \times 104$ ज्ञात करने के लिए कौन सी सर्वसमिका सबसे उपयुक्त है?",
-            "en": "Which identity is most suitable to find $103 \times 104$?"
+            "hi": "परिमेय संख्या 4/7 का योज्य प्रतिलोम (Additive inverse) क्या है?",
+            "en": "What is the additive inverse of the rational number 4/7?"
           },
           "options": [
-            {"hi": "$(a+b)^{2}$", "en": "$(a+b)^{2}$"},
-            {"hi": "$(a-b)^{2}$", "en": "$(a-b)^{2}$"},
-            {"hi": "$(x+a)(x+b)$", "en": "$(x+a)(x+b)$"},
-            {"hi": "$(a+b)(a-b)$", "en": "$(a+b)(a-b)$"}
+            {"hi": "7/4", "en": "7/4"},
+            {"hi": "-4/7", "en": "-4/7"},
+            {"hi": "1", "en": "1"},
+            {"hi": "0", "en": "0"}
           ],
-          "answer": {"hi": "$(x+a)(x+b)$", "en": "$(x+a)(x+b)$"}
+          "answer": {"hi": "-4/7", "en": "-4/7"}
         },
         {
           "q": {
-            "hi": "यदि $a=1, b=2$ हो, तो $a^{2}+2ab+b^{2}$ का मान क्या होगा?",
-            "en": "If $a=1, b=2$, what will be the value of $a^{2}+2ab+b^{2}$?"
+            "hi": "-2/3 का योज्य प्रतिलोम क्या है?",
+            "en": "What is the additive inverse of -2/3?"
           },
           "options": [
-            {"hi": "3", "en": "3"},
-            {"hi": "5", "en": "5"},
-            {"hi": "9", "en": "9"},
-            {"hi": "1", "en": "1"}
+            {"hi": "-2/3", "en": "-2/3"},
+            {"hi": "2/3", "en": "2/3"},
+            {"hi": "3/2", "en": "3/2"},
+            {"hi": "0", "en": "0"}
           ],
-          "answer": {"hi": "9", "en": "9"}
+          "answer": {"hi": "2/3", "en": "2/3"}
         },
         {
           "q": {
-            "hi": "व्यंजक $x^{2} - y^{2}$ का गुणनखंड रूप क्या है?",
-            "en": "What is the factored form of the expression $x^{2} - y^{2}$?"
-          },
-          "options": [
-            {"hi": "$(x-y)^{2}$", "en": "$(x-y)^{2}$"},
-            {"hi": "$(x+y)(x-y)$", "en": "$(x+y)(x-y)$"},
-            {"hi": "$(x+y)^{2}$", "en": "$(x+y)^{2}$"},
-            {"hi": "$x-y$", "en": "$x-y$"}
-          ],
-          "answer": {"hi": "$(x+y)(x-y)$", "en": "$(x+y)(x-y)$"}
-        },
-        {
-          "q": {
-            "hi": "$(x-3)^{2}$ का विस्तारित रूप क्या है?",
-            "en": "What is the expanded form of $(x-3)^{2}$?"
-          },
-          "options": [
-            {"hi": "$x^{2}-9$", "en": "$x^{2}-9$"},
-            {"hi": "$x^{2}-6x+9$", "en": "$x^{2}-6x+9$"},
-            {"hi": "$x^{2}+6x+9$", "en": "$x^{2}+6x+9$"},
-            {"hi": "$x^{2}-3x+9$", "en": "$x^{2}-3x+9$"}
-          ],
-          "answer": {"hi": "$x^{2}-6x+9$", "en": "$x^{2}-6x+9$"}
-        },
-        {
-          "q": {
-            "hi": "$5x, 2x, -7x$ कैसे पद हैं?",
-            "en": "What kind of terms are $5x, 2x, -7x$?"
-          },
-          "options": [
-            {"hi": "समान पद", "en": "Like terms"},
-            {"hi": "असमान पद", "en": "Unlike terms"},
-            {"hi": "द्विपदी", "en": "Binomials"},
-            {"hi": "अचर", "en": "Constants"}
-          ],
-          "answer": {"hi": "समान पद", "en": "Like terms"}
-        },
-        {
-          "q": {
-            "hi": "आयत का क्षेत्रफल ज्ञात करने के लिए किन बीजीय व्यंजकों का गुणा किया जाता है?",
-            "en": "Which algebraic expressions are multiplied to find the area of a rectangle?"
-          },
-          "options": [
-            {"hi": "लंबाई और चौड़ाई", "en": "Length and breadth"},
-            {"hi": "केवल लंबाई", "en": "Only length"},
-            {"hi": "परिमाप और भुजा", "en": "Perimeter and side"},
-            {"hi": "विकर्ण", "en": "Diagonals"}
-          ],
-          "answer": {"hi": "लंबाई और चौड़ाई", "en": "Length and breadth"}
-        },
-        {
-          "q": {
-            "hi": "व्यंजक $a+b+c$ में कितने पद हैं?",
-            "en": "How many terms are there in the expression $a+b+c$?"
+            "hi": "शून्य (0) का योज्य प्रतिलोम क्या है?",
+            "en": "What is the additive inverse of zero (0)?"
           },
           "options": [
             {"hi": "1", "en": "1"},
-            {"hi": "2", "en": "2"},
-            {"hi": "3", "en": "3"},
-            {"hi": "4", "en": "4"}
+            {"hi": "-1", "en": "-1"},
+            {"hi": "0", "en": "0"},
+            {"hi": "अपरिभाषित", "en": "Undefined"}
           ],
-          "answer": {"hi": "3", "en": "3"}
+          "answer": {"hi": "0", "en": "0"}
+        },
+        {
+          "q": {
+            "hi": "दो परिमेय संख्याओं का व्यवकलन (subtraction) करने के लिए क्या जोड़ा जाता है?",
+            "en": "What is added to perform subtraction of two rational numbers?"
+          },
+          "options": [
+            {"hi": "योज्य प्रतिलोम", "en": "Additive inverse"},
+            {"hi": "गुणनात्मक प्रतिलोम", "en": "Multiplicative inverse"},
+            {"hi": "वही संख्या", "en": "The same number"},
+            {"hi": "शून्य", "en": "Zero"}
+          ],
+          "answer": {"hi": "योज्य प्रतिलोम", "en": "Additive inverse"}
+        },
+        {
+          "q": {
+            "hi": "5/8 - 3/8 का मान क्या है?",
+            "en": "What is the value of 5/8 - 3/8?"
+          },
+          "options": [
+            {"hi": "2/8 (या 1/4)", "en": "2/8 (or 1/4)"},
+            {"hi": "8/8", "en": "8/8"},
+            {"hi": "1/8", "en": "1/8"},
+            {"hi": "0", "en": "0"}
+          ],
+          "answer": {"hi": "2/8 (या 1/4)", "en": "2/8 (or 1/4)"}
+        },
+        {
+          "q": {
+            "hi": "दो परिमेय संख्याओं का योग हमेशा क्या होता है?",
+            "en": "The sum of two rational numbers is always what?"
+          },
+          "options": [
+            {"hi": "पूर्णांक", "en": "Integer"},
+            {"hi": "परिमेय संख्या", "en": "Rational number"},
+            {"hi": "प्राकृत संख्या", "en": "Natural number"},
+            {"hi": "शून्य", "en": "Zero"}
+          ],
+          "answer": {"hi": "परिमेय संख्या", "en": "Rational number"}
+        },
+        {
+          "q": {
+            "hi": "यदि a/b एक परिमेय संख्या है, तो a/b + 0 = ?",
+            "en": "If a/b is a rational number, then a/b + 0 = ?"
+          },
+          "options": [
+            {"hi": "0", "en": "0"},
+            {"hi": "1", "en": "1"},
+            {"hi": "a/b", "en": "a/b"},
+            {"hi": "-a/b", "en": "-a/b"}
+          ],
+          "answer": {"hi": "a/b", "en": "a/b"}
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "$(2a + 3b)^{2}$ का मान क्या है?",
-            "en": "What is the value of $(2a + 3b)^{2}$?"
+            "hi": "दो परिमेय संख्याओं का गुणनफल (Product) कैसे ज्ञात करते हैं?",
+            "en": "How to find the product of two rational numbers?"
           },
           "options": [
-            {"hi": "$4a^{2} + 9b^{2}$", "en": "$4a^{2} + 9b^{2}$"},
-            {"hi": "$4a^{2} + 12ab + 9b^{2}$", "en": "$4a^{2} + 12ab + 9b^{2}$"},
-            {"hi": "$2a^{2} + 6ab + 3b^{2}$", "en": "$2a^{2} + 6ab + 3b^{2}$"},
-            {"hi": "$4a + 6b$", "en": "$4a + 6b$"}
+            {"hi": "अंशों का गुणनफल / हरों का गुणनफल", "en": "Product of numerators / Product of denominators"},
+            {"hi": "अंशों का गुणनफल / हरों का योग", "en": "Product of numerators / Sum of denominators"},
+            {"hi": "तिरछा गुणा करके", "en": "By cross multiplication"},
+            {"hi": "केवल अंशों को गुणा करके", "en": "Only by multiplying numerators"}
           ],
-          "answer": {"hi": "$4a^{2} + 12ab + 9b^{2}$", "en": "$4a^{2} + 12ab + 9b^{2}$"}
+          "answer": {"hi": "अंशों का गुणनफल / हरों का गुणनफल", "en": "Product of numerators / Product of denominators"}
         },
         {
           "q": {
-            "hi": "किसी पद का संख्यात्मक गुणांक (Numerical Coefficient) क्या होता है?",
-            "en": "What is the numerical coefficient of a term?"
+            "hi": "(-3/5) × 2 का मान क्या होगा?",
+            "en": "What will be the value of (-3/5) × 2?"
           },
           "options": [
-            {"hi": "चर भाग", "en": "Variable part"},
-            {"hi": "संख्यात्मक भाग (Number part)", "en": "Numerical part"},
-            {"hi": "पूरी घात", "en": "Total power"},
-            {"hi": "शून्य", "en": "Zero"}
+            {"hi": "-6/5", "en": "-6/5"},
+            {"hi": "-3/10", "en": "-3/10"},
+            {"hi": "6/5", "en": "6/5"},
+            {"hi": "0", "en": "0"}
           ],
-          "answer": {"hi": "संख्यात्मक भाग (Number part)", "en": "Numerical part"}
+          "answer": {"hi": "-6/5", "en": "-6/5"}
         },
         {
           "q": {
-            "hi": "समीकरण और सर्वसमिका में मुख्य अंतर क्या है?",
-            "en": "What is the main difference between an equation and an identity?"
+            "hi": "(-2/3) × (-6/7) का परिणाम क्या है?",
+            "en": "What is the result of (-2/3) × (-6/7)?"
           },
           "options": [
-            {"hi": "कोई अंतर नहीं है", "en": "There is no difference"},
-            {"hi": "सर्वसमिका चरों के सभी मानों के लिए सत्य होती है", "en": "An identity is true for all values of variables"},
-            {"hi": "समीकरण सभी मानों के लिए सत्य होता है", "en": "An equation is true for all values"},
-            {"hi": "सर्वसमिका में चर नहीं होते", "en": "Identity has no variables"}
+            {"hi": "-12/21", "en": "-12/21"},
+            {"hi": "12/21 (या 4/7)", "en": "12/21 (or 4/7)"},
+            {"hi": "8/21", "en": "8/21"},
+            {"hi": "0", "en": "0"}
           ],
-          "answer": {"hi": "सर्वसमिका चरों के सभी मानों के लिए सत्य होती है", "en": "An identity is true for all values of variables"}
+          "answer": {"hi": "12/21 (या 4/7)", "en": "12/21 (or 4/7)"}
         },
         {
           "q": {
-            "hi": "$a^{2} - b^{2} = (a-b)(?)$ रिक्त स्थान भरें।",
-            "en": "$a^{2} - b^{2} = (a-b)(?)$ Fill in the blank."
-          },
-          "options": [
-            {"hi": "$a-b$", "en": "$a-b$"},
-            {"hi": "$a+b$", "en": "$a+b$"},
-            {"hi": "$a^{2}+b^{2}$", "en": "$a^{2}+b^{2}$"},
-            {"hi": "$2ab$", "en": "$2ab$"}
-          ],
-          "answer": {"hi": "$a+b$", "en": "$a+b$"}
-        },
-        {
-          "q": {
-            "hi": "$(-x)(-y)$ का मान क्या है?",
-            "en": "What is the value of $(-x)(-y)$?"
-          },
-          "options": [
-            {"hi": "$-xy$", "en": "$-xy$"},
-            {"hi": "$xy$", "en": "$xy$"},
-            {"hi": "$x+y$", "en": "$x+y$"},
-            {"hi": "$-x-y$", "en": "$-x-y$"}
-          ],
-          "answer": {"hi": "$xy$", "en": "$xy$"}
-        },
-        {
-          "q": {
-            "hi": "त्रिपदी (Trinomial) में पदों की संख्या कितनी होती है?",
-            "en": "How many terms are there in a Trinomial?"
-          },
-          "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "2", "en": "2"},
-            {"hi": "3", "en": "3"},
-            {"hi": "अनेक", "en": "Many"}
-          ],
-          "answer": {"hi": "3", "en": "3"}
-        },
-        {
-          "q": {
-            "hi": "बहुपद में चरों की घात (Power) कैसी होनी चाहिए?",
-            "en": "What should be the power of variables in a polynomial?"
-          },
-          "options": [
-            {"hi": "ऋणात्मक", "en": "Negative"},
-            {"hi": "ऋणेतर पूर्णांक (Non-negative integer)", "en": "Non-negative integer"},
-            {"hi": "केवल शून्य", "en": "Only zero"},
-            {"hi": "भिन्नात्मक", "en": "Fractional"}
-          ],
-          "answer": {"hi": "ऋणेतर पूर्णांक (Non-negative integer)", "en": "Non-negative integer"}
-        },
-        {
-          "q": {
-            "hi": "$x^{2} \times x^{3}$ का मान क्या है?",
-            "en": "What is the value of $x^{2} \times x^{3}$?"
-          },
-          "options": [
-            {"hi": "$x^{6}$", "en": "$x^{6}$"},
-            {"hi": "$x^{5}$", "en": "$x^{5}$"},
-            {"hi": "$2x^{3}$", "en": "$2x^{3}$"},
-            {"hi": "$5x$", "en": "$5x$"}
-          ],
-          "answer": {"hi": "$x^{5}$", "en": "$x^{5}$"}
-        },
-        {
-          "q": {
-            "hi": "सर्वसमिका का उपयोग करके $99^{2}$ का मान क्या होगा?",
-            "en": "What will be the value of $99^{2}$ using an identity?"
-          },
-          "options": [
-            {"hi": "9801", "en": "9801"},
-            {"hi": "9900", "en": "9900"},
-            {"hi": "9001", "en": "9001"},
-            {"hi": "10000", "en": "10000"}
-          ],
-          "answer": {"hi": "9801", "en": "9801"}
-        },
-        {
-          "q": {
-            "hi": "$7x^{2}-4x+5$ और $9x-10$ का योग क्या है?",
-            "en": "What is the sum of $7x^{2}-4x+5$ and $9x-10$?"
-          },
-          "options": [
-            {"hi": "$7x^{2}+5x-5$", "en": "$7x^{2}+5x-5$"},
-            {"hi": "$16x^{2}-14$", "en": "$16x^{2}-14$"},
-            {"hi": "$7x^{2}-13x+15$", "en": "$7x^{2}-13x+15$"},
-            {"hi": "$7x^{2}+13x-15$", "en": "$7x^{2}+13x-15$"}
-          ],
-          "answer": {"hi": "$7x^{2}+5x-5$", "en": "$7x^{2}+5x-5$"}
-        }
-      ],
-      "section5": [
-        {
-          "q": {
-            "hi": "यदि किसी आयत की लंबाई $2x$ और चौड़ाई $3y$ है, तो उसका क्षेत्रफल क्या होगा?",
-            "en": "If the length of a rectangle is $2x$ and breadth is $3y$, what will be its area?"
-          },
-          "options": [
-            {"hi": "$5xy$", "en": "$5xy$"},
-            {"hi": "$6xy$", "en": "$6xy$"},
-            {"hi": "$2x+3y$", "en": "$2x+3y$"},
-            {"hi": "$6x^{2}y^{2}$", "en": "$6x^{2}y^{2}$"}
-          ],
-          "answer": {"hi": "$6xy$", "en": "$6xy$"}
-        },
-        {
-          "q": {
-            "hi": "$(x+y)(x^{2}-xy+y^{2})$ का मान क्या है?",
-            "en": "What is the value of $(x+y)(x^{2}-xy+y^{2})$?"
-          },
-          "options": [
-            {"hi": "$x^{3}+y^{3}$", "en": "$x^{3}+y^{3}$"},
-            {"hi": "$x^{3}-y^{3}$", "en": "$x^{3}-y^{3}$"},
-            {"hi": "$(x+y)^{3}$", "en": "$(x+y)^{3}$"},
-            {"hi": "$x^{2}+y^{2}$", "en": "$x^{2}+y^{2}$"}
-          ],
-          "answer": {"hi": "$x^{3}+y^{3}$", "en": "$x^{3}+y^{3}$"}
-        },
-        {
-          "q": {
-            "hi": "पदों का निर्माण किसके द्वारा होता है?",
-            "en": "By what are terms constructed?"
-          },
-          "options": [
-            {"hi": "केवल योग द्वारा", "en": "Only by addition"},
-            {"hi": "गुणनखंडों के गुणनफल द्वारा", "en": "By the product of factors"},
-            {"hi": "भाग द्वारा", "en": "By division"},
-            {"hi": "शून्य द्वारा", "en": "By zero"}
-          ],
-          "answer": {"hi": "गुणनखंडों के गुणनफल द्वारा", "en": "By the product of factors"}
-        },
-        {
-          "q": {
-            "hi": "व्यंजक $x+3$ में चर (Variable) कौन सा है?",
-            "en": "Which is the variable in the expression $x+3$?"
-          },
-          "options": [
-            {"hi": "3", "en": "3"},
-            {"hi": "x", "en": "x"},
-            {"hi": "+", "en": "+"},
-            {"hi": "कोई नहीं", "en": "None"}
-          ],
-          "answer": {"hi": "x", "en": "x"}
-        },
-        {
-          "q": {
-            "hi": "क्या $x^{2}+1$ एक रैखिक व्यंजक है?",
-            "en": "Is $x^{2}+1$ a linear expression?"
-          },
-          "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं (घात 2 है)", "en": "No (Power is 2)"},
-            {"hi": "केवल x=1 के लिए", "en": "Only for x=1"},
-            {"hi": "कह नहीं सकते", "en": "Cannot say"}
-          ],
-          "answer": {"hi": "नहीं (घात 2 है)", "en": "No (Power is 2)"}
-        },
-        {
-          "q": {
-            "hi": "व्यंजक $4x^{2}-3x+7$ में अचर (Constant) पद कौन सा है?",
-            "en": "Which is the constant term in the expression $4x^{2}-3x+7$?"
-          },
-          "options": [
-            {"hi": "4", "en": "4"},
-            {"hi": "-3", "en": "-3"},
-            {"hi": "7", "en": "7"},
-            {"hi": "$x^{2}$", "en": "$x^{2}$"}
-          ],
-          "answer": {"hi": "7", "en": "7"}
-        },
-        {
-          "q": {
-            "hi": "$(a+b)(a+b)$ को और किस रूप में लिख सकते हैं?",
-            "en": "In what other form can $(a+b)(a+b)$ be written?"
-          },
-          "options": [
-            {"hi": "$2(a+b)$", "en": "$2(a+b)$"},
-            {"hi": "$(a+b)^{2}$", "en": "$(a+b)^{2}$"},
-            {"hi": "$a^{2}+b^{2}$", "en": "$a^{2}+b^{2}$"},
-            {"hi": "$a^{2}+2b$", "en": "$a^{2}+2b$"}
-          ],
-          "answer": {"hi": "$(a+b)^{2}$", "en": "$(a+b)^{2}$"}
-        },
-        {
-          "q": {
-            "hi": "समान पदों को जोड़ते समय उनके किन भागों को जोड़ा जाता है?",
-            "en": "While adding like terms, which parts of them are added?"
-          },
-          "options": [
-            {"hi": "चरो को", "en": "Variables"},
-            {"hi": "उनके संख्यात्मक गुणांकों को", "en": "Their numerical coefficients"},
-            {"hi": "उनकी घातों को", "en": "Their powers"},
-            {"hi": "किसी को नहीं", "en": "Nothing"}
-          ],
-          "answer": {"hi": "उनके संख्यात्मक गुणांकों को", "en": "Their numerical coefficients"}
-        },
-        {
-          "q": {
-            "hi": "व्यंजक $xy$ का गुणांक क्या माना जाता है?",
-            "en": "What is considered the coefficient of the expression $xy$?"
+            "hi": "एक परिमेय संख्या और उसके व्युत्क्रम (Reciprocal) का गुणनफल क्या होता है?",
+            "en": "What is the product of a rational number and its reciprocal?"
           },
           "options": [
             {"hi": "0", "en": "0"},
             {"hi": "1", "en": "1"},
-            {"hi": "x", "en": "x"},
-            {"hi": "y", "en": "y"}
+            {"hi": "-1", "en": "-1"},
+            {"hi": "वही संख्या", "en": "The same number"}
           ],
           "answer": {"hi": "1", "en": "1"}
         },
         {
           "q": {
-            "hi": "बीजीय व्यंजक का दैनिक जीवन में एक उपयोग बताइए।",
-            "en": "Give one use of algebraic expressions in daily life."
+            "hi": "परिमेय संख्या 4/9 का व्युत्क्रम क्या है?",
+            "en": "What is the reciprocal of the rational number 4/9?"
           },
           "options": [
-            {"hi": "क्षेत्रफल ज्ञात करना", "en": "Finding area"},
-            {"hi": "वस्तुओं की अज्ञात संख्या ज्ञात करना", "en": "Finding unknown numbers of items"},
-            {"hi": "सूत्र बनाना", "en": "Creating formulas"},
-            {"hi": "उपरोक्त सभी", "en": "All of the above"}
+            {"hi": "-4/9", "en": "-4/9"},
+            {"hi": "9/4", "en": "9/4"},
+            {"hi": "1", "en": "1"},
+            {"hi": "0", "en": "0"}
           ],
-          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
+          "answer": {"hi": "9/4", "en": "9/4"}
+        },
+        {
+          "q": {
+            "hi": "किस परिमेय संख्या का कोई व्युत्क्रम नहीं होता है?",
+            "en": "Which rational number has no reciprocal?"
+          },
+          "options": [
+            {"hi": "1", "en": "1"},
+            {"hi": "-1", "en": "-1"},
+            {"hi": "0", "en": "0"},
+            {"hi": "10", "en": "10"}
+          ],
+          "answer": {"hi": "0", "en": "0"}
+        },
+        {
+          "q": {
+            "hi": "एक परिमेय संख्या को दूसरी परिमेय संख्या से भाग देने के लिए क्या करते हैं?",
+            "en": "How to divide a rational number by another rational number?"
+          },
+          "options": [
+            {"hi": "दूसरी संख्या के व्युत्क्रम से गुणा", "en": "Multiply by the reciprocal of the second number"},
+            {"hi": "संख्याओं को घटाना", "en": "Subtract the numbers"},
+            {"hi": "संख्याओं को जोड़ना", "en": "Add the numbers"},
+            {"hi": "केवल अंशों को भाग देना", "en": "Divide only the numerators"}
+          ],
+          "answer": {"hi": "दूसरी संख्या के व्युत्क्रम से गुणा", "en": "Multiply by the reciprocal of the second number"}
+        },
+        {
+          "q": {
+            "hi": "(-4/5) ÷ (-4/5) का मान क्या है?",
+            "en": "What is the value of (-4/5) ÷ (-4/5)?"
+          },
+          "options": [
+            {"hi": "0", "en": "0"},
+            {"hi": "1", "en": "1"},
+            {"hi": "-1", "en": "-1"},
+            {"hi": "16/25", "en": "16/25"}
+          ],
+          "answer": {"hi": "1", "en": "1"}
+        },
+        {
+          "q": {
+            "hi": "6/13 ÷ 1 का मान क्या होगा?",
+            "en": "What will be the value of 6/13 ÷ 1?"
+          },
+          "options": [
+            {"hi": "13/6", "en": "13/6"},
+            {"hi": "1", "en": "1"},
+            {"hi": "6/13", "en": "6/13"},
+            {"hi": "0", "en": "0"}
+          ],
+          "answer": {"hi": "6/13", "en": "6/13"}
+        },
+        {
+          "q": {
+            "hi": "(-2/3) ÷ 1 का मान क्या है?",
+            "en": "What is the value of (-2/3) ÷ 1?"
+          },
+          "options": [
+            {"hi": "-2/3", "en": "-2/3"},
+            {"hi": "2/3", "en": "2/3"},
+            {"hi": "-3/2", "en": "-3/2"},
+            {"hi": "1", "en": "1"}
+          ],
+          "answer": {"hi": "-2/3", "en": "-2/3"}
+        }
+      ],
+      "section5": [
+        {
+          "q": {
+            "hi": "सभी प्राकृत संख्याएँ परिमेय संख्याएँ होती हैं, लेकिन शून्य एक ________ नहीं है।",
+            "en": "All natural numbers are rational, but zero is not a ________."
+          },
+          "options": [
+            {"hi": "पूर्ण संख्या", "en": "Whole number"},
+            {"hi": "प्राकृत संख्या", "en": "Natural number"},
+            {"hi": "पूर्णांक", "en": "Integer"},
+            {"hi": "परिमेय संख्या", "en": "Rational number"}
+          ],
+          "answer": {"hi": "प्राकृत संख्या", "en": "Natural number"}
+        },
+        {
+          "q": {
+            "hi": "यदि a/b एक परिमेय संख्या है, तो b कभी भी क्या नहीं हो सकता?",
+            "en": "If a/b is a rational number, what can b never be?"
+          },
+          "options": [
+            {"hi": "1", "en": "1"},
+            {"hi": "धनात्मक", "en": "Positive"},
+            {"hi": "ऋणात्मक", "en": "Negative"},
+            {"hi": "शून्य (0)", "en": "Zero (0)"}
+          ],
+          "answer": {"hi": "शून्य (0)", "en": "Zero (0)"}
+        },
+        {
+          "q": {
+            "hi": "संख्या रेखा पर -3 और -4 के बीच में क्या कोई पूर्णांक है?",
+            "en": "Is there any integer between -3 and -4 on the number line?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "अनेक", "en": "Many"},
+            {"hi": "पता नहीं", "en": "Don't know"}
+          ],
+          "answer": {"hi": "नहीं", "en": "No"}
+        },
+        {
+          "q": {
+            "hi": "-1/2 और -3/2 में से कौन सी संख्या बड़ी है?",
+            "en": "Which number is greater between -1/2 and -3/2?"
+          },
+          "options": [
+            {"hi": "-1/2", "en": "-1/2"},
+            {"hi": "-3/2", "en": "-3/2"},
+            {"hi": "दोनों बराबर", "en": "Both are equal"},
+            {"hi": "शून्य", "en": "Zero"}
+          ],
+          "answer": {"hi": "-1/2", "en": "-1/2"}
+        },
+        {
+          "q": {
+            "hi": "(-3/4) का गुणात्मक प्रतिलोम (Multiplicative inverse) क्या है?",
+            "en": "What is the multiplicative inverse of (-3/4)?"
+          },
+          "options": [
+            {"hi": "3/4", "en": "3/4"},
+            {"hi": "-4/3", "en": "-4/3"},
+            {"hi": "4/3", "en": "4/3"},
+            {"hi": "0", "en": "0"}
+          ],
+          "answer": {"hi": "-4/3", "en": "-4/3"}
+        },
+        {
+          "q": {
+            "hi": "शून्य को किसी भी परिमेय संख्या (शून्य को छोड़कर) से भाग देने पर क्या मिलता है?",
+            "en": "What do we get on dividing zero by any rational number (except zero)?"
+          },
+          "options": [
+            {"hi": "1", "en": "1"},
+            {"hi": "शून्य (0)", "en": "0"},
+            {"hi": "वही संख्या", "en": "The same number"},
+            {"hi": "अपरिभाषित", "en": "Undefined"}
+          ],
+          "answer": {"hi": "शून्य (0)", "en": "0"}
+        },
+        {
+          "q": {
+            "hi": "दो ऋणात्मक परिमेय संख्याओं का गुणनफल हमेशा क्या होता है?",
+            "en": "The product of two negative rational numbers is always?"
+          },
+          "options": [
+            {"hi": "ऋणात्मक", "en": "Negative"},
+            {"hi": "धनात्मक", "en": "Positive"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "1", "en": "1"}
+          ],
+          "answer": {"hi": "धनात्मक", "en": "Positive"}
+        },
+        {
+          "q": {
+            "hi": "3/10 को दशमलव रूप में कैसे लिखेंगे?",
+            "en": "How to write 3/10 in decimal form?"
+          },
+          "options": [
+            {"hi": "0.3", "en": "0.3"},
+            {"hi": "3.0", "en": "3.0"},
+            {"hi": "0.03", "en": "0.03"},
+            {"hi": "33", "en": "33"}
+          ],
+          "answer": {"hi": "0.3", "en": "0.3"}
+        },
+        {
+          "q": {
+            "hi": "क्या -5 एक परिमेय संख्या है?",
+            "en": "Is -5 a rational number?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "केवल पूर्णांक है", "en": "It is only an integer"},
+            {"hi": "शून्य", "en": "Zero"}
+          ],
+          "answer": {"hi": "हाँ", "en": "Yes"}
+        },
+        {
+          "q": {
+            "hi": "परिमेय संख्याओं के संग्रह को किस अक्षर से दर्शाया जाता है?",
+            "en": "Which letter represents the collection of rational numbers?"
+          },
+          "options": [
+            {"hi": "N", "en": "N"},
+            {"hi": "W", "en": "W"},
+            {"hi": "Z", "en": "Z"},
+            {"hi": "Q", "en": "Q"}
+          ],
+          "answer": {"hi": "Q", "en": "Q"}
         }
       ]
     },
