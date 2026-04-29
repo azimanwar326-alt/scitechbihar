@@ -71,6 +71,31 @@ window.loadSection = function(sectionId, btn) {
     displayQuestion(); 
 };
 
+function startTimer() {
+    clearInterval(timerInterval);
+
+    timeLeft = 30;
+
+    const timerEl = document.getElementById("timer");
+
+    if (!timerEl) {
+        console.log("❌ Timer element नहीं मिला");
+        return;
+    }
+
+    timerEl.innerText = timeLeft;
+
+    timerInterval = setInterval(() => {
+        timeLeft--;
+        timerEl.innerText = timeLeft;
+
+        if (timeLeft <= 0) {
+            clearInterval(timerInterval);
+            nextQuestion();
+        }
+    }, 1000);
+}
+
 // 4. प्रश्न दिखाने का फंक्शन (आपका पुराना लॉजिक)
 function displayQuestion() {
     const container = document.getElementById('mcq-bilingual-container');
@@ -87,6 +112,7 @@ function displayQuestion() {
 
     container.innerHTML = `
         <div class="question-card">
+        <p>⏱️ Time: <span id="timer">30</span> sec</p>
             <p class="question-text"><b>प्रश्न ${currentQIdx + 1}:</b> ${questionText}</p>
             <div class="options-grid">${optionsHTML}</div>
             <div id="feedback-area"></div>
@@ -95,6 +121,9 @@ function displayQuestion() {
     
     document.getElementById("nextBtn").style.display = "none";
     updateProgress();
+
+     // ✅ यहीं timer start करें
+    startTimer();
 }
 
 window.checkAnswer = function(clickedIdx, btn) {
