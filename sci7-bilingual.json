@@ -8605,7 +8605,100 @@
           "answer": {"hi": "स्वच्छता बढ़ने से बीमारियाँ कम होती हैं", "en": "Sanitation decreases diseases"}
         }
       ]
+    },
+    "heart": {
+
+  "section1": [
+    {
+      "q": {"hi":"मानव हृदय में कितने कक्ष होते हैं?","en":"How many chambers are in the human heart?"},
+      "options":[{"hi":"2","en":"2"},{"hi":"3","en":"3"},{"hi":"4","en":"4"},{"hi":"5","en":"5"}],
+      "answer":{"hi":"4","en":"4"}
+    },
+    {
+      "q":{"hi":"हृदय का मुख्य कार्य क्या है?","en":"What is the main function of the heart?"},
+      "options":[{"hi":"पाचन","en":"Digestion"},{"hi":"रक्त पंप करना","en":"Pumping blood"},{"hi":"श्वसन","en":"Respiration"},{"hi":"उत्सर्जन","en":"Excretion"}],
+      "answer":{"hi":"रक्त पंप करना","en":"Pumping blood"}
+    },
+    {
+      "q":{"hi":"हृदय शरीर में कहाँ स्थित होता है?","en":"Where is the heart located in the body?"},
+      "options":[{"hi":"दाएं","en":"Right"},{"hi":"बाएं","en":"Left"},{"hi":"मध्य","en":"Center"},{"hi":"ऊपर","en":"Top"}],
+      "answer":{"hi":"बाएं","en":"Left"}
+    },
+    {
+      "q":{"hi":"हृदय किस प्रकार का अंग है?","en":"What type of organ is the heart?"},
+      "options":[{"hi":"मांसपेशीय","en":"Muscular"},{"hi":"अस्थि","en":"Bone"},{"hi":"तंत्रिका","en":"Nervous"},{"hi":"ग्रंथीय","en":"Glandular"}],
+      "answer":{"hi":"मांसपेशीय","en":"Muscular"}
+    },
+    {
+      "q":{"hi":"हृदय किसे पंप करता है?","en":"What does the heart pump?"},
+      "options":[{"hi":"वायु","en":"Air"},{"hi":"रक्त","en":"Blood"},{"hi":"पानी","en":"Water"},{"hi":"तेल","en":"Oil"}],
+      "answer":{"hi":"रक्त","en":"Blood"}
+    },
+    {
+      "q":{"hi":"हृदय की धड़कन को क्या कहते हैं?","en":"What is heartbeat called?"},
+      "options":[{"hi":"पल्स","en":"Pulse"},{"hi":"सांस","en":"Breath"},{"hi":"ऊर्जा","en":"Energy"},{"hi":"दबाव","en":"Pressure"}],
+      "answer":{"hi":"पल्स","en":"Pulse"}
+    },
+    {
+      "q":{"hi":"हृदय का रंग कैसा होता है?","en":"What is the color of the heart?"},
+      "options":[{"hi":"नीला","en":"Blue"},{"hi":"लाल","en":"Red"},{"hi":"हरा","en":"Green"},{"hi":"पीला","en":"Yellow"}],
+      "answer":{"hi":"लाल","en":"Red"}
+    },
+    {
+      "q":{"hi":"हृदय किस प्रणाली का भाग है?","en":"The heart is part of which system?"},
+      "options":[{"hi":"पाचन","en":"Digestive"},{"hi":"रक्त परिसंचरण","en":"Circulatory"},{"hi":"तंत्रिका","en":"Nervous"},{"hi":"श्वसन","en":"Respiratory"}],
+      "answer":{"hi":"रक्त परिसंचरण","en":"Circulatory"}
+    },
+    {
+      "q":{"hi":"हृदय का आकार कैसा होता है?","en":"What is the shape of the heart?"},
+      "options":[{"hi":"गोल","en":"Round"},{"hi":"शंकु","en":"Cone"},{"hi":"चौकोर","en":"Square"},{"hi":"त्रिकोण","en":"Triangle"}],
+      "answer":{"hi":"शंकु","en":"Cone"}
+    },
+    {
+      "q":{"hi":"हृदय की धड़कन को नियंत्रित कौन करता है?","en":"What controls heartbeat?"},
+      "options":[{"hi":"मस्तिष्क","en":"Brain"},{"hi":"SA Node","en":"SA Node"},{"hi":"फेफड़े","en":"Lungs"},{"hi":"किडनी","en":"Kidney"}],
+      "answer":{"hi":"SA Node","en":"SA Node"}
     }
+  ],
+
+  "section2": [
+    {
+      "q":{"hi":"हृदय का दायाँ भाग क्या करता है?","en":"What does right side of heart do?"},
+      "options":[{"hi":"शुद्ध रक्त पंप","en":"Pump oxygenated blood"},{"hi":"अशुद्ध रक्त पंप","en":"Pump deoxygenated blood"},{"hi":"कुछ नहीं","en":"Nothing"},{"hi":"हवा पंप","en":"Pump air"}],
+      "answer":{"hi":"अशुद्ध रक्त पंप","en":"Pump deoxygenated blood"}
+    },
+    {
+      "q":{"hi":"हृदय का बायाँ भाग क्या करता है?","en":"What does left side of heart do?"},
+      "options":[{"hi":"शुद्ध रक्त पंप","en":"Pump oxygenated blood"},{"hi":"अशुद्ध रक्त पंप","en":"Pump deoxygenated blood"},{"hi":"दोनों","en":"Both"},{"hi":"कुछ नहीं","en":"Nothing"}],
+      "answer":{"hi":"शुद्ध रक्त पंप","en":"Pump oxygenated blood"}
+    }
+  ],
+
+  "section3": [
+    {
+      "q":{"hi":"हृदय की दीवार किससे बनी होती है?","en":"Heart wall is made of?"},
+      "options":[{"hi":"मांसपेशी","en":"Muscle"},{"hi":"हड्डी","en":"Bone"},{"hi":"त्वचा","en":"Skin"},{"hi":"वसा","en":"Fat"}],
+      "answer":{"hi":"मांसपेशी","en":"Muscle"}
+    }
+  ],
+
+  "section4": [
+    {
+      "q":{"hi":"हृदय प्रति मिनट कितनी बार धड़कता है?","en":"How many times heart beats per minute?"},
+      "options":[{"hi":"30","en":"30"},{"hi":"72","en":"72"},{"hi":"150","en":"150"},{"hi":"200","en":"200"}],
+      "answer":{"hi":"72","en":"72"}
+    }
+  ],
+
+  "section5": [
+    {
+      "q":{"hi":"हृदय को रक्त कौन पहुंचाता है?","en":"Which supplies blood to heart?"},
+      "options":[{"hi":"धमनी","en":"Artery"},{"hi":"शिरा","en":"Vein"},{"hi":"कोरोनरी धमनी","en":"Coronary artery"},{"hi":"फेफड़े","en":"Lungs"}],
+      "answer":{"hi":"कोरोनरी धमनी","en":"Coronary artery"}
+    }
+  ]
+
+}
   }
 }
 
