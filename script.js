@@ -126,6 +126,7 @@ function displayQuestion() {
     startTimer();
 }
 
+
 window.checkAnswer = function(clickedIdx, btn) {
     clearInterval(timerInterval);
     const qData = currentQuestions[currentQIdx];
@@ -223,9 +224,20 @@ function showError(msg) {
     if (container) container.innerHTML = `<div class="error">${msg}</div>`;
 }
 
-function toggleMenu() {
-    const menuIcon = document.querySelector('.hamburger');
-    const nav = document.querySelector('.nav-links');
-    menuIcon.classList.toggle('open');
-    nav.classList.toggle('active');
-}
+
+
+
+
+document.addEventListener("DOMContentLoaded", () => {
+
+    const hamburger = document.getElementById("hamburger");
+    const navLinks = document.getElementById("navLinks");
+
+    hamburger.addEventListener("click", () => {
+
+        hamburger.classList.toggle("active");
+        navLinks.classList.toggle("active");
+
+    });
+
+});
