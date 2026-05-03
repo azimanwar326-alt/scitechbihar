@@ -8607,7 +8607,6 @@
       ]
     },
     "heart": {
-
   "section1": [
     {
       "q": {"hi":"मानव हृदय में कितने कक्ष होते हैं?","en":"How many chambers are in the human heart?"},
@@ -8697,10 +8696,674 @@
       "answer":{"hi":"कोरोनरी धमनी","en":"Coronary artery"}
     }
   ]
-
-}
+},
+  "heat": {
+    "section1": [
+      {
+        "q": {
+          "hi": "तापमान मापने की SI इकाई क्या है?",
+          "en": "What is the SI unit of temperature?"
+        },
+        "options": [
+          {"hi": "केल्विन", "en": "Kelvin"},
+          {"hi": "सेल्सियस", "en": "Celsius"},
+          {"hi": "फारेनहाइट", "en": "Fahrenheit"},
+          {"hi": "जूल", "en": "Joule"}
+        ],
+        "answer": {"hi": "केल्विन", "en": "Kelvin"}
+      },
+      {
+        "q": {
+          "hi": "मानव शरीर का सामान्य तापमान कितना होता है?",
+          "en": "What is the normal human body temperature?"
+        },
+        "options": [
+          {"hi": "37°C", "en": "37°C"},
+          {"hi": "98.6°C", "en": "98.6°C"},
+          {"hi": "310°C", "en": "310°C"},
+          {"hi": "0°C", "en": "0°C"}
+        ],
+        "answer": {"hi": "37°C", "en": "37°C"}
+      },
+      {
+        "q": {
+          "hi": "तापमान मापने के लिए किस उपकरण का उपयोग किया जाता है?",
+          "en": "Which instrument is used to measure temperature?"
+        },
+        "options": [
+          {"hi": "बैरोमीटर", "en": "Barometer"},
+          {"hi": "थर्मामीटर", "en": "Thermometer"},
+          {"hi": "अमीटर", "en": "Ammeter"},
+          {"hi": "हाइड्रोमीटर", "en": "Hydrometer"}
+        ],
+        "answer": {"hi": "थर्मामीटर", "en": "Thermometer"}
+      },
+      {
+        "q": {
+          "hi": "जब किसी वस्तु को गर्म किया जाता है, तो उसके अणुओं की गति:",
+          "en": "When a substance is heated, the motion of its molecules:"
+        },
+        "options": [
+          {"hi": "बढ़ती है", "en": "Increases"},
+          {"hi": "घटती है", "en": "Decreases"},
+          {"hi": "समान रहती है", "en": "Remains the same"},
+          {"hi": "रुक जाती है", "en": "Stops"}
+        ],
+        "answer": {"hi": "बढ़ती है", "en": "Increases"}
+      },
+      {
+        "q": {
+          "hi": "ऊष्मा का संचरण मुख्य रूप से किन विधियों द्वारा होता है?",
+          "en": "Heat is transferred mainly by which methods?"
+        },
+        "options": [
+          {"hi": "चालन", "en": "Conduction"},
+          {"hi": "संवहन", "en": "Convection"},
+          {"hi": "विकिरण", "en": "Radiation"},
+          {"hi": "सभी", "en": "All of these"}
+        ],
+        "answer": {"hi": "सभी", "en": "All of these"}
+      },
+      {
+        "q": {
+          "hi": "बर्फ का गलनांक (melting point) कितना होता है?",
+          "en": "What is the melting point of ice?"
+        },
+        "options": [
+          {"hi": "0°C", "en": "0°C"},
+          {"hi": "100°C", "en": "100°C"},
+          {"hi": "-4°C", "en": "-4°C"},
+          {"hi": "32°C", "en": "32°C"}
+        ],
+        "answer": {"hi": "0°C", "en": "0°C"}
+      },
+      {
+        "q": {
+          "hi": "पानी का क्वथनांक (boiling point) कितना होता है?",
+          "en": "What is the boiling point of water?"
+        },
+        "options": [
+          {"hi": "0°C", "en": "0°C"},
+          {"hi": "100°C", "en": "100°C"},
+          {"hi": "50°C", "en": "50°C"},
+          {"hi": "212°C", "en": "212°C"}
+        ],
+        "answer": {"hi": "100°C", "en": "100°C"}
+      },
+      {
+        "q": {
+          "hi": "ऊष्मा (Heat) की मानक इकाई क्या है?",
+          "en": "What is the standard unit of heat?"
+        },
+        "options": [
+          {"hi": "जूल", "en": "Joule"},
+          {"hi": "वाट", "en": "Watt"},
+          {"hi": "पास्कल", "en": "Pascal"},
+          {"hi": "न्यूटन", "en": "Newton"}
+        ],
+        "answer": {"hi": "जूल", "en": "Joule"}
+      },
+      {
+        "q": {
+          "hi": "1 किलोकैलोरी (Kilocalorie) में कितने कैलोरी होते हैं?",
+          "en": "How many calories are in 1 kilocalorie?"
+        },
+        "options": [
+          {"hi": "100", "en": "100"},
+          {"hi": "1000", "en": "1000"},
+          {"hi": "10", "en": "10"},
+          {"hi": "1", "en": "1"}
+        ],
+        "answer": {"hi": "1000", "en": "1000"}
+      },
+      {
+        "q": {
+          "hi": "सूर्य से पृथ्वी तक ऊष्मा किस विधि द्वारा पहुँचती है?",
+          "en": "By which method does heat from the sun reach the Earth?"
+        },
+        "options": [
+          {"hi": "चालन", "en": "Conduction"},
+          {"hi": "संवहन", "en": "Convection"},
+          {"hi": "विकिरण", "en": "Radiation"},
+          {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+        ],
+        "answer": {"hi": "विकिरण", "en": "Radiation"}
+      }
+    ],
+    "section2": [
+      {
+        "q": {
+          "hi": "चालन (Conduction) की प्रक्रिया मुख्य रूप से किस अवस्था में होती है?",
+          "en": "The process of conduction mainly occurs in which state?"
+        },
+        "options": [
+          {"hi": "ठोस", "en": "Solids"},
+          {"hi": "द्रव", "en": "Liquids"},
+          {"hi": "गैस", "en": "Gases"},
+          {"hi": "प्लाज्मा", "en": "Plasma"}
+        ],
+        "answer": {"hi": "ठोस", "en": "Solids"}
+      },
+      {
+        "q": {
+          "hi": "निम्नलिखित में से कौन ऊष्मा का अच्छा चालक है?",
+          "en": "Which of the following is a good conductor of heat?"
+        },
+        "options": [
+          {"hi": "लकड़ी", "en": "Wood"},
+          {"hi": "तांबा", "en": "Copper"},
+          {"hi": "वायु", "en": "Air"},
+          {"hi": "प्लास्टिक", "en": "Plastic"}
+        ],
+        "answer": {"hi": "तांबा", "en": "Copper"}
+      },
+      {
+        "q": {
+          "hi": "निम्नलिखित में से कौन ऊष्मा का कुचालक (Insulator) है?",
+          "en": "Which of the following is a poor conductor (insulator) of heat?"
+        },
+        "options": [
+          {"hi": "लोहा", "en": "Iron"},
+          {"hi": "एल्युमिनियम", "en": "Aluminium"},
+          {"hi": "लकड़ी", "en": "Wood"},
+          {"hi": "चांदी", "en": "Silver"}
+        ],
+        "answer": {"hi": "लकड़ी", "en": "Wood"}
+      },
+      {
+        "q": {
+          "hi": "खाना पकाने के बर्तनों के हैंडल बनाने के लिए किस सामग्री का उपयोग किया जाता है?",
+          "en": "Which material is used to make the handles of cooking utensils?"
+        },
+        "options": [
+          {"hi": "स्टील", "en": "Steel"},
+          {"hi": "बेकेलाइट", "en": "Bakelite"},
+          {"hi": "तांबा", "en": "Copper"},
+          {"hi": "पीतल", "en": "Brass"}
+        ],
+        "answer": {"hi": "बेकेलाइट", "en": "Bakelite"}
+      },
+      {
+        "q": {
+          "hi": "धातुएं ऊष्मा की:",
+          "en": "Metals are:"
+        },
+        "options": [
+          {"hi": "अच्छी चालक होती हैं", "en": "Good conductors"},
+          {"hi": "कुचालक होती हैं", "en": "Bad conductors"},
+          {"hi": "अर्धचालक होती हैं", "en": "Semiconductors"},
+          {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+        ],
+        "answer": {"hi": "अच्छी चालक होती हैं", "en": "Good conductors"}
+      },
+      {
+        "q": {
+          "hi": "थर्मामीटर में उपयोग की जाने वाली धातु का नाम क्या है?",
+          "en": "What is the name of the metal used in thermometers?"
+        },
+        "options": [
+          {"hi": "चांदी", "en": "Silver"},
+          {"hi": "पारा (मर्करी)", "en": "Mercury"},
+          {"hi": "सोना", "en": "Gold"},
+          {"hi": "सीसा", "en": "Lead"}
+        ],
+        "answer": {"hi": "पारा (मर्करी)", "en": "Mercury"}
+      },
+      {
+        "q": {
+          "hi": "जब दो वस्तुओं का तापमान समान होता है, तो ऊष्मा का प्रवाह:",
+          "en": "When the temperature of two objects is the same, the flow of heat:"
+        },
+        "options": [
+          {"hi": "उच्च से निम्न होता है", "en": "Is from high to low"},
+          {"hi": "निम्न से उच्च होता है", "en": "Is from low to high"},
+          {"hi": "नहीं होता है", "en": "Does not occur"},
+          {"hi": "केवल एक दिशा में होता है", "en": "Only in one direction"}
+        ],
+        "answer": {"hi": "नहीं होता है", "en": "Does not occur"}
+      },
+      {
+        "q": {
+          "hi": "सर्दियों में ऊनी कपड़े हमें गर्म रखते हैं क्योंकि:",
+          "en": "Woolen clothes keep us warm in winter because:"
+        },
+        "options": [
+          {"hi": "वे ऊष्मा उत्पन्न करते हैं", "en": "They generate heat"},
+          {"hi": "वे अच्छे चालक हैं", "en": "They are good conductors"},
+          {"hi": "वे हवा को फंसाते हैं जो ऊष्मा की कुचालक है", "en": "They trap air which is a bad conductor of heat"},
+          {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+        ],
+        "answer": {"hi": "वे हवा को फंसाते हैं जो ऊष्मा की कुचालक है", "en": "They trap air which is a bad conductor of heat"}
+      },
+      {
+        "q": {
+          "hi": "समुद्र और जमीन के बीच हवाओं का चलना किसका उदाहरण है?",
+          "en": "The blowing of winds between sea and land is an example of which process?"
+        },
+        "options": [
+          {"hi": "चालन", "en": "Conduction"},
+          {"hi": "संवहन", "en": "Convection"},
+          {"hi": "विकिरण", "en": "Radiation"},
+          {"hi": "सभी", "en": "All of these"}
+        ],
+        "answer": {"hi": "संवहन", "en": "Convection"}
+      },
+      {
+        "q": {
+          "hi": "एक ठोस छड़ के एक सिरे को गर्म करने पर दूसरे सिरे तक ऊष्मा का स्थानांतरण किस विधि से होता है?",
+          "en": "By which method is heat transferred to the other end when one end of a solid rod is heated?"
+        },
+        "options": [
+          {"hi": "चालन", "en": "Conduction"},
+          {"hi": "संवहन", "en": "Convection"},
+          {"hi": "विकिरण", "en": "Radiation"},
+          {"hi": "वाष्पीकरण", "en": "Evaporation"}
+        ],
+        "answer": {"hi": "चालन", "en": "Conduction"}
+      }
+    ],
+    "section3": [
+      {
+        "q": {
+          "hi": "संवहन (Convection) की प्रक्रिया किन पदार्थों में होती है?",
+          "en": "In which substances does the process of convection occur?"
+        },
+        "options": [
+          {"hi": "ठोस और द्रव", "en": "Solids and liquids"},
+          {"hi": "द्रव और गैस", "en": "Liquids and gases"},
+          {"hi": "ठोस और गैस", "en": "Solids and gases"},
+          {"hi": "केवल ठोस में", "en": "Solids only"}
+        ],
+        "answer": {"hi": "द्रव और गैस", "en": "Liquids and gases"}
+      },
+      {
+        "q": {
+          "hi": "पानी को गर्म करने पर उसका प्रसार होता है, यह उदाहरण है:",
+          "en": "When water is heated it expands, this is an example of:"
+        },
+        "options": [
+          {"hi": "चालन", "en": "Conduction"},
+          {"hi": "संवहन", "en": "Convection"},
+          {"hi": "विकिरण", "en": "Radiation"},
+          {"hi": "ऊर्ध्वपातन", "en": "Sublimation"}
+        ],
+        "answer": {"hi": "संवहन", "en": "Convection"}
+      },
+      {
+        "q": {
+          "hi": "समुद्री समीर (Sea Breeze) किस समय बहती है?",
+          "en": "Sea breeze blows during which time?"
+        },
+        "options": [
+          {"hi": "दिन के समय", "en": "Day time"},
+          {"hi": "रात के समय", "en": "Night time"},
+          {"hi": "शाम के समय", "en": "Evening"},
+          {"hi": "दोपहर के समय", "en": "Noon"}
+        ],
+        "answer": {"hi": "दिन के समय", "en": "Day time"}
+      },
+      {
+        "q": {
+          "hi": "थल समीर (Land Breeze) किस समय बहती है?",
+          "en": "Land breeze blows during which time?"
+        },
+        "options": [
+          {"hi": "दिन के समय", "en": "Day time"},
+          {"hi": "रात के समय", "en": "Night time"},
+          {"hi": "दोपहर के समय", "en": "Noon"},
+          {"hi": "सुबह के समय", "en": "Morning"}
+        ],
+        "answer": {"hi": "रात के समय", "en": "Night time"}
+      },
+      {
+        "q": {
+          "hi": "कमरे में लगे एसी (AC) को कहाँ लगाया जाना चाहिए?",
+          "en": "Where should the AC be placed in a room?"
+        },
+        "options": [
+          {"hi": "फर्श के पास", "en": "Near the floor"},
+          {"hi": "छत के पास", "en": "Near the ceiling"},
+          {"hi": "बीच में", "en": "Middle of the room"},
+          {"hi": "दरवाजे के पास", "en": "Near the door"}
+        ],
+        "answer": {"hi": "छत के पास", "en": "Near the ceiling"}
+      },
+      {
+        "q": {
+          "hi": "गर्म हवा:",
+          "en": "Hot air is:"
+        },
+        "options": [
+          {"hi": "ठंडी हवा से भारी होती है", "en": "Heavier than cold air"},
+          {"hi": "ठंडी हवा से हल्की होती है", "en": "Lighter than cold air"},
+          {"hi": "समान वजन की होती है", "en": "Equal in weight"},
+          {"hi": "कोई नहीं", "en": "None of these"}
+        ],
+        "answer": {"hi": "ठंडी हवा से हल्की होती है", "en": "Lighter than cold air"}
+      },
+      {
+        "q": {
+          "hi": "पृथ्वी पर वायुमंडल के गर्म होने का मुख्य कारण है:",
+          "en": "The main reason for the warming of the atmosphere on Earth is:"
+        },
+        "options": [
+          {"hi": "चालन", "en": "Conduction"},
+          {"hi": "संवहन", "en": "Convection"},
+          {"hi": "विकिरण", "en": "Radiation"},
+          {"hi": "संवहन और विकिरण दोनों", "en": "Both convection and radiation"}
+        ],
+        "answer": {"hi": "संवहन", "en": "Convection"}
+      },
+      {
+        "q": {
+          "hi": "संवहन में ऊष्मा का स्थानांतरण किसके द्वारा होता है?",
+          "en": "In convection, heat is transferred by:"
+        },
+        "options": [
+          {"hi": "अणुओं की वास्तविक गति", "en": "Actual movement of molecules"},
+          {"hi": "अणुओं के कंपन", "en": "Vibration of molecules"},
+          {"hi": "विद्युत चुम्बकीय तरंगों", "en": "Electromagnetic waves"},
+          {"hi": "सीधे संपर्क", "en": "Direct contact"}
+        ],
+        "answer": {"hi": "अणुओं की वास्तविक गति", "en": "Actual movement of molecules"}
+      },
+      {
+        "q": {
+          "hi": "उबलते हुए पानी में बुलबुले उठना किस प्रक्रिया को दर्शाता है?",
+          "en": "Bubbles rising in boiling water show which process?"
+        },
+        "options": [
+          {"hi": "चालन", "en": "Conduction"},
+          {"hi": "संवहन", "en": "Convection"},
+          {"hi": "विकिरण", "en": "Radiation"},
+          {"hi": "उबलना", "en": "Boiling"}
+        ],
+        "answer": {"hi": "संवहन", "en": "Convection"}
+      },
+      {
+        "q": {
+          "hi": "वायुमंडल मुख्य रूप से किस प्रक्रिया से गर्म होता है?",
+          "en": "By which process is the atmosphere mainly heated?"
+        },
+        "options": [
+          {"hi": "चालन", "en": "Conduction"},
+          {"hi": "संवहन", "en": "Convection"},
+          {"hi": "विकिरण", "en": "Radiation"},
+          {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+        ],
+        "answer": {"hi": "संवहन", "en": "Convection"}
+      }
+    ],
+    "section4": [
+      {
+        "q": {
+          "hi": "विकिरण (Radiation) के लिए किस माध्यम की आवश्यकता होती है?",
+          "en": "Which medium is required for radiation?"
+        },
+        "options": [
+          {"hi": "ठोस माध्यम", "en": "Solid medium"},
+          {"hi": "द्रव माध्यम", "en": "Liquid medium"},
+          {"hi": "गैस माध्यम", "en": "Gas medium"},
+          {"hi": "किसी माध्यम की आवश्यकता नहीं होती", "en": "No medium required"}
+        ],
+        "answer": {"hi": "किसी माध्यम की आवश्यकता नहीं होती", "en": "No medium required"}
+      },
+      {
+        "q": {
+          "hi": "गहरे रंग के कपड़े हल्के रंग के कपड़ों की तुलना में ऊष्मा को:",
+          "en": "Dark colored clothes compared to light colored clothes:"
+        },
+        "options": [
+          {"hi": "कम अवशोषित करते हैं", "en": "Absorb less"},
+          {"hi": "अधिक अवशोषित करते हैं", "en": "Absorb more"},
+          {"hi": "समान रूप से अवशोषित करते हैं", "en": "Absorb equally"},
+          {"hi": "परावर्तित करते हैं", "en": "Reflect"}
+        ],
+        "answer": {"hi": "अधिक अवशोषित करते हैं", "en": "Absorb more"}
+      },
+      {
+        "q": {
+          "hi": "रेगिस्तान में दिन गर्म और रातें ठंडी क्यों होती हैं?",
+          "en": "Why are days hot and nights cold in the desert?"
+        },
+        "options": [
+          {"hi": "रेत विकिरण का अच्छा परावर्तक है", "en": "Sand is a good reflector of radiation"},
+          {"hi": "रेत ऊष्मा को जल्दी अवशोषित और विकीर्ण करती है", "en": "Sand absorbs and radiates heat quickly"},
+          {"hi": "अधिक बारिश होती है", "en": "High rainfall"},
+          {"hi": "बादल होते हैं", "en": "Cloud cover"}
+        ],
+        "answer": {"hi": "रेत ऊष्मा को जल्दी अवशोषित और विकीर्ण करती है", "en": "Sand absorbs and radiates heat quickly"}
+      },
+      {
+        "q": {
+          "hi": "प्रकाश की गति के बराबर गति से कौन सी ऊष्मा तरंगें चलती हैं?",
+          "en": "Which heat waves travel at a speed equal to the speed of light?"
+        },
+        "options": [
+          {"hi": "ध्वनि तरंगें", "en": "Sound waves"},
+          {"hi": "अवरक्त तरंगें", "en": "Infrared waves"},
+          {"hi": "पराबैंगनी तरंगें", "en": "Ultraviolet waves"},
+          {"hi": "रेडियो तरंगें", "en": "Radio waves"}
+        ],
+        "answer": {"hi": "अवरक्त तरंगें", "en": "Infrared waves"}
+      },
+      {
+        "q": {
+          "hi": "थर्मस फ्लास्क में ऊष्मा का क्षय किस विधि से रोका जाता है?",
+          "en": "By which method is heat loss prevented in a thermos flask?"
+        },
+        "options": [
+          {"hi": "केवल चालन", "en": "Conduction only"},
+          {"hi": "केवल संवहन", "en": "Convection only"},
+          {"hi": "चालन, संवहन और विकिरण", "en": "Conduction, convection and radiation"},
+          {"hi": "केवल विकिरण", "en": "Radiation only"}
+        ],
+        "answer": {"hi": "चालन, संवहन और विकिरण", "en": "Conduction, convection and radiation"}
+      },
+      {
+        "q": {
+          "hi": "सर्दियों में गहरे (काले) रंग की वस्तुएं:",
+          "en": "In winter, dark (black) colored objects:"
+        },
+        "options": [
+          {"hi": "ठंडी लगती हैं", "en": "Feel cooler"},
+          {"hi": "गर्म लगती हैं", "en": "Feel warmer"},
+          {"hi": "कोई प्रभाव नहीं पड़ता है", "en": "Have no effect"},
+          {"hi": "बेकार होती हैं", "en": "Are useless"}
+        ],
+        "answer": {"hi": "गर्म लगती हैं", "en": "Feel warmer"}
+      },
+      {
+        "q": {
+          "hi": "विकिरण द्वारा ऊष्मा का स्थानांतरण किन तरंगों के रूप में होता है?",
+          "en": "In the form of which waves is heat transferred by radiation?"
+        },
+        "options": [
+          {"hi": "विद्युत चुम्बकीय तरंगें", "en": "Electromagnetic waves"},
+          {"hi": "यांत्रिक तरंगें", "en": "Mechanical waves"},
+          {"hi": "ध्वनि तरंगें", "en": "Sound waves"},
+          {"hi": "भूकंपीय तरंगें", "en": "Seismic waves"}
+        ],
+        "answer": {"hi": "विद्युत चुम्बकीय तरंगें", "en": "Electromagnetic waves"}
+      },
+      {
+        "q": {
+          "hi": "पृथ्वी तक पहुँचने वाली सूर्य की किरणें किस रूप में यात्रा करती हैं?",
+          "en": "In what form do the sun's rays reaching Earth travel?"
+        },
+        "options": [
+          {"hi": "चालन", "en": "Conduction"},
+          {"hi": "संवहन", "en": "Convection"},
+          {"hi": "विकिरण", "en": "Radiation"},
+          {"hi": "सभी", "en": "All of these"}
+        ],
+        "answer": {"hi": "विकिरण", "en": "Radiation"}
+      },
+      {
+        "q": {
+          "hi": "ग्रीनहाउस प्रभाव (Greenhouse effect) किस प्रकार के ऊष्मा स्थानांतरण से संबंधित है?",
+          "en": "Greenhouse effect is related to which type of heat transfer?"
+        },
+        "options": [
+          {"hi": "चालन", "en": "Conduction"},
+          {"hi": "संवहन", "en": "Convection"},
+          {"hi": "विकिरण", "en": "Radiation"},
+          {"hi": "दोनों चालन और संवहन", "en": "Both conduction and convection"}
+        ],
+        "answer": {"hi": "विकिरण", "en": "Radiation"}
+      },
+      {
+        "q": {
+          "hi": "एक अच्छे अवशोषक (absorber) का अर्थ यह भी है कि वह एक:",
+          "en": "A good absorber also means it is a:"
+        },
+        "options": [
+          {"hi": "खराब विकिरक है", "en": "Poor radiator"},
+          {"hi": "अच्छा विकिरक है", "en": "Good radiator"},
+          {"hi": "तटस्थ विकिरक है", "en": "Neutral radiator"},
+          {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+        ],
+        "answer": {"hi": "अच्छा विकिरक है", "en": "Good radiator"}
+      }
+    ],
+    "section5": [
+      {
+        "q": {
+          "hi": "सेल्सियस और फारेनहाइट स्केल किस तापमान पर समान होते हैं?",
+          "en": "At what temperature are the Celsius and Fahrenheit scales equal?"
+        },
+        "options": [
+          {"hi": "-40°", "en": "-40°"},
+          {"hi": "0°", "en": "0°"},
+          {"hi": "100°", "en": "100°"},
+          {"hi": "37°", "en": "37°"}
+        ],
+        "answer": {"hi": "-40°", "en": "-40°"}
+      },
+      {
+        "q": {
+          "hi": "जल का अधिकतम घनत्व (maximum density) किस तापमान पर होता है?",
+          "en": "At which temperature does water have maximum density?"
+        },
+        "options": [
+          {"hi": "0°C", "en": "0°C"},
+          {"hi": "4°C", "en": "4°C"},
+          {"hi": "100°C", "en": "100°C"},
+          {"hi": "-4°C", "en": "-4°C"}
+        ],
+        "answer": {"hi": "4°C", "en": "4°C"}
+      },
+      {
+        "q": {
+          "hi": "तापमान को केल्विन (Kelvin) से सेल्सियस (Celsius) में बदलने के लिए क्या घटाया जाता है?",
+          "en": "What is subtracted to convert temperature from Kelvin to Celsius?"
+        },
+        "options": [
+          {"hi": "273.15", "en": "273.15"},
+          {"hi": "32", "en": "32"},
+          {"hi": "100", "en": "100"},
+          {"hi": "273", "en": "273"}
+        ],
+        "answer": {"hi": "273.15", "en": "273.15"}
+      },
+      {
+        "q": {
+          "hi": "किसी पदार्थ का तापमान 1 डिग्री सेल्सियस बढ़ाने के लिए आवश्यक ऊष्मा को क्या कहते हैं?",
+          "en": "What is the heat required to raise the temperature of a substance by 1 degree Celsius called?"
+        },
+        "options": [
+          {"hi": "गुप्त ऊष्मा", "en": "Latent heat"},
+          {"hi": "विशिष्ट ऊष्मा क्षमता", "en": "Specific heat capacity"},
+          {"hi": "ऊष्मीय चालकता", "en": "Thermal conductivity"},
+          {"hi": "ऊष्मा धारिता", "en": "Heat content"}
+        ],
+        "answer": {"hi": "विशिष्ट ऊष्मा क्षमता", "en": "Specific heat capacity"}
+      },
+      {
+        "q": {
+          "hi": "गुप्त ऊष्मा (Latent heat) का उपयोग किसमें होता है?",
+          "en": "What is latent heat used for?"
+        },
+        "options": [
+          {"hi": "तापमान बदलने में", "en": "Changing temperature"},
+          {"hi": "अवस्था बदलने में", "en": "Changing state"},
+          {"hi": "दोनों में", "en": "Both a and b"},
+          {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+        ],
+        "answer": {"hi": "अवस्था बदलने में", "en": "Changing state"}
+      },
+      {
+        "q": {
+          "hi": "बर्फ की गुप्त ऊष्मा कितनी होती है?",
+          "en": "What is the latent heat of ice?"
+        },
+        "options": [
+          {"hi": "80 cal/g", "en": "80 cal/g"},
+          {"hi": "540 cal/g", "en": "540 cal/g"},
+          {"hi": "100 cal/g", "en": "100 cal/g"},
+          {"hi": "0 cal/g", "en": "0 cal/g"}
+        ],
+        "answer": {"hi": "80 cal/g", "en": "80 cal/g"}
+      },
+      {
+        "q": {
+          "hi": "भाप की गुप्त ऊष्मा कितनी होती है?",
+          "en": "What is the latent heat of steam?"
+        },
+        "options": [
+          {"hi": "80 cal/g", "en": "80 cal/g"},
+          {"hi": "540 cal/g", "en": "540 cal/g"},
+          {"hi": "100 cal/g", "en": "100 cal/g"},
+          {"hi": "10 cal/g", "en": "10 cal/g"}
+        ],
+        "answer": {"hi": "540 cal/g", "en": "540 cal/g"}
+      },
+      {
+        "q": {
+          "hi": "ऊष्मा का संचरण किस दिशा में होता है?",
+          "en": "In which direction does heat transfer occur?"
+        },
+        "options": [
+          {"hi": "कम तापमान से उच्च तापमान की ओर", "en": "Lower to higher temperature"},
+          {"hi": "उच्च तापमान से कम तापमान की ओर", "en": "Higher to lower temperature"},
+          {"hi": "दोनों दिशाओं में", "en": "Both directions"},
+          {"hi": "तापमान से स्वतंत्र", "en": "Independent of temperature"}
+        ],
+        "answer": {"hi": "उच्च तापमान से कम तापमान की ओर", "en": "Higher to lower temperature"}
+      },
+      {
+        "q": {
+          "hi": "जब बर्फ पिघलती है, तो उसका तापमान:",
+          "en": "When ice melts, its temperature:"
+        },
+        "options": [
+          {"hi": "बढ़ता है", "en": "Increases"},
+          {"hi": "घटता है", "en": "Decreases"},
+          {"hi": "स्थिर रहता है", "en": "Remains constant"},
+          {"hi": "बदलता रहता है", "en": "Fluctuates"}
+        ],
+        "answer": {"hi": "स्थिर रहता है", "en": "Remains constant"}
+      },
+      {
+        "q": {
+          "hi": "थर्मोस्टेट (Thermostat) का क्या कार्य है?",
+          "en": "What is the function of a thermostat?"
+        },
+        "options": [
+          {"hi": "तापमान मापना", "en": "Measure temperature"},
+          {"hi": "एक समान तापमान बनाए रखना", "en": "Maintain a constant temperature"},
+          {"hi": "तापमान बढ़ाना", "en": "Increase temperature"},
+          {"hi": "तापमान कम करना", "en": "Lower temperature"}
+        ],
+        "answer": {"hi": "एक समान तापमान बनाए रखना", "en": "Maintain a constant temperature"}
+      }
+    ]
   }
 }
+}
+
+
+
 
 
 
