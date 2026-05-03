@@ -2,13 +2,20 @@
 <html lang="hi">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Quiz - SciTech Bihar</title>
 
 <style>
+* {
+  box-sizing: border-box;
+}
+
 body {
-  font-family: Arial;
+  font-family: Arial, sans-serif;
   background: #f5f5f5;
   text-align: center;
+  margin: 0;
+  padding: 20px;
 }
 
 h1 {
@@ -43,6 +50,28 @@ h1 {
 .che { background: #ff9800; }
 .his { background: #9c27b0; }
 
+/* मोबाइल स्क्रीन के लिए बदलाव */
+@media (max-width: 600px) {
+  .card-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .card {
+    width: 85%; /* कार्ड की चौड़ाई स्क्रीन के अनुसार सेट हो जाएगी */
+    max-width: 300px;
+    padding: 20px;
+    font-size: 20px; /* मोबाइल पर टेक्स्ट को थोड़ा बड़ा किया गया है */
+  }
+  
+  a {
+    display: inline-block;
+    margin-top: 30px;
+    font-size: 18px;
+    text-decoration: none;
+    color: #007bff;
+  }
+}
 </style>
 </head>
 
@@ -52,12 +81,10 @@ h1 {
 
 <div class="card-container">
 
-  <!-- Biology -->
   <div class="card bio" onclick="location.href='biology.html'">
     🧬 Biology
   </div>
 
-  <!-- Future -->
   <div class="card phy">
     ⚛️ Physics (Coming Soon)
   </div>
@@ -72,6 +99,7 @@ h1 {
 
 </div>
 
+<br><br>
 <a href="index.html">⬅ Back to Home</a>
 
 </body>
