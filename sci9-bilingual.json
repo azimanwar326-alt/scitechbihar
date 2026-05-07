@@ -666,661 +666,661 @@
       "section1": [
         {
           "q": {
-            "hi": "वे जीव जिन्हें हम बिना यंत्र की सहायता से केवल आँखों से नहीं देख सकते, क्या कहलाते हैं?",
-            "en": "What are those organisms called which we cannot see with the naked eye without the help of an instrument?"
+            "hi": "एक शुद्ध पदार्थ का क्या अर्थ है?",
+            "en": "What is meant by a pure substance?"
           },
           "options": [
-            {"hi": "कीट", "en": "Insects"},
-            {"hi": "सूक्ष्मजीव", "en": "Microorganisms"},
-            {"hi": "जन्तु", "en": "Animals"},
-            {"hi": "पौधे", "en": "Plants"}
+            {"hi": "पदार्थ में कोई मिलावट न हो", "en": "There is no adulteration in the substance"},
+            {"hi": "पदार्थ में मौजूद सभी कण समान रासायनिक प्रकृति के हों", "en": "All constituent particles of the substance are the same in their chemical nature"},
+            {"hi": "पदार्थ खाने में शुद्ध हो", "en": "The substance is pure for eating"},
+            {"hi": "पदार्थ का रंग सफेद हो", "en": "The substance is white in color"}
           ],
-          "answer": {"hi": "सूक्ष्मजीव", "en": "Microorganisms"}
+          "answer": {"hi": "पदार्थ में मौजूद सभी कण समान रासायनिक प्रकृति के हों", "en": "All constituent particles of the substance are the same in their chemical nature"}
         },
         {
           "q": {
-            "hi": "सूक्ष्मजीवों को कितने मुख्य वर्गों में बाँटा गया है?",
-            "en": "Into how many main groups are microorganisms divided?"
+            "hi": "मिश्रण किसे कहते हैं?",
+            "en": "What is a mixture?"
           },
           "options": [
-            {"hi": "दो", "en": "Two"},
-            {"hi": "तीन", "en": "Three"},
-            {"hi": "चार", "en": "Four"},
-            {"hi": "पाँच", "en": "Five"}
+            {"hi": "एक ही प्रकार के कणों का समूह", "en": "Collection of only one type of particles"},
+            {"hi": "एक से अधिक शुद्ध तत्वों या यौगिकों से मिलकर बना पदार्थ", "en": "Material made of more than one pure element or compound"},
+            {"hi": "केवल गैसों का समूह", "en": "Collection of gases only"},
+            {"hi": "पदार्थ की सबसे छोटी इकाई", "en": "The smallest unit of matter"}
           ],
-          "answer": {"hi": "चार", "en": "Four"}
+          "answer": {"hi": "एक से अधिक शुद्ध तत्वों या यौगिकों से मिलकर बना पदार्थ", "en": "Material made of more than one pure element or compound"}
         },
         {
           "q": {
-            "hi": "अमीबा और पैरामीशियम किस सूक्ष्मजीव वर्ग के उदाहरण हैं?",
-            "en": "Amoeba and Paramecium are examples of which group of microorganisms?"
+            "hi": "चीनी और जल का घोल किस प्रकार के मिश्रण का उदाहरण है?",
+            "en": "A solution of sugar in water is an example of which type of mixture?"
           },
           "options": [
-            {"hi": "जीवाणु", "en": "Bacteria"},
-            {"hi": "कवक", "en": "Fungi"},
-            {"hi": "प्रोटोजोआ", "en": "Protozoa"},
-            {"hi": "शैवाल", "en": "Algae"}
+            {"hi": "विषमांगी मिश्रण", "en": "Heterogeneous mixture"},
+            {"hi": "समांगी मिश्रण", "en": "Homogeneous mixture"},
+            {"hi": "निलंबन", "en": "Suspension"},
+            {"hi": "कोलाइड", "en": "Colloid"}
           ],
-          "answer": {"hi": "प्रोटोजोआ", "en": "Protozoa"}
+          "answer": {"hi": "समांगी मिश्रण", "en": "Homogeneous mixture"}
         },
         {
           "q": {
-            "hi": "विषाणु (वायरस) कहाँ गुणन करते हैं?",
-            "en": "Where do viruses reproduce?"
+            "hi": "नमक और लोहे के छीलन का मिश्रण कैसा होता है?",
+            "en": "What type of mixture is salt and iron filings?"
           },
           "options": [
-            {"hi": "केवल जल में", "en": "Only in water"},
-            {"hi": "केवल मिट्टी में", "en": "Only in soil"},
-            {"hi": "केवल परपोषी की कोशिकाओं में", "en": "Only inside the cells of the host"},
-            {"hi": "हवा में स्वतंत्र रूप से", "en": "Freely in the air"}
+            {"hi": "समांगी", "en": "Homogeneous"},
+            {"hi": "विषमांगी (Heterogeneous)", "en": "Heterogeneous"},
+            {"hi": "विलयन", "en": "Solution"},
+            {"hi": "शुद्ध पदार्थ", "en": "Pure substance"}
           ],
-          "answer": {"hi": "केवल परपोषी की कोशिकाओं में", "en": "Only inside the cells of the host"}
+          "answer": {"hi": "विषमांगी (Heterogeneous)", "en": "Heterogeneous"}
         },
         {
           "q": {
-            "hi": "मलेरिया और अतिसार (Dysentery) किसके द्वारा होते हैं?",
-            "en": "Malaria and Dysentery are caused by which organism?"
+            "hi": "विलयन (Solution) क्या है?",
+            "en": "What is a solution?"
           },
           "options": [
-            {"hi": "जीवाणु", "en": "Bacteria"},
-            {"hi": "विषाणु", "en": "Virus"},
-            {"hi": "प्रोटोजोआ", "en": "Protozoa"},
-            {"hi": "कवक", "en": "Fungi"}
+            {"hi": "दो या दो से अधिक पदार्थों का समांगी मिश्रण", "en": "A homogeneous mixture of two or more substances"},
+            {"hi": "दो गैसों का विषमांगी मिश्रण", "en": "A heterogeneous mixture of two gases"},
+            {"hi": "एक ठोस पदार्थ", "en": "A solid substance"},
+            {"hi": "केवल जल और नमक का घोल", "en": "Only a mixture of water and salt"}
           ],
-          "answer": {"hi": "प्रोटोजोआ", "en": "Protozoa"}
+          "answer": {"hi": "दो या दो से अधिक पदार्थों का समांगी मिश्रण", "en": "A homogeneous mixture of two or more substances"}
         },
         {
           "q": {
-            "hi": "दूध को दही में परिवर्तित करने वाला प्रमुख जीवाणु कौन सा है?",
-            "en": "Which is the main bacterium that converts milk into curd?"
+            "hi": "मिश्र धातु (Alloy) क्या है?",
+            "en": "What is an alloy?"
           },
           "options": [
-            {"hi": "राइजोबियम", "en": "Rhizobium"},
-            {"hi": "लैक्टोबैसिलस", "en": "Lactobacillus"},
-            {"hi": "यीस्ट", "en": "Yeast"},
-            {"hi": "स्ट्रेप्टोकोकस", "en": "Streptococcus"}
+            {"hi": "धातुओं के समांगी मिश्रण", "en": "Homogeneous mixtures of metals"},
+            {"hi": "धातु और अधातु के विषमांगी मिश्रण", "en": "Heterogeneous mixtures of metal and non-metal"},
+            {"hi": "एक शुद्ध तत्व", "en": "A pure element"},
+            {"hi": "एक यौगिक", "en": "A compound"}
           ],
-          "answer": {"hi": "लैक्टोबैसिलस", "en": "Lactobacillus"}
+          "answer": {"hi": "धातुओं के समांगी मिश्रण", "en": "Homogeneous mixtures of metals"}
         },
         {
           "q": {
-            "hi": "ब्रेड और केक बनाने के लिए किस सूक्ष्मजीव का उपयोग किया जाता है?",
-            "en": "Which microorganism is used to make bread and cakes?"
+            "hi": "विलयन का वह घटक जो दूसरे घटक को विलयन में मिलाता है, क्या कहलाता है?",
+            "en": "The component of the solution that dissolves the other component in it is called?"
           },
           "options": [
-            {"hi": "अमीबा", "en": "Amoeba"},
-            {"hi": "यीस्ट (खमीर)", "en": "Yeast"},
-            {"hi": "शैवाल", "en": "Algae"},
-            {"hi": "प्रोटोजोआ", "en": "Protozoa"}
+            {"hi": "विलेय (Solute)", "en": "Solute"},
+            {"hi": "विलायक (Solvent)", "en": "Solvent"},
+            {"hi": "मिश्रण", "en": "Mixture"},
+            {"hi": "यौगिक", "en": "Compound"}
           ],
-          "answer": {"hi": "यीस्ट (खमीर)", "en": "Yeast"}
+          "answer": {"hi": "विलायक (Solvent)", "en": "Solvent"}
         },
         {
           "q": {
-            "hi": "वर्षा ऋतु में नम ब्रेड पर उगने वाले काले धब्बे वास्तव में क्या हैं?",
-            "en": "What are the black spots that grow on moist bread during the rainy season?"
+            "hi": "टिंक्चर आयोडीन में विलेय (Solute) कौन सा है?",
+            "en": "Which is the solute in tincture of iodine?"
           },
           "options": [
-            {"hi": "जीवाणु", "en": "Bacteria"},
-            {"hi": "शैवाल", "en": "Algae"},
-            {"hi": "कवक", "en": "Fungi"},
-            {"hi": "विषाणु", "en": "Virus"}
+            {"hi": "अल्कोहल", "en": "Alcohol"},
+            {"hi": "आयोडीन", "en": "Iodine"},
+            {"hi": "जल", "en": "Water"},
+            {"hi": "नमक", "en": "Salt"}
           ],
-          "answer": {"hi": "कवक", "en": "Fungi"}
+          "answer": {"hi": "आयोडीन", "en": "Iodine"}
         },
         {
           "q": {
-            "hi": "यीस्ट श्वसन के दौरान कौन सी गैस उत्पन्न करता है जिससे मैदा फूल जाता है?",
-            "en": "Which gas does yeast produce during respiration that makes the dough rise?"
+            "hi": "वायु किसका विलयन है?",
+            "en": "Air is a solution of what?"
           },
           "options": [
-            {"hi": "ऑक्सीजन", "en": "Oxygen"},
-            {"hi": "नाइट्रोजन", "en": "Nitrogen"},
-            {"hi": "कार्बन डाइऑक्साइड", "en": "Carbon dioxide"},
-            {"hi": "हाइड्रोजन", "en": "Hydrogen"}
+            {"hi": "गैस में गैस का", "en": "Gas in gas"},
+            {"hi": "द्रव में गैस का", "en": "Gas in liquid"},
+            {"hi": "ठोस में गैस का", "en": "Gas in solid"},
+            {"hi": "धूल के कणों का", "en": "Dust particles"}
           ],
-          "answer": {"hi": "कार्बन डाइऑक्साइड", "en": "Carbon dioxide"}
+          "answer": {"hi": "गैस में गैस का", "en": "Gas in gas"}
         },
         {
           "q": {
-            "hi": "सूक्ष्मजीव कहाँ पाए जाते हैं?",
-            "en": "Where are microorganisms found?"
+            "hi": "विलयन के कणों का व्यास कितना होता है?",
+            "en": "What is the diameter of solution particles?"
           },
           "options": [
-            {"hi": "केवल ठंडे स्थानों में", "en": "Only in cold places"},
-            {"hi": "केवल गर्म झरनों में", "en": "Only in hot springs"},
-            {"hi": "केवल मरुस्थल में", "en": "Only in deserts"},
-            {"hi": "सभी प्रकार की परिस्थितियों में", "en": "In all types of environments"}
+            {"hi": "1 mm से बड़ा", "en": "Larger than 1 mm"},
+            {"hi": "1 nm (10^-9 मीटर) से छोटा", "en": "Smaller than 1 nm (10^-9 metre)"},
+            {"hi": "10 nm", "en": "10 nm"},
+            {"hi": "आँखों से दिखाई देने योग्य", "en": "Visible to naked eyes"}
           ],
-          "answer": {"hi": "सभी प्रकार की परिस्थितियों में", "en": "In all types of environments"}
+          "answer": {"hi": "1 nm (10^-9 मीटर) से छोटा", "en": "Smaller than 1 nm (10^-9 metre)"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "चीनी के एल्कोहल में परिवर्तन की प्रक्रिया क्या कहलाती है?",
-            "en": "What is the process of conversion of sugar into alcohol called?"
+            "hi": "क्या विलयन के कण प्रकाश की किरण को फैलाते हैं?",
+            "en": "Do particles of a solution scatter a beam of light?"
           },
           "options": [
-            {"hi": "नाइट्रोजन स्थिरीकरण", "en": "Nitrogen fixation"},
-            {"hi": "किण्वन (फर्मेंटेशन)", "en": "Fermentation"},
-            {"hi": "मोल्डिंग", "en": "Moulding"},
-            {"hi": "संक्रमण", "en": "Infection"}
+            {"hi": "हाँ, वे प्रकाश को फैलाते हैं", "en": "Yes, they scatter light"},
+            {"hi": "नहीं, क्योंकि वे बहुत छोटे होते हैं", "en": "No, because they are very small"},
+            {"hi": "केवल अंधेरे में", "en": "Only in the dark"},
+            {"hi": "केवल धनात्मक विलयन", "en": "Only positive solutions"}
           ],
-          "answer": {"hi": "किण्वन (फर्मेंटेशन)", "en": "Fermentation"}
+          "answer": {"hi": "नहीं, क्योंकि वे बहुत छोटे होते हैं", "en": "No, because they are very small"}
         },
         {
           "q": {
-            "hi": "लुई पाश्चर ने किण्वन की खोज कब की थी?",
-            "en": "When did Louis Pasteur discover fermentation?"
+            "hi": "संतृप्त विलयन (Saturated solution) किसे कहते हैं?",
+            "en": "What is a saturated solution?"
           },
           "options": [
-            {"hi": "1850", "en": "1850"},
-            {"hi": "1857", "en": "1857"},
-            {"hi": "1929", "en": "1929"},
-            {"hi": "1798", "en": "1798"}
+            {"hi": "जिसमें और विलेय न घुल सके", "en": "In which no more solute can be dissolved"},
+            {"hi": "जिसमें बहुत सारा जल हो", "en": "Which has a lot of water"},
+            {"hi": "जो गर्म हो", "en": "Which is hot"},
+            {"hi": "जिसमें विलेय की मात्रा शून्य हो", "en": "Which has zero solute amount"}
           ],
-          "answer": {"hi": "1857", "en": "1857"}
+          "answer": {"hi": "जिसमें और विलेय न घुल सके", "en": "In which no more solute can be dissolved"}
         },
         {
           "q": {
-            "hi": "बीमारी पैदा करने वाले सूक्ष्मजीवों को नष्ट करने वाली औषधियाँ क्या कहलाती हैं?",
-            "en": "What are the medicines that destroy disease-causing microorganisms called?"
+            "hi": "घुलनशीलता (Solubility) क्या है?",
+            "en": "What is solubility?"
           },
           "options": [
-            {"hi": "टीका (वैक्सीन)", "en": "Vaccine"},
-            {"hi": "प्रतिरक्षी (Antibodies)", "en": "Antibodies"},
-            {"hi": "प्रतिजैविक (Antibiotics)", "en": "Antibiotics"},
-            {"hi": "दर्दनाशक", "en": "Painkillers"}
+            {"hi": "विलेय की वह मात्रा जो संतृप्त विलयन में मौजूद हो", "en": "The amount of solute present in the saturated solution"},
+            {"hi": "विलयन का कुल भार", "en": "The total weight of solution"},
+            {"hi": "विलयन का तापमान", "en": "The temperature of solution"},
+            {"hi": "पदार्थ का रंग", "en": "The color of the substance"}
           ],
-          "answer": {"hi": "प्रतिजैविक (Antibiotics)", "en": "Antibiotics"}
+          "answer": {"hi": "विलेय की वह मात्रा जो संतृप्त विलयन में मौजूद हो", "en": "The amount of solute present in the saturated solution"}
         },
         {
           "q": {
-            "hi": "अलेक्जेंडर फ्लैमिंग ने किस प्रतिजैविक की खोज की थी?",
-            "en": "Which antibiotic was discovered by Alexander Fleming?"
+            "hi": "निलंबन (Suspension) कैसा मिश्रण है?",
+            "en": "What kind of mixture is a suspension?"
           },
           "options": [
-            {"hi": "स्ट्रेप्टोमाइसिन", "en": "Streptomycin"},
-            {"hi": "पेनिसिलिन", "en": "Penicillin"},
-            {"hi": "टेट्रासाइक्लिन", "en": "Tetracycline"},
-            {"hi": "एरिथ्रोमाइसिन", "en": "Erythromycin"}
+            {"hi": "समांगी", "en": "Homogeneous"},
+            {"hi": "विषमांगी (Heterogeneous)", "en": "Heterogeneous"},
+            {"hi": "शुद्ध पदार्थ", "en": "Pure substance"},
+            {"hi": "तत्व", "en": "Element"}
           ],
-          "answer": {"hi": "पेनिसिलिन", "en": "Penicillin"}
+          "answer": {"hi": "विषमांगी (Heterogeneous)", "en": "Heterogeneous"}
         },
         {
           "q": {
-            "hi": "प्रतिजैविक औषधियाँ किस सूक्ष्मजीव वर्ग से तैयार की जाती हैं?",
-            "en": "From which groups of microorganisms are antibiotic medicines prepared?"
+            "hi": "निलंबन के कणों को क्या आँखों से देखा जा सकता है?",
+            "en": "Can the particles of a suspension be seen by naked eyes?"
           },
           "options": [
-            {"hi": "जीवाणु और कवक", "en": "Bacteria and Fungi"},
-            {"hi": "विषाणु और शैवाल", "en": "Viruses and Algae"},
-            {"hi": "प्रोटोजोआ और जीवाणु", "en": "Protozoa and Bacteria"},
-            {"hi": "कवक और शैवाल", "en": "Fungi and Algae"}
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "हाँ (Yes)", "en": "Yes"},
+            {"hi": "केवल माइक्रोस्कोप से", "en": "Only with a microscope"},
+            {"hi": "केवल टॉर्च की रोशनी में", "en": "Only in torch light"}
           ],
-          "answer": {"hi": "जीवाणु और कवक", "en": "Bacteria and Fungi"}
+          "answer": {"hi": "हाँ (Yes)", "en": "Yes"}
         },
         {
           "q": {
-            "hi": "सर्दी-जुकाम एवं फ्लू में प्रतिजैविक प्रभावशाली क्यों नहीं होते?",
-            "en": "Why are antibiotics not effective against common cold and flu?"
+            "hi": "कोलाइडल विलयन (Colloidal solution) का उदाहरण कौन सा है?",
+            "en": "Which is an example of a colloidal solution?"
           },
           "options": [
-            {"hi": "वे जीवाणु द्वारा होते हैं", "en": "They are caused by bacteria"},
-            {"hi": "वे विषाणु द्वारा होते हैं", "en": "They are caused by viruses"},
-            {"hi": "वे कवक द्वारा होते हैं", "en": "They are caused by fungi"},
-            {"hi": "वे प्रोटोजोआ द्वारा होते हैं", "en": "They are caused by protozoa"}
+            {"hi": "नमक का घोल", "en": "Salt solution"},
+            {"hi": "दूध (Milk)", "en": "Milk"},
+            {"hi": "ताँबा", "en": "Copper"},
+            {"hi": "चीनी का घोल", "en": "Sugar solution"}
           ],
-          "answer": {"hi": "वे विषाणु द्वारा होते हैं", "en": "They are caused by viruses"}
+          "answer": {"hi": "दूध (Milk)", "en": "Milk"}
         },
         {
           "q": {
-            "hi": "अलेक्जेंडर फ्लैमिंग ने पेनिसिलिन की खोज किस वर्ष की थी?",
-            "en": "In which year did Alexander Fleming discover Penicillin?"
+            "hi": "टिनडल प्रभाव (Tyndall effect) क्या है?",
+            "en": "What is the Tyndall effect?"
           },
           "options": [
-            {"hi": "1857", "en": "1857"},
-            {"hi": "1798", "en": "1798"},
-            {"hi": "1929", "en": "1929"},
-            {"hi": "1945", "en": "1945"}
+            {"hi": "प्रकाश की किरणों का फैलना", "en": "Scattering of a beam of light"},
+            {"hi": "पदार्थ का पिघलना", "en": "Melting of substance"},
+            {"hi": "तरल का उबलना", "en": "Boiling of liquid"},
+            {"hi": "चुंबकीय खिंचाव", "en": "Magnetic pull"}
           ],
-          "answer": {"hi": "1929", "en": "1929"}
+          "answer": {"hi": "प्रकाश की किरणों का फैलना", "en": "Scattering of a beam of light"}
         },
         {
           "q": {
-            "hi": "डॉक्टर की सलाह के बिना अनावश्यक रूप से प्रतिजैविक लेने का क्या नुकसान है?",
-            "en": "What is the disadvantage of taking antibiotics unnecessarily without a doctor's advice?"
+            "hi": "कोलाइड में परीक्षित कणों को क्या कहा जाता है?",
+            "en": "What are the dispersed particles in a colloid called?"
           },
           "options": [
-            {"hi": "यह नींद लाती है", "en": "It induces sleep"},
-            {"hi": "यह उपयोगी जीवाणुओं को नष्ट कर सकती है", "en": "It can destroy useful bacteria"},
-            {"hi": "यह भूख बढ़ाती है", "en": "It increases appetite"},
-            {"hi": "इससे बुखार हो सकता है", "en": "It can cause fever"}
+            {"hi": "परिक्षेपण माध्यम", "en": "Dispersion medium"},
+            {"hi": "परीक्षित प्रावस्था (Dispersed phase)", "en": "Dispersed phase"},
+            {"hi": "विलायक", "en": "Solvent"},
+            {"hi": "विलेय", "en": "Solute"}
           ],
-          "answer": {"hi": "यह उपयोगी जीवाणुओं को नष्ट कर सकती है", "en": "It can destroy useful bacteria"}
+          "answer": {"hi": "परीक्षित प्रावस्था (Dispersed phase)", "en": "Dispersed phase"}
         },
         {
           "q": {
-            "hi": "यीस्ट का उपयोग निम्नलिखित में से किसके उत्पादन में होता है?",
-            "en": "Yeast is used in the production of which of the following?"
+            "hi": "कोहरा (Fog) किस प्रकार का कोलाइड है?",
+            "en": "What type of colloid is fog?"
           },
           "options": [
-            {"hi": "चीनी", "en": "Sugar"},
-            {"hi": "एल्कोहल", "en": "Alcohol"},
-            {"hi": "हाइड्रोक्लोरिक अम्ल", "en": "Hydrochloric acid"},
-            {"hi": "ऑक्सीजन", "en": "Oxygen"}
+            {"hi": "जेल", "en": "Gel"},
+            {"hi": "एरोसोल (Aerosol)", "en": "Aerosol"},
+            {"hi": "फोम", "en": "Foam"},
+            {"hi": "इमल्शन", "en": "Emulsion"}
           ],
-          "answer": {"hi": "एल्कोहल", "en": "Alcohol"}
+          "answer": {"hi": "एरोसोल (Aerosol)", "en": "Aerosol"}
         },
         {
           "q": {
-            "hi": "इकोहॉल के वाणिज्यिक उत्पादन के लिए किस सूक्ष्मजीव का उपयोग किया जाता है?",
-            "en": "Which microorganism is used for the commercial production of alcohol?"
+            "hi": "शेविंग क्रीम किस प्रकार का कोलाइड है?",
+            "en": "What type of colloid is shaving cream?"
           },
           "options": [
-            {"hi": "जीवाणु", "en": "Bacteria"},
-            {"hi": "शैवाल", "en": "Algae"},
-            {"hi": "यीस्ट (खमीर)", "en": "Yeast"},
-            {"hi": "अमीबा", "en": "Amoeba"}
+            {"hi": "फोम (Foam)", "en": "Foam"},
+            {"hi": "सॉल", "en": "Sol"},
+            {"hi": "जेल", "en": "Gel"},
+            {"hi": "एरोसोल", "en": "Aerosol"}
           ],
-          "answer": {"hi": "यीस्ट (खमीर)", "en": "Yeast"}
+          "answer": {"hi": "फोम (Foam)", "en": "Foam"}
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "जब कोई रोगकारक सूक्ष्मजीव शरीर में प्रवेश करता है, तो शरीर उससे लड़ने के लिए क्या उत्पन्न करता है?",
-            "en": "When a disease-carrying microorganism enters the body, what does the body produce to fight it?"
+            "hi": "दूध से क्रीम को पृथक् करने के लिए किस विधि का उपयोग किया जाता है?",
+            "en": "Which method is used to separate cream from milk?"
           },
           "options": [
-            {"hi": "विषाणु", "en": "Virus"},
-            {"hi": "प्रतिरक्षी (Antibodies)", "en": "Antibodies"},
-            {"hi": "प्रतिजैविक", "en": "Antibiotics"},
-            {"hi": "हार्मोन", "en": "Hormones"}
+            {"hi": "वाष्पीकरण", "en": "Evaporation"},
+            {"hi": "अपकेंद्रीकरण (Centrifugation)", "en": "Centrifugation"},
+            {"hi": "छानन", "en": "Filtration"},
+            {"hi": "आसवन", "en": "Distillation"}
           ],
-          "answer": {"hi": "प्रतिरक्षी (Antibodies)", "en": "Antibodies"}
+          "answer": {"hi": "अपकेंद्रीकरण (Centrifugation)", "en": "Centrifugation"}
         },
         {
           "q": {
-            "hi": "चेचक के टीके की खोज किसने की थी?",
-            "en": "Who discovered the vaccine for smallpox?"
+            "hi": "दो अघुलनशील द्रवों के मिश्रण को कैसे अलग किया जा सकता है?",
+            "en": "How can a mixture of two immiscible liquids be separated?"
           },
           "options": [
-            {"hi": "लुई पाश्चर", "en": "Louis Pasteur"},
-            {"hi": "एडवर्ड जेनर", "en": "Edward Jenner"},
-            {"hi": "रॉबर्ट कोच", "en": "Robert Koch"},
-            {"hi": "अलेक्जेंडर फ्लैमिंग", "en": "Alexander Fleming"}
+            {"hi": "पृथक्कारी कीप द्वारा (Using a separating funnel)", "en": "Using a separating funnel"},
+            {"hi": "वाष्पीकरण द्वारा", "en": "By evaporation"},
+            {"hi": "चुंबक द्वारा", "en": "By magnet"},
+            {"hi": "छानकर", "en": "By filtering"}
           ],
-          "answer": {"hi": "एडवर्ड जेनर", "en": "Edward Jenner"}
+          "answer": {"hi": "पृथक्कारी कीप द्वारा (Using a separating funnel)", "en": "Using a separating funnel"}
         },
         {
           "q": {
-            "hi": "वायुमण्डलीय नाइट्रोजन का स्थिरीकरण करने वाले सूक्ष्मजीव क्या कहलाते हैं?",
-            "en": "What are microorganisms that fix atmospheric nitrogen called?"
+            "hi": "नमक और अमोनियम क्लोराइड के मिश्रण को कैसे अलग करते हैं?",
+            "en": "How is a mixture of salt and ammonium chloride separated?"
           },
           "options": [
-            {"hi": "परजीवी", "en": "Parasites"},
-            {"hi": "रोगजनक", "en": "Pathogens"},
-            {"hi": "जैविक नाइट्रोजन स्थिरीकारक", "en": "Biological nitrogen fixers"},
-            {"hi": "अपघटक", "en": "Decomposers"}
+            {"hi": "आसवन", "en": "Distillation"},
+            {"hi": "ऊर्ध्वपातन (Sublimation)", "en": "Sublimation"},
+            {"hi": "अपकेंद्रीकरण", "en": "Centrifugation"},
+            {"hi": "क्रोमैटोग्राफी", "en": "Chromatography"}
           ],
-          "answer": {"hi": "जैविक नाइट्रोजन स्थिरीकारक", "en": "Biological nitrogen fixers"}
+          "answer": {"hi": "ऊर्ध्वपातन (Sublimation)", "en": "Sublimation"}
         },
         {
           "q": {
-            "hi": "सूक्ष्मजीव मृत जैविक अवशिष्ट का अपघटन करके उन्हें किन पदार्थों में बदल देते हैं?",
-            "en": "Microorganisms decompose dead organic waste and convert them into which substances?"
+            "hi": "क्रोमैटोग्राफी विधि का उपयोग कहाँ किया जाता है?",
+            "en": "Where is the chromatography method used?"
           },
           "options": [
-            {"hi": "विषैले पदार्थ", "en": "Toxic substances"},
-            {"hi": "सरल पदार्थों (खाद)", "en": "Simple substances (Manure)"},
-            {"hi": "प्लास्टिक", "en": "Plastic"},
-            {"hi": "गैस", "en": "Gas"}
+            {"hi": "रंगों को पृथक् करने में", "en": "In separating colors"},
+            {"hi": "दूध से क्रीम निकालने में", "en": "In taking out cream from milk"},
+            {"hi": "नमक बनाने में", "en": "In making salt"},
+            {"hi": "हवा को साफ करने में", "en": "In cleaning air"}
           ],
-          "answer": {"hi": "सरल पदार्थों (खाद)", "en": "Simple substances (Manure)"}
+          "answer": {"hi": "रंगों को पृथक् करने में", "en": "In separating colors"}
         },
         {
           "q": {
-            "hi": "पल्स पोलियो कार्यक्रम के अंतर्गत दी जाने वाली 'पोलियो ड्रॉप' क्या है?",
-            "en": "What is the 'Polio Drop' given under the Pulse Polio program?"
+            "hi": "दो घुलनशील द्रवों (जिनके क्वथनांकों में अंतर 25K से अधिक हो) को अलग करने की विधि है:",
+            "en": "The method to separate two miscible liquids (boiling point difference > 25K) is:"
           },
           "options": [
-            {"hi": "प्रतिजैविक", "en": "Antibiotic"},
-            {"hi": "टीका (वैक्सीन)", "en": "Vaccine"},
-            {"hi": "विटामिन सी", "en": "Vitamin C"},
-            {"hi": "खाद्य पूरक", "en": "Food supplement"}
+            {"hi": "सरल आसवन (Distillation)", "en": "Simple Distillation"},
+            {"hi": "प्रभाजी आसवन", "en": "Fractional Distillation"},
+            {"hi": "क्रिस्टलीकरण", "en": "Crystallisation"},
+            {"hi": "अपकेंद्रीकरण", "en": "Centrifugation"}
           ],
-          "answer": {"hi": "टीका (वैक्सीन)", "en": "Vaccine"}
+          "answer": {"hi": "सरल आसवन (Distillation)", "en": "Simple Distillation"}
         },
         {
           "q": {
-            "hi": "एडवर्ड जेनर ने चेचक के टीके की खोज कब की थी?",
-            "en": "When did Edward Jenner discover the smallpox vaccine?"
+            "hi": "वायु से विभिन्न गैसों को पृथक् करने के लिए कौन सी विधि अपनाई जाती है?",
+            "en": "Which method is adopted to separate different gases from air?"
           },
           "options": [
-            {"hi": "1857", "en": "1857"},
-            {"hi": "1798", "en": "1798"},
-            {"hi": "1929", "en": "1929"},
-            {"hi": "1876", "en": "1876"}
+            {"hi": "सरल आसवन", "en": "Simple distillation"},
+            {"hi": "प्रभाजी आसवन (Fractional distillation)", "en": "Fractional distillation"},
+            {"hi": "ऊर्ध्वपातन", "en": "Sublimation"},
+            {"hi": "वाष्पीकरण", "en": "Evaporation"}
           ],
-          "answer": {"hi": "1798", "en": "1798"}
+          "answer": {"hi": "प्रभाजी आसवन (Fractional distillation)", "en": "Fractional distillation"}
         },
         {
           "q": {
-            "hi": "नीले-हरे शैवाल मिट्टी की उर्वरता बढ़ाने के लिए वायु से किसका स्थिरीकरण करते हैं?",
-            "en": "Blue-green algae fix what from the air to increase soil fertility?"
+            "hi": "क्रिस्टलीकरण विधि का उपयोग किसके लिए किया जाता है?",
+            "en": "For what is the crystallisation method used?"
           },
           "options": [
-            {"hi": "ऑक्सीजन", "en": "Oxygen"},
-            {"hi": "कार्बन डाइऑक्साइड", "en": "Carbon dioxide"},
-            {"hi": "नाइट्रोजन", "en": "Nitrogen"},
-            {"hi": "हाइड्रोजन", "en": "Hydrogen"}
+            {"hi": "ठोस पदार्थों को शुद्ध करने में", "en": "In purifying solid substances"},
+            {"hi": "गैसों को मिलाने में", "en": "In mixing gases"},
+            {"hi": "रक्त की जाँच में", "en": "In blood testing"},
+            {"hi": "दूध को उबालने में", "en": "In boiling milk"}
           ],
-          "answer": {"hi": "नाइट्रोजन", "en": "Nitrogen"}
+          "answer": {"hi": "ठोस पदार्थों को शुद्ध करने में", "en": "In purifying solid substances"}
         },
         {
           "q": {
-            "hi": "रोग उत्पन्न करने वाले सूक्ष्मजीवों को क्या कहते हैं?",
-            "en": "What are the microorganisms that cause diseases called?"
+            "hi": "जल शोधन संयंत्र (Water works) में जल को शुद्ध करने के लिए क्या किया जाता है?",
+            "en": "What is done to purify water in water works?"
           },
           "options": [
-            {"hi": "मित्र जीव", "en": "Friendly microbes"},
-            {"hi": "परिरक्षक", "en": "Preservatives"},
-            {"hi": "रोगाणु (Pathogens)", "en": "Pathogens"},
-            {"hi": "एंटीबॉडी", "en": "Antibodies"}
+            {"hi": "तलछटीकरण और क्लोनीकरण", "en": "Sedimentation and Chlorination"},
+            {"hi": "केवल वाष्पीकरण", "en": "Only evaporation"},
+            {"hi": "केवल छानना", "en": "Only filtration"},
+            {"hi": "केवल उबालना", "en": "Only boiling"}
           ],
-          "answer": {"hi": "रोगाणु (Pathogens)", "en": "Pathogens"}
+          "answer": {"hi": "तलछटीकरण और क्लोनीकरण", "en": "Sedimentation and Chlorination"}
         },
         {
           "q": {
-            "hi": "हैजा, क्षयरोग और चेचक जैसी बीमारियों को किसके द्वारा रोका जा सकता है?",
-            "en": "Diseases like cholera, tuberculosis, and smallpox can be prevented by what?"
+            "hi": "लोहे को जंग लगना कैसा परिवर्तन है?",
+            "en": "Rusting of iron is which type of change?"
           },
           "options": [
-            {"hi": "भोजन", "en": "Food"},
-            {"hi": "व्यायाम", "en": "Exercise"},
-            {"hi": "टीकाकरण (Vaccination)", "en": "Vaccination"},
-            {"hi": "विश्राम", "en": "Rest"}
+            {"hi": "भौतिक परिवर्तन", "en": "Physical change"},
+            {"hi": "रासायनिक परिवर्तन (Chemical change)", "en": "Chemical change"},
+            {"hi": "कोई परिवर्तन नहीं", "en": "No change"},
+            {"hi": "अस्थायी परिवर्तन", "en": "Temporary change"}
           ],
-          "answer": {"hi": "टीकाकरण (Vaccination)", "en": "Vaccination"}
+          "answer": {"hi": "रासायनिक परिवर्तन (Chemical change)", "en": "Chemical change"}
         },
         {
           "q": {
-            "hi": "कौन सा सूक्ष्मजीव एककोशिक (Unicellular) होता है?",
-            "en": "Which microorganism is unicellular?"
+            "hi": "जल का बर्फ में बदलना कैसा परिवर्तन है?",
+            "en": "Changing of water into ice is what type of change?"
           },
           "options": [
-            {"hi": "जीवाणु और कुछ शैवाल", "en": "Bacteria and some Algae"},
-            {"hi": "कवक", "en": "Fungi"},
-            {"hi": "मनुष्य", "en": "Humans"},
-            {"hi": "आम का पेड़", "en": "Mango tree"}
+            {"hi": "रासायनिक", "en": "Chemical"},
+            {"hi": "भौतिक (Physical)", "en": "Physical"},
+            {"hi": "जैविक", "en": "Biological"},
+            {"hi": "स्थायी", "en": "Permanent"}
           ],
-          "answer": {"hi": "जीवाणु और कुछ शैवाल", "en": "Bacteria and some Algae"}
+          "answer": {"hi": "भौतिक (Physical)", "en": "Physical"}
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "संक्रमित व्यक्ति से स्वस्थ व्यक्ति में वायु, जल या भोजन द्वारा फैलने वाले रोग क्या कहलाते हैं?",
-            "en": "What are the diseases that spread from an infected person to a healthy person through air, water, or food called?"
+            "hi": "तत्व (Element) शब्द का सर्वप्रथम प्रयोग किसने किया?",
+            "en": "Who first used the term 'Element'?"
           },
           "options": [
-            {"hi": "असंचरणीय रोग", "en": "Non-communicable diseases"},
-            {"hi": "संचरणीय रोग (Communicable diseases)", "en": "Communicable diseases"},
-            {"hi": "वंशानुगत रोग", "en": "Hereditary diseases"},
-            {"hi": "मानसिक रोग", "en": "Mental diseases"}
+            {"hi": "रॉबर्ट बॉयल (Robert Boyle)", "en": "Robert Boyle"},
+            {"hi": "एंटोनी लॉरेंट लवाइज़िए", "en": "Antoine Laurent Lavoisier"},
+            {"hi": "डाल्टन", "en": "Dalton"},
+            {"hi": "न्यूटन", "en": "Newton"}
           ],
-          "answer": {"hi": "संचरणीय रोग (Communicable diseases)", "en": "Communicable diseases"}
+          "answer": {"hi": "रॉबर्ट बॉयल (Robert Boyle)", "en": "Robert Boyle"}
         },
         {
           "q": {
-            "hi": "संचरणीय रोगों का सबसे मुख्य वाहक (Carrier) कौन है?",
-            "en": "Who is the most common carrier of communicable diseases?"
+            "hi": "तत्व की परिभाषा 'पदार्थ का वह मूल रूप जिसे सरल पदार्थों में विभक्त नहीं किया जा सकता' किसने दी?",
+            "en": "Who gave the definition of element as 'a basic form of matter that cannot be broken down into simpler substances'?"
           },
           "options": [
-            {"hi": "चींटी", "en": "Ant"},
-            {"hi": "घरेलू मक्खी", "en": "Housefly"},
-            {"hi": "तितली", "en": "Butterfly"},
-            {"hi": "मकड़ी", "en": "Spider"}
+            {"hi": "रॉबर्ट बॉयल", "en": "Robert Boyle"},
+            {"hi": "एंटोनी लॉरेंट लवाइज़िए (Lavoisier)", "en": "Antoine Laurent Lavoisier"},
+            {"hi": "आइंस्टीन", "en": "Einstein"},
+            {"hi": "मेन्डेलीव", "en": "Mendeleev"}
           ],
-          "answer": {"hi": "घरेलू मक्खी", "en": "Housefly"}
+          "answer": {"hi": "एंटोनी लॉरेंट लवाइज़िए (Lavoisier)", "en": "Antoine Laurent Lavoisier"}
         },
         {
           "q": {
-            "hi": "मादा एनॉफ्लीज़ मच्छर किस परजीवी का वाहक है?",
-            "en": "The female Anopheles mosquito is a carrier of which parasite?"
+            "hi": "पारा (Mercury) कमरे के तापमान पर किस अवस्था में रहता है?",
+            "en": "In what state is mercury at room temperature?"
           },
           "options": [
-            {"hi": "डेंगू वायरस", "en": "Dengue virus"},
-            {"hi": "मलेरिया परजीवी (प्लज्मोडियम)", "en": "Malaria parasite (Plasmodium)"},
-            {"hi": "टाइफाइड जीवाणु", "en": "Typhoid bacteria"},
-            {"hi": "अमीबा", "en": "Amoeba"}
+            {"hi": "ठोस", "en": "Solid"},
+            {"hi": "गैस", "en": "Gas"},
+            {"hi": "द्रव (Liquid)", "en": "Liquid"},
+            {"hi": "प्लाज्मा", "en": "Plasma"}
           ],
-          "answer": {"hi": "मलेरिया परजीवी (प्लज्मोडियम)", "en": "Malaria parasite (Plasmodium)"}
+          "answer": {"hi": "द्रव (Liquid)", "en": "Liquid"}
         },
         {
           "q": {
-            "hi": "मादा एडीस मच्छर किस वायरस का वाहक है?",
-            "en": "The female Aedes mosquito is a carrier of which virus?"
+            "hi": "उपधातु (Metalloids) के उदाहरण कौन से हैं?",
+            "en": "What are examples of metalloids?"
           },
           "options": [
-            {"hi": "पोलियो", "en": "Polio"},
-            {"hi": "डेंगू", "en": "Dengue"},
-            {"hi": "हैजा", "en": "Cholera"},
-            {"hi": "जुकाम", "en": "Common cold"}
+            {"hi": "बोरॉन, सिलिकन, जर्मेनियम", "en": "Boron, Silicon, Germanium"},
+            {"hi": "सोना, चाँदी, ताँबा", "en": "Gold, Silver, Copper"},
+            {"hi": "ऑक्सीजन, नाइट्रोजन", "en": "Oxygen, Nitrogen"},
+            {"hi": "लोहा, सोडियम", "en": "Iron, Sodium"}
           ],
-          "answer": {"hi": "डेंगू", "en": "Dengue"}
+          "answer": {"hi": "बोरॉन, सिलिकन, जर्मेनियम", "en": "Boron, Silicon, Germanium"}
         },
         {
           "q": {
-            "hi": "मच्छरों को पैदा होने से रोकने का सबसे अच्छा तरीका क्या है?",
-            "en": "What is the best way to prevent mosquitoes from breeding?"
+            "hi": "यौगिक (Compound) क्या है?",
+            "en": "What is a compound?"
           },
           "options": [
-            {"hi": "पानी को बहने देना", "en": "Letting the water flow"},
-            {"hi": "कहीं भी जल को एकत्र न होने देना", "en": "Not letting water collect anywhere"},
-            {"hi": "खिड़कियाँ खोलना", "en": "Opening windows"},
-            {"hi": "पेड़ काटना", "en": "Cutting trees"}
+            {"hi": "दो या दो से अधिक तत्वों का निश्चित अनुपात में मेल", "en": "Combination of two or more elements in a fixed proportion"},
+            {"hi": "पदार्थों का विषमांगी मिश्रण", "en": "A heterogeneous mixture of substances"},
+            {"hi": "एक ही प्रकार के परमाणुओं का समूह", "en": "Collection of same type of atoms"},
+            {"hi": "केवल गैसों का मिश्रण", "en": "Only a mixture of gases"}
           ],
-          "answer": {"hi": "कहीं भी जल को एकत्र न होने देना", "en": "Not letting water collect anywhere"}
+          "answer": {"hi": "दो या दो से अधिक तत्वों का निश्चित अनुपात में मेल", "en": "Combination of two or more elements in a fixed proportion"}
         },
         {
           "q": {
-            "hi": "टायफाइड और क्षयरोग (TB) किसके द्वारा होते हैं?",
-            "en": "Typhoid and Tuberculosis (TB) are caused by which organism?"
+            "hi": "मिश्रण और यौगिक में मुख्य अंतर क्या है?",
+            "en": "What is the main difference between a mixture and a compound?"
           },
           "options": [
-            {"hi": "विषाणु", "en": "Virus"},
-            {"hi": "प्रोटोजोआ", "en": "Protozoa"},
-            {"hi": "जीवाणु (Bacteria)", "en": "Bacteria"},
-            {"hi": "कवक", "en": "Fungi"}
+            {"hi": "यौगिक के घटकों को भौतिक विधि से अलग नहीं किया जा सकता", "en": "The constituents of a compound cannot be separated by physical methods"},
+            {"hi": "मिश्रण का संगठन स्थिर होता है", "en": "The composition of a mixture is fixed"},
+            {"hi": "यौगिक नया पदार्थ नहीं बनाता", "en": "A compound does not form a new substance"},
+            {"hi": "कोई अंतर नहीं है", "en": "There is no difference"}
           ],
-          "answer": {"hi": "जीवाणु (Bacteria)", "en": "Bacteria"}
+          "answer": {"hi": "यौगिक के घटकों को भौतिक विधि से अलग नहीं किया जा सकता", "en": "The constituents of a compound cannot be separated by physical methods"}
         },
         {
           "q": {
-            "hi": "एंथ्रेक्स (Anthrax) मवेशियों में होने वाला रोग किसके द्वारा होता है?",
-            "en": "Anthrax, a disease occurring in cattle, is caused by which organism?"
+            "hi": "एक समांगी मिश्रण का दूसरा नाम क्या है?",
+            "en": "What is another name for a homogeneous mixture?"
           },
           "options": [
-            {"hi": "विषाणु", "en": "Virus"},
-            {"hi": "जीवाणु (Bacteria)", "en": "Bacteria"},
-            {"hi": "कवक", "en": "Fungi"},
-            {"hi": "शैवाल", "en": "Algae"}
+            {"hi": "निलंबन", "en": "Suspension"},
+            {"hi": "विलयन (Solution)", "en": "Solution"},
+            {"hi": "कोलाइड", "en": "Colloid"},
+            {"hi": "तत्व", "en": "Element"}
           ],
-          "answer": {"hi": "जीवाणु (Bacteria)", "en": "Bacteria"}
+          "answer": {"hi": "विलयन (Solution)", "en": "Solution"}
         },
         {
           "q": {
-            "hi": "रॉबर्ट कोच ने किस जीवाणु की खोज की थी जो एंथ्रेक्स रोग का कारक है?",
-            "en": "Which bacterium causing Anthrax was discovered by Robert Koch?"
+            "hi": "क्या विलयन स्थिर (Stable) होता है?",
+            "en": "Is a solution stable?"
           },
           "options": [
-            {"hi": "लैक्टोबैसिलस", "en": "Lactobacillus"},
-            {"hi": "बेसीलस एन्थेसिस", "en": "Bacillus anthracis"},
-            {"hi": "राइजोबियम", "en": "Rhizobium"},
-            {"hi": "साल्मोनेला", "en": "Salmonella"}
+            {"hi": "हाँ, रखने पर विलेय के कण नीचे नहीं बैठते", "en": "Yes, solute particles do not settle down when left undisturbed"},
+            {"hi": "नहीं, कण नीचे बैठ जाते हैं", "en": "No, particles settle down"},
+            {"hi": "केवल ठंडा करने पर", "en": "Only on cooling"},
+            {"hi": "अनिश्चित", "en": "Uncertain"}
           ],
-          "answer": {"hi": "बेसीलस एन्थेसिस", "en": "Bacillus anthracis"}
+          "answer": {"hi": "हाँ, रखने पर विलेय के कण नीचे नहीं बैठते", "en": "Yes, solute particles do not settle down when left undisturbed"}
         },
         {
           "q": {
-            "hi": "नींबू कैंकर (Citrus Canker) पौधों में होने वाला एक रोग है, यह किसके द्वारा फैलता है?",
-            "en": "Citrus Canker is a disease in plants, how does it spread?"
+            "hi": "लोहे के बुरादे और सल्फर को गर्म करने पर क्या बनता है?",
+            "en": "What is formed on heating iron filings and sulphur?"
           },
           "options": [
-            {"hi": "जल द्वारा", "en": "By water"},
-            {"hi": "वायु द्वारा", "en": "By air"},
-            {"hi": "कीटों द्वारा", "en": "By insects"},
-            {"hi": "बीजों द्वारा", "en": "By seeds"}
+            {"hi": "मिश्रण", "en": "Mixture"},
+            {"hi": "आयरन सल्फाइड (यौगिक)", "en": "Iron sulphide (Compound)"},
+            {"hi": "गैस", "en": "Gas"},
+            {"hi": "कोई नया पदार्थ नहीं", "en": "No new substance"}
           ],
-          "answer": {"hi": "वायु द्वारा", "en": "By air"}
+          "answer": {"hi": "आयरन सल्फाइड (यौगिक)", "en": "Iron sulphide (Compound)"}
         },
         {
           "q": {
-            "hi": "भिंडी की 'पीत' (Yellow vein mosaic) रोग का वाहक कौन है?",
-            "en": "What is the carrier of Yellow vein mosaic disease in Bhindi?"
+            "hi": "तत्वों को किन श्रेणियों में बाँटा जा सकता है?",
+            "en": "Into which categories can elements be divided?"
           },
           "options": [
-            {"hi": "वायु", "en": "Air"},
-            {"hi": "जल", "en": "Water"},
-            {"hi": "कीट", "en": "Insect"},
-            {"hi": "मिट्टी", "en": "Soil"}
+            {"hi": "धातु, अधातु और उपधातु", "en": "Metals, non-metals and metalloids"},
+            {"hi": "ठोस और द्रव", "en": "Solids and liquids"},
+            {"hi": "अम्ल और क्षार", "en": "Acids and bases"},
+            {"hi": "समांगी और विषमांगी", "en": "Homogeneous and heterogeneous"}
           ],
-          "answer": {"hi": "कीट", "en": "Insect"}
+          "answer": {"hi": "धातु, अधातु और उपधातु", "en": "Metals, non-metals and metalloids"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "सूक्ष्मजीवों द्वारा संदूषित भोजन करने से क्या हो सकता है?",
-            "en": "What can happen by consuming food spoiled by microorganisms?"
+            "hi": "निम्नलिखित में से कौन सा कोलाइड का गुण है?",
+            "en": "Which of the following is a property of a colloid?"
           },
           "options": [
-            {"hi": "अच्छी नींद आती है", "en": "Good sleep"},
-            {"hi": "खाद्य विषाक्तन (Food Poisoning)", "en": "Food Poisoning"},
-            {"hi": "शारीरिक शक्ति बढ़ती है", "en": "Increased physical strength"},
-            {"hi": "चेहरे पर चमक आती है", "en": "Face glows"}
+            {"hi": "यह एक विषमांगी मिश्रण है", "en": "It is a heterogeneous mixture"},
+            {"hi": "यह पारदर्शी होता है", "en": "It is transparent"},
+            {"hi": "इसके कणों को छानकर अलग किया जा सकता है", "en": "Its particles can be separated by filtration"},
+            {"hi": "यह अस्थिर होता है", "en": "It is unstable"}
           ],
-          "answer": {"hi": "खाद्य विषाक्तन (Food Poisoning)", "en": "Food Poisoning"}
+          "answer": {"hi": "यह एक विषमांगी मिश्रण है", "en": "It is a heterogeneous mixture"}
         },
         {
           "q": {
-            "hi": "नमक और खाद्य तेल जैसे पदार्थ जो सूक्ष्मजीवों की वृद्धि रोकते हैं, क्या कहलाते हैं?",
-            "en": "Substances like salt and edible oils that prevent the growth of microorganisms are called what?"
+            "hi": "समुद्री जल क्या है?",
+            "en": "What is sea water?"
           },
           "options": [
-            {"hi": "रंग", "en": "Colors"},
-            {"hi": "पोषक", "en": "Nutrients"},
-            {"hi": "परिरक्षक (Preservatives)", "en": "Preservatives"},
-            {"hi": "स्वाद बढ़ाने वाले", "en": "Flavor enhancers"}
+            {"hi": "एक शुद्ध पदार्थ", "en": "A pure substance"},
+            {"hi": "एक मिश्रण (Mixture)", "en": "A mixture"},
+            {"hi": "एक तत्व", "en": "An element"},
+            {"hi": "गैस", "en": "A gas"}
           ],
-          "answer": {"hi": "परिरक्षक (Preservatives)", "en": "Preservatives"}
+          "answer": {"hi": "एक मिश्रण (Mixture)", "en": "A mixture"}
         },
         {
           "q": {
-            "hi": "जैम, जेली एवं स्क्वैश के परिरक्षण के लिए किसका उपयोग किया जाता है?",
-            "en": "What is used for the preservation of jams, jellies, and squashes?"
+            "hi": "सोडियम क्या है?",
+            "en": "What is Sodium?"
           },
           "options": [
-            {"hi": "मसाले", "en": "Spices"},
-            {"hi": "चीनी", "en": "Sugar"},
-            {"hi": "दूध", "en": "Milk"},
-            {"hi": "हल्दी", "en": "Turmeric"}
+            {"hi": "यौगिक", "en": "Compound"},
+            {"hi": "तत्व (Element)", "en": "Element"},
+            {"hi": "मिश्रण", "en": "Mixture"},
+            {"hi": "अधातु", "en": "Non-metal"}
           ],
-          "answer": {"hi": "चीनी", "en": "Sugar"}
+          "answer": {"hi": "तत्व (Element)", "en": "Element"}
         },
         {
           "q": {
-            "hi": "दूध को पॉश्चरीकृत (Pasteurized) करने के लिए उसे कितने डिग्री सेल्सियस पर गर्म किया जाता है?",
-            "en": "To pasteurize milk, it is heated to how many degrees Celsius?"
+            "hi": "कैल्सियम कार्बोनेट क्या है?",
+            "en": "What is Calcium Carbonate?"
           },
           "options": [
-            {"hi": "50 डिग्री", "en": "50 degrees"},
-            {"hi": "70 डिग्री", "en": "70 degrees"},
-            {"hi": "100 डिग्री", "en": "100 degrees"},
-            {"hi": "150 डिग्री", "en": "150 degrees"}
+            {"hi": "तत्व", "en": "Element"},
+            {"hi": "यौगिक (Compound)", "en": "Compound"},
+            {"hi": "मिश्रण", "en": "Mixture"},
+            {"hi": "उपधातु", "en": "Metalloid"}
           ],
-          "answer": {"hi": "70 डिग्री", "en": "70 degrees"}
+          "answer": {"hi": "यौगिक (Compound)", "en": "Compound"}
         },
         {
           "q": {
-            "hi": "पॉश्चरीकरण की खोज किस वैज्ञानिक ने की थी?",
-            "en": "Which scientist discovered the process of pasteurization?"
+            "hi": "स्याही (Ink) के घटकों को किस विधि से अलग किया जाता है?",
+            "en": "By which method are the components of ink separated?"
           },
           "options": [
-            {"hi": "एडवर्ड जेनर", "en": "Edward Jenner"},
-            {"hi": "अलेक्जेंडर फ्लैमिंग", "en": "Alexander Fleming"},
-            {"hi": "लुई पॉश्चर", "en": "Louis Pasteur"},
-            {"hi": "रॉबर्ट कोच", "en": "Robert Koch"}
+            {"hi": "वाष्पीकरण", "en": "Evaporation"},
+            {"hi": "क्रोमैटोग्राफी (Chromatography)", "en": "Chromatography"},
+            {"hi": "आसवन", "en": "Distillation"},
+            {"hi": "अपकेंद्रीकरण", "en": "Centrifugation"}
           ],
-          "answer": {"hi": "लुई पॉश्चर", "en": "Louis Pasteur"}
+          "answer": {"hi": "क्रोमैटोग्राफी (Chromatography)", "en": "Chromatography"}
         },
         {
           "q": {
-            "hi": "वायुमण्डल में नाइट्रोजन गैस की मात्रा कितनी है?",
-            "en": "What is the percentage of nitrogen gas in the atmosphere?"
+            "hi": "रक्त से नशीले पदार्थ (Drugs) अलग करने में कौन सी विधि उपयोगी है?",
+            "en": "Which method is useful in separating drugs from blood?"
           },
           "options": [
-            {"hi": "21%", "en": "21%"},
-            {"hi": "0.03%", "en": "0.03%"},
-            {"hi": "78%", "en": "78%"},
-            {"hi": "1%", "en": "1%"}
+            {"hi": "छानना", "en": "Filtration"},
+            {"hi": "क्रोमैटोग्राफी (Chromatography)", "en": "Chromatography"},
+            {"hi": "क्रिस्टलीकरण", "en": "Crystallisation"},
+            {"hi": "ऊर्ध्वपातन", "en": "Sublimation"}
           ],
-          "answer": {"hi": "78%", "en": "78"}
+          "answer": {"hi": "क्रोमैटोग्राफी (Chromatography)", "en": "Chromatography"}
         },
         {
           "q": {
-            "hi": "राइजोबियम जीवाणु किन पौधों की ग्रंथिकाओं में पाए जाते हैं?",
-            "en": "Rhizobium bacteria are found in the root nodules of which plants?"
+            "hi": "दूध से क्रीम निकालने वाली मशीन किस सिद्धांत पर कार्य करती है?",
+            "en": "On what principle does the cream separator machine work?"
           },
           "options": [
-            {"hi": "अनाज", "en": "Cereals"},
-            {"hi": "लैग्यूम पौधे (दलहन)", "en": "Leguminous plants"},
-            {"hi": "फलदार पेड़", "en": "Fruit trees"},
-            {"hi": "सजावटी पौधे", "en": "Ornamental plants"}
+            {"hi": "गुरुत्वाकर्षण", "en": "Gravity"},
+            {"hi": "अपकेंद्रीकरण (Centrifugation)", "en": "Centrifugation"},
+            {"hi": "चुंबकत्व", "en": "Magnetism"},
+            {"hi": "विद्युत अपघटन", "en": "Electrolysis"}
           ],
-          "answer": {"hi": "लैग्यूम पौधे (दलहन)", "en": "Leguminous plants"}
+          "answer": {"hi": "अपकेंद्रीकरण (Centrifugation)", "en": "Centrifugation"}
         },
         {
           "q": {
-            "hi": "मिट्टी में उपस्थित नाइट्रोजन यौगिकों को वापस नाइट्रोजन गैस में कौन बदलता है?",
-            "en": "Who converts nitrogen compounds in the soil back into nitrogen gas?"
+            "hi": "निम्नलिखित में से कौन सा भौतिक परिवर्तन है?",
+            "en": "Which of the following is a physical change?"
           },
           "options": [
-            {"hi": "पौधे", "en": "Plants"},
-            {"hi": "जन्तु", "en": "Animals"},
-            {"hi": "विशिष्ट जीवाणु", "en": "Specific bacteria"},
-            {"hi": "वायु", "en": "Air"}
+            {"hi": "खाना पकना", "en": "Cooking of food"},
+            {"hi": "पेड़ का कटना (Cutting of tree)", "en": "Cutting of tree"},
+            {"hi": "लकड़ी जलना", "en": "Burning of wood"},
+            {"hi": "भोजन का पचना", "en": "Digestion of food"}
           ],
-          "answer": {"hi": "विशिष्ट जीवाणु", "en": "Specific bacteria"}
+          "answer": {"hi": "पेड़ का कटना (Cutting of tree)", "en": "Cutting of tree"}
         },
         {
           "q": {
-            "hi": "जैम अथवा इडली के फूलने का क्या कारण है?",
-            "en": "What causes the rising of bread or idli dough?"
+            "hi": "विलयन की सांद्रता (Concentration) क्या दर्शाती है?",
+            "en": "What does the concentration of a solution indicate?"
           },
           "options": [
-            {"hi": "गर्मी", "en": "Heat"},
-            {"hi": "पीसना", "en": "Grinding"},
-            {"hi": "यीस्ट कोशिकाओं की वृद्धि", "en": "Growth of yeast cells"},
-            {"hi": "फेंटने के कारण", "en": "Beating"}
+            {"hi": "विलयन का तापमान", "en": "Temperature of solution"},
+            {"hi": "विलेय की मात्रा (Amount of solute)", "en": "Amount of solute"},
+            {"hi": "विलायक का रंग", "en": "Color of solvent"},
+            {"hi": "विलयन का आयतन", "en": "Volume of solution"}
           ],
-          "answer": {"hi": "यीस्ट कोशिकाओं की वृद्धि", "en": "Growth of yeast cells"}
+          "answer": {"hi": "विलेय की मात्रा (Amount of solute)", "en": "Amount of solute"}
         },
         {
           "q": {
-            "hi": "सोडियम बेंजोएट क्या है?",
-            "en": "What is sodium benzoate?"
+            "hi": "पदार्थ को रासायनिक संगठन के आधार पर किन भागों में वर्गीकृत किया जा सकता है?",
+            "en": "Into which parts can matter be classified on the basis of chemical composition?"
           },
           "options": [
-            {"hi": "एक सूक्ष्मजीव", "en": "A microorganism"},
-            {"hi": "एक सामान्य परिरक्षक", "en": "A common preservative"},
-            {"hi": "एक प्रतिजैविक", "en": "An antibiotic"},
-            {"hi": "एक उर्वरक", "en": "A fertilizer"}
+            {"hi": "तत्व और यौगिक", "en": "Elements and Compounds"},
+            {"hi": "ठोस, द्रव और गैस", "en": "Solids, liquids and gases"},
+            {"hi": "धातु और अधातु", "en": "Metals and non-metals"},
+            {"hi": "शुद्ध और अशुद्ध", "en": "Pure and impure"}
           ],
-          "answer": {"hi": "एक सामान्य परिरक्षक", "en": "A common preservative"}
+          "answer": {"hi": "तत्व और यौगिक", "en": "Elements and Compounds"}
         }
       ]
     }
@@ -1329,661 +1329,661 @@
       "section1": [
         {
           "q": {
-            "hi": "प्राकृतिक संसाधनों को व्यापक रूप से कितने वर्गों में बाँटा जा सकता है?",
-            "en": "In how many broad categories can natural resources be classified?"
+            "hi": "भारतीय दार्शनिक महर्षि कणाद ने पदार्थ के सूक्ष्मतम अविभाज्य कण को क्या नाम दिया?",
+            "en": "What name did Indian philosopher Maharishi Kanad give to the smallest indivisible particle of matter?"
           },
           "options": [
-            {"hi": "दो", "en": "Two"},
-            {"hi": "तीन", "en": "Three"},
-            {"hi": "चार", "en": "Four"},
-            {"hi": "पाँच", "en": "Five"}
+            {"hi": "अणु", "en": "Molecule"},
+            {"hi": "परमाणु", "en": "Parmanu (Atom)"},
+            {"hi": "तत्व", "en": "Element"},
+            {"hi": "यौगिक", "en": "Compound"}
           ],
-          "answer": {"hi": "दो", "en": "Two"}
+          "answer": {"hi": "परमाणु", "en": "Parmanu (Atom)"}
         },
         {
           "q": {
-            "hi": "निम्नलिखित में से कौन सा अक्षय प्राकृतिक संसाधन है?",
-            "en": "Which of the following is an inexhaustible natural resource?"
+            "hi": "द्रव्यमान संरक्षण के नियम के अनुसार, किसी रासायनिक अभिक्रिया में द्रव्यमान का क्या होता है?",
+            "en": "According to the Law of Conservation of Mass, what happens to mass in a chemical reaction?"
           },
           "options": [
-            {"hi": "कोयला", "en": "Coal"},
-            {"hi": "वन्यजीव", "en": "Wildlife"},
-            {"hi": "सूर्य का प्रकाश", "en": "Sunlight"},
-            {"hi": "पेट्रोलियम", "en": "Petroleum"}
+            {"hi": "द्रव्यमान बढ़ जाता है", "en": "Mass increases"},
+            {"hi": "द्रव्यमान घट जाता है", "en": "Mass decreases"},
+            {"hi": "द्रव्यमान का न तो सृजन होता है न ही विनाश", "en": "Mass can neither be created nor destroyed"},
+            {"hi": "द्रव्यमान शून्य हो जाता है", "en": "Mass becomes zero"}
           ],
-          "answer": {"hi": "सूर्य का प्रकाश", "en": "Sunlight"}
+          "answer": {"hi": "द्रव्यमान का न तो सृजन होता है न ही विनाश", "en": "Mass can neither be created nor destroyed"}
         },
         {
           "q": {
-            "hi": "कोयला, पेट्रोलियम और प्राकृतिक गैस किस प्रकार के संसाधन हैं?",
-            "en": "What type of resources are coal, petroleum, and natural gas?"
+            "hi": "स्थिर अनुपात का नियम किसने प्रतिपादित किया था?",
+            "en": "Who propounded the Law of Constant Proportions?"
           },
           "options": [
-            {"hi": "अक्षय संसाधन", "en": "Inexhaustible resources"},
-            {"hi": "समाप्त होने वाले संसाधन", "en": "Exhaustible resources"},
-            {"hi": "मानव-निर्मित संसाधन", "en": "Man-made resources"},
-            {"hi": "असीमित संसाधन", "en": "Unlimited resources"}
+            {"hi": "एंटोनी लवाइज़िए", "en": "Antoine Lavoisier"},
+            {"hi": "प्राउस्ट (Proust)", "en": "Proust"},
+            {"hi": "डॉल्टन", "en": "Dalton"},
+            {"hi": "कणाद", "en": "Kanad"}
           ],
-          "answer": {"hi": "समाप्त होने वाले संसाधन", "en": "Exhaustible resources"}
+          "answer": {"hi": "प्राउस्ट (Proust)", "en": "Proust"}
         },
         {
           "q": {
-            "hi": "सजीव प्राणियों के मृत अवशेषों से बनने वाले ईंधनों को क्या कहते हैं?",
-            "en": "What are the fuels formed from the dead remains of living organisms called?"
+            "hi": "यौगिक जल (H2O) में हाइड्रोजन और ऑक्सीजन के द्रव्यमान का अनुपात क्या होता है?",
+            "en": "What is the ratio by mass of hydrogen and oxygen in the compound water (H2O)?"
           },
           "options": [
-            {"hi": "प्राकृतिक ईंधन", "en": "Natural fuel"},
-            {"hi": "जीवाश्मी ईंधन", "en": "Fossil fuels"},
-            {"hi": "कृत्रिम ईंधन", "en": "Artificial fuel"},
-            {"hi": "सौर ईंधन", "en": "Solar fuel"}
+            {"hi": "1:8", "en": "1:8"},
+            {"hi": "8:1", "en": "8:1"},
+            {"hi": "2:1", "en": "2:1"},
+            {"hi": "1:2", "en": "1:2"}
           ],
-          "answer": {"hi": "जीवाश्मी ईंधन", "en": "Fossil fuels"}
+          "answer": {"hi": "1:8", "en": "1:8"}
         },
         {
           "q": {
-            "hi": "लगभग कितने मिलियन वर्ष पूर्व पृथ्वी पर निचले जलीय क्षेत्रों में घने वन थे?",
-            "en": "About how many million years ago did the earth have dense forests in low lying wetland areas?"
+            "hi": "अमोनिया (NH3) में नाइट्रोजन और हाइड्रोजन के द्रव्यमान का अनुपात सदैव कितना रहता है?",
+            "en": "What is the constant ratio by mass of nitrogen and hydrogen in Ammonia (NH3)?"
           },
           "options": [
-            {"hi": "100 मिलियन", "en": "100 million"},
-            {"hi": "200 मिलियन", "en": "200 million"},
-            {"hi": "300 मिलियन", "en": "300 million"},
-            {"hi": "400 मिलियन", "en": "400 million"}
+            {"hi": "3:14", "en": "3:14"},
+            {"hi": "14:3", "en": "14:3"},
+            {"hi": "1:3", "en": "1:3"},
+            {"hi": "3:1", "en": "3:1"}
           ],
-          "answer": {"hi": "300 मिलियन", "en": "300 million"}
+          "answer": {"hi": "14:3", "en": "14:3"}
         },
         {
           "q": {
-            "hi": "मृत वनस्पति के धीमे प्रक्रम द्वारा कोयले में परिवर्तन को क्या कहते हैं?",
-            "en": "What is the slow process of conversion of dead vegetation into coal called?"
+            "hi": "किस वैज्ञानिक ने द्रव्यों की प्रकृति के बारे में आधारभूत सिद्धांत प्रदान किया?",
+            "en": "Which scientist provided the basic theory about the nature of matter?"
           },
           "options": [
-            {"hi": "पाचन", "en": "Digestion"},
-            {"hi": "कार्बनीकरण", "en": "Carbonisation"},
-            {"hi": "वाष्पीकरण", "en": "Evaporation"},
-            {"hi": "संघनन", "en": "Condensation"}
+            {"hi": "जे.जे. थॉमसन", "en": "J.J. Thomson"},
+            {"hi": "जॉन डॉल्टन", "en": "John Dalton"},
+            {"hi": "अर्नेस्ट रदरफोर्ड", "en": "Ernest Rutherford"},
+            {"hi": "नील्स बोर", "en": "Niels Bohr"}
           ],
-          "answer": {"hi": "कार्बनीकरण", "en": "Carbonisation"}
+          "answer": {"hi": "जॉन डॉल्टन", "en": "John Dalton"}
         },
         {
           "q": {
-            "hi": "कोयले में मुख्य रूप से कौन सा तत्व होता है?",
-            "en": "Which element is primarily present in coal?"
+            "hi": "डॉल्टन के परमाणु सिद्धांत के अनुसार, परमाणु कैसे होते हैं?",
+            "en": "According to Dalton's atomic theory, atoms are:"
           },
           "options": [
-            {"hi": "मैग्नीशियम", "en": "Magnesium"},
-            {"hi": "लोहा", "en": "Iron"},
-            {"hi": "कार्बन", "en": "Carbon"},
-            {"hi": "सोडियम", "en": "Sodium"}
+            {"hi": "विभाज्य", "en": "Divisible"},
+            {"hi": "सूक्ष्मतम अविभाज्य कण", "en": "Smallest indivisible particles"},
+            {"hi": "केवल द्रव", "en": "Only liquids"},
+            {"hi": "नष्ट होने वाले कण", "en": "Destructible particles"}
           ],
-          "answer": {"hi": "कार्बन", "en": "Carbon"}
+          "answer": {"hi": "सूक्ष्मतम अविभाज्य कण", "en": "Smallest indivisible particles"}
         },
         {
           "q": {
-            "hi": "वायु में गर्म करने पर कोयला जलकर मुख्य रूप से कौन सी गैस उत्पन्न करता है?",
-            "en": "Which gas is mainly produced when coal burns in air?"
+            "hi": "परमाणु त्रिज्या को किस इकाई में मापा जाता है?",
+            "en": "In which unit is atomic radius measured?"
           },
           "options": [
-            {"hi": "ऑक्सीजन", "en": "Oxygen"},
-            {"hi": "नाइट्रोजन", "en": "Nitrogen"},
-            {"hi": "कार्बन डाइऑक्साइड", "en": "Carbon dioxide"},
-            {"hi": "हाइड्रोजन", "en": "Hydrogen"}
+            {"hi": "मिलीमीटर (mm)", "en": "Millimeter (mm)"},
+            {"hi": "सेंटीमीटर (cm)", "en": "Centimeter (cm)"},
+            {"hi": "नैनोमीटर (nm)", "en": "Nanometer (nm)"},
+            {"hi": "मीटर (m)", "en": "Meter (m)"}
           ],
-          "answer": {"hi": "कार्बन डाइऑक्साइड", "en": "Carbon dioxide"}
+          "answer": {"hi": "नैनोमीटर (nm)", "en": "Nanometer (nm)"}
         },
         {
           "q": {
-            "hi": "कोयले से प्राप्त उत्पादों में से कौन सा कार्बन का लगभग शुद्ध रूप है?",
-            "en": "Which product obtained from coal is an almost pure form of carbon?"
+            "hi": "1 नैनोमीटर (nm) कितने मीटर के बराबर होता है?",
+            "en": "1 nanometer (nm) is equal to how many meters?"
           },
           "options": [
-            {"hi": "कोलतार", "en": "Coal tar"},
-            {"hi": "कोक", "en": "Coke"},
-            {"hi": "कोयला-गैस", "en": "Coal gas"},
-            {"hi": "बिटुमेन", "en": "Bitumen"}
+            {"hi": "10^-9 m", "en": "10^-9 m"},
+            {"hi": "10^9 m", "en": "10^9 m"},
+            {"hi": "10^-10 m", "en": "10^-10 m"},
+            {"hi": "10^10 m", "en": "10^10 m"}
           ],
-          "answer": {"hi": "कोक", "en": "Coke"}
+          "answer": {"hi": "10^-9 m", "en": "10^-9 m"}
         },
         {
           "q": {
-            "hi": "कोक का उपयोग किसके औद्योगिक निर्माण में किया जाता है?",
-            "en": "Coke is used in the industrial manufacture of what?"
+            "hi": "तत्वों के प्रतीकों का प्रयोग करने वाले प्रथम वैज्ञानिक कौन थे?",
+            "en": "Who was the first scientist to use symbols for elements?"
           },
           "options": [
-            {"hi": "प्लास्टिक", "en": "Plastic"},
-            {"hi": "इस्पात", "en": "Steel"},
-            {"hi": "औषधि", "en": "Medicine"},
-            {"hi": "इत्र", "en": "Perfume"}
+            {"hi": "बर्जिलियस", "en": "Berzelius"},
+            {"hi": "डॉल्टन", "en": "Dalton"},
+            {"hi": "लवाइज़िए", "en": "Lavoisier"},
+            {"hi": "कणाद", "en": "Kanad"}
           ],
-          "answer": {"hi": "इस्पात", "en": "Steel"}
+          "answer": {"hi": "डॉल्टन", "en": "Dalton"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "कोलतार लगभग कितने पदार्थों का मिश्रण होता है?",
-            "en": "Coal tar is a mixture of about how many substances?"
+            "hi": "तत्वों के ऐसे प्रतीकों का सुझाव किसने दिया जो उनके नाम के एक या दो अक्षरों से बने हों?",
+            "en": "Who suggested symbols for elements made of one or two letters of their name?"
           },
           "options": [
-            {"hi": "50", "en": "50"},
-            {"hi": "100", "en": "100"},
-            {"hi": "200", "en": "200"},
-            {"hi": "500", "en": "500"}
+            {"hi": "डॉल्टन", "en": "Dalton"},
+            {"hi": "बर्जिलियस (Berzelius)", "en": "Berzelius"},
+            {"hi": "न्यूटन", "en": "Newton"},
+            {"hi": "प्राउस्ट", "en": "Proust"}
           ],
-          "answer": {"hi": "200", "en": "200"}
+          "answer": {"hi": "बर्जिलियस (Berzelius)", "en": "Berzelius"}
         },
         {
           "q": {
-            "hi": "मॉथ और कीटों को भगाने हेतु प्रयोग की जाने वाली नैफ़्थलीन की गोलियाँ किससे प्राप्त होती हैं?",
-            "en": "From which substance are naphthalene balls used to repel moths and other insects obtained?"
+            "hi": "IUPAC का पूर्ण रूप क्या है?",
+            "en": "What is the full form of IUPAC?"
           },
           "options": [
-            {"hi": "कोक", "en": "Coke"},
-            {"hi": "कोलतार", "en": "Coal tar"},
-            {"hi": "कोयला-गैस", "en": "Coal gas"},
-            {"hi": "पेट्रोल", "en": "Petrol"}
+            {"hi": "International Union of Pure and Applied Chemistry", "en": "International Union of Pure and Applied Chemistry"},
+            {"hi": "Internal Union of Physical and Analytical Chemistry", "en": "Internal Union of Physical and Analytical Chemistry"},
+            {"hi": "Indian Union of Pure and Applied Chemistry", "en": "Indian Union of Pure and Applied Chemistry"},
+            {"hi": "International Unit of Pure and Applied Chemistry", "en": "International Unit of Pure and Applied Chemistry"}
           ],
-          "answer": {"hi": "कोलतार", "en": "Coal tar"}
+          "answer": {"hi": "International Union of Pure and Applied Chemistry", "en": "International Union of Pure and Applied Chemistry"}
         },
         {
           "q": {
-            "hi": "आजकल पक्की सड़कों के निर्माण में कोलतार के स्थान पर किस पेट्रोलियम उत्पाद का प्रयोग किया जाता है?",
-            "en": "Which petroleum product is used these days in place of coal tar for surfacing roads?"
+            "hi": "कॉपर (Copper) का प्रतीक 'Cu' किस लैटिन नाम से लिया गया है?",
+            "en": "The symbol 'Cu' for copper is derived from which Latin name?"
           },
           "options": [
-            {"hi": "डीजल", "en": "Diesel"},
-            {"hi": "पैराफिन मोम", "en": "Paraffin wax"},
-            {"hi": "बिटुमेन", "en": "Bitumen"},
-            {"hi": "कोक", "en": "Coke"}
+            {"hi": "Ferrum", "en": "Ferrum"},
+            {"hi": "Cyprus (Cuprum)", "en": "Cyprus (Cuprum)"},
+            {"hi": "Natrium", "en": "Natrium"},
+            {"hi": "Kalium", "en": "Kalium"}
           ],
-          "answer": {"hi": "बिटुमेन", "en": "Bitumen"}
+          "answer": {"hi": "Cyprus (Cuprum)", "en": "Cyprus (Cuprum)"}
         },
         {
           "q": {
-            "hi": "कोयले से कोक बनाते समय कौन सी गैस प्राप्त होती है?",
-            "en": "Which gas is obtained during the processing of coal to get coke?"
+            "hi": "सोडियम (Sodium) का प्रतीक 'Na' किस भाषा के नाम से लिया गया है?",
+            "en": "From which language's name is the symbol 'Na' for Sodium derived?"
           },
           "options": [
-            {"hi": "प्राकृतिक गैस", "en": "Natural gas"},
-            {"hi": "कोयला-गैस", "en": "Coal gas"},
-            {"hi": "एलपीजी", "en": "LPG"},
-            {"hi": "सीएनजी", "en": "CNG"}
+            {"hi": "अंग्रेजी", "en": "English"},
+            {"hi": "लैटिन (Natrium)", "en": "Latin (Natrium)"},
+            {"hi": "ग्रीक", "en": "Greek"},
+            {"hi": "फ्रेंच", "en": "French"}
           ],
-          "answer": {"hi": "कोयला-गैस", "en": "Coal gas"}
+          "answer": {"hi": "लैटिन (Natrium)", "en": "Latin (Natrium)"}
         },
         {
           "q": {
-            "hi": "लंदन में पहली बार सड़कों पर रोशनी के लिए कोयला-गैस का उपयोग कब किया गया था?",
-            "en": "When was coal gas used for the first time for street lighting in London?"
+            "hi": "प्रारंभ में परमाणु द्रव्यमान को मापने के लिए किस परमाणु को मानक माना गया था?",
+            "en": "Which atom was initially taken as the standard for measuring atomic mass?"
           },
           "options": [
-            {"hi": "1810", "en": "1810"},
-            {"hi": "1820", "en": "1820"},
-            {"hi": "1859", "en": "1859"},
-            {"hi": "1867", "en": "1867"}
+            {"hi": "कार्बन-12", "en": "Carbon-12"},
+            {"hi": "ऑक्सीजन", "en": "Oxygen"},
+            {"hi": "हाइड्रोजन", "en": "Hydrogen"},
+            {"hi": "नाइट्रोजन", "en": "Nitrogen"}
           ],
-          "answer": {"hi": "1810", "en": "1810"}
+          "answer": {"hi": "हाइड्रोजन", "en": "Hydrogen"}
         },
         {
           "q": {
-            "hi": "हल्के स्वचालित वाहनों जैसे मोटर साइकिलों में किस ईंधन का उपयोग होता है?",
-            "en": "Which fuel is used in light auto vehicles like motorcycles?"
+            "hi": "वर्तमान में किस परमाणु को परमाणु द्रव्यमान की मानक इकाई (amu/u) के रूप में लिया जाता है?",
+            "en": "Which atom is currently used as the standard for atomic mass units (u)?"
           },
           "options": [
-            {"hi": "डीजल", "en": "Diesel"},
-            {"hi": "मिट्टी का तेल", "en": "Kerosene"},
-            {"hi": "पेट्रोल", "en": "Petrol"},
-            {"hi": "कोक", "en": "Coke"}
+            {"hi": "हाइड्रोजन-1", "en": "Hydrogen-1"},
+            {"hi": "नाइट्रोजन-14", "en": "Nitrogen-14"},
+            {"hi": "कार्बन-12 समस्थानिक", "en": "Carbon-12 isotope"},
+            {"hi": "ऑक्सीजन-16", "en": "Oxygen-16"}
           ],
-          "answer": {"hi": "पेट्रोल", "en": "Petrol"}
+          "answer": {"hi": "कार्बन-12 समस्थानिक", "en": "Carbon-12 isotope"}
         },
         {
           "q": {
-            "hi": "भारी मोटर वाहनों जैसे ट्रकों को चलाने के लिए कौन सा ईंधन काम आता है?",
-            "en": "Which fuel is used to run heavy motor vehicles like trucks?"
+            "hi": "हाइड्रोजन का परमाणु द्रव्यमान कितना है?",
+            "en": "What is the atomic mass of Hydrogen?"
           },
           "options": [
-            {"hi": "पेट्रोल", "en": "Petrol"},
-            {"hi": "डीजल", "en": "Diesel"},
-            {"hi": "कोयला-गैस", "en": "Coal gas"},
-            {"hi": "स्नेहक तेल", "en": "Lubricating oil"}
+            {"hi": "1 u", "en": "1 u"},
+            {"hi": "12 u", "en": "12 u"},
+            {"hi": "14 u", "en": "14 u"},
+            {"hi": "16 u", "en": "16 u"}
           ],
-          "answer": {"hi": "डीजल", "en": "Diesel"}
+          "answer": {"hi": "1 u", "en": "1 u"}
         },
         {
           "q": {
-            "hi": "पेट्रोलियम शब्द की उत्पत्ति किन दो शब्दों से हुई है?",
-            "en": "The word petroleum is derived from which two words?"
+            "hi": "दो या दो से अधिक परमाणुओं के समूह को जो रासायनिक बंध द्वारा जुड़े होते हैं, क्या कहते हैं?",
+            "en": "What is a group of two or more atoms chemically bonded together called?"
           },
           "options": [
-            {"hi": "पेट्रा और ओलियम", "en": "Petra and Oleum"},
-            {"hi": "पेट्रो और लियम", "en": "Petro and Lium"},
-            {"hi": "पेट और रोरियम", "en": "Pet and Rorium"},
-            {"hi": "चट्टान और गैस", "en": "Rock and Gas"}
+            {"hi": "परमाणु", "en": "Atom"},
+            {"hi": "अणु (Molecule)", "en": "Molecule"},
+            {"hi": "मिश्रण", "en": "Mixture"},
+            {"hi": "विलयन", "en": "Solution"}
           ],
-          "answer": {"hi": "पेट्रा और ओलियम", "en": "Petra and Oleum"}
+          "answer": {"hi": "अणु (Molecule)", "en": "Molecule"}
         },
         {
           "q": {
-            "hi": "पेट्रोलियम का निर्माण किन जीवों से हुआ?",
-            "en": "Petroleum was formed from which organisms?"
+            "hi": "किसी अणु की संरचना में प्रयुक्त होने वाले परमाणुओं की संख्या को क्या कहते हैं?",
+            "en": "What is the number of atoms constituting a molecule called?"
           },
           "options": [
-            {"hi": "जमीन पर रहने वाले", "en": "Terrestrial"},
-            {"hi": "समुद्र में रहने वाले", "en": "Sea living"},
-            {"hi": "हवा में रहने वाले", "en": "Air living"},
-            {"hi": "मरुस्थल में रहने वाले", "en": "Desert living"}
+            {"hi": "संयोजकता", "en": "Valency"},
+            {"hi": "परमाणुकता (Atomicity)", "en": "Atomicity"},
+            {"hi": "द्रव्यमान", "en": "Mass"},
+            {"hi": "मोलरता", "en": "Molarity"}
           ],
-          "answer": {"hi": "समुद्र में रहने वाले", "en": "Sea living"}
+          "answer": {"hi": "परमाणुकता (Atomicity)", "en": "Atomicity"}
         },
         {
           "q": {
-            "hi": "तेल और गैस जल की परत के ऊपर क्यों पाए जाते हैं?",
-            "en": "Why are oil and gas found above the water layer?"
+            "hi": "ऑक्सीजन (O2) की परमाणुकता क्या है?",
+            "en": "What is the atomicity of Oxygen (O2)?"
           },
           "options": [
-            {"hi": "वे जल से भारी होते हैं", "en": "They are heavier than water"},
-            {"hi": "वे जल से हल्के होते हैं", "en": "They are lighter than water"},
-            {"hi": "वे जल में घुलनशील हैं", "en": "They are soluble in water"},
-            {"hi": "उनकी गंध अलग होती है", "en": "They have a different smell"}
+            {"hi": "एकपरमाणुक", "en": "Monoatomic"},
+            {"hi": "द्वि-परमाणुक (Diatomic)", "en": "Diatomic"},
+            {"hi": "त्रि-परमाणुक", "en": "Triatomic"},
+            {"hi": "चतुर्परमाणुक", "en": "Tetra-atomic"}
           ],
-          "answer": {"hi": "वे जल से हल्के होते हैं", "en": "They are lighter than water"}
+          "answer": {"hi": "द्वि-परमाणुक (Diatomic)", "en": "Diatomic"}
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "विश्व का पहला तेल का कुआँ कहाँ खोदा गया था?",
-            "en": "Where was the world's first oil well drilled?"
+            "hi": "आवेशित परमाणु या परमाणुओं के समूह को क्या कहा जाता है?",
+            "en": "What is a charged atom or group of atoms called?"
           },
           "options": [
-            {"hi": "असम, भारत", "en": "Assam, India"},
-            {"hi": "पेनसिलवेनिया, अमेरिका", "en": "Pennsylvania, USA"},
-            {"hi": "गुजरात, भारत", "en": "Gujarat, India"},
-            {"hi": "लंदन, ब्रिटेन", "en": "London, UK"}
+            {"hi": "अणु", "en": "Molecule"},
+            {"hi": "आयन (Ion)", "en": "Ion"},
+            {"hi": "तत्व", "en": "Element"},
+            {"hi": "यौगिक", "en": "Compound"}
           ],
-          "answer": {"hi": "पेनसिलवेनिया, अमेरिका", "en": "Pennsylvania, USA"}
+          "answer": {"hi": "आयन (Ion)", "en": "Ion"}
         },
         {
           "q": {
-            "hi": "पेनसिलवेनिया में पहला तेल का कुआँ कब खोदा गया था?",
-            "en": "When was the first oil well drilled in Pennsylvania?"
+            "hi": "धनावेशित आयन को क्या कहते हैं?",
+            "en": "What is a positively charged ion called?"
           },
           "options": [
-            {"hi": "1810", "en": "1810"},
-            {"hi": "1820", "en": "1820"},
-            {"hi": "1859", "en": "1859"},
-            {"hi": "1867", "en": "1867"}
+            {"hi": "ऋणायन (Anion)", "en": "Anion"},
+            {"hi": "धनायन (Cation)", "en": "Cation"},
+            {"hi": "परमाणु", "en": "Atom"},
+            {"hi": "इलेक्ट्रॉन", "en": "Electron"}
           ],
-          "answer": {"hi": "1859", "en": "1859"}
+          "answer": {"hi": "धनायन (Cation)", "en": "Cation"}
         },
         {
           "q": {
-            "hi": "भारत में पहली बार तेल का पता 1867 में कहाँ चला था?",
-            "en": "Where was oil first discovered in India in 1867?"
+            "hi": "ऋणावेशित आयन को क्या कहते हैं?",
+            "en": "What is a negatively charged ion called?"
           },
           "options": [
-            {"hi": "बाम्बे हाई", "en": "Bombay High"},
-            {"hi": "माकुम, असम", "en": "Makum, Assam"},
-            {"hi": "अंकलेश्वर, गुजरात", "en": "Ankleshwar, Gujarat"},
-            {"hi": "कावेरी बेसिन", "en": "Kaveri Basin"}
+            {"hi": "धनायन", "en": "Cation"},
+            {"hi": "ऋणायन (Anion)", "en": "Anion"},
+            {"hi": "प्रोटॉन", "en": "Proton"},
+            {"hi": "नाभिक", "en": "Nucleus"}
           ],
-          "answer": {"hi": "माकुम, असम", "en": "Makum, Assam"}
+          "answer": {"hi": "ऋणायन (Anion)", "en": "Anion"}
         },
         {
           "q": {
-            "hi": "पेट्रोलियम के विभिन्न संघटकों को पृथक करने का प्रक्रम क्या कहलाता है?",
-            "en": "What is the process of separating the various constituents of petroleum called?"
+            "hi": "किसी तत्व की संयोजन शक्ति (अथवा क्षमता) को क्या कहते हैं?",
+            "en": "What is the combining power (or capacity) of an element called?"
           },
           "options": [
-            {"hi": "कार्बनीकरण", "en": "Carbonisation"},
-            {"hi": "परिष्करण", "en": "Refining"},
-            {"hi": "किण्वन", "en": "Fermentation"},
-            {"hi": "संपीडन", "en": "Compression"}
+            {"hi": "परमाणुकता", "en": "Atomicity"},
+            {"hi": "संयोजकता (Valency)", "en": "Valency"},
+            {"hi": "द्रव्यमान संख्या", "en": "Mass number"},
+            {"hi": "परमाणु संख्या", "en": "Atomic number"}
           ],
-          "answer": {"hi": "परिष्करण", "en": "Refining"}
+          "answer": {"hi": "संयोजकता (Valency)", "en": "Valency"}
         },
         {
           "q": {
-            "hi": "एलपीजी (LPG) का पूर्ण रूप क्या है?",
-            "en": "What is the full form of LPG?"
+            "hi": "मैग्नीशियम क्लोराइड का रासायनिक सूत्र क्या है?",
+            "en": "What is the chemical formula of Magnesium Chloride?"
           },
           "options": [
-            {"hi": "द्रवित पेट्रोलियम गैस", "en": "Liquefied Petroleum Gas"},
-            {"hi": "कम प्रदूषणकारी गैस", "en": "Low Polluting Gas"},
-            {"hi": "स्थानीय पेट्रोलियम गैस", "en": "Local Petroleum Gas"},
-            {"hi": "लंबी पेट्रोलियम गैस", "en": "Long Petroleum Gas"}
+            {"hi": "MgCl", "en": "MgCl"},
+            {"hi": "MgCl2", "en": "MgCl2"},
+            {"hi": "Mg2Cl", "en": "Mg2Cl"},
+            {"hi": "Mg2Cl2", "en": "Mg2Cl2"}
           ],
-          "answer": {"hi": "द्रवित पेट्रोलियम गैस", "en": "Liquefied Petroleum Gas"}
+          "answer": {"hi": "MgCl2", "en": "MgCl2"}
         },
         {
           "q": {
-            "hi": "पेट्रोलियम और प्राकृतिक गैस से प्राप्त उपयोगी पदार्थों को क्या कहते हैं?",
-            "en": "What are the useful substances obtained from petroleum and natural gas called?"
+            "hi": "कैल्सियम कार्बोनेट का रासायनिक सूत्र क्या है?",
+            "en": "What is the chemical formula of Calcium Carbonate?"
           },
           "options": [
-            {"hi": "प्राकृतिक रसायन", "en": "Natural chemicals"},
-            {"hi": "पेट्रोरसायन", "en": "Petrochemicals"},
-            {"hi": "जीवाश्म पदार्थ", "en": "Fossil substances"},
-            {"hi": "काले पदार्थ", "en": "Black substances"}
+            {"hi": "CaCO3", "en": "CaCO3"},
+            {"hi": "Ca2CO3", "en": "Ca2CO3"},
+            {"hi": "Ca(CO3)2", "en": "Ca(CO3)2"},
+            {"hi": "CaO", "en": "CaO"}
           ],
-          "answer": {"hi": "पेट्रोरसायन", "en": "Petrochemicals"}
+          "answer": {"hi": "CaCO3", "en": "CaCO3"}
         },
         {
           "q": {
-            "hi": "व्यावसायिक महत्व के कारण पेट्रोलियम को क्या कहा जाता है?",
-            "en": "What is petroleum called due to its commercial importance?"
+            "hi": "किसी पदार्थ का वह सूक्ष्म कण जो स्वतंत्र रूप से अस्तित्व में रह सकता है, क्या कहलाता है?",
+            "en": "What is the smallest particle of a substance that is capable of independent existence?"
           },
           "options": [
-            {"hi": "सफेद सोना", "en": "White gold"},
-            {"hi": "काला हीरा", "en": "Black diamond"},
-            {"hi": "काला सोना", "en": "Black gold"},
-            {"hi": "तरल हीरा", "en": "Liquid diamond"}
+            {"hi": "परमाणु", "en": "Atom"},
+            {"hi": "अणु (Molecule)", "en": "Molecule"},
+            {"hi": "आयन", "en": "Ion"},
+            {"hi": "कण", "en": "Particle"}
           ],
-          "answer": {"hi": "काला सोना", "en": "Black gold"}
+          "answer": {"hi": "अणु (Molecule)", "en": "Molecule"}
         },
         {
           "q": {
-            "hi": "CNG का पूर्ण रूप क्या है?",
-            "en": "What is the full form of CNG?"
+            "hi": "सल्फर (S8) की परमाणुकता क्या है?",
+            "en": "What is the atomicity of Sulphur (S8)?"
           },
           "options": [
-            {"hi": "संयुक्त प्राकृतिक गैस", "en": "Combined Natural Gas"},
-            {"hi": "संपीडित प्राकृतिक गैस", "en": "Compressed Natural Gas"},
-            {"hi": "स्वच्छ प्राकृतिक गैस", "en": "Clean Natural Gas"},
-            {"hi": "कोयला प्राकृतिक गैस", "en": "Coal Natural Gas"}
+            {"hi": "द्वि-परमाणुक", "en": "Diatomic"},
+            {"hi": "चतुर्परमाणुक", "en": "Tetra-atomic"},
+            {"hi": "बहु-परमाणुक (Poly-atomic)", "en": "Poly-atomic"},
+            {"hi": "एकपरमाणुक", "en": "Monoatomic"}
           ],
-          "answer": {"hi": "संपीडित प्राकृतिक गैस", "en": "Compressed Natural Gas"}
+          "answer": {"hi": "बहु-परमाणुक (Poly-atomic)", "en": "Poly-atomic"}
         },
         {
           "q": {
-            "hi": "पैराफिन मोम का उपयोग किसमें किया जाता है?",
-            "en": "What is paraffin wax used for?"
+            "hi": "आणविक द्रव्यमान निकालने के लिए परमाणुओं के द्रव्यमानों का क्या किया जाता है?",
+            "en": "What is done to atomic masses to calculate molecular mass?"
           },
           "options": [
-            {"hi": "सड़क निर्माण में", "en": "Road construction"},
-            {"hi": "मरहम और मोमबत्ती में", "en": "Ointments and candles"},
-            {"hi": "भारी वाहनों के ईंधन में", "en": "Fuel for heavy vehicles"},
-            {"hi": "विद्युत उत्पादन में", "en": "Power generation"}
+            {"hi": "घटाया जाता है", "en": "Subtracted"},
+            {"hi": "योग (Sum) किया जाता है", "en": "Summed up"},
+            {"hi": "भाग दिया जाता है", "en": "Divided"},
+            {"hi": "गुणा किया जाता है", "en": "Multiplied"}
           ],
-          "answer": {"hi": "मरहम और मोमबत्ती में", "en": "Ointments and candles"}
+          "answer": {"hi": "योग (Sum) किया जाता है", "en": "Summed up"}
         },
         {
           "q": {
-            "hi": "जेट वायुयान के लिए किस ईंधन का उपयोग किया जाता है?",
-            "en": "Which fuel is used for jet aircraft?"
+            "hi": "जल (H2O) का आणविक द्रव्यमान क्या है?",
+            "en": "What is the molecular mass of water (H2O)?"
           },
           "options": [
-            {"hi": "डीजल", "en": "Diesel"},
-            {"hi": "पेट्रोल", "en": "Petrol"},
-            {"hi": "मिट्टी का तेल (Kerosene)", "en": "Kerosene"},
-            {"hi": "कोयला-गैस", "en": "Coal gas"}
+            {"hi": "16 u", "en": "16 u"},
+            {"hi": "18 u", "en": "18 u"},
+            {"hi": "20 u", "en": "20 u"},
+            {"hi": "1 u", "en": "1 u"}
           ],
-          "answer": {"hi": "मिट्टी का तेल (Kerosene)", "en": "Kerosene"}
+          "answer": {"hi": "18 u", "en": "18 u"}
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "सीएनजी (CNG) को एक स्वच्छ ईंधन क्यों माना जाता है?",
-            "en": "Why is CNG considered a clean fuel?"
+            "hi": "पदार्थ के एक मोल में कणों की संख्या कितनी होती है?",
+            "en": "What is the number of particles in one mole of a substance?"
           },
           "options": [
-            {"hi": "यह सस्ता है", "en": "It is cheap"},
-            {"hi": "यह कम प्रदूषणकारी है", "en": "It is less polluting"},
-            {"hi": "यह केवल गैस है", "en": "It is just a gas"},
-            {"hi": "यह खानों से मिलता है", "en": "It is found in mines"}
+            {"hi": "6.022 x 10^23", "en": "6.022 x 10^23"},
+            {"hi": "6.022 x 10^22", "en": "6.022 x 10^22"},
+            {"hi": "1.6 x 10^-19", "en": "1.6 x 10^-19"},
+            {"hi": "3 x 10^8", "en": "3 x 10^8"}
           ],
-          "answer": {"hi": "यह कम प्रदूषणकारी है", "en": "It is less polluting"}
+          "answer": {"hi": "6.022 x 10^23", "en": "6.022 x 10^23"}
         },
         {
           "q": {
-            "hi": "भारत में प्राकृतिक गैस के विशाल भण्डार कहाँ पाए जाते हैं?",
-            "en": "Where are vast reserves of natural gas found in India?"
+            "hi": "6.022 x 10^23 संख्या को क्या कहा जाता है?",
+            "en": "What is the number 6.022 x 10^23 called?"
           },
           "options": [
-            {"hi": "त्रिपुरा", "en": "Tripura"},
-            {"hi": "राजस्थान", "en": "Rajasthan"},
-            {"hi": "महाराष्ट्र", "en": "Maharashtra"},
-            {"hi": "उपरोक्त सभी", "en": "All of the above"}
+            {"hi": "डॉल्टन संख्या", "en": "Dalton's number"},
+            {"hi": "एवोगाड्रो संख्या (Avogadro constant)", "en": "Avogadro constant"},
+            {"hi": "परमाणु संख्या", "en": "Atomic number"},
+            {"hi": "द्रव्यमान संख्या", "en": "Mass number"}
           ],
-          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
+          "answer": {"hi": "एवोगाड्रो संख्या (Avogadro constant)", "en": "Avogadro constant"}
         },
         {
           "q": {
-            "hi": "क्या जीवाश्म ईंधन प्रयोगशाला में बनाए जा सकते हैं?",
-            "en": "Can fossil fuels be made in the laboratory?"
+            "hi": "किसी तत्व के एक मोल परमाणुओं का द्रव्यमान क्या कहलाता है?",
+            "en": "What is the mass of one mole of atoms of an element called?"
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल कोयला", "en": "Only coal"},
-            {"hi": "केवल पेट्रोल", "en": "Only petrol"}
+            {"hi": "आणविक द्रव्यमान", "en": "Molecular mass"},
+            {"hi": "मोलर द्रव्यमान (Molar mass)", "en": "Molar mass"},
+            {"hi": "सापेक्ष द्रव्यमान", "en": "Relative mass"},
+            {"hi": "परमाणु द्रव्यमान", "en": "Atomic mass"}
           ],
-          "answer": {"hi": "नहीं", "en": "No"}
+          "answer": {"hi": "मोलर द्रव्यमान (Molar mass)", "en": "Molar mass"}
         },
         {
           "q": {
-            "hi": "जीवाश्म ईंधन का जलना किसका प्रमुख कारण है?",
-            "en": "Burning of fossil fuels is a major cause of what?"
+            "hi": "नाइट्रोजन परमाणु (N) का मोलर द्रव्यमान क्या है?",
+            "en": "What is the molar mass of Nitrogen atom (N)?"
           },
           "options": [
-            {"hi": "ध्वनि प्रदूषण", "en": "Noise pollution"},
-            {"hi": "वायु प्रदूषण", "en": "Air pollution"},
-            {"hi": "मृदा अपरदन", "en": "Soil erosion"},
-            {"hi": "बाढ़", "en": "Floods"}
+            {"hi": "7 g", "en": "7 g"},
+            {"hi": "14 g", "en": "14 g"},
+            {"hi": "28 g", "en": "28 g"},
+            {"hi": "1 g", "en": "1 g"}
           ],
-          "answer": {"hi": "वायु प्रदूषण", "en": "Air pollution"}
+          "answer": {"hi": "14 g", "en": "14 g"}
         },
         {
           "q": {
-            "hi": "ईंधनों के अत्यधिक जलने का संबंध किस वैश्विक समस्या से है?",
-            "en": "Excessive burning of fuels is linked to which global issue?"
+            "hi": "कार्बन डाइऑक्साइड (CO2) के 1 मोल का द्रव्यमान क्या है?",
+            "en": "What is the mass of 1 mole of Carbon Dioxide (CO2)?"
           },
           "options": [
-            {"hi": "भूकंप", "en": "Earthquake"},
-            {"hi": "विश्व ऊष्णन (Global Warming)", "en": "Global Warming"},
-            {"hi": "सुनामी", "en": "Tsunami"},
-            {"hi": "हिमपात", "en": "Snowfall"}
+            {"hi": "44 g", "en": "44 g"},
+            {"hi": "22 g", "en": "22 g"},
+            {"hi": "12 g", "en": "12 g"},
+            {"hi": "16 g", "en": "16 g"}
           ],
-          "answer": {"hi": "विश्व ऊष्णन (Global Warming)", "en": "Global Warming"}
+          "answer": {"hi": "44 g", "en": "44 g"}
         },
         {
           "q": {
-            "hi": "भारत में पेट्रोलियम संरक्षण अनुसंधान संघ (PCRA) क्या सलाह देता है?",
-            "en": "What advice does PCRA give in India?"
+            "hi": "कैल्सियम ऑक्साइड (CaO) का सूत्र इकाई द्रव्यमान क्या होगा? (Ca=40, O=16)",
+            "en": "What is the formula unit mass of Calcium Oxide (CaO)? (Ca=40, O=16)"
           },
           "options": [
-            {"hi": "अधिक गाड़ी चलाने की", "en": "To drive more"},
-            {"hi": "पेट्रोल/डीजल बचाने की", "en": "To save petrol/diesel"},
-            {"hi": "कोयला जलाने की", "en": "To burn coal"},
-            {"hi": "नया वाहन खरीदने की", "en": "To buy new vehicles"}
+            {"hi": "56 u", "en": "56 u"},
+            {"hi": "40 u", "en": "40 u"},
+            {"hi": "16 u", "en": "16 u"},
+            {"hi": "64 u", "en": "64 u"}
           ],
-          "answer": {"hi": "पेट्रोल/डीजल बचाने की", "en": "To save petrol/diesel"}
+          "answer": {"hi": "56 u", "en": "56 u"}
         },
         {
           "q": {
-            "hi": "गाड़ी का इंजन कब बंद कर देना चाहिए?",
-            "en": "When should the vehicle's engine be switched off?"
+            "hi": "सोडियम आयन (Na+) पर कितना आवेश होता है?",
+            "en": "How much charge is on a Sodium ion (Na+)?"
           },
           "options": [
-            {"hi": "चलते समय", "en": "While driving"},
-            {"hi": "यातायात लाइटों पर", "en": "At traffic lights"},
-            {"hi": "ढलान पर", "en": "On a slope"},
-            {"hi": "धुलाई करते समय", "en": "While washing"}
+            {"hi": "+1", "en": "+1"},
+            {"hi": "-1", "en": "-1"},
+            {"hi": "+2", "en": "+2"},
+            {"hi": "0", "en": "0"}
           ],
-          "answer": {"hi": "यातायात लाइटों पर", "en": "At traffic lights"}
+          "answer": {"hi": "+1", "en": "+1"}
         },
         {
           "q": {
-            "hi": "टायरों का दाब सही रखने से क्या लाभ होता है?",
-            "en": "What is the benefit of keeping correct tire pressure?"
+            "hi": "निम्नलिखित में से कौन-सा तत्व द्वि-परमाणुक अणु के रूप में पाया जाता है?",
+            "en": "Which of the following elements exists as a diatomic molecule?"
           },
           "options": [
-            {"hi": "गाड़ी तेज चलती है", "en": "Car goes fast"},
-            {"hi": "ईंधन की बचत होती है", "en": "Saves fuel"},
-            {"hi": "टायर चमकते हैं", "en": "Tires shine"},
-            {"hi": "ध्वनि कम होती है", "en": "Less noise"}
+            {"hi": "हीलियम", "en": "Helium"},
+            {"hi": "आर्गन", "en": "Argon"},
+            {"hi": "नाइट्रोजन (N2)", "en": "Nitrogen (N2)"},
+            {"hi": "सोडियम", "en": "Sodium"}
           ],
-          "answer": {"hi": "ईंधन की बचत होती है", "en": "Saves fuel"}
+          "answer": {"hi": "नाइट्रोजन (N2)", "en": "Nitrogen (N2)"}
         },
         {
           "q": {
-            "hi": "जीवाश्म ईंधन के भंडार कितने समय और चलने वाले हैं?",
-            "en": "How much longer are the known reserves of fossil fuels expected to last?"
+            "hi": "किसी रासायनिक सूत्र में धातु के संकेत को कहाँ लिखा जाता है?",
+            "en": "Where is the symbol of the metal written in a chemical formula?"
           },
           "options": [
-            {"hi": "कुछ ही वर्ष", "en": "Just a few years"},
-            {"hi": "कुछ सौ वर्ष", "en": "A few hundred years"},
-            {"hi": "अनंत काल", "en": "Infinitely"},
-            {"hi": "लाखों वर्ष", "en": "Millions of years"}
+            {"hi": "दायीं ओर", "en": "On the right"},
+            {"hi": "बाईं ओर (On the left)", "en": "On the left"},
+            {"hi": "कहीं भी", "en": "Anywhere"},
+            {"hi": "ऊपर", "en": "Above"}
           ],
-          "answer": {"hi": "कुछ सौ वर्ष", "en": "A few hundred years"}
+          "answer": {"hi": "बाईं ओर (On the left)", "en": "On the left"}
         },
         {
           "q": {
-            "hi": "मिट्टी का तेल (Kerosene) किस प्रकार का संसाधन है?",
-            "en": "What kind of resource is Kerosene?"
+            "hi": "बहुपरमाणुक आयन किसे कहते हैं?",
+            "en": "What is a polyatomic ion?"
           },
           "options": [
-            {"hi": "अक्षय संसाधन", "en": "Inexhaustible resource"},
-            {"hi": "जीवाश्म ईंधन", "en": "Fossil fuel"},
-            {"hi": "गैर-जीवाश्म ईंधन", "en": "Non-fossil fuel"},
-            {"hi": "नवीकरणीय ऊर्जा", "en": "Renewable energy"}
+            {"hi": "एक ही परमाणु", "en": "Single atom"},
+            {"hi": "परमाणुओं का समूह जिस पर नेट आवेश हो", "en": "Group of atoms carrying a net charge"},
+            {"hi": "बिना आवेश वाला अणु", "en": "Molecule without charge"},
+            {"hi": "केवल ऑक्सीजन के परमाणु", "en": "Only oxygen atoms"}
           ],
-          "answer": {"hi": "जीवाश्म ईंधन", "en": "Fossil fuel"}
+          "answer": {"hi": "परमाणुओं का समूह जिस पर नेट आवेश हो", "en": "Group of atoms carrying a net charge"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "स्नेहक तेल का मुख्य उपयोग क्या है?",
-            "en": "What is the main use of lubricating oil?"
+            "hi": "0.5 मोल जल (H2O) का द्रव्यमान क्या होगा?",
+            "en": "What will be the mass of 0.5 mole of water (H2O)?"
           },
           "options": [
-            {"hi": "जलने के लिए", "en": "For burning"},
-            {"hi": "स्नेहन (Lubrication) के लिए", "en": "For lubrication"},
-            {"hi": "सड़क बनाने के लिए", "en": "For road making"},
-            {"hi": "पेंट बनाने के लिए", "en": "For making paint"}
+            {"hi": "18 g", "en": "18 g"},
+            {"hi": "9 g", "en": "9 g"},
+            {"hi": "36 g", "en": "36 g"},
+            {"hi": "1 g", "en": "1 g"}
           ],
-          "answer": {"hi": "स्नेहन (Lubrication) के लिए", "en": "For lubrication"}
+          "answer": {"hi": "9 g", "en": "9 g"}
         },
         {
           "q": {
-            "hi": "पेय जल के बारे में आपने किस कक्षा में पढ़ा है?",
-            "en": "In which class have you studied about water?"
+            "hi": "नाइट्रिक अम्ल (HNO3) का आणविक द्रव्यमान ज्ञात कीजिए। (H=1, N=14, O=16)",
+            "en": "Calculate the molecular mass of Nitric Acid (HNO3). (H=1, N=14, O=16)"
           },
           "options": [
-            {"hi": "कक्षा 5", "en": "Class 5"},
-            {"hi": "कक्षा 6", "en": "Class 6"},
-            {"hi": "कक्षा 7", "en": "Class 7"},
-            {"hi": "कक्षा 8", "en": "Class 8"}
+            {"hi": "63 u", "en": "63 u"},
+            {"hi": "48 u", "en": "48 u"},
+            {"hi": "31 u", "en": "31 u"},
+            {"hi": "60 u", "en": "60 u"}
           ],
-          "answer": {"hi": "कक्षा 7", "en": "Class 7"}
+          "answer": {"hi": "63 u", "en": "63 u"}
         },
         {
           "q": {
-            "hi": "प्राकृतिक गैस से प्राप्त हाइड्रोजन गैस का उपयोग किसके उत्पादन में होता है?",
-            "en": "Hydrogen gas obtained from natural gas is used in the production of what?"
+            "hi": "तत्वों के नाम और उनके प्रतीकों को स्वीकृति कौन प्रदान करता है?",
+            "en": "Who provides approval for the names and symbols of elements?"
           },
           "options": [
-            {"hi": "स्टील", "en": "Steel"},
-            {"hi": "उर्वरक (यूरिया)", "en": "Fertilizers (Urea)"},
-            {"hi": "कांच", "en": "Glass"},
-            {"hi": "सीमेंट", "en": "Cement"}
+            {"hi": "UNICEF", "en": "UNICEF"},
+            {"hi": "WHO", "en": "WHO"},
+            {"hi": "IUPAC", "en": "IUPAC"},
+            {"hi": "NASA", "en": "NASA"}
           ],
-          "answer": {"hi": "उर्वरक (यूरिया)", "en": "Fertilizers (Urea)"}
+          "answer": {"hi": "IUPAC", "en": "IUPAC"}
         },
         {
           "q": {
-            "hi": "पेट्रोलियम के परिष्करण से कौन सा उत्पाद प्राप्त नहीं होता?",
-            "en": "Which product is NOT obtained from refining petroleum?"
+            "hi": "लैटिन में लोहे (Iron) को क्या कहा जाता है?",
+            "en": "What is Iron called in Latin?"
           },
           "options": [
-            {"hi": "पैराफिन मोम", "en": "Paraffin wax"},
-            {"hi": "कोक", "en": "Coke"},
-            {"hi": "डीजल", "en": "Diesel"},
-            {"hi": "मिट्टी का तेल", "en": "Kerosene"}
+            {"hi": "Natrium", "en": "Natrium"},
+            {"hi": "Ferrum", "en": "Ferrum"},
+            {"hi": "Kalium", "en": "Kalium"},
+            {"hi": "Argentum", "en": "Argentum"}
           ],
-          "answer": {"hi": "कोक", "en": "Coke"}
+          "answer": {"hi": "Ferrum", "en": "Ferrum"}
         },
         {
           "q": {
-            "hi": "कोयला पत्थर जैसा कैसा होता है?",
-            "en": "Coal is like a stone in what way?"
+            "hi": "पोटैशियम का रासायनिक प्रतीक क्या है?",
+            "en": "What is the chemical symbol for Potassium?"
           },
           "options": [
-            {"hi": "सफेद और नरम", "en": "White and soft"},
-            {"hi": "कठोर और काले रंग का", "en": "Hard and black in color"},
-            {"hi": "लाल और लचीला", "en": "Red and flexible"},
-            {"hi": "पारदर्शी", "en": "Transparent"}
+            {"hi": "P", "en": "P"},
+            {"hi": "Po", "en": "Po"},
+            {"hi": "K", "en": "K"},
+            {"hi": "Pt", "en": "Pt"}
           ],
-          "answer": {"hi": "कठोर और काले रंग का", "en": "Hard and black in color"}
+          "answer": {"hi": "K", "en": "K"}
         },
         {
           "q": {
-            "hi": "भाप इंजन चलाने के लिए पहले किसका उपयोग होता था?",
-            "en": "What was previously used to produce steam to run railway engines?"
+            "hi": "एल्युमिनियम आयन पर कितना आवेश होता है?",
+            "en": "What is the charge on an Aluminium ion?"
           },
           "options": [
-            {"hi": "पेट्रोल", "en": "Petrol"},
-            {"hi": "प्राकृतिक गैस", "en": "Natural gas"},
-            {"hi": "कोयला", "en": "Coal"},
-            {"hi": "बिजली", "en": "Electricity"}
+            {"hi": "Al+", "en": "Al+"},
+            {"hi": "Al2+", "en": "Al2+"},
+            {"hi": "Al3+", "en": "Al3+"},
+            {"hi": "Al-", "en": "Al-"}
           ],
-          "answer": {"hi": "कोयला", "en": "Coal"}
+          "answer": {"hi": "Al3+", "en": "Al3+"}
         },
         {
           "q": {
-            "hi": "मृत वनस्पति संपीडित कब हुई?",
-            "en": "When did dead vegetation get compressed?"
+            "hi": "तनु सल्फ्यूरिक अम्ल (H2SO4) में कितने तत्व मौजूद हैं?",
+            "en": "How many elements are present in Sulphuric Acid (H2SO4)?"
           },
           "options": [
-            {"hi": "जब वे जल गई", "en": "When they burnt"},
-            {"hi": "जब उनके ऊपर अधिक मृदा जम गई", "en": "When more soil deposited over them"},
-            {"hi": "जब वे हवा में उड़ी", "en": "When they flew in air"},
-            {"hi": "जब उन्हें काटा गया", "en": "When they were cut"}
+            {"hi": "2", "en": "2"},
+            {"hi": "3 (H, S, O)", "en": "3 (H, S, O)"},
+            {"hi": "7", "en": "7"},
+            {"hi": "4", "en": "4"}
           ],
-          "answer": {"hi": "जब उनके ऊपर अधिक मृदा जम गई", "en": "When more soil deposited over them"}
+          "answer": {"hi": "3 (H, S, O)", "en": "3 (H, S, O)"}
         },
         {
           "q": {
-            "hi": "पेट्रोलियम की गंध कैसी होती है?",
-            "en": "What is the smell of petroleum like?"
+            "hi": "मोल शब्द किसने प्रस्तावित किया था?",
+            "en": "Who proposed the term 'Mole'?"
           },
           "options": [
-            {"hi": "सुगंधित", "en": "Fragrant"},
-            {"hi": "अप्रिय", "en": "Unpleasant"},
-            {"hi": "कोई गंध नहीं", "en": "No smell"},
-            {"hi": "मीठी", "en": "Sweet"}
+            {"hi": "विल्हेल्म ओस्टवाल्ड (Wilhelm Ostwald)", "en": "Wilhelm Ostwald"},
+            {"hi": "एवोगाड्रो", "en": "Avogadro"},
+            {"hi": "डॉल्टन", "en": "Dalton"},
+            {"hi": "थॉमसन", "en": "Thomson"}
           ],
-          "answer": {"hi": "अप्रिय", "en": "Unpleasant"}
+          "answer": {"hi": "विल्हेल्म ओस्टवाल्ड (Wilhelm Ostwald)", "en": "Wilhelm Ostwald"}
         },
         {
           "q": {
-            "hi": "बिटुमेन का उपयोग किसमें होता है?",
-            "en": "What is bitumen used for?"
+            "hi": "द्रव्यमान के संरक्षण के नियम का श्रेय किसे दिया जाता है?",
+            "en": "Who is credited with the Law of Conservation of Mass?"
           },
           "options": [
-            {"hi": "खाद्य तेल के रूप में", "en": "As edible oil"},
-            {"hi": "पेंट एवं सड़क निर्माण में", "en": "Paint and road surfacing"},
-            {"hi": "इत्र बनाने में", "en": "Making perfumes"},
-            {"hi": "साबुन बनाने में", "en": "Making soaps"}
+            {"hi": "प्राउस्ट", "en": "Proust"},
+            {"hi": "एंटोनी लवाइज़िए (Lavoisier)", "en": "Antoine Lavoisier"},
+            {"hi": "मेंडेलीव", "en": "Mendeleev"},
+            {"hi": "न्यूटन", "en": "Newton"}
           ],
-          "answer": {"hi": "पेंट एवं सड़क निर्माण में", "en": "Paint and road surfacing"}
+          "answer": {"hi": "एंटोनी लवाइज़िए (Lavoisier)", "en": "Antoine Lavoisier"}
         },
         {
           "q": {
-            "hi": "मृत जीवों का ईंधन में परिवर्तन कितने समय में होता है?",
-            "en": "How much time does it take for dead organisms to change into fuel?"
+            "hi": "हीलियम (He) की परमाणुकता क्या है?",
+            "en": "What is the atomicity of Helium (He)?"
           },
           "options": [
-            {"hi": "कुछ दिन", "en": "A few days"},
-            {"hi": "कुछ वर्ष", "en": "A few years"},
-            {"hi": "लाखों वर्ष", "en": "Millions of years"},
-            {"hi": "एक सदी", "en": "One century"}
+            {"hi": "एकपरमाणुक (Monoatomic)", "en": "Monoatomic"},
+            {"hi": "द्वि-परमाणुक", "en": "Diatomic"},
+            {"hi": "बहु-परमाणुक", "en": "Polyatomic"},
+            {"hi": "शून्य", "en": "Zero"}
           ],
-          "answer": {"hi": "लाखों वर्ष", "en": "Millions of years"}
+          "answer": {"hi": "एकपरमाणुक (Monoatomic)", "en": "Monoatomic"}
         }
       ]
     },
@@ -1991,661 +1991,661 @@
       "section1": [
         {
           "q": {
-            "hi": "वह रासायनिक प्रक्रम जिसमें पदार्थ ऑक्सीजन से अभिक्रिया कर ऊष्मा देता है, क्या कहलाता है?",
-            "en": "The chemical process in which a substance reacts with oxygen to give off heat is called?"
+            "hi": "सबसे पहले किस वैज्ञानिक ने परमाणु का मॉडल प्रस्तुत किया था?",
+            "en": "Which scientist first proposed a model for the atom?"
           },
           "options": [
-            {"hi": "पाचन", "en": "Digestion"},
-            {"hi": "दहन", "en": "Combustion"},
-            {"hi": "श्वसन", "en": "Respiration"},
-            {"hi": "किण्वन", "en": "Fermentation"}
+            {"hi": "अर्नेस्ट रदरफोर्ड", "en": "Ernest Rutherford"},
+            {"hi": "जे. जे. टॉमसन", "en": "J. J. Thomson"},
+            {"hi": "नील्स बोर", "en": "Niels Bohr"},
+            {"hi": "जॉन डाल्टन", "en": "John Dalton"}
           ],
-          "answer": {"hi": "दहन", "en": "Combustion"}
+          "answer": {"hi": "जे. जे. टॉमसन", "en": "J. J. Thomson"}
         },
         {
           "q": {
-            "hi": "जो पदार्थ दहन के समय जलते हैं, वे क्या कहलाते हैं?",
-            "en": "Substances that burn during combustion are called?"
+            "hi": "इलेक्ट्रॉन की खोज किसने की थी?",
+            "en": "Who discovered the electron?"
           },
           "options": [
-            {"hi": "अदाह्य", "en": "Non-combustible"},
-            {"hi": "दाह्य (ईंधन)", "en": "Combustible (Fuel)"},
-            {"hi": "ऑक्सीकारक", "en": "Oxidizer"},
-            {"hi": "उत्प्रेरक", "en": "Catalyst"}
+            {"hi": "ई. गोल्डस्टीन", "en": "E. Goldstein"},
+            {"hi": "जे. जे. टॉमसन", "en": "J. J. Thomson"},
+            {"hi": "जे. चैडविक", "en": "J. Chadwick"},
+            {"hi": "रदरफोर्ड", "en": "Rutherford"}
           ],
-          "answer": {"hi": "दाह्य (ईंधन)", "en": "Combustible (Fuel)"}
+          "answer": {"hi": "जे. जे. टॉमसन", "en": "J. J. Thomson"}
         },
         {
           "q": {
-            "hi": "दहन के लिए कौन सी गैस आवश्यक है?",
-            "en": "Which gas is essential for combustion?"
+            "hi": "प्रोटॉन की खोज का श्रेय किसे दिया जाता है?",
+            "en": "Who is credited with the discovery of the proton?"
           },
           "options": [
-            {"hi": "नाइट्रोजन", "en": "Nitrogen"},
-            {"hi": "कार्बन डाइऑक्साइड", "en": "Carbon dioxide"},
-            {"hi": "ऑक्सीजन", "en": "Oxygen"},
-            {"hi": "हाइड्रोजन", "en": "Hydrogen"}
+            {"hi": "जे. जे. टॉमसन", "en": "J. J. Thomson"},
+            {"hi": "ई. गोल्डस्टीन", "en": "E. Goldstein"},
+            {"hi": "नील्स बोर", "en": "Niels Bohr"},
+            {"hi": "डाल्टन", "en": "Dalton"}
           ],
-          "answer": {"hi": "ऑक्सीजन", "en": "Oxygen"}
+          "answer": {"hi": "ई. गोल्डस्टीन", "en": "E. Goldstein"}
         },
         {
           "q": {
-            "hi": "वह न्यूनतम ताप जिस पर कोई पदार्थ जलने लगता है, क्या कहलाता है?",
-            "en": "The lowest temperature at which a substance catches fire is called?"
+            "hi": "परमाणु का केंद्रक (Nucleus) कैसा होता है?",
+            "en": "What is the nature of the nucleus of an atom?"
           },
           "options": [
-            {"hi": "क्वथनांक", "en": "Boiling point"},
-            {"hi": "गलनांक", "en": "Melting point"},
-            {"hi": "ज्वलन ताप", "en": "Ignition temperature"},
-            {"hi": "ऊष्मीय मान", "en": "Calorific value"}
+            {"hi": "ऋणावेशित", "en": "Negatively charged"},
+            {"hi": "धनावेशित", "en": "Positively charged"},
+            {"hi": "उदासीन", "en": "Neutral"},
+            {"hi": "कोई आवेश नहीं", "en": "No charge"}
           ],
-          "answer": {"hi": "ज्वलन ताप", "en": "Ignition temperature"}
+          "answer": {"hi": "धनावेशित", "en": "Positively charged"}
         },
         {
           "q": {
-            "hi": "जिन पदार्थों का ज्वलन ताप बहुत कम होता है और जो ज्वाला के साथ सरलतापूर्वक आग पकड़ लेते हैं, वे क्या कहलाते हैं?",
-            "en": "Substances which have very low ignition temperature and can easily catch fire with a flame are called?"
+            "hi": "न्यूट्रॉन की खोज किस वैज्ञानिक ने की थी?",
+            "en": "Which scientist discovered the neutron?"
           },
           "options": [
-            {"hi": "विस्फोटक", "en": "Explosives"},
-            {"hi": "ज्वलनशील पदार्थ", "en": "Inflammable substances"},
-            {"hi": "अदाह्य पदार्थ", "en": "Non-combustible substances"},
-            {"hi": "ठोस ईंधन", "en": "Solid fuels"}
+            {"hi": "जे. जे. टॉमसन", "en": "J. J. Thomson"},
+            {"hi": "नील्स बोर", "en": "Niels Bohr"},
+            {"hi": "जे. चैडविक", "en": "J. Chadwick"},
+            {"hi": "गोल्डस्टीन", "en": "Goldstein"}
           ],
-          "answer": {"hi": "ज्वलनशील पदार्थ", "en": "Inflammable substances"}
+          "answer": {"hi": "जे. चैडविक", "en": "J. Chadwick"}
         },
         {
           "q": {
-            "hi": "कागज के कप में पानी गरम करने पर कागज क्यों नहीं जलता?",
-            "en": "Why does a paper cup not burn when water is heated in it?"
+            "hi": "परमाणु के नाभिक में कौन-कौन से कण होते हैं?",
+            "en": "Which particles are present in the nucleus of an atom?"
           },
           "options": [
-            {"hi": "कागज अभेद्य है", "en": "Paper is fireproof"},
-            {"hi": "ऊष्मा जल में चली जाती है", "en": "Heat is transferred to water"},
-            {"hi": "पानी ऑक्सीजन रोकता है", "en": "Water blocks oxygen"},
-            {"hi": "कागज का ज्वलन ताप बढ़ जाता है", "en": "Ignition temperature of paper increases"}
+            {"hi": "केवल इलेक्ट्रॉन", "en": "Only electrons"},
+            {"hi": "इलेक्ट्रॉन और प्रोटॉन", "en": "Electrons and protons"},
+            {"hi": "प्रोटॉन और न्यूट्रॉन", "en": "Protons and neutrons"},
+            {"hi": "इलेक्ट्रॉन और न्यूट्रॉन", "en": "Electrons and neutrons"}
           ],
-          "answer": {"hi": "ऊष्मा जल में चली जाती है", "en": "Heat is transferred to water"}
+          "answer": {"hi": "प्रोटॉन और न्यूट्रॉन", "en": "Protons and neutrons"}
         },
         {
           "q": {
-            "hi": "आग बुझाने के लिए सबसे सामान्य उपयोग किया जाने वाला पदार्थ कौन सा है?",
-            "en": "What is the most common substance used to extinguish fires?"
+            "hi": "टॉमसन के मॉडल को सामान्यतः क्या कहा जाता है?",
+            "en": "What is Thomson's model commonly called?"
           },
           "options": [
-            {"hi": "तेल", "en": "Oil"},
-            {"hi": "मिट्टी", "en": "Soil"},
-            {"hi": "जल (पानी)", "en": "Water"},
-            {"hi": "ऑक्सीजन", "en": "Oxygen"}
+            {"hi": "सौर मंडल मॉडल", "en": "Solar system model"},
+            {"hi": "क्रिसमस पुडिंग या तरबूज मॉडल", "en": "Christmas pudding or Watermelon model"},
+            {"hi": "नाभिकीय मॉडल", "en": "Nuclear model"},
+            {"hi": "कक्षा मॉडल", "en": "Orbital model"}
           ],
-          "answer": {"hi": "जल (पानी)", "en": "Water"}
+          "answer": {"hi": "क्रिसमस पुडिंग या तरबूज मॉडल", "en": "Christmas pudding or Watermelon model"}
         },
         {
           "q": {
-            "hi": "विद्युत उपकरणों और तेल में लगी आग को बुझाने के लिए सबसे अच्छा अग्निशामक कौन सा है?",
-            "en": "What is the best extinguisher for fires involving electrical equipment and oil?"
+            "hi": "रदरफोर्ड ने अपने प्रयोग में किन कणों की बौछार सोने की पन्नी पर की थी?",
+            "en": "Which particles did Rutherford bombard on the gold foil in his experiment?"
           },
           "options": [
-            {"hi": "पानी", "en": "Water"},
-            {"hi": "कार्बन डाइऑक्साइड (CO2)", "en": "Carbon dioxide (CO2)"},
-            {"hi": "रेत", "en": "Sand"},
-            {"hi": "कंबल", "en": "Blanket"}
+            {"hi": "बीटा कण", "en": "Beta particles"},
+            {"hi": "गामा कण", "en": "Gamma particles"},
+            {"hi": "अल्फा (α) कण", "en": "Alpha (α) particles"},
+            {"hi": "इलेक्ट्रॉन", "en": "Electrons"}
           ],
-          "answer": {"hi": "कार्बन डाइऑक्साइड (CO2)", "en": "Carbon dioxide (CO2)"}
+          "answer": {"hi": "अल्फा (α) कण", "en": "Alpha (α) particles"}
         },
         {
           "q": {
-            "hi": "मैग्नीशियम जलकर क्या पैदा करता है?",
-            "en": "What does magnesium produce when it burns?"
+            "hi": "अल्फा कणों का द्रव्यमान कितना होता है?",
+            "en": "What is the mass of alpha particles?"
           },
           "options": [
-            {"hi": "केवल प्रकाश", "en": "Only light"},
-            {"hi": "केवल ऊष्मा", "en": "Only heat"},
-            {"hi": "मैग्नीशियम ऑक्साइड, ऊष्मा और प्रकाश", "en": "Magnesium oxide, heat and light"},
-            {"hi": "कोयला", "en": "Coal"}
+            {"hi": "1 u", "en": "1 u"},
+            {"hi": "2 u", "en": "2 u"},
+            {"hi": "4 u", "en": "4 u"},
+            {"hi": "8 u", "en": "8 u"}
           ],
-          "answer": {"hi": "मैग्नीशियम ऑक्साइड, ऊष्मा और प्रकाश", "en": "Magnesium oxide, heat and light"}
+          "answer": {"hi": "4 u", "en": "4 u"}
         },
         {
           "q": {
-            "hi": "सूर्य में ऊष्मा और प्रकाश किस प्रक्रम द्वारा उत्पन्न होते हैं?",
-            "en": "By which process are heat and light produced in the sun?"
+            "hi": "परमाणु की त्रिज्या नाभिक की त्रिज्या से कितनी बड़ी होती है?",
+            "en": "How much larger is the radius of an atom compared to the radius of its nucleus?"
           },
           "options": [
-            {"hi": "दहन", "en": "Combustion"},
-            {"hi": "नाभिकीय अभिक्रियाएँ", "en": "Nuclear reactions"},
-            {"hi": "घर्षण", "en": "Friction"},
-            {"hi": "ऑक्सीकरण", "en": "Oxidation"}
+            {"hi": "10 गुना", "en": "10 times"},
+            {"hi": "100 गुना", "en": "100 times"},
+            {"hi": "1000 गुना", "en": "1000 times"},
+            {"hi": "10^5 गुना", "en": "10^5 times"}
           ],
-          "answer": {"hi": "नाभिकीय अभिक्रियाएँ", "en": "Nuclear reactions"}
+          "answer": {"hi": "10^5 गुना", "en": "10^5 times"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "दहन का वह प्रकार जिसमें पदार्थ बिना किसी प्रत्यक्ष कारण के अचानक लपटों के साथ जल उठता है, क्या कहलाता है?",
-            "en": "The type of combustion in which a material suddenly bursts into flames without any apparent cause is called?"
+            "hi": "नील्स बोर के अनुसार इलेक्ट्रॉन किन कक्षाओं में चक्कर लगाते हैं?",
+            "en": "According to Niels Bohr, in which orbits do electrons revolve?"
           },
           "options": [
-            {"hi": "तीव्र दहन", "en": "Rapid combustion"},
-            {"hi": "स्वत: दहन", "en": "Spontaneous combustion"},
-            {"hi": "विस्फोट", "en": "Explosion"},
-            {"hi": "मन्द दहन", "en": "Slow combustion"}
+            {"hi": "अनिश्चित कक्षाएँ", "en": "Indefinite orbits"},
+            {"hi": "विविक्त कक्षा (Discrete orbit)", "en": "Discrete orbit"},
+            {"hi": "नाभिक के अंदर", "en": "Inside the nucleus"},
+            {"hi": "सीधी रेखा में", "en": "In a straight line"}
           ],
-          "answer": {"hi": "स्वत: दहन", "en": "Spontaneous combustion"}
+          "answer": {"hi": "विविक्त कक्षा (Discrete orbit)", "en": "Discrete orbit"}
         },
         {
           "q": {
-            "hi": "पटाखों का जलना किस प्रकार की दहन अभिक्रिया का उदाहरण है?",
-            "en": "The burning of firecrackers is an example of which type of combustion reaction?"
+            "hi": "परमाणु की कक्षाओं (कोशों) को किन अक्षरों से दर्शाया जाता है?",
+            "en": "By which letters are the orbits (shells) of an atom represented?"
           },
           "options": [
-            {"hi": "स्वत: दहन", "en": "Spontaneous combustion"},
-            {"hi": "विस्फोट", "en": "Explosion"},
-            {"hi": "मन्द दहन", "en": "Slow combustion"},
-            {"hi": "तीव्र दहन", "en": "Rapid combustion"}
+            {"hi": "A, B, C, D", "en": "A, B, C, D"},
+            {"hi": "K, L, M, N", "en": "K, L, M, N"},
+            {"hi": "X, Y, Z, W", "en": "X, Y, Z, W"},
+            {"hi": "P, Q, R, S", "en": "P, Q, R, S"}
           ],
-          "answer": {"hi": "विस्फोट", "en": "Explosion"}
+          "answer": {"hi": "K, L, M, N", "en": "K, L, M, N"}
         },
         {
           "q": {
-            "hi": "मोमबत्ती की ज्वाला का सबसे बाहरी क्षेत्र किस रंग का होता है?",
-            "en": "What is the color of the outermost zone of a candle flame?"
+            "hi": "कोश 'K' के लिए 'n' का मान क्या होता है?",
+            "en": "What is the value of 'n' for the 'K' shell?"
           },
           "options": [
-            {"hi": "काला", "en": "Black"},
-            {"hi": "पीला", "en": "Yellow"},
-            {"hi": "नीला", "en": "Blue"},
-            {"hi": "लाल", "en": "Red"}
+            {"hi": "0", "en": "0"},
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "3", "en": "3"}
           ],
-          "answer": {"hi": "नीला", "en": "Blue"}
+          "answer": {"hi": "1", "en": "1"}
         },
         {
           "q": {
-            "hi": "ज्वाला का कौन सा क्षेत्र सबसे अधिक गर्म होता है?",
-            "en": "Which zone of a flame is the hottest?"
+            "hi": "किसी कक्षा में इलेक्ट्रॉनों की अधिकतम संख्या निकालने का सूत्र क्या है?",
+            "en": "What is the formula to calculate the maximum number of electrons in an orbit?"
           },
           "options": [
-            {"hi": "मध्य भाग", "en": "Middle zone"},
-            {"hi": "सबसे आंतरिक क्षेत्र", "en": "Innermost zone"},
-            {"hi": "बाह्य क्षेत्र (अदीप्त क्षेत्र)", "en": "Outermost zone (Non-luminous)"},
-            {"hi": "निचला भाग", "en": "Lower part"}
+            {"hi": "n^2", "en": "n^2"},
+            {"hi": "2n", "en": "2n"},
+            {"hi": "2n^2", "en": "2n^2"},
+            {"hi": "n/2", "en": "n/2"}
           ],
-          "answer": {"hi": "बाह्य क्षेत्र (अदीप्त क्षेत्र)", "en": "Outermost zone (Non-luminous)"}
+          "answer": {"hi": "2n^2", "en": "2n^2"}
         },
         {
           "q": {
-            "hi": "ज्वाला का सबसे आंतरिक क्षेत्र काला क्यों दिखाई देता है?",
-            "en": "Why does the innermost zone of a flame appear black?"
+            "hi": "दूसरी कक्षा (L कोश) में इलेक्ट्रॉनों की अधिकतम संख्या कितनी हो सकती है?",
+            "en": "What is the maximum number of electrons that can be in the second orbit (L shell)?"
           },
           "options": [
-            {"hi": "पूर्ण दहन के कारण", "en": "Due to complete combustion"},
-            {"hi": "बिना जले कार्बन कणों के कारण", "en": "Due to unburnt carbon particles"},
-            {"hi": "अधिक ऑक्सीजन के कारण", "en": "Due to excess oxygen"},
-            {"hi": "राख के कारण", "en": "Due to ash"}
+            {"hi": "2", "en": "2"},
+            {"hi": "8", "en": "8"},
+            {"hi": "18", "en": "18"},
+            {"hi": "32", "en": "32"}
           ],
-          "answer": {"hi": "बिना जले कार्बन कणों के कारण", "en": "Due to unburnt carbon particles"}
+          "answer": {"hi": "8", "en": "8"}
         },
         {
           "q": {
-            "hi": "सुनार सोने और चाँदी को पिघलाने के लिए ज्वाला के किस भाग का उपयोग करते हैं?",
-            "en": "Which part of the flame do goldsmiths use for melting gold and silver?"
+            "hi": "सबसे बाहरी कोश में इलेक्ट्रॉनों की अधिकतम संख्या कितनी हो सकती है?",
+            "en": "What is the maximum number of electrons that can be in the outermost shell?"
           },
           "options": [
-            {"hi": "सबसे आंतरिक क्षेत्र", "en": "Innermost zone"},
-            {"hi": "मध्य क्षेत्र", "en": "Middle zone"},
-            {"hi": "ज्वाला का सबसे बाहरी भाग", "en": "Outermost part of the flame"},
-            {"hi": "पीला भाग", "en": "Yellow part"}
+            {"hi": "2", "en": "2"},
+            {"hi": "8", "en": "8"},
+            {"hi": "10", "en": "10"},
+            {"hi": "18", "en": "18"}
           ],
-          "answer": {"hi": "ज्वाला का सबसे बाहरी भाग", "en": "Outermost part of the flame"}
+          "answer": {"hi": "8", "en": "8"}
         },
         {
           "q": {
-            "hi": "जो पदार्थ दहन के समय वाष्पित होते हैं, वे क्या बनाते हैं?",
-            "en": "Substances that vaporize during burning produce?"
+            "hi": "परमाणु की सबसे बाहरी कक्षा में उपस्थित इलेक्ट्रॉनों को क्या कहते हैं?",
+            "en": "What are the electrons present in the outermost shell of an atom called?"
           },
           "options": [
-            {"hi": "राख", "en": "Ash"},
-            {"hi": "ज्वाला", "en": "Flame"},
-            {"hi": "कोयला", "en": "Coal"},
-            {"hi": "केवल धुआँ", "en": "Only smoke"}
+            {"hi": "नाभिकीय इलेक्ट्रॉन", "en": "Nuclear electrons"},
+            {"hi": "संयोजकता इलेक्ट्रॉन (Valence electrons)", "en": "Valence electrons"},
+            {"hi": "स्थिर इलेक्ट्रॉन", "en": "Stable electrons"},
+            {"hi": "कक्षा इलेक्ट्रॉन", "en": "Orbital electrons"}
           ],
-          "answer": {"hi": "ज्वाला", "en": "Flame"}
+          "answer": {"hi": "संयोजकता इलेक्ट्रॉन (Valence electrons)", "en": "Valence electrons"}
         },
         {
           "q": {
-            "hi": "एलपीजी (LPG) और लकड़ी में से कौन सा बेहतर ईंधन है?",
-            "en": "Which is a better fuel between LPG and Wood?"
+            "hi": "जिस परमाणु के बाहरी कोश पूर्ण रूप से भरे होते हैं, वे कैसे होते हैं?",
+            "en": "Atoms whose outermost shells are completely filled are:"
           },
           "options": [
-            {"hi": "लकड़ी", "en": "Wood"},
-            {"hi": "एलपीजी", "en": "LPG"},
-            {"hi": "दोनों समान हैं", "en": "Both are same"},
-            {"hi": "कोयला", "en": "Coal"}
+            {"hi": "अत्यधिक क्रियाशील", "en": "Highly reactive"},
+            {"hi": "रासायनिक रूप से अक्रिय", "en": "Chemically inert"},
+            {"hi": "अस्थिर", "en": "Unstable"},
+            {"hi": "धनावेशित", "en": "Positively charged"}
           ],
-          "answer": {"hi": "एलपीजी", "en": "LPG"}
+          "answer": {"hi": "रासायनिक रूप से अक्रिय", "en": "Chemically inert"}
         },
         {
           "q": {
-            "hi": "एक आदर्श ईंधन का गुण क्या होना चाहिए?",
-            "en": "What should be a characteristic of an ideal fuel?"
+            "hi": "हीलियम के बाहरी कोश में कितने इलेक्ट्रॉन होते हैं?",
+            "en": "How many electrons are in the outermost shell of helium?"
           },
           "options": [
-            {"hi": "महँगा होना चाहिए", "en": "Should be expensive"},
-            {"hi": "कठिनता से उपलब्ध होना चाहिए", "en": "Should be difficult to find"},
-            {"hi": "इसका ऊष्मीय मान उच्च होना चाहिए", "en": "Should have high calorific value"},
-            {"hi": "बहुत अधिक धुआँ छोड़ना चाहिए", "en": "Should produce lot of smoke"}
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "8", "en": "8"},
+            {"hi": "0", "en": "0"}
           ],
-          "answer": {"hi": "इसका ऊष्मीय मान उच्च होना चाहिए", "en": "Should have high calorific value"}
+          "answer": {"hi": "2", "en": "2"}
         },
         {
           "q": {
-            "hi": "ईंधन के 1 किलोग्राम के पूर्ण दहन से प्राप्त ऊष्मा ऊर्जा की मात्रा क्या कहलाती है?",
-            "en": "The amount of heat energy produced on complete combustion of 1 kg of a fuel is called?"
+            "hi": "परमाणु संख्या (Z) किसके बराबर होती है?",
+            "en": "Atomic number (Z) is equal to what?"
           },
           "options": [
-            {"hi": "ज्वलन मान", "en": "Ignition value"},
-            {"hi": "ऊष्मीय मान (Calorific value)", "en": "Calorific value"},
-            {"hi": "दहन दर", "en": "Combustion rate"},
-            {"hi": "तापमान", "en": "Temperature"}
+            {"hi": "न्यूट्रॉनों की संख्या", "en": "Number of neutrons"},
+            {"hi": "प्रोटॉनों की संख्या", "en": "Number of protons"},
+            {"hi": "प्रोटॉन + न्यूट्रॉन", "en": "Protons + Neutrons"},
+            {"hi": "इलेक्ट्रॉन + न्यूट्रॉन", "en": "Electrons + Neutrons"}
           ],
-          "answer": {"hi": "ऊष्मीय मान (Calorific value)", "en": "Calorific value"}
+          "answer": {"hi": "प्रोटॉनों की संख्या", "en": "Number of protons"}
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "ईंधन के ऊष्मीय मान का मात्रक क्या है?",
-            "en": "What is the unit of calorific value of a fuel?"
+            "hi": "द्रव्यमान संख्या (A) क्या है?",
+            "en": "What is mass number (A)?"
           },
           "options": [
-            {"hi": "किलोजूल प्रति किलोग्राम (kJ/kg)", "en": "Kilojoule per kg (kJ/kg)"},
-            {"hi": "जूल", "en": "Joule"},
-            {"hi": "किलोग्राम", "en": "Kilogram"},
-            {"hi": "डिग्री सेल्सियस", "en": "Degree Celsius"}
+            {"hi": "केवल प्रोटॉनों की संख्या", "en": "Only number of protons"},
+            {"hi": "केवल न्यूट्रॉनों की संख्या", "en": "Only number of neutrons"},
+            {"hi": "प्रोटॉनों और न्यूट्रॉनों की संख्या का योग", "en": "Sum of the number of protons and neutrons"},
+            {"hi": "परमाणु का कुल आवेश", "en": "Total charge of the atom"}
           ],
-          "answer": {"hi": "किलोजूल प्रति किलोग्राम (kJ/kg)", "en": "Kilojoule per kg (kJ/kg)"}
+          "answer": {"hi": "प्रोटॉनों और न्यूट्रॉनों की संख्या का योग", "en": "Sum of the number of protons and neutrons"}
         },
         {
           "q": {
-            "hi": "कार्बन युक्त ईंधनों (जैसे लकड़ी, कोयला) के अपूर्ण दहन से कौन सी विषैली गैस निकलती है?",
-            "en": "Which poisonous gas is released due to incomplete combustion of carbon fuels (like wood, coal)?"
+            "hi": "न्यूक्लियॉन्स (Nucleons) किसे कहा जाता है?",
+            "en": "What are called Nucleons?"
           },
           "options": [
-            {"hi": "कार्बन डाइऑक्साइड", "en": "Carbon dioxide"},
-            {"hi": "कार्बन मोनोऑक्साइड", "en": "Carbon monoxide"},
-            {"hi": "नाइट्रोजन", "en": "Nitrogen"},
-            {"hi": "ऑक्सीजन", "en": "Oxygen"}
+            {"hi": "केवल प्रोटॉन", "en": "Only protons"},
+            {"hi": "केवल न्यूट्रॉन", "en": "Only neutrons"},
+            {"hi": "प्रोटॉन और न्यूट्रॉन दोनों", "en": "Both protons and neutrons"},
+            {"hi": "इलेक्ट्रॉन और प्रोटॉन", "en": "Electrons and protons"}
           ],
-          "answer": {"hi": "कार्बन मोनोऑक्साइड", "en": "Carbon monoxide"}
+          "answer": {"hi": "प्रोटॉन और न्यूट्रॉन दोनों", "en": "Both protons and neutrons"}
         },
         {
           "q": {
-            "hi": "वायु में कार्बन डाइऑक्साइड की अधिक मात्रा का क्या परिणाम होता है?",
-            "en": "What is the result of increased concentration of carbon dioxide in air?"
+            "hi": "समस्थानिक (Isotopes) किसे कहते हैं?",
+            "en": "What are Isotopes?"
           },
           "options": [
-            {"hi": "अम्ल वर्षा", "en": "Acid rain"},
-            {"hi": "विश्व ऊष्णन (Global Warming)", "en": "Global Warming"},
-            {"hi": "मिट्टी का कटाव", "en": "Soil erosion"},
-            {"hi": "बाढ़", "en": "Flood"}
+            {"hi": "समान द्रव्यमान संख्या वाले तत्व", "en": "Elements with same mass number"},
+            {"hi": "समान परमाणु संख्या लेकिन भिन्न द्रव्यमान संख्या वाले परमाणु", "en": "Atoms with same atomic number but different mass numbers"},
+            {"hi": "समान न्यूट्रॉन संख्या वाले परमाणु", "en": "Atoms with same number of neutrons"},
+            {"hi": "भिन्न परमाणु संख्या वाले परमाणु", "en": "Atoms with different atomic numbers"}
           ],
-          "answer": {"hi": "विश्व ऊष्णन (Global Warming)", "en": "Global Warming"}
+          "answer": {"hi": "समान परमाणु संख्या लेकिन भिन्न द्रव्यमान संख्या वाले परमाणु", "en": "Atoms with same atomic number but different mass numbers"}
         },
         {
           "q": {
-            "hi": "कोयले और डीजल के दहन से कौन सी गैस निकलती है जो दमघोंटू और संक्षारक होती है?",
-            "en": "Which suffocating and corrosive gas is released by burning coal and diesel?"
+            "hi": "हाइड्रोजन के तीन समस्थानिक कौन से हैं?",
+            "en": "What are the three isotopes of hydrogen?"
           },
           "options": [
-            {"hi": "सल्फर डाइऑक्साइड", "en": "Sulphur dioxide"},
-            {"hi": "हाइड्रोजन", "en": "Hydrogen"},
-            {"hi": "मिथेन", "en": "Methane"},
-            {"hi": "आर्गन", "en": "Argon"}
+            {"hi": "प्रोटियम, ड्यूटेरियम और ट्रिटियम", "en": "Protium, Deuterium and Tritium"},
+            {"hi": "हीलियम, नियॉन और आर्गन", "en": "Helium, Neon and Argon"},
+            {"hi": "ऑक्सीजन, ओजोन और जल", "en": "Oxygen, Ozone and Water"},
+            {"hi": "कार्बन-12, 13 और 14", "en": "Carbon-12, 13 and 14"}
           ],
-          "answer": {"hi": "सल्फर डाइऑक्साइड", "en": "Sulphur dioxide"}
+          "answer": {"hi": "प्रोटियम, ड्यूटेरियम और ट्रिटियम", "en": "Protium, Deuterium and Tritium"}
         },
         {
           "q": {
-            "hi": "सल्फर और नाइट्रोजन के ऑक्साइड वर्षा जल में घुलकर क्या बनाते हैं?",
-            "en": "What do oxides of sulphur and nitrogen form when dissolved in rain water?"
+            "hi": "घेंघा रोग (Goitre) के इलाज में किस तत्व के समस्थानिक का उपयोग होता है?",
+            "en": "The isotope of which element is used in the treatment of goitre?"
           },
           "options": [
-            {"hi": "शुद्ध जल", "en": "Pure water"},
-            {"hi": "अम्ल वर्षा (Acid Rain)", "en": "Acid Rain"},
-            {"hi": "खारा पानी", "en": "Saline water"},
-            {"hi": "ओस", "en": "Dew"}
+            {"hi": "यूरेनियम", "en": "Uranium"},
+            {"hi": "कोबाल्ट", "en": "Cobalt"},
+            {"hi": "आयोडीन", "en": "Iodine"},
+            {"hi": "कार्बन", "en": "Carbon"}
           ],
-          "answer": {"hi": "अम्ल वर्षा (Acid Rain)", "en": "Acid Rain"}
+          "answer": {"hi": "आयोडीन", "en": "Iodine"}
         },
         {
           "q": {
-            "hi": "अम्ल वर्षा का फसलों और भवनों पर क्या प्रभाव पड़ता है?",
-            "en": "What is the effect of acid rain on crops and buildings?"
+            "hi": "कैंसर के उपचार में किस समस्थानिक का उपयोग किया जाता है?",
+            "en": "Which isotope is used in the treatment of cancer?"
           },
           "options": [
-            {"hi": "वे मजबूत होते हैं", "en": "They become strong"},
-            {"hi": "यह उनके लिए हानिकारक है", "en": "It is harmful to them"},
-            {"hi": "कोई प्रभाव नहीं पड़ता", "en": "No effect"},
-            {"hi": "वे चमकने लगते हैं", "en": "They start shining"}
+            {"hi": "आयोडीन", "en": "Iodine"},
+            {"hi": "कोबाल्ट", "en": "Cobalt"},
+            {"hi": "यूरेनियम", "en": "Uranium"},
+            {"hi": "सोडियम", "en": "Sodium"}
           ],
-          "answer": {"hi": "यह उनके लिए हानिकारक है", "en": "It is harmful to them"}
+          "answer": {"hi": "कोबाल्ट", "en": "Cobalt"}
         },
         {
           "q": {
-            "hi": "पेट्रोल और डीजल के स्थान पर अब सीएनजी (CNG) का उपयोग क्यों किया जा रहा है?",
-            "en": "Why is CNG being used instead of petrol and diesel now?"
+            "hi": "समभारिक (Isobars) किसे कहते हैं?",
+            "en": "What are Isobars?"
           },
           "options": [
-            {"hi": "यह बहुत महँगा है", "en": "It is very expensive"},
-            {"hi": "यह बहुत अधिक प्रदूषण फैलाता है", "en": "It spreads a lot of pollution"},
-            {"hi": "यह एक स्वच्छ ईंधन है और कम प्रदूषण फैलाता है", "en": "It is a cleaner fuel and causes less pollution"},
-            {"hi": "यह केवल बड़ी गाड़ियों के लिए है", "en": "It is only for big vehicles"}
+            {"hi": "समान परमाणु संख्या वाले तत्व", "en": "Elements with same atomic number"},
+            {"hi": "समान द्रव्यमान संख्या लेकिन भिन्न परमाणु संख्या वाले परमाणु", "en": "Atoms with same mass number but different atomic numbers"},
+            {"hi": "समान न्यूट्रॉन संख्या वाले परमाणु", "en": "Atoms with same number of neutrons"},
+            {"hi": "समान इलेक्ट्रॉन संख्या वाले परमाणु", "en": "Atoms with same number of electrons"}
           ],
-          "answer": {"hi": "यह एक स्वच्छ ईंधन है और कम प्रदूषण फैलाता है", "en": "It is a cleaner fuel and causes less pollution"}
+          "answer": {"hi": "समान द्रव्यमान संख्या लेकिन भिन्न परमाणु संख्या वाले परमाणु", "en": "Atoms with same mass number but different atomic numbers"}
         },
         {
           "q": {
-            "hi": "दहन के लिए आवश्यक तीन परिस्थितियाँ क्या हैं?",
-            "en": "What are the three conditions necessary for combustion?"
+            "hi": "परमाणु उदासीन क्यों होता है?",
+            "en": "Why is an atom neutral?"
           },
           "options": [
-            {"hi": "ईंधन, नाइट्रोजन, प्रकाश", "en": "Fuel, Nitrogen, Light"},
-            {"hi": "ईंधन, वायु (ऑक्सीजन), ऊष्मा", "en": "Fuel, Air (Oxygen), Heat"},
-            {"hi": "पानी, मिट्टी, हवा", "en": "Water, Soil, Air"},
-            {"hi": "कागज, कोयला, तेल", "en": "Paper, Coal, Oil"}
+            {"hi": "इसमें केवल न्यूट्रॉन होते हैं", "en": "It contains only neutrons"},
+            {"hi": "इसमें प्रोटॉन और इलेक्ट्रॉन की संख्या बराबर होती है", "en": "It contains equal number of protons and electrons"},
+            {"hi": "इसमें कोई कण नहीं होते", "en": "It contains no particles"},
+            {"hi": "नाभिक के कारण", "en": "Due to the nucleus"}
           ],
-          "answer": {"hi": "ईंधन, वायु (ऑक्सीजन), ऊष्मा", "en": "Fuel, Air (Oxygen), Heat"}
+          "answer": {"hi": "इसमें प्रोटॉन और इलेक्ट्रॉन की संख्या बराबर होती है", "en": "It contains equal number of protons and electrons"}
         },
         {
           "q": {
-            "hi": "आग बुझाने के लिए वायु का प्रवाह काटने हेतु क्या किया जा सकता है?",
-            "en": "What can be done to cut off air supply to extinguish fire?"
+            "hi": "परमाणु के किस कोश (Shell) की ऊर्जा सबसे कम होती है?",
+            "en": "Which shell of an atom has the lowest energy?"
           },
           "options": [
-            {"hi": "पंखे चलाना", "en": "Running fans"},
-            {"hi": "कंबल से ढकना या CO2 का उपयोग", "en": "Covering with blanket or using CO2"},
-            {"hi": "दरवाजे खोलना", "en": "Opening doors"},
-            {"hi": "ईंधन बढ़ाना", "en": "Increasing fuel"}
+            {"hi": "K कोश", "en": "K shell"},
+            {"hi": "L कोश", "en": "L shell"},
+            {"hi": "M कोश", "en": "M shell"},
+            {"hi": "N कोश", "en": "N shell"}
           ],
-          "answer": {"hi": "कंबल से ढकना या CO2 का उपयोग", "en": "Covering with blanket or using CO2"}
+          "answer": {"hi": "K कोश", "en": "K shell"}
         },
         {
           "q": {
-            "hi": "फास्फोरस जैसे पदार्थ कमरे के तापमान पर वायु में क्यों जल उठते हैं?",
-            "en": "Why do substances like phosphorus burn in air at room temperature?"
+            "hi": "क्लोरीन के एक परमाणु में कितने प्रोटॉन होते हैं?",
+            "en": "How many protons are there in an atom of chlorine?"
           },
           "options": [
-            {"hi": "उनका ज्वलन ताप कम होता है", "en": "They have low ignition temperature"},
-            {"hi": "वे ऑक्सीजन के साथ नहीं मिलते", "en": "They don't mix with oxygen"},
-            {"hi": "वे ठंडे होते हैं", "en": "They are cold"},
-            {"hi": "वे पत्थर हैं", "en": "They are stones"}
+            {"hi": "11", "en": "11"},
+            {"hi": "17", "en": "17"},
+            {"hi": "18", "en": "18"},
+            {"hi": "35", "en": "35"}
           ],
-          "answer": {"hi": "उनका ज्वलन ताप कम होता है", "en": "They have low ignition temperature"}
+          "answer": {"hi": "17", "en": "17"}
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "वनोन्मूलन का एक मुख्य कारण लकड़ी का किस रूप में उपयोग है?",
-            "en": "What is one major cause of deforestation related to wood usage?"
+            "hi": "मैग्नीशियम (Mg) की संयोजकता क्या है?",
+            "en": "What is the valency of Magnesium (Mg)?"
           },
           "options": [
-            {"hi": "कागज बनाने में", "en": "Making paper"},
-            {"hi": "ईंधन के रूप में", "en": "As fuel"},
-            {"hi": "घर बनाने में", "en": "Building houses"},
-            {"hi": "सजावट में", "en": "Decoration"}
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "3", "en": "3"},
+            {"hi": "4", "en": "4"}
           ],
-          "answer": {"hi": "ईंधन के रूप में", "en": "As fuel"}
+          "answer": {"hi": "2", "en": "2"}
         },
         {
           "q": {
-            "hi": "लकड़ी की तुलना में एलपीजी का ऊष्मीय मान कैसा होता है?",
-            "en": "How is the calorific value of LPG compared to wood?"
+            "hi": "ऐलुमिनियम (Al) का इलेक्ट्रॉनिक विन्यास क्या है?",
+            "en": "What is the electronic configuration of Aluminium (Al)?"
           },
           "options": [
-            {"hi": "कम", "en": "Lower"},
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "बहुत अधिक", "en": "Much higher"},
-            {"hi": "शून्य", "en": "Zero"}
+            {"hi": "2, 8, 1", "en": "2, 8, 1"},
+            {"hi": "2, 8, 2", "en": "2, 8, 2"},
+            {"hi": "2, 8, 3", "en": "2, 8, 3"},
+            {"hi": "2, 8, 8", "en": "2, 8, 8"}
           ],
-          "answer": {"hi": "बहुत अधिक", "en": "Much higher"}
+          "answer": {"hi": "2, 8, 3", "en": "2, 8, 3"}
         },
         {
           "q": {
-            "hi": "अग्निशामक यंत्र में CO2 किस रूप में भंडारित की जाती है?",
-            "en": "In what form is CO2 stored in fire extinguishers?"
+            "hi": "सोडियम (Na) की संयोजकता 1 क्यों है?",
+            "en": "Why is the valency of Sodium (Na) 1?"
           },
           "options": [
-            {"hi": "गैस के रूप में", "en": "As gas"},
-            {"hi": "उच्च दाब पर द्रव के रूप में", "en": "As liquid at high pressure"},
-            {"hi": "बर्फ के रूप में", "en": "As ice"},
-            {"hi": "पाउडर के रूप में", "en": "As powder"}
+            {"hi": "इसके बाहरी कोश में 7 इलेक्ट्रॉन हैं", "en": "It has 7 electrons in its outer shell"},
+            {"hi": "यह एक इलेक्ट्रॉन खोकर अष्टक पूरा करता है", "en": "It completes its octet by losing one electron"},
+            {"hi": "इसमें 1 प्रोटॉन है", "en": "It has 1 proton"},
+            {"hi": "यह अक्रिय गैस है", "en": "It is an inert gas"}
           ],
-          "answer": {"hi": "उच्च दाब पर द्रव के रूप में", "en": "As liquid at high pressure"}
+          "answer": {"hi": "यह एक इलेक्ट्रॉन खोकर अष्टक पूरा करता है", "en": "It completes its octet by losing one electron"}
         },
         {
           "q": {
-            "hi": "मोमबत्ती की ज्वाला में आंशिक दहन वाला मध्य भाग किस रंग का होता है?",
-            "en": "What color is the middle zone of partial combustion in a candle flame?"
+            "hi": "कार्बन की संयोजकता कितनी होती है?",
+            "en": "What is the valency of carbon?"
           },
           "options": [
-            {"hi": "नीला", "en": "Blue"},
-            {"hi": "पीला", "en": "Yellow"},
-            {"hi": "काला", "en": "Black"},
-            {"hi": "हरा", "en": "Green"}
+            {"hi": "2", "en": "2"},
+            {"hi": "3", "en": "3"},
+            {"hi": "4", "en": "4"},
+            {"hi": "5", "en": "5"}
           ],
-          "answer": {"hi": "पीला", "en": "Yellow"}
+          "answer": {"hi": "4", "en": "4"}
         },
         {
           "q": {
-            "hi": "कौन सी गैस जल से भारी होने के कारण आग को कंबल की तरह लपेट लेती है?",
-            "en": "Which gas, being heavier than air, wraps around fire like a blanket?"
+            "hi": "क्लोरीन का औसत परमाणु द्रव्यमान कितना लिया जाता है?",
+            "en": "What is the average atomic mass of chlorine taken as?"
           },
           "options": [
-            {"hi": "ऑक्सीजन", "en": "Oxygen"},
-            {"hi": "नाइट्रोजन", "en": "Nitrogen"},
-            {"hi": "कार्बन डाइऑक्साइड", "en": "Carbon dioxide"},
-            {"hi": "हीलियम", "en": "Helium"}
+            {"hi": "35 u", "en": "35 u"},
+            {"hi": "37 u", "en": "37 u"},
+            {"hi": "35.5 u", "en": "35.5 u"},
+            {"hi": "36 u", "en": "36 u"}
           ],
-          "answer": {"hi": "कार्बन डाइऑक्साइड", "en": "Carbon dioxide"}
+          "answer": {"hi": "35.5 u", "en": "35.5 u"}
         },
         {
           "q": {
-            "hi": "दहन के समय कौन सा पदार्थ ज्वाला नहीं देता?",
-            "en": "Which substance does not produce a flame during combustion?"
+            "hi": "परमाणु रिएक्टरों में ईंधन के रूप में किसका उपयोग होता है?",
+            "en": "What is used as fuel in nuclear reactors?"
           },
           "options": [
-            {"hi": "मोमबत्ती", "en": "Candle"},
-            {"hi": "मिट्टी का तेल", "en": "Kerosene"},
-            {"hi": "कोयला", "en": "Coal"},
-            {"hi": "कपूर", "en": "Camphor"}
+            {"hi": "कोबाल्ट का समस्थानिक", "en": "Isotope of Cobalt"},
+            {"hi": "आयोडीन का समस्थानिक", "en": "Isotope of Iodine"},
+            {"hi": "यूरेनियम का समस्थानिक", "en": "Isotope of Uranium"},
+            {"hi": "कार्बन का समस्थानिक", "en": "Isotope of Carbon"}
           ],
-          "answer": {"hi": "कोयला", "en": "Coal"}
+          "answer": {"hi": "यूरेनियम का समस्थानिक", "en": "Isotope of Uranium"}
         },
         {
           "q": {
-            "hi": "कोयले की खानों में कभी-कभी भयानक आग क्यों लग जाती है?",
-            "en": "Why do terrible fires sometimes break out in coal mines?"
+            "hi": "अक्रिय गैसों की संयोजकता कितनी होती है?",
+            "en": "What is the valency of inert gases?"
           },
           "options": [
-            {"hi": "बिजली गिरने से", "en": "Due to lightning"},
-            {"hi": "कोयले के धूल के स्वतः दहन से", "en": "Due to spontaneous combustion of coal dust"},
-            {"hi": "मजदूरों की गलती से", "en": "Due to workers' mistake"},
-            {"hi": "सूरज की गर्मी से", "en": "Due to sun's heat"}
+            {"hi": "0", "en": "0"},
+            {"hi": "1", "en": "1"},
+            {"hi": "8", "en": "8"},
+            {"hi": "4", "en": "4"}
           ],
-          "answer": {"hi": "कोयले के धूल के स्वतः दहन से", "en": "Due to spontaneous combustion of coal dust"}
+          "answer": {"hi": "0", "en": "0"}
         },
         {
           "q": {
-            "hi": "ईंधन के अधूरे दहन से निकलने वाले बिना जले कार्बन कणों से कौन सा रोग हो सकता है?",
-            "en": "Which disease can be caused by unburnt carbon particles from incomplete combustion?"
+            "hi": "प्रोटॉन का द्रव्यमान इलेक्ट्रॉन के द्रव्यमान का लगभग कितना गुना होता है?",
+            "en": "The mass of a proton is approximately how many times the mass of an electron?"
           },
           "options": [
-            {"hi": "हैजा", "en": "Cholera"},
-            {"hi": "दमा (अस्थमा)", "en": "Asthma"},
-            {"hi": "टाइफाइड", "en": "Typhoid"},
-            {"hi": "पीलिया", "en": "Jaundice"}
+            {"hi": "100 गुना", "en": "100 times"},
+            {"hi": "500 गुना", "en": "500 times"},
+            {"hi": "1000 गुना", "en": "1000 times"},
+            {"hi": "2000 गुना", "en": "2000 times"}
           ],
-          "answer": {"hi": "दमा (अस्थमा)", "en": "Asthma"}
+          "answer": {"hi": "2000 गुना", "en": "2000 times"}
         },
         {
           "q": {
-            "hi": "ग्लोबल वार्मिंग (Global Warming) से ध्रुवीय हिमनद पिघलने का क्या खतरा है?",
-            "en": "What is the danger of polar glaciers melting due to Global Warming?"
+            "hi": "कैल्सियम (Ca) की परमाणु संख्या क्या है?",
+            "en": "What is the atomic number of Calcium (Ca)?"
           },
           "options": [
-            {"hi": "पीने के पानी की कमी", "en": "Scarcity of drinking water"},
-            {"hi": "समुद्र के जल स्तर में वृद्धि", "en": "Rise in sea level"},
-            {"hi": "अधिक वर्षा", "en": "More rainfall"},
-            {"hi": "तेज हवाएं", "en": "Strong winds"}
+            {"hi": "18", "en": "18"},
+            {"hi": "19", "en": "19"},
+            {"hi": "20", "en": "20"},
+            {"hi": "21", "en": "21"}
           ],
-          "answer": {"hi": "समुद्र के जल स्तर में वृद्धि", "en": "Rise in sea level"}
+          "answer": {"hi": "20", "en": "20"}
         },
         {
           "q": {
-            "hi": "अम्ल वर्षा में कौन से मुख्य अम्ल होते हैं?",
-            "en": "Which are the main acids present in acid rain?"
+            "hi": "ऑक्सीजन की द्रव्यमान संख्या 16 है, इसका क्या अर्थ है?",
+            "en": "The mass number of oxygen is 16, what does this mean?"
           },
           "options": [
-            {"hi": "सिट्रिक और लैक्टिक अम्ल", "en": "Citric and Lactic acids"},
-            {"hi": "सल्फ्यूरिक और नाइट्रिक अम्ल", "en": "Sulphuric and Nitric acids"},
-            {"hi": "एसिटिक अम्ल", "en": "Acetic acid"},
-            {"hi": "हाइड्रोक्लोरिक अम्ल", "en": "Hydrochloric acid"}
+            {"hi": "इसमें 16 प्रोटॉन हैं", "en": "It has 16 protons"},
+            {"hi": "इसमें 16 इलेक्ट्रॉन हैं", "en": "It has 16 electrons"},
+            {"hi": "इसके नाभिक में 8 प्रोटॉन और 8 न्यूट्रॉन हैं", "en": "It has 8 protons and 8 neutrons in its nucleus"},
+            {"hi": "इसमें केवल 16 न्यूट्रॉन हैं", "en": "It has only 16 neutrons"}
           ],
-          "answer": {"hi": "सल्फ्यूरिक और नाइट्रिक अम्ल", "en": "Sulphuric and Nitric acids"}
+          "answer": {"hi": "इसके नाभिक में 8 प्रोटॉन और 8 न्यूट्रॉन हैं", "en": "It has 8 protons and 8 neutrons in its nucleus"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "गैस स्टोव की घुंडी घुमाकर लाइटर जलाने पर गैस का जलना किस दहन का उदाहरण है?",
-            "en": "Turning on a gas stove and lighting it is an example of which combustion?"
+            "hi": "कैनाल रेज़ (Canal Rays) की खोज किसने की थी?",
+            "en": "Who discovered Canal Rays?"
           },
           "options": [
-            {"hi": "मन्द दहन", "en": "Slow combustion"},
-            {"hi": "तीव्र दहन (Rapid combustion)", "en": "Rapid combustion"},
-            {"hi": "स्वत: दहन", "en": "Spontaneous combustion"},
-            {"hi": "धमाका", "en": "Blast"}
+            {"hi": "जे. जे. टॉमसन", "en": "J. J. Thomson"},
+            {"hi": "ई. गोल्डस्टीन", "en": "E. Goldstein"},
+            {"hi": "डाल्टन", "en": "Dalton"},
+            {"hi": "रदरफोर्ड", "en": "Rutherford"}
           ],
-          "answer": {"hi": "तीव्र दहन (Rapid combustion)", "en": "Rapid combustion"}
+          "answer": {"hi": "ई. गोल्डस्टीन", "en": "E. Goldstein"}
         },
         {
           "q": {
-            "hi": "मैग्नीशियम और कोयले में क्या समानता है?",
-            "en": "What is common between magnesium and coal?"
+            "hi": "कैनाल रेज़ पर कौन सा आवेश होता है?",
+            "en": "What charge do Canal Rays carry?"
           },
           "options": [
-            {"hi": "दोनों धातु हैं", "en": "Both are metals"},
-            {"hi": "दोनों दाह्य पदार्थ हैं", "en": "Both are combustible substances"},
-            {"hi": "दोनों तरल हैं", "en": "Both are liquids"},
-            {"hi": "दोनों हवा से भारी हैं", "en": "Both are heavier than air"}
+            {"hi": "ऋण आवेश", "en": "Negative charge"},
+            {"hi": "धन आवेश", "en": "Positive charge"},
+            {"hi": "कोई आवेश नहीं", "en": "No charge"},
+            {"hi": "कभी धन, कभी ऋण", "en": "Sometimes positive, sometimes negative"}
           ],
-          "answer": {"hi": "दोनों दाह्य पदार्थ हैं", "en": "Both are combustible substances"}
+          "answer": {"hi": "धन आवेश", "en": "Positive charge"}
         },
         {
           "q": {
-            "hi": "मोमबत्ती की ज्वाला का मध्य भाग पीला क्यों होता है?",
-            "en": "Why is the middle zone of a candle flame yellow?"
+            "hi": "किसी तत्व के वे परमाणु जिनकी द्रव्यमान संख्या समान लेकिन परमाणु संख्या भिन्न हो, क्या कहलाते हैं?",
+            "en": "Atoms of different elements with same mass number but different atomic numbers are called?"
           },
           "options": [
-            {"hi": "पूर्ण दहन के कारण", "en": "Due to complete combustion"},
-            {"hi": "अपूर्ण दहन के कारण", "en": "Due to incomplete combustion"},
-            {"hi": "बहुत कम तापमान के कारण", "en": "Due to very low temperature"},
-            {"hi": "ईंधन खत्म होने के कारण", "en": "Due to fuel ending"}
+            {"hi": "समस्थानिक", "en": "Isotopes"},
+            {"hi": "समभारिक (Isobars)", "en": "Isobars"},
+            {"hi": "न्यूक्लियॉन्स", "en": "Nucleons"},
+            {"hi": "अक्रिय गैसें", "en": "Inert gases"}
           ],
-          "answer": {"hi": "अपूर्ण दहन के कारण", "en": "Due to incomplete combustion"}
+          "answer": {"hi": "समभारिक (Isobars)", "en": "Isobars"}
         },
         {
           "q": {
-            "hi": "अग्निशामक यंत्र में CO2 प्राप्त करने के लिए किन रसायनों का उपयोग किया जा सकता है?",
-            "en": "Which chemicals can be used to get CO2 in dry powder extinguishers?"
+            "hi": "परमाणु का अधिकांश भाग खाली क्यों होता है?",
+            "en": "Why is most of the space inside an atom empty?"
           },
           "options": [
-            {"hi": "नमक", "en": "Salt"},
-            {"hi": "सोडियम बाइकार्बोनेट या पोटैशियम बाइकार्बोनेट", "en": "Sodium bicarbonate or Potassium bicarbonate"},
-            {"hi": "सल्फर", "en": "Sulphur"},
-            {"hi": "चीनी", "en": "Sugar"}
+            {"hi": "नाभिक बहुत बड़ा होता है", "en": "Nucleus is very large"},
+            {"hi": "इलेक्ट्रॉन बहुत बड़े होते हैं", "en": "Electrons are very large"},
+            {"hi": "अधिकांश अल्फा कण बिना विक्षेपित हुए सोने की पन्नी से निकल गए", "en": "Most alpha particles passed through the gold foil undeflected"},
+            {"hi": "कणाद के सिद्धांत के कारण", "en": "Due to Kanad's theory"}
           ],
-          "answer": {"hi": "सोडियम बाइकार्बोनेट या पोटैशियम बाइकार्बोनेट", "en": "Sodium bicarbonate or Potassium bicarbonate"}
+          "answer": {"hi": "अधिकांश अल्फा कण बिना विक्षेपित हुए सोने की पन्नी से निकल गए", "en": "Most alpha particles passed through the gold foil undeflected"}
         },
         {
           "q": {
-            "hi": "अदृश्य गैस जो आग के चारों ओर ऑक्सीजन की आपूर्ति काट देती है?",
-            "en": "Invisible gas that cuts off oxygen supply around the fire?"
+            "hi": "M कोश के लिए n का मान क्या है?",
+            "en": "What is the value of n for the M shell?"
           },
           "options": [
-            {"hi": "ऑक्सीजन", "en": "Oxygen"},
-            {"hi": "हाइड्रोजन", "en": "Hydrogen"},
-            {"hi": "कार्बन डाइऑक्साइड", "en": "Carbon dioxide"},
-            {"hi": "मिथेन", "en": "Methane"}
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "3", "en": "3"},
+            {"hi": "4", "en": "4"}
           ],
-          "answer": {"hi": "कार्बन डाइऑक्साइड", "en": "Carbon dioxide"}
+          "answer": {"hi": "3", "en": "3"}
         },
         {
           "q": {
-            "hi": "जब हम मोमबत्ती बुझाते हैं, तो निकलने वाला सफेद धुआँ क्या है?",
-            "en": "What is the white smoke released when we blow out a candle?"
+            "hi": "संयोजकता क्या निर्धारित करती है?",
+            "en": "What does valency determine?"
           },
           "options": [
-            {"hi": "भाप", "en": "Steam"},
-            {"hi": "मोम के वाष्प", "en": "Wax vapors"},
-            {"hi": "ऑक्सीजन", "en": "Oxygen"},
-            {"hi": "कार्बन", "en": "Carbon"}
+            {"hi": "परमाणु का रंग", "en": "Color of the atom"},
+            {"hi": "तत्व की संयोजन क्षमता", "en": "Combining capacity of the element"},
+            {"hi": "परमाणु का भार", "en": "Weight of the atom"},
+            {"hi": "नाभिक का आकार", "en": "Size of the nucleus"}
           ],
-          "answer": {"hi": "मोम के वाष्प", "en": "Wax vapors"}
+          "answer": {"hi": "तत्व की संयोजन क्षमता", "en": "Combining capacity of the element"}
         },
         {
           "q": {
-            "hi": "दहन के लिए वायु की आवश्यकता को दर्शाने हेतु किस प्रयोग का उल्लेख है?",
-            "en": "Which experiment is mentioned to show air is necessary for combustion?"
+            "hi": "ड्यूटेरियम (D) में कितने न्यूट्रॉन होते हैं?",
+            "en": "How many neutrons are in Deuterium (D)?"
           },
           "options": [
-            {"hi": "पानी उबालना", "en": "Boiling water"},
-            {"hi": "मोमबत्ती को चिमनी से ढंकना", "en": "Covering a candle with a chimney"},
-            {"hi": "कागज जलाना", "en": "Burning paper"},
-            {"hi": "मैग्नीशियम जलाना", "en": "Burning magnesium"}
+            {"hi": "0", "en": "0"},
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "3", "en": "3"}
           ],
-          "answer": {"hi": "मोमबत्ती को चिमनी से ढंकना", "en": "Covering a candle with a chimney"}
+          "answer": {"hi": "1", "en": "1"}
         },
         {
           "q": {
-            "hi": "मिट्टी के तेल का ज्वलन ताप लकड़ी से कैसा होता है?",
-            "en": "How is the ignition temperature of kerosene compared to wood?"
+            "hi": "आर्गन (Ar) और कैल्सियम (Ca) आपस में क्या हैं?",
+            "en": "What are Argon (Ar) and Calcium (Ca) to each other?"
           },
           "options": [
-            {"hi": "कम", "en": "Lower"},
-            {"hi": "अधिक", "en": "Higher"},
-            {"hi": "समान", "en": "Equal"},
-            {"hi": "बहुत अधिक", "en": "Very high"}
+            {"hi": "समस्थानिक", "en": "Isotopes"},
+            {"hi": "समभारिक (Isobars)", "en": "Isobars"},
+            {"hi": "न्यूक्लियॉन्स", "en": "Nucleons"},
+            {"hi": "उदासीन परमाणु", "en": "Neutral atoms"}
           ],
-          "answer": {"hi": "कम", "en": "Lower"}
+          "answer": {"hi": "समभारिक (Isobars)", "en": "Isobars"}
         },
         {
           "q": {
-            "hi": "दहन में ऊष्मा के साथ-साथ क्या उत्पन्न हो सकता है?",
-            "en": "What can be produced along with heat in combustion?"
+            "hi": "फ्लोरीन (F) का इलेक्ट्रॉनिक विन्यास क्या है?",
+            "en": "What is the electronic configuration of Fluorine (F)?"
           },
           "options": [
-            {"hi": "केवल जल", "en": "Only water"},
-            {"hi": "केवल प्रकाश", "en": "Only light"},
-            {"hi": "प्रकाश और कभी-कभी ध्वनि", "en": "Light and sometimes sound"},
-            {"hi": "केवल धुआँ", "en": "Only smoke"}
+            {"hi": "2, 8", "en": "2, 8"},
+            {"hi": "2, 7", "en": "2, 7"},
+            {"hi": "2, 8, 1", "en": "2, 8, 1"},
+            {"hi": "7, 2", "en": "2, 7"}
           ],
-          "answer": {"hi": "प्रकाश और कभी-कभी ध्वनि", "en": "Light and sometimes sound"}
+          "answer": {"hi": "2, 7", "en": "2, 7"}
         },
         {
           "q": {
-            "hi": "अग्निशामक यंत्र में लाल रंग का उपयोग क्यों किया जाता है?",
-            "en": "Why is red color used for fire extinguishers?"
+            "hi": "एक तत्व की परमाणु संख्या 13 है, इसकी संयोजकता क्या होगी?",
+            "en": "An element has atomic number 13, what will be its valency?"
           },
           "options": [
-            {"hi": "सुंदरता के लिए", "en": "For beauty"},
-            {"hi": "खतरे की पहचान और सरलता से दिखने के लिए", "en": "For danger identification and easy visibility"},
-            {"hi": "सस्ता होने के कारण", "en": "Because it's cheap"},
-            {"hi": "तापमान कम रखने के लिए", "en": "To keep temperature low"}
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "3", "en": "3"},
+            {"hi": "5", "en": "3"}
           ],
-          "answer": {"hi": "खतरे की पहचान और सरलता से दिखने के लिए", "en": "For danger identification and easy visibility"}
+          "answer": {"hi": "3", "en": "3"}
         }
       ]
     },
