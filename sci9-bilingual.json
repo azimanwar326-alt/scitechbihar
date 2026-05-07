@@ -5301,661 +5301,661 @@
       "section1": [
         {
           "q": {
-            "hi": "दो पृष्ठों के बीच सापेक्ष गति का विरोध करने वाले बल को क्या कहते हैं?",
-            "en": "What is the force that opposes the relative motion between two surfaces called?"
+            "hi": "किसी वस्तु को खींचना, धकेलना या ठोकर लगाना क्या कहलाता है?",
+            "en": "What is pushing, pulling, or hitting an object called?"
           },
           "options": [
-            {"hi": "पेशीय बल", "en": "Muscular force"},
-            {"hi": "घर्षण बल", "en": "Frictional force"},
-            {"hi": "चुम्बकीय बल", "en": "Magnetic force"},
+            {"hi": "वेग", "en": "Velocity"},
+            {"hi": "त्वरण", "en": "Acceleration"},
+            {"hi": "बल (Force)", "en": "Force"},
+            {"hi": "कार्य", "en": "Work"}
+          ],
+          "answer": {"hi": "बल (Force)", "en": "Force"}
+        },
+        {
+          "q": {
+            "hi": "यदि किसी वस्तु पर लगने वाले बलों का परिणामी बल शून्य हो, तो उन्हें क्या कहते हैं?",
+            "en": "If the resultant of all forces acting on an object is zero, what are they called?"
+          },
+          "options": [
+            {"hi": "असंतुलित बल", "en": "Unbalanced forces"},
+            {"hi": "संतुलित बल (Balanced forces)", "en": "Balanced forces"},
+            {"hi": "घर्षण बल", "en": "Friction force"},
             {"hi": "गुरुत्व बल", "en": "Gravitational force"}
           ],
-          "answer": {"hi": "घर्षण बल", "en": "Frictional force"}
+          "answer": {"hi": "संतुलित बल (Balanced forces)", "en": "Balanced forces"}
         },
         {
           "q": {
-            "hi": "घर्षण बल किस पर निर्भर करता है?",
-            "en": "Frictional force depends on what?"
+            "hi": "किसी वस्तु की गति की अवस्था में परिवर्तन लाने के लिए किस प्रकार के बल की आवश्यकता होती है?",
+            "en": "What kind of force is required to change the state of motion of an object?"
           },
           "options": [
-            {"hi": "केवल वस्तु के रंग पर", "en": "Only on the color of the object"},
-            {"hi": "संपर्क के पृष्ठों की प्रकृति पर", "en": "On the nature of the surfaces in contact"},
-            {"hi": "वस्तु के आयतन पर", "en": "On the volume of the object"},
-            {"hi": "हवा के तापमान पर", "en": "On the air temperature"}
+            {"hi": "संतुलित बल", "en": "Balanced force"},
+            {"hi": "असंतुलित बल (Unbalanced force)", "en": "Unbalanced force"},
+            {"hi": "स्थिर बल", "en": "Static force"},
+            {"hi": "शून्य बल", "en": "Zero force"}
           ],
-          "answer": {"hi": "संपर्क के पृष्ठों की प्रकृति पर", "en": "On the nature of the surfaces in contact"}
+          "answer": {"hi": "असंतुलित बल (Unbalanced force)", "en": "Unbalanced force"}
         },
         {
           "q": {
-            "hi": "घर्षण का मुख्य कारण क्या है?",
-            "en": "What is the main cause of friction?"
+            "hi": "घर्षण बल हमेशा वस्तु की गति की दिशा के ______ कार्य करता है।",
+            "en": "Frictional force always acts ______ to the direction of motion of the object."
           },
           "options": [
-            {"hi": "पृष्ठों की चिकनाई", "en": "Smoothness of surfaces"},
-            {"hi": "पृष्ठों की अनियमितताओं का अंतःपाशन (Interlocking)", "en": "Interlocking of irregularities of surfaces"},
-            {"hi": "वस्तु का वेग", "en": "Velocity of the object"},
-            {"hi": "प्रकाश की उपस्थिति", "en": "Presence of light"}
+            {"hi": "समान", "en": "Same"},
+            {"hi": "विपरीत (Opposite)", "en": "Opposite"},
+            {"hi": "लंबवत", "en": "Perpendicular"},
+            {"hi": "ऊपर की ओर", "en": "Upwards"}
           ],
-          "answer": {"hi": "पृष्ठों की अनियमितताओं का अंतःपाशन (Interlocking)", "en": "Interlocking of irregularities of surfaces"}
+          "answer": {"hi": "विपरीत (Opposite)", "en": "Opposite"}
         },
         {
           "q": {
-            "hi": "किसी रुकी हुई वस्तु को विराम से गति प्रारंभ करने की स्थिति में घर्षण पर पार पाने के लिए आवश्यक बल किसकी माप है?",
-            "en": "The force required to overcome friction at the instant an object starts moving from rest is a measure of?"
+            "hi": "न्यूटन के गति का प्रथम नियम और किस नाम से जाना जाता है?",
+            "en": "By what other name is Newton's first law of motion known?"
           },
           "options": [
-            {"hi": "सर्पी घर्षण", "en": "Sliding friction"},
-            {"hi": "स्थैतिक घर्षण (Static Friction)", "en": "Static friction"},
-            {"hi": "लोटनिक घर्षण", "en": "Rolling friction"},
-            {"hi": "तरल घर्षण", "en": "Fluid friction"}
+            {"hi": "संवेग का नियम", "en": "Law of momentum"},
+            {"hi": "जड़त्व का नियम (Law of Inertia)", "en": "Law of Inertia"},
+            {"hi": "गुरुत्वाकर्षण का नियम", "en": "Law of gravitation"},
+            {"hi": "क्रिया-प्रतिक्रिया का नियम", "en": "Law of action-reaction"}
           ],
-          "answer": {"hi": "स्थैतिक घर्षण (Static Friction)", "en": "Static friction"}
+          "answer": {"hi": "जड़त्व का नियम (Law of Inertia)", "en": "Law of Inertia"}
         },
         {
           "q": {
-            "hi": "जब एक वस्तु दूसरी वस्तु के पृष्ठ पर सरकना प्रारंभ कर देती है, तो लगने वाला बल क्या कहलाता है?",
-            "en": "When one object starts sliding over the surface of another, what is the force called?"
+            "hi": "वस्तुओं द्वारा अपनी गति की अवस्था में परिवर्तन का विरोध करने की प्रवृत्ति क्या कहलाती है?",
+            "en": "The tendency of objects to resist any change in their state of motion is called?"
           },
           "options": [
-            {"hi": "स्थैतिक घर्षण", "en": "Static friction"},
-            {"hi": "सर्पी घर्षण (Sliding Friction)", "en": "Sliding friction"},
-            {"hi": "लोटनिक घर्षण", "en": "Rolling friction"},
-            {"hi": "वायु दाब", "en": "Air pressure"}
+            {"hi": "बल", "en": "Force"},
+            {"hi": "वेग", "en": "Velocity"},
+            {"hi": "जड़त्व (Inertia)", "en": "Inertia"},
+            {"hi": "संवेग", "en": "Momentum"}
           ],
-          "answer": {"hi": "सर्पी घर्षण (Sliding Friction)", "en": "Sliding friction"}
+          "answer": {"hi": "जड़त्व (Inertia)", "en": "Inertia"}
         },
         {
           "q": {
-            "hi": "सर्पी घर्षण का मान स्थैतिक घर्षण से कैसा होता है?",
-            "en": "How does sliding friction compare to static friction?"
+            "hi": "किसी वस्तु का जड़त्व किस पर निर्भर करता है?",
+            "en": "On what does the inertia of an object depend?"
           },
           "options": [
-            {"hi": "अधिक", "en": "Higher"},
-            {"hi": "कम (Less)", "en": "Less"},
-            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "वेग पर", "en": "Velocity"},
+            {"hi": "द्रव्यमान पर (Mass)", "en": "Mass"},
+            {"hi": "आकार पर", "en": "Shape"},
+            {"hi": "रंग पर", "en": "Color"}
+          ],
+          "answer": {"hi": "द्रव्यमान पर (Mass)", "en": "Mass"}
+        },
+        {
+          "q": {
+            "hi": "बस के अचानक चलने पर यात्री पीछे की ओर क्यों झुक जाते हैं?",
+            "en": "Why do passengers lean backward when a bus starts suddenly?"
+          },
+          "options": [
+            {"hi": "घर्षण के कारण", "en": "Due to friction"},
+            {"hi": "विराम के जड़त्व के कारण (Due to inertia of rest)", "en": "Due to inertia of rest"},
+            {"hi": "गति के जड़त्व के कारण", "en": "Due to inertia of motion"},
+            {"hi": "गुरुत्वाकर्षण के कारण", "en": "Due to gravity"}
+          ],
+          "answer": {"hi": "विराम के जड़त्व के कारण (Due to inertia of rest)", "en": "Due to inertia of rest"}
+        },
+        {
+          "q": {
+            "hi": "चलती हुई कार के अचानक रुकने पर यात्री आगे की ओर क्यों झुकते हैं?",
+            "en": "Why do passengers lean forward when a moving car stops suddenly?"
+          },
+          "options": [
+            {"hi": "विराम के जड़त्व के कारण", "en": "Due to inertia of rest"},
+            {"hi": "गति के जड़त्व के कारण (Due to inertia of motion)", "en": "Due to inertia of motion"},
+            {"hi": "हवा के दबाव के कारण", "en": "Due to air pressure"},
+            {"hi": "बल के कारण", "en": "Due to force"}
+          ],
+          "answer": {"hi": "गति के जड़त्व के कारण (Due to inertia of motion)", "en": "Due to inertia of motion"}
+        },
+        {
+          "q": {
+            "hi": "भारी वस्तु का जड़त्व हल्की वस्तु की तुलना में कैसा होता है?",
+            "en": "How is the inertia of a heavy object compared to a light object?"
+          },
+          "options": [
+            {"hi": "कम", "en": "Less"},
+            {"hi": "समान", "en": "Same"},
+            {"hi": "अधिक (More)", "en": "More"},
             {"hi": "शून्य", "en": "Zero"}
           ],
-          "answer": {"hi": "कम (Less)", "en": "Less"}
-        },
-        {
-          "q": {
-            "hi": "घर्षण हानिकारक है क्योंकि यह:",
-            "en": "Friction is harmful because it:"
-          },
-          "options": [
-            {"hi": "ऊर्जा बढ़ाता है", "en": "Increases energy"},
-            {"hi": "मशीनों के पुर्जों को घिसा देता है", "en": "Wears out machine parts"},
-            {"hi": "वस्तु को ठंडा रखता है", "en": "Keeps object cool"},
-            {"hi": "गति तेज़ करता है", "en": "Increases speed"}
-          ],
-          "answer": {"hi": "मशीनों के पुर्जों को घिसा देता है", "en": "Wears out machine parts"}
-        },
-        {
-          "q": {
-            "hi": "घर्षण से क्या उत्पन्न होती है?",
-            "en": "What is produced by friction?"
-          },
-          "options": [
-            {"hi": "ऊष्मा (Heat)", "en": "Heat"},
-            {"hi": "ठंडक", "en": "Coldness"},
-            {"hi": "पानी", "en": "Water"},
-            {"hi": "गैस", "en": "Gas"}
-          ],
-          "answer": {"hi": "ऊष्मा (Heat)", "en": "Heat"}
-        },
-        {
-          "q": {
-            "hi": "जूतों की तलियाँ और टायरों को खाँचेदार क्यों बनाया जाता है?",
-            "en": "Why are the soles of shoes and tires treaded?"
-          },
-          "options": [
-            {"hi": "डिज़ाइन के लिए", "en": "For design"},
-            {"hi": "वजन कम करने के लिए", "en": "To reduce weight"},
-            {"hi": "पकड़ (घर्षण) बढ़ाने के लिए", "en": "To increase grip (friction)"},
-            {"hi": "सस्ता बनाने के लिए", "en": "To make it cheap"}
-          ],
-          "answer": {"hi": "पकड़ (घर्षण) बढ़ाने के लिए", "en": "To increase grip (friction)"}
-        },
-        {
-          "q": {
-            "hi": "मशीनों में घर्षण कम करने के लिए किन पदार्थों का उपयोग किया जाता है?",
-            "en": "Which substances are used to reduce friction in machines?"
-          },
-          "options": [
-            {"hi": "रेत", "en": "Sand"},
-            {"hi": "स्नेहक (Lubricants)", "en": "Lubricants"},
-            {"hi": "मिट्टी", "en": "Soil"},
-            {"hi": "पानी", "en": "Water"}
-          ],
-          "answer": {"hi": "स्नेहक (Lubricants)", "en": "Lubricants"}
+          "answer": {"hi": "अधिक (More)", "en": "More"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "कैरम बोर्ड पर पाउडर छिड़कने से क्या होता है?",
-            "en": "What happens when powder is sprinkled on a carrom board?"
+            "hi": "किसी वस्तु के द्रव्यमान और वेग के गुणनफल को क्या कहते हैं?",
+            "en": "What is the product of mass and velocity of an object called?"
           },
           "options": [
-            {"hi": "घर्षण बढ़ जाता है", "en": "Friction increases"},
-            {"hi": "घर्षण कम हो जाता है", "en": "Friction reduces"},
-            {"hi": "बोर्ड भारी हो जाता है", "en": "Board becomes heavy"},
-            {"hi": "गोटियाँ चिपक जाती हैं", "en": "Coins stick"}
+            {"hi": "बल", "en": "Force"},
+            {"hi": "संवेग (Momentum)", "en": "Momentum"},
+            {"hi": "त्वरण", "en": "Acceleration"},
+            {"hi": "जड़त्व", "en": "Inertia"}
           ],
-          "answer": {"hi": "घर्षण कम हो जाता है", "en": "Friction reduces"}
+          "answer": {"hi": "संवेग (Momentum)", "en": "Momentum"}
         },
         {
           "q": {
-            "hi": "जब एक वस्तु दूसरी वस्तु पर लोटन (Roll) करती है, तो उसे क्या कहते हैं?",
-            "en": "When an object rolls over the surface of another, what is it called?"
+            "hi": "संवेग (Momentum) का SI मात्रक क्या है?",
+            "en": "What is the SI unit of momentum?"
           },
           "options": [
-            {"hi": "सर्पी घर्षण", "en": "Sliding friction"},
-            {"hi": "स्थैतिक घर्षण", "en": "Static friction"},
-            {"hi": "लोटनिक घर्षण (Rolling Friction)", "en": "Rolling friction"},
-            {"hi": "वायु प्रतिरोध", "en": "Air resistance"}
+            {"hi": "kg m/s²", "en": "kg m/s²"},
+            {"hi": "kg m/s", "en": "kg m/s"},
+            {"hi": "Newton", "en": "Newton"},
+            {"hi": "m/s²", "en": "m/s²"}
           ],
-          "answer": {"hi": "लोटनिक घर्षण (Rolling Friction)", "en": "Rolling friction"}
+          "answer": {"hi": "kg m/s", "en": "kg m/s"}
         },
         {
           "q": {
-            "hi": "लोटनिक घर्षण का मान सर्पी घर्षण से कैसा होता है?",
-            "en": "How does rolling friction compare to sliding friction?"
+            "hi": "न्यूटन का द्वितीय नियम क्या बताता है?",
+            "en": "What does Newton's second law state?"
           },
           "options": [
-            {"hi": "अधिक", "en": "Higher"},
-            {"hi": "बहुत कम (Very less)", "en": "Very less"},
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "असीमित", "en": "Infinite"}
+            {"hi": "जड़त्व के बारे में", "en": "About inertia"},
+            {"hi": "संवेग परिवर्तन की दर लगाए गए बल के समानुपाती होती है", "en": "Rate of change of momentum is proportional to the applied force"},
+            {"hi": "क्रिया और प्रतिक्रिया बराबर होती हैं", "en": "Action and reaction are equal"},
+            {"hi": "ऊर्जा संरक्षण के बारे में", "en": "About conservation of energy"}
           ],
-          "answer": {"hi": "बहुत कम (Very less)", "en": "Very less"}
+          "answer": {"hi": "संवेग परिवर्तन की दर लगाए गए बल के समानुपाती होती है", "en": "Rate of change of momentum is proportional to the applied force"}
         },
         {
           "q": {
-            "hi": "मशीनों के धुरों में बॉल बेयरिंग का उपयोग क्यों किया जाता है?",
-            "en": "Why are ball bearings used in the axles of machines?"
+            "hi": "बल (F), द्रव्यमान (m) और त्वरण (a) के बीच क्या संबंध है?",
+            "en": "What is the relationship between force (F), mass (m), and acceleration (a)?"
           },
           "options": [
-            {"hi": "चमक बढ़ाने के लिए", "en": "To increase shine"},
-            {"hi": "सर्पी घर्षण को लोटनिक घर्षण में बदलने के लिए", "en": "To replace sliding friction with rolling friction"},
-            {"hi": "मशीन का वजन बढ़ाने के लिए", "en": "To increase machine weight"},
-            {"hi": "बिजली बचाने के लिए", "en": "To save electricity"}
+            {"hi": "F = m/a", "en": "F = m/a"},
+            {"hi": "F = m × a", "en": "F = m × a"},
+            {"hi": "F = a/m", "en": "F = a/m"},
+            {"hi": "F = m + a", "en": "F = m + a"}
           ],
-          "answer": {"hi": "सर्पी घर्षण को लोटनिक घर्षण में बदलने के लिए", "en": "To replace sliding friction with rolling friction"}
+          "answer": {"hi": "F = m × a", "en": "F = m × a"}
         },
         {
           "q": {
-            "hi": "तरलों (गैसों और द्रवों) द्वारा लगाए गए घर्षण बल को क्या कहते हैं?",
-            "en": "What is the frictional force exerted by fluids (gases and liquids) called?"
+            "hi": "बल का SI मात्रक क्या है?",
+            "en": "What is the SI unit of force?"
           },
           "options": [
-            {"hi": "कर्षण (Drag)", "en": "Drag"},
-            {"hi": "धक्का", "en": "Push"},
-            {"hi": "भार", "en": "Weight"},
-            {"hi": "स्थैतिक", "en": "Static"}
+            {"hi": "मीटर/सेकंड", "en": "m/s"},
+            {"hi": "न्यूटन (Newton)", "en": "Newton"},
+            {"hi": "जूल", "en": "Joule"},
+            {"hi": "वाट", "en": "Watt"}
           ],
-          "answer": {"hi": "कर्षण (Drag)", "en": "Drag"}
+          "answer": {"hi": "न्यूटन (Newton)", "en": "Newton"}
         },
         {
           "q": {
-            "hi": "तरल घर्षण किस पर निर्भर करता है?",
-            "en": "Fluid friction depends on what?"
+            "hi": "1 न्यूटन बल किसके बराबर होता है?",
+            "en": "1 Newton force is equal to?"
           },
           "options": [
-            {"hi": "वस्तु की आकृति पर", "en": "On the shape of the object"},
-            {"hi": "तरल की प्रकृति पर", "en": "On the nature of the fluid"},
-            {"hi": "वस्तु की चाल पर", "en": "On the speed of the object"},
-            {"hi": "उपरोक्त सभी", "en": "All of the above"}
+            {"hi": "1 kg m/s", "en": "1 kg m/s"},
+            {"hi": "1 kg m/s²", "en": "1 kg m/s²"},
+            {"hi": "1 g m/s²", "en": "1 g m/s²"},
+            {"hi": "1 kg/s", "en": "1 kg/s"}
           ],
-          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
+          "answer": {"hi": "1 kg m/s²", "en": "1 kg m/s²"}
         },
         {
           "q": {
-            "hi": "हवाई जहाज़ों की आकृति पक्षियों के समान क्यों बनाई जाती है?",
-            "en": "Why is the shape of airplanes made similar to birds?"
+            "hi": "क्रिकेट खिलाड़ी गेंद को लपकते समय अपने हाथों को पीछे की ओर क्यों खींचता है?",
+            "en": "Why does a cricket player pull his hands backward while catching a ball?"
           },
           "options": [
-            {"hi": "सुंदर दिखने के लिए", "en": "To look beautiful"},
-            {"hi": "वायु के तरल घर्षण (कर्षण) को कम करने के लिए", "en": "To reduce the fluid friction (drag) of air"},
-            {"hi": "पक्षी उड़ने से डराने के लिए", "en": "To scare birds away"},
-            {"hi": "भारी बनाने के लिए", "en": "To make it heavy"}
+            {"hi": "बल बढ़ाने के लिए", "en": "To increase force"},
+            {"hi": "संवेग परिवर्तन के समय को बढ़ाने के लिए ताकि बल कम लगे", "en": "To increase time of change of momentum to reduce force"},
+            {"hi": "गेंद को डराने के लिए", "en": "To scare the ball"},
+            {"hi": "हाथों को मजबूत करने के लिए", "en": "To strengthen hands"}
           ],
-          "answer": {"hi": "वायु के तरल घर्षण (कर्षण) को कम करने के लिए", "en": "To reduce the fluid friction (drag) of air"}
+          "answer": {"hi": "संवेग परिवर्तन के समय को बढ़ाने के लिए ताकि बल कम लगे", "en": "To increase time of change of momentum to reduce force"}
         },
         {
           "q": {
-            "hi": "चिकने पृष्ठ पर चलना क्यों कठिन होता है?",
-            "en": "Why is it difficult to walk on a smooth surface?"
+            "hi": "किसी वस्तु का द्रव्यमान 2 kg है और त्वरण 5 m/s² है, तो बल कितना होगा?",
+            "en": "An object has a mass of 2 kg and acceleration of 5 m/s², what is the force?"
           },
           "options": [
-            {"hi": "घर्षण बहुत अधिक होता है", "en": "Friction is very high"},
-            {"hi": "घर्षण बहुत कम होता है", "en": "Friction is very low"},
-            {"hi": "हवा का दबाव अधिक होता है", "en": "Air pressure is high"},
-            {"hi": "सतह गर्म होती है", "en": "Surface is hot"}
+            {"hi": "7 N", "en": "7 N"},
+            {"hi": "3 N", "en": "3 N"},
+            {"hi": "10 N", "en": "10 N"},
+            {"hi": "2.5 N", "en": "2.5 N"}
           ],
-          "answer": {"hi": "घर्षण बहुत कम होता है", "en": "Friction is very low"}
+          "answer": {"hi": "10 N", "en": "10 N"}
         },
         {
           "q": {
-            "hi": "घर्षण को कम करने वाले पदार्थों को क्या कहते हैं?",
-            "en": "What are the substances that reduce friction called?"
+            "hi": "संवेग (Momentum) कैसी राशि है?",
+            "en": "What type of quantity is momentum?"
           },
           "options": [
-            {"hi": "घर्षक", "en": "Abrasives"},
-            {"hi": "स्नेहक (Lubricants)", "en": "Lubricants"},
-            {"hi": "ईंधन", "en": "Fuel"},
-            {"hi": "चालक", "en": "Conductor"}
+            {"hi": "अदिश राशि", "en": "Scalar quantity"},
+            {"hi": "सदिश राशि (Vector quantity)", "en": "Vector quantity"},
+            {"hi": "शून्य राशि", "en": "Zero quantity"},
+            {"hi": "केवल परिमाण वाली", "en": "Only magnitude"}
           ],
-          "answer": {"hi": "स्नेहक (Lubricants)", "en": "Lubricants"}
+          "answer": {"hi": "सदिश राशि (Vector quantity)", "en": "Vector quantity"}
         },
         {
           "q": {
-            "hi": "यदि हम घर्षण को शून्य कर दें, तो क्या होगा?",
-            "en": "What will happen if we make friction zero?"
+            "hi": "यदि वस्तु स्थिर है (v=0), तो उसका संवेग क्या होगा?",
+            "en": "If an object is at rest (v=0), what will be its momentum?"
           },
           "options": [
-            {"hi": "हम लिख नहीं पाएँगे", "en": "We won't be able to write"},
-            {"hi": "वाहन रुक नहीं पाएँगे", "en": "Vehicles won't be able to stop"},
-            {"hi": "कोई इमारत नहीं बन पाएगी", "en": "No building can be constructed"},
-            {"hi": "उपरोक्त सभी", "en": "All of the above"}
+            {"hi": "अनंत", "en": "Infinite"},
+            {"hi": "शून्य (Zero)", "en": "Zero"},
+            {"hi": "द्रव्यमान के बराबर", "en": "Equal to mass"},
+            {"hi": "स्थिर", "en": "Constant"}
           ],
-          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
+          "answer": {"hi": "शून्य (Zero)", "en": "Zero"}
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "स्प्रिंग तुला (Spring Balance) का उपयोग क्या मापने के लिए किया जाता है?",
-            "en": "What is a Spring Balance used to measure?"
+            "hi": "न्यूटन के गति का तृतीय नियम क्या है?",
+            "en": "What is Newton's third law of motion?"
           },
           "options": [
-            {"hi": "तापमान", "en": "Temperature"},
-            {"hi": "किसी वस्तु पर लगने वाला बल", "en": "Force acting on an object"},
-            {"hi": "तरल की शुद्धता", "en": "Purity of fluid"},
-            {"hi": "वायु की गति", "en": "Air speed"}
+            {"hi": "जड़त्व का नियम", "en": "Law of inertia"},
+            {"hi": "प्रत्येक क्रिया के बराबर और विपरीत प्रतिक्रिया होती है", "en": "To every action, there is an equal and opposite reaction"},
+            {"hi": "F = ma", "en": "F = ma"},
+            {"hi": "द्रव्यमान संरक्षण", "en": "Conservation of mass"}
           ],
-          "answer": {"hi": "किसी वस्तु पर लगने वाला बल", "en": "Force acting on an object"}
+          "answer": {"hi": "प्रत्येक क्रिया के बराबर और विपरीत प्रतिक्रिया होती है", "en": "To every action, there is an equal and opposite reaction"}
         },
         {
           "q": {
-            "hi": "माचिस की तीली को खुरदरी सतह पर रगड़ने से क्या उत्पन्न होता है?",
-            "en": "What is produced by rubbing a matchstick on a rough surface?"
+            "hi": "बंदूक से गोली दागने पर बंदूक पीछे की ओर क्यों झटका देती है?",
+            "en": "Why does a gun recoil when a bullet is fired?"
           },
           "options": [
-            {"hi": "पानी", "en": "Water"},
-            {"hi": "ऊष्मा के कारण आग", "en": "Fire due to heat"},
-            {"hi": "ठंडक", "en": "Coldness"},
-            {"hi": "चुम्बकत्व", "en": "Magnetism"}
+            {"hi": "प्रथम नियम के कारण", "en": "Due to 1st law"},
+            {"hi": "द्वितीय नियम के कारण", "en": "Due to 2nd law"},
+            {"hi": "तृतीय नियम के कारण (Due to 3rd law)", "en": "Due to 3rd law"},
+            {"hi": "हवा के दबाव के कारण", "en": "Due to air pressure"}
           ],
-          "answer": {"hi": "ऊष्मा के कारण आग", "en": "Fire due to heat"}
+          "answer": {"hi": "तृतीय नियम के कारण (Due to 3rd law)", "en": "Due to 3rd law"}
         },
         {
           "q": {
-            "hi": "घर्षण बल हमेशा लगाए गए बल का क्या करता है?",
-            "en": "Frictional force always does what to the applied force?"
+            "hi": "नाव से आगे कूदने पर नाव पीछे की ओर क्यों हटती है?",
+            "en": "Why does a boat move backward when you jump forward from it?"
           },
           "options": [
-            {"hi": "सहयोग", "en": "Supports"},
-            {"hi": "विरोध (Opposes)", "en": "Opposes"},
-            {"hi": "गुणन", "en": "Multiplies"},
-            {"hi": "शून्य", "en": "Zeroes"}
+            {"hi": "जड़त्व के कारण", "en": "Due to inertia"},
+            {"hi": "क्रिया-प्रतिक्रिया बल के कारण (Due to action-reaction force)", "en": "Due to action-reaction force"},
+            {"hi": "घर्षण के कारण", "en": "Due to friction"},
+            {"hi": "संवेग के कारण", "en": "Due to momentum"}
           ],
-          "answer": {"hi": "विरोध (Opposes)", "en": "Opposes"}
+          "answer": {"hi": "क्रिया-प्रतिक्रिया बल के कारण (Due to action-reaction force)", "en": "Due to action-reaction force"}
         },
         {
           "q": {
-            "hi": "घर्षण किस पर निर्भर करता है?",
-            "en": "Friction depends on?"
+            "hi": "संवेग संरक्षण के नियम के अनुसार, टक्कर से पहले और टक्कर के बाद कुल संवेग ______ रहता है।",
+            "en": "According to the law of conservation of momentum, total momentum before and after collision remains ______."
           },
           "options": [
-            {"hi": "वस्तु के द्रव्यमान पर", "en": "Mass of the object"},
-            {"hi": "पृष्ठों के परस्पर दबाने के बल पर", "en": "The force with which surfaces press together"},
-            {"hi": "पृष्ठों की चिकनाहट पर", "en": "Smoothness of surfaces"},
-            {"hi": "उपरोक्त सभी", "en": "All of the above"}
+            {"hi": "बढ़ जाता है", "en": "Increases"},
+            {"hi": "घट जाता है", "en": "Decreases"},
+            {"hi": "संरक्षित/अपरिवर्तित (Conserved)", "en": "Conserved"},
+            {"hi": "शून्य", "en": "Zero"}
           ],
-          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
+          "answer": {"hi": "संरक्षित/अपरिवर्तित (Conserved)", "en": "Conserved"}
         },
         {
           "q": {
-            "hi": "कबड्डी के खिलाड़ी अपने हाथों पर मिट्टी क्यों रगड़ते हैं?",
-            "en": "Why do Kabaddi players rub soil on their hands?"
+            "hi": "रॉकेट किस सिद्धांत पर कार्य करता है?",
+            "en": "On what principle does a rocket work?"
           },
           "options": [
-            {"hi": "चोट से बचने के लिए", "en": "To avoid injury"},
-            {"hi": "घर्षण बढ़ाकर बेहतर पकड़ बनाने के लिए", "en": "To increase friction for better grip"},
-            {"hi": "साफ दिखने के लिए", "en": "To look clean"},
-            {"hi": "परंपरा के कारण", "en": "Due to tradition"}
+            {"hi": "द्रव्यमान संरक्षण", "en": "Conservation of mass"},
+            {"hi": "ऊर्जा संरक्षण", "en": "Conservation of energy"},
+            {"hi": "संवेग संरक्षण (Conservation of momentum)", "en": "Conservation of momentum"},
+            {"hi": "जड़त्व", "en": "Inertia"}
           ],
-          "answer": {"hi": "घर्षण बढ़ाकर बेहतर पकड़ बनाने के लिए", "en": "To increase friction for better grip"}
+          "answer": {"hi": "संवेग संरक्षण (Conservation of momentum)", "en": "Conservation of momentum"}
         },
         {
           "q": {
-            "hi": "मशीनों में तेल या ग्रीस का उपयोग करने का मुख्य उद्देश्य क्या है?",
-            "en": "What is the main purpose of using oil or grease in machines?"
+            "hi": "यदि क्रिया और प्रतिक्रिया हमेशा बराबर होती हैं, तो वे एक-दूसरे को निरस्त क्यों नहीं करतीं?",
+            "en": "If action and reaction are always equal, why don't they cancel each other?"
           },
           "options": [
-            {"hi": "मशीन की कीमत बढ़ाना", "en": "To increase machine price"},
-            {"hi": "घर्षण कम करना (Reduce friction)", "en": "To reduce friction"},
-            {"hi": "मशीन को रंगना", "en": "To color the machine"},
-            {"hi": "धुआँ रोकना", "en": "To stop smoke"}
+            {"hi": "क्योंकि वे एक ही वस्तु पर लगती हैं", "en": "Because they act on the same body"},
+            {"hi": "क्योंकि वे दो अलग-अलग वस्तुओं पर कार्य करती हैं", "en": "Because they act on two different bodies"},
+            {"hi": "क्योंकि वे बराबर नहीं होतीं", "en": "Because they are not equal"},
+            {"hi": "वे निरस्त करती हैं", "en": "They do cancel"}
           ],
-          "answer": {"hi": "घर्षण कम करना (Reduce friction)", "en": "To reduce friction"}
+          "answer": {"hi": "क्योंकि वे दो अलग-अलग वस्तुओं पर कार्य करती हैं", "en": "Because they act on two different bodies"}
         },
         {
           "q": {
-            "hi": "पहियों के उपयोग से घर्षण पर क्या प्रभाव पड़ता है?",
-            "en": "What effect do wheels have on friction?"
+            "hi": "घोड़ा गाड़ी को खींचते समय किस पर बल लगाता है?",
+            "en": "While pulling a cart, on what does the horse apply force?"
           },
           "options": [
-            {"hi": "घर्षण बढ़ जाता है", "en": "Friction increases"},
-            {"hi": "घर्षण कम हो जाता है", "en": "Friction reduces"},
-            {"hi": "कोई प्रभाव नहीं", "en": "No effect"},
-            {"hi": "घर्षण अनंत हो जाता है", "en": "Friction becomes infinite"}
+            {"hi": "गाड़ी पर", "en": "On the cart"},
+            {"hi": "अपने आप पर", "en": "On itself"},
+            {"hi": "पृथ्वी की सतह पर (On the ground)", "en": "On the ground"},
+            {"hi": "हवा पर", "en": "On the air"}
           ],
-          "answer": {"hi": "घर्षण कम हो जाता है", "en": "Friction reduces"}
+          "answer": {"hi": "पृथ्वी की सतह पर (On the ground)", "en": "On the ground"}
         },
         {
           "q": {
-            "hi": "सूटकेस में 'रोलर' (Roller) क्यों लगाए जाते हैं?",
-            "en": "Why are rollers attached to suitcases?"
+            "hi": "संवेग (p) का सूत्र है:",
+            "en": "The formula for momentum (p) is:"
           },
           "options": [
-            {"hi": "सुंदरता के लिए", "en": "For beauty"},
-            {"hi": "घर्षण कम करके आसानी से खींचने के लिए", "en": "To reduce friction for easy pulling"},
-            {"hi": "वजन बढ़ाने के लिए", "en": "To increase weight"},
-            {"hi": "पकड़ने के लिए", "en": "For holding"}
+            {"hi": "p = m/v", "en": "p = m/v"},
+            {"hi": "p = m × v", "en": "p = m × v"},
+            {"hi": "p = v/m", "en": "p = v/m"},
+            {"hi": "p = m + v", "en": "p = m + v"}
           ],
-          "answer": {"hi": "घर्षण कम करके आसानी से खींचने के लिए", "en": "To reduce friction for easy pulling"}
+          "answer": {"hi": "p = m × v", "en": "p = m × v"}
         },
         {
           "q": {
-            "hi": "अंतरिक्ष यान जब वायुमण्डल में प्रवेश करते हैं, तो वे क्यों जलने लगते हैं?",
-            "en": "Why do spacecraft start burning when entering the atmosphere?"
+            "hi": "0.1 kg की गोली 100 m/s के वेग से चलती है, इसका संवेग क्या होगा?",
+            "en": "A 0.1 kg bullet moves with a velocity of 100 m/s, what is its momentum?"
           },
           "options": [
-            {"hi": "सूरज की गर्मी से", "en": "Due to sun's heat"},
-            {"hi": "वायु के साथ तीव्र घर्षण के कारण", "en": "Due to intense friction with air"},
-            {"hi": "इंजन फटने से", "en": "Due to engine blast"},
-            {"hi": "बिजली गिरने से", "en": "Due to lightning"}
+            {"hi": "10 kg m/s", "en": "10 kg m/s"},
+            {"hi": "1 kg m/s", "en": "1 kg m/s"},
+            {"hi": "100 kg m/s", "en": "100 kg m/s"},
+            {"hi": "0.1 kg m/s", "en": "0.1 kg m/s"}
           ],
-          "answer": {"hi": "वायु के साथ तीव्र घर्षण के कारण", "en": "Due to intense friction with air"}
+          "answer": {"hi": "10 kg m/s", "en": "10 kg m/s"}
         },
         {
           "q": {
-            "hi": "हथेली को आपस में रगड़ने पर वे गर्म क्यों हो जाती हैं?",
-            "en": "Why do palms become warm when rubbed together?"
+            "hi": "गैलीलियो ने किस पर प्रयोग करके जड़त्व के विचार को विकसित किया?",
+            "en": "Galileo developed the idea of inertia by experimenting on?"
           },
           "options": [
-            {"hi": "हवा के कारण", "en": "Due to air"},
-            {"hi": "घर्षण द्वारा ऊष्मा उत्पन्न होने के कारण", "en": "Due to heat generated by friction"},
-            {"hi": "खून के दौरे के कारण", "en": "Due to blood circulation"},
-            {"hi": "पसीने के कारण", "en": "Due to sweat"}
+            {"hi": "गिरती हुई गेंदों पर", "en": "Falling balls"},
+            {"hi": "आनत तल (Inclined planes) पर", "en": "Inclined planes"},
+            {"hi": "पानी के जहाजों पर", "en": "Ships"},
+            {"hi": "तारों पर", "en": "Stars"}
           ],
-          "answer": {"hi": "घर्षण द्वारा ऊष्मा उत्पन्न होने के कारण", "en": "Due to heat generated by friction"}
+          "answer": {"hi": "आनत तल (Inclined planes) पर", "en": "Inclined planes"}
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "किस प्रकार की सतह पर घर्षण सबसे कम होगा?",
-            "en": "On which type of surface will friction be minimum?"
+            "hi": "दर्पण (Mirror) पर धूल जमने पर उसे झाड़ने से धूल गिर जाती है, यह किसका उदाहरण है?",
+            "en": "When dust is shaken off a mirror, it falls. This is an example of?"
           },
           "options": [
-            {"hi": "रेतीली सतह", "en": "Sandy surface"},
-            {"hi": "खुरदरी सतह", "en": "Rough surface"},
-            {"hi": "काँच की चिकनी सतह", "en": "Smooth glass surface"},
-            {"hi": "मिट्टी की सतह", "en": "Muddy surface"}
+            {"hi": "संवेग", "en": "Momentum"},
+            {"hi": "जड़त्व (Inertia)", "en": "Inertia"},
+            {"hi": "त्वरण", "en": "Acceleration"},
+            {"hi": "घर्षण", "en": "Friction"}
           ],
-          "answer": {"hi": "काँच की चिकनी सतह", "en": "Smooth glass surface"}
+          "answer": {"hi": "जड़त्व (Inertia)", "en": "Inertia"}
         },
         {
           "q": {
-            "hi": "घर्षण को कम करने के लिए मशीनों के कुछ हिस्सों में क्या बनाया जाता है?",
-            "en": "What is created in some parts of machines to reduce friction?"
+            "hi": "किसी वस्तु का द्रव्यमान उसकी ______ का माप है।",
+            "en": "The mass of an object is a measure of its ______."
           },
           "options": [
-            {"hi": "हवा की परत", "en": "Air cushion"},
-            {"hi": "पानी की पाइप", "en": "Water pipe"},
-            {"hi": "लोहे की छड़", "en": "Iron rod"},
-            {"hi": "पत्थर की कोटिंग", "en": "Stone coating"}
+            {"hi": "गति", "en": "Motion"},
+            {"hi": "जड़त्व (Inertia)", "en": "Inertia"},
+            {"hi": "शक्ति", "en": "Power"},
+            {"hi": "ऊर्जा", "en": "Energy"}
           ],
-          "answer": {"hi": "हवा की परत", "en": "Air cushion"}
+          "answer": {"hi": "जड़त्व (Inertia)", "en": "Inertia"}
         },
         {
           "q": {
-            "hi": "घर्षण के बारे में कौन सा कथन सत्य है?",
-            "en": "Which statement about friction is true?"
+            "hi": "यदि दो वस्तुओं के बीच टक्कर होती है और कोई बाहरी बल नहीं लग रहा, तो क्या संरक्षित रहेगा?",
+            "en": "If two objects collide and no external force acts, what remains conserved?"
           },
           "options": [
-            {"hi": "यह हमेशा लाभदायक है", "en": "It is always beneficial"},
-            {"hi": "यह हमेशा हानिकारक है", "en": "It is always harmful"},
-            {"hi": "यह लाभदायक और हानिकारक दोनों हो सकता है", "en": "It can be both beneficial and harmful"},
-            {"hi": "यह शून्य हो सकता है", "en": "It can be zero"}
+            {"hi": "वेग", "en": "Velocity"},
+            {"hi": "त्वरण", "en": "Acceleration"},
+            {"hi": "कुल संवेग (Total momentum)", "en": "Total momentum"},
+            {"hi": "द्रव्यमान", "en": "Mass"}
           ],
-          "answer": {"hi": "यह लाभदायक और हानिकारक दोनों हो सकता है", "en": "It can be both beneficial and harmful"}
+          "answer": {"hi": "कुल संवेग (Total momentum)", "en": "Total momentum"}
         },
         {
           "q": {
-            "hi": "यदि फर्श पर तेल फैल जाए, तो उस पर चलना क्यों मुश्किल है?",
-            "en": "If oil spills on the floor, why is it difficult to walk on it?"
+            "hi": "बल की परिभाषा न्यूटन के किस नियम से प्राप्त होती है?",
+            "en": "The definition of force is obtained from which of Newton's laws?"
           },
           "options": [
-            {"hi": "घर्षण बढ़ जाता है", "en": "Friction increases"},
-            {"hi": "घर्षण कम हो जाता है", "en": "Friction reduces"},
-            {"hi": "तेल भारी होता है", "en": "Oil is heavy"},
-            {"hi": "दबाव कम हो जाता है", "en": "Pressure reduces"}
+            {"hi": "प्रथम नियम (First law)", "en": "First law"},
+            {"hi": "द्वितीय नियम", "en": "Second law"},
+            {"hi": "तृतीय नियम", "en": "Third law"},
+            {"hi": "चौथा नियम", "en": "Fourth law"}
           ],
-          "answer": {"hi": "घर्षण कम हो जाता है", "en": "Friction reduces"}
+          "answer": {"hi": "प्रथम नियम (First law)", "en": "First law"}
         },
         {
           "q": {
-            "hi": "ब्रेक पैड का उपयोग किसलिए किया जाता है?",
-            "en": "What are brake pads used for?"
+            "hi": "बल का गणितीय सूत्र न्यूटन के किस नियम से मिलता है?",
+            "en": "The mathematical formula for force is derived from which of Newton's laws?"
           },
           "options": [
-            {"hi": "घर्षण कम करने के लिए", "en": "To reduce friction"},
-            {"hi": "घर्षण बढ़ाने के लिए (To increase friction)", "en": "To increase friction"},
-            {"hi": "पहिया सजाने के लिए", "en": "To decorate wheel"},
-            {"hi": "आवाज़ करने के लिए", "en": "To make sound"}
+            {"hi": "प्रथम नियम", "en": "First law"},
+            {"hi": "द्वितीय नियम (Second law)", "en": "Second law"},
+            {"hi": "तृतीय नियम", "en": "Third law"},
+            {"hi": "गुरुत्वाकर्षण नियम", "en": "Gravitation law"}
           ],
-          "answer": {"hi": "घर्षण बढ़ाने के लिए (To increase friction)", "en": "To increase friction"}
+          "answer": {"hi": "द्वितीय नियम (Second law)", "en": "Second law"}
         },
         {
           "q": {
-            "hi": "घर्षण का मान शून्य क्यों नहीं किया जा सकता?",
-            "en": "Why can't friction be made zero?"
+            "hi": "रबड़ की गेंद और उसी आकार के पत्थर में से किसका जड़त्व अधिक होगा?",
+            "en": "Between a rubber ball and a stone of the same size, which has more inertia?"
           },
           "options": [
-            {"hi": "क्योंकि कोई भी सतह पूर्णतः चिकनी नहीं होती", "en": "Because no surface is perfectly smooth"},
-            {"hi": "क्योंकि मशीनों में तेल महँगा है", "en": "Because oil is expensive in machines"},
-            {"hi": "क्योंकि पृथ्वी घूम रही है", "en": "Because Earth is rotating"},
-            {"hi": "पता नहीं", "en": "Don't know"}
-          ],
-          "answer": {"hi": "क्योंकि कोई भी सतह पूर्णतः चिकनी नहीं होती", "en": "Because no surface is perfectly smooth"}
-        },
-        {
-          "q": {
-            "hi": "मशीनों में गतिशील पुर्जों के बीच 'स्नेहक' लगाने से क्या होता है?",
-            "en": "What happens by applying lubricants between moving parts of machines?"
-          },
-          "options": [
-            {"hi": "पुर्जे आपस में टकराते हैं", "en": "Parts collide"},
-            {"hi": "एक पतली परत बन जाती है जिससे अनियमितताएँ आपस में नहीं उलझतीं", "en": "A thin layer is formed preventing interlocking of irregularities"},
-            {"hi": "मशीन रुक जाती है", "en": "Machine stops"},
-            {"hi": "तापमान बढ़ जाता है", "en": "Temperature increases"}
-          ],
-          "answer": {"hi": "एक पतली परत बन जाती है जिससे अनियमितताएँ आपस में नहीं उलझतीं", "en": "A thin layer is formed preventing interlocking of irregularities"}
-        },
-        {
-          "q": {
-            "hi": "घर्षण बल का मान 'स्थैतिक' से 'सर्पी' में बदलते समय क्या होता है?",
-            "en": "What happens when frictional value changes from static to sliding?"
-          },
-          "options": [
-            {"hi": "घटता है", "en": "Decreases"},
-            {"hi": "बढ़ता है", "en": "Increases"},
-            {"hi": "समान रहता है", "en": "Remains same"},
-            {"hi": "दो गुना होता है", "en": "Doubles"}
-          ],
-          "answer": {"hi": "घटता है", "en": "Decreases"}
-        },
-        {
-          "q": {
-            "hi": "लोटनिक घर्षण सर्पी घर्षण से कैसा होता है?",
-            "en": "Rolling friction is how compared to sliding friction?"
-          },
-          "options": [
-            {"hi": "बड़ा", "en": "Larger"},
-            {"hi": "छोटा (Smaler/Less)", "en": "Smaller/Less"},
-            {"hi": "समान", "en": "Equal"},
+            {"hi": "रबड़ की गेंद", "en": "Rubber ball"},
+            {"hi": "पत्थर (Stone)", "en": "Stone"},
+            {"hi": "दोनों का समान", "en": "Both equal"},
             {"hi": "शून्य", "en": "Zero"}
           ],
-          "answer": {"hi": "छोटा (Smaler/Less)", "en": "Smaller/Less"}
+          "answer": {"hi": "पत्थर (Stone)", "en": "Stone"}
         },
         {
           "q": {
-            "hi": "द्रव में गति करने वाली वस्तुओं को 'विशेष आकृति' देने का क्या लाभ है?",
-            "en": "What is the benefit of giving special shapes to objects moving in fluids?"
+            "hi": "गति के दूसरे नियम के अनुसार, a = ?",
+            "en": "According to the second law of motion, a = ?"
           },
           "options": [
-            {"hi": "ऊर्जा की बचत", "en": "Saving energy"},
-            {"hi": "घर्षण कम करना", "en": "Reducing friction"},
-            {"hi": "तीव्र गति", "en": "High speed"},
-            {"hi": "उपरोक्त सभी", "en": "All of the above"}
+            {"hi": "F × m", "en": "F × m"},
+            {"hi": "F / m", "en": "F / m"},
+            {"hi": "m / F", "en": "m / F"},
+            {"hi": "F + m", "en": "F + m"}
           ],
-          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
+          "answer": {"hi": "F / m", "en": "F / m"}
+        },
+        {
+          "q": {
+            "hi": "टक्कर के दौरान लगने वाले बल कैसे होते हैं?",
+            "en": "How are the forces acting during a collision?"
+          },
+          "options": [
+            {"hi": "असमान", "en": "Unequal"},
+            {"hi": "बराबर और विपरीत (Equal and opposite)", "en": "Equal and opposite"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "एक ही दिशा में", "en": "In the same direction"}
+          ],
+          "answer": {"hi": "बराबर और विपरीत (Equal and opposite)", "en": "Equal and opposite"}
+        },
+        {
+          "q": {
+            "hi": "एक बस और एक कार समान वेग से चल रही हैं। किसे रोकना आसान होगा?",
+            "en": "A bus and a car are moving with the same velocity. Which one is easier to stop?"
+          },
+          "options": [
+            {"hi": "बस", "en": "Bus"},
+            {"hi": "कार (Car)", "en": "Car"},
+            {"hi": "दोनों को समान", "en": "Both equal"},
+            {"hi": "किसी को नहीं", "en": "Neither"}
+          ],
+          "answer": {"hi": "कार (Car)", "en": "Car"}
+        },
+        {
+          "q": {
+            "hi": "किसी वस्तु पर बल लगाने से उसकी ______ में परिवर्तन हो सकता है।",
+            "en": "Applying force on an object can change its ______."
+          },
+          "options": [
+            {"hi": "चाल और दिशा", "en": "Speed and direction"},
+            {"hi": "आकृति", "en": "Shape"},
+            {"hi": "विराम या गति की अवस्था", "en": "State of rest or motion"},
+            {"hi": "उपरोक्त सभी (All of above)", "en": "All of the above"}
+          ],
+          "answer": {"hi": "उपरोक्त सभी (All of above)", "en": "All of the above"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "घर्षण से मशीनों की 'दक्षता' पर क्या प्रभाव पड़ता है?",
-            "en": "How does friction affect the 'efficiency' of machines?"
+            "hi": "जब एक दरी (Carpet) को छड़ी से पीटा जाता है, तो धूल के कण बाहर आ जाते हैं। क्यों?",
+            "en": "When a carpet is beaten with a stick, dust particles come out. Why?"
           },
           "options": [
-            {"hi": "दक्षता बढ़ती है", "en": "Efficiency increases"},
-            {"hi": "दक्षता कम होती है", "en": "Efficiency decreases"},
-            {"hi": "दक्षता शून्य होती है", "en": "Efficiency becomes zero"},
-            {"hi": "कोई प्रभाव नहीं", "en": "No effect"}
+            {"hi": "घर्षण के कारण", "en": "Due to friction"},
+            {"hi": "जड़त्व के कारण (Due to inertia)", "en": "Due to inertia"},
+            {"hi": "संवेग के कारण", "en": "Due to momentum"},
+            {"hi": "ऊर्जा के कारण", "en": "Due to energy"}
           ],
-          "answer": {"hi": "दक्षता कम होती है", "en": "Efficiency decreases"}
+          "answer": {"hi": "जड़त्व के कारण (Due to inertia)", "en": "Due to inertia"}
         },
         {
           "q": {
-            "hi": "छत के पंखों में कौन सा पुर्जा घर्षण कम करने के लिए लगाया जाता है?",
-            "en": "Which part is used in ceiling fans to reduce friction?"
+            "hi": "क्रिया और प्रतिक्रिया बल ______ पर कार्य करते हैं।",
+            "en": "Action and reaction forces act on ______."
           },
           "options": [
-            {"hi": "ब्रेक", "en": "Brake"},
-            {"hi": "बॉल बेयरिंग (Ball bearing)", "en": "Ball bearing"},
-            {"hi": "धागा", "en": "Thread"},
-            {"hi": "कागज", "en": "Paper"}
+            {"hi": "एक ही वस्तु", "en": "Same object"},
+            {"hi": "दो अलग-अलग वस्तुओं (Two different objects)", "en": "Two different objects"},
+            {"hi": "केवल स्थिर वस्तुओं", "en": "Only stationary objects"},
+            {"hi": "केवल गतिशील वस्तुओं", "en": "Only moving objects"}
           ],
-          "answer": {"hi": "बॉल बेयरिंग (Ball bearing)", "en": "Ball bearing"}
+          "answer": {"hi": "दो अलग-अलग वस्तुओं (Two different objects)", "en": "Two different objects"}
         },
         {
           "q": {
-            "hi": "क्या वायु घर्षण बल लगाती है?",
-            "en": "Does air exert frictional force?"
+            "hi": "संवेग परिवर्तन की दर किसके बराबर होती है?",
+            "en": "Rate of change of momentum is equal to?"
+          },
+          "options": [
+            {"hi": "त्वरण", "en": "Acceleration"},
+            {"hi": "वेग", "en": "Velocity"},
+            {"hi": "लगाए गए बल के (Applied force)", "en": "Applied force"},
+            {"hi": "द्रव्यमान", "en": "Mass"}
+          ],
+          "answer": {"hi": "लगाए गए बल के (Applied force)", "en": "Applied force"}
+        },
+        {
+          "q": {
+            "hi": "टक्कर में दो वस्तुओं का संवेग ______ रहता है।",
+            "en": "In a collision, the momentum of two objects remains ______."
+          },
+          "options": [
+            {"hi": "अस्थिर", "en": "Unstable"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "नियत/संरक्षित (Constant)", "en": "Constant"},
+            {"hi": "दोगुना", "en": "Double"}
+          ],
+          "answer": {"hi": "नियत/संरक्षित (Constant)", "en": "Constant"}
+        },
+        {
+          "q": {
+            "hi": "जड़त्व कितने प्रकार के होते हैं?",
+            "en": "How many types of inertia are there?"
+          },
+          "options": [
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "3 (विराम, गति, दिशा)", "en": "3 (Rest, Motion, Direction)"},
+            {"hi": "4", "en": "4"}
+          ],
+          "answer": {"hi": "3 (विराम, गति, दिशा)", "en": "3 (Rest, Motion, Direction)"}
+        },
+        {
+          "q": {
+            "hi": "क्या संवेग शून्य हो सकता है?",
+            "en": "Can momentum be zero?"
           },
           "options": [
             {"hi": "नहीं", "en": "No"},
-            {"hi": "हाँ, बहुत कम", "en": "Yes, very little"},
-            {"hi": "केवल बारिश में", "en": "Only in rain"},
-            {"hi": "हमेशा शून्य", "en": "Always zero"}
+            {"hi": "हाँ, यदि वेग शून्य हो (Yes, if velocity is zero)", "en": "Yes, if velocity is zero"},
+            {"hi": "केवल निर्वात में", "en": "Only in vacuum"},
+            {"hi": "कह नहीं सकते", "en": "Cannot say"}
           ],
-          "answer": {"hi": "हाँ, बहुत कम", "en": "Yes, very little"}
+          "answer": {"hi": "हाँ, यदि वेग शून्य हो (Yes, if velocity is zero)", "en": "Yes, if velocity is zero"}
         },
         {
           "q": {
-            "hi": "जूते के तलवे घिस क्यों जाते हैं?",
-            "en": "Why do soles of shoes wear out?"
+            "hi": "बल का प्रभाव किस पर निर्भर करता है?",
+            "en": "Effect of force depends on?"
           },
           "options": [
-            {"hi": "पुराने होने से", "en": "Due to aging"},
-            {"hi": "घर्षण के कारण", "en": "Due to friction"},
-            {"hi": "गलत साइज के कारण", "en": "Due to wrong size"},
-            {"hi": "पानी के कारण", "en": "Due to water"}
+            {"hi": "द्रव्यमान", "en": "Mass"},
+            {"hi": "वेग में परिवर्तन", "en": "Change in velocity"},
+            {"hi": "समय", "en": "Time"},
+            {"hi": "उपरोक्त सभी (All of above)", "en": "All of the above"}
           ],
-          "answer": {"hi": "घर्षण के कारण", "en": "Due to friction"}
+          "answer": {"hi": "उपरोक्त सभी (All of above)", "en": "All of the above"}
         },
         {
           "q": {
-            "hi": "एक भारी बक्से को ढकेलने की तुलना में उसे रोल करना आसान क्यों है?",
-            "en": "Why is it easier to roll a heavy box than to push it?"
+            "hi": "जब बंदूक से गोली निकलती है, तो बंदूक और गोली का संवेग ______ होता है।",
+            "en": "When a bullet leaves a gun, the momentum of gun and bullet is ______."
           },
           "options": [
-            {"hi": "लोटनिक घर्षण कम होता है", "en": "Rolling friction is less"},
-            {"hi": "सर्पी घर्षण कम होता है", "en": "Sliding friction is less"},
-            {"hi": "बक्सा हल्का हो जाता है", "en": "Box becomes light"},
-            {"hi": "हवा का दबाव कम होता है", "en": "Air pressure is less"}
+            {"hi": "असमान", "en": "Unequal"},
+            {"hi": "बराबर और विपरीत (Equal and opposite)", "en": "Equal and opposite"},
+            {"hi": "हमेशा धनात्मक", "en": "Always positive"},
+            {"hi": "हमेशा ऋणात्मक", "en": "Always negative"}
           ],
-          "answer": {"hi": "लोटनिक घर्षण कम होता है", "en": "Rolling friction is less"}
+          "answer": {"hi": "बराबर और विपरीत (Equal and opposite)", "en": "Equal and opposite"}
         },
         {
           "q": {
-            "hi": "घर्षण बल वस्तुओं की गति का क्या करता है?",
-            "en": "Frictional force does what to the motion of objects?"
+            "hi": "इनमें से कौन-सा बल असंतुलित होने पर ही वस्तु की गति बदलती है?",
+            "en": "Which of these forces must be unbalanced to change the motion of an object?"
           },
           "options": [
-            {"hi": "तेज़", "en": "Fasten"},
-            {"hi": "विरोध (Opposes)", "en": "Opposes"},
-            {"hi": "कुछ नहीं", "en": "Nothing"},
-            {"hi": "बदलाव", "en": "Change"}
+            {"hi": "आंतरिक बल", "en": "Internal force"},
+            {"hi": "बाहरी असंतुलित बल (External unbalanced force)", "en": "External unbalanced force"},
+            {"hi": "स्थिर बल", "en": "Static force"},
+            {"hi": "शून्य बल", "en": "Zero force"}
           ],
-          "answer": {"hi": "विरोध (Opposes)", "en": "Opposes"}
+          "answer": {"hi": "बाहरी असंतुलित बल (External unbalanced force)", "en": "External unbalanced force"}
         },
         {
           "q": {
-            "hi": "पक्षी और मछलियाँ तरल में चलते समय अपनी ऊर्जा क्यों खो देते हैं?",
-            "en": "Why do birds and fishes lose energy while moving in fluid?"
+            "hi": "यदि m1u1 + m2u2 = m1v1 + m2v2 है, तो यह क्या दर्शाता है?",
+            "en": "If m1u1 + m2u2 = m1v1 + m2v2, what does it represent?"
           },
           "options": [
-            {"hi": "भूख के कारण", "en": "Due to hunger"},
-            {"hi": "घर्षण (कर्षण) को पार करने के कारण", "en": "Due to overcoming friction (drag)"},
-            {"hi": "ठंड के कारण", "en": "Due to cold"},
-            {"hi": "तेजी के कारण", "en": "Due to speed"}
+            {"hi": "ऊर्जा संरक्षण", "en": "Conservation of energy"},
+            {"hi": "संवेग संरक्षण (Conservation of momentum)", "en": "Conservation of momentum"},
+            {"hi": "जड़त्व", "en": "Inertia"},
+            {"hi": "त्वरण", "en": "Acceleration"}
           ],
-          "answer": {"hi": "घर्षण (कर्षण) को पार करने के कारण", "en": "Due to overcoming friction (drag)"}
-        },
-        {
-          "q": {
-            "hi": "यदि सड़क और टायर के बीच घर्षण न हो, तो क्या होगा?",
-            "en": "What will happen if there is no friction between the road and tires?"
-          },
-          "options": [
-            {"hi": "वाहन कभी नहीं रुक पाएगा", "en": "Vehicle will never stop"},
-            {"hi": "वाहन कभी मुड़ नहीं पाएगा", "en": "Vehicle will never turn"},
-            {"hi": "वाहन गति प्रारंभ नहीं कर पाएगा", "en": "Vehicle will never start moving"},
-            {"hi": "उपरोक्त सभी", "en": "All of the above"}
-          ],
-          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
-        },
-        {
-          "q": {
-            "hi": "घर्षण को कम करने के लिए किस धातु के बॉल बेयरिंग का प्रयोग होता है?",
-            "en": "Which metal ball bearings are used to reduce friction?"
-          },
-          "options": [
-            {"hi": "सोने के", "en": "Gold"},
-            {"hi": "स्टील या लोहे के", "en": "Steel or Iron"},
-            {"hi": "ताँबे के", "en": "Copper"},
-            {"hi": "प्लास्टिक के", "en": "Plastic"}
-          ],
-          "answer": {"hi": "स्टील या लोहे के", "en": "Steel or Iron"}
-        },
-        {
-          "q": {
-            "hi": "किसी पृष्ठ को बहुत अधिक चिकना बनाने से घर्षण पर क्या प्रभाव पड़ता है?",
-            "en": "What is the effect of making a surface very smooth on friction?"
-          },
-          "options": [
-            {"hi": "शून्य हो जाता है", "en": "Becomes zero"},
-            {"hi": "बहुत कम हो जाता है", "en": "Becomes very low"},
-            {"hi": "बढ़ जाता है", "en": "Increases"},
-            {"hi": "स्थिर रहता है", "en": "Remains constant"}
-          ],
-          "answer": {"hi": "बहुत कम हो जाता है", "en": "Becomes very low"}
+          "answer": {"hi": "संवेग संरक्षण (Conservation of momentum)", "en": "Conservation of momentum"}
         }
       ]
     },
