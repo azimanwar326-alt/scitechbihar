@@ -3314,653 +3314,661 @@
       "section1": [
         {
           "q": {
-            "hi": "हार्डी-रामानुजन संख्या किसे कहा जाता है?",
-            "en": "Which number is called the Hardy-Ramanujan Number?"
+            "hi": "एक रेखा को खींचने के लिए न्यूनतम कितने बिंदुओं की आवश्यकता होती है?",
+            "en": "What is the minimum number of points required to draw a line?"
           },
           "options": [
-            {"hi": "1728", "en": "1728"},
-            {"hi": "1729", "en": "1729"},
-            {"hi": "1000", "en": "1000"},
-            {"hi": "729", "en": "729"}
+            {"hi": "एक", "en": "One"},
+            {"hi": "दो", "en": "Two"},
+            {"hi": "तीन", "en": "Three"},
+            {"hi": "अनंत", "en": "Infinite"}
           ],
-          "answer": {"hi": "1729", "en": "1729"}
+          "answer": {"hi": "दो", "en": "Two"}
         },
         {
           "q": {
-            "hi": "1729 को किन दो घनों के योग के रूप में लिखा जा सकता है ($12^3$ के अलावा)?",
-            "en": "As the sum of which two cubes can 1729 be written (besides $12^3$)?"
+            "hi": "एक रेखा का वह भाग जिसके दो अंत बिंदु हों, क्या कहलाता है?",
+            "en": "A part of a line with two end points is called?"
           },
           "options": [
-            {"hi": "$10^3 + 9^3$", "en": "$10^3 + 9^3$"},
-            {"hi": "$8^3 + 7^3$", "en": "$8^3 + 7^3$"},
-            {"hi": "$11^3 + 2^3$", "en": "$11^3 + 2^3$"},
-            {"hi": "$6^3 + 5^3$", "en": "$6^3 + 5^3$"}
+            {"hi": "किरण", "en": "Ray"},
+            {"hi": "रेखाखंड", "en": "Line segment"},
+            {"hi": "वक्र", "en": "Curve"},
+            {"hi": "कोण", "en": "Angle"}
           ],
-          "answer": {"hi": "$10^3 + 9^3$", "en": "$10^3 + 9^3"}
+          "answer": {"hi": "रेखाखंड", "en": "Line segment"}
         },
         {
           "q": {
-            "hi": "2 का घन (Cube of 2) क्या है?",
-            "en": "What is the cube of 2?"
+            "hi": "एक रेखा का वह भाग जिसका केवल एक अंत बिंदु हो, क्या कहलाता है?",
+            "en": "A part of a line with only one end point is called?"
           },
           "options": [
-            {"hi": "4", "en": "4"},
-            {"hi": "6", "en": "6"},
-            {"hi": "8", "en": "8"},
-            {"hi": "10", "en": "10"}
+            {"hi": "रेखाखंड", "en": "Line segment"},
+            {"hi": "किरण", "en": "Ray"},
+            {"hi": "बिंदु", "en": "Point"},
+            {"hi": "तल", "en": "Plane"}
           ],
-          "answer": {"hi": "8", "en": "8"}
+          "answer": {"hi": "किरण", "en": "Ray"}
         },
         {
           "q": {
-            "hi": "5 का घन क्या होगा?",
-            "en": "What will be the cube of 5?"
+            "hi": "यदि तीन या अधिक बिंदु एक ही रेखा पर स्थित हों, तो वे क्या कहलाते हैं?",
+            "en": "If three or more points lie on the same line, they are called?"
           },
           "options": [
-            {"hi": "15", "en": "15"},
-            {"hi": "25", "en": "25"},
-            {"hi": "125", "en": "125"},
-            {"hi": "225", "en": "225"}
+            {"hi": "संरेख बिंदु", "en": "Collinear points"},
+            {"hi": "असंरेख बिंदु", "en": "Non-collinear points"},
+            {"hi": "समांतर बिंदु", "en": "Parallel points"},
+            {"hi": "प्रतिच्छेदी बिंदु", "en": "Intersecting points"}
           ],
-          "answer": {"hi": "125", "en": "125"}
+          "answer": {"hi": "संरेख बिंदु", "en": "Collinear points"}
         },
         {
           "q": {
-            "hi": "एक पूर्ण घन संख्या में शून्य की संख्या कभी भी कितनी नहीं हो सकती?",
-            "en": "The number of zeros in a perfect cube can never be?"
+            "hi": "0° और 90° के बीच के कोण को क्या कहते हैं?",
+            "en": "What is an angle between 0° and 90° called?"
           },
           "options": [
-            {"hi": "3", "en": "3"},
-            {"hi": "6", "en": "6"},
-            {"hi": "2", "en": "2"},
-            {"hi": "9", "en": "9"}
+            {"hi": "समकोण", "en": "Right angle"},
+            {"hi": "अधिक कोण", "en": "Obtuse angle"},
+            {"hi": "न्यून कोण", "en": "Acute angle"},
+            {"hi": "ऋजु कोण", "en": "Straight angle"}
           ],
-          "answer": {"hi": "2", "en": "2"}
+          "answer": {"hi": "न्यून कोण", "en": "Acute angle"}
         },
         {
           "q": {
-            "hi": "सम संख्या का घन हमेशा कैसी संख्या होती है?",
-            "en": "The cube of an even number is always?"
+            "hi": "90° के कोण को क्या कहा जाता है?",
+            "en": "What is an angle of 90° called?"
           },
           "options": [
-            {"hi": "विषम", "en": "Odd"},
-            {"hi": "सम", "en": "Even"},
-            {"hi": "शून्य", "en": "Zero"},
-            {"hi": "अपरिमेय", "en": "Irrational"}
+            {"hi": "न्यून कोण", "en": "Acute angle"},
+            {"hi": "समकोण", "en": "Right angle"},
+            {"hi": "अधिक कोण", "en": "Obtuse angle"},
+            {"hi": "प्रतिवर्ती कोण", "en": "Reflex angle"}
           ],
-          "answer": {"hi": "सम", "en": "Even"}
+          "answer": {"hi": "समकोण", "en": "Right angle"}
         },
         {
           "q": {
-            "hi": "विषम संख्या का घन हमेशा कैसी संख्या होती है?",
-            "en": "The cube of an odd number is always?"
+            "hi": "90° से अधिक और 180° से कम के कोण को क्या कहते हैं?",
+            "en": "What is an angle greater than 90° and less than 180° called?"
           },
           "options": [
-            {"hi": "सम", "en": "Even"},
-            {"hi": "विषम", "en": "Odd"},
-            {"hi": "ऋणात्मक", "en": "Negative"},
-            {"hi": "परिभाषित नहीं", "en": "Not defined"}
+            {"hi": "न्यून कोण", "en": "Acute angle"},
+            {"hi": "अधिक कोण", "en": "Obtuse angle"},
+            {"hi": "ऋजु कोण", "en": "Straight angle"},
+            {"hi": "पूर्ण कोण", "en": "Complete angle"}
           ],
-          "answer": {"hi": "विषम", "en": "Odd"}
+          "answer": {"hi": "अधिक कोण", "en": "Obtuse angle"}
         },
         {
           "q": {
-            "hi": "10 का घन क्या है?",
-            "en": "What is the cube of 10?"
+            "hi": "180° के बराबर कोण को क्या कहा जाता है?",
+            "en": "What is an angle equal to 180° called?"
           },
           "options": [
-            {"hi": "100", "en": "100"},
-            {"hi": "1000", "en": "1000"},
-            {"hi": "10000", "en": "10000"},
-            {"hi": "30", "en": "30"}
+            {"hi": "समकोण", "en": "Right angle"},
+            {"hi": "ऋजु कोण", "en": "Straight angle"},
+            {"hi": "प्रतिवर्ती कोण", "en": "Reflex angle"},
+            {"hi": "शून्य कोण", "en": "Zero angle"}
           ],
-          "answer": {"hi": "1000", "en": "1000"}
+          "answer": {"hi": "ऋजु कोण", "en": "Straight angle"}
         },
         {
           "q": {
-            "hi": "इकाई का अंक 1 होने पर उसके घन के इकाई का अंक क्या होगा?",
-            "en": "If the unit digit is 1, what will be the unit digit of its cube?"
+            "hi": "180° से अधिक और 360° से कम के कोण को क्या कहते हैं?",
+            "en": "What is an angle greater than 180° but less than 360° called?"
           },
           "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "3", "en": "3"},
-            {"hi": "7", "en": "7"},
-            {"hi": "9", "en": "9"}
+            {"hi": "अधिक कोण", "en": "Obtuse angle"},
+            {"hi": "ऋजु कोण", "en": "Straight angle"},
+            {"hi": "प्रतिवर्ती कोण", "en": "Reflex angle"},
+            {"hi": "पूरक कोण", "en": "Complementary angle"}
           ],
-          "answer": {"hi": "1", "en": "1"}
+          "answer": {"hi": "प्रतिवर्ती कोण", "en": "Reflex angle"}
         },
         {
           "q": {
-            "hi": "जिस संख्या के अंत में 5 है, उसके घन के अंत में क्या होगा?",
-            "en": "A number ending in 5 will have what at the end of its cube?"
+            "hi": "दो कोण जिनका योग 90° हो, क्या कहलाते हैं?",
+            "en": "Two angles whose sum is 90° are called?"
           },
           "options": [
-            {"hi": "0", "en": "0"},
-            {"hi": "5", "en": "5"},
-            {"hi": "25", "en": "25"},
-            {"hi": "15", "en": "15"}
+            {"hi": "संपूरक कोण", "en": "Supplementary angles"},
+            {"hi": "पूरक कोण", "en": "Complementary angles"},
+            {"hi": "आसन्न कोण", "en": "Adjacent angles"},
+            {"hi": "शीर्षाभिमुख कोण", "en": "Vertically opposite angles"}
           ],
-          "answer": {"hi": "5", "en": "5"}
+          "answer": {"hi": "पूरक कोण", "en": "Complementary angles"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "8 का घनमूल (Cube root) क्या है?",
-            "en": "What is the cube root of 8?"
+            "hi": "दो कोण जिनका योग 180° हो, क्या कहलाते हैं?",
+            "en": "Two angles whose sum is 180° are called?"
           },
           "options": [
-            {"hi": "2", "en": "2"},
-            {"hi": "3", "en": "3"},
-            {"hi": "4", "en": "4"},
-            {"hi": "1", "en": "1"}
+            {"hi": "पूरक कोण", "en": "Complementary angles"},
+            {"hi": "संपूरक कोण", "en": "Supplementary angles"},
+            {"hi": "रैखिक युग्म", "en": "Linear pair"},
+            {"hi": "एकांतर कोण", "en": "Alternate angles"}
           ],
-          "answer": {"hi": "2", "en": "2"}
+          "answer": {"hi": "संपूरक कोण", "en": "Supplementary angles"}
         },
         {
           "q": {
-            "hi": "27 का घनमूल क्या होगा?",
-            "en": "What will be the cube root of 27?"
+            "hi": "यदि दो आसन्न कोणों का योग 180° हो, तो वे क्या बनाते हैं?",
+            "en": "If the sum of two adjacent angles is 180°, what do they form?"
           },
           "options": [
-            {"hi": "9", "en": "9"},
-            {"hi": "3", "en": "3"},
-            {"hi": "7", "en": "7"},
-            {"hi": "2", "en": "2"}
+            {"hi": "समकोण", "en": "Right angle"},
+            {"hi": "कोणों का एक रैखिक युग्म", "en": "A linear pair of angles"},
+            {"hi": "पूरक कोण", "en": "Complementary angles"},
+            {"hi": "शीर्षाभिमुख कोण", "en": "Vertically opposite angles"}
           ],
-          "answer": {"hi": "3", "en": "3"}
+          "answer": {"hi": "कोणों का एक रैखिक युग्म", "en": "A linear pair of angles"}
         },
         {
           "q": {
-            "hi": "64 का घनमूल क्या है?",
-            "en": "What is the cube root of 64?"
+            "hi": "जब दो रेखाएँ परस्पर प्रतिच्छेद करती हैं, तो शीर्षाभिमुख कोण हमेशा क्या होते हैं?",
+            "en": "When two lines intersect each other, vertically opposite angles are always?"
           },
           "options": [
-            {"hi": "4", "en": "4"},
-            {"hi": "8", "en": "8"},
-            {"hi": "6", "en": "6"},
-            {"hi": "2", "en": "2"}
+            {"hi": "असमान", "en": "Unequal"},
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "पूरक", "en": "Complementary"},
+            {"hi": "शून्य", "en": "Zero"}
           ],
-          "answer": {"hi": "4", "en": "4"}
+          "answer": {"hi": "बराबर", "en": "Equal"}
         },
         {
           "q": {
-            "hi": "घनमूल के लिए किस प्रतीक का उपयोग किया जाता है?",
-            "en": "Which symbol is used for cube root?"
+            "hi": "वे रेखाएँ जो एक ही तल में हों और कभी न मिलें, क्या कहलाती हैं?",
+            "en": "Lines in the same plane that never meet are called?"
           },
           "options": [
-            {"hi": "√", "en": "√"},
-            {"hi": "³√", "en": "³√"},
-            {"hi": "²", "en": "²"},
-            {"hi": "³", "en": "³"}
+            {"hi": "प्रतिच्छेदी रेखाएँ", "en": "Intersecting lines"},
+            {"hi": "समांतर रेखाएँ", "en": "Parallel lines"},
+            {"hi": "लंब रेखाएँ", "en": "Perpendicular lines"},
+            {"hi": "संपाती रेखाएँ", "en": "Coincident lines"}
           ],
-          "answer": {"hi": "³√", "en": "³√"}
+          "answer": {"hi": "समांतर रेखाएँ", "en": "Parallel lines"}
         },
         {
           "q": {
-            "hi": "1000 का घनमूल क्या है?",
-            "en": "What is the cube root of 1000?"
+            "hi": "दो समांतर रेखाओं के बीच की लंबवत दूरी हमेशा क्या रहती है?",
+            "en": "The perpendicular distance between two parallel lines is always?"
           },
           "options": [
-            {"hi": "10", "en": "10"},
-            {"hi": "100", "en": "100"},
-            {"hi": "20", "en": "20"},
-            {"hi": "1", "en": "1"}
+            {"hi": "बदलती रहती है", "en": "Keep changing"},
+            {"hi": "एक समान (अचर)", "en": "Same (constant)"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "बढ़ती जाती है", "en": "Keep increasing"}
           ],
-          "answer": {"hi": "10", "en": "10"}
+          "answer": {"hi": "एक समान (अचर)", "en": "Same (constant)"}
         },
         {
           "q": {
-            "hi": "216 का घनमूल क्या है?",
-            "en": "What is the cube root of 216?"
+            "hi": "यदि एक किरण एक रेखा पर खड़ी हो, तो बने आसन्न कोणों का योग कितना होता है?",
+            "en": "If a ray stands on a line, what is the sum of the adjacent angles formed?"
           },
           "options": [
-            {"hi": "4", "en": "4"},
-            {"hi": "5", "en": "5"},
-            {"hi": "6", "en": "6"},
-            {"hi": "7", "en": "7"}
+            {"hi": "90°", "en": "90°"},
+            {"hi": "180°", "en": "180°"},
+            {"hi": "270°", "en": "270°"},
+            {"hi": "360°", "en": "360°"}
           ],
-          "answer": {"hi": "6", "en": "6"}
+          "answer": {"hi": "180°", "en": "180°"}
         },
         {
           "q": {
-            "hi": "यदि किसी संख्या का घन 8 पर समाप्त होता है, तो उस संख्या का इकाई अंक क्या होगा?",
-            "en": "If the cube of a number ends in 8, what will be the unit digit of that number?"
+            "hi": "एक रेखा जो दो या अधिक रेखाओं को भिन्न बिंदुओं पर प्रतिच्छेद करती है, क्या कहलाती है?",
+            "en": "A line which intersects two or more lines at distinct points is called?"
           },
           "options": [
-            {"hi": "8", "en": "8"},
-            {"hi": "2", "en": "2"},
-            {"hi": "4", "en": "4"},
-            {"hi": "6", "en": "6"}
+            {"hi": "समांतर रेखा", "en": "Parallel line"},
+            {"hi": "तिर्यक रेखा", "en": "Transversal line"},
+            {"hi": "लंब रेखा", "en": "Perpendicular line"},
+            {"hi": "संगत रेखा", "en": "Corresponding line"}
           ],
-          "answer": {"hi": "2", "en": "2"}
+          "answer": {"hi": "तिर्यक रेखा", "en": "Transversal line"}
         },
         {
           "q": {
-            "hi": "इनमें से कौन सी एक पूर्ण घन संख्या है?",
-            "en": "Which of these is a perfect cube number?"
+            "hi": "यदि एक तिर्यक रेखा दो समांतर रेखाओं को काटे, तो संगत कोणों का प्रत्येक युग्म क्या होता है?",
+            "en": "If a transversal intersects two parallel lines, each pair of corresponding angles is?"
           },
           "options": [
-            {"hi": "100", "en": "100"},
-            {"hi": "125", "en": "125"},
-            {"hi": "200", "en": "200"},
-            {"hi": "50", "en": "50"}
+            {"hi": "संपूरक", "en": "Supplementary"},
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "असमान", "en": "Unequal"},
+            {"hi": "90°"}
           ],
-          "answer": {"hi": "125", "en": "125"}
+          "answer": {"hi": "बराबर", "en": "Equal"}
         },
         {
           "q": {
-            "hi": "संख्या 4 के घन के इकाई का अंक क्या है?",
-            "en": "What is the unit digit of the cube of number 4?"
+            "hi": "यदि एक तिर्यक रेखा दो समांतर रेखाओं को काटे, तो एकांतर अंतः कोणों का प्रत्येक युग्म क्या होता है?",
+            "en": "If a transversal intersects two parallel lines, each pair of alternate interior angles is?"
           },
           "options": [
-            {"hi": "2", "en": "2"},
-            {"hi": "4", "en": "4"},
-            {"hi": "6", "en": "6"},
-            {"hi": "8", "en": "8"}
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "संपूरक", "en": "Supplementary"},
+            {"hi": "पूरक", "en": "Complementary"},
+            {"hi": "180°"}
           ],
-          "answer": {"hi": "4", "en": "4"}
+          "answer": {"hi": "बराबर", "en": "Equal"}
         },
         {
           "q": {
-            "hi": "संख्या 3 के घन के इकाई का अंक क्या है?",
-            "en": "What is the unit digit of the cube of number 3?"
+            "hi": "तिर्यक रेखा के एक ही ओर के अंतः कोणों का योग कितना होता है, यदि रेखाएँ समांतर हों?",
+            "en": "What is the sum of interior angles on the same side of the transversal if the lines are parallel?"
           },
           "options": [
-            {"hi": "3", "en": "3"},
-            {"hi": "9", "en": "9"},
-            {"hi": "7", "en": "7"},
-            {"hi": "1", "en": "1"}
+            {"hi": "90°", "en": "90°"},
+            {"hi": "180°", "en": "180°"},
+            {"hi": "360°", "en": "360°"},
+            {"hi": "0°"}
           ],
-          "answer": {"hi": "7", "en": "7"}
+          "answer": {"hi": "180°", "en": "180°"}
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "वह सबसे छोटी संख्या क्या है जिससे 243 को गुणा करने पर यह पूर्ण घन बन जाए?",
-            "en": "What is the smallest number by which 243 must be multiplied to make it a perfect cube?"
+            "hi": "वे रेखाएँ जो एक ही रेखा के समांतर हों, आपस में क्या होती हैं?",
+            "en": "Lines which are parallel to the same line are what to each other?"
           },
           "options": [
-            {"hi": "2", "en": "2"},
-            {"hi": "3", "en": "3"},
-            {"hi": "9", "en": "9"},
-            {"hi": "5", "en": "5"}
+            {"hi": "लंब", "en": "Perpendicular"},
+            {"hi": "प्रतिच्छेदी", "en": "Intersecting"},
+            {"hi": "समांतर", "en": "Parallel"},
+            {"hi": "असंगत", "en": "Inconsistent"}
           ],
-          "answer": {"hi": "3", "en": "3"}
+          "answer": {"hi": "समांतर", "en": "Parallel"}
         },
         {
           "q": {
-            "hi": "वह सबसे छोटी संख्या क्या है जिससे 81 को भाग देने पर यह पूर्ण घन बन जाए?",
-            "en": "What is the smallest number by which 81 must be divided to make it a perfect cube?"
+            "hi": "एक त्रिभुज के तीनों अंतः कोणों का योग कितना होता है?",
+            "en": "What is the sum of the three interior angles of a triangle?"
           },
           "options": [
-            {"hi": "3", "en": "3"},
-            {"hi": "9", "en": "9"},
-            {"hi": "2", "en": "2"},
-            {"hi": "4", "en": "4"}
+            {"hi": "90°", "en": "90°"},
+            {"hi": "180°", "en": "180°"},
+            {"hi": "270°", "en": "270°"},
+            {"hi": "360°", "en": "360°"}
           ],
-          "answer": {"hi": "3", "en": "3"}
+          "answer": {"hi": "180°", "en": "180°"}
         },
         {
           "q": {
-            "hi": "128 को पूर्ण घन बनाने के लिए किस छोटी संख्या से भाग देना चाहिए?",
-            "en": "By which smallest number should 128 be divided to make it a perfect cube?"
+            "hi": "यदि किसी त्रिभुज की एक भुजा को बढ़ाया जाए, तो बना बहिष्कोण किसके बराबर होता है?",
+            "en": "If a side of a triangle is produced, the exterior angle so formed is equal to?"
           },
           "options": [
-            {"hi": "2", "en": "2"},
-            {"hi": "4", "en": "4"},
-            {"hi": "8", "en": "8"},
-            {"hi": "16", "en": "16"}
+            {"hi": "आसन्न कोण के", "en": "Adjacent angle"},
+            {"hi": "दोनों अंतः अभिमुख कोणों के योग के", "en": "The sum of the two interior opposite angles"},
+            {"hi": "तीसरे कोण के", "en": "Third angle"},
+            {"hi": "180° के"}
           ],
-          "answer": {"hi": "2", "en": "2"}
+          "answer": {"hi": "दोनों अंतः अभिमुख कोणों के योग के", "en": "The sum of the two interior opposite angles"}
         },
         {
           "q": {
-            "hi": "675 को पूर्ण घन बनाने के लिए किस सबसे छोटी संख्या से गुणा करना चाहिए?",
-            "en": "By which smallest number should 675 be multiplied to make it a perfect cube?"
+            "hi": "यदि एक कोण अपने पूरक कोण के बराबर है, तो वह कोण क्या है?",
+            "en": "If an angle is equal to its complement, what is that angle?"
           },
           "options": [
-            {"hi": "2", "en": "2"},
-            {"hi": "3", "en": "3"},
-            {"hi": "5", "en": "5"},
-            {"hi": "10", "en": "10"}
+            {"hi": "90°", "en": "90°"},
+            {"hi": "45°", "en": "45°"},
+            {"hi": "30°", "en": "30°"},
+            {"hi": "60°", "en": "60°"}
           ],
-          "answer": {"hi": "5", "en": "5"}
+          "answer": {"hi": "45°", "en": "45°"}
         },
         {
           "q": {
-            "hi": "एक घन की भुजा 3 cm है, उसका आयतन क्या होगा?",
-            "en": "The side of a cube is 3 cm, what will be its volume?"
+            "hi": "यदि एक कोण अपने संपूरक कोण के बराबर है, तो वह कोण क्या है?",
+            "en": "If an angle is equal to its supplement, what is that angle?"
           },
           "options": [
-            {"hi": "9 cm³", "en": "9 cm³"},
-            {"hi": "27 cm³", "en": "27 cm³"},
-            {"hi": "18 cm³", "en": "18 cm³"},
-            {"hi": "81 cm³", "en": "81 cm³"}
+            {"hi": "45°", "en": "45°"},
+            {"hi": "90°", "en": "90°"},
+            {"hi": "180°", "en": "180°"},
+            {"hi": "60°", "en": "60°"}
           ],
-          "answer": {"hi": "27 cm³", "en": "27 cm³"}
+          "answer": {"hi": "90°", "en": "90°"}
         },
         {
           "q": {
-            "hi": "512 का घनमूल क्या है?",
-            "en": "What is the cube root of 512?"
+            "hi": "क्या एक त्रिभुज में दो समकोण हो सकते हैं?",
+            "en": "Can a triangle have two right angles?"
           },
           "options": [
-            {"hi": "6", "en": "6"},
-            {"hi": "7", "en": "7"},
-            {"hi": "8", "en": "8"},
-            {"hi": "9", "en": "9"}
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "केवल समद्विबाहु त्रिभुज में", "en": "Only in isosceles triangle"},
+            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"}
           ],
-          "answer": {"hi": "8", "en": "8"}
+          "answer": {"hi": "नहीं", "en": "No"}
         },
         {
           "q": {
-            "hi": "729 का घनमूल क्या है?",
-            "en": "What is the cube root of 729?"
+            "hi": "क्या एक त्रिभुज में दो अधिक कोण हो सकते हैं?",
+            "en": "Can a triangle have two obtuse angles?"
           },
           "options": [
-            {"hi": "7", "en": "7"},
-            {"hi": "8", "en": "8"},
-            {"hi": "9", "en": "9"},
-            {"hi": "11", "en": "11"}
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "संभव है", "en": "Possible"},
+            {"hi": "आधार पर निर्भर करता है", "en": "Depends on base"}
           ],
-          "answer": {"hi": "9", "en": "9"}
+          "answer": {"hi": "नहीं", "en": "No"}
         },
         {
           "q": {
-            "hi": "1331 का घनमूल क्या है?",
-            "en": "What is the cube root of 1331?"
+            "hi": "यदि दो रेखाएँ परस्पर समांतर हों और तीसरी रेखा उन पर लंब हो, तो वह क्या होगी?",
+            "en": "If two lines are parallel and a third line is perpendicular to one, what will it be?"
           },
           "options": [
-            {"hi": "11", "en": "11"},
-            {"hi": "13", "en": "13"},
-            {"hi": "21", "en": "21"},
-            {"hi": "12", "en": "12"}
+            {"hi": "दूसरी के समांतर", "en": "Parallel to the second"},
+            {"hi": "दूसरी पर भी लंब", "en": "Also perpendicular to the second"},
+            {"hi": "दूसरी के संपाती", "en": "Coincident with second"},
+            {"hi": "तिरछी", "en": "Oblique"}
           ],
-          "answer": {"hi": "11", "en": "11"}
+          "answer": {"hi": "दूसरी पर भी लंब", "en": "Also perpendicular to the second"}
         },
         {
           "q": {
-            "hi": "8000 का घनमूल क्या है?",
-            "en": "What is the cube root of 8000?"
+            "hi": "आकृति में यदि x + y = 180° हो, तो वह रेखा क्या कहलाती है?",
+            "en": "In a figure if x + y = 180°, what is that line called?"
           },
           "options": [
-            {"hi": "20", "en": "20"},
-            {"hi": "40", "en": "40"},
-            {"hi": "80", "en": "80"},
-            {"hi": "200", "en": "200"}
+            {"hi": "वक्र", "en": "Curve"},
+            {"hi": "सरल रेखा", "en": "Straight line"},
+            {"hi": "खंडित रेखा", "en": "Broken line"},
+            {"hi": "अर्धवृत्त", "en": "Semicircle"}
           ],
-          "answer": {"hi": "20", "en": "20"}
+          "answer": {"hi": "सरल रेखा", "en": "Straight line"}
         },
         {
           "q": {
-            "hi": "इनमें से कौन सी संख्या पूर्ण घन नहीं है?",
-            "en": "Which of these numbers is not a perfect cube?"
+            "hi": "एक समबाहु त्रिभुज का प्रत्येक कोण कितने डिग्री का होता है?",
+            "en": "What is the measure of each angle of an equilateral triangle?"
           },
           "options": [
-            {"hi": "1000", "en": "1000"},
-            {"hi": "216", "en": "216"},
-            {"hi": "100", "en": "100"},
-            {"hi": "343", "en": "343"}
+            {"hi": "45°", "en": "45°"},
+            {"hi": "60°", "en": "60°"},
+            {"hi": "90°", "en": "90°"},
+            {"hi": "30°", "en": "30°"}
           ],
-          "answer": {"hi": "100", "en": "100"}
+          "answer": {"hi": "60°", "en": "60°"}
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "सत्य या असत्य: किसी भी विषम संख्या का घन सम होता है।",
-            "en": "True or False: The cube of any odd number is even."
+            "hi": "शीर्षाभिमुख कोणों का शीर्ष क्या होता है?",
+            "en": "What is the vertex of vertically opposite angles?"
           },
           "options": [
-            {"hi": "सत्य", "en": "True"},
-            {"hi": "असत्य", "en": "False"}
+            {"hi": "अलग-अलग", "en": "Different"},
+            {"hi": "उभयनिष्ठ (एक ही)", "en": "Common (same)"},
+            {"hi": "रेखा पर स्थित", "en": "On the line"},
+            {"hi": "अनंत", "en": "Infinite"}
           ],
-          "answer": {"hi": "असत्य", "en": "False"}
+          "answer": {"hi": "उभयनिष्ठ (एक ही)", "en": "Common (same)"}
         },
         {
           "q": {
-            "hi": "सत्य या असत्य: एक पूर्ण घन दो शून्यों पर समाप्त नहीं होता है।",
-            "en": "True or False: A perfect cube does not end with two zeros."
+            "hi": "यदि दो रेखाएँ प्रतिच्छेद नहीं करती हैं, तो उन्हें क्या कहा जाता है?",
+            "en": "If two lines do not intersect, what are they called?"
           },
           "options": [
-            {"hi": "सत्य", "en": "True"},
-            {"hi": "असत्य", "en": "False"}
+            {"hi": "लंब", "en": "Perpendicular"},
+            {"hi": "समांतर", "en": "Parallel"},
+            {"hi": "संगत", "en": "Corresponding"},
+            {"hi": "तिर्यक", "en": "Transversal"}
           ],
-          "answer": {"hi": "सत्य", "en": "True"}
+          "answer": {"hi": "समांतर", "en": "Parallel"}
         },
         {
           "q": {
-            "hi": "सत्य या असत्य: एक अंक वाली संख्या का घन एक अंक वाली संख्या हो सकती है।",
-            "en": "True or False: The cube of a single digit number can be a single digit number."
+            "hi": "दो पूरक कोणों का अंतर 20° है। कोणों का मान क्या होगा?",
+            "en": "The difference between two complementary angles is 20°. What are the angles?"
           },
           "options": [
-            {"hi": "सत्य", "en": "True"},
-            {"hi": "असत्य", "en": "False"}
+            {"hi": "55°, 35°", "en": "55°, 35°"},
+            {"hi": "60°, 40°", "en": "60°, 40°"},
+            {"hi": "100°, 80°", "en": "100°, 80°"},
+            {"hi": "50°, 30°", "en": "50°, 30°"}
           ],
-          "answer": {"hi": "सत्य", "en": "True"}
+          "answer": {"hi": "55°, 35°", "en": "55°, 35°"}
         },
         {
           "q": {
-            "hi": "सत्य या असत्य: दो अंकों की संख्या का घन तीन अंकों वाली संख्या हो सकती है।",
-            "en": "True or False: The cube of a two digit number can be a three digit number."
+            "hi": "दो संपूरक कोणों का अनुपात 2:3 है। छोटा कोण क्या है?",
+            "en": "The ratio of two supplementary angles is 2:3. What is the smaller angle?"
           },
           "options": [
-            {"hi": "सत्य", "en": "True"},
-            {"hi": "असत्य", "en": "False"}
+            {"hi": "36°", "en": "36°"},
+            {"hi": "72°", "en": "72°"},
+            {"hi": "108°", "en": "108°"},
+            {"hi": "54°", "en": "54°"}
           ],
-          "answer": {"hi": "असत्य", "en": "False"}
+          "answer": {"hi": "72°", "en": "72°"}
         },
         {
           "q": {
-            "hi": "343 का घनमूल क्या है?",
-            "en": "What is the cube root of 343?"
+            "hi": "एक त्रिभुज में कम से कम कितने न्यून कोण होने चाहिए?",
+            "en": "At least how many acute angles must a triangle have?"
           },
           "options": [
-            {"hi": "3", "en": "3"},
-            {"hi": "7", "en": "7"},
-            {"hi": "9", "en": "9"},
-            {"hi": "13", "en": "13"}
+            {"hi": "एक", "en": "One"},
+            {"hi": "दो", "en": "Two"},
+            {"hi": "तीन", "en": "Three"},
+            {"hi": "कोई नहीं", "en": "None"}
           ],
-          "answer": {"hi": "7", "en": "7"}
+          "answer": {"hi": "दो", "en": "Two"}
         },
         {
           "q": {
-            "hi": "46656 का घनमूल क्या है?",
-            "en": "What is the cube root of 46656?"
+            "hi": "आसन्न कोणों में क्या उभयनिष्ठ होता है?",
+            "en": "What is common in adjacent angles?"
           },
           "options": [
-            {"hi": "36", "en": "36"},
-            {"hi": "46", "en": "46"},
-            {"hi": "56", "en": "56"},
-            {"hi": "26", "en": "26"}
+            {"hi": "केवल शीर्ष", "en": "Only vertex"},
+            {"hi": "शीर्ष और एक भुजा", "en": "Vertex and one arm"},
+            {"hi": "दोनों भुजाएँ", "en": "Both arms"},
+            {"hi": "कुछ नहीं", "en": "Nothing"}
           ],
-          "answer": {"hi": "36", "en": "36"}
+          "answer": {"hi": "शीर्ष और एक भुजा", "en": "Vertex and one arm"}
         },
         {
           "q": {
-            "hi": "15625 का घनमूल क्या है?",
-            "en": "What is the cube root of 15625?"
+            "hi": "एक प्रतिवर्ती कोण का मान कितना होता है?",
+            "en": "What is the measure of a reflex angle?"
           },
           "options": [
-            {"hi": "15", "en": "15"},
-            {"hi": "25", "en": "25"},
-            {"hi": "35", "en": "35"},
-            {"hi": "45", "en": "45"}
+            {"hi": "360°", "en": "360°"},
+            {"hi": "180° < x < 360°", "en": "180° < x < 360°"},
+            {"hi": "90° < x < 180°", "en": "90° < x < 180°"},
+            {"hi": "0° < x < 90°", "en": "0° < x < 90°"}
           ],
-          "answer": {"hi": "25", "en": "25"}
+          "answer": {"hi": "180° < x < 360°", "en": "180° < x < 360°"}
         },
         {
           "q": {
-            "hi": "91125 का घनमूल क्या है?",
-            "en": "What is the cube root of 91125?"
+            "hi": "शीर्षाभिमुख कोणों का युग्म किस प्रकार की रेखाओं द्वारा बनता है?",
+            "en": "The pair of vertically opposite angles is formed by which type of lines?"
           },
           "options": [
-            {"hi": "35", "en": "35"},
-            {"hi": "45", "en": "45"},
-            {"hi": "55", "en": "55"},
-            {"hi": "65", "en": "65"}
+            {"hi": "समांतर रेखाएँ", "en": "Parallel lines"},
+            {"hi": "प्रतिच्छेदी रेखाएँ", "en": "Intersecting lines"},
+            {"hi": "वक्र रेखाएँ", "en": "Curved lines"},
+            {"hi": "किरणें", "en": "Rays"}
           ],
-          "answer": {"hi": "45", "en": "45"}
+          "answer": {"hi": "प्रतिच्छेदी रेखाएँ", "en": "Intersecting lines"}
         },
         {
           "q": {
-            "hi": "संख्या 9 के घन के इकाई का अंक क्या है?",
-            "en": "What is the unit digit of the cube of number 9?"
+            "hi": "किसी रेखा के एक ही ओर एक ही बिंदु पर बने सभी कोणों का योग कितना होता है?",
+            "en": "What is the sum of all angles formed on the same side of a line at the same point?"
           },
           "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "3", "en": "3"},
-            {"hi": "9", "en": "9"},
-            {"hi": "7", "en": "7"}
+            {"hi": "90°", "en": "90°"},
+            {"hi": "180°", "en": "180°"},
+            {"hi": "360°", "en": "360°"},
+            {"hi": "0°"}
           ],
-          "answer": {"hi": "9", "en": "9"}
+          "answer": {"hi": "180°", "en": "180°"}
         },
         {
           "q": {
-            "hi": "13824 का घनमूल क्या है?",
-            "en": "What is the cube root of 13824?"
+            "hi": "किसी बिंदु के चारों ओर बने सभी कोणों का योग कितना होता है?",
+            "en": "What is the sum of all angles formed around a point?"
           },
           "options": [
-            {"hi": "24", "en": "24"},
-            {"hi": "14", "en": "14"},
-            {"hi": "34", "en": "34"},
-            {"hi": "44", "en": "44"}
+            {"hi": "180°", "en": "180°"},
+            {"hi": "360°", "en": "360°"},
+            {"hi": "90°", "en": "90°"},
+            {"hi": "270°", "en": "270°"}
           ],
-          "answer": {"hi": "24", "en": "24"}
+          "answer": {"hi": "360°", "en": "360°"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "64000 का घनमूल क्या है?",
-            "en": "What is the cube root of 64000?"
+            "hi": "यदि एकांतर अंतः कोण बराबर हों, तो रेखाएँ कैसी होंगी?",
+            "en": "If alternate interior angles are equal, how will the lines be?"
           },
           "options": [
-            {"hi": "40", "en": "40"},
-            {"hi": "80", "en": "80"},
-            {"hi": "400", "en": "400"},
-            {"hi": "20", "en": "20"}
+            {"hi": "प्रतिच्छेदी", "en": "Intersecting"},
+            {"hi": "समांतर", "en": "Parallel"},
+            {"hi": "लंब", "en": "Perpendicular"},
+            {"hi": "असंगत", "en": "Inconsistent"}
           ],
-          "answer": {"hi": "40", "en": "40"}
+          "answer": {"hi": "समांतर", "en": "Parallel"}
         },
         {
           "q": {
-            "hi": "किसी संख्या का घनमूल ज्ञात करने की एक विधि कौन सी है?",
-            "en": "What is one method of finding the cube root of a number?"
+            "hi": "यदि एक तिर्यक रेखा के एक ही ओर के अंतः कोण संपूरक हों, तो रेखाएँ कैसी होंगी?",
+            "en": "If interior angles on the same side of a transversal are supplementary, how will the lines be?"
           },
           "options": [
-            {"hi": "अभाज्य गुणनखंडन", "en": "Prime Factorization"},
-            {"hi": "पाइथागोरस त्रिक", "en": "Pythagorean triplet"},
-            {"hi": "क्षेत्रफल विधि", "en": "Area method"},
-            {"hi": "पक्षांतरण", "en": "Transposition"}
+            {"hi": "समांतर", "en": "Parallel"},
+            {"hi": "तिर्यक", "en": "Transversal"},
+            {"hi": "लंब", "en": "Perpendicular"},
+            {"hi": "असमान", "en": "Unequal"}
           ],
-          "answer": {"hi": "अभाज्य गुणनखंडन", "en": "Prime Factorization"}
+          "answer": {"hi": "समांतर", "en": "Parallel"}
         },
         {
           "q": {
-            "hi": "वह संख्या क्या है जिसका घन 216 है?",
-            "en": "What is the number whose cube is 216?"
+            "hi": "दो समांतर रेखाओं को काटने वाली तिर्यक रेखा द्वारा कुल कितने कोण बनते हैं?",
+            "en": "How many total angles are formed by a transversal intersecting two parallel lines?"
           },
           "options": [
-            {"hi": "4", "en": "4"},
-            {"hi": "6", "en": "6"},
-            {"hi": "8", "en": "8"},
-            {"hi": "16", "en": "16"}
+            {"hi": "चार", "en": "Four"},
+            {"hi": "छह", "en": "Six"},
+            {"hi": "आठ", "en": "Eight"},
+            {"hi": "दो", "en": "Two"}
           ],
-          "answer": {"hi": "6", "en": "6"}
+          "answer": {"hi": "आठ", "en": "Eight"}
         },
         {
           "q": {
-            "hi": "7 का घन (7³) क्या है?",
-            "en": "What is the cube of 7 (7³)?"
+            "hi": "समद्विबाहु समकोण त्रिभुज के अन्य दो कोणों का मान क्या होता है?",
+            "en": "What is the value of the other two angles in an isosceles right triangle?"
           },
           "options": [
-            {"hi": "49", "en": "49"},
-            {"hi": "343", "en": "343"},
-            {"hi": "243", "en": "243"},
-            {"hi": "143", "en": "143"}
+            {"hi": "45°, 45°", "en": "45°, 45°"},
+            {"hi": "30°, 60°", "en": "30°, 60°"},
+            {"hi": "40°, 50°", "en": "40°, 50°"},
+            {"hi": "90°, 0°", "en": "90°, 0°"}
           ],
-          "answer": {"hi": "343", "en": "343"}
+          "answer": {"hi": "45°, 45°", "en": "45°, 45°"}
         },
         {
           "q": {
-            "hi": "11 का घन क्या है?",
-            "en": "What is the cube of 11?"
+            "hi": "त्रिभुज के बहिष्कोण और आसन्न अंतः कोण के बीच क्या संबंध होता है?",
+            "en": "What is the relationship between the exterior angle and adjacent interior angle of a triangle?"
           },
           "options": [
-            {"hi": "121", "en": "121"},
-            {"hi": "1331", "en": "1331"},
-            {"hi": "111", "en": "111"},
-            {"hi": "1231", "en": "1231"}
+            {"hi": "वे पूरक होते हैं", "en": "They are complementary"},
+            {"hi": "वे संपूरक होते हैं (180° योग)", "en": "They are supplementary (sum 180°)"},
+            {"hi": "वे बराबर होते हैं", "en": "They are equal"},
+            {"hi": "कुछ नहीं", "en": "Nothing"}
           ],
-          "answer": {"hi": "1331", "en": "1331"}
+          "answer": {"hi": "वे संपूरक होते हैं (180° योग)", "en": "They are supplementary (sum 180°)"}
         },
         {
           "q": {
-            "hi": "4 का घन क्या है?",
-            "en": "What is the cube of 4?"
+            "hi": "अधिक कोण त्रिभुज का सबसे बड़ा कोण कैसा होता है?",
+            "en": "What is the largest angle of an obtuse triangle?"
           },
           "options": [
-            {"hi": "16", "en": "16"},
-            {"hi": "64", "en": "64"},
-            {"hi": "12", "en": "12"},
-            {"hi": "24", "en": "24"}
+            {"hi": "90°", "en": "90°"},
+            {"hi": "90° < x < 180°", "en": "90° < x < 180°"},
+            {"hi": "180°", "en": "180°"},
+            {"hi": "360°", "en": "360°"}
           ],
-          "answer": {"hi": "64", "en": "64"}
+          "answer": {"hi": "90° < x < 180°", "en": "90° < x < 180°"}
         },
         {
           "q": {
-            "hi": "8 का घन क्या है?",
-            "en": "What is the cube of 8?"
+            "hi": "शीर्षाभिमुख कोणों के कितने युग्म बनते हैं जब दो रेखाएँ प्रतिच्छेद करती हैं?",
+            "en": "How many pairs of vertically opposite angles are formed when two lines intersect?"
           },
           "options": [
-            {"hi": "512", "en": "512"},
-            {"hi": "64", "en": "64"},
-            {"hi": "216", "en": "216"},
-            {"hi": "128", "en": "128"}
+            {"hi": "एक", "en": "One"},
+            {"hi": "दो", "en": "Two"},
+            {"hi": "चार", "en": "Four"},
+            {"hi": "अनंत", "en": "Infinite"}
           ],
-          "answer": {"hi": "512", "en": "512"}
+          "answer": {"hi": "दो", "en": "Two"}
         },
         {
           "q": {
-            "hi": "9 का घन क्या है?",
-            "en": "What is the cube of 9?"
+            "hi": "एक बिंदु से होकर कितनी रेखाएँ खींची जा सकती हैं?",
+            "en": "How many lines can be drawn passing through a single point?"
           },
           "options": [
-            {"hi": "729", "en": "729"},
-            {"hi": "81", "en": "81"},
-            {"hi": "243", "en": "243"},
-            {"hi": "629", "en": "629"}
+            {"hi": "एक", "en": "One"},
+            {"hi": "दो", "en": "Two"},
+            {"hi": "सीमित", "en": "Limited"},
+            {"hi": "अपरिमित (अनंत)", "en": "Infinitely many"}
           ],
-          "answer": {"hi": "729", "en": "729"}
+          "answer": {"hi": "अपरिमित (अनंत)", "en": "Infinitely many"}
         },
         {
           "q": {
-            "hi": "इकाई अंक 7 होने पर उसके घनमूल के इकाई का अंक क्या होगा?",
-            "en": "If the unit digit is 7, what will be the unit digit of its cube root?"
+            "hi": "कोण की भुजाएँ (Arms) क्या होती हैं?",
+            "en": "What are the arms of an angle?"
           },
           "options": [
-            {"hi": "7", "en": "7"},
-            {"hi": "3", "en": "3"},
-            {"hi": "9", "en": "9"},
-            {"hi": "1", "en": "1"}
+            {"hi": "रेखाएँ", "en": "Lines"},
+            {"hi": "रेखाखंड", "en": "Line segments"},
+            {"hi": "किरणें", "en": "Rays"},
+            {"hi": "बिंदु", "en": "Points"}
           ],
-          "answer": {"hi": "3", "en": "3"}
+          "answer": {"hi": "किरणें", "en": "Rays"}
         },
         {
           "q": {
-            "hi": "15 का घन क्या है?",
-            "en": "What is the cube of 15?"
+            "hi": "कोणों का वह युग्म जिनकी एक भुजा उभयनिष्ठ हो और शीर्ष भी उभयनिष्ठ हो, क्या कहलाता है?",
+            "en": "What is the pair of angles with a common vertex and a common arm called?"
           },
           "options": [
-            {"hi": "225", "en": "225"},
-            {"hi": "3375", "en": "3375"},
-            {"hi": "1125", "en": "1125"},
-            {"hi": "3125", "en": "3125"}
+            {"hi": "रैखिक युग्म", "en": "Linear pair"},
+            {"hi": "शीर्षाभिमुख कोण", "en": "Vertically opposite angles"},
+            {"hi": "आसन्न कोण", "en": "Adjacent angles"},
+            {"hi": "संगत कोण", "en": "Corresponding angles"}
           ],
-          "answer": {"hi": "3375", "en": "3375"}
+          "answer": {"hi": "आसन्न कोण", "en": "Adjacent angles"}
         }
       ]
     },
