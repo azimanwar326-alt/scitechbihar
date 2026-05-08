@@ -1990,661 +1990,661 @@
       "section1": [
         {
           "q": {
-            "hi": "एकत्रित की गई सूचनाएँ क्या कहलाती हैं?",
-            "en": "What is the information collected called?"
+            "hi": "एक रैखिक समीकरण $ax + by + c = 0$ में $a, b$ और $c$ क्या हैं?",
+            "en": "In a linear equation $ax + by + c = 0$, what are $a, b$, and $c$?"
           },
           "options": [
-            {"hi": "संख्या", "en": "Number"},
-            {"hi": "आँकड़े", "en": "Data"},
-            {"hi": "अंक", "en": "Marks"},
-            {"hi": "ग्राफ", "en": "Graph"}
+            {"hi": "प्राकृत संख्याएँ", "en": "Natural numbers"},
+            {"hi": "वास्तविक संख्याएँ", "en": "Real numbers"},
+            {"hi": "केवल पूर्णांक", "en": "Only integers"},
+            {"hi": "काल्पनिक संख्याएँ", "en": "Imaginary numbers"}
           ],
-          "answer": {"hi": "आँकड़े", "en": "Data"}
+          "answer": {"hi": "वास्तविक संख्याएँ", "en": "Real numbers"}
         },
         {
           "q": {
-            "hi": "संकेतों का प्रयोग करते हुए आँकड़ों का चित्रीय निरूपण क्या कहलाता है?",
-            "en": "What is the pictorial representation of data using symbols called?"
+            "hi": "दो चरों वाले रैखिक समीकरण के कितने हल होते हैं?",
+            "en": "How many solutions does a linear equation in two variables have?"
           },
           "options": [
-            {"hi": "चित्रालेख", "en": "Pictograph"},
-            {"hi": "दंड आलेख", "en": "Bar Graph"},
-            {"hi": "आयत चित्र", "en": "Histogram"},
-            {"hi": "पाई चार्ट", "en": "Pie Chart"}
+            {"hi": "एक अद्वितीय हल", "en": "A unique solution"},
+            {"hi": "केवल दो हल", "en": "Only two solutions"},
+            {"hi": "अपरिमित रूप से अनेक हल", "en": "Infinitely many solutions"},
+            {"hi": "कोई हल नहीं", "en": "No solution"}
           ],
-          "answer": {"hi": "चित्रालेख", "en": "Pictograph"}
+          "answer": {"hi": "अपरिमित रूप से अनेक हल", "en": "Infinitely many solutions"}
         },
         {
           "q": {
-            "hi": "समान चौड़ाई के दंडों का प्रयोग कर आँकड़ों का प्रदर्शन क्या कहलाता है?",
-            "en": "What is the display of data using bars of uniform width called?"
+            "hi": "समीकरण $x + 2y = 6$ का एक हल क्या है?",
+            "en": "What is one solution of the equation $x + 2y = 6$?"
           },
           "options": [
-            {"hi": "चित्रालेख", "en": "Pictograph"},
-            {"hi": "दंड आलेख", "en": "Bar Graph"},
-            {"hi": "पाई चार्ट", "en": "Pie Chart"},
-            {"hi": "वृत्त आलेख", "en": "Circle Graph"}
+            {"hi": "(1, 1)", "en": "(1, 1)"},
+            {"hi": "(2, 2)", "en": "(2, 2)"},
+            {"hi": "(0, 6)", "en": "(0, 6)"},
+            {"hi": "(6, 2)", "en": "(6, 2)"}
           ],
-          "answer": {"hi": "दंड आलेख", "en": "Bar Graph"}
+          "answer": {"hi": "(2, 2)", "en": "(2, 2)"}
         },
         {
           "q": {
-            "hi": "आँकड़ों के दो समूहों को एक साथ दर्शाने वाला आलेख क्या कहलाता है?",
-            "en": "What is the graph that shows two sets of data simultaneously called?"
+            "hi": "समीकरण $x = 4y$ को $ax + by + c = 0$ के रूप में लिखने पर $a, b$ और $c$ के मान क्या होंगे?",
+            "en": "When $x = 4y$ is written in the form $ax + by + c = 0$, what are the values of $a, b$, and $c$?"
           },
           "options": [
-            {"hi": "एकल दंड आलेख", "en": "Single Bar Graph"},
-            {"hi": "द्वि-दंड आलेख", "en": "Double Bar Graph"},
-            {"hi": "चित्रालेख", "en": "Pictograph"},
-            {"hi": "पाई चार्ट", "en": "Pie Chart"}
+            {"hi": "a=1, b=4, c=0", "en": "a=1, b=4, c=0"},
+            {"hi": "a=1, b=-4, c=0", "en": "a=1, b=-4, c=0"},
+            {"hi": "a=0, b=1, c=4", "en": "a=0, b=1, c=4"},
+            {"hi": "a=1, b=0, c=-4", "en": "a=1, b=0, c=-4"}
           ],
-          "answer": {"hi": "द्वि-दंड आलेख", "en": "Double Bar Graph"}
+          "answer": {"hi": "a=1, b=-4, c=0", "en": "a=1, b=-4, c=0"}
         },
         {
           "q": {
-            "hi": "प्रत्येक प्रेक्षण (observation) की संख्या को क्या कहते हैं?",
-            "en": "What is the number of times a particular observation occurs called?"
+            "hi": "एक चर वाले रैखिक समीकरण $ax + b = 0$ का कितना हल होता है?",
+            "en": "How many solutions does a linear equation in one variable $ax + b = 0$ have?"
           },
           "options": [
-            {"hi": "मिलान चिह्न", "en": "Tally Mark"},
-            {"hi": "बारंबारता", "en": "Frequency"},
-            {"hi": "वर्ग अंतराल", "en": "Class Interval"},
-            {"hi": "ऊपरी सीमा", "en": "Upper Limit"}
+            {"hi": "दो हल", "en": "Two solutions"},
+            {"hi": "अद्वितीय हल", "en": "A unique solution"},
+            {"hi": "अनेक हल", "en": "Many solutions"},
+            {"hi": "कोई हल नहीं", "en": "No solution"}
           ],
-          "answer": {"hi": "बारंबारता", "en": "Frequency"}
+          "answer": {"hi": "अद्वितीय हल", "en": "A unique solution"}
         },
         {
           "q": {
-            "hi": "बारंबारता बंटन सारणी बनाने के लिए किन चिह्नों का प्रयोग किया जाता है?",
-            "en": "Which marks are used to create a frequency distribution table?"
+            "hi": "समीकरण $2x + 1 = x - 3$ का हल क्या है?",
+            "en": "What is the solution to the equation $2x + 1 = x - 3$?"
           },
           "options": [
-            {"hi": "प्लस चिह्न", "en": "Plus marks"},
-            {"hi": "मिलान चिह्न", "en": "Tally marks"},
-            {"hi": "क्रॉस चिह्न", "en": "Cross marks"},
-            {"hi": "चेक चिह्न", "en": "Check marks"}
+            {"hi": "x = 4", "en": "x = 4"},
+            {"hi": "x = -4", "en": "x = -4"},
+            {"hi": "x = 2", "en": "x = 2"},
+            {"hi": "x = -2", "en": "x = -2"}
           ],
-          "answer": {"hi": "मिलान चिह्न", "en": "Tally marks"}
+          "answer": {"hi": "x = -4", "en": "x = -4"}
         },
         {
           "q": {
-            "hi": "आँकड़ों को बड़े समूहों में व्यवस्थित करने के लिए किसका प्रयोग किया जाता है?",
-            "en": "What is used to organize data into large groups?"
+            "hi": "समीकरण $y = 3x + 5$ के लिए कौन सा कथन सत्य है?",
+            "en": "Which statement is true for the equation $y = 3x + 5$?"
           },
           "options": [
-            {"hi": "एकल अंक", "en": "Single digits"},
-            {"hi": "वर्ग अंतराल", "en": "Class intervals"},
-            {"hi": "केवल चित्र", "en": "Only pictures"},
-            {"hi": "कोई नहीं", "en": "None"}
+            {"hi": "अद्वितीय हल है", "en": "Has a unique solution"},
+            {"hi": "केवल दो हल हैं", "en": "Has only two solutions"},
+            {"hi": "अपरिमित रूप से अनेक हल हैं", "en": "Has infinitely many solutions"},
+            {"hi": "कोई हल नहीं है", "en": "Has no solution"}
           ],
-          "answer": {"hi": "वर्ग अंतराल", "en": "Class intervals"}
+          "answer": {"hi": "अपरिमित रूप से अनेक हल हैं", "en": "Has infinitely many solutions"}
         },
         {
           "q": {
-            "hi": "वर्ग अंतराल 20-30 में '20' क्या है?",
-            "en": "What is '20' in the class interval 20-30?"
+            "hi": "यदि $x=2, y=1$ समीकरण $2x + 3y = k$ का एक हल है, तो $k$ का मान क्या होगा?",
+            "en": "If $x=2, y=1$ is a solution to the equation $2x + 3y = k$, what is the value of $k$?"
           },
           "options": [
-            {"hi": "ऊपरी वर्ग सीमा", "en": "Upper class limit"},
-            {"hi": "निम्न वर्ग सीमा", "en": "Lower class limit"},
-            {"hi": "वर्ग चौड़ाई", "en": "Class width"},
-            {"hi": "बारंबारता", "en": "Frequency"}
+            {"hi": "5", "en": "5"},
+            {"hi": "6", "en": "6"},
+            {"hi": "7", "en": "7"},
+            {"hi": "8", "en": "8"}
           ],
-          "answer": {"hi": "निम्न वर्ग सीमा", "en": "Lower class limit"}
+          "answer": {"hi": "7", "en": "7"}
         },
         {
           "q": {
-            "hi": "वर्ग अंतराल 20-30 में '30' क्या है?",
-            "en": "What is '30' in the class interval 20-30?"
+            "hi": "एक रैखिक समीकरण $ax + by + c = 0$ में $a$ और $b$ दोनों क्या नहीं हो सकते?",
+            "en": "In a linear equation $ax + by + c = 0$, what can $a$ and $b$ not both be?"
           },
           "options": [
-            {"hi": "निम्न वर्ग सीमा", "en": "Lower class limit"},
-            {"hi": "ऊपरी वर्ग सीमा", "en": "Upper class limit"},
-            {"hi": "वर्ग माप", "en": "Class size"},
-            {"hi": "मिलान चिह्न", "en": "Tally mark"}
+            {"hi": "धनात्मक", "en": "Positive"},
+            {"hi": "ऋणात्मक", "en": "Negative"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "एक", "en": "One"}
           ],
-          "answer": {"hi": "ऊपरी वर्ग सीमा", "en": "Upper class limit"}
+          "answer": {"hi": "शून्य", "en": "Zero"}
         },
         {
           "q": {
-            "hi": "ऊपरी सीमा और निम्न सीमा के अंतर को क्या कहते हैं?",
-            "en": "What is the difference between the upper limit and the lower limit called?"
+            "hi": "समीकरण $2x + 3y = 9.355$ में $c$ का मान क्या होगा यदि इसे $ax + by + c = 0$ के रूप में लिखें?",
+            "en": "What is the value of $c$ in the equation $2x + 3y = 9.355$ if written in the form $ax + by + c = 0$?"
           },
           "options": [
-            {"hi": "बारंबारता", "en": "Frequency"},
-            {"hi": "वर्ग अंतराल की चौड़ाई", "en": "Width or size of class interval"},
-            {"hi": "मिलान चिह्न", "en": "Tally mark"},
-            {"hi": "सूचना", "en": "Information"}
+            {"hi": "9.355", "en": "9.355"},
+            {"hi": "-9.355", "en": "-9.355"},
+            {"hi": "0", "en": "0"},
+            {"hi": "2", "en": "2"}
           ],
-          "answer": {"hi": "वर्ग अंतराल की चौड़ाई", "en": "Width or size of class interval"}
+          "answer": {"hi": "-9.355", "en": "-9.355"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "वर्गीकृत आँकड़ों का आलेखीय निरूपण क्या कहलाता है?",
-            "en": "What is the graphical representation of grouped data called?"
+            "hi": "समीकरण $y = 3$ को दो चरों में किस प्रकार लिखा जा सकता है?",
+            "en": "How can the equation $y = 3$ be written in two variables?"
           },
           "options": [
-            {"hi": "दंड आलेख", "en": "Bar graph"},
-            {"hi": "आयत चित्र", "en": "Histogram"},
-            {"hi": "चित्रालेख", "en": "Pictograph"},
-            {"hi": "बिंदु आलेख", "en": "Point graph"}
+            {"hi": "0x + 1y = 3", "en": "0x + 1y = 3"},
+            {"hi": "1x + 0y = 3", "en": "1x + 0y = 3"},
+            {"hi": "1x + 1y = 3", "en": "1x + 1y = 3"},
+            {"hi": "0x + 0y = 3", "en": "0x + 0y = 3"}
           ],
-          "answer": {"hi": "आयत चित्र", "en": "Histogram"}
+          "answer": {"hi": "0x + 1y = 3", "en": "0x + 1y = 3"}
         },
         {
           "q": {
-            "hi": "आयत चित्र में दंडों के बीच कितनी रिक्तता होती है?",
-            "en": "How much gap is there between bars in a histogram?"
+            "hi": "बिंदु $(1, 2)$ किस समीकरण का हल है?",
+            "en": "Which equation is point $(1, 2)$ a solution for?"
           },
           "options": [
-            {"hi": "समान रिक्तता", "en": "Equal gap"},
-            {"hi": "कोई रिक्तता नहीं", "en": "No gap"},
-            {"hi": "बहुत अधिक रिक्तता", "en": "Large gap"},
-            {"hi": "अनिश्चित", "en": "Uncertain"}
+            {"hi": "x + y = 3", "en": "x + y = 3"},
+            {"hi": "x - y = 3", "en": "x - y = 3"},
+            {"hi": "2x + y = 3", "en": "2x + y = 3"},
+            {"hi": "x + 2y = 3", "en": "x + 2y = 3"}
           ],
-          "answer": {"hi": "कोई रिक्तता नहीं", "en": "No gap"}
+          "answer": {"hi": "x + y = 3", "en": "x + y = 3"}
         },
         {
           "q": {
-            "hi": "एक वृत्त आलेख एक संपूर्ण और उसके भागों में संबंध दर्शाता है, इसे और क्या कहते हैं?",
-            "en": "A circle graph shows the relation between a whole and its parts, what else is it called?"
+            "hi": "यदि $x=4$ और $y=0$ समीकरण का हल है, तो वह बिंदु कहाँ स्थित होगा?",
+            "en": "If $x=4$ and $y=0$ is a solution, where will the point be located?"
           },
           "options": [
-            {"hi": "बार चार्ट", "en": "Bar chart"},
-            {"hi": "आयत चित्र", "en": "Histogram"},
-            {"hi": "पाई चार्ट", "en": "Pie chart"},
-            {"hi": "चित्रालेख", "en": "Pictograph"}
+            {"hi": "y-अक्ष पर", "en": "On the y-axis"},
+            {"hi": "x-अक्ष पर", "en": "On the x-axis"},
+            {"hi": "मूल बिंदु पर", "en": "At the origin"},
+            {"hi": "द्वितीय चतुर्थांश में", "en": "In the second quadrant"}
           ],
-          "answer": {"hi": "पाई चार्ट", "en": "Pie chart"}
+          "answer": {"hi": "x-अक्ष पर", "en": "On the x-axis"}
         },
         {
           "q": {
-            "hi": "वृत्त के केंद्र पर कुल कोण कितना होता है?",
-            "en": "What is the total angle at the center of a circle?"
+            "hi": "समीकरण $2x + y = 7$ के लिए जब $x=0$ हो, तो $y$ का मान क्या होगा?",
+            "en": "For the equation $2x + y = 7$, when $x=0$, what is the value of $y$?"
           },
           "options": [
-            {"hi": "90°", "en": "90°"},
-            {"hi": "180°", "en": "180°"},
-            {"hi": "270°", "en": "270°"},
-            {"hi": "360°", "en": "360°"}
+            {"hi": "0", "en": "0"},
+            {"hi": "7", "en": "7"},
+            {"hi": "3.5", "en": "3.5"},
+            {"hi": "2", "en": "2"}
           ],
-          "answer": {"hi": "360°", "en": "360°"}
+          "answer": {"hi": "7", "en": "7"}
         },
         {
           "q": {
-            "hi": "पाई चार्ट में प्रत्येक त्रिज्यखंड का आकार किसके समानुपाती होता है?",
-            "en": "In a pie chart, the size of each sector is proportional to what?"
+            "hi": "समीकरण $x = 0$ किसको निरूपित करता है?",
+            "en": "What does the equation $x = 0$ represent?"
           },
           "options": [
-            {"hi": "वृत्त की त्रिज्या", "en": "Radius of the circle"},
-            {"hi": "निरूपित सूचना", "en": "Information represented"},
-            {"hi": "दंड की लंबाई", "en": "Length of the bar"},
-            {"hi": "वर्ग अंतराल", "en": "Class interval"}
+            {"hi": "x-अक्ष को", "en": "The x-axis"},
+            {"hi": "y-अक्ष को", "en": "The y-axis"},
+            {"hi": "मूल बिंदु को", "en": "The origin"},
+            {"hi": "एक विकर्ण रेखा को", "en": "A diagonal line"}
           ],
-          "answer": {"hi": "निरूपित सूचना", "en": "Information represented"}
+          "answer": {"hi": "y-अक्ष को", "en": "The y-axis"}
         },
         {
           "q": {
-            "hi": "एक पासे को फेंकने पर कितने परिणाम प्राप्त होते हैं?",
-            "en": "How many outcomes are obtained when a die is thrown?"
+            "hi": "समीकरण $y = 0$ किसको निरूपित करता है?",
+            "en": "What does the equation $y = 0$ represent?"
           },
           "options": [
-            {"hi": "2", "en": "2"},
+            {"hi": "x-अक्ष को", "en": "The x-axis"},
+            {"hi": "y-अक्ष को", "en": "The y-axis"},
+            {"hi": "मूल बिंदु को", "en": "The origin"},
+            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+          ],
+          "answer": {"hi": "x-अक्ष को", "en": "The x-axis"}
+        },
+        {
+          "q": {
+            "hi": "समीकरण $x = a$ का आलेख किसके समांतर एक सरल रेखा होती है?",
+            "en": "The graph of equation $x = a$ is a straight line parallel to which axis?"
+          },
+          "options": [
+            {"hi": "x-अक्ष के", "en": "The x-axis"},
+            {"hi": "y-अक्ष के", "en": "The y-axis"},
+            {"hi": "दोनों अक्षों के", "en": "Both axes"},
+            {"hi": "किसी के नहीं", "en": "None"}
+          ],
+          "answer": {"hi": "y-अक्ष के", "en": "The y-axis"}
+        },
+        {
+          "q": {
+            "hi": "समीकरण $y = b$ का आलेख किसके समांतर एक सरल रेखा होती है?",
+            "en": "The graph of equation $y = b$ is a straight line parallel to which axis?"
+          },
+          "options": [
+            {"hi": "x-अक्ष के", "en": "The x-axis"},
+            {"hi": "y-अक्ष के", "en": "The y-axis"},
+            {"hi": "मूल बिंदु के", "en": "The origin"},
+            {"hi": "विकर्ण के", "en": "The diagonal"}
+          ],
+          "answer": {"hi": "x-अक्ष के", "en": "The x-axis"}
+        },
+        {
+          "q": {
+            "hi": "समीकरण $y = mx$ का आलेख सदैव कहाँ से होकर जाता है?",
+            "en": "The graph of equation $y = mx$ always passes through where?"
+          },
+          "options": [
+            {"hi": "मूल बिंदु (0, 0) से", "en": "The origin (0, 0)"},
+            {"hi": "x-अक्ष से", "en": "The x-axis"},
+            {"hi": "y-अक्ष से", "en": "The y-axis"},
+            {"hi": "अनंत से", "en": "Infinity"}
+          ],
+          "answer": {"hi": "मूल बिंदु (0, 0) से", "en": "The origin (0, 0)"}
+        },
+        {
+          "q": {
+            "hi": "यदि समीकरण $3x + 4y = 12$ में $y=0$ हो, तो $x$ का मान क्या होगा?",
+            "en": "In the equation $3x + 4y = 12$, if $y=0$, what is the value of $x$?"
+          },
+          "options": [
+            {"hi": "3", "en": "3"},
             {"hi": "4", "en": "4"},
-            {"hi": "6", "en": "6"},
-            {"hi": "8", "en": "8"}
+            {"hi": "12", "en": "12"},
+            {"hi": "0", "en": "0"}
           ],
-          "answer": {"hi": "6", "en": "6"}
-        },
-        {
-          "q": {
-            "hi": "एक सिक्के को उछालने पर क्या परिणाम आ सकते हैं?",
-            "en": "What are the possible outcomes of tossing a coin?"
-          },
-          "options": [
-            {"hi": "चित (Head) या पट (Tail)", "en": "Head or Tail"},
-            {"hi": "1, 2, 3", "en": "1, 2, 3"},
-            {"hi": "लाल या काला", "en": "Red or Black"},
-            {"hi": "कोई नहीं", "en": "None"}
-          ],
-          "answer": {"hi": "चित (Head) या पट (Tail)", "en": "Head or Tail"}
-        },
-        {
-          "q": {
-            "hi": "ऐसा प्रयोग जिसमें परिणामों की ठीक भविष्यवाणी पहले से नहीं की जा सकती, क्या कहलाता है?",
-            "en": "An experiment where the outcomes cannot be exactly predicted in advance is called?"
-          },
-          "options": [
-            {"hi": "निश्चित प्रयोग", "en": "Certain experiment"},
-            {"hi": "यदृच्छ प्रयोग", "en": "Random experiment"},
-            {"hi": "असंभव प्रयोग", "en": "Impossible experiment"},
-            {"hi": "गणितीय प्रयोग", "en": "Mathematical experiment"}
-          ],
-          "answer": {"hi": "यदृच्छ प्रयोग", "en": "Random experiment"}
-        },
-        {
-          "q": {
-            "hi": "यदि परिणामों के आने के संयोग बराबर हों, तो वे क्या कहलाते हैं?",
-            "en": "If the chances of outcomes occurring are equal, what are they called?"
-          },
-          "options": [
-            {"hi": "विषम परिणाम", "en": "Odd outcomes"},
-            {"hi": "समप्रायिक परिणाम", "en": "Equally likely outcomes"},
-            {"hi": "निश्चित परिणाम", "en": "Certain outcomes"},
-            {"hi": "असंभव परिणाम", "en": "Impossible outcomes"}
-          ],
-          "answer": {"hi": "समप्रायिक परिणाम", "en": "Equally likely outcomes"}
-        },
-        {
-          "q": {
-            "hi": "एक घटना की प्रायिकता का सूत्र क्या है?",
-            "en": "What is the formula for the probability of an event?"
-          },
-          "options": [
-            {"hi": "कुल परिणाम / घटना के परिणाम", "en": "Total outcomes / Event outcomes"},
-            {"hi": "घटना के परिणाम / कुल परिणाम", "en": "Event outcomes / Total outcomes"},
-            {"hi": "घटना के परिणाम + कुल परिणाम", "en": "Event outcomes + Total outcomes"},
-            {"hi": "घटना के परिणाम * कुल परिणाम", "en": "Event outcomes * Total outcomes"}
-          ],
-          "answer": {"hi": "घटना के परिणाम / कुल परिणाम", "en": "Event outcomes / Total outcomes"}
+          "answer": {"hi": "4", "en": "4"}
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "एक पासे को फेंकने पर संख्या 6 प्राप्त करने की प्रायिकता क्या है?",
-            "en": "What is the probability of getting a 6 when a die is thrown?"
+            "hi": "दो चरों वाले रैखिक समीकरण $ax + by + c = 0$ का आलेख कैसी आकृति होती है?",
+            "en": "What shape is the graph of a linear equation in two variables $ax + by + c = 0$?"
           },
           "options": [
-            {"hi": "1/2", "en": "1/2"},
-            {"hi": "1/4", "en": "1/4"},
-            {"hi": "1/6", "en": "1/6"},
-            {"hi": "1", "en": "1"}
+            {"hi": "वृत्त", "en": "Circle"},
+            {"hi": "परवलय", "en": "Parabola"},
+            {"hi": "एक सरल रेखा", "en": "A straight line"},
+            {"hi": "एक वक्र रेखा", "en": "A curved line"}
           ],
-          "answer": {"hi": "1/6", "en": "1/6"}
+          "answer": {"hi": "एक सरल रेखा", "en": "A straight line"}
         },
         {
           "q": {
-            "hi": "एक सिक्के को उछालने पर 'चित' (Head) प्राप्त करने की प्रायिकता क्या है?",
-            "en": "What is the probability of getting a 'Head' when a coin is tossed?"
+            "hi": "रैखिक समीकरण $2x + 3y = 12$ का एक हल $(3, 2)$ है। क्या यह कथन सत्य है?",
+            "en": "Is it true that $(3, 2)$ is a solution for the linear equation $2x + 3y = 12$?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"},
+            {"hi": "केवल x=3 के लिए", "en": "Only for x=3"}
+          ],
+          "answer": {"hi": "हाँ", "en": "Yes"}
+        },
+        {
+          "q": {
+            "hi": "समीकरण $\\pi x + y = 9$ में जब $x=0$ हो, तो $y$ का मान क्या होगा?",
+            "en": "In the equation $\\pi x + y = 9$, when $x=0$, what is the value of $y$?"
           },
           "options": [
             {"hi": "0", "en": "0"},
-            {"hi": "1/2", "en": "1/2"},
-            {"hi": "1", "en": "1"},
-            {"hi": "1/4", "en": "1/4"}
+            {"hi": "9", "en": "9"},
+            {"hi": "$\\pi$", "en": "$\\pi$"},
+            {"hi": "$9 - \\pi$", "en": "$9 - \\pi$"}
           ],
-          "answer": {"hi": "1/2", "en": "1/2"}
+          "answer": {"hi": "9", "en": "9"}
         },
         {
           "q": {
-            "hi": "एक पासे को फेंकने पर 6 से बड़ी संख्या प्राप्त करने की प्रायिकता क्या है?",
-            "en": "What is the probability of getting a number greater than 6 when a die is thrown?"
+            "hi": "दो चरों वाले रैखिक समीकरण में प्रत्येक चर की अधिकतम घात कितनी होती है?",
+            "en": "What is the maximum degree of each variable in a linear equation in two variables?"
           },
           "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "1/2", "en": "1/2"},
             {"hi": "0", "en": "0"},
-            {"hi": "1/6", "en": "1/6"}
-          ],
-          "answer": {"hi": "0", "en": "0"}
-        },
-        {
-          "q": {
-            "hi": "आँकड़ों का आलेखीय निरूपण क्यों किया जाता है?",
-            "en": "Why is graphical representation of data done?"
-          },
-          "options": [
-            {"hi": "सुस्पष्टता के लिए", "en": "For clarity"},
-            {"hi": "कठिनाई बढ़ाने के लिए", "en": "To increase difficulty"},
-            {"hi": "पन्ने भरने के लिए", "en": "To fill pages"},
-            {"hi": "कोई कारण नहीं", "en": "No reason"}
-          ],
-          "answer": {"hi": "सुस्पष्टता के लिए", "en": "For clarity"}
-        },
-        {
-          "q": {
-            "hi": "वर्ग अंतराल 10-20 की माप (size) क्या है?",
-            "en": "What is the size of the class interval 10-20?"
-          },
-          "options": [
-            {"hi": "10", "en": "10"},
-            {"hi": "20", "en": "20"},
-            {"hi": "30", "en": "30"},
-            {"hi": "5", "en": "5"}
-          ],
-          "answer": {"hi": "10", "en": "10"}
-        },
-        {
-          "q": {
-            "hi": "आँकड़ों को क्रमबद्ध रूप में संगठित करने की आवश्यकता क्यों पड़ती है?",
-            "en": "Why is there a need to organize data in an orderly manner?"
-          },
-          "options": [
-            {"hi": "देखने में अच्छा लगने के लिए", "en": "To look good"},
-            {"hi": "अर्थपूर्ण निष्कर्ष निकालने के लिए", "en": "To draw meaningful conclusions"},
-            {"hi": "समय बिताने के लिए", "en": "To pass time"},
-            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
-          ],
-          "answer": {"hi": "अर्थपूर्ण निष्कर्ष निकालने के लिए", "en": "To draw meaningful conclusions"}
-        },
-        {
-          "q": {
-            "hi": "एक पासे को फेंकने पर एक अभाज्य संख्या (prime number) आने की प्रायिकता क्या है?",
-            "en": "What is the probability of getting a prime number when a die is thrown?"
-          },
-          "options": [
-            {"hi": "1/6", "en": "1/6"},
-            {"hi": "1/3", "en": "1/3"},
-            {"hi": "1/2", "en": "1/2"},
-            {"hi": "2/3", "en": "2/3"}
-          ],
-          "answer": {"hi": "1/2", "en": "1/2"}
-        },
-        {
-          "q": {
-            "hi": "मिलान चिह्न '||||' किसको प्रदर्शित करता है?",
-            "en": "What does the tally mark '||||' represent?"
-          },
-          "options": [
             {"hi": "1", "en": "1"},
             {"hi": "2", "en": "2"},
-            {"hi": "4", "en": "4"},
-            {"hi": "5", "en": "5"}
+            {"hi": "अनंत", "en": "Infinite"}
           ],
-          "answer": {"hi": "4", "en": "4"}
+          "answer": {"hi": "1", "en": "1"}
         },
         {
           "q": {
-            "hi": "पाई चार्ट में कुल योग का 1/4 भाग कितने अंश के केंद्रीय कोण द्वारा दर्शाया जाएगा?",
-            "en": "What central angle will represent 1/4th of the total sum in a pie chart?"
+            "hi": "समीकरण $2x + 5y = 0$ के कितने हल संभव हैं?",
+            "en": "How many solutions are possible for the equation $2x + 5y = 0$?"
           },
           "options": [
-            {"hi": "45°", "en": "45°"},
-            {"hi": "90°", "en": "90°"},
-            {"hi": "180°", "en": "180°"},
-            {"hi": "60°", "en": "60°"}
+            {"hi": "केवल एक", "en": "Only one"},
+            {"hi": "केवल दो", "en": "Only two"},
+            {"hi": "अपरिमित रूप से अनेक", "en": "Infinitely many"},
+            {"hi": "कोई नहीं", "en": "None"}
           ],
-          "answer": {"hi": "90°", "en": "90°"}
+          "answer": {"hi": "अपरिमित रूप से अनेक", "en": "Infinitely many"}
         },
         {
           "q": {
-            "hi": "वर्ग अंतराल 0-10, 10-20 में संख्या 10 को किस अंतराल में गिना जाएगा?",
-            "en": "In which interval will the number 10 be counted: 0-10 or 10-20?"
+            "hi": "बिंदु $(0, 4)$ किस समीकरण का हल है?",
+            "en": "Which equation is point $(0, 4)$ a solution for?"
           },
           "options": [
-            {"hi": "0-10", "en": "0-10"},
-            {"hi": "10-20", "en": "10-20"},
-            {"hi": "दोनों में", "en": "In both"},
-            {"hi": "किसी में नहीं", "en": "In none"}
+            {"hi": "x + y = 0", "en": "x + y = 0"},
+            {"hi": "y = x + 4", "en": "y = x + 4"},
+            {"hi": "x = y + 4", "en": "x = y + 4"},
+            {"hi": "2x + y = 0", "en": "2x + y = 0"}
           ],
-          "answer": {"hi": "10-20", "en": "10-20"}
+          "answer": {"hi": "y = x + 4", "en": "y = x + 4"}
+        },
+        {
+          "q": {
+            "hi": "यदि $x=1, y=2$ समीकरण $3x + 2y = k$ का हल है, तो $k$ का मान क्या होगा?",
+            "en": "If $x=1, y=2$ is a solution to $3x + 2y = k$, what is $k$?"
+          },
+          "options": [
+            {"hi": "5", "en": "5"},
+            {"hi": "7", "en": "7"},
+            {"hi": "1", "en": "1"},
+            {"hi": "6", "en": "6"}
+          ],
+          "answer": {"hi": "7", "en": "7"}
+        },
+        {
+          "q": {
+            "hi": "समीकरण $x = 2$ का आलेख y-अक्ष के समांतर कितनी दूरी पर होगा?",
+            "en": "At what distance will the graph of $x = 2$ be parallel to the y-axis?"
+          },
+          "options": [
+            {"hi": "1 इकाई दाईं ओर", "en": "1 unit to the right"},
+            {"hi": "2 इकाई दाईं ओर", "en": "2 units to the right"},
+            {"hi": "2 इकाई बाईं ओर", "en": "2 units to the left"},
+            {"hi": "0 इकाई", "en": "0 units"}
+          ],
+          "answer": {"hi": "2 इकाई दाईं ओर", "en": "2 units to the right"}
+        },
+        {
+          "q": {
+            "hi": "समीकरण $x + y = 0$ का आलेख कहाँ से होकर गुजरेगा?",
+            "en": "Where will the graph of $x + y = 0$ pass through?"
+          },
+          "options": [
+            {"hi": "मूल बिंदु से", "en": "Through the origin"},
+            {"hi": "केवल x-अक्ष से", "en": "Only through the x-axis"},
+            {"hi": "केवल y-अक्ष से", "en": "Only through the y-axis"},
+            {"hi": "(1, 1) से", "en": "Through (1, 1)"}
+          ],
+          "answer": {"hi": "मूल बिंदु से", "en": "Through the origin"}
+        },
+        {
+          "q": {
+            "hi": "समीकरण $5x - 2y = 10$ में जब $x=0$ हो, तो $y$ क्या होगा?",
+            "en": "In $5x - 2y = 10$, when $x=0$, what is $y$?"
+          },
+          "options": [
+            {"hi": "5", "en": "5"},
+            {"hi": "-5", "en": "-5"},
+            {"hi": "10", "en": "10"},
+            {"hi": "2", "en": "2"}
+          ],
+          "answer": {"hi": "-5", "en": "-5"}
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "एक थैले में 4 लाल और 2 पीली गेंदें हैं। एक लाल गेंद निकालने की प्रायिकता क्या है?",
-            "en": "A bag has 4 red and 2 yellow balls. What is the probability of drawing a red ball?"
+            "hi": "क्रिकेट मैच में दो बल्लेबाजों द्वारा बनाए गए रनों का योग 176 है। इसका रैखिक समीकरण क्या होगा?",
+            "en": "The sum of runs scored by two batsmen in a cricket match is 176. What will be its linear equation?"
           },
           "options": [
-            {"hi": "4/6 या 2/3", "en": "4/6 or 2/3"},
-            {"hi": "2/6 या 1/3", "en": "2/6 or 1/3"},
-            {"hi": "1/2", "en": "1/2"},
-            {"hi": "1/4", "en": "1/4"}
+            {"hi": "x + y = 176", "en": "x + y = 176"},
+            {"hi": "x - y = 176", "en": "x - y = 176"},
+            {"hi": "xy = 176", "en": "xy = 176"},
+            {"hi": "2x + 2y = 176", "en": "2x + 2y = 176"}
           ],
-          "answer": {"hi": "4/6 या 2/3", "en": "4/6 or 2/3"}
+          "answer": {"hi": "x + y = 176", "en": "x + y = 176"}
         },
         {
           "q": {
-            "hi": "दंड आलेख में दंडों की चौड़ाई कैसी होनी चाहिए?",
-            "en": "What should be the width of the bars in a bar graph?"
+            "hi": "समीकरण $x = -5$ को दो चरों में कैसे व्यक्त करेंगे?",
+            "en": "How to express equation $x = -5$ in two variables?"
           },
           "options": [
-            {"hi": "समान", "en": "Uniform/Same"},
-            {"hi": "अलग-अलग", "en": "Different"},
-            {"hi": "बढ़ती हुई", "en": "Increasing"},
-            {"hi": "कोई नियम नहीं", "en": "No rule"}
+            {"hi": "1x + 0y + 5 = 0", "en": "1x + 0y + 5 = 0"},
+            {"hi": "0x + 1y + 5 = 0", "en": "0x + 1y + 5 = 0"},
+            {"hi": "x + y = -5", "en": "x + y = -5"},
+            {"hi": "1x + 0y - 5 = 0", "en": "1x + 0y - 5 = 0"}
           ],
-          "answer": {"hi": "समान", "en": "Uniform/Same"}
+          "answer": {"hi": "1x + 0y + 5 = 0", "en": "1x + 0y + 5 = 0"}
         },
         {
           "q": {
-            "hi": "प्रायिकता का मान किसके बीच होता है?",
-            "en": "Between what values does probability lie?"
+            "hi": "रैखिक समीकरण $ax + by + c = 0$ के आलेख पर स्थित प्रत्येक बिंदु समीकरण का क्या होता है?",
+            "en": "Each point lying on the graph of linear equation $ax + by + c = 0$ is what to the equation?"
           },
           "options": [
-            {"hi": "-1 और 1", "en": "-1 and 1"},
-            {"hi": "0 और 1", "en": "0 and 1"},
-            {"hi": "1 और 10", "en": "1 and 10"},
-            {"hi": "हमेशा 1", "en": "Always 1"}
+            {"hi": "एक गुणांक", "en": "A coefficient"},
+            {"hi": "एक हल", "en": "A solution"},
+            {"hi": "एक चर", "en": "A variable"},
+            {"hi": "शून्य", "en": "Zero"}
           ],
-          "answer": {"hi": "0 और 1", "en": "0 and 1"}
+          "answer": {"hi": "एक हल", "en": "A solution"}
         },
         {
           "q": {
-            "hi": "किसी प्रयोग के वे परिणाम जिनके आने के संयोग बराबर हों, क्या कहलाते हैं?",
-            "en": "Outcomes of an experiment that have equal chances of occurring are called?"
+            "hi": "समीकरण $2x + 3y = 6$ का आलेख x-अक्ष को किस बिंदु पर काटता है?",
+            "en": "At what point does the graph of $2x + 3y = 6$ intersect the x-axis?"
           },
           "options": [
-            {"hi": "समप्रायिक", "en": "Equally likely"},
-            {"hi": "असंभव", "en": "Impossible"},
-            {"hi": "निश्चित", "en": "Certain"},
-            {"hi": "अतार्किक", "en": "Irrational"}
+            {"hi": "(0, 2)", "en": "(0, 2)"},
+            {"hi": "(3, 0)", "en": "(3, 0)"},
+            {"hi": "(6, 0)", "en": "(6, 0)"},
+            {"hi": "(0, 3)", "en": "(0, 3)"}
           ],
-          "answer": {"hi": "समप्रायिक", "en": "Equally likely"}
+          "answer": {"hi": "(3, 0)", "en": "(3, 0)"}
         },
         {
           "q": {
-            "hi": "एक पासे को फेंकने पर 2 से बड़ी संख्या आने की प्रायिकता क्या है?",
-            "en": "What is the probability of getting a number greater than 2 when a die is thrown?"
+            "hi": "समीकरण $2x + 3y = 6$ का आलेख y-अक्ष को किस बिंदु पर काटता है?",
+            "en": "At what point does the graph of $2x + 3y = 6$ intersect the y-axis?"
           },
           "options": [
-            {"hi": "1/6", "en": "1/6"},
-            {"hi": "2/6", "en": "2/6"},
-            {"hi": "4/6 या 2/3", "en": "4/6 or 2/3"},
-            {"hi": "1/2", "en": "1/2"}
+            {"hi": "(0, 2)", "en": "(0, 2)"},
+            {"hi": "(3, 0)", "en": "(3, 0)"},
+            {"hi": "(2, 0)", "en": "(2, 0)"},
+            {"hi": "(0, 6)", "en": "(0, 6)"}
           ],
-          "answer": {"hi": "4/6 या 2/3", "en": "4/6 or 2/3"}
+          "answer": {"hi": "(0, 2)", "en": "(0, 2)"}
         },
         {
           "q": {
-            "hi": "दंड आलेख में दंडों की ऊँचाई क्या दर्शाती है?",
-            "en": "What does the height of the bars in a bar graph represent?"
+            "hi": "यदि समीकरण $x - 2y = 4$ है, तो कौन सा बिंदु इसका हल नहीं है?",
+            "en": "If the equation is $x - 2y = 4$, which point is NOT a solution?"
           },
           "options": [
-            {"hi": "नाम", "en": "Name"},
-            {"hi": "बारंबारता (मान)", "en": "Frequency (Value)"},
-            {"hi": "समय", "en": "Time"},
-            {"hi": "दूरी", "en": "Distance"}
+            {"hi": "(4, 0)", "en": "(4, 0)"},
+            {"hi": "(2, 0)", "en": "(2, 0)"},
+            {"hi": "(0, -2)", "en": "(0, -2)"},
+            {"hi": "(6, 1)", "en": "(6, 1)"}
           ],
-          "answer": {"hi": "बारंबारता (मान)", "en": "Frequency (Value)"}
+          "answer": {"hi": "(2, 0)", "en": "(2, 0)"}
         },
         {
           "q": {
-            "hi": "आँकड़ों के प्रबंधन में पहला चरण क्या होता है?",
-            "en": "What is the first step in data handling?"
+            "hi": "किसी रैखिक समीकरण का आलेख खींचने के लिए कम से कम कितने हलों की आवश्यकता होती है?",
+            "en": "At least how many solutions are required to draw the graph of a linear equation?"
           },
           "options": [
-            {"hi": "आलेख बनाना", "en": "Drawing a graph"},
-            {"hi": "आँकड़ों का एकत्रीकरण", "en": "Collection of data"},
-            {"hi": "निष्कर्ष निकालना", "en": "Drawing conclusions"},
-            {"hi": "पाई चार्ट बनाना", "en": "Making a pie chart"}
+            {"hi": "एक", "en": "One"},
+            {"hi": "दो", "en": "Two"},
+            {"hi": "तीन", "en": "Three"},
+            {"hi": "चार", "en": "Four"}
           ],
-          "answer": {"hi": "आँकड़ों का एकत्रीकरण", "en": "Collection of data"}
+          "answer": {"hi": "दो", "en": "Two"}
         },
         {
           "q": {
-            "hi": "पाई चार्ट में पूरा वृत्त कितने प्रतिशत को दर्शाता है?",
-            "en": "In a pie chart, the whole circle represents what percentage?"
+            "hi": "समीकरण $x = y$ का आलेख किन चतुर्थांशों से होकर गुजरता है?",
+            "en": "Through which quadrants does the graph of $x = y$ pass?"
           },
           "options": [
-            {"hi": "50%", "en": "50%"},
-            {"hi": "75%", "en": "75%"},
-            {"hi": "100%", "en": "100%"},
-            {"hi": "360%", "en": "360%"}
+            {"hi": "I और II", "en": "I and II"},
+            {"hi": "I और III", "en": "I and III"},
+            {"hi": "II और IV", "en": "II and IV"},
+            {"hi": "III और IV", "en": "III and IV"}
           ],
-          "answer": {"hi": "100%", "en": "100%"}
+          "answer": {"hi": "I और III", "en": "I and III"}
         },
         {
           "q": {
-            "hi": "एक पासे को फेंकने पर एक सम संख्या (even number) प्राप्त करने की प्रायिकता क्या है?",
-            "en": "What is the probability of getting an even number when a die is thrown?"
+            "hi": "समीकरण $x + y = 2$ के आलेख पर कौन सा बिंदु स्थित होगा?",
+            "en": "Which point will lie on the graph of $x + y = 2$?"
           },
           "options": [
-            {"hi": "1/2", "en": "1/2"},
-            {"hi": "1/3", "en": "1/3"},
-            {"hi": "1/6", "en": "1/6"},
-            {"hi": "1", "en": "1"}
+            {"hi": "(1, 1)", "en": "(1, 1)"},
+            {"hi": "(2, 2)", "en": "(2, 2)"},
+            {"hi": "(0, 0)", "en": "(0, 0)"},
+            {"hi": "(1, 2)", "en": "(1, 2)"}
           ],
-          "answer": {"hi": "1/2", "en": "1/2"}
+          "answer": {"hi": "(1, 1)", "en": "(1, 1)"}
         },
         {
           "q": {
-            "hi": "यदि किसी घटना की प्रायिकता 1 है, तो वह कैसी घटना है?",
-            "en": "If the probability of an event is 1, what kind of event is it?"
+            "hi": "समीकरण $x - 2 = 0$ का आलेख कैसी रेखा है?",
+            "en": "What kind of line is the graph of $x - 2 = 0$?"
           },
           "options": [
-            {"hi": "असंभव", "en": "Impossible"},
-            {"hi": "निश्चित", "en": "Certain/Sure"},
-            {"hi": "यदृच्छ", "en": "Random"},
-            {"hi": "संदेहास्पद", "en": "Doubtful"}
+            {"hi": "x-अक्ष के समांतर", "en": "Parallel to the x-axis"},
+            {"hi": "y-अक्ष के समांतर", "en": "Parallel to the y-axis"},
+            {"hi": "मूल बिंदु से गुजरती", "en": "Passing through the origin"},
+            {"hi": "अक्षों पर लंब", "en": "Perpendicular to axes"}
           ],
-          "answer": {"hi": "निश्चित", "en": "Certain/Sure"}
+          "answer": {"hi": "y-अक्ष के समांतर", "en": "Parallel to the y-axis"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "यदि किसी घटना की प्रायिकता 0 है, तो वह कैसी घटना है?",
-            "en": "If the probability of an event is 0, what kind of event is it?"
+            "hi": "समीकरण $y = 3x$ के लिए जब $x=1$ हो, तो $y$ क्या होगा?",
+            "en": "In $y = 3x$, when $x=1$, what is $y$?"
           },
           "options": [
-            {"hi": "निश्चित", "en": "Certain"},
-            {"hi": "असंभव", "en": "Impossible"},
-            {"hi": "संभावित", "en": "Possible"},
-            {"hi": "यदृच्छ", "en": "Random"}
+            {"hi": "1", "en": "1"},
+            {"hi": "3", "en": "3"},
+            {"hi": "0", "en": "0"},
+            {"hi": "-3", "en": "-3"}
           ],
-          "answer": {"hi": "असंभव", "en": "Impossible"}
+          "answer": {"hi": "3", "en": "3"}
         },
         {
           "q": {
-            "hi": "52 पत्तों की ताश की गड्डी में से एक इक्का प्राप्त करने की प्रायिकता क्या है?",
-            "en": "What is the probability of getting an ace from a deck of 52 cards?"
+            "hi": "दो चरों वाले रैखिक समीकरण को और क्या कहा जा सकता है?",
+            "en": "What else can a linear equation in two variables be called?"
           },
           "options": [
-            {"hi": "1/52", "en": "1/52"},
-            {"hi": "4/52 या 1/13", "en": "4/52 or 1/13"},
-            {"hi": "1/4", "en": "1/4"},
-            {"hi": "1/2", "en": "1/2"}
+            {"hi": "द्विघात समीकरण", "en": "Quadratic equation"},
+            {"hi": "रैखिक समीकरण", "en": "Linear equation"},
+            {"hi": "घन समीकरण", "en": "Cubic equation"},
+            {"hi": "अचर समीकरण", "en": "Constant equation"}
           ],
-          "answer": {"hi": "4/52 या 1/13", "en": "4/52 or 1/13"}
+          "answer": {"hi": "रैखिक समीकरण", "en": "Linear equation"}
         },
         {
           "q": {
-            "hi": "पाई चार्ट बनाने के लिए सबसे पहले क्या ज्ञात करना आवश्यक है?",
-            "en": "What is first necessary to calculate for making a pie chart?"
+            "hi": "समीकरण $2x + y = 6$ के चार हलों में से एक $(2, 2)$ है।",
+            "en": "One of the four solutions for $2x + y = 6$ is $(2, 2)$."
           },
           "options": [
-            {"hi": "त्रिज्या", "en": "Radius"},
-            {"hi": "केंद्रीय कोण", "en": "Central angle"},
-            {"hi": "परिधि", "en": "Circumference"},
-            {"hi": "व्यास", "en": "Diameter"}
+            {"hi": "सत्य", "en": "True"},
+            {"hi": "असत्य", "en": "False"},
+            {"hi": "केवल x=2 के लिए", "en": "Only for x=2"},
+            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"}
           ],
-          "answer": {"hi": "केंद्रीय कोण", "en": "Central angle"}
+          "answer": {"hi": "सत्य", "en": "True"}
         },
         {
           "q": {
-            "hi": "पाई चार्ट में केंद्रीय कोण का सूत्र क्या है?",
-            "en": "What is the formula for the central angle in a pie chart?"
+            "hi": "बिंदु $(2, 14)$ से होकर जाने वाली एक रेखा का समीकरण क्या हो सकता है?",
+            "en": "What could be the equation of a line passing through point $(2, 14)$?"
           },
           "options": [
-            {"hi": "(मान / कुल मान) * 180°", "en": "(Value / Total Value) * 180°"},
-            {"hi": "(मान / कुल मान) * 360°", "en": "(Value / Total Value) * 360°"},
-            {"hi": "मान * 360°", "en": "Value * 360°"},
-            {"hi": "कुल मान / 360°", "en": "Total Value / 360°"}
+            {"hi": "x + y = 16", "en": "x + y = 16"},
+            {"hi": "7x - y = 0", "en": "7x - y = 0"},
+            {"hi": "उपरोक्त दोनों", "en": "Both of the above"},
+            {"hi": "x - y = 12", "en": "x - y = 12"}
           ],
-          "answer": {"hi": "(मान / कुल मान) * 360°", "en": "(Value / Total Value) * 360°"}
+          "answer": {"hi": "उपरोक्त दोनों", "en": "Both of the above"}
         },
         {
           "q": {
-            "hi": "आँकड़ों का समूह जिसे वर्ग अंतरालों में नहीं बांटा गया है, क्या कहलाता है?",
-            "en": "A collection of data that is not divided into class intervals is called?"
+            "hi": "समीकरण $y = 3x + 5$ का आलेख y-अक्ष को कहाँ काटेगा?",
+            "en": "Where will the graph of $y = 3x + 5$ intersect the y-axis?"
           },
           "options": [
-            {"hi": "वर्गीकृत आँकड़े", "en": "Grouped data"},
-            {"hi": "अवर्गीकृत आँकड़े", "en": "Ungrouped data"},
-            {"hi": "पाई चार्ट", "en": "Pie chart"},
-            {"hi": "आयत चित्र", "en": "Histogram"}
+            {"hi": "(0, 0)", "en": "(0, 0)"},
+            {"hi": "(0, 5)", "en": "(0, 5)"},
+            {"hi": "(5, 0)", "en": "(5, 0)"},
+            {"hi": "(3, 0)", "en": "(3, 0)"}
           ],
-          "answer": {"hi": "अवर्गीकृत आँकड़े", "en": "Ungrouped data"}
+          "answer": {"hi": "(0, 5)", "en": "(0, 5)"}
         },
         {
           "q": {
-            "hi": "दंड आलेख में दो दंडों के बीच की दूरी कैसी होनी चाहिए?",
-            "en": "What should be the distance between two bars in a bar graph?"
+            "hi": "समीकरण $2y + 9 = 0$ का एक चर में हल क्या है?",
+            "en": "What is the solution for $2y + 9 = 0$ in one variable?"
           },
           "options": [
-            {"hi": "असमान", "en": "Unequal"},
-            {"hi": "समान", "en": "Equal/Same"},
-            {"hi": "शून्य", "en": "Zero"},
-            {"hi": "कोई नियम नहीं", "en": "No rule"}
+            {"hi": "y = 4.5", "en": "y = 4.5"},
+            {"hi": "y = -4.5", "en": "y = -4.5"},
+            {"hi": "y = 9", "en": "y = 9"},
+            {"hi": "y = -9", "en": "y = -9"}
           ],
-          "answer": {"hi": "समान", "en": "Equal/Same"}
+          "answer": {"hi": "y = -4.5", "en": "y = -4.5"}
         },
         {
           "q": {
-            "hi": "एक पासे को फेंकने पर संख्या 2 या 4 आने की प्रायिकता क्या है?",
-            "en": "What is the probability of getting either a 2 or a 4 when a die is thrown?"
+            "hi": "समीकरण $x = y$ के आलेख पर स्थित किसी बिंदु के रूप क्या होंगे?",
+            "en": "What will be the form of any point lying on the graph of $x = y$?"
           },
           "options": [
-            {"hi": "1/6", "en": "1/6"},
-            {"hi": "2/6 या 1/3", "en": "2/6 or 1/3"},
-            {"hi": "1/2", "en": "1/2"},
-            {"hi": "4/6", "en": "4/6"}
+            {"hi": "(a, a)", "en": "(a, a)"},
+            {"hi": "(a, -a)", "en": "(a, -a)"},
+            {"hi": "(0, a)", "en": "(0, a)"},
+            {"hi": "(a, 0)", "en": "(a, 0)"}
           ],
-          "answer": {"hi": "2/6 या 1/3", "en": "2/6 or 1/3"}
+          "answer": {"hi": "(a, a)", "en": "(a, a)"}
         },
         {
           "q": {
-            "hi": "पाई चार्ट में त्रिज्यखंड का कोण 180° है, तो यह कुल का कितना भाग है?",
-            "en": "If the sector angle in a pie chart is 180°, what part of the total is it?"
+            "hi": "समीकरण $x + y = 0$ के आलेख पर स्थित किसी बिंदु के रूप क्या होंगे?",
+            "en": "What will be the form of any point lying on the graph of $x + y = 0$?"
           },
           "options": [
-            {"hi": "1/4", "en": "1/4"},
-            {"hi": "1/3", "en": "1/3"},
-            {"hi": "1/2", "en": "1/2"},
-            {"hi": "1/6", "en": "1/6"}
+            {"hi": "(a, a)", "en": "(a, a)"},
+            {"hi": "(a, -a)", "en": "(a, -a)"},
+            {"hi": "(-a, -a)", "en": "(-a, -a)"},
+            {"hi": "(0, 0) के अलावा कुछ नहीं", "en": "Nothing except (0, 0)"}
           ],
-          "answer": {"hi": "1/2", "en": "1/2"}
+          "answer": {"hi": "(a, -a)", "en": "(a, -a)"}
         },
         {
           "q": {
-            "hi": "आयत चित्र में x-अक्ष पर क्या दर्शाया जाता है?",
-            "en": "What is shown on the x-axis in a histogram?"
+            "hi": "समीकरण $x + 2y = 6$ के हलों की संख्या क्या है?",
+            "en": "What is the number of solutions for the equation $x + 2y = 6$?"
           },
           "options": [
-            {"hi": "बारंबारता", "en": "Frequency"},
-            {"hi": "वर्ग अंतराल", "en": "Class intervals"},
-            {"hi": "कुल योग", "en": "Total sum"},
-            {"hi": "प्रायिकता", "en": "Probability"}
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "अपरिमित", "en": "Infinite"},
+            {"hi": "शून्य", "en": "Zero"}
           ],
-          "answer": {"hi": "वर्ग अंतराल", "en": "Class intervals"}
+          "answer": {"hi": "अपरिमित", "en": "Infinite"}
         },
         {
           "q": {
-            "hi": "आँकड़ों का प्रबंधन पाठ का मुख्य उद्देश्य क्या है?",
-            "en": "What is the main objective of the Data Handling lesson?"
+            "hi": "दो चरों वाले रैखिक समीकरण का मानक रूप क्या है?",
+            "en": "What is the standard form of a linear equation in two variables?"
           },
           "options": [
-            {"hi": "चित्र बनाना सीखना", "en": "Learning to draw"},
-            {"hi": "सूचनाओं को संगठित कर निष्कर्ष निकालना", "en": "Organizing information and drawing conclusions"},
-            {"hi": "गणित से डरना", "en": "Fear of math"},
-            {"hi": "कोई नहीं", "en": "None"}
+            {"hi": "ax + b = 0", "en": "ax + b = 0"},
+            {"hi": "ax + by + c = 0", "en": "ax + by + c = 0"},
+            {"hi": "ax^2 + bx + c = 0", "en": "ax^2 + bx + c = 0"},
+            {"hi": "ax + by = 0", "en": "ax + by = 0"}
           ],
-          "answer": {"hi": "सूचनाओं को संगठित कर निष्कर्ष निकालना", "en": "Organizing information and drawing conclusions"}
+          "answer": {"hi": "ax + by + c = 0", "en": "ax + by + c = 0"}
         }
       ]
     },
