@@ -1328,661 +1328,661 @@
       "section1": [
         {
           "q": {
-            "hi": "केवल रेखाखंडों से बना सरल बंद वक्र क्या कहलाता है?",
-            "en": "What is a simple closed curve made up of only line segments called?"
+            "hi": "एक तल में किसी बिंदु की स्थिति निर्धारित करने वाली क्षैतिज रेखा को क्या कहा जाता है?",
+            "en": "What is the horizontal line called that determines the position of a point in a plane?"
           },
           "options": [
-            {"hi": "वक्र", "en": "Curve"},
-            {"hi": "बहुभुज", "en": "Polygon"},
-            {"hi": "वृत्त", "en": "Circle"},
-            {"hi": "रेखा", "en": "Line"}
+            {"hi": "y-अक्ष", "en": "y-axis"},
+            {"hi": "x-अक्ष", "en": "x-axis"},
+            {"hi": "मूलबिंदु", "en": "Origin"},
+            {"hi": "चतुर्थांश", "en": "Quadrant"}
           ],
-          "answer": {"hi": "बहुभुज", "en": "Polygon"}
+          "answer": {"hi": "x-अक्ष", "en": "x-axis"}
         },
         {
           "q": {
-            "hi": "जिस बहुभुज के विकर्णों का कोई भी भाग बहिर्भाग में नहीं होता, वह क्या कहलाता है?",
-            "en": "A polygon whose diagonals have no portion in its exterior is called?"
+            "hi": "किसी बिंदु की स्थिति निर्धारित करने वाली ऊर्ध्वाधर रेखा को क्या कहा जाता है?",
+            "en": "What is the vertical line called that determines the position of a point in a plane?"
           },
           "options": [
-            {"hi": "अवतल बहुभुज", "en": "Concave polygon"},
-            {"hi": "उत्तल बहुभुज", "en": "Convex polygon"},
-            {"hi": "विषम बहुभुज", "en": "Irregular polygon"},
-            {"hi": "सरल वक्र", "en": "Simple curve"}
+            {"hi": "x-अक्ष", "en": "x-axis"},
+            {"hi": "y-अक्ष", "en": "y-axis"},
+            {"hi": "भुज", "en": "Abscissa"},
+            {"hi": "कोटि", "en": "Ordinate"}
           ],
-          "answer": {"hi": "उत्तल बहुभुज", "en": "Convex polygon"}
+          "answer": {"hi": "y-अक्ष", "en": "y-axis"}
         },
         {
           "q": {
-            "hi": "एक सम बहुभुज (Regular Polygon) कैसा होता है?",
-            "en": "What are the characteristics of a regular polygon?"
+            "hi": "जिस बिंदु पर x-अक्ष और y-अक्ष एक-दूसरे को काटते हैं, उसे क्या कहते हैं?",
+            "en": "What is the point called where the x-axis and y-axis intersect each other?"
           },
           "options": [
-            {"hi": "केवल समभुज", "en": "Equilateral only"},
-            {"hi": "केवल समकोणिक", "en": "Equiangular only"},
-            {"hi": "समभुज तथा समकोणिक", "en": "Both equilateral and equiangular"},
-            {"hi": "विषमबाहु", "en": "Scalene"}
+            {"hi": "केंद्र", "en": "Center"},
+            {"hi": "मूलबिंदु", "en": "Origin"},
+            {"hi": "शून्य बिंदु", "en": "Zero point"},
+            {"hi": "प्रतिच्छेद बिंदु", "en": "Intersection point"}
           ],
-          "answer": {"hi": "समभुज तथा समकोणिक", "en": "Both equilateral and equiangular"}
+          "answer": {"hi": "मूलबिंदु", "en": "Origin"}
         },
         {
           "q": {
-            "hi": "एक वर्ग किस प्रकार का बहुभुज है?",
-            "en": "What type of polygon is a square?"
+            "hi": "निर्देशांक अक्ष तल को चार भागों में विभाजित करते हैं, जिन्हें क्या कहा जाता है?",
+            "en": "The coordinate axes divide the plane into four parts, which are called?"
           },
           "options": [
-            {"hi": "विषम बहुभुज", "en": "Irregular polygon"},
-            {"hi": "सम बहुभुज", "en": "Regular polygon"},
-            {"hi": "अवतल बहुभुज", "en": "Concave polygon"},
-            {"hi": "त्रिभुज", "en": "Triangle"}
+            {"hi": "खंड", "en": "Segments"},
+            {"hi": "चतुर्थांश", "en": "Quadrants"},
+            {"hi": "अर्धतल", "en": "Half-planes"},
+            {"hi": "वर्ग", "en": "Squares"}
           ],
-          "answer": {"hi": "सम बहुभुज", "en": "Regular polygon"}
+          "answer": {"hi": "चतुर्थांश", "en": "Quadrants"}
         },
         {
           "q": {
-            "hi": "किसी बहुभुज के सभी बाह्य कोणों के मापों का योग कितना होता है?",
-            "en": "What is the sum of the measures of the external angles of any polygon?"
+            "hi": "मूलबिंदु के निर्देशांक क्या होते हैं?",
+            "en": "What are the coordinates of the origin?"
           },
           "options": [
-            {"hi": "180°", "en": "180°"},
-            {"hi": "360°", "en": "360°"},
-            {"hi": "540°", "en": "540°"},
-            {"hi": "90°", "en": "90°"}
+            {"hi": "(1, 1)", "en": "(1, 1)"},
+            {"hi": "(0, 1)", "en": "(0, 1)"},
+            {"hi": "(1, 0)", "en": "(1, 0)"},
+            {"hi": "(0, 0)", "en": "(0, 0)"}
           ],
-          "answer": {"hi": "360°", "en": "360°"}
+          "answer": {"hi": "(0, 0)", "en": "(0, 0)"}
         },
         {
           "q": {
-            "hi": "एक सम बहुभुज की भुजाओं की संख्या क्या होगी यदि प्रत्येक बाह्य कोण 45° हो?",
-            "en": "What is the number of sides of a regular polygon if each exterior angle is 45°?"
+            "hi": "किसी बिंदु के x-निर्देशांक को और क्या कहा जाता है?",
+            "en": "What else is the x-coordinate of a point called?"
+          },
+          "options": [
+            {"hi": "कोटि", "en": "Ordinate"},
+            {"hi": "भुज", "en": "Abscissa"},
+            {"hi": "मूल", "en": "Root"},
+            {"hi": "अक्ष", "en": "Axis"}
+          ],
+          "answer": {"hi": "भुज", "en": "Abscissa"}
+        },
+        {
+          "q": {
+            "hi": "किसी बिंदु के y-निर्देशांक को और क्या कहा जाता है?",
+            "en": "What else is the y-coordinate of a point called?"
+          },
+          "options": [
+            {"hi": "भुज", "en": "Abscissa"},
+            {"hi": "कोटि", "en": "Ordinate"},
+            {"hi": "ऊंचाई", "en": "Height"},
+            {"hi": "दूरी", "en": "Distance"}
+          ],
+          "answer": {"hi": "कोटि", "en": "Ordinate"}
+        },
+        {
+          "q": {
+            "hi": "एक बिंदु के निर्देशांक (3, 4) हैं। यहाँ भुज क्या है?",
+            "en": "The coordinates of a point are (3, 4). What is the abscissa here?"
           },
           "options": [
             {"hi": "4", "en": "4"},
-            {"hi": "6", "en": "6"},
-            {"hi": "8", "en": "8"},
-            {"hi": "10", "en": "10"}
+            {"hi": "3", "en": "3"},
+            {"hi": "7", "en": "7"},
+            {"hi": "12", "en": "12"}
           ],
-          "answer": {"hi": "8", "en": "8"}
+          "answer": {"hi": "3", "en": "3"}
         },
         {
           "q": {
-            "hi": "वह चतुर्भुज जिसमें भुजाओं का केवल एक युग्म समांतर होता है, क्या कहलाता है?",
-            "en": "What is a quadrilateral called in which only one pair of sides is parallel?"
+            "hi": "बिंदु (-2, 5) किस चतुर्थांश में स्थित है?",
+            "en": "In which quadrant is the point (-2, 5) located?"
           },
           "options": [
-            {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"},
-            {"hi": "समलंब", "en": "Trapezium"},
-            {"hi": "पतंग", "en": "Kite"},
-            {"hi": "आयत", "en": "Rectangle"}
+            {"hi": "प्रथम", "en": "First"},
+            {"hi": "द्वितीय", "en": "Second"},
+            {"hi": "तृतीय", "en": "Third"},
+            {"hi": "चतुर्थ", "en": "Fourth"}
           ],
-          "answer": {"hi": "समलंब", "en": "Trapezium"}
+          "answer": {"hi": "द्वितीय", "en": "Second"}
         },
         {
           "q": {
-            "hi": "एक समांतर चतुर्भुज में सम्मुख भुजाएँ कैसी होती हैं?",
-            "en": "How are the opposite sides in a parallelogram?"
+            "hi": "x-अक्ष पर स्थित किसी भी बिंदु की कोटि (y-निर्देशांक) क्या होती है?",
+            "en": "What is the ordinate (y-coordinate) of any point lying on the x-axis?"
           },
           "options": [
-            {"hi": "असमान", "en": "Unequal"},
-            {"hi": "बराबर माप की", "en": "Equal in measure"},
-            {"hi": "केवल लंबवत", "en": "Only perpendicular"},
-            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+            {"hi": "1", "en": "1"},
+            {"hi": "x के बराबर", "en": "Equal to x"},
+            {"hi": "0", "en": "0"},
+            {"hi": "-1", "en": "-1"}
           ],
-          "answer": {"hi": "बराबर माप की", "en": "Equal in measure"}
-        },
-        {
-          "q": {
-            "hi": "समांतर चतुर्भुज के आसन्न कोण (Adjacent Angles) कैसे होते हैं?",
-            "en": "What is the property of adjacent angles in a parallelogram?"
-          },
-          "options": [
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "संपूरक (180°)", "en": "Supplementary (180°)"},
-            {"hi": "पूरक (90°)", "en": "Complementary (90°)"},
-            {"hi": "विषम", "en": "Odd"}
-          ],
-          "answer": {"hi": "संपूरक (180°)", "en": "Supplementary (180°)"}
-        },
-        {
-          "q": {
-            "hi": "समांतर चतुर्भुज के विकर्णों का मुख्य गुण क्या है?",
-            "en": "What is the main property of the diagonals of a parallelogram?"
-          },
-          "options": [
-            {"hi": "बराबर होते हैं", "en": "Are equal"},
-            {"hi": "एक दूसरे को समद्विभाजित करते हैं", "en": "Bisect each other"},
-            {"hi": "लंब होते हैं", "en": "Are perpendicular"},
-            {"hi": "प्रतिच्छेद नहीं करते", "en": "Do not intersect"}
-          ],
-          "answer": {"hi": "एक दूसरे को समद्विभाजित करते हैं", "en": "Bisect each other"}
+          "answer": {"hi": "0", "en": "0"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "एक समचतुर्भुज (Rhombus) की सभी भुजाएँ कैसी होती हैं?",
-            "en": "How are all the sides of a rhombus?"
+            "hi": "y-अक्ष पर स्थित किसी बिंदु का भुज (x-निर्देशांक) क्या होता है?",
+            "en": "What is the abscissa (x-coordinate) of a point lying on the y-axis?"
           },
           "options": [
-            {"hi": "असमान लंबाई की", "en": "Of unequal length"},
-            {"hi": "बराबर लंबाई की", "en": "Of equal length"},
-            {"hi": "केवल सम्मुख भुजाएँ बराबर", "en": "Only opposite sides equal"},
-            {"hi": "परिभाषित नहीं है", "en": "Not defined"}
+            {"hi": "0", "en": "0"},
+            {"hi": "1", "en": "1"},
+            {"hi": "y के बराबर", "en": "Equal to y"},
+            {"hi": "कोई भी संख्या", "en": "Any number"}
           ],
-          "answer": {"hi": "बराबर लंबाई की", "en": "Of equal length"}
+          "answer": {"hi": "0", "en": "0"}
         },
         {
           "q": {
-            "hi": "समचतुर्भुज के विकर्ण एक दूसरे को किस कोण पर समद्विभाजित करते हैं?",
-            "en": "At what angle do the diagonals of a rhombus bisect each other?"
+            "hi": "बिंदु (4, -3) किस चतुर्थांश में स्थित है?",
+            "en": "In which quadrant is the point (4, -3) located?"
           },
           "options": [
-            {"hi": "45°", "en": "45°"},
-            {"hi": "60°", "en": "60°"},
-            {"hi": "90° (समकोण)", "en": "90° (Right angle)"},
-            {"hi": "180°", "en": "180°"}
+            {"hi": "प्रथम", "en": "First"},
+            {"hi": "द्वितीय", "en": "Second"},
+            {"hi": "तृतीय", "en": "Third"},
+            {"hi": "चतुर्थ", "en": "Fourth"}
           ],
-          "answer": {"hi": "90° (समकोण)", "en": "90° (Right angle)"}
+          "answer": {"hi": "चतुर्थ", "en": "Fourth"}
         },
         {
           "q": {
-            "hi": "एक आयत (Rectangle) क्या है?",
-            "en": "What is a rectangle?"
+            "hi": "यदि भुज और कोटि दोनों ऋणात्मक हों, तो बिंदु किस चतुर्थांश में होगा?",
+            "en": "If both abscissa and ordinate are negative, in which quadrant will the point be?"
           },
           "options": [
-            {"hi": "विषम चतुर्भुज", "en": "Irregular quadrilateral"},
-            {"hi": "समांतर चतुर्भुज जिसके सभी कोण समान हों", "en": "A parallelogram with all equal angles"},
-            {"hi": "अवतल बहुभुज", "en": "Concave polygon"},
-            {"hi": "पतंग", "en": "Kite"}
+            {"hi": "प्रथम", "en": "First"},
+            {"hi": "द्वितीय", "en": "Second"},
+            {"hi": "तृतीय", "en": "Third"},
+            {"hi": "चतुर्थ", "en": "Fourth"}
           ],
-          "answer": {"hi": "समांतर चतुर्भुज जिसके सभी कोण समान हों", "en": "A parallelogram with all equal angles"}
+          "answer": {"hi": "तृतीय", "en": "Third"}
         },
         {
           "q": {
-            "hi": "आयत का प्रत्येक कोण कितने अंश का होता है?",
-            "en": "What is the measure of each angle of a rectangle?"
+            "hi": "बिंदु (0, 5) कहाँ स्थित है?",
+            "en": "Where is the point (0, 5) located?"
           },
           "options": [
-            {"hi": "60°", "en": "60°"},
-            {"hi": "90°", "en": "90°"},
-            {"hi": "100°", "en": "100°"},
-            {"hi": "120°", "en": "120°"}
+            {"hi": "x-अक्ष पर", "en": "On the x-axis"},
+            {"hi": "y-अक्ष पर", "en": "On the y-axis"},
+            {"hi": "प्रथम चतुर्थांश में", "en": "In the first quadrant"},
+            {"hi": "मूलबिंदु पर", "en": "At the origin"}
           ],
-          "answer": {"hi": "90°", "en": "90°"}
+          "answer": {"hi": "y-अक्ष पर", "en": "On the y-axis"}
         },
         {
           "q": {
-            "hi": "आयत के विकर्णों के बारे में कौन सा कथन सत्य है?",
-            "en": "Which statement is true about the diagonals of a rectangle?"
+            "hi": "बिंदु (-3, 0) कहाँ स्थित है?",
+            "en": "Where is the point (-3, 0) located?"
           },
           "options": [
-            {"hi": "वे असमान होते हैं", "en": "They are unequal"},
-            {"hi": "वे बराबर लंबाई के होते हैं", "en": "They are of equal length"},
-            {"hi": "वे समकोण पर नहीं काटते", "en": "They don't cut at right angles"},
-            {"hi": "विकर्ण नहीं होते", "en": "There are no diagonals"}
+            {"hi": "y-अक्ष पर", "en": "On the y-axis"},
+            {"hi": "द्वितीय चतुर्थांश में", "en": "In the second quadrant"},
+            {"hi": "x-अक्ष पर", "en": "On the x-axis"},
+            {"hi": "तृतीय चतुर्थांश में", "en": "In the third quadrant"}
           ],
-          "answer": {"hi": "वे बराबर लंबाई के होते हैं", "en": "They are of equal length"}
+          "answer": {"hi": "x-अक्ष पर", "en": "On the x-axis"}
         },
         {
           "q": {
-            "hi": "वर्ग (Square) के बारे में क्या सही है?",
-            "en": "What is true about a square?"
+            "hi": "रेने देकार्त ने किस प्रणाली का विकास किया था?",
+            "en": "Which system did Rene Descartes develop?"
           },
           "options": [
-            {"hi": "यह एक आयत है जिसकी भुजाएँ बराबर हैं", "en": "It is a rectangle with equal sides"},
-            {"hi": "इसके विकर्ण बराबर नहीं होते", "en": "Its diagonals are not equal"},
-            {"hi": "यह समांतर चतुर्भुज नहीं है", "en": "It is not a parallelogram"},
-            {"hi": "केवल दो भुजाएँ समांतर हैं", "en": "Only two sides are parallel"}
+            {"hi": "संख्या रेखा", "en": "Number line"},
+            {"hi": "कार्तीय प्रणाली", "en": "Cartesian system"},
+            {"hi": "बीजगणित", "en": "Algebra"},
+            {"hi": "त्रिकोणमिति", "en": "Trigonometry"}
           ],
-          "answer": {"hi": "यह एक आयत है जिसकी भुजाएँ बराबर हैं", "en": "It is a rectangle with equal sides"}
+          "answer": {"hi": "कार्तीय प्रणाली", "en": "Cartesian system"}
         },
         {
           "q": {
-            "hi": "वर्ग के विकर्ण एक दूसरे को कैसे प्रतिच्छेद करते हैं?",
-            "en": "How do the diagonals of a square intersect each other?"
+            "hi": "प्रथम चतुर्थांश में स्थित किसी बिंदु के चिन्ह क्या होते हैं?",
+            "en": "What are the signs of a point located in the first quadrant?"
           },
           "options": [
-            {"hi": "केवल प्रतिच्छेद करते हैं", "en": "Just intersect"},
-            {"hi": "समकोण पर समद्विभाजित करते हैं", "en": "Bisect each other at right angles"},
-            {"hi": "बराबर नहीं होते", "en": "Are not equal"},
-            {"hi": "60° पर काटते हैं", "en": "Cut at 60°"}
+            {"hi": "(+, +)", "en": "(+, +)"},
+            {"hi": "(-, +)", "en": "(-, +)"},
+            {"hi": "(-, -)", "en": "(-, -)"},
+            {"hi": "(+, -)", "en": "(+, -)"}
           ],
-          "answer": {"hi": "समकोण पर समद्विभाजित करते हैं", "en": "Bisect each other at right angles"}
+          "answer": {"hi": "(+, +)", "en": "(+, +)"}
         },
         {
           "q": {
-            "hi": "एक पतंग (Kite) में कितने अलग-अलग आसन्न भुजाओं के युग्म होते हैं?",
-            "en": "How many distinct consecutive pairs of sides are there in a kite?"
+            "hi": "बिंदु P(2, 3) की y-अक्ष से लंबवत दूरी क्या है?",
+            "en": "What is the perpendicular distance of point P(2, 3) from the y-axis?"
           },
           "options": [
-            {"hi": "एक", "en": "One"},
-            {"hi": "दो", "en": "Two"},
-            {"hi": "तीन", "en": "Three"},
-            {"hi": "चार", "en": "Four"}
+            {"hi": "3 इकाई", "en": "3 units"},
+            {"hi": "2 इकाई", "en": "2 units"},
+            {"hi": "5 इकाई", "en": "5 units"},
+            {"hi": "√13 इकाई", "en": "√13 units"}
           ],
-          "answer": {"hi": "दो", "en": "Two"}
+          "answer": {"hi": "2 इकाई", "en": "2 units"}
         },
         {
           "q": {
-            "hi": "यदि समलंब की असमांतर भुजाएँ बराबर लंबाई की हों, तो उसे क्या कहते हैं?",
-            "en": "If the non-parallel sides of a trapezium are of equal length, what is it called?"
+            "hi": "बिंदु M(-4, -6) की x-अक्ष से दूरी क्या है?",
+            "en": "What is the distance of point M(-4, -6) from the x-axis?"
           },
           "options": [
-            {"hi": "समबाहु समलंब", "en": "Equilateral trapezium"},
-            {"hi": "समद्विबाहु समलंब", "en": "Isosceles trapezium"},
-            {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"},
-            {"hi": "वर्ग", "en": "Square"}
+            {"hi": "4 इकाई", "en": "4 units"},
+            {"hi": "-6 इकाई", "en": "-6 units"},
+            {"hi": "6 इकाई", "en": "6 units"},
+            {"hi": "10 इकाई", "en": "10 units"}
           ],
-          "answer": {"hi": "समद्विबाहु समलंब", "en": "Isosceles trapezium"}
+          "answer": {"hi": "6 इकाई", "en": "6 units"}
         },
         {
           "q": {
-            "hi": "क्या सभी वर्ग समांतर चतुर्भुज होते हैं?",
-            "en": "Are all squares parallelograms?"
+            "hi": "चतुर्थ चतुर्थांश में निर्देशांकों के चिन्ह क्या होते हैं?",
+            "en": "What are the signs of coordinates in the fourth quadrant?"
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "कभी-कभी", "en": "Sometimes"},
-            {"hi": "कह नहीं सकते", "en": "Cannot say"}
+            {"hi": "(+, +)", "en": "(+, +)"},
+            {"hi": "(-, +)", "en": "(-, +)"},
+            {"hi": "(-, -)", "en": "(-, -)"},
+            {"hi": "(+, -)", "en": "(+, -)"}
           ],
-          "answer": {"hi": "हाँ", "en": "Yes"}
+          "answer": {"hi": "(+, -)", "en": "(+, -)"}
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "एक चतुर्भुज के चारों कोणों का योग कितना होता है?",
-            "en": "What is the sum of the four angles of a quadrilateral?"
+            "hi": "यदि किसी बिंदु का x-निर्देशांक शून्य है, तो वह बिंदु किस अक्ष पर होगा?",
+            "en": "If the x-coordinate of a point is zero, on which axis will that point lie?"
           },
           "options": [
-            {"hi": "180°", "en": "180°"},
-            {"hi": "270°", "en": "270°"},
-            {"hi": "360°", "en": "360°"},
-            {"hi": "540°", "en": "540°"}
+            {"hi": "x-अक्ष पर", "en": "On the x-axis"},
+            {"hi": "y-अक्ष पर", "en": "On the y-axis"},
+            {"hi": "दोनों पर", "en": "On both"},
+            {"hi": "किसी पर नहीं", "en": "On neither"}
           ],
-          "answer": {"hi": "360°", "en": "360°"}
+          "answer": {"hi": "y-अक्ष पर", "en": "On the y-axis"}
         },
         {
           "q": {
-            "hi": "यदि समांतर चतुर्भुज RING में ∠R = 70° हो, तो ∠N (सम्मुख कोण) का मान क्या होगा?",
-            "en": "In parallelogram RING, if ∠R = 70°, what will be the value of ∠N (opposite angle)?"
-          },
-          "options": [
-            {"hi": "110°", "en": "110°"},
-            {"hi": "70°", "en": "70°"},
-            {"hi": "180°", "en": "180°"},
-            {"hi": "90°", "en": "90°"}
-          ],
-          "answer": {"hi": "70°", "en": "70°"}
-        },
-        {
-          "q": {
-            "hi": "समांतर चतुर्भुज के आसन्न कोण ∠R और ∠I का योग कितना होगा?",
-            "en": "What will be the sum of adjacent angles ∠R and ∠I in a parallelogram?"
-          },
-          "options": [
-            {"hi": "90°", "en": "90°"},
-            {"hi": "180°", "en": "180°"},
-            {"hi": "360°", "en": "360°"},
-            {"hi": "70°", "en": "70°"}
-          ],
-          "answer": {"hi": "180°", "en": "180°"}
-        },
-        {
-          "q": {
-            "hi": "3 भुजाओं वाले सम बहुभुज का नाम क्या है?",
-            "en": "What is the name of a regular polygon with 3 sides?"
-          },
-          "options": [
-            {"hi": "विषमबाहु त्रिभुज", "en": "Scalene triangle"},
-            {"hi": "समबाहु त्रिभुज", "en": "Equilateral triangle"},
-            {"hi": "आयत", "en": "Rectangle"},
-            {"hi": "वर्ग", "en": "Square"}
-          ],
-          "answer": {"hi": "समबाहु त्रिभुज", "en": "Equilateral triangle"}
-        },
-        {
-          "q": {
-            "hi": "6 भुजाओं वाले सम बहुभुज का नाम क्या है?",
-            "en": "What is the name of a regular polygon with 6 sides?"
-          },
-          "options": [
-            {"hi": "सम पंचभुज", "en": "Regular pentagon"},
-            {"hi": "सम षड्भुज", "en": "Regular hexagon"},
-            {"hi": "सम अष्टभुज", "en": "Regular octagon"},
-            {"hi": "वर्ग", "en": "Square"}
-          ],
-          "answer": {"hi": "सम षड्भुज", "en": "Regular hexagon"}
-        },
-        {
-          "q": {
-            "hi": "एक सम बहुभुज की भुजाओं की संख्या क्या होगी यदि एक बाह्य कोण 24° हो?",
-            "en": "How many sides does a regular polygon have if an exterior angle is 24°?"
-          },
-          "options": [
-            {"hi": "10", "en": "10"},
-            {"hi": "12", "en": "12"},
-            {"hi": "15", "en": "15"},
-            {"hi": "20", "en": "20"}
-          ],
-          "answer": {"hi": "15", "en": "15"}
-        },
-        {
-          "q": {
-            "hi": "क्या 22° किसी सम बहुभुज का बाह्य कोण हो सकता है?",
-            "en": "Can 22° be an exterior angle of a regular polygon?"
-          },
-          "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं, क्योंकि 360, 22 से विभाज्य नहीं है", "en": "No, because 360 is not divisible by 22"},
-            {"hi": "केवल त्रिभुज के लिए", "en": "Only for a triangle"},
-            {"hi": "परिभाषित नहीं", "en": "Not defined"}
-          ],
-          "answer": {"hi": "नहीं, क्योंकि 360, 22 से विभाज्य नहीं है", "en": "No, because 360 is not divisible by 22"}
-        },
-        {
-          "q": {
-            "hi": "किसी सम बहुभुज में कम से कम कितने अंश का अंतःकोण संभव है?",
-            "en": "What is the minimum interior angle possible for a regular polygon?"
-          },
-          "options": [
-            {"hi": "90°", "en": "90°"},
-            {"hi": "60° (समबाहु त्रिभुज)", "en": "60° (Equilateral triangle)"},
-            {"hi": "45°", "en": "45°"},
-            {"hi": "120°", "en": "120°"}
-          ],
-          "answer": {"hi": "60° (समबाहु त्रिभुज)", "en": "60° (Equilateral triangle)"}
-        },
-        {
-          "q": {
-            "hi": "किसी सम बहुभुज में अधिक से अधिक कितने अंश का बाह्य कोण संभव है?",
-            "en": "What is the maximum exterior angle possible for a regular polygon?"
-          },
-          "options": [
-            {"hi": "120°", "en": "120°"},
-            {"hi": "90°", "en": "90°"},
-            {"hi": "180°", "en": "180°"},
-            {"hi": "360°", "en": "360°"}
-          ],
-          "answer": {"hi": "120°", "en": "120°"}
-        },
-        {
-          "q": {
-            "hi": "समांतर चतुर्भुज PQRS का परिमाप क्या होगा यदि PQ = 12 cm और QR = 7 cm?",
-            "en": "What is the perimeter of parallelogram PQRS if PQ = 12 cm and QR = 7 cm?"
-          },
-          "options": [
-            {"hi": "19 cm", "en": "19 cm"},
-            {"hi": "38 cm", "en": "38 cm"},
-            {"hi": "24 cm", "en": "24 cm"},
-            {"hi": "14 cm", "en": "14 cm"}
-          ],
-          "answer": {"hi": "38 cm", "en": "38 cm"}
-        }
-      ],
-      "section4": [
-        {
-          "q": {
-            "hi": "क्या सभी आयत वर्ग होते हैं?",
-            "en": "Are all rectangles squares?"
-          },
-          "options": [
-            {"hi": "सत्य", "en": "True"},
-            {"hi": "असत्य", "en": "False"},
-            {"hi": "केवल विशेष स्थितियों में", "en": "Only in special cases"},
-            {"hi": "निश्चित नहीं", "en": "Not certain"}
-          ],
-          "answer": {"hi": "असत्य", "en": "False"}
-        },
-        {
-          "q": {
-            "hi": "क्या सभी समचतुर्भुज समांतर चतुर्भुज होते हैं?",
-            "en": "Are all rhombuses parallelograms?"
+            "hi": "बिंदु (-5, 2) और (2, -5) क्या एक ही बिंदु को निरूपित करते हैं?",
+            "en": "Do points (-5, 2) and (2, -5) represent the same point?"
           },
           "options": [
             {"hi": "हाँ", "en": "Yes"},
             {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल वर्ग", "en": "Only squares"},
-            {"hi": "केवल पतंग", "en": "Only kites"}
-          ],
-          "answer": {"hi": "हाँ", "en": "Yes"}
-        },
-        {
-          "q": {
-            "hi": "क्या सभी वर्ग समचतुर्भुज और आयत भी होते हैं?",
-            "en": "Are all squares rhombuses and also rectangles?"
-          },
-          "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल समचतुर्भुज", "en": "Only rhombuses"},
-            {"hi": "केवल आयत", "en": "Only rectangles"}
-          ],
-          "answer": {"hi": "हाँ", "en": "Yes"}
-        },
-        {
-          "q": {
-            "hi": "क्या सभी वर्ग समांतर चतुर्भुज नहीं होते?",
-            "en": "Are all squares NOT parallelograms?"
-          },
-          "options": [
-            {"hi": "सत्य", "en": "True"},
-            {"hi": "असत्य", "en": "False"},
-            {"hi": "कह नहीं सकते", "en": "Cannot say"},
-            {"hi": "अपरिभाषित", "en": "Undefined"}
-          ],
-          "answer": {"hi": "असत्य", "en": "False"}
-        },
-        {
-          "q": {
-            "hi": "क्या सभी पतंगें समचतुर्भुज होती हैं?",
-            "en": "Are all kites rhombuses?"
-          },
-          "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "हमेशा", "en": "Always"},
-            {"hi": "शून्य भुजाओं के लिए", "en": "For zero sides"}
+            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"},
+            {"hi": "केवल मूलबिंदु पर", "en": "Only at origin"}
           ],
           "answer": {"hi": "नहीं", "en": "No"}
         },
         {
           "q": {
-            "hi": "क्या सभी समचतुर्भुज पतंग होते हैं?",
-            "en": "Are all rhombuses kites?"
+            "hi": "बिंदु A(5, 0), B(0, 5), C(-5, 0) और D(0, -5) में से कौन सा बिंदु x-अक्ष पर स्थित नहीं है?",
+            "en": "Which of the points A(5, 0), B(0, 5), C(-5, 0), and D(0, -5) is NOT located on the x-axis?"
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल यदि वे वर्ग हों", "en": "Only if they are squares"},
-            {"hi": "कभी नहीं", "en": "Never"}
+            {"hi": "A और C", "en": "A and C"},
+            {"hi": "B और D", "en": "B and D"},
+            {"hi": "केवल B", "en": "Only B"},
+            {"hi": "केवल D", "en": "Only D"}
           ],
-          "answer": {"hi": "हाँ", "en": "Yes"}
+          "answer": {"hi": "B और D", "en": "B and D"}
         },
         {
           "q": {
-            "hi": "क्या सभी समांतर चतुर्भुज समलंब होते हैं?",
-            "en": "Are all parallelograms trapeziums?"
+            "hi": "बिंदु (3, 3) किस चतुर्थांश में है?",
+            "en": "In which quadrant is the point (3, 3)?"
           },
           "options": [
-            {"hi": "सत्य", "en": "True"},
-            {"hi": "असत्य", "en": "False"},
-            {"hi": "केवल यदि भुजाएँ बराबर हों", "en": "Only if sides are equal"},
-            {"hi": "निश्चित नहीं", "en": "Not certain"}
+            {"hi": "प्रथम", "en": "First"},
+            {"hi": "द्वितीय", "en": "Second"},
+            {"hi": "तृतीय", "en": "Third"},
+            {"hi": "चतुर्थ", "en": "Fourth"}
           ],
-          "answer": {"hi": "सत्य", "en": "True"}
+          "answer": {"hi": "प्रथम", "en": "First"}
         },
         {
           "q": {
-            "hi": "क्या सभी वर्ग समलंब होते हैं?",
-            "en": "Are all squares trapeziums?"
+            "hi": "निर्देशांक तल को और किस नाम से जाना जाता है?",
+            "en": "By what other name is the coordinate plane known?"
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "अपरिभाषित", "en": "Undefined"},
-            {"hi": "केवल 90° के लिए", "en": "Only for 90°"}
+            {"hi": "x-y तल", "en": "x-y plane"},
+            {"hi": "कार्तीय तल", "en": "Cartesian plane"},
+            {"hi": "उपरोक्त दोनों", "en": "Both of the above"},
+            {"hi": "कोई नहीं", "en": "None"}
           ],
-          "answer": {"hi": "हाँ", "en": "Yes"}
+          "answer": {"hi": "उपरोक्त दोनों", "en": "Both of the above"}
         },
         {
           "q": {
-            "hi": "उस चतुर्भुज की पहचान कीजिए जिसकी चारों भुजाएँ बराबर लंबाई की हों।",
-            "en": "Identify the quadrilateral with four sides of equal length."
+            "hi": "बिंदु (-1, 0) किस अक्ष पर है?",
+            "en": "On which axis is the point (-1, 0)?"
           },
           "options": [
-            {"hi": "आयत और वर्ग", "en": "Rectangle and Square"},
-            {"hi": "समचतुर्भुज और वर्ग", "en": "Rhombus and Square"},
-            {"hi": "समांतर चतुर्भुज और आयत", "en": "Parallelogram and Rectangle"},
-            {"hi": "समलंब और पतंग", "en": "Trapezium and Kite"}
+            {"hi": "धनात्मक x-अक्ष", "en": "Positive x-axis"},
+            {"hi": "ऋणात्मक x-अक्ष", "en": "Negative x-axis"},
+            {"hi": "धनात्मक y-अक्ष", "en": "Positive y-axis"},
+            {"hi": "ऋणात्मक y-अक्ष", "en": "Negative y-axis"}
           ],
-          "answer": {"hi": "समचतुर्भुज और वर्ग", "en": "Rhombus and Square"}
+          "answer": {"hi": "ऋणात्मक x-अक्ष", "en": "Negative x-axis"}
         },
         {
           "q": {
-            "hi": "उस चतुर्भुज की पहचान कीजिए जिसमें चार समकोण हों।",
-            "en": "Identify the quadrilateral with four right angles."
+            "hi": "भुज ऋणात्मक और कोटि धनात्मक होने पर बिंदु किस चतुर्थांश में होगा?",
+            "en": "In which quadrant will the point be if the abscissa is negative and the ordinate is positive?"
           },
           "options": [
-            {"hi": "वर्ग और आयत", "en": "Square and Rectangle"},
-            {"hi": "समचतुर्भुज और समलंब", "en": "Rhombus and Trapezium"},
-            {"hi": "पतंग और समांतर चतुर्भुज", "en": "Kite and Parallelogram"},
-            {"hi": "केवल वर्ग", "en": "Only Square"}
+            {"hi": "प्रथम", "en": "First"},
+            {"hi": "द्वितीय", "en": "Second"},
+            {"hi": "तृतीय", "en": "Third"},
+            {"hi": "चतुर्थ", "en": "Fourth"}
           ],
-          "answer": {"hi": "वर्ग और आयत", "en": "Square and Rectangle"}
+          "answer": {"hi": "द्वितीय", "en": "Second"}
+        },
+        {
+          "q": {
+            "hi": "बिंदु (0, -7) कहाँ स्थित है?",
+            "en": "Where is the point (0, -7) located?"
+          },
+          "options": [
+            {"hi": "ऋणात्मक x-अक्ष पर", "en": "On the negative x-axis"},
+            {"hi": "ऋणात्मक y-अक्ष पर", "en": "On the negative y-axis"},
+            {"hi": "चतुर्थ चतुर्थांश में", "en": "In the fourth quadrant"},
+            {"hi": "तृतीय चतुर्थांश में", "en": "In the third quadrant"}
+          ],
+          "answer": {"hi": "ऋणात्मक y-अक्ष पर", "en": "On the negative y-axis"}
+        },
+        {
+          "q": {
+            "hi": "दो अक्षों के प्रतिच्छेद बिंदु के निर्देशांक क्या होते हैं?",
+            "en": "What are the coordinates of the intersection point of the two axes?"
+          },
+          "options": [
+            {"hi": "(0, 0)", "en": "(0, 0)"},
+            {"hi": "(1, 1)", "en": "(1, 1)"},
+            {"hi": "(x, y)", "en": "(x, y)"},
+            {"hi": "(0, 1)", "en": "(0, 1)"}
+          ],
+          "answer": {"hi": "(0, 0)", "en": "(0, 0)"}
+        },
+        {
+          "q": {
+            "hi": "बिंदु (4, 4) की x-अक्ष से लंबवत दूरी क्या है?",
+            "en": "What is the perpendicular distance of the point (4, 4) from the x-axis?"
+          },
+          "options": [
+            {"hi": "0", "en": "0"},
+            {"hi": "4", "en": "4"},
+            {"hi": "8", "en": "8"},
+            {"hi": "16", "en": "16"}
+          ],
+          "answer": {"hi": "4", "en": "4"}
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "यदि y-निर्देशांक शून्य है, तो बिंदु सदैव किस अक्ष पर स्थित होता है?",
+            "en": "If the y-coordinate is zero, on which axis does the point always lie?"
+          },
+          "options": [
+            {"hi": "x-अक्ष", "en": "x-axis"},
+            {"hi": "y-अक्ष", "en": "y-axis"},
+            {"hi": "मूलबिंदु", "en": "Origin"},
+            {"hi": "किसी भी चतुर्थांश में", "en": "In any quadrant"}
+          ],
+          "answer": {"hi": "x-अक्ष", "en": "x-axis"}
+        },
+        {
+          "q": {
+            "hi": "किसी बिंदु की y-अक्ष से दूरी को क्या कहते हैं?",
+            "en": "What is the distance of a point from the y-axis called?"
+          },
+          "options": [
+            {"hi": "कोटि", "en": "Ordinate"},
+            {"hi": "भुज", "en": "Abscissa"},
+            {"hi": "मूल", "en": "Root"},
+            {"hi": "लंब", "en": "Perpendicular"}
+          ],
+          "answer": {"hi": "भुज", "en": "Abscissa"}
+        },
+        {
+          "q": {
+            "hi": "बिंदु (5, -2) का भुज क्या है?",
+            "en": "What is the abscissa of the point (5, -2)?"
+          },
+          "options": [
+            {"hi": "5", "en": "5"},
+            {"hi": "-2", "en": "-2"},
+            {"hi": "3", "en": "3"},
+            {"hi": "7", "en": "7"}
+          ],
+          "answer": {"hi": "5", "en": "5"}
+        },
+        {
+          "q": {
+            "hi": "बिंदु (-3, -4) का कोटि क्या है?",
+            "en": "What is the ordinate of the point (-3, -4)?"
+          },
+          "options": [
+            {"hi": "-3", "en": "-3"},
+            {"hi": "3", "en": "3"},
+            {"hi": "-4", "en": "-4"},
+            {"hi": "4", "en": "4"}
+          ],
+          "answer": {"hi": "-4", "en": "-4"}
+        },
+        {
+          "q": {
+            "hi": "द्वितीय चतुर्थांश में चिन्हों का क्रम क्या है?",
+            "en": "What is the order of signs in the second quadrant?"
+          },
+          "options": [
+            {"hi": "(+, +)", "en": "(+, +)"},
+            {"hi": "(-, +)", "en": "(-, +)"},
+            {"hi": "(-, -)", "en": "(-, -)"},
+            {"hi": "(+, -)", "en": "(+, -)"}
+          ],
+          "answer": {"hi": "(-, +)", "en": "(-, +)"}
+        },
+        {
+          "q": {
+            "hi": "x-अक्ष और y-अक्ष मिलकर तल को कितने चतुर्थांशों में बांटते हैं?",
+            "en": "Into how many quadrants do the x-axis and y-axis together divide the plane?"
+          },
+          "options": [
+            {"hi": "दो", "en": "Two"},
+            {"hi": "तीन", "en": "Three"},
+            {"hi": "चार", "en": "Four"},
+            {"hi": "आठ", "en": "Eight"}
+          ],
+          "answer": {"hi": "चार", "en": "Four"}
+        },
+        {
+          "q": {
+            "hi": "बिंदु (1, 0) किस अक्ष पर है?",
+            "en": "On which axis is the point (1, 0)?"
+          },
+          "options": [
+            {"hi": "x-अक्ष", "en": "x-axis"},
+            {"hi": "y-अक्ष", "en": "y-axis"},
+            {"hi": "दोनों", "en": "Both"},
+            {"hi": "कोई नहीं", "en": "None"}
+          ],
+          "answer": {"hi": "x-अक्ष", "en": "x-axis"}
+        },
+        {
+          "q": {
+            "hi": "बिंदु (0, -2) किस अक्ष पर है?",
+            "en": "On which axis is the point (0, -2)?"
+          },
+          "options": [
+            {"hi": "x-अक्ष", "en": "x-axis"},
+            {"hi": "y-अक्ष", "en": "y-axis"},
+            {"hi": "मूलबिंदु", "en": "Origin"},
+            {"hi": "कोई नहीं", "en": "None"}
+          ],
+          "answer": {"hi": "y-अक्ष", "en": "y-axis"}
+        },
+        {
+          "q": {
+            "hi": "निर्देशांक तल में क्षैतिज रेखा को प्रायः किस अक्षर से दर्शाते हैं?",
+            "en": "By which letter is the horizontal line in the coordinate plane usually denoted?"
+          },
+          "options": [
+            {"hi": "X", "en": "X"},
+            {"hi": "Y", "en": "Y"},
+            {"hi": "Z", "en": "Z"},
+            {"hi": "O", "en": "O"}
+          ],
+          "answer": {"hi": "X", "en": "X"}
+        },
+        {
+          "q": {
+            "hi": "निर्देशांक तल में ऊर्ध्वाधर रेखा को प्रायः किस अक्षर से दर्शाते हैं?",
+            "en": "By which letter is the vertical line in the coordinate plane usually denoted?"
+          },
+          "options": [
+            {"hi": "X", "en": "X"},
+            {"hi": "Y", "en": "Y"},
+            {"hi": "Z", "en": "Z"},
+            {"hi": "L", "en": "L"}
+          ],
+          "answer": {"hi": "Y", "en": "Y"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "बताइए कैसे एक वर्ग एक चतुर्भुज है?",
-            "en": "Explain how a square is a quadrilateral."
+            "hi": "बिंदु (-4, 3) का चतुर्थांश कौन सा है?",
+            "en": "Which is the quadrant of the point (-4, 3)?"
           },
           "options": [
-            {"hi": "क्योंकि इसकी 4 भुजाएँ हैं", "en": "Because it has 4 sides"},
-            {"hi": "क्योंकि इसमें 90° कोण है", "en": "Because it has a 90° angle"},
-            {"hi": "क्योंकि विकर्ण बराबर हैं", "en": "Because diagonals are equal"},
-            {"hi": "यह नहीं है", "en": "It is not"}
+            {"hi": "प्रथम", "en": "First"},
+            {"hi": "द्वितीय", "en": "Second"},
+            {"hi": "तृतीय", "en": "Third"},
+            {"hi": "चतुर्थ", "en": "Fourth"}
           ],
-          "answer": {"hi": "क्योंकि इसकी 4 भुजाएँ हैं", "en": "Because it has 4 sides"}
+          "answer": {"hi": "द्वितीय", "en": "Second"}
         },
         {
           "q": {
-            "hi": "बताइए कैसे एक वर्ग एक समांतर चतुर्भुज है?",
-            "en": "Explain how a square is a parallelogram."
+            "hi": "बिंदु (2, -2) का चतुर्थांश कौन सा है?",
+            "en": "Which is the quadrant of the point (2, -2)?"
           },
           "options": [
-            {"hi": "विकर्ण लंबवत हैं", "en": "Diagonals are perpendicular"},
-            {"hi": "सम्मुख भुजाएँ समांतर होती हैं", "en": "Opposite sides are parallel"},
-            {"hi": "चारों भुजाएँ बराबर हैं", "en": "All four sides are equal"},
-            {"hi": "कोण समकोण हैं", "en": "Angles are right angles"}
+            {"hi": "प्रथम", "en": "First"},
+            {"hi": "द्वितीय", "en": "Second"},
+            {"hi": "तृतीय", "en": "Third"},
+            {"hi": "चतुर्थ", "en": "Fourth"}
           ],
-          "answer": {"hi": "सम्मुख भुजाएँ समांतर होती हैं", "en": "Opposite sides are parallel"}
+          "answer": {"hi": "चतुर्थ", "en": "Fourth"}
         },
         {
           "q": {
-            "hi": "बताइए कैसे एक वर्ग एक समचतुर्भुज है?",
-            "en": "Explain how a square is a rhombus."
+            "hi": "बिंदु (-1, -1) किस चतुर्थांश में स्थित है?",
+            "en": "In which quadrant is the point (-1, -1) located?"
           },
           "options": [
-            {"hi": "यह एक समांतर चतुर्भुज है जिसकी 4 भुजाएँ बराबर हैं", "en": "It is a parallelogram with 4 equal sides"},
-            {"hi": "इसके कोण 90° के हैं", "en": "Its angles are 90°"},
-            {"hi": "इसके विकर्ण बराबर नहीं हैं", "en": "Its diagonals are not equal"},
-            {"hi": "सम्मुख कोण बराबर हैं", "en": "Opposite angles are equal"}
+            {"hi": "प्रथम", "en": "First"},
+            {"hi": "द्वितीय", "en": "Second"},
+            {"hi": "तृतीय", "en": "Third"},
+            {"hi": "चतुर्थ", "en": "Fourth"}
           ],
-          "answer": {"hi": "यह एक समांतर चतुर्भुज है जिसकी 4 भुजाएँ बराबर हैं", "en": "It is a parallelogram with 4 equal sides"}
+          "answer": {"hi": "तृतीय", "en": "Third"}
         },
         {
           "q": {
-            "hi": "एक चतुर्भुज का नाम बताइए जिसके विकर्ण एक दूसरे को समद्विभाजित करते हैं।",
-            "en": "Name a quadrilateral whose diagonals bisect each other."
+            "hi": "बिंदु (5, 5) की y-अक्ष से लंबवत दूरी क्या है?",
+            "en": "What is the perpendicular distance of the point (5, 5) from the y-axis?"
           },
           "options": [
-            {"hi": "केवल वर्ग", "en": "Only square"},
-            {"hi": "समांतर चतुर्भुज, समचतुर्भुज, आयत और वर्ग", "en": "Parallelogram, Rhombus, Rectangle and Square"},
-            {"hi": "केवल समलंब", "en": "Only trapezium"},
-            {"hi": "पतंग और समलंब", "en": "Kite and trapezium"}
+            {"hi": "0", "en": "0"},
+            {"hi": "5", "en": "5"},
+            {"hi": "10", "en": "10"},
+            {"hi": "25", "en": "25"}
           ],
-          "answer": {"hi": "समांतर चतुर्भुज, समचतुर्भुज, आयत और वर्ग", "en": "Parallelogram, Rhombus, Rectangle and Square"}
+          "answer": {"hi": "5", "en": "5"}
         },
         {
           "q": {
-            "hi": "एक चतुर्भुज का नाम बताइए जिसके विकर्ण एक दूसरे पर लंब समद्विभाजक हों।",
-            "en": "Name a quadrilateral whose diagonals are perpendicular bisectors of each other."
+            "hi": "मूलबिंदु का भुज क्या होता है?",
+            "en": "What is the abscissa of the origin?"
           },
           "options": [
-            {"hi": "समचतुर्भुज और वर्ग", "en": "Rhombus and Square"},
-            {"hi": "आयत और वर्ग", "en": "Rectangle and Square"},
-            {"hi": "समांतर चतुर्भुज और आयत", "en": "Parallelogram and Rectangle"},
-            {"hi": "केवल पतंग", "en": "Only kite"}
+            {"hi": "0", "en": "0"},
+            {"hi": "1", "en": "1"},
+            {"hi": "x", "en": "x"},
+            {"hi": "-1", "en": "-1"}
           ],
-          "answer": {"hi": "समचतुर्भुज और वर्ग", "en": "Rhombus and Square"}
+          "answer": {"hi": "0", "en": "0"}
         },
         {
           "q": {
-            "hi": "एक चतुर्भुज का नाम बताइए जिसके विकर्ण बराबर हों।",
-            "en": "Name a quadrilateral whose diagonals are equal."
+            "hi": "मूलबिंदु की कोटि क्या होती है?",
+            "en": "What is the ordinate of the origin?"
           },
           "options": [
-            {"hi": "समांतर चतुर्भुज और समचतुर्भुज", "en": "Parallelogram and Rhombus"},
-            {"hi": "आयत और वर्ग", "en": "Rectangle and Square"},
-            {"hi": "समलंब और पतंग", "en": "Trapezium and Kite"},
-            {"hi": "केवल समचतुर्भुज", "en": "Only Rhombus"}
+            {"hi": "0", "en": "0"},
+            {"hi": "1", "en": "1"},
+            {"hi": "y", "en": "y"},
+            {"hi": "-1", "en": "-1"}
           ],
-          "answer": {"hi": "आयत और वर्ग", "en": "Rectangle and Square"}
+          "answer": {"hi": "0", "en": "0"}
         },
         {
           "q": {
-            "hi": "बताइए एक आयत उत्तल चतुर्भुज कैसे है?",
-            "en": "Explain how a rectangle is a convex quadrilateral."
+            "hi": "यदि x > 0 और y < 0 हो, तो बिंदु किस चतुर्थांश में होगा?",
+            "en": "If x > 0 and y < 0, in which quadrant will the point be?"
           },
           "options": [
-            {"hi": "इसके दोनों विकर्ण अभ्यंतर (अंदर) स्थित होते हैं", "en": "Both its diagonals lie in its interior"},
-            {"hi": "इसका एक विकर्ण बाहर होता है", "en": "One of its diagonals is outside"},
-            {"hi": "इसकी भुजाएँ समांतर हैं", "en": "Its sides are parallel"},
-            {"hi": "इसके कोण 90° के हैं", "en": "Its angles are 90°"}
+            {"hi": "प्रथम", "en": "First"},
+            {"hi": "द्वितीय", "en": "Second"},
+            {"hi": "तृतीय", "en": "Third"},
+            {"hi": "चतुर्थ", "en": "Fourth"}
           ],
-          "answer": {"hi": "इसके दोनों विकर्ण अभ्यंतर (अंदर) स्थित होते हैं", "en": "Both its diagonals lie in its interior"}
+          "answer": {"hi": "चतुर्थ", "en": "Fourth"}
         },
         {
           "q": {
-            "hi": "समांतर चतुर्भुज के सम्मुख कोण कैसे होते हैं?",
-            "en": "How are the opposite angles in a parallelogram?"
+            "hi": "बिंदु (a, b) में 'a' को क्या कहते हैं?",
+            "en": "In the point (a, b), what is 'a' called?"
           },
           "options": [
-            {"hi": "असमान", "en": "Unequal"},
-            {"hi": "बराबर माप के", "en": "Equal in measure"},
-            {"hi": "पूरक", "en": "Complementary"},
-            {"hi": "शून्य", "en": "Zero"}
+            {"hi": "कोटि", "en": "Ordinate"},
+            {"hi": "भुज", "en": "Abscissa"},
+            {"hi": "अक्ष", "en": "Axis"},
+            {"hi": "मूलबिंदु", "en": "Origin"}
           ],
-          "answer": {"hi": "बराबर माप के", "en": "Equal in measure"}
+          "answer": {"hi": "भुज", "en": "Abscissa"}
         },
         {
           "q": {
-            "hi": "किसी सम बहुभुज का प्रत्येक अंतःकोण 165° है, तो भुजाओं की संख्या क्या होगी?",
-            "en": "If each interior angle of a regular polygon is 165°, what is the number of sides?"
+            "hi": "बिंदु (x, y) में 'y' को क्या कहते हैं?",
+            "en": "In the point (x, y), what is 'y' called?"
           },
           "options": [
-            {"hi": "12", "en": "12"},
-            {"hi": "20", "en": "20"},
-            {"hi": "24", "en": "24"},
-            {"hi": "36", "en": "36"}
+            {"hi": "भुज", "en": "Abscissa"},
+            {"hi": "कोटि", "en": "Ordinate"},
+            {"hi": "निर्देशांक", "en": "Coordinate"},
+            {"hi": "मूल", "en": "Root"}
           ],
-          "answer": {"hi": "24", "en": "24"}
+          "answer": {"hi": "कोटि", "en": "Ordinate"}
         },
         {
           "q": {
-            "hi": "पतंग के विकर्ण एक दूसरे को किस कोण पर काटते हैं?",
-            "en": "At what angle do the diagonals of a kite intersect?"
+            "hi": "क्या (0, 0) x-अक्ष और y-अक्ष दोनों पर स्थित है?",
+            "en": "Is (0, 0) located on both the x-axis and y-axis?"
           },
           "options": [
-            {"hi": "45°", "en": "45°"},
-            {"hi": "60°", "en": "60°"},
-            {"hi": "90° (समकोण)", "en": "90° (Right angle)"},
-            {"hi": "180°", "en": "180°"}
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "केवल x-अक्ष पर", "en": "Only on the x-axis"},
+            {"hi": "केवल y-अक्ष पर", "en": "Only on the y-axis"}
           ],
-          "answer": {"hi": "90° (समकोण)", "en": "90° (Right angle)"}
+          "answer": {"hi": "हाँ", "en": "Yes"}
         }
       ]
     },
