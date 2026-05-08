@@ -666,263 +666,263 @@
       "section1": [
         {
           "q": {
-            "hi": "समीकरणों में सदैव किस चिह्न का प्रयोग होता है जो व्यंजकों में नहीं होता?",
-            "en": "Which symbol is always used in equations but not in expressions?"
+            "hi": "एक बीजीय व्यंजक जिसमें चर के घातांक केवल पूर्ण संख्याएँ हों, उसे क्या कहा जाता है?",
+            "en": "An algebraic expression in which the exponents of variables are only whole numbers is called?"
           },
           "options": [
-            {"hi": "प्लस (+)", "en": "Plus (+)"},
-            {"hi": "माइनस (-)", "en": "Minus (-)"},
-            {"hi": "समता (=)", "en": "Equality (=)"},
-            {"hi": "गुणा (x)", "en": "Multiplication (x)"}
+            {"hi": "समीकरण", "en": "Equation"},
+            {"hi": "बहुपद", "en": "Polynomial"},
+            {"hi": "सर्वसमिका", "en": "Identity"},
+            {"hi": "गुणांक", "en": "Coefficient"}
           ],
-          "answer": {"hi": "समता (=)", "en": "Equality (=)"}
+          "answer": {"hi": "बहुपद", "en": "Polynomial"}
         },
         {
           "q": {
-            "hi": "रैखिक व्यंजक में चर की अधिकतम घात कितनी होती है?",
-            "en": "What is the maximum power of a variable in a linear expression?"
-          },
-          "options": [
-            {"hi": "0", "en": "0"},
-            {"hi": "1", "en": "1"},
-            {"hi": "2", "en": "2"},
-            {"hi": "3", "en": "3"}
-          ],
-          "answer": {"hi": "1", "en": "1"}
-        },
-        {
-          "q": {
-            "hi": "इनमें से कौन सा एक रैखिक व्यंजक है?",
-            "en": "Which of these is a linear expression?"
-          },
-          "options": [
-            {"hi": "$x^2 + 1$", "en": "$x^2 + 1$"},
-            {"hi": "$y + y^2$", "en": "$y + y^2$"},
-            {"hi": "$2x + 1$", "en": "$2x + 1$"},
-            {"hi": "$1 + z + z^2$", "en": "$1 + z + z^2$"}
-          ],
-          "answer": {"hi": "$2x + 1$", "en": "$2x + 1$"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण के बाईं ओर वाले व्यंजक को क्या कहते हैं?",
-            "en": "What is the expression on the left side of an equation called?"
-          },
-          "options": [
-            {"hi": "दायाँ पक्ष (RHS)", "en": "Right Hand Side (RHS)"},
-            {"hi": "बायाँ पक्ष (LHS)", "en": "Left Hand Side (LHS)"},
-            {"hi": "चर", "en": "Variable"},
-            {"hi": "अचर", "en": "Constant"}
-          ],
-          "answer": {"hi": "बायाँ पक्ष (LHS)", "en": "Left Hand Side (LHS)"}
-        },
-        {
-          "q": {
-            "hi": "व्यंजक $2xy + 5$ में कितने चर हैं?",
-            "en": "How many variables are there in the expression $2xy + 5$?"
-          },
-          "options": [
-            {"hi": "एक", "en": "One"},
-            {"hi": "दो", "en": "Two"},
-            {"hi": "तीन", "en": "Three"},
-            {"hi": "कोई नहीं", "en": "None"}
-          ],
-          "answer": {"hi": "दो", "en": "Two"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण $2x - 3 = 7$ का हल क्या है?",
-            "en": "What is the solution to the equation $2x - 3 = 7$?"
-          },
-          "options": [
-            {"hi": "x = 2", "en": "x = 2"},
-            {"hi": "x = 5", "en": "x = 5"},
-            {"hi": "x = 10", "en": "x = 10"},
-            {"hi": "x = 4", "en": "x = 4"}
-          ],
-          "answer": {"hi": "x = 5", "en": "x = 5"}
-        },
-        {
-          "q": {
-            "hi": "चर के वे मान जो समीकरण को संतुष्ट करते हैं, क्या कहलाते हैं?",
-            "en": "The values of the variable that satisfy the equation are called?"
-          },
-          "options": [
-            {"hi": "गुणांक", "en": "Coefficients"},
-            {"hi": "समीकरण का हल", "en": "Solution of the equation"},
-            {"hi": "समता", "en": "Equality"},
-            {"hi": "व्यंजक", "en": "Expression"}
-          ],
-          "answer": {"hi": "समीकरण का हल", "en": "Solution of the equation"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण को हल करते समय हम दोनों पक्षों पर कैसी संक्रियाएँ करते हैं?",
-            "en": "While solving an equation, what kind of operations do we perform on both sides?"
-          },
-          "options": [
-            {"hi": "अलग-अलग", "en": "Different"},
-            {"hi": "एक जैसी", "en": "Same"},
-            {"hi": "केवल गुणा", "en": "Only multiplication"},
-            {"hi": "कोई संक्रिया नहीं", "en": "No operation"}
-          ],
-          "answer": {"hi": "एक जैसी", "en": "Same"}
-        },
-        {
-          "q": {
-            "hi": "एक चर वाले रैखिक समीकरण में चर की संख्या कितनी होती है?",
-            "en": "How many variables are there in a linear equation in one variable?"
-          },
-          "options": [
-            {"hi": "0", "en": "0"},
-            {"hi": "1", "en": "1"},
-            {"hi": "2", "en": "2"},
-            {"hi": "अनेक", "en": "Many"}
-          ],
-          "answer": {"hi": "1", "en": "1"}
-        },
-        {
-          "q": {
-            "hi": "बीजीय समीकरण क्या प्रकट करता है?",
-            "en": "What does an algebraic equation represent?"
-          },
-          "options": [
-            {"hi": "असमता", "en": "Inequality"},
-            {"hi": "चरों में एक समता", "en": "An equality in variables"},
-            {"hi": "केवल संख्याएँ", "en": "Only numbers"},
-            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
-          ],
-          "answer": {"hi": "चरों में एक समता", "en": "An equality in variables"}
-        }
-      ],
-      "section2": [
-        {
-          "q": {
-            "hi": "समीकरण $2x - 3 = x + 2$ को हल करने पर x का मान क्या होगा?",
-            "en": "What is the value of x after solving $2x - 3 = x + 2$?"
-          },
-          "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "3", "en": "3"},
-            {"hi": "5", "en": "5"},
-            {"hi": "-1", "en": "-1"}
-          ],
-          "answer": {"hi": "5", "en": "5"}
-        },
-        {
-          "q": {
-            "hi": "क्या हम समीकरण के दोनों पक्षों से चर वाले पद को घटा सकते हैं?",
-            "en": "Can we subtract a term containing a variable from both sides of an equation?"
-          },
-          "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल अचर को", "en": "Only constants"},
-            {"hi": "परिभाषित नहीं है", "en": "Not defined"}
-          ],
-          "answer": {"hi": "हाँ", "en": "Yes"}
-        },
-        {
-          "q": {
-            "hi": "पक्षांतरण (Transposition) का क्या अर्थ है?",
-            "en": "What does Transposition mean?"
-          },
-          "options": [
-            {"hi": "संख्या को हटाना", "en": "Removing a number"},
-            {"hi": "एक पक्ष से दूसरे पक्ष में पद ले जाना", "en": "Moving a term from one side to the other"},
-            {"hi": "केवल गुणा करना", "en": "Only multiplying"},
-            {"hi": "वर्गमूल निकालना", "en": "Finding square root"}
-          ],
-          "answer": {"hi": "एक पक्ष से दूसरे पक्ष में पद ले जाना", "en": "Moving a term from one side to the other"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण $3x = 2x + 18$ का हल क्या है?",
-            "en": "What is the solution to $3x = 2x + 18$?"
-          },
-          "options": [
-            {"hi": "9", "en": "9"},
-            {"hi": "18", "en": "18"},
-            {"hi": "36", "en": "36"},
-            {"hi": "6", "en": "6"}
-          ],
-          "answer": {"hi": "18", "en": "18"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण $5t - 3 = 3t - 5$ में t का मान ज्ञात कीजिए।",
-            "en": "Find the value of t in the equation $5t - 3 = 3t - 5$."
+            "hi": "बहुपद $x^3 - x^2 + 4x + 7$ में $x^2$ का गुणांक क्या है?",
+            "en": "What is the coefficient of $x^2$ in the polynomial $x^3 - x^2 + 4x + 7$?"
           },
           "options": [
             {"hi": "1", "en": "1"},
             {"hi": "-1", "en": "-1"},
-            {"hi": "2", "en": "2"},
-            {"hi": "-2", "en": "-2"}
+            {"hi": "4", "en": "4"},
+            {"hi": "7", "en": "7"}
           ],
           "answer": {"hi": "-1", "en": "-1"}
         },
         {
           "q": {
-            "hi": "समीकरण $2x - 1 = 14 - x$ का हल क्या है?",
-            "en": "What is the solution to $2x - 1 = 14 - x$?"
+            "hi": "केवल एक पद वाले बहुपद को क्या कहा जाता है?",
+            "en": "What is a polynomial with only one term called?"
           },
           "options": [
-            {"hi": "5", "en": "5"},
-            {"hi": "15", "en": "15"},
-            {"hi": "3", "en": "3"},
-            {"hi": "13", "en": "13"}
+            {"hi": "द्विपद", "en": "Binomial"},
+            {"hi": "त्रिपद", "en": "Trinomial"},
+            {"hi": "एकपदी", "en": "Monomial"},
+            {"hi": "रैखिक", "en": "Linear"}
           ],
-          "answer": {"hi": "5", "en": "5"}
+          "answer": {"hi": "एकपदी", "en": "Monomial"}
         },
         {
           "q": {
-            "hi": "समीकरण $4z + 3 = 6 + 2z$ में z का मान क्या है?",
-            "en": "What is the value of z in $4z + 3 = 6 + 2z$?"
+            "hi": "केवल दो पदों वाले बहुपद को क्या कहा जाता है?",
+            "en": "A polynomial with exactly two terms is called?"
           },
           "options": [
-            {"hi": "1.5", "en": "1.5"},
-            {"hi": "3", "en": "3"},
+            {"hi": "एकपदी", "en": "Monomial"},
+            {"hi": "द्विपद", "en": "Binomial"},
+            {"hi": "त्रिपद", "en": "Trinomial"},
+            {"hi": "शून्य बहुपद", "en": "Zero polynomial"}
+          ],
+          "answer": {"hi": "द्विपद", "en": "Binomial"}
+        },
+        {
+          "q": {
+            "hi": "बहुपद $5x^3 + 4x^2 + 7x$ की घात क्या है?",
+            "en": "What is the degree of the polynomial $5x^3 + 4x^2 + 7x$?"
+          },
+          "options": [
+            {"hi": "1", "en": "1"},
             {"hi": "2", "en": "2"},
-            {"hi": "1", "en": "1"}
-          ],
-          "answer": {"hi": "1.5", "en": "1.5"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण $\\frac{6x+1}{3} + 1 = \\frac{x-3}{6}$ को हल करने के लिए दोनों पक्षों को किससे गुणा करना सुविधाजनक है?",
-            "en": "To solve $\\frac{6x+1}{3} + 1 = \\frac{x-3}{6}$, multiplying both sides by what is convenient?"
-          },
-          "options": [
             {"hi": "3", "en": "3"},
-            {"hi": "6", "en": "6"},
-            {"hi": "9", "en": "9"},
-            {"hi": "18", "en": "18"}
+            {"hi": "0", "en": "0"}
           ],
-          "answer": {"hi": "6", "en": "6"}
+          "answer": {"hi": "3", "en": "3"}
         },
         {
           "q": {
-            "hi": "समीकरणों के हरों के ल.स.प. (LCM) से गुणा करने का उद्देश्य क्या है?",
-            "en": "What is the purpose of multiplying by the LCM of the denominators in equations?"
+            "hi": "एक शून्येतर अचर बहुपद की घात क्या होती है?",
+            "en": "What is the degree of a non-zero constant polynomial?"
           },
           "options": [
-            {"hi": "संख्या बड़ी करना", "en": "To make numbers larger"},
-            {"hi": "समीकरण को सरल बनाना", "en": "To simplify the equation"},
-            {"hi": "चर हटाना", "en": "To remove the variable"},
-            {"hi": "उत्तर बदलना", "en": "To change the answer"}
+            {"hi": "1", "en": "1"},
+            {"hi": "0", "en": "0"},
+            {"hi": "अपरिभाषित", "en": "Undefined"},
+            {"hi": "2", "en": "2"}
           ],
-          "answer": {"hi": "समीकरण को सरल बनाना", "en": "To simplify the equation"}
+          "answer": {"hi": "0", "en": "0"}
         },
         {
           "q": {
-            "hi": "समीकरण $8x + 4 = 3(x - 1) + 7$ का हल क्या है?",
-            "en": "What is the solution to $8x + 4 = 3(x - 1) + 7$?"
+            "hi": "एक घात वाले बहुपद को क्या कहा जाता है?",
+            "en": "A polynomial of degree one is called?"
+          },
+          "options": [
+            {"hi": "द्विघाती बहुपद", "en": "Quadratic polynomial"},
+            {"hi": "त्रिघाती बहुपद", "en": "Cubic polynomial"},
+            {"hi": "रैखिक बहुपद", "en": "Linear polynomial"},
+            {"hi": "शून्य बहुपद", "en": "Zero polynomial"}
+          ],
+          "answer": {"hi": "रैखिक बहुपद", "en": "Linear polynomial"}
+        },
+        {
+          "q": {
+            "hi": "दो घात वाले बहुपद को क्या कहा जाता है?",
+            "en": "A polynomial of degree two is called?"
+          },
+          "options": [
+            {"hi": "रैखिक बहुपद", "en": "Linear polynomial"},
+            {"hi": "द्विघाती बहुपद", "en": "Quadratic polynomial"},
+            {"hi": "त्रिघाती बहुपद", "en": "Cubic polynomial"},
+            {"hi": "द्विपद", "en": "Binomial"}
+          ],
+          "answer": {"hi": "द्विघाती बहुपद", "en": "Quadratic polynomial"}
+        },
+        {
+          "q": {
+            "hi": "शून्य बहुपद की घात क्या होती है?",
+            "en": "What is the degree of a zero polynomial?"
           },
           "options": [
             {"hi": "0", "en": "0"},
             {"hi": "1", "en": "1"},
+            {"hi": "परिभाषित नहीं है", "en": "Not defined"},
+            {"hi": "अनंत", "en": "Infinite"}
+          ],
+          "answer": {"hi": "परिभाषित नहीं है", "en": "Not defined"}
+        },
+        {
+          "q": {
+            "hi": "व्यंजक $x + \\frac{1}{x}$ बहुपद क्यों नहीं है?",
+            "en": "Why is the expression $x + \\frac{1}{x}$ not a polynomial?"
+          },
+          "options": [
+            {"hi": "इसमें दो पद हैं", "en": "It has two terms"},
+            {"hi": "चर का घातांक पूर्ण संख्या नहीं है", "en": "The exponent of variable is not a whole number"},
+            {"hi": "यह एक समीकरण है", "en": "It is an equation"},
+            {"hi": "इसमें अचर पद नहीं है", "en": "It has no constant term"}
+          ],
+          "answer": {"hi": "चर का घातांक पूर्ण संख्या नहीं है", "en": "The exponent of variable is not a whole number"}
+        }
+      ],
+      "section2": [
+        {
+          "q": {
+            "hi": "यदि $p(x) = x - 1$ है, तो $p(1)$ का मान क्या होगा?",
+            "en": "If $p(x) = x - 1$, what will be the value of $p(1)$?"
+          },
+          "options": [
+            {"hi": "1", "en": "1"},
+            {"hi": "0", "en": "0"},
             {"hi": "-1", "en": "-1"},
-            {"hi": "4", "en": "4"}
+            {"hi": "2", "en": "2"}
+          ],
+          "answer": {"hi": "0", "en": "0"}
+        },
+        {
+          "q": {
+            "hi": "बहुपद $p(x)$ का शून्यक क्या है?",
+            "en": "What is a zero of a polynomial $p(x)$?"
+          },
+          "options": [
+            {"hi": "वह संख्या c जिससे $p(c)=0$ हो", "en": "A number c such that $p(c)=0$"},
+            {"hi": "वह संख्या जिससे बहुपद को गुणा किया जाए", "en": "A number by which the polynomial is multiplied"},
+            {"hi": "बहुपद का पहला पद", "en": "The first term of the polynomial"},
+            {"hi": "बहुपद की घात", "en": "The degree of the polynomial"}
+          ],
+          "answer": {"hi": "वह संख्या c जिससे $p(c)=0$ हो", "en": "A number c such that $p(c)=0"}
+        },
+        {
+          "q": {
+            "hi": "बहुपद $p(x) = 2x + 1$ का शून्यक ज्ञात कीजिए।",
+            "en": "Find the zero of the polynomial $p(x) = 2x + 1$."
+          },
+          "options": [
+            {"hi": "1/2", "en": "1/2"},
+            {"hi": "-1/2", "en": "-1/2"},
+            {"hi": "1", "en": "1"},
+            {"hi": "-1", "en": "-1"}
+          ],
+          "answer": {"hi": "-1/2", "en": "-1/2"}
+        },
+        {
+          "q": {
+            "hi": "क्या प्रत्येक रैखिक बहुपद का एक अद्वितीय शून्यक होता है?",
+            "en": "Does every linear polynomial have a unique zero?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "केवल धनात्मक मानों के लिए", "en": "Only for positive values"},
+            {"hi": "शून्य बहुपद के लिए", "en": "For zero polynomial"}
+          ],
+          "answer": {"hi": "हाँ", "en": "Yes"}
+        },
+        {
+          "q": {
+            "hi": "बहुपद $x^2 - 2x$ के शून्यक कौन-कौन से हैं?",
+            "en": "What are the zeros of the polynomial $x^2 - 2x$?"
+          },
+          "options": [
+            {"hi": "1 और 2", "en": "1 and 2"},
+            {"hi": "0 और 2", "en": "0 and 2"},
+            {"hi": "0 और -2", "en": "0 and -2"},
+            {"hi": "2 और -2", "en": "2 and -2"}
+          ],
+          "answer": {"hi": "0 और 2", "en": "0 and 2"}
+        },
+        {
+          "q": {
+            "hi": "एक शून्येतर अचर बहुपद का कितने शून्यक होते हैं?",
+            "en": "How many zeros does a non-zero constant polynomial have?"
+          },
+          "options": [
+            {"hi": "एक", "en": "One"},
+            {"hi": "दो", "en": "Two"},
+            {"hi": "कोई शून्यक नहीं होता", "en": "Has no zero"},
+            {"hi": "अपरिमित", "en": "Infinite"}
+          ],
+          "answer": {"hi": "कोई शून्यक नहीं होता", "en": "Has no zero"}
+        },
+        {
+          "q": {
+            "hi": "शेषफल प्रमेय के अनुसार यदि $p(x)$ को $(x-a)$ से भाग दिया जाए, तो शेषफल क्या होगा?",
+            "en": "According to Remainder Theorem, if $p(x)$ is divided by $(x-a)$, what is the remainder?"
+          },
+          "options": [
+            {"hi": "$p(0)$", "en": "$p(0)$"},
+            {"hi": "$p(a)$", "en": "$p(a)$"},
+            {"hi": "$p(-a)$", "en": "$p(-a)$"},
+            {"hi": "0"}
+          ],
+          "answer": {"hi": "$p(a)$", "en": "$p(a)$"}
+        },
+        {
+          "q": {
+            "hi": "यदि $p(-1) = 0$ है, तो गुणनखंड प्रमेय के अनुसार $p(x)$ का एक गुणनखंड क्या होगा?",
+            "en": "If $p(-1) = 0$, then according to Factor Theorem, what will be a factor of $p(x)$?"
+          },
+          "options": [
+            {"hi": "$(x-1)$", "en": "$(x-1)$"},
+            {"hi": "$(x+1)$", "en": "$(x+1)$"},
+            {"hi": "$x$", "en": "$x$"},
+            {"hi": "$(x+0)$", "en": "$(x+0)$"}
+          ],
+          "answer": {"hi": "$(x+1)$", "en": "$(x+1)$"}
+        },
+        {
+          "q": {
+            "hi": "बहुपद $x^3 + 1$ को $(x+1)$ से भाग देने पर शेषफल क्या प्राप्त होता है?",
+            "en": "What is the remainder when $x^3 + 1$ is divided by $(x+1)$?"
+          },
+          "options": [
+            {"hi": "1", "en": "1"},
+            {"hi": "0", "en": "0"},
+            {"hi": "-1", "en": "-1"},
+            {"hi": "2", "en": "2"}
+          ],
+          "answer": {"hi": "0", "en": "0"}
+        },
+        {
+          "q": {
+            "hi": "गुणनखंड प्रमेय शेषफल प्रमेय की ही एक विशेष स्थिति है, जहाँ शेषफल क्या होता है?",
+            "en": "Factor Theorem is a special case of Remainder Theorem where the remainder is?"
+          },
+          "options": [
+            {"hi": "1", "en": "1"},
+            {"hi": "0", "en": "0"},
+            {"hi": "-1", "en": "-1"},
+            {"hi": "अपरिभाषित", "en": "Undefined"}
           ],
           "answer": {"hi": "0", "en": "0"}
         }
@@ -930,397 +930,397 @@
       "section3": [
         {
           "q": {
-            "hi": "समीकरण $x = \\frac{4}{5}(x + 10)$ को हल करने पर x का मान क्या आता है?",
-            "en": "What is the value of x after solving $x = \\frac{4}{5}(x + 10)$?"
+            "hi": "सर्वसमिका $(x+y)^2$ का विस्तारित रूप क्या है?",
+            "en": "What is the expanded form of identity $(x+y)^2$?"
           },
           "options": [
-            {"hi": "10", "en": "10"},
-            {"hi": "20", "en": "20"},
-            {"hi": "40", "en": "40"},
-            {"hi": "50", "en": "50"}
+            {"hi": "$x^2 + y^2$", "en": "$x^2 + y^2$"},
+            {"hi": "$x^2 + 2xy + y^2$", "en": "$x^2 + 2xy + y^2$"},
+            {"hi": "$x^2 - 2xy + y^2$", "en": "$x^2 - 2xy + y^2$"},
+            {"hi": "$x^2 + xy + y^2$", "en": "$x^2 + xy + y^2$"}
           ],
-          "answer": {"hi": "40", "en": "40"}
+          "answer": {"hi": "$x^2 + 2xy + y^2$", "en": "$x^2 + 2xy + y^2$"}
         },
         {
           "q": {
-            "hi": "समीकरण $3m = 5m - \\frac{8}{5}$ में m का मान क्या है?",
-            "en": "What is the value of m in $3m = 5m - \\frac{8}{5}$?"
+            "hi": "सर्वसमिका $x^2 - y^2$ किसके बराबर होती है?",
+            "en": "Identity $x^2 - y^2$ is equal to?"
           },
           "options": [
-            {"hi": "4/5", "en": "4/5"},
-            {"hi": "-4/5", "en": "-4/5"},
-            {"hi": "8/5", "en": "8/5"},
-            {"hi": "2/5", "en": "2/5"}
+            {"hi": "$(x-y)(x-y)$", "en": "$(x-y)(x-y)$"},
+            {"hi": "$(x+y)(x+y)$", "en": "$(x+y)(x+y)$"},
+            {"hi": "$(x+y)(x-y)$", "en": "$(x+y)(x-y)$"},
+            {"hi": "$x^2 + 2xy + y^2$", "en": "$x^2 + 2xy + y^2$"}
           ],
-          "answer": {"hi": "4/5", "en": "4/5"}
+          "answer": {"hi": "$(x+y)(x-y)$", "en": "$(x+y)(x-y)$"}
         },
         {
           "q": {
-            "hi": "समीकरण $\\frac{x}{2} - \\frac{1}{5} = \\frac{x}{3} + \\frac{1}{4}$ का हल क्या है?",
-            "en": "What is the solution to $\\frac{x}{2} - \\frac{1}{5} = \\frac{x}{3} + \\frac{1}{4}$?"
+            "hi": "$(x+a)(x+b)$ का मान क्या होता है?",
+            "en": "What is the value of $(x+a)(x+b)$?"
           },
           "options": [
-            {"hi": "27/10", "en": "27/10"},
-            {"hi": "10/27", "en": "10/27"},
-            {"hi": "1", "en": "1"},
-            {"hi": "2", "en": "2"}
+            {"hi": "$x^2 + ab$", "en": "$x^2 + ab$"},
+            {"hi": "$x^2 + (a+b)x + ab$", "en": "$x^2 + (a+b)x + ab$"},
+            {"hi": "$x^2 + (a-b)x - ab$", "en": "$x^2 + (a-b)x - ab$"},
+            {"hi": "$x^2 + abx + (a+b)$", "en": "$x^2 + abx + (a+b)$"}
           ],
-          "answer": {"hi": "27/10", "en": "27/10"}
+          "answer": {"hi": "$x^2 + (a+b)x + ab$", "en": "$x^2 + (a+b)x + ab$"}
         },
         {
           "q": {
-            "hi": "कोष्ठक हटाने के बाद $5x - 2(2x - 7)$ का सरल रूप क्या होगा?",
-            "en": "What is the simplified form of $5x - 2(2x - 7)$ after removing brackets?"
+            "hi": "सर्वसमिका $(x+y+z)^2$ में कुल कितने पद होते हैं?",
+            "en": "How many terms are there in the expansion of $(x+y+z)^2$?"
           },
           "options": [
-            {"hi": "$x - 14$", "en": "$x - 14$"},
-            {"hi": "$x + 14$", "en": "$x + 14$"},
-            {"hi": "$9x + 14$", "en": "$9x + 14$"},
-            {"hi": "$x + 7$", "en": "$x + 7$"}
+            {"hi": "3", "en": "3"},
+            {"hi": "4", "en": "4"},
+            {"hi": "6", "en": "6"},
+            {"hi": "9", "en": "9"}
           ],
-          "answer": {"hi": "$x + 14$", "en": "$x + 14$"}
+          "answer": {"hi": "6", "en": "6"}
         },
         {
           "q": {
-            "hi": "समीकरण $0.25(4f - 3) = 0.05(10f - 9)$ में f का मान क्या है?",
-            "en": "What is the value of f in $0.25(4f - 3) = 0.05(10f - 9)$?"
+            "hi": "सर्वसमिका $(x+y)^3$ का सही विस्तार क्या है?",
+            "en": "What is the correct expansion of identity $(x+y)^3$?"
           },
           "options": [
-            {"hi": "0.5", "en": "0.5"},
-            {"hi": "0.6", "en": "0.6"},
-            {"hi": "0.75", "en": "0.75"},
-            {"hi": "1", "en": "1"}
+            {"hi": "$x^3 + y^3 + 3xy(x+y)$", "en": "$x^3 + y^3 + 3xy(x+y)$"},
+            {"hi": "$x^3 - y^3 - 3xy(x-y)$", "en": "$x^3 - y^3 - 3xy(x-y)$"},
+            {"hi": "$x^3 + y^3$", "en": "$x^3 + y^3$"},
+            {"hi": "$x^3 + 3x^2y + 3xy^2 + y^3$", "en": "$x^3 + 3x^2y + 3xy^2 + y^3$"}
           ],
-          "answer": {"hi": "0.6", "en": "0.6"}
+          "answer": {"hi": "$x^3 + y^3 + 3xy(x+y)$", "en": "$x^3 + y^3 + 3xy(x+y)$"}
         },
         {
           "q": {
-            "hi": "समीकरण $\\frac{n}{2} - \\frac{3n}{4} + \\frac{5n}{6} = 21$ का हल क्या है?",
-            "en": "What is the solution to $\\frac{n}{2} - \\frac{3n}{4} + \\frac{5n}{6} = 21$?"
+            "hi": "सर्वसमिका $(x-y)^3$ किसके बराबर है?",
+            "en": "Identity $(x-y)^3$ is equal to?"
           },
           "options": [
-            {"hi": "36", "en": "36"},
-            {"hi": "42", "en": "42"},
-            {"hi": "12", "en": "12"},
-            {"hi": "24", "en": "24"}
+            {"hi": "$x^3 + y^3 + 3xy(x+y)$", "en": "$x^3 + y^3 + 3xy(x+y)$"},
+            {"hi": "$x^3 - y^3 - 3xy(x-y)$", "en": "$x^3 - y^3 - 3xy(x-y)$"},
+            {"hi": "$x^3 - y^3$", "en": "$x^3 - y^3$"},
+            {"hi": "$x^3 + y^3 - 3xy(x-y)$", "en": "$x^3 + y^3 - 3xy(x-y)$"}
           ],
-          "answer": {"hi": "36", "en": "36"}
+          "answer": {"hi": "$x^3 - y^3 - 3xy(x-y)$", "en": "$x^3 - y^3 - 3xy(x-y)$"}
         },
         {
           "q": {
-            "hi": "यदि बायाँ पक्ष (LHS) = दायाँ पक्ष (RHS) हो, तो इसका क्या अर्थ है?",
-            "en": "If LHS = RHS, what does it mean?"
+            "hi": "यदि $x+y+z = 0$ हो, तो $x^3 + y^3 + z^3$ किसके बराबर होगा?",
+            "en": "If $x+y+z = 0$, then $x^3 + y^3 + z^3$ is equal to?"
           },
           "options": [
-            {"hi": "समीकरण गलत है", "en": "Equation is wrong"},
-            {"hi": "उत्तर सही है", "en": "The answer is correct"},
-            {"hi": "चर शून्य है", "en": "Variable is zero"},
-            {"hi": "पक्षांतरण की आवश्यकता है", "en": "Transposition is needed"}
+            {"hi": "0", "en": "0"},
+            {"hi": "$xyz$", "en": "$xyz$"},
+            {"hi": "$3xyz$", "en": "$3xyz$"},
+            {"hi": "$(x+y+z)^3$", "en": "$(x+y+z)^3$"}
           ],
-          "answer": {"hi": "उत्तर सही है", "en": "The answer is correct"}
+          "answer": {"hi": "$3xyz$", "en": "$3xyz$"}
         },
         {
           "q": {
-            "hi": "समीकरण $\\frac{x-5}{3} = \\frac{x-3}{5}$ में x का मान क्या है?",
-            "en": "What is the value of x in $\\frac{x-5}{3} = \\frac{x-3}{5}$?"
+            "hi": "सर्वसमिका $x^3 + y^3 + z^3 - 3xyz$ का एक गुणनखंड $(x+y+z)$ है, दूसरा गुणनखंड क्या है?",
+            "en": "One factor of identity $x^3 + y^3 + z^3 - 3xyz$ is $(x+y+z)$, what is the other factor?"
           },
           "options": [
-            {"hi": "8", "en": "8"},
-            {"hi": "10", "en": "10"},
-            {"hi": "12", "en": "12"},
-            {"hi": "4", "en": "4"}
+            {"hi": "$x^2 + y^2 + z^2$", "en": "$x^2 + y^2 + z^2$"},
+            {"hi": "$x^2 + y^2 + z^2 - xy - yz - zx$", "en": "$x^2 + y^2 + z^2 - xy - yz - zx$"},
+            {"hi": "$x^2 + y^2 + z^2 + xy + yz + zx$", "en": "$x^2 + y^2 + z^2 + xy + yz + zx$"},
+            {"hi": "$xy + yz + zx$", "en": "$xy + yz + zx$"}
           ],
-          "answer": {"hi": "8", "en": "8"}
+          "answer": {"hi": "$x^2 + y^2 + z^2 - xy - yz - zx$", "en": "$x^2 + y^2 + z^2 - xy - yz - zx$"}
         },
         {
           "q": {
-            "hi": "समीकरण $3(t - 3) = 5(2t + 1)$ का हल क्या है?",
-            "en": "What is the solution to $3(t - 3) = 5(2t + 1)$?"
+            "hi": "उपयुक्त सर्वसमिका का उपयोग कर $105 \\times 106$ का मान सीधे गुणा किए बिना क्या होगा?",
+            "en": "Using suitable identity, what is the value of $105 \\times 106$ without direct multiplication?"
           },
           "options": [
-            {"hi": "-2", "en": "-2"},
-            {"hi": "2", "en": "2"},
-            {"hi": "-1", "en": "-1"},
-            {"hi": "0", "en": "0"}
+            {"hi": "11130", "en": "11130"},
+            {"hi": "11030", "en": "11030"},
+            {"hi": "11230", "en": "11230"},
+            {"hi": "11330", "en": "11330"}
           ],
-          "answer": {"hi": "-2", "en": "-2"}
+          "answer": {"hi": "11130", "en": "11130"}
         },
         {
           "q": {
-            "hi": "संख्याओं और आयु पर आधारित समस्याओं को कैसे हल किया जा सकता है?",
-            "en": "How can problems based on numbers and age be solved?"
+            "hi": "$49a^2 + 70ab + 25b^2$ का गुणनखंडित रूप क्या है?",
+            "en": "What is the factorized form of $49a^2 + 70ab + 25b^2$?"
           },
           "options": [
-            {"hi": "केवल अनुमान लगाकर", "en": "By only guessing"},
-            {"hi": "रैखिक समीकरणों का उपयोग करके", "en": "By using linear equations"},
-            {"hi": "ग्राफ बनाकर", "en": "By making graphs"},
-            {"hi": "हल नहीं किया जा सकता", "en": "Cannot be solved"}
+            {"hi": "$(7a-5b)^2$", "en": "$(7a-5b)^2$"},
+            {"hi": "$(7a+5b)^2$", "en": "$(7a+5b)^2$"},
+            {"hi": "$(49a+25b)^2$", "en": "$(49a+25b)^2$"},
+            {"hi": "$(7a+5b)(7a-5b)$", "en": "$(7a+5b)(7a-5b)$"}
           ],
-          "answer": {"hi": "रैखिक समीकरणों का उपयोग करके", "en": "By using linear equations"}
+          "answer": {"hi": "$(7a+5b)^2$", "en": "$(7a+5b)^2$"}
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "समीकरण $\\frac{2x}{3} + 1 = \\frac{7x}{15} + 3$ में x का मान क्या है?",
-            "en": "What is the value of x in $\\frac{2x}{3} + 1 = \\frac{7x}{15} + 3$?"
+            "hi": "द्विघात बहुपद $ax^2 + bx + c$ का गुणनखंडन करने के लिए किस विधि का अक्सर उपयोग किया जाता है?",
+            "en": "Which method is often used to factorize the quadratic polynomial $ax^2 + bx + c$?"
           },
           "options": [
-            {"hi": "5", "en": "5"},
-            {"hi": "10", "en": "10"},
-            {"hi": "15", "en": "15"},
-            {"hi": "20", "en": "20"}
+            {"hi": "अंतिम पद को विभक्त करना", "en": "Splitting the last term"},
+            {"hi": "मध्य पद को विभक्त करना", "en": "Splitting the middle term"},
+            {"hi": "प्रथम पद को विभक्त करना", "en": "Splitting the first term"},
+            {"hi": "पदों को जोड़ना", "en": "Adding terms"}
           ],
-          "answer": {"hi": "10", "en": "10"}
+          "answer": {"hi": "मध्य पद को विभक्त करना", "en": "Splitting the middle term"}
         },
         {
           "q": {
-            "hi": "समीकरण $2y + \\frac{5}{3} = \\frac{26}{3} - y$ में y का मान क्या है?",
-            "en": "What is the value of y in $2y + \\frac{5}{3} = \\frac{26}{3} - y$?"
+            "hi": "बहुपद $x^2 + 5x + 6$ के गुणनखंड क्या होंगे?",
+            "en": "What will be the factors of the polynomial $x^2 + 5x + 6$?"
           },
           "options": [
-            {"hi": "7/3", "en": "7/3"},
-            {"hi": "3/7", "en": "3/7"},
+            {"hi": "$(x+1)(x+6)$", "en": "$(x+1)(x+6)$"},
+            {"hi": "$(x+2)(x+3)$", "en": "$(x+2)(x+3)$"},
+            {"hi": "$(x-2)(x-3)$", "en": "$(x-2)(x-3)$"},
+            {"hi": "$(x+5)(x+1)$", "en": "$(x+5)(x+1)$"}
+          ],
+          "answer": {"hi": "$(x+2)(x+3)$", "en": "$(x+2)(x+3)$"}
+        },
+        {
+          "q": {
+            "hi": "त्रिघाती बहुपद $x^3 - 23x^2 + 142x - 120$ का एक गुणनखंड $(x-1)$ है, यह कैसे जाँचा जा सकता है?",
+            "en": "One factor of cubic polynomial $x^3 - 23x^2 + 142x - 120$ is $(x-1)$, how can this be checked?"
+          },
+          "options": [
+            {"hi": "$p(0)$ ज्ञात करके", "en": "By finding $p(0)$"},
+            {"hi": "$p(1)$ ज्ञात करके", "en": "By finding $p(1)$"},
+            {"hi": "$p(-1)$ ज्ञात करके", "en": "By finding $p(-1)$"},
+            {"hi": "घात देखकर", "en": "By looking at degree"}
+          ],
+          "answer": {"hi": "$p(1)$ ज्ञात करके", "en": "By finding $p(1)$"}
+        },
+        {
+          "q": {
+            "hi": "बहुपद $2x^3 + x^2 - 2x - 1$ के लिए यदि $g(x) = x + 1$ है, तो शेषफल क्या होगा?",
+            "en": "For polynomial $2x^3 + x^2 - 2x - 1$, if $g(x) = x + 1$, what will be the remainder?"
+          },
+          "options": [
             {"hi": "1", "en": "1"},
+            {"hi": "-1", "en": "-1"},
+            {"hi": "0", "en": "0"},
             {"hi": "2", "en": "2"}
           ],
-          "answer": {"hi": "7/3", "en": "7/3"}
+          "answer": {"hi": "0", "en": "0"}
         },
         {
           "q": {
-            "hi": "समीकरण $x + 7 - \\frac{8x}{3} = \\frac{17}{6} - \\frac{5x}{2}$ का हल क्या है?",
-            "en": "What is the solution to $x + 7 - \\frac{8x}{3} = \\frac{17}{6} - \\frac{5x}{2}$?"
-          },
-          "options": [
-            {"hi": "-5", "en": "-5"},
-            {"hi": "5", "en": "5"},
-            {"hi": "1", "en": "1"},
-            {"hi": "-1", "en": "-1"}
-          ],
-          "answer": {"hi": "-5", "en": "-5"}
-        },
-        {
-          "q": {
-            "hi": "क्या रैखिक समीकरण बनाने वाले व्यंजक में एक से अधिक चर हो सकते हैं?",
-            "en": "Can the expression forming a linear equation have more than one variable?"
-          },
-          "options": [
-            {"hi": "हाँ, हमेशा", "en": "Yes, always"},
-            {"hi": "नहीं, केवल एक ही चर", "en": "No, only one variable"},
-            {"hi": "कभी-कभी", "en": "Sometimes"},
-            {"hi": "शून्य चर", "en": "Zero variables"}
-          ],
-          "answer": {"hi": "नहीं, केवल एक ही चर", "en": "No, only one variable"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण $15(y - 4) - 2(y - 9) + 5(y + 6) = 0$ में y का मान क्या है?",
-            "en": "What is the value of y in $15(y - 4) - 2(y - 9) + 5(y + 6) = 0$?"
-          },
-          "options": [
-            {"hi": "2/3", "en": "2/3"},
-            {"hi": "3/2", "en": "3/2"},
-            {"hi": "1", "en": "1"},
-            {"hi": "0", "en": "0"}
-          ],
-          "answer": {"hi": "2/3", "en": "2/3"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण हल करने का मुख्य लक्ष्य क्या होता है?",
-            "en": "What is the main goal of solving an equation?"
-          },
-          "options": [
-            {"hi": "बाएँ पक्ष को शून्य करना", "en": "Making LHS zero"},
-            {"hi": "चर का मान ज्ञात करना", "en": "Finding the value of the variable"},
-            {"hi": "दाएँ पक्ष को शून्य करना", "en": "Making RHS zero"},
-            {"hi": "चर को हटाना", "en": "Removing the variable"}
-          ],
-          "answer": {"hi": "चर का मान ज्ञात करना", "en": "Finding the value of the variable"}
-        },
-        {
-          "q": {
-            "hi": "रैखिक समीकरणों की उपयोगिता किन क्षेत्रों में है?",
-            "en": "In which areas are linear equations useful?"
-          },
-          "options": [
-            {"hi": "आयु की गणना", "en": "Age calculation"},
-            {"hi": "परिमाप ज्ञात करना", "en": "Finding perimeter"},
-            {"hi": "मुद्रा संबंधी समस्याएँ", "en": "Currency related problems"},
-            {"hi": "उपरोक्त सभी", "en": "All of the above"}
-          ],
-          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
-        },
-        {
-          "q": {
-            "hi": "एक संतुलित तुला के समान समीकरण के दोनों पक्षों पर कैसी संक्रिया करनी चाहिए?",
-            "en": "Like a balanced scale, what operation should be performed on both sides of an equation?"
-          },
-          "options": [
-            {"hi": "एक जैसी", "en": "Identical"},
-            {"hi": "विपरीत", "en": "Opposite"},
-            {"hi": "कोई भी", "en": "Any"},
-            {"hi": "केवल जोड़ना", "en": "Only addition"}
-          ],
-          "answer": {"hi": "एक जैसी", "en": "Identical"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण $m - \\frac{m-1}{2} = 1 - \\frac{m-2}{3}$ में m का मान क्या है?",
-            "en": "What is the value of m in $m - \\frac{m-1}{2} = 1 - \\frac{m-2}{3}$?"
-          },
-          "options": [
-            {"hi": "7/5", "en": "7/5"},
-            {"hi": "5/7", "en": "5/7"},
-            {"hi": "1.2", "en": "1.2"},
-            {"hi": "1", "en": "1"}
-          ],
-          "answer": {"hi": "7/5", "en": "7/5"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण $\\frac{3t-2}{4} - \\frac{2t+3}{3} = \\frac{2}{3} - t$ का हल क्या है?",
-            "en": "What is the solution to $\\frac{3t-2}{4} - \\frac{2t+3}{3} = \\frac{2}{3} - t$?"
-          },
-          "options": [
-            {"hi": "2", "en": "2"},
-            {"hi": "-2", "en": "-2"},
-            {"hi": "1", "en": "1"},
-            {"hi": "0", "en": "0"}
-          ],
-          "answer": {"hi": "2", "en": "2"}
-        }
-      ],
-      "section5": [
-        {
-          "q": {
-            "hi": "प्रायः समीकरण को हल करने से पहले उसे क्या किया जाता है?",
-            "en": "What is usually done to an equation before solving it?"
-          },
-          "options": [
-            {"hi": "बड़ा बनाया जाता है", "en": "Made larger"},
-            {"hi": "सरल बनाया जाता है", "en": "Simplified"},
-            {"hi": "मिटा दिया जाता है", "en": "Erased"},
-            {"hi": "उसी रूप में छोड़ा जाता है", "en": "Left as it is"}
-          ],
-          "answer": {"hi": "सरल बनाया जाता है", "en": "Simplified"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण $3(5z - 7) - 2(9z - 11) = 4(8z - 13) - 17$ में z का मान क्या है?",
-            "en": "What is the value of z in $3(5z - 7) - 2(9z - 11) = 4(8z - 13) - 17$?"
+            "hi": "एक चर वाले बहुपद में चरों की संख्या कितनी होती है?",
+            "en": "How many variables are there in a polynomial in one variable?"
           },
           "options": [
             {"hi": "1", "en": "1"},
             {"hi": "2", "en": "2"},
-            {"hi": "-1", "en": "-1"},
-            {"hi": "0", "en": "0"}
+            {"hi": "3", "en": "3"},
+            {"hi": "अनेक", "en": "Many"}
           ],
-          "answer": {"hi": "2", "en": "2"}
+          "answer": {"hi": "1", "en": "1"}
         },
         {
           "q": {
-            "hi": "क्या रैखिक समीकरण बनाने वाले चर की घात 2 हो सकती है?",
-            "en": "Can the power of a variable in a linear equation be 2?"
+            "hi": "क्या $\\sqrt{x} + 3$ एक बहुपद है?",
+            "en": "Is $\\sqrt{x} + 3$ a polynomial?"
           },
           "options": [
             {"hi": "हाँ", "en": "Yes"},
             {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल विशेष परिस्थितियों में", "en": "Only in special cases"},
-            {"hi": "निश्चित नहीं", "en": "Not certain"}
+            {"hi": "केवल x > 0 के लिए", "en": "Only for x > 0"},
+            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"}
           ],
           "answer": {"hi": "नहीं", "en": "No"}
         },
         {
           "q": {
-            "hi": "समीकरण $5x + \\frac{7}{2} = \\frac{3}{2}x - 14$ में x का मान क्या है?",
-            "en": "What is the value of x in $5x + \\frac{7}{2} = \\frac{3}{2}x - 14$?"
+            "hi": "त्रिपद (Trinomial) में पदों की संख्या कितनी होती है?",
+            "en": "How many terms are there in a Trinomial?"
           },
           "options": [
-            {"hi": "-5", "en": "-5"},
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "3", "en": "3"},
+            {"hi": "घात के बराबर", "en": "Equal to degree"}
+          ],
+          "answer": {"hi": "3", "en": "3"}
+        },
+        {
+          "q": {
+            "hi": "बहुपद $3x^7 - 4x^6 + x + 9$ की घात क्या है?",
+            "en": "What is the degree of the polynomial $3x^7 - 4x^6 + x + 9$?"
+          },
+          "options": [
+            {"hi": "6", "en": "6"},
+            {"hi": "7", "en": "7"},
+            {"hi": "1", "en": "1"},
+            {"hi": "9", "en": "9"}
+          ],
+          "answer": {"hi": "7", "en": "7"}
+        },
+        {
+          "q": {
+            "hi": "बहुपद $p(x) = x + 5$ का शून्यक क्या है?",
+            "en": "What is the zero of the polynomial $p(x) = x + 5$?"
+          },
+          "options": [
             {"hi": "5", "en": "5"},
-            {"hi": "-7", "en": "-7"},
-            {"hi": "7", "en": "7"}
+            {"hi": "-5", "en": "-5"},
+            {"hi": "0", "en": "0"},
+            {"hi": "1", "en": "1"}
           ],
           "answer": {"hi": "-5", "en": "-5"}
         },
         {
           "q": {
-            "hi": "पक्षांतरण के दौरान यदि कोई पद धनात्मक (+) है, तो दूसरे पक्ष में जाकर वह क्या हो जाएगा?",
-            "en": "During transposition, if a term is positive (+), what will it become on the other side?"
+            "hi": "वास्तविक संख्या 'a' बहुपद $p(x)$ का शून्यक होती है यदि:",
+            "en": "A real number 'a' is a zero of polynomial $p(x)$ if:"
           },
           "options": [
-            {"hi": "धनात्मक ही रहेगा", "en": "Will remain positive"},
-            {"hi": "ऋणात्मक (-)", "en": "Negative (-)"},
-            {"hi": "शून्य", "en": "Zero"},
-            {"hi": "गुणा", "en": "Multiplication"}
+            {"hi": "$p(a) = 1$", "en": "$p(a) = 1$"},
+            {"hi": "$p(a) = 0$", "en": "$p(a) = 0$"},
+            {"hi": "$p(0) = a$", "en": "$p(0) = a$"},
+            {"hi": "$a = 0$"}
           ],
-          "answer": {"hi": "ऋणात्मक (-)", "en": "Negative (-)"}
+          "answer": {"hi": "$p(a) = 0$", "en": "$p(a) = 0$"}
+        }
+      ],
+      "section5": [
+        {
+          "q": {
+            "hi": "$(x-y)(x^2+xy+y^2)$ किसके बराबर है?",
+            "en": "$(x-y)(x^2+xy+y^2)$ is equal to?"
+          },
+          "options": [
+            {"hi": "$x^3 + y^3$", "en": "$x^3 + y^3$"},
+            {"hi": "$x^3 - y^3$", "en": "$x^3 - y^3$"},
+            {"hi": "$(x-y)^3$", "en": "$(x-y)^3$"},
+            {"hi": "$x^2 - y^2$", "en": "$x^2 - y^2$"}
+          ],
+          "answer": {"hi": "$x^3 - y^3$", "en": "$x^3 - y^3$"}
         },
         {
           "q": {
-            "hi": "समीकरण के संतुलन को बनाए रखने के लिए क्या आवश्यक है?",
-            "en": "What is necessary to maintain the balance of an equation?"
+            "hi": "$(x+y)(x^2-xy+y^2)$ किसका गुणनखंडन है?",
+            "en": "Of which expression is $(x+y)(x^2-xy+y^2)$ the factorization?"
           },
           "options": [
-            {"hi": "LHS और RHS पर समान संक्रिया", "en": "Identical operations on LHS and RHS"},
-            {"hi": "केवल LHS बदलना", "en": "Only changing LHS"},
-            {"hi": "केवल RHS बदलना", "en": "Only changing RHS"},
-            {"hi": "चर हटाना", "en": "Removing the variable"}
+            {"hi": "$x^3 - y^3$", "en": "$x^3 - y^3$"},
+            {"hi": "$x^3 + y^3$", "en": "$x^3 + y^3$"},
+            {"hi": "$(x+y)^3$", "en": "$(x+y)^3$"},
+            {"hi": "$x^2 + y^2$", "en": "$x^2 + y^2$"}
           ],
-          "answer": {"hi": "LHS और RHS पर समान संक्रिया", "en": "Identical operations on LHS and RHS"}
+          "answer": {"hi": "$x^3 + y^3$", "en": "$x^3 + y^3$"}
         },
         {
           "q": {
-            "hi": "बीजीय व्यंजक $x^2 + 1$ रैखिक क्यों नहीं है?",
-            "en": "Why is the algebraic expression $x^2 + 1$ not linear?"
+            "hi": "$(2x - y + z)^2$ का प्रसार क्या होगा?",
+            "en": "What will be the expansion of $(2x - y + z)^2$?"
           },
           "options": [
-            {"hi": "इसमें चर नहीं है", "en": "It has no variable"},
-            {"hi": "चर की घात 1 से अधिक है", "en": "Variable's power is more than 1"},
-            {"hi": "यह एक समीकरण है", "en": "It is an equation"},
-            {"hi": "इसमें समता चिह्न है", "en": "It has an equality sign"}
+            {"hi": "$4x^2+y^2+z^2-4xy-2yz+4zx$", "en": "$4x^2+y^2+z^2-4xy-2yz+4zx$"},
+            {"hi": "$4x^2+y^2+z^2+4xy+2yz+4zx$", "en": "$4x^2+y^2+z^2+4xy+2yz+4zx$"},
+            {"hi": "$2x^2-y^2+z^2-xy-yz+zx$", "en": "$2x^2-y^2+z^2-xy-yz+zx$"},
+            {"hi": "$4x^2-y^2+z^2$", "en": "$4x^2-y^2+z^2$"}
           ],
-          "answer": {"hi": "चर की घात 1 से अधिक है", "en": "Variable's power is more than 1"}
+          "answer": {"hi": "$4x^2+y^2+z^2-4xy-2yz+4zx$", "en": "$4x^2+y^2+z^2-4xy-2yz+4zx$"}
         },
         {
           "q": {
-            "hi": "समीकरण $2x - 3 = 7$ में अचर (Constant) पद कौन से हैं?",
-            "en": "Which are the constant terms in the equation $2x - 3 = 7$?"
+            "hi": "घनों का परिकलन किए बिना $(-12)^3 + 7^3 + 5^3$ का मान क्या होगा?",
+            "en": "What is the value of $(-12)^3 + 7^3 + 5^3$ without calculating cubes?"
           },
           "options": [
-            {"hi": "2x", "en": "2x"},
-            {"hi": "x", "en": "x"},
-            {"hi": "-3 और 7", "en": "-3 and 7"},
-            {"hi": "केवल 2", "en": "Only 2"}
+            {"hi": "0", "en": "0"},
+            {"hi": "1260", "en": "1260"},
+            {"hi": "-1260", "en": "-1260"},
+            {"hi": "-420", "en": "-420"}
           ],
-          "answer": {"hi": "-3 और 7", "en": "-3 and 7"}
+          "answer": {"hi": "-1260", "en": "-1260"}
         },
         {
           "q": {
-            "hi": "रैखिक समीकरण का हल हमेशा कैसी संख्या होती है?",
-            "en": "What kind of number is the solution of a linear equation?"
+            "hi": "बहुपद $p(x) = cx + d$ का शून्यक क्या है?",
+            "en": "What is the zero of the polynomial $p(x) = cx + d$?"
           },
           "options": [
-            {"hi": "केवल पूर्ण संख्या", "en": "Only a whole number"},
-            {"hi": "कोई भी परिमेय संख्या", "en": "Any rational number"},
-            {"hi": "केवल प्राकृत संख्या", "en": "Only a natural number"},
-            {"hi": "शून्य", "en": "Zero"}
+            {"hi": "$d/c$", "en": "$d/c$"},
+            {"hi": "$-d/c$", "en": "$-d/c$"},
+            {"hi": "$c/d$", "en": "$c/d$"},
+            {"hi": "$-c/d$", "en": "$-c/d$"}
           ],
-          "answer": {"hi": "कोई भी परिमेय संख्या", "en": "Any rational number"}
+          "answer": {"hi": "$-d/c$", "en": "$-d/c$"}
         },
         {
           "q": {
-            "hi": "समीकरण में 'समता' का चिह्न क्या दर्शाता है?",
-            "en": "What does the 'equality' symbol in an equation represent?"
+            "hi": "घनाभ का आयतन $3x^2 - 12x$ है, इसकी विमाओं के लिए संभव व्यंजक क्या हैं?",
+            "en": "Volume of a cuboid is $3x^2 - 12x$, what are the possible expressions for its dimensions?"
           },
           "options": [
-            {"hi": "बायाँ पक्ष बड़ा है", "en": "LHS is greater"},
-            {"hi": "दायाँ पक्ष बड़ा है", "en": "RHS is greater"},
-            {"hi": "दोनों पक्ष बराबर हैं", "en": "Both sides are equal"},
-            {"hi": "कोई संबंध नहीं है", "en": "There is no relationship"}
+            {"hi": "$3, x, x-4$", "en": "$3, x, x-4$"},
+            {"hi": "$3x, x, 4$", "en": "$3x, x, 4$"},
+            {"hi": "$3, x^2, 12$", "en": "$3, x^2, 12$"},
+            {"hi": "$x, 3x, 4$", "en": "$x, 3x, 4$"}
           ],
-          "answer": {"hi": "दोनों पक्ष बराबर हैं", "en": "Both sides are equal"}
+          "answer": {"hi": "$3, x, x-4$", "en": "$3, x, x-4$"}
+        },
+        {
+          "q": {
+            "hi": "$x^3 - y^3$ का एक गुणनखंड $(x-y)$ है।",
+            "en": "$(x-y)$ is a factor of $x^3 - y^3$."
+          },
+          "options": [
+            {"hi": "सत्य", "en": "True"},
+            {"hi": "असत्य", "en": "False"},
+            {"hi": "केवल x=y के लिए", "en": "Only for x=y"},
+            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"}
+          ],
+          "answer": {"hi": "सत्य", "en": "True"}
+        },
+        {
+          "q": {
+            "hi": "बहुपद $x+1$ का शून्यक क्या है?",
+            "en": "What is the zero of the polynomial $x+1$?"
+          },
+          "options": [
+            {"hi": "1", "en": "1"},
+            {"hi": "-1", "en": "-1"},
+            {"hi": "0", "en": "0"},
+            {"hi": "अपरिभाषित", "en": "Undefined"}
+          ],
+          "answer": {"hi": "-1", "en": "-1"}
+        },
+        {
+          "q": {
+            "hi": "बहुपद $x^2 + x$ किस प्रकार का बहुपद है?",
+            "en": "What type of polynomial is $x^2 + x$?"
+          },
+          "options": [
+            {"hi": "रैखिक", "en": "Linear"},
+            {"hi": "द्विघाती", "en": "Quadratic"},
+            {"hi": "त्रिघाती", "en": "Cubic"},
+            {"hi": "शून्य बहुपद", "en": "Zero polynomial"}
+          ],
+          "answer": {"hi": "द्विघाती", "en": "Quadratic"}
+        },
+        {
+          "q": {
+            "hi": "$x^3 + y^3 + z^3 - 3xyz$ को क्या कहा जाता है?",
+            "en": "What is $x^3 + y^3 + z^3 - 3xyz$ called?"
+          },
+          "options": [
+            {"hi": "एक सर्वसमिका", "en": "An identity"},
+            {"hi": "एक समीकरण", "en": "An equation"},
+            {"hi": "एक अचर", "en": "A constant"},
+            {"hi": "एक पद", "en": "A term"}
+          ],
+          "answer": {"hi": "एक सर्वसमिका", "en": "An identity"}
         }
       ]
     },
