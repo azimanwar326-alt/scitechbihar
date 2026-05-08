@@ -8606,6 +8606,668 @@
           "answer": {"hi": "उपरोक्त सभी (All of above)", "en": "All of the above"}
         }
       ]
+    },
+    "chapter14": {
+      "section1": [
+        {
+          "q": {
+            "hi": "पृथ्वी की सबसे बाहरी परत को क्या कहते हैं?",
+            "en": "What is the outermost layer of the Earth called?"
+          },
+          "options": [
+            {"hi": "जलमंडल", "en": "Hydrosphere"},
+            {"hi": "स्थलमंडल (Lithosphere)", "en": "Lithosphere"},
+            {"hi": "वायुमंडल", "en": "Atmosphere"},
+            {"hi": "जीवमंडल", "en": "Biosphere"}
+          ],
+          "answer": {"hi": "स्थलमंडल (Lithosphere)", "en": "Lithosphere"}
+        },
+        {
+          "q": {
+            "hi": "पृथ्वी के कितने प्रतिशत भाग पर जल पाया जाता है?",
+            "en": "What percentage of the Earth's surface is covered by water?"
+          },
+          "options": [
+            {"hi": "50%", "en": "50%"},
+            {"hi": "25%", "en": "25%"},
+            {"hi": "75%", "en": "75%"},
+            {"hi": "90%", "en": "90"}
+          ],
+          "answer": {"hi": "75%", "en": "75%"}
+        },
+        {
+          "q": {
+            "hi": "वायुमंडल में मुख्य रूप से कौन-सी गैस सर्वाधिक मात्रा में पाई जाती है?",
+            "en": "Which gas is found in the maximum quantity in the atmosphere?"
+          },
+          "options": [
+            {"hi": "ऑक्सीजन", "en": "Oxygen"},
+            {"hi": "कार्बन डाइऑक्साइड", "en": "Carbon dioxide"},
+            {"hi": "नाइट्रोजन (Nitrogen)", "en": "Nitrogen"},
+            {"hi": "आर्गन", "en": "Argon"}
+          ],
+          "answer": {"hi": "नाइट्रोजन (Nitrogen)", "en": "Nitrogen"}
+        },
+        {
+          "q": {
+            "hi": "शुक्र और मंगल ग्रहों के वायुमंडल का मुख्य घटक क्या है?",
+            "en": "What is the main component of the atmosphere of Venus and Mars?"
+          },
+          "options": [
+            {"hi": "ऑक्सीजन", "en": "Oxygen"},
+            {"hi": "कार्बन डाइऑक्साइड (CO2)", "en": "Carbon dioxide (CO2)"},
+            {"hi": "नाइट्रोजन", "en": "Nitrogen"},
+            {"hi": "हाइड्रोजन", "en": "Hydrogen"}
+          ],
+          "answer": {"hi": "कार्बन डाइऑक्साइड (CO2)", "en": "Carbon dioxide (CO2)"}
+        },
+        {
+          "q": {
+            "hi": "वायुमंडल पृथ्वी को एक कंबल की तरह ढके रहता है, यह मुख्य रूप से क्या नियंत्रित करता है?",
+            "en": "The atmosphere covers the Earth like a blanket; what does it mainly control?"
+          },
+          "options": [
+            {"hi": "वर्षा", "en": "Rainfall"},
+            {"hi": "पृथ्वी का औसत तापमान", "en": "Average temperature of the Earth"},
+            {"hi": "समुद्र का स्तर", "en": "Sea level"},
+            {"hi": "मिट्टी की उर्वरता", "en": "Soil fertility"}
+          ],
+          "answer": {"hi": "पृथ्वी का औसत तापमान", "en": "Average temperature of the Earth"}
+        },
+        {
+          "q": {
+            "hi": "दिन के समय हवा की दिशा किधर से किधर होती है?",
+            "en": "In what direction does the wind blow during the day?"
+          },
+          "options": [
+            {"hi": "स्थल से समुद्र की ओर", "en": "From land to sea"},
+            {"hi": "समुद्र से स्थल की ओर (Sea to land)", "en": "From sea to land"},
+            {"hi": "दक्षिण से उत्तर की ओर", "en": "From South to North"},
+            {"hi": "हवा नहीं चलती", "en": "No wind blows"}
+          ],
+          "answer": {"hi": "समुद्र से स्थल की ओर (Sea to land)", "en": "From sea to land"}
+        },
+        {
+          "q": {
+            "hi": "रात के समय हवा की दिशा किधर होती है?",
+            "en": "What is the direction of the wind at night?"
+          },
+          "options": [
+            {"hi": "समुद्र से स्थल की ओर", "en": "From sea to land"},
+            {"hi": "स्थल से समुद्र की ओर (Land to sea)", "en": "From land to sea"},
+            {"hi": "पहाड़ों की ओर", "en": "Towards mountains"},
+            {"hi": "कोई दिशा नहीं", "en": "No direction"}
+          ],
+          "answer": {"hi": "स्थल से समुद्र की ओर (Land to sea)", "en": "From land to sea"}
+        },
+        {
+          "q": {
+            "hi": "वायु में हानिकारक पदार्थों की वृद्धि जिससे सांस लेने में कठिनाई हो, क्या कहलाती है?",
+            "en": "An increase in harmful substances in the air that makes breathing difficult is called?"
+          },
+          "options": [
+            {"hi": "मृदा प्रदूषण", "en": "Soil pollution"},
+            {"hi": "जल प्रदूषण", "en": "Water pollution"},
+            {"hi": "वायु प्रदूषण (Air pollution)", "en": "Air pollution"},
+            {"hi": "ध्वनि प्रदूषण", "en": "Noise pollution"}
+          ],
+          "answer": {"hi": "वायु प्रदूषण (Air pollution)", "en": "Air pollution"}
+        },
+        {
+          "q": {
+            "hi": "वायुमंडल में उपस्थित जलवाष्प के संघनन से क्या बनता है?",
+            "en": "What is formed by the condensation of water vapor present in the atmosphere?"
+          },
+          "options": [
+            {"hi": "धुआं", "en": "Smoke"},
+            {"hi": "बादल (Clouds)", "en": "Clouds"},
+            {"hi": "ओजोन", "en": "Ozone"},
+            {"hi": "नाइट्रोजन", "en": "Nitrogen"}
+          ],
+          "answer": {"hi": "बादल (Clouds)", "en": "Clouds"}
+        },
+        {
+          "q": {
+            "hi": "पवनों (Winds) के चलने का मुख्य कारण क्या है?",
+            "en": "What is the main reason for the blowing of winds?"
+          },
+          "options": [
+            {"hi": "पृथ्वी का गुरुत्वाकर्षण", "en": "Earth's gravity"},
+            {"hi": "वायुमंडल का असमान रूप से गर्म होना", "en": "Uneven heating of the atmosphere"},
+            {"hi": "चंद्रमा का खिंचाव", "en": "Moon's pull"},
+            {"hi": "पेड़ों का हिलना", "en": "Swaying of trees"}
+          ],
+          "answer": {"hi": "वायुमंडल का असमान रूप से गर्म होना", "en": "Uneven heating of the atmosphere"}
+        }
+      ],
+      "section2": [
+        {
+          "q": {
+            "hi": "सभी जीवित प्राणियों को जीवित रहने के लिए किसकी आवश्यकता होती है?",
+            "en": "What is required by all living organisms to stay alive?"
+          },
+          "options": [
+            {"hi": "केवल भोजन", "en": "Only food"},
+            {"hi": "जल (Water)", "en": "Water"},
+            {"hi": "केवल घर", "en": "Only house"},
+            {"hi": "केवल कपड़े", "en": "Only clothes"}
+          ],
+          "answer": {"hi": "जल (Water)", "en": "Water"}
+        },
+        {
+          "q": {
+            "hi": "पृथ्वी पर जल का सबसे बड़ा भंडार क्या है?",
+            "en": "What is the largest reservoir of water on Earth?"
+          },
+          "options": [
+            {"hi": "नदियां", "en": "Rivers"},
+            {"hi": "झीलें", "en": "Lakes"},
+            {"hi": "समुद्र और महासागर (Oceans)", "en": "Seas and Oceans"},
+            {"hi": "तालाब", "en": "Ponds"}
+          ],
+          "answer": {"hi": "समुद्र और महासागर (Oceans)", "en": "Seas and Oceans"}
+        },
+        {
+          "q": {
+            "hi": "मृदा (Soil) के निर्माण में सबसे महत्वपूर्ण कारक कौन-सा है?",
+            "en": "Which is the most important factor in the formation of soil?"
+          },
+          "options": [
+            {"hi": "सूर्य, जल और वायु", "en": "Sun, Water, and Air"},
+            {"hi": "केवल मनुष्य", "en": "Only humans"},
+            {"hi": "केवल प्लास्टिक", "en": "Only plastic"},
+            {"hi": "केवल बिजली", "en": "Only electricity"}
+          ],
+          "answer": {"hi": "सूर्य, जल और वायु", "en": "Sun, Water, and Air"}
+        },
+        {
+          "q": {
+            "hi": "मृदा में पाए जाने वाले सड़े-गले जीवों के अवशेषों को क्या कहते हैं?",
+            "en": "What are the decayed remains of organisms found in soil called?"
+          },
+          "options": [
+            {"hi": "मिट्टी", "en": "Mud"},
+            {"hi": "ह्यूमस (Humus)", "en": "Humus"},
+            {"hi": "पत्थर", "en": "Stones"},
+            {"hi": "खनिज", "en": "Minerals"}
+          ],
+          "answer": {"hi": "ह्यूमस (Humus)", "en": "Humus"}
+        },
+        {
+          "q": {
+            "hi": "मृदा अपरदन (Soil Erosion) को रोकने का सबसे प्रभावी तरीका क्या है?",
+            "en": "What is the most effective way to prevent soil erosion?"
+          },
+          "options": [
+            {"hi": "जंगलों को काटना", "en": "Deforestation"},
+            {"hi": "खेती करना", "en": "Farming"},
+            {"hi": "वृक्षारोपण (Planting trees)", "en": "Afforestation"},
+            {"hi": "सड़कें बनाना", "en": "Building roads"}
+          ],
+          "answer": {"hi": "वृक्षारोपण (Planting trees)", "en": "Afforestation"}
+        },
+        {
+          "q": {
+            "hi": "वायुमंडल में कार्बन डाइऑक्साइड (CO2) का प्रतिशत लगभग कितना है?",
+            "en": "What is the approximate percentage of CO2 in the atmosphere?"
+          },
+          "options": [
+            {"hi": "0.03%", "en": "0.03%"},
+            {"hi": "21%", "en": "21%"},
+            {"hi": "78%", "en": "78%"},
+            {"hi": "1%", "en": "1%"}
+          ],
+          "answer": {"hi": "0.03%", "en": "0.03%"}
+        },
+        {
+          "q": {
+            "hi": "वायुमंडल में ऑक्सीजन की मात्रा लगभग कितनी है?",
+            "en": "What is the approximate amount of oxygen in the atmosphere?"
+          },
+          "options": [
+            {"hi": "78%", "en": "78%"},
+            {"hi": "21%", "en": "21%"},
+            {"hi": "0.03%", "en": "0.03%"},
+            {"hi": "0.9%", "en": "0.9%"}
+          ],
+          "answer": {"hi": "21%", "en": "21%"}
+        },
+        {
+          "q": {
+            "hi": "लाइकेन (Lichens) वायु के किस प्रदूषक के प्रति बहुत संवेदनशील होते हैं?",
+            "en": "Lichens are very sensitive to which air pollutant?"
+          },
+          "options": [
+            {"hi": "नाइट्रोजन", "en": "Nitrogen"},
+            {"hi": "सल्फर डाइऑक्साइड (SO2)", "en": "Sulphur dioxide (SO2)"},
+            {"hi": "कार्बन मोनोऑक्साइड", "en": "Carbon monoxide"},
+            {"hi": "मिथेन", "en": "Methane"}
+          ],
+          "answer": {"hi": "सल्फर डाइऑक्साइड (SO2)", "en": "Sulphur dioxide (SO2)"}
+        },
+        {
+          "q": {
+            "hi": "ग्रीन हाउस प्रभाव (Greenhouse Effect) के लिए मुख्य रूप से कौन-सी गैस उत्तरदायी है?",
+            "en": "Which gas is mainly responsible for the Greenhouse Effect?"
+          },
+          "options": [
+            {"hi": "ऑक्सीजन", "en": "Oxygen"},
+            {"hi": "नाइट्रोजन", "en": "Nitrogen"},
+            {"hi": "कार्बन डाइऑक्साइड (CO2)", "en": "Carbon dioxide (CO2)"},
+            {"hi": "आर्गन", "en": "Argon"}
+          ],
+          "answer": {"hi": "कार्बन डाइऑक्साइड (CO2)", "en": "Carbon dioxide (CO2)"}
+        },
+        {
+          "q": {
+            "hi": "ओजोन परत वायुमंडल के किस भाग में पाई जाती है?",
+            "en": "In which part of the atmosphere is the ozone layer found?"
+          },
+          "options": [
+            {"hi": "क्षोभमंडल", "en": "Troposphere"},
+            {"hi": "समतापमंडल (Stratosphere)", "en": "Stratosphere"},
+            {"hi": "मध्यमंडल", "en": "Mesosphere"},
+            {"hi": "बाह्यमंडल", "en": "Exosphere"}
+          ],
+          "answer": {"hi": "समतापमंडल (Stratosphere)", "en": "Stratosphere"}
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "ओजोन परत का मुख्य कार्य क्या है?",
+            "en": "What is the main function of the ozone layer?"
+          },
+          "options": [
+            {"hi": "वर्षा कराना", "en": "Causing rain"},
+            {"hi": "सूर्य की पराबैंगनी किरणों को रोकना", "en": "Absorbing harmful UV rays from the Sun"},
+            {"hi": "तापमान बढ़ाना", "en": "Increasing temperature"},
+            {"hi": "ऑक्सीजन बनाना", "en": "Making oxygen"}
+          ],
+          "answer": {"hi": "सूर्य की पराबैंगनी किरणों को रोकना", "en": "Absorbing harmful UV rays from the Sun"}
+        },
+        {
+          "q": {
+            "hi": "ओजोन परत के क्षरण के लिए कौन-सा रसायन मुख्य रूप से जिम्मेदार है?",
+            "en": "Which chemical is mainly responsible for the depletion of the ozone layer?"
+          },
+          "options": [
+            {"hi": "CO2", "en": "CO2"},
+            {"hi": "CFCs (Chlorofluorocarbons)", "en": "CFCs"},
+            {"hi": "CH4", "en": "CH4"},
+            {"hi": "NH3", "en": "NH3"}
+          ],
+          "answer": {"hi": "CFCs (Chlorofluorocarbons)", "en": "CFCs"}
+        },
+        {
+          "q": {
+            "hi": "जल चक्र (Water Cycle) में जल की कौन-सी अवस्थाएं शामिल हैं?",
+            "en": "Which states of water are involved in the Water Cycle?"
+          },
+          "options": [
+            {"hi": "केवल ठोस", "en": "Only solid"},
+            {"hi": "केवल द्रव", "en": "Only liquid"},
+            {"hi": "ठोस, द्रव और गैस", "en": "Solid, liquid, and gas"},
+            {"hi": "केवल गैस", "en": "Only gas"}
+          ],
+          "answer": {"hi": "ठोस, द्रव और गैस", "en": "Solid, liquid, and gas"}
+        },
+        {
+          "q": {
+            "hi": "नाइट्रोजन स्थिरीकरण (Nitrogen Fixation) करने वाले बैक्टीरिया कहाँ पाए जाते हैं?",
+            "en": "Where are nitrogen-fixing bacteria found?"
+          },
+          "options": [
+            {"hi": "हवा में", "en": "In the air"},
+            {"hi": "फलीदार पौधों की जड़ों की ग्रंथियों में", "en": "In the root nodules of leguminous plants"},
+            {"hi": "पानी की सतह पर", "en": "On the surface of water"},
+            {"hi": "पत्थरों के ऊपर", "en": "On stones"}
+          ],
+          "answer": {"hi": "फलीदार पौधों की जड़ों की ग्रंथियों में", "en": "In the root nodules of leguminous plants"}
+        },
+        {
+          "q": {
+            "hi": "अमोनिया को नाइट्रेट्स और नाइट्राइट्स में बदलने की प्रक्रिया क्या कहलाती है?",
+            "en": "What is the process of converting ammonia into nitrates and nitrites called?"
+          },
+          "options": [
+            {"hi": "नाइट्रीकरण (Nitrification)", "en": "Nitrification"},
+            {"hi": "विनाइट्रीकरण", "en": "Denitrification"},
+            {"hi": "अमोनिकरण", "en": "Ammonification"},
+            {"hi": "वाष्पीकरण", "en": "Evaporation"}
+          ],
+          "answer": {"hi": "नाइट्रीकरण (Nitrification)", "en": "Nitrification"}
+        },
+        {
+          "q": {
+            "hi": "प्रकाश संश्लेषण (Photosynthesis) के दौरान कौन-सी गैस मुक्त होती है?",
+            "en": "Which gas is released during photosynthesis?"
+          },
+          "options": [
+            {"hi": "CO2", "en": "CO2"},
+            {"hi": "ऑक्सीजन (Oxygen)", "en": "Oxygen"},
+            {"hi": "नाइट्रोजन", "en": "Nitrogen"},
+            {"hi": "हीलियम", "en": "Helium"}
+          ],
+          "answer": {"hi": "ऑक्सीजन (Oxygen)", "en": "Oxygen"}
+        },
+        {
+          "q": {
+            "hi": "श्वसन (Respiration) के दौरान जीव कौन-सी गैस ग्रहण करते हैं?",
+            "en": "Which gas do organisms intake during respiration?"
+          },
+          "options": [
+            {"hi": "कार्बन डाइऑक्साइड", "en": "Carbon dioxide"},
+            {"hi": "ऑक्सीजन (Oxygen)", "en": "Oxygen"},
+            {"hi": "ओजोन", "en": "Ozone"},
+            {"hi": "हाइड्रोजन", "en": "Hydrogen"}
+          ],
+          "answer": {"hi": "ऑक्सीजन (Oxygen)", "en": "Oxygen"}
+        },
+        {
+          "q": {
+            "hi": "वैश्विक उष्मीकरण (Global Warming) का क्या परिणाम हो सकता है?",
+            "en": "What could be a result of Global Warming?"
+          },
+          "options": [
+            {"hi": "समुद्र के स्तर में वृद्धि", "en": "Rise in sea level"},
+            {"hi": "ग्लेशियरों का पिघलना", "en": "Melting of glaciers"},
+            {"hi": "मौसम के पैटर्न में बदलाव", "en": "Changes in weather patterns"},
+            {"hi": "उपरोक्त सभी (All of the above)", "en": "All of the above"}
+          ],
+          "answer": {"hi": "उपरोक्त सभी (All of the above)", "en": "All of the above"}
+        },
+        {
+          "q": {
+            "hi": "इनमें से कौन-सा अजैव (Abiotic) घटक है?",
+            "en": "Which of these is an abiotic component?"
+          },
+          "options": [
+            {"hi": "पौधे", "en": "Plants"},
+            {"hi": "वायु (Air)", "en": "Air"},
+            {"hi": "बैक्टीरिया", "en": "Bacteria"},
+            {"hi": "कीट", "en": "Insects"}
+          ],
+          "answer": {"hi": "वायु (Air)", "en": "Air"}
+        },
+        {
+          "q": {
+            "hi": "जैवमंडल (Biosphere) के जैविक घटक कौन-से हैं?",
+            "en": "What are the biotic components of the biosphere?"
+          },
+          "options": [
+            {"hi": "सूर्य और चंद्रमा", "en": "Sun and Moon"},
+            {"hi": "मिट्टी और पत्थर", "en": "Soil and Stones"},
+            {"hi": "सजीव (सारे पौधे और जंतु)", "en": "Living beings (plants and animals)"},
+            {"hi": "केवल नदियां", "en": "Only rivers"}
+          ],
+          "answer": {"hi": "सजीव (सारे पौधे और जंतु)", "en": "Living beings (plants and animals)"}
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "स्मॉग (Smog) क्या है?",
+            "en": "What is Smog?"
+          },
+          "options": [
+            {"hi": "शुद्ध हवा", "en": "Pure air"},
+            {"hi": "धुआं और कोहरा (Smoke + Fog)", "en": "Smoke and Fog"},
+            {"hi": "केवल जलवाष्प", "en": "Only water vapor"},
+            {"hi": "ओजोन गैस", "en": "Ozone gas"}
+          ],
+          "answer": {"hi": "धुआं और कोहरा (Smoke + Fog)", "en": "Smoke and Fog"}
+        },
+        {
+          "q": {
+            "hi": "पौधों में कार्बोहाइड्रेट्स बनाने के लिए कौन-सी प्रक्रिया होती है?",
+            "en": "Which process occurs in plants to make carbohydrates?"
+          },
+          "options": [
+            {"hi": "श्वसन", "en": "Respiration"},
+            {"hi": "उत्सर्जन", "en": "Excretion"},
+            {"hi": "प्रकाश संश्लेषण (Photosynthesis)", "en": "Photosynthesis"},
+            {"hi": "पाचन", "en": "Digestion"}
+          ],
+          "answer": {"hi": "प्रकाश संश्लेषण (Photosynthesis)", "en": "Photosynthesis"}
+        },
+        {
+          "q": {
+            "hi": "वायु के गर्म होने पर क्या होता है?",
+            "en": "What happens when air gets heated?"
+          },
+          "options": [
+            {"hi": "यह भारी हो जाती है", "en": "It becomes heavy"},
+            {"hi": "यह ऊपर की ओर उठती है (It rises up)", "en": "It rises up"},
+            {"hi": "यह नीचे बैठ जाती है", "en": "It settles down"},
+            {"hi": "इसमें कोई बदलाव नहीं होता", "en": "No change occurs"}
+          ],
+          "answer": {"hi": "यह ऊपर की ओर उठती है (It rises up)", "en": "It rises up"}
+        },
+        {
+          "q": {
+            "hi": "वर्षा का पैटर्न मुख्य रूप से किस पर निर्भर करता है?",
+            "en": "On what does the rainfall pattern mainly depend?"
+          },
+          "options": [
+            {"hi": "पवनों के पैटर्न पर", "en": "Patterns of winds"},
+            {"hi": "केवल मिट्टी पर", "en": "Only on soil"},
+            {"hi": "केवल खेती पर", "en": "Only on farming"},
+            {"hi": "दिन के समय पर", "en": "On time of day"}
+          ],
+          "answer": {"hi": "पवनों के पैटर्न पर", "en": "Patterns of winds"}
+        },
+        {
+          "q": {
+            "hi": "अम्लीय वर्षा (Acid Rain) किन गैसों के कारण होती है?",
+            "en": "Acid Rain is caused by which gases?"
+          },
+          "options": [
+            {"hi": "ऑक्सीजन और नाइट्रोजन", "en": "Oxygen and Nitrogen"},
+            {"hi": "नाइट्रोजन और सल्फर के ऑक्साइड्स", "en": "Oxides of nitrogen and sulphur"},
+            {"hi": "मिथेन और आर्गन", "en": "Methane and Argon"},
+            {"hi": "केवल हीलियम", "en": "Only Helium"}
+          ],
+          "answer": {"hi": "नाइट्रोजन और सल्फर के ऑक्साइड्स", "en": "Oxides of nitrogen and sulphur"}
+        },
+        {
+          "q": {
+            "hi": "शुद्ध जल का स्रोत कौन-सा है?",
+            "en": "What is a source of fresh water?"
+          },
+          "options": [
+            {"hi": "बर्फ से ढके पहाड़", "en": "Snow-covered mountains"},
+            {"hi": "भूमिगत जल", "en": "Underground water"},
+            {"hi": "नदियां और झरने", "en": "Rivers and springs"},
+            {"hi": "उपरोक्त सभी (All of the above)", "en": "All of the above"}
+          ],
+          "answer": {"hi": "उपरोक्त सभी (All of the above)", "en": "All of the above"}
+        },
+        {
+          "q": {
+            "hi": "जल प्रदूषण का मुख्य कारण क्या है?",
+            "en": "What is the main cause of water pollution?"
+          },
+          "options": [
+            {"hi": "मछली पालन", "en": "Fish farming"},
+            {"hi": "जहाजों का चलना", "en": "Movement of ships"},
+            {"hi": "औद्योगिक कचरा और उर्वरक", "en": "Industrial waste and fertilizers"},
+            {"hi": "बारिश का पानी", "en": "Rainwater"}
+          ],
+          "answer": {"hi": "औद्योगिक कचरा और उर्वरक", "en": "Industrial waste and fertilizers"}
+        },
+        {
+          "q": {
+            "hi": "मिट्टी की ऊपरी परत को क्या कहते हैं, जिसमें ह्यूमस और सजीव होते हैं?",
+            "en": "What is the top layer of soil called that contains humus and living organisms?"
+          },
+          "options": [
+            {"hi": "आधार शैल", "en": "Bedrock"},
+            {"hi": "ऊपरी मृदा (Topsoil)", "en": "Topsoil"},
+            {"hi": "बालू", "en": "Sand"},
+            {"hi": "कीचड़", "en": "Sludge"}
+          ],
+          "answer": {"hi": "ऊपरी मृदा (Topsoil)", "en": "Topsoil"}
+        },
+        {
+          "q": {
+            "hi": "कौन-सा चक्र प्रकृति में ऑक्सीजन की मात्रा को संतुलित रखता है?",
+            "en": "Which cycle balances the amount of oxygen in nature?"
+          },
+          "options": [
+            {"hi": "जल चक्र", "en": "Water cycle"},
+            {"hi": "ऑक्सीजन चक्र (Oxygen cycle)", "en": "Oxygen cycle"},
+            {"hi": "नाइट्रोजन चक्र", "en": "Nitrogen cycle"},
+            {"hi": "फास्फोरस चक्र", "en": "Phosphorus cycle"}
+          ],
+          "answer": {"hi": "ऑक्सीजन चक्र (Oxygen cycle)", "en": "Oxygen cycle"}
+        },
+        {
+          "q": {
+            "hi": "कार्बन चक्र में वायुमंडल से कार्बन डाइऑक्साइड लेने का मुख्य तरीका क्या है?",
+            "en": "What is the main way CO2 is taken from the atmosphere in the Carbon cycle?"
+          },
+          "options": [
+            {"hi": "श्वसन", "en": "Respiration"},
+            {"hi": "ईंधन जलाना", "en": "Burning fuel"},
+            {"hi": "प्रकाश संश्लेषण (Photosynthesis)", "en": "Photosynthesis"},
+            {"hi": "ज्वालामुखी विस्फोट", "en": "Volcanic eruption"}
+          ],
+          "answer": {"hi": "प्रकाश संश्लेषण (Photosynthesis)", "en": "Photosynthesis"}
+        }
+      ],
+      "section5": [
+        {
+          "q": {
+            "hi": "हवा में तैरते हुए धूल और धुएं के कणों को क्या कहते हैं?",
+            "en": "What are the particles of dust and smoke floating in the air called?"
+          },
+          "options": [
+            {"hi": "गैस", "en": "Gas"},
+            {"hi": "निलंबित कण (Suspended particles)", "en": "Suspended particles"},
+            {"hi": "कोहरा", "en": "Fog"},
+            {"hi": "जलवाष्प", "en": "Water vapor"}
+          ],
+          "answer": {"hi": "निलंबित कण (Suspended particles)", "en": "Suspended particles"}
+        },
+        {
+          "q": {
+            "hi": "लाइकेन कहाँ पाए जाते हैं?",
+            "en": "Where are lichens found?"
+          },
+          "options": [
+            {"hi": "समुद्र के अंदर", "en": "Inside the sea"},
+            {"hi": "पेड़ों की छाल पर (On the bark of trees)", "en": "On the bark of trees"},
+            {"hi": "रेगिस्तान में", "en": "In the desert"},
+            {"hi": "केवल प्रयोगशाला में", "en": "Only in labs"}
+          ],
+          "answer": {"hi": "पेड़ों की छाल पर (On the bark of trees)", "en": "On the bark of trees"}
+        },
+        {
+          "q": {
+            "hi": "कोयला और पेट्रोलियम जैसे जीवाश्म ईंधन के जलने से कौन-सी गैसें निकलती हैं?",
+            "en": "Which gases are released by burning fossil fuels like coal and petroleum?"
+          },
+          "options": [
+            {"hi": "केवल ऑक्सीजन", "en": "Only oxygen"},
+            {"hi": "नाइट्रोजन और सल्फर के ऑक्साइड", "en": "Oxides of nitrogen and sulphur"},
+            {"hi": "केवल आर्गन", "en": "Only argon"},
+            {"hi": "केवल हीलियम", "en": "Only helium"}
+          ],
+          "answer": {"hi": "नाइट्रोजन और सल्फर के ऑक्साइड", "en": "Oxides of nitrogen and sulphur"}
+        },
+        {
+          "q": {
+            "hi": "समुद्र तटीय क्षेत्रों में वर्षा का मुख्य कारण क्या है?",
+            "en": "What is the main cause of rain in coastal areas?"
+          },
+          "options": [
+            {"hi": "केवल स्थल का गर्म होना", "en": "Only heating of land"},
+            {"hi": "जलवाष्प और पवनों का प्रभाव", "en": "Influence of water vapor and winds"},
+            {"hi": "मछलियों की गति", "en": "Movement of fish"},
+            {"hi": "समुद्र का खारापन", "en": "Saltiness of sea"}
+          ],
+          "answer": {"hi": "जलवाष्प और पवनों का प्रभाव", "en": "Influence of water vapor and winds"}
+        },
+        {
+          "q": {
+            "hi": "भूमिगत जल के प्रदूषण का मुख्य कारण क्या हो सकता है?",
+            "en": "What can be a major cause of groundwater pollution?"
+          },
+          "options": [
+            {"hi": "खेती में कीटनाशकों का अधिक उपयोग", "en": "Excessive use of pesticides in farming"},
+            {"hi": "बारिश का पानी", "en": "Rainwater"},
+            {"hi": "मिट्टी का रंग", "en": "Color of soil"},
+            {"hi": "पौधों की जड़ें", "en": "Roots of plants"}
+          ],
+          "answer": {"hi": "खेती में कीटनाशकों का अधिक उपयोग", "en": "Excessive use of pesticides in farming"}
+        },
+        {
+          "q": {
+            "hi": "सजीवों की जैविक प्रक्रियाओं में नाइट्रोजन का क्या महत्व है?",
+            "en": "What is the importance of nitrogen in biological processes?"
+          },
+          "options": [
+            {"hi": "यह प्रोटीन और DNA का हिस्सा है", "en": "It is a part of protein and DNA"},
+            {"hi": "यह केवल सांस लेने के काम आता है", "en": "It is only used for breathing"},
+            {"hi": "यह केवल प्यास बुझाता है", "en": "It only quenches thirst"},
+            {"hi": "इसका कोई महत्व नहीं है", "en": "It has no importance"}
+          ],
+          "answer": {"hi": "यह प्रोटीन और DNA का हिस्सा है", "en": "It is a part of protein and DNA"}
+        },
+        {
+          "q": {
+            "hi": "वायुमंडल में ऑक्सीजन को वापस भेजने वाली एकमात्र मुख्य प्रक्रिया कौन-सी है?",
+            "en": "Which is the only major process that returns oxygen to the atmosphere?"
+          },
+          "options": [
+            {"hi": "श्वसन", "en": "Respiration"},
+            {"hi": "दहन", "en": "Combustion"},
+            {"hi": "प्रकाश संश्लेषण (Photosynthesis)", "en": "Photosynthesis"},
+            {"hi": "नाइट्रोजन स्थिरीकरण", "en": "Nitrogen fixation"}
+          ],
+          "answer": {"hi": "प्रकाश संश्लेषण (Photosynthesis)", "en": "Photosynthesis"}
+        },
+        {
+          "q": {
+            "hi": "चूना पत्थर (Limestone) में कार्बन किस रूप में संचित होता है?",
+            "en": "In what form is carbon stored in limestone?"
+          },
+          "options": [
+            {"hi": "गैस", "en": "Gas"},
+            {"hi": "कार्बोनेट (Carbonate)", "en": "Carbonate"},
+            {"hi": "तरल", "en": "Liquid"},
+            {"hi": "हीरा", "en": "Diamond"}
+          ],
+          "answer": {"hi": "कार्बोनेट (Carbonate)", "en": "Carbonate"}
+        },
+        {
+          "q": {
+            "hi": "ओजोन (O3) अणु में ऑक्सीजन के कितने परमाणु होते हैं?",
+            "en": "How many atoms of oxygen are there in an ozone (O3) molecule?"
+          },
+          "options": [
+            {"hi": "एक", "en": "One"},
+            {"hi": "दो", "en": "Two"},
+            {"hi": "तीन (Three)", "en": "Three"},
+            {"hi": "चार", "en": "Four"}
+          ],
+          "answer": {"hi": "तीन (Three)", "en": "Three"}
+        },
+        {
+          "q": {
+            "hi": "प्राकृतिक संपदा को सुरक्षित रखने का सही तरीका क्या है?",
+            "en": "What is the correct way to preserve natural wealth?"
+          },
+          "options": [
+            {"hi": "अत्यधिक दोहन", "en": "Over-exploitation"},
+            {"hi": "प्रदूषण बढ़ाना", "en": "Increasing pollution"},
+            {"hi": "संपोषणीय उपयोग (Sustainable use)", "en": "Sustainable use"},
+            {"hi": "पेड़ों को काटना", "en": "Cutting trees"}
+          ],
+          "answer": {"hi": "संपोषणीय उपयोग (Sustainable use)", "en": "Sustainable use"}
+        }
+      ]
     }
   }
 }
