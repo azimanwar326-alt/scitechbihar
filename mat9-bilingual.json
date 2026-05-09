@@ -7948,661 +7948,661 @@
       "section1": [
         {
           "q": {
-            "hi": "आलेखों (Graphs) का मुख्य उद्देश्य क्या है?",
-            "en": "What is the primary purpose of graphs?"
+            "hi": "एक घनाभ (Cuboid) का कुल पृष्ठीय क्षेत्रफल ज्ञात करने का सूत्र क्या है?",
+            "en": "What is the formula to find the total surface area of a cuboid?"
           },
           "options": [
-            { "hi": "गणना करना", "en": "To calculate" },
-            { "hi": "तथ्यों को चित्रों द्वारा स्पष्ट रूप से दिखाना", "en": "To show facts clearly through pictures" },
-            { "hi": "संख्याओं को छिपाना", "en": "To hide numbers" },
-            { "hi": "केवल सजावट करना", "en": "Only for decoration" }
+            {"hi": "2(lb + bh + hl)", "en": "2(lb + bh + hl)"},
+            {"hi": "lbh", "en": "lbh"},
+            {"hi": "2(l + b)h", "en": "2(l + b)h"},
+            {"hi": "l² + b² + h²", "en": "l² + b² + h²"}
           ],
-          "answer": { "hi": "तथ्यों को चित्रों द्वारा स्पष्ट रूप से दिखाना", "en": "To show facts clearly through pictures" }
+          "answer": {"hi": "2(lb + bh + hl)", "en": "2(lb + bh + hl)"}
         },
         {
           "q": {
-            "hi": "एक रेखा-आलेख (Line Graph) क्या प्रदर्शित करता है?",
-            "en": "What does a line graph display?"
+            "hi": "एक घन (Cube) का पृष्ठीय क्षेत्रफल क्या होता है जिसकी भुजा 'a' है?",
+            "en": "What is the surface area of a cube whose side is 'a'?"
           },
           "options": [
-            { "hi": "केवल स्थिर आँकड़े", "en": "Only static data" },
-            { "hi": "समय के साथ लगातार बदलते आँकड़े", "en": "Data that changes continuously over time" },
-            { "hi": "केवल प्रतिशत", "en": "Only percentages" },
-            { "hi": "वस्तुओं के चित्र", "en": "Pictures of objects" }
+            {"hi": "4a²", "en": "4a²"},
+            {"hi": "6a²", "en": "6a²"},
+            {"hi": "a³", "en": "a³"},
+            {"hi": "12a", "en": "12a"}
           ],
-          "answer": { "hi": "समय के साथ लगातार बदलते आँकड़े", "en": "Data that changes continuously over time" }
+          "answer": {"hi": "6a²", "en": "6a²"}
         },
         {
           "q": {
-            "hi": "आलेख बनाने के लिए वर्गांकित कागज पर खींची गई क्षैतिज रेखा को क्या कहते हैं?",
-            "en": "What is the horizontal line drawn on a squared paper for a graph called?"
+            "hi": "घनाभ के चारों दीवारों का क्षेत्रफल (पाश्र्व पृष्ठीय क्षेत्रफल) क्या है?",
+            "en": "What is the area of the four walls (lateral surface area) of a cuboid?"
           },
           "options": [
-            { "hi": "y-अक्ष", "en": "y-axis" },
-            { "hi": "x-अक्ष", "en": "x-axis" },
-            { "hi": "मूल बिंदु", "en": "Origin" },
-            { "hi": "विकर्ण", "en": "Diagonal" }
+            {"hi": "2(l + b)h", "en": "2(l + b)h"},
+            {"hi": "2(lb + bh)", "en": "2(lb + bh)"},
+            {"hi": "lbh", "en": "lbh"},
+            {"hi": "2lh + 2bh + 2lb", "en": "2lh + 2bh + 2lb"}
           ],
-          "answer": { "hi": "x-अक्ष", "en": "x-axis" }
+          "answer": {"hi": "2(l + b)h", "en": "2(l + b)h"}
         },
         {
           "q": {
-            "hi": "आलेख में ऊर्ध्वाधर (Vertical) रेखा को क्या कहते हैं?",
-            "en": "What is the vertical line in a graph called?"
+            "hi": "एक बेलन (Cylinder) का वक्र पृष्ठीय क्षेत्रफल क्या है?",
+            "en": "What is the curved surface area of a cylinder?"
           },
           "options": [
-            { "hi": "x-अक्ष", "en": "x-axis" },
-            { "hi": "y-अक्ष", "en": "y-axis" },
-            { "hi": "क्षैतिज रेखा", "en": "Horizontal line" },
-            { "hi": "आधार", "en": "Base" }
+            {"hi": "πr²h", "en": "πr²h"},
+            {"hi": "2πrh", "en": "2πrh"},
+            {"hi": "2πr(r + h)", "en": "2πr(r + h)"},
+            {"hi": "πrl", "en": "πrl"}
           ],
-          "answer": { "hi": "y-अक्ष", "en": "y-axis" }
+          "answer": {"hi": "2πrh", "en": "2πrh"}
         },
         {
           "q": {
-            "hi": "x-अक्ष और y-अक्ष के प्रतिच्छेद बिंदु को क्या कहते हैं?",
-            "en": "What is the intersection point of the x-axis and y-axis called?"
+            "hi": "त्रिज्या 'r' और ऊँचाई 'h' वाले एक बेलन का कुल पृष्ठीय क्षेत्रफल क्या होगा?",
+            "en": "What is the total surface area of a cylinder with radius 'r' and height 'h'?"
           },
           "options": [
-            { "hi": "शिखर", "en": "Vertex" },
-            { "hi": "मूल बिंदु (Origin)", "en": "Origin" },
-            { "hi": "केंद्र", "en": "Center" },
-            { "hi": "अंत बिंदु", "en": "End point" }
+            {"hi": "2πrh + πr²", "en": "2πrh + πr²"},
+            {"hi": "2πrh", "en": "2πrh"},
+            {"hi": "2πr(r + h)", "en": "2πr(r + h)"},
+            {"hi": "πr²h", "en": "πr²h"}
           ],
-          "answer": { "hi": "मूल बिंदु (Origin)", "en": "Origin" }
+          "answer": {"hi": "2πr(r + h)", "en": "2πr(r + h)"}
         },
         {
           "q": {
-            "hi": "मूल बिंदु (Origin) के निर्देशांक क्या होते हैं?",
-            "en": "What are the coordinates of the Origin?"
+            "hi": "लम्ब वृत्तीय शंकु (Cone) का वक्र पृष्ठीय क्षेत्रफल क्या होता है?",
+            "en": "What is the curved surface area of a right circular cone?"
           },
           "options": [
-            { "hi": "(1, 1)", "en": "(1, 1)" },
-            { "hi": "(0, 0)", "en": "(0, 0)" },
-            { "hi": "(0, 1)", "en": "(0, 1)" },
-            { "hi": "(1, 0)", "en": "(1, 0)" }
+            {"hi": "πrl", "en": "πrl"},
+            {"hi": "2πrl", "en": "2πrl"},
+            {"hi": "1/3 πr²h", "en": "1/3 πr²h"},
+            {"hi": "πr(l + r)", "en": "πr(l + r)"}
           ],
-          "answer": { "hi": "(0, 0)", "en": "(0, 0)" }
+          "answer": {"hi": "πrl", "en": "πrl"}
         },
         {
           "q": {
-            "hi": "बिंदु (3, 4) में '3' क्या दर्शाता है?",
-            "en": "In the point (3, 4), what does '3' represent?"
+            "hi": "शंकु की तिर्यक ऊँचाई 'l', ऊँचाई 'h' और त्रिज्या 'r' के बीच क्या संबंध है?",
+            "en": "What is the relationship between slant height 'l', height 'h', and radius 'r' of a cone?"
           },
           "options": [
-            { "hi": "y-निर्देशांक", "en": "y-coordinate" },
-            { "hi": "x-निर्देशांक", "en": "x-coordinate" },
-            { "hi": "मूल बिंदु से दूरी", "en": "Distance from origin" },
-            { "hi": "बिंदु का नाम", "en": "Point name" }
+            {"hi": "l = r + h", "en": "l = r + h"},
+            {"hi": "l² = r² + h²", "en": "l² = r² + h²"},
+            {"hi": "l = √(r² - h²)", "en": "l = √(r² - h²)"},
+            {"hi": "l = r²h", "en": "l = r²h"}
           ],
-          "answer": { "hi": "x-निर्देशांक", "en": "x-coordinate" }
+          "answer": {"hi": "l² = r² + h²", "en": "l² = r² + h²"}
         },
         {
           "q": {
-            "hi": "बिंदु (5, 2) में '2' क्या कहलाता है?",
-            "en": "What is '2' called in the point (5, 2)?"
+            "hi": "त्रिज्या 'r' वाले गोले (Sphere) का पृष्ठीय क्षेत्रफल क्या है?",
+            "en": "What is the surface area of a sphere with radius 'r'?"
           },
           "options": [
-            { "hi": "भुज", "en": "Abscissa" },
-            { "hi": "कोटि (Ordinate)", "en": "Ordinate" },
-            { "hi": "मूल बिंदु", "en": "Origin" },
-            { "hi": "अक्ष", "en": "Axis" }
+            {"hi": "2πr²", "en": "2πr²"},
+            {"hi": "3πr²", "en": "3πr²"},
+            {"hi": "4πr²", "en": "4πr²"},
+            {"hi": "4/3 πr²", "en": "4/3 πr²"}
           ],
-          "answer": { "hi": "कोटि (Ordinate)", "en": "Ordinate" }
+          "answer": {"hi": "4πr²", "en": "4πr²"}
         },
         {
           "q": {
-            "hi": "यदि किसी बिंदु का x-निर्देशांक शून्य है, तो वह बिंदु कहाँ स्थित होगा?",
-            "en": "If the x-coordinate of a point is zero, where will that point be located?"
+            "hi": "एक अर्धगोले (Hemisphere) का वक्र पृष्ठीय क्षेत्रफल क्या है?",
+            "en": "What is the curved surface area of a hemisphere?"
           },
           "options": [
-            { "hi": "x-अक्ष पर", "en": "On the x-axis" },
-            { "hi": "y-अक्ष पर", "en": "On the y-axis" },
-            { "hi": "मूल बिंदु पर", "en": "At the origin" },
-            { "hi": "कहीं भी हो सकता है", "en": "Can be anywhere" }
+            {"hi": "πr²", "en": "πr²"},
+            {"hi": "2πr²", "en": "2πr²"},
+            {"hi": "3πr²", "en": "3πr²"},
+            {"hi": "4πr²", "en": "4πr²"}
           ],
-          "answer": { "hi": "y-अक्ष पर", "en": "On the y-axis" }
+          "answer": {"hi": "2πr²", "en": "2πr²"}
         },
         {
           "q": {
-            "hi": "एक पूर्ण अखंडित रेखा के रूप में आने वाले आलेख को क्या कहते हैं?",
-            "en": "What is a graph that comes as a single unbroken line called?"
+            "hi": "एक ठोस अर्धगोले का कुल पृष्ठीय क्षेत्रफल क्या होता है?",
+            "en": "What is the total surface area of a solid hemisphere?"
           },
           "options": [
-            { "hi": "वृत्त आलेख", "en": "Circle graph" },
-            { "hi": "रैखिक आलेख (Linear Graph)", "en": "Linear Graph" },
-            { "hi": "दंड आलेख", "en": "Bar graph" },
-            { "hi": "आयत चित्र", "en": "Histogram" }
+            {"hi": "2πr²", "en": "2πr²"},
+            {"hi": "3πr²", "en": "3πr²"},
+            {"hi": "4πr²", "en": "4πr²"},
+            {"hi": "2/3 πr³", "en": "2/3 πr³"}
           ],
-          "answer": { "hi": "रैखिक आलेख (Linear Graph)", "en": "Linear Graph" }
+          "answer": {"hi": "3πr²", "en": "3πr²"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "एक आयत चित्र (Histogram) किस प्रकार के आँकड़ों को दर्शाता है?",
-            "en": "What type of data does a histogram show?"
+            "hi": "एक घनाभ का आयतन (Volume) ज्ञात करने का सूत्र क्या है?",
+            "en": "What is the formula to find the volume of a cuboid?"
           },
           "options": [
-            { "hi": "अवर्गीकृत आँकड़े", "en": "Ungrouped data" },
-            { "hi": "अंतरालों में वर्गीकृत आँकड़े", "en": "Data grouped in intervals" },
-            { "hi": "केवल दो राशियाँ", "en": "Only two quantities" },
-            { "hi": "व्यक्तियों के नाम", "en": "Names of persons" }
+            {"hi": "l + b + h", "en": "l + b + h"},
+            {"hi": "2(lb + bh + hl)", "en": "2(lb + bh + hl)"},
+            {"hi": "l × b × h", "en": "l × b × h"},
+            {"hi": "l²bh", "en": "l²bh"}
           ],
-          "answer": { "hi": "अंतरालों में वर्गीकृत आँकड़े", "en": "Data grouped in intervals" }
+          "answer": {"hi": "l × b × h", "en": "l × b × h"}
         },
         {
           "q": {
-            "hi": "निर्देशांक (4, 0) वाला बिंदु कहाँ स्थित होगा?",
-            "en": "Where will the point with coordinates (4, 0) be located?"
+            "hi": "भुजा 'a' वाले घन का आयतन क्या होगा?",
+            "en": "What will be the volume of a cube with side 'a'?"
           },
           "options": [
-            { "hi": "y-अक्ष पर", "en": "On the y-axis" },
-            { "hi": "x-अक्ष पर", "en": "On the x-axis" },
-            { "hi": "दूसरे चतुर्थांश में", "en": "In the second quadrant" },
-            { "hi": "मूल बिंदु पर", "en": "At the origin" }
+            {"hi": "a²", "en": "a²"},
+            {"hi": "a³", "en": "a³"},
+            {"hi": "6a²", "en": "6a²"},
+            {"hi": "4a³", "en": "4a³"}
           ],
-          "answer": { "hi": "x-अक्ष पर", "en": "On the x-axis" }
+          "answer": {"hi": "a³", "en": "a³"}
         },
         {
           "q": {
-            "hi": "स्वतंत्र चर (Independent variable) को सामान्यतः किस अक्ष पर दर्शाया जाता है?",
-            "en": "On which axis is the independent variable usually represented?"
+            "hi": "बेलन का आयतन ज्ञात करने का सूत्र क्या है?",
+            "en": "What is the formula to find the volume of a cylinder?"
           },
           "options": [
-            { "hi": "y-अक्ष पर", "en": "On the y-axis" },
-            { "hi": "x-अक्ष पर", "en": "On the x-axis" },
-            { "hi": "दोनों पर", "en": "On both" },
-            { "hi": "किसी पर नहीं", "en": "On neither" }
+            {"hi": "πrh", "en": "πrh"},
+            {"hi": "2πrh", "en": "2πrh"},
+            {"hi": "πr²h", "en": "πr²h"},
+            {"hi": "1/3 πr²h", "en": "1/3 πr²h"}
           ],
-          "answer": { "hi": "x-अक्ष पर", "en": "On the x-axis" }
+          "answer": {"hi": "πr²h", "en": "πr²h"}
         },
         {
           "q": {
-            "hi": "आश्रित चर (Dependent variable) को किस अक्ष पर दर्शाया जाता है?",
-            "en": "On which axis is the dependent variable represented?"
+            "hi": "शंकु का आयतन बेलन के आयतन का कितना भाग होता है (यदि आधार और ऊँचाई समान हों)?",
+            "en": "What fraction of a cylinder's volume is the volume of a cone (if base and height are same)?"
           },
           "options": [
-            { "hi": "x-अक्ष पर", "en": "On the x-axis" },
-            { "hi": "y-अक्ष पर", "en": "On the y-axis" },
-            { "hi": "मूल बिंदु पर", "en": "At the origin" },
-            { "hi": "क्षैतिज अक्ष पर", "en": "On horizontal axis" }
+            {"hi": "आधा", "en": "Half"},
+            {"hi": "एक-तिहाई (1/3)", "en": "One-third (1/3)"},
+            {"hi": "एक-चौथाई", "en": "One-fourth"},
+            {"hi": "बराबर", "en": "Equal"}
           ],
-          "answer": { "hi": "y-अक्ष पर", "en": "On the y-axis" }
+          "answer": {"hi": "एक-तिहाई (1/3)", "en": "One-third (1/3)"}
         },
         {
           "q": {
-            "hi": "समय-तापमान आलेख में 'समय' किस प्रकार का चर है?",
-            "en": "In a time-temperature graph, what type of variable is 'time'?"
+            "hi": "शंकु के आयतन का सूत्र क्या है?",
+            "en": "What is the formula for the volume of a cone?"
           },
           "options": [
-            { "hi": "आश्रित चर", "en": "Dependent variable" },
-            { "hi": "स्वतंत्र चर (Independent variable)", "en": "Independent variable" },
-            { "hi": "अचर", "en": "Constant" },
-            { "hi": "शून्य चर", "en": "Zero variable" }
+            {"hi": "πr²h", "en": "πr²h"},
+            {"hi": "1/3 πr²h", "en": "1/3 πr²h"},
+            {"hi": "2/3 πr²h", "en": "2/3 πr²h"},
+            {"hi": "πrl", "en": "πrl"}
           ],
-          "answer": { "hi": "स्वतंत्र चर (Independent variable)", "en": "Independent variable" }
+          "answer": {"hi": "1/3 πr²h", "en": "1/3 πr²h"}
         },
         {
           "q": {
-            "hi": "यदि कार की चाल स्थिर है, तो दूरी और समय का आलेख कैसा होगा?",
-            "en": "If the speed of a car is constant, what will be the graph of distance and time?"
+            "hi": "त्रिज्या 'r' वाले गोले का आयतन क्या होता है?",
+            "en": "What is the volume of a sphere with radius 'r'?"
           },
           "options": [
-            { "hi": "एक वक्र रेखा", "en": "A curved line" },
-            { "hi": "एक सरल रेखा (Straight line)", "en": "A straight line" },
-            { "hi": "एक वृत्त", "en": "A circle" },
-            { "hi": "जिगजैग रेखा", "en": "A zigzag line" }
+            {"hi": "4πr²", "en": "4πr²"},
+            {"hi": "4/3 πr³", "en": "4/3 πr³"},
+            {"hi": "2/3 πr³", "en": "2/3 πr³"},
+            {"hi": "πr³", "en": "πr³"}
           ],
-          "answer": { "hi": "एक सरल रेखा (Straight line)", "en": "A straight line" }
+          "answer": {"hi": "4/3 πr³", "en": "4/3 πr³"}
         },
         {
           "q": {
-            "hi": "आलेख में एक बिंदु की स्थिति निर्धारित करने के लिए हमें कितने निर्देशांकों की आवश्यकता होती है?",
-            "en": "How many coordinates do we need to determine the position of a point in a graph?"
+            "hi": "अर्धगोले का आयतन ज्ञात करने का सूत्र क्या है?",
+            "en": "What is the formula to find the volume of a hemisphere?"
           },
           "options": [
-            { "hi": "एक", "en": "One" },
-            { "hi": "दो", "en": "Two" },
-            { "hi": "तीन", "en": "Three" },
-            { "hi": "चार", "en": "Four" }
+            {"hi": "4/3 πr³", "en": "4/3 πr³"},
+            {"hi": "2/3 πr³", "en": "2/3 πr³"},
+            {"hi": "2πr²", "en": "2πr²"},
+            {"hi": "1/3 πr³", "en": "1/3 πr³"}
           ],
-          "answer": { "hi": "दो", "en": "Two" }
+          "answer": {"hi": "2/3 πr³", "en": "2/3 πr³"}
         },
         {
           "q": {
-            "hi": "वर्गांकित कागज पर बिंदु (0, 0) कहाँ स्थित होता है?",
-            "en": "Where is the point (0, 0) located on a squared paper?"
+            "hi": "आयतन मापने की मानक इकाई क्या है?",
+            "en": "What is the standard unit of measuring volume?"
           },
           "options": [
-            { "hi": "सबसे ऊपर", "en": "At the top" },
-            { "hi": "सबसे नीचे दाईं ओर", "en": "At the bottom right" },
-            { "hi": "क्षैतिज और ऊर्ध्वाधर अक्षों के मिलन बिंदु पर", "en": "At the meeting point of horizontal and vertical axes" },
-            { "hi": "केवल x-अक्ष पर", "en": "Only on the x-axis" }
+            {"hi": "वर्ग मात्रक", "en": "Square units"},
+            {"hi": "घन मात्रक (जैसे cm³, m³)", "en": "Cubic units (like cm³, m³)"},
+            {"hi": "मीटर", "en": "Meter"},
+            {"hi": "लीटर", "en": "Liter"}
           ],
-          "answer": { "hi": "क्षैतिज और ऊर्ध्वाधर अक्षों के मिलन बिंदु पर", "en": "At the meeting point of horizontal and vertical axes" }
+          "answer": {"hi": "घन मात्रक (जैसे cm³, m³)", "en": "Cubic units (like cm³, m³)"}
         },
         {
           "q": {
-            "hi": "बिंदु (2, 3) और (3, 2) के बारे में क्या सत्य है?",
-            "en": "What is true about points (2, 3) and (3, 2)?"
+            "hi": "1 मीटर³ (m³) में कितने लीटर होते हैं?",
+            "en": "How many liters are there in 1 cubic meter (m³)?"
           },
           "options": [
-            { "hi": "दोनों एक ही बिंदु हैं", "en": "Both are the same point" },
-            { "hi": "दोनों अलग-अलग बिंदु हैं", "en": "Both are different points" },
-            { "hi": "दोनों मूल बिंदु हैं", "en": "Both are origins" },
-            { "hi": "इनका स्थान समान है", "en": "Their location is same" }
+            {"hi": "100 लीटर", "en": "100 liters"},
+            {"hi": "1000 लीटर", "en": "1000 liters"},
+            {"hi": "10 लीटर", "en": "10 liters"},
+            {"hi": "10000 लीटर", "en": "10000 liters"}
           ],
-          "answer": { "hi": "दोनों अलग-अलग बिंदु हैं", "en": "Both are different points" }
+          "answer": {"hi": "1000 लीटर", "en": "1000 liters"}
         },
         {
           "q": {
-            "hi": "निर्देशांक पद्धति में x-अक्ष से दूरी क्या कहलाती है?",
-            "en": "What is the distance from the x-axis called in the coordinate system?"
+            "hi": "1000 cm³ किसके बराबर होता है?",
+            "en": "1000 cm³ is equal to?"
           },
           "options": [
-            { "hi": "x-निर्देशांक", "en": "x-coordinate" },
-            { "hi": "y-निर्देशांक", "en": "y-coordinate" },
-            { "hi": "भुज", "en": "Abscissa" },
-            { "hi": "मूल बिंदु", "en": "Origin" }
+            {"hi": "1 लीटर", "en": "1 liter"},
+            {"hi": "10 लीटर", "en": "10 liters"},
+            {"hi": "1 m³", "en": "1 m³"},
+            {"hi": "100 लीटर", "en": "100 liters"}
           ],
-          "answer": { "hi": "y-निर्देशांक", "en": "y-coordinate" }
+          "answer": {"hi": "1 लीटर", "en": "1 liter"}
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "एक रेखा-आलेख जो एक संपूर्ण अखंडित रेखा हो, क्या कहलाता है?",
-            "en": "A line graph that is a whole unbroken line is called?"
+            "hi": "यदि एक घन की भुजा को दुगुना कर दिया जाए, तो उसके पृष्ठीय क्षेत्रफल में कितने गुना वृद्धि होगी?",
+            "en": "If the side of a cube is doubled, how many times will its surface area increase?"
           },
           "options": [
-            { "hi": "रैखिक आलेख", "en": "Linear graph" },
-            { "hi": "पाई चार्ट", "en": "Pie chart" },
-            { "hi": "दंड आलेख", "en": "Bar graph" },
-            { "hi": "आयत चित्र", "en": "Histogram" }
+            {"hi": "2 गुना", "en": "2 times"},
+            {"hi": "4 गुना", "en": "4 times"},
+            {"hi": "8 गुना", "en": "8 times"},
+            {"hi": "6 गुना", "en": "6 times"}
           ],
-          "answer": { "hi": "रैखिक आलेख", "en": "Linear graph" }
+          "answer": {"hi": "4 गुना", "en": "4 times"}
         },
         {
           "q": {
-            "hi": "आलेख में पैमाना (Scale) क्यों चुना जाता है?",
-            "en": "Why is a scale chosen in a graph?"
+            "hi": "यदि घन की भुजा को दुगुना किया जाए, तो उसके आयतन में कितने गुना वृद्धि होगी?",
+            "en": "If the side of a cube is doubled, how many times will its volume increase?"
           },
           "options": [
-            { "hi": "सजावट के लिए", "en": "For decoration" },
-            { "hi": "बड़ी मात्राओं को छोटे स्थान पर दिखाने के लिए", "en": "To show large quantities in a small space" },
-            { "hi": "संख्याओं को बदलने के लिए", "en": "To change numbers" },
-            { "hi": "रंग भरने के लिए", "en": "To fill colors" }
+            {"hi": "4 गुना", "en": "4 times"},
+            {"hi": "8 गुना", "en": "8 times"},
+            {"hi": "2 गुना", "en": "2 times"},
+            {"hi": "16 गुना", "en": "16 times"}
           ],
-          "answer": { "hi": "बड़ी मात्राओं को छोटे स्थान पर दिखाने के लिए", "en": "To show large quantities in a small space" }
+          "answer": {"hi": "8 गुना", "en": "8 times"}
         },
         {
           "q": {
-            "hi": "x-अक्ष पर स्थित सभी बिंदुओं का कौन सा निर्देशांक शून्य होता है?",
-            "en": "Which coordinate of all points lying on the x-axis is zero?"
+            "hi": "एक माचिस की डिब्बी (घनाभ) की माप 4cm x 2.5cm x 1.5cm है। इसका आयतन क्या होगा?",
+            "en": "A matchbox measures 4cm x 2.5cm x 1.5cm. What is its volume?"
           },
           "options": [
-            { "hi": "x-निर्देशांक", "en": "x-coordinate" },
-            { "hi": "y-निर्देशांक", "en": "y-coordinate" },
-            { "hi": "दोनों", "en": "Both" },
-            { "hi": "कोई नहीं", "en": "None" }
+            {"hi": "15 cm³", "en": "15 cm³"},
+            {"hi": "10 cm³", "en": "10 cm³"},
+            {"hi": "20 cm³", "en": "20 cm³"},
+            {"hi": "30 cm³", "en": "30 cm³"}
           ],
-          "answer": { "hi": "y-निर्देशांक", "en": "y-coordinate" }
+          "answer": {"hi": "15 cm³", "en": "15 cm³"}
         },
         {
           "q": {
-            "hi": "एक आलेख में मूल बिंदु से दाईं ओर बढ़ने पर x का मान क्या होता है?",
-            "en": "In a graph, what happens to the value of x when moving right from the origin?"
+            "hi": "एक बेलनाकार बर्तन के आधार की परिधि 132 cm है। इसकी त्रिज्या (r) क्या होगी? (π = 22/7 लें)",
+            "en": "The circumference of the base of a cylindrical vessel is 132 cm. What will be its radius (r)?"
           },
           "options": [
-            { "hi": "घटता है", "en": "Decreases" },
-            { "hi": "बढ़ता है", "en": "Increases" },
-            { "hi": "स्थिर रहता है", "en": "Remains constant" },
-            { "hi": "शून्य हो जाता है", "en": "Becomes zero" }
+            {"hi": "7 cm", "en": "7 cm"},
+            {"hi": "14 cm", "en": "14 cm"},
+            {"hi": "21 cm", "en": "21 cm"},
+            {"hi": "28 cm", "en": "28 cm"}
           ],
-          "answer": { "hi": "बढ़ता है", "en": "Increases" }
+          "answer": {"hi": "21 cm", "en": "21 cm"}
         },
         {
           "q": {
-            "hi": "यदि दूरी समय के समानुपाती है, तो आलेख कैसा होगा?",
-            "en": "If distance is proportional to time, how will the graph look?"
+            "hi": "यदि शंकु की त्रिज्या 7 cm और ऊँचाई 12 cm है, तो उसका आयतन क्या होगा?",
+            "en": "If the radius of a cone is 7 cm and height is 12 cm, what will be its volume?"
           },
           "options": [
-            { "hi": "एक वक्र", "en": "A curve" },
-            { "hi": "एक सरल रेखा जो मूल बिंदु से गुजरती है", "en": "A straight line passing through the origin" },
-            { "hi": "एक ऊर्ध्वाधर रेखा", "en": "A vertical line" },
-            { "hi": "क्षैतिज रेखा", "en": "Horizontal line" }
+            {"hi": "154 cm³", "en": "154 cm³"},
+            {"hi": "616 cm³", "en": "616 cm³"},
+            {"hi": "308 cm³", "en": "308 cm³"},
+            {"hi": "462 cm³", "en": "462 cm³"}
           ],
-          "answer": { "hi": "एक सरल रेखा जो मूल बिंदु से गुजरती है", "en": "A straight line passing through the origin" }
+          "answer": {"hi": "616 cm³", "en": "616 cm³"}
         },
         {
           "q": {
-            "hi": "निर्देशांक (0, 5) वाला बिंदु कहाँ होगा?",
-            "en": "Where will the point with coordinates (0, 5) be?"
+            "hi": "एक गोले की त्रिज्या 7 cm है। इसका पृष्ठीय क्षेत्रफल क्या होगा?",
+            "en": "The radius of a sphere is 7 cm. What will be its surface area?"
           },
           "options": [
-            { "hi": "x-अक्ष पर", "en": "On the x-axis" },
-            { "hi": "y-अक्ष पर", "en": "On the y-axis" },
-            { "hi": "मूल बिंदु पर", "en": "At the origin" },
-            { "hi": "चौथे चतुर्थांश में", "en": "In the fourth quadrant" }
+            {"hi": "154 cm²", "en": "154 cm²"},
+            {"hi": "616 cm²", "en": "616 cm²"},
+            {"hi": "308 cm²", "en": "308 cm²"},
+            {"hi": "462 cm²", "en": "462 cm²"}
           ],
-          "answer": { "hi": "y-अक्ष पर", "en": "On the y-axis" }
+          "answer": {"hi": "616 cm²", "en": "616 cm²"}
         },
         {
           "q": {
-            "hi": "निर्देशांक (2, 0) वाला बिंदु कहाँ होगा?",
-            "en": "Where will the point with coordinates (2, 0) be?"
+            "hi": "शंकु के आधार का आकार कैसा होता है?",
+            "en": "What is the shape of the base of a cone?"
           },
           "options": [
-            { "hi": "x-अक्ष पर", "en": "On the x-axis" },
-            { "hi": "y-अक्ष पर", "en": "On the y-axis" },
-            { "hi": "मूल बिंदु पर", "en": "At the origin" },
-            { "hi": "कहीं नहीं", "en": "Nowhere" }
+            {"hi": "त्रिभुजाकार", "en": "Triangular"},
+            {"hi": "वर्गाकार", "en": "Square"},
+            {"hi": "वृत्ताकार", "en": "Circular"},
+            {"hi": "आयताकार", "en": "Rectangular"}
           ],
-          "answer": { "hi": "x-अक्ष पर", "en": "On the x-axis" }
+          "answer": {"hi": "वृत्ताकार", "en": "Circular"}
         },
         {
           "q": {
-            "hi": "आलेख में 'किंक' (Kink/Zig-zag line) का उपयोग क्यों किया जाता है?",
-            "en": "Why is a 'kink' or zig-zag line used in a graph?"
+            "hi": "किसी वस्तु द्वारा घेरे गए स्थान की माप को क्या कहते हैं?",
+            "en": "What is the measure of the space occupied by an object called?"
           },
           "options": [
-            { "hi": "आलेख को सुंदर बनाने के लिए", "en": "To make the graph beautiful" },
-            { "hi": "अक्ष पर शून्य और पहली संख्या के बीच के अंतर को कम करने के लिए", "en": "To show a break in the axis between zero and the first number" },
-            { "hi": "गलती सुधारने के लिए", "en": "To correct an error" },
-            { "hi": "दिशा बताने के लिए", "en": "To show direction" }
+            {"hi": "क्षेत्रफल", "en": "Area"},
+            {"hi": "परिमाप", "en": "Perimeter"},
+            {"hi": "आयतन", "en": "Volume"},
+            {"hi": "घनत्व", "en": "Density"}
           ],
-          "answer": { "hi": "अक्ष पर शून्य और पहली संख्या के बीच के अंतर को कम करने के लिए", "en": "To show a break in the axis between zero and the first number" }
+          "answer": {"hi": "आयतन", "en": "Volume"}
         },
         {
           "q": {
-            "hi": "बिंदु (4, 4) की x-अक्ष और y-अक्ष से दूरियाँ कैसी हैं?",
-            "en": "How are the distances of point (4, 4) from the x-axis and y-axis?"
+            "hi": "खोखले बेलन में कितनी त्रिज्याएँ होती हैं?",
+            "en": "How many radii are there in a hollow cylinder?"
           },
           "options": [
-            { "hi": "समान", "en": "Equal" },
-            { "hi": "असमान", "en": "Unequal" },
-            { "hi": "शून्य", "en": "Zero" },
-            { "hi": "कह नहीं सकते", "en": "Cannot say" }
+            {"hi": "एक", "en": "One"},
+            {"hi": "दो (आंतरिक और बाहरी)", "en": "Two (inner and outer)"},
+            {"hi": "तीन", "en": "Three"},
+            {"hi": "शून्य", "en": "Zero"}
           ],
-          "answer": { "hi": "समान", "en": "Equal" }
+          "answer": {"hi": "दो (आंतरिक और बाहरी)", "en": "Two (inner and outer)"}
         },
         {
           "q": {
-            "hi": "निर्देशांक (x, y) में 'x' को और क्या कहा जाता है?",
-            "en": "In the coordinates (x, y), what else is 'x' called?"
+            "hi": "यदि गोले की त्रिज्या को आधा कर दिया जाए, तो आयतन कितना रह जाएगा?",
+            "en": "If the radius of a sphere is halved, what will the volume become?"
           },
           "options": [
-            { "hi": "कोटि", "en": "Ordinate" },
-            { "hi": "भुज (Abscissa)", "en": "Abscissa" },
-            { "hi": "अक्ष", "en": "Axis" },
-            { "hi": "बिंदु", "en": "Point" }
+            {"hi": "आधा", "en": "Half"},
+            {"hi": "1/4", "en": "1/4"},
+            {"hi": "1/8", "en": "1/8"},
+            {"hi": "1/16", "en": "1/16"}
           ],
-          "answer": { "hi": "भुज (Abscissa)", "en": "Abscissa" }
+          "answer": {"hi": "1/8", "en": "1/8"}
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "यदि y = 2x है, तो बिंदु (2, ?) में रिक्त स्थान क्या होगा?",
-            "en": "If y = 2x, what will be the value in the blank for point (2, ?)?"
+            "hi": "घनाभ में कुल कितने फलक (Faces) होते हैं?",
+            "en": "How many faces are there in total in a cuboid?"
           },
           "options": [
-            { "hi": "2", "en": "2" },
-            { "hi": "4", "en": "4" },
-            { "hi": "0", "en": "0" },
-            { "hi": "1", "en": "1" }
+            {"hi": "4", "en": "4"},
+            {"hi": "6", "en": "6"},
+            {"hi": "8", "en": "8"},
+            {"hi": "12", "en": "12"}
           ],
-          "answer": { "hi": "4", "en": "4" }
+          "answer": {"hi": "6", "en": "6"}
         },
         {
           "q": {
-            "hi": "एक वर्ग की भुजा और उसके परिमाप का आलेख कैसा होता है?",
-            "en": "What is the graph of a square's side and its perimeter like?"
+            "hi": "घन के विकर्ण की लंबाई का सूत्र क्या है (भुजा a)?",
+            "en": "What is the formula for the diagonal length of a cube (side a)?"
           },
           "options": [
-            { "hi": "रैखिक", "en": "Linear" },
-            { "hi": "वृत्ताकार", "en": "Circular" },
-            { "hi": "असतत", "en": "Discontinuous" },
-            { "hi": "वक्र", "en": "Curve" }
+            {"hi": "√2 a", "en": "√2 a"},
+            {"hi": "√3 a", "en": "√3 a"},
+            {"hi": "2a", "en": "2a"},
+            {"hi": "3a", "en": "3a"}
           ],
-          "answer": { "hi": "रैखिक", "en": "Linear" }
+          "answer": {"hi": "√3 a", "en": "√3 a"}
         },
         {
           "q": {
-            "hi": "एक वर्ग की भुजा और उसके क्षेत्रफल का आलेख कैसा होता है?",
-            "en": "What is the graph of a square's side and its area like?"
+            "hi": "बेलन की ऊँचाई को नियत रखते हुए त्रिज्या को दुगुना करने पर आयतन पर क्या प्रभाव पड़ेगा?",
+            "en": "Keeping height constant, what is the effect on volume if the radius of a cylinder is doubled?"
           },
           "options": [
-            { "hi": "रैखिक", "en": "Linear" },
-            { "hi": "गैर-रैखिक (वक्र)", "en": "Non-linear (Curve)" },
-            { "hi": "क्षैतिज रेखा", "en": "Horizontal line" },
-            { "hi": "ऊर्ध्वाधर रेखा", "en": "Vertical line" }
+            {"hi": "2 गुना होगा", "en": "2 times"},
+            {"hi": "4 गुना होगा", "en": "4 times"},
+            {"hi": "8 गुना होगा", "en": "8 times"},
+            {"hi": "वही रहेगा", "en": "Remains same"}
           ],
-          "answer": { "hi": "गैर-रैखिक (वक्र)", "en": "Non-linear (Curve)" }
+          "answer": {"hi": "4 गुना होगा", "en": "4 times"}
         },
         {
           "q": {
-            "hi": "बिंदु P(3, 5) के लिए मूल बिंदु से x-अक्ष की दिशा में कितनी इकाइयाँ चलनी होंगी?",
-            "en": "For point P(3, 5), how many units must one move from the origin in the direction of the x-axis?"
+            "hi": "शंकु की ऊँचाई को दुगुना करने पर आयतन पर क्या प्रभाव पड़ेगा (त्रिज्या नियत)?",
+            "en": "If the height of a cone is doubled (radius constant), what happens to the volume?"
           },
           "options": [
-            { "hi": "5", "en": "5" },
-            { "hi": "3", "en": "3" },
-            { "hi": "8", "en": "8" },
-            { "hi": "0", "en": "0" }
+            {"hi": "2 गुना होगा", "en": "2 times"},
+            {"hi": "4 गुना होगा", "en": "4 times"},
+            {"hi": "आधा होगा", "en": "Half"},
+            {"hi": "कोई परिवर्तन नहीं", "en": "No change"}
           ],
-          "answer": { "hi": "3", "en": "3" }
+          "answer": {"hi": "2 गुना होगा", "en": "2 times"}
         },
         {
           "q": {
-            "hi": "बिंदु Q(4, 2) के लिए y-अक्ष की दिशा में कितनी इकाइयाँ चलनी होंगी?",
-            "en": "For point Q(4, 2), how many units must one move in the direction of the y-axis?"
+            "hi": "एक लम्ब वृत्तीय शंकु की त्रिज्या 6 cm और ऊँचाई 8 cm है। इसकी तिर्यक ऊँचाई (l) क्या होगी?",
+            "en": "A right circular cone has radius 6 cm and height 8 cm. What is its slant height (l)?"
           },
           "options": [
-            { "hi": "4", "en": "4" },
-            { "hi": "2", "en": "2" },
-            { "hi": "6", "en": "6" },
-            { "hi": "0", "en": "0" }
+            {"hi": "10 cm", "en": "10 cm"},
+            {"hi": "14 cm", "en": "14 cm"},
+            {"hi": "12 cm", "en": "12 cm"},
+            {"hi": "9 cm", "en": "9 cm"}
           ],
-          "answer": { "hi": "2", "en": "2" }
+          "answer": {"hi": "10 cm", "en": "10 cm"}
         },
         {
           "q": {
-            "hi": "निर्देशांक (5, 5) मूल बिंदु से कितनी दूरी पर है (लगभग)?",
-            "en": "Approximately how far is the coordinate (5, 5) from the origin?"
+            "hi": "एक बर्तन में 5000 cm³ पानी है। इसकी क्षमता लीटर में क्या होगी?",
+            "en": "A vessel contains 5000 cm³ of water. What is its capacity in liters?"
           },
           "options": [
-            { "hi": "5 इकाइयाँ", "en": "5 units" },
-            { "hi": "10 इकाइयाँ", "en": "10 units" },
-            { "hi": "7.07 इकाइयाँ", "en": "7.07 units" },
-            { "hi": "0 इकाइयाँ", "en": "0 units" }
+            {"hi": "0.5 लीटर", "en": "0.5 liter"},
+            {"hi": "5 लीटर", "en": "5 liters"},
+            {"hi": "50 लीटर", "en": "50 liters"},
+            {"hi": "500 लीटर", "en": "500 liters"}
           ],
-          "answer": { "hi": "7.07 इकाइयाँ", "en": "7.07 units" }
+          "answer": {"hi": "5 लीटर", "en": "5 liters"}
         },
         {
           "q": {
-            "hi": "आलेख द्वारा प्रदर्शित जानकारी को क्या कहते हैं?",
-            "en": "What is the information displayed by a graph called?"
+            "hi": "दो गोलों की त्रिज्याओं का अनुपात 1:2 है। उनके पृष्ठीय क्षेत्रफलों का अनुपात क्या होगा?",
+            "en": "The ratio of radii of two spheres is 1:2. What is the ratio of their surface areas?"
           },
           "options": [
-            { "hi": "निर्देश", "en": "Instruction" },
-            { "hi": "आँकड़े (Data)", "en": "Data" },
-            { "hi": "समीकरण", "en": "Equation" },
-            { "hi": "गणना", "en": "Calculation" }
+            {"hi": "1:2", "en": "1:2"},
+            {"hi": "1:4", "en": "1:4"},
+            {"hi": "1:8", "en": "1:8"},
+            {"hi": "2:1", "en": "2:1"}
           ],
-          "answer": { "hi": "आँकड़े (Data)", "en": "Data" }
+          "answer": {"hi": "1:4", "en": "1:4"}
         },
         {
           "q": {
-            "hi": "यदि कोई बिंदु x-अक्ष और y-अक्ष दोनों पर है, तो वह बिंदु क्या है?",
-            "en": "If a point is on both the x-axis and y-axis, what is that point?"
+            "hi": "दो गोलों की त्रिज्याओं का अनुपात 1:2 है। उनके आयतनों का अनुपात क्या होगा?",
+            "en": "The ratio of radii of two spheres is 1:2. What is the ratio of their volumes?"
           },
           "options": [
-            { "hi": "अक्ष", "en": "Axis" },
-            { "hi": "मूल बिंदु (Origin)", "en": "Origin" },
-            { "hi": "निर्देशांक", "en": "Coordinate" },
-            { "hi": "समतल", "en": "Plane" }
+            {"hi": "1:4", "en": "1:4"},
+            {"hi": "1:8", "en": "1:8"},
+            {"hi": "1:6", "en": "1:6"},
+            {"hi": "1:2", "en": "1:2"}
           ],
-          "answer": { "hi": "मूल बिंदु (Origin)", "en": "Origin" }
+          "answer": {"hi": "1:8", "en": "1:8"}
         },
         {
           "q": {
-            "hi": "क्या समय और तापमान का आलेख हमेशा एक सीधी रेखा होता है?",
-            "en": "Is the time and temperature graph always a straight line?"
+            "hi": "एक आयताकार जलाशय 6m लंबा, 5m चौड़ा और 4.5m गहरा है। इसमें कितने लीटर पानी आ सकता है?",
+            "en": "A rectangular tank is 6m long, 5m wide, and 4.5m deep. How many liters of water can it hold?"
           },
           "options": [
-            { "hi": "हाँ", "en": "Yes" },
-            { "hi": "नहीं", "en": "No" },
-            { "hi": "केवल गर्मियों में", "en": "Only in summers" },
-            { "hi": "केवल सर्दियों में", "en": "Only in winters" }
+            {"hi": "135000 लीटर", "en": "135000 liters"},
+            {"hi": "13500 लीटर", "en": "13500 liters"},
+            {"hi": "1350 लीटर", "en": "1350 liters"},
+            {"hi": "27000 लीटर", "en": "27000 liters"}
           ],
-          "answer": { "hi": "नहीं", "en": "No" }
+          "answer": {"hi": "135000 लीटर", "en": "135000 liters"}
         },
         {
           "q": {
-            "hi": "बिंदु (1, 10), (2, 20), (3, 30) किस प्रकार का आलेख बनाएंगे?",
-            "en": "What kind of graph will the points (1, 10), (2, 20), (3, 30) form?"
+            "hi": "बेलन के आधार का क्षेत्रफल 154 cm² है और ऊँचाई 10 cm है। इसका आयतन क्या होगा?",
+            "en": "The area of the base of a cylinder is 154 cm² and height is 10 cm. What will be its volume?"
           },
           "options": [
-            { "hi": "वक्र", "en": "Curve" },
-            { "hi": "रैखिक आलेख (Linear Graph)", "en": "Linear Graph" },
-            { "hi": "वृत्त", "en": "Circle" },
-            { "hi": "असतत बिंदु", "en": "Discrete points" }
+            {"hi": "1540 cm³", "en": "1540 cm³"},
+            {"hi": "770 cm³", "en": "770 cm³"},
+            {"hi": "3080 cm³", "en": "3080 cm³"},
+            {"hi": "154 cm³", "en": "154 cm³"}
           ],
-          "answer": { "hi": "रैखिक आलेख (Linear Graph)", "en": "Linear Graph" }
+          "answer": {"hi": "1540 cm³", "en": "1540 cm³"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "आलेखीय प्रदर्शन का क्या लाभ है?",
-            "en": "What is the advantage of graphical representation?"
+            "hi": "1 cm³ लोहे का भार 7.8 ग्राम है। 10 cm³ लोहे का भार क्या होगा?",
+            "en": "1 cm³ of iron weighs 7.8 grams. What will be the weight of 10 cm³ iron?"
           },
           "options": [
-            { "hi": "यह समय बचाता है", "en": "It saves time" },
-            { "hi": "तुलना करना आसान हो जाता है", "en": "Comparison becomes easy" },
-            { "hi": "रुझानों को समझा जा सकता है", "en": "Trends can be understood" },
-            { "hi": "उपरोक्त सभी", "en": "All of the above" }
+            {"hi": "0.78 ग्राम", "en": "0.78 g"},
+            {"hi": "78 ग्राम", "en": "78 g"},
+            {"hi": "780 ग्राम", "en": "780 g"},
+            {"hi": "7.8 ग्राम", "en": "7.8 g"}
           ],
-          "answer": { "hi": "उपरोक्त सभी", "en": "All of the above" }
+          "answer": {"hi": "78 ग्राम", "en": "78 g"}
         },
         {
           "q": {
-            "hi": "y-अक्ष पर स्थित किसी बिंदु का रूप क्या होता है?",
-            "en": "What is the form of any point lying on the y-axis?"
+            "hi": "घन का कुल पृष्ठीय क्षेत्रफल 96 cm² है। इसकी भुजा क्या होगी?",
+            "en": "The total surface area of a cube is 96 cm². What is its side?"
           },
           "options": [
-            { "hi": "(x, 0)", "en": "(x, 0)" },
-            { "hi": "(0, y)", "en": "(0, y)" },
-            { "hi": "(x, y)", "en": "(x, y)" },
-            { "hi": "(0, 0)", "en": "(0, 0)" }
+            {"hi": "4 cm", "en": "4 cm"},
+            {"hi": "6 cm", "en": "6 cm"},
+            {"hi": "16 cm", "en": "16 cm"},
+            {"hi": "8 cm", "en": "8 cm"}
           ],
-          "answer": { "hi": "(0, y)", "en": "(0, y)" }
+          "answer": {"hi": "4 cm", "en": "4 cm"}
         },
         {
           "q": {
-            "hi": "x-अक्ष पर स्थित किसी बिंदु का रूप क्या होता है?",
-            "en": "What is the form of any point lying on the x-axis?"
+            "hi": "एक लम्ब वृत्तीय शंकु का आयतन 9856 cm³ है। यदि त्रिज्या 14 cm है, तो ऊँचाई क्या होगी?",
+            "en": "The volume of a right circular cone is 9856 cm³. If the radius is 14 cm, what will be the height?"
           },
           "options": [
-            { "hi": "(x, 0)", "en": "(x, 0)" },
-            { "hi": "(0, y)", "en": "(0, y)" },
-            { "hi": "(y, x)", "en": "(y, x)" },
-            { "hi": "(1, 1)", "en": "(1, 1)" }
+            {"hi": "24 cm", "en": "24 cm"},
+            {"hi": "48 cm", "en": "48 cm"},
+            {"hi": "12 cm", "en": "12 cm"},
+            {"hi": "36 cm", "en": "36 cm"}
           ],
-          "answer": { "hi": "(x, 0)", "en": "(x, 0)" }
+          "answer": {"hi": "48 cm", "en": "48 cm"}
         },
         {
           "q": {
-            "hi": "बिंदु (2, 5) की y-अक्ष से दूरी क्या है?",
-            "en": "What is the distance of point (2, 5) from the y-axis?"
+            "hi": "एक गोल गुब्बारे में हवा भरने पर उसकी त्रिज्या 7 cm से 14 cm हो जाती है। दोनों स्थितियों में पृष्ठीय क्षेत्रफलों का अनुपात क्या होगा?",
+            "en": "Radius of a spherical balloon increases from 7cm to 14cm as air is pumped. What is the ratio of surface areas?"
           },
           "options": [
-            { "hi": "5 इकाइयाँ", "en": "5 units" },
-            { "hi": "2 इकाइयाँ", "en": "2 units" },
-            { "hi": "7 इकाइयाँ", "en": "7 units" },
-            { "hi": "0 इकाइयाँ", "en": "0 units" }
+            {"hi": "1:2", "en": "1:2"},
+            {"hi": "1:4", "en": "1:4"},
+            {"hi": "1:8", "en": "1:8"},
+            {"hi": "2:1", "en": "2:1"}
           ],
-          "answer": { "hi": "2 इकाइयाँ", "en": "2 units" }
+          "answer": {"hi": "1:4", "en": "1:4"}
         },
         {
           "q": {
-            "hi": "बिंदु (2, 5) की x-अक्ष से दूरी क्या है?",
-            "en": "What is the distance of point (2, 5) from the x-axis?"
+            "hi": "किसी घनाभ के सभी किनारों (Edges) की कुल संख्या कितनी होती है?",
+            "en": "What is the total number of edges in a cuboid?"
           },
           "options": [
-            { "hi": "2 इकाइयाँ", "en": "2 units" },
-            { "hi": "5 इकाइयाँ", "en": "5 units" },
-            { "hi": "3 इकाइयाँ", "en": "3 units" },
-            { "hi": "0 इकाइयाँ", "en": "0 units" }
+            {"hi": "6", "en": "6"},
+            {"hi": "8", "en": "8"},
+            {"hi": "12", "en": "12"},
+            {"hi": "4", "en": "4"}
           ],
-          "answer": { "hi": "5 इकाइयाँ", "en": "5 units" }
+          "answer": {"hi": "12", "en": "12"}
         },
         {
           "q": {
-            "hi": "निर्देशांक पद्धति को और किस नाम से जाना जाता है?",
-            "en": "By what other name is the coordinate system known?"
+            "hi": "घनाभ में शीर्षों (Vertices) की कुल संख्या कितनी होती है?",
+            "en": "What is the total number of vertices in a cuboid?"
           },
           "options": [
-            { "hi": "यूक्लिडियन पद्धति", "en": "Euclidean system" },
-            { "hi": "कार्तीय पद्धति (Cartesian System)", "en": "Cartesian System" },
-            { "hi": "बीजीय पद्धति", "en": "Algebraic system" },
-            { "hi": "संख्या रेखा पद्धति", "en": "Number line system" }
+            {"hi": "6", "en": "6"},
+            {"hi": "8", "en": "8"},
+            {"hi": "12", "en": "12"},
+            {"hi": "10", "en": "10"}
           ],
-          "answer": { "hi": "कार्तीय पद्धति (Cartesian System)", "en": "Cartesian System" }
+          "answer": {"hi": "8", "en": "8"}
         },
         {
           "q": {
-            "hi": "एक रेखा-आलेख में बिंदुओं को किसके द्वारा जोड़ा जाता है?",
-            "en": "In a line graph, how are the points joined?"
+            "hi": "एक शंकु की त्रिज्या 3.5 cm और ऊँचाई 12 cm है। इसका आयतन क्या होगा?",
+            "en": "Radius of a cone is 3.5 cm and height is 12 cm. What is its volume?"
           },
           "options": [
-            { "hi": "रेखाखंडों द्वारा", "en": "By line segments" },
-            { "hi": "वृत्तों द्वारा", "en": "By circles" },
-            { "hi": "बिंदुओं द्वारा", "en": "By dots" },
-            { "hi": "जोड़ा नहीं जाता", "en": "Are not joined" }
+            {"hi": "154 cm³", "en": "154 cm³"},
+            {"hi": "462 cm³", "en": "462 cm³"},
+            {"hi": "132 cm³", "en": "132 cm³"},
+            {"hi": "308 cm³", "en": "308 cm³"}
           ],
-          "answer": { "hi": "रेखाखंडों द्वारा", "en": "By line segments" }
+          "answer": {"hi": "154 cm³", "en": "154 cm³"}
         },
         {
           "q": {
-            "hi": "बिंदु (4, 3) किस चतुर्थांश (Quadrant) में स्थित है?",
-            "en": "In which quadrant is the point (4, 3) located?"
+            "hi": "एक ठोस की धारिता (Capacity) का क्या अर्थ है?",
+            "en": "What is meant by the capacity of a solid?"
           },
           "options": [
-            { "hi": "प्रथम (First)", "en": "First" },
-            { "hi": "द्वितीय", "en": "Second" },
-            { "hi": "तृतीय", "en": "Third" },
-            { "hi": "चतुर्थ", "en": "Fourth" }
+            {"hi": "इसका वजन", "en": "Its weight"},
+            {"hi": "इसका पृष्ठीय क्षेत्रफल", "en": "Its surface area"},
+            {"hi": "वह मात्रा जो इसके अंदर आ सकती है", "en": "The amount it can hold inside"},
+            {"hi": "इसका घनत्व", "en": "Its density"}
           ],
-          "answer": { "hi": "प्रथम (First)", "en": "First" }
+          "answer": {"hi": "वह मात्रा जो इसके अंदर आ सकती है", "en": "The amount it can hold inside"}
         },
         {
           "q": {
-            "hi": "क्या बिंदु (0, 3) मूल बिंदु है?",
-            "en": "Is the point (0, 3) the origin?"
+            "hi": "यदि गोले का पृष्ठीय क्षेत्रफल 154 cm² है, तो इसकी त्रिज्या क्या होगी?",
+            "en": "If the surface area of a sphere is 154 cm², what will be its radius?"
           },
           "options": [
-            { "hi": "हाँ", "en": "Yes" },
-            { "hi": "नहीं", "en": "No" },
-            { "hi": "हो सकता है", "en": "Maybe" },
-            { "hi": "कह नहीं सकते", "en": "Cannot say" }
+            {"hi": "7 cm", "en": "7 cm"},
+            {"hi": "3.5 cm", "en": "3.5 cm"},
+            {"hi": "14 cm", "en": "14 cm"},
+            {"hi": "21 cm", "en": "21 cm"}
           ],
-          "answer": { "hi": "नहीं", "en": "No" }
+          "answer": {"hi": "3.5 cm", "en": "3.5 cm"}
         },
         {
           "q": {
-            "hi": "एक आलेख में दोनों अक्ष एक-दूसरे के प्रति कैसे होते हैं?",
-            "en": "How are both the axes in a graph relative to each other?"
+            "hi": "किस ठोस आकृति में वक्र पृष्ठ नहीं होता?",
+            "en": "Which solid figure does not have a curved surface?"
           },
           "options": [
-            { "hi": "समांतर", "en": "Parallel" },
-            { "hi": "लंबवत (Perpendicular)", "en": "Perpendicular" },
-            { "hi": "एक ही रेखा पर", "en": "On the same line" },
-            { "hi": "अलग-अलग समतल में", "en": "In different planes" }
+            {"hi": "बेलन", "en": "Cylinder"},
+            {"hi": "शंकु", "en": "Cone"},
+            {"hi": "घनाभ", "en": "Cuboid"},
+            {"hi": "गोला", "en": "Sphere"}
           ],
-          "answer": { "hi": "लंबवत (Perpendicular)", "en": "Perpendicular" }
+          "answer": {"hi": "घनाभ", "en": "Cuboid"}
         }
       ]
     }
