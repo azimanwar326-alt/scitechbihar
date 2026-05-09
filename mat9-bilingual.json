@@ -8605,6 +8605,668 @@
           "answer": {"hi": "घनाभ", "en": "Cuboid"}
         }
       ]
+    },
+    "chapter14": {
+      "section1": [
+        {
+          "q": {
+            "hi": "एक निश्चित उद्देश्य से एकत्रित किए गए तथ्यों या अंकों को क्या कहा जाता है?",
+            "en": "What are facts or figures collected with a definite purpose called?"
+          },
+          "options": [
+            {"hi": "सूचना", "en": "Information"},
+            {"hi": "आंकड़े", "en": "Data"},
+            {"hi": "सांख्यिकी", "en": "Statistics"},
+            {"hi": "परिसर", "en": "Range"}
+          ],
+          "answer": {"hi": "आंकड़े", "en": "Data"}
+        },
+        {
+          "q": {
+            "hi": "गणित की वह शाखा जिसमें आंकड़ों के संग्रह, प्रस्तुतिकरण और विश्लेषण का अध्ययन किया जाता है, कहलाती है:",
+            "en": "The branch of mathematics that deals with the collection, presentation, and analysis of data is called:"
+          },
+          "options": [
+            {"hi": "बीजगणित", "en": "Algebra"},
+            {"hi": "ज्यामिति", "en": "Geometry"},
+            {"hi": "सांख्यिकी", "en": "Statistics"},
+            {"hi": "त्रिकोणमिति", "en": "Trigonometry"}
+          ],
+          "answer": {"hi": "सांख्यिकी", "en": "Statistics"}
+        },
+        {
+          "q": {
+            "hi": "वे आंकड़े जो अन्वेषक द्वारा स्वयं एक निश्चित उद्देश्य रखकर एकत्रित किए जाते हैं, कहलाते हैं:",
+            "en": "Data collected by the investigator themselves with a specific objective is called:"
+          },
+          "options": [
+            {"hi": "प्राथमिक आंकड़े", "en": "Primary data"},
+            {"hi": "गौण आंकड़े", "en": "Secondary data"},
+            {"hi": "कच्चे आंकड़े", "en": "Raw data"},
+            {"hi": "अवर्गीकृत आंकड़े", "en": "Ungrouped data"}
+          ],
+          "answer": {"hi": "प्राथमिक आंकड़े", "en": "Primary data"}
+        },
+        {
+          "q": {
+            "hi": "जब आंकड़े किसी अन्य स्रोत (जैसे समाचार पत्र या रिकॉर्ड) से प्राप्त किए जाते हैं, तो उन्हें क्या कहते हैं?",
+            "en": "When data is obtained from another source (like a newspaper or record), what is it called?"
+          },
+          "options": [
+            {"hi": "प्राथमिक आंकड़े", "en": "Primary data"},
+            {"hi": "गौण आंकड़े", "en": "Secondary data"},
+            {"hi": "प्रायोगिक आंकड़े", "en": "Experimental data"},
+            {"hi": "व्यक्तिगत आंकड़े", "en": "Personal data"}
+          ],
+          "answer": {"hi": "गौण आंकड़े", "en": "Secondary data"}
+        },
+        {
+          "q": {
+            "hi": "आंकड़ों के अधिकतम और न्यूनतम मानों के अंतर को क्या कहा जाता है?",
+            "en": "What is the difference between the maximum and minimum values of data called?"
+          },
+          "options": [
+            {"hi": "वर्ग अंतराल", "en": "Class interval"},
+            {"hi": "बारंबारता", "en": "Frequency"},
+            {"hi": "परिसर", "en": "Range"},
+            {"hi": "माध्य", "en": "Mean"}
+          ],
+          "answer": {"hi": "परिसर", "en": "Range"}
+        },
+        {
+          "q": {
+            "hi": "आंकड़ों में किसी विशेष अंक के आने की संख्या को क्या कहते हैं?",
+            "en": "The number of times a particular value occurs in the data is called its:"
+          },
+          "options": [
+            {"hi": "वर्ग चिन्ह", "en": "Class mark"},
+            {"hi": "बारंबारता", "en": "Frequency"},
+            {"hi": "परिसर", "en": "Range"},
+            {"hi": "मिलान चिन्ह", "en": "Tally mark"}
+          ],
+          "answer": {"hi": "बारंबारता", "en": "Frequency"}
+        },
+        {
+          "q": {
+            "hi": "संख्याओं के समूह को छोटे समूहों (जैसे 0-10, 10-20) में बाँटना क्या कहलाता है?",
+            "en": "Dividing a set of numbers into small groups (like 0-10, 10-20) is called?"
+          },
+          "options": [
+            {"hi": "वर्गीकरण", "en": "Grouping/Classification"},
+            {"hi": "विश्लेषण", "en": "Analysis"},
+            {"hi": "संग्रह", "en": "Collection"},
+            {"hi": "निर्वचन", "en": "Interpretation"}
+          ],
+          "answer": {"hi": "वर्गीकरण", "en": "Grouping/Classification"}
+        },
+        {
+          "q": {
+            "hi": "वर्ग अंतराल '20-30' में '10' क्या है?",
+            "en": "In the class interval '20-30', what is '10'?"
+          },
+          "options": [
+            {"hi": "वर्ग चिन्ह", "en": "Class mark"},
+            {"hi": "वर्ग माप (चौड़ाई)", "en": "Class width/size"},
+            {"hi": "निम्न सीमा", "en": "Lower limit"},
+            {"hi": "ऊपरी सीमा", "en": "Upper limit"}
+          ],
+          "answer": {"hi": "वर्ग माप (चौड़ाई)", "en": "Class width/size"}
+        },
+        {
+          "q": {
+            "hi": "वर्ग अंतराल 10-20 में '10' को क्या कहा जाता है?",
+            "en": "What is '10' called in the class interval 10-20?"
+          },
+          "options": [
+            {"hi": "ऊपरी वर्ग सीमा", "en": "Upper class limit"},
+            {"hi": "निम्न वर्ग सीमा", "en": "Lower class limit"},
+            {"hi": "वर्ग अंतराल", "en": "Class interval"},
+            {"hi": "बारंबारता", "en": "Frequency"}
+          ],
+          "answer": {"hi": "निम्न वर्ग सीमा", "en": "Lower class limit"}
+        },
+        {
+          "q": {
+            "hi": "किसी वर्ग अंतराल का मध्य-बिंदु क्या कहलाता है?",
+            "en": "What is the midpoint of a class interval called?"
+          },
+          "options": [
+            {"hi": "वर्ग माप", "en": "Class size"},
+            {"hi": "वर्ग सीमा", "en": "Class limit"},
+            {"hi": "वर्ग चिन्ह", "en": "Class mark"},
+            {"hi": "परिसर", "en": "Range"}
+          ],
+          "answer": {"hi": "वर्ग चिन्ह", "en": "Class mark"}
+        }
+      ],
+      "section2": [
+        {
+          "q": {
+            "hi": "आंकड़ों को दंडों (Bars) के माध्यम से प्रदर्शित करना क्या कहलाता है?",
+            "en": "Representing data through bars is called?"
+          },
+          "options": [
+            {"hi": "आयतचित्र", "en": "Histogram"},
+            {"hi": "दंड आलेख", "en": "Bar graph"},
+            {"hi": "बारंबारता बहुभुज", "en": "Frequency polygon"},
+            {"hi": "वृत्त आलेख", "en": "Pie chart"}
+          ],
+          "answer": {"hi": "दंड आलेख", "en": "Bar graph"}
+        },
+        {
+          "q": {
+            "hi": "आयतचित्र (Histogram) में दंडों के बीच की दूरी कितनी होती है?",
+            "en": "What is the gap between bars in a Histogram?"
+          },
+          "options": [
+            {"hi": "समान दूरी", "en": "Equal gap"},
+            {"hi": "कोई रिक्त स्थान नहीं", "en": "No gap/space"},
+            {"hi": "अनिश्चित दूरी", "en": "Variable gap"},
+            {"hi": "10 इकाई", "en": "10 units"}
+          ],
+          "answer": {"hi": "कोई रिक्त स्थान नहीं", "en": "No gap/space"}
+        },
+        {
+          "q": {
+            "hi": "सतत वर्ग अंतरालों के लिए कौन सा आलेख अधिक उपयुक्त है?",
+            "en": "Which graph is more suitable for continuous class intervals?"
+          },
+          "options": [
+            {"hi": "दंड आलेख", "en": "Bar graph"},
+            {"hi": "आयतचित्र", "en": "Histogram"},
+            {"hi": "तालिका", "en": "Table"},
+            {"hi": "रेखा चित्र", "en": "Line graph"}
+          ],
+          "answer": {"hi": "आयतचित्र", "en": "Histogram"}
+        },
+        {
+          "q": {
+            "hi": "बारंबारता बहुभुज बनाने के लिए आयतचित्र के दंडों के ______ को मिलाया जाता है।",
+            "en": "To make a frequency polygon, the ______ of the histogram bars are joined."
+          },
+          "options": [
+            {"hi": "निचले सिरों", "en": "Lower ends"},
+            {"hi": "ऊपरी मध्य-बिंदुओं", "en": "Upper mid-points"},
+            {"hi": "कोनों", "en": "Corners"},
+            {"hi": "आधारों", "en": "Bases"}
+          ],
+          "answer": {"hi": "ऊपरी मध्य-बिंदुओं", "en": "Upper mid-points"}
+        },
+        {
+          "q": {
+            "hi": "दंड आलेख में दंडों की चौड़ाई कैसी होनी चाहिए?",
+            "en": "What should be the width of bars in a bar graph?"
+          },
+          "options": [
+            {"hi": "अलग-अलग", "en": "Different"},
+            {"hi": "समान", "en": "Uniform/Same"},
+            {"hi": "बढ़ती हुई", "en": "Increasing"},
+            {"hi": "शून्य", "en": "Zero"}
+          ],
+          "answer": {"hi": "समान", "en": "Uniform/Same"}
+        },
+        {
+          "q": {
+            "hi": "आयतचित्र में दंडों की ऊँचाई किसके समानुपाती होती है?",
+            "en": "In a histogram, the height of the bars is proportional to?"
+          },
+          "options": [
+            {"hi": "वर्ग चिन्ह", "en": "Class mark"},
+            {"hi": "बारंबारता", "en": "Frequency"},
+            {"hi": "वर्ग अंतराल", "en": "Class interval"},
+            {"hi": "परिसर", "en": "Range"}
+          ],
+          "answer": {"hi": "बारंबारता", "en": "Frequency"}
+        },
+        {
+          "q": {
+            "hi": "यदि वर्ग अंतरालों की चौड़ाई अलग-अलग हो, तो आयतचित्र में दंडों की ______ को समायोजित किया जाता है।",
+            "en": "If class intervals have different widths, then the ______ of histogram bars is adjusted."
+          },
+          "options": [
+            {"hi": "चौड़ाई", "en": "Width"},
+            {"hi": "लंबाई (ऊँचाई)", "en": "Length (Height)"},
+            {"hi": "रंग", "en": "Color"},
+            {"hi": "स्थिति", "en": "Position"}
+          ],
+          "answer": {"hi": "लंबाई (ऊँचाई)", "en": "Length (Height)"}
+        },
+        {
+          "q": {
+            "hi": "बारंबारता बहुभुज आंकड़ों के ______ को दर्शाने का एक अन्य तरीका है।",
+            "en": "Frequency polygon is another way of showing the ______ of data."
+          },
+          "options": [
+            {"hi": "माध्य", "en": "Mean"},
+            {"hi": "सतत वितरण", "en": "Continuous distribution"},
+            {"hi": "परिसर", "en": "Range"},
+            {"hi": "संग्रह", "en": "Collection"}
+          ],
+          "answer": {"hi": "सतत वितरण", "en": "Continuous distribution"}
+        },
+        {
+          "q": {
+            "hi": "दंड आलेख में आंकड़ों को किस अक्ष पर दर्शाया जाता है?",
+            "en": "On which axis are the values/frequencies usually represented in a bar graph?"
+          },
+          "options": [
+            {"hi": "केवल X-अक्ष", "en": "Only X-axis"},
+            {"hi": "केवल Y-अक्ष", "en": "Only Y-axis"},
+            {"hi": "दोनों में से किसी पर भी", "en": "Either of the two"},
+            {"hi": "मूल बिंदु पर", "en": "At origin"}
+          ],
+          "answer": {"hi": "दोनों में से किसी पर भी", "en": "Either of the two"}
+        },
+        {
+          "q": {
+            "hi": "एक आयतचित्र में, प्रत्येक आयत का क्षेत्रफल उसकी ______ के समानुपाती होता है।",
+            "en": "In a histogram, the area of each rectangle is proportional to its ______."
+          },
+          "options": [
+            {"hi": "वर्ग सीमा", "en": "Class limit"},
+            {"hi": "बारंबारता", "en": "Frequency"},
+            {"hi": "वर्ग चिन्ह", "en": "Class mark"},
+            {"hi": "संचयी बारंबारता", "en": "Cumulative frequency"}
+          ],
+          "answer": {"hi": "बारंबारता", "en": "Frequency"}
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "सभी प्रेक्षणों के योग को प्रेक्षणों की कुल संख्या से भाग देने पर क्या प्राप्त होता है?",
+            "en": "What is obtained by dividing the sum of all observations by the total number of observations?"
+          },
+          "options": [
+            {"hi": "माध्यक", "en": "Median"},
+            {"hi": "बहुलक", "en": "Mode"},
+            {"hi": "माध्य", "en": "Mean"},
+            {"hi": "परिसर", "en": "Range"}
+          ],
+          "answer": {"hi": "माध्य", "en": "Mean"}
+        },
+        {
+          "q": {
+            "hi": "आंकड़ों को आरोही या अवरोही क्रम में रखने पर मध्य का मान क्या कहलाता है?",
+            "en": "The middle value when data is arranged in ascending or descending order is called?"
+          },
+          "options": [
+            {"hi": "माध्य", "en": "Mean"},
+            {"hi": "माध्यक", "en": "Median"},
+            {"hi": "बहुलक", "en": "Mode"},
+            {"hi": "औसत", "en": "Average"}
+          ],
+          "answer": {"hi": "माध्यक", "en": "Median"}
+        },
+        {
+          "q": {
+            "hi": "आंकड़ों में सबसे अधिक बार आने वाला मान क्या कहलाता है?",
+            "en": "The value that occurs most frequently in the data is called?"
+          },
+          "options": [
+            {"hi": "माध्य", "en": "Mean"},
+            {"hi": "माध्यक", "en": "Median"},
+            {"hi": "बहुलक", "en": "Mode"},
+            {"hi": "वर्ग चिन्ह", "en": "Class mark"}
+          ],
+          "answer": {"hi": "बहुलक", "en": "Mode"}
+        },
+        {
+          "q": {
+            "hi": "माध्य, माध्यक और बहुलक को सामूहिक रूप से क्या कहा जाता है?",
+            "en": "What are Mean, Median, and Mode collectively called?"
+          },
+          "options": [
+            {"hi": "प्रसार के माप", "en": "Measures of dispersion"},
+            {"hi": "केन्द्रीय प्रवृत्ति के माप", "en": "Measures of central tendency"},
+            {"hi": "सांख्यिकीय विश्लेषण", "en": "Statistical analysis"},
+            {"hi": "आंकड़ा प्रबंधन", "en": "Data management"}
+          ],
+          "answer": {"hi": "केन्द्रीय प्रवृत्ति के माप", "en": "Measures of central tendency"}
+        },
+        {
+          "q": {
+            "hi": "यदि प्रेक्षणों की संख्या 'n' विषम (Odd) हो, तो माध्यक कौन सा पद होगा?",
+            "en": "If the number of observations 'n' is odd, which term is the median?"
+          },
+          "options": [
+            {"hi": "n/2 वाँ पद", "en": "n/2 th term"},
+            {"hi": "(n+1)/2 वाँ पद", "en": "(n+1)/2 th term"},
+            {"hi": "n वाँ पद", "en": "n th term"},
+            {"hi": "(n-1)/2 वाँ पद", "en": "(n-1)/2 th term"}
+          ],
+          "answer": {"hi": "(n+1)/2 वाँ पद", "en": "(n+1)/2 th term"}
+        },
+        {
+          "q": {
+            "hi": "यदि प्रेक्षणों की संख्या 'n' सम (Even) हो, तो माध्यक किन दो पदों का औसत होता है?",
+            "en": "If the number of observations 'n' is even, median is the average of which two terms?"
+          },
+          "options": [
+            {"hi": "n और n+1", "en": "n and n+1"},
+            {"hi": "n/2 और (n/2 + 1)", "en": "n/2 and (n/2 + 1)"},
+            {"hi": "n/2 और n/4", "en": "n/2 and n/4"},
+            {"hi": "1 और n", "en": "1 and n"}
+          ],
+          "answer": {"hi": "n/2 और (n/2 + 1)", "en": "n/2 and (n/2 + 1)"}
+        },
+        {
+          "q": {
+            "hi": "माध्य को गणितीय रूप से किस प्रतीक द्वारा दर्शाया जाता है?",
+            "en": "By which symbol is the Mean mathematically represented?"
+          },
+          "options": [
+            {"hi": "M", "en": "M"},
+            {"hi": "$\\bar{x}$", "en": "$\\bar{x}$"},
+            {"hi": "$\\Sigma$", "en": "$\\Sigma$"},
+            {"hi": "f", "en": "f"}
+          ],
+          "answer": {"hi": "$\bar{x}$", "en": "$\\bar{x}$"}
+        },
+        {
+          "q": {
+            "hi": "संख्याओं 2, 4, 6, 8, 10 का माध्य क्या है?",
+            "en": "What is the mean of numbers 2, 4, 6, 8, 10?"
+          },
+          "options": [
+            {"hi": "5", "en": "5"},
+            {"hi": "6", "en": "6"},
+            {"hi": "4", "en": "4"},
+            {"hi": "8", "en": "8"}
+          ],
+          "answer": {"hi": "6", "en": "6"}
+        },
+        {
+          "q": {
+            "hi": "आंकड़ों 1, 2, 2, 3, 4 में बहुलक क्या है?",
+            "en": "What is the mode in data 1, 2, 2, 3, 4?"
+          },
+          "options": [
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "3", "en": "3"},
+            {"hi": "4", "en": "4"}
+          ],
+          "answer": {"hi": "2", "en": "2"}
+        },
+        {
+          "q": {
+            "hi": "आंकड़ों 5, 10, 15, 20, 25 का माध्यक क्या है?",
+            "en": "What is the median of data 5, 10, 15, 20, 25?"
+          },
+          "options": [
+            {"hi": "10", "en": "10"},
+            {"hi": "15", "en": "15"},
+            {"hi": "20", "en": "20"},
+            {"hi": "25", "en": "25"}
+          ],
+          "answer": {"hi": "15", "en": "15"}
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "अवर्गीकृत बारंबारता बंटन में माध्य निकालने का सूत्र $\bar{x} = \frac{\\Sigma f_i x_i}{\\Sigma f_i}$ है। यहाँ $\\Sigma f_i$ क्या है?",
+            "en": "In ungrouped frequency distribution, mean is $\bar{x} = \frac{\\Sigma f_i x_i}{\\Sigma f_i}$. What is $\\Sigma f_i$?"
+          },
+          "options": [
+            {"hi": "कुल पदों का योग", "en": "Sum of all values"},
+            {"hi": "कुल बारंबारता (पदों की संख्या)", "en": "Total frequency (number of terms)"},
+            {"hi": "सबसे बड़ा पद", "en": "Highest value"},
+            {"hi": "वर्ग चिन्ह", "en": "Class mark"}
+          ],
+          "answer": {"hi": "कुल बारंबारता (पदों की संख्या)", "en": "Total frequency (number of terms)"}
+        },
+        {
+          "q": {
+            "hi": "यदि माध्य = 10 और कुल पदों की संख्या = 5 है, तो पदों का योग क्या होगा?",
+            "en": "If mean = 10 and number of terms = 5, what will be the sum of terms?"
+          },
+          "options": [
+            {"hi": "15", "en": "15"},
+            {"hi": "2", "en": "2"},
+            {"hi": "50", "en": "50"},
+            {"hi": "25", "en": "25"}
+          ],
+          "answer": {"hi": "50", "en": "50"}
+        },
+        {
+          "q": {
+            "hi": "वर्ग अंतराल 150-160 का वर्ग चिन्ह (Class Mark) क्या है?",
+            "en": "What is the class mark of the interval 150-160?"
+          },
+          "options": [
+            {"hi": "150", "en": "150"},
+            {"hi": "160", "en": "160"},
+            {"hi": "155", "en": "155"},
+            {"hi": "10", "en": "10"}
+          ],
+          "answer": {"hi": "155", "en": "155"}
+        },
+        {
+          "q": {
+            "hi": "मिलान चिन्ह (Tally Marks) में '5' को कैसे दर्शाया जाता है?",
+            "en": "How is '5' represented in tally marks?"
+          },
+          "options": [
+            {"hi": "|||||", "en": "|||||"},
+            {"hi": "V", "en": "V"},
+            {"hi": "चार खड़ी रेखाएं और एक तिरछी रेखा (<s>||||</s>)", "en": "Four vertical lines and one slanting line (<s>||||</s>)"},
+            {"hi": "X", "en": "X"}
+          ],
+          "answer": {"hi": "चार खड़ी रेखाएं और एक तिरछी रेखा (<s>||||</s>)", "en": "Four vertical lines and one slanting line (<s>||||</s>)"}
+        },
+        {
+          "q": {
+            "hi": "आंकड़ों 7, 9, 7, 5, 6, 9, 1, 9 का बहुलक क्या है?",
+            "en": "What is the mode of data 7, 9, 7, 5, 6, 9, 1, 9?"
+          },
+          "options": [
+            {"hi": "7", "en": "7"},
+            {"hi": "9", "en": "9"},
+            {"hi": "5", "en": "5"},
+            {"hi": "6", "en": "6"}
+          ],
+          "answer": {"hi": "9", "en": "9"}
+        },
+        {
+          "q": {
+            "hi": "यदि प्रत्येक प्रेक्षण में 5 जोड़ दिया जाए, तो माध्य पर क्या प्रभाव पड़ेगा?",
+            "en": "If 5 is added to each observation, what is the effect on the mean?"
+          },
+          "options": [
+            {"hi": "कोई प्रभाव नहीं", "en": "No effect"},
+            {"hi": "माध्य 5 कम हो जाएगा", "en": "Mean decreases by 5"},
+            {"hi": "माध्य 5 बढ़ जाएगा", "en": "Mean increases by 5"},
+            {"hi": "माध्य 5 गुना हो जाएगा", "en": "Mean becomes 5 times"}
+          ],
+          "answer": {"hi": "माध्य 5 बढ़ जाएगा", "en": "Mean increases by 5"}
+        },
+        {
+          "q": {
+            "hi": "प्रथम पाँच प्राकृत संख्याओं का माध्य क्या है?",
+            "en": "What is the mean of the first five natural numbers?"
+          },
+          "options": [
+            {"hi": "2", "en": "2"},
+            {"hi": "3", "en": "3"},
+            {"hi": "4", "en": "4"},
+            {"hi": "5", "en": "5"}
+          ],
+          "answer": {"hi": "3", "en": "3"}
+        },
+        {
+          "q": {
+            "hi": "सांख्यिकी शब्द की व्युत्पत्ति किस लैटिन शब्द से हुई मानी जाती है?",
+            "en": "From which Latin word is 'Statistics' believed to be derived?"
+          },
+          "options": [
+            {"hi": "Data", "en": "Data"},
+            {"hi": "Status", "en": "Status"},
+            {"hi": "Datum", "en": "Datum"},
+            {"hi": "Stat", "en": "Stat"}
+          ],
+          "answer": {"hi": "Status", "en": "Status"}
+        },
+        {
+          "q": {
+            "hi": "आंकड़ों के विश्लेषण के बाद जो निष्कर्ष निकाला जाता है, उसे क्या कहते हैं?",
+            "en": "What is the conclusion drawn after analyzing the data called?"
+          },
+          "options": [
+            {"hi": "संग्रह", "en": "Collection"},
+            {"hi": "निर्वचन (Interpretation)", "en": "Interpretation"},
+            {"hi": "प्रस्तुतिकरण", "en": "Presentation"},
+            {"hi": "मापन", "en": "Measurement"}
+          ],
+          "answer": {"hi": "निर्वचन (Interpretation)", "en": "Interpretation"}
+        },
+        {
+          "q": {
+            "hi": "प्रथम पाँच अभाज्य (Prime) संख्याओं का माध्यक क्या है?",
+            "en": "What is the median of the first five prime numbers?"
+          },
+          "options": [
+            {"hi": "3", "en": "3"},
+            {"hi": "5", "en": "5"},
+            {"hi": "7", "en": "7"},
+            {"hi": "11", "en": "11"}
+          ],
+          "answer": {"hi": "5", "en": "5"}
+        }
+      ],
+      "section5": [
+        {
+          "q": {
+            "hi": "एक बारंबारता बंटन में '10-20' के बाद अगला वर्ग '20-30' है। यह किस प्रकार का वितरण है?",
+            "en": "In a frequency distribution, 20-30 follows 10-20. What type of distribution is this?"
+          },
+          "options": [
+            {"hi": "असतत (Discontinuous)", "en": "Discontinuous"},
+            {"hi": "सतत (Continuous)", "en": "Continuous"},
+            {"hi": "अवर्गीकृत", "en": "Ungrouped"},
+            {"hi": "प्राथमिक", "en": "Primary"}
+          ],
+          "answer": {"hi": "सतत (Continuous)", "en": "Continuous"}
+        },
+        {
+          "q": {
+            "hi": "आंकड़ों 10, 20, 30, 40, 50 का परिसर क्या है?",
+            "en": "What is the range of data 10, 20, 30, 40, 50?"
+          },
+          "options": [
+            {"hi": "50", "en": "50"},
+            {"hi": "10", "en": "10"},
+            {"hi": "40", "en": "40"},
+            {"hi": "30", "en": "30"}
+          ],
+          "answer": {"hi": "40", "en": "40"}
+        },
+        {
+          "q": {
+            "hi": "आयतचित्र की भुजाएं क्या दर्शाती हैं?",
+            "en": "What do the sides of a histogram represent?"
+          },
+          "options": [
+            {"hi": "केवल बारंबारता", "en": "Only frequency"},
+            {"hi": "वर्ग सीमाएं और बारंबारता", "en": "Class boundaries and frequency"},
+            {"hi": "केवल वर्ग चिन्ह", "en": "Only class marks"},
+            {"hi": "केवल परिसर", "en": "Only range"}
+          ],
+          "answer": {"hi": "वर्ग सीमाएं और बारंबारता", "en": "Class boundaries and frequency"}
+        },
+        {
+          "q": {
+            "hi": "क्या माध्यक आंकड़ों के बाहरी मानों (Extreme values) से प्रभावित होता है?",
+            "en": "Is the median affected by extreme values in the data?"
+          },
+          "options": [
+            {"hi": "हाँ, बहुत अधिक", "en": "Yes, very much"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "केवल माध्य प्रभावित होता है", "en": "Only Mean is affected"},
+            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"}
+          ],
+          "answer": {"hi": "नहीं", "en": "No"}
+        },
+        {
+          "q": {
+            "hi": "केन्द्रीय प्रवृत्ति का वह माप जो सबसे लोकप्रिय है, वह क्या है?",
+            "en": "Which measure of central tendency is the most popular?"
+          },
+          "options": [
+            {"hi": "माध्यक", "en": "Median"},
+            {"hi": "बहुलक", "en": "Mode"},
+            {"hi": "माध्य", "en": "Mean"},
+            {"hi": "परिसर", "en": "Range"}
+          ],
+          "answer": {"hi": "माध्य", "en": "Mean"}
+        },
+        {
+          "q": {
+            "hi": "जब आंकड़ों में कोई मान दोहराया नहीं जाता, तो बहुलक क्या होगा?",
+            "en": "When no value is repeated in the data, what is the mode?"
+          },
+          "options": [
+            {"hi": "0", "en": "0"},
+            {"hi": "1", "en": "1"},
+            {"hi": "कोई बहुलक नहीं", "en": "No mode"},
+            {"hi": "माध्य के बराबर", "en": "Equal to mean"}
+          ],
+          "answer": {"hi": "कोई बहुलक नहीं", "en": "No mode"}
+        },
+        {
+          "q": {
+            "hi": "वर्ग अंतराल 0-10, 10-20 में संख्या '10' को किस वर्ग में गिना जाता है?",
+            "en": "In intervals 0-10, 10-20, where is the number '10' counted?"
+          },
+          "options": [
+            {"hi": "0-10 में", "en": "0-10"},
+            {"hi": "10-20 में", "en": "10-20"},
+            {"hi": "दोनों में", "en": "Both"},
+            {"hi": "किसी में नहीं", "en": "Neither"}
+          ],
+          "answer": {"hi": "10-20 में", "en": "10-20"}
+        },
+        {
+          "q": {
+            "hi": "संचयी बारंबारता (Cumulative Frequency) का उपयोग क्या ज्ञात करने में किया जाता है?",
+            "en": "Cumulative frequency is used to find what?"
+          },
+          "options": [
+            {"hi": "माध्य", "en": "Mean"},
+            {"hi": "माध्यक", "en": "Median"},
+            {"hi": "बहुलक", "en": "Mode"},
+            {"hi": "परिसर", "en": "Range"}
+          ],
+          "answer": {"hi": "माध्यक", "en": "Median"}
+        },
+        {
+          "q": {
+            "hi": "यदि $n=10$ है, तो माध्यक किन पदों का माध्य होगा?",
+            "en": "If $n=10$, median will be the mean of which terms?"
+          },
+          "options": [
+            {"hi": "5वें और 6ठें", "en": "5th and 6th"},
+            {"hi": "4थें और 5वें", "en": "4th and 5th"},
+            {"hi": "10वें और 11वें", "en": "10th and 11th"},
+            {"hi": "केवल 5वें", "en": "Only 5th"}
+          ],
+          "answer": {"hi": "5वें और 6ठें", "en": "5th and 6th"}
+        },
+        {
+          "q": {
+            "hi": "क्या सांख्यिकी का उपयोग केवल राजनैतिक कार्यों के लिए किया जाता है?",
+            "en": "Is statistics used only for political purposes?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं, यह विज्ञान, अर्थशास्त्र आदि में भी उपयोगी है", "en": "No, it is useful in science, economics etc. too"},
+            {"hi": "केवल खेलों में", "en": "Only in sports"},
+            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"}
+          ],
+          "answer": {"hi": "नहीं, यह विज्ञान, अर्थशास्त्र आदि में भी उपयोगी है", "en": "No, it is useful in science, economics etc. too"}
+        }
+      ]
     }
   }
 }
