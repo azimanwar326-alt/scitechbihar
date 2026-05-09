@@ -3976,661 +3976,661 @@
       "section1": [
         {
           "q": {
-            "hi": "अनुपात का अर्थ क्या है?",
-            "en": "What is the meaning of ratio?"
+            "hi": "तीन प्रतिच्छेदी रेखाओं द्वारा बनाई गई एक बंद आकृति क्या कहलाती है?",
+            "en": "What is a closed figure formed by three intersecting lines called?"
           },
           "options": [
-            {"hi": "दो मात्राओं का योग", "en": "Sum of two quantities"},
-            {"hi": "दो मात्राओं की तुलना", "en": "Comparison of two quantities"},
-            {"hi": "मात्राओं का गुणनफल", "en": "Product of quantities"},
-            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+            {"hi": "चतुर्भुज", "en": "Quadrilateral"},
+            {"hi": "त्रिभुज", "en": "Triangle"},
+            {"hi": "वृत्त", "en": "Circle"},
+            {"hi": "बहुभुज", "en": "Polygon"}
           ],
-          "answer": {"hi": "दो मात्राओं की तुलना", "en": "Comparison of two quantities"}
+          "answer": {"hi": "त्रिभुज", "en": "Triangle"}
         },
         {
           "q": {
-            "hi": "एक टोकरी में 5 संतरे और 20 सेब हैं। संतरों का सेबों से अनुपात क्या होगा?",
-            "en": "A basket has 5 oranges and 20 apples. What is the ratio of oranges to apples?"
+            "hi": "एक त्रिभुज में कुल कितनी भुजाएँ और कितने शीर्ष होते हैं?",
+            "en": "How many sides and how many vertices does a triangle have?"
           },
           "options": [
-            {"hi": "1 : 4", "en": "1 : 4"},
-            {"hi": "4 : 1", "en": "4 : 1"},
-            {"hi": "5 : 1", "en": "5 : 1"},
-            {"hi": "1 : 5", "en": "1 : 5"}
+            {"hi": "2 भुजाएँ, 2 शीर्ष", "en": "2 sides, 2 vertices"},
+            {"hi": "3 भुजाएँ, 3 शीर्ष", "en": "3 sides, 3 vertices"},
+            {"hi": "4 भुजाएँ, 4 शीर्ष", "en": "4 sides, 4 vertices"},
+            {"hi": "3 भुजाएँ, 2 शीर्ष", "en": "3 sides, 2 vertices"}
           ],
-          "answer": {"hi": "1 : 4", "en": "1 : 4"}
+          "answer": {"hi": "3 भुजाएँ, 3 शीर्ष", "en": "3 sides, 3 vertices"}
         },
         {
           "q": {
-            "hi": "यदि संतरों की संख्या 5 और कुल फल 25 हैं, तो संतरों का प्रतिशत क्या है?",
-            "en": "If the number of oranges is 5 and total fruits are 25, what is the percentage of oranges?"
+            "hi": "यदि दो आकृतियाँ आकार और माप में समान हों, तो वे क्या कहलाती हैं?",
+            "en": "If two figures are same in shape and size, what are they called?"
           },
           "options": [
-            {"hi": "10%", "en": "10%"},
-            {"hi": "20%", "en": "20%"},
-            {"hi": "25%", "en": "25%"},
-            {"hi": "50%", "en": "50"}
+            {"hi": "समान", "en": "Similar"},
+            {"hi": "सर्वांगसम", "en": "Congruent"},
+            {"hi": "लंबवत", "en": "Perpendicular"},
+            {"hi": "समांतर", "en": "Parallel"}
           ],
-          "answer": {"hi": "20%", "en": "20%"}
+          "answer": {"hi": "सर्वांगसम", "en": "Congruent"}
         },
         {
           "q": {
-            "hi": "अंकित मूल्य पर दी गई छूट क्या कहलाती है?",
-            "en": "What is the reduction given on the marked price called?"
+            "hi": "सर्वांगसमता के लिए किस चिह्न का प्रयोग किया जाता है?",
+            "en": "Which symbol is used for congruence?"
           },
           "options": [
-            {"hi": "लाभ", "en": "Profit"},
-            {"hi": "हानि", "en": "Loss"},
-            {"hi": "बट्टा (छूट)", "en": "Discount"},
-            {"hi": "ब्याज", "en": "Interest"}
+            {"hi": "=", "en": "="},
+            {"hi": "$\\cong$", "en": "$\\cong$"},
+            {"hi": "$\\sim$", "en": "$\\sim$"},
+            {"hi": "$\\parallel$", "en": "$\\parallel$"}
           ],
-          "answer": {"hi": "बट्टा (छूट)", "en": "Discount"}
+          "answer": {"hi": "$\\cong$", "en": "$\\cong$"}
         },
         {
           "q": {
-            "hi": "बट्टा ज्ञात करने का सही सूत्र क्या है?",
-            "en": "What is the correct formula to find Discount?"
+            "hi": "यदि $\\Delta ABC \\cong \\Delta PQR$ है, तो भुजा AB किसके बराबर होगी?",
+            "en": "If $\\Delta ABC \\cong \\Delta PQR$, which side will AB be equal to?"
           },
           "options": [
-            {"hi": "अंकित मूल्य - विक्रय मूल्य", "en": "Marked Price - Selling Price"},
-            {"hi": "क्रय मूल्य - विक्रय मूल्य", "en": "Cost Price - Selling Price"},
-            {"hi": "अंकित मूल्य + विक्रय मूल्य", "en": "Marked Price + Selling Price"},
-            {"hi": "विक्रय मूल्य - अंकित मूल्य", "en": "Selling Price - Marked Price"}
+            {"hi": "QR", "en": "QR"},
+            {"hi": "PR", "en": "PR"},
+            {"hi": "PQ", "en": "PQ"},
+            {"hi": "BC", "en": "BC"}
           ],
-          "answer": {"hi": "अंकित मूल्य - विक्रय मूल्य", "en": "Marked Price - Selling Price"}
+          "answer": {"hi": "PQ", "en": "PQ"}
         },
         {
           "q": {
-            "hi": "वस्तु को खरीदने के बाद उस पर किए गए अतिरिक्त खर्चे क्या कहलाते हैं?",
-            "en": "What are the additional expenses made on an item after buying called?"
+            "hi": "CPCT का पूर्ण रूप क्या है?",
+            "en": "What is the full form of CPCT?"
           },
           "options": [
-            {"hi": "बट्टा", "en": "Discount"},
-            {"hi": "ऊपरी खर्चे (Overhead charges)", "en": "Overhead charges"},
-            {"hi": "बिक्री कर", "en": "Sales Tax"},
-            {"hi": "कमीशन", "en": "Commission"}
+            {"hi": "सर्वांगसम त्रिभुजों के संगत भाग", "en": "Corresponding parts of congruent triangles"},
+            {"hi": "समान त्रिभुजों के सामान्य भाग", "en": "Common parts of congruent triangles"},
+            {"hi": "त्रिभुजों के केंद्र", "en": "Center points of triangles"},
+            {"hi": "त्रिभुजों की परिधि", "en": "Circumference of triangles"}
           ],
-          "answer": {"hi": "ऊपरी खर्चे (Overhead charges)", "en": "Overhead charges"}
+          "answer": {"hi": "सर्वांगसम त्रिभुजों के संगत भाग", "en": "Corresponding parts of congruent triangles"}
         },
         {
           "q": {
-            "hi": "प्रभावी क्रय मूल्य (Effective CP) का सूत्र क्या है?",
-            "en": "What is the formula for effective Cost Price?"
+            "hi": "SAS सर्वांगसमता नियम का अर्थ क्या है?",
+            "en": "What does the SAS congruence rule stand for?"
           },
           "options": [
-            {"hi": "खरीद मूल्य - ऊपरी खर्च", "en": "Buying Price - Overhead expenses"},
-            {"hi": "खरीद मूल्य + ऊपरी खर्च", "en": "Buying Price + Overhead expenses"},
-            {"hi": "विक्रय मूल्य + लाभ", "en": "Selling Price + Profit"},
-            {"hi": "अंकित मूल्य - बट्टा", "en": "Marked Price - Discount"}
+            {"hi": "भुजा-भुजा-भुजा", "en": "Side-Side-Side"},
+            {"hi": "भुजा-कोण-भुजा", "en": "Side-Angle-Side"},
+            {"hi": "कोण-भुजा-कोण", "en": "Angle-Side-Angle"},
+            {"hi": "समकोण-कर्ण-भुजा", "en": "Right-Hypotenuse-Side"}
           ],
-          "answer": {"hi": "खरीद मूल्य + ऊपरी खर्च", "en": "Buying Price + Overhead expenses"}
+          "answer": {"hi": "भुजा-कोण-भुजा", "en": "Side-Angle-Side"}
         },
         {
           "q": {
-            "hi": "बिक्री कर (Sales Tax) किस पर वसूला जाता है?",
-            "en": "On what is Sales Tax charged?"
+            "hi": "क्या SSA (भुजा-भुजा-कोण) एक सर्वांगसमता नियम है?",
+            "en": "Is SSA (Side-Side-Angle) a congruence rule?"
           },
           "options": [
-            {"hi": "अंकित मूल्य", "en": "Marked Price"},
-            {"hi": "क्रय मूल्य", "en": "Cost Price"},
-            {"hi": "विक्रय मूल्य", "en": "Selling Price"},
-            {"hi": "लाभ", "en": "Profit"}
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "केवल समकोण त्रिभुज में", "en": "Only in right triangles"},
+            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"}
           ],
-          "answer": {"hi": "विक्रय मूल्य", "en": "Selling Price"}
+          "answer": {"hi": "नहीं", "en": "No"}
         },
         {
           "q": {
-            "hi": "GST का पूर्ण रूप क्या है?",
-            "en": "What is the full form of GST?"
+            "hi": "यदि एक त्रिभुज के दो कोण और अंतर्गत भुजा दूसरे त्रिभुज के बराबर हों, तो कौन सा नियम लागू होगा?",
+            "en": "If two angles and the included side of one triangle are equal to another, which rule applies?"
           },
           "options": [
-            {"hi": "Goods and Sales Tax", "en": "Goods and Sales Tax"},
-            {"hi": "Goods and Services Tax", "en": "Goods and Services Tax"},
-            {"hi": "Government Sales Tax", "en": "Government Sales Tax"},
-            {"hi": "General Service Tax", "en": "General Service Tax"}
+            {"hi": "SSS", "en": "SSS"},
+            {"hi": "SAS", "en": "SAS"},
+            {"hi": "ASA", "en": "ASA"},
+            {"hi": "RHS", "en": "RHS"}
           ],
-          "answer": {"hi": "Goods and Services Tax", "en": "Goods and Services Tax"}
+          "answer": {"hi": "ASA", "en": "ASA"}
         },
         {
           "q": {
-            "hi": "उधार ली गई राशि पर अतिरिक्त भुगतान किया गया धन क्या कहलाता है?",
-            "en": "What is the extra money paid on the borrowed amount called?"
+            "hi": "AAS सर्वांगसमता नियम किस नियम का एक विस्तार है?",
+            "en": "AAS congruence rule is an extension of which rule?"
           },
           "options": [
-            {"hi": "मूलधन", "en": "Principal"},
-            {"hi": "ब्याज", "en": "Interest"},
-            {"hi": "मिश्रधन", "en": "Amount"},
-            {"hi": "दर", "en": "Rate"}
+            {"hi": "SAS", "en": "SAS"},
+            {"hi": "ASA", "en": "ASA"},
+            {"hi": "SSS", "en": "SSS"},
+            {"hi": "RHS", "en": "RHS"}
           ],
-          "answer": {"hi": "ब्याज", "en": "Interest"}
+          "answer": {"hi": "ASA", "en": "ASA"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "चक्रवृद्धि ब्याज (Compound Interest) की गणना किस पर की जाती है?",
-            "en": "On what is Compound Interest calculated?"
+            "hi": "एक त्रिभुज जिसकी दो भुजाएँ बराबर हों, क्या कहलाता है?",
+            "en": "A triangle with two equal sides is called?"
           },
           "options": [
-            {"hi": "केवल मूलधन पर", "en": "Only on Principal"},
-            {"hi": "पिछले वर्ष के मिश्रधन पर", "en": "On the previous year's Amount"},
-            {"hi": "केवल ब्याज पर", "en": "Only on Interest"},
-            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+            {"hi": "विषमबाहु त्रिभुज", "en": "Scalene triangle"},
+            {"hi": "समबाहु त्रिभुज", "en": "Equilateral triangle"},
+            {"hi": "समद्विबाहु त्रिभुज", "en": "Isosceles triangle"},
+            {"hi": "समकोण त्रिभुज", "en": "Right triangle"}
           ],
-          "answer": {"hi": "पिछले वर्ष के मिश्रधन पर", "en": "On the previous year's Amount"}
+          "answer": {"hi": "समद्विबाहु त्रिभुज", "en": "Isosceles triangle"}
         },
         {
           "q": {
-            "hi": "वार्षिक रूप से संयोजित होने पर चक्रवृद्धि मिश्रधन (A) का सूत्र क्या है?",
-            "en": "What is the formula for Compound Amount (A) when compounded annually?"
+            "hi": "त्रिभुज की बराबर भुजाओं के सम्मुख कोण कैसे होते हैं?",
+            "en": "How are the angles opposite to equal sides of a triangle?"
           },
           "options": [
-            {"hi": "A = P(1 + R/100)ⁿ", "en": "A = P(1 + R/100)ⁿ"},
-            {"hi": "A = P + (P*R*T)/100", "en": "A = P + (P*R*T)/100"},
-            {"hi": "A = P(1 - R/100)ⁿ", "en": "A = P(1 - R/100)ⁿ"},
-            {"hi": "A = P*R*T", "en": "A = P*R*T"}
+            {"hi": "असमान", "en": "Unequal"},
+            {"hi": "पूरक", "en": "Complementary"},
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "90°"}
           ],
-          "answer": {"hi": "A = P(1 + R/100)ⁿ", "en": "A = P(1 + R/100)ⁿ"}
+          "answer": {"hi": "बराबर", "en": "Equal"}
         },
         {
           "q": {
-            "hi": "जब ब्याज अर्धवार्षिक रूप से संयोजित होता है, तो दर (Rate) क्या हो जाती है?",
-            "en": "When interest is compounded half-yearly, what happens to the Rate?"
+            "hi": "यदि एक त्रिभुज के दो कोण बराबर हों, तो उनकी सम्मुख भुजाएँ कैसी होंगी?",
+            "en": "If two angles of a triangle are equal, how will their opposite sides be?"
           },
           "options": [
-            {"hi": "दुगुनी", "en": "Doubled"},
-            {"hi": "आधी", "en": "Half"},
-            {"hi": "वही रहती है", "en": "Remains same"},
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "असमान", "en": "Unequal"},
+            {"hi": "लंबवत", "en": "Perpendicular"},
+            {"hi": "आधी", "en": "Half"}
+          ],
+          "answer": {"hi": "बराबर", "en": "Equal"}
+        },
+        {
+          "q": {
+            "hi": "समबाहु त्रिभुज का प्रत्येक कोण कितने डिग्री का होता है?",
+            "en": "What is the measure of each angle of an equilateral triangle?"
+          },
+          "options": [
+            {"hi": "45°", "en": "45°"},
+            {"hi": "90°", "en": "90°"},
+            {"hi": "60°", "en": "60°"},
+            {"hi": "30°", "en": "30°"}
+          ],
+          "answer": {"hi": "60°", "en": "60°"}
+        },
+        {
+          "q": {
+            "hi": "सर्वांगसमता के SSS नियम का क्या अर्थ है?",
+            "en": "What does the SSS congruence rule mean?"
+          },
+          "options": [
+            {"hi": "तीनों कोण बराबर", "en": "Three angles equal"},
+            {"hi": "तीनों भुजाएँ बराबर", "en": "Three sides equal"},
+            {"hi": "दो भुजाएँ एक कोण", "en": "Two sides one angle"},
+            {"hi": "समकोण-कर्ण-भुजा", "en": "Right-Hypotenuse-Side"}
+          ],
+          "answer": {"hi": "तीनों भुजाएँ बराबर", "en": "Three sides equal"}
+        },
+        {
+          "q": {
+            "hi": "RHS सर्वांगसमता नियम किन त्रिभुजों पर लागू होता है?",
+            "en": "On which triangles is the RHS congruence rule applied?"
+          },
+          "options": [
+            {"hi": "न्यूनकोण त्रिभुज", "en": "Acute triangles"},
+            {"hi": "समकोण त्रिभुज", "en": "Right triangles"},
+            {"hi": "अधिककोण त्रिभुज", "en": "Obtuse triangles"},
+            {"hi": "विषमबाहु त्रिभुज", "en": "Scalene triangles"}
+          ],
+          "answer": {"hi": "समकोण त्रिभुज", "en": "Right triangles"}
+        },
+        {
+          "q": {
+            "hi": "RHS नियम में 'H' का क्या अर्थ है?",
+            "en": "What does 'H' stand for in RHS rule?"
+          },
+          "options": [
+            {"hi": "Height (ऊंचाई)", "en": "Height"},
+            {"hi": "Hypotenuse (कर्ण)", "en": "Hypotenuse"},
+            {"hi": "Horizontal (क्षैतिज)", "en": "Horizontal"},
+            {"hi": "Half (आधा)", "en": "Half"}
+          ],
+          "answer": {"hi": "Hypotenuse (कर्ण)", "en": "Hypotenuse"}
+        },
+        {
+          "q": {
+            "hi": "एक त्रिभुज में लंबी भुजा के सम्मुख कोण कैसा होता है?",
+            "en": "What is the angle opposite to the longer side in a triangle?"
+          },
+          "options": [
+            {"hi": "छोटा", "en": "Smaller"},
+            {"hi": "बड़ा", "en": "Larger"},
+            {"hi": "न्यून कोण", "en": "Acute angle"},
             {"hi": "शून्य", "en": "Zero"}
           ],
-          "answer": {"hi": "आधी", "en": "Half"}
+          "answer": {"hi": "बड़ा", "en": "Larger"}
         },
         {
           "q": {
-            "hi": "जब ब्याज अर्धवार्षिक संयोजित होता है, तो समय (Time) क्या हो जाता है?",
-            "en": "When interest is compounded half-yearly, what happens to the Time?"
+            "hi": "त्रिभुज की किन्हीं दो भुजाओं का योग तीसरी भुजा से क्या होता है?",
+            "en": "The sum of any two sides of a triangle is how much compared to the third side?"
           },
           "options": [
-            {"hi": "दुगुना (छमाही की संख्या)", "en": "Doubled (Number of half-years)"},
-            {"hi": "आधा", "en": "Half"},
-            {"hi": "तीन गुना", "en": "Triple"},
-            {"hi": "वही रहता है", "en": "Remains same"}
+            {"hi": "कम", "en": "Less"},
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "बड़ा (अधिक)", "en": "Greater"},
+            {"hi": "आधा", "en": "Half"}
           ],
-          "answer": {"hi": "दुगुना (छमाही की संख्या)", "en": "Doubled (Number of half-years)"}
+          "answer": {"hi": "बड़ा (अधिक)", "en": "Greater"}
         },
         {
           "q": {
-            "hi": "किसी वस्तु के मूल्य में समय के साथ होने वाली कमी को क्या कहते हैं?",
-            "en": "What is the decrease in the value of an item over time called?"
+            "hi": "किसी त्रिभुज में सबसे बड़े कोण की सम्मुख भुजा कैसी होती है?",
+            "en": "How is the side opposite to the largest angle in a triangle?"
           },
           "options": [
-            {"hi": "वृद्धि", "en": "Appreciation"},
-            {"hi": "अवमूल्यन (Depreciation)", "en": "Depreciation"},
-            {"hi": "बट्टा", "en": "Discount"},
-            {"hi": "मिश्रधन", "en": "Amount"}
+            {"hi": "सबसे छोटी", "en": "Shortest"},
+            {"hi": "सबसे लंबी (बड़ी)", "en": "Longest"},
+            {"hi": "माध्यिका", "en": "Median"},
+            {"hi": "लंब", "en": "Perpendicular"}
           ],
-          "answer": {"hi": "अवमूल्यन (Depreciation)", "en": "Depreciation"}
-        },
-        {
-          "q": {
-            "hi": "साधारण ब्याज (SI) का सूत्र क्या है?",
-            "en": "What is the formula for Simple Interest (SI)?"
-          },
-          "options": [
-            {"hi": "(P × R × T) / 100", "en": "(P × R × T) / 100"},
-            {"hi": "P + R + T", "en": "P + R + T"},
-            {"hi": "P(1 + R/100)", "en": "P(1 + R/100)"},
-            {"hi": "A - P", "en": "A - P"}
-          ],
-          "answer": {"hi": "(P × R × T) / 100", "en": "(P × R × T) / 100"}
-        },
-        {
-          "q": {
-            "hi": "80% को भिन्न (fraction) में कैसे लिखेंगे?",
-            "en": "How to write 80% as a fraction?"
-          },
-          "options": [
-            {"hi": "8/10 या 4/5", "en": "8/10 or 4/5"},
-            {"hi": "1/4", "en": "1/4"},
-            {"hi": "1/8", "en": "1/8"},
-            {"hi": "8/100", "en": "8/100"}
-          ],
-          "answer": {"hi": "8/10 या 4/5", "en": "8/10 or 4/5"}
-        },
-        {
-          "q": {
-            "hi": "मिश्रधन (Amount) और मूलधन (Principal) का अंतर क्या दर्शाता है?",
-            "en": "What does the difference between Amount and Principal represent?"
-          },
-          "options": [
-            {"hi": "दर", "en": "Rate"},
-            {"hi": "समय", "en": "Time"},
-            {"hi": "ब्याज", "en": "Interest"},
-            {"hi": "बट्टा", "en": "Discount"}
-          ],
-          "answer": {"hi": "ब्याज", "en": "Interest"}
-        },
-        {
-          "q": {
-            "hi": "एक स्कूटर ₹ 42,000 में खरीदा गया। 8% वार्षिक दर से अवमूल्यन होने पर 1 वर्ष बाद मूल्य क्या होगा?",
-            "en": "A scooter was bought for ₹ 42,000. If it depreciates at 8% per annum, what is its value after 1 year?"
-          },
-          "options": [
-            {"hi": "₹ 38,640", "en": "₹ 38,640"},
-            {"hi": "₹ 45,360", "en": "₹ 45,360"},
-            {"hi": "₹ 40,000", "en": "₹ 40,000"},
-            {"hi": "₹ 35,000", "en": "₹ 35,000"}
-          ],
-          "answer": {"hi": "₹ 38,640", "en": "₹ 38,640"}
-        },
-        {
-          "q": {
-            "hi": "₹ 1000 पर 10% वार्षिक दर से 1 वर्ष का साधारण ब्याज क्या होगा?",
-            "en": "What is the simple interest on ₹ 1000 at 10% p.a. for 1 year?"
-          },
-          "options": [
-            {"hi": "₹ 10", "en": "₹ 10"},
-            {"hi": "₹ 100", "en": "₹ 100"},
-            {"hi": "₹ 110", "en": "₹ 110"},
-            {"hi": "₹ 50", "en": "₹ 50"}
-          ],
-          "answer": {"hi": "₹ 100", "en": "₹ 100"}
+          "answer": {"hi": "सबसे लंबी (बड़ी)", "en": "Longest"}
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "एक वस्तु का अंकित मूल्य ₹ 840 है और विक्रय मूल्य ₹ 714 है। बट्टा कितना है?",
-            "en": "The marked price of an item is ₹ 840 and the selling price is ₹ 714. What is the discount?"
+            "hi": "यदि $\\Delta ABC$ में $AB = AC$ है, तो कौन सा कोण बराबर होगा?",
+            "en": "If in $\\Delta ABC$, $AB = AC$, which angle will be equal?"
           },
           "options": [
-            {"hi": "₹ 126", "en": "₹ 126"},
-            {"hi": "₹ 140", "en": "₹ 140"},
-            {"hi": "₹ 100", "en": "₹ 100"},
-            {"hi": "₹ 114", "en": "₹ 114"}
+            {"hi": "$\\angle A = \\angle B$", "en": "$\\angle A = \\angle B$"},
+            {"hi": "$\\angle B = \\angle C$", "en": "$\\angle B = \\angle C$"},
+            {"hi": "$\\angle A = \\angle C$", "en": "$\\angle A = \\angle C$"},
+            {"hi": "सभी बराबर", "en": "All equal"}
           ],
-          "answer": {"hi": "₹ 126", "en": "₹ 126"}
+          "answer": {"hi": "$\\angle B = \\angle C$", "en": "$\\angle B = \\angle C$"}
         },
         {
           "q": {
-            "hi": "₹ 126 के बट्टे पर बट्टा प्रतिशत क्या होगा यदि अंकित मूल्य ₹ 840 है?",
-            "en": "What is the discount percentage for ₹ 126 discount if the marked price is ₹ 840?"
+            "hi": "समकोण त्रिभुज में सबसे लंबी भुजा कौन सी होती है?",
+            "en": "Which is the longest side in a right-angled triangle?"
           },
           "options": [
-            {"hi": "10%", "en": "10%"},
-            {"hi": "15%", "en": "15%"},
-            {"hi": "20%", "en": "20%"},
-            {"hi": "12.6%", "en": "12.6%"}
+            {"hi": "लंब", "en": "Perpendicular"},
+            {"hi": "आधार", "en": "Base"},
+            {"hi": "कर्ण", "en": "Hypotenuse"},
+            {"hi": "माध्यिका", "en": "Median"}
           ],
-          "answer": {"hi": "15%", "en": "15%"}
+          "answer": {"hi": "कर्ण", "en": "Hypotenuse"}
         },
         {
           "q": {
-            "hi": "एक मेज ₹ 450 में खरीदी गई और ₹ 50 ऊपरी खर्च किए गए। यदि इसे ₹ 600 में बेचा जाए, तो लाभ प्रतिशत क्या है?",
-            "en": "A table was bought for ₹ 450 and ₹ 50 spent on overheads. If it is sold for ₹ 600, what is the profit percentage?"
+            "hi": "एक त्रिभुज जिसकी तीनों भुजाएँ असमान हों, क्या कहलाता है?",
+            "en": "A triangle with all three sides unequal is called?"
           },
           "options": [
-            {"hi": "10%", "en": "10%"},
-            {"hi": "20%", "en": "20%"},
-            {"hi": "25%", "en": "25%"},
-            {"hi": "15%", "en": "15%"}
+            {"hi": "समबाहु", "en": "Equilateral"},
+            {"hi": "समद्विबाहु", "en": "Isosceles"},
+            {"hi": "विषमबाहु", "en": "Scalene"},
+            {"hi": "समकोण", "en": "Right-angled"}
           ],
-          "answer": {"hi": "20%", "en": "20%"}
+          "answer": {"hi": "विषमबाहु", "en": "Scalene"}
         },
         {
           "q": {
-            "hi": "यदि विक्रय मूल्य > क्रय मूल्य, तो क्या होता है?",
-            "en": "If Selling Price > Cost Price, then what occurs?"
+            "hi": "सर्वांगसमता का अर्थ 'सर्व-अंग-समान' है। क्या यह सत्य है?",
+            "en": "Congruence means 'all parts equal'. Is this true?"
           },
           "options": [
-            {"hi": "हानि", "en": "Loss"},
-            {"hi": "लाभ", "en": "Profit"},
-            {"hi": "बट्टा", "en": "Discount"},
-            {"hi": "कोई परिवर्तन नहीं", "en": "No change"}
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "केवल भुजाओं के लिए", "en": "Only for sides"},
+            {"hi": "केवल कोणों के लिए", "en": "Only for angles"}
           ],
-          "answer": {"hi": "लाभ", "en": "Profit"}
+          "answer": {"hi": "हाँ", "en": "Yes"}
         },
         {
           "q": {
-            "hi": "हानि प्रतिशत का सूत्र क्या है?",
-            "en": "What is the formula for Loss percentage?"
+            "hi": "एक त्रिभुज के शीर्ष को सम्मुख भुजा के मध्य-बिंदु से जोड़ने वाली रेखा क्या कहलाती है?",
+            "en": "What is the line joining the vertex of a triangle to the midpoint of the opposite side called?"
           },
           "options": [
-            {"hi": "(हानि / क्रय मूल्य) × 100", "en": "(Loss / CP) × 100"},
-            {"hi": "(हानि / विक्रय मूल्य) × 100", "en": "(Loss / SP) × 100"},
-            {"hi": "(लाभ / क्रय मूल्य) × 100", "en": "(Profit / CP) × 100"},
-            {"hi": "हानि × 100", "en": "Loss × 100"}
+            {"hi": "शीर्षलंब", "en": "Altitude"},
+            {"hi": "माध्यिका", "en": "Median"},
+            {"hi": "कोण समद्विभाजक", "en": "Angle bisector"},
+            {"hi": "लंब", "en": "Perpendicular"}
           ],
-          "answer": {"hi": "(हानि / क्रय मूल्य) × 100", "en": "(Loss / CP) × 100"}
+          "answer": {"hi": "माध्यिका", "en": "Median"}
         },
         {
           "q": {
-            "hi": "मिश्रधन (A) = मूलधन (P) + ?",
-            "en": "Amount (A) = Principal (P) + ?"
+            "hi": "त्रिभुज के तीनों कोणों का योग कितना होता है?",
+            "en": "What is the sum of the three angles of a triangle?"
           },
           "options": [
-            {"hi": "ब्याज (I)", "en": "Interest (I)"},
-            {"hi": "दर (R)", "en": "Rate (R)"},
-            {"hi": "समय (T)", "en": "Time (T)"},
-            {"hi": "बट्टा", "en": "Discount"}
+            {"hi": "90°", "en": "90°"},
+            {"hi": "180°", "en": "180°"},
+            {"hi": "360°", "en": "360°"},
+            {"hi": "270°", "en": "270°"}
           ],
-          "answer": {"hi": "ब्याज (I)", "en": "Interest (I)"}
+          "answer": {"hi": "180°", "en": "180°"}
         },
         {
           "q": {
-            "hi": "अनुपात 1 : 4 का प्रतिशत रूप क्या है?",
-            "en": "What is the percentage form of the ratio 1 : 4?"
+            "hi": "समद्विबाहु त्रिभुज में बराबर भुजाओं के बीच का कोण क्या कहलाता है?",
+            "en": "What is the angle between the equal sides of an isosceles triangle called?"
           },
           "options": [
-            {"hi": "20%", "en": "20%"},
-            {"hi": "25%", "en": "25%"},
-            {"hi": "40%", "en": "40%"},
-            {"hi": "10%", "en": "10%"}
+            {"hi": "आधार कोण", "en": "Base angle"},
+            {"hi": "शीर्ष कोण", "en": "Vertex angle"},
+            {"hi": "समकोण", "en": "Right angle"},
+            {"hi": "बाह्य कोण", "en": "Exterior angle"}
           ],
-          "answer": {"hi": "25%", "en": "25%"}
+          "answer": {"hi": "शीर्ष कोण", "en": "Vertex angle"}
         },
         {
           "q": {
-            "hi": "72% विद्यार्थी गणित में अच्छे हैं। 25 में से कितने विद्यार्थी गणित में अच्छे नहीं हैं?",
-            "en": "72% of students are good in math. Out of 25, how many students are NOT good in math?"
+            "hi": "यदि $\\Delta PQR \\cong \\Delta XYZ$ है, तो $\\angle Q$ किसके बराबर होगा?",
+            "en": "If $\\Delta PQR \\cong \\Delta XYZ$, which angle will $\\angle Q$ be equal to?"
           },
           "options": [
-            {"hi": "18", "en": "18"},
-            {"hi": "7", "en": "7"},
-            {"hi": "10", "en": "10"},
-            {"hi": "15", "en": "15"}
+            {"hi": "$\\angle X$", "en": "$\\angle X$"},
+            {"hi": "$\\angle Y$", "en": "$\\angle Y$"},
+            {"hi": "$\\angle Z$", "en": "$\\angle Z$"},
+            {"hi": "$\\angle P$", "en": "$\\angle P$"}
           ],
-          "answer": {"hi": "7", "en": "7"}
+          "answer": {"hi": "$\\angle Y$", "en": "$\\angle Y$"}
         },
         {
           "q": {
-            "hi": "एक फुटबॉल टीम ने 10 मैच जीते जो कुल मैचों का 40% था। कुल कितने मैच खेले गए?",
-            "en": "A football team won 10 matches, which was 40% of the total matches. How many matches were played in total?"
+            "hi": "त्रिभुज की दो भुजाओं का अंतर तीसरी भुजा से कैसा होता है?",
+            "en": "The difference between two sides of a triangle is how much compared to the third side?"
           },
           "options": [
-            {"hi": "20", "en": "20"},
-            {"hi": "25", "en": "25"},
-            {"hi": "30", "en": "30"},
-            {"hi": "40", "en": "40"}
-          ],
-          "answer": {"hi": "25", "en": "25"}
-        },
-        {
-          "q": {
-            "hi": "चक्रवृद्धि ब्याज साधारण ब्याज से कैसा होता है (यदि ब्याज वार्षिक संयोजित हो और समय > 1 वर्ष)?",
-            "en": "How is Compound Interest compared to Simple Interest (if compounded annually and time > 1 year)?"
-          },
-          "options": [
-            {"hi": "कम", "en": "Less"},
+            {"hi": "बड़ा", "en": "Greater"},
+            {"hi": "छोटा", "en": "Smaller"},
             {"hi": "बराबर", "en": "Equal"},
-            {"hi": "अधिक", "en": "More"},
-            {"hi": "आधा", "en": "Half"}
+            {"hi": "दुगुना", "en": "Double"}
           ],
-          "answer": {"hi": "अधिक", "en": "More"}
+          "answer": {"hi": "छोटा", "en": "Smaller"}
+        },
+        {
+          "q": {
+            "hi": "न्यूनकोण त्रिभुज का प्रत्येक कोण कैसा होता है?",
+            "en": "How is each angle of an acute-angled triangle?"
+          },
+          "options": [
+            {"hi": "90° से कम", "en": "Less than 90°"},
+            {"hi": "90° के बराबर", "en": "Equal to 90°"},
+            {"hi": "90° से अधिक", "en": "Greater than 90°"},
+            {"hi": "180°"}
+          ],
+          "answer": {"hi": "90° से कम", "en": "Less than 90°"}
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "₹ 10,000 पर 1 वर्ष के लिए 8% वार्षिक दर से अर्धवार्षिक रूप से संयोजित चक्रवृद्धि ब्याज के लिए समय अवधि (n) क्या होगी?",
-            "en": "What will be the time period (n) for interest compounded half-yearly on ₹ 10,000 at 8% p.a. for 1 year?"
+            "hi": "त्रिभुज के किसी शीर्ष से सम्मुख भुजा पर डाला गया लंब क्या कहलाता है?",
+            "en": "What is the perpendicular drawn from a vertex to the opposite side of a triangle called?"
           },
           "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "2", "en": "2"},
-            {"hi": "4", "en": "4"},
-            {"hi": "8", "en": "8"}
+            {"hi": "माध्यिका", "en": "Median"},
+            {"hi": "शीर्षलंब", "en": "Altitude"},
+            {"hi": "कर्ण", "en": "Hypotenuse"},
+            {"hi": "आधार", "en": "Base"}
           ],
-          "answer": {"hi": "2", "en": "2"}
+          "answer": {"hi": "शीर्षलंब", "en": "Altitude"}
         },
         {
           "q": {
-            "hi": "उपरोक्त प्रश्न में गणना के लिए दर (R) क्या ली जाएगी?",
-            "en": "What rate (R) will be taken for the calculation in the above question?"
+            "hi": "क्या AAA (कोण-कोण-कोण) सर्वांगसमता का एक नियम है?",
+            "en": "Is AAA (Angle-Angle-Angle) a rule of congruence?"
           },
           "options": [
-            {"hi": "8%", "en": "8%"},
-            {"hi": "4%", "en": "4%"},
-            {"hi": "16%", "en": "16%"},
-            {"hi": "2%", "en": "2"}
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "समबाहु त्रिभुज के लिए", "en": "For equilateral triangles"},
+            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"}
           ],
-          "answer": {"hi": "4%", "en": "4%"}
+          "answer": {"hi": "नहीं", "en": "No"}
         },
         {
           "q": {
-            "hi": "₹ 500 का 10% क्या होगा?",
-            "en": "What is 10% of ₹ 500?"
+            "hi": "यदि दो भुजाएँ $5\\,cm$ और $7\\,cm$ हैं, तो तीसरी भुजा की न्यूनतम लंबाई क्या होनी चाहिए (पूर्णांक में)?",
+            "en": "If two sides are $5\\,cm$ and $7\\,cm$, what should be the minimum length of the third side (in integers)?"
           },
           "options": [
-            {"hi": "₹ 5", "en": "₹ 5"},
-            {"hi": "₹ 50", "en": "₹ 50"},
-            {"hi": "₹ 10", "en": "₹ 10"},
-            {"hi": "₹ 100", "en": "₹ 100"}
+            {"hi": "1 cm", "en": "1 cm"},
+            {"hi": "2 cm", "en": "2 cm"},
+            {"hi": "3 cm", "en": "3 cm"},
+            {"hi": "12 cm", "en": "12 cm"}
           ],
-          "answer": {"hi": "₹ 50", "en": "₹ 50"}
+          "answer": {"hi": "3 cm", "en": "3 cm"}
         },
         {
           "q": {
-            "hi": "यदि चमेली के पास अपने धन का 75% खर्च करने के बाद ₹ 600 बचे, तो शुरू में उसके पास कितने थे?",
-            "en": "If Chameli had ₹ 600 left after spending 75% of her money, how much did she have initially?"
+            "hi": "SAS नियम में 'A' कहाँ स्थित होना चाहिए?",
+            "en": "Where should 'A' be located in SAS rule?"
           },
           "options": [
-            {"hi": "₹ 1200", "en": "₹ 1200"},
-            {"hi": "₹ 2400", "en": "₹ 2400"},
-            {"hi": "₹ 1800", "en": "₹ 1800"},
-            {"hi": "₹ 3000", "en": "₹ 3000"}
+            {"hi": "बाहर", "en": "Outside"},
+            {"hi": "दो भुजाओं के बीच (अंतर्गत)", "en": "Between two sides (included)"},
+            {"hi": "कहीं भी", "en": "Anywhere"},
+            {"hi": "शीर्ष पर", "en": "At vertex"}
           ],
-          "answer": {"hi": "₹ 2400", "en": "₹ 2400"}
+          "answer": {"hi": "दो भुजाओं के बीच (अंतर्गत)", "en": "Between two sides (included)"}
         },
         {
           "q": {
-            "hi": "2 : 3 का प्रतिशत रूप क्या है?",
-            "en": "What is the percentage form of 2 : 3?"
+            "hi": "किसी त्रिभुज का बाह्य कोण उसके अंतः अभिमुख कोणों के योग के बराबर होता है। क्या यह सत्य है?",
+            "en": "An exterior angle of a triangle is equal to the sum of its interior opposite angles. Is this true?"
           },
           "options": [
-            {"hi": "66.66%", "en": "66.66%"},
-            {"hi": "50%", "en": "50%"},
-            {"hi": "33.33%", "en": "33.33%"},
-            {"hi": "75%", "en": "75%"}
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "केवल समकोण त्रिभुज में", "en": "Only in right triangles"},
+            {"hi": "केवल समबाहु त्रिभुज में", "en": "Only in equilateral triangles"}
           ],
-          "answer": {"hi": "66.66%", "en": "66.66%"}
+          "answer": {"hi": "हाँ", "en": "Yes"}
         },
         {
           "q": {
-            "hi": "बट्टा प्रतिशत हमेशा किस पर निकाला जाता है?",
-            "en": "On what is discount percentage always calculated?"
+            "hi": "समबाहु त्रिभुज की तीनों माध्यिकाएँ कैसी होती हैं?",
+            "en": "How are the three medians of an equilateral triangle?"
           },
           "options": [
-            {"hi": "विक्रय मूल्य", "en": "Selling Price"},
-            {"hi": "क्रय मूल्य", "en": "Cost Price"},
-            {"hi": "अंकित मूल्य", "en": "Marked Price"},
-            {"hi": "लाभ", "en": "Profit"}
+            {"hi": "असमान", "en": "Unequal"},
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"}
           ],
-          "answer": {"hi": "अंकित मूल्य", "en": "Marked Price"}
+          "answer": {"hi": "बराबर", "en": "Equal"}
         },
         {
           "q": {
-            "hi": "VAT का अर्थ क्या है?",
-            "en": "What is the meaning of VAT?"
+            "hi": "एक त्रिभुज में अधिक से अधिक कितने समकोण हो सकते हैं?",
+            "en": "How many right angles can a triangle have at most?"
           },
           "options": [
-            {"hi": "Value Added Tax", "en": "Value Added Tax"},
-            {"hi": "Variable Amount Tax", "en": "Variable Amount Tax"},
-            {"hi": "Volume Added Tax", "en": "Volume Added Tax"},
-            {"hi": "Value Amount Tax", "en": "Value Amount Tax"}
+            {"hi": "एक", "en": "One"},
+            {"hi": "दो", "en": "Two"},
+            {"hi": "तीन", "en": "Three"},
+            {"hi": "शून्य", "en": "Zero"}
           ],
-          "answer": {"hi": "Value Added Tax", "en": "Value Added Tax"}
+          "answer": {"hi": "एक", "en": "One"}
         },
         {
           "q": {
-            "hi": "एक सिलाई मशीन ₹ 1600 की है। दुकानदार 5% की छूट देता है। मशीन का विक्रय मूल्य क्या है?",
-            "en": "A sewing machine costs ₹ 1600. The shopkeeper gives 5% discount. What is the SP of the machine?"
+            "hi": "एक त्रिभुज में अधिक से अधिक कितने अधिक कोण (Obtuse angle) हो सकते हैं?",
+            "en": "How many obtuse angles can a triangle have at most?"
           },
           "options": [
-            {"hi": "₹ 1520", "en": "₹ 1520"},
-            {"hi": "₹ 1500", "en": "₹ 1500"},
-            {"hi": "₹ 1550", "en": "₹ 1550"},
-            {"hi": "₹ 1680", "en": "₹ 1680"}
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "एक", "en": "One"},
+            {"hi": "दो", "en": "Two"},
+            {"hi": "तीन", "en": "Three"}
           ],
-          "answer": {"hi": "₹ 1520", "en": "₹ 1520"}
+          "answer": {"hi": "एक", "en": "One"}
         },
         {
           "q": {
-            "hi": "लाभ प्रतिशत हमेशा किस पर निकाला जाता है?",
-            "en": "On what is profit percentage always calculated?"
+            "hi": "यदि किसी त्रिभुज की एक भुजा को बढ़ाया जाए, तो बाह्य कोण अपने आसन्न अंतः कोण से कैसा होगा?",
+            "en": "If a side of a triangle is produced, how will the exterior angle be compared to its adjacent interior angle?"
           },
           "options": [
-            {"hi": "विक्रय मूल्य", "en": "Selling Price"},
-            {"hi": "क्रय मूल्य", "en": "Cost Price"},
-            {"hi": "अंकित मूल्य", "en": "Marked Price"},
-            {"hi": "बट्टा", "en": "Discount"}
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "छोटा", "en": "Smaller"},
+            {"hi": "बड़ा", "en": "Larger"},
+            {"hi": "संपूरक", "en": "Supplementary"}
           ],
-          "answer": {"hi": "क्रय मूल्य", "en": "Cost Price"}
+          "answer": {"hi": "संपूरक", "en": "Supplementary"}
         },
         {
           "q": {
-            "hi": "एक व्यक्ति का वेतन ₹ 1,50,000 से बढ़कर ₹ 1,65,000 हो गया। वेतन में प्रतिशत वृद्धि क्या है?",
-            "en": "A person's salary increased from ₹ 1,50,000 to ₹ 1,65,000. What is the percentage increase?"
+            "hi": "RHS नियम में 'R' का अर्थ क्या है?",
+            "en": "What does 'R' mean in RHS rule?"
           },
           "options": [
-            {"hi": "10%", "en": "10%"},
-            {"hi": "15%", "en": "15%"},
-            {"hi": "5%", "en": "5%"},
-            {"hi": "20%", "en": "20%"}
+            {"hi": "Radius (त्रिज्या)", "en": "Radius"},
+            {"hi": "Ratio (अनुपात)", "en": "Ratio"},
+            {"hi": "Right angle (समकोण)", "en": "Right angle"},
+            {"hi": "Rectangle (आयत)", "en": "Rectangle"}
           ],
-          "answer": {"hi": "10%", "en": "10%"}
+          "answer": {"hi": "Right angle (समकोण)", "en": "Right angle"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "मिश्रधन के सूत्र A = P(1 + R/100)ⁿ में 'n' क्या दर्शाता है?",
-            "en": "In the formula A = P(1 + R/100)ⁿ, what does 'n' represent?"
+            "hi": "दो सर्वांगसम त्रिभुजों के क्षेत्रफलों के बारे में क्या कहा जा सकता है?",
+            "en": "What can be said about the areas of two congruent triangles?"
           },
           "options": [
-            {"hi": "मूलधन", "en": "Principal"},
-            {"hi": "दर", "en": "Rate"},
-            {"hi": "समय (वर्षों की संख्या)", "en": "Time (number of years)"},
-            {"hi": "ब्याज", "en": "Interest"}
+            {"hi": "वे अलग-अलग होंगे", "en": "They will be different"},
+            {"hi": "वे बराबर होंगे", "en": "They will be equal"},
+            {"hi": "एक का आधा होगा", "en": "One will be half"},
+            {"hi": "शून्य होगा", "en": "Will be zero"}
           ],
-          "answer": {"hi": "समय (वर्षों की संख्या)", "en": "Time (number of years)"}
+          "answer": {"hi": "वे बराबर होंगे", "en": "They will be equal"}
         },
         {
           "q": {
-            "hi": "₹ 1000 पर 2 वर्ष के लिए 10% वार्षिक दर से साधारण ब्याज क्या है?",
-            "en": "What is the simple interest on ₹ 1000 for 2 years at 10% p.a.?"
+            "hi": "किसी बिंदु से एक रेखा पर खींचे गए सभी रेखाखंडों में सबसे छोटा कौन सा होता है?",
+            "en": "Of all the line segments drawn from a point to a line, which is the shortest?"
           },
           "options": [
-            {"hi": "₹ 200", "en": "₹ 200"},
-            {"hi": "₹ 100", "en": "₹ 100"},
-            {"hi": "₹ 210", "en": "₹ 210"},
-            {"hi": "₹ 1200", "en": "₹ 1200"}
-          ],
-          "answer": {"hi": "₹ 200", "en": "₹ 200"}
-        },
-        {
-          "q": {
-            "hi": "उपरोक्त प्रश्न में चक्रवृद्धि ब्याज क्या होगा?",
-            "en": "What will be the compound interest in the above question?"
-          },
-          "options": [
-            {"hi": "₹ 200", "en": "₹ 200"},
-            {"hi": "₹ 210", "en": "₹ 210"},
-            {"hi": "₹ 1210", "en": "₹ 1210"},
-            {"hi": "₹ 100", "en": "₹ 100"}
-          ],
-          "answer": {"hi": "₹ 210", "en": "₹ 210"}
-        },
-        {
-          "q": {
-            "hi": "₹ 100 का 20% लाभ पर विक्रय मूल्य क्या होगा?",
-            "en": "What is the SP of ₹ 100 at 20% profit?"
-          },
-          "options": [
-            {"hi": "₹ 120", "en": "₹ 120"},
-            {"hi": "₹ 80", "en": "₹ 80"},
-            {"hi": "₹ 100", "en": "₹ 100"},
-            {"hi": "₹ 20", "en": "₹ 20"}
-          ],
-          "answer": {"hi": "₹ 120", "en": "₹ 120"}
-        },
-        {
-          "q": {
-            "hi": "मिश्रधन (A) और ब्याज (I) ज्ञात होने पर मूलधन (P) कैसे निकालेंगे?",
-            "en": "How to find Principal (P) if Amount (A) and Interest (I) are known?"
-          },
-          "options": [
-            {"hi": "P = A + I", "en": "P = A + I"},
-            {"hi": "P = A - I", "en": "P = A - I"},
-            {"hi": "P = A × I", "en": "P = A × I"},
-            {"hi": "P = I - A", "en": "P = I - A"}
-          ],
-          "answer": {"hi": "P = A - I", "en": "P = A - I"}
-        },
-        {
-          "q": {
-            "hi": "एक शहर की जनसंख्या 4% वार्षिक दर से बढ़ रही है। 2 वर्ष बाद जनसंख्या क्या होगी यदि वर्तमान में 50,000 है?",
-            "en": "A city's population is increasing at 4% p.a. What will it be after 2 years if it is currently 50,000?"
-          },
-          "options": [
-            {"hi": "54,080", "en": "54,080"},
-            {"hi": "54,000", "en": "54,000"},
-            {"hi": "52,000", "en": "52,000"},
-            {"hi": "58,000", "en": "58,000"}
-          ],
-          "answer": {"hi": "54,080", "en": "54,080"}
-        },
-        {
-          "q": {
-            "hi": "1/2 को प्रतिशत में कैसे बदलेंगे?",
-            "en": "How to convert 1/2 into percentage?"
-          },
-          "options": [
-            {"hi": "25%", "en": "25%"},
-            {"hi": "50%", "en": "50%"},
-            {"hi": "75%", "en": "75%"},
-            {"hi": "100%", "en": "100%"}
-          ],
-          "answer": {"hi": "50%", "en": "50%"}
-        },
-        {
-          "q": {
-            "hi": "यदि एक पेन का क्रय मूल्य ₹ 10 और विक्रय मूल्य ₹ 8 है, तो हानि प्रतिशत क्या है?",
-            "en": "If the CP of a pen is ₹ 10 and SP is ₹ 8, what is the loss percentage?"
-          },
-          "options": [
-            {"hi": "2%", "en": "2%"},
-            {"hi": "20%", "en": "20%"},
-            {"hi": "10%", "en": "10%"},
-            {"hi": "25%", "en": "25%"}
-          ],
-          "answer": {"hi": "20%", "en": "20%"}
-        },
-        {
-          "q": {
-            "hi": "अवमूल्यन (Depreciation) होने पर मिश्रधन के सूत्र में R का चिह्न क्या होता है?",
-            "en": "In the case of depreciation, what is the sign of R in the Amount formula?"
-          },
-          "options": [
-            {"hi": "धनात्मक (+)", "en": "Positive (+)"},
-            {"hi": "ऋणात्मक (-)", "en": "Negative (-)"},
-            {"hi": "गुणा", "en": "Multiplication"},
+            {"hi": "तिरछा रेखाखंड", "en": "Oblique segment"},
+            {"hi": "लंबवत रेखाखंड", "en": "Perpendicular segment"},
+            {"hi": "समांतर रेखाखंड", "en": "Parallel segment"},
             {"hi": "कोई नहीं", "en": "None"}
           ],
-          "answer": {"hi": "ऋणात्मक (-)", "en": "Negative (-)"}
+          "answer": {"hi": "लंबवत रेखाखंड", "en": "Perpendicular segment"}
         },
         {
           "q": {
-            "hi": "ब्याज की दर '5% वार्षिक' का क्या अर्थ है?",
-            "en": "What does the rate of interest '5% p.a.' mean?"
+            "hi": "क्या एक त्रिभुज की भुजाएँ $3\\,cm, 4\\,cm$ और $8\\,cm$ हो सकती हैं?",
+            "en": "Can the sides of a triangle be $3\\,cm, 4\\,cm$, and $8\\,cm$?"
           },
           "options": [
-            {"hi": "₹ 100 पर 1 वर्ष का ₹ 5 ब्याज", "en": "₹ 5 interest on ₹ 100 for 1 year"},
-            {"hi": "₹ 1000 पर ₹ 5 ब्याज", "en": "₹ 5 interest on ₹ 1000"},
-            {"hi": "₹ 100 पर ₹ 50 ब्याज", "en": "₹ 50 interest on ₹ 100"},
-            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"},
+            {"hi": "केवल समकोण त्रिभुज में", "en": "Only in right triangles"}
           ],
-          "answer": {"hi": "₹ 100 पर 1 वर्ष का ₹ 5 ब्याज", "en": "₹ 5 interest on ₹ 100 for 1 year"}
+          "answer": {"hi": "नहीं", "en": "No"}
+        },
+        {
+          "q": {
+            "hi": "यदि किसी त्रिभुज की तीनों भुजाएँ बराबर हों, तो वह कैसा त्रिभुज होगा?",
+            "en": "If all three sides of a triangle are equal, what kind of triangle will it be?"
+          },
+          "options": [
+            {"hi": "विषमबाहु", "en": "Scalene"},
+            {"hi": "समद्विबाहु", "en": "Isosceles"},
+            {"hi": "समबाहु", "en": "Equilateral"},
+            {"hi": "समकोण", "en": "Right-angled"}
+          ],
+          "answer": {"hi": "समबाहु", "en": "Equilateral"}
+        },
+        {
+          "q": {
+            "hi": "समद्विबाहु त्रिभुज का प्रत्येक आधार कोण कैसा होता है?",
+            "en": "How is each base angle of an isosceles triangle?"
+          },
+          "options": [
+            {"hi": "न्यूनकोण", "en": "Acute"},
+            {"hi": "अधिककोण", "en": "Obtuse"},
+            {"hi": "समकोण", "en": "Right-angled"},
+            {"hi": "शून्य", "en": "Zero"}
+          ],
+          "answer": {"hi": "न्यूनकोण", "en": "Acute"}
+        },
+        {
+          "q": {
+            "hi": "त्रिभुज के असमिकाओं के अनुसार, किसी त्रिभुज में लंबी भुजा के सम्मुख कोण छोटा होता है।",
+            "en": "According to triangle inequalities, the angle opposite to the longer side is smaller."
+          },
+          "options": [
+            {"hi": "सत्य", "en": "True"},
+            {"hi": "असत्य", "en": "False"},
+            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"},
+            {"hi": "शर्तों पर निर्भर", "en": "Depends on conditions"}
+          ],
+          "answer": {"hi": "असत्य", "en": "False"}
+        },
+        {
+          "q": {
+            "hi": "सर्वांगसमता का 'ASA' नियम क्या दर्शाता है?",
+            "en": "What does the 'ASA' rule of congruence represent?"
+          },
+          "options": [
+            {"hi": "Angle-Side-Angle", "en": "Angle-Side-Angle"},
+            {"hi": "Area-Side-Area", "en": "Area-Side-Area"},
+            {"hi": "Altitude-Side-Altitude", "en": "Altitude-Side-Altitude"},
+            {"hi": "Angle-Side-Altitude", "en": "Angle-Side-Altitude"}
+          ],
+          "answer": {"hi": "Angle-Side-Angle", "en": "Angle-Side-Angle"}
+        },
+        {
+          "q": {
+            "hi": "यदि $\\Delta ABC \\cong \\Delta FED$ है, तो $\\angle C$ किसके बराबर होगा?",
+            "en": "If $\\Delta ABC \\cong \\Delta FED$, which angle will $\\angle C$ be equal to?"
+          },
+          "options": [
+            {"hi": "$\\angle F$", "en": "$\\angle F$"},
+            {"hi": "$\\angle E$", "en": "$\\angle E$"},
+            {"hi": "$\\angle D$", "en": "$\\angle D$"},
+            {"hi": "$\\angle A$", "en": "$\\angle A$"}
+          ],
+          "answer": {"hi": "$\\angle D$", "en": "$\\angle D$"}
+        },
+        {
+          "q": {
+            "hi": "किसी त्रिभुज का बाह्य कोण हमेशा अपने किसी भी अंतः अभिमुख कोण से कैसा होता है?",
+            "en": "An exterior angle of a triangle is always how much compared to any of its interior opposite angles?"
+          },
+          "options": [
+            {"hi": "छोटा", "en": "Smaller"},
+            {"hi": "बड़ा", "en": "Larger"},
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "आधा", "en": "Half"}
+          ],
+          "answer": {"hi": "बड़ा", "en": "Larger"}
+        },
+        {
+          "q": {
+            "hi": "क्या सर्वांगसम त्रिभुज हमेशा समरूप (Similar) भी होते हैं?",
+            "en": "Are congruent triangles always similar as well?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "कभी-कभी", "en": "Sometimes"},
+            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"}
+          ],
+          "answer": {"hi": "हाँ", "en": "Yes"}
         }
       ]
     },
@@ -4638,661 +4638,661 @@
       "section1": [
         {
           "q": {
-            "hi": "बीजीय व्यंजक किसकी सहायता से बनते हैं?",
-            "en": "Algebraic expressions are formed with the help of?"
+            "hi": "चार भुजाओं वाली एक बंद आकृति को क्या कहा जाता है?",
+            "en": "What is a closed figure with four sides called?"
           },
           "options": [
-            {"hi": "केवल चरों से", "en": "Only variables"},
-            {"hi": "केवल अचरों से", "en": "Only constants"},
-            {"hi": "चरों एवं अचरों से", "en": "Variables and constants"},
-            {"hi": "केवल शून्य से", "en": "Only zero"}
+            {"hi": "त्रिभुज", "en": "Triangle"},
+            {"hi": "चतुर्भुज", "en": "Quadrilateral"},
+            {"hi": "पंचभुज", "en": "Pentagon"},
+            {"hi": "वृत्त", "en": "Circle"}
           ],
-          "answer": {"hi": "चरों एवं अचरों से", "en": "Variables and constants"}
+          "answer": {"hi": "चतुर्भुज", "en": "Quadrilateral"}
         },
         {
           "q": {
-            "hi": "व्यंजक बनाने के लिए किसे जोड़ा जाता है?",
-            "en": "What are added to form expressions?"
+            "hi": "एक चतुर्भुज के चारों कोणों का योग कितना होता है?",
+            "en": "What is the sum of the four angles of a quadrilateral?"
           },
           "options": [
-            {"hi": "पदों (Terms) को", "en": "Terms"},
-            {"hi": "गुणनखंडों को", "en": "Factors"},
-            {"hi": "केवल संख्याओं को", "en": "Only numbers"},
-            {"hi": "भागफल को", "en": "Quotient"}
+            {"hi": "180°", "en": "180°"},
+            {"hi": "270°", "en": "270°"},
+            {"hi": "360°", "en": "360°"},
+            {"hi": "540°", "en": "540°"}
           ],
-          "answer": {"hi": "पदों (Terms) को", "en": "Terms"}
+          "answer": {"hi": "360°", "en": "360°"}
         },
         {
           "q": {
-            "hi": "पद स्वयं किसके गुणनफल के रूप में बनते हैं?",
-            "en": "Terms themselves are formed as the product of?"
+            "hi": "यदि एक चतुर्भुज की सम्मुख भुजाओं का प्रत्येक युग्म समांतर हो, तो वह क्या कहलाता है?",
+            "en": "If each pair of opposite sides of a quadrilateral is parallel, what is it called?"
           },
           "options": [
-            {"hi": "व्यंजकों", "en": "Expressions"},
-            {"hi": "गुणनखंडों (Factors)", "en": "Factors"},
-            {"hi": "योगफल", "en": "Sum"},
-            {"hi": "शून्य", "en": "Zero"}
+            {"hi": "समलंब", "en": "Trapezium"},
+            {"hi": "पतंग", "en": "Kite"},
+            {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"},
+            {"hi": "त्रिभुज", "en": "Triangle"}
           ],
-          "answer": {"hi": "गुणनखंडों (Factors)", "en": "Factors"}
+          "answer": {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"}
         },
         {
           "q": {
-            "hi": "व्यंजक जिसमें केवल एक पद होता है, क्या कहलाता है?",
-            "en": "An expression containing only one term is called?"
+            "hi": "एक समांतर चतुर्भुज जिसका प्रत्येक कोण समकोण (90°) हो, क्या कहलाता है?",
+            "en": "A parallelogram in which each angle is a right angle is called?"
           },
           "options": [
-            {"hi": "द्विपदी", "en": "Binomial"},
-            {"hi": "एकपदी (Monomial)", "en": "Monomial"},
-            {"hi": "त्रिपदी", "en": "Trinomial"},
-            {"hi": "बहुपद", "en": "Polynomial"}
+            {"hi": "समचतुर्भुज", "en": "Rhombus"},
+            {"hi": "आयत", "en": "Rectangle"},
+            {"hi": "समलंब", "en": "Trapezium"},
+            {"hi": "पतंग", "en": "Kite"}
           ],
-          "answer": {"hi": "एकपदी (Monomial)", "en": "Monomial"}
+          "answer": {"hi": "आयत", "en": "Rectangle"}
         },
         {
           "q": {
-            "hi": "व्यंजक जिसमें दो पद होते हैं, क्या कहलाता है?",
-            "en": "An expression containing two terms is called?"
+            "hi": "एक समांतर चतुर्भुज जिसकी सभी भुजाएँ बराबर हों, क्या कहलाता है?",
+            "en": "A parallelogram with all sides equal is called?"
           },
           "options": [
-            {"hi": "एकपदी", "en": "Monomial"},
-            {"hi": "द्विपदी (Binomial)", "en": "Binomial"},
-            {"hi": "त्रिपदी", "en": "Trinomial"},
-            {"hi": "शून्य पद", "en": "Zero term"}
+            {"hi": "आयत", "en": "Rectangle"},
+            {"hi": "समचतुर्भुज", "en": "Rhombus"},
+            {"hi": "समलंब", "en": "Trapezium"},
+            {"hi": "वर्ग", "en": "Square"}
           ],
-          "answer": {"hi": "द्विपदी (Binomial)", "en": "Binomial"}
+          "answer": {"hi": "समचतुर्भुज", "en": "Rhombus"}
         },
         {
           "q": {
-            "hi": "व्यंजक $4xy + 7$ किस प्रकार का व्यंजक है?",
-            "en": "What type of expression is $4xy + 7$?"
+            "hi": "एक आयत जिसकी सभी भुजाएँ बराबर हों, क्या कहलाता है?",
+            "en": "A rectangle with all sides equal is called?"
           },
           "options": [
-            {"hi": "एकपदी", "en": "Monomial"},
-            {"hi": "द्विपदी", "en": "Binomial"},
-            {"hi": "त्रिपदी", "en": "Trinomial"},
-            {"hi": "बहुपद नहीं", "en": "Not a polynomial"}
+            {"hi": "समचतुर्भुज", "en": "Rhombus"},
+            {"hi": "वर्ग", "en": "Square"},
+            {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"},
+            {"hi": "समलंब", "en": "Trapezium"}
           ],
-          "answer": {"hi": "द्विपदी", "en": "Binomial"}
+          "answer": {"hi": "वर्ग", "en": "Square"}
         },
         {
           "q": {
-            "hi": "सामान्यतः एक अथवा अधिक पदों वाला व्यंजक क्या कहलाता है?",
-            "en": "Generally, an expression with one or more terms is called?"
+            "hi": "वह चतुर्भुज जिसकी सम्मुख भुजाओं का केवल एक युग्म समांतर हो, क्या कहलाता है?",
+            "en": "A quadrilateral in which only one pair of opposite sides is parallel is called?"
           },
           "options": [
-            {"hi": "एकपदी", "en": "Monomial"},
-            {"hi": "द्विपदी", "en": "Binomial"},
-            {"hi": "बहुपद (Polynomial)", "en": "Polynomial"},
-            {"hi": "अचर", "en": "Constant"}
+            {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"},
+            {"hi": "समलंब", "en": "Trapezium"},
+            {"hi": "आयत", "en": "Rectangle"},
+            {"hi": "वर्ग", "en": "Square"}
           ],
-          "answer": {"hi": "बहुपद (Polynomial)", "en": "Polynomial"}
+          "answer": {"hi": "समलंब", "en": "Trapezium"}
         },
         {
           "q": {
-            "hi": "समान चरों और समान घातों वाले पदों को क्या कहते हैं?",
-            "en": "Terms with the same variables and same powers are called?"
+            "hi": "एक चतुर्भुज जिसमें आसन्न भुजाओं के दो युग्म बराबर हों, क्या कहलाता है?",
+            "en": "A quadrilateral in which two pairs of adjacent sides are equal is called?"
           },
           "options": [
-            {"hi": "असमान पद", "en": "Unlike terms"},
-            {"hi": "समान पद (Like terms)", "en": "Like terms"},
-            {"hi": "शून्य पद", "en": "Zero terms"},
-            {"hi": "विपरीत पद", "en": "Opposite terms"}
+            {"hi": "समचतुर्भुज", "en": "Rhombus"},
+            {"hi": "पतंग", "en": "Kite"},
+            {"hi": "आयत", "en": "Rectangle"},
+            {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"}
           ],
-          "answer": {"hi": "समान पद (Like terms)", "en": "Like terms"}
+          "answer": {"hi": "पतंग", "en": "Kite"}
         },
         {
           "q": {
-            "hi": "व्यंजक $7x - 4x$ में पदों का स्वरूप कैसा है?",
-            "en": "What is the nature of terms in the expression $7x - 4x$?"
-          },
-          "options": [
-            {"hi": "समान पद", "en": "Like terms"},
-            {"hi": "असमान पद", "en": "Unlike terms"},
-            {"hi": "अचर पद", "en": "Constant terms"},
-            {"hi": "त्रिपदी", "en": "Trinomial"}
-          ],
-          "answer": {"hi": "समान पद", "en": "Like terms"}
-        },
-        {
-          "q": {
-            "hi": "क्या समान पदों के गुणांक (Coefficients) समान होने आवश्यक हैं?",
-            "en": "Is it necessary for the coefficients of like terms to be the same?"
+            "hi": "क्या एक वर्ग एक आयत भी है?",
+            "en": "Is a square also a rectangle?"
           },
           "options": [
             {"hi": "हाँ", "en": "Yes"},
             {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल 1 के लिए", "en": "Only for 1"},
-            {"hi": "निश्चित नहीं", "en": "Not certain"}
+            {"hi": "केवल कभी-कभी", "en": "Only sometimes"},
+            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"}
           ],
-          "answer": {"hi": "नहीं", "en": "No"}
+          "answer": {"hi": "हाँ", "en": "Yes"}
+        },
+        {
+          "q": {
+            "hi": "क्या एक समांतर चतुर्भुज एक समलंब (Trapezium) भी होता है?",
+            "en": "Is a parallelogram also a trapezium?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "नहीं, क्योंकि भुजाएँ बराबर नहीं होतीं", "en": "No, because sides are not equal"},
+            {"hi": "केवल यदि वह आयत हो", "en": "Only if it is a rectangle"}
+          ],
+          "answer": {"hi": "हाँ", "en": "Yes"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "बहुपदों को जोड़ने या घटाने के लिए सबसे पहले किन्हें ढूंढा जाता है?",
-            "en": "To add or subtract polynomials, what are found first?"
+            "hi": "समांतर चतुर्भुज का एक विकर्ण उसे कितने सर्वांगसम त्रिभुजों में विभाजित करता है?",
+            "en": "Into how many congruent triangles does a diagonal of a parallelogram divide it?"
           },
           "options": [
-            {"hi": "असमान पदों को", "en": "Unlike terms"},
-            {"hi": "समान पदों (Like terms) को", "en": "Like terms"},
-            {"hi": "केवल अचरों को", "en": "Only constants"},
-            {"hi": "एकपदों को", "en": "Monomials"}
+            {"hi": "तीन", "en": "Three"},
+            {"hi": "दो", "en": "Two"},
+            {"hi": "चार", "en": "Four"},
+            {"hi": "एक भी नहीं", "en": "None"}
           ],
-          "answer": {"hi": "समान पदों (Like terms) को", "en": "Like terms"}
+          "answer": {"hi": "दो", "en": "Two"}
         },
         {
           "q": {
-            "hi": "एकपदी को एकपदी से गुणा करने पर हमेशा क्या प्राप्त होता है?",
-            "en": "Multiplying a monomial by a monomial always results in a?"
+            "hi": "एक समांतर चतुर्भुज में सम्मुख भुजाएँ कैसी होती हैं?",
+            "en": "In a parallelogram, opposite sides are?"
           },
           "options": [
-            {"hi": "द्विपदी", "en": "Binomial"},
-            {"hi": "एकपदी (Monomial)", "en": "Monomial"},
-            {"hi": "त्रिपदी", "en": "Trinomial"},
-            {"hi": "बहुपद नहीं", "en": "Not a polynomial"}
+            {"hi": "असमान", "en": "Unequal"},
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "लंबवत", "en": "Perpendicular"},
+            {"hi": "शून्य", "en": "Zero"}
           ],
-          "answer": {"hi": "एकपदी (Monomial)", "en": "Monomial"}
+          "answer": {"hi": "बराबर", "en": "Equal"}
         },
         {
           "q": {
-            "hi": "बहुपद को एकपदी से गुणा करने के लिए बहुपद के प्रत्येक पद को किससे गुणा किया जाता है?",
-            "en": "To multiply a polynomial by a monomial, each term of the polynomial is multiplied by?"
+            "hi": "एक समांतर चतुर्भुज में सम्मुख कोण कैसे होते हैं?",
+            "en": "In a parallelogram, opposite angles are?"
           },
           "options": [
-            {"hi": "शून्य से", "en": "Zero"},
-            {"hi": "उसी एकपदी से", "en": "That monomial"},
-            {"hi": "केवल पहले पद से", "en": "Only the first term"},
-            {"hi": "किसी से नहीं", "en": "Nothing"}
+            {"hi": "पूरक", "en": "Complementary"},
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "असमान", "en": "Unequal"},
+            {"hi": "90°"}
           ],
-          "answer": {"hi": "उसी एकपदी से", "en": "That monomial"}
+          "answer": {"hi": "बराबर", "en": "Equal"}
         },
         {
           "q": {
-            "hi": "द्विपदी को द्विपदी (या त्रिपदी) से गुणा करने के लिए किस नियम का उपयोग होता है?",
-            "en": "Which rule is used to multiply a binomial by a binomial (or trinomial)?"
+            "hi": "समांतर चतुर्भुज के विकर्ण एक-दूसरे को क्या करते हैं?",
+            "en": "The diagonals of a parallelogram _______ each other."
           },
           "options": [
-            {"hi": "क्रमविनिमेयता", "en": "Commutativity"},
-            {"hi": "साहचर्यता", "en": "Associativity"},
-            {"hi": "पद-दर-पद गुणा (वितरकता)", "en": "Term-by-term multiplication (Distributivity)"},
-            {"hi": "केवल जोड़", "en": "Only addition"}
+            {"hi": "काटते नहीं हैं", "en": "Do not intersect"},
+            {"hi": "समद्विभाजित करते हैं", "en": "Bisect"},
+            {"hi": "तिगुना करते हैं", "en": "Triple"},
+            {"hi": "लंब होते हैं", "en": "Are perpendicular"}
           ],
-          "answer": {"hi": "पद-दर-पद गुणा (वितरकता)", "en": "Term-by-term multiplication (Distributivity)"}
+          "answer": {"hi": "समद्विभाजित करते हैं", "en": "Bisect"}
         },
         {
           "q": {
-            "hi": "एक ऐसी समता जो चरों के सभी मानों के लिए सत्य हो, क्या कहलाती है?",
-            "en": "An equality which is true for all values of the variables is called?"
+            "hi": "यदि एक चतुर्भुज की सम्मुख भुजाएँ बराबर हों, तो वह निश्चित रूप से क्या होगा?",
+            "en": "If opposite sides of a quadrilateral are equal, then it is certainly a?"
           },
           "options": [
-            {"hi": "समीकरण", "en": "Equation"},
-            {"hi": "सर्वसमिका (Identity)", "en": "Identity"},
-            {"hi": "असमता", "en": "Inequality"},
-            {"hi": "व्यंजक", "en": "Expression"}
+            {"hi": "समलंब", "en": "Trapezium"},
+            {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"},
+            {"hi": "पतंग", "en": "Kite"},
+            {"hi": "विषमबाहु चतुर्भुज", "en": "Scalene quadrilateral"}
           ],
-          "answer": {"hi": "सर्वसमिका (Identity)", "en": "Identity"}
+          "answer": {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"}
         },
         {
           "q": {
-            "hi": "सर्वसमिका I क्या है?",
-            "en": "What is Identity I?"
+            "hi": "आयत के विकर्ण एक-दूसरे को समद्विभाजित करते हैं और वे क्या होते हैं?",
+            "en": "Diagonals of a rectangle bisect each other and are?"
           },
           "options": [
-            {"hi": "$(a+b)^{2} = a^{2}+2ab+b^{2}$", "en": "$(a+b)^{2} = a^{2}+2ab+b^{2}$"},
-            {"hi": "$(a-b)^{2} = a^{2}-2ab+b^{2}$", "en": "$(a-b)^{2} = a^{2}-2ab+b^{2}$"},
-            {"hi": "$(a+b)(a-b) = a^{2}-b^{2}$", "en": "$(a+b)(a-b) = a^{2}-b^{2}$"},
-            {"hi": "$(x+a)(x+b) = x^{2}+(a+b)x+ab$", "en": "$(x+a)(x+b) = x^{2}+(a+b)x+ab$"}
+            {"hi": "असमान", "en": "Unequal"},
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "लंब", "en": "Perpendicular"}
           ],
-          "answer": {"hi": "$(a+b)^{2} = a^{2}+2ab+b^{2}$", "en": "$(a+b)^{2} = a^{2}+2ab+b^{2}$"}
+          "answer": {"hi": "बराबर", "en": "Equal"}
         },
         {
           "q": {
-            "hi": "सर्वसमिका II $(a-b)^{2}$ का मान क्या है?",
-            "en": "What is the value of Identity II $(a-b)^{2}$?"
+            "hi": "समचतुर्भुज (Rhombus) के विकर्ण परस्पर किस कोण पर समद्विभाजित करते हैं?",
+            "en": "At what angle do the diagonals of a rhombus bisect each other?"
           },
           "options": [
-            {"hi": "$a^{2}+b^{2}$", "en": "$a^{2}+b^{2}$"},
-            {"hi": "$a^{2}-2ab+b^{2}$", "en": "$a^{2}-2ab+b^{2}$"},
-            {"hi": "$a^{2}+2ab+b^{2}$", "en": "$a^{2}+2ab+b^{2}$"},
-            {"hi": "$a^{2}-b^{2}$", "en": "$a^{2}-b^{2}$"}
+            {"hi": "45°", "en": "45°"},
+            {"hi": "60°", "en": "60°"},
+            {"hi": "90° (समकोण)", "en": "90° (Right angle)"},
+            {"hi": "180°", "en": "180°"}
           ],
-          "answer": {"hi": "$a^{2}-2ab+b^{2}$", "en": "$a^{2}-2ab+b^{2}$"}
+          "answer": {"hi": "90° (समकोण)", "en": "90° (Right angle)"}
         },
         {
           "q": {
-            "hi": "सर्वसमिका III $(a+b)(a-b)$ किसके बराबर है?",
-            "en": "Identity III $(a+b)(a-b)$ is equal to?"
+            "hi": "किस आकृति के विकर्ण परस्पर समकोण पर समद्विभाजित करते हैं और बराबर भी होते हैं?",
+            "en": "The diagonals of which figure bisect each other at right angles and are also equal?"
           },
           "options": [
-            {"hi": "$a^{2}+b^{2}$", "en": "$a^{2}+b^{2}$"},
-            {"hi": "$a^{2}-b^{2}$", "en": "$a^{2}-b^{2}$"},
-            {"hi": "$2a-2b$", "en": "$2a-2b$"},
-            {"hi": "$(a-b)^{2}$", "en": "$(a-b)^{2}$"}
+            {"hi": "आयत", "en": "Rectangle"},
+            {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"},
+            {"hi": "वर्ग", "en": "Square"},
+            {"hi": "समलंब", "en": "Trapezium"}
           ],
-          "answer": {"hi": "$a^{2}-b^{2}$", "en": "$a^{2}-b^{2}$"}
+          "answer": {"hi": "वर्ग", "en": "Square"}
         },
         {
           "q": {
-            "hi": "सर्वसमिका IV $(x+a)(x+b)$ का विस्तार क्या है?",
-            "en": "What is the expansion of Identity IV $(x+a)(x+b)$?"
+            "hi": "समांतर चतुर्भुज के आसन्न कोणों का योग कितना होता है?",
+            "en": "What is the sum of adjacent angles of a parallelogram?"
           },
           "options": [
-            {"hi": "$x^{2}+ab$", "en": "$x^{2}+ab$"},
-            {"hi": "$x^{2}+(a+b)x+ab$", "en": "$x^{2}+(a+b)x+ab$"},
-            {"hi": "$x^{2}+ax+b$", "en": "$x^{2}+ax+b$"},
-            {"hi": "$x+a+b$", "en": "$x+a+b$"}
+            {"hi": "90°", "en": "90°"},
+            {"hi": "180°", "en": "180°"},
+            {"hi": "270°", "en": "270°"},
+            {"hi": "360°", "en": "360°"}
           ],
-          "answer": {"hi": "$x^{2}+(a+b)x+ab$", "en": "$x^{2}+(a+b)x+ab$"}
+          "answer": {"hi": "180°", "en": "180°"}
         },
         {
           "q": {
-            "hi": "व्यंजक $2xy$ में $x$ का गुणांक क्या है?",
-            "en": "What is the coefficient of $x$ in the expression $2xy$?"
+            "hi": "यदि एक समांतर चतुर्भुज का एक कोण 90° हो, तो वह क्या बन जाता है?",
+            "en": "If one angle of a parallelogram is 90°, what does it become?"
           },
           "options": [
-            {"hi": "2", "en": "2"},
-            {"hi": "2y", "en": "2y"},
-            {"hi": "y", "en": "y"},
-            {"hi": "x", "en": "x"}
+            {"hi": "समचतुर्भुज", "en": "Rhombus"},
+            {"hi": "आयत", "en": "Rectangle"},
+            {"hi": "पतंग", "en": "Kite"},
+            {"hi": "समलंब", "en": "Trapezium"}
           ],
-          "answer": {"hi": "2y", "en": "2y"}
+          "answer": {"hi": "आयत", "en": "Rectangle"}
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "पदों $-3xz$ और $9zx$ के बारे में क्या कहा जा सकता है?",
-            "en": "What can be said about the terms $-3xz$ and $9zx$?"
+            "hi": "मध्य-बिंदु प्रमेय (Mid-point Theorem) के अनुसार, त्रिभुज की दो भुजाओं के मध्य-बिंदुओं को मिलाने वाला रेखाखंड तीसरी भुजा के कैसा होता है?",
+            "en": "According to Mid-point Theorem, the line segment joining the mid-points of two sides of a triangle is _______ to the third side?"
           },
           "options": [
-            {"hi": "ये समान पद हैं", "en": "These are like terms"},
-            {"hi": "ये असमान पद हैं", "en": "These are unlike terms"},
-            {"hi": "ये एकपदी नहीं हैं", "en": "These are not monomials"},
-            {"hi": "इनमें चर अलग हैं", "en": "They have different variables"}
+            {"hi": "लंब", "en": "Perpendicular"},
+            {"hi": "समांतर", "en": "Parallel"},
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "तिरछा", "en": "Oblique"}
           ],
-          "answer": {"hi": "ये समान पद हैं", "en": "These are like terms"}
+          "answer": {"hi": "समांतर", "en": "Parallel"}
         },
         {
           "q": {
-            "hi": "$3x \times 5y$ का गुणनफल क्या है?",
-            "en": "What is the product of $3x \times 5y$?"
+            "hi": "मध्य-बिंदु प्रमेय के अनुसार, त्रिभुज की दो भुजाओं के मध्य-बिंदुओं को मिलाने वाला रेखाखंड तीसरी भुजा का कितना होता है?",
+            "en": "According to Mid-point Theorem, the line segment joining the mid-points of two sides of a triangle is _______ of the third side?"
           },
           "options": [
-            {"hi": "8xy", "en": "8xy"},
-            {"hi": "15xy", "en": "15xy"},
-            {"hi": "15x+y", "en": "15x+y"},
-            {"hi": "35xy", "en": "35xy"}
+            {"hi": "दुगुना", "en": "Double"},
+            {"hi": "तिगुना", "en": "Triple"},
+            {"hi": "आधा", "en": "Half"},
+            {"hi": "बराबर", "en": "Equal"}
           ],
-          "answer": {"hi": "15xy", "en": "15xy"}
+          "answer": {"hi": "आधा", "en": "Half"}
         },
         {
           "q": {
-            "hi": "$4x(3x + 7)$ का मान क्या होगा?",
-            "en": "What will be the value of $4x(3x + 7)$?"
+            "hi": "एक समांतर चतुर्भुज की सम्मुख भुजाओं के मध्य-बिंदुओं को मिलाने वाला रेखाखंड उसे कितने समांतर चतुर्भुजों में बांटता है?",
+            "en": "The line segment joining the mid-points of the opposite sides of a parallelogram divides it into how many parallelograms?"
           },
           "options": [
-            {"hi": "$12x + 28$", "en": "$12x + 28$"},
-            {"hi": "$12x^{2} + 28x$", "en": "$12x^{2} + 28x$"},
-            {"hi": "$7x + 11$", "en": "$7x + 11$"},
-            {"hi": "$12x^{2} + 7$", "en": "$12x^{2} + 7$"}
+            {"hi": "दो", "en": "Two"},
+            {"hi": "तीन", "en": "Three"},
+            {"hi": "चार", "en": "Four"},
+            {"hi": "एक", "en": "One"}
           ],
-          "answer": {"hi": "$12x^{2} + 28x$", "en": "$12x^{2} + 28x$"}
+          "answer": {"hi": "दो", "en": "Two"}
         },
         {
           "q": {
-            "hi": "सर्वसमिका का उपयोग करके $103 \times 104$ ज्ञात करने के लिए कौन सी सर्वसमिका सबसे उपयुक्त है?",
-            "en": "Which identity is most suitable to find $103 \times 104$?"
+            "hi": "किसी चतुर्भुज की भुजाओं के मध्य-बिंदुओं को उसी क्रम में मिलाने पर बनी आकृति क्या होती है?",
+            "en": "What is the figure formed by joining the mid-points of the sides of a quadrilateral in order?"
           },
           "options": [
-            {"hi": "$(a+b)^{2}$", "en": "$(a+b)^{2}$"},
-            {"hi": "$(a-b)^{2}$", "en": "$(a-b)^{2}$"},
-            {"hi": "$(x+a)(x+b)$", "en": "$(x+a)(x+b)$"},
-            {"hi": "$(a+b)(a-b)$", "en": "$(a+b)(a-b)$"}
+            {"hi": "आयत", "en": "Rectangle"},
+            {"hi": "वर्ग", "en": "Square"},
+            {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"},
+            {"hi": "समलंब", "en": "Trapezium"}
           ],
-          "answer": {"hi": "$(x+a)(x+b)$", "en": "$(x+a)(x+b)$"}
+          "answer": {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"}
         },
         {
           "q": {
-            "hi": "यदि $a=1, b=2$ हो, तो $a^{2}+2ab+b^{2}$ का मान क्या होगा?",
-            "en": "If $a=1, b=2$, what will be the value of $a^{2}+2ab+b^{2}$?"
+            "hi": "यदि समांतर चतुर्भुज के विकर्ण बराबर हों, तो वह क्या होगा?",
+            "en": "If the diagonals of a parallelogram are equal, then it is a?"
           },
           "options": [
-            {"hi": "3", "en": "3"},
-            {"hi": "5", "en": "5"},
-            {"hi": "9", "en": "9"},
-            {"hi": "1", "en": "1"}
+            {"hi": "समचतुर्भुज", "en": "Rhombus"},
+            {"hi": "आयत", "en": "Rectangle"},
+            {"hi": "समलंब", "en": "Trapezium"},
+            {"hi": "पतंग", "en": "Kite"}
           ],
-          "answer": {"hi": "9", "en": "9"}
+          "answer": {"hi": "आयत", "en": "Rectangle"}
         },
         {
           "q": {
-            "hi": "व्यंजक $x^{2} - y^{2}$ का गुणनखंड रूप क्या है?",
-            "en": "What is the factored form of the expression $x^{2} - y^{2}$?"
+            "hi": "समलंब चतुर्भुज (Trapezium) के कितने भुजाओं के युग्म समांतर होते हैं?",
+            "en": "How many pairs of sides of a trapezium are parallel?"
           },
           "options": [
-            {"hi": "$(x-y)^{2}$", "en": "$(x-y)^{2}$"},
-            {"hi": "$(x+y)(x-y)$", "en": "$(x+y)(x-y)$"},
-            {"hi": "$(x+y)^{2}$", "en": "$(x+y)^{2}$"},
-            {"hi": "$x-y$", "en": "$x-y$"}
+            {"hi": "दो", "en": "Two"},
+            {"hi": "एक", "en": "One"},
+            {"hi": "चार", "en": "Four"},
+            {"hi": "शून्य", "en": "Zero"}
           ],
-          "answer": {"hi": "$(x+y)(x-y)$", "en": "$(x+y)(x-y)$"}
+          "answer": {"hi": "एक", "en": "One"}
         },
         {
           "q": {
-            "hi": "$(x-3)^{2}$ का विस्तारित रूप क्या है?",
-            "en": "What is the expanded form of $(x-3)^{2}$?"
+            "hi": "यदि एक चतुर्भुज का प्रत्येक सम्मुख कोण बराबर हो, तो वह क्या है?",
+            "en": "If every opposite angle of a quadrilateral is equal, then it is a?"
           },
           "options": [
-            {"hi": "$x^{2}-9$", "en": "$x^{2}-9$"},
-            {"hi": "$x^{2}-6x+9$", "en": "$x^{2}-6x+9$"},
-            {"hi": "$x^{2}+6x+9$", "en": "$x^{2}+6x+9$"},
-            {"hi": "$x^{2}-3x+9$", "en": "$x^{2}-3x+9$"}
+            {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"},
+            {"hi": "समलंब", "en": "Trapezium"},
+            {"hi": "विषमबाहु चतुर्भुज", "en": "Scalene quadrilateral"},
+            {"hi": "पतंग", "en": "Kite"}
           ],
-          "answer": {"hi": "$x^{2}-6x+9$", "en": "$x^{2}-6x+9$"}
+          "answer": {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"}
         },
         {
           "q": {
-            "hi": "$5x, 2x, -7x$ कैसे पद हैं?",
-            "en": "What kind of terms are $5x, 2x, -7x$?"
+            "hi": "एक वर्ग के विकर्ण एक-दूसरे को कहाँ समद्विभाजित करते हैं?",
+            "en": "Where do the diagonals of a square bisect each other?"
           },
           "options": [
-            {"hi": "समान पद", "en": "Like terms"},
-            {"hi": "असमान पद", "en": "Unlike terms"},
-            {"hi": "द्विपदी", "en": "Binomials"},
-            {"hi": "अचर", "en": "Constants"}
+            {"hi": "शिखर पर", "en": "At the vertex"},
+            {"hi": "समकोण पर", "en": "At right angles"},
+            {"hi": "न्यूनकोण पर", "en": "At acute angles"},
+            {"hi": "अधिककोण पर", "en": "At obtuse angles"}
           ],
-          "answer": {"hi": "समान पद", "en": "Like terms"}
+          "answer": {"hi": "समकोण पर", "en": "At right angles"}
         },
         {
           "q": {
-            "hi": "आयत का क्षेत्रफल ज्ञात करने के लिए किन बीजीय व्यंजकों का गुणा किया जाता है?",
-            "en": "Which algebraic expressions are multiplied to find the area of a rectangle?"
+            "hi": "समांतर चतुर्भुज के विकर्ण उसे कितने समान क्षेत्रफल वाले त्रिभुजों में बांटते हैं?",
+            "en": "How many equal area triangles does the diagonal of a parallelogram divide it into?"
           },
           "options": [
-            {"hi": "लंबाई और चौड़ाई", "en": "Length and breadth"},
-            {"hi": "केवल लंबाई", "en": "Only length"},
-            {"hi": "परिमाप और भुजा", "en": "Perimeter and side"},
-            {"hi": "विकर्ण", "en": "Diagonals"}
+            {"hi": "दो", "en": "Two"},
+            {"hi": "तीन", "en": "Three"},
+            {"hi": "चार", "en": "Four"},
+            {"hi": "छह", "en": "Six"}
           ],
-          "answer": {"hi": "लंबाई और चौड़ाई", "en": "Length and breadth"}
+          "answer": {"hi": "दो", "en": "Two"}
         },
         {
           "q": {
-            "hi": "व्यंजक $a+b+c$ में कितने पद हैं?",
-            "en": "How many terms are there in the expression $a+b+c$?"
+            "hi": "त्रिभुज की एक भुजा के मध्य-बिंदु से दूसरी भुजा के समांतर खींची गई रेखा तीसरी भुजा को क्या करती है?",
+            "en": "A line drawn through the mid-point of one side of a triangle parallel to another side _______ the third side?"
           },
           "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "2", "en": "2"},
-            {"hi": "3", "en": "3"},
-            {"hi": "4", "en": "4"}
+            {"hi": "काटती नहीं है", "en": "Does not intersect"},
+            {"hi": "समद्विभाजित करती है", "en": "Bisects"},
+            {"hi": "तिरछा काटती है", "en": "Intersects obliquely"},
+            {"hi": "लंब होती है", "en": "Is perpendicular"}
           ],
-          "answer": {"hi": "3", "en": "3"}
+          "answer": {"hi": "समद्विभाजित करती है", "en": "Bisects"}
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "$(2a + 3b)^{2}$ का मान क्या है?",
-            "en": "What is the value of $(2a + 3b)^{2}$?"
+            "hi": "यदि एक चतुर्भुज के विकर्ण एक-दूसरे को समकोण पर समद्विभाजित करें, तो वह क्या है?",
+            "en": "If the diagonals of a quadrilateral bisect each other at right angles, then it is a?"
           },
           "options": [
-            {"hi": "$4a^{2} + 9b^{2}$", "en": "$4a^{2} + 9b^{2}$"},
-            {"hi": "$4a^{2} + 12ab + 9b^{2}$", "en": "$4a^{2} + 12ab + 9b^{2}$"},
-            {"hi": "$2a^{2} + 6ab + 3b^{2}$", "en": "$2a^{2} + 6ab + 3b^{2}$"},
-            {"hi": "$4a + 6b$", "en": "$4a + 6b$"}
+            {"hi": "आयत", "en": "Rectangle"},
+            {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"},
+            {"hi": "समचतुर्भुज (Rhombus)", "en": "Rhombus"},
+            {"hi": "समलंब", "en": "Trapezium"}
           ],
-          "answer": {"hi": "$4a^{2} + 12ab + 9b^{2}$", "en": "$4a^{2} + 12ab + 9b^{2}$"}
+          "answer": {"hi": "समचतुर्भुज (Rhombus)", "en": "Rhombus"}
         },
         {
           "q": {
-            "hi": "किसी पद का संख्यात्मक गुणांक (Numerical Coefficient) क्या होता है?",
-            "en": "What is the numerical coefficient of a term?"
+            "hi": "समांतर चतुर्भुज के अंतः कोणों के समद्विभाजक क्या बनाते हैं?",
+            "en": "The bisectors of angles of a parallelogram form a?"
           },
           "options": [
-            {"hi": "चर भाग", "en": "Variable part"},
-            {"hi": "संख्यात्मक भाग (Number part)", "en": "Numerical part"},
-            {"hi": "पूरी घात", "en": "Total power"},
-            {"hi": "शून्य", "en": "Zero"}
+            {"hi": "वर्ग", "en": "Square"},
+            {"hi": "आयत", "en": "Rectangle"},
+            {"hi": "समचतुर्भुज", "en": "Rhombus"},
+            {"hi": "पतंग", "en": "Kite"}
           ],
-          "answer": {"hi": "संख्यात्मक भाग (Number part)", "en": "Numerical part"}
+          "answer": {"hi": "आयत", "en": "Rectangle"}
         },
         {
           "q": {
-            "hi": "समीकरण और सर्वसमिका में मुख्य अंतर क्या है?",
-            "en": "What is the main difference between an equation and an identity?"
+            "hi": "एक चतुर्भुज ABCD में, AB || CD और AD || BC है। यह क्या है?",
+            "en": "In a quadrilateral ABCD, AB || CD and AD || BC. What is it?"
           },
           "options": [
-            {"hi": "कोई अंतर नहीं है", "en": "There is no difference"},
-            {"hi": "सर्वसमिका चरों के सभी मानों के लिए सत्य होती है", "en": "An identity is true for all values of variables"},
-            {"hi": "समीकरण सभी मानों के लिए सत्य होता है", "en": "An equation is true for all values"},
-            {"hi": "सर्वसमिका में चर नहीं होते", "en": "Identity has no variables"}
+            {"hi": "समलंब", "en": "Trapezium"},
+            {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"},
+            {"hi": "पतंग", "en": "Kite"},
+            {"hi": "विषम चतुर्भुज", "en": "Scalene quadrilateral"}
           ],
-          "answer": {"hi": "सर्वसमिका चरों के सभी मानों के लिए सत्य होती है", "en": "An identity is true for all values of variables"}
+          "answer": {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"}
         },
         {
           "q": {
-            "hi": "$a^{2} - b^{2} = (a-b)(?)$ रिक्त स्थान भरें।",
-            "en": "$a^{2} - b^{2} = (a-b)(?)$ Fill in the blank."
+            "hi": "पतंग (Kite) के विकर्ण एक-दूसरे पर कैसे होते हैं?",
+            "en": "How are the diagonals of a kite to each other?"
           },
           "options": [
-            {"hi": "$a-b$", "en": "$a-b$"},
-            {"hi": "$a+b$", "en": "$a+b$"},
-            {"hi": "$a^{2}+b^{2}$", "en": "$a^{2}+b^{2}$"},
-            {"hi": "$2ab$", "en": "$2ab$"}
+            {"hi": "समांतर", "en": "Parallel"},
+            {"hi": "लंब (Perpendicular)", "en": "Perpendicular"},
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "संपाती", "en": "Coincident"}
           ],
-          "answer": {"hi": "$a+b$", "en": "$a+b$"}
+          "answer": {"hi": "लंब (Perpendicular)", "en": "Perpendicular"}
         },
         {
           "q": {
-            "hi": "$(-x)(-y)$ का मान क्या है?",
-            "en": "What is the value of $(-x)(-y)$?"
+            "hi": "आयत का प्रत्येक कोण कितने अंश का होता है?",
+            "en": "What is the measure of each angle of a rectangle?"
           },
           "options": [
-            {"hi": "$-xy$", "en": "$-xy$"},
-            {"hi": "$xy$", "en": "$xy$"},
-            {"hi": "$x+y$", "en": "$x+y$"},
-            {"hi": "$-x-y$", "en": "$-x-y$"}
+            {"hi": "60°", "en": "60°"},
+            {"hi": "90°", "en": "90°"},
+            {"hi": "120°", "en": "120°"},
+            {"hi": "180°", "en": "180°"}
           ],
-          "answer": {"hi": "$xy$", "en": "$xy$"}
+          "answer": {"hi": "90°", "en": "90°"}
         },
         {
           "q": {
-            "hi": "त्रिपदी (Trinomial) में पदों की संख्या कितनी होती है?",
-            "en": "How many terms are there in a Trinomial?"
+            "hi": "चतुर्भुज के तीन कोण 75°, 90° और 75° हैं। चौथा कोण क्या होगा?",
+            "en": "Three angles of a quadrilateral are 75°, 90°, and 75°. What is the fourth angle?"
           },
           "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "2", "en": "2"},
-            {"hi": "3", "en": "3"},
-            {"hi": "अनेक", "en": "Many"}
+            {"hi": "90°", "en": "90°"},
+            {"hi": "95°", "en": "95°"},
+            {"hi": "105°", "en": "105°"},
+            {"hi": "120°", "en": "120°"}
           ],
-          "answer": {"hi": "3", "en": "3"}
+          "answer": {"hi": "120°", "en": "120°"}
         },
         {
           "q": {
-            "hi": "बहुपद में चरों की घात (Power) कैसी होनी चाहिए?",
-            "en": "What should be the power of variables in a polynomial?"
+            "hi": "समांतर चतुर्भुज ABCD में, यदि $\\angle A = 70^\\circ$ है, तो $\\angle B$ का मान क्या होगा?",
+            "en": "In parallelogram ABCD, if $\\angle A = 70^\\circ$, what is the value of $\\angle B$?"
           },
           "options": [
-            {"hi": "ऋणात्मक", "en": "Negative"},
-            {"hi": "ऋणेतर पूर्णांक (Non-negative integer)", "en": "Non-negative integer"},
-            {"hi": "केवल शून्य", "en": "Only zero"},
-            {"hi": "भिन्नात्मक", "en": "Fractional"}
+            {"hi": "70°", "en": "70°"},
+            {"hi": "110°", "en": "110°"},
+            {"hi": "180°", "en": "180°"},
+            {"hi": "90°", "en": "90°"}
           ],
-          "answer": {"hi": "ऋणेतर पूर्णांक (Non-negative integer)", "en": "Non-negative integer"}
+          "answer": {"hi": "110°", "en": "110°"}
         },
         {
           "q": {
-            "hi": "$x^{2} \times x^{3}$ का मान क्या है?",
-            "en": "What is the value of $x^{2} \times x^{3}$?"
+            "hi": "समचतुर्भुज की सम्मुख भुजाओं के मध्य-बिंदुओं को मिलाने पर क्या प्राप्त होता है?",
+            "en": "What is obtained by joining the mid-points of the opposite sides of a rhombus?"
           },
           "options": [
-            {"hi": "$x^{6}$", "en": "$x^{6}$"},
-            {"hi": "$x^{5}$", "en": "$x^{5}$"},
-            {"hi": "$2x^{3}$", "en": "$2x^{3}$"},
-            {"hi": "$5x$", "en": "$5x$"}
+            {"hi": "वर्ग", "en": "Square"},
+            {"hi": "आयत", "en": "Rectangle"},
+            {"hi": "समलंब", "en": "Trapezium"},
+            {"hi": "त्रिभुज", "en": "Triangle"}
           ],
-          "answer": {"hi": "$x^{5}$", "en": "$x^{5}$"}
+          "answer": {"hi": "आयत", "en": "Rectangle"}
         },
         {
           "q": {
-            "hi": "सर्वसमिका का उपयोग करके $99^{2}$ का मान क्या होगा?",
-            "en": "What will be the value of $99^{2}$ using an identity?"
+            "hi": "किस चतुर्भुज के विकर्ण बराबर नहीं होते लेकिन एक-दूसरे को समकोण पर काटते हैं?",
+            "en": "Which quadrilateral's diagonals are not equal but bisect at right angles?"
           },
           "options": [
-            {"hi": "9801", "en": "9801"},
-            {"hi": "9900", "en": "9900"},
-            {"hi": "9001", "en": "9001"},
-            {"hi": "10000", "en": "10000"}
+            {"hi": "वर्ग", "en": "Square"},
+            {"hi": "आयत", "en": "Rectangle"},
+            {"hi": "समचतुर्भुज", "en": "Rhombus"},
+            {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"}
           ],
-          "answer": {"hi": "9801", "en": "9801"}
+          "answer": {"hi": "समचतुर्भुज", "en": "Rhombus"}
         },
         {
           "q": {
-            "hi": "$7x^{2}-4x+5$ और $9x-10$ का योग क्या है?",
-            "en": "What is the sum of $7x^{2}-4x+5$ and $9x-10$?"
+            "hi": "चतुर्भुज की भुजाओं के मध्य-बिंदुओं को मिलाने पर बना समांतर चतुर्भुज कब आयत होता है?",
+            "en": "When is the parallelogram formed by joining mid-points of sides of a quadrilateral a rectangle?"
           },
           "options": [
-            {"hi": "$7x^{2}+5x-5$", "en": "$7x^{2}+5x-5$"},
-            {"hi": "$16x^{2}-14$", "en": "$16x^{2}-14$"},
-            {"hi": "$7x^{2}-13x+15$", "en": "$7x^{2}-13x+15$"},
-            {"hi": "$7x^{2}+13x-15$", "en": "$7x^{2}+13x-15$"}
+            {"hi": "जब मूल चतुर्भुज समांतर चतुर्भुज हो", "en": "When the original is a parallelogram"},
+            {"hi": "जब मूल चतुर्भुज के विकर्ण बराबर हों", "en": "When original diagonals are equal"},
+            {"hi": "जब मूल चतुर्भुज के विकर्ण लंबवत हों", "en": "When original diagonals are perpendicular"},
+            {"hi": "जब वह वर्ग हो", "en": "When it is a square"}
           ],
-          "answer": {"hi": "$7x^{2}+5x-5$", "en": "$7x^{2}+5x-5$"}
+          "answer": {"hi": "जब मूल चतुर्भुज के विकर्ण लंबवत हों", "en": "When original diagonals are perpendicular"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "यदि किसी आयत की लंबाई $2x$ और चौड़ाई $3y$ है, तो उसका क्षेत्रफल क्या होगा?",
-            "en": "If the length of a rectangle is $2x$ and breadth is $3y$, what will be its area?"
+            "hi": "यदि चतुर्भुज की सम्मुख भुजाओं का एक युग्म बराबर और समांतर हो, तो वह क्या है?",
+            "en": "If one pair of opposite sides of a quadrilateral is equal and parallel, then it is a?"
           },
           "options": [
-            {"hi": "$5xy$", "en": "$5xy$"},
-            {"hi": "$6xy$", "en": "$6xy$"},
-            {"hi": "$2x+3y$", "en": "$2x+3y$"},
-            {"hi": "$6x^{2}y^{2}$", "en": "$6x^{2}y^{2}$"}
+            {"hi": "समलंब", "en": "Trapezium"},
+            {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"},
+            {"hi": "आयत", "en": "Rectangle"},
+            {"hi": "वर्ग", "en": "Square"}
           ],
-          "answer": {"hi": "$6xy$", "en": "$6xy$"}
+          "answer": {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"}
         },
         {
           "q": {
-            "hi": "$(x+y)(x^{2}-xy+y^{2})$ का मान क्या है?",
-            "en": "What is the value of $(x+y)(x^{2}-xy+y^{2})$?"
+            "hi": "किसी समांतर चतुर्भुज की भुजाओं के मध्य-बिंदुओं को मिलाने से बनी आकृति क्या होती है?",
+            "en": "What is the figure formed by joining mid-points of sides of a parallelogram?"
           },
           "options": [
-            {"hi": "$x^{3}+y^{3}$", "en": "$x^{3}+y^{3}$"},
-            {"hi": "$x^{3}-y^{3}$", "en": "$x^{3}-y^{3}$"},
-            {"hi": "$(x+y)^{3}$", "en": "$(x+y)^{3}$"},
-            {"hi": "$x^{2}+y^{2}$", "en": "$x^{2}+y^{2}$"}
+            {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"},
+            {"hi": "वर्ग", "en": "Square"},
+            {"hi": "समचतुर्भुज", "en": "Rhombus"},
+            {"hi": "पतंग", "en": "Kite"}
           ],
-          "answer": {"hi": "$x^{3}+y^{3}$", "en": "$x^{3}+y^{3}$"}
+          "answer": {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"}
         },
         {
           "q": {
-            "hi": "पदों का निर्माण किसके द्वारा होता है?",
-            "en": "By what are terms constructed?"
+            "hi": "एक चतुर्भुज के कोण 3:5:9:13 के अनुपात में हैं। सबसे छोटा कोण क्या है?",
+            "en": "Angles of a quadrilateral are in ratio 3:5:9:13. What is the smallest angle?"
           },
           "options": [
-            {"hi": "केवल योग द्वारा", "en": "Only by addition"},
-            {"hi": "गुणनखंडों के गुणनफल द्वारा", "en": "By the product of factors"},
-            {"hi": "भाग द्वारा", "en": "By division"},
-            {"hi": "शून्य द्वारा", "en": "By zero"}
+            {"hi": "12°", "en": "12°"},
+            {"hi": "36°", "en": "36°"},
+            {"hi": "48°", "en": "48°"},
+            {"hi": "60°", "en": "60°"}
           ],
-          "answer": {"hi": "गुणनखंडों के गुणनफल द्वारा", "en": "By the product of factors"}
+          "answer": {"hi": "36°", "en": "36°"}
         },
         {
           "q": {
-            "hi": "व्यंजक $x+3$ में चर (Variable) कौन सा है?",
-            "en": "Which is the variable in the expression $x+3$?"
+            "hi": "समचतुर्भुज (Rhombus) की भुजाओं के मध्य-बिंदुओं को मिलाने पर बनी आकृति कैसी होती है?",
+            "en": "The figure formed by joining mid-points of sides of a rhombus is?"
           },
           "options": [
-            {"hi": "3", "en": "3"},
-            {"hi": "x", "en": "x"},
-            {"hi": "+", "en": "+"},
-            {"hi": "कोई नहीं", "en": "None"}
+            {"hi": "वर्ग", "en": "Square"},
+            {"hi": "आयत", "en": "Rectangle"},
+            {"hi": "पतंग", "en": "Kite"},
+            {"hi": "समलंब", "en": "Trapezium"}
           ],
-          "answer": {"hi": "x", "en": "x"}
+          "answer": {"hi": "आयत", "en": "Rectangle"}
         },
         {
           "q": {
-            "hi": "क्या $x^{2}+1$ एक रैखिक व्यंजक है?",
-            "en": "Is $x^{2}+1$ a linear expression?"
+            "hi": "क्या समलंब (Trapezium) के विकर्ण हमेशा बराबर होते हैं?",
+            "en": "Are diagonals of a trapezium always equal?"
           },
           "options": [
             {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं (घात 2 है)", "en": "No (Power is 2)"},
-            {"hi": "केवल x=1 के लिए", "en": "Only for x=1"},
-            {"hi": "कह नहीं सकते", "en": "Cannot say"}
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "केवल समांतर चतुर्भुज में", "en": "Only in parallelograms"},
+            {"hi": "केवल समद्विबाहु समलंब में", "en": "Only in isosceles trapezium"}
           ],
-          "answer": {"hi": "नहीं (घात 2 है)", "en": "No (Power is 2)"}
+          "answer": {"hi": "नहीं", "en": "No"}
         },
         {
           "q": {
-            "hi": "व्यंजक $4x^{2}-3x+7$ में अचर (Constant) पद कौन सा है?",
-            "en": "Which is the constant term in the expression $4x^{2}-3x+7$?"
+            "hi": "त्रिभुज की किन्हीं दो भुजाओं के मध्य-बिंदुओं को मिलाने वाला रेखाखंड तीसरी भुजा का आधा होता है। यह कथन क्या कहलाता है?",
+            "en": "The segment joining mid-points of two sides of a triangle is half the third side. What is this called?"
           },
           "options": [
-            {"hi": "4", "en": "4"},
-            {"hi": "-3", "en": "-3"},
-            {"hi": "7", "en": "7"},
-            {"hi": "$x^{2}$", "en": "$x^{2}$"}
+            {"hi": "पाइथागोरस प्रमेय", "en": "Pythagoras theorem"},
+            {"hi": "मध्य-बिंदु प्रमेय", "en": "Mid-point theorem"},
+            {"hi": "थेल्स प्रमेय", "en": "Thales theorem"},
+            {"hi": "यूलर प्रमेय", "en": "Euler theorem"}
           ],
-          "answer": {"hi": "7", "en": "7"}
+          "answer": {"hi": "मध्य-बिंदु प्रमेय", "en": "Mid-point theorem"}
         },
         {
           "q": {
-            "hi": "$(a+b)(a+b)$ को और किस रूप में लिख सकते हैं?",
-            "en": "In what other form can $(a+b)(a+b)$ be written?"
+            "hi": "यदि समांतर चतुर्भुज के विकर्ण एक-दूसरे को समकोण पर काटें और बराबर हों, तो वह क्या है?",
+            "en": "If diagonals of a parallelogram bisect at right angles and are equal, then it is a?"
           },
           "options": [
-            {"hi": "$2(a+b)$", "en": "$2(a+b)$"},
-            {"hi": "$(a+b)^{2}$", "en": "$(a+b)^{2}$"},
-            {"hi": "$a^{2}+b^{2}$", "en": "$a^{2}+b^{2}$"},
-            {"hi": "$a^{2}+2b$", "en": "$a^{2}+2b$"}
+            {"hi": "आयत", "en": "Rectangle"},
+            {"hi": "समचतुर्भुज", "en": "Rhombus"},
+            {"hi": "वर्ग", "en": "Square"},
+            {"hi": "समलंब", "en": "Trapezium"}
           ],
-          "answer": {"hi": "$(a+b)^{2}$", "en": "$(a+b)^{2}$"}
+          "answer": {"hi": "वर्ग", "en": "Square"}
         },
         {
           "q": {
-            "hi": "समान पदों को जोड़ते समय उनके किन भागों को जोड़ा जाता है?",
-            "en": "While adding like terms, which parts of them are added?"
+            "hi": "आयत की भुजाओं के मध्य-बिंदुओं को मिलाने से कौन सी आकृति बनती है?",
+            "en": "Which figure is formed by joining mid-points of sides of a rectangle?"
           },
           "options": [
-            {"hi": "चरो को", "en": "Variables"},
-            {"hi": "उनके संख्यात्मक गुणांकों को", "en": "Their numerical coefficients"},
-            {"hi": "उनकी घातों को", "en": "Their powers"},
-            {"hi": "किसी को नहीं", "en": "Nothing"}
+            {"hi": "वर्ग", "en": "Square"},
+            {"hi": "समचतुर्भुज (Rhombus)", "en": "Rhombus"},
+            {"hi": "समलंब", "en": "Trapezium"},
+            {"hi": "पतंग", "en": "Kite"}
           ],
-          "answer": {"hi": "उनके संख्यात्मक गुणांकों को", "en": "Their numerical coefficients"}
+          "answer": {"hi": "समचतुर्भुज (Rhombus)", "en": "Rhombus"}
         },
         {
           "q": {
-            "hi": "व्यंजक $xy$ का गुणांक क्या माना जाता है?",
-            "en": "What is considered the coefficient of the expression $xy$?"
+            "hi": "किसी त्रिभुज के मध्य-बिंदुओं को मिलाने से बना त्रिभुज मूल त्रिभुज के क्षेत्रफल का कितना होता है?",
+            "en": "The triangle formed by joining mid-points is what fraction of the area of original triangle?"
           },
           "options": [
-            {"hi": "0", "en": "0"},
-            {"hi": "1", "en": "1"},
-            {"hi": "x", "en": "x"},
-            {"hi": "y", "en": "y"}
+            {"hi": "आधा", "en": "Half"},
+            {"hi": "एक-तिहाई", "en": "One-third"},
+            {"hi": "एक-चौथाई", "en": "One-fourth"},
+            {"hi": "बराबर", "en": "Equal"}
           ],
-          "answer": {"hi": "1", "en": "1"}
+          "answer": {"hi": "एक-चौथाई", "en": "One-fourth"}
         },
         {
           "q": {
-            "hi": "बीजीय व्यंजक का दैनिक जीवन में एक उपयोग बताइए।",
-            "en": "Give one use of algebraic expressions in daily life."
+            "hi": "वह समांतर चतुर्भुज जिसके विकर्ण बराबर हों लेकिन समकोण पर न काटें, क्या कहलाता है?",
+            "en": "The parallelogram whose diagonals are equal but do not bisect at right angles is?"
           },
           "options": [
-            {"hi": "क्षेत्रफल ज्ञात करना", "en": "Finding area"},
-            {"hi": "वस्तुओं की अज्ञात संख्या ज्ञात करना", "en": "Finding unknown numbers of items"},
-            {"hi": "सूत्र बनाना", "en": "Creating formulas"},
-            {"hi": "उपरोक्त सभी", "en": "All of the above"}
+            {"hi": "आयत", "en": "Rectangle"},
+            {"hi": "समचतुर्भुज", "en": "Rhombus"},
+            {"hi": "वर्ग", "en": "Square"},
+            {"hi": "समलंब", "en": "Trapezium"}
           ],
-          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
+          "answer": {"hi": "आयत", "en": "Rectangle"}
         }
       ]
     },
