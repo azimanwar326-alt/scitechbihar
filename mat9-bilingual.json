@@ -5962,661 +5962,661 @@
       "section1": [
         {
           "q": {
-            "hi": "संख्या $10^{24}$ में आधार (base) क्या है?",
-            "en": "What is the base in the number $10^{24}$?"
+            "hi": "एक तल पर उन सभी बिंदुओं का समूह जो तल के एक स्थिर बिंदु से एक स्थिर दूरी पर स्थित हों, क्या कहलाता है?",
+            "en": "The collection of all points in a plane, which are at a fixed distance from a fixed point in the plane, is called?"
           },
           "options": [
-            {"hi": "24", "en": "24"},
-            {"hi": "10", "en": "10"},
-            {"hi": "100", "en": "100"},
-            {"hi": "5.97", "en": "5.97"}
+            {"hi": "वर्ग", "en": "Square"},
+            {"hi": "वृत्त", "en": "Circle"},
+            {"hi": "त्रिभुज", "en": "Triangle"},
+            {"hi": "रेखाखंड", "en": "Line segment"}
           ],
-          "answer": {"hi": "10", "en": "10"}
+          "answer": {"hi": "वृत्त", "en": "Circle"}
         },
         {
           "q": {
-            "hi": "संख्या $10^{24}$ में घातांक (exponent) क्या है?",
-            "en": "What is the exponent in the number $10^{24}$?"
+            "hi": "वृत्त के स्थिर बिंदु को क्या कहा जाता है?",
+            "en": "What is the fixed point of the circle called?"
           },
           "options": [
-            {"hi": "10", "en": "10"},
-            {"hi": "24", "en": "24"},
-            {"hi": "1024", "en": "1024"},
-            {"hi": "0", "en": "0"}
+            {"hi": "परिधि", "en": "Circumference"},
+            {"hi": "त्रिज्या", "en": "Radius"},
+            {"hi": "केंद्र", "en": "Center"},
+            {"hi": "जीवा", "en": "Chord"}
           ],
-          "answer": {"hi": "24", "en": "24"}
+          "answer": {"hi": "केंद्र", "en": "Center"}
         },
         {
           "q": {
-            "hi": "$2 \times 2 \times 2 \times 2 \times 2$ को घातांकीय रूप में कैसे लिखेंगे?",
-            "en": "How to write $2 \times 2 \times 2 \times 2 \times 2$ in exponential form?"
+            "hi": "केंद्र को वृत्त के किसी बिंदु से मिलाने वाले रेखाखंड को क्या कहते हैं?",
+            "en": "The line segment joining the center to any point on the circle is called?"
           },
           "options": [
-            {"hi": "25", "en": "25"},
-            {"hi": "$2^5$", "en": "$2^5$"},
-            {"hi": "$5^2$", "en": "$5^2$"},
-            {"hi": "10", "en": "10"}
+            {"hi": "व्यास", "en": "Diameter"},
+            {"hi": "त्रिज्या", "en": "Radius"},
+            {"hi": "चाप", "en": "Arc"},
+            {"hi": "स्पर्श रेखा", "en": "Tangent"}
           ],
-          "answer": {"hi": "$2^5$", "en": "$2^5$"}
+          "answer": {"hi": "त्रिज्या", "en": "Radius"}
         },
         {
           "q": {
-            "hi": "$10^{-1}$ किसके बराबर है?",
-            "en": "$10^{-1}$ is equal to?"
+            "hi": "एक वृत्त जिस तल पर स्थित है, उसे कितने भागों में विभाजित करता है?",
+            "en": "A circle divides the plane on which it lies into how many parts?"
           },
           "options": [
-            {"hi": "10", "en": "10"},
-            {"hi": "-10", "en": "-10"},
-            {"hi": "1/10", "en": "1/10"},
-            {"hi": "1", "en": "1"}
+            {"hi": "एक", "en": "One"},
+            {"hi": "दो", "en": "Two"},
+            {"hi": "तीन", "en": "Three"},
+            {"hi": "चार", "en": "Four"}
           ],
-          "answer": {"hi": "1/10", "en": "1/10"}
+          "answer": {"hi": "तीन", "en": "Three"}
         },
         {
           "q": {
-            "hi": "$10^{-2}$ का मान क्या है?",
-            "en": "What is the value of $10^{-2}$?"
+            "hi": "वृत्त पर स्थित दो बिंदुओं को मिलाने वाले रेखाखंड को क्या कहते हैं?",
+            "en": "A line segment joining any two points on a circle is called?"
           },
           "options": [
-            {"hi": "1/100", "en": "1/100"},
-            {"hi": "1/20", "en": "1/20"},
-            {"hi": "-20", "en": "-20"},
-            {"hi": "100", "en": "100"}
+            {"hi": "जीवा", "en": "Chord"},
+            {"hi": "त्रिज्या", "en": "Radius"},
+            {"hi": "शीर्ष", "en": "Vertex"},
+            {"hi": "केंद्र", "en": "Center"}
           ],
-          "answer": {"hi": "1/100", "en": "1/100"}
+          "answer": {"hi": "जीवा", "en": "Chord"}
         },
         {
           "q": {
-            "hi": "किसी भी शून्येतर पूर्णांक 'a' के लिए $a^{-m}$ किसके बराबर है?",
-            "en": "For any non-zero integer 'a', $a^{-m}$ is equal to?"
+            "hi": "वृत्त की सबसे लंबी जीवा को क्या कहा जाता है?",
+            "en": "What is the longest chord of a circle called?"
           },
           "options": [
-            {"hi": "$a^m$", "en": "$a^m$"},
-            {"hi": "$1/a^m$", "en": "$1/a^m$"},
-            {"hi": "$-a^m$", "en": "$-a^m$"},
-            {"hi": "$m/a$", "en": "$m/a$"}
+            {"hi": "त्रिज्या", "en": "Radius"},
+            {"hi": "व्यास", "en": "Diameter"},
+            {"hi": "चाप", "en": "Arc"},
+            {"hi": "वृत्तखंड", "en": "Segment"}
           ],
-          "answer": {"hi": "$1/a^m$", "en": "$1/a^m$"}
+          "answer": {"hi": "व्यास", "en": "Diameter"}
         },
         {
           "q": {
-            "hi": "$(-2)^{-3}$ का मान क्या होगा?",
-            "en": "What will be the value of $(-2)^{-3}$?"
+            "hi": "व्यास त्रिज्या का कितना गुना होता है?",
+            "en": "How many times the radius is the diameter?"
           },
           "options": [
-            {"hi": "8", "en": "8"},
-            {"hi": "-8", "en": "-8"},
-            {"hi": "-1/8", "en": "-1/8"},
-            {"hi": "1/8", "en": "1/8"}
+            {"hi": "आधा", "en": "Half"},
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "दो गुना", "en": "Two times"},
+            {"hi": "तीन गुना", "en": "Three times"}
           ],
-          "answer": {"hi": "-1/8", "en": "-1/8"}
+          "answer": {"hi": "दो गुना", "en": "Two times"}
         },
         {
           "q": {
-            "hi": "संख्या $a^m \times a^n$ किसके बराबर है?",
-            "en": "The number $a^m \times a^n$ is equal to?"
+            "hi": "वृत्त के दो बिंदुओं के बीच के भाग को क्या कहते हैं?",
+            "en": "The piece of a circle between two points is called?"
           },
           "options": [
-            {"hi": "$a^{m+n}$", "en": "$a^{m+n}$"},
-            {"hi": "$a^{mn}$", "en": "$a^{mn}$"},
-            {"hi": "$a^{m-n}$", "en": "$a^{m-n}$"},
-            {"hi": "$2a^{m+n}$", "en": "$2a^{m+n}$"}
+            {"hi": "जीवा", "en": "Chord"},
+            {"hi": "चाप", "en": "Arc"},
+            {"hi": "व्यास", "en": "Diameter"},
+            {"hi": "त्रिज्या", "en": "Radius"}
           ],
-          "answer": {"hi": "$a^{m+n}$", "en": "$a^{m+n}$"}
+          "answer": {"hi": "चाप", "en": "Arc"}
         },
         {
           "q": {
-            "hi": "संख्या $a^m \\div a^n$ का मान क्या है?",
-            "en": "What is the value of $a^m \\div a^n$?"
+            "hi": "संपूर्ण वृत्त की लंबाई को क्या कहा जाता है?",
+            "en": "The length of the complete circle is called?"
           },
           "options": [
-            {"hi": "$a^{m+n}$", "en": "$a^{m+n}$"},
-            {"hi": "$a^{m-n}$", "en": "$a^{m-n}$"},
-            {"hi": "$a^{m/n}$", "en": "$a^{m/n}$"},
-            {"hi": "1", "en": "1"}
+            {"hi": "क्षेत्रफल", "en": "Area"},
+            {"hi": "त्रिज्या", "en": "Radius"},
+            {"hi": "परिधि", "en": "Circumference"},
+            {"hi": "व्यास", "en": "Diameter"}
           ],
-          "answer": {"hi": "$a^{m-n}$", "en": "$a^{m-n}$"}
+          "answer": {"hi": "परिधि", "en": "Circumference"}
         },
         {
           "q": {
-            "hi": "$(a^m)^n$ का सरल रूप क्या है?",
-            "en": "What is the simplified form of $(a^m)^n$?"
+            "hi": "जब दो चाप बराबर हों, तो प्रत्येक को क्या कहते हैं?",
+            "en": "When two arcs are equal, what is each called?"
           },
           "options": [
-            {"hi": "$a^{m+n}$", "en": "$a^{m+n}$"},
-            {"hi": "$a^{m-n}$", "en": "$a^{m-n}$"},
-            {"hi": "$a^{mn}$", "en": "$a^{mn}$"},
-            {"hi": "$a^{m^n}$", "en": "$a^{m^n}$"}
+            {"hi": "पूर्ण वृत्त", "en": "Full circle"},
+            {"hi": "अर्धवृत्त", "en": "Semicircle"},
+            {"hi": "लघु चाप", "en": "Minor arc"},
+            {"hi": "दीर्घ चाप", "en": "Major arc"}
           ],
-          "answer": {"hi": "$a^{mn}$", "en": "$a^{mn}$"}
+          "answer": {"hi": "अर्धवृत्त", "en": "Semicircle"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "$a^m \times b^m$ किसके बराबर है?",
-            "en": "$a^m \times b^m$ is equal to?"
+            "hi": "जीवा और उसके प्रत्येक चाप के बीच के क्षेत्र को क्या कहते हैं?",
+            "en": "The region between a chord and either of its arcs is called?"
           },
           "options": [
-            {"hi": "$(ab)^m$", "en": "$(ab)^m$"},
-            {"hi": "$(a+b)^m$", "en": "$(a+b)^m$"},
-            {"hi": "$ab^{2m}$", "en": "$ab^{2m}$"},
-            {"hi": "$a^m + b^m$", "en": "$a^m + b^m$"}
+            {"hi": "त्रिज्यखंड", "en": "Sector"},
+            {"hi": "वृत्तखंड", "en": "Segment"},
+            {"hi": "अर्धवृत्त", "en": "Semicircle"},
+            {"hi": "परिधि", "en": "Circumference"}
           ],
-          "answer": {"hi": "$(ab)^m$", "en": "$(ab)^m$"}
+          "answer": {"hi": "वृत्तखंड", "en": "Segment"}
         },
         {
           "q": {
-            "hi": "$a^m \\div b^m$ का मान क्या होगा?",
-            "en": "What will be the value of $a^m \\div b^m$?"
+            "hi": "केंद्र को चाप के सिरों से मिलाने वाली त्रिज्याओं और चाप के बीच के क्षेत्र को क्या कहते हैं?",
+            "en": "The region between an arc and the two radii joining its endpoints to the center is called?"
           },
           "options": [
-            {"hi": "$(a/b)^m$", "en": "$(a/b)^m$"},
-            {"hi": "$a^m - b^m$", "en": "$a^m - b^m$"},
-            {"hi": "$(ab)^m$", "en": "$(ab)^m$"},
-            {"hi": "1", "en": "1"}
+            {"hi": "त्रिज्यखंड", "en": "Sector"},
+            {"hi": "वृत्तखंड", "en": "Segment"},
+            {"hi": "जीवा", "en": "Chord"},
+            {"hi": "चाप", "en": "Arc"}
           ],
-          "answer": {"hi": "$(a/b)^m$", "en": "$(a/b)^m$"}
+          "answer": {"hi": "त्रिज्यखंड", "en": "Sector"}
         },
         {
           "q": {
-            "hi": "किसी भी शून्येतर संख्या 'a' के लिए $a^0$ का मान क्या होता है?",
-            "en": "What is the value of $a^0$ for any non-zero number 'a'?"
+            "hi": "वृत्त की बराबर जीवाएँ केंद्र पर कैसा कोण अंतरित करती हैं?",
+            "en": "Equal chords of a circle subtend ______ angles at the center?"
           },
           "options": [
-            {"hi": "0", "en": "0"},
-            {"hi": "1", "en": "1"},
-            {"hi": "a", "en": "a"},
-            {"hi": "-1", "en": "-1"}
+            {"hi": "असमान", "en": "Unequal"},
+            {"hi": "पूरक", "en": "Complementary"},
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "90°"}
           ],
-          "answer": {"hi": "1", "en": "1"}
+          "answer": {"hi": "बराबर", "en": "Equal"}
         },
         {
           "q": {
-            "hi": "पृथ्वी का द्रव्यमान $5.97 \times 10^{24}$ kg है। यहाँ $10^{24}$ क्या दर्शाता है?",
-            "en": "The mass of Earth is $5.97 \times 10^{24}$ kg. What does $10^{24}$ represent here?"
+            "hi": "यदि जीवाओं द्वारा केंद्र पर अंतरित कोण बराबर हों, तो जीवाएँ कैसी होती हैं?",
+            "en": "If the angles subtended by the chords at the center are equal, then the chords are?"
           },
           "options": [
-            {"hi": "बड़ी संख्या का घातांकीय रूप", "en": "Exponential form of a large number"},
-            {"hi": "द्रव्यमान की इकाई", "en": "Unit of mass"},
-            {"hi": "एक ऋणात्मक संख्या", "en": "A negative number"},
-            {"hi": "मानक रूप नहीं है", "en": "Not a standard form"}
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "असमान", "en": "Unequal"},
+            {"hi": "लंब", "en": "Perpendicular"},
+            {"hi": "आधी", "en": "Half"}
           ],
-          "answer": {"hi": "बड़ी संख्या का घातांकीय रूप", "en": "Exponential form of a large number"}
+          "answer": {"hi": "बराबर", "en": "Equal"}
         },
         {
           "q": {
-            "hi": "$2^{-4} \times 2^{-3}$ का मान क्या है?",
-            "en": "What is the value of $2^{-4} \times 2^{-3}$?"
+            "hi": "वृत्त के केंद्र से एक जीवा पर डाला गया लंब उसे क्या करता है?",
+            "en": "The perpendicular from the center of a circle to a chord ______ it?"
           },
           "options": [
-            {"hi": "$2^7$", "en": "$2^7$"},
-            {"hi": "$2^{-7}$", "en": "$2^{-7}$"},
-            {"hi": "$2^{-1}$", "en": "$2^{-1}$"},
-            {"hi": "$2^{12}$", "en": "$2^{12}$"}
+            {"hi": "दुगुना", "en": "Doubles"},
+            {"hi": "त्रैभाजित", "en": "Trisects"},
+            {"hi": "समद्विभाजित", "en": "Bisects"},
+            {"hi": "समाप्त", "en": "Ends"}
           ],
-          "answer": {"hi": "$2^{-7}$", "en": "$2^{-7}$"}
+          "answer": {"hi": "समद्विभाजित", "en": "Bisects"}
         },
         {
           "q": {
-            "hi": "$(-3)^4 \times (-3)^{-4}$ का मान ज्ञात कीजिए।",
-            "en": "Find the value of $(-3)^4 \times $(-3)^{-4}$."
+            "hi": "एक वृत्त के केंद्र से होकर जाने वाली और जीवा को समद्विभाजित करने वाली रेखा जीवा पर क्या होती है?",
+            "en": "The line drawn through the center of a circle to bisect a chord is ______ to the chord?"
           },
           "options": [
-            {"hi": "-3", "en": "-3"},
-            {"hi": "0", "en": "0"},
-            {"hi": "1", "en": "1"},
-            {"hi": "81", "en": "81"}
+            {"hi": "समांतर", "en": "Parallel"},
+            {"hi": "लंब", "en": "Perpendicular"},
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "संपाती", "en": "Coincident"}
           ],
-          "answer": {"hi": "1", "en": "1"}
+          "answer": {"hi": "लंब", "en": "Perpendicular"}
         },
         {
           "q": {
-            "hi": "$5^2 \\div 5^{-3}$ का मान क्या होगा?",
-            "en": "What will be the value of $5^2 \\div 5^{-3}$?"
+            "hi": "तीन असंरेखीय बिंदुओं से होकर कितने वृत्त खींचे जा सकते हैं?",
+            "en": "How many circles can be drawn passing through three non-collinear points?"
           },
           "options": [
-            {"hi": "$5^{-1}$", "en": "$5^{-1}$"},
-            {"hi": "$5^5$", "en": "$5^5$"},
-            {"hi": "$5^{-5}$", "en": "$5^{-5}$"},
-            {"hi": "$5^1$", "en": "$5^1$"}
+            {"hi": "एक और केवल एक", "en": "One and only one"},
+            {"hi": "दो", "en": "Two"},
+            {"hi": "अपरिमित", "en": "Infinitely many"},
+            {"hi": "शून्य", "en": "Zero"}
           ],
-          "answer": {"hi": "$5^5$", "en": "$5^5$"}
+          "answer": {"hi": "एक और केवल एक", "en": "One and only one"}
         },
         {
           "q": {
-            "hi": "$1/3^{-2}$ को सरल करने पर क्या प्राप्त होगा?",
-            "en": "What will be obtained by simplifying $1/3^{-2}$?"
+            "hi": "एक वृत्त की बराबर जीवाएँ केंद्र से कितनी दूरी पर होती हैं?",
+            "en": "Equal chords of a circle are at ______ distance from the center?"
           },
           "options": [
-            {"hi": "1/9", "en": "1/9"},
-            {"hi": "9", "en": "9"},
-            {"hi": "6", "en": "6"},
-            {"hi": "-9", "en": "-9"}
+            {"hi": "अलग-अलग", "en": "Different"},
+            {"hi": "समान", "en": "Equal"},
+            {"hi": "दुगुनी", "en": "Double"},
+            {"hi": "शून्य", "en": "Zero"}
           ],
-          "answer": {"hi": "9", "en": "9"}
+          "answer": {"hi": "समान", "en": "Equal"}
         },
         {
           "q": {
-            "hi": "संख्या $0.000007$ को मानक रूप में कैसे लिखेंगे?",
-            "en": "How to write $0.000007$ in standard form?"
+            "hi": "केंद्र से समान दूरी पर स्थित जीवाएँ आपस में कैसी होती हैं?",
+            "en": "Chords equidistant from the center of a circle are?"
           },
           "options": [
-            {"hi": "$7 \times 10^6$", "en": "$7 \times 10^6$"},
-            {"hi": "$7 \times 10^{-6}$", "en": "$7 \times 10^{-6}$"},
-            {"hi": "$0.7 \times 10^{-5}$", "en": "$0.7 \times 10^{-5}$"},
-            {"hi": "$70 \times 10^{-7}$", "en": "$70 \times 10^{-7}$"}
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "लंब", "en": "Perpendicular"},
+            {"hi": "असमान", "en": "Unequal"},
+            {"hi": "समांतर", "en": "Parallel"}
           ],
-          "answer": {"hi": "$7 \times 10^{-6}$", "en": "$7 \times 10^{-6}$"}
+          "answer": {"hi": "बराबर", "en": "Equal"}
         },
         {
           "q": {
-            "hi": "मानक रूप में $m$ का मान $1 \\leq m < 10$ के बीच होता है, इसे क्या कहते हैं?",
-            "en": "In standard form, $m$ lies between $1 \\leq m < 10$, what is this called?"
+            "hi": "किसी चाप द्वारा केंद्र पर अंतरित कोण, वृत्त के शेष भाग के किसी बिंदु पर अंतरित कोण का कितना होता है?",
+            "en": "The angle subtended by an arc at the center is ______ the angle subtended by it at any point on the remaining part of the circle?"
           },
           "options": [
-            {"hi": "सामान्य रूप", "en": "Usual form"},
-            {"hi": "वैज्ञानिक संकेतन (Scientific Notation)", "en": "Scientific Notation"},
-            {"hi": "घातांकीय विस्तार", "en": "Exponential expansion"},
-            {"hi": "गुणनखंडन", "en": "Factorization"}
+            {"hi": "आधा", "en": "Half"},
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "दुगुना", "en": "Double"},
+            {"hi": "तिगुना", "en": "Triple"}
           ],
-          "answer": {"hi": "वैज्ञानिक संकेतन (Scientific Notation)", "en": "Scientific Notation"}
+          "answer": {"hi": "दुगुना", "en": "Double"}
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "$3^{-2}$ का मान क्या है?",
-            "en": "What is the value of $3^{-2}$?"
+            "hi": "एक ही वृत्तखंड के कोण कैसे होते हैं?",
+            "en": "Angles in the same segment of a circle are?"
           },
           "options": [
-            {"hi": "9", "en": "9"},
-            {"hi": "-9", "en": "-9"},
-            {"hi": "1/9", "en": "1/9"},
-            {"hi": "-1/9", "en": "-1/9"}
+            {"hi": "संपूरक", "en": "Supplementary"},
+            {"hi": "असमान", "en": "Unequal"},
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "शून्य", "en": "Zero"}
           ],
-          "answer": {"hi": "1/9", "en": "1/9"}
+          "answer": {"hi": "बराबर", "en": "Equal"}
         },
         {
           "q": {
-            "hi": "$(-4)^{-2}$ का मान ज्ञात कीजिए।",
-            "en": "Find the value of $(-4)^{-2}$."
+            "hi": "अर्धवृत्त का कोण क्या होता है?",
+            "en": "The angle in a semicircle is?"
           },
           "options": [
-            {"hi": "16", "en": "16"},
-            {"hi": "-16", "en": "-16"},
-            {"hi": "1/16", "en": "1/16"},
-            {"hi": "-1/16", "en": "-1/16"}
+            {"hi": "न्यून कोण", "en": "Acute angle"},
+            {"hi": "अधिक कोण", "en": "Obtuse angle"},
+            {"hi": "समकोण", "en": "Right angle"},
+            {"hi": "ऋजु कोण", "en": "Straight angle"}
           ],
-          "answer": {"hi": "1/16", "en": "1/16"}
+          "answer": {"hi": "समकोण", "en": "Right angle"}
         },
         {
           "q": {
-            "hi": "$(1/2)^{-5}$ किसके बराबर है?",
-            "en": "$(1/2)^{-5}$ is equal to?"
+            "hi": "यदि किसी चतुर्भुज के चारों शीर्ष एक वृत्त पर स्थित हों, तो उसे क्या कहते हैं?",
+            "en": "If all the four vertices of a quadrilateral lie on a circle, what is it called?"
           },
           "options": [
-            {"hi": "1/32", "en": "1/32"},
-            {"hi": "32", "en": "32"},
-            {"hi": "10", "en": "10"},
-            {"hi": "-32", "en": "-32"}
+            {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"},
+            {"hi": "चक्रीय चतुर्भुज", "en": "Cyclic quadrilateral"},
+            {"hi": "समलंब", "en": "Trapezium"},
+            {"hi": "समचतुर्भुज", "en": "Rhombus"}
           ],
-          "answer": {"hi": "32", "en": "32"}
+          "answer": {"hi": "चक्रीय चतुर्भुज", "en": "Cyclic quadrilateral"}
         },
         {
           "q": {
-            "hi": "सरल कीजिए: $2^5 \\div 2^8$",
-            "en": "Simplify: $2^5 \\div 2^8$"
+            "hi": "चक्रीय चतुर्भुज के सम्मुख कोणों के प्रत्येक युग्म का योग कितना होता है?",
+            "en": "The sum of either pair of opposite angles of a cyclic quadrilateral is?"
           },
           "options": [
-            {"hi": "$2^3$", "en": "$2^3$"},
-            {"hi": "$2^{-3}$", "en": "$2^{-3}$"},
-            {"hi": "$2^{13}$", "en": "$2^{13}$"},
-            {"hi": "1", "en": "1"}
+            {"hi": "90°", "en": "90°"},
+            {"hi": "180°", "en": "180°"},
+            {"hi": "270°", "en": "270°"},
+            {"hi": "360°", "en": "360°"}
           ],
-          "answer": {"hi": "$2^{-3}$", "en": "$2^{-3}$"}
+          "answer": {"hi": "180°", "en": "180°"}
         },
         {
           "q": {
-            "hi": "ज्ञात कीजिए: $(3^0 + 4^{-1}) \times 2^2$",
-            "en": "Find: $(3^0 + 4^{-1}) \times 2^2$"
+            "hi": "यदि किसी चतुर्भुज के सम्मुख कोणों के एक युग्म का योग 180° हो, तो चतुर्भुज कैसा होता है?",
+            "en": "If the sum of a pair of opposite angles of a quadrilateral is 180°, the quadrilateral is?"
           },
           "options": [
-            {"hi": "4", "en": "4"},
-            {"hi": "5", "en": "5"},
-            {"hi": "2", "en": "2"},
-            {"hi": "1", "en": "1"}
+            {"hi": "चक्रीय", "en": "Cyclic"},
+            {"hi": "समांतर", "en": "Parallelogram"},
+            {"hi": "आयत", "en": "Rectangle"},
+            {"hi": "वर्ग", "en": "Square"}
           ],
-          "answer": {"hi": "5", "en": "5"}
+          "answer": {"hi": "चक्रीय", "en": "Cyclic"}
         },
         {
           "q": {
-            "hi": "मान ज्ञात कीजिए: $(2^{-1} \times 4^{-1}) \\div 2^{-2}$",
-            "en": "Evaluate: $(2^{-1} \times 4^{-1}) \\div 2^{-2}$"
+            "hi": "वृत्त के अभ्यंतर (Interior) में स्थित बिंदु से वृत्त पर कितनी जीवाएँ खींची जा सकती हैं?",
+            "en": "How many chords can be drawn through a point inside the circle?"
           },
           "options": [
-            {"hi": "1/2", "en": "1/2"},
-            {"hi": "2", "en": "2"},
-            {"hi": "1", "en": "1"},
-            {"hi": "1/4", "en": "1/4"}
+            {"hi": "एक", "en": "One"},
+            {"hi": "दो", "en": "Two"},
+            {"hi": "अपरिमित", "en": "Infinitely many"},
+            {"hi": "शून्य", "en": "Zero"}
           ],
-          "answer": {"hi": "1/2", "en": "1/2"}
+          "answer": {"hi": "अपरिमित", "en": "Infinitely many"}
         },
         {
           "q": {
-            "hi": "$((1/2)^{-2} + (1/3)^{-2} + (1/4)^{-2})$ का मान क्या है?",
-            "en": "What is the value of $((1/2)^{-2} + (1/3)^{-2} + (1/4)^{-2})$?"
+            "hi": "वृत्त की परिधि और उसके व्यास का अनुपात क्या कहलाता है?",
+            "en": "The ratio of the circumference of a circle to its diameter is called?"
           },
           "options": [
-            {"hi": "29", "en": "29"},
-            {"hi": "20", "en": "20"},
-            {"hi": "1/29", "en": "1/29"},
-            {"hi": "9", "en": "9"}
+            {"hi": "त्रिज्या", "en": "Radius"},
+            {"hi": "जीवा", "en": "Chord"},
+            {"hi": "π (पाई)", "en": "π (pi)"},
+            {"hi": "क्षेत्रफल", "en": "Area"}
           ],
-          "answer": {"hi": "29", "en": "29"}
+          "answer": {"hi": "π (पाई)", "en": "π (pi)"}
         },
         {
           "q": {
-            "hi": "$(3^{-1} + 4^{-1} + 5^{-1})^0$ का मान क्या होगा?",
-            "en": "What will be the value of $(3^{-1} + 4^{-1} + 5^{-1})^0$?"
+            "hi": "क्या चक्रीय समांतर चतुर्भुज एक आयत होता है?",
+            "en": "Is a cyclic parallelogram a rectangle?"
           },
           "options": [
-            {"hi": "12", "en": "12"},
-            {"hi": "1", "en": "1"},
-            {"hi": "0", "en": "0"},
-            {"hi": "60", "en": "60"}
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "केवल यदि वह वर्ग हो", "en": "Only if it is a square"},
+            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"}
           ],
-          "answer": {"hi": "1", "en": "1"}
+          "answer": {"hi": "हाँ", "en": "Yes"}
         },
         {
           "q": {
-            "hi": "$((-2/3)^{-2})^2$ का मान ज्ञात कीजिए।",
-            "en": "Find the value of $((-2/3)^{-2})^2$."
+            "hi": "वृत्त के बाहर स्थित बिंदु से वृत्त पर खींची गई सबसे लंबी दूरी कौन सी होती है?",
+            "en": "Which is the longest distance drawn from a point outside the circle to the circle?"
           },
           "options": [
-            {"hi": "81/16", "en": "81/16"},
-            {"hi": "16/81", "en": "16/81"},
-            {"hi": "-81/16", "en": "-81/16"},
-            {"hi": "1", "en": "1"}
+            {"hi": "त्रिज्या", "en": "Radius"},
+            {"hi": "जो केंद्र से होकर जाए", "en": "The one passing through the center"},
+            {"hi": "जीवा", "en": "Chord"},
+            {"hi": "स्पर्श रेखा", "en": "Tangent"}
           ],
-          "answer": {"hi": "81/16", "en": "81/16"}
+          "answer": {"hi": "जो केंद्र से होकर जाए", "en": "The one passing through the center"}
         },
         {
           "q": {
-            "hi": "सरल कीजिए: $(8^{-1} \times 5^3) / 2^{-4}$",
-            "en": "Simplify: $(8^{-1} \times 5^3) / 2^{-4}$"
+            "hi": "लघु वृत्तखंड में बना कोण कैसा होता है?",
+            "en": "The angle formed in a minor segment is?"
           },
           "options": [
-            {"hi": "250", "en": "250"},
-            {"hi": "125", "en": "125"},
-            {"hi": "500", "en": "500"},
-            {"hi": "1000", "en": "1000"}
+            {"hi": "न्यून कोण", "en": "Acute angle"},
+            {"hi": "समकोण", "en": "Right angle"},
+            {"hi": "अधिक कोण", "en": "Obtuse angle"},
+            {"hi": "ऋजु कोण", "en": "Straight angle"}
           ],
-          "answer": {"hi": "250", "en": "250"}
+          "answer": {"hi": "अधिक कोण", "en": "Obtuse angle"}
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "यदि $5^m \\div 5^{-3} = 5^5$ है, तो m का मान क्या है?",
-            "en": "If $5^m \\div 5^{-3} = 5^5$, what is the value of m?"
+            "hi": "दीर्घ वृत्तखंड में बना कोण कैसा होता है?",
+            "en": "The angle formed in a major segment is?"
           },
           "options": [
-            {"hi": "2", "en": "2"},
-            {"hi": "8", "en": "8"},
-            {"hi": "-2", "en": "-2"},
-            {"hi": "5", "en": "5"}
+            {"hi": "न्यून कोण", "en": "Acute angle"},
+            {"hi": "समकोण", "en": "Right angle"},
+            {"hi": "अधिक कोण", "en": "Obtuse angle"},
+            {"hi": "प्रतिवर्ती कोण", "en": "Reflex angle"}
           ],
-          "answer": {"hi": "2", "en": "2"}
+          "answer": {"hi": "न्यून कोण", "en": "Acute angle"}
         },
         {
           "q": {
-            "hi": "$(1/3)^{-1} - (1/4)^{-1}$ का मान ज्ञात कीजिए।",
-            "en": "Find the value of $(1/3)^{-1} - (1/4)^{-1}$."
+            "hi": "यदि दो वृत्त परस्पर दो बिंदुओं पर प्रतिच्छेद करें, तो उनके केंद्र जीवा के क्या होते हैं?",
+            "en": "If two circles intersect at two points, their centers lie on the ______ of the common chord?"
           },
           "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "-1", "en": "-1"},
-            {"hi": "7", "en": "7"},
-            {"hi": "1/12", "en": "1/12"}
+            {"hi": "समांतर", "en": "Parallel"},
+            {"hi": "लंब समद्विभाजक", "en": "Perpendicular bisector"},
+            {"hi": "शीर्ष", "en": "Vertex"},
+            {"hi": "अंत में", "en": "At the end"}
           ],
-          "answer": {"hi": "-1", "en": "-1"}
+          "answer": {"hi": "लंब समद्विभाजक", "en": "Perpendicular bisector"}
         },
         {
           "q": {
-            "hi": "$(5/8)^{-7} \times (8/5)^{-4}$ का मान क्या होगा?",
-            "en": "What will be the value of $(5/8)^{-7} \times (8/5)^{-4}$?"
+            "hi": "वृत्त के चाप द्वारा केंद्र पर बना कोण 60° है। वृत्त के शेष भाग पर बना कोण क्या होगा?",
+            "en": "The angle subtended by an arc at the center is 60°. What will be the angle subtended on the remaining part?"
           },
           "options": [
-            {"hi": "512/125", "en": "512/125"},
-            {"hi": "125/512", "en": "125/512"},
-            {"hi": "1", "en": "1"},
-            {"hi": "8/5", "en": "8/5"}
+            {"hi": "60°", "en": "60°"},
+            {"hi": "120°", "en": "120°"},
+            {"hi": "30°", "en": "30°"},
+            {"hi": "90°", "en": "90°"}
           ],
-          "answer": {"hi": "512/125", "en": "512/125"}
+          "answer": {"hi": "30°", "en": "30°"}
         },
         {
           "q": {
-            "hi": "$0.0000000000085$ को मानक रूप में लिखिए।",
-            "en": "Write $0.0000000000085$ in standard form."
+            "hi": "एक ही केंद्र वाले दो या दो से अधिक वृत्तों को क्या कहते हैं?",
+            "en": "Two or more circles with the same center are called?"
           },
           "options": [
-            {"hi": "$8.5 \times 10^{-12}$", "en": "$8.5 \times 10^{-12}$"},
-            {"hi": "$8.5 \times 10^{-11}$", "en": "$8.5 \times 10^{-11}$"},
-            {"hi": "$85 \times 10^{-13}$", "en": "$85 \times 10^{-13}$"},
-            {"hi": "$0.85 \times 10^{-11}$", "en": "$0.85 \times 10^{-11}$"}
+            {"hi": "सर्वांगसम वृत्त", "en": "Congruent circles"},
+            {"hi": "सकेंद्री वृत्त", "en": "Concentric circles"},
+            {"hi": "चक्रीय वृत्त", "en": "Cyclic circles"},
+            {"hi": "भिन्न वृत्त", "en": "Distinct circles"}
           ],
-          "answer": {"hi": "$8.5 \times 10^{-12}$", "en": "$8.5 \times 10^{-12}$"}
+          "answer": {"hi": "सकेंद्री वृत्त", "en": "Concentric circles"}
         },
         {
           "q": {
-            "hi": "6020000000000000 का मानक रूप क्या है?",
-            "en": "What is the standard form of 6020000000000000?"
+            "hi": "वृत्त की त्रिज्या 5 सेमी है। इसकी सबसे लंबी जीवा की लंबाई क्या होगी?",
+            "en": "The radius of a circle is 5 cm. What is the length of its longest chord?"
           },
           "options": [
-            {"hi": "$6.02 \times 10^{15}$", "en": "$6.02 \times 10^{15}$"},
-            {"hi": "$6.02 \times 10^{13}$", "en": "$6.02 \times 10^{13}$"},
-            {"hi": "$602 \times 10^{13}$", "en": "$602 \times 10^{13}$"},
-            {"hi": "$6.02 \times 10^{-15}$", "en": "$6.02 \times 10^{-15}$"}
+            {"hi": "5 सेमी", "en": "5 cm"},
+            {"hi": "10 सेमी", "en": "10 cm"},
+            {"hi": "2.5 सेमी", "en": "2.5 cm"},
+            {"hi": "15 सेमी", "en": "15 cm"}
           ],
-          "answer": {"hi": "$6.02 \times 10^{15}$", "en": "$6.02 \times 10^{15}$"}
+          "answer": {"hi": "10 सेमी", "en": "10 cm"}
         },
         {
           "q": {
-            "hi": "$3.02 \times 10^{-6}$ को सामान्य रूप में बदलिए।",
-            "en": "Change $3.02 \times 10^{-6}$ to usual form."
+            "hi": "जीवा द्वारा केंद्र पर बना कोण 90° है। यह जीवा और त्रिज्याओं से बना त्रिभुज कैसा होगा?",
+            "en": "The angle subtended by a chord at the center is 90°. What kind of triangle is formed by the chord and radii?"
           },
           "options": [
-            {"hi": "0.00000302", "en": "0.00000302"},
-            {"hi": "0.0000302", "en": "0.0000302"},
-            {"hi": "3020000", "en": "3020000"},
-            {"hi": "0.000302", "en": "0.000302"}
+            {"hi": "समबाहु", "en": "Equilateral"},
+            {"hi": "समद्विबाहु समकोण", "en": "Isosceles right angled"},
+            {"hi": "विषमबाहु", "en": "Scalene"},
+            {"hi": "न्यूनकोण", "en": "Acute angled"}
           ],
-          "answer": {"hi": "0.00000302", "en": "0.00000302"}
+          "answer": {"hi": "समद्विबाहु समकोण", "en": "Isosceles right angled"}
         },
         {
           "q": {
-            "hi": "$4.5 \times 10^4$ का सामान्य रूप क्या है?",
-            "en": "What is the usual form of $4.5 \times 10^4$?"
+            "hi": "क्या वृत्त के केंद्र से जीवा की दूरी जीवा की लंबाई बढ़ने पर बढ़ती है?",
+            "en": "Does the distance of a chord from the center increase as the length of the chord increases?"
           },
           "options": [
-            {"hi": "45000", "en": "45000"},
-            {"hi": "4500", "en": "4500"},
-            {"hi": "0.00045", "en": "0.00045"},
-            {"hi": "450000", "en": "450000"}
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं (घटती है)", "en": "No (it decreases)"},
+            {"hi": "समान रहती है", "en": "Remains the same"},
+            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"}
           ],
-          "answer": {"hi": "45000", "en": "45000"}
+          "answer": {"hi": "नहीं (घटती है)", "en": "No (it decreases)"}
         },
         {
           "q": {
-            "hi": "1 माइक्रोन $1/1000000$ m के बराबर है, इसे मानक रूप में कैसे लिखेंगे?",
-            "en": "1 micron is equal to $1/1000000$ m, how to write it in standard form?"
+            "hi": "एक चक्रीय चतुर्भुज ABCD में, $\\angle A = 80^\\circ$ है। $\\angle C$ का मान क्या होगा?",
+            "en": "In a cyclic quadrilateral ABCD, $\\angle A = 80^\\circ$. What is the value of $\\angle C$?"
           },
           "options": [
-            {"hi": "$10^6$ m", "en": "$10^6$ m"},
-            {"hi": "$10^{-6}$ m", "en": "$10^{-6}$ m"},
-            {"hi": "$1 \times 10^{-5}$ m", "en": "$1 \times 10^{-5}$ m"},
-            {"hi": "$0.1 \times 10^{-6}$ m", "en": "$0.1 \times 10^{-6}$ m"}
+            {"hi": "80°", "en": "80°"},
+            {"hi": "100°", "en": "100°"},
+            {"hi": "180°", "en": "180°"},
+            {"hi": "90°", "en": "90°"}
           ],
-          "answer": {"hi": "$10^{-6}$ m", "en": "$10^{-6}$ m"}
+          "answer": {"hi": "100°", "en": "100°"}
         },
         {
           "q": {
-            "hi": "एक बैक्टीरिया का माप $0.0000005$ m है। इसका मानक रूप क्या है?",
-            "en": "The size of a bacteria is $0.0000005$ m. What is its standard form?"
+            "hi": "वृत्त के तल में स्थित वह बिंदु जिसकी वृत्त के केंद्र से दूरी त्रिज्या से कम हो, कहाँ स्थित होगा?",
+            "en": "A point in the plane of a circle whose distance from the center is less than the radius lies?"
           },
           "options": [
-            {"hi": "$5 \times 10^{-7}$ m", "en": "$5 \times 10^{-7}$ m"},
-            {"hi": "$5 \times 10^7$ m", "en": "$5 \times 10^7$ m"},
-            {"hi": "$0.5 \times 10^{-6}$ m", "en": "$0.5 \times 10^{-6}$ m"},
-            {"hi": "$50 \times 10^{-8}$ m", "en": "$50 \times 10^{-8}$ m"}
+            {"hi": "वृत्त के बहिर्भाग में", "en": "In the exterior"},
+            {"hi": "वृत्त के अभ्यंतर में", "en": "In the interior"},
+            {"hi": "वृत्त पर", "en": "On the circle"},
+            {"hi": "केंद्र पर", "en": "At the center"}
           ],
-          "answer": {"hi": "$5 \times 10^{-7}$ m", "en": "$5 \times 10^{-7}$ m"}
+          "answer": {"hi": "वृत्त के अभ्यंतर में", "en": "In the interior"}
         },
         {
           "q": {
-            "hi": "एक कागज की मोटाई $0.07$ mm है। मानक रूप में यह क्या होगा?",
-            "en": "The thickness of a paper is $0.07$ mm. What will it be in standard form?"
+            "hi": "दो सर्वांगसम वृत्तों की त्रिज्याएँ कैसी होती हैं?",
+            "en": "Radii of two congruent circles are?"
           },
           "options": [
-            {"hi": "$7 \times 10^{-2}$ mm", "en": "$7 \times 10^{-2}$ mm"},
-            {"hi": "$7 \times 10^{-1}$ mm", "en": "$7 \times 10^{-1}$ mm"},
-            {"hi": "$0.7 \times 10^{-1}$ mm", "en": "$0.7 \times 10^{-1}$ mm"},
-            {"hi": "$7 \times 10^2$ mm", "en": "$7 \times 10^2$ mm"}
+            {"hi": "अलग-अलग", "en": "Different"},
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "अनुपात में", "en": "In ratio"},
+            {"hi": "शून्य", "en": "Zero"}
           ],
-          "answer": {"hi": "$7 \times 10^{-2}$ mm", "en": "$7 \times 10^{-2}$ mm"}
+          "answer": {"hi": "बराबर", "en": "Equal"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "यदि आधार ऋणात्मक हो और घात सम (even) हो, तो उत्तर कैसा होगा?",
-            "en": "If the base is negative and the power is even, what will be the result?"
+            "hi": "यदि वृत्त की दो जीवाएँ केंद्र से समान दूरी पर हों, तो वे क्या कहलाती हैं?",
+            "en": "If two chords of a circle are equidistant from the center, they are?"
           },
           "options": [
-            {"hi": "धनात्मक", "en": "Positive"},
-            {"hi": "ऋणात्मक", "en": "Negative"},
-            {"hi": "शून्य", "en": "Zero"},
-            {"hi": "कह नहीं सकते", "en": "Cannot say"}
+            {"hi": "समांतर", "en": "Parallel"},
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "लंब", "en": "Perpendicular"},
+            {"hi": "तिर्यक", "en": "Transversal"}
           ],
-          "answer": {"hi": "धनात्मक", "en": "Positive"}
+          "answer": {"hi": "बराबर", "en": "Equal"}
         },
         {
           "q": {
-            "hi": "यदि आधार ऋणात्मक हो और घात विषम (odd) हो, तो उत्तर कैसा होगा?",
-            "en": "If the base is negative and the power is odd, what will be the result?"
+            "hi": "वृत्त की एक जीवा त्रिज्या के बराबर है। इसके द्वारा लघु चाप पर बना कोण क्या होगा?",
+            "en": "A chord of a circle is equal to the radius. What is the angle subtended by it on the minor arc?"
           },
           "options": [
-            {"hi": "धनात्मक", "en": "Positive"},
-            {"hi": "ऋणात्मक", "en": "Negative"},
-            {"hi": "1", "en": "1"},
-            {"hi": "परिभाषित नहीं", "en": "Not defined"}
+            {"hi": "30°", "en": "30°"},
+            {"hi": "60°", "en": "60°"},
+            {"hi": "150°", "en": "150°"},
+            {"hi": "120°", "en": "120°"}
           ],
-          "answer": {"hi": "ऋणात्मक", "en": "Negative"}
+          "answer": {"hi": "150°", "en": "150°"}
         },
         {
           "q": {
-            "hi": "$(x/y)^{-m}$ किसके बराबर है?",
-            "en": "$(x/y)^{-m}$ is equal to?"
+            "hi": "अर्धवृत्त का व्यास केंद्र पर कितने डिग्री का कोण बनाता है?",
+            "en": "How many degrees angle does the diameter of a semicircle make at the center?"
           },
           "options": [
-            {"hi": "$(y/x)^m$", "en": "$(y/x)^m$"},
-            {"hi": "$(x/y)^m$", "en": "$(x/y)^m$"},
-            {"hi": "$1/(x/y)^m$", "en": "$1/(x/y)^m$"},
-            {"hi": "विकल्प (hi) और (iii) दोनों", "en": "Both options (hi) and (iii)"}
+            {"hi": "90°", "en": "90°"},
+            {"hi": "180°", "en": "180°"},
+            {"hi": "360°", "en": "360°"},
+            {"hi": "0°"}
           ],
-          "answer": {"hi": "विकल्प (hi) और (iii) दोनों", "en": "Both options (hi) and (iii)"}
+          "answer": {"hi": "180°", "en": "180°"}
         },
         {
           "q": {
-            "hi": "$3.61492 \times 10^6$ का सामान्य रूप क्या है?",
-            "en": "What is the usual form of $3.61492 \times 10^6$?"
+            "hi": "वृत्त के एक बिंदु से कितनी स्पर्श रेखाएँ खींची जा सकती हैं?",
+            "en": "How many tangents can be drawn from a single point on the circle?"
           },
           "options": [
-            {"hi": "3614920", "en": "3614920"},
-            {"hi": "361492", "en": "361492"},
-            {"hi": "36149.2", "en": "36149.2"},
-            {"hi": "36149200", "en": "36149200"}
+            {"hi": "एक", "en": "One"},
+            {"hi": "दो", "en": "Two"},
+            {"hi": "अपरिमित", "en": "Infinitely many"},
+            {"hi": "शून्य", "en": "Zero"}
           ],
-          "answer": {"hi": "3614920", "en": "3614920"}
+          "answer": {"hi": "एक", "en": "One"}
         },
         {
           "q": {
-            "hi": "बहुत छोटी संख्याओं को पढ़ने और समझने के लिए किसका उपयोग किया जाता है?",
-            "en": "What is used to read and understand very small numbers?"
+            "hi": "क्या प्रत्येक वृत्त एक उत्तल (Convex) आकृति है?",
+            "en": "Is every circle a convex figure?"
           },
           "options": [
-            {"hi": "धनात्मक घातांक", "en": "Positive exponents"},
-            {"hi": "ऋणात्मक घातांक", "en": "Negative exponents"},
-            {"hi": "केवल शून्य", "en": "Only zero"},
-            {"hi": "बड़ी संख्याएँ", "en": "Large numbers"}
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "केवल यदि त्रिज्या बड़ी हो", "en": "Only if radius is large"},
+            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"}
           ],
-          "answer": {"hi": "ऋणात्मक घातांक", "en": "Negative exponents"}
+          "answer": {"hi": "हाँ", "en": "Yes"}
         },
         {
           "q": {
-            "hi": "सरल कीजिए: $25 \times t^{-4} / (5^{-3} \times 10 \times t^{-8})$ ($t \neq 0$)",
-            "en": "Simplify: $25 \times t^{-4} / (5^{-3} \times 10 \times t^{-8})$ ($t \neq 0$)"
+            "hi": "वृत्त के केंद्र से जीवा तक की न्यूनतम दूरी क्या कहलाती है?",
+            "en": "What is the minimum distance from the center to a chord called?"
           },
           "options": [
-            {"hi": "$625t^4/2$", "en": "$625t^4/2$"},
-            {"hi": "$125t^4/2$", "en": "$125t^4/2$"},
-            {"hi": "$5^4t^4$", "en": "$5^4t^4$"},
-            {"hi": "$625t^{-4}/2$", "en": "$625t^{-4}/2$"}
+            {"hi": "त्रिज्या", "en": "Radius"},
+            {"hi": "शीर्षलंब", "en": "Altitude"},
+            {"hi": "लंब दूरी", "en": "Perpendicular distance"},
+            {"hi": "जीवा", "en": "Chord"}
           ],
-          "answer": {"hi": "$625t^4/2$", "en": "$625t^4/2$"}
+          "answer": {"hi": "लंब दूरी", "en": "Perpendicular distance"}
         },
         {
           "q": {
-            "hi": "$3^{-5} \times 10^{-5} \times 125 / (5^{-7} \times 6^{-5})$ का मान क्या है?",
-            "en": "What is the value of $3^{-5} \times 10^{-5} \times 125 / (5^{-7} \times 6^{-5})$?"
+            "hi": "वृत्त का केंद्र हमेशा कहाँ स्थित होता है?",
+            "en": "The center of a circle always lies in its?"
           },
           "options": [
-            {"hi": "$5^5$", "en": "$5^5$"},
-            {"hi": "1", "en": "1"},
-            {"hi": "$5^3$", "en": "$5^3$"},
-            {"hi": "3125", "en": "3125"}
+            {"hi": "बहिर्भाग (Exterior)", "en": "Exterior"},
+            {"hi": "अभ्यंतर (Interior)", "en": "Interior"},
+            {"hi": "परिधि पर", "en": "On the circumference"},
+            {"hi": "जीवा पर", "en": "On the chord"}
           ],
-          "answer": {"hi": "1", "en": "1"}
+          "answer": {"hi": "अभ्यंतर (Interior)", "en": "Interior"}
         },
         {
           "q": {
-            "hi": "0.00003 का मानक रूप क्या है?",
-            "en": "What is the standard form of 0.00003?"
+            "hi": "एक वृत्त में कितनी बराबर जीवाएँ हो सकती हैं?",
+            "en": "How many equal chords can a circle have?"
           },
           "options": [
-            {"hi": "$3 \times 10^{-5}$", "en": "$3 \times 10^{-5}$"},
-            {"hi": "$3 \times 10^{-4}$", "en": "$3 \times 10^{-4}$"},
-            {"hi": "$3 \times 10^5$", "en": "$3 \times 10^5$"},
-            {"hi": "$0.3 \times 10^{-4}$", "en": "$0.3 \times 10^{-4}$"}
+            {"hi": "सीमित", "en": "Limited"},
+            {"hi": "अपरिमित", "en": "Infinitely many"},
+            {"hi": "केवल दो", "en": "Only two"},
+            {"hi": "शून्य", "en": "Zero"}
           ],
-          "answer": {"hi": "$3 \times 10^{-5}$", "en": "$3 \times 10^{-5}$"}
+          "answer": {"hi": "अपरिमित", "en": "Infinitely many"}
         },
         {
           "q": {
-            "hi": "किसी संख्या का व्युत्क्रम (reciprocal) ज्ञात करने के लिए घातांक का चिह्न क्या किया जाता है?",
-            "en": "To find the reciprocal of a number, what is done to the sign of the exponent?"
+            "hi": "चाप द्वारा केंद्र पर अंतरित कोण 180° है। यह चाप क्या है?",
+            "en": "The angle subtended by an arc at the center is 180°. What is this arc?"
           },
           "options": [
-            {"hi": "बदल दिया जाता है", "en": "Changed/Toggled"},
-            {"hi": "वही रखा जाता है", "en": "Kept same"},
-            {"hi": "हटा दिया जाता है", "en": "Removed"},
-            {"hi": "दुगुना किया जाता है", "en": "Doubled"}
+            {"hi": "लघु चाप", "en": "Minor arc"},
+            {"hi": "दीर्घ चाप", "en": "Major arc"},
+            {"hi": "अर्धवृत्त", "en": "Semicircle"},
+            {"hi": "जीवा", "en": "Chord"}
           ],
-          "answer": {"hi": "बदल दिया जाता है", "en": "Changed/Toggled"}
+          "answer": {"hi": "अर्धवृत्त", "en": "Semicircle"}
         },
         {
           "q": {
-            "hi": "$a^m / a^n$ के लिए यदि m < n है, तो परिणाम कैसा होगा?",
-            "en": "For $a^m / a^n$, if m < n, how will the result be?"
+            "hi": "वृत्त की त्रिज्या को दुगुना करने पर उसकी परिधि पर क्या प्रभाव पड़ेगा?",
+            "en": "What will be the effect on the circumference if the radius is doubled?"
           },
           "options": [
-            {"hi": "ऋणात्मक घात वाला", "en": "With negative power"},
-            {"hi": "धनात्मक घात वाला", "en": "With positive power"},
-            {"hi": "शून्य", "en": "Zero"},
-            {"hi": "अपरिभाषित", "en": "Undefined"}
+            {"hi": "समान रहेगी", "en": "Remains same"},
+            {"hi": "दुगुनी हो जाएगी", "en": "Will be doubled"},
+            {"hi": "आधी हो जाएगी", "en": "Will be halved"},
+            {"hi": "चार गुनी हो जाएगी", "en": "Will be four times"}
           ],
-          "answer": {"hi": "ऋणात्मक घात वाला", "en": "With negative power"}
+          "answer": {"hi": "दुगुनी हो जाएगी", "en": "Will be doubled"}
         }
       ]
     },
