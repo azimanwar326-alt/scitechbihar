@@ -5300,661 +5300,661 @@
       "section1": [
         {
           "q": {
-            "hi": "किसी बंद समतल आकृति की सीमा के चारों ओर की दूरी क्या कहलाती है?",
-            "en": "What is the distance around the boundary of a closed plane figure called?"
+            "hi": "एक सरल बंद आकृति द्वारा तल का घेरा हुआ भाग क्या कहलाता है?",
+            "en": "What is the part of the plane enclosed by a simple closed figure called?"
           },
           "options": [
-            {"hi": "क्षेत्रफल", "en": "Area"},
-            {"hi": "परिमाप", "en": "Perimeter"},
+            {"hi": "परिधि", "en": "Circumference"},
+            {"hi": "तलीय क्षेत्र", "en": "Planar region"},
             {"hi": "आयतन", "en": "Volume"},
-            {"hi": "सतह", "en": "Surface"}
+            {"hi": "विकर्ण", "en": "Diagonal"}
           ],
-          "answer": {"hi": "परिमाप", "en": "Perimeter"}
+          "answer": {"hi": "तलीय क्षेत्र", "en": "Planar region"}
         },
         {
           "q": {
-            "hi": "आकृति द्वारा घिरे हुए क्षेत्र को क्या कहते हैं?",
-            "en": "What is the region enclosed by a figure called?"
+            "hi": "तलीय क्षेत्र के परिमाण या माप को उस आकृति का क्या कहा जाता है?",
+            "en": "What is the magnitude or measure of a planar region called?"
           },
           "options": [
-            {"hi": "परिमाप", "en": "Perimeter"},
             {"hi": "क्षेत्रफल", "en": "Area"},
-            {"hi": "ऊँचाई", "en": "Height"},
-            {"hi": "चौड़ाई", "en": "Width"}
+            {"hi": "परिमाप", "en": "Perimeter"},
+            {"hi": "लंबाई", "en": "Length"},
+            {"hi": "कोण", "en": "Angle"}
           ],
           "answer": {"hi": "क्षेत्रफल", "en": "Area"}
         },
         {
           "q": {
-            "hi": "भुजा 'a' वाले वर्ग का क्षेत्रफल क्या होगा?",
-            "en": "What is the area of a square with side 'a'?"
+            "hi": "दो सर्वांगसम आकृतियों के क्षेत्रफल हमेशा कैसे होते हैं?",
+            "en": "The areas of two congruent figures are always?"
           },
           "options": [
-            {"hi": "4a", "en": "4a"},
-            {"hi": "a²", "en": "a²"},
-            {"hi": "2a", "en": "2a"},
-            {"hi": "a³", "en": "a³"}
+            {"hi": "असमान", "en": "Unequal"},
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "आधे", "en": "Half"},
+            {"hi": "शून्य", "en": "Zero"}
           ],
-          "answer": {"hi": "a²", "en": "a²"}
+          "answer": {"hi": "बराबर", "en": "Equal"}
         },
         {
           "q": {
-            "hi": "आयत का क्षेत्रफल ज्ञात करने का सूत्र क्या है?",
-            "en": "What is the formula to find the area of a rectangle?"
+            "hi": "यदि दो आकृतियों के क्षेत्रफल बराबर हों, तो क्या वे सदैव सर्वांगसम होंगी?",
+            "en": "If two figures have equal areas, must they always be congruent?"
           },
           "options": [
-            {"hi": "लंबाई + चौड़ाई", "en": "Length + Breadth"},
-            {"hi": "लंबाई × चौड़ाई", "en": "Length × Breadth"},
-            {"hi": "2 × (लंबाई + चौड़ाई)", "en": "2 × (Length + Breadth)"},
-            {"hi": "लंबाई / चौड़ाई", "en": "Length / Breadth"}
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "केवल त्रिभुजों के लिए", "en": "Only for triangles"},
+            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"}
           ],
-          "answer": {"hi": "लंबाई × चौड़ाई", "en": "Length × Breadth"}
+          "answer": {"hi": "नहीं", "en": "No"}
         },
         {
           "q": {
-            "hi": "त्रिभुज का क्षेत्रफल क्या होता है?",
-            "en": "What is the area of a triangle?"
+            "hi": "दो आकृतियाँ एक ही आधार और एक ही समांतर रेखाओं के बीच होती हैं, यदि उनमें क्या हो?",
+            "en": "Two figures are on the same base and between the same parallels if they have a?"
           },
           "options": [
-            {"hi": "आधार × ऊँचाई", "en": "Base × Height"},
-            {"hi": "½ × आधार × ऊँचाई", "en": "½ × Base × Height"},
-            {"hi": "2 × आधार × ऊँचाई", "en": "2 × Base × Height"},
-            {"hi": "आधार + ऊँचाई", "en": "Base + Height"}
+            {"hi": "उभयनिष्ठ शीर्ष", "en": "Common vertex"},
+            {"hi": "उभयनिष्ठ आधार", "en": "Common base"},
+            {"hi": "समान विकर्ण", "en": "Same diagonal"},
+            {"hi": "उभयनिष्ठ कोण", "en": "Common angle"}
           ],
-          "answer": {"hi": "½ × आधार × ऊँचाई", "en": "½ × Base × Height"}
+          "answer": {"hi": "उभयनिष्ठ आधार", "en": "Common base"}
         },
         {
           "q": {
-            "hi": "समांतर चतुर्भुज का क्षेत्रफल क्या है?",
-            "en": "What is the area of a parallelogram?"
+            "hi": "एक ही आधार और एक ही समांतर रेखाओं के बीच स्थित समांतर चतुर्भुज क्षेत्रफल में कैसे होते हैं?",
+            "en": "Parallelograms on the same base and between the same parallels are _______ in area?"
           },
           "options": [
-            {"hi": "आधार × ऊँचाई", "en": "Base × Height"},
-            {"hi": "½ × आधार × ऊँचाई", "en": "½ × Base × Height"},
-            {"hi": "भुजा²", "en": "Side²"},
-            {"hi": "2 × (आधार + ऊँचाई)", "en": "2 × (Base + Height)"}
+            {"hi": "असमान", "en": "Unequal"},
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "दुगुने", "en": "Double"},
+            {"hi": "आधे", "en": "Half"}
           ],
-          "answer": {"hi": "आधार × ऊँचाई", "en": "Base × Height"}
+          "answer": {"hi": "बराबर", "en": "Equal"}
         },
         {
           "q": {
-            "hi": "त्रिज्या 'r' वाले वृत्त का क्षेत्रफल क्या है?",
-            "en": "What is the area of a circle with radius 'r'?"
+            "hi": "समांतर चतुर्भुज का क्षेत्रफल किसके गुणनफल के बराबर होता है?",
+            "en": "The area of a parallelogram is the product of its?"
           },
           "options": [
-            {"hi": "2πr", "en": "2πr"},
-            {"hi": "πr²", "en": "πr²"},
-            {"hi": "πr", "en": "πr"},
-            {"hi": "2πr²", "en": "2πr²"}
+            {"hi": "दो भुजाओं के", "en": "Two sides"},
+            {"hi": "आधार और संगत शीर्षलंब के", "en": "Base and corresponding altitude"},
+            {"hi": "विकर्णों के", "en": "Diagonals"},
+            {"hi": "आधार और परिमाप के", "en": "Base and perimeter"}
           ],
-          "answer": {"hi": "πr²", "en": "πr²"}
+          "answer": {"hi": "आधार और संगत शीर्षलंब के", "en": "Base and corresponding altitude"}
         },
         {
           "q": {
-            "hi": "समलंब (Trapezium) का क्षेत्रफल ज्ञात करने का सूत्र क्या है?",
-            "en": "What is the formula for the area of a trapezium?"
+            "hi": "यदि एक त्रिभुज और एक समांतर चतुर्भुज एक ही आधार और एक ही समांतर रेखाओं के बीच स्थित हों, तो त्रिभुज का क्षेत्रफल समांतर चतुर्भुज के क्षेत्रफल का कितना होता है?",
+            "en": "If a triangle and a parallelogram are on the same base and between same parallels, the area of triangle is _______ of the area of parallelogram?"
           },
           "options": [
-            {"hi": "ऊँचाई × (समांतर भुजाओं का योग)", "en": "Height × (Sum of parallel sides)"},
-            {"hi": "½ × ऊँचाई × (समांतर भुजाओं का योग)", "en": "½ × Height × (Sum of parallel sides)"},
-            {"hi": "आधार × ऊँचाई", "en": "Base × Height"},
-            {"hi": "½ × आधार × ऊँचाई", "en": "½ × Base × Height"}
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "दुगुना", "en": "Double"},
+            {"hi": "आधा", "en": "Half"},
+            {"hi": "एक-चौथाई", "en": "One-fourth"}
           ],
-          "answer": {"hi": "½ × ऊँचाई × (समांतर भुजाओं का योग)", "en": "½ × Height × (Sum of parallel sides)"}
+          "answer": {"hi": "आधा", "en": "Half"}
         },
         {
           "q": {
-            "hi": "समचतुर्भुज (Rhombus) का क्षेत्रफल विकर्णों d₁ और d₂ के रूप में क्या है?",
-            "en": "What is the area of a rhombus in terms of diagonals d₁ and d₂?"
+            "hi": "एक ही आधार और एक ही समांतर रेखाओं के बीच स्थित त्रिभुज क्षेत्रफल में कैसे होते हैं?",
+            "en": "Triangles on the same base and between the same parallels are _______ in area?"
           },
           "options": [
-            {"hi": "d₁ × d₂", "en": "d₁ × d₂"},
-            {"hi": "½ × d₁ × d₂", "en": "½ × d₁ × d₂"},
-            {"hi": "2 × (d₁ + d₂)", "en": "2 × (d₁ + d₂)"},
-            {"hi": "d₁ + d₂", "en": "d₁ + d₂"}
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "असमान", "en": "Unequal"},
+            {"hi": "आधे", "en": "Half"},
+            {"hi": "दुगुने", "en": "Double"}
           ],
-          "answer": {"hi": "½ × d₁ × d₂", "en": "½ × d₁ × d₂"}
+          "answer": {"hi": "बराबर", "en": "Equal"}
         },
         {
           "q": {
-            "hi": "किसी सामान्य चतुर्भुज का क्षेत्रफल ज्ञात करने के लिए उसे किन भागों में बाँटा जा सकता है?",
-            "en": "Into which parts can a general quadrilateral be divided to find its area?"
+            "hi": "त्रिभुज का क्षेत्रफल उसके आधार और संगत शीर्षलंब के गुणनफल का कितना होता है?",
+            "en": "The area of a triangle is _______ the product of its base and corresponding altitude?"
           },
           "options": [
-            {"hi": "दो त्रिभुजों में", "en": "Into two triangles"},
-            {"hi": "दो वृत्तों में", "en": "Into two circles"},
-            {"hi": "चार वर्गों में", "en": "Into four squares"},
-            {"hi": "दो बेलनों में", "en": "Into two cylinders"}
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "दुगुना", "en": "Double"},
+            {"hi": "आधा", "en": "Half"},
+            {"hi": "एक-तिहाई", "en": "One-third"}
           ],
-          "answer": {"hi": "दो त्रिभुजों में", "en": "Into two triangles"}
+          "answer": {"hi": "आधा", "en": "Half"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "एक ठोस का पृष्ठीय क्षेत्रफल क्या होता है?",
-            "en": "What is the surface area of a solid?"
+            "hi": "एक ही आधार वाले और बराबर क्षेत्रफलों वाले त्रिभुज किनके बीच स्थित होते हैं?",
+            "en": "Triangles having the same base and equal areas lie between?"
           },
           "options": [
-            {"hi": "इसके फलकों के क्षेत्रफलों का योग", "en": "Sum of the areas of its faces"},
-            {"hi": "इसकी भुजाओं की लंबाई", "en": "Length of its sides"},
-            {"hi": "इसके अंदर की खाली जगह", "en": "The space inside it"},
-            {"hi": "केवल आधार का क्षेत्रफल", "en": "Only the area of the base"}
+            {"hi": "लंब रेखाओं", "en": "Perpendicular lines"},
+            {"hi": "समान रेखाओं", "en": "Same lines"},
+            {"hi": "एक ही समांतर रेखाओं", "en": "The same parallels"},
+            {"hi": "तिर्यक रेखाओं", "en": "Transversal lines"}
           ],
-          "answer": {"hi": "इसके फलकों के क्षेत्रफलों का योग", "en": "Sum of the areas of its faces"}
+          "answer": {"hi": "एक ही समांतर रेखाओं", "en": "The same parallels"}
         },
         {
           "q": {
-            "hi": "घनाभ (Cuboid) का कुल पृष्ठीय क्षेत्रफल क्या है?",
-            "en": "What is the total surface area of a cuboid?"
+            "hi": "त्रिभुज की एक माध्यिका उसे कितने बराबर क्षेत्रफलों वाले त्रिभुजों में विभाजित करती है?",
+            "en": "A median of a triangle divides it into how many triangles of equal area?"
           },
           "options": [
-            {"hi": "lb + bh + hl", "en": "lb + bh + hl"},
-            {"hi": "2(lb + bh + hl)", "en": "2(lb + bh + hl)"},
-            {"hi": "l × b × h", "en": "l × b × h"},
-            {"hi": "4(l + b + h)", "en": "4(l + b + h)"}
+            {"hi": "तीन", "en": "Three"},
+            {"hi": "दो", "en": "Two"},
+            {"hi": "चार", "en": "Four"},
+            {"hi": "छह", "en": "Six"}
           ],
-          "answer": {"hi": "2(lb + bh + hl)", "en": "2(lb + bh + hl)"}
+          "answer": {"hi": "दो", "en": "Two"}
         },
         {
           "q": {
-            "hi": "भुजा 'l' वाले घन (Cube) का पृष्ठीय क्षेत्रफल क्या है?",
-            "en": "What is the surface area of a cube with side 'l'?"
+            "hi": "यदि $ar(ABC) = 24\\,cm^2$ है और AD माध्यिका है, तो $ar(ABD)$ क्या होगा?",
+            "en": "If $ar(ABC) = 24\\,cm^2$ and AD is the median, what is $ar(ABD)$?"
           },
           "options": [
-            {"hi": "l²", "en": "l²"},
-            {"hi": "4l²", "en": "4l²"},
-            {"hi": "6l²", "en": "6l²"},
-            {"hi": "l³", "en": "l³"}
+            {"hi": "24 cm²", "en": "24 cm²"},
+            {"hi": "48 cm²", "en": "48 cm²"},
+            {"hi": "12 cm²", "en": "12 cm²"},
+            {"hi": "6 cm²", "en": "6 cm²"}
           ],
-          "answer": {"hi": "6l²", "en": "6l²"}
+          "answer": {"hi": "12 cm²", "en": "12 cm²"}
         },
         {
           "q": {
-            "hi": "त्रिज्या 'r' और ऊँचाई 'h' वाले बेलन का वक्र पृष्ठीय क्षेत्रफल क्या है?",
-            "en": "What is the lateral surface area of a cylinder with radius 'r' and height 'h'?"
+            "hi": "दो समांतर चतुर्भुज एक ही आधार और एक ही समांतर रेखाओं के बीच हैं। यदि एक का क्षेत्रफल $30\\,cm^2$ है, तो दूसरे का क्या होगा?",
+            "en": "Two parallelograms are on the same base and between same parallels. If area of one is $30\\,cm^2$, what is the area of the other?"
           },
           "options": [
-            {"hi": "πr²h", "en": "πr²h"},
-            {"hi": "2πrh", "en": "2πrh"},
-            {"hi": "2πr(r+h)", "en": "2πr(r+h)"},
-            {"hi": "πrh", "en": "πrh"}
+            {"hi": "15 cm²", "en": "15 cm²"},
+            {"hi": "30 cm²", "en": "30 cm²"},
+            {"hi": "60 cm²", "en": "60 cm²"},
+            {"hi": "0 cm²", "en": "0 cm²"}
           ],
-          "answer": {"hi": "2πrh", "en": "2πrh"}
+          "answer": {"hi": "30 cm²", "en": "30 cm²"}
         },
         {
           "q": {
-            "hi": "बेलन का कुल पृष्ठीय क्षेत्रफल क्या है?",
-            "en": "What is the total surface area of a cylinder?"
+            "hi": "समतल आकृतियों के क्षेत्रफलों के गुण के अनुसार, यदि आकृति T दो अनातिव्यापी (non-overlapping) क्षेत्रों P और Q से बनी है, तो:",
+            "en": "According to the property of areas of planar regions, if figure T is composed of two non-overlapping regions P and Q, then?"
           },
           "options": [
-            {"hi": "2πrh", "en": "2πrh"},
-            {"hi": "2πr(r + h)", "en": "2πr(r + h)"},
-            {"hi": "πr²h", "en": "πr²h"},
-            {"hi": "2πr²", "en": "2πr²"}
+            {"hi": "ar(T) = ar(P) + ar(Q)", "en": "ar(T) = ar(P) + ar(Q)"},
+            {"hi": "ar(T) = ar(P) - ar(Q)", "en": "ar(T) = ar(P) - ar(Q)"},
+            {"hi": "ar(T) = ar(P) × ar(Q)", "en": "ar(T) = ar(P) × ar(Q)"},
+            {"hi": "ar(T) = ar(P) / ar(Q)", "en": "ar(T) = ar(P) / ar(Q)"}
           ],
-          "answer": {"hi": "2πr(r + h)", "en": "2πr(r + h)"}
+          "answer": {"hi": "ar(T) = ar(P) + ar(Q)", "en": "ar(T) = ar(P) + ar(Q)"}
         },
         {
           "q": {
-            "hi": "घनाभ के पार्श्व पृष्ठीय क्षेत्रफल (चारों दीवारों का क्षेत्रफल) का सूत्र क्या है?",
-            "en": "What is the formula for the lateral surface area of a cuboid?"
+            "hi": "समांतर चतुर्भुज का क्षेत्रफल ज्ञात करने का सूत्र $b \\times h$ में 'h' क्या दर्शाता है?",
+            "en": "In the formula $b \\times h$ for the area of a parallelogram, what does 'h' represent?"
           },
           "options": [
-            {"hi": "2h(l + b)", "en": "2h(l + b)"},
-            {"hi": "2(lb + bh)", "en": "2(lb + bh)"},
-            {"hi": "lbh", "en": "lbh"},
-            {"hi": "2(l + b)", "en": "2(l + b)"}
+            {"hi": "तिर्यक ऊंचाई", "en": "Slant height"},
+            {"hi": "संगत शीर्षलंब", "en": "Corresponding altitude"},
+            {"hi": "विकर्ण", "en": "Diagonal"},
+            {"hi": "अर्ध-परिमाप", "en": "Semi-perimeter"}
           ],
-          "answer": {"hi": "2h(l + b)", "en": "2h(l + b)"}
+          "answer": {"hi": "संगत शीर्षलंब", "en": "Corresponding altitude"}
         },
         {
           "q": {
-            "hi": "किसी वस्तु द्वारा घेरे गए स्थान की मात्रा क्या कहलाती है?",
-            "en": "What is the amount of space occupied by an object called?"
+            "hi": "एक समांतर चतुर्भुज का आधार $10\\,cm$ और ऊंचाई $6\\,cm$ है। इसका क्षेत्रफल क्या होगा?",
+            "en": "The base of a parallelogram is $10\\,cm$ and height is $6\\,cm$. What is its area?"
           },
           "options": [
-            {"hi": "क्षेत्रफल", "en": "Area"},
-            {"hi": "परिमाप", "en": "Perimeter"},
-            {"hi": "आयतन (Volume)", "en": "Volume"},
-            {"hi": "धारिता", "en": "Capacity"}
+            {"hi": "16 cm²", "en": "16 cm²"},
+            {"hi": "60 cm²", "en": "60 cm²"},
+            {"hi": "30 cm²", "en": "30 cm²"},
+            {"hi": "100 cm²", "en": "100 cm²"}
           ],
-          "answer": {"hi": "आयतन (Volume)", "en": "Volume"}
+          "answer": {"hi": "60 cm²", "en": "60 cm²"}
         },
         {
           "q": {
-            "hi": "किसी बर्तन में भरी जा सकने वाली वस्तु की मात्रा को क्या कहते हैं?",
-            "en": "What is the amount of substance that a container can hold called?"
+            "hi": "एक त्रिभुज का क्षेत्रफल $20\\,cm^2$ है। यदि इसका आधार $5\\,cm$ है, तो संगत शीर्षलंब क्या होगा?",
+            "en": "The area of a triangle is $20\\,cm^2$. If its base is $5\\,cm$, what is the corresponding altitude?"
           },
           "options": [
-            {"hi": "आयतन", "en": "Volume"},
-            {"hi": "धारिता (Capacity)", "en": "Capacity"},
-            {"hi": "क्षेत्रफल", "en": "Area"},
-            {"hi": "द्रव्यमान", "en": "Mass"}
+            {"hi": "4 cm", "en": "4 cm"},
+            {"hi": "8 cm", "en": "8 cm"},
+            {"hi": "10 cm", "en": "10 cm"},
+            {"hi": "2 cm", "en": "2 cm"}
           ],
-          "answer": {"hi": "धारिता (Capacity)", "en": "Capacity"}
+          "answer": {"hi": "8 cm", "en": "8 cm"}
         },
         {
           "q": {
-            "hi": "घनाभ का आयतन ज्ञात करने का सूत्र क्या है?",
-            "en": "What is the formula to find the volume of a cuboid?"
+            "hi": "आयत का क्षेत्रफल भी आधार और ऊंचाई का गुणनफल होता है क्योंकि आयत एक विशेष प्रकार का क्या है?",
+            "en": "The area of a rectangle is also base × height because a rectangle is a special type of?"
           },
           "options": [
-            {"hi": "l + b + h", "en": "l + b + h"},
-            {"hi": "2(lb + bh + hl)", "en": "2(lb + bh + hl)"},
-            {"hi": "l × b × h", "en": "l × b × h"},
-            {"hi": "आधार का क्षेत्रफल / ऊँचाई", "en": "Area of base / Height"}
+            {"hi": "समलंब", "en": "Trapezium"},
+            {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"},
+            {"hi": "त्रिभुज", "en": "Triangle"},
+            {"hi": "वृत्त", "en": "Circle"}
           ],
-          "answer": {"hi": "l × b × h", "en": "l × b × h"}
+          "answer": {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"}
         },
         {
           "q": {
-            "hi": "भुजा 'a' वाले घन का आयतन क्या है?",
-            "en": "What is the volume of a cube with side 'a'?"
+            "hi": "यदि दो आकृतियों P और Q का क्षेत्रफल $ar(P) = ar(Q)$ है, तो:",
+            "en": "If area of two figures P and Q is $ar(P) = ar(Q)$, then?"
           },
           "options": [
-            {"hi": "a²", "en": "a²"},
-            {"hi": "a³", "en": "a³"},
-            {"hi": "6a²", "en": "6a²"},
-            {"hi": "4a", "en": "4a"}
+            {"hi": "वे सदैव सर्वांगसम होंगी", "en": "They will always be congruent"},
+            {"hi": "वे सर्वांगसम हो भी सकती हैं और नहीं भी", "en": "They may or may not be congruent"},
+            {"hi": "वे कभी सर्वांगसम नहीं होंगी", "en": "They will never be congruent"},
+            {"hi": "उनकी भुजाएं बराबर होंगी", "en": "Their sides will be equal"}
           ],
-          "answer": {"hi": "a³", "en": "a³"}
+          "answer": {"hi": "वे सर्वांगसम हो भी सकती हैं और नहीं भी", "en": "They may or may not be congruent"}
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "बेलन का आयतन ज्ञात करने का सूत्र क्या है?",
-            "en": "What is the formula to find the volume of a cylinder?"
+            "hi": "एक ही आधार और एक ही समांतर रेखाओं के बीच स्थित आकृतियों में शीर्ष कहाँ स्थित होने चाहिए?",
+            "en": "In figures on the same base and between same parallels, where should the vertices lie?"
           },
           "options": [
-            {"hi": "2πrh", "en": "2πrh"},
-            {"hi": "πr²h", "en": "πr²h"},
-            {"hi": "2πr(r+h)", "en": "2πr(r+h)"},
-            {"hi": "πr²", "en": "πr²"}
+            {"hi": "आधार पर", "en": "On the base"},
+            {"hi": "आधार के समांतर रेखा पर", "en": "On a line parallel to the base"},
+            {"hi": "कहीं भी", "en": "Anywhere"},
+            {"hi": "मूलबिंदु पर", "en": "At origin"}
           ],
-          "answer": {"hi": "πr²h", "en": "πr²h"}
+          "answer": {"hi": "आधार के समांतर रेखा पर", "en": "On a line parallel to the base"}
         },
         {
           "q": {
-            "hi": "1 cm³ किसके बराबर होता है?",
-            "en": "1 cm³ is equal to?"
+            "hi": "क्या एक समांतर चतुर्भुज और एक आयत एक ही आधार और एक ही समांतर रेखाओं के बीच होने पर बराबर क्षेत्रफल के होंगे?",
+            "en": "Will a parallelogram and a rectangle have equal area if they are on the same base and between same parallels?"
           },
           "options": [
-            {"hi": "1 mL", "en": "1 mL"},
-            {"hi": "1 L", "en": "1 L"},
-            {"hi": "10 mL", "en": "10 mL"},
-            {"hi": "100 mL", "en": "100 mL"}
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "केवल यदि वे वर्ग हों", "en": "Only if they are squares"},
+            {"hi": "शर्तों पर निर्भर है", "en": "Depends on conditions"}
           ],
-          "answer": {"hi": "1 mL", "en": "1 mL"}
+          "answer": {"hi": "हाँ", "en": "Yes"}
         },
         {
           "q": {
-            "hi": "1000 cm³ किसके बराबर है?",
-            "en": "1000 cm³ is equal to?"
+            "hi": "बराबर आधारों वाले और बराबर क्षेत्रफलों वाले समांतर चतुर्भुज किस प्रकार की रेखाओं के बीच स्थित होते हैं?",
+            "en": "Parallelograms with equal bases and equal areas lie between?"
           },
           "options": [
-            {"hi": "1 L", "en": "1 L"},
-            {"hi": "10 L", "en": "10 L"},
-            {"hi": "100 L", "en": "100 L"},
-            {"hi": "1 mL", "en": "1 mL"}
+            {"hi": "लंब रेखाओं", "en": "Perpendicular lines"},
+            {"hi": "एक ही समांतर रेखाओं", "en": "The same parallels"},
+            {"hi": "प्रतिच्छेदी रेखाओं", "en": "Intersecting lines"},
+            {"hi": "तिरछी रेखाओं", "en": "Slant lines"}
           ],
-          "answer": {"hi": "1 L", "en": "1 L"}
+          "answer": {"hi": "एक ही समांतर रेखाओं", "en": "The same parallels"}
         },
         {
           "q": {
-            "hi": "1 m³ कितने लीटर (L) के बराबर होता है?",
-            "en": "1 m³ is equal to how many liters (L)?"
+            "hi": "समांतर चतुर्भुज का विकर्ण उसे दो बराबर क्षेत्रफल वाले त्रिभुजों में बाँटता है, क्योंकि ये त्रिभुज परस्पर क्या होते हैं?",
+            "en": "A diagonal of a parallelogram divides it into two triangles of equal area because these triangles are?"
           },
           "options": [
-            {"hi": "100 L", "en": "100 L"},
-            {"hi": "1000 L", "en": "1000 L"},
-            {"hi": "10000 L", "en": "10000 L"},
-            {"hi": "10 L", "en": "10 L"}
+            {"hi": "समकोण", "en": "Right angled"},
+            {"hi": "सर्वांगसम", "en": "Congruent"},
+            {"hi": "समद्विबाहु", "en": "Isosceles"},
+            {"hi": "विषमबाहु", "en": "Scalene"}
           ],
-          "answer": {"hi": "1000 L", "en": "1000 L"}
+          "answer": {"hi": "सर्वांगसम", "en": "Congruent"}
         },
         {
           "q": {
-            "hi": "एक घन की भुजा दुगुनी करने पर उसके आयतन में कितने गुना वृद्धि होगी?",
-            "en": "If the side of a cube is doubled, how many times will its volume increase?"
+            "hi": "एक समलंब (Trapezium) का क्षेत्रफल ज्ञात करने के लिए उसे किन दो आकृतियों में बाँटा जा सकता है?",
+            "en": "To find the area of a trapezium, it can be divided into which two figures?"
           },
           "options": [
-            {"hi": "2 गुना", "en": "2 times"},
-            {"hi": "4 गुना", "en": "4 times"},
-            {"hi": "8 गुना", "en": "8 times"},
-            {"hi": "16 गुना", "en": "16 times"}
+            {"hi": "दो वृत्तों में", "en": "Two circles"},
+            {"hi": "एक समांतर चतुर्भुज और एक त्रिभुज में", "en": "A parallelogram and a triangle"},
+            {"hi": "दो वर्गों में", "en": "Two squares"},
+            {"hi": "दो आयतों में", "en": "Two rectangles"}
           ],
-          "answer": {"hi": "8 गुना", "en": "8 times"}
+          "answer": {"hi": "एक समांतर चतुर्भुज और एक त्रिभुज में", "en": "A parallelogram and a triangle"}
         },
         {
           "q": {
-            "hi": "एक घन की भुजा दुगुनी करने पर उसके पृष्ठीय क्षेत्रफल में कितने गुना वृद्धि होगी?",
-            "en": "If the side of a cube is doubled, how many times will its surface area increase?"
+            "hi": "यदि एक त्रिभुज का आधार $8\\,cm$ और ऊंचाई $5\\,cm$ है, तो उसका क्षेत्रफल क्या है?",
+            "en": "If a triangle has base $8\\,cm$ and height $5\\,cm$, what is its area?"
           },
           "options": [
-            {"hi": "2 गुना", "en": "2 times"},
-            {"hi": "4 गुना", "en": "4 times"},
-            {"hi": "6 गुना", "en": "6 times"},
-            {"hi": "8 गुना", "en": "8 times"}
+            {"hi": "40 cm²", "en": "40 cm²"},
+            {"hi": "20 cm²", "en": "20 cm²"},
+            {"hi": "13 cm²", "en": "13 cm²"},
+            {"hi": "80 cm²", "en": "80 cm²"}
           ],
-          "answer": {"hi": "4 गुना", "en": "4 times"}
+          "answer": {"hi": "20 cm²", "en": "20 cm²"}
         },
         {
           "q": {
-            "hi": "समलंब का क्षेत्रफल 34 cm² और ऊँचाई 4 cm है। यदि एक समांतर भुजा 10 cm है, तो दूसरी समांतर भुजा क्या होगी?",
-            "en": "Area of a trapezium is 34 cm² and height is 4 cm. If one parallel side is 10 cm, what is the other parallel side?"
+            "hi": "एक ही समांतर रेखाओं के बीच स्थित दो त्रिभुजों के लिए क्या समान होना चाहिए ताकि उनके क्षेत्रफल बराबर हों?",
+            "en": "For two triangles between the same parallels, what must be common for their areas to be equal?"
           },
           "options": [
-            {"hi": "5 cm", "en": "5 cm"},
-            {"hi": "7 cm", "en": "7 cm"},
-            {"hi": "8 cm", "en": "8 cm"},
-            {"hi": "6 cm", "en": "6 cm"}
+            {"hi": "कोण", "en": "Angles"},
+            {"hi": "शीर्ष", "en": "Vertices"},
+            {"hi": "आधार (या बराबर आधार)", "en": "Base (or equal bases)"},
+            {"hi": "परिमाप", "en": "Perimeter"}
           ],
-          "answer": {"hi": "7 cm", "en": "7 cm"}
+          "answer": {"hi": "आधार (या बराबर आधार)", "en": "Base (or equal bases)"}
         },
         {
           "q": {
-            "hi": "समचतुर्भुज के विकर्ण 7.5 cm और 12 cm हैं। इसका क्षेत्रफल क्या होगा?",
-            "en": "The diagonals of a rhombus are 7.5 cm and 12 cm. What will be its area?"
+            "hi": "किसी समांतर चतुर्भुज की भुजाओं के मध्य-बिंदुओं को मिलाने से बना समांतर चतुर्भुज मूल का कितना क्षेत्रफल रखता है?",
+            "en": "What fraction of the original area is held by a parallelogram formed by joining midpoints of the sides of a parallelogram?"
           },
           "options": [
-            {"hi": "45 cm²", "en": "45 cm²"},
-            {"hi": "90 cm²", "en": "90 cm²"},
-            {"hi": "30 cm²", "en": "30 cm²"},
-            {"hi": "60 cm²", "en": "60 cm²"}
+            {"hi": "आधा", "en": "Half"},
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "दुगुना", "en": "Double"},
+            {"hi": "एक-चौथाई", "en": "One-fourth"}
           ],
-          "answer": {"hi": "45 cm²", "en": "45 cm²"}
+          "answer": {"hi": "आधा", "en": "Half"}
         },
         {
           "q": {
-            "hi": "बेलनाकार टैंक की धारिता लीटर में ज्ञात करने के लिए पहले हमें क्या ज्ञात करना चाहिए?",
-            "en": "To find the capacity of a cylindrical tank in liters, what should we find first?"
+            "hi": "एक समांतर चतुर्भुज ABCD में विकर्ण AC उसे दो भागों में बाँटता है। $ar(ABC)$ और $ar(ADC)$ के बीच क्या संबंध है?",
+            "en": "In a parallelogram ABCD, diagonal AC divides it. What is the relation between $ar(ABC)$ and $ar(ADC)$?"
           },
           "options": [
-            {"hi": "वक्र पृष्ठीय क्षेत्रफल", "en": "Curved surface area"},
-            {"hi": "कुल पृष्ठीय क्षेत्रफल", "en": "Total surface area"},
-            {"hi": "आयतन (m³ या cm³ में)", "en": "Volume (in m³ or cm³)"},
-            {"hi": "आधार का परिमाप", "en": "Perimeter of base"}
+            {"hi": "ar(ABC) > ar(ADC)", "en": "ar(ABC) > ar(ADC)"},
+            {"hi": "ar(ABC) < ar(ADC)", "en": "ar(ABC) < ar(ADC)"},
+            {"hi": "ar(ABC) = ar(ADC)", "en": "ar(ABC) = ar(ADC)"},
+            {"hi": "ar(ABC) = 2ar(ADC)", "en": "ar(ABC) = 2ar(ADC)"}
           ],
-          "answer": {"hi": "आयतन (m³ या cm³ में)", "en": "Volume (in m³ or cm³)"}
+          "answer": {"hi": "ar(ABC) = ar(ADC)", "en": "ar(ABC) = ar(ADC)"}
         },
         {
           "q": {
-            "hi": "1 लीटर (L) में कितने मिलीलीटर (mL) होते हैं?",
-            "en": "How many milliliters (mL) are there in 1 liter (L)?"
+            "hi": "समलंब चतुर्भुज के क्षेत्रफल का सूत्र क्या है?",
+            "en": "What is the formula for the area of a trapezium?"
           },
           "options": [
-            {"hi": "100 mL", "en": "100 mL"},
-            {"hi": "500 mL", "en": "500 mL"},
-            {"hi": "1000 mL", "en": "1000 mL"},
-            {"hi": "10000 mL", "en": "10000 mL"}
+            {"hi": "आधार × ऊंचाई", "en": "Base × Height"},
+            {"hi": "1/2 × (समांतर भुजाओं का योग) × ऊंचाई", "en": "1/2 × (Sum of parallel sides) × Height"},
+            {"hi": "1/2 × आधार × ऊंचाई", "en": "1/2 × Base × Height"},
+            {"hi": "लंबाई × चौड़ाई", "en": "Length × Breadth"}
           ],
-          "answer": {"hi": "1000 mL", "en": "1000 mL"}
+          "answer": {"hi": "1/2 × (समांतर भुजाओं का योग) × ऊंचाई", "en": "1/2 × (Sum of parallel sides) × Height"}
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "एक ऐसे घनाभ की ऊँचाई क्या होगी जिसके आधार का क्षेत्रफल 180 cm² और आयतन 900 cm³ है?",
-            "en": "What will be the height of a cuboid whose base area is 180 cm² and volume is 900 cm³?"
+            "hi": "त्रिभुज की माध्यिकाएँ उसे कुल कितने बराबर क्षेत्रफल वाले त्रिभुजों में विभाजित करती हैं यदि तीनों माध्यिकाएँ खींची जाएँ?",
+            "en": "How many equal area triangles do medians divide a triangle into if all three are drawn?"
           },
           "options": [
-            {"hi": "4 cm", "en": "4 cm"},
-            {"hi": "5 cm", "en": "5 cm"},
-            {"hi": "6 cm", "en": "6 cm"},
-            {"hi": "10 cm", "en": "10 cm"}
+            {"hi": "तीन", "en": "Three"},
+            {"hi": "चार", "en": "Four"},
+            {"hi": "छह", "en": "Six"},
+            {"hi": "आठ", "en": "Eight"}
           ],
-          "answer": {"hi": "5 cm", "en": "5 cm"}
+          "answer": {"hi": "छह", "en": "Six"}
         },
         {
           "q": {
-            "hi": "घनाभ की विमाएँ 60cm × 54cm × 30cm हैं। इसके अंदर 6cm भुजा वाले कितने छोटे घन रखे जा सकते हैं?",
-            "en": "Dimensions of a cuboid are 60cm × 54cm × 30cm. How many small cubes of side 6cm can be placed inside it?"
+            "hi": "यदि एक समांतर चतुर्भुज का क्षेत्रफल $48\\,cm^2$ है, तो उसी आधार और ऊंचाई वाले त्रिभुज का क्षेत्रफल क्या होगा?",
+            "en": "If the area of a parallelogram is $48\\,cm^2$, what will be the area of a triangle with the same base and height?"
           },
           "options": [
-            {"hi": "450", "en": "450"},
-            {"hi": "480", "en": "480"},
-            {"hi": "500", "en": "500"},
-            {"hi": "540", "en": "540"}
+            {"hi": "96 cm²", "en": "96 cm²"},
+            {"hi": "48 cm²", "en": "48 cm²"},
+            {"hi": "24 cm²", "en": "24 cm²"},
+            {"hi": "12 cm²", "en": "12 cm²"}
           ],
-          "answer": {"hi": "450", "en": "450"}
+          "answer": {"hi": "24 cm²", "en": "24 cm²"}
         },
         {
           "q": {
-            "hi": "एक बेलन का आयतन 1.54 m³ और आधार का व्यास 140 cm है। इसकी ऊँचाई क्या होगी?",
-            "en": "A cylinder has a volume of 1.54 m³ and base diameter of 140 cm. What will be its height?"
+            "hi": "किसी चतुर्भुज के विकर्ण उसे चार बराबर क्षेत्रफल वाले त्रिभुजों में बाँटते हैं, वह चतुर्भुज क्या है?",
+            "en": "A quadrilateral whose diagonals divide it into four triangles of equal area is a?"
           },
           "options": [
-            {"hi": "1 m", "en": "1 m"},
-            {"hi": "2 m", "en": "2 m"},
-            {"hi": "0.5 m", "en": "0.5 m"},
-            {"hi": "1.5 m", "en": "1.5 m"}
+            {"hi": "समलंब", "en": "Trapezium"},
+            {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"},
+            {"hi": "पतंग", "en": "Kite"},
+            {"hi": "कोई भी चतुर्भुज", "en": "Any quadrilateral"}
           ],
-          "answer": {"hi": "1 m", "en": "1 m"}
+          "answer": {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"}
         },
         {
           "q": {
-            "hi": "एक दूध का टैंक बेलनाकार है (r = 1.5m, h = 7m)। इसमें कितना दूध (लीटर में) आ सकता है?",
-            "en": "A milk tank is cylindrical (r = 1.5m, h = 7m). How much milk (in liters) can it hold?"
+            "hi": "त्रिभुज के क्षेत्रफल की इकाई (Unit) क्या होती है?",
+            "en": "What is the unit of area of a triangle?"
           },
           "options": [
-            {"hi": "49500 L", "en": "49500 L"},
-            {"hi": "49.5 L", "en": "49.5 L"},
-            {"hi": "495 L", "en": "495 L"},
-            {"hi": "50000 L", "en": "50000 L"}
+            {"hi": "cm", "en": "cm"},
+            {"hi": "cm²", "en": "cm²"},
+            {"hi": "cm³", "en": "cm³"},
+            {"hi": "डिग्री", "en": "Degree"}
           ],
-          "answer": {"hi": "49500 L", "en": "49500 L"}
+          "answer": {"hi": "cm²", "en": "cm²"}
         },
         {
           "q": {
-            "hi": "एक कुंड का आयतन 108 m³ है। यदि 60 लीटर प्रति मिनट की दर से पानी गिर रहा है, तो भरने में कितने घंटे लगेंगे?",
-            "en": "A reservoir has a volume of 108 m³. If water is falling at 60 liters per minute, how many hours will it take to fill?"
+            "hi": "एक समांतर चतुर्भुज में, एक भुजा और उसके संगत शीर्षलंब के बीच का कोण कितना होता है?",
+            "en": "In a parallelogram, what is the angle between a side and its corresponding altitude?"
           },
           "options": [
-            {"hi": "20 घंटे", "en": "20 hours"},
-            {"hi": "30 घंटे", "en": "30 hours"},
-            {"hi": "40 घंटे", "en": "40 hours"},
-            {"hi": "60 घंटे", "en": "60 hours"}
+            {"hi": "0°", "en": "0°"},
+            {"hi": "45°", "en": "45°"},
+            {"hi": "90°", "en": "90°"},
+            {"hi": "180°", "en": "180°"}
           ],
-          "answer": {"hi": "30 घंटे", "en": "30 hours"}
+          "answer": {"hi": "90°", "en": "90°"}
         },
         {
           "q": {
-            "hi": "बेलन के आधार की आकृति कैसी होती है?",
-            "en": "What is the shape of the base of a cylinder?"
+            "hi": "यदि $ABC$ और $DBC$ एक ही आधार $BC$ पर दो त्रिभुज हैं और $AD || BC$ है, तो:",
+            "en": "If $ABC$ and $DBC$ are two triangles on same base $BC$ and $AD || BC$, then?"
           },
           "options": [
-            {"hi": "वर्ग", "en": "Square"},
-            {"hi": "आयत", "en": "Rectangle"},
-            {"hi": "वृत्त (Circle)", "en": "Circle"},
-            {"hi": "त्रिभुज", "en": "Triangle"}
+            {"hi": "ar(ABC) = ar(DBC)", "en": "ar(ABC) = ar(DBC)"},
+            {"hi": "ar(ABC) = 2ar(DBC)", "en": "ar(ABC) = 2ar(DBC)"},
+            {"hi": "ar(ABC) > ar(DBC)", "en": "ar(ABC) > ar(DBC)"},
+            {"hi": "ar(ABC) + ar(DBC) = 180", "en": "ar(ABC) + ar(DBC) = 180"}
           ],
-          "answer": {"hi": "वृत्त (Circle)", "en": "Circle"}
+          "answer": {"hi": "ar(ABC) = ar(DBC)", "en": "ar(ABC) = ar(DBC)"}
         },
         {
           "q": {
-            "hi": "घनाभ में कुल कितने फलक (Faces) होते हैं?",
-            "en": "How many faces are there in a cuboid?"
+            "hi": "मध्य-बिंदु प्रमेय के अनुसार, मध्य-बिंदुओं को मिलाने से बना त्रिभुज मूल का 1/4 क्षेत्रफल रखता है। क्या यह सत्य है?",
+            "en": "According to the mid-point theorem, the triangle formed by joining midpoints has 1/4 the area of original. Is this true?"
           },
           "options": [
-            {"hi": "4", "en": "4"},
-            {"hi": "6", "en": "6"},
-            {"hi": "8", "en": "8"},
-            {"hi": "12", "en": "12"}
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "केवल समबाहु के लिए", "en": "Only for equilateral"},
+            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"}
           ],
-          "answer": {"hi": "6", "en": "6"}
+          "answer": {"hi": "हाँ", "en": "Yes"}
         },
         {
           "q": {
-            "hi": "घन में कुल कितने किनारे (Edges) होते हैं?",
-            "en": "How many edges are there in a cube?"
+            "hi": "एक समांतर चतुर्भुज का क्षेत्रफल $100\\,cm^2$ है। इसके विकर्ण द्वारा बने एक त्रिभुज का क्षेत्रफल क्या होगा?",
+            "en": "The area of a parallelogram is $100\\,cm^2$. What will be the area of one triangle formed by its diagonal?"
           },
           "options": [
-            {"hi": "6", "en": "6"},
-            {"hi": "8", "en": "8"},
-            {"hi": "10", "en": "10"},
-            {"hi": "12", "en": "12"}
+            {"hi": "100 cm²", "en": "100 cm²"},
+            {"hi": "200 cm²", "en": "200 cm²"},
+            {"hi": "50 cm²", "en": "50 cm²"},
+            {"hi": "25 cm²", "en": "25 cm²"}
           ],
-          "answer": {"hi": "12", "en": "12"}
+          "answer": {"hi": "50 cm²", "en": "50 cm²"}
         },
         {
           "q": {
-            "hi": "किसी बहुभुज को त्रिभुजों में बाँटकर उसका क्षेत्रफल ज्ञात करने की विधि को क्या कहते हैं?",
-            "en": "What is the method of finding the area of a polygon by dividing it into triangles called?"
+            "hi": "यदि दो समांतर रेखाओं के बीच की दूरी बढ़ जाए, तो एक ही आधार पर स्थित समांतर चतुर्भुज का क्षेत्रफल क्या होगा?",
+            "en": "If the distance between two parallel lines increases, what happens to the area of a parallelogram on the same base?"
           },
           "options": [
-            {"hi": "त्रिकोणीकरण (Triangulation)", "en": "Triangulation"},
-            {"hi": "वर्गीकरण", "en": "Classification"},
-            {"hi": "समाकलन", "en": "Integration"},
-            {"hi": "खंडन", "en": "Splitting"}
+            {"hi": "बढ़ जाएगा", "en": "It will increase"},
+            {"hi": "घट जाएगा", "en": "It will decrease"},
+            {"hi": "समान रहेगा", "en": "It will remain same"},
+            {"hi": "शून्य हो जाएगा", "en": "It will become zero"}
           ],
-          "answer": {"hi": "त्रिकोणीकरण (Triangulation)", "en": "Triangulation"}
+          "answer": {"hi": "बढ़ जाएगा", "en": "It will increase"}
         },
         {
           "q": {
-            "hi": "क्षेत्रफल की मानक इकाई क्या है?",
-            "en": "What is the standard unit of area?"
+            "hi": "समांतर चतुर्भुज के क्षेत्रफल का मात्रक (Unit) हेक्टेयर कब उपयोग किया जाता है?",
+            "en": "When is the unit 'hectare' used for the area of a parallelogram?"
           },
           "options": [
-            {"hi": "वर्ग इकाई (Square unit)", "en": "Square unit"},
-            {"hi": "घन इकाई", "en": "Cubic unit"},
-            {"hi": "मीटर", "en": "Meter"},
-            {"hi": "लीटर", "en": "Liter"}
+            {"hi": "छोटी आकृतियों के लिए", "en": "For small figures"},
+            {"hi": "बड़े भूखंडों या खेतों के लिए", "en": "For large land plots or fields"},
+            {"hi": "केवल वृत्तों के लिए", "en": "Only for circles"},
+            {"hi": "आयतन मापने के लिए", "en": "To measure volume"}
           ],
-          "answer": {"hi": "वर्ग इकाई (Square unit)", "en": "Square unit"}
+          "answer": {"hi": "बड़े भूखंडों या खेतों के लिए", "en": "For large land plots or fields"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "आयतन की मानक इकाई क्या है?",
-            "en": "What is the standard unit of volume?"
+            "hi": "एक समांतर चतुर्भुज की ऊंचाई को आधा और आधार को दुगुना करने पर क्षेत्रफल पर क्या प्रभाव पड़ेगा?",
+            "en": "What will be the effect on area if the height of a parallelogram is halved and base is doubled?"
           },
           "options": [
-            {"hi": "वर्ग इकाई", "en": "Square unit"},
-            {"hi": "घन इकाई (Cubic unit)", "en": "Cubic unit"},
-            {"hi": "मीटर", "en": "Meter"},
-            {"hi": "किलोग्राम", "en": "Kilogram"}
+            {"hi": "क्षेत्रफल दुगुना होगा", "en": "Area will double"},
+            {"hi": "क्षेत्रफल आधा होगा", "en": "Area will be half"},
+            {"hi": "क्षेत्रफल समान रहेगा", "en": "Area will remain same"},
+            {"hi": "क्षेत्रफल चार गुना होगा", "en": "Area will be four times"}
           ],
-          "answer": {"hi": "घन इकाई (Cubic unit)", "en": "Cubic unit"}
+          "answer": {"hi": "क्षेत्रफल समान रहेगा", "en": "Area will remain same"}
         },
         {
           "q": {
-            "hi": "यदि बेलन की त्रिज्या आधी कर दी जाए और ऊँचाई वही रहे, तो आयतन क्या हो जाएगा?",
-            "en": "If the radius of a cylinder is halved and height remains the same, what will happen to the volume?"
+            "hi": "एक त्रिभुज ABC में, E माध्यिका AD का मध्य-बिंदु है। $ar(BED)$ किसके बराबर होगा?",
+            "en": "In a triangle ABC, E is the midpoint of median AD. What will $ar(BED)$ be equal to?"
           },
           "options": [
-            {"hi": "आधा", "en": "Half"},
-            {"hi": "एक चौथाई (1/4)", "en": "One-fourth"},
-            {"hi": "वही रहेगा", "en": "Remain same"},
-            {"hi": "दुगुना", "en": "Double"}
+            {"hi": "1/2 ar(ABC)", "en": "1/2 ar(ABC)"},
+            {"hi": "1/4 ar(ABC)", "en": "1/4 ar(ABC)"},
+            {"hi": "1/3 ar(ABC)", "en": "1/3 ar(ABC)"},
+            {"hi": "ar(ABC)"}
           ],
-          "answer": {"hi": "एक चौथाई (1/4)", "en": "One-fourth"}
+          "answer": {"hi": "1/4 ar(ABC)", "en": "1/4 ar(ABC)"}
         },
         {
           "q": {
-            "hi": "घनाभ के आधार का क्षेत्रफल 'A' और ऊँचाई 'h' है, तो आयतन V = ?",
-            "en": "If the base area of a cuboid is 'A' and height is 'h', then Volume V = ?"
+            "hi": "दो समरूप आकृतियों के बारे में क्या सत्य है?",
+            "en": "What is true about two similar figures?"
           },
           "options": [
-            {"hi": "A + h", "en": "A + h"},
-            {"hi": "A / h", "en": "A / h"},
-            {"hi": "A × h", "en": "A × h"},
-            {"hi": "2A + h", "en": "2A + h"}
+            {"hi": "उनके क्षेत्रफल सदैव बराबर होते हैं", "en": "Their areas are always equal"},
+            {"hi": "उनका आकार समान होता है", "en": "Their shape is same"},
+            {"hi": "वे सदैव सर्वांगसम होती हैं", "en": "They are always congruent"},
+            {"hi": "उनके परिमाप बराबर होते हैं", "en": "Their perimeters are equal"}
           ],
-          "answer": {"hi": "A × h", "en": "A × h"}
+          "answer": {"hi": "उनका आकार समान होता है", "en": "Their shape is same"}
         },
         {
           "q": {
-            "hi": "किसी कमरे की चारों दीवारों का क्षेत्रफल उसके किस क्षेत्रफल के बराबर होता है?",
-            "en": "The area of the four walls of a room is equal to its which area?"
+            "hi": "क्या दो त्रिभुजों का क्षेत्रफल बराबर होने पर उनका आधार भी बराबर होना चाहिए?",
+            "en": "If two triangles have equal area, must their bases also be equal?"
           },
           "options": [
-            {"hi": "कुल पृष्ठीय क्षेत्रफल", "en": "Total surface area"},
-            {"hi": "पार्श्व पृष्ठीय क्षेत्रफल (Lateral surface area)", "en": "Lateral surface area"},
-            {"hi": "आधार का क्षेत्रफल", "en": "Base area"},
-            {"hi": "आयतन", "en": "Volume"}
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "केवल यदि वे एक ही समांतर रेखाओं के बीच हों", "en": "Only if they are between same parallels"},
+            {"hi": "केवल यदि वे समकोण हों", "en": "Only if they are right angled"}
           ],
-          "answer": {"hi": "पार्श्व पृष्ठीय क्षेत्रफल (Lateral surface area)", "en": "Lateral surface area"}
+          "answer": {"hi": "नहीं", "en": "No"}
         },
         {
           "q": {
-            "hi": "π (पाई) का लगभग मान क्या लिया जाता है?",
-            "en": "What is the approximate value taken for π (pi)?"
+            "hi": "किसी समांतर चतुर्भुज में विकर्णों का प्रतिच्छेद बिंदु क्या कहलाता है?",
+            "en": "What is the intersection point of diagonals in a parallelogram called?"
           },
           "options": [
-            {"hi": "3.14 या 22/7", "en": "3.14 or 22/7"},
-            {"hi": "3.12", "en": "3.12"},
-            {"hi": "2.14", "en": "2.14"},
-            {"hi": "7/22", "en": "7/22"}
+            {"hi": "केंद्र", "en": "Center"},
+            {"hi": "लंब केंद्र", "en": "Orthocenter"},
+            {"hi": "शीर्ष", "en": "Vertex"},
+            {"hi": "प्रतिच्छेद बिंदु", "en": "Point of intersection"}
           ],
-          "answer": {"hi": "3.14 या 22/7", "en": "3.14 or 22/7"}
+          "answer": {"hi": "प्रतिच्छेद बिंदु", "en": "Point of intersection"}
         },
         {
           "q": {
-            "hi": "यदि एक बेलन की ऊँचाई और त्रिज्या दोनों 7 cm हैं, तो वक्र पृष्ठीय क्षेत्रफल क्या होगा?",
-            "en": "If both the height and radius of a cylinder are 7 cm, what will be the curved surface area?"
+            "hi": "यदि एक त्रिभुज का क्षेत्रफल $ar(T)$ है, तो उसकी सभी माध्यिकाओं द्वारा बने 6 छोटे त्रिभुजों में से एक का क्षेत्रफल क्या होगा?",
+            "en": "If the area of a triangle is $ar(T)$, what will be the area of one of the 6 small triangles formed by its medians?"
           },
           "options": [
-            {"hi": "154 cm²", "en": "154 cm²"},
-            {"hi": "308 cm²", "en": "308 cm²"},
-            {"hi": "44 cm²", "en": "44 cm²"},
-            {"hi": "616 cm²", "en": "616 cm²"}
+            {"hi": "ar(T) / 2", "en": "ar(T) / 2"},
+            {"hi": "ar(T) / 3", "en": "ar(T) / 3"},
+            {"hi": "ar(T) / 6", "en": "ar(T) / 6"},
+            {"hi": "ar(T) / 4", "en": "ar(T) / 4"}
           ],
-          "answer": {"hi": "308 cm²", "en": "308 cm²"}
+          "answer": {"hi": "ar(T) / 6", "en": "ar(T) / 6"}
         },
         {
           "q": {
-            "hi": "एक घनाभ में लंबाई, चौड़ाई और ऊँचाई बराबर होने पर वह क्या कहलाता है?",
-            "en": "What is a cuboid called when its length, breadth, and height are equal?"
+            "hi": "समतलीय क्षेत्र को मापने के लिए सबसे सामान्य इकाई क्या है?",
+            "en": "What is the most common unit for measuring planar regions?"
           },
           "options": [
-            {"hi": "बेलन", "en": "Cylinder"},
-            {"hi": "घन (Cube)", "en": "Cube"},
-            {"hi": "गोला", "en": "Sphere"},
-            {"hi": "शंकु", "en": "Cone"}
+            {"hi": "वर्ग मात्रक (Square units)", "en": "Square units"},
+            {"hi": "घन मात्रक (Cubic units)", "en": "Cubic units"},
+            {"hi": "रैखिक मात्रक (Linear units)", "en": "Linear units"},
+            {"hi": "कोण मात्रक (Angular units)", "en": "Angular units"}
           ],
-          "answer": {"hi": "घन (Cube)", "en": "Cube"}
+          "answer": {"hi": "वर्ग मात्रक (Square units)", "en": "Square units"}
         },
         {
           "q": {
-            "hi": "क्षेत्रमिति (Mensuration) गणित की किस शाखा से संबंधित है?",
-            "en": "Mensuration belongs to which branch of mathematics?"
+            "hi": "एक ही आधार और एक ही समांतर रेखाओं के बीच स्थित दो समांतर चतुर्भुजों के परिमाप के बारे में क्या कहा जा सकता है?",
+            "en": "What can be said about the perimeters of two parallelograms on the same base and between same parallels?"
           },
           "options": [
-            {"hi": "ज्यामिति (Geometry)", "en": "Geometry"},
-            {"hi": "अंकगणित", "en": "Arithmetic"},
-            {"hi": "बीजगणित", "en": "Algebra"},
-            {"hi": "सांख्यिकी", "en": "Statistics"}
+            {"hi": "वे सदैव बराबर होंगे", "en": "They will always be equal"},
+            {"hi": "वे बराबर हो भी सकते हैं और नहीं भी", "en": "They may or may not be equal"},
+            {"hi": "वे कभी बराबर नहीं होंगे", "en": "They will never be equal"},
+            {"hi": "वे आधे होंगे", "en": "They will be half"}
           ],
-          "answer": {"hi": "ज्यामिति (Geometry)", "en": "Geometry"}
+          "answer": {"hi": "वे बराबर हो भी सकते हैं और नहीं भी", "en": "They may or may not be equal"}
         },
         {
           "q": {
-            "hi": "वृत्त की परिधि का सूत्र क्या है?",
-            "en": "What is the formula for the circumference of a circle?"
+            "hi": "क्षेत्रफल के गुणों के अनुसार, सर्वांगसम आकृतियों का क्षेत्रफल बराबर होता है। यह एक क्या है?",
+            "en": "According to area properties, congruent figures have equal area. This is a?"
           },
           "options": [
-            {"hi": "πr²", "en": "πr²"},
-            {"hi": "2πr", "en": "2πr"},
-            {"hi": "πd²", "en": "πd²"},
-            {"hi": "2πr²", "en": "2πr²"}
+            {"hi": "अभिगृहीत (Axiom)", "en": "Axiom"},
+            {"hi": "परिभाषा", "en": "Definition"},
+            {"hi": "प्रमेय", "en": "Theorem"},
+            {"hi": "उदाहरण", "en": "Example"}
           ],
-          "answer": {"hi": "2πr", "en": "2πr"}
+          "answer": {"hi": "अभिगृहीत (Axiom)", "en": "Axiom"}
         },
         {
           "q": {
-            "hi": "यदि घन का आयतन 27 cm³ है, तो इसकी भुजा क्या होगी?",
-            "en": "If the volume of a cube is 27 cm³, what will be its side?"
+            "hi": "त्रिभुज के क्षेत्रफल और समांतर चतुर्भुज के क्षेत्रफल के बीच संबंध स्थापित करने के लिए क्या आवश्यक है?",
+            "en": "What is required to establish a relation between the area of a triangle and a parallelogram?"
           },
           "options": [
-            {"hi": "3 cm", "en": "3 cm"},
-            {"hi": "9 cm", "en": "9 cm"},
-            {"hi": "6 cm", "en": "6 cm"},
-            {"hi": "4.5 cm", "en": "4.5 cm"}
+            {"hi": "समान परिमाप", "en": "Same perimeter"},
+            {"hi": "एक ही आधार और एक ही समांतर रेखाएँ", "en": "Same base and same parallels"},
+            {"hi": "समान कोण", "en": "Same angles"},
+            {"hi": "समान विकर्ण", "en": "Same diagonals"}
           ],
-          "answer": {"hi": "3 cm", "en": "3 cm"}
+          "answer": {"hi": "एक ही आधार और एक ही समांतर रेखाएँ", "en": "Same base and same parallels"}
         }
       ]
     },
