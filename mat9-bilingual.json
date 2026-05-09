@@ -9267,6 +9267,669 @@
           "answer": {"hi": "नहीं, यह विज्ञान, अर्थशास्त्र आदि में भी उपयोगी है", "en": "No, it is useful in science, economics etc. too"}
         }
       ]
+    },
+    "chapter15": {
+      "section1": [
+        {
+          "q": {
+            "hi": "किसी घटना के होने की अनिश्चितता का संख्यात्मक रूप से मापन क्या कहलाता है?",
+            "en": "What is the numerical measurement of the uncertainty of an event called?"
+          },
+          "options": [
+            {"hi": "सांख्यिकी", "en": "Statistics"},
+            {"hi": "प्रायिकता", "en": "Probability"},
+            {"hi": "पूर्वानुमान", "en": "Prediction"},
+            {"hi": "आंकड़े", "en": "Data"}
+          ],
+          "answer": {"hi": "प्रायिकता", "en": "Probability"}
+        },
+        {
+          "q": {
+            "hi": "प्रायिकता के सिद्धांत का विकास सबसे पहले किसके अध्ययन से शुरू हुआ?",
+            "en": "The development of the theory of probability first began with the study of?"
+          },
+          "options": [
+            {"hi": "मौसम", "en": "Weather"},
+            {"hi": "शेयर बाजार", "en": "Stock market"},
+            {"hi": "जुआ (Games of chance)", "en": "Games of chance"},
+            {"hi": "बीमारी", "en": "Diseases"}
+          ],
+          "answer": {"hi": "जुआ (Games of chance)", "en": "Games of chance"}
+        },
+        {
+          "q": {
+            "hi": "एक प्रयोग जिसमें एक या अधिक परिणाम प्राप्त होते हैं, क्या कहलाता है?",
+            "en": "An action which results in one or several outcomes is called an?"
+          },
+          "options": [
+            {"hi": "घटना", "en": "Event"},
+            {"hi": "प्रयास (Trial)", "en": "Trial"},
+            {"hi": "प्रयोग", "en": "Experiment"},
+            {"hi": "परिणाम", "en": "Outcome"}
+          ],
+          "answer": {"hi": "प्रयास (Trial)", "en": "Trial"}
+        },
+        {
+          "q": {
+            "hi": "किसी प्रयोग के कुछ परिणामों का संग्रह क्या कहलाता है?",
+            "en": "A collection of some outcomes of an experiment is called an?"
+          },
+          "options": [
+            {"hi": "प्रयास", "en": "Trial"},
+            {"hi": "घटना (Event)", "en": "Event"},
+            {"hi": "संयोग", "en": "Chance"},
+            {"hi": "अनुमान", "en": "Guess"}
+          ],
+          "answer": {"hi": "घटना (Event)", "en": "Event"}
+        },
+        {
+          "q": {
+            "hi": "अनुभविक प्रायिकता (Empirical Probability) किस पर आधारित होती है?",
+            "en": "Empirical probability is based on?"
+          },
+          "options": [
+            {"hi": "तर्क पर", "en": "Logic"},
+            {"hi": "वास्तविक प्रयोगों के परिणामों पर", "en": "Actual results of experiments"},
+            {"hi": "केवल कल्पना पर", "en": "Pure imagination"},
+            {"hi": "भविष्यवाणी पर", "en": "Future predictions"}
+          ],
+          "answer": {"hi": "वास्तविक प्रयोगों के परिणामों पर", "en": "Actual results of experiments"}
+        },
+        {
+          "q": {
+            "hi": "यदि n प्रयासों में से कोई घटना E, m बार घटती है, तो P(E) क्या होगा?",
+            "en": "If event E occurs m times out of n trials, what is P(E)?"
+          },
+          "options": [
+            {"hi": "n/m", "en": "n/m"},
+            {"hi": "m/n", "en": "m/n"},
+            {"hi": "m+n", "en": "m+n"},
+            {"hi": "m-n", "en": "m-n"}
+          ],
+          "answer": {"hi": "m/n", "en": "m/n"}
+        },
+        {
+          "q": {
+            "hi": "किसी भी घटना की प्रायिकता हमेशा किन दो अंकों के बीच होती है?",
+            "en": "The probability of any event always lies between which two numbers?"
+          },
+          "options": [
+            {"hi": "-1 और 1", "en": "-1 and 1"},
+            {"hi": "0 और 1", "en": "0 and 1"},
+            {"hi": "1 और 10", "en": "1 and 10"},
+            {"hi": "0 और 100", "en": "0 and 100"}
+          ],
+          "answer": {"hi": "0 और 1", "en": "0 and 1"}
+        },
+        {
+          "q": {
+            "hi": "एक निश्चित घटना (Certain event) की प्रायिकता क्या होती है?",
+            "en": "What is the probability of a certain event?"
+          },
+          "options": [
+            {"hi": "0", "en": "0"},
+            {"hi": "0.5", "en": "0.5"},
+            {"hi": "1", "en": "1"},
+            {"hi": "अनंत", "en": "Infinite"}
+          ],
+          "answer": {"hi": "1", "en": "1"}
+        },
+        {
+          "q": {
+            "hi": "एक असंभव घटना (Impossible event) की प्रायिकता क्या होती है?",
+            "en": "What is the probability of an impossible event?"
+          },
+          "options": [
+            {"hi": "0", "en": "0"},
+            {"hi": "1", "en": "1"},
+            {"hi": "0.1", "en": "0.1"},
+            {"hi": "-1", "en": "-1"}
+          ],
+          "answer": {"hi": "0", "en": "0"}
+        },
+        {
+          "q": {
+            "hi": "किसी प्रयोग की सभी प्रारंभिक घटनाओं की प्रायिकताओं का योग कितना होता है?",
+            "en": "What is the sum of probabilities of all elementary events of an experiment?"
+          },
+          "options": [
+            {"hi": "0", "en": "0"},
+            {"hi": "1", "en": "1"},
+            {"hi": "0.5", "en": "0.5"},
+            {"hi": "100", "en": "100"}
+          ],
+          "answer": {"hi": "1", "en": "1"}
+        }
+      ],
+      "section2": [
+        {
+          "q": {
+            "hi": "एक सिक्के को उछालने पर 'चित' (Head) आने की प्रायिकता क्या है?",
+            "en": "What is the probability of getting a 'Head' when a coin is tossed?"
+          },
+          "options": [
+            {"hi": "1", "en": "1"},
+            {"hi": "0", "en": "0"},
+            {"hi": "1/2", "en": "1/2"},
+            {"hi": "1/4", "en": "1/4"}
+          ],
+          "answer": {"hi": "1/2", "en": "1/2"}
+        },
+        {
+          "q": {
+            "hi": "एक पासे (Dice) को फेंकने पर कुल कितने संभावित परिणाम हो सकते हैं?",
+            "en": "How many total possible outcomes are there when a dice is thrown?"
+          },
+          "options": [
+            {"hi": "2", "en": "2"},
+            {"hi": "4", "en": "4"},
+            {"hi": "6", "en": "6"},
+            {"hi": "12", "en": "12"}
+          ],
+          "answer": {"hi": "6", "en": "6"}
+        },
+        {
+          "q": {
+            "hi": "एक पासे को फेंकने पर संख्या '7' आने की प्रायिकता क्या होगी?",
+            "en": "What is the probability of getting a '7' on throwing a dice?"
+          },
+          "options": [
+            {"hi": "1/6", "en": "1/6"},
+            {"hi": "0", "en": "0"},
+            {"hi": "1", "en": "1"},
+            {"hi": "7/6", "en": "7/6"}
+          ],
+          "answer": {"hi": "0", "en": "0"}
+        },
+        {
+          "q": {
+            "hi": "दो सिक्कों को एक साथ उछालने पर कुल संभावित परिणामों की संख्या क्या है?",
+            "en": "What is the number of total possible outcomes when two coins are tossed simultaneously?"
+          },
+          "options": [
+            {"hi": "2", "en": "2"},
+            {"hi": "3", "en": "3"},
+            {"hi": "4", "en": "4"},
+            {"hi": "8", "en": "8"}
+          ],
+          "answer": {"hi": "4", "en": "4"}
+        },
+        {
+          "q": {
+            "hi": "एक पासे को फेंकने पर एक 'सम संख्या' (Even number) आने की प्रायिकता क्या है?",
+            "en": "What is the probability of getting an 'even number' when a dice is thrown?"
+          },
+          "options": [
+            {"hi": "1/2", "en": "1/2"},
+            {"hi": "1/3", "en": "1/3"},
+            {"hi": "1/6", "en": "1/6"},
+            {"hi": "2/3", "en": "2/3"}
+          ],
+          "answer": {"hi": "1/2", "en": "1/2"}
+        },
+        {
+          "q": {
+            "hi": "क्या प्रायिकता का मान 1.5 हो सकता है?",
+            "en": "Can the value of probability be 1.5?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "केवल विशेष स्थितियों में", "en": "Only in special cases"},
+            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"}
+          ],
+          "answer": {"hi": "नहीं", "en": "No"}
+        },
+        {
+          "q": {
+            "hi": "एक पासे को फेंकने पर '3 से छोटी' संख्या आने की प्रायिकता क्या है?",
+            "en": "What is the probability of getting a number 'less than 3' when a dice is thrown?"
+          },
+          "options": [
+            {"hi": "1/3", "en": "1/3"},
+            {"hi": "1/2", "en": "1/2"},
+            {"hi": "2/3", "en": "2/3"},
+            {"hi": "1/6", "en": "1/6"}
+          ],
+          "answer": {"hi": "1/3", "en": "1/3"}
+        },
+        {
+          "q": {
+            "hi": "सिक्कों के उछाल में (H, T) का क्या अर्थ है?",
+            "en": "In coin tosses, what does (H, T) mean?"
+          },
+          "options": [
+            {"hi": "दो चित", "en": "Two Heads"},
+            {"hi": "दो पट", "en": "Two Tails"},
+            {"hi": "पहला चित और दूसरा पट", "en": "First Head and second Tail"},
+            {"hi": "दोनों पट", "en": "Both Tails"}
+          ],
+          "answer": {"hi": "पहला चित और दूसरा पट", "en": "First Head and second Tail"}
+        },
+        {
+          "q": {
+            "hi": "यदि P(E) = 0.05 है, तो 'E नहीं' (not E) की प्रायिकता क्या होगी?",
+            "en": "If P(E) = 0.05, what is the probability of 'not E'?"
+          },
+          "options": [
+            {"hi": "0.05", "en": "0.05"},
+            {"hi": "0.95", "en": "0.95"},
+            {"hi": "1.05", "en": "1.05"},
+            {"hi": "0", "en": "0"}
+          ],
+          "answer": {"hi": "0.95", "en": "0.95"}
+        },
+        {
+          "q": {
+            "hi": "एक पासे को फेंकने पर एक 'अभाज्य संख्या' (Prime number) आने की प्रायिकता क्या है?",
+            "en": "What is the probability of getting a 'prime number' when a dice is thrown?"
+          },
+          "options": [
+            {"hi": "1/6", "en": "1/6"},
+            {"hi": "1/3", "en": "1/3"},
+            {"hi": "1/2", "en": "1/2"},
+            {"hi": "5/6", "en": "5/6"}
+          ],
+          "answer": {"hi": "1/2", "en": "1/2"}
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "ताश की एक गड्डी में कुल कितने पत्ते होते हैं?",
+            "en": "How many total cards are there in a pack of playing cards?"
+          },
+          "options": [
+            {"hi": "48", "en": "48"},
+            {"hi": "50", "en": "50"},
+            {"hi": "52", "en": "52"},
+            {"hi": "54", "en": "54"}
+          ],
+          "answer": {"hi": "52", "en": "52"}
+        },
+        {
+          "q": {
+            "hi": "ताश की गड्डी में कुल कितने 'लाल रंग' के पत्ते होते हैं?",
+            "en": "How many total 'red colored' cards are there in a pack of cards?"
+          },
+          "options": [
+            {"hi": "13", "en": "13"},
+            {"hi": "26", "en": "26"},
+            {"hi": "39", "en": "39"},
+            {"hi": "4", "en": "4"}
+          ],
+          "answer": {"hi": "26", "en": "26"}
+        },
+        {
+          "q": {
+            "hi": "ताश की गड्डी में कितने 'हुकुम' (Spades) के पत्ते होते हैं?",
+            "en": "How many cards of 'Spades' are there in a pack of cards?"
+          },
+          "options": [
+            {"hi": "10", "en": "10"},
+            {"hi": "12", "en": "12"},
+            {"hi": "13", "en": "13"},
+            {"hi": "26", "en": "26"}
+          ],
+          "answer": {"hi": "13", "en": "13"}
+        },
+        {
+          "q": {
+            "hi": "एक अच्छी तरह फेंटी गई ताश की गड्डी में से एक 'इक्का' (Ace) निकालने की प्रायिकता क्या है?",
+            "en": "What is the probability of drawing an 'Ace' from a well-shuffled pack of cards?"
+          },
+          "options": [
+            {"hi": "1/52", "en": "1/52"},
+            {"hi": "1/26", "en": "1/26"},
+            {"hi": "1/13", "en": "1/13"},
+            {"hi": "4/13", "en": "4/13"}
+          ],
+          "answer": {"hi": "1/13", "en": "1/13"}
+        },
+        {
+          "q": {
+            "hi": "एक थैले में 3 लाल और 5 काली गेंदें हैं। एक लाल गेंद निकालने की प्रायिकता क्या होगी?",
+            "en": "A bag contains 3 red and 5 black balls. What is the probability of drawing a red ball?"
+          },
+          "options": [
+            {"hi": "3/5", "en": "3/5"},
+            {"hi": "5/8", "en": "5/8"},
+            {"hi": "3/8", "en": "3/8"},
+            {"hi": "1/8", "en": "1/8"}
+          ],
+          "answer": {"hi": "3/8", "en": "3/8"}
+        },
+        {
+          "q": {
+            "hi": "एक सिक्के को 1000 बार उछालने पर चित 455 बार आता है। पट आने की अनुभविक प्रायिकता क्या होगी?",
+            "en": "A coin is tossed 1000 times and Head occurs 455 times. What is the empirical probability of getting a Tail?"
+          },
+          "options": [
+            {"hi": "0.455", "en": "0.455"},
+            {"hi": "0.545", "en": "0.545"},
+            {"hi": "0.500", "en": "0.500"},
+            {"hi": "0.600", "en": "0.600"}
+          ],
+          "answer": {"hi": "0.545", "en": "0.545"}
+        },
+        {
+          "q": {
+            "hi": "किसी क्रिकेट मैच में एक महिला बल्लेबाज 30 गेंदों में 6 बार चौका मारती है। चौका 'न मारने' की प्रायिकता क्या होगी?",
+            "en": "In a cricket match, a batswoman hits a boundary 6 times out of 30 balls. What is the probability that she 'did not hit' a boundary?"
+          },
+          "options": [
+            {"hi": "6/30", "en": "6/30"},
+            {"hi": "24/30", "en": "24/30"},
+            {"hi": "1/5", "en": "1/5"},
+            {"hi": "1/30", "en": "1/30"}
+          ],
+          "answer": {"hi": "24/30", "en": "24/30"}
+        },
+        {
+          "q": {
+            "hi": "निश्चित घटना और असंभव घटना की प्रायिकताओं का योग क्या होता है?",
+            "en": "What is the sum of probabilities of a certain event and an impossible event?"
+          },
+          "options": [
+            {"hi": "0", "en": "0"},
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "0.5", "en": "0.5"}
+          ],
+          "answer": {"hi": "1", "en": "1"}
+        },
+        {
+          "q": {
+            "hi": "एक पासे को फेंकने पर 'विषम संख्या' (Odd number) आने की प्रायिकता क्या है?",
+            "en": "What is the probability of getting an 'odd number' when a dice is thrown?"
+          },
+          "options": [
+            {"hi": "1/2", "en": "1/2"},
+            {"hi": "1/3", "en": "1/3"},
+            {"hi": "1/6", "en": "1/6"},
+            {"hi": "1", "en": "1"}
+          ],
+          "answer": {"hi": "1/2", "en": "1/2"}
+        },
+        {
+          "q": {
+            "hi": "क्या प्रायिकता कभी ऋणात्मक हो सकती है?",
+            "en": "Can probability ever be negative?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "कभी-कभी", "en": "Sometimes"},
+            {"hi": "केवल शून्य से नीचे", "en": "Only below zero"}
+          ],
+          "answer": {"hi": "नहीं", "en": "No"}
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "अंग्रेजी वर्णमाला के अक्षरों में से एक स्वर (Vowel) चुनने की प्रायिकता क्या है?",
+            "en": "What is the probability of choosing a vowel from the letters of the English alphabet?"
+          },
+          "options": [
+            {"hi": "5/26", "en": "5/26"},
+            {"hi": "21/26", "en": "21/26"},
+            {"hi": "1/26", "en": "1/26"},
+            {"hi": "1/5", "en": "1/5"}
+          ],
+          "answer": {"hi": "5/26", "en": "5/26"}
+        },
+        {
+          "q": {
+            "hi": "एक थैले में 5 नीली, 2 लाल और 3 पीली गेंदें हैं। एक नीली गेंद निकालने की प्रायिकता क्या है?",
+            "en": "A bag has 5 blue, 2 red, and 3 yellow balls. What is the probability of picking a blue ball?"
+          },
+          "options": [
+            {"hi": "1/2", "en": "1/2"},
+            {"hi": "1/5", "en": "1/5"},
+            {"hi": "5/10", "en": "5/10"},
+            {"hi": "उपरोक्त दोनों A और C", "en": "Both A and C above"}
+          ],
+          "answer": {"hi": "उपरोक्त दोनों A और C", "en": "Both A and C above"}
+        },
+        {
+          "q": {
+            "hi": "संख्याओं 1 से 10 तक में से एक 'अभाज्य संख्या' चुनने की प्रायिकता क्या है?",
+            "en": "What is the probability of choosing a 'prime number' from numbers 1 to 10?"
+          },
+          "options": [
+            {"hi": "4/10", "en": "4/10"},
+            {"hi": "3/10", "en": "3/10"},
+            {"hi": "5/10", "en": "5/10"},
+            {"hi": "1/2", "en": "1/2"}
+          ],
+          "answer": {"hi": "4/10", "en": "4/10"}
+        },
+        {
+          "q": {
+            "hi": "किसी बच्चे के जन्म लेने पर उसके 'लड़का' होने की प्रायिकता क्या है?",
+            "en": "What is the probability of a newborn baby being a 'boy'?"
+          },
+          "options": [
+            {"hi": "1", "en": "1"},
+            {"hi": "1/2", "en": "1/2"},
+            {"hi": "0", "en": "0"},
+            {"hi": "1/4", "en": "1/4"}
+          ],
+          "answer": {"hi": "1/2", "en": "1/2"}
+        },
+        {
+          "q": {
+            "hi": "पासे को फेंकने पर '4 से बड़ी' संख्या आने की प्रायिकता क्या है?",
+            "en": "What is the probability of getting a number 'greater than 4' when a dice is thrown?"
+          },
+          "options": [
+            {"hi": "1/3", "en": "1/3"},
+            {"hi": "1/2", "en": "1/2"},
+            {"hi": "2/3", "en": "2/3"},
+            {"hi": "1/6", "en": "1/6"}
+          ],
+          "answer": {"hi": "1/3", "en": "1/3"}
+        },
+        {
+          "q": {
+            "hi": "एक पासे को फेंकने पर संख्या '0' आने की प्रायिकता क्या है?",
+            "en": "What is the probability of getting number '0' on throwing a dice?"
+          },
+          "options": [
+            {"hi": "0", "en": "0"},
+            {"hi": "1", "en": "1"},
+            {"hi": "1/6", "en": "1/6"},
+            {"hi": "अपरिभाषित", "en": "Undefined"}
+          ],
+          "answer": {"hi": "0", "en": "0"}
+        },
+        {
+          "q": {
+            "hi": "दो बच्चों वाले 1500 परिवारों में से 814 परिवारों में दो लड़कियाँ हैं। यादृच्छया चुने गए परिवार में 'दो लड़कियाँ' होने की प्रायिकता क्या है?",
+            "en": "In 1500 families with two children, 814 have two girls. What is the probability of a randomly chosen family having 'two girls'?"
+          },
+          "options": [
+            {"hi": "814/1500", "en": "814/1500"},
+            {"hi": "407/750", "en": "407/750"},
+            {"hi": "उपरोक्त दोनों", "en": "Both of the above"},
+            {"hi": "1500/814", "en": "1500/814"}
+          ],
+          "answer": {"hi": "उपरोक्त दोनों", "en": "Both of the above"}
+        },
+        {
+          "q": {
+            "hi": "प्रायिकता का अधिकतम मान क्या हो सकता है?",
+            "en": "What can be the maximum value of probability?"
+          },
+          "options": [
+            {"hi": "0", "en": "0"},
+            {"hi": "0.5", "en": "0.5"},
+            {"hi": "1", "en": "1"},
+            {"hi": "100", "en": "100"}
+          ],
+          "answer": {"hi": "1", "en": "1"}
+        },
+        {
+          "q": {
+            "hi": "क्या 'कल सूर्य पश्चिम से निकलेगा' इस घटना की प्रायिकता 1 हो सकती है?",
+            "en": "Can the probability of the event 'tomorrow the sun will rise from the west' be 1?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "कभी-कभी", "en": "Sometimes"},
+            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"}
+          ],
+          "answer": {"hi": "नहीं", "en": "No"}
+        },
+        {
+          "q": {
+            "hi": "ताश की गड्डी में कुल कितने 'बादशाह' (Kings) होते हैं?",
+            "en": "How many total 'Kings' are there in a pack of cards?"
+          },
+          "options": [
+            {"hi": "2", "en": "2"},
+            {"hi": "4", "en": "4"},
+            {"hi": "13", "en": "13"},
+            {"hi": "1", "en": "1"}
+          ],
+          "answer": {"hi": "4", "en": "4"}
+        }
+      ],
+      "section5": [
+        {
+          "q": {
+            "hi": "एक पासे को फेंकने पर '1 और 6 के बीच' की कोई संख्या आने की प्रायिकता क्या है?",
+            "en": "What is the probability of getting a number 'between 1 and 6' when a dice is thrown?"
+          },
+          "options": [
+            {"hi": "4/6", "en": "4/6"},
+            {"hi": "2/3", "en": "2/3"},
+            {"hi": "उपरोक्त दोनों", "en": "Both of the above"},
+            {"hi": "5/6", "en": "5/6"}
+          ],
+          "answer": {"hi": "उपरोक्त दोनों", "en": "Both of the above"}
+        },
+        {
+          "q": {
+            "hi": "यदि किसी खेल को जीतने की प्रायिकता 0.7 है, तो उसे हारने की प्रायिकता क्या होगी?",
+            "en": "If the probability of winning a game is 0.7, what is the probability of losing it?"
+          },
+          "options": [
+            {"hi": "0.7", "en": "0.7"},
+            {"hi": "0.3", "en": "0.3"},
+            {"hi": "1", "en": "1"},
+            {"hi": "0", "en": "0"}
+          ],
+          "answer": {"hi": "0.3", "en": "0.3"}
+        },
+        {
+          "q": {
+            "hi": "एक थैले में गेंदे निकालने के प्रयोग में 'संभावना' को संख्यात्मक रूप में व्यक्त करना क्या कहलाता है?",
+            "en": "Expressing 'chance' numerically in a ball-picking experiment is called?"
+          },
+          "options": [
+            {"hi": "सांख्यिकी", "en": "Statistics"},
+            {"hi": "प्रायिकता", "en": "Probability"},
+            {"hi": "अनुपात", "en": "Ratio"},
+            {"hi": "प्रतिशत", "en": "Percentage"}
+          ],
+          "answer": {"hi": "प्रायिकता", "en": "Probability"}
+        },
+        {
+          "q": {
+            "hi": "एक पासे को फेंकने पर '7 से छोटी' संख्या आने की प्रायिकता क्या है?",
+            "en": "What is the probability of getting a number 'less than 7' when a dice is thrown?"
+          },
+          "options": [
+            {"hi": "1", "en": "1"},
+            {"hi": "0", "en": "0"},
+            {"hi": "1/6", "en": "1/6"},
+            {"hi": "5/6", "en": "5/6"}
+          ],
+          "answer": {"hi": "1", "en": "1"}
+        },
+        {
+          "q": {
+            "hi": "ताश की गड्डी में 'चित्र वाले पत्ते' (Face cards) कितने होते हैं?",
+            "en": "How many 'Face cards' are there in a pack of cards?"
+          },
+          "options": [
+            {"hi": "4", "en": "4"},
+            {"hi": "12", "en": "12"},
+            {"hi": "16", "en": "16"},
+            {"hi": "52", "en": "52"}
+          ],
+          "answer": {"hi": "12", "en": "12"}
+        },
+        {
+          "q": {
+            "hi": "एक सिक्के को दो बार उछालने पर 'कम से कम एक पट' आने की प्रायिकता क्या है?",
+            "en": "What is the probability of getting 'at least one Tail' when a coin is tossed twice?"
+          },
+          "options": [
+            {"hi": "1/4", "en": "1/4"},
+            {"hi": "2/4", "en": "2/4"},
+            {"hi": "3/4", "en": "3/4"},
+            {"hi": "1", "en": "1"}
+          ],
+          "answer": {"hi": "3/4", "en": "3/4"}
+        },
+        {
+          "q": {
+            "hi": "यदि P(E) = 1 है, तो घटना E को क्या कहा जाता है?",
+            "en": "If P(E) = 1, what is event E called?"
+          },
+          "options": [
+            {"hi": "असंभव घटना", "en": "Impossible event"},
+            {"hi": "निश्चित घटना", "en": "Certain event"},
+            {"hi": "प्रारंभिक घटना", "en": "Elementary event"},
+            {"hi": "अनिश्चित घटना", "en": "Uncertain event"}
+          ],
+          "answer": {"hi": "निश्चित घटना", "en": "Certain event"}
+        },
+        {
+          "q": {
+            "hi": "प्रायिकता का न्यूनतम मान क्या हो सकता है?",
+            "en": "What is the minimum possible value of probability?"
+          },
+          "options": [
+            {"hi": "0", "en": "0"},
+            {"hi": "1", "en": "1"},
+            {"hi": "-1", "en": "-1"},
+            {"hi": "0.1", "en": "0.1"}
+          ],
+          "answer": {"hi": "0", "en": "0"}
+        },
+        {
+          "q": {
+            "hi": "एक पासे को फेंकने पर संख्या '2' आने की प्रायिकता क्या है?",
+            "en": "What is the probability of getting number '2' on throwing a dice?"
+          },
+          "options": [
+            {"hi": "1/6", "en": "1/6"},
+            {"hi": "2/6", "en": "2/6"},
+            {"hi": "1/2", "en": "1/2"},
+            {"hi": "1", "en": "1"}
+          ],
+          "answer": {"hi": "1/6", "en": "1/6"}
+        },
+        {
+          "q": {
+            "hi": "क्या 'कल भारी वर्षा होगी' इसकी प्रायिकता 0.2 हो सकती है?",
+            "en": "Can the probability of 'it will rain heavily tomorrow' be 0.2?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "केवल सर्दियों में", "en": "Only in winters"},
+            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"}
+          ],
+          "answer": {"hi": "हाँ", "en": "Yes"}
+        }
+      ]
     }
   }
-}
+  }
+
