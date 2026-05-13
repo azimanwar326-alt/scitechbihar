@@ -6619,6 +6619,668 @@
           "answer": {"hi": "सतर्कता और एकजुटता", "en": "Vigilance and solidarity"}
         }
       ]
+    },
+    "chapter11": {
+      "section1": [
+        {
+          "q": {
+            "hi": "मानवीय गलतियों के कारण होने वाली आपदाओं को मुख्य रूप से किन वर्गों में रखा जा सकता है?",
+            "en": "Into which main categories can disasters caused by human errors be placed?"
+          },
+          "options": [
+            {"hi": "भूकंप और बाढ़", "en": "Earthquake and Flood"},
+            {"hi": "नाभिकीय, जैविक और रासायनिक", "en": "Nuclear, Biological and Chemical"},
+            {"hi": "चक्रवात और सुनामी", "en": "Cyclone and Tsunami"},
+            {"hi": "भूस्खलन और हिमपात", "en": "Landslide and Snowfall"}
+          ],
+          "answer": {"hi": "नाभिकीय, जैविक और रासायनिक", "en": "Nuclear, Biological and Chemical"}
+        },
+        {
+          "q": {
+            "hi": "विश्व की पहली नाभिकीय आपदा कब और कहाँ हुई थी?",
+            "en": "When and where did the world's first nuclear disaster occur?"
+          },
+          "options": [
+            {"hi": "1945, जापान (हिरोशिमा और नागासाकी)", "en": "1945, Japan (Hiroshima and Nagasaki)"},
+            {"hi": "1986, यूक्रेन (चेरनोबिल)", "en": "1986, Ukraine (Chernobyl)"},
+            {"hi": "2011, जापान (फुकुशिमा)", "en": "2011, Japan (Fukushima)"},
+            {"hi": "1984, भारत (भोपाल)", "en": "1984, India (Bhopal)"}
+          ],
+          "answer": {"hi": "1945, जापान (हिरोशिमा और नागासाकी)", "en": "1945, Japan (Hiroshima and Nagasaki)"}
+        },
+        {
+          "q": {
+            "hi": "नाभिकीय ऊर्जा के उत्पादन में किसका प्रयोग ईंधन के रूप में किया जाता है?",
+            "en": "What is used as fuel in the production of nuclear energy?"
+          },
+          "options": [
+            {"hi": "कोयला", "en": "Coal"},
+            {"hi": "पेट्रोलियम", "en": "Petroleum"},
+            {"hi": "यूरेनियम और प्लूटोनियम", "en": "Uranium and Plutonium"},
+            {"hi": "प्राकृतिक गैस", "en": "Natural Gas"}
+          ],
+          "answer": {"hi": "यूरेनियम और प्लूटोनियम", "en": "Uranium and Plutonium"}
+        },
+        {
+          "q": {
+            "hi": "नाभिकीय आपदा का सबसे घातक प्रभाव क्या होता है?",
+            "en": "What is the most lethal effect of a nuclear disaster?"
+          },
+          "options": [
+            {"hi": "ध्वनि प्रदूषण", "en": "Noise pollution"},
+            {"hi": "रेडियोधर्मी विकिरण (Radiation)", "en": "Radioactive radiation"},
+            {"hi": "बाढ़ आना", "en": "Flooding"},
+            {"hi": "मिट्टी का कटाव", "en": "Soil erosion"}
+          ],
+          "answer": {"hi": "रेडियोधर्मी विकिरण (Radiation)", "en": "Radioactive radiation"}
+        },
+        {
+          "q": {
+            "hi": "6 अगस्त 1945 को किस शहर पर परमाणु बम गिराया गया था?",
+            "en": "On which city was the atomic bomb dropped on August 6, 1945?"
+          },
+          "options": [
+            {"hi": "टोक्यो", "en": "Tokyo"},
+            {"hi": "नागासाकी", "en": "Nagasaki"},
+            {"hi": "हिरोशिमा", "en": "Hiroshima"},
+            {"hi": "ओसाका", "en": "Osaka"}
+          ],
+          "answer": {"hi": "हिरोशिमा", "en": "Hiroshima"}
+        },
+        {
+          "q": {
+            "hi": "नाभिकीय विकिरण से बचने के लिए क्या उपाय करना चाहिए?",
+            "en": "What measures should be taken to avoid nuclear radiation?"
+          },
+          "options": [
+            {"hi": "खुले मैदान में दौड़ना", "en": "Running in an open field"},
+            {"hi": "घर की खिड़कियाँ खुली रखना", "en": "Keeping home windows open"},
+            {"hi": "नाक और मुँह को गीले कपड़े से ढँकना", "en": "Covering nose and mouth with a wet cloth"},
+            {"hi": "नदी में नहाना", "en": "Bathing in a river"}
+          ],
+          "answer": {"hi": "नाक और मुँह को गीले कपड़े से ढँकना", "en": "Covering nose and mouth with a wet cloth"}
+        },
+        {
+          "q": {
+            "hi": "चेरनोबिल (यूक्रेन) परमाणु दुर्घटना किस वर्ष हुई थी?",
+            "en": "In which year did the Chernobyl (Ukraine) nuclear accident occur?"
+          },
+          "options": [
+            {"hi": "1974", "en": "1974"},
+            {"hi": "1980", "en": "1980"},
+            {"hi": "1986", "en": "1986"},
+            {"hi": "1990", "en": "1990"}
+          ],
+          "answer": {"hi": "1986", "en": "1986"}
+        },
+        {
+          "q": {
+            "hi": "परमाणु रिएक्टर में होने वाले विस्फोट का मुख्य कारण क्या हो सकता है?",
+            "en": "What can be the main cause of an explosion in a nuclear reactor?"
+          },
+          "options": [
+            {"hi": "अत्यधिक दबाव या तकनीक खराबी", "en": "Excessive pressure or technical failure"},
+            {"hi": "ईंधन की कमी", "en": "Lack of fuel"},
+            {"hi": "साफ-सफाई की कमी", "en": "Lack of cleanliness"},
+            {"hi": "बिजली की बचत", "en": "Saving electricity"}
+          ],
+          "answer": {"hi": "अत्यधिक दबाव या तकनीक खराबी", "en": "Excessive pressure or technical failure"}
+        },
+        {
+          "q": {
+            "hi": "भारत का महत्वाकांक्षी चंद्रमा मिशन कौन सा है?",
+            "en": "Which is India's ambitious moon mission?"
+          },
+          "options": [
+            {"hi": "अग्नि", "en": "Agni"},
+            {"hi": "चंद्रयान", "en": "Chandrayaan"},
+            {"hi": "मंगलयान", "en": "Mangalyaan"},
+            {"hi": "आकाश", "en": "Akash"}
+          ],
+          "answer": {"hi": "चंद्रयान", "en": "Chandrayaan"}
+        },
+        {
+          "q": {
+            "hi": "रेडियोधर्मी कणों से प्रभावित भोजन करने से कौन सी बीमारी हो सकती है?",
+            "en": "Which disease can be caused by consuming food affected by radioactive particles?"
+          },
+          "options": [
+            {"hi": "मलेरिया", "en": "Malaria"},
+            {"hi": "कैंसर और आनुवंशिक दोष", "en": "Cancer and genetic defects"},
+            {"hi": "बुखार", "en": "Fever"},
+            {"hi": "मोतियाबिंद", "en": "Cataract"}
+          ],
+          "answer": {"hi": "कैंसर और आनुवंशिक दोष", "en": "Cancer and genetic defects"}
+        }
+      ],
+      "section2": [
+        {
+          "q": {
+            "hi": "जैविक आपदा का मुख्य कारण क्या है?",
+            "en": "What is the main cause of a biological disaster?"
+          },
+          "options": [
+            {"hi": "ज़हरीली गैस", "en": "Toxic gas"},
+            {"hi": "सूक्ष्मजीव (वायरस, बैक्टीरिया आदि)", "en": "Micro-organisms (Viruses, Bacteria etc.)"},
+            {"hi": "बम विस्फोट", "en": "Bomb blast"},
+            {"hi": "सूखा", "en": "Drought"}
+          ],
+          "answer": {"hi": "सूक्ष्मजीव (वायरस, बैक्टीरिया आदि)", "en": "Micro-organisms (Viruses, Bacteria etc.)"}
+        },
+        {
+          "q": {
+            "hi": "जैविक हथियारों (Biological Weapons) के रूप में किसका प्रयोग किया जाता है?",
+            "en": "What is used as Biological Weapons?"
+          },
+          "options": [
+            {"hi": "बंदूक", "en": "Guns"},
+            {"hi": "मिसाइल", "en": "Missiles"},
+            {"hi": "रोगजनक कीटाणु", "en": "Pathogenic germs"},
+            {"hi": "बारूद", "en": "Gunpowder"}
+          ],
+          "answer": {"hi": "रोगजनक कीटाणु", "en": "Pathogenic germs"}
+        },
+        {
+          "q": {
+            "hi": "एन्थ्रैक्स (Anthrax) क्या है?",
+            "en": "What is Anthrax?"
+          },
+          "options": [
+            {"hi": "एक प्रकार का रोबोट", "en": "A type of robot"},
+            {"hi": "एक घातक सूक्ष्म जीव", "en": "A deadly micro-organism"},
+            {"hi": "एक रॉकेट", "en": "A rocket"},
+            {"hi": "एक रासायनिक गैस", "en": "A chemical gas"}
+          ],
+          "answer": {"hi": "एक घातक सूक्ष्म जीव", "en": "A deadly micro-organism"}
+        },
+        {
+          "q": {
+            "hi": "प्लेग (Plague) बीमारी किसके माध्यम से फैलती है?",
+            "en": "Through what medium does the Plague disease spread?"
+          },
+          "options": [
+            {"hi": "कुत्ते", "en": "Dogs"},
+            {"hi": "चूहे", "en": "Rats"},
+            {"hi": "बंदर", "en": "Monkeys"},
+            {"hi": "मछली", "en": "Fish"}
+          ],
+          "answer": {"hi": "चूहे", "en": "Rats"}
+        },
+        {
+          "q": {
+            "hi": "हैजा (Cholera) बीमारी का मुख्य कारण क्या है?",
+            "en": "What is the main cause of Cholera?"
+          },
+          "options": [
+            {"hi": "शुद्ध हवा", "en": "Pure air"},
+            {"hi": "दूषित जल और भोजन", "en": "Contaminated water and food"},
+            {"hi": "अधिक नींद", "en": "Excessive sleep"},
+            {"hi": "व्यायाम", "en": "Exercise"}
+          ],
+          "answer": {"hi": "दूषित जल और भोजन", "en": "Contaminated water and food"}
+        },
+        {
+          "q": {
+            "hi": "डेंगू (Dengue) बीमारी का क्या कारण है?",
+            "en": "What is the cause of Dengue disease?"
+          },
+          "options": [
+            {"hi": "गंदा भोजन", "en": "Dirty food"},
+            {"hi": "साफ पानी में मच्छरों का पनपना", "en": "Breeding of mosquitoes in clean water"},
+            {"hi": "ठंडी हवा", "en": "Cold air"},
+            {"hi": "धूप", "en": "Sunlight"}
+          ],
+          "answer": {"hi": "साफ पानी में मच्छरों का पनपना", "en": "Breeding of mosquitoes in clean water"}
+        },
+        {
+          "q": {
+            "hi": "भारत में एड्स (AIDS) से लगभग कितने लोग प्रभावित हैं?",
+            "en": "Approximately how many people are affected by AIDS in India?"
+          },
+          "options": [
+            {"hi": "10 लाख", "en": "10 Lakh"},
+            {"hi": "25 लाख", "en": "25 Lakh"},
+            {"hi": "50 लाख", "en": "50 Lakh"},
+            {"hi": "1 करोड़", "en": "1 Crore"}
+          ],
+          "answer": {"hi": "25 लाख", "en": "25 Lakh"}
+        },
+        {
+          "q": {
+            "hi": "संक्रामक बीमारियों के प्रसार को रोकने का सबसे प्रभावी तरीका क्या है?",
+            "en": "What is the most effective way to stop the spread of infectious diseases?"
+          },
+          "options": [
+            {"hi": "भीड़भाड़ वाले स्थानों पर जाना", "en": "Visiting crowded places"},
+            {"hi": "साफ-सफाई और टीकाकरण", "en": "Cleanliness and vaccination"},
+            {"hi": "दवाइयाँ न लेना", "en": "Not taking medicines"},
+            {"hi": "हाथ न धोना", "en": "Not washing hands"}
+          ],
+          "answer": {"hi": "साफ-सफाई और टीकाकरण", "en": "Cleanliness and vaccination"}
+        },
+        {
+          "q": {
+            "hi": "चेचक (Smallpox) के उन्मूलन के लिए किसका प्रयोग किया गया?",
+            "en": "What was used for the eradication of Smallpox?"
+          },
+          "options": [
+            {"hi": "एंटीबायोटिक", "en": "Antibiotic"},
+            {"hi": "टीका (Vaccine)", "en": "Vaccine"},
+            {"hi": "पेन किलर", "en": "Pain killer"},
+            {"hi": "विटामिन", "en": "Vitamin"}
+          ],
+          "answer": {"hi": "टीका (Vaccine)", "en": "Vaccine"}
+        },
+        {
+          "q": {
+            "hi": "जैविक आपदा के दौरान प्रशासन द्वारा क्या किया जाना चाहिए?",
+            "en": "What should be done by the administration during a biological disaster?"
+          },
+          "options": [
+            {"hi": "छुट्टी मनाना", "en": "Celebrating holidays"},
+            {"hi": "क्षेत्र की घेराबंदी (Quarantine)", "en": "Quarantining the area"},
+            {"hi": "मेला लगाना", "en": "Organizing a fair"},
+            {"hi": "सूचना छिपाना", "en": "Hiding information"}
+          ],
+          "answer": {"hi": "क्षेत्र की घेराबंदी (Quarantine)", "en": "Quarantining the area"}
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "रासायनिक आपदा का सबसे प्रमुख उदाहरण कौन सा है?",
+            "en": "Which is the most prominent example of a chemical disaster?"
+          },
+          "options": [
+            {"hi": "भोपाल गैस त्रासदी", "en": "Bhopal Gas Tragedy"},
+            {"hi": "चेरनोबिल हादसा", "en": "Chernobyl accident"},
+            {"hi": "सुनामी 2004", "en": "Tsunami 2004"},
+            {"hi": "बिहार बाढ़", "en": "Bihar Flood"}
+          ],
+          "answer": {"hi": "भोपाल गैस त्रासदी", "en": "Bhopal Gas Tragedy"}
+        },
+        {
+          "q": {
+            "hi": "भोपाल गैस त्रासदी किस वर्ष हुई थी?",
+            "en": "In which year did the Bhopal Gas Tragedy occur?"
+          },
+          "options": [
+            {"hi": "1980", "en": "1980"},
+            {"hi": "1982", "en": "1982"},
+            {"hi": "1984", "en": "1984"},
+            {"hi": "1986", "en": "1986"}
+          ],
+          "answer": {"hi": "1984", "en": "1984"}
+        },
+        {
+          "q": {
+            "hi": "भोपाल गैस त्रासदी में किस गैस का रिसाव हुआ था?",
+            "en": "Which gas leaked during the Bhopal Gas Tragedy?"
+          },
+          "options": [
+            {"hi": "कार्बन डाइऑक्साइड", "en": "Carbon Dioxide"},
+            {"hi": "मिथाइल आइसोसाइनेट (MIC)", "en": "Methyl Isocyanate (MIC)"},
+            {"hi": "नाइट्रोजन", "en": "Nitrogen"},
+            {"hi": "ऑक्सीजन", "en": "Oxygen"}
+          ],
+          "answer": {"hi": "मिथाइल आइसोसाइनेट (MIC)", "en": "Methyl Isocyanate (MIC)"}
+        },
+        {
+          "q": {
+            "hi": "भोपाल में किस कंपनी के कारखाने से गैस रिसाव हुआ था?",
+            "en": "From which company's factory did the gas leak in Bhopal?"
+          },
+          "options": [
+            {"hi": "टाटा स्टील", "en": "Tata Steel"},
+            {"hi": "यूनियन कार्बाइड", "en": "Union Carbide"},
+            {"hi": "रिलायंस", "en": "Reliance"},
+            {"hi": "भेल (BHEL)", "en": "BHEL"}
+          ],
+          "answer": {"hi": "यूनियन कार्बाइड", "en": "Union Carbide"}
+        },
+        {
+          "q": {
+            "hi": "रासायनिक गैस रिसाव होने पर हवा की दिशा के साथ क्या करना चाहिए?",
+            "en": "What should be done regarding the wind direction during a chemical gas leak?"
+          },
+          "options": [
+            {"hi": "हवा की दिशा में दौड़ना", "en": "Running in the direction of wind"},
+            {"hi": "हवा की दिशा के विपरीत जाना", "en": "Going opposite to the wind direction"},
+            {"hi": "वही खड़े रहना", "en": "Staying right there"},
+            {"hi": "गहरी साँस लेना", "en": "Taking deep breaths"}
+          ],
+          "answer": {"hi": "हवा की दिशा के विपरीत जाना", "en": "Going opposite to the wind direction"}
+        },
+        {
+          "q": {
+            "hi": "घरों में रसोई गैस (LPG) रिसाव होने पर सबसे पहले क्या करना चाहिए?",
+            "en": "What should be first done during an LPG leak at home?"
+          },
+          "options": [
+            {"hi": "माचिस जलाना", "en": "Lighting a match"},
+            {"hi": "बिजली का स्विच ऑन करना", "en": "Switching on electricity"},
+            {"hi": "रेगुलेटर बंद करना और खिड़कियाँ खोलना", "en": "Closing the regulator and opening windows"},
+            {"hi": "पानी छिड़कना", "en": "Sprinkling water"}
+          ],
+          "answer": {"hi": "रेगुलेटर बंद करना और खिड़कियाँ खोलना", "en": "Closing the regulator and opening windows"}
+        },
+        {
+          "q": {
+            "hi": "रासायनिक आपदाओं से बचने के लिए कारखानों को कहाँ स्थापित करना चाहिए?",
+            "en": "Where should factories be established to avoid chemical disasters?"
+          },
+          "options": [
+            {"hi": "शहर के बीचों-बीच", "en": "In the heart of the city"},
+            {"hi": "आवासीय क्षेत्रों से दूर", "en": "Away from residential areas"},
+            {"hi": "स्कूलों के पास", "en": "Near schools"},
+            {"hi": "नदी के बिल्कुल किनारे", "en": "Right on the river bank"}
+          ],
+          "answer": {"hi": "आवासीय क्षेत्रों से दूर", "en": "Away from residential areas"}
+        },
+        {
+          "q": {
+            "hi": "आँख में रासायनिक पदार्थ पड़ने पर क्या करना चाहिए?",
+            "en": "What should be done if a chemical substance gets into the eye?"
+          },
+          "options": [
+            {"hi": "आँख को रगड़ना", "en": "Rubbing the eye"},
+            {"hi": "आँख को साफ पानी से बार-बार धोना", "en": "Washing the eye repeatedly with clean water"},
+            {"hi": "आँख बंद करके सो जाना", "en": "Sleeping with eyes closed"},
+            {"hi": "तेल डालना", "en": "Putting oil"}
+          ],
+          "answer": {"hi": "आँख को साफ पानी से बार-बार धोना", "en": "Washing the eye repeatedly with clean water"}
+        },
+        {
+          "q": {
+            "hi": "रासायनिक आपदा के दौरान लोगों को चेतावनी देने के लिए किसका उपयोग किया जाता है?",
+            "en": "What is used to warn people during a chemical disaster?"
+          },
+          "options": [
+            {"hi": "साइरन", "en": "Siren"},
+            {"hi": "गाने", "en": "Songs"},
+            {"hi": "ढोल", "en": "Drums"},
+            {"hi": "ताली", "en": "Clapping"}
+          ],
+          "answer": {"hi": "साइरन", "en": "Siren"}
+        },
+        {
+          "q": {
+            "hi": "मिथाइल आइसोसाइनेट गैस का उपयोग क्या बनाने के लिए किया जाता था?",
+            "en": "What was Methyl Isocyanate gas used to manufacture?"
+          },
+          "options": [
+            {"hi": "खाद", "en": "Fertilizer"},
+            {"hi": "कीटनाशक (Pesticide)", "en": "Pesticide"},
+            {"hi": "दवाइयाँ", "en": "Medicines"},
+            {"hi": "सीमेंट", "en": "Cement"}
+          ],
+          "answer": {"hi": "कीटनाशक (Pesticide)", "en": "Pesticide"}
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "नाभिकीय संयंत्रों में काम करने वालों को कैसे कपड़े पहनने चाहिए?",
+            "en": "What kind of clothes should those working in nuclear plants wear?"
+          },
+          "options": [
+            {"hi": "सूती कपड़े", "en": "Cotton clothes"},
+            {"hi": "रेशमी कपड़े", "en": "Silk clothes"},
+            {"hi": "विशेष सुरक्षा कवच वाले कपड़े", "en": "Special protective shield clothes"},
+            {"hi": "फैंसी कपड़े", "en": "Fancy clothes"}
+          ],
+          "answer": {"hi": "विशेष सुरक्षा कवच वाले कपड़े", "en": "Special protective shield clothes"}
+        },
+        {
+          "q": {
+            "hi": "भारत की परमाणु शक्ति का शांतिपूर्ण उपयोग किस क्षेत्र में किया जा रहा है?",
+            "en": "In which field is India's nuclear power being used peacefully?"
+          },
+          "options": [
+            {"hi": "युद्ध", "en": "War"},
+            {"hi": "बिजली उत्पादन", "en": "Electricity production"},
+            {"hi": "सिर्फ मनोरंजन", "en": "Only entertainment"},
+            {"hi": "पटाखे बनाना", "en": "Making crackers"}
+          ],
+          "answer": {"hi": "बिजली उत्पादन", "en": "Electricity production"}
+        },
+        {
+          "q": {
+            "hi": "क्या नाभिकीय विकिरण को देखा जा सकता है?",
+            "en": "Can nuclear radiation be seen?"
+          },
+          "options": [
+            {"hi": "हाँ, यह लाल रंग का होता है", "en": "Yes, it is red in color"},
+            {"hi": "नहीं, यह अदृश्य होता है", "en": "No, it is invisible"},
+            {"hi": "सिर्फ रात में", "en": "Only at night"},
+            {"hi": "धूप में", "en": "In sunlight"}
+          ],
+          "answer": {"hi": "नहीं, यह अदृश्य होता है", "en": "No, it is invisible"}
+        },
+        {
+          "q": {
+            "hi": "जैविक हथियारों के प्रयोग पर प्रतिबंध लगाने के लिए कौन से कानून की आवश्यकता है?",
+            "en": "Which laws are required to ban the use of biological weapons?"
+          },
+          "options": [
+            {"hi": "स्थानीय कानून", "en": "Local laws"},
+            {"hi": "अंतर्राष्ट्रीय कानून", "en": "International laws"},
+            {"hi": "कोई कानून नहीं", "en": "No laws"},
+            {"hi": "पारिवारिक कानून", "en": "Family laws"}
+          ],
+          "answer": {"hi": "अंतर्राष्ट्रीय कानून", "en": "International laws"}
+        },
+        {
+          "q": {
+            "hi": "एंथ्रैक्स जैसे संदिग्ध डिब्बे मिलने पर क्या करना चाहिए?",
+            "en": "What should be done if a suspicious box like Anthrax is found?"
+          },
+          "options": [
+            {"hi": "उसे खोलकर देखना", "en": "Opening and checking it"},
+            {"hi": "उसे हाथ न लगाना और पुलिस को सूचित करना", "en": "Not touching it and informing the police"},
+            {"hi": "उसे घर ले आना", "en": "Bringing it home"},
+            {"hi": "कूड़े में फेंकना", "en": "Throwing it in the garbage"}
+          ],
+          "answer": {"hi": "उसे हाथ न लगाना और पुलिस को सूचित करना", "en": "Not touching it and informing the police"}
+        },
+        {
+          "q": {
+            "hi": "हेपाटाइटिस (Hepatitis) बीमारी का मुख्य कारण क्या है?",
+            "en": "What is the main cause of Hepatitis?"
+          },
+          "options": [
+            {"hi": "मच्छर", "en": "Mosquitoes"},
+            {"hi": "दूषित जल और वायरस", "en": "Contaminated water and virus"},
+            {"hi": "चूहे", "en": "Rats"},
+            {"hi": "धुआँ", "en": "Smoke"}
+          ],
+          "answer": {"hi": "दूषित जल और वायरस", "en": "Contaminated water and virus"}
+        },
+        {
+          "q": {
+            "hi": "जैविक अस्त्रों की जगह की पहचान के लिए किसकी मदद ली जा सकती है?",
+            "en": "Whose help can be taken to identify the location of biological weapons?"
+          },
+          "options": [
+            {"hi": "बिल्लियों की", "en": "Cats"},
+            {"hi": "डॉग स्क्वायड (Dog Squad)", "en": "Dog Squad"},
+            {"hi": "हाथियों की", "en": "Elephants"},
+            {"hi": "कबूतरों की", "en": "Pigeons"}
+          ],
+          "answer": {"hi": "डॉग स्क्वायड (Dog Squad)", "en": "Dog Squad"}
+        },
+        {
+          "q": {
+            "hi": "नाभिकीय कचरे (Nuclear Waste) का निपटान कैसे किया जाना चाहिए?",
+            "en": "How should nuclear waste be disposed of?"
+          },
+          "options": [
+            {"hi": "नदी में फेंक कर", "en": "Throwing it in the river"},
+            {"hi": "खुले मैदान में छोड़ कर", "en": "Leaving it in an open field"},
+            {"hi": "गहरे समुद्र या भूमिगत सीलबंद कंटेनर में", "en": "In deep sea or underground sealed containers"},
+            {"hi": "जला कर", "en": "By burning"}
+          ],
+          "answer": {"hi": "गहरे समुद्र या भूमिगत सीलबंद कंटेनर में", "en": "In deep sea or underground sealed containers"}
+        },
+        {
+          "q": {
+            "hi": "रासायनिक आपदाओं के जोखिम को कम करने के लिए क्या आवश्यक है?",
+            "en": "What is necessary to reduce the risk of chemical disasters?"
+          },
+          "options": [
+            {"hi": "कर्मचारियों को प्रशिक्षित करना", "en": "Training the employees"},
+            {"hi": "नियमित सुरक्षा ऑडिट", "en": "Regular safety audits"},
+            {"hi": "आपातकालीन योजना", "en": "Emergency planning"},
+            {"hi": "उपर्युक्त सभी", "en": "All of the above"}
+          ],
+          "answer": {"hi": "उपर्युक्त सभी", "en": "All of the above"}
+        },
+        {
+          "q": {
+            "hi": "जैविक आपदा की स्थिति में गर्म पानी और स्वच्छ भोजन का सेवन क्यों जरूरी है?",
+            "en": "Why is consuming hot water and clean food necessary during a biological disaster?"
+          },
+          "options": [
+            {"hi": "कीटाणुओं से बचने के लिए", "en": "To avoid germs"},
+            {"hi": "स्वाद के लिए", "en": "For taste"},
+            {"hi": "वजन कम करने के लिए", "en": "To lose weight"},
+            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+          ],
+          "answer": {"hi": "कीटाणुओं से बचने के लिए", "en": "To avoid germs"}
+        }
+      ],
+      "section5": [
+        {
+          "q": {
+            "hi": "हिरोशिमा और नागासाकी पर बम गिराने वाला देश कौन सा था?",
+            "en": "Which country dropped the bombs on Hiroshima and Nagasaki?"
+          },
+          "options": [
+            {"hi": "रूस", "en": "Russia"},
+            {"hi": "अमेरिका (USA)", "en": "USA"},
+            {"hi": "जर्मनी", "en": "Germany"},
+            {"hi": "चीन", "en": "China"}
+          ],
+          "answer": {"hi": "अमेरिका (USA)", "en": "USA"}
+        },
+        {
+          "q": {
+            "hi": "नाभिकीय संयंत्रों में सुरक्षा के लिए कौन सा घेरा बनाया जाता है?",
+            "en": "What enclosure is built for safety in nuclear plants?"
+          },
+          "options": [
+            {"hi": "कांच का", "en": "Glass"},
+            {"hi": "लकड़ी का", "en": "Wooden"},
+            {"hi": "कंक्रीट का मोटा सुरक्षा घेरा", "en": "Thick safety enclosure of concrete"},
+            {"hi": "प्लास्टिक का", "en": "Plastic"}
+          ],
+          "answer": {"hi": "कंक्रीट का मोटा सुरक्षा घेरा", "en": "Thick safety enclosure of concrete"}
+        },
+        {
+          "q": {
+            "hi": "एड्स की बीमारी के प्रसार को कैसे रोका जा सकता है?",
+            "en": "How can the spread of AIDS be stopped?"
+          },
+          "options": [
+            {"hi": "जागरूकता फैलाकर", "en": "By spreading awareness"},
+            {"hi": "संक्रमित सुइयों का उपयोग न करके", "en": "By not using infected needles"},
+            {"hi": "सुरक्षित रक्त आधान द्वारा", "en": "By safe blood transfusion"},
+            {"hi": "उपर्युक्त सभी", "en": "All of the above"}
+          ],
+          "answer": {"hi": "उपर्युक्त सभी", "en": "All of the above"}
+        },
+        {
+          "q": {
+            "hi": "परमाणु रिएक्टरों के ठंडा करने के लिए किसका उपयोग किया जाता है?",
+            "en": "What is used for cooling nuclear reactors?"
+          },
+          "options": [
+            {"hi": "तेल", "en": "Oil"},
+            {"hi": "भारी जल (Heavy Water) या गैस", "en": "Heavy water or gas"},
+            {"hi": "पारा", "en": "Mercury"},
+            {"hi": "शहद", "en": "Honey"}
+          ],
+          "answer": {"hi": "भारी जल (Heavy Water) या गैस", "en": "Heavy water or gas"}
+        },
+        {
+          "q": {
+            "hi": "रासायनिक आपदा के समय मुँह पर गीला रुमाल रखना क्यों लाभदायक है?",
+            "en": "Why is keeping a wet handkerchief on the mouth beneficial during a chemical disaster?"
+          },
+          "options": [
+            {"hi": "स्टाइल के लिए", "en": "For style"},
+            {"hi": "गैस के प्रभाव को कम करने के लिए", "en": "To reduce the effect of gas"},
+            {"hi": "नींद आने के लिए", "en": "To feel sleepy"},
+            {"hi": "चेहरा छिपाने के लिए", "en": "To hide the face"}
+          ],
+          "answer": {"hi": "गैस के प्रभाव को कम करने के लिए", "en": "To reduce the effect of gas"}
+        },
+        {
+          "q": {
+            "hi": "जैविक आपदाओं को प्रबंधित करने के लिए किसका छिड़काव किया जाना चाहिए?",
+            "en": "What should be sprayed to manage biological disasters?"
+          },
+          "options": [
+            {"hi": "परफ्यूम", "en": "Perfume"},
+            {"hi": "कीटाणुनाशक (Disinfectants)", "en": "Disinfectants"},
+            {"hi": "रंग", "en": "Colors"},
+            {"hi": "केवल पानी", "en": "Only water"}
+          ],
+          "answer": {"hi": "कीटाणुनाशक (Disinfectants)", "en": "Disinfectants"}
+        },
+        {
+          "q": {
+            "hi": "नाभिकीय आपदा का दीर्घकालिक प्रभाव क्या है?",
+            "en": "What is the long-term effect of a nuclear disaster?"
+          },
+          "options": [
+            {"hi": "सिर्फ थोड़े दिन की बीमारी", "en": "Just a few days of illness"},
+            {"hi": "पीढ़ियों तक आनुवंशिक विकृतियाँ", "en": "Genetic deformities for generations"},
+            {"hi": "तुरंत मृत्यु", "en": "Immediate death"},
+            {"hi": "कोई प्रभाव नहीं", "en": "No effect"}
+          ],
+          "answer": {"hi": "पीढ़ियों तक आनुवंशिक विकृतियाँ", "en": "Genetic deformities for generations"}
+        },
+        {
+          "q": {
+            "hi": "भोपाल गैस कांड में मारे गए लोगों की संख्या का मुख्य कारण क्या था?",
+            "en": "What was the main reason for the number of people killed in the Bhopal gas case?"
+          },
+          "options": [
+            {"hi": "गैस का बहुत विषैला होना", "en": "The gas being very toxic"},
+            {"hi": "रात का समय होना", "en": "It being night time"},
+            {"hi": "सुरक्षा व्यवस्था का अभाव", "en": "Lack of security system"},
+            {"hi": "उपर्युक्त सभी", "en": "All of the above"}
+          ],
+          "answer": {"hi": "उपर्युक्त सभी", "en": "All of the above"}
+        },
+        {
+          "q": {
+            "hi": "जैविक आपदा की रोकथाम में किसकी प्रतिबद्धता आवश्यक है?",
+            "en": "Whose commitment is necessary in the prevention of a biological disaster?"
+          },
+          "options": [
+            {"hi": "प्रशासनिक प्रतिबद्धता", "en": "Administrative commitment"},
+            {"hi": "केवल व्यापारियों की", "en": "Only of businessmen"},
+            {"hi": "सिर्फ विदेशी पर्यटकों की", "en": "Only of foreign tourists"},
+            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+          ],
+          "answer": {"hi": "प्रशासनिक प्रतिबद्धता", "en": "Administrative commitment"}
+        },
+        {
+          "q": {
+            "hi": "विश्व स्वास्थ्य संगठन (WHO) किन आपदाओं को रोकने में मदद करता है?",
+            "en": "Which disasters does the World Health Organization (WHO) help in preventing?"
+          },
+          "options": [
+            {"hi": "सिर्फ भूकंप", "en": "Only earthquakes"},
+            {"hi": "जैविक आपदा और महामारियाँ", "en": "Biological disasters and epidemics"},
+            {"hi": "सिर्फ बाढ़", "en": "Only floods"},
+            {"hi": "अंतरिक्षीय आपदा", "en": "Space disaster"}
+          ],
+          "answer": {"hi": "जैविक आपदा और महामारियाँ", "en": "Biological disasters and epidemics"}
+        }
+      ]
     }
   }
 }
