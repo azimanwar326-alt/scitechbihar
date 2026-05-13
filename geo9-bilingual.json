@@ -7281,6 +7281,668 @@
           "answer": {"hi": "जैविक आपदा और महामारियाँ", "en": "Biological disasters and epidemics"}
         }
       ]
+    },
+    "chapter13": {
+      "section1": [
+        {
+          "q": {
+            "hi": "भावनात्मक लगाव से उत्पन्न एक समूह, जहाँ लोग एक साथ सुख-दुःख का सामना करते हैं, क्या कहलाता है?",
+            "en": "A group arising from emotional attachment, where people face joys and sorrows together, is called what?"
+          },
+          "options": [
+            {"hi": "भीड़", "en": "Crowd"},
+            {"hi": "समुदाय", "en": "Community"},
+            {"hi": "संस्था", "en": "Organization"},
+            {"hi": "बाजार", "en": "Market"}
+          ],
+          "answer": {"hi": "समुदाय", "en": "Community"}
+        },
+        {
+          "q": {
+            "hi": "भारतीय संस्कृति का सबसे बड़ा आधार क्या है?",
+            "en": "What is the biggest foundation of Indian culture?"
+          },
+          "options": [
+            {"hi": "व्यक्तिवाद", "en": "Individualism"},
+            {"hi": "सामुदायिकता", "en": "Communality/Collectivism"},
+            {"hi": "नगरीकरण", "en": "Urbanization"},
+            {"hi": "औद्योगिकीकरण", "en": "Industrialization"}
+          ],
+          "answer": {"hi": "सामुदायिकता", "en": "Communality/Collectivism"}
+        },
+        {
+          "q": {
+            "hi": "ग्रामीण क्षेत्रों में समस्याओं के समाधान के लिए होने वाली बैठक को क्या कहते हैं?",
+            "en": "What is the meeting held in rural areas to solve problems called?"
+          },
+          "options": [
+            {"hi": "ग्राम सभा", "en": "Gram Sabha"},
+            {"hi": "लोक सभा", "en": "Lok Sabha"},
+            {"hi": "विधान सभा", "en": "Vidhan Sabha"},
+            {"hi": "नगर परिषद", "en": "Municipal Council"}
+          ],
+          "answer": {"hi": "ग्राम सभा", "en": "Gram Sabha"}
+        },
+        {
+          "q": {
+            "hi": "आपदा के समय राहत कार्य में सबसे पहले कौन पहुँचता है?",
+            "en": "Who reaches first for relief work during a disaster?"
+          },
+          "options": [
+            {"hi": "विदेशी मदद", "en": "Foreign aid"},
+            {"hi": "केंद्र सरकार", "en": "Central government"},
+            {"hi": "स्थानीय समुदाय", "en": "Local community"},
+            {"hi": "सेना", "en": "Army"}
+          ],
+          "answer": {"hi": "स्थानीय समुदाय", "en": "Local community"}
+        },
+        {
+          "q": {
+            "hi": "समुदाय आधारित आपदा प्रबंधन के कितने मुख्य अंग हैं?",
+            "en": "How many main components of community-based disaster management are there?"
+          },
+          "options": [
+            {"hi": "दो", "en": "Two"},
+            {"hi": "तीन", "en": "Three"},
+            {"hi": "चार", "en": "Four"},
+            {"hi": "पाँच", "en": "Five"}
+          ],
+          "answer": {"hi": "तीन", "en": "Three"}
+        },
+        {
+          "q": {
+            "hi": "आपदा के पूर्व प्रबंधन का मुख्य कार्य क्या है?",
+            "en": "What is the main task of pre-disaster management?"
+          },
+          "options": [
+            {"hi": "राहत शिविर बनाना", "en": "Setting up relief camps"},
+            {"hi": "पूर्वानुमान, चेतावनी एवं प्रशिक्षण", "en": "Forecasting, warning and training"},
+            {"hi": "पुनर्निर्माण करना", "en": "Reconstruction"},
+            {"hi": "बीमा का पैसा लेना", "en": "Claiming insurance"}
+          ],
+          "answer": {"hi": "पूर्वानुमान, चेतावनी एवं प्रशिक्षण", "en": "Forecasting, warning and training"}
+        },
+        {
+          "q": {
+            "hi": "प्रत्येक ग्रीष्म ऋतु में कौन-सी आपदा लगभग निश्चित होती है?",
+            "en": "Which disaster is almost certain every summer?"
+          },
+          "options": [
+            {"hi": "बाढ़", "en": "Flood"},
+            {"hi": "भूकंप", "en": "Earthquake"},
+            {"hi": "आगजनी", "en": "Fire breakout"},
+            {"hi": "सुनामी", "en": "Tsunami"}
+          ],
+          "answer": {"hi": "आगजनी", "en": "Fire breakout"}
+        },
+        {
+          "q": {
+            "hi": "सामुदायिक प्रबंधन के अंतर्गत प्राथमिक क्रियाकलाप में क्या शामिल नहीं है?",
+            "en": "What is NOT included in the primary activities under community management?"
+          },
+          "options": [
+            {"hi": "चिकित्सा केंद्र को सूचित करना", "en": "Informing medical centers"},
+            {"hi": "स्वच्छ जल और भोजन की व्यवस्था", "en": "Ensuring clean water and food"},
+            {"hi": "आपदा की जानकारी प्रशासन को नहीं देना", "en": "Not giving disaster info to administration"},
+            {"hi": "राहत शिविर की व्यवस्था", "en": "Arranging relief camps"}
+          ],
+          "answer": {"hi": "आपदा की जानकारी प्रशासन को नहीं देना", "en": "Not giving disaster info to administration"}
+        },
+        {
+          "q": {
+            "hi": "ग्रामीण आपदा प्रबंधन समिति का मुख्य कार्य क्या है?",
+            "en": "What is the main task of the Rural Disaster Management Committee?"
+          },
+          "options": [
+            {"hi": "केवल कर वसूलना", "en": "Only collecting taxes"},
+            {"hi": "राहत शिविर का चयन एवं राहत कार्य", "en": "Selecting relief camps and relief work"},
+            {"hi": "दुकानें बंद करवाना", "en": "Closing shops"},
+            {"hi": "विदेशी यात्रा करना", "en": "Foreign travel"}
+          ],
+          "answer": {"hi": "राहत शिविर का चयन एवं राहत कार्य", "en": "Selecting relief camps and relief work"}
+        },
+        {
+          "q": {
+            "hi": "आपदा के समय प्रबंधन का मुख्य उद्देश्य क्या होना चाहिए?",
+            "en": "What should be the main objective of management during a disaster?"
+          },
+          "options": [
+            {"hi": "पैसे बचाना", "en": "Saving money"},
+            {"hi": "जान-माल की क्षति को न्यूनतम करना", "en": "Minimizing loss of life and property"},
+            {"hi": "सिर्फ फोटो खिंचवाना", "en": "Only taking photos"},
+            {"hi": "अफवाह फैलाना", "en": "Spreading rumors"}
+          ],
+          "answer": {"hi": "जान-माल की क्षति को न्यूनतम करना", "en": "Minimizing loss of life and property"}
+        }
+      ],
+      "section2": [
+        {
+          "q": {
+            "hi": "आपदा प्रबंधन में समुदाय की भूमिका कैसी होती है?",
+            "en": "What is the role of the community in disaster management?"
+          },
+          "options": [
+            {"hi": "नगण्य", "en": "Negligible"},
+            {"hi": "गौण", "en": "Secondary"},
+            {"hi": "केंद्रीय/महत्वपूर्ण", "en": "Central/Important"},
+            {"hi": "अनावश्यक", "en": "Unnecessary"}
+          ],
+          "answer": {"hi": "केंद्रीय/महत्वपूर्ण", "en": "Central/Important"}
+        },
+        {
+          "q": {
+            "hi": "अग्निशमन दस्ता आने के पूर्व समुदाय को क्या करना चाहिए?",
+            "en": "What should the community do before the fire brigade arrives?"
+          },
+          "options": [
+            {"hi": "चुपचाप खड़ा रहना", "en": "Stand quietly"},
+            {"hi": "बालू, मिट्टी और पानी का उपयोग करना", "en": "Using sand, soil, and water"},
+            {"hi": "वहाँ से भाग जाना", "en": "Running away from there"},
+            {"hi": "आग का वीडियो बनाना", "en": "Recording video of the fire"}
+          ],
+          "answer": {"hi": "बालू, मिट्टी और पानी का उपयोग करना", "en": "Using sand, soil, and water"}
+        },
+        {
+          "q": {
+            "hi": "ग्रामीण आपदा प्रबंधन समिति का अध्यक्ष कौन होता है?",
+            "en": "Who is the chairperson of the Rural Disaster Management Committee?"
+          },
+          "options": [
+            {"hi": "शिक्षक", "en": "Teacher"},
+            {"hi": "मुखिया", "en": "Mukhiya (Village Head)"},
+            {"hi": "डॉक्टर", "en": "Doctor"},
+            {"hi": "दुकानदार", "en": "Shopkeeper"}
+          ],
+          "answer": {"hi": "मुखिया", "en": "Mukhiya (Village Head)"}
+        },
+        {
+          "q": {
+            "hi": "आपदा के समय 'खोज एवं बचाव दल' का क्या कार्य है?",
+            "en": "What is the task of the 'Search and Rescue Team' during a disaster?"
+          },
+          "options": [
+            {"hi": "फँसे हुए लोगों को सुरक्षित निकालना", "en": "Evacuating trapped people safely"},
+            {"hi": "भोजन पकाना", "en": "Cooking food"},
+            {"hi": "कपड़े धोना", "en": "Washing clothes"},
+            {"hi": "पेड़ काटना", "en": "Cutting trees"}
+          ],
+          "answer": {"hi": "फँसे हुए लोगों को सुरक्षित निकालना", "en": "Evacuating trapped people safely"}
+        },
+        {
+          "q": {
+            "hi": "आपदा के दौरान घायलों को दी जाने वाली सहायता क्या कहलाती है?",
+            "en": "What is the aid given to the injured during a disaster called?"
+          },
+          "options": [
+            {"hi": "दीर्घकालीन इलाज", "en": "Long-term treatment"},
+            {"hi": "प्राथमिक उपचार (First Aid)", "en": "First Aid"},
+            {"hi": "शल्य चिकित्सा", "en": "Surgery"},
+            {"hi": "कोई सहायता नहीं", "en": "No assistance"}
+          ],
+          "answer": {"hi": "प्राथमिक उपचार (First Aid)", "en": "First Aid"}
+        },
+        {
+          "q": {
+            "hi": "प्रशासनिक तंत्र को आपदा की सूचना देना किसका कर्तव्य है?",
+            "en": "Whose duty is it to inform the administrative machinery about the disaster?"
+          },
+          "options": [
+            {"hi": "केवल विदेशी पर्यटकों का", "en": "Only foreign tourists"},
+            {"hi": "स्थानीय समुदाय/प्रबंधन समिति का", "en": "Local community/Management committee"},
+            {"hi": "सिर्फ बच्चों का", "en": "Only children"},
+            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+          ],
+          "answer": {"hi": "स्थानीय समुदाय/प्रबंधन समिति का", "en": "Local community/Management committee"}
+        },
+        {
+          "q": {
+            "hi": "आपदा के पश्चात (Post-Disaster) मुख्य कार्य क्या होता है?",
+            "en": "What is the main task post-disaster?"
+          },
+          "options": [
+            {"hi": "निश्चित हो जाना", "en": "Staying relaxed"},
+            {"hi": "क्षति का आकलन और पुनर्वास", "en": "Damage assessment and rehabilitation"},
+            {"hi": "उत्सव मनाना", "en": "Celebrating"},
+            {"hi": "आपदा को भूल जाना", "en": "Forgetting the disaster"}
+          ],
+          "answer": {"hi": "क्षति का आकलन और पुनर्वास", "en": "Damage assessment and rehabilitation"}
+        },
+        {
+          "q": {
+            "hi": "शहरी क्षेत्रों में सामुदायिकता का उदाहरण कहाँ देखने को मिलता है?",
+            "en": "Where is the example of communality seen in urban areas?"
+          },
+          "options": [
+            {"hi": "एकल परिवारों में", "en": "In nuclear families"},
+            {"hi": "मुहल्ला कमिटी और अपार्टमेंट संघों में", "en": "In neighborhood committees and apartment associations"},
+            {"hi": "बंद दरवाजों में", "en": "Behind closed doors"},
+            {"hi": "सिर्फ मॉल में", "en": "Only in malls"}
+          ],
+          "answer": {"hi": "मुहल्ला कमिटी और अपार्टमेंट संघों में", "en": "In neighborhood committees and apartment associations"}
+        },
+        {
+          "q": {
+            "hi": "आपदा प्रबंधन हेतु समुदाय में किन गुणों का होना आवश्यक है?",
+            "en": "What qualities are necessary in a community for disaster management?"
+          },
+          "options": [
+            {"hi": "लालच", "en": "Greed"},
+            {"hi": "सहयोग और मेल-जोल", "en": "Cooperation and harmony"},
+            {"hi": "स्वार्थ", "en": "Selfishness"},
+            {"hi": "अकर्मण्यता", "en": "Inactivity"}
+          ],
+          "answer": {"hi": "सहयोग और मेल-जोल", "en": "Cooperation and harmony"}
+        },
+        {
+          "q": {
+            "hi": "राहत शिविरों में स्वच्छता का ध्यान रखना क्यों जरूरी है?",
+            "en": "Why is it important to maintain hygiene in relief camps?"
+          },
+          "options": [
+            {"hi": "महामारी/बीमारियों से बचने के लिए", "en": "To avoid epidemics/diseases"},
+            {"hi": "सिर्फ सजावट के लिए", "en": "Only for decoration"},
+            {"hi": "अधिकारियों को दिखाने के लिए", "en": "To show officials"},
+            {"hi": "समय बिताने के लिए", "en": "To pass time"}
+          ],
+          "answer": {"hi": "महामारी/बीमारियों से बचने के लिए", "en": "To avoid epidemics/diseases"}
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "क्या आपदा को पूरी तरह रोका जा सकता है?",
+            "en": "Can disaster be completely prevented?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं, लेकिन प्रभाव कम किया जा सकता है", "en": "No, but impact can be reduced"},
+            {"hi": "कह नहीं सकते", "en": "Cannot say"},
+            {"hi": "सिर्फ विज्ञान द्वारा", "en": "Only by science"}
+          ],
+          "answer": {"hi": "नहीं, लेकिन प्रभाव कम किया जा सकता है", "en": "No, but impact can be reduced"}
+        },
+        {
+          "q": {
+            "hi": "आपदा प्रबंधन योजना में 'मानचित्रण' (Mapping) का क्या उपयोग है?",
+            "en": "What is the use of 'mapping' in a disaster management plan?"
+          },
+          "options": [
+            {"hi": "चित्रकारी के लिए", "en": "For painting"},
+            {"hi": "सुरक्षित और जोखिम क्षेत्रों की पहचान हेतु", "en": "To identify safe and risk areas"},
+            {"hi": "सिर्फ कागज भरने के लिए", "en": "Only to fill paper"},
+            {"hi": "विदेशी यात्रा हेतु", "en": "For foreign travel"}
+          ],
+          "answer": {"hi": "सुरक्षित और जोखिम क्षेत्रों की पहचान हेतु", "en": "To identify safe and risk areas"}
+        },
+        {
+          "q": {
+            "hi": "ग्रामीण आपदा प्रबंधन समिति में सचिव की भूमिका कौन निभाता है?",
+            "en": "Who plays the role of secretary in the Rural Disaster Management Committee?"
+          },
+          "options": [
+            {"hi": "मुखिया", "en": "Mukhiya"},
+            {"hi": "पंचायत सचिव", "en": "Panchayat Secretary"},
+            {"hi": "पुलिस", "en": "Police"},
+            {"hi": "वकील", "en": "Lawyer"}
+          ],
+          "answer": {"hi": "पंचायत सचिव", "en": "Panchayat Secretary"}
+        },
+        {
+          "q": {
+            "hi": "आपदा के समय घबराकर भागने से क्या होता है?",
+            "en": "What happens when running in panic during a disaster?"
+          },
+          "options": [
+            {"hi": "सुरक्षा बढ़ती है", "en": "Safety increases"},
+            {"hi": "दुर्घटना की संभावना बढ़ती है", "en": "Probability of accidents increases"},
+            {"hi": "आपदा रुक जाती है", "en": "Disaster stops"},
+            {"hi": "मदद जल्दी मिलती है", "en": "Help arrives quickly"}
+          ],
+          "answer": {"hi": "दुर्घटना की संभावना बढ़ती है", "en": "Probability of accidents increases"}
+        },
+        {
+          "q": {
+            "hi": "ग्रामीण समिति के सदस्यों को समय-समय पर क्या देना आवश्यक है?",
+            "en": "What is necessary to give to the members of the rural committee from time to time?"
+          },
+          "options": [
+            {"hi": "दावत", "en": "Feast"},
+            {"hi": "प्रशिक्षण (Training)", "en": "Training"},
+            {"hi": "उपहार", "en": "Gifts"},
+            {"hi": "छुट्टी", "en": "Holidays"}
+          ],
+          "answer": {"hi": "प्रशिक्षण (Training)", "en": "Training"}
+        },
+        {
+          "q": {
+            "hi": "आपदा के समय बुजुर्गों और बच्चों का ध्यान रखना किसका दायित्व है?",
+            "en": "Whose responsibility is it to take care of the elderly and children during a disaster?"
+          },
+          "options": [
+            {"hi": "किसी का नहीं", "en": "Nobody's"},
+            {"hi": "पूरे समुदाय का", "en": "The entire community's"},
+            {"hi": "केवल सरकार का", "en": "Only the government's"},
+            {"hi": "सिर्फ डॉक्टरों का", "en": "Only doctors'"}
+          ],
+          "answer": {"hi": "पूरे समुदाय का", "en": "The entire community's"}
+        },
+        {
+          "q": {
+            "hi": "पशुओं के लिए चारे और पानी की व्यवस्था आपदा के किस चरण का हिस्सा है?",
+            "en": "Arranging fodder and water for animals is part of which phase of disaster?"
+          },
+          "options": [
+            {"hi": "केवल पुनर्निर्माण", "en": "Only reconstruction"},
+            {"hi": "राहत एवं प्रबंधन गतिविधियाँ", "en": "Relief and management activities"},
+            {"hi": "केवल पूर्वानुमान", "en": "Only forecasting"},
+            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+          ],
+          "answer": {"hi": "राहत एवं प्रबंधन गतिविधियाँ", "en": "Relief and management activities"}
+        },
+        {
+          "q": {
+            "hi": "आपदा चेतावनी मिलते ही समुदाय को क्या करना चाहिए?",
+            "en": "What should the community do as soon as a disaster warning is received?"
+          },
+          "options": [
+            {"hi": "सूचना की अनदेखी", "en": "Ignoring the info"},
+            {"hi": "सुरक्षित स्थानों पर पहुँचने की तैयारी", "en": "Preparing to reach safe places"},
+            {"hi": "सो जाना", "en": "Going to sleep"},
+            {"hi": "पार्टी करना", "en": "Partying"}
+          ],
+          "answer": {"hi": "सुरक्षित स्थानों पर पहुँचने की तैयारी", "en": "Preparing to reach safe places"}
+        },
+        {
+          "q": {
+            "hi": "आपदा प्रबंधन में 'स्वैच्छिक योगदान' का क्या अर्थ है?",
+            "en": "What does 'voluntary contribution' mean in disaster management?"
+          },
+          "options": [
+            {"hi": "पैसे के लिए काम करना", "en": "Working for money"},
+            {"hi": "बिना किसी स्वार्थ के मदद करना", "en": "Helping without any selfishness"},
+            {"hi": "मजबूरी में काम करना", "en": "Working under compulsion"},
+            {"hi": "सिर्फ आदेश मानना", "en": "Just following orders"}
+          ],
+          "answer": {"hi": "बिना किसी स्वार्थ के मदद करना", "en": "Helping without any selfishness"}
+        },
+        {
+          "q": {
+            "hi": "आपदा के बाद मलबे में दबे लोगों को खोजने में कौन सहायक हो सकता है?",
+            "en": "Who can be helpful in finding people buried in debris after a disaster?"
+          },
+          "options": [
+            {"hi": "प्रशिक्षित खोजी दल और प्रशिक्षित कुत्ते", "en": "Trained search teams and trained dogs"},
+            {"hi": "केवल बिल्लियाँ", "en": "Only cats"},
+            {"hi": "सिर्फ तोते", "en": "Only parrots"},
+            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+          ],
+          "answer": {"hi": "प्रशिक्षित खोजी दल और प्रशिक्षित कुत्ते", "en": "Trained search teams and trained dogs"}
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "आपदा प्रबंधन हेतु बनाई गई 'ग्राम रक्षा दल' में किसे शामिल किया जाता है?",
+            "en": "Who is included in the 'Village Defense Team' formed for disaster management?"
+          },
+          "options": [
+            {"hi": "केवल बीमार लोग", "en": "Only sick people"},
+            {"hi": "गाँव के स्वस्थ और कर्मठ युवा", "en": "Healthy and hardworking youth of the village"},
+            {"hi": "केवल बाहर के लोग", "en": "Only outsiders"},
+            {"hi": "सिर्फ बूढ़े लोग", "en": "Only old people"}
+          ],
+          "answer": {"hi": "गाँव के स्वस्थ और कर्मठ युवा", "en": "Healthy and hardworking youth of the village"}
+        },
+        {
+          "q": {
+            "hi": "आपदा के समय अफवाहों को रोकने के लिए क्या करना चाहिए?",
+            "en": "What should be done to stop rumors during a disaster?"
+          },
+          "options": [
+            {"hi": "अधिक अफवाह फैलाना", "en": "Spreading more rumors"},
+            {"hi": "केवल विश्वसनीय सूत्रों/रेडियो पर भरोसा करना", "en": "Trusting only reliable sources/radio"},
+            {"hi": "सब पर भरोसा करना", "en": "Trusting everyone"},
+            {"hi": "मोबाइल बंद कर देना", "en": "Switching off mobile"}
+          ],
+          "answer": {"hi": "केवल विश्वसनीय सूत्रों/रेδιο पर भरोसा करना", "en": "Trusting only reliable sources/radio"}
+        },
+        {
+          "q": {
+            "hi": "राहत शिविर में किस प्रकार के भोजन की व्यवस्था होनी चाहिए?",
+            "en": "What kind of food should be arranged in relief camps?"
+          },
+          "options": [
+            {"hi": "मसालेदार भोजन", "en": "Spicy food"},
+            {"hi": "ताजा और सुपाच्य भोजन", "en": "Fresh and easily digestible food"},
+            {"hi": "बासी भोजन", "en": "Stale food"},
+            {"hi": "सिर्फ मिठाई", "en": "Only sweets"}
+          ],
+          "answer": {"hi": "ताजा और सुपाच्य भोजन", "en": "Fresh and easily digestible food"}
+        },
+        {
+          "q": {
+            "hi": "आपदा प्रबंधन में 'निवारण' (Prevention) का क्या मतलब है?",
+            "en": "What does 'Prevention' mean in disaster management?"
+          },
+          "options": [
+            {"hi": "आपदा को बुलाना", "en": "Inviting disaster"},
+            {"hi": "आपदा के कारणों को दूर करने का प्रयास", "en": "Trying to eliminate causes of disaster"},
+            {"hi": "आपदा से डरना", "en": "Being afraid of disaster"},
+            {"hi": "कोई काम न करना", "en": "Doing no work"}
+          ],
+          "answer": {"hi": "आपदा के कारणों को दूर करने का प्रयास", "en": "Trying to eliminate causes of disaster"}
+        },
+        {
+          "q": {
+            "hi": "सिंधु घाटी की सभ्यता से हमें क्या सीख मिलती है?",
+            "en": "What lesson do we get from the Indus Valley Civilization?"
+          },
+          "options": [
+            {"hi": "व्यक्तिवाद", "en": "Individualism"},
+            {"hi": "सामुदायिक जीवन और सुव्यवस्थित योजना", "en": "Community life and well-organized planning"},
+            {"hi": "लड़ाई-झगड़ा", "en": "Fighting"},
+            {"hi": "अव्यवस्थित शहर", "en": "Disorganized cities"}
+          ],
+          "answer": {"hi": "सामुदायिक जीवन और सुव्यवस्थित योजना", "en": "Community life and well-organized planning"}
+        },
+        {
+          "q": {
+            "hi": "आपदा के दौरान संचार का सबसे विश्वसनीय माध्यम कौन सा हो सकता है?",
+            "en": "Which can be the most reliable medium of communication during a disaster?"
+          },
+          "options": [
+            {"hi": "केवल पत्र", "en": "Only letters"},
+            {"hi": "बेतार (Wireless) और रेडियो", "en": "Wireless and Radio"},
+            {"hi": "ढोल की आवाज़", "en": "Sound of drums"},
+            {"hi": "चिल्लाना", "en": "Screaming"}
+          ],
+          "answer": {"hi": "बेतार (Wireless) और रेडियो", "en": "Wireless and Radio"}
+        },
+        {
+          "q": {
+            "hi": "ग्रामीण आपदा प्रबंधन समिति में महिलाओं की भागीदारी क्यों आवश्यक है?",
+            "en": "Why is the participation of women necessary in the rural disaster management committee?"
+          },
+          "options": [
+            {"hi": "सिर्फ संख्या बढ़ाने के लिए", "en": "Only to increase numbers"},
+            {"hi": "घरेलू और बच्चों की समस्याओं को बेहतर समझने हेतु", "en": "To better understand domestic and children's problems"},
+            {"hi": "सिर्फ खाना पकाने के लिए", "en": "Only for cooking"},
+            {"hi": "जरूरी नहीं है", "en": "Not necessary"}
+          ],
+          "answer": {"hi": "घरेलू और बच्चों की समस्याओं को बेहतर समझने हेतु", "en": "To better understand domestic and children's problems"}
+        },
+        {
+          "q": {
+            "hi": "क्या समुदाय आधारित प्रबंधन सरकारी प्रयासों का विकल्प है?",
+            "en": "Is community-based management a substitute for government efforts?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं, यह सरकारी प्रयासों का पूरक है", "en": "No, it is complementary to govt efforts"},
+            {"hi": "सरकारी प्रयासों से बेहतर है", "en": "It is better than govt efforts"},
+            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+          ],
+          "answer": {"hi": "नहीं, यह सरकारी प्रयासों का पूरक है", "en": "No, it is complementary to govt efforts"}
+        },
+        {
+          "q": {
+            "hi": "आपदा के समय 'धैर्य' का क्या महत्व है?",
+            "en": "What is the importance of 'patience' during a disaster?"
+          },
+          "options": [
+            {"hi": "सोचने और सही निर्णय लेने में मदद करता है", "en": "Helps in thinking and taking right decisions"},
+            {"hi": "आलस्य बढ़ाता है", "en": "Increases laziness"},
+            {"hi": "समय बर्बाद करता है", "en": "Wastes time"},
+            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+          ],
+          "answer": {"hi": "सोचने और सही निर्णय लेने में मदद करता है", "en": "Helps in thinking and taking right decisions"}
+        },
+        {
+          "q": {
+            "hi": "राहत शिविरों के लिए उपयुक्त स्थान कौन सा हो सकता है?",
+            "en": "Which can be a suitable place for relief camps?"
+          },
+          "options": [
+            {"hi": "नदी का किनारा", "en": "River bank"},
+            {"hi": "ऊँचा और सुरक्षित सार्वजनिक भवन (जैसे स्कूल)", "en": "High and safe public buildings (like schools)"},
+            {"hi": "खाई", "en": "Ditch"},
+            {"hi": "जंगल के बीच", "en": "Inside the forest"}
+          ],
+          "answer": {"hi": "ऊँचा और सुरक्षित सार्वजनिक भवन (जैसे स्कूल)", "en": "High and safe public buildings (like schools)"}
+        }
+      ],
+      "section5": [
+        {
+          "q": {
+            "hi": "आपदा प्रबंधन में 'प्रशिक्षण' (Training) का मुख्य लाभ क्या है?",
+            "en": "What is the main benefit of 'training' in disaster management?"
+          },
+          "options": [
+            {"hi": "नौकरी मिलना", "en": "Getting a job"},
+            {"hi": "कुशलतापूर्वक बचाव कार्य करना", "en": "Efficiently performing rescue work"},
+            {"hi": "केवल प्रमाणपत्र मिलना", "en": "Only getting a certificate"},
+            {"hi": "पैसे कमाना", "en": "Earning money"}
+          ],
+          "answer": {"hi": "कुशलतापूर्वक बचाव कार्य करना", "en": "Efficiently performing rescue work"}
+        },
+        {
+          "q": {
+            "hi": "ग्रामीण आपदा समिति को किसके साथ समन्वय (Coordination) करना चाहिए?",
+            "en": "With whom should the rural disaster committee coordinate?"
+          },
+          "options": [
+            {"hi": "केवल दूसरे गाँव से", "en": "Only with other villages"},
+            {"hi": "प्रशासन और स्वयंसेवी संस्थाओं से", "en": "With administration and NGOs"},
+            {"hi": "सिर्फ दुकानदारों से", "en": "Only with shopkeepers"},
+            {"hi": "किसी से नहीं", "en": "With no one"}
+          ],
+          "answer": {"hi": "प्रशासन और स्वयंसेवी संस्थाओं से", "en": "With administration and NGOs"}
+        },
+        {
+          "q": {
+            "hi": "आपदा के दौरान मवेशियों (पशुओं) को कहाँ रखना चाहिए?",
+            "en": "Where should livestock (animals) be kept during a disaster?"
+          },
+          "options": [
+            {"hi": "घर के अंदर", "en": "Inside the house"},
+            {"hi": "खुले और सुरक्षित ऊँचे स्थान पर", "en": "In an open and safe high place"},
+            {"hi": "कीचड़ में", "en": "In the mud"},
+            {"hi": "बाँध के पास", "en": "Near the dam"}
+          ],
+          "answer": {"hi": "खुले और सुरक्षित ऊँचे स्थान पर", "en": "In an open and safe high place"}
+        },
+        {
+          "q": {
+            "hi": "क्या आपदा प्रबंधन सिर्फ सरकार की जिम्मेदारी है?",
+            "en": "Is disaster management only the government's responsibility?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं, यह सामूहिक जिम्मेदारी है", "en": "No, it is a collective responsibility"},
+            {"hi": "सिर्फ अमीरों की जिम्मेदारी है", "en": "Only rich people's responsibility"},
+            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+          ],
+          "answer": {"hi": "नहीं, यह सामूहिक जिम्मेदारी है", "en": "No, it is a collective responsibility"}
+        },
+        {
+          "q": {
+            "hi": "आपदा के समय घायलों के लिए रक्त दान करना कैसा कार्य है?",
+            "en": "What kind of act is donating blood for the injured during a disaster?"
+          },
+          "options": [
+            {"hi": "अनावश्यक", "en": "Unnecessary"},
+            {"hi": "पुनीत मानवीय और सामुदायिक कार्य", "en": "A noble human and community act"},
+            {"hi": "हानिकारक", "en": "Harmful"},
+            {"hi": "मजबूरी", "en": "Compulsion"}
+          ],
+          "answer": {"hi": "पुनीत मानवीय और सामुदायिक कार्य", "en": "A noble human and community act"}
+        },
+        {
+          "q": {
+            "hi": "आपदा प्रबंधन में 'स्वच्छता' शब्द का प्रयोग किसके लिए होता है?",
+            "en": "For what is the word 'sanitation' used in disaster management?"
+          },
+          "options": [
+            {"hi": "सिर्फ नये कपड़े पहनना", "en": "Only wearing new clothes"},
+            {"hi": "शुद्ध जल, भोजन और परिवेश की सफाई", "en": "Pure water, food, and cleaning of surroundings"},
+            {"hi": "घर को रंगना", "en": "Painting the house"},
+            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+          ],
+          "answer": {"hi": "शुद्ध जल, भोजन और परिवेश की सफाई", "en": "Pure water, food, and cleaning of surroundings"}
+        },
+        {
+          "q": {
+            "hi": "ग्रामीण आपदा प्रबंधन समिति का प्राथमिक उपचार दल क्या करता है?",
+            "en": "What does the first aid team of the rural disaster management committee do?"
+          },
+          "options": [
+            {"hi": "घायलों की मरहम-पट्टी और प्राथमिक इलाज", "en": "Dressing wounds and primary treatment of injured"},
+            {"hi": "बड़े ऑपरेशन करना", "en": "Performing major surgeries"},
+            {"hi": "केवल दवाई बेचना", "en": "Only selling medicines"},
+            {"hi": "सिर्फ रिकॉर्ड रखना", "en": "Only keeping records"}
+          ],
+          "answer": {"hi": "घायलों की मरहम-पट्टी और प्राथमिक इलाज", "en": "Dressing wounds and primary treatment of injured"}
+        },
+        {
+          "q": {
+            "hi": "आपदा के बाद पुनर्निर्माण (Reconstruction) का क्या अर्थ है?",
+            "en": "What does 'Reconstruction' mean after a disaster?"
+          },
+          "options": [
+            {"hi": "सब कुछ वैसा ही छोड़ देना", "en": "Leaving everything as it is"},
+            {"hi": "क्षतिग्रस्त घरों और सुविधाओं को दोबारा बनाना", "en": "Rebuilding damaged houses and facilities"},
+            {"hi": "पुराना सामान बेचना", "en": "Selling old items"},
+            {"hi": "पलायन करना", "en": "Migrating"}
+          ],
+          "answer": {"hi": "क्षतिग्रस्त घरों और सुविधाओं को दोबारा बनाना", "en": "Rebuilding damaged houses and facilities"}
+        },
+        {
+          "q": {
+            "hi": "समुदाय आधारित प्रबंधन हमें क्या सिखाता है?",
+            "en": "What does community-based management teach us?"
+          },
+          "options": [
+            {"hi": "अकेले रहना", "en": "Living alone"},
+            {"hi": "एकजुटता और आत्मनिर्भरता", "en": "Solidarity and self-reliance"},
+            {"hi": "डरना", "en": "Being afraid"},
+            {"hi": "लड़ना", "en": "Fighting"}
+          ],
+          "answer": {"hi": "एकजुटता और आत्मनिर्भरता", "en": "Solidarity and self-reliance"}
+        },
+        {
+          "q": {
+            "hi": "अंततः, आपदा प्रबंधन का सर्वोत्तम मार्ग कौन सा है?",
+            "en": "Ultimately, which is the best path for disaster management?"
+          },
+          "options": [
+            {"hi": "सिर्फ भाग्य पर भरोसा करना", "en": "Only trusting fate"},
+            {"hi": "जन-भागीदारी और सामुदायिक सक्रियता", "en": "Public participation and community activeness"},
+            {"hi": "आपदा से भाग जाना", "en": "Escaping from disaster"},
+            {"hi": "मौन रहना", "en": "Staying silent"}
+          ],
+          "answer": {"hi": "जन-भागीदारी और सामुदायिक सक्रियता", "en": "Public participation and community activeness"}
+        }
+      ]
     }
   }
 }
