@@ -5957,6 +5957,668 @@
           "answer": {"hi": "एक जीवंत और व्यावहारिक विषय", "en": "A living and practical subject"}
         }
       ]
+    },
+    "chapter10": {
+      "section1": [
+        {
+          "q": {
+            "hi": "ऐसी घटना जिसका प्रभाव मानव जीवन के लिए त्रासदी लाता है, क्या कहलाती है?",
+            "en": "What is an event called whose impact brings tragedy to human life?"
+          },
+          "options": [
+            {"hi": "उत्सव", "en": "Festival"},
+            {"hi": "आपदा", "en": "Disaster"},
+            {"hi": "विकास", "en": "Development"},
+            {"hi": "प्रबंधन", "en": "Management"}
+          ],
+          "answer": {"hi": "आपदा", "en": "Disaster"}
+        },
+        {
+          "q": {
+            "hi": "आपदाओं को मुख्य रूप से किन दो वर्गों में बाँटा जा सकता है?",
+            "en": "Into which two main categories can disasters be divided?"
+          },
+          "options": [
+            {"hi": "छोटी और बड़ी", "en": "Small and Large"},
+            {"hi": "सफल और असफल", "en": "Successful and Unsuccessful"},
+            {"hi": "प्राकृतिक और मानवजनित", "en": "Natural and Man-made"},
+            {"hi": "आर्थिक और सामाजिक", "en": "Economic and Social"}
+          ],
+          "answer": {"hi": "प्राकृतिक और मानवजनित", "en": "Natural and Man-made"}
+        },
+        {
+          "q": {
+            "hi": "इनमें से कौन-सी एक मानवजनित आपदा है?",
+            "en": "Which of these is a man-made disaster?"
+          },
+          "options": [
+            {"hi": "भूकंप", "en": "Earthquake"},
+            {"hi": "सुनामी", "en": "Tsunami"},
+            {"hi": "जहरीले उत्पाद का रिसाव", "en": "Leakage of toxic products"},
+            {"hi": "बाढ़", "en": "Flood"}
+          ],
+          "answer": {"hi": "जहरीले उत्पाद का रिसाव", "en": "Leakage of toxic products"}
+        },
+        {
+          "q": {
+            "hi": "रासायनिक, जैविक और नाभिकीय कारक किस प्रकार की आपदा के अंतर्गत आते हैं?",
+            "en": "Chemical, biological and nuclear factors come under which type of disaster?"
+          },
+          "options": [
+            {"hi": "प्राकृतिक आपदा", "en": "Natural disaster"},
+            {"hi": "मानवजनित आपदा", "en": "Man-made disaster"},
+            {"hi": "ब्रह्मांडीय आपदा", "en": "Cosmic disaster"},
+            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+          ],
+          "answer": {"hi": "मानवजनित आपदा", "en": "Man-made disaster"}
+        },
+        {
+          "q": {
+            "hi": "क्या आपदा को पूर्णतः समाप्त करना संभव है?",
+            "en": "Is it possible to completely eliminate disasters?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "लगभग असंभव", "en": "Almost impossible"},
+            {"hi": "केवल शहर में", "en": "Only in cities"},
+            {"hi": "भविष्य में", "en": "In the future"}
+          ],
+          "answer": {"hi": "लगभग असंभव", "en": "Almost impossible"}
+        },
+        {
+          "q": {
+            "hi": "आपदा प्रबंधन का मुख्य उद्देश्य क्या है?",
+            "en": "What is the main objective of disaster management?"
+          },
+          "options": [
+            {"hi": "आपदा लाना", "en": "To bring disaster"},
+            {"hi": "आपदा के प्रभाव को कम करना", "en": "To reduce the impact of disaster"},
+            {"hi": "पैसे कमाना", "en": "To earn money"},
+            {"hi": "केवल फोटो खींचना", "en": "Only taking photos"}
+          ],
+          "answer": {"hi": "आपदा के प्रभाव को कम करना", "en": "To reduce the impact of disaster"}
+        },
+        {
+          "q": {
+            "hi": "आपदा प्रबंधन के कितने प्रमुख घटक होते हैं?",
+            "en": "How many main components of disaster management are there?"
+          },
+          "options": [
+            {"hi": "दो", "en": "Two"},
+            {"hi": "तीन", "en": "Three"},
+            {"hi": "चार", "en": "Four"},
+            {"hi": "पाँच", "en": "Five"}
+          ],
+          "answer": {"hi": "चार", "en": "Four"}
+        },
+        {
+          "q": {
+            "hi": "आपदा के बाद सामान्य जीवन स्तर पर पुनः स्थापित होना क्या कहलाता है?",
+            "en": "What is the re-establishment of normal life standards after a disaster called?"
+          },
+          "options": [
+            {"hi": "पुनर्वास (Rehabilitation)", "en": "Rehabilitation"},
+            {"hi": "पूर्वाभास", "en": "Forecasting"},
+            {"hi": "निवारण", "en": "Prevention"},
+            {"hi": "प्रदूषण", "en": "Pollution"}
+          ],
+          "answer": {"hi": "पुनर्वास (Rehabilitation)", "en": "Rehabilitation"}
+        },
+        {
+          "q": {
+            "hi": "आपदा आने के पूर्व विद्यालय या समुदाय को क्या तैयार करना चाहिए?",
+            "en": "What should the school or community prepare before a disaster strikes?"
+          },
+          "options": [
+            {"hi": "दावत", "en": "Feast"},
+            {"hi": "आपदा प्रबंधन मानचित्र और योजना", "en": "Disaster management map and plan"},
+            {"hi": "नया भवन", "en": "New building"},
+            {"hi": "खेल का मैदान", "en": "Playground"}
+          ],
+          "answer": {"hi": "आपदा प्रबंधन मानचित्र और योजना", "en": "Disaster management map and plan"}
+        },
+        {
+          "q": {
+            "hi": "आपदा के दौरान सुरक्षित स्थान की पहचान के लिए क्या उपयोगी है?",
+            "en": "What is useful for identifying a safe place during a disaster?"
+          },
+          "options": [
+            {"hi": "अखबार", "en": "Newspaper"},
+            {"hi": "मानचित्रण (Mapping)", "en": "Mapping"},
+            {"hi": "रेडियो", "en": "Radio"},
+            {"hi": "मोबाइल गेम", "en": "Mobile game"}
+          ],
+          "answer": {"hi": "मानचित्रण (Mapping)", "en": "Mapping"}
+        }
+      ],
+      "section2": [
+        {
+          "q": {
+            "hi": "आपदा आने पर बचाव दल को सूचित करने का सबसे तेज़ माध्यम क्या है?",
+            "en": "What is the fastest medium to inform the rescue team during a disaster?"
+          },
+          "options": [
+            {"hi": "चिट्ठी", "en": "Letter"},
+            {"hi": "संदेश वाहक", "en": "Messenger"},
+            {"hi": "टेलीफोन या वायरलेस", "en": "Telephone or Wireless"},
+            {"hi": "ढोल बजाना", "en": "Beating drums"}
+          ],
+          "answer": {"hi": "टेलीफोन या वायरलेस", "en": "Telephone or Wireless"}
+        },
+        {
+          "q": {
+            "hi": "खतरनाक क्षेत्रों की पहचान कर वहां क्या नहीं करना चाहिए?",
+            "en": "What should not be done after identifying dangerous areas?"
+          },
+          "options": [
+            {"hi": "पेड़ लगाना", "en": "Planting trees"},
+            {"hi": "बसाव या निर्माण कार्य", "en": "Settlement or construction work"},
+            {"hi": "सफाई करना", "en": "Cleaning"},
+            {"hi": "घूमना", "en": "Walking"}
+          ],
+          "answer": {"hi": "बसाव या निर्माण कार्य", "en": "Settlement or construction work"}
+        },
+        {
+          "q": {
+            "hi": "आपदा प्रबंधन में सबसे महत्वपूर्ण भूमिका किसकी होती है?",
+            "en": "Who plays the most important role in disaster management?"
+          },
+          "options": [
+            {"hi": "विदेशियों की", "en": "Foreigners"},
+            {"hi": "स्थानीय समुदाय की", "en": "Local community"},
+            {"hi": "केवल वैज्ञानिकों की", "en": "Only scientists"},
+            {"hi": "मशीनों की", "en": "Machines"}
+          ],
+          "answer": {"hi": "स्थानीय समुदाय की", "en": "Local community"}
+        },
+        {
+          "q": {
+            "hi": "ग्रामीण स्तर पर आपदा प्रबंधन की जिम्मेदारी किसकी होती है?",
+            "en": "Who is responsible for disaster management at the village level?"
+          },
+          "options": [
+            {"hi": "ग्राम पंचायत", "en": "Gram Panchayat"},
+            {"hi": "नगर निगम", "en": "Municipal Corporation"},
+            {"hi": "पुलिस", "en": "Police"},
+            {"hi": "अस्पताल", "en": "Hospital"}
+          ],
+          "answer": {"hi": "ग्राम पंचायत", "en": "Gram Panchayat"}
+        },
+        {
+          "q": {
+            "hi": "आपदा के दौरान राहत शिविरों का संचालन कौन करता है?",
+            "en": "Who operates the relief camps during a disaster?"
+          },
+          "options": [
+            {"hi": "स्थानीय प्रशासन और समुदाय", "en": "Local administration and community"},
+            {"hi": "केवल बच्चे", "en": "Only children"},
+            {"hi": "दुकानदार", "en": "Shopkeepers"},
+            {"hi": "सिनेमा हॉल मालिक", "en": "Cinema hall owners"}
+          ],
+          "answer": {"hi": "स्थानीय प्रशासन और समुदाय", "en": "Local administration and community"}
+        },
+        {
+          "q": {
+            "hi": "आपदा के प्रभाव को कम करने के लिए भवनों का निर्माण कैसा होना चाहिए?",
+            "en": "What should be the construction of buildings like to reduce the impact of disaster?"
+          },
+          "options": [
+            {"hi": "कांच का", "en": "Made of glass"},
+            {"hi": "आपदारोधी (Disaster resistant)", "en": "Disaster resistant"},
+            {"hi": "बहुत ऊँचा", "en": "Very high"},
+            {"hi": "मिट्टी का", "en": "Made of mud"}
+          ],
+          "answer": {"hi": "आपदारोधी (Disaster resistant)", "en": "Disaster resistant"}
+        },
+        {
+          "q": {
+            "hi": "सामुदायिक जागरूकता बढ़ाने के लिए क्या करना चाहिए?",
+            "en": "What should be done to increase community awareness?"
+          },
+          "options": [
+            {"hi": "शिक्षा और प्रशिक्षण", "en": "Education and training"},
+            {"hi": "पार्टी करना", "en": "Partying"},
+            {"hi": "छुट्टी मनाना", "en": "Vacationing"},
+            {"hi": "सड़कें बंद करना", "en": "Closing roads"}
+          ],
+          "answer": {"hi": "शिक्षा और प्रशिक्षण", "en": "Education and training"}
+        },
+        {
+          "q": {
+            "hi": "आपदा के समय प्रथम लाभ किसे मिलता है?",
+            "en": "Who gets the first benefit during a disaster?"
+          },
+          "options": [
+            {"hi": "सरकार को", "en": "The government"},
+            {"hi": "प्रभावित व्यक्ति को", "en": "The affected person"},
+            {"hi": "पड़ोसी देश को", "en": "Neighboring country"},
+            {"hi": "इतिहासकारों को", "en": "Historians"}
+          ],
+          "answer": {"hi": "प्रभावित व्यक्ति को", "en": "The affected person"}
+        },
+        {
+          "q": {
+            "hi": "आपदा के दौरान प्राथमिक चिकित्सा (First Aid) की जानकारी क्यों जरूरी है?",
+            "en": "Why is knowledge of First Aid necessary during a disaster?"
+          },
+          "options": [
+            {"hi": "मज़ाक के लिए", "en": "For fun"},
+            {"hi": "घायलों की जान बचाने के लिए", "en": "To save the lives of the injured"},
+            {"hi": "डिग्री पाने के लिए", "en": "To get a degree"},
+            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+          ],
+          "answer": {"hi": "घायलों की जान बचाने के लिए", "en": "To save the lives of the injured"}
+        },
+        {
+          "q": {
+            "hi": "मानव की भूल के कारण होने वाली आग किस प्रकार की आपदा है?",
+            "en": "Fire caused by human error is what type of disaster?"
+          },
+          "options": [
+            {"hi": "प्राकृतिक", "en": "Natural"},
+            {"hi": "मानवजनित", "en": "Man-made"},
+            {"hi": "ब्रह्मांडीय", "en": "Cosmic"},
+            {"hi": "धार्मिक", "en": "Religious"}
+          ],
+          "answer": {"hi": "मानवजनित", "en": "Man-made"}
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "आपदा प्रबंधन का पहला चरण (Phase) क्या है?",
+            "en": "What is the first phase of disaster management?"
+          },
+          "options": [
+            {"hi": "राहत कार्य", "en": "Relief work"},
+            {"hi": "आपदा के पूर्व की तैयारी", "en": "Pre-disaster preparation"},
+            {"hi": "पुनर्निर्माण", "en": "Reconstruction"},
+            {"hi": "भविष्यवाणी", "en": "Prediction"}
+          ],
+          "answer": {"hi": "आपदा के पूर्व की तैयारी", "en": "Pre-disaster preparation"}
+        },
+        {
+          "q": {
+            "hi": "आपदा प्रबंधन में 'समुदाय' से क्या तात्पर्य है?",
+            "en": "What is meant by 'community' in disaster management?"
+          },
+          "options": [
+            {"hi": "किसी खास क्षेत्र के लोग", "en": "People of a specific area"},
+            {"hi": "केवल सरकारी अधिकारी", "en": "Only government officials"},
+            {"hi": "पशु-पक्षी", "en": "Animals and birds"},
+            {"hi": "पेड़-पौधे", "en": "Plants and trees"}
+          ],
+          "answer": {"hi": "किसी खास क्षेत्र के लोग", "en": "People of a specific area"}
+        },
+        {
+          "q": {
+            "hi": "राष्ट्रीय स्तर पर आपदा प्रबंधन के लिए कौन-सी संस्था जिम्मेदार है?",
+            "en": "Which organization is responsible for disaster management at the national level?"
+          },
+          "options": [
+            {"hi": "UNICEF", "en": "UNICEF"},
+            {"hi": "राष्ट्रीय आपदा प्रबंधन प्राधिकरण (NDMA)", "en": "National Disaster Management Authority (NDMA)"},
+            {"hi": "WHO", "en": "WHO"},
+            {"hi": "UNESCO", "en": "UNESCO"}
+          ],
+          "answer": {"hi": "राष्ट्रीय आपदा प्रबंधन प्राधिकरण (NDMA)", "en": "National Disaster Management Authority (NDMA)"}
+        },
+        {
+          "q": {
+            "hi": "आपदा प्रभावित क्षेत्र में तुम लोगों की मदद कैसे करोगे?",
+            "en": "How will you help people in a disaster-affected area?"
+          },
+          "options": [
+            {"hi": "भोजन और दवा पहुँचाकर", "en": "By providing food and medicine"},
+            {"hi": "अफवाह फैलाकर", "en": "By spreading rumors"},
+            {"hi": "वहां से भागकर", "en": "By running away from there"},
+            {"hi": "तमाशा देखकर", "en": "By watching the scene"}
+          ],
+          "answer": {"hi": "भोजन और दवा पहुँचाकर", "en": "By providing food and medicine"}
+        },
+        {
+          "q": {
+            "hi": "विद्यालय द्वारा आपदा प्रभावित लोगों को क्या मदद दी जा सकती है?",
+            "en": "What help can be given to disaster-affected people by the school?"
+          },
+          "options": [
+            {"hi": "आश्रय स्थल के रूप में उपयोग", "en": "Use as a shelter"},
+            {"hi": "केवल ताला लगाकर", "en": "Only by locking it"},
+            {"hi": "छुट्टी देकर", "en": "By giving holidays"},
+            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+          ],
+          "answer": {"hi": "आश्रय स्थल के रूप में उपयोग", "en": "Use as a shelter"}
+        },
+        {
+          "q": {
+            "hi": "धार्मिक और जातीय दंगे किस प्रकार की आपदा में आते हैं?",
+            "en": "Religious and ethnic riots come under which type of disaster?"
+          },
+          "options": [
+            {"hi": "प्राकृतिक आपदा", "en": "Natural disaster"},
+            {"hi": "मानवजनित आपदा", "en": "Man-made disaster"},
+            {"hi": "दैवीय आपदा", "en": "Divine disaster"},
+            {"hi": "मौसमी आपदा", "en": "Seasonal disaster"}
+          ],
+          "answer": {"hi": "मानवजनित आपदा", "en": "Man-made disaster"}
+        },
+        {
+          "q": {
+            "hi": "आपदा के दौरान घायलों को निकालने के लिए किसका गठन किया जाता है?",
+            "en": "Who is formed to evacuate the injured during a disaster?"
+          },
+          "options": [
+            {"hi": "क्रिकेट टीम", "en": "Cricket team"},
+            {"hi": "खोज एवं बचाव दल (Search and Rescue)", "en": "Search and Rescue team"},
+            {"hi": "पर्यटन समूह", "en": "Tourism group"},
+            {"hi": "गायन मंडली", "en": "Singing group"}
+          ],
+          "answer": {"hi": "खोज एवं बचाव दल (Search and Rescue)", "en": "Search and Rescue team"}
+        },
+        {
+          "q": {
+            "hi": "आपदा प्रबंधन में स्वयंसेवी संस्थाओं (NGOs) की क्या भूमिका है?",
+            "en": "What is the role of NGOs in disaster management?"
+          },
+          "options": [
+            {"hi": "कोई भूमिका नहीं", "en": "No role"},
+            {"hi": "राहत और बचाव कार्यों में सहयोग", "en": "Support in relief and rescue operations"},
+            {"hi": "केवल भाषण देना", "en": "Only giving speeches"},
+            {"hi": "पैसे चुराना", "en": "Stealing money"}
+          ],
+          "answer": {"hi": "राहत और बचाव कार्यों में सहयोग", "en": "Support in relief and rescue operations"}
+        },
+        {
+          "q": {
+            "hi": "आपदा प्रबंधन का दूसरा घटक कौन सा है?",
+            "en": "Which is the second component of disaster management?"
+          },
+          "options": [
+            {"hi": "तैयारी", "en": "Preparation"},
+            {"hi": "जबावी कार्रवाई तथा राहत कार्य", "en": "Response and relief work"},
+            {"hi": "रोकथाम", "en": "Prevention"},
+            {"hi": "पुनर्वास", "en": "Rehabilitation"}
+          ],
+          "answer": {"hi": "जबावी कार्रवाई तथा राहत कार्य", "en": "Response and relief work"}
+        },
+        {
+          "q": {
+            "hi": "इनमें से कौन-सा प्राकृतिक संकट है?",
+            "en": "Which of these is a natural hazard?"
+          },
+          "options": [
+            {"hi": "बाँध का टूटना", "en": "Dam failure"},
+            {"hi": "चक्रवात", "en": "Cyclone"},
+            {"hi": "युद्ध", "en": "War"},
+            {"hi": "वायु प्रदूषण", "en": "Air pollution"}
+          ],
+          "answer": {"hi": "चक्रवात", "en": "Cyclone"}
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "आपदा के दुष्प्रभावों को कम करने की योजना कब बनानी चाहिए?",
+            "en": "When should the plan to reduce the side effects of disaster be made?"
+          },
+          "options": [
+            {"hi": "आपदा आने के बाद", "en": "After the disaster"},
+            {"hi": "आपदा आने के पूर्व", "en": "Before the disaster"},
+            {"hi": "कभी नहीं", "en": "Never"},
+            {"hi": "केवल रात में", "en": "Only at night"}
+          ],
+          "answer": {"hi": "आपदा आने के पूर्व", "en": "Before the disaster"}
+        },
+        {
+          "q": {
+            "hi": "क्या आपदा के समय लोगों को अपने जोखिम क्षेत्रों से दूर चले जाना चाहिए?",
+            "en": "Should people move away from their risk areas during a disaster?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "सिर्फ बच्चों को", "en": "Only children"},
+            {"hi": "ज़रूरी नहीं", "en": "Not necessary"}
+          ],
+          "answer": {"hi": "हाँ", "en": "Yes"}
+        },
+        {
+          "q": {
+            "hi": "आपदा के दौरान घायलों को कहाँ पहुँचाना चाहिए?",
+            "en": "Where should the injured be taken during a disaster?"
+          },
+          "options": [
+            {"hi": "सिनेमा हॉल", "en": "Cinema hall"},
+            {"hi": "अस्पताल या सुरक्षित चिकित्सा केंद्र", "en": "Hospital or safe medical center"},
+            {"hi": "बाज़ार", "en": "Market"},
+            {"hi": "पार्क", "en": "Park"}
+          ],
+          "answer": {"hi": "अस्पताल या सुरक्षित चिकित्सा केंद्र", "en": "Hospital or safe medical center"}
+        },
+        {
+          "q": {
+            "hi": "बाढ़ किस प्रकार की आपदा है?",
+            "en": "What type of disaster is a flood?"
+          },
+          "options": [
+            {"hi": "मानवजनित", "en": "Man-made"},
+            {"hi": "प्राकृतिक", "en": "Natural"},
+            {"hi": "अंतरिक्षीय", "en": "Space related"},
+            {"hi": "धार्मिक", "en": "Religious"}
+          ],
+          "answer": {"hi": "प्राकृतिक", "en": "Natural"}
+        },
+        {
+          "q": {
+            "hi": "आपदा प्रबंधन में 'रोकथाम' (Prevention) का क्या अर्थ है?",
+            "en": "What does 'Prevention' mean in disaster management?"
+          },
+          "options": [
+            {"hi": "आपदा को आने देना", "en": "Letting the disaster come"},
+            {"hi": "आपदा के नुकसान को कम करने के उपाय करना", "en": "Taking measures to reduce disaster damage"},
+            {"hi": "आपदा से भागना", "en": "Running from disaster"},
+            {"hi": "खड़े होकर देखना", "en": "Standing and watching"}
+          ],
+          "answer": {"hi": "आपदा के नुकसान को कम करने के उपाय करना", "en": "Taking measures to reduce disaster damage"}
+        },
+        {
+          "q": {
+            "hi": "जहरीली गैस का रिसाव कैसी आपदा है?",
+            "en": "Leakage of poisonous gas is what kind of disaster?"
+          },
+          "options": [
+            {"hi": "प्राकृतिक", "en": "Natural"},
+            {"hi": "मानवजनित", "en": "Man-made"},
+            {"hi": "वायुमंडलीय", "en": "Atmospheric"},
+            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+          ],
+          "answer": {"hi": "मानवजनित", "en": "Man-made"}
+        },
+        {
+          "q": {
+            "hi": "आपदा आने पर स्थानीय लोगों को क्या करना चाहिए?",
+            "en": "What should local people do when a disaster strikes?"
+          },
+          "options": [
+            {"hi": "घबराकर भागना", "en": "Running in panic"},
+            {"hi": "प्राथमिकता के आधार पर कार्य करना", "en": "Working based on priority"},
+            {"hi": "रोते रहना", "en": "Keep crying"},
+            {"hi": "सो जाना", "en": "Going to sleep"}
+          ],
+          "answer": {"hi": "प्राथमिकता के आधार पर कार्य करना", "en": "Working based on priority"}
+        },
+        {
+          "q": {
+            "hi": "आपदा प्रबंधन के लिए आवश्यक है कि प्रबंधन में कौन आगे आये?",
+            "en": "For disaster management, it is necessary for whom to come forward?"
+          },
+          "options": [
+            {"hi": "समुदाय (Community)", "en": "Community"},
+            {"hi": "केवल विदेशी", "en": "Only foreigners"},
+            {"hi": "केवल टीवी एंकर", "en": "Only TV anchors"},
+            {"hi": "मशीनें", "en": "Machines"}
+          ],
+          "answer": {"hi": "समुदाय (Community)", "en": "Community"}
+        },
+        {
+          "q": {
+            "hi": "सुनामी लहरें कहाँ उत्पन्न होती हैं?",
+            "en": "Where do tsunami waves originate?"
+          },
+          "options": [
+            {"hi": "आकाश में", "en": "In the sky"},
+            {"hi": "रेगिस्तान में", "en": "In the desert"},
+            {"hi": "समुद्र के तल में", "en": "At the bottom of the sea"},
+            {"hi": "नदियों में", "en": "In rivers"}
+          ],
+          "answer": {"hi": "समुद्र के तल में", "en": "At the bottom of the sea"}
+        },
+        {
+          "q": {
+            "hi": "आपदा प्रबंधन का अंतिम घटक (Phase) क्या है?",
+            "en": "What is the final component of disaster management?"
+          },
+          "options": [
+            {"hi": "तैयारी", "en": "Preparation"},
+            {"hi": "राहत कार्य", "en": "Relief work"},
+            {"hi": "रोकथाम और दुष्प्रभाव कम करना", "en": "Prevention and mitigation"},
+            {"hi": "पुनर्वास", "en": "Rehabilitation"}
+          ],
+          "answer": {"hi": "रोकथाम और दुष्प्रभाव कम करना", "en": "Prevention and mitigation"}
+        }
+      ],
+      "section5": [
+        {
+          "q": {
+            "hi": "कल-कारखानों में होने वाली दुर्घटनाएँ कैसी आपदा हैं?",
+            "en": "Accidents occurring in factories are what type of disaster?"
+          },
+          "options": [
+            {"hi": "प्राकृतिक", "en": "Natural"},
+            {"hi": "मानवजनित", "en": "Man-made"},
+            {"hi": "दैवीय", "en": "Divine"},
+            {"hi": "कोई नहीं", "en": "None"}
+          ],
+          "answer": {"hi": "मानवजनित", "en": "Man-made"}
+        },
+        {
+          "q": {
+            "hi": "आपदा के समय अफवाहों से क्या होता है?",
+            "en": "What happens due to rumors during a disaster?"
+          },
+          "options": [
+            {"hi": "डर और भ्रम बढ़ता है", "en": "Fear and confusion increase"},
+            {"hi": "मदद मिलती है", "en": "Help is received"},
+            {"hi": "शांति होती है", "en": "Peace occurs"},
+            {"hi": "सब ठीक हो जाता है", "en": "Everything gets better"}
+          ],
+          "answer": {"hi": "डर और भ्रम बढ़ता है", "en": "Fear and confusion increase"}
+        },
+        {
+          "q": {
+            "hi": "आपदा आने पर भोजन और पानी का भंडारण क्यों ज़रूरी है?",
+            "en": "Why is storage of food and water necessary during a disaster?"
+          },
+          "options": [
+            {"hi": "दुकान खोलने के लिए", "en": "To open a shop"},
+            {"hi": "आपात स्थिति में जीवित रहने के लिए", "en": "To survive in an emergency"},
+            {"hi": "पड़ोसियों को दिखाने के लिए", "en": "To show neighbors"},
+            {"hi": "पैसे बचाने के लिए", "en": "To save money"}
+          ],
+          "answer": {"hi": "आपात स्थिति में जीवित रहने के लिए", "en": "To survive in an emergency"}
+        },
+        {
+          "q": {
+            "hi": "आपदा प्रबंधन का अर्थ 'आपदा का व्यापार' है?",
+            "en": "Does disaster management mean 'business of disaster'?"
+          },
+          "options": [
+            {"hi": "नहीं, यह जीवन बचाने की प्रक्रिया है", "en": "No, it is a process to save lives"},
+            {"hi": "हाँ, बिल्कुल", "en": "Yes, absolutely"},
+            {"hi": "पता नहीं", "en": "Don't know"},
+            {"hi": "शायद", "en": "Maybe"}
+          ],
+          "answer": {"hi": "नहीं, यह जीवन बचाने की प्रक्रिया है", "en": "No, it is a process to save lives"}
+        },
+        {
+          "q": {
+            "hi": "आपदा के समय रेडियो का क्या उपयोग है?",
+            "en": "What is the use of radio during a disaster?"
+          },
+          "options": [
+            {"hi": "गाने सुनने के लिए", "en": "To listen to songs"},
+            {"hi": "महत्वपूर्ण सूचनाएँ और निर्देश पाने के लिए", "en": "To get important information and instructions"},
+            {"hi": "सिर्फ आवाज़ सुनने के लिए", "en": "Just to hear voice"},
+            {"hi": "बैटरी खत्म करने के लिए", "en": "To drain battery"}
+          ],
+          "answer": {"hi": "महत्वपूर्ण सूचनाएँ और निर्देश पाने के लिए", "en": "To get important information and instructions"}
+        },
+        {
+          "q": {
+            "hi": "सामुदायिक जागरूकता का दूसरा लाभ किस रूप में होता है?",
+            "en": "In what form does the second benefit of community awareness occur?"
+          },
+          "options": [
+            {"hi": "आर्थिक लाभ", "en": "Economic gain"},
+            {"hi": "सामुदायिक संतुष्टि", "en": "Community satisfaction"},
+            {"hi": "विदेशी यात्रा", "en": "Foreign trip"},
+            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+          ],
+          "answer": {"hi": "सामुदायिक संतुष्टि", "en": "Community satisfaction"}
+        },
+        {
+          "q": {
+            "hi": "आपदा आने पर बिजली के उपकरणों का क्या करना चाहिए?",
+            "en": "What should be done with electrical appliances during a disaster?"
+          },
+          "options": [
+            {"hi": "चालू रखना चाहिए", "en": "Keep them on"},
+            {"hi": "बंद कर देना चाहिए", "en": "Should be turned off"},
+            {"hi": "नया खरीदना चाहिए", "en": "Buy new ones"},
+            {"hi": "छुकर देखना चाहिए", "en": "Should touch and check"}
+          ],
+          "answer": {"hi": "बंद कर देना चाहिए", "en": "Should be turned off"}
+        },
+        {
+          "q": {
+            "hi": "सूखा (Drought) किस प्रकार की आपदा है?",
+            "en": "What type of disaster is a drought?"
+          },
+          "options": [
+            {"hi": "प्राकृतिक", "en": "Natural"},
+            {"hi": "मानवजनित", "en": "Man-made"},
+            {"hi": "क्षणिक", "en": "Momentary"},
+            {"hi": "कोई नहीं", "en": "None"}
+          ],
+          "answer": {"hi": "प्राकृतिक", "en": "Natural"}
+        },
+        {
+          "q": {
+            "hi": "आपदा प्रबंधन में 'जवाबदेही' का क्या महत्व है?",
+            "en": "What is the importance of 'accountability' in disaster management?"
+          },
+          "options": [
+            {"hi": "कार्यों को कुशलता से पूरा करने के लिए", "en": "To complete tasks efficiently"},
+            {"hi": "दूसरे पर दोष डालने के लिए", "en": "To blame others"},
+            {"hi": "सिर्फ कागज़ भरने के लिए", "en": "Only to fill papers"},
+            {"hi": "मज़ाक के लिए", "en": "For fun"}
+          ],
+          "answer": {"hi": "कार्यों को कुशलता से पूरा करने के लिए", "en": "To complete tasks efficiently"}
+        },
+        {
+          "q": {
+            "hi": "अंततः आपदा प्रबंधन हमें क्या सिखाता है?",
+            "en": "Ultimately, what does disaster management teach us?"
+          },
+          "options": [
+            {"hi": "भागना", "en": "To run away"},
+            {"hi": "सतर्कता और एकजुटता", "en": "Vigilance and solidarity"},
+            {"hi": "सिर्फ रोना", "en": "Only crying"},
+            {"hi": "डरना", "en": "To be afraid"}
+          ],
+          "answer": {"hi": "सतर्कता और एकजुटता", "en": "Vigilance and solidarity"}
+        }
+      ]
     }
   }
 }
