@@ -5295,6 +5295,668 @@
           "answer": {"hi": "क्योंकि इसमें इकाइयों का बंधन नहीं होता", "en": "Because there is no restriction of units"}
         }
       ]
+    },
+    "chapter09": {
+      "section1": [
+        {
+          "q": {
+            "hi": "क्षेत्रीय अध्ययन भूगोल का कैसा अंग है?",
+            "en": "What kind of part is regional study in geography?"
+          },
+          "options": [
+            {"hi": "महत्वपूर्ण", "en": "Important"},
+            {"hi": "गौण", "en": "Secondary"},
+            {"hi": "अनावश्यक", "en": "Unnecessary"},
+            {"hi": "काल्पनिक", "en": "Imaginary"}
+          ],
+          "answer": {"hi": "महत्वपूर्ण", "en": "Important"}
+        },
+        {
+          "q": {
+            "hi": "क्षेत्रीय अध्ययन के द्वारा किसके बारे में जानकारी प्राप्त की जाती है?",
+            "en": "Information about what is obtained through regional study?"
+          },
+          "options": [
+            {"hi": "ग्रहों के बारे में", "en": "About planets"},
+            {"hi": "इतिहास के बारे में", "en": "About history"},
+            {"hi": "क्षेत्र विशेष के मानव और परिवेश के बारे में", "en": "About humans and environment of a specific region"},
+            {"hi": "तारों के बारे में", "en": "About stars"}
+          ],
+          "answer": {"hi": "क्षेत्र विशेष के मानव और परिवेश के बारे में", "en": "About humans and environment of a specific region"}
+        },
+        {
+          "q": {
+            "hi": "मानव-वातावरण संबंध को समझने के लिए क्षेत्रीय अध्ययन किसका काम करता है?",
+            "en": "What does regional study act as for understanding human-environment relationships?"
+          },
+          "options": [
+            {"hi": "अवरोध का", "en": "As a barrier"},
+            {"hi": "संजीवनी का", "en": "As a life-saver/catalyst"},
+            {"hi": "मनोरंजन का", "en": "As entertainment"},
+            {"hi": "खेल का", "en": "As a game"}
+          ],
+          "answer": {"hi": "संजीवनी का", "en": "As a life-saver/catalyst"}
+        },
+        {
+          "q": {
+            "hi": "लोगों के जीवन पर किसका प्रभाव स्पष्टतः पड़ता है?",
+            "en": "What clearly affects people's lives?"
+          },
+          "options": [
+            {"hi": "स्थलाकृति और जलवायु", "en": "Topography and Climate"},
+            {"hi": "केवल फिल्मों का", "en": "Only movies"},
+            {"hi": "केवल खेलों का", "en": "Only sports"},
+            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+          ],
+          "answer": {"hi": "स्थलाकृति और जलवायु", "en": "Topography and Climate"}
+        },
+        {
+          "q": {
+            "hi": "क्षेत्रीय अध्ययन के लिए सर्वप्रथम क्या करना आवश्यक है?",
+            "en": "What is the first step required for regional study?"
+          },
+          "options": [
+            {"hi": "घर पर बैठना", "en": "Sitting at home"},
+            {"hi": "क्षेत्र का अवलोकन करना", "en": "Observing the area"},
+            {"hi": "सो जाना", "en": "Going to sleep"},
+            {"hi": "कहानी लिखना", "en": "Writing a story"}
+          ],
+          "answer": {"hi": "क्षेत्र का अवलोकन करना", "en": "Observing the area"}
+        },
+        {
+          "q": {
+            "hi": "वे आँकड़े जो निश्चित किए गए क्षेत्र में जाकर एकत्रित किए जाते हैं, क्या कहलाते हैं?",
+            "en": "Data collected by visiting a defined area is called?"
+          },
+          "options": [
+            {"hi": "प्राथमिक आँकड़े", "en": "Primary data"},
+            {"hi": "द्वितीयक आँकड़े", "en": "Secondary data"},
+            {"hi": "काल्पनिक आँकड़े", "en": "Imaginary data"},
+            {"hi": "झूठे आँकड़े", "en": "False data"}
+          ],
+          "answer": {"hi": "प्राथमिक आँकड़े", "en": "Primary data"}
+        },
+        {
+          "q": {
+            "hi": "जो आँकड़े किसी स्रोत (जैसे सरकारी रिकॉर्ड) द्वारा उपलब्ध कराए जाते हैं, उन्हें क्या कहते हैं?",
+            "en": "Data provided by some source (like government records) is called?"
+          },
+          "options": [
+            {"hi": "प्राथमिक आँकड़े", "en": "Primary data"},
+            {"hi": "द्वितीयक आँकड़े", "en": "Secondary data"},
+            {"hi": "मौखिक आँकड़े", "en": "Oral data"},
+            {"hi": "गुप्त आँकड़े", "en": "Secret data"}
+          ],
+          "answer": {"hi": "द्वितीयक आँकड़े", "en": "Secondary data"}
+        },
+        {
+          "q": {
+            "hi": "क्षेत्रीय अध्ययन में किन आँकड़ों का उपयोग होता है?",
+            "en": "Which data is used in regional study?"
+          },
+          "options": [
+            {"hi": "केवल प्राथमिक", "en": "Only primary"},
+            {"hi": "केवल द्वितीयक", "en": "Only secondary"},
+            {"hi": "प्राथमिक एवं द्वितीयक दोनों", "en": "Both primary and secondary"},
+            {"hi": "कोई नहीं", "en": "None"}
+          ],
+          "answer": {"hi": "प्राथमिक एवं द्वितीयक दोनों", "en": "Both primary and secondary"}
+        },
+        {
+          "q": {
+            "hi": "क्षेत्र चयन हेतु किस बात का ध्यान रखना आवश्यक है?",
+            "en": "What must be kept in mind while selecting an area?"
+          },
+          "options": [
+            {"hi": "क्षेत्र दूर होना चाहिए", "en": "Area should be far away"},
+            {"hi": "क्षेत्र के ज्वलंत मुद्दे", "en": "Burning issues of the area"},
+            {"hi": "क्षेत्र में सिनेमाघर होना चाहिए", "en": "Area should have a cinema hall"},
+            {"hi": "क्षेत्र बहुत बड़ा होना चाहिए", "en": "Area should be very large"}
+          ],
+          "answer": {"hi": "क्षेत्र के ज्वलंत मुद्दे", "en": "Burning issues of the area"}
+        },
+        {
+          "q": {
+            "hi": "क्षेत्रीय अध्ययन में सूचनाओं के संग्रह का मुख्य साधन क्या है?",
+            "en": "What is the main tool for collecting information in regional study?"
+          },
+          "options": [
+            {"hi": "टेलीविजन", "en": "Television"},
+            {"hi": "रेडियो", "en": "Radio"},
+            {"hi": "प्रश्नावली", "en": "Questionnaire"},
+            {"hi": "समाचार पत्र", "en": "Newspaper"}
+          ],
+          "answer": {"hi": "प्रश्नावली", "en": "Questionnaire"}
+        }
+      ],
+      "section2": [
+        {
+          "q": {
+            "hi": "प्रश्नावली तैयार करते समय प्रश्नों की प्रकृति कैसी होनी चाहिए?",
+            "en": "What should be the nature of questions while preparing a questionnaire?"
+          },
+          "options": [
+            {"hi": "कठिन और लंबे", "en": "Difficult and long"},
+            {"hi": "सरल और स्पष्ट", "en": "Simple and clear"},
+            {"hi": "द्विअर्थी", "en": "Ambiguous"},
+            {"hi": "अस्पष्ट", "en": "Unclear"}
+          ],
+          "answer": {"hi": "सरल और स्पष्ट", "en": "Simple and clear"}
+        },
+        {
+          "q": {
+            "hi": "यदि कृषि क्षेत्र में वृद्धि हो रही है, तो इसका मुख्य कारण क्या हो सकता है?",
+            "en": "If the agricultural area is increasing, what could be the main reason?"
+          },
+          "options": [
+            {"hi": "सिंचाई की सुविधा", "en": "Irrigation facility"},
+            {"hi": "वर्षा की कमी", "en": "Lack of rain"},
+            {"hi": "जंगलों की वृद्धि", "en": "Increase in forests"},
+            {"hi": "पशुपालन का अंत", "en": "End of animal husbandry"}
+          ],
+          "answer": {"hi": "सिंचाई की सुविधा", "en": "Irrigation facility"}
+        },
+        {
+          "q": {
+            "hi": "नलकूपों की संख्या बढ़ने से जल-स्तर पर क्या प्रभाव पड़ता है?",
+            "en": "What is the effect of increasing number of tube wells on water level?"
+          },
+          "options": [
+            {"hi": "जल-स्तर बढ़ता है", "en": "Water level increases"},
+            {"hi": "जल-स्तर घटता है", "en": "Water level decreases"},
+            {"hi": "कोई प्रभाव नहीं पड़ता", "en": "No effect"},
+            {"hi": "जल शुद्ध हो जाता है", "en": "Water becomes pure"}
+          ],
+          "answer": {"hi": "जल-स्तर घटता है", "en": "Water level decreases"}
+        },
+        {
+          "q": {
+            "hi": "सिंचाई के मुख्य साधन कौन-से हैं?",
+            "en": "What are the main means of irrigation?"
+          },
+          "options": [
+            {"hi": "नलकूप और कुआँ", "en": "Tube well and Well"},
+            {"hi": "नहर और तालाब", "en": "Canal and Pond"},
+            {"hi": "उपर्युक्त दोनों", "en": "Both of the above"},
+            {"hi": "केवल वर्षा", "en": "Only rain"}
+          ],
+          "answer": {"hi": "उपर्युक्त दोनों", "en": "Both of the above"}
+        },
+        {
+          "q": {
+            "hi": "वायु प्रदूषण का मुख्य स्रोत क्या है?",
+            "en": "What is the main source of air pollution?"
+          },
+          "options": [
+            {"hi": "पेड़ लगाना", "en": "Planting trees"},
+            {"hi": "वाहनों और उद्योगों का धुआँ", "en": "Smoke from vehicles and industries"},
+            {"hi": "साफ-सफाई", "en": "Cleanliness"},
+            {"hi": "साइकिल चलाना", "en": "Cycling"}
+          ],
+          "answer": {"hi": "वाहनों और उद्योगों का धुआँ", "en": "Smoke from vehicles and industries"}
+        },
+        {
+          "q": {
+            "hi": "भूमि उपयोग वर्ग के अंतर्गत किसका क्षेत्रफल लगातार घट रहा है?",
+            "en": "Which land use category's area is continuously decreasing?"
+          },
+          "options": [
+            {"hi": "परती भूमि", "en": "Fallow land"},
+            {"hi": "कृषि क्षेत्र", "en": "Agricultural area"},
+            {"hi": "आवासीय क्षेत्र", "en": "Residential area"},
+            {"hi": "सड़कें", "en": "Roads"}
+          ],
+          "answer": {"hi": "परती भूमि", "en": "Fallow land"}
+        },
+        {
+          "q": {
+            "hi": "मृदा प्रदूषण का एक मुख्य कारण क्या है?",
+            "en": "What is a main cause of soil pollution?"
+          },
+          "options": [
+            {"hi": "गोबर खाद का प्रयोग", "en": "Use of organic manure"},
+            {"hi": "रासायनिक उर्वरकों का अत्यधिक प्रयोग", "en": "Excessive use of chemical fertilizers"},
+            {"hi": "वृक्षारोपण", "en": "Afforestation"},
+            {"hi": "फसल चक्र", "en": "Crop rotation"}
+          ],
+          "answer": {"hi": "रासायनिक उर्वरकों का अत्यधिक प्रयोग", "en": "Excessive use of chemical fertilizers"}
+        },
+        {
+          "q": {
+            "hi": "क्षेत्रीय अध्ययन के बाद अंत में क्या तैयार किया जाता है?",
+            "en": "What is finally prepared after the regional study?"
+          },
+          "options": [
+            {"hi": "कविता", "en": "Poem"},
+            {"hi": "कहानी", "en": "Story"},
+            {"hi": "प्रोजेक्ट रिपोर्ट", "en": "Project report"},
+            {"hi": "अखबार", "en": "Newspaper"}
+          ],
+          "answer": {"hi": "प्रोजेक्ट रिपोर्ट", "en": "Project report"}
+        },
+        {
+          "q": {
+            "hi": "क्षेत्रीय अध्ययन किस प्रकार की शिक्षा का हिस्सा है?",
+            "en": "Regional study is a part of which type of education?"
+          },
+          "options": [
+            {"hi": "केवल सैद्धांतिक", "en": "Only theoretical"},
+            {"hi": "व्यावहारिक और प्रत्यक्ष", "en": "Practical and direct"},
+            {"hi": "काल्पनिक", "en": "Imaginary"},
+            {"hi": "विदेशी", "en": "Foreign"}
+          ],
+          "answer": {"hi": "व्यावहारिक और प्रत्यक्ष", "en": "Practical and direct"}
+        },
+        {
+          "q": {
+            "hi": "अध्ययन क्षेत्र में बीमारियों का पता लगाने के लिए किससे जानकारी ली जाती है?",
+            "en": "From whom is information taken to find out about diseases in the study area?"
+          },
+          "options": [
+            {"hi": "जानवरों से", "en": "From animals"},
+            {"hi": "स्थानीय निवासियों (उत्तरदाता) से", "en": "From local residents (respondents)"},
+            {"hi": "पेड़ों से", "en": "From trees"},
+            {"hi": "दीवारों से", "en": "From walls"}
+          ],
+          "answer": {"hi": "स्थानीय निवासियों (उत्तरदाता) से", "en": "From local residents (respondents)"}
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "वर्षा जल संग्रह (Rain Water Harvesting) क्यों आवश्यक है?",
+            "en": "Why is rain water harvesting necessary?"
+          },
+          "options": [
+            {"hi": "जल स्तर सुधारने के लिए", "en": "To improve water level"},
+            {"hi": "बाढ़ लाने के लिए", "en": "To cause floods"},
+            {"hi": "मिट्टी सुखाने के लिए", "en": "To dry the soil"},
+            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+          ],
+          "answer": {"hi": "जल स्तर सुधारने के लिए", "en": "To improve water level"}
+        },
+        {
+          "q": {
+            "hi": "किस क्षेत्र में कृषि उत्पादकता अधिक होती है?",
+            "en": "In which region is agricultural productivity high?"
+          },
+          "options": [
+            {"hi": "रेगिस्तानी क्षेत्र", "en": "Desert region"},
+            {"hi": "पर्वतीय शिखर", "en": "Mountain peaks"},
+            {"hi": "उपजाऊ मैदानी क्षेत्र", "en": "Fertile plain regions"},
+            {"hi": "बर्फीले क्षेत्र", "en": "Icy regions"}
+          ],
+          "answer": {"hi": "उपजाऊ मैदानी क्षेत्र", "en": "Fertile plain regions"}
+        },
+        {
+          "q": {
+            "hi": "औद्योगिक विकास का पर्यावरण पर क्या प्रभाव पड़ता है?",
+            "en": "What is the impact of industrial development on the environment?"
+          },
+          "options": [
+            {"hi": "प्रदूषण में वृद्धि", "en": "Increase in pollution"},
+            {"hi": "हवा का शुद्ध होना", "en": "Purification of air"},
+            {"hi": "जल स्तर का बढ़ना", "en": "Increase in water level"},
+            {"hi": "जंगलों का बढ़ना", "en": "Increase in forests"}
+          ],
+          "answer": {"hi": "प्रदूषण में वृद्धि", "en": "Increase in pollution"}
+        },
+        {
+          "q": {
+            "hi": "क्षेत्रीय अध्ययन के लिए प्रश्नावली में 'उत्तरदाता का नाम' लिखना क्यों जरूरी है?",
+            "en": "Why is it necessary to write the 'Respondent's name' in the questionnaire for regional study?"
+          },
+          "options": [
+            {"hi": "डराने के लिए", "en": "To scare them"},
+            {"hi": "सूचना की विश्वसनीयता के लिए", "en": "For reliability of information"},
+            {"hi": "मज़ाक के लिए", "en": "For fun"},
+            {"hi": "कोई कारण नहीं है", "en": "There is no reason"}
+          ],
+          "answer": {"hi": "सूचना की विश्वसनीयता के लिए", "en": "For reliability of information"}
+        },
+        {
+          "q": {
+            "hi": "नगरीकरण (Urbanization) से किसका ह्रास होता है?",
+            "en": "What is depleted by urbanization?"
+          },
+          "options": [
+            {"hi": "कृषि भूमि और वनों का", "en": "Agricultural land and forests"},
+            {"hi": "वाहनों का", "en": "Vehicles"},
+            {"hi": "बिल्डिंगों का", "en": "Buildings"},
+            {"hi": "सड़कों का", "en": "Roads"}
+          ],
+          "answer": {"hi": "कृषि भूमि और वनों का", "en": "Agricultural land and forests"}
+        },
+        {
+          "q": {
+            "hi": "अध्ययन क्षेत्र में सिंचाई के साधनों की उपलब्धता किस पर निर्भर करती है?",
+            "en": "On what does the availability of irrigation means in the study area depend?"
+          },
+          "options": [
+            {"hi": "क्षेत्र की स्थलाकृति और जल संसाधन पर", "en": "On topography and water resources of the area"},
+            {"hi": "केवल उत्तरदाता की इच्छा पर", "en": "Only on the respondent's wish"},
+            {"hi": "केवल बादलों पर", "en": "Only on clouds"},
+            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+          ],
+          "answer": {"hi": "क्षेत्र की स्थलाकृति और जल संसाधन पर", "en": "On topography and water resources of the area"}
+        },
+        {
+          "q": {
+            "hi": "एक वर्ष में उत्पन्न की जाने वाली फसलों की विविधता क्या दर्शाती है?",
+            "en": "What does the diversity of crops produced in a year indicate?"
+          },
+          "options": [
+            {"hi": "मिट्टी की उर्वरता और सिंचाई सुविधा", "en": "Soil fertility and irrigation facility"},
+            {"hi": "किसान की गरीबी", "en": "Poverty of farmer"},
+            {"hi": "बाजार की दूरी", "en": "Distance of market"},
+            {"hi": "ट्रैक्टर की संख्या", "en": "Number of tractors"}
+          ],
+          "answer": {"hi": "मिट्टी की उर्वरता और सिंचाई सुविधा", "en": "Soil fertility and irrigation facility"}
+        },
+        {
+          "q": {
+            "hi": "क्षेत्रीय अध्ययन के प्रश्नावली मॉडल में 'प्रदूषण' से संबंधित प्रश्न का क्या महत्व है?",
+            "en": "What is the importance of the question related to 'pollution' in the regional study questionnaire model?"
+          },
+          "options": [
+            {"hi": "पर्यावरणीय समस्याओं को समझना", "en": "To understand environmental problems"},
+            {"hi": "लोगों को परेशान करना", "en": "To harass people"},
+            {"hi": "सिर्फ समय बिताना", "en": "Just to pass time"},
+            {"hi": "क्षेत्र की ऊँचाई मापना", "en": "To measure height of area"}
+          ],
+          "answer": {"hi": "पर्यावरणीय समस्याओं को समझना", "en": "To understand environmental problems"}
+        },
+        {
+          "q": {
+            "hi": "क्षेत्रीय अध्ययन के दौरान प्रश्नावली भरने वाला व्यक्ति क्या कहलाता है?",
+            "en": "What is the person who fills the questionnaire during regional study called?"
+          },
+          "options": [
+            {"hi": "प्रश्नकर्ता", "en": "Questioner/Investigator"},
+            {"hi": "उत्तरदाता", "en": "Respondent"},
+            {"hi": "लेखक", "en": "Writer"},
+            {"hi": "प्रदूषणकर्ता", "en": "Polluter"}
+          ],
+          "answer": {"hi": "प्रश्नकर्ता", "en": "Questioner/Investigator"}
+        },
+        {
+          "q": {
+            "hi": "क्षेत्रीय अध्ययन के निष्कर्षों का उपयोग कहाँ किया जा सकता है?",
+            "en": "Where can the findings of regional study be used?"
+          },
+          "options": [
+            {"hi": "क्षेत्र के विकास की योजना बनाने में", "en": "In planning for regional development"},
+            {"hi": "केवल खेलने में", "en": "Only in playing"},
+            {"hi": "आकाश में उड़ने में", "en": "In flying in the sky"},
+            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+          ],
+          "answer": {"hi": "क्षेत्र के विकास की योजना बनाने में", "en": "In planning for regional development"}
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "प्राथमिक आँकड़े एकत्रित करने का सबसे सीधा तरीका क्या है?",
+            "en": "What is the most direct way to collect primary data?"
+          },
+          "options": [
+            {"hi": "क्षेत्र में जाकर साक्षात्कार और अवलोकन", "en": "Interview and observation by visiting the field"},
+            {"hi": "पुराने अखबार पढ़ना", "en": "Reading old newspapers"},
+            {"hi": "टीवी देखना", "en": "Watching TV"},
+            {"hi": "सपना देखना", "en": "Dreaming"}
+          ],
+          "answer": {"hi": "क्षेत्र में जाकर साक्षात्कार और अवलोकन", "en": "Interview and observation by visiting the field"}
+        },
+        {
+          "q": {
+            "hi": "अध्ययन क्षेत्र में मृदा प्रदूषण का कृषि पर क्या प्रभाव पड़ता है?",
+            "en": "What is the impact of soil pollution on agriculture in the study area?"
+          },
+          "options": [
+            {"hi": "उत्पादकता में कमी", "en": "Decrease in productivity"},
+            {"hi": "उत्पादकता में वृद्धि", "en": "Increase in productivity"},
+            {"hi": "कोई प्रभाव नहीं", "en": "No effect"},
+            {"hi": "मिट्टी का सोना बनना", "en": "Soil turning into gold"}
+          ],
+          "answer": {"hi": "उत्पादकता में कमी", "en": "Decrease in productivity"}
+        },
+        {
+          "q": {
+            "hi": "द्वितीयक आँकड़ों का एक उदाहरण क्या है?",
+            "en": "What is an example of secondary data?"
+          },
+          "options": [
+            {"hi": "जनगणना रिपोर्ट (Census Report)", "en": "Census Report"},
+            {"hi": "क्षेत्र में जाकर की गई बातें", "en": "Talks done in the field"},
+            {"hi": "स्वयं का अवलोकन", "en": "Own observation"},
+            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+          ],
+          "answer": {"hi": "जनगणना रिपोर्ट (Census Report)", "en": "Census Report"}
+        },
+        {
+          "q": {
+            "hi": "क्षेत्रीय अध्ययन में 'पर्यावरण' एक महत्वपूर्ण पहलू क्यों है?",
+            "en": "Why is 'environment' an important aspect in regional study?"
+          },
+          "options": [
+            {"hi": "यह मानव जीवन को आधार प्रदान करता है", "en": "It provides foundation to human life"},
+            {"hi": "यह सुंदर लगता है", "en": "It looks beautiful"},
+            {"hi": "यह सिलेबस का हिस्सा है", "en": "It is part of the syllabus"},
+            {"hi": "उपर्युक्त सभी", "en": "All of the above"}
+          ],
+          "answer": {"hi": "उपर्युक्त सभी", "en": "All of the above"}
+        },
+        {
+          "q": {
+            "hi": "भूमि उपयोग (Land Use) का सर्वेक्षण क्यों किया जाता है?",
+            "en": "Why is the survey of land use conducted?"
+          },
+          "options": [
+            {"hi": "भूमि के उपयोग के पैटर्न को समझने के लिए", "en": "To understand the pattern of land usage"},
+            {"hi": "भूमि बेचने के लिए", "en": "To sell the land"},
+            {"hi": "मिट्टी खाने के लिए", "en": "To eat the soil"},
+            {"hi": "कोई कारण नहीं", "en": "No reason"}
+          ],
+          "answer": {"hi": "भूमि के उपयोग के पैटर्न को समझने के लिए", "en": "To understand the pattern of land usage"}
+        },
+        {
+          "q": {
+            "hi": "वायु प्रदूषण को कम करने के लिए क्षेत्रीय स्तर पर क्या सुझाव दिया जा सकता है?",
+            "en": "What suggestion can be given at the regional level to reduce air pollution?"
+          },
+          "options": [
+            {"hi": "अधिक से अधिक वृक्षारोपण", "en": "Maximum plantation of trees"},
+            {"hi": "गाड़ियाँ जलाना", "en": "Burning cars"},
+            {"hi": "फैक्ट्रियाँ बंद करना", "en": "Closing factories"},
+            {"hi": "घर में छिपना", "en": "Hiding in home"}
+          ],
+          "answer": {"hi": "अधिक से अधिक वृक्षारोपण", "en": "Maximum plantation of trees"}
+        },
+        {
+          "q": {
+            "hi": "अध्ययन क्षेत्र में जल स्तर घटने का मुख्य कारण क्या हो सकता है?",
+            "en": "What could be the main reason for decreasing water level in the study area?"
+          },
+          "options": [
+            {"hi": "भू-जल का अत्यधिक दोहन", "en": "Excessive extraction of ground water"},
+            {"hi": "अत्यधिक वर्षा", "en": "Excessive rainfall"},
+            {"hi": "नदियों का आना", "en": "Coming of rivers"},
+            {"hi": "बर्फ गिरना", "en": "Falling of snow"}
+          ],
+          "answer": {"hi": "भू-जल का अत्यधिक दोहन", "en": "Excessive extraction of ground water"}
+        },
+        {
+          "q": {
+            "hi": "क्षेत्रीय अध्ययन की प्रश्नावली में 'पता' लिखना क्यों आवश्यक है?",
+            "en": "Why is it necessary to write 'Address' in the regional study questionnaire?"
+          },
+          "options": [
+            {"hi": "क्षेत्र की भौगोलिक स्थिति की पहचान के लिए", "en": "For identification of geographical location of area"},
+            {"hi": "चिट्ठी भेजने के लिए", "en": "To send letters"},
+            {"hi": "पार्टी करने के लिए", "en": "For partying"},
+            {"hi": "कोई महत्व नहीं", "en": "No importance"}
+          ],
+          "answer": {"hi": "क्षेत्र की भौगोलिक स्थिति की पहचान के लिए", "en": "For identification of geographical location of area"}
+        },
+        {
+          "q": {
+            "hi": "तृण भूमि (Grassland) के क्षेत्रफल में परिवर्तन क्या दर्शाता है?",
+            "en": "What does a change in the area of grassland indicate?"
+          },
+          "options": [
+            {"hi": "पशुपालन और पारिस्थितिक संतुलन में बदलाव", "en": "Change in animal husbandry and ecological balance"},
+            {"hi": "शेरों की संख्या", "en": "Number of lions"},
+            {"hi": "घास का रंग", "en": "Color of grass"},
+            {"hi": "हवा की गति", "en": "Wind speed"}
+          ],
+          "answer": {"hi": "पशुपालन और पारिस्थितिक संतुलन में बदलाव", "en": "Change in animal husbandry and ecological balance"}
+        },
+        {
+          "q": {
+            "hi": "क्षेत्रीय अध्ययन की रिपोर्ट में 'निष्कर्ष' का क्या अर्थ है?",
+            "en": "What does 'Conclusion' mean in a regional study report?"
+          },
+          "options": [
+            {"hi": "अध्ययन का मुख्य सार और परिणाम", "en": "Main gist and results of the study"},
+            {"hi": "फिल्म का अंत", "en": "End of movie"},
+            {"hi": "कॉपी भरना", "en": "Filling the copy"},
+            {"hi": "केवल नाम लिखना", "en": "Only writing name"}
+          ],
+          "answer": {"hi": "अध्ययन का मुख्य सार और परिणाम", "en": "Main gist and results of the study"}
+        }
+      ],
+      "section5": [
+        {
+          "q": {
+            "hi": "अध्ययन क्षेत्र में प्रदूषण की स्थिति को समझने के लिए किन स्रोतों का अवलोकन करना चाहिए?",
+            "en": "Which sources should be observed to understand the pollution status in the study area?"
+          },
+          "options": [
+            {"hi": "नाले, कारखाने और यातायात", "en": "Drains, factories and traffic"},
+            {"hi": "केवल मंदिर", "en": "Only temples"},
+            {"hi": "केवल बगीचे", "en": "Only gardens"},
+            {"hi": "केवल अस्पताल", "en": "Only hospitals"}
+          ],
+          "answer": {"hi": "नाले, कारखाने और यातायात", "en": "Drains, factories and traffic"}
+        },
+        {
+          "q": {
+            "hi": "क्षेत्रीय अध्ययन का उद्देश्य क्या नहीं है?",
+            "en": "What is not an objective of regional study?"
+          },
+          "options": [
+            {"hi": "केवल मनोरंजन", "en": "Only entertainment"},
+            {"hi": "सूचना संग्रह", "en": "Information collection"},
+            {"hi": "परिवेश को समझना", "en": "Understanding surroundings"},
+            {"hi": "आर्थिक विश्लेषण", "en": "Economic analysis"}
+          ],
+          "answer": {"hi": "केवल मनोरंजन", "en": "Only entertainment"}
+        },
+        {
+          "q": {
+            "hi": "क्या क्षेत्रीय अध्ययन से भविष्य की समस्याओं का अनुमान लगाया जा सकता है?",
+            "en": "Can future problems be estimated from regional study?"
+          },
+          "options": [
+            {"hi": "हाँ", "en": "Yes"},
+            {"hi": "नहीं", "en": "No"},
+            {"hi": "कह नहीं सकते", "en": "Cannot say"},
+            {"hi": "कभी-कभी", "en": "Sometimes"}
+          ],
+          "answer": {"hi": "हाँ", "en": "Yes"}
+        },
+        {
+          "q": {
+            "hi": "अध्ययन के लिए 'क्षेत्र चयन' का आधार क्या होना चाहिए?",
+            "en": "What should be the basis for 'area selection' for study?"
+          },
+          "options": [
+            {"hi": "समस्याग्रस्त या विशिष्ट भौगोलिक क्षेत्र", "en": "Problematic or specific geographical area"},
+            {"hi": "सिर्फ सुंदर स्थान", "en": "Only beautiful place"},
+            {"hi": "विदेशी स्थान", "en": "Foreign place"},
+            {"hi": "कोई भी जगह", "en": "Any place"}
+          ],
+          "answer": {"hi": "समस्याग्रस्त या विशिष्ट भौगोलिक क्षेत्र", "en": "Problematic or specific geographical area"}
+        },
+        {
+          "q": {
+            "hi": "क्षेत्रीय अध्ययन में 'प्रश्नावली मॉडल' का उपयोग क्यों किया जाता है?",
+            "en": "Why is a 'questionnaire model' used in regional study?"
+          },
+          "options": [
+            {"hi": "व्यवस्थित रूप से जानकारी प्राप्त करने के लिए", "en": "To obtain information systematically"},
+            {"hi": "कागज खराब करने के लिए", "en": "To waste paper"},
+            {"hi": "हस्ताक्षर लेने के लिए", "en": "To take signatures"},
+            {"hi": "पेंटिंग बनाने के लिए", "en": "To make painting"}
+          ],
+          "answer": {"hi": "व्यवस्थित रूप से जानकारी प्राप्त करने के लिए", "en": "To obtain information systematically"}
+        },
+        {
+          "q": {
+            "hi": "किसी क्षेत्र में जल प्रदूषण का मुख्य संकेतक क्या हो सकता है?",
+            "en": "What could be the main indicator of water pollution in an area?"
+          },
+          "options": [
+            {"hi": "पानी का रंग और दुर्गंध", "en": "Color and smell of water"},
+            {"hi": "पानी का ठंडा होना", "en": "Coldness of water"},
+            {"hi": "नदी में पत्थर होना", "en": "Presence of stones in river"},
+            {"hi": "वर्षा का होना", "en": "Occurrence of rain"}
+          ],
+          "answer": {"hi": "पानी का रंग और दुर्गंध", "en": "Color and smell of water"}
+        },
+        {
+          "q": {
+            "hi": "क्षेत्रीय अध्ययन की कार्य-विधि में 'अवलोकन' का क्या महत्व है?",
+            "en": "What is the importance of 'observation' in regional study methodology?"
+          },
+          "options": [
+            {"hi": "प्रत्यक्ष अनुभव और वास्तविकता को देखना", "en": "Direct experience and seeing reality"},
+            {"hi": "केवल फोटो खींचना", "en": "Only taking photos"},
+            {"hi": "आँखें बंद करना", "en": "Closing eyes"},
+            {"hi": "दूर से देखना", "en": "Looking from far away"}
+          ],
+          "answer": {"hi": "प्रत्यक्ष अनुभव और वास्तविकता को देखना", "en": "Direct experience and seeing reality"}
+        },
+        {
+          "q": {
+            "hi": "क्या क्षेत्रीय अध्ययन से छात्रों की तार्किक क्षमता बढ़ती है?",
+            "en": "Does regional study increase the logical capacity of students?"
+          },
+          "options": [
+            {"hi": "हाँ, निश्चित रूप से", "en": "Yes, definitely"},
+            {"hi": "नहीं, कभी नहीं", "en": "No, never"},
+            {"hi": "सिर्फ समय की बर्बादी है", "en": "It is only a waste of time"},
+            {"hi": "पता नहीं", "en": "Don't know"}
+          ],
+          "answer": {"hi": "हाँ, निश्चित रूप से", "en": "Yes, definitely"}
+        },
+        {
+          "q": {
+            "hi": "क्षेत्रीय अध्ययन की रिपोर्ट में 'परियोजना कार्य' का क्या उद्देश्य है?",
+            "en": "What is the purpose of 'project work' in regional study report?"
+          },
+          "options": [
+            {"hi": "सीखे गए ज्ञान का प्रायोगिक कार्यान्वयन", "en": "Practical implementation of learned knowledge"},
+            {"hi": "केवल कॉपी जमा करना", "en": "Only submitting the copy"},
+            {"hi": "परीक्षा में पास होना", "en": "Passing in exam"},
+            {"hi": "चित्रकारी करना", "en": "Doing artwork"}
+          ],
+          "answer": {"hi": "सीखे गए ज्ञान का प्रायोगिक कार्यान्वयन", "en": "Practical implementation of learned knowledge"}
+        },
+        {
+          "q": {
+            "hi": "अंततः क्षेत्रीय अध्ययन भूगोल को क्या बनाता है?",
+            "en": "Ultimately, what does regional study make geography?"
+          },
+          "options": [
+            {"hi": "एक जीवंत और व्यावहारिक विषय", "en": "A living and practical subject"},
+            {"hi": "एक उबाऊ विषय", "en": "A boring subject"},
+            {"hi": "एक रटने वाला विषय", "en": "A rote-learning subject"},
+            {"hi": "सिर्फ आंकड़ों का ढेर", "en": "Just a heap of data"}
+          ],
+          "answer": {"hi": "एक जीवंत और व्यावहारिक विषय", "en": "A living and practical subject"}
+        }
+      ]
     }
   }
 }
