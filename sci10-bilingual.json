@@ -665,666 +665,515 @@
     "chapter02":{
       "section1": [
         {
-          "q": {
-            "hi": "एक शुद्ध पदार्थ का क्या अर्थ है?",
-            "en": "What is meant by a pure substance?"
-          },
+          "q": { "hi": "भोजन का खट्टा स्वाद उसमें किसकी उपस्थिति के कारण होता है?", "en": "The sour taste of food is due to the presence of what in it?" },
           "options": [
-            {"hi": "पदार्थ में कोई मिलावट न हो", "en": "There is no adulteration in the substance"},
-            {"hi": "पदार्थ में मौजूद सभी कण समान रासायनिक प्रकृति के हों", "en": "All constituent particles of the substance are the same in their chemical nature"},
-            {"hi": "पदार्थ खाने में शुद्ध हो", "en": "The substance is pure for eating"},
-            {"hi": "पदार्थ का रंग सफेद हो", "en": "The substance is white in color"}
+            { "hi": "क्षारक", "en": "Base" },
+            { "hi": "अम्ल", "en": "Acid" },
+            { "hi": "लवण", "en": "Salt" },
+            { "hi": "विटामिन", "en": "Vitamin" }
           ],
-          "answer": {"hi": "पदार्थ में मौजूद सभी कण समान रासायनिक प्रकृति के हों", "en": "All constituent particles of the substance are the same in their chemical nature"}
+          "answer": { "hi": "अम्ल", "en": "Acid" }
         },
         {
-          "q": {
-            "hi": "मिश्रण किसे कहते हैं?",
-            "en": "What is a mixture?"
-          },
+          "q": { "hi": "अम्ल नीले लिटमस पत्र को किस रंग में बदल देते हैं?", "en": "Acids change blue litmus paper into which color?" },
           "options": [
-            {"hi": "एक ही प्रकार के कणों का समूह", "en": "Collection of only one type of particles"},
-            {"hi": "एक से अधिक शुद्ध तत्वों या यौगिकों से मिलकर बना पदार्थ", "en": "Material made of more than one pure element or compound"},
-            {"hi": "केवल गैसों का समूह", "en": "Collection of gases only"},
-            {"hi": "पदार्थ की सबसे छोटी इकाई", "en": "The smallest unit of matter"}
+            { "hi": "पीला", "en": "Yellow" },
+            { "hi": "हरा", "en": "Green" },
+            { "hi": "लाल", "en": "Red" },
+            { "hi": "बैंगनी", "en": "Purple" }
           ],
-          "answer": {"hi": "एक से अधिक शुद्ध तत्वों या यौगिकों से मिलकर बना पदार्थ", "en": "Material made of more than one pure element or compound"}
+          "answer": { "hi": "लाल", "en": "Red" }
         },
         {
-          "q": {
-            "hi": "चीनी और जल का घोल किस प्रकार के मिश्रण का उदाहरण है?",
-            "en": "A solution of sugar in water is an example of which type of mixture?"
-          },
+          "q": { "hi": "क्षारकों का स्वाद कैसा होता है?", "en": "What is the taste of bases?" },
           "options": [
-            {"hi": "विषमांगी मिश्रण", "en": "Heterogeneous mixture"},
-            {"hi": "समांगी मिश्रण", "en": "Homogeneous mixture"},
-            {"hi": "निलंबन", "en": "Suspension"},
-            {"hi": "कोलाइड", "en": "Colloid"}
+            { "hi": "खट्टा", "en": "Sour" },
+            { "hi": "मीठा", "en": "Sweet" },
+            { "hi": "कड़वा", "en": "Bitter" },
+            { "hi": "नमकीन", "en": "Salty" }
           ],
-          "answer": {"hi": "समांगी मिश्रण", "en": "Homogeneous mixture"}
+          "answer": { "hi": "कड़वा", "en": "Bitter" }
         },
         {
-          "q": {
-            "hi": "नमक और लोहे के छीलन का मिश्रण कैसा होता है?",
-            "en": "What type of mixture is salt and iron filings?"
-          },
+          "q": { "hi": "लिटमस विलयन किस पौधे से निकाला जाता है?", "en": "Litmus solution is extracted from which plant?" },
           "options": [
-            {"hi": "समांगी", "en": "Homogeneous"},
-            {"hi": "विषमांगी (Heterogeneous)", "en": "Heterogeneous"},
-            {"hi": "विलयन", "en": "Solution"},
-            {"hi": "शुद्ध पदार्थ", "en": "Pure substance"}
+            { "hi": "गुलाब", "en": "Rose" },
+            { "hi": "लिचेन (lichen)", "en": "Lichen" },
+            { "hi": "पेटूनिया", "en": "Petunia" },
+            { "hi": "हल्दी", "en": "Turmeric" }
           ],
-          "answer": {"hi": "विषमांगी (Heterogeneous)", "en": "Heterogeneous"}
+          "answer": { "hi": "लिचेन (lichen)", "en": "Lichen" }
         },
         {
-          "q": {
-            "hi": "विलयन (Solution) क्या है?",
-            "en": "What is a solution?"
-          },
+          "q": { "hi": "हल्दी किस प्रकार का सूचक है?", "en": "What type of indicator is turmeric?" },
           "options": [
-            {"hi": "दो या दो से अधिक पदार्थों का समांगी मिश्रण", "en": "A homogeneous mixture of two or more substances"},
-            {"hi": "दो गैसों का विषमांगी मिश्रण", "en": "A heterogeneous mixture of two gases"},
-            {"hi": "एक ठोस पदार्थ", "en": "A solid substance"},
-            {"hi": "केवल जल और नमक का घोल", "en": "Only a mixture of water and salt"}
+            { "hi": "संश्लेषित", "en": "Synthetic" },
+            { "hi": "प्राकृतिक", "en": "Natural" },
+            { "hi": "गंधीय", "en": "Olfactory" },
+            { "hi": "सार्वत्रिक", "en": "Universal" }
           ],
-          "answer": {"hi": "दो या दो से अधिक पदार्थों का समांगी मिश्रण", "en": "A homogeneous mixture of two or more substances"}
+          "answer": { "hi": "प्राकृतिक", "en": "Natural" }
         },
         {
-          "q": {
-            "hi": "मिश्र धातु (Alloy) क्या है?",
-            "en": "What is an alloy?"
-          },
+          "q": { "hi": "लिटमस विलयन का प्राकृतिक रंग क्या होता है?", "en": "What is the natural color of litmus solution?" },
           "options": [
-            {"hi": "धातुओं के समांगी मिश्रण", "en": "Homogeneous mixtures of metals"},
-            {"hi": "धातु और अधातु के विषमांगी मिश्रण", "en": "Heterogeneous mixtures of metal and non-metal"},
-            {"hi": "एक शुद्ध तत्व", "en": "A pure element"},
-            {"hi": "एक यौगिक", "en": "A compound"}
+            { "hi": "लाल", "en": "Red" },
+            { "hi": "नीला", "en": "Blue" },
+            { "hi": "बैंगनी", "en": "Purple" },
+            { "hi": "गुलाबी", "en": "Pink" }
           ],
-          "answer": {"hi": "धातुओं के समांगी मिश्रण", "en": "Homogeneous mixtures of metals"}
+          "answer": { "hi": "बैंगनी", "en": "Purple" }
         },
         {
-          "q": {
-            "hi": "विलयन का वह घटक जो दूसरे घटक को विलयन में मिलाता है, क्या कहलाता है?",
-            "en": "The component of the solution that dissolves the other component in it is called?"
-          },
+          "q": { "hi": "मेथिल ऑरेंज किस प्रकार का सूचक है?", "en": "What type of indicator is Methyl Orange?" },
           "options": [
-            {"hi": "विलेय (Solute)", "en": "Solute"},
-            {"hi": "विलायक (Solvent)", "en": "Solvent"},
-            {"hi": "मिश्रण", "en": "Mixture"},
-            {"hi": "यौगिक", "en": "Compound"}
+            { "hi": "प्राकृतिक", "en": "Natural" },
+            { "hi": "संश्लेषित (Synthetic)", "en": "Synthetic" },
+            { "hi": "गंधीय", "en": "Olfactory" },
+            { "hi": "इनमें से कोई नहीं", "en": "None of these" }
           ],
-          "answer": {"hi": "विलायक (Solvent)", "en": "Solvent"}
+          "answer": { "hi": "संश्लेषित (Synthetic)", "en": "Synthetic" }
         },
         {
-          "q": {
-            "hi": "टिंक्चर आयोडीन में विलेय (Solute) कौन सा है?",
-            "en": "Which is the solute in tincture of iodine?"
-          },
+          "q": { "hi": "साबुन की प्रकृति कैसी होती है?", "en": "What is the nature of soap?" },
           "options": [
-            {"hi": "अल्कोहल", "en": "Alcohol"},
-            {"hi": "आयोडीन", "en": "Iodine"},
-            {"hi": "जल", "en": "Water"},
-            {"hi": "नमक", "en": "Salt"}
+            { "hi": "अम्लीय", "en": "Acidic" },
+            { "hi": "क्षारकीय", "en": "Basic" },
+            { "hi": "उदासीन", "en": "Neutral" },
+            { "hi": "संक्षारक", "en": "Corrosive" }
           ],
-          "answer": {"hi": "आयोडीन", "en": "Iodine"}
+          "answer": { "hi": "क्षारकीय", "en": "Basic" }
         },
         {
-          "q": {
-            "hi": "वायु किसका विलयन है?",
-            "en": "Air is a solution of what?"
-          },
+          "q": { "hi": "लिटमस किस समूह के पौधे से संबंधित है?", "en": "Litmus belongs to which plant group?" },
           "options": [
-            {"hi": "गैस में गैस का", "en": "Gas in gas"},
-            {"hi": "द्रव में गैस का", "en": "Gas in liquid"},
-            {"hi": "ठोस में गैस का", "en": "Gas in solid"},
-            {"hi": "धूल के कणों का", "en": "Dust particles"}
+            { "hi": "ब्रायोफाइटा", "en": "Bryophyta" },
+            { "hi": "थैलोफाइटा", "en": "Thallophyta" },
+            { "hi": "टेरिडोफाइटा", "en": "Pteridophyta" },
+            { "hi": "जिम्नोस्पर्म", "en": "Gymnosperms" }
           ],
-          "answer": {"hi": "गैस में गैस का", "en": "Gas in gas"}
+          "answer": { "hi": "थैलोफाइटा", "en": "Thallophyta" }
         },
         {
-          "q": {
-            "hi": "विलयन के कणों का व्यास कितना होता है?",
-            "en": "What is the diameter of solution particles?"
-          },
+          "q": { "hi": "गंधीय सूचक का एक उदाहरण क्या है?", "en": "What is an example of an olfactory indicator?" },
           "options": [
-            {"hi": "1 mm से बड़ा", "en": "Larger than 1 mm"},
-            {"hi": "1 nm (10^-9 मीटर) से छोटा", "en": "Smaller than 1 nm (10^-9 metre)"},
-            {"hi": "10 nm", "en": "10 nm"},
-            {"hi": "आँखों से दिखाई देने योग्य", "en": "Visible to naked eyes"}
+            { "hi": "हल्दी", "en": "Turmeric" },
+            { "hi": "प्याज", "en": "Onion" },
+            { "hi": "लिटमस", "en": "Litmus" },
+            { "hi": "फिनॉल्फथेलिन", "en": "Phenolphthalein" }
           ],
-          "answer": {"hi": "1 nm (10^-9 मीटर) से छोटा", "en": "Smaller than 1 nm (10^-9 metre)"}
+          "answer": { "hi": "प्याज", "en": "Onion" }
         }
       ],
       "section2": [
         {
-          "q": {
-            "hi": "क्या विलयन के कण प्रकाश की किरण को फैलाते हैं?",
-            "en": "Do particles of a solution scatter a beam of light?"
-          },
+          "q": { "hi": "अम्ल धातु के साथ अभिक्रिया करके कौन सी गैस उत्पन्न करते हैं?", "en": "Which gas is produced when acids react with metals?" },
           "options": [
-            {"hi": "हाँ, वे प्रकाश को फैलाते हैं", "en": "Yes, they scatter light"},
-            {"hi": "नहीं, क्योंकि वे बहुत छोटे होते हैं", "en": "No, because they are very small"},
-            {"hi": "केवल अंधेरे में", "en": "Only in the dark"},
-            {"hi": "केवल धनात्मक विलयन", "en": "Only positive solutions"}
+            { "hi": "ऑक्सीजन", "en": "Oxygen" },
+            { "hi": "नाइट्रोजन", "en": "Nitrogen" },
+            { "hi": "हाइड्रोजन", "en": "Hydrogen" },
+            { "hi": "कार्बन डाइऑक्साइड", "en": "Carbon Dioxide" }
           ],
-          "answer": {"hi": "नहीं, क्योंकि वे बहुत छोटे होते हैं", "en": "No, because they are very small"}
+          "answer": { "hi": "हाइड्रोजन", "en": "Hydrogen" }
         },
         {
-          "q": {
-            "hi": "संतृप्त विलयन (Saturated solution) किसे कहते हैं?",
-            "en": "What is a saturated solution?"
-          },
+          "q": { "hi": "धातु कार्बोनेट अम्ल के साथ अभिक्रिया करके क्या बनाते हैं?", "en": "What do metal carbonates produce when reacting with acids?" },
           "options": [
-            {"hi": "जिसमें और विलेय न घुल सके", "en": "In which no more solute can be dissolved"},
-            {"hi": "जिसमें बहुत सारा जल हो", "en": "Which has a lot of water"},
-            {"hi": "जो गर्म हो", "en": "Which is hot"},
-            {"hi": "जिसमें विलेय की मात्रा शून्य हो", "en": "Which has zero solute amount"}
+            { "hi": "लवण, जल और CO2", "en": "Salt, Water and CO2" },
+            { "hi": "केवल लवण", "en": "Only Salt" },
+            { "hi": "लवण और हाइड्रोजन", "en": "Salt and Hydrogen" },
+            { "hi": "क्षारक और जल", "en": "Base and Water" }
           ],
-          "answer": {"hi": "जिसमें और विलेय न घुल सके", "en": "In which no more solute can be dissolved"}
+          "answer": { "hi": "लवण, जल और CO2", "en": "Salt, Water and CO2" }
         },
         {
-          "q": {
-            "hi": "घुलनशीलता (Solubility) क्या है?",
-            "en": "What is solubility?"
-          },
+          "q": { "hi": "चूने के पानी का रासायनिक नाम क्या है?", "en": "What is the chemical name of lime water?" },
           "options": [
-            {"hi": "विलेय की वह मात्रा जो संतृप्त विलयन में मौजूद हो", "en": "The amount of solute present in the saturated solution"},
-            {"hi": "विलयन का कुल भार", "en": "The total weight of solution"},
-            {"hi": "विलयन का तापमान", "en": "The temperature of solution"},
-            {"hi": "पदार्थ का रंग", "en": "The color of the substance"}
+            { "hi": "NaOH", "en": "Sodium Hydroxide" },
+            { "hi": "Ca(OH)2", "en": "Calcium Hydroxide" },
+            { "hi": "CaCO3", "en": "Calcium Carbonate" },
+            { "hi": "CaO", "en": "Calcium Oxide" }
           ],
-          "answer": {"hi": "विलेय की वह मात्रा जो संतृप्त विलयन में मौजूद हो", "en": "The amount of solute present in the saturated solution"}
+          "answer": { "hi": "Ca(OH)2", "en": "Calcium Hydroxide" }
         },
         {
-          "q": {
-            "hi": "निलंबन (Suspension) कैसा मिश्रण है?",
-            "en": "What kind of mixture is a suspension?"
-          },
+          "q": { "hi": "चूने के पानी में CO2 प्रवाहित करने पर वह कैसा हो जाता है?", "en": "What happens to lime water when CO2 is passed through it?" },
           "options": [
-            {"hi": "समांगी", "en": "Homogeneous"},
-            {"hi": "विषमांगी (Heterogeneous)", "en": "Heterogeneous"},
-            {"hi": "शुद्ध पदार्थ", "en": "Pure substance"},
-            {"hi": "तत्व", "en": "Element"}
+            { "hi": "नीला", "en": "Blue" },
+            { "hi": "लाल", "en": "Red" },
+            { "hi": "दुधिया (Milky)", "en": "Milky" },
+            { "hi": "काला", "en": "Black" }
           ],
-          "answer": {"hi": "विषमांगी (Heterogeneous)", "en": "Heterogeneous"}
+          "answer": { "hi": "दुधिया (Milky)", "en": "Milky" }
         },
         {
-          "q": {
-            "hi": "निलंबन के कणों को क्या आँखों से देखा जा सकता है?",
-            "en": "Can the particles of a suspension be seen by naked eyes?"
-          },
+          "q": { "hi": "अम्ल और क्षारक की आपसी अभिक्रिया को क्या कहते हैं?", "en": "What is the reaction between an acid and a base called?" },
           "options": [
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "हाँ (Yes)", "en": "Yes"},
-            {"hi": "केवल माइक्रोस्कोप से", "en": "Only with a microscope"},
-            {"hi": "केवल टॉर्च की रोशनी में", "en": "Only in torch light"}
+            { "hi": "अपचयन", "en": "Reduction" },
+            { "hi": "उदासीनीकरण", "en": "Neutralization" },
+            { "hi": "संयोजन", "en": "Combination" },
+            { "hi": "विस्थापन", "en": "Displacement" }
           ],
-          "answer": {"hi": "हाँ (Yes)", "en": "Yes"}
+          "answer": { "hi": "उदासीनीकरण", "en": "Neutralization" }
         },
         {
-          "q": {
-            "hi": "कोलाइडल विलयन (Colloidal solution) का उदाहरण कौन सा है?",
-            "en": "Which is an example of a colloidal solution?"
-          },
+          "q": { "hi": "धात्विक ऑक्साइडों की प्रकृति कैसी होती है?", "en": "What is the nature of metallic oxides?" },
           "options": [
-            {"hi": "नमक का घोल", "en": "Salt solution"},
-            {"hi": "दूध (Milk)", "en": "Milk"},
-            {"hi": "ताँबा", "en": "Copper"},
-            {"hi": "चीनी का घोल", "en": "Sugar solution"}
+            { "hi": "अम्लीय", "en": "Acidic" },
+            { "hi": "क्षारकीय", "en": "Basic" },
+            { "hi": "उदासीन", "en": "Neutral" },
+            { "hi": "धर्मी", "en": "Amphoteric" }
           ],
-          "answer": {"hi": "दूध (Milk)", "en": "Milk"}
+          "answer": { "hi": "क्षारकीय", "en": "Basic" }
         },
         {
-          "q": {
-            "hi": "टिनडल प्रभाव (Tyndall effect) क्या है?",
-            "en": "What is the Tyndall effect?"
-          },
+          "q": { "hi": "अधात्विक ऑक्साइडों की प्रकृति कैसी होती है?", "en": "What is the nature of non-metallic oxides?" },
           "options": [
-            {"hi": "प्रकाश की किरणों का फैलना", "en": "Scattering of a beam of light"},
-            {"hi": "पदार्थ का पिघलना", "en": "Melting of substance"},
-            {"hi": "तरल का उबलना", "en": "Boiling of liquid"},
-            {"hi": "चुंबकीय खिंचाव", "en": "Magnetic pull"}
+            { "hi": "क्षारकीय", "en": "Basic" },
+            { "hi": "अम्लीय", "en": "Acidic" },
+            { "hi": "उदासीन", "en": "Neutral" },
+            { "hi": "खारी", "en": "Salty" }
           ],
-          "answer": {"hi": "प्रकाश की किरणों का फैलना", "en": "Scattering of a beam of light"}
+          "answer": { "hi": "अम्लीय", "en": "Acidic" }
         },
         {
-          "q": {
-            "hi": "कोलाइड में परीक्षित कणों को क्या कहा जाता है?",
-            "en": "What are the dispersed particles in a colloid called?"
-          },
+          "q": { "hi": "कॉपर ऑक्साइड का रंग तनु HCl के साथ कैसा हो जाता है?", "en": "What is the color of copper oxide in dilute HCl?" },
           "options": [
-            {"hi": "परिक्षेपण माध्यम", "en": "Dispersion medium"},
-            {"hi": "परीक्षित प्रावस्था (Dispersed phase)", "en": "Dispersed phase"},
-            {"hi": "विलायक", "en": "Solvent"},
-            {"hi": "विलेय", "en": "Solute"}
+            { "hi": "लाल", "en": "Red" },
+            { "hi": "नील-हरित (Blue-green)", "en": "Blue-green" },
+            { "hi": "सफेद", "en": "White" },
+            { "hi": "पीला", "en": "Yellow" }
           ],
-          "answer": {"hi": "परीक्षित प्रावस्था (Dispersed phase)", "en": "Dispersed phase"}
+          "answer": { "hi": "नील-हरित (Blue-green)", "en": "Blue-green" }
         },
         {
-          "q": {
-            "hi": "कोहरा (Fog) किस प्रकार का कोलाइड है?",
-            "en": "What type of colloid is fog?"
-          },
+          "q": { "hi": "संगमरमर का रासायनिक सूत्र क्या है?", "en": "What is the chemical formula of marble?" },
           "options": [
-            {"hi": "जेल", "en": "Gel"},
-            {"hi": "एरोसोल (Aerosol)", "en": "Aerosol"},
-            {"hi": "फोम", "en": "Foam"},
-            {"hi": "इमल्शन", "en": "Emulsion"}
+            { "hi": "CaO", "en": "Calcium Oxide" },
+            { "hi": "Ca(OH)2", "en": "Calcium Hydroxide" },
+            { "hi": "CaCO3", "en": "Calcium Carbonate" },
+            { "hi": "CaCl2", "en": "Calcium Chloride" }
           ],
-          "answer": {"hi": "एरोसोल (Aerosol)", "en": "Aerosol"}
+          "answer": { "hi": "CaCO3", "en": "Calcium Carbonate" }
         },
         {
-          "q": {
-            "hi": "शेविंग क्रीम किस प्रकार का कोलाइड है?",
-            "en": "What type of colloid is shaving cream?"
-          },
+          "q": { "hi": "अम्ल + क्षारक → ?", "en": "Acid + Base → ?" },
           "options": [
-            {"hi": "फोम (Foam)", "en": "Foam"},
-            {"hi": "सॉल", "en": "Sol"},
-            {"hi": "जेल", "en": "Gel"},
-            {"hi": "एरोसोल", "en": "Aerosol"}
+            { "hi": "धातु + हाइड्रोजन", "en": "Metal + Hydrogen" },
+            { "hi": "लवण + जल", "en": "Salt + Water" },
+            { "hi": "ऑक्सीजन + जल", "en": "Oxygen + Water" },
+            { "hi": "कार्बोनेट + जल", "en": "Carbonate + Water" }
           ],
-          "answer": {"hi": "फोम (Foam)", "en": "Foam"}
+          "answer": { "hi": "लवण + जल", "en": "Salt + Water" }
         }
       ],
       "section3": [
         {
-          "q": {
-            "hi": "दूध से क्रीम को पृथक् करने के लिए किस विधि का उपयोग किया जाता है?",
-            "en": "Which method is used to separate cream from milk?"
-          },
+          "q": { "hi": "सभी अम्लों में कौन सा तत्व समान रूप से पाया जाता है?", "en": "Which element is commonly found in all acids?" },
           "options": [
-            {"hi": "वाष्पीकरण", "en": "Evaporation"},
-            {"hi": "अपकेंद्रीकरण (Centrifugation)", "en": "Centrifugation"},
-            {"hi": "छानन", "en": "Filtration"},
-            {"hi": "आसवन", "en": "Distillation"}
+            { "hi": "सल्फर", "en": "Sulphur" },
+            { "hi": "हाइड्रोजन", "en": "Hydrogen" },
+            { "hi": "कार्बन", "en": "Carbon" },
+            { "hi": "मैग्नीशियम", "en": "Magnesium" }
           ],
-          "answer": {"hi": "अपकेंद्रीकरण (Centrifugation)", "en": "Centrifugation"}
+          "answer": { "hi": "हाइड्रोजन", "en": "Hydrogen" }
         },
         {
-          "q": {
-            "hi": "दो अघुलनशील द्रवों के मिश्रण को कैसे अलग किया जा सकता है?",
-            "en": "How can a mixture of two immiscible liquids be separated?"
-          },
+          "q": { "hi": "ग्लूकोज का जलीय विलयन विद्युत का चालन क्यों नहीं करता?", "en": "Why does glucose solution not conduct electricity?" },
           "options": [
-            {"hi": "पृथक्कारी कीप द्वारा (Using a separating funnel)", "en": "Using a separating funnel"},
-            {"hi": "वाष्पीकरण द्वारा", "en": "By evaporation"},
-            {"hi": "चुंबक द्वारा", "en": "By magnet"},
-            {"hi": "छानकर", "en": "By filtering"}
+            { "hi": "इसमें आयन नहीं होते", "en": "It does not have ions" },
+            { "hi": "यह बहुत गाढ़ा है", "en": "It is very thick" },
+            { "hi": "इसमें हाइड्रोजन नहीं है", "en": "It has no hydrogen" },
+            { "hi": "यह जल में नहीं घुलता", "en": "It doesn't dissolve in water" }
           ],
-          "answer": {"hi": "पृथक्कारी कीप द्वारा (Using a separating funnel)", "en": "Using a separating funnel"}
+          "answer": { "hi": "इसमें आयन नहीं होते", "en": "It does not have ions" }
         },
         {
-          "q": {
-            "hi": "नमक और अमोनियम क्लोराइड के मिश्रण को कैसे अलग करते हैं?",
-            "en": "How is a mixture of salt and ammonium chloride separated?"
-          },
+          "q": { "hi": "अम्ल जल में कौन सा आयन उत्पन्न करते हैं?", "en": "Which ion do acids produce in water?" },
           "options": [
-            {"hi": "आसवन", "en": "Distillation"},
-            {"hi": "ऊर्ध्वपातन (Sublimation)", "en": "Sublimation"},
-            {"hi": "अपकेंद्रीकरण", "en": "Centrifugation"},
-            {"hi": "क्रोमैटोग्राफी", "en": "Chromatography"}
+            { "hi": "OH-", "en": "OH-" },
+            { "hi": "H+", "en": "H+" },
+            { "hi": "Cl-", "en": "Cl-" },
+            { "hi": "Na+", "en": "Na+" }
           ],
-          "answer": {"hi": "ऊर्ध्वपातन (Sublimation)", "en": "Sublimation"}
+          "answer": { "hi": "H+", "en": "H+" }
         },
         {
-          "q": {
-            "hi": "क्रोमैटोग्राफी विधि का उपयोग कहाँ किया जाता है?",
-            "en": "Where is the chromatography method used?"
-          },
+          "q": { "hi": "हाइड्रोनियम आयन का सूत्र क्या है?", "en": "What is the formula for Hydronium ion?" },
           "options": [
-            {"hi": "रंगों को पृथक् करने में", "en": "In separating colors"},
-            {"hi": "दूध से क्रीम निकालने में", "en": "In taking out cream from milk"},
-            {"hi": "नमक बनाने में", "en": "In making salt"},
-            {"hi": "हवा को साफ करने में", "en": "In cleaning air"}
+            { "hi": "H2O", "en": "H2O" },
+            { "hi": "H3O+", "en": "H3O+" },
+            { "hi": "OH-", "en": "OH-" },
+            { "hi": "H2O2", "en": "H2O2" }
           ],
-          "answer": {"hi": "रंगों को पृथक् करने में", "en": "In separating colors"}
+          "answer": { "hi": "H3O+", "en": "H3O+" }
         },
         {
-          "q": {
-            "hi": "दो घुलनशील द्रवों (जिनके क्वथनांकों में अंतर 25K से अधिक हो) को अलग करने की विधि है:",
-            "en": "The method to separate two miscible liquids (boiling point difference > 25K) is:"
-          },
+          "q": { "hi": "जल में घुलनशील क्षारकों को क्या कहते हैं?", "en": "What are water-soluble bases called?" },
           "options": [
-            {"hi": "सरल आसवन (Distillation)", "en": "Simple Distillation"},
-            {"hi": "प्रभाजी आसवन", "en": "Fractional Distillation"},
-            {"hi": "क्रिस्टलीकरण", "en": "Crystallisation"},
-            {"hi": "अपकेंद्रीकरण", "en": "Centrifugation"}
+            { "hi": "अम्ल", "en": "Acid" },
+            { "hi": "क्षार (Alkali)", "en": "Alkali" },
+            { "hi": "लवण", "en": "Salt" },
+            { "hi": "मिश्रण", "en": "Mixture" }
           ],
-          "answer": {"hi": "सरल आसवन (Distillation)", "en": "Simple Distillation"}
+          "answer": { "hi": "क्षार (Alkali)", "en": "Alkali" }
         },
         {
-          "q": {
-            "hi": "वायु से विभिन्न गैसों को पृथक् करने के लिए कौन सी विधि अपनाई जाती है?",
-            "en": "Which method is adopted to separate different gases from air?"
-          },
+          "q": { "hi": "जल में अम्ल मिलाते समय क्या सावधानी रखनी चाहिए?", "en": "What precaution should be taken while mixing acid in water?" },
           "options": [
-            {"hi": "सरल आसवन", "en": "Simple distillation"},
-            {"hi": "प्रभाजी आसवन (Fractional distillation)", "en": "Fractional distillation"},
-            {"hi": "ऊर्ध्वपातन", "en": "Sublimation"},
-            {"hi": "वाष्पीकरण", "en": "Evaporation"}
+            { "hi": "जल को अम्ल में मिलाना", "en": "Add water to acid" },
+            { "hi": "अम्ल को जल में धीरे-धीरे मिलाना", "en": "Add acid to water slowly" },
+            { "hi": "दोनों को एक साथ मिलाना", "en": "Mix both at once" },
+            { "hi": "गर्म जल का उपयोग करना", "en": "Use hot water" }
           ],
-          "answer": {"hi": "प्रभाजी आसवन (Fractional distillation)", "en": "Fractional distillation"}
+          "answer": { "hi": "अम्ल को जल में धीरे-धीरे मिलाना", "en": "Add acid to water slowly" }
         },
         {
-          "q": {
-            "hi": "क्रिस्टलीकरण विधि का उपयोग किसके लिए किया जाता है?",
-            "en": "For what is the crystallisation method used?"
-          },
+          "q": { "hi": "तनुकरण की प्रक्रिया में आयनों की सांद्रता पर क्या प्रभाव पड़ता है?", "en": "What is the effect on ion concentration during dilution?" },
           "options": [
-            {"hi": "ठोस पदार्थों को शुद्ध करने में", "en": "In purifying solid substances"},
-            {"hi": "गैसों को मिलाने में", "en": "In mixing gases"},
-            {"hi": "रक्त की जाँच में", "en": "In blood testing"},
-            {"hi": "दूध को उबालने में", "en": "In boiling milk"}
+            { "hi": "बढ़ती है", "en": "Increases" },
+            { "hi": "कम होती है", "en": "Decreases" },
+            { "hi": "समान रहती है", "en": "Remains same" },
+            { "hi": "शून्य हो जाती है", "en": "Becomes zero" }
           ],
-          "answer": {"hi": "ठोस पदार्थों को शुद्ध करने में", "en": "In purifying solid substances"}
+          "answer": { "hi": "कम होती है", "en": "Decreases" }
         },
         {
-          "q": {
-            "hi": "जल शोधन संयंत्र (Water works) में जल को शुद्ध करने के लिए क्या किया जाता है?",
-            "en": "What is done to purify water in water works?"
-          },
+          "q": { "hi": "शुष्क HCl गैस शुष्क लिटमस का रंग क्यों नहीं बदलती?", "en": "Why dry HCl gas does not change color of dry litmus?" },
           "options": [
-            {"hi": "तलछटीकरण और क्लोनीकरण", "en": "Sedimentation and Chlorination"},
-            {"hi": "केवल वाष्पीकरण", "en": "Only evaporation"},
-            {"hi": "केवल छानना", "en": "Only filtration"},
-            {"hi": "केवल उबालना", "en": "Only boiling"}
+            { "hi": "H+ आयन की अनुपस्थिति के कारण", "en": "Due to absence of H+ ions" },
+            { "hi": "यह अम्लीय नहीं है", "en": "It is not acidic" },
+            { "hi": "लिटमस खराब है", "en": "Litmus is faulty" },
+            { "hi": "गैस बहुत ठंडी है", "en": "Gas is very cold" }
           ],
-          "answer": {"hi": "तलछटीकरण और क्लोनीकरण", "en": "Sedimentation and Chlorination"}
+          "answer": { "hi": "H+ आयन की अनुपस्थिति के कारण", "en": "Due to absence of H+ ions" }
         },
         {
-          "q": {
-            "hi": "लोहे को जंग लगना कैसा परिवर्तन है?",
-            "en": "Rusting of iron is which type of change?"
-          },
+          "q": { "hi": "उदासीन विलयन का pH मान कितना होता है?", "en": "What is the pH value of a neutral solution?" },
           "options": [
-            {"hi": "भौतिक परिवर्तन", "en": "Physical change"},
-            {"hi": "रासायनिक परिवर्तन (Chemical change)", "en": "Chemical change"},
-            {"hi": "कोई परिवर्तन नहीं", "en": "No change"},
-            {"hi": "अस्थायी परिवर्तन", "en": "Temporary change"}
+            { "hi": "0", "en": "0" },
+            { "hi": "7", "en": "7" },
+            { "hi": "14", "en": "14" },
+            { "hi": "1", "en": "1" }
           ],
-          "answer": {"hi": "रासायनिक परिवर्तन (Chemical change)", "en": "Chemical change"}
+          "answer": { "hi": "7", "en": "7" }
         },
         {
-          "q": {
-            "hi": "जल का बर्फ में बदलना कैसा परिवर्तन है?",
-            "en": "Changing of water into ice is what type of change?"
-          },
+          "q": { "hi": "pH स्केल पर 7 से कम मान क्या दर्शाता है?", "en": "What does a value less than 7 on pH scale represent?" },
           "options": [
-            {"hi": "रासायनिक", "en": "Chemical"},
-            {"hi": "भौतिक (Physical)", "en": "Physical"},
-            {"hi": "जैविक", "en": "Biological"},
-            {"hi": "स्थायी", "en": "Permanent"}
+            { "hi": "क्षारकीयता", "en": "Basicity" },
+            { "hi": "अम्लीयता", "en": "Acidity" },
+            { "hi": "उदासीनता", "en": "Neutrality" },
+            { "hi": "लवणता", "en": "Salinity" }
           ],
-          "answer": {"hi": "भौतिक (Physical)", "en": "Physical"}
+          "answer": { "hi": "अम्लीयता", "en": "Acidity" }
         }
       ],
       "section4": [
         {
-          "q": {
-            "hi": "तत्व (Element) शब्द का सर्वप्रथम प्रयोग किसने किया?",
-            "en": "Who first used the term 'Element'?"
-          },
+          "q": { "hi": "मानव शरीर किस pH परास के बीच कार्य करता है?", "en": "At what pH range does the human body work?" },
           "options": [
-            {"hi": "रॉबर्ट बॉयल (Robert Boyle)", "en": "Robert Boyle"},
-            {"hi": "एंटोनी लॉरेंट लवाइज़िए", "en": "Antoine Laurent Lavoisier"},
-            {"hi": "डाल्टन", "en": "Dalton"},
-            {"hi": "न्यूटन", "en": "Newton"}
+            { "hi": "6.0 - 7.0", "en": "6.0 - 7.0" },
+            { "hi": "7.0 - 7.8", "en": "7.0 - 7.8" },
+            { "hi": "2.1 - 3.0", "en": "2.1 - 3.0" },
+            { "hi": "8.5 - 9.5", "en": "8.5 - 9.5" }
           ],
-          "answer": {"hi": "रॉबर्ट बॉयल (Robert Boyle)", "en": "Robert Boyle"}
+          "answer": { "hi": "7.0 - 7.8", "en": "7.0 - 7.8" }
         },
         {
-          "q": {
-            "hi": "तत्व की परिभाषा 'पदार्थ का वह मूल रूप जिसे सरल पदार्थों में विभक्त नहीं किया जा सकता' किसने दी?",
-            "en": "Who gave the definition of element as 'a basic form of matter that cannot be broken down into simpler substances'?"
-          },
+          "q": { "hi": "अम्लीय वर्षा का pH मान कितना होता है?", "en": "What is the pH value of acid rain?" },
           "options": [
-            {"hi": "रॉबर्ट बॉयल", "en": "Robert Boyle"},
-            {"hi": "एंटोनी लॉरेंट लवाइज़िए (Lavoisier)", "en": "Antoine Laurent Lavoisier"},
-            {"hi": "आइंस्टीन", "en": "Einstein"},
-            {"hi": "मेन्डेलीव", "en": "Mendeleev"}
+            { "hi": "7 से अधिक", "en": "Above 7" },
+            { "hi": "5.6 से कम", "en": "Less than 5.6" },
+            { "hi": "8.2", "en": "8.2" },
+            { "hi": "6.5", "en": "6.5" }
           ],
-          "answer": {"hi": "एंटोनी लॉरेंट लवाइज़िए (Lavoisier)", "en": "Antoine Laurent Lavoisier"}
+          "answer": { "hi": "5.6 से कम", "en": "Less than 5.6" }
         },
         {
-          "q": {
-            "hi": "पारा (Mercury) कमरे के तापमान पर किस अवस्था में रहता है?",
-            "en": "In what state is mercury at room temperature?"
-          },
+          "q": { "hi": "दाँतों का क्षय (Cavity) कब शुरू होता है?", "en": "When does tooth decay start?" },
           "options": [
-            {"hi": "ठोस", "en": "Solid"},
-            {"hi": "गैस", "en": "Gas"},
-            {"hi": "द्रव (Liquid)", "en": "Liquid"},
-            {"hi": "प्लाज्मा", "en": "Plasma"}
+            { "hi": "pH 7 होने पर", "en": "At pH 7" },
+            { "hi": "pH 5.5 से कम होने पर", "en": "When pH is less than 5.5" },
+            { "hi": "pH 8 होने पर", "en": "At pH 8" },
+            { "hi": "pH 10 होने पर", "en": "At pH 10" }
           ],
-          "answer": {"hi": "द्रव (Liquid)", "en": "Liquid"}
+          "answer": { "hi": "pH 5.5 से कम होने पर", "en": "When pH is less than 5.5" }
         },
         {
-          "q": {
-            "hi": "उपधातु (Metalloids) के उदाहरण कौन से हैं?",
-            "en": "What are examples of metalloids?"
-          },
+          "q": { "hi": "मधुमक्खी के डंक में कौन सा अम्ल होता है?", "en": "Which acid is present in bee sting?" },
           "options": [
-            {"hi": "बोरॉन, सिलिकन, जर्मेनियम", "en": "Boron, Silicon, Germanium"},
-            {"hi": "सोना, चाँदी, ताँबा", "en": "Gold, Silver, Copper"},
-            {"hi": "ऑक्सीजन, नाइट्रोजन", "en": "Oxygen, Nitrogen"},
-            {"hi": "लोहा, सोडियम", "en": "Iron, Sodium"}
+            { "hi": "ऐसीटिक अम्ल", "en": "Acetic Acid" },
+            { "hi": "मेथैनॉइक अम्ल", "en": "Methanoic Acid" },
+            { "hi": "सिट्रिक अम्ल", "en": "Citric Acid" },
+            { "hi": "टार्टरिक अम्ल", "en": "Tartaric Acid" }
           ],
-          "answer": {"hi": "बोरॉन, सिलिकन, जर्मेनियम", "en": "Boron, Silicon, Germanium"}
+          "answer": { "hi": "मेथैनॉइक अम्ल", "en": "Methanoic Acid" }
         },
         {
-          "q": {
-            "hi": "यौगिक (Compound) क्या है?",
-            "en": "What is a compound?"
-          },
+          "q": { "hi": "पेट की अम्लता को दूर करने के लिए किसका उपयोग किया जाता है?", "en": "What is used to cure stomach acidity?" },
           "options": [
-            {"hi": "दो या दो से अधिक तत्वों का निश्चित अनुपात में मेल", "en": "Combination of two or more elements in a fixed proportion"},
-            {"hi": "पदार्थों का विषमांगी मिश्रण", "en": "A heterogeneous mixture of substances"},
-            {"hi": "एक ही प्रकार के परमाणुओं का समूह", "en": "Collection of same type of atoms"},
-            {"hi": "केवल गैसों का मिश्रण", "en": "Only a mixture of gases"}
+            { "hi": "सिरका", "en": "Vinegar" },
+            { "hi": "ऐन्टैसिड (Antacid)", "en": "Antacid" },
+            { "hi": "नींबू पानी", "en": "Lemon water" },
+            { "hi": "HCl", "en": "HCl" }
           ],
-          "answer": {"hi": "दो या दो से अधिक तत्वों का निश्चित अनुपात में मेल", "en": "Combination of two or more elements in a fixed proportion"}
+          "answer": { "hi": "ऐन्टैसिड (Antacid)", "en": "Antacid" }
         },
         {
-          "q": {
-            "hi": "मिश्रण और यौगिक में मुख्य अंतर क्या है?",
-            "en": "What is the main difference between a mixture and a compound?"
-          },
+          "q": { "hi": "शुक्र ग्रह का वायुमंडल किन बादलों से बना है?", "en": "The atmosphere of Venus is made of which clouds?" },
           "options": [
-            {"hi": "यौगिक के घटकों को भौतिक विधि से अलग नहीं किया जा सकता", "en": "The constituents of a compound cannot be separated by physical methods"},
-            {"hi": "मिश्रण का संगठन स्थिर होता है", "en": "The composition of a mixture is fixed"},
-            {"hi": "यौगिक नया पदार्थ नहीं बनाता", "en": "A compound does not form a new substance"},
-            {"hi": "कोई अंतर नहीं है", "en": "There is no difference"}
+            { "hi": "जलवाष्प", "en": "Water vapor" },
+            { "hi": "सल्फ्यूरिक अम्ल", "en": "Sulphuric acid" },
+            { "hi": "नाइट्रिक अम्ल", "en": "Nitric acid" },
+            { "hi": "हाइड्रोजन", "en": "Hydrogen" }
           ],
-          "answer": {"hi": "यौगिक के घटकों को भौतिक विधि से अलग नहीं किया जा सकता", "en": "The constituents of a compound cannot be separated by physical methods"}
+          "answer": { "hi": "सल्फ्यूरिक अम्ल", "en": "Sulphuric acid" }
         },
         {
-          "q": {
-            "hi": "एक समांगी मिश्रण का दूसरा नाम क्या है?",
-            "en": "What is another name for a homogeneous mixture?"
-          },
+          "q": { "hi": "सिरका में कौन सा अम्ल पाया जाता है?", "en": "Which acid is found in vinegar?" },
           "options": [
-            {"hi": "निलंबन", "en": "Suspension"},
-            {"hi": "विलयन (Solution)", "en": "Solution"},
-            {"hi": "कोलाइड", "en": "Colloid"},
-            {"hi": "तत्व", "en": "Element"}
+            { "hi": "सिट्रिक अम्ल", "en": "Citric acid" },
+            { "hi": "लैक्टिक अम्ल", "en": "Lactic acid" },
+            { "hi": "ऐसीटिक अम्ल", "en": "Acetic acid" },
+            { "hi": "टार्टरिक अम्ल", "en": "Tartaric acid" }
           ],
-          "answer": {"hi": "विलयन (Solution)", "en": "Solution"}
+          "answer": { "hi": "ऐसीटिक अम्ल", "en": "Acetic acid" }
         },
         {
-          "q": {
-            "hi": "क्या विलयन स्थिर (Stable) होता है?",
-            "en": "Is a solution stable?"
-          },
+          "q": { "hi": "इमली में कौन सा अम्ल होता है?", "en": "Which acid is in tamarind?" },
           "options": [
-            {"hi": "हाँ, रखने पर विलेय के कण नीचे नहीं बैठते", "en": "Yes, solute particles do not settle down when left undisturbed"},
-            {"hi": "नहीं, कण नीचे बैठ जाते हैं", "en": "No, particles settle down"},
-            {"hi": "केवल ठंडा करने पर", "en": "Only on cooling"},
-            {"hi": "अनिश्चित", "en": "Uncertain"}
+            { "hi": "टार्टरिक अम्ल", "en": "Tartaric acid" },
+            { "hi": "ऑक्सैलिक अम्ल", "en": "Oxalic acid" },
+            { "hi": "मेथैनॉइक अम्ल", "en": "Methanoic acid" },
+            { "hi": "सिट्रिक अम्ल", "en": "Citric acid" }
           ],
-          "answer": {"hi": "हाँ, रखने पर विलेय के कण नीचे नहीं बैठते", "en": "Yes, solute particles do not settle down when left undisturbed"}
+          "answer": { "hi": "टार्टरिक अम्ल", "en": "Tartaric acid" }
         },
         {
-          "q": {
-            "hi": "लोहे के बुरादे और सल्फर को गर्म करने पर क्या बनता है?",
-            "en": "What is formed on heating iron filings and sulphur?"
-          },
+          "q": { "hi": "नेटल (Nettle) के डंक का इलाज किस पौधे से किया जाता है?", "en": "Which plant is used to treat Nettle sting?" },
           "options": [
-            {"hi": "मिश्रण", "en": "Mixture"},
-            {"hi": "आयरन सल्फाइड (यौगिक)", "en": "Iron sulphide (Compound)"},
-            {"hi": "गैस", "en": "Gas"},
-            {"hi": "कोई नया पदार्थ नहीं", "en": "No new substance"}
+            { "hi": "गुलाब", "en": "Rose" },
+            { "hi": "डॉक (Dock) पौधा", "en": "Dock plant" },
+            { "hi": "नीम", "en": "Neem" },
+            { "hi": "तुलसी", "en": "Tulsi" }
           ],
-          "answer": {"hi": "आयरन सल्फाइड (यौगिक)", "en": "Iron sulphide (Compound)"}
+          "answer": { "hi": "डॉक (Dock) पौधा", "en": "Dock plant" }
         },
         {
-          "q": {
-            "hi": "तत्वों को किन श्रेणियों में बाँटा जा सकता है?",
-            "en": "Into which categories can elements be divided?"
-          },
+          "q": { "hi": "दूध से दही बनने पर pH मान पर क्या प्रभाव पड़ता है?", "en": "How does pH change when milk turns into curd?" },
           "options": [
-            {"hi": "धातु, अधातु और उपधातु", "en": "Metals, non-metals and metalloids"},
-            {"hi": "ठोस और द्रव", "en": "Solids and liquids"},
-            {"hi": "अम्ल और क्षार", "en": "Acids and bases"},
-            {"hi": "समांगी और विषमांगी", "en": "Homogeneous and heterogeneous"}
+            { "hi": "बढ़ जाता है", "en": "Increases" },
+            { "hi": "कम हो जाता है", "en": "Decreases" },
+            { "hi": "7 हो जाता है", "en": "Becomes 7" },
+            { "hi": "कोई परिवर्तन नहीं", "en": "No change" }
           ],
-          "answer": {"hi": "धातु, अधातु और उपधातु", "en": "Metals, non-metals and metalloids"}
+          "answer": { "hi": "कम हो जाता है", "en": "Decreases" }
         }
       ],
       "section5": [
         {
-          "q": {
-            "hi": "निम्नलिखित में से कौन सा कोलाइड का गुण है?",
-            "en": "Which of the following is a property of a colloid?"
-          },
+          "q": { "hi": "साधारण नमक का रासायनिक सूत्र क्या है?", "en": "What is the chemical formula of common salt?" },
           "options": [
-            {"hi": "यह एक विषमांगी मिश्रण है", "en": "It is a heterogeneous mixture"},
-            {"hi": "यह पारदर्शी होता है", "en": "It is transparent"},
-            {"hi": "इसके कणों को छानकर अलग किया जा सकता है", "en": "Its particles can be separated by filtration"},
-            {"hi": "यह अस्थिर होता है", "en": "It is unstable"}
+            { "hi": "Na2CO3", "en": "Na2CO3" },
+            { "hi": "NaCl", "en": "NaCl" },
+            { "hi": "NaHCO3", "en": "NaHCO3" },
+            { "hi": "NaOH", "en": "NaOH" }
           ],
-          "answer": {"hi": "यह एक विषमांगी मिश्रण है", "en": "It is a heterogeneous mixture"}
+          "answer": { "hi": "NaCl", "en": "NaCl" }
         },
         {
-          "q": {
-            "hi": "समुद्री जल क्या है?",
-            "en": "What is sea water?"
-          },
+          "q": { "hi": "क्लोर-क्षार प्रक्रिया में कैथोड पर कौन सी गैस बनती है?", "en": "Which gas is formed at cathode in Chlor-alkali process?" },
           "options": [
-            {"hi": "एक शुद्ध पदार्थ", "en": "A pure substance"},
-            {"hi": "एक मिश्रण (Mixture)", "en": "A mixture"},
-            {"hi": "एक तत्व", "en": "An element"},
-            {"hi": "गैस", "en": "A gas"}
+            { "hi": "क्लोरीन", "en": "Chlorine" },
+            { "hi": "हाइड्रोजन", "en": "Hydrogen" },
+            { "hi": "ऑक्सीजन", "en": "Oxygen" },
+            { "hi": "CO2", "en": "CO2" }
           ],
-          "answer": {"hi": "एक मिश्रण (Mixture)", "en": "A mixture"}
+          "answer": { "hi": "हाइड्रोजन", "en": "Hydrogen" }
         },
         {
-          "q": {
-            "hi": "सोडियम क्या है?",
-            "en": "What is Sodium?"
-          },
+          "q": { "hi": "विरंजक चूर्ण का रासायनिक सूत्र क्या है?", "en": "What is the chemical formula of bleaching powder?" },
           "options": [
-            {"hi": "यौगिक", "en": "Compound"},
-            {"hi": "तत्व (Element)", "en": "Element"},
-            {"hi": "मिश्रण", "en": "Mixture"},
-            {"hi": "अधातु", "en": "Non-metal"}
+            { "hi": "CaCO3", "en": "CaCO3" },
+            { "hi": "CaOCl2", "en": "CaOCl2" },
+            { "hi": "Ca(OH)2", "en": "Ca(OH)2" },
+            { "hi": "CaSO4", "en": "CaSO4" }
           ],
-          "answer": {"hi": "तत्व (Element)", "en": "Element"}
+          "answer": { "hi": "CaOCl2", "en": "CaOCl2" }
         },
         {
-          "q": {
-            "hi": "कैल्सियम कार्बोनेट क्या है?",
-            "en": "What is Calcium Carbonate?"
-          },
+          "q": { "hi": "बेकिंग सोडा का रासायनिक नाम क्या है?", "en": "What is the chemical name of baking soda?" },
           "options": [
-            {"hi": "तत्व", "en": "Element"},
-            {"hi": "यौगिक (Compound)", "en": "Compound"},
-            {"hi": "मिश्रण", "en": "Mixture"},
-            {"hi": "उपधातु", "en": "Metalloid"}
+            { "hi": "सोडियम कार्बोनेट", "en": "Sodium Carbonate" },
+            { "hi": "सोडियम हाइड्रोजनकार्बोनेट", "en": "Sodium Hydrogen Carbonate" },
+            { "hi": "सोडियम क्लोराइड", "en": "Sodium Chloride" },
+            { "hi": "सोडियम हाइड्रॉक्साइड", "en": "Sodium Hydroxide" }
           ],
-          "answer": {"hi": "यौगिक (Compound)", "en": "Compound"}
+          "answer": { "hi": "सोडियम हाइड्रोजनकार्बोनेट", "en": "Sodium Hydrogen Carbonate" }
         },
         {
-          "q": {
-            "hi": "स्याही (Ink) के घटकों को किस विधि से अलग किया जाता है?",
-            "en": "By which method are the components of ink separated?"
-          },
+          "q": { "hi": "धोने का सोडा का सूत्र क्या है?", "en": "What is the formula of washing soda?" },
           "options": [
-            {"hi": "वाष्पीकरण", "en": "Evaporation"},
-            {"hi": "क्रोमैटोग्राफी (Chromatography)", "en": "Chromatography"},
-            {"hi": "आसवन", "en": "Distillation"},
-            {"hi": "अपकेंद्रीकरण", "en": "Centrifugation"}
+            { "hi": "NaHCO3", "en": "NaHCO3" },
+            { "hi": "Na2CO3 . 10H2O", "en": "Na2CO3 . 10H2O" },
+            { "hi": "NaOH", "en": "NaOH" },
+            { "hi": "CaOCl2", "en": "CaOCl2" }
           ],
-          "answer": {"hi": "क्रोमैटोग्राफी (Chromatography)", "en": "Chromatography"}
+          "answer": { "hi": "Na2CO3 . 10H2O", "en": "Na2CO3 . 10H2O" }
         },
         {
-          "q": {
-            "hi": "रक्त से नशीले पदार्थ (Drugs) अलग करने में कौन सी विधि उपयोगी है?",
-            "en": "Which method is useful in separating drugs from blood?"
-          },
+          "q": { "hi": "प्लास्टर ऑफ पेरिस का रासायनिक सूत्र क्या है?", "en": "What is the chemical formula of Plaster of Paris?" },
           "options": [
-            {"hi": "छानना", "en": "Filtration"},
-            {"hi": "क्रोमैटोग्राफी (Chromatography)", "en": "Chromatography"},
-            {"hi": "क्रिस्टलीकरण", "en": "Crystallisation"},
-            {"hi": "ऊर्ध्वपातन", "en": "Sublimation"}
+            { "hi": "CaSO4 . 2H2O", "en": "CaSO4 . 2H2O" },
+            { "hi": "CaSO4 . 1/2 H2O", "en": "CaSO4 . 1/2 H2O" },
+            { "hi": "CuSO4 . 5H2O", "en": "CuSO4 . 5H2O" },
+            { "hi": "MgSO4 . 7H2O", "en": "MgSO4 . 7H2O" }
           ],
-          "answer": {"hi": "क्रोमैटोग्राफी (Chromatography)", "en": "Chromatography"}
+          "answer": { "hi": "CaSO4 . 1/2 H2O", "en": "CaSO4 . 1/2 H2O" }
         },
         {
-          "q": {
-            "hi": "दूध से क्रीम निकालने वाली मशीन किस सिद्धांत पर कार्य करती है?",
-            "en": "On what principle does the cream separator machine work?"
-          },
+          "q": { "hi": "जिप्सम को किस तापमान पर गर्म करने पर प्लास्टर ऑफ पेरिस बनता है?", "en": "At what temperature heating gypsum forms POP?" },
           "options": [
-            {"hi": "गुरुत्वाकर्षण", "en": "Gravity"},
-            {"hi": "अपकेंद्रीकरण (Centrifugation)", "en": "Centrifugation"},
-            {"hi": "चुंबकत्व", "en": "Magnetism"},
-            {"hi": "विद्युत अपघटन", "en": "Electrolysis"}
+            { "hi": "100 K", "en": "100 K" },
+            { "hi": "273 K", "en": "273 K" },
+            { "hi": "373 K", "en": "373 K" },
+            { "hi": "500 K", "en": "500 K" }
           ],
-          "answer": {"hi": "अपकेंद्रीकरण (Centrifugation)", "en": "Centrifugation"}
+          "answer": { "hi": "373 K", "en": "373 K" }
         },
         {
-          "q": {
-            "hi": "निम्नलिखित में से कौन सा भौतिक परिवर्तन है?",
-            "en": "Which of the following is a physical change?"
-          },
+          "q": { "hi": "जल की स्थायी कठोरता हटाने के लिए किसका उपयोग होता है?", "en": "What is used to remove permanent hardness of water?" },
           "options": [
-            {"hi": "खाना पकना", "en": "Cooking of food"},
-            {"hi": "पेड़ का कटना (Cutting of tree)", "en": "Cutting of tree"},
-            {"hi": "लकड़ी जलना", "en": "Burning of wood"},
-            {"hi": "भोजन का पचना", "en": "Digestion of food"}
+            { "hi": "बेकिंग सोडा", "en": "Baking Soda" },
+            { "hi": "धोने का सोडा", "en": "Washing Soda" },
+            { "hi": "विरंजक चूर्ण", "en": "Bleaching powder" },
+            { "hi": "नमक", "en": "Salt" }
           ],
-          "answer": {"hi": "पेड़ का कटना (Cutting of tree)", "en": "Cutting of tree"}
+          "answer": { "hi": "धोने का सोडा", "en": "Washing Soda" }
         },
         {
-          "q": {
-            "hi": "विलयन की सांद्रता (Concentration) क्या दर्शाती है?",
-            "en": "What does the concentration of a solution indicate?"
-          },
+          "q": { "hi": "नीला थोथा (Blue Vitriol) में क्रिस्टलन के जल के कितने अणु होते हैं?", "en": "How many water molecules are in Blue Vitriol?" },
           "options": [
-            {"hi": "विलयन का तापमान", "en": "Temperature of solution"},
-            {"hi": "विलेय की मात्रा (Amount of solute)", "en": "Amount of solute"},
-            {"hi": "विलायक का रंग", "en": "Color of solvent"},
-            {"hi": "विलयन का आयतन", "en": "Volume of solution"}
+            { "hi": "2", "en": "2" },
+            { "hi": "5", "en": "5" },
+            { "hi": "10", "en": "10" },
+            { "hi": "7", "en": "7" }
           ],
-          "answer": {"hi": "विलेय की मात्रा (Amount of solute)", "en": "Amount of solute"}
+          "answer": { "hi": "5", "en": "5" }
         },
         {
-          "q": {
-            "hi": "पदार्थ को रासायनिक संगठन के आधार पर किन भागों में वर्गीकृत किया जा सकता है?",
-            "en": "Into which parts can matter be classified on the basis of chemical composition?"
-          },
+          "q": { "hi": "अग्निशामक यंत्रों में किसका उपयोग किया जाता है?", "en": "What is used in fire extinguishers?" },
           "options": [
-            {"hi": "तत्व और यौगिक", "en": "Elements and Compounds"},
-            {"hi": "ठोस, द्रव और गैस", "en": "Solids, liquids and gases"},
-            {"hi": "धातु और अधातु", "en": "Metals and non-metals"},
-            {"hi": "शुद्ध और अशुद्ध", "en": "Pure and impure"}
+            { "hi": "सोडियम क्लोराइड", "en": "Sodium Chloride" },
+            { "hi": "सोडियम हाइड्रोजनकार्बोनेट", "en": "Sodium Hydrogen Carbonate" },
+            { "hi": "कैल्सियम कार्बोनेट", "en": "Calcium Carbonate" },
+            { "hi": "सोडियम हाइड्रॉक्साइड", "en": "Sodium Hydroxide" }
           ],
-          "answer": {"hi": "तत्व और यौगिक", "en": "Elements and Compounds"}
+          "answer": { "hi": "सोडियम हाइड्रोजनकार्बोनेट", "en": "Sodium Hydrogen Carbonate" }
         }
       ]
-    }
-  ,
+    },
     "chapter03": {
       "section1": [
         {
