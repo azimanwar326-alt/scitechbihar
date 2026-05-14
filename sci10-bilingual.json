@@ -2501,1324 +2501,1023 @@
     "chapter05":{
       "section1": [
         {
-          "q": {
-            "hi": "कोशिका (Cell) की खोज सर्वप्रथम किसने की थी?",
-            "en": "Who first discovered the cell?"
-          },
+          "q": { "hi": "आज तक हमें कितने तत्वों की जानकारी है?", "en": "How many elements are known to us till date?" },
           "options": [
-            {"hi": "ल्यूवेनहॉक", "en": "Leeuwenhoek"},
-            {"hi": "रॉबर्ट हुक", "en": "Robert Hooke"},
-            {"hi": "पुरकिंज", "en": "Purkinje"},
-            {"hi": "रॉबर्ट ब्राउन", "en": "Robert Brown"}
+            { "hi": "94", "en": "94" },
+            { "hi": "114", "en": "114" },
+            { "hi": "108", "en": "108" },
+            { "hi": "120", "en": "120" }
           ],
-          "answer": {"hi": "रॉबर्ट हुक", "en": "Robert Hooke"}
+          "answer": { "hi": "114", "en": "114" }
         },
         {
-          "q": {
-            "hi": "रॉबर्ट हुक ने कोशिका को किस वर्ष में देखा था?",
-            "en": "In which year did Robert Hooke observe cells?"
-          },
+          "q": { "hi": "सन् 1800 तक कितने तत्वों का पता चला था?", "en": "How many elements were known by the year 1800?" },
           "options": [
-            {"hi": "1665", "en": "1665"},
-            {"hi": "1674", "en": "1674"},
-            {"hi": "1831", "en": "1831"},
-            {"hi": "1839", "en": "1839"}
+            { "hi": "11", "en": "11" },
+            { "hi": "30", "en": "30" },
+            { "hi": "56", "en": "56" },
+            { "hi": "63", "en": "63" }
           ],
-          "answer": {"hi": "1665", "en": "1665"}
+          "answer": { "hi": "30", "en": "30" }
         },
         {
-          "q": {
-            "hi": "'Cell' शब्द किस लैटिन शब्द से बना है, जिसका अर्थ 'छोटा कमरा' है?",
-            "en": "The word 'Cell' is derived from which Latin word meaning 'little room'?"
-          },
+          "q": { "hi": "तत्वों के वर्गीकरण का सबसे पहला प्रयास उन्हें किन दो समूहों में बांटकर किया गया?", "en": "What was the first attempt at classifying elements into two groups?" },
           "options": [
-            {"hi": "Cellula", "en": "Cellula"},
-            {"hi": "Cella", "en": "Cella"},
-            {"hi": "Cytos", "en": "Cytos"},
-            {"hi": "Micro", "en": "Micro"}
+            { "hi": "ठोस और गैस", "en": "Solid and Gas" },
+            { "hi": "प्राकृतिक और कृत्रिम", "en": "Natural and Artificial" },
+            { "hi": "धातु एवं अधातु", "en": "Metal and Non-metal" },
+            { "hi": "अम्ल और क्षार", "en": "Acid and Base" }
           ],
-          "answer": {"hi": "Cellula", "en": "Cellula"}
+          "answer": { "hi": "धातु एवं अधातु", "en": "Metal and Non-metal" }
         },
         {
-          "q": {
-            "hi": "सर्वप्रथम जीवित कोशिका की खोज किसने की थी?",
-            "en": "Who first discovered the free-living cell?"
-          },
+          "q": { "hi": "किस जर्मन वैज्ञानिक ने समान गुणधर्मों वाले तत्वों को समूहों में व्यवस्थित करने का प्रयास किया?", "en": "Which German scientist tried to arrange elements with similar properties into groups?" },
           "options": [
-            {"hi": "रॉबर्ट हुक", "en": "Robert Hooke"},
-            {"hi": "ल्यूवेनहॉक", "en": "Leeuwenhoek"},
-            {"hi": "श्लाइडन", "en": "Schleiden"},
-            {"hi": "श्वान", "en": "Schwann"}
+            { "hi": "मेंडलीव", "en": "Mendeleev" },
+            { "hi": "न्यूलैंड्स", "en": "Newlands" },
+            { "hi": "डोबेरेनर", "en": "Dobereiner" },
+            { "hi": "मोजले", "en": "Moseley" }
           ],
-          "answer": {"hi": "ल्यूवेनहॉक", "en": "Leeuwenhoek"}
+          "answer": { "hi": "डोबेरेनर", "en": "Dobereiner" }
         },
         {
-          "q": {
-            "hi": "कोशिका के केंद्रक (Nucleus) की खोज किसने की थी?",
-            "en": "Who discovered the nucleus in the cell?"
-          },
+          "q": { "hi": "डोबेरेनर के 'त्रिक' के अनुसार बीच वाले तत्व का परमाणु द्रव्यमान शेष दो तत्वों के परमाणु द्रव्यमान का क्या होता है?", "en": "According to Dobereiner's 'Triad', the atomic mass of the middle element is approximately what of the other two?" },
           "options": [
-            {"hi": "रॉबर्ट ब्राउन", "en": "Robert Brown"},
-            {"hi": "रॉबर्ट हुक", "en": "Robert Hooke"},
-            {"hi": "विरचो", "en": "Virchow"},
-            {"hi": "पुरकिंज", "en": "Purkinje"}
+            { "hi": "योगफल", "en": "Sum" },
+            { "hi": "औसत", "en": "Average" },
+            { "hi": "दुगुना", "en": "Double" },
+            { "hi": "गुणनफल", "en": "Product" }
           ],
-          "answer": {"hi": "रॉबर्ट ब्राउन", "en": "Robert Brown"}
+          "answer": { "hi": "औसत", "en": "Average" }
         },
         {
-          "q": {
-            "hi": "कोशिका में स्थित तरल जैविक पदार्थ को 'जीवद्रव्य' (Protoplasm) नाम किसने दिया?",
-            "en": "Who coined the term 'Protoplasm' for the fluid substance of the cell?"
-          },
+          "q": { "hi": "लीथियम (Li), सोडियम (Na) और पोटैशियम (K) के त्रिक में सोडियम का परमाणु द्रव्यमान क्या है?", "en": "In the triad of Lithium (Li), Sodium (Na) and Potassium (K), what is the atomic mass of Sodium?" },
           "options": [
-            {"hi": "रॉबर्ट ब्राउन", "en": "Robert Brown"},
-            {"hi": "पुरकिंज", "en": "Purkinje"},
-            {"hi": "श्लाइडन", "en": "Schleiden"},
-            {"hi": "श्वान", "en": "Schwann"}
+            { "hi": "7.0", "en": "7.0" },
+            { "hi": "39.0", "en": "39.0" },
+            { "hi": "23.0", "en": "23.0" },
+            { "hi": "14.0", "en": "14.0" }
           ],
-          "answer": {"hi": "पुरकिंज", "en": "Purkinje"}
+          "answer": { "hi": "23.0", "en": "23.0" }
         },
         {
-          "q": {
-            "hi": "कोशिका सिद्धांत (Cell Theory) किसने प्रस्तुत किया था?",
-            "en": "Who presented the Cell Theory?"
-          },
+          "q": { "hi": "अष्टक का सिद्धांत (Law of Octaves) किसने दिया?", "en": "Who gave the Law of Octaves?" },
           "options": [
-            {"hi": "श्लाइडन तथा श्वान", "en": "Schleiden and Schwann"},
-            {"hi": "वाटसन तथा क्रिक", "en": "Watson and Crick"},
-            {"hi": "रॉबर्ट हुक", "en": "Robert Hooke"},
-            {"hi": "डार्विन", "en": "Darwin"}
+            { "hi": "जॉन न्यूलैंड्स", "en": "John Newlands" },
+            { "hi": "लोथर मेयर", "en": "Lothar Meyer" },
+            { "hi": "हेनरी मोजले", "en": "Henry Moseley" },
+            { "hi": "डाल्टन", "en": "Dalton" }
           ],
-          "answer": {"hi": "श्लाइडन तथा श्वान", "en": "Schleiden and Schwann"}
+          "answer": { "hi": "जॉन न्यूलैंड्स", "en": "John Newlands" }
         },
         {
-          "q": {
-            "hi": "किस वैज्ञानिक ने बताया कि सभी कोशिकाएं पूर्ववर्ती कोशिकाओं से बनती हैं?",
-            "en": "Which scientist expanded the cell theory by suggesting that all cells arise from pre-existing cells?"
-          },
+          "q": { "hi": "न्यूलैंड्स ने तत्वों को उनके परमाणु द्रव्यमान के किस क्रम में व्यवस्थित किया?", "en": "In what order did Newlands arrange elements based on their atomic mass?" },
           "options": [
-            {"hi": "पुरकिंज", "en": "Purkinje"},
-            {"hi": "विरचो (Virchow)", "en": "Virchow"},
-            {"hi": "रॉबर्ट ब्राउन", "en": "Robert Brown"},
-            {"hi": "ल्यूवेनहॉक", "en": "Leeuwenhoek"}
+            { "hi": "घटते क्रम", "en": "Decreasing order" },
+            { "hi": "आरोही क्रम", "en": "Ascending order" },
+            { "hi": "कोई निश्चित क्रम नहीं", "en": "No fixed order" },
+            { "hi": "वर्णानुक्रम", "en": "Alphabetical order" }
           ],
-          "answer": {"hi": "विरचो (Virchow)", "en": "Virchow"}
+          "answer": { "hi": "आरोही क्रम", "en": "Ascending order" }
         },
         {
-          "q": {
-            "hi": "अमीबा जैसे जीव किस प्रकार के जीव कहलाते हैं?",
-            "en": "What kind of organisms are beings like Amoeba called?"
-          },
+          "q": { "hi": "न्यूलैंड्स के अष्टक सिद्धांत के अनुसार प्रत्येक आठवें तत्व के गुणधर्म किस तत्व के समान थे?", "en": "According to Newlands' Law of Octaves, the properties of every eighth element were similar to which element?" },
           "options": [
-            {"hi": "बहुकोशिक जीव", "en": "Multicellular organisms"},
-            {"hi": "एककोशिक जीव (Unicellular)", "en": "Unicellular organisms"},
-            {"hi": "अकोशिकीय जीव", "en": "Acellular organisms"},
-            {"hi": "पादप जीव", "en": "Plant organisms"}
+            { "hi": "पहले", "en": "First" },
+            { "hi": "तीसरे", "en": "Third" },
+            { "hi": "पांचवें", "en": "Fifth" },
+            { "hi": "दसवें", "en": "Tenth" }
           ],
-          "answer": {"hi": "एककोशिक जीव (Unicellular)", "en": "Unicellular organisms"}
+          "answer": { "hi": "पहले", "en": "First" }
         },
         {
-          "q": {
-            "hi": "कोशिका की सबसे बाहरी झिल्ली क्या कहलाती है?",
-            "en": "What is the outermost covering of the cell called?"
-          },
+          "q": { "hi": "न्यूलैंड्स का अष्टक सिद्धांत केवल किस तत्व तक लागू होता था?", "en": "Newlands' Law of Octaves was applicable only up to which element?" },
           "options": [
-            {"hi": "कोशिका भित्ति", "en": "Cell wall"},
-            {"hi": "प्लाज्मा झिल्ली (Plasma membrane)", "en": "Plasma membrane"},
-            {"hi": "केंद्रक झिल्ली", "en": "Nuclear membrane"},
-            {"hi": "साइटोप्लाज्म", "en": "Cytoplasm"}
+            { "hi": "मैग्नीशियम", "en": "Magnesium" },
+            { "hi": "कैल्सियम", "en": "Calcium" },
+            { "hi": "आयरन", "en": "Iron" },
+            { "hi": "पोटैशियम", "en": "Potassium" }
           ],
-          "answer": {"hi": "प्लाज्मा झिल्ली (Plasma membrane)", "en": "Plasma membrane"}
+          "answer": { "hi": "कैल्सियम", "en": "Calcium" }
         }
       ],
       "section2": [
         {
-          "q": {
-            "hi": "प्लाज्मा झिल्ली को 'वर्णात्मक पारगम्य झिल्ली' क्यों कहते हैं?",
-            "en": "Why is the plasma membrane called a 'selectively permeable membrane'?"
-          },
+          "q": { "hi": "न्यूलैंड्स ने यह कल्पना की थी कि प्रकृति में केवल कितने तत्व विद्यमान हैं?", "en": "How many elements did Newlands assume existed in nature?" },
           "options": [
-            {"hi": "क्योंकि यह सभी पदार्थों को अंदर आने देती है", "en": "Because it allows all substances to enter"},
-            {"hi": "क्योंकि यह केवल कुछ ही पदार्थों को अंदर या बाहर आने-जाने देती है", "en": "Because it permits the entry and exit of some materials only"},
-            {"hi": "क्योंकि यह कठोर होती है", "en": "Because it is rigid"},
-            {"hi": "क्योंकि यह मृत होती है", "en": "Because it is dead"}
+            { "hi": "63", "en": "63" },
+            { "hi": "114", "en": "114" },
+            { "hi": "56", "en": "56" },
+            { "hi": "86", "en": "86" }
           ],
-          "answer": {"hi": "क्योंकि यह केवल कुछ ही पदार्थों को अंदर या बाहर आने-जाने देती है", "en": "Because it permits the entry and exit of some materials only"}
+          "answer": { "hi": "56", "en": "56" }
         },
         {
-          "q": {
-            "hi": "पदार्थ के अणुओं का उच्च सांद्रता से निम्न सांद्रता की ओर जाना क्या कहलाता है?",
-            "en": "The spontaneous movement of substance molecules from a region of high concentration to low concentration is called?"
-          },
+          "q": { "hi": "तत्वों के वर्गीकरण का मुख्य श्रेय किस रूसी रसायनज्ञ को जाता है?", "en": "The main credit for the classification of elements goes to which Russian chemist?" },
           "options": [
-            {"hi": "परासरण", "en": "Osmosis"},
-            {"hi": "विसरण (Diffusion)", "en": "Diffusion"},
-            {"hi": "वाष्पीकरण", "en": "Evaporation"},
-            {"hi": "प्रकाश संश्लेषण", "en": "Photosynthesis"}
+            { "hi": "दिमित्री इवानोविच मेंडलीव", "en": "Dmitri Ivanovich Mendeleev" },
+            { "hi": "मोजले", "en": "Moseley" },
+            { "hi": "नील्स बोर", "en": "Niels Bohr" },
+            { "hi": "रदरफोर्ड", "en": "Rutherford" }
           ],
-          "answer": {"hi": "विसरण (Diffusion)", "en": "Diffusion"}
+          "answer": { "hi": "दिमित्री इवानोविच मेंडलीव", "en": "Dmitri Ivanovich Mendeleev" }
         },
         {
-          "q": {
-            "hi": "जल के अणुओं की गति जब वर्णात्मक पारगम्य झिल्ली द्वारा हो, तो उसे क्या कहते हैं?",
-            "en": "What is the movement of water molecules through a selectively permeable membrane called?"
-          },
+          "q": { "hi": "मेंडलीव की आवर्त सारणी में तत्वों को किस आधार पर व्यवस्थित किया गया था?", "en": "On what basis were elements arranged in Mendeleev's periodic table?" },
           "options": [
-            {"hi": "विसरण", "en": "Diffusion"},
-            {"hi": "परासरण (Osmosis)", "en": "Osmosis"},
-            {"hi": "अवशोषण", "en": "Absorption"},
-            {"hi": "उत्सर्जन", "en": "Excretion"}
+            { "hi": "परमाणु संख्या", "en": "Atomic number" },
+            { "hi": "मूल परमाणु द्रव्यमान", "en": "Fundamental atomic mass" },
+            { "hi": "इलेक्ट्रॉनिक विन्यास", "en": "Electronic configuration" },
+            { "hi": "क्वथनांक", "en": "Boiling point" }
           ],
-          "answer": {"hi": "परासरण (Osmosis)", "en": "Osmosis"}
+          "answer": { "hi": "मूल परमाणु द्रव्यमान", "en": "Fundamental atomic mass" }
         },
         {
-          "q": {
-            "hi": "यदि कोशिका को 'अतिपरासरण दाबी' (Hypertonic) विलयन में रखा जाए, तो क्या होगा?",
-            "en": "What happens if a cell is placed in a hypertonic solution?"
-          },
+          "q": { "hi": "मेंडलीव ने जब कार्य आरंभ किया, तब कितने तत्व ज्ञात थे?", "en": "How many elements were known when Mendeleev started his work?" },
           "options": [
-            {"hi": "कोशिका फूल जाएगी", "en": "The cell will swell up"},
-            {"hi": "कोशिका सिकुड़ जाएगी", "en": "The cell will shrink"},
-            {"hi": "कोशिका वैसी ही रहेगी", "en": "The cell will stay the same"},
-            {"hi": "कोशिका फट जाएगी", "en": "The cell will burst"}
+            { "hi": "30", "en": "30" },
+            { "hi": "56", "en": "56" },
+            { "hi": "63", "en": "63" },
+            { "hi": "94", "en": "94" }
           ],
-          "answer": {"hi": "कोशिका सिकुड़ जाएगी", "en": "The cell will shrink"}
+          "answer": { "hi": "63", "en": "63" }
         },
         {
-          "q": {
-            "hi": "अमीबा अपना भोजन किस प्रक्रिया द्वारा प्राप्त करता है?",
-            "en": "By which process does Amoeba acquire its food?"
-          },
+          "q": { "hi": "मेंडलीव ने तत्वों के किन यौगिकों के सूत्रों को वर्गीकरण का आधार माना?", "en": "Mendeleev used the formulas of which compounds as the basis for classification?" },
           "options": [
-            {"hi": "विसरण", "en": "Diffusion"},
-            {"hi": "एंडोसाइटोसिस (Endocytosis)", "en": "Endocytosis"},
-            {"hi": "परासरण", "en": "Osmosis"},
-            {"hi": "प्रकाश संश्लेषण", "en": "Photosynthesis"}
+            { "hi": "क्लोराइड एवं सल्फाइड", "en": "Chloride and Sulphide" },
+            { "hi": "ऑक्साइड एवं हाइड्राइड", "en": "Oxide and Hydride" },
+            { "hi": "कार्बोनेट एवं नाइट्रेट", "en": "Carbonate and Nitrate" },
+            { "hi": "सल्फेट एवं फास्फेट", "en": "Sulphate and Phosphate" }
           ],
-          "answer": {"hi": "एंडोसाइटोसिस (Endocytosis)", "en": "Endocytosis"}
+          "answer": { "hi": "ऑक्साइड एवं हाइड्राइड", "en": "Oxide and Hydride" }
         },
         {
-          "q": {
-            "hi": "पादप कोशिकाओं में प्लाज्मा झिल्ली के बाहर स्थित कठोर आवरण को क्या कहते हैं?",
-            "en": "What is the rigid outer covering outside the plasma membrane in plant cells called?"
-          },
+          "q": { "hi": "मेंडलीव का आवर्त नियम क्या कहता है?", "en": "What does Mendeleev's Periodic Law state?" },
           "options": [
-            {"hi": "साइटोप्लाज्म", "en": "Cytoplasm"},
-            {"hi": "कोशिका भित्ति (Cell wall)", "en": "Cell wall"},
-            {"hi": "केंद्रक", "en": "Nucleus"},
-            {"hi": "टोनोप्लास्ट", "en": "Tonoplast"}
+            { "hi": "तत्वों के गुणधर्म परमाणु संख्या का आवर्त फलन होते हैं", "en": "Properties are periodic functions of atomic number" },
+            { "hi": "तत्वों के गुणधर्म परमाणु द्रव्यमान का आवर्त फलन होते हैं", "en": "Properties are periodic functions of atomic mass" },
+            { "hi": "तत्वों के गुणधर्म उनके रंग पर निर्भर करते हैं", "en": "Properties depend on their color" },
+            { "hi": "तत्वों के गुणधर्म उनकी अवस्था पर निर्भर करते हैं", "en": "Properties depend on their state" }
           ],
-          "answer": {"hi": "कोशिका भित्ति (Cell wall)", "en": "Cell wall"}
+          "answer": { "hi": "तत्वों के गुणधर्म परमाणु द्रव्यमान का आवर्त फलन होते हैं", "en": "Properties are periodic functions of atomic mass" }
         },
         {
-          "q": {
-            "hi": "पादप कोशिका भित्ति मुख्य रूप से किसकी बनी होती है?",
-            "en": "The plant cell wall is mainly composed of what?"
-          },
+          "q": { "hi": "मेंडलीव की आवर्त सारणी के ऊर्ध्व स्तंभों (Vertical columns) को क्या कहते हैं?", "en": "What are the vertical columns in Mendeleev's periodic table called?" },
           "options": [
-            {"hi": "लिपिड", "en": "Lipid"},
-            {"hi": "प्रोटीन", "en": "Protein"},
-            {"hi": "सेलूलोज़ (Cellulose)", "en": "Cellulose"},
-            {"hi": "विटामिन", "en": "Vitamin"}
+            { "hi": "आवर्त (Period)", "en": "Period" },
+            { "hi": "समूह (Group)", "en": "Group" },
+            { "hi": "कक्षा (Orbit)", "en": "Orbit" },
+            { "hi": "कोश (Shell)", "en": "Shell" }
           ],
-          "answer": {"hi": "सेलूलोज़ (Cellulose)", "en": "Cellulose"}
+          "answer": { "hi": "समूह (Group)", "en": "Group" }
         },
         {
-          "q": {
-            "hi": "गुणसूत्र (Chromosomes) किसके बने होते हैं?",
-            "en": "What are chromosomes made of?"
-          },
+          "q": { "hi": "मेंडलीव की आवर्त सारणी की क्षैतिज पंक्तियों (Horizontal rows) को क्या कहते हैं?", "en": "What are the horizontal rows in Mendeleev's periodic table called?" },
           "options": [
-            {"hi": "केवल DNA", "en": "Only DNA"},
-            {"hi": "केवल प्रोटीन", "en": "Only protein"},
-            {"hi": "DNA तथा प्रोटीन", "en": "DNA and protein"},
-            {"hi": "RNA तथा लिपिड", "en": "RNA and lipid"}
+            { "hi": "समूह (Group)", "en": "Group" },
+            { "hi": "कक्षा (Orbit)", "en": "Orbit" },
+            { "hi": "आवर्त (Period)", "en": "Period" },
+            { "hi": "ब्लॉक", "en": "Block" }
           ],
-          "answer": {"hi": "DNA तथा प्रोटीन", "en": "DNA and protein"}
+          "answer": { "hi": "आवर्त (Period)", "en": "Period" }
         },
         {
-          "q": {
-            "hi": "DNA के क्रियात्मक खंड को क्या कहते हैं?",
-            "en": "What are the functional segments of DNA called?"
-          },
+          "q": { "hi": "मेंडलीव ने अपनी सारणी में कुछ खाली जगह क्यों छोड़ी थी?", "en": "Why did Mendeleev leave some gaps in his table?" },
           "options": [
-            {"hi": "क्रोमेटिन", "en": "Chromatin"},
-            {"hi": "जीन (Gene)", "en": "Gene"},
-            {"hi": "नाभिक", "en": "Nucleus"},
-            {"hi": "अणु", "en": "Molecule"}
+            { "hi": "गलती से", "en": "By mistake" },
+            { "hi": "अज्ञात तत्वों की भविष्यवाणी के लिए", "en": "To predict unknown elements" },
+            { "hi": "गैसों के लिए", "en": "For gases" },
+            { "hi": "जगह की कमी के कारण", "en": "Due to lack of space" }
           ],
-          "answer": {"hi": "जीन (Gene)", "en": "Gene"}
+          "answer": { "hi": "अज्ञात तत्वों की भविष्यवाणी के लिए", "en": "To predict unknown elements" }
         },
         {
-          "q": {
-            "hi": "जिन कोशिकाओं में केंद्रक झिल्ली नहीं होती, उन्हें क्या कहते हैं?",
-            "en": "What are cells called that lack a nuclear membrane?"
-          },
+          "q": { "hi": "स्कैंडियम, गैलियम और जर्मेनियम के गुणधर्म मेंडलीव द्वारा बताए गए किन तत्वों के समान मिले?", "en": "Properties of Scandium, Gallium, and Germanium were similar to which elements predicted by Mendeleev?" },
           "options": [
-            {"hi": "यूकैरियोटी कोशिका", "en": "Eukaryotic cells"},
-            {"hi": "प्रोकैरियोटी कोशिका (Prokaryotic)", "en": "Prokaryotic cells"},
-            {"hi": "बहुकोशिकीय कोशिका", "en": "Multicellular cells"},
-            {"hi": "जंतु कोशिका", "en": "Animal cells"}
+            { "hi": "एका-बोरॉन, एका-ऐलुमिनियम, एका-सिलिकॉन", "en": "Eka-boron, Eka-aluminium, Eka-silicon" },
+            { "hi": "लिथियम, सोडियम, पोटैशियम", "en": "Lithium, Sodium, Potassium" },
+            { "hi": "हीलियम, निऑन, ऑर्गन", "en": "Helium, Neon, Argon" },
+            { "hi": "लोहा, कोबाल्ट, निकैल", "en": "Iron, Cobalt, Nickel" }
           ],
-          "answer": {"hi": "प्रोकैरियोटी कोशिका (Prokaryotic)", "en": "Prokaryotic cells"}
+          "answer": { "hi": "एका-बोरॉन, एका-ऐलुमिनियम, एका-सिलिकॉन", "en": "Eka-boron, Eka-aluminium, Eka-silicon" }
         }
       ],
       "section3": [
         {
-          "q": {
-            "hi": "कोशिका का 'बिजलीघर' (Powerhouse) किसे कहा जाता है?",
-            "en": "Which organelle is known as the 'Powerhouse' of the cell?"
-          },
+          "q": { "hi": "उत्कृष्ट गैसों (He, Ne, Ar) का पता देर से क्यों चला?", "en": "Why were noble gases discovered so late?" },
           "options": [
-            {"hi": "गॉल्जी उपकरण", "en": "Golgi apparatus"},
-            {"hi": "माइटोकॉन्ड्रिया (Mitochondria)", "en": "Mitochondria"},
-            {"hi": "लाइसोसोम", "en": "Lysosome"},
-            {"hi": "राइबोसोम", "en": "Ribosome"}
+            { "hi": "वे बहुत महंगी थीं", "en": "They were very expensive" },
+            { "hi": "वे बहुत अक्रिय और अल्प मात्रा में थीं", "en": "They are very inert and in low concentration" },
+            { "hi": "वे जहरीली थीं", "en": "They were poisonous" },
+            { "hi": "उनका कोई उपयोग नहीं था", "en": "They had no use" }
           ],
-          "answer": {"hi": "माइटोकॉन्ड्रिया (Mitochondria)", "en": "Mitochondria"}
+          "answer": { "hi": "वे बहुत अक्रिय और अल्प मात्रा में थीं", "en": "They are very inert and in low concentration" }
         },
         {
-          "q": {
-            "hi": "कोशिका की 'आत्मघाती थैली' (Suicide bag) किसे कहते हैं?",
-            "en": "Which organelle is called the 'Suicide bag' of the cell?"
-          },
+          "q": { "hi": "मेंडलीव की आवर्त सारणी में 'हाइड्रोजन' की स्थिति विवादस्पद क्यों थी?", "en": "Why was the position of 'Hydrogen' controversial in Mendeleev's table?" },
           "options": [
-            {"hi": "माइटोकॉन्ड्रिया", "en": "Mitochondria"},
-            {"hi": "लाइसोसोम (Lysosome)", "en": "Lysosome"},
-            {"hi": "प्लास्टिड", "en": "Plastid"},
-            {"hi": "रसधानी", "en": "Vacuole"}
+            { "hi": "यह केवल धातु जैसा था", "en": "It was like metals only" },
+            { "hi": "यह क्षार धातुओं और हैलोजेन दोनों जैसे गुण दिखाता है", "en": "It shows properties of both alkali metals and halogens" },
+            { "hi": "यह भारी था", "en": "It was heavy" },
+            { "hi": "यह रंगीन था", "en": "It was colored" }
           ],
-          "answer": {"hi": "लाइसोसोम (Lysosome)", "en": "Lysosome"}
+          "answer": { "hi": "यह क्षार धातुओं और हैलोजेन दोनों जैसे गुण दिखाता है", "en": "It shows properties of both alkali metals and halogens" }
         },
         {
-          "q": {
-            "hi": "कोशिका के अंदर प्रोटीन का संश्लेषण कहाँ होता है?",
-            "en": "Where is protein synthesized inside the cell?"
-          },
+          "q": { "hi": "समस्थानिकों (Isotopes) के गुणधर्म कैसे होते हैं?", "en": "What are the properties of Isotopes?" },
           "options": [
-            {"hi": "राइबोसोम (Ribosome)", "en": "Ribosome"},
-            {"hi": "लाइसोसोम", "en": "Lysosome"},
-            {"hi": "माइटोकॉन्ड्रिया", "en": "Mitochondria"},
-            {"hi": "केंद्रक", "en": "Nucleus"}
+            { "hi": "रासायनिक गुण समान, परमाणु द्रव्यमान भिन्न", "en": "Same chemical properties, different atomic mass" },
+            { "hi": "परमाणु द्रव्यमान समान, रासायनिक गुण भिन्न", "en": "Same atomic mass, different chemical properties" },
+            { "hi": "दोनों समान", "en": "Both same" },
+            { "hi": "दोनों भिन्न", "en": "Both different" }
           ],
-          "answer": {"hi": "राइबोसोम (Ribosome)", "en": "Ribosome"}
+          "answer": { "hi": "रासायनिक गुण समान, परमाणु द्रव्यमान भिन्न", "en": "Same chemical properties, different atomic mass" }
         },
         {
-          "q": {
-            "hi": "ATP का पूर्ण रूप क्या है?",
-            "en": "What is the full form of ATP?"
-          },
+          "q": { "hi": "सन् 1913 में किसने बताया कि परमाणु संख्या वर्गीकरण का बेहतर आधार है?", "en": "Who showed in 1913 that atomic number is a better basis for classification?" },
           "options": [
-            {"hi": "Adenosine Triphosphate", "en": "Adenosine Triphosphate"},
-            {"hi": "Ammonium Triphosphate", "en": "Ammonium Triphosphate"},
-            {"hi": "Adenosine Tetrachloride", "en": "Adenosine Tetrachloride"},
-            {"hi": "Amino Triphosphate", "en": "Amino Triphosphate"}
+            { "hi": "डाल्टन", "en": "Dalton" },
+            { "hi": "हेनरी मोजले", "en": "Henry Moseley" },
+            { "hi": "थॉमसन", "en": "Thomson" },
+            { "hi": "चाडविक", "en": "Chadwick" }
           ],
-          "answer": {"hi": "Adenosine Triphosphate", "en": "Adenosine Triphosphate"}
+          "answer": { "hi": "हेनरी मोजले", "en": "Henry Moseley" }
         },
         {
-          "q": {
-            "hi": "रंगहीन प्लास्टिड को क्या कहते हैं?",
-            "en": "What are colorless plastids called?"
-          },
+          "q": { "hi": "आधुनिक आवर्त नियम क्या है?", "en": "What is the Modern Periodic Law?" },
           "options": [
-            {"hi": "क्रोमोप्लास्ट", "en": "Chromoplast"},
-            {"hi": "ल्यूकोप्लास्ट (Leucoplast)", "en": "Leucoplast"},
-            {"hi": "क्लोरोप्लास्ट", "en": "Chloroplast"},
-            {"hi": "क्लोरोफिल", "en": "Chlorophyll"}
+            { "hi": "परमाणु द्रव्यमान आधार है", "en": "Atomic mass is the basis" },
+            { "hi": "गुणधर्म परमाणु संख्या का आवर्त फलन होते हैं", "en": "Properties are periodic function of atomic number" },
+            { "hi": "घनत्व आधार है", "en": "Density is the basis" },
+            { "hi": "संयोजकता आधार है", "en": "Valency is the basis" }
           ],
-          "answer": {"hi": "ल्यूकोप्लास्ट (Leucoplast)", "en": "Leucoplast"}
+          "answer": { "hi": "गुणधर्म परमाणु संख्या का आवर्त फलन होते हैं", "en": "Properties are periodic function of atomic number" }
         },
         {
-          "q": {
-            "hi": "किचन ऑफ द सेल (Kitchen of the cell) किसे कहा जाता है?",
-            "en": "Which organelle is called the 'Kitchen of the cell'?"
-          },
+          "q": { "hi": "आधुनिक आवर्त सारणी में कितने समूह और आवर्त हैं?", "en": "How many groups and periods are in the Modern Periodic Table?" },
           "options": [
-            {"hi": "माइटोकॉन्ड्रिया", "en": "Mitochondria"},
-            {"hi": "क्लोरोप्लास्ट (Chloroplast)", "en": "Chloroplast"},
-            {"hi": "गॉल्जी उपकरण", "en": "Golgi apparatus"},
-            {"hi": "लाइसोसोम", "en": "Lysosome"}
+            { "hi": "8 समूह, 7 आवर्त", "en": "8 groups, 7 periods" },
+            { "hi": "18 समूह, 7 आवर्त", "en": "18 groups, 7 periods" },
+            { "hi": "7 समूह, 18 आवर्त", "en": "7 groups, 18 periods" },
+            { "hi": "10 समूह, 10 आवर्त", "en": "10 groups, 10 periods" }
           ],
-          "answer": {"hi": "क्लोरोप्लास्ट (Chloroplast)", "en": "Chloroplast"}
+          "answer": { "hi": "18 समूह, 7 आवर्त", "en": "18 groups, 7 periods" }
         },
         {
-          "q": {
-            "hi": "रसधानियाँ (Vacuoles) पादप कोशिकाओं में कैसी होती हैं?",
-            "en": "How are vacuoles in plant cells?"
-          },
+          "q": { "hi": "किसी एक समूह के सभी तत्वों की क्या समान होती है?", "en": "What is common among all elements of a single group?" },
           "options": [
-            {"hi": "बहुत छोटी", "en": "Very small"},
-            {"hi": "अनुपस्थित", "en": "Absent"},
-            {"hi": "बहुत बड़ी और स्थायी", "en": "Very large and permanent"},
-            {"hi": "संख्या में बहुत अधिक", "en": "Very many in number"}
+            { "hi": "परमाणु द्रव्यमान", "en": "Atomic mass" },
+            { "hi": "संयोजकता इलेक्ट्रॉनों की संख्या", "en": "Number of valence electrons" },
+            { "hi": "परमाणु का आकार", "en": "Atomic size" },
+            { "hi": "कोशों की संख्या", "en": "Number of shells" }
           ],
-          "answer": {"hi": "बहुत बड़ी और स्थायी", "en": "Very large and permanent"}
+          "answer": { "hi": "संयोजकता इलेक्ट्रॉनों की संख्या", "en": "Number of valence electrons" }
         },
         {
-          "q": {
-            "hi": "अमीबा जैसे जीवों में अपशिष्ट पदार्थों को बाहर निकालने में कौन सहायक है?",
-            "en": "What helps in expelling waste in organisms like Amoeba?"
-          },
+          "q": { "hi": "एक आवर्त में बाएं से दाएं जाने पर कोशों की संख्या पर क्या प्रभाव पड़ता है?", "en": "What is the effect on the number of shells while moving left to right in a period?" },
           "options": [
-            {"hi": "खाद्य रसधानी", "en": "Food vacuole"},
-            {"hi": "संकुचनशील रसधानी", "en": "Contractile vacuole"},
-            {"hi": "लाइसोसोम", "en": "Lysosome"},
-            {"hi": "केंद्रक", "en": "Nucleus"}
+            { "hi": "बढ़ती है", "en": "Increases" },
+            { "hi": "घटती है", "en": "Decreases" },
+            { "hi": "समान रहती है", "en": "Remains same" },
+            { "hi": "शून्य हो जाती है", "en": "Becomes zero" }
           ],
-          "answer": {"hi": "संकुचनशील रसधानी", "en": "Contractile vacuole"}
+          "answer": { "hi": "समान रहती है", "en": "Remains same" }
+        },
+        { "q": { "hi": "परमाणु के किस कोश में अधिकतम इलेक्ट्रॉनों की संख्या का सूत्र क्या है?", "en": "What is the formula for the maximum number of electrons in a shell?" },
+          "options": [
+            { "hi": "n^2", "en": "n^2" },
+            { "hi": "2n^2", "en": "2n^2" },
+            { "hi": "2n", "en": "2n" },
+            { "hi": "n+2", "en": "n+2" }
+          ],
+          "answer": { "hi": "2n^2", "en": "2n^2" }
         },
         {
-          "q": {
-            "hi": "गॉल्जी उपकरण की खोज किसने की थी?",
-            "en": "Who discovered the Golgi apparatus?"
-          },
+          "q": { "hi": "पहले आवर्त में कितने तत्व हैं?", "en": "How many elements are in the first period?" },
           "options": [
-            {"hi": "कैमिलो गॉल्जी (Camillo Golgi)", "en": "Camillo Golgi"},
-            {"hi": "रॉबर्ट हुक", "en": "Robert Hooke"},
-            {"hi": "रॉबर्ट ब्राउन", "en": "Robert Brown"},
-            {"hi": "विरचो", "en": "Virchow"}
+            { "hi": "2", "en": "2" },
+            { "hi": "8", "en": "8" },
+            { "hi": "18", "en": "18" },
+            { "hi": "32", "en": "32" }
           ],
-          "answer": {"hi": "कैमिलो गॉल्जी (Camillo Golgi)", "en": "Camillo Golgi"}
-        },
-        {
-          "q": {
-            "hi": "माइटोकॉन्ड्रिया के पास अपना क्या होता है?",
-            "en": "What do mitochondria have of their own?"
-          },
-          "options": [
-            {"hi": "केवल DNA", "en": "Only DNA"},
-            {"hi": "केवल राइबोसोम", "en": "Only ribosomes"},
-            {"hi": "DNA तथा राइबोसोम दोनों", "en": "Both DNA and ribosomes"},
-            {"hi": "कुछ भी नहीं", "en": "Nothing"}
-          ],
-          "answer": {"hi": "DNA तथा राइबोसोम दोनों", "en": "Both DNA and ribosomes"}
+          "answer": { "hi": "2", "en": "2" }
         }
       ],
       "section4": [
         {
-          "q": {
-            "hi": "कोशिका झिल्ली मुख्य रूप से किसकी बनी होती है?",
-            "en": "What is the cell membrane mainly composed of?"
-          },
+          "q": { "hi": "तीसरे आवर्त (M कोश) में अधिकतम कितने तत्व हो सकते हैं?", "en": "What is the maximum number of elements in the third period (M shell)?" },
           "options": [
-            {"hi": "सेलूलोज़", "en": "Cellulose"},
-            {"hi": "लिपिड तथा प्रोटीन (Lipids and proteins)", "en": "Lipids and proteins"},
-            {"hi": "कार्बोहाइड्रेट", "en": "Carbohydrates"},
-            {"hi": "विटामिन", "en": "Vitamins"}
+            { "hi": "8", "en": "8" },
+            { "hi": "18", "en": "18" },
+            { "hi": "32", "en": "32" },
+            { "hi": "2", "en": "2" }
           ],
-          "answer": {"hi": "लिपिड तथा प्रोटीन (Lipids and proteins)", "en": "Lipids and proteins"}
+          "answer": { "hi": "8", "en": "8" }
         },
         {
-          "q": {
-            "hi": "कोशिका का कौन सा अंगक 'पैकेजिंग' और 'प्रेषण' का कार्य करता है?",
-            "en": "Which cell organelle functions as packaging and dispatching?"
-          },
+          "q": { "hi": "परमाणु त्रिज्या (Atomic radius) से क्या तात्पर्य है?", "en": "What does atomic radius signify?" },
           "options": [
-            {"hi": "माइटोकॉन्ड्रिया", "en": "Mitochondria"},
-            {"hi": "लाइसोसोम", "en": "Lysosome"},
-            {"hi": "गॉल्जी उपकरण (Golgi apparatus)", "en": "Golgi apparatus"},
-            {"hi": "केंद्रक", "en": "Nucleus"}
+            { "hi": "नाभिक और बाह्यतम कोश के बीच की दूरी", "en": "Distance between nucleus and outermost shell" },
+            { "hi": "परमाणु का भार", "en": "Mass of atom" },
+            { "hi": "इलेक्ट्रॉनों की संख्या", "en": "Number of electrons" },
+            { "hi": "प्रोटॉन की संख्या", "en": "Number of protons" }
           ],
-          "answer": {"hi": "गॉल्जी उपकरण (Golgi apparatus)", "en": "Golgi apparatus"}
+          "answer": { "hi": "नाभिक और बाह्यतम कोश के बीच की दूरी", "en": "Distance between nucleus and outermost shell" }
         },
         {
-          "q": {
-            "hi": "प्रोकैरियोटी कोशिका में केंद्रक क्षेत्र को क्या कहते हैं?",
-            "en": "What is the nuclear region in a prokaryotic cell called?"
-          },
+          "q": { "hi": "आवर्त में बाएं से दाएं जाने पर परमाणु त्रिज्या क्यों घटती है?", "en": "Why does atomic radius decrease across a period from left to right?" },
           "options": [
-            {"hi": "केंद्रक", "en": "Nucleus"},
-            {"hi": "केंद्रकाभ (Nucleoid)", "en": "Nucleoid"},
-            {"hi": "केंद्रिका", "en": "Nucleolus"},
-            {"hi": "साइटोप्लाज्म", "en": "Cytoplasm"}
+            { "hi": "इलेक्ट्रॉन कम होने से", "en": "Due to fewer electrons" },
+            { "hi": "नाभिकीय आवेश बढ़ने से इलेक्ट्रॉन अंदर खिंचते हैं", "en": "Due to increased nuclear charge pulling electrons inward" },
+            { "hi": "कोश बढ़ने से", "en": "Due to increased shells" },
+            { "hi": "परमाणु भार घटने से", "en": "Due to decreased atomic mass" }
           ],
-          "answer": {"hi": "केंद्रकाभ (Nucleoid)", "en": "Nucleoid"}
+          "answer": { "hi": "नाभिकीय आवेश बढ़ने से इलेक्ट्रॉन अंदर खिंचते हैं", "en": "Due to increased nuclear charge pulling electrons inward" }
         },
         {
-          "q": {
-            "hi": "कोशिका द्रव्य तथा केंद्रक दोनों को मिलाकर क्या कहते हैं?",
-            "en": "What is the combination of cytoplasm and nucleus called?"
-          },
+          "q": { "hi": "समूह में ऊपर से नीचे जाने पर परमाणु आकार पर क्या प्रभाव पड़ता है?", "en": "What is the effect on atomic size while moving down a group?" },
           "options": [
-            {"hi": "जीवद्रव्य (Protoplasm)", "en": "Protoplasm"},
-            {"hi": "कोशिका भित्ति", "en": "Cell wall"},
-            {"hi": "प्लास्टिड", "en": "Plastid"},
-            {"hi": "अंगक", "en": "Organelle"}
+            { "hi": "घटता है", "en": "Decreases" },
+            { "hi": "समान रहता है", "en": "Remains same" },
+            { "hi": "बढ़ता है", "en": "Increases" },
+            { "hi": "पहले बढ़ता है फिर घटता है", "en": "First increases then decreases" }
           ],
-          "answer": {"hi": "जीवद्रव्य (Protoplasm)", "en": "Protoplasm"}
+          "answer": { "hi": "बढ़ता है", "en": "Increases" }
         },
         {
-          "q": {
-            "hi": "खुरदरी अंतर्द्रव्यी जालिका (RER) पर क्या चिपके होते हैं?",
-            "en": "What are attached to the Rough Endoplasmic Reticulum (RER)?"
-          },
+          "q": { "hi": "धातुएं आवर्त सारणी में किस ओर पाई जाती हैं?", "en": "On which side of the periodic table are metals found?" },
           "options": [
-            {"hi": "लाइसोसोम", "en": "Lysosome"},
-            {"hi": "राइबोसोम (Ribosomes)", "en": "Ribosomes"},
-            {"hi": "वैक्यूल", "en": "Vacuoles"},
-            {"hi": "DNA", "en": "DNA"}
+            { "hi": "दाईं ओर", "en": "Right side" },
+            { "hi": "बाईं ओर", "en": "Left side" },
+            { "hi": "मध्य में नीचे", "en": "In the middle bottom" },
+            { "hi": "ऊपर की ओर", "en": "At the top" }
           ],
-          "answer": {"hi": "राइबोसोम (Ribosomes)", "en": "Ribosomes"}
+          "answer": { "hi": "बाईं ओर", "en": "Left side" }
         },
         {
-          "q": {
-            "hi": "चिकनी अंतर्द्रव्यी जालिका (SER) किसका निर्माण करती है?",
-            "en": "What does the Smooth Endoplasmic Reticulum (SER) manufacture?"
-          },
+          "q": { "hi": "अधातुएं आवर्त सारणी में किस ओर स्थित हैं?", "en": "Where are non-metals located in the periodic table?" },
           "options": [
-            {"hi": "प्रोटीन", "en": "Proteins"},
-            {"hi": "वसा या लिपिड (Fats or lipids)", "en": "Fats or lipids"},
-            {"hi": "ATP", "en": "ATP"},
-            {"hi": "RNA", "en": "RNA"}
+            { "hi": "दाईं ओर ऊपर", "en": "Top right side" },
+            { "hi": "बाईं ओर", "en": "Left side" },
+            { "hi": "बीच में", "en": "In the middle" },
+            { "hi": "नीचे की ओर", "en": "At the bottom" }
           ],
-          "answer": {"hi": "वसा या लिपिड (Fats or lipids)", "en": "Fats or lipids"}
+          "answer": { "hi": "दाईं ओर ऊपर", "en": "Top right side" }
         },
         {
-          "q": {
-            "hi": "लाइसोसोम में क्या पाए जाते हैं जो जटिल पदार्थों को तोड़ते हैं?",
-            "en": "What are found in lysosomes that break down complex substances?"
-          },
+          "q": { "hi": "उपधातु (Metalloids) क्या हैं?", "en": "What are metalloids?" },
           "options": [
-            {"hi": "हार्मोन", "en": "Hormones"},
-            {"hi": "शक्तिशाली पाचक एंजाइम", "en": "Powerful digestive enzymes"},
-            {"hi": "विटामिन", "en": "Vitamins"},
-            {"hi": "ऑक्सीजन", "en": "Oxygen"}
+            { "hi": "जो केवल धातु हों", "en": "Which are only metals" },
+            { "hi": "जो धातु और अधातु दोनों के गुण दिखाएं", "en": "Which show properties of both metals and non-metals" },
+            { "hi": "गैसें", "en": "Gases" },
+            { "hi": "द्रव", "en": "Liquids" }
           ],
-          "answer": {"hi": "शक्तिशाली पाचक एंजाइम", "en": "Powerful digestive enzymes"}
+          "answer": { "hi": "जो धातु और अधातु दोनों के गुण दिखाएं", "en": "Which show properties of both metals and non-metals" }
         },
         {
-          "q": {
-            "hi": "प्लास्टिड केवल किस प्रकार की कोशिकाओं में पाए जाते हैं?",
-            "en": "Plastids are found only in which type of cells?"
-          },
+          "q": { "hi": "आधुनिक आवर्त सारणी में टेढ़ी-मेढ़ी रेखा क्या अलग करती है?", "en": "What does the zig-zag line separate in the Modern Periodic Table?" },
           "options": [
-            {"hi": "जंतु कोशिका", "en": "Animal cells"},
-            {"hi": "पादप कोशिका (Plant cells)", "en": "Plant cells"},
-            {"hi": "जीवाणु", "en": "Bacteria"},
-            {"hi": "विषाणु", "en": "Viruses"}
+            { "hi": "ठोस और द्रव", "en": "Solid and Liquid" },
+            { "hi": "धातुओं को अधातुओं से", "en": "Metals from Non-metals" },
+            { "hi": "भारी और हल्के तत्व", "en": "Heavy and Light elements" },
+            { "hi": "प्राकृतिक और कृत्रिम तत्व", "en": "Natural and Artificial elements" }
           ],
-          "answer": {"hi": "पादप कोशिका (Plant cells)", "en": "Plant cells"}
+          "answer": { "hi": "धातुओं को अधातुओं से", "en": "Metals from Non-metals" }
         },
         {
-          "q": {
-            "hi": "क्लोरोप्लास्ट में कौन सा वर्णक (Pigment) होता है?",
-            "en": "Which pigment is present in chloroplasts?"
-          },
+          "q": { "hi": "धात्विक अभिलक्षण आवर्त में बाएं से दाएं जाने पर कैसा होता है?", "en": "How does metallic character change across a period from left to right?" },
           "options": [
-            {"hi": "हीमोग्लोबिन", "en": "Hemoglobin"},
-            {"hi": "क्लोरोफिल (Chlorophyll)", "en": "Chlorophyll"},
-            {"hi": "मेलेनिन", "en": "Melanin"},
-            {"hi": "इंसुलिन", "en": "Insulin"}
+            { "hi": "बढ़ता है", "en": "Increases" },
+            { "hi": "घटता है", "en": "Decreases" },
+            { "hi": "समान रहता है", "en": "Remains same" },
+            { "hi": "अनिश्चित", "en": "Uncertain" }
           ],
-          "answer": {"hi": "क्लोरोफिल (Chlorophyll)", "en": "Chlorophyll"}
+          "answer": { "hi": "घटता है", "en": "Decreases" }
         },
         {
-          "q": {
-            "hi": "किस अंगक को 'कोशिका का अपशिष्ट निपटाने वाला तंत्र' कहते हैं?",
-            "en": "Which organelle is called the 'waste disposal system' of the cell?"
-          },
+          "q": { "hi": "विद्युत ऋणात्मकता (Electronegativity) की प्रवृत्ति आवर्त में कैसी होती है?", "en": "What is the trend of electronegativity across a period?" },
           "options": [
-            {"hi": "लाइसोसोम (Lysosome)", "en": "Lysosome"},
-            {"hi": "माइटोकॉन्ड्रिया", "en": "Mitochondria"},
-            {"hi": "गॉल्जी उपकरण", "en": "Golgi apparatus"},
-            {"hi": "राइबोसोम", "en": "Ribosome"}
+            { "hi": "घटती है", "en": "Decreases" },
+            { "hi": "बढ़ती है", "en": "Increases" },
+            { "hi": "समान रहती है", "en": "Remains same" },
+            { "hi": "शून्य होती है", "en": "Becomes zero" }
           ],
-          "answer": {"hi": "लाइसोसोम (Lysosome)", "en": "Lysosome"}
+          "answer": { "hi": "बढ़ती है", "en": "Increases" }
         }
       ],
       "section5": [
         {
-          "q": {
-            "hi": "कोशिका की जीवन की मौलिक इकाई क्यों माना जाता है?",
-            "en": "Why is the cell considered the fundamental unit of life?"
-          },
+          "q": { "hi": "तत्वों के धात्विक गुण से क्या तात्पर्य है?", "en": "What is meant by the metallic character of elements?" },
           "options": [
-            {"hi": "क्योंकि यह सबसे बड़ी होती है", "en": "Because it is the largest"},
-            {"hi": "क्योंकि यह सभी सजीवों की संरचनात्मक और क्रियात्मक इकाई है", "en": "Because it is the structural and functional unit of all living organisms"},
-            {"hi": "क्योंकि यह केवल पादपों में होती है", "en": "Because it exists only in plants"},
-            {"hi": "क्योंकि यह केंद्रक के बिना काम नहीं कर सकती", "en": "Because it cannot work without a nucleus"}
+            { "hi": "इलेक्ट्रॉन ग्रहण करने की क्षमता", "en": "Ability to gain electrons" },
+            { "hi": "इलेक्ट्रॉन त्यागने की प्रवृत्ति", "en": "Tendency to lose electrons" },
+            { "hi": "चमकने की क्षमता", "en": "Ability to shine" },
+            { "hi": "हथौड़े से पीटने पर आवाज करना", "en": "Making sound when hit" }
           ],
-          "answer": {"hi": "क्योंकि यह सभी सजीवों की संरचनात्मक और क्रियात्मक इकाई है", "en": "Because it is the structural and functional unit of all living organisms"}
+          "answer": { "hi": "इलेक्ट्रॉन त्यागने की प्रवृत्ति", "en": "Tendency to lose electrons" }
         },
         {
-          "q": {
-            "hi": "गुणसूत्र केवल तब दिखाई देते हैं जब कोशिका ______ होने वाली हो।",
-            "en": "Chromosomes are visible only when a cell is about to ______."
-          },
+          "q": { "hi": "अधातुएं कैसी होती हैं?", "en": "What is the nature of non-metals?" },
           "options": [
-            {"hi": "मृत", "en": "Die"},
-            {"hi": "विभाजित (Divide)", "en": "Divide"},
-            {"hi": "सिकुड़ने", "en": "Shrink"},
-            {"hi": "फूलने", "en": "Swell"}
+            { "hi": "विद्युत धनात्मक", "en": "Electropositive" },
+            { "hi": "विद्युत ऋणात्मक", "en": "Electronegative" },
+            { "hi": "उदासीन", "en": "Neutral" },
+            { "hi": "चुंबकीय", "en": "Magnetic" }
           ],
-          "answer": {"hi": "विभाजित (Divide)", "en": "Divide"}
+          "answer": { "hi": "विद्युत ऋणात्मक", "en": "Electronegative" }
         },
         {
-          "q": {
-            "hi": "प्रोटीन संश्लेषण का स्थल कौन सा अंगक है?",
-            "en": "Which organelle is the site of protein synthesis?"
-          },
+          "q": { "hi": "समूह में नीचे जाने पर तत्वों की विद्युत ऋणात्मकता पर क्या प्रभाव पड़ता है?", "en": "What is the effect on the electronegativity of elements moving down a group?" },
           "options": [
-            {"hi": "वैक्यूल", "en": "Vacuole"},
-            {"hi": "राइबोसोम (Ribosome)", "en": "Ribosome"},
-            {"hi": "लाइसोसोम", "en": "Lysosome"},
-            {"hi": "प्लास्टिड", "en": "Plastid"}
+            { "hi": "बढ़ती है", "en": "Increases" },
+            { "hi": "घटती है", "en": "Decreases" },
+            { "hi": "समान रहती है", "en": "Remains same" },
+            { "hi": "शून्य हो जाती है", "en": "Becomes zero" }
           ],
-          "answer": {"hi": "राइबोसोम (Ribosome)", "en": "Ribosome"}
+          "answer": { "hi": "घटती है", "en": "Decreases" }
         },
         {
-          "q": {
-            "hi": "कोशिका भित्ति का मुख्य कार्य क्या है?",
-            "en": "What is the main function of the cell wall?"
-          },
+          "q": { "hi": "धातुओं के ऑक्साइडों की प्रकृति कैसी होती है?", "en": "What is the nature of metallic oxides?" },
           "options": [
-            {"hi": "भोजन बनाना", "en": "Making food"},
-            {"hi": "संरचनात्मक दृढ़ता प्रदान करना", "en": "Providing structural strength"},
-            {"hi": "प्रोटीन बनाना", "en": "Synthesizing protein"},
-            {"hi": "ATP उत्पन्न करना", "en": "Producing ATP"}
+            { "hi": "अम्लीय", "en": "Acidic" },
+            { "hi": "क्षारकीय", "en": "Basic" },
+            { "hi": "उदासीन", "en": "Neutral" },
+            { "hi": "उभयधर्मी", "en": "Amphoteric" }
           ],
-          "answer": {"hi": "संरचनात्मक दृढ़ता प्रदान करना", "en": "Providing structural strength"}
+          "answer": { "hi": "क्षारकीय", "en": "Basic" }
         },
         {
-          "q": {
-            "hi": "ATP का उपयोग कोशिका द्वारा किसके लिए किया जाता है?",
-            "en": "What is ATP used for by the cell?"
-          },
+          "q": { "hi": "अधातुओं के ऑक्साइडों की प्रकृति कैसी होती है?", "en": "What is the nature of non-metallic oxides?" },
           "options": [
-            {"hi": "भोजन पचाने", "en": "Digesting food"},
-            {"hi": "विभिन्न रासायनिक कार्यों के लिए ऊर्जा स्रोत के रूप में", "en": "As an energy source for various chemical activities"},
-            {"hi": "पानी संचित करने", "en": "Storing water"},
-            {"hi": "केवल तैरने के लिए", "en": "Only for swimming"}
+            { "hi": "क्षारकीय", "en": "Basic" },
+            { "hi": "अम्लीय", "en": "Acidic" },
+            { "hi": "उदासीन", "en": "Neutral" },
+            { "hi": "खारी", "en": "Saline" }
           ],
-          "answer": {"hi": "विभिन्न रासायनिक कार्यों के लिए ऊर्जा स्रोत के रूप में", "en": "As an energy source for various chemical activities"}
+          "answer": { "hi": "अम्लीय", "en": "Acidic" }
         },
         {
-          "q": {
-            "hi": "प्लास्टिड में पाए जाने वाले आंतरिक भाग को क्या कहते हैं?",
-            "en": "What is the internal part of a plastid called?"
-          },
+          "q": { "hi": "एक तत्व का इलेक्ट्रॉनिक विन्यास 2, 8, 2 है, इसकी परमाणु संख्या क्या होगी?", "en": "An element has electronic configuration 2, 8, 2. What is its atomic number?" },
           "options": [
-            {"hi": "मैट्रिक्स", "en": "Matrix"},
-            {"hi": "स्ट्रोमा (Stroma)", "en": "Stroma"},
-            {"hi": "क्रिस्टी", "en": "Cristae"},
-            {"hi": "साइटोप्लाज्म", "en": "Cytoplasm"}
+            { "hi": "10", "en": "10" },
+            { "hi": "12", "en": "12" },
+            { "hi": "14", "en": "14" },
+            { "hi": "20", "en": "20" }
           ],
-          "answer": {"hi": "स्ट्रोमा (Stroma)", "en": "Stroma"}
+          "answer": { "hi": "12", "en": "12" }
         },
         {
-          "q": {
-            "hi": "जंतु कोशिका में क्या अनुपस्थित होता है?",
-            "en": "What is absent in an animal cell?"
-          },
+          "q": { "hi": "नाइट्रोजन (परमाणु संख्या 7) का इलेक्ट्रॉनिक विन्यास क्या होगा?", "en": "What is the electronic configuration of Nitrogen (atomic number 7)?" },
           "options": [
-            {"hi": "प्लाज्मा झिल्ली", "en": "Plasma membrane"},
-            {"hi": "कोशिका भित्ति (Cell wall)", "en": "Cell wall"},
-            {"hi": "माइटोकॉन्ड्रिया", "en": "Mitochondria"},
-            {"hi": "केंद्रक", "en": "Nucleus"}
+            { "hi": "2, 5", "en": "2, 5" },
+            { "hi": "5, 2", "en": "5, 2" },
+            { "hi": "2, 8, 7", "en": "2, 8, 7" },
+            { "hi": "7", "en": "7" }
           ],
-          "answer": {"hi": "कोशिका भित्ति (Cell wall)", "en": "Cell wall"}
+          "answer": { "hi": "2, 5", "en": "2, 5" }
         },
         {
-          "q": {
-            "hi": "जीवाणु (Bacteria) की कोशिका कैसी होती है?",
-            "en": "What kind of cell does a bacteria have?"
-          },
+          "q": { "hi": "परमाणु संख्या 12 वाला तत्व किस आवर्त में स्थित होगा?", "en": "The element with atomic number 12 is in which period?" },
           "options": [
-            {"hi": "यूकैरियोटी", "en": "Eukaryotic"},
-            {"hi": "प्रोकैरियोटी (Prokaryotic)", "en": "Prokaryotic"},
-            {"hi": "बहुकोशिकीय", "en": "Multicellular"},
-            {"hi": "विषाणु के समान", "en": "Like a virus"}
+            { "hi": "दूसरे", "en": "Second" },
+            { "hi": "तीसरे", "en": "Third" },
+            { "hi": "चौथे", "en": "Fourth" },
+            { "hi": "पहले", "en": "First" }
           ],
-          "answer": {"hi": "प्रोकैरियोटी (Prokaryotic)", "en": "Prokaryotic"}
+          "answer": { "hi": "तीसरे", "en": "Third" }
         },
         {
-          "q": {
-            "hi": "रसधानियाँ जंतु कोशिकाओं में कैसी होती हैं?",
-            "en": "How are vacuoles in animal cells?"
-          },
+          "q": { "hi": "डोबेरेनर त्रिक का एक उदाहरण कौन सा है?", "en": "What is an example of a Dobereiner triad?" },
           "options": [
-            {"hi": "बहुत बड़ी", "en": "Very large"},
-            {"hi": "छोटी और अस्थायी (Small and temporary)", "en": "Small and temporary"},
-            {"hi": "स्थायी", "en": "Permanent"},
-            {"hi": "होती ही नहीं", "en": "Are not present at all"}
+            { "hi": "H, He, Li", "en": "H, He, Li" },
+            { "hi": "Li, Na, K", "en": "Li, Na, K" },
+            { "hi": "Fe, Co, Ni", "en": "Fe, Co, Ni" },
+            { "hi": "C, N, O", "en": "C, N, O" }
           ],
-          "answer": {"hi": "छोटी और अस्थायी (Small and temporary)", "en": "Small and temporary"}
+          "answer": { "hi": "Li, Na, K", "en": "Li, Na, K" }
         },
         {
-          "q": {
-            "hi": "माइटोकॉन्ड्रिया की बाहरी झिल्ली कैसी होती है?",
-            "en": "How is the outer membrane of mitochondria?"
-          },
+          "q": { "hi": "मेंडलीव की आवर्त सारणी में सुधार कर आधुनिक आवर्त सारणी का आधार क्या बनाया गया?", "en": "Correcting Mendeleev's table, what was made the basis of the Modern Periodic Table?" },
           "options": [
-            {"hi": "बहुत ही वलित (Folded)", "en": "Deeply folded"},
-            {"hi": "छिद्रित (Porous)", "en": "Porous"},
-            {"hi": "कठोर", "en": "Rigid"},
-            {"hi": "मृत", "en": "Dead"}
+            { "hi": "परमाणु आयतन", "en": "Atomic volume" },
+            { "hi": "परमाणु द्रव्यमान", "en": "Atomic mass" },
+            { "hi": "परमाणु संख्या", "en": "Atomic number" },
+            { "hi": "तत्वों की उपलब्धता", "en": "Availability of elements" }
           ],
-          "answer": {"hi": "छिद्रित (Porous)", "en": "Porous"}
+          "answer": { "hi": "परमाणु संख्या", "en": "Atomic number" }
         }
       ]
     },
       "chapter06": {
       "section1": [
         {
-          "q": {
-            "hi": "ऊतक (Tissue) किसे कहते हैं?",
-            "en": "What is a Tissue?"
-          },
+          "q": { "hi": "वे सभी प्रक्रम जो सम्मिलित रूप से अनुरक्षण का कार्य करते हैं, क्या कहलाते हैं?", "en": "What are all the processes which together perform the maintenance job called?" },
           "options": [
-            {"hi": "विभिन्न कार्यों वाली कोशिकाओं का समूह", "en": "Group of cells with different functions"},
-            {"hi": "कोशिकाओं का समूह जो संरचना में समान होती हैं तथा एक साथ मिलकर विशिष्ट कार्य करती हैं", "en": "Group of cells that are similar in structure and work together to achieve a particular function"},
-            {"hi": "केवल एक ही कोशिका", "en": "Only a single cell"},
-            {"hi": "अंगों का समूह", "en": "Group of organs"}
+            { "hi": "जैव प्रक्रम", "en": "Life processes" },
+            { "hi": "श्वसन", "en": "Respiration" },
+            { "hi": "उत्सर्जन", "en": "Excretion" },
+            { "hi": "पोषण", "en": "Nutrition" }
           ],
-          "answer": {"hi": "कोशिकाओं का समूह जो संरचना में समान होती हैं तथा एक साथ मिलकर विशिष्ट कार्य करती हैं", "en": "Group of cells that are similar in structure and work together to achieve a particular function"}
+          "answer": { "hi": "जैव प्रक्रम", "en": "Life processes" }
         },
         {
-          "q": {
-            "hi": "बहुकोशिक जीवों में विशिष्ट कार्य करने के लिए कोशिकाओं के समूह को क्या कहा जाता है?",
-            "en": "What is the group of cells performing specialized functions in multicellular organisms called?"
-          },
+          "q": { "hi": "ऊर्जा के स्रोत को बाहर से शरीर के अंदर लेने के प्रक्रम को क्या कहते हैं?", "en": "What is the process of taking a source of energy from outside the body to the inside called?" },
           "options": [
-            {"hi": "अंग", "en": "Organ"},
-            {"hi": "ऊतक", "en": "Tissue"},
-            {"hi": "अंग तंत्र", "en": "Organ system"},
-            {"hi": "कोशिका द्रव्य", "en": "Cytoplasm"}
+            { "hi": "उत्सर्जन", "en": "Excretion" },
+            { "hi": "श्वसन", "en": "Respiration" },
+            { "hi": "पोषण", "en": "Nutrition" },
+            { "hi": "परिवहन", "en": "Transportation" }
           ],
-          "answer": {"hi": "ऊतक", "en": "Tissue"}
+          "answer": { "hi": "पोषण", "en": "Nutrition" }
         },
         {
-          "q": {
-            "hi": "पौधों में वृद्धि कुछ निश्चित क्षेत्रों में ही क्यों होती है?",
-            "en": "Why does growth in plants occur only in certain specific regions?"
-          },
+          "q": { "hi": "शरीर के बाहर से ऑक्सीजन को ग्रहण करना तथा कोशिकीय आवश्यकता के अनुसार खाद्य स्रोत के विघटन में उसका उपयोग क्या कहलाता है?", "en": "What is the process of acquiring oxygen from outside and using it in the breakdown of food sources for cellular needs called?" },
           "options": [
-            {"hi": "क्योंकि वहां भोजन अधिक होता है", "en": "Because food is abundant there"},
-            {"hi": "विभज्योतक (Meristematic tissue) की उपस्थिति के कारण", "en": "Due to the presence of meristematic tissue"},
-            {"hi": "केवल पानी के कारण", "en": "Only because of water"},
-            {"hi": "स्थायी ऊतकों के कारण", "en": "Due to permanent tissues"}
+            { "hi": "श्वसन", "en": "Respiration" },
+            { "hi": "पोषण", "en": "Nutrition" },
+            { "hi": "पाचन", "en": "Digestion" },
+            { "hi": "उत्सर्जन", "en": "Excretion" }
           ],
-          "answer": {"hi": "विभज्योतक (Meristematic tissue) की उपस्थिति के कारण", "en": "Due to the presence of meristematic tissue"}
+          "answer": { "hi": "श्वसन", "en": "Respiration" }
         },
         {
-          "q": {
-            "hi": "पौधों के तने की लंबाई में वृद्धि किस ऊतक के कारण होती है?",
-            "en": "Growth in the length of plant stems is due to which tissue?"
-          },
+          "q": { "hi": "स्वपोषी जीव की कार्बन तथा ऊर्जा की आवश्यकताएँ किस प्रक्रिया द्वारा पूरी होती हैं?", "en": "How are the carbon and energy requirements of autotrophic organisms met?" },
           "options": [
-            {"hi": "शीर्षस्थ विभज्योतक (Apical meristem)", "en": "Apical meristem"},
-            {"hi": "पार्श्व विभज्योतक", "en": "Lateral meristem"},
-            {"hi": "अंतर्विष्ट विभज्योतक", "en": "Intercalary meristem"},
-            {"hi": "जाइलम", "en": "Xylem"}
+            { "hi": "श्वसन द्वारा", "en": "By respiration" },
+            { "hi": "प्रकाश संश्लेषण द्वारा", "en": "By photosynthesis" },
+            { "hi": "पाचन द्वारा", "en": "By digestion" },
+            { "hi": "उत्सर्जन द्वारा", "en": "By excretion" }
           ],
-          "answer": {"hi": "शीर्षस्थ विभज्योतक (Apical meristem)", "en": "Apical meristem"}
+          "answer": { "hi": "प्रकाश संश्लेषण द्वारा", "en": "By photosynthesis" }
         },
         {
-          "q": {
-            "hi": "तने या जड़ के घेरे (Girth) में वृद्धि किस ऊतक के कारण होती है?",
-            "en": "The increase in the girth of the stem or root is due to which tissue?"
-          },
+          "q": { "hi": "प्रकाश संश्लेषण में सौर ऊर्जा को रासायनिक ऊर्जा में कौन रूपांतरित करता है?", "en": "What converts solar energy into chemical energy during photosynthesis?" },
           "options": [
-            {"hi": "शीर्षस्थ विभज्योतक", "en": "Apical meristem"},
-            {"hi": "पार्श्व विभज्योतक (Lateral meristem)", "en": "Lateral meristem"},
-            {"hi": "फ्लोएम", "en": "Phloem"},
-            {"hi": "पैरेन्काइमा", "en": "Parenchyma"}
+            { "hi": "माइटोकॉन्ड्रिया", "en": "Mitochondria" },
+            { "hi": "क्लोरोफिल", "en": "Chlorophyll" },
+            { "hi": "जाइलम", "en": "Xylem" },
+            { "hi": "फ्लोएम", "en": "Phloem" }
           ],
-          "answer": {"hi": "पार्श्व विभज्योतक (Lateral meristem)", "en": "Lateral meristem"}
+          "answer": { "hi": "क्लोरोफिल", "en": "Chlorophyll" }
         },
         {
-          "q": {
-            "hi": "विभज्योतक कोशिकाओं में क्या अनुपस्थित होता है?",
-            "en": "What is absent in meristematic cells?"
-          },
+          "q": { "hi": "पौधों में कार्बोहाइड्रेट किस रूप में संचित होता है?", "en": "In what form is carbohydrate stored in plants?" },
           "options": [
-            {"hi": "केंद्रक", "en": "Nucleus"},
-            {"hi": "साइटोप्लाज्म", "en": "Cytoplasm"},
-            {"hi": "रसधानियाँ (Vacuoles)", "en": "Vacuoles"},
-            {"hi": "कोशिका भित्ति", "en": "Cell wall"}
+            { "hi": "ग्लाइकोजन", "en": "Glycogen" },
+            { "hi": "वसा", "en": "Fat" },
+            { "hi": "मंड (Starch)", "en": "Starch" },
+            { "hi": "प्रोटीन", "en": "Protein" }
           ],
-          "answer": {"hi": "रसधानियाँ (Vacuoles)", "en": "Vacuoles"}
+          "answer": { "hi": "मंड (Starch)", "en": "Starch" }
         },
         {
-          "q": {
-            "hi": "विभेदीकरण (Differentiation) की प्रक्रिया क्या है?",
-            "en": "What is the process of differentiation?"
-          },
+          "q": { "hi": "हमारे शरीर में भोजन से प्राप्त ऊर्जा का कुछ भाग किस रूप में संचित होता है?", "en": "In what form is some of the energy derived from food stored in our body?" },
           "options": [
-            {"hi": "कोशिकाओं का मरना", "en": "Death of cells"},
-            {"hi": "कोशिकाओं द्वारा विशिष्ट कार्य, रूप और आकार लेने की प्रक्रिया", "en": "Process of taking up a permanent shape, size, and function"},
-            {"hi": "केवल कोशिका विभाजन", "en": "Only cell division"},
-            {"hi": "भोजन का परिवहन", "en": "Transportation of food"}
+            { "hi": "मंड", "en": "Starch" },
+            { "hi": "ग्लाइकोजन", "en": "Glycogen" },
+            { "hi": "अमीनो अम्ल", "en": "Amino acids" },
+            { "hi": "ग्लूकोज", "en": "Glucose" }
           ],
-          "answer": {"hi": "कोशिकाओं द्वारा विशिष्ट कार्य, रूप और आकार लेने की प्रक्रिया", "en": "Process of taking up a permanent shape, size, and function"}
+          "answer": { "hi": "ग्लाइकोजन", "en": "Glycogen" }
         },
         {
-          "q": {
-            "hi": "पौधों में सबसे अधिक पाया जाने वाला सरल स्थायी ऊतक कौन सा है?",
-            "en": "Which is the most common simple permanent tissue in plants?"
-          },
+          "q": { "hi": "गैस विनिमय के लिए पत्तियों की सतह पर जो सूक्ष्म छिद्र होते हैं, उन्हें क्या कहते हैं?", "en": "What are the tiny pores present on the surface of leaves for gas exchange called?" },
           "options": [
-            {"hi": "कोलेन्काइमा", "en": "Collenchyma"},
-            {"hi": "स्क्लेरेन्काइमा", "en": "Sclerenchyma"},
-            {"hi": "पैरेन्काइमा (Parenchyma)", "en": "Parenchyma"},
-            {"hi": "जाइलम", "en": "Xylem"}
+            { "hi": "कोशिका", "en": "Cell" },
+            { "hi": "रंध्र (Stomata)", "en": "Stomata" },
+            { "hi": "क्लोरोप्लास्ट", "en": "Chloroplast" },
+            { "hi": "जाइलम", "en": "Xylem" }
           ],
-          "answer": {"hi": "पैरेन्काइमा (Parenchyma)", "en": "Parenchyma"}
+          "answer": { "hi": "रंध्र (Stomata)", "en": "Stomata" }
         },
         {
-          "q": {
-            "hi": "जलीय पौधों में तैरने के लिए पैरेन्काइमा के बीच बड़े वायु क्षेत्र होते हैं, इसे क्या कहते हैं?",
-            "en": "In aquatic plants, parenchyma has large air cavities to help them float, what is it called?"
-          },
+          "q": { "hi": "रंध्रों के खुलने और बंद होने के कार्य को कौन नियंत्रित करता है?", "en": "What regulates the opening and closing of stomatal pores?" },
           "options": [
-            {"hi": "क्लोरेन्काइमा", "en": "Chlorenchyma"},
-            {"hi": "एरेन्काइमा (Aerenchyma)", "en": "Aerenchyma"},
-            {"hi": "जाइलम", "en": "Xylem"},
-            {"hi": "फ्लोएम", "en": "Phloem"}
+            { "hi": "द्वार कोशिकाएँ (Guard cells)", "en": "Guard cells" },
+            { "hi": "जड़ें", "en": "Roots" },
+            { "hi": "जाइलम", "en": "Xylem" },
+            { "hi": "फ्लोएम", "en": "Phloem" }
           ],
-          "answer": {"hi": "एरेन्काइमा (Aerenchyma)", "en": "Aerenchyma"}
+          "answer": { "hi": "द्वार कोशिकाएँ (Guard cells)", "en": "Guard cells" }
         },
         {
-          "q": {
-            "hi": "पौधों को लचीलापन प्रदान करने वाले ऊतक का नाम क्या है?",
-            "en": "What is the name of the tissue that provides flexibility to plants?"
-          },
+          "q": { "hi": "अमीबा अपना भोजन किसकी सहायता से ग्रहण करता है?", "en": "With the help of what does Amoeba take in its food?" },
           "options": [
-            {"hi": "पैरेन्काइमा", "en": "Parenchyma"},
-            {"hi": "कोलेन्काइमा (Collenchyma)", "en": "Collenchyma"},
-            {"hi": "स्क्लेरेन्काइमा", "en": "Sclerenchyma"},
-            {"hi": "एपिडर्मिस", "en": "Epidermis"}
+            { "hi": "मुँह", "en": "Mouth" },
+            { "hi": "पादाम (Pseudopodia)", "en": "Pseudopodia" },
+            { "hi": "केंद्रक", "en": "Nucleus" },
+            { "hi": "रिक्तिका", "en": "Vacuole" }
           ],
-          "answer": {"hi": "कोलेन्काइमा (Collenchyma)", "en": "Collenchyma"}
+          "answer": { "hi": "पादाम (Pseudopodia)", "en": "Pseudopodia" }
         }
       ],
       "section2": [
         {
-          "q": {
-            "hi": "कौन सा ऊतक पौधों को कठोर और मजबूत बनाता है, जैसे नारियल का छिलका?",
-            "en": "Which tissue makes the plant hard and stiff, like the husk of a coconut?"
-          },
+          "q": { "hi": "लार में कौन सा एंजाइम होता है?", "en": "Which enzyme is present in saliva?" },
           "options": [
-            {"hi": "पैरेन्काइमा", "en": "Parenchyma"},
-            {"hi": "कोलेन्काइमा", "en": "Collenchyma"},
-            {"hi": "स्क्लेरेन्काइमा (Sclerenchyma)", "en": "Sclerenchyma"},
-            {"hi": "मज्जा", "en": "Pith"}
+            { "hi": "पेप्सिन", "en": "Pepsin" },
+            { "hi": "लार एमिलेस (Salivary amylase)", "en": "Salivary amylase" },
+            { "hi": "ट्रिप्सिन", "en": "Trypsin" },
+            { "hi": "लाइपेज", "en": "Lipase" }
           ],
-          "answer": {"hi": "स्क्लेरेन्काइमा (Sclerenchyma)", "en": "Sclerenchyma"}
+          "answer": { "hi": "लार एमिलेस (Salivary amylase)", "en": "Salivary amylase" }
         },
         {
-          "q": {
-            "hi": "स्क्लेरेन्काइमा ऊतक की कोशिका भित्ति किस रासायनिक पदार्थ के कारण मोटी होती है?",
-            "en": "The cell walls of sclerenchyma tissue are thickened due to which chemical substance?"
-          },
+          "q": { "hi": "आहारनाल का सबसे लंबा भाग कौन सा है?", "en": "Which is the longest part of the alimentary canal?" },
           "options": [
-            {"hi": "सेलूलोज़", "en": "Cellulose"},
-            {"hi": "लिग्निन (Lignin)", "en": "Lignin"},
-            {"hi": "पेक्टिन", "en": "Pectin"},
-            {"hi": "प्रोटीन", "en": "Protein"}
+            { "hi": "आमाशय", "en": "Stomach" },
+            { "hi": "ग्रसिका", "en": "Oesophagus" },
+            { "hi": "क्षुद्रांत्र (Small intestine)", "en": "Small intestine" },
+            { "hi": "बृहदांत्र", "en": "Large intestine" }
           ],
-          "answer": {"hi": "लिग्निन (Lignin)", "en": "Lignin"}
+          "answer": { "hi": "क्षुद्रांत्र (Small intestine)", "en": "Small intestine" }
         },
         {
-          "q": {
-            "hi": "पौधे की सबसे बाहरी परत को क्या कहते हैं?",
-            "en": "What is the outermost layer of a plant called?"
-          },
+          "q": { "hi": "आमाशय में पेप्सिन एंजाइम की क्रिया के लिए कौन सा माध्यम आवश्यक है?", "en": "Which medium is necessary for the action of pepsin enzyme in the stomach?" },
           "options": [
-            {"hi": "छाल", "en": "Bark"},
-            {"hi": "एपिडर्मिस (Epidermis)", "en": "Epidermis"},
-            {"hi": "मज्जा", "en": "Pith"},
-            {"hi": "जाइलम", "en": "Xylem"}
+            { "hi": "क्षारीय", "en": "Alkaline" },
+            { "hi": "अम्लीय", "en": "Acidic" },
+            { "hi": "उदासीन", "en": "Neutral" },
+            { "hi": "लवणीय", "en": "Saline" }
           ],
-          "answer": {"hi": "एपिडर्मिस (Epidermis)", "en": "Epidermis"}
+          "answer": { "hi": "अम्लीय", "en": "Acidic" }
         },
         {
-          "q": {
-            "hi": "पत्तियों की एपिडर्मिस में छोटे-छोटे छिद्र होते हैं, उन्हें क्या कहते हैं?",
-            "en": "There are small pores in the epidermis of leaves, what are they called?"
-          },
+          "q": { "hi": "यकृत से निकलने वाला पित्त रस क्या कार्य करता है?", "en": "What is the function of bile juice secreted from the liver?" },
           "options": [
-            {"hi": "कोशिका", "en": "Cell"},
-            {"hi": "रंध्र (Stomata)", "en": "Stomata"},
-            {"hi": "गार्ड कोशिकाएं", "en": "Guard cells"},
-            {"hi": "नलिकाएं", "en": "Vessels"}
+            { "hi": "प्रोटीन का पाचन", "en": "Digestion of protein" },
+            { "hi": "वसा का इमल्सीकरण", "en": "Emulsification of fats" },
+            { "hi": "भोजन को अम्लीय बनाना", "en": "Making food acidic" },
+            { "hi": "स्टार्च का पाचन", "en": "Digestion of starch" }
           ],
-          "answer": {"hi": "रंध्र (Stomata)", "en": "Stomata"}
+          "answer": { "hi": "वसा का इमल्सीकरण", "en": "Emulsification of fats" }
         },
         {
-          "q": {
-            "hi": "रंध्र (Stomata) को घेरने वाली कोशिकाओं को क्या कहते हैं?",
-            "en": "What are the cells that enclose stomata called?"
-          },
+          "q": { "hi": "क्षुद्रांत्र के आंतरिक स्तर पर अनेक अंगुली जैसे प्रवर्ध होते हैं, उन्हें क्या कहते हैं?", "en": "What are the numerous finger-like projections on the inner lining of the small intestine called?" },
           "options": [
-            {"hi": "एपिडर्मल कोशिकाएं", "en": "Epidermal cells"},
-            {"hi": "रक्षी कोशिकाएं (Guard cells)", "en": "Guard cells"},
-            {"hi": "पैरेन्काइमा", "en": "Parenchyma"},
-            {"hi": "मेसोफिल", "en": "Mesophyll"}
+            { "hi": "कोशिका", "en": "Cell" },
+            { "hi": "दीर्घरोम (Villi)", "en": "Villi" },
+            { "hi": "ग्रंथि", "en": "Gland" },
+            { "hi": "रंध्र", "en": "Stomata" }
           ],
-          "answer": {"hi": "रक्षी कोशिकाएं (Guard cells)", "en": "Guard cells"}
+          "answer": { "hi": "दीर्घरोम (Villi)", "en": "Villi" }
         },
         {
-          "q": {
-            "hi": "जटिल ऊतक (Complex tissue) के उदाहरण कौन से हैं?",
-            "en": "What are the examples of complex tissues?"
-          },
+          "q": { "hi": "ग्लूकोज के विखंडन से बना पायरुवेट 3 कार्बन वाला अणु है, यह प्रक्रिया कहाँ होती है?", "en": "The breakdown of glucose into pyruvate (a 3-carbon molecule) takes place in?" },
           "options": [
-            {"hi": "पैरेन्काइमा और कोलेन्काइमा", "en": "Parenchyma and Collenchyma"},
-            {"hi": "जाइलम और फ्लोएम (Xylem and Phloem)", "en": "Xylem and Phloem"},
-            {"hi": "स्क्लेरेन्काइमा और एपिडर्मिस", "en": "Sclerenchyma and Epidermis"},
-            {"hi": "केवल जाइलम", "en": "Only Xylem"}
+            { "hi": "माइटोकॉन्ड्रिया", "en": "Mitochondria" },
+            { "hi": "केंद्रक", "en": "Nucleus" },
+            { "hi": "कोशिकाद्रव्य (Cytoplasm)", "en": "Cytoplasm" },
+            { "hi": "हरित लवक", "en": "Chloroplast" }
           ],
-          "answer": {"hi": "जाइलम और फ्लोएम (Xylem and Phloem)", "en": "Xylem and Phloem"}
+          "answer": { "hi": "कोशिकाद्रव्य (Cytoplasm)", "en": "Cytoplasm" }
         },
         {
-          "q": {
-            "hi": "जाइलम का मुख्य कार्य क्या है?",
-            "en": "What is the main function of Xylem?"
-          },
+          "q": { "hi": "ऑक्सीजन की उपस्थिति में पायरुवेट का विखंडन कहाँ होता है?", "en": "Where does the breakdown of pyruvate in the presence of oxygen take place?" },
           "options": [
-            {"hi": "भोजन का संवहन", "en": "Conduction of food"},
-            {"hi": "पानी और खनिजों का ऊर्ध्वाधर संवहन", "en": "Vertical conduction of water and minerals"},
-            {"hi": "पौधे को लचीला बनाना", "en": "Providing flexibility to the plant"},
-            {"hi": "प्रकाश संश्लेषण", "en": "Photosynthesis"}
+            { "hi": "कोशिकाद्रव्य", "en": "Cytoplasm" },
+            { "hi": "माइटोकॉन्ड्रिया", "en": "Mitochondria" },
+            { "hi": "केंद्रक", "en": "Nucleus" },
+            { "hi": "राइबोसोम", "en": "Ribosome" }
           ],
-          "answer": {"hi": "पानी और खनिजों का ऊर्ध्वाधर संवहन", "en": "Vertical conduction of water and minerals"}
+          "answer": { "hi": "माइटोकॉन्ड्रिया", "en": "Mitochondria" }
         },
         {
-          "q": {
-            "hi": "फ्लोएम का मुख्य कार्य क्या है?",
-            "en": "What is the main function of Phloem?"
-          },
+          "q": { "hi": "अवायवीय श्वसन (Anerobic respiration) का एक उत्पाद क्या है?", "en": "What is a product of anaerobic respiration?" },
           "options": [
-            {"hi": "पानी का परिवहन", "en": "Transportation of water"},
-            {"hi": "भोजन को पत्तियों से पौधे के अन्य भागों तक पहुँचाना", "en": "Transporting food from leaves to other parts of the plant"},
-            {"hi": "पौधे को सहारा देना", "en": "Giving support to the plant"},
-            {"hi": "गैसों का आदान-प्रदान", "en": "Exchange of gases"}
+            { "hi": "एथेनॉल", "en": "Ethanol" },
+            { "hi": "ग्लूकोज", "en": "Glucose" },
+            { "hi": "ऑक्सीजन", "en": "Oxygen" },
+            { "hi": "प्रोटीन", "en": "Protein" }
           ],
-          "answer": {"hi": "भोजन को पत्तियों से पौधे के अन्य भागों तक पहुँचाना", "en": "Transporting food from leaves to other parts of the plant"}
+          "answer": { "hi": "एथेनॉल", "en": "Ethanol" }
         },
         {
-          "q": {
-            "hi": "फ्लोएम में कौन सा घटक मृत नहीं होता (जीवित होता है)?",
-            "en": "Which component in Phloem is not dead (is living)?"
-          },
+          "q": { "hi": "कोशिकीय प्रक्रमों में ऊर्जा मुद्रा (Energy currency) किसे कहते हैं?", "en": "What is the energy currency for cellular processes?" },
           "options": [
-            {"hi": "फ्लोएम रेशे", "en": "Phloem fibres"},
-            {"hi": "चालनी नलिकाएं, साथी कोशिकाएं और फ्लोएम पैरेन्काइमा", "en": "Sieve tubes, companion cells, and phloem parenchyma"},
-            {"hi": "केवल फ्लोएम रेशे", "en": "Only phloem fibres"},
-            {"hi": "सभी घटक मृत होते हैं", "en": "All components are dead"}
+            { "hi": "ADP", "en": "ADP" },
+            { "hi": "ATP", "en": "ATP" },
+            { "hi": "DNA", "en": "DNA" },
+            { "hi": "RNA", "en": "RNA" }
           ],
-          "answer": {"hi": "चालनी नलिकाएं, साथी कोशिकाएं और फ्लोएम पैरेन्काइमा", "en": "Sieve tubes, companion cells, and phloem parenchyma"}
+          "answer": { "hi": "ATP", "en": "ATP" }
         },
         {
-          "q": {
-            "hi": "मरुस्थलीय पौधों की एपिडर्मिस पर किस जल अवरोधक पदार्थ की परत होती है?",
-            "en": "The epidermis of desert plants has a layer of which water-resistant substance?"
-          },
+          "q": { "hi": "हमारी पेशी कोशिकाओं में अचानक क्रिया होने पर लैक्टिक अम्ल बनने से क्या होता है?", "en": "What happens when lactic acid is formed in our muscle cells during sudden activity?" },
           "options": [
-            {"hi": "लिग्निन", "en": "Lignin"},
-            {"hi": "क्यूटिन (Cutin)", "en": "Cutin"},
-            {"hi": "सेलूलोज़", "en": "Cellulose"},
-            {"hi": "पेक्टिन", "en": "Pectin"}
+            { "hi": "ऊर्जा में वृद्धि", "en": "Increase in energy" },
+            { "hi": "क्रैम्प (Cramps)", "en": "Cramps" },
+            { "hi": "नींद आना", "en": "Sleepiness" },
+            { "hi": "भूख लगना", "en": "Hunger" }
           ],
-          "answer": {"hi": "क्यूटिन (Cutin)", "en": "Cutin"}
+          "answer": { "hi": "क्रैम्प (Cramps)", "en": "Cramps" }
         }
       ],
       "section3": [
         {
-          "q": {
-            "hi": "जंतुओं के शरीर को ढकने या बाह्य रक्षा प्रदान करने वाले ऊतक को क्या कहते हैं?",
-            "en": "What is the tissue that covers or protects the body of animals called?"
-          },
+          "q": { "hi": "मनुष्य के श्वसन तंत्र में गैसों के विनिमय के लिए सतह कौन उपलब्ध कराता है?", "en": "What provides a surface for the exchange of gases in the human respiratory system?" },
           "options": [
-            {"hi": "संयोजी ऊतक", "en": "Connective tissue"},
-            {"hi": "एपिकिलियमी ऊतक (Epithelial tissue)", "en": "Epithelial tissue"},
-            {"hi": "पेशीय ऊतक", "en": "Muscular tissue"},
-            {"hi": "तंत्रिका ऊतक", "en": "Nervous tissue"}
+            { "hi": "नासिका", "en": "Nostrils" },
+            { "hi": "कंठ", "en": "Larynx" },
+            { "hi": "कूपिका (Alveoli)", "en": "Alveoli" },
+            { "hi": "श्वसनी", "en": "Bronchi" }
           ],
-          "answer": {"hi": "एपिकिलियमी ऊतक (Epithelial tissue)", "en": "Epithelial tissue"}
+          "answer": { "hi": "कूपिका (Alveoli)", "en": "Alveoli" }
         },
         {
-          "q": {
-            "hi": "रक्त वाहिका या फेफड़ों की कोष्ठिका (Alveoli) में किस प्रकार का एपिथीलियम पाया जाता है?",
-            "en": "What type of epithelium is found in blood vessels or lung alveoli?"
-          },
+          "q": { "hi": "मानव में श्वसन वर्णक (Respiratory pigment) कौन सा है?", "en": "Which is the respiratory pigment in humans?" },
           "options": [
-            {"hi": "घनाकार एपिथीलियम", "en": "Cuboidal epithelium"},
-            {"hi": "स्तंभाकार एपिथीलियम", "en": "Columnar epithelium"},
-            {"hi": "सरल शल्की एपिथीलियम (Simple squamous epithelium)", "en": "Simple squamous epithelium"},
-            {"hi": "ग्रंथिल एपिथीलियम", "en": "Glandular epithelium"}
+            { "hi": "क्लोरोफिल", "en": "Chlorophyll" },
+            { "hi": "हीमोग्लोबिन", "en": "Haemoglobin" },
+            { "hi": "प्लाज्मा", "en": "Plasma" },
+            { "hi": "श्वेत रक्त कणिका", "en": "White blood cells" }
           ],
-          "answer": {"hi": "सरल शल्की एपिथीलियम (Simple squamous epithelium)", "en": "Simple squamous epithelium"}
+          "answer": { "hi": "हीमोग्लोबिन", "en": "Haemoglobin" }
         },
         {
-          "q": {
-            "hi": "त्वचा की सुरक्षा के लिए शल्की एपिथीलियम की कई परतें होती हैं, इसे क्या कहते हैं?",
-            "en": "Skin epithelium consists of many layers to prevent wear and tear, what is it called?"
-          },
+          "q": { "hi": "रुधिर का तरल माध्यम क्या कहलाता है?", "en": "What is the fluid medium of blood called?" },
           "options": [
-            {"hi": "सरल शल्की एपिथीलियम", "en": "Simple squamous epithelium"},
-            {"hi": "स्तरित शल्की एपिथीलियम (Stratified squamous epithelium)", "en": "Stratified squamous epithelium"},
-            {"hi": "रोमश एपिथीलियम", "en": "Ciliated epithelium"},
-            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+            { "hi": "प्लेटलेट्स", "en": "Platelets" },
+            { "hi": "प्लाज्मा", "en": "Plasma" },
+            { "hi": "हीमोग्लोबिन", "en": "Haemoglobin" },
+            { "hi": "सीरम", "en": "Serum" }
           ],
-          "answer": {"hi": "स्तरित शल्की एपिथीलियम (Stratified squamous epithelium)", "en": "Stratified squamous epithelium"}
+          "answer": { "hi": "प्लाज्मा", "en": "Plasma" }
         },
         {
-          "q": {
-            "hi": "रक्त (Blood) किस प्रकार का ऊतक है?",
-            "en": "What type of tissue is Blood?"
-          },
+          "q": { "hi": "हृदय का कौन सा भाग शरीर के विभिन्न भागों से विऑक्सीजनित रुधिर प्राप्त करता है?", "en": "Which part of the heart receives deoxygenated blood from various parts of the body?" },
           "options": [
-            {"hi": "एपिकिलियमी ऊतक", "en": "Epithelial tissue"},
-            {"hi": "संयोजी ऊतक (Connective tissue)", "en": "Connective tissue"},
-            {"hi": "पेशीय ऊतक", "en": "Muscular tissue"},
-            {"hi": "तंत्रिका ऊतक", "en": "Nervous tissue"}
+            { "hi": "बायाँ अलिंद", "en": "Left atrium" },
+            { "hi": "दायाँ अलिंद", "en": "Right atrium" },
+            { "hi": "बायाँ निलय", "en": "Left ventricle" },
+            { "hi": "दायाँ निलय", "en": "Right ventricle" }
           ],
-          "answer": {"hi": "संयोजी ऊतक (Connective tissue)", "en": "Connective tissue"}
+          "answer": { "hi": "दायाँ अलिंद", "en": "Right atrium" }
         },
         {
-          "q": {
-            "hi": "रक्त के तरल आधात्री (Matrix) भाग को क्या कहते हैं?",
-            "en": "What is the liquid matrix part of blood called?"
-          },
+          "q": { "hi": "रुधिर वाहिकाएँ जो रुधिर को हृदय से शरीर के विभिन्न अंगों तक ले जाती हैं, क्या कहलाती हैं?", "en": "What are blood vessels that carry blood away from the heart to various organs called?" },
           "options": [
-            {"hi": "RBC", "en": "RBC"},
-            {"hi": "WBC", "en": "WBC"},
-            {"hi": "प्लाज्मा (Plasma)", "en": "Plasma"},
-            {"hi": "प्लेटलेट्स", "en": "Platelets"}
+            { "hi": "शिराएँ", "en": "Veins" },
+            { "hi": "धमनियाँ (Arteries)", "en": "Arteries" },
+            { "hi": "केशिकाएँ", "en": "Capillaries" },
+            { "hi": "वाल्व", "en": "Valves" }
           ],
-          "answer": {"hi": "प्लाज्मा (Plasma)", "en": "Plasma"}
+          "answer": { "hi": "धमनियाँ (Arteries)", "en": "Arteries" }
         },
         {
-          "q": {
-            "hi": "अस्थि (Bone) किस प्रकार के ऊतक का उदाहरण है?",
-            "en": "Bone is an example of which type of tissue?"
-          },
+          "q": { "hi": "रुधिर में कौन सी कोशिकाएँ चोट के स्थान पर रुधिर का थक्का बनाकर मार्ग अवरुद्ध करती हैं?", "en": "Which cells in the blood block the leakage by forming a clot at the site of injury?" },
           "options": [
-            {"hi": "संयोजी ऊतक (Connective tissue)", "en": "Connective tissue"},
-            {"hi": "एपिकिलियमी ऊतक", "en": "Epithelial tissue"},
-            {"hi": "पेशीय ऊतक", "en": "Muscular tissue"},
-            {"hi": "तंत्रिका ऊतक", "en": "Nervous tissue"}
+            { "hi": "लाल रक्त कोशिकाएँ", "en": "Red blood cells" },
+            { "hi": "श्वेत रक्त कोशिकाएँ", "en": "White blood cells" },
+            { "hi": "प्लेटलेट्स (Platelets)", "en": "Platelets" },
+            { "hi": "प्लाज्मा", "en": "Plasma" }
           ],
-          "answer": {"hi": "संयोजी ऊतक (Connective tissue)", "en": "Connective tissue"}
+          "answer": { "hi": "प्लेटलेट्स (Platelets)", "en": "Platelets" }
         },
         {
-          "q": {
-            "hi": "दो अस्थियों को आपस में जोड़ने वाले ऊतक को क्या कहते हैं?",
-            "en": "What is the tissue that connects two bones together called?"
-          },
+          "q": { "hi": "एक अन्य द्रव जो वहन में सहायता करता है, उसे क्या कहते हैं?", "en": "What is another fluid involved in transportation called?" },
           "options": [
-            {"hi": "कंडरा", "en": "Tendon"},
-            {"hi": "स्नायु (Ligament)", "en": "Ligament"},
-            {"hi": "उपास्थि", "en": "Cartilage"},
-            {"hi": "एरिओलार", "en": "Areolar"}
+            { "hi": "लसीका (Lymph)", "en": "Lymph" },
+            { "hi": "मूत्र", "en": "Urine" },
+            { "hi": "पसीना", "en": "Sweat" },
+            { "hi": "लार", "en": "Saliva" }
           ],
-          "answer": {"hi": "स्नायु (Ligament)", "en": "Ligament"}
+          "answer": { "hi": "लसीका (Lymph)", "en": "Lymph" }
         },
         {
-          "q": {
-            "hi": "मांसपेशियों को अस्थियों से जोड़ने वाले ऊतक को क्या कहते हैं?",
-            "en": "What is the tissue that connects muscles to bones called?"
-          },
+          "q": { "hi": "पादप में जाइलम किसके वहन के लिए उत्तरदायी है?", "en": "Xylem in plants is responsible for the transport of?" },
           "options": [
-            {"hi": "स्नायु", "en": "Ligament"},
-            {"hi": "कंडरा (Tendon)", "en": "Tendon"},
-            {"hi": "वसामय", "en": "Adipose"},
-            {"hi": "तंत्रिका", "en": "Nerve"}
+            { "hi": "भोजन", "en": "Food" },
+            { "hi": "अमीनो अम्ल", "en": "Amino acids" },
+            { "hi": "जल (Water)", "en": "Water" },
+            { "hi": "ऑक्सीजन", "en": "Oxygen" }
           ],
-          "answer": {"hi": "कंडरा (Tendon)", "en": "Tendon"}
+          "answer": { "hi": "जल (Water)", "en": "Water" }
         },
         {
-          "q": {
-            "hi": "नाक, कान, कंठ और श्वास नली में कौन सा संयोजी ऊतक पाया जाता है जो अस्थि से मुलायम होता है?",
-            "en": "Which connective tissue, softer than bone, is found in the nose, ear, throat, and trachea?"
-          },
+          "q": { "hi": "पादप में प्रकाश संश्लेषण के उत्पादों का वहन कौन करता है?", "en": "What transports the products of photosynthesis in plants?" },
           "options": [
-            {"hi": "स्नायु", "en": "Ligament"},
-            {"hi": "कंडरा", "en": "Tendon"},
-            {"hi": "उपास्थि (Cartilage)", "en": "Cartilage"},
-            {"hi": "वसामय", "en": "Adipose"}
+            { "hi": "जाइलम", "en": "Xylem" },
+            { "hi": "फ्लोएम (Phloem)", "en": "Phloem" },
+            { "hi": "जड़ें", "en": "Roots" },
+            { "hi": "रंध्र", "en": "Stomata" }
           ],
-          "answer": {"hi": "उपास्थि (Cartilage)", "en": "Cartilage"}
+          "answer": { "hi": "फ्लोएम (Phloem)", "en": "Phloem" }
         },
         {
-          "q": {
-            "hi": "वसा का संचय करने वाले ऊतक का नाम क्या है?",
-            "en": "What is the name of the tissue that stores fat?"
-          },
+          "q": { "hi": "पौधों द्वारा वायवीय भागों से वाष्प के रूप में जल की हानि को क्या कहते हैं?", "en": "What is the loss of water in the form of vapor from the aerial parts of the plant called?" },
           "options": [
-            {"hi": "एरिओलार ऊतक", "en": "Areolar tissue"},
-            {"hi": "वसामय ऊतक (Adipose tissue)", "en": "Adipose tissue"},
-            {"hi": "उपास्थि", "en": "Cartilage"},
-            {"hi": "स्नायु", "en": "Ligament"}
+            { "hi": "श्वसन", "en": "Respiration" },
+            { "hi": "वाष्पोत्सर्जन (Transpiration)", "en": "Transpiration" },
+            { "hi": "स्थानांतरण", "en": "Translocation" },
+            { "hi": "प्रकाश संश्लेषण", "en": "Photosynthesis" }
           ],
-          "answer": {"hi": "वसामय ऊतक (Adipose tissue)", "en": "Adipose tissue"}
+          "answer": { "hi": "वाष्पोत्सर्जन (Transpiration)", "en": "Transpiration" }
         }
       ],
       "section4": [
         {
-          "q": {
-            "hi": "हमारे शरीर में गति के लिए उत्तरदायी ऊतक कौन सा है?",
-            "en": "Which tissue is responsible for movement in our body?"
-          },
+          "q": { "hi": "मनुष्य में वृक्क (Kidney) किस तंत्र का भाग है?", "en": "In humans, the kidney is a part of which system?" },
           "options": [
-            {"hi": "संयोजी ऊतक", "en": "Connective tissue"},
-            {"hi": "पेशीय ऊतक (Muscular tissue)", "en": "Muscular tissue"},
-            {"hi": "तंत्रिका ऊतक", "en": "Nervous tissue"},
-            {"hi": "एपिथीलियम", "en": "Epithelium"}
+            { "hi": "पोषण", "en": "Nutrition" },
+            { "hi": "श्वसन", "en": "Respiration" },
+            { "hi": "उत्सर्जन (Excretion)", "en": "Excretion" },
+            { "hi": "परिवहन", "en": "Transportation" }
           ],
-          "answer": {"hi": "पेशीय ऊतक (Muscular tissue)", "en": "Muscular tissue"}
+          "answer": { "hi": "उत्सर्जन (Excretion)", "en": "Excretion" }
         },
         {
-          "q": {
-            "hi": "जिन पेशियों को हम अपनी इच्छानुसार गति करा सकते हैं, उन्हें क्या कहते हैं?",
-            "en": "What are the muscles called that we can move according to our will?"
-          },
+          "q": { "hi": "वृक्क की आधारी निस्यंदन इकाई (Functional unit) क्या कहलाती है?", "en": "What is the basic filtration unit of the kidney called?" },
           "options": [
-            {"hi": "अनैच्छिक पेशी", "en": "Involuntary muscles"},
-            {"hi": "ऐच्छिक पेशी (Voluntary muscles)", "en": "Voluntary muscles"},
-            {"hi": "हृदयक पेशी", "en": "Cardiac muscles"},
-            {"hi": "चिकनी पेशी", "en": "Smooth muscles"}
+            { "hi": "न्यूरॉन", "en": "Neuron" },
+            { "hi": "वृक्काणु (Nephron)", "en": "Nephron" },
+            { "hi": "कूपिका", "en": "Alveoli" },
+            { "hi": "धमनी", "en": "Artery" }
           ],
-          "answer": {"hi": "ऐच्छिक पेशी (Voluntary muscles)", "en": "Voluntary muscles"}
+          "answer": { "hi": "वृक्काणु (Nephron)", "en": "Nephron" }
         },
         {
-          "q": {
-            "hi": "कंकाल पेशी (Skeletal muscle) को और क्या कहा जाता है?",
-            "en": "What is skeletal muscle also called?"
-          },
+          "q": { "hi": "मूत्र बनने के बाद वृक्क से कहाँ जाता है?", "en": "After being produced in the kidney, where does urine go?" },
           "options": [
-            {"hi": "अरेखित पेशी", "en": "Unstriated muscle"},
-            {"hi": "रेखित पेशी (Striated muscle)", "en": "Striated muscle"},
-            {"hi": "हृदयक पेशी", "en": "Cardiac muscle"},
-            {"hi": "तंत्रिका पेशी", "en": "Nervous muscle"}
+            { "hi": "मूत्र मार्ग", "en": "Urethra" },
+            { "hi": "मूत्रनली (Ureter)", "en": "Ureter" },
+            { "hi": "मूत्राशय", "en": "Urinary bladder" },
+            { "hi": "हृदय", "en": "Heart" }
           ],
-          "answer": {"hi": "रेखित पेशी (Striated muscle)", "en": "Striated muscle"}
+          "answer": { "hi": "मूत्रनली (Ureter)", "en": "Ureter" }
         },
         {
-          "q": {
-            "hi": "आहार नली में भोजन का प्रवाह किस प्रकार की पेशी द्वारा होता है?",
-            "en": "The flow of food in the alimentary canal is controlled by which type of muscle?"
-          },
+          "q": { "hi": "मूत्र कहाँ संचित रहता है?", "en": "Where is urine stored?" },
           "options": [
-            {"hi": "ऐच्छिक पेशी", "en": "Voluntary muscle"},
-            {"hi": "अनैच्छिक पेशी (Involuntary muscle)", "en": "Involuntary muscle"},
-            {"hi": "कंकाल पेशी", "en": "Skeletal muscle"},
-            {"hi": "हृदयक पेशी", "en": "Cardiac muscle"}
+            { "hi": "वृक्क", "en": "Kidney" },
+            { "hi": "मूत्राशय (Urinary bladder)", "en": "Urinary bladder" },
+            { "hi": "यकृत", "en": "Liver" },
+            { "hi": "आमाशय", "en": "Stomach" }
           ],
-          "answer": {"hi": "अनैच्छिक पेशी (Involuntary muscle)", "en": "Involuntary muscle"}
+          "answer": { "hi": "मूत्राशय (Urinary bladder)", "en": "Urinary bladder" }
         },
         {
-          "q": {
-            "hi": "हृदय की पेशियाँ जीवन भर लयबद्ध होकर प्रसार और संकुचन करती हैं, उन्हें क्या कहते हैं?",
-            "en": "The muscles of the heart show rhythmic contraction and relaxation throughout life, what are they called?"
-          },
+          "q": { "hi": "एक कृत्रिम वृक्क नाइट्रोजन अपशिष्टों को रुधिर से किस प्रक्रिया द्वारा हटाता है?", "en": "An artificial kidney removes nitrogenous waste from blood through?" },
           "options": [
-            {"hi": "रेखित पेशी", "en": "Striated muscle"},
-            {"hi": "अरेखित पेशी", "en": "Unstriated muscle"},
-            {"hi": "कार्डिक/हृदयक पेशी (Cardiac muscle)", "en": "Cardiac muscle"},
-            {"hi": "कंकाल पेशी", "en": "Skeletal muscle"}
+            { "hi": "विसरण", "en": "Diffusion" },
+            { "hi": "अपोहन (Dialysis)", "en": "Dialysis" },
+            { "hi": "परासरण", "en": "Osmosis" },
+            { "hi": "वाष्पीकरण", "en": "Evaporation" }
           ],
-          "answer": {"hi": "कार्डिक/हृदयक पेशी (Cardiac muscle)", "en": "Cardiac muscle"}
+          "answer": { "hi": "अपोहन (Dialysis)", "en": "Dialysis" }
         },
         {
-          "q": {
-            "hi": "तंत्रिका ऊतक की कोशिकाओं को क्या कहा जाता है?",
-            "en": "What are the cells of nervous tissue called?"
-          },
+          "q": { "hi": "पादप अपने अपशिष्ट पदार्थ कहाँ संचित कर सकते हैं?", "en": "Where can plants store their waste products?" },
           "options": [
-            {"hi": "नेफ्रॉन", "en": "Nephron"},
-            {"hi": "न्यूरॉन (Neuron)", "en": "Neuron"},
-            {"hi": "साइटॉन", "en": "Cyton"},
-            {"hi": "एक्सॉन", "en": "Axon"}
+            { "hi": "कोशिका रिक्तिका में", "en": "In cellular vacuoles" },
+            { "hi": "जड़ों में", "en": "In roots" },
+            { "hi": "फूलों में", "en": "In flowers" },
+            { "hi": "तने में", "en": "In stems" }
           ],
-          "answer": {"hi": "न्यूरॉन (Neuron)", "en": "Neuron"}
+          "answer": { "hi": "कोशिका रिक्तिका में", "en": "In cellular vacuoles" }
         },
         {
-          "q": {
-            "hi": "न्यूरॉन के उस भाग को क्या कहते हैं जो एक लंबी पूंछ जैसा होता है?",
-            "en": "What is the long tail-like part of a neuron called?"
-          },
+          "q": { "hi": "मछली के हृदय में कितने कोष्ठ होते हैं?", "en": "How many chambers are there in a fish heart?" },
           "options": [
-            {"hi": "डेंड्राइट", "en": "Dendrite"},
-            {"hi": "एक्सॉन (Axon)", "en": "Axon"},
-            {"hi": "कोशिका काय", "en": "Cell body"},
-            {"hi": "केंद्रक", "en": "Nucleus"}
+            { "hi": "एक", "en": "One" },
+            { "hi": "दो (Two)", "en": "Two" },
+            { "hi": "तीन", "en": "Three" },
+            { "hi": "चार", "en": "Four" }
           ],
-          "answer": {"hi": "एक्सॉन (Axon)", "en": "Axon"}
+          "answer": { "hi": "दो (Two)", "en": "Two" }
         },
         {
-          "q": {
-            "hi": "मस्तिष्क, मेरुरज्जु और तंत्रिकाएं किस ऊतक की बनी होती हैं?",
-            "en": "The brain, spinal cord, and nerves are composed of which tissue?"
-          },
+          "q": { "hi": "रुधिर दाब (Blood pressure) मापने वाले यंत्र को क्या कहते हैं?", "en": "What is the instrument used to measure blood pressure called?" },
           "options": [
-            {"hi": "पेशीय ऊतक", "en": "Muscular tissue"},
-            {"hi": "तंत्रिका ऊतक (Nervous tissue)", "en": "Nervous tissue"},
-            {"hi": "संयोजी ऊतक", "en": "Connective tissue"},
-            {"hi": "एपिकिलियमी ऊतक", "en": "Epithelial tissue"}
+            { "hi": "थर्मामीटर", "en": "Thermometer" },
+            { "hi": "स्फाइग्नोमैनोमीटर (Sphygmomanometer)", "en": "Sphygmomanometer" },
+            { "hi": "बैरोमीटर", "en": "Barometer" },
+            { "hi": "स्टेथोस्कोप", "en": "Stethoscope" }
           ],
-          "answer": {"hi": "तंत्रिका ऊतक (Nervous tissue)", "en": "Nervous tissue"}
+          "answer": { "hi": "स्फाइग्नोमैनोमीटर (Sphygmomanometer)", "en": "Sphygmomanometer" }
         },
         {
-          "q": {
-            "hi": "एक न्यूरॉन की लंबाई कितनी हो सकती है?",
-            "en": "What can be the length of a single neuron?"
-          },
+          "q": { "hi": "सामान्य संकुचन दाब (Systolic pressure) लगभग कितना होता है?", "en": "What is the normal systolic pressure?" },
           "options": [
-            {"hi": "1 मिलीमीटर तक", "en": "Up to 1 mm"},
-            {"hi": "1 मीटर तक (Up to 1 metre)", "en": "Up to 1 metre"},
-            {"hi": "10 सेंटीमीटर तक", "en": "Up to 10 cm"},
-            {"hi": "बहुत सूक्ष्म", "en": "Very microscopic"}
+            { "hi": "80 mm of Hg", "en": "80 mm of Hg" },
+            { "hi": "120 mm of Hg", "en": "120 mm of Hg" },
+            { "hi": "100 mm of Hg", "en": "100 mm of Hg" },
+            { "hi": "140 mm of Hg", "en": "140 mm of Hg" }
           ],
-          "answer": {"hi": "1 मीटर तक (Up to 1 metre)", "en": "Up to 1 metre"}
+          "answer": { "hi": "120 mm of Hg", "en": "120 mm of Hg" }
         },
         {
-          "q": {
-            "hi": "परावर्तित संवेदना या उद्दीपन को शरीर के एक स्थान से दूसरे स्थान तक कौन पहुँचाता है?",
-            "en": "What carries reflected sensations or stimuli from one part of the body to another?"
-          },
+          "q": { "hi": "प्रकाश संश्लेषण का उपोत्पाद (By-product) क्या है?", "en": "What is the by-product of photosynthesis?" },
           "options": [
-            {"hi": "रक्त", "en": "Blood"},
-            {"hi": "तंत्रिका ऊतक (Nervous tissue)", "en": "Nervous tissue"},
-            {"hi": "पेशी", "en": "Muscle"},
-            {"hi": "हॉर्मोन", "en": "Hormone"}
+            { "hi": "CO2", "en": "CO2" },
+            { "hi": "ऑक्सीजन (Oxygen)", "en": "Oxygen" },
+            { "hi": "मीथेन", "en": "Methane" },
+            { "hi": "नाइट्रोजन", "en": "Nitrogen" }
           ],
-          "answer": {"hi": "तंत्रिका ऊतक (Nervous tissue)", "en": "Nervous tissue"}
+          "answer": { "hi": "ऑक्सीजन (Oxygen)", "en": "Oxygen" }
         }
       ],
       "section5": [
         {
-          "q": {
-            "hi": "श्रम विभाजन (Division of labour) किस प्रकार के जीवों में होता है?",
-            "en": "Division of labour occurs in which type of organisms?"
-          },
+          "q": { "hi": "स्वपोषी पोषण के लिए क्या आवश्यक है?", "en": "What is necessary for autotrophic nutrition?" },
           "options": [
-            {"hi": "एककोशिकीय", "en": "Unicellular"},
-            {"hi": "बहुकोशिकीय (Multicellular)", "en": "Multicellular"},
-            {"hi": "अकोशिकीय", "en": "Acellular"},
-            {"hi": "विषाणु", "en": "Viruses"}
+            { "hi": "क्लोरोफिल", "en": "Chlorophyll" },
+            { "hi": "सूर्य का प्रकाश", "en": "Sunlight" },
+            { "hi": "CO2 तथा जल", "en": "CO2 and water" },
+            { "hi": "उपरोक्त सभी", "en": "All of the above" }
           ],
-          "answer": {"hi": "बहुकोशिकीय (Multicellular)", "en": "Multicellular"}
+          "answer": { "hi": "उपरोक्त सभी", "en": "All of the above" }
         },
         {
-          "q": {
-            "hi": "कॉर्क की कोशिकाओं में किस पदार्थ के कारण पानी और हवा प्रवेश नहीं कर पाते?",
-            "en": "Which substance in cork cells makes them impervious to water and gases?"
-          },
+          "q": { "hi": "मानव पाचन तंत्र में 'लार' का कार्य क्या है?", "en": "What is the function of 'saliva' in the human digestive system?" },
           "options": [
-            {"hi": "लिग्निन", "en": "Lignin"},
-            {"hi": "सुबरिन (Suberin)", "en": "Suberin"},
-            {"hi": "क्यूटिन", "en": "Cutin"},
-            {"hi": "सेलूलोज़", "en": "Cellulose"}
+            { "hi": "भोजन को गीला करना", "en": "Wetting the food" },
+            { "hi": "स्टार्च को शर्करा में तोड़ना", "en": "Breaking starch into sugar" },
+            { "hi": "दोनों a और b", "en": "Both a and b" },
+            { "hi": "प्रोटीन का पाचन", "en": "Digestion of protein" }
           ],
-          "answer": {"hi": "सुबरिन (Suberin)", "en": "Suberin"}
+          "answer": { "hi": "दोनों a और b", "en": "Both a and b" }
         },
         {
-          "q": {
-            "hi": "ब्रोंकाई और श्वास नली में उपस्थित एपिथीलियम को क्या कहते हैं?",
-            "en": "What is the epithelium present in the bronchi and trachea called?"
-          },
+          "q": { "hi": "जल का अवशोषण मुख्य रूप से आहारनाल के किस भाग में होता है?", "en": "In which part of the alimentary canal is water mainly absorbed?" },
           "options": [
-            {"hi": "सरल शल्की", "en": "Simple squamous"},
-            {"hi": "पक्षाभी स्तंभाकार (Ciliated columnar)", "en": "Ciliated columnar"},
-            {"hi": "घनाकार", "en": "Cuboidal"},
-            {"hi": "ग्रंथिल", "en": "Glandular"}
+            { "hi": "आमाशय", "en": "Stomach" },
+            { "hi": "क्षुद्रांत्र", "en": "Small intestine" },
+            { "hi": "बृहदांत्र (Large intestine)", "en": "Large intestine" },
+            { "hi": "ग्रसिका", "en": "Oesophagus" }
           ],
-          "answer": {"hi": "पक्षाभी स्तंभाकार (Ciliated columnar)", "en": "Ciliated columnar"}
+          "answer": { "hi": "बृहदांत्र (Large intestine)", "en": "Large intestine" }
         },
         {
-          "q": {
-            "hi": "अस्थि (Bone) की कोशिकाएँ किसमें धंसी होती हैं?",
-            "en": "Bone cells are embedded in a matrix of?"
-          },
+          "q": { "hi": "ग्लूकोज का ऑक्सीजन की अनुपस्थिति में एथेनॉल और CO2 में बदलना क्या कहलाता है?", "en": "Conversion of glucose into ethanol and CO2 in the absence of oxygen is called?" },
           "options": [
-            {"hi": "प्रोटीन और शर्करा", "en": "Protein and sugar"},
-            {"hi": "कैल्सियम और फास्फोरस (Calcium and Phosphorus)", "en": "Calcium and Phosphorus"},
-            {"hi": "केवल जल", "en": "Only water"},
-            {"hi": "लिपिड", "en": "Lipid"}
+            { "hi": "किण्वन (Fermentation)", "en": "Fermentation" },
+            { "hi": "वाष्पीकरण", "en": "Evaporation" },
+            { "hi": "पाचन", "en": "Digestion" },
+            { "hi": "उदासीनीकरण", "en": "Neutralization" }
           ],
-          "answer": {"hi": "कैल्सियम और फास्फोरस (Calcium and Phosphorus)", "en": "Calcium and Phosphorus"}
+          "answer": { "hi": "किण्वन (Fermentation)", "en": "Fermentation" }
         },
         {
-          "q": {
-            "hi": "कौन सा संयोजी ऊतक अंगों के भीतर की खाली जगह को भरता है और अंगों की मरम्मत में सहायता करता है?",
-            "en": "Which connective tissue fills the space inside organs and helps in the repair of tissues?"
-          },
+          "q": { "hi": "मछलियाँ जल में घुली हुई ऑक्सीजन को किसकी सहायता से लेती हैं?", "en": "With the help of what do fish take in oxygen dissolved in water?" },
           "options": [
-            {"hi": "एरिओलार ऊतक (Areolar tissue)", "en": "Areolar tissue"},
-            {"hi": "वसामय ऊतक", "en": "Adipose tissue"},
-            {"hi": "स्नायु", "en": "Ligament"},
-            {"hi": "कंडरा", "en": "Tendon"}
+            { "hi": "त्वचा", "en": "Skin" },
+            { "hi": "फेफड़े", "en": "Lungs" },
+            { "hi": "क्लोम (Gills)", "en": "Gills" },
+            { "hi": "नाक", "en": "Nose" }
           ],
-          "answer": {"hi": "एरिओलार ऊतक (Areolar tissue)", "en": "Areolar tissue"}
+          "answer": { "hi": "क्लोम (Gills)", "en": "Gills" }
         },
         {
-          "q": {
-            "hi": "न्यूरॉन से निकलने वाली छोटी शाखाओं को क्या कहते हैं?",
-            "en": "What are the small branches coming out of a neuron called?"
-          },
+          "q": { "hi": "धमनी की दीवारें शिराओं की तुलना में कैसी होती हैं?", "en": "The walls of arteries compared to veins are?" },
           "options": [
-            {"hi": "एक्सॉन", "en": "Axon"},
-            {"hi": "डेंड्राइट्स (Dendrites)", "en": "Dendrites"},
-            {"hi": "कोशिका काय", "en": "Cell body"},
-            {"hi": "सिनेप्स", "en": "Synapse"}
+            { "hi": "पतली", "en": "Thin" },
+            { "hi": "मोटी और लचीली (Thick and elastic)", "en": "Thick and elastic" },
+            { "hi": "कमजोर", "en": "Weak" },
+            { "hi": "पारभासी", "en": "Translucent" }
           ],
-          "answer": {"hi": "डेंड्राइट्स (Dendrites)", "en": "Dendrites"}
+          "answer": { "hi": "मोटी और लचीली (Thick and elastic)", "en": "Thick and elastic" }
         },
         {
-          "q": {
-            "hi": "लसीका (Lymph) का आधात्री कैसा होता है?",
-            "en": "The matrix of Lymph is?"
-          },
+          "q": { "hi": "रुधिर में यूरिया और यूरिक अम्ल जैसे अपशिष्ट कहाँ से आते हैं?", "en": "Where do nitrogenous wastes like urea or uric acid enter the blood?" },
           "options": [
-            {"hi": "तरल (Fluid)", "en": "Fluid"},
-            {"hi": "ठोस", "en": "Solid"},
-            {"hi": "गैसीय", "en": "Gaseous"},
-            {"hi": "अनुपस्थित", "en": "Absent"}
+            { "hi": "हृदय", "en": "Heart" },
+            { "hi": "यकृत (Liver)", "en": "Liver" },
+            { "hi": "फेफड़े", "en": "Lungs" },
+            { "hi": "त्वचा", "en": "Skin" }
           ],
-          "answer": {"hi": "तरल (Fluid)", "en": "Fluid"}
+          "answer": { "hi": "यकृत (Liver)", "en": "Liver" }
         },
         {
-          "q": {
-            "hi": "क्या हृदय पेशी कभी थकती है?",
-            "en": "Do cardiac muscles ever get tired?"
-          },
+          "q": { "hi": "बोमैन संपुट (Bowman's capsule) किसका भाग है?", "en": "Bowman's capsule is a part of?" },
           "options": [
-            {"hi": "हाँ, कार्य के बाद", "en": "Yes, after work"},
-            {"hi": "नहीं (No)", "en": "No"},
-            {"hi": "केवल सोते समय", "en": "Only while sleeping"},
-            {"hi": "बुढ़ापे में", "en": "In old age"}
+            { "hi": "फेफड़े", "en": "Lungs" },
+            { "hi": "हृदय", "en": "Heart" },
+            { "hi": "नेफ्रॉन (Nephron)", "en": "Nephron" },
+            { "hi": "आमाशय", "en": "Stomach" }
           ],
-          "answer": {"hi": "नहीं (No)", "en": "No"}
+          "answer": { "hi": "नेफ्रॉन (Nephron)", "en": "Nephron" }
         },
         {
-          "q": {
-            "hi": "फ्लोएम रेशे (Phloem fibres) किस प्रकार की कोशिकाएं हैं?",
-            "en": "Phloem fibres are what type of cells?"
-          },
+          "q": { "hi": "पौधों में गोंद और रेजिन (Gums and Resins) क्या हैं?", "en": "What are gums and resins in plants?" },
           "options": [
-            {"hi": "जीवित", "en": "Living"},
-            {"hi": "मृत (Dead)", "en": "Dead"},
-            {"hi": "विभाजनकारी", "en": "Dividing"},
-            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+            { "hi": "भोजन", "en": "Food" },
+            { "hi": "अपशिष्ट पदार्थ (Waste products)", "en": "Waste products" },
+            { "hi": "हार्मोन", "en": "Hormones" },
+            { "hi": "एंजाइम", "en": "Enzymes" }
           ],
-          "answer": {"hi": "मृत (Dead)", "en": "Dead"}
+          "answer": { "hi": "अपशिष्ट पदार्थ (Waste products)", "en": "Waste products" }
         },
         {
-          "q": {
-            "hi": "किस ऊतक के कारण पौधों में प्रकाश संश्लेषण के लिए क्लोरोफिल होता है?",
-            "en": "In which tissue is chlorophyll present for photosynthesis in plants?"
-          },
+          "q": { "hi": "परजीवी पोषण (Parasitic nutrition) का उदाहरण कौन सा है?", "en": "Which is an example of parasitic nutrition?" },
           "options": [
-            {"hi": "एरेन्काइमा", "en": "Aerenchyma"},
-            {"hi": "क्लोरेन्काइमा (Chlorenchyma)", "en": "Chlorenchyma"},
-            {"hi": "स्क्लेरेन्काइमा", "en": "Sclerenchyma"},
-            {"hi": "जाइलम", "en": "Xylem"}
+            { "hi": "अमीबा", "en": "Amoeba" },
+            { "hi": "अमरबेल (Cuscuta)", "en": "Cuscuta" },
+            { "hi": "घास", "en": "Grass" },
+            { "hi": "शेर", "en": "Lion" }
           ],
-          "answer": {"hi": "क्लोरेन्काइमा (Chlorenchyma)", "en": "Chlorenchyma"}
+          "answer": { "hi": "अमरबेल (Cuscuta)", "en": "Cuscuta" }
         }
       ]
     },
