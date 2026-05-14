@@ -3524,662 +3524,512 @@
    "chapter07": {
       "section1": [
         {
-          "q": {
-            "hi": "जीवों के वर्गीकरण का आधारभूत लक्षण क्या है?",
-            "en": "What is the fundamental characteristic for the classification of organisms?"
-          },
+          "q": { "hi": "सजीवों में पर्यावरण में आए परिवर्तन की अनुक्रिया को क्या कहते हैं?", "en": "What is the response to changes in the environment in living organisms called?" },
           "options": [
-            {"hi": "निवास स्थान", "en": "Habitat"},
-            {"hi": "कोशिकीय संरचना", "en": "Cellular structure"},
-            {"hi": "भोजन की आदतें", "en": "Food habits"},
-            {"hi": "आकार", "en": "Size"}
+            { "hi": "वृद्धि", "en": "Growth" },
+            { "hi": "गति", "en": "Movement" },
+            { "hi": "अनुक्रिया (Response)", "en": "Response" },
+            { "hi": "पोषण", "en": "Nutrition" }
           ],
-          "answer": {"hi": "कोशिकीय संरचना", "en": "Cellular structure"}
+          "answer": { "hi": "अनुक्रिया (Response)", "en": "Response" }
         },
         {
-          "q": {
-            "hi": "पाँच जगत वर्गीकरण (Five Kingdom Classification) किसने प्रस्तुत किया था?",
-            "en": "Who proposed the Five Kingdom Classification?"
-          },
+          "q": { "hi": "हमारे शरीर में बाह्य वातावरण से सूचनाएँ प्राप्त करने वाली संरचनाओं को क्या कहते हैं?", "en": "What are the structures in our body that receive information from the external environment called?" },
           "options": [
-            {"hi": "चार्ल्स डार्विन", "en": "Charles Darwin"},
-            {"hi": "रॉबर्ट व्हिटेकर (Robert Whittaker)", "en": "Robert Whittaker"},
-            {"hi": "कार्ल लीनियस", "en": "Carl Linnaeus"},
-            {"hi": "अर्न्स्ट हेकल", "en": "Ernst Haeckel"}
+            { "hi": "पेशी", "en": "Muscle" },
+            { "hi": "ग्राही (Receptor)", "en": "Receptor" },
+            { "hi": "हार्मोन", "en": "Hormone" },
+            { "hi": "एंजाइम", "en": "Enzyme" }
           ],
-          "answer": {"hi": "रॉबर्ट व्हिटेकर (Robert Whittaker)", "en": "Robert Whittaker"}
+          "answer": { "hi": "ग्राही (Receptor)", "en": "Receptor" }
         },
         {
-          "q": {
-            "hi": "व्हिटेकर द्वारा बताए गए पाँच जगत कौन-से हैं?",
-            "en": "What are the five kingdoms mentioned by Whittaker?"
-          },
+          "q": { "hi": "स्वाद का पता लगाने के लिए कौन सा ग्राही उत्तरदायी है?", "en": "Which receptor is responsible for detecting taste?" },
           "options": [
-            {"hi": "स्तनधारी, पक्षी, सरीसृप, उभयचर, मत्स्य", "en": "Mammals, Birds, Reptiles, Amphibians, Fish"},
-            {"hi": "मोनेरा, प्रोटिस्टा, फंजाई, प्लांटी, एनीमेलिया", "en": "Monera, Protista, Fungi, Plantae, Animalia"},
-            {"hi": "जीवाणु, विषाणु, कवक, पौधे, जंतु", "en": "Bacteria, Virus, Fungi, Plants, Animals"},
-            {"hi": "शाकाहारी, मांसाहारी, सर्वाहारी, अपघटक, उत्पादक", "en": "Herbivores, Carnivores, Omnivores, Decomposers, Producers"}
+            { "hi": "घ्राण ग्राही", "en": "Olfactory receptor" },
+            { "hi": "प्रकाश ग्राही", "en": "Photoreceptor" },
+            { "hi": "रससंवेदी ग्राही (Gustatory receptor)", "en": "Gustatory receptor" },
+            { "hi": "श्रवण ग्राही", "en": "Auditory receptor" }
           ],
-          "answer": {"hi": "मोनेरा, प्रोटिस्टा, फंजाई, प्लांटी, एनीमेलिया", "en": "Monera, Protista, Fungi, Plantae, Animalia"}
+          "answer": { "hi": "रससंवेदी ग्राही (Gustatory receptor)", "en": "Gustatory receptor" }
         },
         {
-          "q": {
-            "hi": "किस जगत के जीवों में संगठित केंद्रक और कोशिकांगों का अभाव होता है?",
-            "en": "Organisms of which kingdom lack a defined nucleus and organelles?"
-          },
+          "q": { "hi": "गंध का पता लगाने के लिए कौन सा ग्राही उपयोग किया जाता है?", "en": "Which receptor is used to detect smell?" },
           "options": [
-            {"hi": "प्रोटिस्टा", "en": "Protista"},
-            {"hi": "मोनेरा (Monera)", "en": "Monera"},
-            {"hi": "फंजाई", "en": "Fungi"},
-            {"hi": "प्लांटी", "en": "Plantae"}
+            { "hi": "रससंवेदी ग्राही", "en": "Gustatory receptor" },
+            { "hi": "घ्राण ग्राही (Olfactory receptor)", "en": "Olfactory receptor" },
+            { "hi": "स्पर्श ग्राही", "en": "Touch receptor" },
+            { "hi": "ताप ग्राही", "en": "Thermoreceptor" }
           ],
-          "answer": {"hi": "मोनेरा (Monera)", "en": "Monera"}
+          "answer": { "hi": "घ्राण ग्राही (Olfactory receptor)", "en": "Olfactory receptor" }
         },
         {
-          "q": {
-            "hi": "अमीबा और पैरामिशियम किस जगत के अंतर्गत आते हैं?",
-            "en": "Amoeba and Paramecium belong to which kingdom?"
-          },
+          "q": { "hi": "तंत्रिका कोशिका का वह भाग जहाँ से सूचना विद्युत आवेग के रूप में चलती है?", "en": "The part of the nerve cell where information travels as an electrical impulse?" },
           "options": [
-            {"hi": "मोनेरा", "en": "Monera"},
-            {"hi": "फंजाई", "en": "Fungi"},
-            {"hi": "प्रोटिस्टा (Protista)", "en": "Protista"},
-            {"hi": "एनीमेलिया", "en": "Animalia"}
+            { "hi": "द्रुमिका (Dendrite)", "en": "Dendrite" },
+            { "hi": "एक्सॉन (Axon)", "en": "Axon" },
+            { "hi": "कोशिका काय", "en": "Cell body" },
+            { "hi": "सिनेप्स", "en": "Synapse" }
           ],
-          "answer": {"hi": "प्रोटिस्टा (Protista)", "en": "Protista"}
+          "answer": { "hi": "एक्सॉन (Axon)", "en": "Axon" }
         },
         {
-          "q": {
-            "hi": "कवक (Fungi) की कोशिका भित्ति किसकी बनी होती है?",
-            "en": "The cell wall of fungi is made of?"
-          },
+          "q": { "hi": "दो तंत्रिका कोशिकाओं के बीच के खाली स्थान को क्या कहते हैं?", "en": "What is the gap between two neurons called?" },
           "options": [
-            {"hi": "सेलूलोज़", "en": "Cellulose"},
-            {"hi": "काइटिन (Chitin)", "en": "Chitin"},
-            {"hi": "पेक्टिन", "en": "Pectin"},
-            {"hi": "लिपिड", "en": "Lipid"}
+            { "hi": "एक्सॉन", "en": "Axon" },
+            { "hi": "सिनेप्स (Synapse)", "en": "Synapse" },
+            { "hi": "द्रुमिका", "en": "Dendrite" },
+            { "hi": "आवेग", "en": "Impulse" }
           ],
-          "answer": {"hi": "काइटिन (Chitin)", "en": "Chitin"}
+          "answer": { "hi": "सिनेप्स (Synapse)", "en": "Synapse" }
         },
         {
-          "q": {
-            "hi": "नील-हरित शैवाल (Cyanobacteria) किस जगत का हिस्सा हैं?",
-            "en": "Blue-green algae (Cyanobacteria) are part of which kingdom?"
-          },
+          "q": { "hi": "प्रतिवर्ती चाप (Reflex arc) कहाँ बनते हैं?", "en": "Where are reflex arcs formed?" },
           "options": [
-            {"hi": "मोनेरा (Monera)", "en": "Monera"},
-            {"hi": "प्रोटिस्टा", "en": "Protista"},
-            {"hi": "प्लांटी", "en": "Plantae"},
-            {"hi": "फंजाई", "en": "Fungi"}
+            { "hi": "मस्तिष्क में", "en": "In the brain" },
+            { "hi": "मेरुरज्जु में (Spinal cord)", "en": "In the spinal cord" },
+            { "hi": "हृदय में", "en": "In the heart" },
+            { "hi": "यकृत में", "en": "In the liver" }
           ],
-          "answer": {"hi": "मोनेरा (Monera)", "en": "Monera"}
+          "answer": { "hi": "मेरुरज्जु में (Spinal cord)", "en": "In the spinal cord" }
         },
         {
-          "q": {
-            "hi": "जीवों के विकासवाद (Evolution) की अवधारणा किसने दी थी?",
-            "en": "Who gave the concept of evolution of organisms?"
-          },
+          "q": { "hi": "पर्यावरण में किसी घटना की अचानक अनुक्रिया क्या कहलाती है?", "en": "What is a sudden response to an event in the environment called?" },
           "options": [
-            {"hi": "ग्रेगर मेंडल", "en": "Gregor Mendel"},
-            {"hi": "चार्ल्स डार्विन (Charles Darwin)", "en": "Charles Darwin"},
-            {"hi": "अलेक्जेंडर फ्लेमिंग", "en": "Alexander Fleming"},
-            {"hi": "लुई पाश्चर", "en": "Louis Pasteur"}
+            { "hi": "स्वैच्छिक क्रिया", "en": "Voluntary action" },
+            { "hi": "अनैच्छिक क्रिया", "en": "Involuntary action" },
+            { "hi": "प्रतिवर्ती क्रिया (Reflex action)", "en": "Reflex action" },
+            { "hi": "वृद्धि", "en": "Growth" }
           ],
-          "answer": {"hi": "चार्ल्स डार्विन (Charles Darwin)", "en": "Charles Darwin"}
+          "answer": { "hi": "प्रतिवर्ती क्रिया (Reflex action)", "en": "Reflex action" }
         },
         {
-          "q": {
-            "hi": "थैलोफाइटा वर्ग के पौधों को सामान्यतः क्या कहा जाता है?",
-            "en": "What are the plants of division Thallophyta commonly called?"
-          },
+          "q": { "hi": "मस्तिष्क का मुख्य सोचने वाला भाग कौन सा है?", "en": "Which is the main thinking part of the brain?" },
           "options": [
-            {"hi": "मॉस", "en": "Moss"},
-            {"hi": "शैवाल (Algae)", "en": "Algae"},
-            {"hi": "फर्न", "en": "Fern"},
-            {"hi": "कवक", "en": "Fungi"}
+            { "hi": "पश्च मस्तिष्क", "en": "Hind-brain" },
+            { "hi": "मध्य मस्तिष्क", "en": "Mid-brain" },
+            { "hi": "अग्र-मस्तिष्क (Fore-brain)", "en": "Fore-brain" },
+            { "hi": "मेरुरज्जु", "en": "Spinal cord" }
           ],
-          "answer": {"hi": "शैवाल (Algae)", "en": "Algae"}
+          "answer": { "hi": "अग्र-मस्तिष्क (Fore-brain)", "en": "Fore-brain" }
         },
         {
-          "q": {
-            "hi": "किसे 'पादप जगत का उभयचर' (Amphibians of the plant kingdom) कहा जाता है?",
-            "en": "Which are called the 'amphibians of the plant kingdom'?"
-          },
+          "q": { "hi": "अनैच्छिक क्रियाओं जैसे रक्तदाब और लार आना, का नियंत्रण कौन करता है?", "en": "What controls involuntary actions like blood pressure and salivation?" },
           "options": [
-            {"hi": "थैलोफाइटा", "en": "Thallophyta"},
-            {"hi": "ब्रायोफाइटा (Bryophyta)", "en": "Bryophyta"},
-            {"hi": "टेरिडोफाइटा", "en": "Pteridophyta"},
-            {"hi": "जिम्नोस्पर्म", "en": "Gymnosperms"}
+            { "hi": "प्रमस्तिष्क", "en": "Cerebrum" },
+            { "hi": "मेडुला (Medulla)", "en": "Medulla" },
+            { "hi": "द्रुमिका", "en": "Dendrite" },
+            { "hi": "हाइपोथैलेमस", "en": "Hypothalamus" }
           ],
-          "answer": {"hi": "ब्रायोफाइटा (Bryophyta)", "en": "Bryophyta"}
+          "answer": { "hi": "मेडुला (Medulla)", "en": "Medulla" }
         }
       ],
       "section2": [
         {
-          "q": {
-            "hi": "किस वर्ग के पौधों में संवहन ऊतक (Vascular tissues) पहली बार पाए गए?",
-            "en": "In which division of plants were vascular tissues first found?"
-          },
+          "q": { "hi": "मस्तिष्क को बाहरी आघातों से बचाने के लिए कौन सा द्रव भरा होता है?", "en": "What fluid protects the brain from external shocks?" },
           "options": [
-            {"hi": "ब्रायोफाइटा", "en": "Bryophyta"},
-            {"hi": "टेरिडोफाइटा (Pteridophyta)", "en": "Pteridophyta"},
-            {"hi": "थैलोफाइटा", "en": "Thallophyta"},
-            {"hi": "शैवाल", "en": "Algae"}
+            { "hi": "प्लाज्मा", "en": "Plasma" },
+            { "hi": "मस्तिष्क-मेरु द्रव (Cerebro-spinal fluid)", "en": "Cerebro-spinal fluid" },
+            { "hi": "लसीका", "en": "Lymph" },
+            { "hi": "रक्त", "en": "Blood" }
           ],
-          "answer": {"hi": "टेरिडोफाइटा (Pteridophyta)", "en": "Pteridophyta"}
+          "answer": { "hi": "मस्तिष्क-मेरु द्रव (Cerebro-spinal fluid)", "en": "Cerebro-spinal fluid" }
         },
         {
-          "q": {
-            "hi": "जिम्नोस्पर्म (Gymnosperms) शब्द का क्या अर्थ है?",
-            "en": "What does the word Gymnosperms mean?"
-          },
+          "q": { "hi": "शरीर की भंगिमा और संतुलन का नियंत्रण कौन करता है?", "en": "What controls the posture and balance of the body?" },
           "options": [
-            {"hi": "फलों के अंदर बीज", "en": "Seeds inside fruits"},
-            {"hi": "नग्न बीज (Naked seeds)", "en": "Naked seeds"},
-            {"hi": "बिना बीज वाले", "en": "Without seeds"},
-            {"hi": "बीजों वाले कवक", "en": "Seeds bearing fungi"}
+            { "hi": "मेडुला", "en": "Medulla" },
+            { "hi": "पोन्स", "en": "Pons" },
+            { "hi": "अनुमस्तिष्क (Cerebellum)", "en": "Cerebellum" },
+            { "hi": "प्रमस्तिष्क", "en": "Cerebrum" }
           ],
-          "answer": {"hi": "नग्न बीज (Naked seeds)", "en": "Naked seeds"}
+          "answer": { "hi": "अनुमस्तिष्क (Cerebellum)", "en": "Cerebellum" }
         },
         {
-          "q": {
-            "hi": "एंजियोस्पर्म (Angiosperms) को और क्या कहा जाता है?",
-            "en": "What are Angiosperms also called?"
-          },
+          "q": { "hi": "मस्तिष्क की सुरक्षा करने वाली अस्थियों के बॉक्स को क्या कहते हैं?", "en": "What is the bony box protecting the brain called?" },
           "options": [
-            {"hi": "नग्नबीजी पौधे", "en": "Naked seed plants"},
-            {"hi": "फूल वाले पौधे (Flowering plants)", "en": "Flowering plants"},
-            {"hi": "एककोशिकीय पौधे", "en": "Unicellular plants"},
-            {"hi": "जलीय पौधे", "en": "Aquatic plants"}
+            { "hi": "मेरुदंड", "en": "Vertebral column" },
+            { "hi": "कपाल (Cranium)", "en": "Cranium" },
+            { "hi": "पसली पिंजर", "en": "Rib cage" },
+            { "hi": "श्रोणि मेखला", "en": "Pelvic girdle" }
           ],
-          "answer": {"hi": "फूल वाले पौधे (Flowering plants)", "en": "Flowering plants"}
+          "answer": { "hi": "कपाल (Cranium)", "en": "Cranium" }
         },
         {
-          "q": {
-            "hi": "द्वि-बीजपत्री (Dicots) पौधों के बीजों में कितने बीजपत्र होते हैं?",
-            "en": "How many cotyledons are present in the seeds of Dicots?"
-          },
+          "q": { "hi": "छुई-मुई के पौधों में गति किस कारण होती है?", "en": "What causes movement in 'Touch-me-not' plants?" },
           "options": [
-            {"hi": "एक", "en": "One"},
-            {"hi": "दो (Two)", "en": "Two"},
-            {"hi": "तीन", "en": "Three"},
-            {"hi": "अनेक", "en": "Many"}
+            { "hi": "वृद्धि के कारण", "en": "Due to growth" },
+            { "hi": "प्रकाश के कारण", "en": "Due to light" },
+            { "hi": "कोशिकाओं में जल की मात्रा में परिवर्तन (Turgor change)", "en": "Change in water content of cells" },
+            { "hi": "गुरुत्वाकर्षण के कारण", "en": "Due to gravity" }
           ],
-          "answer": {"hi": "दो (Two)", "en": "Two"}
+          "answer": { "hi": "कोशिकाओं में जल की मात्रा में परिवर्तन (Turgor change)", "en": "Change in water content of cells" }
         },
         {
-          "q": {
-            "hi": "पोरीफ़ेरा (Porifera) संघ के जीवों को सामान्यतः क्या कहते हैं?",
-            "en": "What are the organisms of phylum Porifera commonly called?"
-          },
+          "q": { "hi": "पौधों का प्रकाश की ओर झुकना क्या कहलाता है?", "en": "What is the bending of plants towards light called?" },
           "options": [
-            {"hi": "मछली", "en": "Fish"},
-            {"hi": "स्पंज (Sponge)", "en": "Sponge"},
-            {"hi": "क्रीमी", "en": "Worms"},
-            {"hi": "मूंगा", "en": "Corals"}
+            { "hi": "गुरुत्वानुवर्तन", "en": "Geotropism" },
+            { "hi": "जलानुवर्तन", "en": "Hydrotropism" },
+            { "hi": "प्रकाशानुवर्तन (Phototropism)", "en": "Phototropism" },
+            { "hi": "रसायनानुवर्तन", "en": "Chemotropism" }
           ],
-          "answer": {"hi": "स्पंज (Sponge)", "en": "Sponge"}
+          "answer": { "hi": "प्रकाशानुवर्तन (Phototropism)", "en": "Phototropism" }
         },
         {
-          "q": {
-            "hi": "सीलेंटरेटा (Coelenterata/Cnidaria) का उदाहरण कौन-सा है?",
-            "en": "Which is an example of Coelenterata?"
-          },
+          "q": { "hi": "जड़ों की अधोमुखी वृद्धि कौन सा अनुवर्तन दर्शाती है?", "en": "The downward growth of roots shows which tropism?" },
           "options": [
-            {"hi": "हाइड्रा (Hydra)", "en": "Hydra"},
-            {"hi": "साइकॉन", "en": "Sycon"},
-            {"hi": "केंचुआ", "en": "Earthworm"},
-            {"hi": "स्टारफिश", "en": "Starfish"}
+            { "hi": "प्रकाशानुवर्तन", "en": "Phototropism" },
+            { "hi": "गुरुत्वानुवर्तन (Geotropism)", "en": "Geotropism" },
+            { "hi": "रसायनानुवर्तन", "en": "Chemotropism" },
+            { "hi": "जलानुवर्तन", "en": "Hydrotropism" }
           ],
-          "answer": {"hi": "हाइड्रा (Hydra)", "en": "Hydra"}
+          "answer": { "hi": "गुरुत्वानुवर्तन (Geotropism)", "en": "Geotropism" }
         },
         {
-          "q": {
-            "hi": "प्लेटीहेल्मिन्थीज (Platyhelminthes) संघ के जीवों का शरीर कैसा होता है?",
-            "en": "What is the body structure of Platyhelminthes?"
-          },
+          "q": { "hi": "पराग नलिका का बीजांड की ओर बढ़ना किसका उदाहरण है?", "en": "The growth of pollen tube towards the ovule is an example of?" },
           "options": [
-            {"hi": "बेलनाकार", "en": "Cylindrical"},
-            {"hi": "चपटा (Flat)", "en": "Flat"},
-            {"hi": "छल्लेदार", "en": "Segmented"},
-            {"hi": "कवच युक्त", "en": "Shelled"}
+            { "hi": "प्रकाशानुवर्तन", "en": "Phototropism" },
+            { "hi": "जलानुवर्तन", "en": "Hydrotropism" },
+            { "hi": "रसायनानुवर्तन (Chemotropism)", "en": "Chemotropism" },
+            { "hi": "गुरुत्वानुवर्तन", "en": "Geotropism" }
           ],
-          "answer": {"hi": "चपटा (Flat)", "en": "Flat"}
+          "answer": { "hi": "रसायनानुवर्तन (Chemotropism)", "en": "Chemotropism" }
         },
         {
-          "q": {
-            "hi": "फाइलेरिया क्रीमी (Filarial worm) किस संघ का सदस्य है?",
-            "en": "Filarial worm belongs to which phylum?"
-          },
+          "q": { "hi": "पादप कोशिका की लंबाई में वृद्धि करने वाला हार्मोन कौन सा है?", "en": "Which hormone promotes cell elongation in plants?" },
           "options": [
-            {"hi": "एनीलिडा", "en": "Annelida"},
-            {"hi": "निमेटोडा (Nematoda)", "en": "Nematoda"},
-            {"hi": "आर्थोपोडा", "en": "Arthropoda"},
-            {"hi": "मोलस्का", "en": "Mollusca"}
+            { "hi": "साइटोकाइनिन", "en": "Cytokinin" },
+            { "hi": "एब्सिसिक अम्ल", "en": "Abscisic acid" },
+            { "hi": "ऑक्सिन (Auxin)", "en": "Auxin" },
+            { "hi": "इंसुलिन", "en": "Insulin" }
           ],
-          "answer": {"hi": "निमेटोडा (Nematoda)", "en": "Nematoda"}
+          "answer": { "hi": "ऑक्सिन (Auxin)", "en": "Auxin" }
         },
         {
-          "q": {
-            "hi": "केंचुआ और जोंक किस संघ के अंतर्गत आते हैं?",
-            "en": "Earthworms and Leeches come under which phylum?"
-          },
+          "q": { "hi": "फलों और बीजों में कोशिका विभाजन को कौन प्रेरित करता है?", "en": "Which hormone promotes cell division in fruits and seeds?" },
           "options": [
-            {"hi": "आर्थोपोडा", "en": "Arthropoda"},
-            {"hi": "एनीलिडा (Annelida)", "en": "Annelida"},
-            {"hi": "इकाइनोडर्मेटा", "en": "Echinodermata"},
-            {"hi": "कॉर्डेटा", "en": "Chordata"}
+            { "hi": "ऑक्सिन", "en": "Auxin" },
+            { "hi": "साइटोकाइनिन (Cytokinin)", "en": "Cytokinin" },
+            { "hi": "एब्सिसिक अम्ल", "en": "Abscisic acid" },
+            { "hi": "जिबरेलिन", "en": "Gibberellin" }
           ],
-          "answer": {"hi": "एनीलिडा (Annelida)", "en": "Annelida"}
+          "answer": { "hi": "साइटोकाइनिन (Cytokinin)", "en": "Cytokinin" }
         },
         {
-          "q": {
-            "hi": "जंतु जगत का सबसे बड़ा संघ (Largest Phylum) कौन-सा है?",
-            "en": "Which is the largest phylum of the animal kingdom?"
-          },
+          "q": { "hi": "पत्तियों का मुरझाना किस पादप हार्मोन का प्रभाव है?", "en": "The wilting of leaves is an effect of which plant hormone?" },
           "options": [
-            {"hi": "एनीलिडा", "en": "Annelida"},
-            {"hi": "आर्थोपोडा (Arthropoda)", "en": "Arthropoda"},
-            {"hi": "मोलस्का", "en": "Mollusca"},
-            {"hi": "कॉर्डेटा", "en": "Chordata"}
+            { "hi": "जिबरेलिन", "en": "Gibberellin" },
+            { "hi": "ऑक्सिन", "en": "Auxin" },
+            { "hi": "एब्सिसिक अम्ल (Abscisic acid)", "en": "Abscisic acid" },
+            { "hi": "साइटोकाइनिन", "en": "Cytokinin" }
           ],
-          "answer": {"hi": "आर्थोपोडा (Arthropoda)", "en": "Arthropoda"}
+          "answer": { "hi": "एब्सिसिक अम्ल (Abscisic acid)", "en": "Abscisic acid" }
         }
       ],
       "section3": [
         {
-          "q": {
-            "hi": "आर्थोपोडा संघ के जीवों का मुख्य लक्षण क्या है?",
-            "en": "What is the main characteristic of Arthropods?"
-          },
+          "q": { "hi": "अवटुग्रंथि (Thyroid gland) को थायरोक्सिन बनाने के लिए किसकी आवश्यकता होती है?", "en": "What does the thyroid gland require to make thyroxine?" },
           "options": [
-            {"hi": "चपटा शरीर", "en": "Flat body"},
-            {"hi": "जुड़े हुए पैर (Jointed legs)", "en": "Jointed legs"},
-            {"hi": "बिना रीढ़ की हड्डी", "en": "Without backbone"},
-            {"hi": "केवल जल में रहना", "en": "Living only in water"}
+            { "hi": "सोडियम", "en": "Sodium" },
+            { "hi": "आयोडीन (Iodine)", "en": "Iodine" },
+            { "hi": "कैल्सियम", "en": "Calcium" },
+            { "hi": "लोहा", "en": "Iron" }
           ],
-          "answer": {"hi": "जुड़े हुए पैर (Jointed legs)", "en": "Jointed legs"}
+          "answer": { "hi": "आयोडीन (Iodine)", "en": "Iodine" }
         },
         {
-          "q": {
-            "hi": "ऑक्टोपस और घोंघा किस संघ के उदाहरण हैं?",
-            "en": "Octopus and Snail are examples of which phylum?"
-          },
+          "q": { "hi": "भोजन में आयोडीन की कमी से कौन सा रोग हो सकता है?", "en": "Which disease can be caused by iodine deficiency in food?" },
           "options": [
-            {"hi": "आर्थोपोडा", "en": "Arthropoda"},
-            {"hi": "मोलस्का (Mollusca)", "en": "Mollusca"},
-            {"hi": "एनीलिडा", "en": "Annelida"},
-            {"hi": "पोरीफ़ेरा", "en": "Porifera"}
+            { "hi": "मधुमेह", "en": "Diabetes" },
+            { "hi": "गॉयटर (Goitre)", "en": "Goitre" },
+            { "hi": "एनीमिया", "en": "Anaemia" },
+            { "hi": "स्कर्वी", "en": "Scurvy" }
           ],
-          "answer": {"hi": "मोलस्का (Mollusca)", "en": "Mollusca"}
+          "answer": { "hi": "गॉयटर (Goitre)", "en": "Goitre" }
         },
         {
-          "q": {
-            "hi": "इकाइनोडर्मेटा (Echinodermata) का अर्थ क्या है?",
-            "en": "What does Echinodermata mean?"
-          },
+          "q": { "hi": "शरीर की वृद्धि और विकास के लिए उत्तरदायी हार्मोन कौन सा है?", "en": "Which hormone is responsible for body growth and development?" },
           "options": [
-            {"hi": "नरम त्वचा", "en": "Soft skin"},
-            {"hi": "काँटेदार त्वचा (Spiny skinned)", "en": "Spiny skinned"},
-            {"hi": "जहरीली त्वचा", "en": "Poisonous skin"},
-            {"hi": "पंखों वाली त्वचा", "en": "Winged skin"}
+            { "hi": "थायरोक्सिन", "en": "Thyroxine" },
+            { "hi": "इंसुलिन", "en": "Insulin" },
+            { "hi": "वृद्धि हार्मोन (Growth hormone)", "en": "Growth hormone" },
+            { "hi": "एड्रिनेलिन", "en": "Adrenaline" }
           ],
-          "answer": {"hi": "काँटेदार त्वचा (Spiny skinned)", "en": "Spiny skinned"}
+          "answer": { "hi": "वृद्धि हार्मोन (Growth hormone)", "en": "Growth hormone" }
         },
         {
-          "q": {
-            "hi": "नोटोकॉर्ड (Notochord) का क्या कार्य है?",
-            "en": "What is the function of the Notochord?"
-          },
+          "q": { "hi": "वृद्धि हार्मोन किस ग्रंथि द्वारा स्रावित होता है?", "en": "Growth hormone is secreted by which gland?" },
           "options": [
-            {"hi": "भोजन पचाना", "en": "Digesting food"},
-            {"hi": "मांसपेशियों को जुड़ने का स्थान देना", "en": "Providing a place for muscles to attach"},
-            {"hi": "साँस लेना", "en": "Breathing"},
-            {"hi": "खून साफ करना", "en": "Purifying blood"}
+            { "hi": "अग्न्याशय", "en": "Pancreas" },
+            { "hi": "पीयूष ग्रंथि (Pituitary gland)", "en": "Pituitary gland" },
+            { "hi": "एड्रिनल ग्रंथि", "en": "Adrenal gland" },
+            { "hi": "थायरॉइड ग्रंथि", "en": "Thyroid gland" }
           ],
-          "answer": {"hi": "मांसपेशियों को जुड़ने का स्थान देना", "en": "Providing a place for muscles to attach"}
+          "answer": { "hi": "पीयूष ग्रंथि (Pituitary gland)", "en": "Pituitary gland" }
         },
         {
-          "q": {
-            "hi": "मत्स्य (Pisces) का हृदय कितने कक्षों का होता है?",
-            "en": "How many chambers are in a fish heart?"
-          },
+          "q": { "hi": "इंसुलिन का उत्पादन किस ग्रंथि में होता है?", "en": "Which gland produces insulin?" },
           "options": [
-            {"hi": "एक", "en": "One"},
-            {"hi": "दो (Two)", "en": "Two"},
-            {"hi": "तीन", "en": "Three"},
-            {"hi": "चार", "en": "Four"}
+            { "hi": "थायरॉइड", "en": "Thyroid" },
+            { "hi": "पीयूष", "en": "Pituitary" },
+            { "hi": "अग्न्याशय (Pancreas)", "en": "Pancreas" },
+            { "hi": "वृक्क", "en": "Kidney" }
           ],
-          "answer": {"hi": "दो (Two)", "en": "Two"}
+          "answer": { "hi": "अग्न्याशय (Pancreas)", "en": "Pancreas" }
         },
         {
-          "q": {
-            "hi": "जल-स्थलचर (Amphibians) श्वसन कैसे करते हैं?",
-            "en": "How do amphibians breathe?"
-          },
+          "q": { "hi": "रक्त में शर्करा (Sugar) के स्तर को कौन नियंत्रित करता है?", "en": "What regulates the sugar level in the blood?" },
           "options": [
-            {"hi": "केवल फेफड़ों से", "en": "Only by lungs"},
-            {"hi": "केवल क्लोम (Gills) से", "en": "Only by gills"},
-            {"hi": "फेफड़े और क्लोम दोनों से", "en": "By both lungs and gills"},
-            {"hi": "त्वचा से नहीं", "en": "Not by skin"}
+            { "hi": "एड्रिनेलिन", "en": "Adrenaline" },
+            { "hi": "इंसुलिन (Insulin)", "en": "Insulin" },
+            { "hi": "टेस्टोस्टेरोन", "en": "Testosterone" },
+            { "hi": "एस्ट्रोजन", "en": "Estrogen" }
           ],
-          "answer": {"hi": "फेफड़े और क्लोम दोनों से", "en": "By both lungs and gills"}
+          "answer": { "hi": "इंसुलिन (Insulin)", "en": "Insulin" }
         },
         {
-          "q": {
-            "hi": "सरीसृप (Reptiles) का हृदय सामान्यतः कितने कक्षों का होता है?",
-            "en": "How many chambers are usually in a reptile's heart?"
-          },
+          "q": { "hi": "आकस्मिक स्थितियों (Emergency) में कौन सा हार्मोन स्रावित होता है?", "en": "Which hormone is secreted in emergency situations?" },
           "options": [
-            {"hi": "दो", "en": "Two"},
-            {"hi": "तीन (Three)", "en": "Three"},
-            {"hi": "चार", "en": "Four"},
-            {"hi": "पाँच", "en": "Five"}
+            { "hi": "इंसुलिन", "en": "Insulin" },
+            { "hi": "एड्रिनेलिन (Adrenaline)", "en": "Adrenaline" },
+            { "hi": "थायरोक्सिन", "en": "Thyroxine" },
+            { "hi": "वृद्धि हार्मोन", "en": "Growth hormone" }
           ],
-          "answer": {"hi": "तीन (Three)", "en": "Three"}
+          "answer": { "hi": "एड्रिनेलिन (Adrenaline)", "en": "Adrenaline" }
         },
         {
-          "q": {
-            "hi": "मगरमच्छ का हृदय कितने कक्षों का होता है?",
-            "en": "How many chambers are in a crocodile's heart?"
-          },
+          "q": { "hi": "नर में यौन परिपक्वता के लिए उत्तरदायी हार्मोन कौन सा है?", "en": "Which hormone is responsible for sexual maturity in males?" },
           "options": [
-            {"hi": "दो", "en": "Two"},
-            {"hi": "तीन", "en": "Three"},
-            {"hi": "चार (Four)", "en": "Four"},
-            {"hi": "पाँच", "en": "Five"}
+            { "hi": "एस्ट्रोजन", "en": "Estrogen" },
+            { "hi": "प्रोजेस्टेरोन", "en": "Progesterone" },
+            { "hi": "टेस्टोस्टेरोन (Testosterone)", "en": "Testosterone" },
+            { "hi": "इंसुलिन", "en": "Insulin" }
           ],
-          "answer": {"hi": "चार (Four)", "en": "Four"}
+          "answer": { "hi": "टेस्टोस्टेरोन (Testosterone)", "en": "Testosterone" }
         },
         {
-          "q": {
-            "hi": "पक्षी (Aves) वर्ग के जीवों का रक्त कैसा होता है?",
-            "en": "What is the nature of blood in birds?"
-          },
+          "q": { "hi": "मादा में द्वितीयक लैंगिक लक्षणों के लिए कौन सा हार्मोन उत्तरदायी है?", "en": "Which hormone is responsible for secondary sexual characters in females?" },
           "options": [
-            {"hi": "शीत रक्त", "en": "Cold blooded"},
-            {"hi": "गर्म रक्त (Warm blooded)", "en": "Warm blooded"},
-            {"hi": "परिवर्तनीय", "en": "Variable"},
-            {"hi": "नीला रक्त", "en": "Blue blooded"}
+            { "hi": "टेस्टोस्टेरोन", "en": "Testosterone" },
+            { "hi": "एस्ट्रोजन (Estrogen)", "en": "Estrogen" },
+            { "hi": "वृद्धि हार्मोन", "en": "Growth hormone" },
+            { "hi": "थायरोक्सिन", "en": "Thyroxine" }
           ],
-          "answer": {"hi": "गर्म रक्त (Warm blooded)", "en": "Warm blooded"}
+          "answer": { "hi": "एस्ट्रोजन (Estrogen)", "en": "Estrogen" }
         },
         {
-          "q": {
-            "hi": "स्तनधारी (Mammalia) जीवों की मुख्य विशेषता क्या है?",
-            "en": "What is the main feature of Mammals?"
-          },
+          "q": { "hi": "हार्मोन के स्रावण के समय और मात्रा को कौन सी क्रियाविधि नियंत्रित करती है?", "en": "Which mechanism controls the timing and amount of hormone secretion?" },
           "options": [
-            {"hi": "अंडे देना", "en": "Laying eggs"},
-            {"hi": "स्तन ग्रंथियों की उपस्थिति (Presence of mammary glands)", "en": "Presence of mammary glands"},
-            {"hi": "पंख होना", "en": "Presence of wings"},
-            {"hi": "एक-कक्षीय हृदय", "en": "One-chambered heart"}
+            { "hi": "उत्सर्जन", "en": "Excretion" },
+            { "hi": "पुनर्भरण क्रियाविधि (Feedback mechanism)", "en": "Feedback mechanism" },
+            { "hi": "पाचन", "en": "Digestion" },
+            { "hi": "श्वसन", "en": "Respiration" }
           ],
-          "answer": {"hi": "स्तन ग्रंथियों की उपस्थिति (Presence of mammary glands)", "en": "Presence of mammary glands"}
+          "answer": { "hi": "पुनर्भरण क्रियाविधि (Feedback mechanism)", "en": "Feedback mechanism" }
         }
       ],
       "section4": [
         {
-          "q": {
-            "hi": "द्विपद नाम पद्धति (Binomial Nomenclature) किसने शुरू की थी?",
-            "en": "Who started the Binomial Nomenclature?"
-          },
+          "q": { "hi": "तंत्रिका तंत्र की कार्यात्मक इकाई क्या है?", "en": "What is the functional unit of the nervous system?" },
           "options": [
-            {"hi": "चार्ल्स डार्विन", "en": "Charles Darwin"},
-            {"hi": "कैरोलस लीनियस (Carolus Linnaeus)", "en": "Carolus Linnaeus"},
-            {"hi": "रॉबर्ट हुक", "en": "Robert Hooke"},
-            {"hi": "लुई पाश्चर", "en": "Louis Pasteur"}
+            { "hi": "नेफ्रॉन", "en": "Nephron" },
+            { "hi": "न्यूरॉन (Neuron)", "en": "Neuron" },
+            { "hi": "कोशिका", "en": "Cell" },
+            { "hi": "ग्रंथि", "en": "Gland" }
           ],
-          "answer": {"hi": "कैरोलस लीनियस (Carolus Linnaeus)", "en": "Carolus Linnaeus"}
+          "answer": { "hi": "न्यूरॉन (Neuron)", "en": "Neuron" }
         },
         {
-          "q": {
-            "hi": "वैज्ञानिक नाम में पहला नाम किस स्तर को दर्शाता है?",
-            "en": "In a scientific name, the first name represents which level?"
-          },
+          "q": { "hi": "मस्तिष्क का कौन सा भाग श्वसन को नियंत्रित करता है?", "en": "Which part of the brain controls respiration?" },
           "options": [
-            {"hi": "जाति (Species)", "en": "Species"},
-            {"hi": "वंश (Genus)", "en": "Genus"},
-            {"hi": "संघ (Phylum)", "en": "Phylum"},
-            {"hi": "जगत (Kingdom)", "en": "Kingdom"}
+            { "hi": "प्रमस्तिष्क", "en": "Cerebrum" },
+            { "hi": "मेडुला (Medulla)", "en": "Medulla" },
+            { "hi": "अनुमस्तिष्क", "en": "Cerebellum" },
+            { "hi": "हाइपोथैलेमस", "en": "Hypothalamus" }
           ],
-          "answer": {"hi": "वंश (Genus)", "en": "Genus"}
+          "answer": { "hi": "मेडुला (Medulla)", "en": "Medulla" }
         },
         {
-          "q": {
-            "hi": "एक-बीजपत्री (Monocots) का उदाहरण कौन-सा है?",
-            "en": "Which is an example of Monocots?"
-          },
+          "q": { "hi": "प्रकाश की अनुक्रिया में पौधे के किस भाग की गति 'धनात्मक' होती है?", "en": "Which part of the plant shows 'positive' movement in response to light?" },
           "options": [
-            {"hi": "मटर", "en": "Pea"},
-            {"hi": "गेहूँ (Wheat/Corn)", "en": "Wheat/Corn"},
-            {"hi": "चना", "en": "Gram"},
-            {"hi": "आम", "en": "Mango"}
+            { "hi": "जड़", "en": "Root" },
+            { "hi": "प्ररोह (Shoot)", "en": "Shoot" },
+            { "hi": "बीज", "en": "Seed" },
+            { "hi": "फूल", "en": "Flower" }
           ],
-          "answer": {"hi": "गेहूँ (Wheat/Corn)", "en": "Wheat/Corn"}
+          "answer": { "hi": "प्ररोह (Shoot)", "en": "Shoot" }
         },
         {
-          "q": {
-            "hi": "किस संघ के जंतुओं में जल संवहन नाल तंत्र (Water vascular system) पाया जाता है?",
-            "en": "In which phylum is the water vascular system found?"
-          },
+          "q": { "hi": "मेरुरज्जु किसकी सुरक्षा में स्थित होती है?", "en": "The spinal cord is protected by?" },
           "options": [
-            {"hi": "मोलस्का", "en": "Mollusca"},
-            {"hi": "इकाइनोडर्मेटा (Echinodermata)", "en": "Echinodermata"},
-            {"hi": "आर्थोपोडा", "en": "Arthropoda"},
-            {"hi": "एनीलिडा", "en": "Annelida"}
+            { "hi": "कपाल", "en": "Cranium" },
+            { "hi": "कशेरुक दंड (Vertebral column)", "en": "Vertebral column" },
+            { "hi": "पसलियाँ", "en": "Ribs" },
+            { "hi": "त्वचा", "en": "Skin" }
           ],
-          "answer": {"hi": "इकाइनोडर्मेटा (Echinodermata)", "en": "Echinodermata"}
+          "answer": { "hi": "कशेरुक दंड (Vertebral column)", "en": "Vertebral column" }
         },
         {
-          "q": {
-            "hi": "अंडे देने वाले स्तनधारी का नाम क्या है?",
-            "en": "Name an egg-laying mammal."
-          },
+          "q": { "hi": "तंत्रिका आवेग की गति कैसी होती है?", "en": "What is the nature of nerve impulse travel?" },
           "options": [
-            {"hi": "ह्वेल", "en": "Whale"},
-            {"hi": "प्लेटिपस (Platypus)", "en": "Platypus"},
-            {"hi": "चमगादड़", "en": "Bat"},
-            {"hi": "कंगारू", "en": "Kangaroo"}
+            { "hi": "विद्युत-रासायनिक (Electro-chemical)", "en": "Electro-chemical" },
+            { "hi": "केवल विद्युत", "en": "Only electrical" },
+            { "hi": "केवल रासायनिक", "en": "Only chemical" },
+            { "hi": "यांत्रिक", "en": "Mechanical" }
           ],
-          "answer": {"hi": "प्लेटिपस (Platypus)", "en": "Platypus"}
+          "answer": { "hi": "विद्युत-रासायनिक (Electro-chemical)", "en": "Electro-chemical" }
         },
         {
-          "q": {
-            "hi": "सिम्बायोटिक (Symbiotic) संबंध क्या है?",
-            "en": "What is a symbiotic relationship?"
-          },
+          "q": { "hi": "पीयूष ग्रंथि को और किस नाम से जाना जाता है?", "en": "By what other name is the pituitary gland known?" },
           "options": [
-            {"hi": "एक जीव दूसरे को मारता है", "en": "One organism kills the other"},
-            {"hi": "दो जीव परस्पर लाभ के लिए साथ रहते हैं", "en": "Two organisms live together for mutual benefit"},
-            {"hi": "केवल कवक का जीवन", "en": "Life of only fungi"},
-            {"hi": "परजीवी जीवन", "en": "Parasitic life"}
+            { "hi": "मिश्रित ग्रंथि", "en": "Mixed gland" },
+            { "hi": "मास्टर ग्रंथि (Master gland)", "en": "Master gland" },
+            { "hi": "सहायक ग्रंथि", "en": "Accessory gland" },
+            { "hi": "बाह्य स्रावी ग्रंथि", "en": "Exocrine gland" }
           ],
-          "answer": {"hi": "दो जीव परस्पर लाभ के लिए साथ रहते हैं", "en": "Two organisms live together for mutual benefit"}
+          "answer": { "hi": "मास्टर ग्रंथि (Master gland)", "en": "Master gland" }
         },
         {
-          "q": {
-            "hi": "लाइकेन (Lichen) किन दो जीवों का सहजीवी संबंध है?",
-            "en": "Lichens are a symbiotic relationship between which two organisms?"
-          },
+          "q": { "hi": "शरीर के तापमान को कौन सा भाग नियंत्रित करता है?", "en": "Which part controls the body temperature?" },
           "options": [
-            {"hi": "कवक और जीवाणु", "en": "Fungi and Bacteria"},
-            {"hi": "नील-हरित शैवाल और कवक (Cyanobacteria and Fungi)", "en": "Cyanobacteria and Fungi"},
-            {"hi": "शैवाल और जीवाणु", "en": "Algae and Bacteria"},
-            {"hi": "पौधे और जंतु", "en": "Plants and Animals"}
+            { "hi": "प्रमस्तिष्क", "en": "Cerebrum" },
+            { "hi": "अनुमस्तिष्क", "en": "Cerebellum" },
+            { "hi": "हाइपोथैलेमस (Hypothalamus)", "en": "Hypothalamus" },
+            { "hi": "मेडुला", "en": "Medulla" }
           ],
-          "answer": {"hi": "नील-हरित शैवाल और कवक (Cyanobacteria and Fungi)", "en": "Cyanobacteria and Fungi"}
+          "answer": { "hi": "हाइपोथैलेमस (Hypothalamus)", "en": "Hypothalamus" }
         },
         {
-          "q": {
-            "hi": "एककोशिकीय यूकैरियोटिक जीव किस जगत में रखे गए हैं?",
-            "en": "Unicellular eukaryotic organisms are placed in which kingdom?"
-          },
+          "q": { "hi": "पौधों में वृद्धि को रोकने वाला हार्मोन कौन सा है?", "en": "Which hormone inhibits growth in plants?" },
           "options": [
-            {"hi": "मोनेरा", "en": "Monera"},
-            {"hi": "प्रोटिस्टा (Protista)", "en": "Protista"},
-            {"hi": "फंजाई", "en": "Fungi"},
-            {"hi": "प्लांटी", "en": "Plantae"}
+            { "hi": "ऑक्सिन", "en": "Auxin" },
+            { "hi": "जिबरेलिन", "en": "Gibberellin" },
+            { "hi": "एब्सिसिक अम्ल (Abscisic acid)", "en": "Abscisic acid" },
+            { "hi": "साइटोकाइनिन", "en": "Cytokinin" }
           ],
-          "answer": {"hi": "प्रोटिस्टा (Protista)", "en": "Protista"}
+          "answer": { "hi": "एब्सिसिक अम्ल (Abscisic acid)", "en": "Abscisic acid" }
         },
         {
-          "q": {
-            "hi": "मशरूम (Mushroom) क्या है?",
-            "en": "What is a mushroom?"
-          },
+          "q": { "hi": "तने की वृद्धि में सहायक हार्मोन कौन सा है?", "en": "Which hormone helps in the growth of the stem?" },
           "options": [
-            {"hi": "पौधा", "en": "Plant"},
-            {"hi": "कवक (Fungi)", "en": "Fungi"},
-            {"hi": "जीवाणु", "en": "Bacteria"},
-            {"hi": "एककोशिकीय जीव", "en": "Unicellular organism"}
+            { "hi": "एब्सिसिक अम्ल", "en": "Abscisic acid" },
+            { "hi": "जिबरेलिन (Gibberellin)", "en": "Gibberellin" },
+            { "hi": "इंसुलिन", "en": "Insulin" },
+            { "hi": "साइटोकाइनिन", "en": "Cytokinin" }
           ],
-          "answer": {"hi": "कवक (Fungi)", "en": "Fungi"}
+          "answer": { "hi": "जिबरेलिन (Gibberellin)", "en": "Gibberellin" }
         },
         {
-          "q": {
-            "hi": "वर्गीकरण की उच्चतम इकाई क्या है?",
-            "en": "What is the highest unit of classification?"
-          },
+          "q": { "hi": "हृदय धड़कन को अचानक तेज करने वाला हार्मोन कौन सा है?", "en": "Which hormone causes a sudden increase in heart rate?" },
           "options": [
-            {"hi": "जाति (Species)", "en": "Species"},
-            {"hi": "जगत (Kingdom)", "en": "Kingdom"},
-            {"hi": "संघ (Phylum)", "en": "Phylum"},
-            {"hi": "वर्ग (Class)", "en": "Class"}
+            { "hi": "थायरोक्सिन", "en": "Thyroxine" },
+            { "hi": "इंसुलिन", "en": "Insulin" },
+            { "hi": "एड्रिनेलिन (Adrenaline)", "en": "Adrenaline" },
+            { "hi": "वृद्धि हार्मोन", "en": "Growth hormone" }
           ],
-          "answer": {"hi": "जगत (Kingdom)", "en": "Kingdom"}
+          "answer": { "hi": "एड्रिनेलिन (Adrenaline)", "en": "Adrenaline" }
         }
       ],
       "section5": [
         {
-          "q": {
-            "hi": "वर्गीकरण की सबसे छोटी (आधारभूत) इकाई क्या है?",
-            "en": "What is the smallest (basic) unit of classification?"
-          },
+          "q": { "hi": "आयोडीन युक्त नमक की सलाह क्यों दी जाती है?", "en": "Why is iodized salt recommended?" },
           "options": [
-            {"hi": "वंश (Genus)", "en": "Genus"},
-            {"hi": "जाति (Species)", "en": "Species"},
-            {"hi": "कुल (Family)", "en": "Family"},
-            {"hi": "गण (Order)", "en": "Order"}
+            { "hi": "पाचन के लिए", "en": "For digestion" },
+            { "hi": "थायरोक्सिन हार्मोन के संश्लेषण के लिए", "en": "For synthesis of thyroxine hormone" },
+            { "hi": "रक्तचाप कम करने के लिए", "en": "To reduce blood pressure" },
+            { "hi": "दाँतों की मजबूती के लिए", "en": "For strong teeth" }
           ],
-          "answer": {"hi": "जाति (Species)", "en": "Species"}
+          "answer": { "hi": "थायरोक्सिन हार्मोन के संश्लेषण के लिए", "en": "For synthesis of thyroxine hormone" }
         },
         {
-          "q": {
-            "hi": "नग्नबीजी (Gymnosperms) का उदाहरण कौन-सा है?",
-            "en": "Which is an example of Gymnosperms?"
-          },
+          "q": { "hi": "मस्तिष्क का कौन सा भाग 'स्मरण शक्ति' का केंद्र है?", "en": "Which part of the brain is the center for 'memory'?" },
           "options": [
-            {"hi": "सरसों", "en": "Mustard"},
-            {"hi": "पाइनस और साइकस (Pinus and Cycas)", "en": "Pinus and Cycas"},
-            {"hi": "गुलाब", "en": "Rose"},
-            {"hi": "धान", "en": "Paddy"}
+            { "hi": "प्रमस्तिष्क (Cerebrum)", "en": "Cerebrum" },
+            { "hi": "अनुमस्तिष्क", "en": "Cerebellum" },
+            { "hi": "मेडुला", "en": "Medulla" },
+            { "hi": "हाइपोथैलेमस", "en": "Hypothalamus" }
           ],
-          "answer": {"hi": "पाइनस और साइकस (Pinus and Cycas)", "en": "Pinus and Cycas"}
+          "answer": { "hi": "प्रमस्तिष्क (Cerebrum)", "en": "Cerebrum" }
         },
         {
-          "q": {
-            "hi": "किस संघ के जीवों में द्विपार्श्व सममिति (Bilateral symmetry) पाई जाती है?",
-            "en": "In which phylum is bilateral symmetry found?"
-          },
+          "q": { "hi": "गुरुत्वानुवर्तन के कारण जड़ें किस ओर गति करती हैं?", "en": "In which direction do roots move due to geotropism?" },
           "options": [
-            {"hi": "पोरीफ़ेरा", "en": "Porifera"},
-            {"hi": "सीलेंटरेटा", "en": "Coelenterata"},
-            {"hi": "प्लेटीहेल्मिन्थीज (Platyhelminthes)", "en": "Platyhelminthes"},
-            {"hi": "मत्स्य", "en": "Pisces"}
+            { "hi": "प्रकाश की ओर", "en": "Towards light" },
+            { "hi": "पृथ्वी की ओर (Towards earth/gravity)", "en": "Towards earth/gravity" },
+            { "hi": "ऊपर की ओर", "en": "Upwards" },
+            { "hi": "क्षैतिज", "en": "Horizontally" }
           ],
-          "answer": {"hi": "प्लेटीहेल्मिन्थीज (Platyhelminthes)", "en": "Platyhelminthes"}
+          "answer": { "hi": "पृथ्वी की ओर (Towards earth/gravity)", "en": "Towards earth/gravity" }
         },
         {
-          "q": {
-            "hi": "स्यूडोकोइलोम (Pseudocoelom) किसमें पाया जाता है?",
-            "en": "In which organism is Pseudocoelom found?"
-          },
+          "q": { "hi": "न्यूरॉन में संदेशों का संचरण किस रूप में होता है?", "en": "In what form are messages transmitted in neurons?" },
           "options": [
-            {"hi": "हाइड्रा", "en": "Hydra"},
-            {"hi": "एस्केरिस (Ascaris/Nematoda)", "en": "Ascaris/Nematoda"},
-            {"hi": "केंचुआ", "en": "Earthworm"},
-            {"hi": "मेंढक", "en": "Frog"}
+            { "hi": "प्रकाश पुंज", "en": "Light beam" },
+            { "hi": "विद्युत आवेग (Electrical impulse)", "en": "Electrical impulse" },
+            { "hi": "ध्वनि तरंग", "en": "Sound wave" },
+            { "hi": "चुंबकीय क्षेत्र", "en": "Magnetic field" }
           ],
-          "answer": {"hi": "एस्केरिस (Ascaris/Nematoda)", "en": "Ascaris/Nematoda"}
+          "answer": { "hi": "विद्युत आवेग (Electrical impulse)", "en": "Electrical impulse" }
         },
         {
-          "q": {
-            "hi": "खुला परिसंचरण तंत्र (Open circulatory system) किसमें होता है?",
-            "en": "Which organisms have an open circulatory system?"
-          },
+          "q": { "hi": "बौनापन किस हार्मोन की कमी से होता है?", "en": "Dwarfism is caused by the deficiency of which hormone?" },
           "options": [
-            {"hi": "तिलचट्टा (Cockroach/Arthropoda)", "en": "Cockroach/Arthropoda"},
-            {"hi": "मनुष्य", "en": "Human"},
-            {"hi": "मेंढक", "en": "Frog"},
-            {"hi": "मछली", "en": "Fish"}
+            { "hi": "थायरोक्सिन", "en": "Thyroxine" },
+            { "hi": "वृद्धि हार्मोन (Growth hormone)", "en": "Growth hormone" },
+            { "hi": "इंसुलिन", "en": "Insulin" },
+            { "hi": "एस्ट्रोजन", "en": "Estrogen" }
           ],
-          "answer": {"hi": "तिलचट्टा (Cockroach/Arthropoda)", "en": "Cockroach/Arthropoda"}
+          "answer": { "hi": "वृद्धि हार्मोन (Growth hormone)", "en": "Growth hormone" }
         },
         {
-          "q": {
-            "hi": "तारा मछली (Starfish) किस संघ का सदस्य है?",
-            "en": "Starfish belongs to which phylum?"
-          },
+          "q": { "hi": "हाथ का गर्म वस्तु से अचानक पीछे हटना किसका उदाहरण है?", "en": "The sudden withdrawal of hand from a hot object is an example of?" },
           "options": [
-            {"hi": "मोलस्का", "en": "Mollusca"},
-            {"hi": "आर्थोपोडा", "en": "Arthropoda"},
-            {"hi": "इकाइनोडर्मेटा (Echinodermata)", "en": "Echinodermata"},
-            {"hi": "एनीलिडा", "en": "Annelida"}
+            { "hi": "वृद्धि गति", "en": "Growth movement" },
+            { "hi": "प्रतिवर्ती क्रिया (Reflex action)", "en": "Reflex action" },
+            { "hi": "स्वैच्छिक गति", "en": "Voluntary movement" },
+            { "hi": "प्रकाशानुवर्तन", "en": "Phototropism" }
           ],
-          "answer": {"hi": "इकाइनोडर्मेटा (Echinodermata)", "en": "Echinodermata"}
+          "answer": { "hi": "प्रतिवर्ती क्रिया (Reflex action)", "en": "Reflex action" }
         },
         {
-          "q": {
-            "hi": "चमगादड़ (Bat) किस वर्ग का प्राणी है?",
-            "en": "Bat belongs to which class?"
-          },
+          "q": { "hi": "अग्न्याशय (Pancreas) एक किस प्रकार की ग्रंथि है?", "en": "What type of gland is the pancreas?" },
           "options": [
-            {"hi": "पक्षी (Aves)", "en": "Aves"},
-            {"hi": "सरीसृप", "en": "Reptiles"},
-            {"hi": "स्तनधारी (Mammalia)", "en": "Mammalia"},
-            {"hi": "उभयचर", "en": "Amphibians"}
+            { "hi": "अंतःस्रावी", "en": "Endocrine" },
+            { "hi": "बाह्यस्रावी", "en": "Exocrine" },
+            { "hi": "मिश्रित ग्रंथि (Mixed gland)", "en": "Mixed gland" },
+            { "hi": "नलिका विहीन", "en": "Ductless" }
           ],
-          "answer": {"hi": "स्तनधारी (Mammalia)", "en": "Mammalia"}
+          "answer": { "hi": "मिश्रित ग्रंथि (Mixed gland)", "en": "Mixed gland" }
         },
         {
-          "q": {
-            "hi": "किस पौधे का शरीर जड़, तना और पत्ती में विभाजित नहीं होता?",
-            "en": "Which plant's body is not differentiated into roots, stem, and leaves?"
-          },
+          "q": { "hi": "मस्तिष्क का कौन सा भाग 'भूख' का केंद्र है?", "en": "Which part of the brain is the center for 'hunger'?" },
           "options": [
-            {"hi": "पाइनस", "en": "Pinus"},
-            {"hi": "स्पाइरोगिरा (Spirogyra)", "en": "Spirogyra"},
-            {"hi": "फर्न", "en": "Fern"},
-            {"hi": "मटर", "en": "Pea"}
+            { "hi": "अग्र-मस्तिष्क (Fore-brain)", "en": "Fore-brain" },
+            { "hi": "पश्च-मस्तिष्क", "en": "Hind-brain" },
+            { "hi": "मध्य-मस्तिष्क", "en": "Mid-brain" },
+            { "hi": "अनुमस्तिष्क", "en": "Cerebellum" }
           ],
-          "answer": {"hi": "स्पाइरोगिरा (Spirogyra)", "en": "Spirogyra"}
+          "answer": { "hi": "अग्र-मस्तिष्क (Fore-brain)", "en": "Fore-brain" }
         },
         {
-          "q": {
-            "hi": "कोशिका भित्ति विहीन बहुकोशिकीय यूकैरियोटिक जीव क्या कहलाते हैं?",
-            "en": "Multicellular eukaryotic organisms without a cell wall are called?"
-          },
+          "q": { "hi": "पादपों में समन्वय किसके माध्यम से होता है?", "en": "How does coordination occur in plants?" },
           "options": [
-            {"hi": "प्लांटी", "en": "Plantae"},
-            {"hi": "एनीमेलिया (Animalia)", "en": "Animalia"},
-            {"hi": "मोनेरा", "en": "Monera"},
-            {"hi": "फंजाई", "en": "Fungi"}
+            { "hi": "तंत्रिका तंत्र", "en": "Nervous system" },
+            { "hi": "रासायनिक साधन/हार्मोन (Chemical means)", "en": "Chemical means/hormones" },
+            { "hi": "मस्तिष्क", "en": "Brain" },
+            { "hi": "मांसपेशियाँ", "en": "Muscles" }
           ],
-          "answer": {"hi": "एनीमेलिया (Animalia)", "en": "Animalia"}
+          "answer": { "hi": "रासायनिक साधन/हार्मोन (Chemical means)", "en": "Chemical means/hormones" }
         },
         {
-          "q": {
-            "hi": "पक्षी और स्तनधारी दोनों में सामान्य गुण क्या है?",
-            "en": "What is a common characteristic between birds and mammals?"
-          },
+          "q": { "hi": "प्रतिवर्ती चाप में ग्राही का कार्य क्या है?", "en": "What is the function of receptor in a reflex arc?" },
           "options": [
-            {"hi": "अंडे देना", "en": "Laying eggs"},
-            {"hi": "पंख होना", "en": "Presence of feathers"},
-            {"hi": "चार कक्षीय हृदय (Four chambered heart)", "en": "Four chambered heart"},
-            {"hi": "शीत रक्त", "en": "Cold blooded"}
+            { "hi": "आदेश देना", "en": "Giving orders" },
+            { "hi": "उद्दीपन का पता लगाना (Detect stimulus)", "en": "Detecting stimulus" },
+            { "hi": "कार्य करना", "en": "Performing action" },
+            { "hi": "रक्त साफ करना", "en": "Cleaning blood" }
           ],
-          "answer": {"hi": "चार कक्षीय हृदय (Four chambered heart)", "en": "Four chambered heart"}
+          "answer": { "hi": "उद्दीपन का पता लगाना (Detect stimulus)", "en": "Detecting stimulus" }
         }
       ]
     },
