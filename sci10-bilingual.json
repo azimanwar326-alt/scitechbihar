@@ -4033,665 +4033,515 @@
         }
       ]
     },
-  "chapter08": {
+  "chapter08":{
       "section1": [
         {
-          "q": {
-            "hi": "किसी वस्तु की स्थिति को बताने के लिए हमें एक निर्देश बिंदु की आवश्यकता होती है, उसे क्या कहते हैं?",
-            "en": "To describe the position of an object, we need a reference point called?"
-          },
+          "q": { "hi": "जनन की मूल घटना क्या है?", "en": "What is the basic event in reproduction?" },
           "options": [
-            {"hi": "अंतिम बिंदु", "en": "Final point"},
-            {"hi": "मूल बिंदु (Origin)", "en": "Origin"},
-            {"hi": "मध्य बिंदु", "en": "Midpoint"},
-            {"hi": "विस्थापन बिंदु", "en": "Displacement point"}
+            { "hi": "कोशिका विभाजन", "en": "Cell division" },
+            { "hi": "DNA की प्रतिकृति बनाना", "en": "Creation of a DNA copy" },
+            { "hi": "युग्मक बनना", "en": "Gamete formation" },
+            { "hi": "वृद्धि", "en": "Growth" }
           ],
-          "answer": {"hi": "मूल बिंदु (Origin)", "en": "Origin"}
+          "answer": { "hi": "DNA की प्रतिकृति बनाना", "en": "Creation of a DNA copy" }
         },
         {
-          "q": {
-            "hi": "किसी वस्तु द्वारा तय किए गए मार्ग की कुल लंबाई को क्या कहते हैं?",
-            "en": "What is the total length of the path covered by an object called?"
-          },
+          "q": { "hi": "अमीबा में जनन किस विधि द्वारा होता है?", "en": "By which method does reproduction occur in Amoeba?" },
           "options": [
-            {"hi": "विस्थापन", "en": "Displacement"},
-            {"hi": "वेग", "en": "Velocity"},
-            {"hi": "दूरी (Distance)", "en": "Distance"},
-            {"hi": "त्वरण", "en": "Acceleration"}
+            { "hi": "मुकुलन", "en": "Budding" },
+            { "hi": "विखंडन (Binary Fission)", "en": "Fission" },
+            { "hi": "पुनरुद्भवन", "en": "Regeneration" },
+            { "hi": "बीजाणु समासंघ", "en": "Spore formation" }
           ],
-          "answer": {"hi": "दूरी (Distance)", "en": "Distance"}
+          "answer": { "hi": "विखंडन (Binary Fission)", "en": "Fission" }
         },
         {
-          "q": {
-            "hi": "वस्तु की प्रारंभिक स्थिति और अंतिम स्थिति के बीच की न्यूनतम दूरी को क्या कहते हैं?",
-            "en": "What is the shortest distance between the initial and final position of an object called?"
-          },
+          "q": { "hi": "यीस्ट में जनन किस विधि से होता है?", "en": "By which method does reproduction occur in Yeast?" },
           "options": [
-            {"hi": "दूरी", "en": "Distance"},
-            {"hi": "विस्थापन (Displacement)", "en": "Displacement"},
-            {"hi": "चाल", "en": "Speed"},
-            {"hi": "पथ की लंबाई", "en": "Path length"}
+            { "hi": "विखंडन", "en": "Fission" },
+            { "hi": "मुकुलन (Budding)", "en": "Budding" },
+            { "hi": "खंडन", "en": "Fragmentation" },
+            { "hi": "पुनरुद्भवन", "en": "Regeneration" }
           ],
-          "answer": {"hi": "विस्थापन (Displacement)", "en": "Displacement"}
+          "answer": { "hi": "मुकुलन (Budding)", "en": "Budding" }
         },
         {
-          "q": {
-            "hi": "दूरी का SI मात्रक क्या है?",
-            "en": "What is the SI unit of distance?"
-          },
+          "q": { "hi": "कालाजार के रोगाणु 'लेस्मानिया' में जनन कैसे होता है?", "en": "How does reproduction occur in Leishmania, the pathogen of kala-azar?" },
           "options": [
-            {"hi": "किलोमीटर (km)", "en": "Kilometre (km)"},
-            {"hi": "सेंटीमीटर (cm)", "en": "Centimetre (cm)"},
-            {"hi": "मीटर (m)", "en": "Metre (m)"},
-            {"hi": "मिलीमीटर (mm)", "en": "Millimetre (mm)"}
+            { "hi": "अनियमित विखंडन", "en": "Irregular fission" },
+            { "hi": "एक निर्धारित तल में द्विखंडन", "en": "Binary fission in a definite orientation" },
+            { "hi": "बहुखंडन", "en": "Multiple fission" },
+            { "hi": "मुकुलन", "en": "Budding" }
           ],
-          "answer": {"hi": "मीटर (m)", "en": "Metre (m)"}
+          "answer": { "hi": "एक निर्धारित तल में द्विखंडन", "en": "Binary fission in a definite orientation" }
         },
         {
-          "q": {
-            "hi": "यदि कोई वस्तु समान समय अंतराल में समान दूरी तय करती है, तो उसकी गति को क्या कहते हैं?",
-            "en": "If an object covers equal distances in equal intervals of time, what is its motion called?"
-          },
+          "q": { "hi": "प्लाज्मोडियम में एक साथ अनेक संतति कोशिकाओं में विभाजन क्या कहलाता है?", "en": "What is the division of Plasmodium into many daughter cells simultaneously called?" },
           "options": [
-            {"hi": "असमान गति", "en": "Non-uniform motion"},
-            {"hi": "एकसमान गति (Uniform motion)", "en": "Uniform motion"},
-            {"hi": "वृत्तीय गति", "en": "Circular motion"},
-            {"hi": "विरामावस्था", "en": "Rest state"}
+            { "hi": "द्विखंडन", "en": "Binary fission" },
+            { "hi": "मुकुलन", "en": "Budding" },
+            { "hi": "बहुखंडन (Multiple Fission)", "en": "Multiple fission" },
+            { "hi": "खंडन", "en": "Fragmentation" }
           ],
-          "answer": {"hi": "एकसमान गति (Uniform motion)", "en": "Uniform motion"}
+          "answer": { "hi": "बहुखंडन (Multiple Fission)", "en": "Multiple fission" }
         },
         {
-          "q": {
-            "hi": "वस्तु द्वारा इकाई समय में तय की गई दूरी को क्या कहते हैं?",
-            "en": "What is the distance travelled by an object in unit time called?"
-          },
+          "q": { "hi": "स्पाइरोगाइरा में जनन की सामान्य विधि क्या है?", "en": "What is the common method of reproduction in Spirogyra?" },
           "options": [
-            {"hi": "वेग", "en": "Velocity"},
-            {"hi": "त्वरण", "en": "Acceleration"},
-            {"hi": "चाल (Speed)", "en": "Speed"},
-            {"hi": "बल", "en": "Force"}
+            { "hi": "विखंडन", "en": "Fission" },
+            { "hi": "खंडन (Fragmentation)", "en": "Fragmentation" },
+            { "hi": "मुकुलन", "en": "Budding" },
+            { "hi": "बीजाणु जनन", "en": "Spore formation" }
           ],
-          "answer": {"hi": "चाल (Speed)", "en": "Speed"}
+          "answer": { "hi": "खंडन (Fragmentation)", "en": "Fragmentation" }
         },
         {
-          "q": {
-            "hi": "चाल (Speed) का SI मात्रक क्या है?",
-            "en": "What is the SI unit of speed?"
-          },
+          "q": { "hi": "हाइय्रा और प्लेनेरिया जैसे जीवों में कटे हुए भाग से नए जीव का बनना क्या कहलाता है?", "en": "What is the process of forming a new organism from cut parts in Hydra and Planaria called?" },
           "options": [
-            {"hi": "m/s²", "en": "m/s²"},
-            {"hi": "km/h", "en": "km/h"},
-            {"hi": "m/s", "en": "m/s"},
-            {"hi": "m.s", "en": "m.s"}
+            { "hi": "मुकुलन", "en": "Budding" },
+            { "hi": "खंडन", "en": "Fragmentation" },
+            { "hi": "पुनरुद्भवन (Regeneration)", "en": "Regeneration" },
+            { "hi": "विखंडन", "en": "Fission" }
           ],
-          "answer": {"hi": "m/s", "en": "m/s"}
+          "answer": { "hi": "पुनरुद्भवन (Regeneration)", "en": "Regeneration" }
         },
         {
-          "q": {
-            "hi": "औसत चाल निकालने का सूत्र क्या है?",
-            "en": "What is the formula to calculate average speed?"
-          },
+          "q": { "hi": "ब्रायोफ़िलम की पत्ती की कोरों पर क्या विकसित होती हैं?", "en": "What develops on the margins of the leaf of Bryophyllum?" },
           "options": [
-            {"hi": "कुल दूरी / कुल समय", "en": "Total distance / Total time"},
-            {"hi": "विस्थापन / समय", "en": "Displacement / Time"},
-            {"hi": "वेग / समय", "en": "Velocity / Time"},
-            {"hi": "दूरी × समय", "en": "Distance × Time"}
+            { "hi": "बीजाणु", "en": "Spores" },
+            { "hi": "कलिकाएं (Buds)", "en": "Buds" },
+            { "hi": "फल", "en": "Fruits" },
+            { "hi": "बीज", "en": "Seeds" }
           ],
-          "answer": {"hi": "कुल दूरी / कुल समय", "en": "Total distance / Total time"}
+          "answer": { "hi": "कलिकाएं (Buds)", "en": "Buds" }
         },
         {
-          "q": {
-            "hi": "एक निश्चित दिशा में चाल को क्या कहते हैं?",
-            "en": "What is speed in a definite direction called?"
-          },
+          "q": { "hi": "राइजोपस (ब्रेड मोल्ड) में जनन की मुख्य संरचना क्या है?", "en": "What is the main reproductive structure in Rhizopus (bread mould)?" },
           "options": [
-            {"hi": "त्वरण", "en": "Acceleration"},
-            {"hi": "वेग (Velocity)", "en": "Velocity"},
-            {"hi": "विस्थापन", "en": "Displacement"},
-            {"hi": "दूरी", "en": "Distance"}
+            { "hi": "जड़", "en": "Root" },
+            { "hi": "बीजाणुधानी (Sporangia)", "en": "Sporangia" },
+            { "hi": "पुष्प", "en": "Flower" },
+            { "hi": "पत्ती", "en": "Leaf" }
           ],
-          "answer": {"hi": "वेग (Velocity)", "en": "Velocity"}
+          "answer": { "hi": "बीजाणुधानी (Sporangia)", "en": "Sporangia" }
         },
         {
-          "q": {
-            "hi": "वेग (Velocity) किस प्रकार की राशि है?",
-            "en": "What type of quantity is velocity?"
-          },
+          "q": { "hi": "कायिक प्रवर्धन का क्या लाभ है?", "en": "What is the advantage of vegetative propagation?" },
           "options": [
-            {"hi": "अदिश राशि", "en": "Scalar quantity"},
-            {"hi": "सदिश राशि (Vector quantity)", "en": "Vector quantity"},
-            {"hi": "मूल राशि", "en": "Base quantity"},
-            {"hi": "कोई नहीं", "en": "None"}
+            { "hi": "विभिन्नता उत्पन्न करना", "en": "Creating variation" },
+            { "hi": "बीज रहित पौधों को उगाना", "en": "Growing seedless plants" },
+            { "hi": "अधिक ऊर्जा व्यय", "en": "High energy expenditure" },
+            { "hi": "धीमी वृद्धि", "en": "Slow growth" }
           ],
-          "answer": {"hi": "सदिश राशि (Vector quantity)", "en": "Vector quantity"}
+          "answer": { "hi": "बीज रहित पौधों को उगाना", "en": "Growing seedless plants" }
         }
       ],
       "section2": [
         {
-          "q": {
-            "hi": "वेग में परिवर्तन की दर को क्या कहते हैं?",
-            "en": "What is the rate of change of velocity called?"
-          },
+          "q": { "hi": "लैंगिक जनन में कितनी व्यष्टियों की आवश्यकता होती है?", "en": "How many individuals are required in sexual reproduction?" },
           "options": [
-            {"hi": "चाल", "en": "Speed"},
-            {"hi": "विस्थापन", "en": "Displacement"},
-            {"hi": "त्वरण (Acceleration)", "en": "Acceleration"},
-            {"hi": "औसत वेग", "en": "Average velocity"}
+            { "hi": "एक", "en": "One" },
+            { "hi": "दो (Two)", "en": "Two" },
+            { "hi": "तीन", "en": "Three" },
+            { "hi": "चार", "en": "Four" }
           ],
-          "answer": {"hi": "त्वरण (Acceleration)", "en": "Acceleration"}
+          "answer": { "hi": "दो (Two)", "en": "Two" }
         },
         {
-          "q": {
-            "hi": "त्वरण (Acceleration) का SI मात्रक क्या है?",
-            "en": "What is the SI unit of acceleration?"
-          },
+          "q": { "hi": "DNA प्रतिकृति में त्रुटियों का क्या परिणाम होता है?", "en": "What is the result of errors in DNA copying?" },
           "options": [
-            {"hi": "m/s", "en": "m/s"},
-            {"hi": "km/h", "en": "km/h"},
-            {"hi": "m/s²", "en": "m/s²"},
-            {"hi": "m²/s", "en": "m²/s"}
+            { "hi": "स्थिरता", "en": "Stability" },
+            { "hi": "विभिन्नता (Variation)", "en": "Variation" },
+            { "hi": "मृत्यु", "en": "Death" },
+            { "hi": "समानता", "en": "Similarity" }
           ],
-          "answer": {"hi": "m/s²", "en": "m/s²"}
+          "answer": { "hi": "विभिन्नता (Variation)", "en": "Variation" }
         },
         {
-          "q": {
-            "hi": "यदि त्वरण वेग की दिशा में है, तो इसे कैसा लिया जाता है?",
-            "en": "If acceleration is in the direction of velocity, it is taken as?"
-          },
+          "q": { "hi": "पुष्प का नर जनन भाग क्या कहलाता है?", "en": "What is the male reproductive part of a flower called?" },
           "options": [
-            {"hi": "ऋणात्मक", "en": "Negative"},
-            {"hi": "धनात्मक (Positive)", "en": "Positive"},
-            {"hi": "शून्य", "en": "Zero"},
-            {"hi": "स्थिर", "en": "Constant"}
+            { "hi": "स्त्रीकेसर", "en": "Pistil" },
+            { "hi": "पुंकेसर (Stamen)", "en": "Stamen" },
+            { "hi": "बाह्यदल", "en": "Sepal" },
+            { "hi": "पंखुड़ी", "en": "Petal" }
           ],
-          "answer": {"hi": "धनात्मक (Positive)", "en": "Positive"}
+          "answer": { "hi": "पुंकेसर (Stamen)", "en": "Stamen" }
         },
         {
-          "q": {
-            "hi": "ऋणात्मक त्वरण को और क्या कहा जाता है?",
-            "en": "What is negative acceleration also called?"
-          },
+          "q": { "hi": "परागकोश में क्या बनते हैं?", "en": "What are formed in the anther?" },
           "options": [
-            {"hi": "वेग", "en": "Velocity"},
-            {"hi": "विस्थापन", "en": "Displacement"},
-            {"hi": "मंदक (Retardation)", "en": "Retardation"},
-            {"hi": "एकसमान गति", "en": "Uniform motion"}
+            { "hi": "बीजांड", "en": "Ovules" },
+            { "hi": "परागकण (Pollen grains)", "en": "Pollen grains" },
+            { "hi": "फल", "en": "Fruits" },
+            { "hi": "पत्तियां", "en": "Leaves" }
           ],
-          "answer": {"hi": "मंदक (Retardation)", "en": "Retardation"}
+          "answer": { "hi": "परागकण (Pollen grains)", "en": "Pollen grains" }
         },
         {
-          "q": {
-            "hi": "स्वतंत्रतापूर्वक गिर रही वस्तु की गति किसका उदाहरण है?",
-            "en": "The motion of a freely falling body is an example of?"
-          },
+          "q": { "hi": "पुष्प का मादा जनन भाग क्या है?", "en": "What is the female reproductive part of a flower?" },
           "options": [
-            {"hi": "असमान त्वरण", "en": "Non-uniform acceleration"},
-            {"hi": "एकसमान त्वरित गति (Uniformly accelerated motion)", "en": "Uniformly accelerated motion"},
-            {"hi": "वृत्तीय गति", "en": "Circular motion"},
-            {"hi": "विरामावस्था", "en": "Rest state"}
+            { "hi": "पुंकेसर", "en": "Stamen" },
+            { "hi": "परागकोश", "en": "Anther" },
+            { "hi": "स्त्रीकेसर (Carpel/Pistil)", "en": "Carpel/Pistil" },
+            { "hi": "तंतु", "en": "Filament" }
           ],
-          "answer": {"hi": "एकसमान त्वरित गति (Uniformly accelerated motion)", "en": "Uniformly accelerated motion"}
+          "answer": { "hi": "स्त्रीकेसर (Carpel/Pistil)", "en": "Carpel/Pistil" }
         },
         {
-          "q": {
-            "hi": "दूरी-समय ग्राफ़ की ढाल (Slope) क्या प्रदर्शित करती है?",
-            "en": "What does the slope of a distance-time graph represent?"
-          },
+          "q": { "hi": "परागकणों का पुंकेसर से वर्तिकाग्र तक स्थानांतरण क्या कहलाता है?", "en": "What is the transfer of pollen grains from stamen to stigma called?" },
           "options": [
-            {"hi": "त्वरण", "en": "Acceleration"},
-            {"hi": "वेग", "en": "Velocity"},
-            {"hi": "चाल (Speed)", "en": "Speed"},
-            {"hi": "विस्थापन", "en": "Displacement"}
+            { "hi": "निषेचन", "en": "Fertilization" },
+            { "hi": "परागण (Pollination)", "en": "Pollination" },
+            { "hi": "अंकुरण", "en": "Germination" },
+            { "hi": "विखंडन", "en": "Fission" }
           ],
-          "answer": {"hi": "चाल (Speed)", "en": "Speed"}
+          "answer": { "hi": "परागण (Pollination)", "en": "Pollination" }
         },
         {
-          "q": {
-            "hi": "वेग-समय ग्राफ़ के नीचे का क्षेत्रफल क्या दर्शाता है?",
-            "en": "What does the area under a velocity-time graph represent?"
-          },
+          "q": { "hi": "जब परागण एक ही पुष्प के वर्तिकाग्र पर होता है, तो उसे क्या कहते हैं?", "en": "What is it called when pollination occurs on the stigma of the same flower?" },
           "options": [
-            {"hi": "चाल", "en": "Speed"},
-            {"hi": "विस्थापन का परिमाण (Magnitude of displacement)", "en": "Magnitude of displacement"},
-            {"hi": "त्वरण", "en": "Acceleration"},
-            {"hi": "औसत वेग", "en": "Average velocity"}
+            { "hi": "पर-परागण", "en": "Cross-pollination" },
+            { "hi": "स्व-परागण (Self-pollination)", "en": "Self-pollination" },
+            { "hi": "निषेचन", "en": "Fertilization" },
+            { "hi": "मुकुलन", "en": "Budding" }
           ],
-          "answer": {"hi": "विस्थापन का परिमाण (Magnitude of displacement)", "en": "Magnitude of displacement"}
+          "answer": { "hi": "स्व-परागण (Self-pollination)", "en": "Self-pollination" }
         },
         {
-          "q": {
-            "hi": "गति का पहला समीकरण क्या है?",
-            "en": "What is the first equation of motion?"
-          },
+          "q": { "hi": "निषेचन के बाद बीजांड से क्या विकसित होता है?", "en": "What develops from the ovule after fertilization?" },
           "options": [
-            {"hi": "s = ut + ½at²", "en": "s = ut + ½at²"},
-            {"hi": "v = u + at", "en": "v = u + at"},
-            {"hi": "2as = v² - u²", "en": "2as = v² - u²"},
-            {"hi": "v = u/t", "en": "v = u/t"}
+            { "hi": "पत्ती", "en": "Leaf" },
+            { "hi": "बीज (Seed)", "en": "Seed" },
+            { "hi": "फल", "en": "Fruit" },
+            { "hi": "जड़", "en": "Root" }
           ],
-          "answer": {"hi": "v = u + at", "en": "v = u + at"}
+          "answer": { "hi": "बीज (Seed)", "en": "Seed" }
         },
         {
-          "q": {
-            "hi": "गति के समीकरणों में 'u' क्या दर्शाता है?",
-            "en": "In equations of motion, what does 'u' represent?"
-          },
+          "q": { "hi": "निषेचन के बाद अंडाशय किसमें विकसित होता है?", "en": "In what does the ovary develop after fertilization?" },
           "options": [
-            {"hi": "अंतिम वेग", "en": "Final velocity"},
-            {"hi": "प्रारंभिक वेग (Initial velocity)", "en": "Initial velocity"},
-            {"hi": "त्वरण", "en": "Acceleration"},
-            {"hi": "समय", "en": "Time"}
+            { "hi": "बीज", "en": "Seed" },
+            { "hi": "पत्ती", "en": "Leaf" },
+            { "hi": "फल (Fruit)", "en": "Fruit" },
+            { "hi": "तुलना", "en": "Comparison" }
           ],
-          "answer": {"hi": "प्रारंभिक वेग (Initial velocity)", "en": "Initial velocity"}
+          "answer": { "hi": "फल (Fruit)", "en": "Fruit" }
         },
         {
-          "q": {
-            "hi": "जब कोई वस्तु वृत्तीय पथ पर एकसमान चाल से चलती है, तो उसकी गति को क्या कहते हैं?",
-            "en": "When an object moves in a circular path with uniform speed, what is its motion called?"
-          },
+          "q": { "hi": "बीज में भविष्य का पौधा किस रूप में होता है?", "en": "In what form is the future plant in the seed?" },
           "options": [
-            {"hi": "सरल रेखीय गति", "en": "Linear motion"},
-            {"hi": "एकसमान वृत्तीय गति (Uniform circular motion)", "en": "Uniform circular motion"},
-            {"hi": "दोलन गति", "en": "Oscillatory motion"},
-            {"hi": "असमान गति", "en": "Non-uniform motion"}
+            { "hi": "फल", "en": "Fruit" },
+            { "hi": "भ्रूण (Embryo)", "en": "Embryo" },
+            { "hi": "परागकण", "en": "Pollen" },
+            { "hi": "कोशिका", "en": "Cell" }
           ],
-          "answer": {"hi": "एकसमान वृत्तीय गति (Uniform circular motion)", "en": "Uniform circular motion"}
+          "answer": { "hi": "भ्रूण (Embryo)", "en": "Embryo" }
         }
       ],
       "section3": [
         {
-          "q": {
-            "hi": "एक एथलीट 'r' त्रिज्या वाले वृत्तीय पथ का एक चक्कर 't' समय में लगाता है। उसका वेग 'v' क्या होगा?",
-            "en": "An athlete takes one round of a circular path of radius 'r' in time 't'. What will be his velocity 'v'?"
-          },
+          "q": { "hi": "यौवनारंभ (Puberty) के दौरान शरीर में परिवर्तनों का क्या कारण है?", "en": "What is the reason for body changes during puberty?" },
           "options": [
-            {"hi": "v = πr/t", "en": "v = πr/t"},
-            {"hi": "v = 2πr/t", "en": "v = 2πr/t"},
-            {"hi": "v = r/t", "en": "v = r/t"},
-            {"hi": "v = 2r/t", "en": "v = 2r/t"}
+            { "hi": "भोजन", "en": "Food" },
+            { "hi": "हार्मोन (Hormones)", "en": "Hormones" },
+            { "hi": "व्यायाम", "en": "Exercise" },
+            { "hi": "नींद", "en": "Sleep" }
           ],
-          "answer": {"hi": "v = 2πr/t", "en": "v = 2πr/t"}
+          "answer": { "hi": "हार्मोन (Hormones)", "en": "Hormones" }
         },
         {
-          "q": {
-            "hi": "ओडोमीटर (Odometer) वाहन की क्या मापता है?",
-            "en": "What does an odometer measure in a vehicle?"
-          },
+          "q": { "hi": "मानव नर में जनन कोशिका (शुक्राणु) का निर्माण कहाँ होता है?", "en": "Where is the male reproductive cell (sperm) produced in humans?" },
           "options": [
-            {"hi": "चाल", "en": "Speed"},
-            {"hi": "समय", "en": "Time"},
-            {"hi": "तय की गई दूरी (Distance covered)", "en": "Distance covered"},
-            {"hi": "त्वरण", "en": "Acceleration"}
+            { "hi": "वृषण (Testes)", "en": "Testes" },
+            { "hi": "प्रोस्टेट", "en": "Prostate" },
+            { "hi": "वृक्क", "en": "Kidney" },
+            { "hi": "मूत्राशय", "en": "Urinary bladder" }
           ],
-          "answer": {"hi": "तय की गई दूरी (Distance covered)", "en": "Distance covered"}
+          "answer": { "hi": "वृषण (Testes)", "en": "Testes" }
         },
         {
-          "q": {
-            "hi": "यदि विस्थापन शून्य है, तो क्या दूरी भी शून्य होनी चाहिए?",
-            "en": "If displacement is zero, must the distance also be zero?"
-          },
+          "q": { "hi": "शुक्राणु उत्पादन के लिए शरीर के ताप से कम ताप की आवश्यकता क्यों होती है?", "en": "Why is a temperature lower than body temperature required for sperm production?" },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं (No)", "en": "No"},
-            {"hi": "केवल विरामावस्था में", "en": "Only at rest"},
-            {"hi": "कह नहीं सकते", "en": "Cannot say"}
+            { "hi": "पाचन के लिए", "en": "For digestion" },
+            { "hi": "शुक्राणु बनने के लिए (For sperm formation)", "en": "For sperm formation" },
+            { "hi": "हृदय गति के लिए", "en": "For heart rate" },
+            { "hi": "श्वसन के लिए", "en": "For respiration" }
           ],
-          "answer": {"hi": "नहीं (No)", "en": "No"}
+          "answer": { "hi": "शुक्राणु बनने के लिए (For sperm formation)", "en": "For sperm formation" }
         },
         {
-          "q": {
-            "hi": "एकसमान गति के लिए समय के साथ दूरी का ग्राफ़ कैसा होता है?",
-            "en": "What is the nature of the distance-time graph for uniform motion?"
-          },
+          "q": { "hi": "नर जनन तंत्र में शुक्राणुओं को वृषण से बाहर ले जाने वाली नलिका क्या कहलाती है?", "en": "What is the duct that carries sperm away from the testes in the male reproductive system called?" },
           "options": [
-            {"hi": "वक्र रेखा", "en": "Curved line"},
-            {"hi": "सरल रेखा (Straight line)", "en": "Straight line"},
-            {"hi": "क्षैतिज रेखा", "en": "Horizontal line"},
-            {"hi": "कोई नहीं", "en": "None"}
+            { "hi": "मूत्रनली", "en": "Ureter" },
+            { "hi": "शुक्रवाहिका (Vas deferens)", "en": "Vas deferens" },
+            { "hi": "फैलोपियन ट्यूब", "en": "Fallopian tube" },
+            { "hi": "योनि", "en": "Vagina" }
           ],
-          "answer": {"hi": "सरल रेखा (Straight line)", "en": "Straight line"}
+          "answer": { "hi": "शुक्रवाहिका (Vas deferens)", "en": "Vas deferens" }
         },
         {
-          "q": {
-            "hi": "वेग-समय ग्राफ़ में एक क्षैतिज रेखा (समय अक्ष के समांतर) क्या दर्शाती है?",
-            "en": "What does a horizontal line (parallel to time axis) in a velocity-time graph represent?"
-          },
+          "q": { "hi": "नर में टेस्टोस्टेरोन हार्मोन का क्या कार्य है?", "en": "What is the function of testosterone hormone in males?" },
           "options": [
-            {"hi": "एकसमान त्वरण", "en": "Uniform acceleration"},
-            {"hi": "एकसमान वेग (Uniform velocity)", "en": "Uniform velocity"},
-            {"hi": "विरामावस्था", "en": "Rest state"},
-            {"hi": "बढ़ता हुआ वेग", "en": "Increasing velocity"}
+            { "hi": "शुक्राणु उत्पादन का नियंत्रण", "en": "Regulation of sperm production" },
+            { "hi": "यौवनारंभ के लक्षणों का नियंत्रण", "en": "Regulation of puberty signs" },
+            { "hi": "उपरोक्त दोनों (Both of above)", "en": "Both of above" },
+            { "hi": "कोई नहीं", "en": "None" }
           ],
-          "answer": {"hi": "एकसमान वेग (Uniform velocity)", "en": "Uniform velocity"}
+          "answer": { "hi": "उपरोक्त दोनों (Both of above)", "en": "Both of above" }
         },
         {
-          "q": {
-            "hi": "किस स्थिति में दूरी और विस्थापन का परिमाण समान होता है?",
-            "en": "In which case are the magnitude of distance and displacement equal?"
-          },
+          "q": { "hi": "मादा जनन कोशिका (अंड-कोशिका) का निर्माण कहाँ होता है?", "en": "Where is the female germ cell (egg cell) produced?" },
           "options": [
-            {"hi": "वृत्तीय पथ पर", "en": "On a circular path"},
-            {"hi": "सीधी रेखा में गति करने पर (Motion in a straight line)", "en": "Motion in a straight line"},
-            {"hi": "वापस प्रारंभिक बिंदु पर आने पर", "en": "Returning to initial point"},
-            {"hi": "कभी नहीं", "en": "Never"}
+            { "hi": "गर्भाशय", "en": "Uterus" },
+            { "hi": "अंडाशय (Ovary)", "en": "Ovary" },
+            { "hi": "योनि", "en": "Vagina" },
+            { "hi": "फैलोपियन ट्यूब", "en": "Fallopian tube" }
           ],
-          "answer": {"hi": "सीधी रेखा में गति करने पर (Motion in a straight line)", "en": "Motion in a straight line"}
+          "answer": { "hi": "अंडाशय (Ovary)", "en": "Ovary" }
         },
         {
-          "q": {
-            "hi": "त्वरण का सूत्र क्या है?",
-            "en": "What is the formula for acceleration?"
-          },
+          "q": { "hi": "अंड-कोशिका निषेचन के लिए कहाँ जाती है?", "en": "Where does the egg cell go for fertilization?" },
           "options": [
-            {"hi": "a = (v + u) / t", "en": "a = (v + u) / t"},
-            {"hi": "a = (v - u) / t", "en": "a = (v - u) / t"},
-            {"hi": "a = v.t", "en": "a = v.t"},
-            {"hi": "a = s / t", "en": "a = s / t"}
+            { "hi": "योनि", "en": "Vagina" },
+            { "hi": "फैलोपियन ट्यूब/डिंबवाहिनी (Fallopian tube)", "en": "Fallopian tube" },
+            { "hi": "गर्भाशय", "en": "Uterus" },
+            { "hi": "अंडाशय", "en": "Ovary" }
           ],
-          "answer": {"hi": "a = (v - u) / t", "en": "a = (v - u) / t"}
+          "answer": { "hi": "फैलोपियन ट्यूब/डिंबवाहिनी (Fallopian tube)", "en": "Fallopian tube" }
         },
         {
-          "q": {
-            "hi": "एक वस्तु 16 मीटर की दूरी 4 सेकंड में तय करती है। उसकी औसत चाल क्या होगी?",
-            "en": "An object travels 16 m in 4 s. What will be its average speed?"
-          },
+          "q": { "hi": "निषेचित अंडा (युग्मनज) कहाँ स्थापित होता है?", "en": "Where is the fertilized egg (zygote) implanted?" },
           "options": [
-            {"hi": "64 m/s", "en": "64 m/s"},
-            {"hi": "4 m/s", "en": "4 m/s"},
-            {"hi": "20 m/s", "en": "20 m/s"},
-            {"hi": "12 m/s", "en": "12 m/s"}
+            { "hi": "योनि में", "en": "In vagina" },
+            { "hi": "अंडाशय में", "en": "In ovary" },
+            { "hi": "गर्भाशय में (In uterus)", "en": "In uterus" },
+            { "hi": "डिंबवाहिनी में", "en": "In fallopian tube" }
           ],
-          "answer": {"hi": "4 m/s", "en": "4 m/s"}
+          "answer": { "hi": "गर्भाशय में (In uterus)", "en": "In uterus" }
         },
         {
-          "q": {
-            "hi": "दूरी-समय ग्राफ़ में यदि रेखा समय अक्ष के समांतर है, तो वस्तु की स्थिति क्या है?",
-            "en": "In a distance-time graph, if the line is parallel to the time axis, what is the state of the object?"
-          },
+          "q": { "hi": "भ्रूण को माँ के रुधिर से पोषण देने वाली विशेष संरचना क्या है?", "en": "What is the special structure that provides nutrition to the embryo from mother's blood?" },
           "options": [
-            {"hi": "गतिमान", "en": "Moving"},
-            {"hi": "विरामावस्था (At rest)", "en": "At rest"},
-            {"hi": "त्वरित", "en": "Accelerating"},
-            {"hi": "अनिश्चित", "en": "Uncertain"}
+            { "hi": "धमनी", "en": "Artery" },
+            { "hi": "शिरा", "en": "Vein" },
+            { "hi": "प्लैसेंटा (Placenta)", "en": "Placenta" },
+            { "hi": "वाल्व", "en": "Valve" }
           ],
-          "answer": {"hi": "विरामावस्था (At rest)", "en": "At rest"}
+          "answer": { "hi": "प्लैसेंटा (Placenta)", "en": "Placenta" }
         },
         {
-          "q": {
-            "hi": "स्पीडोमीटर (Speedometer) वाहन की क्या मापता है?",
-            "en": "What does a speedometer measure in a vehicle?"
-          },
+          "q": { "hi": "मानव में गर्भकाल (Gestation period) लगभग कितना होता है?", "en": "Approximately how long is the gestation period in humans?" },
           "options": [
-            {"hi": "औसत चाल", "en": "Average speed"},
-            {"hi": "तात्कालिक चाल (Instantaneous speed)", "en": "Instantaneous speed"},
-            {"hi": "कुल दूरी", "en": "Total distance"},
-            {"hi": "विस्थापन", "en": "Displacement"}
+            { "hi": "5 महीने", "en": "5 months" },
+            { "hi": "9 महीने (9 months)", "en": "9 months" },
+            { "hi": "12 महीने", "en": "12 months" },
+            { "hi": "7 महीने", "en": "7 months" }
           ],
-          "answer": {"hi": "तात्कालिक चाल (Instantaneous speed)", "en": "Instantaneous speed"}
+          "answer": { "hi": "9 महीने (9 months)", "en": "9 months" }
         }
       ],
       "section4": [
         {
-          "q": {
-            "hi": "वेग-समय ग्राफ़ की ढाल (Slope) क्या प्रदर्शित करती है?",
-            "en": "What does the slope of a velocity-time graph represent?"
-          },
+          "q": { "hi": "यदि अंडाणु का निषेचन नहीं होता, तो क्या होता है?", "en": "What happens if the egg is not fertilized?" },
           "options": [
-            {"hi": "दूरी", "en": "Distance"},
-            {"hi": "त्वरण (Acceleration)", "en": "Acceleration"},
-            {"hi": "चाल", "en": "Speed"},
-            {"hi": "बल", "en": "Force"}
+            { "hi": "गर्भधारण", "en": "Pregnancy" },
+            { "hi": "ऋतुस्राव/रजोधर्म (Menstruation)", "en": "Menstruation" },
+            { "hi": "जुड़वाँ बच्चे", "en": "Twins" },
+            { "hi": "कोई परिवर्तन नहीं", "en": "No change" }
           ],
-          "answer": {"hi": "त्वरण (Acceleration)", "en": "Acceleration"}
+          "answer": { "hi": "ऋतुस्राव/रजोधर्म (Menstruation)", "en": "Menstruation" }
         },
         {
-          "q": {
-            "hi": "गति का दूसरा समीकरण (स्थिति-समय संबंध) कौन सा है?",
-            "en": "Which is the second equation of motion (position-time relation)?"
-          },
+          "q": { "hi": "ऋतुस्राव की अवधि लगभग कितनी होती है?", "en": "Approximately how long is the duration of menstruation?" },
           "options": [
-            {"hi": "v = u + at", "en": "v = u + at"},
-            {"hi": "s = ut + ½at²", "en": "s = ut + ½at²"},
-            {"hi": "2as = v² - u²", "en": "2as = v² - u²"},
-            {"hi": "s = (u+v)t", "en": "s = (u+v)t"}
+            { "hi": "15 दिन", "en": "15 days" },
+            { "hi": "2 से 8 दिन (2 to 8 days)", "en": "2 to 8 days" },
+            { "hi": "1 महीना", "en": "1 month" },
+            { "hi": "10 दिन", "en": "10 days" }
           ],
-          "answer": {"hi": "s = ut + ½at²", "en": "s = ut + ½at²"}
+          "answer": { "hi": "2 से 8 दिन (2 to 8 days)", "en": "2 to 8 days" }
         },
         {
-          "q": {
-            "hi": "एकसमान वृत्तीय गति में क्या नियत (Constant) रहता है?",
-            "en": "In uniform circular motion, what remains constant?"
-          },
+          "q": { "hi": "लैंगिक संपर्क से होने वाला जीवाणु जनित रोग कौन सा है?", "en": "Which is a bacterial disease caused by sexual contact?" },
           "options": [
-            {"hi": "वेग", "en": "Velocity"},
-            {"hi": "त्वरण", "en": "Acceleration"},
-            {"hi": "चाल (Speed)", "en": "Speed"},
-            {"hi": "दिशा", "en": "Direction"}
+            { "hi": "HIV-AIDS", "en": "HIV-AIDS" },
+            { "hi": "सिफ़लिस (Syphilis)", "en": "Syphilis" },
+            { "hi": "मसा (Warts)", "en": "Warts" },
+            { "hi": "मलेरिया", "en": "Malaria" }
           ],
-          "answer": {"hi": "चाल (Speed)", "en": "Speed"}
+          "answer": { "hi": "सिफ़लिस (Syphilis)", "en": "Syphilis" }
         },
         {
-          "q": {
-            "hi": "वेग-समय संबंध के लिए गति का समीकरण है:",
-            "en": "The equation of motion for velocity-time relation is:"
-          },
+          "q": { "hi": "लैंगिक संपर्क से होने वाला विषाणु (Virus) जनित रोग कौन सा है?", "en": "Which is a viral disease caused by sexual contact?" },
           "options": [
-            {"hi": "s = ut + ½at²", "en": "s = ut + ½at²"},
-            {"hi": "v = u + at", "en": "v = u + at"},
-            {"hi": "2as = v² - u²", "en": "2as = v² - u²"},
-            {"hi": "v² = u² + at", "en": "v² = u² + at"}
+            { "hi": "गोनोरिया", "en": "Gonorrhoea" },
+            { "hi": "HIV-AIDS", "en": "HIV-AIDS" },
+            { "hi": "टाइफाइड", "en": "Typhoid" },
+            { "hi": "हैजा", "en": "Cholera" }
           ],
-          "answer": {"hi": "v = u + at", "en": "v = u + at"}
+          "answer": { "hi": "HIV-AIDS", "en": "HIV-AIDS" }
         },
         {
-          "q": {
-            "hi": "वस्तु का विस्थापन कब शून्य हो सकता है?",
-            "en": "When can the displacement of an object be zero?"
-          },
+          "q": { "hi": "कंडोम का उपयोग किसलिए किया जाता है?", "en": "What is the purpose of using condoms?" },
           "options": [
-            {"hi": "जब वस्तु चलना शुरू करे", "en": "When object starts moving"},
-            {"hi": "जब प्रारंभिक और अंतिम बिंदु समान हों (Initial and final points are same)", "en": "When initial and final points are same"},
-            {"hi": "जब वस्तु सीधी रेखा में चले", "en": "When object moves in a straight line"},
-            {"hi": "कभी नहीं", "en": "Never"}
+            { "hi": "गर्भधारण रोकने के लिए", "en": "To prevent pregnancy" },
+            { "hi": "संक्रामक रोगों से बचने के लिए", "en": "To prevent infectious diseases" },
+            { "hi": "उपरोक्त दोनों (Both of above)", "en": "Both of above" },
+            { "hi": "पाचन के लिए", "en": "For digestion" }
           ],
-          "answer": {"hi": "जब प्रारंभिक और अंतिम बिंदु समान हों (Initial and final points are same)", "en": "When initial and final points are same"}
+          "answer": { "hi": "उपरोक्त दोनों (Both of above)", "en": "Both of above" }
         },
         {
-          "q": {
-            "hi": "स्थिति-वेग संबंध के लिए गति का समीकरण है:",
-            "en": "The equation of motion for position-velocity relation is:"
-          },
+          "q": { "hi": "कॉपर-टी (Copper-T) कहाँ स्थापित की जाती है?", "en": "Where is Copper-T placed?" },
           "options": [
-            {"hi": "v = u + at", "en": "v = u + at"},
-            {"hi": "s = ut + ½at²", "en": "s = ut + ½at²"},
-            {"hi": "2as = v² - u²", "en": "2as = v² - u²"},
-            {"hi": "v = u/t", "en": "v = u/t"}
+            { "hi": "योनि में", "en": "In vagina" },
+            { "hi": "गर्भाशय में (In uterus)", "en": "In uterus" },
+            { "hi": "फैलोपियन ट्यूब में", "en": "In fallopian tube" },
+            { "hi": "अंडाशय में", "en": "In ovary" }
           ],
-          "answer": {"hi": "2as = v² - u²", "en": "2as = v² - u²"}
+          "answer": { "hi": "गर्भाशय में (In uterus)", "en": "In uterus" }
         },
         {
-          "q": {
-            "hi": "एकसमान वृत्तीय गति को 'त्वरित गति' क्यों माना जाता है?",
-            "en": "Why is uniform circular motion considered 'accelerated motion'?"
-          },
+          "q": { "hi": "स्त्री में शुक्रवाहिका के स्थान पर कौन सी नली को अवरुद्ध किया जाता है?", "en": "Which tube is blocked in females instead of vas deferens?" },
           "options": [
-            {"hi": "चाल बदलने के कारण", "en": "Because speed changes"},
-            {"hi": "दिशा निरंतर बदलने के कारण (Because direction changes continuously)", "en": "Because direction changes continuously"},
-            {"hi": "द्रव्यमान बदलने के कारण", "en": "Because mass changes"},
-            {"hi": "यह त्वरित नहीं है", "en": "It is not accelerated"}
+            { "hi": "मूत्रनली", "en": "Ureter" },
+            { "hi": "योनि", "en": "Vagina" },
+            { "hi": "फैलोपियन ट्यूब (Fallopian tube)", "en": "Fallopian tube" },
+            { "hi": "गर्भाशय ग्रीवा", "en": "Cervix" }
           ],
-          "answer": {"hi": "दिशा निरंतर बदलने के कारण (Because direction changes continuously)", "en": "Because direction changes continuously"}
+          "answer": { "hi": "फैलोपियन ट्यूब (Fallopian tube)", "en": "Fallopian tube" }
         },
         {
-          "q": {
-            "hi": "चंद्रमा और पृथ्वी की गति किसका उदाहरण है?",
-            "en": "The motion of the moon and the earth is an example of?"
-          },
+          "q": { "hi": "गर्भनिरोधक गोलियां शरीर में क्या करती हैं?", "en": "What do contraceptive pills do in the body?" },
           "options": [
-            {"hi": "असमान गति", "en": "Non-uniform motion"},
-            {"hi": "एकसमान वृत्तीय गति (Uniform circular motion)", "en": "Uniform circular motion"},
-            {"hi": "सरल रेखीय गति", "en": "Linear motion"},
-            {"hi": "मंदित गति", "en": "Retarded motion"}
+            { "hi": "हार्मोन संतुलन को बदलती हैं", "en": "Change hormonal balance" },
+            { "hi": "अंडाणु निकलने से रोकती हैं", "en": "Prevent egg release" },
+            { "hi": "उपरोक्त दोनों (Both of above)", "en": "Both of above" },
+            { "hi": "पाचन बढ़ाती हैं", "en": "Increase digestion" }
           ],
-          "answer": {"hi": "एकसमान वृत्तीय गति (Uniform circular motion)", "en": "Uniform circular motion"}
+          "answer": { "hi": "उपरोक्त दोनों (Both of above)", "en": "Both of above" }
         },
         {
-          "q": {
-            "hi": "यदि कोई वस्तु विरामावस्था से चलना शुरू करती है, तो 'u' का मान क्या होगा?",
-            "en": "If an object starts moving from rest, what will be the value of 'u'?"
-          },
+          "q": { "hi": "भ्रूण हत्या को रोकने के लिए सरकार ने किस पर प्रतिबंध लगाया है?", "en": "On what has the government put a ban to prevent female feticide?" },
           "options": [
-            {"hi": "10 m/s", "en": "10 m/s"},
-            {"hi": "शून्य (Zero)", "en": "Zero"},
-            {"hi": "अनंत", "en": "Infinite"},
-            {"hi": "9.8 m/s", "en": "9.8 m/s"}
+            { "hi": "विवाह पर", "en": "On marriage" },
+            { "hi": "लिंग निर्धारण परीक्षण (Prenatal sex determination)", "en": "Prenatal sex determination" },
+            { "hi": "शिक्षा पर", "en": "On education" },
+            { "hi": "टीकाकरण पर", "en": "On vaccination" }
           ],
-          "answer": {"hi": "शून्य (Zero)", "en": "Zero"}
+          "answer": { "hi": "लिंग निर्धारण परीक्षण (Prenatal sex determination)", "en": "Prenatal sex determination" }
         },
         {
-          "q": {
-            "hi": "दिशा के साथ चाल को क्या कहा जाता है?",
-            "en": "What is speed with direction called?"
-          },
+          "q": { "hi": "अंडाशय से प्रत्येक महीने कितने अंडाणु मुक्त होते हैं?", "en": "How many eggs are released from the ovary each month?" },
           "options": [
-            {"hi": "त्वरण", "en": "Acceleration"},
-            {"hi": "वेग (Velocity)", "en": "Velocity"},
-            {"hi": "दूरी", "en": "Distance"},
-            {"hi": "बल", "en": "Force"}
+            { "hi": "दो", "en": "Two" },
+            { "hi": "एक (One)", "en": "One" },
+            { "hi": "चार", "en": "Four" },
+            { "hi": "सौ", "en": "Hundred" }
           ],
-          "answer": {"hi": "वेग (Velocity)", "en": "Velocity"}
+          "answer": { "hi": "एक (One)", "en": "One" }
         }
       ],
       "section5": [
         {
-          "q": {
-            "hi": "एक निश्चित समय में वेग में परिवर्तन की दर क्या कहलाती है?",
-            "en": "The rate of change of velocity in a given time is called?"
-          },
+          "q": { "hi": "अलैंगिक जनन की तुलना में लैंगिक जनन का मुख्य लाभ क्या है?", "en": "What is the main advantage of sexual reproduction compared to asexual?" },
           "options": [
-            {"hi": "त्वरण (Acceleration)", "en": "Acceleration"},
-            {"hi": "चाल", "en": "Speed"},
-            {"hi": "दूरी", "en": "Distance"},
-            {"hi": "विस्थापन", "en": "Displacement"}
+            { "hi": "तीव्र वृद्धि", "en": "Fast growth" },
+            { "hi": "अधिक विभिन्नताएँ (More variations)", "en": "More variations" },
+            { "hi": "कम ऊर्जा व्यय", "en": "Less energy expenditure" },
+            { "hi": "सरल प्रक्रिया", "en": "Simple process" }
           ],
-          "answer": {"hi": "त्वरण (Acceleration)", "en": "Acceleration"}
+          "answer": { "hi": "अधिक विभिन्नताएँ (More variations)", "en": "More variations" }
         },
         {
-          "q": {
-            "hi": "अदिश राशि (Scalar quantity) का उदाहरण कौन सा है?",
-            "en": "Which is an example of a scalar quantity?"
-          },
+          "q": { "hi": "शुक्राणु का आकार कैसा होता है?", "en": "What is the shape of a sperm?" },
           "options": [
-            {"hi": "वेग", "en": "Velocity"},
-            {"hi": "विस्थापन", "en": "Displacement"},
-            {"hi": "दूरी (Distance)", "en": "Distance"},
-            {"hi": "त्वरण", "en": "Acceleration"}
+            { "hi": "गोलाकार", "en": "Spherical" },
+            { "hi": "लंबी पूंछ वाला (With a long tail)", "en": "With a long tail" },
+            { "hi": "वर्गाकार", "en": "Square" },
+            { "hi": "अंडाकार", "en": "Oval" }
           ],
-          "answer": {"hi": "दूरी (Distance)", "en": "Distance"}
+          "answer": { "hi": "लंबी पूंछ वाला (With a long tail)", "en": "With a long tail" }
         },
         {
-          "q": {
-            "hi": "सदिश राशि (Vector quantity) में क्या होता है?",
-            "en": "What does a vector quantity have?"
-          },
+          "q": { "hi": "नर जनन तंत्र में प्रोस्टेट ग्रंथि का क्या कार्य है?", "en": "What is the function of the prostate gland in the male reproductive system?" },
           "options": [
-            {"hi": "केवल परिमाण", "en": "Only magnitude"},
-            {"hi": "केवल दिशा", "en": "Only direction"},
-            {"hi": "परिमाण और दिशा दोनों (Both magnitude and direction)", "en": "Both magnitude and direction"},
-            {"hi": "कोई नहीं", "en": "None"}
+            { "hi": "शुक्राणु बनाना", "en": "Producing sperm" },
+            { "hi": "एक तरल स्रावित करना (Secretes a fluid)", "en": "Secretes a fluid" },
+            { "hi": "मूत्र बनाना", "en": "Producing urine" },
+            { "hi": "पाचन", "en": "Digestion" }
           ],
-          "answer": {"hi": "परिमाण और दिशा दोनों (Both magnitude and direction)", "en": "Both magnitude and direction"}
+          "answer": { "hi": "एक तरल स्रावित करना (Secretes a fluid)", "en": "Secretes a fluid" }
         },
         {
-          "q": {
-            "hi": "असमान गति (Non-uniform motion) का उदाहरण क्या है?",
-            "en": "What is an example of non-uniform motion?"
-          },
+          "q": { "hi": "पुष्प में बाह्यदल का क्या कार्य है?", "en": "What is the function of sepals in a flower?" },
           "options": [
-            {"hi": "भीड़ वाली सड़क पर कार की गति (Motion of a car on a crowded street)", "en": "Motion of a car on a crowded street"},
-            {"hi": "निर्वात में प्रकाश की गति", "en": "Motion of light in vacuum"},
-            {"hi": "घड़ी की सुई की गति", "en": "Motion of clock hands"},
-            {"hi": "कोई नहीं", "en": "None"}
+            { "hi": "कीटों को आकर्षित करना", "en": "Attract insects" },
+            { "hi": "कली की रक्षा करना (Protecting the bud)", "en": "Protecting the bud" },
+            { "hi": "बीज बनाना", "en": "Making seeds" },
+            { "hi": "परागण करना", "en": "Pollination" }
           ],
-          "answer": {"hi": "भीड़ वाली सड़क पर कार की गति (Motion of a car on a crowded street)", "en": "Motion of a car on a crowded street"}
+          "answer": { "hi": "कली की रक्षा करना (Protecting the bud)", "en": "Protecting the bud" }
         },
         {
-          "q": {
-            "hi": "एकसमान त्वरित गति के लिए वेग-समय ग्राफ़ कैसा होगा?",
-            "en": "How will the velocity-time graph look for uniform accelerated motion?"
-          },
+          "q": { "hi": "बहुकोशिकीय जीवों जैसे हाइड्रा में जनन की मुकुलन विधि में क्या विकसित होता है?", "en": "What develops in the budding method of reproduction in multicellular organisms like Hydra?" },
           "options": [
-            {"hi": "क्षैतिज सरल रेखा", "en": "Horizontal straight line"},
-            {"hi": "तिरछी सरल रेखा (Inclined straight line)", "en": "Inclined straight line"},
-            {"hi": "वक्र रेखा", "en": "Curved line"},
-            {"hi": "कोई रेखा नहीं", "en": "No line"}
+            { "hi": "बीजाणु", "en": "Spores" },
+            { "hi": "एक छोटा उभार/मुकुल (Bud)", "en": "A small outgrowth/bud" },
+            { "hi": "जड़", "en": "Root" },
+            { "hi": "पत्ती", "en": "Leaf" }
           ],
-          "answer": {"hi": "तिरछी सरल रेखा (Inclined straight line)", "en": "Inclined straight line"}
+          "answer": { "hi": "एक छोटा उभार/मुकुल (Bud)", "en": "A small outgrowth/bud" }
         },
         {
-          "q": {
-            "hi": "दूरी और विस्थापन का अनुपात हमेशा क्या होता है?",
-            "en": "What is the ratio of distance to displacement always?"
-          },
+          "q": { "hi": "डीएनए (DNA) का पूर्ण रूप क्या है?", "en": "What is the full form of DNA?" },
           "options": [
-            {"hi": "1 से कम", "en": "Less than 1"},
-            {"hi": "1 के बराबर या अधिक (Greater than or equal to 1)", "en": "Greater than or equal to 1"},
-            {"hi": "हमेशा 1", "en": "Always 1"},
-            {"hi": "शून्य", "en": "Zero"}
+            { "hi": "डिऑक्सीराइबोन्यूक्लिक अम्ल", "en": "Deoxyribonucleic acid" },
+            { "hi": "डेल्टा न्यूक्लिक अम्ल", "en": "Delta nucleic acid" },
+            { "hi": "डबल न्यूक्लिक अम्ल", "en": "Double nucleic acid" },
+            { "hi": "डिजिटल न्यूक्लिक अम्ल", "en": "Digital nucleic acid" }
           ],
-          "answer": {"hi": "1 के बराबर या अधिक (Greater than or equal to 1)", "en": "Greater than or equal to 1"}
+          "answer": { "hi": "डिऑक्सीराइबोन्यूक्लिक अम्ल", "en": "Deoxyribonucleic acid" }
         },
         {
-          "q": {
-            "hi": "विस्थापन का SI मात्रक क्या है?",
-            "en": "What is the SI unit of displacement?"
-          },
+          "q": { "hi": "एक स्पीशीज़ की जनसंख्या का स्थायित्व किस पर निर्भर करता है?", "en": "On what does the stability of a species population depend?" },
           "options": [
-            {"hi": "मीटर (m)", "en": "Metre (m)"},
-            {"hi": "m/s", "en": "m/s"},
-            {"hi": "किलोमीटर", "en": "Kilometre"},
-            {"hi": "मीटर²", "en": "Metre²"}
+            { "hi": "केवल भोजन पर", "en": "Only on food" },
+            { "hi": "जनन पर (Reproduction)", "en": "Reproduction" },
+            { "hi": "पलायन पर", "en": "On migration" },
+            { "hi": "नींद पर", "en": "On sleep" }
           ],
-          "answer": {"hi": "मीटर (m)", "en": "Metre (m)"}
+          "answer": { "hi": "जनन पर (Reproduction)", "en": "Reproduction" }
         },
         {
-          "q": {
-            "hi": "ब्रेक लगाने पर उत्पन्न त्वरण कैसा होता है?",
-            "en": "What kind of acceleration is produced on applying brakes?"
-          },
+          "q": { "hi": "क्या अमीबा का द्विखंडन किसी भी तल से हो सकता है?", "en": "Can binary fission of Amoeba occur from any plane?" },
           "options": [
-            {"hi": "धनात्मक", "en": "Positive"},
-            {"hi": "ऋणात्मक (Negative)", "en": "Negative"},
-            {"hi": "शून्य", "en": "Zero"},
-            {"hi": "अनंत", "en": "Infinite"}
+            { "hi": "हाँ (Yes)", "en": "Yes" },
+            { "hi": "नहीं", "en": "No" },
+            { "hi": "केवल लंबवत", "en": "Only vertical" },
+            { "hi": "केवल क्षैतिज", "en": "Only horizontal" }
           ],
-          "answer": {"hi": "ऋणात्मक (Negative)", "en": "Negative"}
+          "answer": { "hi": "हाँ (Yes)", "en": "Yes" }
         },
         {
-          "q": {
-            "hi": "समय का SI मात्रक क्या है?",
-            "en": "What is the SI unit of time?"
-          },
+          "q": { "hi": "यीस्ट में मुकुल (Bud) अलग होकर क्या बनाता है?", "en": "What does a yeast bud form after separating?" },
           "options": [
-            {"hi": "मिनट", "en": "Minute"},
-            {"hi": "घंटा", "en": "Hour"},
-            {"hi": "सेकंड (Second)", "en": "Second"},
-            {"hi": "दिन", "en": "Day"}
+            { "hi": "पत्ता", "en": "Leaf" },
+            { "hi": "स्वतंत्र जीव (Independent organism)", "en": "Independent organism" },
+            { "hi": "फूल", "en": "Flower" },
+            { "hi": "बीज", "en": "Seed" }
           ],
-          "answer": {"hi": "सेकंड (Second)", "en": "Second"}
+          "answer": { "hi": "स्वतंत्र जीव (Independent organism)", "en": "Independent organism" }
         },
         {
-          "q": {
-            "hi": "औसत वेग (Average Velocity) निकालने का सूत्र क्या है?",
-            "en": "What is the formula for average velocity?"
-          },
+          "q": { "hi": "लैंगिक जनन के दौरान दो विभिन्न जीवों से क्या संयुक्त होता है?", "en": "What is combined from two different organisms during sexual reproduction?" },
           "options": [
-            {"hi": "(u + v) / 2", "en": "(u + v) / 2"},
-            {"hi": "कुल दूरी / कुल समय", "en": "Total distance / Total time"},
-            {"hi": "विस्थापन / कुल समय (Total displacement / Total time)", "en": "Total displacement / Total time"},
-            {"hi": "u × v", "en": "u × v"}
+            { "hi": "केवल रक्त", "en": "Only blood" },
+            { "hi": "DNA/आनुवंशिक सामग्री (Genetic material)", "en": "DNA/Genetic material" },
+            { "hi": "केवल जल", "en": "Only water" },
+            { "hi": "भोजन", "en": "Food" }
           ],
-          "answer": {"hi": "विस्थापन / कुल समय (Total displacement / Total time)", "en": "Total displacement / Total time"}
+          "answer": { "hi": "DNA/आनुवंशिक सामग्री (Genetic material)", "en": "DNA/Genetic material" }
         }
       ]
     },
