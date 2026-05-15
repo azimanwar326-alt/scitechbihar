@@ -8366,9 +8366,672 @@
           "answer": { "hi": "नवीकरणीय ऊर्जा स्रोत", "en": "Renewable energy sources" }
         }
       ]
+    },
+    "chapter15": {
+      "section1": [
+        {
+          "q": {
+            "hi": "वे पदार्थ जो जैविक प्रक्रम द्वारा अपघटित हो जाते हैं, क्या कहलाते हैं?",
+            "en": "Substances that are broken down by biological processes are called?"
+          },
+          "options": [
+            { "hi": "अजैव निम्नीकरणीय", "en": "Non-biodegradable" },
+            { "hi": "जैव निम्नीकरणीय", "en": "Biodegradable" },
+            { "hi": "जहरीले", "en": "Toxic" },
+            { "hi": "स्थायी", "en": "Persistent" }
+          ],
+          "answer": { "hi": "जैव निम्नीकरणीय", "en": "Biodegradable" }
+        },
+        {
+          "q": {
+            "hi": "निम्नलिखित में से कौन-सा एक कृत्रिम पारितंत्र (Artificial Ecosystem) है?",
+            "en": "Which of the following is an artificial ecosystem?"
+          },
+          "options": [
+            { "hi": "वन", "en": "Forest" },
+            { "hi": "तालाब", "en": "Pond" },
+            { "hi": "झील", "en": "Lake" },
+            { "hi": "खेत", "en": "Crop field" }
+          ],
+          "answer": { "hi": "खेत", "en": "Crop field" }
+        },
+        {
+          "q": {
+            "hi": "पारितंत्र के सभी जीवधारी तथा अजैव घटक मिलकर क्या बनाते हैं?",
+            "en": "All living organisms and non-living components together form what?"
+          },
+          "options": [
+            { "hi": "वायुमंडल", "en": "Atmosphere" },
+            { "hi": "पारितंत्र", "en": "Ecosystem" },
+            { "hi": "समुदाय", "en": "Community" },
+            { "hi": "जीवोम", "en": "Biome" }
+          ],
+          "answer": { "hi": "पारितंत्र", "en": "Ecosystem" }
+        },
+        {
+          "q": {
+            "hi": "वे जीव जो सौर ऊर्जा का उपयोग करके अकार्बनिक पदार्थों से कार्बनिक यौगिक बनाते हैं, क्या कहलाते हैं?",
+            "en": "Organisms that produce organic compounds from inorganic substances using solar energy are called?"
+          },
+          "options": [
+            { "hi": "उपभोक्ता", "en": "Consumers" },
+            { "hi": "उत्पादक", "en": "Producers" },
+            { "hi": "अपघटक", "en": "Decomposers" },
+            { "hi": "परजीवी", "en": "Parasites" }
+          ],
+          "answer": { "hi": "उत्पादक", "en": "Producers" }
+        },
+        {
+          "q": {
+            "hi": "नील-हरित शैवाल किस श्रेणी के अंतर्गत आते हैं?",
+            "en": "Blue-green algae fall under which category?"
+          },
+          "options": [
+            { "hi": "उत्पादक", "en": "Producers" },
+            { "hi": "अपघटक", "en": "Decomposers" },
+            { "hi": "शाकाहारी", "en": "Herbivores" },
+            { "hi": "मांसाहारी", "en": "Carnivores" }
+          ],
+          "answer": { "hi": "उत्पादक", "en": "Producers" }
+        },
+        {
+          "q": {
+            "hi": "ऐसे जीव जो उत्पादकों द्वारा उत्पादित भोजन पर प्रत्यक्ष या परोक्ष रूप से निर्भर करते हैं, कहलाते हैं-",
+            "en": "Organisms that depend on the food produced by producers directly or indirectly are called-"
+          },
+          "options": [
+            { "hi": "स्वपोषी", "en": "Autotrophs" },
+            { "hi": "उपभोक्ता", "en": "Consumers" },
+            { "hi": "अकार्बनिक घटक", "en": "Inorganic components" },
+            { "hi": "उत्पादक", "en": "Producers" }
+          ],
+          "answer": { "hi": "उपभोक्ता", "en": "Consumers" }
+        },
+        {
+          "q": {
+            "hi": "मृत अवशेषों का अपमार्जन करने वाले सूक्ष्मजीवों को क्या कहते हैं?",
+            "en": "Microorganisms that scavenge dead remains are called?"
+          },
+          "options": [
+            { "hi": "मांसाहारी", "en": "Carnivores" },
+            { "hi": "शाकाहारी", "en": "Herbivores" },
+            { "hi": "अपघटक", "en": "Decomposers" },
+            { "hi": "उत्पादक", "en": "Producers" }
+          ],
+          "answer": { "hi": "अपघटक", "en": "Decomposers" }
+        },
+        {
+          "q": {
+            "hi": "आहार श्रृंखला (Food Chain) के प्रत्येक चरण को क्या कहते हैं?",
+            "en": "What is each step of a food chain called?"
+          },
+          "options": [
+            { "hi": "उत्पादक स्तर", "en": "Producer level" },
+            { "hi": "उपभोक्ता स्तर", "en": "Consumer level" },
+            { "hi": "पोषी स्तर", "en": "Trophic level" },
+            { "hi": "खाद्य जाल", "en": "Food web" }
+          ],
+          "answer": { "hi": "पोषी स्तर", "en": "Trophic level" }
+        },
+        {
+          "q": {
+            "hi": "आहार श्रृंखला में प्रथम पोषी स्तर पर कौन होते हैं?",
+            "en": "Who occupies the first trophic level in a food chain?"
+          },
+          "options": [
+            { "hi": "शाकाहारी", "en": "Herbivores" },
+            { "hi": "मांसाहारी", "en": "Carnivores" },
+            { "hi": "स्वपोषी (उत्पादक)", "en": "Autotrophs (Producers)" },
+            { "hi": "सर्वाहारी", "en": "Omnivores" }
+          ],
+          "answer": { "hi": "स्वपोषी (उत्पादक)", "en": "Autotrophs (Producers)" }
+        },
+        {
+          "q": {
+            "hi": "शाकाहारी जीव किस पोषी स्तर का निर्माण करते हैं?",
+            "en": "Herbivores form which trophic level?"
+          },
+          "options": [
+            { "hi": "प्रथम", "en": "First" },
+            { "hi": "द्वितीय", "en": "Second" },
+            { "hi": "तृतीय", "en": "Third" },
+            { "hi": "चतुर्थ", "en": "Fourth" }
+          ],
+          "answer": { "hi": "द्वितीय", "en": "Second" }
+        }
+      ],
+      "section2": [
+        {
+          "q": {
+            "hi": "एक पोषी स्तर से दूसरे पोषी स्तर पर कितनी ऊर्जा स्थानांतरित होती है?",
+            "en": "How much energy is transferred from one trophic level to the next?"
+          },
+          "options": [
+            { "hi": "1%", "en": "1%" },
+            { "hi": "10%", "en": "10%" },
+            { "hi": "50%", "en": "50%" },
+            { "hi": "90%", "en": "90%" }
+          ],
+          "answer": { "hi": "10%", "en": "10%" }
+        },
+        {
+          "q": {
+            "hi": "सौर ऊर्जा का कितने प्रतिशत भाग हरे पौधों द्वारा खाद्य ऊर्जा में बदला जाता है?",
+            "en": "What percentage of solar energy is converted into food energy by green plants?"
+          },
+          "options": [
+            { "hi": "10%", "en": "10%" },
+            { "hi": "1%", "en": "1%" },
+            { "hi": "5%", "en": "5%" },
+            { "hi": "20%", "en": "20%" }
+          ],
+          "answer": { "hi": "1%", "en": "1%" }
+        },
+        {
+          "q": {
+            "hi": "आहार श्रृंखला में ऊर्जा का प्रवाह सदैव कैसा होता है?",
+            "en": "How is the flow of energy always in a food chain?"
+          },
+          "options": [
+            { "hi": "चक्रीय", "en": "Cyclic" },
+            { "hi": "एकदिशिक", "en": "Unidirectional" },
+            { "hi": "बहुदिशिक", "en": "Multidirectional" },
+            { "hi": "द्विदिशिक", "en": "Bidirectional" }
+          ],
+          "answer": { "hi": "एकदिशिक", "en": "Unidirectional" }
+        },
+        {
+          "q": {
+            "hi": "जैव आवर्धन (Biological Magnification) का क्या अर्थ है?",
+            "en": "What does Biological Magnification mean?"
+          },
+          "options": [
+            { "hi": "पोषी स्तरों में ऊर्जा की वृद्धि", "en": "Increase in energy in trophic levels" },
+            { "hi": "पोषी स्तरों में रसायनों की सांद्रता में वृद्धि", "en": "Increase in chemical concentration in trophic levels" },
+            { "hi": "जीवों के आकार में वृद्धि", "en": "Increase in size of organisms" },
+            { "hi": "जनसंख्या में वृद्धि", "en": "Increase in population" }
+          ],
+          "answer": { "hi": "पोषी स्तरों में रसायनों की सांद्रता में वृद्धि", "en": "Increase in chemical concentration in trophic levels" }
+        },
+        {
+          "q": {
+            "hi": "किसी भी आहार श्रृंखला में सबसे ऊपर के स्तर पर कौन होता है?",
+            "en": "Who occupies the top level in any food chain?"
+          },
+          "options": [
+            { "hi": "उत्पादक", "en": "Producer" },
+            { "hi": "मनुष्य/शीर्ष मांसाहारी", "en": "Human/Top carnivore" },
+            { "hi": "शाकाहारी", "en": "Herbivore" },
+            { "hi": "अपघटक", "en": "Decomposer" }
+          ],
+          "answer": { "hi": "मनुष्य/शीर्ष मांसाहारी", "en": "Human/Top carnivore" }
+        },
+        {
+          "q": {
+            "hi": "विभिन्न आहार श्रृंखलाओं का एक जाल क्या कहलाता है?",
+            "en": "A network of different food chains is called?"
+          },
+          "options": [
+            { "hi": "पारितंत्र", "en": "Ecosystem" },
+            { "hi": "आहार जाल (Food Web)", "en": "Food Web" },
+            { "hi": "पोषी जाल", "en": "Trophic web" },
+            { "hi": "जैव मंडल", "en": "Biosphere" }
+          ],
+          "answer": { "hi": "आहार जाल (Food Web)", "en": "Food Web" }
+        },
+        {
+          "q": {
+            "hi": "ओजोन (O3) के एक अणु में ऑक्सीजन के कितने परमाणु होते हैं?",
+            "en": "How many oxygen atoms are in one molecule of Ozone (O3)?"
+          },
+          "options": [
+            { "hi": "1", "en": "1" },
+            { "hi": "2", "en": "2" },
+            { "hi": "3", "en": "3" },
+            { "hi": "4", "en": "4" }
+          ],
+          "answer": { "hi": "3", "en": "3" }
+        },
+        {
+          "q": {
+            "hi": "ओजोन परत वायुमंडल के किस स्तर पर पाई जाती है?",
+            "en": "At which level of the atmosphere is the ozone layer found?"
+          },
+          "options": [
+            { "hi": "क्षोभमंडल", "en": "Troposphere" },
+            { "hi": "समतापमंडल (उच्चतर स्तर)", "en": "Stratosphere (higher levels)" },
+            { "hi": "मध्यमंडल", "en": "Mesosphere" },
+            { "hi": "बाह्यमंडल", "en": "Exosphere" }
+          ],
+          "answer": { "hi": "समतापमंडल (उच्चतर स्तर)", "en": "Stratosphere (higher levels)" }
+        },
+        {
+          "q": {
+            "hi": "पराबैंगनी (UV) विकिरण मानव में कौन-सा रोग उत्पन्न कर सकता है?",
+            "en": "Ultraviolet (UV) radiation can cause which disease in humans?"
+          },
+          "options": [
+            { "hi": "मलेरिया", "en": "Malaria" },
+            { "hi": "त्वचा का कैंसर", "en": "Skin cancer" },
+            { "hi": "टाइफाइड", "en": "Typhoid" },
+            { "hi": "पीलिया", "en": "Jaundice" }
+          ],
+          "answer": { "hi": "त्वचा का कैंसर", "en": "Skin cancer" }
+        },
+        {
+          "q": {
+            "hi": "ओजोन परत के क्षय के लिए मुख्य रूप से कौन-सा रसायन उत्तरदायी है?",
+            "en": "Which chemical is mainly responsible for ozone layer depletion?"
+          },
+          "options": [
+            { "hi": "CO2", "en": "CO2" },
+            { "hi": "CH4", "en": "CH4" },
+            { "hi": "क्लोरोफ्लोरोकार्बन (CFCs)", "en": "Chlorofluorocarbons (CFCs)" },
+            { "hi": "SO2", "en": "SO2" }
+          ],
+          "answer": { "hi": "क्लोरोफ्लोरोकार्बन (CFCs)", "en": "Chlorofluorocarbons (CFCs)" }
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "CFCs का उपयोग मुख्य रूप से किसमें किया जाता है?",
+            "en": "CFCs are mainly used in which of the following?"
+          },
+          "options": [
+            { "hi": "वाहनों में", "en": "Vehicles" },
+            { "hi": "रेफ्रिजरेटरों एवं अग्निशमन में", "en": "Refrigerators and fire extinguishers" },
+            { "hi": "सौर पैनलों में", "en": "Solar panels" },
+            { "hi": "ओवन में", "en": "Ovens" }
+          ],
+          "answer": { "hi": "रेफ्रिजरेटरों एवं अग्निशमन में", "en": "Refrigerators and fire extinguishers" }
+        },
+        {
+          "q": {
+            "hi": "UNEP का पूर्ण रूप क्या है?",
+            "en": "What is the full form of UNEP?"
+          },
+          "options": [
+            { "hi": "United Nations Education Program", "en": "United Nations Education Program" },
+            { "hi": "United Nations Environment Programme", "en": "United Nations Environment Programme" },
+            { "hi": "United Nations Energy Project", "en": "United Nations Energy Project" },
+            { "hi": "United Nations Emergency Plan", "en": "United Nations Emergency Plan" }
+          ],
+          "answer": { "hi": "United Nations Environment Programme", "en": "United Nations Environment Programme" }
+        },
+        {
+          "q": {
+            "hi": "वे पदार्थ जो सूक्ष्मजीवों द्वारा अपघटित नहीं होते, क्या कहलाते हैं?",
+            "en": "Substances that are not broken down by microorganisms are called?"
+          },
+          "options": [
+            { "hi": "जैव निम्नीकरणीय", "en": "Biodegradable" },
+            { "hi": "अजैव निम्नीकरणीय", "en": "Non-biodegradable" },
+            { "hi": "कार्बनिक", "en": "Organic" },
+            { "hi": "तरल अपशिष्ट", "en": "Liquid waste" }
+          ],
+          "answer": { "hi": "अजैव निम्नीकरणीय", "en": "Non-biodegradable" }
+        },
+        {
+          "q": {
+            "hi": "निम्नलिखित में से कौन-सा समूह केवल जैव निम्नीकरणीय पदार्थों का है?",
+            "en": "Which of the following groups contains only biodegradable substances?"
+          },
+          "options": [
+            { "hi": "घास, पुष्प तथा चमड़ा", "en": "Grass, flowers and leather" },
+            { "hi": "प्लास्टिक, केक तथा घास", "en": "Plastic, cake and grass" },
+            { "hi": "फलों के छिलके, काँच तथा नींबू का रस", "en": "Fruit peels, glass and lemon juice" },
+            { "hi": "केक, लकड़ी एवं लोहा", "en": "Cake, wood and iron" }
+          ],
+          "answer": { "hi": "घास, पुष्प तथा चमड़ा", "en": "Grass, flowers and leather" }
+        },
+        {
+          "q": {
+            "hi": "आहार श्रृंखला में ऊर्जा की हानि प्रत्येक स्तर पर कितनी होती है?",
+            "en": "How much energy loss occurs at each level in a food chain?"
+          },
+          "options": [
+            { "hi": "10%", "en": "10%" },
+            { "hi": "90%", "en": "90%" },
+            { "hi": "50%", "en": "50%" },
+            { "hi": "0%", "en": "0%" }
+          ],
+          "answer": { "hi": "90%", "en": "90%" }
+        },
+        {
+          "q": {
+            "hi": "निम्नलिखित में से कौन-सी एक आहार श्रृंखला सही है?",
+            "en": "Which of the following is a correct food chain?"
+          },
+          "options": [
+            { "hi": "घास -> गेहूँ -> आम", "en": "Grass -> Wheat -> Mango" },
+            { "hi": "घास -> बकरी -> मानव", "en": "Grass -> Goat -> Human" },
+            { "hi": "बकरी -> गाय -> हाथी", "en": "Goat -> Cow -> Elephant" },
+            { "hi": "घास -> मछली -> बकरी", "en": "Grass -> Fish -> Goat" }
+          ],
+          "answer": { "hi": "घास -> बकरी -> मानव", "en": "Grass -> Goat -> Human" }
+        },
+        {
+          "q": {
+            "hi": "किसी पारितंत्र में अपघटकों का क्या कार्य है?",
+            "en": "What is the function of decomposers in an ecosystem?"
+          },
+          "options": [
+            { "hi": "ऊर्जा बनाना", "en": "Creating energy" },
+            { "hi": "जटिल कार्बनिक पदार्थों को सरल अकार्बनिक पदार्थों में बदलना", "en": "Converting complex organic substances into simple inorganic substances" },
+            { "hi": "ऑक्सीजन छोड़ना", "en": "Releasing oxygen" },
+            { "hi": "भोजन का भंडारण", "en": "Storing food" }
+          ],
+          "answer": { "hi": "जटिल कार्बनिक पदार्थों को सरल अकार्बनिक पदार्थों में बदलना", "en": "Converting complex organic substances into simple inorganic substances" }
+        },
+        {
+          "q": {
+            "hi": "ओजोन अणु उच्चतर ऊर्जा वाले किस विकिरण के प्रभाव से बनते हैं?",
+            "en": "Ozone molecules are formed under the effect of which higher energy radiation?"
+          },
+          "options": [
+            { "hi": "अवरक्त विकिरण", "en": "Infrared radiation" },
+            { "hi": "पराबैंगनी विकिरण (UV)", "en": "Ultraviolet radiation (UV)" },
+            { "hi": "दृश्य प्रकाश", "en": "Visible light" },
+            { "hi": "रेडियो तरंगें", "en": "Radio waves" }
+          ],
+          "answer": { "hi": "पराबैंगनी विकिरण (UV)", "en": "Ultraviolet radiation (UV)" }
+        },
+        {
+          "q": {
+            "hi": "कुल्हड़ों (मिट्टी के कपों) का उपयोग क्यों बंद कर दिया गया?",
+            "en": "Why was the use of Kulhads (clay cups) stopped?"
+          },
+          "options": [
+            { "hi": "वे महंगे थे", "en": "They were expensive" },
+            { "hi": "वे स्वास्थ्य के लिए हानिकारक थे", "en": "They were harmful to health" },
+            { "hi": "ऊपरी उपजाऊ मिट्टी की हानि के कारण", "en": "Due to loss of fertile topsoil" },
+            { "hi": "वे सुंदर नहीं थे", "en": "They were not beautiful" }
+          ],
+          "answer": { "hi": "ऊपरी उपजाऊ मिट्टी की हानि के कारण", "en": "Due to loss of fertile topsoil" }
+        },
+        {
+          "q": {
+            "hi": "पारितंत्र के जैव घटकों में कौन शामिल हैं?",
+            "en": "Who are included in the biotic components of an ecosystem?"
+          },
+          "options": [
+            { "hi": "तापमान और वर्षा", "en": "Temperature and rain" },
+            { "hi": "पौधे, जंतु और सूक्ष्मजीव", "en": "Plants, animals and microorganisms" },
+            { "hi": "मिट्टी और खनिज", "en": "Soil and minerals" },
+            { "hi": "हवा और पानी", "en": "Air and water" }
+          ],
+          "answer": { "hi": "पौधे, जंतु और सूक्ष्मजीव", "en": "Plants, animals and microorganisms" }
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "पारितंत्र के अजैव घटकों में कौन शामिल नहीं है?",
+            "en": "Which is NOT included in the abiotic components of an ecosystem?"
+          },
+          "options": [
+            { "hi": "वायु", "en": "Air" },
+            { "hi": "मृदा", "en": "Soil" },
+            { "hi": "जीवाणु", "en": "Bacteria" },
+            { "hi": "प्रकाश", "en": "Light" }
+          ],
+          "answer": { "hi": "जीवाणु", "en": "Bacteria" }
+        },
+        {
+          "q": {
+            "hi": "घास के मैदान में टिड्डा किस श्रेणी में आता है?",
+            "en": "In a grassland, where does a grasshopper fall?"
+          },
+          "options": [
+            { "hi": "प्राथमिक उपभोक्ता (शाकाहारी)", "en": "Primary consumer (Herbivore)" },
+            { "hi": "उत्पादक", "en": "Producer" },
+            { "hi": "द्वितीयक उपभोक्ता", "en": "Secondary consumer" },
+            { "hi": "अपघटक", "en": "Decomposer" }
+          ],
+          "answer": { "hi": "प्राथमिक उपभोक्ता (शाकाहारी)", "en": "Primary consumer (Herbivore)" }
+        },
+        {
+          "q": {
+            "hi": "एक तालाब के पारितंत्र में 'मछली' क्या है?",
+            "en": "In a pond ecosystem, what is a 'fish'?"
+          },
+          "options": [
+            { "hi": "उत्पादक", "en": "Producer" },
+            { "hi": "उपभोक्ता", "en": "Consumer" },
+            { "hi": "अजैव घटक", "en": "Abiotic factor" },
+            { "hi": "अपघटक", "en": "Decomposer" }
+          ],
+          "answer": { "hi": "उपभोक्ता", "en": "Consumer" }
+        },
+        {
+          "q": {
+            "hi": "भोजन की कितनी मात्रा अगले स्तर के उपभोक्ता के लिए उपलब्ध होती है?",
+            "en": "How much amount of food is available for the next level consumer?"
+          },
+          "options": [
+            { "hi": "लगभग 50%", "en": "About 50%" },
+            { "hi": "लगभग 10%", "en": "About 10%" },
+            { "hi": "लगभग 90%", "en": "About 90%" },
+            { "hi": "लगभग 1%", "en": "About 1%" }
+          ],
+          "answer": { "hi": "लगभग 10%", "en": "About 10%" }
+        },
+        {
+          "q": {
+            "hi": "पर्यावरण मित्र व्यवहार कौन-सा है?",
+            "en": "Which is an environment-friendly behavior?"
+          },
+          "options": [
+            { "hi": "कपड़े के थैले का उपयोग", "en": "Using cloth bags" },
+            { "hi": "अनावश्यक लाइट बंद करना", "en": "Switching off unnecessary lights" },
+            { "hi": "पैदल चलना", "en": "Walking instead of using vehicle" },
+            { "hi": "उपरोक्त सभी", "en": "All of the above" }
+          ],
+          "answer": { "hi": "उपरोक्त सभी", "en": "All of the above" }
+        },
+        {
+          "q": {
+            "hi": "ओजोन का ह्रास होने पर पृथ्वी पर कौन-सी समस्या बढ़ेगी?",
+            "en": "If ozone depletes, which problem will increase on Earth?"
+          },
+          "options": [
+            { "hi": "बाढ़", "en": "Floods" },
+            { "hi": "पराबैंगनी विकिरण में वृद्धि", "en": "Increase in UV radiation" },
+            { "hi": "ऑक्सीजन की कमी", "en": "Lack of oxygen" },
+            { "hi": "भूकंप", "en": "Earthquakes" }
+          ],
+          "answer": { "hi": "पराबैंगनी विकिरण में वृद्धि", "en": "Increase in UV radiation" }
+        },
+        {
+          "q": {
+            "hi": "अपशिष्ट पदार्थों का सही निपटान क्यों आवश्यक है?",
+            "en": "Why is proper disposal of waste materials necessary?"
+          },
+          "options": [
+            { "hi": "बीमारियों को रोकने के लिए", "en": "To prevent diseases" },
+            { "hi": "पर्यावरण प्रदूषण कम करने के लिए", "en": "To reduce environmental pollution" },
+            { "hi": "सौंदर्य बनाए रखने के लिए", "en": "To maintain beauty" },
+            { "hi": "उपरोक्त सभी", "en": "All of the above" }
+          ],
+          "answer": { "hi": "उपरोक्त सभी", "en": "All of the above" }
+        },
+        {
+          "q": {
+            "hi": "अजैव निम्नीकरणीय अपशिष्टों का उदाहरण है-",
+            "en": "An example of non-biodegradable waste is-"
+          },
+          "options": [
+            { "hi": "सब्जियों के छिलके", "en": "Vegetable peels" },
+            { "hi": "कागज", "en": "Paper" },
+            { "hi": "प्लास्टिक", "en": "Plastic" },
+            { "hi": "लकड़ी", "en": "Wood" }
+          ],
+          "answer": { "hi": "प्लास्टिक", "en": "Plastic" }
+        },
+        {
+          "q": {
+            "hi": "पारितंत्र में ऊर्जा का अंतिम स्रोत क्या है?",
+            "en": "What is the ultimate source of energy in an ecosystem?"
+          },
+          "options": [
+            { "hi": "कोयला", "en": "Coal" },
+            { "hi": "बिजली", "en": "Electricity" },
+            { "hi": "सूर्य का प्रकाश", "en": "Sunlight" },
+            { "hi": "पौधे", "en": "Plants" }
+          ],
+          "answer": { "hi": "सूर्य का प्रकाश", "en": "Sunlight" }
+        },
+        {
+          "q": {
+            "hi": "यदि एक पोषी स्तर के सभी जीवों को समाप्त कर दिया जाए, तो क्या होगा?",
+            "en": "What happens if all organisms of one trophic level are killed?"
+          },
+          "options": [
+            { "hi": "पारितंत्र बेहतर हो जाएगा", "en": "Ecosystem will improve" },
+            { "hi": "आहार श्रृंखला असंतुलित हो जाएगी", "en": "Food chain will become unbalanced" },
+            { "hi": "कोई प्रभाव नहीं पड़ेगा", "en": "No effect will occur" },
+            { "hi": "जीवों की संख्या बढ़ जाएगी", "en": "Number of organisms will increase" }
+          ],
+          "answer": { "hi": "आहार श्रृंखला असंतुलित हो जाएगी", "en": "Food chain will become unbalanced" }
+        }
+      ],
+      "section5": [
+        {
+          "q": {
+            "hi": "आहार श्रृंखला में सामान्यतः कितने चरण होते हैं?",
+            "en": "How many steps are generally there in a food chain?"
+          },
+          "options": [
+            { "hi": "1-2", "en": "1-2" },
+            { "hi": "3-4", "en": "3-4" },
+            { "hi": "10-12", "en": "10-12" },
+            { "hi": "असीमित", "en": "Unlimited" }
+          ],
+          "answer": { "hi": "3-4", "en": "3-4" }
+        },
+        {
+          "q": {
+            "hi": "जैविक कचरा जैसे सब्जियों के छिलके का उपयोग क्या बनाने में किया जा सकता है?",
+            "en": "Biological waste like vegetable peels can be used to make what?"
+          },
+          "options": [
+            { "hi": "लोहा", "en": "Iron" },
+            { "hi": "प्लास्टिक", "en": "Plastic" },
+            { "hi": "कंपोस्ट खाद", "en": "Compost manure" },
+            { "hi": "काँच", "en": "Glass" }
+          ],
+          "answer": { "hi": "कंपोस्ट खाद", "en": "Compost manure" }
+        },
+        {
+          "q": {
+            "hi": "प्रकृति में सफाई करने वाले जीव किन्हें कहा जाता है?",
+            "en": "Which organisms are called the scavengers/cleaners in nature?"
+          },
+          "options": [
+            { "hi": "उत्पादक", "en": "Producers" },
+            { "hi": "शाकाहारी", "en": "Herbivores" },
+            { "hi": "अपघटक (जीवाणु एवं कवक)", "en": "Decomposers (Bacteria and Fungi)" },
+            { "hi": "मांसाहारी", "en": "Carnivores" }
+          ],
+          "answer": { "hi": "अपघटक (जीवाणु एवं कवक)", "en": "Decomposers (Bacteria and Fungi)" }
+        },
+        {
+          "q": {
+            "hi": "ओजोन परत की कमी 1980 के दशक में पहली बार कहाँ देखी गई?",
+            "en": "Where was the ozone layer depletion first observed in the 1980s?"
+          },
+          "options": [
+            { "hi": "अंटार्कटिका", "en": "Antarctica" },
+            { "hi": "भारत", "en": "India" },
+            { "hi": "अफ्रीका", "en": "Africa" },
+            { "hi": "चीन", "en": "China" }
+          ],
+          "answer": { "hi": "अंटार्कटिका", "en": "Antarctica" }
+        },
+        {
+          "q": {
+            "hi": "डिस्पोजेबल प्लास्टिक कपों के बजाय कागज के कपों का उपयोग क्यों बेहतर है?",
+            "en": "Why is using paper cups better than disposable plastic cups?"
+          },
+          "options": [
+            { "hi": "वे सस्ते हैं", "en": "They are cheap" },
+            { "hi": "वे जैव निम्नीकरणीय हैं", "en": "They are biodegradable" },
+            { "hi": "वे मजबूत हैं", "en": "They are strong" },
+            { "hi": "वे पानी नहीं सोखते", "en": "They don't absorb water" }
+          ],
+          "answer": { "hi": "वे जैव निम्नीकरणीय हैं", "en": "They are biodegradable" }
+        },
+        {
+          "q": {
+            "hi": "खाद्य जाल में ऊर्जा का प्रवाह कैसा होता है?",
+            "en": "How is the flow of energy in a food web?"
+          },
+          "options": [
+            { "hi": "एकदिशिक", "en": "Unidirectional" },
+            { "hi": "चक्रीय", "en": "Cyclic" },
+            { "hi": "उल्टा", "en": "Reverse" },
+            { "hi": "अनियमित", "en": "Irregular" }
+          ],
+          "answer": { "hi": "एकदिशिक", "en": "Unidirectional" }
+        },
+        {
+          "q": {
+            "hi": "मनुष्य पारितंत्र के किस स्तर के अंतर्गत आता है?",
+            "en": "Humans fall under which level of the ecosystem?"
+          },
+          "options": [
+            { "hi": "केवल उत्पादक", "en": "Only producer" },
+            { "hi": "केवल शाकाहारी", "en": "Only herbivore" },
+            { "hi": "सर्वाहारी (उपभोक्ता)", "en": "Omnivore (Consumer)" },
+            { "hi": "अपघटक", "en": "Decomposer" }
+          ],
+          "answer": { "hi": "सर्वाहारी (उपभोक्ता)", "en": "Omnivore (Consumer)" }
+        },
+        {
+          "q": {
+            "hi": "ओजोन गैस का रंग कैसा होता है?",
+            "en": "What is the color of ozone gas?"
+          },
+          "options": [
+            { "hi": "लाल", "en": "Red" },
+            { "hi": "पीला", "en": "Yellow" },
+            { "hi": "नीला (गहरा नीला)", "en": "Blue (Deep blue)" },
+            { "hi": "सफेद", "en": "White" }
+          ],
+          "answer": { "hi": "नीला (गहरा नीला)", "en": "Blue (Deep blue)" }
+        },
+        {
+          "q": {
+            "hi": "कीटनाशकों का आहार श्रृंखला में प्रवेश क्या कहलाता है?",
+            "en": "The entry of pesticides into the food chain is called?"
+          },
+          "options": [
+            { "hi": "जैव आवर्धन", "en": "Biological magnification" },
+            { "hi": "जैव निम्नीकरण", "en": "Biodegradation" },
+            { "hi": "प्रदूषण", "en": "Pollution" },
+            { "hi": "प्रकाश संश्लेषण", "en": "Photosynthesis" }
+          ],
+          "answer": { "hi": "जैव आवर्धन", "en": "Biological magnification" }
+        },
+        {
+          "q": {
+            "hi": "पारितंत्र के विभिन्न घटकों के बीच ऊर्जा का प्रवाह क्या कहलाता है?",
+            "en": "What is the flow of energy between various components of an ecosystem called?"
+          },
+          "options": [
+            { "hi": "ऊर्जा पिरामिड", "en": "Energy pyramid" },
+            { "hi": "ऊर्जा प्रवाह", "en": "Energy flow" },
+            { "hi": "ऊर्जा चक्र", "en": "Energy cycle" },
+            { "hi": "ऊर्जा संरक्षण", "en": "Energy conservation" }
+          ],
+          "answer": { "hi": "ऊर्जा प्रवाह", "en": "Energy flow" }
+        }
+      ]
     }
   }
 }
+
 
 
 
