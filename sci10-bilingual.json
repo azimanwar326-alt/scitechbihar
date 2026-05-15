@@ -6381,1327 +6381,1327 @@
         }
       ]
     },
-    "chapter12": {
+    "chapter12":{
       "section1": [
         {
           "q": {
-            "hi": "ध्वनि का उत्पादन कैसे होता है?",
-            "en": "How is sound produced?"
+            "hi": "विद्युत आवेश के प्रवाह की दर को क्या कहते हैं?",
+            "en": "What is the rate of flow of electric charge called?"
           },
           "options": [
-            {"hi": "प्रकाश के कारण", "en": "Due to light"},
-            {"hi": "वस्तुओं के कंपन के कारण", "en": "Due to vibration of objects"},
-            {"hi": "तापमान बढ़ने के कारण", "en": "Due to rise in temperature"},
-            {"hi": "चुंबकीय बल के कारण", "en": "Due to magnetic force"}
+            { "hi": "विद्युत विभव", "en": "Electric potential" },
+            { "hi": "विद्युत धारा", "en": "Electric current" },
+            { "hi": "विद्युत शक्ति", "en": "Electric power" },
+            { "hi": "प्रतिरोध", "en": "Resistance" }
           ],
-          "answer": {"hi": "वस्तुओं के कंपन के कारण", "en": "Due to vibration of objects"}
+          "answer": { "hi": "विद्युत धारा", "en": "Electric current" }
         },
         {
           "q": {
-            "hi": "ध्वनि किस प्रकार की तरंग है?",
-            "en": "What type of wave is sound?"
+            "hi": "विद्युत आवेश का SI मात्रक क्या है?",
+            "en": "What is the SI unit of electric charge?"
           },
           "options": [
-            {"hi": "अनुप्रस्थ तरंग", "en": "Transverse wave"},
-            {"hi": "यांत्रिक अनुदैर्ध्य तरंग", "en": "Mechanical longitudinal wave"},
-            {"hi": "विद्युत चुंबकीय तरंग", "en": "Electromagnetic wave"},
-            {"hi": "प्रकाश तरंग", "en": "Light wave"}
+            { "hi": "एम्पियर", "en": "Ampere" },
+            { "hi": "कूलाम", "en": "Coulomb" },
+            { "hi": "वोल्ट", "en": "Volt" },
+            { "hi": "ओम", "en": "Ohm" }
           ],
-          "answer": {"hi": "यांत्रिक अनुदैर्ध्य तरंग", "en": "Mechanical longitudinal wave"}
+          "answer": { "hi": "कूलाम", "en": "Coulomb" }
         },
         {
           "q": {
-            "hi": "ध्वनि के संचरण के लिए क्या आवश्यक है?",
-            "en": "What is required for the propagation of sound?"
+            "hi": "एक इलेक्ट्रॉन पर कितना आवेश होता है?",
+            "en": "What is the charge on one electron?"
           },
           "options": [
-            {"hi": "निर्वात (Vacuum)", "en": "Vacuum"},
-            {"hi": "माध्यम (जैसे हवा, जल, ठोस)", "en": "Medium (like air, water, solid)"},
-            {"hi": "अंधेरा", "en": "Darkness"},
-            {"hi": "केवल बिजली", "en": "Only electricity"}
+            { "hi": "1.6 × 10^-19 C", "en": "1.6 × 10^-19 C" },
+            { "hi": "1.6 × 10^19 C", "en": "1.6 × 10^19 C" },
+            { "hi": "6 × 10^18 C", "en": "6 × 10^18 C" },
+            { "hi": "1 C", "en": "1 C" }
           ],
-          "answer": {"hi": "माध्यम (जैसे हवा, जल, ठोस)", "en": "Medium (like air, water, solid)"}
+          "answer": { "hi": "1.6 × 10^-19 C", "en": "1.6 × 10^-19 C" }
         },
         {
           "q": {
-            "hi": "क्या ध्वनि निर्वात (Vacuum) में संचरित हो सकती है?",
-            "en": "Can sound travel through a vacuum?"
+            "hi": "विद्युत धारा को मापने के लिए किस यंत्र का उपयोग किया जाता है?",
+            "en": "Which instrument is used to measure electric current?"
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "केवल बहुत तेज ध्वनि", "en": "Only very loud sound"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल अंतरिक्ष में", "en": "Only in space"}
+            { "hi": "वोल्टमीटर", "en": "Voltmeter" },
+            { "hi": "एमिटर", "en": "Ammeter" },
+            { "hi": "गैल्वेनोमीटर", "en": "Galvanometer" },
+            { "hi": "ओडोमीटर", "en": "Odometer" }
           ],
-          "answer": {"hi": "नहीं", "en": "No"}
+          "answer": { "hi": "एमिटर", "en": "Ammeter" }
         },
         {
           "q": {
-            "hi": "अनुदैर्ध्य तरंगों में उच्च घनत्व के क्षेत्र को क्या कहते हैं?",
-            "en": "What is the region of high density in longitudinal waves called?"
+            "hi": "विद्युत विभवांतर का SI मात्रक क्या है?",
+            "en": "What is the SI unit of electric potential difference?"
           },
           "options": [
-            {"hi": "विरलन (Rarefaction)", "en": "Rarefaction"},
-            {"hi": "शृंग (Crest)", "en": "Crest"},
-            {"hi": "संपीड़न (Compression)", "en": "Compression"},
-            {"hi": "गर्त (Trough)", "en": "Trough"}
+            { "hi": "वोल्ट", "en": "Volt" },
+            { "hi": "ओम", "en": "Ohm" },
+            { "hi": "एम्पियर", "en": "Ampere" },
+            { "hi": "वाट", "en": "Watt" }
           ],
-          "answer": {"hi": "संपीड़न (Compression)", "en": "Compression"}
+          "answer": { "hi": "वोल्ट", "en": "Volt" }
         },
         {
           "q": {
-            "hi": "दो क्रमिक संपीड़नों या विरलनों के बीच की दूरी को क्या कहते हैं?",
-            "en": "What is the distance between two consecutive compressions or rarefactions called?"
+            "hi": "विभवांतर को मापने के लिए किस यंत्र का उपयोग किया जाता है?",
+            "en": "Which instrument is used to measure potential difference?"
           },
           "options": [
-            {"hi": "आवृत्ति", "en": "Frequency"},
-            {"hi": "आयाम", "en": "Amplitude"},
-            {"hi": "तरंगदैर्ध्य (Wavelength)", "en": "Wavelength"},
-            {"hi": "वेग", "en": "Velocity"}
+            { "hi": "एमिटर", "en": "Ammeter" },
+            { "hi": "वोल्टमीटर", "en": "Voltmeter" },
+            { "hi": "थर्मामीटर", "en": "Thermometer" },
+            { "hi": "बैरोमीटर", "en": "Barometer" }
           ],
-          "answer": {"hi": "तरंगदैर्ध्य (Wavelength)", "en": "Wavelength"}
+          "answer": { "hi": "वोल्टमीटर", "en": "Voltmeter" }
         },
         {
           "q": {
-            "hi": "एकांक समय में होने वाले कंपनों की संख्या को क्या कहते हैं?",
-            "en": "What is the number of oscillations per unit time called?"
+            "hi": "ओम का नियम किस संबंध को दर्शाता है?",
+            "en": "What relationship does Ohm's law represent?"
           },
           "options": [
-            {"hi": "तरंगदैर्ध्य", "en": "Wavelength"},
-            {"hi": "आवृत्ति (Frequency)", "en": "Frequency"},
-            {"hi": "समय अंतराल", "en": "Time period"},
-            {"hi": "प्रबलता", "en": "Loudness"}
+            { "hi": "V = I/R", "en": "V = I/R" },
+            { "hi": "V = IR", "en": "V = IR" },
+            { "hi": "I = VR", "en": "I = VR" },
+            { "hi": "R = VI", "en": "R = VI" }
           ],
-          "answer": {"hi": "आवृत्ति (Frequency)", "en": "Frequency"}
+          "answer": { "hi": "V = IR", "en": "V = IR" }
         },
         {
           "q": {
-            "hi": "आवृत्ति का SI मात्रक क्या है?",
-            "en": "What is the SI unit of frequency?"
+            "hi": "प्रतिरोध का SI मात्रक क्या है?",
+            "en": "What is the SI unit of resistance?"
           },
           "options": [
-            {"hi": "मीटर (m)", "en": "Metre (m)"},
-            {"hi": "सेकंड (s)", "en": "Second (s)"},
-            {"hi": "हर्ट्ज़ (Hertz)", "en": "Hertz (Hz)"},
-            {"hi": "डेसिबल (dB)", "en": "Decibel (dB)"}
+            { "hi": "ओम", "en": "Ohm" },
+            { "hi": "वोल्ट", "en": "Volt" },
+            { "hi": "वाट", "en": "Watt" },
+            { "hi": "जूल", "en": "Joule" }
           ],
-          "answer": {"hi": "हर्ट्ज़ (Hertz)", "en": "Hertz (Hz)"}
+          "answer": { "hi": "ओम", "en": "Ohm" }
         },
         {
           "q": {
-            "hi": "ध्वनि का तीखापन या पिच (Pitch) किस पर निर्भर करती है?",
-            "en": "What does the pitch of a sound depend on?"
+            "hi": "विद्युत परिपथ में एमिटर को किस क्रम में जोड़ा जाता है?",
+            "en": "In what order is an ammeter connected in an electric circuit?"
           },
           "options": [
-            {"hi": "आयाम", "en": "Amplitude"},
-            {"hi": "आवृत्ति (Frequency)", "en": "Frequency"},
-            {"hi": "वेग", "en": "Velocity"},
-            {"hi": "माध्यम", "en": "Medium"}
+            { "hi": "पार्श्वक्रम", "en": "Parallel" },
+            { "hi": "श्रेणीक्रम", "en": "Series" },
+            { "hi": "यादृच्छिक", "en": "Random" },
+            { "hi": "किसी भी क्रम में नहीं", "en": "In no order" }
           ],
-          "answer": {"hi": "आवृत्ति (Frequency)", "en": "Frequency"}
+          "answer": { "hi": "श्रेणीक्रम", "en": "Series" }
         },
         {
           "q": {
-            "hi": "ध्वनि की प्रबलता (Loudness) किस पर निर्भर करती है?",
-            "en": "What does the loudness of sound depend on?"
+            "hi": "विद्युत परिपथ में वोल्टमीटर को किस क्रम में जोड़ा जाता है?",
+            "en": "In what order is a voltmeter connected in an electric circuit?"
           },
           "options": [
-            {"hi": "तरंग के आयाम (Amplitude) पर", "en": "On the amplitude of the wave"},
-            {"hi": "तरंग की आवृत्ति पर", "en": "On the frequency of the wave"},
-            {"hi": "तरंगदैर्ध्य पर", "en": "On the wavelength"},
-            {"hi": "ध्वनि के वेग पर", "en": "On the velocity of sound"}
+            { "hi": "श्रेणीक्रम", "en": "Series" },
+            { "hi": "पार्श्वक्रम", "en": "Parallel" },
+            { "hi": "मिश्रित क्रम", "en": "Mixed" },
+            { "hi": "ऊर्ध्वाधर", "en": "Vertical" }
           ],
-          "answer": {"hi": "तरंग के आयाम (Amplitude) पर", "en": "On the amplitude of the wave"}
+          "answer": { "hi": "पार्श्वक्रम", "en": "Parallel" }
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "ध्वनि की चाल सबसे अधिक किस माध्यम में होती है?",
-            "en": "In which medium is the speed of sound highest?"
+            "hi": "किसी चालक का प्रतिरोध किस पर निर्भर नहीं करता है?",
+            "en": "On what does the resistance of a conductor not depend?"
           },
           "options": [
-            {"hi": "गैस में", "en": "Gas"},
-            {"hi": "द्रव में", "en": "Liquid"},
-            {"hi": "ठोस में (Solid)", "en": "Solid"},
-            {"hi": "निर्वात में", "en": "Vacuum"}
+            { "hi": "लंबाई", "en": "Length" },
+            { "hi": "अनुप्रस्थ काट का क्षेत्रफल", "en": "Area of cross-section" },
+            { "hi": "पदार्थ की प्रकृति", "en": "Nature of material" },
+            { "hi": "विद्युत विभव", "en": "Electric potential" }
           ],
-          "answer": {"hi": "ठोस में (Solid)", "en": "Solid"}
+          "answer": { "hi": "विद्युत विभव", "en": "Electric potential" }
         },
         {
           "q": {
-            "hi": "तापमान बढ़ाने पर ध्वनि की चाल पर क्या प्रभाव पड़ता है?",
-            "en": "What is the effect of increasing temperature on the speed of sound?"
+            "hi": "यदि चालक की लंबाई दोगुनी कर दी जाए, तो प्रतिरोध पर क्या प्रभाव पड़ेगा?",
+            "en": "If the length of a conductor is doubled, what will be the effect on resistance?"
           },
           "options": [
-            {"hi": "घटती है", "en": "Decreases"},
-            {"hi": "बढ़ती है (Increases)", "en": "Increases"},
-            {"hi": "स्थिर रहती है", "en": "Stays constant"},
-            {"hi": "शून्य हो जाती है", "en": "Becomes zero"}
+            { "hi": "आधा हो जाएगा", "en": "Becomes half" },
+            { "hi": "दोगुना हो जाएगा", "en": "Becomes double" },
+            { "hi": "समान रहेगा", "en": "Stays same" },
+            { "hi": "चार गुना हो जाएगा", "en": "Becomes four times" }
           ],
-          "answer": {"hi": "बढ़ती है (Increases)", "en": "Increases"}
+          "answer": { "hi": "दोगुना हो जाएगा", "en": "Becomes double" }
         },
         {
           "q": {
-            "hi": "ध्वनि की चाल (v), आवृत्ति (ν) और तरंगदैर्ध्य (λ) के बीच क्या संबंध है?",
-            "en": "What is the relation between speed (v), frequency (ν) and wavelength (λ)?"
+            "hi": "प्रतिरोधकता का SI मात्रक क्या है?",
+            "en": "What is the SI unit of resistivity?"
           },
           "options": [
-            {"hi": "v = λ / ν", "en": "v = λ / ν"},
-            {"hi": "v = λ × ν", "en": "v = λ × ν"},
-            {"hi": "v = ν / λ", "en": "v = ν / λ"},
-            {"hi": "v = λ + ν", "en": "v = λ + ν"}
+            { "hi": "ओम", "en": "Ohm" },
+            { "hi": "ओम मीटर", "en": "Ohm meter" },
+            { "hi": "ओम प्रति मीटर", "en": "Ohm per meter" },
+            { "hi": "वोल्ट मीटर", "en": "Volt meter" }
           ],
-          "answer": {"hi": "v = λ × ν", "en": "v = λ × ν"}
+          "answer": { "hi": "ओम मीटर", "en": "Ohm meter" }
         },
         {
           "q": {
-            "hi": "ध्वनि का किसी परावर्तक सतह से टकराकर वापस आना क्या कहलाता है?",
-            "en": "The bouncing back of sound from a reflecting surface is called?"
+            "hi": "धातुओं और मिश्रधातुओं की प्रतिरोधकता का परिसर क्या है?",
+            "en": "What is the range of resistivity of metals and alloys?"
           },
           "options": [
-            {"hi": "अपवर्तन", "en": "Refraction"},
-            {"hi": "परावर्तन (Reflection)", "en": "Reflection"},
-            {"hi": "विवर्तन", "en": "Diffraction"},
-            {"hi": "अवशोषण", "en": "Absorption"}
+            { "hi": "10^-8 to 10^-6 Ωm", "en": "10^-8 to 10^-6 Ωm" },
+            { "hi": "10^12 to 10^17 Ωm", "en": "10^12 to 10^17 Ωm" },
+            { "hi": "1 to 100 Ωm", "en": "1 to 100 Ωm" },
+            { "hi": "10^2 to 10^8 Ωm", "en": "10^2 to 10^8 Ωm" }
           ],
-          "answer": {"hi": "परावर्तन (Reflection)", "en": "Reflection"}
+          "answer": { "hi": "10^-8 to 10^-6 Ωm", "en": "10^-8 to 10^-6 Ωm" }
         },
         {
           "q": {
-            "hi": "स्पष्ट प्रतिध्वनि (Echo) सुनने के लिए परावर्तक सतह की न्यूनतम दूरी कितनी होनी चाहिए?",
-            "en": "What should be the minimum distance of the reflecting surface to hear a clear echo?"
+            "hi": "विद्युत टोस्टरों और इस्तरियों के तापन अवयव मिश्रधातुओं के क्यों बनाए जाते हैं?",
+            "en": "Why are heating elements of electric toasters and irons made of alloys?"
           },
           "options": [
-            {"hi": "10.2 मीटर", "en": "10.2 m"},
-            {"hi": "17.2 मीटर", "en": "17.2 m"},
-            {"hi": "34.4 मीटर", "en": "34.4 m"},
-            {"hi": "5 मीटर", "en": "5 m"}
+            { "hi": "कम प्रतिरोधकता के कारण", "en": "Due to low resistivity" },
+            { "hi": "उच्च गलनांक के कारण", "en": "Due to high melting point" },
+            { "hi": "उच्च प्रतिरोधकता और दहन न होने के कारण", "en": "Due to high resistivity and no combustion" },
+            { "hi": "सस्ते होने के कारण", "en": "Due to being cheap" }
           ],
-          "answer": {"hi": "17.2 मीटर", "en": "17.2 m"}
+          "answer": { "hi": "उच्च प्रतिरोधकता और दहन न होने के कारण", "en": "Due to high resistivity and no combustion" }
         },
         {
           "q": {
-            "hi": "किसी बड़े हॉल में ध्वनि का बार-बार परावर्तन होना क्या कहलाता है?",
-            "en": "What is the repeated reflection of sound in a large hall called?"
+            "hi": "विद्युत बल्बों के तंतुओं के निर्माण के लिए किस धातु का उपयोग किया जाता है?",
+            "en": "Which metal is used for manufacturing filaments of electric bulbs?"
           },
           "options": [
-            {"hi": "प्रतिध्वनि", "en": "Echo"},
-            {"hi": "अनुरणन (Reverberation)", "en": "Reverberation"},
-            {"hi": "सोनार", "en": "SONAR"},
-            {"hi": "तीव्रता", "en": "Intensity"}
+            { "hi": "ताँबा", "en": "Copper" },
+            { "hi": "टंगस्टन", "en": "Tungsten" },
+            { "hi": "चाँदी", "en": "Silver" },
+            { "hi": "लोहा", "en": "Iron" }
           ],
-          "answer": {"hi": "अनुरणन (Reverberation)", "en": "Reverberation"}
+          "answer": { "hi": "टंगस्टन", "en": "Tungsten" }
         },
         {
           "q": {
-            "hi": "सामान्य मनुष्य के कानों के लिए श्रव्य आवृत्ति परिसर (Audible range) क्या है?",
-            "en": "What is the audible frequency range for a normal human ear?"
+            "hi": "प्रतिरोधों को श्रेणीक्रम में जोड़ने पर कुल प्रतिरोध (Rs) का सूत्र क्या है?",
+            "en": "What is the formula for total resistance (Rs) when resistors are connected in series?"
           },
           "options": [
-            {"hi": "0 से 20 Hz", "en": "0 to 20 Hz"},
-            {"hi": "20 Hz से 20,000 Hz", "en": "20 Hz to 20,000 Hz"},
-            {"hi": "20,000 Hz से ऊपर", "en": "Above 20,000 Hz"},
-            {"hi": "केवल 100 Hz", "en": "Only 100 Hz"}
+            { "hi": "Rs = R1 + R2 + R3", "en": "Rs = R1 + R2 + R3" },
+            { "hi": "1/Rs = 1/R1 + 1/R2", "en": "1/Rs = 1/R1 + 1/R2" },
+            { "hi": "Rs = R1 * R2", "en": "Rs = R1 * R2" },
+            { "hi": "Rs = V/I", "en": "Rs = V/I" }
           ],
-          "answer": {"hi": "20 Hz से 20,000 Hz", "en": "20 Hz to 20,000 Hz"}
+          "answer": { "hi": "Rs = R1 + R2 + R3", "en": "Rs = R1 + R2 + R3" }
         },
         {
           "q": {
-            "hi": "20 Hz से कम आवृत्ति वाली ध्वनियों को क्या कहते हैं?",
-            "en": "What are sounds with frequency less than 20 Hz called?"
+            "hi": "प्रतिरोधों को पार्श्वक्रम में जोड़ने पर कुल प्रतिरोध (Rp) का सूत्र क्या है?",
+            "en": "What is the formula for total resistance (Rp) when resistors are connected in parallel?"
           },
           "options": [
-            {"hi": "पराध्वनि (Ultrasound)", "en": "Ultrasound"},
-            {"hi": "श्रव्य ध्वनि", "en": "Audible sound"},
-            {"hi": "अवश्रव्य ध्वनि (Infrasound)", "en": "Infrasound"},
-            {"hi": "शोर", "en": "Noise"}
+            { "hi": "Rp = R1 + R2", "en": "Rp = R1 + R2" },
+            { "hi": "1/Rp = 1/R1 + 1/R2 + 1/R3", "en": "1/Rp = 1/R1 + 1/R2 + 1/R3" },
+            { "hi": "Rp = R1/R2", "en": "Rp = R1/R2" },
+            { "hi": "Rp = IR", "en": "Rp = IR" }
           ],
-          "answer": {"hi": "अवश्रव्य ध्वनि (Infrasound)", "en": "Infrasound"}
+          "answer": { "hi": "1/Rp = 1/R1 + 1/R2 + 1/R3", "en": "1/Rp = 1/R1 + 1/R2 + 1/R3" }
         },
         {
           "q": {
-            "hi": "20,000 Hz (20 kHz) से अधिक आवृत्ति वाली ध्वनियों को क्या कहते हैं?",
-            "en": "What are sounds with frequency higher than 20,000 Hz called?"
+            "hi": "विद्युत धारा के तापीय प्रभाव पर आधारित युक्ति कौन सी है?",
+            "en": "Which device is based on the heating effect of electric current?"
           },
           "options": [
-            {"hi": "अवश्रव्य ध्वनि", "en": "Infrasound"},
-            {"hi": "पराध्वनि (Ultrasound)", "en": "Ultrasound"},
-            {"hi": "मंद ध्वनि", "en": "Faint sound"},
-            {"hi": "प्रतिध्वनि", "en": "Echo"}
+            { "hi": "विद्युत हीटर", "en": "Electric heater" },
+            { "hi": "एमिटर", "en": "Ammeter" },
+            { "hi": "वोल्टमीटर", "en": "Voltmeter" },
+            { "hi": "सेल", "en": "Cell" }
           ],
-          "answer": {"hi": "पराध्वनि (Ultrasound)", "en": "Ultrasound"}
+          "answer": { "hi": "विद्युत हीटर", "en": "Electric heater" }
         },
         {
           "q": {
-            "hi": "कौन सा जंतु अवश्रव्य (Infrasound) ध्वनि उत्पन्न कर सकता है?",
-            "en": "Which animal can produce infrasound?"
+            "hi": "जूल का तापन नियम क्या है?",
+            "en": "What is Joule's law of heating?"
           },
           "options": [
-            {"hi": "चमगादड़", "en": "Bat"},
-            {"hi": "कुत्ता", "en": "Dog"},
-            {"hi": "ह्वेल या हाथी (Whale or Elephant)", "en": "Whale or Elephant"},
-            {"hi": "मधुमक्खी", "en": "Honeybee"}
+            { "hi": "H = VIt", "en": "H = VIt" },
+            { "hi": "H = I^2 Rt", "en": "H = I^2 Rt" },
+            { "hi": "H = IRt", "en": "H = IRt" },
+            { "hi": "H = Pt", "en": "H = Pt" }
           ],
-          "answer": {"hi": "ह्वेल या हाथी (Whale or Elephant)", "en": "Whale or Elephant"}
+          "answer": { "hi": "H = I^2 Rt", "en": "H = I^2 Rt" }
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "सोनार (SONAR) का पूर्ण रूप क्या है?",
-            "en": "What is the full form of SONAR?"
+            "hi": "विद्युत शक्ति का SI मात्रक क्या है?",
+            "en": "What is the SI unit of electric power?"
           },
           "options": [
-            {"hi": "Sound Navigation and Ranging", "en": "Sound Navigation and Ranging"},
-            {"hi": "Solar Navigation and Ranging", "en": "Solar Navigation and Ranging"},
-            {"hi": "Sound Notification and Radio", "en": "Sound Notification and Radio"},
-            {"hi": "Source of Noise and Reflection", "en": "Source of Noise and Reflection"}
+            { "hi": "जूल", "en": "Joule" },
+            { "hi": "वाट", "en": "Watt" },
+            { "hi": "वोल्ट", "en": "Volt" },
+            { "hi": "एम्पियर", "en": "Ampere" }
           ],
-          "answer": {"hi": "Sound Navigation and Ranging", "en": "Sound Navigation and Ranging"}
+          "answer": { "hi": "वाट", "en": "Watt" }
         },
         {
           "q": {
-            "hi": "सोनार तकनीक में किन तरंगों का उपयोग किया जाता है?",
-            "en": "Which waves are used in SONAR technology?"
+            "hi": "एक किलोवाट घंटा (1 kWh) में कितने जूल होते हैं?",
+            "en": "How many Joules are in one kilowatt hour (1 kWh)?"
           },
           "options": [
-            {"hi": "अवश्रव्य तरंगें", "en": "Infrasonic waves"},
-            {"hi": "रेडियो तरंगें", "en": "Radio waves"},
-            {"hi": "पराध्वनि तरंगें (Ultrasonic waves)", "en": "Ultrasonic waves"},
-            {"hi": "प्रकाश तरंगें", "en": "Light waves"}
+            { "hi": "3.6 × 10^6 J", "en": "3.6 × 10^6 J" },
+            { "hi": "3600 J", "en": "3600 J" },
+            { "hi": "1000 J", "en": "1000 J" },
+            { "hi": "3.6 × 10^3 J", "en": "3.6 × 10^3 J" }
           ],
-          "answer": {"hi": "पराध्वनि तरंगें (Ultrasonic waves)", "en": "Ultrasonic waves"}
+          "answer": { "hi": "3.6 × 10^6 J", "en": "3.6 × 10^6 J" }
         },
         {
           "q": {
-            "hi": "चमगादड़ अंधेरे में शिकार करने के लिए किसका उपयोग करते हैं?",
-            "en": "What do bats use to hunt in the dark?"
+            "hi": "विद्युत ऊर्जा का व्यापारिक मात्रक क्या है?",
+            "en": "What is the commercial unit of electric energy?"
           },
           "options": [
-            {"hi": "आंखों का", "en": "Eyes"},
-            {"hi": "पराध्वनि का परावर्तन (Reflection of ultrasound)", "en": "Reflection of ultrasound"},
-            {"hi": "गर्मी का", "en": "Heat"},
-            {"hi": "गंध का", "en": "Smell"}
+            { "hi": "जूल", "en": "Joule" },
+            { "hi": "वाट", "en": "Watt" },
+            { "hi": "यूनिट (kWh)", "en": "Unit (kWh)" },
+            { "hi": "एम्पियर घंटा", "en": "Ampere hour" }
           ],
-          "answer": {"hi": "पराध्वनि का परावर्तन (Reflection of ultrasound)", "en": "Reflection of ultrasound"}
+          "answer": { "hi": "यूनिट (kWh)", "en": "Unit (kWh)" }
         },
         {
           "q": {
-            "hi": "मानव कान का बाहरी भाग क्या कहलाता है?",
-            "en": "What is the outer part of the human ear called?"
+            "hi": "विद्युत फ्यूज को परिपथ में किस क्रम में लगाया जाता है?",
+            "en": "In what order is an electric fuse placed in a circuit?"
           },
           "options": [
-            {"hi": "कर्ण पल्लव (Pinna)", "en": "Pinna"},
-            {"hi": "कर्ण पटह", "en": "Eardrum"},
-            {"hi": "कॉक्लिया", "en": "Cochlea"},
-            {"hi": "मैलिएस", "en": "Malleus"}
+            { "hi": "श्रेणीक्रम", "en": "Series" },
+            { "hi": "पार्श्वक्रम", "en": "Parallel" },
+            { "hi": "मिश्रित", "en": "Mixed" },
+            { "hi": "किसी भी क्रम में", "en": "In any order" }
           ],
-          "answer": {"hi": "कर्ण पल्लव (Pinna)", "en": "Pinna"}
+          "answer": { "hi": "श्रेणीक्रम", "en": "Series" }
         },
         {
           "q": {
-            "hi": "कान के किस भाग में ध्वनि कंपन तीन हड्डियों (हथौड़ा, निहाई और वलयक) द्वारा प्रवर्धित होते हैं?",
-            "en": "In which part of the ear are sound vibrations amplified by three bones?"
+            "hi": "विद्युत बल्बों में सामान्यतः कौन सी गैसें भरी जाती हैं?",
+            "en": "Which gases are generally filled in electric bulbs?"
           },
           "options": [
-            {"hi": "बाहरी कान", "en": "Outer ear"},
-            {"hi": "मध्य कान (Middle ear)", "en": "Middle ear"},
-            {"hi": "आंतरिक कान", "en": "Inner ear"},
-            {"hi": "श्रवण तंत्रिका", "en": "Auditory nerve"}
+            { "hi": "ऑक्सीजन और हाइड्रोजन", "en": "Oxygen and Hydrogen" },
+            { "hi": "नाइट्रोजन और आर्गन", "en": "Nitrogen and Argon" },
+            { "hi": "हीलियम और नियोन", "en": "Helium and Neon" },
+            { "hi": "कार्बन डाइऑक्साइड", "en": "Carbon dioxide" }
           ],
-          "answer": {"hi": "मध्य कान (Middle ear)", "en": "Middle ear"}
+          "answer": { "hi": "नाइट्रोजन और आर्गन", "en": "Nitrogen and Argon" }
         },
         {
           "q": {
-            "hi": "आंतरिक कान में स्थित कौन सा अंग दबाव परिवर्तनों को विद्युत संकेतों में बदलता है?",
-            "en": "Which organ in the inner ear converts pressure variations into electrical signals?"
+            "hi": "विद्युत परिपथ में प्रवाहित धारा की दिशा क्या मानी जाती है?",
+            "en": "What is the direction of current considered in an electric circuit?"
           },
           "options": [
-            {"hi": "कर्ण पटह", "en": "Eardrum"},
-            {"hi": "कर्णवर्त (Cochlea)", "en": "Cochlea"},
-            {"hi": "स्टेपीज़", "en": "Stapes"},
-            {"hi": "पिनना", "en": "Pinna"}
+            { "hi": "इलेक्ट्रॉनों के प्रवाह की दिशा", "en": "Direction of electron flow" },
+            { "hi": "इलेक्ट्रॉनों के प्रवाह के विपरीत", "en": "Opposite to electron flow" },
+            { "hi": "किसी भी दिशा में", "en": "In any direction" },
+            { "hi": "ऋण ध्रुव से धन ध्रुव", "en": "Negative to positive terminal" }
           ],
-          "answer": {"hi": "कर्णवर्त (Cochlea)", "en": "Cochlea"}
+          "answer": { "hi": "इलेक्ट्रॉनों के प्रवाह के विपरीत", "en": "Opposite to electron flow" }
         },
         {
           "q": {
-            "hi": "गुर्दे की पथरी को तोड़ने के लिए किन तरंगों का उपयोग किया जाता है?",
-            "en": "Which waves are used to break kidney stones?"
+            "hi": "विद्युत विभवांतर को बनाए रखने के लिए सेल अपनी कौन सी ऊर्जा खर्च करता है?",
+            "en": "Which energy does a cell spend to maintain electric potential difference?"
           },
           "options": [
-            {"hi": "एक्स-रे", "en": "X-rays"},
-            {"hi": "पराध्वनि (Ultrasound)", "en": "Ultrasound"},
-            {"hi": "इंफ्रा-रेड", "en": "Infra-red"},
-            {"hi": "माइक्रोवेव", "en": "Microwave"}
+            { "hi": "यांत्रिक ऊर्जा", "en": "Mechanical energy" },
+            { "hi": "रासायनिक ऊर्जा", "en": "Chemical energy" },
+            { "hi": "प्रकाश ऊर्जा", "en": "Light energy" },
+            { "hi": "नाभिकीय ऊर्जा", "en": "Nuclear energy" }
           ],
-          "answer": {"hi": "पराध्वनि (Ultrasound)", "en": "Ultrasound"}
+          "answer": { "hi": "रासायनिक ऊर्जा", "en": "Chemical energy" }
         },
         {
           "q": {
-            "hi": "समुद्र की गहराई मापने के लिए किस यंत्र का उपयोग किया जाता है?",
-            "en": "Which instrument is used to measure the depth of the ocean?"
+            "hi": "चालक का वह गुण जो आवेशों के प्रवाह का विरोध करता है, क्या कहलाता है?",
+            "en": "The property of a conductor that opposes the flow of charges is called?"
           },
           "options": [
-            {"hi": "बैरोमीटर", "en": "Barometer"},
-            {"hi": "सोनार (SONAR)", "en": "SONAR"},
-            {"hi": "थर्मामीटर", "en": "Thermometer"},
-            {"hi": "स्पीडोमीटर", "en": "Speedometer"}
+            { "hi": "विभव", "en": "Potential" },
+            { "hi": "धारा", "en": "Current" },
+            { "hi": "प्रतिरोध", "en": "Resistance" },
+            { "hi": "शक्ति", "en": "Power" }
           ],
-          "answer": {"hi": "सोनार (SONAR)", "en": "SONAR"}
+          "answer": { "hi": "प्रतिरोध", "en": "Resistance" }
         },
         {
           "q": {
-            "hi": "ध्वनि की तीव्रता (Intensity) का मात्रक क्या है?",
-            "en": "What is the unit of intensity of sound?"
+            "hi": "1 एम्पियर विद्युत धारा किसके बराबर होती है?",
+            "en": "1 Ampere of electric current is equal to?"
           },
           "options": [
-            {"hi": "वॉट प्रति वर्ग मीटर (W/m²)", "en": "Watt per square metre (W/m²)"},
-            {"hi": "हर्ट्ज़", "en": "Hertz"},
-            {"hi": "डेसिबल", "en": "Decibel"},
-            {"hi": "जूल", "en": "Joule"}
+            { "hi": "1 J/C", "en": "1 J/C" },
+            { "hi": "1 C/s", "en": "1 C/s" },
+            { "hi": "1 V/Ω", "en": "1 V/Ω" },
+            { "hi": "उपरोक्त बी और सी दोनों", "en": "Both B and C above" }
           ],
-          "answer": {"hi": "वॉट प्रति वर्ग मीटर (W/m²)", "en": "Watt per square metre (W/m²)"}
+          "answer": { "hi": "उपरोक्त बी और सी दोनों", "en": "Both B and C above" }
         },
         {
           "q": {
-            "hi": "पराध्वनि का उपयोग धातुओं के ब्लॉकों में दोषों का पता लगाने के लिए किया जा सकता है?",
-            "en": "Can ultrasound be used to detect defects in metal blocks?"
+            "hi": "विद्युत परिपथ में धारा को नियंत्रित करने वाली युक्ति क्या कहलाती है?",
+            "en": "The device used to control current in an electric circuit is called?"
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल लोहे में", "en": "Only in iron"},
-            {"hi": "केवल प्लास्टिक में", "en": "Only in plastic"}
+            { "hi": "धारा नियंत्रक", "en": "Rheostat" },
+            { "hi": "वोल्टमीटर", "en": "Voltmeter" },
+            { "hi": "सेल", "en": "Cell" },
+            { "hi": "बल्ब", "en": "Bulb" }
           ],
-          "answer": {"hi": "हाँ", "en": "Yes"}
+          "answer": { "hi": "धारा नियंत्रक", "en": "Rheostat" }
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "कंपन करने वाली वस्तु का अधिकतम विस्थापन क्या कहलाता है?",
-            "en": "What is the maximum displacement of a vibrating object called?"
+            "hi": "श्रेणीक्रम संयोजन में सभी प्रतिरोधों में कौन सी राशि समान रहती है?",
+            "en": "Which quantity remains the same in all resistors in series connection?"
           },
           "options": [
-            {"hi": "आवृत्ति", "en": "Frequency"},
-            {"hi": "आयाम (Amplitude)", "en": "Amplitude"},
-            {"hi": "तरंगदैर्ध्य", "en": "Wavelength"},
-            {"hi": "वेग", "en": "Velocity"}
+            { "hi": "विभवांतर", "en": "Potential difference" },
+            { "hi": "विद्युत धारा", "en": "Electric current" },
+            { "hi": "प्रतिरोध", "en": "Resistance" },
+            { "hi": "शक्ति", "en": "Power" }
           ],
-          "answer": {"hi": "आयाम (Amplitude)", "en": "Amplitude"}
+          "answer": { "hi": "विद्युत धारा", "en": "Electric current" }
         },
         {
           "q": {
-            "hi": "ध्वनि का वेग किस कारक पर निर्भर करता है?",
-            "en": "On which factor does the velocity of sound depend?"
+            "hi": "पार्श्वक्रम संयोजन में सभी प्रतिरोधों के सिरों पर क्या समान रहता है?",
+            "en": "What remains the same across the ends of all resistors in parallel connection?"
           },
           "options": [
-            {"hi": "माध्यम के गुणों पर", "en": "Properties of the medium"},
-            {"hi": "तापमान पर", "en": "Temperature"},
-            {"hi": "A और B दोनों", "en": "Both A and B"},
-            {"hi": "केवल प्रकाश पर", "en": "Only on light"}
+            { "hi": "विद्युत धारा", "en": "Electric current" },
+            { "hi": "विभवांतर", "en": "Potential difference" },
+            { "hi": "आवेश", "en": "Charge" },
+            { "hi": "ऊर्जा", "en": "Energy" }
           ],
-          "answer": {"hi": "A और B दोनों", "en": "Both A and B"}
+          "answer": { "hi": "विभवांतर", "en": "Potential difference" }
         },
         {
           "q": {
-            "hi": "0°C पर वायु में ध्वनि की चाल लगभग कितनी होती है?",
-            "en": "What is the approximate speed of sound in air at 0°C?"
+            "hi": "घरेलू विद्युत परिपथों में उपकरणों को किस क्रम में जोड़ा जाता है?",
+            "en": "In what order are appliances connected in domestic electric circuits?"
           },
           "options": [
-            {"hi": "331 m/s", "en": "331 m/s"},
-            {"hi": "344 m/s", "en": "344 m/s"},
-            {"hi": "1500 m/s", "en": "1500 m/s"},
-            {"hi": "5100 m/s", "en": "5100 m/s"}
+            { "hi": "श्रेणीक्रम", "en": "Series" },
+            { "hi": "पार्श्वक्रम", "en": "Parallel" },
+            { "hi": "मिश्रित", "en": "Mixed" },
+            { "hi": "किसी भी क्रम में", "en": "In any order" }
           ],
-          "answer": {"hi": "331 m/s", "en": "331 m/s"}
+          "answer": { "hi": "पार्श्वक्रम", "en": "Parallel" }
         },
         {
           "q": {
-            "hi": "ध्वनि की गति और प्रकाश की गति में कौन अधिक है?",
-            "en": "Which is faster: speed of sound or speed of light?"
+            "hi": "पार्श्वक्रम में जोड़ने पर परिपथ का कुल प्रतिरोध:",
+            "en": "Total resistance of the circuit when connected in parallel:"
           },
           "options": [
-            {"hi": "ध्वनि की गति", "en": "Speed of sound"},
-            {"hi": "प्रकाश की गति (Speed of light)", "en": "Speed of light"},
-            {"hi": "दोनों बराबर हैं", "en": "Both are equal"},
-            {"hi": "कह नहीं सकते", "en": "Cannot say"}
+            { "hi": "बढ़ता है", "en": "Increases" },
+            { "hi": "घटता है", "en": "Decreases" },
+            { "hi": "समान रहता है", "en": "Stays same" },
+            { "hi": "शून्य हो जाता है", "en": "Becomes zero" }
           ],
-          "answer": {"hi": "प्रकाश की गति (Speed of light)", "en": "Speed of light"}
+          "answer": { "hi": "घटता है", "en": "Decreases" }
         },
         {
           "q": {
-            "hi": "बिजली कड़कने की आवाज चमक दिखाई देने के कुछ समय बाद क्यों सुनाई देती है?",
-            "en": "Why is the sound of thunder heard after the flash of lightning is seen?"
+            "hi": "विद्युत हीटर की डोरी क्यों नहीं चमकती जबकि उसका तापन अवयव चमकता है?",
+            "en": "Why does the cord of an electric heater not glow while its heating element does?"
           },
           "options": [
-            {"hi": "क्योंकि ध्वनि प्रकाश से तेज चलती है", "en": "Because sound travels faster than light"},
-            {"hi": "क्योंकि प्रकाश ध्वनि से बहुत तेज चलता है", "en": "Because light travels much faster than sound"},
-            {"hi": "क्योंकि ध्वनि बादल के पीछे होती है", "en": "Because sound is behind the clouds"},
-            {"hi": "क्योंकि चमक पहले होती है", "en": "Because flash happens first"}
+            { "hi": "डोरी का प्रतिरोध बहुत कम है", "en": "Resistance of cord is very low" },
+            { "hi": "तापन अवयव का प्रतिरोध बहुत उच्च है", "en": "Resistance of heating element is very high" },
+            { "hi": "उपरोक्त दोनों", "en": "Both of the above" },
+            { "hi": "डोरी में धारा प्रवाहित नहीं होती", "en": "Current doesn't flow in cord" }
           ],
-          "answer": {"hi": "क्योंकि प्रकाश ध्वनि से बहुत तेज चलता है", "en": "Because light travels much faster than sound"}
+          "answer": { "hi": "उपरोक्त दोनों", "en": "Both of the above" }
         },
         {
           "q": {
-            "hi": "पराध्वनि सूचक (Ultrasound scanner) का उपयोग चिकित्सा में किसके लिए किया जाता है?",
-            "en": "What is an ultrasound scanner used for in medicine?"
+            "hi": "टंगस्टन का गलनांक कितना है?",
+            "en": "What is the melting point of Tungsten?"
           },
           "options": [
-            {"hi": "हड्डियों को देखने के लिए", "en": "To see bones"},
-            {"hi": "आंतरिक अंगों (जैसे भ्रूण, यकृत) की जांच के लिए", "en": "To examine internal organs (e.g. fetus, liver)"},
-            {"hi": "बुखार मापने के लिए", "en": "To measure fever"},
-            {"hi": "रक्तचाप जांचने के लिए", "en": "To check blood pressure"}
+            { "hi": "1000 °C", "en": "1000 °C" },
+            { "hi": "3380 °C", "en": "3380 °C" },
+            { "hi": "2500 °C", "en": "2500 °C" },
+            { "hi": "1500 °C", "en": "1500 °C" }
           ],
-          "answer": {"hi": "आंतरिक अंगों (जैसे भ्रूण, यकृत) की जांच के लिए", "en": "To examine internal organs (e.g. fetus, liver)"}
+          "answer": { "hi": "3380 °C", "en": "3380 °C" }
         },
         {
           "q": {
-            "hi": "एक तरंग का आवर्तकाल (Time period) 0.05 सेकंड है। इसकी आवृत्ति क्या होगी?",
-            "en": "The time period of a wave is 0.05 s. What will be its frequency?"
+            "hi": "विद्युत धारा (I), विभवांतर (V) और प्रतिरोध (R) के बीच सही शक्ति सूत्र क्या है?",
+            "en": "What is the correct power formula involving I, V and R?"
           },
           "options": [
-            {"hi": "5 Hz", "en": "5 Hz"},
-            {"hi": "20 Hz", "en": "20 Hz"},
-            {"hi": "50 Hz", "en": "50 Hz"},
-            {"hi": "100 Hz", "en": "100 Hz"}
+            { "hi": "P = VI", "en": "P = VI" },
+            { "hi": "P = I^2 R", "en": "P = I^2 R" },
+            { "hi": "P = V^2 / R", "en": "P = V^2 / R" },
+            { "hi": "उपरोक्त सभी", "en": "All of the above" }
           ],
-          "answer": {"hi": "20 Hz", "en": "20 Hz"}
+          "answer": { "hi": "उपरोक्त सभी", "en": "All of the above" }
         },
         {
           "q": {
-            "hi": "स्टेथोस्कोप में हृदय की धड़कन डॉक्टर के कानों तक पहुँचती है:",
-            "en": "In a stethoscope, the sound of heartbeat reaches doctor's ears by:"
+            "hi": "1 जूल प्रति सेकंड किसके बराबर होता है?",
+            "en": "1 Joule per second is equal to?"
           },
           "options": [
-            {"hi": "एकल परावर्तन द्वारा", "en": "Single reflection"},
-            {"hi": "ध्वनि के बार-बार परावर्तन द्वारा", "en": "Multiple reflection of sound"},
-            {"hi": "अपवर्तन द्वारा", "en": "Refraction"},
-            {"hi": "हवा के सीधे प्रवाह द्वारा", "en": "Direct flow of air"}
+            { "hi": "1 एम्पियर", "en": "1 Ampere" },
+            { "hi": "1 वोकल", "en": "1 Volt" },
+            { "hi": "1 वाट", "en": "1 Watt" },
+            { "hi": "1 ओम", "en": "1 Ohm" }
           ],
-          "answer": {"hi": "ध्वनि के बार-बार परावर्तन द्वारा", "en": "Multiple reflection of sound"}
+          "answer": { "hi": "1 वाट", "en": "1 Watt" }
         },
         {
           "q": {
-            "hi": "ध्वनि बोर्ड (Sound board) का उपयोग कहाँ किया जाता है?",
-            "en": "Where are sound boards used?"
+            "hi": "फ्यूज तार का गलनांक कैसा होना चाहिए?",
+            "en": "What should be the melting point of a fuse wire?"
           },
           "options": [
-            {"hi": "स्कूलों में", "en": "Schools"},
-            {"hi": "बड़े हॉल और सम्मेलनों में ध्वनि फैलाने के लिए", "en": "In large halls and conferences to spread sound"},
-            {"hi": "सड़कों पर", "en": "On roads"},
-            {"hi": "अस्पतालों में", "en": "Hospitals"}
+            { "hi": "बहुत उच्च", "en": "Very high" },
+            { "hi": "उचित (कम)", "en": "Appropriate (low)" },
+            { "hi": "शून्य", "en": "Zero" },
+            { "hi": "अनंत", "en": "Infinite" }
           ],
-          "answer": {"hi": "बड़े हॉल और सम्मेलनों में ध्वनि फैलाने के लिए", "en": "In large halls and conferences to spread sound"}
+          "answer": { "hi": "उचित (कम)", "en": "Appropriate (low)" }
         },
         {
           "q": {
-            "hi": "क्या ध्वनि तरंगें ऊर्जा का एक रूप हैं?",
-            "en": "Are sound waves a form of energy?"
+            "hi": "प्रतिरोधकता किस पर निर्भर करती है?",
+            "en": "On what does resistivity depend?"
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल संगीत", "en": "Only music"},
-            {"hi": "केवल शोर", "en": "Only noise"}
+            { "hi": "पदार्थ की प्रकृति", "en": "Nature of material" },
+            { "hi": "तापमान", "en": "Temperature" },
+            { "hi": "लंबाई", "en": "Length" },
+            { "hi": "उपरोक्त ए और बी दोनों", "en": "Both A and B above" }
           ],
-          "answer": {"hi": "हाँ", "en": "Yes"}
+          "answer": { "hi": "उपरोक्त ए और बी दोनों", "en": "Both A and B above" }
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "गैंडे (Rhinoceros) किस आवृत्ति की ध्वनि का उपयोग करके संवाद करते हैं?",
-            "en": "Rhinoceros communicate using sound of which frequency?"
+            "hi": "विद्युत परिपथ क्या है?",
+            "en": "What is an electric circuit?"
           },
           "options": [
-            {"hi": "5 Hz (अवश्रव्य)", "en": "5 Hz (Infrasound)"},
-            {"hi": "500 Hz", "en": "500 Hz"},
-            {"hi": "25,000 Hz", "en": "25,000 Hz"},
-            {"hi": "केवल मनुष्य जैसी", "en": "Only like humans"}
+            { "hi": "विद्युत धारा का सतत तथा बंद पथ", "en": "Continuous and closed path of current" },
+            { "hi": "विद्युत धारा का खुला पथ", "en": "Open path of current" },
+            { "hi": "तारों का जाल", "en": "Mesh of wires" },
+            { "hi": "शक्ति केंद्र", "en": "Power center" }
           ],
-          "answer": {"hi": "5 Hz (अवश्रव्य)", "en": "5 Hz (Infrasound)"}
+          "answer": { "hi": "विद्युत धारा का सतत तथा बंद पथ", "en": "Continuous and closed path of current" }
         },
         {
           "q": {
-            "hi": "पराध्वनि तरंगों का उपयोग करके शरीर के अंगों का चित्र लेना क्या कहलाता है?",
-            "en": "Taking images of body organs using ultrasound waves is called?"
+            "hi": "यदि परिपथ में प्रतिरोध घटा दिया जाए, तो धारा पर क्या प्रभाव पड़ेगा?",
+            "en": "If resistance is decreased in a circuit, what effect on current?"
           },
           "options": [
-            {"hi": "एक्स-रे", "en": "X-ray"},
-            {"hi": "इकोकार्डियोग्राफी (Echocardiography)", "en": "Echocardiography"},
-            {"hi": "अल्ट्रासोनोग्राफी (Ultrasonography)", "en": "Ultrasonography"},
-            {"hi": "एमआरआई", "en": "MRI"}
+            { "hi": "धारा घट जाएगी", "en": "Current decreases" },
+            { "hi": "धारा बढ़ जाएगी", "en": "Current increases" },
+            { "hi": "धारा शून्य हो जाएगी", "en": "Current becomes zero" },
+            { "hi": "कोई प्रभाव नहीं", "en": "No effect" }
           ],
-          "answer": {"hi": "अल्ट्रासोनोग्राफी (Ultrasonography)", "en": "Ultrasonography"}
+          "answer": { "hi": "धारा बढ़ जाएगी", "en": "Current increases" }
         },
         {
           "q": {
-            "hi": "हवा में ध्वनि की चाल 25°C पर कितनी होती है?",
-            "en": "What is the speed of sound in air at 25°C?"
+            "hi": "1 कूलाम आवेश में लगभग कितने इलेक्ट्रॉन होते हैं?",
+            "en": "Approximately how many electrons in 1 Coulomb charge?"
           },
           "options": [
-            {"hi": "331 m/s", "en": "331 m/s"},
-            {"hi": "346 m/s", "en": "346 m/s"},
-            {"hi": "1500 m/s", "en": "1500 m/s"},
-            {"hi": "300,000 km/s", "en": "300,000 km/s"}
+            { "hi": "1.6 × 10^-19", "en": "1.6 × 10^-19" },
+            { "hi": "6 × 10^18", "en": "6 × 10^18" },
+            { "hi": "9 × 10^9", "en": "9 × 10^9" },
+            { "hi": "6 × 10^-18", "en": "6 × 10^-18" }
           ],
-          "answer": {"hi": "346 m/s", "en": "346 m/s"}
+          "answer": { "hi": "6 × 10^18", "en": "6 × 10^18" }
         },
         {
           "q": {
-            "hi": "संगीत और शोर (Noise) में क्या अंतर है?",
-            "en": "What is the difference between music and noise?"
+            "hi": "ओम के नियम के अनुसार V और I के बीच ग्राफ कैसा होता है?",
+            "en": "According to Ohm's law, what is the graph between V and I?"
           },
           "options": [
-            {"hi": "संगीत सुखद होता है, शोर कानों को चुभता है", "en": "Music is pleasant, noise is jarring"},
-            {"hi": "शोर की आवृत्ति नियमित होती है", "en": "Noise has regular frequency"},
-            {"hi": "कोई अंतर नहीं है", "en": "No difference"},
-            {"hi": "केवल यंत्रों का अंतर है", "en": "Only instrument difference"}
+            { "hi": "वक्राकार", "en": "Curved" },
+            { "hi": "सरल रेखा", "en": "Straight line" },
+            { "hi": "वृत्ताकार", "en": "Circular" },
+            { "hi": "परवलयाकार", "en": "Parabolic" }
           ],
-          "answer": {"hi": "संगीत सुखद होता है, शोर कानों को चुभता है", "en": "Music is pleasant, noise is jarring"}
+          "answer": { "hi": "सरल रेखा", "en": "Straight line" }
         },
         {
           "q": {
-            "hi": "ध्वनि संचरण के दौरान माध्यम के कणों की गति कैसी होती है?",
-            "en": "How is the motion of medium particles during sound propagation?"
+            "hi": "उच्च प्रतिरोधकता वाले पदार्थ क्या कहलाते हैं?",
+            "en": "What are materials with high resistivity called?"
           },
           "options": [
-            {"hi": "वे अपनी जगह छोड़कर आगे चले जाते हैं", "en": "They leave their position and move forward"},
-            {"hi": "वे अपनी साम्यावस्था के आगे-पीछे कंपन करते हैं", "en": "They vibrate back and forth about their equilibrium position"},
-            {"hi": "वे गति नहीं करते", "en": "They do not move"},
-            {"hi": "वे केवल ऊपर-नीचे गति करते हैं", "en": "They only move up and down"}
+            { "hi": "सुचालक", "en": "Conductors" },
+            { "hi": "कुचालक (विद्युतरोधी)", "en": "Insulators" },
+            { "hi": "अर्धचालक", "en": "Semiconductors" },
+            { "hi": "अतिचालक", "en": "Superconductors" }
           ],
-          "answer": {"hi": "वे अपनी साम्यावस्था के आगे-पीछे कंपन करते हैं", "en": "They vibrate back and forth about their equilibrium position"}
+          "answer": { "hi": "कुचालक (विद्युतरोधी)", "en": "Insulators" }
         },
         {
           "q": {
-            "hi": "पराध्वनि (Ultrasound) का उपयोग करके समुद्री जहाजों में क्या मापा जाता है?",
-            "en": "What is measured in marine ships using ultrasound?"
+            "hi": "विद्युत शक्ति P = I^2 R के अलावा और क्या हो सकती है?",
+            "en": "What else can electric power P be besides I^2 R?"
           },
           "options": [
-            {"hi": "समुद्र की गहराई और पानी के नीचे की वस्तुओं की दूरी", "en": "Ocean depth and distance of underwater objects"},
-            {"hi": "हवा का दबाव", "en": "Air pressure"},
-            {"hi": "जहाज की गति", "en": "Ship speed"},
-            {"hi": "पानी का तापमान", "en": "Water temperature"}
+            { "hi": "V^2 / R", "en": "V^2 / R" },
+            { "hi": "V * I", "en": "V * I" },
+            { "hi": "H / t", "en": "H / t" },
+            { "hi": "उपरोक्त सभी", "en": "All of the above" }
           ],
-          "answer": {"hi": "समुद्र की गहराई और पानी के नीचे की वस्तुओं की दूरी", "en": "Ocean depth and distance of underwater objects"}
+          "answer": { "hi": "उपरोक्त सभी", "en": "All of the above" }
         },
         {
           "q": {
-            "hi": "ध्वनि तरंगें कैसी होती हैं?",
-            "en": "What is the nature of sound waves?"
+            "hi": "एक मिली एम्पियर (1 mA) में कितने एम्पियर होते हैं?",
+            "en": "How many Amperes are in one milliampere (1 mA)?"
           },
           "options": [
-            {"hi": "केवल यांत्रिक", "en": "Only mechanical"},
-            {"hi": "विद्युत चुंबकीय", "en": "Electromagnetic"},
-            {"hi": "A और B दोनों", "en": "Both A and B"},
-            {"hi": "तरल तरंगें", "en": "Fluid waves"}
+            { "hi": "10^-3 A", "en": "10^-3 A" },
+            { "hi": "10^3 A", "en": "10^3 A" },
+            { "hi": "10^-6 A", "en": "10^-6 A" },
+            { "hi": "10^6 A", "en": "10^6 A" }
           ],
-          "answer": {"hi": "केवल यांत्रिक", "en": "Only mechanical"}
+          "answer": { "hi": "10^-3 A", "en": "10^-3 A" }
         },
         {
           "q": {
-            "hi": "आवृत्ति (ν) और आवर्तकाल (T) में क्या संबंध है?",
-            "en": "What is the relation between frequency (ν) and time period (T)?"
+            "hi": "तापीय प्रभाव के कारण उत्पन्न ऊष्मा धारा के वर्ग के कैसी होती है?",
+            "en": "Heat produced due to heating effect is how related to square of current?"
           },
           "options": [
-            {"hi": "ν = 1 / T", "en": "ν = 1 / T"},
-            {"hi": "ν = T", "en": "ν = T"},
-            {"hi": "ν = T²", "en": "ν = T²"},
-            {"hi": "ν = 2T", "en": "ν = 2T"}
+            { "hi": "व्युत्क्रमानुपाती", "en": "Inversely proportional" },
+            { "hi": "समानुपाती", "en": "Directly proportional" },
+            { "hi": "समान", "en": "Equal" },
+            { "hi": "कोई संबंध नहीं", "en": "No relation" }
           ],
-          "answer": {"hi": "ν = 1 / T", "en": "ν = 1 / T"}
+          "answer": { "hi": "समानुपाती", "en": "Directly proportional" }
         },
         {
           "q": {
-            "hi": "मनुष्य का हृदय एक मिनट में लगभग कितनी बार धड़कता है?",
-            "en": "Approximately how many times does a human heart beat in a minute?"
+            "hi": "किसी चालक के अनुप्रस्थ काट का क्षेत्रफल बढ़ाने पर प्रतिरोध पर क्या प्रभाव पड़ता है?",
+            "en": "Effect on resistance when area of cross-section of a conductor increases?"
           },
           "options": [
-            {"hi": "60-80 बार", "en": "60-80 times"},
-            {"hi": "10-20 बार", "en": "10-20 times"},
-            {"hi": "100-200 बार", "en": "100-200 times"},
-            {"hi": "5-10 बार", "en": "5-10 times"}
+            { "hi": "प्रतिरोध बढ़ता है", "en": "Resistance increases" },
+            { "hi": "प्रतिरोध घटता है", "en": "Resistance decreases" },
+            { "hi": "समान रहता है", "en": "Stays same" },
+            { "hi": "दोगुना हो जाता है", "en": "Doubles" }
           ],
-          "answer": {"hi": "60-80 बार", "en": "60-80 times"}
+          "answer": { "hi": "प्रतिरोध घटता है", "en": "Resistance decreases" }
         },
         {
           "q": {
-            "hi": "ध्वनि की गुणता (Timbre) हमें क्या समझने में मदद करती है?",
-            "en": "What does the quality (timbre) of sound help us understand?"
+            "hi": "चाँदी की प्रतिरोधकता का मान क्या है?",
+            "en": "What is the value of resistivity of silver?"
           },
           "options": [
-            {"hi": "समान पिच और प्रबलता वाली ध्वनियों के बीच अंतर", "en": "Difference between sounds of same pitch and loudness"},
-            {"hi": "केवल ध्वनि की गति", "en": "Only speed of sound"},
-            {"hi": "केवल ध्वनि की दूरी", "en": "Only distance of sound"},
-            {"hi": "ध्वनि का परावर्तन", "en": "Reflection of sound"}
+            { "hi": "1.60 × 10^-8 Ωm", "en": "1.60 × 10^-8 Ωm" },
+            { "hi": "1.62 × 10^-8 Ωm", "en": "1.62 × 10^-8 Ωm" },
+            { "hi": "10^10 Ωm", "en": "10^10 Ωm" },
+            { "hi": "2.63 × 10^-8 Ωm", "en": "2.63 × 10^-8 Ωm" }
           ],
-          "answer": {"hi": "समान पिच और प्रबलता वाली ध्वनियों के बीच अंतर", "en": "Difference between sounds of same pitch and loudness"}
+          "answer": { "hi": "1.60 × 10^-8 Ωm", "en": "1.60 × 10^-8 Ωm" }
         }
       ]
     },
-    "chapter13": {
+    "chapter13":{
       "section1": [
         {
           "q": {
-            "hi": "विश्व स्वास्थ्य संगठन (WHO) के अनुसार स्वास्थ्य क्या है?",
-            "en": "According to the World Health Organization (WHO), what is health?"
+            "hi": "किसी धातु के तार से विद्युत धारा प्रवाहित करने पर दिक्सूचक सुई में क्या होता है?",
+            "en": "What happens to a compass needle when electric current flows through a metal wire?"
           },
           "options": [
-            {"hi": "केवल रोगों की अनुपस्थिति", "en": "Only absence of disease"},
-            {"hi": "शारीरिक, मानसिक तथा सामाजिक कार्य करने की क्षमता", "en": "A state of physical, mental and social well-being"},
-            {"hi": "केवल शारीरिक फिटनेस", "en": "Only physical fitness"},
-            {"hi": "केवल अच्छा भोजन करना", "en": "Only eating good food"}
+            { "hi": "वह स्थिर रहती है", "en": "It remains stationary" },
+            { "hi": "वह विक्षेपित हो जाती है", "en": "It gets deflected" },
+            { "hi": "वह टूट जाती है", "en": "It breaks" },
+            { "hi": "वह गर्म हो जाती है", "en": "It gets hot" }
           ],
-          "answer": {"hi": "शारीरिक, मानसिक तथा सामाजिक कार्य करने की क्षमता", "en": "A state of physical, mental and social well-being"}
+          "answer": { "hi": "वह विक्षेपित हो जाती है", "en": "It gets deflected" }
         },
         {
           "q": {
-            "hi": "रोग के लक्षणों (Symptoms) से हमें क्या पता चलता है?",
-            "en": "What do the symptoms of a disease indicate to us?"
+            "hi": "चुंबकीय क्षेत्र रेखाएँ चुंबक के किस ध्रुव से प्रकट होती हैं?",
+            "en": "From which pole of a magnet do magnetic field lines emerge?"
           },
           "options": [
-            {"hi": "शरीर में कुछ खराबी है", "en": "Something is wrong in the body"},
-            {"hi": "व्यक्ति स्वस्थ है", "en": "The person is healthy"},
-            {"hi": "कोई समस्या नहीं है", "en": "There is no problem"},
-            {"hi": "भविष्य की बीमारी", "en": "Future disease"}
+            { "hi": "दक्षिणी ध्रुव", "en": "South pole" },
+            { "hi": "उत्तरी ध्रुव", "en": "North pole" },
+            { "hi": "मध्य से", "en": "From the center" },
+            { "hi": "कहीं से भी नहीं", "en": "Nowhere" }
           ],
-          "answer": {"hi": "शरीर में कुछ खराबी है", "en": "Something is wrong in the body"}
+          "answer": { "hi": "उत्तरी ध्रुव", "en": "North pole" }
         },
         {
           "q": {
-            "hi": "वे रोग जो बहुत कम समय के लिए होते हैं, क्या कहलाते हैं?",
-            "en": "Diseases that last for only very short periods of time are called?"
+            "hi": "चुंबक के भीतर चुंबकीय क्षेत्र रेखाओं की दिशा क्या होती है?",
+            "en": "What is the direction of magnetic field lines inside a magnet?"
           },
           "options": [
-            {"hi": "दीर्घकालिक रोग", "en": "Chronic diseases"},
-            {"hi": "तीव्र रोग (Acute diseases)", "en": "Acute diseases"},
-            {"hi": "अनुवांशिक रोग", "en": "Genetic diseases"},
-            {"hi": "संक्रामक रोग", "en": "Infectious diseases"}
+            { "hi": "उत्तर से दक्षिण", "en": "North to South" },
+            { "hi": "दक्षिण से उत्तर", "en": "South to North" },
+            { "hi": "पूर्व से पश्चिम", "en": "East to West" },
+            { "hi": "पश्चिम से पूर्व", "en": "West to East" }
           ],
-          "answer": {"hi": "तीव्र रोग (Acute diseases)", "en": "Acute diseases"}
+          "answer": { "hi": "दक्षिण से उत्तर", "en": "South to North" }
         },
         {
           "q": {
-            "hi": "खाँसी-जुकाम किस प्रकार के रोग का उदाहरण है?",
-            "en": "Common cold is an example of which type of disease?"
+            "hi": "चुंबकीय क्षेत्र रेखाएँ कैसी होती हैं?",
+            "en": "What is the nature of magnetic field lines?"
           },
           "options": [
-            {"hi": "दीर्घकालिक", "en": "Chronic"},
-            {"hi": "तीव्र रोग (Acute)", "en": "Acute"},
-            {"hi": "कैंसर", "en": "Cancer"},
-            {"hi": "मधुमेह", "en": "Diabetes"}
+            { "hi": "खुले वक्र", "en": "Open curves" },
+            { "hi": "सीधी रेखाएँ", "en": "Straight lines" },
+            { "hi": "बंद वक्र", "en": "Closed curves" },
+            { "hi": "टूटी हुई रेखाएँ", "en": "Broken lines" }
           ],
-          "answer": {"hi": "तीव्र रोग (Acute)", "en": "Acute"}
+          "answer": { "hi": "बंद वक्र", "en": "Closed curves" }
         },
         {
           "q": {
-            "hi": "वे रोग जो लंबी अवधि तक या जीवन भर रहते हैं, क्या कहलाते हैं?",
-            "en": "Diseases that last for a long time, even as much as a lifetime, are called?"
+            "hi": "जहाँ चुंबकीय क्षेत्र रेखाएँ अधिक निकट होती हैं, वहाँ चुंबकीय क्षेत्र कैसा होता है?",
+            "en": "Where magnetic field lines are closer, the magnetic field is?"
           },
           "options": [
-            {"hi": "तीव्र रोग", "en": "Acute diseases"},
-            {"hi": "दीर्घकालिक रोग (Chronic diseases)", "en": "Chronic diseases"},
-            {"hi": "असंक्रामक रोग", "en": "Non-infectious diseases"},
-            {"hi": "हल्के रोग", "en": "Mild diseases"}
+            { "hi": "दुर्बल", "en": "Weak" },
+            { "hi": "प्रबल", "en": "Strong" },
+            { "hi": "शून्य", "en": "Zero" },
+            { "hi": "समान", "en": "Uniform" }
           ],
-          "answer": {"hi": "दीर्घकालिक रोग (Chronic diseases)", "en": "Chronic diseases"}
+          "answer": { "hi": "प्रबल", "en": "Strong" }
         },
         {
           "q": {
-            "hi": "एलिफेंटाइसिस (फीलपाँव) किस श्रेणी का रोग है?",
-            "en": "Elephantiasis belongs to which category of disease?"
+            "hi": "क्या दो चुंबकीय क्षेत्र रेखाएँ एक-दूसरे को प्रतिच्छेद करती हैं?",
+            "en": "Do two magnetic field lines intersect each other?"
           },
           "options": [
-            {"hi": "तीव्र रोग", "en": "Acute"},
-            {"hi": "दीर्घकालिक रोग (Chronic)", "en": "Chronic"},
-            {"hi": "जन्मजात रोग", "en": "Congenital"},
-            {"hi": "वायरल रोग", "en": "Viral"}
+            { "hi": "हाँ", "en": "Yes" },
+            { "hi": "कभी नहीं", "en": "Never" },
+            { "hi": "केवल ध्रुवों पर", "en": "Only at poles" },
+            { "hi": "केवल मध्य में", "en": "Only in the middle" }
           ],
-          "answer": {"hi": "दीर्घकालिक रोग (Chronic)", "en": "Chronic"}
+          "answer": { "hi": "कभी नहीं", "en": "Never" }
         },
         {
           "q": {
-            "hi": "पेप्टिक अल्सर (Peptic Ulcer) का कारण कौन-सा बैक्टीरिया है?",
-            "en": "Which bacteria is responsible for causing Peptic Ulcers?"
+            "hi": "किसी सीधे चालक से प्रवाहित धारा के कारण चुंबकीय क्षेत्र की दिशा ज्ञात करने के लिए किस नियम का उपयोग होता है?",
+            "en": "Which rule is used to find the direction of magnetic field due to current in a straight conductor?"
           },
           "options": [
-            {"hi": "ई. कोलाई", "en": "E. coli"},
-            {"hi": "हेलीकोबैक्टर पायलोरी", "en": "Helicobacter pylori"},
-            {"hi": "स्टेफिलोकोकी", "en": "Staphylococci"},
-            {"hi": "साल्मोनेला", "en": "Salmonella"}
+            { "hi": "फ्लेमिंग का वामहस्त नियम", "en": "Fleming's left-hand rule" },
+            { "hi": "दक्षिणावर्त हस्त अंगुष्ठ नियम", "en": "Right-hand thumb rule" },
+            { "hi": "ओम का नियम", "en": "Ohm's law" },
+            { "hi": "लेंज का नियम", "en": "Lenz's law" }
           ],
-          "answer": {"hi": "हेलीकोबैक्टर पायलोरी", "en": "Helicobacter pylori"}
+          "answer": { "hi": "दक्षिणावर्त हस्त अंगुष्ठ नियम", "en": "Right-hand thumb rule" }
         },
         {
           "q": {
-            "hi": "मार्जिन और वारेन को पेप्टिक अल्सर के बैक्टीरिया की खोज के लिए नोबेल पुरस्कार कब मिला?",
-            "en": "When did Marshall and Warren receive the Nobel Prize for discovering the bacteria causing peptic ulcers?"
+            "hi": "पास-पास लिपटे विद्युतरोधी ताँबे के तार की बेलन की आकृति की अनेक फेरों वाली कुंडली को क्या कहते हैं?",
+            "en": "What is a coil of many circular turns of insulated copper wire wrapped closely in the shape of a cylinder called?"
           },
           "options": [
-            {"hi": "2000", "en": "2000"},
-            {"hi": "2005", "en": "2005"},
-            {"hi": "2010", "en": "2010"},
-            {"hi": "1995", "en": "1995"}
+            { "hi": "विद्युत चुंबक", "en": "Electromagnet" },
+            { "hi": "परिनालिका", "en": "Solenoid" },
+            { "hi": "आर्मेचर", "en": "Armature" },
+            { "hi": "विभक्त वलय", "en": "Split ring" }
           ],
-          "answer": {"hi": "2005", "en": "2005"}
+          "answer": { "hi": "परिनालिका", "en": "Solenoid" }
         },
         {
           "q": {
-            "hi": "वे रोग जिनके तात्कालिक कारण सूक्ष्मजीव होते हैं, क्या कहलाते हैं?",
-            "en": "Diseases where microbes are the immediate causes are called?"
+            "hi": "परिनालिका के भीतर चुंबकीय क्षेत्र कैसा होता है?",
+            "en": "How is the magnetic field inside a solenoid?"
           },
           "options": [
-            {"hi": "असंक्रामक रोग", "en": "Non-infectious diseases"},
-            {"hi": "संक्रामक रोग (Infectious diseases)", "en": "Infectious diseases"},
-            {"hi": "दीर्घकालिक रोग", "en": "Chronic diseases"},
-            {"hi": "मानसिक रोग", "en": "Mental diseases"}
+            { "hi": "सभी बिंदुओं पर समान", "en": "Same at all points" },
+            { "hi": "सभी बिंदुओं पर अलग", "en": "Different at all points" },
+            { "hi": "शून्य", "en": "Zero" },
+            { "hi": "किनारों पर अधिक", "en": "More at the edges" }
           ],
-          "answer": {"hi": "संक्रामक रोग (Infectious diseases)", "en": "Infectious diseases"}
+          "answer": { "hi": "सभी बिंदुओं पर समान", "en": "Same at all points" }
         },
         {
           "q": {
-            "hi": "कैंसर (Cancer) किस प्रकार का रोग है?",
-            "en": "What type of disease is Cancer?"
+            "hi": "परिनालिका के भीतर रखे गए नरम लोहे के टुकड़े को क्या कहते हैं जब वह चुंबक बन जाता है?",
+            "en": "What is the soft iron piece placed inside a solenoid called when it becomes a magnet?"
           },
           "options": [
-            {"hi": "संक्रामक", "en": "Infectious"},
-            {"hi": "असंक्रामक (Non-infectious)", "en": "Non-infectious"},
-            {"hi": "छूत की बीमारी", "en": "Contagious"},
-            {"hi": "बैक्टीरियल", "en": "Bacterial"}
+            { "hi": "स्थायी चुंबक", "en": "Permanent magnet" },
+            { "hi": "विद्युत चुंबक", "en": "Electromagnet" },
+            { "hi": "प्राकृतिक चुंबक", "en": "Natural magnet" },
+            { "hi": "नाल चुंबक", "en": "Horseshoe magnet" }
           ],
-          "answer": {"hi": "असंक्रामक (Non-infectious)", "en": "Non-infectious"}
+          "answer": { "hi": "विद्युत चुंबक", "en": "Electromagnet" }
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "मुँहासे (Acne) पैदा करने वाले सूक्ष्मजीव का नाम क्या है?",
-            "en": "What is the name of the microbe that causes acne?"
+            "hi": "चुंबकीय क्षेत्र में रखे विद्युत धारावाही चालक पर आरोपित बल की दिशा किस नियम से ज्ञात की जाती है?",
+            "en": "Which rule is used to find the direction of force on a current-carrying conductor in a magnetic field?"
           },
           "options": [
-            {"hi": "ट्रिपैनोसोमा", "en": "Trypanosoma"},
-            {"hi": "स्टेफिलोकोकी (Staphylococci)", "en": "Staphylococci"},
-            {"hi": "लीशमानिया", "en": "Leishmania"},
-            {"hi": "एस्केरिस", "en": "Ascaris"}
+            { "hi": "फ्लेमिंग का दक्षिण-हस्त नियम", "en": "Fleming's right-hand rule" },
+            { "hi": "फ्लेमिंग का वामहस्त नियम", "en": "Fleming's left-hand rule" },
+            { "hi": "मैक्सवेल का नियम", "en": "Maxwell's rule" },
+            { "hi": "ओम का नियम", "en": "Ohm's law" }
           ],
-          "answer": {"hi": "स्टेफिलोकोकी (Staphylococci)", "en": "Staphylococci"}
+          "answer": { "hi": "फ्लेमिंग का वामहस्त नियम", "en": "Fleming's left-hand rule" }
         },
         {
           "q": {
-            "hi": "निद्रालु व्याधि (Sleeping sickness) का कारण कौन-सा प्रोटोजोआ है?",
-            "en": "Which protozoa causes sleeping sickness?"
+            "hi": "फ्लेमिंग के वामहस्त नियम में तर्जनी क्या दर्शाती है?",
+            "en": "What does the forefinger represent in Fleming's left-hand rule?"
           },
           "options": [
-            {"hi": "अमीबा", "en": "Amoeba"},
-            {"hi": "ट्रिपैनोसोमा (Trypanosoma)", "en": "Trypanosoma"},
-            {"hi": "लीशमानिया", "en": "Leishmania"},
-            {"hi": "प्लाज्मोडियम", "en": "Plasmodium"}
+            { "hi": "चालक की गति", "en": "Motion of conductor" },
+            { "hi": "विद्युत धारा की दिशा", "en": "Direction of electric current" },
+            { "hi": "चुंबकीय क्षेत्र की दिशा", "en": "Direction of magnetic field" },
+            { "hi": "बल की दिशा", "en": "Direction of force" }
           ],
-          "answer": {"hi": "ट्रिपैनोसोमा (Trypanosoma)", "en": "Trypanosoma"}
+          "answer": { "hi": "चुंबकीय क्षेत्र की दिशा", "en": "Direction of magnetic field" }
         },
         {
           "q": {
-            "hi": "कालाज़ार (Kala-azar) रोग का कारक कौन है?",
-            "en": "What is the causative agent of Kala-azar?"
+            "hi": "विद्युत मोटर किस ऊर्जा को किस ऊर्जा में रूपांतरित करती है?",
+            "en": "Electric motor converts which energy into which energy?"
           },
           "options": [
-            {"hi": "लीशमानिया (Leishmania)", "en": "Leishmania"},
-            {"hi": "स्टेफिलोकोकी", "en": "Staphylococci"},
-            {"hi": "वायरस", "en": "Virus"},
-            {"hi": "कवक", "en": "Fungi"}
+            { "hi": "यांत्रिक को विद्युत में", "en": "Mechanical into electrical" },
+            { "hi": "विद्युत को यांत्रिक में", "en": "Electrical into mechanical" },
+            { "hi": "ताप को विद्युत में", "en": "Heat into electrical" },
+            { "hi": "विद्युत को रासायनिक में", "en": "Electrical into chemical" }
           ],
-          "answer": {"hi": "लीशमानिया (Leishmania)", "en": "Leishmania"}
+          "answer": { "hi": "विद्युत को यांत्रिक में", "en": "Electrical into mechanical" }
         },
         {
           "q": {
-            "hi": "सामान्य जुकाम, एन्फ्लूएंजा, डेंगू और एड्स (AIDS) किसके कारण होते हैं?",
-            "en": "Common cold, influenza, dengue, and AIDS are caused by?"
+            "hi": "विद्युत मोटर में धारा की दिशा को उत्क्रमित करने वाली युक्ति क्या कहलाती है?",
+            "en": "What is the device that reverses the direction of current in an electric motor called?"
           },
           "options": [
-            {"hi": "बैक्टीरिया", "en": "Bacteria"},
-            {"hi": "वायरस (Virus)", "en": "Virus"},
-            {"hi": "कवक", "en": "Fungi"},
-            {"hi": "प्रोटोजोआ", "en": "Protozoa"}
+            { "hi": "विभक्त वलय (दिक-परिवर्तक)", "en": "Split ring (Commutator)" },
+            { "hi": "ब्रश", "en": "Brush" },
+            { "hi": "आर्मेचर", "en": "Armature" },
+            { "hi": "गैल्वेनोमीटर", "en": "Galvanometer" }
           ],
-          "answer": {"hi": "वायरस (Virus)", "en": "Virus"}
+          "answer": { "hi": "विभक्त वलय (दिक-परिवर्तक)", "en": "Split ring (Commutator)" }
         },
         {
           "q": {
-            "hi": "टाइफाइड बुखार, हैजा और क्षय रोग (TB) का कारण क्या है?",
-            "en": "What is the cause of typhoid fever, cholera and tuberculosis (TB)?"
+            "hi": "वह परिघटना जिसमें किसी कुंडली में समय के साथ परिवर्तक चुंबकीय क्षेत्र के कारण विद्युत धारा प्रेरित होती है, क्या कहलाती है?",
+            "en": "The phenomenon in which electric current is induced in a coil due to changing magnetic field is called?"
           },
           "options": [
-            {"hi": "वायरस", "en": "Virus"},
-            {"hi": "बैक्टीरिया (Bacteria)", "en": "Bacteria"},
-            {"hi": "प्रोटोजोआ", "en": "Protozoa"},
-            {"hi": "कृमि", "en": "Worms"}
+            { "hi": "विद्युत चुंबकीय प्रेरण", "en": "Electromagnetic induction" },
+            { "hi": "चुंबकीय प्रभाव", "en": "Magnetic effect" },
+            { "hi": "विद्युत अपघटन", "en": "Electrolysis" },
+            { "hi": "विद्युत तापन", "en": "Electric heating" }
           ],
-          "answer": {"hi": "बैक्टीरिया (Bacteria)", "en": "Bacteria"}
+          "answer": { "hi": "विद्युत चुंबकीय प्रेरण", "en": "Electromagnetic induction" }
         },
         {
           "q": {
-            "hi": "त्वचा के रोग (Skin diseases) प्रायः किसके कारण होते हैं?",
-            "en": "Skin diseases are often caused by?"
+            "hi": "विद्युत चुंबकीय प्रेरण की खोज किसने की थी?",
+            "en": "Who discovered electromagnetic induction?"
           },
           "options": [
-            {"hi": "वायरस", "en": "Virus"},
-            {"hi": "कवक (Fungi)", "en": "Fungi"},
-            {"hi": "बैक्टीरिया", "en": "Bacteria"},
-            {"hi": "प्रोटोजोआ", "en": "Protozoa"}
+            { "hi": "मैक्सवेल", "en": "Maxwell" },
+            { "hi": "माइकल फैराडे", "en": "Michael Faraday" },
+            { "hi": "न्यूटन", "en": "Newton" },
+            { "hi": "एम्पीयर", "en": "Ampere" }
           ],
-          "answer": {"hi": "कवक (Fungi)", "en": "Fungi"}
+          "answer": { "hi": "माइकल फैराडे", "en": "Michael Faraday" }
         },
         {
           "q": {
-            "hi": "मलेरिया और कालाज़ार जैसे रोगों का मुख्य कारण क्या है?",
-            "en": "What is the main cause of diseases like malaria and kala-azar?"
+            "hi": "प्रेरित धारा की दिशा ज्ञात करने के लिए किस नियम का उपयोग किया जाता है?",
+            "en": "Which rule is used to find the direction of induced current?"
           },
           "options": [
-            {"hi": "वायरस", "en": "Virus"},
-            {"hi": "बैक्टीरिया", "en": "Bacteria"},
-            {"hi": "प्रोटोजोआ (Protozoa)", "en": "Protozoa"},
-            {"hi": "कृमि", "en": "Worms"}
+            { "hi": "फ्लेमिंग का वामहस्त नियम", "en": "Fleming's left-hand rule" },
+            { "hi": "फ्लेमिंग का दक्षिण-हस्त नियम", "en": "Fleming's right-hand rule" },
+            { "hi": "अंगुष्ठ नियम", "en": "Thumb rule" },
+            { "hi": "स्नेल का नियम", "en": "Snell's law" }
           ],
-          "answer": {"hi": "प्रोटोजोआ (Protozoa)", "en": "Protozoa"}
+          "answer": { "hi": "फ्लेमिंग का दक्षिण-हस्त नियम", "en": "Fleming's right-hand rule" }
         },
         {
           "q": {
-            "hi": "एंटीबायोटिक (Antibiotics) दवाएं किस पर काम करती हैं?",
-            "en": "Antibiotics work effectively against?"
+            "hi": "विद्युत जनित्र (Generator) किस ऊर्जा को विद्युत ऊर्जा में बदलता है?",
+            "en": "Electric generator converts which energy into electrical energy?"
           },
           "options": [
-            {"hi": "केवल वायरस पर", "en": "Only viruses"},
-            {"hi": "बैक्टीरिया (Bacteria)", "en": "Bacteria"},
-            {"hi": "सभी सूक्ष्मजीवों पर", "en": "All microbes"},
-            {"hi": "केवल मच्छरों पर", "en": "Only mosquitoes"}
+            { "hi": "रासायनिक ऊर्जा", "en": "Chemical energy" },
+            { "hi": "सौर ऊर्जा", "en": "Solar energy" },
+            { "hi": "यांत्रिक ऊर्जा", "en": "Mechanical energy" },
+            { "hi": "नाभिकीय ऊर्जा", "en": "Nuclear energy" }
           ],
-          "answer": {"hi": "बैक्टीरिया (Bacteria)", "en": "Bacteria"}
+          "answer": { "hi": "यांत्रिक ऊर्जा", "en": "Mechanical energy" }
         },
         {
           "q": {
-            "hi": "एंटीबायोटिक दवाएं वायरस पर काम क्यों नहीं करतीं?",
-            "en": "Why do antibiotics not work against viruses?"
+            "hi": "ऐसी विद्युत धारा जो समान समय अंतरालों के पश्चात अपनी दिशा परिवर्तित कर लेती है, क्या कहलाती है?",
+            "en": "Electric current that reverses its direction after equal intervals of time is called?"
           },
           "options": [
-            {"hi": "वायरस बहुत छोटे होते हैं", "en": "Viruses are very small"},
-            {"hi": "वायरस का अपना जैव रासायनिक मार्ग (Biochemical pathway) नहीं होता", "en": "Viruses do not have their own biochemical pathways"},
-            {"hi": "दवाएं वायरस तक नहीं पहुँचतीं", "en": "Medicine does not reach viruses"},
-            {"hi": "वायरस दवाओं को खा जाते हैं", "en": "Viruses eat the medicine"}
+            { "hi": "दिष्ट धारा (DC)", "en": "Direct current (DC)" },
+            { "hi": "प्रत्यावर्ती धारा (AC)", "en": "Alternating current (AC)" },
+            { "hi": "स्थिर धारा", "en": "Steady current" },
+            { "hi": "प्रेरित धारा", "en": "Induced current" }
           ],
-          "answer": {"hi": "वायरस का अपना जैव रासायनिक मार्ग (Biochemical pathway) नहीं होता", "en": "Viruses do not have their own biochemical pathways"}
+          "answer": { "hi": "प्रत्यावर्ती धारा (AC)", "en": "Alternating current (AC)" }
         },
         {
           "q": {
-            "hi": "छींकने या खाँसने से रोग का प्रसार किस माध्यम से होता है?",
-            "en": "Spread of disease by sneezing or coughing happens through which medium?"
+            "hi": "भारत में उत्पादित प्रत्यावर्ती धारा (AC) की आवृत्ति कितनी है?",
+            "en": "What is the frequency of alternating current (AC) produced in India?"
           },
           "options": [
-            {"hi": "जल", "en": "Water"},
-            {"hi": "वायु (Air)", "en": "Air"},
-            {"hi": "भोजन", "en": "Food"},
-            {"hi": "संपर्क", "en": "Contact"}
+            { "hi": "60 Hz", "en": "60 Hz" },
+            { "hi": "50 Hz", "en": "50 Hz" },
+            { "hi": "100 Hz", "en": "100 Hz" },
+            { "hi": "220 Hz", "en": "220 Hz" }
           ],
-          "answer": {"hi": "वायु (Air)", "en": "Air"}
+          "answer": { "hi": "50 Hz", "en": "50 Hz" }
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "वायु द्वारा फैलने वाले रोगों का उदाहरण क्या है?",
-            "en": "What is an example of air-borne diseases?"
+            "hi": "घरेलू विद्युत परिपथ में 'विद्युन्मय तार' (Live wire) का रंग सामान्यतः कैसा होता है?",
+            "en": "What is the color of the 'Live wire' in domestic electric circuits generally?"
           },
           "options": [
-            {"hi": "हैजा", "en": "Cholera"},
-            {"hi": "निमोनिया और क्षय रोग (TB)", "en": "Pneumonia and TB"},
-            {"hi": "एड्स", "en": "AIDS"},
-            {"hi": "मलेरिया", "en": "Malaria"}
+            { "hi": "काला", "en": "Black" },
+            { "hi": "लाल", "en": "Red" },
+            { "hi": "हरा", "en": "Green" },
+            { "hi": "नीला", "en": "Blue" }
           ],
-          "answer": {"hi": "निमोनिया और क्षय रोग (TB)", "en": "Pneumonia and TB"}
+          "answer": { "hi": "लाल", "en": "Red" }
         },
         {
           "q": {
-            "hi": "जल द्वारा फैलने वाला प्रमुख रोग कौन-सा है?",
-            "en": "Which major disease is spread through water?"
+            "hi": "घरेलू विद्युत परिपथ में 'उदासीन तार' (Neutral wire) का रंग कैसा होता है?",
+            "en": "What is the color of the 'Neutral wire' in domestic electric circuits?"
           },
           "options": [
-            {"hi": "जुकाम", "en": "Common cold"},
-            {"hi": "हैजा (Cholera)", "en": "Cholera"},
-            {"hi": "निमोनिया", "en": "Pneumonia"},
-            {"hi": "कैंसर", "en": "Cancer"}
+            { "hi": "लाल", "en": "Red" },
+            { "hi": "काला", "en": "Black" },
+            { "hi": "हरा", "en": "Green" },
+            { "hi": "पीला", "en": "Yellow" }
           ],
-          "answer": {"hi": "हैजा (Cholera)", "en": "Cholera"}
+          "answer": { "hi": "काला", "en": "Black" }
         },
         {
           "q": {
-            "hi": "एड्स (AIDS) किसके माध्यम से नहीं फैल सकता?",
-            "en": "AIDS cannot be spread through?"
+            "hi": "भारत में विद्युन्मय तार तथा उदासीन तार के बीच कितना विभवांतर होता है?",
+            "en": "What is the potential difference between live wire and neutral wire in India?"
           },
           "options": [
-            {"hi": "रक्त स्थानांतरण", "en": "Blood transfusion"},
-            {"hi": "हाथ मिलाने या गले मिलने से (Shaking hands/hugging)", "en": "Shaking hands or hugging"},
-            {"hi": "गर्भावस्था में माँ से बच्चे को", "en": "From mother to child during pregnancy"},
-            {"hi": "यौन संपर्क", "en": "Sexual contact"}
+            { "hi": "110 V", "en": "110 V" },
+            { "hi": "220 V", "en": "220 V" },
+            { "hi": "440 V", "en": "440 V" },
+            { "hi": "50 V", "en": "50 V" }
           ],
-          "answer": {"hi": "हाथ मिलाने या गले मिलने से (Shaking hands/hugging)", "en": "Shaking hands or hugging"}
+          "answer": { "hi": "220 V", "en": "220 V" }
         },
         {
           "q": {
-            "hi": "रोग फैलाने वाले जंतुओं (जैसे मच्छर) को क्या कहते हैं?",
-            "en": "What are animals (like mosquitoes) that carry diseases called?"
+            "hi": "भूसंपर्क तार (Earth wire) का रंग कैसा होता है?",
+            "en": "What is the color of the Earth wire?"
           },
           "options": [
-            {"hi": "परजीवी", "en": "Parasites"},
-            {"hi": "रोगवाहक (Vectors)", "en": "Vectors"},
-            {"hi": "बैक्टीरिया", "en": "Bacteria"},
-            {"hi": "होस्ट", "en": "Host"}
+            { "hi": "लाल", "en": "Red" },
+            { "hi": "काला", "en": "Black" },
+            { "hi": "हरा", "en": "Green" },
+            { "hi": "सफेद", "en": "White" }
           ],
-          "answer": {"hi": "रोगवाहक (Vectors)", "en": "Vectors"}
+          "answer": { "hi": "हरा", "en": "Green" }
         },
         {
           "q": {
-            "hi": "मलेरिया फैलाने वाला मच्छर कौन-सा है?",
-            "en": "Which mosquito spreads malaria?"
+            "hi": "अतिभारण (Overloading) से बचाने के लिए किस सुरक्षा युक्ति का उपयोग किया जाता है?",
+            "en": "Which safety device is used to prevent overloading?"
           },
           "options": [
-            {"hi": "मादा एनोफिलीज", "en": "Female Anopheles"},
-            {"hi": "एडीज", "en": "Aedes"},
-            {"hi": "क्यूलेक्स", "en": "Culex"},
-            {"hi": "घरेलू मक्खी", "en": "Housefly"}
+            { "hi": "स्विच", "en": "Switch" },
+            { "hi": "फ्यूज", "en": "Fuse" },
+            { "hi": "गैल्वेनोमीटर", "en": "Galvanometer" },
+            { "hi": "एमिटर", "en": "Ammeter" }
           ],
-          "answer": {"hi": "मादा एनोफिलीज", "en": "Female Anopheles"}
+          "answer": { "hi": "फ्यूज", "en": "Fuse" }
         },
         {
           "q": {
-            "hi": "यदि सूक्ष्मजीव नाक से प्रवेश करते हैं, तो वे प्रायः कहाँ जाते हैं?",
-            "en": "If microbes enter through the nose, where are they likely to go?"
+            "hi": "लघुपथन (Short circuit) के समय परिपथ में विद्युत धारा का मान:",
+            "en": "At the time of short circuit, the value of electric current in the circuit:"
           },
           "options": [
-            {"hi": "यकृत", "en": "Liver"},
-            {"hi": "फेफड़ों में (Lungs)", "en": "Lungs"},
-            {"hi": "मस्तिष्क", "en": "Brain"},
-            {"hi": "आंत", "en": "Gut"}
+            { "hi": "बहुत कम हो जाता है", "en": "Decreases significantly" },
+            { "hi": "परिवर्तित नहीं होता", "en": "Does not change" },
+            { "hi": "अत्यधिक बढ़ जाता है", "en": "Increases heavily" },
+            { "hi": "शून्य हो जाता है", "en": "Becomes zero" }
           ],
-          "answer": {"hi": "फेफड़ों में (Lungs)", "en": "Lungs"}
+          "answer": { "hi": "अत्यधिक बढ़ जाता है", "en": "Increases heavily" }
         },
         {
           "q": {
-            "hi": "यकृत (Liver) को प्रभावित करने वाला पीलिया (Jaundice) का सूक्ष्मजीव कहाँ से प्रवेश करता है?",
-            "en": "Where does the microbe of Jaundice enter from to affect the Liver?"
+            "hi": "किसी चुंबकीय क्षेत्र में रखे सीधे धारावाही चालक पर बल अधिकतम कब होता है?",
+            "en": "When is the force on a straight current-carrying conductor in a magnetic field maximum?"
           },
           "options": [
-            {"hi": "नाक", "en": "Nose"},
-            {"hi": "मुँह (Mouth/Gut)", "en": "Mouth/Gut"},
-            {"hi": "त्वचा", "en": "Skin"},
-            {"hi": "आँख", "en": "Eye"}
+            { "hi": "क्षेत्र के समांतर होने पर", "en": "When parallel to the field" },
+            { "hi": "क्षेत्र के लंबवत होने पर", "en": "When perpendicular to the field" },
+            { "hi": "45 डिग्री पर होने पर", "en": "At an angle of 45 degrees" },
+            { "hi": "बल कभी अधिकतम नहीं होता", "en": "Force is never maximum" }
           ],
-          "answer": {"hi": "मुँह (Mouth/Gut)", "en": "Mouth/Gut"}
+          "answer": { "hi": "क्षेत्र के लंबवत होने पर", "en": "When perpendicular to the field" }
         },
         {
           "q": {
-            "hi": "HIV वायरस शरीर के किस तंत्र को नष्ट कर देता है?",
-            "en": "HIV virus destroys which system of the body?"
+            "hi": "परिनालिका का एक सिरा किस ध्रुव की भाँति व्यवहार करता है?",
+            "en": "One end of a solenoid behaves like which pole?"
           },
           "options": [
-            {"hi": "पाचन तंत्र", "en": "Digestive system"},
-            {"hi": "श्वसन तंत्र", "en": "Respiratory system"},
-            {"hi": "प्रतिरक्षा तंत्र (Immune system)", "en": "Immune system"},
-            {"hi": "तंत्रिका तंत्र", "en": "Nervous system"}
+            { "hi": "केवल उत्तर", "en": "Only North" },
+            { "hi": "केवल दक्षिण", "en": "Only South" },
+            { "hi": "उत्तर या दक्षिण ध्रुव", "en": "North or South pole" },
+            { "hi": "कोई ध्रुव नहीं", "en": "No pole" }
           ],
-          "answer": {"hi": "प्रतिरक्षा तंत्र (Immune system)", "en": "Immune system"}
+          "answer": { "hi": "उत्तर या दक्षिण ध्रुव", "en": "North or South pole" }
         },
         {
           "q": {
-            "hi": "उपचार का कौन-सा तरीका सूक्ष्मजीवों को सीधे मार देता है?",
-            "en": "Which method of treatment directly kills the microbes?"
+            "hi": "दिक्सूचक की सुई वास्तव में क्या होती है?",
+            "en": "What is a compass needle actually?"
           },
           "options": [
-            {"hi": "दर्द निवारक लेना", "en": "Taking painkillers"},
-            {"hi": "विशिष्ट औषधि (जैसे एंटीबायोटिक) का प्रयोग", "en": "Use of specific medicine (like antibiotics)"},
-            {"hi": "आराम करना", "en": "Taking rest"},
-            {"hi": "गर्म पानी पीना", "en": "Drinking hot water"}
+            { "hi": "लोहे की छड़", "en": "An iron rod" },
+            { "hi": "छोटा चुंबक", "en": "A small magnet" },
+            { "hi": "प्लास्टिक की सुई", "en": "A plastic needle" },
+            { "hi": "ताँबे का तार", "en": "A copper wire" }
           ],
-          "answer": {"hi": "विशिष्ट औषधि (जैसे एंटीबायोटिक) का प्रयोग", "en": "Use of specific medicine (like antibiotics)"}
+          "answer": { "hi": "छोटा चुंबक", "en": "A small magnet" }
         },
         {
           "q": {
-            "hi": "संक्रामक रोगों से बचने का सबसे प्रभावी सार्वजनिक तरीका क्या है?",
-            "en": "What is the most effective public way to prevent infectious diseases?"
+            "hi": "विद्युत मोटर का उपयोग किसमें किया जाता है?",
+            "en": "Where is an electric motor used?"
           },
           "options": [
-            {"hi": "घर के अंदर रहना", "en": "Staying indoors"},
-            {"hi": "स्वच्छता और भीड़भाड़ कम करना (Sanitation/Avoiding crowding)", "en": "Sanitation and avoiding crowding"},
-            {"hi": "महँगी दवाएं खाना", "en": "Eating expensive medicines"},
-            {"hi": "उपवास करना", "en": "Fasting"}
+            { "hi": "विद्युत पंखों में", "en": "In electric fans" },
+            { "hi": "वॉशिंग मशीनों में", "en": "In washing machines" },
+            { "hi": "मिक्सर ग्राइंडर में", "en": "In mixer grinders" },
+            { "hi": "उपरोक्त सभी में", "en": "In all of the above" }
           ],
-          "answer": {"hi": "स्वच्छता और भीड़भाड़ कम करना (Sanitation/Avoiding crowding)", "en": "Sanitation and avoiding crowding"}
+          "answer": { "hi": "उपरोक्त सभी में", "en": "In all of the above" }
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "टीकाकरण (Immunisation) का सिद्धांत किस पर आधारित है?",
-            "en": "On what principle is immunisation based?"
+            "hi": "एक आवेशित कण (प्रोटॉन) चुंबकीय क्षेत्र में लंबवत प्रवेश करता है, तो उसके पथ की आकृति क्या होगी?",
+            "en": "A charged particle (proton) enters a magnetic field perpendicularly, what will be the shape of its path?"
           },
           "options": [
-            {"hi": "रोग को भगाने पर", "en": "Chasing away the disease"},
-            {"hi": "प्रतिरक्षा तंत्र की 'स्मृति' (Memory) के गुण पर", "en": "On the 'memory' property of the immune system"},
-            {"hi": "दवाओं के प्रभाव पर", "en": "On the effect of medicines"},
-            {"hi": "विटामिन की कमी दूर करने पर", "en": "On removing vitamin deficiency"}
+            { "hi": "सीधी रेखा", "en": "Straight line" },
+            { "hi": "वृत्ताकार", "en": "Circular" },
+            { "hi": "परवलयाकार", "en": "Parabolic" },
+            { "hi": "सर्पिलाकार", "en": "Spiral" }
           ],
-          "answer": {"hi": "प्रतिरक्षा तंत्र की 'स्मृति' (Memory) के गुण पर", "en": "On the 'memory' property of the immune system"}
+          "answer": { "hi": "वृत्ताकार", "en": "Circular" }
         },
         {
           "q": {
-            "hi": "चेचक (Smallpox) के टीके की खोज किसने की थी?",
-            "en": "Who discovered the vaccine for smallpox?"
+            "hi": "विद्युत मोटर का सिद्धांत किस पर आधारित है?",
+            "en": "On what is the principle of an electric motor based?"
           },
           "options": [
-            {"hi": "लुई पाश्चर", "en": "Louis Pasteur"},
-            {"hi": "एडवर्ड जेनर (Edward Jenner)", "en": "Edward Jenner"},
-            {"hi": "अलेक्जेंडर फ्लेमिंग", "en": "Alexander Fleming"},
-            {"hi": "रॉबर्ट कोच", "en": "Robert Koch"}
+            { "hi": "विद्युत चुंबकीय प्रेरण", "en": "Electromagnetic induction" },
+            { "hi": "धारावाही चालक पर चुंबकीय बल", "en": "Magnetic force on current-carrying conductor" },
+            { "hi": "धारा का तापीय प्रभाव", "en": "Heating effect of current" },
+            { "hi": "रासायनिक प्रभाव", "en": "Chemical effect" }
           ],
-          "answer": {"hi": "एडवर्ड जेनर (Edward Jenner)", "en": "Edward Jenner"}
+          "answer": { "hi": "धारावाही चालक पर चुंबकीय बल", "en": "Magnetic force on current-carrying conductor" }
         },
         {
           "q": {
-            "hi": "एडवर्ड जेनर ने चेचक का टीका बनाने के लिए किस वायरस का उपयोग किया?",
-            "en": "Which virus did Edward Jenner use to create the smallpox vaccine?"
+            "hi": "गैल्वेनोमीटर का उपयोग क्या पता लगाने के लिए किया जाता है?",
+            "en": "What is a galvanometer used to detect?"
           },
           "options": [
-            {"hi": "कोरोना वायरस", "en": "Corona virus"},
-            {"hi": "काउपॉक्स (Cowpox) वायरस", "en": "Cowpox virus"},
-            {"hi": "इन्फ्लूएंजा", "en": "Influenza"},
-            {"hi": "रेबीज", "en": "Rabies"}
+            { "hi": "प्रतिरोध", "en": "Resistance" },
+            { "hi": "विभवांतर", "en": "Potential difference" },
+            { "hi": "विद्युत धारा की उपस्थिति", "en": "Presence of electric current" },
+            { "hi": "शक्ति", "en": "Power" }
           ],
-          "answer": {"hi": "काउपॉक्स (Cowpox) वायरस", "en": "Cowpox virus"}
+          "answer": { "hi": "विद्युत धारा की उपस्थिति", "en": "Presence of electric current" }
         },
         {
           "q": {
-            "hi": "पोलियो, हेपेटाइटिस और टिटनेस से बचने के लिए क्या उपलब्ध है?",
-            "en": "What is available to prevent polio, hepatitis and tetanus?"
+            "hi": "दिष्ट धारा (DC) प्राप्त करने के लिए किस यंत्र का उपयोग किया जाता है?",
+            "en": "Which instrument is used to obtain direct current (DC)?"
           },
           "options": [
-            {"hi": "केवल एंटीबायोटिक", "en": "Only antibiotics"},
-            {"hi": "टीके (Vaccines)", "en": "Vaccines"},
-            {"hi": "फल", "en": "Fruits"},
-            {"hi": "आराम", "en": "Rest"}
+            { "hi": "AC जनित्र", "en": "AC generator" },
+            { "hi": "DC जनित्र", "en": "DC generator" },
+            { "hi": "ट्रांसफार्मर", "en": "Transformer" },
+            { "hi": "विद्युत मोटर", "en": "Electric motor" }
           ],
-          "answer": {"hi": "टीके (Vaccines)", "en": "Vaccines"}
+          "answer": { "hi": "DC जनित्र", "en": "DC generator" }
         },
         {
           "q": {
-            "hi": "हेपेटाइटिस-ए (Jaundice) किसके माध्यम से फैलता है?",
-            "en": "Hepatitis-A (Jaundice) is spread through?"
+            "hi": "फ्लेमिंग के दक्षिण-हस्त नियम में अंगूठा क्या दर्शाता है?",
+            "en": "What does the thumb represent in Fleming's right-hand rule?"
           },
           "options": [
-            {"hi": "वायु", "en": "Air"},
-            {"hi": "पानी (Water)", "en": "Water"},
-            {"hi": "मच्छर", "en": "Mosquito"},
-            {"hi": "धूल", "en": "Dust"}
+            { "hi": "चुंबकीय क्षेत्र", "en": "Magnetic field" },
+            { "hi": "प्रेरित धारा", "en": "Induced current" },
+            { "hi": "चालक की गति की दिशा", "en": "Direction of motion of conductor" },
+            { "hi": "विद्युत विभव", "en": "Electric potential" }
           ],
-          "answer": {"hi": "पानी (Water)", "en": "Water"}
+          "answer": { "hi": "चालक की गति की दिशा", "en": "Direction of motion of conductor" }
         },
         {
           "q": {
-            "hi": "पेनिसिलिन (Penicillin) क्या है?",
-            "en": "What is Penicillin?"
+            "hi": "दिष्ट धारा (DC) का स्रोत कौन सा है?",
+            "en": "Which is a source of direct current (DC)?"
           },
           "options": [
-            {"hi": "एक वायरस", "en": "A virus"},
-            {"hi": "एक एंटीबायोटिक (Antibiotic)", "en": "An antibiotic"},
-            {"hi": "एक टीका", "en": "A vaccine"},
-            {"hi": "एक विटामिन", "en": "A vitamin"}
+            { "hi": "शुष्क सेल", "en": "Dry cell" },
+            { "hi": "बैटरी", "en": "Battery" },
+            { "hi": "DC जनित्र", "en": "DC generator" },
+            { "hi": "उपरोक्त सभी", "en": "All of the above" }
           ],
-          "answer": {"hi": "एक एंटीबायोटिक (Antibiotic)", "en": "An antibiotic"}
+          "answer": { "hi": "उपरोक्त सभी", "en": "All of the above" }
         },
         {
           "q": {
-            "hi": "BCG का टीका किस बीमारी से बचाव के लिए लगाया जाता है?",
-            "en": "BCG vaccine is given for protection against which disease?"
+            "hi": "प्रत्यावर्ती धारा (AC) की दिष्ट धारा (DC) की तुलना में क्या लाभ है?",
+            "en": "What is the advantage of AC over DC?"
           },
           "options": [
-            {"hi": "पोलियो", "en": "Polio"},
-            {"hi": "क्षय रोग/टीबी (Tuberculosis)", "en": "Tuberculosis"},
-            {"hi": "मलेरिया", "en": "Malaria"},
-            {"hi": "एड्स", "en": "AIDS"}
+            { "hi": "इसे दूर स्थानों तक कम ऊर्जा क्षय के भेजा जा सकता है", "en": "It can be sent to far distances with less energy loss" },
+            { "hi": "यह सस्ती है", "en": "It is cheap" },
+            { "hi": "इसका उत्पादन आसान है", "en": "Its production is easy" },
+            { "hi": "यह अधिक शक्तिशाली है", "en": "It is more powerful" }
           ],
-          "answer": {"hi": "क्षय रोग/टीबी (Tuberculosis)", "en": "Tuberculosis"}
+          "answer": { "hi": "इसे दूर स्थानों तक कम ऊर्जा क्षय के भेजा जा सकता है", "en": "It can be sent to far distances with less energy loss" }
         },
         {
           "q": {
-            "hi": "सूक्ष्मजीवों की संख्या शरीर में अधिक होने पर क्या होता है?",
-            "en": "What happens when the number of microbes in the body is very large?"
+            "hi": "किसी कुंडली में प्रेरित धारा का मान अधिकतम कब होता है?",
+            "en": "When is the value of induced current in a coil maximum?"
           },
           "options": [
-            {"hi": "व्यक्ति अधिक ऊर्जावान होता है", "en": "The person is more energetic"},
-            {"hi": "रोग की अभिव्यक्ति गंभीर होती है (Disease becomes severe)", "en": "The manifestation of the disease becomes severe"},
-            {"hi": "कोई प्रभाव नहीं पड़ता", "en": "No effect"},
-            {"hi": "भूख बढ़ती है", "en": "Appetite increases"}
+            { "hi": "जब कुंडली की गति की दिशा चुंबकीय क्षेत्र के समांतर हो", "en": "When direction of motion is parallel to magnetic field" },
+            { "hi": "जब कुंडली की गति की दिशा चुंबकीय क्षेत्र के लंबवत हो", "en": "When direction of motion is perpendicular to magnetic field" },
+            { "hi": "जब कुंडली स्थिर हो", "en": "When the coil is stationary" },
+            { "hi": "धारा हमेशा समान रहती है", "en": "Current is always same" }
           ],
-          "answer": {"hi": "रोग की अभिव्यक्ति गंभीर होती है (Disease becomes severe)", "en": "The manifestation of the disease becomes severe"}
+          "answer": { "hi": "जब कुंडली की गति की दिशा चुंबकीय क्षेत्र के लंबवत हो", "en": "When direction of motion is perpendicular to magnetic field" }
         },
         {
           "q": {
-            "hi": "शरीर के प्रभावित अंग में सूजन और दर्द किस प्रक्रिया के कारण होता है?",
-            "en": "Swelling and pain in the affected part of the body is due to which process?"
+            "hi": "विद्युत मोटर में विभक्त वलयों का मुख्य कार्य क्या है?",
+            "en": "What is the main function of split rings in an electric motor?"
           },
           "options": [
-            {"hi": "पाचन", "en": "Digestion"},
-            {"hi": "शोथ/जलन (Inflammation)", "en": "Inflammation"},
-            {"hi": "श्वसन", "en": "Respiration"},
-            {"hi": "उत्सर्जन", "en": "Excretion"}
+            { "hi": "धारा की दिशा बदलना", "en": "To reverse current direction" },
+            { "hi": "मोटर की गति बढ़ाना", "en": "To increase motor speed" },
+            { "hi": "मोटर को रोकना", "en": "To stop the motor" },
+            { "hi": "ऊष्मा को कम करना", "en": "To reduce heat" }
           ],
-          "answer": {"hi": "शोथ/जलन (Inflammation)", "en": "Inflammation"}
+          "answer": { "hi": "धारा की दिशा बदलना", "en": "To reverse current direction" }
         },
         {
           "q": {
-            "hi": "रोग निवारण की विशिष्ट विधि क्या है?",
-            "en": "What is the specific method of disease prevention?"
+            "hi": "दिष्ट धारा (DC) की आवृत्ति कितनी होती है?",
+            "en": "What is the frequency of direct current (DC)?"
           },
           "options": [
-            {"hi": "स्वच्छ पानी पीना", "en": "Drinking clean water"},
-            {"hi": "टीकाकरण (Immunisation)", "en": "Immunisation"},
-            {"hi": "अच्छा भोजन करना", "en": "Eating good food"},
-            {"hi": "व्यायाम करना", "en": "Exercising"}
+            { "hi": "50 Hz", "en": "50 Hz" },
+            { "hi": "60 Hz", "en": "60 Hz" },
+            { "hi": "शून्य", "en": "Zero" },
+            { "hi": "100 Hz", "en": "100 Hz" }
           ],
-          "answer": {"hi": "टीकाकरण (Immunisation)", "en": "Immunisation"}
+          "answer": { "hi": "शून्य", "en": "Zero" }
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "रैबीज (Rabies) का वायरस किसके काटने से फैलता है?",
-            "en": "Rabies virus is spread through the bite of?"
+            "hi": "कौन सा नियम यह कहता है कि यदि हम अपने दाहिने हाथ की मुट्ठी में धारावाही चालक को पकड़ें तो अंगूठा धारा की दिशा और उंगलियाँ क्षेत्र की दिशा दर्शाएंगी?",
+            "en": "Which rule says if we hold a current-carrying conductor in right hand, thumb shows current and fingers show field direction?"
           },
           "options": [
-            {"hi": "मच्छर", "en": "Mosquito"},
-            {"hi": "कुत्ते या बिल्ली (Infected animals)", "en": "Infected dogs or cats"},
-            {"hi": "साँप", "en": "Snake"},
-            {"hi": "मक्खी", "en": "Housefly"}
+            { "hi": "फ्लेमिंग का नियम", "en": "Fleming's rule" },
+            { "hi": "दक्षिणावर्त हस्त अंगुष्ठ नियम", "en": "Right-hand thumb rule" },
+            { "hi": "फैराडे का नियम", "en": "Faraday's law" },
+            { "hi": "ओम का नियम", "en": "Ohm's law" }
           ],
-          "answer": {"hi": "कुत्ते या बिल्ली (Infected animals)", "en": "Infected dogs or cats"}
+          "answer": { "hi": "दक्षिणावर्त हस्त अंगुष्ठ नियम", "en": "Right-hand thumb rule" }
         },
         {
           "q": {
-            "hi": "पल्स पोलियो (Pulse Polio) कार्यक्रम का उद्देश्य क्या है?",
-            "en": "What is the aim of the Pulse Polio program?"
+            "hi": "चुंबकीय क्षेत्र का मात्रक 'टेस्ला' (Tesla) किसके सम्मान में रखा गया है?",
+            "en": "In whose honor is the unit of magnetic field 'Tesla' named?"
           },
           "options": [
-            {"hi": "पोलियो का इलाज करना", "en": "Treating polio"},
-            {"hi": "पोलियो का उन्मूलन (Eradication of Polio)", "en": "Eradication of polio"},
-            {"hi": "बच्चों को खिलौने देना", "en": "Giving toys to kids"},
-            {"hi": "सर्वेक्षण करना", "en": "Conducting survey"}
+            { "hi": "आइंस्टीन", "en": "Einstein" },
+            { "hi": "निकोला टेस्ला", "en": "Nikola Tesla" },
+            { "hi": "न्यूटन", "en": "Newton" },
+            { "hi": "फैराडे", "en": "Faraday" }
           ],
-          "answer": {"hi": "पोलियो का उन्मूलन (Eradication of Polio)", "en": "Eradication of polio"}
+          "answer": { "hi": "निकोला टेस्ला", "en": "Nikola Tesla" }
         },
         {
           "q": {
-            "hi": "रोग की अवस्था में पर्याप्त आराम करने से क्या लाभ होता है?",
-            "en": "What is the benefit of taking enough rest during illness?"
+            "hi": "घरेलू परिपथों में सुरक्षा के लिए प्रयुक्त 'फ्यूज' किस सिद्धांत पर कार्य करता है?",
+            "en": "On what principle does the 'fuse' used in domestic circuits work?"
           },
           "options": [
-            {"hi": "नींद अच्छी आती है", "en": "Sleep is better"},
-            {"hi": "ऊर्जा का संरक्षण होता है ताकि प्रतिरक्षा तंत्र लड़ सके", "en": "Conserves energy so the immune system can fight back"},
-            {"hi": "समय कट जाता है", "en": "Time passes easily"},
-            {"hi": "दवाएं काम नहीं करतीं", "en": "Medicines don't work"}
+            { "hi": "धारा का चुंबकीय प्रभाव", "en": "Magnetic effect of current" },
+            { "hi": "धारा का तापीय प्रभाव", "en": "Heating effect of current" },
+            { "hi": "विद्युत चुंबकीय प्रेरण", "en": "Electromagnetic induction" },
+            { "hi": "प्रकाश का प्रकीर्णन", "en": "Scattering of light" }
           ],
-          "answer": {"hi": "ऊर्जा का संरक्षण होता है ताकि प्रतिरक्षा तंत्र लड़ सके", "en": "Conserves energy so the immune system can fight back"}
+          "answer": { "hi": "धारा का तापीय प्रभाव", "en": "Heating effect of current" }
         },
         {
           "q": {
-            "hi": "पेप्टिक अल्सर के लिए कौन-सी थेरेपी प्रभावी है?",
-            "en": "Which therapy is effective for peptic ulcers?"
+            "hi": "चुंबकीय क्षेत्र रेखाओं की सघनता क्या दर्शाती है?",
+            "en": "What does the density of magnetic field lines represent?"
           },
           "options": [
-            {"hi": "सर्जरी", "en": "Surgery"},
-            {"hi": "एंटीबायोटिक थेरेपी (Antibiotic therapy)", "en": "Antibiotic therapy"},
-            {"hi": "योग", "en": "Yoga"},
-            {"hi": "मालिश", "en": "Massage"}
+            { "hi": "क्षेत्र की दिशा", "en": "Direction of field" },
+            { "hi": "क्षेत्र की प्रबलता", "en": "Strength of field" },
+            { "hi": "धारा का मान", "en": "Value of current" },
+            { "hi": "विभव का मान", "en": "Value of potential" }
           ],
-          "answer": {"hi": "एंटीबायोटिक थेरेपी (Antibiotic therapy)", "en": "Antibiotic therapy"}
+          "answer": { "hi": "क्षेत्र की प्रबलता", "en": "Strength of field" }
         },
         {
           "q": {
-            "hi": "DPT का टीका किन रोगों से बचाता है?",
-            "en": "DPT vaccine protects against which diseases?"
+            "hi": "एक प्रोटॉन पुंज क्षैतिजतः उत्तर की ओर गमन कर रहा है और पूर्व की ओर विक्षेपित हो जाता है। चुंबकीय क्षेत्र की दिशा क्या है?",
+            "en": "A proton beam moves horizontally North and gets deflected East. What is the direction of magnetic field?"
           },
           "options": [
-            {"hi": "डिप्थीरिया, काली खाँसी, टिटनेस", "en": "Diphtheria, Pertussis, Tetanus"},
-            {"hi": "डेंगू, पोलियो, टाइफाइड", "en": "Dengue, Polio, Typhoid"},
-            {"hi": "डायबिटीज, पीलिया, ट्यूमर", "en": "Diabetes, Jaundice, Tumor"},
-            {"hi": "एड्स, कैंसर, मलेरिया", "en": "AIDS, Cancer, Malaria"}
+            { "hi": "दक्षिण", "en": "South" },
+            { "hi": "पश्चिम", "en": "West" },
+            { "hi": "ऊर्ध्वाधरतः नीचे की ओर", "en": "Vertically downward" },
+            { "hi": "ऊर्ध्वाधरतः ऊपर की ओर", "en": "Vertically upward" }
           ],
-          "answer": {"hi": "डिप्थीरिया, काली खाँसी, टिटनेस", "en": "Diphtheria, Pertussis, Tetanus"}
+          "answer": { "hi": "ऊर्ध्वाधरतः नीचे की ओर", "en": "Vertically downward" }
         },
         {
           "q": {
-            "hi": "हमारे शरीर में संक्रमण से लड़ने के लिए कौन-सी कोशिकाएं उत्तरदायी हैं?",
-            "en": "Which cells in our body are responsible for fighting infection?"
+            "hi": "किसी धारावाही कुंडली के केंद्र पर चुंबकीय क्षेत्र रेखाएँ कैसी होती हैं?",
+            "en": "How are magnetic field lines at the center of a circular current-carrying coil?"
           },
           "options": [
-            {"hi": "लाल रक्त कोशिकाएं (RBC)", "en": "RBC"},
-            {"hi": "विशिष्ट प्रतिरक्षा कोशिकाएं (WBC)", "en": "Specialized immune cells (WBC)"},
-            {"hi": "प्लेटलेट्स", "en": "Platelets"},
-            {"hi": "तंत्रिका कोशिकाएं", "en": "Nerve cells"}
+            { "hi": "वृत्ताकार", "en": "Circular" },
+            { "hi": "सीधी रेखाओं जैसी", "en": "Like straight lines" },
+            { "hi": "अण्डाकार", "en": "Elliptical" },
+            { "hi": "कोई रेखा नहीं होती", "en": "There are no lines" }
           ],
-          "answer": {"hi": "विशिष्ट प्रतिरक्षा कोशिकाएं (WBC)", "en": "Specialized immune cells (WBC)"}
+          "answer": { "hi": "सीधी रेखाओं जैसी", "en": "Like straight lines" }
         },
         {
           "q": {
-            "hi": "जापानी बुखार (Japanese Encephalitis) किसको प्रभावित करता है?",
-            "en": "Japanese Encephalitis affects which part of the body?"
+            "hi": "मृदु लोहे के क्रोड वाली कुंडली को क्या कहते हैं?",
+            "en": "What is a coil with a soft iron core called?"
           },
           "options": [
-            {"hi": "यकृत", "en": "Liver"},
-            {"hi": "मस्तिष्क (Brain)", "en": "Brain"},
-            {"hi": "फेफड़े", "en": "Lungs"},
-            {"hi": "गुर्दे", "en": "Kidneys"}
+            { "hi": "स्थायी चुंबक", "en": "Permanent magnet" },
+            { "hi": "परिनालिका", "en": "Solenoid" },
+            { "hi": "विद्युत चुंबक", "en": "Electromagnet" },
+            { "hi": "शुष्क सेल", "en": "Dry cell" }
           ],
-          "answer": {"hi": "मस्तिष्क (Brain)", "en": "Brain"}
+          "answer": { "hi": "विद्युत चुंबक", "en": "Electromagnet" }
         },
         {
           "q": {
-            "hi": "अच्छे स्वास्थ्य के लिए क्या आवश्यक नहीं है?",
-            "en": "What is not necessary for good health?"
+            "hi": "धारावाही वृत्ताकार कुंडली में फेरों की संख्या बढ़ाने पर चुंबकीय क्षेत्र पर क्या प्रभाव पड़ता है?",
+            "en": "What happens to magnetic field when turns in current-carrying circular coil increase?"
           },
           "options": [
-            {"hi": "संतुलित आहार", "en": "Balanced diet"},
-            {"hi": "सामाजिक समानता और सद्भाव", "en": "Social equality and harmony"},
-            {"hi": "खुश रहना", "en": "Staying happy"},
-            {"hi": "केवल महँगी कार होना", "en": "Only having an expensive car"}
+            { "hi": "क्षेत्र घटता है", "en": "Field decreases" },
+            { "hi": "क्षेत्र बढ़ता है", "en": "Field increases" },
+            { "hi": "समान रहता है", "en": "Stays same" },
+            { "hi": "शून्य हो जाता है", "en": "Becomes zero" }
           ],
-          "answer": {"hi": "केवल महँगी कार होना", "en": "Only having an expensive car"}
+          "answer": { "hi": "क्षेत्र बढ़ता है", "en": "Field increases" }
         },
         {
           "q": {
-            "hi": "जीन (Genes) की खराबी से होने वाला रोग कौन-सा है?",
-            "en": "Which disease is caused by faulty genes?"
+            "hi": "विद्युत जनित्र में 'ब्रश' का क्या कार्य है?",
+            "en": "What is the function of 'brushes' in an electric generator?"
           },
           "options": [
-            {"hi": "जुकाम", "en": "Cold"},
-            {"hi": "जेनेटिक विकृति (Genetic abnormality)", "en": "Genetic abnormality"},
-            {"hi": "मलेरिया", "en": "Malaria"},
-            {"hi": "हैजा", "en": "Cholera"}
+            { "hi": "घर्षण कम करना", "en": "To reduce friction" },
+            { "hi": "बाहरी परिपथ को धारा पहुँचाना", "en": "To supply current to external circuit" },
+            { "hi": "वोल्टता बढ़ाना", "en": "To increase voltage" },
+            { "hi": "जनित्र को गर्म करना", "en": "To heat the generator" }
           ],
-          "answer": {"hi": "जेनेटिक विकृति (Genetic abnormality)", "en": "Genetic abnormality"}
+          "answer": { "hi": "बाहरी परिपथ को धारा पहुँचाना", "en": "To supply current to external circuit" }
         },
         {
           "q": {
-            "hi": "संक्रामक रोग के फैलने का स्रोत क्या हो सकता है?",
-            "en": "What can be the source of spread for an infectious disease?"
+            "hi": "इनमें से कौन सी युक्ति विद्युत धारा के चुंबकीय प्रभाव पर आधारित है?",
+            "en": "Which of these devices is based on the magnetic effect of electric current?"
           },
           "options": [
-            {"hi": "वायु", "en": "Air"},
-            {"hi": "जल और भोजन", "en": "Water and Food"},
-            {"hi": "रोगवाहक जंतु", "en": "Vector animals"},
-            {"hi": "उपरोक्त सभी (All of above)", "en": "All of the above"}
+            { "hi": "लाउडस्पीकर", "en": "Loudspeaker" },
+            { "hi": "टेलीफोन रिसीवर", "en": "Telephone receiver" },
+            { "hi": "विद्युत घंटी", "en": "Electric bell" },
+            { "hi": "उपरोक्त सभी", "en": "All of the above" }
           ],
-          "answer": {"hi": "उपरोक्त सभी (All of above)", "en": "All of the above"}
+          "answer": { "hi": "उपरोक्त सभी", "en": "All of the above" }
         }
       ]
     },
