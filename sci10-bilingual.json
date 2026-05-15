@@ -4548,1324 +4548,1174 @@
    "chapter09": {
       "section1": [
         {
-          "q": {
-            "hi": "किसी वस्तु को खींचना, धकेलना या ठोकर लगाना क्या कहलाता है?",
-            "en": "What is pushing, pulling, or hitting an object called?"
-          },
+          "q": { "hi": "आनुवंशिक लक्षणों के पीढ़ी-दर-पीढ़ी संचरण को क्या कहते हैं?", "en": "What is the transmission of genetic traits from generation to generation called?" },
           "options": [
-            {"hi": "वेग", "en": "Velocity"},
-            {"hi": "त्वरण", "en": "Acceleration"},
-            {"hi": "बल (Force)", "en": "Force"},
-            {"hi": "कार्य", "en": "Work"}
+            { "hi": "विकास", "en": "Evolution" },
+            { "hi": "आनुवंशिकता (Heredity)", "en": "Heredity" },
+            { "hi": "विभिन्नता", "en": "Variation" },
+            { "hi": "जनन", "en": "Reproduction" }
           ],
-          "answer": {"hi": "बल (Force)", "en": "Force"}
+          "answer": { "hi": "आनुवंशिकता (Heredity)", "en": "Heredity" }
         },
         {
-          "q": {
-            "hi": "यदि किसी वस्तु पर लगने वाले बलों का परिणामी बल शून्य हो, तो उन्हें क्या कहते हैं?",
-            "en": "If the resultant of all forces acting on an object is zero, what are they called?"
-          },
+          "q": { "hi": "आनुवंशिकी का जनक किसे कहा जाता है?", "en": "Who is known as the Father of Genetics?" },
           "options": [
-            {"hi": "असंतुलित बल", "en": "Unbalanced forces"},
-            {"hi": "संतुलित बल (Balanced forces)", "en": "Balanced forces"},
-            {"hi": "घर्षण बल", "en": "Friction force"},
-            {"hi": "गुरुत्व बल", "en": "Gravitational force"}
+            { "hi": "चार्ल्स डार्विन", "en": "Charles Darwin" },
+            { "hi": "ग्रेगर जोहान मेंडल (Mendel)", "en": "Gregor Johann Mendel" },
+            { "hi": "जे.बी.एस. हाल्डेन", "en": "J.B.S. Haldane" },
+            { "hi": "लामार्क", "en": "Lamarck" }
           ],
-          "answer": {"hi": "संतुलित बल (Balanced forces)", "en": "Balanced forces"}
+          "answer": { "hi": "ग्रेगर जोहान मेंडल (Mendel)", "en": "Gregor Johann Mendel" }
         },
         {
-          "q": {
-            "hi": "किसी वस्तु की गति की अवस्था में परिवर्तन लाने के लिए किस प्रकार के बल की आवश्यकता होती है?",
-            "en": "What kind of force is required to change the state of motion of an object?"
-          },
+          "q": { "hi": "मेंडल ने अपने प्रयोगों के लिए किस पौधे का चयन किया था?", "en": "Which plant did Mendel select for his experiments?" },
           "options": [
-            {"hi": "संतुलित बल", "en": "Balanced force"},
-            {"hi": "असंतुलित बल (Unbalanced force)", "en": "Unbalanced force"},
-            {"hi": "स्थिर बल", "en": "Static force"},
-            {"hi": "शून्य बल", "en": "Zero force"}
+            { "hi": "गुलाब", "en": "Rose" },
+            { "hi": "मटर (Pea plant)", "en": "Garden Pea" },
+            { "hi": "सरसों", "en": "Mustard" },
+            { "hi": "गेहूँ", "en": "Wheat" }
           ],
-          "answer": {"hi": "असंतुलित बल (Unbalanced force)", "en": "Unbalanced force"}
+          "answer": { "hi": "मटर (Pea plant)", "en": "Garden Pea" }
         },
         {
-          "q": {
-            "hi": "घर्षण बल हमेशा वस्तु की गति की दिशा के ______ कार्य करता है।",
-            "en": "Frictional force always acts ______ to the direction of motion of the object."
-          },
+          "q": { "hi": "मेंडल के प्रयोग में F1 पीढ़ी के सभी पौधे कैसे थे?", "en": "In Mendel's experiment, how were all the plants of the F1 generation?" },
           "options": [
-            {"hi": "समान", "en": "Same"},
-            {"hi": "विपरीत (Opposite)", "en": "Opposite"},
-            {"hi": "लंबवत", "en": "Perpendicular"},
-            {"hi": "ऊपर की ओर", "en": "Upwards"}
+            { "hi": "बौने", "en": "Dwarf" },
+            { "hi": "लंबे (Tall)", "en": "Tall" },
+            { "hi": "मध्यम कद के", "en": "Medium height" },
+            { "hi": "मिश्रित", "en": "Mixed" }
           ],
-          "answer": {"hi": "विपरीत (Opposite)", "en": "Opposite"}
+          "answer": { "hi": "लंबे (Tall)", "en": "Tall" }
         },
         {
-          "q": {
-            "hi": "न्यूटन के गति का प्रथम नियम और किस नाम से जाना जाता है?",
-            "en": "By what other name is Newton's first law of motion known?"
-          },
+          "q": { "hi": "विपरीत लक्षणों के जोड़ों को क्या कहते हैं जो एक-दूसरे को प्रभावित करते हैं?", "en": "What are pairs of contrasting traits called that influence each other?" },
           "options": [
-            {"hi": "संवेग का नियम", "en": "Law of momentum"},
-            {"hi": "जड़त्व का नियम (Law of Inertia)", "en": "Law of Inertia"},
-            {"hi": "गुरुत्वाकर्षण का नियम", "en": "Law of gravitation"},
-            {"hi": "क्रिया-प्रतिक्रिया का नियम", "en": "Law of action-reaction"}
+            { "hi": "जीन", "en": "Gene" },
+            { "hi": "एलील (Allele)", "en": "Allele" },
+            { "hi": "क्रोमोसोम", "en": "Chromosome" },
+            { "hi": "DNA", "en": "DNA" }
           ],
-          "answer": {"hi": "जड़त्व का नियम (Law of Inertia)", "en": "Law of Inertia"}
+          "answer": { "hi": "एलील (Allele)", "en": "Allele" }
         },
         {
-          "q": {
-            "hi": "वस्तुओं द्वारा अपनी गति की अवस्था में परिवर्तन का विरोध करने की प्रवृत्ति क्या कहलाती है?",
-            "en": "The tendency of objects to resist any change in their state of motion is called?"
-          },
+          "q": { "hi": "लक्षण जो F1 पीढ़ी में स्वयं को प्रकट करता है, उसे क्या कहते हैं?", "en": "The trait that expresses itself in the F1 generation is called?" },
           "options": [
-            {"hi": "बल", "en": "Force"},
-            {"hi": "वेग", "en": "Velocity"},
-            {"hi": "जड़त्व (Inertia)", "en": "Inertia"},
-            {"hi": "संवेग", "en": "Momentum"}
+            { "hi": "अप्रभावी लक्षण", "en": "Recessive trait" },
+            { "hi": "प्रभावी लक्षण (Dominant trait)", "en": "Dominant trait" },
+            { "hi": "उत्परिवर्तन", "en": "Mutation" },
+            { "hi": "संकरण", "en": "Hybridization" }
           ],
-          "answer": {"hi": "जड़त्व (Inertia)", "en": "Inertia"}
+          "answer": { "hi": "प्रभावी लक्षण (Dominant trait)", "en": "Dominant trait" }
         },
         {
-          "q": {
-            "hi": "किसी वस्तु का जड़त्व किस पर निर्भर करता है?",
-            "en": "On what does the inertia of an object depend?"
-          },
+          "q": { "hi": "मेंडल के एक संकर संकरण (Monohybrid cross) का दृश्यरूप (Phenotype) अनुपात क्या था?", "en": "What was the phenotypic ratio of Mendel's monohybrid cross?" },
           "options": [
-            {"hi": "वेग पर", "en": "Velocity"},
-            {"hi": "द्रव्यमान पर (Mass)", "en": "Mass"},
-            {"hi": "आकार पर", "en": "Shape"},
-            {"hi": "रंग पर", "en": "Color"}
+            { "hi": "1:2:1", "en": "1:2:1" },
+            { "hi": "3:1", "en": "3:1" },
+            { "hi": "9:3:3:1", "en": "9:3:3:1" },
+            { "hi": "1:1", "en": "1:1" }
           ],
-          "answer": {"hi": "द्रव्यमान पर (Mass)", "en": "Mass"}
+          "answer": { "hi": "3:1", "en": "3:1" }
         },
         {
-          "q": {
-            "hi": "बस के अचानक चलने पर यात्री पीछे की ओर क्यों झुक जाते हैं?",
-            "en": "Why do passengers lean backward when a bus starts suddenly?"
-          },
+          "q": { "hi": "जीव के आनुवंशिक गठन को क्या कहते हैं?", "en": "What is the genetic constitution of an organism called?" },
           "options": [
-            {"hi": "घर्षण के कारण", "en": "Due to friction"},
-            {"hi": "विराम के जड़त्व के कारण (Due to inertia of rest)", "en": "Due to inertia of rest"},
-            {"hi": "गति के जड़त्व के कारण", "en": "Due to inertia of motion"},
-            {"hi": "गुरुत्वाकर्षण के कारण", "en": "Due to gravity"}
+            { "hi": "फेनोटाइप", "en": "Phenotype" },
+            { "hi": "जीनोटाइप (Genotype)", "en": "Genotype" },
+            { "hi": "पर्यावरण", "en": "Environment" },
+            { "hi": "प्रतिकृति", "en": "Copying" }
           ],
-          "answer": {"hi": "विराम के जड़त्व के कारण (Due to inertia of rest)", "en": "Due to inertia of rest"}
+          "answer": { "hi": "जीनोटाइप (Genotype)", "en": "Genotype" }
         },
         {
-          "q": {
-            "hi": "चलती हुई कार के अचानक रुकने पर यात्री आगे की ओर क्यों झुकते हैं?",
-            "en": "Why do passengers lean forward when a moving car stops suddenly?"
-          },
+          "q": { "hi": "कोशिका के केंद्रक में सूचना का स्रोत क्या होता है?", "en": "What is the source of information in the nucleus of a cell?" },
           "options": [
-            {"hi": "विराम के जड़त्व के कारण", "en": "Due to inertia of rest"},
-            {"hi": "गति के जड़त्व के कारण (Due to inertia of motion)", "en": "Due to inertia of motion"},
-            {"hi": "हवा के दबाव के कारण", "en": "Due to air pressure"},
-            {"hi": "बल के कारण", "en": "Due to force"}
+            { "hi": "प्रोटीन", "en": "Protein" },
+            { "hi": "DNA", "en": "DNA" },
+            { "hi": "एंजाइम", "en": "Enzyme" },
+            { "hi": "वसा", "en": "Fat" }
           ],
-          "answer": {"hi": "गति के जड़त्व के कारण (Due to inertia of motion)", "en": "Due to inertia of motion"}
+          "answer": { "hi": "DNA", "en": "DNA" }
         },
         {
-          "q": {
-            "hi": "भारी वस्तु का जड़त्व हल्की वस्तु की तुलना में कैसा होता है?",
-            "en": "How is the inertia of a heavy object compared to a light object?"
-          },
+          "q": { "hi": "DNA का वह खंड जो एक प्रोटीन के लिए सूचना प्रदान करता है, क्या कहलाता है?", "en": "The segment of DNA that provides information for one protein is called?" },
           "options": [
-            {"hi": "कम", "en": "Less"},
-            {"hi": "समान", "en": "Same"},
-            {"hi": "अधिक (More)", "en": "More"},
-            {"hi": "शून्य", "en": "Zero"}
+            { "hi": "गुणसूत्र", "en": "Chromosome" },
+            { "hi": "जीन (Gene)", "en": "Gene" },
+            { "hi": "केंद्रक", "en": "Nucleus" },
+            { "hi": "कोशिका द्रव्य", "en": "Cytoplasm" }
           ],
-          "answer": {"hi": "अधिक (More)", "en": "More"}
+          "answer": { "hi": "जीन (Gene)", "en": "Gene" }
         }
       ],
       "section2": [
         {
-          "q": {
-            "hi": "किसी वस्तु के द्रव्यमान और वेग के गुणनफल को क्या कहते हैं?",
-            "en": "What is the product of mass and velocity of an object called?"
-          },
+          "q": { "hi": "मानव में गुणसूत्रों के कितने जोड़े पाए जाते हैं?", "en": "How many pairs of chromosomes are found in humans?" },
           "options": [
-            {"hi": "बल", "en": "Force"},
-            {"hi": "संवेग (Momentum)", "en": "Momentum"},
-            {"hi": "त्वरण", "en": "Acceleration"},
-            {"hi": "जड़त्व", "en": "Inertia"}
+            { "hi": "20", "en": "20" },
+            { "hi": "23", "en": "23" },
+            { "hi": "46", "en": "46" },
+            { "hi": "22", "en": "22" }
           ],
-          "answer": {"hi": "संवेग (Momentum)", "en": "Momentum"}
+          "answer": { "hi": "23", "en": "23" }
         },
         {
-          "q": {
-            "hi": "संवेग (Momentum) का SI मात्रक क्या है?",
-            "en": "What is the SI unit of momentum?"
-          },
+          "q": { "hi": "स्त्री में कौन से लिंग गुणसूत्र होते हैं?", "en": "Which sex chromosomes are present in females?" },
           "options": [
-            {"hi": "kg m/s²", "en": "kg m/s²"},
-            {"hi": "kg m/s", "en": "kg m/s"},
-            {"hi": "Newton", "en": "Newton"},
-            {"hi": "m/s²", "en": "m/s²"}
+            { "hi": "XY", "en": "XY" },
+            { "hi": "XX", "en": "XX" },
+            { "hi": "YY", "en": "YY" },
+            { "hi": "XO", "en": "XO" }
           ],
-          "answer": {"hi": "kg m/s", "en": "kg m/s"}
+          "answer": { "hi": "XX", "en": "XX" }
         },
         {
-          "q": {
-            "hi": "न्यूटन का द्वितीय नियम क्या बताता है?",
-            "en": "What does Newton's second law state?"
-          },
+          "q": { "hi": "पुरुष में कौन से लिंग गुणसूत्र पाए जाते हैं?", "en": "Which sex chromosomes are found in males?" },
           "options": [
-            {"hi": "जड़त्व के बारे में", "en": "About inertia"},
-            {"hi": "संवेग परिवर्तन की दर लगाए गए बल के समानुपाती होती है", "en": "Rate of change of momentum is proportional to the applied force"},
-            {"hi": "क्रिया और प्रतिक्रिया बराबर होती हैं", "en": "Action and reaction are equal"},
-            {"hi": "ऊर्जा संरक्षण के बारे में", "en": "About conservation of energy"}
+            { "hi": "XX", "en": "XX" },
+            { "hi": "XY", "en": "XY" },
+            { "hi": "YY", "en": "YY" },
+            { "hi": "XZ", "en": "XZ" }
           ],
-          "answer": {"hi": "संवेग परिवर्तन की दर लगाए गए बल के समानुपाती होती है", "en": "Rate of change of momentum is proportional to the applied force"}
+          "answer": { "hi": "XY", "en": "XY" }
         },
         {
-          "q": {
-            "hi": "बल (F), द्रव्यमान (m) और त्वरण (a) के बीच क्या संबंध है?",
-            "en": "What is the relationship between force (F), mass (m), and acceleration (a)?"
-          },
+          "q": { "hi": "मानव शिशु के लिंग का निर्धारण किसके द्वारा होता है?", "en": "The sex of a human infant is determined by?" },
           "options": [
-            {"hi": "F = m/a", "en": "F = m/a"},
-            {"hi": "F = m × a", "en": "F = m × a"},
-            {"hi": "F = a/m", "en": "F = a/m"},
-            {"hi": "F = m + a", "en": "F = m + a"}
+            { "hi": "माता के गुणसूत्रों से", "en": "Mother's chromosomes" },
+            { "hi": "पिता के गुणसूत्रों से (Father's chromosomes)", "en": "Father's chromosomes" },
+            { "hi": "पर्यावरण से", "en": "Environment" },
+            { "hi": "भोजन से", "en": "Food" }
           ],
-          "answer": {"hi": "F = m × a", "en": "F = m × a"}
+          "answer": { "hi": "पिता के गुणसूत्रों से (Father's chromosomes)", "en": "Father's chromosomes" }
         },
         {
-          "q": {
-            "hi": "बल का SI मात्रक क्या है?",
-            "en": "What is the SI unit of force?"
-          },
+          "q": { "hi": "एक स्पीशीज़ के भीतर जीवों में पाई जाने वाली भिन्नता को क्या कहते हैं?", "en": "Difference found among organisms within a species is called?" },
           "options": [
-            {"hi": "मीटर/सेकंड", "en": "m/s"},
-            {"hi": "न्यूटन (Newton)", "en": "Newton"},
-            {"hi": "जूल", "en": "Joule"},
-            {"hi": "वाट", "en": "Watt"}
+            { "hi": "क्रमिक विकास", "en": "Evolution" },
+            { "hi": "विभिन्नता (Variation)", "en": "Variation" },
+            { "hi": "अनुकूलन", "en": "Adaptation" },
+            { "hi": "विशिष्टता", "en": "Specificity" }
           ],
-          "answer": {"hi": "न्यूटन (Newton)", "en": "Newton"}
+          "answer": { "hi": "विभिन्नता (Variation)", "en": "Variation" }
         },
         {
-          "q": {
-            "hi": "1 न्यूटन बल किसके बराबर होता है?",
-            "en": "1 Newton force is equal to?"
-          },
+          "q": { "hi": "जीवों में अचानक होने वाले वंशागत परिवर्तन को क्या कहते हैं?", "en": "Sudden heritable changes in organisms are called?" },
           "options": [
-            {"hi": "1 kg m/s", "en": "1 kg m/s"},
-            {"hi": "1 kg m/s²", "en": "1 kg m/s²"},
-            {"hi": "1 g m/s²", "en": "1 g m/s²"},
-            {"hi": "1 kg/s", "en": "1 kg/s"}
+            { "hi": "उत्परिवर्तन (Mutation)", "en": "Mutation" },
+            { "hi": "संकरण", "en": "Hybridization" },
+            { "hi": "चयन", "en": "Selection" },
+            { "hi": "अनुकूलन", "en": "Adaptation" }
           ],
-          "answer": {"hi": "1 kg m/s²", "en": "1 kg m/s²"}
+          "answer": { "hi": "उत्परिवर्तन (Mutation)", "en": "Mutation" }
         },
         {
-          "q": {
-            "hi": "क्रिकेट खिलाड़ी गेंद को लपकते समय अपने हाथों को पीछे की ओर क्यों खींचता है?",
-            "en": "Why does a cricket player pull his hands backward while catching a ball?"
-          },
+          "q": { "hi": "मेंडल के द्वि-संकर संकरण (Dihybrid cross) का दृश्यरूप अनुपात क्या था?", "en": "What was the phenotypic ratio of Mendel's dihybrid cross?" },
           "options": [
-            {"hi": "बल बढ़ाने के लिए", "en": "To increase force"},
-            {"hi": "संवेग परिवर्तन के समय को बढ़ाने के लिए ताकि बल कम लगे", "en": "To increase time of change of momentum to reduce force"},
-            {"hi": "गेंद को डराने के लिए", "en": "To scare the ball"},
-            {"hi": "हाथों को मजबूत करने के लिए", "en": "To strengthen hands"}
+            { "hi": "3:1", "en": "3:1" },
+            { "hi": "9:3:3:1", "en": "9:3:3:1" },
+            { "hi": "1:2:1", "en": "1:2:1" },
+            { "hi": "1:1:1:1", "en": "1:1:1:1" }
           ],
-          "answer": {"hi": "संवेग परिवर्तन के समय को बढ़ाने के लिए ताकि बल कम लगे", "en": "To increase time of change of momentum to reduce force"}
+          "answer": { "hi": "9:3:3:1", "en": "9:3:3:1" }
         },
         {
-          "q": {
-            "hi": "किसी वस्तु का द्रव्यमान 2 kg है और त्वरण 5 m/s² है, तो बल कितना होगा?",
-            "en": "An object has a mass of 2 kg and acceleration of 5 m/s², what is the force?"
-          },
+          "q": { "hi": "उपार्जित लक्षणों की वंशागति का सिद्धांत किसने दिया था?", "en": "Who gave the theory of inheritance of acquired characters?" },
           "options": [
-            {"hi": "7 N", "en": "7 N"},
-            {"hi": "3 N", "en": "3 N"},
-            {"hi": "10 N", "en": "10 N"},
-            {"hi": "2.5 N", "en": "2.5 N"}
+            { "hi": "डार्विन", "en": "Darwin" },
+            { "hi": "लामार्क (Lamarck)", "en": "Lamarck" },
+            { "hi": "मेंडल", "en": "Mendel" },
+            { "hi": "वीज़मैन", "en": "Weismann" }
           ],
-          "answer": {"hi": "10 N", "en": "10 N"}
+          "answer": { "hi": "लामार्क (Lamarck)", "en": "Lamarck" }
         },
         {
-          "q": {
-            "hi": "संवेग (Momentum) कैसी राशि है?",
-            "en": "What type of quantity is momentum?"
-          },
+          "q": { "hi": "कायिक ऊतकों में होने वाले परिवर्तन जो अगली पीढ़ी में नहीं जाते, क्या कहलाते हैं?", "en": "Changes in somatic tissues that are not passed to the next generation are called?" },
           "options": [
-            {"hi": "अदिश राशि", "en": "Scalar quantity"},
-            {"hi": "सदिश राशि (Vector quantity)", "en": "Vector quantity"},
-            {"hi": "शून्य राशि", "en": "Zero quantity"},
-            {"hi": "केवल परिमाण वाली", "en": "Only magnitude"}
+            { "hi": "आनुवंशिक लक्षण", "en": "Genetic traits" },
+            { "hi": "उपार्जित लक्षण (Acquired traits)", "en": "Acquired traits" },
+            { "hi": "प्रभावी लक्षण", "en": "Dominant traits" },
+            { "hi": "अप्रभावी लक्षण", "en": "Recessive traits" }
           ],
-          "answer": {"hi": "सदिश राशि (Vector quantity)", "en": "Vector quantity"}
+          "answer": { "hi": "उपार्जित लक्षण (Acquired traits)", "en": "Acquired traits" }
         },
         {
-          "q": {
-            "hi": "यदि वस्तु स्थिर है (v=0), तो उसका संवेग क्या होगा?",
-            "en": "If an object is at rest (v=0), what will be its momentum?"
-          },
+          "q": { "hi": "जीवों की उत्पत्ति के समय पृथ्वी के वायुमंडल में कौन सी गैस नहीं थी?", "en": "Which gas was absent in the Earth's atmosphere at the time of origin of life?" },
           "options": [
-            {"hi": "अनंत", "en": "Infinite"},
-            {"hi": "शून्य (Zero)", "en": "Zero"},
-            {"hi": "द्रव्यमान के बराबर", "en": "Equal to mass"},
-            {"hi": "स्थिर", "en": "Constant"}
+            { "hi": "अमोनिया", "en": "Ammonia" },
+            { "hi": "मीथेन", "en": "Methane" },
+            { "hi": "ऑक्सीजन (Oxygen)", "en": "Oxygen" },
+            { "hi": "हाइड्रोजन", "en": "Hydrogen" }
           ],
-          "answer": {"hi": "शून्य (Zero)", "en": "Zero"}
+          "answer": { "hi": "ऑक्सीजन (Oxygen)", "en": "Oxygen" }
         }
       ],
       "section3": [
         {
-          "q": {
-            "hi": "न्यूटन के गति का तृतीय नियम क्या है?",
-            "en": "What is Newton's third law of motion?"
-          },
+          "q": { "hi": "प्राकृतिक वरण (Natural Selection) का सिद्धांत किसने प्रतिपादित किया?", "en": "Who proposed the theory of Natural Selection?" },
           "options": [
-            {"hi": "जड़त्व का नियम", "en": "Law of inertia"},
-            {"hi": "प्रत्येक क्रिया के बराबर और विपरीत प्रतिक्रिया होती है", "en": "To every action, there is an equal and opposite reaction"},
-            {"hi": "F = ma", "en": "F = ma"},
-            {"hi": "द्रव्यमान संरक्षण", "en": "Conservation of mass"}
+            { "hi": "मेंडल", "en": "Mendel" },
+            { "hi": "चार्ल्स डार्विन (Charles Darwin)", "en": "Charles Darwin" },
+            { "hi": "लामार्क", "en": "Lamarck" },
+            { "hi": "हाल्डेन", "en": "Haldane" }
           ],
-          "answer": {"hi": "प्रत्येक क्रिया के बराबर और विपरीत प्रतिक्रिया होती है", "en": "To every action, there is an equal and opposite reaction"}
+          "answer": { "hi": "चार्ल्स डार्विन (Charles Darwin)", "en": "Charles Darwin" }
         },
         {
-          "q": {
-            "hi": "बंदूक से गोली दागने पर बंदूक पीछे की ओर क्यों झटका देती है?",
-            "en": "Why does a gun recoil when a bullet is fired?"
-          },
+          "q": { "hi": "डार्विन की प्रसिद्ध पुस्तक का नाम क्या है?", "en": "What is the name of Darwin's famous book?" },
           "options": [
-            {"hi": "प्रथम नियम के कारण", "en": "Due to 1st law"},
-            {"hi": "द्वितीय नियम के कारण", "en": "Due to 2nd law"},
-            {"hi": "तृतीय नियम के कारण (Due to 3rd law)", "en": "Due to 3rd law"},
-            {"hi": "हवा के दबाव के कारण", "en": "Due to air pressure"}
+            { "hi": "फिलॉसफी जूलॉजिक", "en": "Philosophie Zoologique" },
+            { "hi": "ऑरिजिन ऑफ स्पीशीज़ (Origin of Species)", "en": "Origin of Species" },
+            { "hi": "जेनेटिक्स", "en": "Genetics" },
+            { "hi": "प्रिंसिपल्स ऑफ बायोलॉजी", "en": "Principles of Biology" }
           ],
-          "answer": {"hi": "तृतीय नियम के कारण (Due to 3rd law)", "en": "Due to 3rd law"}
+          "answer": { "hi": "ऑरिजिन ऑफ स्पीशीज़ (Origin of Species)", "en": "Origin of Species" }
         },
         {
-          "q": {
-            "hi": "नाव से आगे कूदने पर नाव पीछे की ओर क्यों हटती है?",
-            "en": "Why does a boat move backward when you jump forward from it?"
-          },
+          "q": { "hi": "समजात अंगों (Homologous organs) का उदाहरण क्या है?", "en": "What is an example of homologous organs?" },
           "options": [
-            {"hi": "जड़त्व के कारण", "en": "Due to inertia"},
-            {"hi": "क्रिया-प्रतिक्रिया बल के कारण (Due to action-reaction force)", "en": "Due to action-reaction force"},
-            {"hi": "घर्षण के कारण", "en": "Due to friction"},
-            {"hi": "संवेग के कारण", "en": "Due to momentum"}
+            { "hi": "पक्षी और चमगादड़ के पंख", "en": "Wings of bird and bat" },
+            { "hi": "हमारा हाथ और कुत्ते के अग्रपाद", "en": "Our arm and dog's foreleg" },
+            { "hi": "कीट और पक्षी के पंख", "en": "Wings of insect and bird" },
+            { "hi": "तितली और पक्षी के पंख", "en": "Wings of butterfly and bird" }
           ],
-          "answer": {"hi": "क्रिया-प्रतिक्रिया बल के कारण (Due to action-reaction force)", "en": "Due to action-reaction force"}
+          "answer": { "hi": "हमारा हाथ और कुत्ते के अग्रपाद", "en": "Our arm and dog's foreleg" }
         },
         {
-          "q": {
-            "hi": "संवेग संरक्षण के नियम के अनुसार, टक्कर से पहले और टक्कर के बाद कुल संवेग ______ रहता है।",
-            "en": "According to the law of conservation of momentum, total momentum before and after collision remains ______."
-          },
+          "q": { "hi": "समरूप अंग (Analogous organs) वे होते हैं जिनकी-", "en": "Analogous organs are those which have-" },
           "options": [
-            {"hi": "बढ़ जाता है", "en": "Increases"},
-            {"hi": "घट जाता है", "en": "Decreases"},
-            {"hi": "संरक्षित/अपरिवर्तित (Conserved)", "en": "Conserved"},
-            {"hi": "शून्य", "en": "Zero"}
+            { "hi": "उत्पत्ति समान हो", "en": "Same origin" },
+            { "hi": "कार्य समान हो (Same function)", "en": "Same function" },
+            { "hi": "संरचना समान हो", "en": "Same structure" },
+            { "hi": "आकार समान हो", "en": "Same size" }
           ],
-          "answer": {"hi": "संरक्षित/अपरिवर्तित (Conserved)", "en": "Conserved"}
+          "answer": { "hi": "कार्य समान हो (Same function)", "en": "Same function" }
         },
         {
-          "q": {
-            "hi": "रॉकेट किस सिद्धांत पर कार्य करता है?",
-            "en": "On what principle does a rocket work?"
-          },
+          "q": { "hi": "विकासीय संबंध स्थापित करने में किसका महत्त्व है?", "en": "What is important in establishing evolutionary relationships?" },
           "options": [
-            {"hi": "द्रव्यमान संरक्षण", "en": "Conservation of mass"},
-            {"hi": "ऊर्जा संरक्षण", "en": "Conservation of energy"},
-            {"hi": "संवेग संरक्षण (Conservation of momentum)", "en": "Conservation of momentum"},
-            {"hi": "जड़त्व", "en": "Inertia"}
+            { "hi": "भोजन", "en": "Food" },
+            { "hi": "जीवाश्म (Fossils)", "en": "Fossils" },
+            { "hi": "मिट्टी", "en": "Soil" },
+            { "hi": "हवा", "en": "Air" }
           ],
-          "answer": {"hi": "संवेग संरक्षण (Conservation of momentum)", "en": "Conservation of momentum"}
+          "answer": { "hi": "जीवाश्म (Fossils)", "en": "Fossils" }
         },
         {
-          "q": {
-            "hi": "यदि क्रिया और प्रतिक्रिया हमेशा बराबर होती हैं, तो वे एक-दूसरे को निरस्त क्यों नहीं करतीं?",
-            "en": "If action and reaction are always equal, why don't they cancel each other?"
-          },
+          "q": { "hi": "जीवाश्मों की आयु निर्धारित करने की एक विधि कौन सी है?", "en": "What is a method to determine the age of fossils?" },
           "options": [
-            {"hi": "क्योंकि वे एक ही वस्तु पर लगती हैं", "en": "Because they act on the same body"},
-            {"hi": "क्योंकि वे दो अलग-अलग वस्तुओं पर कार्य करती हैं", "en": "Because they act on two different bodies"},
-            {"hi": "क्योंकि वे बराबर नहीं होतीं", "en": "Because they are not equal"},
-            {"hi": "वे निरस्त करती हैं", "en": "They do cancel"}
+            { "hi": "खुदाई", "en": "Digging" },
+            { "hi": "फॉसिल डेटिंग/कार्बन डेटिंग", "en": "Fossil/Carbon dating" },
+            { "hi": "रंग परीक्षण", "en": "Color test" },
+            { "hi": "भार मापन", "en": "Weight measurement" }
           ],
-          "answer": {"hi": "क्योंकि वे दो अलग-अलग वस्तुओं पर कार्य करती हैं", "en": "Because they act on two different bodies"}
+          "answer": { "hi": "फॉसिल डेटिंग/कार्बन डेटिंग", "en": "Fossil/Carbon dating" }
         },
         {
-          "q": {
-            "hi": "घोड़ा गाड़ी को खींचते समय किस पर बल लगाता है?",
-            "en": "While pulling a cart, on what does the horse apply force?"
-          },
+          "q": { "hi": "जंगली गोभी से 'ब्रोकोली' का विकास किसका उदाहरण है?", "en": "Development of broccoli from wild cabbage is an example of?" },
           "options": [
-            {"hi": "गाड़ी पर", "en": "On the cart"},
-            {"hi": "अपने आप पर", "en": "On itself"},
-            {"hi": "पृथ्वी की सतह पर (On the ground)", "en": "On the ground"},
-            {"hi": "हवा पर", "en": "On the air"}
+            { "hi": "प्राकृतिक चयन", "en": "Natural selection" },
+            { "hi": "कृत्रिम चयन (Artificial selection)", "en": "Artificial selection" },
+            { "hi": "उत्परिवर्तन", "en": "Mutation" },
+            { "hi": "संकरण", "en": "Hybridization" }
           ],
-          "answer": {"hi": "पृथ्वी की सतह पर (On the ground)", "en": "On the ground"}
+          "answer": { "hi": "कृत्रिम चयन (Artificial selection)", "en": "Artificial selection" }
         },
         {
-          "q": {
-            "hi": "संवेग (p) का सूत्र है:",
-            "en": "The formula for momentum (p) is:"
-          },
+          "q": { "hi": "विकासीय दृष्टिकोण से हमारी किससे अधिक समानता है?", "en": "From an evolutionary perspective, we are most similar to?" },
           "options": [
-            {"hi": "p = m/v", "en": "p = m/v"},
-            {"hi": "p = m × v", "en": "p = m × v"},
-            {"hi": "p = v/m", "en": "p = v/m"},
-            {"hi": "p = m + v", "en": "p = m + v"}
+            { "hi": "मकड़ी", "en": "Spider" },
+            { "hi": "जीवाणु", "en": "Bacteria" },
+            { "hi": "चीन के विद्यार्थी (Chinese student)", "en": "Chinese student" },
+            { "hi": "चिम्पूँजी", "en": "Chimpanzee" }
           ],
-          "answer": {"hi": "p = m × v", "en": "p = m × v"}
+          "answer": { "hi": "चीन के विद्यार्थी (Chinese student)", "en": "Chinese student" }
         },
         {
-          "q": {
-            "hi": "0.1 kg की गोली 100 m/s के वेग से चलती है, इसका संवेग क्या होगा?",
-            "en": "A 0.1 kg bullet moves with a velocity of 100 m/s, what is its momentum?"
-          },
+          "q": { "hi": "मानव का उद्भव (Origin) कहाँ हुआ माना जाता है?", "en": "Where is the origin of humans believed to have occurred?" },
           "options": [
-            {"hi": "10 kg m/s", "en": "10 kg m/s"},
-            {"hi": "1 kg m/s", "en": "1 kg m/s"},
-            {"hi": "100 kg m/s", "en": "100 kg m/s"},
-            {"hi": "0.1 kg m/s", "en": "0.1 kg m/s"}
+            { "hi": "एशिया", "en": "Asia" },
+            { "hi": "अफ्रीका (Africa)", "en": "Africa" },
+            { "hi": "यूरोप", "en": "Europe" },
+            { "hi": "अमेरिका", "en": "America" }
           ],
-          "answer": {"hi": "10 kg m/s", "en": "10 kg m/s"}
+          "answer": { "hi": "अफ्रीका (Africa)", "en": "Africa" }
         },
         {
-          "q": {
-            "hi": "गैलीलियो ने किस पर प्रयोग करके जड़त्व के विचार को विकसित किया?",
-            "en": "Galileo developed the idea of inertia by experimenting on?"
-          },
+          "q": { "hi": "पक्षियों और सरीसृपों के बीच की कड़ी किसे माना जाता है?", "en": "Which organism is considered the link between birds and reptiles?" },
           "options": [
-            {"hi": "गिरती हुई गेंदों पर", "en": "Falling balls"},
-            {"hi": "आनत तल (Inclined planes) पर", "en": "Inclined planes"},
-            {"hi": "पानी के जहाजों पर", "en": "Ships"},
-            {"hi": "तारों पर", "en": "Stars"}
+            { "hi": "कबूतर", "en": "Pigeon" },
+            { "hi": "आर्कियोप्टेरिक्स (Archaeopteryx)", "en": "Archaeopteryx" },
+            { "hi": "डायनासोर", "en": "Dinosaur" },
+            { "hi": "छिपकली", "en": "Lizard" }
           ],
-          "answer": {"hi": "आनत तल (Inclined planes) पर", "en": "Inclined planes"}
+          "answer": { "hi": "आर्कियोप्टेरिक्स (Archaeopteryx)", "en": "Archaeopteryx" }
         }
       ],
       "section4": [
         {
-          "q": {
-            "hi": "दर्पण (Mirror) पर धूल जमने पर उसे झाड़ने से धूल गिर जाती है, यह किसका उदाहरण है?",
-            "en": "When dust is shaken off a mirror, it falls. This is an example of?"
-          },
+          "q": { "hi": "मेंडल ने अपने प्रयोग के लिए मटर के कितने जोड़ी लक्षणों का अध्ययन किया?", "en": "How many pairs of traits did Mendel study in the pea plant?" },
           "options": [
-            {"hi": "संवेग", "en": "Momentum"},
-            {"hi": "जड़त्व (Inertia)", "en": "Inertia"},
-            {"hi": "त्वरण", "en": "Acceleration"},
-            {"hi": "घर्षण", "en": "Friction"}
+            { "hi": "2", "en": "2" },
+            { "hi": "5", "en": "5" },
+            { "hi": "7", "en": "7" },
+            { "hi": "10", "en": "10" }
           ],
-          "answer": {"hi": "जड़त्व (Inertia)", "en": "Inertia"}
+          "answer": { "hi": "7", "en": "7" }
         },
         {
-          "q": {
-            "hi": "किसी वस्तु का द्रव्यमान उसकी ______ का माप है।",
-            "en": "The mass of an object is a measure of its ______."
-          },
+          "q": { "hi": "जैव विकास के प्रमाण हमें कहाँ से प्राप्त होते हैं?", "en": "Where do we get evidence of evolution from?" },
           "options": [
-            {"hi": "गति", "en": "Motion"},
-            {"hi": "जड़त्व (Inertia)", "en": "Inertia"},
-            {"hi": "शक्ति", "en": "Power"},
-            {"hi": "ऊर्जा", "en": "Energy"}
+            { "hi": "जीवाश्मों से", "en": "Fossils" },
+            { "hi": "समजात अंगों से", "en": "Homologous organs" },
+            { "hi": "तुलनात्मक भ्रूणिकी से", "en": "Comparative embryology" },
+            { "hi": "उपरोक्त सभी (All of above)", "en": "All of the above" }
           ],
-          "answer": {"hi": "जड़त्व (Inertia)", "en": "Inertia"}
+          "answer": { "hi": "उपरोक्त सभी (All of above)", "en": "All of the above" }
         },
         {
-          "q": {
-            "hi": "यदि दो वस्तुओं के बीच टक्कर होती है और कोई बाहरी बल नहीं लग रहा, तो क्या संरक्षित रहेगा?",
-            "en": "If two objects collide and no external force acts, what remains conserved?"
-          },
+          "q": { "hi": "लंबे और बौने मटर के पौधों के बीच संकरण कराने पर F2 पीढ़ी में बौने पौधों का प्रतिशत क्या था?", "en": "In a cross between tall and dwarf pea plants, what was the percentage of dwarf plants in F2?" },
           "options": [
-            {"hi": "वेग", "en": "Velocity"},
-            {"hi": "त्वरण", "en": "Acceleration"},
-            {"hi": "कुल संवेग (Total momentum)", "en": "Total momentum"},
-            {"hi": "द्रव्यमान", "en": "Mass"}
+            { "hi": "0%", "en": "0%" },
+            { "hi": "25%", "en": "25%" },
+            { "hi": "50%", "en": "50%" },
+            { "hi": "75%", "en": "75%" }
           ],
-          "answer": {"hi": "कुल संवेग (Total momentum)", "en": "Total momentum"}
+          "answer": { "hi": "25%", "en": "25%" }
         },
         {
-          "q": {
-            "hi": "बल की परिभाषा न्यूटन के किस नियम से प्राप्त होती है?",
-            "en": "The definition of force is obtained from which of Newton's laws?"
-          },
+          "q": { "hi": "गुणसूत्र (Chromosomes) किसके बने होते हैं?", "en": "What are chromosomes made of?" },
           "options": [
-            {"hi": "प्रथम नियम (First law)", "en": "First law"},
-            {"hi": "द्वितीय नियम", "en": "Second law"},
-            {"hi": "तृतीय नियम", "en": "Third law"},
-            {"hi": "चौथा नियम", "en": "Fourth law"}
+            { "hi": "केवल प्रोटीन", "en": "Only protein" },
+            { "hi": "केवल DNA", "en": "Only DNA" },
+            { "hi": "DNA और प्रोटीन (DNA and Protein)", "en": "DNA and Protein" },
+            { "hi": "RNA", "en": "RNA" }
           ],
-          "answer": {"hi": "प्रथम नियम (First law)", "en": "First law"}
+          "answer": { "hi": "DNA और प्रोटीन (DNA and Protein)", "en": "DNA and Protein" }
         },
         {
-          "q": {
-            "hi": "बल का गणितीय सूत्र न्यूटन के किस नियम से मिलता है?",
-            "en": "The mathematical formula for force is derived from which of Newton's laws?"
-          },
+          "q": { "hi": "अनुवांशिकता की सबसे छोटी इकाई क्या है?", "en": "What is the smallest unit of heredity?" },
           "options": [
-            {"hi": "प्रथम नियम", "en": "First law"},
-            {"hi": "द्वितीय नियम (Second law)", "en": "Second law"},
-            {"hi": "तृतीय नियम", "en": "Third law"},
-            {"hi": "गुरुत्वाकर्षण नियम", "en": "Gravitation law"}
+            { "hi": "कोशिका", "en": "Cell" },
+            { "hi": "गुणसूत्र", "en": "Chromosome" },
+            { "hi": "जीन (Gene)", "en": "Gene" },
+            { "hi": "DNA", "en": "DNA" }
           ],
-          "answer": {"hi": "द्वितीय नियम (Second law)", "en": "Second law"}
+          "answer": { "hi": "जीन (Gene)", "en": "Gene" }
         },
         {
-          "q": {
-            "hi": "रबड़ की गेंद और उसी आकार के पत्थर में से किसका जड़त्व अधिक होगा?",
-            "en": "Between a rubber ball and a stone of the same size, which has more inertia?"
-          },
+          "q": { "hi": "समरूप अंग (Analogous organs) किसका परिणाम हैं?", "en": "Analogous organs are the result of?" },
           "options": [
-            {"hi": "रबड़ की गेंद", "en": "Rubber ball"},
-            {"hi": "पत्थर (Stone)", "en": "Stone"},
-            {"hi": "दोनों का समान", "en": "Both equal"},
-            {"hi": "शून्य", "en": "Zero"}
+            { "hi": "समान पूर्वज", "en": "Common ancestor" },
+            { "hi": "अभिसारी विकास (Convergent evolution)", "en": "Convergent evolution" },
+            { "hi": "अपसारी विकास", "en": "Divergent evolution" },
+            { "hi": "कृत्रिम चयन", "en": "Artificial selection" }
           ],
-          "answer": {"hi": "पत्थर (Stone)", "en": "Stone"}
+          "answer": { "hi": "अभिसारी विकास (Convergent evolution)", "en": "Convergent evolution" }
         },
         {
-          "q": {
-            "hi": "गति के दूसरे नियम के अनुसार, a = ?",
-            "en": "According to the second law of motion, a = ?"
-          },
+          "q": { "hi": "समजात अंग (Homologous organs) क्या दर्शाते हैं?", "en": "What do homologous organs show?" },
           "options": [
-            {"hi": "F × m", "en": "F × m"},
-            {"hi": "F / m", "en": "F / m"},
-            {"hi": "m / F", "en": "m / F"},
-            {"hi": "F + m", "en": "F + m"}
+            { "hi": "विभिन्न पूर्वज", "en": "Different ancestors" },
+            { "hi": "समान पूर्वज (Common ancestry)", "en": "Common ancestry" },
+            { "hi": "पर्यावरणीय प्रभाव", "en": "Environmental impact" },
+            { "hi": "कोई संबंध नहीं", "en": "No relationship" }
           ],
-          "answer": {"hi": "F / m", "en": "F / m"}
+          "answer": { "hi": "समान पूर्वज (Common ancestry)", "en": "Common ancestry" }
         },
         {
-          "q": {
-            "hi": "टक्कर के दौरान लगने वाले बल कैसे होते हैं?",
-            "en": "How are the forces acting during a collision?"
-          },
+          "q": { "hi": "किस जीव विज्ञानी ने सबसे पहले जीवन की उत्पत्ति के बारे में अपना विचार दिया?", "en": "Which biologist first gave his views on the origin of life?" },
           "options": [
-            {"hi": "असमान", "en": "Unequal"},
-            {"hi": "बराबर और विपरीत (Equal and opposite)", "en": "Equal and opposite"},
-            {"hi": "शून्य", "en": "Zero"},
-            {"hi": "एक ही दिशा में", "en": "In the same direction"}
+            { "hi": "मेंडल", "en": "Mendel" },
+            { "hi": "डार्विन", "en": "Darwin" },
+            { "hi": "हाल्डेन (Haldane)", "en": "Haldane" },
+            { "hi": "मिलर", "en": "Miller" }
           ],
-          "answer": {"hi": "बराबर और विपरीत (Equal and opposite)", "en": "Equal and opposite"}
+          "answer": { "hi": "हाल्डेन (Haldane)", "en": "Haldane" }
         },
         {
-          "q": {
-            "hi": "एक बस और एक कार समान वेग से चल रही हैं। किसे रोकना आसान होगा?",
-            "en": "A bus and a car are moving with the same velocity. Which one is easier to stop?"
-          },
+          "q": { "hi": "स्टेनले मिलर और हेरोल्ड उरे ने अपने प्रयोग में क्या सिद्ध किया?", "en": "What did Stanley Miller and Harold Urey prove in their experiment?" },
           "options": [
-            {"hi": "बस", "en": "Bus"},
-            {"hi": "कार (Car)", "en": "Car"},
-            {"hi": "दोनों को समान", "en": "Both equal"},
-            {"hi": "किसी को नहीं", "en": "Neither"}
+            { "hi": "कोशिका की खोज", "en": "Discovery of cell" },
+            { "hi": "कार्बनिक अणुओं का अजैविक संश्लेषण", "en": "Abiotic synthesis of organic molecules" },
+            { "hi": "प्रकाश संश्लेषण", "en": "Photosynthesis" },
+            { "hi": "डीएनए की संरचना", "en": "DNA structure" }
           ],
-          "answer": {"hi": "कार (Car)", "en": "Car"}
+          "answer": { "hi": "कार्बनिक अणुओं का अजैविक संश्लेषण", "en": "Abiotic synthesis of organic molecules" }
         },
         {
-          "q": {
-            "hi": "किसी वस्तु पर बल लगाने से उसकी ______ में परिवर्तन हो सकता है।",
-            "en": "Applying force on an object can change its ______."
-          },
+          "q": { "hi": "प्रजातीकरण (Speciation) के लिए कौन सा कारक सबसे महत्वपूर्ण है?", "en": "Which factor is most important for speciation?" },
           "options": [
-            {"hi": "चाल और दिशा", "en": "Speed and direction"},
-            {"hi": "आकृति", "en": "Shape"},
-            {"hi": "विराम या गति की अवस्था", "en": "State of rest or motion"},
-            {"hi": "उपरोक्त सभी (All of above)", "en": "All of the above"}
+            { "hi": "भोजन", "en": "Food" },
+            { "hi": "भौगोलिक पृथक्करण (Geographical isolation)", "en": "Geographical isolation" },
+            { "hi": "तापमान", "en": "Temperature" },
+            { "hi": "नींद", "en": "Sleep" }
           ],
-          "answer": {"hi": "उपरोक्त सभी (All of above)", "en": "All of the above"}
+          "answer": { "hi": "भौगोलिक पृथक्करण (Geographical isolation)", "en": "Geographical isolation" }
         }
       ],
       "section5": [
         {
-          "q": {
-            "hi": "जब एक दरी (Carpet) को छड़ी से पीटा जाता है, तो धूल के कण बाहर आ जाते हैं। क्यों?",
-            "en": "When a carpet is beaten with a stick, dust particles come out. Why?"
-          },
+          "q": { "hi": "आनुवंशिक विभिन्नताएँ किसके कारण उत्पन्न होती हैं?", "en": "Genetic variations arise due to?" },
           "options": [
-            {"hi": "घर्षण के कारण", "en": "Due to friction"},
-            {"hi": "जड़त्व के कारण (Due to inertia)", "en": "Due to inertia"},
-            {"hi": "संवेग के कारण", "en": "Due to momentum"},
-            {"hi": "ऊर्जा के कारण", "en": "Due to energy"}
+            { "hi": "DNA प्रतिकृति में त्रुटि", "en": "Errors in DNA copying" },
+            { "hi": "लैंगिक जनन", "en": "Sexual reproduction" },
+            { "hi": "उत्परिवर्तन", "en": "Mutation" },
+            { "hi": "उपरोक्त सभी (All of above)", "en": "All of the above" }
           ],
-          "answer": {"hi": "जड़त्व के कारण (Due to inertia)", "en": "Due to inertia"}
+          "answer": { "hi": "उपरोक्त सभी (All of above)", "en": "All of the above" }
         },
         {
-          "q": {
-            "hi": "क्रिया और प्रतिक्रिया बल ______ पर कार्य करते हैं।",
-            "en": "Action and reaction forces act on ______."
-          },
+          "q": { "hi": "मेंडल के अनुसार 'TT' किस प्रकार के लक्षणों को दर्शाता है?", "en": "According to Mendel, 'TT' represents which traits?" },
           "options": [
-            {"hi": "एक ही वस्तु", "en": "Same object"},
-            {"hi": "दो अलग-अलग वस्तुओं (Two different objects)", "en": "Two different objects"},
-            {"hi": "केवल स्थिर वस्तुओं", "en": "Only stationary objects"},
-            {"hi": "केवल गतिशील वस्तुओं", "en": "Only moving objects"}
+            { "hi": "बौने पौधे", "en": "Dwarf plants" },
+            { "hi": "शुद्ध लंबे पौधे (Pure tall)", "en": "Pure tall plants" },
+            { "hi": "संकर लंबे पौधे", "en": "Hybrid tall plants" },
+            { "hi": "गोल बीज", "en": "Round seeds" }
           ],
-          "answer": {"hi": "दो अलग-अलग वस्तुओं (Two different objects)", "en": "Two different objects"}
+          "answer": { "hi": "शुद्ध लंबे पौधे (Pure tall)", "en": "Pure tall plants" }
         },
         {
-          "q": {
-            "hi": "संवेग परिवर्तन की दर किसके बराबर होती है?",
-            "en": "Rate of change of momentum is equal to?"
-          },
+          "q": { "hi": "मेंडल के अनुसार 'Tt' किस प्रकार के पौधों को दर्शाता है?", "en": "According to Mendel, 'Tt' represents which plants?" },
           "options": [
-            {"hi": "त्वरण", "en": "Acceleration"},
-            {"hi": "वेग", "en": "Velocity"},
-            {"hi": "लगाए गए बल के (Applied force)", "en": "Applied force"},
-            {"hi": "द्रव्यमान", "en": "Mass"}
+            { "hi": "शुद्ध लंबे", "en": "Pure tall" },
+            { "hi": "संकर लंबे (Hybrid tall)", "en": "Hybrid tall" },
+            { "hi": "बौने", "en": "Dwarf" },
+            { "hi": "सफेद फूल", "en": "White flower" }
           ],
-          "answer": {"hi": "लगाए गए बल के (Applied force)", "en": "Applied force"}
+          "answer": { "hi": "संकर लंबे (Hybrid tall)", "en": "Hybrid tall" }
         },
         {
-          "q": {
-            "hi": "टक्कर में दो वस्तुओं का संवेग ______ रहता है।",
-            "en": "In a collision, the momentum of two objects remains ______."
-          },
+          "q": { "hi": "क्या माता-पिता के उपार्जित अनुभव अगली पीढ़ी में जाते हैं?", "en": "Do acquired experiences of parents pass to the next generation?" },
           "options": [
-            {"hi": "अस्थिर", "en": "Unstable"},
-            {"hi": "शून्य", "en": "Zero"},
-            {"hi": "नियत/संरक्षित (Constant)", "en": "Constant"},
-            {"hi": "दोगुना", "en": "Double"}
+            { "hi": "हाँ", "en": "Yes" },
+            { "hi": "नहीं (No)", "en": "No" },
+            { "hi": "कभी-कभी", "en": "Sometimes" },
+            { "hi": "केवल माता के", "en": "Only mother's" }
           ],
-          "answer": {"hi": "नियत/संरक्षित (Constant)", "en": "Constant"}
+          "answer": { "hi": "नहीं (No)", "en": "No" }
         },
         {
-          "q": {
-            "hi": "जड़त्व कितने प्रकार के होते हैं?",
-            "en": "How many types of inertia are there?"
-          },
+          "q": { "hi": "जीवाश्म कितने वर्ष पुराने हैं, इसका पता कैसे लगाया जाता है?", "en": "How is it determined how many years old a fossil is?" },
           "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "2", "en": "2"},
-            {"hi": "3 (विराम, गति, दिशा)", "en": "3 (Rest, Motion, Direction)"},
-            {"hi": "4", "en": "4"}
+            { "hi": "मिट्टी की गहराई से", "en": "From soil depth" },
+            { "hi": "रेडियोधर्मी तत्वों के अनुपात से", "en": "Ratio of radioactive elements" },
+            { "hi": "उपरोक्त दोनों (Both of above)", "en": "Both of above" },
+            { "hi": "जीवाश्म के रंग से", "en": "From fossil's color" }
           ],
-          "answer": {"hi": "3 (विराम, गति, दिशा)", "en": "3 (Rest, Motion, Direction)"}
+          "answer": { "hi": "उपरोक्त दोनों (Both of above)", "en": "Both of above" }
         },
         {
-          "q": {
-            "hi": "क्या संवेग शून्य हो सकता है?",
-            "en": "Can momentum be zero?"
-          },
+          "q": { "hi": "जैव विकास का अर्थ क्या है?", "en": "What is the meaning of evolution?" },
           "options": [
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "हाँ, यदि वेग शून्य हो (Yes, if velocity is zero)", "en": "Yes, if velocity is zero"},
-            {"hi": "केवल निर्वात में", "en": "Only in vacuum"},
-            {"hi": "कह नहीं सकते", "en": "Cannot say"}
+            { "hi": "अचानक मृत्यु", "en": "Sudden death" },
+            { "hi": "पीढ़ी दर पीढ़ी होने वाले क्रमिक परिवर्तन", "en": "Gradual changes over generations" },
+            { "hi": "केवल प्रजनन", "en": "Only reproduction" },
+            { "hi": "स्थिरता", "en": "Stability" }
           ],
-          "answer": {"hi": "हाँ, यदि वेग शून्य हो (Yes, if velocity is zero)", "en": "Yes, if velocity is zero"}
+          "answer": { "hi": "पीढ़ी दर पीढ़ी होने वाले क्रमिक परिवर्तन", "en": "Gradual changes over generations" }
         },
         {
-          "q": {
-            "hi": "बल का प्रभाव किस पर निर्भर करता है?",
-            "en": "Effect of force depends on?"
-          },
+          "q": { "hi": "मेंडल के प्रयोग में अप्रभावी लक्षण (Recessive trait) कब प्रकट होता है?", "en": "When is a recessive trait expressed in Mendel's experiment?" },
           "options": [
-            {"hi": "द्रव्यमान", "en": "Mass"},
-            {"hi": "वेग में परिवर्तन", "en": "Change in velocity"},
-            {"hi": "समय", "en": "Time"},
-            {"hi": "उपरोक्त सभी (All of above)", "en": "All of the above"}
+            { "hi": "F1 पीढ़ी में", "en": "In F1 generation" },
+            { "hi": "जब दोनों एलील अप्रभावी हों (Homozygous recessive)", "en": "When both alleles are recessive" },
+            { "hi": "हमेशा", "en": "Always" },
+            { "hi": "कभी नहीं", "en": "Never" }
           ],
-          "answer": {"hi": "उपरोक्त सभी (All of above)", "en": "All of the above"}
+          "answer": { "hi": "जब दोनों एलील अप्रभावी हों (Homozygous recessive)", "en": "When both alleles are recessive" }
         },
         {
-          "q": {
-            "hi": "जब बंदूक से गोली निकलती है, तो बंदूक और गोली का संवेग ______ होता है।",
-            "en": "When a bullet leaves a gun, the momentum of gun and bullet is ______."
-          },
+          "q": { "hi": "वंशागत लक्षणों (Inherited traits) का नियंत्रण किसके द्वारा होता है?", "en": "Control of inherited traits is done by?" },
           "options": [
-            {"hi": "असमान", "en": "Unequal"},
-            {"hi": "बराबर और विपरीत (Equal and opposite)", "en": "Equal and opposite"},
-            {"hi": "हमेशा धनात्मक", "en": "Always positive"},
-            {"hi": "हमेशा ऋणात्मक", "en": "Always negative"}
+            { "hi": "पर्यावरण द्वारा", "en": "Environment" },
+            { "hi": "जीन द्वारा (Genes)", "en": "Genes" },
+            { "hi": "भोजन द्वारा", "en": "Food" },
+            { "hi": "व्यायाम द्वारा", "en": "Exercise" }
           ],
-          "answer": {"hi": "बराबर और विपरीत (Equal and opposite)", "en": "Equal and opposite"}
+          "answer": { "hi": "जीन द्वारा (Genes)", "en": "Genes" }
         },
         {
-          "q": {
-            "hi": "इनमें से कौन-सा बल असंतुलित होने पर ही वस्तु की गति बदलती है?",
-            "en": "Which of these forces must be unbalanced to change the motion of an object?"
-          },
+          "q": { "hi": "जीन कहाँ स्थित होते हैं?", "en": "Where are genes located?" },
           "options": [
-            {"hi": "आंतरिक बल", "en": "Internal force"},
-            {"hi": "बाहरी असंतुलित बल (External unbalanced force)", "en": "External unbalanced force"},
-            {"hi": "स्थिर बल", "en": "Static force"},
-            {"hi": "शून्य बल", "en": "Zero force"}
+            { "hi": "कोशिका भित्ति में", "en": "In cell wall" },
+            { "hi": "गुणसूत्रों पर (On chromosomes)", "en": "On chromosomes" },
+            { "hi": "माइटोकॉन्ड्रिया में", "en": "In mitochondria" },
+            { "hi": "रिक्तिका में", "en": "In vacuole" }
           ],
-          "answer": {"hi": "बाहरी असंतुलित बल (External unbalanced force)", "en": "External unbalanced force"}
+          "answer": { "hi": "गुणसूत्रों पर (On chromosomes)", "en": "On chromosomes" }
         },
         {
-          "q": {
-            "hi": "यदि m1u1 + m2u2 = m1v1 + m2v2 है, तो यह क्या दर्शाता है?",
-            "en": "If m1u1 + m2u2 = m1v1 + m2v2, what does it represent?"
-          },
+          "q": { "hi": "मानव जाति का वैज्ञानिक नाम क्या है?", "en": "What is the scientific name of the human race?" },
           "options": [
-            {"hi": "ऊर्जा संरक्षण", "en": "Conservation of energy"},
-            {"hi": "संवेग संरक्षण (Conservation of momentum)", "en": "Conservation of momentum"},
-            {"hi": "जड़त्व", "en": "Inertia"},
-            {"hi": "त्वरण", "en": "Acceleration"}
+            { "hi": "होमो इरेक्टस", "en": "Homo erectus" },
+            { "hi": "होमो सेपियन्स (Homo sapiens)", "en": "Homo sapiens" },
+            { "hi": "होमो हैबिलिस", "en": "Homo habilis" },
+            { "hi": "पैंथेरा लियो", "en": "Panthera leo" }
           ],
-          "answer": {"hi": "संवेग संरक्षण (Conservation of momentum)", "en": "Conservation of momentum"}
+          "answer": { "hi": "होमो सेपियन्स (Homo sapiens)", "en": "Homo sapiens" }
         }
       ]
     },
-    "chapter10": {
+    "chapter10":{
       "section1": [
         {
           "q": {
-            "hi": "विश्व की प्रत्येक वस्तु अन्य वस्तु को एक बल से आकर्षित करती है, उसे क्या कहते हैं?",
-            "en": "Every object in the universe attracts every other object with a force, what is it called?"
+            "hi": "किसी वस्तु को दृश्यमान कौन बनाता है?",
+            "en": "What makes an object visible?"
           },
           "options": [
-            {"hi": "घर्षण बल", "en": "Frictional force"},
-            {"hi": "चुंबकीय बल", "en": "Magnetic force"},
-            {"hi": "गुरुत्वाकर्षण बल (Gravitational force)", "en": "Gravitational force"},
-            {"hi": "स्थिर विद्युत बल", "en": "Electrostatic force"}
+            {"hi": "अंधेरा", "en": "Darkness"},
+            {"hi": "प्रकाश", "en": "Light"},
+            {"hi": "काँच", "en": "Glass"},
+            {"hi": "परावर्तन", "en": "Reflection"}
           ],
-          "answer": {"hi": "गुरुत्वाकर्षण बल (Gravitational force)", "en": "Gravitational force"}
+          "answer": {"hi": "प्रकाश", "en": "Light"}
         },
         {
           "q": {
-            "hi": "गुरुत्वाकर्षण का सार्वत्रिक नियम किसने प्रतिपादित किया था?",
-            "en": "Who propounded the Universal Law of Gravitation?"
+            "hi": "प्रकाश की किरणें किस पथ पर गमन करती प्रतीत होती हैं?",
+            "en": "In which path does light appear to travel?"
           },
           "options": [
-            {"hi": "गैलीलियो", "en": "Galileo"},
-            {"hi": "आइजक न्यूटन (Isaac Newton)", "en": "Isaac Newton"},
-            {"hi": "अल्बर्ट आइंस्टीन", "en": "Albert Einstein"},
-            {"hi": "केप्लर", "en": "Kepler"}
+            {"hi": "टेढ़ी-मेढ़ी रेखा", "en": "Zig-zag line"},
+            {"hi": "सरल रेखा", "en": "Straight line"},
+            {"hi": "वृत्ताकार पथ", "en": "Circular path"},
+            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
           ],
-          "answer": {"hi": "आइजक न्यूटन (Isaac Newton)", "en": "Isaac Newton"}
+          "answer": {"hi": "सरल रेखा", "en": "Straight line"}
         },
         {
           "q": {
-            "hi": "दो वस्तुओं के बीच गुरुत्वाकर्षण बल उनके द्रव्यमानों के गुणनफल के ______ होता है।",
-            "en": "The gravitational force between two objects is ______ to the product of their masses."
+            "hi": "प्रकाश का उसके किनारों पर मुड़ने की प्रवृत्ति को क्या कहते हैं?",
+            "en": "What is the tendency of light to bend around edges called?"
           },
           "options": [
-            {"hi": "व्युत्क्रमानुपाती", "en": "Inversely proportional"},
-            {"hi": "समानुपाती (Directly proportional)", "en": "Directly proportional"},
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "आधा", "en": "Half"}
+            {"hi": "परावर्तन", "en": "Reflection"},
+            {"hi": "अपवर्तन", "en": "Refraction"},
+            {"hi": "विवर्तन", "en": "Diffraction"},
+            {"hi": "प्रकीर्णन", "en": "Scattering"}
           ],
-          "answer": {"hi": "समानुपाती (Directly proportional)", "en": "Directly proportional"}
+          "answer": {"hi": "विवर्तन", "en": "Diffraction"}
         },
         {
           "q": {
-            "hi": "दो वस्तुओं के बीच की दूरी बढ़ाने पर गुरुत्वाकर्षण बल पर क्या प्रभाव पड़ता है?",
-            "en": "What is the effect on gravitational force if the distance between two objects increases?"
+            "hi": "परावर्तन के नियम के अनुसार, आपतन कोण किसके बराबर होता है?",
+            "en": "According to the laws of reflection, the angle of incidence is equal to?"
           },
           "options": [
-            {"hi": "बल बढ़ता है", "en": "Force increases"},
-            {"hi": "बल घटता है (Force decreases)", "en": "Force decreases"},
-            {"hi": "कोई प्रभाव नहीं पड़ता", "en": "No effect"},
-            {"hi": "बल स्थिर रहता है", "en": "Force remains constant"}
+            {"hi": "अपवर्तन कोण", "en": "Angle of refraction"},
+            {"hi": "परावर्तन कोण", "en": "Angle of reflection"},
+            {"hi": "विचलन कोण", "en": "Angle of deviation"},
+            {"hi": "क्रातिक कोण", "en": "Critical angle"}
           ],
-          "answer": {"hi": "बल घटता है (Force decreases)", "en": "Force decreases"}
+          "answer": {"hi": "परावर्तन कोण", "en": "Angle of reflection"}
         },
         {
           "q": {
-            "hi": "सार्वत्रिक गुरुत्वीय स्थिरांक (G) का SI मात्रक क्या है?",
-            "en": "What is the SI unit of the Universal Gravitational Constant (G)?"
+            "hi": "समतल दर्पण द्वारा बना प्रतिबिंब सदैव कैसा होता है?",
+            "en": "What is the nature of an image formed by a plane mirror always?"
           },
           "options": [
-            {"hi": "N m/kg", "en": "N m/kg"},
-            {"hi": "N m²/kg²", "en": "N m²/kg²"},
-            {"hi": "kg m/s²", "en": "kg m/s²"},
-            {"hi": "m/s²", "en": "m/s²"}
+            {"hi": "वास्तविक तथा सीधा", "en": "Real and erect"},
+            {"hi": "वास्तविक तथा उलटा", "en": "Real and inverted"},
+            {"hi": "आभासी तथा सीधा", "en": "Virtual and erect"},
+            {"hi": "आभासी तथा उलटा", "en": "Virtual and inverted"}
           ],
-          "answer": {"hi": "N m²/kg²", "en": "N m²/kg²"}
+          "answer": {"hi": "आभासी तथा सीधा", "en": "Virtual and erect"}
         },
         {
           "q": {
-            "hi": "G का मान सबसे पहले किसने ज्ञात किया था?",
-            "en": "Who first determined the value of G?"
+            "hi": "गोलीय दर्पण के परावर्तक पृष्ठ के केंद्र को क्या कहते हैं?",
+            "en": "What is the center of the reflecting surface of a spherical mirror called?"
           },
           "options": [
-            {"hi": "न्यूटन", "en": "Newton"},
-            {"hi": "हेनरी कैवेन्डिश (Henry Cavendish)", "en": "Henry Cavendish"},
-            {"hi": "गैलीलियो", "en": "Galileo"},
-            {"hi": "केप्लर", "en": "Kepler"}
+            {"hi": "ध्रुव (P)", "en": "Pole (P)"},
+            {"hi": "वक्रता केंद्र (C)", "en": "Center of curvature (C)"},
+            {"hi": "मुख्य फोकस (F)", "en": "Principal focus (F)"},
+            {"hi": "द्वारक", "en": "Aperture"}
           ],
-          "answer": {"hi": "हेनरी कैवेन्डिश (Henry Cavendish)", "en": "Henry Cavendish"}
+          "answer": {"hi": "ध्रुव (P)", "en": "Pole (P)"}
         },
         {
           "q": {
-            "hi": "पृथ्वी की सतह पर गुरुत्वीय त्वरण (g) का औसत मान क्या है?",
-            "en": "What is the average value of gravitational acceleration (g) on the Earth's surface?"
+            "hi": "किस दर्पण का परावर्तक पृष्ठ अंदर की ओर वक्रित होता है?",
+            "en": "Which mirror has a reflecting surface curved inwards?"
           },
           "options": [
-            {"hi": "9.8 m/s", "en": "9.8 m/s"},
-            {"hi": "9.8 m/s²", "en": "9.8 m/s²"},
-            {"hi": "8.9 m/s²", "en": "8.9 m/s²"},
-            {"hi": "10 m/s", "en": "10 m/s"}
+            {"hi": "उत्तल दर्पण", "en": "Convex mirror"},
+            {"hi": "अवतल दर्पण", "en": "Concave mirror"},
+            {"hi": "समतल दर्पण", "en": "Plane mirror"},
+            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
           ],
-          "answer": {"hi": "9.8 m/s²", "en": "9.8 m/s²"}
+          "answer": {"hi": "अवतल दर्पण", "en": "Concave mirror"}
         },
         {
           "q": {
-            "hi": "चंद्रमा पृथ्वी के चारों ओर किस बल के कारण चक्कर लगाता है?",
-            "en": "Due to which force does the Moon revolve around the Earth?"
+            "hi": "वक्रता त्रिज्या (R) तथा फोकस दूरी (f) के बीच क्या संबंध है?",
+            "en": "What is the relation between radius of curvature (R) and focal length (f)?"
           },
           "options": [
-            {"hi": "अपकेंद्री बल", "en": "Centrifugal force"},
-            {"hi": "अभिकेंद्र बल (Centripetal force)", "en": "Centripetal force"},
-            {"hi": "चुंबकीय बल", "en": "Magnetic force"},
-            {"hi": "घर्षण बल", "en": "Friction force"}
+            {"hi": "f = R", "en": "f = R"},
+            {"hi": "R = 2f", "en": "R = 2f"},
+            {"hi": "f = 2R", "en": "f = 2R"},
+            {"hi": "R = f/2", "en": "R = f/2"}
           ],
-          "answer": {"hi": "अभिकेंद्र बल (Centripetal force)", "en": "Centripetal force"}
+          "answer": {"hi": "R = 2f", "en": "R = 2f"}
         },
         {
           "q": {
-            "hi": "यदि दो वस्तुओं में से एक का द्रव्यमान दोगुना कर दिया जाए, तो गुरुत्वाकर्षण बल क्या होगा?",
-            "en": "If the mass of one of the two objects is doubled, what will be the gravitational force?"
+            "hi": "अवतल दर्पण द्वारा अनंत पर रखी वस्तु का प्रतिबिंब कहाँ बनता है?",
+            "en": "Where is the image formed by a concave mirror for an object at infinity?"
           },
           "options": [
-            {"hi": "आधा", "en": "Half"},
-            {"hi": "दोगुना (Double)", "en": "Double"},
-            {"hi": "चार गुना", "en": "Four times"},
-            {"hi": "वही रहेगा", "en": "Remain same"}
+            {"hi": "C पर", "en": "At C"},
+            {"hi": "C से परे", "en": "Beyond C"},
+            {"hi": "फोकस F पर", "en": "At Focus F"},
+            {"hi": "ध्रुव P पर", "en": "At Pole P"}
           ],
-          "answer": {"hi": "दोगुना (Double)", "en": "Double"}
+          "answer": {"hi": "फोकस F पर", "en": "At Focus F"}
         },
         {
           "q": {
-            "hi": "मुक्त पतन (Free fall) के समय वस्तु का त्वरण किस पर निर्भर नहीं करता?",
-            "en": "During free fall, the acceleration of an object does not depend on?"
+            "hi": "चेहरे का बड़ा प्रतिबिंब देखने के लिए कौन-सा दर्पण उपयोग किया जाता है?",
+            "en": "Which mirror is used to see a large image of the face?"
           },
           "options": [
-            {"hi": "पृथ्वी के द्रव्यमान पर", "en": "Mass of the Earth"},
-            {"hi": "वस्तु के द्रव्यमान पर (Mass of the object)", "en": "Mass of the object"},
-            {"hi": "पृथ्वी की त्रिज्या पर", "en": "Radius of the Earth"},
-            {"hi": "गुरुत्वीय स्थिरांक पर", "en": "Gravitational constant"}
+            {"hi": "उत्तल दर्पण", "en": "Convex mirror"},
+            {"hi": "समतल दर्पण", "en": "Plane mirror"},
+            {"hi": "अवतल दर्पण", "en": "Concave mirror"},
+            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
           ],
-          "answer": {"hi": "वस्तु के द्रव्यमान पर (Mass of the object)", "en": "Mass of the object"}
+          "answer": {"hi": "अवतल दर्पण", "en": "Concave mirror"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "पृथ्वी के गुरुत्वीय त्वरण (g) का मान ध्रुवों (Poles) पर कैसा होता है?",
-            "en": "What is the value of Earth's gravitational acceleration (g) at the poles?"
+            "hi": "वाहनों के पश्च-दृश्य (side view) दर्पणों में किस दर्पण का उपयोग होता है?",
+            "en": "Which mirror is used as a rear-view mirror in vehicles?"
           },
           "options": [
-            {"hi": "न्यूनतम", "en": "Minimum"},
-            {"hi": "विषुवत वृत्त के बराबर", "en": "Same as at the equator"},
-            {"hi": "विषुवत वृत्त की अपेक्षा अधिक (Greater than at the equator)", "en": "Greater than at the equator"},
-            {"hi": "शून्य", "en": "Zero"}
+            {"hi": "अवतल दर्पण", "en": "Concave mirror"},
+            {"hi": "समतल दर्पण", "en": "Plane mirror"},
+            {"hi": "उत्तल दर्पण", "en": "Convex mirror"},
+            {"hi": "द्वि-अवतल दर्पण", "en": "Bi-concave mirror"}
           ],
-          "answer": {"hi": "विषुवत वृत्त की अपेक्षा अधिक (Greater than at the equator)", "en": "Greater than at the equator"}
+          "answer": {"hi": "उत्तल दर्पण", "en": "Convex mirror"}
         },
         {
           "q": {
-            "hi": "किसी वस्तु में निहित पदार्थ की मात्रा को क्या कहते हैं?",
-            "en": "What is the quantity of matter contained in an object called?"
+            "hi": "उत्तल दर्पण को पश्च-दृश्य दर्पण के रूप में वरीयता क्यों दी जाती है?",
+            "en": "Why is a convex mirror preferred as a rear-view mirror?"
           },
           "options": [
-            {"hi": "भार", "en": "Weight"},
-            {"hi": "आयतन", "en": "Volume"},
-            {"hi": "द्रव्यमान (Mass)", "en": "Mass"},
-            {"hi": "घनत्व", "en": "Density"}
+            {"hi": "यह वास्तविक प्रतिबिंब बनाता है", "en": "It forms a real image"},
+            {"hi": "इसका दृष्टि-क्षेत्र अधिक होता है", "en": "It has a wider field of view"},
+            {"hi": "यह बड़ा प्रतिबिंब बनाता है", "en": "It forms a large image"},
+            {"hi": "यह उल्टा प्रतिबिंब बनाता है", "en": "It forms an inverted image"}
           ],
-          "answer": {"hi": "द्रव्यमान (Mass)", "en": "Mass"}
+          "answer": {"hi": "इसका दृष्टि-क्षेत्र अधिक होता है", "en": "It has a wider field of view"}
         },
         {
           "q": {
-            "hi": "वस्तु का भार (Weight) क्या है?",
-            "en": "What is the weight of an object?"
+            "hi": "दर्पण सूत्र क्या है?",
+            "en": "What is the mirror formula?"
           },
           "options": [
-            {"hi": "वस्तु का कुल आयतन", "en": "Total volume of the object"},
-            {"hi": "वह बल जिससे पृथ्वी वस्तु को आकर्षित करती है", "en": "The force with which the Earth attracts the object"},
-            {"hi": "वस्तु का घनत्व", "en": "Density of the object"},
-            {"hi": "एक अदिश राशि", "en": "A scalar quantity"}
+            {"hi": "1/v - 1/u = 1/f", "en": "1/v - 1/u = 1/f"},
+            {"hi": "1/v + 1/u = 1/f", "en": "1/v + 1/u = 1/f"},
+            {"hi": "v + u = f", "en": "v + u = f"},
+            {"hi": "1/f + 1/v = 1/u", "en": "1/f + 1/v = 1/u"}
           ],
-          "answer": {"hi": "वह बल जिससे पृथ्वी वस्तु को आकर्षित करती है", "en": "The force with which the Earth attracts the object"}
+          "answer": {"hi": "1/v + 1/u = 1/f", "en": "1/v + 1/u = 1/f"}
         },
         {
           "q": {
-            "hi": "भार का SI मात्रक क्या है?",
-            "en": "What is the SI unit of weight?"
+            "hi": "आवर्धन (m) का मान ऋणात्मक होने पर प्रतिबिंब कैसा होता है?",
+            "en": "What is the nature of the image if magnification (m) is negative?"
           },
           "options": [
-            {"hi": "किलोग्राम (kg)", "en": "Kilogram (kg)"},
-            {"hi": "न्यूटन (Newton)", "en": "Newton"},
-            {"hi": "मीटर", "en": "Metre"},
-            {"hi": "वाट", "en": "Watt"}
+            {"hi": "आभासी", "en": "Virtual"},
+            {"hi": "वास्तविक", "en": "Real"},
+            {"hi": "सीधा", "en": "Erect"},
+            {"hi": "छोटा", "en": "Small"}
           ],
-          "answer": {"hi": "न्यूटन (Newton)", "en": "Newton"}
+          "answer": {"hi": "वास्तविक", "en": "Real"}
         },
         {
           "q": {
-            "hi": "चंद्रमा पर किसी वस्तु का भार पृथ्वी पर उसके भार का लगभग कितना होता है?",
-            "en": "The weight of an object on the Moon is approximately how much of its weight on Earth?"
+            "hi": "गोलीय दर्पण की वक्रता त्रिज्या 20 cm है, इसकी फोकस दूरी क्या होगी?",
+            "en": "The radius of curvature of a spherical mirror is 20 cm, what is its focal length?"
           },
           "options": [
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "1/2 गुना", "en": "1/2 times"},
-            {"hi": "1/6 गुना (1/6 times)", "en": "1/6 times"},
-            {"hi": "6 गुना", "en": "6 times"}
+            {"hi": "20 cm", "en": "20 cm"},
+            {"hi": "10 cm", "en": "10 cm"},
+            {"hi": "40 cm", "en": "40 cm"},
+            {"hi": "5 cm", "en": "5 cm"}
           ],
-          "answer": {"hi": "1/6 गुना (1/6 times)", "en": "1/6 times"}
+          "answer": {"hi": "10 cm", "en": "10 cm"}
         },
         {
           "q": {
-            "hi": "किसी वस्तु की सतह के लंबवत लगने वाले बल को क्या कहते हैं?",
-            "en": "What is the force acting perpendicular to the surface of an object called?"
+            "hi": "जब प्रकाश एक माध्यम से दूसरे में तिरछा प्रवेश करता है, तो क्या होता है?",
+            "en": "What happens when light enters obliquely from one medium to another?"
           },
           "options": [
-            {"hi": "दाब", "en": "Pressure"},
-            {"hi": "प्रणोद (Thrust)", "en": "Thrust"},
-            {"hi": "तनाव", "en": "Tension"},
-            {"hi": "घर्षण", "en": "Friction"}
+            {"hi": "चाल नहीं बदलती", "en": "Speed doesn't change"},
+            {"hi": "दिशा परिवर्तित हो जाती है", "en": "The direction changes"},
+            {"hi": "परावर्तन होता है", "en": "Reflection occurs"},
+            {"hi": "प्रकाश गायब हो जाता है", "en": "Light disappears"}
           ],
-          "answer": {"hi": "प्रणोद (Thrust)", "en": "Thrust"}
+          "answer": {"hi": "दिशा परिवर्तित हो जाती है", "en": "The direction changes"}
         },
         {
           "q": {
-            "hi": "एकांक क्षेत्रफल पर लगने वाले प्रणोद को क्या कहते हैं?",
-            "en": "What is the thrust acting on a unit area called?"
+            "hi": "काँच के स्लैब के नीचे रखे अक्षर उठे हुए क्यों प्रतीत होते हैं?",
+            "en": "Why do letters kept under a glass slab appear raised?"
           },
           "options": [
-            {"hi": "द्रव्यमान", "en": "Mass"},
-            {"hi": "दाब (Pressure)", "en": "Pressure"},
-            {"hi": "वेग", "en": "Velocity"},
-            {"hi": "ऊर्जा", "en": "Energy"}
+            {"hi": "परावर्तन के कारण", "en": "Due to reflection"},
+            {"hi": "अपवर्तन के कारण", "en": "Due to refraction"},
+            {"hi": "विवर्तन के कारण", "en": "Due to diffraction"},
+            {"hi": "प्रकीर्णन के कारण", "en": "Due to scattering"}
           ],
-          "answer": {"hi": "दाब (Pressure)", "en": "Pressure"}
+          "answer": {"hi": "अपवर्तन के कारण", "en": "Due to refraction"}
         },
         {
           "q": {
-            "hi": "दाब का SI मात्रक क्या है?",
-            "en": "What is the SI unit of pressure?"
+            "hi": "स्नेल का नियम किसे कहते हैं?",
+            "en": "What is Snell's law?"
           },
           "options": [
-            {"hi": "न्यूटन", "en": "Newton"},
-            {"hi": "जूल", "en": "Joule"},
-            {"hi": "पास्कल (Pascal)", "en": "Pascal"},
-            {"hi": "मीटर²", "en": "Metre²"}
+            {"hi": "sin i / sin r = constant", "en": "sin i / sin r = constant"},
+            {"hi": "sin i + sin r = constant", "en": "sin i + sin r = constant"},
+            {"hi": "v = u + at", "en": "v = u + at"},
+            {"hi": "R = 2f", "en": "R = 2f"}
           ],
-          "answer": {"hi": "पास्कल (Pascal)", "en": "Pascal"}
+          "answer": {"hi": "sin i / sin r = constant", "en": "sin i / sin r = constant"}
         },
         {
           "q": {
-            "hi": "कीलों के सिरे नुकीले क्यों बनाए जाते हैं?",
-            "en": "Why are the tips of nails made pointed?"
+            "hi": "निर्वात में प्रकाश की चाल कितनी होती है?",
+            "en": "What is the speed of light in a vacuum?"
           },
           "options": [
-            {"hi": "बल घटाने के लिए", "en": "To decrease force"},
-            {"hi": "क्षेत्रफल कम करके दाब बढ़ाने के लिए", "en": "To increase pressure by decreasing area"},
-            {"hi": "सुंदर दिखने के लिए", "en": "For appearance"},
-            {"hi": "द्रव्यमान बढ़ाने के लिए", "en": "To increase mass"}
+            {"hi": "3 x 10^5 m/s", "en": "3 x 10^5 m/s"},
+            {"hi": "3 x 10^8 m/s", "en": "3 x 10^8 m/s"},
+            {"hi": "2 x 10^8 m/s", "en": "2 x 10^8 m/s"},
+            {"hi": "3 x 10^10 m/s", "en": "3 x 10^10 m/s"}
           ],
-          "answer": {"hi": "क्षेत्रफल कम करके दाब बढ़ाने के लिए", "en": "To increase pressure by decreasing area"}
+          "answer": {"hi": "3 x 10^8 m/s", "en": "3 x 10^8 m/s"}
         },
         {
           "q": {
-            "hi": "सभी तरल (द्रव और गैस) क्या लगाते हैं?",
-            "en": "All fluids (liquids and gases) exert?"
+            "hi": "हीरे का अपवर्तनांक कितना है?",
+            "en": "What is the refractive index of diamond?"
           },
           "options": [
-            {"hi": "केवल नीचे की ओर दाब", "en": "Pressure only downwards"},
-            {"hi": "सभी दिशाओं में दाब (Pressure in all directions)", "en": "Pressure in all directions"},
-            {"hi": "कोई दाब नहीं", "en": "No pressure"},
-            {"hi": "केवल गुरुत्वाकर्षण", "en": "Only gravity"}
+            {"hi": "1.33", "en": "1.33"},
+            {"hi": "1.50", "en": "1.50"},
+            {"hi": "2.42", "en": "2.42"},
+            {"hi": "1.00", "en": "1.00"}
           ],
-          "answer": {"hi": "सभी दिशाओं में दाब (Pressure in all directions)", "en": "Pressure in all directions"}
+          "answer": {"hi": "2.42", "en": "2.42"}
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "किसी द्रव में डुबोई गई वस्तु पर ऊपर की ओर लगने वाले बल को क्या कहते हैं?",
-            "en": "What is the upward force acting on an object immersed in a fluid called?"
+            "hi": "जल का अपवर्तनांक कितना होता है?",
+            "en": "What is the refractive index of water?"
           },
           "options": [
-            {"hi": "गुरुत्व बल", "en": "Gravitational force"},
-            {"hi": "उत्प्लावन बल (Buoyant force)", "en": "Buoyant force"},
-            {"hi": "घर्षण बल", "en": "Friction force"},
-            {"hi": "पेशीय बल", "en": "Muscular force"}
+            {"hi": "1.33", "en": "1.33"},
+            {"hi": "1.52", "en": "1.52"},
+            {"hi": "2.42", "en": "2.42"},
+            {"hi": "1.00", "en": "1.00"}
           ],
-          "answer": {"hi": "उत्प्लावन बल (Buoyant force)", "en": "Buoyant force"}
+          "answer": {"hi": "1.33", "en": "1.33"}
         },
         {
           "q": {
-            "hi": "कोई वस्तु द्रव में कब डूब जाती है?",
-            "en": "When does an object sink in a liquid?"
+            "hi": "जब प्रकाश विरल माध्यम से सघन माध्यम में जाता है, तो वह:",
+            "en": "When light travels from a rarer medium to a denser medium, it:"
           },
           "options": [
-            {"hi": "जब वस्तु का घनत्व द्रव से कम हो", "en": "When density of object is less than liquid"},
-            {"hi": "जब वस्तु का घनत्व द्रव से अधिक हो (Density of object > liquid)", "en": "When density of object > liquid"},
-            {"hi": "जब वस्तु का भार शून्य हो", "en": "When weight of object is zero"},
-            {"hi": "हमेशा डूब जाती है", "en": "Always sinks"}
+            {"hi": "अभिलंब से दूर हटता है", "en": "Bends away from the normal"},
+            {"hi": "अभिलंब की ओर झुकता है", "en": "Bends towards the normal"},
+            {"hi": "सीधा निकल जाता है", "en": "Goes straight"},
+            {"hi": "वापस लौट आता है", "en": "Returns back"}
           ],
-          "answer": {"hi": "जब वस्तु का घनत्व द्रव से अधिक हो (Density of object > liquid)", "en": "When density of object > liquid"}
+          "answer": {"hi": "अभिलंब की ओर झुकता है", "en": "Bends towards the normal"}
         },
         {
           "q": {
-            "hi": "आर्किमिडीज़ का सिद्धांत किसके बारे में जानकारी देता है?",
-            "en": "Archimedes' principle gives information about?"
+            "hi": "किसी माध्यम के अपवर्तनांक को किस सूत्र से दर्शाते हैं (n)?",
+            "en": "Which formula represents the refractive index of a medium (n)?"
           },
           "options": [
-            {"hi": "ग्रहों की गति", "en": "Planetary motion"},
-            {"hi": "वस्तु द्वारा हटाए गए द्रव के भार और उत्प्लावन बल का संबंध", "en": "Relation between buoyant force and weight of displaced fluid"},
-            {"hi": "ऊर्जा संरक्षण", "en": "Energy conservation"},
-            {"hi": "परावर्तन के नियम", "en": "Laws of reflection"}
+            {"hi": "n = v/c", "en": "n = v/c"},
+            {"hi": "n = c/v", "en": "n = c/v"},
+            {"hi": "n = c*v", "en": "n = c*v"},
+            {"hi": "n = 1/f", "en": "n = 1/f"}
           ],
-          "answer": {"hi": "वस्तु द्वारा हटाए गए द्रव के भार और उत्प्लावन बल का संबंध", "en": "Relation between buoyant force and weight of displaced fluid"}
+          "answer": {"hi": "n = c/v", "en": "n = c/v"}
         },
         {
           "q": {
-            "hi": "किसी पदार्थ का घनत्व क्या होता है?",
-            "en": "What is the density of a substance?"
+            "hi": "दो पृष्ठों से घिरा हुआ पारदर्शी माध्यम जिसका एक पृष्ठ गोलीय हो, क्या कहलाता है?",
+            "en": "A transparent medium bounded by two surfaces, at least one of which is spherical, is called?"
           },
           "options": [
-            {"hi": "द्रव्यमान × आयतन", "en": "Mass × Volume"},
-            {"hi": "एकांक आयतन का द्रव्यमान (Mass per unit volume)", "en": "Mass per unit volume"},
-            {"hi": "भार / क्षेत्रफल", "en": "Weight / Area"},
-            {"hi": "केवल आयतन", "en": "Only volume"}
+            {"hi": "दर्पण", "en": "Mirror"},
+            {"hi": "लेंस", "en": "Lens"},
+            {"hi": "प्रिज्म", "en": "Prism"},
+            {"hi": "स्लैब", "en": "Slab"}
           ],
-          "answer": {"hi": "एकांक आयतन का द्रव्यमान (Mass per unit volume)", "en": "Mass per unit volume"}
+          "answer": {"hi": "लेंस", "en": "Lens"}
         },
         {
           "q": {
-            "hi": "आपेक्षिक घनत्व (Relative density) का मात्रक क्या है?",
-            "en": "What is the unit of relative density?"
+            "hi": "किनारों की अपेक्षा बीच से मोटा लेंस कौन-सा होता है?",
+            "en": "Which lens is thicker at the middle than at the edges?"
           },
           "options": [
-            {"hi": "kg/m³", "en": "kg/m³"},
-            {"hi": "g/cm³", "en": "g/cm³"},
-            {"hi": "इसका कोई मात्रक नहीं होता (No unit)", "en": "It has no unit"},
-            {"hi": "न्यूटन", "en": "Newton"}
+            {"hi": "अवतल लेंस", "en": "Concave lens"},
+            {"hi": "उत्तल लेंस", "en": "Convex lens"},
+            {"hi": "बेलनाकार लेंस", "en": "Cylindrical lens"},
+            {"hi": "समतल लेंस", "en": "Plane lens"}
           ],
-          "answer": {"hi": "इसका कोई मात्रक नहीं होता (No unit)", "en": "It has no unit"}
+          "answer": {"hi": "उत्तल लेंस", "en": "Convex lens"}
         },
         {
           "q": {
-            "hi": "दूध की शुद्धता मापने वाले लैक्टोमीटर किस सिद्धांत पर आधारित हैं?",
-            "en": "On which principle are lactometers used for testing milk purity based?"
+            "hi": "अवतल लेंस को और किस नाम से जाना जाता है?",
+            "en": "By what other name is a concave lens known?"
           },
           "options": [
-            {"hi": "न्यूटन का नियम", "en": "Newton's law"},
-            {"hi": "आर्किमिडीज़ का सिद्धांत (Archimedes' principle)", "en": "Archimedes' principle"},
-            {"hi": "पास्कल का नियम", "en": "Pascal's law"},
-            {"hi": "केप्लर का नियम", "en": "Kepler's law"}
+            {"hi": "अभिसारी लेंस", "en": "Converging lens"},
+            {"hi": "अपसारी लेंस", "en": "Diverging lens"},
+            {"hi": "उभयतल लेंस", "en": "Biconvex lens"},
+            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
           ],
-          "answer": {"hi": "आर्किमिडीज़ का सिद्धांत (Archimedes' principle)", "en": "Archimedes' principle"}
+          "answer": {"hi": "अपसारी लेंस", "en": "Diverging lens"}
         },
         {
           "q": {
-            "hi": "आपेक्षिक घनत्व निकालने के लिए किसी पदार्थ के घनत्व की तुलना किससे की जाती है?",
-            "en": "To find relative density, the density of a substance is compared with?"
+            "hi": "लेंस का केंद्रीय बिंदु क्या कहलाता है?",
+            "en": "What is the central point of a lens called?"
           },
           "options": [
-            {"hi": "हवा के घनत्व से", "en": "Density of air"},
-            {"hi": "पानी के घनत्व से (Density of water)", "en": "Density of water"},
-            {"hi": "लोहे के घनत्व से", "en": "Density of iron"},
-            {"hi": "पारे के घनत्व से", "en": "Density of mercury"}
+            {"hi": "वक्रता केंद्र", "en": "Center of curvature"},
+            {"hi": "प्रकाशिक केंद्र (O)", "en": "Optical center (O)"},
+            {"hi": "मुख्य फोकस", "en": "Principal focus"},
+            {"hi": "ध्रुव", "en": "Pole"}
           ],
-          "answer": {"hi": "पानी के घनत्व से (Density of water)", "en": "Density of water"}
+          "answer": {"hi": "प्रकाशिक केंद्र (O)", "en": "Optical center (O)"}
         },
         {
           "q": {
-            "hi": "जहाजों और पनडुब्बियों के डिजाइन बनाने में किस वैज्ञानिक का सिद्धांत उपयोग होता है?",
-            "en": "Which scientist's principle is used in designing ships and submarines?"
+            "hi": "उत्तल लेंस द्वारा अनंत पर रखी वस्तु का प्रतिबिंब कहाँ बनेगा?",
+            "en": "Where is the image formed by a convex lens for an object at infinity?"
           },
           "options": [
-            {"hi": "न्यूटन", "en": "Newton"},
-            {"hi": "आर्किमिडीज़ (Archimedes)", "en": "Archimedes"},
-            {"hi": "गैलीलियो", "en": "Galileo"},
-            {"hi": "डाल्टन", "en": "Dalton"}
+            {"hi": "F1 पर", "en": "At F1"},
+            {"hi": "F2 पर", "en": "At F2"},
+            {"hi": "O पर", "en": "At O"},
+            {"hi": "2F1 पर", "en": "At 2F1"}
           ],
-          "answer": {"hi": "आर्किमिडीज़ (Archimedes)", "en": "Archimedes"}
+          "answer": {"hi": "F2 पर", "en": "At F2"}
         },
         {
           "q": {
-            "hi": "द्रव्यमान (Mass) के बारे में कौन सा कथन सही है?",
-            "en": "Which statement about mass is correct?"
+            "hi": "अवतल लेंस सदैव कैसा प्रतिबिंब बनाता है?",
+            "en": "What kind of image does a concave lens always form?"
           },
           "options": [
-            {"hi": "यह स्थान के साथ बदलता है", "en": "It changes with place"},
-            {"hi": "यह सर्वत्र स्थिर रहता है (Remains constant everywhere)", "en": "It remains constant everywhere"},
-            {"hi": "यह एक सदिश राशि है", "en": "It is a vector quantity"},
-            {"hi": "यह शून्य हो सकता है", "en": "It can be zero"}
+            {"hi": "वास्तविक तथा उल्टा", "en": "Real and inverted"},
+            {"hi": "आभासी तथा सीधा", "en": "Virtual and erect"},
+            {"hi": "वास्तविक तथा सीधा", "en": "Real and erect"},
+            {"hi": "आभासी तथा उल्टा", "en": "Virtual and inverted"}
           ],
-          "answer": {"hi": "यह सर्वत्र स्थिर रहता है (Remains constant everywhere)", "en": "It remains constant everywhere"}
+          "answer": {"hi": "आभासी तथा सीधा", "en": "Virtual and erect"}
         },
         {
           "q": {
-            "hi": "वायुमंडल पृथ्वी से किसके द्वारा बँधा हुआ है?",
-            "en": "The atmosphere is held to the Earth by?"
+            "hi": "लेंस सूत्र क्या है?",
+            "en": "What is the lens formula?"
           },
           "options": [
-            {"hi": "हवा", "en": "Air"},
-            {"hi": "गुरुत्वाकर्षण बल (Gravity)", "en": "Gravity"},
-            {"hi": "बादलों", "en": "Clouds"},
-            {"hi": "चुंबकीय क्षेत्र", "en": "Magnetic field"}
+            {"hi": "1/v + 1/u = 1/f", "en": "1/v + 1/u = 1/f"},
+            {"hi": "1/v - 1/u = 1/f", "en": "1/v - 1/u = 1/f"},
+            {"hi": "v - u = f", "en": "v - u = f"},
+            {"hi": "1/u - 1/v = 1/f", "en": "1/u - 1/v = 1/f"}
           ],
-          "answer": {"hi": "गुरुत्वाकर्षण बल (Gravity)", "en": "Gravity"}
+          "answer": {"hi": "1/v - 1/u = 1/f", "en": "1/v - 1/u = 1/f"}
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "गुरुत्वाकर्षण के सार्वत्रिक नियम में 'G' क्या है?",
-            "en": "What is 'G' in the universal law of gravitation?"
+            "hi": "लेंस की क्षमता (P) का सूत्र क्या है?",
+            "en": "What is the formula for the power of a lens (P)?"
           },
           "options": [
-            {"hi": "गुरुत्वीय त्वरण", "en": "Acceleration due to gravity"},
-            {"hi": "आनुपातिकता स्थिरांक (Constant of proportionality)", "en": "Constant of proportionality"},
-            {"hi": "पृथ्वी का बल", "en": "Earth's force"},
-            {"hi": "गैस स्थिरांक", "en": "Gas constant"}
+            {"hi": "P = f", "en": "P = f"},
+            {"hi": "P = 1/f", "en": "P = 1/f"},
+            {"hi": "P = 2f", "en": "P = 2f"},
+            {"hi": "P = R/2", "en": "P = R/2"}
           ],
-          "answer": {"hi": "आनुपातिकता स्थिरांक (Constant of proportionality)", "en": "Constant of proportionality"}
+          "answer": {"hi": "P = 1/f", "en": "P = 1/f"}
         },
         {
           "q": {
-            "hi": "दो वस्तुओं के बीच की दूरी को आधा (1/2) करने पर बल कितना हो जाएगा?",
-            "en": "If the distance between two objects is reduced to half, how much will the force become?"
+            "hi": "लेंस की क्षमता का SI मात्रक क्या है?",
+            "en": "What is the SI unit of power of a lens?"
           },
           "options": [
-            {"hi": "आधा", "en": "Half"},
-            {"hi": "दोगुना", "en": "Double"},
-            {"hi": "चार गुना (Four times)", "en": "Four times"},
-            {"hi": "कोई परिवर्तन नहीं", "en": "No change"}
+            {"hi": "मीटर", "en": "Meter"},
+            {"hi": "वाट", "en": "Watt"},
+            {"hi": "डाइऑप्टर (D)", "en": "Dioptre (D)"},
+            {"hi": "जूल", "en": "Joule"}
           ],
-          "answer": {"hi": "चार गुना (Four times)", "en": "Four times"}
+          "answer": {"hi": "डाइऑप्टर (D)", "en": "Dioptre (D)"}
         },
         {
           "q": {
-            "hi": "गुरुत्वीय त्वरण (g) का मान पृथ्वी के केंद्र पर कितना होता है?",
-            "en": "What is the value of gravitational acceleration (g) at the center of the Earth?"
+            "hi": "1 डाइऑप्टर किसके बराबर होता है?",
+            "en": "1 Dioptre is equal to?"
           },
           "options": [
-            {"hi": "9.8 m/s²", "en": "9.8 m/s²"},
-            {"hi": "अनंत", "en": "Infinite"},
-            {"hi": "शून्य (Zero)", "en": "Zero"},
-            {"hi": "9.8 / 2", "en": "9.8 / 2"}
+            {"hi": "1 cm^-1", "en": "1 cm^-1"},
+            {"hi": "1 m^-1", "en": "1 m^-1"},
+            {"hi": "1 mm^-1", "en": "1 mm^-1"},
+            {"hi": "1 m", "en": "1 m"}
           ],
-          "answer": {"hi": "शून्य (Zero)", "en": "Zero"}
+          "answer": {"hi": "1 m^-1", "en": "1 m^-1"}
         },
         {
           "q": {
-            "hi": "यदि किसी वस्तु का पृथ्वी पर भार 60 N है, तो चंद्रमा पर उसका भार क्या होगा?",
-            "en": "If an object weighs 60 N on Earth, what will be its weight on the Moon?"
+            "hi": "उत्तल लेंस की क्षमता कैसी होती है?",
+            "en": "What is the nature of the power of a convex lens?"
           },
           "options": [
-            {"hi": "60 N", "en": "60 N"},
-            {"hi": "10 N (10 N)", "en": "10 N"},
-            {"hi": "360 N", "en": "360 N"},
-            {"hi": "0 N", "en": "0 N"}
+            {"hi": "धनात्मक (+)", "en": "Positive (+)"},
+            {"hi": "ऋणात्मक (-)", "en": "Negative (-)"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "अनंत", "en": "Infinite"}
           ],
-          "answer": {"hi": "10 N (10 N)", "en": "10 N"}
+          "answer": {"hi": "धनात्मक (+)", "en": "Positive (+)"}
         },
         {
           "q": {
-            "hi": "ऊँट रेगिस्तान में आसानी से क्यों चल पाते हैं?",
-            "en": "Why can camels walk easily in the desert?"
+            "hi": "अवतल लेंस की क्षमता कैसी होती है?",
+            "en": "What is the nature of the power of a concave lens?"
           },
           "options": [
-            {"hi": "उनके पैर छोटे होते हैं", "en": "They have small feet"},
-            {"hi": "चौड़े पैरों के कारण दाब कम हो जाता है", "en": "Large area of feet reduces pressure"},
-            {"hi": "उनके पास कूबड़ होता है", "en": "They have a hump"},
-            {"hi": "रेगिस्तान ठंडा होता है", "en": "Desert is cold"}
+            {"hi": "धनात्मक (+)", "en": "Positive (+)"},
+            {"hi": "ऋणात्मक (-)", "en": "Negative (-)"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "अनंत", "en": "Infinite"}
           ],
-          "answer": {"hi": "चौड़े पैरों के कारण दाब कम हो जाता है", "en": "Large area of feet reduces pressure"}
+          "answer": {"hi": "ऋणात्मक (-)", "en": "Negative (-)"}
         },
         {
           "q": {
-            "hi": "आर्किमिडीज़ किस देश के वैज्ञानिक थे?",
-            "en": "Which country did Archimedes belong to?"
+            "hi": "संपर्क में रखे लेंसों की कुल क्षमता (P) क्या होती है?",
+            "en": "What is the total power (P) of lenses kept in contact?"
           },
           "options": [
-            {"hi": "भारत", "en": "India"},
-            {"hi": "इंग्लैंड", "en": "England"},
-            {"hi": "ग्रीस (Greece)", "en": "Greece"},
-            {"hi": "जर्मनी", "en": "Germany"}
+            {"hi": "P = P1 * P2", "en": "P = P1 * P2"},
+            {"hi": "P = P1 + P2", "en": "P = P1 + P2"},
+            {"hi": "P = P1 / P2", "en": "P = P1 / P2"},
+            {"hi": "P = P1 - P2", "en": "P = P1 - P2"}
           ],
-          "answer": {"hi": "ग्रीस (Greece)", "en": "Greece"}
+          "answer": {"hi": "P = P1 + P2", "en": "P = P1 + P2"}
         },
         {
           "q": {
-            "hi": "पानी का घनत्व कितना होता है?",
-            "en": "What is the density of water?"
+            "hi": "यदि किसी लेंस की क्षमता +2.0 D है, तो इसकी फोकस दूरी क्या होगी?",
+            "en": "If the power of a lens is +2.0 D, what will be its focal length?"
           },
           "options": [
-            {"hi": "100 kg/m³", "en": "100 kg/m³"},
-            {"hi": "1000 kg/m³ (1000 kg/m³)", "en": "1000 kg/m³"},
-            {"hi": "1000 g/m³", "en": "1000 g/m³"},
-            {"hi": "10 kg/m³", "en": "10 kg/m³"}
+            {"hi": "+0.50 m", "en": "+0.50 m"},
+            {"hi": "-0.50 m", "en": "-0.50 m"},
+            {"hi": "+2.0 m", "en": "+2.0 m"},
+            {"hi": "+50 m", "en": "+50 m"}
           ],
-          "answer": {"hi": "1000 kg/m³ (1000 kg/m³)", "en": "1000 kg/m³"}
+          "answer": {"hi": "+0.50 m", "en": "+0.50 m"}
         },
         {
           "q": {
-            "hi": "किसी वस्तु का द्रव्यमान 10 kg है। पृथ्वी पर इसका भार कितना होगा? (g = 9.8 m/s²)",
-            "en": "The mass of an object is 10 kg. What will be its weight on Earth? (g = 9.8 m/s²)"
+            "hi": "किस पदार्थ का उपयोग लेंस बनाने के लिए नहीं किया जा सकता?",
+            "en": "Which material cannot be used to make a lens?"
           },
           "options": [
-            {"hi": "10 N", "en": "10 N"},
-            {"hi": "98 N (98 N)", "en": "98 N"},
-            {"hi": "9.8 N", "en": "9.8 N"},
-            {"hi": "100 N", "en": "100 N"}
+            {"hi": "जल", "en": "Water"},
+            {"hi": "काँच", "en": "Glass"},
+            {"hi": "प्लास्टिक", "en": "Plastic"},
+            {"hi": "मिट्टी", "en": "Clay"}
           ],
-          "answer": {"hi": "98 N (98 N)", "en": "98 N"}
+          "answer": {"hi": "मिट्टी", "en": "Clay"}
         },
         {
           "q": {
-            "hi": "दाब और क्षेत्रफल में क्या संबंध है?",
-            "en": "What is the relationship between pressure and area?"
+            "hi": "सौर भट्टियों में सूर्य के प्रकाश को केंद्रित करने के लिए किस दर्पण का उपयोग होता है?",
+            "en": "Which mirror is used to focus sunlight in solar furnaces?"
           },
           "options": [
-            {"hi": "क्षेत्रफल बढ़ाने पर दाब बढ़ता है", "en": "Pressure increases with area"},
-            {"hi": "क्षेत्रफल बढ़ाने पर दाब घटता है (Pressure decreases as area increases)", "en": "Pressure decreases as area increases"},
-            {"hi": "कोई संबंध नहीं है", "en": "No relation"},
-            {"hi": "दोनों समानुपाती हैं", "en": "Both are directly proportional"}
+            {"hi": "उत्तल दर्पण", "en": "Convex mirror"},
+            {"hi": "अवतल दर्पण", "en": "Concave mirror"},
+            {"hi": "समतल दर्पण", "en": "Plane mirror"},
+            {"hi": "बेलनाकार दर्पण", "en": "Cylindrical mirror"}
           ],
-          "answer": {"hi": "क्षेत्रफल बढ़ाने पर दाब घटता है (Pressure decreases as area increases)", "en": "Pressure decreases as area increases"}
+          "answer": {"hi": "अवतल दर्पण", "en": "Concave mirror"}
         },
         {
           "q": {
-            "hi": "G का वर्तमान मान्य मान कितना है?",
-            "en": "What is the currently accepted value of G?"
+            "hi": "2.0 m फोकस दूरी वाले अवतल लेंस की क्षमता ज्ञात कीजिए।",
+            "en": "Find the power of a concave lens with a focal length of 2.0 m."
           },
           "options": [
-            {"hi": "6.673 × 10^-11 N m²/kg²", "en": "6.673 × 10^-11 N m²/kg²"},
-            {"hi": "9.8 N m²/kg²", "en": "9.8 N m²/kg²"},
-            {"hi": "6.7 × 10^11 N m²/kg²", "en": "6.7 × 10^11 N m²/kg²"},
-            {"hi": "1.6 × 10^-19 N m²/kg²", "en": "1.6 × 10^-19 N m²/kg²"}
+            {"hi": "+0.5 D", "en": "+0.5 D"},
+            {"hi": "-0.5 D", "en": "-0.5 D"},
+            {"hi": "-2.0 D", "en": "-2.0 D"},
+            {"hi": "+2.0 D", "en": "+2.0 D"}
           ],
-          "answer": {"hi": "6.673 × 10^-11 N m²/kg²", "en": "6.673 × 10^-11 N m²/kg²"}
+          "answer": {"hi": "-0.5 D", "en": "-0.5 D"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "समुद्र में ज्वार-भाटा (Tides) आने का मुख्य कारण क्या है?",
-            "en": "What is the main reason for tides in the ocean?"
+            "hi": "किसी बिंब का अवतल दर्पण द्वारा बना प्रतिबिंब आभासी, सीधा तथा बड़ा पाया गया। वस्तु कहाँ है?",
+            "en": "The image of an object by a concave mirror is virtual, erect and larger. Where is the object?"
           },
           "options": [
-            {"hi": "पृथ्वी का घूमना", "en": "Earth's rotation"},
-            {"hi": "चंद्रमा का गुरुत्वाकर्षण खिंचाव (Moon's gravitational pull)", "en": "Moon's gravitational pull"},
-            {"hi": "हवाएं", "en": "Winds"},
-            {"hi": "पानी का गर्म होना", "en": "Water heating"}
+            {"hi": "मुख्य फोकस तथा वक्रता केंद्र के बीच", "en": "Between F and C"},
+            {"hi": "वक्रता केंद्र पर", "en": "At C"},
+            {"hi": "वक्रता केंद्र से परे", "en": "Beyond C"},
+            {"hi": "ध्रुव तथा मुख्य फोकस के बीच", "en": "Between P and F"}
           ],
-          "answer": {"hi": "चंद्रमा का गुरुत्वाकर्षण खिंचाव (Moon's gravitational pull)", "en": "Moon's gravitational pull"}
+          "answer": {"hi": "दर्पण के ध्रुव तथा मुख्य फोकस के बीच", "en": "Between P and F"}
         },
         {
           "q": {
-            "hi": "एक कागज़ की शीट और उसी कागज़ की गेंद को निर्वात (Vacuum) में गिराने पर क्या होगा?",
-            "en": "What happens if a sheet of paper and a ball of the same paper are dropped in a vacuum?"
+            "hi": "समतल दर्पण का आवर्धन +1 है। इसका क्या अर्थ है?",
+            "en": "The magnification of a plane mirror is +1. What does it mean?"
           },
           "options": [
-            {"hi": "गेंद पहले गिरेगी", "en": "The ball will fall first"},
-            {"hi": "शीट पहले गिरेगी", "en": "The sheet will fall first"},
-            {"hi": "दोनों साथ-साथ गिरेंगे (Both will fall together)", "en": "Both will fall together"},
-            {"hi": "कोई नहीं गिरेगा", "en": "None will fall"}
+            {"hi": "प्रतिबिंब छोटा है", "en": "Image is smaller"},
+            {"hi": "प्रतिबिंब उल्टा है", "en": "Image is inverted"},
+            {"hi": "प्रतिबिंब बिंब के बराबर साइज का है", "en": "Image size equals object size"},
+            {"hi": "प्रतिबिंब वास्तविक है", "en": "Image is real"}
           ],
-          "answer": {"hi": "दोनों साथ-साथ गिरेंगे (Both will fall together)", "en": "Both will fall together"}
+          "answer": {"hi": "प्रतिबिंब बिंब के बराबर साइज का है", "en": "Image size equals object size"}
         },
         {
           "q": {
-            "hi": "गुरुत्वीय स्थिरांक 'G' का मान पिंडों के बीच ______ पर निर्भर नहीं करता।",
-            "en": "The value of G does not depend on ______ between the bodies."
+            "hi": "पानी में डूबी हुई पेंसिल टेढ़ी क्यों दिखाई देती है?",
+            "en": "Why does a pencil dipped in water appear bent?"
           },
           "options": [
-            {"hi": "माध्यम", "en": "Medium"},
-            {"hi": "दूरी", "en": "Distance"},
-            {"hi": "द्रव्यमान", "en": "Mass"},
-            {"hi": "उपरोक्त सभी (All of above)", "en": "All of the above"}
+            {"hi": "परावर्तन", "en": "Reflection"},
+            {"hi": "अपवर्तन", "en": "Refraction"},
+            {"hi": "विवर्तन", "en": "Diffraction"},
+            {"hi": "प्रकीर्णन", "en": "Scattering"}
           ],
-          "answer": {"hi": "उपरोक्त सभी (All of above)", "en": "All of the above"}
+          "answer": {"hi": "अपवर्तन", "en": "Refraction"}
         },
         {
           "q": {
-            "hi": "वायु में गिरते समय कागज़ की शीट धीमी क्यों गिरती है?",
-            "en": "Why does a sheet of paper fall slowly while falling through air?"
+            "hi": "काँच का अपवर्तनांक (ng) किसके सापेक्ष होता है यदि कुछ न दिया हो?",
+            "en": "Refractive index of glass (ng) is relative to what if not specified?"
           },
           "options": [
-            {"hi": "गुरुत्वाकर्षण के कारण", "en": "Due to gravity"},
-            {"hi": "वायु के प्रतिरोध (Air resistance) के कारण", "en": "Due to air resistance"},
-            {"hi": "द्रव्यमान कम होने के कारण", "en": "Due to less mass"},
-            {"hi": "इसका कोई कारण नहीं है", "en": "There is no reason"}
+            {"hi": "जल", "en": "Water"},
+            {"hi": "वायु या निर्वात", "en": "Air or vacuum"},
+            {"hi": "हीरा", "en": "Diamond"},
+            {"hi": "तेल", "en": "Oil"}
           ],
-          "answer": {"hi": "वायु के प्रतिरोध (Air resistance) के कारण", "en": "Due to air resistance"}
+          "answer": {"hi": "वायु या निर्वात", "en": "Air or vacuum"}
         },
         {
           "q": {
-            "hi": "भार को मापने के लिए किस उपकरण का उपयोग किया जाता है?",
-            "en": "Which instrument is used to measure weight?"
+            "hi": "लेंस के प्रकाशिक केंद्र से गुजरने वाली किरण:",
+            "en": "A ray passing through the optical center of a lens:"
           },
           "options": [
-            {"hi": "साधारण तराजू", "en": "Beam balance"},
-            {"hi": "कमानीदार तुला (Spring balance)", "en": "Spring balance"},
-            {"hi": "बैरोमीटर", "en": "Barometer"},
-            {"hi": "थर्मामीटर", "en": "Thermometer"}
+            {"hi": "मुड़ जाती है", "en": "Bends"},
+            {"hi": "बिना विचलन के निकलती है", "en": "Emerges without deviation"},
+            {"hi": "फोकस पर जाती है", "en": "Goes to focus"},
+            {"hi": "वापस लौटती है", "en": "Returns back"}
           ],
-          "answer": {"hi": "कमानीदार तुला (Spring balance)", "en": "Spring balance"}
+          "answer": {"hi": "बिना विचलन के निकलती है", "en": "Emerges without deviation"}
         },
         {
           "q": {
-            "hi": "द्रव्यमान को मापने के लिए किस उपकरण का उपयोग किया जाता है?",
-            "en": "Which instrument is used to measure mass?"
+            "hi": "एक उत्तल लेंस की फोकस दूरी 50 cm है। इसकी क्षमता क्या होगी?",
+            "en": "The focal length of a convex lens is 50 cm. What is its power?"
           },
           "options": [
-            {"hi": "साधारण तराजू (Beam balance)", "en": "Beam balance"},
-            {"hi": "कमानीदार तुला", "en": "Spring balance"},
-            {"hi": "ओडोमीटर", "en": "Odometer"},
-            {"hi": "स्पीडोमीटर", "en": "Speedometer"}
+            {"hi": "+2.0 D", "en": "+2.0 D"},
+            {"hi": "-2.0 D", "en": "-2.0 D"},
+            {"hi": "+0.5 D", "en": "+0.5 D"},
+            {"hi": "+1.0 D", "en": "+1.0 D"}
           ],
-          "answer": {"hi": "साधारण तराजू (Beam balance)", "en": "Beam balance"}
+          "answer": {"hi": "+2.0 D", "en": "+2.0 D"}
         },
         {
           "q": {
-            "hi": "तरल में रखी वस्तु पर उत्प्लावन बल कहाँ कार्य करता है?",
-            "en": "Where does the buoyant force act on an object placed in a fluid?"
+            "hi": "वायु में प्रकाश की चाल की तुलना में काँच में प्रकाश की चाल:",
+            "en": "Compared to the speed of light in air, the speed in glass is:"
           },
           "options": [
-            {"hi": "नीचे की ओर", "en": "Downwards"},
-            {"hi": "ऊपर की ओर (Upwards)", "en": "Upwards"},
-            {"hi": "तिरछा", "en": "Diagonally"},
-            {"hi": "सभी दिशाओं में", "en": "In all directions"}
+            {"hi": "अधिक होती है", "en": "Higher"},
+            {"hi": "कम होती है", "en": "Lower"},
+            {"hi": "बराबर होती है", "en": "Equal"},
+            {"hi": "शून्य होती है", "en": "Zero"}
           ],
-          "answer": {"hi": "ऊपर की ओर (Upwards)", "en": "Upwards"}
+          "answer": {"hi": "कम होती है", "en": "Lower"}
         },
         {
           "q": {
-            "hi": "शुद्ध शहद और मिलावटी शहद की जाँच किसके द्वारा की जा सकती है?",
-            "en": "Purity of honey can be tested using?"
+            "hi": "दाँतों का बड़ा प्रतिबिंब देखने के लिए दंत विशेषज्ञ किस दर्पण का उपयोग करते हैं?",
+            "en": "Which mirror do dentists use to see a large image of teeth?"
           },
           "options": [
-            {"hi": "स्वाद लेकर", "en": "By tasting"},
-            {"hi": "घनत्व मापकर (By measuring density)", "en": "By measuring density"},
-            {"hi": "रंग देखकर", "en": "By color"},
-            {"hi": "उबालकर", "en": "By boiling"}
+            {"hi": "उत्तल दर्पण", "en": "Convex mirror"},
+            {"hi": "समतल दर्पण", "en": "Plane mirror"},
+            {"hi": "अवतल दर्पण", "en": "Concave mirror"},
+            {"hi": "बेलनाकार दर्पण", "en": "Cylindrical mirror"}
           ],
-          "answer": {"hi": "घनत्व मापकर (By measuring density)", "en": "By measuring density"}
+          "answer": {"hi": "अवतल दर्पण", "en": "Concave mirror"}
         },
         {
           "q": {
-            "hi": "केप्लर ने ग्रहों की गति के कितने नियम दिए थे?",
-            "en": "How many laws of planetary motion did Kepler give?"
+            "hi": "गोलीय दर्पण का द्वारक (Aperture) क्या है?",
+            "en": "What is the aperture of a spherical mirror?"
           },
           "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "2", "en": "2"},
-            {"hi": "3 (3)", "en": "3"},
-            {"hi": "4", "en": "4"}
+            {"hi": "परावर्तक पृष्ठ का केंद्र", "en": "Center of reflecting surface"},
+            {"hi": "परावर्तक पृष्ठ का व्यास", "en": "Diameter of reflecting surface"},
+            {"hi": "वक्रता त्रिज्या", "en": "Radius of curvature"},
+            {"hi": "मुख्य अक्ष", "en": "Principal axis"}
           ],
-          "answer": {"hi": "3 (3)", "en": "3"}
+          "answer": {"hi": "परावर्तक पृष्ठ की वृत्ताकार सीमारेखा का व्यास", "en": "Diameter of reflecting surface"}
         },
         {
           "q": {
-            "hi": "यदि किसी वस्तु का आपेक्षिक घनत्व 1 से कम है, तो वह पानी में ______।",
-            "en": "If the relative density of an object is less than 1, it will ______ in water."
+            "hi": "प्रकाश का आधुनिक क्वांटम सिद्धांत क्या है?",
+            "en": "What is the modern quantum theory of light?"
           },
           "options": [
-            {"hi": "डूब जाएगी", "en": "Sink"},
-            {"hi": "तैरेगी (Float)", "en": "Float"},
-            {"hi": "गायब हो जाएगी", "en": "Disappear"},
-            {"hi": "पिघल जाएगी", "en": "Melt"}
+            {"hi": "प्रकाश केवल कण है", "en": "Light is only a particle"},
+            {"hi": "प्रकाश केवल तरंग है", "en": "Light is only a wave"},
+            {"hi": "प्रकाश कण और तरंग दोनों के गुण रखता है", "en": "Light has both particle and wave properties"},
+            {"hi": "प्रकाश स्थिर है", "en": "Light is stationary"}
           ],
-          "answer": {"hi": "तैरेगी (Float)", "en": "Float"}
+          "answer": {"hi": "प्रकाश के कण और तरंग प्रकृति के बीच सामंजस्य", "en": "Harmony between particle and wave nature of light"}
         }
       ]
     },
