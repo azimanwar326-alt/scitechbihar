@@ -5723,661 +5723,661 @@
       "section1": [
         {
           "q": {
-            "hi": "वैज्ञानिक दृष्टिकोण से 'कार्य' होने के लिए कितनी शर्तें पूरी होनी चाहिए?",
-            "en": "From a scientific perspective, how many conditions must be met for 'work' to be done?"
+            "hi": "मानव नेत्र किस प्रकाशीय यंत्र की भाँति कार्य करता है?",
+            "en": "The human eye works like which optical instrument?"
           },
           "options": [
-            {"hi": "एक", "en": "One"},
-            {"hi": "दो", "en": "Two"},
-            {"hi": "तीन", "en": "Three"},
-            {"hi": "चार", "en": "Four"}
+            { "hi": "दूरबीन", "en": "Telescope" },
+            { "hi": "कैमरा", "en": "Camera" },
+            { "hi": "सूक्ष्मदर्शी", "en": "Microscope" },
+            { "hi": "पेरिस्कोप", "en": "Periscope" }
           ],
-          "answer": {"hi": "दो", "en": "Two"}
+          "answer": { "hi": "कैमरा", "en": "Camera" }
         },
         {
           "q": {
-            "hi": "कार्य (W), बल (F) और विस्थापन (s) के बीच क्या संबंध है?",
-            "en": "What is the relationship between Work (W), Force (F), and Displacement (s)?"
+            "hi": "नेत्र का वह भाग जहाँ किसी वस्तु का प्रतिबिंब बनता है, क्या कहलाता है?",
+            "en": "The part of the eye where the image of an object is formed is called?"
           },
           "options": [
-            {"hi": "W = F / s", "en": "W = F / s"},
-            {"hi": "W = F + s", "en": "W = F + s"},
-            {"hi": "W = F × s", "en": "W = F × s"},
-            {"hi": "W = F - s", "en": "W = F - s"}
+            { "hi": "कॉर्निया", "en": "Cornea" },
+            { "hi": "पुतली", "en": "Pupil" },
+            { "hi": "दृष्टिपटल (रेटिना)", "en": "Retina" },
+            { "hi": "परितारिका", "en": "Iris" }
           ],
-          "answer": {"hi": "W = F × s", "en": "W = F × s"}
+          "answer": { "hi": "दृष्टिपटल (रेटिना)", "en": "Retina" }
         },
         {
           "q": {
-            "hi": "कार्य का SI मात्रक क्या है?",
-            "en": "What is the SI unit of work?"
+            "hi": "नेत्र में प्रवेश करने वाले प्रकाश की मात्रा को कौन नियंत्रित करता है?",
+            "en": "Who controls the amount of light entering the eye?"
           },
           "options": [
-            {"hi": "न्यूटन", "en": "Newton"},
-            {"hi": "वाट", "en": "Watt"},
-            {"hi": "जूल (Joule)", "en": "Joule"},
-            {"hi": "पास्कल", "en": "Pascal"}
+            { "hi": "पुतली", "en": "Pupil" },
+            { "hi": "स्वच्छ मंडल", "en": "Cornea" },
+            { "hi": "दृक् तंत्रिका", "en": "Optic nerve" },
+            { "hi": "काचाभ द्रव", "en": "Vitreous humour" }
           ],
-          "answer": {"hi": "जूल (Joule)", "en": "Joule"}
+          "answer": { "hi": "पुतली", "en": "Pupil" }
         },
         {
           "q": {
-            "hi": "यदि विस्थापन बल की दिशा में हो, तो कार्य कैसा होता है?",
-            "en": "If displacement is in the direction of the force, the work done is?"
+            "hi": "नेत्र गोलक का व्यास लगभग कितना होता है?",
+            "en": "What is the approximate diameter of the eye ball?"
           },
           "options": [
-            {"hi": "ऋणात्मक", "en": "Negative"},
-            {"hi": "धनात्मक (Positive)", "en": "Positive"},
-            {"hi": "शून्य", "en": "Zero"},
-            {"hi": "अनंत", "en": "Infinite"}
+            { "hi": "3.3 cm", "en": "3.3 cm" },
+            { "hi": "2.3 cm", "en": "2.3 cm" },
+            { "hi": "1.3 cm", "en": "1.3 cm" },
+            { "hi": "4.3 cm", "en": "4.3 cm" }
           ],
-          "answer": {"hi": "धनात्मक (Positive)", "en": "Positive"}
+          "answer": { "hi": "2.3 cm", "en": "2.3 cm" }
         },
         {
           "q": {
-            "hi": "यदि विस्थापन बल की दिशा के विपरीत हो, तो कार्य कैसा होता है?",
-            "en": "If displacement is opposite to the direction of force, the work done is?"
+            "hi": "नेत्र की वह क्षमता जिसके कारण वह अपनी फोकस दूरी को समायोजित कर लेता है, क्या कहलाती है?",
+            "en": "The ability of the eye lens to adjust its focal length is called?"
           },
           "options": [
-            {"hi": "धनात्मक", "en": "Positive"},
-            {"hi": "ऋणात्मक (Negative)", "en": "Negative"},
-            {"hi": "शून्य", "en": "Zero"},
-            {"hi": "स्थिर", "en": "Constant"}
+            { "hi": "परावर्तन", "en": "Reflection" },
+            { "hi": "विक्षेपण", "en": "Dispersion" },
+            { "hi": "समंजन", "en": "Accommodation" },
+            { "hi": "अपवर्तन", "en": "Refraction" }
           ],
-          "answer": {"hi": "ऋणात्मक (Negative)", "en": "Negative"}
+          "answer": { "hi": "समंजन", "en": "Accommodation" }
         },
         {
           "q": {
-            "hi": "1 जूल (J) कार्य किसके बराबर होता है?",
-            "en": "1 Joule (J) of work is equal to?"
+            "hi": "सामान्य दृष्टि के वयस्क के लिए सुस्पष्ट दर्शन की अल्पतम दूरी कितनी होती है?",
+            "en": "What is the least distance of distinct vision for a young adult with normal vision?"
           },
           "options": [
-            {"hi": "1 N × 1 m", "en": "1 N × 1 m"},
-            {"hi": "1 kg × 1 m", "en": "1 kg × 1 m"},
-            {"hi": "1 W × 1 s", "en": "1 W × 1 s"},
-            {"hi": "1 N / 1 m", "en": "1 N / 1 m"}
+            { "hi": "25 m", "en": "25 m" },
+            { "hi": "25 cm", "en": "25 cm" },
+            { "hi": "2.5 cm", "en": "2.5 cm" },
+            { "hi": "अनंत", "en": "Infinity" }
           ],
-          "answer": {"hi": "1 N × 1 m", "en": "1 N × 1 m"}
+          "answer": { "hi": "25 cm", "en": "25 cm" }
         },
         {
           "q": {
-            "hi": "कार्य करने की क्षमता को क्या कहते हैं?",
-            "en": "What is the capacity to do work called?"
+            "hi": "सामान्य नेत्र के लिए दूर-बिंदु कहाँ स्थित होता है?",
+            "en": "Where is the far point located for a normal eye?"
           },
           "options": [
-            {"hi": "शक्ति", "en": "Power"},
-            {"hi": "त्वरण", "en": "Acceleration"},
-            {"hi": "ऊर्जा (Energy)", "en": "Energy"},
-            {"hi": "बल", "en": "Force"}
+            { "hi": "25 cm पर", "en": "At 25 cm" },
+            { "hi": "100 cm पर", "en": "At 100 cm" },
+            { "hi": "अनंत पर", "en": "At infinity" },
+            { "hi": "10 m पर", "en": "At 10 m" }
           ],
-          "answer": {"hi": "ऊर्जा (Energy)", "en": "Energy"}
+          "answer": { "hi": "अनंत पर", "en": "At infinity" }
         },
         {
           "q": {
-            "hi": "ऊर्जा का मात्रक क्या है?",
-            "en": "What is the unit of energy?"
+            "hi": "अभिनेत्र लेंस किस प्रकार का प्रतिबिंब रेटिना पर बनाता है?",
+            "en": "What kind of image does the eye lens form on the retina?"
           },
           "options": [
-            {"hi": "न्यूटन", "en": "Newton"},
-            {"hi": "जूल (Joule)", "en": "Joule"},
-            {"hi": "किलोग्राम", "en": "Kilogram"},
-            {"hi": "मीटर", "en": "Metre"}
+            { "hi": "सीधा तथा आभासी", "en": "Erect and virtual" },
+            { "hi": "उलटा तथा वास्तविक", "en": "Inverted and real" },
+            { "hi": "सीधा तथा वास्तविक", "en": "Erect and real" },
+            { "hi": "उलटा तथा आभासी", "en": "Inverted and virtual" }
           ],
-          "answer": {"hi": "जूल (Joule)", "en": "Joule"}
+          "answer": { "hi": "उलटा तथा वास्तविक", "en": "Inverted and real" }
         },
         {
           "q": {
-            "hi": "1 किलोजूल (kJ) में कितने जूल होते हैं?",
-            "en": "How many Joules are in 1 Kilojoule (kJ)?"
+            "hi": "पुतली के साइज़ को कौन नियंत्रित करता है?",
+            "en": "Who controls the size of the pupil?"
           },
           "options": [
-            {"hi": "100 J", "en": "100 J"},
-            {"hi": "500 J", "en": "500 J"},
-            {"hi": "1000 J", "en": "1000 J"},
-            {"hi": "10 J", "en": "10 J"}
+            { "hi": "पक्ष्माभी पेशियाँ", "en": "Ciliary muscles" },
+            { "hi": "परितारिका (Iris)", "en": "Iris" },
+            { "hi": "कॉर्निया", "en": "Cornea" },
+            { "hi": "क्रिस्टलीय लेंस", "en": "Crystalline lens" }
           ],
-          "answer": {"hi": "1000 J", "en": "1000 J"}
+          "answer": { "hi": "परितारिका (Iris)", "en": "Iris" }
         },
         {
           "q": {
-            "hi": "किसी गतिशील वस्तु में उसकी गति के कारण निहित ऊर्जा को क्या कहते हैं?",
-            "en": "The energy possessed by an object due to its motion is called?"
+            "hi": "वृद्धावस्था में नेत्र का क्रिस्टलीय लेंस दूधिया तथा धुँधला हो जाने की स्थिति को क्या कहते हैं?",
+            "en": "What is the condition called when the crystalline lens becomes milky and cloudy in old age?"
           },
           "options": [
-            {"hi": "स्थितिज ऊर्जा", "en": "Potential energy"},
-            {"hi": "गतिज ऊर्जा (Kinetic energy)", "en": "Kinetic energy"},
-            {"hi": "रासायनिक ऊर्जा", "en": "Chemical energy"},
-            {"hi": "तापीय ऊर्जा", "en": "Thermal energy"}
+            { "hi": "निकट-दृष्टि", "en": "Myopia" },
+            { "hi": "दीर्घ-दृष्टि", "en": "Hypermetropia" },
+            { "hi": "मोतियाबिंद", "en": "Cataract" },
+            { "hi": "जरा-दूरदृष्टिता", "en": "Presbyopia" }
           ],
-          "answer": {"hi": "गतिज ऊर्जा (Kinetic energy)", "en": "Kinetic energy"}
+          "answer": { "hi": "मोतियाबिंद", "en": "Cataract" }
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "गतिज ऊर्जा (Ek) निकालने का सही सूत्र क्या है?",
-            "en": "What is the correct formula to calculate Kinetic Energy (Ek)?"
+            "hi": "निकट-दृष्टि दोष (Myopia) में व्यक्ति कहाँ की वस्तुओं को स्पष्ट देख सकता है?",
+            "en": "In Myopia, where can a person see objects clearly?"
           },
           "options": [
-            {"hi": "Ek = mgh", "en": "Ek = mgh"},
-            {"hi": "Ek = ½ mv²", "en": "Ek = ½ mv²"},
-            {"hi": "Ek = mv", "en": "Ek = mv"},
-            {"hi": "Ek = ½ mv", "en": "Ek = ½ mv"}
+            { "hi": "केवल दूर की", "en": "Only far away" },
+            { "hi": "निकट रखी वस्तुओं को", "en": "Nearby objects" },
+            { "hi": "कहीं की भी नहीं", "en": "Nowhere" },
+            { "hi": "केवल बहुत छोटी", "en": "Only very small" }
           ],
-          "answer": {"hi": "Ek = ½ mv²", "en": "Ek = ½ mv²"}
+          "answer": { "hi": "निकट रखी वस्तुओं को", "en": "Nearby objects" }
         },
         {
           "q": {
-            "hi": "यदि किसी वस्तु का वेग दोगुना कर दिया जाए, तो उसकी गतिज ऊर्जा कितनी हो जाएगी?",
-            "en": "If the velocity of an object is doubled, its kinetic energy will become?"
+            "hi": "निकट-दृष्टि दोष को किस लेंस द्वारा संशोधित किया जा सकता है?",
+            "en": "Myopia can be corrected using which lens?"
           },
           "options": [
-            {"hi": "दोगुनी", "en": "Double"},
-            {"hi": "आधी", "en": "Half"},
-            {"hi": "चार गुनी (Four times)", "en": "Four times"},
-            {"hi": "वही रहेगी", "en": "Same"}
+            { "hi": "उत्तल लेंस", "en": "Convex lens" },
+            { "hi": "अवतल लेंस", "en": "Concave lens" },
+            { "hi": "द्विफोकसी लेंस", "en": "Bifocal lens" },
+            { "hi": "बेलनाकार लेंस", "en": "Cylindrical lens" }
           ],
-          "answer": {"hi": "चार गुनी (Four times)", "en": "Four times"}
+          "answer": { "hi": "अवतल लेंस", "en": "Concave lens" }
         },
         {
           "q": {
-            "hi": "वस्तु की स्थिति या विन्यास में परिवर्तन के कारण प्राप्त ऊर्जा क्या कहलाती है?",
-            "en": "The energy possessed by an object due to its position or configuration is called?"
+            "hi": "दीर्घ-दृष्टि दोष (Hypermetropia) का मुख्य कारण क्या है?",
+            "en": "What is the main cause of Hypermetropia?"
           },
           "options": [
-            {"hi": "गतिज ऊर्जा", "en": "Kinetic energy"},
-            {"hi": "स्थितिज ऊर्जा (Potential energy)", "en": "Potential energy"},
-            {"hi": "विद्युत ऊर्जा", "en": "Electrical energy"},
-            {"hi": "ध्वनि ऊर्जा", "en": "Sound energy"}
+            { "hi": "नेत्र गोलक का लंबा होना", "en": "Elongation of eyeball" },
+            { "hi": "फोकस दूरी का अत्यधिक हो जाना", "en": "Focal length becoming too long" },
+            { "hi": "पेशियों का ढीला होना", "en": "Loosening of muscles" },
+            { "hi": "मोतियाबिंद होना", "en": "Cataract formation" }
           ],
-          "answer": {"hi": "स्थितिज ऊर्जा (Potential energy)", "en": "Potential energy"}
+          "answer": { "hi": "फोकस दूरी का अत्यधिक हो जाना", "en": "Focal length becoming too long" }
         },
         {
           "q": {
-            "hi": "गुरुत्वीय स्थितिज ऊर्जा (Ep) का सूत्र क्या है?",
-            "en": "What is the formula for Gravitational Potential Energy (Ep)?"
+            "hi": "दीर्घ-दृष्टि दोष को संशोधित करने के लिए कौन-सा लेंस प्रयुक्त होता है?",
+            "en": "Which lens is used to correct Hypermetropia?"
           },
           "options": [
-            {"hi": "Ep = ½ mv²", "en": "Ep = ½ mv²"},
-            {"hi": "Ep = mgh", "en": "Ep = mgh"},
-            {"hi": "Ep = F × s", "en": "Ep = F × s"},
-            {"hi": "Ep = m/g", "en": "Ep = m/g"}
+            { "hi": "अवतल लेंस", "en": "Concave lens" },
+            { "hi": "बेलनाकार लेंस", "en": "Cylindrical lens" },
+            { "hi": "उत्तल लेंस", "en": "Convex lens" },
+            { "hi": "समतल लेंस", "en": "Plane lens" }
           ],
-          "answer": {"hi": "Ep = mgh", "en": "Ep = mgh"}
+          "answer": { "hi": "उत्तल लेंस", "en": "Convex lens" }
         },
         {
           "q": {
-            "hi": "ऊर्जा संरक्षण के नियम के अनुसार, ऊर्जा का क्या होता है?",
-            "en": "According to the Law of Conservation of Energy, what happens to energy?"
+            "hi": "जरा-दूरदृष्टिता (Presbyopia) दोष का क्या कारण है?",
+            "en": "What is the cause of Presbyopia?"
           },
           "options": [
-            {"hi": "ऊर्जा नष्ट हो जाती है", "en": "Energy gets destroyed"},
-            {"hi": "ऊर्जा का सृजन होता है", "en": "Energy is created"},
-            {"hi": "ऊर्जा केवल एक रूप से दूसरे रूप में बदलती है", "en": "Energy is only transformed from one form to another"},
-            {"hi": "कुल ऊर्जा हमेशा बढ़ती है", "en": "Total energy always increases"}
+            { "hi": "नेत्र गोलक का छोटा होना", "en": "Shortening of eyeball" },
+            { "hi": "पक्ष्माभी पेशियों का दुर्बल होना", "en": "Weakening of ciliary muscles" },
+            { "hi": "विटामिन की कमी", "en": "Vitamin deficiency" },
+            { "hi": "अत्यधिक तनाव", "en": "Excessive stress" }
           ],
-          "answer": {"hi": "ऊर्जा केवल एक रूप से दूसरे रूप में बदलती है", "en": "Energy is only transformed from one form to another"}
+          "answer": { "hi": "पक्ष्माभी पेशियों का दुर्बल होना", "en": "Weakening of ciliary muscles" }
         },
         {
           "q": {
-            "hi": "गतिज ऊर्जा और स्थितिज ऊर्जा के योग को क्या कहते हैं?",
-            "en": "What is the sum of kinetic energy and potential energy called?"
+            "hi": "द्विफोकसी लेंसों (Bi-focal lenses) का ऊपरी भाग कौन-सा लेंस होता है?",
+            "en": "The upper part of bifocal lenses is which lens?"
           },
           "options": [
-            {"hi": "कुल ऊर्जा", "en": "Total energy"},
-            {"hi": "यांत्रिक ऊर्जा (Mechanical energy)", "en": "Mechanical energy"},
-            {"hi": "मुक्त ऊर्जा", "en": "Free energy"},
-            {"hi": "स्थिर ऊर्जा", "en": "Static energy"}
+            { "hi": "उत्तल लेंस", "en": "Convex lens" },
+            { "hi": "समतल लेंस", "en": "Plane lens" },
+            { "hi": "अवतल लेंस", "en": "Concave lens" },
+            { "hi": "बेलनाकार लेंस", "en": "Cylindrical lens" }
           ],
-          "answer": {"hi": "यांत्रिक ऊर्जा (Mechanical energy)", "en": "Mechanical energy"}
+          "answer": { "hi": "अवतल लेंस", "en": "Concave lens" }
         },
         {
           "q": {
-            "hi": "कार्य करने की दर को क्या कहते हैं?",
-            "en": "What is the rate of doing work called?"
+            "hi": "एक नेत्र की बजाय दो नेत्र होने का मुख्य लाभ क्या है?",
+            "en": "What is the main advantage of having two eyes instead of one?"
           },
           "options": [
-            {"hi": "वेग", "en": "Velocity"},
-            {"hi": "ऊर्जा", "en": "Energy"},
-            {"hi": "शक्ति (Power)", "en": "Power"},
-            {"hi": "त्वरण", "en": "Acceleration"}
+            { "hi": "रंगों को पहचानना", "en": "Identifying colors" },
+            { "hi": "त्रिविम चाक्षुकी (3D vision)", "en": "3D vision/Depth perception" },
+            { "hi": "तेजी से देखना", "en": "Seeing faster" },
+            { "hi": "आँखों का सुंदर दिखना", "en": "Eyes looking beautiful" }
           ],
-          "answer": {"hi": "शक्ति (Power)", "en": "Power"}
+          "answer": { "hi": "त्रिविम चाक्षुकी (3D vision)", "en": "3D vision/Depth perception" }
         },
         {
           "q": {
-            "hi": "शक्ति (Power) का SI मात्रक क्या है?",
-            "en": "What is the SI unit of Power?"
+            "hi": "मानव नेत्र का क्षैतिज दृष्टि क्षेत्र दो नेत्रों द्वारा लगभग कितना होता है?",
+            "en": "What is the horizontal field of view of human eyes with both eyes?"
           },
           "options": [
-            {"hi": "जूल", "en": "Joule"},
-            {"hi": "न्यूटन", "en": "Newton"},
-            {"hi": "वाट (Watt)", "en": "Watt"},
-            {"hi": "एम्पीयर", "en": "Ampere"}
+            { "hi": "90°", "en": "90°" },
+            { "hi": "150°", "en": "150°" },
+            { "hi": "180°", "en": "180°" },
+            { "hi": "360°", "en": "360°" }
           ],
-          "answer": {"hi": "वाट (Watt)", "en": "Watt"}
+          "answer": { "hi": "180°", "en": "180°" }
         },
         {
           "q": {
-            "hi": "1 वाट किसके बराबर होता है?",
-            "en": "1 Watt is equal to?"
+            "hi": "मृत्यु के पश्चात कितने समय के भीतर नेत्र निकाल लिए जाने चाहिए?",
+            "en": "Within how much time should eyes be removed after death?"
           },
           "options": [
-            {"hi": "1 J / 1 s", "en": "1 J / 1 s"},
-            {"hi": "1 N / 1 m", "en": "1 N / 1 m"},
-            {"hi": "1 J × 1 s", "en": "1 J × 1 s"},
-            {"hi": "1 kg / 1 s", "en": "1 kg / 1 s"}
+            { "hi": "1 घंटे", "en": "1 hour" },
+            { "hi": "4-6 घंटे", "en": "4-6 hours" },
+            { "hi": "24 घंटे", "en": "24 hours" },
+            { "hi": "10-12 घंटे", "en": "10-12 hours" }
           ],
-          "answer": {"hi": "1 J / 1 s", "en": "1 J / 1 s"}
+          "answer": { "hi": "4-6 घंटे", "en": "4-6 hours" }
         },
         {
           "q": {
-            "hi": "1 किलोवाट (kW) में कितने वाट होते हैं?",
-            "en": "How many Watts are in 1 Kilowatt (kW)?"
+            "hi": "कौन-सा रोग होने पर व्यक्ति नेत्रदान नहीं कर सकता?",
+            "en": "In which disease can a person not donate eyes?"
           },
           "options": [
-            {"hi": "100 W", "en": "100 W"},
-            {"hi": "1000 W", "en": "1000 W"},
-            {"hi": "10 W", "en": "10 W"},
-            {"hi": "500 W", "en": "500 W"}
+            { "hi": "मधुमेह", "en": "Diabetes" },
+            { "hi": "उच्च रक्तचाप", "en": "High blood pressure" },
+            { "hi": "एड्स (AIDS)", "en": "AIDS" },
+            { "hi": "दमा", "en": "Asthma" }
           ],
-          "answer": {"hi": "1000 W", "en": "1000 W"}
+          "answer": { "hi": "एड्स (AIDS)", "en": "AIDS" }
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "ऊर्जा का व्यावसायिक मात्रक क्या है?",
-            "en": "What is the commercial unit of energy?"
+            "hi": "प्रिज़्म के दो पार्श्व फलकों के बीच के कोण को क्या कहते हैं?",
+            "en": "The angle between two lateral faces of a prism is called?"
           },
           "options": [
-            {"hi": "जूल", "en": "Joule"},
-            {"hi": "वाट-सेकंड", "en": "Watt-second"},
-            {"hi": "किलोवाट घंटा (kWh)", "en": "Kilowatt hour (kWh)"},
-            {"hi": "कैलोरी", "en": "Calorie"}
+            { "hi": "विचलन कोण", "en": "Angle of deviation" },
+            { "hi": "प्रिज़्म कोण", "en": "Prism angle" },
+            { "hi": "आपतन कोण", "en": "Angle of incidence" },
+            { "hi": "निर्गत कोण", "en": "Angle of emergence" }
           ],
-          "answer": {"hi": "किलोवाट घंटा (kWh)", "en": "Kilowatt hour (kWh)"}
+          "answer": { "hi": "प्रिज़्म कोण", "en": "Prism angle" }
         },
         {
           "q": {
-            "hi": "1 kWh कितने जूल के बराबर होता है?",
-            "en": "How many Joules are in 1 kWh?"
+            "hi": "प्रिज़्म से गुज़रने पर निर्गत किरण और आपतित किरण की दिशा के बीच के कोण को क्या कहते हैं?",
+            "en": "The angle between the emergent ray and the direction of the incident ray is?"
           },
           "options": [
-            {"hi": "3.6 × 10^5 J", "en": "3.6 × 10^5 J"},
-            {"hi": "3.6 × 10^6 J", "en": "3.6 × 10^6 J"},
-            {"hi": "1000 J", "en": "1000 J"},
-            {"hi": "3600 J", "en": "3600 J"}
+            { "hi": "अपवर्तन कोण", "en": "Angle of refraction" },
+            { "hi": "क्रांतिक कोण", "en": "Critical angle" },
+            { "hi": "विचलन कोण", "en": "Angle of deviation" },
+            { "hi": "परावर्तन कोण", "en": "Angle of reflection" }
           ],
-          "answer": {"hi": "3.6 × 10^6 J", "en": "3.6 × 10^6 J"}
+          "answer": { "hi": "विचलन कोण", "en": "Angle of deviation" }
         },
         {
           "q": {
-            "hi": "यदि बल और विस्थापन के बीच का कोण 90° हो, तो किया गया कार्य कितना होगा?",
-            "en": "If the angle between force and displacement is 90°, what will be the work done?"
+            "hi": "प्रकाश के अवयवी वर्णों में विभाजन की प्रक्रिया क्या कहलाती है?",
+            "en": "The splitting of light into its component colors is called?"
           },
           "options": [
-            {"hi": "अधिकतम", "en": "Maximum"},
-            {"hi": "न्यूनतम", "en": "Minimum"},
-            {"hi": "शून्य (Zero)", "en": "Zero"},
-            {"hi": "अनंत", "en": "Infinite"}
+            { "hi": "अपवर्तन", "en": "Refraction" },
+            { "hi": "विक्षेपण (Dispersion)", "en": "Dispersion" },
+            { "hi": "परावर्तन", "en": "Reflection" },
+            { "hi": "प्रकीर्णन", "en": "Scattering" }
           ],
-          "answer": {"hi": "शून्य (Zero)", "en": "Zero"}
+          "answer": { "hi": "विक्षेपण (Dispersion)", "en": "Dispersion" }
         },
         {
           "q": {
-            "hi": "एक कुली 15 kg का बोझ धरती से 1.5 m ऊपर उठाकर अपने सिर पर रखता है। उसके द्वारा किया गया कार्य कितना होगा? (g = 10 m/s²)",
-            "en": "A porter lifts 15 kg from the ground to 1.5 m onto his head. What is the work done? (g = 10 m/s²)"
+            "hi": "स्पेक्ट्रम प्राप्त करने के लिए सर्वप्रथम प्रिज़्म का उपयोग किसने किया?",
+            "en": "Who first used a prism to obtain a spectrum?"
           },
           "options": [
-            {"hi": "22.5 J", "en": "22.5 J"},
-            {"hi": "150 J", "en": "150 J"},
-            {"hi": "225 J", "en": "225 J"},
-            {"hi": "2250 J", "en": "2250 J"}
+            { "hi": "आइंस्टीन", "en": "Einstein" },
+            { "hi": "सी.वी. रमन", "en": "C.V. Raman" },
+            { "hi": "आइज़क न्यूटन", "en": "Isaac Newton" },
+            { "hi": "गैलीलियो", "en": "Galileo" }
           ],
-          "answer": {"hi": "225 J", "en": "225 J"}
+          "answer": { "hi": "आइज़क न्यूटन", "en": "Isaac Newton" }
         },
         {
           "q": {
-            "hi": "शक्ति का सूत्र क्या है?",
-            "en": "What is the formula for Power?"
+            "hi": "श्वेत प्रकाश के स्पेक्ट्रम में किस रंग का झुकाव सबसे अधिक होता है?",
+            "en": "Which color deviates the most in the spectrum of white light?"
           },
           "options": [
-            {"hi": "P = W / t", "en": "P = W / t"},
-            {"hi": "P = W × t", "en": "P = W × t"},
-            {"hi": "P = F × s", "en": "P = F × s"},
-            {"hi": "P = mgh", "en": "P = mgh"}
+            { "hi": "लाल", "en": "Red" },
+            { "hi": "पीला", "en": "Yellow" },
+            { "hi": "बैंगनी", "en": "Violet" },
+            { "hi": "हरा", "en": "Green" }
           ],
-          "answer": {"hi": "P = W / t", "en": "P = W / t"}
+          "answer": { "hi": "बैंगनी", "en": "Violet" }
         },
         {
           "q": {
-            "hi": "बहती हुई हवा में कौन सी ऊर्जा होती है?",
-            "en": "What type of energy is present in blowing wind?"
+            "hi": "स्पेक्ट्रम के रंगों का सही क्रम याद रखने के लिए कौन-सा शब्द उपयोगी है?",
+            "en": "Which word is useful for remembering the order of colors in a spectrum?"
           },
           "options": [
-            {"hi": "स्थितिज ऊर्जा", "en": "Potential energy"},
-            {"hi": "गतिज ऊर्जा (Kinetic energy)", "en": "Kinetic energy"},
-            {"hi": "विद्युत ऊर्जा", "en": "Electrical energy"},
-            {"hi": "नाभिकीय ऊर्जा", "en": "Nuclear energy"}
+            { "hi": "VIBGYOR", "en": "VIBGYOR" },
+            { "hi": "SPECTRUM", "en": "SPECTRUM" },
+            { "hi": "RAINBOW", "en": "RAINBOW" },
+            { "hi": "PRISM", "en": "PRISM" }
           ],
-          "answer": {"hi": "गतिज ऊर्जा (Kinetic energy)", "en": "Kinetic energy"}
+          "answer": { "hi": "VIBGYOR", "en": "VIBGYOR" }
         },
         {
           "q": {
-            "hi": "बाँध के रुके हुए पानी में कौन सी ऊर्जा संचित होती है?",
-            "en": "What energy is stored in the still water of a dam?"
+            "hi": "इंद्रधनुष वर्षा के पश्चात आकाश में क्यों दिखाई देता है?",
+            "en": "Why is a rainbow seen in the sky after rain?"
           },
           "options": [
-            {"hi": "गतिज ऊर्जा", "en": "Kinetic energy"},
-            {"hi": "स्थितिज ऊर्जा (Potential energy)", "en": "Potential energy"},
-            {"hi": "तापीय ऊर्जा", "en": "Thermal energy"},
-            {"hi": "प्रकाश ऊर्जा", "en": "Light energy"}
+            { "hi": "बादलों के कारण", "en": "Due to clouds" },
+            { "hi": "धूल के कणों के कारण", "en": "Due to dust particles" },
+            { "hi": "जल की सूक्ष्म बूँदों द्वारा विक्षेपण", "en": "Dispersion by water droplets" },
+            { "hi": "हवा के दबाव के कारण", "en": "Due to air pressure" }
           ],
-          "answer": {"hi": "स्थितिज ऊर्जा (Potential energy)", "en": "Potential energy"}
+          "answer": { "hi": "जल की सूक्ष्म बूँदों द्वारा विक्षेपण", "en": "Dispersion by water droplets" }
         },
         {
           "q": {
-            "hi": "जब वस्तु स्वतंत्र रूप से गिरती है, तो उसकी स्थितिज ऊर्जा किसमें बदलती है?",
-            "en": "When an object falls freely, its potential energy converts into?"
+            "hi": "इंद्रधनुष सदैव सूर्य की किस दिशा में बनता है?",
+            "en": "In which direction does a rainbow always form relative to the sun?"
           },
           "options": [
-            {"hi": "ऊष्मा ऊर्जा", "en": "Heat energy"},
-            {"hi": "गतिज ऊर्जा (Kinetic energy)", "en": "Kinetic energy"},
-            {"hi": "विद्युत ऊर्जा", "en": "Electrical energy"},
-            {"hi": "ध्वनि ऊर्जा", "en": "Sound energy"}
+            { "hi": "सूर्य की दिशा में", "en": "In the sun's direction" },
+            { "hi": "विपरीत दिशा में", "en": "In the opposite direction" },
+            { "hi": "ऊपर की ओर", "en": "Upwards" },
+            { "hi": "नीचे की ओर", "en": "Downwards" }
           ],
-          "answer": {"hi": "गतिज ऊर्जा (Kinetic energy)", "en": "Kinetic energy"}
+          "answer": { "hi": "विपरीत दिशा में", "en": "In the opposite direction" }
         },
         {
           "q": {
-            "hi": "औसत शक्ति निकालने के लिए कुल उपयोग की गई ऊर्जा को किससे भाग दिया जाता है?",
-            "en": "To find average power, total energy used is divided by?"
+            "hi": "काँच के स्लैब में अपवर्तित किरण आपतित किरण के कैसी होती है?",
+            "en": "In a glass slab, the refracted ray is how relative to the incident ray?"
           },
           "options": [
-            {"hi": "दूरी", "en": "Distance"},
-            {"hi": "कुल समय (Total time)", "en": "Total time"},
-            {"hi": "बल", "en": "Force"},
-            {"hi": "द्रव्यमान", "en": "Mass"}
+            { "hi": "लंबवत", "en": "Perpendicular" },
+            { "hi": "समांतर", "en": "Parallel" },
+            { "hi": "विपरीत", "en": "Opposite" },
+            { "hi": "तिरछी", "en": "Oblique" }
           ],
-          "answer": {"hi": "कुल समय (Total time)", "en": "Total time"}
+          "answer": { "hi": "समांतर", "en": "Parallel" }
         },
         {
           "q": {
-            "hi": "सूर्य हमारे लिए ऊर्जा का सबसे बड़ा ______ है।",
-            "en": "The Sun is the biggest ______ of energy for us."
+            "hi": "श्वेत प्रकाश कितने वर्णों से मिलकर बना है?",
+            "en": "White light is composed of how many colors?"
           },
           "options": [
-            {"hi": "ग्राहक", "en": "Consumer"},
-            {"hi": "स्रोत (Source)", "en": "Source"},
-            {"hi": "विनाशक", "en": "Destroyer"},
-            {"hi": "भंडारण", "en": "Storage"}
+            { "hi": "5", "en": "5" },
+            { "hi": "12", "en": "12" },
+            { "hi": "7", "en": "7" },
+            { "hi": "3", "en": "3" }
           ],
-          "answer": {"hi": "स्रोत (Source)", "en": "Source"}
+          "answer": { "hi": "7", "en": "7" }
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "एक विद्युत बल्ब 100 W का है। 1 मिनट में वह कितनी ऊर्जा उपयोग करेगा?",
-            "en": "A light bulb is 100 W. How much energy will it use in 1 minute?"
+            "hi": "तारों के टिमटिमाने का मुख्य कारण क्या है?",
+            "en": "What is the main cause of the twinkling of stars?"
           },
           "options": [
-            {"hi": "100 J", "en": "100 J"},
-            {"hi": "600 J", "en": "600 J"},
-            {"hi": "6000 J", "en": "6000 J"},
-            {"hi": "1000 J", "en": "1000 J"}
+            { "hi": "तारों का हिलना", "en": "Movement of stars" },
+            { "hi": "वायुमंडलीय अपवर्तन", "en": "Atmospheric refraction" },
+            { "hi": "प्रकाश का परावर्तन", "en": "Reflection of light" },
+            { "hi": "तारों की दूरी", "en": "Distance of stars" }
           ],
-          "answer": {"hi": "6000 J", "en": "6000 J"}
+          "answer": { "hi": "वायुमंडलीय अपवर्तन", "en": "Atmospheric refraction" }
         },
         {
           "q": {
-            "hi": "किसी तीर को कमान से छोड़ने पर कमान की पेशीय ऊर्जा किसमें बदलती है?",
-            "en": "When an arrow is released from a bow, the muscular energy of the bow changes into?"
+            "hi": "ग्रह क्यों नहीं टिमटिमाते?",
+            "en": "Why do planets not twinkle?"
           },
           "options": [
-            {"hi": "स्थितिज ऊर्जा", "en": "Potential energy"},
-            {"hi": "गतिज ऊर्जा (Kinetic energy)", "en": "Kinetic energy"},
-            {"hi": "ध्वनि ऊर्जा", "en": "Sound energy"},
-            {"hi": "प्रकाश ऊर्जा", "en": "Light energy"}
+            { "hi": "वे बहुत छोटे हैं", "en": "They are very small" },
+            { "hi": "वे पृथ्वी के पास हैं", "en": "They are close to earth" },
+            { "hi": "उनमें अपना प्रकाश नहीं है", "en": "They don't have own light" },
+            { "hi": "वायुमंडल उन्हें नहीं रोकता", "en": "Atmosphere doesn't block them" }
           ],
-          "answer": {"hi": "गतिज ऊर्जा (Kinetic energy)", "en": "Kinetic energy"}
+          "answer": { "hi": "वे पृथ्वी के पास हैं", "en": "They are close to earth" }
         },
         {
           "q": {
-            "hi": "गुरुत्व बल के विरुद्ध किए गए कार्य का मान किस पर निर्भर करता है?",
-            "en": "The work done against gravity depends on?"
+            "hi": "अग्रिम सूर्योदय और विलंबित सूर्यास्त का क्या कारण है?",
+            "en": "What causes early sunrise and delayed sunset?"
           },
           "options": [
-            {"hi": "वस्तु के पथ पर", "en": "The path of the object"},
-            {"hi": "प्रारंभिक और अंतिम स्थितियों की ऊर्ध्वाधर ऊँचाई के अंतर पर", "en": "Vertical height difference between initial and final positions"},
-            {"hi": "वस्तु के रंग पर", "en": "The color of the object"},
-            {"hi": "हवा के दबाव पर", "en": "Air pressure"}
+            { "hi": "पृथ्वी का घूर्णन", "en": "Earth's rotation" },
+            { "hi": "वायुमंडलीय अपवर्तन", "en": "Atmospheric refraction" },
+            { "hi": "विक्षेपण", "en": "Dispersion" },
+            { "hi": "समुद्र का परावर्तन", "en": "Reflection from ocean" }
           ],
-          "answer": {"hi": "प्रारंभिक और अंतिम स्थितियों की ऊर्ध्वाधर ऊँचाई के अंतर पर", "en": "Vertical height difference between initial and final positions"}
+          "answer": { "hi": "वायुमंडलीय अपवर्तन", "en": "Atmospheric refraction" }
         },
         {
           "q": {
-            "hi": "शक्ति की परिभाषा 'P = W/t' में 't' क्या है?",
-            "en": "In the definition of power 'P = W/t', what is 't'?"
+            "hi": "वास्तविक सूर्योदय और आभासी सूर्योदय के बीच समय का अंतर कितना है?",
+            "en": "What is the time difference between actual and apparent sunrise?"
           },
           "options": [
-            {"hi": "तापमान", "en": "Temperature"},
-            {"hi": "तनाव", "en": "Tension"},
-            {"hi": "समय (Time)", "en": "Time"},
-            {"hi": "मोटाई", "en": "Thickness"}
+            { "hi": "5 मिनट", "en": "5 minutes" },
+            { "hi": "10 मिनट", "en": "10 minutes" },
+            { "hi": "2 मिनट", "en": "2 minutes" },
+            { "hi": "1 मिनट", "en": "1 minute" }
           ],
-          "answer": {"hi": "समय (Time)", "en": "Time"}
+          "answer": { "hi": "2 मिनट", "en": "2 minutes" }
         },
         {
           "q": {
-            "hi": "जेम्स वाट (James Watt) के सम्मान में किस मात्रक का नाम रखा गया है?",
-            "en": "Which unit is named in honor of James Watt?"
+            "hi": "कोलॉइडी कणों द्वारा प्रकाश के प्रकीर्णन की परिघटना क्या कहलाती है?",
+            "en": "The scattering of light by colloidal particles is called?"
           },
           "options": [
-            {"hi": "जूल", "en": "Joule"},
-            {"hi": "न्यूटन", "en": "Newton"},
-            {"hi": "वाट (Watt)", "en": "Watt"},
-            {"hi": "पास्कल", "en": "Pascal"}
+            { "hi": "न्यूटन प्रभाव", "en": "Newton effect" },
+            { "hi": "टिंडल प्रभाव", "en": "Tyndall effect" },
+            { "hi": "रमन प्रभाव", "en": "Raman effect" },
+            { "hi": "डॉप्लर प्रभाव", "en": "Doppler effect" }
           ],
-          "answer": {"hi": "वाट (Watt)", "en": "Watt"}
+          "answer": { "hi": "टिंडल प्रभाव", "en": "Tyndall effect" }
         },
         {
           "q": {
-            "hi": "यदि किसी वस्तु का द्रव्यमान 10 kg है और वह 5 m/s के वेग से चल रही है, तो उसकी गतिज ऊर्जा क्या होगी?",
-            "en": "If an object has a mass of 10 kg and moves at 5 m/s, what is its kinetic energy?"
+            "hi": "स्वच्छ आकाश का रंग नीला क्यों होता है?",
+            "en": "Why is the clear sky blue in color?"
           },
           "options": [
-            {"hi": "50 J", "en": "50 J"},
-            {"hi": "125 J", "en": "125 J"},
-            {"hi": "250 J", "en": "250 J"},
-            {"hi": "25 J", "en": "25 J"}
+            { "hi": "नीले प्रकाश का प्रकीर्णन अधिक होना", "en": "Higher scattering of blue light" },
+            { "hi": "समुद्र के पानी का रंग", "en": "Color of sea water" },
+            { "hi": "ओजोन परत के कारण", "en": "Due to ozone layer" },
+            { "hi": "बादलों के कारण", "en": "Due to clouds" }
           ],
-          "answer": {"hi": "125 J", "en": "125 J"}
+          "answer": { "hi": "नीले प्रकाश का प्रकीर्णन अधिक होना", "en": "Higher scattering of blue light" }
         },
         {
           "q": {
-            "hi": "खिलौना कार में चाबी भरने पर उसमें कौन सी ऊर्जा संचित होती है?",
-            "en": "What energy is stored in a toy car when you wind it up?"
+            "hi": "खतरे के संकेत (सिग्नल) का रंग लाल क्यों रखा जाता है?",
+            "en": "Why is the color of danger signals red?"
           },
           "options": [
-            {"hi": "गतिज ऊर्जा", "en": "Kinetic energy"},
-            {"hi": "स्थितिज ऊर्जा (Potential energy)", "en": "Potential energy"},
-            {"hi": "विद्युत ऊर्जा", "en": "Electrical energy"},
-            {"hi": "चुंबकीय ऊर्जा", "en": "Magnetic energy"}
+            { "hi": "लाल रंग सुंदर होता है", "en": "Red is beautiful" },
+            { "hi": "लाल रंग का प्रकीर्णन सबसे कम होता है", "en": "Red light is scattered the least" },
+            { "hi": "यह आंखों को चुभता नहीं", "en": "It doesn't hurt eyes" },
+            { "hi": "यह ऊर्जावान रंग है", "en": "It is an energetic color" }
           ],
-          "answer": {"hi": "स्थितिज ऊर्जा (Potential energy)", "en": "Potential energy"}
+          "answer": { "hi": "लाल रंग का प्रकीर्णन सबसे कम होता है", "en": "Red light is scattered the least" }
         },
         {
           "q": {
-            "hi": "वस्तु की गतिज ऊर्जा और स्थितिज ऊर्जा के बीच रूपांतरण को क्या कहते हैं?",
-            "en": "What is the transformation between kinetic and potential energy of an object called?"
+            "hi": "अंतरिक्ष यात्रियों को आकाश कैसा प्रतीत होता है?",
+            "en": "How does the sky appear to astronauts?"
           },
           "options": [
-            {"hi": "ऊर्जा का संरक्षण", "en": "Conservation of energy"},
-            {"hi": "ऊर्जा रूपांतरण (Energy transformation)", "en": "Energy transformation"},
-            {"hi": "ऊर्जा ह्रास", "en": "Energy loss"},
-            {"hi": "ऊर्जा सृजन", "en": "Energy creation"}
+            { "hi": "नीला", "en": "Blue" },
+            { "hi": "सफ़ेद", "en": "White" },
+            { "hi": "काला", "en": "Black" },
+            { "hi": "लाल", "en": "Red" }
           ],
-          "answer": {"hi": "ऊर्जा रूपांतरण (Energy transformation)", "en": "Energy transformation"}
+          "answer": { "hi": "काला", "en": "Black" }
         },
         {
           "q": {
-            "hi": "घरों में आने वाले बिजली के बिल में 1 'यूनिट' का क्या अर्थ है?",
-            "en": "What does 1 'Unit' mean in a household electricity bill?"
+            "hi": "सूर्योदय के समय सूर्य रक्ताभ (लाल) क्यों दिखाई देता है?",
+            "en": "Why does the sun appear reddish at sunrise?"
           },
           "options": [
-            {"hi": "1 जूल", "en": "1 Joule"},
-            {"hi": "1 वाट", "en": "1 Watt"},
-            {"hi": "1 kWh", "en": "1 kWh"},
-            {"hi": "1 एम्पीयर", "en": "1 Ampere"}
+            { "hi": "सूर्य बहुत गरम होता है", "en": "Sun is very hot" },
+            { "hi": "नीले रंग के प्रकाश का अधिकांश प्रकीर्णन होना", "en": "Most blue light being scattered away" },
+            { "hi": "धूल के कारण", "en": "Due to dust" },
+            { "hi": "मंगल ग्रह के प्रभाव से", "en": "Due to Mars' effect" }
           ],
-          "answer": {"hi": "1 kWh", "en": "1 kWh"}
+          "answer": { "hi": "नीले रंग के प्रकाश का अधिकांश प्रकीर्णन होना", "en": "Most blue light being scattered away" }
         },
         {
           "q": {
-            "hi": "कार्य किस प्रकार की राशि है?",
-            "en": "What type of quantity is work?"
+            "hi": "अत्यधिक ऊँचाई पर प्रकीर्णन कैसा होता है?",
+            "en": "How is scattering at very high altitudes?"
           },
           "options": [
-            {"hi": "सदिश राशि", "en": "Vector quantity"},
-            {"hi": "अदिश राशि (Scalar quantity)", "en": "Scalar quantity"},
-            {"hi": "मूल राशि", "en": "Base quantity"},
-            {"hi": "कोई नहीं", "en": "None"}
+            { "hi": "बहुत अधिक", "en": "Very high" },
+            { "hi": "सामान्य", "en": "Normal" },
+            { "hi": "सुस्पष्ट नहीं (नगण्य)", "en": "Not prominent (negligible)" },
+            { "hi": "लाल रंग का", "en": "Reddish" }
           ],
-          "answer": {"hi": "अदिश राशि (Scalar quantity)", "en": "Scalar quantity"}
+          "answer": { "hi": "सुस्पष्ट नहीं (नगण्य)", "en": "Not prominent (negligible)" }
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "यदि बल विस्थापन की दिशा के लंबवत (90°) लग रहा है, तो किया गया कार्य ______ होगा।",
-            "en": "If the force acts perpendicular (90°) to the displacement, the work done will be ______."
+            "hi": "अभिनेत्र लेंस किस पदार्थ का बना होता है?",
+            "en": "Of what material is the eye lens made?"
           },
           "options": [
-            {"hi": "धनात्मक", "en": "Positive"},
-            {"hi": "ऋणात्मक", "en": "Negative"},
-            {"hi": "शून्य (Zero)", "en": "Zero"},
-            {"hi": "अधिकतम", "en": "Maximum"}
+            { "hi": "काँच", "en": "Glass" },
+            { "hi": "रेशेदार जेलीवत पदार्थ", "en": "Fibrous jelly-like material" },
+            { "hi": "प्लास्टिक", "en": "Plastic" },
+            { "hi": "तरल पानी", "en": "Liquid water" }
           ],
-          "answer": {"hi": "शून्य (Zero)", "en": "Zero"}
+          "answer": { "hi": "रेशेदार जेलीवत पदार्थ", "en": "Fibrous jelly-like material" }
         },
         {
           "q": {
-            "hi": "ऊर्जा को न तो बनाया जा सकता है और न ही नष्ट किया जा सकता है, यह कौन सा नियम है?",
-            "en": "Energy can neither be created nor destroyed, which law is this?"
+            "hi": "रेटिना पर उत्पन्न विद्युत सिग्नलों को मस्तिष्क तक कौन पहुँचाता है?",
+            "en": "Who carries the electrical signals from the retina to the brain?"
           },
           "options": [
-            {"hi": "संवेग संरक्षण", "en": "Conservation of momentum"},
-            {"hi": "द्रव्यमान संरक्षण", "en": "Conservation of mass"},
-            {"hi": "ऊर्जा संरक्षण का नियम (Law of Conservation of Energy)", "en": "Law of Conservation of Energy"},
-            {"hi": "न्यूटन का नियम", "en": "Newton's law"}
+            { "hi": "पुतली", "en": "Pupil" },
+            { "hi": "दृक् तंत्रिका (Optic nerve)", "en": "Optic nerve" },
+            { "hi": "रक्त वाहिकाएं", "en": "Blood vessels" },
+            { "hi": "पक्ष्माभी पेशियाँ", "en": "Ciliary muscles" }
           ],
-          "answer": {"hi": "ऊर्जा संरक्षण का नियम (Law of Conservation of Energy)", "en": "Law of Conservation of Energy"}
+          "answer": { "hi": "दृक् तंत्रिका (Optic nerve)", "en": "Optic nerve" }
         },
         {
           "q": {
-            "hi": "एक मशीन 20 सेकंड में 500 जूल कार्य करती है। उसकी शक्ति क्या होगी?",
-            "en": "A machine does 500 Joules of work in 20 seconds. What is its power?"
+            "hi": "दोपहर के समय सूर्य श्वेत क्यों प्रतीत होता है?",
+            "en": "Why does the sun appear white at noon?"
           },
           "options": [
-            {"hi": "10 W", "en": "10 W"},
-            {"hi": "25 W", "en": "25 W"},
-            {"hi": "50 W", "en": "50 W"},
-            {"hi": "100 W", "en": "100 W"}
+            { "hi": "सूर्य ठंडा हो जाता है", "en": "Sun becomes cool" },
+            { "hi": "प्रकीर्णन बहुत कम होना", "en": "Scattering being minimal" },
+            { "hi": "बादलों के कारण", "en": "Due to clouds" },
+            { "hi": "वायु के अभाव में", "en": "Absence of air" }
           ],
-          "answer": {"hi": "25 W", "en": "25 W"}
+          "answer": { "hi": "प्रकीर्णन बहुत कम होना", "en": "Scattering being minimal" }
         },
         {
           "q": {
-            "hi": "घर्षण बल द्वारा किया गया कार्य हमेशा कैसा होता है?",
-            "en": "Work done by frictional force is always?"
+            "hi": "वायुमंडल में कौन-से कण नीले प्रकाश को प्रबलता से प्रकीर्ण करते हैं?",
+            "en": "Which particles in the atmosphere strongly scatter blue light?"
           },
           "options": [
-            {"hi": "धनात्मक", "en": "Positive"},
-            {"hi": "ऋणात्मक (Negative)", "en": "Negative"},
-            {"hi": "शून्य", "en": "Zero"},
-            {"hi": "अनंत", "en": "Infinite"}
+            { "hi": "बड़े धूल के कण", "en": "Large dust particles" },
+            { "hi": "वायु के सूक्ष्म अणु", "en": "Fine air molecules" },
+            { "hi": "बारिश की बूँदें", "en": "Rain drops" },
+            { "hi": "पक्षी", "en": "Birds" }
           ],
-          "answer": {"hi": "ऋणात्मक (Negative)", "en": "Negative"}
+          "answer": { "hi": "वायु के सूक्ष्म अणु", "en": "Fine air molecules" }
         },
         {
           "q": {
-            "hi": "ऊर्जा के विभिन्न रूप क्या हो सकते हैं?",
-            "en": "What can be the different forms of energy?"
+            "hi": "निकट-दृष्टि दोष होने का एक कारण अभिनेत्र लेंस की वक्रता का क्या होना है?",
+            "en": "One cause of Myopia is the curvature of eye lens becoming?"
           },
           "options": [
-            {"hi": "केवल यांत्रिक ऊर्जा", "en": "Only mechanical energy"},
-            {"hi": "प्रकाश, ऊष्मा और विद्युत ऊर्जा", "en": "Light, heat and electrical energy"},
-            {"hi": "केवल गतिज ऊर्जा", "en": "Only kinetic energy"},
-            {"hi": "उपरोक्त सभी (All of above)", "en": "All of the above"}
+            { "hi": "अत्यधिक होना", "en": "Excessive" },
+            { "hi": "शून्य होना", "en": "Zero" },
+            { "hi": "कम होना", "en": "Less" },
+            { "hi": "समाप्त होना", "en": "Finished" }
           ],
-          "answer": {"hi": "उपरोक्त सभी (All of above)", "en": "All of the above"}
+          "answer": { "hi": "अत्यधिक होना", "en": "Excessive" }
         },
         {
           "q": {
-            "hi": "शक्ति का बड़ा मात्रक 'अश्व शक्ति' (Horse Power) में कितने वाट होते हैं?",
-            "en": "How many Watts are in the unit 'Horse Power'?"
+            "hi": "दीर्घ-दृष्टि दोषयुक्त नेत्र में पास की वस्तु का प्रतिबिंब रेटिना के कहाँ बनता है?",
+            "en": "In Hypermetropic eye, the image of a nearby object forms where relative to retina?"
           },
           "options": [
-            {"hi": "500 W", "en": "500 W"},
-            {"hi": "746 W", "en": "746 W"},
-            {"hi": "1000 W", "en": "1000 W"},
-            {"hi": "750 W", "en": "750 W"}
+            { "hi": "सामने", "en": "In front" },
+            { "hi": "पीछे", "en": "Behind" },
+            { "hi": "ऊपर", "en": "Above" },
+            { "hi": "नीचे", "en": "Below" }
           ],
-          "answer": {"hi": "746 W", "en": "746 W"}
+          "answer": { "hi": "पीछे", "en": "Behind" }
         },
         {
           "q": {
-            "hi": "सरल लोलक (Simple Pendulum) के दोलन के दौरान ऊर्जा का रूपांतरण होता है:",
-            "en": "During the oscillation of a simple pendulum, energy transforms between:"
+            "hi": "आँख की पुतली किसकी भांति कार्य करती है?",
+            "en": "The pupil of the eye acts like a?"
           },
           "options": [
-            {"hi": "स्थितिज और गतिज ऊर्जा", "en": "Potential and Kinetic energy"},
-            {"hi": "ध्वनि और प्रकाश ऊर्जा", "en": "Sound and Light energy"},
-            {"hi": "विद्युत और रासायनिक ऊर्जा", "en": "Electrical and Chemical energy"},
-            {"hi": "केवल ऊष्मा ऊर्जा", "en": "Only heat energy"}
+            { "hi": "स्थिर लेंस", "en": "Fixed lens" },
+            { "hi": "परिवर्ती द्वारक", "en": "Variable aperture" },
+            { "hi": "दर्पण", "en": "Mirror" },
+            { "hi": "दीवार", "en": "Wall" }
           ],
-          "answer": {"hi": "स्थितिज और गतिज ऊर्जा", "en": "Potential and Kinetic energy"}
+          "answer": { "hi": "परिवर्ती द्वारक", "en": "Variable aperture" }
         },
         {
           "q": {
-            "hi": "जब हम किसी वस्तु को जमीन से ऊपर उठाते हैं, तो हम किस बल के विरुद्ध कार्य करते हैं?",
-            "en": "When we lift an object from the ground, we work against which force?"
+            "hi": "अभिनेत्र लेंस की फोकस दूरी में सूक्ष्म समायोजन किसके द्वारा किया जाता है?",
+            "en": "Who makes fine adjustments to the focal length of the eye lens?"
           },
           "options": [
-            {"hi": "घर्षण बल", "en": "Friction force"},
-            {"hi": "गुरुत्व बल (Gravitational force)", "en": "Gravitational force"},
-            {"hi": "चुंबकीय बल", "en": "Magnetic force"},
-            {"hi": "विद्युत बल", "en": "Electric force"}
+            { "hi": "दृक् तंत्रिका", "en": "Optic nerve" },
+            { "hi": "पक्ष्माभी पेशियाँ (Ciliary muscles)", "en": "Ciliary muscles" },
+            { "hi": "कॉर्निया", "en": "Cornea" },
+            { "hi": "पलकें", "en": "Eyelids" }
           ],
-          "answer": {"hi": "गुरुत्व बल (Gravitational force)", "en": "Gravitational force"}
+          "answer": { "hi": "पक्ष्माभी पेशियाँ (Ciliary muscles)", "en": "Ciliary muscles" }
         },
         {
           "q": {
-            "hi": "क्या कोई वस्तु बिना ऊर्जा के कार्य कर सकती है?",
-            "en": "Can an object do work without energy?"
+            "hi": "स्वच्छ मंडल (कॉर्निया) क्या है?",
+            "en": "What is the Cornea?"
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं (No)", "en": "No"},
-            {"hi": "केवल बड़ी मशीनें", "en": "Only big machines"},
-            {"hi": "कह नहीं सकते", "en": "Cannot say"}
+            { "hi": "एक पेशी", "en": "A muscle" },
+            { "hi": "पतली झिल्ली", "en": "A thin membrane" },
+            { "hi": "एक हड्डी", "en": "A bone" },
+            { "hi": "एक तरल", "en": "A liquid" }
           ],
-          "answer": {"hi": "नहीं (No)", "en": "No"}
+          "answer": { "hi": "पतली झिल्ली", "en": "A thin membrane" }
         },
         {
           "q": {
-            "hi": "दैनिक जीवन में भोजन हमें क्या प्रदान करता है?",
-            "en": "What does food provide us in daily life?"
+            "hi": "काँच के प्रिज़्म द्वारा श्वेत प्रकाश के विक्षेपण में लाल प्रकाश कैसा झुकता है?",
+            "en": "In dispersion by a prism, how does red light bend?"
           },
           "options": [
-            {"hi": "केवल स्वाद", "en": "Only taste"},
-            {"hi": "ऊर्जा (Energy)", "en": "Energy"},
-            {"hi": "केवल वजन", "en": "Only weight"},
-            {"hi": "नींद", "en": "Sleep"}
+            { "hi": "सबसे अधिक", "en": "The most" },
+            { "hi": "सबसे कम", "en": "The least" },
+            { "hi": "बिल्कुल नहीं", "en": "Not at all" },
+            { "hi": "बैंगनी के बराबर", "en": "Same as violet" }
           ],
-          "answer": {"hi": "ऊर्जा (Energy)", "en": "Energy"}
+          "answer": { "hi": "सबसे कम", "en": "The least" }
         }
       ]
     },
