@@ -662,64 +662,276 @@
         }
       ]
     },
-    "chapter02": {
+    "chapter02":{
       "section1": [
         {
           "q": {
-            "hi": "एक बीजीय व्यंजक जिसमें चर के घातांक केवल पूर्ण संख्याएँ हों, उसे क्या कहा जाता है?",
-            "en": "An algebraic expression in which the exponents of variables are only whole numbers is called?"
+            "hi": "चर x के बहुपद p(x) में x की उच्चतम घात क्या कहलाती है?",
+            "en": "In a polynomial p(x) in variable x, what is the highest power of x called?"
           },
           "options": [
-            {"hi": "समीकरण", "en": "Equation"},
-            {"hi": "बहुपद", "en": "Polynomial"},
-            {"hi": "सर्वसमिका", "en": "Identity"},
-            {"hi": "गुणांक", "en": "Coefficient"}
+            {"hi": "गुणांक", "en": "Coefficient"},
+            {"hi": "बहुपद की घात (Degree)", "en": "Degree of the polynomial"},
+            {"hi": "अचर पद", "en": "Constant term"},
+            {"hi": "शून्यक", "en": "Zero"}
           ],
-          "answer": {"hi": "बहुपद", "en": "Polynomial"}
+          "answer": {"hi": "बहुपद की घात (Degree)", "en": "Degree of the polynomial"}
         },
         {
           "q": {
-            "hi": "बहुपद $x^3 - x^2 + 4x + 7$ में $x^2$ का गुणांक क्या है?",
-            "en": "What is the coefficient of $x^2$ in the polynomial $x^3 - x^2 + 4x + 7$?"
+            "hi": "व्यंजक (4x + 2) चर x में कितने घात का बहुपद है?",
+            "en": "The expression (4x + 2) is a polynomial of what degree in variable x?"
           },
           "options": [
             {"hi": "1", "en": "1"},
-            {"hi": "-1", "en": "-1"},
-            {"hi": "4", "en": "4"},
-            {"hi": "7", "en": "7"}
+            {"hi": "2", "en": "2"},
+            {"hi": "0", "en": "0"},
+            {"hi": "3", "en": "3"}
           ],
-          "answer": {"hi": "-1", "en": "-1"}
+          "answer": {"hi": "1", "en": "1"}
         },
         {
           "q": {
-            "hi": "केवल एक पद वाले बहुपद को क्या कहा जाता है?",
-            "en": "What is a polynomial with only one term called?"
+            "hi": "निम्नलिखित में से कौन सा व्यंजक एक बहुपद नहीं है?",
+            "en": "Which of the following expressions is not a polynomial?"
           },
           "options": [
-            {"hi": "द्विपद", "en": "Binomial"},
-            {"hi": "त्रिपद", "en": "Trinomial"},
-            {"hi": "एकपदी", "en": "Monomial"},
-            {"hi": "रैखिक", "en": "Linear"}
+            {"hi": "2x^2 - 3x + 4", "en": "2x^2 - 3x + 4"},
+            {"hi": "4x + 2", "en": "4x + 2"},
+            {"hi": "1/(x - 1)", "en": "1/(x - 1)"},
+            {"hi": "x^3 + 1", "en": "x^3 + 1"}
           ],
-          "answer": {"hi": "एकपदी", "en": "Monomial"}
+          "answer": {"hi": "1/(x - 1)", "en": "1/(x - 1)"}
         },
         {
           "q": {
-            "hi": "केवल दो पदों वाले बहुपद को क्या कहा जाता है?",
-            "en": "A polynomial with exactly two terms is called?"
+            "hi": "घात 1 के बहुपद को क्या कहते हैं?",
+            "en": "What is a polynomial of degree 1 called?"
           },
           "options": [
-            {"hi": "एकपदी", "en": "Monomial"},
-            {"hi": "द्विपद", "en": "Binomial"},
-            {"hi": "त्रिपद", "en": "Trinomial"},
+            {"hi": "द्विघात बहुपद", "en": "Quadratic polynomial"},
+            {"hi": "रैखिक बहुपद (Linear polynomial)", "en": "Linear polynomial"},
+            {"hi": "त्रिघात बहुपद", "en": "Cubic polynomial"},
             {"hi": "शून्य बहुपद", "en": "Zero polynomial"}
           ],
-          "answer": {"hi": "द्विपद", "en": "Binomial"}
+          "answer": {"hi": "रैखिक बहुपद (Linear polynomial)", "en": "Linear polynomial"}
         },
         {
           "q": {
-            "hi": "बहुपद $5x^3 + 4x^2 + 7x$ की घात क्या है?",
-            "en": "What is the degree of the polynomial $5x^3 + 4x^2 + 7x$?"
+            "hi": "घात 2 के बहुपद को क्या कहा जाता है?",
+            "en": "What is a polynomial of degree 2 called?"
+          },
+          "options": [
+            {"hi": "रैखिक बहुपद", "en": "Linear polynomial"},
+            {"hi": "त्रिघात बहुपद", "en": "Cubic polynomial"},
+            {"hi": "द्विघात बहुपद (Quadratic polynomial)", "en": "Quadratic polynomial"},
+            {"hi": "अचर बहुपद", "en": "Constant polynomial"}
+          ],
+          "answer": {"hi": "द्विघात बहुपद (Quadratic polynomial)", "en": "Quadratic polynomial"}
+        },
+        {
+          "q": {
+            "hi": "द्विघात (quadratic) शब्द किस मूल शब्द से बना है, जिसका अर्थ 'वर्ग' होता है?",
+            "en": "The word quadratic is derived from which root word, which means 'square'?"
+          },
+          "options": [
+            {"hi": "क्वाड्रेट (quadrate)", "en": "Quadrate"},
+            {"hi": "क्वाड्रेंट", "en": "Quadrant"},
+            {"hi": "क्यूबिक", "en": "Cubic"},
+            {"hi": "लीनियर", "en": "Linear"}
+          ],
+          "answer": {"hi": "क्वाड्रेट (quadrate)", "en": "Quadrate"}
+        },
+        {
+          "q": {
+            "hi": "x में एक द्विघात बहुपद का सबसे व्यापक रूप क्या है, जहाँ a \u2260 0 है?",
+            "en": "What is the most general form of a quadratic polynomial in x, where a \u2260 0?"
+          },
+          "options": [
+            {"hi": "ax + b", "en": "ax + b"},
+            {"hi": "ax^2 + bx + c", "en": "ax^2 + bx + c"},
+            {"hi": "ax^3 + bx^2 + cx + d", "en": "ax^3 + bx^2 + cx + d"},
+            {"hi": "ax^2 + b", "en": "ax^2 + b"}
+          ],
+          "answer": {"hi": "ax^2 + bx + c", "en": "ax^2 + bx + c"}
+        },
+        {
+          "q": {
+            "hi": "घात 3 का बहुपद क्या कहलाता है?",
+            "en": "What is a polynomial of degree 3 called?"
+          },
+          "options": [
+            {"hi": "रैखिक बहुपद", "en": "Linear polynomial"},
+            {"hi": "द्विघात बहुपद", "en": "Quadratic polynomial"},
+            {"hi": "त्रिघात बहुपद (Cubic polynomial)", "en": "Cubic polynomial"},
+            {"hi": "द्विपद", "en": "Binomial"}
+          ],
+          "answer": {"hi": "त्रिघात बहुपद (Cubic polynomial)", "en": "Cubic polynomial"}
+        },
+        {
+          "q": {
+            "hi": "त्रिघात बहुपद का सबसे व्यापक रूप ax^3 + bx^2 + cx + d है, यहाँ कौन सा प्रतिबंध आवश्यक है?",
+            "en": "The most general form of a cubic polynomial is ax^3 + bx^2 + cx + d, which condition is necessary here?"
+          },
+          "options": [
+            {"hi": "d \u2260 0", "en": "d \u2260 0"},
+            {"hi": "c \u2260 0", "en": "c \u2260 0"},
+            {"hi": "a \u2260 0", "en": "a \u2260 0"},
+            {"hi": "b \u2260 0", "en": "b \u2260 0"}
+          ],
+          "answer": {"hi": "a \u2260 0", "en": "a \u2260 0"}
+        },
+        {
+          "q": {
+            "hi": "यदि p(x) = x^2 - 3x - 4 हो, तो p(2) का मान क्या होगा?",
+            "en": "If p(x) = x^2 - 3x - 4, what will be the value of p(2)?"
+          },
+          "options": [
+            {"hi": "-6", "en": "-6"},
+            {"hi": "0", "en": "0"},
+            {"hi": "-4", "en": "-4"},
+            {"hi": "4", "en": "4"}
+          ],
+          "answer": {"hi": "-6", "en": "-6"}
+        }
+      ],
+      "section2": [
+        {
+          "q": {
+            "hi": "एक वास्तविक संख्या k बहुपद p(x) का शून्यक (zero) कहलाती है, यदि p(k) बराबर हो:",
+            "en": "A real number k is called a zero of a polynomial p(x) if p(k) is equal to:"
+          },
+          "options": [
+            {"hi": "1", "en": "1"},
+            {"hi": "0", "en": "0"},
+            {"hi": "-1", "en": "-1"},
+            {"hi": "k", "en": "k"}
+          ],
+          "answer": {"hi": "0", "en": "0"}
+        },
+        {
+          "q": {
+            "hi": "बहुपद p(x) = x^2 - 3x - 4 के शून्यक कौन से हैं क्योंकि इन पर p(x) का मान 0 हो जाता है?",
+            "en": "What are the zeroes of the polynomial p(x) = x^2 - 3x - 4 since the value of p(x) becomes 0 at them?"
+          },
+          "options": [
+            {"hi": "1 और 4", "en": "1 and 4"},
+            {"hi": "-1 और 4", "en": "-1 and 4"},
+            {"hi": "-1 और -4", "en": "-1 and -4"},
+            {"hi": "0 और 2", "en": "0 and 2"}
+          ],
+          "answer": {"hi": "-1 और 4", "en": "-1 and 4"}
+        },
+        {
+          "q": {
+            "hi": "रैखिक बहुपद ax + b का शून्यक किसके बराबर होता है?",
+            "en": "The zero of the linear polynomial ax + b is equal to what?"
+          },
+          "options": [
+            {"hi": "b/a", "en": "b/a"},
+            {"hi": "-b/a", "en": "-b/a"},
+            {"hi": "-a/b", "en": "-a/b"},
+            {"hi": "a/b", "en": "a/b"}
+          ],
+          "answer": {"hi": "-b/a", "en": "-b/a"}
+        },
+        {
+          "q": {
+            "hi": "रैखिक बहुपद के शून्यक का सूत्र है: - (अचर पद) / (किसका गुणांक)?",
+            "en": "The formula for the zero of a linear polynomial is: - (constant term) / (coefficient of what)?"
+          },
+          "options": [
+            {"hi": "x^2 का गुणांक", "en": "coefficient of x^2"},
+            {"hi": "x का गुणांक", "en": "coefficient of x"},
+            {"hi": "अचर पद", "en": "constant term"},
+            {"hi": "y का गुणांक", "en": "coefficient of y"}
+          ],
+          "answer": {"hi": "x का गुणांक", "en": "coefficient of x"}
+        },
+        {
+          "q": {
+            "hi": "एक रैखिक बहुपद y = ax + b का आलेख (graph) ज्यामितीय रूप से क्या होता है?",
+            "en": "Geometrically, what is the graph of a linear polynomial y = ax + b?"
+          },
+          "options": [
+            {"hi": "एक वक्र", "en": "A curve"},
+            {"hi": "एक सरल रेखा (Straight line)", "en": "A straight line"},
+            {"hi": "एक वृत्त", "en": "A circle"},
+            {"hi": "एक परवलय", "en": "A parabola"}
+          ],
+          "answer": {"hi": "एक सरल रेखा (Straight line)", "en": "A straight line"}
+        },
+        {
+          "q": {
+            "hi": "बहुपद 2x + 3 का शून्यक -3/2 है। यह मान उस बिंदु का x-निर्देशांक है जहाँ y = 2x + 3 का ग्राफ किस अक्ष को प्रतिच्छेद करता है?",
+            "en": "The zero of the polynomial 2x + 3 is -3/2. This value is the x-coordinate of the point where the graph of y = 2x + 3 intersects which axis?"
+          },
+          "options": [
+            {"hi": "y-अक्ष", "en": "y-axis"},
+            {"hi": "x-अक्ष", "en": "x-axis"},
+            {"hi": "मूल बिंदु", "en": "Origin"},
+            {"hi": "दोनों अक्ष", "en": "Both axes"}
+          ],
+          "answer": {"hi": "x-अक्ष", "en": "x-axis"}
+        },
+        {
+          "q": {
+            "hi": "एक द्विघात बहुपद y = ax^2 + bx + c का ग्राफ जिस आकार का होता है, उसे क्या कहते हैं?",
+            "en": "The shape of the graph of a quadratic polynomial y = ax^2 + bx + c is called what?"
+          },
+          "options": [
+            {"hi": "दीर्घवृत्त", "en": "Ellipse"},
+            {"hi": "सरल रेखा", "en": "Straight line"},
+            {"hi": "परवलय (Parabola)", "en": "Parabola"},
+            {"hi": "अतिपरवलय", "en": "Hyperbola"}
+          ],
+          "answer": {"hi": "परवलय (Parabola)", "en": "Parabola"}
+        },
+        {
+          "q": {
+            "hi": "द्विघात बहुपद ax^2 + bx + c में, यदि a > 0 हो, तो परवलय का मुख किस ओर खुलता है?",
+            "en": "In the quadratic polynomial ax^2 + bx + c, if a > 0, which way does the parabola open?"
+          },
+          "options": [
+            {"hi": "नीचे की ओर", "en": "Downward"},
+            {"hi": "ऊपर की ओर (Upward)", "en": "Upward"},
+            {"hi": "बाईं ओर", "en": "To the left"},
+            {"hi": "दाईं ओर", "en": "To the right"}
+          ],
+          "answer": {"hi": "ऊपर की ओर (Upward)", "en": "Upward"}
+        },
+        {
+          "q": {
+            "hi": "द्विघात बहुपद ax^2 + bx + c में, यदि a < 0 हो, तो परवलय का आकार कैसा होता है?",
+            "en": "In the quadratic polynomial ax^2 + bx + c, if a < 0, what is the shape of the parabola?"
+          },
+          "options": [
+            {"hi": "ऊपर की ओर खुला", "en": "Open upward"},
+            {"hi": "नीचे की ओर खुला (Open downward)", "en": "Open downward"},
+            {"hi": "सरल रेखा", "en": "Straight line"},
+            {"hi": "वृत्ताकार", "en": "Circular"}
+          ],
+          "answer": {"hi": "नीचे की ओर खुला (Open downward)", "en": "Open downward"}
+        },
+        {
+          "q": {
+            "hi": "यदि किसी द्विघात बहुपद का ग्राफ x-अक्ष को कहीं पर भी नहीं काटता है, तो उस बहुपद के शून्यकों की संख्या क्या होगी?",
+            "en": "If the graph of a quadratic polynomial does not intersect the x-axis anywhere, what will be the number of zeroes of that polynomial?"
+          },
+          "options": [
+            {"hi": "2", "en": "2"},
+            {"hi": "1", "en": "1"},
+            {"hi": "कोई शून्यक नहीं (No zero)", "en": "No zero"},
+            {"hi": "अनंत", "en": "Infinite"}
+          ],
+          "answer": {"hi": "कोई शून्यक नहीं (No zero)", "en": "No zero"}
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "घात 2 के किसी बहुपद के अधिकतम कितने शून्यक हो सकते हैं?",
+            "en": "What is the maximum number of zeroes a polynomial of degree 2 can have?"
           },
           "options": [
             {"hi": "1", "en": "1"},
@@ -727,600 +939,388 @@
             {"hi": "3", "en": "3"},
             {"hi": "0", "en": "0"}
           ],
+          "answer": {"hi": "2", "en": "2"}
+        },
+        {
+          "q": {
+            "hi": "घात 3 के किसी त्रिघात बहुपद के अधिक से अधिक कितने शून्यक हो सकते हैं?",
+            "en": "What is the maximum number of zeroes a cubic polynomial of degree 3 can have?"
+          },
+          "options": [
+            {"hi": "2", "en": "2"},
+            {"hi": "3", "en": "3"},
+            {"hi": "4", "en": "4"},
+            {"hi": "1", "en": "1"}
+          ],
           "answer": {"hi": "3", "en": "3"}
         },
         {
           "q": {
-            "hi": "एक शून्येतर अचर बहुपद की घात क्या होती है?",
-            "en": "What is the degree of a non-zero constant polynomial?"
+            "hi": "व्यापक रूप में, घात n के दिए गए बहुपद p(x) के लिए, y = p(x) का ग्राफ x-अक्ष को अधिक से अधिक कितने बिंदुओं पर प्रतिच्छेद कर सकता है?",
+            "en": "In general, for a given polynomial p(x) of degree n, the graph of y = p(x) can intersect the x-axis at most at how many points?"
+          },
+          "options": [
+            {"hi": "n बिंदुओं पर", "en": "n points"},
+            {"hi": "n + 1 बिंदुओं पर", "en": "n + 1 points"},
+            {"hi": "n - 1 बिंदुओं पर", "en": "n - 1 points"},
+            {"hi": "2n बिंदुओं पर", "en": "2n points"}
+          ],
+          "answer": {"hi": "n बिंदुओं पर", "en": "n points"}
+        },
+        {
+          "q": {
+            "hi": "यदि एक ग्राफ x-अक्ष को तीन अलग-अलग बिंदुओं पर प्रतिच्छेद करता है, तो उस बहुपद के शून्यकों की संख्या कितनी होगी?",
+            "en": "If a graph intersects the x-axis at three distinct points, what will be the number of zeroes of that polynomial?"
           },
           "options": [
             {"hi": "1", "en": "1"},
-            {"hi": "0", "en": "0"},
-            {"hi": "अपरिभाषित", "en": "Undefined"},
-            {"hi": "2", "en": "2"}
+            {"hi": "2", "en": "2"},
+            {"hi": "3", "en": "3"},
+            {"hi": "4", "en": "4"}
           ],
-          "answer": {"hi": "0", "en": "0"}
+          "answer": {"hi": "3", "en": "3"}
         },
         {
           "q": {
-            "hi": "एक घात वाले बहुपद को क्या कहा जाता है?",
-            "en": "A polynomial of degree one is called?"
+            "hi": "द्विघात बहुपद 2x^2 - 8x + 6 के शून्यकों का योग (Sum of zeroes) क्या होगा?",
+            "en": "What will be the sum of zeroes of the quadratic polynomial 2x^2 - 8x + 6?"
           },
           "options": [
-            {"hi": "द्विघाती बहुपद", "en": "Quadratic polynomial"},
-            {"hi": "त्रिघाती बहुपद", "en": "Cubic polynomial"},
-            {"hi": "रैखिक बहुपद", "en": "Linear polynomial"},
-            {"hi": "शून्य बहुपद", "en": "Zero polynomial"}
+            {"hi": "3", "en": "3"},
+            {"hi": "4", "en": "4"},
+            {"hi": "-4", "en": "-4"},
+            {"hi": "6", "en": "6"}
           ],
-          "answer": {"hi": "रैखिक बहुपद", "en": "Linear polynomial"}
+          "answer": {"hi": "4", "en": "4"}
         },
         {
           "q": {
-            "hi": "दो घात वाले बहुपद को क्या कहा जाता है?",
-            "en": "A polynomial of degree two is called?"
-          },
-          "options": [
-            {"hi": "रैखिक बहुपद", "en": "Linear polynomial"},
-            {"hi": "द्विघाती बहुपद", "en": "Quadratic polynomial"},
-            {"hi": "त्रिघाती बहुपद", "en": "Cubic polynomial"},
-            {"hi": "द्विपद", "en": "Binomial"}
-          ],
-          "answer": {"hi": "द्विघाती बहुपद", "en": "Quadratic polynomial"}
-        },
-        {
-          "q": {
-            "hi": "शून्य बहुपद की घात क्या होती है?",
-            "en": "What is the degree of a zero polynomial?"
-          },
-          "options": [
-            {"hi": "0", "en": "0"},
-            {"hi": "1", "en": "1"},
-            {"hi": "परिभाषित नहीं है", "en": "Not defined"},
-            {"hi": "अनंत", "en": "Infinite"}
-          ],
-          "answer": {"hi": "परिभाषित नहीं है", "en": "Not defined"}
-        },
-        {
-          "q": {
-            "hi": "व्यंजक $x + \\frac{1}{x}$ बहुपद क्यों नहीं है?",
-            "en": "Why is the expression $x + \\frac{1}{x}$ not a polynomial?"
-          },
-          "options": [
-            {"hi": "इसमें दो पद हैं", "en": "It has two terms"},
-            {"hi": "चर का घातांक पूर्ण संख्या नहीं है", "en": "The exponent of variable is not a whole number"},
-            {"hi": "यह एक समीकरण है", "en": "It is an equation"},
-            {"hi": "इसमें अचर पद नहीं है", "en": "It has no constant term"}
-          ],
-          "answer": {"hi": "चर का घातांक पूर्ण संख्या नहीं है", "en": "The exponent of variable is not a whole number"}
-        }
-      ],
-      "section2": [
-        {
-          "q": {
-            "hi": "यदि $p(x) = x - 1$ है, तो $p(1)$ का मान क्या होगा?",
-            "en": "If $p(x) = x - 1$, what will be the value of $p(1)$?"
-          },
-          "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "0", "en": "0"},
-            {"hi": "-1", "en": "-1"},
-            {"hi": "2", "en": "2"}
-          ],
-          "answer": {"hi": "0", "en": "0"}
-        },
-        {
-          "q": {
-            "hi": "बहुपद $p(x)$ का शून्यक क्या है?",
-            "en": "What is a zero of a polynomial $p(x)$?"
-          },
-          "options": [
-            {"hi": "वह संख्या c जिससे $p(c)=0$ हो", "en": "A number c such that $p(c)=0$"},
-            {"hi": "वह संख्या जिससे बहुपद को गुणा किया जाए", "en": "A number by which the polynomial is multiplied"},
-            {"hi": "बहुपद का पहला पद", "en": "The first term of the polynomial"},
-            {"hi": "बहुपद की घात", "en": "The degree of the polynomial"}
-          ],
-          "answer": {"hi": "वह संख्या c जिससे $p(c)=0$ हो", "en": "A number c such that $p(c)=0"}
-        },
-        {
-          "q": {
-            "hi": "बहुपद $p(x) = 2x + 1$ का शून्यक ज्ञात कीजिए।",
-            "en": "Find the zero of the polynomial $p(x) = 2x + 1$."
-          },
-          "options": [
-            {"hi": "1/2", "en": "1/2"},
-            {"hi": "-1/2", "en": "-1/2"},
-            {"hi": "1", "en": "1"},
-            {"hi": "-1", "en": "-1"}
-          ],
-          "answer": {"hi": "-1/2", "en": "-1/2"}
-        },
-        {
-          "q": {
-            "hi": "क्या प्रत्येक रैखिक बहुपद का एक अद्वितीय शून्यक होता है?",
-            "en": "Does every linear polynomial have a unique zero?"
-          },
-          "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल धनात्मक मानों के लिए", "en": "Only for positive values"},
-            {"hi": "शून्य बहुपद के लिए", "en": "For zero polynomial"}
-          ],
-          "answer": {"hi": "हाँ", "en": "Yes"}
-        },
-        {
-          "q": {
-            "hi": "बहुपद $x^2 - 2x$ के शून्यक कौन-कौन से हैं?",
-            "en": "What are the zeros of the polynomial $x^2 - 2x$?"
-          },
-          "options": [
-            {"hi": "1 और 2", "en": "1 and 2"},
-            {"hi": "0 और 2", "en": "0 and 2"},
-            {"hi": "0 और -2", "en": "0 and -2"},
-            {"hi": "2 और -2", "en": "2 and -2"}
-          ],
-          "answer": {"hi": "0 और 2", "en": "0 and 2"}
-        },
-        {
-          "q": {
-            "hi": "एक शून्येतर अचर बहुपद का कितने शून्यक होते हैं?",
-            "en": "How many zeros does a non-zero constant polynomial have?"
-          },
-          "options": [
-            {"hi": "एक", "en": "One"},
-            {"hi": "दो", "en": "Two"},
-            {"hi": "कोई शून्यक नहीं होता", "en": "Has no zero"},
-            {"hi": "अपरिमित", "en": "Infinite"}
-          ],
-          "answer": {"hi": "कोई शून्यक नहीं होता", "en": "Has no zero"}
-        },
-        {
-          "q": {
-            "hi": "शेषफल प्रमेय के अनुसार यदि $p(x)$ को $(x-a)$ से भाग दिया जाए, तो शेषफल क्या होगा?",
-            "en": "According to Remainder Theorem, if $p(x)$ is divided by $(x-a)$, what is the remainder?"
-          },
-          "options": [
-            {"hi": "$p(0)$", "en": "$p(0)$"},
-            {"hi": "$p(a)$", "en": "$p(a)$"},
-            {"hi": "$p(-a)$", "en": "$p(-a)$"},
-            {"hi": "0"}
-          ],
-          "answer": {"hi": "$p(a)$", "en": "$p(a)$"}
-        },
-        {
-          "q": {
-            "hi": "यदि $p(-1) = 0$ है, तो गुणनखंड प्रमेय के अनुसार $p(x)$ का एक गुणनखंड क्या होगा?",
-            "en": "If $p(-1) = 0$, then according to Factor Theorem, what will be a factor of $p(x)$?"
-          },
-          "options": [
-            {"hi": "$(x-1)$", "en": "$(x-1)$"},
-            {"hi": "$(x+1)$", "en": "$(x+1)$"},
-            {"hi": "$x$", "en": "$x$"},
-            {"hi": "$(x+0)$", "en": "$(x+0)$"}
-          ],
-          "answer": {"hi": "$(x+1)$", "en": "$(x+1)$"}
-        },
-        {
-          "q": {
-            "hi": "बहुपद $x^3 + 1$ को $(x+1)$ से भाग देने पर शेषफल क्या प्राप्त होता है?",
-            "en": "What is the remainder when $x^3 + 1$ is divided by $(x+1)$?"
-          },
-          "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "0", "en": "0"},
-            {"hi": "-1", "en": "-1"},
-            {"hi": "2", "en": "2"}
-          ],
-          "answer": {"hi": "0", "en": "0"}
-        },
-        {
-          "q": {
-            "hi": "गुणनखंड प्रमेय शेषफल प्रमेय की ही एक विशेष स्थिति है, जहाँ शेषफल क्या होता है?",
-            "en": "Factor Theorem is a special case of Remainder Theorem where the remainder is?"
-          },
-          "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "0", "en": "0"},
-            {"hi": "-1", "en": "-1"},
-            {"hi": "अपरिभाषित", "en": "Undefined"}
-          ],
-          "answer": {"hi": "0", "en": "0"}
-        }
-      ],
-      "section3": [
-        {
-          "q": {
-            "hi": "सर्वसमिका $(x+y)^2$ का विस्तारित रूप क्या है?",
-            "en": "What is the expanded form of identity $(x+y)^2$?"
-          },
-          "options": [
-            {"hi": "$x^2 + y^2$", "en": "$x^2 + y^2$"},
-            {"hi": "$x^2 + 2xy + y^2$", "en": "$x^2 + 2xy + y^2$"},
-            {"hi": "$x^2 - 2xy + y^2$", "en": "$x^2 - 2xy + y^2$"},
-            {"hi": "$x^2 + xy + y^2$", "en": "$x^2 + xy + y^2$"}
-          ],
-          "answer": {"hi": "$x^2 + 2xy + y^2$", "en": "$x^2 + 2xy + y^2$"}
-        },
-        {
-          "q": {
-            "hi": "सर्वसमिका $x^2 - y^2$ किसके बराबर होती है?",
-            "en": "Identity $x^2 - y^2$ is equal to?"
-          },
-          "options": [
-            {"hi": "$(x-y)(x-y)$", "en": "$(x-y)(x-y)$"},
-            {"hi": "$(x+y)(x+y)$", "en": "$(x+y)(x+y)$"},
-            {"hi": "$(x+y)(x-y)$", "en": "$(x+y)(x-y)$"},
-            {"hi": "$x^2 + 2xy + y^2$", "en": "$x^2 + 2xy + y^2$"}
-          ],
-          "answer": {"hi": "$(x+y)(x-y)$", "en": "$(x+y)(x-y)$"}
-        },
-        {
-          "q": {
-            "hi": "$(x+a)(x+b)$ का मान क्या होता है?",
-            "en": "What is the value of $(x+a)(x+b)$?"
-          },
-          "options": [
-            {"hi": "$x^2 + ab$", "en": "$x^2 + ab$"},
-            {"hi": "$x^2 + (a+b)x + ab$", "en": "$x^2 + (a+b)x + ab$"},
-            {"hi": "$x^2 + (a-b)x - ab$", "en": "$x^2 + (a-b)x - ab$"},
-            {"hi": "$x^2 + abx + (a+b)$", "en": "$x^2 + abx + (a+b)$"}
-          ],
-          "answer": {"hi": "$x^2 + (a+b)x + ab$", "en": "$x^2 + (a+b)x + ab$"}
-        },
-        {
-          "q": {
-            "hi": "सर्वसमिका $(x+y+z)^2$ में कुल कितने पद होते हैं?",
-            "en": "How many terms are there in the expansion of $(x+y+z)^2$?"
+            "hi": "द्विघात बहुपद 2x^2 - 8x + 6 के शून्यकों का गुणनफल (Product of zeroes) क्या प्राप्त होगा?",
+            "en": "What will be the product of zeroes of the quadratic polynomial 2x^2 - 8x + 6?"
           },
           "options": [
             {"hi": "3", "en": "3"},
             {"hi": "4", "en": "4"},
             {"hi": "6", "en": "6"},
-            {"hi": "9", "en": "9"}
-          ],
-          "answer": {"hi": "6", "en": "6"}
-        },
-        {
-          "q": {
-            "hi": "सर्वसमिका $(x+y)^3$ का सही विस्तार क्या है?",
-            "en": "What is the correct expansion of identity $(x+y)^3$?"
-          },
-          "options": [
-            {"hi": "$x^3 + y^3 + 3xy(x+y)$", "en": "$x^3 + y^3 + 3xy(x+y)$"},
-            {"hi": "$x^3 - y^3 - 3xy(x-y)$", "en": "$x^3 - y^3 - 3xy(x-y)$"},
-            {"hi": "$x^3 + y^3$", "en": "$x^3 + y^3$"},
-            {"hi": "$x^3 + 3x^2y + 3xy^2 + y^3$", "en": "$x^3 + 3x^2y + 3xy^2 + y^3$"}
-          ],
-          "answer": {"hi": "$x^3 + y^3 + 3xy(x+y)$", "en": "$x^3 + y^3 + 3xy(x+y)$"}
-        },
-        {
-          "q": {
-            "hi": "सर्वसमिका $(x-y)^3$ किसके बराबर है?",
-            "en": "Identity $(x-y)^3$ is equal to?"
-          },
-          "options": [
-            {"hi": "$x^3 + y^3 + 3xy(x+y)$", "en": "$x^3 + y^3 + 3xy(x+y)$"},
-            {"hi": "$x^3 - y^3 - 3xy(x-y)$", "en": "$x^3 - y^3 - 3xy(x-y)$"},
-            {"hi": "$x^3 - y^3$", "en": "$x^3 - y^3$"},
-            {"hi": "$x^3 + y^3 - 3xy(x-y)$", "en": "$x^3 + y^3 - 3xy(x-y)$"}
-          ],
-          "answer": {"hi": "$x^3 - y^3 - 3xy(x-y)$", "en": "$x^3 - y^3 - 3xy(x-y)$"}
-        },
-        {
-          "q": {
-            "hi": "यदि $x+y+z = 0$ हो, तो $x^3 + y^3 + z^3$ किसके बराबर होगा?",
-            "en": "If $x+y+z = 0$, then $x^3 + y^3 + z^3$ is equal to?"
-          },
-          "options": [
-            {"hi": "0", "en": "0"},
-            {"hi": "$xyz$", "en": "$xyz$"},
-            {"hi": "$3xyz$", "en": "$3xyz$"},
-            {"hi": "$(x+y+z)^3$", "en": "$(x+y+z)^3$"}
-          ],
-          "answer": {"hi": "$3xyz$", "en": "$3xyz$"}
-        },
-        {
-          "q": {
-            "hi": "सर्वसमिका $x^3 + y^3 + z^3 - 3xyz$ का एक गुणनखंड $(x+y+z)$ है, दूसरा गुणनखंड क्या है?",
-            "en": "One factor of identity $x^3 + y^3 + z^3 - 3xyz$ is $(x+y+z)$, what is the other factor?"
-          },
-          "options": [
-            {"hi": "$x^2 + y^2 + z^2$", "en": "$x^2 + y^2 + z^2$"},
-            {"hi": "$x^2 + y^2 + z^2 - xy - yz - zx$", "en": "$x^2 + y^2 + z^2 - xy - yz - zx$"},
-            {"hi": "$x^2 + y^2 + z^2 + xy + yz + zx$", "en": "$x^2 + y^2 + z^2 + xy + yz + zx$"},
-            {"hi": "$xy + yz + zx$", "en": "$xy + yz + zx$"}
-          ],
-          "answer": {"hi": "$x^2 + y^2 + z^2 - xy - yz - zx$", "en": "$x^2 + y^2 + z^2 - xy - yz - zx$"}
-        },
-        {
-          "q": {
-            "hi": "उपयुक्त सर्वसमिका का उपयोग कर $105 \\times 106$ का मान सीधे गुणा किए बिना क्या होगा?",
-            "en": "Using suitable identity, what is the value of $105 \\times 106$ without direct multiplication?"
-          },
-          "options": [
-            {"hi": "11130", "en": "11130"},
-            {"hi": "11030", "en": "11030"},
-            {"hi": "11230", "en": "11230"},
-            {"hi": "11330", "en": "11330"}
-          ],
-          "answer": {"hi": "11130", "en": "11130"}
-        },
-        {
-          "q": {
-            "hi": "$49a^2 + 70ab + 25b^2$ का गुणनखंडित रूप क्या है?",
-            "en": "What is the factorized form of $49a^2 + 70ab + 25b^2$?"
-          },
-          "options": [
-            {"hi": "$(7a-5b)^2$", "en": "$(7a-5b)^2$"},
-            {"hi": "$(7a+5b)^2$", "en": "$(7a+5b)^2$"},
-            {"hi": "$(49a+25b)^2$", "en": "$(49a+25b)^2$"},
-            {"hi": "$(7a+5b)(7a-5b)$", "en": "$(7a+5b)(7a-5b)$"}
-          ],
-          "answer": {"hi": "$(7a+5b)^2$", "en": "$(7a+5b)^2$"}
-        }
-      ],
-      "section4": [
-        {
-          "q": {
-            "hi": "द्विघात बहुपद $ax^2 + bx + c$ का गुणनखंडन करने के लिए किस विधि का अक्सर उपयोग किया जाता है?",
-            "en": "Which method is often used to factorize the quadratic polynomial $ax^2 + bx + c$?"
-          },
-          "options": [
-            {"hi": "अंतिम पद को विभक्त करना", "en": "Splitting the last term"},
-            {"hi": "मध्य पद को विभक्त करना", "en": "Splitting the middle term"},
-            {"hi": "प्रथम पद को विभक्त करना", "en": "Splitting the first term"},
-            {"hi": "पदों को जोड़ना", "en": "Adding terms"}
-          ],
-          "answer": {"hi": "मध्य पद को विभक्त करना", "en": "Splitting the middle term"}
-        },
-        {
-          "q": {
-            "hi": "बहुपद $x^2 + 5x + 6$ के गुणनखंड क्या होंगे?",
-            "en": "What will be the factors of the polynomial $x^2 + 5x + 6$?"
-          },
-          "options": [
-            {"hi": "$(x+1)(x+6)$", "en": "$(x+1)(x+6)$"},
-            {"hi": "$(x+2)(x+3)$", "en": "$(x+2)(x+3)$"},
-            {"hi": "$(x-2)(x-3)$", "en": "$(x-2)(x-3)$"},
-            {"hi": "$(x+5)(x+1)$", "en": "$(x+5)(x+1)$"}
-          ],
-          "answer": {"hi": "$(x+2)(x+3)$", "en": "$(x+2)(x+3)$"}
-        },
-        {
-          "q": {
-            "hi": "त्रिघाती बहुपद $x^3 - 23x^2 + 142x - 120$ का एक गुणनखंड $(x-1)$ है, यह कैसे जाँचा जा सकता है?",
-            "en": "One factor of cubic polynomial $x^3 - 23x^2 + 142x - 120$ is $(x-1)$, how can this be checked?"
-          },
-          "options": [
-            {"hi": "$p(0)$ ज्ञात करके", "en": "By finding $p(0)$"},
-            {"hi": "$p(1)$ ज्ञात करके", "en": "By finding $p(1)$"},
-            {"hi": "$p(-1)$ ज्ञात करके", "en": "By finding $p(-1)$"},
-            {"hi": "घात देखकर", "en": "By looking at degree"}
-          ],
-          "answer": {"hi": "$p(1)$ ज्ञात करके", "en": "By finding $p(1)$"}
-        },
-        {
-          "q": {
-            "hi": "बहुपद $2x^3 + x^2 - 2x - 1$ के लिए यदि $g(x) = x + 1$ है, तो शेषफल क्या होगा?",
-            "en": "For polynomial $2x^3 + x^2 - 2x - 1$, if $g(x) = x + 1$, what will be the remainder?"
-          },
-          "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "-1", "en": "-1"},
-            {"hi": "0", "en": "0"},
             {"hi": "2", "en": "2"}
-          ],
-          "answer": {"hi": "0", "en": "0"}
-        },
-        {
-          "q": {
-            "hi": "एक चर वाले बहुपद में चरों की संख्या कितनी होती है?",
-            "en": "How many variables are there in a polynomial in one variable?"
-          },
-          "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "2", "en": "2"},
-            {"hi": "3", "en": "3"},
-            {"hi": "अनेक", "en": "Many"}
-          ],
-          "answer": {"hi": "1", "en": "1"}
-        },
-        {
-          "q": {
-            "hi": "क्या $\\sqrt{x} + 3$ एक बहुपद है?",
-            "en": "Is $\\sqrt{x} + 3$ a polynomial?"
-          },
-          "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल x > 0 के लिए", "en": "Only for x > 0"},
-            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"}
-          ],
-          "answer": {"hi": "नहीं", "en": "No"}
-        },
-        {
-          "q": {
-            "hi": "त्रिपद (Trinomial) में पदों की संख्या कितनी होती है?",
-            "en": "How many terms are there in a Trinomial?"
-          },
-          "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "2", "en": "2"},
-            {"hi": "3", "en": "3"},
-            {"hi": "घात के बराबर", "en": "Equal to degree"}
           ],
           "answer": {"hi": "3", "en": "3"}
         },
         {
           "q": {
-            "hi": "बहुपद $3x^7 - 4x^6 + x + 9$ की घात क्या है?",
-            "en": "What is the degree of the polynomial $3x^7 - 4x^6 + x + 9$?"
+            "hi": "यदि \u03b1 और \u03b2 द्विघात बहुपद ax^2 + bx + c के शून्यक हों, तो \u03b1 + \u03b2 का मान क्या होता है?",
+            "en": "If \u03b1 and \u03b2 are the zeroes of the quadratic polynomial ax^2 + bx + c, what is the value of \u03b1 + \u03b2?"
           },
           "options": [
-            {"hi": "6", "en": "6"},
-            {"hi": "7", "en": "7"},
+            {"hi": "c/a", "en": "c/a"},
+            {"hi": "-b/a", "en": "-b/a"},
+            {"hi": "b/a", "en": "b/a"},
+            {"hi": "-c/a", "en": "-c/a"}
+          ],
+          "answer": {"hi": "-b/a", "en": "-b/a"}
+        },
+        {
+          "q": {
+            "hi": "यदि \u03b1 और \u03b2 द्विघात बहुपद ax^2 + bx + c के शून्यक हों, तो उनके गुणनफल (\u03b1\u03b2) का सूत्र क्या है?",
+            "en": "If \u03b1 and \u03b2 are the zeroes of the quadratic polynomial ax^2 + bx + c, what is the formula for their product (\u03b1\u03b2)?"
+          },
+          "options": [
+            {"hi": "-b/a", "en": "-b/a"},
+            {"hi": "c/a", "en": "c/a"},
+            {"hi": "-c/a", "en": "-c/a"},
+            {"hi": "a/c", "en": "a/c"}
+          ],
+          "answer": {"hi": "c/a", "en": "c/a"}
+        },
+        {
+          "q": {
+            "hi": "द्विघात बहुपद x^2 + 7x + 10 के शून्यक ज्ञात कीजिए।",
+            "en": "Find the zeroes of the quadratic polynomial x^2 + 7x + 10."
+          },
+          "options": [
+            {"hi": "2 और 5", "en": "2 and 5"},
+            {"hi": "-2 और -5", "en": "-2 and -5"},
+            {"hi": "-2 और 5", "en": "-2 and 5"},
+            {"hi": "2 और -5", "en": "2 and -5"}
+          ],
+          "answer": {"hi": "-2 और -5", "en": "-2 and -5"}
+        },
+        {
+          "q": {
+            "hi": "बहुपद x^2 - 3 के शून्यक क्या होंगे?",
+            "en": "What will be the zeroes of the polynomial x^2 - 3?"
+          },
+          "options": [
+            {"hi": "3 और -3", "en": "3 and -3"},
+            {"hi": "\u221a3 और -\u221a3", "en": "\u221a3 and -\u221a3"},
+            {"hi": "9 और -9", "en": "9 and -9"},
+            {"hi": "0 और 3", "en": "0 and 3"}
+          ],
+          "answer": {"hi": "\u221a3 और -\u221a3", "en": "\u221a3 and -\u221a3"}
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "एक द्विघात बहुपद क्या होगा जिसके शून्यकों का योग -3 और गुणनफल 2 है?",
+            "en": "What will be a quadratic polynomial whose sum of zeroes is -3 and product is 2?"
+          },
+          "options": [
+            {"hi": "x^2 - 3x + 2", "en": "x^2 - 3x + 2"},
+            {"hi": "x^2 + 3x + 2", "en": "x^2 + 3x + 2"},
+            {"hi": "x^2 + 3x - 2", "en": "x^2 + 3x - 2"},
+            {"hi": "x^2 - 3x - 2", "en": "x^2 - 3x - 2"}
+          ],
+          "answer": {"hi": "x^2 + 3x + 2", "en": "x^2 + 3x + 2"}
+        },
+        {
+          "q": {
+            "hi": "यदि \u03b1, \u03b2, \u03b3 त्रिघात बहुपद ax^3 + bx^2 + cx + d के शून्यक हों, तो तीनों शून्यकों का योग (\u03b1 + \u03b2 + \u03b3) किसके बराबर होता है?",
+            "en": "If \u03b1, \u03b2, \u03b3 are zeroes of the cubic polynomial ax^3 + bx^2 + cx + d, then what is the sum of all three zeroes (\u03b1 + \u03b2 + \u03b3) equal to?"
+          },
+          "options": [
+            {"hi": "c/a", "en": "c/a"},
+            {"hi": "-b/a", "en": "-b/a"},
+            {"hi": "-d/a", "en": "-d/a"},
+            {"hi": "b/a", "en": "b/a"}
+          ],
+          "answer": {"hi": "-b/a", "en": "-b/a"}
+        },
+        {
+          "q": {
+            "hi": "त्रिघात बहुपद में दो-दो शून्यकों को एक साथ लेकर उनके गुणनफलों का योग (\u03b1\u03b2 + \u03b2\u03b3 + \u03b3\u03b1) का मान क्या होता है?",
+            "en": "In a cubic polynomial, what is the value of the sum of the products of zeroes taken two at a time (\u03b1\u03b2 + \u03b2\u03b3 + \u03b3\u03b1)?"
+          },
+          "options": [
+            {"hi": "-b/a", "en": "-b/a"},
+            {"hi": "c/a", "en": "c/a"},
+            {"hi": "-d/a", "en": "-d/a"},
+            {"hi": "d/a", "en": "d/a"}
+          ],
+          "answer": {"hi": "c/a", "en": "c/a"}
+        },
+        {
+          "q": {
+            "hi": "त्रिघात बहुपद के तीनों शून्यकों का गुणनफल (\u03b1 \u03b2 \u03b3) किसके बराबर होता है?",
+            "en": "The product of all three zeroes (\u03b1 \u03b2 \u03b3) of a cubic polynomial is equal to what?"
+          },
+          "options": [
+            {"hi": "-d/a", "en": "-d/a"},
+            {"hi": "d/a", "en": "d/a"},
+            {"hi": "c/a", "en": "c/a"},
+            {"hi": "-b/a", "en": "-b/a"}
+          ],
+          "answer": {"hi": "-d/a", "en": "-d/a"}
+        },
+        {
+          "q": {
+            "hi": "द्विघात बहुपद 4u^2 + 8u के शून्यक कौन से होंगे?",
+            "en": "What will be the zeroes of the quadratic polynomial 4u^2 + 8u?"
+          },
+          "options": [
+            {"hi": "0 और 2", "en": "0 and 2"},
+            {"hi": "0 और -2", "en": "0 and -2"},
+            {"hi": "4 और 8", "en": "4 and 8"},
+            {"hi": "-2 और -4", "en": "-2 and -4"}
+          ],
+          "answer": {"hi": "0 और -2", "en": "0 and -2"}
+        },
+        {
+          "q": {
+            "hi": "बहुपद t^2 - 15 के शून्यक क्या प्राप्त होंगे?",
+            "en": "What will be the zeroes of the polynomial t^2 - 15?"
+          },
+          "options": [
+            {"hi": "15 और -15", "en": "15 and -15"},
+            {"hi": "\u221a15 और -\u221a15", "en": "\u221a15 and -\u221a15"},
+            {"hi": "5 और -3", "en": "5 and -3"},
+            {"hi": "0 और 15", "en": "0 and 15"}
+          ],
+          "answer": {"hi": "\u221a15 और -\u221a15", "en": "\u221a15 and -\u221a15"}
+        },
+        {
+          "q": {
+            "hi": "एक द्विघात बहुपद ज्ञात कीजिए जिसके शून्यकों का योग 1/4 तथा गुणनफल -1 है।",
+            "en": "Find a quadratic polynomial whose sum of zeroes is 1/4 and product is -1."
+          },
+          "options": [
+            {"hi": "4x^2 - x - 4", "en": "4x^2 - x - 4"},
+            {"hi": "4x^2 + x - 4", "en": "4x^2 + x - 4"},
+            {"hi": "x^2 - 4x - 4", "en": "x^2 - 4x - 4"},
+            {"hi": "4x^2 - x + 4", "en": "4x^2 - x + 4"}
+          ],
+          "answer": {"hi": "4x^2 - x - 4", "en": "4x^2 - x - 4"}
+        },
+        {
+          "q": {
+            "hi": "बहुपदों के विभाजन में, जब शेषफल शून्य हो जाए या उसकी घात भाजक की घात से क्या हो जाए, तो हम भाग देने की प्रक्रिया को रोक देते हैं?",
+            "en": "In division of polynomials, we stop the division process when the remainder becomes zero or its degree becomes what than the degree of the divisor?"
+          },
+          "options": [
+            {"hi": "अधिक", "en": "Greater"},
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "कम (Less)", "en": "Less"},
+            {"hi": "दुगुनी", "en": "Double"}
+          ],
+          "answer": {"hi": "कम (Less)", "en": "Less"}
+        },
+        {
+          "q": {
+            "hi": "जब 2x^2 + 3x + 1 को x + 2 से भाग दिया जाता है, तो शेषफल (remainder) क्या बचता है?",
+            "en": "When 2x^2 + 3x + 1 is divided by x + 2, what is the remainder?"
+          },
+          "options": [
+            {"hi": "3", "en": "3"},
             {"hi": "1", "en": "1"},
-            {"hi": "9", "en": "9"}
-          ],
-          "answer": {"hi": "7", "en": "7"}
-        },
-        {
-          "q": {
-            "hi": "बहुपद $p(x) = x + 5$ का शून्यक क्या है?",
-            "en": "What is the zero of the polynomial $p(x) = x + 5$?"
-          },
-          "options": [
-            {"hi": "5", "en": "5"},
-            {"hi": "-5", "en": "-5"},
             {"hi": "0", "en": "0"},
-            {"hi": "1", "en": "1"}
+            {"hi": "-1", "en": "-1"}
           ],
-          "answer": {"hi": "-5", "en": "-5"}
+          "answer": {"hi": "3", "en": "3"}
         },
         {
           "q": {
-            "hi": "वास्तविक संख्या 'a' बहुपद $p(x)$ का शून्यक होती है यदि:",
-            "en": "A real number 'a' is a zero of polynomial $p(x)$ if:"
+            "hi": "भाज्य, भाजक, भागफल और शेषफल में क्या सही संबंध होता है?",
+            "en": "What is the correct relationship between dividend, divisor, quotient, and remainder?"
           },
           "options": [
-            {"hi": "$p(a) = 1$", "en": "$p(a) = 1$"},
-            {"hi": "$p(a) = 0$", "en": "$p(a) = 0$"},
-            {"hi": "$p(0) = a$", "en": "$p(0) = a$"},
-            {"hi": "$a = 0$"}
+            {"hi": "भाज्य = भाजक \u00d7 भागफल + शेषफल", "en": "Dividend = Divisor \u00d7 Quotient + Remainder"},
+            {"hi": "भाजक = भाज्य \u00d7 भागफल + शेषफल", "en": "Divisor = Dividend \u00d7 Quotient + Remainder"},
+            {"hi": "भाज्य = भाजक \u00d7 शेषफल + भागफल", "en": "Dividend = Divisor \u00d7 Remainder + Quotient"},
+            {"hi": "भाज्य = भागफल \u00d7 शेषफल - भाजक", "en": "Dividend = Quotient \u00d7 Remainder - Divisor"}
           ],
-          "answer": {"hi": "$p(a) = 0$", "en": "$p(a) = 0$"}
+          "answer": {"hi": "भाज्य = भाजक \u00d7 भागफल + शेषफल", "en": "Dividend = Divisor \u00d7 Quotient + Remainder"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "$(x-y)(x^2+xy+y^2)$ किसके बराबर है?",
-            "en": "$(x-y)(x^2+xy+y^2)$ is equal to?"
+            "hi": "बहुपदों के पदों को उनकी घटती हुई घातों के क्रम में व्यवस्थित करने को बहुपद को किस रूप में लिखना कहते हैं?",
+            "en": "Arranging the terms of a polynomial in the order of their decreasing powers is called writing the polynomial in which form?"
           },
           "options": [
-            {"hi": "$x^3 + y^3$", "en": "$x^3 + y^3$"},
-            {"hi": "$x^3 - y^3$", "en": "$x^3 - y^3$"},
-            {"hi": "$(x-y)^3$", "en": "$(x-y)^3$"},
-            {"hi": "$x^2 - y^2$", "en": "$x^2 - y^2$"}
+            {"hi": "व्यापक रूप", "en": "General form"},
+            {"hi": "मानक रूप (Standard form)", "en": "Standard form"},
+            {"hi": "गुणनखंड रूप", "en": "Factor form"},
+            {"hi": "सरल रूप", "en": "Simple form"}
           ],
-          "answer": {"hi": "$x^3 - y^3$", "en": "$x^3 - y^3$"}
+          "answer": {"hi": "मानक रूप (Standard form)", "en": "Standard form"}
         },
         {
           "q": {
-            "hi": "$(x+y)(x^2-xy+y^2)$ किसका गुणनखंडन है?",
-            "en": "Of which expression is $(x+y)(x^2-xy+y^2)$ the factorization?"
+            "hi": "बहुपदों के लिए विभाजन एल्गोरिथ्म (Division Algorithm) के अनुसार यदि p(x) और g(x) दो बहुपद हैं जहाँ g(x) \u2260 0, तो p(x) = g(x) \u00d7 q(x) + r(x) में r(x) पर क्या प्रतिबंध है?",
+            "en": "According to the Division Algorithm for polynomials, if p(x) and g(x) are two polynomials where g(x) \u2260 0, then what is the condition on r(x) in p(x) = g(x) \u00d7 q(x) + r(x)?"
           },
           "options": [
-            {"hi": "$x^3 - y^3$", "en": "$x^3 - y^3$"},
-            {"hi": "$x^3 + y^3$", "en": "$x^3 + y^3$"},
-            {"hi": "$(x+y)^3$", "en": "$(x+y)^3$"},
-            {"hi": "$x^2 + y^2$", "en": "$x^2 + y^2$"}
+            {"hi": "r(x) = 0 या घात r(x) < घात g(x)", "en": "r(x) = 0 or degree of r(x) < degree of g(x)"},
+            {"hi": "घात r(x) > घात g(x)", "en": "degree of r(x) > degree of g(x)"},
+            {"hi": "r(x) हमेशा 0 होना चाहिए", "en": "r(x) must always be 0"},
+            {"hi": "घात r(x) = घात g(x)", "en": "degree of r(x) = degree of g(x)"}
           ],
-          "answer": {"hi": "$x^3 + y^3$", "en": "$x^3 + y^3$"}
+          "answer": {"hi": "r(x) = 0 या घात r(x) < घात g(x)", "en": "r(x) = 0 or degree of r(x) < degree of g(x)"}
         },
         {
           "q": {
-            "hi": "$(2x - y + z)^2$ का प्रसार क्या होगा?",
-            "en": "What will be the expansion of $(2x - y + z)^2$?"
+            "hi": "यदि p(x) को g(x) से भाग देने पर शेषफल r(x) = 0 प्राप्त होता है, तो g(x), p(x) का क्या कहलाता है?",
+            "en": "If on dividing p(x) by g(x), the remainder r(x) = 0 is obtained, then what is g(x) called in relation to p(x)?"
           },
           "options": [
-            {"hi": "$4x^2+y^2+z^2-4xy-2yz+4zx$", "en": "$4x^2+y^2+z^2-4xy-2yz+4zx$"},
-            {"hi": "$4x^2+y^2+z^2+4xy+2yz+4zx$", "en": "$4x^2+y^2+z^2+4xy+2yz+4zx$"},
-            {"hi": "$2x^2-y^2+z^2-xy-yz+zx$", "en": "$2x^2-y^2+z^2-xy-yz+zx$"},
-            {"hi": "$4x^2-y^2+z^2$", "en": "$4x^2-y^2+z^2$"}
+            {"hi": "भागफल", "en": "Quotient"},
+            {"hi": "गुणनखंड (Factor)", "en": "Factor"},
+            {"hi": "शून्यक", "en": "Zero"},
+            {"hi": "घात", "en": "Degree"}
           ],
-          "answer": {"hi": "$4x^2+y^2+z^2-4xy-2yz+4zx$", "en": "$4x^2+y^2+z^2-4xy-2yz+4zx$"}
+          "answer": {"hi": "गुणनखंड (Factor)", "en": "Factor"}
         },
         {
           "q": {
-            "hi": "घनों का परिकलन किए बिना $(-12)^3 + 7^3 + 5^3$ का मान क्या होगा?",
-            "en": "What is the value of $(-12)^3 + 7^3 + 5^3$ without calculating cubes?"
+            "hi": "बहुपद 3x^2 - x^3 - 3x + 5 का मानक रूप क्या होगा?",
+            "en": "What will be the standard form of the polynomial 3x^2 - x^3 - 3x + 5?"
           },
           "options": [
-            {"hi": "0", "en": "0"},
-            {"hi": "1260", "en": "1260"},
-            {"hi": "-1260", "en": "-1260"},
-            {"hi": "-420", "en": "-420"}
+            {"hi": "3x^2 - 3x - x^3 + 5", "en": "3x^2 - 3x - x^3 + 5"},
+            {"hi": "-x^3 + 3x^2 - 3x + 5", "en": "-x^3 + 3x^2 - 3x + 5"},
+            {"hi": "5 - 3x + 3x^2 - x^3", "en": "5 - 3x + 3x^2 - x^3"},
+            {"hi": "x^3 - 3x^2 + 3x - 5", "en": "x^3 - 3x^2 + 3x - 5"}
           ],
-          "answer": {"hi": "-1260", "en": "-1260"}
+          "answer": {"hi": "-x^3 + 3x^2 - 3x + 5", "en": "-x^3 + 3x^2 - 3x + 5"}
         },
         {
           "q": {
-            "hi": "बहुपद $p(x) = cx + d$ का शून्यक क्या है?",
-            "en": "What is the zero of the polynomial $p(x) = cx + d$?"
+            "hi": "यदि किसी बहुपद के दो शून्यक \u221a2 और -\u221a2 दिए गए हों, तो उसका एक गुणनखंड कौन सा होगा?",
+            "en": "If two zeroes of a polynomial are given as \u221a2 and -\u221a2, which one will be its factor?"
           },
           "options": [
-            {"hi": "$d/c$", "en": "$d/c$"},
-            {"hi": "$-d/c$", "en": "$-d/c$"},
-            {"hi": "$c/d$", "en": "$c/d$"},
-            {"hi": "$-c/d$", "en": "$-c/d$"}
+            {"hi": "x^2 + 2", "en": "x^2 + 2"},
+            {"hi": "x^2 - 2", "en": "x^2 - 2"},
+            {"hi": "x - 2", "en": "x - 2"},
+            {"hi": "x + 2", "en": "x + 2"}
           ],
-          "answer": {"hi": "$-d/c$", "en": "$-d/c$"}
+          "answer": {"hi": "x^2 - 2", "en": "x^2 - 2"}
         },
         {
           "q": {
-            "hi": "घनाभ का आयतन $3x^2 - 12x$ है, इसकी विमाओं के लिए संभव व्यंजक क्या हैं?",
-            "en": "Volume of a cuboid is $3x^2 - 12x$, what are the possible expressions for its dimensions?"
+            "hi": "बहुपद 2x^4 - 3x^3 - 3x^2 + 6x - 2 के दो शून्यक \u221a2 और -\u221a2 हैं, इसके अन्य शून्यक क्या होंगे?",
+            "en": "Two zeroes of the polynomial 2x^4 - 3x^3 - 3x^2 + 6x - 2 are \u221a2 and -\u221a2, what will be its other zeroes?"
           },
           "options": [
-            {"hi": "$3, x, x-4$", "en": "$3, x, x-4$"},
-            {"hi": "$3x, x, 4$", "en": "$3x, x, 4$"},
-            {"hi": "$3, x^2, 12$", "en": "$3, x^2, 12$"},
-            {"hi": "$x, 3x, 4$", "en": "$x, 3x, 4$"}
+            {"hi": "1 और 1/2", "en": "1 and 1/2"},
+            {"hi": "-1 और -1/2", "en": "-1 and -1/2"},
+            {"hi": "1 और 2", "en": "1 and 2"},
+            {"hi": "2 और 1/2", "en": "2 and 1/2"}
           ],
-          "answer": {"hi": "$3, x, x-4$", "en": "$3, x, x-4$"}
+          "answer": {"hi": "1 और 1/2", "en": "1 and 1/2"}
         },
         {
           "q": {
-            "hi": "$x^3 - y^3$ का एक गुणनखंड $(x-y)$ है।",
-            "en": "$(x-y)$ is a factor of $x^3 - y^3$."
+            "hi": "यदि p(x) = x^3 - 3x^2 + 5x - 3 को g(x) = x^2 - 2 से भाग दिया जाए, तो भागफल क्या प्राप्त होगा?",
+            "en": "If p(x) = x^3 - 3x^2 + 5x - 3 is divided by g(x) = x^2 - 2, what will be the quotient?"
           },
           "options": [
-            {"hi": "सत्य", "en": "True"},
-            {"hi": "असत्य", "en": "False"},
-            {"hi": "केवल x=y के लिए", "en": "Only for x=y"},
-            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"}
+            {"hi": "x - 3", "en": "x - 3"},
+            {"hi": "x + 3", "en": "x + 3"},
+            {"hi": "x^2 - 3", "en": "x^2 - 3"},
+            {"hi": "7x - 9", "en": "7x - 9"}
           ],
-          "answer": {"hi": "सत्य", "en": "True"}
+          "answer": {"hi": "x - 3", "en": "x - 3"}
         },
         {
           "q": {
-            "hi": "बहुपद $x+1$ का शून्यक क्या है?",
-            "en": "What is the zero of the polynomial $x+1$?"
+            "hi": "त्रिघात बहुपद x^3 - 4x^2 + 5x - 2 के शून्यक कौन से हैं?",
+            "en": "What are the zeroes of the cubic polynomial x^3 - 4x^2 + 5x - 2?"
+          },
+          "options": [
+            {"hi": "2, 1, 1", "en": "2, 1, 1"},
+            {"hi": "-2, -1, -1", "en": "-2, -1, -1"},
+            {"hi": "0, 1, 2", "en": "0, 1, 2"},
+            {"hi": "1, 2, 3", "en": "1, 2, 3"}
+          ],
+          "answer": {"hi": "2, 1, 1", "en": "2, 1, 1"}
+        },
+        {
+          "q": {
+            "hi": "एक त्रिघात बहुपद प्राप्त कीजिए जिसके शून्यकों का योग 2, दो-दो शून्यकों के गुणनफलों का योग -7 तथा तीनों का गुणनफल -14 हो।",
+            "en": "Find a cubic polynomial whose sum of zeroes is 2, sum of products of zeroes taken two at a time is -7, and product of zeroes is -14."
+          },
+          "options": [
+            {"hi": "x^3 - 2x^2 - 7x + 14", "en": "x^3 - 2x^2 - 7x + 14"},
+            {"hi": "x^3 + 2x^2 - 7x - 14", "en": "x^3 + 2x^2 - 7x - 14"},
+            {"hi": "x^3 - 2x^2 + 7x - 14", "en": "x^3 - 2x^2 + 7x - 14"},
+            {"hi": "x^3 - 2x^2 - 7x - 14", "en": "x^3 - 2x^2 - 7x - 14"}
+          ],
+          "answer": {"hi": "x^3 - 2x^2 - 7x + 14", "en": "x^3 - 2x^2 - 7x + 14"}
+        },
+        {
+          "q": {
+            "hi": "यदि बहुपद x^3 - 3x^2 + x + 1 के शून्यक a - b, a, a + b हों, तो 'a' का मान क्या होगा?",
+            "en": "If the zeroes of the polynomial x^3 - 3x^2 + x + 1 are a - b, a, a + b, then what will be the value of 'a'?"
           },
           "options": [
             {"hi": "1", "en": "1"},
             {"hi": "-1", "en": "-1"},
-            {"hi": "0", "en": "0"},
-            {"hi": "अपरिभाषित", "en": "Undefined"}
+            {"hi": "2", "en": "2"},
+            {"hi": "3", "en": "3"}
           ],
-          "answer": {"hi": "-1", "en": "-1"}
-        },
-        {
-          "q": {
-            "hi": "बहुपद $x^2 + x$ किस प्रकार का बहुपद है?",
-            "en": "What type of polynomial is $x^2 + x$?"
-          },
-          "options": [
-            {"hi": "रैखिक", "en": "Linear"},
-            {"hi": "द्विघाती", "en": "Quadratic"},
-            {"hi": "त्रिघाती", "en": "Cubic"},
-            {"hi": "शून्य बहुपद", "en": "Zero polynomial"}
-          ],
-          "answer": {"hi": "द्विघाती", "en": "Quadratic"}
-        },
-        {
-          "q": {
-            "hi": "$x^3 + y^3 + z^3 - 3xyz$ को क्या कहा जाता है?",
-            "en": "What is $x^3 + y^3 + z^3 - 3xyz$ called?"
-          },
-          "options": [
-            {"hi": "एक सर्वसमिका", "en": "An identity"},
-            {"hi": "एक समीकरण", "en": "An equation"},
-            {"hi": "एक अचर", "en": "A constant"},
-            {"hi": "एक पद", "en": "A term"}
-          ],
-          "answer": {"hi": "एक सर्वसमिका", "en": "An identity"}
+          "answer": {"hi": "1", "en": "1"}
         }
       ]
     },
