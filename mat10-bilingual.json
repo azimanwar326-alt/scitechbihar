@@ -4,661 +4,661 @@
       "section1": [
         {
           "q": {
-            "hi": "प्राकृत संख्याओं (Natural Numbers) के संग्रह को किस प्रतीक से प्रकट किया जाता है?",
-            "en": "Which symbol is used to represent the collection of Natural Numbers?"
+            "hi": "यूक्लिड विभाजन प्रमेयिका के अनुसार, दो धनात्मक पूर्णांक a और b के लिए ऐसी अद्वितीय पूर्ण संख्याएँ q और r विद्यमान होती हैं कि a = bq + r, जहाँ r की सीमा क्या है?",
+            "en": "According to Euclid's division lemma, for two positive integers a and b, there exist unique integers q and r such that a = bq + r, where what is the range of r?"
           },
           "options": [
-            {"hi": "W", "en": "W"},
-            {"hi": "Z", "en": "Z"},
-            {"hi": "N", "en": "N"},
-            {"hi": "Q", "en": "Q"}
+            {"hi": "0 < r < b", "en": "0 < r < b"},
+            {"hi": "0 \u2264 r < b", "en": "0 \u2264 r < b"},
+            {"hi": "0 < r \u2264 b", "en": "0 < r \u2264 b"},
+            {"hi": "0 \u2264 r \u2264 b", "en": "0 \u2264 r \u2264 b"}
           ],
-          "answer": {"hi": "N", "en": "N"}
+          "answer": {"hi": "0 \u2264 r < b", "en": "0 \u2264 r < b"}
         },
         {
           "q": {
-            "hi": "पूर्ण संख्याओं (Whole Numbers) के संग्रह को किस प्रतीक से प्रकट किया जाता है?",
-            "en": "Which symbol represents the collection of Whole Numbers?"
+            "hi": "यूक्लिड विभाजन एल्गोरिथ्म का प्रयोग मुख्यतः दो धनात्मक पूर्णांकों का क्या ज्ञात करने के लिए किया जाता है?",
+            "en": "Euclid's division algorithm is mainly used to find what for two positive integers?"
           },
           "options": [
-            {"hi": "N", "en": "N"},
-            {"hi": "W", "en": "W"},
-            {"hi": "Z", "en": "Z"},
-            {"hi": "R", "en": "R"}
+            {"hi": "LCM", "en": "LCM"},
+            {"hi": "HCF", "en": "HCF"},
+            {"hi": "गुणनफल", "en": "Product"},
+            {"hi": "भागफल", "en": "Quotient"}
           ],
-          "answer": {"hi": "W", "en": "W"}
+          "answer": {"hi": "HCF", "en": "HCF"}
         },
         {
           "q": {
-            "hi": "पूर्णांकों (Integers) के संग्रह को 'Z' से प्रकट किया जाता है, जो जर्मन शब्द 'zahlen' से लिया गया है। 'zahlen' का अर्थ क्या है?",
-            "en": "The collection of integers is denoted by 'Z', derived from the German word 'zahlen'. What does 'zahlen' mean?"
+            "hi": "यूक्लिड विभाजन एल्गोरिथ्म में, यदि चरण 1 में शेषफल r = 0 प्राप्त होता है, तो भाजक b और a का HCF क्या होगा?",
+            "en": "In Euclid's division algorithm, if the remainder r = 0 in step 1, what will be the HCF of the divisor b and a?"
           },
           "options": [
-            {"hi": "संख्या", "en": "Number"},
-            {"hi": "जोड़ना", "en": "To add"},
-            {"hi": "गिनना", "en": "To count"},
-            {"hi": "बाँटना", "en": "To divide"}
+            {"hi": "a", "en": "a"},
+            {"hi": "b", "en": "b"},
+            {"hi": "q", "en": "q"},
+            {"hi": "0", "en": "0"}
           ],
-          "answer": {"hi": "गिनना", "en": "To count"}
+          "answer": {"hi": "b", "en": "b"}
         },
         {
           "q": {
-            "hi": "एक परिमेय संख्या (Rational Number) को p/q के रूप में लिखा जा सकता है, जहाँ q का मान क्या नहीं होना चाहिए?",
-            "en": "A rational number can be written in the form p/q, where the value of q must not be?"
+            "hi": "यदि r \u2260 0 हो, तो यूक्लिड विभाजन प्रमेयिका का प्रयोग किन दो संख्याओं पर दोबारा किया जाता है?",
+            "en": "If r \u2260 0, on which two numbers is Euclid's division lemma applied again?"
+          },
+          "options": [
+            {"hi": "a और q", "en": "a and q"},
+            {"hi": "b और r", "en": "b and r"},
+            {"hi": "q और r", "en": "q and r"},
+            {"hi": "a और r", "en": "a and r"}
+          ],
+          "answer": {"hi": "b और r", "en": "b and r"}
+        },
+        {
+          "q": {
+            "hi": "यूक्लिड विभाजन एल्गोरिथ्म की प्रक्रिया को तब तक जारी रखा जाता है जब तक कि शेषफल क्या न प्राप्त हो जाए?",
+            "en": "The process of Euclid's division algorithm is continued until what remainder is obtained?"
           },
           "options": [
             {"hi": "1", "en": "1"},
+            {"hi": "b से बड़ा", "en": "Greater than b"},
             {"hi": "0", "en": "0"},
-            {"hi": "-1", "en": "-1"},
-            {"hi": "p के बराबर", "en": "Equal to p"}
+            {"hi": "ऋणात्मक", "en": "Negative"}
           ],
           "answer": {"hi": "0", "en": "0"}
         },
         {
           "q": {
-            "hi": "अंग्रेजी शब्द 'rational' की व्युत्पत्ति किस शब्द से हुई है?",
-            "en": "From which word is the English word 'rational' derived?"
+            "hi": "यूक्लिड विभाजन एल्गोरिथ्म का प्रयोग करके 455 और 42 का HCF ज्ञात करने पर अंतिम चरण में भाजक क्या प्राप्त होता है?",
+            "en": "Using Euclid's division algorithm to find the HCF of 455 and 42, what is the divisor obtained in the final step?"
           },
           "options": [
-            {"hi": "Rate", "en": "Rate"},
-            {"hi": "Ratio", "en": "Ratio"},
-            {"hi": "Root", "en": "Root"},
-            {"hi": "Radius", "en": "Radius"}
+            {"hi": "35", "en": "35"},
+            {"hi": "42", "en": "42"},
+            {"hi": "7", "en": "7"},
+            {"hi": "1", "en": "1"}
           ],
-          "answer": {"hi": "Ratio", "en": "Ratio"}
+          "answer": {"hi": "7", "en": "7"}
         },
         {
           "q": {
-            "hi": "क्या शून्य (0) एक परिमेय संख्या है?",
-            "en": "Is zero (0) a rational number?"
+            "hi": "यूक्लिड विभाजन एल्गोरिथ्म का उपयोग करके 4052 और 12576 का HCF क्या होगा?",
+            "en": "What will be the HCF of 4052 and 12576 using Euclid's division algorithm?"
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल धनात्मक स्थितियों में", "en": "Only in positive cases"},
-            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"}
+            {"hi": "4", "en": "4"},
+            {"hi": "148", "en": "148"},
+            {"hi": "24", "en": "24"},
+            {"hi": "124", "en": "124"}
           ],
-          "answer": {"hi": "हाँ", "en": "Yes"}
+          "answer": {"hi": "4", "en": "4"}
         },
         {
           "q": {
-            "hi": "परिमेय संख्याओं के संग्रह को किस अक्षर से प्रकट किया जाता है?",
-            "en": "Which letter is used to represent the collection of rational numbers?"
+            "hi": "एक सिद्ध किया हुआ कथन जिसका उपयोग किसी अन्य कथन को सिद्ध करने के लिए किया जाता है, क्या कहलाता है?",
+            "en": "A proven statement used for proving another statement is called what?"
           },
           "options": [
-            {"hi": "R", "en": "R"},
-            {"hi": "P", "en": "P"},
-            {"hi": "Q", "en": "Q"},
-            {"hi": "Z", "en": "Z"}
+            {"hi": "एल्गोरिथ्म", "en": "Algorithm"},
+            {"hi": "प्रमेयिका (Lemma)", "en": "Lemma"},
+            {"hi": "कंजेक्चर", "en": "Conjecture"},
+            {"hi": "साध्य", "en": "Proposition"}
           ],
-          "answer": {"hi": "Q", "en": "Q"}
+          "answer": {"hi": "प्रमेयिका (Lemma)", "en": "Lemma"}
         },
         {
           "q": {
-            "hi": "1/2, 2/4, 10/20 जैसी संख्याओं को क्या कहा जाता है?",
-            "en": "What are numbers like 1/2, 2/4, 10/20 called?"
+            "hi": "'एल्गोरिथ्म' शब्द 9वीं शताब्दी के किस फारसी गणितज्ञ के नाम से लिया गया है?",
+            "en": "The word 'Algorithm' is derived from the name of which 9th-century Persian mathematician?"
           },
           "options": [
-            {"hi": "अपरिमेय संख्याएँ", "en": "Irrational numbers"},
-            {"hi": "तुल्य परिमेय संख्याएँ", "en": "Equivalent rational numbers"},
-            {"hi": "प्राकृत संख्याएँ", "en": "Natural numbers"},
-            {"hi": "पूर्णांक", "en": "Integers"}
+            {"hi": "यूक्लिड", "en": "Euclid"},
+            {"hi": "अल-ख्वारिज़मी", "en": "Al-Khwarizmi"},
+            {"hi": "गॉस", "en": "Gauss"},
+            {"hi": "आर्किमिडीज़", "en": "Archimedes"}
           ],
-          "answer": {"hi": "तुल्य परिमेय संख्याएँ", "en": "Equivalent rational numbers"}
+          "answer": {"hi": "अल-ख्वारिज़मी", "en": "Al-Khwarizmi"}
         },
         {
           "q": {
-            "hi": "किन्हीं दो दी हुई परिमेय संख्याओं के बीच कितनी परिमेय संख्याएँ होती हैं?",
-            "en": "How many rational numbers exist between any two given rational numbers?"
+            "hi": "शब्द 'एलजबरा' (Algebra) अल-ख्वारिज़मी की किस प्रसिद्ध पुस्तक से लिया गया है?",
+            "en": "The word 'Algebra' is taken from which famous book written by Al-Khwarizmi?"
           },
           "options": [
-            {"hi": "केवल एक", "en": "Only one"},
-            {"hi": "दस", "en": "Ten"},
-            {"hi": "परिमित", "en": "Finite"},
-            {"hi": "अपरिमित", "en": "Infinitely many"}
+            {"hi": "यूक्लिड एलीमेंट्स", "en": "Euclid's Elements"},
+            {"hi": "डिसक्वीशंस अरिथिमेटिकी", "en": "Disquisitions Arithmeticae"},
+            {"hi": "हिसाब अल-ज़बर वा अल मुकाबला", "en": "Hisab al-jabr w'al-muqabala"},
+            {"hi": "एलीमेंट्स पुस्तक VII", "en": "Elements Book VII"}
           ],
-          "answer": {"hi": "अपरिमित", "en": "Infinitely many"}
-        },
-        {
-          "q": {
-            "hi": "यदि p और q असहभाज्य (coprime) हैं, तो उनका 1 के अतिरिक्त अन्य कोई क्या नहीं होता?",
-            "en": "If p and q are coprime, they have no common factor other than 1?"
-          },
-          "options": [
-            {"hi": "गुणज", "en": "Multiple"},
-            {"hi": "उभयनिष्ठ गुणनखंड", "en": "Common factor"},
-            {"hi": "अंश", "en": "Numerator"},
-            {"hi": "भाजक", "en": "Divisor"}
-          ],
-          "answer": {"hi": "उभयनिष्ठ गुणनखंड", "en": "Common factor"}
+          "answer": {"hi": "हिसाब अल-ज़बर वा अल मुकाबला", "en": "Hisab al-jabr w'al-muqabala"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "अपरिमेय संख्याओं (Irrational Numbers) का पता सबसे पहले किसने लगाया था?",
-            "en": "Who first discovered irrational numbers?"
+            "hi": "यूक्लिड विभाजन प्रमेयिका के अनुसार, प्रत्येक धनात्मक सम पूर्णांक किस रूप का होता है?",
+            "en": "According to Euclid's division lemma, every positive even integer is of which form?"
           },
           "options": [
-            {"hi": "आर्यभट्ट", "en": "Aryabhata"},
-            {"hi": "यूक्लिड", "en": "Euclid"},
-            {"hi": "पाइथागोरस के अनुयायियों ने", "en": "Followers of Pythagoras"},
-            {"hi": "न्यूटन", "en": "Newton"}
+            {"hi": "2q + 1", "en": "2q + 1"},
+            {"hi": "2q", "en": "2q"},
+            {"hi": "q", "en": "q"},
+            {"hi": "4q + 1", "en": "4q + 1"}
           ],
-          "answer": {"hi": "पाइथागोरस के अनुयायियों ने", "en": "Followers of Pythagoras"}
+          "answer": {"hi": "2q", "en": "2q"}
         },
         {
           "q": {
-            "hi": "निम्नलिखित में से कौन सी एक अपरिमेय संख्या है?",
-            "en": "Which of the following is an irrational number?"
+            "hi": "प्रत्येक धनात्मक विषम पूर्णांक निम्नलिखित में से किस रूप का होता है, जहाँ q एक पूर्णांक है?",
+            "en": "Every positive odd integer is of which of the following forms, where q is an integer?"
           },
           "options": [
-            {"hi": "2/3", "en": "2/3"},
-            {"hi": "√4", "en": "√4"},
-            {"hi": "√2", "en": "√2"},
-            {"hi": "0.5"}
+            {"hi": "2q", "en": "2q"},
+            {"hi": "2q + 1", "en": "2q + 1"},
+            {"hi": "4q + 2", "en": "4q + 2"},
+            {"hi": "2q + 2", "en": "2q + 2"}
           ],
-          "answer": {"hi": "√2", "en": "√2"}
+          "answer": {"hi": "2q + 1", "en": "2q + 1"}
         },
         {
           "q": {
-            "hi": "परिमेय और अपरिमेय संख्याओं के संग्रह को एक साथ लेने पर क्या प्राप्त होता है?",
-            "en": "What is obtained by taking the collection of rational and irrational numbers together?"
+            "hi": "यदि b = 4 लिया जाए, तो यूक्लिड विभाजन प्रमेयिका के अनुसार संभावित शेषफल (r) क्या हो सकते हैं?",
+            "en": "If b = 4 is taken, what can be the possible remainders (r) according to Euclid's division lemma?"
           },
           "options": [
-            {"hi": "प्राकृत संख्याएँ", "en": "Natural numbers"},
-            {"hi": "वास्तविक संख्याएँ", "en": "Real numbers"},
-            {"hi": "पूर्ण संख्याएँ", "en": "Whole numbers"},
-            {"hi": "पूर्णांक", "en": "Integers"}
+            {"hi": "1, 2, 3, 4", "en": "1, 2, 3, 4"},
+            {"hi": "0, 1, 2, 3", "en": "0, 1, 2, 3"},
+            {"hi": "0, 1, 2", "en": "0, 1, 2"},
+            {"hi": "1, 3, 5", "en": "1, 3, 5"}
           ],
-          "answer": {"hi": "वास्तविक संख्याएँ", "en": "Real numbers"}
+          "answer": {"hi": "0, 1, 2, 3", "en": "0, 1, 2, 3"}
         },
         {
           "q": {
-            "hi": "वास्तविक संख्याओं के संग्रह को किस प्रतीक से प्रकट किया जाता है?",
-            "en": "Which symbol represents the collection of real numbers?"
-          },
-          "options": [
-            {"hi": "Q", "en": "Q"},
-            {"hi": "Z", "en": "Z"},
-            {"hi": "N", "en": "N"},
-            {"hi": "R", "en": "R"}
-          ],
-          "answer": {"hi": "R", "en": "R"}
-        },
-        {
-          "q": {
-            "hi": "संख्या रेखा को 'वास्तविक संख्या रेखा' क्यों कहा जाता है?",
-            "en": "Why is the number line called the 'real number line'?"
-          },
-          "options": [
-            {"hi": "क्योंकि इस पर केवल पूर्णांक होते हैं", "en": "Because it only contains integers"},
-            {"hi": "क्योंकि इसका प्रत्येक बिन्दु एक अद्वितीय वास्तविक संख्या को निरूपित करता है", "en": "Because every point on it represents a unique real number"},
-            {"hi": "क्योंकि यह सीधी होती है", "en": "Because it is straight"},
-            {"hi": "क्योंकि यह शून्य से शुरू होती है", "en": "Because it starts from zero"}
-          ],
-          "answer": {"hi": "क्योंकि इसका प्रत्येक बिन्दु एक अद्वितीय वास्तविक संख्या को निरूपित करता है", "en": "Because every point on it represents a unique real number"}
-        },
-        {
-          "q": {
-            "hi": "पाइथागोरस के किस अनुयायी ने सबसे पहले सिद्ध किया कि √2 एक अपरिमेय संख्या है?",
-            "en": "Which follower of Pythagoras first proved that √2 is an irrational number?"
-          },
-          "options": [
-            {"hi": "आर्किमिडीज", "en": "Archimedes"},
-            {"hi": "हिपाक्स", "en": "Hippasus"},
-            {"hi": "डेडेकिंड", "en": "Dedekind"},
-            {"hi": "कैन्टर", "en": "Cantor"}
-          ],
-          "answer": {"hi": "हिपाक्स", "en": "Hippasus"}
-        },
-        {
-          "q": {
-            "hi": "प्रसिद्ध गणितज्ञ लैम्बर्ट और लेजान्ड्रे ने किस संख्या को अपरिमेय सिद्ध किया था?",
-            "en": "Which number was proved irrational by mathematicians Lambert and Legendre?"
-          },
-          "options": [
-            {"hi": "√3", "en": "√3"},
-            {"hi": "√5", "en": "√5"},
-            {"hi": "π (पाई)", "en": "π (pi)"},
-            {"hi": "e"}
-          ],
-          "answer": {"hi": "π (पाई)", "en": "π (pi)"}
-        },
-        {
-          "q": {
-            "hi": "क्या प्रत्येक वास्तविक संख्या एक अपरिमेय संख्या होती है?",
-            "en": "Is every real number an irrational number?"
-          },
-          "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल धनात्मक संख्याएँ", "en": "Only positive numbers"},
-            {"hi": "शून्य को छोड़कर", "en": "Except zero"}
-          ],
-          "answer": {"hi": "नहीं", "en": "No"}
-        },
-        {
-          "q": {
-            "hi": "संख्या रेखा पर √2 का स्थान निर्धारण करने के लिए किस प्रमेय का उपयोग किया जाता है?",
-            "en": "Which theorem is used to locate √2 on the number line?"
-          },
-          "options": [
-            {"hi": "थेल्स प्रमेय", "en": "Thales theorem"},
-            {"hi": "पाइथागोरस प्रमेय", "en": "Pythagoras theorem"},
-            {"hi": "यूलर प्रमेय", "en": "Euler's theorem"},
-            {"hi": "बंटन नियम", "en": "Distributive law"}
-          ],
-          "answer": {"hi": "पाइथागोरस प्रमेय", "en": "Pythagoras theorem"}
-        },
-        {
-          "q": {
-            "hi": "√3 का दशमलव प्रसार किस प्रकार का होता है?",
-            "en": "What type of decimal expansion does √3 have?"
-          },
-          "options": [
-            {"hi": "सांत", "en": "Terminating"},
-            {"hi": "अनवसानी आवर्ती", "en": "Non-terminating recurring"},
-            {"hi": "अनवसानी अनावर्ती", "en": "Non-terminating non-recurring"},
-            {"hi": "पूर्णांक", "en": "Integer"}
-          ],
-          "answer": {"hi": "अनवसानी अनावर्ती", "en": "Non-terminating non-recurring"}
-        }
-      ],
-      "section3": [
-        {
-          "q": {
-            "hi": "10/3 का दशमलव प्रसार क्या है?",
-            "en": "What is the decimal expansion of 10/3?"
-          },
-          "options": [
-            {"hi": "3.33", "en": "3.33"},
-            {"hi": "3.333...", "en": "3.333..."},
-            {"hi": "3.14", "en": "3.14"},
-            {"hi": "3.0"}
-          ],
-          "answer": {"hi": "3.333...", "en": "3.333..."}
-        },
-        {
-          "q": {
-            "hi": "7/8 का दशमलव प्रसार किस प्रकार का है?",
-            "en": "What type of decimal expansion does 7/8 have?"
-          },
-          "options": [
-            {"hi": "सांत (Terminating)", "en": "Terminating"},
-            {"hi": "अनवसानी आवर्ती", "en": "Non-terminating recurring"},
-            {"hi": "अनवसानी अनावर्ती", "en": "Non-terminating non-recurring"},
-            {"hi": "अपरिमेय", "en": "Irrational"}
-          ],
-          "answer": {"hi": "सांत (Terminating)", "en": "Terminating"}
-        },
-        {
-          "q": {
-            "hi": "यदि किसी संख्या का दशमलव प्रसार अनवसानी आवर्ती (non-terminating recurring) है, तो वह कैसी संख्या है?",
-            "en": "If the decimal expansion of a number is non-terminating recurring, what kind of number is it?"
-          },
-          "options": [
-            {"hi": "अपरिमेय", "en": "Irrational"},
-            {"hi": "परिमेय", "en": "Rational"},
-            {"hi": "प्राकृत", "en": "Natural"},
-            {"hi": "पूर्ण", "en": "Whole"}
-          ],
-          "answer": {"hi": "परिमेय", "en": "Rational"}
-        },
-        {
-          "q": {
-            "hi": "0.333... को p/q के रूप में कैसे लिखा जा सकता है?",
-            "en": "How can 0.333... be written in p/q form?"
-          },
-          "options": [
-            {"hi": "3/10", "en": "3/10"},
-            {"hi": "1/3", "en": "1/3"},
-            {"hi": "33/100", "en": "33/100"},
-            {"hi": "1/33", "en": "1/33"}
-          ],
-          "answer": {"hi": "1/3", "en": "1/3"}
-        },
-        {
-          "q": {
-            "hi": "एक अपरिमेय संख्या का दशमलव प्रसार कैसा होता है?",
-            "en": "What is the nature of the decimal expansion of an irrational number?"
-          },
-          "options": [
-            {"hi": "सांत", "en": "Terminating"},
-            {"hi": "अनवसानी आवर्ती", "en": "Non-terminating recurring"},
-            {"hi": "अनवसानी अनावर्ती", "en": "Non-terminating non-recurring"},
-            {"hi": "परिमित", "en": "Finite"}
-          ],
-          "answer": {"hi": "अनवसानी अनावर्ती", "en": "Non-terminating non-recurring"}
-        },
-        {
-          "q": {
-            "hi": "π (पाई) का सन्निकट मान 22/7 माना जाता है, लेकिन वास्तव में π क्या है?",
-            "en": "The approximate value of π is taken as 22/7, but what is π actually?"
-          },
-          "options": [
-            {"hi": "एक परिमेय संख्या", "en": "A rational number"},
-            {"hi": "एक अपरिमेय संख्या", "en": "An irrational number"},
-            {"hi": "एक पूर्णांक", "en": "An integer"},
-            {"hi": "एक सांत दशमलव", "en": "A terminating decimal"}
-          ],
-          "answer": {"hi": "एक अपरिमेय संख्या", "en": "An irrational number"}
-        },
-        {
-          "q": {
-            "hi": "महान भारतीय गणितज्ञ आर्यभट्ट ने π का मान कितने दशमलव स्थानों तक शुद्ध ज्ञात किया था?",
-            "en": "Up to how many decimal places did the great Indian mathematician Aryabhata find the accurate value of π?"
-          },
-          "options": [
-            {"hi": "दो", "en": "Two"},
-            {"hi": "चार", "en": "Four"},
-            {"hi": "दस", "en": "Ten"},
-            {"hi": "सौ", "en": "Hundred"}
-          ],
-          "answer": {"hi": "चार", "en": "Four"}
-        },
-        {
-          "q": {
-            "hi": "0.10110111011110... कैसी संख्या का उदाहरण है?",
-            "en": "What kind of number is 0.10110111011110... an example of?"
-          },
-          "options": [
-            {"hi": "परिमेय", "en": "Rational"},
-            {"hi": "सांत", "en": "Terminating"},
-            {"hi": "अपरिमेय", "en": "Irrational"},
-            {"hi": "पूर्णांक", "en": "Integer"}
-          ],
-          "answer": {"hi": "अपरिमेय", "en": "Irrational"}
-        },
-        {
-          "q": {
-            "hi": "आवर्धन शीशे की सहायता से संख्या रेखा पर संख्याओं को देखने के प्रक्रम को क्या कहते हैं?",
-            "en": "What is the process of viewing numbers on the number line with the help of a magnifying glass called?"
-          },
-          "options": [
-            {"hi": "विभाजन प्रक्रम", "en": "Division process"},
-            {"hi": "उत्तरोत्तर आवर्धन प्रक्रम", "en": "Process of successive magnification"},
-            {"hi": "गुणन प्रक्रम", "en": "Multiplication process"},
-            {"hi": "परिमेयकरण", "en": "Rationalization"}
-          ],
-          "answer": {"hi": "उत्तरोत्तर आवर्धन प्रक्रम", "en": "Process of successive magnification"}
-        },
-        {
-          "q": {
-            "hi": "संख्या रेखा पर 2.665 किन दो पूर्णांकों के बीच स्थित है?",
-            "en": "Between which two integers does 2.665 lie on the number line?"
-          },
-          "options": [
-            {"hi": "1 और 2", "en": "1 and 2"},
-            {"hi": "2 और 3", "en": "2 and 3"},
-            {"hi": "3 और 4", "en": "3 and 4"},
-            {"hi": "0 और 1", "en": "0 and 1"}
-          ],
-          "answer": {"hi": "2 और 3", "en": "2 and 3"}
-        }
-      ],
-      "section4": [
-        {
-          "q": {
-            "hi": "एक परिमेय संख्या और एक अपरिमेय संख्या का योग या घटाना क्या होता है?",
-            "en": "What is the sum or subtraction of a rational number and an irrational number?"
-          },
-          "options": [
-            {"hi": "सदैव परिमेय", "en": "Always rational"},
-            {"hi": "सदैव अपरिमेय", "en": "Always irrational"},
-            {"hi": "शून्य", "en": "Zero"},
-            {"hi": "प्राकृत संख्या", "en": "Natural number"}
-          ],
-          "answer": {"hi": "सदैव अपरिमेय", "en": "Always irrational"}
-        },
-        {
-          "q": {
-            "hi": "दो अपरिमेय संख्याओं का गुणनफल क्या हो सकता है?",
-            "en": "What can be the product of two irrational numbers?"
-          },
-          "options": [
-            {"hi": "केवल परिमेय", "en": "Only rational"},
-            {"hi": "केवल अपरिमेय", "en": "Only irrational"},
-            {"hi": "परिमेय या अपरिमेय कुछ भी", "en": "Either rational or irrational"},
-            {"hi": "सदैव शून्य", "en": "Always zero"}
-          ],
-          "answer": {"hi": "परिमेय या अपरिमेय कुछ भी", "en": "Either rational or irrational"}
-        },
-        {
-          "q": {
-            "hi": "सर्वसमिका √(ab) किसके बराबर है?",
-            "en": "What is the identity √(ab) equal to?"
-          },
-          "options": [
-            {"hi": "√a + √b", "en": "√a + √b"},
-            {"hi": "√a - √b", "en": "√a - √b"},
-            {"hi": "√a × √b", "en": "√a × √b"},
-            {"hi": "a × b"}
-          ],
-          "answer": {"hi": "√a × √b", "en": "√a × √b"}
-        },
-        {
-          "q": {
-            "hi": "(√a + √b)(√a - √b) का मान क्या होगा?",
-            "en": "What will be the value of (√a + √b)(√a - √b)?"
-          },
-          "options": [
-            {"hi": "a + b", "en": "a + b"},
-            {"hi": "a - b", "en": "a - b"},
-            {"hi": "√a - √b", "en": "√a - √b"},
-            {"hi": "a² - b²", "en": "a² - b²"}
-          ],
-          "answer": {"hi": "a - b", "en": "a - b"}
-        },
-        {
-          "q": {
-            "hi": "व्यंजक 1/√2 के हर का परिमेयकरण करने पर क्या प्राप्त होगा?",
-            "en": "What is obtained by rationalizing the denominator of the expression 1/√2?"
-          },
-          "options": [
-            {"hi": "√2", "en": "√2"},
-            {"hi": "2", "en": "2"},
-            {"hi": "√2/2", "en": "√2/2"},
-            {"hi": "1/2"}
-          ],
-          "answer": {"hi": "√2/2", "en": "√2/2"}
-        },
-        {
-          "q": {
-            "hi": "करणी चिह्न (Radical Sign) कौन सा है?",
-            "en": "Which one is the Radical Sign?"
-          },
-          "options": [
-            {"hi": "+", "en": "+"},
-            {"hi": "√", "en": "√"},
-            {"hi": "π", "en": "π"},
-            {"hi": "Σ"}
-          ],
-          "answer": {"hi": "√", "en": "√"}
-        },
-        {
-          "q": {
-            "hi": "√15 को √3 से भाग देने पर क्या प्राप्त होगा?",
-            "en": "What is obtained by dividing √15 by √3?"
-          },
-          "options": [
-            {"hi": "5", "en": "5"},
-            {"hi": "√5", "en": "√5"},
-            {"hi": "3", "en": "3"},
-            {"hi": "√3", "en": "√3"}
-          ],
-          "answer": {"hi": "√5", "en": "√5"}
-        },
-        {
-          "q": {
-            "hi": "यदि a > 0 एक वास्तविक संख्या है, तो √a = b का अर्थ क्या है?",
-            "en": "If a > 0 is a real number, what does √a = b mean?"
-          },
-          "options": [
-            {"hi": "b = a", "en": "b = a"},
-            {"hi": "b² = a (जहाँ b > 0)", "en": "b² = a (where b > 0)"},
-            {"hi": "a² = b", "en": "a² = b"},
-            {"hi": "b = 2a", "en": "b = 2a"}
-          ],
-          "answer": {"hi": "b² = a (जहाँ b > 0)", "en": "b² = a (where b > 0)"}
-        },
-        {
-          "q": {
-            "hi": "हर का परिमेयकरण करने का मुख्य उद्देश्य क्या है?",
-            "en": "What is the main purpose of rationalizing the denominator?"
-          },
-          "options": [
-            {"hi": "अंश को छोटा करना", "en": "To make the numerator small"},
-            {"hi": "हर को एक परिमेय संख्या में बदलना", "en": "To convert the denominator into a rational number"},
-            {"hi": "संख्या को अपरिमेय बनाना", "en": "To make the number irrational"},
-            {"hi": "शून्य प्राप्त करना", "en": "To obtain zero"}
-          ],
-          "answer": {"hi": "हर को एक परिमेय संख्या में बदलना", "en": "To convert the denominator into a rational number"}
-        },
-        {
-          "q": {
-            "hi": "(5 + √5)(5 - √5) का सरल रूप क्या है?",
-            "en": "What is the simplified form of (5 + √5)(5 - √5)?"
+            "hi": "एक मिठाई विक्रेता के पास 420 काजू की बर्फियाँ और 130 बादाम की बर्फियाँ हैं। न्यूनतम स्थान घेरने के लिए प्रत्येक ढेरी में बर्फियों की संख्या कितनी होनी चाहिए?",
+            "en": "A sweet seller has 420 cashew burfis and 130 almond burfis. To occupy minimum space, how many burfis should be there in each stack?"
           },
           "options": [
             {"hi": "20", "en": "20"},
-            {"hi": "25", "en": "25"},
-            {"hi": "30", "en": "30"},
-            {"hi": "0"}
+            {"hi": "15", "en": "15"},
+            {"hi": "10", "en": "10"},
+            {"hi": "5", "en": "5"}
           ],
-          "answer": {"hi": "20", "en": "20"}
-        }
-      ],
-      "section5": [
-        {
-          "q": {
-            "hi": "घातांक नियम a^m × a^n किसके बराबर है?",
-            "en": "The law of exponents a^m × a^n is equal to?"
-          },
-          "options": [
-            {"hi": "a^(m-n)", "en": "a^(m-n)"},
-            {"hi": "a^(m+n)", "en": "a^(m+n)"},
-            {"hi": "a^(mn)", "en": "a^(mn)"},
-            {"hi": "a^m/n"}
-          ],
-          "answer": {"hi": "a^(m+n)", "en": "a^(m+n)"}
+          "answer": {"hi": "10", "en": "10"}
         },
         {
           "q": {
-            "hi": "(a^m)^n का मान क्या होगा?",
-            "en": "What will be the value of (a^m)^n?"
+            "hi": "संख्याओं 135 और 225 का HCF यूक्लिड विभाजन एल्गोरिथ्म का प्रयोग करके क्या प्राप्त होगा?",
+            "en": "What will be the HCF of numbers 135 and 225 using Euclid's division algorithm?"
           },
           "options": [
-            {"hi": "a^(m+n)", "en": "a^(m+n)"},
-            {"hi": "a^(mn)", "en": "a^(mn)"},
-            {"hi": "a^(m-n)", "en": "a^(m-n)"},
-            {"hi": "a^m"}
+            {"hi": "15", "en": "15"},
+            {"hi": "45", "en": "45"},
+            {"hi": "90", "en": "90"},
+            {"hi": "5", "en": "5"}
           ],
-          "answer": {"hi": "a^(mn)", "en": "a^(mn)"}
+          "answer": {"hi": "45", "en": "45"}
         },
         {
           "q": {
-            "hi": "a^m / a^n (जहाँ m > n) का मान क्या है?",
-            "en": "What is the value of a^m / a^n (where m > n)?"
+            "hi": "संख्याओं 196 और 38220 का HCF क्या होगा?",
+            "en": "What will be the HCF of numbers 196 and 38220?"
           },
           "options": [
-            {"hi": "a^(m+n)", "en": "a^(m+n)"},
-            {"hi": "a^(m-n)", "en": "a^(m-n)"},
-            {"hi": "a^(mn)", "en": "a^(mn)"},
-            {"hi": "1"}
-          ],
-          "answer": {"hi": "a^(m-n)", "en": "a^(m-n)"}
-        },
-        {
-          "q": {
-            "hi": "a^m × b^m किसके बराबर है?",
-            "en": "a^m × b^m is equal to?"
-          },
-          "options": [
-            {"hi": "(ab)^m", "en": "(ab)^m"},
-            {"hi": "a^(m+b)", "en": "a^(m+b)"},
-            {"hi": "(a+b)^m", "en": "(a+b)^m"},
-            {"hi": "ab"}
-          ],
-          "answer": {"hi": "(ab)^m", "en": "(ab)^m"}
-        },
-        {
-          "q": {
-            "hi": "किसी शून्येतर संख्या a के लिए a^0 का मान क्या होता है?",
-            "en": "What is the value of a^0 for any non-zero number a?"
-          },
-          "options": [
-            {"hi": "0", "en": "0"},
-            {"hi": "a", "en": "a"},
+            {"hi": "196", "en": "196"},
+            {"hi": "195", "en": "195"},
             {"hi": "1", "en": "1"},
-            {"hi": "अनंत", "en": "Infinity"}
+            {"hi": "2", "en": "2"}
           ],
-          "answer": {"hi": "1", "en": "1"}
+          "answer": {"hi": "196", "en": "196"}
         },
         {
           "q": {
-            "hi": "64^(1/2) का मान ज्ञात कीजिए।",
-            "en": "Find the value of 64^(1/2)."
+            "hi": "यूक्लिड विभाजन एल्गोरिथ्म का प्रयोग करके 867 और 255 का HCF ज्ञात कीजिए।",
+            "en": "Find the HCF of 867 and 255 using Euclid's division algorithm."
+          },
+          "options": [
+            {"hi": "51", "en": "51"},
+            {"hi": "102", "en": "102"},
+            {"hi": "85", "en": "85"},
+            {"hi": "17", "en": "17"}
+          ],
+          "answer": {"hi": "51", "en": "51"}
+        },
+        {
+          "q": {
+            "hi": "किसी परेड में 616 सदस्यों वाली सेना की टुकड़ी को 32 सदस्यों वाले आर्मी बैंड के पीछे मार्च करना है। उन स्तंभों की अधिकतम संख्या क्या है जिसमें वे मार्च कर सकते हैं?",
+            "en": "In a parade, an army contingent of 616 members has to march behind an army band of 32 members. What is the maximum number of columns in which they can march?"
           },
           "options": [
             {"hi": "4", "en": "4"},
+            {"hi": "6", "en": "6"},
             {"hi": "8", "en": "8"},
-            {"hi": "16", "en": "16"},
-            {"hi": "32", "en": "32"}
+            {"hi": "12", "en": "12"}
           ],
           "answer": {"hi": "8", "en": "8"}
         },
         {
           "q": {
-            "hi": "32^(1/5) का मान क्या होगा?",
-            "en": "What will be the value of 32^(1/5)?"
+            "hi": "यूक्लिड विभाजन प्रमेयिका के अनुसार किसी धनात्मक पूर्णांक का वर्ग, किसी पूर्णांक m के लिए किस रूप का हो सकता है?",
+            "en": "According to Euclid's division lemma, the square of any positive integer can be of which form for some integer m?"
           },
           "options": [
+            {"hi": "3m या 3m + 1", "en": "3m or 3m + 1"},
+            {"hi": "3m या 3m + 2", "en": "3m or 3m + 2"},
+            {"hi": "केवल 3m", "en": "Only 3m"},
+            {"hi": "3m + 1 या 3m + 2", "en": "3m + 1 or 3m + 2"}
+          ],
+          "answer": {"hi": "3m या 3m + 1", "en": "3m or 3m + 1"}
+        },
+        {
+          "q": {
+            "hi": "यूक्लिड विभाजन प्रमेयिका का प्रयोग करके दर्शाइए कि किसी धनात्मक पूर्णांक का घन किस रूप का होता है?",
+            "en": "Using Euclid's division lemma, the cube of any positive integer is of which form?"
+          },
+          "options": [
+            {"hi": "3m, 3m + 1, 3m + 2", "en": "3m, 3m + 1, 3m + 2"},
+            {"hi": "9m, 9m + 1, 9m + 8", "en": "9m, 9m + 1, 9m + 8"},
+            {"hi": "9m, 9m + 3, 9m + 6", "en": "9m, 9m + 3, 9m + 6"},
+            {"hi": "4m, 4m + 1, 4m + 3", "en": "4m, 4m + 1, 4m + 3"}
+          ],
+          "answer": {"hi": "9m, 9m + 1, 9m + 8", "en": "9m, 9m + 1, 9m + 8"}
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "अंकगणित की आधारभूत प्रमेय (Fundamental Theorem of Arithmetic) के अनुसार प्रत्येक भाज्य संख्या को किसके गुणनफल के रूप में व्यक्त किया जा सकता है?",
+            "en": "According to the Fundamental Theorem of Arithmetic, every composite number can be expressed as a product of what?"
+          },
+          "options": [
+            {"hi": "सम संख्याएँ", "en": "Even numbers"},
+            {"hi": "अभाज्य संख्याएँ", "en": "Prime numbers"},
+            {"hi": "विषम संख्याएँ", "en": "Odd numbers"},
+            {"hi": "प्राकृत संख्याएँ", "en": "Natural numbers"}
+          ],
+          "answer": {"hi": "अभाज्य संख्याएँ", "en": "Prime numbers"}
+        },
+        {
+          "q": {
+            "hi": "अंकगणित की आधारभूत प्रमेय के अनुसार, भाज्य संख्या का गुणनखंडन अभाज्य गुणनखंडों के आने वाले क्रम के बिना कैसा होता है?",
+            "en": "According to the Fundamental Theorem of Arithmetic, the factorization of a composite number is what, irrespective of the order of prime factors?"
+          },
+          "options": [
+            {"hi": "अद्वितीय (Unique)", "en": "Unique"},
+            {"hi": "परिवर्तनीय", "en": "Variable"},
+            {"hi": "काल्पनिक", "en": "Imaginary"},
+            {"hi": "अनंत", "en": "Infinite"}
+          ],
+          "answer": {"hi": "अद्वितीय (Unique)", "en": "Unique"}
+        },
+        {
+          "q": {
+            "hi": "संख्या 32760 का अभाज्य गुणनखंडन घातों के रूप में क्या होगा?",
+            "en": "What will be the prime factorization of the number 32760 in exponential form?"
+          },
+          "options": [
+            {"hi": "2^3 \u00d7 3^2 \u00d7 5 \u00d7 7 \u00d7 13", "en": "2^3 \u00d7 3^2 \u00d7 5 \u00d7 7 \u00d7 13"},
+            {"hi": "2^2 \u00d7 3^3 \u00d7 5 \u00d7 7 \u00d7 13", "en": "2^2 \u00d7 3^3 \u00d7 5 \u00d7 7 \u00d7 13"},
+            {"hi": "2^3 \u00d7 3 \u00d7 5^2 \u00d7 7 \u00d7 11", "en": "2^3 \u00d7 3 \u00d7 5^2 \u00d7 7 \u00d7 11"},
+            {"hi": "2 \u00d7 3^2 \u00d7 5 \u00d7 7 \u00d7 13^2", "en": "2 \u00d7 3^2 \u00d7 5 \u00d7 7 \u00d7 13^2"}
+          ],
+          "answer": {"hi": "2^3 \u00d7 3^2 \u00d7 5 \u00d7 7 \u00d7 13", "en": "2^3 \u00d7 3^2 \u00d7 5 \u00d7 7 \u00d7 13"}
+        },
+        {
+          "q": {
+            "hi": "अंकगणित की आधारभूत प्रमेय का सबसे पहले सही उपपत्ति कार्ल फ्रेड्रिक गॉस ने अपनी किस कृति में दी थी?",
+            "en": "In which work did Carl Friedrich Gauss first give the correct proof of the Fundamental Theorem of Arithmetic?"
+          },
+          "options": [
+            {"hi": "यूक्लिड एलीमेंट्स", "en": "Euclid's Elements"},
+            {"hi": "डिसक्वीशंस अरिथिमेटिकी", "en": "Disquisitions Arithmeticae"},
+            {"hi": "हिसाब अल-ज़बर", "en": "Hisab al-jabr"},
+            {"hi": "प्रिंसिपिया", "en": "Principia"}
+          ],
+          "answer": {"hi": "डिसक्वीशंस अरिथिमेटिकी", "en": "Disquisitions Arithmeticae"}
+        },
+        {
+          "q": {
+            "hi": "किस प्रसिद्ध गणितज्ञ को प्रायः 'गणितज्ञों का राजकुमार' कहा जाता है?",
+            "en": "Which famous mathematician is often called the 'Prince of Mathematicians'?"
+          },
+          "options": [
+            {"hi": "यूक्लिड", "en": "Euclid"},
+            {"hi": "आर्किमिडीज़", "en": "Archimedes"},
+            {"hi": "न्यूटन", "en": "Newton"},
+            {"hi": "कार्ल फ्रेड्रिक गॉस", "en": "Carl Friedrich Gauss"}
+          ],
+          "answer": {"hi": "कार्ल फ्रेड्रिक गॉस", "en": "Carl Friedrich Gauss"}
+        },
+        {
+          "q": {
+            "hi": "जाँच कीजिए कि क्या किसी प्राकृत संख्या n के लिए, संख्या 4^n अंक शून्य (0) पर समाप्त हो सकती है?",
+            "en": "Check whether for any natural number n, the number 4^n can end with the digit zero (0)?"
+          },
+          "options": [
+            {"hi": "हाँ, n=5 पर", "en": "Yes, at n=5"},
+            {"hi": "हाँ, n=0 पर", "en": "Yes, at n=0"},
+            {"hi": "नहीं, ऐसी कोई संख्या n नहीं है", "en": "No, there is no such number n"},
+            {"hi": "हाँ, केवल सम संख्याओं पर", "en": "Yes, only for even numbers"}
+          ],
+          "answer": {"hi": "नहीं, ऐसी कोई संख्या n नहीं है", "en": "No, there is no such number n"}
+        },
+        {
+          "q": {
+            "hi": "अभाज्य गुणनखंडन विधि द्वारा संख्याओं 6 और 20 का HCF और LCM क्रमशः क्या होगा?",
+            "en": "What will be the HCF and LCM of numbers 6 and 20 respectively by prime factorization method?"
+          },
+          "options": [
+            {"hi": "2 और 60", "en": "2 and 60"},
+            {"hi": "6 और 20", "en": "6 and 20"},
+            {"hi": "4 और 120", "en": "4 and 120"},
+            {"hi": "2 und 120", "en": "2 and 120"}
+          ],
+          "answer": {"hi": "2 और 60", "en": "2 and 60"}
+        },
+        {
+          "q": {
+            "hi": "किन्हीं दो धनात्मक पूर्णांकों a और b के लिए, HCF(a, b) \u00d7 LCM(a, b) किसके बराबर होता है?",
+            "en": "For any two positive integers a and b, HCF(a, b) \u00d7 LCM(a, b) is equal to what?"
+          },
+          "options": [
+            {"hi": "a + b", "en": "a + b"},
+            {"hi": "a \u00d7 b", "en": "a \u00d7 b"},
+            {"hi": "a / b", "en": "a / b"},
+            {"hi": "HCF + LCM", "en": "HCF + LCM"}
+          ],
+          "answer": {"hi": "a \u00d7 b", "en": "a \u00d7 b"}
+        },
+        {
+          "q": {
+            "hi": "अभाज्य गुणनखंडन विधि द्वारा 96 और 404 का HCF 4 है, तो इनका LCM क्या होगा?",
+            "en": "The HCF of 96 and 404 by prime factorization method is 4, then what will be their LCM?"
+          },
+          "options": [
+            {"hi": "9696", "en": "9696"},
+            {"hi": "4040", "en": "4040"},
+            {"hi": "38784", "en": "38784"},
+            {"hi": "101", "en": "101"}
+          ],
+          "answer": {"hi": "9696", "en": "9696"}
+        },
+        {
+          "q": {
+            "hi": "संख्या 6, 72 और 120 का अभाज्य गुणनखंडन विधि द्वारा HCF क्या होगा?",
+            "en": "What will be the HCF of numbers 6, 72, and 120 by prime factorization method?"
+          },
+          "options": [
+            {"hi": "6", "en": "6"},
+            {"hi": "12", "en": "12"},
             {"hi": "2", "en": "2"},
-            {"hi": "4", "en": "4"},
-            {"hi": "8", "en": "8"},
-            {"hi": "16", "en": "16"}
+            {"hi": "3", "en": "3"}
           ],
-          "answer": {"hi": "2", "en": "2"}
+          "answer": {"hi": "6", "en": "6"}
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "संख्या 6, 72 और 120 का अभाज्य गुणनखंडन विधि द्वारा LCM क्या होगा?",
+            "en": "What will be the LCM of numbers 6, 72, and 120 by prime factorization method?"
+          },
+          "options": [
+            {"hi": "360", "en": "360"},
+            {"hi": "720", "en": "720"},
+            {"hi": "120", "en": "120"},
+            {"hi": "180", "en": "180"}
+          ],
+          "answer": {"hi": "360", "en": "360"}
         },
         {
           "q": {
-            "hi": "125^(1/3) का मान क्या है?",
-            "en": "What is the value of 125^(1/3)?"
+            "hi": "क्या तीन धनात्मक पूर्णांकों p, q, r के लिए परिणाम HCF(p,q,r) \u00d7 LCM(p,q,r) = p \u00d7 q \u00d7 r हमेशा सत्य होता है?",
+            "en": "Is the result HCF(p,q,r) \u00d7 LCM(p,q,r) = p \u00d7 q \u00d7 r always true for three positive integers p, q, r?"
           },
           "options": [
-            {"hi": "3", "en": "3"},
-            {"hi": "5", "en": "5"},
-            {"hi": "25", "en": "25"},
-            {"hi": "15", "en": "15"}
+            {"hi": "हाँ, हमेशा सत्य होता है", "en": "Yes, it is always true"},
+            {"hi": "नहीं, यह सामान्यतः बराबर नहीं होता है", "en": "No, it is generally not equal"},
+            {"hi": "केवल तभी जब तीनों अभाज्य हों", "en": "Only when all three are prime"},
+            {"hi": "केवल तभी जब संख्याएँ सम हों", "en": "Only when numbers are even"}
           ],
-          "answer": {"hi": "5", "en": "5"}
+          "answer": {"hi": "नहीं, यह सामान्यतः बराबर नहीं होता है", "en": "No, it is generally not equal"}
         },
         {
           "q": {
-            "hi": "1/a^n को ऋणात्मक घातांक के रूप में कैसे लिख सकते हैं?",
-            "en": "How can 1/a^n be written as a negative exponent?"
+            "hi": "संख्या 140 को अभाज्य गुणनखंडों के गुणनफल के रूप में कैसे व्यक्त किया जा सकता है?",
+            "en": "How can the number 140 be expressed as a product of prime factors?"
           },
           "options": [
-            {"hi": "a^n", "en": "a^n"},
-            {"hi": "a^(-n)", "en": "a^(-n)"},
-            {"hi": "-a^n", "en": "-a^n"},
-            {"hi": "1^n"}
+            {"hi": "2 \u00d7 5 \u00d7 7", "en": "2 \u00d7 5 \u00d7 7"},
+            {"hi": "2^2 \u00d7 5 \u00d7 7", "en": "2^2 \u00d7 5 \u00d7 7"},
+            {"hi": "2 \u00d7 3 \u00d7 5 \u00d7 7", "en": "2 \u00d7 3 \u00d7 5 \u00d7 7"},
+            {"hi": "2^3 \u00d7 5", "en": "2^3 \u00d7 5"}
           ],
-          "answer": {"hi": "a^(-n)", "en": "a^(-n)"}
+          "answer": {"hi": "2^2 \u00d7 5 \u00d7 7", "en": "2^2 \u00d7 5 \u00d7 7"}
         },
         {
           "q": {
-            "hi": "2^(2/3) × 2^(1/3) का सरल रूप क्या है?",
-            "en": "What is the simplified form of 2^(2/3) × 2^(1/3)?"
+            "hi": "यदि HCF(306, 657) = 9 दिया है, तो LCM(306, 657) का मान क्या होगा?",
+            "en": "If HCF(306, 657) = 9 is given, what will be the value of LCM(306, 657)?"
           },
           "options": [
-            {"hi": "2", "en": "2"},
-            {"hi": "4", "en": "4"},
-            {"hi": "2^(1/3)", "en": "2^(1/3)"},
-            {"hi": "1", "en": "1"}
+            {"hi": "22338", "en": "22338"},
+            {"hi": "306", "en": "306"},
+            {"hi": "657", "en": "657"},
+            {"hi": "22383", "en": "22383"}
           ],
-          "answer": {"hi": "2", "en": "2"}
+          "answer": {"hi": "22338", "en": "22338"}
+        },
+        {
+          "q": {
+            "hi": "सोनिया को एक खेल के मैदान का चक्कर लगाने में 18 मिनट लगते हैं, जबकि रवि को 12 मिनट लगते हैं। यदि वे एक ही स्थान से एक ही समय पर चलना प्रारंभ करें, तो वे पुनः कितने समय बाद मिलेंगे?",
+            "en": "Sonia takes 18 minutes to drive one round of the sports field, while Ravi takes 12 minutes. If they start at the same point and at the same time, after how many minutes will they meet again?"
+          },
+          "options": [
+            {"hi": "6 मिनट", "en": "6 minutes"},
+            {"hi": "30 मिनट", "en": "30 minutes"},
+            {"hi": "36 मिनट", "en": "36 minutes"},
+            {"hi": "18 मिनट", "en": "18 minutes"}
+          ],
+          "answer": {"hi": "36 मिनट", "en": "36 minutes"}
+        },
+        {
+          "q": {
+            "hi": "प्रमेय 1.3 के अनुसार, मान लीजिए p एक अभाज्य संख्या है। यदि p, a^2 को विभाजित करती है, तो p किसको भी विभाजित करेगी?",
+            "en": "According to Theorem 1.3, let p be a prime number. If p divides a^2, then p will also divide what?"
+          },
+          "options": [
+            {"hi": "a", "en": "a"},
+            {"hi": "2a", "en": "2a"},
+            {"hi": "a^3", "en": "a^3"},
+            {"hi": "\u221aa", "en": "\u221aa"}
+          ],
+          "answer": {"hi": "a", "en": "a"}
+        },
+        {
+          "q": {
+            "hi": "\u221a2 एक कैसी संख्या है?",
+            "en": "What kind of number is \u221a2?"
+          },
+          "options": [
+            {"hi": "परिमेय संख्या", "en": "Rational number"},
+            {"hi": "अपरिमेय संख्या", "en": "Irrational number"},
+            {"hi": "पूर्णांक संख्या", "en": "Integer number"},
+            {"hi": "पूर्ण संख्या", "en": "Whole number"}
+          ],
+          "answer": {"hi": "अपरिमेय संख्या", "en": "Irrational number"}
+        },
+        {
+          "q": {
+            "hi": "\u221a2 को अपरिमेय सिद्ध करने के लिए किस गणितीय तकनीक (विधि) का प्रयोग किया जाता है?",
+            "en": "Which mathematical technique (method) is used to prove \u221a2 is irrational?"
+          },
+          "options": [
+            {"hi": "प्रत्यक्ष उपपत्ति", "en": "Direct proof"},
+            {"hi": "विरोधोक्ति द्वारा उपपत्ति (Proof by contradiction)", "en": "Proof by contradiction"},
+            {"hi": "गणितीय आगमन सिद्धांत", "en": "Mathematical induction"},
+            {"hi": "जाँच और भूल विधि", "en": "Trial and error method"}
+          ],
+          "answer": {"hi": "विरोधोक्ति द्वारा उपपत्ति (Proof by contradiction)", "en": "Proof by contradiction"}
+        },
+        {
+          "q": {
+            "hi": "दो पूर्णांक a और b 'सहअभाज्य' (co-prime) कहलाते हैं यदि उनमें 1 के अतिरिक्त कोई अन्य क्या न हो?",
+            "en": "Two integers a and b are called 'co-prime' if they have no other what except 1?"
+          },
+          "options": [
+            {"hi": "उभयनिष्ठ गुणनखंड", "en": "Common factor"},
+            {"hi": "गुणज", "en": "Multiple"},
+            {"hi": "भागफल", "en": "Quotient"},
+            {"hi": "शेषफल", "en": "Remainder"}
+          ],
+          "answer": {"hi": "उभयनिष्ठ गुणनखंड", "en": "Common factor"}
+        },
+        {
+          "q": {
+            "hi": "दर्शाइए कि 5 - \u221a3 एक कैसी संख्या है?",
+            "en": "Show that 5 - \u221a3 is what kind of number?"
+          },
+          "options": [
+            {"hi": "परिमेय संख्या", "en": "Rational number"},
+            {"hi": "अपरिमेय संख्या", "en": "Irrational number"},
+            {"hi": "प्राकृत संख्या", "en": "Natural number"},
+            {"hi": "सम पूर्णांक", "en": "Even integer"}
+          ],
+          "answer": {"hi": "अपरिमेय संख्या", "en": "Irrational number"}
+        }
+      ],
+      "section5": [
+        {
+          "q": {
+            "hi": "एक परिमेय संख्या और एक अपरिमेय संख्या का योग या अंतर हमेशा क्या होता है?",
+            "en": "The sum or difference of a rational number and an irrational number is always what?"
+          },
+          "options": [
+            {"hi": "परिमेय संख्या", "en": "Rational number"},
+            {"hi": "अपरिमेय संख्या", "en": "Irrational number"},
+            {"hi": "एक पूर्ण संख्या", "en": "A whole number"},
+            {"hi": "शून्य", "en": "Zero"}
+          ],
+          "answer": {"hi": "अपरिमेय संख्या", "en": "Irrational number"}
+        },
+        {
+          "q": {
+            "hi": "एक शून्येतर परिमेय संख्या और एक अपरिमेय संख्या का गुणनफल या भागफल हमेशा क्या होता है?",
+            "en": "The product or quotient of a non-zero rational number and an irrational number is always what?"
+          },
+          "options": [
+            {"hi": "परिमेय संख्या", "en": "Rational number"},
+            {"hi": "अपरिमेय संख्या", "en": "Irrational number"},
+            {"hi": "पूर्णांक", "en": "Integer"},
+            {"hi": "प्राकृत संख्या", "en": "Natural number"}
+          ],
+          "answer": {"hi": "अपरिमेय संख्या", "en": "Irrational number"}
+        },
+        {
+          "q": {
+            "hi": "परिमेय संख्या p/q का दशमलव प्रसार कब सांत (terminating) होता है?",
+            "en": "When is the decimal expansion of a rational number p/q terminating?"
+          },
+          "options": [
+            {"hi": "जब q का अभाज्य गुणनखंडन 2^n \u00d7 5^m के रूप का हो", "en": "When the prime factorization of q is of the form 2^n \u00d7 5^m"},
+            {"hi": "जब q का अभाज्य गुणनखंडन 3^n \u00d7 7^m के रूप का हो", "en": "When the prime factorization of q is of the form 3^n \u00d7 7^m"},
+            {"hi": "जब p, q से पूर्णतः विभाज्य हो", "en": "When p is completely divisible by q"},
+            {"hi": "जब q केवल एक विषम संख्या हो", "en": "When q is only an odd number"}
+          ],
+          "answer": {"hi": "जब q का अभाज्य गुणनखंडन 2^n \u00d7 5^m के रूप का हो", "en": "When the prime factorization of q is of the form 2^n \u00d7 5^m"}
+        },
+        {
+          "q": {
+            "hi": "यदि परिमेय संख्या p/q के हर (q) का अभाज्य गुणनखंडन 2^n \u00d7 5^m के रूप का नहीं है, तो उसका दशमलव प्रसार कैसा होगा?",
+            "en": "If the prime factorization of the denominator (q) of a rational number p/q is not of the form 2^n \u00d7 5^m, what will be its decimal expansion?"
+          },
+          "options": [
+            {"hi": "सांत", "en": "Terminating"},
+            {"hi": "असांत आवर्ती (Non-terminating repeating)", "en": "Non-terminating repeating"},
+            {"hi": "असांत अनावर्ती", "en": "Non-terminating non-repeating"},
+            {"hi": "पूर्णांक", "en": "Integer"}
+          ],
+          "answer": {"hi": "असांत आवर्ती (Non-terminating repeating)", "en": "Non-terminating repeating"}
+        },
+        {
+          "q": {
+            "hi": "बिना लंबी विभाजन प्रक्रिया किए बताइए कि 13/3125 का दशमलव प्रसार कैसा है?",
+            "en": "Without performing long division, state whether the decimal expansion of 13/3125 is terminating or non-terminating?"
+          },
+          "options": [
+            {"hi": "सांत", "en": "Terminating"},
+            {"hi": "असांत आवर्ती", "en": "Non-terminating repeating"},
+            {"hi": "असांत अनावर्ती", "en": "Non-terminating non-repeating"},
+            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+          ],
+          "answer": {"hi": "सांत", "en": "Terminating"}
+        },
+        {
+          "q": {
+            "hi": "परिमेय संख्या 17/8 का दशमलव प्रसार निम्नलिखित में से क्या होगा?",
+            "en": "Which of the following will be the decimal expansion of the rational number 17/8?"
+          },
+          "options": [
+            {"hi": "2.125", "en": "2.125"},
+            {"hi": "2.25", "en": "2.25"},
+            {"hi": "2.175", "en": "2.175"},
+            {"hi": "2.5", "en": "2.5"}
+          ],
+          "answer": {"hi": "2.125", "en": "2.125"}
+        },
+        {
+          "q": {
+            "hi": "संख्या 64/455 का दशमलव प्रसार कैसा होगा क्योंकि इसका हर 2^n \u00d7 5^m के रूप का नहीं है?",
+            "en": "What will be the decimal expansion of 64/455 since its denominator is not of the form 2^n \u00d7 5^m?"
+          },
+          "options": [
+            {"hi": "सांत", "en": "Terminating"},
+            {"hi": "असांत आवर्ती", "en": "Non-terminating repeating"},
+            {"hi": "सांत आवर्ती", "en": "Terminating repeating"},
+            {"hi": "असांत अनावर्ती", "en": "Non-terminating non-repeating"}
+          ],
+          "answer": {"hi": "असांत आवर्ती", "en": "Non-terminating repeating"}
+        },
+        {
+          "q": {
+            "hi": "संख्या 15/1600 का दशमलव प्रसार कैसा होगा?",
+            "en": "What will be the decimal expansion of the number 15/1600?"
+          },
+          "options": [
+            {"hi": "सांत", "en": "Terminating"},
+            {"hi": "असांत आवर्ती", "en": "Non-terminating repeating"},
+            {"hi": "असांत अनावर्ती", "en": "Non-terminating non-repeating"},
+            {"hi": "आवर्ती", "en": "Repeating"}
+          ],
+          "answer": {"hi": "सांत", "en": "Terminating"}
+        },
+        {
+          "q": {
+            "hi": "वास्तविक संख्या 43.123456789 किस प्रकार की संख्या है?",
+            "en": "What kind of number is the real number 43.123456789?"
+          },
+          "options": [
+            {"hi": "परिमेय संख्या", "en": "Rational number"},
+            {"hi": "अपरिमेय संख्या", "en": "Irrational number"},
+            {"hi": "पूर्णांक संख्या", "en": "Integer"},
+            {"hi": "प्राकृत संख्या", "en": "Natural number"}
+          ],
+          "answer": {"hi": "परिमेय संख्या", "en": "Rational number"}
+        },
+        {
+          "q": {
+            "hi": "वास्तविक संख्या 0.120120012000120000... किस प्रकार की संख्या है?",
+            "en": "What kind of number is the real number 0.120120012000120000...?"
+          },
+          "options": [
+            {"hi": "परिमेय संख्या", "en": "Rational number"},
+            {"hi": "अपरिमेय संख्या", "en": "Irrational number"},
+            {"hi": "पूर्णांक", "en": "Integer"},
+            {"hi": "पूर्ण संख्या", "en": "Whole number"}
+          ],
+          "answer": {"hi": "अपरिमेय संख्या", "en": "Irrational number"}
         }
       ]
     },
