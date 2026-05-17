@@ -1324,665 +1324,665 @@
         }
       ]
     },
-    "chapter03": {
+    "chapter03":{
       "section1": [
         {
           "q": {
-            "hi": "एक तल में किसी बिंदु की स्थिति निर्धारित करने वाली क्षैतिज रेखा को क्या कहा जाता है?",
-            "en": "What is the horizontal line called that determines the position of a point in a plane?"
+            "hi": "समीकरण ax + by + c = 0 (जहाँ a, b, c वास्तविक संख्याएँ हैं और a तथा b दोनों शून्य नहीं हैं) को क्या कहा जाता है?",
+            "en": "What is the equation ax + by + c = 0 called, where a, b, c are real numbers and both a and b are not zero?"
           },
           "options": [
-            {"hi": "y-अक्ष", "en": "y-axis"},
-            {"hi": "x-अक्ष", "en": "x-axis"},
-            {"hi": "मूलबिंदु", "en": "Origin"},
-            {"hi": "चतुर्थांश", "en": "Quadrant"}
+            {"hi": "एक चर वाला रैखिक समीकरण", "en": "Linear equation in one variable"},
+            {"hi": "दो चरों में एक रैखिक समीकरण", "en": "Linear equation in two variables"},
+            {"hi": "द्विघात समीकरण", "en": "Quadratic equation"},
+            {"hi": "त्रिघात समीकरण", "en": "Cubic equation"}
           ],
-          "answer": {"hi": "x-अक्ष", "en": "x-axis"}
+          "answer": {"hi": "दो चरों में एक रैखिक समीकरण", "en": "Linear equation in two variables"}
         },
         {
           "q": {
-            "hi": "किसी बिंदु की स्थिति निर्धारित करने वाली ऊर्ध्वाधर रेखा को क्या कहा जाता है?",
-            "en": "What is the vertical line called that determines the position of a point in a plane?"
+            "hi": "प्रतिबंध 'a और b दोनों शून्य नहीं हैं' को बीजगणितीय रूप से किस प्रकार प्रदर्शित किया जाता है?",
+            "en": "How is the condition 'both a and b are not zero' represented algebraically?"
           },
           "options": [
-            {"hi": "x-अक्ष", "en": "x-axis"},
-            {"hi": "y-अक्ष", "en": "y-axis"},
-            {"hi": "भुज", "en": "Abscissa"},
-            {"hi": "कोटि", "en": "Ordinate"}
+            {"hi": "a + b \\ne 0", "en": "a + b \\ne 0"},
+            {"hi": "a^2 + b^2 \\ne 0", "en": "a^2 + b^2 \\ne 0"},
+            {"hi": "ab = 0", "en": "ab = 0"},
+            {"hi": "a^2 - b^2 = 0", "en": "a^2 - b^2 = 0"}
           ],
-          "answer": {"hi": "y-अक्ष", "en": "y-axis"}
+          "answer": {"hi": "a^2 + b^2 \\ne 0", "en": "a^2 + b^2 \\ne 0"}
         },
         {
           "q": {
-            "hi": "जिस बिंदु पर x-अक्ष और y-अक्ष एक-दूसरे को काटते हैं, उसे क्या कहते हैं?",
-            "en": "What is the point called where the x-axis and y-axis intersect each other?"
+            "hi": "दो चरों वाले एक रैखिक समीकरण का प्रत्येक हल (x, y) ज्यामितीय दृष्टि से उसको निरूपित करने वाली रेखा पर कहाँ स्थित होता है?",
+            "en": "Geometrically, where does every solution (x, y) of a linear equation in two variables lie on the line representing it?"
           },
           "options": [
-            {"hi": "केंद्र", "en": "Center"},
-            {"hi": "मूलबिंदु", "en": "Origin"},
-            {"hi": "शून्य बिंदु", "en": "Zero point"},
-            {"hi": "प्रतिच्छेद बिंदु", "en": "Intersection point"}
+            {"hi": "रेखा के बाहर", "en": "Outside the line"},
+            {"hi": "रेखा पर स्थित एक बिंदु के संगत", "en": "Corresponding to a point on the line"},
+            {"hi": "केवल मूल बिंदु पर", "en": "Only at the origin"},
+            {"hi": "रेखा के लंबवत", "en": "Perpendicular to the line"}
           ],
-          "answer": {"hi": "मूलबिंदु", "en": "Origin"}
+          "answer": {"hi": "रेखा पर स्थित एक बिंदु के संगत", "en": "Corresponding to a point on the line"}
         },
         {
           "q": {
-            "hi": "निर्देशांक अक्ष तल को चार भागों में विभाजित करते हैं, जिन्हें क्या कहा जाता है?",
-            "en": "The coordinate axes divide the plane into four parts, which are called?"
+            "hi": "दो चरों x और y में रैखिक समीकरण युग्म का सबसे व्यापक रूप क्या है?",
+            "en": "What is the most general form of a pair of linear equations in two variables x and y?"
           },
           "options": [
-            {"hi": "खंड", "en": "Segments"},
-            {"hi": "चतुर्थांश", "en": "Quadrants"},
-            {"hi": "अर्धतल", "en": "Half-planes"},
-            {"hi": "वर्ग", "en": "Squares"}
+            {"hi": "ax + by + c = 0", "en": "ax + by + c = 0"},
+            {"hi": "a_1x + b_1y + c_1 = 0 और a_2x + b_2y + c_2 = 0", "en": "a_1x + b_1y + c_1 = 0 and a_2x + b_2y + c_2 = 0"},
+            {"hi": "ax^2 + bx + c = 0", "en": "ax^2 + bx + c = 0"},
+            {"hi": "a_1x^2 + b_1y = c_1 और a_2x^2 + b_2y = c_2", "en": "a_1x^2 + b_1y = c_1 and a_2x^2 + b_2y = c_2"}
           ],
-          "answer": {"hi": "चतुर्थांश", "en": "Quadrants"}
+          "answer": {"hi": "a_1x + b_1y + c_1 = 0 और a_2x + b_2y + c_2 = 0", "en": "a_1x + b_1y + c_1 = 0 and a_2x + b_2y + c_2 = 0"}
         },
         {
           "q": {
-            "hi": "मूलबिंदु के निर्देशांक क्या होते हैं?",
-            "en": "What are the coordinates of the origin?"
+            "hi": "कक्षा IX के ज्ञान के आधार पर, दो चरों में एक रैखिक समीकरण का ज्यामितीय (अर्थात् ग्राफीय) निरूपण क्या होता है?",
+            "en": "Based on Class IX knowledge, what is the geometric (i.e., graphical) representation of a linear equation in two variables?"
           },
           "options": [
-            {"hi": "(1, 1)", "en": "(1, 1)"},
-            {"hi": "(0, 1)", "en": "(0, 1)"},
-            {"hi": "(1, 0)", "en": "(1, 0)"},
-            {"hi": "(0, 0)", "en": "(0, 0)"}
+            {"hi": "एक वक्र रेखा", "en": "A curved line"},
+            {"hi": "एक सरल रेखा (Straight line)", "en": "A straight line"},
+            {"hi": "एक वृत्त", "en": "A circle"},
+            {"hi": "एक परवलय", "en": "A parabola"}
           ],
-          "answer": {"hi": "(0, 0)", "en": "(0, 0)"}
+          "answer": {"hi": "एक सरल रेखा (Straight line)", "en": "A straight line"}
         },
         {
           "q": {
-            "hi": "किसी बिंदु के x-निर्देशांक को और क्या कहा जाता है?",
-            "en": "What else is the x-coordinate of a point called?"
+            "hi": "एक तल में यदि दो रेखाएँ दी हों, तो निम्नलिखित में से कौन सी एक संभावना नहीं हो सकती?",
+            "en": "If two lines are given in a plane, which of the following cannot be a possibility?"
           },
           "options": [
-            {"hi": "कोटि", "en": "Ordinate"},
-            {"hi": "भुज", "en": "Abscissa"},
-            {"hi": "मूल", "en": "Root"},
-            {"hi": "अक्ष", "en": "Axis"}
+            {"hi": "दोनों रेखाएँ एक बिंदु पर प्रतिच्छेद करती हैं", "en": "The two lines intersect at one point"},
+            {"hi": "दोनों रेखाएँ समांतर हैं", "en": "The two lines are parallel"},
+            {"hi": "दोनों रेखाएँ संपाती हैं", "en": "The two lines are coincident"},
+            {"hi": "दोनों रेखाएँ एक दूसरे को दो भिन्न बिंदुओं पर प्रतिच्छेद करती हैं", "en": "The two lines intersect each other at two distinct points"}
           ],
-          "answer": {"hi": "भुज", "en": "Abscissa"}
+          "answer": {"hi": "दोनों रेखाएँ एक दूसरे को दो भिन्न बिंदुओं पर प्रतिच्छेद करती हैं", "en": "The two lines intersect each other at two distinct points"}
         },
         {
           "q": {
-            "hi": "किसी बिंदु के y-निर्देशांक को और क्या कहा जाता है?",
-            "en": "What else is the y-coordinate of a point called?"
+            "hi": "एक रैखिक समीकरण युग्म जिसका कोई हल नहीं होता, क्या कहलाता है?",
+            "en": "A pair of linear equations which has no solution is called what?"
           },
           "options": [
-            {"hi": "भुज", "en": "Abscissa"},
-            {"hi": "कोटि", "en": "Ordinate"},
-            {"hi": "ऊंचाई", "en": "Height"},
-            {"hi": "दूरी", "en": "Distance"}
+            {"hi": "संगत (Consistent) युग्म", "en": "Consistent pair"},
+            {"hi": "असंगत (Inconsistent) युग्म", "en": "Inconsistent pair"},
+            {"hi": "आश्रित युग्म", "en": "Dependent pair"},
+            {"hi": "तुल्य युग्म", "en": "Equivalent pair"}
           ],
-          "answer": {"hi": "कोटि", "en": "Ordinate"}
+          "answer": {"hi": "असंगत (Inconsistent) युग्म", "en": "Inconsistent pair"}
         },
         {
           "q": {
-            "hi": "एक बिंदु के निर्देशांक (3, 4) हैं। यहाँ भुज क्या है?",
-            "en": "The coordinates of a point are (3, 4). What is the abscissa here?"
+            "hi": "एक रैखिक समीकरण युग्म जिसका कोई हल (एक या अनेक) होता है, क्या कहलाता है?",
+            "en": "A pair of linear equations which has a solution (one or many) is called what?"
           },
           "options": [
-            {"hi": "4", "en": "4"},
-            {"hi": "3", "en": "3"},
-            {"hi": "7", "en": "7"},
-            {"hi": "12", "en": "12"}
+            {"hi": "असंगत युग्म", "en": "Inconsistent pair"},
+            {"hi": "संगत (Consistent) युग्म", "en": "Consistent pair"},
+            {"hi": "विरोधी युग्म", "en": "Opposing pair"},
+            {"hi": "काल्पनिक युग्म", "en": "Imaginary pair"}
           ],
-          "answer": {"hi": "3", "en": "3"}
+          "answer": {"hi": "संगत (Consistent) युग्म", "en": "Consistent pair"}
         },
         {
           "q": {
-            "hi": "बिंदु (-2, 5) किस चतुर्थांश में स्थित है?",
-            "en": "In which quadrant is the point (-2, 5) located?"
+            "hi": "तुल्य रैखिक समीकरणों के एक युग्म के अपरिमित रूप से अनेक हल होते हैं। इस युग्म को क्या कहते हैं?",
+            "en": "A pair of equivalent linear equations has infinitely many solutions. What is this pair called?"
           },
           "options": [
-            {"hi": "प्रथम", "en": "First"},
-            {"hi": "द्वितीय", "en": "Second"},
-            {"hi": "तृतीय", "en": "Third"},
-            {"hi": "चतुर्थ", "en": "Fourth"}
+            {"hi": "असंगत युग्म", "en": "Inconsistent pair"},
+            {"hi": "आश्रित (Dependent) युग्म", "en": "Dependent pair"},
+            {"hi": "अद्वितीय युग्म", "en": "Unique pair"},
+            {"hi": "शून्य युग्म", "en": "Zero pair"}
           ],
-          "answer": {"hi": "द्वितीय", "en": "Second"}
+          "answer": {"hi": "आश्रित (Dependent) युग्म", "en": "Dependent pair"}
         },
         {
           "q": {
-            "hi": "x-अक्ष पर स्थित किसी भी बिंदु की कोटि (y-निर्देशांक) क्या होती है?",
-            "en": "What is the ordinate (y-coordinate) of any point lying on the x-axis?"
+            "hi": "रैखिक समीकरणों का आश्रित युग्म सदैव कैसा होता है?",
+            "en": "A dependent pair of linear equations is always what?"
           },
           "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "x के बराबर", "en": "Equal to x"},
-            {"hi": "0", "en": "0"},
-            {"hi": "-1", "en": "-1"}
+            {"hi": "असंगत", "en": "Inconsistent"},
+            {"hi": "संगत (Consistent)", "en": "Consistent"},
+            {"hi": "कोई हल नहीं रखने वाला", "en": "Having no solution"},
+            {"hi": "समांतर रेखाएँ प्रदर्शित करने वाला", "en": "Representing parallel lines"}
           ],
-          "answer": {"hi": "0", "en": "0"}
+          "answer": {"hi": "संगत (Consistent)", "en": "Consistent"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "y-अक्ष पर स्थित किसी बिंदु का भुज (x-निर्देशांक) क्या होता है?",
-            "en": "What is the abscissa (x-coordinate) of a point lying on the y-axis?"
+            "hi": "यदि दो रेखाएँ ग्राफीय रूप में एक बिंदु पर प्रतिच्छेद करती हैं, तो समीकरण युग्म के कितने हल होंगे?",
+            "en": "If two lines graphically intersect at a single point, how many solutions will the pair of equations have?"
           },
           "options": [
-            {"hi": "0", "en": "0"},
-            {"hi": "1", "en": "1"},
-            {"hi": "y के बराबर", "en": "Equal to y"},
-            {"hi": "कोई भी संख्या", "en": "Any number"}
+            {"hi": "कोई हल नहीं", "en": "No solution"},
+            {"hi": "अपरिमित रूप से अनेक हल", "en": "Infinitely many solutions"},
+            {"hi": "अद्वितीय हल (केवल एक हल)", "en": "A unique solution (exactly one solution)"},
+            {"hi": "दो हल", "en": "Two solutions"}
           ],
-          "answer": {"hi": "0", "en": "0"}
+          "answer": {"hi": "अद्वितीय हल (केवल एक हल)", "en": "A unique solution (exactly one solution)"}
         },
         {
           "q": {
-            "hi": "बिंदु (4, -3) किस चतुर्थांश में स्थित है?",
-            "en": "In which quadrant is the point (4, -3) located?"
+            "hi": "यदि ग्राफीय रूप में दो रेखाएँ समांतर (parallel) हों, तो उस समीकरण युग्म का बीजगणितीय निरूपण क्या होगा?",
+            "en": "If graphically two lines are parallel, what will be the algebraic representation of that pair of equations?"
           },
           "options": [
-            {"hi": "प्रथम", "en": "First"},
-            {"hi": "द्वितीय", "en": "Second"},
-            {"hi": "तृतीय", "en": "Third"},
-            {"hi": "चतुर्थ", "en": "Fourth"}
+            {"hi": "अद्वितीय हल", "en": "Unique solution"},
+            {"hi": "कोई हल नहीं (No solution)", "en": "No solution"},
+            {"hi": "अपरिमित रूप से अनेक हल", "en": "Infinitely many solutions"},
+            {"hi": "तीन हल", "en": "Three solutions"}
           ],
-          "answer": {"hi": "चतुर्थ", "en": "Fourth"}
+          "answer": {"hi": "कोई हल नहीं (No solution)", "en": "No solution"}
         },
         {
           "q": {
-            "hi": "यदि भुज और कोटि दोनों ऋणात्मक हों, तो बिंदु किस चतुर्थांश में होगा?",
-            "en": "If both abscissa and ordinate are negative, in which quadrant will the point be?"
+            "hi": "यदि दो चरों वाले रैखिक समीकरण युग्म का ग्राफ संपाती (coincident) रेखाएँ दिखाता है, तो उसके कितने हल होते हैं?",
+            "en": "If the graph of a pair of linear equations in two variables shows coincident lines, how many solutions does it have?"
           },
           "options": [
-            {"hi": "प्रथम", "en": "First"},
-            {"hi": "द्वितीय", "en": "Second"},
-            {"hi": "तृतीय", "en": "Third"},
-            {"hi": "चतुर्थ", "en": "Fourth"}
+            {"hi": "केवल एक हल", "en": "Exactly one solution"},
+            {"hi": "कोई हल नहीं", "en": "No solution"},
+            {"hi": "अपरिमित रूप से अनेक हल (Infinitely many solutions)", "en": "Infinitely many solutions"},
+            {"hi": "दो हल", "en": "Two solutions"}
           ],
-          "answer": {"hi": "तृतीय", "en": "Third"}
+          "answer": {"hi": "अपरिमित रूप से अनेक हल (Infinitely many solutions)", "en": "Infinitely many solutions"}
         },
         {
           "q": {
-            "hi": "बिंदु (0, 5) कहाँ स्थित है?",
-            "en": "Where is the point (0, 5) located?"
+            "hi": "समीकरण युग्म a_1x + b_1y + c_1 = 0 और a_2x + b_2y + c_2 = 0 के गुणांकों के अनुपातों की तुलना में, यदि a_1/a_2 \\ne b_1/b_2 हो, तो ग्राफीय निरूपण कैसा होगा?",
+            "en": "In comparing the ratios of coefficients for the pair of equations a_1x + b_1y + c_1 = 0 and a_2x + b_2y + c_2 = 0, if a_1/a_2 \\ne b_1/b_2, what will be the graphical representation?"
           },
           "options": [
-            {"hi": "x-अक्ष पर", "en": "On the x-axis"},
-            {"hi": "y-अक्ष पर", "en": "On the y-axis"},
-            {"hi": "प्रथम चतुर्थांश में", "en": "In the first quadrant"},
-            {"hi": "मूलबिंदु पर", "en": "At the origin"}
+            {"hi": "समांतर रेखाएँ", "en": "Parallel lines"},
+            {"hi": "संपाती रेखाएँ", "en": "Coincident lines"},
+            {"hi": "प्रतिच्छेद करती हुई रेखाएँ (Intersecting lines)", "en": "Intersecting lines"},
+            {"hi": "क्षैतिज रेखाएँ", "en": "Horizontal lines"}
           ],
-          "answer": {"hi": "y-अक्ष पर", "en": "On the y-axis"}
+          "answer": {"hi": "प्रतिच्छेद करती हुई रेखाएँ (Intersecting lines)", "en": "Intersecting lines"}
         },
         {
           "q": {
-            "hi": "बिंदु (-3, 0) कहाँ स्थित है?",
-            "en": "Where is the point (-3, 0) located?"
+            "hi": "रैखिक समीकरण युग्म के लिए यदि a_1/a_2 = b_1/b_2 = c_1/c_2 की स्थिति प्राप्त हो, तो रेखाएँ कैसी होंगी?",
+            "en": "For a pair of linear equations, if the condition a_1/a_2 = b_1/b_2 = c_1/c_2 is obtained, what will the lines be?"
           },
           "options": [
-            {"hi": "y-अक्ष पर", "en": "On the y-axis"},
-            {"hi": "द्वितीय चतुर्थांश में", "en": "In the second quadrant"},
-            {"hi": "x-अक्ष पर", "en": "On the x-axis"},
-            {"hi": "तृतीय चतुर्थांश में", "en": "In the third quadrant"}
+            {"hi": "प्रतिच्छेद करती हुई", "en": "Intersecting"},
+            {"hi": "समांतर", "en": "Parallel"},
+            {"hi": "संपाती रेखाएँ (Coincident lines)", "en": "Coincident lines"},
+            {"hi": "लंबवत", "en": "Perpendicular"}
           ],
-          "answer": {"hi": "x-अक्ष पर", "en": "On the x-axis"}
+          "answer": {"hi": "संपाती रेखाएँ (Coincident lines)", "en": "Coincident lines"}
         },
         {
           "q": {
-            "hi": "रेने देकार्त ने किस प्रणाली का विकास किया था?",
-            "en": "Which system did Rene Descartes develop?"
+            "hi": "यदि अनुपातों की तुलना करने पर a_1/a_2 = b_1/b_2 \\ne c_1/c_2 की स्थिति बने, तो बीजगणितीय निरूपण क्या होगा?",
+            "en": "If the condition a_1/a_2 = b_1/b_2 \\ne c_1/c_2 is formed upon comparing ratios, what will be the algebraic representation?"
           },
           "options": [
-            {"hi": "संख्या रेखा", "en": "Number line"},
-            {"hi": "कार्तीय प्रणाली", "en": "Cartesian system"},
-            {"hi": "बीजगणित", "en": "Algebra"},
-            {"hi": "त्रिकोणमिति", "en": "Trigonometry"}
+            {"hi": "अद्वितीय हल", "en": "Unique solution"},
+            {"hi": "अपरिमित रूप से अनेक हल", "en": "Infinitely many solutions"},
+            {"hi": "कोई हल नहीं (No solution)", "en": "No solution"},
+            {"hi": "दो हल", "en": "Two solutions"}
           ],
-          "answer": {"hi": "कार्तीय प्रणाली", "en": "Cartesian system"}
+          "answer": {"hi": "कोई हल नहीं (No solution)", "en": "No solution"}
         },
         {
           "q": {
-            "hi": "प्रथम चतुर्थांश में स्थित किसी बिंदु के चिन्ह क्या होते हैं?",
-            "en": "What are the signs of a point located in the first quadrant?"
+            "hi": "समीकरण युग्म x - 2y = 0 और 3x + 4y - 20 = 0 के लिए अनुपातों a_1/a_2 और b_1/b_2 की तुलना करने पर कौन सा संबंध सही है?",
+            "en": "On comparing the ratios a_1/a_2 and b_1/b_2 for the pair of equations x - 2y = 0 and 3x + 4y - 20 = 0, which relationship is correct?"
           },
           "options": [
-            {"hi": "(+, +)", "en": "(+, +)"},
-            {"hi": "(-, +)", "en": "(-, +)"},
-            {"hi": "(-, -)", "en": "(-, -)"},
-            {"hi": "(+, -)", "en": "(+, -)"}
+            {"hi": "1/3 = (-2)/4", "en": "1/3 = (-2)/4"},
+            {"hi": "1/3 \\ne (-2)/4", "en": "1/3 \\ne (-2)/4"},
+            {"hi": "1/3 = 0", "en": "1/3 = 0"},
+            {"hi": "(-2)/4 = 0", "en": "(-2)/4 = 0"}
           ],
-          "answer": {"hi": "(+, +)", "en": "(+, +)"}
+          "answer": {"hi": "1/3 \\ne (-2)/4", "en": "1/3 \\ne (-2)/4"}
         },
         {
           "q": {
-            "hi": "बिंदु P(2, 3) की y-अक्ष से लंबवत दूरी क्या है?",
-            "en": "What is the perpendicular distance of point P(2, 3) from the y-axis?"
+            "hi": "रोमिला ने ₹9 में 2 पेंसिल तथा 3 रबड़ खरीदीं और सोनाली ने ₹18 में 4 पेंसिल और 6 रबड़ खरीदीं। इस स्थिति के रैखिक समीकरण क्या होंगे?",
+            "en": "Romila bought 2 pencils and 3 erasers for ₹9 and Sonali bought 4 pencils and 6 erasers for ₹18. What will be the linear equations for this situation?"
           },
           "options": [
-            {"hi": "3 इकाई", "en": "3 units"},
-            {"hi": "2 इकाई", "en": "2 units"},
-            {"hi": "5 इकाई", "en": "5 units"},
-            {"hi": "√13 इकाई", "en": "√13 units"}
+            {"hi": "2x + 3y = 9 और 4x + 6y = 18", "en": "2x + 3y = 9 and 4x + 6y = 18"},
+            {"hi": "3x + 2y = 9 और 6x + 4y = 18", "en": "3x + 2y = 9 and 6x + 4y = 18"},
+            {"hi": "2x + 3y = 18 और 4x + 6y = 9", "en": "2x + 3y = 18 and 4x + 6y = 9"},
+            {"hi": "x + y = 9 और 4x + 6y = 18", "en": "x + y = 9 and 4x + 6y = 18"}
           ],
-          "answer": {"hi": "2 इकाई", "en": "2 units"}
+          "answer": {"hi": "2x + 3y = 9 और 4x + 6y = 18", "en": "2x + 3y = 9 and 4x + 6y = 18"}
         },
         {
           "q": {
-            "hi": "बिंदु M(-4, -6) की x-अक्ष से दूरी क्या है?",
-            "en": "What is the distance of point M(-4, -6) from the x-axis?"
+            "hi": "समीकरण युग्म 2x + 3y - 9 = 0 और 4x + 6y - 18 = 0 के लिए अनुपातों का संबंध क्या होगा?",
+            "en": "What will be the relationship of ratios for the pair of equations 2x + 3y - 9 = 0 and 4x + 6y - 18 = 0?"
           },
           "options": [
-            {"hi": "4 इकाई", "en": "4 units"},
-            {"hi": "-6 इकाई", "en": "-6 units"},
-            {"hi": "6 इकाई", "en": "6 units"},
-            {"hi": "10 इकाई", "en": "10 units"}
+            {"hi": "a_1/a_2 \\ne b_1/b_2", "en": "a_1/a_2 \\ne b_1/b_2"},
+            {"hi": "a_1/a_2 = b_1/b_2 \\ne c_1/c_2", "en": "a_1/a_2 = b_1/b_2 \\ne c_1/c_2"},
+            {"hi": "a_1/a_2 = b_1/b_2 = c_1/c_2", "en": "a_1/a_2 = b_1/b_2 = c_1/c_2"},
+            {"hi": "b_1/b_2 \\ne c_1/c_2", "en": "b_1/b_2 \\ne c_1/c_2"}
           ],
-          "answer": {"hi": "6 इकाई", "en": "6 units"}
+          "answer": {"hi": "a_1/a_2 = b_1/b_2 = c_1/c_2", "en": "a_1/a_2 = b_1/b_2 = c_1/c_2"}
         },
         {
           "q": {
-            "hi": "चतुर्थ चतुर्थांश में निर्देशांकों के चिन्ह क्या होते हैं?",
-            "en": "What are the signs of coordinates in the fourth quadrant?"
+            "hi": "समीकरण युग्म x + 2y - 4 = 0 और 2x + 4y - 12 = 0 द्वारा निरूपित रेखाएँ कैसी होंगी?",
+            "en": "What type of lines are represented by the pair of equations x + 2y - 4 = 0 and 2x + 4y - 12 = 0?"
           },
           "options": [
-            {"hi": "(+, +)", "en": "(+, +)"},
-            {"hi": "(-, +)", "en": "(-, +)"},
-            {"hi": "(-, -)", "en": "(-, -)"},
-            {"hi": "(+, -)", "en": "(+, -)"}
+            {"hi": "प्रतिच्छेद करती हुई रेखाएँ", "en": "Intersecting lines"},
+            {"hi": "संpaती रेखाएँ", "en": "Coincident lines"},
+            {"hi": "समांतर रेखाएँ (Parallel lines)", "en": "Parallel lines"},
+            {"hi": "लंबवत रेखाएँ", "en": "Perpendicular lines"}
           ],
-          "answer": {"hi": "(+, -)", "en": "(+, -)"}
+          "answer": {"hi": "समांतर रेखाएँ (Parallel lines)", "en": "Parallel lines"}
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "यदि किसी बिंदु का x-निर्देशांक शून्य है, तो वह बिंदु किस अक्ष पर होगा?",
-            "en": "If the x-coordinate of a point is zero, on which axis will that point lie?"
+            "hi": "निम्नलिखित में से कौन सी एक रैखिक समीकरण युग्म को हल करने की बीजगणितीय विधि नहीं है?",
+            "en": "Which of the following is not an algebraic method to solve a pair of linear equations?"
           },
           "options": [
-            {"hi": "x-अक्ष पर", "en": "On the x-axis"},
-            {"hi": "y-अक्ष पर", "en": "On the y-axis"},
-            {"hi": "दोनों पर", "en": "On both"},
-            {"hi": "किसी पर नहीं", "en": "On neither"}
+            {"hi": "प्रतिस्थापन विधि (Substitution method)", "en": "Substitution method"},
+            {"hi": "विलोपन विधि (Elimination method)", "en": "Elimination method"},
+            {"hi": "वज्र-गुणन विधि (Cross-multiplication method)", "en": "Cross-multiplication method"},
+            {"hi": "ग्राफीय विधि (Graphical method)", "en": "Graphical method"}
           ],
-          "answer": {"hi": "y-अक्ष पर", "en": "On the y-axis"}
+          "answer": {"hi": "ग्राफीय विधि (Graphical method)", "en": "Graphical method"}
         },
         {
           "q": {
-            "hi": "बिंदु (-5, 2) और (2, -5) क्या एक ही बिंदु को निरूपित करते हैं?",
-            "en": "Do points (-5, 2) and (2, -5) represent the same point?"
+            "hi": "प्रतिस्थापन विधि में हम सर्वप्रथम क्या करते हैं?",
+            "en": "What do we do first in the substitution method?"
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"},
-            {"hi": "केवल मूलबिंदु पर", "en": "Only at origin"}
+            {"hi": "दोनों समीकरणों को जोड़ते हैं", "en": "Add both equations"},
+            {"hi": "एक चर का मान दूसरे चर के पदों में व्यक्त करते हैं", "en": "Express the value of one variable in terms of the other variable"},
+            {"hi": "किसी एक चर को पूरी तरह विलुप्त करते हैं", "en": "Completely eliminate one variable"},
+            {"hi": "गुणांकों को समान करते हैं", "en": "Equalize the coefficients"}
           ],
-          "answer": {"hi": "नहीं", "en": "No"}
+          "answer": {"hi": "एक चर का मान दूसरे चर के पदों में व्यक्त करते हैं", "en": "Express the value of one variable in terms of the other variable"}
         },
         {
           "q": {
-            "hi": "बिंदु A(5, 0), B(0, 5), C(-5, 0) और D(0, -5) में से कौन सा बिंदु x-अक्ष पर स्थित नहीं है?",
-            "en": "Which of the points A(5, 0), B(0, 5), C(-5, 0), and D(0, -5) is NOT located on the x-axis?"
+            "hi": "यदि प्रतिस्थापन विधि के चरण 2 में हमें चर रहित एक सत्य कथन (जैसे 18 = 18) प्राप्त हो, तो मूल समीकरण युग्म के कितने हल होंगे?",
+            "en": "If in step 2 of the substitution method we get a true statement without variables (like 18 = 18), how many solutions will the original pair of equations have?"
           },
           "options": [
-            {"hi": "A और C", "en": "A and C"},
-            {"hi": "B और D", "en": "B and D"},
-            {"hi": "केवल B", "en": "Only B"},
-            {"hi": "केवल D", "en": "Only D"}
+            {"hi": "कोई हल नहीं", "en": "No solution"},
+            {"hi": "एक अद्वितीय हल", "en": "A unique solution"},
+            {"hi": "अपरिमित रूप से अनेक हल (Infinitely many solutions)", "en": "Infinitely many solutions"},
+            {"hi": "केवल दो हल", "en": "Exactly two solutions"}
           ],
-          "answer": {"hi": "B और D", "en": "B and D"}
+          "answer": {"hi": "अपरिमित रूप से अनेक हल (Infinitely many solutions)", "en": "Infinitely many solutions"}
         },
         {
           "q": {
-            "hi": "बिंदु (3, 3) किस चतुर्थांश में है?",
-            "en": "In which quadrant is the point (3, 3)?"
+            "hi": "यदि प्रतिस्थापन या विलोपन विधि में हमें चर रहित एक असत्य कथन (जैसे -4 = 0 या 0 = 9) प्राप्त हो, तो इसका क्या अर्थ है?",
+            "en": "If in the substitution or elimination method we get a false statement without variables (like -4 = 0 or 0 = 9), what does it mean?"
           },
           "options": [
-            {"hi": "प्रथम", "en": "First"},
-            {"hi": "द्वितीय", "en": "Second"},
-            {"hi": "तृतीय", "en": "Third"},
-            {"hi": "चतुर्थ", "en": "Fourth"}
+            {"hi": "समीकरण युग्म का कोई हल नहीं है (The pair of equations has no solution)", "en": "The pair of equations has no solution"},
+            {"hi": "समीकरण युग्म के अनंत हल हैं", "en": "The pair of equations has infinite solutions"},
+            {"hi": "समीकरण युग्म संगत है", "en": "The pair of equations is consistent"},
+            {"hi": "गणना में त्रुटि हुई है", "en": "There is an error in calculation"}
           ],
-          "answer": {"hi": "प्रथम", "en": "First"}
+          "answer": {"hi": "समीकरण युग्म का कोई हल नहीं है (The pair of equations has no solution)", "en": "The pair of equations has no solution"}
         },
         {
           "q": {
-            "hi": "निर्देशांक तल को और किस नाम से जाना जाता है?",
-            "en": "By what other name is the coordinate plane known?"
+            "hi": "विलोपन विधि (Elimination method) का मुख्य उद्देश्य क्या होता है?",
+            "en": "What is the main objective of the elimination method?"
           },
           "options": [
-            {"hi": "x-y तल", "en": "x-y plane"},
-            {"hi": "कार्तीय तल", "en": "Cartesian plane"},
-            {"hi": "उपरोक्त दोनों", "en": "Both of the above"},
-            {"hi": "कोई नहीं", "en": "None"}
+            {"hi": "ग्राफ खींचना", "en": "To draw a graph"},
+            {"hi": "एक चर को विलुप्त करके एक चर में रैखिक समीकरण प्राप्त करना", "en": "To eliminate one variable to get a linear equation in one variable"},
+            {"hi": "गुणांकों को हमेशा शून्य बनाना", "en": "To always make coefficients zero"},
+            {"hi": "तिरछा गुणा करना", "en": "To cross-multiply"}
           ],
-          "answer": {"hi": "उपरोक्त दोनों", "en": "Both of the above"}
+          "answer": {"hi": "एक चर को विलुप्त करके एक चर में रैखिक समीकरण प्राप्त करना", "en": "To eliminate one variable to get a linear equation in one variable"}
         },
         {
           "q": {
-            "hi": "बिंदु (-1, 0) किस अक्ष पर है?",
-            "en": "On which axis is the point (-1, 0)?"
+            "hi": "विलोपन विधि के चरण 1 में गुणांकों को समान करने के लिए हम समीकरणों को किससे गुणा करते हैं?",
+            "en": "In step 1 of the elimination method, what do we multiply the equations by to make coefficients equal?"
           },
           "options": [
-            {"hi": "धनात्मक x-अक्ष", "en": "Positive x-axis"},
-            {"hi": "ऋणात्मक x-अक्ष", "en": "Negative x-axis"},
-            {"hi": "धनात्मक y-अक्ष", "en": "Positive y-axis"},
-            {"hi": "ऋणात्मक y-अक्ष", "en": "Negative y-axis"}
+            {"hi": "शून्य से", "en": "By zero"},
+            {"hi": "उपयुक्त शून्येतर अचरों से (By suitable non-zero constants)", "en": "By suitable non-zero constants"},
+            {"hi": "केवल ऋणात्मक संख्याओं से", "en": "Only by negative numbers"},
+            {"hi": "चर x और y से", "en": "By variables x and y"}
           ],
-          "answer": {"hi": "ऋणात्मक x-अक्ष", "en": "Negative x-axis"}
+          "answer": {"hi": "उपयुक्त शून्येतर अचरों से (By suitable non-zero constants)", "en": "By suitable non-zero constants"}
         },
         {
           "q": {
-            "hi": "भुज ऋणात्मक और कोटि धनात्मक होने पर बिंदु किस चतुर्थांश में होगा?",
-            "en": "In which quadrant will the point be if the abscissa is negative and the ordinate is positive?"
+            "hi": "दो अंकों की एक संख्या के अंकों का योग 9 है। यदि दहाई का अंक x और इकाई का अंक y हो, तो संख्या का प्रसारित रूप क्या होगा?",
+            "en": "The sum of digits of a two-digit number is 9. If the tens digit is x and the units digit is y, what will be the expanded form of the number?"
           },
           "options": [
-            {"hi": "प्रथम", "en": "First"},
-            {"hi": "द्वितीय", "en": "Second"},
-            {"hi": "तृतीय", "en": "Third"},
-            {"hi": "चतुर्थ", "en": "Fourth"}
+            {"hi": "x + y", "en": "x + y"},
+            {"hi": "10x + y", "en": "10x + y"},
+            {"hi": "10y + x", "en": "10y + x"},
+            {"hi": "100x + y", "en": "100x + y"}
           ],
-          "answer": {"hi": "द्वितीय", "en": "Second"}
+          "answer": {"hi": "10x + y", "en": "10x + y"}
         },
         {
           "q": {
-            "hi": "बिंदु (0, -7) कहाँ स्थित है?",
-            "en": "Where is the point (0, -7) located?"
+            "hi": "यदि संख्या 10x + y के अंकों को उलट दिया जाए, तो नई संख्या का प्रसारित रूप क्या होगा?",
+            "en": "If the digits of the number 10x + y are reversed, what will be the expanded form of the new number?"
           },
           "options": [
-            {"hi": "ऋणात्मक x-अक्ष पर", "en": "On the negative x-axis"},
-            {"hi": "ऋणात्मक y-अक्ष पर", "en": "On the negative y-axis"},
-            {"hi": "चतुर्थ चतुर्थांश में", "en": "In the fourth quadrant"},
-            {"hi": "तृतीय चतुर्थांश में", "en": "In the third quadrant"}
+            {"hi": "10x + y", "en": "10x + y"},
+            {"hi": "10y + x", "en": "10y + x"},
+            {"hi": "x - y", "en": "x - y"},
+            {"hi": "xy", "en": "xy"}
           ],
-          "answer": {"hi": "ऋणात्मक y-अक्ष पर", "en": "On the negative y-axis"}
+          "answer": {"hi": "10y + x", "en": "10y + x"}
         },
         {
           "q": {
-            "hi": "दो अक्षों के प्रतिच्छेद बिंदु के निर्देशांक क्या होते हैं?",
-            "en": "What are the coordinates of the intersection point of the two axes?"
+            "hi": "वज्र-गुणन विधि (Cross-multiplication method) से प्राप्त हल के लिए x का सूत्र क्या होता है?",
+            "en": "What is the formula of x for the solution obtained by cross-multiplication method?"
           },
           "options": [
-            {"hi": "(0, 0)", "en": "(0, 0)"},
-            {"hi": "(1, 1)", "en": "(1, 1)"},
-            {"hi": "(x, y)", "en": "(x, y)"},
-            {"hi": "(0, 1)", "en": "(0, 1)"}
+            {"hi": "x = (b_1c_2 - b_2c_1) / (a_1b_2 - a_2b_1)", "en": "x = (b_1c_2 - b_2c_1) / (a_1b_2 - a_2b_1)"},
+            {"hi": "x = (c_1a_2 - c_2a_1) / (a_1b_2 - a_2b_1)", "en": "x = (c_1a_2 - c_2a_1) / (a_1b_2 - a_2b_1)"},
+            {"hi": "x = (b_1c_2 + b_2c_1) / (a_1b_2 + a_2b_1)", "en": "x = (b_1c_2 + b_2c_1) / (a_1b_2 + a_2b_1)"},
+            {"hi": "x = (a_1b_2 - a_2b_1) / (b_1c_2 - b_2c_1)", "en": "x = (a_1b_2 - a_2b_1) / (b_1c_2 - b_2c_1)"}
           ],
-          "answer": {"hi": "(0, 0)", "en": "(0, 0)"}
+          "answer": {"hi": "x = (b_1c_2 - b_2c_1) / (a_1b_2 - a_2b_1)", "en": "x = (b_1c_2 - b_2c_1) / (a_1b_2 - a_2b_1)"}
         },
         {
           "q": {
-            "hi": "बिंदु (4, 4) की x-अक्ष से लंबवत दूरी क्या है?",
-            "en": "What is the perpendicular distance of the point (4, 4) from the x-axis?"
+            "hi": "वज्र-गुणन विधि के सूत्र में y का मान ज्ञात करने का सही अंश क्या होता है?",
+            "en": "What is the correct numerator for finding the value of y in the cross-multiplication formula?"
           },
           "options": [
-            {"hi": "0", "en": "0"},
-            {"hi": "4", "en": "4"},
-            {"hi": "8", "en": "8"},
-            {"hi": "16", "en": "16"}
+            {"hi": "b_1c_2 - b_2c_1", "en": "b_1c_2 - b_2c_1"},
+            {"hi": "c_1a_2 - c_2a_1", "en": "c_1a_2 - c_2a_1"},
+            {"hi": "a_1b_2 - a_2b_1", "en": "a_1b_2 - a_2b_1"},
+            {"hi": "c_2a_1 - c_1a_2", "en": "c_2a_1 - c_1a_2"}
           ],
-          "answer": {"hi": "4", "en": "4"}
+          "answer": {"hi": "c_1a_2 - c_2a_1", "en": "c_1a_2 - c_2a_1"}
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "यदि y-निर्देशांक शून्य है, तो बिंदु सदैव किस अक्ष पर स्थित होता है?",
-            "en": "If the y-coordinate is zero, on which axis does the point always lie?"
+            "hi": "वज्र-गुणन विधि के संबंधों को याद रखने के लिए x, y और 1 के नीचे लिखे पदों का कौन सा क्रम सही है?",
+            "en": "To remember the relations in cross-multiplication method, which sequence of terms written under x, y, and 1 is correct?"
           },
           "options": [
-            {"hi": "x-अक्ष", "en": "x-axis"},
-            {"hi": "y-अक्ष", "en": "y-axis"},
-            {"hi": "मूलबिंदु", "en": "Origin"},
-            {"hi": "किसी भी चतुर्थांश में", "en": "In any quadrant"}
+            {"hi": "x/(b_1c_2 - b_2c_1) = y/(c_1a_2 - c_2a_1) = 1/(a_1b_2 - a_2b_1)", "en": "x/(b_1c_2 - b_2c_1) = y/(c_1a_2 - c_2a_1) = 1/(a_1b_2 - a_2b_1)"},
+            {"hi": "x/(a_1b_2 - a_2b_1) = y/(b_1c_2 - b_2c_1) = 1/(c_1a_2 - c_2a_1)", "en": "x/(a_1b_2 - a_2b_1) = y/(b_1c_2 - b_2c_1) = 1/(c_1a_2 - c_2a_1)"},
+            {"hi": "x/(c_1a_2 - c_2a_1) = y/(b_1c_2 - b_2c_1) = 1/(a_1b_2 - a_2b_1)", "en": "x/(c_1a_2 - c_2a_1) = y/(b_1c_2 - b_2c_1) = 1/(a_1b_2 - a_2b_1)"},
+            {"hi": "x/(b_1b_2) = y/(c_1c_2) = 1/(a_1a_2)", "en": "x/(b_1b_2) = y/(c_1c_2) = 1/(a_1a_2)"}
           ],
-          "answer": {"hi": "x-अक्ष", "en": "x-axis"}
+          "answer": {"hi": "x/(b_1c_2 - b_2c_1) = y/(c_1a_2 - c_2a_1) = 1/(a_1b_2 - a_2b_1)", "en": "x/(b_1c_2 - b_2c_1) = y/(c_1a_2 - c_2a_1) = 1/(a_1b_2 - a_2b_1)"}
         },
         {
           "q": {
-            "hi": "किसी बिंदु की y-अक्ष से दूरी को क्या कहते हैं?",
-            "en": "What is the distance of a point from the y-axis called?"
+            "hi": "समीकरण युग्म 4x + py + 8 = 0 और 2x + 2y + 2 = 0 का एक अद्वितीय हल होने के लिए p का मान क्या होना चाहिए?",
+            "en": "For the pair of equations 4x + py + 8 = 0 and 2x + 2y + 2 = 0 to have a unique solution, what should be the value of p?"
           },
           "options": [
-            {"hi": "कोटि", "en": "Ordinate"},
-            {"hi": "भुज", "en": "Abscissa"},
-            {"hi": "मूल", "en": "Root"},
-            {"hi": "लंब", "en": "Perpendicular"}
+            {"hi": "p = 4", "en": "p = 4"},
+            {"hi": "p \\ne 4", "en": "p \\ne 4"},
+            {"hi": "p = 2", "en": "p = 2"},
+            {"hi": "p \\ne 2", "en": "p \\ne 2"}
           ],
-          "answer": {"hi": "भुज", "en": "Abscissa"}
+          "answer": {"hi": "p \\ne 4", "en": "p \\ne 4"}
         },
         {
           "q": {
-            "hi": "बिंदु (5, -2) का भुज क्या है?",
-            "en": "What is the abscissa of the point (5, -2)?"
+            "hi": "समीकरण युग्म kx + 3y - (k - 3) = 0 और 12x + ky - k = 0 के अपरिमित रूप से अनेक हल होने के लिए k का मान क्या होना चाहिए?",
+            "en": "For the pair of equations kx + 3y - (k - 3) = 0 and 12x + ky - k = 0 to have infinitely many solutions, what should be the value of k?"
           },
           "options": [
-            {"hi": "5", "en": "5"},
-            {"hi": "-2", "en": "-2"},
-            {"hi": "3", "en": "3"},
-            {"hi": "7", "en": "7"}
+            {"hi": "k = 0", "en": "k = 0"},
+            {"hi": "k = 6", "en": "k = 6"},
+            {"hi": "k = -6", "en": "k = -6"},
+            {"hi": "k = 12", "en": "k = 12"}
           ],
-          "answer": {"hi": "5", "en": "5"}
+          "answer": {"hi": "k = 6", "en": "k = 6"}
         },
         {
           "q": {
-            "hi": "बिंदु (-3, -4) का कोटि क्या है?",
-            "en": "What is the ordinate of the point (-3, -4)?"
+            "hi": "व्यंजक 2/x + 3/y = 13 को रैखिक समीकरण में बदलने के लिए क्या प्रतिस्थापन करना चाहिए?",
+            "en": "What substitution should be made to convert the expression 2/x + 3/y = 13 into a linear equation?"
           },
           "options": [
-            {"hi": "-3", "en": "-3"},
-            {"hi": "3", "en": "3"},
-            {"hi": "-4", "en": "-4"},
-            {"hi": "4", "en": "4"}
+            {"hi": "x = p और y = q", "en": "x = p and y = q"},
+            {"hi": "1/x = p और 1/y = q", "en": "1/x = p and 1/y = q"},
+            {"hi": "x^2 = p और y^2 = q", "en": "x^2 = p and y^2 = q"},
+            {"hi": "2x = p और 3y = q", "en": "2x = p and 3y = q"}
           ],
-          "answer": {"hi": "-4", "en": "-4"}
+          "answer": {"hi": "1/x = p और 1/y = q", "en": "1/x = p and 1/y = q"}
         },
         {
           "q": {
-            "hi": "द्वितीय चतुर्थांश में चिन्हों का क्रम क्या है?",
-            "en": "What is the order of signs in the second quadrant?"
+            "hi": "यदि स्थिर जल में नाव की चाल x km/h हो तथा धारा की चाल y km/h हो, तो नाव की धारा के अनुकूल (downstream) चाल क्या होगी?",
+            "en": "If the speed of a boat in still water is x km/h and the speed of the stream is y km/h, what will be the speed of the boat downstream?"
           },
           "options": [
-            {"hi": "(+, +)", "en": "(+, +)"},
-            {"hi": "(-, +)", "en": "(-, +)"},
-            {"hi": "(-, -)", "en": "(-, -)"},
-            {"hi": "(+, -)", "en": "(+, -)"}
+            {"hi": "x - y km/h", "en": "x - y km/h"},
+            {"hi": "x + y km/h", "en": "x + y km/h"},
+            {"hi": "xy km/h", "en": "xy km/h"},
+            {"hi": "x/y km/h", "en": "x/y km/h"}
           ],
-          "answer": {"hi": "(-, +)", "en": "(-, +)"}
+          "answer": {"hi": "x + y km/h", "en": "x + y km/h"}
         },
         {
           "q": {
-            "hi": "x-अक्ष और y-अक्ष मिलकर तल को कितने चतुर्थांशों में बांटते हैं?",
-            "en": "Into how many quadrants do the x-axis and y-axis together divide the plane?"
+            "hi": "स्थिर जल में नाव की चाल x km/h और धारा की चाल y km/h होने पर नाव की धारा के प्रतिकूल (upstream) चाल क्या होगी?",
+            "en": "When the speed of a boat in still water is x km/h and the speed of the stream is y km/h, what will be the speed of the boat upstream?"
           },
           "options": [
-            {"hi": "दो", "en": "Two"},
-            {"hi": "तीन", "en": "Three"},
-            {"hi": "चार", "en": "Four"},
-            {"hi": "आठ", "en": "Eight"}
+            {"hi": "x + y km/h", "en": "x + y km/h"},
+            {"hi": "x - y km/h", "en": "x - y km/h"},
+            {"hi": "y - x km/h", "en": "y - x km/h"},
+            {"hi": "x/y km/h", "en": "x/y km/h"}
           ],
-          "answer": {"hi": "चार", "en": "Four"}
+          "answer": {"hi": "x - y km/h", "en": "x - y km/h"}
         },
         {
           "q": {
-            "hi": "बिंदु (1, 0) किस अक्ष पर है?",
-            "en": "On which axis is the point (1, 0)?"
+            "hi": "समय, दूरी और चाल में क्या सही गणितीय संबंध होता है जिसका उपयोग नाव और धारा वाले प्रश्नों में किया जाता है?",
+            "en": "What is the correct mathematical relationship between time, distance, and speed used in boat and stream problems?"
           },
           "options": [
-            {"hi": "x-अक्ष", "en": "x-axis"},
-            {"hi": "y-अक्ष", "en": "y-axis"},
-            {"hi": "दोनों", "en": "Both"},
-            {"hi": "कोई नहीं", "en": "None"}
+            {"hi": "समय = दूरी \u00d7 चाल", "en": "Time = Distance \u00d7 Speed"},
+            {"hi": "समय = दूरी / चाल", "en": "Time = Distance / Speed"},
+            {"hi": "चाल = समय / दूरी", "en": "Speed = Time / Distance"},
+            {"hi": "समय = चाल / दूरी", "en": "Time = Speed / Distance"}
           ],
-          "answer": {"hi": "x-अक्ष", "en": "x-axis"}
+          "answer": {"hi": "समय = दूरी / चाल", "en": "Time = Distance / Speed"}
         },
         {
           "q": {
-            "hi": "बिंदु (0, -2) किस अक्ष पर है?",
-            "en": "On which axis is the point (0, -2)?"
+            "hi": "एक आयताकार बाग का अर्धपरिमाप 36 m है। यदि लंबाई x और चौड़ाई y हो, तो इसका सही समीकरण क्या होगा?",
+            "en": "The semi-perimeter of a rectangular garden is 36 m. If the length is x and width is y, what will be its correct equation?"
           },
           "options": [
-            {"hi": "x-अक्ष", "en": "x-axis"},
-            {"hi": "y-अक्ष", "en": "y-axis"},
-            {"hi": "मूलबिंदु", "en": "Origin"},
-            {"hi": "कोई नहीं", "en": "None"}
+            {"hi": "2(x + y) = 36", "en": "2(x + y) = 36"},
+            {"hi": "x + y = 36", "en": "x + y = 36"},
+            {"hi": "x - y = 36", "en": "x - y = 36"},
+            {"hi": "xy = 36", "en": "xy = 36"}
           ],
-          "answer": {"hi": "y-अक्ष", "en": "y-axis"}
+          "answer": {"hi": "x + y = 36", "en": "x + y = 36"}
         },
         {
           "q": {
-            "hi": "निर्देशांक तल में क्षैतिज रेखा को प्रायः किस अक्षर से दर्शाते हैं?",
-            "en": "By which letter is the horizontal line in the coordinate plane usually denoted?"
+            "hi": "यदि किसी भिन्न के अंश (numerator) में 1 जोड़ दिया जाए और हर (denominator) में से 1 घटा दिया जाए, तो भिन्न 1 बन जाती है। इसका बीजगणितीय रूप क्या होगा?",
+            "en": "If 1 is added to the numerator and 1 is subtracted from the denominator of a fraction, the fraction becomes 1. What will be its algebraic form?"
           },
           "options": [
-            {"hi": "X", "en": "X"},
-            {"hi": "Y", "en": "Y"},
-            {"hi": "Z", "en": "Z"},
-            {"hi": "O", "en": "O"}
+            {"hi": "(x + 1)/(y - 1) = 1", "en": "(x + 1)/(y - 1) = 1"},
+            {"hi": "(x - 1)/(y + 1) = 1", "en": "(x - 1)/(y + 1) = 1"},
+            {"hi": "x/y + 1 = 1", "en": "x/y + 1 = 1"},
+            {"hi": "(x + 1)/y = 1", "en": "(x + 1)/y = 1"}
           ],
-          "answer": {"hi": "X", "en": "X"}
+          "answer": {"hi": "(x + 1)/(y - 1) = 1", "en": "(x + 1)/(y - 1) = 1"}
         },
         {
           "q": {
-            "hi": "निर्देशांक तल में ऊर्ध्वाधर रेखा को प्रायः किस अक्षर से दर्शाते हैं?",
-            "en": "By which letter is the vertical line in the coordinate plane usually denoted?"
+            "hi": "पाँच वर्ष बाद जैकब की आयु उसके पुत्र की आयु से तीन गुनी हो जाएगी। यदि उनकी वर्तमान आयु x और y वर्ष हो, तो 5 वर्ष बाद का समीकरण क्या होगा?",
+            "en": "Five years hence, Jacob's age will be three times that of his son. If their current ages are x and y years, what will be the equation after 5 years?"
           },
           "options": [
-            {"hi": "X", "en": "X"},
-            {"hi": "Y", "en": "Y"},
-            {"hi": "Z", "en": "Z"},
-            {"hi": "L", "en": "L"}
+            {"hi": "x = 3y", "en": "x = 3y"},
+            {"hi": "x + 5 = 3(y + 5)", "en": "x + 5 = 3(y + 5)"},
+            {"hi": "x - 5 = 3(y - 5)", "en": "x - 5 = 3(y - 5)"},
+            {"hi": "x + 5 = 3y + 5", "en": "x + 5 = 3y + 5"}
           ],
-          "answer": {"hi": "Y", "en": "Y"}
+          "answer": {"hi": "x + 5 = 3(y + 5)", "en": "x + 5 = 3(y + 5)"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "बिंदु (-4, 3) का चतुर्थांश कौन सा है?",
-            "en": "Which is the quadrant of the point (-4, 3)?"
+            "hi": "एक चक्रीय चतुर्भुज (cyclic quadrilateral) ABCD के सम्मुख कोणों का योग कितना होता है, जिसका उपयोग कोण ज्ञात करने में किया जाता है?",
+            "en": "What is the sum of opposite angles of a cyclic quadrilateral ABCD, which is used to find the angles?"
           },
           "options": [
-            {"hi": "प्रथम", "en": "First"},
-            {"hi": "द्वितीय", "en": "Second"},
-            {"hi": "तृतीय", "en": "Third"},
-            {"hi": "चतुर्थ", "en": "Fourth"}
+            {"hi": "90^\\circ", "en": "90^\\circ"},
+            {"hi": "180^\\circ", "en": "180^\\circ"},
+            {"hi": "360^\\circ", "en": "360^\\circ"},
+            {"hi": "270^\\circ", "en": "270^\\circ"}
           ],
-          "answer": {"hi": "द्वितीय", "en": "Second"}
+          "answer": {"hi": "180^\\circ", "en": "180^\\circ"}
         },
         {
           "q": {
-            "hi": "बिंदु (2, -2) का चतुर्थांश कौन सा है?",
-            "en": "Which is the quadrant of the point (2, -2)?"
+            "hi": "एक त्रिभुज ABC में, तीनों आंतरिक कोणों का योग कितना होता है (\\angle A + \\angle B + \\angle C)?",
+            "en": "In a triangle ABC, what is the sum of all three interior angles (\\angle A + \\angle B + \\angle C)?"
           },
           "options": [
-            {"hi": "प्रथम", "en": "First"},
-            {"hi": "द्वितीय", "en": "Second"},
-            {"hi": "तृतीय", "en": "Third"},
-            {"hi": "चतुर्थ", "en": "Fourth"}
+            {"hi": "180^\\circ", "en": "180^\\circ"},
+            {"hi": "360^\\circ", "en": "360^\\circ"},
+            {"hi": "90^\\circ", "en": "90^\\circ"},
+            {"hi": "120^\\circ", "en": "120^\\circ"}
           ],
-          "answer": {"hi": "चतुर्थ", "en": "Fourth"}
+          "answer": {"hi": "180^\\circ", "en": "180^\\circ"}
         },
         {
           "q": {
-            "hi": "बिंदु (-1, -1) किस चतुर्थांश में स्थित है?",
-            "en": "In which quadrant is the point (-1, -1) located?"
+            "hi": "ग्राफीय विधि में यदि दो रेखाएँ संपाती हों, तो समीकरण युग्म कैसा होता है?",
+            "en": "In the graphical method, if two lines are coincident, what kind of pair of equations is it?"
           },
           "options": [
-            {"hi": "प्रथम", "en": "First"},
-            {"hi": "द्वितीय", "en": "Second"},
-            {"hi": "तृतीय", "en": "Third"},
-            {"hi": "चतुर्थ", "en": "Fourth"}
+            {"hi": "असंगत", "en": "Inconsistent"},
+            {"hi": "आश्रित (संगत) [Dependent (Consistent)]", "en": "Dependent (Consistent)"},
+            {"hi": "अविरोधी युग्म", "en": "Non-contradictory pair"},
+            {"hi": "शून्य हल वाला", "en": "Having zero solution"}
           ],
-          "answer": {"hi": "तृतीय", "en": "Third"}
+          "answer": {"hi": "आश्रित (संगत) [Dependent (Consistent)]", "en": "Dependent (Consistent)"}
         },
         {
           "q": {
-            "hi": "बिंदु (5, 5) की y-अक्ष से लंबवत दूरी क्या है?",
-            "en": "What is the perpendicular distance of the point (5, 5) from the y-axis?"
+            "hi": "दो संपूरक कोणों (supplementary angles) का योग कितना होता है?",
+            "en": "What is the sum of two supplementary angles?"
           },
           "options": [
-            {"hi": "0", "en": "0"},
-            {"hi": "5", "en": "5"},
-            {"hi": "10", "en": "10"},
-            {"hi": "25", "en": "25"}
+            {"hi": "90^\\circ", "en": "90^\\circ"},
+            {"hi": "180^\\circ", "en": "180^\\circ"},
+            {"hi": "270^\\circ", "en": "270^\\circ"},
+            {"hi": "360^\\circ", "en": "360^\\circ"}
           ],
-          "answer": {"hi": "5", "en": "5"}
+          "answer": {"hi": "180^\\circ", "en": "180^\\circ"}
         },
         {
           "q": {
-            "hi": "मूलबिंदु का भुज क्या होता है?",
-            "en": "What is the abscissa of the origin?"
+            "hi": "दो पूरक कोणों (complementary angles) का योग कितना होता है?",
+            "en": "What is the sum of two complementary angles?"
           },
           "options": [
-            {"hi": "0", "en": "0"},
-            {"hi": "1", "en": "1"},
-            {"hi": "x", "en": "x"},
-            {"hi": "-1", "en": "-1"}
+            {"hi": "180^\\circ", "en": "180^\\circ"},
+            {"hi": "90^\\circ", "en": "90^\\circ"},
+            {"hi": "45^\\circ", "en": "45^\\circ"},
+            {"hi": "360^\\circ", "en": "360^\\circ"}
           ],
-          "answer": {"hi": "0", "en": "0"}
+          "answer": {"hi": "90^\\circ", "en": "90^\\circ"}
         },
         {
           "q": {
-            "hi": "मूलबिंदु की कोटि क्या होती है?",
-            "en": "What is the ordinate of the origin?"
+            "hi": "समीकरण युग्म x + y = 14 और x - y = 4 को हल करने पर x और y के मान क्रमशः क्या प्राप्त होंगे?",
+            "en": "On solving the pair of equations x + y = 14 and x - y = 4, what will be the values of x and y respectively?"
           },
           "options": [
-            {"hi": "0", "en": "0"},
-            {"hi": "1", "en": "1"},
-            {"hi": "y", "en": "y"},
-            {"hi": "-1", "en": "-1"}
+            {"hi": "9 और 5", "en": "9 and 5"},
+            {"hi": "5 और 9", "en": "5 and 9"},
+            {"hi": "10 और 4", "en": "10 and 4"},
+            {"hi": "8 und 6", "en": "8 and 6"}
           ],
-          "answer": {"hi": "0", "en": "0"}
+          "answer": {"hi": "9 और 5", "en": "9 and 5"}
         },
         {
           "q": {
-            "hi": "यदि x > 0 और y < 0 हो, तो बिंदु किस चतुर्थांश में होगा?",
-            "en": "If x > 0 and y < 0, in which quadrant will the point be?"
+            "hi": "यदि दो रेखाएँ समांतर हों, तो उनके अनुपातों में क्या संबंध होता है?",
+            "en": "If two lines are parallel, what is the relationship between their ratios?"
           },
           "options": [
-            {"hi": "प्रथम", "en": "First"},
-            {"hi": "द्वितीय", "en": "Second"},
-            {"hi": "तृतीय", "en": "Third"},
-            {"hi": "चतुर्थ", "en": "Fourth"}
+            {"hi": "a_1/a_2 \\ne b_1/b_2", "en": "a_1/a_2 \\ne b_1/b_2"},
+            {"hi": "a_1/a_2 = b_1/b_2 = c_1/c_2", "en": "a_1/a_2 = b_1/b_2 = c_1/c_2"},
+            {"hi": "a_1/a_2 = b_1/b_2 \\ne c_1/c_2", "en": "a_1/a_2 = b_1/b_2 \\ne c_1/c_2"},
+            {"hi": "b_1/b_2 = c_1/c_2", "en": "b_1/b_2 = c_1/c_2"}
           ],
-          "answer": {"hi": "चतुर्थ", "en": "Fourth"}
+          "answer": {"hi": "a_1/a_2 = b_1/b_2 \\ne c_1/c_2", "en": "a_1/a_2 = b_1/b_2 \\ne c_1/c_2"}
         },
         {
           "q": {
-            "hi": "बिंदु (a, b) में 'a' को क्या कहते हैं?",
-            "en": "In the point (a, b), what is 'a' called?"
+            "hi": "विलोपन विधि से समीकरणों 2x + 3y = 8 और 4x + 6y = 7 को हल करने पर अंतिम चरण में क्या मिलता है, जो दर्शाता है कि इसका कोई हल नहीं है?",
+            "en": "On solving the equations 2x + 3y = 8 and 4x + 6y = 7 by elimination method, what is obtained in the final step, which shows that it has no solution?"
           },
           "options": [
-            {"hi": "कोटि", "en": "Ordinate"},
-            {"hi": "भुज", "en": "Abscissa"},
-            {"hi": "अक्ष", "en": "Axis"},
-            {"hi": "मूलबिंदु", "en": "Origin"}
+            {"hi": "0 = 0", "en": "0 = 0"},
+            {"hi": "0 = 9 (एक असत्य कथन)", "en": "0 = 9 (a false statement)"},
+            {"hi": "x = 2", "en": "x = 2"},
+            {"hi": "y = 3", "en": "y = 3"}
           ],
-          "answer": {"hi": "भुज", "en": "Abscissa"}
+          "answer": {"hi": "0 = 9 (एक असत्य कथन)", "en": "0 = 9 (a false statement)"}
         },
         {
           "q": {
-            "hi": "बिंदु (x, y) में 'y' को क्या कहते हैं?",
-            "en": "In the point (x, y), what is 'y' called?"
+            "hi": "यदि दो कारों की चालें क्रमशः x km/h और y km/h (जहाँ x > y) हों और वे एक ही दिशा में चल रही हों, तो उनकी सापेक्ष चाल (relative speed) क्या होगी?",
+            "en": "If the speeds of two cars are x km/h and y km/h respectively (where x > y) and they are moving in the same direction, what will be their relative speed?"
           },
           "options": [
-            {"hi": "भुज", "en": "Abscissa"},
-            {"hi": "कोटि", "en": "Ordinate"},
-            {"hi": "निर्देशांक", "en": "Coordinate"},
-            {"hi": "मूल", "en": "Root"}
+            {"hi": "x + y km/h", "en": "x + y km/h"},
+            {"hi": "x - y km/h", "en": "x - y km/h"},
+            {"hi": "xy km/h", "en": "xy km/h"},
+            {"hi": "x/y km/h", "en": "x/y km/h"}
           ],
-          "answer": {"hi": "कोटि", "en": "Ordinate"}
+          "answer": {"hi": "x - y km/h", "en": "x - y km/h"}
         },
         {
           "q": {
-            "hi": "क्या (0, 0) x-अक्ष और y-अक्ष दोनों पर स्थित है?",
-            "en": "Is (0, 0) located on both the x-axis and y-axis?"
+            "hi": "यदि दो कारें विपरीत दिशाओं में एक दूसरे की ओर चल रही हों, तो उनकी सापेक्ष चाल क्या होगी?",
+            "en": "If two cars are moving in opposite directions towards each other, what will be their relative speed?"
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल x-अक्ष पर", "en": "Only on the x-axis"},
-            {"hi": "केवल y-अक्ष पर", "en": "Only on the y-axis"}
+            {"hi": "x - y km/h", "en": "x - y km/h"},
+            {"hi": "x + y km/h", "en": "x + y km/h"},
+            {"hi": "xy km/h", "en": "xy km/h"},
+            {"hi": "x/y km/h", "en": "x/y km/h"}
           ],
-          "answer": {"hi": "हाँ", "en": "Yes"}
+          "answer": {"hi": "x + y km/h", "en": "x + y km/h"}
         }
       ]
     },
