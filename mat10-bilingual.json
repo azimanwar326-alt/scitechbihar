@@ -3314,661 +3314,661 @@
       "section1": [
         {
           "q": {
-            "hi": "एक रेखा को खींचने के लिए न्यूनतम कितने बिंदुओं की आवश्यकता होती है?",
-            "en": "What is the minimum number of points required to draw a line?"
+            "hi": "दो आकृतियाँ जिनके आकार (shape) समान हों, परंतु उनके आमाप (size) का समान होना आवश्यक न हो, क्या कहलाती हैं?",
+            "en": "Two figures having the same shape but not necessarily the same size are called what?"
           },
           "options": [
-            {"hi": "एक", "en": "One"},
-            {"hi": "दो", "en": "Two"},
-            {"hi": "तीन", "en": "Three"},
-            {"hi": "अनंत", "en": "Infinite"}
+            {"hi": "सर्वांगसम आकृतियाँ", "en": "Congruent figures"},
+            {"hi": "समरूप आकृतियाँ (Similar figures)", "en": "Similar figures"},
+            {"hi": "समान आकृतियाँ", "en": "Equal figures"},
+            {"hi": "असममित आकृतियाँ", "en": "Asymmetric figures"}
           ],
-          "answer": {"hi": "दो", "en": "Two"}
+          "answer": {"hi": "समरूप आकृतियाँ (Similar figures)", "en": "Similar figures"}
         },
         {
           "q": {
-            "hi": "एक रेखा का वह भाग जिसके दो अंत बिंदु हों, क्या कहलाता है?",
-            "en": "A part of a line with two end points is called?"
+            "hi": "कक्षा IX की चर्चा के अनुसार, दो आकृतियाँ सर्वांगसम (congruent) कब कही जाती हैं?",
+            "en": "According to Class IX discussion, when are two figures said to be congruent?"
           },
           "options": [
-            {"hi": "किरण", "en": "Ray"},
-            {"hi": "रेखाखंड", "en": "Line segment"},
-            {"hi": "वक्र", "en": "Curve"},
-            {"hi": "कोण", "en": "Angle"}
+            {"hi": "जब उनके केवल आकार समान हों", "en": "When they have only the same shape"},
+            {"hi": "जब उनके केवल आमाप समान हों", "en": "When they have only the same size"},
+            {"hi": "जब उनके समान आकार और समान आमाप हों", "en": "When they have the same shape and the same size"},
+            {"hi": "जब वे दोनों त्रिभुज हों", "en": "When both are triangles"}
           ],
-          "answer": {"hi": "रेखाखंड", "en": "Line segment"}
+          "answer": {"hi": "जब उनके समान आकार और समान आमाप हों", "en": "When they have the same shape and the same size"}
         },
         {
           "q": {
-            "hi": "एक रेखा का वह भाग जिसका केवल एक अंत बिंदु हो, क्या कहलाता है?",
-            "en": "A part of a line with only one end point is called?"
+            "hi": "निम्नलिखित कथनों में से कौन सा कथन सभी वृत्तों के लिए हमेशा सत्य होता है?",
+            "en": "Which of the following statements is always true for all circles?"
           },
           "options": [
-            {"hi": "रेखाखंड", "en": "Line segment"},
-            {"hi": "किरण", "en": "Ray"},
-            {"hi": "बिंदु", "en": "Point"},
-            {"hi": "तल", "en": "Plane"}
+            {"hi": "सभी वृत्त सर्वांगसम होते हैं", "en": "All circles are congruent"},
+            {"hi": "सभी वृत्त समरूप होते हैं (All circles are similar)", "en": "All circles are similar"},
+            {"hi": "सभी वृत्त असमान होते हैं", "en": "All circles are unequal"},
+            {"hi": "वृत्त कभी समरूप नहीं हो सकते", "en": "Circles can never be similar"}
           ],
-          "answer": {"hi": "किरण", "en": "Ray"}
+          "answer": {"hi": "सभी वृत्त समरूप होते हैं (All circles are similar)", "en": "All circles are similar"}
         },
         {
           "q": {
-            "hi": "यदि तीन या अधिक बिंदु एक ही रेखा पर स्थित हों, तो वे क्या कहलाते हैं?",
-            "en": "If three or more points lie on the same line, they are called?"
+            "hi": "सभी वर्ग (squares) आपस में ज्यामितीय रूप से क्या होते हैं?",
+            "en": "What are all squares geometrically to each other?"
           },
           "options": [
-            {"hi": "संरेख बिंदु", "en": "Collinear points"},
-            {"hi": "असंरेख बिंदु", "en": "Non-collinear points"},
-            {"hi": "समांतर बिंदु", "en": "Parallel points"},
-            {"hi": "प्रतिच्छेदी बिंदु", "en": "Intersecting points"}
+            {"hi": "सर्वांगसम", "en": "Congruent"},
+            {"hi": "समरूप (Similar)", "en": "Similar"},
+            {"hi": "असमान", "en": "Unequal"},
+            {"hi": "लंबवत", "en": "Perpendicular"}
           ],
-          "answer": {"hi": "संरेख बिंदु", "en": "Collinear points"}
+          "answer": {"hi": "समरूप (Similar)", "en": "Similar"}
         },
         {
           "q": {
-            "hi": "0° और 90° के बीच के कोण को क्या कहते हैं?",
-            "en": "What is an angle between 0° and 90° called?"
+            "hi": "निम्नलिखित में से किस प्रकार के सभी त्रिभुज हमेशा समरूप (similar) होते हैं?",
+            "en": "Which of the following types of triangles are always similar?"
           },
           "options": [
-            {"hi": "समकोण", "en": "Right angle"},
-            {"hi": "अधिक कोण", "en": "Obtuse angle"},
-            {"hi": "न्यून कोण", "en": "Acute angle"},
-            {"hi": "ऋजु कोण", "en": "Straight angle"}
+            {"hi": "समद्विबाहु त्रिभुज", "en": "Isosceles triangles"},
+            {"hi": "विषमबाहु त्रिभुज", "en": "Scalene triangles"},
+            {"hi": "समबाहु त्रिभुज (Equilateral triangles)", "en": "Equilateral triangles"},
+            {"hi": "समकोण त्रिभुज", "en": "Right-angled triangles"}
           ],
-          "answer": {"hi": "न्यून कोण", "en": "Acute angle"}
+          "answer": {"hi": "समबाहु त्रिभुज (Equilateral triangles)", "en": "Equilateral triangles"}
         },
         {
           "q": {
-            "hi": "90° के कोण को क्या कहा जाता है?",
-            "en": "What is an angle of 90° called?"
+            "hi": "भुजाओं की समान संख्या वाले दो बहुभुज (polygons) समरूप होते हैं, यदि उनके संगत कोण बराबर हों और उनकी संगत भुजाएँ कैसी हों?",
+            "en": "Two polygons of the same number of sides are similar if their corresponding angles are equal and their corresponding sides are what?"
           },
           "options": [
-            {"hi": "न्यून कोण", "en": "Acute angle"},
-            {"hi": "समकोण", "en": "Right angle"},
-            {"hi": "अधिक कोण", "en": "Obtuse angle"},
-            {"hi": "प्रतिवर्ती कोण", "en": "Reflex angle"}
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "समानुपाती (In the same ratio)", "en": "Proportional (In the same ratio)"},
+            {"hi": "लंबवत", "en": "Perpendicular"},
+            {"hi": "समांतर", "en": "Parallel"}
           ],
-          "answer": {"hi": "समकोण", "en": "Right angle"}
+          "answer": {"hi": "समानुपाती (In the same ratio)", "en": "Proportional (In the same ratio)"}
         },
         {
           "q": {
-            "hi": "90° से अधिक और 180° से कम के कोण को क्या कहते हैं?",
-            "en": "What is an angle greater than 90° and less than 180° called?"
+            "hi": "क्या एक वर्ग और एक आयत हमेशा समरूप आकृतियाँ होते हैं?",
+            "en": "Are a square and a rectangle always similar figures?"
           },
           "options": [
-            {"hi": "न्यून कोण", "en": "Acute angle"},
-            {"hi": "अधिक कोण", "en": "Obtuse angle"},
-            {"hi": "ऋजु कोण", "en": "Straight angle"},
-            {"hi": "पूर्ण कोण", "en": "Complete angle"}
+            {"hi": "हाँ, हमेशा समरूप होते हैं", "en": "Yes, always similar"},
+            {"hi": "नहीं, क्योंकि उनकी संगत भुजाएँ समानुपाती नहीं होती हैं", "en": "No, because their corresponding sides are not proportional"},
+            {"hi": "हाँ, क्योंकि दोनों के कोण 90 डिग्री हैं", "en": "Yes, because angles of both are 90 degrees"},
+            {"hi": "केवल तभी जब उनके परिमाप बराबर हों", "en": "Only when their perimeters are equal"}
           ],
-          "answer": {"hi": "अधिक कोण", "en": "Obtuse angle"}
+          "answer": {"hi": "नहीं, क्योंकि उनकी संगत भुजाएँ समानुपाती नहीं होती हैं", "en": "No, because their corresponding sides are not proportional"}
         },
         {
           "q": {
-            "hi": "180° के बराबर कोण को क्या कहा जाता है?",
-            "en": "What is an angle equal to 180° called?"
+            "hi": "एक वर्ग और एक समचतुर्भुज (rhombus) के बारे में क्या निष्कर्ष निकाला जा सकता है, यदि उनकी भुजाएँ समानुपाती हों?",
+            "en": "What conclusion can be drawn about a square and a rhombus if their sides are proportional?"
           },
           "options": [
-            {"hi": "समकोण", "en": "Right angle"},
-            {"hi": "ऋजु कोण", "en": "Straight angle"},
-            {"hi": "प्रतिवर्ती कोण", "en": "Reflex angle"},
-            {"hi": "शून्य कोण", "en": "Zero angle"}
+            {"hi": "वे समरूप हैं", "en": "They are similar"},
+            {"hi": "वे समरूप नहीं हैं क्योंकि उनके संगत कोण बराबर नहीं हैं", "en": "They are not similar because their corresponding angles are not equal"},
+            {"hi": "वे सर्वांगसम हैं", "en": "They are congruent"},
+            {"hi": "वे हमेशा समान आकार के होते हैं", "en": "They are always of the same shape"}
           ],
-          "answer": {"hi": "ऋजु कोण", "en": "Straight angle"}
+          "answer": {"hi": "वे समरूप नहीं हैं क्योंकि उनके संगत कोण बराबर नहीं हैं", "en": "They are not similar because their corresponding angles are not equal"}
         },
         {
           "q": {
-            "hi": "180° से अधिक और 360° से कम के कोण को क्या कहते हैं?",
-            "en": "What is an angle greater than 180° but less than 360° called?"
+            "hi": "पर्वतों की ऊँचाइयों या दूरस्थ वस्तुओं की दूरियों को मापने में किस मापन अवधारणा का प्रयोग किया जाता है, जो आकृतियों की समरूपता पर आधारित है?",
+            "en": "Which measurement concept based on similarity of figures is used to measure the heights of mountains or distances of distant objects?"
           },
           "options": [
-            {"hi": "अधिक कोण", "en": "Obtuse angle"},
-            {"hi": "ऋजु कोण", "en": "Straight angle"},
-            {"hi": "प्रतिवर्ती कोण", "en": "Reflex angle"},
-            {"hi": "पूरक कोण", "en": "Complementary angle"}
+            {"hi": "प्रत्यक्ष मापन", "en": "Direct measurement"},
+            {"hi": "अप्रत्यक्ष मापन (Indirect measurement)", "en": "Indirect measurement"},
+            {"hi": "त्रुटिपूर्ण मापन", "en": "Erroneous measurement"},
+            {"hi": "अनुमानित मापन", "en": "Estimated measurement"}
           ],
-          "answer": {"hi": "प्रतिवर्ती कोण", "en": "Reflex angle"}
+          "answer": {"hi": "अप्रत्यक्ष मापन (Indirect measurement)", "en": "Indirect measurement"}
         },
         {
           "q": {
-            "hi": "दो कोण जिनका योग 90° हो, क्या कहलाते हैं?",
-            "en": "Two angles whose sum is 90° are called?"
+            "hi": "यदि दो आकृतियाँ सर्वांगसम (congruent) हैं, तो वे निश्चित रूप से क्या भी होंगी?",
+            "en": "If two figures are congruent, what will they definitely be as well?"
           },
           "options": [
-            {"hi": "संपूरक कोण", "en": "Supplementary angles"},
-            {"hi": "पूरक कोण", "en": "Complementary angles"},
-            {"hi": "आसन्न कोण", "en": "Adjacent angles"},
-            {"hi": "शीर्षाभिमुख कोण", "en": "Vertically opposite angles"}
+            {"hi": "असमान", "en": "Unequal"},
+            {"hi": "समरूप (Similar)", "en": "Similar"},
+            {"hi": "सममित नहीं", "en": "Not symmetric"},
+            {"hi": "काल्पनिक", "en": "Imaginary"}
           ],
-          "answer": {"hi": "पूरक कोण", "en": "Complementary angles"}
+          "answer": {"hi": "समरूप (Similar)", "en": "Similar"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "दो कोण जिनका योग 180° हो, क्या कहलाते हैं?",
-            "en": "Two angles whose sum is 180° are called?"
+            "hi": "प्रसिद्ध यूनानी गणितज्ञ थेल्स (Thales) ने दो समकोणीय त्रिभुजों से संबंधित एक महत्वपूर्ण तथ्य दिया था। यह तथ्य किससे संबंधित था?",
+            "en": "The famous Greek mathematician Thales gave an important truth regarding two equiangular triangles. What was this truth related to?"
           },
           "options": [
-            {"hi": "पूरक कोण", "en": "Complementary angles"},
-            {"hi": "संपूरक कोण", "en": "Supplementary angles"},
-            {"hi": "रैखिक युग्म", "en": "Linear pair"},
-            {"hi": "एकांतर कोण", "en": "Alternate angles"}
+            {"hi": "संगत भुजाओं के अनुपात से (Ratio of corresponding sides)", "en": "Ratio of corresponding sides"},
+            {"hi": "त्रिभुज के क्षेत्रफलों के योग से", "en": "Sum of areas of triangles"},
+            {"hi": "कर्ण की लंबाई से", "en": "Length of hypotenuse"},
+            {"hi": "शीर्षलंबों के गुणनफल से", "en": "Product of altitudes"}
           ],
-          "answer": {"hi": "संपूरक कोण", "en": "Supplementary angles"}
+          "answer": {"hi": "संगत भुजाओं के अनुपात से (Ratio of corresponding sides)", "en": "Ratio of corresponding sides"}
         },
         {
           "q": {
-            "hi": "यदि दो आसन्न कोणों का योग 180° हो, तो वे क्या बनाते हैं?",
-            "en": "If the sum of two adjacent angles is 180°, what do they form?"
+            "hi": "आधारभूत समानुपातिकता प्रमेय (Basic Proportionality Theorem) को और किस नाम से जाना जाता है?",
+            "en": "By what other name is the Basic Proportionality Theorem known?"
           },
           "options": [
-            {"hi": "समकोण", "en": "Right angle"},
-            {"hi": "कोणों का एक रैखिक युग्म", "en": "A linear pair of angles"},
-            {"hi": "पूरक कोण", "en": "Complementary angles"},
-            {"hi": "शीर्षाभिमुख कोण", "en": "Vertically opposite angles"}
+            {"hi": "पाइथागोरस प्रमेय", "en": "Pythagoras Theorem"},
+            {"hi": "थेल्स प्रमेय (Thales Theorem)", "en": "Thales Theorem"},
+            {"hi": "आर्यभट प्रमेय", "en": "Aryabhata Theorem"},
+            {"hi": "यूक्लिड प्रमेय", "en": "Euclid Theorem"}
           ],
-          "answer": {"hi": "कोणों का एक रैखिक युग्म", "en": "A linear pair of angles"}
+          "answer": {"hi": "थेल्स प्रमेय (Thales Theorem)", "en": "Thales Theorem"}
         },
         {
           "q": {
-            "hi": "जब दो रेखाएँ परस्पर प्रतिच्छेद करती हैं, तो शीर्षाभिमुख कोण हमेशा क्या होते हैं?",
-            "en": "When two lines intersect each other, vertically opposite angles are always?"
+            "hi": "थेल्स प्रमेय (प्रमेय 6.1) के अनुसार, यदि किसी त्रिभुज की एक भुजा के समांतर अन्य दो भुजाओं को भिन्न बिंदुओं पर प्रतिच्छेद करने के लिए एक रेखा खींची जाए, तो ये अन्य दो भुजाएँ किस अनुपात में विभाजित हो जाती हैं?",
+            "en": "According to Thales Theorem (Theorem 6.1), if a line is drawn parallel to one side of a triangle to intersect the other two sides in distinct points, the other two sides are divided in what ratio?"
           },
           "options": [
-            {"hi": "असमान", "en": "Unequal"},
+            {"hi": "असमान अनुपात में", "en": "Unequal ratio"},
+            {"hi": "एक ही अनुपात में (In the same ratio)", "en": "In the same ratio"},
+            {"hi": "व्युत्क्रम अनुपात में", "en": "Inverse ratio"},
+            {"hi": "दोगुने अनुपात में", "en": "Double ratio"}
+          ],
+          "answer": {"hi": "एक ही अनुपात में (In the same ratio)", "en": "In the same ratio"}
+        },
+        {
+          "q": {
+            "hi": "त्रिभुज $ABC$ में, यदि रेखा $DE \\parallel BC$ है और यह $AB$ तथा $AC$ को क्रमशः $D$ और $E$ पर काटती है, तो थेल्स प्रमेय के अनुसार कौन सा संबंध सही है?",
+            "en": "In triangle $ABC$, if line $DE \\parallel BC$ and it intersects $AB$ and $AC$ at $D$ and $E$ respectively, which relation is correct according to Thales theorem?"
+          },
+          "options": [
+            {"hi": "AD/DB = AE/EC", "en": "AD/DB = AE/EC"},
+            {"hi": "AD/AB = EC/AE", "en": "AD/AB = EC/AE"},
+            {"hi": "AB/DB = AE/AC", "en": "AB/DB = AE/AC"},
+            {"hi": "AD \\times DB = AE \\times EC", "en": "AD \\times DB = AE \\times EC"}
+          ],
+          "answer": {"hi": "AD/DB = AE/EC", "en": "AD/DB = AE/EC"}
+        },
+        {
+          "q": {
+            "hi": "थेल्स प्रमेय के विलोम (Converse of Thales Theorem - प्रमेय 6.2) के अनुसार, यदि एक रेखा किसी त्रिभुज की दो भुजाओं को एक ही अनुपात में विभाजित करे, तो वह तीसरी भुजा के क्या होती है?",
+            "en": "According to the converse of Thales Theorem (Theorem 6.2), if a line divides any two sides of a triangle in the same ratio, then the line is what to the third side?"
+          },
+          "options": [
+            {"hi": "लंबवत", "en": "Perpendicular"},
+            {"hi": "समांतर (Parallel)", "en": "Parallel"},
             {"hi": "बराबर", "en": "Equal"},
-            {"hi": "पूरक", "en": "Complementary"},
-            {"hi": "शून्य", "en": "Zero"}
+            {"hi": "तिर्यक", "en": "Transversal"}
           ],
-          "answer": {"hi": "बराबर", "en": "Equal"}
+          "answer": {"hi": "समांतर (Parallel)", "en": "Parallel"}
         },
         {
           "q": {
-            "hi": "वे रेखाएँ जो एक ही तल में हों और कभी न मिलें, क्या कहलाती हैं?",
-            "en": "Lines in the same plane that never meet are called?"
+            "hi": "त्रिभुज $ABC$ में, $DE \\parallel BC$ है। यदि $AD = 1.5\\text{ cm}, DB = 3\\text{ cm}$ और $AE = 1\\text{ cm}$ हो, तो $EC$ का मान क्या होगा?",
+            "en": "In triangle $ABC$, $DE \\parallel BC$. If $AD = 1.5\\text{ cm}, DB = 3\\text{ cm}$, and $AE = 1\\text{ cm}$, what will be the value of $EC$?"
           },
           "options": [
-            {"hi": "प्रतिच्छेदी रेखाएँ", "en": "Intersecting lines"},
-            {"hi": "समांतर रेखाएँ", "en": "Parallel lines"},
-            {"hi": "लंब रेखाएँ", "en": "Perpendicular lines"},
-            {"hi": "संपाती रेखाएँ", "en": "Coincident lines"}
+            {"hi": "1.5 cm", "en": "1.5 cm"},
+            {"hi": "2 cm", "en": "2 cm"},
+            {"hi": "3 cm", "en": "3 cm"},
+            {"hi": "4 cm", "en": "4 cm"}
           ],
-          "answer": {"hi": "समांतर रेखाएँ", "en": "Parallel lines"}
+          "answer": {"hi": "2 cm", "en": "2 cm"}
         },
         {
           "q": {
-            "hi": "दो समांतर रेखाओं के बीच की लंबवत दूरी हमेशा क्या रहती है?",
-            "en": "The perpendicular distance between two parallel lines is always?"
+            "hi": "यदि किसी समलंब (trapezium) $ABCD$ में $AB \\parallel DC$ है और उसके विकर्ण परस्पर $O$ बिंदु पर प्रतिच्छेद करते हैं, तो गुणांकों का कौन सा अनुपात सही होता है?",
+            "en": "If in a trapezium $ABCD$, $AB \\parallel DC$ and its diagonals intersect each other at point $O$, which ratio of components is correct?"
           },
           "options": [
-            {"hi": "बदलती रहती है", "en": "Keep changing"},
-            {"hi": "एक समान (अचर)", "en": "Same (constant)"},
-            {"hi": "शून्य", "en": "Zero"},
-            {"hi": "बढ़ती जाती है", "en": "Keep increasing"}
+            {"hi": "AO/BO = CO/DO", "en": "AO/BO = CO/DO"},
+            {"hi": "AO/DO = BO/CO", "en": "AO/DO = BO/CO"},
+            {"hi": "AO/CO = DO/BO", "en": "AO/CO = DO/BO"},
+            {"hi": "AO \\times BO = CO \\times DO", "en": "AO \\times BO = CO \\times DO"}
           ],
-          "answer": {"hi": "एक समान (अचर)", "en": "Same (constant)"}
+          "answer": {"hi": "AO/BO = CO/DO", "en": "AO/BO = CO/DO"}
         },
         {
           "q": {
-            "hi": "यदि एक किरण एक रेखा पर खड़ी हो, तो बने आसन्न कोणों का योग कितना होता है?",
-            "en": "If a ray stands on a line, what is the sum of the adjacent angles formed?"
+            "hi": "एक त्रिभुज की दो भुजाओं के मध्य बिंदुओं को मिलाने वाली रेखा तीसरी भुजा के समांतर होती है, यह प्रमेय थेल्स प्रमेय के किस रूप का उपयोग करके सिद्ध की जा सकती है?",
+            "en": "The line joining the mid-points of two sides of a triangle is parallel to the third side. This theorem can be proved using which form of Thales theorem?"
           },
           "options": [
-            {"hi": "90°", "en": "90°"},
-            {"hi": "180°", "en": "180°"},
-            {"hi": "270°", "en": "270°"},
-            {"hi": "360°", "en": "360°"}
+            {"hi": "आधारभूत समानुपातिकता प्रमेय", "en": "Basic Proportionality Theorem"},
+            {"hi": "आधारभूत समानुपातिकता प्रमेय का विलोम (Converse of BPT)", "en": "Converse of BPT"},
+            {"hi": "समरूपता कसौटी", "en": "Similarity criterion"},
+            {"hi": "पाइथागोरस प्रमेय", "en": "Pythagoras theorem"}
           ],
-          "answer": {"hi": "180°", "en": "180°"}
+          "answer": {"hi": "आधारभूत समानुपातिकता प्रमेय का विलोम (Converse of BPT)", "en": "Converse of BPT"}
         },
         {
           "q": {
-            "hi": "एक रेखा जो दो या अधिक रेखाओं को भिन्न बिंदुओं पर प्रतिच्छेद करती है, क्या कहलाती है?",
-            "en": "A line which intersects two or more lines at distinct points is called?"
+            "hi": "यदि $D$ और $E$ क्रमशः $\\triangle ABC$ की भुजाओं $AB$ और $AC$ पर इस प्रकार स्थित बिंदु हैं कि $AD = 4\\text{ cm}, DB = 4.5\\text{ cm}, AE = 8\\text{ cm}$ और $EC = 9\\text{ cm}$ है, तो $DE$ और $BC$ के बीच क्या संबंध है?",
+            "en": "If $D$ and $E$ are points on sides $AB$ and $AC$ of $\\triangle ABC$ respectively such that $AD = 4\\text{ cm}, DB = 4.5\\text{ cm}, AE = 8\\text{ cm}$, and $EC = 9\\text{ cm}$, what is the relation between $DE$ and $BC$?"
           },
           "options": [
-            {"hi": "समांतर रेखा", "en": "Parallel line"},
-            {"hi": "तिर्यक रेखा", "en": "Transversal line"},
-            {"hi": "लंब रेखा", "en": "Perpendicular line"},
-            {"hi": "संगत रेखा", "en": "Corresponding line"}
+            {"hi": "DE, BC के समांतर नहीं है", "en": "DE is not parallel to BC"},
+            {"hi": "DE \\parallel BC (समांतर है)", "en": "DE \\parallel BC (is parallel)"},
+            {"hi": "DE, BC के लंबवत है", "en": "DE is perpendicular to BC"},
+            {"hi": "DE = BC", "en": "DE = BC"}
           ],
-          "answer": {"hi": "तिर्यक रेखा", "en": "Transversal line"}
+          "answer": {"hi": "DE \\parallel BC (समांतर है)", "en": "DE \\parallel BC (is parallel)"}
         },
         {
           "q": {
-            "hi": "यदि एक तिर्यक रेखा दो समांतर रेखाओं को काटे, तो संगत कोणों का प्रत्येक युग्म क्या होता है?",
-            "en": "If a transversal intersects two parallel lines, each pair of corresponding angles is?"
+            "hi": "एक चतुर्भुज $ABCD$ के विकर्ण परस्पर बिंदु $O$ पर इस प्रकार प्रतिच्छेद करते हैं कि $AO/BO = CO/DO$ है, तो $ABCD$ किस प्रकार का चतुर्भुज है?",
+            "en": "The diagonals of a quadrilateral $ABCD$ intersect each other at point $O$ such that $AO/BO = CO/DO$. What type of quadrilateral is $ABCD$?"
           },
           "options": [
-            {"hi": "संपूरक", "en": "Supplementary"},
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "असमान", "en": "Unequal"},
-            {"hi": "90°"}
+            {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"},
+            {"hi": "आयत", "en": "Rectangle"},
+            {"hi": "समलंब (Trapezium)", "en": "Trapezium"},
+            {"hi": "पतंग", "en": "Kite"}
           ],
-          "answer": {"hi": "बराबर", "en": "Equal"}
-        },
-        {
-          "q": {
-            "hi": "यदि एक तिर्यक रेखा दो समांतर रेखाओं को काटे, तो एकांतर अंतः कोणों का प्रत्येक युग्म क्या होता है?",
-            "en": "If a transversal intersects two parallel lines, each pair of alternate interior angles is?"
-          },
-          "options": [
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "संपूरक", "en": "Supplementary"},
-            {"hi": "पूरक", "en": "Complementary"},
-            {"hi": "180°"}
-          ],
-          "answer": {"hi": "बराबर", "en": "Equal"}
-        },
-        {
-          "q": {
-            "hi": "तिर्यक रेखा के एक ही ओर के अंतः कोणों का योग कितना होता है, यदि रेखाएँ समांतर हों?",
-            "en": "What is the sum of interior angles on the same side of the transversal if the lines are parallel?"
-          },
-          "options": [
-            {"hi": "90°", "en": "90°"},
-            {"hi": "180°", "en": "180°"},
-            {"hi": "360°", "en": "360°"},
-            {"hi": "0°"}
-          ],
-          "answer": {"hi": "180°", "en": "180°"}
+          "answer": {"hi": "समलंब (Trapezium)", "en": "Trapezium"}
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "वे रेखाएँ जो एक ही रेखा के समांतर हों, आपस में क्या होती हैं?",
-            "en": "Lines which are parallel to the same line are what to each other?"
+            "hi": "दो त्रिभुज समरूप (similar) होते हैं, यदि उनके संगत कोण बराबर हों और उनकी संगत भुजाएँ कैसी हों?",
+            "en": "Two triangles are similar if their corresponding angles are equal and their corresponding sides are what?"
           },
           "options": [
-            {"hi": "लंब", "en": "Perpendicular"},
-            {"hi": "प्रतिच्छेदी", "en": "Intersecting"},
-            {"hi": "समांतर", "en": "Parallel"},
-            {"hi": "असंगत", "en": "Inconsistent"}
+            {"hi": "समानुपाती (In the same ratio)", "en": "Proportional (In the same ratio)"},
+            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "लंबवत", "en": "Perpendicular"},
+            {"hi": "शून्य", "en": "Zero"}
           ],
-          "answer": {"hi": "समांतर", "en": "Parallel"}
+          "answer": {"hi": "समानुपाती (In the same ratio)", "en": "Proportional (In the same ratio)"}
         },
         {
           "q": {
-            "hi": "एक त्रिभुज के तीनों अंतः कोणों का योग कितना होता है?",
-            "en": "What is the sum of the three interior angles of a triangle?"
+            "hi": "यदि दो त्रिभुजों में संगत कोण बराबर हों, तो उन्हें किस प्रकार का त्रिभुज कहा जाता है?",
+            "en": "If in two triangles corresponding angles are equal, what type of triangles are they called?"
           },
           "options": [
-            {"hi": "90°", "en": "90°"},
-            {"hi": "180°", "en": "180°"},
-            {"hi": "270°", "en": "270°"},
-            {"hi": "360°", "en": "360°"}
+            {"hi": "समकोणीय त्रिभुज (Equiangular triangles)", "en": "Equiangular triangles"},
+            {"hi": "समबाहु त्रिभुज", "en": "Equilateral triangles"},
+            {"hi": "समद्विबाहु त्रिभुज", "en": "Isosceles triangles"},
+            {"hi": "लंबकोणीय त्रिभुज", "en": "Orthogonal triangles"}
           ],
-          "answer": {"hi": "180°", "en": "180°"}
+          "answer": {"hi": "समकोणीय त्रिभुज (Equiangular triangles)", "en": "Equiangular triangles"}
         },
         {
           "q": {
-            "hi": "यदि किसी त्रिभुज की एक भुजा को बढ़ाया जाए, तो बना बहिष्कोण किसके बराबर होता है?",
-            "en": "If a side of a triangle is produced, the exterior angle so formed is equal to?"
+            "hi": "प्रमेय 6.3 के अनुसार, यदि दो त्रिभुजों में संगत कोण बराबर हों, तो उनकी संगत भुजाएँ एक ही अनुपात में होती हैं, इसलिए ये त्रिभुज समरूप होते हैं। इस कसौटी को क्या कहा जाता है?",
+            "en": "According to Theorem 6.3, if in two triangles corresponding angles are equal, then their corresponding sides are in the same ratio and hence the triangles are similar. What is this criterion called?"
           },
           "options": [
-            {"hi": "आसन्न कोण के", "en": "Adjacent angle"},
-            {"hi": "दोनों अंतः अभिमुख कोणों के योग के", "en": "The sum of the two interior opposite angles"},
-            {"hi": "तीसरे कोण के", "en": "Third angle"},
-            {"hi": "180° के"}
+            {"hi": "SSS समरूपता कसौटी", "en": "SSS similarity criterion"},
+            {"hi": "AAA समरूपता कसौटी (AAA similarity criterion)", "en": "AAA similarity criterion"},
+            {"hi": "SAS समरूपता कसौटी", "en": "SAS similarity criterion"},
+            {"hi": "RHS समरूपता कसौटी", "en": "RHS similarity criterion"}
           ],
-          "answer": {"hi": "दोनों अंतः अभिमुख कोणों के योग के", "en": "The sum of the two interior opposite angles"}
+          "answer": {"hi": "AAA समरूपता कसौटी (AAA similarity criterion)", "en": "AAA similarity criterion"}
         },
         {
           "q": {
-            "hi": "यदि एक कोण अपने पूरक कोण के बराबर है, तो वह कोण क्या है?",
-            "en": "If an angle is equal to its complement, what is that angle?"
+            "hi": "यदि एक त्रिभुज के दो कोण एक अन्य त्रिभुज के क्रमशः दो कोणों के बराबर हों, तो भी दोनों त्रिभुज समरूप होते हैं। इसे किस उप-कसौटी के नाम से जाना जाता है?",
+            "en": "If two angles of one triangle are respectively equal to two angles of another triangle, then the two triangles are similar. By what sub-criterion name is this known?"
           },
           "options": [
-            {"hi": "90°", "en": "90°"},
-            {"hi": "45°", "en": "45°"},
-            {"hi": "30°", "en": "30°"},
-            {"hi": "60°", "en": "60°"}
+            {"hi": "A समरूपता कसौटी", "en": "A similarity criterion"},
+            {"hi": "AA समरूपता कसौटी (AA similarity criterion)", "en": "AA similarity criterion"},
+            {"hi": "AAA कसौटी", "en": "AAA criterion"},
+            {"hi": "SS कसौटी", "en": "SS criterion"}
           ],
-          "answer": {"hi": "45°", "en": "45°"}
+          "answer": {"hi": "AA समरूपता कसौटी (AA similarity criterion)", "en": "AA similarity criterion"}
         },
         {
           "q": {
-            "hi": "यदि एक कोण अपने संपूरक कोण के बराबर है, तो वह कोण क्या है?",
-            "en": "If an angle is equal to its supplement, what is that angle?"
+            "hi": "प्रमेय 6.4 (SSS समरूपता कसौटी) के अनुसार, यदि दो त्रिभुजों में एक त्रिभुज की भुजाएँ दूसरे त्रिभुज की भुजाओं के समानुपाती हों, तो उनके कौन से भाग बराबर होते हैं?",
+            "en": "According to Theorem 6.4 (SSS similarity criterion), if in two triangles, sides of one triangle are proportional to the sides of the other triangle, then which of their parts are equal?"
           },
           "options": [
-            {"hi": "45°", "en": "45°"},
-            {"hi": "90°", "en": "90°"},
-            {"hi": "180°", "en": "180°"},
-            {"hi": "60°", "en": "60°"}
+            {"hi": "संगत कोण (Corresponding angles)", "en": "Corresponding angles"},
+            {"hi": "शीर्षलंब", "en": "Altitudes"},
+            {"hi": "माध्यिकाएँ", "en": "Medians"},
+            {"hi": "परिमाप", "en": "Perimeters"}
           ],
-          "answer": {"hi": "90°", "en": "90°"}
+          "answer": {"hi": "संगत कोण (Corresponding angles)", "en": "Corresponding angles"}
         },
         {
           "q": {
-            "hi": "क्या एक त्रिभुज में दो समकोण हो सकते हैं?",
-            "en": "Can a triangle have two right angles?"
+            "hi": "प्रमेय 6.5 (SAS समरूपता कसौटी) के अनुसार, यदि एक त्रिभुज का एक कोण दूसरे त्रिभुज के एक कोण के बराबर हो तथा इन कोणों को अंतर्गत करने वाली भुजाएँ समानुपाती हों, तो दोनों त्रिभुज कैसे होते हैं?",
+            "en": "According to Theorem 6.5 (SAS similarity criterion), if one angle of a triangle is equal to one angle of another triangle and the sides including these angles are proportional, then the two triangles are what?"
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल समद्विबाहु त्रिभुज में", "en": "Only in isosceles triangle"},
-            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"}
+            {"hi": "सर्वांगसम", "en": "Congruent"},
+            {"hi": "समरूप (Similar)", "en": "Similar"},
+            {"hi": "असमान", "en": "Unequal"},
+            {"hi": "समान क्षेत्रफल वाले", "en": "Of equal area"}
           ],
-          "answer": {"hi": "नहीं", "en": "No"}
+          "answer": {"hi": "समरूप (Similar)", "en": "Similar"}
         },
         {
           "q": {
-            "hi": "क्या एक त्रिभुज में दो अधिक कोण हो सकते हैं?",
-            "en": "Can a triangle have two obtuse angles?"
+            "hi": "यदि $\\triangle ABC \\sim \\triangle DEF$ है, $\\angle A = 47^\\circ$ और $\\angle E = 83^\\circ$ हो, तो $\\angle C$ का मान क्या होगा?",
+            "en": "If $\\triangle ABC \\sim \\triangle DEF$, $\\angle A = 47^\\circ$, and $\\angle E = 83^\\circ$, what will be the value of $\\angle C$?"
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "संभव है", "en": "Possible"},
-            {"hi": "आधार पर निर्भर करता है", "en": "Depends on base"}
+            {"hi": "47^\\circ", "en": "47^\\circ"},
+            {"hi": "83^\\circ", "en": "83^\\circ"},
+            {"hi": "50^\\circ", "en": "50^\\circ"},
+            {"hi": "60^\\circ", "en": "60^\\circ"}
           ],
-          "answer": {"hi": "नहीं", "en": "No"}
+          "answer": {"hi": "50^\\circ", "en": "50^\\circ"}
         },
         {
           "q": {
-            "hi": "यदि दो रेखाएँ परस्पर समांतर हों और तीसरी रेखा उन पर लंब हो, तो वह क्या होगी?",
-            "en": "If two lines are parallel and a third line is perpendicular to one, what will it be?"
+            "hi": "90 cm की लंबाई वाली एक लड़की बल्ब लगे एक खंभे के आधार से परे 1.2 m/s की चाल से चल रही है। यदि बल्ब भूमि से 3.6 m की ऊँचाई पर है, तो 4 सेकंड बाद लड़की की छाया की लंबाई क्या होगी?",
+            "en": "A girl of height 90 cm is walking away from the base of a lamp-post at a speed of 1.2 m/s. If the lamp is 3.6 m above the ground, what will be the length of her shadow after 4 seconds?"
           },
           "options": [
-            {"hi": "दूसरी के समांतर", "en": "Parallel to the second"},
-            {"hi": "दूसरी पर भी लंब", "en": "Also perpendicular to the second"},
-            {"hi": "दूसरी के संपाती", "en": "Coincident with second"},
-            {"hi": "तिरछी", "en": "Oblique"}
+            {"hi": "1.2 m", "en": "1.2 m"},
+            {"hi": "1.6 m", "en": "1.6 m"},
+            {"hi": "2.0 m", "en": "2.0 m"},
+            {"hi": "1.5 m", "en": "1.5 m"}
           ],
-          "answer": {"hi": "दूसरी पर भी लंब", "en": "Also perpendicular to the second"}
+          "answer": {"hi": "1.6 m", "en": "1.6 m"}
         },
         {
           "q": {
-            "hi": "आकृति में यदि x + y = 180° हो, तो वह रेखा क्या कहलाती है?",
-            "en": "In a figure if x + y = 180°, what is that line called?"
+            "hi": "$\\triangle ABC$ और $\\triangle AMP$ दो समकोण त्रिभुज हैं, जिनके कोण $B$ और $M$ समकोण हैं। सिद्ध करने के बाद कि $\\triangle ABC \\sim \\triangle AMP$, भुजाओं का कौन सा अनुपात सही प्राप्त होगा?",
+            "en": "$\\triangle ABC$ and $\\triangle AMP$ are two right triangles, right-angled at $B$ and $M$ respectively. After proving $\\triangle ABC \\sim \\triangle AMP$, which ratio of sides will be correct?"
           },
           "options": [
-            {"hi": "वक्र", "en": "Curve"},
-            {"hi": "सरल रेखा", "en": "Straight line"},
-            {"hi": "खंडित रेखा", "en": "Broken line"},
-            {"hi": "अर्धवृत्त", "en": "Semicircle"}
+            {"hi": "CA/PA = BC/MP", "en": "CA/PA = BC/MP"},
+            {"hi": "AB/AM = AC/AP = BC/MP", "en": "AB/AM = AC/AP = BC/MP"},
+            {"hi": "CA/MP = BC/PA", "en": "CA/MP = BC/PA"},
+            {"hi": "AB/MP = BC/AM", "en": "AB/MP = BC/AM"}
           ],
-          "answer": {"hi": "सरल रेखा", "en": "Straight line"}
+          "answer": {"hi": "AB/AM = AC/AP = BC/MP", "en": "AB/AM = AC/AP = BC/MP"}
         },
         {
           "q": {
-            "hi": "एक समबाहु त्रिभुज का प्रत्येक कोण कितने डिग्री का होता है?",
-            "en": "What is the measure of each angle of an equilateral triangle?"
+            "hi": "यदि दो समरूप त्रिभुजों की संगत माध्यिकाएँ (medians) दी हों, तो त्रिभुजों की भुजाओं का अनुपात उनकी संगत माध्यिकाओं के अनुपात के कैसा होता है?",
+            "en": "If corresponding medians of two similar triangles are given, the ratio of the sides of the triangles is what to the ratio of their corresponding medians?"
           },
           "options": [
-            {"hi": "45°", "en": "45°"},
-            {"hi": "60°", "en": "60°"},
-            {"hi": "90°", "en": "90°"},
-            {"hi": "30°", "en": "30°"}
+            {"hi": "बराबर (Equal)", "en": "Equal"},
+            {"hi": "वर्ग के बराबर", "en": "Equal to the square"},
+            {"hi": "व्युत्क्रम", "en": "Inverse"},
+            {"hi": "आधा", "en": "Half"}
           ],
-          "answer": {"hi": "60°", "en": "60°"}
+          "answer": {"hi": "बराबर (Equal)", "en": "Equal"}
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "शीर्षाभिमुख कोणों का शीर्ष क्या होता है?",
-            "en": "What is the vertex of vertically opposite angles?"
+            "hi": "प्रमेय 6.6 के अनुसार, दो समरूप त्रिभुजों के क्षेत्रफलों का अनुपात उनकी संगत भुजाओं के अनुपात के किसके बराबर होता है?",
+            "en": "According to Theorem 6.6, the ratio of the areas of two similar triangles is equal to what of the ratio of their corresponding sides?"
           },
           "options": [
-            {"hi": "अलग-अलग", "en": "Different"},
-            {"hi": "उभयनिष्ठ (एक ही)", "en": "Common (same)"},
-            {"hi": "रेखा पर स्थित", "en": "On the line"},
-            {"hi": "अनंत", "en": "Infinite"}
+            {"hi": "वर्ग के बराबर (Square)", "en": "Square"},
+            {"hi": "घन के बराबर", "en": "Cube"},
+            {"hi": "वर्गमूल के बराबर", "en": "Square root"},
+            {"hi": "सीधे अनुपात के बराबर", "en": "Direct ratio"}
           ],
-          "answer": {"hi": "उभयनिष्ठ (एक ही)", "en": "Common (same)"}
+          "answer": {"hi": "वर्ग के बराबर (Square)", "en": "Square"}
         },
         {
           "q": {
-            "hi": "यदि दो रेखाएँ प्रतिच्छेद नहीं करती हैं, तो उन्हें क्या कहा जाता है?",
-            "en": "If two lines do not intersect, what are they called?"
+            "hi": "यदि $\\triangle ABC \\sim \\triangle DEF$ है, उनके क्षेत्रफल क्रमशः $64\\text{ cm}^2$ और $121\\text{ cm}^2$ हैं। यदि $EF = 15.4\\text{ cm}$ हो, तो $BC$ का मान क्या होगा?",
+            "en": "If $\\triangle ABC \\sim \\triangle DEF$, their areas are $64\\text{ cm}^2$ and $121\\text{ cm}^2$ respectively. If $EF = 15.4\\text{ cm}$, what will be the value of $BC$?"
           },
           "options": [
-            {"hi": "लंब", "en": "Perpendicular"},
-            {"hi": "समांतर", "en": "Parallel"},
-            {"hi": "संगत", "en": "Corresponding"},
-            {"hi": "तिर्यक", "en": "Transversal"}
+            {"hi": "11.2 cm", "en": "11.2 cm"},
+            {"hi": "14 cm", "en": "14 cm"},
+            {"hi": "12.1 cm", "en": "12.1 cm"},
+            {"hi": "8.8 cm", "en": "8.8 cm"}
           ],
-          "answer": {"hi": "समांतर", "en": "Parallel"}
+          "answer": {"hi": "11.2 cm", "en": "11.2 cm"}
         },
         {
           "q": {
-            "hi": "दो पूरक कोणों का अंतर 20° है। कोणों का मान क्या होगा?",
-            "en": "The difference between two complementary angles is 20°. What are the angles?"
+            "hi": "एक समलंब $ABCD$ जिसमें $AB \\parallel DC$ है, के विकर्ण परस्पर बिंदु $O$ पर प्रतिच्छेद करते हैं। यदि $AB = 2CD$ हो, तो $\\triangle AOB$ और $\\triangle COD$ के क्षेत्रफलों का अनुपात क्या होगा?",
+            "en": "Diagonals of a trapezium $ABCD$ with $AB \\parallel DC$ intersect each other at $O$. If $AB = 2CD$, find the ratio of the areas of triangles $AOB$ and $COD$."
           },
           "options": [
-            {"hi": "55°, 35°", "en": "55°, 35°"},
-            {"hi": "60°, 40°", "en": "60°, 40°"},
-            {"hi": "100°, 80°", "en": "100°, 80°"},
-            {"hi": "50°, 30°", "en": "50°, 30°"}
+            {"hi": "1:4", "en": "1:4"},
+            {"hi": "4:1", "en": "4:1"},
+            {"hi": "2:1", "en": "2:1"},
+            {"hi": "1:2", "en": "1:2"}
           ],
-          "answer": {"hi": "55°, 35°", "en": "55°, 35°"}
+          "answer": {"hi": "4:1", "en": "4:1"}
         },
         {
           "q": {
-            "hi": "दो संपूरक कोणों का अनुपात 2:3 है। छोटा कोण क्या है?",
-            "en": "The ratio of two supplementary angles is 2:3. What is the smaller angle?"
+            "hi": "यदि दो समरूप त्रिभुजों के क्षेत्रफलों का अनुपात 4:9 हो, तो उनकी संगत भुजाओं का अनुपात क्या होगा?",
+            "en": "If the ratio of the areas of two similar triangles is 4:9, what will be the ratio of their corresponding sides?"
           },
           "options": [
-            {"hi": "36°", "en": "36°"},
-            {"hi": "72°", "en": "72°"},
-            {"hi": "108°", "en": "108°"},
-            {"hi": "54°", "en": "54°"}
+            {"hi": "16:81", "en": "16:81"},
+            {"hi": "2:3", "en": "2:3"},
+            {"hi": "3:2", "en": "3:2"},
+            {"hi": "4:9", "en": "4:9"}
           ],
-          "answer": {"hi": "72°", "en": "72°"}
+          "answer": {"hi": "2:3", "en": "2:3"}
         },
         {
           "q": {
-            "hi": "एक त्रिभुज में कम से कम कितने न्यून कोण होने चाहिए?",
-            "en": "At least how many acute angles must a triangle have?"
+            "hi": "$\\triangle ABC$ और $\\triangle BDE$ दो समबाहु त्रिभुज इस प्रकार हैं कि $D$ भुजा $BC$ का मध्य-बिंदु है। त्रिभुजों $ABC$ और $BDE$ के क्षेत्रफलों का अनुपात क्या है?",
+            "en": "$\\triangle ABC$ and $\\triangle BDE$ are two equilateral triangles such that $D$ is the mid-point of side $BC$. What is the ratio of the areas of triangles $ABC$ and $BDE$?"
           },
           "options": [
-            {"hi": "एक", "en": "One"},
-            {"hi": "दो", "en": "Two"},
-            {"hi": "तीन", "en": "Three"},
-            {"hi": "कोई नहीं", "en": "None"}
+            {"hi": "2:1", "en": "2:1"},
+            {"hi": "1:2", "en": "1:2"},
+            {"hi": "4:1", "en": "4:1"},
+            {"hi": "1:4", "en": "1:4"}
           ],
-          "answer": {"hi": "दो", "en": "Two"}
+          "answer": {"hi": "4:1", "en": "4:1"}
         },
         {
           "q": {
-            "hi": "आसन्न कोणों में क्या उभयनिष्ठ होता है?",
-            "en": "What is common in adjacent angles?"
+            "hi": "दो समरूप त्रिभुजों की भुजाएँ 4:9 के अनुपात में हैं। इन त्रिभुजों के क्षेत्रफलों का अनुपात क्या होगा?",
+            "en": "Sides of two similar triangles are in the ratio 4:9. What will be the ratio of the areas of these triangles?"
           },
           "options": [
-            {"hi": "केवल शीर्ष", "en": "Only vertex"},
-            {"hi": "शीर्ष और एक भुजा", "en": "Vertex and one arm"},
-            {"hi": "दोनों भुजाएँ", "en": "Both arms"},
-            {"hi": "कुछ नहीं", "en": "Nothing"}
+            {"hi": "2:3", "en": "2:3"},
+            {"hi": "4:9", "en": "4:9"},
+            {"hi": "81:16", "en": "81:16"},
+            {"hi": "16:81", "en": "16:81"}
           ],
-          "answer": {"hi": "शीर्ष और एक भुजा", "en": "Vertex and one arm"}
+          "answer": {"hi": "16:81", "en": "16:81"}
         },
         {
           "q": {
-            "hi": "एक प्रतिवर्ती कोण का मान कितना होता है?",
-            "en": "What is the measure of a reflex angle?"
+            "hi": "प्रमेय 6.7 के अनुसार, यदि किसी समकोण त्रिभुज के समकोण वाले शीर्ष से कर्ण पर लंब डाला जाए, तो लंब के दोनों ओर बनने वाले त्रिभुज संपूर्ण त्रिभुज के और परस्पर कैसे होते हैं?",
+            "en": "According to Theorem 6.7, if a perpendicular is drawn from the vertex of the right angle of a right triangle to the hypotenuse, the triangles on each side of the perpendicular are what to the whole triangle and to each other?"
           },
           "options": [
-            {"hi": "360°", "en": "360°"},
-            {"hi": "180° < x < 360°", "en": "180° < x < 360°"},
-            {"hi": "90° < x < 180°", "en": "90° < x < 180°"},
-            {"hi": "0° < x < 90°", "en": "0° < x < 90°"}
+            {"hi": "सर्वांगसम", "en": "Congruent"},
+            {"hi": "समरूप (Similar)", "en": "Similar"},
+            {"hi": "लंबवत", "en": "Perpendicular"},
+            {"hi": "असमान", "en": "Unequal"}
           ],
-          "answer": {"hi": "180° < x < 360°", "en": "180° < x < 360°"}
+          "answer": {"hi": "समरूप (Similar)", "en": "Similar"}
         },
         {
           "q": {
-            "hi": "शीर्षाभिमुख कोणों का युग्म किस प्रकार की रेखाओं द्वारा बनता है?",
-            "en": "The pair of vertically opposite angles is formed by which type of lines?"
+            "hi": "प्रमेय 6.8 (पाइथागोरस प्रमेय) के अनुसार, एक समकोण त्रिभुज में कर्ण का वर्ग शेष दो भुजाओं के वर्गों के किसके बराबर होता है?",
+            "en": "According to Theorem 6.8 (Pythagoras Theorem), in a right triangle, the square of the hypotenuse is equal to what of the squares of the other two sides?"
           },
           "options": [
-            {"hi": "समांतर रेखाएँ", "en": "Parallel lines"},
-            {"hi": "प्रतिच्छेदी रेखाएँ", "en": "Intersecting lines"},
-            {"hi": "वक्र रेखाएँ", "en": "Curved lines"},
-            {"hi": "किरणें", "en": "Rays"}
+            {"hi": "अंतर", "en": "Difference"},
+            {"hi": "योगफल (Sum)", "en": "Sum"},
+            {"hi": "गुणनफल", "en": "Product"},
+            {"hi": "भागफल", "en": "Quotient"}
           ],
-          "answer": {"hi": "प्रतिच्छेदी रेखाएँ", "en": "Intersecting lines"}
+          "answer": {"hi": "योगफल (Sum)", "en": "Sum"}
         },
         {
           "q": {
-            "hi": "किसी रेखा के एक ही ओर एक ही बिंदु पर बने सभी कोणों का योग कितना होता है?",
-            "en": "What is the sum of all angles formed on the same side of a line at the same point?"
+            "hi": "पाइथागोरस प्रमेय को प्राचीन भारतीय गणितज्ञ ने किस रूप में बहुत पहले (लगभग 800 ई.पू.) लिख दिया था?",
+            "en": "In what form did an ancient Indian mathematician write the Pythagoras theorem a long time ago (around 800 BC)?"
           },
           "options": [
-            {"hi": "90°", "en": "90°"},
-            {"hi": "180°", "en": "180°"},
-            {"hi": "360°", "en": "360°"},
-            {"hi": "0°"}
+            {"hi": "बौधायन सुल्ब सूत्र (Baudhayan Sulba Sutra)", "en": "Baudhayan Sulba Sutra"},
+            {"hi": "आर्यभटीय", "en": "Aryabhatiya"},
+            {"hi": "लीलावती", "en": "Lilavati"},
+            {"hi": "ब्रह्मस्फुटसिद्धांत", "en": "Brahmasphutasiddhanta"}
           ],
-          "answer": {"hi": "180°", "en": "180°"}
+          "answer": {"hi": "बौधायन सुल्ब सूत्र (Baudhayan Sulba Sutra)", "en": "Baudhayan Sulba Sutra"}
         },
         {
           "q": {
-            "hi": "किसी बिंदु के चारों ओर बने सभी कोणों का योग कितना होता है?",
-            "en": "What is the sum of all angles formed around a point?"
+            "hi": "पाइथागोरस प्रमेय के विलोम (Converse of Pythagoras Theorem - प्रमेय 6.9) के अनुसार, यदि किसी त्रिभुज की एक भुजा का वर्ग अन्य दो भुजाओं के वर्गों के योग के बराबर हो, तो पहली भुजा का सम्मुख कोण कैसा होता है?",
+            "en": "According to the converse of Pythagoras Theorem (Theorem 6.9), if in a triangle, square of one side is equal to the sum of the squares of the other two sides, then the angle opposite to the first side is what?"
           },
           "options": [
-            {"hi": "180°", "en": "180°"},
-            {"hi": "360°", "en": "360°"},
-            {"hi": "90°", "en": "90°"},
-            {"hi": "270°", "en": "270°"}
+            {"hi": "न्यूनकोण", "en": "Acute angle"},
+            {"hi": "अधिककोण", "en": "Oblique angle"},
+            {"hi": "समकोण (Right angle)", "en": "Right angle"},
+            {"hi": "ऋजुकोण", "en": "Straight angle"}
           ],
-          "answer": {"hi": "360°", "en": "360°"}
+          "answer": {"hi": "समकोण (Right angle)", "en": "Right angle"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "यदि एकांतर अंतः कोण बराबर हों, तो रेखाएँ कैसी होंगी?",
-            "en": "If alternate interior angles are equal, how will the lines be?"
+            "hi": "एक सीढ़ी किसी दीवार पर इस प्रकार टिकी हुई है कि इसका निचला सिरा दीवार से 2.5 m की दूरी पर है तथा इसका ऊपरी सिरा भूमि से 6 m ऊँची एक खिड़की तक पहुँचता है। सीढ़ी की लंबाई क्या होगी?",
+            "en": "A ladder is placed against a wall such that its foot is at a distance of 2.5 m from the wall and its top reaches a window 6 m above the ground. What will be the length of the ladder?"
           },
           "options": [
-            {"hi": "प्रतिच्छेदी", "en": "Intersecting"},
-            {"hi": "समांतर", "en": "Parallel"},
-            {"hi": "लंब", "en": "Perpendicular"},
-            {"hi": "असंगत", "en": "Inconsistent"}
+            {"hi": "6.5 m", "en": "6.5 m"},
+            {"hi": "7 m", "en": "7 m"},
+            {"hi": "5.5 m", "en": "5.5 m"},
+            {"hi": "8 m", "en": "8 m"}
           ],
-          "answer": {"hi": "समांतर", "en": "Parallel"}
+          "answer": {"hi": "6.5 m", "en": "6.5 m"}
         },
         {
           "q": {
-            "hi": "यदि एक तिर्यक रेखा के एक ही ओर के अंतः कोण संपूरक हों, तो रेखाएँ कैसी होंगी?",
-            "en": "If interior angles on the same side of a transversal are supplementary, how will the lines be?"
+            "hi": "यदि किसी त्रिभुज की भुजाएँ 7 cm, 24 cm और 25 cm दी गई हों, तो क्या यह एक समकोण त्रिभुज है? यदि हाँ, तो इसके कर्ण की लंबाई क्या होगी?",
+            "en": "If the sides of a triangle are given as 7 cm, 24 cm, and 25 cm, is it a right triangle? If yes, what will be the length of its hypotenuse?"
           },
           "options": [
-            {"hi": "समांतर", "en": "Parallel"},
-            {"hi": "तिर्यक", "en": "Transversal"},
-            {"hi": "लंब", "en": "Perpendicular"},
-            {"hi": "असमान", "en": "Unequal"}
+            {"hi": "नहीं, यह समकोण त्रिभुज नहीं है", "en": "No, it is not a right triangle"},
+            {"hi": "हाँ, कर्ण = 25 cm है (Yes, hypotenuse = 25 cm)", "en": "Yes, hypotenuse = 25 cm"},
+            {"hi": "हाँ, कर्ण = 24 cm है", "en": "Yes, hypotenuse = 24 cm"},
+            {"hi": "हाँ, कर्ण = 7 cm है", "en": "Yes, hypotenuse = 7 cm"}
           ],
-          "answer": {"hi": "समांतर", "en": "Parallel"}
+          "answer": {"hi": "हाँ, कर्ण = 25 cm है (Yes, hypotenuse = 25 cm)", "en": "Yes, hypotenuse = 25 cm"}
         },
         {
           "q": {
-            "hi": "दो समांतर रेखाओं को काटने वाली तिर्यक रेखा द्वारा कुल कितने कोण बनते हैं?",
-            "en": "How many total angles are formed by a transversal intersecting two parallel lines?"
+            "hi": "एक हवाई जहाज एक हवाई अड्डे से उत्तर की ओर 1000 km/h की चाल से उड़ता है। इसी समय एक अन्य हवाई जहाज उसी हवाई अड्डे से पश्चिम की ओर 1200 km/h की चाल से उड़ता है। $1\\frac{1}{2}$ घंटे बाद दोनों हवाई जहाजों के बीच की दूरी कितनी होगी?",
+            "en": "An aeroplane leaves an airport and flies due north at a speed of 1000 km/h. At the same time, another aeroplane leaves the same airport and flies due west at a speed of 1200 km/h. How far apart will the two aeroplanes be after $1\\frac{1}{2}$ hours?"
           },
           "options": [
-            {"hi": "चार", "en": "Four"},
-            {"hi": "छह", "en": "Six"},
-            {"hi": "आठ", "en": "Eight"},
-            {"hi": "दो", "en": "Two"}
+            {"hi": "300\\sqrt{61} km", "en": "300\\sqrt{61} km"},
+            {"hi": "1500 km", "en": "1500 km"},
+            {"hi": "2200 km", "en": "2200 km"},
+            {"hi": "300\\sqrt{50} km", "en": "300\\sqrt{50} km"}
           ],
-          "answer": {"hi": "आठ", "en": "Eight"}
+          "answer": {"hi": "300\\sqrt{61} km", "en": "300\\sqrt{61} km"}
         },
         {
           "q": {
-            "hi": "समद्विबाहु समकोण त्रिभुज के अन्य दो कोणों का मान क्या होता है?",
-            "en": "What is the value of the other two angles in an isosceles right triangle?"
+            "hi": "दो खंभे जिनकी ऊँचाइयाँ 6 m और 11 m हैं तथा ये समतल भूमि पर खड़े हैं। यदि इनके निचले सिरों के बीच की दूरी 12 m है, तो इनके ऊपरी सिरों के बीच की दूरी क्या होगी?",
+            "en": "Two poles of heights 6 m and 11 m stand on a plane ground. If the distance between the feet of the poles is 12 m, what will be the distance between their top vertices?"
           },
           "options": [
-            {"hi": "45°, 45°", "en": "45°, 45°"},
-            {"hi": "30°, 60°", "en": "30°, 60°"},
-            {"hi": "40°, 50°", "en": "40°, 50°"},
-            {"hi": "90°, 0°", "en": "90°, 0°"}
+            {"hi": "13 m", "en": "13 m"},
+            {"hi": "15 m", "en": "15 m"},
+            {"hi": "12 m", "en": "12 m"},
+            {"hi": "17 m", "en": "17 m"}
           ],
-          "answer": {"hi": "45°, 45°", "en": "45°, 45°"}
+          "answer": {"hi": "13 m", "en": "13 m"}
         },
         {
           "q": {
-            "hi": "त्रिभुज के बहिष्कोण और आसन्न अंतः कोण के बीच क्या संबंध होता है?",
-            "en": "What is the relationship between the exterior angle and adjacent interior angle of a triangle?"
+            "hi": "एक समबाहु त्रिभुज $ABC$ की भुजा $2a$ है। उसके प्रत्येक शीर्षलंब (altitude) की लंबाई क्या होगी?",
+            "en": "An equilateral triangle $ABC$ has side $2a$. What will be the length of each of its altitudes?"
           },
           "options": [
-            {"hi": "वे पूरक होते हैं", "en": "They are complementary"},
-            {"hi": "वे संपूरक होते हैं (180° योग)", "en": "They are supplementary (sum 180°)"},
-            {"hi": "वे बराबर होते हैं", "en": "They are equal"},
-            {"hi": "कुछ नहीं", "en": "Nothing"}
+            {"hi": "a", "en": "a"},
+            {"hi": "a\\sqrt{3}", "en": "a\\sqrt{3}"},
+            {"hi": "2a\\sqrt{3}", "en": "2a\\sqrt{3}"},
+            {"hi": "a/\\sqrt{3}", "en": "a/\\sqrt{3}"}
           ],
-          "answer": {"hi": "वे संपूरक होते हैं (180° योग)", "en": "They are supplementary (sum 180°)"}
+          "answer": {"hi": "a\\sqrt{3}", "en": "a\\sqrt{3}"}
         },
         {
           "q": {
-            "hi": "अधिक कोण त्रिभुज का सबसे बड़ा कोण कैसा होता है?",
-            "en": "What is the largest angle of an obtuse triangle?"
+            "hi": "सिद्ध कीजिए कि एक समचतुर्भुज (rhombus) की भुजाओं के वर्गों का योग उसके किसके वर्गों के योग के बराबर होता है?",
+            "en": "Prove that the sum of the squares of the sides of a rhombus is equal to the sum of the squares of its what?"
           },
           "options": [
-            {"hi": "90°", "en": "90°"},
-            {"hi": "90° < x < 180°", "en": "90° < x < 180°"},
-            {"hi": "180°", "en": "180°"},
-            {"hi": "360°", "en": "360°"}
+            {"hi": "विकर्णों (Diagonals)", "en": "Diagonals"},
+            {"hi": "शीर्षलंबों", "en": "Altitudes"},
+            {"hi": "माध्यिकाओं", "en": "Medians"},
+            {"hi": "सम्मुख भुजाओं", "en": "Opposite sides"}
           ],
-          "answer": {"hi": "90° < x < 180°", "en": "90° < x < 180°"}
+          "answer": {"hi": "विकर्णों (Diagonals)", "en": "Diagonals"}
         },
         {
           "q": {
-            "hi": "शीर्षाभिमुख कोणों के कितने युग्म बनते हैं जब दो रेखाएँ प्रतिच्छेद करती हैं?",
-            "en": "How many pairs of vertically opposite angles are formed when two lines intersect?"
+            "hi": "त्रिभुज $ABC$ में, $AD \\perp BC$ है जिससे $DB = 3CD$ है। सिद्ध कीजिए कि $2AB^2$ का मान किसके बराबर प्राप्त होगा?",
+            "en": "In triangle $ABC$, $AD \\perp BC$ such that $DB = 3CD$. On proving, what will the value of $2AB^2$ be equal to?"
           },
           "options": [
-            {"hi": "एक", "en": "One"},
-            {"hi": "दो", "en": "Two"},
-            {"hi": "चार", "en": "Four"},
-            {"hi": "अनंत", "en": "Infinite"}
+            {"hi": "2AC^2 + BC^2", "en": "2AC^2 + BC^2"},
+            {"hi": "2AC^2 - BC^2", "en": "2AC^2 - BC^2"},
+            {"hi": "AC^2 + 2BC^2", "en": "AC^2 + 2BC^2"},
+            {"hi": "2AC^2 + 4BC^2", "en": "2AC^2 + 4BC^2"}
           ],
-          "answer": {"hi": "दो", "en": "Two"}
+          "answer": {"hi": "2AC^2 + BC^2", "en": "2AC^2 + BC^2"}
         },
         {
           "q": {
-            "hi": "एक बिंदु से होकर कितनी रेखाएँ खींची जा सकती हैं?",
-            "en": "How many lines can be drawn passing through a single point?"
+            "hi": "एक समबाहु त्रिभुज $ABC$ में, भुजा $BC$ पर एक बिंदु $D$ इस प्रकार स्थित है कि $BD = 1/3 BC$ है। सिद्ध कीजिए कि $9AD^2$ किसके बराबर होता है?",
+            "en": "In an equilateral triangle $ABC$, $D$ is a point on side $BC$ such that $BD = 1/3 BC$. Prove that $9AD^2$ is equal to what?"
           },
           "options": [
-            {"hi": "एक", "en": "One"},
-            {"hi": "दो", "en": "Two"},
-            {"hi": "सीमित", "en": "Limited"},
-            {"hi": "अपरिमित (अनंत)", "en": "Infinitely many"}
+            {"hi": "7AB^2", "en": "7AB^2"},
+            {"hi": "8AB^2", "en": "8AB^2"},
+            {"hi": "9AB^2", "en": "9AB^2"},
+            {"hi": "5AB^2", "en": "5AB^2"}
           ],
-          "answer": {"hi": "अपरिमित (अनंत)", "en": "Infinitely many"}
+          "answer": {"hi": "7AB^2", "en": "7AB^2"}
         },
         {
           "q": {
-            "hi": "कोण की भुजाएँ (Arms) क्या होती हैं?",
-            "en": "What are the arms of an angle?"
+            "hi": "त्रिभुज $ABC$ में, $AB = 6\\sqrt{3}\\text{ cm}, AC = 12\\text{ cm}$ और $BC = 6\\text{ cm}$ है। कोण $B$ का मान क्या होगा?",
+            "en": "In triangle $ABC$, $AB = 6\\sqrt{3}\\text{ cm}, AC = 12\\text{ cm}$, and $BC = 6\\text{ cm}$. What will be the angle $B$?"
           },
           "options": [
-            {"hi": "रेखाएँ", "en": "Lines"},
-            {"hi": "रेखाखंड", "en": "Line segments"},
-            {"hi": "किरणें", "en": "Rays"},
-            {"hi": "बिंदु", "en": "Points"}
+            {"hi": "120^\\circ", "en": "120^\\circ"},
+            {"hi": "60^\\circ", "en": "60^\\circ"},
+            {"hi": "90^\\circ", "en": "90^\\circ"},
+            {"hi": "45^\\circ", "en": "45^\\circ"}
           ],
-          "answer": {"hi": "किरणें", "en": "Rays"}
+          "answer": {"hi": "90^\\circ", "en": "90^\\circ"}
         },
         {
           "q": {
-            "hi": "कोणों का वह युग्म जिनकी एक भुजा उभयनिष्ठ हो और शीर्ष भी उभयनिष्ठ हो, क्या कहलाता है?",
-            "en": "What is the pair of angles with a common vertex and a common arm called?"
+            "hi": "किसी त्रिभुज के कोणों $A, B, C$ के सम्मुख भुजाएँ क्रमशः $a, b, c$ हैं। यदि $a^2 + b^2 = c^2$ हो, तो त्रिभुज में कौन सा कोण समकोण ($90^\\circ$) होगा?",
+            "en": "The sides opposite to angles $A, B, C$ of a triangle are $a, b, c$ respectively. If $a^2 + b^2 = c^2$, which angle in the triangle will be a right angle ($90^\\circ$)?"
           },
           "options": [
-            {"hi": "रैखिक युग्म", "en": "Linear pair"},
-            {"hi": "शीर्षाभिमुख कोण", "en": "Vertically opposite angles"},
-            {"hi": "आसन्न कोण", "en": "Adjacent angles"},
-            {"hi": "संगत कोण", "en": "Corresponding angles"}
+            {"hi": "कोण A", "en": "Angle A"},
+            {"hi": "कोण B", "en": "Angle B"},
+            {"hi": "कोण C", "en": "Angle C"},
+            {"hi": "कोई नहीं", "en": "None"}
           ],
-          "answer": {"hi": "आसन्न कोण", "en": "Adjacent angles"}
+          "answer": {"hi": "कोण C", "en": "Angle C"}
         }
       ]
     },
