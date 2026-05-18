@@ -3976,661 +3976,661 @@
       "section1": [
         {
           "q": {
-            "hi": "तीन प्रतिच्छेदी रेखाओं द्वारा बनाई गई एक बंद आकृति क्या कहलाती है?",
-            "en": "What is a closed figure formed by three intersecting lines called?"
+            "hi": "किसी तल पर एक बिंदु की स्थिति निर्धारित करने के लिए हमें निर्देशांक अक्षों के एक युग्म की आवश्यकता होती है। बिंदु की y-अक्ष से दूरी उस बिंदु का क्या कहलाती है?",
+            "en": "To determine the position of a point on a plane, we need a pair of coordinate axes. What is the distance of a point from the y-axis called?"
           },
           "options": [
-            {"hi": "चतुर्भुज", "en": "Quadrilateral"},
-            {"hi": "त्रिभुज", "en": "Triangle"},
-            {"hi": "वृत्त", "en": "Circle"},
-            {"hi": "बहुभुज", "en": "Polygon"}
+            {"hi": "कोटि (Ordinate)", "en": "Ordinate"},
+            {"hi": "भुज (Abscissa)", "en": "Abscissa"},
+            {"hi": "मूल बिंदु (Origin)", "en": "Origin"},
+            {"hi": "चतुर्थांश", "en": "Quadrant"}
           ],
-          "answer": {"hi": "त्रिभुज", "en": "Triangle"}
+          "answer": {"hi": "भुज (Abscissa)", "en": "Abscissa"}
         },
         {
           "q": {
-            "hi": "एक त्रिभुज में कुल कितनी भुजाएँ और कितने शीर्ष होते हैं?",
-            "en": "How many sides and how many vertices does a triangle have?"
+            "hi": "किसी बिंदु की x-अक्ष से लंबवत दूरी को उस बिंदु का क्या कहा जाता है?",
+            "en": "What is the perpendicular distance of a point from the x-axis called?"
           },
           "options": [
-            {"hi": "2 भुजाएँ, 2 शीर्ष", "en": "2 sides, 2 vertices"},
-            {"hi": "3 भुजाएँ, 3 शीर्ष", "en": "3 sides, 3 vertices"},
-            {"hi": "4 भुजाएँ, 4 शीर्ष", "en": "4 sides, 4 vertices"},
-            {"hi": "3 भुजाएँ, 2 शीर्ष", "en": "3 sides, 2 vertices"}
+            {"hi": "भुज (Abscissa)", "en": "Abscissa"},
+            {"hi": "कोटि या y-निर्देशांक", "en": "Ordinate or y-coordinate"},
+            {"hi": "मूल बिंदु", "en": "Origin"},
+            {"hi": "अक्ष", "en": "Axis"}
           ],
-          "answer": {"hi": "3 भुजाएँ, 3 शीर्ष", "en": "3 sides, 3 vertices"}
+          "answer": {"hi": "कोटि या y-निर्देशांक", "en": "Ordinate or y-coordinate"}
         },
         {
           "q": {
-            "hi": "यदि दो आकृतियाँ आकार और माप में समान हों, तो वे क्या कहलाती हैं?",
-            "en": "If two figures are same in shape and size, what are they called?"
+            "hi": "x-अक्ष पर स्थित किसी भी सामान्य बिंदु के निर्देशांक निम्नलिखित में से किस रूप के होते हैं?",
+            "en": "The coordinates of any general point lying on the x-axis are of which of the following forms?"
           },
           "options": [
-            {"hi": "समान", "en": "Similar"},
-            {"hi": "सर्वांगसम", "en": "Congruent"},
-            {"hi": "लंबवत", "en": "Perpendicular"},
-            {"hi": "समांतर", "en": "Parallel"}
+            {"hi": "(0, y)", "en": "(0, y)"},
+            {"hi": "(x, 0)", "en": "(x, 0)"},
+            {"hi": "(x, y)", "en": "(x, y)"},
+            {"hi": "(0, 0)", "en": "(0, 0)"}
           ],
-          "answer": {"hi": "सर्वांगसम", "en": "Congruent"}
+          "answer": {"hi": "(x, 0)", "en": "(x, 0)"}
         },
         {
           "q": {
-            "hi": "सर्वांगसमता के लिए किस चिह्न का प्रयोग किया जाता है?",
-            "en": "Which symbol is used for congruence?"
+            "hi": "y-अक्ष पर स्थित किसी भी बिंदु के निर्देशांक किस रूप के दिखाई देते हैं, जहाँ कोटि का मान कुछ भी हो सकता है?",
+            "en": "The coordinates of any point lying on the y-axis appear in which form, where the ordinate can be any value?"
           },
           "options": [
-            {"hi": "=", "en": "="},
-            {"hi": "$\\cong$", "en": "$\\cong$"},
-            {"hi": "$\\sim$", "en": "$\\sim$"},
-            {"hi": "$\\parallel$", "en": "$\\parallel$"}
+            {"hi": "(x, 0)", "en": "(x, 0)"},
+            {"hi": "(0, y)", "en": "(0, y)"},
+            {"hi": "(y, 0)", "en": "(y, 0)"},
+            {"hi": "(0, 0)", "en": "(0, 0)"}
           ],
-          "answer": {"hi": "$\\cong$", "en": "$\\cong$"}
+          "answer": {"hi": "(0, y)", "en": "(0, y)"}
         },
         {
           "q": {
-            "hi": "यदि $\\Delta ABC \\cong \\Delta PQR$ है, तो भुजा AB किसके बराबर होगी?",
-            "en": "If $\\Delta ABC \\cong \\Delta PQR$, which side will AB be equal to?"
+            "hi": "निर्देशांक ज्यामिति में दोनों अक्षों के प्रतिच्छेद बिंदु को मूल बिंदु (origin) कहा जाता है। इसके निर्देशांक क्या होते हैं?",
+            "en": "The intersection point of both axes in coordinate geometry is called the origin. What are its coordinates?"
           },
           "options": [
-            {"hi": "QR", "en": "QR"},
-            {"hi": "PR", "en": "PR"},
-            {"hi": "PQ", "en": "PQ"},
-            {"hi": "BC", "en": "BC"}
+            {"hi": "(1, 1)", "en": "(1, 1)"},
+            {"hi": "(0, 1)", "en": "(0, 1)"},
+            {"hi": "(0, 0)", "en": "(0, 0)"},
+            {"hi": "(-1, -1)", "en": "(-1, -1)"}
           ],
-          "answer": {"hi": "PQ", "en": "PQ"}
+          "answer": {"hi": "(0, 0)", "en": "(0, 0)"}
         },
         {
           "q": {
-            "hi": "CPCT का पूर्ण रूप क्या है?",
-            "en": "What is the full form of CPCT?"
+            "hi": "दो बिंदुओं $P(x_1, y_1)$ और $Q(x_2, y_2)$ के बीच की दूरी ज्ञात करने के लिए किस महत्वपूर्ण सूत्र (दूरी सूत्र) का उपयोग किया जाता है?",
+            "en": "Which important formula (Distance Formula) is used to find the distance between two points $P(x_1, y_1)$ and $Q(x_2, y_2)$?"
           },
           "options": [
-            {"hi": "सर्वांगसम त्रिभुजों के संगत भाग", "en": "Corresponding parts of congruent triangles"},
-            {"hi": "समान त्रिभुजों के सामान्य भाग", "en": "Common parts of congruent triangles"},
-            {"hi": "त्रिभुजों के केंद्र", "en": "Center points of triangles"},
-            {"hi": "त्रिभुजों की परिधि", "en": "Circumference of triangles"}
+            {"hi": "PQ = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}", "en": "PQ = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}"},
+            {"hi": "PQ = \\sqrt{(x_2 + x_1)^2 + (y_2 + y_1)^2}", "en": "PQ = \\sqrt{(x_2 + x_1)^2 + (y_2 + y_1)^2}"},
+            {"hi": "PQ = (x_2 - x_1) + (y_2 - y_1)", "en": "PQ = (x_2 - x_1) + (y_2 - y_1)"},
+            {"hi": "PQ = \\sqrt{(x_2 \\cdot x_1)^2 - (y_2 \\cdot y_1)^2}", "en": "PQ = \\sqrt{(x_2 \\cdot x_1)^2 - (y_2 \\cdot y_1)^2}"}
           ],
-          "answer": {"hi": "सर्वांगसम त्रिभुजों के संगत भाग", "en": "Corresponding parts of congruent triangles"}
+          "answer": {"hi": "PQ = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}", "en": "PQ = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}"}
         },
         {
           "q": {
-            "hi": "SAS सर्वांगसमता नियम का अर्थ क्या है?",
-            "en": "What does the SAS congruence rule stand for?"
+            "hi": "किसी बिंदु $P(x, y)$ की मूल बिंदु $O(0,0)$ से दूरी का सीधा सूत्र क्या प्राप्त होता है?",
+            "en": "What is the direct formula obtained for the distance of any point $P(x, y)$ from the origin $O(0,0)$?"
           },
           "options": [
-            {"hi": "भुजा-भुजा-भुजा", "en": "Side-Side-Side"},
-            {"hi": "भुजा-कोण-भुजा", "en": "Side-Angle-Side"},
-            {"hi": "कोण-भुजा-कोण", "en": "Angle-Side-Angle"},
-            {"hi": "समकोण-कर्ण-भुजा", "en": "Right-Hypotenuse-Side"}
+            {"hi": "x^2 + y^2", "en": "x^2 + y^2"},
+            {"hi": "\\sqrt{x^2 + y^2}", "en": "\\sqrt{x^2 + y^2}"},
+            {"hi": "\\sqrt{x + y}", "en": "\\sqrt{x + y}"},
+            {"hi": "x - y", "en": "x - y"}
           ],
-          "answer": {"hi": "भुजा-कोण-भुजा", "en": "Side-Angle-Side"}
+          "answer": {"hi": "\\sqrt{x^2 + y^2}", "en": "\\sqrt{x^2 + y^2}"}
         },
         {
           "q": {
-            "hi": "क्या SSA (भुजा-भुजा-कोण) एक सर्वांगसमता नियम है?",
-            "en": "Is SSA (Side-Side-Angle) a congruence rule?"
+            "hi": "दूरी सूत्र में क्योंकि दूरी हमेशा ऋणेतर (non-negative) होती है, इसलिए हम वर्गमूल का केवल कौन सा मान लेते हैं?",
+            "en": "Since distance is always non-negative, which value of the square root do we solely consider in the distance formula?"
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल समकोण त्रिभुज में", "en": "Only in right triangles"},
-            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"}
+            {"hi": "ऋणात्मक मान", "en": "Negative value"},
+            {"hi": "धनात्मक वर्गमूल (Positive square root)", "en": "Positive square root"},
+            {"hi": "शून्य मान", "en": "Zero value"},
+            {"hi": "दोनों धनात्मक और ऋणात्मक मान", "en": "Both positive and negative values"}
           ],
-          "answer": {"hi": "नहीं", "en": "No"}
+          "answer": {"hi": "धनात्मक वर्गमूल (Positive square root)", "en": "Positive square root"}
         },
         {
           "q": {
-            "hi": "यदि एक त्रिभुज के दो कोण और अंतर्गत भुजा दूसरे त्रिभुज के बराबर हों, तो कौन सा नियम लागू होगा?",
-            "en": "If two angles and the included side of one triangle are equal to another, which rule applies?"
+            "hi": "बिंदुओं $(2, 3)$ और $(4, 1)$ के बीच की दूरी क्या होगी?",
+            "en": "What will be the distance between the points $(2, 3)$ and $(4, 1)$?"
           },
           "options": [
-            {"hi": "SSS", "en": "SSS"},
-            {"hi": "SAS", "en": "SAS"},
-            {"hi": "ASA", "en": "ASA"},
-            {"hi": "RHS", "en": "RHS"}
+            {"hi": "2", "en": "2"},
+            {"hi": "2\\sqrt{2}", "en": "2\\sqrt{2}"},
+            {"hi": "\\sqrt{2}", "en": "\\sqrt{2}"},
+            {"hi": "4", "en": "4"}
           ],
-          "answer": {"hi": "ASA", "en": "ASA"}
+          "answer": {"hi": "2\\sqrt{2}", "en": "2\\sqrt{2}"}
         },
         {
           "q": {
-            "hi": "AAS सर्वांगसमता नियम किस नियम का एक विस्तार है?",
-            "en": "AAS congruence rule is an extension of which rule?"
+            "hi": "बिंदुओं $(-5, 7)$ और $(-1, 3)$ के बीच की दूरी ज्ञात कीजिए।",
+            "en": "Find the distance between the points $(-5, 7)$ and $(-1, 3)$."
           },
           "options": [
-            {"hi": "SAS", "en": "SAS"},
-            {"hi": "ASA", "en": "ASA"},
-            {"hi": "SSS", "en": "SSS"},
-            {"hi": "RHS", "en": "RHS"}
+            {"hi": "4", "en": "4"},
+            {"hi": "4\\sqrt{2}", "en": "4\\sqrt{2}"},
+            {"hi": "2\\sqrt{2}", "en": "2\\sqrt{2}"},
+            {"hi": "16", "en": "16"}
           ],
-          "answer": {"hi": "ASA", "en": "ASA"}
+          "answer": {"hi": "4\\sqrt{2}", "en": "4\\sqrt{2}"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "एक त्रिभुज जिसकी दो भुजाएँ बराबर हों, क्या कहलाता है?",
-            "en": "A triangle with two equal sides is called?"
+            "hi": "बिंदुओं $(a, b)$ और $(-a, -b)$ के बीच की दूरी निम्नलिखित में से क्या प्राप्त होगी?",
+            "en": "Which of the following will be the distance between the points $(a, b)$ and $(-a, -b)$?"
           },
           "options": [
-            {"hi": "विषमबाहु त्रिभुज", "en": "Scalene triangle"},
-            {"hi": "समबाहु त्रिभुज", "en": "Equilateral triangle"},
-            {"hi": "समद्विबाहु त्रिभुज", "en": "Isosceles triangle"},
-            {"hi": "समकोण त्रिभुज", "en": "Right triangle"}
+            {"hi": "2\\sqrt{a^2 + b^2}", "en": "2\\sqrt{a^2 + b^2}"},
+            {"hi": "\\sqrt{a^2 + b^2}", "en": "\\sqrt{a^2 + b^2}"},
+            {"hi": "2(a + b)", "en": "2(a + b)"},
+            {"hi": "0", "en": "0"}
           ],
-          "answer": {"hi": "समद्विबाहु त्रिभुज", "en": "Isosceles triangle"}
+          "answer": {"hi": "2\\sqrt{a^2 + b^2}", "en": "2\\sqrt{a^2 + b^2}"}
         },
         {
           "q": {
-            "hi": "त्रिभुज की बराबर भुजाओं के सम्मुख कोण कैसे होते हैं?",
-            "en": "How are the angles opposite to equal sides of a triangle?"
+            "hi": "जाँच कीजिए कि क्या बिंदु $(1, 5)$, $(2, 3)$ और $(-2, -11)$ संरेखी (collinear) हैं?",
+            "en": "Check whether the points $(1, 5)$, $(2, 3)$, and $(-2, -11)$ are collinear?"
           },
           "options": [
-            {"hi": "असमान", "en": "Unequal"},
-            {"hi": "पूरक", "en": "Complementary"},
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "90°"}
+            {"hi": "हाँ, वे संरेखी हैं", "en": "Yes, they are collinear"},
+            {"hi": "नहीं, वे संरेखी नहीं हैं", "en": "No, they are not collinear"},
+            {"hi": "केवल तभी जब मूल बिंदु पर हों", "en": "Only when they are at the origin"},
+            {"hi": "जानकारी अधूरी है", "en": "Information is incomplete"}
           ],
-          "answer": {"hi": "बराबर", "en": "Equal"}
+          "answer": {"hi": "नहीं, वे संरेखी नहीं हैं", "en": "No, they are not collinear"}
         },
         {
           "q": {
-            "hi": "यदि एक त्रिभुज के दो कोण बराबर हों, तो उनकी सम्मुख भुजाएँ कैसी होंगी?",
-            "en": "If two angles of a triangle are equal, how will their opposite sides be?"
+            "hi": "यदि तीन बिंदु $A, B$ और $C$ इस प्रकार हों कि $AB + BC = AC$ की स्थिति प्राप्त हो, तो वे बिंदु कैसे कहलाते हैं?",
+            "en": "If three points $A, B$, and $C$ are such that the condition $AB + BC = AC$ is satisfied, what are those points called?"
           },
           "options": [
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "असमान", "en": "Unequal"},
+            {"hi": "असंरेखी", "en": "Non-collinear"},
+            {"hi": "संरेखी (Collinear)", "en": "Collinear"},
             {"hi": "लंबवत", "en": "Perpendicular"},
-            {"hi": "आधी", "en": "Half"}
+            {"hi": "सममित", "en": "Symmetric"}
           ],
-          "answer": {"hi": "बराबर", "en": "Equal"}
+          "answer": {"hi": "संरेखी (Collinear)", "en": "Collinear"}
         },
         {
           "q": {
-            "hi": "समबाहु त्रिभुज का प्रत्येक कोण कितने डिग्री का होता है?",
-            "en": "What is the measure of each angle of an equilateral triangle?"
+            "hi": "जाँच कीजिए कि क्या बिंदु $(5, -2)$, $(6, 4)$ और $(7, -2)$ एक समद्विबाहु त्रिभुज (isosceles triangle) के शीर्ष हैं?",
+            "en": "Check whether the points $(5, -2)$, $(6, 4)$, and $(7, -2)$ are the vertices of an isosceles triangle?"
           },
           "options": [
-            {"hi": "45°", "en": "45°"},
-            {"hi": "90°", "en": "90°"},
-            {"hi": "60°", "en": "60°"},
-            {"hi": "30°", "en": "30°"}
+            {"hi": "नहीं, यह एक विषमबाहु त्रिभुज है", "en": "No, it is a scalene triangle"},
+            {"hi": "हाँ, क्योंकि इसकी दो भुजाएँ बराबर (\\sqrt{37}) हैं", "en": "Yes, because its two sides are equal (\\sqrt{37})"},
+            {"hi": "हाँ, यह एक समबाहु त्रिभुज है", "en": "Yes, it is an equilateral triangle"},
+            {"hi": "यह एक समकोण त्रिभुज है", "en": "It is a right-angled triangle"}
           ],
-          "answer": {"hi": "60°", "en": "60°"}
+          "answer": {"hi": "हाँ, क्योंकि इसकी दो भुजाएँ बराबर (\\sqrt{37}) हैं", "en": "Yes, because its two sides are equal (\\sqrt{37})"}
         },
         {
           "q": {
-            "hi": "सर्वांगसमता के SSS नियम का क्या अर्थ है?",
-            "en": "What does the SSS congruence rule mean?"
+            "hi": "x-अक्ष पर वह बिंदु ज्ञात कीजिए जो $(2, -5)$ और $(-2, 9)$ से समदूरस्थ (equidistant) हो।",
+            "en": "Find the point on the x-axis which is equidistant from $(2, -5)$ and $(-2, 9)$."
           },
           "options": [
-            {"hi": "तीनों कोण बराबर", "en": "Three angles equal"},
-            {"hi": "तीनों भुजाएँ बराबर", "en": "Three sides equal"},
-            {"hi": "दो भुजाएँ एक कोण", "en": "Two sides one angle"},
-            {"hi": "समकोण-कर्ण-भुजा", "en": "Right-Hypotenuse-Side"}
+            {"hi": "(7, 0)", "en": "(7, 0)"},
+            {"hi": "(-7, 0)", "en": "(-7, 0)"},
+            {"hi": "(0, -7)", "en": "(0, -7)"},
+            {"hi": "(-7, -7)", "en": "(-7, -7)"}
           ],
-          "answer": {"hi": "तीनों भुजाएँ बराबर", "en": "Three sides equal"}
+          "answer": {"hi": "(-7, 0)", "en": "(-7, 0)"}
         },
         {
           "q": {
-            "hi": "RHS सर्वांगसमता नियम किन त्रिभुजों पर लागू होता है?",
-            "en": "On which triangles is the RHS congruence rule applied?"
+            "hi": "y का वह मान ज्ञात कीजिए, जिसके लिए बिंदुओं $P(2, -3)$ और $Q(10, y)$ के बीच की दूरी 10 मात्रक है।",
+            "en": "Find the value of y for which the distance between the points $P(2, -3)$ and $Q(10, y)$ is 10 units."
           },
           "options": [
-            {"hi": "न्यूनकोण त्रिभुज", "en": "Acute triangles"},
-            {"hi": "समकोण त्रिभुज", "en": "Right triangles"},
-            {"hi": "अधिककोण त्रिभुज", "en": "Obtuse triangles"},
-            {"hi": "विषमबाहु त्रिभुज", "en": "Scalene triangles"}
+            {"hi": "3 या 9", "en": "3 or 9"},
+            {"hi": "-3 या 9", "en": "-3 or 9"},
+            {"hi": "3 या -9", "en": "3 or -9"},
+            {"hi": "-3 या -9", "en": "-3 or -9"}
           ],
-          "answer": {"hi": "समकोण त्रिभुज", "en": "Right triangles"}
+          "answer": {"hi": "3 या -9", "en": "3 or -9"}
         },
         {
           "q": {
-            "hi": "RHS नियम में 'H' का क्या अर्थ है?",
-            "en": "What does 'H' stand for in RHS rule?"
+            "hi": "यदि बिंदु $Q(0, 1)$ बिंदुओं $P(5, -3)$ और $R(x, 6)$ से समदूरस्थ है, तो x के संभावित मान क्या होंगे?",
+            "en": "If point $Q(0, 1)$ is equidistant from points $P(5, -3)$ and $R(x, 6)$, what will be the possible values of x?"
           },
           "options": [
-            {"hi": "Height (ऊंचाई)", "en": "Height"},
-            {"hi": "Hypotenuse (कर्ण)", "en": "Hypotenuse"},
-            {"hi": "Horizontal (क्षैतिज)", "en": "Horizontal"},
-            {"hi": "Half (आधा)", "en": "Half"}
+            {"hi": "\\pm 4", "en": "\\pm 4"},
+            {"hi": "\\pm 5", "en": "\\pm 5"},
+            {"hi": "\\pm 3", "en": "\\pm 3"},
+            {"hi": "0", "en": "0"}
           ],
-          "answer": {"hi": "Hypotenuse (कर्ण)", "en": "Hypotenuse"}
+          "answer": {"hi": "\\pm 4", "en": "\\pm 4"}
         },
         {
           "q": {
-            "hi": "एक त्रिभुज में लंबी भुजा के सम्मुख कोण कैसा होता है?",
-            "en": "What is the angle opposite to the longer side in a triangle?"
+            "hi": "x और y में एक ऐसा संबंध ज्ञात कीजिए कि बिंदु $(x, y)$ बिंदुओं $(3, 6)$ और $(-3, 4)$ से समदूरस्थ हो।",
+            "en": "Find a relation between x and y such that the point $(x, y)$ is equidistant from the points $(3, 6)$ and $(-3, 4)$."
           },
           "options": [
-            {"hi": "छोटा", "en": "Smaller"},
-            {"hi": "बड़ा", "en": "Larger"},
-            {"hi": "न्यून कोण", "en": "Acute angle"},
-            {"hi": "शून्य", "en": "Zero"}
+            {"hi": "3x + y - 5 = 0", "en": "3x + y - 5 = 0"},
+            {"hi": "3x - y + 5 = 0", "en": "3x - y + 5 = 0"},
+            {"hi": "3x + y - 12 = 0", "en": "3x + y - 12 = 0"},
+            {"hi": "x - 3y + 5 = 0", "en": "x - 3y + 5 = 0"}
           ],
-          "answer": {"hi": "बड़ा", "en": "Larger"}
+          "answer": {"hi": "3x + y - 5 = 0", "en": "3x + y - 5 = 0"}
         },
         {
           "q": {
-            "hi": "त्रिभुज की किन्हीं दो भुजाओं का योग तीसरी भुजा से क्या होता है?",
-            "en": "The sum of any two sides of a triangle is how much compared to the third side?"
+            "hi": "यदि चार बिंदु किसी क्रम में एक चतुर्भुज बनाते हैं और उसकी सभी चारों भुजाएँ और दोनों विकर्ण परस्पर बराबर हों, तो वह चतुर्भुज क्या कहलाता है?",
+            "en": "If four points in order form a quadrilateral and all its four sides and both diagonals are equal to each other, what is that quadrilateral called?"
           },
           "options": [
-            {"hi": "कम", "en": "Less"},
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "बड़ा (अधिक)", "en": "Greater"},
-            {"hi": "आधा", "en": "Half"}
+            {"hi": "आयत", "en": "Rectangle"},
+            {"hi": "समचतुर्भुज", "en": "Rhombus"},
+            {"hi": "वर्ग (Square)", "en": "Square"},
+            {"hi": "समलंब चतुर्भुज", "en": "Trapezium"}
           ],
-          "answer": {"hi": "बड़ा (अधिक)", "en": "Greater"}
+          "answer": {"hi": "वर्ग (Square)", "en": "Square"}
         },
         {
           "q": {
-            "hi": "किसी त्रिभुज में सबसे बड़े कोण की सम्मुख भुजा कैसी होती है?",
-            "en": "How is the side opposite to the largest angle in a triangle?"
+            "hi": "यदि किसी चतुर्भुज की चारों भुजाएँ बराबर हों परंतु उसके विकर्ण आपस में बराबर न हों, तो वह ज्यामितीय रूप से क्या होता है?",
+            "en": "If all four sides of a quadrilateral are equal but its diagonals are not equal to each other, what is it geometrically?"
           },
           "options": [
-            {"hi": "सबसे छोटी", "en": "Shortest"},
-            {"hi": "सबसे लंबी (बड़ी)", "en": "Longest"},
-            {"hi": "माध्यिका", "en": "Median"},
-            {"hi": "लंब", "en": "Perpendicular"}
+            {"hi": "वर्ग", "en": "Square"},
+            {"hi": "समचतुर्भुज (Rhombus)", "en": "Rhombus"},
+            {"hi": "आयत", "en": "Rectangle"},
+            {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"}
           ],
-          "answer": {"hi": "सबसे लंबी (बड़ी)", "en": "Longest"}
+          "answer": {"hi": "समचतुर्भुज (Rhombus)", "en": "Rhombus"}
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "यदि $\\Delta ABC$ में $AB = AC$ है, तो कौन सा कोण बराबर होगा?",
-            "en": "If in $\\Delta ABC$, $AB = AC$, which angle will be equal?"
+            "hi": "उस बिंदु $P(x, y)$ के निर्देशांक क्या होंगे जो बिंदुओं $A(x_1, y_1)$ और $B(x_2, y_2)$ को जोड़ने वाले रेखाखंड को $m_1 : m_2$ के अनुपात में आंतरिक रूप से विभाजित करता है? (विभाजन सूत्र)",
+            "en": "What will be the coordinates of the point $P(x, y)$ which divides the line segment joining the points $A(x_1, y_1)$ and $B(x_2, y_2)$ internally in the ratio $m_1 : m_2$? (Section Formula)"
           },
           "options": [
-            {"hi": "$\\angle A = \\angle B$", "en": "$\\angle A = \\angle B$"},
-            {"hi": "$\\angle B = \\angle C$", "en": "$\\angle B = \\angle C$"},
-            {"hi": "$\\angle A = \\angle C$", "en": "$\\angle A = \\angle C$"},
-            {"hi": "सभी बराबर", "en": "All equal"}
+            {"hi": "(\\frac{m_1x_2 + m_2x_1}{m_1 + m_2}, \\frac{m_1y_2 + m_2y_1}{m_1 + m_2})", "en": "(\\frac{m_1x_2 + m_2x_1}{m_1 + m_2}, \\frac{m_1y_2 + m_2y_1}{m_1 + m_2})"},
+            {"hi": "(\\frac{m_1x_1 + m_2x_2}{m_1 + m_2}, \\frac{m_1y_1 + m_2y_2}{m_1 + m_2})", "en": "(\\frac{m_1x_1 + m_2x_2}{m_1 + m_2}, \\frac{m_1y_1 + m_2y_2}{m_1 + m_2})"},
+            {"hi": "(\\frac{m_1x_2 - m_2x_1}{m_1 - m_2}, \\frac{m_1y_2 - m_2y_1}{m_1 - m_2})", "en": "(\\frac{m_1x_2 - m_2x_1}{m_1 - m_2}, \\frac{m_1y_2 - m_2y_1}{m_1 - m_2})"},
+            {"hi": "(\\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2})", "en": "(\\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2})"}
           ],
-          "answer": {"hi": "$\\angle B = \\angle C$", "en": "$\\angle B = \\angle C$"}
+          "answer": {"hi": "(\\frac{m_1x_2 + m_2x_1}{m_1 + m_2}, \\frac{m_1y_2 + m_2y_1}{m_1 + m_2})", "en": "(\\frac{m_1x_2 + m_2x_1}{m_1 + m_2}, \\frac{m_1y_2 + m_2y_1}{m_1 + m_2})"}
         },
         {
           "q": {
-            "hi": "समकोण त्रिभुज में सबसे लंबी भुजा कौन सी होती है?",
-            "en": "Which is the longest side in a right-angled triangle?"
+            "hi": "बिंदुओं $P(x_1, y_1)$ and $Q(x_2, y_2)$ को जोड़ने वाले रेखाखंड $PQ$ के मध्य बिंदु (mid-point) के निर्देशांक ज्ञात करने का सूत्र क्या है?",
+            "en": "What is the formula to find the coordinates of the mid-point of the line segment $PQ$ joining the points $P(x_1, y_1)$ and $Q(x_2, y_2)$?"
           },
           "options": [
-            {"hi": "लंब", "en": "Perpendicular"},
-            {"hi": "आधार", "en": "Base"},
-            {"hi": "कर्ण", "en": "Hypotenuse"},
-            {"hi": "माध्यिका", "en": "Median"}
+            {"hi": "(\\frac{x_1 - x_2}{2}, \\frac{y_1 - y_2}{2})", "en": "(\\frac{x_1 - x_2}{2}, \\frac{y_1 - y_2}{2})"},
+            {"hi": "(\\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2})", "en": "(\\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2})"},
+            {"hi": "(x_1 + x_2, y_1 + y_2)", "en": "(x_1 + x_2, y_1 + y_2)"},
+            {"hi": "(\\frac{x_1x_2}{2}, \\frac{y_1y_2}{2})", "en": "(\\frac{x_1x_2}{2}, \\frac{y_1y_2}{2})"}
           ],
-          "answer": {"hi": "कर्ण", "en": "Hypotenuse"}
+          "answer": {"hi": "(\\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2})", "en": "(\\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2})"}
         },
         {
           "q": {
-            "hi": "एक त्रिभुज जिसकी तीनों भुजाएँ असमान हों, क्या कहलाता है?",
-            "en": "A triangle with all three sides unequal is called?"
+            "hi": "यदि विभाजन सूत्र में बिंदु रेखाखंड को $1 : 1$ के अनुपात में विभाजित करता है, तो वह बिंदु रेखाखंड का क्या कहलाता है?",
+            "en": "If in the section formula, the point divides the line segment in the ratio $1 : 1$, then what is that point called relative to the line segment?"
           },
           "options": [
-            {"hi": "समबाहु", "en": "Equilateral"},
-            {"hi": "समद्विबाहु", "en": "Isosceles"},
-            {"hi": "विषमबाहु", "en": "Scalene"},
-            {"hi": "समकोण", "en": "Right-angled"}
+            {"hi": "शीर्ष", "en": "Vertex"},
+            {"hi": "मध्य बिंदु (Mid-point)", "en": "Mid-point"},
+            {"hi": "बाह्य बिंदु", "en": "External point"},
+            {"hi": "केंद्रक", "en": "Centroid"}
           ],
-          "answer": {"hi": "विषमबाहु", "en": "Scalene"}
+          "answer": {"hi": "मध्य बिंदु (Mid-point)", "en": "Mid-point"}
         },
         {
           "q": {
-            "hi": "सर्वांगसमता का अर्थ 'सर्व-अंग-समान' है। क्या यह सत्य है?",
-            "en": "Congruence means 'all parts equal'. Is this true?"
+            "hi": "उस बिंदु के निर्देशांक ज्ञात कीजिए जो बिंदुओं $(-1, 7)$ और $(4, -3)$ को मिलाने वाले रेखाखंड को $2 : 3$ के अनुपात में विभाजित करता है।",
+            "en": "Find the coordinates of the point which divides the line segment joining the points $(-1, 7)$ and $(4, -3)$ in the ratio $2 : 3$."
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल भुजाओं के लिए", "en": "Only for sides"},
-            {"hi": "केवल कोणों के लिए", "en": "Only for angles"}
+            {"hi": "(1, 3)", "en": "(1, 3)"},
+            {"hi": "(3, 1)", "en": "(3, 1)"},
+            {"hi": "(2, 5)", "en": "(2, 5)"},
+            {"hi": "(-1, 4)", "en": "(-1, 4)"}
           ],
-          "answer": {"hi": "हाँ", "en": "Yes"}
+          "answer": {"hi": "(1, 3)", "en": "(1, 3)"}
         },
         {
           "q": {
-            "hi": "एक त्रिभुज के शीर्ष को सम्मुख भुजा के मध्य-बिंदु से जोड़ने वाली रेखा क्या कहलाती है?",
-            "en": "What is the line joining the vertex of a triangle to the midpoint of the opposite side called?"
+            "hi": "बिंदुओं $(4, -1)$ और $(-2, -3)$ को मिलाने वाले रेखाखंड को सम-त्रिभाजित (trisections) करने वाले बिंदुओं में से पहले बिंदु के निर्देशांक क्या होंगे?",
+            "en": "What will be the coordinates of the first point among the points that trisect the line segment joining $(4, -1)$ and $(-2, -3)$?"
           },
           "options": [
-            {"hi": "शीर्षलंब", "en": "Altitude"},
-            {"hi": "माध्यिका", "en": "Median"},
-            {"hi": "कोण समद्विभाजक", "en": "Angle bisector"},
-            {"hi": "लंब", "en": "Perpendicular"}
+            {"hi": "(2, -5/3)", "en": "(2, -5/3)"},
+            {"hi": "(0, -7/3)", "en": "(0, -7/3)"},
+            {"hi": "(1, -2)", "en": "(1, -2)"},
+            {"hi": "(2, 2)", "en": "(2, 2)"}
           ],
-          "answer": {"hi": "माध्यिका", "en": "Median"}
+          "answer": {"hi": "(2, -5/3)", "en": "(2, -5/3)"}
         },
         {
           "q": {
-            "hi": "त्रिभुज के तीनों कोणों का योग कितना होता है?",
-            "en": "What is the sum of the three angles of a triangle?"
+            "hi": "बिंदुओं $(4, -1)$ और $(-2, -3)$ को मिलाने वाले रेखाखंड को सम-त्रिभाजित करने वाले दूसरे बिंदु (जो $2 : 1$ में बांटता है) के निर्देशांक क्या होंगे?",
+            "en": "What will be the coordinates of the second point (which divides in $2 : 1$) trisecting the line segment joining $(4, -1)$ and $(-2, -3)$?"
           },
           "options": [
-            {"hi": "90°", "en": "90°"},
-            {"hi": "180°", "en": "180°"},
-            {"hi": "360°", "en": "360°"},
-            {"hi": "270°", "en": "270°"}
+            {"hi": "(2, -5/3)", "en": "(2, -5/3)"},
+            {"hi": "(0, -7/3)", "en": "(0, -7/3)"},
+            {"hi": "(-1, -2)", "en": "(-1, -2)"},
+            {"hi": "(0, 0)", "en": "(0, 0)"}
           ],
-          "answer": {"hi": "180°", "en": "180°"}
+          "answer": {"hi": "(0, -7/3)", "en": "(0, -7/3)"}
         },
         {
           "q": {
-            "hi": "समद्विबाहु त्रिभुज में बराबर भुजाओं के बीच का कोण क्या कहलाता है?",
-            "en": "What is the angle between the equal sides of an isosceles triangle called?"
+            "hi": "बिंदुओं $(-3, 10)$ और $(6, -8)$ को जोड़ने वाले रेखाखंड को बिंदु $(-1, 6)$ किस अनुपात में विभाजित करता है?",
+            "en": "In what ratio does the point $(-1, 6)$ divide the line segment joining the points $(-3, 10)$ and $(6, -8)$?"
           },
           "options": [
-            {"hi": "आधार कोण", "en": "Base angle"},
-            {"hi": "शीर्ष कोण", "en": "Vertex angle"},
-            {"hi": "समकोण", "en": "Right angle"},
-            {"hi": "बाह्य कोण", "en": "Exterior angle"}
+            {"hi": "2 : 7", "en": "2 : 7"},
+            {"hi": "7 : 2", "en": "7 : 2"},
+            {"hi": "3 : 4", "en": "3 : 4"},
+            {"hi": "1 : 2", "en": "1 : 2"}
           ],
-          "answer": {"hi": "शीर्ष कोण", "en": "Vertex angle"}
+          "answer": {"hi": "2 : 7", "en": "2 : 7"}
         },
         {
           "q": {
-            "hi": "यदि $\\Delta PQR \\cong \\Delta XYZ$ है, तो $\\angle Q$ किसके बराबर होगा?",
-            "en": "If $\\Delta PQR \\cong \\Delta XYZ$, which angle will $\\angle Q$ be equal to?"
+            "hi": "वह अनुपात ज्ञात कीजिए जिसमें बिंदुओं $A(1, -5)$ और $B(-4, 5)$ को मिलाने वाला रेखाखंड x-अक्ष से विभाजित होता है।",
+            "en": "Find the ratio in which the line segment joining the points $A(1, -5)$ and $B(-4, 5)$ is divided by the x-axis."
           },
           "options": [
-            {"hi": "$\\angle X$", "en": "$\\angle X$"},
-            {"hi": "$\\angle Y$", "en": "$\\angle Y$"},
-            {"hi": "$\\angle Z$", "en": "$\\angle Z$"},
-            {"hi": "$\\angle P$", "en": "$\\angle P$"}
+            {"hi": "1 : 2", "en": "1 : 2"},
+            {"hi": "2 : 1", "en": "2 : 1"},
+            {"hi": "1 : 1 (मध्य बिंदु)", "en": "1 : 1 (mid-point)"},
+            {"hi": "3 : 2", "en": "3 : 2"}
           ],
-          "answer": {"hi": "$\\angle Y$", "en": "$\\angle Y$"}
+          "answer": {"hi": "1 : 1 (मध्य बिंदु)", "en": "1 : 1 (mid-point)"}
         },
         {
           "q": {
-            "hi": "त्रिभुज की दो भुजाओं का अंतर तीसरी भुजा से कैसा होता है?",
-            "en": "The difference between two sides of a triangle is how much compared to the third side?"
+            "hi": "बिंदुओं $A(1, -5)$ और $B(-4, 5)$ को मिलाने वाले रेखाखंड के x-अक्ष पर स्थित प्रतिच्छेद बिंदु के निर्देशांक क्या होंगे?",
+            "en": "What will be the coordinates of the intersection point lying on the x-axis for the line segment joining $A(1, -5)$ and $B(-4, 5)$?"
           },
           "options": [
-            {"hi": "बड़ा", "en": "Greater"},
-            {"hi": "छोटा", "en": "Smaller"},
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "दुगुना", "en": "Double"}
+            {"hi": "(-3/2, 0)", "en": "(-3/2, 0)"},
+            {"hi": "(0, -3/2)", "en": "(0, -3/2)"},
+            {"hi": "(-2, 0)", "en": "(-2, 0)"},
+            {"hi": "(1, 0)", "en": "(1, 0)"}
           ],
-          "answer": {"hi": "छोटा", "en": "Smaller"}
+          "answer": {"hi": "(-3/2, 0)", "en": "(-3/2, 0)"}
         },
         {
           "q": {
-            "hi": "न्यूनकोण त्रिभुज का प्रत्येक कोण कैसा होता है?",
-            "en": "How is each angle of an acute-angled triangle?"
+            "hi": "यदि बिंदु $(1, 2)$, $(4, y)$, $(x, 6)$ और $(3, 5)$ इसी क्रम में एक समांतर चतुर्भुज के शीर्ष हों, तो x और y का मान ज्ञात करने के लिए हम किस गुण का उपयोग करते हैं?",
+            "en": "If the points $(1, 2)$, $(4, y)$, $(x, 6)$, and $(3, 5)$ are the vertices of a parallelogram taken in order, which property do we use to find the values of x and y?"
           },
           "options": [
-            {"hi": "90° से कम", "en": "Less than 90°"},
-            {"hi": "90° के बराबर", "en": "Equal to 90°"},
-            {"hi": "90° से अधिक", "en": "Greater than 90°"},
-            {"hi": "180°"}
+            {"hi": "भुजाओं की दूरियाँ बराबर होती हैं", "en": "The distances of sides are equal"},
+            {"hi": "समांतर चतुर्भुज के विकर्ण परस्पर समद्विभाजित (bisect) करते हैं", "en": "The diagonals of a parallelogram bisect each other"},
+            {"hi": "सम्मुख कोण बराबर होते हैं", "en": "Opposite angles are equal"},
+            {"hi": "क्षेत्रफल शून्य होता है", "en": "The area is zero"}
           ],
-          "answer": {"hi": "90° से कम", "en": "Less than 90°"}
+          "answer": {"hi": "समांतर चतुर्भुज के विकर्ण परस्पर समद्विभाजित (bisect) करते हैं", "en": "समांतर चतुर्भुज के विकर्ण परस्पर समद्विभाजित (bisect) करते हैं"}
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "त्रिभुज के किसी शीर्ष से सम्मुख भुजा पर डाला गया लंब क्या कहलाता है?",
-            "en": "What is the perpendicular drawn from a vertex to the opposite side of a triangle called?"
+            "hi": "यदि बिंदुओं $(1, 2)$, $(4, y)$, $(x, 6)$ और $(3, 5)$ एक समांतर चतुर्भुज के शीर्ष क्रम में हैं, तो मध्य बिंदु के सिद्धांत से x और y के मान क्रमशः क्या प्राप्त होंगे?",
+            "en": "If the points $(1, 2)$, $(4, y)$, $(x, 6)$, and $(3, 5)$ are the vertices of a parallelogram in order, what will be the values of x and y respectively by the mid-point principle?"
           },
           "options": [
-            {"hi": "माध्यिका", "en": "Median"},
-            {"hi": "शीर्षलंब", "en": "Altitude"},
-            {"hi": "कर्ण", "en": "Hypotenuse"},
-            {"hi": "आधार", "en": "Base"}
+            {"hi": "6 और 3", "en": "6 and 3"},
+            {"hi": "3 और 6", "en": "3 and 6"},
+            {"hi": "5 und 2", "en": "5 and 2"},
+            {"hi": "4 और 4", "en": "4 and 4"}
           ],
-          "answer": {"hi": "शीर्षलंब", "en": "Altitude"}
+          "answer": {"hi": "6 और 3", "en": "6 and 3"}
         },
         {
           "q": {
-            "hi": "क्या AAA (कोण-कोण-कोण) सर्वांगसमता का एक नियम है?",
-            "en": "Is AAA (Angle-Angle-Angle) a rule of congruence?"
+            "hi": "बिंदु $A$ के निर्देशांक ज्ञात कीजिए, जहाँ $AB$ एक वृत्त का व्यास (diameter) है जिसका केंद्र $(2, -3)$ है तथा $B$ के निर्देशांक $(1, 4)$ हैं।",
+            "en": "Find the coordinates of point $A$, where $AB$ is the diameter of a circle whose center is $(2, -3)$ and the coordinates of $B$ are $(1, 4)$."
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "समबाहु त्रिभुज के लिए", "en": "For equilateral triangles"},
-            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"}
+            {"hi": "(3, -10)", "en": "(3, -10)"},
+            {"hi": "(-3, 10)", "en": "(-3, 10)"},
+            {"hi": "(3, 10)", "en": "(3, 10)"},
+            {"hi": "(1, -7)", "en": "(1, -7)"}
           ],
-          "answer": {"hi": "नहीं", "en": "No"}
+          "answer": {"hi": "(3, -10)", "en": "(3, -10)"}
         },
         {
           "q": {
-            "hi": "यदि दो भुजाएँ $5\\,cm$ और $7\\,cm$ हैं, तो तीसरी भुजा की न्यूनतम लंबाई क्या होनी चाहिए (पूर्णांक में)?",
-            "en": "If two sides are $5\\,cm$ and $7\\,cm$, what should be the minimum length of the third side (in integers)?"
+            "hi": "यदि $A$ और $B$ क्रमशः $(-2, -2)$ और $(2, -4)$ हों, तो बिंदु $P$ के निर्देशांक ज्ञात कीजिए ताकि $AP = 3/7 AB$ हो और $P$ रेखाखंड $AB$ पर स्थित हो।",
+            "en": "If $A$ and $B$ are $(-2, -2)$ and $(2, -4)$ respectively, find the coordinates of point $P$ such that $AP = 3/7 AB$ and $P$ lies on the line segment $AB$."
           },
           "options": [
-            {"hi": "1 cm", "en": "1 cm"},
-            {"hi": "2 cm", "en": "2 cm"},
-            {"hi": "3 cm", "en": "3 cm"},
-            {"hi": "12 cm", "en": "12 cm"}
+            {"hi": "(-2/7, -20/7)", "en": "(-2/7, -20/7)"},
+            {"hi": "(2/7, 20/7)", "en": "(2/7, 20/7)"},
+            {"hi": "(-2/7, 20/7)", "en": "(-2/7, 20/7)"},
+            {"hi": "(0, -3)", "en": "(0, -3)"}
           ],
-          "answer": {"hi": "3 cm", "en": "3 cm"}
+          "answer": {"hi": "(-2/7, -20/7)", "en": "(-2/7, -20/7)"}
         },
         {
           "q": {
-            "hi": "SAS नियम में 'A' कहाँ स्थित होना चाहिए?",
-            "en": "Where should 'A' be located in SAS rule?"
+            "hi": "बिंदुओं $A(-2, 2)$ और $B(2, 8)$ को जोड़ने वाले रेखाखंड $AB$ को चार बराबर भागों में विभाजित करने वाले मध्य बिंदु के निर्देशांक क्या होंगे?",
+            "en": "What will be the coordinates of the exact mid-point dividing the line segment $AB$ joining $A(-2, 2)$ and $B(2, 8)$ into four equal parts?"
           },
           "options": [
-            {"hi": "बाहर", "en": "Outside"},
-            {"hi": "दो भुजाओं के बीच (अंतर्गत)", "en": "Between two sides (included)"},
-            {"hi": "कहीं भी", "en": "Anywhere"},
-            {"hi": "शीर्ष पर", "en": "At vertex"}
+            {"hi": "(0, 5)", "en": "(0, 5)"},
+            {"hi": "(-1, 7/2)", "en": "(-1, 7/2)"},
+            {"hi": "(1, 13/2)", "en": "(1, 13/2)"},
+            {"hi": "(0, 0)", "en": "(0, 0)"}
           ],
-          "answer": {"hi": "दो भुजाओं के बीच (अंतर्गत)", "en": "Between two sides (included)"}
+          "answer": {"hi": "(0, 5)", "en": "(0, 5)"}
         },
         {
           "q": {
-            "hi": "किसी त्रिभुज का बाह्य कोण उसके अंतः अभिमुख कोणों के योग के बराबर होता है। क्या यह सत्य है?",
-            "en": "An exterior angle of a triangle is equal to the sum of its interior opposite angles. Is this true?"
+            "hi": "एक समचतुर्भुज (rhombus) का क्षेत्रफल ज्ञात करने का सूत्र क्या होता है, यदि उसके विकर्ण $d_1$ और $d_2$ ज्ञात हों?",
+            "en": "What is the formula to find the area of a rhombus if its diagonals $d_1$ and $d_2$ are known?"
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल समकोण त्रिभुज में", "en": "Only in right triangles"},
-            {"hi": "केवल समबाहु त्रिभुज में", "en": "Only in equilateral triangles"}
+            {"hi": "d_1 \\times d_2", "en": "d_1 \\times d_2"},
+            {"hi": "1/2 \\times d_1 \\times d_2 (विकर्णों का आधा गुणनफल)", "en": "1/2 \\times d_1 \\times d_2 (half the product of diagonals)"},
+            {"hi": "2 \\times (d_1 + d_2)", "en": "2 \\times (d_1 + d_2)"},
+            {"hi": "\\sqrt{d_1^2 + d_2^2}", "en": "\\sqrt{d_1^2 + d_2^2}"}
           ],
-          "answer": {"hi": "हाँ", "en": "Yes"}
+          "answer": {"hi": "1/2 \\times d_1 \\times d_2 (विकर्णों का आधा गुणनफल)", "en": "1/2 \\times d_1 \\times d_2 (half the product of diagonals)"}
         },
         {
           "q": {
-            "hi": "समबाहु त्रिभुज की तीनों माध्यिकाएँ कैसी होती हैं?",
-            "en": "How are the three medians of an equilateral triangle?"
+            "hi": "एक समचतुर्भुज का क्षेत्रफल ज्ञात कीजिए जिसके शीर्ष, इसी क्रम में $(3, 0)$, $(4, 5)$, $(-1, 4)$ और $(-2, -1)$ हैं।",
+            "en": "Find the area of a rhombus whose vertices, taken in order, are $(3, 0)$, $(4, 5)$, $(-1, 4)$, and $(-2, -1)$."
           },
           "options": [
-            {"hi": "असमान", "en": "Unequal"},
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "शून्य", "en": "Zero"},
-            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"}
+            {"hi": "24 वर्ग मात्रक", "en": "24 sq units"},
+            {"hi": "48 वर्ग मात्रक", "en": "48 sq units"},
+            {"hi": "12 वर्ग मात्रक", "en": "12 sq units"},
+            {"hi": "36 वर्ग मात्रक", "en": "36 sq units"}
           ],
-          "answer": {"hi": "बराबर", "en": "Equal"}
+          "answer": {"hi": "24 वर्ग मात्रक", "en": "24 sq units"}
         },
         {
           "q": {
-            "hi": "एक त्रिभुज में अधिक से अधिक कितने समकोण हो सकते हैं?",
-            "en": "How many right angles can a triangle have at most?"
+            "hi": "तीन बिंदुओं $(x_1, y_1)$, $(x_2, y_2)$ और $(x_3, y_3)$ से बनने वाले त्रिभुज का क्षेत्रफल ज्ञात करने का सही संख्यात्मक सूत्र क्या है?",
+            "en": "What is the correct numerical formula to find the area of a triangle formed by three points $(x_1, y_1)$, $(x_2, y_2)$, and $(x_3, y_3)$?"
           },
           "options": [
-            {"hi": "एक", "en": "One"},
-            {"hi": "दो", "en": "Two"},
-            {"hi": "तीन", "en": "Three"},
-            {"hi": "शून्य", "en": "Zero"}
+            {"hi": "1/2 [x_1(y_2 - y_3) + x_2(y_3 - y_1) + x_3(y_1 - y_2)]", "en": "1/2 [x_1(y_2 - y_3) + x_2(y_3 - y_1) + x_3(y_1 - y_2)]"},
+            {"hi": "1/2 [x_1(y_1 - y_2) + x_2(y_2 - y_3) + x_3(y_3 - y_1)]", "en": "1/2 [x_1(y_1 - y_2) + x_2(y_2 - y_3) + x_3(y_3 - y_1)]"},
+            {"hi": "[x_1(y_2 - y_3) + x_2(y_3 - y_1) + x_3(y_1 - y_2)]", "en": "[x_1(y_2 - y_3) + x_2(y_3 - y_1) + x_3(y_1 - y_2)]"},
+            {"hi": "1/2 [x_1x_2(y_3 - y_1) + y_1y_2(x_3 - x_1)]", "en": "1/2 [x_1x_2(y_3 - y_1) + y_1y_2(x_3 - x_1)]"}
           ],
-          "answer": {"hi": "एक", "en": "One"}
+          "answer": {"hi": "1/2 [x_1(y_2 - y_3) + x_2(y_3 - y_1) + x_3(y_1 - y_2)]", "en": "1/2 [x_1(y_2 - y_3) + x_2(y_3 - y_1) + x_3(y_1 - y_2)]"}
         },
         {
           "q": {
-            "hi": "एक त्रिभुज में अधिक से अधिक कितने अधिक कोण (Obtuse angle) हो सकते हैं?",
-            "en": "How many obtuse angles can a triangle have at most?"
+            "hi": "यदि तीन बिंदुओं से बनने वाले त्रिभुज का क्षेत्रफल शून्य ($0$) प्राप्त होता है, तो उन तीनों बिंदुओं के बारे में क्या निष्कर्ष निकलता है?",
+            "en": "If the area of the triangle formed by three points is obtained as zero ($0$), what conclusion is drawn about those three points?"
           },
           "options": [
-            {"hi": "शून्य", "en": "Zero"},
-            {"hi": "एक", "en": "One"},
-            {"hi": "दो", "en": "Two"},
-            {"hi": "तीन", "en": "Three"}
+            {"hi": "वे एक समकोण त्रिभुज बनाते हैं", "en": "They form a right triangle"},
+            {"hi": "वे बिंदु संरेखी (collinear) हैं", "en": "The points are collinear"},
+            {"hi": "वे बिंदु मूल बिंदु पर स्थित हैं", "en": "The points lie on the origin"},
+            {"hi": "वे वर्ग के शीर्ष हैं", "en": "They are vertices of a square"}
           ],
-          "answer": {"hi": "एक", "en": "One"}
+          "answer": {"hi": "वे बिंदु संरेखी (collinear) हैं", "en": "वे बिंदु संरेखी (collinear) हैं"}
         },
         {
           "q": {
-            "hi": "यदि किसी त्रिभुज की एक भुजा को बढ़ाया जाए, तो बाह्य कोण अपने आसन्न अंतः कोण से कैसा होगा?",
-            "en": "If a side of a triangle is produced, how will the exterior angle be compared to its adjacent interior angle?"
+            "hi": "उस त्रिभुज का क्षेत्रफल ज्ञात कीजिए जिसके शीर्ष $(2, 3)$, $(-1, 0)$ और $(2, -4)$ हैं।",
+            "en": "Find the area of the triangle whose vertices are $(2, 3)$, $(-1, 0)$, and $(2, -4)$."
           },
           "options": [
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "छोटा", "en": "Smaller"},
-            {"hi": "बड़ा", "en": "Larger"},
-            {"hi": "संपूरक", "en": "Supplementary"}
+            {"hi": "10.5 वर्ग मात्रक", "en": "10.5 sq units"},
+            {"hi": "21 वर्ग मात्रक", "en": "21 sq units"},
+            {"hi": "11.5 वर्ग मात्रक", "en": "11.5 sq units"},
+            {"hi": "5 वर्ग मात्रक", "en": "5 sq units"}
           ],
-          "answer": {"hi": "संपूरक", "en": "Supplementary"}
+          "answer": {"hi": "10.5 वर्ग मात्रक", "en": "10.5 sq units"}
         },
         {
           "q": {
-            "hi": "RHS नियम में 'R' का अर्थ क्या है?",
-            "en": "What does 'R' mean in RHS rule?"
+            "hi": "शीर्षों $(-5, -1)$, $(3, -5)$ और $(5, 2)$ वाले त्रिभुज का क्षेत्रफल क्या होगा?",
+            "en": "What will be the area of the triangle with vertices $(-5, -1)$, $(3, -5)$, and $(5, 2)$?"
           },
           "options": [
-            {"hi": "Radius (त्रिज्या)", "en": "Radius"},
-            {"hi": "Ratio (अनुपात)", "en": "Ratio"},
-            {"hi": "Right angle (समकोण)", "en": "Right angle"},
-            {"hi": "Rectangle (आयत)", "en": "Rectangle"}
+            {"hi": "32 वर्ग मात्रक", "en": "32 sq units"},
+            {"hi": "64 वर्ग मात्रक", "en": "64 sq units"},
+            {"hi": "16 वर्ग मात्रक", "en": "16 sq units"},
+            {"hi": "30 वर्ग मात्रक", "en": "30 sq units"}
           ],
-          "answer": {"hi": "Right angle (समकोण)", "en": "Right angle"}
+          "answer": {"hi": "32 वर्ग मात्रक", "en": "32 sq units"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "दो सर्वांगसम त्रिभुजों के क्षेत्रफलों के बारे में क्या कहा जा सकता है?",
-            "en": "What can be said about the areas of two congruent triangles?"
+            "hi": "के (k) का मान ज्ञात कीजिए ताकि तीनों बिंदु $(7, -2)$, $(5, 1)$ और $(3, k)$ संरेखी हों।",
+            "en": "Find the value of k so that the three points $(7, -2)$, $(5, 1)$, and $(3, k)$ are collinear."
           },
           "options": [
-            {"hi": "वे अलग-अलग होंगे", "en": "They will be different"},
-            {"hi": "वे बराबर होंगे", "en": "They will be equal"},
-            {"hi": "एक का आधा होगा", "en": "One will be half"},
-            {"hi": "शून्य होगा", "en": "Will be zero"}
+            {"hi": "3", "en": "3"},
+            {"hi": "4", "en": "4"},
+            {"hi": "2", "en": "2"},
+            {"hi": "0", "en": "0"}
           ],
-          "answer": {"hi": "वे बराबर होंगे", "en": "They will be equal"}
+          "answer": {"hi": "4", "en": "4"}
         },
         {
           "q": {
-            "hi": "किसी बिंदु से एक रेखा पर खींचे गए सभी रेखाखंडों में सबसे छोटा कौन सा होता है?",
-            "en": "Of all the line segments drawn from a point to a line, which is the shortest?"
+            "hi": "यदि बिंदु $A(8, 1)$, $B(k, -4)$ और $C(2, -5)$ संरेखी हैं, तो k का मान क्या होगा?",
+            "en": "If the points $A(8, 1)$, $B(k, -4)$, and $C(2, -5)$ are collinear, what will be the value of k?"
           },
           "options": [
-            {"hi": "तिरछा रेखाखंड", "en": "Oblique segment"},
-            {"hi": "लंबवत रेखाखंड", "en": "Perpendicular segment"},
-            {"hi": "समांतर रेखाखंड", "en": "Parallel segment"},
-            {"hi": "कोई नहीं", "en": "None"}
+            {"hi": "1", "en": "1"},
+            {"hi": "3", "en": "3"},
+            {"hi": "5", "en": "5"},
+            {"hi": "2", "en": "2"}
           ],
-          "answer": {"hi": "लंबवत रेखाखंड", "en": "Perpendicular segment"}
+          "answer": {"hi": "3", "en": "3"}
         },
         {
           "q": {
-            "hi": "क्या एक त्रिभुज की भुजाएँ $3\\,cm, 4\\,cm$ और $8\\,cm$ हो सकती हैं?",
-            "en": "Can the sides of a triangle be $3\\,cm, 4\\,cm$, and $8\\,cm$?"
+            "hi": "शीर्षों $(0, -1)$, $(2, 1)$ और $(0, 3)$ वाले त्रिभुज की भुजाओं के मध्य बिंदुओं से बनने वाले त्रिभुज का क्षेत्रफल क्या होगा?",
+            "en": "What will be the area of the triangle formed by joining the mid-points of the sides of the triangle with vertices $(0, -1)$, $(2, 1)$, and $(0, 3)$?"
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"},
-            {"hi": "केवल समकोण त्रिभुज में", "en": "Only in right triangles"}
+            {"hi": "1 वर्ग मात्रक", "en": "1 sq unit"},
+            {"hi": "4 वर्ग मात्रक", "en": "4 sq units"},
+            {"hi": "2 वर्ग मात्रक", "en": "2 sq units"},
+            {"hi": "0.5 वर्ग मात्रक", "en": "0.5 sq unit"}
           ],
-          "answer": {"hi": "नहीं", "en": "No"}
+          "answer": {"hi": "1 वर्ग मात्रक", "en": "1 sq unit"}
         },
         {
           "q": {
-            "hi": "यदि किसी त्रिभुज की तीनों भुजाएँ बराबर हों, तो वह कैसा त्रिभुज होगा?",
-            "en": "If all three sides of a triangle are equal, what kind of triangle will it be?"
+            "hi": "दिए गए त्रिभुज की भुजाओं के मध्य बिंदुओं से बने त्रिभुज का क्षेत्रफल और मूल त्रिभुज के क्षेत्रफल का अनुपात क्या होता है?",
+            "en": "What is the ratio of the area of the triangle formed by joining the mid-points of the sides of a given triangle to the area of the original triangle?"
           },
           "options": [
-            {"hi": "विषमबाहु", "en": "Scalene"},
-            {"hi": "समद्विबाहु", "en": "Isosceles"},
-            {"hi": "समबाहु", "en": "Equilateral"},
-            {"hi": "समकोण", "en": "Right-angled"}
+            {"hi": "1 : 2", "en": "1 : 2"},
+            {"hi": "1 : 4", "en": "1 : 4"},
+            {"hi": "4 : 1", "en": "4 : 1"},
+            {"hi": "1 : 3", "en": "1 : 3"}
           ],
-          "answer": {"hi": "समबाहु", "en": "Equilateral"}
+          "answer": {"hi": "1 : 4", "en": "1 : 4"}
         },
         {
           "q": {
-            "hi": "समद्विबाहु त्रिभुज का प्रत्येक आधार कोण कैसा होता है?",
-            "en": "How is each base angle of an isosceles triangle?"
+            "hi": "उस चतुर्भुज का क्षेत्रफल ज्ञात कीजिए जिसके शीर्ष, इसी क्रम में, $(-4, -2)$, $(-3, -5)$, $(3, -2)$ और $(2, 3)$ हैं। (संकेत: इसे दो त्रिभुजों में बांटें)",
+            "en": "Find the area of the quadrilateral whose vertices, taken in order, are $(-4, -2)$, $(-3, -5)$, $(3, -2)$, and $(2, 3)$."
           },
           "options": [
-            {"hi": "न्यूनकोण", "en": "Acute"},
-            {"hi": "अधिककोण", "en": "Obtuse"},
-            {"hi": "समकोण", "en": "Right-angled"},
-            {"hi": "शून्य", "en": "Zero"}
+            {"hi": "28 वर्ग मात्रक", "en": "28 sq units"},
+            {"hi": "56 वर्ग मात्रक", "en": "56 sq units"},
+            {"hi": "14 वर्ग मात्रक", "en": "14 sq units"},
+            {"hi": "32 वर्ग मात्रक", "en": "32 sq units"}
           ],
-          "answer": {"hi": "न्यूनकोण", "en": "Acute"}
+          "answer": {"hi": "28 वर्ग मात्रक", "en": "28 sq units"}
         },
         {
           "q": {
-            "hi": "त्रिभुज के असमिकाओं के अनुसार, किसी त्रिभुज में लंबी भुजा के सम्मुख कोण छोटा होता है।",
-            "en": "According to triangle inequalities, the angle opposite to the longer side is smaller."
+            "hi": "कक्षा IX में आपने पढ़ा है कि किसी त्रिभुज की एक माध्यिका (median) उसे बराबर क्षेत्रफलों वाले कितने त्रिभुजों में विभाजित करती है?",
+            "en": "In Class IX, you studied that a median of a triangle divides it into how many triangles of equal areas?"
           },
           "options": [
-            {"hi": "सत्य", "en": "True"},
-            {"hi": "असत्य", "en": "False"},
-            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"},
-            {"hi": "शर्तों पर निर्भर", "en": "Depends on conditions"}
+            {"hi": "तीन", "en": "Three"},
+            {"hi": "दो बराबर क्षेत्रफलों वाले त्रिभुजों में", "en": "Into two triangles of equal areas"},
+            {"hi": "चार", "en": "Four"},
+            {"hi": "विभाजित नहीं करती", "en": "Does not divide"}
           ],
-          "answer": {"hi": "असत्य", "en": "False"}
+          "answer": {"hi": "दो बराबर क्षेत्रफलों वाले त्रिभुजों में", "en": "दो बराबर क्षेत्रफलों वाले त्रिभुजों में"}
         },
         {
           "q": {
-            "hi": "सर्वांगसमता का 'ASA' नियम क्या दर्शाता है?",
-            "en": "What does the 'ASA' rule of congruence represent?"
+            "hi": "बिंदुओं $A(2, -2)$ और $B(3, 7)$ को जोड़ने वाले रेखाखंड को रेखा $2x + y - 4 = 0$ किस अनुपात में विभाजित करती है?",
+            "en": "In what ratio does the line $2x + y - 4 = 0$ divide the line segment joining the points $A(2, -2)$ and $B(3, 7)$?"
           },
           "options": [
-            {"hi": "Angle-Side-Angle", "en": "Angle-Side-Angle"},
-            {"hi": "Area-Side-Area", "en": "Area-Side-Area"},
-            {"hi": "Altitude-Side-Altitude", "en": "Altitude-Side-Altitude"},
-            {"hi": "Angle-Side-Altitude", "en": "Angle-Side-Altitude"}
+            {"hi": "2 : 9", "en": "2 : 9"},
+            {"hi": "9 : 2", "en": "9 : 2"},
+            {"hi": "3 : 7", "en": "3 : 7"},
+            {"hi": "1 : 4", "en": "1 : 4"}
           ],
-          "answer": {"hi": "Angle-Side-Angle", "en": "Angle-Side-Angle"}
+          "answer": {"hi": "2 : 9", "en": "2 : 9"}
         },
         {
           "q": {
-            "hi": "यदि $\\Delta ABC \\cong \\Delta FED$ है, तो $\\angle C$ किसके बराबर होगा?",
-            "en": "If $\\Delta ABC \\cong \\Delta FED$, which angle will $\\angle C$ be equal to?"
+            "hi": "यदि बिंदु $A(x, y)$, $B(1, 2)$ और $C(2, 1)$ से बने त्रिभुज का क्षेत्रफल का मान ज्ञात करें और वे संरेखी हों, तो कौन सा रैखिक समीकरण सत्य होगा?",
+            "en": "If the points $A(x, y)$, $B(1, 2)$, and $C(2, 1)$ are collinear, which linear equation will be true based on the area of a triangle?"
           },
           "options": [
-            {"hi": "$\\angle F$", "en": "$\\angle F$"},
-            {"hi": "$\\angle E$", "en": "$\\angle E$"},
-            {"hi": "$\\angle D$", "en": "$\\angle D$"},
-            {"hi": "$\\angle A$", "en": "$\\angle A$"}
+            {"hi": "x + y - 3 = 0", "en": "x + y - 3 = 0"},
+            {"hi": "x - y - 3 = 0", "en": "x - y - 3 = 0"},
+            {"hi": "x + y + 3 = 0", "en": "x + y + 3 = 0"},
+            {"hi": "2x + y - 3 = 0", "en": "2x + y - 3 = 0"}
           ],
-          "answer": {"hi": "$\\angle D$", "en": "$\\angle D$"}
+          "answer": {"hi": "x + y - 3 = 0", "en": "x + y - 3 = 0"}
         },
         {
           "q": {
-            "hi": "किसी त्रिभुज का बाह्य कोण हमेशा अपने किसी भी अंतः अभिमुख कोण से कैसा होता है?",
-            "en": "An exterior angle of a triangle is always how much compared to any of its interior opposite angles?"
+            "hi": "बिंदुओं $(a, 0)$, $(0, b)$ और $(1, 1)$ के संरेखी होने के लिए निम्नलिखित में से कौन सा प्रतिबंध आवश्यक है?",
+            "en": "Which of the following conditions is necessary for the points $(a, 0)$, $(0, b)$, and $(1, 1)$ to be collinear?"
           },
           "options": [
-            {"hi": "छोटा", "en": "Smaller"},
-            {"hi": "बड़ा", "en": "Larger"},
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "आधा", "en": "Half"}
+            {"hi": "1/a + 1/b = 1", "en": "1/a + 1/b = 1"},
+            {"hi": "a + b = 1", "en": "a + b = 1"},
+            {"hi": "1/a - 1/b = 1", "en": "1/a - 1/b = 1"},
+            {"hi": "ab = 1", "en": "ab = 1"}
           ],
-          "answer": {"hi": "बड़ा", "en": "Larger"}
+          "answer": {"hi": "1/a + 1/b = 1", "en": "1/a + 1/b = 1"}
         },
         {
           "q": {
-            "hi": "क्या सर्वांगसम त्रिभुज हमेशा समरूप (Similar) भी होते हैं?",
-            "en": "Are congruent triangles always similar as well?"
+            "hi": "किसी त्रिभुज के तीनों शीर्षों के निर्देशांक क्रमशः $(x_1, y_1)$, $(x_2, y_2)$ और $(x_3, y_3)$ हैं। इसके केंद्रक (centroid) के निर्देशांक ज्ञात करने का सही सूत्र क्या है?",
+            "en": "The coordinates of the three vertices of a triangle are $(x_1, y_1)$, $(x_2, y_2)$, and $(x_3, y_3)$ respectively. What is the correct formula to find the coordinates of its centroid?"
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "कभी-कभी", "en": "Sometimes"},
-            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"}
+            {"hi": "(\\frac{x_1 + x_2 + x_3}{3}, \\frac{y_1 + y_2 + y_3}{3})", "en": "(\\frac{x_1 + x_2 + x_3}{3}, \\frac{y_1 + y_2 + y_3}{3})"},
+            {"hi": "(\\frac{x_1 + x_2 + x_3}{2}, \\frac{y_1 + y_2 + y_3}{2})", "en": "(\\frac{x_1 + x_2 + x_3}{2}, \\frac{y_1 + y_2 + y_3}{2})"},
+            {"hi": "(x_1 + x_2 + x_3, y_1 + y_2 + y_3)", "en": "(x_1 + x_2 + x_3, y_1 + y_2 + y_3)"},
+            {"hi": "(\\frac{x_1x_2x_3}{3}, \\frac{y_1y_2y_3}{3})", "en": "(\\frac{x_1x_2x_3}{3}, \\frac{y_1y_2y_3}{3})"}
           ],
-          "answer": {"hi": "हाँ", "en": "Yes"}
+          "answer": {"hi": "(\\frac{x_1 + x_2 + x_3}{3}, \\frac{y_1 + y_2 + y_3}{3})", "en": "(\\frac{x_1 + x_2 + x_3}{3}, \\frac{y_1 + y_2 + y_3}{3})"}
         }
       ]
     },
