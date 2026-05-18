@@ -5300,661 +5300,661 @@
       "section1": [
         {
           "q": {
-            "hi": "एक सरल बंद आकृति द्वारा तल का घेरा हुआ भाग क्या कहलाता है?",
-            "en": "What is the part of the plane enclosed by a simple closed figure called?"
+            "hi": "प्रेक्षक की आँख से प्रेक्षक द्वारा देखी गई वस्तु के बिंदु को मिलाने वाली रेखा को क्या कहा जाता है?",
+            "en": "What is the line joining the observer's eye to the point on the object viewed by the observer called?"
           },
           "options": [
-            {"hi": "परिधि", "en": "Circumference"},
-            {"hi": "तलीय क्षेत्र", "en": "Planar region"},
-            {"hi": "आयतन", "en": "Volume"},
-            {"hi": "विकर्ण", "en": "Diagonal"}
+            {"hi": "क्षैतिज रेखा", "en": "Horizontal line"},
+            {"hi": "दृष्टि-रेखा (Line of sight)", "en": "Line of sight"},
+            {"hi": "उर्ध्वाधर रेखा", "en": "Vertical line"},
+            {"hi": "समांतर रेखा", "en": "Parallel line"}
           ],
-          "answer": {"hi": "तलीय क्षेत्र", "en": "Planar region"}
+          "answer": {"hi": "दृष्टि-रेखा (Line of sight)", "en": "Line of sight"}
         },
         {
           "q": {
-            "hi": "तलीय क्षेत्र के परिमाण या माप को उस आकृति का क्या कहा जाता है?",
-            "en": "What is the magnitude or measure of a planar region called?"
+            "hi": "देखी गई वस्तु का उन्नयन कोण (Angle of elevation) दृष्टि-रेखा और क्षैतिज रेखा से बना कोण होता है, जब वस्तु क्षैतिज स्तर से कहाँ हो?",
+            "en": "The angle of elevation of an object viewed is the angle formed by the line of sight with the horizontal line when the object is where relative to the horizontal level?"
           },
           "options": [
-            {"hi": "क्षेत्रफल", "en": "Area"},
-            {"hi": "परिमाप", "en": "Perimeter"},
-            {"hi": "लंबाई", "en": "Length"},
-            {"hi": "कोण", "en": "Angle"}
+            {"hi": "नीचे हो", "en": "Below"},
+            {"hi": "ऊपर हो (Above)", "en": "Above"},
+            {"hi": "समान स्तर पर हो", "en": "At the same level"},
+            {"hi": "पीछे हो", "en": "Behind"}
           ],
-          "answer": {"hi": "क्षेत्रफल", "en": "Area"}
+          "answer": {"hi": "ऊपर हो (Above)", "en": "Above"}
         },
         {
           "q": {
-            "hi": "दो सर्वांगसम आकृतियों के क्षेत्रफल हमेशा कैसे होते हैं?",
-            "en": "The areas of two congruent figures are always?"
+            "hi": "जब हमें क्षैतिज स्तर से ऊपर स्थित किसी वस्तु को देखना हो, तो अपने सिर को ऊपर उठाने पर जो कोण बनता है उसे क्या कहते हैं?",
+            "en": "When we have to view an object situated above the horizontal level, what is the angle formed by raising our head called?"
           },
           "options": [
-            {"hi": "असमान", "en": "Unequal"},
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "आधे", "en": "Half"},
-            {"hi": "शून्य", "en": "Zero"}
+            {"hi": "अवनमन कोण", "en": "Angle of depression"},
+            {"hi": "उन्नयन कोण (Angle of elevation)", "en": "Angle of elevation"},
+            {"hi": "समकोण", "en": "Right angle"},
+            {"hi": "ऋजुकोण", "en": "Straight angle"}
           ],
-          "answer": {"hi": "बराबर", "en": "Equal"}
+          "answer": {"hi": "उन्नयन कोण (Angle of elevation)", "en": "Angle of elevation"}
         },
         {
           "q": {
-            "hi": "यदि दो आकृतियों के क्षेत्रफल बराबर हों, तो क्या वे सदैव सर्वांगसम होंगी?",
-            "en": "If two figures have equal areas, must they always be congruent?"
+            "hi": "देखी गई वस्तु का अवनमन कोण (Angle of depression) दृष्टि-रेखा और क्षैतिज रेखा से बना कोण होता है, जब वस्तु क्षैतिज स्तर से कहाँ हो?",
+            "en": "The angle of depression of an object viewed is the angle formed by the line of sight with the horizontal line when the object is where relative to the horizontal level?"
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल त्रिभुजों के लिए", "en": "Only for triangles"},
-            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"}
+            {"hi": "ऊपर हो", "en": "Above"},
+            {"hi": "नीचे हो (Below)", "en": "Below"},
+            {"hi": "लंबवत हो", "en": "Perpendicular"},
+            {"hi": "अनंत पर हो", "en": "At infinity"}
           ],
-          "answer": {"hi": "नहीं", "en": "No"}
+          "answer": {"hi": "नीचे हो (Below)", "en": "Below"}
         },
         {
           "q": {
-            "hi": "दो आकृतियाँ एक ही आधार और एक ही समांतर रेखाओं के बीच होती हैं, यदि उनमें क्या हो?",
-            "en": "Two figures are on the same base and between the same parallels if they have a?"
+            "hi": "जब क्षैतिज स्तर से नीचे स्थित किसी वस्तु को देखना हो, तो अपने सिर को नीचे झुकाने पर क्षैतिज रेखा और दृष्टि-रेखा के बीच बने कोण को क्या कहते हैं?",
+            "en": "When viewing an object below the horizontal level, what is the angle formed between the horizontal line and the line of sight by lowering our head called?"
           },
           "options": [
-            {"hi": "उभयनिष्ठ शीर्ष", "en": "Common vertex"},
-            {"hi": "उभयनिष्ठ आधार", "en": "Common base"},
-            {"hi": "समान विकर्ण", "en": "Same diagonal"},
-            {"hi": "उभयनिष्ठ कोण", "en": "Common angle"}
+            {"hi": "उन्नयन कोण", "en": "Angle of elevation"},
+            {"hi": "अवनमन कोण (Angle of depression)", "en": "Angle of depression"},
+            {"hi": "पूरक कोण", "en": "Complementary angle"},
+            {"hi": "अधिक कोण", "en": "Obtuse angle"}
           ],
-          "answer": {"hi": "उभयनिष्ठ आधार", "en": "Common base"}
+          "answer": {"hi": "अवनमन कोण (Angle of depression)", "en": "Angle of depression"}
         },
         {
           "q": {
-            "hi": "एक ही आधार और एक ही समांतर रेखाओं के बीच स्थित समांतर चतुर्भुज क्षेत्रफल में कैसे होते हैं?",
-            "en": "Parallelograms on the same base and between the same parallels are _______ in area?"
+            "hi": "ऊँचाई और दूरी के प्रश्नों को हल करने के लिए, दृष्टि-रेखा और क्षैतिज रेखा के बीच की ज्यामितीय स्थिति को सामान्यतः किस त्रिभुज के रूप में निरूपित किया जाता है?",
+            "en": "To solve height and distance problems, the geometric situation between the line of sight and the horizontal line is generally represented as which triangle?"
           },
           "options": [
-            {"hi": "असमान", "en": "Unequal"},
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "दुगुने", "en": "Double"},
-            {"hi": "आधे", "en": "Half"}
+            {"hi": "समबाहु त्रिभुज", "en": "Equilateral triangle"},
+            {"hi": "समकोण त्रिभुज (Right-angled triangle)", "en": "Right-angled triangle"},
+            {"hi": "समद्विबाहु त्रिभुज", "en": "Isosceles triangle"},
+            {"hi": "विषमबाहु त्रिभुज", "en": "Scalene triangle"}
           ],
-          "answer": {"hi": "बराबर", "en": "Equal"}
+          "answer": {"hi": "समकोण त्रिभुज (Right-angled triangle)", "en": "Right-angled triangle"}
         },
         {
           "q": {
-            "hi": "समांतर चतुर्भुज का क्षेत्रफल किसके गुणनफल के बराबर होता है?",
-            "en": "The area of a parallelogram is the product of its?"
+            "hi": "यदि किसी मीनार की परछाई (shadow) की लंबाई मीनार की ऊँचाई के बराबर हो, तो सूर्य का उन्नयन कोण क्या होगा?",
+            "en": "If the length of the shadow of a tower is equal to the height of the tower, what will be the angle of elevation of the sun?"
           },
           "options": [
-            {"hi": "दो भुजाओं के", "en": "Two sides"},
-            {"hi": "आधार और संगत शीर्षलंब के", "en": "Base and corresponding altitude"},
-            {"hi": "विकर्णों के", "en": "Diagonals"},
-            {"hi": "आधार और परिमाप के", "en": "Base and perimeter"}
+            {"hi": "30^\\circ", "en": "30^\\circ"},
+            {"hi": "45^\\circ", "en": "45^\\circ"},
+            {"hi": "60^\\circ", "en": "60^\\circ"},
+            {"hi": "90^\\circ", "en": "90^\\circ"}
           ],
-          "answer": {"hi": "आधार और संगत शीर्षलंब के", "en": "Base and corresponding altitude"}
+          "answer": {"hi": "45^\\circ", "en": "45^\\circ"}
         },
         {
           "q": {
-            "hi": "यदि एक त्रिभुज और एक समांतर चतुर्भुज एक ही आधार और एक ही समांतर रेखाओं के बीच स्थित हों, तो त्रिभुज का क्षेत्रफल समांतर चतुर्भुज के क्षेत्रफल का कितना होता है?",
-            "en": "If a triangle and a parallelogram are on the same base and between same parallels, the area of triangle is _______ of the area of parallelogram?"
+            "hi": "एक ऊर्ध्वाधर खंभे की लंबाई और उसकी छाया की लंबाई का अनुपात 1 : \\sqrt{3} है। सूर्य का उन्नयन कोण कितना होगा?",
+            "en": "The ratio of the length of a vertical pole and its shadow is 1 : \\sqrt{3}. What will be the angle of elevation of the sun?"
           },
           "options": [
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "दुगुना", "en": "Double"},
-            {"hi": "आधा", "en": "Half"},
-            {"hi": "एक-चौथाई", "en": "One-fourth"}
+            {"hi": "30^\\circ", "en": "30^\\circ"},
+            {"hi": "45^\\circ", "en": "45^\\circ"},
+            {"hi": "60^\\circ", "en": "60^\\circ"},
+            {"hi": "15^\\circ", "en": "15^\\circ"}
           ],
-          "answer": {"hi": "आधा", "en": "Half"}
+          "answer": {"hi": "30^\\circ", "en": "30^\\circ"}
         },
         {
           "q": {
-            "hi": "एक ही आधार और एक ही समांतर रेखाओं के बीच स्थित त्रिभुज क्षेत्रफल में कैसे होते हैं?",
-            "en": "Triangles on the same base and between the same parallels are _______ in area?"
+            "hi": "19वीं शताब्दी का 'बृहत् त्रिकोणमितीय सर्वेक्षण' ब्रितानी भारत की एक विशाल परियोजना थी। इसके लिए किस विशाल कोण मापने वाले यंत्र का निर्माण किया गया था?",
+            "en": "The 'Great Trigonometrical Survey' of the 19th century was a massive project in British India. Which huge angle-measuring instrument was constructed for it?"
           },
           "options": [
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "असमान", "en": "Unequal"},
-            {"hi": "आधे", "en": "Half"},
-            {"hi": "दुगुने", "en": "Double"}
+            {"hi": "थर्मामीटर", "en": "Thermometer"},
+            {"hi": "थियोडोलाइट (Theodolite)", "en": "Theodolite"},
+            {"hi": "पेरिस्कोप", "en": "Periscope"},
+            {"hi": "बैरोमीटर", "en": "Barometer"}
           ],
-          "answer": {"hi": "बराबर", "en": "Equal"}
+          "answer": {"hi": "थियोडोलाइट (Theodolite)", "en": "Theodolite"}
         },
         {
           "q": {
-            "hi": "त्रिभुज का क्षेत्रफल उसके आधार और संगत शीर्षलंब के गुणनफल का कितना होता है?",
-            "en": "The area of a triangle is _______ the product of its base and corresponding altitude?"
+            "hi": "विश्व के सबसे ऊँचे पर्वत का नामकरण किस सर्वेक्षक के नाम पर वर्ष 1856 में सर जॉर्ज एवरेस्ट के सम्मान में किया गया था?",
+            "en": "The highest mountain in the world was named in 1856 after which surveyor in honor of Sir George Everest?"
           },
           "options": [
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "दुगुना", "en": "Double"},
-            {"hi": "आधा", "en": "Half"},
-            {"hi": "एक-तिहाई", "en": "One-third"}
+            {"hi": "माउंट के2", "en": "Mount K2"},
+            {"hi": "माउंट एवरेस्ट (Mount Everest)", "en": "Mount Everest"},
+            {"hi": "कंचनजंगा", "en": "Kangchenjunga"},
+            {"hi": "ल्होत्से", "en": "Lhotse"}
           ],
-          "answer": {"hi": "आधा", "en": "Half"}
+          "answer": {"hi": "माउंट एवरेस्ट (Mount Everest)", "en": "Mount Everest"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "एक ही आधार वाले और बराबर क्षेत्रफलों वाले त्रिभुज किनके बीच स्थित होते हैं?",
-            "en": "Triangles having the same base and equal areas lie between?"
+            "hi": "एक मीनार के पाद-बिंदु (foot) से 30 m की दूरी पर स्थित भूमि के एक बिंदु से मीनार के शिखर का उन्नयन कोण 30^\\circ है। मीनार की ऊँचाई क्या होगी?",
+            "en": "The angle of elevation of the top of a tower from a point on the ground, which is 30 m away from the foot of the tower, is 30^\\circ. What will be the height of the tower?"
           },
           "options": [
-            {"hi": "लंब रेखाओं", "en": "Perpendicular lines"},
-            {"hi": "समान रेखाओं", "en": "Same lines"},
-            {"hi": "एक ही समांतर रेखाओं", "en": "The same parallels"},
-            {"hi": "तिर्यक रेखाओं", "en": "Transversal lines"}
+            {"hi": "10\\sqrt{3} m", "en": "10\\sqrt{3} m"},
+            {"hi": "30\\sqrt{3} m", "en": "30\\sqrt{3} m"},
+            {"hi": "20 m", "en": "20 m"},
+            {"hi": "15 m", "en": "15 m"}
           ],
-          "answer": {"hi": "एक ही समांतर रेखाओं", "en": "The same parallels"}
+          "answer": {"hi": "10\\sqrt{3} m", "en": "10\\sqrt{3} m"}
         },
         {
           "q": {
-            "hi": "त्रिभुज की एक माध्यिका उसे कितने बराबर क्षेत्रफलों वाले त्रिभुजों में विभाजित करती है?",
-            "en": "A median of a triangle divides it into how many triangles of equal area?"
+            "hi": "एक सर्कस का कलाकार एक 20 m लंबी डोर पर चढ़ रहा है, जो अच्छी तरह से तनी हुई है और भूमि पर सीधे लगे खंभे के शिखर से बँधी हुई है। यदि भूमि स्तर के साथ डोर द्वारा बनाया गया कोण 30^\\circ का हो, तो खंभे की ऊँचाई क्या होगी?",
+            "en": "A circus artist is climbing a 20 m long rope, which is tightly stretched and tied from the top of a vertical pole to the ground. If the angle made by the rope with the ground level is 30^\\circ, what will be the height of the pole?"
           },
           "options": [
-            {"hi": "तीन", "en": "Three"},
-            {"hi": "दो", "en": "Two"},
-            {"hi": "चार", "en": "Four"},
-            {"hi": "छह", "en": "Six"}
+            {"hi": "20 m", "en": "20 m"},
+            {"hi": "10 m", "en": "10 m"},
+            {"hi": "10\\sqrt{3} m", "en": "10\\sqrt{3} m"},
+            {"hi": "5 m", "en": "5 m"}
           ],
-          "answer": {"hi": "दो", "en": "Two"}
+          "answer": {"hi": "10 m", "en": "10 m"}
         },
         {
           "q": {
-            "hi": "यदि $ar(ABC) = 24\\,cm^2$ है और AD माध्यिका है, तो $ar(ABD)$ क्या होगा?",
-            "en": "If $ar(ABC) = 24\\,cm^2$ and AD is the median, what is $ar(ABD)$?"
+            "hi": "भूमि के एक बिंदु से, जो मीनार के पाद-बिंदु से 15 m की दूरी पर है, मीनार के शिखर का उन्नयन कोण 60^\\circ है। मीनार की ऊँचाई ज्ञात कीजिए।",
+            "en": "From a point on the ground, which is 15 m away from the foot of the tower, the angle of elevation of the top of the tower is 60^\\circ. Find the height of the tower."
           },
           "options": [
-            {"hi": "24 cm²", "en": "24 cm²"},
-            {"hi": "48 cm²", "en": "48 cm²"},
-            {"hi": "12 cm²", "en": "12 cm²"},
-            {"hi": "6 cm²", "en": "6 cm²"}
+            {"hi": "15 m", "en": "15 m"},
+            {"hi": "15\\sqrt{3} m", "en": "15\\sqrt{3} m"},
+            {"hi": "5\\sqrt{3} m", "en": "5\\sqrt{3} m"},
+            {"hi": "30 m", "en": "30 m"}
           ],
-          "answer": {"hi": "12 cm²", "en": "12 cm²"}
+          "answer": {"hi": "15\\sqrt{3} m", "en": "15\\sqrt{3} m"}
         },
         {
           "q": {
-            "hi": "दो समांतर चतुर्भुज एक ही आधार और एक ही समांतर रेखाओं के बीच हैं। यदि एक का क्षेत्रफल $30\\,cm^2$ है, तो दूसरे का क्या होगा?",
-            "en": "Two parallelograms are on the same base and between same parallels. If area of one is $30\\,cm^2$, what is the area of the other?"
+            "hi": "एक बिजली मिस्त्री को एक 5 m ऊँचे खंभे पर आई खराबी की मरम्मत करनी है। मरम्मत का काम करने के लिए उसे खंभे के शिखर से 1.3 m नीचे एक बिंदु तक पहुँचना है। यहाँ तक पहुँचने के लिए प्रयुक्त सीढ़ी की लंबाई क्या होनी चाहिए जो क्षैतिज से 60^\\circ के कोण पर झुकने पर अपेक्षित स्थिति तक पहुँचा दे?",
+            "en": "An electrician has to repair an electric fault on a pole of height 5 m. She needs to reach a point 1.3 m below the top of the pole to undertake the repair work. What should be the length of the ladder that she should use which, when inclined at an angle of 60^\\circ to the horizontal, would enable her to reach the required position?"
           },
           "options": [
-            {"hi": "15 cm²", "en": "15 cm²"},
-            {"hi": "30 cm²", "en": "30 cm²"},
-            {"hi": "60 cm²", "en": "60 cm²"},
-            {"hi": "0 cm²", "en": "0 cm²"}
+            {"hi": "4.28 m (लगभग)", "en": "4.28 m (approx)"},
+            {"hi": "3.7 m", "en": "3.7 m"},
+            {"hi": "2.14 m", "en": "2.14 m"},
+            {"hi": "5.0 m", "en": "5.0 m"}
           ],
-          "answer": {"hi": "30 cm²", "en": "30 cm²"}
+          "answer": {"hi": "4.28 m (लगभग)", "en": "4.28 m (approx)"}
         },
         {
           "q": {
-            "hi": "समतल आकृतियों के क्षेत्रफलों के गुण के अनुसार, यदि आकृति T दो अनातिव्यापी (non-overlapping) क्षेत्रों P और Q से बनी है, तो:",
-            "en": "According to the property of areas of planar regions, if figure T is composed of two non-overlapping regions P and Q, then?"
+            "hi": "एक प्रेक्षक जिसकी लंबाई 1.5 m है, एक चिमनी से 28.5 m की दूरी पर है। उसकी आँखों से चिमनी के शिखर का उन्नयन कोण 45^\\circ है। चिमनी की कुल ऊँचाई क्या होगी?",
+            "en": "An observer 1.5 m tall is 28.5 m away from a chimney. The angle of elevation of the top of the chimney from her eyes is 45^\\circ. What will be the total height of the chimney?"
           },
           "options": [
-            {"hi": "ar(T) = ar(P) + ar(Q)", "en": "ar(T) = ar(P) + ar(Q)"},
-            {"hi": "ar(T) = ar(P) - ar(Q)", "en": "ar(T) = ar(P) - ar(Q)"},
-            {"hi": "ar(T) = ar(P) × ar(Q)", "en": "ar(T) = ar(P) × ar(Q)"},
-            {"hi": "ar(T) = ar(P) / ar(Q)", "en": "ar(T) = ar(P) / ar(Q)"}
+            {"hi": "28.5 m", "en": "28.5 m"},
+            {"hi": "30 m", "en": "30 m"},
+            {"hi": "27 m", "en": "27 m"},
+            {"hi": "31.5 m", "en": "31.5 m"}
           ],
-          "answer": {"hi": "ar(T) = ar(P) + ar(Q)", "en": "ar(T) = ar(P) + ar(Q)"}
+          "answer": {"hi": "30 m", "en": "30 m"}
         },
         {
           "q": {
-            "hi": "समांतर चतुर्भुज का क्षेत्रफल ज्ञात करने का सूत्र $b \\times h$ में 'h' क्या दर्शाता है?",
-            "en": "In the formula $b \\times h$ for the area of a parallelogram, what does 'h' represent?"
+            "hi": "भूमि के एक बिंदु P से एक 10 m ऊँचे भवन के शिखर का उन्नयन कोण 30^\\circ है। भवन के शिखर पर एक ध्वज को लहराया गया है और P से ध्वजदंड के शिखर का उन्नयन कोण 45^\\circ है। ध्वजदंड की लंबाई क्या होगी? (\\sqrt{3} = 1.732 लें)",
+            "en": "From a point P on the ground the angle of elevation of the top of a 10 m tall building is 30^\\circ. A flag is hoisted at the top of the building and the angle of elevation of the top of the flagstaff from P is 45^\\circ. Find the length of the flagstaff. (Take \\sqrt{3} = 1.732)"
           },
           "options": [
-            {"hi": "तिर्यक ऊंचाई", "en": "Slant height"},
-            {"hi": "संगत शीर्षलंब", "en": "Corresponding altitude"},
-            {"hi": "विकर्ण", "en": "Diagonal"},
-            {"hi": "अर्ध-परिमाप", "en": "Semi-perimeter"}
+            {"hi": "7.32 m", "en": "7.32 m"},
+            {"hi": "10 m", "en": "10 m"},
+            {"hi": "17.32 m", "en": "17.32 m"},
+            {"hi": "5.4 m", "en": "5.4 m"}
           ],
-          "answer": {"hi": "संगत शीर्षलंब", "en": "Corresponding altitude"}
+          "answer": {"hi": "7.32 m", "en": "7.32 m"}
         },
         {
           "q": {
-            "hi": "एक समांतर चतुर्भुज का आधार $10\\,cm$ और ऊंचाई $6\\,cm$ है। इसका क्षेत्रफल क्या होगा?",
-            "en": "The base of a parallelogram is $10\\,cm$ and height is $6\\,cm$. What is its area?"
+            "hi": "एक 1.5 m लंबा लड़का 30 m ऊँचे एक भवन से कुछ दूरी पर खड़ा है। जब वह ऊँचे भवन की ओर जाता है तब उसकी आँख से भवन के शिखर का उन्नयन कोण 30^\\circ से 60^\\circ हो जाता है। बताइए कि वह भवन की ओर कितनी दूरी तक चल कर गया है?",
+            "en": "A 1.5 m tall boy is standing at some distance from a 30 m tall building. The angle of elevation from his eyes to the top of the building increases from 30^\\circ to 60^\\circ as he walks towards the building. Find the distance he walked towards the building."
           },
           "options": [
-            {"hi": "16 cm²", "en": "16 cm²"},
-            {"hi": "60 cm²", "en": "60 cm²"},
-            {"hi": "30 cm²", "en": "30 cm²"},
-            {"hi": "100 cm²", "en": "100 cm²"}
+            {"hi": "19 m", "en": "19 m"},
+            {"hi": "19\\sqrt{3} m", "en": "19\\sqrt{3} m"},
+            {"hi": "30\\sqrt{3} m", "en": "30\\sqrt{3} m"},
+            {"hi": "28.5 m", "en": "28.5 m"}
           ],
-          "answer": {"hi": "60 cm²", "en": "60 cm²"}
+          "answer": {"hi": "19\\sqrt{3} m", "en": "19\\sqrt{3} m"}
         },
         {
           "q": {
-            "hi": "एक त्रिभुज का क्षेत्रफल $20\\,cm^2$ है। यदि इसका आधार $5\\,cm$ है, तो संगत शीर्षलंब क्या होगा?",
-            "en": "The area of a triangle is $20\\,cm^2$. If its base is $5\\,cm$, what is the corresponding altitude?"
+            "hi": "एक नदी के पुल के एक बिंदु से नदी के सम्मुख किनारों के अवनमन कोण क्रमशः 30^\\circ और 45^\\circ हैं। यदि पुल किनारों से 3 m की ऊँचाई पर हो, तो नदी की चौड़ाई क्या होगी?",
+            "en": "From a point on a bridge across a river, the angles of depression of the banks on opposite sides of the river are 30^\\circ and 45^\\circ, respectively. If the bridge is at a height of 3 m from the banks, find the width of the river."
           },
           "options": [
-            {"hi": "4 cm", "en": "4 cm"},
-            {"hi": "8 cm", "en": "8 cm"},
-            {"hi": "10 cm", "en": "10 cm"},
-            {"hi": "2 cm", "en": "2 cm"}
+            {"hi": "3(\\sqrt{3} + 1) m", "en": "3(\\sqrt{3} + 1) m"},
+            {"hi": "3\\sqrt{3} m", "en": "3\\sqrt{3} m"},
+            {"hi": "6 m", "en": "6 m"},
+            {"hi": "4.5 m", "en": "4.5 m"}
           ],
-          "answer": {"hi": "8 cm", "en": "8 cm"}
+          "answer": {"hi": "3(\\sqrt{3} + 1) m", "en": "3(\\sqrt{3} + 1) m"}
         },
         {
           "q": {
-            "hi": "आयत का क्षेत्रफल भी आधार और ऊंचाई का गुणनफल होता है क्योंकि आयत एक विशेष प्रकार का क्या है?",
-            "en": "The area of a rectangle is also base × height because a rectangle is a special type of?"
+            "hi": "भूमि के एक बिंदु से एक 20 m ऊँचे भवन के शिखर पर लगी एक संचार मीनार (transmission tower) के तल और शिखर के उन्नयन कोण क्रमशः 45^\\circ और 60^\\circ हैं। मीनार की ऊँचाई ज्ञात कीजिए।",
+            "en": "From a point on the ground, the angles of elevation of the bottom and the top of a transmission tower fixed at the top of a 20 m high building are 45^\\circ and 60^\\circ respectively. Find the height of the tower."
           },
           "options": [
-            {"hi": "समलंब", "en": "Trapezium"},
-            {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"},
-            {"hi": "त्रिभुज", "en": "Triangle"},
-            {"hi": "वृत्त", "en": "Circle"}
+            {"hi": "20 m", "en": "20 m"},
+            {"hi": "20(\\sqrt{3} - 1) m", "en": "20(\\sqrt{3} - 1) m"},
+            {"hi": "20\\sqrt{3} m", "en": "20\\sqrt{3} m"},
+            {"hi": "20(\\sqrt{3} + 1) m", "en": "20(\\sqrt{3} + 1) m"}
           ],
-          "answer": {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"}
+          "answer": {"hi": "20(\\sqrt{3} - 1) m", "en": "20(\\sqrt{3} - 1) m"}
         },
         {
           "q": {
-            "hi": "यदि दो आकृतियों P और Q का क्षेत्रफल $ar(P) = ar(Q)$ है, तो:",
-            "en": "If area of two figures P and Q is $ar(P) = ar(Q)$, then?"
+            "hi": "एक पेडेस्टल (pedestal) के शिखर पर एक 1.6 m ऊँची मूर्ति लगी है। भूमि के एक बिंदु से मूर्ति के शिखर का उन्नयन कोण 60^\\circ है और उसी बिंदु से पेडेस्टल के शिखर का उन्नयन कोण 45^\\circ है। पेडेस्टल की ऊँचाई क्या होगी?",
+            "en": "A 1.6 m tall statue stands on the top of a pedestal. From a point on the ground, the angle of elevation of the top of the statue is 60^\\circ and from the same point, the angle of elevation of the top of the pedestal is 45^\\circ. Find the height of the pedestal."
           },
           "options": [
-            {"hi": "वे सदैव सर्वांगसम होंगी", "en": "They will always be congruent"},
-            {"hi": "वे सर्वांगसम हो भी सकती हैं और नहीं भी", "en": "They may or may not be congruent"},
-            {"hi": "वे कभी सर्वांगसम नहीं होंगी", "en": "They will never be congruent"},
-            {"hi": "उनकी भुजाएं बराबर होंगी", "en": "Their sides will be equal"}
+            {"hi": "0.8(\\sqrt{3} + 1) m", "en": "0.8(\\sqrt{3} + 1) m"},
+            {"hi": "0.8(\\sqrt{3} - 1) m", "en": "0.8(\\sqrt{3} - 1) m"},
+            {"hi": "1.6 m", "en": "1.6 m"},
+            {"hi": "1.6(\\sqrt{3} + 1) m", "en": "1.6(\\sqrt{3} + 1) m"}
           ],
-          "answer": {"hi": "वे सर्वांगसम हो भी सकती हैं और नहीं भी", "en": "They may or may not be congruent"}
+          "answer": {"hi": "0.8(\\sqrt{3} + 1) m", "en": "0.8(\\sqrt{3} + 1) m"}
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "एक ही आधार और एक ही समांतर रेखाओं के बीच स्थित आकृतियों में शीर्ष कहाँ स्थित होने चाहिए?",
-            "en": "In figures on the same base and between same parallels, where should the vertices lie?"
+            "hi": "एक मीनार के पाद-बिंदु से एक भवन के शिखर का उन्नयन कोण 30^\\circ है और भवन के पाद-बिंदु से मीनार के शिखर का उन्नयन कोण 60^\\circ है। यदि मीनार 50 m ऊँची हो, तो भवन की ऊँचाई क्या होगी?",
+            "en": "The angle of elevation of the top of a building from the foot of a tower is 30^\\circ and the angle of elevation of the top of the tower from the foot of the building is 60^\\circ. If the tower is 50 m high, find the height of the building."
           },
           "options": [
-            {"hi": "आधार पर", "en": "On the base"},
-            {"hi": "आधार के समांतर रेखा पर", "en": "On a line parallel to the base"},
-            {"hi": "कहीं भी", "en": "Anywhere"},
-            {"hi": "मूलबिंदु पर", "en": "At origin"}
+            {"hi": "16\\frac{2}{3} m", "en": "16\\frac{2}{3} m"},
+            {"hi": "25 m", "en": "25 m"},
+            {"hi": "50\\sqrt{3} m", "en": "50\\sqrt{3} m"},
+            {"hi": "15 m", "en": "15 m"}
           ],
-          "answer": {"hi": "आधार के समांतर रेखा पर", "en": "On a line parallel to the base"}
+          "answer": {"hi": "16\\frac{2}{3} m", "en": "16\\frac{2}{3} m"}
         },
         {
           "q": {
-            "hi": "क्या एक समांतर चतुर्भुज और एक आयत एक ही आधार और एक ही समांतर रेखाओं के बीच होने पर बराबर क्षेत्रफल के होंगे?",
-            "en": "Will a parallelogram and a rectangle have equal area if they are on the same base and between same parallels?"
+            "hi": "एक 80 m चौड़ी सड़क के दोनों ओर आमने-सामने समान ऊँचाई वाले दो खंभे लगे हुए हैं। इन दोनों खंभों के बीच सड़क के एक बिंदु से खंभों के शिखर के उन्नयन कोण क्रमशः 60^\\circ और 30^\\circ हैं। खंभों की ऊँचाई क्या होगी?",
+            "en": "Two poles of equal heights are standing opposite each other on either side of an 80 m wide road. From a point between them on the road, the angles of elevation of the top of the poles are 60^\\circ and 30^\\circ respectively. Find the height of the poles."
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल यदि वे वर्ग हों", "en": "Only if they are squares"},
-            {"hi": "शर्तों पर निर्भर है", "en": "Depends on conditions"}
+            {"hi": "20\\sqrt{3} m", "en": "20\\sqrt{3} m"},
+            {"hi": "40 m", "en": "40 m"},
+            {"hi": "20 m", "en": "20 m"},
+            {"hi": "60 m", "en": "60 m"}
           ],
-          "answer": {"hi": "हाँ", "en": "Yes"}
+          "answer": {"hi": "20\\sqrt{3} m", "en": "20\\sqrt{3} m"}
         },
         {
           "q": {
-            "hi": "बराबर आधारों वाले और बराबर क्षेत्रफलों वाले समांतर चतुर्भुज किस प्रकार की रेखाओं के बीच स्थित होते हैं?",
-            "en": "Parallelograms with equal bases and equal areas lie between?"
+            "hi": "समान ऊँचाई वाले दो खंभों के बीच सड़क के एक बिंदु से खंभों के उन्नयन कोण 60^\\circ और 30^\\circ हैं। यदि सड़क की कुल चौड़ाई 80 m हो, तो उस बिंदु की खंभों से दूरियाँ क्रमशः क्या होंगी?",
+            "en": "The angles of elevation of the tops of two poles of equal height from a point on the road between them are 60^\\circ and 30^\\circ. If the road is 80 m wide, what are the distances of the point from the poles respectively?"
           },
           "options": [
-            {"hi": "लंब रेखाओं", "en": "Perpendicular lines"},
-            {"hi": "एक ही समांतर रेखाओं", "en": "The same parallels"},
-            {"hi": "प्रतिच्छेदी रेखाओं", "en": "Intersecting lines"},
-            {"hi": "तिरछी रेखाओं", "en": "Slant lines"}
+            {"hi": "20 m और 60 m", "en": "20 m and 60 m"},
+            {"hi": "40 m और 40 m", "en": "40 m and 40 m"},
+            {"hi": "30 m और 50 m", "en": "30 m and 50 m"},
+            {"hi": "10 m और 70 m", "en": "10 m and 70 m"}
           ],
-          "answer": {"hi": "एक ही समांतर रेखाओं", "en": "The same parallels"}
+          "answer": {"hi": "20 m और 60 m", "en": "20 m and 60 m"}
         },
         {
           "q": {
-            "hi": "समांतर चतुर्भुज का विकर्ण उसे दो बराबर क्षेत्रफल वाले त्रिभुजों में बाँटता है, क्योंकि ये त्रिभुज परस्पर क्या होते हैं?",
-            "en": "A diagonal of a parallelogram divides it into two triangles of equal area because these triangles are?"
+            "hi": "एक नहर के एक तट पर एक टीवी टावर ऊर्ध्वाधर खड़ा है। टावर के ठीक सामने दूसरे तट के एक अन्य बिंदु से टावर के शिखर का उन्नयन कोण 60^\\circ है। इसी तट पर इस बिंदु से 20 m दूर और इस बिंदु को टावर के पाद से मिलाने वाली रेखा पर स्थित एक अन्य बिंदु से टावर के शिखर का उन्नयन कोण 30^\\circ है। टावर की ऊँचाई ज्ञात कीजिए।",
+            "en": "A TV tower stands vertically on a bank of a canal. From a point on the other bank directly opposite the tower, the angle of elevation of the top of the tower is 60^\\circ. From another point 20 m away from this point on the line joining this point to the foot of the tower, the angle of elevation of the top of the tower is 30^\\circ. Find the height of the tower."
           },
           "options": [
-            {"hi": "समकोण", "en": "Right angled"},
-            {"hi": "सर्वांगसम", "en": "Congruent"},
-            {"hi": "समद्विबाहु", "en": "Isosceles"},
-            {"hi": "विषमबाहु", "en": "Scalene"}
+            {"hi": "10 m", "en": "10 m"},
+            {"hi": "10\\sqrt{3} m", "en": "10\\sqrt{3} m"},
+            {"hi": "20 m", "en": "20 m"},
+            {"hi": "20\\sqrt{3} m", "en": "20\\sqrt{3} m"}
           ],
-          "answer": {"hi": "सर्वांगसम", "en": "Congruent"}
+          "answer": {"hi": "10\\sqrt{3} m", "en": "10\\sqrt{3} m"}
         },
         {
           "q": {
-            "hi": "एक समलंब (Trapezium) का क्षेत्रफल ज्ञात करने के लिए उसे किन दो आकृतियों में बाँटा जा सकता है?",
-            "en": "To find the area of a trapezium, it can be divided into which two figures?"
+            "hi": "उपरोक्त प्रश्न के अनुसार, यदि टावर की ऊँचाई 10\\sqrt{3} m प्राप्त होती है, तो उस नहर की चौड़ाई (width of the canal) क्या होगी?",
+            "en": "According to the above question, if the height of the tower is obtained as 10\\sqrt{3} m, what will be the width of the canal?"
           },
           "options": [
-            {"hi": "दो वृत्तों में", "en": "Two circles"},
-            {"hi": "एक समांतर चतुर्भुज और एक त्रिभुज में", "en": "A parallelogram and a triangle"},
-            {"hi": "दो वर्गों में", "en": "Two squares"},
-            {"hi": "दो आयतों में", "en": "Two rectangles"}
+            {"hi": "10 m", "en": "10 m"},
+            {"hi": "15 m", "en": "15 m"},
+            {"hi": "20 m", "en": "20 m"},
+            {"hi": "5 m", "en": "5 m"}
           ],
-          "answer": {"hi": "एक समांतर चतुर्भुज और एक त्रिभुज में", "en": "A parallelogram and a triangle"}
+          "answer": {"hi": "10 m", "en": "10 m"}
         },
         {
           "q": {
-            "hi": "यदि एक त्रिभुज का आधार $8\\,cm$ और ऊंचाई $5\\,cm$ है, तो उसका क्षेत्रफल क्या है?",
-            "en": "If a triangle has base $8\\,cm$ and height $5\\,cm$, what is its area?"
+            "hi": "7 m ऊँचे भवन के शिखर से एक केबल टावर के शिखर का उन्नयन कोण 60^\\circ है और इसके पाद (foot) का अवनमन कोण 45^\\circ है। टावर की कुल ऊँचाई ज्ञात कीजिए।",
+            "en": "From the top of a 7 m high building, the angle of elevation of the top of a cable tower is 60^\\circ and the angle of depression of its foot is 45^\\circ. Determine the total height of the tower."
           },
           "options": [
-            {"hi": "40 cm²", "en": "40 cm²"},
-            {"hi": "20 cm²", "en": "20 cm²"},
-            {"hi": "13 cm²", "en": "13 cm²"},
-            {"hi": "80 cm²", "en": "80 cm²"}
+            {"hi": "7(\\sqrt{3} + 1) m", "en": "7(\\sqrt{3} + 1) m"},
+            {"hi": "7(\\sqrt{3} - 1) m", "en": "7(\\sqrt{3} - 1) m"},
+            {"hi": "14 m", "en": "14 m"},
+            {"hi": "7\\sqrt{3} m", "en": "7\\sqrt{3} m"}
           ],
-          "answer": {"hi": "20 cm²", "en": "20 cm²"}
+          "answer": {"hi": "7(\\sqrt{3} + 1) m", "en": "7(\\sqrt{3} + 1) m"}
         },
         {
           "q": {
-            "hi": "एक ही समांतर रेखाओं के बीच स्थित दो त्रिभुजों के लिए क्या समान होना चाहिए ताकि उनके क्षेत्रफल बराबर हों?",
-            "en": "For two triangles between the same parallels, what must be common for their areas to be equal?"
+            "hi": "समुद्र तल से 75 m ऊँची लाइटहाउस (lighthouse) के शिखर से देखने पर दो समुद्री जहाजों के अवनमन कोण 30^\\circ और 45^\\circ हैं। यदि लाइटहाउस के एक ही ओर एक जहाज दूसरे जहाज के ठीक पीछे हो, तो दोनों जहाजों के बीच की दूरी क्या होगी?",
+            "en": "As observed from the top of a 75 m high lighthouse from the sea-level, the angles of depression of two ships are 30^\\circ and 45^\\circ. If one ship is exactly behind the other on the same side of the lighthouse, find the distance between the two ships."
           },
           "options": [
-            {"hi": "कोण", "en": "Angles"},
-            {"hi": "शीर्ष", "en": "Vertices"},
-            {"hi": "आधार (या बराबर आधार)", "en": "Base (or equal bases)"},
-            {"hi": "परिमाप", "en": "Perimeter"}
+            {"hi": "75(\\sqrt{3} - 1) m", "en": "75(\\sqrt{3} - 1) m"},
+            {"hi": "75\\sqrt{3} m", "en": "75\\sqrt{3} m"},
+            {"hi": "75 m", "en": "75 m"},
+            {"hi": "150 m", "en": "150 m"}
           ],
-          "answer": {"hi": "आधार (या बराबर आधार)", "en": "Base (or equal bases)"}
+          "answer": {"hi": "75(\\sqrt{3} - 1) m", "en": "75(\\sqrt{3} - 1) m"}
         },
         {
           "q": {
-            "hi": "किसी समांतर चतुर्भुज की भुजाओं के मध्य-बिंदुओं को मिलाने से बना समांतर चतुर्भुज मूल का कितना क्षेत्रफल रखता है?",
-            "en": "What fraction of the original area is held by a parallelogram formed by joining midpoints of the sides of a parallelogram?"
+            "hi": "एक गुब्बारा क्षैतिज रेखा में 88.2 m की ऊँचाई पर एक हवा में उड़ रहा है। किसी भी क्षण एक लड़की की आँख से गुब्बारे का उन्नयन कोण 60^\\circ है। कुछ समय बाद उन्नयन कोण घटकर 30^\\circ हो जाता है। इस अंतराल के दौरान गुब्बारे द्वारा तय की गई दूरी ज्ञात कीजिए, यदि लड़की की लंबाई 1.2 m है।",
+            "en": "A balloon is moving with the wind in a horizontal line at a height of 88.2 m from the ground. The angle of elevation of the balloon from the eyes of a girl at any instant is 60^\\circ. After some time, the angle of elevation reduces to 30^\\circ. Find the distance traveled by the balloon during the interval if the girl is 1.2 m tall."
           },
           "options": [
-            {"hi": "आधा", "en": "Half"},
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "दुगुना", "en": "Double"},
-            {"hi": "एक-चौथाई", "en": "One-fourth"}
+            {"hi": "58\\sqrt{3} m", "en": "58\\sqrt{3} m"},
+            {"hi": "58 m", "en": "58 m"},
+            {"hi": "87\\sqrt{3} m", "en": "87\\sqrt{3} m"},
+            {"hi": "29\\sqrt{3} m", "en": "29\\sqrt{3} m"}
           ],
-          "answer": {"hi": "आधा", "en": "Half"}
+          "answer": {"hi": "58\\sqrt{3} m", "en": "58\\sqrt{3} m"}
         },
         {
           "q": {
-            "hi": "एक समांतर चतुर्भुज ABCD में विकर्ण AC उसे दो भागों में बाँटता है। $ar(ABC)$ और $ar(ADC)$ के बीच क्या संबंध है?",
-            "en": "In a parallelogram ABCD, diagonal AC divides it. What is the relation between $ar(ABC)$ and $ar(ADC)$?"
+            "hi": "एक सीधा राजमार्ग एक मीनार के पाद (foot) तक जाता है। मीनार के शिखर पर खड़ा एक आदमी एक कार को 30^\\circ के अवनमन कोण पर देखता है जो कि मीनार के पाद की ओर एक समान चाल से जा रही है। छः सेकेंड बाद कार का अवनमन कोण 60^\\circ हो गया। इस बिंदु से मीनार के पाद तक पहुँचने में कार द्वारा लिया गया शेष समय कितना होगा?",
+            "en": "A straight highway leads to the foot of a tower. A man standing at the top of the tower observes a car at an angle of depression of 30^\\circ, which is approaching the foot of the tower with a uniform speed. Six seconds later, the angle of depression of the car is found to be 60^\\circ. Find the remaining time taken by the car to reach the foot of the tower from this point."
           },
           "options": [
-            {"hi": "ar(ABC) > ar(ADC)", "en": "ar(ABC) > ar(ADC)"},
-            {"hi": "ar(ABC) < ar(ADC)", "en": "ar(ABC) < ar(ADC)"},
-            {"hi": "ar(ABC) = ar(ADC)", "en": "ar(ABC) = ar(ADC)"},
-            {"hi": "ar(ABC) = 2ar(ADC)", "en": "ar(ABC) = 2ar(ADC)"}
+            {"hi": "3 सेकेंड", "en": "3 seconds"},
+            {"hi": "6 सेकेंड", "en": "6 seconds"},
+            {"hi": "2 सेकेंड", "en": "2 seconds"},
+            {"hi": "4 सेकेंड", "en": "4 seconds"}
           ],
-          "answer": {"hi": "ar(ABC) = ar(ADC)", "en": "ar(ABC) = ar(ADC)"}
+          "answer": {"hi": "3 सेकेंड", "en": "3 seconds"}
         },
         {
           "q": {
-            "hi": "समलंब चतुर्भुज के क्षेत्रफल का सूत्र क्या है?",
-            "en": "What is the formula for the area of a trapezium?"
+            "hi": "मीनार के आधार से और एक सरल रेखा में 4 m और 9 m की दूरी पर स्थित दो बिंदुओं से मीनार के शिखर के उन्नयन कोण पूरक कोण (complementary angles) हैं। मीनार की ऊँचाई क्या होगी?",
+            "en": "The angles of elevation of the top of a tower from two points at a distance of 4 m and 9 m from the base of the tower and in the same straight line with it are complementary. Find the height of the tower."
           },
           "options": [
-            {"hi": "आधार × ऊंचाई", "en": "Base × Height"},
-            {"hi": "1/2 × (समांतर भुजाओं का योग) × ऊंचाई", "en": "1/2 × (Sum of parallel sides) × Height"},
-            {"hi": "1/2 × आधार × ऊंचाई", "en": "1/2 × Base × Height"},
-            {"hi": "लंबाई × चौड़ाई", "en": "Length × Breadth"}
+            {"hi": "6 m", "en": "6 m"},
+            {"hi": "5 m", "en": "5 m"},
+            {"hi": "36 m", "en": "36 m"},
+            {"hi": "13 m", "en": "13 m"}
           ],
-          "answer": {"hi": "1/2 × (समांतर भुजाओं का योग) × ऊंचाई", "en": "1/2 × (Sum of parallel sides) × Height"}
+          "answer": {"hi": "6 m", "en": "6 m"}
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "त्रिभुज की माध्यिकाएँ उसे कुल कितने बराबर क्षेत्रफल वाले त्रिभुजों में विभाजित करती हैं यदि तीनों माध्यिकाएँ खींची जाएँ?",
-            "en": "How many equal area triangles do medians divide a triangle into if all three are drawn?"
+            "hi": "यदि दो पूरक कोणों में से एक कोण \\theta हो, तो दूसरा कोण निम्नलिखित में से किस रूप का होगा?",
+            "en": "If one of the two complementary angles is \\theta, then the other angle will be of which of the following forms?"
           },
           "options": [
-            {"hi": "तीन", "en": "Three"},
-            {"hi": "चार", "en": "Four"},
-            {"hi": "छह", "en": "Six"},
-            {"hi": "आठ", "en": "Eight"}
+            {"hi": "90^\\circ - \\theta", "en": "90^\\circ - \\theta"},
+            {"hi": "180^\\circ - \\theta", "en": "180^\\circ - \\theta"},
+            {"hi": "90^\\circ + \\theta", "en": "90^\\circ + \\theta"},
+            {"hi": "45^\\circ - \\theta", "en": "45^\\circ - \\theta"}
           ],
-          "answer": {"hi": "छह", "en": "Six"}
+          "answer": {"hi": "90^\\circ - \\theta", "en": "90^\\circ - \\theta"}
         },
         {
           "q": {
-            "hi": "यदि एक समांतर चतुर्भुज का क्षेत्रफल $48\\,cm^2$ है, तो उसी आधार और ऊंचाई वाले त्रिभुज का क्षेत्रफल क्या होगा?",
-            "en": "If the area of a parallelogram is $48\\,cm^2$, what will be the area of a triangle with the same base and height?"
+            "hi": "भूमि से 60 m की ऊँचाई पर एक पतंग उड़ रही है। पतंग में लगी डोरी को अस्थायी रूप से भूमि के एक बिंदु से बाँध दिया गया है। भूमि के साथ डोरी का झुकाव 60^\\circ है। यह मानकर कि डोरी में कोई ढील नहीं है, डोरी की लंबाई क्या होगी?",
+            "en": "A kite is flying at a height of 60 m above the ground. The string attached to the kite is temporarily tied to a point on the ground. The inclination of the string with the ground is 60^\\circ. Find the length of the string, assuming that there is no slack in the string."
           },
           "options": [
-            {"hi": "96 cm²", "en": "96 cm²"},
-            {"hi": "48 cm²", "en": "48 cm²"},
-            {"hi": "24 cm²", "en": "24 cm²"},
-            {"hi": "12 cm²", "en": "12 cm²"}
+            {"hi": "40\\sqrt{3} m", "en": "40\\sqrt{3} m"},
+            {"hi": "30\\sqrt{3} m", "en": "30\\sqrt{3} m"},
+            {"hi": "120 m", "en": "120 m"},
+            {"hi": "60\\sqrt{3} m", "en": "60\\sqrt{3} m"}
           ],
-          "answer": {"hi": "24 cm²", "en": "24 cm²"}
+          "answer": {"hi": "40\\sqrt{3} m", "en": "40\\sqrt{3} m"}
         },
         {
           "q": {
-            "hi": "किसी चतुर्भुज के विकर्ण उसे चार बराबर क्षेत्रफल वाले त्रिभुजों में बाँटते हैं, वह चतुर्भुज क्या है?",
-            "en": "A quadrilateral whose diagonals divide it into four triangles of equal area is a?"
+            "hi": "एक ठेकेदार बच्चों को खेलने के लिए एक पार्क में दो फिसलनपट्टी (slides) लगाना चाहती है। 5 वर्ष से कम उम्र के बच्चों के लिए वह एक ऐसी फिसलनपट्टी लगाना चाहती है जिसका शिखर 1.5 m की ऊँचाई पर हो और भूमि के साथ 30^\\circ के कोण पर झुका हुआ हो। इस फिसलनपट्टी की लंबाई क्या होनी चाहिए?",
+            "en": "A contractor plans to install two slides for the children to play in a park. For the children below the age of 5 years, she prefers to have a slide whose top is at a height of 1.5 m and is inclined at an angle of 30^\\circ to the ground. What should be the length of this slide?"
           },
           "options": [
-            {"hi": "समलंब", "en": "Trapezium"},
-            {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"},
-            {"hi": "पतंग", "en": "Kite"},
-            {"hi": "कोई भी चतुर्भुज", "en": "Any quadrilateral"}
+            {"hi": "3 m", "en": "3 m"},
+            {"hi": "1.5\\sqrt{3} m", "en": "1.5\\sqrt{3} m"},
+            {"hi": "4.5 m", "en": "4.5 m"},
+            {"hi": "2 m", "en": "2 m"}
           ],
-          "answer": {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"}
+          "answer": {"hi": "3 m", "en": "3 m"}
         },
         {
           "q": {
-            "hi": "त्रिभुज के क्षेत्रफल की इकाई (Unit) क्या होती है?",
-            "en": "What is the unit of area of a triangle?"
+            "hi": "5 वर्ष से अधिक उम्र के बच्चों के लिए वह ठेकेदार 3 m की ऊँचाई पर एक तीव्र ढाल की फिसलनपट्टी लगाना चाहती है, जो भूमि के साथ 60^\\circ का कोण बनाती हो। इस बड़ी फिसलनपट्टी की लंबाई क्या होनी चाहिए?",
+            "en": "For elder children, the contractor wants to have a steep slide at a height of 3 m and inclined at an angle of 60^\\circ to the ground. What should be the length of this larger slide?"
           },
           "options": [
-            {"hi": "cm", "en": "cm"},
-            {"hi": "cm²", "en": "cm²"},
-            {"hi": "cm³", "en": "cm³"},
-            {"hi": "डिग्री", "en": "Degree"}
+            {"hi": "2\\sqrt{3} m", "en": "2\\sqrt{3} m"},
+            {"hi": "3\\sqrt{3} m", "en": "3\\sqrt{3} m"},
+            {"hi": "6 m", "en": "6 m"},
+            {"hi": "4 m", "en": "4 m"}
           ],
-          "answer": {"hi": "cm²", "en": "cm²"}
+          "answer": {"hi": "2\\sqrt{3} m", "en": "2\\sqrt{3} m"}
         },
         {
           "q": {
-            "hi": "एक समांतर चतुर्भुज में, एक भुजा और उसके संगत शीर्षलंब के बीच का कोण कितना होता है?",
-            "en": "In a parallelogram, what is the angle between a side and its corresponding altitude?"
+            "hi": "एक बहुमंजिले भवन के शिखर से देखने पर एक 8 m ऊँचे भवन के शिखर और पाद के अवनमन कोण क्रमशः 30^\\circ और 45^\\circ हैं। बहुमंजिले भवन की ऊँचाई ज्ञात कीजिए।",
+            "en": "The angles of depression of the top and the bottom of an 8 m tall building from the top of a multi-storeyed building are 30^\\circ and 45^\\circ, respectively. Find the height of the multi-storeyed building."
           },
           "options": [
-            {"hi": "0°", "en": "0°"},
-            {"hi": "45°", "en": "45°"},
-            {"hi": "90°", "en": "90°"},
-            {"hi": "180°", "en": "180°"}
+            {"hi": "4(\\sqrt{3} + 3) m", "en": "4(\\sqrt{3} + 3) m"},
+            {"hi": "8\\sqrt{3} m", "en": "8\\sqrt{3} m"},
+            {"hi": "4(\\sqrt{3} - 1) m", "en": "4(\\sqrt{3} - 1) m"},
+            {"hi": "12 m", "en": "12 m"}
           ],
-          "answer": {"hi": "90°", "en": "90°"}
+          "answer": {"hi": "4(\\sqrt{3} + 3) m", "en": "4(\\sqrt{3} + 3) m"}
         },
         {
           "q": {
-            "hi": "यदि $ABC$ और $DBC$ एक ही आधार $BC$ पर दो त्रिभुज हैं और $AD || BC$ है, तो:",
-            "en": "If $ABC$ and $DBC$ are two triangles on same base $BC$ and $AD || BC$, then?"
+            "hi": "उपरोक्त प्रश्न के आधार पर, उन दोनों भवनों (बहुमंजिले भवन और 8 m ऊँचे भवन) के बीच की क्षैतिज दूरी (distance between the two buildings) क्या होगी?",
+            "en": "Based on the above question, what will be the horizontal distance between the two buildings (the multi-storeyed building and the 8 m tall building)?"
           },
           "options": [
-            {"hi": "ar(ABC) = ar(DBC)", "en": "ar(ABC) = ar(DBC)"},
-            {"hi": "ar(ABC) = 2ar(DBC)", "en": "ar(ABC) = 2ar(DBC)"},
-            {"hi": "ar(ABC) > ar(DBC)", "en": "ar(ABC) > ar(DBC)"},
-            {"hi": "ar(ABC) + ar(DBC) = 180", "en": "ar(ABC) + ar(DBC) = 180"}
+            {"hi": "4(\\sqrt{3} + 3) m", "en": "4(\\sqrt{3} + 3) m"},
+            {"hi": "8 m", "en": "8 m"},
+            {"hi": "4\\sqrt{3} m", "en": "4\\sqrt{3} m"},
+            {"hi": "16 m", "en": "16 m"}
           ],
-          "answer": {"hi": "ar(ABC) = ar(DBC)", "en": "ar(ABC) = ar(DBC)"}
+          "answer": {"hi": "4(\\sqrt{3} + 3) m", "en": "4(\\sqrt{3} + 3) m"}
         },
         {
           "q": {
-            "hi": "मध्य-बिंदु प्रमेय के अनुसार, मध्य-बिंदुओं को मिलाने से बना त्रिभुज मूल का 1/4 क्षेत्रफल रखता है। क्या यह सत्य है?",
-            "en": "According to the mid-point theorem, the triangle formed by joining midpoints has 1/4 the area of original. Is this true?"
+            "hi": "यदि किसी क्षैतिज तल पर खड़ी मीनार के शिखर का उन्नयन कोण किसी बिंदु से 30^\\circ हो, और मीनार की तरफ 20 m बढ़ने पर वह 60^\\circ हो जाता है, तो मीनार की ऊँचाई का बीजीय मान निकालने के लिए कौन सा अनुपात सर्वाधिक प्रयुक्त होता है?",
+            "en": "If the angle of elevation of the top of a tower standing on a horizontal plane from a point is 30^\\circ, and it becomes 60^\\circ after moving 20 m towards the tower, which ratio is most used to find the algebraic value of the height?"
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल समबाहु के लिए", "en": "Only for equilateral"},
-            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"}
+            {"hi": "sine", "en": "sine"},
+            {"hi": "tangent (\\tan)", "en": "tangent (\\tan)"},
+            {"hi": "cosine", "en": "cosine"},
+            {"hi": "secant", "en": "secant"}
           ],
-          "answer": {"hi": "हाँ", "en": "Yes"}
+          "answer": {"hi": "tangent (\\tan)", "en": "tangent (\\tan)"}
         },
         {
           "q": {
-            "hi": "एक समांतर चतुर्भुज का क्षेत्रफल $100\\,cm^2$ है। इसके विकर्ण द्वारा बने एक त्रिभुज का क्षेत्रफल क्या होगा?",
-            "en": "The area of a parallelogram is $100\\,cm^2$. What will be the area of one triangle formed by its diagonal?"
+            "hi": "एक समतल भूमि पर खड़ी मीनार की छाया उस स्थिति में 40 m अधिक लंबी हो जाती है जबकि सूर्य का उन्नतांश (altitude) 60^\\circ से बदलकर 30^\\circ हो जाता है। मीनार की ऊँचाई ज्ञात कीजिए।",
+            "en": "The shadow of a tower standing on a level ground is found to be 40 m longer when the Sun's altitude is 30^\\circ than when it is 60^\\circ. Find the height of the tower."
           },
           "options": [
-            {"hi": "100 cm²", "en": "100 cm²"},
-            {"hi": "200 cm²", "en": "200 cm²"},
-            {"hi": "50 cm²", "en": "50 cm²"},
-            {"hi": "25 cm²", "en": "25 cm²"}
+            {"hi": "20\\sqrt{3} m", "en": "20\\sqrt{3} m"},
+            {"hi": "40\\sqrt{3} m", "en": "40\\sqrt{3} m"},
+            {"hi": "20 m", "en": "20 m"},
+            {"hi": "10\\sqrt{3} m", "en": "10\\sqrt{3} m"}
           ],
-          "answer": {"hi": "50 cm²", "en": "50 cm²"}
+          "answer": {"hi": "20\\sqrt{3} m", "en": "20\\sqrt{3} m"}
         },
         {
           "q": {
-            "hi": "यदि दो समांतर रेखाओं के बीच की दूरी बढ़ जाए, तो एक ही आधार पर स्थित समांतर चतुर्भुज का क्षेत्रफल क्या होगा?",
-            "en": "If the distance between two parallel lines increases, what happens to the area of a parallelogram on the same base?"
+            "hi": "जब सूर्य का उन्नयन कोण क्षैतिज से बढ़ता है (जैसे 30^\\circ से 60^\\circ की ओर), तो किसी ऊर्ध्वाधर खंभे की छाया की लंबाई पर क्या प्रभाव पड़ता है?",
+            "en": "When the angle of elevation of the sun increases from the horizontal (e.g., from 30^\\circ to 60^\\circ), what is the effect on the length of the shadow of a vertical pole?"
           },
           "options": [
-            {"hi": "बढ़ जाएगा", "en": "It will increase"},
-            {"hi": "घट जाएगा", "en": "It will decrease"},
-            {"hi": "समान रहेगा", "en": "It will remain same"},
-            {"hi": "शून्य हो जाएगा", "en": "It will become zero"}
+            {"hi": "लंबाई बढ़ती है", "en": "Length increases"},
+            {"hi": "लंबाई घटती है (Decreases)", "en": "Decreases"},
+            {"hi": "लंबाई समान रहती है", "en": "Length remains the same"},
+            {"hi": "पहले घटती है फिर बढ़ती है", "en": "First decreases then increases"}
           ],
-          "answer": {"hi": "बढ़ जाएगा", "en": "It will increase"}
+          "answer": {"hi": "लंबाई घटती है (Decreases)", "en": "Decreases"}
         },
         {
           "q": {
-            "hi": "समांतर चतुर्भुज के क्षेत्रफल का मात्रक (Unit) हेक्टेयर कब उपयोग किया जाता है?",
-            "en": "When is the unit 'hectare' used for the area of a parallelogram?"
+            "hi": "यदि एक प्रेक्षक किसी मीनार से दूर जाता है, तो उसकी आँख से मीनार के शिखर के उन्नयन कोण के मान पर क्या प्रभाव पड़ेगा?",
+            "en": "If an observer moves away from a tower, what will be the effect on the value of the angle of elevation of the top of the tower from her eye?"
           },
           "options": [
-            {"hi": "छोटी आकृतियों के लिए", "en": "For small figures"},
-            {"hi": "बड़े भूखंडों या खेतों के लिए", "en": "For large land plots or fields"},
-            {"hi": "केवल वृत्तों के लिए", "en": "Only for circles"},
-            {"hi": "आयतन मापने के लिए", "en": "To measure volume"}
+            {"hi": "कोण बढ़ता है", "en": "Angle increases"},
+            {"hi": "कोण घटता है (Angle decreases)", "en": "Angle decreases"},
+            {"hi": "कोण समान रहता है", "en": "Angle remains the same"},
+            {"hi": "कोण 90 डिग्री हो जाता है", "en": "Angle becomes 90 degrees"}
           ],
-          "answer": {"hi": "बड़े भूखंडों या खेतों के लिए", "en": "For large land plots or fields"}
+          "answer": {"hi": "कोण घटता है (Angle decreases)", "en": "Angle decreases"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "एक समांतर चतुर्भुज की ऊंचाई को आधा और आधार को दुगुना करने पर क्षेत्रफल पर क्या प्रभाव पड़ेगा?",
-            "en": "What will be the effect on area if the height of a parallelogram is halved and base is doubled?"
+            "hi": "त्रिकोणमिति के अनुप्रयोगों में यदि किसी समस्या में केवल 'लंब' (perpendicular) और 'कर्ण' (hypotenuse) के बीच संबंध स्थापित करना हो, तो किस त्रिकोणमितीय अनुपात का चयन करना सबसे उपयुक्त होता है?",
+            "en": "In applications of trigonometry, if a problem requires establishing a relationship only between the 'perpendicular' and the 'hypotenuse', which trigonometric ratio is most appropriate to select?"
           },
           "options": [
-            {"hi": "क्षेत्रफल दुगुना होगा", "en": "Area will double"},
-            {"hi": "क्षेत्रफल आधा होगा", "en": "Area will be half"},
-            {"hi": "क्षेत्रफल समान रहेगा", "en": "Area will remain same"},
-            {"hi": "क्षेत्रफल चार गुना होगा", "en": "Area will be four times"}
+            {"hi": "tan \\theta", "en": "tan \\theta"},
+            {"hi": "sin \\theta (या cosec \\theta)", "en": "sin \\theta (or cosec \\theta)"},
+            {"hi": "cos \\theta", "en": "cos \\theta"},
+            {"hi": "sec \\theta", "en": "sec \\theta"}
           ],
-          "answer": {"hi": "क्षेत्रफल समान रहेगा", "en": "Area will remain same"}
+          "answer": {"hi": "sin \\theta (या cosec \\theta)", "en": "sin \\theta (or cosec \\theta)"}
         },
         {
           "q": {
-            "hi": "एक त्रिभुज ABC में, E माध्यिका AD का मध्य-बिंदु है। $ar(BED)$ किसके बराबर होगा?",
-            "en": "In a triangle ABC, E is the midpoint of median AD. What will $ar(BED)$ be equal to?"
+            "hi": "यदि किसी प्रश्न में 'आधार' (base) और 'कर्ण' (hypotenuse) के बीच संबंध का उपयोग करना हो, तो हमें कौन सा अनुपात चुनना चाहिए?",
+            "en": "If a problem requires using the relationship between the 'base' and the 'hypotenuse', which ratio should we choose?"
           },
           "options": [
-            {"hi": "1/2 ar(ABC)", "en": "1/2 ar(ABC)"},
-            {"hi": "1/4 ar(ABC)", "en": "1/4 ar(ABC)"},
-            {"hi": "1/3 ar(ABC)", "en": "1/3 ar(ABC)"},
-            {"hi": "ar(ABC)"}
+            {"hi": "sin \\theta", "en": "sin \\theta"},
+            {"hi": "cos \\theta (या sec \\theta)", "en": "cos \\theta (or sec \\theta)"},
+            {"hi": "tan \\theta", "en": "tan \\theta"},
+            {"hi": "cot \\theta", "en": "cot \\theta"}
           ],
-          "answer": {"hi": "1/4 ar(ABC)", "en": "1/4 ar(ABC)"}
+          "answer": {"hi": "cos \\theta (या sec \\theta)", "en": "cos \\theta (or sec \\theta)"}
         },
         {
           "q": {
-            "hi": "दो समरूप आकृतियों के बारे में क्या सत्य है?",
-            "en": "What is true about two similar figures?"
+            "hi": "भूमि के एक बिंदु से जो एक मीनार के पाद से 40 m की दूरी पर है, मीनार के शिखर का उन्नयन कोण 30^\\circ है। मीनार की ऊँचाई ज्ञात करने के लिए किस बीजीय समीकरण का उपयोग होगा?",
+            "en": "From a point on the ground which is 40 m away from the foot of a tower, the angle of elevation of the top of the tower is 30^\\circ. Which algebraic equation will be used to find the height of the tower?"
           },
           "options": [
-            {"hi": "उनके क्षेत्रफल सदैव बराबर होते हैं", "en": "Their areas are always equal"},
-            {"hi": "उनका आकार समान होता है", "en": "Their shape is same"},
-            {"hi": "वे सदैव सर्वांगसम होती हैं", "en": "They are always congruent"},
-            {"hi": "उनके परिमाप बराबर होते हैं", "en": "Their perimeters are equal"}
+            {"hi": "h / 40 = \\tan 30^\\circ", "en": "h / 40 = \\tan 30^\\circ"},
+            {"hi": "40 / h = \\tan 30^\\circ", "en": "40 / h = \\tan 30^\\circ"},
+            {"hi": "h / 40 = \\sin 30^\\circ", "en": "h / 40 = \\sin 30^\\circ"},
+            {"hi": "h / 40 = \\cos 30^\\circ", "en": "h / 40 = \\cos 30^\\circ"}
           ],
-          "answer": {"hi": "उनका आकार समान होता है", "en": "Their shape is same"}
+          "answer": {"hi": "h / 40 = \\tan 30^\\circ", "en": "h / 40 = \\tan 30^\\circ"}
         },
         {
           "q": {
-            "hi": "क्या दो त्रिभुजों का क्षेत्रफल बराबर होने पर उनका आधार भी बराबर होना चाहिए?",
-            "en": "If two triangles have equal area, must their bases also be equal?"
+            "hi": "एक पतंग की डोरी की लंबाई 100 m है और यह क्षैतिज तल के साथ 60^\\circ का कोण बनाती है। पतंग की भूमि से ऊर्ध्वाधर ऊँचाई (h) निकालने के लिए सही समीकरण क्या होगा?",
+            "en": "The length of a kite's string is 100 m and it makes an angle of 60^\\circ with the horizontal plane. What will be the correct equation to find the vertical height (h) of the kite from the ground?"
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल यदि वे एक ही समांतर रेखाओं के बीच हों", "en": "Only if they are between same parallels"},
-            {"hi": "केवल यदि वे समकोण हों", "en": "Only if they are right angled"}
+            {"hi": "h / 100 = \\tan 60^\\circ", "en": "h / 100 = \\tan 60^\\circ"},
+            {"hi": "h / 100 = \\sin 60^\\circ", "en": "h / 100 = \\sin 60^\\circ"},
+            {"hi": "100 / h = \\cos 60^\\circ", "en": "100 / h = \\cos 60^\\circ"},
+            {"hi": "h / 100 = \\cos 60^\\circ", "en": "h / 100 = \\cos 60^\\circ"}
           ],
-          "answer": {"hi": "नहीं", "en": "No"}
+          "answer": {"hi": "h / 100 = \\sin 60^\\circ", "en": "h / 100 = \\sin 60^\\circ"}
         },
         {
           "q": {
-            "hi": "किसी समांतर चतुर्भुज में विकर्णों का प्रतिच्छेद बिंदु क्या कहलाता है?",
-            "en": "What is the intersection point of diagonals in a parallelogram called?"
+            "hi": "एक मीनार की ऊँचाई 100 m है। जब सूर्य का उन्नयन कोण 30^\\circ से बदलकर 45^\\circ हो जाता है, तो इसकी छाया की लंबाई x m कम हो जाती है। x का मान ज्ञात करने के लिए सही बीजीय व्यंजक क्या होगा?",
+            "en": "The height of a tower is 100 m. When the angle of elevation of the sun changes from 30^\\circ to 45^\\circ, the length of its shadow decreases by x m. What will be the correct algebraic expression to find the value of x?"
           },
           "options": [
-            {"hi": "केंद्र", "en": "Center"},
-            {"hi": "लंब केंद्र", "en": "Orthocenter"},
-            {"hi": "शीर्ष", "en": "Vertex"},
-            {"hi": "प्रतिच्छेद बिंदु", "en": "Point of intersection"}
+            {"hi": "x = 100(\\sqrt{3} - 1)", "en": "x = 100(\\sqrt{3} - 1)"},
+            {"hi": "x = 100(\\sqrt{3} + 1)", "en": "x = 100(\\sqrt{3} + 1)"},
+            {"hi": "x = 100 / \\sqrt{3}", "en": "x = 100 / \\sqrt{3}"},
+            {"hi": "x = 50\\sqrt{3}", "en": "x = 50\\sqrt{3}"}
           ],
-          "answer": {"hi": "प्रतिच्छेद बिंदु", "en": "Point of intersection"}
+          "answer": {"hi": "x = 100(\\sqrt{3} - 1)", "en": "x = 100(\\sqrt{3} - 1)"}
         },
         {
           "q": {
-            "hi": "यदि एक त्रिभुज का क्षेत्रफल $ar(T)$ है, तो उसकी सभी माध्यिकाओं द्वारा बने 6 छोटे त्रिभुजों में से एक का क्षेत्रफल क्या होगा?",
-            "en": "If the area of a triangle is $ar(T)$, what will be the area of one of the 6 small triangles formed by its medians?"
+            "hi": "यदि किसी बिंदु से एक खंभे के शिखर का उन्नयन कोण 45^\\circ है, तो प्रेक्षक की खंभे के पाद से क्षैतिज दूरी और खंभे की ऊँचाई के बीच क्या संबंध होगा?",
+            "en": "If the angle of elevation of the top of a pole from a point is 45^\\circ, what will be the relationship between the horizontal distance of the observer from the foot of the pole and the height of the pole?"
           },
           "options": [
-            {"hi": "ar(T) / 2", "en": "ar(T) / 2"},
-            {"hi": "ar(T) / 3", "en": "ar(T) / 3"},
-            {"hi": "ar(T) / 6", "en": "ar(T) / 6"},
-            {"hi": "ar(T) / 4", "en": "ar(T) / 4"}
+            {"hi": "दूरी ऊँचाई से अधिक होगी", "en": "Distance will be greater than height"},
+            {"hi": "दूरी और ऊँचाई परस्पर बराबर होंगी (Distance and height will be equal)", "en": "Distance and height will be equal"},
+            {"hi": "दूरी ऊँचाई की आधी होगी", "en": "Distance will be half of height"},
+            {"hi": "दूरी ऊँचाई की \\sqrt{3} गुनी होगी", "en": "Distance will be \\sqrt{3} times the height"}
           ],
-          "answer": {"hi": "ar(T) / 6", "en": "ar(T) / 6"}
+          "answer": {"hi": "दूरी और ऊँचाई परस्पर बराबर होंगी (Distance and height will be equal)", "en": "Distance and height will be equal"}
         },
         {
           "q": {
-            "hi": "समतलीय क्षेत्र को मापने के लिए सबसे सामान्य इकाई क्या है?",
-            "en": "What is the most common unit for measuring planar regions?"
+            "hi": "किसी मीनार के पाद से x और y दूरियों (जहाँ x > y) पर एक ही सरल रेखा में स्थित दो बिंदुओं से मीनार के शिखर के उन्नयन कोण क्रमशः 30^\\circ और 60^\\circ हैं। मीनार की ऊँचाई (h) का मान क्या होगा?",
+            "en": "The angles of elevation of the top of a tower from two points in the same straight line at distances of x and y (where x > y) from the foot of the tower are 30^\\circ and 60^\\circ respectively. What will be the value of the height (h) of the tower?"
           },
           "options": [
-            {"hi": "वर्ग मात्रक (Square units)", "en": "Square units"},
-            {"hi": "घन मात्रक (Cubic units)", "en": "Cubic units"},
-            {"hi": "रैखिक मात्रक (Linear units)", "en": "Linear units"},
-            {"hi": "कोण मात्रक (Angular units)", "en": "Angular units"}
+            {"hi": "h = x/y", "en": "h = x/y"},
+            {"hi": "h = \\sqrt{xy}", "en": "h = \\sqrt{xy}"},
+            {"hi": "h = xy", "en": "h = xy"},
+            {"hi": "h = \\sqrt{x/y}", "en": "h = \\sqrt{x/y}"}
           ],
-          "answer": {"hi": "वर्ग मात्रक (Square units)", "en": "Square units"}
+          "answer": {"hi": "h = \\sqrt{xy}", "en": "h = \\sqrt{xy}"}
         },
         {
           "q": {
-            "hi": "एक ही आधार और एक ही समांतर रेखाओं के बीच स्थित दो समांतर चतुर्भुजों के परिमाप के बारे में क्या कहा जा सकता है?",
-            "en": "What can be said about the perimeters of two parallelograms on the same base and between same parallels?"
+            "hi": "यदि क्षैतिज रेखा और दृष्टि-रेखा एक दूसरे के संपाती (coincident) हो जाएँ, तो उन्नयन या अवनमन कोण का मान कितने डिग्री होगा?",
+            "en": "If the horizontal line and the line of sight become coincident with each other, how many degrees will the value of the angle of elevation or depression be?"
           },
           "options": [
-            {"hi": "वे सदैव बराबर होंगे", "en": "They will always be equal"},
-            {"hi": "वे बराबर हो भी सकते हैं और नहीं भी", "en": "They may or may not be equal"},
-            {"hi": "वे कभी बराबर नहीं होंगे", "en": "They will never be equal"},
-            {"hi": "वे आधे होंगे", "en": "They will be half"}
+            {"hi": "90^\\circ", "en": "90^\\circ"},
+            {"hi": "0^\\circ", "en": "0^\\circ"},
+            {"hi": "45^\\circ", "en": "45^\\circ"},
+            {"hi": "180^\\circ", "en": "180^\\circ"}
           ],
-          "answer": {"hi": "वे बराबर हो भी सकते हैं और नहीं भी", "en": "They may or may not be equal"}
+          "answer": {"hi": "0^\\circ", "en": "0^\\circ"}
         },
         {
           "q": {
-            "hi": "क्षेत्रफल के गुणों के अनुसार, सर्वांगसम आकृतियों का क्षेत्रफल बराबर होता है। यह एक क्या है?",
-            "en": "According to area properties, congruent figures have equal area. This is a?"
+            "hi": "त्रिकोणमिति के ज्यामितीय अनुप्रयोगों में, किसी भवन की ऊँचाई निरूपित करने वाली रेखा धरातल (क्षैतिज रेखा) के साथ हमेशा कितने डिग्री का कोण बनाती हुई मानी जाती है?",
+            "en": "In geometric applications of trigonometry, a line representing the height of a building is always assumed to make an angle of how many degrees with the ground (horizontal line)?"
           },
           "options": [
-            {"hi": "अभिगृहीत (Axiom)", "en": "Axiom"},
-            {"hi": "परिभाषा", "en": "Definition"},
-            {"hi": "प्रमेय", "en": "Theorem"},
-            {"hi": "उदाहरण", "en": "Example"}
+            {"hi": "45^\\circ", "en": "45^\\circ"},
+            {"hi": "60^\\circ", "en": "60^\\circ"},
+            {"hi": "90^\\circ (समकोण)", "en": "90^\\circ (Right angle)"},
+            {"hi": "0^\\circ", "en": "0^\\circ"}
           ],
-          "answer": {"hi": "अभिगृहीत (Axiom)", "en": "Axiom"}
+          "answer": {"hi": "90^\\circ (समकोण)", "en": "90^\\circ (Right angle)"}
         },
         {
           "q": {
-            "hi": "त्रिभुज के क्षेत्रफल और समांतर चतुर्भुज के क्षेत्रफल के बीच संबंध स्थापित करने के लिए क्या आवश्यक है?",
-            "en": "What is required to establish a relation between the area of a triangle and a parallelogram?"
+            "hi": "यदि एकांतर कोणों (alternate angles) के सिद्धांत का उपयोग किया जाए, तो किसी ऊँचे स्थान से नीचे खड़ी कार का अवनमन कोण, कार पर बनने वाले किस कोण के ज्यामितीय रूप से बराबर होता है?",
+            "en": "If the principle of alternate angles is used, the angle of depression of a car parked below from a high place is geometrically equal to which angle formed at the car?"
           },
           "options": [
-            {"hi": "समान परिमाप", "en": "Same perimeter"},
-            {"hi": "एक ही आधार और एक ही समांतर रेखाएँ", "en": "Same base and same parallels"},
-            {"hi": "समान कोण", "en": "Same angles"},
-            {"hi": "समान विकर्ण", "en": "Same diagonals"}
+            {"hi": "शीर्षाभिमुख कोण", "en": "Vertically opposite angle"},
+            {"hi": "उन्नयन कोण (Angle of elevation)", "en": "Angle of elevation"},
+            {"hi": "संगत कोण", "en": "Corresponding angle"},
+            {"hi": "अधिककोण", "en": "Obtuse angle"}
           ],
-          "answer": {"hi": "एक ही आधार और एक ही समांतर रेखाएँ", "en": "Same base and same parallels"}
+          "answer": {"hi": "उन्नयन कोण (Angle of elevation)", "en": "Angle of elevation"}
         }
       ]
     },
