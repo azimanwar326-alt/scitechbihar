@@ -4638,661 +4638,661 @@
       "section1": [
         {
           "q": {
-            "hi": "चार भुजाओं वाली एक बंद आकृति को क्या कहा जाता है?",
-            "en": "What is a closed figure with four sides called?"
+            "hi": "अंग्रेजी शब्द 'Trigonometry' की उत्पत्ति ग्रीक शब्दों 'tri', 'gon' और 'metron' से हुई है। इसमें 'gon' का क्या अर्थ है?",
+            "en": "The English word 'Trigonometry' is derived from Greek words 'tri', 'gon' and 'metron'. What does 'gon' mean in this?"
           },
           "options": [
+            {"hi": "तीन", "en": "Three"},
+            {"hi": "भुजा (Side)", "en": "Side"},
+            {"hi": "माप", "en": "Measurement"},
+            {"hi": "कोण", "en": "Angle"}
+          ],
+          "answer": {"hi": "भुजा (Side)", "en": "Side"}
+        },
+        {
+          "q": {
+            "hi": "त्रिकोणमिति शब्द में आने वाले ग्रीक शब्द 'metron' का वास्तविक अर्थ क्या होता है?",
+            "en": "What is the actual meaning of the Greek word 'metron' appearing in the word trigonometry?"
+          },
+          "options": [
+            {"hi": "भुजा", "en": "Side"},
             {"hi": "त्रिभुज", "en": "Triangle"},
-            {"hi": "चतुर्भुज", "en": "Quadrilateral"},
-            {"hi": "पंचभुज", "en": "Pentagon"},
-            {"hi": "वृत्त", "en": "Circle"}
+            {"hi": "माप (Measurement)", "en": "Measurement"},
+            {"hi": "शिखर", "en": "Peak"}
           ],
-          "answer": {"hi": "चतुर्भुज", "en": "Quadrilateral"}
+          "answer": {"hi": "माप (Measurement)", "en": "Measurement"}
         },
         {
           "q": {
-            "hi": "एक चतुर्भुज के चारों कोणों का योग कितना होता है?",
-            "en": "What is the sum of the four angles of a quadrilateral?"
+            "hi": "एक समकोण त्रिभुज में, समकोण ($90^\\circ$) के ठीक सम्मुख (opposite) वाली सबसे लंबी भुजा को क्या कहा जाता है?",
+            "en": "In a right-angled triangle, what is the longest side directly opposite to the right angle ($90^\\circ$) called?"
           },
           "options": [
-            {"hi": "180°", "en": "180°"},
-            {"hi": "270°", "en": "270°"},
-            {"hi": "360°", "en": "360°"},
-            {"hi": "540°", "en": "540°"}
+            {"hi": "आधार", "en": "Base"},
+            {"hi": "लंब", "en": "Perpendicular"},
+            {"hi": "कर्ण (Hypotenuse)", "en": "Hypotenuse"},
+            {"hi": "माध्यिका", "en": "Median"}
           ],
-          "answer": {"hi": "360°", "en": "360°"}
+          "answer": {"hi": "कर्ण (Hypotenuse)", "en": "Hypotenuse"}
         },
         {
           "q": {
-            "hi": "यदि एक चतुर्भुज की सम्मुख भुजाओं का प्रत्येक युग्म समांतर हो, तो वह क्या कहलाता है?",
-            "en": "If each pair of opposite sides of a quadrilateral is parallel, what is it called?"
+            "hi": "समकोण त्रिभुज ABC में जिसका कोण B समकोण है, कोण A के लिए $\\sin A$ का अनुपात किस प्रकार परिभाषित किया जाता है?",
+            "en": "In a right triangle ABC right-angled at B, how is the ratio $\\sin A$ defined for angle A?"
           },
           "options": [
-            {"hi": "समलंब", "en": "Trapezium"},
-            {"hi": "पतंग", "en": "Kite"},
-            {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"},
-            {"hi": "त्रिभुज", "en": "Triangle"}
+            {"hi": "कोण A की संलग्न भुजा / कर्ण", "en": "Side adjacent to angle A / Hypotenuse"},
+            {"hi": "कोण A की सम्मुख भुजा / कर्ण", "en": "Side opposite to angle A / Hypotenuse"},
+            {"hi": "कोण A की सम्मुख भुजा / कोण A की संलग्न भुजा", "en": "Side opposite to angle A / Side adjacent to angle A"},
+            {"hi": "कर्ण / कोण A की सम्मुख भुजा", "en": "Hypotenuse / Side opposite to angle A"}
           ],
-          "answer": {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"}
+          "answer": {"hi": "कोण A की सम्मुख भुजा / कर्ण", "en": "Side opposite to angle A / Hypotenuse"}
         },
         {
           "q": {
-            "hi": "एक समांतर चतुर्भुज जिसका प्रत्येक कोण समकोण (90°) हो, क्या कहलाता है?",
-            "en": "A parallelogram in which each angle is a right angle is called?"
+            "hi": "कोण A के कोसाइन (cosine of angle A) को संक्षिप्त रूप में किस प्रकार लिखा जाता है?",
+            "en": "How is the cosine of angle A written in short form?"
           },
           "options": [
-            {"hi": "समचतुर्भुज", "en": "Rhombus"},
-            {"hi": "आयत", "en": "Rectangle"},
-            {"hi": "समलंब", "en": "Trapezium"},
-            {"hi": "पतंग", "en": "Kite"}
+            {"hi": "sin A", "en": "sin A"},
+            {"hi": "tan A", "en": "tan A"},
+            {"hi": "cos A", "en": "cos A"},
+            {"hi": "sec A", "en": "sec A"}
           ],
-          "answer": {"hi": "आयत", "en": "Rectangle"}
+          "answer": {"hi": "cos A", "en": "cos A"}
         },
         {
           "q": {
-            "hi": "एक समांतर चतुर्भुज जिसकी सभी भुजाएँ बराबर हों, क्या कहलाता है?",
-            "en": "A parallelogram with all sides equal is called?"
+            "hi": "समकोण त्रिभुज ABC में, कोण A का स्पर्शज्या (tangent of angle A) निम्नलिखित में से किस अनुपात के बराबर होता है?",
+            "en": "In a right triangle ABC, the tangent of angle A is equal to which of the following ratios?"
           },
           "options": [
-            {"hi": "आयत", "en": "Rectangle"},
-            {"hi": "समचतुर्भुज", "en": "Rhombus"},
-            {"hi": "समलंब", "en": "Trapezium"},
-            {"hi": "वर्ग", "en": "Square"}
+            {"hi": "कोण A की सम्मुख भुजा / कोण A की संलग्न भुजा", "en": "Side opposite to angle A / Side adjacent to angle A"},
+            {"hi": "कोण A की संलग्न भुजा / कोण A की सम्मुख भुजा", "en": "Side adjacent to angle A / Side opposite to angle A"},
+            {"hi": "कर्ण / कोण A की संलग्न भुजा", "en": "Hypotenuse / Side adjacent to angle A"},
+            {"hi": "कोण A की सम्मुख भुजा / कर्ण", "en": "Side opposite to angle A / Hypotenuse"}
           ],
-          "answer": {"hi": "समचतुर्भुज", "en": "Rhombus"}
+          "answer": {"hi": "कोण A की सम्मुख भुजा / कोण A की संलग्न भुजा", "en": "Side opposite to angle A / Side adjacent to angle A"}
         },
         {
           "q": {
-            "hi": "एक आयत जिसकी सभी भुजाएँ बराबर हों, क्या कहलाता है?",
-            "en": "A rectangle with all sides equal is called?"
+            "hi": "निम्नलिखित में से कौन सा त्रिकोणमितीय अनुपात $\\sin A$ का व्युत्क्रम (reciprocal) होता है?",
+            "en": "Which of the following trigonometric ratios is the reciprocal of $\\sin A$?"
           },
           "options": [
-            {"hi": "समचतुर्भुज", "en": "Rhombus"},
-            {"hi": "वर्ग", "en": "Square"},
-            {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"},
-            {"hi": "समलंब", "en": "Trapezium"}
+            {"hi": "sec A", "en": "sec A"},
+            {"hi": "cosec A", "en": "cosec A"},
+            {"hi": "cot A", "en": "cot A"},
+            {"hi": "cos A", "en": "cos A"}
           ],
-          "answer": {"hi": "वर्ग", "en": "Square"}
+          "answer": {"hi": "cosec A", "en": "cosec A"}
         },
         {
           "q": {
-            "hi": "वह चतुर्भुज जिसकी सम्मुख भुजाओं का केवल एक युग्म समांतर हो, क्या कहलाता है?",
-            "en": "A quadrilateral in which only one pair of opposite sides is parallel is called?"
+            "hi": "अनुपात $\\frac{\\sin A}{\\cos A}$ निम्नलिखित में से किस त्रिकोणमितीय अनुपात के बराबर प्राप्त होता है?",
+            "en": "The ratio $\\frac{\\sin A}{\\cos A}$ is equal to which of the following trigonometric ratios?"
           },
           "options": [
-            {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"},
-            {"hi": "समलंब", "en": "Trapezium"},
-            {"hi": "आयत", "en": "Rectangle"},
-            {"hi": "वर्ग", "en": "Square"}
+            {"hi": "cot A", "en": "cot A"},
+            {"hi": "tan A", "en": "tan A"},
+            {"hi": "sec A", "en": "sec A"},
+            {"hi": "cosec A", "en": "cosec A"}
           ],
-          "answer": {"hi": "समलंब", "en": "Trapezium"}
+          "answer": {"hi": "tan A", "en": "tan A"}
         },
         {
           "q": {
-            "hi": "एक चतुर्भुज जिसमें आसन्न भुजाओं के दो युग्म बराबर हों, क्या कहलाता है?",
-            "en": "A quadrilateral in which two pairs of adjacent sides are equal is called?"
+            "hi": "यदि किसी समकोण त्रिभुज में $\\tan A = \\frac{4}{3}$ दिया हो, तो कोण A के सम्मुख भुजा और संलग्न भुजा का अनुपात क्या होगा?",
+            "en": "If $\\tan A = \\frac{4}{3}$ is given in a right triangle, what will be the ratio of the side opposite to angle A to the side adjacent to angle A?"
           },
           "options": [
-            {"hi": "समचतुर्भुज", "en": "Rhombus"},
-            {"hi": "पतंग", "en": "Kite"},
-            {"hi": "आयत", "en": "Rectangle"},
-            {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"}
+            {"hi": "3 : 4", "en": "3 : 4"},
+            {"hi": "4 : 3", "en": "4 : 3"},
+            {"hi": "4 : 5", "en": "4 : 5"},
+            {"hi": "5 : 3", "en": "5 : 3"}
           ],
-          "answer": {"hi": "पतंग", "en": "Kite"}
+          "answer": {"hi": "4 : 3", "en": "4 : 3"}
         },
         {
           "q": {
-            "hi": "क्या एक वर्ग एक आयत भी है?",
-            "en": "Is a square also a rectangle?"
+            "hi": "चिह्न $\\sin A$ का वास्तविक अर्थ क्या होता है, क्या यह 'sin' और 'A' का गुणनफल होता है?",
+            "en": "What is the actual meaning of the symbol $\\sin A$, is it the product of 'sin' and 'A'?"
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल कभी-कभी", "en": "Only sometimes"},
-            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"}
+            {"hi": "हाँ, यह sin और A का गुणनफल है", "en": "Yes, it is the product of sin and A"},
+            {"hi": "नहीं, यह कोण A का ज्या (sine) निरूपित करता है, पृथक करने पर इसका कोई अर्थ नहीं है", "en": "No, it represents the sine of angle A; separated, it has no meaning"},
+            {"hi": "यह एक बीजगणितीय चर है", "en": "It is an algebraic variable"},
+            {"hi": "यह त्रिभुज के क्षेत्रफल का सूत्र है", "en": "It is the formula for the area of a triangle"}
           ],
-          "answer": {"hi": "हाँ", "en": "Yes"}
-        },
-        {
-          "q": {
-            "hi": "क्या एक समांतर चतुर्भुज एक समलंब (Trapezium) भी होता है?",
-            "en": "Is a parallelogram also a trapezium?"
-          },
-          "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "नहीं, क्योंकि भुजाएँ बराबर नहीं होतीं", "en": "No, because sides are not equal"},
-            {"hi": "केवल यदि वह आयत हो", "en": "Only if it is a rectangle"}
-          ],
-          "answer": {"hi": "हाँ", "en": "Yes"}
+          "answer": {"hi": "नहीं, यह कोण A का ज्या (sine) निरूपित करता है, पृथक करने पर इसका कोई अर्थ नहीं है", "en": "No, it represents the sine of angle A; separated, it has no meaning"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "समांतर चतुर्भुज का एक विकर्ण उसे कितने सर्वांगसम त्रिभुजों में विभाजित करता है?",
-            "en": "Into how many congruent triangles does a diagonal of a parallelogram divide it?"
+            "hi": "एक समकोण त्रिभुज में कर्ण हमेशा शेष दो भुजाओं से कैसा होता है, जिसके कारण $\\sin A$ या $\\cos A$ का मान हमेशा 1 से कम (या विशेष स्थिति में 1 के बराबर) होता है?",
+            "en": "In a right triangle, how is the hypotenuse always compared to the other two sides, because of which the value of $\\sin A$ or $\\cos A$ is always less than 1 (or equal to 1 in special cases)?"
           },
           "options": [
-            {"hi": "तीन", "en": "Three"},
-            {"hi": "दो", "en": "Two"},
-            {"hi": "चार", "en": "Four"},
-            {"hi": "एक भी नहीं", "en": "None"}
+            {"hi": "छोटा होता है", "en": "Smaller"},
+            {"hi": "बड़ा होता है (Greater)", "en": "Greater"},
+            {"hi": "बराबर होता है", "en": "Equal"},
+            {"hi": "आधा होता है", "en": "Half"}
           ],
-          "answer": {"hi": "दो", "en": "Two"}
+          "answer": {"hi": "बड़ा होता है (Greater)", "en": "Greater"}
         },
         {
           "q": {
-            "hi": "एक समांतर चतुर्भुज में सम्मुख भुजाएँ कैसी होती हैं?",
-            "en": "In a parallelogram, opposite sides are?"
+            "hi": "यदि समकोण त्रिभुज ABC में $\\sin A = \\frac{3}{5}$ हो, तो पाइथागोरस प्रमेय की सहायता से $\\cos A$ का मान क्या प्राप्त होगा?",
+            "en": "If $\\sin A = \\frac{3}{5}$ in a right-angled triangle ABC, what will be the value of $\\cos A$ with the help of Pythagoras theorem?"
           },
           "options": [
-            {"hi": "असमान", "en": "Unequal"},
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "लंबवत", "en": "Perpendicular"},
-            {"hi": "शून्य", "en": "Zero"}
+            {"hi": "4 / 5", "en": "4 / 5"},
+            {"hi": "5 / 4", "en": "5 / 4"},
+            {"hi": "3 / 4", "en": "3 / 4"},
+            {"hi": "4 / 3", "en": "4 / 3"}
           ],
-          "answer": {"hi": "बराबर", "en": "Equal"}
+          "answer": {"hi": "4 / 5", "en": "4 / 5"}
         },
         {
           "q": {
-            "hi": "एक समांतर चतुर्भुज में सम्मुख कोण कैसे होते हैं?",
-            "en": "In a parallelogram, opposite angles are?"
+            "hi": "यदि $15\\cot A = 8$ दिया गया हो, तो $\\tan A$ का सीधा मान व्युत्क्रम संबंध से क्या होगा?",
+            "en": "If $15\\cot A = 8$ is given, what will be the direct value of $\\tan A$ from the reciprocal relation?"
           },
           "options": [
-            {"hi": "पूरक", "en": "Complementary"},
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "असमान", "en": "Unequal"},
-            {"hi": "90°"}
+            {"hi": "8 / 15", "en": "8 / 15"},
+            {"hi": "15 / 8", "en": "15 / 8"},
+            {"hi": "17 / 8", "en": "17 / 8"},
+            {"hi": "8 / 17", "en": "8 / 17"}
           ],
-          "answer": {"hi": "बराबर", "en": "Equal"}
+          "answer": {"hi": "15 / 8", "en": "15 / 8"}
         },
         {
           "q": {
-            "hi": "समांतर चतुर्भुज के विकर्ण एक-दूसरे को क्या करते हैं?",
-            "en": "The diagonals of a parallelogram _______ each other."
+            "hi": "समकोण त्रिभुज ABC में जिसका कोण B समकोण है, यदि $AB = 24\\text{ cm}$ और $BC = 7\\text{ cm}$ हो, तो कर्ण AC की लंबाई क्या होगी?",
+            "en": "In a right triangle ABC, right-angled at B, if $AB = 24\\text{ cm}$ and $BC = 7\\text{ cm}$, what will be the length of the hypotenuse AC?"
           },
           "options": [
-            {"hi": "काटते नहीं हैं", "en": "Do not intersect"},
-            {"hi": "समद्विभाजित करते हैं", "en": "Bisect"},
-            {"hi": "तिगुना करते हैं", "en": "Triple"},
-            {"hi": "लंब होते हैं", "en": "Are perpendicular"}
+            {"hi": "25 cm", "en": "25 cm"},
+            {"hi": "31 cm", "en": "31 cm"},
+            {"hi": "20 cm", "en": "20 cm"},
+            {"hi": "17 cm", "en": "17 cm"}
           ],
-          "answer": {"hi": "समद्विभाजित करते हैं", "en": "Bisect"}
+          "answer": {"hi": "25 cm", "en": "25 cm"}
         },
         {
           "q": {
-            "hi": "यदि एक चतुर्भुज की सम्मुख भुजाएँ बराबर हों, तो वह निश्चित रूप से क्या होगा?",
-            "en": "If opposite sides of a quadrilateral are equal, then it is certainly a?"
+            "hi": "उपरोक्त प्रश्न के आधार पर ($AB=24, BC=7, AC=25$), कोण C के लिए $\\sin C$ का मान क्या होगा?",
+            "en": "Based on the above question ($AB=24, BC=7, AC=25$), what will be the value of $\\sin C$ for angle C?"
           },
           "options": [
-            {"hi": "समलंब", "en": "Trapezium"},
-            {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"},
-            {"hi": "पतंग", "en": "Kite"},
-            {"hi": "विषमबाहु चतुर्भुज", "en": "Scalene quadrilateral"}
+            {"hi": "7 / 25", "en": "7 / 25"},
+            {"hi": "24 / 25", "en": "24 / 25"},
+            {"hi": "24 / 7", "en": "24 / 7"},
+            {"hi": "7 / 24", "en": "7 / 24"}
           ],
-          "answer": {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"}
+          "answer": {"hi": "24 / 25", "en": "24 / 25"}
         },
         {
           "q": {
-            "hi": "आयत के विकर्ण एक-दूसरे को समद्विभाजित करते हैं और वे क्या होते हैं?",
-            "en": "Diagonals of a rectangle bisect each other and are?"
+            "hi": "एक समकोण त्रिभुज PQR में जिसका कोण Q समकोण है, यदि $PQ = 12\\text{ cm}$ और $PR = 13\\text{ cm}$ हो, तो $\\tan P - \\cot R$ का मान क्या होगा?",
+            "en": "In a right triangle PQR right-angled at Q, if $PQ = 12\\text{ cm}$ and $PR = 13\\text{ cm}$, what will be the value of $\\tan P - \\cot R$?"
           },
           "options": [
-            {"hi": "असमान", "en": "Unequal"},
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "शून्य", "en": "Zero"},
-            {"hi": "लंब", "en": "Perpendicular"}
+            {"hi": "1", "en": "1"},
+            {"hi": "0", "en": "0"},
+            {"hi": "5 / 12", "en": "5 / 12"},
+            {"hi": "12 / 5", "en": "12 / 5"}
           ],
-          "answer": {"hi": "बराबर", "en": "Equal"}
+          "answer": {"hi": "0", "en": "0"}
         },
         {
           "q": {
-            "hi": "समचतुर्भुज (Rhombus) के विकर्ण परस्पर किस कोण पर समद्विभाजित करते हैं?",
-            "en": "At what angle do the diagonals of a rhombus bisect each other?"
+            "hi": "यदि $\\sec \\theta = \\frac{13}{12}$ हो, तो $\\cos \\theta$ का मान क्या होगा?",
+            "en": "If $\\sec \\theta = \\frac{13}{12}$, what will be the value of $\\cos \\theta$?"
           },
           "options": [
-            {"hi": "45°", "en": "45°"},
-            {"hi": "60°", "en": "60°"},
-            {"hi": "90° (समकोण)", "en": "90° (Right angle)"},
-            {"hi": "180°", "en": "180°"}
+            {"hi": "12 / 13", "en": "12 / 13"},
+            {"hi": "5 / 13", "en": "5 / 13"},
+            {"hi": "13 / 5", "en": "13 / 5"},
+            {"hi": "5 / 12", "en": "5 / 12"}
           ],
-          "answer": {"hi": "90° (समकोण)", "en": "90° (Right angle)"}
+          "answer": {"hi": "12 / 13", "en": "12 / 13"}
         },
         {
           "q": {
-            "hi": "किस आकृति के विकर्ण परस्पर समकोण पर समद्विभाजित करते हैं और बराबर भी होते हैं?",
-            "en": "The diagonals of which figure bisect each other at right angles and are also equal?"
+            "hi": "यदि कोण A और कोण B ऐसे न्यूनकोण (acute angles) हों जहाँ $\\cos A = \\cos B$ है, तो दोनों कोणों के बीच क्या संबंध होता है?",
+            "en": "If angle A and angle B are acute angles such that $\\cos A = \\cos B$, then what is the relation between the two angles?"
           },
           "options": [
-            {"hi": "आयत", "en": "Rectangle"},
-            {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"},
-            {"hi": "वर्ग", "en": "Square"},
-            {"hi": "समलंब", "en": "Trapezium"}
+            {"hi": "\\angle A > \\angle B", "en": "\\angle A > \\angle B"},
+            {"hi": "\\angle A < \\angle B", "en": "\\angle A < \\angle B"},
+            {"hi": "\\angle A = \\angle B", "en": "\\angle A = \\angle B"},
+            {"hi": "\\angle A + \\angle B = 90^\\circ", "en": "\\angle A + \\angle B = 90^\\circ"}
           ],
-          "answer": {"hi": "वर्ग", "en": "Square"}
+          "answer": {"hi": "\\angle A = \\angle B", "en": "\\angle A = \\angle B"}
         },
         {
           "q": {
-            "hi": "समांतर चतुर्भुज के आसन्न कोणों का योग कितना होता है?",
-            "en": "What is the sum of adjacent angles of a parallelogram?"
+            "hi": "यदि $\\cot \\theta = \\frac{7}{8}$ हो, तो $\\tan^2 \\theta$ का मान क्या होगा?",
+            "en": "If $\\cot \\theta = \\frac{7}{8}$, what will be the value of $\\tan^2 \\theta$?"
           },
           "options": [
-            {"hi": "90°", "en": "90°"},
-            {"hi": "180°", "en": "180°"},
-            {"hi": "270°", "en": "270°"},
-            {"hi": "360°", "en": "360°"}
+            {"hi": "49 / 64", "en": "49 / 64"},
+            {"hi": "64 / 49", "en": "64 / 49"},
+            {"hi": "8 / 7", "en": "8 / 7"},
+            {"hi": "1 / 2", "en": "1 / 2"}
           ],
-          "answer": {"hi": "180°", "en": "180°"}
+          "answer": {"hi": "64 / 49", "en": "64 / 49"}
         },
         {
           "q": {
-            "hi": "यदि एक समांतर चतुर्भुज का एक कोण 90° हो, तो वह क्या बन जाता है?",
-            "en": "If one angle of a parallelogram is 90°, what does it become?"
+            "hi": "क्या किसी भी कोण $\\theta$ के लिए $\\sin \\theta = \\frac{4}{3}$ होना संभव है? (संकेत: कर्ण की लंबाई की तुलना करें)",
+            "en": "Is it possible for $\\sin \\theta = \\frac{4}{3}$ for any angle $\\theta$? (Hint: compare the length of the hypotenuse)"
           },
           "options": [
-            {"hi": "समचतुर्भुज", "en": "Rhombus"},
-            {"hi": "आयत", "en": "Rectangle"},
-            {"hi": "पतंग", "en": "Kite"},
-            {"hi": "समलंब", "en": "Trapezium"}
+            {"hi": "हाँ, यह संभव है", "en": "Yes, it is possible"},
+            {"hi": "नहीं, क्योंकि सम्मुख भुजा कर्ण से बड़ी नहीं हो सकती (यह असत्य है)", "en": "No, because the opposite side cannot be greater than the hypotenuse (it is false)"},
+            {"hi": "केवल समबाहु त्रिभुज में संभव है", "en": "Only possible in an equilateral triangle"},
+            {"hi": "जानकारी अधूरी है", "en": "Information is incomplete"}
           ],
-          "answer": {"hi": "आयत", "en": "Rectangle"}
+          "answer": {"hi": "नहीं, क्योंकि सम्मुख भुजा कर्ण से बड़ी नहीं हो सकती (यह असत्य है)", "en": "No, because the opposite side cannot be greater than the hypotenuse (it is false)"}
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "मध्य-बिंदु प्रमेय (Mid-point Theorem) के अनुसार, त्रिभुज की दो भुजाओं के मध्य-बिंदुओं को मिलाने वाला रेखाखंड तीसरी भुजा के कैसा होता है?",
-            "en": "According to Mid-point Theorem, the line segment joining the mid-points of two sides of a triangle is _______ to the third side?"
+            "hi": "ज्यामिति के अनुसार, कोण $45^\\circ$ के लिए $\\sin 45^\\circ$ का सटीक मान क्या होता है?",
+            "en": "According to geometry, what is the exact value of $\\sin 45^\\circ$ for angle $45^\\circ$?"
           },
           "options": [
-            {"hi": "लंब", "en": "Perpendicular"},
-            {"hi": "समांतर", "en": "Parallel"},
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "तिरछा", "en": "Oblique"}
+            {"hi": "1", "en": "1"},
+            {"hi": "1 / 2", "en": "1 / 2"},
+            {"hi": "1 / \\sqrt{2}", "en": "1 / \\sqrt{2}"},
+            {"hi": "\\sqrt{3} / 2", "en": "\\sqrt{3} / 2"}
           ],
-          "answer": {"hi": "समांतर", "en": "Parallel"}
+          "answer": {"hi": "1 / \\sqrt{2}", "en": "1 / \\sqrt{2}"}
         },
         {
           "q": {
-            "hi": "मध्य-बिंदु प्रमेय के अनुसार, त्रिभुज की दो भुजाओं के मध्य-बिंदुओं को मिलाने वाला रेखाखंड तीसरी भुजा का कितना होता है?",
-            "en": "According to Mid-point Theorem, the line segment joining the mid-points of two sides of a triangle is _______ of the third side?"
+            "hi": "$\\cos 45^\\circ$ का मान निम्नलिखित में से किसके बराबर होता है?",
+            "en": "The value of $\\cos 45^\\circ$ is equal to which of the following?"
           },
           "options": [
-            {"hi": "दुगुना", "en": "Double"},
-            {"hi": "तिगुना", "en": "Triple"},
-            {"hi": "आधा", "en": "Half"},
-            {"hi": "बराबर", "en": "Equal"}
+            {"hi": "1 / 2", "en": "1 / 2"},
+            {"hi": "1 / \\sqrt{2}", "en": "1 / \\sqrt{2}"},
+            {"hi": "\\sqrt{3} / 2", "en": "\\sqrt{3} / 2"},
+            {"hi": "0", "en": "0"}
           ],
-          "answer": {"hi": "आधा", "en": "Half"}
+          "answer": {"hi": "1 / \\sqrt{2}", "en": "1 / \\sqrt{2}"}
         },
         {
           "q": {
-            "hi": "एक समांतर चतुर्भुज की सम्मुख भुजाओं के मध्य-बिंदुओं को मिलाने वाला रेखाखंड उसे कितने समांतर चतुर्भुजों में बांटता है?",
-            "en": "The line segment joining the mid-points of the opposite sides of a parallelogram divides it into how many parallelograms?"
+            "hi": "स्पर्शज्या $45^\\circ$ अर्थात् $\\tan 45^\\circ$ का संख्यात्मक मान क्या होता है?",
+            "en": "What is the numerical value of tangent $45^\\circ$, i.e., $\\tan 45^\\circ$?"
           },
           "options": [
-            {"hi": "दो", "en": "Two"},
-            {"hi": "तीन", "en": "Three"},
-            {"hi": "चार", "en": "Four"},
-            {"hi": "एक", "en": "One"}
+            {"hi": "0", "en": "0"},
+            {"hi": "1", "en": "1"},
+            {"hi": "\\sqrt{3}", "en": "\\sqrt{3}"},
+            {"hi": "1 / \\sqrt{3}", "en": "1 / \\sqrt{3}"}
           ],
-          "answer": {"hi": "दो", "en": "Two"}
+          "answer": {"hi": "1", "en": "1"}
         },
         {
           "q": {
-            "hi": "किसी चतुर्भुज की भुजाओं के मध्य-बिंदुओं को उसी क्रम में मिलाने पर बनी आकृति क्या होती है?",
-            "en": "What is the figure formed by joining the mid-points of the sides of a quadrilateral in order?"
+            "hi": "कोण $30^\\circ$ के लिए $\\sin 30^\\circ$ का मान क्या होता है?",
+            "en": "What is the value of $\\sin 30^\\circ$ for the angle $30^\\circ$?"
           },
           "options": [
-            {"hi": "आयत", "en": "Rectangle"},
-            {"hi": "वर्ग", "en": "Square"},
-            {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"},
-            {"hi": "समलंब", "en": "Trapezium"}
+            {"hi": "1 / 2", "en": "1 / 2"},
+            {"hi": "\\sqrt{3} / 2", "en": "\\sqrt{3} / 2"},
+            {"hi": "1 / \\sqrt{2}", "en": "1 / \\sqrt{2}"},
+            {"hi": "1", "en": "1"}
           ],
-          "answer": {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"}
+          "answer": {"hi": "1 / 2", "en": "1 / 2"}
         },
         {
           "q": {
-            "hi": "यदि समांतर चतुर्भुज के विकर्ण बराबर हों, तो वह क्या होगा?",
-            "en": "If the diagonals of a parallelogram are equal, then it is a?"
+            "hi": "कोण $60^\\circ$ के लिए $\\sin 60^\\circ$ का मान क्या प्राप्त होता है?",
+            "en": "What value is obtained for $\\sin 60^\\circ$ for the angle $60^\\circ$?"
           },
           "options": [
-            {"hi": "समचतुर्भुज", "en": "Rhombus"},
-            {"hi": "आयत", "en": "Rectangle"},
-            {"hi": "समलंब", "en": "Trapezium"},
-            {"hi": "पतंग", "en": "Kite"}
+            {"hi": "1 / 2", "en": "1 / 2"},
+            {"hi": "1 / \\sqrt{2}", "en": "1 / \\sqrt{2}"},
+            {"hi": "\\sqrt{3} / 2", "en": "\\sqrt{3} / 2"},
+            {"hi": "अपरिभाषित", "en": "Not defined"}
           ],
-          "answer": {"hi": "आयत", "en": "Rectangle"}
+          "answer": {"hi": "\\sqrt{3} / 2", "en": "\\sqrt{3} / 2"}
         },
         {
           "q": {
-            "hi": "समलंब चतुर्भुज (Trapezium) के कितने भुजाओं के युग्म समांतर होते हैं?",
-            "en": "How many pairs of sides of a trapezium are parallel?"
+            "hi": "$\\tan 30^\\circ$ का मान क्या होता है?",
+            "en": "What is the value of $\\tan 30^\\circ$?"
           },
           "options": [
-            {"hi": "दो", "en": "Two"},
-            {"hi": "एक", "en": "One"},
-            {"hi": "चार", "en": "Four"},
-            {"hi": "शून्य", "en": "Zero"}
+            {"hi": "\\sqrt{3}", "en": "\\sqrt{3}"},
+            {"hi": "1 / \\sqrt{3}", "en": "1 / \\sqrt{3}"},
+            {"hi": "1", "en": "1"},
+            {"hi": "0", "en": "0"}
           ],
-          "answer": {"hi": "एक", "en": "One"}
+          "answer": {"hi": "1 / \\sqrt{3}", "en": "1 / \\sqrt{3}"}
         },
         {
           "q": {
-            "hi": "यदि एक चतुर्भुज का प्रत्येक सम्मुख कोण बराबर हो, तो वह क्या है?",
-            "en": "If every opposite angle of a quadrilateral is equal, then it is a?"
+            "hi": "$\\tan 60^\\circ$ का मान निम्नलिखित में से क्या होगा?",
+            "en": "Which of the following will be the value of $\\tan 60^\\circ$?"
           },
           "options": [
-            {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"},
-            {"hi": "समलंब", "en": "Trapezium"},
-            {"hi": "विषमबाहु चतुर्भुज", "en": "Scalene quadrilateral"},
-            {"hi": "पतंग", "en": "Kite"}
+            {"hi": "1 / \\sqrt{3}", "en": "1 / \\sqrt{3}"},
+            {"hi": "\\sqrt{3}", "en": "\\sqrt{3}"},
+            {"hi": "1", "en": "1"},
+            {"hi": "अपरिभाषित", "en": "Not defined"}
           ],
-          "answer": {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"}
+          "answer": {"hi": "\\sqrt{3}", "en": "\\sqrt{3}"}
         },
         {
           "q": {
-            "hi": "एक वर्ग के विकर्ण एक-दूसरे को कहाँ समद्विभाजित करते हैं?",
-            "en": "Where do the diagonals of a square bisect each other?"
+            "hi": "$\\cos 0^\\circ$ और $\\sin 90^\\circ$ का मान क्या होता है?",
+            "en": "What is the value of $\\cos 0^\\circ$ and $\\sin 90^\\circ$?"
           },
           "options": [
-            {"hi": "शिखर पर", "en": "At the vertex"},
-            {"hi": "समकोण पर", "en": "At right angles"},
-            {"hi": "न्यूनकोण पर", "en": "At acute angles"},
-            {"hi": "अधिककोण पर", "en": "At obtuse angles"}
+            {"hi": "0", "en": "0"},
+            {"hi": "1", "en": "1"},
+            {"hi": "1 / 2", "en": "1 / 2"},
+            {"hi": "अपरिभाषित", "en": "Not defined"}
           ],
-          "answer": {"hi": "समकोण पर", "en": "At right angles"}
+          "answer": {"hi": "1", "en": "1"}
         },
         {
           "q": {
-            "hi": "समांतर चतुर्भुज के विकर्ण उसे कितने समान क्षेत्रफल वाले त्रिभुजों में बांटते हैं?",
-            "en": "How many equal area triangles does the diagonal of a parallelogram divide it into?"
+            "hi": "$\\tan 90^\\circ$ का मान सारणी में क्या दिया गया है?",
+            "en": "What is the value of $\\tan 90^\\circ$ given in the table?"
           },
           "options": [
-            {"hi": "दो", "en": "Two"},
-            {"hi": "तीन", "en": "Three"},
-            {"hi": "चार", "en": "Four"},
-            {"hi": "छह", "en": "Six"}
+            {"hi": "0", "en": "0"},
+            {"hi": "1", "en": "1"},
+            {"hi": "\\sqrt{3}", "en": "\\sqrt{3}"},
+            {"hi": "अपरिभाषित (Not defined)", "en": "Not defined"}
           ],
-          "answer": {"hi": "दो", "en": "Two"}
+          "answer": {"hi": "अपरिभाषित (Not defined)", "en": "Not defined"}
         },
         {
           "q": {
-            "hi": "त्रिभुज की एक भुजा के मध्य-बिंदु से दूसरी भुजा के समांतर खींची गई रेखा तीसरी भुजा को क्या करती है?",
-            "en": "A line drawn through the mid-point of one side of a triangle parallel to another side _______ the third side?"
+            "hi": "जैसे-जैसे कोण $\\theta$ का मान $0^\\circ$ से $90^\\circ$ की ओर बढ़ता है, वैसे-वैसे $\\cos \\theta$ के मान में क्या परिवर्तन होता है?",
+            "en": "As the value of angle $\\theta$ increases from $0^\\circ$ to $90^\\circ$, what change occurs in the value of $\\cos \\theta$?"
           },
           "options": [
-            {"hi": "काटती नहीं है", "en": "Does not intersect"},
-            {"hi": "समद्विभाजित करती है", "en": "Bisects"},
-            {"hi": "तिरछा काटती है", "en": "Intersects obliquely"},
-            {"hi": "लंब होती है", "en": "Is perpendicular"}
+            {"hi": "मान बढ़ता जाता है", "en": "The value increases"},
+            {"hi": "मान घटता जाता है (Decreases)", "en": "Decreases"},
+            {"hi": "मान स्थिर रहता है", "en": "The value remains constant"},
+            {"hi": "पहले घटता है फिर बढ़ता है", "en": "First decreases then increases"}
           ],
-          "answer": {"hi": "समद्विभाजित करती है", "en": "Bisects"}
+          "answer": {"hi": "मान घटता जाता है (Decreases)", "en": "Decreases"}
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "यदि एक चतुर्भुज के विकर्ण एक-दूसरे को समकोण पर समद्विभाजित करें, तो वह क्या है?",
-            "en": "If the diagonals of a quadrilateral bisect each other at right angles, then it is a?"
+            "hi": "व्यंजक $\\frac{2\\tan 30^\\circ}{1 + \\tan^2 30^\\circ}$ का मान निम्नलिखित में से किसके बराबर होगा?",
+            "en": "The value of the expression $\\frac{2\\tan 30^\\circ}{1 + \\tan^2 30^\\circ}$ will be equal to which of the following?"
           },
           "options": [
-            {"hi": "आयत", "en": "Rectangle"},
-            {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"},
-            {"hi": "समचतुर्भुज (Rhombus)", "en": "Rhombus"},
-            {"hi": "समलंब", "en": "Trapezium"}
+            {"hi": "sin 60^\\circ", "en": "sin 60^\\circ"},
+            {"hi": "cos 60^\\circ", "en": "cos 60^\\circ"},
+            {"hi": "tan 60^\\circ", "en": "tan 60^\\circ"},
+            {"hi": "sin 30^\\circ", "en": "sin 30^\\circ"}
           ],
-          "answer": {"hi": "समचतुर्भुज (Rhombus)", "en": "Rhombus"}
+          "answer": {"hi": "sin 60^\\circ", "en": "sin 60^\\circ"}
         },
         {
           "q": {
-            "hi": "समांतर चतुर्भुज के अंतः कोणों के समद्विभाजक क्या बनाते हैं?",
-            "en": "The bisectors of angles of a parallelogram form a?"
+            "hi": "व्यंजक $\\frac{1 - \\tan^2 45^\\circ}{1 + \\tan^2 45^\\circ}$ का मान क्या प्राप्त होगा?",
+            "en": "What value will be obtained for the expression $\\frac{1 - \\tan^2 45^\\circ}{1 + \\tan^2 45^\\circ}$?"
           },
           "options": [
-            {"hi": "वर्ग", "en": "Square"},
-            {"hi": "आयत", "en": "Rectangle"},
-            {"hi": "समचतुर्भुज", "en": "Rhombus"},
-            {"hi": "पतंग", "en": "Kite"}
+            {"hi": "tan 90^\\circ", "en": "tan 90^\\circ"},
+            {"hi": "1", "en": "1"},
+            {"hi": "sin 45^\\circ", "en": "sin 45^\\circ"},
+            {"hi": "0", "en": "0"}
           ],
-          "answer": {"hi": "आयत", "en": "Rectangle"}
+          "answer": {"hi": "0", "en": "0"}
         },
         {
           "q": {
-            "hi": "एक चतुर्भुज ABCD में, AB || CD और AD || BC है। यह क्या है?",
-            "en": "In a quadrilateral ABCD, AB || CD and AD || BC. What is it?"
+            "hi": "यदि $\\sin 2A = 2\\sin A$ तब सत्य होता है, जब $A$ किसके बराबर हो?",
+            "en": "The equation $\\sin 2A = 2\\sin A$ is true when $A$ is equal to?"
           },
           "options": [
-            {"hi": "समलंब", "en": "Trapezium"},
-            {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"},
-            {"hi": "पतंग", "en": "Kite"},
-            {"hi": "विषम चतुर्भुज", "en": "Scalene quadrilateral"}
+            {"hi": "0^\\circ", "en": "0^\\circ"},
+            {"hi": "30^\\circ", "en": "30^\\circ"},
+            {"hi": "45^\\circ", "en": "45^\\circ"},
+            {"hi": "60^\\circ", "en": "60^\\circ"}
           ],
-          "answer": {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"}
+          "answer": {"hi": "0^\\circ", "en": "0^\\circ"}
         },
         {
           "q": {
-            "hi": "पतंग (Kite) के विकर्ण एक-दूसरे पर कैसे होते हैं?",
-            "en": "How are the diagonals of a kite to each other?"
+            "hi": "यदि $\\tan(A + B) = \\sqrt{3}$ और \\tan(A - B) = \\frac{1}{\\sqrt{3}} हो (जहाँ $A > B$), तो कोण A और B के मान क्रमशः क्या होंगे?",
+            "en": "If $\\tan(A + B) = \\sqrt{3}$ and $\\tan(A - B) = \\frac{1}{\\sqrt{3}}$ (where $A > B$), what will be the values of angles A and B respectively?"
           },
           "options": [
-            {"hi": "समांतर", "en": "Parallel"},
-            {"hi": "लंब (Perpendicular)", "en": "Perpendicular"},
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "संपाती", "en": "Coincident"}
+            {"hi": "45^\\circ और 15^\\circ", "en": "45^\\circ and 15^\\circ"},
+            {"hi": "60^\\circ और 30^\\circ", "en": "60^\\circ and 30^\\circ"},
+            {"hi": "30^\\circ और 15^\\circ", "en": "30^\\circ and 15^\\circ"},
+            {"hi": "45^\\circ और 30^\\circ", "en": "45^\\circ and 30^\\circ"}
           ],
-          "answer": {"hi": "लंब (Perpendicular)", "en": "Perpendicular"}
+          "answer": {"hi": "45^\\circ और 15^\\circ", "en": "45^\\circ and 15^\\circ"}
         },
         {
           "q": {
-            "hi": "आयत का प्रत्येक कोण कितने अंश का होता है?",
-            "en": "What is the measure of each angle of a rectangle?"
+            "hi": "पूरक कोणों (complementary angles) के त्रिकोणमितीय अनुपातों के अनुसार, $\\sin(90^\\circ - A)$ किसके बराबर होता है?",
+            "en": "According to the trigonometric ratios of complementary angles, what is $\\sin(90^\\circ - A)$ equal to?"
           },
           "options": [
-            {"hi": "60°", "en": "60°"},
-            {"hi": "90°", "en": "90°"},
-            {"hi": "120°", "en": "120°"},
-            {"hi": "180°", "en": "180°"}
+            {"hi": "sin A", "en": "sin A"},
+            {"hi": "cos A", "en": "cos A"},
+            {"hi": "tan A", "en": "tan A"},
+            {"hi": "-cos A", "en": "-cos A"}
           ],
-          "answer": {"hi": "90°", "en": "90°"}
+          "answer": {"hi": "cos A", "en": "cos A"}
         },
         {
           "q": {
-            "hi": "चतुर्भुज के तीन कोण 75°, 90° और 75° हैं। चौथा कोण क्या होगा?",
-            "en": "Three angles of a quadrilateral are 75°, 90°, and 75°. What is the fourth angle?"
+            "hi": "पूरक कोणों के नियमानुसार, $\\tan(90^\\circ - A)$ का मान क्या होता है?",
+            "en": "According to the rules of complementary angles, what is the value of $\\tan(90^\\circ - A)$?"
           },
           "options": [
-            {"hi": "90°", "en": "90°"},
-            {"hi": "95°", "en": "95°"},
-            {"hi": "105°", "en": "105°"},
-            {"hi": "120°", "en": "120°"}
+            {"hi": "cot A", "en": "cot A"},
+            {"hi": "tan A", "en": "tan A"},
+            {"hi": "sec A", "en": "sec A"},
+            {"hi": "cosec A", "en": "cosec A"}
           ],
-          "answer": {"hi": "120°", "en": "120°"}
+          "answer": {"hi": "cot A", "en": "cot A"}
         },
         {
           "q": {
-            "hi": "समांतर चतुर्भुज ABCD में, यदि $\\angle A = 70^\\circ$ है, तो $\\angle B$ का मान क्या होगा?",
-            "en": "In parallelogram ABCD, if $\\angle A = 70^\\circ$, what is the value of $\\angle B$?"
+            "hi": "$\\sec(90^\\circ - A)$ का मान निम्नलिखित में से क्या प्राप्त होता है?",
+            "en": "Which of the following is obtained as the value of $\\sec(90^\\circ - A)$?"
           },
           "options": [
-            {"hi": "70°", "en": "70°"},
-            {"hi": "110°", "en": "110°"},
-            {"hi": "180°", "en": "180°"},
-            {"hi": "90°", "en": "90°"}
+            {"hi": "sec A", "en": "sec A"},
+            {"hi": "cosec A", "en": "cosec A"},
+            {"hi": "cos A", "en": "cos A"},
+            {"hi": "cot A", "en": "cot A"}
           ],
-          "answer": {"hi": "110°", "en": "110°"}
+          "answer": {"hi": "cosec A", "en": "cosec A"}
         },
         {
           "q": {
-            "hi": "समचतुर्भुज की सम्मुख भुजाओं के मध्य-बिंदुओं को मिलाने पर क्या प्राप्त होता है?",
-            "en": "What is obtained by joining the mid-points of the opposite sides of a rhombus?"
+            "hi": "व्यंजक $\\frac{\\tan 65^\\circ}{\\cot 25^\\circ}$ का मान पूरक कोण संबंध का उपयोग करके क्या होगा?",
+            "en": "What will be the value of the expression $\\frac{\\tan 65^\\circ}{\\cot 25^\\circ}$ using the complementary angle relation?"
           },
           "options": [
-            {"hi": "वर्ग", "en": "Square"},
-            {"hi": "आयत", "en": "Rectangle"},
-            {"hi": "समलंब", "en": "Trapezium"},
-            {"hi": "त्रिभुज", "en": "Triangle"}
+            {"hi": "0", "en": "0"},
+            {"hi": "1", "en": "1"},
+            {"hi": "\\code{tan 40^\\circ}", "en": "tan 40^\\circ"},
+            {"hi": "2", "en": "2"}
           ],
-          "answer": {"hi": "आयत", "en": "Rectangle"}
+          "answer": {"hi": "1", "en": "1"}
         },
         {
           "q": {
-            "hi": "किस चतुर्भुज के विकर्ण बराबर नहीं होते लेकिन एक-दूसरे को समकोण पर काटते हैं?",
-            "en": "Which quadrilateral's diagonals are not equal but bisect at right angles?"
+            "hi": "यदि $\\sin 3A = \\cos(A - 26^\\circ)$ हो, जहाँ $3A$ एक न्यूनकोण है, तो $A$ का मान क्या होगा?",
+            "en": "If $\\sin 3A = \\cos(A - 26^\\circ)$, where $3A$ is an acute angle, what will be the value of $A$?"
           },
           "options": [
-            {"hi": "वर्ग", "en": "Square"},
-            {"hi": "आयत", "en": "Rectangle"},
-            {"hi": "समचतुर्भुज", "en": "Rhombus"},
-            {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"}
+            {"hi": "29^\\circ", "en": "29^\\circ"},
+            {"hi": "30^\\circ", "en": "30^\\circ"},
+            {"hi": "26^\\circ", "en": "26^\\circ"},
+            {"hi": "35^\\circ", "en": "35^\\circ"}
           ],
-          "answer": {"hi": "समचतुर्भुज", "en": "Rhombus"}
+          "answer": {"hi": "29^\\circ", "en": "29^\\circ"}
         },
         {
           "q": {
-            "hi": "चतुर्भुज की भुजाओं के मध्य-बिंदुओं को मिलाने पर बना समांतर चतुर्भुज कब आयत होता है?",
-            "en": "When is the parallelogram formed by joining mid-points of sides of a quadrilateral a rectangle?"
+            "hi": "$\\cos 48^\\circ - \\sin 42^\\circ$ का संख्यात्मक मान क्या होगा?",
+            "en": "What will be the numerical value of $\\cos 48^\\circ - \\sin 42^\\circ$?"
           },
           "options": [
-            {"hi": "जब मूल चतुर्भुज समांतर चतुर्भुज हो", "en": "When the original is a parallelogram"},
-            {"hi": "जब मूल चतुर्भुज के विकर्ण बराबर हों", "en": "When original diagonals are equal"},
-            {"hi": "जब मूल चतुर्भुज के विकर्ण लंबवत हों", "en": "When original diagonals are perpendicular"},
-            {"hi": "जब वह वर्ग हो", "en": "When it is a square"}
+            {"hi": "1", "en": "1"},
+            {"hi": "0", "en": "0"},
+            {"hi": "2", "en": "2"},
+            {"hi": "-1", "en": "-1"}
           ],
-          "answer": {"hi": "जब मूल चतुर्भुज के विकर्ण लंबवत हों", "en": "When original diagonals are perpendicular"}
+          "answer": {"hi": "0", "en": "0"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "यदि चतुर्भुज की सम्मुख भुजाओं का एक युग्म बराबर और समांतर हो, तो वह क्या है?",
-            "en": "If one pair of opposite sides of a quadrilateral is equal and parallel, then it is a?"
+            "hi": "सर्वप्रथम सर्वसमिका (identity) के अनुसार, किसी भी कोण A के लिए $\\sin^2 A + \\cos^2 A$ का मान हमेशा किसके बराबर होता है?",
+            "en": "According to the first identity, for any angle A, the value of $\\sin^2 A + \\cos^2 A$ is always equal to?"
           },
           "options": [
-            {"hi": "समलंब", "en": "Trapezium"},
-            {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"},
-            {"hi": "आयत", "en": "Rectangle"},
-            {"hi": "वर्ग", "en": "Square"}
+            {"hi": "0", "en": "0"},
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "sec^2 A", "en": "sec^2 A"}
           ],
-          "answer": {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"}
+          "answer": {"hi": "1", "en": "1"}
         },
         {
           "q": {
-            "hi": "किसी समांतर चतुर्भुज की भुजाओं के मध्य-बिंदुओं को मिलाने से बनी आकृति क्या होती है?",
-            "en": "What is the figure formed by joining mid-points of sides of a parallelogram?"
+            "hi": "दूसरी त्रिकोणमितीय सर्वसमिका कौन सी है जो $0^\\circ \\le A < 90^\\circ$ के लिए सत्य है?",
+            "en": "Which is the second trigonometric identity true for $0^\\circ \\le A < 90^\\circ$?"
           },
           "options": [
-            {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"},
-            {"hi": "वर्ग", "en": "Square"},
-            {"hi": "समचतुर्भुज", "en": "Rhombus"},
-            {"hi": "पतंग", "en": "Kite"}
+            {"hi": "1 + tan^2 A = sec^2 A", "en": "1 + tan^2 A = sec^2 A"},
+            {"hi": "1 + cot^2 A = cosec^2 A", "en": "1 + cot^2 A = cosec^2 A"},
+            {"hi": "1 + sec^2 A = tan^2 A", "en": "1 + sec^2 A = tan^2 A"},
+            {"hi": "sin^2 A - cos^2 A = 1", "en": "sin^2 A - cos^2 A = 1"}
           ],
-          "answer": {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"}
+          "answer": {"hi": "1 + tan^2 A = sec^2 A", "en": "1 + tan^2 A = sec^2 A"}
         },
         {
           "q": {
-            "hi": "एक चतुर्भुज के कोण 3:5:9:13 के अनुपात में हैं। सबसे छोटा कोण क्या है?",
-            "en": "Angles of a quadrilateral are in ratio 3:5:9:13. What is the smallest angle?"
+            "hi": "तीसरी त्रिकोणमितीय सर्वसमिका $1 + \\cot^2 A = \\csc^2 A$ कोण A के किन मानों के लिए परिभाषित (वैध) होती है?",
+            "en": "For which values of angle A is the third trigonometric identity $1 + \\cot^2 A = \\csc^2 A$ defined (valid)?"
           },
           "options": [
-            {"hi": "12°", "en": "12°"},
-            {"hi": "36°", "en": "36°"},
-            {"hi": "48°", "en": "48°"},
-            {"hi": "60°", "en": "60°"}
+            {"hi": "केवल A = 0^\\circ पर", "en": "Only at A = 0^\\circ"},
+            {"hi": "0^\\circ < A \\le 90^\\circ के लिए", "en": "For 0^\\circ < A \\le 90^\\circ"},
+            {"hi": "सभी मानों के लिए जहाँ A = 90^\\circ हो", "en": "For all values where A = 90^\\circ"},
+            {"hi": "यह कभी वैध नहीं होती", "en": "It is never valid"}
           ],
-          "answer": {"hi": "36°", "en": "36°"}
+          "answer": {"hi": "0^\\circ < A \\le 90^\\circ के लिए", "en": "For 0^\\circ < A \\le 90^\\circ"}
         },
         {
           "q": {
-            "hi": "समचतुर्भुज (Rhombus) की भुजाओं के मध्य-बिंदुओं को मिलाने पर बनी आकृति कैसी होती है?",
-            "en": "The figure formed by joining mid-points of sides of a rhombus is?"
+            "hi": "व्यंजक $9\\sec^2 A - 9\\text{tan}^2 A$ का मान सर्वसमिका के अनुसार क्या होगा?",
+            "en": "What will be the value of the expression $9\\sec^2 A - 9\\text{tan}^2 A$ according to the identity?"
           },
           "options": [
-            {"hi": "वर्ग", "en": "Square"},
-            {"hi": "आयत", "en": "Rectangle"},
-            {"hi": "पतंग", "en": "Kite"},
-            {"hi": "समलंब", "en": "Trapezium"}
+            {"hi": "1", "en": "1"},
+            {"hi": "9", "en": "9"},
+            {"hi": "8", "en": "8"},
+            {"hi": "0", "en": "0"}
           ],
-          "answer": {"hi": "आयत", "en": "Rectangle"}
+          "answer": {"hi": "9", "en": "9"}
         },
         {
           "q": {
-            "hi": "क्या समलंब (Trapezium) के विकर्ण हमेशा बराबर होते हैं?",
-            "en": "Are diagonals of a trapezium always equal?"
+            "hi": "$(1 + \\tan \\theta + \\sec \\theta)(1 + \\cot \\theta - \\csc \\theta)$ को हल करने पर क्या मान प्राप्त होता है?",
+            "en": "What value is obtained on solving $(1 + \\tan \\theta + \\sec \\theta)(1 + \\cot \\theta - \\csc \\theta)$?"
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल समांतर चतुर्भुज में", "en": "Only in parallelograms"},
-            {"hi": "केवल समद्विबाहु समलंब में", "en": "Only in isosceles trapezium"}
+            {"hi": "0", "en": "0"},
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "-1", "en": "-1"}
           ],
-          "answer": {"hi": "नहीं", "en": "No"}
+          "answer": {"hi": "2", "en": "2"}
         },
         {
           "q": {
-            "hi": "त्रिभुज की किन्हीं दो भुजाओं के मध्य-बिंदुओं को मिलाने वाला रेखाखंड तीसरी भुजा का आधा होता है। यह कथन क्या कहलाता है?",
-            "en": "The segment joining mid-points of two sides of a triangle is half the third side. What is this called?"
+            "hi": "व्यंजक $(\\sec A + \\tan A)(1 - \\sin A)$ का सरलीकृत रूप निम्नलिखित में से क्या होगा?",
+            "en": "Which of the following will be the simplified form of the expression $(\\sec A + \\tan A)(1 - \\sin A)$?"
           },
           "options": [
-            {"hi": "पाइथागोरस प्रमेय", "en": "Pythagoras theorem"},
-            {"hi": "मध्य-बिंदु प्रमेय", "en": "Mid-point theorem"},
-            {"hi": "थेल्स प्रमेय", "en": "Thales theorem"},
-            {"hi": "यूलर प्रमेय", "en": "Euler theorem"}
+            {"hi": "sec A", "en": "sec A"},
+            {"hi": "sin A", "en": "sin A"},
+            {"hi": "cosec A", "en": "cosec A"},
+            {"hi": "cos A", "en": "cos A"}
           ],
-          "answer": {"hi": "मध्य-बिंदु प्रमेय", "en": "Mid-point theorem"}
+          "answer": {"hi": "cos A", "en": "cos A"}
         },
         {
           "q": {
-            "hi": "यदि समांतर चतुर्भुज के विकर्ण एक-दूसरे को समकोण पर काटें और बराबर हों, तो वह क्या है?",
-            "en": "If diagonals of a parallelogram bisect at right angles and are equal, then it is a?"
+            "hi": "$\\frac{1 + \\tan^2 A}{1 + \\cot^2 A}$ का मान किसके बराबर होता है?",
+            "en": "The value of $\\frac{1 + \\tan^2 A}{1 + \\cot^2 A}$ is equal to what?"
           },
           "options": [
-            {"hi": "आयत", "en": "Rectangle"},
-            {"hi": "समचतुर्भुज", "en": "Rhombus"},
-            {"hi": "वर्ग", "en": "Square"},
-            {"hi": "समलंब", "en": "Trapezium"}
+            {"hi": "sec^2 A", "en": "sec^2 A"},
+            {"hi": "-1", "en": "-1"},
+            {"hi": "cot^2 A", "en": "cot^2 A"},
+            {"hi": "tan^2 A", "en": "tan^2 A"}
           ],
-          "answer": {"hi": "वर्ग", "en": "Square"}
+          "answer": {"hi": "tan^2 A", "en": "tan^2 A"}
         },
         {
           "q": {
-            "hi": "आयत की भुजाओं के मध्य-बिंदुओं को मिलाने से कौन सी आकृति बनती है?",
-            "en": "Which figure is formed by joining mid-points of sides of a rectangle?"
+            "hi": "सर्वसमिका सिद्ध कीजिए: $(\\sin A + \\csc A)^2 + (\\cos A + \\sec A)^2$ का मान $7 + \\tan^2 A$ में क्या जोड़ने पर प्राप्त होता है?",
+            "en": "Prove the identity: The value of $(\\sin A + \\csc A)^2 + (\\cos A + \\sec A)^2$ is obtained by adding what to $7 + \\tan^2 A$?"
           },
           "options": [
-            {"hi": "वर्ग", "en": "Square"},
-            {"hi": "समचतुर्भुज (Rhombus)", "en": "Rhombus"},
-            {"hi": "समलंब", "en": "Trapezium"},
-            {"hi": "पतंग", "en": "Kite"}
+            {"hi": "cot^2 A", "en": "cot^2 A"},
+            {"hi": "sin^2 A", "en": "sin^2 A"},
+            {"hi": "cos^2 A", "en": "cos^2 A"},
+            {"hi": "1", "en": "1"}
           ],
-          "answer": {"hi": "समचतुर्भुज (Rhombus)", "en": "Rhombus"}
+          "answer": {"hi": "cot^2 A", "en": "cot^2 A"}
         },
         {
           "q": {
-            "hi": "किसी त्रिभुज के मध्य-बिंदुओं को मिलाने से बना त्रिभुज मूल त्रिभुज के क्षेत्रफल का कितना होता है?",
-            "en": "The triangle formed by joining mid-points is what fraction of the area of original triangle?"
+            "hi": "यदि किसी समकोण त्रिभुज के कोण A के लिए $\\sin A$ को $\\cot A$ के पदों में लिखना हो, तो सही व्यंजक क्या होगा?",
+            "en": "If $\\sin A$ is to be written in terms of $\\cot A$ for an angle A of a right triangle, what will be the correct expression?"
           },
           "options": [
-            {"hi": "आधा", "en": "Half"},
-            {"hi": "एक-तिहाई", "en": "One-third"},
-            {"hi": "एक-चौथाई", "en": "One-fourth"},
-            {"hi": "बराबर", "en": "Equal"}
+            {"hi": "\\frac{1}{\\sqrt{1 + \\cot^2 A}}", "en": "\\frac{1}{\\sqrt{1 + \\cot^2 A}}"},
+            {"hi": "\\sqrt{1 + \\cot^2 A}", "en": "\\sqrt{1 + \\cot^2 A}"},
+            {"hi": "\\frac{\\cot A}{\\sqrt{1 + \\cot^2 A}}", "en": "\\frac{\\cot A}{\\sqrt{1 + \\cot^2 A}}"},
+            {"hi": "1 + \\cot^2 A", "en": "1 + \\cot^2 A"}
           ],
-          "answer": {"hi": "एक-चौथाई", "en": "One-fourth"}
+          "answer": {"hi": "\\frac{1}{\\sqrt{1 + \\cot^2 A}}", "en": "\\frac{1}{\\sqrt{1 + \\cot^2 A}}"}
         },
         {
           "q": {
-            "hi": "वह समांतर चतुर्भुज जिसके विकर्ण बराबर हों लेकिन समकोण पर न काटें, क्या कहलाता है?",
-            "en": "The parallelogram whose diagonals are equal but do not bisect at right angles is?"
+            "hi": "त्रिकोणमिति के ऐतिहासिक विकास में, 5वीं शताब्दी ईस्वी में रचित किस प्रसिद्ध भारतीय ग्रंथ में सबसे पहले 'ज्या' (sine) और 'कोटिज्या' (cosine) के प्राचीन सूत्रों का विवरण मिलता है?",
+            "en": "In the historical development of trigonometry, which famous Indian text composed in the 5th century AD first contains descriptions of ancient formulas of 'Jya' (sine) and 'Kotijya' (cosine)?"
           },
           "options": [
-            {"hi": "आयत", "en": "Rectangle"},
-            {"hi": "समचतुर्भुज", "en": "Rhombus"},
-            {"hi": "वर्ग", "en": "Square"},
-            {"hi": "समलंब", "en": "Trapezium"}
+            {"hi": "सूर्य सिद्धांत (Surya Siddhanta) और आर्यभटीय", "en": "Surya Siddhanta and Aryabhatiya"},
+            {"hi": "लीलावती", "en": "Lilavati"},
+            {"hi": "ब्रह्मस्फुटसिद्धांत", "en": "Brahmasphutasiddhanta"},
+            {"hi": "बीजगणित", "en": "Bijaganita"}
           ],
-          "answer": {"hi": "आयत", "en": "Rectangle"}
+          "answer": {"hi": "सूर्य सिद्धांत (Surya Siddhanta) और आर्यभटीय", "en": "सूर्य सिद्धांत (Surya Siddhanta) और आर्यभटीय"}
         }
       ]
     },
