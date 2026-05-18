@@ -5962,661 +5962,661 @@
       "section1": [
         {
           "q": {
-            "hi": "एक तल पर उन सभी बिंदुओं का समूह जो तल के एक स्थिर बिंदु से एक स्थिर दूरी पर स्थित हों, क्या कहलाता है?",
-            "en": "The collection of all points in a plane, which are at a fixed distance from a fixed point in the plane, is called?"
+            "hi": "कक्षा IX के अध्ययन के अनुसार, एक तल के उन बिंदुओं का समूह जो एक नियत बिंदु से अचर दूरी पर होते हैं, क्या कहलाता है?",
+            "en": "According to Class IX study, the collection of all points in a plane, which are at a constant distance from a fixed point, is called what?"
           },
           "options": [
-            {"hi": "वर्ग", "en": "Square"},
-            {"hi": "वृत्त", "en": "Circle"},
             {"hi": "त्रिभुज", "en": "Triangle"},
-            {"hi": "रेखाखंड", "en": "Line segment"}
+            {"hi": "वर्ग", "en": "Square"},
+            {"hi": "वृत्त (Circle)", "en": "Circle"},
+            {"hi": "दीर्घवृत्त", "en": "Ellipse"}
           ],
-          "answer": {"hi": "वृत्त", "en": "Circle"}
+          "answer": {"hi": "वृत्त (Circle)", "en": "Circle"}
         },
         {
           "q": {
-            "hi": "वृत्त के स्थिर बिंदु को क्या कहा जाता है?",
-            "en": "What is the fixed point of the circle called?"
+            "hi": "यदि एक रेखा और एक वृत्त में कोई भी बिंदु उभयनिष्ठ (common) न हो, तो उस रेखा को वृत्त के सापेक्ष क्या कहते हैं?",
+            "en": "If a line and a circle have no common point, what is the line called with respect to the circle?"
           },
           "options": [
-            {"hi": "परिधि", "en": "Circumference"},
-            {"hi": "त्रिज्या", "en": "Radius"},
-            {"hi": "केंद्र", "en": "Center"},
+            {"hi": "छेदक रेखा", "en": "Secant line"},
+            {"hi": "स्पर्श रेखा", "en": "Tangent line"},
+            {"hi": "अप्रतिच्छेदी रेखा (Non-intersecting line)", "en": "Non-intersecting line"},
             {"hi": "जीवा", "en": "Chord"}
           ],
-          "answer": {"hi": "केंद्र", "en": "Center"}
+          "answer": {"hi": "अप्रतिच्छेदी रेखा (Non-intersecting line)", "en": "Non-intersecting line"}
         },
         {
           "q": {
-            "hi": "केंद्र को वृत्त के किसी बिंदु से मिलाने वाले रेखाखंड को क्या कहते हैं?",
-            "en": "The line segment joining the center to any point on the circle is called?"
+            "hi": "यदि एक रेखा और एक वृत्त में दो उभयनिष्ठ बिंदु हों, तो उस रेखा को वृत्त की क्या कहते हैं?",
+            "en": "If a line and a circle have two common points, what is that line called in relation to the circle?"
           },
           "options": [
+            {"hi": "स्पर्श रेखा", "en": "Tangent line"},
+            {"hi": "छेदक रेखा (Secant line)", "en": "Secant line"},
             {"hi": "व्यास", "en": "Diameter"},
-            {"hi": "त्रिज्या", "en": "Radius"},
-            {"hi": "चाप", "en": "Arc"},
-            {"hi": "स्पर्श रेखा", "en": "Tangent"}
+            {"hi": "त्रिज्यखंड", "en": "Sector"}
           ],
-          "answer": {"hi": "त्रिज्या", "en": "Radius"}
+          "answer": {"hi": "छेदक रेखा (Secant line)", "en": "Secant line"}
         },
         {
           "q": {
-            "hi": "एक वृत्त जिस तल पर स्थित है, उसे कितने भागों में विभाजित करता है?",
-            "en": "A circle divides the plane on which it lies into how many parts?"
+            "hi": "किसी वृत्त की स्पर्श रेखा (tangent) वह रेखा है जो वृत्त को केवल कितने बिंदुओं पर प्रतिच्छेद करती है?",
+            "en": "A tangent to a circle is a line that intersects the circle at only how many points?"
           },
           "options": [
-            {"hi": "एक", "en": "One"},
+            {"hi": "दो बिंदुओं पर", "en": "Two points"},
+            {"hi": "एक बिंदु पर (Exactly one point)", "en": "Exactly one point"},
+            {"hi": "तीन बिंदुओं पर", "en": "Three points"},
+            {"hi": "एक भी नहीं", "en": "None"}
+          ],
+          "answer": {"hi": "एक बिंदु पर (Exactly one point)", "en": "Exactly one point"}
+        },
+        {
+          "q": {
+            "hi": "अंग्रेजी शब्द 'Tangent' की उत्पत्ति लैटिन शब्द 'tangere' से हुई है। इसका वास्तविक अर्थ क्या होता है?",
+            "en": "The English word 'Tangent' is derived from the Latin word 'tangere'. What does it actually mean?"
+          },
+          "options": [
+            {"hi": "काटना", "en": "To cut"},
+            {"hi": "मापना", "en": "To measure"},
+            {"hi": "स्पर्श करना (To touch)", "en": "To touch"},
+            {"hi": "घूमना", "en": "To rotate"}
+          ],
+          "answer": {"hi": "स्पर्श करना (To touch)", "en": "To touch"}
+        },
+        {
+          "q": {
+            "hi": "शब्द 'Tangent' का प्रयोग सबसे पहले 1583 में किस प्रसिद्ध डेनिश गणितज्ञ ने किया था?",
+            "en": "The term 'Tangent' was first introduced in 1583 by which famous Danish mathematician?"
+          },
+          "options": [
+            {"hi": "यूक्लिड", "en": "Euclid"},
+            {"hi": "थॉमस फिनेक (Thomas Fincke)", "en": "Thomas Fincke"},
+            {"hi": "पाइथागोरस", "en": "Pythagoras"},
+            {"hi": "आर्किमिडीज़", "en": "Archimedes"}
+          ],
+          "answer": {"hi": "थॉमस फिनेक (Thomas Fincke)", "en": "Thomas Fincke"}
+        },
+        {
+          "q": {
+            "hi": "स्पर्श रेखा और वृत्त के उभयनिष्ठ बिंदु को निम्नलिखित में से क्या कहा जाता है?",
+            "en": "The common point of the tangent and the circle is called which of the following?"
+          },
+          "options": [
+            {"hi": "केंद्र", "en": "Center"},
+            {"hi": "स्पर्श बिंदु (Point of contact)", "en": "Point of contact"},
+            {"hi": "छेदक बिंदु", "en": "Point of intersection"},
+            {"hi": "शीर्ष", "en": "Vertex"}
+          ],
+          "answer": {"hi": "स्पर्श बिंदु (Point of contact)", "en": "Point of contact"}
+        },
+        {
+          "q": {
+            "hi": "एक वृत्त के एक बिंदु पर कितनी स्पर्श रेखाएँ खींची जा सकती हैं?",
+            "en": "How many tangents can be drawn at a single point on a circle?"
+          },
+          "options": [
+            {"hi": "केवल एक (Only one)", "en": "Only one"},
             {"hi": "दो", "en": "Two"},
-            {"hi": "तीन", "en": "Three"},
-            {"hi": "चार", "en": "Four"}
+            {"hi": "अपरिमित रूप से अनेक", "en": "Infinitely many"},
+            {"hi": "शून्य", "en": "Zero"}
           ],
-          "answer": {"hi": "तीन", "en": "Three"}
+          "answer": {"hi": "केवल एक (Only one)", "en": "Only one"}
         },
         {
           "q": {
-            "hi": "वृत्त पर स्थित दो बिंदुओं को मिलाने वाले रेखाखंड को क्या कहते हैं?",
-            "en": "A line segment joining any two points on a circle is called?"
+            "hi": "किसी वृत्त की स्पर्श रेखा छेदक रेखा की एक ऐसी विशिष्ट दशा है जब संगत जीवा के दोनों सिरे क्या हो जाएँ?",
+            "en": "A tangent to a circle is a special case of the secant, when the two endpoints of its corresponding chord what?"
           },
           "options": [
-            {"hi": "जीवा", "en": "Chord"},
-            {"hi": "त्रिज्या", "en": "Radius"},
-            {"hi": "शीर्ष", "en": "Vertex"},
-            {"hi": "केंद्र", "en": "Center"}
+            {"hi": "दूर हो जाएँ", "en": "Move apart"},
+            {"hi": "संपाती (coincide) हो जाएँ", "en": "Coincide"},
+            {"hi": "लंबवत हो जाएँ", "en": "Become perpendicular"},
+            {"hi": "व्यास बन जाएँ", "en": "Become the diameter"}
           ],
-          "answer": {"hi": "जीवा", "en": "Chord"}
+          "answer": {"hi": "संपाती (coincide) हो जाएँ", "en": "Coincide"}
         },
         {
           "q": {
-            "hi": "वृत्त की सबसे लंबी जीवा को क्या कहा जाता है?",
-            "en": "What is the longest chord of a circle called?"
+            "hi": "कुएँ से पानी निकालने वाली घिरनी पर लगी रस्सी की स्थिति वृत्त (घिरनी) के सापेक्ष किसका उदाहरण प्रस्तुत करती है?",
+            "en": "The position of a rope on a pulley used to lift water from a well presents an example of what with respect to the circle (pulley)?"
           },
           "options": [
-            {"hi": "त्रिज्या", "en": "Radius"},
-            {"hi": "व्यास", "en": "Diameter"},
-            {"hi": "चाप", "en": "Arc"},
-            {"hi": "वृत्तखंड", "en": "Segment"}
+            {"hi": "छेदक रेखा का", "en": "Secant line"},
+            {"hi": "स्पर्श रेखा का (Tangent line)", "en": "Tangent line"},
+            {"hi": "त्रिज्या का", "en": "Radius"},
+            {"hi": "अप्रतिच्छेदी रेखा का", "en": "Non-intersecting line"}
           ],
-          "answer": {"hi": "व्यास", "en": "Diameter"}
-        },
-        {
-          "q": {
-            "hi": "व्यास त्रिज्या का कितना गुना होता है?",
-            "en": "How many times the radius is the diameter?"
-          },
-          "options": [
-            {"hi": "आधा", "en": "Half"},
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "दो गुना", "en": "Two times"},
-            {"hi": "तीन गुना", "en": "Three times"}
-          ],
-          "answer": {"hi": "दो गुना", "en": "Two times"}
-        },
-        {
-          "q": {
-            "hi": "वृत्त के दो बिंदुओं के बीच के भाग को क्या कहते हैं?",
-            "en": "The piece of a circle between two points is called?"
-          },
-          "options": [
-            {"hi": "जीवा", "en": "Chord"},
-            {"hi": "चाप", "en": "Arc"},
-            {"hi": "व्यास", "en": "Diameter"},
-            {"hi": "त्रिज्या", "en": "Radius"}
-          ],
-          "answer": {"hi": "चाप", "en": "Arc"}
-        },
-        {
-          "q": {
-            "hi": "संपूर्ण वृत्त की लंबाई को क्या कहा जाता है?",
-            "en": "The length of the complete circle is called?"
-          },
-          "options": [
-            {"hi": "क्षेत्रफल", "en": "Area"},
-            {"hi": "त्रिज्या", "en": "Radius"},
-            {"hi": "परिधि", "en": "Circumference"},
-            {"hi": "व्यास", "en": "Diameter"}
-          ],
-          "answer": {"hi": "परिधि", "en": "Circumference"}
-        },
-        {
-          "q": {
-            "hi": "जब दो चाप बराबर हों, तो प्रत्येक को क्या कहते हैं?",
-            "en": "When two arcs are equal, what is each called?"
-          },
-          "options": [
-            {"hi": "पूर्ण वृत्त", "en": "Full circle"},
-            {"hi": "अर्धवृत्त", "en": "Semicircle"},
-            {"hi": "लघु चाप", "en": "Minor arc"},
-            {"hi": "दीर्घ चाप", "en": "Major arc"}
-          ],
-          "answer": {"hi": "अर्धवृत्त", "en": "Semicircle"}
+          "answer": {"hi": "स्पर्श रेखा का (Tangent line)", "en": "Tangent line"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "जीवा और उसके प्रत्येक चाप के बीच के क्षेत्र को क्या कहते हैं?",
-            "en": "The region between a chord and either of its arcs is called?"
-          },
-          "options": [
-            {"hi": "त्रिज्यखंड", "en": "Sector"},
-            {"hi": "वृत्तखंड", "en": "Segment"},
-            {"hi": "अर्धवृत्त", "en": "Semicircle"},
-            {"hi": "परिधि", "en": "Circumference"}
-          ],
-          "answer": {"hi": "वृत्तखंड", "en": "Segment"}
-        },
-        {
-          "q": {
-            "hi": "केंद्र को चाप के सिरों से मिलाने वाली त्रिज्याओं और चाप के बीच के क्षेत्र को क्या कहते हैं?",
-            "en": "The region between an arc and the two radii joining its endpoints to the center is called?"
-          },
-          "options": [
-            {"hi": "त्रिज्यखंड", "en": "Sector"},
-            {"hi": "वृत्तखंड", "en": "Segment"},
-            {"hi": "जीवा", "en": "Chord"},
-            {"hi": "चाप", "en": "Arc"}
-          ],
-          "answer": {"hi": "त्रिज्यखंड", "en": "Sector"}
-        },
-        {
-          "q": {
-            "hi": "वृत्त की बराबर जीवाएँ केंद्र पर कैसा कोण अंतरित करती हैं?",
-            "en": "Equal chords of a circle subtend ______ angles at the center?"
-          },
-          "options": [
-            {"hi": "असमान", "en": "Unequal"},
-            {"hi": "पूरक", "en": "Complementary"},
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "90°"}
-          ],
-          "answer": {"hi": "बराबर", "en": "Equal"}
-        },
-        {
-          "q": {
-            "hi": "यदि जीवाओं द्वारा केंद्र पर अंतरित कोण बराबर हों, तो जीवाएँ कैसी होती हैं?",
-            "en": "If the angles subtended by the chords at the center are equal, then the chords are?"
-          },
-          "options": [
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "असमान", "en": "Unequal"},
-            {"hi": "लंब", "en": "Perpendicular"},
-            {"hi": "आधी", "en": "Half"}
-          ],
-          "answer": {"hi": "बराबर", "en": "Equal"}
-        },
-        {
-          "q": {
-            "hi": "वृत्त के केंद्र से एक जीवा पर डाला गया लंब उसे क्या करता है?",
-            "en": "The perpendicular from the center of a circle to a chord ______ it?"
-          },
-          "options": [
-            {"hi": "दुगुना", "en": "Doubles"},
-            {"hi": "त्रैभाजित", "en": "Trisects"},
-            {"hi": "समद्विभाजित", "en": "Bisects"},
-            {"hi": "समाप्त", "en": "Ends"}
-          ],
-          "answer": {"hi": "समद्विभाजित", "en": "Bisects"}
-        },
-        {
-          "q": {
-            "hi": "एक वृत्त के केंद्र से होकर जाने वाली और जीवा को समद्विभाजित करने वाली रेखा जीवा पर क्या होती है?",
-            "en": "The line drawn through the center of a circle to bisect a chord is ______ to the chord?"
+            "hi": "प्रमेय 10.1 के अनुसार, वृत्त के किसी बिंदु पर स्पर्श रेखा स्पर्श बिंदु से जाने वाली त्रिज्या पर कैसी होती है?",
+            "en": "According to Theorem 10.1, the tangent at any point of a circle is what to the radius through the point of contact?"
           },
           "options": [
             {"hi": "समांतर", "en": "Parallel"},
-            {"hi": "लंब", "en": "Perpendicular"},
-            {"hi": "बराबर", "en": "Equal"},
+            {"hi": "लंब (Perpendicular)", "en": "Perpendicular"},
+            {"hi": "बराबर लंबाई की", "en": "Of equal length"},
+            {"hi": "तिर्यक", "en": "Transversal"}
+          ],
+          "answer": {"hi": "लंब (Perpendicular)", "en": "Perpendicular"}
+        },
+        {
+          "q": {
+            "hi": "वृत्त के बाहरी बिंदु Q से स्पर्श बिंदु P की दूरी PQ को बाह्य बिंदु से वृत्त पर खींची गई स्पर्श रेखा की क्या कहते हैं?",
+            "en": "The distance PQ from the external point Q to the point of contact P is called what of the tangent drawn from the external point to the circle?"
+          },
+          "options": [
+            {"hi": "त्रिज्या", "en": "Radius"},
+            {"hi": "लंबाई (Length of the tangent)", "en": "Length of the tangent"},
+            {"hi": "तीव्रता", "en": "Intensity"},
+            {"hi": "जीवा की माप", "en": "Measure of chord"}
+          ],
+          "answer": {"hi": "लंबाई (Length of the tangent)", "en": "Length of the tangent"}
+        },
+        {
+          "q": {
+            "hi": "वृत्त के अंदर (अभ्यंतर) स्थित किसी बिंदु से जाने वाली वृत्त पर कितनी स्पर्श रेखाएँ खींची जा सकती हैं?",
+            "en": "How many tangents can be drawn to a circle from a point lying inside the circle?"
+          },
+          "options": [
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "कोई स्पर्श रेखा नहीं (No tangent)", "en": "No tangent"},
+            {"hi": "अनंत", "en": "Infinite"}
+          ],
+          "answer": {"hi": "कोई स्पर्श रेखा नहीं (No tangent)", "en": "No tangent"}
+        },
+        {
+          "q": {
+            "hi": "वृत्त पर स्थित किसी बिंदु से वृत्त पर कितनी स्पर्श रेखाएँ खींची जा सकती हैं?",
+            "en": "How many tangents can be drawn to a circle from a point lying on the circle?"
+          },
+          "options": [
+            {"hi": "केवल एक (Exactly one)", "en": "Exactly one"},
+            {"hi": "दो", "en": "Two"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "तीन", "en": "Three"}
+          ],
+          "answer": {"hi": "केवल एक (Exactly one)", "en": "Exactly one"}
+        },
+        {
+          "q": {
+            "hi": "वृत्त के बाहर (बाह्य भाग) स्थित किसी बिंदु से वृत्त पर कितनी और केवल कितनी स्पर्श रेखाएँ खींची जा सकती हैं?",
+            "en": "How many tangents can be drawn to a circle from a point lying outside the circle?"
+          },
+          "options": [
+            {"hi": "1", "en": "1"},
+            {"hi": "2 (Exactly two)", "en": "Exactly two"},
+            {"hi": "3", "en": "3"},
+            {"hi": "अपरिमित", "en": "Infinitely many"}
+          ],
+          "answer": {"hi": "2 (Exactly two)", "en": "Exactly two"}
+        },
+        {
+          "q": {
+            "hi": "प्रमेय 10.2 के अनुसार, बाह्य बिंदु से वृत्त पर खींची गई स्पर्श रेखाओं की लंबाइयाँ कैसी होती हैं?",
+            "en": "According to Theorem 10.2, the lengths of tangents drawn from an external point to a circle are what?"
+          },
+          "options": [
+            {"hi": "असमान", "en": "Unequal"},
+            {"hi": "बराबर (Equal)", "en": "Equal"},
+            {"hi": "त्रिज्या की आधी", "en": "Half of the radius"},
+            {"hi": "त्रिज्या की दोगुनी", "en": "Twice the radius"}
+          ],
+          "answer": {"hi": "बराबर (Equal)", "en": "Equal"}
+        },
+        {
+          "q": {
+            "hi": "एक बिंदु Q से एक वृत्त पर स्पर्श रेखा की लंबाई 24 cm तथा Q की केंद्र से दूरी 25 cm है। वृत्त की त्रिज्या क्या होगी?",
+            "en": "From a point Q, the length of the tangent to a circle is 24 cm and the distance of Q from the center is 25 cm. What will be the radius of the circle?"
+          },
+          "options": [
+            {"hi": "7 cm", "en": "7 cm"},
+            {"hi": "12 cm", "en": "12 cm"},
+            {"hi": "15 cm", "en": "15 cm"},
+            {"hi": "24.5 cm", "en": "24.5 cm"}
+          ],
+          "answer": {"hi": "7 cm", "en": "7 cm"}
+        },
+        {
+          "q": {
+            "hi": "यदि TP और TQ केंद्र O वाले किसी वृत्त पर दो स्पर्श रेखाएँ इस प्रकार हैं कि कोण POQ = 110^\\circ है, तो कोण PTQ का मान क्या होगा?",
+            "en": "If TP and TQ are two tangents to a circle with center O so that angle POQ = 110^\\circ, then what will be the value of angle PTQ?"
+          },
+          "options": [
+            {"hi": "60^\\circ", "en": "60^\\circ"},
+            {"hi": "70^\\circ", "en": "70^\\circ"},
+            {"hi": "80^\\circ", "en": "80^\\circ"},
+            {"hi": "90^\\circ", "en": "90^\\circ"}
+          ],
+          "answer": {"hi": "70^\\circ", "en": "70^\\circ"}
+        },
+        {
+          "q": {
+            "hi": "यदि एक बिंदु P से केंद्र O वाले किसी वृत्त पर PA और PB स्पर्श रेखाएँ परस्पर 80^\\circ के कोण पर झुकी हों, तो कोण POA किसके बराबर होगा?",
+            "en": "If tangents PA and PB from a point P to a circle with center O are inclined to each other at an angle of 80^\\circ, then angle POA is equal to what?"
+          },
+          "options": [
+            {"hi": "50^\\circ", "en": "50^\\circ"},
+            {"hi": "60^\\circ", "en": "60^\\circ"},
+            {"hi": "70^\\circ", "en": "70^\\circ"},
+            {"hi": "80^\\circ", "en": "80^\\circ"}
+          ],
+          "answer": {"hi": "50^\\circ", "en": "50^\\circ"}
+        },
+        {
+          "q": {
+            "hi": "सिद्ध कीजिए कि किसी वृत्त के किसी व्यास (diameter) के सिरों पर खींची गई स्पर्श रेखाएँ परस्पर कैसी होती हैं?",
+            "en": "Prove that the tangents drawn at the ends of a diameter of a circle are what to each other?"
+          },
+          "options": [
+            {"hi": "लंबवत", "en": "Perpendicular"},
+            {"hi": "समांतर (Parallel)", "en": "Parallel"},
+            {"hi": "प्रतिच्छेदी", "en": "Intersecting"},
             {"hi": "संपाती", "en": "Coincident"}
           ],
-          "answer": {"hi": "लंब", "en": "Perpendicular"}
-        },
-        {
-          "q": {
-            "hi": "तीन असंरेखीय बिंदुओं से होकर कितने वृत्त खींचे जा सकते हैं?",
-            "en": "How many circles can be drawn passing through three non-collinear points?"
-          },
-          "options": [
-            {"hi": "एक और केवल एक", "en": "One and only one"},
-            {"hi": "दो", "en": "Two"},
-            {"hi": "अपरिमित", "en": "Infinitely many"},
-            {"hi": "शून्य", "en": "Zero"}
-          ],
-          "answer": {"hi": "एक और केवल एक", "en": "One and only one"}
-        },
-        {
-          "q": {
-            "hi": "एक वृत्त की बराबर जीवाएँ केंद्र से कितनी दूरी पर होती हैं?",
-            "en": "Equal chords of a circle are at ______ distance from the center?"
-          },
-          "options": [
-            {"hi": "अलग-अलग", "en": "Different"},
-            {"hi": "समान", "en": "Equal"},
-            {"hi": "दुगुनी", "en": "Double"},
-            {"hi": "शून्य", "en": "Zero"}
-          ],
-          "answer": {"hi": "समान", "en": "Equal"}
-        },
-        {
-          "q": {
-            "hi": "केंद्र से समान दूरी पर स्थित जीवाएँ आपस में कैसी होती हैं?",
-            "en": "Chords equidistant from the center of a circle are?"
-          },
-          "options": [
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "लंब", "en": "Perpendicular"},
-            {"hi": "असमान", "en": "Unequal"},
-            {"hi": "समांतर", "en": "Parallel"}
-          ],
-          "answer": {"hi": "बराबर", "en": "Equal"}
-        },
-        {
-          "q": {
-            "hi": "किसी चाप द्वारा केंद्र पर अंतरित कोण, वृत्त के शेष भाग के किसी बिंदु पर अंतरित कोण का कितना होता है?",
-            "en": "The angle subtended by an arc at the center is ______ the angle subtended by it at any point on the remaining part of the circle?"
-          },
-          "options": [
-            {"hi": "आधा", "en": "Half"},
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "दुगुना", "en": "Double"},
-            {"hi": "तिगुना", "en": "Triple"}
-          ],
-          "answer": {"hi": "दुगुना", "en": "Double"}
+          "answer": {"hi": "समांतर (Parallel)", "en": "Parallel"}
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "एक ही वृत्तखंड के कोण कैसे होते हैं?",
-            "en": "Angles in the same segment of a circle are?"
+            "hi": "सिद्ध कीजिए कि स्पर्श बिंदु से स्पर्श रेखा पर खींचा गया लंब वृत्त के कहाँ से होकर जाता है?",
+            "en": "Prove that the perpendicular at the point of contact to the tangent to a circle passes through what?"
           },
           "options": [
-            {"hi": "संपूरक", "en": "Supplementary"},
-            {"hi": "असमान", "en": "Unequal"},
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "शून्य", "en": "Zero"}
+            {"hi": "वृत्त के बाहर", "en": "Outside the circle"},
+            {"hi": "केंद्र से (Through the center)", "en": "Through the center"},
+            {"hi": "परिधि पर किसी बिंदु से", "en": "Any point on circumference"},
+            {"hi": "जीवा के सिरे से", "en": "End of chord"}
           ],
-          "answer": {"hi": "बराबर", "en": "Equal"}
+          "answer": {"hi": "केंद्र से (Through the center)", "en": "Through the center"}
         },
         {
           "q": {
-            "hi": "अर्धवृत्त का कोण क्या होता है?",
-            "en": "The angle in a semicircle is?"
+            "hi": "एक बिंदु A से, जो एक वृत्त के केंद्र से 5 cm की दूरी पर है, वृत्त पर स्पर्श रेखा की लंबाई 4 cm है। वृत्त की त्रिज्या क्या होगी?",
+            "en": "From a point A, which is at a distance of 5 cm from the center of a circle, the length of the tangent to the circle is 4 cm. What will be the radius of the circle?"
           },
           "options": [
-            {"hi": "न्यून कोण", "en": "Acute angle"},
-            {"hi": "अधिक कोण", "en": "Obtuse angle"},
-            {"hi": "समकोण", "en": "Right angle"},
-            {"hi": "ऋजु कोण", "en": "Straight angle"}
+            {"hi": "3 cm", "en": "3 cm"},
+            {"hi": "5 cm", "en": "5 cm"},
+            {"hi": "1 cm", "en": "1 cm"},
+            {"hi": "\\sqrt{41} cm", "en": "\\sqrt{41} cm"}
           ],
-          "answer": {"hi": "समकोण", "en": "Right angle"}
+          "answer": {"hi": "3 cm", "en": "3 cm"}
         },
         {
           "q": {
-            "hi": "यदि किसी चतुर्भुज के चारों शीर्ष एक वृत्त पर स्थित हों, तो उसे क्या कहते हैं?",
-            "en": "If all the four vertices of a quadrilateral lie on a circle, what is it called?"
+            "hi": "दो संकेंद्रीय वृत्तों (concentric circles) की त्रिज्याएँ 5 cm तथा 3 cm हैं। बड़े वृत्त की उस जीवा की लंबाई ज्ञात कीजिए जो छोटे वृत्त को स्पर्श करती हो।",
+            "en": "Two concentric circles are of radii 5 cm and 3 cm. Find the length of the chord of the larger circle which touches the smaller circle."
           },
           "options": [
-            {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"},
-            {"hi": "चक्रीय चतुर्भुज", "en": "Cyclic quadrilateral"},
-            {"hi": "समलंब", "en": "Trapezium"},
-            {"hi": "समचतुर्भुज", "en": "Rhombus"}
+            {"hi": "4 cm", "en": "4 cm"},
+            {"hi": "6 cm", "en": "6 cm"},
+            {"hi": "8 cm", "en": "8 cm"},
+            {"hi": "10 cm", "en": "10 cm"}
           ],
-          "answer": {"hi": "चक्रीय चतुर्भुज", "en": "Cyclic quadrilateral"}
+          "answer": {"hi": "8 cm", "en": "8 cm"}
         },
         {
           "q": {
-            "hi": "चक्रीय चतुर्भुज के सम्मुख कोणों के प्रत्येक युग्म का योग कितना होता है?",
-            "en": "The sum of either pair of opposite angles of a cyclic quadrilateral is?"
+            "hi": "एक वृत्त के परिगत (circumscribing) एक चतुर्भुज ABCD खींचा गया है। सिद्ध करने पर AB + CD का मान किसके बराबर प्राप्त होता है?",
+            "en": "A quadrilateral ABCD is drawn to circumscribe a circle. Upon proving, the value of AB + CD is equal to what?"
           },
           "options": [
-            {"hi": "90°", "en": "90°"},
-            {"hi": "180°", "en": "180°"},
-            {"hi": "270°", "en": "270°"},
-            {"hi": "360°", "en": "360°"}
+            {"hi": "AD + BC", "en": "AD + BC"},
+            {"hi": "AC + BD", "en": "AC + BD"},
+            {"hi": "AB + BC", "en": "AB + BC"},
+            {"hi": "समीकरण संभव नहीं है", "en": "Equation is not possible"}
           ],
-          "answer": {"hi": "180°", "en": "180°"}
+          "answer": {"hi": "AD + BC", "en": "AD + BC"}
         },
         {
           "q": {
-            "hi": "यदि किसी चतुर्भुज के सम्मुख कोणों के एक युग्म का योग 180° हो, तो चतुर्भुज कैसा होता है?",
-            "en": "If the sum of a pair of opposite angles of a quadrilateral is 180°, the quadrilateral is?"
+            "hi": "यदि XY तथा X'Y' एक O केंद्र वाले वृत्त पर दो समांतर स्पर्श रेखाएँ हैं और स्पर्श बिंदु C पर अन्य स्पर्श रेखा AB, XY को A तथा X'Y' को B पर काटती है, तो कोण AOB का मान क्या होगा?",
+            "en": "If XY and X'Y' are two parallel tangents to a circle with center O and another tangent AB with point of contact C intersects XY at A and X'Y' at B, what will be the angle AOB?"
           },
           "options": [
-            {"hi": "चक्रीय", "en": "Cyclic"},
-            {"hi": "समांतर", "en": "Parallelogram"},
+            {"hi": "45^\\circ", "en": "45^\\circ"},
+            {"hi": "60^\\circ", "en": "60^\\circ"},
+            {"hi": "90^\\circ", "en": "90^\\circ"},
+            {"hi": "120^\\circ", "en": "120^\\circ"}
+          ],
+          "answer": {"hi": "90^\\circ", "en": "90^\\circ"}
+        },
+        {
+          "q": {
+            "hi": "किसी बाह्य बिंदु से किसी वृत्त पर खींची गई स्पर्श रेखाओं के बीच का कोण स्पर्श बिंदुओं को मिलाने वाले रेखाखंड द्वारा केंद्र पर अंतरित कोण का कैसा होता है?",
+            "en": "The angle between the two tangents drawn from an external point to a circle is what to the angle subtended by the line-segment joining the points of contact at the center?"
+          },
+          "options": [
+            {"hi": "पूरक कोण", "en": "Complementary angle"},
+            {"hi": "संपूरक कोण (Supplementary angle)", "en": "Supplementary angle"},
+            {"hi": "बराबर कोण", "en": "Equal angle"},
+            {"hi": "आधा कोण", "en": "Half angle"}
+          ],
+          "answer": {"hi": "संपूरक कोण (Supplementary angle)", "en": "Supplementary angle"}
+        },
+        {
+          "q": {
+            "hi": "सिद्ध कीजिए कि किसी वृत्त के परिगत बना समांतर चतुर्भुज (parallelogram) वास्तव में क्या होता है?",
+            "en": "Prove that a parallelogram circumscribing a circle is actually a what?"
+          },
+          "options": [
             {"hi": "आयत", "en": "Rectangle"},
-            {"hi": "वर्ग", "en": "Square"}
+            {"hi": "समचतुर्भुज (Rhombus)", "en": "Rhombus"},
+            {"hi": "वर्ग", "en": "Square"},
+            {"hi": "समलंब चतुर्भुज", "en": "Trapezium"}
           ],
-          "answer": {"hi": "चक्रीय", "en": "Cyclic"}
+          "answer": {"hi": "समचतुर्भुज (Rhombus)", "en": "Rhombus"}
         },
         {
           "q": {
-            "hi": "वृत्त के अभ्यंतर (Interior) में स्थित बिंदु से वृत्त पर कितनी जीवाएँ खींची जा सकती हैं?",
-            "en": "How many chords can be drawn through a point inside the circle?"
+            "hi": "एक त्रिभुज ABC, 4 cm त्रिज्या वाले एक वृत्त के परिगत इस प्रकार खींचा गया है कि रेखाखंड BD और DC की लंबाइयाँ क्रमशः 8 cm और 6 cm हैं। भुजा AC की लंबाई क्या होगी?",
+            "en": "A triangle ABC is drawn to circumscribe a circle of radius 4 cm such that the segments BD and DC are of lengths 8 cm and 6 cm respectively. What will be the length of side AC?"
           },
           "options": [
-            {"hi": "एक", "en": "One"},
-            {"hi": "दो", "en": "Two"},
-            {"hi": "अपरिमित", "en": "Infinitely many"},
-            {"hi": "शून्य", "en": "Zero"}
+            {"hi": "12 cm", "en": "12 cm"},
+            {"hi": "13 cm", "en": "13 cm"},
+            {"hi": "14 cm", "en": "14 cm"},
+            {"hi": "15 cm", "en": "15 cm"}
           ],
-          "answer": {"hi": "अपरिमित", "en": "Infinitely many"}
+          "answer": {"hi": "13 cm", "en": "13 cm"}
         },
         {
           "q": {
-            "hi": "वृत्त की परिधि और उसके व्यास का अनुपात क्या कहलाता है?",
-            "en": "The ratio of the circumference of a circle to its diameter is called?"
+            "hi": "उपरोक्त प्रश्न के आधार पर (BD=8 cm, DC=6 cm, त्रिज्या=4 cm), भुजा AB की कुल लंबाई क्या प्राप्त होगी?",
+            "en": "Based on the above question (BD=8 cm, DC=6 cm, radius=4 cm), what will the total length of side AB be?"
           },
           "options": [
-            {"hi": "त्रिज्या", "en": "Radius"},
-            {"hi": "जीवा", "en": "Chord"},
-            {"hi": "π (पाई)", "en": "π (pi)"},
-            {"hi": "क्षेत्रफल", "en": "Area"}
+            {"hi": "14 cm", "en": "14 cm"},
+            {"hi": "15 cm", "en": "15 cm"},
+            {"hi": "13 cm", "en": "13 cm"},
+            {"hi": "12 cm", "en": "12 cm"}
           ],
-          "answer": {"hi": "π (पाई)", "en": "π (pi)"}
+          "answer": {"hi": "15 cm", "en": "15 cm"}
         },
         {
           "q": {
-            "hi": "क्या चक्रीय समांतर चतुर्भुज एक आयत होता है?",
-            "en": "Is a cyclic parallelogram a rectangle?"
+            "hi": "सिद्ध कीजिए कि वृत्त के परिगत बनी चतुर्भुज की सम्मुख भुजाएँ केंद्र पर कैसा कोण अंतरित (subtend) करती हैं?",
+            "en": "Prove that opposite sides of a quadrilateral circumscribing a circle subtend what kind of angles at the center?"
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल यदि वह वर्ग हो", "en": "Only if it is a square"},
-            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"}
+            {"hi": "पूरक कोण", "en": "Complementary angles"},
+            {"hi": "संपूरक कोण (Supplementary angles)", "en": "Supplementary angles"},
+            {"hi": "समान कोण", "en": "Equal angles"},
+            {"hi": "न्यूनकोण", "en": "Acute angles"}
           ],
-          "answer": {"hi": "हाँ", "en": "Yes"}
-        },
-        {
-          "q": {
-            "hi": "वृत्त के बाहर स्थित बिंदु से वृत्त पर खींची गई सबसे लंबी दूरी कौन सी होती है?",
-            "en": "Which is the longest distance drawn from a point outside the circle to the circle?"
-          },
-          "options": [
-            {"hi": "त्रिज्या", "en": "Radius"},
-            {"hi": "जो केंद्र से होकर जाए", "en": "The one passing through the center"},
-            {"hi": "जीवा", "en": "Chord"},
-            {"hi": "स्पर्श रेखा", "en": "Tangent"}
-          ],
-          "answer": {"hi": "जो केंद्र से होकर जाए", "en": "The one passing through the center"}
-        },
-        {
-          "q": {
-            "hi": "लघु वृत्तखंड में बना कोण कैसा होता है?",
-            "en": "The angle formed in a minor segment is?"
-          },
-          "options": [
-            {"hi": "न्यून कोण", "en": "Acute angle"},
-            {"hi": "समकोण", "en": "Right angle"},
-            {"hi": "अधिक कोण", "en": "Obtuse angle"},
-            {"hi": "ऋजु कोण", "en": "Straight angle"}
-          ],
-          "answer": {"hi": "अधिक कोण", "en": "Obtuse angle"}
+          "answer": {"hi": "संपूरक कोण (Supplementary angles)", "en": "Supplementary angles"}
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "दीर्घ वृत्तखंड में बना कोण कैसा होता है?",
-            "en": "The angle formed in a major segment is?"
+            "hi": "यदि दो वृत्त एक-दूसरे को बाह्य रूप से स्पर्श करते हैं, तो उनके केंद्रों के बीच की दूरी उनकी त्रिज्याओं के किसके बराबर होती है?",
+            "en": "If two circles touch each other externally, the distance between their centers is equal to what of their radii?"
           },
           "options": [
-            {"hi": "न्यून कोण", "en": "Acute angle"},
-            {"hi": "समकोण", "en": "Right angle"},
-            {"hi": "अधिक कोण", "en": "Obtuse angle"},
-            {"hi": "प्रतिवर्ती कोण", "en": "Reflex angle"}
+            {"hi": "अंतर के", "en": "Difference"},
+            {"hi": "योगफल के (Sum)", "en": "Sum"},
+            {"hi": "गुणनफल के", "en": "Product"},
+            {"hi": "अनुपात के", "en": "Ratio"}
           ],
-          "answer": {"hi": "न्यून कोण", "en": "Acute angle"}
+          "answer": {"hi": "योगफल के (Sum)", "en": "Sum"}
         },
         {
           "q": {
-            "hi": "यदि दो वृत्त परस्पर दो बिंदुओं पर प्रतिच्छेद करें, तो उनके केंद्र जीवा के क्या होते हैं?",
-            "en": "If two circles intersect at two points, their centers lie on the ______ of the common chord?"
+            "hi": "यदि दो वृत्त एक-दूसरे को आंतरिक रूप से स्पर्श करते हैं, तो उनके केंद्रों के बीच की दूरी उनकी त्रिज्याओं के किसके बराबर होती है?",
+            "en": "If two circles touch each other internally, the distance between their centers is equal to what of their radii?"
           },
           "options": [
-            {"hi": "समांतर", "en": "Parallel"},
-            {"hi": "लंब समद्विभाजक", "en": "Perpendicular bisector"},
-            {"hi": "शीर्ष", "en": "Vertex"},
-            {"hi": "अंत में", "en": "At the end"}
+            {"hi": "योगफल के", "en": "Sum"},
+            {"hi": "अंतर के (Difference)", "en": "Difference"},
+            {"hi": "वर्ग के", "en": "Square"},
+            {"hi": "माध्य के", "en": "Mean"}
           ],
-          "answer": {"hi": "लंब समद्विभाजक", "en": "Perpendicular bisector"}
+          "answer": {"hi": "अंतर के (Difference)", "en": "Difference"}
         },
         {
           "q": {
-            "hi": "वृत्त के चाप द्वारा केंद्र पर बना कोण 60° है। वृत्त के शेष भाग पर बना कोण क्या होगा?",
-            "en": "The angle subtended by an arc at the center is 60°. What will be the angle subtended on the remaining part?"
+            "hi": "एक वृत्त पर अधिकतम कितनी समांतर स्पर्श रेखाएँ हो सकती हैं जो व्यास के दोनों सिरों पर खींची गई हों?",
+            "en": "What is the maximum number of parallel tangents a circle can have drawn at the ends of a diameter?"
           },
           "options": [
-            {"hi": "60°", "en": "60°"},
-            {"hi": "120°", "en": "120°"},
-            {"hi": "30°", "en": "30°"},
-            {"hi": "90°", "en": "90°"}
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "4", "en": "4"},
+            {"hi": "अनंत", "en": "Infinite"}
           ],
-          "answer": {"hi": "30°", "en": "30°"}
+          "answer": {"hi": "2", "en": "2"}
         },
         {
           "q": {
-            "hi": "एक ही केंद्र वाले दो या दो से अधिक वृत्तों को क्या कहते हैं?",
-            "en": "Two or more circles with the same center are called?"
+            "hi": "किसी बाह्य बिंदु T से केंद्र O वाले वृत्त पर खींची गई स्पर्श रेखाएँ TP और TQ हैं। कोण PTQ और कोण OPQ के बीच क्या संबंध होता है?",
+            "en": "TP and TQ are tangents drawn to a circle with center O from an external point T. What is the relation between angle PTQ and angle OPQ?"
           },
           "options": [
-            {"hi": "सर्वांगसम वृत्त", "en": "Congruent circles"},
-            {"hi": "सकेंद्री वृत्त", "en": "Concentric circles"},
-            {"hi": "चक्रीय वृत्त", "en": "Cyclic circles"},
-            {"hi": "भिन्न वृत्त", "en": "Distinct circles"}
+            {"hi": "\\angle PTQ = \\angle OPQ", "en": "\\angle PTQ = \\angle OPQ"},
+            {"hi": "\\angle PTQ = 2\\angle OPQ", "en": "\\angle PTQ = 2\\angle OPQ"},
+            {"hi": "\\angle PTQ = 1/2 \\angle OPQ", "en": "\\angle PTQ = 1/2 \\angle OPQ"},
+            {"hi": "\\angle PTQ + \\angle OPQ = 90^\\circ", "en": "\\angle PTQ + \\angle OPQ = 90^\\circ"}
           ],
-          "answer": {"hi": "सकेंद्री वृत्त", "en": "Concentric circles"}
+          "answer": {"hi": "\\angle PTQ = 2\\angle OPQ", "en": "\\angle PTQ = 2\\angle OPQ"}
         },
         {
           "q": {
-            "hi": "वृत्त की त्रिज्या 5 सेमी है। इसकी सबसे लंबी जीवा की लंबाई क्या होगी?",
-            "en": "The radius of a circle is 5 cm. What is the length of its longest chord?"
+            "hi": "5 cm त्रिज्या वाले एक वृत्त की 8 cm लंबी एक जीवा PQ है। P और Q पर स्पर्श रेखाएँ परस्पर एक बिंदु T पर प्रतिच्छेद करती हैं। स्पर्श रेखा TP की लंबाई क्या होगी?",
+            "en": "PQ is a chord of length 8 cm of a circle of radius 5 cm. The tangents at P and Q intersect at a point T. Find the length of the tangent TP."
           },
           "options": [
-            {"hi": "5 सेमी", "en": "5 cm"},
-            {"hi": "10 सेमी", "en": "10 cm"},
-            {"hi": "2.5 सेमी", "en": "2.5 cm"},
-            {"hi": "15 सेमी", "en": "15 cm"}
+            {"hi": "4 cm", "en": "4 cm"},
+            {"hi": "5 cm", "en": "5 cm"},
+            {"hi": "20/3 cm", "en": "20/3 cm"},
+            {"hi": "7.5 cm", "en": "7.5 cm"}
           ],
-          "answer": {"hi": "10 सेमी", "en": "10 cm"}
+          "answer": {"hi": "20/3 cm", "en": "20/3 cm"}
         },
         {
           "q": {
-            "hi": "जीवा द्वारा केंद्र पर बना कोण 90° है। यह जीवा और त्रिज्याओं से बना त्रिभुज कैसा होगा?",
-            "en": "The angle subtended by a chord at the center is 90°. What kind of triangle is formed by the chord and radii?"
+            "hi": "केंद्र O वाले वृत्त के बाह्य बिंदु P से खींची गई स्पर्श रेखाएँ PA और PB हैं। त्रिभुज PAB हमेशा किस प्रकार का त्रिभुज होता है?",
+            "en": "PA and PB are tangents drawn from an external point P to a circle with center O. Triangle PAB is always what type of triangle?"
           },
           "options": [
-            {"hi": "समबाहु", "en": "Equilateral"},
-            {"hi": "समद्विबाहु समकोण", "en": "Isosceles right angled"},
-            {"hi": "विषमबाहु", "en": "Scalene"},
-            {"hi": "न्यूनकोण", "en": "Acute angled"}
+            {"hi": "विषमबाहु त्रिभुज", "en": "Scalene triangle"},
+            {"hi": "समद्विबाहु त्रिभुज (Isosceles triangle)", "en": "Isosceles triangle"},
+            {"hi": "समकोण त्रिभुज", "en": "Right-angled triangle"},
+            {"hi": "अधिककोण त्रिभुज", "en": "Obtuse-angled triangle"}
           ],
-          "answer": {"hi": "समद्विबाहु समकोण", "en": "Isosceles right angled"}
+          "answer": {"hi": "समद्विबाहु त्रिभुज (Isosceles triangle)", "en": "Isosceles triangle"}
         },
         {
           "q": {
-            "hi": "क्या वृत्त के केंद्र से जीवा की दूरी जीवा की लंबाई बढ़ने पर बढ़ती है?",
-            "en": "Does the distance of a chord from the center increase as the length of the chord increases?"
+            "hi": "यदि स्पर्श रेखाओं PA और PB के बीच का कोण 60^\\circ हो और वृत्त की त्रिज्या r हो, तो प्रत्येक स्पर्श रेखा की लंबाई क्या होगी?",
+            "en": "If the angle between tangents PA and PB is 60^\\circ and the radius of the circle is r, what will be the length of each tangent?"
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं (घटती है)", "en": "No (it decreases)"},
-            {"hi": "समान रहती है", "en": "Remains the same"},
-            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"}
+            {"hi": "r", "en": "r"},
+            {"hi": "r\\sqrt{3}", "en": "r\\sqrt{3}"},
+            {"hi": "r/\\sqrt{3}", "en": "r/\\sqrt{3}"},
+            {"hi": "2r", "en": "2r"}
           ],
-          "answer": {"hi": "नहीं (घटती है)", "en": "No (it decreases)"}
+          "answer": {"hi": "r\\sqrt{3}", "en": "r\\sqrt{3}"}
         },
         {
           "q": {
-            "hi": "एक चक्रीय चतुर्भुज ABCD में, $\\angle A = 80^\\circ$ है। $\\angle C$ का मान क्या होगा?",
-            "en": "In a cyclic quadrilateral ABCD, $\\angle A = 80^\\circ$. What is the value of $\\angle C$?"
+            "hi": "वृत्त के केंद्र से किसी स्पर्श रेखा की न्यूनतम लंबवत दूरी किसके बराबर होती है?",
+            "en": "The minimum perpendicular distance from the center of a circle to any tangent is equal to what?"
           },
           "options": [
-            {"hi": "80°", "en": "80°"},
-            {"hi": "100°", "en": "100°"},
-            {"hi": "180°", "en": "180°"},
-            {"hi": "90°", "en": "90°"}
-          ],
-          "answer": {"hi": "100°", "en": "100°"}
-        },
-        {
-          "q": {
-            "hi": "वृत्त के तल में स्थित वह बिंदु जिसकी वृत्त के केंद्र से दूरी त्रिज्या से कम हो, कहाँ स्थित होगा?",
-            "en": "A point in the plane of a circle whose distance from the center is less than the radius lies?"
-          },
-          "options": [
-            {"hi": "वृत्त के बहिर्भाग में", "en": "In the exterior"},
-            {"hi": "वृत्त के अभ्यंतर में", "en": "In the interior"},
-            {"hi": "वृत्त पर", "en": "On the circle"},
-            {"hi": "केंद्र पर", "en": "At the center"}
-          ],
-          "answer": {"hi": "वृत्त के अभ्यंतर में", "en": "In the interior"}
-        },
-        {
-          "q": {
-            "hi": "दो सर्वांगसम वृत्तों की त्रिज्याएँ कैसी होती हैं?",
-            "en": "Radii of two congruent circles are?"
-          },
-          "options": [
-            {"hi": "अलग-अलग", "en": "Different"},
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "अनुपात में", "en": "In ratio"},
+            {"hi": "व्यास", "en": "Diameter"},
+            {"hi": "त्रिज्या (Radius)", "en": "Radius"},
+            {"hi": "जीवा की लंबाई", "en": "Length of chord"},
             {"hi": "शून्य", "en": "Zero"}
           ],
-          "answer": {"hi": "बराबर", "en": "Equal"}
+          "answer": {"hi": "त्रिज्या (Radius)", "en": "Radius"}
+        },
+        {
+          "q": {
+            "hi": "यदि दो स्पर्श रेखाओं के बीच का कोण 90^\\circ हो, तो केंद्र, स्पर्श बिंदुओं और बाह्य बिंदु द्वारा बनने वाली आकृति क्या होती है (यदि त्रिज्याएँ बराबर हों)?",
+            "en": "If the angle between two tangents is 90^\\circ, what shape is formed by the center, points of contact, and the external point (if radii are equal)?"
+          },
+          "options": [
+            {"hi": "आयत", "en": "Rectangle"},
+            {"hi": "वर्ग (Square)", "en": "Square"},
+            {"hi": "समचतुर्भुज", "en": "Rhombus"},
+            {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"}
+          ],
+          "answer": {"hi": "वर्ग (Square)", "en": "Square"}
+        },
+        {
+          "q": {
+            "hi": "यदि कोई रेखा किसी वृत्त को दो अलग-अलग बिंदुओं पर काटती हुई पार हो जाती है, तो उसे क्या कहते हैं?",
+            "en": "If a line passes through a circle cutting it at two distinct points, what is it called?"
+          },
+          "options": [
+            {"hi": "स्पर्श रेखा", "en": "Tangent line"},
+            {"hi": "छेदक रेखा (Secant line)", "en": "Secant line"},
+            {"hi": "त्रिज्या", "en": "Radius"},
+            {"hi": "स्पर्श पद", "en": "Tangent term"}
+          ],
+          "answer": {"hi": "छेदक रेखा (Secant line)", "en": "Secant line"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "यदि वृत्त की दो जीवाएँ केंद्र से समान दूरी पर हों, तो वे क्या कहलाती हैं?",
-            "en": "If two chords of a circle are equidistant from the center, they are?"
+            "hi": "किसी वृत्त की कितनी स्पर्श रेखाएँ हो सकती हैं यदि हम परिधि पर स्थित अनंत बिंदुओं पर विचार करें?",
+            "en": "How many tangents can a circle have if we consider the infinite points lying on the circumference?"
           },
           "options": [
-            {"hi": "समांतर", "en": "Parallel"},
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "लंब", "en": "Perpendicular"},
-            {"hi": "तिर्यक", "en": "Transversal"}
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "0", "en": "0"},
+            {"hi": "अपरिमित रूप से अनेक (Infinitely many)", "en": "Infinitely many"}
           ],
-          "answer": {"hi": "बराबर", "en": "Equal"}
+          "answer": {"hi": "अपरिमित रूप से अनेक (Infinitely many)", "en": "Infinitely many"}
         },
         {
           "q": {
-            "hi": "वृत्त की एक जीवा त्रिज्या के बराबर है। इसके द्वारा लघु चाप पर बना कोण क्या होगा?",
-            "en": "A chord of a circle is equal to the radius. What is the angle subtended by it on the minor arc?"
+            "hi": "रिक्त स्थान भरें: किसी वृत्त की स्पर्श रेखा उसे ______ बिंदु पर प्रतिच्छेद करती है।",
+            "en": "Fill in the blank: A tangent to a circle intersects it in ______ point(s)."
           },
           "options": [
-            {"hi": "30°", "en": "30°"},
-            {"hi": "60°", "en": "60°"},
-            {"hi": "150°", "en": "150°"},
-            {"hi": "120°", "en": "120°"}
+            {"hi": "दो", "en": "two"},
+            {"hi": "एक (one)", "en": "one"},
+            {"hi": "तीन", "en": "three"},
+            {"hi": "शून्य", "en": "zero"}
           ],
-          "answer": {"hi": "150°", "en": "150°"}
+          "answer": {"hi": "एक (one)", "en": "one"}
         },
         {
           "q": {
-            "hi": "अर्धवृत्त का व्यास केंद्र पर कितने डिग्री का कोण बनाता है?",
-            "en": "How many degrees angle does the diameter of a semicircle make at the center?"
+            "hi": "रिक्त स्थान भरें: वृत्त को दो बिंदुओं पर प्रतिच्छेद करने वाली रेखा को ______ कहते हैं।",
+            "en": "Fill in the blank: A line intersecting a circle in two points is called a ______."
           },
           "options": [
-            {"hi": "90°", "en": "90°"},
-            {"hi": "180°", "en": "180°"},
-            {"hi": "360°", "en": "360°"},
-            {"hi": "0°"}
+            {"hi": "स्पर्श रेखा", "en": "tangent"},
+            {"hi": "छेदक रेखा (secant)", "en": "secant"},
+            {"hi": "त्रिज्या", "en": "radius"},
+            {"hi": "व्यास", "en": "diameter"}
           ],
-          "answer": {"hi": "180°", "en": "180°"}
+          "answer": {"hi": "छेदक रेखा (secant)", "en": "secant"}
         },
         {
           "q": {
-            "hi": "वृत्त के एक बिंदु से कितनी स्पर्श रेखाएँ खींची जा सकती हैं?",
-            "en": "How many tangents can be drawn from a single point on the circle?"
+            "hi": "एक वृत्त की कितनी समांतर स्पर्श रेखाएँ (maximum parallel tangents) हो सकती हैं?",
+            "en": "A circle can have how many parallel tangents at most?"
           },
           "options": [
-            {"hi": "एक", "en": "One"},
-            {"hi": "दो", "en": "Two"},
-            {"hi": "अपरिमित", "en": "Infinitely many"},
-            {"hi": "शून्य", "en": "Zero"}
+            {"hi": "दो (two)", "en": "two"},
+            {"hi": "चार", "en": "four"},
+            {"hi": "एक", "en": "one"},
+            {"hi": "अनंत", "en": "infinite"}
           ],
-          "answer": {"hi": "एक", "en": "One"}
+          "answer": {"hi": "दो (two)", "en": "two"}
         },
         {
           "q": {
-            "hi": "क्या प्रत्येक वृत्त एक उत्तल (Convex) आकृति है?",
-            "en": "Is every circle a convex figure?"
+            "hi": "वृत्त तथा उसकी स्पर्श रेखा के उभयनिष्ठ बिंदु को ______ कहते हैं।",
+            "en": "The common point of a tangent to a circle and the circle is called ______."
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल यदि त्रिज्या बड़ी हो", "en": "Only if radius is large"},
-            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"}
+            {"hi": "केंद्र", "en": "center"},
+            {"hi": "स्पर्श बिंदु (point of contact)", "en": "point of contact"},
+            {"hi": "भुज", "en": "abscissa"},
+            {"hi": "कोटि", "en": "ordinate"}
           ],
-          "answer": {"hi": "हाँ", "en": "Yes"}
+          "answer": {"hi": "स्पर्श बिंदु (point of contact)", "en": "point of contact"}
         },
         {
           "q": {
-            "hi": "वृत्त के केंद्र से जीवा तक की न्यूनतम दूरी क्या कहलाती है?",
-            "en": "What is the minimum distance from the center to a chord called?"
+            "hi": "यदि बाह्य बिंदु T से खींची गई दो स्पर्श रेखाएँ TP और TQ केंद्र O वाले वृत्त पर इस प्रकार हैं कि कोण PTQ = 60^\\circ है, तो कोण POQ का मान क्या होगा?",
+            "en": "If two tangents TP and TQ are drawn to a circle with center O from an external point T such that angle PTQ = 60^\\circ, what will be the value of angle POQ?"
           },
           "options": [
-            {"hi": "त्रिज्या", "en": "Radius"},
-            {"hi": "शीर्षलंब", "en": "Altitude"},
-            {"hi": "लंब दूरी", "en": "Perpendicular distance"},
-            {"hi": "जीवा", "en": "Chord"}
+            {"hi": "120^\\circ", "en": "120^\\circ"},
+            {"hi": "60^\\circ", "en": "60^\\circ"},
+            {"hi": "90^\\circ", "en": "90^\\circ"},
+            {"hi": "180^\\circ", "en": "180^\\circ"}
           ],
-          "answer": {"hi": "लंब दूरी", "en": "Perpendicular distance"}
+          "answer": {"hi": "120^\\circ", "en": "120^\\circ"}
         },
         {
           "q": {
-            "hi": "वृत्त का केंद्र हमेशा कहाँ स्थित होता है?",
-            "en": "The center of a circle always lies in its?"
+            "hi": "संकेत के अनुसार, वृत्त के केंद्र से स्पर्श रेखा पर डाला गया लंब हमेशा स्पर्श बिंदु पर कितने डिग्री का कोण बनाता है?",
+            "en": "According to the property, the perpendicular dropped from the center of a circle to a tangent always makes an angle of how many degrees at the point of contact?"
           },
           "options": [
-            {"hi": "बहिर्भाग (Exterior)", "en": "Exterior"},
-            {"hi": "अभ्यंतर (Interior)", "en": "Interior"},
-            {"hi": "परिधि पर", "en": "On the circumference"},
-            {"hi": "जीवा पर", "en": "On the chord"}
+            {"hi": "45^\\circ", "en": "45^\\circ"},
+            {"hi": "60^\\circ", "en": "60^\\circ"},
+            {"hi": "90^\\circ (समकोण)", "en": "90^\\circ (Right angle)"},
+            {"hi": "0^\\circ", "en": "0^\\circ"}
           ],
-          "answer": {"hi": "अभ्यंतर (Interior)", "en": "Interior"}
+          "answer": {"hi": "90^\\circ (समकोण)", "en": "90^\\circ (Right angle)"}
         },
         {
           "q": {
-            "hi": "एक वृत्त में कितनी बराबर जीवाएँ हो सकती हैं?",
-            "en": "How many equal chords can a circle have?"
+            "hi": "यदि किसी वृत्त की दो जीवाएँ AB और CD वृत्त के बाहर किसी बिंदु P पर प्रतिच्छेद करती हैं, तो छेदक रेखाओं के नियमानुसार कौन सा गुणनफल संबंध सत्य होता है?",
+            "en": "If two chords AB and CD of a circle intersect at an external point P, which product relationship is true according to secant properties?"
           },
           "options": [
-            {"hi": "सीमित", "en": "Limited"},
-            {"hi": "अपरिमित", "en": "Infinitely many"},
-            {"hi": "केवल दो", "en": "Only two"},
-            {"hi": "शून्य", "en": "Zero"}
+            {"hi": "PA \\times PB = PC \\times PD", "en": "PA \\times PB = PC \\times PD"},
+            {"hi": "PA \\times PC = PB \\times PD", "en": "PA \\times PC = PB \\times PD"},
+            {"hi": "PA + PB = PC + PD", "en": "PA + PB = PC + PD"},
+            {"hi": "AB \\times CD = PA \\times PD", "en": "AB \\times CD = PA \\times PD"}
           ],
-          "answer": {"hi": "अपरिमित", "en": "Infinitely many"}
+          "answer": {"hi": "PA \\times PB = PC \\times PD", "en": "PA \\times PB = PC \\times PD"}
         },
         {
           "q": {
-            "hi": "चाप द्वारा केंद्र पर अंतरित कोण 180° है। यह चाप क्या है?",
-            "en": "The angle subtended by an arc at the center is 180°. What is this arc?"
+            "hi": "एक बाह्य बिंदु P से वृत्त पर एक छेदक रेखा PAB और एक स्पर्श रेखा PT खींची गई है। इनके बीच का बीजीय संबंध क्या होता है?",
+            "en": "From an external point P, a secant PAB and a tangent PT are drawn to a circle. What is the algebraic relation between them?"
           },
           "options": [
-            {"hi": "लघु चाप", "en": "Minor arc"},
-            {"hi": "दीर्घ चाप", "en": "Major arc"},
-            {"hi": "अर्धवृत्त", "en": "Semicircle"},
-            {"hi": "जीवा", "en": "Chord"}
+            {"hi": "PT^2 = PA \\times PB", "en": "PT^2 = PA \\times PB"},
+            {"hi": "PT = PA \\times PB", "en": "PT = PA \\times PB"},
+            {"hi": "PT^2 = PA + PB", "en": "PT^2 = PA + PB"},
+            {"hi": "PT = PA + PB", "en": "PT = PA + PB"}
           ],
-          "answer": {"hi": "अर्धवृत्त", "en": "Semicircle"}
+          "answer": {"hi": "PT^2 = PA \\times PB", "en": "PT^2 = PA \\times PB"}
         },
         {
           "q": {
-            "hi": "वृत्त की त्रिज्या को दुगुना करने पर उसकी परिधि पर क्या प्रभाव पड़ेगा?",
-            "en": "What will be the effect on the circumference if the radius is doubled?"
+            "hi": "यदि किसी वृत्त की त्रिज्या r हो, तो उसके परिगत खींचे गए वर्ग (circumscribed square) की प्रत्येक भुजा की लंबाई किसके बराबर होगी?",
+            "en": "If the radius of a circle is r, what will the length of each side of a circumscribed square be equal to?"
           },
           "options": [
-            {"hi": "समान रहेगी", "en": "Remains same"},
-            {"hi": "दुगुनी हो जाएगी", "en": "Will be doubled"},
-            {"hi": "आधी हो जाएगी", "en": "Will be halved"},
-            {"hi": "चार गुनी हो जाएगी", "en": "Will be four times"}
+            {"hi": "r", "en": "r"},
+            {"hi": "2r (व्यास के बराबर)", "en": "2r (equal to the diameter)"},
+            {"hi": "r/2", "en": "r/2"},
+            {"hi": "r\\sqrt{2}", "en": "r\\sqrt{2}"}
           ],
-          "answer": {"hi": "दुगुनी हो जाएगी", "en": "Will be doubled"}
+          "answer": {"hi": "2r (व्यास के बराबर)", "en": "2r (equal to the diameter)"}
         }
       ]
     },
