@@ -7286,661 +7286,661 @@
       "section1": [
         {
           "q": {
-            "hi": "एक समकोण त्रिभुज का क्षेत्रफल ज्ञात करने का सामान्य सूत्र क्या है?",
-            "en": "What is the general formula to find the area of a right-angled triangle?"
+            "hi": "एक वृत्त के चारों ओर की दूरी (या उसका परिमाप) क्या कहलाती है?",
+            "en": "What is the distance around a circular path (or its perimeter) called?"
           },
           "options": [
-            {"hi": "आधार × ऊँचाई", "en": "Base × Height"},
-            {"hi": "1/2 × आधार × ऊँचाई", "en": "1/2 × Base × Height"},
-            {"hi": "लंबाई × चौड़ाई", "en": "Length × Breadth"},
-            {"hi": "पक्ष × पक्ष", "en": "Side × Side"}
+            {"hi": "त्रिज्या", "en": "Radius"},
+            {"hi": "व्यास", "en": "Diameter"},
+            {"hi": "परिधि (Circumference)", "en": "Circumference"},
+            {"hi": "जीवा", "en": "Chord"}
           ],
-          "answer": {"hi": "1/2 × आधार × ऊँचाई", "en": "1/2 × Base × Height"}
+          "answer": {"hi": "परिधि (Circumference)", "en": "Circumference"}
         },
         {
           "q": {
-            "hi": "हीरोन का जन्म कहाँ हुआ था?",
-            "en": "Where was Heron born?"
+            "hi": "किसी वृत्त की परिधि और उसके व्यास का अनुपात हमेशा स्थिर होता है, इस नियतांक को किस ग्रीक अक्षर से प्रदर्शित करते हैं?",
+            "en": "The ratio of the circumference of a circle to its diameter is always constant. Which Greek letter represents this constant?"
           },
           "options": [
-            {"hi": "रोम", "en": "Rome"},
-            {"hi": "एलेक्जेंड्रिया (मिस्र)", "en": "Alexandria (Egypt)"},
-            {"hi": "एथेंस", "en": "Athens"},
-            {"hi": "पेरिस", "en": "Paris"}
+            {"hi": "\u03b1 (अल्फा)", "en": "\u03b1 (Alpha)"},
+            {"hi": "\u03c0 (पाई) [Pi]", "en": "\u03c0 (Pi)"},
+            {"hi": "\u03b8 (थीटा)", "en": "\u03b8 (Theta)"},
+            {"hi": "\u03bb (लैम्ब्डा)", "en": "\u03bb (Lambda)"}
           ],
-          "answer": {"hi": "एलेक्जेंड्रिया (मिस्र)", "en": "Alexandria (Egypt)"}
+          "answer": {"hi": "\u03c0 (पाई) [Pi]", "en": "\u03c0 (Pi)"}
         },
         {
           "q": {
-            "hi": "हीरोन के सूत्र में 's' क्या दर्शाता है?",
-            "en": "What does 's' represent in Heron's formula?"
+            "hi": "महान भारतीय गणितज्ञ आर्यभट ने \u03c0 (पाई) का चार दशमलव स्थानों तक शुद्ध मान क्या दिया था?",
+            "en": "What accurate value up to four decimal places did the great Indian mathematician Aryabhata give for \u03c0 (Pi)?"
           },
           "options": [
-            {"hi": "क्षेत्रफल", "en": "Area"},
-            {"hi": "परिमाप", "en": "Perimeter"},
-            {"hi": "अर्ध-परिमाप", "en": "Semi-perimeter"},
-            {"hi": "भुजा की लंबाई", "en": "Side length"}
+            {"hi": "3.1416", "en": "3.1416"},
+            {"hi": "3.1428", "en": "3.1428"},
+            {"hi": "3.1400", "en": "3.1400"},
+            {"hi": "3.1414", "en": "3.1414"}
           ],
-          "answer": {"hi": "अर्ध-परिमाप", "en": "Semi-perimeter"}
+          "answer": {"hi": "3.1416", "en": "3.1416"}
         },
         {
           "q": {
-            "hi": "यदि त्रिभुज की भुजाएँ a, b और c हैं, तो अर्ध-परिमाप (s) का सूत्र क्या है?",
-            "en": "If the sides of a triangle are a, b, and c, what is the formula for semi-perimeter (s)?"
+            "hi": "यदि किसी वृत्त की त्रिज्या r हो, तो उसकी परिधि (Circumference) ज्ञात करने का सही सूत्र क्या है?",
+            "en": "If the radius of a circle is r, what is the correct formula to find its circumference?"
           },
           "options": [
-            {"hi": "a + b + c", "en": "a + b + c"},
-            {"hi": "(a + b + c) / 2", "en": "(a + b + c) / 2"},
-            {"hi": "a × b × c", "en": "a × b × c"},
-            {"hi": "2(a + b + c)", "en": "2(a + b + c)"}
+            {"hi": "\u03c0r^2", "en": "\u03c0r^2"},
+            {"hi": "2\u03c0r", "en": "2\u03c0r"},
+            {"hi": "\u03c0d^2", "en": "\u03c0d^2"},
+            {"hi": "2\u03c0r^2", "en": "2\u03c0r^2"}
           ],
-          "answer": {"hi": "(a + b + c) / 2", "en": "(a + b + c) / 2"}
+          "answer": {"hi": "2\u03c0r", "en": "2\u03c0r"}
         },
         {
           "q": {
-            "hi": "हीरोन का सूत्र क्या है?",
-            "en": "What is Heron's formula?"
+            "hi": "त्रिज्या r वाले एक वृत्तीय क्षेत्र (या वृत्त) का क्षेत्रफल ज्ञात करने का सूत्र क्या होता है?",
+            "en": "What is the formula to find the area of a circular region (or circle) with radius r?"
           },
           "options": [
-            {"hi": "$\\sqrt{s(s-a)(s-b)(s-c)}$", "en": "$\\sqrt{s(s-a)(s-b)(s-c)}$"},
-            {"hi": "$s(s-a)(s-b)(s-c)$", "en": "$s(s-a)(s-b)(s-c)$"},
-            {"hi": "$\\sqrt{(s-a)(s-b)(s-c)}$", "en": "$\\sqrt{(s-a)(s-b)(s-c)}$"},
-            {"hi": "$1/2 \\times b \\times h$", "en": "$1/2 \\times b \\times h$"}
+            {"hi": "2\u03c0r", "en": "2\u03c0r"},
+            {"hi": "\u03c0r^2", "en": "\u03c0r^2"},
+            {"hi": "2\u03c0r^2", "en": "2\u03c0r^2"},
+            {"hi": "1/2 \u03c0r^2", "en": "1/2 \u03c0r^2"}
           ],
-          "answer": {"hi": "$\\sqrt{s(s-a)(s-b)(s-c)}$", "en": "$\\sqrt{s(s-a)(s-b)(s-c)}$"}
+          "answer": {"hi": "\u03c0r^2", "en": "\u03c0r^2"}
         },
         {
           "q": {
-            "hi": "एक समबाहु त्रिभुज का क्षेत्रफल ज्ञात करने का सूत्र क्या है जिसकी भुजा 'a' है?",
-            "en": "What is the formula to find the area of an equilateral triangle with side 'a'?"
+            "hi": "एक वृत्ताकार खेत पर ₹24 प्रति मीटर की दर से बाड़ लगाने (fencing) का खर्च ₹5280 है। खेत की परिधि कितनी होगी?",
+            "en": "The cost of fencing a circular field at the rate of ₹24 per meter is ₹5280. What will be the circumference of the field?"
           },
           "options": [
-            {"hi": "$\\frac{\\sqrt{3}}{4} a^2$", "en": "$\\frac{\\sqrt{3}}{4} a^2$"},
-            {"hi": "$\\frac{\\sqrt{3}}{2} a^2$", "en": "$\\frac{\\sqrt{3}}{2} a^2$"},
-            {"hi": "$\\frac{1}{2} a^2$", "en": "$\\frac{1}{2} a^2$"},
-            {"hi": "$\\sqrt{3} a^2$", "en": "$\\sqrt{3} a^2$"}
+            {"hi": "220 m", "en": "220 m"},
+            {"hi": "440 m", "en": "440 m"},
+            {"hi": "110 m", "en": "110 m"},
+            {"hi": "330 m", "en": "330 m"}
           ],
-          "answer": {"hi": "$\\frac{\\sqrt{3}}{4} a^2$", "en": "$\\frac{\\sqrt{3}}{4} a^2$"}
+          "answer": {"hi": "220 m", "en": "220 m"}
         },
         {
           "q": {
-            "hi": "क्षेत्रफल मापने की इकाई क्या होती है?",
-            "en": "What is the unit of measuring area?"
+            "hi": "यदि एक वृत्ताकार खेत की परिधि 220 m प्राप्त होती है, तो उस खेत की त्रिज्या (radius) क्या होगी? (\u03c0 = 22/7 लें)",
+            "en": "If the circumference of a circular field is 220 m, what will be the radius of that field? (Take \u03c0 = 22/7)"
           },
           "options": [
-            {"hi": "मीटर", "en": "Meter"},
-            {"hi": "वर्ग मात्रक (जैसे cm², m²)", "en": "Square units (like cm², m²)"},
-            {"hi": "घन मात्रक", "en": "Cubic units"},
-            {"hi": "डिग्री", "en": "Degree"}
-          ],
-          "answer": {"hi": "वर्ग मात्रक (जैसे cm², m²)", "en": "Square units (like cm², m²)"}
-        },
-        {
-          "q": {
-            "hi": "एक समद्विबाहु समकोण त्रिभुज का क्षेत्रफल क्या होगा जिसकी प्रत्येक बराबर भुजा 'a' है?",
-            "en": "What will be the area of an isosceles right triangle with each equal side 'a'?"
-          },
-          "options": [
-            {"hi": "$a^2$", "en": "$a^2$"},
-            {"hi": "$1/2 a^2$", "en": "$1/2 a^2$"},
-            {"hi": "$1/4 a^2$", "en": "$1/4 a^2$"},
-            {"hi": "$\\sqrt{2} a^2$", "en": "$\\sqrt{2} a^2$"}
-          ],
-          "answer": {"hi": "$1/2 a^2$", "en": "$1/2 a^2$"}
-        },
-        {
-          "q": {
-            "hi": "यदि त्रिभुज का आधार 10 cm और ऊँचाई 5 cm है, तो क्षेत्रफल क्या होगा?",
-            "en": "If the base of a triangle is 10 cm and height is 5 cm, what will be the area?"
-          },
-          "options": [
-            {"hi": "50 cm²", "en": "50 cm²"},
-            {"hi": "25 cm²", "en": "25 cm²"},
-            {"hi": "15 cm²", "en": "15 cm²"},
-            {"hi": "100 cm²", "en": "100 cm²"}
-          ],
-          "answer": {"hi": "25 cm²", "en": "25 cm²"}
-        },
-        {
-          "q": {
-            "hi": "हीरोन का सूत्र मुख्य रूप से किस प्रकार के त्रिभुज का क्षेत्रफल निकालने के लिए उपयोगी है?",
-            "en": "Heron's formula is primarily useful for finding the area of which type of triangle?"
-          },
-          "options": [
-            {"hi": "केवल समकोण त्रिभुज", "en": "Only right-angled triangle"},
-            {"hi": "केवल समबाहु त्रिभुज", "en": "Only equilateral triangle"},
-            {"hi": "विषमबाहु त्रिभुज (जिसकी ऊँचाई ज्ञात न हो)", "en": "Scalene triangle (where height is not known)"},
-            {"hi": "वृत्त", "en": "Circle"}
-          ],
-          "answer": {"hi": "विषमबाहु त्रिभुज (जिसकी ऊँचाई ज्ञात न हो)", "en": "Scalene triangle (where height is not known)"}
-        }
-      ],
-      "section2": [
-        {
-          "q": {
-            "hi": "एक त्रिभुज का परिमाप 32 cm है। यदि अर्ध-परिमाप s है, तो s का मान क्या है?",
-            "en": "The perimeter of a triangle is 32 cm. If s is the semi-perimeter, what is the value of s?"
-          },
-          "options": [
-            {"hi": "32 cm", "en": "32 cm"},
-            {"hi": "16 cm", "en": "16 cm"},
-            {"hi": "64 cm", "en": "64 cm"},
-            {"hi": "8 cm", "en": "8 cm"}
-          ],
-          "answer": {"hi": "16 cm", "en": "16 cm"}
-        },
-        {
-          "q": {
-            "hi": "भुजाओं 3 cm, 4 cm और 5 cm वाले त्रिभुज का अर्ध-परिमाप क्या होगा?",
-            "en": "What is the semi-perimeter of a triangle with sides 3 cm, 4 cm, and 5 cm?"
-          },
-          "options": [
-            {"hi": "12 cm", "en": "12 cm"},
-            {"hi": "6 cm", "en": "6 cm"},
-            {"hi": "7 cm", "en": "7 cm"},
-            {"hi": "5 cm", "en": "5 cm"}
-          ],
-          "answer": {"hi": "6 cm", "en": "6 cm"}
-        },
-        {
-          "q": {
-            "hi": "एक समबाहु त्रिभुज का परिमाप 60 m है। इसकी भुजा की लंबाई क्या है?",
-            "en": "The perimeter of an equilateral triangle is 60 m. What is its side length?"
-          },
-          "options": [
-            {"hi": "30 m", "en": "30 m"},
-            {"hi": "20 m", "en": "20 m"},
-            {"hi": "10 m", "en": "10 m"},
-            {"hi": "15 m", "en": "15 m"}
-          ],
-          "answer": {"hi": "20 m", "en": "20 m"}
-        },
-        {
-          "q": {
-            "hi": "यदि $a=8, b=11, c=13$ है, तो $s-a$ का मान क्या होगा?",
-            "en": "If $a=8, b=11, c=13$, what will be the value of $s-a$?"
-          },
-          "options": [
-            {"hi": "8", "en": "8"},
-            {"hi": "11", "en": "11"},
-            {"hi": "16", "en": "16"},
-            {"hi": "4", "en": "4"}
-          ],
-          "answer": {"hi": "8", "en": "8"}
-        },
-        {
-          "q": {
-            "hi": "क्षेत्रफल निकालने के लिए हीरोन ने अपनी किस पुस्तक में सूत्र दिया था?",
-            "en": "In which book did Heron give the formula for area?"
-          },
-          "options": [
-            {"hi": "एलिमेंट्स", "en": "Elements"},
-            {"hi": "मेट्रिका (Metrica)", "en": "Metrica"},
-            {"hi": "ज्यामिति", "en": "Geometry"},
-            {"hi": "प्रिंसिपिया", "en": "Principia"}
-          ],
-          "answer": {"hi": "मेट्रिका (Metrica)", "en": "Metrica"}
-        },
-        {
-          "q": {
-            "hi": "एक समकोण त्रिभुज की भुजाएँ 6 cm, 8 cm और 10 cm हैं। इसका क्षेत्रफल क्या होगा?",
-            "en": "The sides of a right triangle are 6 cm, 8 cm, and 10 cm. What is its area?"
-          },
-          "options": [
-            {"hi": "48 cm²", "en": "48 cm²"},
-            {"hi": "24 cm²", "en": "24 cm²"},
-            {"hi": "60 cm²", "en": "60 cm²"},
-            {"hi": "30 cm²", "en": "30 cm²"}
-          ],
-          "answer": {"hi": "24 cm²", "en": "24 cm²"}
-        },
-        {
-          "q": {
-            "hi": "भुजा 'a' वाले समबाहु त्रिभुज का अर्ध-परिमाप क्या है?",
-            "en": "What is the semi-perimeter of an equilateral triangle with side 'a'?"
-          },
-          "options": [
-            {"hi": "3a", "en": "3a"},
-            {"hi": "3a / 2", "en": "3a / 2"},
-            {"hi": "a / 2", "en": "a / 2"},
-            {"hi": "2a", "en": "2a"}
-          ],
-          "answer": {"hi": "3a / 2", "en": "3a / 2"}
-        },
-        {
-          "q": {
-            "hi": "एक त्रिभुज जिसकी भुजाएँ 13 cm, 14 cm और 15 cm हैं, उसका अर्ध-परिमाप क्या होगा?",
-            "en": "What will be the semi-perimeter of a triangle with sides 13 cm, 14 cm, and 15 cm?"
-          },
-          "options": [
-            {"hi": "42 cm", "en": "42 cm"},
-            {"hi": "21 cm", "en": "21 cm"},
-            {"hi": "20 cm", "en": "20 cm"},
-            {"hi": "15 cm", "en": "15 cm"}
-          ],
-          "answer": {"hi": "21 cm", "en": "21 cm"}
-        },
-        {
-          "q": {
-            "hi": "यदि $s=30, a=20, b=15, c=25$ है, तो $s(s-a)(s-b)(s-c)$ का मान क्या होगा?",
-            "en": "If $s=30, a=20, b=15, c=25$, what is the value of $s(s-a)(s-b)(s-c)$?"
-          },
-          "options": [
-            {"hi": "15000", "en": "15000"},
-            {"hi": "22500", "en": "22500"},
-            {"hi": "10000", "en": "10000"},
-            {"hi": "45000", "en": "45000"}
-          ],
-          "answer": {"hi": "22500", "en": "22500"}
-        },
-        {
-          "q": {
-            "hi": "22500 का वर्गमूल क्या है?",
-            "en": "What is the square root of 22500?"
-          },
-          "options": [
-            {"hi": "15", "en": "15"},
-            {"hi": "150", "en": "150"},
-            {"hi": "250", "en": "250"},
-            {"hi": "125", "en": "125"}
-          ],
-          "answer": {"hi": "150", "en": "150"}
-        }
-      ],
-      "section3": [
-        {
-          "q": {
-            "hi": "एक समद्विबाहु त्रिभुज का परिमाप 30 cm है और उसकी बराबर भुजाएँ 12 cm हैं। तीसरी भुजा क्या होगी?",
-            "en": "The perimeter of an isosceles triangle is 30 cm and its equal sides are 12 cm. What will be the third side?"
-          },
-          "options": [
-            {"hi": "12 cm", "en": "12 cm"},
-            {"hi": "6 cm", "en": "6 cm"},
-            {"hi": "18 cm", "en": "18 cm"},
-            {"hi": "9 cm", "en": "9 cm"}
-          ],
-          "answer": {"hi": "6 cm", "en": "6 cm"}
-        },
-        {
-          "q": {
-            "hi": "भुजाओं 5, 12 और 13 वाले त्रिभुज का क्षेत्रफल क्या है?",
-            "en": "What is the area of a triangle with sides 5, 12, and 13?"
-          },
-          "options": [
-            {"hi": "30", "en": "30"},
-            {"hi": "60", "en": "60"},
-            {"hi": "65", "en": "65"},
-            {"hi": "78", "en": "78"}
-          ],
-          "answer": {"hi": "30", "en": "30"}
-        },
-        {
-          "q": {
-            "hi": "एक त्रिभुज की भुजाओं का अनुपात 3:4:5 है और परिमाप 36 cm है। सबसे लंबी भुजा क्या है?",
-            "en": "The ratio of the sides of a triangle is 3:4:5 and the perimeter is 36 cm. What is the longest side?"
-          },
-          "options": [
-            {"hi": "12 cm", "en": "12 cm"},
-            {"hi": "15 cm", "en": "15 cm"},
-            {"hi": "9 cm", "en": "9 cm"},
-            {"hi": "20 cm", "en": "20 cm"}
-          ],
-          "answer": {"hi": "15 cm", "en": "15 cm"}
-        },
-        {
-          "q": {
-            "hi": "समबाहु त्रिभुज का क्षेत्रफल ज्ञात कीजिए जिसकी भुजा 10 cm है। ($\\sqrt{3}=1.732$ लें)",
-            "en": "Find the area of an equilateral triangle with side 10 cm. (Take $\\sqrt{3}=1.732$)"
-          },
-          "options": [
-            {"hi": "43.3 cm²", "en": "43.3 cm²"},
-            {"hi": "86.6 cm²", "en": "86.6 cm²"},
-            {"hi": "17.32 cm²", "en": "17.32 cm²"},
-            {"hi": "100 cm²", "en": "100 cm²"}
-          ],
-          "answer": {"hi": "43.3 cm²", "en": "43.3 cm²"}
-        },
-        {
-          "q": {
-            "hi": "किसी चतुर्भुज का क्षेत्रफल निकालने के लिए हम उसे दो ______ में विभाजित कर सकते हैं।",
-            "en": "To find the area of a quadrilateral, we can divide it into two _______."
-          },
-          "options": [
-            {"hi": "वृत्तों", "en": "Circles"},
-            {"hi": "त्रिभुजों", "en": "Triangles"},
-            {"hi": "वर्गों", "en": "Squares"},
-            {"hi": "आयतों", "en": "Rectangles"}
-          ],
-          "answer": {"hi": "त्रिभुजों", "en": "Triangles"}
-        },
-        {
-          "q": {
-            "hi": "एक पार्क चतुर्भुज ABCD के आकार का है जिसमें $\\angle C = 90^\\circ$ है। इसका क्षेत्रफल निकालने के लिए कौन सा विकर्ण खींचना उपयोगी होगा?",
-            "en": "A park is in the shape of quadrilateral ABCD with $\\angle C = 90^\\circ$. Which diagonal would be useful to draw to find its area?"
-          },
-          "options": [
-            {"hi": "AC", "en": "AC"},
-            {"hi": "BD", "en": "BD"},
-            {"hi": "दोनों", "en": "Both"},
-            {"hi": "कोई नहीं", "en": "None"}
-          ],
-          "answer": {"hi": "BD", "en": "BD"}
-        },
-        {
-          "q": {
-            "hi": "यदि एक त्रिभुज की भुजाओं को दुगुना कर दिया जाए, तो परिमाप पर क्या प्रभाव पड़ेगा?",
-            "en": "If the sides of a triangle are doubled, what will be the effect on the perimeter?"
-          },
-          "options": [
-            {"hi": "परिमाप समान रहेगा", "en": "Perimeter remains same"},
-            {"hi": "परिमाप दुगुना हो जाएगा", "en": "Perimeter will double"},
-            {"hi": "परिमाप चार गुना हो जाएगा", "en": "Perimeter will be four times"},
-            {"hi": "परिमाप आधा हो जाएगा", "en": "Perimeter will be half"}
-          ],
-          "answer": {"hi": "परिमाप दुगुना हो जाएगा", "en": "Perimeter will double"}
-        },
-        {
-          "q": {
-            "hi": "हीरोन का सूत्र किसके द्वारा सिद्ध किया गया था?",
-            "en": "By whom was Heron's formula proven?"
-          },
-          "options": [
-            {"hi": "यूक्लिड", "en": "Euclid"},
-            {"hi": "पाइथागोरस", "en": "Pythagoras"},
-            {"hi": "हीरोन", "en": "Heron"},
-            {"hi": "आर्यभट्ट", "en": "Aryabhata"}
-          ],
-          "answer": {"hi": "हीरोन", "en": "Heron"}
-        },
-        {
-          "q": {
-            "hi": "भुजाओं 6, 8, 10 वाले त्रिभुज के लिए $s(s-a)(s-b)(s-c)$ का मान क्या है?",
-            "en": "What is the value of $s(s-a)(s-b)(s-c)$ for a triangle with sides 6, 8, 10?"
-          },
-          "options": [
-            {"hi": "576", "en": "576"},
-            {"hi": "24", "en": "24"},
-            {"hi": "480", "en": "480"},
-            {"hi": "100", "en": "100"}
-          ],
-          "answer": {"hi": "576", "en": "576"}
-        },
-        {
-          "q": {
-            "hi": "576 का वर्गमूल क्या है?",
-            "en": "What is the square root of 576?"
-          },
-          "options": [
-            {"hi": "24", "en": "24"},
-            {"hi": "26", "en": "26"},
-            {"hi": "14", "en": "14"},
-            {"hi": "16", "en": "16"}
-          ],
-          "answer": {"hi": "24", "en": "24"}
-        }
-      ],
-      "section4": [
-        {
-          "q": {
-            "hi": "एक समांतर चतुर्भुज का क्षेत्रफल $2 \\times$ (विकर्ण द्वारा बने एक ____ का क्षेत्रफल) होता है।",
-            "en": "Area of a parallelogram is $2 \\times$ (Area of one ____ formed by a diagonal)."
-          },
-          "options": [
-            {"hi": "वर्ग", "en": "Square"},
-            {"hi": "आयत", "en": "Rectangle"},
-            {"hi": "त्रिभुज", "en": "Triangle"},
-            {"hi": "वृत्त", "en": "Circle"}
-          ],
-          "answer": {"hi": "त्रिभुज", "en": "Triangle"}
-        },
-        {
-          "q": {
-            "hi": "हीरोन ने गणित के अलावा और किस क्षेत्र में काम किया था?",
-            "en": "In what field other than mathematics did Heron work?"
-          },
-          "options": [
-            {"hi": "रसायन विज्ञान", "en": "Chemistry"},
-            {"hi": "जीव विज्ञान", "en": "Biology"},
-            {"hi": "भौतिकी और अभियांत्रिकी (Engineering)", "en": "Physics and Engineering"},
-            {"hi": "अर्थशास्त्र", "en": "Economics"}
-          ],
-          "answer": {"hi": "भौतिकी और अभियांत्रिकी (Engineering)", "en": "Physics and Engineering"}
-        },
-        {
-          "q": {
-            "hi": "एक समलंब (Trapezium) की समांतर भुजाएँ 25 m और 10 m हैं। इनका योग क्या है?",
-            "en": "The parallel sides of a trapezium are 25 m and 10 m. What is their sum?"
-          },
-          "options": [
-            {"hi": "15 m", "en": "15 m"},
+            {"hi": "14 m", "en": "14 m"},
+            {"hi": "21 m", "en": "21 m"},
             {"hi": "35 m", "en": "35 m"},
-            {"hi": "250 m", "en": "250 m"},
-            {"hi": "50 m", "en": "50 m"}
+            {"hi": "7 m", "en": "7 m"}
           ],
           "answer": {"hi": "35 m", "en": "35 m"}
         },
         {
           "q": {
-            "hi": "एक त्रिभुज का क्षेत्रफल 84 cm² है और आधार 14 cm है। इसकी संगत ऊँचाई क्या है?",
-            "en": "Area of a triangle is 84 cm² and base is 14 cm. What is its corresponding height?"
+            "hi": "दो वृत्तो की त्रिज्याएँ क्रमशः 19 cm और 9 cm हैं। उस वृत्त की त्रिज्या क्या होगी जिसकी परिधि इन दोनों वृत्तों की परिधियों के योग के बराबर है?",
+            "en": "The radii of two circles are 19 cm and 9 cm respectively. What will be the radius of the circle which has a circumference equal to the sum of the circumferences of the two circles?"
           },
           "options": [
-            {"hi": "6 cm", "en": "6 cm"},
-            {"hi": "12 cm", "en": "12 cm"},
             {"hi": "10 cm", "en": "10 cm"},
-            {"hi": "24 cm", "en": "24 cm"}
+            {"hi": "28 cm", "en": "28 cm"},
+            {"hi": "14 cm", "en": "14 cm"},
+            {"hi": "38 cm", "en": "38 cm"}
           ],
-          "answer": {"hi": "12 cm", "en": "12 cm"}
+          "answer": {"hi": "28 cm", "en": "28 cm"}
         },
         {
           "q": {
-            "hi": "हीरोन के सूत्र में, यदि $s-a = 5, s-b = 10, s-c = 15$ और $s = 30$ है, तो क्षेत्रफल क्या होगा?",
-            "en": "In Heron's formula, if $s-a = 5, s-b = 10, s-c = 15$, and $s = 30$, what will be the area?"
+            "hi": "दो वृत्तो की त्रिज्याएँ क्रमशः 8 cm और 6 cm हैं। उस वृत्त की त्रिज्या ज्ञात कीजिए जिसका क्षेत्रफल इन दोनों वृत्तों के क्षेत्रफलों के योग के बराबर है।",
+            "en": "The radii of two circles are 8 cm and 6 cm respectively. Find the radius of the circle whose area is equal to the sum of the areas of the two circles."
           },
           "options": [
-            {"hi": "150", "en": "150"},
-            {"hi": "$150\\sqrt{2}$", "en": "$150\\sqrt{2}$"},
-            {"hi": "225", "en": "225"},
-            {"hi": "75", "en": "75"}
-          ],
-          "answer": {"hi": "$150\\sqrt{2}$", "en": "$150\\sqrt{2}$"}
-        },
-        {
-          "q": {
-            "hi": "एक वर्ग का विकर्ण 32 cm है। उसका क्षेत्रफल क्या होगा? ($1/2 \\times d_1 \\times d_2$ का प्रयोग करें)",
-            "en": "The diagonal of a square is 32 cm. What will be its area? (Use $1/2 \\times d_1 \\times d_2$)"
-          },
-          "options": [
-            {"hi": "1024 cm²", "en": "1024 cm²"},
-            {"hi": "512 cm²", "en": "512 cm²"},
-            {"hi": "256 cm²", "en": "256 cm²"},
-            {"hi": "64 cm²", "en": "64 cm²"}
-          ],
-          "answer": {"hi": "512 cm²", "en": "512 cm²"}
-        },
-        {
-          "q": {
-            "hi": "यदि $s-a$, $s-b$ और $s-c$ ऋणात्मक हों, तो क्या त्रिभुज संभव है?",
-            "en": "If $s-a$, $s-b$, and $s-c$ are negative, is the triangle possible?"
-          },
-          "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल समकोण होने पर", "en": "Only if it is right-angled"},
-            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"}
-          ],
-          "answer": {"hi": "नहीं", "en": "No"}
-        },
-        {
-          "q": {
-            "hi": "एक समबाहु त्रिभुज का क्षेत्रफल $16\\sqrt{3} cm^2$ है। इसकी भुजा क्या है?",
-            "en": "The area of an equilateral triangle is $16\\sqrt{3} cm^2$. What is its side?"
-          },
-          "options": [
-            {"hi": "4 cm", "en": "4 cm"},
-            {"hi": "8 cm", "en": "8 cm"},
-            {"hi": "16 cm", "en": "16 cm"},
+            {"hi": "14 cm", "en": "14 cm"},
+            {"hi": "10 cm", "en": "10 cm"},
+            {"hi": "48 cm", "en": "48 cm"},
             {"hi": "12 cm", "en": "12 cm"}
           ],
-          "answer": {"hi": "8 cm", "en": "8 cm"}
+          "answer": {"hi": "10 cm", "en": "10 cm"}
         },
         {
           "q": {
-            "hi": "त्रिभुज की भुजाओं 122 m, 22 m और 120 m के लिए s का मान क्या है?",
-            "en": "What is the value of s for a triangle with sides 122 m, 22 m, and 120 m?"
+            "hi": "यदि एक वृत्त का परिमाप (परिधि) और क्षेत्रफल संख्यात्मक रूप से बराबर हैं, तो उस वृत्त की त्रिज्या क्या होगी?",
+            "en": "If the perimeter (circumference) and the area of a circle are numerically equal, then what will be the radius of that circle?"
           },
           "options": [
-            {"hi": "264 m", "en": "264 m"},
-            {"hi": "132 m", "en": "132 m"},
-            {"hi": "100 m", "en": "100 m"},
-            {"hi": "200 m", "en": "200 m"}
+            {"hi": "2 मात्रक (2 units)", "en": "2 units"},
+            {"hi": "\u03c0 मात्रक", "en": "\u03c0 units"},
+            {"hi": "4 मात्रक", "en": "4 units"},
+            {"hi": "7 मात्रक", "en": "7 units"}
           ],
-          "answer": {"hi": "132 m", "en": "132 m"}
+          "answer": {"hi": "2 मात्रक (2 units)", "en": "2 units"}
+        }
+      ],
+      "section2": [
+        {
+          "q": {
+            "hi": "वृत्तीय क्षेत्र का वह भाग जो दो त्रिज्याओं और एक संगत चाप (arc) से घिरा (परिबद्ध) हो, क्या कहलाता है?",
+            "en": "The portion of a circular region enclosed by two radii and a corresponding arc is called what?"
+          },
+          "options": [
+            {"hi": "वृत्तखंड", "en": "Segment of a circle"},
+            {"hi": "त्रिज्यखंड (Sector of a circle)", "en": "Sector of a circle"},
+            {"hi": "अर्धवृत्त", "en": "Semicircle"},
+            {"hi": "चतुर्थांश", "en": "Quadrant"}
+          ],
+          "answer": {"hi": "त्रिज्यखंड (Sector of a circle)", "en": "Sector of a circle"}
         },
         {
           "q": {
-            "hi": "132(10)(110)(12) का मान क्या होगा?",
-            "en": "What will be the value of 132(10)(110)(12)?"
+            "hi": "त्रिज्यखंड में छोटे चाप द्वारा घिरे भाग को लघु त्रिज्यखंड कहते हैं। बड़े चाप द्वारा घिरे भाग को क्या कहा जाता है?",
+            "en": "The region enclosed by the minor arc in a sector is called the minor sector. What is the region enclosed by the major arc called?"
           },
           "options": [
-            {"hi": "1742400", "en": "1742400"},
-            {"hi": "13200", "en": "13200"},
-            {"hi": "14400", "en": "14400"},
-            {"hi": "12100", "en": "12100"}
+            {"hi": "लघु वृत्तखंड", "en": "Minor segment"},
+            {"hi": "दीर्घ त्रिज्यखंड (Major sector)", "en": "Major sector"},
+            {"hi": "दीर्घ वृत्तखंड", "en": "Major segment"},
+            {"hi": "चतुर्थांश", "en": "Quadrant"}
           ],
-          "answer": {"hi": "1742400", "en": "1742400"}
+          "answer": {"hi": "दीर्घ त्रिज्यखंड (Major sector)", "en": "Major sector"}
+        },
+        {
+          "q": {
+            "hi": "वृत्तीय क्षेत्र का वह भाग जो एक जीवा (chord) और एक संगत चाप के बीच परिबद्ध हो, उसे क्या कहते हैं?",
+            "en": "The portion of a circular region enclosed between a chord and a corresponding arc is called what?"
+          },
+          "options": [
+            {"hi": "त्रिज्यखंड", "en": "Sector"},
+            {"hi": "वृत्तखंड (Segment of a circle)", "en": "Segment of a circle"},
+            {"hi": "त्रिज्यखंड का कोण", "en": "Angle of sector"},
+            {"hi": "परिधि", "en": "Circumference"}
+          ],
+          "answer": {"hi": "वृत्तखंड (Segment of a circle)", "en": "Segment of a circle"}
+        },
+        {
+          "q": {
+            "hi": "त्रिज्या r वाले वृत्त के एक त्रिज्यखंड का क्षेत्रफल, जिसका कोण अंशों में \u03b8 है, ज्ञात करने का सही सूत्र क्या है?",
+            "en": "What is the correct formula to find the area of a sector of a circle with radius r, whose angle in degrees is \u03b8?"
+          },
+          "options": [
+            {"hi": "\\frac{\\theta}{180^\\circ} \\times \\pi r^2", "en": "\\frac{\\theta}{180^\\circ} \\times \\pi r^2"},
+            {"hi": "\\frac{\\theta}{360^\\circ} \\times \\pi r^2", "en": "\\frac{\\theta}{360^\\circ} \\times \\pi r^2"},
+            {"hi": "\\frac{\\theta}{360^\\circ} \\times 2\\pi r", "en": "\\frac{\\theta}{360^\\circ} \\times 2\\pi r"},
+            {"hi": "\\frac{\\theta}{720^\\circ} \\times 2\\pi r^2", "en": "\\frac{\\theta}{720^\\circ} \\times 2\\pi r^2"}
+          ],
+          "answer": {"hi": "\\frac{\\theta}{360^\\circ} \\times \\pi r^2", "en": "\\frac{\\theta}{360^\\circ} \\times \\pi r^2"}
+        },
+        {
+          "q": {
+            "hi": "त्रिज्या r वाले वृत्त के उस चाप की लंबाई (length of arc) क्या होगी, जो केंद्र पर \u03b8 कोण अंतरित करता है?",
+            "en": "What will be the length of an arc of a circle with radius r, which subtends an angle \u03b8 at the center?"
+          },
+          "options": [
+            {"hi": "\\frac{\\theta}{360^\\circ} \\times \u03c0r^2", "en": "\\frac{\\theta}{360^\\circ} \\times \u03c0r^2"},
+            {"hi": "\\frac{\\theta}{360^\\circ} \\times 2\\pi r", "en": "\\frac{\\theta}{360^\\circ} \\times 2\\pi r"},
+            {"hi": "\\frac{\\theta}{180^\\circ} \\times 2\\pi r", "en": "\\frac{\\theta}{180^\\circ} \\times 2\\pi r"},
+            {"hi": "\\frac{\\theta}{720^\\circ} \\times \u03c0r", "en": "\\frac{\\theta}{720^\\circ} \\times \u03c0r"}
+          ],
+          "answer": {"hi": "\\frac{\\theta}{360^\\circ} \\times 2\\pi r", "en": "\\frac{\\theta}{360^\\circ} \\times 2\\pi r"}
+        },
+        {
+          "q": {
+            "hi": "लघु वृत्तखंड का क्षेत्रफल ज्ञात करने के लिए संगत लघु त्रिज्यखंड के क्षेत्रफल में से किस आकृति का क्षेत्रफल घटाया जाता है?",
+            "en": "To find the area of a minor segment, the area of which figure is subtracted from the area of the corresponding minor sector?"
+          },
+          "options": [
+            {"hi": "संगत त्रिभुज का क्षेत्रफल (Area of corresponding triangle)", "en": "Area of corresponding triangle"},
+            {"hi": "आयत का क्षेत्रफल", "en": "Area of rectangle"},
+            {"hi": "दीर्घ त्रिज्यखंड का क्षेत्रफल", "en": "Area of major sector"},
+            {"hi": "अर्धवृत्त का क्षेत्रफल", "en": "Area of semicircle"}
+          ],
+          "answer": {"hi": "संगत त्रिभुज का क्षेत्रफल (Area of corresponding triangle)", "en": "Area of corresponding triangle"}
+        },
+        {
+          "q": {
+            "hi": "दीर्घ वृत्तखंड (Major segment) का क्षेत्रफल किसके बराबर होता है?",
+            "en": "The area of a major segment is equal to what?"
+          },
+          "options": [
+            {"hi": "\u03c0r^2 + लघु वृत्तखंड का क्षेत्रफल", "en": "\u03c0r^2 + Area of minor segment"},
+            {"hi": "\u03c0r^2 - लघु वृत्तखंड का क्षेत्रफल", "en": "\u03c0r^2 - Area of minor segment"},
+            {"hi": "त्रिज्यखंड का क्षेत्रफल - त्रिभुज का क्षेत्रफल", "en": "Area of sector - Area of triangle"},
+            {"hi": "लघु त्रिज्यखंड का क्षेत्रफल + \u03c0r^2", "en": "Area of minor sector + \u03c0r^2"}
+          ],
+          "answer": {"hi": "\u03c0r^2 - लघु वृत्तखंड का क्षेत्रफल", "en": "\u03c0r^2 - Area of minor segment"}
+        },
+        {
+          "q": {
+            "hi": "यदि पाठ्यपुस्तक में सामान्यतः केवल 'त्रिज्यखंड' या 'वृत्तखंड' लिखा हो, तो उसे क्रमशः कौन सा त्रिज्यखंड या वृत्तखंड समझना चाहिए?",
+            "en": "If only 'sector' or 'segment' is generally written in the textbook, which sector or segment should it be understood as respectively?"
+          },
+          "options": [
+            {"hi": "दीर्घ त्रिज्यखंड और दीर्घ वृत्तखंड", "en": "Major sector and Major segment"},
+            {"hi": "लघु त्रिज्यखंड और लघु वृत्तखंड (Minor sector and Minor segment)", "en": "Minor sector and Minor segment"},
+            {"hi": "अर्धवृत्त", "en": "Semicircle"},
+            {"hi": "चतुर्थांश", "en": "Quadrant"}
+          ],
+          "answer": {"hi": "लघु त्रिज्यखंड और लघु वृत्तखंड (Minor sector and Minor segment)", "en": "Minor sector and Minor segment"}
+        },
+        {
+          "q": {
+            "hi": "6 cm त्रिज्या वाले एक वृत्त के एक त्रिज्यखंड का क्षेत्रफल ज्ञात कीजिए, जिसका कोण 60^\\circ है।",
+            "en": "Find the area of a sector of a circle with radius 6 cm if angle of the sector is 60^\\circ."
+          },
+          "options": [
+            {"hi": "132/7 cm^2", "en": "132/7 cm^2"},
+            {"hi": "154/7 cm^2", "en": "154/7 cm^2"},
+            {"hi": "22/7 cm^2", "en": "22/7 cm^2"},
+            {"hi": "44 cm^2", "en": "44 cm^2"}
+          ],
+          "answer": {"hi": "132/7 cm^2", "en": "132/7 cm^2"}
+        },
+        {
+          "q": {
+            "hi": "एक वृत्त के चतुर्थांश (Quadrant) का क्षेत्रफल क्या होगा, जिसकी परिधि 22 cm है?",
+            "en": "What will be the area of a quadrant of a circle whose circumference is 22 cm?"
+          },
+          "options": [
+            {"hi": "77/8 cm^2", "en": "77/8 cm^2"},
+            {"hi": "77/4 cm^2", "en": "77/4 cm^2"},
+            {"hi": "11/4 cm^2", "en": "11/4 cm^2"},
+            {"hi": "9.625 cm^2", "en": "9.625 cm^2"}
+          ],
+          "answer": {"hi": "77/8 cm^2", "en": "77/8 cm^2"}
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "एक घड़ी की मिनट की सुई जिसकी लंबाई 14 cm है। इस सुई द्वारा 5 मिनट में रचित क्षेत्रफल क्या होगा? (संकेत: 5 मिनट में सुई 30^\\circ घूमती है)",
+            "en": "The length of the minute hand of a clock is 14 cm. Find the area swept by the minute hand in 5 minutes. (Hint: In 5 minutes, the hand rotates by 30^\\circ)"
+          },
+          "options": [
+            {"hi": "154/3 cm^2", "en": "154/3 cm^2"},
+            {"hi": "154 cm^2", "en": "154 cm^2"},
+            {"hi": "11/3 cm^2", "en": "11/3 cm^2"},
+            {"hi": "308/3 cm^2", "en": "308/3 cm^2"}
+          ],
+          "answer": {"hi": "154/3 cm^2", "en": "154/3 cm^2"}
+        },
+        {
+          "q": {
+            "hi": "10 cm त्रिज्या वाले एक वृत्त की कोई जीवा केंद्र पर एक समकोण (\u2220AOB = 90^\\circ) अंतरित करती है। संगत लघु वृत्तखंड का क्षेत्रफल क्या होगा? (\u03c0 = 3.14 लें)",
+            "en": "A chord of a circle of radius 10 cm subtends a right angle (\u2220AOB = 90^\\circ) at the center. Find the area of the corresponding minor segment. (Take \u03c0 = 3.14)"
+          },
+          "options": [
+            {"hi": "28.5 cm^2", "en": "28.5 cm^2"},
+            {"hi": "78.5 cm^2", "en": "78.5 cm^2"},
+            {"hi": "50 cm^2", "en": "50 cm^2"},
+            {"hi": "235.5 cm^2", "en": "235.5 cm^2"}
+          ],
+          "answer": {"hi": "28.5 cm^2", "en": "28.5 cm^2"}
+        },
+        {
+          "q": {
+            "hi": "उपरोक्त प्रश्न के आधार पर (r=10 cm, \u03b8=90^\\circ), संगत दीर्घ त्रिज्यखंड (Major sector) का क्षेत्रफल क्या होगा?",
+            "en": "Based on the above question (r=10 cm, \u03b8=90^\\circ), what will be the area of the corresponding major sector?"
+          },
+          "options": [
+            {"hi": "235.5 cm^2", "en": "235.5 cm^2"},
+            {"hi": "314 cm^2", "en": "314 cm^2"},
+            {"hi": "78.5 cm^2", "en": "78.5 cm^2"},
+            {"hi": "250 cm^2", "en": "250 cm^2"}
+          ],
+          "answer": {"hi": "235.5 cm^2", "en": "235.5 cm^2"}
+        },
+        {
+          "q": {
+            "hi": "त्रिज्या 21 cm वाले वृत्त का एक चाप केंद्र पर 60^\\circ का कोण अंतरित करता है। चाप की लंबाई (length of the arc) क्या होगी?",
+            "en": "In a circle of radius 21 cm, an arc subtends an angle of 60^\\circ at the center. Find the length of the arc."
+          },
+          "options": [
+            {"hi": "22 cm", "en": "22 cm"},
+            {"hi": "44 cm", "en": "44 cm"},
+            {"hi": "11 cm", "en": "11 cm"},
+            {"hi": "21 cm", "en": "21 cm"}
+          ],
+          "answer": {"hi": "22 cm", "en": "22 cm"}
+        },
+        {
+          "q": {
+            "hi": "त्रिज्या 21 cm और कोण 60^\\circ वाले चाप द्वारा बनाए गए त्रिज्यखंड का क्षेत्रफल (area of the sector) क्या होगा?",
+            "en": "Find the area of the sector formed by the arc of radius 21 cm and angle 60^\\circ."
+          },
+          "options": [
+            {"hi": "231 cm^2", "en": "231 cm^2"},
+            {"hi": "462 cm^2", "en": "462 cm^2"},
+            {"hi": "1386 cm^2", "en": "1386 cm^2"},
+            {"hi": "115.5 cm^2", "en": "115.5 cm^2"}
+          ],
+          "answer": {"hi": "231 cm^2", "en": "231 cm^2"}
+        },
+        {
+          "q": {
+            "hi": "त्रिज्या 21 cm और केंद्र कोण 60^\\circ वाले संगत वृत्तखंड (segment) का क्षेत्रफल क्या होगा, यदि संगत समबाहु त्रिभुज का क्षेत्रफल \\frac{441\\sqrt{3}}{4} cm^2 है?",
+            "en": "What will be the area of the corresponding segment formed by a radius of 21 cm and a center angle of 60^\\circ, if the area of the corresponding equilateral triangle is \\frac{441\\sqrt{3}}{4} cm^2?"
+          },
+          "options": [
+            {"hi": "(231 - \\frac{441\\sqrt{3}}{4}) cm^2", "en": "(231 - \\frac{441\\sqrt{3}}{4}) cm^2"},
+            {"hi": "231 cm^2", "en": "231 cm^2"},
+            {"hi": "\\frac{441\\sqrt{3}}{4} cm^2", "en": "\\frac{441\\sqrt{3}}{4} cm^2"},
+            {"hi": "(462 - 441\\sqrt{3}) cm^2", "en": "(462 - 441\\sqrt{3}) cm^2"}
+          ],
+          "answer": {"hi": "(231 - \\frac{441\\sqrt{3}}{4}) cm^2", "en": "(231 - \\frac{441\\sqrt{3}}{4}) cm^2"}
+        },
+        {
+          "q": {
+            "hi": "त्रिज्या 15 cm वाले एक वृत्त की कोई जीवा केंद्र पर 60^\\circ का कोण अंतरित करती है। संगत लघु वृत्तखंड का क्षेत्रफल क्या होगा? (\u03c0=3.14, \\sqrt{3}=1.73 लें)",
+            "en": "A chord of a circle of radius 15 cm subtends an angle of 60^\\circ at the center. Find the area of the corresponding minor segment. (Take \u03c0=3.14, \\sqrt{3}=1.73)"
+          },
+          "options": [
+            {"hi": "20.4375 cm^2", "en": "20.4375 cm^2"},
+            {"hi": "97.3125 cm^2", "en": "97.3125 cm^2"},
+            {"hi": "117.75 cm^2", "en": "117.75 cm^2"},
+            {"hi": "40.875 cm^2", "en": "40.875 cm^2"}
+          ],
+          "answer": {"hi": "20.4375 cm^2", "en": "20.4375 cm^2"}
+        },
+        {
+          "q": {
+            "hi": "त्रिज्या 12 cm वाले एक वृत्त की कोई जीवा केंद्र पर 120^\\circ का कोण अंतरित करती है। संगत वृत्तखंड का क्षेत्रफल क्या होगा? (\u03c0=3.14, \\sqrt{3}=1.73 लें)",
+            "en": "A chord of a circle of radius 12 cm subtends an angle of 120^\\circ at the center. Find the area of the corresponding segment of the circle. (Take \u03c0=3.14, \\sqrt{3}=1.73)"
+          },
+          "options": [
+            {"hi": "88.44 cm^2", "en": "88.44 cm^2"},
+            {"hi": "150.72 cm^2", "en": "150.72 cm^2"},
+            {"hi": "62.28 cm^2", "en": "62.28 cm^2"},
+            {"hi": "100 cm^2", "en": "100 cm^2"}
+          ],
+          "answer": {"hi": "88.44 cm^2", "en": "88.44 cm^2"}
+        },
+        {
+          "q": {
+            "hi": "एक घोड़े को 15 m भुजा वाले एक वर्गाकार घास के मैदान के एक कोने पर खूँटे से 5 m लंबी रस्सी से बाँध दिया गया है। मैदान के उस भाग का क्षेत्रफल क्या होगा जहाँ घोड़ा घास चर सकता है?",
+            "en": "A horse is tied to a peg at one corner of a square grass field of side 15 m by means of a 5 m long rope. Find the area of that part of the field in which the horse can graze."
+          },
+          "options": [
+            {"hi": "19.625 m^2", "en": "19.625 m^2"},
+            {"hi": "78.5 m^2", "en": "78.5 m^2"},
+            {"hi": "25 m^2", "en": "25 m^2"},
+            {"hi": "15 m^2", "en": "15 m^2"}
+          ],
+          "answer": {"hi": "19.625 m^2", "en": "19.625 m^2"}
+        },
+        {
+          "q": {
+            "hi": "यदि घोड़े की रस्सी को 5 m के स्थान पर 10 m लंबी कर दिया जाए, तो चरे जा सकने वाले क्षेत्रफल में कितनी वृद्धि (increase in grazing area) होगी? (\u03c0=3.14 लें)",
+            "en": "Find the increase in the grazing area if the rope were 10 m long instead of 5 m. (Take \u03c0=3.14)"
+          },
+          "options": [
+            {"hi": "58.875 m^2", "en": "58.875 m^2"},
+            {"hi": "78.5 m^2", "en": "78.5 m^2"},
+            {"hi": "19.625 m^2", "en": "19.625 m^2"},
+            {"hi": "39.25 m^2", "en": "39.25 m^2"}
+          ],
+          "answer": {"hi": "58.875 m^2", "en": "58.875 m^2"}
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "एक वृत्ताकार ब्रोच (brooch) को चाँदी के तार से बनाया जाना है जिसका व्यास 35 mm है। तार को वृत्त के 5 व्यासों को बनाने में भी प्रयुक्त किया गया है जो उसे 10 बराबर त्रिज्यखंडों में बाँटते हैं। कुल वांछित चाँदी के तार की लंबाई क्या होगी?",
+            "en": "A circular brooch is made with silver wire in the form of a circle with diameter 35 mm. The wire is also used in making 5 diameters which divide the circle into 10 equal sectors. Find the total length of the silver wire required."
+          },
+          "options": [
+            {"hi": "285 mm", "en": "285 mm"},
+            {"hi": "110 mm", "en": "110 mm"},
+            {"hi": "175 mm", "en": "175 mm"},
+            {"hi": "220 mm", "en": "220 mm"}
+          ],
+          "answer": {"hi": "285 mm", "en": "285 mm"}
+        },
+        {
+          "q": {
+            "hi": "उपरोक्त प्रश्न के आधार पर (व्यास = 35 mm, कुल 10 त्रिज्यखंड), ब्रोच के प्रत्येक त्रिज्यखंड का क्षेत्रफल (area of each sector) क्या होगा?",
+            "en": "Based on the above question (diameter = 35 mm, total 10 sectors), what will be the area of each sector of the brooch?"
+          },
+          "options": [
+            {"hi": "385/4 mm^2", "en": "385/4 mm^2"},
+            {"hi": "385/2 mm^2", "en": "385/2 mm^2"},
+            {"hi": "110 mm^2", "en": "110 mm^2"},
+            {"hi": "96.25 mm^2", "en": "96.25 mm^2"}
+          ],
+          "answer": {"hi": "385/4 mm^2", "en": "385/4 mm^2"}
+        },
+        {
+          "q": {
+            "hi": "एक छतरी (umbrella) में 8 तानें (ribs) हैं, जो समान दूरी पर लगी हैं। छतरी को 45 cm त्रिज्या वाला एक सपाट वृत्त मानते हुए, इसकी दो क्रमागत तानों के बीच का क्षेत्रफल क्या होगा?",
+            "en": "An umbrella has 8 ribs which are equally spaced. Assuming the umbrella to be a flat circle of radius 45 cm, find the area between the two consecutive ribs of the umbrella."
+          },
+          "options": [
+            {"hi": "22275/28 cm^2", "en": "22275/28 cm^2"},
+            {"hi": "22275/14 cm^2", "en": "22275/14 cm^2"},
+            {"hi": "11137.5 cm^2", "en": "11137.5 cm^2"},
+            {"hi": "795.5 cm^2", "en": "795.5 cm^2"}
+          ],
+          "answer": {"hi": "22275/28 cm^2", "en": "22275/28 cm^2"}
+        },
+        {
+          "q": {
+            "hi": "किसी कार के दो वाइपर (wipers) हैं, जो एक-दूसरे को आच्छादित (overlap) नहीं करते हैं। प्रत्येक वाइपर की पत्ती की लंबाई 25 cm है और 115^\\circ के कोण तक घूमकर सफाई कर सकता है। पत्तियों की प्रत्येक बुहार के साथ साफ होने वाला कुल क्षेत्रफल क्या होगा?",
+            "en": "A car has two wipers which do not overlap. Each wiper has a blade of length 25 cm sweeping through an angle of 115^\\circ. Find the total area cleaned at each sweep of the blades."
+          },
+          "options": [
+            {"hi": "158125/126 cm^2", "en": "158125/126 cm^2"},
+            {"hi": "158125/252 cm^2", "en": "158125/252 cm^2"},
+            {"hi": "1254.96 cm^2", "en": "1254.96 cm^2"},
+            {"hi": "2509.92 cm^2", "en": "2509.92 cm^2"}
+          ],
+          "answer": {"hi": "158125/126 cm^2", "en": "158125/126 cm^2"}
+        },
+        {
+          "q": {
+            "hi": "जहाजों को समुद्र में जलस्तर के नीचे स्थित चट्टानों की चेतावनी देने के लिए, एक लाइटहाउस 80^\\circ कोण वाले एक त्रिज्यखंड में 16.5 km की दूरी तक लाल रंग का प्रकाश फैलाता है। समुद्र के उस भाग का क्षेत्रफल ज्ञात कीजिए जिसमें जहाजों को चेतावनी दी जा सके। (\u03c0=3.14 लें)",
+            "en": "To warn ships for underwater rocks, a lighthouse spreads a red colored light over a sector of angle 80^\\circ to a distance of 16.5 km. Find the area of the sea over which the ships are warned. (Take \u03c0 = 3.14)"
+          },
+          "options": [
+            {"hi": "189.97 km^2", "en": "189.97 km^2"},
+            {"hi": "189.97 m^2", "en": "189.97 m^2"},
+            {"hi": "569.91 km^2", "en": "569.91 km^2"},
+            {"hi": "94.98 km^2", "en": "94.98 km^2"}
+          ],
+          "answer": {"hi": "189.97 km^2", "en": "189.97 km^2"}
+        },
+        {
+          "q": {
+            "hi": "एक गोल मेजपोश (round table cover) पर 6 समान डिजाइन बने हुए हैं। यदि मेजपोश की त्रिज्या 28 cm हो, तो ₹0.35 प्रति वर्ग सेंटीमीटर की दर से इन डिजाइनों को बनाने का खर्च क्या होगा? (\\sqrt{3} = 1.7 लें)",
+            "en": "A round table cover has 6 equal designs. If the radius of the cover is 28 cm, find the cost of making the designs at the rate of ₹0.35 per cm^2. (Take \\sqrt{3} = 1.7)"
+          },
+          "options": [
+            {"hi": "₹162.68", "en": "₹162.68"},
+            {"hi": "₹162.00", "en": "₹162.00"},
+            {"hi": "₹464.80", "en": "₹464.80"},
+            {"hi": "₹325.36", "en": "₹325.36"}
+          ],
+          "answer": {"hi": "₹162.68", "en": "₹162.68"}
+        },
+        {
+          "q": {
+            "hi": "निम्नलिखित में सही उत्तर चुनिए: त्रिज्या R वाले वृत्त के उस त्रिज्यखंड का क्षेत्रफल जिसका कोण p^\\circ है, निम्नलिखित है:",
+            "en": "Choose the correct answer in the following: Area of a sector of angle p^\\circ of a circle with radius R is:"
+          },
+          "options": [
+            {"hi": "(p/180) \\times 2\u03c0R", "en": "(p/180) \\times 2\u03c0R"},
+            {"hi": "(p/180) \\times \u03c0R^2", "en": "(p/180) \\times \u03c0R^2"},
+            {"hi": "(p/360) \\times 2\u03c0R", "en": "(p/360) \\times 2\u03c0R"},
+            {"hi": "(p/720) \\times 2\u03c0R^2", "en": "(p/720) \\times 2\u03c0R^2"}
+          ],
+          "answer": {"hi": "(p/720) \\times 2\u03c0R^2", "en": "(p/720) \\times 2\u03c0R^2"}
+        },
+        {
+          "q": {
+            "hi": "आकृति 12.15 के अनुसार, दो संकेंद्रीय वृत्तों जिनका केंद्र O है, की त्रिज्याएँ 7 cm और 14 cm हैं तथा \u2220AOC = 40^\\circ है। छायांकित भाग (shaded region) का क्षेत्रफल क्या होगा?",
+            "en": "According to Fig 12.15, the radii of two concentric circles with center O are 7 cm and 14 cm and \u2220AOC = 40^\\circ. Find the area of the shaded region."
+          },
+          "options": [
+            {"hi": "154/3 cm^2", "en": "154/3 cm^2"},
+            {"hi": "154 cm^2", "en": "154 cm^2"},
+            {"hi": "51.33 cm^2", "en": "51.33 cm^2"},
+            {"hi": "154/6 cm^2", "en": "154/6 cm^2"}
+          ],
+          "answer": {"hi": "154/3 cm^2", "en": "154/3 cm^2"}
+        },
+        {
+          "q": {
+            "hi": "भुजा 14 cm वाले एक वर्ग ABCD में से दो अर्धवृत्त APD और BPC काटकर निकाल दिए गए हैं। वर्ग के शेष छायांकित भाग का क्षेत्रफल क्या होगा?",
+            "en": "From a square ABCD of side 14 cm, two semicircles APD and BPC are cut out and removed. Find the area of the remaining shaded region of the square."
+          },
+          "options": [
+            {"hi": "42 cm^2", "en": "42 cm^2"},
+            {"hi": "196 cm^2", "en": "196 cm^2"},
+            {"hi": "154 cm^2", "en": "154 cm^2"},
+            {"hi": "98 cm^2", "en": "98 cm^2"}
+          ],
+          "answer": {"hi": "42 cm^2", "en": "42 cm^2"}
+        },
+        {
+          "q": {
+            "hi": "एक समबाहु त्रिभुज OAB जिसके शीर्ष O पर केंद्र मानकर 6 cm त्रिज्या वाला एक वृत्तीय चाप खींचा गया है। यदि समबाहु त्रिभुज की भुजा 12 cm हो, तो पूरे दीर्घ त्रिज्यखंड सहित छायांकित भाग का कुल क्षेत्रफल क्या होगा?",
+            "en": "An equilateral triangle OAB has a circular arc of radius 6 cm drawn with center O. If the side of the equilateral triangle is 12 cm, find the total area of the shaded region including the major sector."
+          },
+          "options": [
+            {"hi": "(660/7 + 36\\sqrt{3}) cm^2", "en": "(660/7 + 36\\sqrt{3}) cm^2"},
+            {"hi": "(792/7 + 36\\sqrt{3}) cm^2", "en": "(792/7 + 36\\sqrt{3}) cm^2"},
+            {"hi": "(660/7 + 12\\sqrt{3}) cm^2", "en": "(660/7 + 12\\sqrt{3}) cm^2"},
+            {"hi": "94.28 cm^2", "en": "94.28 cm^2"}
+          ],
+          "answer": {"hi": "(660/7 + 36\\sqrt{3}) cm^2", "en": "(660/7 + 36\\sqrt{3}) cm^2"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "1742400 का वर्गमूल क्या है?",
-            "en": "What is the square root of 1742400?"
+            "hi": "भुजा 4 cm वाले एक वर्ग के प्रत्येक कोने से 1 cm त्रिज्या वाले वृत्त का एक चतुर्थांश काटा गया है तथा बीच में 2 cm व्यास का एक वृत्त भी काटा गया है। वर्ग के शेष भाग का क्षेत्रफल क्या होगा?",
+            "en": "From each corner of a square of side 4 cm, a quadrant of a circle of radius 1 cm is cut, and a circle of diameter 2 cm is also cut in the middle. Find the area of the remaining portion of the square."
           },
           "options": [
-            {"hi": "132", "en": "132"},
-            {"hi": "1320", "en": "1320"},
-            {"hi": "1220", "en": "1220"},
-            {"hi": "1120", "en": "1120"}
+            {"hi": "68/7 cm^2", "en": "68/7 cm^2"},
+            {"hi": "44/7 cm^2", "en": "44/7 cm^2"},
+            {"hi": "22/7 cm^2", "en": "22/7 cm^2"},
+            {"hi": "9.71 cm^2", "en": "9.71 cm^2"}
           ],
-          "answer": {"hi": "1320", "en": "1320"}
+          "answer": {"hi": "68/7 cm^2", "en": "68/7 cm^2"}
         },
         {
           "q": {
-            "hi": "एक त्रिभुजाकार बोर्ड की भुजाएँ 5 cm, 12 cm और 13 cm हैं। इसे 30 रुपये प्रति cm² की दर से पेंट करने का खर्च क्या होगा?",
-            "en": "The sides of a triangular board are 5 cm, 12 cm, and 13 cm. What will be the cost of painting it at 30 rupees per cm²?"
+            "hi": "एक वृत्ताकार मेजपोश, जिसकी त्रिज्या 32 cm है, के बीच में एक समबाहु त्रिभुज ABC छोड़ते हुए एक डिजाइन बना हुआ है। इस डिजाइन का क्षेत्रफल क्या होगा? (मेज़पोश का क्षेत्रफल - समबाहु त्रिभुज का क्षेत्रफल)",
+            "en": "A circular table cover of radius 32 cm has a design formed leaving an equilateral triangle ABC in the middle. Find the area of the design."
           },
           "options": [
-            {"hi": "900 रुपये", "en": "900 rupees"},
-            {"hi": "1800 रुपये", "en": "1800 rupees"},
-            {"hi": "450 रुपये", "en": "450 rupees"},
-            {"hi": "600 रुपये", "en": "600 rupees"}
+            {"hi": "(22528/7 - 768\\sqrt{3}) cm^2", "en": "(22528/7 - 768\\sqrt{3}) cm^2"},
+            {"hi": "(22528/7 - 192\\sqrt{3}) cm^2", "en": "(22528/7 - 192\\sqrt{3}) cm^2"},
+            {"hi": "(11264/7 - 768\\sqrt{3}) cm^2", "en": "(11264/7 - 768\\sqrt{3}) cm^2"},
+            {"hi": "3218.28 cm^2", "en": "3218.28 cm^2"}
           ],
-          "answer": {"hi": "900 रुपये", "en": "900 rupees"}
+          "answer": {"hi": "(22528/7 - 768\\sqrt{3}) cm^2", "en": "(22528/7 - 768\\sqrt{3}) cm^2"}
         },
         {
           "q": {
-            "hi": "हीरोन का सूत्र चतुर्भुजों के क्षेत्रफल निकालने में कैसे मदद करता है?",
-            "en": "How does Heron's formula help in finding the area of quadrilaterals?"
+            "hi": "आकृति 12.26 में, एक वर्गाकार रुमाल पर, 9 वृत्ताकार डिजाइन बने हैं, जिनमें से प्रत्येक की त्रिज्या 7 cm है। रुमाल के शेष भाग का क्षेत्रफल क्या होगा?",
+            "en": "In Fig 12.26, on a square handkerchief, 9 circular designs, each of radius 7 cm, are made. Find the area of the remaining portion of the handkerchief."
           },
           "options": [
-            {"hi": "सीधे सूत्र लगाकर", "en": "By applying direct formula"},
-            {"hi": "चतुर्भुज को दो त्रिभुजों में बाँटकर", "en": "By dividing the quadrilateral into two triangles"},
-            {"hi": "चतुर्भुज को वृत्त मानकर", "en": "By assuming the quadrilateral as a circle"},
-            {"hi": "मदद नहीं करता", "en": "Does not help"}
+            {"hi": "378 cm^2", "en": "378 cm^2"},
+            {"hi": "1764 cm^2", "en": "1764 cm^2"},
+            {"hi": "1386 cm^2", "en": "1386 cm^2"},
+            {"hi": "441 cm^2", "en": "441 cm^2"}
           ],
-          "answer": {"hi": "चतुर्भुज को दो त्रिभुजों में बाँटकर", "en": "By dividing the quadrilateral into two triangles"}
+          "answer": {"hi": "378 cm^2", "en": "378 cm^2"}
         },
         {
           "q": {
-            "hi": "एक समद्विबाहु त्रिभुज का क्षेत्रफल क्या है जिसकी बराबर भुजाएँ 'a' और आधार 'b' है?",
-            "en": "What is the area of an isosceles triangle with equal sides 'a' and base 'b'?"
+            "hi": "आकृति 12.27 में, OACB केंद्र O और त्रिज्या 3.5 cm वाले एक वृत्त का चतुर्थांश है। यदि OD = 2 cm हो, तो चतुर्थांश OACB का क्षेत्रफल क्या होगा?",
+            "en": "In Fig 12.27, OACB is a quadrant of a circle with center O and radius 3.5 cm. If OD = 2 cm, find the area of the quadrant OACB."
           },
           "options": [
-            {"hi": "$\\frac{b}{4}\\sqrt{4a^2-b^2}$", "en": "$\\frac{b}{4}\\sqrt{4a^2-b^2}$"},
-            {"hi": "$\\frac{a}{4}\\sqrt{4b^2-a^2}$", "en": "$\\frac{a}{4}\\sqrt{4b^2-a^2}$"},
-            {"hi": "$1/2 b a$", "en": "$1/2 b a$"},
-            {"hi": "$\\sqrt{a^2-b^2}$", "en": "$\\sqrt{a^2-b^2}$"}
+            {"hi": "77/8 cm^2", "en": "77/8 cm^2"},
+            {"hi": "77/4 cm^2", "en": "77/4 cm^2"},
+            {"hi": "9.625 cm^2", "en": "9.625 cm^2"},
+            {"hi": "38.5 cm^2", "en": "38.5 cm^2"}
           ],
-          "answer": {"hi": "$\\frac{b}{4}\\sqrt{4a^2-b^2}$", "en": "$\\frac{b}{4}\\sqrt{4a^2-b^2}$"}
+          "answer": {"hi": "77/8 cm^2", "en": "77/8 cm^2"}
         },
         {
           "q": {
-            "hi": "यदि त्रिभुज का क्षेत्रफल $A$ है और परिमाप $2s$ है, तो अंत:वृत्त की त्रिज्या $r$ क्या होगी?",
-            "en": "If the area of a triangle is $A$ and perimeter is $2s$, what will be the inradius $r$?"
+            "hi": "उपरोक्त प्रश्न के आधार पर (r = 3.5 cm, OD = 2 cm), चतुर्थांश के अंदर बने \\u2triangleBOD को घटाकर बचे छायांकित भाग का क्षेत्रफल क्या होगा?",
+            "en": "Based on the above question (r = 3.5 cm, OD = 2 cm), what will be the area of the shaded region after subtracting \\u2triangleBOD from the quadrant?"
           },
           "options": [
-            {"hi": "$r = A / s$", "en": "$r = A / s$"},
-            {"hi": "$r = A \\times s$", "en": "$r = A \\times s$"},
-            {"hi": "$r = 2A / s$", "en": "$r = 2A / s$"},
-            {"hi": "$r = s / A$"}
+            {"hi": "49/8 cm^2", "en": "49/8 cm^2"},
+            {"hi": "77/8 cm^2", "en": "77/8 cm^2"},
+            {"hi": "3.5 cm^2", "en": "3.5 cm^2"},
+            {"hi": "6.125 cm^2", "en": "6.125 cm^2"}
           ],
-          "answer": {"hi": "$r = A / s$", "en": "$r = A / s$"}
+          "answer": {"hi": "49/8 cm^2", "en": "49/8 cm^2"}
         },
         {
           "q": {
-            "hi": "एक त्रिभुज की भुजाएँ 11 m, 15 m और 16 m हैं। इसका अर्ध-परिमाप क्या है?",
-            "en": "The sides of a triangle are 11 m, 15 m, and 16 m. What is its semi-perimeter?"
+            "hi": "एक वर्गाकार लॉन के दो ओर बनी दो वृत्ताकार फूलों की क्यारियाँ हैं। यदि वर्ग की प्रत्येक भुजा 56 m हो और वृत्ताकार क्यारी का केंद्र वर्ग के विकर्णों का प्रतिच्छेद बिंदु O हो, तो पूरे लॉन और क्यारियों का कुल क्षेत्रफल क्या होगा?",
+            "en": "Two circular flower beds are extensions on two sides of a square lawn. If each side of the square is 56 m and the center of the circular bed is the intersection point O of the diagonals of the square, find the total area of the lawn and flower beds."
           },
           "options": [
-            {"hi": "42 m", "en": "42 m"},
-            {"hi": "21 m", "en": "21 m"},
-            {"hi": "20 m", "en": "20 m"},
-            {"hi": "15 m", "en": "15 m"}
+            {"hi": "4032 m^2", "en": "4032 m^2"},
+            {"hi": "3136 m^2", "en": "3136 m^2"},
+            {"hi": "896 m^2", "en": "896 m^2"},
+            {"hi": "4500 m^2", "en": "4500 m^2"}
           ],
-          "answer": {"hi": "21 m", "en": "21 m"}
+          "answer": {"hi": "4032 m^2", "en": "4032 m^2"}
         },
         {
           "q": {
-            "hi": "यदि किसी त्रिभुज की भुजाओं का अनुपात 12:17:25 है और परिमाप 540 cm है, तो x का मान क्या है? ($12x+17x+25x=540$)",
-            "en": "If the ratio of sides of a triangle is 12:17:25 and perimeter is 540 cm, what is the value of x? ($12x+17x+25x=540$)"
+            "hi": "एक चतुर्थांश OPBQ के अंतर्गत एक वर्ग OABC बना हुआ है। यदि OA = 20 cm है, तो छायांकित भाग का क्षेत्रफल ज्ञात कीजिए। (\u03c0 = 3.14 लें)",
+            "en": "A square OABC is inscribed in a quadrant OPBQ. If OA = 20 cm, find the area of the shaded region. (Take \u03c0 = 3.14)"
           },
           "options": [
-            {"hi": "5", "en": "5"},
-            {"hi": "10", "en": "10"},
-            {"hi": "20", "en": "20"},
-            {"hi": "15", "en": "15"}
+            {"hi": "228 cm^2", "en": "228 cm^2"},
+            {"hi": "400 cm^2", "en": "400 cm^2"},
+            {"hi": "628 cm^2", "en": "628 cm^2"},
+            {"hi": "114 cm^2", "en": "114 cm^2"}
           ],
-          "answer": {"hi": "10", "en": "10"}
+          "answer": {"hi": "228 cm^2", "en": "228 cm^2"}
         },
         {
           "q": {
-            "hi": "9000 cm² क्षेत्रफल के लिए $s$ का मान क्या होगा यदि परिमाप 540 cm है?",
-            "en": "What will be the value of $s$ for an area of 9000 cm² if perimeter is 540 cm?"
+            "hi": "AB और CD केंद्र O तथा त्रिज्याओं 21 cm और 7 cm वाले दो संकेंद्रीय वृत्तों के क्रमशः दो चाप हैं। यदि \u2220AOB = 30^\\circ है, तो दोनों त्रिज्यखंडों के बीच घिरे छायांकित भाग का क्षेत्रफल क्या होगा?",
+            "en": "AB and CD are two arcs of two concentric circles of radii 21 cm and 7 cm respectively with center O. If \u2220AOB = 30^\\circ, find the area of the shaded region enclosed between the two sectors."
           },
           "options": [
-            {"hi": "540", "en": "540"},
-            {"hi": "270", "en": "270"},
-            {"hi": "180", "en": "180"},
-            {"hi": "360", "en": "360"}
+            {"hi": "308/3 cm^2", "en": "308/3 cm^2"},
+            {"hi": "154/3 cm^2", "en": "154/3 cm^2"},
+            {"hi": "77 cm^2", "en": "77 cm^2"},
+            {"hi": "616/3 cm^2", "en": "616/3 cm^2"}
           ],
-          "answer": {"hi": "270", "en": "270"}
+          "answer": {"hi": "308/3 cm^2", "en": "308/3 cm^2"}
         },
         {
           "q": {
-            "hi": "किसी समबाहु त्रिभुज की ऊँचाई 'h' का सूत्र क्या है जिसकी भुजा 'a' है?",
-            "en": "What is the formula for height 'h' of an equilateral triangle with side 'a'?"
+            "hi": "आकृति 12.33 में, ABC त्रिज्या 14 cm वाले एक वृत्त का चतुर्थांश है तथा BC को व्यास मानकर एक अर्धवृत्त खींचा गया है। छायांकित भाग (Shaded area) का क्षेत्रफल क्या होगा?",
+            "en": "In Fig 12.33, ABC is a quadrant of a circle of radius 14 cm and a semicircle is drawn with BC as diameter. Find the area of the shaded region."
           },
           "options": [
-            {"hi": "$\\frac{\\sqrt{3}}{2} a$", "en": "$\\frac{\\sqrt{3}}{2} a$"},
-            {"hi": "$\\frac{\\sqrt{3}}{4} a$", "en": "$\\frac{\\sqrt{3}}{4} a$"},
-            {"hi": "$\\frac{1}{2} a$", "en": "$\\frac{1}{2} a$"},
-            {"hi": "$\\sqrt{3} a$", "en": "$\\sqrt{3} a$"}
+            {"hi": "98 cm^2", "en": "98 cm^2"},
+            {"hi": "154 cm^2", "en": "154 cm^2"},
+            {"hi": "49 cm^2", "en": "49 cm^2"},
+            {"hi": "196 cm^2", "en": "196 cm^2"}
           ],
-          "answer": {"hi": "$\\frac{\\sqrt{3}}{2} a$", "en": "$\\frac{\\sqrt{3}}{2} a$"}
+          "answer": {"hi": "98 cm^2", "en": "98 cm^2"}
         },
         {
           "q": {
-            "hi": "त्रिभुज के क्षेत्रफल के लिए 'हीरो का सूत्र' (Hero's Formula) भी कहा जाता है।",
-            "en": "It is also called 'Hero's Formula' for the area of a triangle."
+            "hi": "आकृति 12.34 में, छायांकित डिज़ाइन का क्षेत्रफल ज्ञात कीजिए, जो 8 cm त्रिज्याओं वाले दो वृत्तों के चतुर्थांशों के बीच उभयनिष्ठ (common) है।",
+            "en": "In Fig 12.34, find the area of the shaded design common between quadrants of two circles of radius 8 cm each."
           },
           "options": [
-            {"hi": "सत्य", "en": "True"},
-            {"hi": "असत्य", "en": "False"},
-            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"},
-            {"hi": "केवल कुछ देशों में", "en": "Only in some countries"}
+            {"hi": "256/7 cm^2", "en": "256/7 cm^2"},
+            {"hi": "128/7 cm^2", "en": "128/7 cm^2"},
+            {"hi": "64 cm^2", "en": "64 cm^2"},
+            {"hi": "36.57 cm^2", "en": "36.57 cm^2"}
           ],
-          "answer": {"hi": "सत्य", "en": "True"}
+          "answer": {"hi": "256/7 cm^2", "en": "256/7 cm^2"}
         }
       ]
     },
