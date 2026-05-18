@@ -2652,661 +2652,661 @@
       "section1": [
         {
           "q": {
-            "hi": "शब्द 'ज्यामिति' (Geometry) का अर्थ क्या है?",
-            "en": "What is the meaning of the word 'Geometry'?"
+            "hi": "एक समांतर श्रेढ़ी (A.P.) संख्याओं की ऐसी सूची होती है जिसमें प्रत्येक पद (प्रथम पद के अतिरिक्त) अपने से ठीक पहले पद में क्या जोड़कर प्राप्त होता है?",
+            "en": "An Arithmetic Progression (A.P.) is a list of numbers in which each term (except the first term) is obtained by adding what to its preceding term?"
           },
           "options": [
-            {"hi": "आकाश मापना", "en": "Measuring sky"},
-            {"hi": "भूमि मापना", "en": "Measuring land"},
-            {"hi": "कोण मापना", "en": "Measuring angles"},
-            {"hi": "संख्याएँ गिनना", "en": "Counting numbers"}
+            {"hi": "एक निश्चित संख्या", "en": "A fixed number"},
+            {"hi": "एक चर संख्या", "en": "A variable number"},
+            {"hi": "एक ऋणात्मक पद", "en": "A negative term"},
+            {"hi": "कोई भी यादृच्छिक संख्या", "en": "Any random number"}
           ],
-          "answer": {"hi": "भूमि मापना", "en": "Measuring land"}
+          "answer": {"hi": "एक निश्चित संख्या", "en": "A fixed number"}
         },
         {
           "q": {
-            "hi": "ज्यामिति शब्द किन दो यूनानी शब्दों से मिलकर बना है?",
-            "en": "The word Geometry is made of which two Greek words?"
+            "hi": "समांतर श्रेढ़ी में जोड़ा जाने वाला निश्चित अंतर (जो धनात्मक, ऋणात्मक या शून्य हो सकता है) क्या कहलाता है?",
+            "en": "The fixed difference added in an Arithmetic Progression (which can be positive, negative, or zero) is called what?"
           },
           "options": [
-            {"hi": "जियो और मीट्रीन", "en": "Geo and Metrein"},
-            {"hi": "बायो और लॉगस", "en": "Bio and Logos"},
-            {"hi": "टेक्नो और लॉगस", "en": "Techno and Logos"},
-            {"hi": "फिजिक और मैथ", "en": "Physic and Math"}
+            {"hi": "प्रथम पद", "en": "First term"},
+            {"hi": "सार्व अंतर (Common difference)", "en": "Common difference"},
+            {"hi": "अंतिम पद", "en": "Last term"},
+            {"hi": "गुणनखंड", "en": "Factor"}
           ],
-          "answer": {"hi": "जियो और मीट्रीन", "en": "Geo and Metrein"}
+          "answer": {"hi": "सार्व अंतर (Common difference)", "en": "Common difference"}
         },
         {
           "q": {
-            "hi": "प्राचीन मिस्र में ज्यामिति का विकास मुख्य रूप से किस कारण हुआ?",
-            "en": "What was the main reason for the development of geometry in ancient Egypt?"
+            "hi": "यदि प्रथम पद $a$ और सार्व अंतर $d$ हो, तो समांतर श्रेढ़ी (A.P.) का व्यापक रूप (General form) क्या होगा?",
+            "en": "If the first term is $a$ and the common difference is $d$, what will be the general form of the Arithmetic Progression (A.P.)?"
           },
           "options": [
-            {"hi": "युद्ध के लिए", "en": "For war"},
-            {"hi": "भूमि की सीमाओं को पुन: बनाने के लिए", "en": "To recreate land boundaries"},
-            {"hi": "व्यापार के लिए", "en": "For trade"},
-            {"hi": "ग्रहों के अध्ययन के लिए", "en": "To study planets"}
+            {"hi": "a, ad, ad^2, ad^3, ...", "en": "a, ad, ad^2, ad^3, ..."},
+            {"hi": "a, a+d, a+2d, a+3d, ...", "en": "a, a+d, a+2d, a+3d, ..."},
+            {"hi": "a, a-d, a-3d, a-5d, ...", "en": "a, a-d, a-3d, a-5d, ..."},
+            {"hi": "1, d, 2d, 3d, ...", "en": "1, d, 2d, 3d, ..."}
           ],
-          "answer": {"hi": "भूमि की सीमाओं को पुन: बनाने के लिए", "en": "To recreate land boundaries"}
+          "answer": {"hi": "a, a+d, a+2d, a+3d, ...", "en": "a, a+d, a+2d, a+3d, ..."}
         },
         {
           "q": {
-            "hi": "यूक्लिड किस देश के गणित शिक्षक थे?",
-            "en": "Euclid was a mathematics teacher in which country?"
+            "hi": "रीना को एक पद के लिए ₹8000 के मासिक वेतन और ₹500 वार्षिक वेतन वृद्धि के साथ चुना गया। उसके मासिक वेतन की सूची (8000, 8500, 9000, ...) में सार्व अंतर $d$ कितना है?",
+            "en": "Reena was selected for a post with a monthly salary of ₹8000 and an annual increment of ₹500. What is the common difference $d$ in the list of her monthly salary (8000, 8500, 9000, ...)?"
           },
           "options": [
-            {"hi": "भारत", "en": "India"},
-            {"hi": "मिस्र", "en": "Egypt"},
-            {"hi": "चीन", "en": "China"},
-            {"hi": "बेबीलोन", "en": "Babylon"}
+            {"hi": "8000", "en": "8000"},
+            {"hi": "500", "en": "500"},
+            {"hi": "1000", "en": "1000"},
+            {"hi": "8500", "en": "8500"}
           ],
-          "answer": {"hi": "मिस्र", "en": "Egypt"}
+          "answer": {"hi": "500", "en": "500"}
         },
         {
           "q": {
-            "hi": "यूक्लिड ने अपने प्रसिद्ध ग्रंथ 'एलिमेंट्स' (Elements) को कितने अध्यायों में विभाजित किया था?",
-            "en": "In how many chapters did Euclid divide his famous work 'Elements'?"
+            "hi": "एक सीढ़ी के डंडों की लंबाइयाँ नीचे से ऊपर की ओर समान रूप से 2 cm घटती जाती हैं। यदि सबसे नीचे वाला डंडा 45 cm हो, तो डंडों की लंबाइयों की सूची (45, 43, 41, 39, ...) का सार्व अंतर क्या होगा?",
+            "en": "The lengths of the rungs of a ladder decrease uniformly by 2 cm from bottom to top. If the bottom-most rung is 45 cm, what will be the common difference of the list of lengths (45, 43, 41, 39, ...)?"
           },
           "options": [
-            {"hi": "10", "en": "10"},
-            {"hi": "12", "en": "12"},
-            {"hi": "13", "en": "13"},
-            {"hi": "15", "en": "15"}
+            {"hi": "2", "en": "2"},
+            {"hi": "-2", "en": "-2"},
+            {"hi": "45", "en": "45"},
+            {"hi": "0", "en": "0"}
           ],
-          "answer": {"hi": "13", "en": "13"}
+          "answer": {"hi": "-2", "en": "-2"}
         },
         {
           "q": {
-            "hi": "यूक्लिड के अनुसार, एक बिंदु (Point) वह है जिसका:",
-            "en": "According to Euclid, a point is that which has:"
+            "hi": "ऐसी समांतर श्रेढ़ी जिसमें पदों की संख्या परिमित (finite) होती है, क्या कहलाती है?",
+            "en": "An Arithmetic Progression which contains a finite number of terms is called what?"
           },
           "options": [
-            {"hi": "कोई भाग नहीं होता", "en": "No part"},
-            {"hi": "केवल लंबाई होती है", "en": "Only length"},
-            {"hi": "केवल चौड़ाई होती है", "en": "Only breadth"},
-            {"hi": "लंबाई और चौड़ाई दोनों होती हैं", "en": "Both length and breadth"}
+            {"hi": "अपरिमित A.P.", "en": "Infinite A.P."},
+            {"hi": "परिमित A.P. (Finite A.P.)", "en": "Finite A.P."},
+            {"hi": "शून्य A.P.", "en": "Zero A.P."},
+            {"hi": "व्यापक श्रेढ़ी", "en": "General progression"}
           ],
-          "answer": {"hi": "कोई भाग नहीं होता", "en": "No part"}
+          "answer": {"hi": "परिमित A.P. (Finite A.P.)", "en": "Finite A.P."}
         },
         {
           "q": {
-            "hi": "एक रेखा (Line) की क्या विशेषता होती है?",
-            "en": "What is the characteristic of a line?"
+            "hi": "समांतर श्रेढ़ी 6, 9, 12, 15, ... में प्रथम पद ($a$) और सार्व अंतर ($d$) क्रमशः क्या हैं?",
+            "en": "What are the first term ($a$) and common difference ($d$) respectively in the A.P. 6, 9, 12, 15, ...?"
           },
           "options": [
-            {"hi": "चौड़ाई वाली लंबाई", "en": "Breadth with length"},
-            {"hi": "चौड़ाई रहित लंबाई", "en": "Breadthless length"},
-            {"hi": "एक निश्चित अंत", "en": "A fixed end"},
-            {"hi": "कोई लंबाई नहीं", "en": "No length"}
+            {"hi": "6 और 9", "en": "6 and 9"},
+            {"hi": "6 और 3", "en": "6 and 3"},
+            {"hi": "3 और 6", "en": "3 and 6"},
+            {"hi": "9 और 3", "en": "9 and 3"}
           ],
-          "answer": {"hi": "चौड़ाई रहित लंबाई", "en": "Breadthless length"}
+          "answer": {"hi": "6 और 3", "en": "6 and 3"}
         },
         {
           "q": {
-            "hi": "एक रेखा के सिरे (Ends) क्या होते हैं?",
-            "en": "The ends of a line are?"
+            "hi": "संख्याओं की एक सूची $a_1, a_2, a_3, ...$ एक A.P. होती है, यदि सभी $k$ के लिए $a_{k+1} - a_k$ का मान कैसा प्राप्त हो?",
+            "en": "A list of numbers $a_1, a_2, a_3, ...$ forms an A.P. if the value of $a_{k+1} - a_k$ for all $k$ is:"
           },
           "options": [
-            {"hi": "रेखाएँ", "en": "Lines"},
-            {"hi": "बिंदु", "en": "Points"},
-            {"hi": "तल", "en": "Planes"},
-            {"hi": "पृष्ठ", "en": "Surfaces"}
+            {"hi": "समान (एक ही)", "en": "Same (constant)"},
+            {"hi": "हमेशा बदलता हुआ", "en": "Always changing"},
+            {"hi": "शून्य से कम", "en": "Less than zero"},
+            {"hi": "एक से बड़ा", "en": "Greater than one"}
           ],
-          "answer": {"hi": "बिंदु", "en": "Points"}
+          "answer": {"hi": "समान (एक ही)", "en": "Same (constant)"}
         },
         {
           "q": {
-            "hi": "एक पृष्ठ (Surface) वह है जिसकी:",
-            "en": "A surface is that which has:"
+            "hi": "सूची 2, 8, 14, 20, ... के लिए अगला पद क्या होना चाहिए?",
+            "en": "What should be the next term for the list 2, 8, 14, 20, ...?"
           },
           "options": [
-            {"hi": "केवल लंबाई होती है", "en": "Only length"},
-            {"hi": "केवल चौड़ाई होती है", "en": "Only breadth"},
-            {"hi": "केवल लंबाई और चौड़ाई होती है", "en": "Only length and breadth"},
-            {"hi": "लंबाई, चौड़ाई और मोटाई होती है", "en": "Length, breadth, and thickness"}
+            {"hi": "22", "en": "22"},
+            {"hi": "24", "en": "24"},
+            {"hi": "26", "en": "26"},
+            {"hi": "28", "en": "28"}
           ],
-          "answer": {"hi": "केवल लंबाई और चौड़ाई होती है", "en": "Only length and breadth"}
+          "answer": {"hi": "26", "en": "26"}
         },
         {
           "q": {
-            "hi": "एक पृष्ठ के किनारे (Edges) क्या होते हैं?",
-            "en": "The edges of a surface are?"
+            "hi": "एक अपरिमित समांतर श्रेढ़ी (Infinite A.P.) का मुख्य लक्षण क्या होता है?",
+            "en": "What is the main characteristic of an Infinite Arithmetic Progression?"
           },
           "options": [
-            {"hi": "बिंदु", "en": "Points"},
-            {"hi": "रेखाएँ", "en": "Lines"},
-            {"hi": "चतुर्भुज", "en": "Quadrilaterals"},
-            {"hi": "वृत्त", "en": "Circles"}
+            {"hi": "उसका कोई प्रथम पद नहीं होता", "en": "It has no first term"},
+            {"hi": "उसका कोई अंतिम पद नहीं होता", "en": "It has no last term"},
+            {"hi": "उसका सार्व अंतर हमेशा शून्य होता है", "en": "Its common difference is always zero"},
+            {"hi": "उसके केवल 10 पद होते हैं", "en": "It has only 10 terms"}
           ],
-          "answer": {"hi": "रेखाएँ", "en": "Lines"}
+          "answer": {"hi": "उसका कोई अंतिम पद नहीं होता", "en": "It has no last term"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "यूक्लिड ने उन कल्पनाओं को क्या कहा जो विशिष्ट रूप से ज्यामिति से संबंधित थीं?",
-            "en": "What did Euclid call the assumptions that were specific to geometry?"
+            "hi": "प्रथम पद $a$ और सार्व अंतर $d$ वाली A.P. का $n$वाँ पद ($a_n$) ज्ञात करने का व्यापक सूत्र क्या है?",
+            "en": "What is the general formula to find the $n$-th term ($a_n$) of an A.P. with first term $a$ and common difference $d$?"
           },
           "options": [
-            {"hi": "अभिगृहीत", "en": "Axioms"},
-            {"hi": "अभिधारणाएँ", "en": "Postulates"},
-            {"hi": "परिभाषाएँ", "en": "Definitions"},
-            {"hi": "प्रमेय", "en": "Theorems"}
+            {"hi": "a_n = a + nd", "en": "a_n = a + nd"},
+            {"hi": "a_n = a + (n - 1)d", "en": "a_n = a + (n - 1)d"},
+            {"hi": "a_n = a - (n - 1)d", "en": "a_n = a - (n - 1)d"},
+            {"hi": "a_n = n(a + d)", "en": "a_n = n(a + d)"}
           ],
-          "answer": {"hi": "अभिधारणाएँ", "en": "Postulates"}
+          "answer": {"hi": "a_n = a + (n - 1)d", "en": "a_n = a + (n - 1)d"}
         },
         {
           "q": {
-            "hi": "वे कल्पनाएँ जिन्हें निरंतर गणित में प्रयोग किया जाता है और जो केवल ज्यामिति से ही संबंधित नहीं हैं, कहलाती हैं:",
-            "en": "Assumptions used throughout mathematics and not just in geometry are called:"
+            "hi": "समांतर श्रेढ़ी के $n$वें पद ($a_n$) को श्रेढ़ी का क्या भी कहा जाता है?",
+            "en": "The $n$-th term ($a_n$) of an Arithmetic Progression is also called what?"
           },
           "options": [
-            {"hi": "अभिधारणाएँ", "en": "Postulates"},
-            {"hi": "अभिगृहीत", "en": "Axioms"},
-            {"hi": "साध्य", "en": "Propositions"},
-            {"hi": "उपप्रमेय", "en": "Corollaries"}
+            {"hi": "प्रथम पद", "en": "First term"},
+            {"hi": "व्यापक पद (General term)", "en": "General term"},
+            {"hi": "शून्य पद", "en": "Zero term"},
+            {"hi": "औसत पद", "en": "Average term"}
           ],
-          "answer": {"hi": "अभिगृहीत", "en": "Axioms"}
+          "answer": {"hi": "व्यापक पद (General term)", "en": "General term"}
         },
         {
           "q": {
-            "hi": "यूक्लिड का पहला अभिगृहीत क्या है?",
-            "en": "What is Euclid's first axiom?"
+            "hi": "यदि किसी परिमित A.P. में कुल $m$ पद हैं, तो $a_m$ किसको निरूपित करता है जिसे कभी-कभी $l$ द्वारा भी व्यक्त किया जाता है?",
+            "en": "If a finite A.P. has $m$ terms in total, what does $a_m$ represent, which is sometimes also denoted by $l$?"
           },
           "options": [
-            {"hi": "पूर्ण अपने भाग से बड़ा होता है", "en": "The whole is greater than the part"},
-            {"hi": "वे वस्तुएँ जो एक ही वस्तु के बराबर हों, एक दूसरे के बराबर होती हैं", "en": "Things which are equal to the same thing are equal to one another"},
-            {"hi": "सभी समकोण बराबर होते हैं", "en": "All right angles are equal"},
-            {"hi": "एक बिंदु से रेखा खींची जा सकती है", "en": "A line can be drawn from a point"}
+            {"hi": "मध्य पद", "en": "Middle term"},
+            {"hi": "अंतिम पद (Last term)", "en": "Last term"},
+            {"hi": "सार्व अंतर", "en": "Common difference"},
+            {"hi": "प्रथम पद", "en": "First term"}
           ],
-          "answer": {"hi": "वे वस्तुएँ जो एक ही वस्तु के बराबर हों, एक दूसरे के बराबर होती हैं", "en": "Things which are equal to the same thing are equal to one another"}
+          "answer": {"hi": "अंतिम पद (Last term)", "en": "Last term"}
         },
         {
           "q": {
-            "hi": "यदि बराबरों को बराबरों में जोड़ा जाए, तो पूर्ण भी क्या होते हैं?",
-            "en": "If equals are added to equals, the wholes are?"
+            "hi": "A.P. 2, 7, 12, ... का 10वाँ पद क्या होगा?",
+            "en": "What will be the 10th term of the A.P. 2, 7, 12, ...?"
           },
           "options": [
-            {"hi": "असमान", "en": "Unequal"},
-            {"hi": "आधे", "en": "Half"},
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "दुगुने", "en": "Double"}
+            {"hi": "45", "en": "45"},
+            {"hi": "47", "en": "47"},
+            {"hi": "50", "en": "50"},
+            {"hi": "52", "en": "52"}
           ],
-          "answer": {"hi": "बराबर", "en": "Equal"}
+          "answer": {"hi": "47", "en": "47"}
         },
         {
           "q": {
-            "hi": "यदि बराबरों को बराबरों में से घटाया जाए, तो शेषफल क्या होते हैं?",
-            "en": "If equals are subtracted from equals, the remainders are?"
+            "hi": "A.P. 21, 18, 15, ... का कौन सा पद -81 है?",
+            "en": "Which term of the A.P. 21, 18, 15, ... is -81?"
           },
           "options": [
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "शून्य", "en": "Zero"},
-            {"hi": "बढ़ जाते हैं", "en": "Increase"},
-            {"hi": "कम हो जाते हैं", "en": "Decrease"}
+            {"hi": "30वाँ पद", "en": "30th term"},
+            {"hi": "35वाँ पद", "en": "35th term"},
+            {"hi": "40वाँ पद", "en": "40th term"},
+            {"hi": "42वाँ पद", "en": "42nd term"}
           ],
-          "answer": {"hi": "बराबर", "en": "Equal"}
+          "answer": {"hi": "35वाँ पद", "en": "35th term"}
         },
         {
           "q": {
-            "hi": "वे वस्तुएँ जो परस्पर संपाती (Coincide) हों, एक दूसरे के क्या होती हैं?",
-            "en": "Things which coincide with one another are?"
+            "hi": "क्या संख्याओं की सूची 5, 11, 17, 23, ... का कोई पद 301 हो सकता है? (जाँच कीजिए कि क्या $n$ एक धनात्मक पूर्णांक आता है)",
+            "en": "Can any term of the list of numbers 5, 11, 17, 23, ... be 301? (Check if $n$ comes out to be a positive integer)"
           },
           "options": [
-            {"hi": "लंब", "en": "Perpendicular"},
-            {"hi": "समांतर", "en": "Parallel"},
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "विपरीत", "en": "Opposite"}
+            {"hi": "हाँ, यह 50वाँ पद है", "en": "Yes, it is the 50th term"},
+            {"hi": "नहीं, क्योंकि n एक पूर्णांक नहीं आता है", "en": "No, because n does not come out to be an integer"},
+            {"hi": "हाँ, यह 51वाँ पद है", "en": "Yes, it is the 51st term"},
+            {"hi": "संख्याओं की सूची ही गलत है", "en": "The list of numbers itself is wrong"}
           ],
-          "answer": {"hi": "बराबर", "en": "Equal"}
+          "answer": {"hi": "नहीं, क्योंकि n एक पूर्णांक नहीं आता है", "en": "No, because n does not come out to be an integer"}
         },
         {
           "q": {
-            "hi": "यूक्लिड के अनुसार, 'पूर्ण' (Whole) अपने 'भाग' (Part) से कैसा होता है?",
-            "en": "According to Euclid, the 'whole' is how compared to its 'part'?"
+            "hi": "दो अंकों वाली कितनी संख्याएँ 3 से विभाज्य (divisible) हैं?",
+            "en": "How many two-digit numbers are divisible by 3?"
           },
           "options": [
-            {"hi": "छोटा", "en": "Smaller"},
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "बड़ा", "en": "Greater"},
-            {"hi": "आधा", "en": "Half"}
+            {"hi": "25", "en": "25"},
+            {"hi": "30", "en": "30"},
+            {"hi": "33", "en": "33"},
+            {"hi": "35", "en": "35"}
           ],
-          "answer": {"hi": "बड़ा", "en": "Greater"}
+          "answer": {"hi": "30", "en": "30"}
         },
         {
           "q": {
-            "hi": "एक ही वस्तुओं के दुगुने परस्पर क्या होते हैं?",
-            "en": "Things which are double of the same things are?"
+            "hi": "A.P. 10, 7, 4, ..., -62 का अंतिम पद से (प्रथम पद की ओर) 11वाँ पद क्या होगा?",
+            "en": "What will be the 11th term from the last term (towards the first term) of the A.P. 10, 7, 4, ..., -62?"
           },
           "options": [
-            {"hi": "विपरीत", "en": "Opposite"},
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "असमान", "en": "Unequal"},
-            {"hi": "तिगुने", "en": "Triple"}
+            {"hi": "-32", "en": "-32"},
+            {"hi": "-25", "en": "-25"},
+            {"hi": "-35", "en": "-35"},
+            {"hi": "-40", "en": "-40"}
           ],
-          "answer": {"hi": "बराबर", "en": "Equal"}
+          "answer": {"hi": "-32", "en": "-32"}
         },
         {
           "q": {
-            "hi": "एक ही वस्तुओं के आधे परस्पर क्या होते हैं?",
-            "en": "Things which are halves of the same things are?"
+            "hi": "₹1000 की एक धनराशि 8% वार्षिक साधारण ब्याज पर निवेश की जाती है। प्रत्येक वर्ष के अंत में ब्याजों की सूची (80, 160, 240, ...) किस प्रकार की श्रेढ़ी बनाती है?",
+            "en": "A sum of ₹1000 is invested at 8% simple interest per annum. What kind of progression does the list of interests at the end of each year (80, 160, 240, ...) form?"
           },
           "options": [
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "बड़े", "en": "Greater"},
-            {"hi": "शून्य", "en": "Zero"},
-            {"hi": "भिन्न", "en": "Different"}
+            {"hi": "गुणोत्तर श्रेढ़ी", "en": "Geometric Progression"},
+            {"hi": "समांतर श्रेढ़ी (A.P.)", "en": "Arithmetic Progression (A.P.)"},
+            {"hi": "हरात्मक श्रेढ़ी", "en": "Harmonic Progression"},
+            {"hi": "कोई प्रतिरूप नहीं बनाती", "en": "Does not form any pattern"}
           ],
-          "answer": {"hi": "बराबर", "en": "Equal"}
+          "answer": {"hi": "समांतर श्रेढ़ी (A.P.)", "en": "Arithmetic Progression (A.P.)"}
         },
         {
           "q": {
-            "hi": "यूक्लिड की पहली अभिधारणा (Postulate 1) क्या कहती है?",
-            "en": "What does Euclid's Postulate 1 state?"
+            "hi": "यदि किसी A.P. का तीसरा पद 5 और 7वाँ पद 9 है, तो वह A.P. क्या होगी?",
+            "en": "If the 3rd term of an A.P. is 5 and the 7th term is 9, what will be that A.P.?"
           },
           "options": [
-            {"hi": "सभी समकोण बराबर हैं", "en": "All right angles are equal"},
-            {"hi": "एक बिंदु से एक अन्य बिंदु तक एक सीधी रेखा खींची जा सकती है", "en": "A straight line may be drawn from any one point to any other point"},
-            {"hi": "रेखा को बढ़ाया नहीं जा सकता", "en": "A line cannot be extended"},
-            {"hi": "वृत्त केवल एक ही होता है", "en": "There is only one circle"}
+            {"hi": "1, 2, 3, 4, 5, ...", "en": "1, 2, 3, 4, 5, ..."},
+            {"hi": "3, 4, 5, 6, 7, ...", "en": "3, 4, 5, 6, 7, ..."},
+            {"hi": "2, 3, 4, 5, 6, ...", "en": "2, 3, 4, 5, 6, ..."},
+            {"hi": "1, 3, 5, 7, 9, ...", "en": "1, 3, 5, 7, 9, ..."}
           ],
-          "answer": {"hi": "एक बिंदु से एक अन्य बिंदु तक एक सीधी रेखा खींची जा सकती है", "en": "A straight line may be drawn from any one point to any other point"}
+          "answer": {"hi": "3, 4, 5, 6, 7, ...", "en": "3, 4, 5, 6, 7, ..."}
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "दो भिन्न बिंदुओं से होकर कितनी अद्वितीय रेखाएँ खींची जा सकती हैं?",
-            "en": "How many unique lines can be drawn passing through two distinct points?"
+            "hi": "एक समांतर श्रेढ़ी के प्रथम $n$ पदों के योगफल ($S_n$) को ज्ञात करने का सही सूत्र निम्नलिखित में से कौन सा है?",
+            "en": "Which of the following is the correct formula to find the sum of the first $n$ terms ($S_n$) of an Arithmetic Progression?"
           },
           "options": [
-            {"hi": "दो", "en": "Two"},
-            {"hi": "अपरिमित", "en": "Infinite"},
-            {"hi": "एक", "en": "One"},
-            {"hi": "कोई नहीं", "en": "None"}
+            {"hi": "S_n = \\frac{n}{2}[2a + nd]", "en": "S_n = \\frac{n}{2}[2a + nd]"},
+            {"hi": "S_n = \\frac{n}{2}[2a + (n - 1)d]", "en": "S_n = \\frac{n}{2}[2a + (n - 1)d]"},
+            {"hi": "S_n = n[a + (n - 1)d]", "en": "S_n = n[a + (n - 1)d]"},
+            {"hi": "S_n = \\frac{n}{2}[a + (n - 1)d]", "en": "S_n = \\frac{n}{2}[a + (n - 1)d]"}
           ],
-          "answer": {"hi": "एक", "en": "One"}
+          "answer": {"hi": "S_n = \\frac{n}{2}[2a + (n - 1)d]", "en": "S_n = \\frac{n}{2}[2a + (n - 1)d]"}
         },
         {
           "q": {
-            "hi": "यूक्लिड की अभिधारणा 2 के अनुसार, एक सांत रेखा (Terminated line) को क्या किया जा सकता है?",
-            "en": "According to Euclid's Postulate 2, a terminated line can be?"
+            "hi": "यदि किसी A.P. का अंतिम पद $l$ दिया हो, तो प्रथम $n$ पदों का योगफल ज्ञात करने का संक्षिप्त सूत्र क्या होता है?",
+            "en": "If the last term $l$ of an A.P. is given, what is the short formula to find the sum of the first $n$ terms?"
           },
           "options": [
-            {"hi": "मिटाया जा सकता है", "en": "Deleted"},
-            {"hi": "अनिश्चित रूप से बढ़ाया जा सकता है", "en": "Produced indefinitely"},
-            {"hi": "मोड़ा जा सकता है", "en": "Bent"},
-            {"hi": "छोटा किया जा सकता है", "en": "Shortened"}
+            {"hi": "S_n = \\frac{n}{2}[a + l]", "en": "S_n = \\frac{n}{2}[a + l]"},
+            {"hi": "S_n = n[a + l]", "en": "S_n = n[a + l]"},
+            {"hi": "S_n = \\frac{n}{2}[a - l]", "en": "S_n = \\frac{n}{2}[a - l]"},
+            {"hi": "S_n = \\frac{a + l}{2}", "en": "S_n = \\frac{a + l}{2}"}
           ],
-          "answer": {"hi": "अनिश्चित रूप से बढ़ाया जा सकता है", "en": "Produced indefinitely"}
+          "answer": {"hi": "S_n = \\frac{n}{2}[a + l]", "en": "S_n = \\frac{n}{2}[a + l]"}
         },
         {
           "q": {
-            "hi": "अभिधारणा 3 के अनुसार, किसी को केन्द्र मान कर और किसी त्रिज्या से क्या खींचा जा सकता है?",
-            "en": "According to Postulate 3, what can be drawn with any center and any radius?"
+            "hi": "महान जर्मन गणितज्ञ कार्ल फ्रेडरिक गॉस ने अपनी स्कूली शिक्षा के दौरान केवल 10 वर्ष की आयु में 1 से 100 तक के पूर्णांकों का योगफल कितनी जल्दी ज्ञात कर लिया था? वह योगफल क्या था?",
+            "en": "How quickly did the great German mathematician Carl Friedrich Gauss find the sum of integers from 1 to 100 during his schooling at just 10 years of age? What was that sum?"
           },
           "options": [
-            {"hi": "वर्ग", "en": "Square"},
-            {"hi": "त्रिभुज", "en": "Triangle"},
-            {"hi": "वृत्त", "en": "Circle"},
-            {"hi": "आयत", "en": "Rectangle"}
+            {"hi": "5000", "en": "5000"},
+            {"hi": "5050", "en": "5050"},
+            {"hi": "5100", "en": "5100"},
+            {"hi": "5500", "en": "5500"}
           ],
-          "answer": {"hi": "वृत्त", "en": "Circle"}
+          "answer": {"hi": "5050", "en": "5050"}
         },
         {
           "q": {
-            "hi": "यूक्लिड की चौथी अभिधारणा के अनुसार, सभी समकोण एक दूसरे के क्या होते हैं?",
-            "en": "According to Euclid's fourth postulate, all right angles are what to each other?"
+            "hi": "प्रथम $n$ धन पूर्णांकों (positive integers) का योगफल ($S$) ज्ञात करने का सीधा सूत्र क्या है?",
+            "en": "What is the direct formula to find the sum ($S$) of the first $n$ positive integers?"
           },
           "options": [
-            {"hi": "लंब", "en": "Perpendicular"},
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "असमान", "en": "Unequal"},
-            {"hi": "पूरक", "en": "Complementary"}
+            {"hi": "S = n(n + 1)", "en": "S = n(n + 1)"},
+            {"hi": "S = \\frac{n(n + 1)}{2}", "en": "S = \\frac{n(n + 1)}{2}"},
+            {"hi": "S = \\frac{n(n - 1)}{2}", "en": "S = \\frac{n(n - 1)}{2}"},
+            {"hi": "S = n^2", "en": "S = n^2"}
           ],
-          "answer": {"hi": "बराबर", "en": "Equal"}
+          "answer": {"hi": "S = \\frac{n(n + 1)}{2}", "en": "S = \\frac{n(n + 1)}{2}"}
         },
         {
           "q": {
-            "hi": "यूक्लिड की सबसे जटिल और प्रसिद्ध अभिधारणा कौन सी है?",
-            "en": "Which is the most complex and famous postulate of Euclid?"
+            "hi": "यदि किसी श्रेढ़ी का $n$वाँ पद निकालना हो और उसके प्रथम $n$ पदों तथा $(n-1)$ पदों का योग ज्ञात हो, तो कौन सा संबंध सत्य है?",
+            "en": "If the $n$-th term of a progression is to be found and the sums of its first $n$ terms and $(n-1)$ terms are known, which relation is true?"
           },
           "options": [
-            {"hi": "पहली", "en": "First"},
-            {"hi": "तीसरी", "en": "Third"},
-            {"hi": "पाँचवीं", "en": "Fifth"},
-            {"hi": "दूसरी", "en": "Second"}
+            {"hi": "a_n = S_n + S_{n-1}", "en": "a_n = S_n + S_{n-1}"},
+            {"hi": "a_n = S_n - S_{n-1}", "en": "a_n = S_n - S_{n-1}"},
+            {"hi": "a_n = \\frac{S_n}{S_{n-1}}", "en": "a_n = \\frac{S_n}{S_{n-1}}"},
+            {"hi": "a_n = S_n - S_1", "en": "a_n = S_n - S_1"}
           ],
-          "answer": {"hi": "पाँचवीं", "en": "Fifth"}
+          "answer": {"hi": "a_n = S_n - S_{n-1}", "en": "a_n = S_n - S_{n-1}"}
         },
         {
           "q": {
-            "hi": "पाँचवीं अभिधारणा किस ज्यामितीय स्थिति से संबंधित है?",
-            "en": "The fifth postulate is related to which geometric situation?"
+            "hi": "A.P. 8, 3, -2, ... के प्रथम 22 पदों का योगफल क्या होगा?",
+            "en": "What will be the sum of the first 22 terms of the A.P. 8, 3, -2, ...?"
           },
           "options": [
-            {"hi": "वृत्त की रचना", "en": "Construction of circle"},
-            {"hi": "दो रेखाओं के प्रतिच्छेद और समांतरता", "en": "Intersection and parallelism of two lines"},
-            {"hi": "त्रिभुज के कोण", "en": "Angles of triangle"},
-            {"hi": "वर्ग का क्षेत्रफल", "en": "Area of square"}
+            {"hi": "-979", "en": "-979"},
+            {"hi": "-1000", "en": "-1000"},
+            {"hi": "979", "en": "979"},
+            {"hi": "-950", "en": "-950"}
           ],
-          "answer": {"hi": "दो रेखाओं के प्रतिच्छेद और समांतरता", "en": "Intersection and parallelism of two lines"}
+          "answer": {"hi": "-979", "en": "-979"}
         },
         {
           "q": {
-            "hi": "वे कथन जिन्हें सिद्ध किया जा सकता है, कहलाते हैं:",
-            "en": "Statements that can be proved are called:"
+            "hi": "यदि किसी A.P. के प्रथम 14 पदों का योग 1050 है तथा इसका प्रथम पद 10 है, तो इसका 20वाँ पद क्या होगा?",
+            "en": "If the sum of the first 14 terms of an A.P. is 1050 and its first term is 10, what will be its 20th term?"
           },
           "options": [
-            {"hi": "अभिगृहीत", "en": "Axioms"},
-            {"hi": "अभिधारणाएँ", "en": "Postulates"},
-            {"hi": "प्रमेय", "en": "Theorems"},
-            {"hi": "कल्पना", "en": "Assumptions"}
+            {"hi": "150", "en": "150"},
+            {"hi": "180", "en": "180"},
+            {"hi": "200", "en": "200"},
+            {"hi": "210", "en": "210"}
           ],
-          "answer": {"hi": "प्रमेय", "en": "Theorems"}
+          "answer": {"hi": "200", "en": "200"}
         },
         {
           "q": {
-            "hi": "एक ठोस (Solid) की कितनी विमाएँ (Dimensions) होती हैं?",
-            "en": "How many dimensions does a solid have?"
+            "hi": "A.P. 24, 21, 18, ... के कितने पद लिए जाएँ, ताकि उनका योगफल 78 हो? (ध्यान दें कि यहाँ $n$ के दो मान संभव हो सकते हैं)",
+            "en": "How many terms of the A.P. 24, 21, 18, ... must be taken so that their sum is 78? (Note that two values of $n$ may be possible here)"
           },
           "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "2", "en": "2"},
-            {"hi": "3", "en": "3"},
-            {"hi": "0", "en": "0"}
+            {"hi": "4 या 13", "en": "4 or 13"},
+            {"hi": "5 या 12", "en": "5 or 12"},
+            {"hi": "3 या 14", "en": "3 or 14"},
+            {"hi": "केवल 4", "en": "Only 4"}
           ],
-          "answer": {"hi": "3", "en": "3"}
+          "answer": {"hi": "4 या 13", "en": "4 or 13"}
         },
         {
           "q": {
-            "hi": "एक पृष्ठ (Surface) की कितनी विमाएँ होती हैं?",
-            "en": "How many dimensions does a surface have?"
+            "hi": "यदि किसी परिस्थिति में $n$ के दो मान जैसे 4 और 13 दोनों धनात्मक पूर्णांक प्राप्त हों और दोनों से योग 78 आए, तो इसका क्या अर्थ है?",
+            "en": "If in some situation two values of $n$ like 4 and 13 are both positive integers and both give a sum of 78, what does it mean?"
           },
           "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "2", "en": "2"},
-            {"hi": "3", "en": "3"},
-            {"hi": "0", "en": "0"}
+            {"hi": "गणना में त्रुटि है", "en": "There is a calculation error"},
+            {"hi": "5वें से 13वें पदों का योगफल शून्य है (The sum of terms from 5th to 13th is zero)", "en": "The sum of terms from 5th to 13th is zero"},
+            {"hi": "श्रेढ़ी के सभी पद धनात्मक हैं", "en": "All terms of the progression are positive"},
+            {"hi": "यह संभव ही नहीं है", "en": "This is not possible at all"}
           ],
-          "answer": {"hi": "2", "en": "2"}
+          "answer": {"hi": "5वें से 13वें पदों का योगफल शून्य है (The sum of terms from 5th to 13th is zero)", "en": "The sum of terms from 5th to 13th is zero"}
         },
         {
           "q": {
-            "hi": "एक रेखा (Line) की कितनी विमाएँ होती हैं?",
-            "en": "How many dimensions does a line have?"
+            "hi": "एक निर्माता कंपनी तीसरे वर्ष में 600 TV और 7वें वर्ष में 700 TV सेटों का उत्पादन करती है। यह मानते हुए कि उत्पादन में प्रतिवर्ष एक निश्चित संख्या में समान रूप से वृद्धि होती है, प्रथम वर्ष का उत्पादन क्या था?",
+            "en": "A manufacturing company produces 600 TV sets in the 3rd year and 700 TV sets in the 7th year. Assuming that production increases uniformly by a fixed number every year, what was the production in the first year?"
           },
           "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "2", "en": "2"},
-            {"hi": "3", "en": "3"},
-            {"hi": "0", "en": "0"}
+            {"hi": "500", "en": "500"},
+            {"hi": "550", "en": "550"},
+            {"hi": "450", "en": "450"},
+            {"hi": "525", "en": "525"}
           ],
-          "answer": {"hi": "1", "en": "1"}
+          "answer": {"hi": "550", "en": "550"}
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "एक बिंदु की कितनी विमाएँ होती हैं?",
-            "en": "How many dimensions does a point have?"
+            "hi": "A.P. -3, -1/2, 2, ... का 11वाँ पद क्या होगा?",
+            "en": "What will be the 11th term of the A.P. -3, -1/2, 2, ...?"
           },
           "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "2", "en": "2"},
-            {"hi": "3", "en": "3"},
-            {"hi": "0", "en": "0"}
+            {"hi": "22", "en": "22"},
+            {"hi": "28", "en": "28"},
+            {"hi": "-38", "en": "-38"},
+            {"hi": "48", "en": "48"}
           ],
-          "answer": {"hi": "0", "en": "0"}
+          "answer": {"hi": "22", "en": "22"}
         },
         {
           "q": {
-            "hi": "यूक्लिड ने पृष्ठों की सीमाओं (Boundaries) को क्या कहा?",
-            "en": "What did Euclid call the boundaries of surfaces?"
+            "hi": "यदि किसी A.P. का प्रथम पद $a=5$, अंतिम पद $l=45$ और सभी पदों का योग $S_n=400$ है, तो इस श्रेढ़ी में पदों की संख्या ($n$) क्या होगी?",
+            "en": "If the first term of an A.P. is $a=5$, the last term is $l=45$, and the sum of all terms is $S_n=400$, what will be the number of terms ($n$) in this progression?"
           },
           "options": [
-            {"hi": "बिंदु", "en": "Points"},
-            {"hi": "वक्र", "en": "Curves"},
-            {"hi": "रेखाएँ", "en": "Lines"},
-            {"hi": "पृष्ठ", "en": "Surfaces"}
+            {"hi": "10", "en": "10"},
+            {"hi": "16", "en": "16"},
+            {"hi": "20", "en": "20"},
+            {"hi": "25", "en": "25"}
           ],
-          "answer": {"hi": "रेखाएँ", "en": "Lines"}
+          "answer": {"hi": "16", "en": "16"}
         },
         {
           "q": {
-            "hi": "यूक्लिड ने रेखाओं की सीमाओं को क्या कहा?",
-            "en": "What did Euclid call the boundaries of lines?"
+            "hi": "किसी A.P. के प्रथम और अंतिम पद क्रमशः 17 और 350 हैं। यदि सार्व अंतर $d=9$ हो, तो इसमें कुल कितने पद हैं?",
+            "en": "The first and last terms of an A.P. are 17 and 350 respectively. If the common difference is $d=9$, how many terms are there in total?"
           },
           "options": [
-            {"hi": "सिरे", "en": "Ends"},
-            {"hi": "बिंदु", "en": "Points"},
-            {"hi": "विमाएँ", "en": "Dimensions"},
-            {"hi": "तल", "en": "Planes"}
+            {"hi": "36", "en": "36"},
+            {"hi": "38", "en": "38"},
+            {"hi": "40", "en": "40"},
+            {"hi": "42", "en": "42"}
           ],
-          "answer": {"hi": "बिंदु", "en": "Points"}
+          "answer": {"hi": "38", "en": "38"}
         },
         {
           "q": {
-            "hi": "पिरामिड का आधार किस आकृति का हो सकता है?",
-            "en": "The base of a pyramid can be of which shape?"
+            "hi": "10 और 250 के बीच में 4 के कितने गुणज (multiples) स्थित हैं?",
+            "en": "How many multiples of 4 lie between 10 and 250?"
           },
           "options": [
-            {"hi": "केवल त्रिभुज", "en": "Only triangle"},
-            {"hi": "केवल वर्ग", "en": "Only square"},
-            {"hi": "कोई भी बहुभुज", "en": "Any polygon"},
-            {"hi": "केवल वृत्त", "en": "Only circle"}
+            {"hi": "50", "en": "50"},
+            {"hi": "55", "en": "55"},
+            {"hi": "60", "en": "60"},
+            {"hi": "65", "en": "65"}
           ],
-          "answer": {"hi": "कोई भी बहुभुज", "en": "Any polygon"}
+          "answer": {"hi": "60", "en": "60"}
         },
         {
           "q": {
-            "hi": "पिरामिड के पार्श्व फलक (Side faces) सदैव कैसे होते हैं?",
-            "en": "The side faces of a pyramid are always?"
+            "hi": "उस A.P. के प्रथम 22 पदों का योग ज्ञात कीजिए, जिसमें $d=7$ है और 22वाँ पद 149 है।",
+            "en": "Find the sum of the first 22 terms of that A.P. in which $d=7$ and the 22nd term is 149."
           },
           "options": [
-            {"hi": "वृत्ताकार", "en": "Circular"},
-            {"hi": "त्रिभुजाकार", "en": "Triangular"},
-            {"hi": "वर्गाकार", "en": "Square"},
-            {"hi": "आयताकार", "en": "Rectangular"}
+            {"hi": "1661", "en": "1661"},
+            {"hi": "1551", "en": "1551"},
+            {"hi": "1771", "en": "1771"},
+            {"hi": "1881", "en": "1881"}
           ],
-          "answer": {"hi": "त्रिभुजाकार", "en": "Triangular"}
+          "answer": {"hi": "1661", "en": "1661"}
         },
         {
           "q": {
-            "hi": "यूनानी गणितज्ञ थेल्स (Thales) ने क्या सिद्ध किया था?",
-            "en": "What did the Greek mathematician Thales prove?"
+            "hi": "ऐसे प्रथम 40 धन पूर्णांकों का योग ज्ञात कीजिए जो 6 से विभाज्य हैं।",
+            "en": "Find the sum of the first 40 positive integers divisible by 6."
           },
           "options": [
-            {"hi": "त्रिभुज के तीनों कोण 180° होते हैं", "en": "Three angles of triangle are 180°"},
-            {"hi": "एक वृत्त का व्यास उसे समद्विभाजित करता है", "en": "A diameter of a circle bisects it"},
-            {"hi": "पाइथागोरस प्रमेय", "en": "Pythagoras theorem"},
-            {"hi": "दो समांतर रेखाएँ नहीं मिलतीं", "en": "Two parallel lines don't meet"}
+            {"hi": "4920", "en": "4920"},
+            {"hi": "4800", "en": "4800"},
+            {"hi": "5000", "en": "5000"},
+            {"hi": "4620", "en": "4620"}
           ],
-          "answer": {"hi": "एक वृत्त का व्यास उसे समद्विभाजित करता है", "en": "A diameter of a circle bisects it"}
+          "answer": {"hi": "4920", "en": "4920"}
         },
         {
           "q": {
-            "hi": "थेल्स का सबसे प्रसिद्ध शिष्य कौन था?",
-            "en": "Who was the most famous student of Thales?"
+            "hi": "8 के प्रथम 15 गुणजों (multiples) का योगफल क्या होगा?",
+            "en": "What will be the sum of the first 15 multiples of 8?"
           },
           "options": [
-            {"hi": "यूक्लिड", "en": "Euclid"},
-            {"hi": "आर्यभट्ट", "en": "Aryabhata"},
-            {"hi": "पाइथागोरस", "en": "Pythagoras"},
-            {"hi": "आर्किमिडीज", "en": "Archimedes"}
+            {"hi": "900", "en": "900"},
+            {"hi": "960", "en": "960"},
+            {"hi": "1000", "en": "1000"},
+            {"hi": "860", "en": "860"}
           ],
-          "answer": {"hi": "पाइथागोरस", "en": "Pythagoras"}
+          "answer": {"hi": "960", "en": "960"}
         },
         {
           "q": {
-            "hi": "यूक्लिड की पाँचवीं अभिधारणा के समतुल्य रूपांतरण 'प्लेफेयर अभिगृहीत' (Playfair's Axiom) किससे संबंधित है?",
-            "en": "Playfair's Axiom, an equivalent version of Euclid's fifth postulate, is related to?"
+            "hi": "0 और 50 के बीच की विषम संख्याओं (odd numbers) का योगफल कितना होता है?",
+            "en": "What is the sum of the odd numbers between 0 and 50?"
           },
           "options": [
-            {"hi": "लंब रेखाओं से", "en": "Perpendicular lines"},
-            {"hi": "समांतर रेखाओं से", "en": "Parallel lines"},
-            {"hi": "वृत्त की त्रिज्या से", "en": "Radius of circle"},
-            {"hi": "वर्ग की भुजाओं से", "en": "Sides of square"}
+            {"hi": "500", "en": "500"},
+            {"hi": "600", "en": "600"},
+            {"hi": "625", "en": "625"},
+            {"hi": "650", "en": "650"}
           ],
-          "answer": {"hi": "समांतर रेखाओं से", "en": "Parallel lines"}
+          "answer": {"hi": "625", "en": "625"}
         },
         {
           "q": {
-            "hi": "अभिधारणा 'पूर्ण अपने भाग से बड़ा होता है' किस प्रकार का सत्य है?",
-            "en": "The assumption 'the whole is greater than the part' is what kind of truth?"
+            "hi": "निर्माण कार्य से संबंधित किसी अनुबंध में निश्चित तिथि के बाद कार्य को पूरा करने में देरी के लिए जुर्माना ₹200 से शुरू होकर प्रतिदिन ₹50 बढ़ता जाता है। 30 दिन की देरी के लिए ठेकेदार को कितना जुर्माना देना पड़ेगा?",
+            "en": "In a construction contract, the penalty for delay in completion beyond a fixed date starts at ₹200 and increases by ₹50 daily. How much penalty will the contractor have to pay for a delay of 30 days?"
           },
           "options": [
-            {"hi": "ज्यामितीय सत्य", "en": "Geometric truth"},
-            {"hi": "एक सार्वभौमिक सत्य", "en": "A universal truth"},
-            {"hi": "एक प्रमेय", "en": "A theorem"},
-            {"hi": "एक अस्थाई सत्य", "en": "A temporary truth"}
+            {"hi": "₹27750", "en": "₹27750"},
+            {"hi": "₹30000", "en": "₹30000"},
+            {"hi": "₹25000", "en": "₹25000"},
+            {"hi": "₹28500", "en": "₹28500"}
           ],
-          "answer": {"hi": "एक सार्वभौमिक सत्य", "en": "A universal truth"}
+          "answer": {"hi": "₹27750", "en": "₹27750"}
         },
         {
           "q": {
-            "hi": "यूक्लिड की पाँचवीं अभिधारणा के अनुसार, यदि अंत: कोणों का योग 180° से कम हो, तो रेखाएँ:",
-            "en": "According to Euclid's 5th postulate, if sum of interior angles is less than 180°, the lines:"
+            "hi": "एक स्कूल के विद्यार्थियों ने वायु प्रदूषण कम करने के लिए स्कूल के अंदर और बाहर पेड़ लगाने का निर्णय लिया। प्रत्येक कक्षा का प्रत्येक अनुभाग (section) अपनी कक्षा की संख्या के बराबर पेड़ लगाएगा (जैसे कक्षा 1 का अनुभाग 1 पेड़, कक्षा 2 का अनुभाग 2 पेड़)। यदि प्रत्येक कक्षा के 3 अनुभाग हों, तो कक्षा 1 से 12 तक कुल कितने पेड़ लगेंगे?",
+            "en": "Students of a school decided to plant trees inside and outside the school to reduce air pollution. Each section of each class will plant trees equal to the class number (e.g., class 1 will plant 1 tree, class 2 will plant 2 trees). If there are 3 sections for each class, how many trees will be planted from class 1 to 12?"
           },
           "options": [
-            {"hi": "कभी नहीं मिलेंगी", "en": "Will never meet"},
-            {"hi": "अनिश्चित रूप से बढ़ाने पर उसी ओर मिलेंगी", "en": "Will meet on that side if produced indefinitely"},
-            {"hi": "समांतर होंगी", "en": "Will be parallel"},
-            {"hi": "विपरीत दिशा में मिलेंगी", "en": "Will meet in opposite direction"}
+            {"hi": "234", "en": "234"},
+            {"hi": "250", "en": "250"},
+            {"hi": "117", "en": "117"},
+            {"hi": "300", "en": "300"}
           ],
-          "answer": {"hi": "अनिश्चित रूप से बढ़ाने पर उसी ओर मिलेंगी", "en": "Will meet on that side if produced indefinitely"}
+          "answer": {"hi": "234", "en": "234"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "क्या यूक्लिड की ज्यामिति केवल समतलीय आकृतियों के लिए ही मान्य है?",
-            "en": "Is Euclid's geometry valid only for plane figures?"
+            "hi": "केंद्र A से प्रारंभ करते हुए, बारी-बारी से केंद्रों A और B को लेते हुए, त्रिज्याओं 0.5 cm, 1.0 cm, 1.5 cm, 2.0 cm, ... वाले उत्तरोत्तर अर्धवृत्तों को खींचकर एक सर्पिल (spiral) बनाया गया है। 13 अर्धवृत्तों से बने इस सर्पिल की कुल लंबाई क्या होगी?",
+            "en": "A spiral is made up of successive semicircles, with centers alternately at A and B, starting with center A, of radii 0.5 cm, 1.0 cm, 1.5 cm, 2.0 cm, ... What will be the total length of such a spiral made up of 13 consecutive semicircles?"
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "केवल बिंदुओं के लिए", "en": "Only for points"},
-            {"hi": "केवल वृत्तों के लिए", "en": "Only for circles"}
+            {"hi": "134 cm", "en": "134 cm"},
+            {"hi": "143 cm", "en": "143 cm"},
+            {"hi": "150 cm", "en": "150 cm"},
+            {"hi": "250 cm", "en": "250 cm"}
           ],
-          "answer": {"hi": "हाँ", "en": "Yes"}
+          "answer": {"hi": "143 cm", "en": "143 cm"}
         },
         {
           "q": {
-            "hi": "दो भिन्न रेखाओं में कितने बिंदु उभयनिष्ठ (Common) हो सकते हैं?",
-            "en": "How many points can be common in two distinct lines?"
+            "hi": "एक आलू दौड़ (potato race) में, प्रारंभिक स्थान पर एक बाल्टी रखी हुई है, जो पहले आलू से 5 m की दूरी पर है तथा अन्य आलूओं को एक सीधी रेखा में परस्पर 3 m की दूरियों पर रखा गया है। कुल 10 आलू रखे गए हैं। एक प्रतियोगी को कुल कितनी दूरी दौड़नी पड़ेगी?",
+            "en": "In a potato race, a bucket is placed at the starting point, which is 5 m from the first potato, and the other potatoes are placed 3 m apart in a straight line. There are 10 potatoes in total. What is the total distance a competitor has to run?"
           },
           "options": [
-            {"hi": "एक से अधिक नहीं", "en": "Not more than one"},
-            {"hi": "दो", "en": "Two"},
-            {"hi": "शून्य", "en": "Zero"},
-            {"hi": "अपरिमित", "en": "Infinite"}
+            {"hi": "370 m", "en": "370 m"},
+            {"hi": "350 m", "en": "350 m"},
+            {"hi": "400 m", "en": "400 m"},
+            {"hi": "300 m", "en": "300 m"}
           ],
-          "answer": {"hi": "एक से अधिक नहीं", "en": "Not more than one"}
+          "answer": {"hi": "370 m", "en": "370 m"}
         },
         {
           "q": {
-            "hi": "यदि दो रेखाएँ परस्पर समांतर हों, तो वे कभी भी:",
-            "en": "If two lines are parallel to each other, they never:"
+            "hi": "200 लट्ठों (logs) को ढेरी के रूप में इस प्रकार रखा जाता है: सबसे नीचे वाली पंक्ति में 20 लट्ठे, उससे अगली पंक्ति में 19 लट्ठे, उससे अगली में 18 लट्ठे इत्यादि। ये 200 लट्ठे कितनी पंक्तियों में रखे गए हैं तथा सबसे ऊपरी पंक्ति में कितने लट्ठे हैं?",
+            "en": "200 logs are stacked in the following manner: 20 logs in the bottom row, 19 in the next row, 18 in the row next to it and so on. In how many rows are the 200 logs placed and how many logs are in the top row?"
           },
           "options": [
-            {"hi": "मुड़ती नहीं", "en": "Don't bend"},
-            {"hi": "प्रतिच्छेद नहीं करतीं", "en": "Don't intersect"},
-            {"hi": "बराबर नहीं होतीं", "en": "Are not equal"},
-            {"hi": "बढ़ती नहीं", "en": "Don't grow"}
+            {"hi": "16 पंक्तियाँ और ऊपरी पंक्ति में 5 लट्ठे", "en": "16 rows and 5 logs in the top row"},
+            {"hi": "25 पंक्तियाँ और ऊपरी पंक्ति में 0 लट्ठे", "en": "25 rows and 0 logs in the top row"},
+            {"hi": "15 पंक्तियाँ और ऊपरी पंक्ति में 10 लट्ठे", "en": "15 rows and 10 logs in the top row"},
+            {"hi": "20 पंक्तियाँ और ऊपरी पंक्ति में 1 लट्ठा", "en": "20 rows and 1 log in the top row"}
           ],
-          "answer": {"hi": "प्रतिच्छेद नहीं करतीं", "en": "Don't intersect"}
+          "answer": {"hi": "16 पंक्तियाँ और ऊपरी पंक्ति में 5 लट्ठे", "en": "16 rows and 5 logs in the top row"}
         },
         {
           "q": {
-            "hi": "यूक्लिड ने 'एलिमेंट्स' के पहले अध्याय में कितनी परिभाषाएँ दी थीं?",
-            "en": "How many definitions did Euclid give in the first chapter of 'Elements'?"
+            "hi": "यदि किसी A.P. के प्रथम $n$ पदों का योग $4n - n^2$ है, तो इसका प्रथम पद ($S_1$) क्या होगा?",
+            "en": "If the sum of the first $n$ terms of an A.P. is $4n - n^2$, what will be its first term ($S_1$)?"
           },
           "options": [
-            {"hi": "13", "en": "13"},
-            {"hi": "23", "en": "23"},
-            {"hi": "33", "en": "33"},
-            {"hi": "10", "en": "10"}
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "3", "en": "3"},
+            {"hi": "4", "en": "4"}
           ],
-          "answer": {"hi": "23", "en": "23"}
+          "answer": {"hi": "3", "en": "3"}
         },
         {
           "q": {
-            "hi": "यूक्लिड द्वारा दिए गए 'अभिगृहीत 4' का मुख्य विषय क्या है?",
-            "en": "What is the main subject of 'Axiom 4' given by Euclid?"
+            "hi": "यदि $a, b, c$ समांतर श्रेढ़ी (A.P.) में हों, तो उनके बीच का पद $b$ दोनों पदों $a$ और $c$ का क्या कहलाता है जिसे $b = (a+c)/2$ द्वारा व्यक्त करते हैं?",
+            "en": "If $a, b, c$ are in Arithmetic Progression (A.P.), then the middle term $b$ is called what of the terms $a$ and $c$, expressed by $b = (a+c)/2$?"
           },
           "options": [
-            {"hi": "योग", "en": "Addition"},
-            {"hi": "घटाना", "en": "Subtraction"},
-            {"hi": "संपाती और समानता", "en": "Coinciding and equality"},
-            {"hi": "गुणा", "en": "Multiplication"}
+            {"hi": "गुणोत्तर माध्य", "en": "Geometric mean"},
+            {"hi": "समांतर माध्य (Arithmetic mean)", "en": "Arithmetic mean"},
+            {"hi": "हरात्मक माध्य", "en": "Harmonic mean"},
+            {"hi": "योगफल", "en": "Summation"}
           ],
-          "answer": {"hi": "संपाती और समानता", "en": "Coinciding and equality"}
+          "answer": {"hi": "समांतर माध्य (Arithmetic mean)", "en": "Arithmetic mean"}
         },
         {
           "q": {
-            "hi": "यूक्लिड की ज्यामिति किस प्रकार के तल पर आधारित है?",
-            "en": "Euclid's geometry is based on what kind of plane?"
+            "hi": "एक चबूतरे में 15 सीढ़ियाँ बनी हैं, जिसमें से प्रत्येक की लंबाई 50 m है। प्रत्येक सीढ़ी में $1/4$ m की चढ़ाई है और $1/2$ m का फैलाव (चौड़ाई) है। पहली सीढ़ी को बनाने में लगी कंक्रीट का आयतन क्या होगा?",
+            "en": "A terrace consists of 15 steps, each of which is 50 m long. Each step has a rise of $1/4$ m and a tread of $1/2$ m. What will be the volume of concrete required to build the first step?"
           },
           "options": [
-            {"hi": "गोलीय तल", "en": "Spherical plane"},
-            {"hi": "समतल", "en": "Flat plane"},
-            {"hi": "वक्र तल", "en": "Curved plane"},
-            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+            {"hi": "4.25 m^3", "en": "4.25 m^3"},
+            {"hi": "6.25 m^3", "en": "6.25 m^3"},
+            {"hi": "12.5 m^3", "en": "12.5 m^3"},
+            {"hi": "25 m^3", "en": "25 m^3"}
           ],
-          "answer": {"hi": "समतल", "en": "Flat plane"}
+          "answer": {"hi": "6.25 m^3", "en": "6.25 m^3"}
         },
         {
           "q": {
-            "hi": "यदि $AB = CD$ और $CD = EF$ है, तो यूक्लिड के पहले अभिगृहीत के अनुसार:",
-            "en": "If $AB = CD$ and $CD = EF$, then according to Euclid's first axiom:"
+            "hi": "उपरोक्त प्रश्न के अनुसार, चबूतरे की सभी 15 सीढ़ियों को बनाने में लगी कंक्रीट का कुल आयतन क्या होगा?",
+            "en": "According to the above question, what will be the total volume of concrete required to build all 15 steps of the terrace?"
           },
           "options": [
-            {"hi": "$AB \\ne EF$", "en": "$AB \\ne EF$"},
-            {"hi": "$AB = EF$", "en": "$AB = EF$"},
-            {"hi": "$AB$ बड़ा है $EF$ से", "en": "$AB$ is greater than $EF$"},
-            {"hi": "$AB + CD = EF$", "en": "$AB + CD = EF$"}
+            {"hi": "750 m^3", "en": "750 m^3"},
+            {"hi": "650 m^3", "en": "650 m^3"},
+            {"hi": "800 m^3", "en": "800 m^3"},
+            {"hi": "700 m^3", "en": "700 m^3"}
           ],
-          "answer": {"hi": "$AB = EF$", "en": "$AB = EF$"}
+          "answer": {"hi": "750 m^3", "en": "750 m^3"}
         },
         {
           "q": {
-            "hi": "यूक्लिड के अनुसार, एक 'सांत रेखा' वर्तमान समय में क्या कहलाती है?",
-            "en": "According to Euclid, what is a 'terminated line' called in modern times?"
+            "hi": "यदि किसी समांतर श्रेढ़ी का प्रथम पद $a=2$ और सार्व अंतर $d=0$ हो, तो उसके प्रथम 50 पदों का योगफल क्या होगा?",
+            "en": "If the first term of an Arithmetic Progression is $a=2$ and the common difference is $d=0$, what will be the sum of its first 50 terms?"
           },
           "options": [
-            {"hi": "किरण", "en": "Ray"},
-            {"hi": "रेखाखंड", "en": "Line segment"},
-            {"hi": "वक्र", "en": "Curve"},
-            {"hi": "बिंदु", "en": "Point"}
+            {"hi": "0", "en": "0"},
+            {"hi": "100", "en": "100"},
+            {"hi": "50", "en": "50"},
+            {"hi": "200", "en": "200"}
           ],
-          "answer": {"hi": "रेखाखंड", "en": "Line segment"}
+          "answer": {"hi": "100", "en": "100"}
         },
         {
           "q": {
-            "hi": "यूक्लिड की ज्यामिति के अनुसार, 'अभिधारणाएँ' (Postulates) क्या हैं?",
-            "en": "According to Euclid's geometry, what are 'Postulates'?"
+            "hi": "एक पंक्ति के मकानों को क्रमागत रूप से संख्या 1 से 49 तक अंकित किया गया है। $x$ का एक ऐसा मान है कि $x$ से पहले के मकानों की संख्याओं का योग उसके बाद के मकानों की संख्याओं के योग के बराबर है। $x$ का मान ज्ञात कीजिए।",
+            "en": "The houses of a row are numbered consecutively from 1 to 49. There is a value of $x$ such that the sum of the numbers of the houses preceding the house numbered $x$ is equal to the sum of the numbers of the houses following it. Find the value of $x$."
           },
           "options": [
-            {"hi": "स्वयं सिद्ध कथन", "en": "Self-evident statements"},
-            {"hi": "सिद्ध किए गए कथन", "en": "Proven statements"},
-            {"hi": "गलत कथन", "en": "Wrong statements"},
-            {"hi": "जटिल गणनाएँ", "en": "Complex calculations"}
+            {"hi": "25", "en": "25"},
+            {"hi": "35", "en": "35"},
+            {"hi": "30", "en": "30"},
+            {"hi": "40", "en": "40"}
           ],
-          "answer": {"hi": "स्वयं सिद्ध कथन", "en": "Self-evident statements"}
+          "answer": {"hi": "35", "en": "35"}
         },
         {
           "q": {
-            "hi": "यूक्लिड ने ज्यामिति के ज्ञान को व्यवस्थित रूप से प्रस्तुत करके किसे गणित का आधार बनाया?",
-            "en": "Euclid made what the basis of mathematics by systematically presenting geometric knowledge?"
+            "hi": "समांतर श्रेढ़ी के इतिहास के संदर्भ में, किस प्राचीन भारतीय पुस्तक में समांतर श्रेढ़ी और उसके सूत्रों का प्रारंभिक उल्लेख मिलता है?",
+            "en": "In the context of the history of Arithmetic Progression, which ancient Indian text contains early mentions of arithmetic series and its formulas?"
           },
           "options": [
-            {"hi": "तर्क और निगमन को", "en": "Logic and deduction"},
-            {"hi": "केवल मापन को", "en": "Only measurement"},
-            {"hi": "कला को", "en": "Art"},
-            {"hi": "इतिहास को", "en": "History"}
+            {"hi": "ऋग्वेद", "en": "Rigveda"},
+            {"hi": "बख्शाली पाण्डुलिपि (Bakhshali Manuscript)", "en": "Bakhshali Manuscript"},
+            {"hi": "लीलावती", "en": "Lilavati"},
+            {"hi": "बीजगणित", "en": "Bijaganita"}
           ],
-          "answer": {"hi": "तर्क और निगमन को", "en": "Logic and deduction"}
+          "answer": {"hi": "बख्शाली पाण्डुलिपि (Bakhshali Manuscript)", "en": "Bakhshali Manuscript"}
         }
       ]
     },
