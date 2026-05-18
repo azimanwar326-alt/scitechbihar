@@ -1990,661 +1990,661 @@
       "section1": [
         {
           "q": {
-            "hi": "एक रैखिक समीकरण $ax + by + c = 0$ में $a, b$ और $c$ क्या हैं?",
-            "en": "In a linear equation $ax + by + c = 0$, what are $a, b$, and $c$?"
+            "hi": "चर $x$ में एक द्विघात समीकरण किस रूप का होता है, जहाँ $a, b, c$ वास्तविक संख्याएँ हैं और $a \\le 0$ है?",
+            "en": "A quadratic equation in variable $x$ is of which form, where $a, b, c$ are real numbers and $a \\ne 0$?"
           },
           "options": [
-            {"hi": "प्राकृत संख्याएँ", "en": "Natural numbers"},
-            {"hi": "वास्तविक संख्याएँ", "en": "Real numbers"},
-            {"hi": "केवल पूर्णांक", "en": "Only integers"},
-            {"hi": "काल्पनिक संख्याएँ", "en": "Imaginary numbers"}
+            {"hi": "ax + b = 0", "en": "ax + b = 0"},
+            {"hi": "ax^2 + bx + c = 0", "en": "ax^2 + bx + c = 0"},
+            {"hi": "ax^3 + bx^2 + cx + d = 0", "en": "ax^3 + bx^2 + cx + d = 0"},
+            {"hi": "ax^2 + b = 0", "en": "ax^2 + b = 0"}
           ],
-          "answer": {"hi": "वास्तविक संख्याएँ", "en": "Real numbers"}
+          "answer": {"hi": "ax^2 + bx + c = 0", "en": "ax^2 + bx + c = 0"}
         },
         {
           "q": {
-            "hi": "दो चरों वाले रैखिक समीकरण के कितने हल होते हैं?",
-            "en": "How many solutions does a linear equation in two variables have?"
+            "hi": "द्विघात समीकरण $ax^2 + bx + c = 0$ के मानक रूप (Standard form) में कौन सा पद पहले लिखा जाता है?",
+            "en": "In the standard form of a quadratic equation $ax^2 + bx + c = 0$, which term is written first?"
           },
           "options": [
-            {"hi": "एक अद्वितीय हल", "en": "A unique solution"},
-            {"hi": "केवल दो हल", "en": "Only two solutions"},
-            {"hi": "अपरिमित रूप से अनेक हल", "en": "Infinitely many solutions"},
-            {"hi": "कोई हल नहीं", "en": "No solution"}
+            {"hi": "अचर पद (c)", "en": "Constant term (c)"},
+            {"hi": "x की घात 1 वाला पद (bx)", "en": "Term with power 1 of x (bx)"},
+            {"hi": "x की घात 2 वाला पद (ax^2)", "en": "Term with power 2 of x (ax^2)"},
+            {"hi": "कोई भी पद पहले लिखा जा सकता है", "en": "Any term can be written first"}
           ],
-          "answer": {"hi": "अपरिमित रूप से अनेक हल", "en": "Infinitely many solutions"}
+          "answer": {"hi": "x की घात 2 वाला पद (ax^2)", "en": "Term with power 2 of x (ax^2)"}
         },
         {
           "q": {
-            "hi": "समीकरण $x + 2y = 6$ का एक हल क्या है?",
-            "en": "What is one solution of the equation $x + 2y = 6$?"
+            "hi": "इतिहासकारों के अनुसार, किस प्राचीन सभ्यता के लोगों ने सर्वप्रथम द्विघात समीकरणों को हल किया था?",
+            "en": "According to historians, people of which ancient civilization were the first to solve quadratic equations?"
           },
           "options": [
-            {"hi": "(1, 1)", "en": "(1, 1)"},
-            {"hi": "(2, 2)", "en": "(2, 2)"},
-            {"hi": "(0, 6)", "en": "(0, 6)"},
-            {"hi": "(6, 2)", "en": "(6, 2)"}
+            {"hi": "यूनानवासियों ने", "en": "Greeks"},
+            {"hi": "मिस्रवासियों ने", "en": "Egyptians"},
+            {"hi": "बेबीलोनवासियों ने", "en": "Babylonians"},
+            {"hi": "रोमवासियों ने", "en": "Romans"}
           ],
-          "answer": {"hi": "(2, 2)", "en": "(2, 2)"}
+          "answer": {"hi": "बेबीलोनवासियों ने", "en": "Babylonians"}
         },
         {
           "q": {
-            "hi": "समीकरण $x = 4y$ को $ax + by + c = 0$ के रूप में लिखने पर $a, b$ और $c$ के मान क्या होंगे?",
-            "en": "When $x = 4y$ is written in the form $ax + by + c = 0$, what are the values of $a, b$, and $c$?"
+            "hi": "किस प्रसिद्ध यूनानी गणितज्ञ ने दूरियाँ ज्ञात करने की एक ज्यामितीय विधि विकसित की जिसे हम वर्तमान में द्विघात समीकरणों के हल कहते हैं?",
+            "en": "Which famous Greek mathematician developed a geometrical method for finding lengths which we now call solutions of quadratic equations?"
           },
           "options": [
-            {"hi": "a=1, b=4, c=0", "en": "a=1, b=4, c=0"},
-            {"hi": "a=1, b=-4, c=0", "en": "a=1, b=-4, c=0"},
-            {"hi": "a=0, b=1, c=4", "en": "a=0, b=1, c=4"},
-            {"hi": "a=1, b=0, c=-4", "en": "a=1, b=0, c=-4"}
+            {"hi": "आर्किमिडीज़", "en": "Archimedes"},
+            {"hi": "यूक्लिड", "en": "Euclid"},
+            {"hi": "पाइथागोरस", "en": "Pythagoras"},
+            {"hi": "थेल्स", "en": "Thales"}
           ],
-          "answer": {"hi": "a=1, b=-4, c=0", "en": "a=1, b=-4, c=0"}
+          "answer": {"hi": "यूक्लिड", "en": "Euclid"}
         },
         {
           "q": {
-            "hi": "एक चर वाले रैखिक समीकरण $ax + b = 0$ का कितना हल होता है?",
-            "en": "How many solutions does a linear equation in one variable $ax + b = 0$ have?"
+            "hi": "द्विघात समीकरणों को हल करने का श्रेय स्पष्ट रूप से प्राचीन भारतीय गणितज्ञों को भी जाता है। ब्रह्मगुप्त ने $ax^2 + bx = c$ को हल करने का एक स्पष्ट सूत्र किस वर्ष के आसपास दिया था?",
+            "en": "The credit of solving quadratic equations explicitly goes to ancient Indian mathematicians. Around which year did Brahmagupta give an explicit formula to solve $ax^2 + bx = c$?"
           },
           "options": [
-            {"hi": "दो हल", "en": "Two solutions"},
-            {"hi": "अद्वितीय हल", "en": "A unique solution"},
-            {"hi": "अनेक हल", "en": "Many solutions"},
-            {"hi": "कोई हल नहीं", "en": "No solution"}
+            {"hi": "499 ई.", "en": "499 AD"},
+            {"hi": "628 ई.", "en": "628 AD"},
+            {"hi": "1114 ई.", "en": "1114 AD"},
+            {"hi": "1500 ई.", "en": "1500 AD"}
           ],
-          "answer": {"hi": "अद्वितीय हल", "en": "A unique solution"}
+          "answer": {"hi": "628 ई.", "en": "628 AD"}
         },
         {
           "q": {
-            "hi": "समीकरण $2x + 1 = x - 3$ का हल क्या है?",
-            "en": "What is the solution to the equation $2x + 1 = x - 3$?"
+            "hi": "किस भारतीय गणितज्ञ ने एक सूत्र प्रतिपादित किया था जिसे बाद में श्रीधराचार्य ने द्विघात सूत्र के रूप में निरूपित किया?",
+            "en": "Which Indian mathematician propounded a formula which was later formulated by Sridharacharya as the quadratic formula?"
           },
           "options": [
-            {"hi": "x = 4", "en": "x = 4"},
-            {"hi": "x = -4", "en": "x = -4"},
-            {"hi": "x = 2", "en": "x = 2"},
-            {"hi": "x = -2", "en": "x = -2"}
+            {"hi": "आर्यभट", "en": "Aryabhata"},
+            {"hi": "भास्कर द्वितीय", "en": "Bhaskara II"},
+            {"hi": "श्रीधराचार्य खुद", "en": "Sridharacharya himself"},
+            {"hi": "ब्रह्मगुप्त", "en": "Brahmagupta"}
           ],
-          "answer": {"hi": "x = -4", "en": "x = -4"}
+          "answer": {"hi": "श्रीधराचार्य खुद", "en": "Sridharacharya himself"}
         },
         {
           "q": {
-            "hi": "समीकरण $y = 3x + 5$ के लिए कौन सा कथन सत्य है?",
-            "en": "Which statement is true for the equation $y = 3x + 5$?"
+            "hi": "भास्कर द्वितीय की प्रसिद्ध कृति 'लीलावती' में दिए गए प्रश्नों को भी द्विघात समीकरणों के रूप में हल किया जा सकता है। भास्कर द्वितीय का काल कौन सा था?",
+            "en": "The problems given in Bhaskara II's famous work 'Lilavati' can also be solved as quadratic equations. What was the period of Bhaskara II?"
           },
           "options": [
-            {"hi": "अद्वितीय हल है", "en": "Has a unique solution"},
-            {"hi": "केवल दो हल हैं", "en": "Has only two solutions"},
-            {"hi": "अपरिमित रूप से अनेक हल हैं", "en": "Has infinitely many solutions"},
-            {"hi": "कोई हल नहीं है", "en": "Has no solution"}
+            {"hi": "7वीं शताब्दी", "en": "7th Century"},
+            {"hi": "9वीं शताब्दी", "en": "9th Century"},
+            {"hi": "12वीं शताब्दी", "en": "12th Century"},
+            {"hi": "15वीं शताब्दी", "en": "15th Century"}
           ],
-          "answer": {"hi": "अपरिमित रूप से अनेक हल हैं", "en": "Has infinitely many solutions"}
+          "answer": {"hi": "12वीं शताब्दी", "en": "12th Century"}
         },
         {
           "q": {
-            "hi": "यदि $x=2, y=1$ समीकरण $2x + 3y = k$ का एक हल है, तो $k$ का मान क्या होगा?",
-            "en": "If $x=2, y=1$ is a solution to the equation $2x + 3y = k$, what is the value of $k$?"
+            "hi": "अरब गणितज्ञ अल-ख्वारिज़मी ने भी विभिन्न प्रकार की द्विघात समीकरणों का अध्ययन किया। उनका काल किस समय का था?",
+            "en": "The Arab mathematician Al-Khwarizmi also studied various types of quadratic equations. What was his period?"
           },
           "options": [
-            {"hi": "5", "en": "5"},
-            {"hi": "6", "en": "6"},
-            {"hi": "7", "en": "7"},
-            {"hi": "8", "en": "8"}
+            {"hi": "लगभग 800 ई.", "en": "Around 800 AD"},
+            {"hi": "लगभग 500 ई.", "en": "Around 500 AD"},
+            {"hi": "लगभग 1100 ई.", "en": "Around 1100 AD"},
+            {"hi": "लगभग 300 ई.पू.", "en": "Around 300 BC"}
           ],
-          "answer": {"hi": "7", "en": "7"}
+          "answer": {"hi": "लगभग 800 ई.", "en": "Around 800 AD"}
         },
         {
           "q": {
-            "hi": "एक रैखिक समीकरण $ax + by + c = 0$ में $a$ और $b$ दोनों क्या नहीं हो सकते?",
-            "en": "In a linear equation $ax + by + c = 0$, what can $a$ and $b$ not both be?"
+            "hi": "यूरोपीय गणितज्ञ अब्राहम बार हिया हा-नासी ने अपनी पुस्तक 'लिबर एम्बाडोराम्' में विभिन्न द्विघात समीकरणों के पूर्ण हल दिए। यह पुस्तक यूरोप में किस वर्ष प्रकाशित हुई थी?",
+            "en": "The European mathematician Abraham bar Hiyya Ha-Nasi gave complete solutions of various quadratic equations in his book 'Liber embadorum'. In which year was this book published in Europe?"
           },
           "options": [
-            {"hi": "धनात्मक", "en": "Positive"},
-            {"hi": "ऋणात्मक", "en": "Negative"},
-            {"hi": "शून्य", "en": "Zero"},
-            {"hi": "एक", "en": "One"}
+            {"hi": "1145 ई.", "en": "1145 AD"},
+            {"hi": "1202 ई.", "en": "1202 AD"},
+            {"hi": "1492 ई.", "en": "1492 AD"},
+            {"hi": "1687 ई.", "en": "1687 AD"}
           ],
-          "answer": {"hi": "शून्य", "en": "Zero"}
+          "answer": {"hi": "1145 ई.", "en": "1145 AD"}
         },
         {
           "q": {
-            "hi": "समीकरण $2x + 3y = 9.355$ में $c$ का मान क्या होगा यदि इसे $ax + by + c = 0$ के रूप में लिखें?",
-            "en": "What is the value of $c$ in the equation $2x + 3y = 9.355$ if written in the form $ax + by + c = 0$?"
+            "hi": "जाँच कीजिए कि क्या व्यंजक $x(x + 1) + 8 = (x + 2)(x - 2)$ एक द्विघात समीकरण है?",
+            "en": "Check whether the expression $x(x + 1) + 8 = (x + 2)(x - 2)$ is a quadratic equation?"
           },
           "options": [
-            {"hi": "9.355", "en": "9.355"},
-            {"hi": "-9.355", "en": "-9.355"},
-            {"hi": "0", "en": "0"},
-            {"hi": "2", "en": "2"}
+            {"hi": "हाँ, यह एक द्विघात समीकरण है", "en": "Yes, it is a quadratic equation"},
+            {"hi": "नहीं, यह एक रैखिक समीकरण में बदल जाता है", "en": "No, it reduces to a linear equation"},
+            {"hi": "यह एक त्रिघात समीकरण है", "en": "It is a cubic equation"},
+            {"hi": "यह समीकरण ही वैध नहीं है", "en": "The equation itself is not valid"}
           ],
-          "answer": {"hi": "-9.355", "en": "-9.355"}
+          "answer": {"hi": "नहीं, यह एक रैखिक समीकरण में बदल जाता है", "en": "No, it reduces to a linear equation"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "समीकरण $y = 3$ को दो चरों में किस प्रकार लिखा जा सकता है?",
-            "en": "How can the equation $y = 3$ be written in two variables?"
+            "hi": "एक वास्तविक संख्या $\\alpha$ द्विघात समीकरण $ax^2 + bx + c = 0$ का एक 'मूल' (root) कहलाती है, यदि:",
+            "en": "A real number $\\alpha$ is called a 'root' of the quadratic equation $ax^2 + bx + c = 0$ if:"
           },
           "options": [
-            {"hi": "0x + 1y = 3", "en": "0x + 1y = 3"},
-            {"hi": "1x + 0y = 3", "en": "1x + 0y = 3"},
-            {"hi": "1x + 1y = 3", "en": "1x + 1y = 3"},
-            {"hi": "0x + 0y = 3", "en": "0x + 0y = 3"}
+            {"hi": "a\\alpha^2 + b\\alpha + c > 0", "en": "a\\alpha^2 + b\\alpha + c > 0"},
+            {"hi": "a\\alpha^2 + b\\alpha + c = 0", "en": "a\\alpha^2 + b\\alpha + c = 0"},
+            {"hi": "a\\alpha^2 + b\\alpha + c < 0", "en": "a\\alpha^2 + b\\alpha + c < 0"},
+            {"hi": "\\alpha = 0", "en": "\\alpha = 0"}
           ],
-          "answer": {"hi": "0x + 1y = 3", "en": "0x + 1y = 3"}
+          "answer": {"hi": "a\\alpha^2 + b\\alpha + c = 0", "en": "a\\alpha^2 + b\\alpha + c = 0"}
         },
         {
           "q": {
-            "hi": "बिंदु $(1, 2)$ किस समीकरण का हल है?",
-            "en": "Which equation is point $(1, 2)$ a solution for?"
+            "hi": "द्विघात बहुपद $ax^2 + bx + c$ के शून्यक (zeroes) और द्विघात समीकरण $ax^2 + bx + c = 0$ के मूल (roots) आपस में कैसे होते हैं?",
+            "en": "How are the zeroes of the quadratic polynomial $ax^2 + bx + c$ and the roots of the quadratic equation $ax^2 + bx + c = 0$ related to each other?"
           },
           "options": [
-            {"hi": "x + y = 3", "en": "x + y = 3"},
-            {"hi": "x - y = 3", "en": "x - y = 3"},
-            {"hi": "2x + y = 3", "en": "2x + y = 3"},
-            {"hi": "x + 2y = 3", "en": "x + 2y = 3"}
+            {"hi": "वे हमेशा भिन्न होते हैं", "en": "They are always different"},
+            {"hi": "वे एक ही होते हैं (They are the same)", "en": "They are the same"},
+            {"hi": "शून्यक मूलों के दुगुने होते हैं", "en": "Zeroes are twice the roots"},
+            {"hi": "उनके बीच कोई संबंध नहीं होता", "en": "There is no relation between them"}
           ],
-          "answer": {"hi": "x + y = 3", "en": "x + y = 3"}
+          "answer": {"hi": "वे एक ही होते हैं (They are the same)", "en": "They are the same"}
         },
         {
           "q": {
-            "hi": "यदि $x=4$ और $y=0$ समीकरण का हल है, तो वह बिंदु कहाँ स्थित होगा?",
-            "en": "If $x=4$ and $y=0$ is a solution, where will the point be located?"
+            "hi": "यदि $x = \\alpha$ द्विघात समीकरण $ax^2 + bx + c = 0$ का एक मूल है, तो हम यह भी कह सकते हैं कि $x = \\alpha$ इस समीकरण को क्या करता है?",
+            "en": "If $x = \\alpha$ is a root of the quadratic equation $ax^2 + bx + c = 0$, we can also say that $x = \\alpha$ does what to the equation?"
           },
           "options": [
-            {"hi": "y-अक्ष पर", "en": "On the y-axis"},
-            {"hi": "x-अक्ष पर", "en": "On the x-axis"},
-            {"hi": "मूल बिंदु पर", "en": "At the origin"},
-            {"hi": "द्वितीय चतुर्थांश में", "en": "In the second quadrant"}
+            {"hi": "अमान्य करता है", "en": "Invalidates"},
+            {"hi": "संतुष्ट (satisfies) करता है", "en": "Satisfies"},
+            {"hi": "विभाजित करता है", "en": "Divides"},
+            {"hi": "शून्य बना देता है", "en": "Makes it zero"}
           ],
-          "answer": {"hi": "x-अक्ष पर", "en": "On the x-axis"}
+          "answer": {"hi": "संतुष्ट (satisfies) करता है", "en": "Satisfies"}
         },
         {
           "q": {
-            "hi": "समीकरण $2x + y = 7$ के लिए जब $x=0$ हो, तो $y$ का मान क्या होगा?",
-            "en": "For the equation $2x + y = 7$, when $x=0$, what is the value of $y$?"
+            "hi": "किसी भी द्विघात समीकरण के अधिकतम कितने वास्तविक मूल हो सकते हैं?",
+            "en": "What is the maximum number of real roots any quadratic equation can have?"
           },
           "options": [
-            {"hi": "0", "en": "0"},
-            {"hi": "7", "en": "7"},
-            {"hi": "3.5", "en": "3.5"},
-            {"hi": "2", "en": "2"}
-          ],
-          "answer": {"hi": "7", "en": "7"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण $x = 0$ किसको निरूपित करता है?",
-            "en": "What does the equation $x = 0$ represent?"
-          },
-          "options": [
-            {"hi": "x-अक्ष को", "en": "The x-axis"},
-            {"hi": "y-अक्ष को", "en": "The y-axis"},
-            {"hi": "मूल बिंदु को", "en": "The origin"},
-            {"hi": "एक विकर्ण रेखा को", "en": "A diagonal line"}
-          ],
-          "answer": {"hi": "y-अक्ष को", "en": "The y-axis"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण $y = 0$ किसको निरूपित करता है?",
-            "en": "What does the equation $y = 0$ represent?"
-          },
-          "options": [
-            {"hi": "x-अक्ष को", "en": "The x-axis"},
-            {"hi": "y-अक्ष को", "en": "The y-axis"},
-            {"hi": "मूल बिंदु को", "en": "The origin"},
-            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
-          ],
-          "answer": {"hi": "x-अक्ष को", "en": "The x-axis"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण $x = a$ का आलेख किसके समांतर एक सरल रेखा होती है?",
-            "en": "The graph of equation $x = a$ is a straight line parallel to which axis?"
-          },
-          "options": [
-            {"hi": "x-अक्ष के", "en": "The x-axis"},
-            {"hi": "y-अक्ष के", "en": "The y-axis"},
-            {"hi": "दोनों अक्षों के", "en": "Both axes"},
-            {"hi": "किसी के नहीं", "en": "None"}
-          ],
-          "answer": {"hi": "y-अक्ष के", "en": "The y-axis"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण $y = b$ का आलेख किसके समांतर एक सरल रेखा होती है?",
-            "en": "The graph of equation $y = b$ is a straight line parallel to which axis?"
-          },
-          "options": [
-            {"hi": "x-अक्ष के", "en": "The x-axis"},
-            {"hi": "y-अक्ष के", "en": "The y-axis"},
-            {"hi": "मूल बिंदु के", "en": "The origin"},
-            {"hi": "विकर्ण के", "en": "The diagonal"}
-          ],
-          "answer": {"hi": "x-अक्ष के", "en": "The x-axis"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण $y = mx$ का आलेख सदैव कहाँ से होकर जाता है?",
-            "en": "The graph of equation $y = mx$ always passes through where?"
-          },
-          "options": [
-            {"hi": "मूल बिंदु (0, 0) से", "en": "The origin (0, 0)"},
-            {"hi": "x-अक्ष से", "en": "The x-axis"},
-            {"hi": "y-अक्ष से", "en": "The y-axis"},
-            {"hi": "अनंत से", "en": "Infinity"}
-          ],
-          "answer": {"hi": "मूल बिंदु (0, 0) से", "en": "The origin (0, 0)"}
-        },
-        {
-          "q": {
-            "hi": "यदि समीकरण $3x + 4y = 12$ में $y=0$ हो, तो $x$ का मान क्या होगा?",
-            "en": "In the equation $3x + 4y = 12$, if $y=0$, what is the value of $x$?"
-          },
-          "options": [
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
             {"hi": "3", "en": "3"},
-            {"hi": "4", "en": "4"},
-            {"hi": "12", "en": "12"},
-            {"hi": "0", "en": "0"}
+            {"hi": "अनंत", "en": "Infinite"}
           ],
-          "answer": {"hi": "4", "en": "4"}
+          "answer": {"hi": "2", "en": "2"}
+        },
+        {
+          "q": {
+            "hi": "गुणनखंडन विधि (Factorisation method) द्वारा द्विघात समीकरण को हल करने के लिए हम उसके मध्य पद को कितने भागों में विभक्त करते हैं?",
+            "en": "To solve a quadratic equation by factorisation method, into how many parts do we split its middle term?"
+          },
+          "options": [
+            {"hi": "तीन भागों में", "en": "Three parts"},
+            {"hi": "दो भागों में (Two parts)", "en": "Two parts"},
+            {"hi": "चार भागों में", "en": "Four parts"},
+            {"hi": "विभक्त नहीं करते", "en": "Do not split"}
+          ],
+          "answer": {"hi": "दो भागों में (Two parts)", "en": "Two parts"}
+        },
+        {
+          "q": {
+            "hi": "गुणनखंडन विधि का प्रयोग करके द्विघात समीकरण $2x^2 - 5x + 3 = 0$ के मूल ज्ञात कीजिए।",
+            "en": "Find the roots of the quadratic equation $2x^2 - 5x + 3 = 0$ using the factorisation method."
+          },
+          "options": [
+            {"hi": "1 और 3/2", "en": "1 and 3/2"},
+            {"hi": "-1 और -3/2", "en": "-1 and -3/2"},
+            {"hi": "2 और 3", "en": "2 and 3"},
+            {"hi": "1 और 2/3", "en": "1 and 2/3"}
+          ],
+          "answer": {"hi": "1 और 3/2", "en": "1 and 3/2"}
+        },
+        {
+          "q": {
+            "hi": "द्विघात समीकरण $6x^2 - x - 2 = 0$ के मूल गुणनखंडन विधि द्वारा क्या प्राप्त होंगे?",
+            "en": "What will be the roots of the quadratic equation $6x^2 - x - 2 = 0$ by factorisation method?"
+          },
+          "options": [
+            {"hi": "2/3 और -1/2", "en": "2/3 and -1/2"},
+            {"hi": "-2/3 और 1/2", "en": "-2/3 and 1/2"},
+            {"hi": "2 और 3", "en": "2 and 3"},
+            {"hi": "-2/3 और -1/2", "en": "-2/3 and -1/2"}
+          ],
+          "answer": {"hi": "2/3 और -1/2", "en": "2/3 and -1/2"}
+        },
+        {
+          "q": {
+            "hi": "समीकरण $3x^2 - 2\\sqrt{6}x + 2 = 0$ के मूल गुणनखंडन विधि द्वारा ज्ञात कीजिए।",
+            "en": "Find the roots of the equation $3x^2 - 2\\sqrt{6}x + 2 = 0$ by factorisation method."
+          },
+          "options": [
+            {"hi": "\\sqrt{2}/\\sqrt{3} और -\\sqrt{2}/\\sqrt{3}", "en": "\\sqrt{2}/\\sqrt{3} and -\\sqrt{2}/\\sqrt{3}"},
+            {"hi": "\\sqrt{2}/\\sqrt{3} और \\sqrt{2}/\\sqrt{3} (बराबर मूल)", "en": "\\sqrt{2}/\\sqrt{3} and \\sqrt{2}/\\sqrt{3} (equal roots)"},
+            {"hi": "2 और 3", "en": "2 and 3"},
+            {"hi": "\\sqrt{6} और -\\sqrt{6}", "en": "\\sqrt{6} and -\\sqrt{6}"}
+          ],
+          "answer": {"hi": "\\sqrt{2}/\\sqrt{3} और \\sqrt{2}/\\sqrt{3} (बराबर मूल)", "en": "\\sqrt{2}/\\sqrt{3} and \\sqrt{2}/\\sqrt{3} (equal roots)"}
+        },
+        {
+          "q": {
+            "hi": "एक प्रार्थना कक्ष का क्षेत्रफल 300 वर्ग मीटर है। यदि लंबाई, चौड़ाई के दो गुने से 1 मीटर अधिक हो, तो चौड़ाई $x$ के लिए सही द्विघात समीकरण क्या होगा?",
+            "en": "The area of a prayer hall is 300 square meters. If the length is 1 meter more than twice its breadth, what will be the correct quadratic equation for the breadth $x$?"
+          },
+          "options": [
+            {"hi": "2x^2 + x - 300 = 0", "en": "2x^2 + x - 300 = 0"},
+            {"hi": "2x^2 - x - 300 = 0", "en": "2x^2 - x - 300 = 0"},
+            {"hi": "x^2 + 2x - 300 = 0", "en": "x^2 + 2x - 300 = 0"},
+            {"hi": "2x^2 + x + 300 = 0", "en": "2x^2 + x + 300 = 0"}
+          ],
+          "answer": {"hi": "2x^2 + x - 300 = 0", "en": "2x^2 + x - 300 = 0"}
+        },
+        {
+          "q": {
+            "hi": "दो क्रमागत धनात्मक पूर्णांकों का गुणनफल 306 है। यदि छोटा पूर्णांक $x$ हो, तो बड़ी संख्या और स्थिति निरूपित करने वाला समीकरण क्या होगा?",
+            "en": "The product of two consecutive positive integers is 306. If the smaller integer is $x$, what will be the larger number and the equation representing the situation?"
+          },
+          "options": [
+            {"hi": "x+1 और x(x + 1) = 306", "en": "x+1 and x(x + 1) = 306"},
+            {"hi": "x+2 और x(x + 2) = 306", "en": "x+2 and x(x + 2) = 306"},
+            {"hi": "x-1 और x(x - 1) = 306", "en": "x-1 and x(x - 1) = 306"},
+            {"hi": "2x और 2x^2 = 306", "en": "2x and 2x^2 = 306"}
+          ],
+          "answer": {"hi": "x+1 और x(x + 1) = 306", "en": "x+1 and x(x + 1) = 306"}
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "दो चरों वाले रैखिक समीकरण $ax + by + c = 0$ का आलेख कैसी आकृति होती है?",
-            "en": "What shape is the graph of a linear equation in two variables $ax + by + c = 0$?"
+            "hi": "गुणनखंडन विधि के अतिरिक्त, पाठ्यपुस्तक में समीकरण को हल करने के लिए एक अन्य विधि 'पूर्ण वर्ग बनाने की विधि' का उल्लेख है। बीजीय रूप से $(x + b/2a)^2$ का विस्तार करने पर अंत में कौन सा पद संतुलित करना पड़ता है?",
+            "en": "Apart from the factorisation method, the textbook mentions another method 'Method of completing the square' to solve equations. Algebraically expanding $(x + b/2a)^2$, which term needs to be balanced at the end?"
           },
           "options": [
-            {"hi": "वृत्त", "en": "Circle"},
-            {"hi": "परवलय", "en": "Parabola"},
-            {"hi": "एक सरल रेखा", "en": "A straight line"},
-            {"hi": "एक वक्र रेखा", "en": "A curved line"}
+            {"hi": "(b/2a)^2", "en": "(b/2a)^2"},
+            {"hi": "b/a", "en": "b/a"},
+            {"hi": "c/a", "en": "c/a"},
+            {"hi": "b^2 - 4ac", "en": "b^2 - 4ac"}
           ],
-          "answer": {"hi": "एक सरल रेखा", "en": "A straight line"}
+          "answer": {"hi": "(b/2a)^2", "en": "(b/2a)^2"}
         },
         {
           "q": {
-            "hi": "रैखिक समीकरण $2x + 3y = 12$ का एक हल $(3, 2)$ है। क्या यह कथन सत्य है?",
-            "en": "Is it true that $(3, 2)$ is a solution for the linear equation $2x + 3y = 12$?"
+            "hi": "द्विघाती सूत्र (Quadratic formula) के अनुसार, यदि $b^2 - 4ac \\ge 0$ हो, तो समीकरण $ax^2 + bx + c = 0$ के मूल किस सूत्र द्वारा दिए जाते हैं?",
+            "en": "According to the quadratic formula, if $b^2 - 4ac \\ge 0$, the roots of the equation $ax^2 + bx + c = 0$ are given by which formula?"
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"},
-            {"hi": "केवल x=3 के लिए", "en": "Only for x=3"}
+            {"hi": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}", "en": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}"},
+            {"hi": "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}", "en": "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}"},
+            {"hi": "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{2a}", "en": "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{2a}"},
+            {"hi": "x = \\frac{-b \\pm (b^2 - 4ac)}{2a}", "en": "x = \\frac{-b \\pm (b^2 - 4ac)}{2a"}
           ],
-          "answer": {"hi": "हाँ", "en": "Yes"}
+          "answer": {"hi": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}", "en": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a"}
         },
         {
           "q": {
-            "hi": "समीकरण $\\pi x + y = 9$ में जब $x=0$ हो, तो $y$ का मान क्या होगा?",
-            "en": "In the equation $\\pi x + y = 9$, when $x=0$, what is the value of $y$?"
+            "hi": "द्विघाती सूत्र में वर्गमूल के अंदर स्थित व्यंजक $b^2 - 4ac$ को द्विघात समीकरण का क्या कहा जाता है?",
+            "en": "What is the expression $b^2 - 4ac$ inside the square root in the quadratic formula called for a quadratic equation?"
           },
           "options": [
-            {"hi": "0", "en": "0"},
-            {"hi": "9", "en": "9"},
-            {"hi": "$\\pi$", "en": "$\\pi$"},
-            {"hi": "$9 - \\pi$", "en": "$9 - \\pi$"}
+            {"hi": "गुणक", "en": "Factor"},
+            {"hi": "विविक्तकर (Discriminant)", "en": "Discriminant"},
+            {"hi": "घातांक", "en": "Exponent"},
+            {"hi": "मूलानुपाती", "en": "Empirical"}
           ],
-          "answer": {"hi": "9", "en": "9"}
+          "answer": {"hi": "विविक्तकर (Discriminant)", "en": "Discriminant"}
         },
         {
           "q": {
-            "hi": "दो चरों वाले रैखिक समीकरण में प्रत्येक चर की अधिकतम घात कितनी होती है?",
-            "en": "What is the maximum degree of each variable in a linear equation in two variables?"
+            "hi": "विविक्तकर (Discriminant) को सामान्यतः गणित में किस अक्षर द्वारा निरूपित किया जाता है?",
+            "en": "By which letter is the discriminant generally represented in mathematics?"
           },
           "options": [
-            {"hi": "0", "en": "0"},
+            {"hi": "D", "en": "D"},
+            {"hi": "R", "en": "R"},
+            {"hi": "K", "en": "K"},
+            {"hi": "X", "en": "X"}
+          ],
+          "answer": {"hi": "D", "en": "D"}
+        },
+        {
+          "q": {
+            "hi": "यदि किसी द्विघात समीकरण का विविक्तकर $b^2 - 4ac > 0$ हो, तो उस समीकरण के मूलों की प्रकृति कैसी होगी?",
+            "en": "If the discriminant $b^2 - 4ac > 0$ of a quadratic equation, what will be the nature of the roots of that equation?"
+          },
+          "options": [
+            {"hi": "दो बराबर वास्तविक मूल", "en": "Two equal real roots"},
+            {"hi": "दो भिन्न वास्तविक मूल (Two distinct real roots)", "en": "Two distinct real roots"},
+            {"hi": "कोई वास्तविक मूल नहीं", "en": "No real roots"},
+            {"hi": "काल्पनिक और बराबर मूल", "en": "Imaginary and equal roots"}
+          ],
+          "answer": {"hi": "दो भिन्न वास्तविक मूल (Two distinct real roots)", "en": "Two distinct real roots"}
+        },
+        {
+          "q": {
+            "hi": "यदि द्विघात समीकरण का विविक्तकर $b^2 - 4ac = 0$ हो, तो समीकरण के मूल कैसे होंगे?",
+            "en": "If the discriminant $b^2 - 4ac = 0$ of a quadratic equation, what will the roots of the equation be?"
+          },
+          "options": [
+            {"hi": "दो भिन्न वास्तविक मूल", "en": "Two distinct real roots"},
+            {"hi": "दो बराबर वास्तविक मूल (Two equal real roots)", "en": "Two equal real roots"},
+            {"hi": "कोई वास्तविक मूल नहीं", "en": "No real roots"},
+            {"hi": "अनंत मूल", "en": "Infinite roots"}
+          ],
+          "answer": {"hi": "दो बराबर वास्तविक मूल (Two equal real roots)", "en": "Two equal real roots"}
+        },
+        {
+          "q": {
+            "hi": "यदि विविक्तकर की स्थिति $b^2 - 4ac < 0$ प्राप्त हो, तो उस द्विघात समीकरण के मूलों के बारे में क्या निष्कर्ष निकलता है?",
+            "en": "If the condition of the discriminant is $b^2 - 4ac < 0$, what conclusion is drawn about the roots of that quadratic equation?"
+          },
+          "options": [
+            {"hi": "मूल वास्तविक और भिन्न होंगे", "en": "Roots will be real and distinct"},
+            {"hi": "मूल वास्तविक और बराबर होंगे", "en": "Roots will be real and equal"},
+            {"hi": "कोई वास्तविक मूल नहीं होता (No real roots)", "en": "No real roots"},
+            {"hi": "मूल शून्य होंगे", "en": "Roots will be zero"}
+          ],
+          "answer": {"hi": "कोई वास्तविक मूल नहीं होता (No real roots)", "en": "No real roots"}
+        },
+        {
+          "q": {
+            "hi": "यदि $b^2 - 4ac = 0$ हो, तो दोनों बराबर मूलों में से प्रत्येक का मान किसके बराबर होता है?",
+            "en": "If $b^2 - 4ac = 0$, what is the value of each of the two equal roots equal to?"
+          },
+          "options": [
+            {"hi": "b/2a", "en": "b/2a"},
+            {"hi": "-b/2a", "en": "-b/2a"},
+            {"hi": "-b/a", "en": "-b/a"},
+            {"hi": "c/a", "en": "c/a"}
+          ],
+          "answer": {"hi": "-b/2a", "en": "-b/2a"}
+        },
+        {
+          "q": {
+            "hi": "द्विघाती सूत्र का प्रयोग करके समीकरण $2x^2 - 7x + 3 = 0$ का विविक्तकर (D) ज्ञात कीजिए।",
+            "en": "Find the discriminant (D) of the equation $2x^2 - 7x + 3 = 0$ using the quadratic formula."
+          },
+          "options": [
+            {"hi": "25", "en": "25"},
+            {"hi": "49", "en": "49"},
             {"hi": "1", "en": "1"},
-            {"hi": "2", "en": "2"},
-            {"hi": "अनंत", "en": "Infinite"}
+            {"hi": "-25", "en": "-25"}
           ],
-          "answer": {"hi": "1", "en": "1"}
+          "answer": {"hi": "25", "en": "25"}
         },
         {
           "q": {
-            "hi": "समीकरण $2x + 5y = 0$ के कितने हल संभव हैं?",
-            "en": "How many solutions are possible for the equation $2x + 5y = 0$?"
+            "hi": "द्विघात समीकरण $2x^2 - 7x + 3 = 0$ के मूल द्विघाती सूत्र का प्रयोग करके क्या प्राप्त होंगे?",
+            "en": "What will be the roots of the quadratic equation $2x^2 - 7x + 3 = 0$ using the quadratic formula?"
           },
           "options": [
-            {"hi": "केवल एक", "en": "Only one"},
-            {"hi": "केवल दो", "en": "Only two"},
-            {"hi": "अपरिमित रूप से अनेक", "en": "Infinitely many"},
-            {"hi": "कोई नहीं", "en": "None"}
+            {"hi": "3 और 1/2", "en": "3 and 1/2"},
+            {"hi": "-3 और -1/2", "en": "-3 and -1/2"},
+            {"hi": "3 और 2", "en": "3 and 2"},
+            {"hi": "1/3 और 2", "en": "1/3 and 2"}
           ],
-          "answer": {"hi": "अपरिमित रूप से अनेक", "en": "Infinitely many"}
-        },
-        {
-          "q": {
-            "hi": "बिंदु $(0, 4)$ किस समीकरण का हल है?",
-            "en": "Which equation is point $(0, 4)$ a solution for?"
-          },
-          "options": [
-            {"hi": "x + y = 0", "en": "x + y = 0"},
-            {"hi": "y = x + 4", "en": "y = x + 4"},
-            {"hi": "x = y + 4", "en": "x = y + 4"},
-            {"hi": "2x + y = 0", "en": "2x + y = 0"}
-          ],
-          "answer": {"hi": "y = x + 4", "en": "y = x + 4"}
-        },
-        {
-          "q": {
-            "hi": "यदि $x=1, y=2$ समीकरण $3x + 2y = k$ का हल है, तो $k$ का मान क्या होगा?",
-            "en": "If $x=1, y=2$ is a solution to $3x + 2y = k$, what is $k$?"
-          },
-          "options": [
-            {"hi": "5", "en": "5"},
-            {"hi": "7", "en": "7"},
-            {"hi": "1", "en": "1"},
-            {"hi": "6", "en": "6"}
-          ],
-          "answer": {"hi": "7", "en": "7"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण $x = 2$ का आलेख y-अक्ष के समांतर कितनी दूरी पर होगा?",
-            "en": "At what distance will the graph of $x = 2$ be parallel to the y-axis?"
-          },
-          "options": [
-            {"hi": "1 इकाई दाईं ओर", "en": "1 unit to the right"},
-            {"hi": "2 इकाई दाईं ओर", "en": "2 units to the right"},
-            {"hi": "2 इकाई बाईं ओर", "en": "2 units to the left"},
-            {"hi": "0 इकाई", "en": "0 units"}
-          ],
-          "answer": {"hi": "2 इकाई दाईं ओर", "en": "2 units to the right"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण $x + y = 0$ का आलेख कहाँ से होकर गुजरेगा?",
-            "en": "Where will the graph of $x + y = 0$ pass through?"
-          },
-          "options": [
-            {"hi": "मूल बिंदु से", "en": "Through the origin"},
-            {"hi": "केवल x-अक्ष से", "en": "Only through the x-axis"},
-            {"hi": "केवल y-अक्ष से", "en": "Only through the y-axis"},
-            {"hi": "(1, 1) से", "en": "Through (1, 1)"}
-          ],
-          "answer": {"hi": "मूल बिंदु से", "en": "Through the origin"}
-        },
-        {
-          "q": {
-            "hi": "समीकरण $5x - 2y = 10$ में जब $x=0$ हो, तो $y$ क्या होगा?",
-            "en": "In $5x - 2y = 10$, when $x=0$, what is $y$?"
-          },
-          "options": [
-            {"hi": "5", "en": "5"},
-            {"hi": "-5", "en": "-5"},
-            {"hi": "10", "en": "10"},
-            {"hi": "2", "en": "2"}
-          ],
-          "answer": {"hi": "-5", "en": "-5"}
+          "answer": {"hi": "3 और 1/2", "en": "3 and 1/2"}
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "क्रिकेट मैच में दो बल्लेबाजों द्वारा बनाए गए रनों का योग 176 है। इसका रैखिक समीकरण क्या होगा?",
-            "en": "The sum of runs scored by two batsmen in a cricket match is 176. What will be its linear equation?"
+            "hi": "द्विघाती सूत्र का प्रयोग करके समीकरण $x^2 + 4x + 5 = 0$ के मूलों की प्रकृति बताइए।",
+            "en": "State the nature of the roots of the equation $x^2 + 4x + 5 = 0$ using the quadratic formula."
           },
           "options": [
-            {"hi": "x + y = 176", "en": "x + y = 176"},
-            {"hi": "x - y = 176", "en": "x - y = 176"},
-            {"hi": "xy = 176", "en": "xy = 176"},
-            {"hi": "2x + 2y = 176", "en": "2x + 2y = 176"}
+            {"hi": "वास्तविक और भिन्न", "en": "Real and distinct"},
+            {"hi": "वास्तविक और बराबर", "en": "Real and equal"},
+            {"hi": "कोई वास्तविक मूल नहीं (No real roots)", "en": "No real roots"},
+            {"hi": "मूल शून्य हैं", "en": "Roots are zero"}
           ],
-          "answer": {"hi": "x + y = 176", "en": "x + y = 176"}
+          "answer": {"hi": "कोई वास्तविक मूल नहीं (No real roots)", "en": "No real roots"}
         },
         {
           "q": {
-            "hi": "समीकरण $x = -5$ को दो चरों में कैसे व्यक्त करेंगे?",
-            "en": "How to express equation $x = -5$ in two variables?"
+            "hi": "एक ऐसे आयताकार पार्क को बनाना संभव है जिसका परिमाप 80 मीटर तथा क्षेत्रफल 400 वर्ग मीटर हो? यदि हाँ, तो उसकी लंबाई और चौड़ाई क्या होगी?",
+            "en": "Is it possible to design a rectangular park of perimeter 80 meters and area 400 square meters? If yes, what will be its length and breadth?"
           },
           "options": [
-            {"hi": "1x + 0y + 5 = 0", "en": "1x + 0y + 5 = 0"},
-            {"hi": "0x + 1y + 5 = 0", "en": "0x + 1y + 5 = 0"},
-            {"hi": "x + y = -5", "en": "x + y = -5"},
-            {"hi": "1x + 0y - 5 = 0", "en": "1x + 0y - 5 = 0"}
+            {"hi": "हाँ, लंबाई 20 m और चौड़ाई 20 m (एक वर्ग)", "en": "Yes, length 20 m and breadth 20 m (a square)"},
+            {"hi": "हाँ, लंबाई 30 m और चौड़ाई 10 m", "en": "Yes, length 30 m and breadth 10 m"},
+            {"hi": "नहीं, ऐसा पार्क संभव नहीं है", "en": "No, such a park is not possible"},
+            {"hi": "हाँ, लंबाई 25 m और चौड़ाई 15 m", "en": "Yes, length 25 m and breadth 15 m"}
           ],
-          "answer": {"hi": "1x + 0y + 5 = 0", "en": "1x + 0y + 5 = 0"}
+          "answer": {"hi": "हाँ, लंबाई 20 m और चौड़ाई 20 m (एक वर्ग)", "en": "Yes, length 20 m and breadth 20 m (a square)"}
         },
         {
           "q": {
-            "hi": "रैखिक समीकरण $ax + by + c = 0$ के आलेख पर स्थित प्रत्येक बिंदु समीकरण का क्या होता है?",
-            "en": "Each point lying on the graph of linear equation $ax + by + c = 0$ is what to the equation?"
+            "hi": "समीकरण $2x^2 - 4x + 3 = 0$ का विविक्तकर क्या होगा?",
+            "en": "What will be the discriminant of the equation $2x^2 - 4x + 3 = 0$?"
           },
           "options": [
-            {"hi": "एक गुणांक", "en": "A coefficient"},
-            {"hi": "एक हल", "en": "A solution"},
-            {"hi": "एक चर", "en": "A variable"},
-            {"hi": "शून्य", "en": "Zero"}
+            {"hi": "8", "en": "8"},
+            {"hi": "-8", "en": "-8"},
+            {"hi": "16", "en": "16"},
+            {"hi": "-16", "en": "-16"}
           ],
-          "answer": {"hi": "एक हल", "en": "A solution"}
+          "answer": {"hi": "-8", "en": "-8"}
         },
         {
           "q": {
-            "hi": "समीकरण $2x + 3y = 6$ का आलेख x-अक्ष को किस बिंदु पर काटता है?",
-            "en": "At what point does the graph of $2x + 3y = 6$ intersect the x-axis?"
+            "hi": "समीकरण $2x^2 - 4x + 3 = 0$ के मूलों की प्रकृति विविक्तकर के आधार पर कैसी होगी?",
+            "en": "Based on the discriminant, what will be the nature of the roots of the equation $2x^2 - 4x + 3 = 0$?"
           },
           "options": [
-            {"hi": "(0, 2)", "en": "(0, 2)"},
-            {"hi": "(3, 0)", "en": "(3, 0)"},
-            {"hi": "(6, 0)", "en": "(6, 0)"},
-            {"hi": "(0, 3)", "en": "(0, 3)"}
+            {"hi": "वास्तविक और भिन्न", "en": "Real and distinct"},
+            {"hi": "वास्तविक और बराबर", "en": "Real and equal"},
+            {"hi": "कोई वास्तविक मूल नहीं (No real roots)", "en": "No real roots"},
+            {"hi": "काल्पनिक और भिन्न", "en": "Imaginary and distinct"}
           ],
-          "answer": {"hi": "(3, 0)", "en": "(3, 0)"}
+          "answer": {"hi": "कोई वास्तविक मूल नहीं (No real roots)", "en": "No real roots"}
         },
         {
           "q": {
-            "hi": "समीकरण $2x + 3y = 6$ का आलेख y-अक्ष को किस बिंदु पर काटता है?",
-            "en": "At what point does the graph of $2x + 3y = 6$ intersect the y-axis?"
+            "hi": "द्विघात समीकरण $2x^2 - 3x + 5 = 0$ के मूलों की प्रकृति ज्ञात कीजिए।",
+            "en": "Find the nature of the roots of the quadratic equation $2x^2 - 3x + 5 = 0$."
           },
           "options": [
-            {"hi": "(0, 2)", "en": "(0, 2)"},
-            {"hi": "(3, 0)", "en": "(3, 0)"},
-            {"hi": "(2, 0)", "en": "(2, 0)"},
-            {"hi": "(0, 6)", "en": "(0, 6)"}
+            {"hi": "दो भिन्न वास्तविक मूल", "en": "Two distinct real roots"},
+            {"hi": "दो बराबर वास्तविक मूल", "en": "Two equal real roots"},
+            {"hi": "कोई वास्तविक मूल नहीं होता (No real roots)", "en": "No real roots"},
+            {"hi": "मूल ऋणात्मक हैं", "en": "Roots are negative"}
           ],
-          "answer": {"hi": "(0, 2)", "en": "(0, 2)"}
+          "answer": {"hi": "कोई वास्तविक मूल नहीं होता (No real roots)", "en": "No real roots"}
         },
         {
           "q": {
-            "hi": "यदि समीकरण $x - 2y = 4$ है, तो कौन सा बिंदु इसका हल नहीं है?",
-            "en": "If the equation is $x - 2y = 4$, which point is NOT a solution?"
+            "hi": "द्विघात समीकरण $3x^2 - 4\\sqrt{3}x + 4 = 0$ के मूलों की प्रकृति क्या होगी?",
+            "en": "What will be the nature of the roots of the quadratic equation $3x^2 - 4\\sqrt{3}x + 4 = 0$?"
           },
           "options": [
-            {"hi": "(4, 0)", "en": "(4, 0)"},
-            {"hi": "(2, 0)", "en": "(2, 0)"},
-            {"hi": "(0, -2)", "en": "(0, -2)"},
-            {"hi": "(6, 1)", "en": "(6, 1)"}
+            {"hi": "दो भिन्न वास्तविक मूल", "en": "Two distinct real roots"},
+            {"hi": "दो बराबर वास्तविक मूल (Two equal real roots)", "en": "Two equal real roots"},
+            {"hi": "कोई वास्तविक मूल नहीं", "en": "No real roots"},
+            {"hi": "शून्य मूल", "en": "Zero roots"}
           ],
-          "answer": {"hi": "(2, 0)", "en": "(2, 0)"}
+          "answer": {"hi": "दो बराबर वास्तविक मूल (Two equal real roots)", "en": "Two equal real roots"}
         },
         {
           "q": {
-            "hi": "किसी रैखिक समीकरण का आलेख खींचने के लिए कम से कम कितने हलों की आवश्यकता होती है?",
-            "en": "At least how many solutions are required to draw the graph of a linear equation?"
+            "hi": "द्विघात समीकरण $3x^2 - 4\\sqrt{3}x + 4 = 0$ के वास्तविक मूल क्या प्राप्त होंगे?",
+            "en": "What will be the real roots of the quadratic equation $3x^2 - 4\\sqrt{3}x + 4 = 0$?"
           },
           "options": [
-            {"hi": "एक", "en": "One"},
-            {"hi": "दो", "en": "Two"},
-            {"hi": "तीन", "en": "Three"},
-            {"hi": "चार", "en": "Four"}
+            {"hi": "2/\\sqrt{3} और 2/\\sqrt{3}", "en": "2/\\sqrt{3} and 2/\\sqrt{3}"},
+            {"hi": "-2/\\sqrt{3} Han -2/\\sqrt{3}", "en": "-2/\\sqrt{3} and -2/\\sqrt{3}"},
+            {"hi": "\\sqrt{3}/2 Han \\sqrt{3}/2", "en": "\\sqrt{3}/2 and \\sqrt{3}/2"},
+            {"hi": "2 Han 4", "en": "2 and 4"}
           ],
-          "answer": {"hi": "दो", "en": "Two"}
+          "answer": {"hi": "2/\\sqrt{3} और 2/\\sqrt{3}", "en": "2/\\sqrt{3} and 2/\\sqrt{3}"}
         },
         {
           "q": {
-            "hi": "समीकरण $x = y$ का आलेख किन चतुर्थांशों से होकर गुजरता है?",
-            "en": "Through which quadrants does the graph of $x = y$ pass?"
+            "hi": "द्विघात समीकरण $2x^2 - 6x + 3 = 0$ के विविक्तकर का मान क्या होगा?",
+            "en": "What will be the value of the discriminant of the quadratic equation $2x^2 - 6x + 3 = 0$?"
           },
           "options": [
-            {"hi": "I और II", "en": "I and II"},
-            {"hi": "I और III", "en": "I and III"},
-            {"hi": "II और IV", "en": "II and IV"},
-            {"hi": "III और IV", "en": "III and IV"}
+            {"hi": "12", "en": "12"},
+            {"hi": "-12", "en": "-12"},
+            {"hi": "36", "en": "36"},
+            {"hi": "0", "en": "0"}
           ],
-          "answer": {"hi": "I और III", "en": "I and III"}
+          "answer": {"hi": "12", "en": "12"}
         },
         {
           "q": {
-            "hi": "समीकरण $x + y = 2$ के आलेख पर कौन सा बिंदु स्थित होगा?",
-            "en": "Which point will lie on the graph of $x + y = 2$?"
+            "hi": "द्विघात समीकरण $2x^2 - 6x + 3 = 0$ के मूलों की प्रकृति कैसी होगी?",
+            "en": "What will be the nature of the roots of the quadratic equation $2x^2 - 6x + 3 = 0$?"
           },
           "options": [
-            {"hi": "(1, 1)", "en": "(1, 1)"},
-            {"hi": "(2, 2)", "en": "(2, 2)"},
-            {"hi": "(0, 0)", "en": "(0, 0)"},
-            {"hi": "(1, 2)", "en": "(1, 2)"}
+            {"hi": "दो बराबर वास्तविक मूल", "en": "Two equal real roots"},
+            {"hi": "दो भिन्न वास्तविक मूल (Two distinct real roots)", "en": "Two distinct real roots"},
+            {"hi": "कोई वास्तविक मूल नहीं", "en": "No real roots"},
+            {"hi": "काल्पनिक मूल", "en": "Imaginary roots"}
           ],
-          "answer": {"hi": "(1, 1)", "en": "(1, 1)"}
+          "answer": {"hi": "दो भिन्न वास्तविक मूल (Two distinct real roots)", "en": "Two distinct real roots"}
         },
         {
           "q": {
-            "hi": "समीकरण $x - 2 = 0$ का आलेख कैसी रेखा है?",
-            "en": "What kind of line is the graph of $x - 2 = 0$?"
+            "hi": "द्विघात समीकरण $2x^2 - 6x + 3 = 0$ के मूल द्विघाती सूत्र द्वारा क्या प्राप्त होंगे?",
+            "en": "What will be the roots of the quadratic equation $2x^2 - 6x + 3 = 0$ by quadratic formula?"
           },
           "options": [
-            {"hi": "x-अक्ष के समांतर", "en": "Parallel to the x-axis"},
-            {"hi": "y-अक्ष के समांतर", "en": "Parallel to the y-axis"},
-            {"hi": "मूल बिंदु से गुजरती", "en": "Passing through the origin"},
-            {"hi": "अक्षों पर लंब", "en": "Perpendicular to axes"}
+            {"hi": "\\frac{3 \\pm \\sqrt{3}}{2}", "en": "\\frac{3 \\pm \\sqrt{3}}{2}"},
+            {"hi": "\\frac{-3 \\pm \\sqrt{3}}{2}", "en": "\\frac{-3 \\pm \\sqrt{3}}{2}"},
+            {"hi": "3 \\pm \\sqrt{3}", "en": "3 \\pm \\sqrt{3}"},
+            {"hi": "\\frac{3 \\pm \\sqrt{6}}{2}", "en": "\\frac{3 \\pm \\sqrt{6}}{2}"}
           ],
-          "answer": {"hi": "y-अक्ष के समांतर", "en": "Parallel to the y-axis"}
+          "answer": {"hi": "\\frac{3 \\pm \\sqrt{3}}{2}", "en": "\\frac{3 \\pm \\sqrt{3}}{2}"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "समीकरण $y = 3x$ के लिए जब $x=1$ हो, तो $y$ क्या होगा?",
-            "en": "In $y = 3x$, when $x=1$, what is $y$?"
+            "hi": "समीकरण $2x^2 + kx + 3 = 0$ में $k$ का ऐसा मान ज्ञात कीजिए कि उसके दो बराबर मूल हों।",
+            "en": "Find such a value of $k$ in the equation $2x^2 + kx + 3 = 0$ so that it has two equal roots."
           },
           "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "3", "en": "3"},
-            {"hi": "0", "en": "0"},
-            {"hi": "-3", "en": "-3"}
+            {"hi": "\\pm \\sqrt{24} या \\pm 2\\sqrt{6}", "en": "\\pm \\sqrt{24} or \\pm 2\\sqrt{6}"},
+            {"hi": "\\pm 6", "en": "\\pm 6"},
+            {"hi": "\\pm 24", "en": "\\pm 24"},
+            {"hi": "\\pm \\sqrt{6}", "en": "\\pm \\sqrt{6}"}
           ],
-          "answer": {"hi": "3", "en": "3"}
+          "answer": {"hi": "\\pm \\sqrt{24} या \\pm 2\\sqrt{6}", "en": "\\pm \\sqrt{24} or \\pm 2\\sqrt{6}"}
         },
         {
           "q": {
-            "hi": "दो चरों वाले रैखिक समीकरण को और क्या कहा जा सकता है?",
-            "en": "What else can a linear equation in two variables be called?"
+            "hi": "समीकरण $kx(x - 2) + 6 = 0$ में $k$ का वह मान ज्ञात कीजिए जिसके लिए समीकरण के मूल वास्तविक और बराबर हों।",
+            "en": "Find the value of $k$ in the equation $kx(x - 2) + 6 = 0$ for which the roots of the equation are real and equal."
           },
           "options": [
-            {"hi": "द्विघात समीकरण", "en": "Quadratic equation"},
-            {"hi": "रैखिक समीकरण", "en": "Linear equation"},
-            {"hi": "घन समीकरण", "en": "Cubic equation"},
-            {"hi": "अचर समीकरण", "en": "Constant equation"}
+            {"hi": "k = 6", "en": "k = 6"},
+            {"hi": "k = 0", "en": "k = 0"},
+            {"hi": "k = 0 या k = 6 (परन्तु k \\ne 0, अतः k = 6)", "en": "k = 0 or k = 6 (but k \\ne 0, hence k = 6)"},
+            {"hi": "k = -6", "en": "k = -6"}
           ],
-          "answer": {"hi": "रैखिक समीकरण", "en": "Linear equation"}
+          "answer": {"hi": "k = 0 या k = 6 (परन्तु k \\ne 0, अतः k = 6)", "en": "k = 0 or k = 6 (but k \\ne 0, hence k = 6)"}
         },
         {
           "q": {
-            "hi": "समीकरण $2x + y = 6$ के चार हलों में से एक $(2, 2)$ है।",
-            "en": "One of the four solutions for $2x + y = 6$ is $(2, 2)$."
+            "hi": "क्या एक ऐसी आम की बगिया बनाना संभव है जिसकी लंबाई, चौड़ाई से दुगुनी हो और उसका क्षेत्रफल 800 वर्ग मीटर हो? यदि हाँ, तो उसकी चौड़ाई क्या होगी?",
+            "en": "Is it possible to design a rectangular mango grove whose length is twice its breadth and the area is 800 square meters? If yes, what will be its breadth?"
           },
           "options": [
-            {"hi": "सत्य", "en": "True"},
-            {"hi": "असत्य", "en": "False"},
-            {"hi": "केवल x=2 के लिए", "en": "Only for x=2"},
-            {"hi": "कहा नहीं जा सकता", "en": "Cannot be said"}
+            {"hi": "हाँ, चौड़ाई 20 m", "en": "Yes, breadth 20 m"},
+            {"hi": "हाँ, चौड़ाई 40 m", "en": "Yes, breadth 40 m"},
+            {"hi": "नहीं, ऐसा संभव नहीं है", "en": "No, it is not possible"},
+            {"hi": "हाँ, चौड़ाई 10 m", "en": "Yes, breadth 10 m"}
           ],
-          "answer": {"hi": "सत्य", "en": "True"}
+          "answer": {"hi": "हाँ, चौड़ाई 20 m", "en": "Yes, breadth 20 m"}
         },
         {
           "q": {
-            "hi": "बिंदु $(2, 14)$ से होकर जाने वाली एक रेखा का समीकरण क्या हो सकता है?",
-            "en": "What could be the equation of a line passing through point $(2, 14)$?"
+            "hi": "यदि बगिया की लंबाई चौड़ाई से दुगुनी है और क्षेत्रफल 800 वर्ग मीटर है, तो बगिया की लंबाई क्या होगी?",
+            "en": "If the length of the grove is twice its breadth and the area is 800 square meters, what will be the length of the grove?"
           },
           "options": [
-            {"hi": "x + y = 16", "en": "x + y = 16"},
-            {"hi": "7x - y = 0", "en": "7x - y = 0"},
-            {"hi": "उपरोक्त दोनों", "en": "Both of the above"},
-            {"hi": "x - y = 12", "en": "x - y = 12"}
+            {"hi": "20 m", "en": "20 m"},
+            {"hi": "40 m", "en": "40 m"},
+            {"hi": "80 m", "en": "80 m"},
+            {"hi": "30 m", "en": "30 m"}
           ],
-          "answer": {"hi": "उपरोक्त दोनों", "en": "Both of the above"}
+          "answer": {"hi": "40 m", "en": "40 m"}
         },
         {
           "q": {
-            "hi": "समीकरण $y = 3x + 5$ का आलेख y-अक्ष को कहाँ काटेगा?",
-            "en": "Where will the graph of $y = 3x + 5$ intersect the y-axis?"
+            "hi": "क्या निम्न स्थिति संभव है? 'दो मित्रों की आयु का योग 20 वर्ष है। चार वर्ष पूर्व उनकी आयु का गुणनफल 48 था।' विविक्तकर की सहायता से जाँच कीजिए।",
+            "en": "Is the following situation possible? 'The sum of the ages of two friends is 20 years. Four years ago, the product of their ages was 48.' Check using the discriminant."
           },
           "options": [
-            {"hi": "(0, 0)", "en": "(0, 0)"},
-            {"hi": "(0, 5)", "en": "(0, 5)"},
-            {"hi": "(5, 0)", "en": "(5, 0)"},
-            {"hi": "(3, 0)", "en": "(3, 0)"}
+            {"hi": "हाँ, यह स्थिति संभव है", "en": "Yes, this situation is possible"},
+            {"hi": "नहीं, क्योंकि विविक्तकर ऋणात्मक (-11) आता है, अतः स्थिति संभव नहीं है", "en": "No, because the discriminant is negative (-11), hence the situation is not possible"},
+            {"hi": "हाँ, मित्रों की आयु 10 और 10 वर्ष है", "en": "Yes, the friends' ages are 10 and 10 years"},
+            {"hi": "विविक्तकर शून्य आता है", "en": "The discriminant is zero"}
           ],
-          "answer": {"hi": "(0, 5)", "en": "(0, 5)"}
+          "answer": {"hi": "नहीं, क्योंकि विविक्तकर ऋणात्मक (-11) आता है, अतः स्थिति संभव नहीं है", "en": "No, because the discriminant is negative (-11), hence the situation is not possible"}
         },
         {
           "q": {
-            "hi": "समीकरण $2y + 9 = 0$ का एक चर में हल क्या है?",
-            "en": "What is the solution for $2y + 9 = 0$ in one variable?"
+            "hi": "एक रेलगाड़ी एक समान चाल से 360 km की दूरी तय करती है। यदि यह चाल 5 km/h अधिक होती, तो उसे उसी यात्रा में 1 घंटा कम लगता। रेलगाड़ी की मूल चाल $x$ ज्ञात करने के लिए सही समीकरण क्या होगा?",
+            "en": "A train travels 360 km at a uniform speed. If the speed had been 5 km/h more, it would have taken 1 hour less for the same journey. What will be the correct equation to find the original speed $x$ of the train?"
           },
           "options": [
-            {"hi": "y = 4.5", "en": "y = 4.5"},
-            {"hi": "y = -4.5", "en": "y = -4.5"},
-            {"hi": "y = 9", "en": "y = 9"},
-            {"hi": "y = -9", "en": "y = -9"}
+            {"hi": "x^2 + 5x - 1800 = 0", "en": "x^2 + 5x - 1800 = 0"},
+            {"hi": "x^2 - 5x - 1800 = 0", "en": "x^2 - 5x - 1800 = 0"},
+            {"hi": "x^2 + 5x + 1800 = 0", "en": "x^2 + 5x + 1800 = 0"},
+            {"hi": "5x^2 + x - 360 = 0", "en": "5x^2 + x - 360 = 0"}
           ],
-          "answer": {"hi": "y = -4.5", "en": "y = -4.5"}
+          "answer": {"hi": "x^2 + 5x - 1800 = 0", "en": "x^2 + 5x - 1800 = 0"}
         },
         {
           "q": {
-            "hi": "समीकरण $x = y$ के आलेख पर स्थित किसी बिंदु के रूप क्या होंगे?",
-            "en": "What will be the form of any point lying on the graph of $x = y$?"
+            "hi": "समीकरण $x^2 + 5x - 1800 = 0$ को हल करने पर रेलगाड़ी की मूल सामान्य चाल क्या प्राप्त होगी?",
+            "en": "On solving the equation $x^2 + 5x - 1800 = 0$, what will be the original uniform speed of the train?"
           },
           "options": [
-            {"hi": "(a, a)", "en": "(a, a)"},
-            {"hi": "(a, -a)", "en": "(a, -a)"},
-            {"hi": "(0, a)", "en": "(0, a)"},
-            {"hi": "(a, 0)", "en": "(a, 0)"}
+            {"hi": "40 km/h", "en": "40 km/h"},
+            {"hi": "45 km/h", "en": "45 km/h"},
+            {"hi": "50 km/h", "en": "50 km/h"},
+            {"hi": "35 km/h", "en": "35 km/h"}
           ],
-          "answer": {"hi": "(a, a)", "en": "(a, a)"}
+          "answer": {"hi": "40 km/h", "en": "40 km/h"}
         },
         {
           "q": {
-            "hi": "समीकरण $x + y = 0$ के आलेख पर स्थित किसी बिंदु के रूप क्या होंगे?",
-            "en": "What will be the form of any point lying on the graph of $x + y = 0$?"
+            "hi": "दो पानी के नल एक-साथ एक हौज को $9\\frac{3}{8}$ घंटों में भर सकते हैं। बड़े व्यास वाला नल हौज को भरने में कम व्यास वाले नल से 10 घंटे कम समय लेता है। यदि छोटा नल $x$ घंटे लेता है, तो बीजीय संबंध क्या होगा?",
+            "en": "Two water taps together can fill a tank in $9\\frac{3}{8}$ hours. The tap of larger diameter takes 10 hours less than the smaller one to fill the tank separately. If the smaller tap takes $x$ hours, what will be the algebraic relation?"
           },
           "options": [
-            {"hi": "(a, a)", "en": "(a, a)"},
-            {"hi": "(a, -a)", "en": "(a, -a)"},
-            {"hi": "(-a, -a)", "en": "(-a, -a)"},
-            {"hi": "(0, 0) के अलावा कुछ नहीं", "en": "Nothing except (0, 0)"}
+            {"hi": "\\frac{1}{x} + \\frac{1}{x-10} = \\frac{8}{75}", "en": "\\frac{1}{x} + \\frac{1}{x-10} = \\frac{8}{75}"},
+            {"hi": "\\frac{1}{x} + \\frac{1}{x+10} = \\frac{8}{75}", "en": "\\frac{1}{x} + \\frac{1}{x+10} = \\frac{8}{75}"},
+            {"hi": "\\frac{1}{x} + \\frac{1}{x-10} = \\frac{75}{8}", "en": "\\frac{1}{x} + \\frac{1}{x-10} = \\frac{75}{8}"},
+            {"hi": "x + (x - 10) = \\frac{75}{8}", "en": "x + (x - 10) = \\frac{75}{8}"}
           ],
-          "answer": {"hi": "(a, -a)", "en": "(a, -a)"}
+          "answer": {"hi": "\\frac{1}{x} + \\frac{1}{x-10} = \\frac{8}{75}", "en": "\\frac{1}{x} + \\frac{1}{x-10} = \\frac{8}{75}"}
         },
         {
           "q": {
-            "hi": "समीकरण $x + 2y = 6$ के हलों की संख्या क्या है?",
-            "en": "What is the number of solutions for the equation $x + 2y = 6$?"
+            "hi": "समीकरण $\\frac{1}{x} + \\frac{1}{x-10} = \\frac{8}{75}$ को सरल करने पर कौन सा मानक द्विघात समीकरण प्राप्त होता है?",
+            "en": "On simplifying the equation $\\frac{1}{x} + \\frac{1}{x-10} = \\frac{8}{75}$, which standard quadratic equation is obtained?"
           },
           "options": [
-            {"hi": "1", "en": "1"},
-            {"hi": "2", "en": "2"},
-            {"hi": "अपरिमित", "en": "Infinite"},
-            {"hi": "शून्य", "en": "Zero"}
+            {"hi": "8x^2 - 230x + 750 = 0", "en": "8x^2 - 230x + 750 = 0"},
+            {"hi": "8x^2 + 230x + 750 = 0", "en": "8x^2 + 230x + 750 = 0"},
+            {"hi": "4x^2 - 115x + 375 = 0 (सरलीकृत रूप)", "en": "4x^2 - 115x + 375 = 0 (simplified form)"},
+            {"hi": "8x^2 - 80x - 750 = 0", "en": "8x^2 - 80x - 750 = 0"}
           ],
-          "answer": {"hi": "अपरिमित", "en": "Infinite"}
+          "answer": {"hi": "4x^2 - 115x + 375 = 0 (सरलीकृत रूप)", "en": "4x^2 - 115x + 375 = 0 (simplified form)"}
         },
         {
           "q": {
-            "hi": "दो चरों वाले रैखिक समीकरण का मानक रूप क्या है?",
-            "en": "What is the standard form of a linear equation in two variables?"
+            "hi": "समीकरण $4x^2 - 115x + 375 = 0$ को हल करने पर छोटे नल द्वारा हौज को अकेले भरने में लगा सार्थक समय क्या होगा?",
+            "en": "On solving the equation $4x^2 - 115x + 375 = 0$, what will be the meaningful time taken by the smaller tap to fill the tank separately?"
           },
           "options": [
-            {"hi": "ax + b = 0", "en": "ax + b = 0"},
-            {"hi": "ax + by + c = 0", "en": "ax + by + c = 0"},
-            {"hi": "ax^2 + bx + c = 0", "en": "ax^2 + bx + c = 0"},
-            {"hi": "ax + by = 0", "en": "ax + by = 0"}
+            {"hi": "25 घंटे", "en": "25 hours"},
+            {"hi": "3.75 घंटे (अमान्य क्योंकि बड़ा नल ऋणात्मक समय लेगा)", "en": "3.75 hours (invalid because the larger tap will take negative time)"},
+            {"hi": "15 घंटे", "en": "15 hours"},
+            {"hi": "30 घंटे", "en": "30 hours"}
           ],
-          "answer": {"hi": "ax + by + c = 0", "en": "ax + by + c = 0"}
+          "answer": {"hi": "25 घंटे", "en": "25 hours"}
         }
       ]
     },
