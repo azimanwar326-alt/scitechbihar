@@ -6624,661 +6624,661 @@
       "section1": [
         {
           "q": {
-            "hi": "ज्यामितीय रचना में शुद्ध आकृति बनाने के लिए मुख्य रूप से किन दो उपकरणों का उपयोग किया जाता है?",
-            "en": "In geometric construction, which two instruments are primarily used to make accurate figures?"
+            "hi": "कक्षा IX के ज्यामितीय अध्ययन के अनुसार, किसी दी गई आकृति या रेखाखंड की रचना करने के लिए मुख्यतः किन दो उपकरणों का प्रयोग किया जाता है?",
+            "en": "According to Class IX geometric study, which two instruments are mainly used to construct a given figure or line segment?"
           },
           "options": [
-            {"hi": "चाँदा और पटरी", "en": "Protractor and Ruler"},
-            {"hi": "पटरी और परकार", "en": "Ruler and Compass"},
-            {"hi": "डिवाइडर और सेट-स्क्वायर", "en": "Divider and Set-square"},
-            {"hi": "पेंसिल और रबड़", "en": "Pencil and Eraser"}
+            {"hi": "पटरी (Scale) और परकार (Compass)", "en": "Ruler (Scale) and Compass"},
+            {"hi": "चांदा (Protractor) और डिवाइडर", "en": "Protractor and Divider"},
+            {"hi": "पटरी और चांदा", "en": "Ruler and Protractor"},
+            {"hi": "केवल परकार", "en": "Compass only"}
           ],
-          "answer": {"hi": "पटरी और परकार", "en": "Ruler and Compass"}
+          "answer": {"hi": "पटरी (Scale) और परकार (Compass)", "en": "Ruler (Scale) and Compass"}
         },
         {
           "q": {
-            "hi": "अंशांकित पटरी (Graduated Ruler) का उपयोग क्या मापने के लिए किया जाता है?",
-            "en": "What is a graduated ruler used to measure?"
+            "hi": "यदि एक रेखाखंड को एक निश्चित अनुपात $m : n$ में विभाजित करना हो, तो ज्यामितीय शुद्धता के लिए सर्वप्रथम रेखाखंड से कैसा कोण बनाती हुई एक किरण खींची जाती है?",
+            "en": "If a line segment is to be divided in a fixed ratio $m : n$, which type of angle is first drawn with the line segment by a ray for geometric accuracy?"
           },
           "options": [
-            {"hi": "कोण", "en": "Angles"},
-            {"hi": "क्षेत्रफल", "en": "Area"},
-            {"hi": "रेखाखंड की लंबाई", "en": "Length of a line segment"},
-            {"hi": "वृत्त की परिधि", "en": "Circumference of a circle"}
+            {"hi": "समकोण", "en": "Right angle"},
+            {"hi": "न्यूनकोण (Acute angle)", "en": "Acute angle"},
+            {"hi": "अधिककोण", "en": "Obtuse angle"},
+            {"hi": "ऋजुकोण", "en": "Straight angle"}
           ],
-          "answer": {"hi": "रेखाखंड की लंबाई", "en": "Length of a line segment"}
+          "answer": {"hi": "न्यूनकोण (Acute angle)", "en": "Acute angle"}
         },
         {
           "q": {
-            "hi": "एक दिए हुए कोण को समद्विभाजित करने का अर्थ है उसे कितने बराबर भागों में बाँटना?",
-            "en": "Bisecting a given angle means dividing it into how many equal parts?"
+            "hi": "रचना 11.1 की पहली विधि के अनुसार, यदि रेखाखंड AB को $3 : 2$ के अनुपात में विभाजित करना है, तो न्यूनकोण बनाती किरण AX पर कुल कितने समान बिंदु अंकित किए जाएँगे?",
+            "en": "According to the first method of Construction 11.1, if the line segment AB is to be divided in the ratio $3 : 2$, how many equal points in total will be marked on the acute ray AX?"
           },
           "options": [
-            {"hi": "तीन", "en": "Three"},
-            {"hi": "चार", "en": "Four"},
-            {"hi": "दो", "en": "Two"},
-            {"hi": "पाँच", "en": "Five"}
+            {"hi": "3", "en": "3"},
+            {"hi": "2", "en": "2"},
+            {"hi": "5", "en": "5"},
+            {"hi": "6", "en": "6"}
           ],
-          "answer": {"hi": "दो", "en": "Two"}
+          "answer": {"hi": "5", "en": "5"}
         },
         {
           "q": {
-            "hi": "एक रेखाखंड का लंब समद्विभाजक उस रेखाखंड के साथ कितने डिग्री का कोण बनाता है?",
-            "en": "The perpendicular bisector of a line segment makes what angle with the segment?"
+            "hi": "किरण AX पर $A_1, A_2, A_3, A_4, A_5$ बिंदु इस प्रकार अंकित किए जाते हैं कि उनके बीच की दूरियों में क्या संबंध होता है?",
+            "en": "Points $A_1, A_2, A_3, A_4, A_5$ are marked on the ray AX such that what is the relation between the distances between them?"
           },
           "options": [
-            {"hi": "45°", "en": "45°"},
-            {"hi": "60°", "en": "60°"},
-            {"hi": "90°", "en": "90°"},
-            {"hi": "180°", "en": "180°"}
+            {"hi": "AA_1 < A_1A_2 < A_2A_3", "en": "AA_1 < A_1A_2 < A_2A_3"},
+            {"hi": "AA_1 = A_1A_2 = A_2A_3 = ...", "en": "AA_1 = A_1A_2 = A_2A_3 = ..."},
+            {"hi": "AA_1 > A_1A_2 > A_2A_3", "en": "AA_1 > A_1A_2 > A_2A_3"},
+            {"hi": "उनके बीच कोई निश्चित संबंध नहीं होता", "en": "There is no fixed relation between them"}
           ],
-          "answer": {"hi": "90°", "en": "90°"}
+          "answer": {"hi": "AA_1 = A_1A_2 = A_2A_3 = ...", "en": "AA_1 = A_1A_2 = A_2A_3 = ..."}
         },
         {
           "q": {
-            "hi": "पटरी और परकार की सहायता से निम्नलिखित में से कौन सा कोण बनाया जा सकता है?",
-            "en": "Which of the following angles can be constructed using a ruler and compass?"
+            "hi": "एक रेखाखंड AB को $3 : 2$ में विभाजित करने की पहली विधि में, किरण AX के अंतिम बिंदु $A_5$ को रेखाखंड के किस बिंदु से मिलाया जाता है?",
+            "en": "In the first method to divide a line segment AB in $3 : 2$, the last point $A_5$ of ray AX is joined to which point of the line segment?"
           },
           "options": [
-            {"hi": "20°", "en": "20°"},
-            {"hi": "60°", "en": "60°"},
-            {"hi": "40°", "en": "40°"},
-            {"hi": "50°", "en": "50°"}
+            {"hi": "बिंदु A से", "en": "Point A"},
+            {"hi": "बिंदु B से (Point B)", "en": "Point B"},
+            {"hi": "मध्य बिंदु से", "en": "Mid-point"},
+            {"hi": "A_3 से", "en": "A_3"}
           ],
-          "answer": {"hi": "60°", "en": "60°"}
+          "answer": {"hi": "बिंदु B से (Point B)", "en": "Point B"}
         },
         {
           "q": {
-            "hi": "किसी रेखाखंड के लंब समद्विभाजक पर स्थित प्रत्येक बिंदु रेखाखंड के सिरों से कैसा होता है?",
-            "en": "Every point on the perpendicular bisector of a line segment is how far from the endpoints?"
+            "hi": "अंतिम बिंदु $A_5$ को B से मिलाने के बाद, अनुपात $3 : 2$ प्राप्त करने के लिए किस बिंदु से होकर जाने वाली रेखा $A_5B$ के समांतर खींची जाती है?",
+            "en": "After joining the last point $A_5$ to B, a line is drawn parallel to $A_5B$ through which point to obtain the ratio $3 : 2$?"
           },
           "options": [
-            {"hi": "असमान दूरी पर", "en": "At unequal distance"},
-            {"hi": "समदूरस्थ (बराबर दूरी पर)", "en": "Equidistant"},
+            {"hi": "A_2", "en": "A_2"},
+            {"hi": "A_1", "en": "A_1"},
+            {"hi": "A_3", "en": "A_3"},
+            {"hi": "A_4", "en": "A_4"}
+          ],
+          "answer": {"hi": "A_3", "en": "A_3"}
+        },
+        {
+          "q": {
+            "hi": "रेखाखंड के विभाजन की इस रचना की सत्यता (औचित्य) सिद्ध करने के लिए कक्षा X के किस महत्वपूर्ण ज्यामितीय प्रमेय का प्रयोग किया जाता है?",
+            "en": "Which important geometric theorem of Class X is used to prove the validity (justification) of this construction of line segment division?"
+          },
+          "options": [
+            {"hi": "पाइथागोरस प्रमेय", "en": "Pythagoras theorem"},
+            {"hi": "आधारभूत समानुपातिकता प्रमेय (Thales Theorem)", "en": "Basic Proportionality Theorem (Thales Theorem)"},
+            {"hi": "वृत्त की स्पर्श रेखा प्रमेय", "en": "Tangent theorem of circle"},
+            {"hi": "क्षेत्रफल प्रमेय", "en": "Area theorem"}
+          ],
+          "answer": {"hi": "आधारभूत समानुपातिकता प्रमेय (Thales Theorem)", "en": "Basic Proportionality Theorem (Thales Theorem)"}
+        },
+        {
+          "q": {
+            "hi": "रेखाखंड विभाजन की दूसरी विधि के अनुसार, यदि हम $\\angle BAX$ के बराबर ही बिंदु B पर एक कोण $\\angle ABY$ बनाएँ, तो किरण BY को AX के सापेक्ष कैसा खींचा जाता है?",
+            "en": "According to the second method of line segment division, if we construct an angle $\\angle ABY$ equal to $\\angle BAX$ at point B, how is the ray BY drawn with respect to AX?"
+          },
+          "options": [
             {"hi": "लंबवत", "en": "Perpendicular"},
-            {"hi": "शून्य दूरी पर", "en": "At zero distance"}
+            {"hi": "समांतर (Parallel) परन्तु विपरीत दिशा में", "en": "Parallel but in opposite direction"},
+            {"hi": "संपाती", "en": "Coincident"},
+            {"hi": "तिर्यक", "en": "Transversal"}
           ],
-          "answer": {"hi": "समदूरस्थ (बराबर दूरी पर)", "en": "Equidistant"}
+          "answer": {"hi": "समांतर (Parallel) परन्तु विपरीत दिशा में", "en": "Parallel but in opposite direction"}
         },
         {
           "q": {
-            "hi": "60° के कोण को समद्विभाजित करने पर प्राप्त प्रत्येक कोण का मान क्या होगा?",
-            "en": "What will be the value of each angle obtained by bisecting a 60° angle?"
+            "hi": "दूसरी विधि द्वारा रेखाखंड AB को $m : n$ (माना $3 : 2$) में विभाजित करते समय, किरण AX पर $m$ (3) बिंदु और किरण BY पर $n$ (2) बिंदु अंकित करके अंत में किन दो बिंदुओं को मिलाया जाता है?",
+            "en": "While dividing line segment AB in $m : n$ (let $3 : 2$) by the second method, which two points are joined at the end after marking $m$ (3) points on ray AX and $n$ (2) points on ray BY?"
           },
           "options": [
-            {"hi": "15°", "en": "15°"},
-            {"hi": "30°", "en": "30°"},
-            {"hi": "45°", "en": "45°"},
-            {"hi": "20°", "en": "20°"}
+            {"hi": "A_3 और B_2", "en": "A_3 and B_2"},
+            {"hi": "A_5 और B_2", "en": "A_5 and B_2"},
+            {"hi": "A_1 और B_2", "en": "A_1 and B_2"},
+            {"hi": "A_3 और B_1", "en": "A_3 and B_1"}
           ],
-          "answer": {"hi": "30°", "en": "30°"}
+          "answer": {"hi": "A_3 और B_2", "en": "A_3 and B_2"}
         },
         {
           "q": {
-            "hi": "एक दी गई किरण के प्रारंभिक बिंदु पर 90° का कोण बनाने के लिए सबसे पहले किस कोण की रचना की जाती है?",
-            "en": "To construct a 90° angle at the initial point of a given ray, which angle is constructed first?"
+            "hi": "दूसरी विधि के औचित्य में, $\\triangle AA_3C$ और $\\triangle BB_2C$ को समरूप दिखाकर अनुपात निकाला जाता है। यहाँ समरूपता की कौन सी कसौटी लागू होती है?",
+            "en": "In the justification of the second method, the ratio is found by showing $\\triangle AA_3C$ and $\\triangle BB_2C$ similar. Which similarity criterion applies here?"
           },
           "options": [
-            {"hi": "45°", "en": "45°"},
-            {"hi": "60°", "en": "60°"},
-            {"hi": "30°", "en": "30°"},
-            {"hi": "15°", "en": "15°"}
+            {"hi": "SSS कसौटी", "en": "SSS criterion"},
+            {"hi": "SAS कसौटी", "en": "SAS criterion"},
+            {"hi": "AA समरूपता कसौटी (AA similarity criterion)", "en": "AA similarity criterion"},
+            {"hi": "RHS कसौटी", "en": "RHS criterion"}
           ],
-          "answer": {"hi": "60°", "en": "60°"}
-        },
-        {
-          "q": {
-            "hi": "90° और 60° के बीच का कोण समद्विभाजित करने पर कौन सा कोण प्राप्त होगा?",
-            "en": "Which angle is obtained by bisecting the angle between 90° and 60°?"
-          },
-          "options": [
-            {"hi": "75°", "en": "75°"},
-            {"hi": "80°", "en": "80°"},
-            {"hi": "70°", "en": "70°"},
-            {"hi": "65°", "en": "65°"}
-          ],
-          "answer": {"hi": "75°", "en": "75°"}
-        },
-        {
-          "q": {
-            "hi": "रचना के चरणों की सत्यता सिद्ध करने की प्रक्रिया को क्या कहते हैं?",
-            "en": "What is the process of proving the correctness of construction steps called?"
-          },
-          "options": [
-            {"hi": "मापन", "en": "Measurement"},
-            {"hi": "उपपत्ति", "en": "Justification/Proof"},
-            {"hi": "रेखांकन", "en": "Sketching"},
-            {"hi": "अवलोकन", "en": "Observation"}
-          ],
-          "answer": {"hi": "उपपत्ति", "en": "Justification/Proof"}
+          "answer": {"hi": "AA समरूपता कसौटी (AA similarity criterion)", "en": "AA similarity criterion"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "एक त्रिभुज की रचना के लिए कम से कम कितने स्वतंत्र भागों का ज्ञान होना आवश्यक है?",
-            "en": "To construct a triangle, knowledge of at least how many independent parts is necessary?"
+            "hi": "दिए गए त्रिभुज के समरूप एक नए त्रिभुज की रचना करने में प्रयुक्त होने वाला 'स्केल गुणक' (scale factor) क्या प्रदर्शित करता है?",
+            "en": "What does the 'scale factor' used in constructing a new triangle similar to a given triangle represent?"
           },
           "options": [
-            {"hi": "दो", "en": "Two"},
-            {"hi": "तीन", "en": "Three"},
-            {"hi": "चार", "en": "Four"},
-            {"hi": "पाँच", "en": "Five"}
+            {"hi": "त्रिभुज का क्षेत्रफल", "en": "Area of the triangle"},
+            {"hi": "नये त्रिभुज की भुजाओं का दिए गए त्रिभुज की संगत भुजाओं के साथ अनुपात", "en": "Ratio of sides of the new triangle to the corresponding sides of the given triangle"},
+            {"hi": "त्रिभुज के कोणों का माप", "en": "Measure of angles of the triangle"},
+            {"hi": "त्रिभुज का परिमाप", "en": "Perimeter of the triangle"}
           ],
-          "answer": {"hi": "तीन", "en": "Three"}
+          "answer": {"hi": "नये त्रिभुज की भुजाओं का दिए गए त्रिभुज की संगत भुजाओं के साथ अनुपात", "en": "Ratio of sides of the new triangle to the corresponding sides of the given triangle"}
         },
         {
           "q": {
-            "hi": "निम्नलिखित में से किस स्थिति में त्रिभुज की रचना संभव है?",
-            "en": "In which of the following cases is the construction of a triangle possible?"
+            "hi": "यदि समरूप त्रिभुज की रचना के लिए स्केल गुणक $3/4$ (एक से कम) दिया गया है, तो बनने वाला नया त्रिभुज मूल त्रिभुज से आकार में कैसा होगा?",
+            "en": "If the scale factor given for constructing a similar triangle is $3/4$ (less than one), how will the new triangle formed compare in size to the original triangle?"
           },
           "options": [
-            {"hi": "तीनों कोण दिए हों", "en": "Three angles are given"},
-            {"hi": "दो भुजाएँ और उनके बीच का कोण", "en": "Two sides and the included angle"},
-            {"hi": "दो भुजाएँ और परिमाप", "en": "Two sides and perimeter"},
-            {"hi": "केवल एक भुजा", "en": "Only one side"}
+            {"hi": "बड़ा होगा", "en": "Larger"},
+            {"hi": "छोटा होगा (Smaller)", "en": "Smaller"},
+            {"hi": "समान आकार का होगा", "en": "Of the same size"},
+            {"hi": "एक सरल रेखा होगा", "en": "A straight line"}
           ],
-          "answer": {"hi": "दो भुजाएँ और उनके बीच का कोण", "en": "Two sides and the included angle"}
+          "answer": {"hi": "छोटा होगा (Smaller)", "en": "Smaller"}
         },
         {
           "q": {
-            "hi": "यदि त्रिभुज की दो भुजाओं का योग तीसरी भुजा से ______ हो, तो रचना संभव नहीं है।",
-            "en": "If the sum of two sides of a triangle is ______ than the third side, construction is not possible."
+            "hi": "यदि समरूप त्रिभुज की रचना का स्केल गुणक $5/3$ (एक से अधिक) हो, तो निर्मित होने वाला नया त्रिभुज दिए गए त्रिभुज से कैसा होगा?",
+            "en": "If the scale factor for constructing a similar triangle is $5/3$ (greater than one), how will the newly constructed triangle compare to the given triangle?"
           },
           "options": [
-            {"hi": "बड़ा", "en": "Greater"},
             {"hi": "छोटा", "en": "Smaller"},
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "दुगुना", "en": "Double"}
+            {"hi": "बड़ा (Larger)", "en": "Larger"},
+            {"hi": "समान आमाप का", "en": "Of the same size"},
+            {"hi": "काल्पनिक", "en": "Imaginary"}
           ],
-          "answer": {"hi": "छोटा", "en": "Smaller"}
+          "answer": {"hi": "बड़ा (Larger)", "en": "Larger"}
         },
         {
           "q": {
-            "hi": "एक त्रिभुज ABC की रचना के लिए जिसमें आधार BC और ∠B दिए हों, और क्या दिया जाना चाहिए?",
-            "en": "To construct a triangle ABC where base BC and ∠B are given, what else must be provided?"
+            "hi": "एक दिए गए $\\triangle ABC$ के समरूप त्रिभुज की रचना करने के लिए, जिसकी भुजाएँ $\\triangle ABC$ की संगत भुजाओं की $3/4$ हों, आधार BC से न्यूनकोण बनाती किरण BX पर कुल कितने बिंदु अंकित किए जाएँगे? (संकेत: 3 और 4 में से बड़ी संख्या लें)",
+            "en": "To construct a triangle similar to a given $\\triangle ABC$ whose sides are $3/4$ of the corresponding sides of $\\triangle ABC$, how many points in total will be marked on ray BX making an acute angle with base BC?"
           },
           "options": [
-            {"hi": "AB + AC का योग", "en": "Sum of AB + AC"},
-            {"hi": "AB - AC का अंतर", "en": "Difference of AB - AC"},
-            {"hi": "उपरोक्त में से कोई भी एक", "en": "Either of the above"},
-            {"hi": "केवल ∠C", "en": "Only ∠C"}
+            {"hi": "3", "en": "3"},
+            {"hi": "4", "en": "4"},
+            {"hi": "7", "en": "7"},
+            {"hi": "12", "en": "12"}
           ],
-          "answer": {"hi": "उपरोक्त में से कोई भी एक", "en": "Either of the above"}
+          "answer": {"hi": "4", "en": "4"}
         },
         {
           "q": {
-            "hi": "त्रिभुज की रचना के लिए आधार कोणों का योग 180° से क्या होना चाहिए?",
-            "en": "For the construction of a triangle, the sum of base angles must be what compared to 180°?"
+            "hi": "उपरोक्त रचना ($3/4$ स्केल गुणक) में, किरण BX पर अंकित बिंदुओं $B_1, B_2, B_3, B_4$ में से चौथे बिंदु $B_4$ को आधार के किस शीर्ष से मिलाया जाता है?",
+            "en": "In the above construction (scale factor $3/4$), the fourth point $B_4$ among the points $B_1, B_2, B_3, B_4$ marked on ray BX is joined to which vertex of the base?"
           },
           "options": [
-            {"hi": "अधिक", "en": "More"},
-            {"hi": "कम", "en": "Less"},
-            {"hi": "बराबर", "en": "Equal"},
-            {"hi": "360°"}
+            {"hi": "शीर्ष B से", "en": "Vertex B"},
+            {"hi": "शीर्ष C से (Vertex C)", "en": "Vertex C"},
+            {"hi": "शीर्ष A से", "en": "Vertex A"},
+            {"hi": "B_3 से", "en": "B_3"}
           ],
-          "answer": {"hi": "कम", "en": "Less"}
+          "answer": {"hi": "शीर्ष C से (Vertex C)", "en": "Vertex C"}
         },
         {
           "q": {
-            "hi": "समबाहु त्रिभुज की रचना के लिए केवल किसका ज्ञान पर्याप्त है?",
-            "en": "For the construction of an equilateral triangle, knowledge of only what is sufficient?"
+            "hi": "बिंदु $B_4$ को C से मिलाने के बाद, स्केल गुणक $3/4$ के अनुसार $B_4C$ के समांतर रेखा किस बिंदु से खींची जाती है?",
+            "en": "After joining point $B_4$ to C, a line parallel to $B_4C$ is drawn from which point according to the scale factor $3/4$?"
           },
           "options": [
-            {"hi": "एक भुजा", "en": "One side"},
-            {"hi": "एक कोण", "en": "One angle"},
-            {"hi": "शीर्षलंब", "en": "Altitude"},
-            {"hi": "परिमाप", "en": "Perimeter"}
+            {"hi": "B_1", "en": "B_1"},
+            {"hi": "B_2", "en": "B_2"},
+            {"hi": "B_3", "en": "B_3"},
+            {"hi": "B_4 स्वयं", "en": "B_4 itself"}
           ],
-          "answer": {"hi": "एक भुजा", "en": "One side"}
+          "answer": {"hi": "B_3", "en": "B_3"}
         },
         {
           "q": {
-            "hi": "कोण 22.5° बनाने के लिए किस कोण को दो बार समद्विभाजित करना होगा?",
-            "en": "To make a 22.5° angle, which angle needs to be bisected twice?"
+            "hi": "यदि स्केल गुणक $5/3$ दिया गया है, तो किरण BX पर $B_1, B_2, B_3, B_4, B_5$ बिंदु अंकित करने के बाद, तीसरे बिंदु $B_3$ को किससे मिलाया जाएगा?",
+            "en": "If the scale factor given is $5/3$, then after marking points $B_1, B_2, B_3, B_4, B_5$ on ray BX, the third point $B_3$ will be joined to what?"
           },
           "options": [
-            {"hi": "45°", "en": "45°"},
-            {"hi": "90°", "en": "90°"},
-            {"hi": "60°", "en": "60°"},
-            {"hi": "180°", "en": "180°"}
+            {"hi": "C से (To C)", "en": "To C"},
+            {"hi": "B_5 से", "en": "To B_5"},
+            {"hi": "A से", "en": "To A"},
+            {"hi": "समीकरण के बाहर", "en": "Outside the context"}
           ],
-          "answer": {"hi": "90°", "en": "90°"}
+          "answer": {"hi": "C से (To C)", "en": "To C"}
         },
         {
           "q": {
-            "hi": "90° का कोण बनाने के लिए 60° और ______ के चापों का उपयोग किया जाता है।",
-            "en": "To construct a 90° angle, arcs of 60° and ______ are used."
+            "hi": "स्केल गुणक $5/3$ वाली रचना में, $B_3C$ के समांतर रेखा किस बिंदु से खींची जाती है जो बढी हुई भुजा BC को C' पर काटती है?",
+            "en": "In the construction with scale factor $5/3$, a line parallel to $B_3C$ is drawn from which point to intersect the extended side BC at C'?"
           },
           "options": [
-            {"hi": "120°", "en": "120°"},
-            {"hi": "30°", "en": "30°"},
-            {"hi": "150°", "en": "150°"},
-            {"hi": "180°", "en": "180°"}
+            {"hi": "B_4", "en": "B_4"},
+            {"hi": "B_5", "en": "B_5"},
+            {"hi": "B_1", "en": "B_1"},
+            {"hi": "B_2", "en": "B_2"}
           ],
-          "answer": {"hi": "120°", "en": "120°"}
+          "answer": {"hi": "B_5", "en": "B_5"}
         },
         {
           "q": {
-            "hi": "एक त्रिभुज जिसकी तीनों भुजाओं का योग (परिमाप) दिया हो, उसकी रचना के लिए और क्या आवश्यक है?",
-            "en": "To construct a triangle given the sum of its three sides (perimeter), what else is required?"
+            "hi": "त्रिभुज के समरूप नए त्रिभुज की रचना के औचित्य में, $\\triangle ABC \\sim \\triangle A'BC'$ दिखाने के लिए किस समरूपता कसौटी का अंतिम रूप से उपयोग होता है?",
+            "en": "In the justification of constructing a new similar triangle, which similarity criterion is ultimately used to show $\\triangle ABC \\sim \\triangle A'BC'$?"
           },
           "options": [
-            {"hi": "दो आधार कोण", "en": "Two base angles"},
-            {"hi": "एक भुजा", "en": "One side"},
-            {"hi": "दो भुजाएँ", "en": "Two sides"},
-            {"hi": "क्षेत्रफल", "en": "Area"}
+            {"hi": "SSS कसौटी", "en": "SSS criterion"},
+            {"hi": "SAS कसौटी", "en": "SAS criterion"},
+            {"hi": "AA समरूपता कसौटी (AA similarity criterion)", "en": "AA similarity criterion"},
+            {"hi": "RHS कसौटी", "en": "RHS criterion"}
           ],
-          "answer": {"hi": "दो आधार कोण", "en": "Two base angles"}
+          "answer": {"hi": "AA समरूपता कसौटी (AA similarity criterion)", "en": "AA similarity criterion"}
         },
         {
           "q": {
-            "hi": "रचना करते समय परकार की नोक और पेंसिल की नोक के बीच की दूरी क्या दर्शाती है?",
-            "en": "While constructing, what does the distance between the compass tip and pencil tip represent?"
+            "hi": "यदि किसी रचना में $A'C' \\parallel AC$ खींचा गया है, तो संगत कोणों के नियमानुसार $\\angle A'C'B$ का मान किसके बराबर होगा?",
+            "en": "If in a construction $A'C' \\parallel AC$ is drawn, then according to the rule of corresponding angles, the value of $\\angle A'C'B$ will be equal to what?"
           },
           "options": [
-            {"hi": "व्यास", "en": "Diameter"},
-            {"hi": "त्रिज्या", "en": "Radius"},
-            {"hi": "चाप की लंबाई", "en": "Arc length"},
-            {"hi": "परिधि", "en": "Circumference"}
+            {"hi": "\\angle ACB", "en": "\\angle ACB"},
+            {"hi": "\\angle BAC", "en": "\\angle BAC"},
+            {"hi": "\\angle ABC", "en": "\\angle ABC"},
+            {"hi": "90^\\circ", "en": "90^\\circ"}
           ],
-          "answer": {"hi": "त्रिज्या", "en": "Radius"}
+          "answer": {"hi": "\\angle ACB", "en": "\\angle ACB"}
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "15° का कोण बनाने के लिए किस कोण का समद्विभाजन करना होगा?",
-            "en": "To construct a 15° angle, which angle needs to be bisected?"
+            "hi": "अध्याय 10 के ज्ञान के अनुसार, वृत्त के अभ्यंतर (अंदर) स्थित किसी बिंदु से वृत्त पर कितनी स्पर्श रेखाएँ खींची जा सकती हैं?",
+            "en": "According to Chapter 10 knowledge, how many tangents can be drawn to a circle from a point lying inside the circle?"
           },
           "options": [
-            {"hi": "60°", "en": "60°"},
-            {"hi": "45°", "en": "45°"},
-            {"hi": "30°", "en": "30°"},
-            {"hi": "90°", "en": "90°"}
+            {"hi": "केवल एक", "en": "Only one"},
+            {"hi": "दो", "en": "Two"},
+            {"hi": "एक भी नहीं (शून्य) [None]", "en": "None"},
+            {"hi": "अपरिमित रूप से अनेक", "en": "Infinitely many"}
           ],
-          "answer": {"hi": "30°", "en": "30°"}
+          "answer": {"hi": "एक भी नहीं (शून्य) [None]", "en": "None"}
         },
         {
           "q": {
-            "hi": "क्या पटरी और परकार से 25° का कोण बनाना संभव है?",
-            "en": "Is it possible to construct a 25° angle using a ruler and compass?"
+            "hi": "वृत्त पर स्थित किसी बिंदु से वृत्त पर कितनी स्पर्श रेखाएँ खींची जा सकती हैं?",
+            "en": "How many tangents can be drawn to a circle from a point lying on the circle?"
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "चाँदे की मदद से", "en": "With help of protractor"},
-            {"hi": "केवल बड़ी पटरी से", "en": "Only with big ruler"}
+            {"hi": "केवल एक (Exactly one)", "en": "Exactly one"},
+            {"hi": "दो", "en": "Two"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "तीन", "en": "Three"}
           ],
-          "answer": {"hi": "नहीं", "en": "No"}
+          "answer": {"hi": "केवल एक (Exactly one)", "en": "Exactly one"}
         },
         {
           "q": {
-            "hi": "किसी रेखाखंड AB का लंब समद्विभाजक खींचने के लिए, केंद्र A और B से ______ से अधिक त्रिज्या के चाप लगाने चाहिए।",
-            "en": "To draw a perpendicular bisector of line segment AB, arcs from centers A and B should be of radius more than ______."
+            "hi": "वृत्त के बाहर (बाह्य भाग) स्थित किसी बिंदु से वृत्त पर कितनी स्पर्श रेखाएँ खींची जा सकती हैं, जिनकी रचना पाठ्यपुस्तक में दी गई है?",
+            "en": "How many tangents can be drawn to a circle from a point lying outside the circle, whose construction is given in the textbook?"
           },
           "options": [
-            {"hi": "AB की पूरी लंबाई", "en": "Full length of AB"},
-            {"hi": "AB की आधी लंबाई (1/2 AB)", "en": "Half length of AB"},
-            {"hi": "AB की एक-चौथाई", "en": "One-fourth of AB"},
-            {"hi": "1 cm"}
+            {"hi": "1", "en": "1"},
+            {"hi": "2 (Exactly two)", "en": "Exactly two"},
+            {"hi": "3", "en": "3"},
+            {"hi": "अनंत", "en": "Infinite"}
           ],
-          "answer": {"hi": "AB की आधी लंबाई (1/2 AB)", "en": "Half length of AB"}
+          "answer": {"hi": "2 (Exactly two)", "en": "Exactly two"}
         },
         {
           "q": {
-            "hi": "एक त्रिभुज की रचना संभव है यदि उसकी भुजाएँ हैं:",
-            "en": "Construction of a triangle is possible if its sides are:"
+            "hi": "केंद्र O वाले वृत्त के बाहर स्थित बिंदु P से वृत्त पर स्पर्श रेखा युग्म खींचने के लिए सबसे पहले किस रेखाखंड की रचना की जाती है?",
+            "en": "To draw a pair of tangents to a circle with center O from an external point P, which line segment is constructed first?"
           },
           "options": [
-            {"hi": "2 cm, 3 cm, 5 cm", "en": "2 cm, 3 cm, 5 cm"},
-            {"hi": "3 cm, 4 cm, 5 cm", "en": "3 cm, 4 cm, 5 cm"},
-            {"hi": "1 cm, 2 cm, 4 cm", "en": "1 cm, 2 cm, 4 cm"},
-            {"hi": "5 cm, 5 cm, 11 cm", "en": "5 cm, 5 cm, 11 cm"}
+            {"hi": "व्यास", "en": "Diameter"},
+            {"hi": "रेखाखंड OP (Line segment OP)", "en": "Line segment OP"},
+            {"hi": "जीवा", "en": "Chord"},
+            {"hi": "स्पर्श बिंदु रेखा", "en": "Tangent point line"}
           ],
-          "answer": {"hi": "3 cm, 4 cm, 5 cm", "en": "3 cm, 4 cm, 5 cm"}
+          "answer": {"hi": "रेखाखंड OP (Line segment OP)", "en": "Line segment OP"}
         },
         {
           "q": {
-            "hi": "कोण 135° की रचना के लिए किन दो कोणों का समद्विभाजन किया जा सकता है?",
-            "en": "For construction of 135°, which two angles can be bisected?"
+            "hi": "रेखाखंड OP खींचने के बाद, उसका मध्य बिंदु M प्राप्त करने के लिए पटरी और परकार से OP का क्या खींचा जाता है?",
+            "en": "After drawing the line segment OP, what is constructed for OP with a ruler and compass to obtain its mid-point M?"
           },
           "options": [
-            {"hi": "90° और 180°", "en": "90° and 180°"},
-            {"hi": "90° और 120°", "en": "90° and 120°"},
-            {"hi": "60° और 120°", "en": "60° and 120°"},
-            {"hi": "120° और 150°", "en": "120° and 150°"}
+            {"hi": "समांतर रेखा", "en": "Parallel line"},
+            {"hi": "लंब समद्विभाजक (Perpendicular bisector)", "en": "Perpendicular bisector"},
+            {"hi": "न्यूनकोण", "en": "Acute angle"},
+            {"hi": "स्पर्श रेखा", "en": "Tangent line"}
           ],
-          "answer": {"hi": "90° और 180°", "en": "90° and 180°"}
+          "answer": {"hi": "लंब समद्विभाजक (Perpendicular bisector)", "en": "Perpendicular bisector"}
         },
         {
           "q": {
-            "hi": "त्रिभुज रचना में 'आधार' (Base) क्या है?",
-            "en": "What is the 'base' in triangle construction?"
+            "hi": "OP के मध्य बिंदु M को केंद्र मानकर तथा किस लंबाई को त्रिज्या लेकर एक नया वृत्त खींचा जाता है जो मूल वृत्त को दो बिंदुओं पर काटता है?",
+            "en": "Taking the mid-point M of OP as center and which length as radius, a new circle is drawn that intersects the original circle at two points?"
           },
           "options": [
-            {"hi": "सबसे बड़ी भुजा", "en": "The largest side"},
-            {"hi": "वह भुजा जिस पर रचना शुरू की जाती है", "en": "The side on which construction is started"},
-            {"hi": "सबसे छोटी भुजा", "en": "The shortest side"},
-            {"hi": "ऊर्ध्वाधर भुजा", "en": "Vertical side"}
+            {"hi": "मूल वृत्त की त्रिज्या", "en": "Radius of original circle"},
+            {"hi": "MO या MP (MO or MP)", "en": "MO or MP"},
+            {"hi": "OP की दुगुनी लंबाई", "en": "Double length of OP"},
+            {"hi": "M से परिधि की दूरी", "en": "Distance from M to circumference"}
           ],
-          "answer": {"hi": "वह भुजा जिस पर रचना शुरू की जाती है", "en": "The side on which construction is started"}
+          "answer": {"hi": "MO या MP (MO or MP)", "en": "MO or MP"}
         },
         {
           "q": {
-            "hi": "कोणों 60°, 120°, 180° आदि की रचना में चाप की त्रिज्या कैसी होनी चाहिए?",
-            "en": "In construction of 60°, 120°, 180° etc., how should the arc radius be?"
+            "hi": "यदि नया वृत्त मूल वृत्त को Q और R पर काटता है, तो बाह्य बिंदु P से किन दो रेखाओं को मिलाकर स्पर्श रेखा युग्म प्राप्त होता है?",
+            "en": "If the new circle intersects the original circle at Q and R, joining which two lines from external point P gives the pair of tangents?"
           },
           "options": [
-            {"hi": "बढ़ती हुई", "en": "Increasing"},
-            {"hi": "घटती हुई", "en": "Decreasing"},
-            {"hi": "एक समान (अचर)", "en": "Same (Constant)"},
-            {"hi": "कोई भी", "en": "Any"}
+            {"hi": "OQ और OR", "en": "OQ and OR"},
+            {"hi": "PQ और PR", "en": "PQ and PR"},
+            {"hi": "MQ और MR", "en": "MQ and MR"},
+            {"hi": "OQ और PQ", "en": "OQ and PQ"}
           ],
-          "answer": {"hi": "एक समान (अचर)", "en": "Same (Constant)"}
+          "answer": {"hi": "PQ और PR", "en": "PQ and PR"}
         },
         {
           "q": {
-            "hi": "एक समकोण त्रिभुज की रचना के लिए आधार और ______ का ज्ञान आवश्यक है।",
-            "en": "To construct a right-angled triangle, knowledge of base and ______ is required."
+            "hi": "स्पर्श रेखाओं की रचना के औचित्य (justification) के लिए O को Q से मिलाया जाता है। कोण OQP अर्धवृत्त में बना कोण होने के कारण कितने डिग्री का होता है?",
+            "en": "For the justification of the construction of tangents, O is joined to Q. What is the measure of angle OQP, being an angle in a semicircle?"
           },
           "options": [
-            {"hi": "शीर्षलंब", "en": "Altitude"},
-            {"hi": "कर्ण और अन्य भुजा का योग", "en": "Sum of hypotenuse and other side"},
-            {"hi": "उपरोक्त में से कोई भी", "en": "Any of the above"},
-            {"hi": "केवल आधार कोण", "en": "Only base angle"}
+            {"hi": "45^\\circ", "en": "45^\\circ"},
+            {"hi": "60^\\circ", "en": "60^\\circ"},
+            {"hi": "90^\\circ", "en": "90^\\circ"},
+            {"hi": "180^\\circ", "en": "180^\\circ"}
           ],
-          "answer": {"hi": "उपरोक्त में से कोई भी", "en": "Any of the above"}
+          "answer": {"hi": "90^\\circ", "en": "90^\\circ"}
         },
         {
           "q": {
-            "hi": "रचना के दौरान चापों का प्रतिच्छेद बिंदु क्या निर्धारित करता है?",
-            "en": "What does the intersection point of arcs determine during construction?"
+            "hi": "क्योंकि $OQ \\perp PQ$ है और OQ वृत्त की त्रिज्या है, इसलिए PQ को वृत्त की क्या होना पड़ेगा?",
+            "en": "Since $OQ \\perp PQ$ and OQ is the radius of the circle, what must PQ be to the circle?"
           },
           "options": [
-            {"hi": "त्रिभुज का शीर्ष", "en": "Vertex of the triangle"},
-            {"hi": "कोण की दिशा", "en": "Direction of the angle"},
-            {"hi": "नया बिंदु", "en": "New point"},
-            {"hi": "उपरोक्त सभी", "en": "All of the above"}
+            {"hi": "छेदक रेखा", "en": "Secant line"},
+            {"hi": "स्पर्श रेखा (Tangent line)", "en": "Tangent line"},
+            {"hi": "जीवा", "en": "Chord"},
+            {"hi": "व्यास", "en": "Diameter"}
           ],
-          "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
+          "answer": {"hi": "स्पर्श रेखा (Tangent line)", "en": "Tangent line"}
         },
         {
           "q": {
-            "hi": "यदि AB + AC < BC है, तो क्या त्रिभुज ABC की रचना संभव है?",
-            "en": "If AB + AC < BC, is the construction of triangle ABC possible?"
+            "hi": "यदि वृत्त का केंद्र न दिया गया हो (जैसे चूड़ी की सहायता से खींचा गया वृत्त), तो सर्वप्रथम केंद्र ज्ञात करने के लिए वृत्त की कितनी असमांतर जीवाएँ खींची जाती हैं?",
+            "en": "If the center of the circle is not given (e.g., a circle drawn with a bangle), how many non-parallel chords are drawn first to find the center?"
           },
           "options": [
-            {"hi": "हाँ", "en": "Yes"},
-            {"hi": "नहीं", "en": "No"},
-            {"hi": "शर्तों के साथ", "en": "With conditions"},
-            {"hi": "केवल समकोण होने पर", "en": "Only if it's right-angled"}
+            {"hi": "एक", "en": "One"},
+            {"hi": "दो (Two non-parallel chords)", "en": "Two non-parallel chords"},
+            {"hi": "तीन", "en": "Three"},
+            {"hi": "कोई नहीं, केंद्र सीधे मिल जाता है", "en": "None, center is found directly"}
           ],
-          "answer": {"hi": "नहीं", "en": "No"}
+          "answer": {"hi": "दो (Two non-parallel chords)", "en": "Two non-parallel chords"}
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "105° का कोण बनाने के लिए किन दो कोणों के बीच के क्षेत्र को समद्विभाजित किया जाता है?",
-            "en": "To construct a 105° angle, the region between which two angles is bisected?"
+            "hi": "यदि वृत्त की दो असमांतर जीवाएँ खींची गई हैं, तो उनका केंद्र ज्ञात करने के लिए दोनों जीवाओं का क्या खींचा जाता है, जिनका प्रतिच्छेद बिंदु ही केंद्र होता है?",
+            "en": "If two non-parallel chords of a circle are drawn, what is constructed for both chords to find the center, whose intersection point is the center?"
           },
           "options": [
-            {"hi": "90° और 120°", "en": "90° and 120°"},
-            {"hi": "60° और 90°", "en": "60° and 90°"},
-            {"hi": "120° और 150°", "en": "120° and 150°"},
-            {"hi": "90° और 180°", "en": "90° and 180°"}
+            {"hi": "समांतर रेखाएँ", "en": "Parallel lines"},
+            {"hi": "लंब समद्विभाजक (Perpendicular bisectors)", "en": "Perpendicular bisectors"},
+            {"hi": "स्पर्श रेखाएँ", "en": "Tangent lines"},
+            {"hi": "शीर्षलंब", "en": "Altitudes"}
           ],
-          "answer": {"hi": "90° और 120°", "en": "90° and 120°"}
+          "answer": {"hi": "लंब समद्विभाजक (Perpendicular bisectors)", "en": "Perpendicular bisectors"}
         },
         {
           "q": {
-            "hi": "त्रिभुज के परिमाप और दो आधार कोणों की स्थिति में रचना के पहले चरण में क्या खींचा जाता है?",
-            "en": "What is drawn in the first step of construction when perimeter and two base angles are given?"
+            "hi": "एक रेखाखंड AB की लंबाई 8 cm है। इसे $3 : 2$ के अनुपात में विभाजित करने पर दोनों भागों की वास्तविक लंबाइयाँ क्रमशः क्या होंगी?",
+            "en": "A line segment AB is of length 8 cm. On dividing it in the ratio $3 : 2$, what will be the actual lengths of the two parts respectively?"
           },
           "options": [
-            {"hi": "आधार भुजा", "en": "Base side"},
-            {"hi": "परिमाप के बराबर रेखाखंड", "en": "Line segment equal to perimeter"},
-            {"hi": "90° का कोण", "en": "90° angle"},
-            {"hi": "मध्य-बिंदु", "en": "Mid-point"}
+            {"hi": "4.8 cm और 3.2 cm", "en": "4.8 cm and 3.2 cm"},
+            {"hi": "5 cm और 3 cm", "en": "5 cm and 3 cm"},
+            {"hi": "4 cm और 4 cm", "en": "4 cm and 4 cm"},
+            {"hi": "4.5 cm और 3.5 cm", "en": "4.5 cm and 3.5 cm"}
           ],
-          "answer": {"hi": "परिमाप के बराबर रेखाखंड", "en": "Line segment equal to perimeter"}
+          "answer": {"hi": "4.8 cm और 3.2 cm", "en": "4.8 cm and 3.2 cm"}
         },
         {
           "q": {
-            "hi": "एक समकोण त्रिभुज का आधार 12 cm और कर्ण तथा अन्य भुजा का योग 18 cm है। अन्य भुजा क्या होगी?",
-            "en": "Base of a right triangle is 12 cm and sum of hypotenuse and other side is 18 cm. What is the other side?"
+            "hi": "4 cm त्रिज्या के एक वृत्त पर ऐसी दो स्पर्श रेखाएँ खींचनी हैं जो परस्पर 60^\\circ के कोण पर झुकी हों। इसके लिए केंद्र पर दोनों त्रिज्याओं के बीच का कोण कितना होना चाहिए? (संकेत: सम्मुख कोण संपूरक होते हैं)",
+            "en": "Two tangents are to be drawn to a circle of radius 4 cm which are inclined to each other at an angle of 60^\\circ. For this, what should be the angle between the two radii at the center?"
           },
           "options": [
-            {"hi": "5 cm", "en": "5 cm"},
-            {"hi": "6 cm", "en": "6 cm"},
+            {"hi": "60^\\circ", "en": "60^\\circ"},
+            {"hi": "90^\\circ", "en": "90^\\circ"},
+            {"hi": "120^\\circ", "en": "120^\\circ"},
+            {"hi": "150^\\circ", "en": "150^\\circ"}
+          ],
+          "answer": {"hi": "120^\\circ", "en": "120^\\circ"}
+        },
+        {
+          "q": {
+            "hi": "यदि किसी वृत्त की दो त्रिज्याओं के बीच केंद्र पर 120^\\circ का कोण बनाया जाए और उनके सिरों पर स्पर्श रेखाएँ खींची जाएँ, तो वे परस्पर कितने डिग्री पर झुकेंगी?",
+            "en": "If an angle of 120^\\circ is made between two radii of a circle at the center and tangents are drawn at their ends, at how many degrees will they incline to each other?"
+          },
+          "options": [
+            {"hi": "30^\\circ", "en": "30^\\circ"},
+            {"hi": "60^\\circ", "en": "60^\\circ"},
+            {"hi": "90^\\circ", "en": "90^\\circ"},
+            {"hi": "45^\\circ", "en": "45^\\circ"}
+          ],
+          "answer": {"hi": "60^\\circ", "en": "60^\\circ"}
+        },
+        {
+          "q": {
+            "hi": "एक रेखाखंड AB = 8 cm है। A को केंद्र मानकर 4 cm का और B को केंद्र मानकर 3 cm त्रिज्या का वृत्त खींचा गया है। प्रत्येक वृत्त पर दूसरे वृत्त के केंद्र से कितनी स्पर्श रेखाएँ खींची जा सकती हैं?",
+            "en": "A line segment AB = 8 cm. A circle of 4 cm radius with center A and another of 3 cm radius with center B are drawn. From the center of each circle, how many tangents can be drawn to the other circle?"
+          },
+          "options": [
+            {"hi": "1", "en": "1"},
+            {"hi": "2 (एक स्पर्श रेखा युग्म) [Exactly two]", "en": "Exactly two"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "अपरिमित", "en": "Infinitely many"}
+          ],
+          "answer": {"hi": "2 (एक स्पर्श रेखा युग्म) [Exactly two]", "en": "Exactly two"}
+        },
+        {
+          "q": {
+            "hi": "एक समकोण त्रिभुज ABC में, AB = 6 cm, BC = 8 cm तथा कोण B = 90^\\circ है। कर्ण AC की लंबाई ज्यामितीय गणना से क्या होगी?",
+            "en": "In a right triangle ABC, AB = 6 cm, BC = 8 cm, and angle B = 90^\\circ. What will be the length of the hypotenuse AC by geometric calculation?"
+          },
+          "options": [
+            {"hi": "10 cm", "en": "10 cm"},
+            {"hi": "14 cm", "en": "14 cm"},
             {"hi": "9 cm", "en": "9 cm"},
-            {"hi": "13 cm", "en": "13 cm"}
+            {"hi": "7.5 cm", "en": "7.5 cm"}
           ],
-          "answer": {"hi": "5 cm", "en": "5 cm"}
+          "answer": {"hi": "10 cm", "en": "10 cm"}
         },
         {
           "q": {
-            "hi": "किसी कोण को समद्विभाजित करते समय लगाए गए चाप किस बिंदु से शुरू होते हैं?",
-            "en": "While bisecting an angle, arcs start from which points?"
+            "hi": "यदि समकोण त्रिभुज ABC में B से AC पर BD लंब डाला जाए, तो बिंदुओं B, C, D से होकर जाने वाले वृत्त का व्यास कौन सी भुजा होगी?",
+            "en": "If in a right triangle ABC, BD is perpendicular from B to AC, which side will be the diameter of the circle passing through points B, C, D?"
           },
           "options": [
-            {"hi": "शीर्ष से", "en": "From the vertex"},
-            {"hi": "जहाँ मुख्य चाप भुजाओं को काटता है", "en": "Where the main arc intersects the sides"},
-            {"hi": "किरण के अंत से", "en": "From end of the ray"},
-            {"hi": "कहीं से भी", "en": "Anywhere"}
+            {"hi": "AB", "en": "AB"},
+            {"hi": "BC (क्योंकि कोण BDC समकोण है)", "en": "BC (since angle BDC is a right angle)"},
+            {"hi": "AC", "en": "AC"},
+            {"hi": "BD", "en": "BD"}
           ],
-          "answer": {"hi": "जहाँ मुख्य चाप भुजाओं को काटता है", "en": "Where the main arc intersects the sides"}
+          "answer": {"hi": "BC (क्योंकि कोण BDC समकोण है)", "en": "BC (since angle BDC is a right angle)"}
         },
         {
           "q": {
-            "hi": "परकार (Compass) का उपयोग मुख्य रूप से क्या बनाने के लिए किया जाता है?",
-            "en": "Compass is primarily used to draw what?"
+            "hi": "बिंदुओं B, C, D से होकर जाने वाले वृत्त का केंद्र कहाँ स्थित होगा?",
+            "en": "Where will the center of the circle passing through points B, C, D be located?"
           },
           "options": [
-            {"hi": "सीधी रेखा", "en": "Straight line"},
-            {"hi": "वृत्त या चाप", "en": "Circle or Arc"},
-            {"hi": "लंबाई मापना", "en": "Measure length"},
-            {"hi": "कोण मापना", "en": "Measure angle"}
+            {"hi": "भुजा BC के मध्य बिंदु पर", "en": "At the mid-point of side BC"},
+            {"hi": "बिंदु B पर", "en": "At point B"},
+            {"hi": "भुजा AC के मध्य बिंदु पर", "en": "At the mid-point of side AC"},
+            {"hi": "त्रिभुज के बाहर", "en": "Outside the triangle"}
           ],
-          "answer": {"hi": "वृत्त या चाप", "en": "Circle or Arc"}
+          "answer": {"hi": "भुजा BC के मध्य बिंदु पर", "en": "At the mid-point of side BC"}
         },
         {
           "q": {
-            "hi": "7.5° का कोण बनाने के लिए 60° के कोण को कितनी बार समद्विभाजित करना पड़ेगा?",
-            "en": "How many times does a 60° angle need to be bisected to get a 7.5° angle?"
+            "hi": "किसी रेखाखंड को दिए गए अनुपात $m : n$ में विभाजित करने की प्रक्रिया में किरण AX पर कुल $m+n$ बिंदु अंकित करने का सिद्धांत किस गणितीय अवधारणा पर आधारित है?",
+            "en": "In the process of dividing a line segment in a given ratio $m : n$, the principle of marking $m+n$ points on ray AX is based on which mathematical concept?"
           },
           "options": [
-            {"hi": "दो बार", "en": "Two times"},
-            {"hi": "तीन बार", "en": "Three times"},
-            {"hi": "चार बार", "en": "Four times"},
-            {"hi": "पाँच बार", "en": "Five times"}
+            {"hi": "समान खंड विभाजन (Equal intercept division)", "en": "Equal intercept division"},
+            {"hi": "क्षेत्रफल विभाजन", "en": "Area division"},
+            {"hi": "कोण समद्विभाजन", "en": "Angle bisection"},
+            {"hi": "त्रिकोणमितीय अनुपात", "en": "Trigonometric ratio"}
           ],
-          "answer": {"hi": "तीन बार", "en": "Three times"}
+          "answer": {"hi": "समान खंड विभाजन (Equal intercept division)", "en": "Equal intercept division"}
         },
         {
           "q": {
-            "hi": "पटरी और परकार से कौन सा कोण नहीं बनाया जा सकता?",
-            "en": "Which angle cannot be constructed using ruler and compass?"
+            "hi": "यदि किसी बाह्य बिंदु P से वृत्त के केंद्र O की दूरी वृत्त की त्रिज्या के बराबर हो जाए, तो P से वृत्त पर कितनी स्पर्श रेखाएँ खींची जा सकती हैं?",
+            "en": "If the distance of an external point P from the center O of a circle becomes equal to the radius of the circle, how many tangents can be drawn from P to the circle?"
           },
           "options": [
-            {"hi": "37.5°", "en": "37.5°"},
-            {"hi": "40°", "en": "40°"},
-            {"hi": "52.5°", "en": "52.5°"},
-            {"hi": "150°", "en": "150°"}
-          ],
-          "answer": {"hi": "40°", "en": "40°"}
-        },
-        {
-          "q": {
-            "hi": "120° का कोण बनाने के लिए प्रारंभिक बिंदु से कितने समान चाप लगाने होते हैं?",
-            "en": "How many equal arcs must be drawn from the initial point to make a 120° angle?"
-          },
-          "options": [
-            {"hi": "एक", "en": "One"},
             {"hi": "दो", "en": "Two"},
-            {"hi": "तीन", "en": "Three"},
-            {"hi": "चार", "en": "Four"}
+            {"hi": "केवल एक (क्योंकि बिंदु परिधि पर आ जाएगा)", "en": "Only one (since the point will lie on the circumference)"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "अपरिमित", "en": "Infinitely many"}
           ],
-          "answer": {"hi": "दो", "en": "Two"}
-        },
-        {
-          "q": {
-            "hi": "त्रिभुज रचना में आधार कोणों के समद्विभाजक जहाँ मिलते हैं, वह बिंदु क्या कहलाता है?",
-            "en": "The point where the bisectors of base angles meet in triangle construction is called?"
-          },
-          "options": [
-            {"hi": "शीर्ष", "en": "Vertex"},
-            {"hi": "केंद्र", "en": "Center"},
-            {"hi": "अंत:केंद्र", "en": "Incenter"},
-            {"hi": "एक नया बिंदु", "en": "A new point"}
-          ],
-          "answer": {"hi": "एक नया बिंदु", "en": "A new point"}
-        },
-        {
-          "q": {
-            "hi": "पटरी (Ruler) पर दिए गए चिह्न क्या दर्शाते हैं?",
-            "en": "What do the marks on a ruler represent?"
-          },
-          "options": [
-            {"hi": "इकाई (जैसे cm, mm)", "en": "Units (like cm, mm)"},
-            {"hi": "कोण के अंश", "en": "Degrees of angle"},
-            {"hi": "वृत्त का क्षेत्रफल", "en": "Area of circle"},
-            {"hi": "केवल सजावट", "en": "Only decoration"}
-          ],
-          "answer": {"hi": "इकाई (जैसे cm, mm)", "en": "Units (like cm, mm)"}
+          "answer": {"hi": "केवल एक (क्योंकि बिंदु परिधि पर आ जाएगा)", "en": "Only one (since the point will lie on the circumference)"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "कोण 150° बनाने के लिए किन दो कोणों के बीच का समद्विभाजन किया जाता है?",
-            "en": "To construct 150°, which two angles are bisected?"
+            "hi": "पटरी और परकार की सहायता से निम्नलिखित में से किस कोण की रचना सीधे संभव नहीं है (बिना चांदे के)?",
+            "en": "Which of the following angles cannot be directly constructed using only a ruler and compass (without a protractor)?"
           },
           "options": [
-            {"hi": "120° और 180°", "en": "120° and 180°"},
-            {"hi": "90° और 180°", "en": "90° and 180°"},
-            {"hi": "60° और 120°", "en": "60° and 120°"},
-            {"hi": "150° और 180°"}
+            {"hi": "60^\\circ", "en": "60^\\circ"},
+            {"hi": "45^\\circ", "en": "45^\\circ"},
+            {"hi": "40^\\circ", "en": "40^\\circ"},
+            {"hi": "90^\\circ", "en": "90^\\circ"}
           ],
-          "answer": {"hi": "120° और 180°", "en": "120° and 180°"}
+          "answer": {"hi": "40^\\circ", "en": "40^\\circ"}
         },
         {
           "q": {
-            "hi": "ज्यामितीय रचना में शुद्धता के लिए पेंसिल कैसी होनी चाहिए?",
-            "en": "For accuracy in geometric construction, how should the pencil be?"
+            "hi": "यदि समरूप त्रिभुज का स्केल गुणक $1$ हो, तो नया निर्मित त्रिभुज दिए गए त्रिभुज के कैसा होगा?",
+            "en": "If the scale factor of a similar triangle is $1$, how will the newly constructed triangle compare to the given triangle?"
           },
           "options": [
-            {"hi": "मोटी", "en": "Thick"},
-            {"hi": "नुकीली (Sharp)", "en": "Sharp"},
-            {"hi": "रंगीन", "en": "Colored"},
-            {"hi": "छोटी", "en": "Small"}
+            {"hi": "बड़ा", "en": "Larger"},
+            {"hi": "छोटा", "en": "Smaller"},
+            {"hi": "सर्वांगसम (Congruent / Identical)", "en": "Congruent / Identical"},
+            {"hi": "विपरीत", "en": "Opposite"}
           ],
-          "answer": {"hi": "नुकीली (Sharp)", "en": "Sharp"}
+          "answer": {"hi": "सर्वांगसम (Congruent / Identical)", "en": "Congruent / Identical"}
         },
         {
           "q": {
-            "hi": "यदि त्रिभुज PQR में PQ = 6cm, QR = 10cm और ∠Q = 60° है, तो रचना के लिए सबसे पहले क्या खींचना उचित है?",
-            "en": "In triangle PQR if PQ=6cm, QR=10cm and ∠Q=60°, what is best to draw first?"
+            "hi": "किसी बाह्य बिंदु से वृत्त पर खींची गई दोनों स्पर्श रेखाओं की लंबाइयों के बीच क्या संबंध होता है?",
+            "en": "What is the relation between the lengths of two tangents drawn from an external point to a circle?"
           },
           "options": [
-            {"hi": "कोण Q", "en": "Angle Q"},
-            {"hi": "QR भुजा", "en": "Side QR"},
-            {"hi": "PQ भुजा", "en": "Side PQ"},
-            {"hi": "PR भुजा", "en": "Side PR"}
+            {"hi": "पहली स्पर्श रेखा हमेशा बड़ी होती है", "en": "The first tangent is always larger"},
+            {"hi": "दोनों स्पर्श रेखाओं की लंबाइयाँ समान होती हैं (Equal)", "en": "The lengths of both tangents are equal"},
+            {"hi": "दूसरी स्पर्श रेखा बड़ी होती है", "en": "The second tangent is larger"},
+            {"hi": "त्रिज्या पर निर्भर करता है", "en": "Depends on the radius"}
           ],
-          "answer": {"hi": "QR भुजा", "en": "Side QR"}
+          "answer": {"hi": "दोनों स्पर्श रेखाओं की लंबाइयाँ समान होती हैं (Equal)", "en": "Adjusting parameter values evenly values"}
         },
         {
           "q": {
-            "hi": "चाँदा (Protractor) का मुख्य उपयोग क्या है?",
-            "en": "What is the primary use of a protractor?"
+            "hi": "वृत्त की स्पर्श रेखा की रचना करते समय, अर्धवृत्त में बना कोण समकोण होने का सिद्धांत किस यूनानी गणितज्ञ के प्रमेय से भी जुड़ा है?",
+            "en": "While constructing a tangent to a circle, the principle that an angle in a semicircle is a right angle is also related to the theorem of which Greek mathematician?"
           },
           "options": [
-            {"hi": "रेखा खींचना", "en": "Draw a line"},
-            {"hi": "कोण मापना", "en": "Measure angles"},
-            {"hi": "वृत्त बनाना", "en": "Draw circles"},
-            {"hi": "दूरी मापना", "en": "Measure distance"}
+            {"hi": "पाइथागोरस", "en": "Pythagoras"},
+            {"hi": "थेल्स (Thales)", "en": "Thales"},
+            {"hi": "यूक्लिड", "en": "Euclid"},
+            {"hi": "आर्किमिडीज़", "en": "Archimedes"}
           ],
-          "answer": {"hi": "कोण मापना", "en": "Measure angles"}
+          "answer": {"hi": "थेल्स (Thales)", "en": "Thales"}
         },
         {
           "q": {
-            "hi": "रचना के अंत में अभीष्ट आकृति को कैसे दिखाया जाता है?",
-            "en": "How is the required figure shown at the end of construction?"
+            "hi": "यदि एक नए त्रिभुज की रचना करनी है जिसकी भुजाएँ दिए गए त्रिभुज की भुजाओं की $2/3$ गुनी हों, तो यह रचना स्केल गुणक की किस श्रेणी में आएगी?",
+            "en": "If a new triangle is to be constructed whose sides are $2/3$ times the sides of the given triangle, under which category of scale factor will this construction fall?"
           },
           "options": [
-            {"hi": "हल्की रेखाओं से", "en": "With light lines"},
-            {"hi": "गहरी रेखाओं से", "en": "With dark/bold lines"},
-            {"hi": "बिंदुओं से", "en": "With dots"},
-            {"hi": "मिटाकर", "en": "By erasing"}
+            {"hi": "स्केल गुणक > 1", "en": "Scale factor > 1"},
+            {"hi": "An अचर गुणक", "en": "A constant factor"},
+            {"hi": "स्केल गुणक < 1 (एक से कम)", "en": "Scale factor < 1 (less than one)"},
+            {"hi": "शून्य गुणक", "en": "Zero factor"}
           ],
-          "answer": {"hi": "गहरी रेखाओं से", "en": "With dark/bold lines"}
+          "answer": {"hi": "स्केल गुणक < 1 (एक से कम)", "en": "Scale factor < 1 (less than one)"}
         },
         {
           "q": {
-            "hi": "किसी रेखा के बाहर स्थित बिंदु से उस पर लंब खींचने की प्रक्रिया क्या कहलाती है?",
-            "en": "What is the process of drawing a perpendicular to a line from an external point called?"
+            "hi": "5 cm त्रिज्या वाले एक वृत्त के केंद्र O से 13 cm की दूरी पर एक बिंदु P स्थित है। P से वृत्त पर खींची गई स्पर्श रेखा की लंबाई क्या होगी?",
+            "en": "A point P is located at a distance of 13 cm from the center O of a circle of radius 5 cm. What will be the length of the tangent drawn from P to the circle?"
           },
           "options": [
-            {"hi": "समद्विभाजन", "en": "Bisection"},
-            {"hi": "लंब रचना", "en": "Perpendicular construction"},
-            {"hi": "समांतर रचना", "en": "Parallel construction"},
-            {"hi": "प्रतिच्छेदन", "en": "Intersection"}
+            {"hi": "8 cm", "en": "8 cm"},
+            {"hi": "12 cm", "en": "12 cm"},
+            {"hi": "14 cm", "en": "14 cm"},
+            {"hi": "18 cm", "en": "18 cm"}
           ],
-          "answer": {"hi": "लंब रचना", "en": "Perpendicular construction"}
+          "answer": {"hi": "12 cm", "en": "12 cm"}
         },
         {
           "q": {
-            "hi": "डिवाइडर (Divider) का उपयोग किस लिए किया जाता है?",
-            "en": "What is a divider used for?"
+            "hi": "एक रेखाखंड को दिए गए अनुपात में विभाजित करने की रचना में क्या रेखाखंड की मूल लंबाई का बदलना आवश्यक है?",
+            "en": "In the construction to divide a line segment in a given ratio, is it necessary to change the original length of the line segment?"
           },
           "options": [
-            {"hi": "कोण बनाने के लिए", "en": "To make angles"},
-            {"hi": "लंबाई की तुलना करने के लिए", "en": "To compare lengths"},
-            {"hi": "वृत्त बनाने के लिए", "en": "To draw circles"},
-            {"hi": "रेखा मिटाने के लिए", "en": "To erase lines"}
+            {"hi": "हाँ, वह बदल जाती है", "en": "Yes, it changes"},
+            {"hi": "नहीं, रेखाखंड की मूल लंबाई अपरिवर्तित रहती है", "en": "No, the original length of the line segment remains unchanged"},
+            {"hi": "केवल विशेष अनुपातों में बदलती है", "en": "Changes only in special ratios"},
+            {"hi": "अनुपात पर निर्भर करता है", "en": "Depends on the ratio"}
           ],
-          "answer": {"hi": "लंबाई की तुलना करने के लिए", "en": "To compare lengths"}
+          "answer": {"hi": "नहीं, रेखाखंड की मूल लंबाई अपरिवर्तित रहती है", "en": "No, the original length of the line segment remains unchanged"}
         },
         {
           "q": {
-            "hi": "60° का कोण बनाने के लिए किरण के प्रारंभिक बिंदु को क्या माना जाता है?",
-            "en": "In constructing a 60° angle, what is the initial point of the ray considered?"
+            "hi": "वृत्त के बाहर स्थित किसी बिंदु P से खींची गई स्पर्श रेखाएँ PA और PB हैं। यदि कोण APB = 60^\\circ हो, तो त्रिभुज PAB किस प्रकार का त्रिभुज होगा?",
+            "en": "PA and PB are tangents drawn from an external point P to a circle. If angle APB = 60^\\circ, what type of triangle will triangle PAB be?"
           },
           "options": [
-            {"hi": "त्रिज्या", "en": "Radius"},
-            {"hi": "केंद्र", "en": "Center"},
-            {"hi": "शीर्ष", "en": "Vertex"},
-            {"hi": "परिधि", "en": "Circumference"}
+            {"hi": "समद्विबाहु त्रिभुज", "en": "Isosceles triangle"},
+            {"hi": "समबाहु त्रिभुज (Equilateral triangle)", "en": "Equilateral triangle"},
+            {"hi": "विषमबाहु त्रिभुज", "en": "Scalene triangle"},
+            {"hi": "समकोण त्रिभुज", "en": "Right-angled triangle"}
           ],
-          "answer": {"hi": "केंद्र", "en": "Center"}
+          "answer": {"hi": "समबाहु त्रिभुज (Equilateral triangle)", "en": "Equilateral triangle"}
         },
         {
           "q": {
-            "hi": "रचना 'दी गई किरण के प्रारंभिक बिंदु पर 60° के कोण की रचना' किस सिद्धांत पर आधारित है?",
-            "en": "The construction 'construct a 60° angle at the initial point of a given ray' is based on which principle?"
+            "hi": "पटरी और परकार से किसी रेखाखंड का लंब समद्विभाजक खींचने के लिए, परकार में रेखाखंड की आधी लंबाई से कैसा चाप (दूरी) लिया जाना आवश्यक है?",
+            "en": "To draw the perpendicular bisector of a line segment using a ruler and compass, what kind of arc (distance) must be taken in the compass relative to half the length of the line segment?"
           },
           "options": [
-            {"hi": "समकोण त्रिभुज", "en": "Right triangle"},
-            {"hi": "समबाहु त्रिभुज", "en": "Equilateral triangle"},
-            {"hi": "समांतर चतुर्भुज", "en": "Parallelogram"},
-            {"hi": "वृत्त का व्यास", "en": "Diameter of circle"}
+            {"hi": "आधी लंबाई से कम", "en": "Less than half the length"},
+            {"hi": "आधी लंबाई से अधिक (More than half the length)", "en": "More than half the length"},
+            {"hi": "सटीक आधी लंबाई", "en": "Exactly half the length"},
+            {"hi": "कोई भी छोटी दूरी", "en": "Any short distance"}
           ],
-          "answer": {"hi": "समबाहु त्रिभुज", "en": "Equilateral triangle"}
+          "answer": {"hi": "आधी लंबाई से अधिक (More than half the length)", "en": "More than half the length"}
         },
         {
           "q": {
-            "hi": "कोण 45° बनाने के लिए 90° के कोण को कितनी बार समद्विभाजित किया जाता है?",
-            "en": "How many times is a 90° angle bisected to make a 45° angle?"
+            "hi": "इस अध्याय की सभी रचनाओं का मुख्य उद्देश्य पटरी और परकार का उपयोग करके आकृतियों को किस रूप में निर्मित करना है?",
+            "en": "What is the main purpose of all constructions in this chapter using a ruler and compass to create figures?"
           },
           "options": [
-            {"hi": "एक बार", "en": "One time"},
-            {"hi": "दो बार", "en": "Two times"},
-            {"hi": "तीन बार", "en": "Three times"},
-            {"hi": "शून्य", "en": "Zero"}
+            {"hi": "अनुमानित रूप में", "en": "In an approximate manner"},
+            {"hi": "शुद्ध और यथार्थ रूप में (Accurate and precise form)", "en": "Accurate and precise form"},
+            {"hi": "केवल सजावटी रूप में", "en": "In a decorative manner only"},
+            {"hi": "अस्पष्ट रूप में", "en": "In an unclear manner"}
           ],
-          "answer": {"hi": "एक बार", "en": "One time"}
+          "answer": {"hi": "शुद्ध और यथार्थ रूप में (Accurate and precise form)", "en": "Accurate and precise form"}
         }
       ]
     },
