@@ -3972,665 +3972,665 @@
         }
       ]
     },
-    "chapter07":{
+    "chapter06a":{
       "section1": [
         {
           "q": {
-            "hi": "नेपाल भारत के किस दिशा में स्थित है?",
-            "en": "In which direction is Nepal located from India?"
+            "hi": "निम्नलिखित में से कौन-सी एक प्राकृतिक आपदा है?",
+            "en": "Which of the following is a natural disaster?"
           },
           "options": [
-            {"hi": "पूर्व", "en": "East"},
-            {"hi": "पश्चिम", "en": "West"},
-            {"hi": "उत्तर", "en": "North"},
-            {"hi": "दक्षिण", "en": "South"}
+            {"hi": "आग लगना", "en": "Fire outbreak"},
+            {"hi": "बम विस्फोट", "en": "Bomb blast"},
+            {"hi": "भूकम्प (Earthquake)", "en": "Earthquake"},
+            {"hi": "रासायनिक दुर्घटनाएँ", "en": "Chemical accidents"}
           ],
-          "answer": {"hi": "उत्तर", "en": "North"}
+          "answer": {"hi": "भूकम्प (Earthquake)", "en": "Earthquake"}
         },
         {
           "q": {
-            "hi": "नेपाल का कुल क्षेत्रफल कितना है?",
-            "en": "What is the total area of Nepal?"
+            "hi": "भूकम्प किस प्रकार की आपदा की श्रेणी में आता है?",
+            "en": "Under which category of disaster does an earthquake fall?"
           },
           "options": [
-            {"hi": "1,40,797 वर्ग कि.मी.", "en": "1,40,797 sq. km."},
-            {"hi": "2,40,797 वर्ग कि.मी.", "en": "2,40,797 sq. km."},
-            {"hi": "95,000 वर्ग कि.मी.", "en": "95,000 sq. km."},
-            {"hi": "1,80,000 वर्ग कि.मी.", "en": "1,80,000 sq. km."}
+            {"hi": "मानव जनित आपदा", "en": "Man-made disaster"},
+            {"hi": "प्राकृतिक आपदा (Natural Disaster)", "en": "Natural Disaster"},
+            {"hi": "सामान्य दुर्घटना", "en": "General accident"},
+            {"hi": "रासायनिक आपदा", "en": "Chemical disaster"}
           ],
-          "answer": {"hi": "1,40,797 वर्ग कि.मी.", "en": "1,40,797 sq. km."}
+          "answer": {"hi": "प्राकृतिक आपदा (Natural Disaster)", "en": "Natural Disaster"}
         },
         {
           "q": {
-            "hi": "नेपाल की राजधानी का नाम क्या है?",
-            "en": "What is the name of the capital of Nepal?"
+            "hi": "भूकम्प संभावित क्षेत्रों में भवनों की आकृति मुख्य रूप से कैसी होनी चाहिए?",
+            "en": "What should be the shape of buildings in earthquake-prone areas?"
           },
           "options": [
-            {"hi": "पोखरा", "en": "Pokhara"},
-            {"hi": "काठमांडू", "en": "Kathmandu"},
-            {"hi": "लुम्बिनी", "en": "Lumbini"},
-            {"hi": "विराटनगर", "en": "Biratnagar"}
+            {"hi": "अण्डाकार", "en": "Oval"},
+            {"hi": "त्रिभुजाकार", "en": "密Triangular"},
+            {"hi": "चौकोर", "en": "Square"},
+            {"hi": "आयताकार (Rectangular)", "en": "Rectangular"}
           ],
-          "answer": {"hi": "काठमांडू", "en": "Kathmandu"}
+          "answer": {"hi": "आयताकार (Rectangular)", "en": "Rectangular"}
         },
         {
           "q": {
-            "hi": "गौतम बुद्ध का जन्म स्थल 'लुम्बिनी' किस देश में स्थित है?",
-            "en": "In which country is 'Lumbini', the birthplace of Gautam Buddha, located?"
+            "hi": "भूस्खलन (Landslide) वाले क्षेत्रों में ढलान पर मकानों का निर्माण कैसा माना जाता है?",
+            "en": "How is the construction of houses on slopes in landslide-prone areas considered?"
           },
           "options": [
-            {"hi": "भारत", "en": "India"},
-            {"hi": "भूटान", "en": "Bhutan"},
-            {"hi": "श्रीलंका", "en": "Sri Lanka"},
-            {"hi": "नेपाल", "en": "Nepal"}
+            {"hi": "उचित", "en": "Appropriate"},
+            {"hi": "अनुचित और असुरक्षित (Unsafe)", "en": "Inappropriate and Unsafe"},
+            {"hi": "लाभकारी", "en": "Beneficial"},
+            {"hi": "उपयोगी", "en": "Useful"}
           ],
-          "answer": {"hi": "नेपाल", "en": "Nepal"}
+          "answer": {"hi": "अनुचित और असुरक्षित (Unsafe)", "en": "Inappropriate and Unsafe"}
         },
         {
           "q": {
-            "hi": "नेपाल के उत्तर में कौन-सा क्षेत्र स्थित है?",
-            "en": "Which region is located to the north of Nepal?"
+            "hi": "सुनामी प्रभावित क्षेत्रों में मकानों का निर्माण कहाँ किया जाना चाहिए?",
+            "en": "Where should houses be constructed in tsunami-affected areas?"
           },
           "options": [
-            {"hi": "बिहार", "en": "Bihar"},
-            {"hi": "तिब्बत (चीन)", "en": "Tibet (China)"},
-            {"hi": "सिक्किम", "en": "Sikkim"},
-            {"hi": "उत्तराखंड", "en": "Uttarakhand"}
+            {"hi": "समुद्र तट के बिल्कुल निकट", "en": "Very close to the sea coast"},
+            {"hi": "समुद्र तट से दूर ऊँचाई पर (Away from coast on high ground)", "en": "Away from the sea coast on high ground"},
+            {"hi": "समुद्र के भीतर", "en": "Inside the sea"},
+            {"hi": "समतल निचले मैदानों में", "en": "In flat low-lying plains"}
           ],
-          "answer": {"hi": "तिब्बत (चीन)", "en": "Tibet (China)"}
+          "answer": {"hi": "समुद्र तट से दूर ऊँचाई पर (Away from coast on high ground)", "en": "Away from the sea coast on high ground"}
         },
         {
           "q": {
-            "hi": "पशुपतिनाथ का प्रसिद्ध मंदिर कहाँ स्थित है?",
-            "en": "Where is the famous Pashupatinath Temple located?"
+            "hi": "बाढ़ आने पर सबसे अधिक हानि निम्नलिखित में से किसे पहुँचती है?",
+            "en": "Who suffers the maximum loss when a flood occurs?"
           },
           "options": [
-            {"hi": "जनकपुर", "en": "Janakpur"},
-            {"hi": "लुम्बिनी", "en": "Lumbini"},
-            {"hi": "काठमांडू", "en": "Kathmandu"},
-            {"hi": "मुक्तिनाथ", "en": "Muktinath"}
+            {"hi": "फसलों को", "en": "Crops"},
+            {"hi": "पशुओं को", "en": "Animals"},
+            {"hi": "भवनों को", "en": "Buildings"},
+            {"hi": "उपरोक्त सभी को (All of the above)", "en": "All of the above"}
           ],
-          "answer": {"hi": "काठमांडू", "en": "Kathmandu"}
+          "answer": {"hi": "उपरोक्त सभी को (All of the above)", "en": "All of the above"}
         },
         {
           "q": {
-            "hi": "भूटान का क्षेत्रफल कितना है?",
-            "en": "What is the area of Bhutan?"
+            "hi": "कृषि सुखाड़ (Agricultural Drought) मुख्य रूप से किसकी कमी के कारण होता है?",
+            "en": "Agricultural drought occurs mainly due to the lack of what?"
           },
           "options": [
-            {"hi": "30,500 वर्ग कि.मी.", "en": "30,500 sq. km."},
-            {"hi": "46,500 वर्ग कि.मी.", "en": "46,500 sq. km."},
-            {"hi": "55,000 वर्ग कि.मी.", "en": "55,000 sq. km."},
-            {"hi": "40,000 वर्ग कि.मी.", "en": "40,000 sq. km."}
+            {"hi": "जल एवं मिट्टी की नमी के अभाव में", "en": "Lack of water and soil moisture"},
+            {"hi": "मिट्टी की लवणता के कारण", "en": "Due to soil salinity"},
+            {"hi": "कीटनाशकों के अभाव में", "en": "Due to lack of pesticides"},
+            {"hi": "अत्यधिक उर्वरक से", "en": "Due to excessive fertilizer"}
           ],
-          "answer": {"hi": "46,500 वर्ग कि.मी.", "en": "46,500 sq. km."}
+          "answer": {"hi": "जल एवं मिट्टी की नमी के अभाव में", "en": "Lack of water and soil moisture"}
         },
         {
           "q": {
-            "hi": "भूटान की राजधानी क्या है?",
-            "en": "What is the capital of Bhutan?"
+            "hi": "26 जनवरी, 2001 को भारत के किस स्थान पर अत्यंत विनाशकारी भूकम्प आया था?",
+            "en": "At which place in India did a highly destructive earthquake occur on January 26, 2001?"
           },
           "options": [
-            {"hi": "पारो", "en": "Paro"},
-            {"hi": "पुनाखा", "en": "Punakha"},
-            {"hi": "थिम्पू", "en": "Thimphu"},
-            {"hi": "हा", "en": "Haa"}
+            {"hi": "भुज (गुजरात)", "en": "Bhuj (Gujarat)"},
+            {"hi": "लातूर (महाराष्ट्र)", "en": "Latur (Maharashtra)"},
+            {"hi": "चमोली (उत्तराखंड)", "en": "Chamoli (Uttarakhand)"},
+            {"hi": "पटना (बिहार)", "en": "Patna (Bihar)"}
           ],
-          "answer": {"hi": "थिम्पू", "en": "Thimphu"}
+          "answer": {"hi": "भुज (गुजरात)", "en": "Bhuj (Gujarat)"}
         },
         {
           "q": {
-            "hi": "भूटान के दक्षिण में भारत के कौन-से राज्य स्थित हैं?",
-            "en": "Which Indian states are located to the south of Bhutan?"
+            "hi": "भुज में आए 2001 के भूकम्प की तीव्रता रिक्टर स्केल पर कितनी मापी गई थी?",
+            "en": "What was the intensity of the 2001 Bhuj earthquake measured on the Richter scale?"
           },
           "options": [
-            {"hi": "बिहार एवं उत्तर प्रदेश", "en": "Bihar and Uttar Pradesh"},
-            {"hi": "असम एवं पश्चिम बंगाल", "en": "Assam and West Bengal"},
-            {"hi": "सिक्किम एवं अरुणाचल", "en": "Sikkim and Arunachal"},
-            {"hi": "मेघालय एवं त्रिपुरा", "en": "Meghalaya and Tripura"}
+            {"hi": "5.5", "en": "5.5"},
+            {"hi": "6.9", "en": "6.9"},
+            {"hi": "7.8", "en": "7.8"},
+            {"hi": "8.2", "en": "8.2"}
           ],
-          "answer": {"hi": "असम एवं पश्चिम बंगाल", "en": "Assam and West Bengal"}
+          "answer": {"hi": "6.9", "en": "6.9"}
         },
         {
           "q": {
-            "hi": "नेपाल की सबसे ऊँची चोटी कौन-सी है?",
-            "en": "Which is the highest peak in Nepal?"
+            "hi": "आपदा प्रबंधन का मुख्य उद्देश्य क्या होता है?",
+            "en": "What is the main objective of disaster management?"
           },
           "options": [
-            {"hi": "कंचनजंगा", "en": "Kanchenjunga"},
-            {"hi": "माउंट एवरेस्ट", "en": "Mount Everest"},
-            {"hi": "धौलागिरि", "en": "Dhaulagiri"},
-            {"hi": "अन्नपूर्णा", "en": "Annapurna"}
+            {"hi": "आपदाओं को पूरी तरह रोकना", "en": "To stop disasters completely"},
+            {"hi": "जान-माल की क्षति को न्यूनतम करना (To minimize loss of life and property)", "en": "To minimize the loss of life and property"},
+            {"hi": "आपदा के बाद केवल राजनीति करना", "en": "Only to do politics after disaster"},
+            {"hi": "लोगों को डराना", "en": "To scare people"}
           ],
-          "answer": {"hi": "माउंट एवरेस्ट", "en": "Mount Everest"}
+          "answer": {"hi": "जान-माल की क्षति को न्यूनतम करना (To minimize loss of life and property)", "en": "To minimize the loss of life and property"}
         }
       ],
       "section2": [
         {
           "q": {
-            "hi": "भूटान का सबसे ऊँचा पर्वत शिखर कौन-सा है?",
-            "en": "Which is the highest mountain peak in Bhutan?"
+            "hi": "भूकम्प के झटके महसूस होने पर तुरंत कहाँ जाना चाहिए?",
+            "en": "Where should one go immediately upon feeling earthquake tremors?"
           },
           "options": [
-            {"hi": "जोमोलहारी", "en": "Chomolhari"},
-            {"hi": "कुला कांगड़ी", "en": "Kula Kangri"},
-            {"hi": "ब्लैक माउंटेन", "en": "Black Mountain"},
-            {"hi": "थिमगांग", "en": "Thimgang"}
+            {"hi": "मकान की ऊपरी मंजिल पर", "en": "To the top floor of the house"},
+            {"hi": "खुले मैदान में (To an open ground)", "en": "To an open ground"},
+            {"hi": "कमरे के कोने में अलमारी के पीछे", "en": "Behind the wardrobe in the room corner"},
+            {"hi": "भारी वृक्षों के नीचे", "en": "Under heavy trees"}
           ],
-          "answer": {"hi": "कुला कांगड़ी", "en": "Kula Kangri"}
+          "answer": {"hi": "खुले मैदान में (To an open ground)", "en": "To an open ground"}
         },
         {
           "q": {
-            "hi": "बांग्लादेश का जन्म कब हुआ?",
-            "en": "When was Bangladesh born?"
+            "hi": "यदि भूकम्प के समय घर से बाहर निकलना संभव न हो, तो कहाँ शरण लेनी चाहिए?",
+            "en": "If it is not possible to exit the house during an earthquake, where should one take shelter?"
           },
           "options": [
-            {"hi": "1947", "en": "1947"},
-            {"hi": "1952", "en": "1952"},
-            {"hi": "1971", "en": "1971"},
-            {"hi": "1980", "en": "1980"}
+            {"hi": "मजबूत मेज या पलंग के नीचे (Under a strong table or bed)", "en": "Under a strong table or bed"},
+            {"hi": "कांच की खिड़की के पास", "en": "Near a glass window"},
+            {"hi": "बिजली के मुख्य स्विच के पास", "en": "Near the main electricity switch"},
+            {"hi": "रसोई गैस सिलेंडर के पास", "en": "Near the kitchen gas cylinder"}
           ],
-          "answer": {"hi": "1971", "en": "1971"}
+          "answer": {"hi": "मजबूत मेज या पलंग के नीचे (Under a strong table or bed)", "en": "Under a strong table or bed"}
         },
         {
           "q": {
-            "hi": "बांग्लादेश की राजधानी क्या है?",
-            "en": "What is the capital of Bangladesh?"
+            "hi": "भूकम्प रोधी मकानों के निर्माण में नींव कैसी होनी चाहिए?",
+            "en": "How should the foundation be in the construction of earthquake-resistant houses?"
           },
           "options": [
-            {"hi": "खुलना", "en": "Khulna"},
-            {"hi": "चटगाँव", "en": "Chittagong"},
-            {"hi": "ढाका", "en": "Dhaka"},
-            {"hi": "सिलहट", "en": "Sylhet"}
+            {"hi": "बहुत उथली और कमजोर", "en": "Very shallow and weak"},
+            {"hi": "ठोस, गहरी और कंक्रीट युक्त (Solid and deep)", "en": "Solid, deep and reinforced"},
+            {"hi": "केवल ईंटों की बिना सीमेंट वाली", "en": "Only of bricks without cement"},
+            {"hi": "नींव की कोई आवश्यकता नहीं होती", "en": "There is no need for a foundation"}
           ],
-          "answer": {"hi": "ढाका", "en": "Dhaka"}
+          "answer": {"hi": "ठोस, गहरी LOGO कंक्रीट युक्त (Solid and deep)", "en": "Solid, deep and reinforced"}
         },
         {
           "q": {
-            "hi": "बांग्लादेश का कुल क्षेत्रफल कितना है?",
-            "en": "What is the total area of Bangladesh?"
+            "hi": "भूकम्प संभावित क्षेत्रों में भवनों के निर्माण में किस प्रकार के पत्थरों या ईंटों का प्रयोग करना चाहिए?",
+            "en": "What type of stones or bricks should be used in building construction in earthquake-prone areas?"
           },
           "options": [
-            {"hi": "1,47,570 वर्ग कि.मी.", "en": "1,47,570 sq. km."},
-            {"hi": "1,00,000 वर्ग कि.मी.", "en": "1,00,000 sq. km."},
-            {"hi": "2,47,000 वर्ग कि.मी.", "en": "2,47,000 sq. km."},
-            {"hi": "1,20,000 वर्ग कि.मी.", "en": "1,20,000 sq. km."}
+            {"hi": "अत्यंत भारी और असमान आकार के", "en": "Extremely heavy and irregular shaped"},
+            {"hi": "हल्के और इंटरलॉकिंग वाले (Lightweight and interlocking)", "en": "Lightweight and interlocking bricks"},
+            {"hi": "मिट्टी के कच्चे पिंड", "en": "Raw mud blocks"},
+            {"hi": "शीशे के ब्लॉक", "en": "Glass blocks"}
           ],
-          "answer": {"hi": "1,47,570 वर्ग कि.मी.", "en": "1,47,570 sq. km."}
+          "answer": {"hi": "हल्के और इंटरलॉकिंग वाले (Lightweight and interlocking)", "en": "Lightweight and interlocking bricks"}
         },
         {
           "q": {
-            "hi": "बांग्लादेश के पूर्व में भारत का कौन-सा राज्य स्थित है?",
-            "en": "Which Indian state is located to the east of Bangladesh?"
+            "hi": "समुद्र के तल में होने वाले भूकम्प के कारण उत्पन्न होने वाली विनाशकारी लहरों को क्या कहते हैं?",
+            "en": "What are the destructive waves generated due to earthquakes in the sea bed called?"
           },
           "options": [
-            {"hi": "पश्चिम बंगाल", "en": "West Bengal"},
-            {"hi": "मेघालय", "en": "Meghalaya"},
-            {"hi": "त्रिपुरा", "en": "Tripura"},
-            {"hi": "असम", "en": "Assam"}
+            {"hi": "चक्रवात", "en": "Cyclone"},
+            {"hi": "ज्वार-भाटा", "en": "Tides"},
+            {"hi": "सुनामी (Tsunami)", "en": "Tsunami"},
+            {"hi": "लू", "en": "Heat wave"}
           ],
-          "answer": {"hi": "त्रिपुरा", "en": "Tripura"}
+          "answer": {"hi": "सुनामी (Tsunami)", "en": "Tsunami"}
         },
         {
           "q": {
-            "hi": "बांग्लादेश की सबसे लंबी नदी कौन-सी है?",
-            "en": "Which is the longest river in Bangladesh?"
+            "hi": "तटीय क्षेत्रों में सुनामी के प्रभाव को कम करने के लिए किन वृक्षों को कतारबद्ध लगाना चाहिए?",
+            "en": "Which trees should be planted in rows to reduce the impact of tsunami in coastal areas?"
           },
           "options": [
-            {"hi": "पद्मा", "en": "Padma"},
-            {"hi": "मेघना", "en": "Meghna"},
-            {"hi": "जमुना", "en": "Jamuna"},
-            {"hi": "सुरमा", "en": "Surma"}
+            {"hi": "मैंग्रोव वनस्पति / सुंदरी के वृक्ष (Mangroves)", "en": "Mangroves"},
+            {"hi": "चीड़ और देवदार", "en": "Pine and Deodar"},
+            {"hi": "कांटेंदार झाड़ियाँ", "en": "Thorny bushes"},
+            {"hi": "केले के पौधे", "en": "Banana plants"}
           ],
-          "answer": {"hi": "मेघना", "en": "Meghna"}
+          "answer": {"hi": "मैंग्रोव वनस्पति / सुंदरी के वृक्ष (Mangroves)", "en": "Mangroves"}
         },
         {
           "q": {
-            "hi": "ब्रह्मपुत्र नदी को बांग्लादेश में किस नाम से जाना जाता है?",
-            "en": "By what name is the Brahmaputra river known in Bangladesh?"
+            "hi": "सुनामी के आने की पूर्व सूचना देने वाले यंत्र को क्या कहा जाता है?",
+            "en": "What is the instrument that gives prior information about the arrival of a tsunami called?"
           },
           "options": [
-            {"hi": "पद्मा", "en": "Padma"},
-            {"hi": "जमुना", "en": "Jamuna"},
-            {"hi": "मेघना", "en": "Meghna"},
-            {"hi": "शांगपो", "en": "Tsangpo"}
+            {"hi": "सिस्मीमीटर", "en": "Seismometer"},
+            {"hi": "सुनामीमीटर / सुनामीटर (Tsunameter)", "en": "Tsunameter"},
+            {"hi": "थर्मामीटर", "en": "Thermometer"},
+            {"hi": "बैरोमीटर", "en": "Barometer"}
           ],
-          "answer": {"hi": "जमुना", "en": "Jamuna"}
+          "answer": {"hi": "सुनामीमीटर / सुनामीटर (Tsunameter)", "en": "Tsunameter"}
         },
         {
           "q": {
-            "hi": "बांग्लादेश में गंगा नदी को किस नाम से पुकारा जाता है?",
-            "en": "By what name is the Ganga river called in Bangladesh?"
+            "hi": "पहाड़ी ढलानों पर मिट्टी और चट्टानों का तेजी से नीचे खिसकना क्या कहलाता है?",
+            "en": "What is the rapid sliding down of soil and rocks on hill slopes called?"
           },
           "options": [
-            {"hi": "मेघना", "en": "Meghna"},
-            {"hi": "जमुना", "en": "Jamuna"},
-            {"hi": "पद्मा", "en": "Padma"},
-            {"hi": "सुरमा", "en": "Surma"}
+            {"hi": "भूस्खलन (Landslide)", "en": "Landslide"},
+            {"hi": "बाढ़", "en": "Flood"},
+            {"hi": "सूखा", "en": "Drought"},
+            {"hi": "चक्रवात", "en": "Cyclone"}
           ],
-          "answer": {"hi": "पद्मा", "en": "Padma"}
+          "answer": {"hi": "भूस्खलन (Landslide)", "en": "Landslide"}
         },
         {
           "q": {
-            "hi": "श्रीलंका भारत से किस जलसंधि द्वारा अलग होता है?",
-            "en": "By which strait is Sri Lanka separated from India?"
+            "hi": "भूस्खलन को रोकने के लिए पहाड़ी ढलानों पर किस प्रकार की दीवारें बनाई जाती हैं?",
+            "en": "What type of walls are built on hill slopes to prevent landslides?"
           },
           "options": [
-            {"hi": "मन्नार की खाड़ी", "en": "Gulf of Mannar"},
-            {"hi": "पाक जलसंधि", "en": "Palk Strait"},
-            {"hi": "मालाक्का जलसंधि", "en": "Malacca Strait"},
-            {"hi": "बेरिंग जलसंधि", "en": "Bering Strait"}
+            {"hi": "प्रतिधारक दीवारें (Retaining Walls)", "en": "Retaining Walls"},
+            {"hi": "कांच की दीवारें", "en": "Glass walls"},
+            {"hi": "मिट्टी की कच्ची दीवारें", "en": "Mud walls"},
+            {"hi": "लकड़ी के घेरे", "en": "Wooden fences"}
           ],
-          "answer": {"hi": "पाक जलसंधि", "en": "Palk Strait"}
+          "answer": {"hi": "प्रतिधारक दीवारें (Retaining Walls)", "en": "Retaining Walls"}
         },
         {
           "q": {
-            "hi": "श्रीलंका का आकार किस तरह का है?",
-            "en": "What is the shape of Sri Lanka?"
+            "hi": "पहाड़ी क्षेत्रों में भूस्खलन के खतरों को कम करने के लिए कृषि की कौन-सी पद्धति अपनानी चाहिए?",
+            "en": "Which agricultural method should be adopted to reduce landslide risks in hilly areas?"
           },
           "options": [
-            {"hi": "वर्गाकार", "en": "Square"},
-            {"hi": "त्रिभुजाकार", "en": "Triangular"},
-            {"hi": "अंडाकार", "en": "Oval"},
-            {"hi": "आयताकार", "en": "Rectangular"}
+            {"hi": "सोपानी कृषि / सीढ़ीदार खेती (Terrace Farming)", "en": "Terrace Farming"},
+            {"hi": "झूम कृषि", "en": "Shifting cultivation"},
+            {"hi": "गहन कृषि", "en": "Intensive farming"},
+            {"hi": "कृषि कार्य पूरी तरह बंद कर देना चाहिए", "en": "Agriculture should be completely stopped"}
           ],
-          "answer": {"hi": "अंडाकार", "en": "Oval"}
+          "answer": {"hi": "सोपानी कृषि / सीढ़ीदार खेती (Terrace Farming)", "en": "Terrace Farming"}
         }
       ],
       "section3": [
         {
           "q": {
-            "hi": "श्रीलंका की राजधानी का नाम क्या है?",
-            "en": "What is the name of the capital of Sri Lanka?"
+            "hi": "भारत का लगभग कितना प्रतिशत भूभाग बाढ़ संभावित क्षेत्रों के अंतर्गत आता है?",
+            "en": "Approximately what percentage of India's land area falls under flood-prone zones?"
           },
           "options": [
-            {"hi": "कैंडी", "en": "Kandy"},
-            {"hi": "कोलंबो", "en": "Colombo"},
-            {"hi": "जाफना", "en": "Jaffna"},
-            {"hi": "गाले", "en": "Galle"}
+            {"hi": "12 प्रतिशत", "en": "12 percent"},
+            {"hi": "25 प्रतिशत", "en": "25 percent"},
+            {"hi": "40 प्रतिशत", "en": "40 percent"},
+            {"hi": "5 प्रतिशत", "en": "5 percent"}
           ],
-          "answer": {"hi": "कोलंबो", "en": "Colombo"}
+          "answer": {"hi": "12 प्रतिशत", "en": "12 percent"}
         },
         {
           "q": {
-            "hi": "श्रीलंका का सबसे ऊँचा पर्वत शिखर कौन-सा है?",
-            "en": "Which is the highest mountain peak in Sri Lanka?"
+            "hi": "बिहार का कौन-सा भाग प्रतिवर्ष भयानक बाढ़ की चपेट में आता है?",
+            "en": "Which part of Bihar faces severe floods every year?"
           },
           "options": [
-            {"hi": "एडम्स पीक", "en": "Adam's Peak"},
-            {"hi": "पिदुरूतलागाला", "en": "Pidurutalagala"},
-            {"hi": "नुवारा एलिया", "en": "Nuwara Eliya"},
-            {"hi": "महावेली गंगा", "en": "Mahaweli Ganga"}
+            {"hi": "दक्षिणी बिहार", "en": "Southern Bihar"},
+            {"hi": "उत्तरी बिहार (Northern Bihar)", "en": "Northern Bihar"},
+            {"hi": "पूर्वी बिहार", "en": "Eastern Bihar"},
+            {"hi": "पश्चिमी पहाड़ी भाग", "en": "Western hilly part"}
           ],
-          "answer": {"hi": "पिदुरूतलागाला", "en": "Pidurutalagala"}
+          "answer": {"hi": "उत्तरी बिहार (Northern Bihar)", "en": "Northern Bihar"}
         },
         {
           "q": {
-            "hi": "पाकिस्तान की राजधानी का नाम क्या है?",
-            "en": "What is the name of the capital of Pakistan?"
+            "hi": "उत्तरी बिहार में बाढ़ लाने वाली सबसे विनाशकारी नदी किसे माना जाता है, जिसे 'बिहार का शोक' कहते हैं?",
+            "en": "Which river is considered the most destructive causing floods in Northern Bihar, known as the 'Sorrow of Bihar'?"
           },
           "options": [
-            {"hi": "कराची", "en": "Karachi"},
-            {"hi": "लाहौर", "en": "Lahore"},
-            {"hi": "इस्लामाबाद", "en": "Islamabad"},
-            {"hi": "पेशावर", "en": "Peshawar"}
+            {"hi": "गंगा नदी", "en": "Ganga River"},
+            {"hi": "कोसी नदी (Kosi River)", "en": "Kosi River"},
+            {"hi": "सोन नदी", "en": "Son River"},
+            {"hi": "पुनपुन नदी", "en": "Punpun River"}
           ],
-          "answer": {"hi": "इस्लामाबाद", "en": "Islamabad"}
+          "answer": {"hi": "कोसी नदी (Kosi River)", "en": "Kosi River"}
         },
         {
           "q": {
-            "hi": "पाकिस्तान का सबसे बड़ा हवाई अड्डा कहाँ स्थित है?",
-            "en": "Where is the largest airport of Pakistan located?"
+            "hi": "नदियों में बाढ़ आने का मुख्य वैज्ञानिक कारण क्या है?",
+            "en": "What is the main scientific cause of floods in rivers?"
           },
           "options": [
-            {"hi": "इस्लामाबाद", "en": "Islamabad"},
-            {"hi": "लाहौर", "en": "Lahore"},
-            {"hi": "कराची", "en": "Karachi"},
-            {"hi": "मुल्तान", "en": "Multan"}
+            {"hi": "नदी की तली में मलबे/गाद का जमाव और जल की अधिकता", "en": "Deposition of debris/silt in river bed and excess water"},
+            {"hi": "नदियों में मछलियों की अधिकता", "en": "Excess of fish in rivers"},
+            {"hi": "नदी के पानी का सूख जाना", "en": "Drying up of river water"},
+            {"hi": "नदी पर बड़े पुलों का निर्माण", "en": "Construction of big bridges on rivers"}
           ],
-          "answer": {"hi": "कराची", "en": "Karachi"}
+          "answer": {"hi": "नदी की तली में मलबे/गाद का जमाव और जल की अधिकता", "en": "Deposition of debris/silt in river bed and excess water"}
         },
         {
           "q": {
-            "hi": "पाकिस्तान की सबसे प्रसिद्ध पर्वत चोटी 'तख्त-ए-सुलेमान' की ऊँचाई कितनी है?",
-            "en": "What is the height of Pakistan's most famous peak 'Takht-i-Sulaiman'?"
+            "hi": "बाढ़ के पानी के फैलाव को रोकने के लिए नदियों के दोनों किनारों पर क्या बनाया जाता है?",
+            "en": "What is constructed on both banks of rivers to prevent the spread of floodwater?"
           },
           "options": [
-            {"hi": "3,750 मी.", "en": "3,750 m"},
-            {"hi": "3,770 मी.", "en": "3,770 m"},
-            {"hi": "3,700 मी.", "en": "3,700 m"},
-            {"hi": "4,400 मी.", "en": "4,400 m"}
+            {"hi": "तटबंध या बाँध (Embankments)", "en": "Embankments or Levees"},
+            {"hi": "पक्की सड़कें", "en": "Pucca roads"},
+            {"hi": "गहरी खाइयाँ", "en": "Deep trenches"},
+            {"hi": "मकान", "en": "Houses"}
           ],
-          "answer": {"hi": "3,770 मी.", "en": "3,770 m"}
+          "answer": {"hi": "तटबंध या बाँध (Embankments)", "en": "Embankments or Levees"}
         },
         {
           "q": {
-            "hi": "पाकिस्तान की प्रमुख नदी कौन-सी है?",
-            "en": "Which is the major river of Pakistan?"
+            "hi": "बाढ़ आने की स्थिति में लोगों को तुरंत कहाँ चले जाना चाहिए?",
+            "en": "Where should people go immediately in the event of a flood?"
           },
           "options": [
-            {"hi": "झेलम", "en": "Jhelum"},
-            {"hi": "चिनाब", "en": "Chenab"},
-            {"hi": "सिंधु", "en": "Indus"},
-            {"hi": "रावी", "en": "Ravi"}
+            {"hi": "उच्च स्थानों या ऊँचे टीलों पर (To high grounds)", "en": "To high grounds or elevated places"},
+            {"hi": "नदी के किनारे", "en": "Near the river bank"},
+            {"hi": "घर के तहखाने (बेसमेंट) में", "en": "In the basement of the house"},
+            {"hi": "गुफाओं में", "en": "In caves"}
           ],
-          "answer": {"hi": "सिंधु", "en": "Indus"}
+          "answer": {"hi": "उच्च स्थानों या ऊँचे टीलों पर (To high grounds)", "en": "To high grounds or elevated places"}
         },
         {
           "q": {
-            "hi": "सिंधु नदी पाकिस्तान में किस दिशा से किस दिशा की ओर बहती है?",
-            "en": "In which direction does the Indus river flow in Pakistan?"
+            "hi": "बाढ़ प्रभावित क्षेत्रों में जलजनित बीमारियों जैसे हैजा, डायरिया आदि से बचने के लिए पानी को कैसे पीना चाहिए?",
+            "en": "How should water be consumed to avoid waterborne diseases like cholera and diarrhea in flood-affected areas?"
           },
           "options": [
-            {"hi": "दक्षिण से उत्तर", "en": "South to North"},
-            {"hi": "पूर्व से पश्चिम", "en": "East to West"},
-            {"hi": "उत्तर से दक्षिण", "en": "North to South"},
-            {"hi": "पश्चिम से पूर्व", "en": "West to East"}
+            {"hi": "नदी का सीधा पानी", "en": "Direct river water"},
+            {"hi": "उबालकर या क्लोरीन युक्त करके (Boiled or chlorinated water)", "en": "Boiled or chlorinated water"},
+            {"hi": "बाढ़ के जमे हुए पानी को", "en": "Stagnant floodwater"},
+            {"hi": "बिना छाने", "en": "Without filtering"}
           ],
-          "answer": {"hi": "उत्तर से दक्षिण", "en": "North to South"}
+          "answer": {"hi": "उबालकर या क्लोरीन युक्त करके (Boiled or chlorinated water)", "en": "Boiled or chlorinated water"}
         },
         {
           "q": {
-            "hi": "पाकिस्तान का कौन-सा शहर खेल के सामान बनाने के लिए विश्व प्रसिद्ध है?",
-            "en": "Which city in Pakistan is world-famous for making sports goods?"
+            "hi": "औसत से बहुत कम वर्षा होने के कारण उत्पन्न होने वाली स्थिति को क्या कहा जाता है?",
+            "en": "What is the situation caused by much lower than average rainfall called?"
           },
           "options": [
-            {"hi": "कराची", "en": "Karachi"},
-            {"hi": "स्यालकोट", "en": "Sialkot"},
-            {"hi": "लाहौर", "en": "Lahore"},
-            {"hi": "पेशावर", "en": "Peshawar"}
+            {"hi": "बाढ़", "en": "Flood"},
+            {"hi": "सुखाड़ या सूखा (Drought)", "en": "Drought"},
+            {"hi": "भूस्खलन", "en": "Landslide"},
+            {"hi": "हिमपात", "en": "Snowfall"}
           ],
-          "answer": {"hi": "स्यालकोट", "en": "Sialkot"}
+          "answer": {"hi": "सुखाड़ या सूखा (Drought)", "en": "Drought"}
         },
         {
           "q": {
-            "hi": "श्रीलंका में नारियल और चाय की खेती सबसे अधिक कहाँ होती है?",
-            "en": "Where are coconut and tea cultivation most common in Sri Lanka?"
+            "hi": "सुखाड़ (सूखे) के प्रभाव को दीर्घकालिक रूप से कम करने का सबसे सर्वोत्तम उपाय क्या है?",
+            "en": "What is the best way to reduce the impact of drought in the long term?"
           },
           "options": [
-            {"hi": "उत्तरी भाग", "en": "Northern part"},
-            {"hi": "मध्यवर्ती पहाड़ी क्षेत्र", "en": "Central hilly area"},
-            {"hi": "तटीय मैदान", "en": "Coastal plain"},
-            {"hi": "दक्षिणी भाग", "en": "Southern part"}
+            {"hi": "वृक्षारोपण और वर्षा जल संग्रहण (Afforestation and Rainwater Harvesting)", "en": "Afforestation and Rainwater Harvesting"},
+            {"hi": "भूमिगत जल का अत्यधिक विदोहन", "en": "Excessive exploitation of groundwater"},
+            {"hi": "वनों की कटाई बढ़ाना", "en": "Increasing deforestation"},
+            {"hi": "तालाबों को पाटकर मकान बनाना", "en": "Filling up ponds to build houses"}
           ],
-          "answer": {"hi": "मध्यवर्ती पहाड़ी क्षेत्र", "en": "Central hilly area"}
+          "answer": {"hi": "वृक्षारोपण और वर्षा जल संग्रहण (Afforestation and Rainwater Harvesting)", "en": "Afforestation and Rainwater Harvesting"}
         },
         {
           "q": {
-            "hi": "बांग्लादेश का प्रमुख भोजन क्या है?",
-            "en": "What is the staple food of Bangladesh?"
+            "hi": "सूखे की स्थिति में मिट्टी की नमी को बनाए रखने के लिए कृषि की कौन-सी पद्धति उपयोगी है?",
+            "en": "Which farming practice is useful to maintain soil moisture during drought conditions?"
           },
           "options": [
-            {"hi": "गेहूँ और मांस", "en": "Wheat and Meat"},
-            {"hi": "चावल और मछली", "en": "Rice and Fish"},
-            {"hi": "मक्का और दाल", "en": "Maize and Dal"},
-            {"hi": "जौ और सब्जी", "en": "Barley and Vegetable"}
+            {"hi": "मल्चिंग या घास-फूस से ढकना (Mulching)", "en": "Mulching"},
+            {"hi": "गहरी और बार-बार जुताई करना", "en": "Deep and frequent plains"},
+            {"hi": "खेत खुला छोड़ देना", "en": "Leaving the field open"},
+            {"hi": "अत्यधिक रासायनिक उर्वरक डालना", "en": "Adding excessive chemical fertilizers"}
           ],
-          "answer": {"hi": "चावल और मछली", "en": "Rice and Fish"}
+          "answer": {"hi": "मल्चिंग या घास-फूस से ढकना (Mulching)", "en": "Mulching"}
         }
       ],
       "section4": [
         {
           "q": {
-            "hi": "नेपाल में विश्व का सबसे ऊँचा पर्वत माउंट एवरेस्ट को स्थानीय लोग क्या कहते हैं?",
-            "en": "What do local people call Mount Everest, the world's highest peak, in Nepal?"
+            "hi": "आपदा के समय राहत कार्य चलाने के लिए ग्रामीण स्तर पर किसकी भूमिका सबसे महत्वपूर्ण होती है?",
+            "en": "Whose role is most important at the village level for conducting relief operations during a disaster?"
           },
           "options": [
-            {"hi": "सागरमाथा", "en": "Sagarmatha"},
-            {"hi": "चोमोलुंगमा", "en": "Chomolungma"},
-            {"hi": "गौरीशंकर", "en": "Gaurishankar"},
-            {"hi": "धौलागिरि", "en": "Dhaulagiri"}
+            {"hi": "स्थानीय पंचायत और युवा स्वयंसेवकों की (Local Panchayat and youth volunteers)", "en": "Local Panchayat and youth volunteers"},
+            {"hi": "विदेशी एजेंसियों की", "en": "Foreign agencies"},
+            {"hi": "केवल सेना के जनरलों की", "en": "Only military generals"},
+            {"hi": "किसी की भूमिका नहीं होती", "en": "Nobody has a role"}
           ],
-          "answer": {"hi": "सागरमाथा", "en": "Sagarmatha"}
+          "answer": {"hi": "स्थानीय पंचायत और युवा स्वयंसेवकों की (Local Panchayat and youth volunteers)", "en": "Local Panchayat and youth volunteers"}
         },
         {
           "q": {
-            "hi": "नेपाल की प्रमुख नदी कौन-सी है?",
-            "en": "Which is the major river of Nepal?"
+            "hi": "आपदा पूर्व तैयारियों के तहत स्कूल के बच्चों को क्या सिखाया जाना चाहिए?",
+            "en": "What should school children be taught under pre-disaster preparedness?"
           },
           "options": [
-            {"hi": "कोसी", "en": "Kosi"},
-            {"hi": "गंडक", "en": "Gandak"},
-            {"hi": "कर्णाली", "en": "Karnali"},
-            {"hi": "उपर्युक्त सभी", "en": "All of the above"}
+            {"hi": "आपदा ड्रिल और प्राथमिक चिकित्सा (Disaster drill and First Aid)", "en": "Disaster drills and First Aid"},
+            {"hi": "केवल रोना", "en": "Only crying"},
+            {"hi": "भागदौड़ मचाना", "en": "Creating a stampede"},
+            {"hi": "घर में छिप जाना", "en": "Hiding in the house"}
           ],
-          "answer": {"hi": "उपर्युक्त सभी", "en": "All of the above"}
+          "answer": {"hi": "आपदा ड्रिल और प्राथमिक चिकित्सा (Disaster drill and First Aid)", "en": "Disaster drills and First Aid"}
         },
         {
           "q": {
-            "hi": "भूटान में ऊँचे पहाड़ों के बीच की घाटियों में कौन-सी नदी बहती है?",
-            "en": "Which river flows in the valleys between high mountains in Bhutan?"
+            "hi": "आपदा प्रबंधन अधिनियम (Disaster Management Act) भारत में किस वर्ष पारित किया गया था?",
+            "en": "In which year was the Disaster Management Act passed in India?"
           },
           "options": [
-            {"hi": "मानस", "en": "Manas"},
-            {"hi": "वांगचू", "en": "Wang Chu"},
-            {"hi": "संकोश", "en": "Sankosh"},
-            {"hi": "उपर्युक्त सभी", "en": "All of the above"}
+            {"hi": "2005 में (In 2005)", "en": "In 2005"},
+            {"hi": "1995 में", "en": "In 1995"},
+            {"hi": "2010 में", "en": "In 2010"},
+            {"hi": "1947 में", "en": "In 1947"}
           ],
-          "answer": {"hi": "उपर्युक्त सभी", "en": "All of the above"}
+          "answer": {"hi": "2005 में (In 2005)", "en": "In 2005"}
         },
         {
           "q": {
-            "hi": "बांग्लादेश में जूट (पटसन) की खेती सबसे अधिक कहाँ होती है?",
-            "en": "Where is jute cultivation most common in Bangladesh?"
+            "hi": "राष्ट्रीय आपदा प्रबंधन प्राधिकरण (NDMA) का अध्यक्ष कौन होता है?",
+            "en": "Who is the head of the National Disaster Management Authority (NDMA)?"
           },
           "options": [
-            {"hi": "पहाड़ी क्षेत्रों में", "en": "In hilly areas"},
-            {"hi": "ब्रह्मपुत्र और गंगा के उपजाऊ मैदानों में", "en": "In the fertile plains of Brahmaputra and Ganga"},
-            {"hi": "तटीय दलदल में", "en": "In coastal marshes"},
-            {"hi": "दक्षिणी पठार पर", "en": "On the southern plateau"}
+            {"hi": "राष्ट्रपति", "en": "President"},
+            {"hi": "प्रधानमंत्री (Prime Minister)", "en": "Prime Minister"},
+            {"hi": "गृहमंत्री", "en": "Home Minister"},
+            {"hi": "थल सेना अध्यक्ष", "en": "Chief of Army Staff"}
           ],
-          "answer": {"hi": "ब्रह्मपुत्र और गंगा के उपजाऊ मैदानों में", "en": "In the fertile plains of Brahmaputra and Ganga"}
+          "answer": {"hi": "प्रधानमंत्री (Prime Minister)", "en": "Prime Minister"}
         },
         {
           "q": {
-            "hi": "श्रीलंका का सबसे महत्वपूर्ण निर्यात क्या है?",
-            "en": "What is the most important export of Sri Lanka?"
+            "hi": "आपदा के समय फंसे लोगों की खोज और राहत के लिए त्वरित कार्य करने वाले बल को क्या कहते हैं?",
+            "en": "What is the force that works quickly to rescue and relieve people stranded during a disaster called?"
           },
           "options": [
-            {"hi": "चावल", "en": "Rice"},
-            {"hi": "चाय", "en": "Tea"},
-            {"hi": "कोयला", "en": "Coal"},
-            {"hi": "लोहा", "en": "Iron"}
+            {"hi": "एन.डी.आर.एफ. (NDRF)", "en": "NDRF"},
+            {"hi": "पुलिस बल", "en": "Police force"},
+            {"hi": "यातायात पुलिस", "en": "Traffic police"},
+            {"hi": "खुफिया एजेंसी", "en": "Intelligence agency"}
           ],
-          "answer": {"hi": "चाय", "en": "Tea"}
+          "answer": {"hi": "एन.डी.आर.एफ. (NDRF)", "en": "NDRF"}
         },
         {
           "q": {
-            "hi": "पाकिस्तान के किस क्षेत्र में कोयला और खनिज तेल पाया जाता है?",
-            "en": "In which region of Pakistan are coal and mineral oil found?"
+            "hi": "आपदा के तुरंत बाद पीड़ितों को दी जाने वाली प्राथमिक चिकित्सा (First Aid) का मुख्य उद्देश्य क्या है?",
+            "en": "What is the main objective of First Aid given to victims immediately after a disaster?"
           },
           "options": [
-            {"hi": "सिंधु का मैदान", "en": "Indus plain"},
-            {"hi": "पोटवार का पठार", "en": "Potwar plateau"},
-            {"hi": "बलूचिस्तान", "en": "Balochistan"},
-            {"hi": "थार मरुस्थल", "en": "Thar desert"}
+            {"hi": "अस्पताल पहुँचने तक जीवन की रक्षा करना (To save life until reaching hospital)", "en": "To save life until reaching the hospital"},
+            {"hi": "बीमारी का पूर्ण इलाज करना", "en": "Complete cure of disease"},
+            {"hi": "पैसा कमाना", "en": "To earn money"},
+            {"hi": "दवाइयों का प्रचार करना", "en": "To promote medicines"}
           ],
-          "answer": {"hi": "पोटवार का पठार", "en": "Potwar plateau"}
+          "answer": {"hi": "अस्पताल पहुँचने तक जीवन की रक्षा करना (To save life until reaching hospital)", "en": "To save life until reaching the hospital"}
         },
         {
           "q": {
-            "hi": "नेपाल की अर्थव्यवस्था का मुख्य आधार क्या है?",
-            "en": "What is the main basis of Nepal's economy?"
+            "hi": "भूकम्प रोधी भवनों के निर्माण में दीवारों के कोनों पर किस प्रकार की सुदृढ़ीकरण छड़ों (Rebars) का उपयोग करना चाहिए?",
+            "en": "What type of reinforcing bars (rebars) should be used at building corners in earthquake-resistant construction?"
           },
           "options": [
-            {"hi": "उद्योग", "en": "Industry"},
-            {"hi": "पर्यटन और कृषि", "en": "Tourism and Agriculture"},
-            {"hi": "खनिज", "en": "Minerals"},
-            {"hi": "मछली पालन", "en": "Fishing"}
+            {"hi": "ऊर्ध्वाधर और क्षैतिज स्टील ग्रिड (Vertical and horizontal steel grids)", "en": "Vertical and horizontal steel grids"},
+            {"hi": "केवल प्लास्टिक की रस्सियाँ", "en": "Only plastic ropes"},
+            {"hi": "लकड़ी के पतले खंभे", "en": "Thin wooden pillars"},
+            {"hi": "बांस के टुकड़े", "en": "Bamboo pieces"}
           ],
-          "answer": {"hi": "पर्यटन और कृषि", "en": "Tourism and Agriculture"}
+          "answer": {"hi": "ऊर्ध्वाधर और क्षैतिज स्टील ग्रिड (Vertical and horizontal steel grids)", "en": "Vertical and horizontal steel grids"}
         },
         {
           "q": {
-            "hi": "भूटान को 'लैंड ऑफ थंडरबोल्ट' (Land of Thunderbolt) क्यों कहा जाता है?",
-            "en": "Why is Bhutan called the 'Land of Thunderbolt'?"
+            "hi": "चक्रवात संभावित क्षेत्रों में भवनों की स्थिति कैसी होनी चाहिए?",
+            "en": "How should buildings be positioned in cyclone-prone areas?"
           },
           "options": [
-            {"hi": "ज्वालामुखी के कारण", "en": "Due to volcanoes"},
-            {"hi": "तीव्र बिजली कड़कने और गर्जन के कारण", "en": "Due to intense lightning and thunder"},
-            {"hi": "युद्धों के कारण", "en": "Due to wars"},
-            {"hi": "अंधेरे के कारण", "en": "Due to darkness"}
+            {"hi": "पवन की दिशा के अनुकूल और गोलाकार संरचना वाली", "en": "Aerodynamic and circular structures"},
+            {"hi": "अत्यंत पतली और ऊँची संरचना वाली", "en": "Very thin and tall structures"},
+            {"hi": "कांच की बनी हुई", "en": "Made of glass"},
+            {"hi": "कमजोर छतों वाली", "en": "With weak roofs"}
           ],
-          "answer": {"hi": "तीव्र बिजली कड़कने और गर्जन के कारण", "en": "Due to intense lightning and thunder"}
+          "answer": {"hi": "पवन की दिशा के अनुकूल और गोलाकार संरचना वाली", "en": "Aerodynamic and circular structures"}
         },
         {
           "q": {
-            "hi": "बांग्लादेश का सबसे बड़ा बंदरगाह कौन-सा है?",
-            "en": "Which is the largest port of Bangladesh?"
+            "hi": "आपदा के दौरान समाज के किस वर्ग को सबसे अधिक संवेदनशील और सुरक्षा की आवश्यकता होती है?",
+            "en": "Which section of society is most vulnerable and needs maximum protection during a disaster?"
           },
           "options": [
-            {"hi": "ढाका", "en": "Dhaka"},
-            {"hi": "खुलना", "en": "Khulna"},
-            {"hi": "चटगाँव", "en": "Chittagong"},
-            {"hi": "सिलहट", "en": "Sylhet"}
+            {"hi": "बच्चे, वृद्ध और दिव्यांगजन (Children, elderly and disabled)", "en": "Children, elderly and disabled"},
+            {"hi": "युवा एथलीट", "en": "Young athletes"},
+            {"hi": "सशस्त्र बल", "en": "Armed forces"},
+            {"hi": "सरकारी अधिकारी", "en": "Government officers"}
           ],
-          "answer": {"hi": "चटगाँव", "en": "Chittagong"}
+          "answer": {"hi": "बच्चे, वृद्ध और दिव्यांगजन (Children, elderly and disabled)", "en": "Children, elderly and disabled"}
         },
         {
           "q": {
-            "hi": "श्रीलंका में बहुसंख्यक आबादी किस धर्म को मानती है?",
-            "en": "Which religion does the majority population in Sri Lanka follow?"
+            "hi": "बाढ़ के बाद खेतों में जमा होने वाली नई मिट्टी (सिल्ट) से भूमि की उर्वरा शक्ति पर क्या प्रभाव पड़ता है?",
+            "en": "What is the effect on soil fertility due to the new soil (silt) deposited in fields after a flood?"
           },
           "options": [
-            {"hi": "हिंदू", "en": "Hindu"},
-            {"hi": "इस्लाम", "en": "Islam"},
-            {"hi": "ईसाई", "en": "Christian"},
-            {"hi": "बौद्ध", "en": "Buddhist"}
+            {"hi": "उर्वरा शक्ति बढ़ जाती है (Fertility increases)", "en": "Fertility increases"},
+            {"hi": "उर्वरा शक्ति पूरी तरह समाप्त हो जाती है", "en": "Fertility vanishes completely"},
+            {"hi": "भूमि मरुस्थल बन जाती है", "en": "Land becomes desert"},
+            {"hi": "कोई प्रभाव नहीं पड़ता", "en": "No effect"}
           ],
-          "answer": {"hi": "बौद्ध", "en": "Buddhist"}
+          "answer": {"hi": "उर्वरा शक्ति बढ़ जाती है (Fertility increases)", "en": "Fertility increases"}
         }
       ],
       "section5": [
         {
           "q": {
-            "hi": "पाकिस्तान में 'नहरों का जाल' किस नदी तंत्र द्वारा बनाया गया है?",
-            "en": "By which river system is the 'network of canals' built in Pakistan?"
+            "hi": "आपदा प्रबंधन के अंतर्गत 'सह-अस्तित्व' (Co-existence) का वास्तविक अर्थ क्या है?",
+            "en": "What is the real meaning of 'Co-existence' under disaster management?"
           },
           "options": [
-            {"hi": "गंगा", "en": "Ganga"},
-            {"hi": "सिंधु और उसकी सहायक नदियाँ", "en": "Indus and its tributaries"},
-            {"hi": "ब्रह्मपुत्र", "en": "Brahmaputra"},
-            {"hi": "नर्मदा", "en": "Narmada"}
+            {"hi": "आपदाओं के खतरों को समझकर उनके बीच सुरक्षित जीने की कला सीखना", "en": "Learning the art of living safely amidst disasters by understanding their risks"},
+            {"hi": "आपदा आने पर देश छोड़कर भाग जाना", "en": "Fleeing the country when a disaster strikes"},
+            {"hi": "प्रकृति से युद्ध करना", "en": "Fighting against nature"},
+            {"hi": "सब कुछ भाग्य पर छोड़ देना", "en": "Leaving everything to fate"}
           ],
-          "answer": {"hi": "सिंधु और उसकी सहायक नदियाँ", "en": "Indus and its tributaries"}
+          "answer": {"hi": "आपदाओं के खतरों को समझकर उनके बीच सुरक्षित जीने की कला सीखना", "en": "Learning the art of living safely amidst disasters by understanding their risks"}
         },
         {
           "q": {
-            "hi": "नेपाल का तराई क्षेत्र किसके लिए प्रसिद्ध है?",
-            "en": "For what is the Terai region of Nepal famous?"
+            "hi": "चक्रवात (Cyclone) आने की चेतावनी मौसम विभाग द्वारा किसके माध्यम से दी जाती है?",
+            "en": "Through which medium is the cyclone warning given by the Meteorological Department?"
           },
           "options": [
-            {"hi": "ऊँचे पहाड़ों के लिए", "en": "For high mountains"},
-            {"hi": "घने वनों और उपजाऊ कृषि भूमि के लिए", "en": "For dense forests and fertile agricultural land"},
-            {"hi": "खनिजों के लिए", "en": "For minerals"},
-            {"hi": "झीलों के लिए", "en": "For lakes"}
+            {"hi": "रेडियो, टीवी और उपग्रह आधारित प्रणालियों से", "en": "Radio, TV and satellite-based systems"},
+            {"hi": "केवल समाचार पत्रों में अगले हफ्ते छपवा कर", "en": "Only by printing in newspapers next week"},
+            {"hi": "चिट्ठियाँ भेजकर", "en": "By sending letters"},
+            {"hi": "ढोल बजवाकर", "en": "By beating drums"}
           ],
-          "answer": {"hi": "घने वनों और उपजाऊ कृषि भूमि के लिए", "en": "For dense forests and fertile agricultural land"}
+          "answer": {"hi": "रेडियो, टीवी और उपग्रह आधारित प्रणालियों से", "en": "Radio, TV and satellite-based systems"}
         },
         {
           "q": {
-            "hi": "भूटान में मुख्य रूप से कौन-सा अनाज उगाया जाता है?",
-            "en": "Which cereal is mainly grown in Bhutan?"
+            "hi": "आकाशीय बिजली (Lightning) कड़कने के समय व्यक्ति को कहाँ नहीं खड़ा होना चाहिए?",
+            "en": "Where should a person not stand during lightning?"
           },
           "options": [
-            {"hi": "चावल", "en": "Rice"},
-            {"hi": "मक्का", "en": "Maize"},
-            {"hi": "गेहूँ", "en": "Wheat"},
-            {"hi": "उपर्युक्त सभी", "en": "All of the above"}
+            {"hi": "ऊंचे पेड़ों या बिजली के खंभों के नीचे (Under tall trees or electric poles)", "en": "Under tall trees or electric poles"},
+            {"hi": "पक्के मकान के अंदर", "en": "Inside a pucca house"},
+            {"hi": "कार के भीतर खिड़की बंद करके", "en": "Inside a car with closed windows"},
+            {"hi": "कमरे के फर्श पर", "en": "On the room floor"}
           ],
-          "answer": {"hi": "उपर्युक्त सभी", "en": "All of the above"}
+          "answer": {"hi": "ऊंचे पेड़ों या बिजली के खंभों के नीचे (Under tall trees or electric poles)", "en": "Under tall trees or electric poles"}
         },
         {
           "q": {
-            "hi": "बांग्लादेश में चक्रवात आने का मुख्य कारण क्या है?",
-            "en": "What is the main cause of cyclones in Bangladesh?"
+            "hi": "बाढ़ नियंत्रण के लिए दूरगामी उपायों के तहत नदियों को आपस में जोड़ने की भारत की महत्वाकांक्षी योजना कौन-सी है?",
+            "en": "Which ambitious project of India aims to connect rivers as a long-term measure for flood control?"
           },
           "options": [
-            {"hi": "हिमालय की निकटता", "en": "Proximity to Himalayas"},
-            {"hi": "बंगाल की खाड़ी की कीप जैसी आकृति", "en": "Funnel shape of the Bay of Bengal"},
-            {"hi": "नदियों की अधिकता", "en": "Abundance of rivers"},
-            {"hi": "पठारी भूमि", "en": "Plateau land"}
+            {"hi": "नदी जोड़ो परियोजना (River Interlinking Project)", "en": "River Interlinking Project"},
+            {"hi": "हरित पट्टी योजना", "en": "Green Belt Project"},
+            {"hi": "सागरमाला परियोजना", "en": "Sagarmala Project"},
+            {"hi": "स्वर्णिम चतुर्भुज योजना", "en": "Golden Quadrilateral Project"}
           ],
-          "answer": {"hi": "बंगाल की खाड़ी की कीप जैसी आकृति", "en": "Funnel shape of the Bay of Bengal"}
+          "answer": {"hi": "नदी जोड़ो परियोजना (River Interlinking Project)", "en": "River Interlinking Project"}
         },
         {
           "q": {
-            "hi": "श्रीलंका में पाया जाने वाला प्रमुख बहुमूल्य रत्न कौन-सा है?",
-            "en": "Which major precious stone is found in Sri Lanka?"
+            "hi": "सूखे से निपटने के लिए गाँवों में प्राचीन काल से चली आ रही कौन-सी जल संचयन प्रणाली अत्यंत प्रभावी है?",
+            "en": "Which water harvesting system existing since ancient times in villages is highly effective against drought?"
           },
           "options": [
-            {"hi": "हीरा", "en": "Diamond"},
-            {"hi": "नीलम (Sapphire)", "en": "Sapphire"},
-            {"hi": "पन्ना", "en": "Emerald"},
-            {"hi": "पुखराज", "en": "Topaz"}
+            {"hi": "आहार और पाईन प्रणाली तथा पोखरे/तालाब (Ahar-Pyne system and ponds)", "en": "Ahar-Pyne system and ponds"},
+            {"hi": "ट्यूबवेल का अत्यधिक उपयोग", "en": "Excessive use of tube wells"},
+            {"hi": "वाटर प्यूरीफायर लगाना", "en": "Installing water purifiers"},
+            {"hi": "इनमें से कोई नहीं", "en": "None of these"}
           ],
-          "answer": {"hi": "नीलम (Sapphire)", "en": "Sapphire"}
+          "answer": {"hi": "आहार और पाईन प्रणाली तथा पोखरे/तालाब (Ahar-Pyne system and ponds)", "en": "Ahar-Pyne system and ponds"}
         },
         {
           "q": {
-            "hi": "पाकिस्तान में सर्वाधिक वर्षा किस ऋतु में होती है?",
-            "en": "In which season does Pakistan receive maximum rainfall?"
+            "hi": "आपदा के समय अफवाहों को फैलने से रोकने के लिए जनता को किस पर भरोसा करना चाहिए?",
+            "en": "To prevent rumors during a disaster, what should the public rely on?"
           },
           "options": [
-            {"hi": "ग्रीष्म ऋतु", "en": "Summer"},
-            {"hi": "शीत ऋतु", "en": "Winter"},
-            {"hi": "मॉनसून (वर्षा ऋतु)", "en": "Monsoon"},
-            {"hi": "वसंत ऋतु", "en": "Spring"}
+            {"hi": "आधिकारिक और सरकारी सूचना तंत्रों पर (Official government communications)", "en": "Official government communications"},
+            {"hi": "सोशल मीडिया के अनवेरिफाइड मैसेजेस पर", "en": "Unverified social media messages"},
+            {"hi": "सुनी-सुनाई बातों पर", "en": "Hear-say stories"},
+            {"hi": "किसी पर भी नहीं", "en": "Nobody"}
           ],
-          "answer": {"hi": "मॉनसून (वर्षा ऋतु)", "en": "Monsoon"}
+          "answer": {"hi": "आधिकारिक और सरकारी सूचना तंत्रों पर (Official government communications)", "en": "Official government communications"}
         },
         {
           "q": {
-            "hi": "नेपाल में सार्क (SAARC) का सचिवालय कहाँ स्थित है?",
-            "en": "Where is the secretariat of SAARC located in Nepal?"
+            "hi": "सुनामी लहरों की गति समुद्र की गहराई कम होने पर (तट के समीप आने पर) कैसी हो जाती है?",
+            "en": "What happens to the speed of tsunami waves as sea depth decreases (near the coast)?"
           },
           "options": [
-            {"hi": "विराटनगर", "en": "Biratnagar"},
-            {"hi": "पोखरा", "en": "Pokhara"},
-            {"hi": "काठमांडू", "en": "Kathmandu"},
-            {"hi": "भक्तपुर", "en": "Bhaktapur"}
+            {"hi": "गति कम हो जाती है लेकिन लहरों की ऊँचाई अत्यधिक बढ़ जाती है", "en": "Speed decreases but wave height increases tremendously"},
+            {"hi": "गति और अधिक तेज हो जाती है", "en": "Speed becomes even faster"},
+            {"hi": "लहरें पूरी तरह गायब हो जाती हैं", "en": "Waves disappear completely"},
+            {"hi": "लहरों का तापमान बढ़ जाता है", "en": "Temperature of waves increases"}
           ],
-          "answer": {"hi": "काठमांडू", "en": "Kathmandu"}
+          "answer": {"hi": "गति कम हो जाती है लेकिन लहरों की ऊँचाई अत्यधिक बढ़ जाती है", "en": "Speed decreases but wave height increases tremendously"}
         },
         {
           "q": {
-            "hi": "भूटान में कौन-सा जानवर अधिक मात्रा में पाला जाता है?",
-            "en": "Which animal is reared in large numbers in Bhutan?"
+            "hi": "भूकम्प रोधी संरचनाओं में कंक्रीट के साथ किसका उपयोग अनिवार्य रूप से मजबूती के लिए किया जाता है?",
+            "en": "What is essentially used with concrete for reinforcement in earthquake-resistant structures?"
           },
           "options": [
-            {"hi": "ऊँट", "en": "Camel"},
-            {"hi": "याक (Yak)", "en": "Yak"},
-            {"hi": "हाथी", "en": "Elephant"},
-            {"hi": "भैंस", "en": "Buffalo"}
+            {"hi": "स्टील / लोहे की छड़ें (Steel/Iron rods)", "en": "Steel/Iron rods"},
+            {"hi": "बांस की खपच्चियाँ", "en": "Bamboo strips"},
+            {"hi": "कांच के रेशे", "en": "Glass fibers"},
+            {"hi": "तांबे के तार", "en": "Copper wires"}
           ],
-          "answer": {"hi": "याक (Yak)", "en": "Yak"}
+          "answer": {"hi": "स्टील / लोहे की छड़ें (Steel/Iron rods)", "en": "Steel/Iron rods"}
         },
         {
           "q": {
-            "hi": "बांग्लादेश में विश्व का सबसे बड़ा डेल्टा कौन-सा है?",
-            "en": "Which is the world's largest delta in Bangladesh?"
+            "hi": "आपदा प्रबंधन के अंतर्गत 'कमजोरी विश्लेषण' (Vulnerability Analysis) का क्या तात्पर्य है?",
+            "en": "What does 'Vulnerability Analysis' mean under disaster management?"
           },
           "options": [
-            {"hi": "कावेरी डेल्टा", "en": "Kaveri delta"},
-            {"hi": "सुन्दरवन डेल्टा", "en": "Sundarban delta"},
-            {"hi": "मिसिसिपी डेल्टा", "en": "Mississippi delta"},
-            {"hi": "नील डेल्टा", "en": "Nile delta"}
+            {"hi": "यह पता लगाना कि कौन-सा क्षेत्र या आबादी आपदा से सबसे अधिक खतरे में है", "en": "Finding out which area or population is at maximum risk from a disaster"},
+            {"hi": "भूकम्प की तीव्रता नापना", "en": "Measuring earthquake intensity"},
+            {"hi": "बाढ़ के पानी का रासायनिक परीक्षण करना", "en": "Chemical testing of floodwater"},
+            {"hi": "बादलों का चित्र लेना", "en": "Taking pictures of clouds"}
           ],
-          "answer": {"hi": "सुन्दरवन डेल्टा", "en": "Sundarban delta"}
+          "answer": {"hi": "यह पता लगाना कि कौन-सा क्षेत्र या आबादी आपदा से सबसे अधिक खतरे में है", "en": "Finding out which area or population is at maximum risk from a disaster"}
         },
         {
           "q": {
-            "hi": "श्रीलंका का सबसे लंबा नदी कौन-सा है?",
-            "en": "Which is the longest river in Sri Lanka?"
+            "hi": "आपदाओं के साथ सह-अस्तित्व स्थापित करने के लिए मानव को प्रकृति के साथ कैसा व्यवहार करना चाहिए?",
+            "en": "How should humans behave with nature to establish co-existence with disasters?"
           },
           "options": [
-            {"hi": "गंगा", "en": "Ganga"},
-            {"hi": "महावेली गंगा", "en": "Mahaweli Ganga"},
-            {"hi": "केलानी", "en": "Kelani"},
-            {"hi": "कालू", "en": "Kalu"}
+            {"hi": "संतुलित, सम्मानजनक और संधारणीय (Sustainable and respectful)", "en": "Balanced, respectful and sustainable"},
+            {"hi": "अत्यधिक विदोहन और विनाशकारी", "en": "Highly exploitative and destructive"},
+            {"hi": "लापरवाही भरा", "en": "Careless"},
+            {"hi": "पूरी तरह उदासीन", "en": "Completely indifferent"}
           ],
-          "answer": {"hi": "महावेली गंगा", "en": "Mahaweli Ganga"}
+          "answer": {"hi": "संतुलित, सम्मानजनक और संधारणीय (Sustainable and respectful)", "en": "Balanced, respectful and sustainable"}
         }
       ]
     },
