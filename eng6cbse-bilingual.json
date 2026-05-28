@@ -6815,9 +6815,352 @@
             "answer": {"hi": "हाँ", "en": "Yes"}
           }
         ]
+      },
+    "chapter07": {
+        "section1": [
+          {
+            "q": {
+              "hi": "मिनी की आयु कितनी थी?",
+              "en": "How old was Mini?"
+            },
+            "options": [
+              {"hi": "चार वर्ष", "en": "Four years"},
+              {"hi": "पाँच वर्ष", "en": "Five years"},
+              {"hi": "छह वर्ष", "en": "Six years"},
+              {"hi": "सात वर्ष", "en": "Seven years"}
+            ],
+            "answer": {"hi": "पाँच वर्ष", "en": "Five years"}
+          },
+          {
+            "q": {
+              "hi": "मिनी के बारे में क्या बात प्रसिद्ध थी?",
+              "en": "What was famous about Mini?"
+            },
+            "options": [
+              {"hi": "वह बहुत सुंदर थी", "en": "She was beautiful"},
+              {"hi": "वह बिना बात किए नहीं रह सकती थी", "en": "She could not live without talking"},
+              {"hi": "वह बहुत होशियार थी", "en": "She was very clever"},
+              {"hi": "वह बहुत रोती थी", "en": "She cried a lot"}
+            ],
+            "answer": {"hi": "वह बिना बात किए नहीं रह सकती थी", "en": "She could not live without talking"}
+          },
+          {
+            "q": {
+              "hi": "मिनी के पिता क्या लिख रहे थे?",
+              "en": "What was Mini's father writing?"
+            },
+            "options": [
+              {"hi": "एक कविता", "en": "A poem"},
+              {"hi": "एक उपन्यास का सत्रहवाँ अध्याय", "en": "Seventeenth chapter of his novel"},
+              {"hi": "एक पत्र", "en": "A letter"},
+              {"hi": "एक निबंध", "en": "An essay"}
+            ],
+            "answer": {"hi": "एक उपन्यास का सत्रहवाँ अध्याय", "en": "Seventeenth chapter of his novel"}
+          },
+          {
+            "q": {
+              "hi": "मिनी ने पिता से क्या पूछा?",
+              "en": "What did Mini ask her father?"
+            },
+            "options": [
+              {"hi": "क्या आप खेलेंगे?", "en": "Will you play?"},
+              {"hi": "कौवे को 'कौआ' क्यों कहते हैं?", "en": "Why is a crow called a crow?"},
+              {"hi": "हम कब बाहर जाएंगे?", "en": "When will we go out?"},
+              {"hi": "माँ कहाँ है?", "en": "Where is mother?"}
+            ],
+            "answer": {"hi": "कौवे को 'कौआ' क्यों कहते हैं?", "en": "Why is a crow called a crow?"}
+          },
+          {
+            "q": {
+              "hi": "मिनी ने किसे देखकर आवाज़ लगाई?",
+              "en": "Whom did Mini see and shout to?"
+            },
+            "options": [
+              {"hi": "अपनी माँ", "en": "Her mother"},
+              {"hi": "काबुलीवाला", "en": "Kabuliwala"},
+              {"hi": "एक दोस्त", "en": "A friend"},
+              {"hi": "एक फेरीवाला", "en": "A vendor"}
+            ],
+            "answer": {"hi": "काबुलीवाला", "en": "Kabuliwala"}
+          },
+          {
+            "q": {
+              "hi": "काबुलीवाला का नाम क्या था?",
+              "en": "What was the name of the Kabuliwala?"
+            },
+            "options": [
+              {"hi": "रहमान", "en": "Rahman"},
+              {"hi": "रामदयाल", "en": "Ramdayal"},
+              {"hi": "भोला", "en": "Bhola"},
+              {"hi": "रबींद्र", "en": "Rabindra"}
+            ],
+            "answer": {"hi": "रहमान", "en": "Rahman"}
+          },
+          {
+            "q": {
+              "hi": "काबुलीवाला कहाँ से आया था?",
+              "en": "Where had the Kabuliwala come from?"
+            },
+            "options": [
+              {"hi": "ईरान", "en": "Iran"},
+              {"hi": "काबुल", "en": "Kabul"},
+              {"hi": "पाकिस्तान", "en": "Pakistan"},
+              {"hi": "नेपाल", "en": "Nepal"}
+            ],
+            "answer": {"hi": "काबुल", "en": "Kabul"}
+          },
+          {
+            "q": {
+              "hi": "मिनी के घर के पास कौन आया था?",
+              "en": "Who came near Mini's house?"
+            },
+            "options": [
+              {"hi": "डाकिया", "en": "Postman"},
+              {"hi": "फेरीवाला (Kabuliwala)", "en": "Kabuliwala"},
+              {"hi": "दूधवाला", "en": "Milkman"},
+              {"hi": "सब्जीवाला", "en": "Vegetable seller"}
+            ],
+            "answer": {"hi": "फेरीवाला", "en": "Kabuliwala"}
+          },
+          {
+            "q": {
+              "hi": "मिनी के पिता को क्या करने में बाधा हुई?",
+              "en": "What was interrupted for Mini's father?"
+            },
+            "options": [
+              {"hi": "खाना खाना", "en": "Eating"},
+              {"hi": "लिखना", "en": "Writing"},
+              {"hi": "सोना", "en": "Sleeping"},
+              {"hi": "पढ़ना", "en": "Reading"}
+            ],
+            "answer": {"hi": "लिखना", "en": "Writing"}
+          },
+          {
+            "q": {
+              "hi": "कौवे को 'कौआ' क्यों कहते हैं, यह किसने पूछा?",
+              "en": "Who asked why a crow is called a crow?"
+            },
+            "options": [
+              {"hi": "मिनी के पिता ने", "en": "Mini's father"},
+              {"hi": "मिनी ने", "en": "Mini"},
+              {"hi": "माँ ने", "en": "Mother"},
+              {"hi": "रामदयाल ने", "en": "Ramdayal"}
+            ],
+            "answer": {"hi": "मिनी ने", "en": "Mini"}
+          }
+        ],
+        "section2": [
+          {
+            "q": {"hi": "काबुलीवाला क्या बेचता था?", "en": "What did the Kabuliwala sell?"},
+            "options": [{"hi": "सब्जियां", "en": "Vegetables"}, {"hi": "मेवे और कपड़े", "en": "Dry fruits and clothes"}, {"hi": "खिलौने", "en": "Toys"}, {"hi": "किताबें", "en": "Books"}],
+            "answer": {"hi": "मेवे और कपड़े", "en": "Dry fruits and clothes"}
+          },
+          {
+            "q": {"hi": "क्या काबुलीवाला और मिनी दोस्त बन गए?", "en": "Did the Kabuliwala and Mini become friends?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "कभी नहीं", "en": "Never"}, {"hi": "अनिश्चित", "en": "Uncertain"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "मिनी काबुलीवाला को क्या बुलाती थी?", "en": "What did Mini call the Kabuliwala?"},
+            "options": [{"hi": "रामदयाल", "en": "Ramdayal"}, {"hi": "रहमान", "en": "Rahman"}, {"hi": "फेरीवाला", "en": "Vendor"}, {"hi": "कोई नहीं", "en": "None"}],
+            "answer": {"hi": "रहमान", "en": "Rahman"}
+          },
+          {
+            "q": {"hi": "मिनी की माँ को क्या चिंता थी?", "en": "What was Mini's mother worried about?"},
+            "options": [{"hi": "मिनी की पढ़ाई", "en": "Mini's studies"}, {"hi": "काबुलीवाला के साथ दोस्ती", "en": "Friendship with Kabuliwala"}, {"hi": "स्वास्थ्य", "en": "Health"}, {"hi": "भोजन", "en": "Food"}],
+            "answer": {"hi": "काबुलीवाला के साथ दोस्ती", "en": "Friendship with Kabuliwala"}
+          },
+          {
+            "q": {"hi": "क्या पिता ने मिनी को काबुलीवाला से मिलने दिया?", "en": "Did the father let Mini meet the Kabuliwala?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "कभी नहीं", "en": "Never"}, {"hi": "माँ ने रोका", "en": "Mother stopped"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "काबुलीवाला मिनी के लिए क्या लाता था?", "en": "What did Kabuliwala bring for Mini?"},
+            "options": [{"hi": "मेवे", "en": "Dry fruits"}, {"hi": "खिलौने", "en": "Toys"}, {"hi": "कपड़े", "en": "Clothes"}, {"hi": "पुस्तकें", "en": "Books"}],
+            "answer": {"hi": "मेवे", "en": "Dry fruits"}
+          },
+          {
+            "q": {"hi": "क्या काबुलीवाला के पास अपनी बेटी थी?", "en": "Did the Kabuliwala have his own daughter?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "वह विवाहित नहीं था", "en": "He was unmarried"}, {"hi": "कह नहीं सकते", "en": "Cannot say"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "मिनी के पिता को क्या बुरा लगता था?", "en": "What made Mini's father sad?"},
+            "options": [{"hi": "लिखना", "en": "Writing"}, {"hi": "मिनी का चुप रहना", "en": "Mini being quiet"}, {"hi": "गरीबी", "en": "Poverty"}, {"hi": "शोर", "en": "Noise"}],
+            "answer": {"hi": "मिनी का चुप रहना", "en": "Mini being quiet"}
+          },
+          {
+            "q": {"hi": "काबुलीवाला को जेल क्यों हुई?", "en": "Why was the Kabuliwala sent to jail?"},
+            "options": [{"hi": "चोरी के लिए", "en": "For stealing"}, {"hi": "झगड़े के लिए", "en": "For a fight"}, {"hi": "हथियार रखने के लिए", "en": "For having a weapon"}, {"hi": "कर न चुकाने पर", "en": "Not paying tax"}],
+            "answer": {"hi": "झगड़े के लिए", "en": "For a fight"}
+          },
+          {
+            "q": {"hi": "जेल से लौटने के बाद काबुलीवाला क्या ढूँढ रहा था?", "en": "What was Kabuliwala looking for after returning from jail?"},
+            "options": [{"hi": "मिनी को", "en": "Mini"}, {"hi": "मेवे", "en": "Dry fruits"}, {"hi": "अपनी बेटी को", "en": "His daughter"}, {"hi": "काम को", "en": "Work"}],
+            "answer": {"hi": "मिनी को", "en": "Mini"}
+          }
+        ],
+        "section3": [
+          {
+            "q": {"hi": "मिनी की शादी के दिन क्या हो रहा था?", "en": "What was happening on Mini's wedding day?"},
+            "options": [{"hi": "त्यौहार", "en": "Festival"}, {"hi": "शादी की रस्में", "en": "Wedding ceremonies"}, {"hi": "जन्मदिन", "en": "Birthday"}, {"hi": "पार्टी", "en": "Party"}],
+            "answer": {"hi": "शादी की रस्में", "en": "Wedding ceremonies"}
+          },
+          {
+            "q": {"hi": "क्या काबुलीवाला मिनी को पहचान पाया?", "en": "Did the Kabuliwala recognize Mini?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "थोड़ा बहुत", "en": "A little"}, {"hi": "नहीं पहचान पाया", "en": "Could not recognize"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "मिनी के पिता ने काबुलीवाला को क्या दिया?", "en": "What did Mini's father give to Kabuliwala?"},
+            "options": [{"hi": "भोजन", "en": "Food"}, {"hi": "पैसे", "en": "Money"}, {"hi": "कपड़े", "en": "Clothes"}, {"hi": "खिलौने", "en": "Toys"}],
+            "answer": {"hi": "पैसे", "en": "Money"}
+          },
+          {
+            "q": {"hi": "पैसे किसलिए थे?", "en": "What was the money for?"},
+            "options": [{"hi": "अपने घर वापस जाने के लिए", "en": "To go back home"}, {"hi": "भोजन के लिए", "en": "For food"}, {"hi": "दवा के लिए", "en": "For medicine"}, {"hi": "सजावट के लिए", "en": "Decoration"}],
+            "answer": {"hi": "अपने घर वापस जाने के लिए", "en": "To go back home"}
+          },
+          {
+            "q": {"hi": "क्या काबुलीवाला की बेटी बड़ी हो गई थी?", "en": "Had Kabuliwala's daughter grown up?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "मिनी के पिता को क्या महसूस हुआ?", "en": "What did Mini's father feel?"},
+            "options": [{"hi": "खुशी", "en": "Happiness"}, {"hi": "दुख", "en": "Sadness"}, {"hi": "आश्चर्य", "en": "Surprise"}, {"hi": "भय", "en": "Fear"}],
+            "answer": {"hi": "दुख", "en": "Sadness"}
+          },
+          {
+            "q": {"hi": "कहानी का लेखक कौन है?", "en": "Who is the author of the story?"},
+            "options": [{"hi": "टैगोर", "en": "Tagore"}, {"hi": "प्रेमचंद", "en": "Premchand"}, {"hi": "रस्किन बॉन्ड", "en": "Ruskin Bond"}, {"hi": "शेक्सपियर", "en": "Shakespeare"}],
+            "answer": {"hi": "टैगोर", "en": "Tagore"}
+          },
+          {
+            "q": {"hi": "क्या मिनी बड़ी हो गई थी?", "en": "Had Mini grown up?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "थोड़ी", "en": "A little"}, {"hi": "शायद", "en": "Maybe"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "पिता ने काबुलीवाला को अपनी बेटी से क्यों मिलने भेजा?", "en": "Why did the father send Kabuliwala to meet his daughter?"},
+            "options": [{"hi": "उन्हें खुश करने के लिए", "en": "To make them happy"}, {"hi": "सजा के लिए", "en": "For punishment"}, {"hi": "काम के लिए", "en": "For work"}, {"hi": "कह नहीं सकते", "en": "Cannot say"}],
+            "answer": {"hi": "उन्हें खुश करने के लिए", "en": "To make them happy"}
+          },
+          {
+            "q": {"hi": "क्या कहानी एक सुखद अंत के साथ खत्म हुई?", "en": "Did the story end with a happy note?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "कुछ नहीं", "en": "Nothing"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          }
+        ],
+        "section4": [
+          {
+            "q": {"hi": "मिठाई का डिब्बा किसने दिया?", "en": "Who gave the sweet box?"},
+            "options": [{"hi": "पिताजी", "en": "Father"}, {"hi": "काबुलीवाला", "en": "Kabuliwala"}, {"hi": "माँ", "en": "Mother"}, {"hi": "भाई", "en": "Brother"}],
+            "answer": {"hi": "काबुलीवाला", "en": "Kabuliwala"}
+          },
+          {
+            "q": {"hi": "शादी का खाना कैसा था?", "en": "How was the wedding feast?"},
+            "options": [{"hi": "स्वादिष्ट", "en": "Delicious"}, {"hi": "खराब", "en": "Bad"}, {"hi": "ठंडा", "en": "Cold"}, {"hi": "कोई नहीं", "en": "None"}],
+            "answer": {"hi": "स्वादिष्ट", "en": "Delicious"}
+          },
+          {
+            "q": {"hi": "काबुलीवाला के पास क्या था?", "en": "What did Kabuliwala have?"},
+            "options": [{"hi": "फोटो", "en": "Photo"}, {"hi": "खिलौना", "en": "Toy"}, {"hi": "किताब", "en": "Book"}, {"hi": "पेन", "en": "Pen"}],
+            "answer": {"hi": "फोटो", "en": "Photo"}
+          },
+          {
+            "q": {"hi": "क्या मिनी अब भी बातूनी थी?", "en": "Was Mini still talkative?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": {"hi": "काबुलीवाला को क्या याद आया?", "en": "What did Kabuliwala remember?"},
+            "options": [{"hi": "अपनी बेटी", "en": "His daughter"}, {"hi": "घर", "en": "Home"}, {"hi": "रास्ता", "en": "Path"}, {"hi": "खाना", "en": "Food"}],
+            "answer": {"hi": "अपनी बेटी", "en": "His daughter"}
+          },
+          {
+            "q": {"hi": "क्या पिता को काबुलीवाला पर दया आई?", "en": "Did the father feel pity for Kabuliwala?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "कह नहीं सकते", "en": "Cannot say"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "काबुलीवाला का मुख्य गुण क्या था?", "en": "What was the main quality of Kabuliwala?"},
+            "options": [{"hi": "क्रोध", "en": "Anger"}, {"hi": "प्यार/सहानुभूति", "en": "Love/Empathy"}, {"hi": "लालच", "en": "Greed"}, {"hi": "डर", "en": "Fear"}],
+            "answer": {"hi": "प्यार/सहानुभूति", "en": "Love/Empathy"}
+          },
+          {
+            "q": {"hi": "मिनी के विवाह का समय कैसा था?", "en": "How was the time of Mini's wedding?"},
+            "options": [{"hi": "उदास", "en": "Sad"}, {"hi": "खुशनुमा", "en": "Happy"}, {"hi": "अंधेरा", "en": "Dark"}, {"hi": "शोर", "en": "Noisy"}],
+            "answer": {"hi": "खुशनुमा", "en": "Happy"}
+          },
+          {
+            "q": {"hi": "क्या काबुलीवाला को मिनी की याद आती थी?", "en": "Did Kabuliwala miss Mini?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "लेखक ने अपनी बेटी के लिए क्या कामना की?", "en": "What did the author wish for his daughter?"},
+            "options": [{"hi": "खुशी", "en": "Happiness"}, {"hi": "पैसा", "en": "Money"}, {"hi": "पढ़ाई", "en": "Studies"}, {"hi": "कुछ नहीं", "en": "Nothing"}],
+            "answer": {"hi": "खुशी", "en": "Happiness"}
+          }
+        ],
+        "section5": [
+          {
+            "q": {"hi": "लेखक ने उपन्यास का कौन सा अध्याय लिखा था?", "en": "Which chapter of the novel did the author write?"},
+            "options": [{"hi": "16वां", "en": "16th"}, {"hi": "17वां", "en": "17th"}, {"hi": "18वां", "en": "18th"}, {"hi": "19वां", "en": "19th"}],
+            "answer": {"hi": "17वां", "en": "17th"}
+          },
+          {
+            "q": {"hi": "काबुलीवाला के सामान में क्या था?", "en": "What did the Kabuliwala have in his wares?"},
+            "options": [{"hi": "मेवे", "en": "Dry fruits"}, {"hi": "खिलौने", "en": "Toys"}, {"hi": "किताबें", "en": "Books"}, {"hi": "पेन", "en": "Pen"}],
+            "answer": {"hi": "मेवे", "en": "Dry fruits"}
+          },
+          {
+            "q": {"hi": "क्या काबुलीवाला एक अच्छा इंसान था?", "en": "Was Kabuliwala a good person?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "पता नहीं", "en": "Don't know"}, {"hi": "शायद", "en": "Maybe"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "मिनी के पिता क्या करते थे?", "en": "What did Mini's father do?"},
+            "options": [{"hi": "शिक्षक", "en": "Teacher"}, {"hi": "लेखक", "en": "Author"}, {"hi": "डॉक्टर", "en": "Doctor"}, {"hi": "इंजीनियर", "en": "Engineer"}],
+            "answer": {"hi": "लेखक", "en": "Author"}
+          },
+          {
+            "q": {"hi": "मिनी और काबुलीवाला की दोस्ती का क्या नाम दिया जा सकता है?", "en": "What name can be given to the friendship of Mini and Kabuliwala?"},
+            "options": [{"hi": "अनमोल (Precious)", "en": "Precious"}, {"hi": "साधारण", "en": "Simple"}, {"hi": "बोरियत", "en": "Boredom"}, {"hi": "लड़ाई", "en": "Fight"}],
+            "answer": {"hi": "अनमोल", "en": "Precious"}
+          },
+          {
+            "q": {"hi": "क्या मिनी ने काबुलीवाला को पहचाना?", "en": "Did Mini recognize the Kabuliwala?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": {"hi": "लेखक की बेटी के पिता ने क्या महसूस किया?", "en": "What did the father of Mini feel?"},
+            "options": [{"hi": "दुख", "en": "Sadness"}, {"hi": "खुशी", "en": "Happiness"}, {"hi": "डर", "en": "Fear"}, {"hi": "क्रोध", "en": "Anger"}],
+            "answer": {"hi": "दुख", "en": "Sadness"}
+          },
+          {
+            "q": {"hi": "कहानी का सार क्या है?", "en": "What is the essence of the story?"},
+            "options": [{"hi": "पिता का प्रेम", "en": "Father's love"}, {"hi": "दोस्ती", "en": "Friendship"}, {"hi": "अजनबी से रिश्ता", "en": "Bond with a stranger"}, {"hi": "सभी", "en": "All"}],
+            "answer": {"hi": "सभी", "en": "All"}
+          },
+          {
+            "q": {"hi": "क्या लेखक काबुलीवाला के प्रति सहानुभूति रखते थे?", "en": "Did the author feel empathy for the Kabuliwala?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "कह नहीं सकते", "en": "Cannot say"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "इस कहानी का शीर्षक क्या है?", "en": "What is the title of this story?"},
+            "options": [{"hi": "काबुलीवाला", "en": "Kabuliwala"}, {"hi": "मिनी", "en": "Mini"}, {"hi": "लेखक", "en": "Author"}, {"hi": "कोई नहीं", "en": "None"}],
+            "answer": {"hi": "काबुलीवाला", "en": "Kabuliwala"}
+          }
+        ]
       }
     }
   }
+
 
   
  
