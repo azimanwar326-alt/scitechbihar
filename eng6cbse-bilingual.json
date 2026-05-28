@@ -3505,9 +3505,672 @@
             "answer": {"hi": "जजों से बात की और फैसला सुनाया", "en": "Talked to the judges and announced the result"}
           }
         ]
-     }
+     },
+    "chapter04a": {
+        "section1": [
+          {
+            "q": {
+              "hi": "कवि जीवन की तुलना किससे करता है?",
+              "en": "What does the poet compare life to?"
+            },
+            "options": [
+              {"hi": "एक दौड़", "en": "A race"},
+              {"hi": "एक खेल", "en": "A game"},
+              {"hi": "एक यात्रा", "en": "A journey"},
+              {"hi": "एक लड़ाई", "en": "A fight"}
+            ],
+            "answer": {"hi": "एक खेल", "en": "A game"}
+          },
+          {
+            "q": {
+              "hi": "जीवन के गौरवशाली पुरस्कार को जीतने के लिए इसे कैसे खेलना चाहिए?",
+              "en": "How should we play life to win the glorious prize?"
+            },
+            "options": [
+              {"hi": "चालाकी से", "en": "Cleverly"},
+              {"hi": "सही तरीके से", "en": "Right"},
+              {"hi": "तेजी से", "en": "Fast"},
+              {"hi": "स्वार्थ से", "en": "Selfishly"}
+            ],
+            "answer": {"hi": "सही तरीके से", "en": "Right"}
+          },
+          {
+            "q": {
+              "hi": "कवि के अनुसार कौन निश्चित रूप से जीतता है?",
+              "en": "According to the poet, who surely wins?"
+            },
+            "options": [
+              {"hi": "अमीर व्यक्ति", "en": "The wealthy man"},
+              {"hi": "ईमानदारी से कोशिश करने वाला", "en": "One who tries honestly"},
+              {"hi": "प्रसिद्ध व्यक्ति", "en": "The famous person"},
+              {"hi": "जो कभी नहीं हारता", "en": "One who never loses"}
+            ],
+            "answer": {"hi": "ईमानदारी से कोशिश करने वाला", "en": "One who tries honestly"}
+          },
+          {
+            "q": {
+              "hi": "खेल को निष्पक्ष (fair) खेलने वाला व्यक्ति क्या कभी नहीं करता?",
+              "en": "What does a person who plays fair never do?"
+            },
+            "options": [
+              {"hi": "जीतना", "en": "Win"},
+              {"hi": "हंसना", "en": "Laugh"},
+              {"hi": "निराश (despair)", "en": "Despair"},
+              {"hi": "कोशिश", "en": "Try"}
+            ],
+            "answer": {"hi": "निराश", "en": "Despair"}
+          },
+          {
+            "q": {
+              "hi": "कवि के अनुसार 'wilt and whine' का क्या अर्थ है?",
+              "en": "What does 'wilt and whine' mean according to the poet?"
+            },
+            "options": [
+              {"hi": "हंसना और खेलना", "en": "Laugh and play"},
+              {"hi": "उत्साहित होना", "en": "Be excited"},
+              {"hi": "निराश होना और शिकायत करना", "en": "Droop and complain"},
+              {"hi": "दौड़ना", "en": "Run"}
+            ],
+            "answer": {"hi": "निराश होना और शिकायत करना", "en": "Droop and complain"}
+          },
+          {
+            "q": {
+              "hi": "जब कोई और आपसे बेहतर करता है, तो क्या नहीं करना चाहिए?",
+              "en": "What should you not do when someone does better than you?"
+            },
+            "options": [
+              {"hi": "प्रशंसा", "en": "Praise"},
+              {"hi": "सीखना", "en": "Learn"},
+              {"hi": "उपहास (sneer)", "en": "Sneer"},
+              {"hi": "मुस्कुराना", "en": "Smile"}
+            ],
+            "answer": {"hi": "उपहास", "en": "Sneer"}
+          },
+          {
+            "q": {
+              "hi": "कवि के अनुसार 'rebuffs' का क्या अर्थ है?",
+              "en": "What is the meaning of 'rebuffs'?"
+            },
+            "options": [
+              {"hi": "उपहार", "en": "Gift"},
+              {"hi": "अ unkind अस्वीकृति", "en": "Unkind refusal"},
+              {"hi": "जीत", "en": "Win"},
+              {"hi": "मदद", "en": "Help"}
+            ],
+            "answer": {"hi": "अ unkind अस्वीकृति", "en": "Unkind refusal"}
+          },
+          {
+            "q": {
+              "hi": "जब पूरी दुनिया नीली (उदासीन) लगे, तो क्या बनाए रखना चाहिए?",
+              "en": "What should hold true when the whole world seems blue?"
+            },
+            "options": [
+              {"hi": "धन", "en": "Wealth"},
+              {"hi": "विश्वास (faith)", "en": "Faith"},
+              {"hi": "नाम", "en": "Fame"},
+              {"hi": "गुस्सा", "en": "Anger"}
+            ],
+            "answer": {"hi": "विश्वास", "en": "Faith"}
+          },
+          {
+            "q": {
+              "hi": "कविता के अनुसार, लड़कों को क्या करने के लिए कहा गया है?",
+              "en": "According to the poem, what are boys told to do?"
+            },
+            "options": [
+              {"hi": "घर बैठने को", "en": "Sit at home"},
+              {"hi": "खेल में कूद पड़ने को (wade in)", "en": "Wade in"},
+              {"hi": "शोर मचाने को", "en": "Make noise"},
+              {"hi": "हार मान लेने को", "en": "Give up"}
+            ],
+            "answer": {"hi": "खेल में कूद पड़ने को", "en": "Wade in"}
+          },
+          {
+            "q": {
+              "hi": "'Brace up your will' का अर्थ क्या है?",
+              "en": "What is the meaning of 'Brace up your will'?"
+            },
+            "options": [
+              {"hi": "सो जाना", "en": "Sleep"},
+              {"hi": "दृढ़ निश्चय होना", "en": "Be determined"},
+              {"hi": "डर जाना", "en": "Be scared"},
+              {"hi": "शिकायत करना", "en": "Complain"}
+            ],
+            "answer": {"hi": "दृढ़ निश्चय होना", "en": "Be determined"}
+          }
+        ],
+        "section2": [
+          {
+            "q": {
+              "hi": "कविता का संदेश क्या है?",
+              "en": "What is the message of the poem?"
+            },
+            "options": [
+              {"hi": "केवल जीतना जरूरी है", "en": "Only winning is important"},
+              {"hi": "जीवन को सकारात्मकता और साहस से जीना", "en": "Live life with positivity and courage"},
+              {"hi": "पैसा ही सब कुछ है", "en": "Money is everything"},
+              {"hi": "आलसी बने रहना", "en": "Be lazy"}
+            ],
+            "answer": {"hi": "जीवन को सकारात्मकता और साहस से जीना", "en": "Live life with positivity and courage"}
+          },
+          {
+            "q": {
+              "hi": "जब आप हारें, तो आपको क्या करना चाहिए?",
+              "en": "What should you do when you fail?"
+            },
+            "options": [
+              {"hi": "शिकायत करना", "en": "Complain"},
+              {"hi": "जानकार मुस्कान (knowing grin) रखना", "en": "Keep a knowing grin"},
+              {"hi": "छोड़ देना", "en": "Give up"},
+              {"hi": "रोने लगना", "en": "Cry"}
+            ],
+            "answer": {"hi": "जानकार मुस्कान रखना", "en": "Keep a knowing grin"}
+          },
+          {
+            "q": {
+              "hi": "कवि के अनुसार 'शोर मचाने' से बेहतर क्या है?",
+              "en": "According to the poet, what is better than 'making a noise'?"
+            },
+            "options": [
+              {"hi": "कुछ सार्थक करना", "en": "Doing something more"},
+              {"hi": "सो जाना", "en": "Sleeping"},
+              {"hi": "दूसरों को नीचा दिखाना", "en": "Sneering at others"},
+              {"hi": "हार मान लेना", "en": "Giving up"}
+            ],
+            "answer": {"hi": "कुछ सार्थक करना", "en": "Doing something more"}
+          },
+          {
+            "q": {
+              "hi": "कवि ने 'goal' (लक्ष्य) के लिए किस विशेषण का प्रयोग किया है?",
+              "en": "What adjective does the poet use for the 'goal'?"
+            },
+            "options": [
+              {"hi": "बड़ा", "en": "Big"},
+              {"hi": "छोटा", "en": "Small"},
+              {"hi": "प्यारा (cherished)", "en": "Cherished"},
+              {"hi": "कठिन", "en": "Difficult"}
+            ],
+            "answer": {"hi": "प्यारा", "en": "Cherished"}
+          },
+          {
+            "q": {
+              "hi": "कवि क्या चाहता है कि आपका उद्देश्य क्या करे?",
+              "en": "What does the poet want your purpose to do?"
+            },
+            "options": [
+              {"hi": "मिट जाए", "en": "Fade"},
+              {"hi": "ज्वाला बनकर भड़के", "en": "Leap into flame"},
+              {"hi": "छिप जाए", "en": "Hide"},
+              {"hi": "शांत हो जाए", "en": "Be calm"}
+            ],
+            "answer": {"hi": "ज्वाला बनकर भड़के", "en": "Leap into flame"}
+          },
+          {
+            "q": {
+              "hi": "'I shall do or die' का अर्थ क्या है?",
+              "en": "What is the meaning of 'I shall do or die'?"
+            },
+            "options": [
+              {"hi": "हार मान लेना", "en": "Giving up"},
+              {"hi": "मर जाना", "en": "Dying"},
+              {"hi": "जीतने के लिए पूरी कोशिश करना", "en": "Try best to achieve"},
+              {"hi": "डरना", "en": "Fearing"}
+            ],
+            "answer": {"hi": "जीतने के लिए पूरी कोशिश करना", "en": "Try best to achieve"}
+          },
+          {
+            "q": {
+              "hi": "कविता का कवि कौन है?",
+              "en": "Who is the poet of the poem?"
+            },
+            "options": [
+              {"hi": "रवींद्रनाथ टैगोर", "en": "Rabindranath Tagore"},
+              {"hi": "अनाम (Anonymous)", "en": "Anonymous"},
+              {"hi": "प्रेमचंद", "en": "Premchand"},
+              {"hi": "सरोजिनी नायडू", "en": "Sarojini Naidu"}
+            ],
+            "answer": {"hi": "अनाम", "en": "Anonymous"}
+          },
+          {
+            "q": {
+              "hi": "क्या धन और प्रसिद्धि जीवन के खेल में जीत की गारंटी हैं?",
+              "en": "Are wealth and fame a guarantee of winning the game of life?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "कभी-कभी", "en": "Sometimes"},
+              {"hi": "शायद", "en": "Maybe"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": {
+              "hi": "जीवन के खेल में क्या-क्या शामिल है?",
+              "en": "What does the game of life involve?"
+            },
+            "options": [
+              {"hi": "सिर्फ खुशी", "en": "Only happiness"},
+              {"hi": "लेना और देना, बनाना और तोड़ना", "en": "Give and take, build and break"},
+              {"hi": "सिर्फ जीत", "en": "Only victory"},
+              {"hi": "आलस", "en": "Laziness"}
+            ],
+            "answer": {"hi": "लेना और देना, बनाना और तोड़ना", "en": "Give and take, build and break"}
+          },
+          {
+            "q": {
+              "hi": "जब आप दौड़ में पिछड़ जाते हैं (pull up lame), तो कवि क्या करने को कहता है?",
+              "en": "What does the poet suggest when you 'pull up lame'?"
+            },
+            "options": [
+              {"hi": "रोना", "en": "Cry"},
+              {"hi": "हंसना", "en": "Laugh"},
+              {"hi": "दौड़ छोड़ना", "en": "Leave the race"},
+              {"hi": "शिकायत करना", "en": "Complain"}
+            ],
+            "answer": {"hi": "हंसना", "en": "Laugh"}
+          }
+        ],
+        "section3": [
+          {
+            "q": {
+              "hi": "इस कविता में जीवन के खेल की क्या प्रकृति बताई गई है?",
+              "en": "What is the nature of the game of life described in the poem?"
+            },
+            "options": [
+              {"hi": "यह हमेशा आसान है", "en": "It is always easy"},
+              {"hi": "यह अक्सर लड़ाई में समाप्त होता है", "en": "It often ends in a fight"},
+              {"hi": "यह कभी खत्म नहीं होता", "en": "It never ends"},
+              {"hi": "यह केवल अमीरों के लिए है", "en": "It is only for the rich"}
+            ],
+            "answer": {"hi": "यह अक्सर लड़ाई में समाप्त होता है", "en": "It often ends in a fight"}
+          },
+          {
+            "q": {
+              "hi": "कविता में 'whole world's blue' का क्या अर्थ है?",
+              "en": "What does 'whole world's blue' mean in the poem?"
+            },
+            "options": [
+              {"hi": "दुनिया का रंग", "en": "Color of the world"},
+              {"hi": "सब कुछ निराशाजनक लगना", "en": "Everything seems depressing"},
+              {"hi": "आकाश का रंग", "en": "Color of the sky"},
+              {"hi": "शांति", "en": "Peace"}
+            ],
+            "answer": {"hi": "सब कुछ निराशाजनक लगना", "en": "Everything seems depressing"}
+          },
+          {
+            "q": {
+              "hi": "कवि 'boys' को क्या करने के लिए प्रोत्साहित करता है?",
+              "en": "What does the poet encourage the boys to do?"
+            },
+            "options": [
+              {"hi": "दूरी बनाए रखने को", "en": "Keep distance"},
+              {"hi": "पूरी ताकत से शामिल होने को", "en": "Get into the thick of it"},
+              {"hi": "डरने को", "en": "To be afraid"},
+              {"hi": "खेल से बाहर रहने को", "en": "Stay out"}
+            ],
+            "answer": {"hi": "पूरी ताकत से शामिल होने को", "en": "Get into the thick of it"}
+          },
+          {
+            "q": {
+              "hi": "कविता के अनुसार, हमें 'pulses thrill' कब महसूस होनी चाहिए?",
+              "en": "According to the poem, when should our 'pulses thrill'?"
+            },
+            "options": [
+              {"hi": "जब हम सोते हैं", "en": "When we sleep"},
+              {"hi": "जब हम दृढ़ निश्चय के साथ तैयार होते हैं", "en": "When we brace up our will"},
+              {"hi": "जब हम टीवी देखते हैं", "en": "When we watch TV"},
+              {"hi": "जब हम हारते हैं", "en": "When we fail"}
+            ],
+            "answer": {"hi": "जब हम दृढ़ निश्चय के साथ तैयार होते हैं", "en": "When we brace up our will"}
+          },
+          {
+            "q": {
+              "hi": "क्या जीवन का खेल केवल धन के बारे में है?",
+              "en": "Is the game of life only about wealth?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "हाँ, पूरी तरह", "en": "Yes, totally"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": {
+              "hi": "कवि के अनुसार, हार का मतलब क्या है?",
+              "en": "According to the poet, what does failure mean?"
+            },
+            "options": [
+              {"hi": "जीवन का अंत", "en": "End of life"},
+              {"hi": "बस एक हिस्सा जिसे साहस से लेना चाहिए", "en": "A part to be taken with courage"},
+              {"hi": "शर्मिंदगी", "en": "Shame"},
+              {"hi": "जीत नहीं पाना", "en": "Not winning"}
+            ],
+            "answer": {"hi": "बस एक हिस्सा जिसे साहस से लेना चाहिए", "en": "A part to be taken with courage"}
+          },
+          {
+            "q": {
+              "hi": "कविता में 'wade in' का क्या तात्पर्य है?",
+              "en": "What is the implication of 'wade in' in the poem?"
+            },
+            "options": [
+              {"hi": "बाहर बैठना", "en": "Sit out"},
+              {"hi": "साहस के साथ कूद पड़ना", "en": "Jump in with courage"},
+              {"hi": "धीरे चलना", "en": "Walk slowly"},
+              {"hi": "सोचना", "en": "Think"}
+            ],
+            "answer": {"hi": "साहस के साथ कूद पड़ना", "en": "Jump in with courage"}
+          },
+          {
+            "q": {
+              "hi": "कवि 'fame' के बारे में क्या कहता है?",
+              "en": "What does the poet say about 'fame'?"
+            },
+            "options": [
+              {"hi": "यह जरूरी है", "en": "It is important"},
+              {"hi": "यह जीत के लिए आवश्यक नहीं है", "en": "It is not essential for winning"},
+              {"hi": "यह सब कुछ है", "en": "It is everything"},
+              {"hi": "इसे पाना आसान है", "en": "It is easy to get"}
+            ],
+            "answer": {"hi": "यह जीत के लिए आवश्यक नहीं है", "en": "It is not essential for winning"}
+          },
+          {
+            "q": {
+              "hi": "कविता के अनुसार 'fair' खेलने का क्या परिणाम है?",
+              "en": "What is the result of playing 'fair' according to the poem?"
+            },
+            "options": [
+              {"hi": "निराशा", "en": "Despair"},
+              {"hi": "जीत", "en": "Victory"},
+              {"hi": "हार", "en": "Loss"},
+              {"hi": "कोई नहीं", "en": "None"}
+            ],
+            "answer": {"hi": "जीत", "en": "Victory"}
+          },
+          {
+            "q": {
+              "hi": "कवि के अनुसार, हार पर शिकायत करना कैसी आदत है?",
+              "en": "According to the poet, is complaining when failing a good habit?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "कभी-कभी", "en": "Sometimes"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          }
+        ],
+        "section4": [
+          {
+            "q": {
+              "hi": "कवि 'life' को क्या मानता है?",
+              "en": "What does the poet consider 'life' to be?"
+            },
+            "options": [
+              {"hi": "एक सजा", "en": "A punishment"},
+              {"hi": "एक उपहार", "en": "A gift"},
+              {"hi": "एक खेल", "en": "A game"},
+              {"hi": "एक परीक्षा", "en": "An exam"}
+            ],
+            "answer": {"hi": "एक खेल", "en": "A game"}
+          },
+          {
+            "q": {
+              "hi": "कवि के अनुसार, हार जाने पर क्या करना 'knowing grin' के साथ लेना कहलाता है?",
+              "en": "What does taking failure with a 'knowing grin' signify?"
+            },
+            "options": [
+              {"hi": "हंसना", "en": "Laughing"},
+              {"hi": "शिकायत करना", "en": "Complaining"},
+              {"hi": "दूरी बनाना", "en": "Moving away"},
+              {"hi": "लड़ाई करना", "en": "Fighting"}
+            ],
+            "answer": {"hi": "हंसना", "en": "Laughing"}
+          },
+          {
+            "q": {
+              "hi": "कविता में 'sneer' का क्या अर्थ है?",
+              "en": "What is the meaning of 'sneer' in the poem?"
+            },
+            "options": [
+              {"hi": "हंसना", "en": "To laugh"},
+              {"hi": "अनादर दिखाना", "en": "Show lack of respect"},
+              {"hi": "मदद करना", "en": "To help"},
+              {"hi": "डराना", "en": "To scare"}
+            ],
+            "answer": {"hi": "अनादर दिखाना", "en": "Show lack of respect"}
+          },
+          {
+            "q": {
+              "hi": "कवि 'cherished goal' को प्राप्त करने के लिए क्या सलाह देता है?",
+              "en": "What advice does the poet give to achieve a 'cherished goal'?"
+            },
+            "options": [
+              {"hi": "शांत रहना", "en": "Stay calm"},
+              {"hi": "पूरी ताकत से लग जाना", "en": "Get into the thick of it"},
+              {"hi": "दूसरों का इंतज़ार करना", "en": "Wait for others"},
+              {"hi": "लक्ष्य बदल देना", "en": "Change the goal"}
+            ],
+            "answer": {"hi": "पूरी ताकत से लग जाना", "en": "Get into the thick of it"}
+          },
+          {
+            "q": {
+              "hi": "कविता का क्या उद्देश्य है?",
+              "en": "What is the purpose of the poem?"
+            },
+            "options": [
+              {"hi": "खेल के नियम बताना", "en": "To teach rules of games"},
+              {"hi": "जीवन के प्रति सही दृष्टिकोण सिखाना", "en": "To teach right attitude towards life"},
+              {"hi": "इतिहास बताना", "en": "To tell history"},
+              {"hi": "सिर्फ मनोरंजन", "en": "Only entertainment"}
+            ],
+            "answer": {"hi": "जीवन के प्रति सही दृष्टिकोण सिखाना", "en": "To teach right attitude towards life"}
+          },
+          {
+            "q": {
+              "hi": "कवि किसे 'blessed' या भाग्यशाली मानता है?",
+              "en": "Who does the poet consider blessed?"
+            },
+            "options": [
+              {"hi": "जो जीतता है", "en": "Who wins"},
+              {"hi": "जो ईमानदारी से खेलता है", "en": "Who plays honestly"},
+              {"hi": "जो अमीर है", "en": "Who is rich"},
+              {"hi": "जो शोर मचाता है", "en": "Who makes noise"}
+            ],
+            "answer": {"hi": "जो ईमानदारी से खेलता है", "en": "Who plays honestly"}
+          },
+          {
+            "q": {
+              "hi": "कविता में 'wilt' शब्द का क्या अर्थ है?",
+              "en": "What is the meaning of 'wilt' in the poem?"
+            },
+            "options": [
+              {"hi": "उत्साहित होना", "en": "To be excited"},
+              {"hi": "निराश होकर झुक जाना", "en": "To droop in discouragement"},
+              {"hi": "खेलना", "en": "To play"},
+              {"hi": "मजबूत होना", "en": "To be strong"}
+            ],
+            "answer": {"hi": "निराश होकर झुक जाना", "en": "To droop in discouragement"}
+          },
+          {
+            "q": {
+              "hi": "यदि आप हारते हैं और फिर भी मुस्कुराते हैं, तो आप क्या कर रहे हैं?",
+              "en": "If you lose and still smile, what are you doing?"
+            },
+            "options": [
+              {"hi": "खेल खेल रहे हैं", "en": "Playing the game"},
+              {"hi": "खेल छोड़ रहे हैं", "en": "Leaving the game"},
+              {"hi": "लड़ाई कर रहे हैं", "en": "Fighting"},
+              {"hi": "शिकायत कर रहे हैं", "en": "Complaining"}
+            ],
+            "answer": {"hi": "खेल खेल रहे हैं", "en": "Playing the game"}
+          },
+          {
+            "q": {
+              "hi": "कवि का क्या अर्थ है कि जीतना 'due' है?",
+              "en": "What does the poet mean by thinking winning is our 'due'?"
+            },
+            "options": [
+              {"hi": "कि हमें जीतना ही चाहिए", "en": "That we must win"},
+              {"hi": "कि हारना हमारा हक है", "en": "That losing is our right"},
+              {"hi": "कि मेहनत जरूरी नहीं है", "en": "That hard work is not needed"},
+              {"hi": "कि जीतना जरूरी नहीं है", "en": "That winning is not necessary"}
+            ],
+            "answer": {"hi": "कि हमें जीतना ही चाहिए", "en": "That we must win"}
+          },
+          {
+            "q": {
+              "hi": "जीवन के खेल में मुख्य बात क्या है?",
+              "en": "What is the main thing in the game of life?"
+            },
+            "options": [
+              {"hi": "जीतना", "en": "Winning"},
+              {"hi": "खेलने का तरीका", "en": "The way we play"},
+              {"hi": "अमीर बनना", "en": "Becoming rich"},
+              {"hi": "प्रसिद्धि पाना", "en": "Getting fame"}
+            ],
+            "answer": {"hi": "खेलने का तरीका", "en": "The way we play"}
+          }
+        ],
+        "section5": [
+          {
+            "q": {
+              "hi": "क्या हारना जीवन का हिस्सा है?",
+              "en": "Is failing a part of life?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद ही कभी", "en": "Rarely"},
+              {"hi": "बिल्कुल नहीं", "en": "Not at all"}
+            ],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {
+              "hi": "कवि के अनुसार, क्या अमीर होना जीत की गारंटी है?",
+              "en": "According to the poet, is being rich a guarantee of winning?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "हाँ, हमेशा", "en": "Yes, always"},
+              {"hi": "शायद", "en": "Maybe"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": {
+              "hi": "कविता में 'life is a game' से क्या मतलब है?",
+              "en": "What is meant by 'life is a game' in the poem?"
+            },
+            "options": [
+              {"hi": "यह मनोरंजन है", "en": "It is entertainment"},
+              {"hi": "इसमें उतार-चढ़ाव और चुनौतियाँ हैं", "en": "It has ups and downs and challenges"},
+              {"hi": "यह केवल पैसा कमाने का ज़रिया है", "en": "It is just a way to earn money"},
+              {"hi": "इसमें कोई नियम नहीं हैं", "en": "It has no rules"}
+            ],
+            "answer": {"hi": "इसमें उतार-चढ़ाव और चुनौतियाँ हैं", "en": "It has ups and downs and challenges"}
+          },
+          {
+            "q": {
+              "hi": "कवि 'goal' को 'cherished' क्यों कहता है?",
+              "en": "Why does the poet call the goal 'cherished'?"
+            },
+            "options": [
+              {"hi": "क्योंकि यह आसान है", "en": "Because it is easy"},
+              {"hi": "क्योंकि यह हमारे दिल के करीब है", "en": "Because it is dear to our heart"},
+              {"hi": "क्योंकि यह मुफ़्त है", "en": "Because it is free"},
+              {"hi": "क्योंकि इसे पाना ज़रूरी नहीं है", "en": "Because it is not necessary"}
+            ],
+            "answer": {"hi": "क्योंकि यह हमारे दिल के करीब है", "en": "Because it is dear to our heart"}
+          },
+          {
+            "q": {
+              "hi": "कविता में 'whine' का अर्थ क्या है?",
+              "en": "What is the meaning of 'whine' in the poem?"
+            },
+            "options": [
+              {"hi": "खेलना", "en": "To play"},
+              {"hi": "शिकायत करना", "en": "To complain"},
+              {"hi": "जीतना", "en": "To win"},
+              {"hi": "हंसना", "en": "To laugh"}
+            ],
+            "answer": {"hi": "शिकायत करना", "en": "To complain"}
+          },
+          {
+            "q": {
+              "hi": "जब आप हारें तो भी क्या बनाए रखना चाहिए?",
+              "en": "What should one maintain even when failing?"
+            },
+            "options": [
+              {"hi": "गुस्सा", "en": "Anger"},
+              {"hi": "आशावाद और साहस", "en": "Optimism and courage"},
+              {"hi": "उदासी", "en": "Sadness"},
+              {"hi": "आलस", "en": "Laziness"}
+            ],
+            "answer": {"hi": "आशावाद और साहस", "en": "Optimism and courage"}
+          },
+          {
+            "q": {
+              "hi": "क्या हमें दूसरों की सफलता देखकर जलन होनी चाहिए?",
+              "en": "Should we feel jealous seeing others' success?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "कभी-कभी", "en": "Sometimes"},
+              {"hi": "हाँ, अगर वह हमसे बेहतर है", "en": "Yes, if they are better than us"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": {
+              "hi": "कवि के अनुसार 'success' का असली आधार क्या है?",
+              "en": "According to the poet, what is the real basis of 'success'?"
+            },
+            "options": [
+              {"hi": "ईमानदार प्रयास", "en": "Honest effort"},
+              {"hi": "पैसा", "en": "Money"},
+              {"hi": "किस्मत", "en": "Luck"},
+              {"hi": "प्रसिद्धि", "en": "Fame"}
+            ],
+            "answer": {"hi": "ईमानदार प्रयास", "en": "Honest effort"}
+          },
+          {
+            "q": {
+              "hi": "कविता हमें क्या सिखाती है?",
+              "en": "What does the poem teach us?"
+            },
+            "options": [
+              {"hi": "लड़ना", "en": "To fight"},
+              {"hi": "खेल को सही ढंग से खेलना", "en": "To play the game in the right spirit"},
+              {"hi": "हार मान लेना", "en": "To give up"},
+              {"hi": "शोर मचाना", "en": "To make noise"}
+            ],
+            "answer": {"hi": "खेल को सही ढंग से खेलना", "en": "To play the game in the right spirit"}
+          },
+          {
+            "q": {
+              "hi": "क्या पूरी दुनिया के उदास होने पर भी आपका विश्वास (faith) अडिग रहना चाहिए?",
+              "en": "Should your faith remain firm even when the whole world seems blue?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "नहीं, परिस्थिति बदलनी चाहिए", "en": "No, situation should change"}
+            ],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          }
+        ]
+      }
     }
   }
+  
     
   
   
