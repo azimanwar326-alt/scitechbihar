@@ -4167,9 +4167,671 @@
             "answer": {"hi": "हाँ", "en": "Yes"}
           }
         ]
+      },
+    "chapter05": {
+        "section1": [
+          {
+            "q": {
+              "hi": "गुलिवर के यात्रा वृत्तांत के लेखक कौन हैं?",
+              "en": "Who is the author of Gulliver's Travels?"
+            },
+            "options": [
+              {"hi": "विलियम शेक्सपियर", "en": "William Shakespeare"},
+              {"hi": "जोनाथन स्विफ्ट", "en": "Jonathan Swift"},
+              {"hi": "रस्किन बॉन्ड", "en": "Ruskin Bond"},
+              {"hi": "सी.एस. लुईस", "en": "C.S. Lewis"}
+            ],
+            "answer": {"hi": "जोनाथन स्विफ्ट", "en": "Jonathan Swift"}
+          },
+          {
+            "q": {
+              "hi": "गुलिवर का जहाज कहाँ टकराया था?",
+              "en": "Where did Gulliver's ship crash?"
+            },
+            "options": [
+              {"hi": "बर्फ की चट्टान पर", "en": "On an iceberg"},
+              {"hi": "कुछ चट्टानों पर", "en": "Into some rocks"},
+              {"hi": "दूसरे जहाज से", "en": "Into another ship"},
+              {"hi": "किनारे पर", "en": "On the shore"}
+            ],
+            "answer": {"hi": "कुछ चट्टानों पर", "en": "Into some rocks"}
+          },
+          {
+            "q": {
+              "hi": "गुलिवर जब जागता है, तो वह खुद को किस स्थिति में पाता है?",
+              "en": "In what state does Gulliver find himself when he wakes up?"
+            },
+            "options": [
+              {"hi": "आजाद", "en": "Free"},
+              {"hi": "बंधा हुआ", "en": "Tied to the ground"},
+              {"hi": "पानी में", "en": "In the water"},
+              {"hi": "एक गुफा में", "en": "In a cave"}
+            ],
+            "answer": {"hi": "बंधा हुआ", "en": "Tied to the ground"}
+          },
+          {
+            "q": {
+              "hi": "लिलिपुट के लोग कितने लंबे थे?",
+              "en": "How tall were the Lilliputians?"
+            },
+            "options": [
+              {"hi": "एक फुट", "en": "One foot"},
+              {"hi": "छह इंच", "en": "Six inches"},
+              {"hi": "दो फुट", "en": "Two feet"},
+              {"hi": "तीन इंच", "en": "Three inches"}
+            ],
+            "answer": {"hi": "छह इंच", "en": "Six inches"}
+          },
+          {
+            "q": {
+              "hi": "गुलिवर ने चिल्लाया तो छोटे लोग क्या किए?",
+              "en": "What did the little people do when Gulliver shouted?"
+            },
+            "options": [
+              {"hi": "वे हमला किए", "en": "They attacked"},
+              {"hi": "वे डर कर भाग गए", "en": "They ran away in fright"},
+              {"hi": "वे गाना गाए", "en": "They sang"},
+              {"hi": "वे हंसने लगे", "en": "They laughed"}
+            ],
+            "answer": {"hi": "वे डर कर भाग गए", "en": "They ran away in fright"}
+          },
+          {
+            "q": {
+              "hi": "गुलिवर ने खुद को मुक्त करने के लिए क्या तोड़ने की कोशिश की?",
+              "en": "What did Gulliver try to break to free himself?"
+            },
+            "options": [
+              {"hi": "जंजीरें", "en": "Chains"},
+              {"hi": "खूंटियाँ और धागे", "en": "Stakes and strings"},
+              {"hi": "पिंजरा", "en": "Cage"},
+              {"hi": "दीवार", "en": "Wall"}
+            ],
+            "answer": {"hi": "खूंटियाँ और धागे", "en": "Stakes and strings"}
+          },
+          {
+            "q": {
+              "hi": "छोटे लोगों ने गुलिवर पर क्या चलाया?",
+              "en": "What did the little people shoot at Gulliver?"
+            },
+            "options": [
+              {"hi": "पत्थर", "en": "Stones"},
+              {"hi": "तीर", "en": "Arrows"},
+              {"hi": "गुब्बारे", "en": "Balloons"},
+              {"hi": "फूल", "en": "Flowers"}
+            ],
+            "answer": {"hi": "तीर", "en": "Arrows"}
+          },
+          {
+            "q": {
+              "hi": "गुलिवर की जैकेट उनके भालों (spears) से क्यों नहीं फटी?",
+              "en": "Why did the spears not pierce Gulliver's jacket?"
+            },
+            "options": [
+              {"hi": "वह बहुत पुरानी थी", "en": "It was very old"},
+              {"hi": "कपड़ा बहुत मजबूत था", "en": "The cloth was made of strong material"},
+              {"hi": "भाले नरम थे", "en": "The spears were soft"},
+              {"hi": "वह बहुत ढीली थी", "en": "It was very loose"}
+            ],
+            "answer": {"hi": "कपड़ा बहुत मजबूत था", "en": "The cloth was made of strong material"}
+          },
+          {
+            "q": {
+              "hi": "छोटे लोगों ने गुलिवर के खाने के लिए क्या बनाया?",
+              "en": "What did the little people build to serve Gulliver food?"
+            },
+            "options": [
+              {"hi": "मेज", "en": "A table"},
+              {"hi": "प्लेटफॉर्म", "en": "A platform"},
+              {"hi": "टोकरी", "en": "A basket"},
+              {"hi": "रसोई", "en": "A kitchen"}
+            ],
+            "answer": {"hi": "प्लेटफॉर्म", "en": "A platform"}
+          },
+          {
+            "q": {
+              "hi": "गुलिवर को प्यास लगने पर उन्होंने क्या दिया?",
+              "en": "What did they give Gulliver when he was thirsty?"
+            },
+            "options": [
+              {"hi": "पानी", "en": "Water"},
+              {"hi": "शराब (wine)", "en": "Wine"},
+              {"hi": "जूस", "en": "Juice"},
+              {"hi": "दूध", "en": "Milk"}
+            ],
+            "answer": {"hi": "शराब", "en": "Wine"}
+          }
+        ],
+        "section2": [
+          {
+            "q": {
+              "hi": "गुलिवर शुरू में कैसा व्यक्ति था?",
+              "en": "What kind of person was Gulliver initially?"
+            },
+            "options": [
+              {"hi": "अनुभवी", "en": "Experienced"},
+              {"hi": "नासमझ (naive)", "en": "Naive"},
+              {"hi": "क्रूर", "en": "Cruel"},
+              {"hi": "बहुत होशियार", "en": "Very clever"}
+            ],
+            "answer": {"hi": "नासमझ", "en": "Naive"}
+          },
+          {
+            "q": {
+              "hi": "गुलिवर को क्या महसूस हुआ जब वह सोया हुआ था?",
+              "en": "What did Gulliver feel while he was sleeping?"
+            },
+            "options": [
+              {"hi": "हवा", "en": "Wind"},
+              {"hi": "धागे", "en": "Thin pieces of string"},
+              {"hi": "बारिश", "en": "Rain"},
+              {"hi": "बर्फ", "en": "Snow"}
+            ],
+            "answer": {"hi": "धागे", "en": "Thin pieces of string"}
+          },
+          {
+            "q": {
+              "hi": "लिलिपुटियों ने गुलिवर पर क्या चलाया?",
+              "en": "What did the Lilliputians shoot through the air?"
+            },
+            "options": [
+              {"hi": "तीर", "en": "Arrows"},
+              {"hi": "गोलियां", "en": "Bullets"},
+              {"hi": "पत्थर", "en": "Stones"},
+              {"hi": "पानी", "en": "Water"}
+            ],
+            "answer": {"hi": "तीर", "en": "Arrows"}
+          },
+          {
+            "q": {
+              "hi": "गुलिवर ने लिलिपुटियों को यह कैसे बताया कि वह भूखा है?",
+              "en": "How did Gulliver signal that he was hungry?"
+            },
+            "options": [
+              {"hi": "चिल्लाकर", "en": "By shouting"},
+              {"hi": "मुंह की तरफ इशारा करके", "en": "By pointing to his mouth"},
+              {"hi": "रोकर", "en": "By crying"},
+              {"hi": "लिखकर", "en": "By writing"}
+            ],
+            "answer": {"hi": "मुंह की तरफ इशारा करके", "en": "By pointing to his mouth"}
+          },
+          {
+            "q": {
+              "hi": "गुलिवर को लिलिपुटियों ने कौन सी शर्त पर खाना दिया?",
+              "en": "On what condition did they give him food?"
+            },
+            "options": [
+              {"hi": "स्वतंत्रता के बदले", "en": "In exchange for freedom"},
+              {"hi": "बिना किसी शर्त के", "en": "Without any condition"},
+              {"hi": "काम करने के बदले", "en": "In exchange for work"},
+              {"hi": "वे खाना नहीं दे रहे थे", "en": "They were not giving food"}
+            ],
+            "answer": {"hi": "स्वतंत्रता के बदले", "en": "In exchange for freedom"}
+          },
+          {
+            "q": {
+              "hi": "क्रिस्टोफर कोलंबस कौन था?",
+              "en": "Who was Christopher Columbus?"
+            },
+            "options": [
+              {"hi": "एक लेखक", "en": "An author"},
+              {"hi": "एक इतालवी खोजकर्ता", "en": "An Italian explorer"},
+              {"hi": "एक राजा", "en": "A king"},
+              {"hi": "एक व्यापारी", "en": "A businessman"}
+            ],
+            "answer": {"hi": "एक इतालवी खोजकर्ता", "en": "An Italian explorer"}
+          },
+          {
+            "q": {
+              "hi": "कोलंबस ने अमेरिका के मूल निवासियों को क्या कहा?",
+              "en": "What did Columbus call the native people of America?"
+            },
+            "options": [
+              {"hi": "अमेरिकन", "en": "Americans"},
+              {"hi": "इंडियन", "en": "Indian"},
+              {"hi": "लिलिपुटी", "en": "Lilliputian"},
+              {"hi": "विदेशी", "en": "Foreigners"}
+            ],
+            "answer": {"hi": "इंडियन", "en": "Indian"}
+          },
+          {
+            "q": {
+              "hi": "गुलिवर के लिए कौन सा हिस्सा हिलना संभव था?",
+              "en": "What part of his body could Gulliver move initially?"
+            },
+            "options": [
+              {"hi": "हाथ", "en": "Hands"},
+              {"hi": "पैर", "en": "Legs"},
+              {"hi": "आंखें", "en": "Eyes"},
+              {"hi": "सिर", "en": "Head"}
+            ],
+            "answer": {"hi": "आंखें", "en": "Eyes"}
+          },
+          {
+            "q": {
+              "hi": "लिलिपुटियों ने गुलिवर के चारों ओर क्या लगाया?",
+              "en": "What did the Lilliputians place against Gulliver's sides?"
+            },
+            "options": [
+              {"hi": "दीवारें", "en": "Walls"},
+              {"hi": "सीढ़ियाँ", "en": "Ladders"},
+              {"hi": "रस्सियाँ", "en": "Ropes"},
+              {"hi": "खंभे", "en": "Pillars"}
+            ],
+            "answer": {"hi": "सीढ़ियाँ", "en": "Ladders"}
+          },
+          {
+            "q": {
+              "hi": "गुलिवर के जहाज के साथ क्या हुआ?",
+              "en": "What happened to Gulliver's ship?"
+            },
+            "options": [
+              {"hi": "वह खो गया", "en": "It got lost"},
+              {"hi": "वह चट्टानों से टकराकर डूब गया", "en": "It crashed into rocks and sank"},
+              {"hi": "वह सुरक्षित था", "en": "It was safe"},
+              {"hi": "वह चोरी हो गया", "en": "It was stolen"}
+            ],
+            "answer": {"hi": "वह चट्टानों से टकराकर डूब गया", "en": "It crashed into rocks and sank"}
+          }
+        ],
+        "section3": [
+          {
+            "q": {
+              "hi": "गुलिवर जब जागा, तो उसने सबसे पहले क्या महसूस किया?",
+              "en": "What did Gulliver feel first when he woke up?"
+            },
+            "options": [
+              {"hi": "प्यास", "en": "Thirst"},
+              {"hi": "दर्द", "en": "Pain"},
+              {"hi": "पवित्रता", "en": "Freedom"},
+              {"hi": "असमर्थता", "en": "Inability to move"}
+            ],
+            "answer": {"hi": "असमर्थता", "en": "Inability to move"}
+          },
+          {
+            "q": {
+              "hi": "कितने छोटे लोग गुलिवर पर चढ़े थे?",
+              "en": "About how many little people climbed over Gulliver?"
+            },
+            "options": [
+              {"hi": "दस", "en": "Ten"},
+              {"hi": "चालीस", "en": "Forty"},
+              {"hi": "सौ", "en": "One hundred"},
+              {"hi": "बीस", "en": "Twenty"}
+            ],
+            "answer": {"hi": "चालीस", "en": "Forty"}
+          },
+          {
+            "q": {
+              "hi": "लिलिपुटियों के तीर गुलिवर को कैसे लग रहे थे?",
+              "en": "How did the Lilliputian arrows feel to Gulliver?"
+            },
+            "options": [
+              {"hi": "मक्खी के काटने जैसे", "en": "Like bee stings"},
+              {"hi": "तेज सुइयों जैसे", "en": "Like sharp needles"},
+              {"hi": "गुदगुदी जैसे", "en": "Like tickles"},
+              {"hi": "छड़ी जैसे", "en": "Like sticks"}
+            ],
+            "answer": {"hi": "तेज सुइयों जैसे", "en": "Like sharp needles"}
+          },
+          {
+            "q": {
+              "hi": "गुलिवर के अनुसार एक पिंट (pint) में कितना तरल आता है?",
+              "en": "What is a pint a unit for?"
+            },
+            "options": [
+              {"hi": "लंबाई", "en": "Length"},
+              {"hi": "द्रव्य (liquids)", "en": "Liquids"},
+              {"hi": "वजन", "en": "Weight"},
+              {"hi": "समय", "en": "Time"}
+            ],
+            "answer": {"hi": "द्रव्य", "en": "Liquids"}
+          },
+          {
+            "q": {
+              "hi": "लिलिपुटियों ने उसे किस वस्तु में शराब दी?",
+              "en": "In what container did they give him the wine?"
+            },
+            "options": [
+              {"hi": "प्याला", "en": "Cup"},
+              {"hi": "पीपा (barrel)", "en": "Barrel"},
+              {"hi": "बोतल", "en": "Bottle"},
+              {"hi": "मटका", "en": "Pot"}
+            ],
+            "answer": {"hi": "पीपा", "en": "Barrel"}
+          },
+          {
+            "q": {
+              "hi": "गुलिवर लिलिपुटियों से क्यों नहीं बात कर पा रहा था?",
+              "en": "Why couldn't Gulliver communicate with the Lilliputians?"
+            },
+            "options": [
+              {"hi": "वह गूंगा था", "en": "He was dumb"},
+              {"hi": "भाषा अलग थी", "en": "The language was different"},
+              {"hi": "वह डरा हुआ था", "en": "He was scared"},
+              {"hi": "वह सो रहा था", "en": "He was sleeping"}
+            ],
+            "answer": {"hi": "भाषा अलग थी", "en": "The language was different"}
+          },
+          {
+            "q": {
+              "hi": "गुलिवर के बालों के बारे में क्या कहा गया है?",
+              "en": "What is described about Gulliver's hair?"
+            },
+            "options": [
+              {"hi": "छोटे और पतले", "en": "Short and thin"},
+              {"hi": "लंबे और घने", "en": "Long and thick"},
+              {"hi": "सुनहरे", "en": "Golden"},
+              {"hi": "वह गंजा था", "en": "He was bald"}
+            ],
+            "answer": {"hi": "लंबे और घने", "en": "Long and thick"}
+          },
+          {
+            "q": {
+              "hi": "गुलिवर कब सो गया था?",
+              "en": "When did Gulliver fall asleep?"
+            },
+            "options": [
+              {"hi": "समुद्र में", "en": "In the sea"},
+              {"hi": "जमीन पर पहुँचने के बाद", "en": "After reaching the dry land"},
+              {"hi": "जहाज पर", "en": "On the ship"},
+              {"hi": "पेड़ पर", "en": "On a tree"}
+            ],
+            "answer": {"hi": "जमीन पर पहुँचने के बाद", "en": "After reaching the dry land"}
+          },
+          {
+            "q": {
+              "hi": "गुलिवर की कहानी के बारे में क्या प्रसिद्ध है?",
+              "en": "What is famous about Gulliver's Travels?"
+            },
+            "options": [
+              {"hi": "यह एक कविता है", "en": "It is a poem"},
+              {"hi": "यह एक उपन्यास है", "en": "It is a novel"},
+              {"hi": "यह एक नाटक है", "en": "It is a play"},
+              {"hi": "यह एक सच्ची घटना है", "en": "It is a true story"}
+            ],
+            "answer": {"hi": "यह एक उपन्यास है", "en": "It is a novel"}
+          },
+          {
+            "q": {
+              "hi": "क्या प्राचीन काल में नई जमीन खोजना आसान था?",
+              "en": "Was it easy to discover new lands in the early times?"
+            },
+            "options": [
+              {"hi": "हाँ, बहुत आसान", "en": "Yes, very easy"},
+              {"hi": "नहीं, बहुत कठिन", "en": "No, it was very difficult"},
+              {"hi": "हाँ, उपकरणों के कारण", "en": "Yes, due to equipment"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं, बहुत कठिन", "en": "No, it was very difficult"}
+          }
+        ],
+        "section4": [
+          {
+            "q": {
+              "hi": "गुलिवर के हाथ और पैर किससे बंधे थे?",
+              "en": "What were Gulliver's arms and legs tied to?"
+            },
+            "options": [
+              {"hi": "पेड़ से", "en": "To a tree"},
+              {"hi": "जमीन से", "en": "To the ground"},
+              {"hi": "पत्थर से", "en": "To a stone"},
+              {"hi": "खंभे से", "en": "To a pole"}
+            ],
+            "answer": {"hi": "जमीन से", "en": "To the ground"}
+          },
+          {
+            "q": {
+              "hi": "गुलिवर के चेहरे पर क्या लगा था?",
+              "en": "What was Gulliver's face covered with?"
+            },
+            "options": [
+              {"hi": "मिट्टी", "en": "Mud"},
+              {"hi": "तीर", "en": "Arrows"},
+              {"hi": "पानी", "en": "Water"},
+              {"hi": "कपड़ा", "en": "Cloth"}
+            ],
+            "answer": {"hi": "तीर", "en": "Arrows"}
+          },
+          {
+            "q": {
+              "hi": "गुलिवर के अनुसार लिलिपुटी कहाँ रहते थे?",
+              "en": "Where did Gulliver's journey lead him?"
+            },
+            "options": [
+              {"hi": "भारत", "en": "India"},
+              {"hi": "लिलिपुट की जमीन", "en": "Land of the Lilliputians"},
+              {"hi": "अमेरिका", "en": "America"},
+              {"hi": "एक टापू", "en": "An island"}
+            ],
+            "answer": {"hi": "लिलिपुट की जमीन", "en": "Land of the Lilliputians"}
+          },
+          {
+            "q": {
+              "hi": "गुलिवर ने कितने ब्रेड खाए?",
+              "en": "How many loaves of bread did Gulliver eat?"
+            },
+            "options": [
+              {"hi": "एक", "en": "One"},
+              {"hi": "दो", "en": "Two"},
+              {"hi": "तीन", "en": "Three"},
+              {"hi": "दस", "en": "Ten"}
+            ],
+            "answer": {"hi": "तीन", "en": "Three"}
+          },
+          {
+            "q": {
+              "hi": "गुलिवर की यात्रा किस महासागर में थी?",
+              "en": "Which ocean was Gulliver traveling in?"
+            },
+            "options": [
+              {"hi": "अटलांटिक", "en": "Atlantic"},
+              {"hi": "प्रशांत (Pacific)", "en": "Pacific Ocean"},
+              {"hi": "हिंद", "en": "Indian Ocean"},
+              {"hi": "आर्कटिक", "en": "Arctic"}
+            ],
+            "answer": {"hi": "प्रशांत", "en": "Pacific Ocean"}
+          },
+          {
+            "q": {
+              "hi": "लिलिपुटियों ने पहली बार में क्या किया जब उन्होंने गुलिवर को देखा?",
+              "en": "What did they do initially when they saw Gulliver?"
+            },
+            "options": [
+              {"hi": "स्वागत", "en": "Welcomed"},
+              {"hi": "बात की", "en": "Talked"},
+              {"hi": "तीर चलाए", "en": "Shot arrows"},
+              {"hi": "खाना दिया", "en": "Gave food"}
+            ],
+            "answer": {"hi": "तीर चलाए", "en": "Shot arrows"}
+          },
+          {
+            "q": {
+              "hi": "गुलिवर के हाथ में क्या महसूस हुआ?",
+              "en": "What did Gulliver feel on his left leg?"
+            },
+            "options": [
+              {"hi": "कुछ जीवित (alive)", "en": "Something alive"},
+              {"hi": "हवा", "en": "Wind"},
+              {"hi": "पत्थर", "en": "Stone"},
+              {"hi": "सुई", "en": "Needle"}
+            ],
+            "answer": {"hi": "कुछ जीवित", "en": "Something alive"}
+          },
+          {
+            "q": {
+              "hi": "गुलिवर के पास कितने लिलिपुटी आए?",
+              "en": "About how many more little people climbed on Gulliver?"
+            },
+            "options": [
+              {"hi": "दस", "en": "Ten"},
+              {"hi": "चालीस", "en": "Forty"},
+              {"hi": "सौ", "en": "One hundred"},
+              {"hi": "पचास", "en": "Fifty"}
+            ],
+            "answer": {"hi": "चालीस", "en": "Forty"}
+          },
+          {
+            "q": {
+              "hi": "लिलिपुटियों ने भोजन कैसे पहुँचाया?",
+              "en": "How did they reach Gulliver to provide food?"
+            },
+            "options": [
+              {"hi": "उड़कर", "en": "By flying"},
+              {"hi": "सीढ़ी से", "en": "Using ladders"},
+              {"hi": "कूदकर", "en": "By jumping"},
+              {"hi": "फेंककर", "en": "By throwing"}
+            ],
+            "answer": {"hi": "सीढ़ी से", "en": "Using ladders"}
+          },
+          {
+            "q": {
+              "hi": "गुलिवर की जैकेट का कपड़ा कैसा था?",
+              "en": "What is said about Gulliver's jacket?"
+            },
+            "options": [
+              {"hi": "मजबूत", "en": "Strong"},
+              {"hi": "कमजोर", "en": "Weak"},
+              {"hi": "रेशमी", "en": "Silky"},
+              {"hi": "बारीक", "en": "Thin"}
+            ],
+            "answer": {"hi": "मजबूत", "en": "Strong"}
+          }
+        ],
+        "section5": [
+          {
+            "q": {
+              "hi": "गुलिवर का व्यक्तित्व अंत में कैसा हो गया?",
+              "en": "What feeling did Gulliver have for the human race by the end?"
+            },
+            "options": [
+              {"hi": "प्यार", "en": "Love"},
+              {"hi": "घृणा (hatred)", "en": "Hatred"},
+              {"hi": "तटस्थ", "en": "Neutral"},
+              {"hi": "सम्मान", "en": "Respect"}
+            ],
+            "answer": {"hi": "घृणा", "en": "Hatred"}
+          },
+          {
+            "q": {
+              "hi": "लिलिपुटियों के तीर कैसे थे?",
+              "en": "How were the spears of the little people?"
+            },
+            "options": [
+              {"hi": "तेज", "en": "Sharp"},
+              {"hi": "कुंद", "en": "Not sharp enough"},
+              {"hi": "भारी", "en": "Heavy"},
+              {"hi": "जहरीले", "en": "Poisonous"}
+            ],
+            "answer": {"hi": "कुंद", "en": "Not sharp enough"}
+          },
+          {
+            "q": {
+              "hi": "गुलिवर को लिलिपुटियों के भाषा के बारे में क्या पता था?",
+              "en": "Could Gulliver understand the language of the little people?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "थोड़ी बहुत", "en": "A little"},
+              {"hi": "सीख गया था", "en": "Learned it"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": {
+              "hi": "लिलिपुटियों का मंच जमीन से कितनी ऊंचाई पर था?",
+              "en": "How high was the platform from the ground?"
+            },
+            "options": [
+              {"hi": "6 इंच", "en": "6 inches"},
+              {"hi": "18 इंच", "en": "18 inches"},
+              {"hi": "1 फुट", "en": "1 foot"},
+              {"hi": "10 इंच", "en": "10 inches"}
+            ],
+            "answer": {"hi": "18 इंच", "en": "18 inches"}
+          },
+          {
+            "q": {
+              "hi": "गुलिवर के हाथ में क्या चुभा?",
+              "en": "What felt like sharp needles on his face and hands?"
+            },
+            "options": [
+              {"hi": "घास", "en": "Grass"},
+              {"hi": "तीर", "en": "Arrows"},
+              {"hi": "पत्थर", "en": "Stones"},
+              {"hi": "कांटे", "en": "Thorns"}
+            ],
+            "answer": {"hi": "तीर", "en": "Arrows"}
+          },
+          {
+            "q": {
+              "hi": "लिलिपुटियों के लोगों का व्यवहार कैसा था?",
+              "en": "Were the little people pleased that Gulliver ate their food?"
+            },
+            "options": [
+              {"hi": "वे खुश थे", "en": "Yes, they were pleased"},
+              {"hi": "वे दुखी थे", "en": "No, they were sad"},
+              {"hi": "वे क्रोधित थे", "en": "They were angry"},
+              {"hi": "उन्हें परवाह नहीं थी", "en": "They didn't care"}
+            ],
+            "answer": {"hi": "वे खुश थे", "en": "Yes, they were pleased"}
+          },
+          {
+            "q": {
+              "hi": "गुलिवर के जहाज के डूबने के बाद वह क्या किया?",
+              "en": "What did Gulliver do after his ship sank?"
+            },
+            "options": [
+              {"hi": "वह तैरकर किनारे पहुँचा", "en": "He swam safely to dry land"},
+              {"hi": "वह डूब गया", "en": "He drowned"},
+              {"hi": "वह नाव ढूंढ लिया", "en": "He found a boat"},
+              {"hi": "वह वहीं बैठ गया", "en": "He sat there"}
+            ],
+            "answer": {"hi": "वह तैरकर किनारे पहुँचा", "en": "He swam safely to dry land"}
+          },
+          {
+            "q": {
+              "hi": "गुलिवर के शरीर पर कितने लोगों ने तीर चलाए?",
+              "en": "About how many arrows shot through the air at Gulliver?"
+            },
+            "options": [
+              {"hi": "50", "en": "50"},
+              {"hi": "100", "en": "One hundred"},
+              {"hi": "20", "en": "20"},
+              {"hi": "200", "en": "200"}
+            ],
+            "answer": {"hi": "100", "en": "One hundred"}
+          },
+          {
+            "q": {
+              "hi": "लिलिपुटियों ने भोजन के रूप में क्या दिया?",
+              "en": "What were the little people carrying in the baskets?"
+            },
+            "options": [
+              {"hi": "फल", "en": "Fruits"},
+              {"hi": "ब्रेड और मीट", "en": "Bread and meat"},
+              {"hi": "सब्जियाँ", "en": "Vegetables"},
+              {"hi": "मिठाई", "en": "Sweets"}
+            ],
+            "answer": {"hi": "ब्रेड और मीट", "en": "Bread and meat"}
+          },
+          {
+            "q": {
+              "hi": "क्या गुलिवर की आजादी उसे मिल गई?",
+              "en": "Did Gulliver get his freedom along with the food?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "थोड़ी देर के लिए", "en": "For some time"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          }
+        ]
       }
-    }
-  }
+   }
+ }
   
     
   
