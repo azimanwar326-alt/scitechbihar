@@ -2843,7 +2843,672 @@
           {"q": {"hi": "कविता का संदेश क्या है?", "en": "What is the message of the poem?"}, "options": [{"hi": "प्रकृति के बिना जीवन कठिन है", "en": "Life without nature is difficult"}, {"hi": "हवा एक दुश्मन है", "en": "Wind is an enemy"}, {"hi": "हवा हमेशा बुरी होती है", "en": "Wind is always bad"}, {"hi": "हवा का होना ज़रूरी नहीं है", "en": "Wind is not necessary"}], "answer": {"hi": "प्रकृति के बिना जीवन कठिन है", "en": "Life without nature is difficult"}},
           {"q": {"hi": "अंत में कवि हवा के प्रति अपना क्या भाव व्यक्त करता है?", "en": "What feeling does the poet express towards the wind in the end?"}, "options": [{"hi": "नफरत", "en": "Hatred"}, {"hi": "कृतज्ञता (Gratitude)", "en": "Gratitude"}, {"hi": "डर", "en": "Fear"}, {"hi": "गुस्सा", "en": "Anger"}], "answer": {"hi": "कृतज्ञता (Gratitude)", "en": "Gratitude"}}
         ]
-      }
+      },
+    "chapter04": {
+        "section1": [
+          {
+            "q": {
+              "hi": "तारा किस शहर से थी?",
+              "en": "Which town was Tara from?"
+            },
+            "options": [
+              {"hi": "दिल्ली", "en": "Delhi"},
+              {"hi": "बुलंदशहर", "en": "Bulandshahr"},
+              {"hi": "चेन्नई", "en": "Chennai"},
+              {"hi": "महाबलीपुरम", "en": "Mahabalipuram"}
+            ],
+            "answer": {"hi": "बुलंदशहर", "en": "Bulandshahr"}
+          },
+          {
+            "q": {
+              "hi": "वसंती किस शहर से थी?",
+              "en": "Which town was Vasanthi from?"
+            },
+            "options": [
+              {"hi": "बुलंदशहर", "en": "Bulandshahr"},
+              {"hi": "दिल्ली", "en": "Delhi"},
+              {"hi": "ऊरयूर", "en": "Woorayoor"},
+              {"hi": "चेन्नई", "en": "Chennai"}
+            ],
+            "answer": {"hi": "ऊरयूर", "en": "Woorayoor"}
+          },
+          {
+            "q": {
+              "hi": "लड़कियां किस कार्यक्रम में भाग लेने आई थीं?",
+              "en": "What event had the girls come to participate in?"
+            },
+            "options": [
+              {"hi": "खेल प्रतियोगिता", "en": "Sports competition"},
+              {"hi": "अंतर-राज्य स्कूल सांस्कृतिक महोत्सव", "en": "Inter-State School Cultural Festival"},
+              {"hi": "विज्ञान प्रदर्शनी", "en": "Science exhibition"},
+              {"hi": "लेखन प्रतियोगिता", "en": "Writing competition"}
+            ],
+            "answer": {"hi": "अंतर-राज्य स्कूल सांस्कृतिक महोत्सव", "en": "Inter-State School Cultural Festival"}
+          },
+          {
+            "q": {
+              "hi": "तारा ने किस प्रकार के संगीत में भाग लिया?",
+              "en": "In what type of music did Tara participate?"
+            },
+            "options": [
+              {"hi": "शास्त्रीय संगीत", "en": "Classical music"},
+              {"hi": "सुगम संगीत", "en": "Light music"},
+              {"hi": "लोक संगीत", "en": "Folk music"},
+              {"hi": "पॉप संगीत", "en": "Pop music"}
+            ],
+            "answer": {"hi": "सुगम संगीत", "en": "Light music"}
+          },
+          {
+            "q": {
+              "hi": "वसंती के लोक गीत का नाम क्या था?",
+              "en": "What was the name of Vasanthi's folk song?"
+            },
+            "options": [
+              {"hi": "कजरी", "en": "Kajri"},
+              {"hi": "कुम्मी पट्टु", "en": "Kummi pattu"},
+              {"hi": "भजन", "en": "Bhajan"},
+              {"hi": "ग़ज़ल", "en": "Ghazal"}
+            ],
+            "answer": {"hi": "कुम्मी पट्टु", "en": "Kummi pattu"}
+          },
+          {
+            "q": {
+              "hi": "तारा के राज्य से दूसरी प्रतिभागी कौन थी?",
+              "en": "Who was the other participant from Tara's state?"
+            },
+            "options": [
+              {"hi": "वसंती", "en": "Vasanthi"},
+              {"hi": "मीरा", "en": "Meera"},
+              {"hi": "बहनजी", "en": "Bahenji"},
+              {"hi": "कोई नहीं", "en": "None"}
+            ],
+            "answer": {"hi": "मीरा", "en": "Meera"}
+          },
+          {
+            "q": {
+              "hi": "लड़कियां भ्रमण के लिए कहाँ गई थीं?",
+              "en": "Where did the girls go for an excursion?"
+            },
+            "options": [
+              {"hi": "दिल्ली", "en": "Delhi"},
+              {"hi": "बुलंदशहर", "en": "Bulandshahr"},
+              {"hi": "महाबलीपुरम", "en": "Mahabalipuram"},
+              {"hi": "ऊरयूर", "en": "Woorayoor"}
+            ],
+            "answer": {"hi": "महाबलीपुरम", "en": "Mahabalipuram"}
+          },
+          {
+            "q": {
+              "hi": "तारा को मंदिर के पास किसने गिरने से बचाया?",
+              "en": "Who saved Tara from falling near the temple?"
+            },
+            "options": [
+              {"hi": "मीरा", "en": "Meera"},
+              {"hi": "बहनजी", "en": "Bahenji"},
+              {"hi": "वसंती", "en": "Vasanthi"},
+              {"hi": "किसी ने नहीं", "en": "No one"}
+            ],
+            "answer": {"hi": "वसंती", "en": "Vasanthi"}
+          },
+          {
+            "q": {
+              "hi": "तारा का गाना सुनकर दर्शकों की क्या प्रतिक्रिया थी?",
+              "en": "What was the audience's reaction after hearing Tara sing?"
+            },
+            "options": [
+              {"hi": "चुप्पी", "en": "Silence"},
+              {"hi": "शोर", "en": "Noise"},
+              {"hi": "गरजती तालियाँ", "en": "Thunderous applause"},
+              {"hi": "हंसी", "en": "Laughter"}
+            ],
+            "answer": {"hi": "गरजती तालियाँ", "en": "Thunderous applause"}
+          },
+          {
+            "q": {
+              "hi": "प्रतियोगिता का परिणाम क्या रहा?",
+              "en": "What was the result of the competition?"
+            },
+            "options": [
+              {"hi": "तारा जीती", "en": "Tara won"},
+              {"hi": "वसंती जीती", "en": "Vasanthi won"},
+              {"hi": "दोनों विजेता थीं", "en": "Both were winners"},
+              {"hi": "कोई नहीं जीता", "en": "No one won"}
+            ],
+            "answer": {"hi": "दोनों विजेता थीं", "en": "Both were winners"}
+          }
+        ],
+        "section2": [
+          {
+            "q": {
+              "hi": "तारा और वसंती की पहली मुलाकात कहाँ हुई थी?",
+              "en": "Where did Tara and Vasanthi first meet?"
+            },
+            "options": [
+              {"hi": "ऑडिटोरियम में", "en": "In the auditorium"},
+              {"hi": "भोजन कक्ष में", "en": "In the dining hall"},
+              {"hi": "अंधेरे में", "en": "In the dark"},
+              {"hi": "मंदिर के पास", "en": "Near the temple"}
+            ],
+            "answer": {"hi": "अंधेरे में", "en": "In the dark"}
+          },
+          {
+            "q": {
+              "hi": "वसंती के कपड़े का रंग क्या था?",
+              "en": "What was the color of Vasanthi's skirt?"
+            },
+            "options": [
+              {"hi": "लाल", "en": "Red"},
+              {"hi": "नीला", "en": "Blue"},
+              {"hi": "हरा", "en": "Green"},
+              {"hi": "पीला", "en": "Yellow"}
+            ],
+            "answer": {"hi": "हरा", "en": "Green"}
+          },
+          {
+            "q": {
+              "hi": "तारा को गाने की कला कैसी मिली?",
+              "en": "How did singing come to Tara?"
+            },
+            "options": [
+              {"hi": "मेहनत से", "en": "Through hard work"},
+              {"hi": "प्राकृतिक रूप से", "en": "Naturally"},
+              {"hi": "सीखने से", "en": "By learning"},
+              {"hi": "अनजाने में", "en": "Accidentally"}
+            ],
+            "answer": {"hi": "प्राकृतिक रूप से", "en": "Naturally"}
+          },
+          {
+            "q": {
+              "hi": "तारा के अनुसार, उसे सबसे ज्यादा किसकी कमी महसूस हुई?",
+              "en": "According to Tara, what did she miss the most?"
+            },
+            "options": [
+              {"hi": "परिवार", "en": "Family"},
+              {"hi": "घर", "en": "Home"},
+              {"hi": "हमउम्र साथी", "en": "A companion of her age"},
+              {"hi": "दोस्त", "en": "Friends"}
+            ],
+            "answer": {"hi": "हमउम्र साथी", "en": "A companion of her age"}
+          },
+          {
+            "q": {
+              "hi": "वसंती ने 'नमस्ते' के लिए कौन सा शब्द इस्तेमाल किया?",
+              "en": "Which word did Vasanthi use to introduce herself?"
+            },
+            "options": [
+              {"hi": "वसंती", "en": "Vasanthi"},
+              {"hi": "येन पेर वसंती", "en": "Yen per Vasanthi"},
+              {"hi": "नमस्ते", "en": "Namaste"},
+              {"hi": "हेलो", "en": "Hello"}
+            ],
+            "answer": {"hi": "येन पेर वसंती", "en": "Yen per Vasanthi"}
+          },
+          {
+            "q": {
+              "hi": "तारा के संगीत प्रतियोगिता का नाम क्या था?",
+              "en": "What was the name of the folk song Tara sang?"
+            },
+            "options": [
+              {"hi": "कजरी", "en": "Kajri"},
+              {"hi": "भजन", "en": "Bhajan"},
+              {"hi": "लोकगीत", "en": "Folk song"},
+              {"hi": "कोई नहीं", "en": "None"}
+            ],
+            "answer": {"hi": "कजरी", "en": "Kajri"}
+          },
+          {
+            "q": {
+              "hi": "वसंती ने खाली समय में किस वाद्ययंत्र का अभ्यास किया?",
+              "en": "Which instrument did Vasanthi practice in her spare time?"
+            },
+            "options": [
+              {"hi": "सितार", "en": "Sitar"},
+              {"hi": "वीणा", "en": "Veena"},
+              {"hi": "गिटार", "en": "Guitar"},
+              {"hi": "तबला", "en": "Tabla"}
+            ],
+            "answer": {"hi": "वीणा", "en": "Veena"}
+          },
+          {
+            "q": {
+              "hi": "भ्रमण के दौरान तारा कहाँ टहल रही थी?",
+              "en": "Where was Tara walking during the excursion?"
+            },
+            "options": [
+              {"hi": "मंदिर के किनारे", "en": "Near the temple edge"},
+              {"hi": "समुद्र तट पर", "en": "On the beach"},
+              {"hi": "बस में", "en": "In the bus"},
+              {"hi": "हॉल में", "en": "In the hall"}
+            ],
+            "answer": {"hi": "मंदिर के किनारे", "en": "Near the temple edge"}
+          },
+          {
+            "q": {
+              "hi": "वसंती के हसने की आवाज़ कैसी थी?",
+              "en": "What did Vasanthi's laughter sound like?"
+            },
+            "options": [
+              {"hi": "पक्षियों जैसी", "en": "Like birds"},
+              {"hi": "मंदिर की घंटियों जैसी", "en": "Like temple bells"},
+              {"hi": "संगीत जैसी", "en": "Like music"},
+              {"hi": "तेज शोर", "en": "Loud noise"}
+            ],
+            "answer": {"hi": "मंदिर की घंटियों जैसी", "en": "Like temple bells"}
+          },
+          {
+            "q": {
+              "hi": "तारा ने फाइनल में कौन सा गाना गाया?",
+              "en": "What song did Tara sing in the final?"
+            },
+            "options": [
+              {"hi": "हिंदी गाना", "en": "Hindi song"},
+              {"hi": "तमिल गाना", "en": "Tamil song"},
+              {"hi": "अंग्रेजी गाना", "en": "English song"},
+              {"hi": "कजरी", "en": "Kajri"}
+            ],
+            "answer": {"hi": "तमिल गाना", "en": "Tamil song"}
+          }
+        ],
+        "section3": [
+          {
+            "q": {
+              "hi": "वसंती को क्या समझ नहीं आ रहा था?",
+              "en": "What was Vasanthi not understanding?"
+            },
+            "options": [
+              {"hi": "तारा का संगीत", "en": "Tara's music"},
+              {"hi": "तारा की भाषा", "en": "Tara's language"},
+              {"hi": "प्रतियोगिता का नियम", "en": "Competition rules"},
+              {"hi": "रास्ता", "en": "The path"}
+            ],
+            "answer": {"hi": "तारा की भाषा", "en": "Tara's language"}
+          },
+          {
+            "q": {
+              "hi": "प्रतियोगिता के लिए तारा और वसंती क्या बन गई थीं?",
+              "en": "What did Tara and Vasanthi become for the competition?"
+            },
+            "options": [
+              {"hi": "मित्र", "en": "Friends"},
+              {"hi": "दुश्मन", "en": "Enemies"},
+              {"hi": "संभावित प्रतिद्वंद्वी", "en": "Potential rivals"},
+              {"hi": "सहयोगी", "en": "Collaborators"}
+            ],
+            "answer": {"hi": "संभावित प्रतिद्वंद्वी", "en": "Potential rivals"}
+          },
+          {
+            "q": {
+              "hi": "मीरा ने तारा से क्या कहा?",
+              "en": "What did Meera say to Tara?"
+            },
+            "options": [
+              {"hi": "तुम हार जाओगी", "en": "You will lose"},
+              {"hi": "तुम बहुत अच्छा गाती हो", "en": "You sing well"},
+              {"hi": "सावधान रहो, कड़ी प्रतिस्पर्धा है", "en": "Watch out, you have stiff competition"},
+              {"hi": "गाना बंद करो", "en": "Stop singing"}
+            ],
+            "answer": {"hi": "सावधान रहो, कड़ी प्रतिस्पर्धा है", "en": "Watch out, you have stiff competition"}
+          },
+          {
+            "q": {
+              "hi": "तारा ने वसंती के साथ दोस्ती क्यों तोड़ दी थी?",
+              "en": "Why did Tara stop being friends with Vasanthi?"
+            },
+            "options": [
+              {"hi": "झगड़े के कारण", "en": "Because of a fight"},
+              {"hi": "प्रतियोगिता के कारण", "en": "Because of competition"},
+              {"hi": "अहंकार के कारण", "en": "Because of ego"},
+              {"hi": "भाषा की समस्या", "en": "Language problem"}
+            ],
+            "answer": {"hi": "प्रतियोगिता के कारण", "en": "Because of competition"}
+          },
+          {
+            "q": {
+              "hi": "तारा ने अपना गाना क्यों नहीं गाना चाहा?",
+              "en": "Why did Tara not want to sing her song?"
+            },
+            "options": [
+              {"hi": "वह डरी हुई थी", "en": "She was scared"},
+              {"hi": "वह हारना चाहती थी", "en": "She wanted to lose"},
+              {"hi": "वसंती ने उसकी जान बचाई थी", "en": "Vasanthi had saved her life"},
+              {"hi": "वह बीमार थी", "en": "She was sick"}
+            ],
+            "answer": {"hi": "वसंती ने उसकी जान बचाई थी", "en": "Vasanthi had saved her life"}
+          },
+          {
+            "q": {
+              "hi": "मीरा के अनुसार एक सच्चा कलाकार क्या पसंद नहीं करेगा?",
+              "en": "According to Meera, what would a true artist not like?"
+            },
+            "options": [
+              {"hi": "ईनाम जीतना", "en": "Winning a prize"},
+              {"hi": "खैरात लेना", "en": "To accept charity"},
+              {"hi": "गाना गाना", "en": "Singing"},
+              {"hi": "मेहनत करना", "en": "Working hard"}
+            ],
+            "answer": {"hi": "खैरात लेना", "en": "To accept charity"}
+          },
+          {
+            "q": {
+              "hi": "तारा ने मंच पर वसंती को क्या इशारा किया?",
+              "en": "What gesture did Vasanthi make to Tara on stage?"
+            },
+            "options": [
+              {"hi": "गाना मत गाओ", "en": "Don't sing"},
+              {"hi": "शुभकामनाएं", "en": "Good luck"},
+              {"hi": "जाओ यहाँ से", "en": "Go away"},
+              {"hi": "मुस्कुराओ", "en": "Smile"}
+            ],
+            "answer": {"hi": "शुभकामनाएं", "en": "Good luck"}
+          },
+          {
+            "q": {
+              "hi": "वसंती ने अंतिम प्रस्तुति में क्या गाया?",
+              "en": "What did Vasanthi sing in the final performance?"
+            },
+            "options": [
+              {"hi": "तमिल गीत", "en": "Tamil song"},
+              {"hi": "हिंदी गीत", "en": "Hindi song"},
+              {"hi": "भजन", "en": "Bhajan"},
+              {"hi": "कोई नहीं", "en": "None"}
+            ],
+            "answer": {"hi": "हिंदी गीत", "en": "Hindi song"}
+          },
+          {
+            "q": {
+              "hi": "वसंती द्वारा गाए गए गाने का शीर्षक क्या था?",
+              "en": "What was the song Vasanthi sang in the final?"
+            },
+            "options": [
+              {"hi": "हम होंगे कामयाब", "en": "Hum honge kamiyab"},
+              {"hi": "कजरी", "en": "Kajri"},
+              {"hi": "कुम्मी पट्टु", "en": "Kummi pattu"},
+              {"hi": "कोई नहीं", "en": "None"}
+            ],
+            "answer": {"hi": "हम होंगे कामयाब", "en": "Hum honge kamiyab"}
+          },
+          {
+            "q": {
+              "hi": "प्रतियोगिता का परिणाम सुनकर कौन दंग रह गया?",
+              "en": "Who was dumb-struck by the performance?"
+            },
+            "options": [
+              {"hi": "मीरा", "en": "Meera"},
+              {"hi": "तारा", "en": "Tara"},
+              {"hi": "वसंती", "en": "Vasanthi"},
+              {"hi": "न्यायाधीश", "en": "Judge"}
+            ],
+            "answer": {"hi": "तारा", "en": "Tara"}
+          }
+        ],
+        "section4": [
+          {
+            "q": {
+              "hi": "तारा ने Tamil गाना क्यों चुना?",
+              "en": "Why did Tara choose a Tamil song?"
+            },
+            "options": [
+              {"hi": "क्योंकि वह इसे अच्छी तरह जानती थी", "en": "Because she knew it well"},
+              {"hi": "वसंती का सम्मान करने के लिए", "en": "To honor Vasanthi"},
+              {"hi": "ताकि वह हार जाए", "en": "So she would lose"},
+              {"hi": "शिक्षक के कहने पर", "en": "On teacher's request"}
+            ],
+            "answer": {"hi": "वसंती का सम्मान करने के लिए", "en": "To honor Vasanthi"}
+          },
+          {
+            "q": {
+              "hi": "तारा के गाने में दर्शक क्यों दंग थे?",
+              "en": "Why were the audience stunned by Tara's performance?"
+            },
+            "options": [
+              {"hi": "क्योंकि गाना बुरा था", "en": "Because it was bad"},
+              {"hi": "क्योंकि वह उत्तर प्रदेश की थी", "en": "Because she was from UP"},
+              {"hi": "क्योंकि उसने तमिल गाना बहुत अच्छे से गाया", "en": "Because she sang the Tamil song beautifully"},
+              {"hi": "क्योंकि वह चिल्ला रही थी", "en": "Because she was screaming"}
+            ],
+            "answer": {"hi": "क्योंकि उसने तमिल गाना बहुत अच्छे से गाया", "en": "Because she sang the Tamil song beautifully"}
+          },
+          {
+            "q": {
+              "hi": "वसंती का हिंदी गीत सुनकर तारा ने क्या किया?",
+              "en": "What did Tara do after hearing Vasanthi's Hindi song?"
+            },
+            "options": [
+              {"hi": "हंसी", "en": "Laughed"},
+              {"hi": "गुनगुनाने लगी", "en": "Started humming along"},
+              {"hi": "मंच छोड़ दिया", "en": "Left the stage"},
+              {"hi": "तालियाँ नहीं बजाईं", "en": "Did not clap"}
+            ],
+            "answer": {"hi": "गुनगुनाने लगी", "en": "Started humming along"}
+          },
+          {
+            "q": {
+              "hi": "प्रतियोगिता का निर्णय क्या था?",
+              "en": "What was the judge's decision?"
+            },
+            "options": [
+              {"hi": "केवल तारा जीती", "en": "Only Tara won"},
+              {"hi": "केवल वसंती जीती", "en": "Only Vasanthi won"},
+              {"hi": "दोनों विजेता थीं", "en": "Both were winners"},
+              {"hi": "कोई विजेता नहीं", "en": "No winner"}
+            ],
+            "answer": {"hi": "दोनों विजेता थीं", "en": "Both were winners"}
+          },
+          {
+            "q": {
+              "hi": "प्रतियोगिता का माहौल कैसा था?",
+              "en": "How was the atmosphere at the competition?"
+            },
+            "options": [
+              {"hi": "शांत", "en": "Quiet"},
+              {"hi": "तनावपूर्ण", "en": "Tense"},
+              {"hi": "हंसी वाला", "en": "Funny"},
+              {"hi": "नीरस", "en": "Boring"}
+            ],
+            "answer": {"hi": "तनावपूर्ण", "en": "Tense"}
+          },
+          {
+            "q": {
+              "hi": "क्या वसंती और तारा के बीच अब प्रतिद्वंद्विता बची थी?",
+              "en": "Was there any rivalry left between Tara and Vasanthi?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "थोड़ी बहुत", "en": "A little"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": {
+              "hi": "न्यायाधीश ने मंच पर क्या किया?",
+              "en": "What did the judge do on stage?"
+            },
+            "options": [
+              {"hi": "दोनों को इनाम दिया", "en": "Gave prizes to both"},
+              {"hi": "दोनों का हाथ ऊपर उठाया", "en": "Held their hands up together"},
+              {"hi": "दोनों को डांटा", "en": "Scolded both"},
+              {"hi": "दोनों को अलग किया", "en": "Separated them"}
+            ],
+            "answer": {"hi": "दोनों का हाथ ऊपर उठाया", "en": "Held their hands up together"}
+          },
+          {
+            "q": {
+              "hi": "कहानी का मुख्य संदेश क्या है?",
+              "en": "What is the main message of the story?"
+            },
+            "options": [
+              {"hi": "प्रतिस्पर्धा ही जीवन है", "en": "Competition is life"},
+              {"hi": "दोस्ती प्रतिद्वंद्विता से बेहतर है", "en": "Friendship is better than rivalry"},
+              {"hi": "जीतना ही सब कुछ है", "en": "Winning is everything"},
+              {"hi": "भाषा सीखना जरूरी है", "en": "Learning language is important"}
+            ],
+            "answer": {"hi": "दोस्ती प्रतिद्वंद्विता से बेहतर है", "en": "Friendship is better than rivalry"}
+          },
+          {
+            "q": {
+              "hi": "तारा ने बस की खिड़की पर मुक्का क्यों मारा?",
+              "en": "Why did Tara bang her fist against the bus window?"
+            },
+            "options": [
+              {"hi": "गुस्से में", "en": "In anger"},
+              {"hi": "दुखी होकर", "en": "In desperation"},
+              {"hi": "खुशी में", "en": "In joy"},
+              {"hi": "खेलते हुए", "en": "While playing"}
+            ],
+            "answer": {"hi": "दुखी होकर", "en": "In desperation"}
+          },
+          {
+            "q": {
+              "hi": "कहानी में 'दंगल' फिल्म के किन कलाकारों का उल्लेख है?",
+              "en": "Which artists from the movie 'Dangal' are mentioned?"
+            },
+            "options": [
+              {"hi": "आमिर खान", "en": "Aamir Khan"},
+              {"hi": "सरवर खान और सरताज खान", "en": "Sarwar Khan and Sartaj Khan"},
+              {"hi": "गीता और बबीता", "en": "Geeta and Babita"},
+              {"hi": "कोई नहीं", "en": "None"}
+            ],
+            "answer": {"hi": "सरवर खान और सरताज खान", "en": "Sarwar Khan and Sartaj Khan"}
+          }
+        ],
+        "section5": [
+          {
+            "q": {
+              "hi": "क्या 'दंगल' के कलाकारों ने अपनी मेहनत से सफलता प्राप्त की?",
+              "en": "Did the 'Dangal' artists achieve success through hard work?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "किस्मत से", "en": "By luck"}
+            ],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {
+              "hi": "तारा की भाषा क्या थी?",
+              "en": "What was Tara's language?"
+            },
+            "options": [
+              {"hi": "तमिल", "en": "Tamil"},
+              {"hi": "हिंदी", "en": "Hindi"},
+              {"hi": "अंग्रेजी", "en": "English"},
+              {"hi": "कोई नहीं", "en": "None"}
+            ],
+            "answer": {"hi": "हिंदी", "en": "Hindi"}
+          },
+          {
+            "q": {
+              "hi": "क्या वसंती हिंदी बोल सकती थी?",
+              "en": "Could Vasanthi speak Hindi?"
+            },
+            "options": [
+              {"hi": "हाँ, धाराप्रवाह", "en": "Yes, fluently"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "थोड़ी बहुत", "en": "A little"},
+              {"hi": "केवल गाने के माध्यम से", "en": "Only through songs"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": {
+              "hi": "मीरा तारा से किस बात पर नाराज थी?",
+              "en": "Why was Meera angry with Tara?"
+            },
+            "options": [
+              {"hi": "तमिल गाना गाने पर", "en": "For singing a Tamil song"},
+              {"hi": "गाने में गलती करने पर", "en": "For making a mistake in singing"},
+              {"hi": "वसंती से बात करने पर", "en": "For talking to Vasanthi"},
+              {"hi": "प्रतियोगिता न खेलने पर", "en": "For not playing"}
+            ],
+            "answer": {"hi": "तमिल गाना गाने पर", "en": "For singing a Tamil song"}
+          },
+          {
+            "q": {
+              "hi": "तारा के गाने में किस राग का उपयोग किया गया था?",
+              "en": "Which Raag was used in Tara's bhajan?"
+            },
+            "options": [
+              {"hi": "राग भैरवी", "en": "Raag Bhairavi"},
+              {"hi": "राग कल्याण", "en": "Raag Kalyan"},
+              {"hi": "राग मल्हार", "en": "Raag Malhar"},
+              {"hi": "कोई नहीं", "en": "None"}
+            ],
+            "answer": {"hi": "राग कल्याण", "en": "Raag Kalyan"}
+          },
+          {
+            "q": {
+              "hi": "क्या Tara ने अंत में अपना फैसला बदल दिया?",
+              "en": "Did Tara change her decision in the end?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "कभी नहीं", "en": "Never"},
+              {"hi": "शिक्षक के दबाव में", "en": "Under pressure"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": {
+              "hi": "प्रतियोगिता में ट्रॉफी कितनी थी?",
+              "en": "How many trophies were there for the competition?"
+            },
+            "options": [
+              {"hi": "एक", "en": "One"},
+              {"hi": "दो", "en": "Two"},
+              {"hi": "तीन", "en": "Three"},
+              {"hi": "कोई नहीं", "en": "None"}
+            ],
+            "answer": {"hi": "एक", "en": "One"}
+          },
+          {
+            "q": {
+              "hi": "वसंती ने हिंदी गीत में क्या गाया?",
+              "en": "What did Vasanthi sing in the Hindi song?"
+            },
+            "options": [
+              {"hi": "कजरी", "en": "Kajri"},
+              {"hi": "हम होंगे कामयाब", "en": "Hum honge kamiyab"},
+              {"hi": "भजन", "en": "Bhajan"},
+              {"hi": "कुम्मी पट्टु", "en": "Kummi pattu"}
+            ],
+            "answer": {"hi": "हम होंगे कामयाब", "en": "Hum honge kamiyab"}
+          },
+          {
+            "q": {
+              "hi": "कहानी का समापन कैसे हुआ?",
+              "en": "How did the story end?"
+            },
+            "options": [
+              {"hi": "तारा के हारने के साथ", "en": "With Tara losing"},
+              {"hi": "वसंती के जाने के साथ", "en": "With Vasanthi leaving"},
+              {"hi": "दोनों के हाथ पकड़ने और मुस्कुराने के साथ", "en": "With both holding hands and smiling"},
+              {"hi": "मीरा के गुस्से के साथ", "en": "With Meera being angry"}
+            ],
+            "answer": {"hi": "दोनों के हाथ पकड़ने और मुस्कुराने के साथ", "en": "With both holding hands and smiling"}
+          },
+          {
+            "q": {
+              "hi": "कंपीयर ने जजों के पास जाकर क्या किया?",
+              "en": "What did the compere do after going to the judges?"
+            },
+            "options": [
+              {"hi": "झगड़ा किया", "en": "Argued"},
+              {"hi": "परिणाम की प्रतीक्षा की", "en": "Waited for the result"},
+              {"hi": "जजों से बात की और फैसला सुनाया", "en": "Talked to the judges and announced the result"},
+              {"hi": "मंच छोड़ दिया", "en": "Left the stage"}
+            ],
+            "answer": {"hi": "जजों से बात की और फैसला सुनाया", "en": "Talked to the judges and announced the result"}
+          }
+        ]
+     }
     }
   }
+    
+  
+  
   
