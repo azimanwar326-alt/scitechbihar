@@ -8467,9 +8467,272 @@
             "answer": {"hi": "कार्य का महत्व", "en": "Importance of work"}
           }
         ]
+      },
+    "chapter10": {
+        "section1": [
+          {
+            "q": {"hi": "तानसेन की समाधि कहाँ स्थित है?", "en": "Where is the tomb of Tansen located?"},
+            "options": [{"hi": "आगरा", "en": "Agra"}, {"hi": "ग्वालियर", "en": "Gwalior"}, {"hi": "रेवा", "en": "Rewa"}, {"hi": "वृंदावन", "en": "Brindaban"}],
+            "answer": {"hi": "ग्वालियर", "en": "Gwalior"}
+          },
+          {
+            "q": {"hi": "तानसेन के बचपन का नाम क्या था?", "en": "What was Tansen's name in childhood?"},
+            "options": [{"hi": "तन्ना", "en": "Tanna"}, {"hi": "तानसेन", "en": "Tansen"}, {"hi": "मुकुंद", "en": "Mukand"}, {"hi": "मोहम्मद", "en": "Mohammed"}],
+            "answer": {"hi": "तानसेन", "en": "Tansen"}
+          },
+          {
+            "q": {"hi": "तानसेन के पिता कौन थे?", "en": "Who was Tansen's father?"},
+            "options": [{"hi": "मोहम्मद गौस", "en": "Mohammad Ghaus"}, {"hi": "मुकुंद मिश्र", "en": "Mukand Mishra"}, {"hi": "हरिदास", "en": "Haridas"}, {"hi": "रामचंद्र", "en": "Ramchandra"}],
+            "answer": {"hi": "मुकुंद मिश्र", "en": "Mukand Mishra"}
+          },
+          {
+            "q": {"hi": "तानसेन के पहले गुरु कौन थे?", "en": "Who was Tansen's first music teacher?"},
+            "options": [{"hi": "हरिदास", "en": "Haridas"}, {"hi": "मोहम्मद गौस", "en": "Mohammad Ghaus"}, {"hi": "मुकुंद मिश्र", "en": "Mukand Mishra"}, {"hi": "अकबर", "en": "Akbar"}],
+            "answer": {"hi": "हरिदास", "en": "Haridas"}
+          },
+          {
+            "q": {"hi": "तानसेन को जानवरों और पक्षियों की आवाज़ की नकल करने का अभ्यास कहाँ से मिला?", "en": "Where did Tansen practice imitating animal and bird sounds?"},
+            "options": [{"hi": "दरबार में", "en": "In court"}, {"hi": "जंगल में", "en": "In the forest"}, {"hi": "घर पर", "en": "At home"}, {"hi": "विद्यालय में", "en": "In school"}],
+            "answer": {"hi": "जंगल में", "en": "In the forest"}
+          },
+          {
+            "q": {"hi": "तानसेन ने कितने वर्षों तक हरिदास से संगीत सीखा?", "en": "For how many years did Tansen study music from Haridas?"},
+            "options": [{"hi": "पाँच वर्ष", "en": "Five years"}, {"hi": "दस वर्ष", "en": "Ten years"}, {"hi": "पंद्रह वर्ष", "en": "Fifteen years"}, {"hi": "बीस वर्ष", "en": "Twenty years"}],
+            "answer": {"hi": "दस वर्ष", "en": "Ten years"}
+          },
+          {
+            "q": {"hi": "तानसेन ने किनके साथ विवाह किया?", "en": "Whom did Tansen marry?"},
+            "options": [{"hi": "हुसैनी", "en": "Husani"}, {"hi": "मेहर", "en": "Mehar"}, {"hi": "ज़ैनाब", "en": "Zainab"}, {"hi": "लाता", "en": "Lata"}],
+            "answer": {"hi": "हुसैनी", "en": "Husani"}
+          },
+          {
+            "q": {"hi": "तानसेन रेवा के राजा के दरबार में क्यों गए?", "en": "Why did Tansen go to the court of King Ramchandra of Rewa?"},
+            "options": [{"hi": "राजा के निमंत्रण पर", "en": "On King's invitation"}, {"hi": "हरिदास के कहने पर", "en": "On Haridas's advice"}, {"hi": "मोहम्मद गौस के कहने पर", "en": "On Mohammad Ghaus's advice"}, {"hi": "स्वयं की इच्छा से", "en": "On his own will"}],
+            "answer": {"hi": "राजा के निमंत्रण पर", "en": "On King's invitation"}
+          },
+          {
+            "q": {"hi": "सम्राट अकबर ने तानसेन को किसके दरबार से बुलाया?", "en": "From whose court did Emperor Akbar summon Tansen?"},
+            "options": [{"hi": "राजा रामचंद्र", "en": "King Ramchandra"}, {"hi": "ग्वालियर के शासक", "en": "Ruler of Gwalior"}, {"hi": "मोहम्मद गौस", "en": "Mohammad Ghaus"}, {"hi": "हरिदास", "en": "Haridas"}],
+            "answer": {"hi": "राजा रामचंद्र", "en": "King Ramchandra"}
+          },
+          {
+            "q": {"hi": "तानसेन को अकबर के दरबार में किस नाम से जाना गया?", "en": "What was Tansen's status in Akbar's court?"},
+            "options": [{"hi": "वज़ीर", "en": "Vazir"}, {"hi": "नवरत्न", "en": "Navratna"}, {"hi": "राजकवि", "en": "Royal poet"}, {"hi": "प्रधान", "en": "Chief"}],
+            "answer": {"hi": "नवरत्न", "en": "Navratna"}
+          }
+        ],
+        "section2": [
+          {
+            "q": {"hi": "तानसेन की समाधि के पास कौन सा पेड़ है?", "en": "Which tree stands next to Tansen's tomb?"},
+            "options": [{"hi": "पीपल", "en": "Peepal"}, {"hi": "बरगद", "en": "Banyan"}, {"hi": "इमली", "en": "Tamarind"}, {"hi": "आम", "en": "Mango"}],
+            "answer": {"hi": "इमली", "en": "Tamarind"}
+          },
+          {
+            "q": {"hi": "तानसेन की मृत्यु के समय उनके पास कौन था?", "en": "Who was at Tansen's bedside when he died?"},
+            "options": [{"hi": "हरिदास", "en": "Haridas"}, {"hi": "अकबर", "en": "Akbar"}, {"hi": "हुसैनी", "en": "Husani"}, {"hi": "मोहम्मद गौस", "en": "Mohammad Ghaus"}],
+            "answer": {"hi": "अकबर", "en": "Akbar"}
+          },
+          {
+            "q": {"hi": "तानसेन के संगीत का जानवरों और पक्षियों पर क्या प्रभाव पड़ता था?", "en": "What effect did Tansen's music have on animals and birds?"},
+            "options": [{"hi": "वे भाग जाते थे", "en": "They ran away"}, {"hi": "वे सुनने के लिए एकत्र हो जाते थे", "en": "They would gather to hear him"}, {"hi": "वे डर जाते थे", "en": "They got scared"}, {"hi": "कोई प्रभाव नहीं", "en": "No effect"}],
+            "answer": {"hi": "वे सुनने के लिए एकत्र हो जाते थे", "en": "They would gather to hear him"}
+          },
+          {
+            "q": {"hi": "तानसेन ने कौन से मूल संगीत नोटों से शुरुआत की?", "en": "With which basic musical notes did Tansen start?"},
+            "options": [{"hi": "सा रे गा मा", "en": "Sa Re Ga Ma"}, {"hi": "ए बी सी डी", "en": "A B C D"}, {"hi": "सा रे गा पा धा नी सा", "en": "SA RE GA PA DHA NI SA"}, {"hi": "कोई नहीं", "en": "None"}],
+            "answer": {"hi": "सा रे गा पा धा नी सा", "en": "SA RE GA PA DHA NI SA"}
+          },
+          {
+            "q": {"hi": "तानसेन की मृत्यु के बाद हर साल ग्वालियर में क्या आयोजित किया जाता है?", "en": "What is held every year in Gwalior after Tansen's death?"},
+            "options": [{"hi": "नाटक", "en": "Drama"}, {"hi": "संगीत महोत्सव", "en": "Music festival"}, {"hi": "नृत्य प्रतियोगिता", "en": "Dance competition"}, {"hi": "खेल कूद", "en": "Sports"}],
+            "answer": {"hi": "संगीत महोत्सव", "en": "Music festival"}
+          },
+          {
+            "q": {"hi": "सम्राट अकबर ने तानसेन को क्या सम्मान दिया?", "en": "What highest honour did Akbar bestow on Tansen?"},
+            "options": [{"hi": "नवरत्न", "en": "Navratna"}, {"hi": "स्वर्ण पदक", "en": "Gold medal"}, {"hi": "साम्राज्य", "en": "Empire"}, {"hi": "पदवी", "en": "Title"}],
+            "answer": {"hi": "नवरत्न", "en": "Navratna"}
+          },
+          {
+            "q": {"hi": "तानसेन के संगीत को किस घराने के नाम से जाना जाता है?", "en": "What is the style of music created by Tansen known as?"},
+            "options": [{"hi": "आगरा घराना", "en": "Agra Gharana"}, {"hi": "ग्वालियर घराना", "en": "Gwalior Gharana"}, {"hi": "दिल्ली घराना", "en": "Delhi Gharana"}, {"hi": "लखनऊ घराना", "en": "Lucknow Gharana"}],
+            "answer": {"hi": "ग्वालियर घराना", "en": "Gwalior Gharana"}
+          },
+          {
+            "q": {"hi": "राजा रामचंद्र अकबर के प्रति क्या महसूस करते थे?", "en": "What did King Ramchandra feel towards Akbar?"},
+            "options": [{"hi": "सम्मान", "en": "Respect"}, {"hi": "डर/अनिच्छा", "en": "Fear/Reluctance to displease him"}, {"hi": "दोस्ती", "en": "Friendship"}, {"hi": "नफरत", "en": "Hatred"}],
+            "answer": {"hi": "डर/अनिच्छा", "en": "Fear/Reluctance to displease him"}
+          },
+          {
+            "q": {"hi": "हुसैनी का क्या अर्थ बताया गया है?", "en": "What is the meaning given for Husani?"},
+            "options": [{"hi": "सबसे बुद्धिमान", "en": "The wisest"}, {"hi": "सुंदर (the beautiful one)", "en": "The beautiful one"}, {"hi": "सबसे अमीर", "en": "The richest"}, {"hi": "संगीतज्ञ", "en": "Musician"}],
+            "answer": {"hi": "सुंदर (the beautiful one)", "en": "The beautiful one"}
+          },
+          {
+            "q": {"hi": "राजा रामचंद्र ने तानसेन को क्या उपहार दिए?", "en": "What gifts did King Ramchandra lavish on Tansen?"},
+            "options": [{"hi": "सोने के सिक्के", "en": "Gold coins"}, {"hi": "हाथी", "en": "Elephants"}, {"hi": "तलवारें", "en": "Swords"}, {"hi": "भूमि", "en": "Land"}],
+            "answer": {"hi": "सोने के सिक्के", "en": "Gold coins"}
+          }
+        ],
+        "section3": [
+          {
+            "q": {"hi": "क्या तानसेन के पिता बहुत धनी थे?", "en": "Was Tansen's father very wealthy?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": {"hi": "क्या तानसेन एक महान संगीतकार थे?", "en": "Was Tansen a great musician?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या तानसेन केवल एक संगीतकार थे?", "en": "Was Tansen only a musician?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं, वे कवि भी थे", "en": "No, he was also a poet"}],
+            "answer": {"hi": "नहीं, वे कवि भी थे", "en": "No, he was also a poet"}
+          },
+          {
+            "q": {"hi": "क्या तानसेन अपने गुरु हरिदास से अनुमति लेने गए थे?", "en": "Did Tansen seek permission from his guru Haridas?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या तानसेन ने अपनी माँ की मृत्यु के बाद घर छोड़ा?", "en": "Did Tansen leave home after his mother's death?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या राग से मूड बदल सकता है?", "en": "Can a raga change the mood?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या लता मंगेशकर को 'क्वीन ऑफ मेलोडी' कहा जाता है?", "en": "Is Lata Mangeshkar known as the Queen of Melody?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या सम्राट अकबर तानसेन के संगीत से प्रभावित थे?", "en": "Was Emperor Akbar impressed by Tansen's music?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या तानसेन को अकबर ने नवरत्नों में शामिल किया था?", "en": "Did Akbar include Tansen in his Navratnas?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या तानसेन ने नए रागों की रचना की?", "en": "Did Tansen compose many new ragas?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          }
+        ],
+        "section4": [
+          {
+            "q": {"hi": "मोहम्मद गौस ने मुकुंद मिश्र को क्या दिया?", "en": "What did Mohammad Ghaus give to Mukand Mishra?"},
+            "options": [{"hi": "पैसे", "en": "Money"}, {"hi": "पवित्र धागा", "en": "Holy thread"}, {"hi": "उपहार", "en": "Gift"}, {"hi": "किताब", "en": "Book"}],
+            "answer": {"hi": "पवित्र धागा", "en": "Holy thread"}
+          },
+          {
+            "q": {"hi": "तानसेन ने जंगल में गायक समूह को क्या करके डराया?", "en": "How did Tansen scare the singers in the forest?"},
+            "options": [{"hi": "शेर की दहाड़", "en": "Roaring like a tiger"}, {"hi": "साँप बनकर", "en": "Hissing like a snake"}, {"hi": "हँसकर", "en": "Laughing"}, {"hi": "चिल्लाकर", "en": "Shouting"}],
+            "answer": {"hi": "शेर की दहाड़", "en": "Roaring like a tiger"}
+          },
+          {
+            "q": {"hi": "तानसेन को किस शहर में संगीत की शिक्षा के लिए भेजा गया?", "en": "To which city was Tansen sent for music study?"},
+            "options": [{"hi": "ग्वालियर", "en": "Gwalior"}, {"hi": "वृंदावन", "en": "Brindaban"}, {"hi": "आगरा", "en": "Agra"}, {"hi": "दिल्ली", "en": "Delhi"}],
+            "answer": {"hi": "वृंदावन", "en": "Brindaban"}
+          },
+          {
+            "q": {"hi": "तानसेन की मृत्यु पर अकबर को कैसा महसूस हुआ?", "en": "How did Akbar feel at Tansen's death?"},
+            "options": [{"hi": "खुश", "en": "Happy"}, {"hi": "दुखी", "en": "Filled with great sorrow"}, {"hi": "शांत", "en": "Calm"}, {"hi": "सामान्य", "en": "Normal"}],
+            "answer": {"hi": "दुखी", "en": "Filled with great sorrow"}
+          },
+          {
+            "q": {"hi": "तानसेन सुबह-सुबह कौन सा राग गाते थे?", "en": "Which ragas did Tansen sing in the morning to awaken the Emperor?"},
+            "options": [{"hi": "विशेष राग", "en": "Special ragas"}, {"hi": "साधारण गीत", "en": "Ordinary songs"}, {"hi": "लोरी", "en": "Lullaby"}, {"hi": "कुछ नहीं", "en": "None"}],
+            "answer": {"hi": "विशेष राग", "en": "Special ragas"}
+          },
+          {
+            "q": {"hi": "तानसेन के गुरु हरिदास ने उन्हें क्या कहा?", "en": "What did Haridas say to Tansen about leaving?"},
+            "options": [{"hi": "मत जाओ", "en": "Don't go"}, {"hi": "तुम हमेशा स्वागत योग्य हो", "en": "You are always welcome"}, {"hi": "मुझे भूल जाओ", "en": "Forget me"}, {"hi": "तुम आज़ाद हो", "en": "You are free"}],
+            "answer": {"hi": "तुम हमेशा स्वागत योग्य हो", "en": "You are always welcome"}
+          },
+          {
+            "q": {"hi": "क्या संगीत से किसी को खुशी मिल सकती है?", "en": "Can music bring happiness?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "तानसेन की पहली गुरु के प्रति क्या भावना थी?", "en": "What were Tansen's feelings towards his first guru?"},
+            "options": [{"hi": "नफरत", "en": "Hatred"}, {"hi": "सम्मान", "en": "Respect"}, {"hi": "उदासीनता", "en": "Indifference"}, {"hi": "क्रोध", "en": "Anger"}],
+            "answer": {"hi": "सम्मान", "en": "Respect"}
+          },
+          {
+            "q": {"hi": "क्या सफलता के लिए नियमित अभ्यास की आवश्यकता है?", "en": "Is regular practice necessary for success?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "तानसेन को किसके दरबार में जाने का निमंत्रण मिला?", "en": "Whose court invited Tansen?"},
+            "options": [{"hi": "राजा रामचंद्र", "en": "King Ramchandra"}, {"hi": "अकबर", "en": "Akbar"}, {"hi": "मोहम्मद गौस", "en": "Mohammad Ghaus"}],
+            "answer": {"hi": "राजा रामचंद्र", "en": "King Ramchandra"}
+          }
+        ],
+        "section5": [
+          {
+            "q": {"hi": "तानसेन किस शहर के निवासी थे?", "en": "Which town was Tansen associated with?"},
+            "options": [{"hi": "ग्वालियर", "en": "Gwalior"}, {"hi": "आगरा", "en": "Agra"}, {"hi": "वृंदावन", "en": "Brindaban"}],
+            "answer": {"hi": "ग्वालियर", "en": "Gwalior"}
+          },
+          {
+            "q": {"hi": "क्या तानसेन ने अपनी माँ की देखभाल की?", "en": "Did Tansen look after his mother?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या तानसेन का संगीत समय के साथ जीवित रहा?", "en": "Did Tansen's music live on through time?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या चुनौतीपूर्ण स्थितियाँ सफलता में मदद करती हैं?", "en": "Do challenging circumstances help in success?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "संगीतकार किसके स्टाइल का अनुसरण करते हैं?", "en": "Whose musical style do musicians follow?"},
+            "options": [{"hi": "अकबर", "en": "Akbar"}, {"hi": "तानसेन", "en": "Tansen"}, {"hi": "हरिदास", "en": "Haridas"}],
+            "answer": {"hi": "तानसेन", "en": "Tansen"}
+          },
+          {
+            "q": {"hi": "अकबर ने तानसेन को क्यों बुलाया?", "en": "Why did Akbar call Tansen?"},
+            "options": [{"hi": "उसकी प्रशंसा सुनकर", "en": "After hearing his praise"}, {"hi": "राजा रामचंद्र के कहने पर", "en": "On Ramchandra's advice"}, {"hi": "अपनी इच्छा से", "en": "On his own will"}],
+            "answer": {"hi": "After hearing his praise", "en": "After hearing his praise"}
+          },
+          {
+            "q": {"hi": "क्या तानसेन अपनी संगीत प्रतिभा के लिए प्रसिद्ध थे?", "en": "Was Tansen famous for his musical talent?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "तानसेन की विरासत को आगे कौन बढ़ाता है?", "en": "Who carries forward Tansen's legacy?"},
+            "options": [{"hi": "संगीतकार", "en": "Musicians"}, {"hi": "दरबारी", "en": "Courtiers"}, {"hi": "कोई नहीं", "en": "None"}],
+            "answer": {"hi": "संगीतकार", "en": "Musicians"}
+          },
+          {
+            "q": {"hi": "क्या संगीत मूड (mood) बदलने की शक्ति रखता है?", "en": "Does music have the power to change the mood?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या तानसेन ने अपनी मेहनत से नाम कमाया?", "en": "Did Tansen earn fame through his hard work?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          }
+        ]
       }
     }
   }
+
   
 
   
