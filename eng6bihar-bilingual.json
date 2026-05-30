@@ -1474,802 +1474,130 @@
           {"q": {"hi": "कविता का शीर्षक क्या है?", "en": "What is the title of the poem?"}, "options": [{"hi": "द रेवेन एंड द फॉक्स", "en": "The Raven and the Fox"}, {"hi": "चालाक लोमड़ी", "en": "The Cunning Fox"}, {"hi": "मूर्ख कौआ", "en": "The Foolish Raven"}, {"hi": "जंगल के जानवर", "en": "Animals of the Woods"}], "answer": {"hi": "द रेवेन एंड द फॉक्स", "en": "The Raven and the Fox"}}
         ]
       },
-    "chapter02": {
+    "chapter01c": {
         "section1": [
-          {
-            "q": {
-              "hi": "सुंदर की आयु कितने वर्ष थी और वह गाँव में क्या काम करता था?",
-              "en": "How old was Sundar and what did he look after in the village?"
-            },
-            "options": [
-              {"hi": "दस वर्ष, भेड़ें", "en": "Ten years old, sheep"},
-              {"hi": "बारह वर्ष, गायें", "en": "Twelve years old, cows"},
-              {"hi": "पंद्रह वर्ष, बकरियां", "en": "Fifteen years old, goats"},
-              {"hi": "आठ वर्ष, भैंसें", "en": "Eight years old, buffaloes"}
-            ],
-            "answer": {"hi": "बारह वर्ष, गायें", "en": "Twelve years old, cows"}
-          },
-          {
-            "q": {
-              "hi": "सुंदर को अपनी मेहनत या श्रम के बदले में खाने के लिए क्या दिया जाता था?",
-              "en": "What was Sundar given for his labour?"
-            },
-            "options": [
-              {"hi": "केवल सूखी रोटी", "en": "Only dry bread"},
-              {"hi": "दूध और फल", "en": "Milk and fruits"},
-              {"hi": "चावल और करी", "en": "Rice and curry"},
-              {"hi": "मिठाइयाँ", "en": "Sweets"}
-            ],
-            "answer": {"hi": "चावल और करी", "en": "Rice and curry"}
-          },
-          {
-            "q": {
-              "hi": "गर्मियों के दौरान सुंदर चराने के लिए कुल कितनी गायों को बाहर ले जाता था?",
-              "en": "How many cows did Sundar take out for grazing during summer?"
-            },
-            "options": [
-              {"hi": "दो गायें", "en": "Two cows"},
-              {"hi": "तीन गायें", "en": "Three cows"},
-              {"hi": "पाँच गायें", "en": "Five cows"},
-              {"hi": "दस गायें", "en": "Ten cows"}
-            ],
-            "answer": {"hi": "तीन गायें", "en": "Three cows"}
-          },
-          {
-            "q": {
-              "hi": "सुंदर की पसंदीदा तीन गायों के नाम क्या-क्या थे?",
-              "en": "What were the names of the three cows?"
-            },
-            "options": [
-              {"hi": "लाली, काली और गौरी", "en": "Lali, Kali and Gauri"},
-              {"hi": "कर्ली हॉर्न्ड, डार्क आइड और स्पॉटेड टेल", "en": "Curly Horned, Dark Eyed, and Spotted Tail"},
-              {"hi": "स्नो वाइट, ब्राउनी और मिल्की", "en": "Snow White, Browny and Milky"},
-              {"hi": "चेरी, रोज और लिली", "en": "Cherry, Rose and Lily"}
-            ],
-            "answer": {"hi": "कर्ली हॉर्न्ड, डार्क आइड और स्पॉटेड टेल", "en": "Curly Horned, Dark Eyed, and Spotted Tail"}
-          },
-          {
-            "q": {
-              "hi": "सुंदर अपना पैक किया हुआ भोजन किसमें रखकर अपने कंधों पर लटकाता था?",
-              "en": "Where did Sundar pack his meal and sling it?"
-            },
-            "options": [
-              {"hi": "एक स्टील के डिब्बे में", "en": "In a steel box"},
-              {"hi": "एक बड़े थैले या बैग में अपने कंधों पर", "en": "In his bag across his shoulders"},
-              {"hi": "एक टोकरी में", "en": "In a basket"},
-              {"hi": "एक कपड़े की पोटली में", "en": "In a cloth bundle"}
-            ],
-            "answer": {"hi": "एक बड़े थैले या बैग में अपने कंधों पर", "en": "In his bag across his shoulders"}
-          },
-          {
-            "q": {
-              "hi": "सुंदर अपने भोजन के थैले में चाकू (Penknife) के साथ और क्या ले जाता था?",
-              "en": "What else did Sundar carry in his bag besides a penknife?"
-            },
-            "options": [
-              {"hi": "एक टॉर्च", "en": "A torch"},
-              {"hi": "एक छोटा रेडियो", "en": "A small radio"},
-              {"hi": "एक पाइप", "en": "A pipe"},
-              {"hi": "एक किताब", "en": "A book"}
-            ],
-            "answer": {"hi": "एक पाइप", "en": "A pipe"}
-          },
-          {
-            "q": {
-              "hi": "चरगाह भूमि (Pastureland) सुंदर के गाँव से कितनी दूरी पर स्थित थी?",
-              "en": "How far away was the pastureland from the village?"
-            },
-            "options": [
-              {"hi": "लगभग एक मील", "en": "Nearly a mile"},
-              {"hi": "पाँच मील", "en": "Five miles"},
-              {"hi": "दस मील", "en": "Ten miles"},
-              {"hi": "बहुत पास में ही", "en": "Very close by"}
-            ],
-            "answer": {"hi": "लगभग एक मील", "en": "Nearly a mile"}
-          },
-          {
-            "q": {
-              "hi": "कहानी के समय चरगाह की स्थिति कैसी थी और वहाँ क्या पड़ा हुआ था?",
-              "en": "What had happened to the pastureland at the time mentioned in the story?"
-            },
-            "options": [
-              {"hi": "भारी वर्षा के कारण बाढ़ आई थी", "en": "It was flooded due to heavy rain"},
-              {"hi": "सूखा पड़ा था और सब कुछ सूख गया था", "en": "There had been a drought, everything had dried up"},
-              {"hi": "हरी-भरी लंबी घास उगी हुई थी", "en": "Long green grass had grown"},
-              {"hi": "वह जमीन पूरी तरह बर्फ से ढकी थी", "en": "The ground was completely covered with snow"}
-            ],
-            "answer": {"hi": "सूखा पड़ा था और सब कुछ सूख गया था", "en": "There had been a drought, everything had dried up"}
-          },
-          {
-            "q": {
-              "hi": "सामान्य तौर पर मवेशी (Cattle) शेड के अंदर ही कब रहते थे?",
-              "en": "When did the cattle usually stay in their sheds?"
-            },
-            "options": [
-              {"hi": "यदि बहुत तेज़ धूप हो", "en": "If it was too sunny"},
-              {"hi": "यदि बारिश होती थी", "en": "If it rained"},
-              {"hi": "यदि रात का समय हो", "en": "If it was nighttime"},
-              {"hi": "यदि कोई त्यौहार हो", "en": "If there was a festival"}
-            ],
-            "answer": {"hi": "यदि बारिश होती थी", "en": "If it rained"}
-          },
-          {
-            "q": {
-              "hi": "गर्मियों के महीनों में सुंदर को आमतौर पर अधिकतम कितने समय के लिए मवेशी बाहर ले जाने को कहा जाता था?",
-              "en": "For how long was Sundar seldom asked to take the cattle out to pasture?"
-            },
-            "options": [
-              {"hi": "एक महीने से अधिक", "en": "More than a month"},
-              {"hi": "एक पखवाड़े (15 दिन) से अधिक नहीं", "en": "More than a fortnight"},
-              {"hi": "सिर्फ दो दिनों के लिए", "en": "Only for two days"},
-              {"hi": "पूरे साल भर", "en": "For the whole year"}
-            ],
-            "answer": {"hi": "एक पखवाड़े (15 दिन) से अधिक नहीं", "en": "More than a fortnight"}
-          }
+          {"q": {"hi": "कहानी किस राज्य से ली गई है?", "en": "From which state is this folktale?"}, "options": [{"hi": "तमिलनाडु", "en": "Tamil Nadu"}, {"hi": "बिहार", "en": "Bihar"}, {"hi": "केरल", "en": "Kerala"}, {"hi": "पंजाब", "en": "Punjab"}], "answer": {"hi": "तमिलनाडु", "en": "Tamil Nadu"}},
+          {"q": {"hi": "गाँव का कोटवाल कौन था?", "en": "Who was the village Kotwal?"}, "options": [{"hi": "रमा", "en": "Rama"}, {"hi": "चोर", "en": "Thief"}, {"hi": "पति", "en": "Husband"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "रमा", "en": "Rama"}},
+          {"q": {"hi": "रात में घर के अंदर कौन घुसने की कोशिश कर रहा था?", "en": "Who was trying to get into the house at night?"}, "options": [{"hi": "एक चोर", "en": "A thief"}, {"hi": "एक जानवर", "en": "An animal"}, {"hi": "कोटवाल", "en": "The Kotwal"}, {"hi": "पड़ोसी", "en": "A neighbour"}], "answer": {"hi": "एक चोर", "en": "A thief"}},
+          {"q": {"hi": "पति-पत्नी क्या करने का नाटक कर रहे थे?", "en": "What was the couple pretending to do?"}, "options": [{"hi": "बच्चे के नाम के बारे में बात करना", "en": "Talking about naming their child"}, {"hi": "सोना", "en": "Sleeping"}, {"hi": "खाना खाना", "en": "Eating food"}, {"hi": "चोर को पकड़ना", "en": "Catching the thief"}], "answer": {"hi": "बच्चे के नाम के बारे में बात करना", "en": "Talking about naming their child"}},
+          {"q": {"hi": "यदि उनके बेटा होता, तो वे उसका क्या नाम रखते?", "en": "If they had a boy, what would they name him?"}, "options": [{"hi": "रमा", "en": "Rama"}, {"hi": "रामू", "en": "Ramu"}, {"hi": "सोमू", "en": "Somu"}, {"hi": "कोई नाम नहीं", "en": "No name"}], "answer": {"hi": "रमा", "en": "Rama"}},
+          {"q": {"hi": "चोर को क्या उम्मीद थी?", "en": "What was the thief expecting?"}, "options": [{"hi": "पैसों के बारे में जानकारी", "en": "Information about money"}, {"hi": "भोजन", "en": "Food"}, {"hi": "सोना", "en": "Gold"}, {"hi": "घर से बाहर निकलना", "en": "Getting out of the house"}], "answer": {"hi": "पैसों के बारे में जानकारी", "en": "Information about money"}},
+          {"q": {"hi": "पत्नी ने बच्चे को घर में होने पर कैसे बुलाने की बात कही?", "en": "How did the wife say she would call out if the child was in the house?"}, "options": [{"hi": "धीरे से (softly)", "en": "Softly"}, {"hi": "चिल्लाकर", "en": "Loudly"}, {"hi": "रोकर", "en": "By crying"}, {"hi": "सीटी बजाकर", "en": "By whistling"}], "answer": {"hi": "धीरे से (softly)", "en": "Softly"}},
+          {"q": {"hi": "पत्नी ने बच्चे को गली में होने पर कैसे बुलाने की बात कही?", "en": "How did the wife say she would call out if the child was in the street?"}, "options": [{"hi": "बहुत जोर से (very loudly)", "en": "Very loudly"}, {"hi": "धीरे से", "en": "Softly"}, {"hi": "फुसफुसाकर", "en": "Whispering"}, {"hi": "गाकर", "en": "By singing"}], "answer": {"hi": "बहुत जोर से (very loudly)", "en": "Very loudly"}},
+          {"q": {"hi": "चोर को किस बात से चिढ़ हो रही थी?", "en": "What was annoying the thief?"}, "options": [{"hi": "पति-पत्नी की बातों से", "en": "The couple's chatter"}, {"hi": "अंधेरे से", "en": "The darkness"}, {"hi": "रमा से", "en": "Rama"}, {"hi": "भूख से", "en": "Hunger"}], "answer": {"hi": "पति-पत्नी की बातों से", "en": "The couple's chatter"}},
+          {"q": {"hi": "रमा ने अपना नाम सुनकर क्या किया?", "en": "What did Rama do after hearing his name?"}, "options": [{"hi": "वह घर की ओर भागा", "en": "He ran towards the house"}, {"hi": "वह सो गया", "en": "He went to sleep"}, {"hi": "वह भाग गया", "en": "He ran away"}, {"hi": "वह छिप गया", "en": "He hid"}], "answer": {"hi": "वह घर की ओर भागा", "en": "He ran towards the house"}}
         ],
         "section2": [
-          {
-            "q": {
-              "hi": "चरगाह भूमि के ठीक बगल में स्थित घने जंगल में किस चीज़ की अनुमति नहीं थी?",
-              "en": "What was not allowed in the lush forest alongside the grazing ground?"
-            },
-            "options": [
-              {"hi": "लकड़ी काटना", "en": "Cutting wood"},
-              {"hi": "मवेशियों को चराना", "en": "Cattle grazing"},
-              {"hi": "पक्षियों को देखना", "en": "Watching birds"},
-              {"hi": "घूमना-फिरना", "en": "Walking around"}
-            ],
-            "answer": {"hi": "मवेशियों को चराना", "en": "Cattle grazing"}
-          },
-          {
-            "q": {
-              "hi": "वह जंगल किस प्रकार का क्षेत्र था जिसके कारण वहाँ चराना प्रतिबंधित था?",
-              "en": "What kind of territory was the forest described as?"
-            },
-            "options": [
-              {"hi": "एक निजी बगीचा", "en": "A private garden"},
-              {"hi": "एक सरकारी आरक्षित वन (Government preserve)", "en": "A government preserve"},
-              {"hi": "एक बंजर रेगिस्तान", "en": "A barren desert"},
-              {"hi": "गाँव की आम पंचायत भूमि", "en": "Village common land"}
-            ],
-            "answer": {"hi": "एक सरकारी आरक्षित वन (Government preserve)", "en": "A government preserve"}
-          },
-          {
-            "q": {
-              "hi": "उस सुबह सुंदर ने अपनी गायों को कहाँ जाने की अनुमति दे दी थी?",
-              "en": "Where did Sundar allow the cows to go that morning?"
-            },
-            "options": [
-              {"hi": "अपने घर के आँगन में", "en": "Into his house courtyard"},
-              {"hi": "प्रतिबंधित क्षेत्र/जंगल के अंदर", "en": "Into the forbidden territory/forest"},
-              {"hi": "नदी के गहरे पानी में", "en": "Into the deep river water"},
-              {"hi": "बाज़ार की ओर", "en": "Towards the bazaar"}
-            ],
-            "answer": {"hi": "प्रतिबंधित क्षेत्र/जंगल के अंदर", "en": "Into the forbidden territory/forest"}
-          },
-          {
-            "q": {
-              "hi": "सुंदर किस पेड़ पर बैठ गया और खुद कुछ काजू (Kernels) खाने लगा?",
-              "en": "On which tree did Sundar perch himself?"
-            },
-            "options": [
-              {"hi": "आम के पेड़ पर", "en": "On a mango tree"},
-              {"hi": "काजू के पेड़ पर (Cashew tree)", "en": "On a cashew tree"},
-              {"hi": "नारियल के पेड़ पर", "en": "On a coconut tree"},
-              {"hi": "बरगद के पेड़ पर", "en": "On a banyan tree"}
-            ],
-            "answer": {"hi": "काजू के पेड़ पर (Cashew tree)", "en": "On a cashew tree"}
-          },
-          {
-            "q": {
-              "hi": "जब गायें जंगल की तरफ भटकने लगती थीं, तो सुंदर उन्हें वापस बुलाने के लिए क्या बजाता था?",
-              "en": "What did Sundar play to draw the cows back when they strayed towards the forest?"
-            },
-            "options": [
-              {"hi": "एक ढोलक", "en": "A drum"},
-              {"hi": "अपनी बांसुरी या पाइप (Pipe)", "en": "His pipe"},
-              {"hi": "एक सीटी", "en": "A whistle"},
-              {"hi": "एक घंटी", "en": "A bell"}
-            ],
-            "answer": {"hi": "अपनी बांसुरी या पाइप (Pipe)", "en": "His pipe"}
-          },
-          {
-            "q": {
-              "hi": "सुंदर ने एक पतली ईख (Slender reed) के खोखले हिस्से में अखरोट डालकर क्या बनाया था?",
-              "en": "What did Sundar use to shoot at lizards and squirrels like a bullet?"
-            },
-            "options": [
-              {"hi": "एक धनुष-बाण", "en": "A bow and arrow"},
-              {"hi": "एक ईख की बंदूक (Reed gun)", "en": "A reed gun"},
-              {"hi": "एक गुलेल", "en": "A catapult"},
-              {"hi": "एक जाल", "en": "A net"}
-            ],
-            "answer": {"hi": "एक ईख की बंदूक (Reed gun)", "en": "A reed gun"}
-          },
-          {
-            "q": {
-              "hi": "सुंदर कभी-कभी पेड़ों पर चढ़कर पक्षियों के घोंसलों में झांकता था और कांटों से क्या बनाता था?",
-              "en": "What did Sundar make by pinning leaves with thorns?"
-            },
-            "options": [
-              {"hi": "पत्तियों की टोपियाँ (Leaf-caps)", "en": "Leaf-caps"},
-              {"hi": "छोटे घर", "en": "Small houses"},
-              {"hi": "एक थैली", "en": "A pouch"},
-              {"hi": "खिलौने", "en": "Toys"}
-            ],
-            "answer": {"hi": "पत्तियों की टोपियाँ (Leaf-caps)", "en": "Leaf-caps"}
-          },
-          {
-            "q": {
-              "hi": "सुंदर ने मंदिर के उत्सव में कौन सा नृत्य देखा था जिसे वह जंगल में खुद करता था?",
-              "en": "Which dance had Sundar seen at the temple festival?"
-            },
-            "options": [
-              {"hi": "कथकली नृत्य", "en": "Kathakali dance"},
-              {"hi": "गरुड़ नृत्य (Garuda dance)", "en": "Garuda dance"},
-              {"hi": "भांगड़ा नृत्य", "en": "Bhangra dance"},
-              {"hi": "कठपुतली नृत्य", "en": "Puppet dance"}
-            ],
-            "answer": {"hi": "गरुड़ नृत्य (Garuda dance)", "en": "Garuda dance"}
-          },
-          {
-            "q": {
-              "hi": "चरगाह और जंगल के बीच बहने वाली जलधारा (Stream) में पानी की मात्रा कितनी थी?",
-              "en": "How much water was there in the stream between the pastureland and the forest?"
-            },
-            "options": [
-              {"hi": "नहाने के लिए बहुत पर्याप्त पानी था", "en": "Plenty of water to swim"},
-              {"hi": "मवेशियों के नहाने के लिए पर्याप्त नहीं, केवल प्यास बुझाने लायक", "en": "Not enough to bathe cattle, barely enough to slake thirst"},
-              {"hi": "जलधारा पूरी तरह सूखी और खाली थी", "en": "The stream was completely dry and empty"},
-              {"hi": "वह एक विशाल उफनती हुई नदी थी", "en": "It was a huge overflowing river"}
-            ],
-            "answer": {"hi": "मवेशियों के नहाने के लिए पर्याप्त नहीं, केवल प्यास बुझाने लायक", "en": "Not enough to bathe cattle, barely enough to slake thirst"}
-          },
-          {
-            "q": {
-              "hi": "दोपहर में जब गायें छाया में जुगाली (Chewing the cud) कर रही थीं, तब सुंदर कहाँ लेट गया था?",
-              "en": "Where did Sundar stretch himself out in the afternoon when he felt drowsy?"
-            },
-            "options": [
-              {"hi": "एक गुफा के अंदर गहरी नींद में", "en": "Inside a cave in deep sleep"},
-              {"hi": "पत्तियों के कालीन/बिछौने पर (Carpet of leaves)", "en": "On a carpet of leaves"},
-              {"hi": "पेड़ की सबसे ऊँची शाखा पर", "en": "On the highest branch of a tree"},
-              {"hi": "नदी के ठंडे बहते पानी के बीच", "en": "In the middle of the flowing river"}
-            ],
-            "answer": {"hi": "पत्तियों के कालीन/बिछौने पर (Carpet of leaves)", "en": "On a carpet of leaves"}
-          }
+          {"q": {"hi": "रमा ने क्या देखा?", "en": "What did Rama see?"}, "options": [{"hi": "दीवार में एक छेद", "en": "A hole in the wall"}, {"hi": "एक चोर", "en": "A thief"}, {"hi": "एक बक्सा", "en": "A box"}, {"hi": "एक बिल्ली", "en": "A cat"}], "answer": {"hi": "दीवार में एक छेद", "en": "A hole in the wall"}},
+          {"q": {"hi": "चोर ने घर में कैसे प्रवेश किया?", "en": "How did the thief enter the house?"}, "options": [{"hi": "दीवार खोदकर", "en": "By digging the wall"}, {"hi": "दरवाजे से", "en": "Through the door"}, {"hi": "खिड़की से", "en": "Through the window"}, {"hi": "छत से", "en": "From the roof"}], "answer": {"hi": "दीवार खोदकर", "en": "By digging the wall"}},
+          {"q": {"hi": "रमा ने चोर को क्या कहा?", "en": "What did Rama say to the thief?"}, "options": [{"hi": "तुम गिरफ्तार हो", "en": "You are under arrest"}, {"hi": "यहाँ क्या कर रहे हो?", "en": "What are you doing here?"}, {"hi": "भाग जाओ", "en": "Run away"}, {"hi": "खाना खाओ", "en": "Eat food"}], "answer": {"hi": "तुम गिरफ्तार हो", "en": "You are under arrest"}},
+          {"q": {"hi": "पति-पत्नी ने खुद को कैसे बचाया?", "en": "How did the couple save themselves?"}, "options": [{"hi": "अपनी चतुराई से", "en": "By their cleverness"}, {"hi": "चोर को मारकर", "en": "By hitting the thief"}, {"hi": "पुलिस को बुलाकर", "en": "By calling police"}, {"hi": "भागकर", "en": "By running away"}], "answer": {"hi": "अपनी चतुराई से", "en": "By their cleverness"}},
+          {"q": {"hi": "चोर को अंत में क्या समझ आया?", "en": "What did the thief understand in the end?"}, "options": [{"hi": "कि उसे बेवकूफ बनाया गया था", "en": "That he was fooled"}, {"hi": "कि घर में पैसे नहीं हैं", "en": "That there is no money"}, {"hi": "कि रमा बहुत शक्तिशाली है", "en": "That Rama is powerful"}, {"hi": "कि उसे भागना चाहिए", "en": "That he should run"}], "answer": {"hi": "कि उसे बेवकूफ बनाया गया था", "en": "That he was fooled"}},
+          {"q": {"hi": "क्या चोर का प्लान सफल हुआ?", "en": "Was the thief's plan successful?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "आधा", "en": "Partially"}, {"hi": "शायद", "en": "Maybe"}], "answer": {"hi": "नहीं", "en": "No"}},
+          {"q": {"hi": "रमा कौन था?", "en": "Who was Rama?"}, "options": [{"hi": "गाँव का कोटवाल", "en": "Village Kotwal"}, {"hi": "एक शिक्षक", "en": "A teacher"}, {"hi": "एक किसान", "en": "A farmer"}, {"hi": "चोर का दोस्त", "en": "Thief's friend"}], "answer": {"hi": "गाँव का कोटवाल", "en": "Village Kotwal"}},
+          {"q": {"hi": "कहानी का प्रकार क्या है?", "en": "What is the type of the story?"}, "options": [{"hi": "लोककथा (folktale)", "en": "Folktale"}, {"hi": "विज्ञान कथा", "en": "Science fiction"}, {"hi": "इतिहास", "en": "History"}, {"hi": "जीवनी", "en": "Biography"}], "answer": {"hi": "लोककथा (folktale)", "en": "Folktale"}},
+          {"q": {"hi": "रमा ने अपना नाम क्यों सुना?", "en": "Why did Rama hear his name?"}, "options": [{"hi": "क्योंकि पत्नी जोर से नाम पुकार रही थी", "en": "Because the wife was calling out loudly"}, {"hi": "क्योंकि वह दरवाजे के पीछे था", "en": "Because he was behind the door"}, {"hi": "क्योंकि चोर ने नाम लिया", "en": "Because the thief took the name"}, {"hi": "वह सपना देख रहा था", "en": "He was dreaming"}], "answer": {"hi": "क्योंकि पत्नी जोर से नाम पुकार रही थी", "en": "Because the wife was calling out loudly"}},
+          {"q": {"hi": "पति-पत्नी की बातचीत का वास्तविक उद्देश्य क्या था?", "en": "What was the real purpose of the couple's conversation?"}, "options": [{"hi": "चोर को घर की ओर बुलाना", "en": "To call the thief towards the house"}, {"hi": "सोना", "en": "To sleep"}, {"hi": "बच्चे का नाम तय करना", "en": "To name the child"}, {"hi": "चोर को डराना", "en": "To scare the thief"}], "answer": {"hi": "चोर को घर की ओर बुलाना", "en": "To call the thief towards the house"}}
         ],
         "section3": [
-          {
-            "q": {
-              "hi": "सुंदर की गहरी नींद अचानक किसके रोने या चिल्लाने (Howling) की आवाज़ से टूटी थी?",
-              "en": "Sundar's deep slumber was broken by the howling of which animals?"
-            },
-            "options": [
-              {"hi": "जंगली भेड़ियों के झुंड से", "en": "A pack of wild wolves"},
-              {"hi": "स्यारों/गीदड़ों के एक झुंड से (Pack of jackals)", "en": "A pack of jackals"},
-              {"hi": "जंगल के शेरों की दहाड़ से", "en": "The roaring of lions"},
-              {"hi": "हाथियों की चिंघाड़ से", "en": "The trumpeting of elephants"}
-            ],
-            "answer": {"hi": "स्यारों/गीदड़ों के एक झुंड से (Pack of jackals)", "en": "A pack of jackals"}
-          },
-          {
-            "q": {
-              "hi": "जब सुंदर चौंककर जागा, तो आसपास का माहौल कैसा था?",
-              "en": "What was the condition when Sundar woke up with a start?"
-            },
-            "options": [
-              {"hi": "सुबह की ठंडी ताज़ी धूप खिली थी", "en": "Bright morning sun was out"},
-              {"hi": "रात हो चुकी थी और घना अंधेरा था (Pitch dark)", "en": "Night had fallen and it was pitch dark"},
-              {"hi": "दोपहर की कड़कड़ाती धूप थी", "en": "It was blazing afternoon"},
-              {"hi": "बहुत तेज़ मूसलाधार बारिश हो रही थी", "en": "It was raining heavily"}
-            ],
-            "answer": {"hi": "रात हो चुकी थी और घना अंधेरा था (Pitch dark)", "en": "Night had fallen and it was pitch dark"}
-          },
-          {
-            "q": {
-              "hi": "गाँव में गीदड़ों के काटने के बारे में क्या अफवाह या बात कही जाती थी?",
-              "en": "What disease was commonly said to be spread if jackals bit someone?"
-            },
-            "options": [
-              {"hi": "मलेरिया बुखार", "en": "Malaria fever"},
-              {"hi": "रेबीज़ या पागलपन (Rabies / madness)", "en": "Rabies / madness"},
-              {"hi": "त्वचा का कैंसर", "en": "Skin cancer"},
-              {"hi": "कोई बीमारी नहीं होती थी", "en": "No disease at all"}
-            ],
-            "answer": {"hi": "रेबीज़ या पागलपन (Rabies / madness)", "en": "Rabies / madness"}
-          },
-          {
-            "q": {
-              "hi": "गीदड़ों के डर से खुद को बचाने के लिए सुंदर ने चट्टान के पीछे टटोलकर क्या ढूँढा?",
-              "en": "What did Sundar find on the ground to put in his bag for defense?"
-            },
-            "options": [
-              {"hi": "लोहे की कुछ कीलें", "en": "A few iron nails"},
-              {"hi": "तीन पत्थर (Three stones)", "en": "Three stones"},
-              {"hi": "एक पुरानी कुल्हाड़ी", "en": "An old axe"},
-              {"hi": "सूखी लकड़ियाँ", "en": "Dry sticks"}
-            ],
-            "answer": {"hi": "तीन पत्थर (Three stones)", "en": "Three stones"}
-          },
-          {
-            "q": {
-              "hi": "जब सुंदर ने पहला बड़ा पत्थर फेंका, तो क्या हुआ?",
-              "en": "What happened after Sundar threw the largest stone towards the jackals?"
-            },
-            "options": [
-              {"hi": "वह पत्थर नदी में गिर गया", "en": "The stone fell into the river"},
-              {"hi": "वह एक गीदड़ को लगा और वह दर्द से कराह उठा", "en": "It hit a jackal and it howled in agony"},
-              {"hi": "सभी गीदड़ों ने सुंदर पर हमला कर दिया", "en": "All jackals attacked Sundar"},
-              {"hi": "पत्थर पेड़ की टहनी से टकराकर टूट गया", "en": "The stone hit a branch and broke"}
-            ],
-            "answer": {"hi": "वह एक गीदड़ को लगा और वह दर्द से कराह उठा", "en": "It hit a jackal and it howled in agony"}
-          },
-          {
-            "q": {
-              "hi": "अंधेरे में चलते समय सुंदर के पैर किसमें फँस गए थे?",
-              "en": "In what were Sundar's feet caught after taking a few paces?"
-            },
-            "options": [
-              {"hi": "एक गहरे दलदल के कीचड़ में", "en": "In deep marshy mud"},
-              {"hi": "एक पेड़ की जड़ों में (Roots of a tree)", "en": "In the roots of a tree"},
-              {"hi": "शिकारी द्वारा बिछाए गए लोहे के जाल में", "en": "In an iron trap laid by a hunter"},
-              {"hi": "कँटीली झाड़ियों में", "en": "In thorny bushes"}
-            ],
-            "answer": {"hi": "एक पेड़ की जड़ों में (Roots of a tree)", "en": "In the roots of a tree"}
-          },
-          {
-            "q": {
-              "hi": "पेड़ पर सुरक्षित चढ़ने के बाद स्थानीय लोगों द्वारा 'मौत का पक्षी' (Death Bird) कहे जाने वाले किस पक्षी ने आवाज़ की?",
-              "en": "Which bird called out 'Burn him down!', terrifying Sundar further?"
-            },
-            "options": [
-              {"hi": "एक उल्लू ने", "en": "An owl"},
-              {"hi": "नाइट जार (Night Jar) पक्षी ने", "en": "The Night Jar"},
-              {"hi": "एक चमगादड़ ने", "en": "A bat"},
-              {"hi": "एक जंगली गिद्ध ने", "en": "A wild vulture"}
-            ],
-            "answer": {"hi": "नाइट जार (Night Jar) पक्षी ने", "en": "The Night Jar"}
-          },
-          {
-            "q": {
-              "hi": "सुंदर ने बंदरों को भगाने के लिए पेड़ के ऊपर से उनके सिर पर क्या गिरा दिया?",
-              "en": "What did Sundar drop on the monkey's head from above the tree?"
-            },
-            "options": [
-              {"hi": "अपना पत्तों वाला हैट", "en": "His leaf hat"},
-              {"hi": "पत्थरों से भरा हुआ थैला (Sack-full of stones)", "en": "His sack-full of stones"},
-              {"hi": "पेड़ का एक बड़ा भारी फल", "en": "A large heavy fruit"},
-              {"hi": "अपनी बांसुरी", "en": "His pipe"}
-            ],
-            "answer": {"hi": "पत्थरों से भरा हुआ थैला (Sack-full of stones)", "en": "His sack-full of stones"}
-          },
-          {
-            "q": {
-              "hi": "पेड़ से उतरकर सुंदर ने रास्ता साफ़ करने के लिए अपने चाकू (Penknife) से क्या काटा?",
-              "en": "What did Sundar cut with his penknife to clear his way through the reeds?"
-            },
-            "options": [
-              {"hi": "एक लंबी लकड़ी या छड़ी", "en": "A long stick"},
-              {"hi": "एक बड़ा फल", "en": "A large fruit"},
-              {"hi": "एक मोटी बेल/क्रीपर", "en": "A thick creeper"},
-              {"hi": "कपड़े की पट्टियाँ", "en": "Cloth strips"}
-            ],
-            "answer": {"hi": "एक लंबी लकड़ी या छड़ी", "en": "A long stick"}
-          },
-          {
-            "q": {
-              "hi": "घने अंधेरे में सुंदर को अचानक एक हल्की सी रोशनी दिखाई दी, तो उसके शरीर पर क्या आ गया?",
-              "en": "What happened to Sundar when he suddenly saw a faint light in the dark forest?"
-            },
-            "options": [
-              {"hi": "उसे बहुत तेज़ हँसी आ गई", "en": "He started laughing loudly"},
-              {"hi": "वह ठंडे पसीने से भीग गया (Broke into a cold sweat)", "en": "He broke into a cold sweat"},
-              {"hi": "वह खुशी से नाचने लगा", "en": "He started dancing with joy"},
-              {"hi": "उसे तुरंत गहरी नींद आ गई", "en": "He fell asleep instantly"}
-            ],
-            "answer": {"hi": "वह ठंडे पसीने से भीग गया (Broke into a cold sweat)", "en": "He broke into a cold sweat"}
-          }
+          {"q": {"hi": "कहानी में 'chatter' का अर्थ क्या है?", "en": "What is the meaning of 'chatter' in the story?"}, "options": [{"hi": "बकवास या निरर्थक बातें", "en": "Idle talk or nonsense"}, {"hi": "गाना", "en": "Singing"}, {"hi": "रोना", "en": "Crying"}, {"hi": "शोर", "en": "Noise"}], "answer": {"hi": "बकवास या निरर्थक बातें", "en": "Idle talk or nonsense"}},
+          {"q": {"hi": "चोर ने जब 'Rama' नाम सुना तो उसने क्या सोचा?", "en": "What did the thief think when he heard the name 'Rama'?"}, "options": [{"hi": "वह घर में कोई बच्चा है", "en": "That there is a child in the house"}, {"hi": "वह पुलिस है", "en": "That it is the police"}, {"hi": "वह उसका दोस्त है", "en": "That it is his friend"}, {"hi": "उसे डर नहीं लगा", "en": "He wasn't afraid"}], "answer": {"hi": "वह घर में कोई बच्चा है", "en": "That there is a child in the house"}},
+          {"q": {"hi": "क्या पति-पत्नी ने सच में बच्चे के बारे में बात की?", "en": "Did the couple really talk about the child?"}, "options": [{"hi": "नहीं, यह सिर्फ एक नाटक था", "en": "No, it was just a trick"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}, {"hi": "शायद", "en": "Maybe"}], "answer": {"hi": "नहीं, यह सिर्फ एक नाटक था", "en": "No, it was just a trick"}},
+          {"q": {"hi": "चोर घर से क्यों नहीं भागा?", "en": "Why didn't the thief run away from the house?"}, "options": [{"hi": "वह पैसों की तलाश में था", "en": "He was looking for money"}, {"hi": "वह सो गया था", "en": "He was asleep"}, {"hi": "उसे रास्ता नहीं मिला", "en": "He didn't find the way"}, {"hi": "वह थक गया था", "en": "He was tired"}], "answer": {"hi": "वह पैसों की तलाश में था", "en": "He was looking for money"}},
+          {"q": {"hi": "रमा के पास क्या हथियार था?", "en": "What weapon did Rama have?"}, "options": [{"hi": "एक लाठी", "en": "A stick/staff"}, {"hi": "बंदूक", "en": "A gun"}, {"hi": "तलवार", "en": "A sword"}, {"hi": "कुछ नहीं", "en": "Nothing"}], "answer": {"hi": "एक लाठी", "en": "A stick/staff"}},
+          {"q": {"hi": "कहानी का मुख्य संदेश क्या है?", "en": "What is the main message of the story?"}, "options": [{"hi": "मुसीबत में बुद्धि का प्रयोग करें", "en": "Use intelligence in trouble"}, {"hi": "चोर पर भरोसा करें", "en": "Trust the thief"}, {"hi": "अकेले रहें", "en": "Stay alone"}, {"hi": "डरें नहीं", "en": "Don't be afraid"}], "answer": {"hi": "मुसीबत में बुद्धि का प्रयोग करें", "en": "Use intelligence in trouble"}},
+          {"q": {"hi": "क्या चोर को पकड़ लिया गया?", "en": "Was the thief arrested?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "वह भाग गया", "en": "He ran away"}, {"hi": "शायद", "en": "Maybe"}], "answer": {"hi": "हाँ", "en": "Yes"}},
+          {"q": {"hi": "पत्नी ने पति के किस योजना का साथ दिया?", "en": "Whose plan did the wife support?"}, "options": [{"hi": "पति का", "en": "Husband's"}, {"hi": "कोटवाल का", "en": "Kotwal's"}, {"hi": "चोर का", "en": "Thief's"}, {"hi": "पड़ोसी का", "en": "Neighbour's"}], "answer": {"hi": "पति का", "en": "Husband's"}},
+          {"q": {"hi": "घर के अंदर चोर के लिए क्या था?", "en": "What was inside for the thief?"}, "options": [{"hi": "सिर्फ मुसीबत", "en": "Only trouble"}, {"hi": "सोना", "en": "Gold"}, {"hi": "पैसा", "en": "Money"}, {"hi": "खाना", "en": "Food"}], "answer": {"hi": "सिर्फ मुसीबत", "en": "Only trouble"}},
+          {"q": {"hi": "चोर ने रमा की आवाज सुनी थी या नाम पुकारा गया था?", "en": "Did the thief hear Rama's voice or was the name called out?"}, "options": [{"hi": "नाम पुकारा गया था", "en": "The name was called out"}, {"hi": "उसने आवाज सुनी थी", "en": "He heard the voice"}, {"hi": "रमा ने उसे बुलाया", "en": "Rama called him"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "नाम पुकारा गया था", "en": "The name was called out"}}
         ],
         "section4": [
-          {
-            "q": {
-              "hi": "साहस बटोरकर जब सुंदर रोशनी की तरफ गया, तो उसने कुछ आदमियों को क्या करते हुए देखा?",
-              "en": "What did Sundar see four or five men doing near the light?"
-            },
-            "options": [
-              {"hi": "जंगल में पेड़ काटते हुए", "en": "Cutting down forest trees"},
-              {"hi": "एक मरे हुए जानवर की खाल उतारते हुए (Skinning a dead animal)", "en": "Skinning a dead animal"},
-              {"hi": "आग जलाकर खाना पकाते हुए", "en": "Cooking food over a fire"},
-              {"hi": "सोने का खजाना खोदते हुए", "en": "Digging up gold treasure"}
-            ],
-            "answer": {"hi": "एक मरे हुए जानवर की खाल उतारते हुए (Skinning a dead animal)", "en": "Skinning a dead animal"}
-          },
-          {
-            "q": {
-              "hi": "चोरों या कसाइयों के पास लैंप या रोशनी के रूप में क्या था?",
-              "en": "What did the men have as their lamp?"
-            },
-            "options": [
-              {"hi": "एक बिजली की आधुनिक लालटेन", "en": "An electric lantern"},
-              {"hi": "जुगनुओं से भरी हुई एक बोतल (Bottle full of glowworms)", "en": "A bottle full of glowworms"},
-              {"hi": "मिट्टी के तेल का दीया", "en": "A kerosene diya"},
-              {"hi": "मोमबत्तियाँ", "en": "Candles"}
-            ],
-            "answer": {"hi": "जुगनुओं से भरी हुई एक बोतल (Bottle full of glowworms)", "en": "A bottle full of glowworms"}
-          },
-          {
-            "q": {
-              "hi": "कटे हुए सिर को ध्यान से देखकर सुंदर ने क्या महसूस किया कि वह जानवर कौन था?",
-              "en": "What did Sundar realize after looking closely at the severed head of the animal?"
-            },
-            "options": [
-              {"hi": "कि वह उसकी अपनी पसंदीदा गाय 'स्पॉटेड टेल' थी", "en": "That it was his favorite cow Spotted Tail"},
-              {"hi": "कि वह कोई जंगली गाय नहीं बल्कि एक पुराना सफ़ेद सांड था", "en": "That it was not Spotted Tail but an old white bull"},
-              {"hi": "कि वह एक जंगली हिरण था", "en": "That it was a wild deer"},
-              {"hi": "कि वह एक भयानक अजगर था", "en": "That it was a huge python"}
-            ],
-            "answer": {"hi": "कि वह कोई जंगली गाय नहीं बल्कि एक पुराना सफ़ेद सांड था", "en": "That it was not Spotted Tail but an old white bull"}
-          },
-          {
-            "q": {
-              "hi": "सुंदर ने उन चोरों के पास से चुपके से क्या चुरा लिया या गायब कर दिया?",
-              "en": "What did Sundar quietly steal from the thieves?"
-            },
-            "options": [
-              {"hi": "उनके सारे धारदार चाकू", "en": "All their sharp knives"},
-              {"hi": "जुगनुओं वाली बोतल और टाट का बोरा (Bottle along with the gunny sack)", "en": "The bottle along with the gunny sack"},
-              {"hi": "उनका सारा चुराया हुआ मांस", "en": "All their stolen meat"},
-              {"hi": "उनकी पैसों की थैलियां", "en": "Their money bags"}
-            ],
-            "answer": {"hi": "जुगनुओं वाली बोतल और टाट का बोरा (Bottle along with the gunny sack)", "en": "The bottle along with the gunny sack"}
-          },
-          {
-            "q": {
-              "hi": "अचानक लैंप गायब हो जाने पर कसाइयों/चोरों ने आपस में क्या निर्णय लिया?",
-              "en": "What did the thieves decide to do when their light source disappeared?"
-            },
-            "options": [
-              {"hi": "सुबह होने तक वहीं सोने का", "en": "To sleep there until morning"},
-              {"hi": "पकड़े जाने के डर से तुरंत भाग जाने का (Beat a hasty retreat)", "en": "To beat a hasty retreat out of fear of getting caught"},
-              {"hi": "पुलिस को बुलाने का", "en": "To call the police"},
-              {"hi": "सुंदर को ढूँढने का", "en": "To search for Sundar"}
-            ],
-            "answer": {"hi": "पकड़े जाने के डर से तुरंत भाग जाने का (Beat a hasty retreat)", "en": "To beat a hasty retreat out of fear of getting caught"}
-          },
-          {
-            "q": {
-              "hi": "जब सुंदर की बांसुरी (Reed pipe) की धुन अंधेरे में गूंजी, तो चोरों ने डरकर क्या किया?",
-              "en": "What did the men do when the notes of the reed pipe floated across the dark?"
-            },
-            "options": [
-              {"hi": "वे ज़ोर-ज़ोर से गाना गाने लगे", "en": "They started singing loudly"},
-              {"hi": "वे अपनी छुरियाँ छोड़कर एक पेड़ पर चढ़ गए", "en": "They dropped their knives and ran to climb up a tree"},
-              {"hi": "वे नदी में कूद गए", "en": "They jumped into the river"},
-              {"hi": "उन्होंने सुंदर पर पत्थरों से हमला किया", "en": "They attacked Sundar with stones"}
-            ],
-            "answer": {"hi": "वे अपनी छुरियाँ छोड़कर एक पेड़ पर चढ़ गए", "en": "They dropped their knives and ran to climb up a tree"}
-          },
-          {
-            "q": {
-              "hi": "बांसुरी की आवाज़ सुनकर कसाई द्वारा मारे गए सांड के मांस पर कौन टूट पड़ा?",
-              "en": "Who came scampering to the carcass and fell upon it when the jackal howled?"
-            },
-            "options": [
-              {"hi": "जंगल के खूंखार चीते", "en": "Fierce jungle leopards"},
-              {"hi": "स्यार या गीदड़ (Jackals)", "en": "A pack of jackals"},
-              {"hi": "जंगली सूअर", "en": "Wild pigs"},
-              {"hi": "जंगल के आदिवासी लोग", "en": "Forest tribal people"}
-            ],
-            "answer": {"hi": "स्यार या गीदड़ (Jackals)", "en": "A pack of jackals"}
-          },
-          {
-            "q": {
-              "hi": "चोरों ने पेड़ के ऊपर से लाचार होकर गीदड़ों को क्या खाते हुए देखा?",
-              "en": "What did the gang of thieves helplessly watch from the tree-top?"
-            },
-            "options": [
-              {"hi": "उनके द्वारा काटे गए बैल का मांस (Devour the bull)", "en": "The jackals devouring the bull they had butchered"},
-              {"hi": "सुंदर का सारा भोजन पैकेज", "en": "The jackals eating Sundar's food package"},
-              {"hi": "जंगल के पेड़ की सूखी पत्तियाँ", "en": "Jackals eating dry leaves"},
-              {"hi": "काजू के गिरे हुए फल", "en": "Jackals eating fallen cashews"}
-            ],
-            "answer": {"hi": "उनके द्वारा काटे गए बैल का मांस (Devour the bull)", "en": "The jackals devouring the bull they had butchered"}
-          },
-          {
-            "q": {
-              "hi": "अंधेरे जंगल में भागते समय सुंदर अचानक एक पेड़ की जड़ से टकराकर गिर गया, तो उसे क्या चोट लगी?",
-              "en": "What injury did Sundar face when he tripped over a tree-root and fell headlong?"
-            },
-            "options": [
-              {"hi": "उसका सिर फट गया था", "en": "His head started bleeding heavily"},
-              {"hi": "घुटने के नीचे एक गहरा घाव हो गया जिससे बहुत खून बह रहा था", "en": "A deep cut below the knee which was bleeding profusely"},
-              {"hi": "उसका एक हाथ टूट गया था", "en": "His arm was fractured"},
-              {"hi": "उसे कोई चोट नहीं लगी थी", "en": "He did not receive any injury"}
-            ],
-            "answer": {"hi": "घुटने के नीचे एक गहरा घाव हो गया जिससे बहुत खून बह रहा था", "en": "A deep cut below the knee which was bleeding profusely"}
-          },
-          {
-            "q": {
-              "hi": "बहते हुए खून को रोकने के लिए सुंदर ने घाव के ठीक ऊपर क्या बांधा?",
-              "en": "What did Sundar tie above the wound to stop the bleeding?"
-            },
-            "options": [
-              {"hi": "अपनी शर्ट का एक टुकड़ा", "en": "A piece of his shirt"},
-              {"hi": "बोरे या थैले की रस्सी/डोरी (Sack's string)", "en": "The sack's string"},
-              {"hi": "एक लंबी हरी क्रीपर बेल", "en": "A long green creeper"},
-              {"hi": "पेड़ की एक सूखी छाल", "en": "A dry tree bark"}
-            ],
-            "answer": {"hi": "बोरे या थैले की रस्सी/डोरी (Sack's string)", "en": "The sack's string"}
-          }
+          {"q": {"hi": "चोर को सबसे ज्यादा क्या परेशान कर रहा था?", "en": "What was bothering the thief the most?"}, "options": [{"hi": "उनकी बातों का अंत न होना", "en": "Their never-ending talk"}, {"hi": "अंधेरा", "en": "Darkness"}, {"hi": "भूख", "en": "Hunger"}, {"hi": "रमा का आना", "en": "Rama's arrival"}], "answer": {"hi": "उनकी बातों का अंत न होना", "en": "Their never-ending talk"}},
+          {"q": {"hi": "रमा घर क्यों आया?", "en": "Why did Rama come to the house?"}, "options": [{"hi": "अपना नाम सुनकर", "en": "On hearing his name"}, {"hi": "चोर को पकड़ने के लिए", "en": "To catch the thief"}, {"hi": "मदद मांगने के लिए", "en": "To ask for help"}, {"hi": "घूमने के लिए", "en": "To roam"}], "answer": {"hi": "अपना नाम सुनकर", "en": "On hearing his name"}},
+          {"q": {"hi": "क्या पति-पत्नी डर गए थे?", "en": "Were the couple scared?"}, "options": [{"hi": "नहीं, उन्होंने नाटक किया", "en": "No, they acted"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "थोड़ा", "en": "A little"}], "answer": {"hi": "नहीं, उन्होंने नाटक किया", "en": "No, they acted"}},
+          {"q": {"hi": "चोर को क्या लगा कि वे क्या कर रहे हैं?", "en": "What did the thief think they were doing?"}, "options": [{"hi": "बच्चे के नाम की चर्चा", "en": "Discussing child's name"}, {"hi": "सोने की योजना", "en": "Planning to sleep"}, {"hi": "पैसा छुपाना", "en": "Hiding money"}, {"hi": "खाना खाना", "en": "Eating"}], "answer": {"hi": "बच्चे के नाम की चर्चा", "en": "Discussing child's name"}},
+          {"q": {"hi": "कहानी के अंत में कौन सुरक्षित था?", "en": "Who was safe at the end of the story?"}, "options": [{"hi": "पति और पत्नी", "en": "Husband and wife"}, {"hi": "चोर", "en": "Thief"}, {"hi": "कोटवाल", "en": "Kotwal"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "पति और पत्नी", "en": "Husband and wife"}},
+          {"q": {"hi": "चोर ने अंत में क्या महसूस किया?", "en": "What did the thief feel in the end?"}, "options": [{"hi": "पछतावा या हार", "en": "Regret or defeat"}, {"hi": "जीत", "en": "Victory"}, {"hi": "खुशी", "en": "Happiness"}, {"hi": "डर", "en": "Fear"}], "answer": {"hi": "पछतावा या हार", "en": "Regret or defeat"}},
+          {"q": {"hi": "रमा के हाथ में क्या था?", "en": "What was in Rama's hand?"}, "options": [{"hi": "लाठी", "en": "Staff"}, {"hi": "बक्सा", "en": "Box"}, {"hi": "किताब", "en": "Book"}, {"hi": "कुछ नहीं", "en": "Nothing"}], "answer": {"hi": "लाठी", "en": "Staff"}},
+          {"q": {"hi": "क्या यह कहानी मनोरंजक है?", "en": "Is this story entertaining?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
+          {"q": {"hi": "चोर ने दीवार कैसे खोदी?", "en": "How did the thief dig the wall?"}, "options": [{"hi": "औजारों से", "en": "With tools"}, {"hi": "हाथों से", "en": "With hands"}, {"hi": "लाठी से", "en": "With staff"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "औजारों से", "en": "With tools"}},
+          {"q": {"hi": "पति ने अपनी पत्नी को क्या संकेत दिया?", "en": "What sign did the husband give to his wife?"}, "options": [{"hi": "बात शुरू करने का", "en": "To start talking"}, {"hi": "चुप रहने का", "en": "To be silent"}, {"hi": "भागने का", "en": "To run"}, {"hi": "सोने का", "en": "To sleep"}], "answer": {"hi": "बात शुरू करने का", "en": "To start talking"}}
         ],
         "section5": [
-          {
-            "q": {
-              "hi": "सुंदर ने बेहोश होने या सोने से पहले अपने घावों को किस चीज़ से साफ़ किया था?",
-              "en": "With what did Sundar cleanse his bruises before falling asleep?"
-            },
-            "options": [
-              {"hi": "नदी के गंदे पानी से", "en": "With dirty river water"},
-              {"hi": "एक औषधीय पौधे की पत्तियों से (Leaves of a herbal plant)", "en": "With the leaves of a herbal plant"},
-              {"hi": "अपने थैले के साफ कपड़े से", "en": "With a clean cloth from his bag"},
-              {"hi": "उसने उसे साफ़ नहीं किया था", "en": "He did not clean it at all"}
-            ],
-            "answer": {"hi": "एक औषधीय पौधे की पत्तियों से (Leaves of a herbal plant)", "en": "With the leaves of a herbal plant"}
-          },
-          {
-            "q": {
-              "hi": "वास्तव में सुंदर के जंगल में छूट जाने का असली कारण क्या था?",
-              "en": "What simple thing had happened that caused Sundar to be left behind?"
-            },
-            "options": [
-              {"hi": "वह रास्ता भूल गया था", "en": "He had completely lost his path"},
-              {"hi": "गायों के रंभाने पर वह सोता रहा और जगाने आई गाय को पैर से मार दिया", "en": "He slept through cows' bellowing and kicked Spotted Tail when she licked him"},
-              {"hi": "चोरों ने उसे रस्सी से बांध दिया था", "en": "Thieves had tied him with ropes"},
-              {"hi": "वह खुद गाँव वापस नहीं जाना चाहता था", "en": "He himself did not want to return"}
-            ],
-            "answer": {"hi": "गायों के रंभाने पर वह सोता रहा और जगाने आई गाय को पैर से मार दिया", "en": "He slept through cows' bellowing and kicked Spotted Tail when she licked him"}
-          },
-          {
-            "q": {
-              "hi": "जब सुंदर रात को वापस नहीं लौटा, तो उसके पिता ने शुरुआत में क्या सोचा?",
-              "en": "What did Sundar's father initially think when his son didn't return by nightfall?"
-            },
-            "options": [
-              {"hi": "कि सुंदर को किसी बाघ ने खा लिया है", "en": "That a tiger ate Sundar"},
-              {"hi": "कि वह मंदिर के उत्सव/मेले को देखने चला गया होगा", "en": "That Sundar must have gone to see the festival at the temple"},
-              {"hi": "कि वह किसी दूसरे गाँव भाग गया है", "en": "That he ran away to another village"},
-              {"hi": "कि वह अपने दोस्तों के घर सो रहा है", "en": "That he was sleeping at a friend's house"}
-            ],
-            "answer": {"hi": "कि वह मंदिर के उत्सव/मेले को देखने चला गया होगा", "en": "That Sundar must have gone to see the festival at the temple"}
-          },
-          {
-            "q": {
-              "hi": "अगली सुबह 'स्पॉटेड टेल' गाय का व्यवहार कैसा था, जिसके कारण गाँव वाले उसे बीमार समझ रहे थे?",
-              "en": "How did Spotted Tail behave the next morning when anyone came near her?"
-            },
-            "options": [
-              {"hi": "वह बहुत शांत खड़ी थी", "en": "She stood completely quiet"},
-              {"hi": "वह दूध निकालने आने वालों को लात मार रही थी और उछल रही थी (Bucked and kicked)", "en": "She bucked and kicked anyone who came near to milk her"},
-              {"hi": "वह लगातार सारा चारा खा रही थी", "en": "She ate all the feed continuously"},
-              {"hi": "वह ज़मीन पर बेहोश पड़ी थी", "en": "She lay unconscious on the ground"}
-            ],
-            "answer": {"hi": "वह दूध निकालने आने वालों को लात मार रही थी और उछल रही थी (Bucked and kicked)", "en": "She bucked and kicked anyone who came near to milk her"}
-          },
-          {
-            "q": {
-              "hi": "घर की मालकिन ने स्पॉटेड टेल के लिए सामान्य भोजन की जगह क्या उबला हुआ पानी देने का आदेश दिया?",
-              "en": "What did the mistress order Spotted Tail to be fed with instead of oil-cakes?"
-            },
-            "options": [
-              {"hi": "केवल मीठा शरबत", "en": "Only sweet syrup"},
-              {"hi": "नमक मिला हुआ मांड/चावल का पानी (Salt in her gruel)", "en": "Salt in her gruel (salted rice water)"},
-              {"hi": "नीम का कड़वा रस", "en": "Bitter neem juice"},
-              {"hi": "साफ उबला हुआ सादा पानी", "en": "Clean boiled plain water"}
-            ],
-            "answer": {"hi": "नमक मिला हुआ मांड/चावल का पानी (Salt in her gruel)", "en": "Salt in her gruel (salted rice water)"}
-          },
-          {
-            "q": {
-              "hi": "जब मालकिन दलिया लेकर गौशाला (Cowshed) गई, तो उसने क्या देखा?",
-              "en": "What did the mistress notice when she went to the cowshed with the gruel?"
-            },
-            "options": [
-              {"hi": "गाय चुपचाप मांड पी रही थी", "en": "The cow was drinking the gruel quietly"},
-              {"hi": "स्पॉटेड टेल वहाँ से रस्सी छुड़ाकर गायब हो चुकी थी (Vanished)", "en": "Spotted Tail had broken loose and vanished"},
-              {"hi": "सुंदर वहाँ सो रहा था", "en": "Sundar was sleeping there"},
-              {"hi": "गाय का बछड़ा खेल रहा था", "en": "The calf was playing around"}
-            ],
-            "answer": {"hi": "स्पॉटेड टेल वहाँ से रस्सी छुड़ाकर गायब हो चुकी थी (Vanished)", "en": "Spotted Tail had broken loose and vanished"}
-          },
-          {
-            "q": {
-              "hi": "गाय को ढूँढने के लिए सुंदर के पिता के साथ और कौन जंगल की तरफ गया था?",
-              "en": "Who set out towards the forest along with Sundar's father to look for them?"
-            },
-            "options": [
-              {"hi": "केवल स्कूल के शिक्षक", "en": "Only the school teacher"},
-              {"hi": "स्पॉटेड टेल की मालकिन और अन्य ग्रामीण (Spotted Tail mistress and others)", "en": "Spotted Tail mistress and other villagers"},
-              {"hi": "गाँव के जमींदार", "en": "The village landlord"},
-              {"hi": "कोई भी नहीं गया", "en": "Nobody went"}
-            ],
-            "answer": {"hi": "स्पॉटेड टेल की मालकिन और अन्य ग्रामीण (Spotted Tail mistress and others)", "en": "Spotted Tail mistress and other villagers"}
-          },
-          {
-            "q": {
-              "hi": "जंगल में पहुँचकर स्पॉटेड टेल ने सुंदर को किस अवस्था में पाया और उसके घावों पर क्या किया?",
-              "en": "In what state did Spotted Tail find Sundar and what did she do to his wounds?"
-            },
-            "options": [
-              {"hi": "वह जाग रहा था, उसने सुंदर को मारा", "en": "He was awake, she hit him"},
-              {"hi": "वह गहरी नींद में घायल पड़ा था, गाय ने उसके घावों को चाटना शुरू किया (Licking the boy)", "en": "He was bruised but fast asleep; she let out a bellow and began licking away ants and flies"},
-              {"hi": "वह पेड़ के ऊपर चढ़कर हंस रहा था", "en": "He was sitting on a tree and laughing"},
-              {"hi": "सुंदर नदी में तैर रहा था", "en": "Sundar was swimming in the river"}
-            ],
-            "answer": {"hi": "वह गहरी नींद में घायल पड़ा था, गाय ने उसके घावों को चाटना शुरू किया (Licking the boy)", "en": "He was bruised but fast asleep; she let out a bellow and began licking away ants and flies"}
-          },
-          {
-            "q": {
-              "hi": "कमज़ोरी के कारण लेटे हुए सुंदर ने अपनी जान बचाने के लिए गाय के थनों से दूध कैसे पिया?",
-              "en": "How did the weak Sundar take the cow's udders to gain strength back?"
-            },
-            "options": [
-              {"hi": "एक स्टील की बाल्टी में निकालकर", "en": "By milking her into a steel bucket"},
-              {"hi": "एक छोटे बछड़े की तरह सीधे अपने मुँह से खींचकर (Exactly as would a calf)", "en": "He took the udders in his mouth exactly as would a calf and began to suck"},
-              {"hi": "एक चम्मच की मदद से", "en": "Using a small spoon"},
-              {"hi": "उसने दूध पीने से साफ़ मना कर दिया", "en": "He completely refused to drink milk"}
-            ],
-            "answer": {"hi": "एक छोटा बछड़े की तरह सीधे अपने मुँह से खींचकर (Exactly as would a calf)", "en": "He took the udders in his mouth exactly as would a calf and began to suck"}
-          },
-          {
-            "q": {
-              "hi": "रीअल वर्ल्ड (Real World Info): भारत में वर्ष 1992 में पशुओं के अधिकारों और कल्याण के लिए 'People for Animals' संगठन की शुरुआत किसने की थी?",
-              "en": "From the Real World: Who started the largest organization 'People for Animals' in India in 1992?"
-            },
-            "options": [
-              {"hi": "मेधा पाटकर", "en": "Medha Patkar"},
-              {"hi": "मेनका गांधी (Maneka Gandhi)", "en": "Maneka Gandhi"},
-              {"hi": "किरण बेदी", "en": "Kiran Bedi"},
-              {"hi": "अरुंधति रॉय", "en": "Arundhati Roy"}
-            ],
-            "answer": {"hi": "मेनका गांधी (Maneka Gandhi)", "en": "Maneka Gandhi"}
-          }
+          {"q": {"hi": "क्या पति-पत्नी ने सच में पैसे छुपाए थे?", "en": "Did the couple really hide money?"}, "options": [{"hi": "नहीं, यह योजना का हिस्सा था", "en": "No, it was part of the plan"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "नहीं, यह योजना का हिस्सा था"}},
+          {"q": {"hi": "चोर क्यों पकड़ा गया?", "en": "Why was the thief caught?"}, "options": [{"hi": "अपनी उत्सुकता के कारण", "en": "Due to his curiosity"}, {"hi": "रमा की फुर्ती से", "en": "Due to Rama's quickness"}, {"hi": "भाग्य से", "en": "Due to luck"}, {"hi": "पति की मदद से", "en": "With husband's help"}], "answer": {"hi": "अपनी उत्सुकता के कारण"}},
+          {"q": {"hi": "रमा का घर में आगमन क्या दर्शाता है?", "en": "What does Rama's arrival in the house indicate?"}, "options": [{"hi": "योजना की सफलता", "en": "Success of the plan"}, {"hi": "चोर की जीत", "en": "Thief's victory"}, {"hi": "रमा की गलती", "en": "Rama's mistake"}, {"hi": "अनहोनी", "en": "Misfortune"}], "answer": {"hi": "योजना की सफलता"}},
+          {"q": {"hi": "चोर के लिए सबसे बुरी बात क्या थी?", "en": "What was the worst thing for the thief?"}, "options": [{"hi": "पकड़े जाना", "en": "Getting caught"}, {"hi": "भूख", "en": "Hunger"}, {"hi": "अंधेरा", "en": "Darkness"}, {"hi": "पति-पत्नी की बातें", "en": "Husband-wife talk"}], "answer": {"hi": "पकड़े जाना"}},
+          {"q": {"hi": "रमा कब घर पहुँचा?", "en": "When did Rama reach the house?"}, "options": [{"hi": "चोर के अंदर होने पर", "en": "When the thief was inside"}, {"hi": "सुबह", "en": "In the morning"}, {"hi": "रात में", "en": "At night"}, {"hi": "चोर के भागने के बाद", "en": "After the thief ran away"}], "answer": {"hi": "चोर के अंदर होने पर"}},
+          {"q": {"hi": "क्या पति-पत्नी ने चालाकी दिखाई?", "en": "Did the couple show cleverness?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ"}},
+          {"q": {"hi": "चोर ने घर में कहाँ छेद किया था?", "en": "Where did the thief make a hole in the house?"}, "options": [{"hi": "दीवार में", "en": "In the wall"}, {"hi": "छत में", "en": "In the roof"}, {"hi": "दरवाजे में", "en": "In the door"}, {"hi": "जमीन में", "en": "In the floor"}], "answer": {"hi": "दीवार में"}},
+          {"q": {"hi": "रमा ने क्या कहा?", "en": "What did Rama say?"}, "options": [{"hi": "यू आर अंडर अरेस्ट", "en": "You are under arrest"}, {"hi": "कौन हो तुम", "en": "Who are you"}, {"hi": "भागो", "en": "Run"}, {"hi": "जाओ", "en": "Go"}], "answer": {"hi": "यू आर अंडर अरेस्ट"}},
+          {"q": {"hi": "क्या यह कहानी आज के समय में भी प्रासंगिक है?", "en": "Is this story relevant even today?"}, "options": [{"hi": "हाँ, समझदारी के लिए", "en": "Yes, for intelligence"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ, समझदारी के लिए"}},
+          {"q": {"hi": "अंत में कौन हँसा?", "en": "Who laughed at the end?"}, "options": [{"hi": "पति और पत्नी", "en": "Husband and wife"}, {"hi": "चोर", "en": "Thief"}, {"hi": "रमा", "en": "Rama"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "पति और पत्नी"}}
         ]
       },
    "chapter02a": {
-  "section1": [
-    {
-      "q": {
-        "hi": "कविता 'Friends' के अनुसार, दोस्त आपको देखकर क्या करते हैं?",
-        "en": "According to the poem 'Friends', what do friends do when they look at you?"
+        "section1": [
+          {"q": {"hi": "गजारज कौन था?", "en": "Who was Gajaraj?"}, "options": [{"hi": "एक हाथी", "en": "An elephant"}, {"hi": "एक कुत्ता", "en": "A dog"}, {"hi": "एक किसान", "en": "A farmer"}, {"hi": "एक प्रशिक्षक", "en": "A trainer"}], "answer": {"hi": "एक हाथी", "en": "An elephant"}},
+          {"q": {"hi": "गजारज क्यों दुखी था?", "en": "Why was Gajaraj sad?"}, "options": [{"hi": "क्योंकि उसका कोई दोस्त नहीं था", "en": "Because he had no friends"}, {"hi": "क्योंकि वह भूखा था", "en": "Because he was hungry"}, {"hi": "क्योंकि वह बीमार था", "en": "Because he was ill"}, {"hi": "क्योंकि वह अकेला नहीं रहना चाहता था", "en": "Because he didn't want to be alone"}], "answer": {"hi": "क्योंकि उसका कोई दोस्त नहीं था", "en": "Because he had no friends"}},
+          {"q": {"hi": "गजारज की देखभाल कौन करता था?", "en": "Who looked after Gajaraj?"}, "options": [{"hi": "महावत", "en": "The mahout"}, {"hi": "राजा", "en": "The king"}, {"hi": "किसान", "en": "The farmer"}, {"hi": "एक कुत्ता", "en": "A dog"}], "answer": {"hi": "महावत", "en": "The mahout"}},
+          {"q": {"hi": "गजारज कहाँ रहता था?", "en": "Where did Gajaraj live?"}, "options": [{"hi": "शाही अस्तबल में", "en": "In the royal stables"}, {"hi": "जंगल में", "en": "In the forest"}, {"hi": "किसान के घर", "en": "At the farmer's house"}, {"hi": "एक तालाब में", "en": "In a pond"}], "answer": {"hi": "शाही अस्तबल में", "en": "In the royal stables"}},
+          {"q": {"hi": "कौन सा जानवर गलती से अस्तबल में आ गया?", "en": "Which animal strayed into the stable?"}, "options": [{"hi": "एक कुत्ता", "en": "A dog"}, {"hi": "एक बिल्ली", "en": "A cat"}, {"hi": "एक खरगोश", "en": "A rabbit"}, {"hi": "एक चूहा", "en": "A rat"}], "answer": {"hi": "एक कुत्ता", "en": "A dog"}},
+          {"q": {"hi": "गजारज ने कुत्ते के साथ क्या साझा किया?", "en": "What did Gajaraj share with the dog?"}, "options": [{"hi": "अपना भोजन", "en": "His food"}, {"hi": "अपना पानी", "en": "His water"}, {"hi": "अपना स्थान", "en": "His place"}, {"hi": "अपना खिलौना", "en": "His toy"}], "answer": {"hi": "अपना भोजन", "en": "His food"}},
+          {"q": {"hi": "कुत्ते का नाम क्या था?", "en": "What was the dog's name?"}, "options": [{"hi": "बंटी", "en": "Buntee"}, {"hi": "गजारज", "en": "Gajaraj"}, {"hi": "शेरू", "en": "Sheru"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "बंटी", "en": "Buntee"}},
+          {"q": {"hi": "कुत्ता किसका था?", "en": "Whose dog was it?"}, "options": [{"hi": "एक किसान का", "en": "A farmer's"}, {"hi": "राजा का", "en": "The king's"}, {"hi": "महावत का", "en": "The mahout's"}, {"hi": "गजारज का", "en": "Gajaraj's"}], "answer": {"hi": "एक किसान का", "en": "A farmer's"}},
+          {"q": {"hi": "गजारज ने नहाते समय कुत्ते के साथ क्या खेल खेला?", "en": "What game did Gajaraj play with the dog while bathing?"}, "options": [{"hi": "पानी छिड़कना", "en": "Splashing water"}, {"hi": "पकड़म-पकड़ाई", "en": "Catching"}, {"hi": "दौड़ना", "en": "Running"}, {"hi": "कुछ नहीं", "en": "Nothing"}], "answer": {"hi": "पानी छिड़कना", "en": "Splashing water"}},
+          {"q": {"hi": "कुत्ता गजारज की सवारी कैसे करता था?", "en": "How did the dog ride on Gajaraj?"}, "options": [{"hi": "हाथी उसे अपनी पीठ पर बिठाता था", "en": "The elephant placed him on his back"}, {"hi": "वह हाथी के कान पकड़कर बैठता था", "en": "He sat by holding the ears"}, {"hi": "वह हाथी के साथ दौड़ता था", "en": "He ran with the elephant"}, {"hi": "वह हाथी की पूंछ पकड़ता था", "en": "He held the tail"}], "answer": {"hi": "हाथी उसे अपनी पीठ पर बिठाता था", "en": "The elephant placed him on his back"}}
+        ],
+        "section2": [
+          {"q": {"hi": "किसान को कुत्ता कब मिला?", "en": "When did the farmer find the dog?"}, "options": [{"hi": "रास्ते में जाते हुए", "en": "While passing by"}, {"hi": "अस्तबल में", "en": "In the stable"}, {"hi": "घर पर", "en": "At home"}, {"hi": "नदी के किनारे", "en": "Near the river"}], "answer": {"hi": "रास्ते में जाते हुए", "en": "While passing by"}},
+          {"q": {"hi": "कुत्ते को घर ले जाते समय किसने रस्सी का उपयोग किया?", "en": "Who used a rope to take the dog home?"}, "options": [{"hi": "किसान", "en": "The farmer"}, {"hi": "महावत", "en": "The mahout"}, {"hi": "गजारज", "en": "Gajaraj"}, {"hi": "किसी ने नहीं", "en": "No one"}], "answer": {"hi": "किसान", "en": "The farmer"}},
+          {"q": {"hi": "गजारज और बंटी अलग होने पर कैसे थे?", "en": "How were Gajaraj and Buntee after separation?"}, "options": [{"hi": "दुखी और रो रहे थे", "en": "Sad and crying/in tears"}, {"hi": "खुश", "en": "Happy"}, {"hi": "नाराज", "en": "Angry"}, {"hi": "शांत", "en": "Calm"}], "answer": {"hi": "दुखी और रो रहे थे", "en": "Sad and crying/in tears"}},
+          {"q": {"hi": "गजारज ने खाना क्यों नहीं खाया?", "en": "Why did Gajaraj not eat food?"}, "options": [{"hi": "क्योंकि उसे दोस्त की याद आ रही थी", "en": "Because he was missing his friend"}, {"hi": "क्योंकि वह बीमार था", "en": "Because he was ill"}, {"hi": "क्योंकि खाना अच्छा नहीं था", "en": "Because the food was not good"}, {"hi": "क्योंकि वह थक गया था", "en": "Because he was tired"}], "answer": {"hi": "क्योंकि उसे दोस्त की याद आ रही थी", "en": "Because he was missing his friend"}},
+          {"q": {"hi": "क्या बंटी ने घर पर खाना खाया?", "en": "Did Buntee eat food at home?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "थोड़ा", "en": "A little"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "नहीं", "en": "No"}},
+          {"q": {"hi": "किसान ने कुत्ते को रस्सी से क्यों मुक्त किया?", "en": "Why did the farmer free the dog from the rope?"}, "options": [{"hi": "ताकि वह अपने दोस्त के पास जा सके", "en": "So he could go to his friend"}, {"hi": "क्योंकि वह भाग गया", "en": "Because he ran away"}, {"hi": "क्योंकि कुत्ता बीमार था", "en": "Because the dog was ill"}, {"hi": "क्योंकि उसने खाना खा लिया था", "en": "Because he had eaten"}], "answer": {"hi": "ताकि वह अपने दोस्त के पास जा सके", "en": "So he could go to his friend"}},
+          {"q": {"hi": "कुत्ता वापस कहाँ गया?", "en": "Where did the dog go back to?"}, "options": [{"hi": "अस्तबल", "en": "Stable"}, {"hi": "घर", "en": "Home"}, {"hi": "जंगल", "en": "Forest"}, {"hi": "बाजार", "en": "Market"}], "answer": {"hi": "अस्तबल", "en": "Stable"}},
+          {"q": {"hi": "गजारज ने कुत्ते को वापस देखकर क्या किया?", "en": "What did Gajaraj do seeing the dog back?"}, "options": [{"hi": "उसे अपनी सूंड से झूला झुलाया", "en": "Gave him a joyous swing with his trunk"}, {"hi": "उसे खाना खिलाया", "en": "Fed him"}, {"hi": "उसे बाहर भगा दिया", "en": "Chased him out"}, {"hi": "कुछ नहीं", "en": "Nothing"}], "answer": {"hi": "उसे अपनी सूंड से झूला झुलाया", "en": "Gave him a joyous swing with his trunk"}},
+          {"q": {"hi": "महावत ने क्या राहत महसूस की?", "en": "What relief did the mahout feel?"}, "options": [{"hi": "कि हाथी ने फिर से खाना शुरू कर दिया", "en": "That the elephant started eating again"}, {"hi": "कि राजा आ गया", "en": "That the king arrived"}, {"hi": "कि कुत्ता मर गया", "en": "That the dog died"}, {"hi": "कुछ नहीं", "en": "Nothing"}], "answer": {"hi": "कि हाथी ने फिर से खाना शुरू कर दिया", "en": "That the elephant started eating again"}},
+          {"q": {"hi": "अंत में महावत ने क्या कहा?", "en": "What did the mahout say in the end?"}, "options": [{"hi": "कि उसे भी एक दोस्त मिल गया", "en": "That he also found a friend"}, {"hi": "कि वह नौकरी छोड़ देगा", "en": "That he will quit the job"}, {"hi": "कि वह खुश है", "en": "That he is happy"}, {"hi": "कुछ नहीं", "en": "Nothing"}], "answer": {"hi": "कि उसे भी एक दोस्त मिल गया", "en": "That he also found a friend"}}
+        ],
+        "section3": [
+          {"q": {"hi": "'Munching' का क्या अर्थ है?", "en": "What is the meaning of 'Munching'?"}, "options": [{"hi": "चबाना", "en": "Chewing"}, {"hi": "दौड़ना", "en": "Running"}, {"hi": "सोना", "en": "Sleeping"}, {"hi": "खेलना", "en": "Playing"}], "answer": {"hi": "चबाना", "en": "Chewing"}},
+          {"q": {"hi": "'Delighted' का क्या अर्थ है?", "en": "What is the meaning of 'Delighted'?"}, "options": [{"hi": "बहुत खुश", "en": "Very happy"}, {"hi": "दुखी", "en": "Sad"}, {"hi": "गुस्से में", "en": "Angry"}, {"hi": "डरा हुआ", "en": "Afraid"}], "answer": {"hi": "बहुत खुश", "en": "Very happy"}},
+          {"q": {"hi": "'Plunging' का क्या अर्थ है?", "en": "What is the meaning of 'Plunging'?"}, "options": [{"hi": "कूदना", "en": "Jumping in"}, {"hi": "चलना", "en": "Walking"}, {"hi": "सोना", "en": "Sleeping"}, {"hi": "खाना", "en": "Eating"}], "answer": {"hi": "कूदना", "en": "Jumping in"}},
+          {"q": {"hi": "'Trunk' क्या है?", "en": "What is 'Trunk'?"}, "options": [{"hi": "हाथी की लंबी नाक", "en": "Elephant's long nose"}, {"hi": "हाथी का पैर", "en": "Elephant's leg"}, {"hi": "हाथी की आंख", "en": "Elephant's eye"}, {"hi": "हाथी का कान", "en": "Elephant's ear"}], "answer": {"hi": "हाथी की लंबी नाक", "en": "Elephant's long nose"}},
+          {"q": {"hi": "'Wagged' का क्या अर्थ है?", "en": "What is the meaning of 'Wagged'?"}, "options": [{"hi": "इधर-उधर हिलाना", "en": "Moved from side to side"}, {"hi": "पकड़ना", "en": "Catching"}, {"hi": "सोना", "en": "Sleeping"}, {"hi": "दौड़ना", "en": "Running"}], "answer": {"hi": "इधर-उधर हिलाना", "en": "Moved from side to side"}},
+          {"q": {"hi": "'Indigestion' का क्या अर्थ है?", "en": "What is the meaning of 'Indigestion'?"}, "options": [{"hi": "पेट खराब होना", "en": "Upset stomach"}, {"hi": "बुखार", "en": "Fever"}, {"hi": "दर्द", "en": "Pain"}, {"hi": "कुछ नहीं", "en": "None"}], "answer": {"hi": "पेट खराब होना", "en": "Upset stomach"}},
+          {"q": {"hi": "'Satisfaction' का क्या अर्थ है?", "en": "What is the meaning of 'Satisfaction'?"}, "options": [{"hi": "संतुष्टि", "en": "Happiness/Contentment"}, {"hi": "दुख", "en": "Sadness"}, {"hi": "गुस्सा", "en": "Anger"}, {"hi": "डर", "en": "Fear"}], "answer": {"hi": "संतुष्टि", "en": "Happiness/Contentment"}},
+          {"q": {"hi": "हाथी और कुत्ता क्या थे?", "en": "What were the elephant and dog?"}, "options": [{"hi": "सबसे अच्छे दोस्त", "en": "Best friends"}, {"hi": "दुश्मन", "en": "Enemies"}, {"hi": "अजनबी", "en": "Strangers"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "सबसे अच्छे दोस्त", "en": "Best friends"}},
+          {"q": {"hi": "क्या कहानी सच्ची है?", "en": "Is the story true?"}, "options": [{"hi": "यह एक लोककथा हो सकती है", "en": "It could be a folktale"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "यह एक लोककथा हो सकती है", "en": "It could be a folktale"}},
+          {"q": {"hi": "लेखक का क्या नाम है?", "en": "What is the name of the author?"}, "options": [{"hi": "सुब्बा राव", "en": "Subba Rao"}, {"hi": "आर.के. नारायण", "en": "R.K. Narayan"}, {"hi": "प्रेमचंद", "en": "Premchand"}, {"hi": "रवींद्रनाथ टैगोर", "en": "Rabindranath Tagore"}], "answer": {"hi": "सुब्बा राव", "en": "Subba Rao"}}
+        ],
+        "section4": [
+          {"q": {"hi": "कुत्ता हाथी के साथ क्यों रहना चाहता था?", "en": "Why did the dog want to stay with the elephant?"}, "options": [{"hi": "क्योंकि वह उसका दोस्त था", "en": "Because he was his friend"}, {"hi": "क्योंकि वह भूखा था", "en": "Because he was hungry"}, {"hi": "क्योंकि वह डरता था", "en": "Because he was afraid"}, {"hi": "क्योंकि उसे खाना मिल रहा था", "en": "Because he was getting food"}], "answer": {"hi": "क्योंकि वह उसका दोस्त था", "en": "Because he was his friend"}},
+          {"q": {"hi": "महावत ने हाथी के खाने के बारे में क्या सोचा?", "en": "What did the mahout think about the elephant's eating?"}, "options": [{"hi": "उसे पेट खराब है", "en": "He has indigestion"}, {"hi": "वह बीमार है", "en": "He is ill"}, {"hi": "वह दुखी है", "en": "He is sad"}, {"hi": "वह शरारती है", "en": "He is naughty"}], "answer": {"hi": "उसे पेट खराब है", "en": "He has indigestion"}},
+          {"q": {"hi": "कुत्ते के वापस आने पर किसान ने क्या किया?", "en": "What did the farmer do when the dog came back?"}, "options": [{"hi": "वह उसके पीछे गया", "en": "He followed him"}, {"hi": "वह गुस्सा हुआ", "en": "He got angry"}, {"hi": "उसने पुलिस बुलाई", "en": "He called police"}, {"hi": "उसने कुछ नहीं किया", "en": "He did nothing"}], "answer": {"hi": "वह उसके पीछे गया", "en": "He followed him"}},
+          {"q": {"hi": "क्या हाथी और कुत्ते की दोस्ती को सभी ने पसंद किया?", "en": "Did everyone like the friendship between elephant and dog?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
+          {"q": {"hi": "हाथी को नहाना कैसा लगता था?", "en": "How did the elephant feel about bathing?"}, "options": [{"hi": "उसे पसंद था", "en": "He liked it"}, {"hi": "उसे नफरत थी", "en": "He hated it"}, {"hi": "वह डरता था", "en": "He was afraid"}, {"hi": "उसे फर्क नहीं पड़ता", "en": "Doesn't care"}], "answer": {"hi": "उसे पसंद था", "en": "He liked it"}},
+          {"q": {"hi": "कुत्ते को नहाना कैसा लगता था?", "en": "How did the dog feel about bathing?"}, "options": [{"hi": "उसे पसंद नहीं था", "en": "He didn't like it"}, {"hi": "उसे पसंद था", "en": "He liked it"}, {"hi": "वह खुश था", "en": "He was happy"}, {"hi": "कुछ नहीं", "en": "None"}], "answer": {"hi": "उसे पसंद नहीं था", "en": "He didn't like it"}},
+          {"q": {"hi": "महावत हाथी को रोज कहाँ ले जाता था?", "en": "Where did the mahout take the elephant daily?"}, "options": [{"hi": "तालाब में", "en": "To the pond"}, {"hi": "जंगल में", "en": "To the forest"}, {"hi": "बाजार में", "en": "To the market"}, {"hi": "शहर में", "en": "To the city"}], "answer": {"hi": "तालाब में", "en": "To the pond"}},
+          {"q": {"hi": "हाथी के पास रहने की जगह कैसी थी?", "en": "What was the elephant's living space like?"}, "options": [{"hi": "सबसे अच्छी", "en": "The best booth"}, {"hi": "खराब", "en": "Bad"}, {"hi": "गंदी", "en": "Dirty"}, {"hi": "बहुत बड़ी", "en": "Very big"}], "answer": {"hi": "सबसे अच्छी", "en": "The best booth"}},
+          {"q": {"hi": "कुत्ते ने किसान को कैसे पहचाना?", "en": "How did the dog recognize the farmer?"}, "options": [{"hi": "आवाज से", "en": "By his voice"}, {"hi": "शक्ल से", "en": "By face"}, {"hi": "नाम से", "en": "By name"}, {"hi": "कुछ नहीं", "en": "None"}], "answer": {"hi": "आवाज से"}},
+          {"q": {"hi": "कहानी का मुख्य संदेश क्या है?", "en": "What is the main message of the story?"}, "options": [{"hi": "दोस्ती किसी के साथ भी हो सकती है", "en": "Friendship can happen with anyone"}, {"hi": "हाथी बड़े होते हैं", "en": "Elephants are big"}, {"hi": "कुत्ते वफादार होते हैं", "en": "Dogs are loyal"}, {"hi": "खाना जरूरी है", "en": "Food is necessary"}], "answer": {"hi": "दोस्ती किसी के साथ भी हो सकती है", "en": "Friendship can happen with anyone"}}
+        ],
+        "section5": [
+          {"q": {"hi": "क्या गजारज राजा का प्रिय था?", "en": "Was Gajaraj the king's favorite?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
+          {"q": {"hi": "कुत्ता गजारज के पास कैसे पहुँचा?", "en": "How did the dog reach Gajaraj?"}, "options": [{"hi": "गलती से", "en": "By mistake (strayed)"}, {"hi": "ढूंढते हुए", "en": "Searching"}, {"hi": "राजा ने भेजा", "en": "King sent"}, {"hi": "कुछ नहीं", "en": "None"}], "answer": {"hi": "गलती से"}},
+          {"q": {"hi": "क्या महावत ने कुत्ते को रहने दिया?", "en": "Did the mahout let the dog stay?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
+          {"q": {"hi": "हाथी की सूंड का उपयोग किस खेल में हुआ?", "en": "What was the elephant's trunk used for in play?"}, "options": [{"hi": "पानी छिड़कने", "en": "Splashing water"}, {"hi": "दौड़ने", "en": "Running"}, {"hi": "खाने", "en": "Eating"}, {"hi": "सोने", "en": "Sleeping"}], "answer": {"hi": "पानी छिड़कने"}},
+          {"q": {"hi": "किसान को क्या खुशी हुई?", "en": "What made the farmer happy?"}, "options": [{"hi": "कुत्ता मिल गया", "en": "Found his dog"}, {"hi": "हाथी मिल गया", "en": "Found an elephant"}, {"hi": "पैसा मिल गया", "en": "Found money"}, {"hi": "दोस्त मिल गया", "en": "Found a friend"}], "answer": {"hi": "कुत्ता मिल गया"}},
+          {"q": {"hi": "क्या दोनों दोस्त दोबारा मिले?", "en": "Did both friends meet again?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ"}},
+          {"q": {"hi": "महावत ने किसे गले लगाया?", "en": "Who did the mahout hug?"}, "options": [{"hi": "किसान", "en": "The farmer"}, {"hi": "हाथी", "en": "Elephant"}, {"hi": "कुत्ता", "en": "Dog"}, {"hi": "राजा", "en": "King"}], "answer": {"hi": "किसान"}},
+          {"q": {"hi": "कहानी कहाँ समाप्त होती है?", "en": "Where does the story end?"}, "options": [{"hi": "अस्तबल में", "en": "At the stable"}, {"hi": "घर पर", "en": "At home"}, {"hi": "जंगल में", "en": "In the forest"}, {"hi": "राजा के दरबार में", "en": "In king's court"}], "answer": {"hi": "अस्तबल में"}},
+          {"q": {"hi": "क्या हाथी का व्यवहार कुत्ते के लिए बदला?", "en": "Did the elephant's behavior change for the dog?"}, "options": [{"hi": "नहीं, वह प्यार करता रहा", "en": "No, he kept loving him"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "नहीं, वह प्यार करता रहा"}},
+          {"q": {"hi": "इस कहानी से हम क्या सीखते हैं?", "en": "What do we learn from this story?"}, "options": [{"hi": "दोस्ती का महत्व", "en": "Importance of friendship"}, {"hi": "जानवरों का महत्व", "en": "Importance of animals"}, {"hi": "राजाओं का महत्व", "en": "Importance of kings"}, {"hi": "कुछ नहीं", "en": "Nothing"}], "answer": {"hi": "दोस्ती का महत्व"}}
+        ]
       },
-      "options": [
-        {"hi": "गुस्सा करते हैं", "en": "Get angry"},
-        {"hi": "मुस्कुराते हैं (Smile)", "en": "Smile at you"},
-        {"hi": "चिल्लाते हैं", "en": "Shout at you"},
-        {"hi": "मुँह फेर लेते हैं", "en": "Turn away"}
-      ],
-      "answer": {"hi": "मुस्कुराते हैं (Smile)", "en": "Smile at you"}
-    },
-    {
-      "q": {
-        "hi": "दोस्त आपके बारे में क्या पसंद करते हैं?",
-        "en": "What do friends like about you?"
-      },
-      "options": [
-        {"hi": "आपका चेहरा (Your face)", "en": "Your face"},
-        {"hi": "आपके खिलौने", "en": "Your toys"},
-        {"hi": "आपके कपड़े", "en": "Your clothes"},
-        {"hi": "आपके पैसे", "en": "Your money"}
-      ],
-      "answer": {"hi": "आपका चेहरा (Your face)", "en": "Your face"}
-    },
-    {
-      "q": {
-        "hi": "दोस्त आपके साथ कहाँ रहना चाहते हैं?",
-        "en": "Where do friends want to be with you?"
-      },
-      "options": [
-        {"hi": "केवल स्कूल में", "en": "Only at school"},
-        {"hi": "केवल खेल के मैदान में", "en": "Only at the playground"},
-        {"hi": "किसी भी स्थान पर (At any place)", "en": "At any place"},
-        {"hi": "केवल अपने घर पर", "en": "Only at their home"}
-      ],
-      "answer": {"hi": "किसी भी स्थान पर (At any place)", "en": "At any place"}
-    },
-    {
-      "q": {
-        "hi": "दोस्त आपके साथ मिलकर क्या करते हैं?",
-        "en": "What do friends do together with you?"
-      },
-      "options": [
-        {"hi": "मज़े करते हैं (Have fun)", "en": "Have fun"},
-        {"hi": "झगड़ा करते हैं", "en": "Fight"},
-        {"hi": "रोते हैं", "en": "Cry"},
-        {"hi": "बहस करते हैं", "en": "Argue"}
-      ],
-      "answer": {"hi": "मज़े करते हैं (Have fun)", "en": "Have fun"}
-    },
-    {
-      "q": {
-        "hi": "सच्चे दोस्त आपस में चीज़ें क्या करते हैं?",
-        "en": "What do true friends do with each other?"
-      },
-      "options": [
-        {"hi": "छिपाते हैं", "en": "Hide things"},
-        {"hi": "साझा करते हैं (Share)", "en": "Share with you"},
-        {"hi": "चोरी करते हैं", "en": "Steal things"},
-        {"hi": "फेंक देते हैं", "en": "Throw away"}
-      ],
-      "answer": {"hi": "साझा करते हैं (Share)", "en": "Share with you"}
-    },
-    {
-      "q": {
-        "hi": "जब आप खुश होते हैं, तो आपके दोस्तों को कैसा लगता है?",
-        "en": "How do your friends feel when you are happy?"
-      },
-      "options": [
-        {"hi": "वे ईर्ष्या करते हैं", "en": "They feel jealous"},
-        {"hi": "वे प्रसन्न होते हैं (Glad)", "en": "They are glad"},
-        {"hi": "वे उदास हो जाते हैं", "en": "They become sad"},
-        {"hi": "वे डर जाते हैं", "en": "They get scared"}
-      ],
-      "answer": {"hi": "वे प्रसन्न होते हैं (Glad)", "en": "They are glad"}
-    },
-    {
-      "q": {
-        "hi": "जब आप उदास (Sad) होते हैं, तो दोस्त क्या करते हैं?",
-        "en": "What do friends do when you are sad?"
-      },
-      "options": [
-        {"hi": "वे आपकी परवाह करते हैं (They care)", "en": "They care"},
-        {"hi": "वे आप पर हँसते हैं", "en": "They laugh at you"},
-        {"hi": "वे आपको छोड़ देते हैं", "en": "They leave you"},
-        {"hi": "वे आपको चिढ़ाते हैं", "en": "They tease you"}
-      ],
-      "answer": {"hi": "वे आपकी परवाह करते हैं (They care)", "en": "They care"}
-    },
-    {
-      "q": {
-        "hi": "यदि आप किसी के दोस्त हैं, तो आपको भी क्या करना चाहिए?",
-        "en": "If you are a friend, what should you do too?"
-      },
-      "options": [
-        {"hi": "दूरी बनानी चाहिए", "en": "Keep distance"},
-        {"hi": "परवाह करनी चाहिए (You care, too)", "en": "You care, too"},
-        {"hi": "चीज़ें छिननी चाहिए", "en": "Snatch things"},
-        {"hi": "चुप रहना चाहिए", "en": "Remain silent"}
-      ],
-      "answer": {"hi": "परवाह करनी चाहिए (You care, too)", "en": "You care, too"}
-    },
-    {
-      "q": {
-        "hi": "दोस्त क्यों खुश होते हैं कि आप 'आप' हैं?",
-        "en": "Why are your friends glad you are you?"
-      },
-      "options": [
-        {"hi": "क्योंकि आप एक सच्चे दोस्त हैं जो उनकी परवाह करते हैं", "en": "Because you are a true friend who cares"},
-        {"hi": "क्योंकि आपके पास बहुत सारे खिलौने हैं", "en": "Because you have many toys"},
-        {"hi": "क्योंकि आप बहुत तेज़ दौड़ते हैं", "en": "Because you run very fast"},
-        {"hi": "क्योंकि आप गृहकार्य साझा करते हैं", "en": "Because you share homework"}
-      ],
-      "answer": {"hi": "क्योंकि आप एक सच्चे दोस्त हैं जो उनकी परवाह करते हैं", "en": "Because you are a true friend who cares"}
-    },
-    {
-      "q": {
-        "hi": "पाठ के शब्दार्थ के अनुसार, 'glad' शब्द का सही अर्थ क्या है?",
-        "en": "According to the word-meaning, what is the meaning of 'glad'?"
-      },
-      "options": [
-        {"hi": "उदास (Sad)", "en": "Sad"},
-        {"hi": "खुश या प्रसन्न (Happy)", "en": "Happy"},
-        {"hi": "डरा हुआ (Scared)", "en": "Scared"},
-        {"hi": "गुस्सा (Angry)", "en": "Angry"}
-      ],
-      "answer": {"hi": "खुश या प्रसन्न (Happy)", "en": "Happy"}
-    }
-  ]
-},
     "chapter03":{
         "section1": [
           {
