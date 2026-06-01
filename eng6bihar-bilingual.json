@@ -1660,730 +1660,130 @@
           {"q": {"hi": "क्या दोस्ती जीवन का हिस्सा है?", "en": "Is friendship a part of life?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}}
         ]
       },
-    "chapter03a": {
+    "chapter02c":{
         "section1": [
-          {"q": {"hi": "कविता 'The Tease' के अनुसार, कवि हवा के बारे में क्या घोषणा करता है?", "en": "According to the poem 'The Tease', what does the poet declare about the wind?"}, "options": [{"hi": "वह सहायक है", "en": "It is helpful"}, {"hi": "वह एक उपद्रव है", "en": "It is a nuisance"}, {"hi": "वह शांत है", "en": "It is calm"}, {"hi": "वह अदृश्य है", "en": "It is invisible"}], "answer": {"hi": "वह एक उपद्रव है", "en": "It is a nuisance"}},
-          {"q": {"hi": "'Pounce' शब्द का अर्थ क्या है?", "en": "What is the meaning of the word 'Pounce'?"}, "options": [{"hi": "धीरे से चलना", "en": "To walk slowly"}, {"hi": "अचानक हमला करना या पकड़ना", "en": "To move suddenly to attack or catch"}, {"hi": "ऊँची आवाज़ में गाना", "en": "To sing loudly"}, {"hi": "सो जाना", "en": "To fall asleep"}], "answer": {"hi": "अचानक हमला करना या पकड़ना", "en": "To move suddenly to attack or catch"}},
-          {"q": {"hi": "हवा कवि की टोपी के साथ क्या करती है?", "en": "What does the wind do with the poet's hat?"}, "options": [{"hi": "उसे सजाती है", "en": "It decorates it"}, {"hi": "उसे पकड़ लेती है", "en": "It seizes it"}, {"hi": "उसे छिपा देती है", "en": "It hides it"}, {"hi": "उसे फेंक देती है", "en": "It throws it away"}], "answer": {"hi": "उसे पकड़ लेती है", "en": "It seizes it"}},
-          {"q": {"hi": "कविता में 'Snare' का क्या अर्थ है?", "en": "What is the meaning of 'Snare' in the poem?"}, "options": [{"hi": "पकड़ने का जाल", "en": "A trap or device for catching"}, {"hi": "एक प्रकार का फूल", "en": "A type of flower"}, {"hi": "हवा का वेग", "en": "Speed of wind"}, {"hi": "एक खेल", "en": "A game"}], "answer": {"hi": "पकड़ने का जाल", "en": "A trap or device for catching"}},
-          {"q": {"hi": "कवि हवा को पकड़ने के लिए क्या बनाना चाहता है?", "en": "What does the poet want to set to catch the wind?"}, "options": [{"hi": "एक दीवार", "en": "A wall"}, {"hi": "एक पिंजरा", "en": "A cage"}, {"hi": "एक जाल (Snare)", "en": "A snare"}, {"hi": "एक जाल (Net)", "en": "A net"}], "answer": {"hi": "एक जाल (Snare)", "en": "A snare"}},
-          {"q": {"hi": "कविता में हवा कहाँ से हमला (pounce) करती है?", "en": "From where does the wind pounce in the poem?"}, "options": [{"hi": "केवल उत्तर से", "en": "Only from north"}, {"hi": "हर जगह से", "en": "From everywhere"}, {"hi": "बादलों से", "en": "From clouds"}, {"hi": "समुद्र से", "en": "From the sea"}], "answer": {"hi": "हर जगह से", "en": "From everywhere"}},
-          {"q": {"hi": "कवि हवा के कारण अपने कपड़ों के साथ क्या परेशानी महसूस करता है?", "en": "What trouble does the poet face with clothes due to the wind?"}, "options": [{"hi": "कपड़े फट जाते हैं", "en": "Clothes get torn"}, {"hi": "कपड़े गाँठ में बँध जाते हैं", "en": "Clothes get tied in knots"}, {"hi": "कपड़े उड़ जाते हैं", "en": "Clothes fly away"}, {"hi": "कपड़े गीले हो जाते हैं", "en": "Clothes get wet"}], "answer": {"hi": "कपड़े गाँठ में बँध जाते हैं", "en": "Clothes get tied in knots"}},
-          {"q": {"hi": "'Blossom' शब्द का हिंदी अर्थ क्या है?", "en": "What is the Hindi meaning of the word 'Blossom'?"}, "options": [{"hi": "पत्ते", "en": "Leaves"}, {"hi": "फूल", "en": "Flower"}, {"hi": "फल", "en": "Fruit"}, {"hi": "टहनी", "en": "Branch"}], "answer": {"hi": "फूल", "en": "Flower"}},
-          {"q": {"hi": "हवा किस पेड़ से फूल और पत्ते तोड़ देती है?", "en": "From which tree does the wind tear leaves and blossoms?"}, "options": [{"hi": "आम का पेड़", "en": "Mango tree"}, {"hi": "नाशपाती का पेड़ (Pear)", "en": "Pear tree"}, {"hi": "सेब का पेड़", "en": "Apple tree"}, {"hi": "नीम का पेड़", "en": "Neem tree"}], "answer": {"hi": "नाशपाती का पेड़ (Pear)", "en": "Pear tree"}},
-          {"q": {"hi": "कविता की कवयित्री का नाम क्या है?", "en": "What is the name of the poetess of the poem?"}, "options": [{"hi": "लिलीयन होम्स", "en": "Lilian Holmes"}, {"hi": "सरोजिनी नायडू", "en": "Sarojini Naidu"}, {"hi": "रस्किन बॉन्ड", "en": "Ruskin Bond"}, {"hi": "विलियम वर्ड्सवर्थ", "en": "William Wordsworth"}], "answer": {"hi": "लिलीयन होम्स", "en": "Lilian Holmes"}}
+          {"q": {"hi": "लड़के का नाम क्या था?", "en": "What was the boy's name?"}, "options": [{"hi": "मारियो", "en": "Mario"}, {"hi": "राहुल", "en": "Rahul"}, {"hi": "रमा", "en": "Rama"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "मारियो", "en": "Mario"}},
+          {"q": {"hi": "मारियो क्या करना पसंद करता था?", "en": "What did Mario love to have?"}, "options": [{"hi": "बहुत सारे दोस्त", "en": "Lots of friends"}, {"hi": "बहुत सारे खिलौने", "en": "Lots of toys"}, {"hi": "बहुत सारी किताबें", "en": "Lots of books"}, {"hi": "फल", "en": "Fruits"}], "answer": {"hi": "बहुत सारे दोस्त", "en": "Lots of friends"}},
+          {"q": {"hi": "मारियो क्या करता था?", "en": "What did Mario do?"}, "options": [{"hi": "शेखी बघारता था", "en": "Showed off"}, {"hi": "पढ़ाई करता था", "en": "Studied"}, {"hi": "सोता था", "en": "Slept"}, {"hi": "खेलता था", "en": "Played"}], "answer": {"hi": "शेखी बघारता था", "en": "Showed off"}},
+          {"q": {"hi": "दादाजी ने मारियो के साथ क्या शर्त लगाई?", "en": "What bet did grandfather make with Mario?"}, "options": [{"hi": "फ्रूट चाट", "en": "Fruit chaat"}, {"hi": "एक खिलौना", "en": "A toy"}, {"hi": "एक कहानी", "en": "A story"}, {"hi": "कुछ नहीं", "en": "Nothing"}], "answer": {"hi": "फ्रूट चाट", "en": "Fruit chaat"}},
+          {"q": {"hi": "दादाजी के अनुसार मारियो के साथी कैसे थे?", "en": "According to grandpa, what were Mario's companions?"}, "options": [{"hi": "सिर्फ साथी या पार्टनर", "en": "Just companions or partners"}, {"hi": "सच्चे दोस्त", "en": "True friends"}, {"hi": "दुश्मन", "en": "Enemies"}, {"hi": "भाई", "en": "Brothers"}], "answer": {"hi": "सिर्फ साथी या पार्टनर", "en": "Just companions or partners"}},
+          {"q": {"hi": "दादाजी ने मारियो को क्या सुझाव दिया?", "en": "What did grandpa suggest to Mario?"}, "options": [{"hi": "जादुई कुर्सी", "en": "Magic chair"}, {"hi": "जादुई किताब", "en": "Magic book"}, {"hi": "जादुई फल", "en": "Magic fruit"}, {"hi": "कुछ नहीं", "en": "Nothing"}], "answer": {"hi": "जादुई कुर्सी", "en": "Magic chair"}},
+          {"q": {"hi": "जादुई कुर्सी कहाँ थी?", "en": "Where was the magic chair?"}, "options": [{"hi": "अटारी (attic) में", "en": "In the attic"}, {"hi": "कमरे में", "en": "In the room"}, {"hi": "बागीचे में", "en": "In the garden"}, {"hi": "बाजार में", "en": "In the market"}], "answer": {"hi": "अटारी (attic) में", "en": "In the attic"}},
+          {"q": {"hi": "कुर्सी कैसी थी?", "en": "What was the chair like?"}, "options": [{"hi": "अदृश्य (invisible)", "en": "Invisible"}, {"hi": "बड़ी", "en": "Big"}, {"hi": "पुरानी", "en": "Old"}, {"hi": "लकड़ी की", "en": "Wooden"}], "answer": {"hi": "अदृश्य (invisible)", "en": "Invisible"}},
+          {"q": {"hi": "क्या मारियो को कुर्सी दिख रही थी?", "en": "Could Mario see the chair?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "नहीं", "en": "No"}},
+          {"q": {"hi": "जादुई कुर्सी का काम क्या था?", "en": "What was the magic chair's job?"}, "options": [{"hi": "सच्चे दोस्तों की पहचान कराना", "en": "To identify true friends"}, {"hi": "उड़ाना", "en": "To fly"}, {"hi": "हँसाना", "en": "To make laugh"}, {"hi": "सोना", "en": "To sleep"}], "answer": {"hi": "सच्चे दोस्तों की पहचान कराना", "en": "To identify true friends"}}
         ],
         "section2": [
-          {"q": {"hi": "कवि को हवा के बारे में क्या शिकायत है?", "en": "What is the poet's complaint about the wind?"}, "options": [{"hi": "यह बहुत धीमी है", "en": "It is too slow"}, {"hi": "यह उसे परेशान करती है", "en": "It teases her"}, {"hi": "यह शोर करती है", "en": "It makes noise"}, {"hi": "यह दिखाई नहीं देती", "en": "It is not visible"}], "answer": {"hi": "यह उसे परेशान करती है", "en": "It teases her"}},
-          {"q": {"hi": "हवा का मुख्य कार्य क्या है जैसा कविता में वर्णित है?", "en": "What is the main action of the wind as described in the poem?"}, "options": [{"hi": "गाना गाना", "en": "Singing songs"}, {"hi": "सब कुछ बिखेरना और तंग करना", "en": "Scattering and teasing everything"}, {"hi": "बारिश लाना", "en": "Bringing rain"}, {"hi": "धूप रोकना", "en": "Blocking sunlight"}], "answer": {"hi": "सब कुछ बिखेरना और तंग करना", "en": "Scattering and teasing everything"}},
-          {"q": {"hi": "'Clutch' शब्द का क्या अर्थ है?", "en": "What is the meaning of the word 'Clutch'?"}, "options": [{"hi": "छोड़ना", "en": "To release"}, {"hi": "कसकर पकड़ना", "en": "To hold tightly"}, {"hi": "फेंकना", "en": "To throw"}, {"hi": "सजाना", "en": "To decorate"}], "answer": {"hi": "कसकर पकड़ना", "en": "To hold tightly"}},
-          {"q": {"hi": "क्या कवि वास्तव में हवा को पकड़ने की हिम्मत करता है?", "en": "Does the poet really dare to catch the wind?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "कभी-कभी", "en": "Sometimes"}, {"hi": "निश्चित नहीं", "en": "Not sure"}], "answer": {"hi": "नहीं", "en": "No"}},
-          {"q": {"hi": "कवि हवा के बिना क्या नहीं कर सकता?", "en": "What cannot the poet do without the wind?"}, "options": [{"hi": "दौड़ना", "en": "Run"}, {"hi": "सोना", "en": "Sleep"}, {"hi": "नाव चलाना या पतंग उड़ाना", "en": "Sail boat or fly kite"}, {"hi": "पढ़ना", "en": "Read"}], "answer": {"hi": "नाव चलाना या पतंग उड़ाना", "en": "Sail boat or fly kite"}},
-          {"q": {"hi": "कविता में हवा का गुण क्या बताया गया है?", "en": "What quality of the wind is mentioned in the poem?"}, "options": [{"hi": "वह दयालु है", "en": "It is kind"}, {"hi": "वह एक शरारती व्यक्ति की तरह है", "en": "It is like a mischievous person"}, {"hi": "वह बहुत शांत है", "en": "It is very calm"}, {"hi": "वह बहुत गर्म है", "en": "It is very hot"}], "answer": {"hi": "वह एक शरारती व्यक्ति की तरह है", "en": "It is like a mischievous person"}},
-          {"q": {"hi": "कवि हवा को क्या कहकर बुलाती है?", "en": "What does the poet call the wind?"}, "options": [{"hi": "मित्र", "en": "Friend"}, {"hi": "दुश्मन", "en": "Enemy"}, {"hi": "ओ हवा (O Wind)", "en": "O Wind"}, {"hi": "अजनबी", "en": "Stranger"}], "answer": {"hi": "ओ हवा (O Wind)", "en": "O Wind"}},
-          {"q": {"hi": "हवा के प्रति कवि की भावना कैसी है?", "en": "What is the poet's feeling towards the wind?"}, "options": [{"hi": "नफरत", "en": "Hatred"}, {"hi": "मिश्रित (प्यार और झुंझलाहट)", "en": "Mixed (annoyance and appreciation)"}, {"hi": "उदासीनता", "en": "Indifference"}, {"hi": "डर", "en": "Fear"}], "answer": {"hi": "मिश्रित (प्यार और झुंझलाहट)", "en": "Mixed (annoyance and appreciation)"}},
-          {"q": {"hi": "हवा का कवि के बालों के साथ क्या होता है?", "en": "What does the wind do with the poet's hair?"}, "options": [{"hi": "उन्हें सवारती है", "en": "It combs them"}, {"hi": "उन्हें पकड़ती है (clutch)", "en": "It clutches them"}, {"hi": "उन्हें काटती है", "en": "It cuts them"}, {"hi": "उन्हें सुखाती है", "en": "It dries them"}], "answer": {"hi": "उन्हें पकड़ती है (clutch)", "en": "It clutches them"}},
-          {"q": {"hi": "कविता के अनुसार क्या हम हवा को कैद कर सकते हैं?", "en": "According to the poem, can we trap the wind?"}, "options": [{"hi": "हाँ, आसानी से", "en": "Yes, easily"}, {"hi": "नहीं, यह असंभव है", "en": "No, it is impossible"}, {"hi": "केवल रात में", "en": "Only at night"}, {"hi": "केवल गर्मियों में", "en": "Only in summer"}], "answer": {"hi": "नहीं, यह असंभव है", "en": "No, it is impossible"}}
+          {"q": {"hi": "मारियो कुर्सी कहाँ ले गया?", "en": "Where did Mario take the chair?"}, "options": [{"hi": "स्कूल", "en": "School"}, {"hi": "घर", "en": "Home"}, {"hi": "बाजार", "en": "Market"}, {"hi": "पार्क", "en": "Park"}], "answer": {"hi": "स्कूल", "en": "School"}},
+          {"q": {"hi": "ब्रेक टाइम में मारियो ने क्या किया?", "en": "What did Mario do at break time?"}, "options": [{"hi": "घेरा बनाने को कहा", "en": "Asked to form a circle"}, {"hi": "खेलना शुरू किया", "en": "Started playing"}, {"hi": "पढ़ना शुरू किया", "en": "Started reading"}, {"hi": "कुछ नहीं", "en": "Nothing"}], "answer": {"hi": "घेरा बनाने को कहा", "en": "Asked to form a circle"}},
+          {"q": {"hi": "मारियो कुर्सी पर बैठने की कोशिश करते समय क्या हुआ?", "en": "What happened when Mario tried to sit?"}, "options": [{"hi": "वह गिर गया", "en": "He fell down"}, {"hi": "वह बैठ गया", "en": "He sat"}, {"hi": "वह उड़ गया", "en": "He flew"}, {"hi": "कुर्सी टूट गई", "en": "Chair broke"}], "answer": {"hi": "वह गिर गया", "en": "He fell down"}},
+          {"q": {"hi": "क्लास के बच्चों ने क्या किया?", "en": "What did the classmates do?"}, "options": [{"hi": "हँसने लगे", "en": "Laughed at him"}, {"hi": "मदद की", "en": "Helped him"}, {"hi": "रोने लगे", "en": "Started crying"}, {"hi": "चुप रहे", "en": "Stayed silent"}], "answer": {"hi": "हँसने लगे", "en": "Laughed at him"}},
+          {"q": {"hi": "मारियो ने कितनी बार कोशिश की?", "en": "How many times did Mario try?"}, "options": [{"hi": "कई बार", "en": "Many times"}, {"hi": "एक बार", "en": "Once"}, {"hi": "दो बार", "en": "Twice"}, {"hi": "कभी नहीं", "en": "Never"}], "answer": {"hi": "कई बार", "en": "Many times"}},
+          {"q": {"hi": "अंत में मारियो कैसे बैठा?", "en": "How did Mario sit in the end?"}, "options": [{"hi": "हवा में लटककर", "en": "Hanging in mid-air"}, {"hi": "कुर्सी पर", "en": "On the chair"}, {"hi": "जमीन पर", "en": "On the ground"}, {"hi": "मेज पर", "en": "On the table"}], "answer": {"hi": "हवा में लटककर", "en": "Hanging in mid-air"}},
+          {"q": {"hi": "मारियो को किसने संभाला?", "en": "Who held Mario up?"}, "options": [{"hi": "गुनीत, आसमा और दीपा", "en": "Guneet, Asma, and Deepa"}, {"hi": "सब बच्चे", "en": "All children"}, {"hi": "शिक्षक", "en": "Teacher"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "गुनीत, आसमा और दीपा", "en": "Guneet, Asma, and Deepa"}},
+          {"q": {"hi": "बाकी दोस्तों ने क्या किया?", "en": "What did the other friends do?"}, "options": [{"hi": "मजाक उड़ाया", "en": "Made fun of him"}, {"hi": "मदद की", "en": "Helped"}, {"hi": "चुप रहे", "en": "Stayed silent"}, {"hi": "चले गए", "en": "Left"}], "answer": {"hi": "मजाक उड़ाया", "en": "Made fun of him"}},
+          {"q": {"hi": "सच्चा दोस्त कैसा होता है?", "en": "What is a true friend like?"}, "options": [{"hi": "जो ख्याल रखे", "en": "Who cares for us"}, {"hi": "जो हँसे", "en": "Who laughs"}, {"hi": "जो दूर रहे", "en": "Who stays away"}, {"hi": "जो खेले", "en": "Who plays"}], "answer": {"hi": "जो ख्याल रखे", "en": "Who cares for us"}},
+          {"q": {"hi": "क्या मारियो जीत गया?", "en": "Did Mario win?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}}
         ],
         "section3": [
-          {"q": {"hi": "कविता में वर्णित 'Tease' का अर्थ क्या है?", "en": "What is the meaning of 'Tease' described in the poem?"}, "options": [{"hi": "किसी को परेशान करना", "en": "To annoy someone"}, {"hi": "किसी को खुश करना", "en": "To make someone happy"}, {"hi": "किसी को डराना", "en": "To scare someone"}, {"hi": "किसी को समझाना", "en": "To explain"}], "answer": {"hi": "किसी को परेशान करना", "en": "To annoy someone"}},
-          {"q": {"hi": "हवा की आवाज़ कैसी होती है?", "en": "How is the sound of the wind?"}, "options": [{"hi": "कठोर (harsh)", "en": "Harsh"}, {"hi": "मधुर", "en": "Sweet"}, {"hi": "शांत", "en": "Silent"}, {"hi": "गीत जैसी", "en": "Musical"}], "answer": {"hi": "कठोर (harsh)", "en": "Harsh"}},
-          {"q": {"hi": "कवि के अनुसार, उसे ठंडी हवा के बारे में क्या पसंद है?", "en": "According to the poet, what does she like about the breeze?"}, "options": [{"hi": "उसकी गति", "en": "Its speed"}, {"hi": "उसकी ठंडक", "en": "Its coolness"}, {"hi": "उसका शोर", "en": "Its noise"}, {"hi": "उसका रंग", "en": "Its color"}], "answer": {"hi": "उसकी ठंडक", "en": "Its coolness"}},
-          {"q": {"hi": "हवा कहाँ से आती है?", "en": "From where does the wind come?"}, "options": [{"hi": "सिर्फ खिड़की से", "en": "Only from window"}, {"hi": "हर जगह से", "en": "From everywhere"}, {"hi": "जमीन के नीचे से", "en": "From under the ground"}, {"hi": "आसमान से", "en": "From the sky"}], "answer": {"hi": "हर जगह से", "en": "From everywhere"}},
-          {"q": {"hi": "'Declare' का सही अर्थ क्या है?", "en": "What is the correct meaning of 'Declare'?"}, "options": [{"hi": "चुप रहना", "en": "To be silent"}, {"hi": "स्पष्ट रूप से कहना", "en": "To say something clearly and firmly"}, {"hi": "पूछना", "en": "To ask"}, {"hi": "सोचना", "en": "To think"}], "answer": {"hi": "स्पष्ट रूप से कहना", "en": "To say something clearly and firmly"}},
-          {"q": {"hi": "हवा कविता में क्या-क्या नुकसान करती है?", "en": "What damage does the wind do in the poem?"}, "options": [{"hi": "घर तोड़ देती है", "en": "Breaks houses"}, {"hi": "फूल और पत्ते गिरा देती है", "en": "Pulls down blossoms and leaves"}, {"hi": "गाड़ियाँ पलट देती है", "en": "Flips cars"}, {"hi": "पेड़ उखाड़ देती है", "en": "Uproots trees"}], "answer": {"hi": "फूल और पत्ते गिरा देती है", "en": "Pulls down blossoms and leaves"}},
-          {"q": {"hi": "कवि हवा को 'Fair' (उचित) क्यों नहीं मानती?", "en": "Why does the poet not consider the wind 'Fair'?"}, "options": [{"hi": "क्योंकि वह देर से आती है", "en": "Because it comes late"}, {"hi": "क्योंकि वह उसे परेशान करती है", "en": "Because it teases her"}, {"hi": "क्योंकि वह महँगी है", "en": "Because it is expensive"}, {"hi": "क्योंकि वह बहुत तेज़ है", "en": "Because it is very fast"}], "answer": {"hi": "क्योंकि वह उसे परेशान करती है", "en": "Because it teases her"}},
-          {"q": {"hi": "क्या हवा के बिना जीवन संभव है?", "en": "Is life possible without wind?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "नहीं", "en": "No"}},
-          {"q": {"hi": "हवा का नाव चलाने में क्या योगदान है?", "en": "What is the contribution of wind in sailing a boat?"}, "options": [{"hi": "वह इसे खींचती है", "en": "It pulls it"}, {"hi": "वह इसे आगे धकेलती है", "en": "It pushes it"}, {"hi": "वह इसे रोकती है", "en": "It stops it"}, {"hi": "वह इसे डुबोती है", "en": "It sinks it"}], "answer": {"hi": "वह इसे आगे धकेलती है", "en": "It pushes it"}},
-          {"q": {"hi": "हवा के बिना पतंग के साथ क्या होगा?", "en": "What will happen to the kite without wind?"}, "options": [{"hi": "वह उड़ जाएगी", "en": "It will fly"}, {"hi": "वह नहीं उड़ेगी", "en": "It will not fly"}, {"hi": "वह टूट जाएगी", "en": "It will break"}, {"hi": "वह जल जाएगी", "en": "It will burn"}], "answer": {"hi": "वह नहीं उड़ेगी", "en": "It will not fly"}}
+          {"q": {"hi": "'Showed off' का क्या अर्थ है?", "en": "What is the meaning of 'Showed off'?"}, "options": [{"hi": "शेखी बघारना", "en": "Boasted"}, {"hi": "दौड़ना", "en": "Running"}, {"hi": "सोना", "en": "Sleeping"}, {"hi": "रोना", "en": "Crying"}], "answer": {"hi": "शेखी बघारना", "en": "Boasted"}},
+          {"q": {"hi": "'Attic' क्या है?", "en": "What is an 'Attic'?"}, "options": [{"hi": "छत के नीचे का स्थान", "en": "Space just under the roof"}, {"hi": "कमरा", "en": "Room"}, {"hi": "बागीचा", "en": "Garden"}, {"hi": "कुआं", "en": "Well"}], "answer": {"hi": "छत के नीचे का स्थान", "en": "Space just under the roof"}},
+          {"q": {"hi": "'Invisible' का क्या अर्थ है?", "en": "What is the meaning of 'Invisible'?"}, "options": [{"hi": "जिसे देखा न जा सके", "en": "Impossible to see"}, {"hi": "बड़ा", "en": "Big"}, {"hi": "छोटा", "en": "Small"}, {"hi": "रंगीन", "en": "Colorful"}], "answer": {"hi": "जिसे देखा न जा सके", "en": "Impossible to see"}},
+          {"q": {"hi": "'Determined' का क्या अर्थ है?", "en": "What is the meaning of 'Determined'?"}, "options": [{"hi": "दृढ़ निश्चय", "en": "Firm in decision"}, {"hi": "डरपोक", "en": "Coward"}, {"hi": "आलसी", "en": "Lazy"}, {"hi": "खुश", "en": "Happy"}], "answer": {"hi": "दृढ़ निश्चय", "en": "Firm in decision"}},
+          {"q": {"hi": "'Amazing' का क्या अर्थ है?", "en": "What is the meaning of 'Amazing'?"}, "options": [{"hi": "हैरान कर देने वाला", "en": "Very surprising"}, {"hi": "साधारण", "en": "Simple"}, {"hi": "पुराना", "en": "Old"}, {"hi": "खराब", "en": "Bad"}], "answer": {"hi": "हैरान कर देने वाला", "en": "Very surprising"}},
+          {"q": {"hi": "'Experienced' का क्या अर्थ है?", "en": "What is the meaning of 'Experienced'?"}, "options": [{"hi": "महसूस करना", "en": "Felt"}, {"hi": "दौड़ना", "en": "Run"}, {"hi": "सोना", "en": "Sleep"}, {"hi": "खाना", "en": "Eat"}], "answer": {"hi": "महसूस करना", "en": "Felt"}},
+          {"q": {"hi": "क्या सच्ची दोस्ती बिना शर्त होती है?", "en": "Is true friendship unconditional?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
+          {"q": {"hi": "मारियो ने फ्रूट चाट कैसे जीता?", "en": "How did Mario win the fruit chaat?"}, "options": [{"hi": "सच्चे दोस्त ढूंढकर", "en": "By finding true friends"}, {"hi": "जादू से", "en": "By magic"}, {"hi": "स्कूल जाकर", "en": "By going to school"}, {"hi": "खेलकर", "en": "By playing"}], "answer": {"hi": "सच्चे दोस्त ढूंढकर", "en": "By finding true friends"}},
+          {"q": {"hi": "मारियो ने अपने दोस्तों को क्या बताया?", "en": "What did Mario tell his friends?"}, "options": [{"hi": "दादाजी की तरकीब के बारे में", "en": "About grandpa's trick"}, {"hi": "जादू के बारे में", "en": "About magic"}, {"hi": "स्कूल के बारे में", "en": "About school"}, {"hi": "अपने बारे में", "en": "About himself"}], "answer": {"hi": "दादाजी की तरकीब के बारे में", "en": "About grandpa's trick"}},
+          {"q": {"hi": "क्या दादाजी बुद्धिमान थे?", "en": "Was grandpa wise?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}}
         ],
         "section4": [
-          {"q": {"hi": "कविता में हवा की तुलना किससे की गई है?", "en": "To what is the wind compared in the poem?"}, "options": [{"hi": "एक डाकू", "en": "A robber"}, {"hi": "एक शरारती दोस्त", "en": "A mischievous friend"}, {"hi": "एक राजा", "en": "A king"}, {"hi": "एक नौकर", "en": "A servant"}], "answer": {"hi": "एक शरारती दोस्त", "en": "A mischievous friend"}},
-          {"q": {"hi": "क्या हवा का व्यवहार हमेशा बुरा होता है?", "en": "Is the behaviour of the wind always bad?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "केवल सुबह", "en": "Only in morning"}, {"hi": "केवल शाम", "en": "Only in evening"}], "answer": {"hi": "नहीं", "en": "No"}},
-          {"q": {"hi": "कवि हवा को 'Nuisance' क्यों कहती है?", "en": "Why does the poet call the wind a 'Nuisance'?"}, "options": [{"hi": "क्योंकि वह शोर करती है", "en": "Because it makes noise"}, {"hi": "क्योंकि वह सब कुछ बिगाड़ देती है", "en": "Because it messes everything up"}, {"hi": "क्योंकि वह ठंडी है", "en": "Because it is cold"}, {"hi": "क्योंकि वह दिखाई नहीं देती", "en": "Because it is invisible"}], "answer": {"hi": "क्योंकि वह सब कुछ बिगाड़ देती है", "en": "Because it messes everything up"}},
-          {"q": {"hi": "हवा को क्या करने की ज़रूरत नहीं है?", "en": "What does the wind not need to do?"}, "options": [{"hi": "बहना", "en": "To flow"}, {"hi": "गाँठ बाँधना", "en": "To tie knots"}, {"hi": "मदद करना", "en": "To help"}, {"hi": "दौड़ना", "en": "To run"}], "answer": {"hi": "गाँठ बाँधना", "en": "To tie knots"}},
-          {"q": {"hi": "कविता किस प्रकार की है?", "en": "What type of poem is this?"}, "options": [{"hi": "दुखद", "en": "Sad"}, {"hi": "हास्यपूर्ण और शरारती", "en": "Humorous and playful"}, {"hi": "गंभीर", "en": "Serious"}, {"hi": "डरावनी", "en": "Scary"}], "answer": {"hi": "हास्यपूर्ण और शरारती", "en": "Humorous and playful"}},
-          {"q": {"hi": "कविता का अंत क्या संकेत देता है?", "en": "What does the end of the poem indicate?"}, "options": [{"hi": "गुस्सा", "en": "Anger"}, {"hi": "स्वीकृति और उपयोगिता", "en": "Acceptance and utility"}, {"hi": "उदासी", "en": "Sadness"}, {"hi": "भविष्य की चेतावनी", "en": "Warning for future"}], "answer": {"hi": "स्वीकृति और उपयोगिता", "en": "Acceptance and utility"}},
-          {"q": {"hi": "कवि हवा को 'snare' (जाल) में क्यों नहीं फँसा सकती?", "en": "Why can the poet not trap the wind in a snare?"}, "options": [{"hi": "क्योंकि वह हवा से डरती है", "en": "Because she is afraid of wind"}, {"hi": "क्योंकि हवा पकड़ में नहीं आती", "en": "Because wind cannot be caught"}, {"hi": "क्योंकि उसके पास जाल नहीं है", "en": "Because she has no snare"}, {"hi": "क्योंकि वह हवा को प्यार करती है", "en": "Because she loves the wind"}], "answer": {"hi": "क्योंकि हवा पकड़ में नहीं आती", "en": "Because wind cannot be caught"}},
-          {"q": {"hi": "हवा और 'tease' में क्या संबंध है?", "en": "What is the relation between wind and 'tease'?"}, "options": [{"hi": "हवा केवल प्यार करती है", "en": "Wind only loves"}, {"hi": "हवा कवि को चिढ़ाती है", "en": "Wind teases the poet"}, {"hi": "हवा चुप रहती है", "en": "Wind stays silent"}, {"hi": "हवा मदद करती है", "en": "Wind helps"}], "answer": {"hi": "हवा कवि को चिढ़ाती है", "en": "Wind teases the poet"}},
-          {"q": {"hi": "हवा के आने से किस वस्तु को सबसे अधिक खतरा होता है?", "en": "Which object is most threatened by the arrival of wind?"}, "options": [{"hi": "पत्थर", "en": "Stone"}, {"hi": "टोपी", "en": "Hat"}, {"hi": "मकान", "en": "House"}, {"hi": "किताब", "en": "Book"}], "answer": {"hi": "टोपी", "en": "Hat"}},
-          {"q": {"hi": "कविता में हवा को क्या माना गया है?", "en": "What is the wind considered in the poem?"}, "options": [{"hi": "जीवित प्राणी", "en": "A living creature"}, {"hi": "निर्जीव", "en": "Non-living"}, {"hi": "देवता", "en": "God"}, {"hi": "दानव", "en": "Monster"}], "answer": {"hi": "जीवित प्राणी", "en": "A living creature"}}
+          {"q": {"hi": "मारियो की कुर्सी वाली कहानी का क्या पाठ है?", "en": "What is the lesson of Mario's chair story?"}, "options": [{"hi": "सच्चे दोस्त संकट में साथ देते हैं", "en": "True friends support in crisis"}, {"hi": "जादू ही सब कुछ है", "en": "Magic is everything"}, {"hi": "दोस्तों का होना जरूरी है", "en": "Friends are necessary"}, {"hi": "कुछ नहीं", "en": "None"}], "answer": {"hi": "सच्चे दोस्त संकट में साथ देते हैं", "en": "True friends support in crisis"}},
+          {"q": {"hi": "क्या दोस्तों का मजाक उड़ाना सही है?", "en": "Is it right to mock friends?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "नहीं", "en": "No"}},
+          {"q": {"hi": "मारियो के कितने दोस्त थे जिन्होंने उसका साथ दिया?", "en": "How many friends helped Mario?"}, "options": [{"hi": "तीन", "en": "Three"}, {"hi": "दो", "en": "Two"}, {"hi": "चार", "en": "Four"}, {"hi": "एक", "en": "One"}], "answer": {"hi": "तीन", "en": "Three"}},
+          {"q": {"hi": "क्या मारियो को पता था कि कौन उसके दोस्त हैं?", "en": "Did Mario know who his friends were?"}, "options": [{"hi": "पहले नहीं, बाद में पता चला", "en": "Not at first, later found out"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "पहले नहीं, बाद में पता चला"}},
+          {"q": {"hi": "मारियो का दोस्त कौन नहीं बना?", "en": "Who did not become Mario's friend?"}, "options": [{"hi": "जो मजाक उड़ाते थे", "en": "Those who made fun"}, {"hi": "गुनीत", "en": "Guneet"}, {"hi": "दीपा", "en": "Deepa"}, {"hi": "आसमा", "en": "Asma"}], "answer": {"hi": "जो मजाक उड़ाते थे"}},
+          {"q": {"hi": "क्या कुर्सी सच में जादुई थी?", "en": "Was the chair really magic?"}, "options": [{"hi": "नहीं, यह दादाजी की तरकीब थी", "en": "No, it was grandpa's trick"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "नहीं, यह दादाजी की तरकीब थी"}},
+          {"q": {"hi": "मारियो को दादाजी की तरकीब कैसी लगी?", "en": "How did Mario find grandpa's trick?"}, "options": [{"hi": "बहुत अच्छी", "en": "Very good"}, {"hi": "बुरी", "en": "Bad"}, {"hi": "उबाऊ", "en": "Boring"}, {"hi": "डर", "en": "Fear"}], "answer": {"hi": "बहुत अच्छी"}},
+          {"q": {"hi": "क्या दोस्तों के साथ समय बिताना चाहिए?", "en": "Should one spend time with friends?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ"}},
+          {"q": {"hi": "मारियो और उसके दोस्त शाम को कहाँ गए?", "en": "Where did Mario and his friends go in the evening?"}, "options": [{"hi": "दादाजी के पास", "en": "To grandpa"}, {"hi": "स्कूल", "en": "School"}, {"hi": "घर", "en": "Home"}, {"hi": "बाजार", "en": "Market"}], "answer": {"hi": "दादाजी के पास"}},
+          {"q": {"hi": "मारियो ने शर्त कैसे जीती?", "en": "How did Mario win the bet?"}, "options": [{"hi": "सच्चे दोस्तों का पता लगाकर", "en": "By finding true friends"}, {"hi": "जादू से", "en": "By magic"}, {"hi": "खेलकर", "en": "By playing"}, {"hi": "पढ़कर", "en": "By reading"}], "answer": {"hi": "सच्चे दोस्तों का पता लगाकर"}}
         ],
         "section5": [
-          {"q": {"hi": "कवि को हवा की किस चीज़ से 'Dislike' (नापसंद) है?", "en": "What does the poet dislike about the wind?"}, "options": [{"hi": "उसकी गति", "en": "Its speed"}, {"hi": "उसकी कठोरता (harshness)", "en": "Its harshness"}, {"hi": "उसका रंग", "en": "Its color"}, {"hi": "उसकी गंध", "en": "Its smell"}], "answer": {"hi": "उसकी कठोरता (harshness)", "en": "Its harshness"}},
-          {"q": {"hi": "कवि हवा को क्या कहने की हिम्मत नहीं करती?", "en": "What does the poet not dare to say to the wind?"}, "options": [{"hi": "आओ", "en": "Come"}, {"hi": "जाओ", "en": "Go away"}, {"hi": "तुम सुंदर हो", "en": "You are beautiful"}, {"hi": "तुम रुक जाओ", "en": "Stop"}], "answer": {"hi": "जाओ", "en": "Go away"}},
-          {"q": {"hi": "हवा के साथ कविता का मुख्य भाव क्या है?", "en": "What is the main theme of the poem with the wind?"}, "options": [{"hi": "भय", "en": "Fear"}, {"hi": "शरारत", "en": "Playfulness"}, {"hi": "दुख", "en": "Sadness"}, {"hi": "नफरत", "en": "Hatred"}], "answer": {"hi": "शरारत", "en": "Playfulness"}},
-          {"q": {"hi": "हवा के बारे में 'pounce' शब्द का उपयोग क्यों किया गया है?", "en": "Why is the word 'pounce' used for the wind?"}, "options": [{"hi": "वह अचानक आती है", "en": "It comes suddenly"}, {"hi": "वह धीरे आती है", "en": "It comes slowly"}, {"hi": "वह सोती है", "en": "It sleeps"}, {"hi": "वह गाती है", "en": "It sings"}], "answer": {"hi": "वह अचानक आती है", "en": "It comes suddenly"}},
-          {"q": {"hi": "कवि हवा की उपस्थिति के बिना क्या नहीं कर सकता?", "en": "What can the poet not do without the presence of wind?"}, "options": [{"hi": "खेलना", "en": "Play"}, {"hi": "तैरना", "en": "Swim"}, {"hi": "नाव चलाना", "en": "Sail a boat"}, {"hi": "दौड़ना", "en": "Run"}], "answer": {"hi": "नाव चलाना", "en": "Sail a boat"}},
-          {"q": {"hi": "'Pear' शब्द का हिंदी अर्थ क्या है?", "en": "What is the Hindi meaning of the word 'Pear'?"}, "options": [{"hi": "सेब", "en": "Apple"}, {"hi": "नाशपाती", "en": "Pear"}, {"hi": "अंगूर", "en": "Grapes"}, {"hi": "केला", "en": "Banana"}], "answer": {"hi": "नाशपाती", "en": "Pear"}},
-          {"q": {"hi": "कविता में हवा को किसने 'Tease' किया है?", "en": "Who has been teased by the wind in the poem?"}, "options": [{"hi": "कवि", "en": "Poet"}, {"hi": "पशु", "en": "Animal"}, {"hi": "पक्षी", "en": "Bird"}, {"hi": "फूल", "en": "Flower"}], "answer": {"hi": "कवि", "en": "Poet"}},
-          {"q": {"hi": "कविता में कौन सा शब्द बार-बार प्रयोग हुआ है?", "en": "Which word is repeated in the poem?"}, "options": [{"hi": "Sun", "en": "Sun"}, {"hi": "Wind", "en": "Wind"}, {"hi": "Moon", "en": "Moon"}, {"hi": "Tree", "en": "Tree"}], "answer": {"hi": "Wind", "en": "Wind"}},
-          {"q": {"hi": "कविता का संदेश क्या है?", "en": "What is the message of the poem?"}, "options": [{"hi": "प्रकृति के बिना जीवन कठिन है", "en": "Life without nature is difficult"}, {"hi": "हवा एक दुश्मन है", "en": "Wind is an enemy"}, {"hi": "हवा हमेशा बुरी होती है", "en": "Wind is always bad"}, {"hi": "हवा का होना ज़रूरी नहीं है", "en": "Wind is not necessary"}], "answer": {"hi": "प्रकृति के बिना जीवन कठिन है", "en": "Life without nature is difficult"}},
-          {"q": {"hi": "अंत में कवि हवा के प्रति अपना क्या भाव व्यक्त करता है?", "en": "What feeling does the poet express towards the wind in the end?"}, "options": [{"hi": "नफरत", "en": "Hatred"}, {"hi": "कृतज्ञता (Gratitude)", "en": "Gratitude"}, {"hi": "डर", "en": "Fear"}, {"hi": "गुस्सा", "en": "Anger"}], "answer": {"hi": "कृतज्ञता (Gratitude)", "en": "Gratitude"}}
+          {"q": {"hi": "क्या सच्ची दोस्ती जीवन भर रहती है?", "en": "Does true friendship last a lifetime?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ"}},
+          {"q": {"hi": "मारियो के दोस्त उसके लिए क्या लाए?", "en": "What did Mario's friends bring for him?"}, "options": [{"hi": "मदद", "en": "Support"}, {"hi": "खिलौने", "en": "Toys"}, {"hi": "फल", "en": "Fruits"}, {"hi": "कहानी", "en": "Story"}], "answer": {"hi": "मदद"}},
+          {"q": {"hi": "मारियो क्या भूल गया था?", "en": "What did Mario forget?"}, "options": [{"hi": "दोस्तों का असली मतलब", "en": "The real meaning of friends"}, {"hi": "स्कूल का काम", "en": "School work"}, {"hi": "घर का रास्ता", "en": "Way home"}, {"hi": "खाना", "en": "Food"}], "answer": {"hi": "दोस्तों का असली मतलब"}},
+          {"q": {"hi": "क्या आप इस कहानी के साथ सहमत हैं?", "en": "Do you agree with this story?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ"}},
+          {"q": {"hi": "दादाजी ने क्या किया?", "en": "What did grandpa do?"}, "options": [{"hi": "मारियो की मदद की", "en": "Helped Mario"}, {"hi": "डांटा", "en": "Scolded"}, {"hi": "छोड़ दिया", "en": "Left"}, {"hi": "कुछ नहीं", "en": "None"}], "answer": {"hi": "मारियो की मदद की"}},
+          {"q": {"hi": "मारियो ने जादुई कुर्सी पर बैठने के लिए क्या कहा?", "en": "What did Mario say to sit on the magic chair?"}, "options": [{"hi": "तकनीकी समस्या", "en": "Technical problem"}, {"hi": "कुछ नहीं", "en": "Nothing"}, {"hi": "जादू", "en": "Magic"}, {"hi": "कोशिश", "en": "Try"}], "answer": {"hi": "तकनीकी समस्या"}},
+          {"q": {"hi": "कहानी के अंत में क्या हुआ?", "en": "What happened at the end of the story?"}, "options": [{"hi": "मारियो ने सच्चे दोस्त पा लिए", "en": "Mario found true friends"}, {"hi": "मारियो हार गया", "en": "Mario lost"}, {"hi": "मारियो चला गया", "en": "Mario left"}, {"hi": "कुछ नहीं", "en": "None"}], "answer": {"hi": "मारियो ने सच्चे दोस्त पा लिए"}},
+          {"q": {"hi": "मारियो ने क्या सीखा?", "en": "What did Mario learn?"}, "options": [{"hi": "सच्ची दोस्ती का अर्थ", "en": "The meaning of true friendship"}, {"hi": "जादू", "en": "Magic"}, {"hi": "खेल", "en": "Games"}, {"hi": "स्कूल", "en": "School"}], "answer": {"hi": "सच्ची दोस्ती का अर्थ"}},
+          {"q": {"hi": "मारियो के कितने दोस्तों ने उसका मजाक उड़ाया?", "en": "How many friends made fun of Mario?"}, "options": [{"hi": "बहुत सारे", "en": "Many"}, {"hi": "तीन", "en": "Three"}, {"hi": "एक", "en": "One"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "बहुत सारे"}},
+          {"q": {"hi": "क्या हमें दोस्तों को परखना चाहिए?", "en": "Should we test friends?"}, "options": [{"hi": "मुश्किल समय में", "en": "In hard times"}, {"hi": "कभी नहीं", "en": "Never"}, {"hi": "रोज", "en": "Daily"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "मुश्किल समय में"}}
         ]
       },
-    "chapter04": {
+    "chapter03a":{
         "section1": [
-          {
-            "q": {
-              "hi": "तारा किस शहर से थी?",
-              "en": "Which town was Tara from?"
-            },
-            "options": [
-              {"hi": "दिल्ली", "en": "Delhi"},
-              {"hi": "बुलंदशहर", "en": "Bulandshahr"},
-              {"hi": "चेन्नई", "en": "Chennai"},
-              {"hi": "महाबलीपुरम", "en": "Mahabalipuram"}
-            ],
-            "answer": {"hi": "बुलंदशहर", "en": "Bulandshahr"}
-          },
-          {
-            "q": {
-              "hi": "वसंती किस शहर से थी?",
-              "en": "Which town was Vasanthi from?"
-            },
-            "options": [
-              {"hi": "बुलंदशहर", "en": "Bulandshahr"},
-              {"hi": "दिल्ली", "en": "Delhi"},
-              {"hi": "ऊरयूर", "en": "Woorayoor"},
-              {"hi": "चेन्नई", "en": "Chennai"}
-            ],
-            "answer": {"hi": "ऊरयूर", "en": "Woorayoor"}
-          },
-          {
-            "q": {
-              "hi": "लड़कियां किस कार्यक्रम में भाग लेने आई थीं?",
-              "en": "What event had the girls come to participate in?"
-            },
-            "options": [
-              {"hi": "खेल प्रतियोगिता", "en": "Sports competition"},
-              {"hi": "अंतर-राज्य स्कूल सांस्कृतिक महोत्सव", "en": "Inter-State School Cultural Festival"},
-              {"hi": "विज्ञान प्रदर्शनी", "en": "Science exhibition"},
-              {"hi": "लेखन प्रतियोगिता", "en": "Writing competition"}
-            ],
-            "answer": {"hi": "अंतर-राज्य स्कूल सांस्कृतिक महोत्सव", "en": "Inter-State School Cultural Festival"}
-          },
-          {
-            "q": {
-              "hi": "तारा ने किस प्रकार के संगीत में भाग लिया?",
-              "en": "In what type of music did Tara participate?"
-            },
-            "options": [
-              {"hi": "शास्त्रीय संगीत", "en": "Classical music"},
-              {"hi": "सुगम संगीत", "en": "Light music"},
-              {"hi": "लोक संगीत", "en": "Folk music"},
-              {"hi": "पॉप संगीत", "en": "Pop music"}
-            ],
-            "answer": {"hi": "सुगम संगीत", "en": "Light music"}
-          },
-          {
-            "q": {
-              "hi": "वसंती के लोक गीत का नाम क्या था?",
-              "en": "What was the name of Vasanthi's folk song?"
-            },
-            "options": [
-              {"hi": "कजरी", "en": "Kajri"},
-              {"hi": "कुम्मी पट्टु", "en": "Kummi pattu"},
-              {"hi": "भजन", "en": "Bhajan"},
-              {"hi": "ग़ज़ल", "en": "Ghazal"}
-            ],
-            "answer": {"hi": "कुम्मी पट्टु", "en": "Kummi pattu"}
-          },
-          {
-            "q": {
-              "hi": "तारा के राज्य से दूसरी प्रतिभागी कौन थी?",
-              "en": "Who was the other participant from Tara's state?"
-            },
-            "options": [
-              {"hi": "वसंती", "en": "Vasanthi"},
-              {"hi": "मीरा", "en": "Meera"},
-              {"hi": "बहनजी", "en": "Bahenji"},
-              {"hi": "कोई नहीं", "en": "None"}
-            ],
-            "answer": {"hi": "मीरा", "en": "Meera"}
-          },
-          {
-            "q": {
-              "hi": "लड़कियां भ्रमण के लिए कहाँ गई थीं?",
-              "en": "Where did the girls go for an excursion?"
-            },
-            "options": [
-              {"hi": "दिल्ली", "en": "Delhi"},
-              {"hi": "बुलंदशहर", "en": "Bulandshahr"},
-              {"hi": "महाबलीपुरम", "en": "Mahabalipuram"},
-              {"hi": "ऊरयूर", "en": "Woorayoor"}
-            ],
-            "answer": {"hi": "महाबलीपुरम", "en": "Mahabalipuram"}
-          },
-          {
-            "q": {
-              "hi": "तारा को मंदिर के पास किसने गिरने से बचाया?",
-              "en": "Who saved Tara from falling near the temple?"
-            },
-            "options": [
-              {"hi": "मीरा", "en": "Meera"},
-              {"hi": "बहनजी", "en": "Bahenji"},
-              {"hi": "वसंती", "en": "Vasanthi"},
-              {"hi": "किसी ने नहीं", "en": "No one"}
-            ],
-            "answer": {"hi": "वसंती", "en": "Vasanthi"}
-          },
-          {
-            "q": {
-              "hi": "तारा का गाना सुनकर दर्शकों की क्या प्रतिक्रिया थी?",
-              "en": "What was the audience's reaction after hearing Tara sing?"
-            },
-            "options": [
-              {"hi": "चुप्पी", "en": "Silence"},
-              {"hi": "शोर", "en": "Noise"},
-              {"hi": "गरजती तालियाँ", "en": "Thunderous applause"},
-              {"hi": "हंसी", "en": "Laughter"}
-            ],
-            "answer": {"hi": "गरजती तालियाँ", "en": "Thunderous applause"}
-          },
-          {
-            "q": {
-              "hi": "प्रतियोगिता का परिणाम क्या रहा?",
-              "en": "What was the result of the competition?"
-            },
-            "options": [
-              {"hi": "तारा जीती", "en": "Tara won"},
-              {"hi": "वसंती जीती", "en": "Vasanthi won"},
-              {"hi": "दोनों विजेता थीं", "en": "Both were winners"},
-              {"hi": "कोई नहीं जीता", "en": "No one won"}
-            ],
-            "answer": {"hi": "दोनों विजेता थीं", "en": "Both were winners"}
-          }
+          {"q": {"hi": "एम्बर ने पेड़ के बारे में क्या महसूस किया?", "en": "What did Amber feel about the tree?"}, "options": [{"hi": "कि पेड़ बात कर रहा है", "en": "Tree is talking"}, {"hi": "कि पेड़ फुसफुसा रहा है", "en": "Tree is whispering"}, {"hi": "कि पेड़ रो रहा है", "en": "Tree is crying"}, {"hi": "कि पेड़ हँस रहा है", "en": "Tree is laughing"}], "answer": {"hi": "कि पेड़ फुसफुसा रहा है", "en": "Tree is whispering"}},
+          {"q": {"hi": "पेड़ ने एम्बर को क्या नाम रखने को कहा?", "en": "What name did the tree ask Amber to call him?"}, "options": [{"hi": "नीम दादा", "en": "Neem Dada"}, {"hi": "नीम बाबा", "en": "Neem Baba"}, {"hi": "नीम भाई", "en": "Neem Bhai"}, {"hi": "नीम चाचा", "en": "Neem Chacha"}], "answer": {"hi": "नीम बाबा", "en": "Neem Baba"}},
+          {"q": {"hi": "नीम का पेड़ मूल रूप से कहाँ का है?", "en": "Where did the neem tree originate?"}, "options": [{"hi": "अफ्रीका", "en": "Africa"}, {"hi": "अमेरिका", "en": "America"}, {"hi": "भारत या म्यांमार", "en": "India or Myanmar"}, {"hi": "जापान", "en": "Japan"}], "answer": {"hi": "भारत या म्यांमार", "en": "India or Myanmar"}},
+          {"q": {"hi": "नीम नाम किस देश के लोगों ने दिया?", "en": "Which country's people gave the name 'Neem'?"}, "options": [{"hi": "भारत", "en": "India"}, {"hi": "ईरान", "en": "Iran"}, {"hi": "चीन", "en": "China"}, {"hi": "मिस्र", "en": "Egypt"}], "answer": {"hi": "ईरान", "en": "The Iranians"}},
+          {"q": {"hi": "नीम के पेड़ की आयु कितनी है?", "en": "How old is the neem tree?"}, "options": [{"hi": "सैकड़ों साल", "en": "Hundred years"}, {"hi": "हजारों साल", "en": "Thousands of years"}, {"hi": "लाखों साल", "en": "Millions of years"}, {"hi": "दस साल", "en": "Ten years"}], "answer": {"hi": "लाखों साल", "en": "Millions of years"}},
+          {"q": {"hi": "नीम के पेड़ का संस्कृत नाम क्या है?", "en": "What is the Sanskrit name for neem?"}, "options": [{"hi": "अरिष्टा", "en": "Arishta"}, {"hi": "नीम", "en": "Neem"}, {"hi": "निम्", "en": "Nimb"}, {"hi": "लेम्बा", "en": "Leemba"}], "answer": {"hi": "अरिष्टा", "en": "Arishta"}},
+          {"q": {"hi": "वैज्ञानिक नीम को क्या कहते हैं?", "en": "What do scientists call neem?"}, "options": [{"hi": "जादुई पेड़", "en": "Magic tree"}, {"hi": "सफाई वाला पेड़", "en": "Cleanliness-tree"}, {"hi": "ईश्वर की कड़वी कृपा", "en": "Bitter grace of God"}, {"hi": "उपहार", "en": "Gift"}], "answer": {"hi": "ईश्वर की कड़वी कृपा", "en": "Bitter grace of God"}},
+          {"q": {"hi": "दांत साफ करने के लिए क्या उपयोग होता है?", "en": "What is used to clean teeth?"}, "options": [{"hi": "नीम के फूल", "en": "Neem flowers"}, {"hi": "नीम के फल", "en": "Neem fruits"}, {"hi": "नीम की टहनियां", "en": "Neem twigs"}, {"hi": "नीम की जड़", "en": "Neem roots"}], "answer": {"hi": "नीम की टहनियां", "en": "Neem twigs"}},
+          {"q": {"hi": "खसरे के समय नीम की पत्तियों का क्या उपयोग है?", "en": "What is the use of neem leaves during measles?"}, "options": [{"hi": "खाने के लिए", "en": "For eating"}, {"hi": "नहाने के लिए", "en": "For bathing"}, {"hi": "पत्तियों पर लेटने के लिए", "en": "To lie down on them"}, {"hi": "दवा बनाने के लिए", "en": "To make medicine"}], "answer": {"hi": "पत्तियों पर लेटने के लिए", "en": "To lie down on them"}},
+          {"q": {"hi": "नीम की पत्तियां क्या नष्ट करती हैं?", "en": "What do neem leaves destroy?"}, "options": [{"hi": "पानी", "en": "Water"}, {"hi": "कीटाणु", "en": "Germs"}, {"hi": "मिट्टी", "en": "Soil"}, {"hi": "हवा", "en": "Air"}], "answer": {"hi": "कीटाणु", "en": "Germs"}}
         ],
         "section2": [
-          {
-            "q": {
-              "hi": "तारा और वसंती की पहली मुलाकात कहाँ हुई थी?",
-              "en": "Where did Tara and Vasanthi first meet?"
-            },
-            "options": [
-              {"hi": "ऑडिटोरियम में", "en": "In the auditorium"},
-              {"hi": "भोजन कक्ष में", "en": "In the dining hall"},
-              {"hi": "अंधेरे में", "en": "In the dark"},
-              {"hi": "मंदिर के पास", "en": "Near the temple"}
-            ],
-            "answer": {"hi": "अंधेरे में", "en": "In the dark"}
-          },
-          {
-            "q": {
-              "hi": "वसंती के कपड़े का रंग क्या था?",
-              "en": "What was the color of Vasanthi's skirt?"
-            },
-            "options": [
-              {"hi": "लाल", "en": "Red"},
-              {"hi": "नीला", "en": "Blue"},
-              {"hi": "हरा", "en": "Green"},
-              {"hi": "पीला", "en": "Yellow"}
-            ],
-            "answer": {"hi": "हरा", "en": "Green"}
-          },
-          {
-            "q": {
-              "hi": "तारा को गाने की कला कैसी मिली?",
-              "en": "How did singing come to Tara?"
-            },
-            "options": [
-              {"hi": "मेहनत से", "en": "Through hard work"},
-              {"hi": "प्राकृतिक रूप से", "en": "Naturally"},
-              {"hi": "सीखने से", "en": "By learning"},
-              {"hi": "अनजाने में", "en": "Accidentally"}
-            ],
-            "answer": {"hi": "प्राकृतिक रूप से", "en": "Naturally"}
-          },
-          {
-            "q": {
-              "hi": "तारा के अनुसार, उसे सबसे ज्यादा किसकी कमी महसूस हुई?",
-              "en": "According to Tara, what did she miss the most?"
-            },
-            "options": [
-              {"hi": "परिवार", "en": "Family"},
-              {"hi": "घर", "en": "Home"},
-              {"hi": "हमउम्र साथी", "en": "A companion of her age"},
-              {"hi": "दोस्त", "en": "Friends"}
-            ],
-            "answer": {"hi": "हमउम्र साथी", "en": "A companion of her age"}
-          },
-          {
-            "q": {
-              "hi": "वसंती ने 'नमस्ते' के लिए कौन सा शब्द इस्तेमाल किया?",
-              "en": "Which word did Vasanthi use to introduce herself?"
-            },
-            "options": [
-              {"hi": "वसंती", "en": "Vasanthi"},
-              {"hi": "येन पेर वसंती", "en": "Yen per Vasanthi"},
-              {"hi": "नमस्ते", "en": "Namaste"},
-              {"hi": "हेलो", "en": "Hello"}
-            ],
-            "answer": {"hi": "येन पेर वसंती", "en": "Yen per Vasanthi"}
-          },
-          {
-            "q": {
-              "hi": "तारा के संगीत प्रतियोगिता का नाम क्या था?",
-              "en": "What was the name of the folk song Tara sang?"
-            },
-            "options": [
-              {"hi": "कजरी", "en": "Kajri"},
-              {"hi": "भजन", "en": "Bhajan"},
-              {"hi": "लोकगीत", "en": "Folk song"},
-              {"hi": "कोई नहीं", "en": "None"}
-            ],
-            "answer": {"hi": "कजरी", "en": "Kajri"}
-          },
-          {
-            "q": {
-              "hi": "वसंती ने खाली समय में किस वाद्ययंत्र का अभ्यास किया?",
-              "en": "Which instrument did Vasanthi practice in her spare time?"
-            },
-            "options": [
-              {"hi": "सितार", "en": "Sitar"},
-              {"hi": "वीणा", "en": "Veena"},
-              {"hi": "गिटार", "en": "Guitar"},
-              {"hi": "तबला", "en": "Tabla"}
-            ],
-            "answer": {"hi": "वीणा", "en": "Veena"}
-          },
-          {
-            "q": {
-              "hi": "भ्रमण के दौरान तारा कहाँ टहल रही थी?",
-              "en": "Where was Tara walking during the excursion?"
-            },
-            "options": [
-              {"hi": "मंदिर के किनारे", "en": "Near the temple edge"},
-              {"hi": "समुद्र तट पर", "en": "On the beach"},
-              {"hi": "बस में", "en": "In the bus"},
-              {"hi": "हॉल में", "en": "In the hall"}
-            ],
-            "answer": {"hi": "मंदिर के किनारे", "en": "Near the temple edge"}
-          },
-          {
-            "q": {
-              "hi": "वसंती के हसने की आवाज़ कैसी थी?",
-              "en": "What did Vasanthi's laughter sound like?"
-            },
-            "options": [
-              {"hi": "पक्षियों जैसी", "en": "Like birds"},
-              {"hi": "मंदिर की घंटियों जैसी", "en": "Like temple bells"},
-              {"hi": "संगीत जैसी", "en": "Like music"},
-              {"hi": "तेज शोर", "en": "Loud noise"}
-            ],
-            "answer": {"hi": "मंदिर की घंटियों जैसी", "en": "Like temple bells"}
-          },
-          {
-            "q": {
-              "hi": "तारा ने फाइनल में कौन सा गाना गाया?",
-              "en": "What song did Tara sing in the final?"
-            },
-            "options": [
-              {"hi": "हिंदी गाना", "en": "Hindi song"},
-              {"hi": "तमिल गाना", "en": "Tamil song"},
-              {"hi": "अंग्रेजी गाना", "en": "English song"},
-              {"hi": "कजरी", "en": "Kajri"}
-            ],
-            "answer": {"hi": "तमिल गाना", "en": "Tamil song"}
-          }
+          {"q": {"hi": "नीम की छाल का उपयोग क्या ठीक करने में होता है?", "en": "Neem bark is used to cure what?"}, "options": [{"hi": "बुखार", "en": "Fever"}, {"hi": "खांसी", "en": "Cough"}, {"hi": "पेट दर्द", "en": "Stomach ache"}, {"hi": "सिर दर्द", "en": "Headache"}], "answer": {"hi": "खांसी", "en": "Cough"}},
+          {"q": {"hi": "आंखों की खुजली के लिए दादी ने क्या बनाया?", "en": "What did grandma make for eye itching?"}, "options": [{"hi": "नीम का काढ़ा", "en": "Neem decoction"}, {"hi": "नीम का तेल", "en": "Neem oil"}, {"hi": "नीम के फूलों का काजल", "en": "Kajal from neem flowers"}, {"hi": "नीम की पत्ती का लेप", "en": "Neem leaf paste"}], "answer": {"hi": "नीम के फूलों का काजल", "en": "Kajal from neem flowers"}},
+          {"q": {"hi": "किस कीड़ों से बचने के लिए नीम का पाउडर छिड़का जाता है?", "en": "Neem powder is sprayed to save from which insects?"}, "options": [{"hi": "मक्खी", "en": "Houseflies"}, {"hi": " locusts (टिड्डी)", "en": "Locusts"}, {"hi": "चींटी", "en": "Ants"}, {"hi": "तिलचट्टा", "en": "Cockroaches"}], "answer": {"hi": " locusts (टिड्डी)", "en": "Locusts"}},
+          {"q": {"hi": "नीम का उपयोग फसलों को किससे बचाता है?", "en": "Neem protects crops from which pest?"}, "options": [{"hi": "दीमक (termites)", "en": "Termites"}, {"hi": "चूहे", "en": "Rats"}, {"hi": "पक्षी", "en": "Birds"}, {"hi": "जानवर", "en": "Animals"}], "answer": {"hi": "दीमक (termites)", "en": "Termites"}},
+          {"q": {"hi": "नीम का तेल किसमें उपयोग होता है?", "en": "Neem oil is used in what?"}, "options": [{"hi": "खाने में", "en": "Cooking"}, {"hi": "साबुन और टूथपेस्ट", "en": "Soaps and toothpaste"}, {"hi": "पानी में", "en": "Drinking water"}, {"hi": "कपड़ों में", "en": "Clothes"}], "answer": {"hi": "साबुन और टूथपेस्ट", "en": "Soaps and toothpaste"}},
+          {"q": {"hi": "नीम का पेड़ हवा को क्या करता है?", "en": "What does the neem tree do to the air?"}, "options": [{"hi": "शुद्ध (purify)", "en": "Purify"}, {"hi": "गंदा", "en": "Dirty"}, {"hi": "हल्का", "en": "Light"}, {"hi": "गर्म", "en": "Hot"}], "answer": {"hi": "शुद्ध (purify)", "en": "Purify"}},
+          {"q": {"hi": "नीम की कौन सी चीज़ मच्छरों का प्रजनन रोकती है?", "en": "Which thing of neem stops mosquito breeding?"}, "options": [{"hi": "नीम का पाउडर/बीज", "en": "Neem powder/seed"}, {"hi": "नीम का फल", "en": "Neem fruit"}, {"hi": "नीम की जड़", "en": "Neem root"}, {"hi": "नीम का फूल", "en": "Neem flower"}], "answer": {"hi": "नीम का पाउडर/बीज", "en": "Neem powder/seed"}},
+          {"q": {"hi": "नीम के पेड़ का नाम 'जादुई पेड़' क्यों है?", "en": "Why is the neem tree called a 'magic tree'?"}, "options": [{"hi": "उपयोगिता के कारण", "en": "Due to its usefulness"}, {"hi": "ऊंचाई के कारण", "en": "Due to height"}, {"hi": "पत्तों के कारण", "en": "Due to leaves"}, {"hi": "फूलों के कारण", "en": "Due to flowers"}], "answer": {"hi": "उपयोगिता के कारण", "en": "Due to its usefulness"}},
+          {"q": {"hi": "नीम के उपयोग के लिए क्या जरूरी है?", "en": "What is necessary for using neem?"}, "options": [{"hi": "प्रशिक्षण और अनुभव", "en": "Training and experience"}, {"hi": "पैसे", "en": "Money"}, {"hi": "समय", "en": "Time"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "प्रशिक्षण और अनुभव", "en": "Training and experience"}},
+          {"q": {"hi": "एम्बर ने पेड़ से क्या विदा ली?", "en": "What did Amber take from the tree at the end?"}, "options": [{"hi": "फूल", "en": "Flowers"}, {"hi": "फल", "en": "Fruits"}, {"hi": "धन्यवाद और विदा", "en": "Thanks and bye"}, {"hi": "कुछ नहीं", "en": "Nothing"}], "answer": {"hi": "धन्यवाद और विदा", "en": "Thanks and bye"}}
         ],
         "section3": [
-          {
-            "q": {
-              "hi": "वसंती को क्या समझ नहीं आ रहा था?",
-              "en": "What was Vasanthi not understanding?"
-            },
-            "options": [
-              {"hi": "तारा का संगीत", "en": "Tara's music"},
-              {"hi": "तारा की भाषा", "en": "Tara's language"},
-              {"hi": "प्रतियोगिता का नियम", "en": "Competition rules"},
-              {"hi": "रास्ता", "en": "The path"}
-            ],
-            "answer": {"hi": "तारा की भाषा", "en": "Tara's language"}
-          },
-          {
-            "q": {
-              "hi": "प्रतियोगिता के लिए तारा और वसंती क्या बन गई थीं?",
-              "en": "What did Tara and Vasanthi become for the competition?"
-            },
-            "options": [
-              {"hi": "मित्र", "en": "Friends"},
-              {"hi": "दुश्मन", "en": "Enemies"},
-              {"hi": "संभावित प्रतिद्वंद्वी", "en": "Potential rivals"},
-              {"hi": "सहयोगी", "en": "Collaborators"}
-            ],
-            "answer": {"hi": "संभावित प्रतिद्वंद्वी", "en": "Potential rivals"}
-          },
-          {
-            "q": {
-              "hi": "मीरा ने तारा से क्या कहा?",
-              "en": "What did Meera say to Tara?"
-            },
-            "options": [
-              {"hi": "तुम हार जाओगी", "en": "You will lose"},
-              {"hi": "तुम बहुत अच्छा गाती हो", "en": "You sing well"},
-              {"hi": "सावधान रहो, कड़ी प्रतिस्पर्धा है", "en": "Watch out, you have stiff competition"},
-              {"hi": "गाना बंद करो", "en": "Stop singing"}
-            ],
-            "answer": {"hi": "सावधान रहो, कड़ी प्रतिस्पर्धा है", "en": "Watch out, you have stiff competition"}
-          },
-          {
-            "q": {
-              "hi": "तारा ने वसंती के साथ दोस्ती क्यों तोड़ दी थी?",
-              "en": "Why did Tara stop being friends with Vasanthi?"
-            },
-            "options": [
-              {"hi": "झगड़े के कारण", "en": "Because of a fight"},
-              {"hi": "प्रतियोगिता के कारण", "en": "Because of competition"},
-              {"hi": "अहंकार के कारण", "en": "Because of ego"},
-              {"hi": "भाषा की समस्या", "en": "Language problem"}
-            ],
-            "answer": {"hi": "प्रतियोगिता के कारण", "en": "Because of competition"}
-          },
-          {
-            "q": {
-              "hi": "तारा ने अपना गाना क्यों नहीं गाना चाहा?",
-              "en": "Why did Tara not want to sing her song?"
-            },
-            "options": [
-              {"hi": "वह डरी हुई थी", "en": "She was scared"},
-              {"hi": "वह हारना चाहती थी", "en": "She wanted to lose"},
-              {"hi": "वसंती ने उसकी जान बचाई थी", "en": "Vasanthi had saved her life"},
-              {"hi": "वह बीमार थी", "en": "She was sick"}
-            ],
-            "answer": {"hi": "वसंती ने उसकी जान बचाई थी", "en": "Vasanthi had saved her life"}
-          },
-          {
-            "q": {
-              "hi": "मीरा के अनुसार एक सच्चा कलाकार क्या पसंद नहीं करेगा?",
-              "en": "According to Meera, what would a true artist not like?"
-            },
-            "options": [
-              {"hi": "ईनाम जीतना", "en": "Winning a prize"},
-              {"hi": "खैरात लेना", "en": "To accept charity"},
-              {"hi": "गाना गाना", "en": "Singing"},
-              {"hi": "मेहनत करना", "en": "Working hard"}
-            ],
-            "answer": {"hi": "खैरात लेना", "en": "To accept charity"}
-          },
-          {
-            "q": {
-              "hi": "तारा ने मंच पर वसंती को क्या इशारा किया?",
-              "en": "What gesture did Vasanthi make to Tara on stage?"
-            },
-            "options": [
-              {"hi": "गाना मत गाओ", "en": "Don't sing"},
-              {"hi": "शुभकामनाएं", "en": "Good luck"},
-              {"hi": "जाओ यहाँ से", "en": "Go away"},
-              {"hi": "मुस्कुराओ", "en": "Smile"}
-            ],
-            "answer": {"hi": "शुभकामनाएं", "en": "Good luck"}
-          },
-          {
-            "q": {
-              "hi": "वसंती ने अंतिम प्रस्तुति में क्या गाया?",
-              "en": "What did Vasanthi sing in the final performance?"
-            },
-            "options": [
-              {"hi": "तमिल गीत", "en": "Tamil song"},
-              {"hi": "हिंदी गीत", "en": "Hindi song"},
-              {"hi": "भजन", "en": "Bhajan"},
-              {"hi": "कोई नहीं", "en": "None"}
-            ],
-            "answer": {"hi": "हिंदी गीत", "en": "Hindi song"}
-          },
-          {
-            "q": {
-              "hi": "वसंती द्वारा गाए गए गाने का शीर्षक क्या था?",
-              "en": "What was the song Vasanthi sang in the final?"
-            },
-            "options": [
-              {"hi": "हम होंगे कामयाब", "en": "Hum honge kamiyab"},
-              {"hi": "कजरी", "en": "Kajri"},
-              {"hi": "कुम्मी पट्टु", "en": "Kummi pattu"},
-              {"hi": "कोई नहीं", "en": "None"}
-            ],
-            "answer": {"hi": "हम होंगे कामयाब", "en": "Hum honge kamiyab"}
-          },
-          {
-            "q": {
-              "hi": "प्रतियोगिता का परिणाम सुनकर कौन दंग रह गया?",
-              "en": "Who was dumb-struck by the performance?"
-            },
-            "options": [
-              {"hi": "मीरा", "en": "Meera"},
-              {"hi": "तारा", "en": "Tara"},
-              {"hi": "वसंती", "en": "Vasanthi"},
-              {"hi": "न्यायाधीश", "en": "Judge"}
-            ],
-            "answer": {"hi": "तारा", "en": "Tara"}
-          }
+          {"q": {"hi": "नीम के लकड़ी का क्या उपयोग है?", "en": "What is the use of neem wood?"}, "options": [{"hi": "खाना बनाना", "en": "Cooking"}, {"hi": "फर्नीचर बनाना", "en": "Making furniture"}, {"hi": "खेलना", "en": "Playing"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "फर्नीचर बनाना", "en": "Making furniture"}},
+          {"q": {"hi": "नीम के बीज का पाउडर कहाँ उपयोग होता है?", "en": "Where is neem seed powder used?"}, "options": [{"hi": "अनाज के संरक्षण में", "en": "In saving grains"}, {"hi": "लिखने में", "en": "In writing"}, {"hi": "सोने में", "en": "In sleeping"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "अनाज के संरक्षण में", "en": "In saving grains"}},
+          {"q": {"hi": "नीम के पेड़ को 'bitter grace of God' किसने कहा?", "en": "Who called neem 'bitter grace of God'?"}, "options": [{"hi": "वैज्ञानिकों ने", "en": "Scientists"}, {"hi": "एम्बर ने", "en": "Amber"}, {"hi": "दादी ने", "en": "Grandma"}, {"hi": "किसी ने नहीं", "en": "None"}], "answer": {"hi": "वैज्ञानिकों ने", "en": "Scientists"}},
+          {"q": {"hi": "नीम का पेड़ कहाँ पाया जाता है?", "en": "Where is the neem tree found?"}, "options": [{"hi": "एशियाई और अफ्रीकी देशों में", "en": "In Asian and African countries"}, {"hi": "केवल भारत में", "en": "Only in India"}, {"hi": "केवल अमेरिका में", "en": "Only in America"}, {"hi": "कहीं नहीं", "en": "Nowhere"}], "answer": {"hi": "एशियाई और अफ्रीकी देशों में", "en": "In Asian and African countries"}},
+          {"q": {"hi": "नीम के कितने उपयोग बताए गए हैं?", "en": "How many uses of neem are mentioned?"}, "options": [{"hi": "अनेक", "en": "Many"}, {"hi": "एक", "en": "One"}, {"hi": "दो", "en": "Two"}, {"hi": "तीन", "en": "Three"}], "answer": {"hi": "अनेक", "en": "Many"}},
+          {"q": {"hi": "नीम के बीज का पाउडर पानी में छिड़कने से क्या होता है?", "en": "What happens when neem powder is sprayed in water?"}, "options": [{"hi": "मच्छरों का प्रजनन रुकना", "en": "Stops mosquito breeding"}, {"hi": "मच्छर बढ़ना", "en": "Mosquitoes increase"}, {"hi": "पानी गंदा होना", "en": "Water gets dirty"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "मच्छरों का प्रजनन रुकना", "en": "Stops mosquito breeding"}},
+          {"q": {"hi": "क्या नीम के पेड़ से हवा साफ होती है?", "en": "Does the neem tree clean the air?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
+          {"q": {"hi": "नीम के पेड़ को 'magic tree' क्यों कहा गया?", "en": "Why was neem called a 'magic tree'?"}, "options": [{"hi": "उपयोगी होने के कारण", "en": "Because it is useful"}, {"hi": "ऊंचा होने के कारण", "en": "Because it is tall"}, {"hi": "हरा होने के कारण", "en": "Because it is green"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "उपयोगी होने के कारण", "en": "Because it is useful"}},
+          {"q": {"hi": "नीम के किस अंग को 'bitter grace of God' कहा जाता है?", "en": "Which part is called 'bitter grace of God'?"}, "options": [{"hi": "पूरे पेड़ को", "en": "Whole tree"}, {"hi": "फूल को", "en": "Flower"}, {"hi": "फल को", "en": "Fruit"}, {"hi": "जड़ को", "en": "Root"}], "answer": {"hi": "पूरे पेड़ को", "en": "Whole tree"}},
+          {"q": {"hi": "क्या नीम के औषधीय गुणों की अभी और खोज होनी है?", "en": "Are neem's medicinal qualities still being discovered?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}}
         ],
         "section4": [
-          {
-            "q": {
-              "hi": "तारा ने Tamil गाना क्यों चुना?",
-              "en": "Why did Tara choose a Tamil song?"
-            },
-            "options": [
-              {"hi": "क्योंकि वह इसे अच्छी तरह जानती थी", "en": "Because she knew it well"},
-              {"hi": "वसंती का सम्मान करने के लिए", "en": "To honor Vasanthi"},
-              {"hi": "ताकि वह हार जाए", "en": "So she would lose"},
-              {"hi": "शिक्षक के कहने पर", "en": "On teacher's request"}
-            ],
-            "answer": {"hi": "वसंती का सम्मान करने के लिए", "en": "To honor Vasanthi"}
-          },
-          {
-            "q": {
-              "hi": "तारा के गाने में दर्शक क्यों दंग थे?",
-              "en": "Why were the audience stunned by Tara's performance?"
-            },
-            "options": [
-              {"hi": "क्योंकि गाना बुरा था", "en": "Because it was bad"},
-              {"hi": "क्योंकि वह उत्तर प्रदेश की थी", "en": "Because she was from UP"},
-              {"hi": "क्योंकि उसने तमिल गाना बहुत अच्छे से गाया", "en": "Because she sang the Tamil song beautifully"},
-              {"hi": "क्योंकि वह चिल्ला रही थी", "en": "Because she was screaming"}
-            ],
-            "answer": {"hi": "क्योंकि उसने तमिल गाना बहुत अच्छे से गाया", "en": "Because she sang the Tamil song beautifully"}
-          },
-          {
-            "q": {
-              "hi": "वसंती का हिंदी गीत सुनकर तारा ने क्या किया?",
-              "en": "What did Tara do after hearing Vasanthi's Hindi song?"
-            },
-            "options": [
-              {"hi": "हंसी", "en": "Laughed"},
-              {"hi": "गुनगुनाने लगी", "en": "Started humming along"},
-              {"hi": "मंच छोड़ दिया", "en": "Left the stage"},
-              {"hi": "तालियाँ नहीं बजाईं", "en": "Did not clap"}
-            ],
-            "answer": {"hi": "गुनगुनाने लगी", "en": "Started humming along"}
-          },
-          {
-            "q": {
-              "hi": "प्रतियोगिता का निर्णय क्या था?",
-              "en": "What was the judge's decision?"
-            },
-            "options": [
-              {"hi": "केवल तारा जीती", "en": "Only Tara won"},
-              {"hi": "केवल वसंती जीती", "en": "Only Vasanthi won"},
-              {"hi": "दोनों विजेता थीं", "en": "Both were winners"},
-              {"hi": "कोई विजेता नहीं", "en": "No winner"}
-            ],
-            "answer": {"hi": "दोनों विजेता थीं", "en": "Both were winners"}
-          },
-          {
-            "q": {
-              "hi": "प्रतियोगिता का माहौल कैसा था?",
-              "en": "How was the atmosphere at the competition?"
-            },
-            "options": [
-              {"hi": "शांत", "en": "Quiet"},
-              {"hi": "तनावपूर्ण", "en": "Tense"},
-              {"hi": "हंसी वाला", "en": "Funny"},
-              {"hi": "नीरस", "en": "Boring"}
-            ],
-            "answer": {"hi": "तनावपूर्ण", "en": "Tense"}
-          },
-          {
-            "q": {
-              "hi": "क्या वसंती और तारा के बीच अब प्रतिद्वंद्विता बची थी?",
-              "en": "Was there any rivalry left between Tara and Vasanthi?"
-            },
-            "options": [
-              {"hi": "हाँ", "en": "Yes"},
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "थोड़ी बहुत", "en": "A little"},
-              {"hi": "पता नहीं", "en": "Don't know"}
-            ],
-            "answer": {"hi": "नहीं", "en": "No"}
-          },
-          {
-            "q": {
-              "hi": "न्यायाधीश ने मंच पर क्या किया?",
-              "en": "What did the judge do on stage?"
-            },
-            "options": [
-              {"hi": "दोनों को इनाम दिया", "en": "Gave prizes to both"},
-              {"hi": "दोनों का हाथ ऊपर उठाया", "en": "Held their hands up together"},
-              {"hi": "दोनों को डांटा", "en": "Scolded both"},
-              {"hi": "दोनों को अलग किया", "en": "Separated them"}
-            ],
-            "answer": {"hi": "दोनों का हाथ ऊपर उठाया", "en": "Held their hands up together"}
-          },
-          {
-            "q": {
-              "hi": "कहानी का मुख्य संदेश क्या है?",
-              "en": "What is the main message of the story?"
-            },
-            "options": [
-              {"hi": "प्रतिस्पर्धा ही जीवन है", "en": "Competition is life"},
-              {"hi": "दोस्ती प्रतिद्वंद्विता से बेहतर है", "en": "Friendship is better than rivalry"},
-              {"hi": "जीतना ही सब कुछ है", "en": "Winning is everything"},
-              {"hi": "भाषा सीखना जरूरी है", "en": "Learning language is important"}
-            ],
-            "answer": {"hi": "दोस्ती प्रतिद्वंद्विता से बेहतर है", "en": "Friendship is better than rivalry"}
-          },
-          {
-            "q": {
-              "hi": "तारा ने बस की खिड़की पर मुक्का क्यों मारा?",
-              "en": "Why did Tara bang her fist against the bus window?"
-            },
-            "options": [
-              {"hi": "गुस्से में", "en": "In anger"},
-              {"hi": "दुखी होकर", "en": "In desperation"},
-              {"hi": "खुशी में", "en": "In joy"},
-              {"hi": "खेलते हुए", "en": "While playing"}
-            ],
-            "answer": {"hi": "दुखी होकर", "en": "In desperation"}
-          },
-          {
-            "q": {
-              "hi": "कहानी में 'दंगल' फिल्म के किन कलाकारों का उल्लेख है?",
-              "en": "Which artists from the movie 'Dangal' are mentioned?"
-            },
-            "options": [
-              {"hi": "आमिर खान", "en": "Aamir Khan"},
-              {"hi": "सरवर खान और सरताज खान", "en": "Sarwar Khan and Sartaj Khan"},
-              {"hi": "गीता और बबीता", "en": "Geeta and Babita"},
-              {"hi": "कोई नहीं", "en": "None"}
-            ],
-            "answer": {"hi": "सरवर खान और सरताज खान", "en": "Sarwar Khan and Sartaj Khan"}
-          }
+          {"q": {"hi": "क्या नीम का उपयोग टूथपेस्ट में होता है?", "en": "Is neem used in toothpaste?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
+          {"q": {"hi": "क्या नीम का फर्नीचर दीमक खा सकती है?", "en": "Can termites eat neem furniture?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "नहीं", "en": "No"}},
+          {"q": {"hi": "एम्बर की दादी ने एम्बर की खांसी कैसे ठीक की?", "en": "How did Amber's grandma cure her cough?"}, "options": [{"hi": "नीम की छाल की दवा से", "en": "With neem bark medicine"}, {"hi": "नीम के तेल से", "en": "With neem oil"}, {"hi": "नीम के पत्तों से", "en": "With neem leaves"}, {"hi": "कुछ नहीं", "en": "None"}], "answer": {"hi": "नीम की छाल की दवा से", "en": "With neem bark medicine"}},
+          {"q": {"hi": "क्या नीम के बीज के पाउडर का उपयोग पानी में मच्छरों को रोकने के लिए होता है?", "en": "Is neem powder used in water to stop mosquitoes?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
+          {"q": {"hi": "नीम का पेड़ कब पैदा हुआ?", "en": "When was the neem tree born?"}, "options": [{"hi": "लाखों साल पहले", "en": "Millions of years ago"}, {"hi": "हजारों साल पहले", "en": "Thousands of years ago"}, {"hi": "सौ साल पहले", "en": "Hundred years ago"}, {"hi": "कभी नहीं", "en": "Never"}], "answer": {"hi": "लाखों साल पहले", "en": "Millions of years ago"}},
+          {"q": {"hi": "नीम के अन्य संस्कृत नाम क्या हैं?", "en": "What are other Sanskrit names of neem?"}, "options": [{"hi": "निम्बा, निम्बाका", "en": "Nimba, Nimbaca"}, {"hi": "आम, नीम", "en": "Mango, Neem"}, {"hi": "पीपल, बरगद", "en": "Peepal, Banyan"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "निम्बा, निम्बाका", "en": "Nimba, Nimbaca"}},
+          {"q": {"hi": "नीम की पत्तियां क्या करने में मदद करती हैं?", "en": "What do neem leaves help with?"}, "options": [{"hi": "कीटाणुओं को मारने में", "en": "To kill germs"}, {"hi": "पानी साफ करने में", "en": "To clean water"}, {"hi": "खाना पकाने में", "en": "To cook food"}, {"hi": "कुछ नहीं", "en": "None"}], "answer": {"hi": "कीटाणुओं को मारने में", "en": "To kill germs"}},
+          {"q": {"hi": "नीम के कौन से हिस्से से काजल बनाया जा सकता है?", "en": "Which part of neem can make kajal?"}, "options": [{"hi": "फूल", "en": "Flower"}, {"hi": "फल", "en": "Fruit"}, {"hi": "पत्ती", "en": "Leaf"}, {"hi": "जड़", "en": "Root"}], "answer": {"hi": "फूल", "en": "Flower"}},
+          {"q": {"hi": "क्या नीम के पेड़ का इतिहास है?", "en": "Does the neem tree have a history?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
+          {"q": {"hi": "क्या एम्बर को नीम के पेड़ से जानकारी मिली?", "en": "Did Amber get information from the neem tree?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}}
         ],
         "section5": [
-          {
-            "q": {
-              "hi": "क्या 'दंगल' के कलाकारों ने अपनी मेहनत से सफलता प्राप्त की?",
-              "en": "Did the 'Dangal' artists achieve success through hard work?"
-            },
-            "options": [
-              {"hi": "हाँ", "en": "Yes"},
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "शायद", "en": "Maybe"},
-              {"hi": "किस्मत से", "en": "By luck"}
-            ],
-            "answer": {"hi": "हाँ", "en": "Yes"}
-          },
-          {
-            "q": {
-              "hi": "तारा की भाषा क्या थी?",
-              "en": "What was Tara's language?"
-            },
-            "options": [
-              {"hi": "तमिल", "en": "Tamil"},
-              {"hi": "हिंदी", "en": "Hindi"},
-              {"hi": "अंग्रेजी", "en": "English"},
-              {"hi": "कोई नहीं", "en": "None"}
-            ],
-            "answer": {"hi": "हिंदी", "en": "Hindi"}
-          },
-          {
-            "q": {
-              "hi": "क्या वसंती हिंदी बोल सकती थी?",
-              "en": "Could Vasanthi speak Hindi?"
-            },
-            "options": [
-              {"hi": "हाँ, धाराप्रवाह", "en": "Yes, fluently"},
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "थोड़ी बहुत", "en": "A little"},
-              {"hi": "केवल गाने के माध्यम से", "en": "Only through songs"}
-            ],
-            "answer": {"hi": "नहीं", "en": "No"}
-          },
-          {
-            "q": {
-              "hi": "मीरा तारा से किस बात पर नाराज थी?",
-              "en": "Why was Meera angry with Tara?"
-            },
-            "options": [
-              {"hi": "तमिल गाना गाने पर", "en": "For singing a Tamil song"},
-              {"hi": "गाने में गलती करने पर", "en": "For making a mistake in singing"},
-              {"hi": "वसंती से बात करने पर", "en": "For talking to Vasanthi"},
-              {"hi": "प्रतियोगिता न खेलने पर", "en": "For not playing"}
-            ],
-            "answer": {"hi": "तमिल गाना गाने पर", "en": "For singing a Tamil song"}
-          },
-          {
-            "q": {
-              "hi": "तारा के गाने में किस राग का उपयोग किया गया था?",
-              "en": "Which Raag was used in Tara's bhajan?"
-            },
-            "options": [
-              {"hi": "राग भैरवी", "en": "Raag Bhairavi"},
-              {"hi": "राग कल्याण", "en": "Raag Kalyan"},
-              {"hi": "राग मल्हार", "en": "Raag Malhar"},
-              {"hi": "कोई नहीं", "en": "None"}
-            ],
-            "answer": {"hi": "राग कल्याण", "en": "Raag Kalyan"}
-          },
-          {
-            "q": {
-              "hi": "क्या Tara ने अंत में अपना फैसला बदल दिया?",
-              "en": "Did Tara change her decision in the end?"
-            },
-            "options": [
-              {"hi": "हाँ", "en": "Yes"},
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "कभी नहीं", "en": "Never"},
-              {"hi": "शिक्षक के दबाव में", "en": "Under pressure"}
-            ],
-            "answer": {"hi": "नहीं", "en": "No"}
-          },
-          {
-            "q": {
-              "hi": "प्रतियोगिता में ट्रॉफी कितनी थी?",
-              "en": "How many trophies were there for the competition?"
-            },
-            "options": [
-              {"hi": "एक", "en": "One"},
-              {"hi": "दो", "en": "Two"},
-              {"hi": "तीन", "en": "Three"},
-              {"hi": "कोई नहीं", "en": "None"}
-            ],
-            "answer": {"hi": "एक", "en": "One"}
-          },
-          {
-            "q": {
-              "hi": "वसंती ने हिंदी गीत में क्या गाया?",
-              "en": "What did Vasanthi sing in the Hindi song?"
-            },
-            "options": [
-              {"hi": "कजरी", "en": "Kajri"},
-              {"hi": "हम होंगे कामयाब", "en": "Hum honge kamiyab"},
-              {"hi": "भजन", "en": "Bhajan"},
-              {"hi": "कुम्मी पट्टु", "en": "Kummi pattu"}
-            ],
-            "answer": {"hi": "हम होंगे कामयाब", "en": "Hum honge kamiyab"}
-          },
-          {
-            "q": {
-              "hi": "कहानी का समापन कैसे हुआ?",
-              "en": "How did the story end?"
-            },
-            "options": [
-              {"hi": "तारा के हारने के साथ", "en": "With Tara losing"},
-              {"hi": "वसंती के जाने के साथ", "en": "With Vasanthi leaving"},
-              {"hi": "दोनों के हाथ पकड़ने और मुस्कुराने के साथ", "en": "With both holding hands and smiling"},
-              {"hi": "मीरा के गुस्से के साथ", "en": "With Meera being angry"}
-            ],
-            "answer": {"hi": "दोनों के हाथ पकड़ने और मुस्कुराने के साथ", "en": "With both holding hands and smiling"}
-          },
-          {
-            "q": {
-              "hi": "कंपीयर ने जजों के पास जाकर क्या किया?",
-              "en": "What did the compere do after going to the judges?"
-            },
-            "options": [
-              {"hi": "झगड़ा किया", "en": "Argued"},
-              {"hi": "परिणाम की प्रतीक्षा की", "en": "Waited for the result"},
-              {"hi": "जजों से बात की और फैसला सुनाया", "en": "Talked to the judges and announced the result"},
-              {"hi": "मंच छोड़ दिया", "en": "Left the stage"}
-            ],
-            "answer": {"hi": "जजों से बात की और फैसला सुनाया", "en": "Talked to the judges and announced the result"}
-          }
+          {"q": {"hi": "नीम के तेल से क्या बनाया जाता है?", "en": "What is made from neem oil?"}, "options": [{"hi": "साबुन और टूथपेस्ट", "en": "Soaps and toothpaste"}, {"hi": "दूध", "en": "Milk"}, {"hi": "चाय", "en": "Tea"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "साबुन और टूथपेस्ट", "en": "Soaps and toothpaste"}},
+          {"q": {"hi": "क्या एम्बर नीम के पेड़ की प्रशंसा करती है?", "en": "Does Amber admire the neem tree?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
+          {"q": {"hi": "क्या किसान नीम के बीज पाउडर का उपयोग करते हैं?", "en": "Do farmers use neem seed powder?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
+          {"q": {"hi": "नीम का पेड़ एम्बर के कहाँ था?", "en": "Where was the neem tree in Amber's house?"}, "options": [{"hi": "आंगन में", "en": "In courtyard"}, {"hi": "बगीचे में", "en": "In garden"}, {"hi": "घर के बाहर", "en": "Outside house"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "आंगन में", "en": "In courtyard"}},
+          {"q": {"hi": "नीम का पेड़ कैसा था?", "en": "How was the neem tree?"}, "options": [{"hi": "पुराना और ज्ञानी", "en": "Old and wise"}, {"hi": "नया", "en": "New"}, {"hi": "छोटा", "en": "Small"}, {"hi": "कमजोर", "en": "Weak"}], "answer": {"hi": "पुराना और ज्ञानी", "en": "Old and wise"}},
+          {"q": {"hi": "नीम के बीज का पाउडर क्या काम करता है?", "en": "What does neem seed powder do?"}, "options": [{"hi": "कीड़ों को दूर रखना", "en": "Keep insects away"}, {"hi": "रंग बदलना", "en": "Change color"}, {"hi": "फूल उगाना", "en": "Grow flowers"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "कीड़ों को दूर रखना", "en": "Keep insects away"}},
+          {"q": {"hi": "एम्बर ने पेड़ को क्या कहा?", "en": "What did Amber say to the tree?"}, "options": [{"hi": "नमस्ते", "en": "Namaste"}, {"hi": "अलविदा", "en": "Bye"}, {"hi": "शुभ प्रभात", "en": "Good morning"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "नमस्ते", "en": "Namaste"}},
+          {"q": {"hi": "नीम का उपयोग पर्यावरण के लिए कैसा है?", "en": "How is neem use for environment?"}, "options": [{"hi": "अच्छा", "en": "Good"}, {"hi": "खराब", "en": "Bad"}, {"hi": "उबाऊ", "en": "Boring"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "अच्छा", "en": "Good"}},
+          {"q": {"hi": "नीम बाबा ने एम्बर को क्या दिया?", "en": "What did Neem Baba give to Amber?"}, "options": [{"hi": "ज्ञान", "en": "Knowledge"}, {"hi": "पैसा", "en": "Money"}, {"hi": "खाना", "en": "Food"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "ज्ञान", "en": "Knowledge"}},
+          {"q": {"hi": "क्या आपको नीम का पेड़ पसंद है?", "en": "Do you like the neem tree?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}}
         ]
-     },
+      },
     "chapter04a": {
         "section1": [
           {
