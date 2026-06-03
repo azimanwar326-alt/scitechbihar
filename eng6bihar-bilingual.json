@@ -2304,345 +2304,1415 @@
           }
         ]
       },
-    "chapter07": {
+    "chapter05a": {
         "section1": [
           {
             "q": {
-              "hi": "मिनी की आयु कितनी थी?",
-              "en": "How old was Mini?"
+              "hi": "कार्यक्रम का नाम क्या था?",
+              "en": "What was the name of the programme?"
             },
             "options": [
-              {"hi": "चार वर्ष", "en": "Four years"},
-              {"hi": "पाँच वर्ष", "en": "Five years"},
-              {"hi": "छह वर्ष", "en": "Six years"},
-              {"hi": "सात वर्ष", "en": "Seven years"}
+              {
+                "hi": "एक भारत, श्रेष्ठ भारत",
+                "en": "Ek Bharat, Shreshtha Bharat"
+              },
+              {
+                "hi": "भारत भ्रमण",
+                "en": "Bharat Bhraman"
+              },
+              {
+                "hi": "कला उत्सव",
+                "en": "Kala Utsav"
+              },
+              {
+                "hi": "नया भारत",
+                "en": "Naya Bharat"
+              }
             ],
-            "answer": {"hi": "पाँच वर्ष", "en": "Five years"}
+            "answer": {
+              "hi": "एक भारत, श्रेष्ठ भारत",
+              "en": "Ek Bharat, Shreshtha Bharat"
+            }
           },
           {
             "q": {
-              "hi": "मिनी के बारे में क्या बात प्रसिद्ध थी?",
-              "en": "What was famous about Mini?"
+              "hi": "रेणु के अनुसार, भारत की सबसे बड़ी विशेषता क्या है?",
+              "en": "According to Renu, what makes India most wonderful?"
             },
             "options": [
-              {"hi": "वह बहुत सुंदर थी", "en": "She was beautiful"},
-              {"hi": "वह बिना बात किए नहीं रह सकती थी", "en": "She could not live without talking"},
-              {"hi": "वह बहुत होशियार थी", "en": "She was very clever"},
-              {"hi": "वह बहुत रोती थी", "en": "She cried a lot"}
+              {
+                "hi": "विभिन्नता में एकता",
+                "en": "Unity in diversity"
+              },
+              {
+                "hi": "प्राकृतिक सौंदर्य",
+                "en": "Natural beauty"
+              },
+              {
+                "hi": "बड़ा क्षेत्रफल",
+                "en": "Large area"
+              },
+              {
+                "hi": "तकनीक",
+                "en": "Technology"
+              }
             ],
-            "answer": {"hi": "वह बिना बात किए नहीं रह सकती थी", "en": "She could not live without talking"}
+            "answer": {
+              "hi": "विभिन्नता में एकता",
+              "en": "Unity in diversity"
+            }
           },
           {
             "q": {
-              "hi": "मिनी के पिता क्या लिख रहे थे?",
-              "en": "What was Mini's father writing?"
+              "hi": "आकांक्षा किस राज्य से थी?",
+              "en": "Which state was Aakansha from?"
             },
             "options": [
-              {"hi": "एक कविता", "en": "A poem"},
-              {"hi": "एक उपन्यास का सत्रहवाँ अध्याय", "en": "Seventeenth chapter of his novel"},
-              {"hi": "एक पत्र", "en": "A letter"},
-              {"hi": "एक निबंध", "en": "An essay"}
+              {
+                "hi": "उत्तराखंड",
+                "en": "Uttarakhand"
+              },
+              {
+                "hi": "केरल",
+                "en": "Kerala"
+              },
+              {
+                "hi": "आंध्र प्रदेश",
+                "en": "Andhra Pradesh"
+              },
+              {
+                "hi": "बिहार",
+                "en": "Bihar"
+              }
             ],
-            "answer": {"hi": "एक उपन्यास का सत्रहवाँ अध्याय", "en": "Seventeenth chapter of his novel"}
+            "answer": {
+              "hi": "उत्तराखंड",
+              "en": "Uttarakhand"
+            }
           },
           {
             "q": {
-              "hi": "मिनी ने पिता से क्या पूछा?",
-              "en": "What did Mini ask her father?"
+              "hi": "आकांक्षा की लोक कला का नाम क्या है?",
+              "en": "What is the name of Aakansha's folk art?"
             },
             "options": [
-              {"hi": "क्या आप खेलेंगे?", "en": "Will you play?"},
-              {"hi": "कौवे को 'कौआ' क्यों कहते हैं?", "en": "Why is a crow called a crow?"},
-              {"hi": "हम कब बाहर जाएंगे?", "en": "When will we go out?"},
-              {"hi": "माँ कहाँ है?", "en": "Where is mother?"}
+              {
+                "hi": "ऐपन (Aipan)",
+                "en": "Aipan"
+              },
+              {
+                "hi": "मधुबनी",
+                "en": "Madhubani"
+              },
+              {
+                "hi": "वरली",
+                "en": "Warli"
+              },
+              {
+                "hi": "पेंटिंग",
+                "en": "Painting"
+              }
             ],
-            "answer": {"hi": "कौवे को 'कौआ' क्यों कहते हैं?", "en": "Why is a crow called a crow?"}
+            "answer": {
+              "hi": "ऐपन (Aipan)",
+              "en": "Aipan"
+            }
           },
           {
             "q": {
-              "hi": "मिनी ने किसे देखकर आवाज़ लगाई?",
-              "en": "Whom did Mini see and shout to?"
+              "hi": "ऐपन किस रंग की दीवारों पर बनाया जाता है?",
+              "en": "On what colored walls is Aipan drawn?"
             },
             "options": [
-              {"hi": "अपनी माँ", "en": "Her mother"},
-              {"hi": "काबुलीवाला", "en": "Kabuliwala"},
-              {"hi": "एक दोस्त", "en": "A friend"},
-              {"hi": "एक फेरीवाला", "en": "A vendor"}
+              {
+                "hi": "ईंट-लाल (brick-red)",
+                "en": "Brick-red"
+              },
+              {
+                "hi": "सफेद",
+                "en": "White"
+              },
+              {
+                "hi": "नीली",
+                "en": "Blue"
+              },
+              {
+                "hi": "पीली",
+                "en": "Yellow"
+              }
             ],
-            "answer": {"hi": "काबुलीवाला", "en": "Kabuliwala"}
+            "answer": {
+              "hi": "ईंट-लाल (brick-red)",
+              "en": "Brick-red"
+            }
           },
           {
             "q": {
-              "hi": "काबुलीवाला का नाम क्या था?",
-              "en": "What was the name of the Kabuliwala?"
+              "hi": "ऐपन बनाने के लिए किसका उपयोग किया जाता है?",
+              "en": "What is used to make Aipan?"
             },
             "options": [
-              {"hi": "रहमान", "en": "Rahman"},
-              {"hi": "रामदयाल", "en": "Ramdayal"},
-              {"hi": "भोला", "en": "Bhola"},
-              {"hi": "रबींद्र", "en": "Rabindra"}
+              {
+                "hi": "चावल के आटे का पेस्ट",
+                "en": "Rice flour paste"
+              },
+              {
+                "hi": "गेहूं का आटा",
+                "en": "Wheat flour"
+              },
+              {
+                "hi": "मिट्टी",
+                "en": "Clay"
+              },
+              {
+                "hi": "रंग",
+                "en": "Paint"
+              }
             ],
-            "answer": {"hi": "रहमान", "en": "Rahman"}
+            "answer": {
+              "hi": "चावल के आटे का पेस्ट",
+              "en": "Rice flour paste"
+            }
           },
           {
             "q": {
-              "hi": "काबुलीवाला कहाँ से आया था?",
-              "en": "Where had the Kabuliwala come from?"
+              "hi": "ऐपन कला कौन बनाती हैं?",
+              "en": "Who makes the Aipan art?"
             },
             "options": [
-              {"hi": "ईरान", "en": "Iran"},
-              {"hi": "काबुल", "en": "Kabul"},
-              {"hi": "पाकिस्तान", "en": "Pakistan"},
-              {"hi": "नेपाल", "en": "Nepal"}
+              {
+                "hi": "परिवार की महिलाएं",
+                "en": "Women in the family"
+              },
+              {
+                "hi": "बच्चे",
+                "en": "Children"
+              },
+              {
+                "hi": "पुरूष",
+                "en": "Men"
+              },
+              {
+                "hi": "शिक्षक",
+                "en": "Teachers"
+              }
             ],
-            "answer": {"hi": "काबुल", "en": "Kabul"}
+            "answer": {
+              "hi": "परिवार की महिलाएं",
+              "en": "Women in the family"
+            }
           },
           {
             "q": {
-              "hi": "मिनी के घर के पास कौन आया था?",
-              "en": "Who came near Mini's house?"
+              "hi": "ऐपन कला कैसी होती है?",
+              "en": "What are Aipan designs like?"
             },
             "options": [
-              {"hi": "डाकिया", "en": "Postman"},
-              {"hi": "फेरीवाला (Kabuliwala)", "en": "Kabuliwala"},
-              {"hi": "दूधवाला", "en": "Milkman"},
-              {"hi": "सब्जीवाला", "en": "Vegetable seller"}
+              {
+                "hi": "गणितीय (mathematical)",
+                "en": "Mathematical"
+              },
+              {
+                "hi": "अस्पष्ट",
+                "en": "Vague"
+              },
+              {
+                "hi": "सरल",
+                "en": "Simple"
+              },
+              {
+                "hi": "बड़ी",
+                "en": "Big"
+              }
             ],
-            "answer": {"hi": "फेरीवाला", "en": "Kabuliwala"}
+            "answer": {
+              "hi": "गणितीय (mathematical)",
+              "en": "Mathematical"
+            }
           },
           {
             "q": {
-              "hi": "मिनी के पिता को क्या करने में बाधा हुई?",
-              "en": "What was interrupted for Mini's father?"
+              "hi": "ऐपन कहाँ बनाया जाता है?",
+              "en": "Where is Aipan made?"
             },
             "options": [
-              {"hi": "खाना खाना", "en": "Eating"},
-              {"hi": "लिखना", "en": "Writing"},
-              {"hi": "सोना", "en": "Sleeping"},
-              {"hi": "पढ़ना", "en": "Reading"}
+              {
+                "hi": "पूजा कमरों में",
+                "en": "In puja rooms"
+              },
+              {
+                "hi": "छत पर",
+                "en": "On roof"
+              },
+              {
+                "hi": "बाजार में",
+                "en": "In market"
+              },
+              {
+                "hi": "खेत में",
+                "en": "In field"
+              }
             ],
-            "answer": {"hi": "लिखना", "en": "Writing"}
+            "answer": {
+              "hi": "पूजा कमरों में",
+              "en": "In puja rooms"
+            }
           },
           {
             "q": {
-              "hi": "कौवे को 'कौआ' क्यों कहते हैं, यह किसने पूछा?",
-              "en": "Who asked why a crow is called a crow?"
+              "hi": "ऐपन कब बनाया जाता है?",
+              "en": "When is Aipan made?"
             },
             "options": [
-              {"hi": "मिनी के पिता ने", "en": "Mini's father"},
-              {"hi": "मिनी ने", "en": "Mini"},
-              {"hi": "माँ ने", "en": "Mother"},
-              {"hi": "रामदयाल ने", "en": "Ramdayal"}
+              {
+                "hi": "त्योहारों पर",
+                "en": "Festivals/functions"
+              },
+              {
+                "hi": "रोज",
+                "en": "Daily"
+              },
+              {
+                "hi": "रात में",
+                "en": "At night"
+              },
+              {
+                "hi": "कभी नहीं",
+                "en": "Never"
+              }
             ],
-            "answer": {"hi": "मिनी ने", "en": "Mini"}
+            "answer": {
+              "hi": "त्योहारों पर",
+              "en": "Festivals/functions"
+            }
           }
         ],
         "section2": [
           {
-            "q": {"hi": "काबुलीवाला क्या बेचता था?", "en": "What did the Kabuliwala sell?"},
-            "options": [{"hi": "सब्जियां", "en": "Vegetables"}, {"hi": "मेवे और कपड़े", "en": "Dry fruits and clothes"}, {"hi": "खिलौने", "en": "Toys"}, {"hi": "किताबें", "en": "Books"}],
-            "answer": {"hi": "मेवे और कपड़े", "en": "Dry fruits and clothes"}
+            "q": {
+              "hi": "चित्रा किस राज्य से है?",
+              "en": "Which state is Chitra from?"
+            },
+            "options": [
+              {
+                "hi": "केरल",
+                "en": "Kerala"
+              },
+              {
+                "hi": "आंध्र प्रदेश",
+                "en": "Andhra Pradesh"
+              },
+              {
+                "hi": "उत्तराखंड",
+                "en": "Uttarakhand"
+              },
+              {
+                "hi": "पंजाब",
+                "en": "Punjab"
+              }
+            ],
+            "answer": {
+              "hi": "केरल",
+              "en": "Kerala"
+            }
           },
           {
-            "q": {"hi": "क्या काबुलीवाला और मिनी दोस्त बन गए?", "en": "Did the Kabuliwala and Mini become friends?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "कभी नहीं", "en": "Never"}, {"hi": "अनिश्चित", "en": "Uncertain"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "चित्रा ने किस हस्तकला के बारे में बताया?",
+              "en": "Which craft did Chitra talk about?"
+            },
+            "options": [
+              {
+                "hi": "नारियल के खोल की कला",
+                "en": "Coconut shell craft"
+              },
+              {
+                "hi": "मिट्टी के खिलौने",
+                "en": "Clay toys"
+              },
+              {
+                "hi": "ऐपन",
+                "en": "Aipan"
+              },
+              {
+                "hi": "कपड़ा बुनाई",
+                "en": "Cloth weaving"
+              }
+            ],
+            "answer": {
+              "hi": "नारियल के खोल की कला",
+              "en": "Coconut shell craft"
+            }
           },
           {
-            "q": {"hi": "मिनी काबुलीवाला को क्या बुलाती थी?", "en": "What did Mini call the Kabuliwala?"},
-            "options": [{"hi": "रामदयाल", "en": "Ramdayal"}, {"hi": "रहमान", "en": "Rahman"}, {"hi": "फेरीवाला", "en": "Vendor"}, {"hi": "कोई नहीं", "en": "None"}],
-            "answer": {"hi": "रहमान", "en": "Rahman"}
+            "q": {
+              "hi": "नारियल के खोल को कैसे चिकना बनाया जाता है?",
+              "en": "How is the coconut shell made smooth?"
+            },
+            "options": [
+              {
+                "hi": "सैंडपेपर या मशीन से",
+                "en": "Using sandpaper or a machine"
+              },
+              {
+                "hi": "पानी से",
+                "en": "Using water"
+              },
+              {
+                "hi": "धूप से",
+                "en": "Using sun"
+              },
+              {
+                "hi": "हाथों से",
+                "en": "Using hands"
+              }
+            ],
+            "answer": {
+              "hi": "सैंडपेपर या मशीन से",
+              "en": "Using sandpaper or a machine"
+            }
           },
           {
-            "q": {"hi": "मिनी की माँ को क्या चिंता थी?", "en": "What was Mini's mother worried about?"},
-            "options": [{"hi": "मिनी की पढ़ाई", "en": "Mini's studies"}, {"hi": "काबुलीवाला के साथ दोस्ती", "en": "Friendship with Kabuliwala"}, {"hi": "स्वास्थ्य", "en": "Health"}, {"hi": "भोजन", "en": "Food"}],
-            "answer": {"hi": "काबुलीवाला के साथ दोस्ती", "en": "Friendship with Kabuliwala"}
+            "q": {
+              "hi": "खोल को स्थिर (stable) बनाने के लिए क्या किया जाता है?",
+              "en": "What is done to make the shell stable?"
+            },
+            "options": [
+              {
+                "hi": "आधार फिक्स करना",
+                "en": "Fixing a base under it"
+              },
+              {
+                "hi": "रंग करना",
+                "en": "Painting"
+              },
+              {
+                "hi": "काटना",
+                "en": "Cutting"
+              },
+              {
+                "hi": "धोना",
+                "en": "Washing"
+              }
+            ],
+            "answer": {
+              "hi": "आधार फिक्स करना",
+              "en": "Fixing a base under it"
+            }
           },
           {
-            "q": {"hi": "क्या पिता ने मिनी को काबुलीवाला से मिलने दिया?", "en": "Did the father let Mini meet the Kabuliwala?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "कभी नहीं", "en": "Never"}, {"hi": "माँ ने रोका", "en": "Mother stopped"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "खोल को चमकदार बनाने के लिए क्या इस्तेमाल होता है?",
+              "en": "What is used to make the shell shine?"
+            },
+            "options": [
+              {
+                "hi": "लकड़ी का पॉलिश (wood polish)",
+                "en": "Wood polish"
+              },
+              {
+                "hi": "पानी",
+                "en": "Water"
+              },
+              {
+                "hi": "तेल",
+                "en": "Oil"
+              },
+              {
+                "hi": "मिट्टी",
+                "en": "Clay"
+              }
+            ],
+            "answer": {
+              "hi": "लकड़ी का पॉलिश (wood polish)",
+              "en": "Wood polish"
+            }
           },
           {
-            "q": {"hi": "काबुलीवाला मिनी के लिए क्या लाता था?", "en": "What did Kabuliwala bring for Mini?"},
-            "options": [{"hi": "मेवे", "en": "Dry fruits"}, {"hi": "खिलौने", "en": "Toys"}, {"hi": "कपड़े", "en": "Clothes"}, {"hi": "पुस्तकें", "en": "Books"}],
-            "answer": {"hi": "मेवे", "en": "Dry fruits"}
+            "q": {
+              "hi": "नारियल के खोल से क्या बनाया जाता है?",
+              "en": "What are made from coconut shells?"
+            },
+            "options": [
+              {
+                "hi": "कटोरे और आभूषण",
+                "en": "Bowls and jewellery"
+              },
+              {
+                "hi": "खिलौने",
+                "en": "Toys"
+              },
+              {
+                "hi": "दीवार",
+                "en": "Wall"
+              },
+              {
+                "hi": "कपड़े",
+                "en": "Clothes"
+              }
+            ],
+            "answer": {
+              "hi": "कटोरे और आभूषण",
+              "en": "Bowls and jewellery"
+            }
           },
           {
-            "q": {"hi": "क्या काबुलीवाला के पास अपनी बेटी थी?", "en": "Did the Kabuliwala have his own daughter?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "वह विवाहित नहीं था", "en": "He was unmarried"}, {"hi": "कह नहीं सकते", "en": "Cannot say"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "नारियल खोल की कला कैसी है?",
+              "en": "What kind of craft is coconut shell craft?"
+            },
+            "options": [
+              {
+                "hi": "बायोडिग्रेडेबल (biodegradable)",
+                "en": "Biodegradable"
+              },
+              {
+                "hi": "खतरनाक",
+                "en": "Dangerous"
+              },
+              {
+                "hi": "महंगी",
+                "en": "Expensive"
+              },
+              {
+                "hi": "भारी",
+                "en": "Heavy"
+              }
+            ],
+            "answer": {
+              "hi": "बायोडिग्रेडेबल (biodegradable)",
+              "en": "Biodegradable"
+            }
           },
           {
-            "q": {"hi": "मिनी के पिता को क्या बुरा लगता था?", "en": "What made Mini's father sad?"},
-            "options": [{"hi": "लिखना", "en": "Writing"}, {"hi": "मिनी का चुप रहना", "en": "Mini being quiet"}, {"hi": "गरीबी", "en": "Poverty"}, {"hi": "शोर", "en": "Noise"}],
-            "answer": {"hi": "मिनी का चुप रहना", "en": "Mini being quiet"}
+            "q": {
+              "hi": "नारियल के खोल को साफ करने के बाद क्या करते हैं?",
+              "en": "What is done after cleaning the shell?"
+            },
+            "options": [
+              {
+                "hi": "चिकना बनाते हैं",
+                "en": "Make it smooth"
+              },
+              {
+                "hi": "बेचते हैं",
+                "en": "Sell"
+              },
+              {
+                "hi": "फेंक देते हैं",
+                "en": "Throw"
+              },
+              {
+                "hi": "रंगते हैं",
+                "en": "Paint"
+              }
+            ],
+            "answer": {
+              "hi": "चिकना बनाते हैं",
+              "en": "Make it smooth"
+            }
           },
           {
-            "q": {"hi": "काबुलीवाला को जेल क्यों हुई?", "en": "Why was the Kabuliwala sent to jail?"},
-            "options": [{"hi": "चोरी के लिए", "en": "For stealing"}, {"hi": "झगड़े के लिए", "en": "For a fight"}, {"hi": "हथियार रखने के लिए", "en": "For having a weapon"}, {"hi": "कर न चुकाने पर", "en": "Not paying tax"}],
-            "answer": {"hi": "झगड़े के लिए", "en": "For a fight"}
+            "q": {
+              "hi": "नारियल की कला किस पर्यावरण के अनुकूल है?",
+              "en": "Is coconut craft eco-friendly?"
+            },
+            "options": [
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "जेल से लौटने के बाद काबुलीवाला क्या ढूँढ रहा था?", "en": "What was Kabuliwala looking for after returning from jail?"},
-            "options": [{"hi": "मिनी को", "en": "Mini"}, {"hi": "मेवे", "en": "Dry fruits"}, {"hi": "अपनी बेटी को", "en": "His daughter"}, {"hi": "काम को", "en": "Work"}],
-            "answer": {"hi": "मिनी को", "en": "Mini"}
+            "q": {
+              "hi": "क्या नारियल खोल से आभूषण बनते हैं?",
+              "en": "Are jewellery made from coconut shells?"
+            },
+            "options": [
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           }
         ],
         "section3": [
           {
-            "q": {"hi": "मिनी की शादी के दिन क्या हो रहा था?", "en": "What was happening on Mini's wedding day?"},
-            "options": [{"hi": "त्यौहार", "en": "Festival"}, {"hi": "शादी की रस्में", "en": "Wedding ceremonies"}, {"hi": "जन्मदिन", "en": "Birthday"}, {"hi": "पार्टी", "en": "Party"}],
-            "answer": {"hi": "शादी की रस्में", "en": "Wedding ceremonies"}
+            "q": {
+              "hi": "बलमुरली किस राज्य से है?",
+              "en": "Which state is Balamurali from?"
+            },
+            "options": [
+              {
+                "hi": "आंध्र प्रदेश",
+                "en": "Andhra Pradesh"
+              },
+              {
+                "hi": "केरल",
+                "en": "Kerala"
+              },
+              {
+                "hi": "उत्तराखंड",
+                "en": "Uttarakhand"
+              },
+              {
+                "hi": "बिहार",
+                "en": "Bihar"
+              }
+            ],
+            "answer": {
+              "hi": "आंध्र प्रदेश",
+              "en": "Andhra Pradesh"
+            }
           },
           {
-            "q": {"hi": "क्या काबुलीवाला मिनी को पहचान पाया?", "en": "Did the Kabuliwala recognize Mini?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "थोड़ा बहुत", "en": "A little"}, {"hi": "नहीं पहचान पाया", "en": "Could not recognize"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "बलमुरली ने किस कला के बारे में बताया?",
+              "en": "What art did Balamurali talk about?"
+            },
+            "options": [
+              {
+                "hi": "खिलौने बनाना",
+                "en": "Making toys"
+              },
+              {
+                "hi": "ऐपन",
+                "en": "Aipan"
+              },
+              {
+                "hi": "नारियल कला",
+                "en": "Coconut craft"
+              },
+              {
+                "hi": "बुनाई",
+                "en": "Weaving"
+              }
+            ],
+            "answer": {
+              "hi": "खिलौने बनाना",
+              "en": "Making toys"
+            }
           },
           {
-            "q": {"hi": "मिनी के पिता ने काबुलीवाला को क्या दिया?", "en": "What did Mini's father give to Kabuliwala?"},
-            "options": [{"hi": "भोजन", "en": "Food"}, {"hi": "पैसे", "en": "Money"}, {"hi": "कपड़े", "en": "Clothes"}, {"hi": "खिलौने", "en": "Toys"}],
-            "answer": {"hi": "पैसे", "en": "Money"}
+            "q": {
+              "hi": "कोंडापल्ली खिलौने कितने साल पुराने हैं?",
+              "en": "How old is the Kondapalli toy-making art?"
+            },
+            "options": [
+              {
+                "hi": "400 साल",
+                "en": "400 years"
+              },
+              {
+                "hi": "100 साल",
+                "en": "100 years"
+              },
+              {
+                "hi": "50 साल",
+                "en": "50 years"
+              },
+              {
+                "hi": "1000 साल",
+                "en": "1000 years"
+              }
+            ],
+            "answer": {
+              "hi": "400 साल",
+              "en": "400 years"
+            }
           },
           {
-            "q": {"hi": "पैसे किसलिए थे?", "en": "What was the money for?"},
-            "options": [{"hi": "अपने घर वापस जाने के लिए", "en": "To go back home"}, {"hi": "भोजन के लिए", "en": "For food"}, {"hi": "दवा के लिए", "en": "For medicine"}, {"hi": "सजावट के लिए", "en": "Decoration"}],
-            "answer": {"hi": "अपने घर वापस जाने के लिए", "en": "To go back home"}
+            "q": {
+              "hi": "खिलौने बनाने के लिए लकड़ी कहाँ से आती है?",
+              "en": "Where does the wood for toys come from?"
+            },
+            "options": [
+              {
+                "hi": "पास की पहाड़ियों से",
+                "en": "Nearby hills"
+              },
+              {
+                "hi": "घर से",
+                "en": "From home"
+              },
+              {
+                "hi": "बाजार से",
+                "en": "From market"
+              },
+              {
+                "hi": "दूसरे राज्य से",
+                "en": "From other state"
+              }
+            ],
+            "answer": {
+              "hi": "पास की पहाड़ियों से",
+              "en": "Nearby hills"
+            }
           },
           {
-            "q": {"hi": "क्या काबुलीवाला की बेटी बड़ी हो गई थी?", "en": "Had Kabuliwala's daughter grown up?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "टुकड़ों को जोड़ने के लिए 'मकू' (makku) क्या है?",
+              "en": "What is 'makku' used to join pieces?"
+            },
+            "options": [
+              {
+                "hi": "इमली के बीज का पेस्ट",
+                "en": "Tamarind seed paste"
+              },
+              {
+                "hi": "फेविकोल",
+                "en": "Fevicol"
+              },
+              {
+                "hi": "पानी",
+                "en": "Water"
+              },
+              {
+                "hi": "मिट्टी",
+                "en": "Clay"
+              }
+            ],
+            "answer": {
+              "hi": "इमली के बीज का पेस्ट",
+              "en": "Tamarind seed paste"
+            }
           },
           {
-            "q": {"hi": "मिनी के पिता को क्या महसूस हुआ?", "en": "What did Mini's father feel?"},
-            "options": [{"hi": "खुशी", "en": "Happiness"}, {"hi": "दुख", "en": "Sadness"}, {"hi": "आश्चर्य", "en": "Surprise"}, {"hi": "भय", "en": "Fear"}],
-            "answer": {"hi": "दुख", "en": "Sadness"}
+            "q": {
+              "hi": "खिलौनों को रंगने के लिए किन रंगों का उपयोग होता है?",
+              "en": "What colors are used to paint the toys?"
+            },
+            "options": [
+              {
+                "hi": "वेजीटेबल डाई/एनामल",
+                "en": "Vegetable dyes/enamel"
+              },
+              {
+                "hi": "पानी के रंग",
+                "en": "Water colors"
+              },
+              {
+                "hi": "मिट्टी के रंग",
+                "en": "Clay colors"
+              },
+              {
+                "hi": "कोई नहीं",
+                "en": "None"
+              }
+            ],
+            "answer": {
+              "hi": "वेजीटेबल डाई/एनामल",
+              "en": "Vegetable dyes/enamel"
+            }
           },
           {
-            "q": {"hi": "कहानी का लेखक कौन है?", "en": "Who is the author of the story?"},
-            "options": [{"hi": "टैगोर", "en": "Tagore"}, {"hi": "प्रेमचंद", "en": "Premchand"}, {"hi": "रस्किन बॉन्ड", "en": "Ruskin Bond"}, {"hi": "शेक्सपियर", "en": "Shakespeare"}],
-            "answer": {"hi": "टैगोर", "en": "Tagore"}
+            "q": {
+              "hi": "खिलौने किन चीजों पर आधारित होते हैं?",
+              "en": "What are the toys based on?"
+            },
+            "options": [
+              {
+                "hi": "लोक कथाएँ और ग्रामीण जीवन",
+                "en": "Folk stories and rural life"
+              },
+              {
+                "hi": "सिर्फ भगवान",
+                "en": "Only God"
+              },
+              {
+                "hi": "तकनीक",
+                "en": "Technology"
+              },
+              {
+                "hi": "पैसे",
+                "en": "Money"
+              }
+            ],
+            "answer": {
+              "hi": "लोक कथाएँ और ग्रामीण जीवन",
+              "en": "Folk stories and rural life"
+            }
           },
           {
-            "q": {"hi": "क्या मिनी बड़ी हो गई थी?", "en": "Had Mini grown up?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "थोड़ी", "en": "A little"}, {"hi": "शायद", "en": "Maybe"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "खिलौने बनाने के लिए लकड़ी कैसी होती है?",
+              "en": "What kind of wood is used for toys?"
+            },
+            "options": [
+              {
+                "hi": "मुलायम (soft)",
+                "en": "Soft wood"
+              },
+              {
+                "hi": "कठोर",
+                "en": "Hard wood"
+              },
+              {
+                "hi": "सूखी",
+                "en": "Dry"
+              },
+              {
+                "hi": "गीली",
+                "en": "Wet"
+              }
+            ],
+            "answer": {
+              "hi": "मुलायम (soft)",
+              "en": "Soft wood"
+            }
           },
           {
-            "q": {"hi": "पिता ने काबुलीवाला को अपनी बेटी से क्यों मिलने भेजा?", "en": "Why did the father send Kabuliwala to meet his daughter?"},
-            "options": [{"hi": "उन्हें खुश करने के लिए", "en": "To make them happy"}, {"hi": "सजा के लिए", "en": "For punishment"}, {"hi": "काम के लिए", "en": "For work"}, {"hi": "कह नहीं सकते", "en": "Cannot say"}],
-            "answer": {"hi": "उन्हें खुश करने के लिए", "en": "To make them happy"}
+            "q": {
+              "hi": "क्या खिलौने ग्रामीण जीवन दर्शाते हैं?",
+              "en": "Do the toys depict rural life?"
+            },
+            "options": [
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "क्या कहानी एक सुखद अंत के साथ खत्म हुई?", "en": "Did the story end with a happy note?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "कुछ नहीं", "en": "Nothing"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "खिलौनों का निर्माण कहाँ होता है?",
+              "en": "Where are the toys made?"
+            },
+            "options": [
+              {
+                "hi": "कोंडापल्ली गांव",
+                "en": "Kondapalli village"
+              },
+              {
+                "hi": "शहर",
+                "en": "City"
+              },
+              {
+                "hi": "मंदिर",
+                "en": "Temple"
+              },
+              {
+                "hi": "बाजार",
+                "en": "Market"
+              }
+            ],
+            "answer": {
+              "hi": "कोंडापल्ली गांव",
+              "en": "Kondapalli village"
+            }
           }
         ],
         "section4": [
           {
-            "q": {"hi": "मिठाई का डिब्बा किसने दिया?", "en": "Who gave the sweet box?"},
-            "options": [{"hi": "पिताजी", "en": "Father"}, {"hi": "काबुलीवाला", "en": "Kabuliwala"}, {"hi": "माँ", "en": "Mother"}, {"hi": "भाई", "en": "Brother"}],
-            "answer": {"hi": "काबुलीवाला", "en": "Kabuliwala"}
+            "q": {
+              "hi": "शिक्षक ने कार्यक्रम के लिए क्या कहा?",
+              "en": "What did the teacher ask about the programme?"
+            },
+            "options": [
+              {
+                "hi": "क्या आप तैयार हैं?",
+                "en": "Are you ready?"
+              },
+              {
+                "hi": "क्या आप थक गए हैं?",
+                "en": "Are you tired?"
+              },
+              {
+                "hi": "क्या आप खेलेंगे?",
+                "en": "Will you play?"
+              },
+              {
+                "hi": "क्या आप घर जाएंगे?",
+                "en": "Will you go home?"
+              }
+            ],
+            "answer": {
+              "hi": "क्या आप तैयार हैं?",
+              "en": "Are you ready?"
+            }
           },
           {
-            "q": {"hi": "शादी का खाना कैसा था?", "en": "How was the wedding feast?"},
-            "options": [{"hi": "स्वादिष्ट", "en": "Delicious"}, {"hi": "खराब", "en": "Bad"}, {"hi": "ठंडा", "en": "Cold"}, {"hi": "कोई नहीं", "en": "None"}],
-            "answer": {"hi": "स्वादिष्ट", "en": "Delicious"}
+            "q": {
+              "hi": "वीडियो कहाँ चल रहा था?",
+              "en": "Where was the video playing?"
+            },
+            "options": [
+              {
+                "hi": "बड़ी स्क्रीन पर",
+                "en": "On the big screen"
+              },
+              {
+                "hi": "फोन पर",
+                "en": "On phone"
+              },
+              {
+                "hi": "किताब में",
+                "en": "In book"
+              },
+              {
+                "hi": "दीवार पर",
+                "en": "On wall"
+              }
+            ],
+            "answer": {
+              "hi": "बड़ी स्क्रीन पर",
+              "en": "On the big screen"
+            }
           },
           {
-            "q": {"hi": "काबुलीवाला के पास क्या था?", "en": "What did Kabuliwala have?"},
-            "options": [{"hi": "फोटो", "en": "Photo"}, {"hi": "खिलौना", "en": "Toy"}, {"hi": "किताब", "en": "Book"}, {"hi": "पेन", "en": "Pen"}],
-            "answer": {"hi": "फोटो", "en": "Photo"}
+            "q": {
+              "hi": "भारत की एकता कैसी है?",
+              "en": "What is India's unity?"
+            },
+            "options": [
+              {
+                "hi": "विविधतापूर्ण",
+                "en": "Diversity"
+              },
+              {
+                "hi": "कमजोर",
+                "en": "Weak"
+              },
+              {
+                "hi": "सरल",
+                "en": "Simple"
+              },
+              {
+                "hi": "कोई नहीं",
+                "en": "None"
+              }
+            ],
+            "answer": {
+              "hi": "विविधतापूर्ण",
+              "en": "Diversity"
+            }
           },
           {
-            "q": {"hi": "क्या मिनी अब भी बातूनी थी?", "en": "Was Mini still talkative?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
-            "answer": {"hi": "नहीं", "en": "No"}
+            "q": {
+              "hi": "छात्रों ने एक साथ क्या उत्तर दिया?",
+              "en": "What did the students answer together?"
+            },
+            "options": [
+              {
+                "hi": "एक भारत, श्रेष्ठ भारत",
+                "en": "Ek Bharat, Shreshtha Bharat"
+              },
+              {
+                "hi": "नमस्ते",
+                "en": "Namaste"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              }
+            ],
+            "answer": {
+              "hi": "एक भारत, श्रेष्ठ भारत",
+              "en": "Ek Bharat, Shreshtha Bharat"
+            }
           },
           {
-            "q": {"hi": "काबुलीवाला को क्या याद आया?", "en": "What did Kabuliwala remember?"},
-            "options": [{"hi": "अपनी बेटी", "en": "His daughter"}, {"hi": "घर", "en": "Home"}, {"hi": "रास्ता", "en": "Path"}, {"hi": "खाना", "en": "Food"}],
-            "answer": {"hi": "अपनी बेटी", "en": "His daughter"}
+            "q": {
+              "hi": "क्या हर बच्चा वीडियो में खुश था?",
+              "en": "Was every child in the video happy?"
+            },
+            "options": [
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "क्या पिता को काबुलीवाला पर दया आई?", "en": "Did the father feel pity for Kabuliwala?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "कह नहीं सकते", "en": "Cannot say"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "क्या बच्चे सवालों के जवाब देने के लिए उत्साहित थे?",
+              "en": "Were children excited to answer?"
+            },
+            "options": [
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "काबुलीवाला का मुख्य गुण क्या था?", "en": "What was the main quality of Kabuliwala?"},
-            "options": [{"hi": "क्रोध", "en": "Anger"}, {"hi": "प्यार/सहानुभूति", "en": "Love/Empathy"}, {"hi": "लालच", "en": "Greed"}, {"hi": "डर", "en": "Fear"}],
-            "answer": {"hi": "प्यार/सहानुभूति", "en": "Love/Empathy"}
+            "q": {
+              "hi": "क्या भारत अद्भुत देश है?",
+              "en": "Is India a wonderful country?"
+            },
+            "options": [
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "मिनी के विवाह का समय कैसा था?", "en": "How was the time of Mini's wedding?"},
-            "options": [{"hi": "उदास", "en": "Sad"}, {"hi": "खुशनुमा", "en": "Happy"}, {"hi": "अंधेरा", "en": "Dark"}, {"hi": "शोर", "en": "Noisy"}],
-            "answer": {"hi": "खुशनुमा", "en": "Happy"}
+            "q": {
+              "hi": "क्या बच्चों के पास साझा करने के लिए कुछ था?",
+              "en": "Did children have something to share?"
+            },
+            "options": [
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "क्या काबुलीवाला को मिनी की याद आती थी?", "en": "Did Kabuliwala miss Mini?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "क्या कक्षा का माहौल खुशहाल था?",
+              "en": "Was the class environment happy?"
+            },
+            "options": [
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "लेखक ने अपनी बेटी के लिए क्या कामना की?", "en": "What did the author wish for his daughter?"},
-            "options": [{"hi": "खुशी", "en": "Happiness"}, {"hi": "पैसा", "en": "Money"}, {"hi": "पढ़ाई", "en": "Studies"}, {"hi": "कुछ नहीं", "en": "Nothing"}],
-            "answer": {"hi": "खुशी", "en": "Happiness"}
+            "q": {
+              "hi": "क्या भारत में बहुत सारी लोक कलाएँ हैं?",
+              "en": "Does India have many folk arts?"
+            },
+            "options": [
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           }
         ],
         "section5": [
           {
-            "q": {"hi": "लेखक ने उपन्यास का कौन सा अध्याय लिखा था?", "en": "Which chapter of the novel did the author write?"},
-            "options": [{"hi": "16वां", "en": "16th"}, {"hi": "17वां", "en": "17th"}, {"hi": "18वां", "en": "18th"}, {"hi": "19वां", "en": "19th"}],
-            "answer": {"hi": "17वां", "en": "17th"}
+            "q": {
+              "hi": "क्या हम विभिन्न राज्यों की संस्कृति के बारे में जान सकते हैं?",
+              "en": "Can we learn about cultures of different states?"
+            },
+            "options": [
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "काबुलीवाला के सामान में क्या था?", "en": "What did the Kabuliwala have in his wares?"},
-            "options": [{"hi": "मेवे", "en": "Dry fruits"}, {"hi": "खिलौने", "en": "Toys"}, {"hi": "किताबें", "en": "Books"}, {"hi": "पेन", "en": "Pen"}],
-            "answer": {"hi": "मेवे", "en": "Dry fruits"}
+            "q": {
+              "hi": "क्या भारत की संस्कृति पुरानी है?",
+              "en": "Is India's culture ancient?"
+            },
+            "options": [
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "क्या काबुलीवाला एक अच्छा इंसान था?", "en": "Was Kabuliwala a good person?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "पता नहीं", "en": "Don't know"}, {"hi": "शायद", "en": "Maybe"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "क्या कोंडापल्ली खिलौने रंगीन होते हैं?",
+              "en": "Are Kondapalli toys colorful?"
+            },
+            "options": [
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "मिनी के पिता क्या करते थे?", "en": "What did Mini's father do?"},
-            "options": [{"hi": "शिक्षक", "en": "Teacher"}, {"hi": "लेखक", "en": "Author"}, {"hi": "डॉक्टर", "en": "Doctor"}, {"hi": "इंजीनियर", "en": "Engineer"}],
-            "answer": {"hi": "लेखक", "en": "Author"}
+            "q": {
+              "hi": "क्या नारियल खोल से आभूषण बनते हैं?",
+              "en": "Can jewellery be made from coconut shell?"
+            },
+            "options": [
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "मिनी और काबुलीवाला की दोस्ती का क्या नाम दिया जा सकता है?", "en": "What name can be given to the friendship of Mini and Kabuliwala?"},
-            "options": [{"hi": "अनमोल (Precious)", "en": "Precious"}, {"hi": "साधारण", "en": "Simple"}, {"hi": "बोरियत", "en": "Boredom"}, {"hi": "लड़ाई", "en": "Fight"}],
-            "answer": {"hi": "अनमोल", "en": "Precious"}
+            "q": {
+              "hi": "क्या ऐपन बनाने के लिए चावल का आटा उपयोग होता है?",
+              "en": "Is rice flour used to make Aipan?"
+            },
+            "options": [
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "क्या मिनी ने काबुलीवाला को पहचाना?", "en": "Did Mini recognize the Kabuliwala?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
-            "answer": {"hi": "नहीं", "en": "No"}
+            "q": {
+              "hi": "क्या कोंडापल्ली खिलौने लोक कथाओं पर आधारित हैं?",
+              "en": "Are Kondapalli toys based on folk stories?"
+            },
+            "options": [
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "लेखक की बेटी के पिता ने क्या महसूस किया?", "en": "What did the father of Mini feel?"},
-            "options": [{"hi": "दुख", "en": "Sadness"}, {"hi": "खुशी", "en": "Happiness"}, {"hi": "डर", "en": "Fear"}, {"hi": "क्रोध", "en": "Anger"}],
-            "answer": {"hi": "दुख", "en": "Sadness"}
+            "q": {
+              "hi": "क्या भारत में बहुत से त्यौहार हैं?",
+              "en": "Does India have many festivals?"
+            },
+            "options": [
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "कहानी का सार क्या है?", "en": "What is the essence of the story?"},
-            "options": [{"hi": "पिता का प्रेम", "en": "Father's love"}, {"hi": "दोस्ती", "en": "Friendship"}, {"hi": "अजनबी से रिश्ता", "en": "Bond with a stranger"}, {"hi": "सभी", "en": "All"}],
-            "answer": {"hi": "सभी", "en": "All"}
+            "q": {
+              "hi": "क्या 'Ek Bharat, Shreshtha Bharat' का अर्थ एकता है?",
+              "en": "Does 'Ek Bharat, Shreshtha Bharat' imply unity?"
+            },
+            "options": [
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "क्या लेखक काबुलीवाला के प्रति सहानुभूति रखते थे?", "en": "Did the author feel empathy for the Kabuliwala?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "कह नहीं सकते", "en": "Cannot say"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "क्या कोंडापल्ली गांव आंध्र प्रदेश में है?",
+              "en": "Is Kondapalli village in Andhra Pradesh?"
+            },
+            "options": [
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "इस कहानी का शीर्षक क्या है?", "en": "What is the title of this story?"},
-            "options": [{"hi": "काबुलीवाला", "en": "Kabuliwala"}, {"hi": "मिनी", "en": "Mini"}, {"hi": "लेखक", "en": "Author"}, {"hi": "कोई नहीं", "en": "None"}],
-            "answer": {"hi": "काबुलीवाला", "en": "Kabuliwala"}
+            "q": {
+              "hi": "क्या आपको भारतीय कला पसंद है?",
+              "en": "Do you like Indian art?"
+            },
+            "options": [
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           }
         ]
       },
