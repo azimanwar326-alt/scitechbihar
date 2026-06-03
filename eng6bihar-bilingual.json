@@ -3716,265 +3716,1415 @@
           }
         ]
       },
-    "chapter07a": {
+    "chapter05b":  {
         "section1": [
           {
-            "q": {"hi": "कविता 'A Letter to Grown-Ups' किसके द्वारा लिखी गई है?", "en": "Who is the poet of the poem 'A Letter to Grown-Ups'?"},
-            "options": [{"hi": "स्टीवी ऐन वाइल्ड", "en": "Stevie Ann Wilde"}, {"hi": "रस्किन बॉन्ड", "en": "Ruskin Bond"}, {"hi": "विलियम वर्ड्सवर्थ", "en": "William Wordsworth"}, {"hi": "राबिंद्रनाथ टैगोर", "en": "Rabindranath Tagore"}],
-            "answer": {"hi": "स्टीवी ऐन वाइल्ड", "en": "Stevie Ann Wilde"}
+            "q": {
+              "hi": "बच्चे शाम को कहाँ खेलते हैं?",
+              "en": "Where do children play in the evenings?"
+            },
+            "options": [
+              {
+                "hi": "पड़ोसी के खेत में",
+                "en": "In neighbour's field"
+              },
+              {
+                "hi": "स्कूल में",
+                "en": "School"
+              },
+              {
+                "hi": "घर पर",
+                "en": "Home"
+              },
+              {
+                "hi": "सड़क पर",
+                "en": "Road"
+              }
+            ],
+            "answer": {
+              "hi": "पड़ोसी के खेत में",
+              "en": "In neighbour's field"
+            }
           },
           {
-            "q": {"hi": "बच्चे किनसे पत्र लिखकर पर्यावरण बचाने की प्रार्थना कर रहे हैं?", "en": "Whom are the children requesting to save the environment by writing a letter?"},
-            "options": [{"hi": "अपने माता-पिता से", "en": "To their parents"}, {"hi": "बड़ों से", "en": "To the grown-ups"}, {"hi": "शिक्षकों से", "en": "To the teachers"}, {"hi": "दोस्तों से", "en": "To their friends"}],
-            "answer": {"hi": "बड़ों से", "en": "To the grown-ups"}
+            "q": {
+              "hi": "बच्चे शाम को क्या खेलते हैं?",
+              "en": "What do children play in the evenings?"
+            },
+            "options": [
+              {
+                "hi": "क्रिकेट",
+                "en": "Cricket"
+              },
+              {
+                "hi": "गेंद (Ball)",
+                "en": "Ball"
+              },
+              {
+                "hi": "बैडमिंटन",
+                "en": "Badminton"
+              },
+              {
+                "hi": "लुका-छिपी",
+                "en": "Hide and seek"
+              }
+            ],
+            "answer": {
+              "hi": "गेंद (Ball)",
+              "en": "Ball"
+            }
           },
           {
-            "q": {"hi": "कविता में 'fumes' शब्द का क्या अर्थ है?", "en": "What is the meaning of the word 'fumes' in the poem?"},
-            "options": [{"hi": "फूलों की खुशबू", "en": "Scent of flowers"}, {"hi": "वाहनों से निकलने वाला धुआँ या गैस", "en": "Smoke or gas coming out from vehicles"}, {"hi": "पेड़ों की पत्तियाँ", "en": "Leaves of trees"}, {"hi": "बारिश की बूँदें", "en": "Raindrops"}],
-            "answer": {"hi": "वाहनों से निकलने वाला धुआँ या गैस", "en": "Smoke or gas coming out from vehicles"}
+            "q": {
+              "hi": "दौड़ते समय क्या होता है?",
+              "en": "What happens when they run?"
+            },
+            "options": [
+              {
+                "hi": "वे थक जाते हैं",
+                "en": "They get tired"
+              },
+              {
+                "hi": "उनकी सांस फूल जाती है",
+                "en": "They can't catch breath"
+              },
+              {
+                "hi": "वे रुक जाते हैं",
+                "en": "They stop"
+              },
+              {
+                "hi": "वे गिर जाते हैं",
+                "en": "They fall"
+              }
+            ],
+            "answer": {
+              "hi": "उनकी सांस फूल जाती है",
+              "en": "They can't catch breath"
+            }
           },
           {
-            "q": {"hi": "बच्चे क्या न काटने की अपील कर रहे हैं?", "en": "What do the children ask not to cut down?"},
-            "options": [{"hi": "घास", "en": "Grass"}, {"hi": "पेड़", "en": "Trees"}, {"hi": "फूल", "en": "Flowers"}, {"hi": "पौधे", "en": "Plants"}],
-            "answer": {"hi": "पेड़", "en": "Trees"}
+            "q": {
+              "hi": "अंधेरा होने पर क्या होता है?",
+              "en": "What happens when it gets dark?"
+            },
+            "options": [
+              {
+                "hi": "वे घर जाते हैं",
+                "en": "They go home"
+              },
+              {
+                "hi": "वे खेलना जारी रखते हैं",
+                "en": "Continue playing"
+              },
+              {
+                "hi": "वे सोते हैं",
+                "en": "Sleep"
+              },
+              {
+                "hi": "बारिश होती है",
+                "en": "Rain"
+              }
+            ],
+            "answer": {
+              "hi": "वे घर जाते हैं",
+              "en": "They go home"
+            }
           },
           {
-            "q": {"hi": "हमें पेड़ों की आवश्यकता क्यों है?", "en": "Why do we need trees?"},
-            "options": [{"hi": "लकड़ी के लिए", "en": "For wood"}, {"hi": "छाया के लिए", "en": "For shade"}, {"hi": "ताजी हवा बनाने के लिए", "en": "To make fresh air"}, {"hi": "सजावट के लिए", "en": "For decoration"}],
-            "answer": {"hi": "ताजी हवा बनाने के लिए", "en": "To make fresh air"}
+            "q": {
+              "hi": "घास पैरों को क्या करती है?",
+              "en": "What does the grass do to their feet?"
+            },
+            "options": [
+              {
+                "hi": "ठंडा करती है",
+                "en": "Cools"
+              },
+              {
+                "hi": "दर्द देती है (Aches)",
+                "en": "Aches"
+              },
+              {
+                "hi": "गीला करती है",
+                "en": "Wets"
+              },
+              {
+                "hi": "गर्म करती है",
+                "en": "Warms"
+              }
+            ],
+            "answer": {
+              "hi": "दर्द देती है (Aches)",
+              "en": "Aches"
+            }
           },
           {
-            "q": {"hi": "फूलों का उपयोग किस लिए किया जाता है?", "en": "What are flowers used for according to the poem?"},
-            "options": [{"hi": "मधुमक्खियों को खिलाने के लिए", "en": "To feed the bees"}, {"hi": "माला बनाने के लिए", "en": "To make garlands"}, {"hi": "इत्र बनाने के लिए", "en": "To make perfume"}, {"hi": "सजावट के लिए", "en": "For decoration"}],
-            "answer": {"hi": "मधुमक्खियों को खिलाने के लिए", "en": "To feed the bees"}
+            "q": {
+              "hi": "अंधेरा होने पर पेड़ क्या करते हैं?",
+              "en": "What do trees do when it gets dark?"
+            },
+            "options": [
+              {
+                "hi": "दूर जाते हैं",
+                "en": "Go away"
+              },
+              {
+                "hi": "पास आ जाते हैं (Creep close)",
+                "en": "Creep close"
+              },
+              {
+                "hi": "हँसते हैं",
+                "en": "Laugh"
+              },
+              {
+                "hi": "झुक जाते हैं",
+                "en": "Bend"
+              }
+            ],
+            "answer": {
+              "hi": "पास आ जाते हैं (Creep close)",
+              "en": "Creep close"
+            }
           },
           {
-            "q": {"hi": "बड़ों को हमेशा किस चीज का उपयोग नहीं करने के लिए कहा गया है?", "en": "What are grown-ups asked not to use always?"},
-            "options": [{"hi": "साइकिल", "en": "Bicycle"}, {"hi": "बस", "en": "Bus"}, {"hi": "कार", "en": "Car"}, {"hi": "ट्रेन", "en": "Train"}],
-            "answer": {"hi": "कार", "en": "Car"}
+            "q": {
+              "hi": "खेल कब खत्म होता है?",
+              "en": "When does the game end?"
+            },
+            "options": [
+              {
+                "hi": "शाम में",
+                "en": "Evening"
+              },
+              {
+                "hi": "रात होने पर (Game's over)",
+                "en": "Game's over"
+              },
+              {
+                "hi": "दोपहर में",
+                "en": "Afternoon"
+              },
+              {
+                "hi": "सुबह",
+                "en": "Morning"
+              }
+            ],
+            "answer": {
+              "hi": "रात होने पर (Game's over)",
+              "en": "Game's over"
+            }
           },
           {
-            "q": {"hi": "कार का अत्यधिक उपयोग पर्यावरण को कैसे प्रभावित करता है?", "en": "How does using cars too much affect the atmosphere?"},
-            "options": [{"hi": "ठंडा करता है", "en": "It cools it down"}, {"hi": "गर्म करता है", "en": "It heats the atmosphere"}, {"hi": "साफ करता है", "en": "It cleans it"}, {"hi": "कुछ नहीं करता", "en": "Nothing happens"}],
-            "answer": {"hi": "गर्म करता है", "en": "It heats the atmosphere"}
+            "q": {
+              "hi": "रात में अंततः कौन जीतता है?",
+              "en": "Who wins at night?"
+            },
+            "options": [
+              {
+                "hi": "मैदान",
+                "en": "Field"
+              },
+              {
+                "hi": "गेंद",
+                "en": "Ball"
+              },
+              {
+                "hi": "रात (Night wins)",
+                "en": "Night wins"
+              },
+              {
+                "hi": "बच्चे",
+                "en": "Children"
+              }
+            ],
+            "answer": {
+              "hi": "रात (Night wins)",
+              "en": "Night wins"
+            }
           },
           {
-            "q": {"hi": "यदि पर्यावरण गर्म हो जाता है, तो अंत में क्या होगा?", "en": "If the sun becomes too hot, what will happen to the plants?"},
-            "options": [{"hi": "वे तेजी से बढ़ेंगे", "en": "They will grow fast"}, {"hi": "वे मर जाएंगे", "en": "They will die"}, {"hi": "वे रंग बदल लेंगे", "en": "They will change color"}, {"hi": "वे सुरक्षित रहेंगे", "en": "They will remain safe"}],
-            "answer": {"hi": "वे मर जाएंगे", "en": "They will die"}
+            "q": {
+              "hi": "कवयित्री का नाम क्या है?",
+              "en": "Who is the poet of the poem?"
+            },
+            "options": [
+              {
+                "hi": "जॉर्जिया हर्ड",
+                "en": "Georgia Heard"
+              },
+              {
+                "hi": "डैफने लिस्टर",
+                "en": "Daphne Lister"
+              },
+              {
+                "hi": "सुधा मूर्ति",
+                "en": "Sudha Murty"
+              },
+              {
+                "hi": "कोई नहीं",
+                "en": "None"
+              }
+            ],
+            "answer": {
+              "hi": "डैफने लिस्टर",
+              "en": "Daphne Lister"
+            }
           },
           {
-            "q": {"hi": "कविता के अनुसार, बड़ों को क्या करने के लिए प्रोत्साहित किया गया है?", "en": "What are the grown-ups encouraged to do in the poem?"},
-            "options": [{"hi": "सोने के लिए", "en": "To sleep"}, {"hi": "ज्यादा पैदल चलने के लिए", "en": "To walk a lot"}, {"hi": "टीवी देखने के लिए", "en": "To watch TV"}, {"hi": "गाड़ी चलाने के लिए", "en": "To drive"}],
-            "answer": {"hi": "ज्यादा पैदल चलने के लिए", "en": "To walk a lot"}
+            "q": {
+              "hi": "कविता में किस चीज का वर्णन है?",
+              "en": "What does the poem describe?"
+            },
+            "options": [
+              {
+                "hi": "शाम के खेल",
+                "en": "Evening games"
+              },
+              {
+                "hi": "सुबह की सैर",
+                "en": "Morning walk"
+              },
+              {
+                "hi": "घर",
+                "en": "Home"
+              },
+              {
+                "hi": "स्कूल",
+                "en": "School"
+              }
+            ],
+            "answer": {
+              "hi": "शाम के खेल",
+              "en": "Evening games"
+            }
           }
         ],
         "section2": [
           {
-            "q": {"hi": "आसमान का रंग कैसा बताया गया है?", "en": "What is the color of the sky mentioned in the poem?"},
-            "options": [{"hi": "काला", "en": "Black"}, {"hi": "लाल", "en": "Red"}, {"hi": "नीला", "en": "Blue"}, {"hi": "सफेद", "en": "White"}],
-            "answer": {"hi": "नीला", "en": "Blue"}
+            "q": {
+              "hi": "पतंगें कहाँ उड़ रही हैं?",
+              "en": "Where are the kites flying?"
+            },
+            "options": [
+              {
+                "hi": "आसमान में (Up in the air)",
+                "en": "Up in the air"
+              },
+              {
+                "hi": "पेड़ पर",
+                "en": "On tree"
+              },
+              {
+                "hi": "घर पर",
+                "en": "At home"
+              },
+              {
+                "hi": "पानी में",
+                "en": "In water"
+              }
+            ],
+            "answer": {
+              "hi": "आसमान में (Up in the air)",
+              "en": "Up in the air"
+            }
           },
           {
-            "q": {"hi": "बच्चों को क्या करने में खुशी मिलेगी?", "en": "What will the children be able to do happily?"},
-            "options": [{"hi": "पढ़ना और लिखना", "en": "Read and write"}, {"hi": "दौड़ना, कूदना और खेलना", "en": "Run, jump and play"}, {"hi": "सोना", "en": "Sleep"}, {"hi": "काम करना", "en": "Work"}],
-            "answer": {"hi": "दौड़ना, कूदना और खेलना", "en": "Run, jump and play"}
+            "q": {
+              "hi": "पतंगें किसके समान उड़ रही हैं?",
+              "en": "Kites are flying like what?"
+            },
+            "options": [
+              {
+                "hi": "रंगीन पक्षी (coloured birds)",
+                "en": "Coloured birds"
+              },
+              {
+                "hi": "हवाई जहाज",
+                "en": "Aeroplane"
+              },
+              {
+                "hi": "बादल",
+                "en": "Clouds"
+              },
+              {
+                "hi": "फूल",
+                "en": "Flowers"
+              }
+            ],
+            "answer": {
+              "hi": "रंगीन पक्षी (coloured birds)",
+              "en": "Coloured birds"
+            }
           },
           {
-            "q": {"hi": "बच्चे कैसे बड़े होंगे?", "en": "How will the children grow up?"},
-            "options": [{"hi": "कमजोर और छोटे", "en": "Weak and short"}, {"hi": "मजबूत और लंबे", "en": "Strong and tall"}, {"hi": "मोटा", "en": "Fat"}, {"hi": "बीमार", "en": "Sick"}],
-            "answer": {"hi": "मजबूत और लंबे", "en": "Strong and tall"}
+            "q": {
+              "hi": "कवयित्री क्या बनना चाहती है?",
+              "en": "What does the poet wish to be?"
+            },
+            "options": [
+              {
+                "hi": "पक्षी",
+                "en": "Bird"
+              },
+              {
+                "hi": "छोटी और हल्की (small and light)",
+                "en": "Small and light as air"
+              },
+              {
+                "hi": "पेड़",
+                "en": "Tree"
+              },
+              {
+                "hi": "गेंद",
+                "en": "Ball"
+              }
+            ],
+            "answer": {
+              "hi": "छोटी और हल्की (small and light)",
+              "en": "Small and light as air"
+            }
           },
           {
-            "q": {"hi": "अंत में, बच्चे बड़ों को क्या करेंगे?", "en": "What will the children do to the grown-ups in the end?"},
-            "options": [{"hi": "नाराज होंगे", "en": "Will be angry"}, {"hi": "धन्यवाद देंगे", "en": "Will thank them"}, {"hi": "भूल जाएंगे", "en": "Will forget"}, {"hi": "शिकायत करेंगे", "en": "Will complain"}],
-            "answer": {"hi": "धन्यवाद देंगे", "en": "Will thank them"}
+            "q": {
+              "hi": "कवयित्री किस पर चढ़ना चाहती है?",
+              "en": "What does the poet want to climb on?"
+            },
+            "options": [
+              {
+                "hi": "पतंग (kite)",
+                "en": "A kite"
+              },
+              {
+                "hi": "पेड़",
+                "en": "Tree"
+              },
+              {
+                "hi": "घर",
+                "en": "House"
+              },
+              {
+                "hi": "पहाड़",
+                "en": "Mountain"
+              }
+            ],
+            "answer": {
+              "hi": "पतंग (kite)",
+              "en": "A kite"
+            }
           },
           {
-            "q": {"hi": "पत्र किसके द्वारा भेजा गया है?", "en": "Who sent the letter?"},
-            "options": [{"hi": "पेड़ों द्वारा", "en": "By trees"}, {"hi": "बच्चों द्वारा", "en": "By children"}, {"hi": "जानवरों द्वारा", "en": "By animals"}, {"hi": "शिक्षकों द्वारा", "en": "By teachers"}],
-            "answer": {"hi": "बच्चों द्वारा", "en": "By children"}
+            "q": {
+              "hi": "हवा के पंख किसके हैं?",
+              "en": "What has paper wings?"
+            },
+            "options": [
+              {
+                "hi": "पक्षी",
+                "en": "Bird"
+              },
+              {
+                "hi": "पतंग (Kite)",
+                "en": "Kite"
+              },
+              {
+                "hi": "हवाई जहाज",
+                "en": "Aeroplane"
+              },
+              {
+                "hi": "बादल",
+                "en": "Cloud"
+              }
+            ],
+            "answer": {
+              "hi": "पतंग (Kite)",
+              "en": "Kite"
+            }
           },
           {
-            "q": {"hi": "कविता का मुख्य उद्देश्य क्या है?", "en": "What is the main purpose of the poem?"},
-            "options": [{"hi": "पेड़ काटना", "en": "Cutting trees"}, {"hi": "पर्यावरण बचाना", "en": "Saving the environment"}, {"hi": "कार का उपयोग करना", "en": "Using cars"}, {"hi": "प्रदूषण बढ़ाना", "en": "Increasing pollution"}],
-            "answer": {"hi": "पर्यावरण बचाना", "en": "Saving the environment"}
+            "q": {
+              "hi": "पतंग पर उड़ते हुए वह क्या सुनती है?",
+              "en": "What does she hear while sailing on a kite?"
+            },
+            "options": [
+              {
+                "hi": "हवा के गीत (songs of wild wind)",
+                "en": "Songs of wild wind"
+              },
+              {
+                "hi": "लोगों की बातें",
+                "en": "People talking"
+              },
+              {
+                "hi": "गाना",
+                "en": "Song"
+              },
+              {
+                "hi": "शोर",
+                "en": "Noise"
+              }
+            ],
+            "answer": {
+              "hi": "हवा के गीत (songs of wild wind)",
+              "en": "Songs of wild wind"
+            }
           },
           {
-            "q": {"hi": "कविता के अनुसार, फूलों को कहाँ छोड़ देना चाहिए?", "en": "According to the poem, where should the flowers be left?"},
-            "options": [{"hi": "घर पर", "en": "At home"}, {"hi": "वहाँ जहाँ वे हैं", "en": "There where they are"}, {"hi": "बाजार में", "en": "In the market"}, {"hi": "स्कूल में", "en": "In school"}],
-            "answer": {"hi": "वहाँ जहाँ वे हैं", "en": "There where they are"}
+            "q": {
+              "hi": "पतंग से नीचे देखने पर क्या दिखता है?",
+              "en": "What is visible looking down from the kite?"
+            },
+            "options": [
+              {
+                "hi": "पार्क और छतें",
+                "en": "Park and rooftops"
+              },
+              {
+                "hi": "जंगल",
+                "en": "Forest"
+              },
+              {
+                "hi": "नदी",
+                "en": "River"
+              },
+              {
+                "hi": "समुद्र",
+                "en": "Sea"
+              }
+            ],
+            "answer": {
+              "hi": "पार्क और छतें",
+              "en": "Park and rooftops"
+            }
           },
           {
-            "q": {"hi": "कविता में किस चीज की कमी से हवा खराब होती है?", "en": "Lack of what makes the air bad?"},
-            "options": [{"hi": "कार", "en": "Cars"}, {"hi": "पेड़", "en": "Trees"}, {"hi": "पानी", "en": "Water"}, {"hi": "सूरज", "en": "Sun"}],
-            "answer": {"hi": "पेड़", "en": "Trees"}
+            "q": {
+              "hi": "नीचे खड़े लोग क्या करते हैं?",
+              "en": "What do the people below do?"
+            },
+            "options": [
+              {
+                "hi": "देखते हैं (stare)",
+                "en": "Stand and stare"
+              },
+              {
+                "hi": "खेलते हैं",
+                "en": "Play"
+              },
+              {
+                "hi": "सोते हैं",
+                "en": "Sleep"
+              },
+              {
+                "hi": "दौड़ते हैं",
+                "en": "Run"
+              }
+            ],
+            "answer": {
+              "hi": "देखते हैं (stare)",
+              "en": "Stand and stare"
+            }
           },
           {
-            "q": {"hi": "कविता में 'feed' का क्या अर्थ है?", "en": "What is the meaning of 'feed' in the poem?"},
-            "options": [{"hi": "खाना खिलाना", "en": "To give food"}, {"hi": "पानी देना", "en": "To give water"}, {"hi": "खेलना", "en": "To play"}, {"hi": "पढ़ना", "en": "To read"}],
-            "answer": {"hi": "खाना खिलाना", "en": "To give food"}
+            "q": {
+              "hi": "लोग क्या चाहते हैं?",
+              "en": "What do people wish for?"
+            },
+            "options": [
+              {
+                "hi": "पतंग बनना",
+                "en": "To be a kite"
+              },
+              {
+                "hi": "कवयित्री बनना",
+                "en": "To be her/like her"
+              },
+              {
+                "hi": "पक्षी बनना",
+                "en": "To be a bird"
+              },
+              {
+                "hi": "कुछ नहीं",
+                "en": "None"
+              }
+            ],
+            "answer": {
+              "hi": "कवयित्री बनना",
+              "en": "To be her/like her"
+            }
           },
           {
-            "q": {"hi": "बच्चे खुश कब रहेंगे?", "en": "When will the children be happy?"},
-            "options": [{"hi": "कार में बैठकर", "en": "Sitting in a car"}, {"hi": "रोजाना", "en": "Everyday"}, {"hi": "कभी नहीं", "en": "Never"}, {"hi": "रात में", "en": "At night"}],
-            "answer": {"hi": "रोजाना", "en": "Everyday"}
+            "q": {
+              "hi": "क्या पतंग ऊँची उड़ती है?",
+              "en": "Does the kite fly high?"
+            },
+            "options": [
+              {
+                "hi": "हाँ (High, high)",
+                "en": "Yes (High, high)"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ (High, high)",
+              "en": "Yes (High, high)"
+            }
           }
         ],
         "section3": [
           {
-            "q": {"hi": "क्या बच्चों के पास स्वच्छ पर्यावरण में रहने का अधिकार है?", "en": "Do children have the right to live in a clean environment?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "'Creep' का क्या अर्थ है?",
+              "en": "What is the meaning of 'Creep'?"
+            },
+            "options": [
+              {
+                "hi": "तेजी से चलना",
+                "en": "Move fast"
+              },
+              {
+                "hi": "धीरे-धीरे चलना",
+                "en": "Move slowly"
+              },
+              {
+                "hi": "उड़ना",
+                "en": "Fly"
+              },
+              {
+                "hi": "सोना",
+                "en": "Sleep"
+              }
+            ],
+            "answer": {
+              "hi": "धीरे-धीरे चलना",
+              "en": "Move slowly"
+            }
           },
           {
-            "q": {"hi": "धुआँ और गैस कहाँ जाते हैं?", "en": "Where do the fumes go?"},
-            "options": [{"hi": "जमीन में", "en": "Into the ground"}, {"hi": "बहुत दूर", "en": "Very far"}, {"hi": "पानी में", "en": "In water"}, {"hi": "नहीं जाते", "en": "They don't go"}],
-            "answer": {"hi": "बहुत दूर", "en": "Very far"}
+            "q": {
+              "hi": "'Aches' का क्या अर्थ है?",
+              "en": "What is the meaning of 'Aches'?"
+            },
+            "options": [
+              {
+                "hi": "खुजली",
+                "en": "Itching"
+              },
+              {
+                "hi": "दर्द (pain)",
+                "en": "Pain"
+              },
+              {
+                "hi": "ठंड",
+                "en": "Cold"
+              },
+              {
+                "hi": "गरमी",
+                "en": "Heat"
+              }
+            ],
+            "answer": {
+              "hi": "दर्द (pain)",
+              "en": "Pain"
+            }
           },
           {
-            "q": {"hi": "क्या कविता में बड़ों को फटकारा गया है?", "en": "Are the grown-ups scolded in the poem?"},
-            "options": [{"hi": "नहीं, यह एक विनम्र निवेदन है", "en": "No, it's a polite request"}, {"hi": "हाँ, वे नाराज हैं", "en": "Yes, they are angry"}],
-            "answer": {"hi": "नहीं, यह एक विनम्र निवेदन है", "en": "No, it's a polite request"}
+            "q": {
+              "hi": "'Creek' क्या है?",
+              "en": "What is a 'Creek'?"
+            },
+            "options": [
+              {
+                "hi": "नदी/नाला (small stream)",
+                "en": "Small stream"
+              },
+              {
+                "hi": "पहाड़",
+                "en": "Mountain"
+              },
+              {
+                "hi": "पेड़",
+                "en": "Tree"
+              },
+              {
+                "hi": "घर",
+                "en": "House"
+              }
+            ],
+            "answer": {
+              "hi": "नदी/नाला (small stream)",
+              "en": "Small stream"
+            }
           },
           {
-            "q": {"hi": "पेड़ ताजी हवा बनाने के लिए क्या करते हैं?", "en": "What do trees do to make fresh air?"},
-            "options": [{"hi": "ऑक्सीजन देते हैं", "en": "Provide oxygen"}, {"hi": "प्रदूषण फैलाते हैं", "en": "Spread pollution"}, {"hi": "गर्मी बढ़ाते हैं", "en": "Increase heat"}],
-            "answer": {"hi": "ऑक्सीजन देते हैं", "en": "Provide oxygen"}
+            "q": {
+              "hi": "क्या घास बच्चों के पैरों को ठंडा करती है?",
+              "en": "Does the grass cool the feet?"
+            },
+            "options": [
+              {
+                "hi": "नहीं, दर्द देती है",
+                "en": "No (aches)"
+              },
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "नहीं, दर्द देती है",
+              "en": "No (aches)"
+            }
           },
           {
-            "q": {"hi": "कार का अत्यधिक उपयोग किसे गर्म करता है?", "en": "What does too much car usage heat up?"},
-            "options": [{"hi": "धरती", "en": "Earth"}, {"hi": "वातावरण", "en": "Atmosphere"}, {"hi": "पानी", "en": "Water"}],
-            "answer": {"hi": "वातावरण", "en": "Atmosphere"}
+            "q": {
+              "hi": "कविता किस समय के बारे में है?",
+              "en": "What time is the poem about?"
+            },
+            "options": [
+              {
+                "hi": "दोपहर",
+                "en": "Afternoon"
+              },
+              {
+                "hi": "शाम (Evening)",
+                "en": "Evening"
+              },
+              {
+                "hi": "सुबह",
+                "en": "Morning"
+              },
+              {
+                "hi": "कोई नहीं",
+                "en": "None"
+              }
+            ],
+            "answer": {
+              "hi": "शाम (Evening)",
+              "en": "Evening"
+            }
           },
           {
-            "q": {"hi": "क्या बच्चों का भविष्य बड़ों के कार्यों पर निर्भर है?", "en": "Does the future of children depend on the actions of grown-ups?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "क्या रात जीतती है?",
+              "en": "Does night win?"
+            },
+            "options": [
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "कविता के अनुसार, हमें पैदल क्यों चलना चाहिए?", "en": "Why should we walk a lot according to the poem?"},
-            "options": [{"hi": "समय बचाने के लिए", "en": "To save time"}, {"hi": "प्रदूषण कम करने के लिए", "en": "To reduce pollution"}, {"hi": "खेलने के लिए", "en": "To play"}],
-            "answer": {"hi": "प्रदूषण कम करने के लिए", "en": "To reduce pollution"}
+            "q": {
+              "hi": "क्या बच्चे थक गए हैं?",
+              "en": "Are the children tired?"
+            },
+            "options": [
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "कविता में किस चीज का 'clear blue' होने का उल्लेख है?", "en": "What is mentioned as 'clear blue' in the poem?"},
-            "options": [{"hi": "फूल", "en": "Flowers"}, {"hi": "आसमान", "en": "Sky"}, {"hi": "पेड़", "en": "Trees"}],
-            "answer": {"hi": "आसमान", "en": "Sky"}
+            "q": {
+              "hi": "क्या अंधेरा डरावना है?",
+              "en": "Is the darkness scary?"
+            },
+            "options": [
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              },
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              }
+            ],
+            "answer": {
+              "hi": "नहीं",
+              "en": "No"
+            }
           },
           {
-            "q": {"hi": "क्या बच्चे इस पत्र में बड़ों से प्यार जताते हैं?", "en": "Do the children express love to the grown-ups in this letter?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "क्या कविता में शांति है?",
+              "en": "Is there peace in the poem?"
+            },
+            "options": [
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "कविता में किसका उल्लेख है जो 'too hot' हो जाएगा?", "en": "What is mentioned to become 'too hot' in the poem?"},
-            "options": [{"hi": "सूरज", "en": "Sun"}, {"hi": "कार", "en": "Car"}, {"hi": "पेड़", "en": "Trees"}],
-            "answer": {"hi": "सूरज", "en": "Sun"}
+            "q": {
+              "hi": "खेल कब खत्म होता है?",
+              "en": "When does the game end?"
+            },
+            "options": [
+              {
+                "hi": "रात में",
+                "en": "At night"
+              },
+              {
+                "hi": "शाम में",
+                "en": "In evening"
+              },
+              {
+                "hi": "सुबह",
+                "en": "In morning"
+              },
+              {
+                "hi": "दोपहर",
+                "en": "In afternoon"
+              }
+            ],
+            "answer": {
+              "hi": "रात में",
+              "en": "At night"
+            }
           }
         ],
         "section4": [
           {
-            "q": {"hi": "कविता में किस प्रकार के जानवरों का जिक्र है?", "en": "What type of animals are mentioned in the poem?"},
-            "options": [{"hi": "मधुमक्खियाँ", "en": "Bees"}, {"hi": "कुत्ते", "en": "Dogs"}, {"hi": "बिल्लियाँ", "en": "Cats"}, {"hi": "शेर", "en": "Lions"}],
-            "answer": {"hi": "मधुमक्खियाँ", "en": "Bees"}
+            "q": {
+              "hi": "कवयित्री को हवा कैसी लगती है?",
+              "en": "What does the wind feel like?"
+            },
+            "options": [
+              {
+                "hi": "तेज",
+                "en": "Fast"
+              },
+              {
+                "hi": "गीत गाती हुई",
+                "en": "Singing songs"
+              },
+              {
+                "hi": "ठंडी",
+                "en": "Cold"
+              },
+              {
+                "hi": "गर्म",
+                "en": "Hot"
+              }
+            ],
+            "answer": {
+              "hi": "गीत गाती हुई",
+              "en": "Singing songs"
+            }
           },
           {
-            "q": {"hi": "क्या बच्चे बड़े होने की प्रक्रिया के बारे में बात कर रहे हैं?", "en": "Are the children talking about the process of growing up?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "पतंग किस पंखों पर उड़ती है?",
+              "en": "Kite flies on what wings?"
+            },
+            "options": [
+              {
+                "hi": "कागज के (paper wings)",
+                "en": "Paper wings"
+              },
+              {
+                "hi": "पक्षी के",
+                "en": "Bird wings"
+              },
+              {
+                "hi": "कपड़े के",
+                "en": "Cloth wings"
+              },
+              {
+                "hi": "कोई नहीं",
+                "en": "None"
+              }
+            ],
+            "answer": {
+              "hi": "कागज के (paper wings)",
+              "en": "Paper wings"
+            }
           },
           {
-            "q": {"hi": "बड़ों को क्या छोड़ने के लिए कहा गया है?", "en": "What are grown-ups asked to leave?"},
-            "options": [{"hi": "फूल", "en": "Flowers"}, {"hi": "सड़क", "en": "Road"}, {"hi": "पैसे", "en": "Money"}],
-            "answer": {"hi": "फूल", "en": "Flowers"}
+            "q": {
+              "hi": "क्या लोग पतंग की प्रशंसा करते हैं?",
+              "en": "Do people admire the kite?"
+            },
+            "options": [
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "कविता के संदेश को समझने के लिए सबसे महत्वपूर्ण क्या है?", "en": "What is most important to understand the message of the poem?"},
-            "options": [{"hi": "पेड़ों को काटना", "en": "Cutting trees"}, {"hi": "प्रकृति की रक्षा", "en": "Protecting nature"}, {"hi": "ज्यादा कार का उपयोग", "en": "Using more cars"}],
-            "answer": {"hi": "प्रकृति की रक्षा", "en": "Protecting nature"}
+            "q": {
+              "hi": "क्या कवयित्री छोटा होना चाहती है?",
+              "en": "Does the poet wish to be small?"
+            },
+            "options": [
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "पत्र की समाप्ति पर क्या लिखा है?", "en": "What is written at the end of the letter?"},
-            "options": [{"hi": "विद लव फ्रॉम चिल्ड्रन", "en": "With love from the children"}, {"hi": "धन्यवाद", "en": "Thank you"}, {"hi": "गुड बाय", "en": "Good bye"}],
-            "answer": {"hi": "विद लव फ्रॉम चिल्ड्रन", "en": "With love from the children"}
+            "q": {
+              "hi": "क्या आकाश में पतंगें रंगीन लगती हैं?",
+              "en": "Do kites look colourful in the sky?"
+            },
+            "options": [
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "क्या 'fumes' पौधों को नुकसान पहुँचाते हैं?", "en": "Do 'fumes' harm plants?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "हवा के पंख किस चीज से बने हैं?",
+              "en": "What are the paper wings?"
+            },
+            "options": [
+              {
+                "hi": "पतंग (kite)",
+                "en": "Kite"
+              },
+              {
+                "hi": "पेड़",
+                "en": "Tree"
+              },
+              {
+                "hi": "घर",
+                "en": "House"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "पतंग (kite)",
+              "en": "Kite"
+            }
           },
           {
-            "q": {"hi": "बच्चों को क्या पसंद है?", "en": "What do children like to do?"},
-            "options": [{"hi": "दौड़ना और कूदना", "en": "Running and jumping"}, {"hi": "कार में बैठना", "en": "Sitting in car"}, {"hi": "प्रदूषण फैलाना", "en": "Polluting"}],
-            "answer": {"hi": "दौड़ना और कूदना", "en": "Running and jumping"}
+            "q": {
+              "hi": "क्या पतंग ऊँची उड़ती है?",
+              "en": "Does the kite fly high?"
+            },
+            "options": [
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "क्या कविता बच्चों की पर्यावरण के प्रति चिंता को दिखाती है?", "en": "Does the poem show children's concern for the environment?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "क्या लोग कवयित्री जैसा बनना चाहते हैं?",
+              "en": "Do people wish to be like her?"
+            },
+            "options": [
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              },
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "पेड़ काटने से क्या कम हो जाता है?", "en": "What reduces by cutting down trees?"},
-            "options": [{"hi": "ताजी हवा", "en": "Fresh air"}, {"hi": "गर्मी", "en": "Heat"}, {"hi": "प्रदूषण", "en": "Pollution"}],
-            "answer": {"hi": "ताजी हवा", "en": "Fresh air"}
+            "q": {
+              "hi": "क्या पतंग का उड़ना मजेदार है?",
+              "en": "Is kite flying fun?"
+            },
+            "options": [
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "क्या बच्चे इस पत्र के माध्यम से बड़ों को शिक्षित कर रहे हैं?", "en": "Are children educating grown-ups through this letter?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "कवयित्री को क्या पसंद है?",
+              "en": "What does the poet love?"
+            },
+            "options": [
+              {
+                "hi": "खाना",
+                "en": "Eating"
+              },
+              {
+                "hi": "पतंगें (kites)",
+                "en": "Kites"
+              },
+              {
+                "hi": "सोना",
+                "en": "Sleeping"
+              },
+              {
+                "hi": "दौड़ना",
+                "en": "Running"
+              }
+            ],
+            "answer": {
+              "hi": "पतंगें (kites)",
+              "en": "Kites"
+            }
           }
         ],
         "section5": [
           {
-            "q": {"hi": "कविता का संदेश बड़ों के लिए क्या है?", "en": "What is the message for grown-ups in the poem?"},
-            "options": [{"hi": "पर्यावरण बचाओ", "en": "Save the environment"}, {"hi": "पेड़ काटो", "en": "Cut trees"}, {"hi": "तेज गाड़ी चलाओ", "en": "Drive fast"}],
-            "answer": {"hi": "पर्यावरण बचाओ", "en": "Save the environment"}
+            "q": {
+              "hi": "क्या बच्चे तेज भागते हैं?",
+              "en": "Do children run fast?"
+            },
+            "options": [
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "सूरज के बहुत गर्म होने से क्या होगा?", "en": "What will happen if the sun is too hot?"},
-            "options": [{"hi": "पौधे मर जाएंगे", "en": "Plants will die"}, {"hi": "पौधे बड़े होंगे", "en": "Plants will grow"}, {"hi": "कुछ नहीं होगा", "en": "Nothing will happen"}],
-            "answer": {"hi": "पौधे मर जाएंगे", "en": "Plants will die"}
+            "q": {
+              "hi": "क्या कविता में आकाश का वर्णन है?",
+              "en": "Is the sky described in the poem?"
+            },
+            "options": [
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "बच्चे क्यों चाहते हैं कि पेड़ खड़े रहें?", "en": "Why do children want trees to stay standing?"},
-            "options": [{"hi": "ताजी हवा के लिए", "en": "For fresh air"}, {"hi": "फल के लिए", "en": "For fruits"}, {"hi": "लकड़ी के लिए", "en": "For wood"}],
-            "answer": {"hi": "ताजी हवा के लिए", "en": "For fresh air"}
+            "q": {
+              "hi": "क्या पतंगें पक्षियों जैसी हैं?",
+              "en": "Are kites like birds?"
+            },
+            "options": [
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "कार के धुएं से पर्यावरण कैसे गर्म होता है?", "en": "How does car fume heat the atmosphere?"},
-            "options": [{"hi": "प्रदूषण के कारण", "en": "Due to pollution"}, {"hi": "कार की आवाज से", "en": "By car sound"}, {"hi": "पानी के कारण", "en": "Due to water"}],
-            "answer": {"hi": "प्रदूषण के कारण", "en": "Due to pollution"}
+            "q": {
+              "hi": "क्या हवा तेज चलती है?",
+              "en": "Is the wind blowing fast?"
+            },
+            "options": [
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              },
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "क्या पैदल चलना पर्यावरण के लिए अच्छा है?", "en": "Is walking good for the environment?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "क्या कविता में पार्क का उल्लेख है?",
+              "en": "Is the park mentioned in the poem?"
+            },
+            "options": [
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "बच्चे खुश होने के लिए क्या करेंगे?", "en": "What will children do to be happy?"},
-            "options": [{"hi": "खेलेंगे और कूदेंगे", "en": "Play and jump"}, {"hi": "सोएंगे", "en": "Sleep"}, {"hi": "टीवी देखेंगे", "en": "Watch TV"}],
-            "answer": {"hi": "खेलेंगे और कूदेंगे", "en": "Play and jump"}
+            "q": {
+              "hi": "क्या बच्चे खुश हैं?",
+              "en": "Are the children happy?"
+            },
+            "options": [
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "क्या बच्चों का संदेश बड़ों तक पहुँच पाएगा?", "en": "Will the children's message reach the grown-ups?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "क्या कवयित्री ऊपर जाना चाहती है?",
+              "en": "Does the poet want to go up?"
+            },
+            "options": [
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "मधुमक्खियाँ फूलों पर क्यों आती हैं?", "en": "Why do bees come to flowers?"},
-            "options": [{"hi": "भोजन के लिए", "en": "For food"}, {"hi": "खेलने के लिए", "en": "To play"}, {"hi": "सोने के लिए", "en": "To sleep"}],
-            "answer": {"hi": "भोजन के लिए", "en": "For food"}
+            "q": {
+              "hi": "क्या शहर के ऊपर से नज़ारा अच्छा है?",
+              "en": "Is the view over the town good?"
+            },
+            "options": [
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "कविता में कौन-सा रंग स्पष्ट (clear) बताया गया है?", "en": "What color is mentioned as clear in the poem?"},
-            "options": [{"hi": "नीला", "en": "Blue"}, {"hi": "लाल", "en": "Red"}, {"hi": "पीला", "en": "Yellow"}],
-            "answer": {"hi": "नीला", "en": "Blue"}
+            "q": {
+              "hi": "क्या आप पतंग उड़ाना पसंद करते हैं?",
+              "en": "Do you like to fly kites?"
+            },
+            "options": [
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "क्या हमें पर्यावरण के प्रति संवेदनशील होना चाहिए?", "en": "Should we be sensitive towards the environment?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "क्या आपको कविता पसंद आई?",
+              "en": "Did you like the poem?"
+            },
+            "options": [
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           }
         ]
       },
