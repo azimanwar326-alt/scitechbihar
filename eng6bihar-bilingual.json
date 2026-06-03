@@ -5128,265 +5128,1415 @@
           }
         ]
       },
-    "chapter08": {
+    "chapter05c": {
         "section1": [
           {
-            "q": {"hi": "डॉ. ए.पी.जे. अब्दुल कलाम का जन्म कहाँ हुआ था?", "en": "Where was Dr. A.P.J. Abdul Kalam born?"},
-            "options": [{"hi": "रामेश्वरम", "en": "Rameswaram"}, {"hi": "मदुरै", "en": "Madurai"}, {"hi": "चेन्नई", "en": "Chennai"}, {"hi": "बैंगलोर", "en": "Bangalore"}],
-            "answer": {"hi": "रामेश्वरम", "en": "Rameswaram"}
+            "q": {
+              "hi": "इला सचानी कहाँ की रहने वाली थीं?",
+              "en": "Where did Ila Sachani live?"
+            },
+            "options": [
+              {
+                "hi": "बहावलपुर",
+                "en": "Bahawalpur"
+              },
+              {
+                "hi": "मोती वावड़ी, गुजरात",
+                "en": "Moti Vavdi, Gujarat"
+              },
+              {
+                "hi": "पटना",
+                "en": "Patna"
+              },
+              {
+                "hi": "दिल्ली",
+                "en": "Delhi"
+              }
+            ],
+            "answer": {
+              "hi": "मोती वावड़ी, गुजरात",
+              "en": "Moti Vavdi, Gujarat"
+            }
           },
           {
-            "q": {"hi": "कलाम के पिता का नाम क्या था?", "en": "What was the name of Kalam's father?"},
-            "options": [{"hi": "जैनुलआबदीन", "en": "Jainulabdeen"}, {"hi": "अब्दुल रहीम", "en": "Abdul Rahim"}, {"hi": "मोहम्मद", "en": "Mohammed"}, {"hi": "हसन", "en": "Hassan"}],
-            "answer": {"hi": "जैनुलआबदीन", "en": "Jainulabdeen"}
+            "q": {
+              "hi": "इला की विशेष प्रतिभा क्या थी?",
+              "en": "What was Ila's special talent?"
+            },
+            "options": [
+              {
+                "hi": "कढ़ाई (Embroidery)",
+                "en": "Embroidery"
+              },
+              {
+                "hi": "गायन",
+                "en": "Singing"
+              },
+              {
+                "hi": "दौड़ना",
+                "en": "Running"
+              },
+              {
+                "hi": "खाना बनाना",
+                "en": "Cooking"
+              }
+            ],
+            "answer": {
+              "hi": "कढ़ाई (Embroidery)",
+              "en": "Embroidery"
+            }
           },
           {
-            "q": {"hi": "कलाम की माता का नाम क्या था?", "en": "What was the name of Kalam's mother?"},
-            "options": [{"hi": "फातिमा", "en": "Fatima"}, {"hi": "आशियाम्मा", "en": "Ashiamma"}, {"hi": "ज़ैनाब", "en": "Zainab"}, {"hi": "मरियम", "en": "Mariam"}],
-            "answer": {"hi": "आशियाम्मा", "en": "Ashiamma"}
+            "q": {
+              "hi": "इला ने कढ़ाई किस अंग से की?",
+              "en": "What did Ila use to do the embroidery?"
+            },
+            "options": [
+              {
+                "hi": "पैरों से",
+                "en": "Feet"
+              },
+              {
+                "hi": "हाथों से",
+                "en": "Hands"
+              },
+              {
+                "hi": "मशीन से",
+                "en": "Machine"
+              },
+              {
+                "hi": "किसी की मदद से",
+                "en": "With someone's help"
+              }
+            ],
+            "answer": {
+              "hi": "पैरों से",
+              "en": "Feet"
+            }
           },
           {
-            "q": {"hi": "कलाम के पिता ने अंग्रेजों से क्या उपाधि प्राप्त की थी?", "en": "What title was bestowed upon one of the mother's forbears by the British?"},
-            "options": [{"hi": "नवाब", "en": "Nawab"}, {"hi": "बहादुर", "en": "Bahadur"}, {"hi": "सर", "en": "Sir"}, {"hi": "राजा", "en": "Raja"}],
-            "answer": {"hi": "बहादुर", "en": "Bahadur"}
+            "q": {
+              "hi": "इला के जन्म के समय क्या समस्या थी?",
+              "en": "What was the problem at Ila's birth?"
+            },
+            "options": [
+              {
+                "hi": "हाथ काम नहीं करते थे",
+                "en": "Hands were hanging loose"
+              },
+              {
+                "hi": "चल नहीं सकती थी",
+                "en": "Could not walk"
+              },
+              {
+                "hi": "बोल नहीं सकती थी",
+                "en": "Could not speak"
+              },
+              {
+                "hi": "सुन नहीं सकती थी",
+                "en": "Could not hear"
+              }
+            ],
+            "answer": {
+              "hi": "हाथ काम नहीं करते थे",
+              "en": "Hands were hanging loose"
+            }
           },
           {
-            "q": {"hi": "कलाम का घर किस चीज से बना था?", "en": "What was Kalam's house made of?"},
-            "options": [{"hi": "मिट्टी और लकड़ी", "en": "Mud and wood"}, {"hi": "चूना पत्थर और ईंट", "en": "Limestone and bricks"}, {"hi": "सीमेंट और लोहा", "en": "Cement and iron"}, {"hi": "पत्थर और मिट्टी", "en": "Stone and mud"}],
-            "answer": {"hi": "चूना पत्थर और ईंट", "en": "Limestone and bricks"}
+            "q": {
+              "hi": "इला का जन्म किस परिवार में हुआ था?",
+              "en": "In what kind of family was Ila born?"
+            },
+            "options": [
+              {
+                "hi": "किसान परिवार",
+                "en": "Farmer's family"
+              },
+              {
+                "hi": "शिक्षक परिवार",
+                "en": "Teacher's family"
+              },
+              {
+                "hi": "व्यापारी",
+                "en": "Businessman"
+              },
+              {
+                "hi": "राजा",
+                "en": "King"
+              }
+            ],
+            "answer": {
+              "hi": "किसान परिवार",
+              "en": "Farmer's family"
+            }
           },
           {
-            "q": {"hi": "कलाम के बचपन का घर किस स्ट्रीट पर स्थित था?", "en": "On which street was Kalam's childhood house located?"},
-            "options": [{"hi": "मंदिर स्ट्रीट", "en": "Temple Street"}, {"hi": "मस्जिद स्ट्रीट", "en": "Mosque Street"}, {"hi": "मार्केट स्ट्रीट", "en": "Market Street"}, {"hi": "स्कूल स्ट्रीट", "en": "School Street"}],
-            "answer": {"hi": "मस्जिद स्ट्रीट", "en": "Mosque Street"}
+            "q": {
+              "hi": "इला को किसने कढ़ाई सिखाई?",
+              "en": "Who taught Ila embroidery?"
+            },
+            "options": [
+              {
+                "hi": "मां और दादी",
+                "en": "Mother and Grandmother"
+              },
+              {
+                "hi": "पिता",
+                "en": "Father"
+              },
+              {
+                "hi": "दोस्त",
+                "en": "Friends"
+              },
+              {
+                "hi": "स्कूल शिक्षक",
+                "en": "School teacher"
+              }
+            ],
+            "answer": {
+              "hi": "मां और दादी",
+              "en": "Mother and Grandmother"
+            }
           },
           {
-            "q": {"hi": "कलाम ने अपने बचपन को कैसा बताया है?", "en": "How did Kalam describe his childhood?"},
-            "options": [{"hi": "कठिन", "en": "Difficult"}, {"hi": "असुरक्षित", "en": "Insecure"}, {"hi": "सुरक्षित", "en": "Secured"}, {"hi": "गरीब", "en": "Poor"}],
-            "answer": {"hi": "सुरक्षित", "en": "Secured"}
+            "q": {
+              "hi": "इला कौन सी कढ़ाई कला में कुशल थीं?",
+              "en": "Ila was skilled in which embroidery art?"
+            },
+            "options": [
+              {
+                "hi": "काठियावाड़ी",
+                "en": "Kathiawar"
+              },
+              {
+                "hi": "मधुबनी",
+                "en": "Madhubani"
+              },
+              {
+                "hi": "वरली",
+                "en": "Warli"
+              },
+              {
+                "hi": "फल्क",
+                "en": "Phulkari"
+              }
+            ],
+            "answer": {
+              "hi": "काठियावाड़ी",
+              "en": "Kathiawar"
+            }
           },
           {
-            "q": {"hi": "कलाम भोजन कहाँ बैठकर करते थे?", "en": "Where did Kalam sit to eat his food?"},
-            "options": [{"hi": "मेज पर", "en": "On the table"}, {"hi": "रसोई के फर्श पर", "en": "On the kitchen floor"}, {"hi": "बगीचे में", "en": "In the garden"}, {"hi": "सोफे पर", "en": "On the sofa"}],
-            "answer": {"hi": "रसोई के फर्श पर", "en": "On the kitchen floor"}
+            "q": {
+              "hi": "क्या इला ने हार मानी?",
+              "en": "Did Ila give up?"
+            },
+            "options": [
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "नहीं",
+              "en": "No"
+            }
           },
           {
-            "q": {"hi": "भोजन किस पर परोसा जाता था?", "en": "On what was the food served?"},
-            "options": [{"hi": "प्लेट", "en": "Plate"}, {"hi": "केले के पत्ते", "en": "Banana leaf"}, {"hi": "कटोरा", "en": "Bowl"}, {"hi": "कागज", "en": "Paper"}],
-            "answer": {"hi": "केले के पत्ते", "en": "Banana leaf"}
+            "q": {
+              "hi": "इला के माता-पिता ने क्या किया?",
+              "en": "What did Ila's parents do?"
+            },
+            "options": [
+              {
+                "hi": "उन्हें प्रोत्साहित किया",
+                "en": "Encouraged her"
+              },
+              {
+                "hi": "डांटा",
+                "en": "Scolded"
+              },
+              {
+                "hi": "छोड़ दिया",
+                "en": "Left her"
+              },
+              {
+                "hi": "स्कूल नहीं भेजा",
+                "en": "Did not send to school"
+              }
+            ],
+            "answer": {
+              "hi": "उन्हें प्रोत्साहित किया",
+              "en": "Encouraged her"
+            }
           },
           {
-            "q": {"hi": "कलाम की माता जी उन्हें भोजन में क्या देती थीं?", "en": "What did Kalam's mother serve him?"},
-            "options": [{"hi": "दाल और रोटी", "en": "Dal and roti"}, {"hi": "चावल और सांभर", "en": "Rice and sambhar"}, {"hi": "नूडल्स", "en": "Noodles"}, {"hi": "सूप", "en": "Soup"}],
-            "answer": {"hi": "चावल और सांभर", "en": "Rice and sambhar"}
+            "q": {
+              "hi": "कढ़ाई सीखने का कार्य कैसा था?",
+              "en": "How was the task of learning embroidery?"
+            },
+            "options": [
+              {
+                "hi": "आसान",
+                "en": "Easy"
+              },
+              {
+                "hi": "बहुत कठिन",
+                "en": "Not an easy task"
+              },
+              {
+                "hi": "मजेदार",
+                "en": "Fun"
+              },
+              {
+                "hi": "कोई नहीं",
+                "en": "None"
+              }
+            ],
+            "answer": {
+              "hi": "बहुत कठिन",
+              "en": "Not an easy task"
+            }
           }
         ],
         "section2": [
           {
-            "q": {"hi": "रामेश्वरम का प्रसिद्ध मंदिर उनके घर से कितनी दूर था?", "en": "How far was the famous temple from their house?"},
-            "options": [{"hi": "5 मिनट", "en": "5 minutes"}, {"hi": "10 मिनट", "en": "10 minutes"}, {"hi": "15 मिनट", "en": "15 minutes"}, {"hi": "20 मिनट", "en": "20 minutes"}],
-            "answer": {"hi": "10 मिनट", "en": "10 minutes"}
+            "q": {
+              "hi": "लोगों को इला की कला के बारे में कैसे पता चला?",
+              "en": "How did people get to know about Ila's art?"
+            },
+            "options": [
+              {
+                "hi": "प्रदर्शनियों से",
+                "en": "Through exhibitions"
+              },
+              {
+                "hi": "टीवी से",
+                "en": "TV"
+              },
+              {
+                "hi": "अखबार से",
+                "en": "Newspaper"
+              },
+              {
+                "hi": "दोस्तों से",
+                "en": "Friends"
+              }
+            ],
+            "answer": {
+              "hi": "प्रदर्शनियों से",
+              "en": "Through exhibitions"
+            }
           },
           {
-            "q": {"hi": "रामेश्वरम के मंदिर के मुख्य पुजारी कौन थे?", "en": "Who was the high priest of Rameswaram Temple?"},
-            "options": [{"hi": "पक्षी लक्ष्मण शास्त्री", "en": "Pakshi Lakshmana Sastry"}, {"hi": "राम कृष्ण", "en": "Ram Krishna"}, {"hi": "शिवन", "en": "Shivan"}, {"hi": "सुब्रमण्यम", "en": "Subramaniam"}],
-            "answer": {"hi": "पक्षी लक्ष्मण शास्त्री", "en": "Pakshi Lakshmana Sastry"}
+            "q": {
+              "hi": "सरकारी कार्यालय कहाँ था?",
+              "en": "Where was the government office?"
+            },
+            "options": [
+              {
+                "hi": "सूरत",
+                "en": "Surat"
+              },
+              {
+                "hi": "पटना",
+                "en": "Patna"
+              },
+              {
+                "hi": "दिल्ली",
+                "en": "Delhi"
+              },
+              {
+                "hi": "गांधीनगर",
+                "en": "Gandhinagar"
+              }
+            ],
+            "answer": {
+              "hi": "सूरत",
+              "en": "Surat"
+            }
           },
           {
-            "q": {"hi": "कलाम के पिता के मित्र कौन थे?", "en": "Who was a close friend of Kalam's father?"},
-            "options": [{"hi": "पक्षी लक्ष्मण शास्त्री", "en": "Pakshi Lakshmana Sastry"}, {"hi": "एक डॉक्टर", "en": "A doctor"}, {"hi": "एक शिक्षक", "en": "A teacher"}, {"hi": "एक व्यापारी", "en": "A businessman"}],
-            "answer": {"hi": "पक्षी लक्ष्मण शास्त्री", "en": "Pakshi Lakshmana Sastry"}
+            "q": {
+              "hi": "क्या सरकार इला के काम से प्रभावित थी?",
+              "en": "Was the government impressed by her work?"
+            },
+            "options": [
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "कलाम के पिता क्या करने से बचते थे?", "en": "What did Kalam's father avoid?"},
-            "options": [{"hi": "प्रार्थना", "en": "Prayer"}, {"hi": "अनावश्यक सुख-सुविधाएँ", "en": "Inessential comforts"}, {"hi": "काम", "en": "Work"}, {"hi": "मित्रता", "en": "Friendship"}],
-            "answer": {"hi": "अनावश्यक सुख-सुविधाएँ", "en": "Inessential comforts"}
+            "q": {
+              "hi": "इला को क्या मिला?",
+              "en": "What did Ila receive?"
+            },
+            "options": [
+              {
+                "hi": "राष्ट्रपति पदक",
+                "en": "President's Medal"
+              },
+              {
+                "hi": "पैसा",
+                "en": "Money"
+              },
+              {
+                "hi": "खिलौने",
+                "en": "Toys"
+              },
+              {
+                "hi": "किताबें",
+                "en": "Books"
+              }
+            ],
+            "answer": {
+              "hi": "राष्ट्रपति पदक",
+              "en": "President's Medal"
+            }
           },
           {
-            "q": {"hi": "कलाम के अनुसार उनके पिता की क्या विशेषता थी?", "en": "What was a great quality of Kalam's father?"},
-            "options": [{"hi": "बहुत धन", "en": "Much wealth"}, {"hi": "जन्मजात बुद्धिमत्ता", "en": "Innate wisdom"}, {"hi": "सुंदरता", "en": "Beauty"}, {"hi": "शक्ति", "en": "Strength"}],
-            "answer": {"hi": "जन्मजात बुद्धिमत्ता", "en": "Innate wisdom"}
+            "q": {
+              "hi": "इला अब क्या थीं?",
+              "en": "What was Ila now?"
+            },
+            "options": [
+              {
+                "hi": "प्रसिद्ध कलाकार",
+                "en": "Celebrated artist"
+              },
+              {
+                "hi": "किसान",
+                "en": "Farmer"
+              },
+              {
+                "hi": "अजनबी",
+                "en": "Stranger"
+              },
+              {
+                "hi": "कोई नहीं",
+                "en": "None"
+              }
+            ],
+            "answer": {
+              "hi": "प्रसिद्ध कलाकार",
+              "en": "Celebrated artist"
+            }
           },
           {
-            "q": {"hi": "कलाम ने 'cosmos' शब्द का क्या अर्थ बताया है?", "en": "What is the meaning of 'cosmos' in the text?"},
-            "options": [{"hi": "पृथ्वी", "en": "Earth"}, {"hi": "ब्रह्मांड", "en": "Universe"}, {"hi": "सितारे", "en": "Stars"}, {"hi": "सूरज", "en": "Sun"}],
-            "answer": {"hi": "ब्रह्मांड", "en": "Universe"}
+            "q": {
+              "hi": "इला को क्या नया मिला?",
+              "en": "What new thing did Ila get?"
+            },
+            "options": [
+              {
+                "hi": "आजादी",
+                "en": "Independence"
+              },
+              {
+                "hi": "दुख",
+                "en": "Sorrow"
+              },
+              {
+                "hi": "काम",
+                "en": "Work"
+              },
+              {
+                "hi": "दोस्त",
+                "en": "Friends"
+              }
+            ],
+            "answer": {
+              "hi": "आजादी",
+              "en": "Independence"
+            }
           },
           {
-            "q": {"hi": "कलाम की माँ का स्वभाव कैसा था?", "en": "What kind of nature did Kalam's mother have?"},
-            "options": [{"hi": "कठोर", "en": "Strict"}, {"hi": "उदार", "en": "Generous"}, {"hi": "गुस्सैल", "en": "Angry"}, {"hi": "स्वार्थी", "en": "Selfish"}],
-            "answer": {"hi": "उदार", "en": "Generous"}
+            "q": {
+              "hi": "कला क्या करती है?",
+              "en": "What does art do?"
+            },
+            "options": [
+              {
+                "hi": "सीमाओं से परे",
+                "en": "Rise above physical boundaries"
+              },
+              {
+                "hi": "नींद लाती है",
+                "en": "Brings sleep"
+              },
+              {
+                "hi": "खाना खिलाती है",
+                "en": "Feeds"
+              },
+              {
+                "hi": "कोई नहीं",
+                "en": "None"
+              }
+            ],
+            "answer": {
+              "hi": "सीमाओं से परे",
+              "en": "Rise above physical boundaries"
+            }
           },
           {
-            "q": {"hi": "प्रार्थना के बारे में पिता ने क्या कहा?", "en": "What did his father say about prayer?"},
-            "options": [{"hi": "यह समय की बर्बादी है", "en": "It is a waste of time"}, {"hi": "यह शरीर से परे जाने का मार्ग है", "en": "It helps to transcend the body"}, {"hi": "यह केवल रविवार को होनी चाहिए", "en": "It should be done only on Sundays"}, {"hi": "यह अनिवार्य नहीं है", "en": "It is not mandatory"}],
-            "answer": {"hi": "यह शरीर से परे जाने का मार्ग है", "en": "It helps to transcend the body"}
+            "q": {
+              "hi": "क्या चुनौतियों को जीत में बदला जा सकता है?",
+              "en": "Can challenges be turned into victories?"
+            },
+            "options": [
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "रामेश्वरम कैसा शहर था?", "en": "What kind of town was Rameswaram?"},
-            "options": [{"hi": "पहाड़ी इलाका", "en": "Hilly area"}, {"hi": "द्वीप का शहर", "en": "Island town"}, {"hi": "रेगिस्तानी इलाका", "en": "Desert area"}, {"hi": "औद्योगिक शहर", "en": "Industrial city"}],
-            "answer": {"hi": "द्वीप का शहर", "en": "Island town"}
+            "q": {
+              "hi": "इला की क्या खासियत थी?",
+              "en": "What was Ila's specialty?"
+            },
+            "options": [
+              {
+                "hi": "सकारात्मकता",
+                "en": "Positivity"
+              },
+              {
+                "hi": "गुस्सा",
+                "en": "Anger"
+              },
+              {
+                "hi": "आलस",
+                "en": "Laziness"
+              },
+              {
+                "hi": "कोई नहीं",
+                "en": "None"
+              }
+            ],
+            "answer": {
+              "hi": "सकारात्मकता",
+              "en": "Positivity"
+            }
           },
           {
-            "q": {"hi": "कलाम किस पुस्तक के लेखक हैं?", "en": "Kalam is the author of which book?"},
-            "options": [{"hi": "Wings of Fire", "en": "Wings of Fire"}, {"hi": "My Autobiography", "en": "My Autobiography"}, {"hi": "Rameswaram Days", "en": "Rameswaram Days"}, {"hi": "Childhood Memories", "en": "Childhood Memories"}],
-            "answer": {"hi": "Wings of Fire", "en": "Wings of Fire"}
+            "q": {
+              "hi": "इला ने किसे खुश किया?",
+              "en": "Who did Ila make happy?"
+            },
+            "options": [
+              {
+                "hi": "खुद को",
+                "en": "Herself"
+              },
+              {
+                "hi": "सरकार को",
+                "en": "Government"
+              },
+              {
+                "hi": "किसी को नहीं",
+                "en": "None"
+              },
+              {
+                "hi": "दोस्तों को",
+                "en": "Friends"
+              }
+            ],
+            "answer": {
+              "hi": "खुद को",
+              "en": "Herself"
+            }
           }
         ],
         "section3": [
           {
-            "q": {"hi": "क्या कलाम के पिता बहुत शिक्षित थे?", "en": "Was Kalam's father highly educated?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "नहीं", "en": "No"}
+            "q": {
+              "hi": "'Awestruck' का क्या अर्थ है?",
+              "en": "What is the meaning of 'Awestruck'?"
+            },
+            "options": [
+              {
+                "hi": "हैरान",
+                "en": "Amazed"
+              },
+              {
+                "hi": "डरना",
+                "en": "Fear"
+              },
+              {
+                "hi": "रोना",
+                "en": "Cry"
+              },
+              {
+                "hi": "हँसना",
+                "en": "Laugh"
+              }
+            ],
+            "answer": {
+              "hi": "हैरान",
+              "en": "Amazed"
+            }
           },
           {
-            "q": {"hi": "कलाम के मोहल्ले में ज्यादातर लोग किस धर्म के थे?", "en": "What was the religion of most people in Kalam's locality?"},
-            "options": [{"hi": "हिंदू", "en": "Hindu"}, {"hi": "मुस्लिम", "en": "Muslim"}, {"hi": "ईसाई", "en": "Christian"}, {"hi": "सिख", "en": "Sikh"}],
-            "answer": {"hi": "मुस्लिम", "en": "Muslim"}
+            "q": {
+              "hi": "'Challenges' का क्या अर्थ है?",
+              "en": "What is the meaning of 'Challenges'?"
+            },
+            "options": [
+              {
+                "hi": "कठिनाइयां",
+                "en": "Difficulties"
+              },
+              {
+                "hi": "आराम",
+                "en": "Comfort"
+              },
+              {
+                "hi": "खिलौने",
+                "en": "Toys"
+              },
+              {
+                "hi": "काम",
+                "en": "Work"
+              }
+            ],
+            "answer": {
+              "hi": "कठिनाइयां",
+              "en": "Difficulties"
+            }
           },
           {
-            "q": {"hi": "क्या कलाम के माता-पिता को एक आदर्श जोड़ा माना जाता था?", "en": "Were Kalam's parents considered an ideal couple?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "'Single-minded' का क्या अर्थ है?",
+              "en": "What is the meaning of 'Single-minded'?"
+            },
+            "options": [
+              {
+                "hi": "एकाग्र",
+                "en": "Focused"
+              },
+              {
+                "hi": "भटका हुआ",
+                "en": "Distracted"
+              },
+              {
+                "hi": "पागल",
+                "en": "Crazy"
+              },
+              {
+                "hi": "कोई नहीं",
+                "en": "None"
+              }
+            ],
+            "answer": {
+              "hi": "एकाग्र",
+              "en": "Focused"
+            }
           },
           {
-            "q": {"hi": "क्या कलाम ने अपनी आत्मकथा में अपनी शारीरिक बनावट का वर्णन किया है?", "en": "Did Kalam describe his physical appearance in his autobiography?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "इला ने कढ़ाई किससे की?",
+              "en": "Ila used what to do embroidery?"
+            },
+            "options": [
+              {
+                "hi": "पैर",
+                "en": "Feet"
+              },
+              {
+                "hi": "हाथ",
+                "en": "Hands"
+              },
+              {
+                "hi": "नाक",
+                "en": "Nose"
+              },
+              {
+                "hi": "कोई नहीं",
+                "en": "None"
+              }
+            ],
+            "answer": {
+              "hi": "पैर",
+              "en": "Feet"
+            }
           },
           {
-            "q": {"hi": "आरोग्य (invalids) लोग कलाम के पिता के पास क्यों आते थे?", "en": "Why did invalids visit Kalam's father?"},
-            "options": [{"hi": "दवा लेने", "en": "To take medicine"}, {"hi": "प्रार्थना और आशीर्वाद के लिए", "en": "For prayers and blessings"}, {"hi": "पैसे के लिए", "en": "For money"}, {"hi": "सलाह के लिए", "en": "For advice"}],
-            "answer": {"hi": "प्रार्थना और आशीर्वाद के लिए", "en": "For prayers and blessings"}
+            "q": {
+              "hi": "इला सचानी कहां जन्मी थीं?",
+              "en": "Where was Ila Sachani born?"
+            },
+            "options": [
+              {
+                "hi": "अमरेली",
+                "en": "Amreli"
+              },
+              {
+                "hi": "सूरत",
+                "en": "Surat"
+              },
+              {
+                "hi": "भावनगर",
+                "en": "Bhavnagar"
+              },
+              {
+                "hi": "पटना",
+                "en": "Patna"
+              }
+            ],
+            "answer": {
+              "hi": "अमरेली",
+              "en": "Amreli"
+            }
           },
           {
-            "q": {"hi": "पिता के अनुसार ब्रह्मांड में क्या मायने नहीं रखता?", "en": "What does not matter in the cosmos according to the father?"},
-            "options": [{"hi": "धर्म", "en": "Religion"}, {"hi": "धन, जाति और उम्र", "en": "Wealth, caste and age"}, {"hi": "स्थान", "en": "Location"}, {"hi": "भाषा", "en": "Language"}],
-            "answer": {"hi": "धन, जाति और उम्र", "en": "Wealth, caste and age"}
+            "q": {
+              "hi": "क्या मेहनत रंग लाई?",
+              "en": "Did the hard work pay off?"
+            },
+            "options": [
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "क्या कलाम अरबी प्रार्थना का अर्थ समझते थे?", "en": "Did Kalam understand the meaning of the Arabic prayers?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "नहीं", "en": "No"}
+            "q": {
+              "hi": "इला की कला कौन से जिला में प्रसिद्ध थी?",
+              "en": "Ila's art was famous in which district?"
+            },
+            "options": [
+              {
+                "hi": "भावनगर",
+                "en": "Bhavnagar"
+              },
+              {
+                "hi": "सूरत",
+                "en": "Surat"
+              },
+              {
+                "hi": "अमरेली",
+                "en": "Amreli"
+              },
+              {
+                "hi": "कोई नहीं",
+                "en": "None"
+              }
+            ],
+            "answer": {
+              "hi": "भावनगर",
+              "en": "Bhavnagar"
+            }
           },
           {
-            "q": {"hi": "कलाम ने अपने बचपन को भौतिक रूप से कैसा बताया है?", "en": "How did Kalam describe his childhood materially?"},
-            "options": [{"hi": "गरीब", "en": "Poor"}, {"hi": "सुरक्षित", "en": "Secured"}, {"hi": "विलासी", "en": "Luxurious"}, {"hi": "कठिन", "en": "Difficult"}],
-            "answer": {"hi": "सुरक्षित", "en": "Secured"}
+            "q": {
+              "hi": "क्या कला आत्मा को छू सकती है?",
+              "en": "Can art touch the soul?"
+            },
+            "options": [
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "कलाम के मोहल्ले में क्या शांतिपूर्ण संबंध थे?", "en": "Were there peaceful relations in Kalam's locality?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "इला को राष्ट्रपति पदक किसने दिया?",
+              "en": "Who gave the President's medal to Ila?"
+            },
+            "options": [
+              {
+                "hi": "राष्ट्रपति",
+                "en": "President"
+              },
+              {
+                "hi": "प्रधानमंत्री",
+                "en": "Prime Minister"
+              },
+              {
+                "hi": "शिक्षक",
+                "en": "Teacher"
+              },
+              {
+                "hi": "कोई नहीं",
+                "en": "None"
+              }
+            ],
+            "answer": {
+              "hi": "राष्ट्रपति",
+              "en": "President"
+            }
           },
           {
-            "q": {"hi": "पिता किसे धन्यवाद देने के लिए कहते थे?", "en": "Whom did his father ask them to thank?"},
-            "options": [{"hi": "ईश्वर", "en": "God"}, {"hi": "अल्लाह", "en": "Allah"}, {"hi": "खुद को", "en": "Self"}, {"hi": "डॉक्टर को", "en": "Doctor"}],
-            "answer": {"hi": "अल्लाह", "en": "Allah"}
+            "q": {
+              "hi": "क्या चुनौती ही जीत की शुरुआत है?",
+              "en": "Is challenge the start of victory?"
+            },
+            "options": [
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           }
         ],
         "section4": [
           {
-            "q": {"hi": "कलाम ने 'transcend' का क्या अर्थ बताया है?", "en": "What is the meaning of 'transcend'?"},
-            "options": [{"hi": "सीमित रहना", "en": "To limit"}, {"hi": "परे जाना", "en": "To go beyond"}, {"hi": "सो जाना", "en": "To sleep"}, {"hi": "ऊपर चढ़ना", "en": "To climb"}],
-            "answer": {"hi": "परे जाना", "en": "To go beyond"}
+            "q": {
+              "hi": "क्या इला एक कलाकार थीं?",
+              "en": "Was Ila an artist?"
+            },
+            "options": [
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "कलाम के अनुसार कौन लोग उदार थे?", "en": "Who were considered generous according to the text?"},
-            "options": [{"hi": "केवल पिता", "en": "Only father"}, {"hi": "माता-पिता दोनों", "en": "Both parents"}, {"hi": "केवल माँ", "en": "Only mother"}, {"hi": "पड़ोसी", "en": "Neighbors"}],
-            "answer": {"hi": "माता-पिता दोनों", "en": "Both parents"}
+            "q": {
+              "hi": "इला कहां कढ़ाई करती थीं?",
+              "en": "Where did Ila do embroidery?"
+            },
+            "options": [
+              {
+                "hi": "घर पर",
+                "en": "At home"
+              },
+              {
+                "hi": "सड़क पर",
+                "en": "On road"
+              },
+              {
+                "hi": "स्कूल में",
+                "en": "In school"
+              },
+              {
+                "hi": "कोई नहीं",
+                "en": "None"
+              }
+            ],
+            "answer": {
+              "hi": "घर पर",
+              "en": "At home"
+            }
           },
           {
-            "q": {"hi": "कलाम ने खुद को कैसा लड़का बताया है?", "en": "How did Kalam describe himself as a boy?"},
-            "options": [{"hi": "लंबा", "en": "Tall"}, {"hi": "छोटा और सामान्य दिखने वाला", "en": "Short and undistinguished"}, {"hi": "बहुत सुंदर", "en": "Very handsome"}, {"hi": "मोटा", "en": "Fat"}],
-            "answer": {"hi": "छोटा और सामान्य दिखने वाला", "en": "Short and undistinguished"}
+            "q": {
+              "hi": "क्या इला ने हार मानी?",
+              "en": "Did Ila give up?"
+            },
+            "options": [
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "नहीं",
+              "en": "No"
+            }
           },
           {
-            "q": {"hi": "क्या कलाम के घर में बाहरी लोगों का आना-जाना था?", "en": "Did outsiders visit Kalam's home often?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "कढ़ाई की चमक कैसी थी?",
+              "en": "How was the embroidery shine?"
+            },
+            "options": [
+              {
+                "hi": "चमकदार",
+                "en": "Shiny"
+              },
+              {
+                "hi": "फीकी",
+                "en": "Dull"
+              },
+              {
+                "hi": "कोई नहीं",
+                "en": "None"
+              },
+              {
+                "hi": "अजीब",
+                "en": "Strange"
+              }
+            ],
+            "answer": {
+              "hi": "चमकदार",
+              "en": "Shiny"
+            }
           },
           {
-            "q": {"hi": "कलाम के घर की दीवारें कैसी थीं?", "en": "What kind of house was it?"},
-            "options": [{"hi": "कच्चा", "en": "Kutcha"}, {"hi": "पक्का", "en": "Pucca"}, {"hi": "झोपड़ी", "en": "Hut"}, {"hi": "गुफा", "en": "Cave"}],
-            "answer": {"hi": "पक्का", "en": "Pucca"}
+            "q": {
+              "hi": "क्या लोग इला से मिले?",
+              "en": "Did people meet Ila?"
+            },
+            "options": [
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "क्या कलाम के पिता शाम की प्रार्थना के लिए जाते थे?", "en": "Did Kalam's father go for evening prayers?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "इला को क्या मिला?",
+              "en": "What did Ila get?"
+            },
+            "options": [
+              {
+                "hi": "प्रसिद्धि",
+                "en": "Fame"
+              },
+              {
+                "hi": "दुख",
+                "en": "Sadness"
+              },
+              {
+                "hi": "आलस",
+                "en": "Laziness"
+              },
+              {
+                "hi": "कुछ नहीं",
+                "en": "None"
+              }
+            ],
+            "answer": {
+              "hi": "प्रसिद्धि",
+              "en": "Fame"
+            }
           },
           {
-            "q": {"hi": "पिता के पास लोग क्या लाते थे?", "en": "What did people bring to the father?"},
-            "options": [{"hi": "पानी का कटोरा", "en": "Bowl of water"}, {"hi": "भोजन", "en": "Food"}, {"hi": "उपहार", "en": "Gifts"}, {"hi": "फूल", "en": "Flowers"}],
-            "answer": {"hi": "पानी का कटोरा", "en": "Bowl of water"}
+            "q": {
+              "hi": "इला का कार्य कैसा था?",
+              "en": "How was Ila's work?"
+            },
+            "options": [
+              {
+                "hi": "अद्भुत",
+                "en": "Wonderful/Beautiful"
+              },
+              {
+                "hi": "खराब",
+                "en": "Bad"
+              },
+              {
+                "hi": "उबाऊ",
+                "en": "Boring"
+              },
+              {
+                "hi": "कोई नहीं",
+                "en": "None"
+              }
+            ],
+            "answer": {
+              "hi": "अद्भुत",
+              "en": "Wonderful/Beautiful"
+            }
           },
           {
-            "q": {"hi": "कलाम के माता-पिता की जोड़ी कैसी थी?", "en": "How was the parents' couple?"},
-            "options": [{"hi": "असामान्य", "en": "Unusual"}, {"hi": "आदर्श", "en": "Ideal"}, {"hi": "विवादित", "en": "Controversial"}, {"hi": "साधारण", "en": "Ordinary"}],
-            "answer": {"hi": "आदर्श", "en": "Ideal"}
+            "q": {
+              "hi": "क्या सफलता कड़ी मेहनत से मिलती है?",
+              "en": "Does success come from hard work?"
+            },
+            "options": [
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "OMNISTS कौन होते हैं?", "en": "Who are OMNISTS?"},
-            "options": [{"hi": "जो किसी धर्म को नहीं मानते", "en": "Those who don't follow any religion"}, {"hi": "जो सभी धर्मों का सम्मान करते हैं", "en": "Those who respect all religions equally"}, {"hi": "जो बहुत अमीर हैं", "en": "Very rich people"}, {"hi": "जो नेता हैं", "en": "Leaders"}],
-            "answer": {"hi": "जो सभी धर्मों का सम्मान करते हैं", "en": "Those who respect all religions equally"}
+            "q": {
+              "hi": "इला का गाँव कौन सा था?",
+              "en": "Which was Ila's village?"
+            },
+            "options": [
+              {
+                "hi": "मोती वावड़ी",
+                "en": "Moti Vavdi"
+              },
+              {
+                "hi": "अमरेली",
+                "en": "Amreli"
+              },
+              {
+                "hi": "सूरत",
+                "en": "Surat"
+              },
+              {
+                "hi": "पटना",
+                "en": "Patna"
+              }
+            ],
+            "answer": {
+              "hi": "मोती वावड़ी",
+              "en": "Moti Vavdi"
+            }
           },
           {
-            "q": {"hi": "क्या हमें हर धर्म का सम्मान करना चाहिए?", "en": "Should we respect every religion equally?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "क्या इला एक प्रेरणा हैं?",
+              "en": "Is Ila an inspiration?"
+            },
+            "options": [
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           }
         ],
         "section5": [
           {
-            "q": {"hi": "कलाम के अनुसार 'aromatic' का क्या अर्थ है?", "en": "What is the meaning of 'aromatic'?"},
-            "options": [{"hi": "सुखद गंध", "en": "Pleasant smell"}, {"hi": "खराब गंध", "en": "Bad smell"}, {"hi": "बिना गंध का", "en": "No smell"}, {"hi": "बहुत तेज गंध", "en": "Very strong smell"}],
-            "answer": {"hi": "सुखद गंध", "en": "Pleasant smell"}
+            "q": {
+              "hi": "इला सचानी ने अपने सपनों को कैसे पाया?",
+              "en": "How did Ila Sachani achieve her dreams?"
+            },
+            "options": [
+              {
+                "hi": "कड़ी मेहनत से",
+                "en": "Through hard work"
+              },
+              {
+                "hi": "जादू से",
+                "en": "Through magic"
+              },
+              {
+                "hi": "भाग्य से",
+                "en": "Through luck"
+              },
+              {
+                "hi": "कोई नहीं",
+                "en": "None"
+              }
+            ],
+            "answer": {
+              "hi": "कड़ी मेहनत से",
+              "en": "Through hard work"
+            }
           },
           {
-            "q": {"hi": "कलाम के पिता के पास क्या नहीं था?", "en": "What did Kalam's father lack?"},
-            "options": [{"hi": "बुद्धि", "en": "Wisdom"}, {"hi": "धन और औपचारिक शिक्षा", "en": "Wealth and formal education"}, {"hi": "दोस्त", "en": "Friends"}, {"hi": "परिवार", "en": "Family"}],
-            "answer": {"hi": "धन और औपचारिक शिक्षा", "en": "Wealth and formal education"}
+            "q": {
+              "hi": "क्या इला को राष्ट्रपति पदक मिला?",
+              "en": "Did Ila get the President's medal?"
+            },
+            "options": [
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "कलाम के अनुसार उनके घर में कौन खाते थे?", "en": "Who ate in Kalam's house according to him?"},
-            "options": [{"hi": "केवल परिवार", "en": "Only family"}, {"hi": "बाहरी लोग", "en": "Outsiders"}, {"hi": "कोई नहीं", "en": "None"}, {"hi": "केवल रिश्तेदार", "en": "Only relatives"}],
-            "answer": {"hi": "बाहरी लोग", "en": "Outsiders"}
+            "q": {
+              "hi": "क्या इला की कढ़ाई सुंदर थी?",
+              "en": "Was Ila's embroidery beautiful?"
+            },
+            "options": [
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "क्या 'Unity in Diversity' का अर्थ है?", "en": "What is meant by 'Unity in Diversity'?"},
-            "options": [{"hi": "सब अलग हैं", "en": "All are different"}, {"hi": "विविधता में एकता", "en": "Unity in diversity"}, {"hi": "सब समान हैं", "en": "All are same"}, {"hi": "कोई एकता नहीं", "en": "No unity"}],
-            "answer": {"hi": "विविधता में एकता", "en": "Unity in diversity"}
+            "q": {
+              "hi": "क्या इला ने अपने पैरों का उपयोग किया?",
+              "en": "Did Ila use her feet?"
+            },
+            "options": [
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "कलाम के अनुसार प्रार्थना किसे छू सकती है?", "en": "Whom can prayer reach according to the belief mentioned?"},
-            "options": [{"hi": "केवल देवताओं को", "en": "Only gods"}, {"hi": "ईश्वर को", "en": "To God"}, {"hi": "किसी को नहीं", "en": "No one"}, {"hi": "पड़ोसियों को", "en": "Neighbors"}],
-            "answer": {"hi": "ईश्वर को", "en": "To God"}
+            "q": {
+              "hi": "क्या इला ने कढ़ाई से कमाई की?",
+              "en": "Did Ila earn from embroidery?"
+            },
+            "options": [
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "क्या कलाम के पिता को लोगों की मदद करने में खुशी मिलती थी?", "en": "Did Kalam's father enjoy helping people?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "क्या इरादे मजबूत होने चाहिए?",
+              "en": "Should intentions be strong?"
+            },
+            "options": [
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "कलाम के पिता क्या पहनते थे?", "en": "What did Kalam's father wear?"},
-            "options": [{"hi": "आधुनिक कपड़े", "en": "Modern clothes"}, {"hi": "पारंपरिक कपड़े", "en": "Traditional clothing"}, {"hi": "वर्दी", "en": "Uniform"}, {"hi": "कुछ नहीं", "en": "Nothing"}],
-            "answer": {"hi": "पारंपरिक कपड़े", "en": "Traditional clothing"}
+            "q": {
+              "hi": "क्या सफलता के लिए धैर्य जरूरी है?",
+              "en": "Is patience necessary for success?"
+            },
+            "options": [
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "क्या कलाम के पिता के पास बहुत संपत्ति थी?", "en": "Did Kalam's father have much wealth?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "नहीं", "en": "No"}
+            "q": {
+              "hi": "क्या आप इला सचानी से कुछ सीखते हैं?",
+              "en": "Do you learn something from Ila Sachani?"
+            },
+            "options": [
+              {
+                "hi": "हाँ",
+                "en": "Yes"
+              },
+              {
+                "hi": "शायद",
+                "en": "Maybe"
+              },
+              {
+                "hi": "नहीं",
+                "en": "No"
+              },
+              {
+                "hi": "पता नहीं",
+                "en": "Don't know"
+              }
+            ],
+            "answer": {
+              "hi": "हाँ",
+              "en": "Yes"
+            }
           },
           {
-            "q": {"hi": "कलाम के परिवार की स्थिति क्या थी?", "en": "What was the family background of Kalam?"},
-            "options": [{"hi": "अमीर", "en": "Rich"}, {"hi": "मध्यम वर्गीय", "en": "Middle-class"}, {"hi": "अति गरीब", "en": "Very poor"}, {"hi": "शाही", "en": "Royal"}],
-            "answer": {"hi": "मध्यम वर्गीय", "en": "Middle-class"}
+            "q": {
+              "hi": "इला सचानी ने चुनौतियों को कैसे लिया?",
+              "en": "How did Ila Sachani take challenges?"
+            },
+            "options": [
+              {
+                "hi": "दृढ़ निश्चय के साथ",
+                "en": "With determination"
+              },
+              {
+                "hi": "डर के साथ",
+                "en": "With fear"
+              },
+              {
+                "hi": "छोड़ दिया",
+                "en": "Gave up"
+              },
+              {
+                "hi": "कोई नहीं",
+                "en": "None"
+              }
+            ],
+            "answer": {
+              "hi": "दृढ़ निश्चय के साथ",
+              "en": "With determination"
+            }
           },
           {
-            "q": {"hi": "क्या कलाम को अपना बचपन याद है?", "en": "Does Kalam remember his childhood?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "इला सचानी किसकी बेटी थीं?",
+              "en": "Who was Ila Sachani the daughter of?"
+            },
+            "options": [
+              {
+                "hi": "किसान",
+                "en": "Farmer"
+              },
+              {
+                "hi": "शिक्षक",
+                "en": "Teacher"
+              },
+              {
+                "hi": "व्यापारी",
+                "en": "Businessman"
+              },
+              {
+                "hi": "कोई नहीं",
+                "en": "None"
+              }
+            ],
+            "answer": {
+              "hi": "किसान",
+              "en": "Farmer"
+            }
           }
         ]
       },
