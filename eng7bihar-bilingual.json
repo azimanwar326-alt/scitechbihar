@@ -3312,64 +3312,514 @@
       },
     "chapter03b": {
         "section1": [
-          {"q": {"hi": "पक्षी पहले कहाँ रहता था?", "en": "Where did the bird live first?"}, "options": [{"hi": "पेड़ पर", "en": "On a tree"}, {"hi": "एक छोटे घर में", "en": "In a little house"}, {"hi": "घोंसले में", "en": "In a nest"}, {"hi": "जमीन पर", "en": "On the ground"}], "answer": {"hi": "एक छोटे घर में", "en": "In a little house"}},
-          {"q": {"hi": "पक्षी को दुनिया कैसी लगती थी?", "en": "How did the bird think the world was?"}, "options": [{"hi": "बड़ी और चौकोर", "en": "Big and square"}, {"hi": "छोटी और गोल", "en": "Small and round"}, {"hi": "लंबी", "en": "Long"}, {"hi": "विशाल", "en": "Huge"}], "answer": {"hi": "छोटी और गोल", "en": "Small and round"}},
-          {"q": {"hi": "पक्षी का पहला घर किस चीज से बना था?", "en": "What was the bird's first home made of?"}, "options": [{"hi": "मिट्टी", "en": "Mud"}, {"hi": "लकड़ी", "en": "Wood"}, {"hi": "पीले, नीले खोल (shell) से", "en": "Pale, blue shell"}, {"hi": "पत्तों से", "en": "Leaves"}], "answer": {"hi": "पीले, नीले खोल (shell) से", "en": "Pale, blue shell"}},
-          {"q": {"hi": "पक्षी बाद में कहाँ रहने लगा?", "en": "Where did the bird live next?"}, "options": [{"hi": "एक छोटे घोंसले में", "en": "In a little nest"}, {"hi": "पहाड़ पर", "en": "On a mountain"}, {"hi": "पानी में", "en": "In water"}, {"hi": "गुफा में", "en": "In a cave"}], "answer": {"hi": "एक छोटे घोंसले में", "en": "In a little nest"}},
-          {"q": {"hi": "घोंसले में पक्षी को किसकी जरूरत नहीं थी?", "en": "What did the bird not need in the nest?"}, "options": [{"hi": "अनाज", "en": "Grains"}, {"hi": "किसी अन्य चीज की", "en": "Nor needed any other"}, {"hi": "पानी की", "en": "Water"}, {"hi": "दोस्त की", "en": "Friend"}], "answer": {"hi": "किसी अन्य चीज की", "en": "Nor needed any other"}},
-          {"q": {"hi": "पक्षी को दुनिया किस चीज से बनी लगी?", "en": "What did the bird think the world was made of while in the nest?"}, "options": [{"hi": "कागज से", "en": "Paper"}, {"hi": "धागे से", "en": "Thread"}, {"hi": "भूसे (straw) से", "en": "Straw"}, {"hi": "पत्थरों से", "en": "Stones"}], "answer": {"hi": "भूसे (straw) से", "en": "Straw"}},
-          {"q": {"hi": "घोंसले में पक्षी किसके पास रहता था?", "en": "Who nestled the bird in the nest?"}, "options": [{"hi": "अपनी मां", "en": "His mother"}, {"hi": "अपने पिता", "en": "His father"}, {"hi": "भाई", "en": "Brother"}, {"hi": "किसी ने नहीं", "en": "No one"}], "answer": {"hi": "अपनी मां", "en": "His mother"}},
-          {"q": {"hi": "एक दिन पक्षी ने क्या किया?", "en": "What did the bird do one day?"}, "options": [{"hi": "वह घोंसले से बाहर निकला", "en": "He fluttered from his nest"}, {"hi": "वह सो गया", "en": "He slept"}, {"hi": "वह गाना गाया", "en": "He sang"}, {"hi": "वह शिकार किया", "en": "He hunted"}], "answer": {"hi": "वह घोंसले से बाहर निकला", "en": "He fluttered from his nest"}},
-          {"q": {"hi": "बाहर निकलने पर पक्षी को क्या दिखा?", "en": "What did the bird find when he fluttered out?"}, "options": [{"hi": "दुनिया", "en": "The world"}, {"hi": "खजाना", "en": "Treasure"}, {"hi": "पानी", "en": "Water"}, {"hi": "एक और घोंसला", "en": "Another nest"}], "answer": {"hi": "दुनिया", "en": "The world"}},
-          {"q": {"hi": "पक्षी को दुनिया किस चीज से बनी लगी?", "en": "What did the bird think the world was made of now?"}, "options": [{"hi": "पत्तों (leaves) से", "en": "Leaves"}, {"hi": "फूलों से", "en": "Flowers"}, {"hi": "कांच से", "en": "Glass"}, {"hi": "धातु से", "en": "Metal"}], "answer": {"hi": "पत्तों (leaves) से", "en": "Leaves"}}
+          {
+            "q": { "hi": "कविता के अनुसार शेड कहाँ स्थित है?", "en": "Where is the shed located according to the poem?" },
+            "options": [
+              {"hi": "घर के सामने", "en": "In front of the house"},
+              {"hi": "बगीचे के नीचे", "en": "At the bottom of the garden"},
+              {"hi": "पीछे के दरवाजे पर", "en": "At the back door"},
+              {"hi": "छत पर", "en": "On the roof"}
+            ],
+            "answer": { "hi": "बगीचे के नीचे", "en": "At the bottom of the garden" }
+          },
+          {
+            "q": { "hi": "शेड के दरवाजे पर क्या लटका हुआ है?", "en": "What is hanging across the door of the shed?" },
+            "options": [
+              {"hi": "एक पर्दा", "en": "A curtain"},
+              {"hi": "मकड़ी का जाला", "en": "A spider's web"},
+              {"hi": "एक ताला", "en": "A lock"},
+              {"hi": "बेल", "en": "A vine"}
+            ],
+            "answer": { "hi": "मकड़ी का जाला", "en": "A spider's web" }
+          },
+          {
+            "q": { "hi": "हवा चलने पर शेड से कैसी आवाज़ आती है?", "en": "What kind of sound does the shed make in the wind?" },
+            "options": [
+              {"hi": "घंटी की", "en": "Bell ringing"},
+              {"hi": "चरचराहट (creak)", "en": "Creak"},
+              {"hi": "सीटी की", "en": "Whistling"},
+              {"hi": "हंसने की", "en": "Laughing"}
+            ],
+            "answer": { "hi": "चरचराहट (creak)", "en": "Creak" }
+          },
+          {
+            "q": { "hi": "शेड के कब्जे (hinges) कैसे हैं?", "en": "How are the hinges of the shed?" },
+            "options": [
+              {"hi": "नए और चमकते", "en": "New and shiny"},
+              {"hi": "जंग लगे (rusty)", "en": "Rusty"},
+              {"hi": "मजबूत", "en": "Strong"},
+              {"hi": "गायब", "en": "Missing"}
+            ],
+            "answer": { "hi": "जंग लगे (rusty)", "en": "Rusty" }
+          },
+          {
+            "q": { "hi": "कवि शेड के दरवाज़े के बारे में क्या करने की योजना बनाता है?", "en": "What does the poet plan to do about the shed's door?" },
+            "options": [
+              {"hi": "इसे तोड़ना", "en": "Break it"},
+              {"hi": "इसे एक दिन खोलना", "en": "Open it one day"},
+              {"hi": "इसे पेंट करना", "en": "Paint it"},
+              {"hi": "इसे हमेशा बंद रखना", "en": "Keep it locked"}
+            ],
+            "answer": { "hi": "इसे एक दिन खोलना", "en": "Open it one day" }
+          },
+          {
+            "q": { "hi": "शेड की खिड़की कैसी है?", "en": "How is the shed's window?" },
+            "options": [
+              {"hi": "बड़ी और साफ", "en": "Big and clean"},
+              {"hi": "धूल भरी और पुरानी", "en": "Dusty and old"},
+              {"hi": "रंगीन", "en": "Colorful"},
+              {"hi": "नई", "en": "New"}
+            ],
+            "answer": { "hi": "धूल भरी और पुरानी", "en": "Dusty and old" }
+          },
+          {
+            "q": { "hi": "खिड़की में कितने शीशे टूटे हुए हैं?", "en": "How many panes of glass are cracked in the window?" },
+            "options": [
+              {"hi": "दो", "en": "Two"},
+              {"hi": "तीन", "en": "Three"},
+              {"hi": "चार", "en": "Four"},
+              {"hi": "एक भी नहीं", "en": "None"}
+            ],
+            "answer": { "hi": "तीन", "en": "Three" }
+          },
+          {
+            "q": { "hi": "कवि को अक्सर क्या लगता है?", "en": "What does the poet often think?" },
+            "options": [
+              {"hi": "कि कोई उसे देख रहा है", "en": "That someone is staring at him"},
+              {"hi": "कि अंदर खजाना है", "en": "That there is treasure inside"},
+              {"hi": "कि वहां भूत नहीं है", "en": "That there is no ghost"},
+              {"hi": "कि शेड गिर जाएगा", "en": "That the shed will fall"}
+            ],
+            "answer": { "hi": "कि कोई उसे देख रहा है", "en": "That someone is staring at him" }
+          },
+          {
+            "q": { "hi": "कवि के भाई के अनुसार शेड में कौन रहता है?", "en": "According to the poet's brother, who lives in the shed?" },
+            "options": [
+              {"hi": "एक चोर", "en": "A thief"},
+              {"hi": "एक भूत", "en": "A ghost"},
+              {"hi": "एक मकड़ी", "en": "A spider"},
+              {"hi": "कोई नहीं", "en": "No one"}
+            ],
+            "answer": { "hi": "एक भूत", "en": "A ghost" }
+          },
+          {
+            "q": { "hi": "भूत कहाँ छिपा हुआ बताया गया है?", "en": "Where is the ghost said to be hiding?" },
+            "options": [
+              {"hi": "छत के नीचे", "en": "Under the roof"},
+              {"hi": "सड़े हुए फर्श के नीचे", "en": "Under the rotten floorboards"},
+              {"hi": "खिड़की के पास", "en": "Near the window"},
+              {"hi": "दरवाजे के पीछे", "en": "Behind the door"}
+            ],
+            "answer": { "hi": "सड़े हुए फर्श के नीचे", "en": "Under the rotten floorboards" }
+          }
         ],
         "section2": [
-          {"q": {"hi": "पक्षी ने अपने आप को क्या कहा?", "en": "What did the bird say to himself?"}, "options": [{"hi": "वह बहुत अंधा रहा है", "en": "I have been very blind"}, {"hi": "वह बुद्धिमान है", "en": "I am wise"}, {"hi": "वह तेज है", "en": "I am fast"}, {"hi": "वह बड़ा है", "en": "I am big"}], "answer": {"hi": "वह बहुत अंधा रहा है", "en": "I have been very blind"}},
-          {"q": {"hi": "पक्षी पेड़ के आगे कहाँ उड़ा?", "en": "Where did the bird fly beyond the tree?"}, "options": [{"hi": "सुदूर (at length)", "en": "At length/beyond"}, {"hi": "आसमान में", "en": "In sky"}, {"hi": "घर पर", "en": "At home"}, {"hi": "झील पर", "en": "On lake"}], "answer": {"hi": "सुदूर (at length)", "en": "At length/beyond"}},
-          {"q": {"hi": "पक्षी अब किस काम के योग्य था?", "en": "What was the bird fit for?"}, "options": [{"hi": "वयस्क कार्यों (grown-up labours)", "en": "Grown-up labours"}, {"hi": "खेलने", "en": "Playing"}, {"hi": "सोने", "en": "Sleeping"}, {"hi": "गाने", "en": "Singing"}], "answer": {"hi": "वयस्क कार्यों (grown-up labours)", "en": "Grown-up labours"}},
-          {"q": {"hi": "क्या पक्षी को पता था कि दुनिया कैसे बनी है?", "en": "Did the bird know how the world is made?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "नहीं", "en": "No"}},
-          {"q": {"hi": "क्या पक्षी के पड़ोसियों को पता था कि दुनिया कैसे बनी है?", "en": "Did the neighbours know how the world is made?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "नहीं", "en": "No"}},
-          {"q": {"hi": "पक्षी की सोच समय के साथ कैसे बदली?", "en": "How did the bird's thinking change?"}, "options": [{"hi": "वह और अधिक सीखता गया", "en": "He learned more"}, {"hi": "वह कम समझदार हुआ", "en": "Less wise"}, {"hi": "वह डर गया", "en": "He got scared"}, {"hi": "कुछ नहीं बदला", "en": "Nothing changed"}], "answer": {"hi": "वह और अधिक सीखता गया", "en": "He learned more"}},
-          {"q": {"hi": "कविता का शीर्षक क्या है?", "en": "What is the title of the poem?"}, "options": [{"hi": "व्हाट अ बर्ड थॉट", "en": "What a bird thought"}, {"hi": "पक्षी की उड़ान", "en": "Bird's flight"}, {"hi": "दुनिया कैसी है", "en": "How is the world"}, {"hi": "छोटा घोंसला", "en": "Small nest"}], "answer": {"hi": "व्हाट अ बर्ड थॉट", "en": "What a bird thought"}},
-          {"q": {"hi": "क्या बच्चा पक्षी भी दुनिया के बारे में सोचते हैं?", "en": "Do baby birds also think about the world?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "पक्षी ने पहली बार दुनिया कैसी देखी?", "en": "How did the bird see the world first?"}, "options": [{"hi": "अंडे के खोल के अंदर", "en": "Inside shell"}, {"hi": "पेड़ पर", "en": "On tree"}, {"hi": "घोंसले में", "en": "In nest"}, {"hi": "आसमान से", "en": "From sky"}], "answer": {"hi": "अंडे के खोल के अंदर", "en": "Inside shell"}},
-          {"q": {"hi": "क्या पक्षी ने अंत में दुनिया को समझा?", "en": "Did the bird understand the world in the end?"}, "options": [{"hi": "नहीं, यह बहुत बड़ी है", "en": "No, it's too big"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "नहीं, यह बहुत बड़ी है", "en": "No, it's too big"}}
+          {
+            "q": { "hi": "भाई के अनुसार, अगर कवि अंदर जाता है तो भूत क्या करेगा?", "en": "According to the brother, what will the ghost do if the poet goes inside?" },
+            "options": [
+              {"hi": "उसका सिर काट देगा", "en": "Chop off his head"},
+              {"hi": "उसे डरा देगा", "en": "Scare him"},
+              {"hi": "उसे बाहर भगा देगा", "en": "Chase him out"},
+              {"hi": "उसे पकड़ लेगा", "en": "Catch him"}
+            ],
+            "answer": { "hi": "उसका सिर काट देगा", "en": "Chop off his head" }
+          },
+          {
+            "q": { "hi": "कवि को क्या पता है?", "en": "What does the poet know?" },
+            "options": [
+              {"hi": "कि भूत असली है", "en": "That the ghost is real"},
+              {"hi": "कि भूत असली नहीं है", "en": "That there isn't really a ghost"},
+              {"hi": "कि शेड खाली है", "en": "That the shed is empty"},
+              {"hi": "कि कोई वहां है", "en": "That someone is there"}
+            ],
+            "answer": { "hi": "कि भूत असली नहीं है", "en": "That there isn't really a ghost" }
+          },
+          {
+            "q": { "hi": "भाई झूठ क्यों बोलता है?", "en": "Why does the brother tell lies?" },
+            "options": [
+              {"hi": "मजाक के लिए", "en": "For fun"},
+              {"hi": "शेड को अपना अड्डा बनाने के लिए", "en": "To keep the shed for his den"},
+              {"hi": "कवि को डराने के लिए", "en": "To scare the poet"},
+              {"hi": "सच बोलने से डरने के लिए", "en": "Afraid of truth"}
+            ],
+            "answer": { "hi": "शेड को अपना अड्डा बनाने के लिए", "en": "To keep the shed for his den" }
+          },
+          {
+            "q": { "hi": "क्या अब वहां मकड़ी का जाला है?", "en": "Is there a spider's web there now?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "थोड़ा सा", "en": "A little"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": { "hi": "नहीं", "en": "No" }
+          },
+          {
+            "q": { "hi": "कवि शेड के अंदर जाने के लिए क्या फैसला करता है?", "en": "What does the poet decide regarding entering the shed?" },
+            "options": [
+              {"hi": "कभी नहीं", "en": "Never"},
+              {"hi": "एक दिन जल्द", "en": "One day soon"},
+              {"hi": "अभी", "en": "Right now"},
+              {"hi": "कल", "en": "Tomorrow"}
+            ],
+            "answer": { "hi": "एक दिन जल्द", "en": "One day soon" }
+          },
+          {
+            "q": { "hi": "इस कविता के कवि कौन हैं?", "en": "Who is the poet of this poem?" },
+            "options": [
+              {"hi": "फ्रैंक फ्लिन", "en": "Frank Flynn"},
+              {"hi": "रविंद्रनाथ टैगोर", "en": "Rabindranath Tagore"},
+              {"hi": "विलियम शेक्सपियर", "en": "William Shakespeare"},
+              {"hi": "रस्किन बॉन्ड", "en": "Ruskin Bond"}
+            ],
+            "answer": { "hi": "फ्रैंक फ्लिन", "en": "Frank Flynn" }
+          },
+          {
+            "q": { "hi": "शेड का क्या उपयोग हो सकता है?", "en": "What can be the use of a shed?" },
+            "options": [
+              {"hi": "रहने के लिए", "en": "To live in"},
+              {"hi": "सामान रखने के लिए", "en": "To store things"},
+              {"hi": "खाना बनाने के लिए", "en": "To cook"},
+              {"hi": "खेलने के लिए", "en": "To play"}
+            ],
+            "answer": { "hi": "सामान रखने के लिए", "en": "To store things" }
+          },
+          {
+            "q": { "hi": "शेड कहां स्थित है?", "en": "Where is the shed?" },
+            "options": [
+              {"hi": "शहर के बीच", "en": "In the city"},
+              {"hi": "बगीचे के नीचे", "en": "At the bottom of the garden"},
+              {"hi": "स्कूल के पास", "en": "Near school"},
+              {"hi": "पहाड़ों पर", "en": "On mountains"}
+            ],
+            "answer": { "hi": "बगीचे के नीचे", "en": "At the bottom of the garden" }
+          },
+          {
+            "q": { "hi": "शेड के दरवाजे की स्थिति कैसी है?", "en": "What is the condition of the shed's door?" },
+            "options": [
+              {"hi": "नया", "en": "New"},
+              {"hi": "जंग लगे कब्जों वाला", "en": "Rusty hinges"},
+              {"hi": "सुंदर", "en": "Beautiful"},
+              {"hi": "खुला", "en": "Open"}
+            ],
+            "answer": { "hi": "जंग लगे कब्जों वाला", "en": "Rusty hinges" }
+          },
+          {
+            "q": { "hi": "कवि को खिड़की से क्या महसूस होता है?", "en": "What does the poet feel from the window?" },
+            "options": [
+              {"hi": "ठंड", "en": "Cold"},
+              {"hi": "कोई देख रहा है", "en": "Someone is staring"},
+              {"hi": "खुशी", "en": "Happiness"},
+              {"hi": "सुगंध", "en": "Fragrance"}
+            ],
+            "answer": { "hi": "कोई देख रहा है", "en": "Someone is staring" }
+          }
         ],
         "section3": [
-          {"q": {"hi": "'Fluttered' का क्या अर्थ है?", "en": "What is the meaning of 'Fluttered'?"}, "options": [{"hi": "फड़फड़ाकर उड़ना", "en": "To fly with light wings"}, {"hi": "बैठना", "en": "To sit"}, {"hi": "दौड़ना", "en": "To run"}, {"hi": "सोना", "en": "To sleep"}], "answer": {"hi": "फड़फड़ाकर उड़ना", "en": "To fly with light wings"}},
-          {"q": {"hi": "'Nestled' का क्या अर्थ है?", "en": "What is the meaning of 'Nestled'?"}, "options": [{"hi": "आराम से बैठना", "en": "To settle comfortably"}, {"hi": "चिल्लाना", "en": "To shout"}, {"hi": "कूदना", "en": "To jump"}, {"hi": "उड़ना", "en": "To fly"}], "answer": {"hi": "आराम से बैठना", "en": "To settle comfortably"}},
-          {"q": {"hi": "'At length' का क्या अर्थ है?", "en": "What is the meaning of 'At length'?"}, "options": [{"hi": "अंत में / बहुत दूर", "en": "Finally/very far"}, {"hi": "थोड़ी दूर", "en": "A little far"}, {"hi": "पास में", "en": "Near"}, {"hi": "अंदर", "en": "Inside"}], "answer": {"hi": "अंत में / बहुत दूर", "en": "Finally/very far"}},
-          {"q": {"hi": "'Labours' का क्या अर्थ है?", "en": "What is the meaning of 'Labours'?"}, "options": [{"hi": "मेहनत या काम", "en": "Hard work/tasks"}, {"hi": "आराम", "en": "Rest"}, {"hi": "खेल", "en": "Game"}, {"hi": "पार्टी", "en": "Party"}], "answer": {"hi": "मेहनत या काम", "en": "Hard work/tasks"}},
-          {"q": {"hi": "क्या पक्षी का अनुभव सीमित था?", "en": "Was the bird's experience limited?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या पक्षी का दृष्टिकोण बदला?", "en": "Did the bird's perspective change?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या दुनिया वास्तव में छोटी थी?", "en": "Was the world really small?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "नहीं", "en": "No"}},
-          {"q": {"hi": "क्या पक्षी ने अपनी माँ के प्यार का अनुभव किया?", "en": "Did the bird feel the mother's love?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "पक्षी की क्या इच्छा थी?", "en": "What was the bird's desire?"}, "options": [{"hi": "दुनिया को खोजना", "en": "To explore the world"}, {"hi": "हमेशा घोंसले में रहना", "en": "Stay in nest"}, {"hi": "सोना", "en": "To sleep"}, {"hi": "गाना", "en": "To sing"}], "answer": {"hi": "दुनिया को खोजना", "en": "To explore the world"}},
-          {"q": {"hi": "क्या पक्षी बुद्धिमान बन गया था?", "en": "Did the bird become wise?"}, "options": [{"hi": "वह सीख रहा था", "en": "He was learning"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}], "answer": {"hi": "वह सीख रहा था", "en": "He was learning"}}
+          {
+            "q": { "hi": "क्या शेड में कोई आवाज़ आती है?", "en": "Are there any strange noises in the shed?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "बहुत ज्यादा", "en": "Too many"}
+            ],
+            "answer": { "hi": "नहीं", "en": "No" }
+          },
+          {
+            "q": { "hi": "शेड को कवि का भाई क्या कहता है?", "en": "What does the poet's brother call the shed?" },
+            "options": [
+              {"hi": "भूत का घर", "en": "Ghost's house"},
+              {"hi": "अड्डा (den)", "en": "Den"},
+              {"hi": "दुकान", "en": "Shop"},
+              {"hi": "किताबघर", "en": "Library"}
+            ],
+            "answer": { "hi": "अड्डा (den)", "en": "Den" }
+          },
+          {
+            "q": { "hi": "शेड में मकड़ी का जाला कब से है?", "en": "How long has the spider's web been in the shed?" },
+            "options": [
+              {"hi": "एक दिन से", "en": "Since a day"},
+              {"hi": "पता नहीं (since I don't know when)", "en": "Since I don't know when"},
+              {"hi": "एक साल से", "en": "For a year"},
+              {"hi": "हमेशा से", "en": "Always"}
+            ],
+            "answer": { "hi": "पता नहीं (since I don't know when)", "en": "Since I don't know when" }
+          },
+          {
+            "q": { "hi": "कवि अंत में क्या फैसला करता है?", "en": "What does the poet decide in the end?" },
+            "options": [
+              {"hi": "भूत से डरने का", "en": "To be afraid of ghost"},
+              {"hi": "शेड के अंदर जाने का", "en": "To go into the shed"},
+              {"hi": "भाई को सच बताने का", "en": "To tell brother the truth"},
+              {"hi": "जाला साफ करने का", "en": "To clean the web"}
+            ],
+            "answer": { "hi": "शेड के अंदर जाने का", "en": "To go into the shed" }
+          },
+          {
+            "q": { "hi": "कवि अभी शेड में क्यों नहीं जाता?", "en": "Why doesn't the poet go into the shed just yet?" },
+            "options": [
+              {"hi": "वह डरता है", "en": "He is afraid"},
+              {"hi": "वह अभी तैयार नहीं है", "en": "But not just yet"},
+              {"hi": "भाई मना करता है", "en": "Brother forbids"},
+              {"hi": "समय नहीं है", "en": "No time"}
+            ],
+            "answer": { "hi": "वह अभी तैयार नहीं है", "en": "But not just yet" }
+          },
+          {
+            "q": { "hi": "क्या शेड सच में डरावना है?", "en": "Is the shed really scary?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "बता नहीं सकते", "en": "Can't say"}
+            ],
+            "answer": { "hi": "नहीं", "en": "No" }
+          },
+          {
+            "q": { "hi": "शेड के फर्श कैसे हैं?", "en": "How are the floorboards of the shed?" },
+            "options": [
+              {"hi": "मजबूत", "en": "Strong"},
+              {"hi": "सड़े हुए (rotten)", "en": "Rotten"},
+              {"hi": "साफ", "en": "Clean"},
+              {"hi": "पॉलिश किए हुए", "en": "Polished"}
+            ],
+            "answer": { "hi": "सड़े हुए (rotten)", "en": "Rotten" }
+          },
+          {
+            "q": { "hi": "कवि के अनुसार कौन झूठ बोलता है?", "en": "According to the poet, who tells lies?" },
+            "options": [
+              {"hi": "कवि", "en": "Poet"},
+              {"hi": "भाई", "en": "Brother"},
+              {"hi": "पड़ोसी", "en": "Neighbor"},
+              {"hi": "कोई नहीं", "en": "None"}
+            ],
+            "answer": { "hi": "भाई", "en": "Brother" }
+          },
+          {
+            "q": { "hi": "शेड की खिड़की कैसी दिखती है?", "en": "How does the shed's window look?" },
+            "options": [
+              {"hi": "साफ", "en": "Clean"},
+              {"hi": "धूल भरी (dusty)", "en": "Dusty"},
+              {"hi": "बड़ी", "en": "Big"},
+              {"hi": "अजीब", "en": "Weird"}
+            ],
+            "answer": { "hi": "धूल भरी (dusty)", "en": "Dusty" }
+          },
+          {
+            "q": { "hi": "कवि शेड के बारे में कब सोचता है?", "en": "When does the poet think about the shed?" },
+            "options": [
+              {"hi": "स्कूल जाते समय", "en": "On the way to school"},
+              {"hi": "बिस्तर में लेटे हुए", "en": "When lying in bed"},
+              {"hi": "खेलते समय", "en": "While playing"},
+              {"hi": "खाना खाते समय", "en": "While eating"}
+            ],
+            "answer": { "hi": "बिस्तर में लेटे हुए", "en": "When lying in bed" }
+          }
         ],
         "section4": [
-          {"q": {"hi": "क्या दुनिया की कोई सीमा है?", "en": "Does the world have a limit?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "नहीं", "en": "No"}},
-          {"q": {"hi": "पक्षी की दुनिया कैसी थी?", "en": "How was the bird's world?"}, "options": [{"hi": "बदलती हुई", "en": "Changing"}, {"hi": "स्थिर", "en": "Static"}, {"hi": "छोटी", "en": "Small"}, {"hi": "बड़ी", "en": "Big"}], "answer": {"hi": "बदलती हुई", "en": "Changing"}},
-          {"q": {"hi": "क्या बच्चा पक्षी बड़ा होकर उड़ सकता है?", "en": "Can a baby bird grow up and fly?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या ज्ञान अनुभव से आता है?", "en": "Does knowledge come from experience?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या पक्षी अब भी घोंसले में है?", "en": "Is the bird still in the nest?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "नहीं", "en": "No"}},
-          {"q": {"hi": "कविता में कौन-सा पक्षी है?", "en": "Which bird is in the poem?"}, "options": [{"hi": "अज्ञात", "en": "Unknown"}, {"hi": "तोता", "en": "Parrot"}, {"hi": "कौआ", "en": "Crow"}, {"hi": "मोर", "en": "Peacock"}], "answer": {"hi": "अज्ञात", "en": "Unknown"}},
-          {"q": {"hi": "दुनिया किसके लिए बड़ी है?", "en": "For whom is the world big?"}, "options": [{"hi": "हर किसी के लिए", "en": "For everyone"}, {"hi": "सिर्फ पक्षी के लिए", "en": "Only bird"}, {"hi": "सिर्फ मेरे लिए", "en": "Only me"}, {"hi": "किसी के लिए नहीं", "en": "None"}], "answer": {"hi": "हर किसी के लिए", "en": "For everyone"}},
-          {"q": {"hi": "क्या पक्षी के पास दोस्त हैं?", "en": "Does the bird have friends?"}, "options": [{"hi": "पड़ोसी हैं", "en": "Has neighbours"}, {"hi": "नहीं", "en": "No"}, {"hi": "बहुत", "en": "Many"}, {"hi": "शायद", "en": "Maybe"}], "answer": {"hi": "पड़ोसी हैं", "en": "Has neighbours"}},
-          {"q": {"hi": "क्या अनुभव महत्वपूर्ण है?", "en": "Is experience important?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या पक्षी ने दुनिया को पूरी तरह जान लिया?", "en": "Did the bird explore the world completely?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "नहीं", "en": "No"}}
+          {
+            "q": { "hi": "क्या शेड के अंदर कोई अजीब आवाज़ आती है?", "en": "Are there any strange noises inside the shed?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": { "hi": "नहीं", "en": "No" }
+          },
+          {
+            "q": { "hi": "क्या सच में शेड में कोई भूत है?", "en": "Is there really a ghost in the shed?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": { "hi": "नहीं", "en": "No" }
+          },
+          {
+            "q": { "hi": "कवि के भाई के झूठ बोलने का कारण क्या है?", "en": "What is the reason for the poet's brother telling lies?" },
+            "options": [
+              {"hi": "कवि को डराना", "en": "Scaring the poet"},
+              {"hi": "शेड को अपने लिए रखना", "en": "Keeping the shed for himself"},
+              {"hi": "मज़ाक करना", "en": "Making fun"},
+              {"hi": "सब सही है", "en": "All correct"}
+            ],
+            "answer": { "hi": "शेड को अपने लिए रखना", "en": "Keeping the shed for himself" }
+          },
+          {
+            "q": { "hi": "क्या कविता में डरावने शब्दों का इस्तेमाल हुआ है?", "en": "Are there scary words used in the poem?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "बहुत ज्यादा", "en": "Too many"}
+            ],
+            "answer": { "hi": "हाँ", "en": "Yes" }
+          },
+          {
+            "q": { "hi": "क्या कवि को अब डर लगता है?", "en": "Is the poet afraid now?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "थोड़ा", "en": "A little"}
+            ],
+            "answer": { "hi": "नहीं", "en": "No" }
+          },
+          {
+            "q": { "hi": "शेड के बारे में क्या कहा गया है?", "en": "What is said about the shed?" },
+            "options": [
+              {"hi": "यह छोटा कमरा है", "en": "It is a small room"},
+              {"hi": "यह घर से दूर है", "en": "It is away from the house"},
+              {"hi": "यह सामान रखने के लिए है", "en": "It is for storing things"},
+              {"hi": "सभी", "en": "All"}
+            ],
+            "answer": { "hi": "सभी", "en": "All" }
+          },
+          {
+            "q": { "hi": "क्या कवि ने शेड देखा है?", "en": "Has the poet seen the shed?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "भाई ने देखा है", "en": "Brother has seen"}
+            ],
+            "answer": { "hi": "हाँ", "en": "Yes" }
+          },
+          {
+            "q": { "hi": "कवि शेड के खिड़की के बारे में क्या सोचता है?", "en": "What does the poet think about the shed's window?" },
+            "options": [
+              {"hi": "वह साफ है", "en": "It is clean"},
+              {"hi": "वह गंदी है", "en": "It is dirty"},
+              {"hi": "वहां से कोई घूर रहा है", "en": "Someone is staring from there"},
+              {"hi": "वह टूटी नहीं है", "en": "It is not broken"}
+            ],
+            "answer": { "hi": "वहां से कोई घूर रहा है", "en": "Someone is staring from there" }
+          },
+          {
+            "q": { "hi": "कवि के भाई का व्यक्तित्व कैसा है?", "en": "How is the personality of the poet's brother?" },
+            "options": [
+              {"hi": "ईमानदार", "en": "Honest"},
+              {"hi": "झूठा", "en": "Liar"},
+              {"hi": "मददगार", "en": "Helpful"},
+              {"hi": "बुद्धिमान", "en": "Wise"}
+            ],
+            "answer": { "hi": "झूठा", "en": "Liar" }
+          },
+          {
+            "q": { "hi": "कविता का शीर्षक क्या है?", "en": "What is the title of the poem?" },
+            "options": [
+              {"hi": "The Ghost", "en": "The Ghost"},
+              {"hi": "The Shed", "en": "The Shed"},
+              {"hi": "The Garden", "en": "The Garden"},
+              {"hi": "The Brother", "en": "The Brother"}
+            ],
+            "answer": { "hi": "The Shed", "en": "The Shed" }
+          }
         ],
         "section5": [
-          {"q": {"hi": "पक्षी के लिए सबसे सुरक्षित स्थान क्या था?", "en": "What was the safest place for the bird?"}, "options": [{"hi": "घोंसला", "en": "Nest"}, {"hi": "आसमान", "en": "Sky"}, {"hi": "पेड़", "en": "Tree"}, {"hi": "जंगल", "en": "Forest"}], "answer": {"hi": "घोंसला", "en": "Nest"}},
-          {"q": {"hi": "क्या कविता में माँ का उल्लेख है?", "en": "Is there a mention of mother in the poem?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "दुनिया का आकार पक्षी को कैसा लगा?", "en": "What shape did the bird think the world had?"}, "options": [{"hi": "गोल", "en": "Round"}, {"hi": "चौकोर", "en": "Square"}, {"hi": "त्रिभुजाकार", "en": "Triangular"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "गोल", "en": "Round"}},
-          {"q": {"hi": "पक्षी के लिए दुनिया की क्या सामग्री थी?", "en": "What material did the bird think the world was made of?"}, "options": [{"hi": "खोल", "en": "Shell"}, {"hi": "सोना", "en": "Gold"}, {"hi": "चाँदी", "en": "Silver"}, {"hi": "लकड़ी", "en": "Wood"}], "answer": {"hi": "खोल", "en": "Shell"}},
-          {"q": {"hi": "क्या पक्षी अब स्वतंत्र है?", "en": "Is the bird free now?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "पक्षी को दुनिया में क्या खोजने की उम्मीद थी?", "en": "What did the bird expect to find in the world?"}, "options": [{"hi": "कुछ भी", "en": "Anything"}, {"hi": "खजाना", "en": "Treasure"}, {"hi": "खाना", "en": "Food"}, {"hi": "दोस्त", "en": "Friends"}], "answer": {"hi": "कुछ भी"}},
-          {"q": {"hi": "क्या यह कविता सीखने की प्रक्रिया को दर्शाती है?", "en": "Does this poem reflect the learning process?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या दुनिया रहस्यमयी है?", "en": "Is the world mysterious?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "पक्षी को किसका डर था?", "en": "What was the bird afraid of?"}, "options": [{"hi": "कोई नहीं", "en": "None"}, {"hi": "बिल्ली", "en": "Cat"}, {"hi": "शिकारी", "en": "Hunter"}, {"hi": "पानी", "en": "Water"}], "answer": {"hi": "कोई नहीं", "en": "None"}},
-          {"q": {"hi": "क्या आप इस कविता से सहमत हैं?", "en": "Do you agree with this poem?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}}
+          {
+            "q": { "hi": "क्या कवि शेड के अंदर जाने के लिए उत्सुक है?", "en": "Is the poet curious to go inside the shed?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "कभी नहीं", "en": "Never"}
+            ],
+            "answer": { "hi": "हाँ", "en": "Yes" }
+          },
+          {
+            "q": { "hi": "कवि शेड में क्या सुनता है?", "en": "What does the poet hear in the shed?" },
+            "options": [
+              {"hi": "आवाज़", "en": "Noise"},
+              {"hi": "कुछ नहीं", "en": "Nothing"},
+              {"hi": "गाना", "en": "Song"},
+              {"hi": "रोने की आवाज़", "en": "Crying"}
+            ],
+            "answer": { "hi": "कुछ नहीं", "en": "Nothing" }
+          },
+          {
+            "q": { "hi": "क्या मकड़ी का जाला अभी भी शेड में है?", "en": "Is the spider's web still in the shed?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": { "hi": "नहीं", "en": "No" }
+          },
+          {
+            "q": { "hi": "कवि को अब क्या लगता है?", "en": "What does the poet feel now?" },
+            "options": [
+              {"hi": "शेड सुरक्षित है", "en": "Shed is safe"},
+              {"hi": "शेड खतरनाक है", "en": "Shed is dangerous"},
+              {"hi": "शेड रहस्यमयी है", "en": "Shed is mysterious"},
+              {"hi": "सब सही है", "en": "Everything is fine"}
+            ],
+            "answer": { "hi": "शेड सुरक्षित है", "en": "Shed is safe" }
+          },
+          {
+            "q": { "hi": "क्या भाई की बात पर भरोसा करना चाहिए?", "en": "Should we trust the brother's words?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": { "hi": "नहीं", "en": "No" }
+          },
+          {
+            "q": { "hi": "शेड में क्या रखा जा सकता है?", "en": "What can be kept in a shed?" },
+            "options": [
+              {"hi": "जानवर", "en": "Animals"},
+              {"hi": "औज़ार", "en": "Tools"},
+              {"hi": "गाड़ियाँ", "en": "Vehicles"},
+              {"hi": "सब सही है", "en": "All correct"}
+            ],
+            "answer": { "hi": "सब सही है", "en": "All correct" }
+          },
+          {
+            "q": { "hi": "क्या कवि को शेड में जाने से कोई रोक रहा है?", "en": "Is anyone stopping the poet from entering the shed?" },
+            "options": [
+              {"hi": "भाई", "en": "Brother"},
+              {"hi": "माता-पिता", "en": "Parents"},
+              {"hi": "डर", "en": "Fear"},
+              {"hi": "कोई नहीं", "en": "No one"}
+            ],
+            "answer": { "hi": "डर", "en": "Fear" }
+          },
+          {
+            "q": { "hi": "शेड के दरवाज़े पर कौन सा जाला था?", "en": "Which web was on the door of the shed?" },
+            "options": [
+              {"hi": "मकड़ी का", "en": "Spider's"},
+              {"hi": "मक्खी का", "en": "Fly's"},
+              {"hi": "कोई नहीं", "en": "None"},
+              {"hi": "सब", "en": "All"}
+            ],
+            "answer": { "hi": "मकड़ी का", "en": "Spider's" }
+          },
+          {
+            "q": { "hi": "शेड में फर्श कैसा है?", "en": "How is the floor in the shed?" },
+            "options": [
+              {"hi": "मजबूत", "en": "Strong"},
+              {"hi": "रोटेन (सड़ा हुआ)", "en": "Rotten"},
+              {"hi": "साफ", "en": "Clean"},
+              {"hi": "नया", "en": "New"}
+            ],
+            "answer": { "hi": "रोटेन (सड़ा हुआ)", "en": "Rotten" }
+          },
+          {
+            "q": { "hi": "कवि का लक्ष्य क्या है?", "en": "What is the poet's goal?" },
+            "options": [
+              {"hi": "शेड के अंदर जाना", "en": "To enter the shed"},
+              {"hi": "भूत को मारना", "en": "To kill ghost"},
+              {"hi": "भाई को डांटना", "en": "To scold brother"},
+              {"hi": "कुछ नहीं", "en": "Nothing"}
+            ],
+            "answer": { "hi": "शेड के अंदर जाना", "en": "To enter the shed" }
+          }
         ]
       },
     "chapter03c": {
