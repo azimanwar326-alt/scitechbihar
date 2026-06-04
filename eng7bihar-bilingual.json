@@ -662,66 +662,666 @@
           }
         ]
       },
-    "chapter01b":{ 
+    "chapter01b":{
         "section1": [
-          {"q": {"hi": "कविता में कौआ कहाँ बैठा था?", "en": "Where was the Raven perched in the poem?"}, "options": [{"hi": "पेड़ की डाल पर", "en": "On a limb of a tree"}, {"hi": "जमीन पर", "en": "On the ground"}, {"hi": "घर की छत पर", "en": "On the roof"}, {"hi": "पत्थर पर", "en": "On a stone"}], "answer": {"hi": "पेड़ की डाल पर", "en": "On a limb of a tree"}},
-          {"q": {"hi": "कौए को किसने ऊपर देखा?", "en": "Who looked up at the Raven?"}, "options": [{"hi": "लोमड़ी", "en": "The Fox"}, {"hi": "शेर", "en": "The Lion"}, {"hi": "भालू", "en": "The Bear"}, {"hi": "बाघ", "en": "The Tiger"}], "answer": {"hi": "लोमड़ी", "en": "The Fox"}},
-          {"q": {"hi": "कौए की चोंच में क्या था?", "en": "What did the Raven hold in his beak?"}, "options": [{"hi": "एक निवाला", "en": "A morsel"}, {"hi": "एक फल", "en": "A fruit"}, {"hi": "एक फूल", "en": "A flower"}, {"hi": "एक तिनका", "en": "A straw"}], "answer": {"hi": "एक निवाला", "en": "A morsel"}},
-          {"q": {"hi": "कविता में लोमड़ी को क्या कहा गया है?", "en": "What is the Fox called in the poem?"}, "options": [{"hi": "रेनार्ड (Reynard)", "en": "Reynard"}, {"hi": "चालाक", "en": "Cunning"}, {"hi": "तेज", "en": "Fast"}, {"hi": "भूखा", "en": "Hungry"}], "answer": {"hi": "रेनार्ड (Reynard)", "en": "Reynard"}},
-          {"q": {"hi": "लोमड़ी ने कौए को क्या कहकर संबोधित किया?", "en": "What did the Fox call the Raven?"}, "options": [{"hi": "श्रीमान कौआ", "en": "Sir Raven"}, {"hi": "सुंदर पक्षी", "en": "Handsome bird"}, {"hi": "राजा", "en": "King"}, {"hi": "मित्र", "en": "Friend"}], "answer": {"hi": "श्रीमान कौआ", "en": "Sir Raven"}},
-          {"q": {"hi": "लोमड़ी ने कौए के किस गुण की प्रशंसा की?", "en": "What feature of the Raven did the Fox praise?"}, "options": [{"hi": "पंख", "en": "Feathers"}, {"hi": "आंखें", "en": "Eyes"}, {"hi": "चोंच", "en": "Beak"}, {"hi": "रंग", "en": "Color"}], "answer": {"hi": "पंख", "en": "Feathers"}},
-          {"q": {"hi": "लोमड़ी ने कौए से क्या करने को कहा?", "en": "What did the Fox ask the Raven to do?"}, "options": [{"hi": "गाना गाने के लिए", "en": "To sing"}, {"hi": "बोलने के लिए", "en": "To speak"}, {"hi": "नृत्य करने के लिए", "en": "To dance"}, {"hi": "उड़ने के लिए", "en": "To fly"}], "answer": {"hi": "गाना गाने के लिए", "en": "To sing"}},
-          {"q": {"hi": "लोमड़ी के अनुसार, गाने पर उसे क्या कहा जाएगा?", "en": "According to the Fox, what would he be called if he sang?"}, "options": [{"hi": "जंगल का राजा", "en": "King of the woods"}, {"hi": "सबसे मधुर पक्षी", "en": "Sweetest bird"}, {"hi": "सुंदर पक्षी", "en": "Handsome bird"}, {"hi": "चतुर पक्षी", "en": "Clever bird"}], "answer": {"hi": "जंगल का राजा", "en": "King of the woods"}},
-          {"q": {"hi": "कौआ गाने के लिए क्यों राजी हुआ?", "en": "Why did the Raven agree to sing?"}, "options": [{"hi": "अपनी मूर्खतापूर्ण प्रशंसा के कारण", "en": "Because of his foolish pride"}, {"hi": "क्योंकि वह भूखा था", "en": "Because he was hungry"}, {"hi": "लोमड़ी के डर से", "en": "Because he feared the Fox"}, {"hi": "खुशी के मारे", "en": "Out of happiness"}], "answer": {"hi": "अपनी मूर्खतापूर्ण प्रशंसा के कारण", "en": "Because of his foolish pride"}},
-          {"q": {"hi": "क्या कौए की आवाज मधुर थी?", "en": "Was the Raven's voice sweet?"}, "options": [{"hi": "नहीं, वह केवल काँव-काँव थी", "en": "No, it was just a croak"}, {"hi": "हाँ, बहुत मधुर", "en": "Yes, very sweet"}, {"hi": "सामान्य", "en": "Normal"}, {"hi": "बहुत तेज", "en": "Very loud"}], "answer": {"hi": "नहीं, वह केवल काँव-काँव थी", "en": "No, it was just a croak"}}
+          {
+            "q": {
+              "hi": "कवि ने गिलहरी की पूंछ की तुलना किससे की है?",
+              "en": "To what does the poet compare the squirrel's tail?"
+            },
+            "options": [
+              {"hi": "प्रश्नवाचक चिह्न", "en": "Question mark"},
+              {"hi": "अल्पविराम", "en": "Comma"},
+              {"hi": "पूर्ण विराम", "en": "Full stop"},
+              {"hi": "विस्मयादिबोधक चिह्न", "en": "Exclamation mark"}
+            ],
+            "answer": {"hi": "प्रश्नवाचक चिह्न", "en": "Question mark"}
+          },
+          {
+            "q": {
+              "hi": "गिलहरी ने किस रंग का 'ओवरकोट' पहना था?",
+              "en": "What color 'overcoat' was the squirrel wearing?"
+            },
+            "options": [
+              {"hi": "काला", "en": "Black"},
+              {"hi": "भूरा", "en": "Brown"},
+              {"hi": "धूसर (स्लेटी)", "en": "Gray"},
+              {"hi": "सफेद", "en": "White"}
+            ],
+            "answer": {"hi": "धूसर (स्लेटी)", "en": "Gray"}
+          },
+          {
+            "q": {
+              "hi": "अखरोट खाने के लिए गिलहरी कैसे बैठी थी?",
+              "en": "How did the squirrel sit to eat a nut?"
+            },
+            "options": [
+              {"hi": "टेढ़ी", "en": "Slanted"},
+              {"hi": "सीधी", "en": "Straight"},
+              {"hi": "लेटकर", "en": "Lying down"},
+              {"hi": "उल्टी", "en": "Upside down"}
+            ],
+            "answer": {"hi": "सीधी", "en": "Straight"}
+          },
+          {
+            "q": {
+              "hi": "गिलहरी को क्या करना पसंद था?",
+              "en": "What did the squirrel like to do?"
+            },
+            "options": [
+              {"hi": "सोना", "en": "Sleep"},
+              {"hi": "छेड़ना और खेलना", "en": "Tease and play"},
+              {"hi": "दौड़ना", "en": "Run"},
+              {"hi": "गाना", "en": "Sing"}
+            ],
+            "answer": {"hi": "छेड़ना और खेलना", "en": "Tease and play"}
+          },
+          {
+            "q": {
+              "hi": "जब हम पेड़ के चारों ओर दौड़ते थे, तो गिलहरी क्या करती थी?",
+              "en": "What did the squirrel do if we ran around his tree?"
+            },
+            "options": [
+              {"hi": "वह हमारे पास आता था", "en": "He came to us"},
+              {"hi": "वह दूसरी तरफ चला जाता था", "en": "He went the other way"},
+              {"hi": "वह छिप जाता था", "en": "He hid"},
+              {"hi": "वह पेड़ पर चढ़ जाता था", "en": "He climbed the tree"}
+            ],
+            "answer": {"hi": "वह दूसरी तरफ चला जाता था", "en": "He went the other way"}
+          },
+          {
+            "q": {
+              "hi": "इस कविता की कवयित्री कौन हैं?",
+              "en": "Who is the poetess of this poem?"
+            },
+            "options": [
+              {"hi": "आर.के. नारायण", "en": "R.K. Narayan"},
+              {"hi": "मिल्ड्रेड बोवर्स आर्मस्ट्रांग", "en": "Mildred Bowers Armstrong"},
+              {"hi": "रुडयार्ड किपलिंग", "en": "Rudyard Kipling"},
+              {"hi": "सुभद्रा कुमारी चौहान", "en": "Subhadra Kumari Chauhan"}
+            ],
+            "answer": {"hi": "मिल्ड्रेड बोवर्स आर्मस्ट्रांग", "en": "Mildred Bowers Armstrong"}
+          },
+          {
+            "q": {
+              "hi": "गिलहरी क्या खा रही थी?",
+              "en": "What was the squirrel eating?"
+            },
+            "options": [
+              {"hi": "फल", "en": "Fruit"},
+              {"hi": "अखरोट/मेवा", "en": "Nut"},
+              {"hi": "बीज", "en": "Seed"},
+              {"hi": "पत्ते", "en": "Leaves"}
+            ],
+            "answer": {"hi": "अखरोट/मेवा", "en": "Nut"}
+          },
+          {
+            "q": {
+              "hi": "कविता में 'overcoat' शब्द का प्रयोग किसके लिए किया गया है?",
+              "en": "In the poem, the word 'overcoat' is used for what?"
+            },
+            "options": [
+              {"hi": "गिलहरी के फर/त्वचा", "en": "Squirrel's fur/skin"},
+              {"hi": "एक असली कोट", "en": "A real coat"},
+              {"hi": "पेड़ की छाल", "en": "Tree bark"},
+              {"hi": "टोकरी", "en": "Basket"}
+            ],
+            "answer": {"hi": "गिलहरी के फर/त्वचा", "en": "Squirrel's fur/skin"}
+          },
+          {
+            "q": {
+              "hi": "गिलहरी का व्यवहार कैसा था?",
+              "en": "How was the squirrel's behavior?"
+            },
+            "options": [
+              {"hi": "आक्रामक", "en": "Aggressive"},
+              {"hi": "चंचल", "en": "Playful"},
+              {"hi": "डरा हुआ", "en": "Scared"},
+              {"hi": "सुस्त", "en": "Lazy"}
+            ],
+            "answer": {"hi": "चंचल", "en": "Playful"}
+          },
+          {
+            "q": {
+              "hi": "कविता में गिलहरी कहाँ बैठी थी?",
+              "en": "Where was the squirrel sitting in the poem?"
+            },
+            "options": [
+              {"hi": "घर की छत पर", "en": "On the roof"},
+              {"hi": "जमीन पर", "en": "On the ground"},
+              {"hi": "मेज पर", "en": "On the table"},
+              {"hi": "पानी में", "en": "In the water"}
+            ],
+            "answer": {"hi": "जमीन पर", "en": "On the ground"}
+          }
         ],
         "section2": [
-          {"q": {"hi": "जब कौए ने चोंच खोली तो क्या हुआ?", "en": "What happened when the Raven opened his beak?"}, "options": [{"hi": "निवाला नीचे गिर गया", "en": "The morsel fell down"}, {"hi": "वह उड़ गया", "en": "He flew away"}, {"hi": "लोमड़ी भाग गई", "en": "The Fox ran away"}, {"hi": "वह गाना गाने लगा", "en": "He started singing"}], "answer": {"hi": "निवाला नीचे गिर गया", "en": "The morsel fell down"}},
-          {"q": {"hi": "लोमड़ी ने क्या किया?", "en": "What did the Fox do?"}, "options": [{"hi": "हँसा और निवाला ले लिया", "en": "Laughed and took the morsel"}, {"hi": "रोना शुरू किया", "en": "Started crying"}, {"hi": "भाग गया", "en": "Ran away"}, {"hi": "धन्यवाद कहा", "en": "Said thank you"}], "answer": {"hi": "हँसा और निवाला ले लिया", "en": "Laughed and took the morsel"}},
-          {"q": {"hi": "कविता के अनुसार 'Pride' (अहंकार) कैसा है?", "en": "According to the poem, how is pride?"}, "options": [{"hi": "नासमझ (unwise)", "en": "Unwise"}, {"hi": "अच्छा", "en": "Good"}, {"hi": "जरूरी", "en": "Necessary"}, {"hi": "शक्तिशाली", "en": "Powerful"}], "answer": {"hi": "नासमझ (unwise)", "en": "Unwise"}},
-          {"q": {"hi": "लोमड़ी ने कौए को क्या सलाह दी?", "en": "What advice did the Fox give to the Raven?"}, "options": [{"hi": "मीठे शब्दों को नजरअंदाज करो", "en": "Ignore sweet words"}, {"hi": "हमेशा गाओ", "en": "Always sing"}, {"hi": "जंगल में रहो", "en": "Stay in the woods"}, {"hi": "सब पर भरोसा करो", "en": "Trust everyone"}], "answer": {"hi": "मीठे शब्दों को नजरअंदाज करो", "en": "Ignore sweet words"}},
-          {"q": {"hi": "यह कविता किसने लिखी है?", "en": "Who wrote this poem?"}, "options": [{"hi": "जीन डी ला फोंटेन", "en": "Jean de La Fontaine"}, {"hi": "रवींद्रनाथ टैगोर", "en": "Rabindranath Tagore"}, {"hi": "आर.के. नारायण", "en": "R.K. Narayan"}, {"hi": "सुधा मूर्ति", "en": "Sudha Murty"}], "answer": {"hi": "जीन डी ला फोंटेन", "en": "Jean de La Fontaine"}},
-          {"q": {"hi": "क्या मेंढक काँव-काँव करते हैं?", "en": "Do frogs croak?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "कभी-कभी", "en": "Sometimes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "कहानियों में किस जानवर को चालाक दिखाया जाता है?", "en": "Which animal is shown to be cunning in stories?"}, "options": [{"hi": "लोमड़ी (fox)", "en": "Fox"}, {"hi": "बाघ (tiger)", "en": "Tiger"}, {"hi": "भालू (bear)", "en": "Bear"}, {"hi": "कौआ (raven)", "en": "Raven"}], "answer": {"hi": "लोमड़ी (fox)", "en": "Fox"}},
-          {"q": {"hi": "लोमड़ी कैसी थी?", "en": "How was the fox?"}, "options": [{"hi": "चालाक", "en": "Cunning"}, {"hi": "सीधी", "en": "Simple"}, {"hi": "मूर्ख", "en": "Foolish"}, {"hi": "दयालु", "en": "Kind"}], "answer": {"hi": "चालाक", "en": "Cunning"}},
-          {"q": {"hi": "कौआ कैसा महसूस कर रहा था?", "en": "How was the Raven feeling?"}, "options": [{"hi": "प्रशंसित और गौरवान्वित", "en": "Admired and proud"}, {"hi": "दुखी", "en": "Sad"}, {"hi": "डरा हुआ", "en": "Afraid"}, {"hi": "गुस्से में", "en": "Angry"}], "answer": {"hi": "प्रशंसित और गौरवान्वित", "en": "Admired and proud"}},
-          {"q": {"hi": "लोमड़ी की बातों का क्या उद्देश्य था?", "en": "What was the purpose of the Fox's words?"}, "options": [{"hi": "निवाला हासिल करना", "en": "To get the morsel"}, {"hi": "कौए का दोस्त बनना", "en": "To be the Raven's friend"}, {"hi": "गाना सुनना", "en": "To hear a song"}, {"hi": "मज़ाक करना", "en": "To joke"}], "answer": {"hi": "निवाला हासिल करना", "en": "To get the morsel"}}
+          {
+            "q": {
+              "hi": "गिलहरी के शरीर का रंग कैसा था?",
+              "en": "What was the color of the squirrel's body?"
+            },
+            "options": [
+              {"hi": "भूरा", "en": "Brown"},
+              {"hi": "स्लेटी/धूसर", "en": "Gray"},
+              {"hi": "काला", "en": "Black"},
+              {"hi": "धब्बेदार", "en": "Spotted"}
+            ],
+            "answer": {"hi": "स्लेटी/धूसर", "en": "Gray"}
+          },
+          {
+            "q": {
+              "hi": "गिलहरी क्या करते हुए दिखाई गई है?",
+              "en": "What is the squirrel shown doing?"
+            },
+            "options": [
+              {"hi": "खेलते हुए", "en": "Playing"},
+              {"hi": "अखरोट खाते हुए", "en": "Eating a nut"},
+              {"hi": "दौड़ते हुए", "en": "Running"},
+              {"hi": "सोते हुए", "en": "Sleeping"}
+            ],
+            "answer": {"hi": "अखरोट खाते हुए", "en": "Eating a nut"}
+          },
+          {
+            "q": {
+              "hi": "गिलहरी को 'प्रश्नवाचक चिह्न' वाली पूंछ क्यों कहा गया है?",
+              "en": "Why is the squirrel called to have a 'question mark' tail?"
+            },
+            "options": [
+              {"hi": "क्योंकि वह प्रश्न पूछती है", "en": "Because it asks questions"},
+              {"hi": "क्योंकि उसका आकार प्रश्न चिह्न जैसा है", "en": "Because it is shaped like a question mark"},
+              {"hi": "क्योंकि यह मुड़ी हुई है", "en": "Because it is curly"},
+              {"hi": "क्योंकि यह लंबी है", "en": "Because it is long"}
+            ],
+            "answer": {"hi": "क्योंकि उसका आकार प्रश्न चिह्न जैसा है", "en": "Because it is shaped like a question mark"}
+          },
+          {
+            "q": {
+              "hi": "क्या गिलहरी इंसानों के साथ घुलना-मिलना पसंद करती थी?",
+              "en": "Did the squirrel like to socialize with humans?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "कभी-कभी", "en": "Sometimes"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": {
+              "hi": "इस कविता का मुख्य विषय क्या है?",
+              "en": "What is the main theme of this poem?"
+            },
+            "options": [
+              {"hi": "पेड़", "en": "Trees"},
+              {"hi": "अखरोट", "en": "Nuts"},
+              {"hi": "गिलहरी का वर्णन", "en": "Description of a squirrel"},
+              {"hi": "दौड़ना", "en": "Running"}
+            ],
+            "answer": {"hi": "गिलहरी का वर्णन", "en": "Description of a squirrel"}
+          },
+          {
+            "q": {
+              "hi": "गिलहरी को 'तंग करना' (tease) क्यों पसंद था?",
+              "en": "Why did the squirrel like to tease?"
+            },
+            "options": [
+              {"hi": "वह शरारती थी", "en": "She was naughty"},
+              {"hi": "वह गुस्से में थी", "en": "She was angry"},
+              {"hi": "उसे खेल पसंद था", "en": "She liked to play"},
+              {"hi": "वह भूखी थी", "en": "She was hungry"}
+            ],
+            "answer": {"hi": "उसे खेल पसंद था", "en": "She liked to play"}
+          },
+          {
+            "q": {
+              "hi": "कविता में 'tree' शब्द का प्रयोग किसके संदर्भ में हुआ है?",
+              "en": "In the poem, the word 'tree' is used in context to what?"
+            },
+            "options": [
+              {"hi": "जहाँ गिलहरी रहती थी", "en": "Where the squirrel lived"},
+              {"hi": "जहाँ बच्चे खेलते थे", "en": "Where children played"},
+              {"hi": "जहाँ अखरोट मिलते थे", "en": "Where nuts were found"},
+              {"hi": "उपरोक्त सभी", "en": "All of the above"}
+            ],
+            "answer": {"hi": "जहाँ गिलहरी रहती थी", "en": "Where the squirrel lived"}
+          },
+          {
+            "q": {
+              "hi": "गिलहरी कैसी आवाज करती होगी?",
+              "en": "What kind of sound does a squirrel make?"
+            },
+            "options": [
+              {"hi": "चीं-चीं", "en": "Chirping"},
+              {"hi": "भौंकना", "en": "Barking"},
+              {"hi": "म्याऊं", "en": "Meowing"},
+              {"hi": "दहाड़ना", "en": "Roaring"}
+            ],
+            "answer": {"hi": "चीं-चीं", "en": "Chirping"}
+          },
+          {
+            "q": {
+              "hi": "कविता में 'gray' का हिंदी अर्थ क्या है?",
+              "en": "What is the Hindi meaning of 'gray' in the poem?"
+            },
+            "options": [
+              {"hi": "सफेद", "en": "White"},
+              {"hi": "स्लेटी/धूसर", "en": "Gray"},
+              {"hi": "नीला", "en": "Blue"},
+              {"hi": "हरा", "en": "Green"}
+            ],
+            "answer": {"hi": "स्लेटी/धूसर", "en": "Gray"}
+          },
+          {
+            "q": {
+              "hi": "गिलहरी का भोजन क्या है?",
+              "en": "What is the squirrel's food?"
+            },
+            "options": [
+              {"hi": "घास", "en": "Grass"},
+              {"hi": "मेवे/अखरोट", "en": "Nuts"},
+              {"hi": "कीड़े", "en": "Insects"},
+              {"hi": "मांस", "en": "Meat"}
+            ],
+            "answer": {"hi": "मेवे/अखरोट", "en": "Nuts"}
+          }
         ],
         "section3": [
-          {"q": {"hi": "'Perched' का क्या अर्थ है?", "en": "What is the meaning of 'Perched'?"}, "options": [{"hi": "बैठना (पक्षी के लिए)", "en": "To sit (for a bird)"}, {"hi": "उड़ना", "en": "To fly"}, {"hi": "चलना", "en": "To walk"}, {"hi": "सोना", "en": "To sleep"}], "answer": {"hi": "बैठना (पक्षी के लिए)", "en": "To sit (for a bird)"}},
-          {"q": {"hi": "'Morsel' का क्या अर्थ है?", "en": "What is the meaning of 'Morsel'?"}, "options": [{"hi": "भोजन का एक छोटा टुकड़ा", "en": "A small piece of food"}, {"hi": "एक बड़ा फल", "en": "A big fruit"}, {"hi": "एक जानवर", "en": "An animal"}, {"hi": "एक गीत", "en": "A song"}], "answer": {"hi": "भोजन का एक छोटा टुकड़ा", "en": "A small piece of food"}},
-          {"q": {"hi": "'Admiring' का क्या अर्थ है?", "en": "What is the meaning of 'Admiring'?"}, "options": [{"hi": "सराहना करना", "en": "To praise or show approval"}, {"hi": "नफरत करना", "en": "To hate"}, {"hi": "रोना", "en": "To cry"}, {"hi": "हँसना", "en": "To laugh"}], "answer": {"hi": "सराहना करना", "en": "To praise or show approval"}},
-          {"q": {"hi": "'Croak' का क्या अर्थ है?", "en": "What is the meaning of 'Croak'?"}, "options": [{"hi": "कौए या मेंढक की कर्कश आवाज", "en": "The harsh sound of a raven or frog"}, {"hi": "सुरीली आवाज", "en": "Sweet sound"}, {"hi": "चुप रहना", "en": "To be silent"}, {"hi": "सीटी बजाना", "en": "To whistle"}], "answer": {"hi": "कौए या मेंढक की कर्कश आवाज", "en": "The harsh sound of a raven or frog"}},
-          {"q": {"hi": "'Unwise' का क्या अर्थ है?", "en": "What is the meaning of 'Unwise'?"}, "options": [{"hi": "नासमझ या मूर्खतापूर्ण", "en": "Foolish or not wise"}, {"hi": "बुद्धिमान", "en": "Wise"}, {"hi": "समझदार", "en": "Smart"}, {"hi": "तेज", "en": "Fast"}], "answer": {"hi": "नासमझ या मूर्खतापूर्ण", "en": "Foolish or not wise"}},
-          {"q": {"hi": "लोमड़ी ने 'sweet words' का उपयोग क्यों किया?", "en": "Why did the Fox use 'sweet words'?"}, "options": [{"hi": "कौए को फुसलाने के लिए", "en": "To flatter/trick the Raven"}, {"hi": "गाना सुनने के लिए", "en": "To hear a song"}, {"hi": "सच्ची तारीफ करने के लिए", "en": "To praise truly"}, {"hi": "बात करने के लिए", "en": "To talk"}], "answer": {"hi": "कौए को फुसलाने के लिए", "en": "To flatter/trick the Raven"}},
-          {"q": {"hi": "कविता का मुख्य पाठ (moral) क्या है?", "en": "What is the moral of the poem?"}, "options": [{"hi": "चापलूसी से बचो", "en": "Beware of flattery"}, {"hi": "खूब गाओ", "en": "Sing a lot"}, {"hi": "पेड़ पर बैठो", "en": "Sit on a tree"}, {"hi": "लोमड़ी से दोस्ती करो", "en": "Befriend a fox"}], "answer": {"hi": "चापलूसी से बचो", "en": "Beware of flattery"}},
-          {"q": {"hi": "कौए की क्या कमजोरी थी?", "en": "What was the Raven's weakness?"}, "options": [{"hi": "अपनी तारीफ सुनना", "en": "Listening to his own praise"}, {"hi": "भोजन", "en": "Food"}, {"hi": "उड़ना", "en": "Flying"}, {"hi": "पेड़", "en": "Tree"}], "answer": {"hi": "अपनी तारीफ सुनना", "en": "Listening to his own praise"}},
-          {"q": {"hi": "कौआ अंत में कैसा था?", "en": "How was the Raven at the end?"}, "options": [{"hi": "भूखा और नासमझ", "en": "Hungry and unwise"}, {"hi": "पेट भरा हुआ", "en": "Full"}, {"hi": "खुश", "en": "Happy"}, {"hi": "शक्तिशाली", "en": "Powerful"}], "answer": {"hi": "भूखा और नासमझ", "en": "Hungry and unwise"}},
-          {"q": {"hi": "कवि का नाम क्या है?", "en": "What is the name of the poet?"}, "options": [{"hi": "जीन डी ला फोंटेन", "en": "Jean de La Fontaine"}, {"hi": "विलियम वर्ड्सवर्थ", "en": "William Wordsworth"}, {"hi": "आर.के. नारायण", "en": "R.K. Narayan"}, {"hi": "सुधा मूर्ति", "en": "Sudha Murty"}], "answer": {"hi": "जीन डी ला फोंटेन", "en": "Jean de La Fontaine"}}
+          {
+            "q": {
+              "hi": "कवि के अनुसार, गिलहरी क्या पहनती है?",
+              "en": "According to the poet, what does the squirrel wear?"
+            },
+            "options": [
+              {"hi": "टोपी", "en": "Hat"},
+              {"hi": "स्वेटर", "en": "Sweater"},
+              {"hi": "ओवरकोट", "en": "Overcoat"},
+              {"hi": "कुछ नहीं", "en": "Nothing"}
+            ],
+            "answer": {"hi": "ओवरकोट", "en": "Overcoat"}
+          },
+          {
+            "q": {
+              "hi": "गिलहरी कितनी बड़ी होती है?",
+              "en": "How big is a squirrel?"
+            },
+            "options": [
+              {"hi": "बहुत बड़ी", "en": "Very big"},
+              {"hi": "छोटी", "en": "Small"},
+              {"hi": "हाथी जितनी", "en": "Like an elephant"},
+              {"hi": "कुत्ते जितनी", "en": "Like a dog"}
+            ],
+            "answer": {"hi": "छोटी", "en": "Small"}
+          },
+          {
+            "q": {
+              "hi": "कविता किस जानवर के बारे में है?",
+              "en": "The poem is about which animal?"
+            },
+            "options": [
+              {"hi": "खरगोश", "en": "Rabbit"},
+              {"hi": "गिलहरी", "en": "Squirrel"},
+              {"hi": "चूहा", "en": "Mouse"},
+              {"hi": "बिल्ली", "en": "Cat"}
+            ],
+            "answer": {"hi": "गिलहरी", "en": "Squirrel"}
+          },
+          {
+            "q": {
+              "hi": "क्या गिलहरी को पकड़ना आसान है?",
+              "en": "Is it easy to catch a squirrel?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "कभी-कभी", "en": "Sometimes"},
+              {"hi": "बहुत आसान", "en": "Very easy"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": {
+              "hi": "कविता में 'nut' शब्द का अर्थ है?",
+              "en": "In the poem, what does the word 'nut' mean?"
+            },
+            "options": [
+              {"hi": "पेड़", "en": "Tree"},
+              {"hi": "मेवा", "en": "Nut"},
+              {"hi": "पूंछ", "en": "Tail"},
+              {"hi": "कोट", "en": "Coat"}
+            ],
+            "answer": {"hi": "मेवा", "en": "Nut"}
+          },
+          {
+            "q": {
+              "hi": "गिलहरी स्वभाव से कैसी है?",
+              "en": "How is the squirrel by nature?"
+            },
+            "options": [
+              {"hi": "शांत", "en": "Quiet"},
+              {"hi": "चंचल", "en": "Playful"},
+              {"hi": "गंभीर", "en": "Serious"},
+              {"hi": "डरी हुई", "en": "Afraid"}
+            ],
+            "answer": {"hi": "चंचल", "en": "Playful"}
+          },
+          {
+            "q": {
+              "hi": "कवि का क्या अर्थ है कि वह 'दूसरी तरफ चला गया'?",
+              "en": "What does the poet mean by 'he went the other way'?"
+            },
+            "options": [
+              {"hi": "वह छिप गया", "en": "He hid"},
+              {"hi": "वह भाग गया", "en": "He ran away"},
+              {"hi": "वह पेड़ के दूसरी ओर चला गया", "en": "He moved to the other side of the tree"},
+              {"hi": "वह सो गया", "en": "He went to sleep"}
+            ],
+            "answer": {"hi": "वह पेड़ के दूसरी ओर चला गया", "en": "He moved to the other side of the tree"}
+          },
+          {
+            "q": {
+              "hi": "क्या गिलहरी का ओवरकोट सच में कपड़े का है?",
+              "en": "Is the squirrel's overcoat really made of fabric?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "हाँ, ऊनी है", "en": "Yes, it is woolen"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": {
+              "hi": "कविता में कितने छंद हैं?",
+              "en": "How many stanzas are there in the poem?"
+            },
+            "options": [
+              {"hi": "एक", "en": "One"},
+              {"hi": "दो", "en": "Two"},
+              {"hi": "तीन", "en": "Three"},
+              {"hi": "चार", "en": "Four"}
+            ],
+            "answer": {"hi": "एक", "en": "One"}
+          },
+          {
+            "q": {
+              "hi": "कविता का शीर्षक क्या है?",
+              "en": "What is the title of the poem?"
+            },
+            "options": [
+              {"hi": "द ट्री", "en": "The Tree"},
+              {"hi": "द स्क्विरेल", "en": "The Squirrel"},
+              {"hi": "द नट", "en": "The Nut"},
+              {"hi": "माई पेट", "en": "My Pet"}
+            ],
+            "answer": {"hi": "द स्क्विरेल", "en": "The Squirrel"}
+          }
         ],
         "section4": [
-          {"q": {"hi": "क्या कौए के पास वास्तव में सुरीली आवाज थी?", "en": "Did the Raven actually have a sweet voice?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}, {"hi": "शायद", "en": "Maybe"}], "answer": {"hi": "नहीं", "en": "No"}},
-          {"q": {"hi": "लोमड़ी का इरादा क्या था?", "en": "What was the intention of the fox?"}, "options": [{"hi": "स्वार्थी", "en": "Selfish"}, {"hi": "दयालु", "en": "Kind"}, {"hi": "मददगार", "en": "Helpful"}, {"hi": "दोस्ताना", "en": "Friendly"}], "answer": {"hi": "स्वार्थी", "en": "Selfish"}},
-          {"q": {"hi": "लोमड़ी की बातों पर कौन विश्वास कर गया?", "en": "Who believed the Fox's words?"}, "options": [{"hi": "कौआ", "en": "Raven"}, {"hi": "पेड़", "en": "Tree"}, {"hi": "भालू", "en": "Bear"}, {"hi": "बाघ", "en": "Tiger"}], "answer": {"hi": "कौआ", "en": "Raven"}},
-          {"q": {"hi": "क्या यह कहानी हमें सिखाती है कि प्रशंसा हमेशा सच होती है?", "en": "Does this story teach us that praise is always true?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "नहीं", "en": "No"}},
-          {"q": {"hi": "निवाला कहाँ गिरा?", "en": "Where did the morsel fall?"}, "options": [{"hi": "नीचे", "en": "Down"}, {"hi": "पेड़ पर", "en": "On the tree"}, {"hi": "पानी में", "en": "In water"}, {"hi": "दूर", "en": "Far away"}], "answer": {"hi": "नीचे", "en": "Down"}},
-          {"q": {"hi": "कौए को 'King' (राजा) बनाने का लालच किसने दिया?", "en": "Who offered the lure of making the Raven 'King'?"}, "options": [{"hi": "लोमड़ी", "en": "Fox"}, {"hi": "भालू", "en": "Bear"}, {"hi": "बाघ", "en": "Tiger"}, {"hi": "अन्य पक्षी", "en": "Other birds"}], "answer": {"hi": "लोमड़ी", "en": "Fox"}},
-          {"q": {"hi": "कविता में कौन सा पक्षी 'Foolish pride' (मूर्खतापूर्ण अहंकार) में फंस गया?", "en": "Which bird fell into 'foolish pride' in the poem?"}, "options": [{"hi": "कौआ", "en": "Raven"}, {"hi": "तोता", "en": "Parrot"}, {"hi": "मोर", "en": "Peacock"}, {"hi": "चिड़िया", "en": "Sparrow"}], "answer": {"hi": "कौआ", "en": "Raven"}},
-          {"q": {"hi": "क्या कौए को पता था कि लोमड़ी झूठ बोल रही है?", "en": "Did the Raven know the fox was lying?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "नहीं", "en": "No"}},
-          {"q": {"hi": "लोमड़ी की हंसी क्या दर्शाती है?", "en": "What does the Fox's laugh represent?"}, "options": [{"hi": "उसकी जीत", "en": "His victory/cunningness"}, {"hi": "उसकी खुशी", "en": "His happiness"}, {"hi": "उसकी दोस्ती", "en": "His friendship"}, {"hi": "उसकी दया", "en": "His kindness"}], "answer": {"hi": "उसकी जीत", "en": "His victory/cunningness"}},
-          {"q": {"hi": "प्रशंसा (flattery) से हमें क्या करना चाहिए?", "en": "What should we do with flattery?"}, "options": [{"hi": "सावधान रहना चाहिए", "en": "Be cautious"}, {"hi": "खुश होना चाहिए", "en": "Be happy"}, {"hi": "विश्वास करना चाहिए", "en": "Believe it"}, {"hi": "शेयर करना चाहिए", "en": "Share it"}], "answer": {"hi": "सावधान रहना चाहिए", "en": "Be cautious"}}
+          {
+            "q": {
+              "hi": "गिलहरी की पूंछ का आकार क्या है?",
+              "en": "What is the shape of the squirrel's tail?"
+            },
+            "options": [
+              {"hi": "गोल", "en": "Round"},
+              {"hi": "प्रश्नवाचक चिह्न जैसा", "en": "Like a question mark"},
+              {"hi": "सीधा", "en": "Straight"},
+              {"hi": "त्रिकोणीय", "en": "Triangular"}
+            ],
+            "answer": {"hi": "प्रश्नवाचक चिह्न जैसा", "en": "Like a question mark"}
+          },
+          {
+            "q": {
+              "hi": "क्या गिलहरी पेड़ पर रहती है?",
+              "en": "Does the squirrel live in a tree?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "पानी में रहती है", "en": "Lives in water"},
+              {"hi": "गुफा में रहती है", "en": "Lives in a cave"}
+            ],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {
+              "hi": "गिलहरी अखरोट कैसे खाती है?",
+              "en": "How does the squirrel eat the nut?"
+            },
+            "options": [
+              {"hi": "सीधे बैठकर", "en": "Sitting straight"},
+              {"hi": "लेटे हुए", "en": "Lying down"},
+              {"hi": "भागते हुए", "en": "Running"},
+              {"hi": "पेड़ से नीचे फेंककर", "en": "Throwing from the tree"}
+            ],
+            "answer": {"hi": "सीधे बैठकर", "en": "Sitting straight"}
+          },
+          {
+            "q": {
+              "hi": "कवि गिलहरी को क्या मानता है?",
+              "en": "What does the poet consider the squirrel?"
+            },
+            "options": [
+              {"hi": "एक पालतू जानवर", "en": "A pet"},
+              {"hi": "एक चंचल जीव", "en": "A playful creature"},
+              {"hi": "खतरनाक", "en": "Dangerous"},
+              {"hi": "सुस्त", "en": "Lazy"}
+            ],
+            "answer": {"hi": "एक चंचल जीव", "en": "A playful creature"}
+          },
+          {
+            "q": {
+              "hi": "गिलहरी का रंग कैसा है?",
+              "en": "What is the color of the squirrel?"
+            },
+            "options": [
+              {"hi": "धूसर/स्लेटी", "en": "Gray"},
+              {"hi": "लाल", "en": "Red"},
+              {"hi": "पीला", "en": "Yellow"},
+              {"hi": "बैंगनी", "en": "Purple"}
+            ],
+            "answer": {"hi": "धूसर/स्लेटी", "en": "Gray"}
+          },
+          {
+            "q": {
+              "hi": "गिलहरी क्या खाना पसंद करती है?",
+              "en": "What does the squirrel like to eat?"
+            },
+            "options": [
+              {"hi": "चॉकलेट", "en": "Chocolate"},
+              {"hi": "अखरोट", "en": "Nuts"},
+              {"hi": "घास", "en": "Grass"},
+              {"hi": "मिठाई", "en": "Sweets"}
+            ],
+            "answer": {"hi": "अखरोट", "en": "Nuts"}
+          },
+          {
+            "q": {
+              "hi": "कविता में 'tease' का हिंदी अर्थ क्या है?",
+              "en": "What is the Hindi meaning of 'tease' in the poem?"
+            },
+            "options": [
+              {"hi": "छेड़ना", "en": "Tease"},
+              {"hi": "प्यार करना", "en": "Love"},
+              {"hi": "नफरत करना", "en": "Hate"},
+              {"hi": "पकड़ना", "en": "Catch"}
+            ],
+            "answer": {"hi": "छेड़ना", "en": "Tease"}
+          },
+          {
+            "q": {
+              "hi": "गिलहरी की पूंछ कैसी दिखती है?",
+              "en": "How does the squirrel's tail look?"
+            },
+            "options": [
+              {"hi": "लंबी और सीधी", "en": "Long and straight"},
+              {"hi": "मुड़ी हुई/प्रश्न चिह्न जैसी", "en": "Curly/like a question mark"},
+              {"hi": "छोटी", "en": "Short"},
+              {"hi": "गोल", "en": "Round"}
+            ],
+            "answer": {"hi": "मुड़ी हुई/प्रश्न चिह्न जैसी", "en": "Curly/like a question mark"}
+          },
+          {
+            "q": {
+              "hi": "पेड़ के पास दौड़ने पर गिलहरी क्या करती थी?",
+              "en": "What did the squirrel do when running near the tree?"
+            },
+            "options": [
+              {"hi": "हमारा पीछा करता था", "en": "Chased us"},
+              {"hi": "दूर भाग जाता था", "en": "Ran away"},
+              {"hi": "पेड़ के दूसरी तरफ चला जाता था", "en": "Went to the other side of the tree"},
+              {"hi": "हमारे ऊपर कूदता था", "en": "Jumped on us"}
+            ],
+            "answer": {"hi": "पेड़ के दूसरी तरफ चला जाता था", "en": "Went to the other side of the tree"}
+          },
+          {
+            "q": {
+              "hi": "क्या गिलहरी को खेलना पसंद था?",
+              "en": "Did the squirrel like to play?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद नहीं", "en": "Probably not"},
+              {"hi": "उसे नफरत थी", "en": "He hated it"}
+            ],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          }
         ],
         "section5": [
-          {"q": {"hi": "क्या लोमड़ी सच में कौए को राजा बनाना चाहती थी?", "en": "Did the Fox really want to make the Raven king?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "नहीं", "en": "No"}},
-          {"q": {"hi": "कौए को 'Handsome' (सुंदर) क्यों कहा गया?", "en": "Why was the Raven called 'handsome'?"}, "options": [{"hi": "उसे फुसलाने के लिए", "en": "To flatter him"}, {"hi": "वह सच में सुंदर था", "en": "He was truly beautiful"}, {"hi": "मज़ाक में", "en": "In a joke"}, {"hi": "उसकी आवाज के लिए", "en": "For his voice"}], "answer": {"hi": "उसे फुसलाने के लिए", "en": "To flatter him"}},
-          {"q": {"hi": "क्या आप इस कविता के संदेश से सहमत हैं?", "en": "Do you agree with the message of this poem?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "लोमड़ी ने कौए के किन 'मीठे शब्दों' की बात की?", "en": "What did the Fox mean by 'sweet words'?"}, "options": [{"hi": "चापलूसी", "en": "Flattery"}, {"hi": "सच्चाई", "en": "Truth"}, {"hi": "प्यार", "en": "Love"}, {"hi": "मज़ाक", "en": "Joke"}], "answer": {"hi": "चापलूसी", "en": "Flattery"}},
-          {"q": {"hi": "क्या कौए ने निवाला वापस पा लिया?", "en": "Did the Raven get the morsel back?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "नहीं", "en": "No"}},
-          {"q": {"hi": "कविता में 'limbs' क्या हैं?", "en": "What are the 'limbs' in the poem?"}, "options": [{"hi": "पेड़ की डालियां", "en": "Tree branches"}, {"hi": "जानवर के पैर", "en": "Animal legs"}, {"hi": "पक्षी के पंख", "en": "Bird wings"}, {"hi": "इंसान के हाथ", "en": "Human hands"}], "answer": {"hi": "पेड़ की डालियां", "en": "Tree branches"}},
-          {"q": {"hi": "लोमड़ी ने निवाला खाने के बाद क्या किया?", "en": "What did the fox do after eating the morsel?"}, "options": [{"hi": "कौए को सबक सिखाया", "en": "Taught the Raven a lesson"}, {"hi": "उसे धन्यवाद दिया", "en": "Thanked him"}, {"hi": "उसे और गाना सुनाने को कहा", "en": "Asked for another song"}, {"hi": "सो गया", "en": "Went to sleep"}], "answer": {"hi": "कौए को सबक सिखाया", "en": "Taught the Raven a lesson"}},
-          {"q": {"hi": "कौआ कहाँ था?", "en": "Where was the Raven?"}, "options": [{"hi": "पेड़ पर", "en": "On the tree"}, {"hi": "जमीन पर", "en": "On the ground"}, {"hi": "गुफा में", "en": "In a cave"}, {"hi": "घोंसले में", "en": "In the nest"}], "answer": {"hi": "पेड़ पर", "en": "On the tree"}},
-          {"q": {"hi": "क्या लोमड़ी की सीख कौए के लिए उपयोगी थी?", "en": "Was the fox's lesson useful to the Raven?"}, "options": [{"hi": "हाँ, लेकिन बहुत देर हो चुकी थी", "en": "Yes, but it was too late"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ, लेकिन बहुत देर हो चुकी थी", "en": "Yes, but it was too late"}},
-          {"q": {"hi": "कविता का शीर्षक क्या है?", "en": "What is the title of the poem?"}, "options": [{"hi": "द रेवेन एंड द फॉक्स", "en": "The Raven and the Fox"}, {"hi": "चालाक लोमड़ी", "en": "The Cunning Fox"}, {"hi": "मूर्ख कौआ", "en": "The Foolish Raven"}, {"hi": "जंगल के जानवर", "en": "Animals of the Woods"}], "answer": {"hi": "द रेवेन एंड द फॉक्स", "en": "The Raven and the Fox"}}
+          {
+            "q": {
+              "hi": "कविता के अनुसार गिलहरी कैसी दिखती है?",
+              "en": "According to the poem, how does the squirrel look?"
+            },
+            "options": [
+              {"hi": "स्लेटी और चंचल", "en": "Gray and playful"},
+              {"hi": "बड़ी और खूंखार", "en": "Big and fierce"},
+              {"hi": "रंगीन", "en": "Colorful"},
+              {"hi": "काली और डरावनी", "en": "Black and scary"}
+            ],
+            "answer": {"hi": "स्लेटी और चंचल", "en": "Gray and playful"}
+          },
+          {
+            "q": {
+              "hi": "गिलहरी का 'ओवरकोट' क्या दर्शाता है?",
+              "en": "What does the squirrel's 'overcoat' represent?"
+            },
+            "options": [
+              {"hi": "उसके कपड़े", "en": "Its clothes"},
+              {"hi": "उसकी प्राकृतिक फर/त्वचा", "en": "Its natural fur/coat"},
+              {"hi": "पेड़ की छाल", "en": "Tree bark"},
+              {"hi": "कोई नहीं", "en": "None"}
+            ],
+            "answer": {"hi": "उसकी प्राकृतिक फर/त्वचा", "en": "Its natural fur/coat"}
+          },
+          {
+            "q": {
+              "hi": "क्या गिलहरी के पास मित्र थे?",
+              "en": "Did the squirrel have friends?"
+            },
+            "options": [
+              {"hi": "शायद हाँ", "en": "Probably yes"},
+              {"hi": "नहीं, वह अकेला था", "en": "No, he was alone"},
+              {"hi": "पता नहीं", "en": "Don't know"},
+              {"hi": "उसके बहुत सारे दोस्त थे", "en": "He had many friends"}
+            ],
+            "answer": {"hi": "शायद हाँ", "en": "Probably yes"}
+          },
+          {
+            "q": {
+              "hi": "कवि के अनुसार, गिलहरी क्या करती है?",
+              "en": "According to the poet, what does the squirrel do?"
+            },
+            "options": [
+              {"hi": "पेड़ काटता है", "en": "Cuts trees"},
+              {"hi": "अखरोट खाता है", "en": "Eats nuts"},
+              {"hi": "गाता है", "en": "Sings"},
+              {"hi": "लिखता है", "en": "Writes"}
+            ],
+            "answer": {"hi": "अखरोट खाता है", "en": "Eats nuts"}
+          },
+          {
+            "q": {
+              "hi": "कविता में 'straight' का अर्थ क्या है?",
+              "en": "What is the meaning of 'straight' in the poem?"
+            },
+            "options": [
+              {"hi": "मुड़ा हुआ", "en": "Curly"},
+              {"hi": "सीधा", "en": "Straight"},
+              {"hi": "लंबा", "en": "Long"},
+              {"hi": "तेज", "en": "Fast"}
+            ],
+            "answer": {"hi": "सीधा", "en": "Straight"}
+          },
+          {
+            "q": {
+              "hi": "गिलहरी पेड़ के पास रहने वालों के साथ क्या करती थी?",
+              "en": "What did the squirrel do with those living near the tree?"
+            },
+            "options": [
+              {"hi": "खेलती थी", "en": "Played"},
+              {"hi": "लड़ती थी", "en": "Fought"},
+              {"hi": "नमस्ते करती थी", "en": "Greeted"},
+              {"hi": "भोजन बांटती थी", "en": "Shared food"}
+            ],
+            "answer": {"hi": "खेलती थी", "en": "Played"}
+          },
+          {
+            "q": {
+              "hi": "क्या कविता में गिलहरी का नाम दिया गया है?",
+              "en": "Is the squirrel named in the poem?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "हाँ, उसका नाम बंटी है", "en": "Yes, its name is Bunty"},
+              {"hi": "हाँ, उसका नाम चुन्नू है", "en": "Yes, its name is Chunnu"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": {
+              "hi": "कविता का संदेश क्या हो सकता है?",
+              "en": "What could be the message of the poem?"
+            },
+            "options": [
+              {"hi": "जानवरों का सम्मान करें", "en": "Respect animals"},
+              {"hi": "प्रकृति के प्रति जागरूक रहें", "en": "Be aware of nature"},
+              {"hi": "खेल का महत्व", "en": "Importance of play"},
+              {"hi": "उपरोक्त सभी", "en": "All of the above"}
+            ],
+            "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
+          },
+          {
+            "q": {
+              "hi": "कविता की भाषा कैसी है?",
+              "en": "How is the language of the poem?"
+            },
+            "options": [
+              {"hi": "जटिल", "en": "Complex"},
+              {"hi": "सरल और स्पष्ट", "en": "Simple and clear"},
+              {"hi": "अस्पष्ट", "en": "Vague"},
+              {"hi": "नीरस", "en": "Dull"}
+            ],
+            "answer": {"hi": "सरल और स्पष्ट", "en": "Simple and clear"}
+          },
+          {
+            "q": {
+              "hi": "क्या गिलहरी का ओवरकोट जलरोधक है?",
+              "en": "Is the squirrel's overcoat waterproof?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "कविता में नहीं बताया गया है", "en": "Not mentioned in the poem"}
+            ],
+            "answer": {"hi": "कविता में नहीं बताया गया है", "en": "Not mentioned in the poem"}
+          }
         ]
       },
     "chapter01c": {
