@@ -5508,1419 +5508,669 @@
           }
         ]
       },
-    "chapter05aa": {
+    "chapter05b":{
         "section1": [
           {
             "q": {
-              "hi": "कार्यक्रम का नाम क्या था?",
-              "en": "What was the name of the programme?"
+              "hi": "पेड़ किसके लिए होते हैं?",
+              "en": "What are trees for?"
             },
             "options": [
-              {
-                "hi": "एक भारत, श्रेष्ठ भारत",
-                "en": "Ek Bharat, Shreshtha Bharat"
-              },
-              {
-                "hi": "भारत भ्रमण",
-                "en": "Bharat Bhraman"
-              },
-              {
-                "hi": "कला उत्सव",
-                "en": "Kala Utsav"
-              },
-              {
-                "hi": "नया भारत",
-                "en": "Naya Bharat"
-              }
+              {"hi": "पक्षियों के लिए", "en": "For birds"},
+              {"hi": "बच्चों के लिए", "en": "For children"},
+              {"hi": "दोनों (पक्षियों और बच्चों के लिए)", "en": "Both (for birds and children)"},
+              {"hi": "किसी के लिए नहीं", "en": "For none"}
             ],
-            "answer": {
-              "hi": "एक भारत, श्रेष्ठ भारत",
-              "en": "Ek Bharat, Shreshtha Bharat"
-            }
+            "answer": {"hi": "दोनों (पक्षियों और बच्चों के लिए)", "en": "Both (for birds and children)"}
           },
           {
             "q": {
-              "hi": "रेणु के अनुसार, भारत की सबसे बड़ी विशेषता क्या है?",
-              "en": "According to Renu, what makes India most wonderful?"
+              "hi": "बच्चे पेड़ों का उपयोग कैसे करते हैं?",
+              "en": "How do children use trees?"
             },
             "options": [
-              {
-                "hi": "विभिन्नता में एकता",
-                "en": "Unity in diversity"
-              },
-              {
-                "hi": "प्राकृतिक सौंदर्य",
-                "en": "Natural beauty"
-              },
-              {
-                "hi": "बड़ा क्षेत्रफल",
-                "en": "Large area"
-              },
-              {
-                "hi": "तकनीक",
-                "en": "Technology"
-              }
+              {"hi": "घर बनाने के लिए", "en": "To make tree houses"},
+              {"hi": "झूला झूलने के लिए", "en": "To swing swings"},
+              {"hi": "खेलने के लिए", "en": "To play"},
+              {"hi": "उपरोक्त सभी", "en": "All of the above"}
             ],
-            "answer": {
-              "hi": "विभिन्नता में एकता",
-              "en": "Unity in diversity"
-            }
+            "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
           },
           {
             "q": {
-              "hi": "आकांक्षा किस राज्य से थी?",
-              "en": "Which state was Aakansha from?"
+              "hi": "हवा पेड़ों में से कैसे बहती है?",
+              "en": "How does the wind blow through trees?"
             },
             "options": [
-              {
-                "hi": "उत्तराखंड",
-                "en": "Uttarakhand"
-              },
-              {
-                "hi": "केरल",
-                "en": "Kerala"
-              },
-              {
-                "hi": "आंध्र प्रदेश",
-                "en": "Andhra Pradesh"
-              },
-              {
-                "hi": "बिहार",
-                "en": "Bihar"
-              }
+              {"hi": "तेजी से", "en": "Fast"},
+              {"hi": "धीरे-धीरे", "en": "Slowly"},
+              {"hi": "पेड़ों में से होकर", "en": "Trees are for the wind to blow through"},
+              {"hi": "रुक-रुक कर", "en": "Stopping"}
             ],
-            "answer": {
-              "hi": "उत्तराखंड",
-              "en": "Uttarakhand"
-            }
+            "answer": {"hi": "पेड़ों में से होकर", "en": "Trees are for the wind to blow through"}
           },
           {
             "q": {
-              "hi": "आकांक्षा की लोक कला का नाम क्या है?",
-              "en": "What is the name of Aakansha's folk art?"
+              "hi": "बच्चे 'छुपन-छुपाई' खेलते समय क्या करते हैं?",
+              "en": "What do children do while playing 'Hide and Seek'?"
             },
             "options": [
-              {
-                "hi": "ऐपन (Aipan)",
-                "en": "Aipan"
-              },
-              {
-                "hi": "मधुबनी",
-                "en": "Madhubani"
-              },
-              {
-                "hi": "वरली",
-                "en": "Warli"
-              },
-              {
-                "hi": "पेंटिंग",
-                "en": "Painting"
-              }
+              {"hi": "पेड़ों के पीछे छिपते हैं", "en": "Hide behind trees"},
+              {"hi": "पेड़ पर चढ़ते हैं", "en": "Climb trees"},
+              {"hi": "भागते हैं", "en": "Run"},
+              {"hi": "गाते हैं", "en": "Sing"}
             ],
-            "answer": {
-              "hi": "ऐपन (Aipan)",
-              "en": "Aipan"
-            }
+            "answer": {"hi": "पेड़ों के पीछे छिपते हैं", "en": "Hide behind trees"}
           },
           {
             "q": {
-              "hi": "ऐपन किस रंग की दीवारों पर बनाया जाता है?",
-              "en": "On what colored walls is Aipan drawn?"
+              "hi": "पेड़ों के नीचे क्या किया जाता है?",
+              "en": "What is done under the trees?"
             },
             "options": [
-              {
-                "hi": "ईंट-लाल (brick-red)",
-                "en": "Brick-red"
-              },
-              {
-                "hi": "सफेद",
-                "en": "White"
-              },
-              {
-                "hi": "नीली",
-                "en": "Blue"
-              },
-              {
-                "hi": "पीली",
-                "en": "Yellow"
-              }
+              {"hi": "सोना", "en": "Sleeping"},
+              {"hi": "चाय पार्टी", "en": "Tea parties"},
+              {"hi": "पढ़ना", "en": "Reading"},
+              {"hi": "दौड़ना", "en": "Running"}
             ],
-            "answer": {
-              "hi": "ईंट-लाल (brick-red)",
-              "en": "Brick-red"
-            }
+            "answer": {"hi": "चाय पार्टी", "en": "Tea parties"}
           },
           {
             "q": {
-              "hi": "ऐपन बनाने के लिए किसका उपयोग किया जाता है?",
-              "en": "What is used to make Aipan?"
+              "hi": "पेड़ों में क्या फँस जाता है?",
+              "en": "What gets caught in trees?"
             },
             "options": [
-              {
-                "hi": "चावल के आटे का पेस्ट",
-                "en": "Rice flour paste"
-              },
-              {
-                "hi": "गेहूं का आटा",
-                "en": "Wheat flour"
-              },
-              {
-                "hi": "मिट्टी",
-                "en": "Clay"
-              },
-              {
-                "hi": "रंग",
-                "en": "Paint"
-              }
+              {"hi": "पतंगें", "en": "Kites"},
+              {"hi": "गेंद", "en": "Ball"},
+              {"hi": "चिड़िया", "en": "Birds"},
+              {"hi": "टोपी", "en": "Hat"}
             ],
-            "answer": {
-              "hi": "चावल के आटे का पेस्ट",
-              "en": "Rice flour paste"
-            }
+            "answer": {"hi": "पतंगें", "en": "Kites"}
           },
           {
             "q": {
-              "hi": "ऐपन कला कौन बनाती हैं?",
-              "en": "Who makes the Aipan art?"
+              "hi": "गर्मियों में पेड़ क्या देते हैं?",
+              "en": "What do trees provide in summer?"
             },
             "options": [
-              {
-                "hi": "परिवार की महिलाएं",
-                "en": "Women in the family"
-              },
-              {
-                "hi": "बच्चे",
-                "en": "Children"
-              },
-              {
-                "hi": "पुरूष",
-                "en": "Men"
-              },
-              {
-                "hi": "शिक्षक",
-                "en": "Teachers"
-              }
+              {"hi": "फल", "en": "Fruits"},
+              {"hi": "ठंडी छाया", "en": "Cool shade"},
+              {"hi": "लकड़ी", "en": "Wood"},
+              {"hi": "फूल", "en": "Flowers"}
             ],
-            "answer": {
-              "hi": "परिवार की महिलाएं",
-              "en": "Women in the family"
-            }
+            "answer": {"hi": "ठंडी छाया", "en": "Cool shade"}
           },
           {
             "q": {
-              "hi": "ऐपन कला कैसी होती है?",
-              "en": "What are Aipan designs like?"
+              "hi": "सर्दियों में पेड़ों की छाया कैसी होती है?",
+              "en": "What is the shade of trees like in winter?"
             },
             "options": [
-              {
-                "hi": "गणितीय (mathematical)",
-                "en": "Mathematical"
-              },
-              {
-                "hi": "अस्पष्ट",
-                "en": "Vague"
-              },
-              {
-                "hi": "सरल",
-                "en": "Simple"
-              },
-              {
-                "hi": "बड़ी",
-                "en": "Big"
-              }
+              {"hi": "बहुत ठंडी", "en": "Very cold"},
+              {"hi": "कोई छाया नहीं", "en": "No shade"},
+              {"hi": "बहुत गर्म", "en": "Very hot"},
+              {"hi": "सामान्य", "en": "Normal"}
             ],
-            "answer": {
-              "hi": "गणितीय (mathematical)",
-              "en": "Mathematical"
-            }
+            "answer": {"hi": "कोई छाया नहीं", "en": "No shade"}
           },
           {
             "q": {
-              "hi": "ऐपन कहाँ बनाया जाता है?",
-              "en": "Where is Aipan made?"
+              "hi": "पेड़ों पर कौन से फल उगते हैं?",
+              "en": "Which fruits grow on trees?"
             },
             "options": [
-              {
-                "hi": "पूजा कमरों में",
-                "en": "In puja rooms"
-              },
-              {
-                "hi": "छत पर",
-                "en": "On roof"
-              },
-              {
-                "hi": "बाजार में",
-                "en": "In market"
-              },
-              {
-                "hi": "खेत में",
-                "en": "In field"
-              }
+              {"hi": "सेब और नाशपाती", "en": "Apples and pears"},
+              {"hi": "आम और केला", "en": "Mango and banana"},
+              {"hi": "अंगूर और संतरा", "en": "Grapes and orange"},
+              {"hi": "कोई नहीं", "en": "None"}
             ],
-            "answer": {
-              "hi": "पूजा कमरों में",
-              "en": "In puja rooms"
-            }
+            "answer": {"hi": "सेब और नाशपाती", "en": "Apples and pears"}
           },
           {
             "q": {
-              "hi": "ऐपन कब बनाया जाता है?",
-              "en": "When is Aipan made?"
+              "hi": "पेड़ काटने पर क्या चिल्लाया जाता है?",
+              "en": "What is shouted while chopping down trees?"
             },
             "options": [
-              {
-                "hi": "त्योहारों पर",
-                "en": "Festivals/functions"
-              },
-              {
-                "hi": "रोज",
-                "en": "Daily"
-              },
-              {
-                "hi": "रात में",
-                "en": "At night"
-              },
-              {
-                "hi": "कभी नहीं",
-                "en": "Never"
-              }
+              {"hi": "हुर्रे", "en": "Hurray"},
+              {"hi": "टिम्बर-र-र", "en": "TIMBER-R-R"},
+              {"hi": "हलो", "en": "Hello"},
+              {"hi": "स्टॉप", "en": "Stop"}
             ],
-            "answer": {
-              "hi": "त्योहारों पर",
-              "en": "Festivals/functions"
-            }
+            "answer": {"hi": "टिम्बर-र-र", "en": "TIMBER-R-R"}
           }
         ],
         "section2": [
           {
             "q": {
-              "hi": "चित्रा किस राज्य से है?",
-              "en": "Which state is Chitra from?"
+              "hi": "पेड़ों को देखकर माताएँ क्या कहती हैं?",
+              "en": "What do mothers say upon seeing trees?"
             },
             "options": [
-              {
-                "hi": "केरल",
-                "en": "Kerala"
-              },
-              {
-                "hi": "आंध्र प्रदेश",
-                "en": "Andhra Pradesh"
-              },
-              {
-                "hi": "उत्तराखंड",
-                "en": "Uttarakhand"
-              },
-              {
-                "hi": "पंजाब",
-                "en": "Punjab"
-              }
+              {"hi": "कितने सारे पत्ते हैं", "en": "A lot of leaves"},
+              {"hi": "चित्र बनाने के लिए कितना सुंदर दृश्य", "en": "What a lovely picture to paint"},
+              {"hi": "पेड़ काटो", "en": "Chop down the tree"},
+              {"hi": "बहुत छाया है", "en": "Too much shade"}
             ],
-            "answer": {
-              "hi": "केरल",
-              "en": "Kerala"
-            }
+            "answer": {"hi": "चित्र बनाने के लिए कितना सुंदर दृश्य", "en": "What a lovely picture to paint"}
           },
           {
             "q": {
-              "hi": "चित्रा ने किस हस्तकला के बारे में बताया?",
-              "en": "Which craft did Chitra talk about?"
+              "hi": "पेड़ों को देखकर पिता क्या कहते हैं?",
+              "en": "What do fathers say upon seeing trees?"
             },
             "options": [
-              {
-                "hi": "नारियल के खोल की कला",
-                "en": "Coconut shell craft"
-              },
-              {
-                "hi": "मिट्टी के खिलौने",
-                "en": "Clay toys"
-              },
-              {
-                "hi": "ऐपन",
-                "en": "Aipan"
-              },
-              {
-                "hi": "कपड़ा बुनाई",
-                "en": "Cloth weaving"
-              }
+              {"hi": "चित्र बनाओ", "en": "Paint a picture"},
+              {"hi": "पत्ते बटोरने के लिए बहुत हैं", "en": "What a lot of leaves to rake this fall"},
+              {"hi": "फल खाओ", "en": "Eat fruits"},
+              {"hi": "पेड़ लगाओ", "en": "Plant trees"}
             ],
-            "answer": {
-              "hi": "नारियल के खोल की कला",
-              "en": "Coconut shell craft"
-            }
+            "answer": {"hi": "पत्ते बटोरने के लिए बहुत हैं", "en": "What a lot of leaves to rake this fall"}
           },
           {
             "q": {
-              "hi": "नारियल के खोल को कैसे चिकना बनाया जाता है?",
-              "en": "How is the coconut shell made smooth?"
+              "hi": "कविता की कवयित्री कौन हैं?",
+              "en": "Who is the poetess of this poem?"
             },
             "options": [
-              {
-                "hi": "सैंडपेपर या मशीन से",
-                "en": "Using sandpaper or a machine"
-              },
-              {
-                "hi": "पानी से",
-                "en": "Using water"
-              },
-              {
-                "hi": "धूप से",
-                "en": "Using sun"
-              },
-              {
-                "hi": "हाथों से",
-                "en": "Using hands"
-              }
+              {"hi": "शर्ली बॉअर", "en": "Shirley Bauer"},
+              {"hi": "रस्किन बॉन्ड", "en": "Ruskin Bond"},
+              {"hi": "आर.के. नारायण", "en": "R.K. Narayan"},
+              {"hi": "शर्ली टेम्पल", "en": "Shirley Temple"}
             ],
-            "answer": {
-              "hi": "सैंडपेपर या मशीन से",
-              "en": "Using sandpaper or a machine"
-            }
+            "answer": {"hi": "शर्ली बॉअर", "en": "Shirley Bauer"}
           },
           {
             "q": {
-              "hi": "खोल को स्थिर (stable) बनाने के लिए क्या किया जाता है?",
-              "en": "What is done to make the shell stable?"
+              "hi": "पेड़ों के नीचे क्या बनाने का आनंद मिलता है?",
+              "en": "What do children enjoy making in trees?"
             },
             "options": [
-              {
-                "hi": "आधार फिक्स करना",
-                "en": "Fixing a base under it"
-              },
-              {
-                "hi": "रंग करना",
-                "en": "Painting"
-              },
-              {
-                "hi": "काटना",
-                "en": "Cutting"
-              },
-              {
-                "hi": "धोना",
-                "en": "Washing"
-              }
+              {"hi": "घोंसला", "en": "Nest"},
+              {"hi": "पेड़ के घर (tree houses)", "en": "Tree houses"},
+              {"hi": "झूला", "en": "Swing"},
+              {"hi": "किताब", "en": "Book"}
             ],
-            "answer": {
-              "hi": "आधार फिक्स करना",
-              "en": "Fixing a base under it"
-            }
+            "answer": {"hi": "पेड़ के घर (tree houses)", "en": "Tree houses"}
           },
           {
             "q": {
-              "hi": "खोल को चमकदार बनाने के लिए क्या इस्तेमाल होता है?",
-              "en": "What is used to make the shell shine?"
+              "hi": "क्या पेड़ पतझड़ में पत्ते गिराते हैं?",
+              "en": "Do trees shed leaves in autumn (fall)?"
             },
             "options": [
-              {
-                "hi": "लकड़ी का पॉलिश (wood polish)",
-                "en": "Wood polish"
-              },
-              {
-                "hi": "पानी",
-                "en": "Water"
-              },
-              {
-                "hi": "तेल",
-                "en": "Oil"
-              },
-              {
-                "hi": "मिट्टी",
-                "en": "Clay"
-              }
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
             ],
-            "answer": {
-              "hi": "लकड़ी का पॉलिश (wood polish)",
-              "en": "Wood polish"
-            }
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
             "q": {
-              "hi": "नारियल के खोल से क्या बनाया जाता है?",
-              "en": "What are made from coconut shells?"
+              "hi": "पेड़ किसके लिए अच्छे हैं?",
+              "en": "Who are trees good for?"
             },
             "options": [
-              {
-                "hi": "कटोरे और आभूषण",
-                "en": "Bowls and jewellery"
-              },
-              {
-                "hi": "खिलौने",
-                "en": "Toys"
-              },
-              {
-                "hi": "दीवार",
-                "en": "Wall"
-              },
-              {
-                "hi": "कपड़े",
-                "en": "Clothes"
-              }
+              {"hi": "पक्षी", "en": "Birds"},
+              {"hi": "बच्चे", "en": "Children"},
+              {"hi": "हवा", "en": "Wind"},
+              {"hi": "सबके लिए", "en": "For everyone"}
             ],
-            "answer": {
-              "hi": "कटोरे और आभूषण",
-              "en": "Bowls and jewellery"
-            }
+            "answer": {"hi": "सबके लिए", "en": "For everyone"}
           },
           {
             "q": {
-              "hi": "नारियल खोल की कला कैसी है?",
-              "en": "What kind of craft is coconut shell craft?"
+              "hi": "पेड़ का उपयोग छिपने के लिए कौन करता है?",
+              "en": "Who uses trees to hide?"
             },
             "options": [
-              {
-                "hi": "बायोडिग्रेडेबल (biodegradable)",
-                "en": "Biodegradable"
-              },
-              {
-                "hi": "खतरनाक",
-                "en": "Dangerous"
-              },
-              {
-                "hi": "महंगी",
-                "en": "Expensive"
-              },
-              {
-                "hi": "भारी",
-                "en": "Heavy"
-              }
+              {"hi": "बच्चे", "en": "Children"},
+              {"hi": "पक्षी", "en": "Birds"},
+              {"hi": "हवा", "en": "Wind"},
+              {"hi": "कोई नहीं", "en": "None"}
             ],
-            "answer": {
-              "hi": "बायोडिग्रेडेबल (biodegradable)",
-              "en": "Biodegradable"
-            }
+            "answer": {"hi": "बच्चे", "en": "Children"}
           },
           {
             "q": {
-              "hi": "नारियल के खोल को साफ करने के बाद क्या करते हैं?",
-              "en": "What is done after cleaning the shell?"
+              "hi": "सर्दियों में पेड़ क्या नहीं देते?",
+              "en": "What do trees not provide in winter?"
             },
             "options": [
-              {
-                "hi": "चिकना बनाते हैं",
-                "en": "Make it smooth"
-              },
-              {
-                "hi": "बेचते हैं",
-                "en": "Sell"
-              },
-              {
-                "hi": "फेंक देते हैं",
-                "en": "Throw"
-              },
-              {
-                "hi": "रंगते हैं",
-                "en": "Paint"
-              }
+              {"hi": "फल", "en": "Fruit"},
+              {"hi": "छाया (no shade)", "en": "Shade"},
+              {"hi": "लकड़ी", "en": "Wood"},
+              {"hi": "पत्ते", "en": "Leaves"}
             ],
-            "answer": {
-              "hi": "चिकना बनाते हैं",
-              "en": "Make it smooth"
-            }
+            "answer": {"hi": "छाया (no shade)", "en": "Shade"}
           },
           {
             "q": {
-              "hi": "नारियल की कला किस पर्यावरण के अनुकूल है?",
-              "en": "Is coconut craft eco-friendly?"
+              "hi": "पतंगें कहाँ फँसती हैं?",
+              "en": "Where do kites get stuck?"
             },
             "options": [
-              {
-                "hi": "हाँ",
-                "en": "Yes"
-              },
-              {
-                "hi": "नहीं",
-                "en": "No"
-              },
-              {
-                "hi": "शायद",
-                "en": "Maybe"
-              },
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              }
+              {"hi": "घर पर", "en": "At home"},
+              {"hi": "पेड़ में", "en": "In the tree"},
+              {"hi": "पानी में", "en": "In water"},
+              {"hi": "खेत में", "en": "In field"}
             ],
-            "answer": {
-              "hi": "हाँ",
-              "en": "Yes"
-            }
+            "answer": {"hi": "पेड़ में", "en": "In the tree"}
           },
           {
             "q": {
-              "hi": "क्या नारियल खोल से आभूषण बनते हैं?",
-              "en": "Are jewellery made from coconut shells?"
+              "hi": "पेड़ काटना क्या कहलाता है?",
+              "en": "What is chopping down trees called?"
             },
             "options": [
-              {
-                "hi": "हाँ",
-                "en": "Yes"
-              },
-              {
-                "hi": "नहीं",
-                "en": "No"
-              },
-              {
-                "hi": "शायद",
-                "en": "Maybe"
-              },
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              }
+              {"hi": "खेती", "en": "Farming"},
+              {"hi": "काटना (chopping)", "en": "Chopping"},
+              {"hi": "बागवानी", "en": "Gardening"},
+              {"hi": "सजावट", "en": "Decoration"}
             ],
-            "answer": {
-              "hi": "हाँ",
-              "en": "Yes"
-            }
+            "answer": {"hi": "काटना (chopping)", "en": "Chopping"}
           }
         ],
         "section3": [
           {
             "q": {
-              "hi": "बलमुरली किस राज्य से है?",
-              "en": "Which state is Balamurali from?"
+              "hi": "क्या माताएं पेड़ों को सुंदर मानती हैं?",
+              "en": "Do mothers find trees beautiful?"
             },
             "options": [
-              {
-                "hi": "आंध्र प्रदेश",
-                "en": "Andhra Pradesh"
-              },
-              {
-                "hi": "केरल",
-                "en": "Kerala"
-              },
-              {
-                "hi": "उत्तराखंड",
-                "en": "Uttarakhand"
-              },
-              {
-                "hi": "बिहार",
-                "en": "Bihar"
-              }
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
             ],
-            "answer": {
-              "hi": "आंध्र प्रदेश",
-              "en": "Andhra Pradesh"
-            }
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
             "q": {
-              "hi": "बलमुरली ने किस कला के बारे में बताया?",
-              "en": "What art did Balamurali talk about?"
+              "hi": "पिता पेड़ों के बारे में क्या चिंतित हैं?",
+              "en": "What are fathers concerned about regarding trees?"
             },
             "options": [
-              {
-                "hi": "खिलौने बनाना",
-                "en": "Making toys"
-              },
-              {
-                "hi": "ऐपन",
-                "en": "Aipan"
-              },
-              {
-                "hi": "नारियल कला",
-                "en": "Coconut craft"
-              },
-              {
-                "hi": "बुनाई",
-                "en": "Weaving"
-              }
+              {"hi": "पत्ते बटोरना (raking leaves)", "en": "Raking leaves"},
+              {"hi": "फल खाना", "en": "Eating fruits"},
+              {"hi": "पेड़ काटना", "en": "Cutting trees"},
+              {"hi": "पानी डालना", "en": "Watering trees"}
             ],
-            "answer": {
-              "hi": "खिलौने बनाना",
-              "en": "Making toys"
-            }
+            "answer": {"hi": "पत्ते बटोरना (raking leaves)", "en": "Raking leaves"}
           },
           {
             "q": {
-              "hi": "कोंडापल्ली खिलौने कितने साल पुराने हैं?",
-              "en": "How old is the Kondapalli toy-making art?"
+              "hi": "पेड़ हमें क्या देते हैं?",
+              "en": "What do trees give us?"
             },
             "options": [
-              {
-                "hi": "400 साल",
-                "en": "400 years"
-              },
-              {
-                "hi": "100 साल",
-                "en": "100 years"
-              },
-              {
-                "hi": "50 साल",
-                "en": "50 years"
-              },
-              {
-                "hi": "1000 साल",
-                "en": "1000 years"
-              }
+              {"hi": "छाया", "en": "Shade"},
+              {"hi": "फल", "en": "Fruits"},
+              {"hi": "लकड़ी", "en": "Wood"},
+              {"hi": "उपरोक्त सभी", "en": "All of the above"}
             ],
-            "answer": {
-              "hi": "400 साल",
-              "en": "400 years"
-            }
+            "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
           },
           {
             "q": {
-              "hi": "खिलौने बनाने के लिए लकड़ी कहाँ से आती है?",
-              "en": "Where does the wood for toys come from?"
+              "hi": "क्या पेड़ घर के लिए सहायक हैं?",
+              "en": "Are trees helpful for a house?"
             },
             "options": [
-              {
-                "hi": "पास की पहाड़ियों से",
-                "en": "Nearby hills"
-              },
-              {
-                "hi": "घर से",
-                "en": "From home"
-              },
-              {
-                "hi": "बाजार से",
-                "en": "From market"
-              },
-              {
-                "hi": "दूसरे राज्य से",
-                "en": "From other state"
-              }
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
             ],
-            "answer": {
-              "hi": "पास की पहाड़ियों से",
-              "en": "Nearby hills"
-            }
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
             "q": {
-              "hi": "टुकड़ों को जोड़ने के लिए 'मकू' (makku) क्या है?",
-              "en": "What is 'makku' used to join pieces?"
+              "hi": "क्या पतंग पेड़ों में फंसती है?",
+              "en": "Do kites get stuck in trees?"
             },
             "options": [
-              {
-                "hi": "इमली के बीज का पेस्ट",
-                "en": "Tamarind seed paste"
-              },
-              {
-                "hi": "फेविकोल",
-                "en": "Fevicol"
-              },
-              {
-                "hi": "पानी",
-                "en": "Water"
-              },
-              {
-                "hi": "मिट्टी",
-                "en": "Clay"
-              }
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "कभी-कभी", "en": "Sometimes"},
+              {"hi": "पता नहीं", "en": "Don't know"}
             ],
-            "answer": {
-              "hi": "इमली के बीज का पेस्ट",
-              "en": "Tamarind seed paste"
-            }
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
             "q": {
-              "hi": "खिलौनों को रंगने के लिए किन रंगों का उपयोग होता है?",
-              "en": "What colors are used to paint the toys?"
+              "hi": "क्या बच्चे पेड़ों पर झूल सकते हैं?",
+              "en": "Can children swing on trees?"
             },
             "options": [
-              {
-                "hi": "वेजीटेबल डाई/एनामल",
-                "en": "Vegetable dyes/enamel"
-              },
-              {
-                "hi": "पानी के रंग",
-                "en": "Water colors"
-              },
-              {
-                "hi": "मिट्टी के रंग",
-                "en": "Clay colors"
-              },
-              {
-                "hi": "कोई नहीं",
-                "en": "None"
-              }
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "कभी नहीं", "en": "Never"}
             ],
-            "answer": {
-              "hi": "वेजीटेबल डाई/एनामल",
-              "en": "Vegetable dyes/enamel"
-            }
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
             "q": {
-              "hi": "खिलौने किन चीजों पर आधारित होते हैं?",
-              "en": "What are the toys based on?"
+              "hi": "पेड़ों के नीचे क्या आयोजन हो सकता है?",
+              "en": "What event can happen under trees?"
             },
             "options": [
-              {
-                "hi": "लोक कथाएँ और ग्रामीण जीवन",
-                "en": "Folk stories and rural life"
-              },
-              {
-                "hi": "सिर्फ भगवान",
-                "en": "Only God"
-              },
-              {
-                "hi": "तकनीक",
-                "en": "Technology"
-              },
-              {
-                "hi": "पैसे",
-                "en": "Money"
-              }
+              {"hi": "चाय पार्टी", "en": "Tea party"},
+              {"hi": "पढ़ाई", "en": "Study"},
+              {"hi": "सोना", "en": "Sleeping"},
+              {"hi": "दौड़ना", "en": "Running"}
             ],
-            "answer": {
-              "hi": "लोक कथाएँ और ग्रामीण जीवन",
-              "en": "Folk stories and rural life"
-            }
+            "answer": {"hi": "चाय पार्टी", "en": "Tea party"}
           },
           {
             "q": {
-              "hi": "खिलौने बनाने के लिए लकड़ी कैसी होती है?",
-              "en": "What kind of wood is used for toys?"
+              "hi": "पेड़ों पर क्या उगते हैं?",
+              "en": "What grows on trees?"
             },
             "options": [
-              {
-                "hi": "मुलायम (soft)",
-                "en": "Soft wood"
-              },
-              {
-                "hi": "कठोर",
-                "en": "Hard wood"
-              },
-              {
-                "hi": "सूखी",
-                "en": "Dry"
-              },
-              {
-                "hi": "गीली",
-                "en": "Wet"
-              }
+              {"hi": "सेब", "en": "Apples"},
+              {"hi": "नाशपाती", "en": "Pears"},
+              {"hi": "दोनों", "en": "Both"},
+              {"hi": "कुछ नहीं", "en": "None"}
             ],
-            "answer": {
-              "hi": "मुलायम (soft)",
-              "en": "Soft wood"
-            }
+            "answer": {"hi": "दोनों", "en": "Both"}
           },
           {
             "q": {
-              "hi": "क्या खिलौने ग्रामीण जीवन दर्शाते हैं?",
-              "en": "Do the toys depict rural life?"
+              "hi": "पेड़ों के बारे में यह कविता क्या सिखाती है?",
+              "en": "What does this poem teach about trees?"
             },
             "options": [
-              {
-                "hi": "हाँ",
-                "en": "Yes"
-              },
-              {
-                "hi": "नहीं",
-                "en": "No"
-              },
-              {
-                "hi": "शायद",
-                "en": "Maybe"
-              },
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              }
+              {"hi": "उनका महत्व", "en": "Their importance"},
+              {"hi": "पेड़ काटना गलत है", "en": "Cutting trees is wrong"},
+              {"hi": "सब सही है", "en": "All correct"},
+              {"hi": "कोई नहीं", "en": "None"}
             ],
-            "answer": {
-              "hi": "हाँ",
-              "en": "Yes"
-            }
+            "answer": {"hi": "उनका महत्व", "en": "Their importance"}
           },
           {
             "q": {
-              "hi": "खिलौनों का निर्माण कहाँ होता है?",
-              "en": "Where are the toys made?"
+              "hi": "पत्ते बटोरना किस मौसम में होता है?",
+              "en": "When does raking leaves happen?"
             },
             "options": [
-              {
-                "hi": "कोंडापल्ली गांव",
-                "en": "Kondapalli village"
-              },
-              {
-                "hi": "शहर",
-                "en": "City"
-              },
-              {
-                "hi": "मंदिर",
-                "en": "Temple"
-              },
-              {
-                "hi": "बाजार",
-                "en": "Market"
-              }
+              {"hi": "गर्मी", "en": "Summer"},
+              {"hi": "पतझड़ (fall)", "en": "Fall"},
+              {"hi": "सर्दियां", "en": "Winter"},
+              {"hi": "पता नहीं", "en": "Don't know"}
             ],
-            "answer": {
-              "hi": "कोंडापल्ली गांव",
-              "en": "Kondapalli village"
-            }
+            "answer": {"hi": "पतझड़ (fall)", "en": "Fall"}
           }
         ],
         "section4": [
           {
             "q": {
-              "hi": "शिक्षक ने कार्यक्रम के लिए क्या कहा?",
-              "en": "What did the teacher ask about the programme?"
+              "hi": "पेड़ हवा के लिए क्या हैं?",
+              "en": "What are trees for the wind?"
             },
             "options": [
-              {
-                "hi": "क्या आप तैयार हैं?",
-                "en": "Are you ready?"
-              },
-              {
-                "hi": "क्या आप थक गए हैं?",
-                "en": "Are you tired?"
-              },
-              {
-                "hi": "क्या आप खेलेंगे?",
-                "en": "Will you play?"
-              },
-              {
-                "hi": "क्या आप घर जाएंगे?",
-                "en": "Will you go home?"
-              }
+              {"hi": "हवा बहने के लिए", "en": "For wind to blow through"},
+              {"hi": "हवा रोकने के लिए", "en": "To stop wind"},
+              {"hi": "कोई नहीं", "en": "None"},
+              {"hi": "सब", "en": "All"}
             ],
-            "answer": {
-              "hi": "क्या आप तैयार हैं?",
-              "en": "Are you ready?"
-            }
+            "answer": {"hi": "हवा बहने के लिए", "en": "For wind to blow through"}
           },
           {
             "q": {
-              "hi": "वीडियो कहाँ चल रहा था?",
-              "en": "Where was the video playing?"
+              "hi": "बच्चे पेड़ पर क्या बनाते हैं?",
+              "en": "What do children build in trees?"
             },
             "options": [
-              {
-                "hi": "बड़ी स्क्रीन पर",
-                "en": "On the big screen"
-              },
-              {
-                "hi": "फोन पर",
-                "en": "On phone"
-              },
-              {
-                "hi": "किताब में",
-                "en": "In book"
-              },
-              {
-                "hi": "दीवार पर",
-                "en": "On wall"
-              }
+              {"hi": "घर (tree houses)", "en": "Tree houses"},
+              {"hi": "स्कूल", "en": "School"},
+              {"hi": "दुकान", "en": "Shop"},
+              {"hi": "किताब", "en": "Book"}
             ],
-            "answer": {
-              "hi": "बड़ी स्क्रीन पर",
-              "en": "On the big screen"
-            }
+            "answer": {"hi": "घर (tree houses)", "en": "Tree houses"}
           },
           {
             "q": {
-              "hi": "भारत की एकता कैसी है?",
-              "en": "What is India's unity?"
+              "hi": "पेड़ का महत्व बच्चों के लिए क्या है?",
+              "en": "What is the importance of trees for children?"
             },
             "options": [
-              {
-                "hi": "विविधतापूर्ण",
-                "en": "Diversity"
-              },
-              {
-                "hi": "कमजोर",
-                "en": "Weak"
-              },
-              {
-                "hi": "सरल",
-                "en": "Simple"
-              },
-              {
-                "hi": "कोई नहीं",
-                "en": "None"
-              }
+              {"hi": "खेलने के लिए", "en": "To play"},
+              {"hi": "छाया", "en": "Shade"},
+              {"hi": "फल", "en": "Fruits"},
+              {"hi": "सब सही है", "en": "All correct"}
             ],
-            "answer": {
-              "hi": "विविधतापूर्ण",
-              "en": "Diversity"
-            }
+            "answer": {"hi": "सब सही है", "en": "All correct"}
           },
           {
             "q": {
-              "hi": "छात्रों ने एक साथ क्या उत्तर दिया?",
-              "en": "What did the students answer together?"
+              "hi": "सर्दियों में पेड़ छाया क्यों नहीं देते?",
+              "en": "Why do trees not provide shade in winter?"
             },
             "options": [
-              {
-                "hi": "एक भारत, श्रेष्ठ भारत",
-                "en": "Ek Bharat, Shreshtha Bharat"
-              },
-              {
-                "hi": "नमस्ते",
-                "en": "Namaste"
-              },
-              {
-                "hi": "नहीं",
-                "en": "No"
-              },
-              {
-                "hi": "हाँ",
-                "en": "Yes"
-              }
+              {"hi": "धूप नहीं होती", "en": "No sun"},
+              {"hi": "पेड़ सूख जाते हैं", "en": "Trees are bare"},
+              {"hi": "सब सही है", "en": "All correct"},
+              {"hi": "पता नहीं", "en": "Don't know"}
             ],
-            "answer": {
-              "hi": "एक भारत, श्रेष्ठ भारत",
-              "en": "Ek Bharat, Shreshtha Bharat"
-            }
+            "answer": {"hi": "पेड़ सूख जाते हैं", "en": "Trees are bare"}
           },
           {
             "q": {
-              "hi": "क्या हर बच्चा वीडियो में खुश था?",
-              "en": "Was every child in the video happy?"
+              "hi": "क्या पेड़ों का सौंदर्य महान है?",
+              "en": "Is the beauty of trees great?"
             },
             "options": [
-              {
-                "hi": "हाँ",
-                "en": "Yes"
-              },
-              {
-                "hi": "नहीं",
-                "en": "No"
-              },
-              {
-                "hi": "शायद",
-                "en": "Maybe"
-              },
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              }
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
             ],
-            "answer": {
-              "hi": "हाँ",
-              "en": "Yes"
-            }
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
             "q": {
-              "hi": "क्या बच्चे सवालों के जवाब देने के लिए उत्साहित थे?",
-              "en": "Were children excited to answer?"
+              "hi": "क्या पेड़ काटना अच्छी बात है?",
+              "en": "Is cutting trees a good thing?"
             },
             "options": [
-              {
-                "hi": "हाँ",
-                "en": "Yes"
-              },
-              {
-                "hi": "नहीं",
-                "en": "No"
-              },
-              {
-                "hi": "शायद",
-                "en": "Maybe"
-              },
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              }
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
             ],
-            "answer": {
-              "hi": "हाँ",
-              "en": "Yes"
-            }
+            "answer": {"hi": "नहीं", "en": "No"}
           },
           {
             "q": {
-              "hi": "क्या भारत अद्भुत देश है?",
-              "en": "Is India a wonderful country?"
+              "hi": "पेड़ों के पत्ते इकट्ठा करना किसका काम है?",
+              "en": "Whose job is raking leaves?"
             },
             "options": [
-              {
-                "hi": "हाँ",
-                "en": "Yes"
-              },
-              {
-                "hi": "नहीं",
-                "en": "No"
-              },
-              {
-                "hi": "शायद",
-                "en": "Maybe"
-              },
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              }
+              {"hi": "मां", "en": "Mother"},
+              {"hi": "पिता", "en": "Father"},
+              {"hi": "बच्चे", "en": "Children"},
+              {"hi": "कोई नहीं", "en": "None"}
             ],
-            "answer": {
-              "hi": "हाँ",
-              "en": "Yes"
-            }
+            "answer": {"hi": "पिता", "en": "Father"}
           },
           {
             "q": {
-              "hi": "क्या बच्चों के पास साझा करने के लिए कुछ था?",
-              "en": "Did children have something to share?"
+              "hi": "पेड़ पक्षियों के लिए क्या हैं?",
+              "en": "What are trees for birds?"
             },
             "options": [
-              {
-                "hi": "हाँ",
-                "en": "Yes"
-              },
-              {
-                "hi": "नहीं",
-                "en": "No"
-              },
-              {
-                "hi": "शायद",
-                "en": "Maybe"
-              },
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              }
+              {"hi": "घर", "en": "Home"},
+              {"hi": "भोजन", "en": "Food"},
+              {"hi": "दोनों", "en": "Both"},
+              {"hi": "कोई नहीं", "en": "None"}
             ],
-            "answer": {
-              "hi": "हाँ",
-              "en": "Yes"
-            }
+            "answer": {"hi": "दोनों", "en": "Both"}
           },
           {
             "q": {
-              "hi": "क्या कक्षा का माहौल खुशहाल था?",
-              "en": "Was the class environment happy?"
+              "hi": "क्या पेड़ हमें ऑक्सीजन देते हैं?",
+              "en": "Do trees give us oxygen?"
             },
             "options": [
-              {
-                "hi": "हाँ",
-                "en": "Yes"
-              },
-              {
-                "hi": "नहीं",
-                "en": "No"
-              },
-              {
-                "hi": "शायद",
-                "en": "Maybe"
-              },
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              }
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
             ],
-            "answer": {
-              "hi": "हाँ",
-              "en": "Yes"
-            }
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
             "q": {
-              "hi": "क्या भारत में बहुत सारी लोक कलाएँ हैं?",
-              "en": "Does India have many folk arts?"
+              "hi": "क्या पेड़ हमें फूल देते हैं?",
+              "en": "Do trees give us flowers?"
             },
             "options": [
-              {
-                "hi": "हाँ",
-                "en": "Yes"
-              },
-              {
-                "hi": "नहीं",
-                "en": "No"
-              },
-              {
-                "hi": "शायद",
-                "en": "Maybe"
-              },
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              }
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
             ],
-            "answer": {
-              "hi": "हाँ",
-              "en": "Yes"
-            }
+            "answer": {"hi": "हाँ", "en": "Yes"}
           }
         ],
         "section5": [
           {
             "q": {
-              "hi": "क्या हम विभिन्न राज्यों की संस्कृति के बारे में जान सकते हैं?",
-              "en": "Can we learn about cultures of different states?"
+              "hi": "पेड़ काटना क्या है?",
+              "en": "What is cutting trees?"
             },
             "options": [
-              {
-                "hi": "हाँ",
-                "en": "Yes"
-              },
-              {
-                "hi": "नहीं",
-                "en": "No"
-              },
-              {
-                "hi": "शायद",
-                "en": "Maybe"
-              },
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              }
+              {"hi": "जरूरी", "en": "Necessary"},
+              {"hi": "नुकसानदेह", "en": "Harmful"},
+              {"hi": "खेल", "en": "Game"},
+              {"hi": "मज़ा", "en": "Fun"}
             ],
-            "answer": {
-              "hi": "हाँ",
-              "en": "Yes"
-            }
+            "answer": {"hi": "नुकसानदेह", "en": "Harmful"}
           },
           {
             "q": {
-              "hi": "क्या भारत की संस्कृति पुरानी है?",
-              "en": "Is India's culture ancient?"
+              "hi": "पेड़ों के बिना जीवन कैसा होगा?",
+              "en": "How will life be without trees?"
             },
             "options": [
-              {
-                "hi": "हाँ",
-                "en": "Yes"
-              },
-              {
-                "hi": "नहीं",
-                "en": "No"
-              },
-              {
-                "hi": "शायद",
-                "en": "Maybe"
-              },
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              }
+              {"hi": "मुश्किल", "en": "Difficult"},
+              {"hi": "अच्छा", "en": "Good"},
+              {"hi": "मज़ेदार", "en": "Fun"},
+              {"hi": "आसान", "en": "Easy"}
             ],
-            "answer": {
-              "hi": "हाँ",
-              "en": "Yes"
-            }
+            "answer": {"hi": "मुश्किल", "en": "Difficult"}
           },
           {
             "q": {
-              "hi": "क्या कोंडापल्ली खिलौने रंगीन होते हैं?",
-              "en": "Are Kondapalli toys colorful?"
+              "hi": "क्या हमें पेड़ लगाने चाहिए?",
+              "en": "Should we plant trees?"
             },
             "options": [
-              {
-                "hi": "हाँ",
-                "en": "Yes"
-              },
-              {
-                "hi": "नहीं",
-                "en": "No"
-              },
-              {
-                "hi": "शायद",
-                "en": "Maybe"
-              },
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              }
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
             ],
-            "answer": {
-              "hi": "हाँ",
-              "en": "Yes"
-            }
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
             "q": {
-              "hi": "क्या नारियल खोल से आभूषण बनते हैं?",
-              "en": "Can jewellery be made from coconut shell?"
+              "hi": "पेड़ के पत्ते बटोरना किसके लिए कठिन हो सकता है?",
+              "en": "Who might find raking leaves difficult?"
             },
             "options": [
-              {
-                "hi": "हाँ",
-                "en": "Yes"
-              },
-              {
-                "hi": "नहीं",
-                "en": "No"
-              },
-              {
-                "hi": "शायद",
-                "en": "Maybe"
-              },
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              }
+              {"hi": "पिता", "en": "Father"},
+              {"hi": "मां", "en": "Mother"},
+              {"hi": "बच्चे", "en": "Children"},
+              {"hi": "कोई नहीं", "en": "None"}
             ],
-            "answer": {
-              "hi": "हाँ",
-              "en": "Yes"
-            }
+            "answer": {"hi": "पिता", "en": "Father"}
           },
           {
             "q": {
-              "hi": "क्या ऐपन बनाने के लिए चावल का आटा उपयोग होता है?",
-              "en": "Is rice flour used to make Aipan?"
+              "hi": "क्या पेड़ पेंट करने के लिए सुंदर दृश्य देते हैं?",
+              "en": "Do trees provide lovely view to paint?"
             },
             "options": [
-              {
-                "hi": "हाँ",
-                "en": "Yes"
-              },
-              {
-                "hi": "नहीं",
-                "en": "No"
-              },
-              {
-                "hi": "शायद",
-                "en": "Maybe"
-              },
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              }
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
             ],
-            "answer": {
-              "hi": "हाँ",
-              "en": "Yes"
-            }
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
             "q": {
-              "hi": "क्या कोंडापल्ली खिलौने लोक कथाओं पर आधारित हैं?",
-              "en": "Are Kondapalli toys based on folk stories?"
+              "hi": "क्या पेड़ जानवरों को आश्रय देते हैं?",
+              "en": "Do trees give shelter to animals?"
             },
             "options": [
-              {
-                "hi": "हाँ",
-                "en": "Yes"
-              },
-              {
-                "hi": "नहीं",
-                "en": "No"
-              },
-              {
-                "hi": "शायद",
-                "en": "Maybe"
-              },
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              }
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
             ],
-            "answer": {
-              "hi": "हाँ",
-              "en": "Yes"
-            }
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
             "q": {
-              "hi": "क्या भारत में बहुत से त्यौहार हैं?",
-              "en": "Does India have many festivals?"
+              "hi": "क्या पेड़ काटना और टिम्बर कहना सही है?",
+              "en": "Is it right to chop trees and say timber?"
             },
             "options": [
-              {
-                "hi": "हाँ",
-                "en": "Yes"
-              },
-              {
-                "hi": "नहीं",
-                "en": "No"
-              },
-              {
-                "hi": "शायद",
-                "en": "Maybe"
-              },
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              }
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
             ],
-            "answer": {
-              "hi": "हाँ",
-              "en": "Yes"
-            }
+            "answer": {"hi": "नहीं", "en": "No"}
           },
           {
             "q": {
-              "hi": "क्या 'Ek Bharat, Shreshtha Bharat' का अर्थ एकता है?",
-              "en": "Does 'Ek Bharat, Shreshtha Bharat' imply unity?"
+              "hi": "पेड़ों का हमारे जीवन में क्या स्थान है?",
+              "en": "What is the place of trees in our life?"
             },
             "options": [
-              {
-                "hi": "हाँ",
-                "en": "Yes"
-              },
-              {
-                "hi": "नहीं",
-                "en": "No"
-              },
-              {
-                "hi": "शायद",
-                "en": "Maybe"
-              },
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              }
+              {"hi": "बहुत महत्वपूर्ण", "en": "Very important"},
+              {"hi": "कम", "en": "Less"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "पता नहीं", "en": "Don't know"}
             ],
-            "answer": {
-              "hi": "हाँ",
-              "en": "Yes"
-            }
+            "answer": {"hi": "बहुत महत्वपूर्ण", "en": "Very important"}
           },
           {
             "q": {
-              "hi": "क्या कोंडापल्ली गांव आंध्र प्रदेश में है?",
-              "en": "Is Kondapalli village in Andhra Pradesh?"
+              "hi": "पेड़ों के बारे में क्या निष्कर्ष है?",
+              "en": "What is the conclusion about trees?"
             },
             "options": [
-              {
-                "hi": "हाँ",
-                "en": "Yes"
-              },
-              {
-                "hi": "नहीं",
-                "en": "No"
-              },
-              {
-                "hi": "शायद",
-                "en": "Maybe"
-              },
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              }
+              {"hi": "वे हमारे दोस्त हैं", "en": "They are our friends"},
+              {"hi": "वे दुश्मन हैं", "en": "They are enemies"},
+              {"hi": "वे उपयोगी नहीं हैं", "en": "Not useful"},
+              {"hi": "पता नहीं", "en": "Don't know"}
             ],
-            "answer": {
-              "hi": "हाँ",
-              "en": "Yes"
-            }
+            "answer": {"hi": "वे हमारे दोस्त हैं", "en": "They are our friends"}
           },
           {
             "q": {
-              "hi": "क्या आपको भारतीय कला पसंद है?",
-              "en": "Do you like Indian art?"
+              "hi": "क्या कविता में पेड़ों की विविधता है?",
+              "en": "Is there diversity of trees in the poem?"
             },
             "options": [
-              {
-                "hi": "हाँ",
-                "en": "Yes"
-              },
-              {
-                "hi": "नहीं",
-                "en": "No"
-              },
-              {
-                "hi": "शायद",
-                "en": "Maybe"
-              },
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              }
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
             ],
-            "answer": {
-              "hi": "हाँ",
-              "en": "Yes"
-            }
+            "answer": {"hi": "हाँ", "en": "Yes"}
           }
         ]
       },
-    "chapter05b":  {
+    "chapter05bb":  {
         "section1": [
           {
             "q": {
