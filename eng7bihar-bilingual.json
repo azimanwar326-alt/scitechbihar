@@ -3822,69 +3822,669 @@
           }
         ]
       },
-    "chapter03c": {
+    "chapter04a":{
         "section1": [
-          {"q": {"hi": "दादी ने विक्रम और वैभवी को क्या साझा किया था?", "en": "What did Daadi share with Vikram and Vaibhavi?"}, "options": [{"hi": "जादुई मंत्र", "en": "Magic spells"}, {"hi": "प्राकृतिक उपचार", "en": "Natural cures"}, {"hi": "खेल", "en": "Games"}, {"hi": "कहानी", "en": "Story"}], "answer": {"hi": "प्राकृतिक उपचार", "en": "Natural cures"}},
-          {"q": {"hi": "दादी ने ये उपचार किससे सीखे थे?", "en": "From whom did Daadi learn these cures?"}, "options": [{"hi": "अपनी दादी से", "en": "Her grandmother"}, {"hi": "डॉक्टर से", "en": "A doctor"}, {"hi": "किताब से", "en": "A book"}, {"hi": "दोस्तों से", "en": "Friends"}], "answer": {"hi": "अपनी दादी से", "en": "Her grandmother"}},
-          {"q": {"hi": "हल्दी को अंग्रेजी में क्या कहते हैं?", "en": "What is haldi called in English?"}, "options": [{"hi": "जिंजर", "en": "Ginger"}, {"hi": "टर्मरिक", "en": "Turmeric"}, {"hi": "क्यूमिन", "en": "Cumin"}, {"hi": "फेंनुग्रीक", "en": "Fenugreek"}], "answer": {"hi": "टर्मरिक", "en": "Turmeric"}},
-          {"q": {"hi": "हल्दी किसमें मदद करती है?", "en": "What does turmeric help in?"}, "options": [{"hi": "सोने में", "en": "Sleeping"}, {"hi": "पाचन और ऊर्जा", "en": "Digestion and energy"}, {"hi": "दौड़ने में", "en": "Running"}, {"hi": "लिखने में", "en": "Writing"}], "answer": {"hi": "पाचन और ऊर्जा", "en": "Digestion and energy"}},
-          {"q": {"hi": "मेथी को अंग्रेजी में क्या कहते हैं?", "en": "What is methi called in English?"}, "options": [{"hi": "फेंनुग्रीक", "en": "Fenugreek"}, {"hi": "सिनामोन", "en": "Cinnamon"}, {"hi": "क्लॉव", "en": "Clove"}, {"hi": "फैनल", "en": "Fennel"}], "answer": {"hi": "फेंनुग्रीक", "en": "Fenugreek"}},
-          {"q": {"hi": "मेथी का पानी किसे नियंत्रित करता है?", "en": "What does methi water control?"}, "options": [{"hi": "चीनी और वजन", "en": "Sugar and weight"}, {"hi": "बुखार", "en": "Fever"}, {"hi": "दर्द", "en": "Pain"}, {"hi": "खांसी", "en": "Cough"}], "answer": {"hi": "चीनी और वजन", "en": "Sugar and weight"}},
-          {"q": {"hi": "जीरा (cumin) किसमें मदद करता है?", "en": "What does jeera help in?"}, "options": [{"hi": "पाचन और नींद", "en": "Digestion and sleeplessness"}, {"hi": "आंखों", "en": "Eyes"}, {"hi": "बाल", "en": "Hair"}, {"hi": "दांत", "en": "Teeth"}], "answer": {"hi": "पाचन और नींद", "en": "Digestion and sleeplessness"}},
-          {"q": {"hi": "बच्चों के पेट में गैस होने पर क्या लगाया जाता था?", "en": "What was put on babies' tummy for gas?"}, "options": [{"hi": "हल्दी", "en": "Haldi"}, {"hi": "हींग का पानी", "en": "Heeng water"}, {"hi": "अदरक", "en": "Ginger"}, {"hi": "लौंग", "en": "Clove"}], "answer": {"hi": "हींग का पानी", "en": "Heeng water"}},
-          {"q": {"hi": "हींग (asafoetida) किसमें सहायक है?", "en": "What is heeng helpful for?"}, "options": [{"hi": "खांसी और सर्दी", "en": "Cough and cold"}, {"hi": "बुखार", "en": "Fever"}, {"hi": "दांत दर्द", "en": "Toothache"}, {"hi": "दर्द", "en": "Pain"}], "answer": {"hi": "खांसी और सर्दी", "en": "Cough and cold"}},
-          {"q": {"hi": "दांत दर्द में क्या राहत देता है?", "en": "What gives relief in toothache?"}, "options": [{"hi": "दालचीनी और लौंग", "en": "Dalchini and laung"}, {"hi": "सौंफ", "en": "Saunf"}, {"hi": "जीरा", "en": "Jeera"}, {"hi": "अजवाइन", "en": "Ajwain"}], "answer": {"hi": "दालचीनी और लौंग", "en": "Dalchini and laung"}}
+          {
+            "q": {
+              "hi": "पुराने दिनों में कौन रहते थे?",
+              "en": "Who lived in the good old days?"
+            },
+            "options": [
+              {"hi": "एक गरीब बच्चा", "en": "A poor child"},
+              {"hi": "एक बूढ़ा जोड़ा", "en": "An old couple"},
+              {"hi": "एक अमीर जमींदार", "en": "A wealthy landlord"},
+              {"hi": "एक राजा", "en": "A king"}
+            ],
+            "answer": {"hi": "एक बूढ़ा जोड़ा", "en": "An old couple"}
+          },
+          {
+            "q": {
+              "hi": "बूढ़े जोड़े का पालतू जानवर कौन था?",
+              "en": "Who was the old couple's pet?"
+            },
+            "options": [
+              {"hi": "एक बिल्ली", "en": "A cat"},
+              {"hi": "एक कुत्ता", "en": "A little dog"},
+              {"hi": "एक तोता", "en": "A parrot"},
+              {"hi": "एक खरगोश", "en": "A rabbit"}
+            ],
+            "answer": {"hi": "एक कुत्ता", "en": "A little dog"}
+          },
+          {
+            "q": {
+              "hi": "कुत्ते का नाम क्या था?",
+              "en": "What was the dog's name?"
+            },
+            "options": [
+              {"hi": "मोमो", "en": "Momo"},
+              {"hi": "मुको", "en": "Muko"},
+              {"hi": "पूनी", "en": "Puni"},
+              {"hi": "शेरू", "en": "Sheru"}
+            ],
+            "answer": {"hi": "मुको", "en": "Muko"}
+          },
+          {
+            "q": {
+              "hi": "बूढ़ा आदमी क्या काम करता था?",
+              "en": "What was the old man's job?"
+            },
+            "options": [
+              {"hi": "बढ़ई", "en": "Carpenter"},
+              {"hi": "चावल का किसान", "en": "Rice farmer"},
+              {"hi": "मछुआरा", "en": "Fisherman"},
+              {"hi": "शिक्षक", "en": "Teacher"}
+            ],
+            "answer": {"hi": "चावल का किसान", "en": "Rice farmer"}
+          },
+          {
+            "q": {
+              "hi": "जापान में सूर्य को क्या कहा जाता था?",
+              "en": "What was the sun called in Japan?"
+            },
+            "options": [
+              {"hi": "ओ तेन्तो सामा", "en": "O Tento Sama"},
+              {"hi": "सूर्य देवता", "en": "Sun God"},
+              {"hi": "प्रकाश", "en": "Light"},
+              {"hi": "गर्म गोला", "en": "Hot sphere"}
+            ],
+            "answer": {"hi": "ओ तेन्तो सामा", "en": "O Tento Sama"}
+          },
+          {
+            "q": {
+              "hi": "कुत्ता खेत में किसका पीछा नहीं करता था?",
+              "en": "Whom did the dog never harm in the field?"
+            },
+            "options": [
+              {"hi": "बिल्ली", "en": "Cat"},
+              {"hi": "सफेद बगुला (white heron)", "en": "White heron"},
+              {"hi": "चूहा", "en": "Rat"},
+              {"hi": "कीड़े", "en": "Worms"}
+            ],
+            "answer": {"hi": "सफेद बगुला (white heron)", "en": "White heron"}
+          },
+          {
+            "q": {
+              "hi": "कुत्ते ने बूढ़े आदमी को क्या खोजने में मदद की?",
+              "en": "What did the dog help the old man find?"
+            },
+            "options": [
+              {"hi": "पानी", "en": "Water"},
+              {"hi": "सोना (gold)", "en": "Gold"},
+              {"hi": "लकड़ी", "en": "Wood"},
+              {"hi": "चावल", "en": "Rice"}
+            ],
+            "answer": {"hi": "सोना (gold)", "en": "Gold"}
+          },
+          {
+            "q": {
+              "hi": "सोना कहाँ छिपा था?",
+              "en": "Where was the gold buried?"
+            },
+            "options": [
+              {"hi": "घर के नीचे", "en": "Under the house"},
+              {"hi": "खेत में (behind spot)", "en": "In the field behind a spot"},
+              {"hi": "पेड़ के ऊपर", "en": "On the tree"},
+              {"hi": "नदी किनारे", "en": "By the river"}
+            ],
+            "answer": {"hi": "खेत में (behind spot)", "en": "In the field behind a spot"}
+          },
+          {
+            "q": {
+              "hi": "बूढ़े जोड़े ने अमीरी का क्या किया?",
+              "en": "What did the old couple do with their wealth?"
+            },
+            "options": [
+              {"hi": "सब छिपा दिया", "en": "Hid it all"},
+              {"hi": "जमीन खरीदी और गरीबों की मदद की", "en": "Bought land and helped poor"},
+              {"hi": "सोने का महल बनाया", "en": "Built a gold palace"},
+              {"hi": "सब खर्च कर दिया", "en": "Spent it all"}
+            ],
+            "answer": {"hi": "जमीन खरीदी और गरीबों की मदद की", "en": "Bought land and helped poor"}
+          },
+          {
+            "q": {
+              "hi": "गाँव में रहने वाला दूसरा बूढ़ा जोड़ा कैसा था?",
+              "en": "How was the other old couple in the village?"
+            },
+            "options": [
+              {"hi": "दयालु", "en": "Kind"},
+              {"hi": "दुष्ट (wicked) और लालची", "en": "Wicked and greedy"},
+              {"hi": "मेहनती", "en": "Hardworking"},
+              {"hi": "मददगार", "en": "Helpful"}
+            ],
+            "answer": {"hi": "दुष्ट (wicked) और लालची", "en": "Wicked and greedy"}
+          }
         ],
         "section2": [
-          {"q": {"hi": "अदरक (ginger) कितने वर्षों से प्रयोग हो रहा है?", "en": "For how long has ginger been used?"}, "options": [{"hi": "4000 साल से अधिक", "en": "More than 4000 years"}, {"hi": "100 साल", "en": "100 years"}, {"hi": "500 साल", "en": "500 years"}, {"hi": "1000 साल", "en": "1000 years"}], "answer": {"hi": "4000 साल से अधिक", "en": "More than 4000 years"}},
-          {"q": {"hi": "अदरक किसमें मदद करता है?", "en": "What does ginger help in?"}, "options": [{"hi": "खांसी, सर्दी और दर्द", "en": "Cough, cold and pain"}, {"hi": "नींद", "en": "Sleep"}, {"hi": "वजन", "en": "Weight"}, {"hi": "चीनी", "en": "Sugar"}], "answer": {"hi": "खांसी, सर्दी और दर्द", "en": "Cough, cold and pain"}},
-          {"q": {"hi": "काली मिर्च किसमें सहायक है?", "en": "What is black pepper helpful for?"}, "options": [{"hi": "पाचन और दर्द", "en": "Digestion and pain"}, {"hi": "सर्दी", "en": "Cold"}, {"hi": "नींद", "en": "Sleep"}, {"hi": "वजन", "en": "Weight"}], "answer": {"hi": "पाचन और दर्द", "en": "Digestion and pain"}},
-          {"q": {"hi": "भोजन के अंत में क्या परोसा जाता है?", "en": "What is served at the end of a meal?"}, "options": [{"hi": "सौंफ और अजवाइन", "en": "Saunf and ajwain"}, {"hi": "लौंग और हींग", "en": "Laung and heeng"}, {"hi": "जीरा और अदरक", "en": "Jeera and adrak"}, {"hi": "हल्दी", "en": "Haldi"}], "answer": {"hi": "सौंफ और अजवाइन", "en": "Saunf and ajwain"} },
-          {"q": {"hi": "सौंफ और अजवाइन का मुख्य कार्य क्या है?", "en": "What is the main task of saunf and ajwain?"}, "options": [{"hi": "पाचन में मदद", "en": "Digestion of food"}, {"hi": "स्वाद बढ़ाना", "en": "Flavor"}, {"hi": "नींद लाना", "en": "Sleep"}, {"hi": "दर्द मिटाना", "en": "Pain"}], "answer": {"hi": "पाचन में मदद", "en": "Digestion of food"}},
-          {"q": {"hi": "इलायची (cardamom) किसके लिए जानी जाती है?", "en": "What is cardamom known for?"}, "options": [{"hi": "पाचन और श्वसन संबंधी", "en": "Digestion and respiratory troubles"}, {"hi": "दर्द", "en": "Pain"}, {"hi": "बुखार", "en": "Fever"}, {"hi": "वजन", "en": "Weight"}], "answer": {"hi": "पाचन और श्वसन संबंधी", "en": "Digestion and respiratory troubles"}},
-          {"q": {"hi": "इलायची का एक अन्य लाभ क्या है?", "en": "What is another benefit of cardamom?"}, "options": [{"hi": "मुंह की दुर्गंध दूर करना", "en": "Curing bad breath"}, {"hi": "नींद", "en": "Sleep"}, {"hi": "दर्द", "en": "Pain"}, {"hi": "खांसी", "en": "Cough"}], "answer": {"hi": "मुंह की दुर्गंध दूर करना", "en": "Curing bad breath"}},
-          {"q": {"hi": "मसालों का उपयोग करने से पहले क्या करना चाहिए?", "en": "What should be done before using spices?"}, "options": [{"hi": "बड़ों से सलाह लें", "en": "Consult an elder"}, {"hi": "स्वयं निर्णय लें", "en": "Decide yourself"}, {"hi": "डॉक्टर को पूछें", "en": "Ask doctor"}, {"hi": "न खाएं", "en": "Don't eat"}], "answer": {"hi": "बड़ों से सलाह लें", "en": "Consult an elder"}},
-          {"q": {"hi": "क्या रसोई मसालों का खजाना है?", "en": "Is the kitchen a treasure of spices?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "मसाले हमें कैसे ठीक करते हैं?", "en": "How do spices heal us?"}, "options": [{"hi": "प्राकृतिक उपचार से", "en": "Natural cures"}, {"hi": "दवाओं से", "en": "Medicines"}, {"hi": "नहीं करते", "en": "They don't"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "प्राकृतिक उपचार से", "en": "Natural cures"}}
+          {
+            "q": {
+              "hi": "दुष्ट जोड़े ने कुत्ते को क्या खिलाया?",
+              "en": "What did the wicked couple feed the dog?"
+            },
+            "options": [
+              {"hi": "बासी खाना", "en": "Stale food"},
+              {"hi": "मछली और दावत (dainties)", "en": "Fish and dainties"},
+              {"hi": "कुछ नहीं", "en": "Nothing"},
+              {"hi": "घास", "en": "Grass"}
+            ],
+            "answer": {"hi": "मछली और दावत (dainties)", "en": "Fish and dainties"}
+          },
+          {
+            "q": {
+              "hi": "लालची जोड़े को पेड़ के नीचे क्या मिला?",
+              "en": "What did the greedy couple find under the tree?"
+            },
+            "options": [
+              {"hi": "सोना", "en": "Gold"},
+              {"hi": "एक मरा हुआ बिल्ली का बच्चा", "en": "A dead kitten"},
+              {"hi": "खजाना", "en": "Treasure"},
+              {"hi": "मिट्टी", "en": "Mud"}
+            ],
+            "answer": {"hi": "एक मरा हुआ बिल्ली का बच्चा", "en": "A dead kitten"}
+          },
+          {
+            "q": {
+              "hi": "दुष्ट बूढ़े ने कुत्ते के साथ क्या किया?",
+              "en": "What did the wicked old man do to the dog?"
+            },
+            "options": [
+              {"hi": "उसे पीटा और मार डाला", "en": "Beat him to death"},
+              {"hi": "उसे बाहर भगा दिया", "en": "Chased him away"},
+              {"hi": "उसे खाना खिलाया", "en": "Fed him"},
+              {"hi": "उसे अपनाया", "en": "Adopted him"}
+            ],
+            "answer": {"hi": "उसे पीटा और मार डाला", "en": "Beat him to death"}
+          },
+          {
+            "q": {
+              "hi": "कुत्ते के मालिक ने उसकी कब्र पर क्या रखा?",
+              "en": "What did the owner place on the dog's grave?"
+            },
+            "options": [
+              {"hi": "पत्थर", "en": "Stone"},
+              {"hi": "बांस की ट्यूब, फूल और धूपबत्ती", "en": "Bamboo tubes, flowers and incense"},
+              {"hi": "लकड़ी का टुकड़ा", "en": "Wood piece"},
+              {"hi": "सोने के सिक्के", "en": "Gold coins"}
+            ],
+            "answer": {"hi": "बांस की ट्यूब, फूल और धूपबत्ती", "en": "Bamboo tubes, flowers and incense"}
+          },
+          {
+            "q": {
+              "hi": "कुत्ते ने सपने में मालिक को क्या बनाने को कहा?",
+              "en": "What did the dog ask the owner to make in a dream?"
+            },
+            "options": [
+              {"hi": "महल", "en": "Castle"},
+              {"hi": "ओखली और चक्की (mortar and mill)", "en": "Mortar and mill"},
+              {"hi": "बगीचा", "en": "Garden"},
+              {"hi": "मूर्ति", "en": "Statue"}
+            ],
+            "answer": {"hi": "ओखली और चक्की (mortar and mill)", "en": "Mortar and mill"}
+          },
+          {
+            "q": {
+              "hi": "ओखली और चक्की किससे बनी थी?",
+              "en": "What were the mortar and mill made of?"
+            },
+            "options": [
+              {"hi": "लोहे", "en": "Iron"},
+              {"hi": "चीड़ के पेड़ (pine tree) से", "en": "Pine tree"},
+              {"hi": "मिट्टी", "en": "Clay"},
+              {"hi": "सोने", "en": "Gold"}
+            ],
+            "answer": {"hi": "चीड़ के पेड़ (pine tree) से", "en": "Pine tree"}
+          },
+          {
+            "q": {
+              "hi": "चावल पीसते समय क्या हुआ?",
+              "en": "What happened while pounding rice?"
+            },
+            "options": [
+              {"hi": "चावल जल गया", "en": "Rice burnt"},
+              {"hi": "चावल सोने के सिक्कों में बदल गया", "en": "Turned into gold coins"},
+              {"hi": "चावल गायब हो गया", "en": "Rice disappeared"},
+              {"hi": "चावल आटा बन गया", "en": "Rice became flour"}
+            ],
+            "answer": {"hi": "चावल सोने के सिक्कों में बदल गया", "en": "Turned into gold coins"}
+          },
+          {
+            "q": {
+              "hi": "दुष्ट पड़ोसियों ने ओखली और चक्की का क्या किया?",
+              "en": "What did the wicked neighbors do with the mortar and mill?"
+            },
+            "options": [
+              {"hi": "उसे चोरी कर लिया", "en": "Stole them"},
+              {"hi": "उसे जला दिया (firewood)", "en": "Burnt them as firewood"},
+              {"hi": "उसे वापस कर दिया", "en": "Returned them"},
+              {"hi": "उसे बेच दिया", "en": "Sold them"}
+            ],
+            "answer": {"hi": "उसे जला दिया (firewood)", "en": "Burnt them as firewood"}
+          },
+          {
+            "q": {
+              "hi": "चक्की पीसने पर क्या निकला?",
+              "en": "What came out when the mill was ground?"
+            },
+            "options": [
+              {"hi": "सोना", "en": "Gold"},
+              {"hi": "कीड़े (foul mass of worms)", "en": "Foul mass of worms"},
+              {"hi": "दूध", "en": "Milk"},
+              {"hi": "पानी", "en": "Water"}
+            ],
+            "answer": {"hi": "कीड़े (foul mass of worms)", "en": "Foul mass of worms"}
+          },
+          {
+            "q": {
+              "hi": "कुत्ते की आत्मा ने बूढ़े आदमी को क्या करने को कहा?",
+              "en": "What did the dog-spirit ask the old man to do?"
+            },
+            "options": [
+              {"hi": "घर छोड़ने को", "en": "Leave house"},
+              {"hi": "राख पेड़ों पर छिड़कने को", "en": "Sprinkle ashes on trees"},
+              {"hi": "फिर से खेती करने को", "en": "Farm again"},
+              {"hi": "पड़ोसियों को क्षमा करने को", "en": "Forgive neighbors"}
+            ],
+            "answer": {"hi": "राख पेड़ों पर छिड़कने को", "en": "Sprinkle ashes on trees"}
+          }
         ],
         "section3": [
-          {"q": {"hi": "हल्दी के लिए सही अंग्रेजी शब्द क्या है?", "en": "What is the correct English word for haldi?"}, "options": [{"hi": "टर्मरिक", "en": "Turmeric"}, {"hi": "क्यूमिन", "en": "Cumin"}, {"hi": "जिंजर", "en": "Ginger"}, {"hi": "साल्ट", "en": "Salt"}], "answer": {"hi": "टर्मरिक", "en": "Turmeric"}},
-          {"q": {"hi": "क्या हींग पाचन में भी मदद करती है?", "en": "Does heeng help in digestion?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या अदरक का उपयोग प्राचीन समय से हो रहा है?", "en": "Has ginger been used since ancient times?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "लौंग का उपयोग कब तक राहत देता है?", "en": "How long does clove give relief?"}, "options": [{"hi": "दंत चिकित्सक से मिलने तक", "en": "Till we see a dentist"}, {"hi": "हमेशा के लिए", "en": "Forever"}, {"hi": "एक साल", "en": "One year"}, {"hi": "एक घंटा", "en": "One hour"}], "answer": {"hi": "दंत चिकित्सक से मिलने तक", "en": "Till we see a dentist"}},
-          {"q": {"hi": "क्या मसाले घर के बने घरेलू उपाय हैं?", "en": "Are spices home remedies?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "अजवाइन का उपयोग किसलिए होता है?", "en": "What is ajwain used for?"}, "options": [{"hi": "पाचन", "en": "Digestion"}, {"hi": "नींद", "en": "Sleep"}, {"hi": "दर्द", "en": "Pain"}, {"hi": "बुखार", "en": "Fever"}], "answer": {"hi": "पाचन", "en": "Digestion"}},
-          {"q": {"hi": "दादी ने किस संदेश के साथ पत्र समाप्त किया?", "en": "How did Daadi end the message?"}, "options": [{"hi": "आशीर्वाद", "en": "Aashirwaad"}, {"hi": "डांट", "en": "Scolding"}, {"hi": "प्रश्न", "en": "Question"}, {"hi": "शिकायत", "en": "Complaint"}], "answer": {"hi": "आशीर्वाद", "en": "Aashirwaad"}},
-          {"q": {"hi": "दालचीनी को अंग्रेजी में क्या कहते हैं?", "en": "What is dalchini called in English?"}, "options": [{"hi": "सिनामोन", "en": "Cinnamon"}, {"hi": "क्लोव", "en": "Clove"}, {"hi": "काली मिर्च", "en": "Black pepper"}, {"hi": "कार्डमम", "en": "Cardamom"}], "answer": {"hi": "सिनामोन", "en": "Cinnamon"}},
-          {"q": {"hi": "मसालों का परिचय किसने दिया?", "en": "Who introduced the spices?"}, "options": [{"hi": "दादी", "en": "Daadi"}, {"hi": "डॉक्टर", "en": "Doctor"}, {"hi": "विक्रम", "en": "Vikram"}, {"hi": "वैभवी", "en": "Vaibhavi"}], "answer": {"hi": "दादी", "en": "Daadi"}},
-          {"q": {"hi": "क्या भारतीय खाने में मसालों का उपयोग होता है?", "en": "Are spices used in Indian cooking?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}}
+          {
+            "q": {
+              "hi": "सूखे चेरी के पेड़ पर राख छिड़कने पर क्या हुआ?",
+              "en": "What happened when the ashes were sprinkled on the withered cherry tree?"
+            },
+            "options": [
+              {"hi": "पेड़ गिर गया", "en": "Tree fell down"},
+              {"hi": "पेड़ खिल उठा (blossomed)", "en": "Tree blossomed"},
+              {"hi": "पेड़ गायब हो गया", "en": "Tree disappeared"},
+              {"hi": "पेड़ सूख गया", "en": "Tree dried"}
+            ],
+            "answer": {"hi": "पेड़ खिल उठा (blossomed)", "en": "Tree blossomed"}
+          },
+          {
+            "q": {
+              "hi": "दाइयो (Daimio) कौन थे?",
+              "en": "Who were the Daimios?"
+            },
+            "options": [
+              {"hi": "राजा", "en": "Kings"},
+              {"hi": "अमीर जमींदार", "en": "Wealthy landowners"},
+              {"hi": "व्यापारी", "en": "Traders"},
+              {"hi": "किसान", "en": "Farmers"}
+            ],
+            "answer": {"hi": "अमीर जमींदार", "en": "Wealthy landowners"}
+          },
+          {
+            "q": {
+              "hi": "दाइयो के निकलने पर लोग क्या करते थे?",
+              "en": "What did people do when the Daimio passed?"
+            },
+            "options": [
+              {"hi": "खड़े होकर स्वागत", "en": "Stand and welcome"},
+              {"hi": "घुटनों के बल झुक जाते (prostrate)", "en": "Kneel/prostrate"},
+              {"hi": "ताली बजाते", "en": "Clap"},
+              {"hi": "भाग जाते", "en": "Run away"}
+            ],
+            "answer": {"hi": "घुटनों के बल झुक जाते (prostrate)", "en": "Kneel/prostrate"}
+          },
+          {
+            "q": {
+              "hi": "बूढ़े आदमी ने दाइयो को क्या दिखाया?",
+              "en": "What did the old man show the Daimio?"
+            },
+            "options": [
+              {"hi": "सोना", "en": "Gold"},
+              {"hi": "पेड़ को खिलाकर", "en": "By making the tree bloom"},
+              {"hi": "जादूगरनी", "en": "Magic"},
+              {"hi": "नृत्य", "en": "Dance"}
+            ],
+            "answer": {"hi": "पेड़ को खिलाकर", "en": "By making the tree bloom"}
+          },
+          {
+            "q": {
+              "hi": "दाइयो ने बूढ़े आदमी को क्या इनाम दिया?",
+              "en": "What reward did the Daimio give to the old man?"
+            },
+            "options": [
+              {"hi": "सोने के सिक्के", "en": "Gold coins"},
+              {"hi": "रेशमी वस्त्र, केक, पंखे", "en": "Silk robes, sponge-cake, fans"},
+              {"hi": "जमीन", "en": "Land"},
+              {"hi": "महल", "en": "Castle"}
+            ],
+            "answer": {"hi": "रेशमी वस्त्र, केक, पंखे", "en": "Silk robes, sponge-cake, fans"}
+          },
+          {
+            "q": {
+              "hi": "लालची पड़ोसियों ने क्या करने की कोशिश की?",
+              "en": "What did the greedy neighbors try to do?"
+            },
+            "options": [
+              {"hi": "दाइयो से पैसे मांगे", "en": "Asked money"},
+              {"hi": "राख छिड़क कर पेड़ खिलाना", "en": "Make trees bloom with ashes"},
+              {"hi": "बूढ़े को पीटा", "en": "Beat the old man"},
+              {"hi": "सब कुछ जला दिया", "en": "Burned everything"}
+            ],
+            "answer": {"hi": "राख छिड़क कर पेड़ खिलाना", "en": "Make trees bloom with ashes"}
+          },
+          {
+            "q": {
+              "hi": "लालची आदमी के राख छिड़कने पर क्या हुआ?",
+              "en": "What happened when the greedy man sprinkled ashes?"
+            },
+            "options": [
+              {"hi": "पेड़ खिल गया", "en": "Tree bloomed"},
+              {"hi": "राख दाइयो की आंखों में गई", "en": "Ashes went into Daimio's eyes"},
+              {"hi": "सोना मिला", "en": "Found gold"},
+              {"hi": "पेड़ जल गया", "en": "Tree burnt"}
+            ],
+            "answer": {"hi": "राख दाइयो की आंखों में गई", "en": "Ashes went into Daimio's eyes"}
+          },
+          {
+            "q": {
+              "hi": "दाइयो के आदमियों ने लालची बूढ़े के साथ क्या किया?",
+              "en": "What did the Daimio's men do to the greedy old man?"
+            },
+            "options": [
+              {"hi": "उसे इनाम दिया", "en": "Rewarded him"},
+              {"hi": "उसे पीटा और मार दिया", "en": "Beat him and left for dead"},
+              {"hi": "उसे माफ कर दिया", "en": "Forgave him"},
+              {"hi": "उसे महल ले गए", "en": "Took him to palace"}
+            ],
+            "answer": {"hi": "उसे पीटा और मार दिया", "en": "Beat him and left for dead"}
+          },
+          {
+            "q": {
+              "hi": "कहानी का नैतिक क्या है?",
+              "en": "What is the moral of the story?"
+            },
+            "options": [
+              {"hi": "लालच बुरा है", "en": "Greed is bad"},
+              {"hi": "दयालुता का फल हमेशा अच्छा होता है", "en": "Kindness is always rewarded"},
+              {"hi": "मेहनत का फल मीठा होता है", "en": "Hard work is sweet"},
+              {"hi": "उपरोक्त सभी", "en": "All of the above"}
+            ],
+            "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
+          },
+          {
+            "q": {
+              "hi": "बूढ़े जोड़े का कुत्ता कैसा था?",
+              "en": "How was the old couple's dog?"
+            },
+            "options": [
+              {"hi": "दुष्ट", "en": "Wicked"},
+              {"hi": "वफादार और प्रिय", "en": "Loyal and dear"},
+              {"hi": "आलसी", "en": "Lazy"},
+              {"hi": "खूंखार", "en": "Fierce"}
+            ],
+            "answer": {"hi": "वफादार और प्रिय", "en": "Loyal and dear"}
+          }
         ],
         "section4": [
-          {"q": {"hi": "लौंग का अंग्रेजी नाम क्या है?", "en": "What is the English name for laung?"}, "options": [{"hi": "क्लोव (clove)", "en": "Clove"}, {"hi": "काली मिर्च", "en": "Black pepper"}, {"hi": "दालचीनी", "en": "Cinnamon"}, {"hi": "सौंफ", "en": "Fennel"}], "answer": {"hi": "क्लोव (clove)", "en": "Clove"}},
-          {"q": {"hi": "क्या काली मिर्च केवल स्वाद के लिए है?", "en": "Is black pepper only for taste?"}, "options": [{"hi": "नहीं, यह पाचन के लिए भी है", "en": "No, it's for digestion too"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "नहीं, यह पाचन के लिए भी है"}},
-          {"q": {"hi": "इलायची का अंग्रेजी नाम क्या है?", "en": "What is the English name for elaichi?"}, "options": [{"hi": "कार्डमम (cardamom)", "en": "Cardamom"}, {"hi": "लौंग", "en": "Clove"}, {"hi": "अजवाइन", "en": "Ajwain"}, {"hi": "जीरा", "en": "Cumin"}], "answer": {"hi": "कार्डमम (cardamom)", "en": "Cardamom"}},
-          {"q": {"hi": "क्या मसाले हमें सेहतमंद बनाते हैं?", "en": "Do spices make us healthy?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "दादी ने उपचार कहाँ से सीखे थे?", "en": "Where did Daadi learn the remedies?"}, "options": [{"hi": "दादी से", "en": "Grandmother"}, {"hi": "किताब से", "en": "Book"}, {"hi": "इंटरनेट से", "en": "Internet"}, {"hi": "नहीं सीखे", "en": "Didn't learn"}], "answer": {"hi": "दादी से", "en": "Grandmother"}},
-          {"q": {"hi": "जीरा पानी में भिगोने से क्या सुधरता है?", "en": "What improves by soaking jeera in water?"}, "options": [{"hi": "पाचन", "en": "Digestion"}, {"hi": "नींद", "en": "Sleep"}, {"hi": "दर्द", "en": "Pain"}, {"hi": "बुखार", "en": "Fever"}], "answer": {"hi": "पाचन", "en": "Digestion"}},
-          {"q": {"hi": "क्या हम अपनी रसोई में इन मसालों को ढूँढ सकते हैं?", "en": "Can we find these spices in our kitchen?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या मसाले दर्द कम कर सकते हैं?", "en": "Can spices reduce pain?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "अजवाइन का अंग्रेजी नाम क्या है?", "en": "What is the English name for ajwain?"}, "options": [{"hi": "कैरम सीड्स (carom seeds)", "en": "Carom seeds"}, {"hi": "जीरा", "en": "Cumin"}, {"hi": "सौंफ", "en": "Fennel"}, {"hi": "मेथी", "en": "Fenugreek"}], "answer": {"hi": "कैरम सीड्स (carom seeds)", "en": "Carom seeds"}},
-          {"q": {"hi": "क्या दादी ने प्रेम से पत्र लिखा?", "en": "Did Daadi write the letter with love?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}}
+          {
+            "q": {
+              "hi": "बूढ़े आदमी ने खेत क्यों खोदा?",
+              "en": "Why did the old man dig the field?"
+            },
+            "options": [
+              {"hi": "खोया हुआ सोना ढूँढने", "en": "To find gold"},
+              {"hi": "खेती करने के लिए", "en": "For farming"},
+              {"hi": "कुत्ते के कहने पर", "en": "On dog's motion"},
+              {"hi": "पेड़ लगाने", "en": "To plant trees"}
+            ],
+            "answer": {"hi": "कुत्ते के कहने पर", "en": "On dog's motion"}
+          },
+          {
+            "q": {
+              "hi": "कुत्ते के मालिक ने राख क्यों मांगी?",
+              "en": "Why did the dog's owner ask for ashes?"
+            },
+            "options": [
+              {"hi": "घर साफ करने", "en": "To clean house"},
+              {"hi": "पेड़ खिलाने के लिए (dog's spirit request)", "en": "To make trees bloom"},
+              {"hi": "खेती के लिए", "en": "For farming"},
+              {"hi": "खाना बनाने", "en": "To cook"}
+            ],
+            "answer": {"hi": "पेड़ खिलाने के लिए (dog's spirit request)", "en": "To make trees bloom"}
+          },
+          {
+            "q": {
+              "hi": "दाइयो के गुजरने पर क्या बंद करने का रिवाज था?",
+              "en": "What was the custom to shut when the Daimio passed?"
+            },
+            "options": [
+              {"hi": "दरवाजे", "en": "Doors"},
+              {"hi": "खिड़कियां", "en": "High windows"},
+              {"hi": "दुकानें", "en": "Shops"},
+              {"hi": "आंखें", "en": "Eyes"}
+            ],
+            "answer": {"hi": "खिड़कियां", "en": "High windows"}
+          },
+          {
+            "q": {
+              "hi": "दाइयो के दल को क्या कहते हैं?",
+              "en": "What is the Daimio's procession called?"
+            },
+            "options": [
+              {"hi": "दल (train/procession)", "en": "Train/procession"},
+              {"hi": "भीड़", "en": "Crowd"},
+              {"hi": "सैनिक", "en": "Soldiers"},
+              {"hi": "परिवार", "en": "Family"}
+            ],
+            "answer": {"hi": "दल (train/procession)", "en": "Train/procession"}
+          },
+          {
+            "q": {
+              "hi": "लालची जोड़े ने राख क्यों छीनी?",
+              "en": "Why did the greedy couple snatch the ashes?"
+            },
+            "options": [
+              {"hi": "उन्हें दाइयो को दिखाना था", "en": "Show to Daimio"},
+              {"hi": "वे भी अमीर बनना चाहते थे", "en": "Wanted to become rich"},
+              {"hi": "राख फेंकने के लिए", "en": "To throw away"},
+              {"hi": "नफरत के कारण", "en": "Due to hatred"}
+            ],
+            "answer": {"hi": "वे भी अमीर बनना चाहते थे", "en": "Wanted to become rich"}
+          },
+          {
+            "q": {
+              "hi": "बुद्धिमान मालिक का क्या हुआ?",
+              "en": "What happened to the kind owner?"
+            },
+            "options": [
+              {"hi": "वह गरीब हो गया", "en": "Became poor"},
+              {"hi": "वह शांति और सुख से रहा", "en": "Dwelt in peace and plenty"},
+              {"hi": "वह मर गया", "en": "Died"},
+              {"hi": "वह राजा बन गया", "en": "Became king"}
+            ],
+            "answer": {"hi": "वह शांति और सुख से रहा", "en": "Dwelt in peace and plenty"}
+          },
+          {
+            "q": {
+              "hi": "कौन सा जोड़ा सुख से रहा?",
+              "en": "Which couple lived happily?"
+            },
+            "options": [
+              {"hi": "दुष्ट जोड़ा", "en": "Wicked couple"},
+              {"hi": "दयालु बूढ़ा जोड़ा", "en": "Kind old couple"},
+              {"hi": "कोई नहीं", "en": "None"},
+              {"hi": "पड़ोसी", "en": "Neighbors"}
+            ],
+            "answer": {"hi": "दयालु बूढ़ा जोड़ा", "en": "Kind old couple"}
+          },
+          {
+            "q": {
+              "hi": "दाइयो का वाहन क्या था?",
+              "en": "What was the Daimio's vehicle?"
+            },
+            "options": [
+              {"hi": "घोड़ा", "en": "Horse"},
+              {"hi": "पालकी (palanquin)", "en": "Palanquin"},
+              {"hi": "रथ", "en": "Chariot"},
+              {"hi": "पैदल", "en": "Walked"}
+            ],
+            "answer": {"hi": "पालकी (palanquin)", "en": "Palanquin"}
+          },
+          {
+            "q": {
+              "hi": "बूढ़े आदमी ने पेड़ पर चढ़कर क्या किया?",
+              "en": "What did the old man do after climbing the tree?"
+            },
+            "options": [
+              {"hi": "सो गया", "en": "Slept"},
+              {"hi": "राख छिड़की", "en": "Sprinkled ashes"},
+              {"hi": "गाया", "en": "Sang"},
+              {"hi": "पेड़ काटा", "en": "Cut tree"}
+            ],
+            "answer": {"hi": "राख छिड़की", "en": "Sprinkled ashes"}
+          },
+          {
+            "q": {
+              "hi": "कहानी के अंत में दुष्ट आदमी का क्या हुआ?",
+              "en": "What happened to the wicked man at the end?"
+            },
+            "options": [
+              {"hi": "वह अमीर बन गया", "en": "Became rich"},
+              {"hi": "वह मर गया (in the mud)", "en": "Died in the mud"},
+              {"hi": "उसे जेल हुई", "en": "Jailed"},
+              {"hi": "उसे निकाल दिया गया", "en": "Exiled"}
+            ],
+            "answer": {"hi": "वह मर गया (in the mud)", "en": "Died in the mud"}
+          }
         ],
         "section5": [
-          {"q": {"hi": "काली मिर्च का अंग्रेजी नाम क्या है?", "en": "What is the English name for kali mirch?"}, "options": [{"hi": "ब्लैक पेपर (black pepper)", "en": "Black pepper"}, {"hi": "लौंग", "en": "Clove"}, {"hi": "सौंफ", "en": "Fennel"}, {"hi": "इलायची", "en": "Cardamom"}], "answer": {"hi": "ब्लैक पेपर (black pepper)", "en": "Black pepper"}},
-          {"q": {"hi": "क्या मसाले गैस में राहत देते हैं?", "en": "Do spices provide relief in gas?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "सौंफ का अंग्रेजी नाम क्या है?", "en": "What is the English name for saunf?"}, "options": [{"hi": "फैनल (fennel)", "en": "Fennel"}, {"hi": "जीरा", "en": "Cumin"}, {"hi": "हींग", "en": "Asafoetida"}, {"hi": "मेथी", "en": "Fenugreek"}], "answer": {"hi": "फैनल (fennel)", "en": "Fennel"}},
-          {"q": {"hi": "क्या मसालों के उपयोग के लिए उम्र का ध्यान रखना चाहिए?", "en": "Should we consider age/elderly advice for spices?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या मसाले श्वसन संबंधी समस्याओं में काम आते हैं?", "en": "Do spices help in respiratory troubles?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "हींग का अंग्रेजी नाम क्या है?", "en": "What is the English name for heeng?"}, "options": [{"hi": "असाफेटिडा (asafoetida)", "en": "Asafoetida"}, {"hi": "जीरा", "en": "Cumin"}, {"hi": "लौंग", "en": "Clove"}, {"hi": "अदरक", "en": "Ginger"}], "answer": {"hi": "असाफेटिडा (asafoetida)", "en": "Asafoetida"}},
-          {"q": {"hi": "क्या ये उपचार मौसम संबंधी बीमारियों के लिए अच्छे हैं?", "en": "Are these cures good for weather-related illnesses?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या मसाले बच्चों के लिए लाभदायक हो सकते हैं?", "en": "Can spices be beneficial for kids?"}, "options": [{"hi": "हाँ, बड़ों की सलाह से", "en": "Yes, with elderly advice"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ, बड़ों की सलाह से"}},
-          {"q": {"hi": "मसालों के फायदों को कैसे याद रखना चाहिए?", "en": "How should we remember the benefits of spices?"}, "options": [{"hi": "कोशिश करके", "en": "By trying to remember"}, {"hi": "भूलकर", "en": "By forgetting"}, {"hi": "नजरअंदाज करके", "en": "By ignoring"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "कोशिश करके"}},
-          {"q": {"hi": "क्या विक्रम और वैभवी बेहतर महसूस कर रहे हैं?", "en": "Are Vikram and Vaibhavi feeling better?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}}
+          {
+            "q": {
+              "hi": "कुत्ते के मालिक की क्या विशेषता थी?",
+              "en": "What was the trait of the dog's owner?"
+            },
+            "options": [
+              {"hi": "धोखेबाज", "en": "Cheat"},
+              {"hi": "दयालु (kind and patient)", "en": "Kind and patient"},
+              {"hi": "लालची", "en": "Greedy"},
+              {"hi": "गुस्सैल", "en": "Angry"}
+            ],
+            "answer": {"hi": "दयालु (kind and patient)", "en": "Kind and patient"}
+          },
+          {
+            "q": {
+              "hi": "दाइयो के सामने राख छिड़कने का क्या असर हुआ?",
+              "en": "What was the effect of sprinkling ashes before Daimio?"
+            },
+            "options": [
+              {"hi": "पेड़ खिल गया", "en": "Tree blossomed"},
+              {"hi": "राजा गुस्सा हुआ", "en": "King got angry"},
+              {"hi": "कोई असर नहीं", "en": "No effect"},
+              {"hi": "सब जल गया", "en": "Everything burnt"}
+            ],
+            "answer": {"hi": "पेड़ खिल गया", "en": "Tree blossomed"}
+          },
+          {
+            "q": {
+              "hi": "क्या दुष्ट आदमी ने राख का सही इस्तेमाल किया?",
+              "en": "Did the wicked man use the ashes correctly?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": {
+              "hi": "दाइयो की प्रतिक्रिया क्या थी?",
+              "en": "What was the Daimio's reaction?"
+            },
+            "options": [
+              {"hi": "वह प्रसन्न हुआ", "en": "He was delighted"},
+              {"hi": "वह डरा हुआ था", "en": "He was scared"},
+              {"hi": "वह गुस्सा था", "en": "He was angry"},
+              {"hi": "वह सो गया", "en": "He slept"}
+            ],
+            "answer": {"hi": "वह प्रसन्न हुआ", "en": "He was delighted"}
+          },
+          {
+            "q": {
+              "hi": "कहानी किस देश की है?",
+              "en": "The story is from which country?"
+            },
+            "options": [
+              {"hi": "भारत", "en": "India"},
+              {"hi": "जापान (Japan)", "en": "Japan"},
+              {"hi": "चीन", "en": "China"},
+              {"hi": "कोरिया", "en": "Korea"}
+            ],
+            "answer": {"hi": "जापान (Japan)", "en": "Japan"}
+          },
+          {
+            "q": {
+              "hi": "बूढ़े आदमी ने ओखली किस चीज़ से बनाई?",
+              "en": "What did the old man make the mortar from?"
+            },
+            "options": [
+              {"hi": "पत्थर", "en": "Stone"},
+              {"hi": "पेड़ के तने के टुकड़े (trunk section)", "en": "Trunk section"},
+              {"hi": "मिट्टी", "en": "Clay"},
+              {"hi": "धातु", "en": "Metal"}
+            ],
+            "answer": {"hi": "पेड़ के तने के टुकड़े (trunk section)", "en": "Trunk section"}
+          },
+          {
+            "q": {
+              "hi": "दाइयो के दल को किसने रोकने का प्रयास किया?",
+              "en": "Who tried to stop the Daimio's procession?"
+            },
+            "options": [
+              {"hi": "बुद्धिमान बूढ़ा", "en": "Kind old man"},
+              {"hi": "लालची बूढ़ा", "en": "Greedy old man"},
+              {"hi": "कुत्ता", "en": "Dog"},
+              {"hi": "कोई नहीं", "en": "No one"}
+            ],
+            "answer": {"hi": "लालची बूढ़ा", "en": "Greedy old man"}
+          },
+          {
+            "q": {
+              "hi": "क्या बुराई अंततः जीतती है?",
+              "en": "Does evil win eventually?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं (evil dies)", "en": "No, evil dies"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "कभी-कभी", "en": "Sometimes"}
+            ],
+            "answer": {"hi": "नहीं (evil dies)", "en": "No, evil dies"}
+          },
+          {
+            "q": {
+              "hi": "कुत्ते के मालिक की पत्नी कैसी थी?",
+              "en": "How was the dog owner's wife?"
+            },
+            "options": [
+              {"hi": "लालची", "en": "Greedy"},
+              {"hi": "दयालु और अच्छी (kind soul)", "en": "Kind soul"},
+              {"hi": "क्रूर", "en": "Cruel"},
+              {"hi": "अहंकारी", "en": "Arrogant"}
+            ],
+            "answer": {"hi": "दयालु और अच्छी (kind soul)", "en": "Kind soul"}
+          },
+          {
+            "q": {
+              "hi": "इस पाठ में 'withered' का क्या अर्थ है?",
+              "en": "What is the meaning of 'withered' in this lesson?"
+            },
+            "options": [
+              {"hi": "हरा-भरा", "en": "Green"},
+              {"hi": "सूखा और बिना पत्तों का (bare and dry)", "en": "Bare and dry"},
+              {"hi": "फलदार", "en": "Fruity"},
+              {"hi": "बड़ा", "en": "Big"}
+            ],
+            "answer": {"hi": "सूखा और बिना पत्तों का (bare and dry)", "en": "Bare and dry"}
+          }
         ]
       },
-   "chapter04a": {
+   "chapter04aa": {
         "section1": [
           {"q": {"hi": "प्रभात क्या करना हमेशा चाहता था?", "en": "What did Prabhat always want to do?"}, "options": [{"hi": "हारना", "en": "To lose"}, {"hi": "जीतना", "en": "To win"}, {"hi": "खेलना", "en": "To play"}, {"hi": "सोना", "en": "To sleep"}], "answer": {"hi": "जीतना", "en": "To win"}},
           {"q": {"hi": "प्रभात क्या बर्दाश्त नहीं कर सकता था?", "en": "What could Prabhat not bear?"}, "options": [{"hi": "जीतना", "en": "Winning"}, {"hi": "हारना", "en": "Losing"}, {"hi": "दौड़ना", "en": "Running"}, {"hi": "खाना", "en": "Eating"}], "answer": {"hi": "हारना", "en": "Losing"}},
