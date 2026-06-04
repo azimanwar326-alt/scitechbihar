@@ -1324,190 +1324,666 @@
           }
         ]
       },
-    "chapter01c": {
+    "chapter02a": {
         "section1": [
-          {"q": {"hi": "कहानी किस राज्य से ली गई है?", "en": "From which state is this folktale?"}, "options": [{"hi": "तमिलनाडु", "en": "Tamil Nadu"}, {"hi": "बिहार", "en": "Bihar"}, {"hi": "केरल", "en": "Kerala"}, {"hi": "पंजाब", "en": "Punjab"}], "answer": {"hi": "तमिलनाडु", "en": "Tamil Nadu"}},
-          {"q": {"hi": "गाँव का कोटवाल कौन था?", "en": "Who was the village Kotwal?"}, "options": [{"hi": "रमा", "en": "Rama"}, {"hi": "चोर", "en": "Thief"}, {"hi": "पति", "en": "Husband"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "रमा", "en": "Rama"}},
-          {"q": {"hi": "रात में घर के अंदर कौन घुसने की कोशिश कर रहा था?", "en": "Who was trying to get into the house at night?"}, "options": [{"hi": "एक चोर", "en": "A thief"}, {"hi": "एक जानवर", "en": "An animal"}, {"hi": "कोटवाल", "en": "The Kotwal"}, {"hi": "पड़ोसी", "en": "A neighbour"}], "answer": {"hi": "एक चोर", "en": "A thief"}},
-          {"q": {"hi": "पति-पत्नी क्या करने का नाटक कर रहे थे?", "en": "What was the couple pretending to do?"}, "options": [{"hi": "बच्चे के नाम के बारे में बात करना", "en": "Talking about naming their child"}, {"hi": "सोना", "en": "Sleeping"}, {"hi": "खाना खाना", "en": "Eating food"}, {"hi": "चोर को पकड़ना", "en": "Catching the thief"}], "answer": {"hi": "बच्चे के नाम के बारे में बात करना", "en": "Talking about naming their child"}},
-          {"q": {"hi": "यदि उनके बेटा होता, तो वे उसका क्या नाम रखते?", "en": "If they had a boy, what would they name him?"}, "options": [{"hi": "रमा", "en": "Rama"}, {"hi": "रामू", "en": "Ramu"}, {"hi": "सोमू", "en": "Somu"}, {"hi": "कोई नाम नहीं", "en": "No name"}], "answer": {"hi": "रमा", "en": "Rama"}},
-          {"q": {"hi": "चोर को क्या उम्मीद थी?", "en": "What was the thief expecting?"}, "options": [{"hi": "पैसों के बारे में जानकारी", "en": "Information about money"}, {"hi": "भोजन", "en": "Food"}, {"hi": "सोना", "en": "Gold"}, {"hi": "घर से बाहर निकलना", "en": "Getting out of the house"}], "answer": {"hi": "पैसों के बारे में जानकारी", "en": "Information about money"}},
-          {"q": {"hi": "पत्नी ने बच्चे को घर में होने पर कैसे बुलाने की बात कही?", "en": "How did the wife say she would call out if the child was in the house?"}, "options": [{"hi": "धीरे से (softly)", "en": "Softly"}, {"hi": "चिल्लाकर", "en": "Loudly"}, {"hi": "रोकर", "en": "By crying"}, {"hi": "सीटी बजाकर", "en": "By whistling"}], "answer": {"hi": "धीरे से (softly)", "en": "Softly"}},
-          {"q": {"hi": "पत्नी ने बच्चे को गली में होने पर कैसे बुलाने की बात कही?", "en": "How did the wife say she would call out if the child was in the street?"}, "options": [{"hi": "बहुत जोर से (very loudly)", "en": "Very loudly"}, {"hi": "धीरे से", "en": "Softly"}, {"hi": "फुसफुसाकर", "en": "Whispering"}, {"hi": "गाकर", "en": "By singing"}], "answer": {"hi": "बहुत जोर से (very loudly)", "en": "Very loudly"}},
-          {"q": {"hi": "चोर को किस बात से चिढ़ हो रही थी?", "en": "What was annoying the thief?"}, "options": [{"hi": "पति-पत्नी की बातों से", "en": "The couple's chatter"}, {"hi": "अंधेरे से", "en": "The darkness"}, {"hi": "रमा से", "en": "Rama"}, {"hi": "भूख से", "en": "Hunger"}], "answer": {"hi": "पति-पत्नी की बातों से", "en": "The couple's chatter"}},
-          {"q": {"hi": "रमा ने अपना नाम सुनकर क्या किया?", "en": "What did Rama do after hearing his name?"}, "options": [{"hi": "वह घर की ओर भागा", "en": "He ran towards the house"}, {"hi": "वह सो गया", "en": "He went to sleep"}, {"hi": "वह भाग गया", "en": "He ran away"}, {"hi": "वह छिप गया", "en": "He hid"}], "answer": {"hi": "वह घर की ओर भागा", "en": "He ran towards the house"}}
+          {
+            "q": {
+              "hi": "घर का दरवाजा किसने खोला?",
+              "en": "Who threw open the door?"
+            },
+            "options": [
+              {"hi": "रुक्कु मन्नी", "en": "Rukku Manni"},
+              {"hi": "रवि", "en": "Ravi"},
+              {"hi": "मीना", "en": "Meena"},
+              {"hi": "मृदु", "en": "Mridu"}
+            ],
+            "answer": {"hi": "रुक्कु मन्नी", "en": "Rukku Manni"}
+          },
+          {
+            "q": {
+              "hi": "मृदु को घर के अंदर किसने खींचा?",
+              "en": "Who dragged Mridu into the house?"
+            },
+            "options": [
+              {"hi": "मीना", "en": "Meena"},
+              {"hi": "रवि", "en": "Ravi"},
+              {"hi": "पाती", "en": "Paati"},
+              {"hi": "लल्ली", "en": "Lalli"}
+            ],
+            "answer": {"hi": "रवि", "en": "Ravi"}
+          },
+          {
+            "q": {
+              "hi": "मृदु की चप्पलों के पास कौन सी चप्पलें पड़ी थीं?",
+              "en": "What kind of slippers were lying near Mridu's slippers?"
+            },
+            "options": [
+              {"hi": "बड़ी काली चप्पलें", "en": "Large black slippers"},
+              {"hi": "छोटी लाल चप्पलें", "en": "Small red slippers"},
+              {"hi": "पुरानी भूरी चप्पलें", "en": "Old brown slippers"},
+              {"hi": "नई सफेद चप्पलें", "en": "New white slippers"}
+            ],
+            "answer": {"hi": "बड़ी काली चप्पलें", "en": "Large black slippers"}
+          },
+          {
+            "q": {
+              "hi": "चप्पलों पर धूल के कारण उनका रंग कैसा दिख रहा था?",
+              "en": "What color did the slippers look due to dust?"
+            },
+            "options": [
+              {"hi": "लाल", "en": "Red"},
+              {"hi": "धूसर/स्लेटी", "en": "Grey"},
+              {"hi": "नीला", "en": "Blue"},
+              {"hi": "हरा", "en": "Green"}
+            ],
+            "answer": {"hi": "धूसर/स्लेटी", "en": "Grey"}
+          },
+          {
+            "q": {
+              "hi": "रवि, मृदु को कहाँ ले गया?",
+              "en": "Where did Ravi take Mridu?"
+            },
+            "options": [
+              {"hi": "रसोई में", "en": "To the kitchen"},
+              {"hi": "बगीचे में", "en": "To the garden"},
+              {"hi": "घर के पीछे (backyard)", "en": "To the backyard"},
+              {"hi": "छत पर", "en": "To the terrace"}
+            ],
+            "answer": {"hi": "घर के पीछे (backyard)", "en": "To the backyard"}
+          },
+          {
+            "q": {
+              "hi": "बिल्ली का बच्चा कहाँ छिपा था?",
+              "en": "Where was the kitten hiding?"
+            },
+            "options": [
+              {"hi": "टोकरी में", "en": "In a basket"},
+              {"hi": "फटे फुटबॉल में", "en": "In a torn football"},
+              {"hi": "झाड़ियों के पीछे", "en": "Behind bushes"},
+              {"hi": "मेज के नीचे", "en": "Under the table"}
+            ],
+            "answer": {"hi": "फटे फुटबॉल में", "en": "In a torn football"}
+          },
+          {
+            "q": {
+              "hi": "बिल्ली का बच्चा क्या पी रहा था?",
+              "en": "What was the kitten drinking?"
+            },
+            "options": [
+              {"hi": "पानी", "en": "Water"},
+              {"hi": "दूध", "en": "Milk"},
+              {"hi": "जूस", "en": "Juice"},
+              {"hi": "चाय", "en": "Tea"}
+            ],
+            "answer": {"hi": "दूध", "en": "Milk"}
+          },
+          {
+            "q": {
+              "hi": "बिल्ली का बच्चा किस बर्तन में दूध पी रहा था?",
+              "en": "In what vessel was the kitten drinking milk?"
+            },
+            "options": [
+              {"hi": "ग्लास", "en": "Glass"},
+              {"hi": "नारियल के आधे खोल (coconut half-shell)", "en": "Coconut half-shell"},
+              {"hi": "कटोरी", "en": "Bowl"},
+              {"hi": "प्लेट", "en": "Plate"}
+            ],
+            "answer": {"hi": "नारियल के आधे खोल (coconut half-shell)", "en": "Coconut half-shell"}
+          },
+          {
+            "q": {
+              "hi": "रवि और मीना ने बिल्ली का बच्चा कहाँ पाया था?",
+              "en": "Where did Ravi and Meena find the kitten?"
+            },
+            "options": [
+              {"hi": "घर के अंदर", "en": "Inside the house"},
+              {"hi": "गेट के बाहर", "en": "Outside the gate"},
+              {"hi": "बाज़ार में", "en": "In the market"},
+              {"hi": "पेड़ पर", "en": "On a tree"}
+            ],
+            "answer": {"hi": "गेट के बाहर", "en": "Outside the gate"}
+          },
+          {
+            "q": {
+              "hi": "पाती को बिल्ली के बारे में पता चलने पर क्या डर था?",
+              "en": "What was the fear if Paati knew about the cat?"
+            },
+            "options": [
+              {"hi": "वह चिल्लाएगी", "en": "She would scream"},
+              {"hi": "वह घर छोड़ देगी", "en": "She would leave for Paddu Mama's house"},
+              {"hi": "वह बिल्ली को बाहर निकाल देगी", "en": "She would throw the cat out"},
+              {"hi": "वह बीमार पड़ जाएगी", "en": "She would get sick"}
+            ],
+            "answer": {"hi": "वह घर छोड़ देगी", "en": "She would leave for Paddu Mama's house"}
+          }
         ],
         "section2": [
-          {"q": {"hi": "रमा ने क्या देखा?", "en": "What did Rama see?"}, "options": [{"hi": "दीवार में एक छेद", "en": "A hole in the wall"}, {"hi": "एक चोर", "en": "A thief"}, {"hi": "एक बक्सा", "en": "A box"}, {"hi": "एक बिल्ली", "en": "A cat"}], "answer": {"hi": "दीवार में एक छेद", "en": "A hole in the wall"}},
-          {"q": {"hi": "चोर ने घर में कैसे प्रवेश किया?", "en": "How did the thief enter the house?"}, "options": [{"hi": "दीवार खोदकर", "en": "By digging the wall"}, {"hi": "दरवाजे से", "en": "Through the door"}, {"hi": "खिड़की से", "en": "Through the window"}, {"hi": "छत से", "en": "From the roof"}], "answer": {"hi": "दीवार खोदकर", "en": "By digging the wall"}},
-          {"q": {"hi": "रमा ने चोर को क्या कहा?", "en": "What did Rama say to the thief?"}, "options": [{"hi": "तुम गिरफ्तार हो", "en": "You are under arrest"}, {"hi": "यहाँ क्या कर रहे हो?", "en": "What are you doing here?"}, {"hi": "भाग जाओ", "en": "Run away"}, {"hi": "खाना खाओ", "en": "Eat food"}], "answer": {"hi": "तुम गिरफ्तार हो", "en": "You are under arrest"}},
-          {"q": {"hi": "पति-पत्नी ने खुद को कैसे बचाया?", "en": "How did the couple save themselves?"}, "options": [{"hi": "अपनी चतुराई से", "en": "By their cleverness"}, {"hi": "चोर को मारकर", "en": "By hitting the thief"}, {"hi": "पुलिस को बुलाकर", "en": "By calling police"}, {"hi": "भागकर", "en": "By running away"}], "answer": {"hi": "अपनी चतुराई से", "en": "By their cleverness"}},
-          {"q": {"hi": "चोर को अंत में क्या समझ आया?", "en": "What did the thief understand in the end?"}, "options": [{"hi": "कि उसे बेवकूफ बनाया गया था", "en": "That he was fooled"}, {"hi": "कि घर में पैसे नहीं हैं", "en": "That there is no money"}, {"hi": "कि रमा बहुत शक्तिशाली है", "en": "That Rama is powerful"}, {"hi": "कि उसे भागना चाहिए", "en": "That he should run"}], "answer": {"hi": "कि उसे बेवकूफ बनाया गया था", "en": "That he was fooled"}},
-          {"q": {"hi": "क्या चोर का प्लान सफल हुआ?", "en": "Was the thief's plan successful?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "आधा", "en": "Partially"}, {"hi": "शायद", "en": "Maybe"}], "answer": {"hi": "नहीं", "en": "No"}},
-          {"q": {"hi": "रमा कौन था?", "en": "Who was Rama?"}, "options": [{"hi": "गाँव का कोटवाल", "en": "Village Kotwal"}, {"hi": "एक शिक्षक", "en": "A teacher"}, {"hi": "एक किसान", "en": "A farmer"}, {"hi": "चोर का दोस्त", "en": "Thief's friend"}], "answer": {"hi": "गाँव का कोटवाल", "en": "Village Kotwal"}},
-          {"q": {"hi": "कहानी का प्रकार क्या है?", "en": "What is the type of the story?"}, "options": [{"hi": "लोककथा (folktale)", "en": "Folktale"}, {"hi": "विज्ञान कथा", "en": "Science fiction"}, {"hi": "इतिहास", "en": "History"}, {"hi": "जीवनी", "en": "Biography"}], "answer": {"hi": "लोककथा (folktale)", "en": "Folktale"}},
-          {"q": {"hi": "रमा ने अपना नाम क्यों सुना?", "en": "Why did Rama hear his name?"}, "options": [{"hi": "क्योंकि पत्नी जोर से नाम पुकार रही थी", "en": "Because the wife was calling out loudly"}, {"hi": "क्योंकि वह दरवाजे के पीछे था", "en": "Because he was behind the door"}, {"hi": "क्योंकि चोर ने नाम लिया", "en": "Because the thief took the name"}, {"hi": "वह सपना देख रहा था", "en": "He was dreaming"}], "answer": {"hi": "क्योंकि पत्नी जोर से नाम पुकार रही थी", "en": "Because the wife was calling out loudly"}},
-          {"q": {"hi": "पति-पत्नी की बातचीत का वास्तविक उद्देश्य क्या था?", "en": "What was the real purpose of the couple's conversation?"}, "options": [{"hi": "चोर को घर की ओर बुलाना", "en": "To call the thief towards the house"}, {"hi": "सोना", "en": "To sleep"}, {"hi": "बच्चे का नाम तय करना", "en": "To name the child"}, {"hi": "चोर को डराना", "en": "To scare the thief"}], "answer": {"hi": "चोर को घर की ओर बुलाना", "en": "To call the thief towards the house"}}
+          {
+            "q": {
+              "hi": "रवि ने दूध लेने के लिए पाती को क्या बहाना बनाया?",
+              "en": "What excuse did Ravi make to Paati to get milk?"
+            },
+            "options": [
+              {"hi": "वह बीमार है", "en": "He is sick"},
+              {"hi": "उसे बहुत भूख लगी है", "en": "He is very hungry"},
+              {"hi": "उसे प्यास लगी है", "en": "He is thirsty"},
+              {"hi": "उसे मेहमानों के लिए चाहिए", "en": "He needs it for guests"}
+            ],
+            "answer": {"hi": "उसे बहुत भूख लगी है", "en": "He is very hungry"}
+          },
+          {
+            "q": {
+              "hi": "रवि ने पाती को भ्रमित (mislead) करने के लिए क्या किया?",
+              "en": "What did Ravi do to mislead Paati?"
+            },
+            "options": [
+              {"hi": "दूध पी गया", "en": "Drank most of the milk"},
+              {"hi": "दूध फेंक दिया", "en": "Threw the milk"},
+              {"hi": "दूध बिल्ली को दे दिया", "en": "Gave milk to the cat"},
+              {"hi": "झूठ बोला", "en": "Lied about the glass"}
+            ],
+            "answer": {"hi": "दूध पी गया", "en": "Drank most of the milk"}
+          },
+          {
+            "q": {
+              "hi": "बिल्ली का पूरा नाम क्या था?",
+              "en": "What was the kitten's full name?"
+            },
+            "options": [
+              {"hi": "महेंद्र", "en": "Mahendra"},
+              {"hi": "महेन्द्रवर्मा पल्लव पूनई", "en": "Mahendravarma Pallava Poonai"},
+              {"hi": "एम.पी. पूनई", "en": "M.P. Poonai"},
+              {"hi": "पल्लव राजा", "en": "Pallava Raja"}
+            ],
+            "answer": {"hi": "महेन्द्रवर्मा पल्लव पूनई", "en": "Mahendravarma Pallava Poonai"}
+          },
+          {
+            "q": {
+              "hi": "रवि ने बिल्ली के फर की तुलना किससे की?",
+              "en": "To what did Ravi compare the cat's fur?"
+            },
+            "options": [
+              {"hi": "बाघ की खाल", "en": "Tiger's skin"},
+              {"hi": "शेर की अयाल (lion's mane)", "en": "Lion's mane"},
+              {"hi": "रुई", "en": "Cotton"},
+              {"hi": "रेशम", "en": "Silk"}
+            ],
+            "answer": {"hi": "शेर की अयाल (lion's mane)", "en": "Lion's mane"}
+          },
+          {
+            "q": {
+              "hi": "रवि के अनुसार बिल्ली किसका वंशज (descendant) है?",
+              "en": "According to Ravi, the cat is a descendant of whom?"
+            },
+            "options": [
+              {"hi": "शेर", "en": "Lion"},
+              {"hi": "बाघ", "en": "Tiger"},
+              {"hi": "चीता", "en": "Cheetah"},
+              {"hi": "तेंदुआ", "en": "Leopard"}
+            ],
+            "answer": {"hi": "शेर", "en": "Lion"}
+          },
+          {
+            "q": {
+              "hi": "प्राचीन मिस्र (Egypt) में किसकी पूजा की जाती थी?",
+              "en": "Who was worshipped in ancient Egypt?"
+            },
+            "options": [
+              {"hi": "शेर", "en": "Lions"},
+              {"hi": "कुत्ते", "en": "Dogs"},
+              {"hi": "बिल्लियाँ", "en": "Cats"},
+              {"hi": "गाय", "en": "Cows"}
+            ],
+            "answer": {"hi": "बिल्लियाँ", "en": "Cats"}
+          },
+          {
+            "q": {
+              "hi": "रवि ने बिल्ली को किस देवी से जोड़ा?",
+              "en": "Which goddess did Ravi associate the cat with?"
+            },
+            "options": [
+              {"hi": "दुर्गा", "en": "Durga"},
+              {"hi": "बस्तेत (Bastet)", "en": "Bastet"},
+              {"hi": "लक्ष्मी", "en": "Lakshmi"},
+              {"hi": "पार्वती", "en": "Parvati"}
+            ],
+            "answer": {"hi": "बस्तेत (Bastet)", "en": "Bastet"}
+          },
+          {
+            "q": {
+              "hi": "खिड़की से कैसी आवाज़ आ रही थी?",
+              "en": "What kind of sound was coming from the window?"
+            },
+            "options": [
+              {"hi": "गाने की", "en": "Singing"},
+              {"hi": "क्रिच... (Kreech...!)", "en": "Kreech...!"},
+              {"hi": "हंसने की", "en": "Laughing"},
+              {"hi": "रोने की", "en": "Crying"}
+            ],
+            "answer": {"hi": "क्रिच... (Kreech...!)", "en": "Kreech...!"}
+          },
+          {
+            "q": {
+              "hi": "वह अजीब आवाज़ किसकी थी?",
+              "en": "Whose weird sound was that?"
+            },
+            "options": [
+              {"hi": "बिल्ली की", "en": "Cat"},
+              {"hi": "लल्ली के वायलिन सीखने की", "en": "Lalli learning to play violin"},
+              {"hi": "संगीत मास्टर की", "en": "Music master"},
+              {"hi": "रवि की", "en": "Ravi"}
+            ],
+            "answer": {"hi": "लल्ली के वायलिन सीखने की", "en": "Lalli learning to play violin"}
+          },
+          {
+            "q": {
+              "hi": "बिल्ली का बच्चा डरकर कहाँ भागा?",
+              "en": "Where did the frightened kitten scurry towards?"
+            },
+            "options": [
+              {"hi": "रसोई में", "en": "Into the kitchen"},
+              {"hi": "लाल मिर्च की ट्रे में", "en": "Towards a tray of red chillies"},
+              {"hi": "घर के बाहर", "en": "Out of the house"},
+              {"hi": "सोफे के नीचे", "en": "Under the sofa"}
+            ],
+            "answer": {"hi": "लाल मिर्च की ट्रे में", "en": "Towards a tray of red chillies"}
+          }
         ],
         "section3": [
-          {"q": {"hi": "कहानी में 'chatter' का अर्थ क्या है?", "en": "What is the meaning of 'chatter' in the story?"}, "options": [{"hi": "बकवास या निरर्थक बातें", "en": "Idle talk or nonsense"}, {"hi": "गाना", "en": "Singing"}, {"hi": "रोना", "en": "Crying"}, {"hi": "शोर", "en": "Noise"}], "answer": {"hi": "बकवास या निरर्थक बातें", "en": "Idle talk or nonsense"}},
-          {"q": {"hi": "चोर ने जब 'Rama' नाम सुना तो उसने क्या सोचा?", "en": "What did the thief think when he heard the name 'Rama'?"}, "options": [{"hi": "वह घर में कोई बच्चा है", "en": "That there is a child in the house"}, {"hi": "वह पुलिस है", "en": "That it is the police"}, {"hi": "वह उसका दोस्त है", "en": "That it is his friend"}, {"hi": "उसे डर नहीं लगा", "en": "He wasn't afraid"}], "answer": {"hi": "वह घर में कोई बच्चा है", "en": "That there is a child in the house"}},
-          {"q": {"hi": "क्या पति-पत्नी ने सच में बच्चे के बारे में बात की?", "en": "Did the couple really talk about the child?"}, "options": [{"hi": "नहीं, यह सिर्फ एक नाटक था", "en": "No, it was just a trick"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}, {"hi": "शायद", "en": "Maybe"}], "answer": {"hi": "नहीं, यह सिर्फ एक नाटक था", "en": "No, it was just a trick"}},
-          {"q": {"hi": "चोर घर से क्यों नहीं भागा?", "en": "Why didn't the thief run away from the house?"}, "options": [{"hi": "वह पैसों की तलाश में था", "en": "He was looking for money"}, {"hi": "वह सो गया था", "en": "He was asleep"}, {"hi": "उसे रास्ता नहीं मिला", "en": "He didn't find the way"}, {"hi": "वह थक गया था", "en": "He was tired"}], "answer": {"hi": "वह पैसों की तलाश में था", "en": "He was looking for money"}},
-          {"q": {"hi": "रमा के पास क्या हथियार था?", "en": "What weapon did Rama have?"}, "options": [{"hi": "एक लाठी", "en": "A stick/staff"}, {"hi": "बंदूक", "en": "A gun"}, {"hi": "तलवार", "en": "A sword"}, {"hi": "कुछ नहीं", "en": "Nothing"}], "answer": {"hi": "एक लाठी", "en": "A stick/staff"}},
-          {"q": {"hi": "कहानी का मुख्य संदेश क्या है?", "en": "What is the main message of the story?"}, "options": [{"hi": "मुसीबत में बुद्धि का प्रयोग करें", "en": "Use intelligence in trouble"}, {"hi": "चोर पर भरोसा करें", "en": "Trust the thief"}, {"hi": "अकेले रहें", "en": "Stay alone"}, {"hi": "डरें नहीं", "en": "Don't be afraid"}], "answer": {"hi": "मुसीबत में बुद्धि का प्रयोग करें", "en": "Use intelligence in trouble"}},
-          {"q": {"hi": "क्या चोर को पकड़ लिया गया?", "en": "Was the thief arrested?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "वह भाग गया", "en": "He ran away"}, {"hi": "शायद", "en": "Maybe"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "पत्नी ने पति के किस योजना का साथ दिया?", "en": "Whose plan did the wife support?"}, "options": [{"hi": "पति का", "en": "Husband's"}, {"hi": "कोटवाल का", "en": "Kotwal's"}, {"hi": "चोर का", "en": "Thief's"}, {"hi": "पड़ोसी का", "en": "Neighbour's"}], "answer": {"hi": "पति का", "en": "Husband's"}},
-          {"q": {"hi": "घर के अंदर चोर के लिए क्या था?", "en": "What was inside for the thief?"}, "options": [{"hi": "सिर्फ मुसीबत", "en": "Only trouble"}, {"hi": "सोना", "en": "Gold"}, {"hi": "पैसा", "en": "Money"}, {"hi": "खाना", "en": "Food"}], "answer": {"hi": "सिर्फ मुसीबत", "en": "Only trouble"}},
-          {"q": {"hi": "चोर ने रमा की आवाज सुनी थी या नाम पुकारा गया था?", "en": "Did the thief hear Rama's voice or was the name called out?"}, "options": [{"hi": "नाम पुकारा गया था", "en": "The name was called out"}, {"hi": "उसने आवाज सुनी थी", "en": "He heard the voice"}, {"hi": "रमा ने उसे बुलाया", "en": "Rama called him"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "नाम पुकारा गया था", "en": "The name was called out"}}
+          {
+            "q": {
+              "hi": "रवि ने वायलिन के संगीत की तुलना किससे की?",
+              "en": "To what did Ravi compare the violin music?"
+            },
+            "options": [
+              {"hi": "एक कार से", "en": "A car"},
+              {"hi": "एक ट्रेन से", "en": "A train"},
+              {"hi": "एक हवाई जहाज से", "en": "An airplane"},
+              {"hi": "एक बस से", "en": "A bus"}
+            ],
+            "answer": {"hi": "एक ट्रेन से", "en": "A train"}
+          },
+          {
+            "q": {
+              "hi": "रवि के अनुसार लल्ली वायलिन कैसे बजा रही थी?",
+              "en": "According to Ravi, how was Lalli playing the violin?"
+            },
+            "options": [
+              {"hi": "सुंदर तरीके से", "en": "Beautifully"},
+              {"hi": "पटरी से उतर रही थी (off track)", "en": "Derailing/off track"},
+              {"hi": "तेजी से", "en": "Fast"},
+              {"hi": "मौन रहकर", "en": "Silently"}
+            ],
+            "answer": {"hi": "पटरी से उतर रही थी (off track)", "en": "Derailing/off track"}
+          },
+          {
+            "q": {
+              "hi": "बिल्ली के पंजे के निशान कैसे थे?",
+              "en": "How were the marks of the kitten's claws?"
+            },
+            "options": [
+              {"hi": "छोटे और गोल", "en": "Small and round"},
+              {"hi": "लंबे और दुबले (long and scrawny)", "en": "Long and scrawny"},
+              {"hi": "चौड़े", "en": "Wide"},
+              {"hi": "गहरे", "en": "Deep"}
+            ],
+            "answer": {"hi": "लंबे और दुबले (long and scrawny)", "en": "Long and scrawny"}
+          },
+          {
+            "q": {
+              "hi": "पाती (Paati) शब्द का अर्थ क्या है?",
+              "en": "What is the meaning of the word 'Paati'?"
+            },
+            "options": [
+              {"hi": "दादाजी", "en": "Grandfather"},
+              {"hi": "दादी/नानी", "en": "Grandmother"},
+              {"hi": "माँ", "en": "Mother"},
+              {"hi": "पिता", "en": "Father"}
+            ],
+            "answer": {"hi": "दादी/नानी", "en": "Grandmother"}
+          },
+          {
+            "q": {
+              "hi": "रवि को क्या पसंद था?",
+              "en": "What did Ravi love?"
+            },
+            "options": [
+              {"hi": "अपनी आवाज सुनना", "en": "The sound of his own voice"},
+              {"hi": "दौड़ना", "en": "Running"},
+              {"hi": "पढ़ना", "en": "Reading"},
+              {"hi": "सोना", "en": "Sleeping"}
+            ],
+            "answer": {"hi": "अपनी आवाज सुनना", "en": "The sound of his own voice"}
+          },
+          {
+            "q": {
+              "hi": "मृदु की चप्पलें कैसी थीं?",
+              "en": "How were Mridu's slippers?"
+            },
+            "options": [
+              {"hi": "पुरानी", "en": "Old"},
+              {"hi": "धूल भरी (dusty)", "en": "Dusty/grey"},
+              {"hi": "चमकीली", "en": "Shiny"},
+              {"hi": "टूटी हुई", "en": "Broken"}
+            ],
+            "answer": {"hi": "धूल भरी (dusty)", "en": "Dusty/grey"}
+          },
+          {
+            "q": {
+              "hi": "बिल्ली क्या कर रही थी जब उसे आवाज़ सुनाई दी?",
+              "en": "What was the cat doing when it heard the noise?"
+            },
+            "options": [
+              {"hi": "सो रही थी", "en": "Sleeping"},
+              {"hi": "अपने पंजे तेज कर रही थी", "en": "Sharpening its claws"},
+              {"hi": "दूध पी रही थी", "en": "Drinking milk"},
+              {"hi": "खेल रही थी", "en": "Playing"}
+            ],
+            "answer": {"hi": "अपने पंजे तेज कर रही थी", "en": "Sharpening its claws"}
+          },
+          {
+            "q": {
+              "hi": "रवि ने मृदु के इतिहास के ज्ञान पर क्या टिप्पणी की?",
+              "en": "What did Ravi comment on Mridu's knowledge of history?"
+            },
+            "options": [
+              {"hi": "बहुत अच्छा है", "en": "Very good"},
+              {"hi": "कुछ नहीं जानती (don't know a thing)", "en": "Don't know a thing"},
+              {"hi": "औसत है", "en": "Average"},
+              {"hi": "महान है", "en": "Great"}
+            ],
+            "answer": {"hi": "कुछ नहीं जानती (don't know a thing)", "en": "Don't know a thing"}
+          },
+          {
+            "q": {
+              "hi": "स्टोअवे (stowaway) का क्या अर्थ है?",
+              "en": "What is the meaning of 'stowaway'?"
+            },
+            "options": [
+              {"hi": "यात्रा करने वाला", "en": "Traveler"},
+              {"hi": "छिपकर यात्रा करने वाला", "en": "Someone who hides to travel"},
+              {"hi": "पालतू जानवर", "en": "Pet"},
+              {"hi": "चालक", "en": "Driver"}
+            ],
+            "answer": {"hi": "छिपकर यात्रा करने वाला", "en": "Someone who hides to travel"}
+          },
+          {
+            "q": {
+              "hi": "रवि ने 'weird' शब्द का प्रयोग किसके लिए किया?",
+              "en": "For what did Ravi use the word 'weird'?"
+            },
+            "options": [
+              {"hi": "बिल्ली", "en": "Cat"},
+              {"hi": "संगीत की आवाज़", "en": "The sound of music"},
+              {"hi": "लल्ली", "en": "Lalli"},
+              {"hi": "मृदु", "en": "Mridu"}
+            ],
+            "answer": {"hi": "संगीत की आवाज़", "en": "The sound of music"}
+          }
         ],
         "section4": [
-          {"q": {"hi": "चोर को सबसे ज्यादा क्या परेशान कर रहा था?", "en": "What was bothering the thief the most?"}, "options": [{"hi": "उनकी बातों का अंत न होना", "en": "Their never-ending talk"}, {"hi": "अंधेरा", "en": "Darkness"}, {"hi": "भूख", "en": "Hunger"}, {"hi": "रमा का आना", "en": "Rama's arrival"}], "answer": {"hi": "उनकी बातों का अंत न होना", "en": "Their never-ending talk"}},
-          {"q": {"hi": "रमा घर क्यों आया?", "en": "Why did Rama come to the house?"}, "options": [{"hi": "अपना नाम सुनकर", "en": "On hearing his name"}, {"hi": "चोर को पकड़ने के लिए", "en": "To catch the thief"}, {"hi": "मदद मांगने के लिए", "en": "To ask for help"}, {"hi": "घूमने के लिए", "en": "To roam"}], "answer": {"hi": "अपना नाम सुनकर", "en": "On hearing his name"}},
-          {"q": {"hi": "क्या पति-पत्नी डर गए थे?", "en": "Were the couple scared?"}, "options": [{"hi": "नहीं, उन्होंने नाटक किया", "en": "No, they acted"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "थोड़ा", "en": "A little"}], "answer": {"hi": "नहीं, उन्होंने नाटक किया", "en": "No, they acted"}},
-          {"q": {"hi": "चोर को क्या लगा कि वे क्या कर रहे हैं?", "en": "What did the thief think they were doing?"}, "options": [{"hi": "बच्चे के नाम की चर्चा", "en": "Discussing child's name"}, {"hi": "सोने की योजना", "en": "Planning to sleep"}, {"hi": "पैसा छुपाना", "en": "Hiding money"}, {"hi": "खाना खाना", "en": "Eating"}], "answer": {"hi": "बच्चे के नाम की चर्चा", "en": "Discussing child's name"}},
-          {"q": {"hi": "कहानी के अंत में कौन सुरक्षित था?", "en": "Who was safe at the end of the story?"}, "options": [{"hi": "पति और पत्नी", "en": "Husband and wife"}, {"hi": "चोर", "en": "Thief"}, {"hi": "कोटवाल", "en": "Kotwal"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "पति और पत्नी", "en": "Husband and wife"}},
-          {"q": {"hi": "चोर ने अंत में क्या महसूस किया?", "en": "What did the thief feel in the end?"}, "options": [{"hi": "पछतावा या हार", "en": "Regret or defeat"}, {"hi": "जीत", "en": "Victory"}, {"hi": "खुशी", "en": "Happiness"}, {"hi": "डर", "en": "Fear"}], "answer": {"hi": "पछतावा या हार", "en": "Regret or defeat"}},
-          {"q": {"hi": "रमा के हाथ में क्या था?", "en": "What was in Rama's hand?"}, "options": [{"hi": "लाठी", "en": "Staff"}, {"hi": "बक्सा", "en": "Box"}, {"hi": "किताब", "en": "Book"}, {"hi": "कुछ नहीं", "en": "Nothing"}], "answer": {"hi": "लाठी", "en": "Staff"}},
-          {"q": {"hi": "क्या यह कहानी मनोरंजक है?", "en": "Is this story entertaining?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "चोर ने दीवार कैसे खोदी?", "en": "How did the thief dig the wall?"}, "options": [{"hi": "औजारों से", "en": "With tools"}, {"hi": "हाथों से", "en": "With hands"}, {"hi": "लाठी से", "en": "With staff"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "औजारों से", "en": "With tools"}},
-          {"q": {"hi": "पति ने अपनी पत्नी को क्या संकेत दिया?", "en": "What sign did the husband give to his wife?"}, "options": [{"hi": "बात शुरू करने का", "en": "To start talking"}, {"hi": "चुप रहने का", "en": "To be silent"}, {"hi": "भागने का", "en": "To run"}, {"hi": "सोने का", "en": "To sleep"}], "answer": {"hi": "बात शुरू करने का", "en": "To start talking"}}
+          {
+            "q": {
+              "hi": "रवि ने बिल्ली के नाम के बारे में क्या कहा?",
+              "en": "What did Ravi say about the cat's name?"
+            },
+            "options": [
+              {"hi": "यह प्यारा है", "en": "It is cute"},
+              {"hi": "यह असली नाम है", "en": "It is a real name"},
+              {"hi": "यह बेकार है", "en": "It is useless"},
+              {"hi": "यह छोटा है", "en": "It is small"}
+            ],
+            "answer": {"hi": "यह असली नाम है", "en": "It is a real name"}
+          },
+          {
+            "q": {
+              "hi": "रवि ने किस वाद्ययंत्र (instrument) का ज़िक्र किया?",
+              "en": "Which instrument did Ravi mention?"
+            },
+            "options": [
+              {"hi": "गिटार", "en": "Guitar"},
+              {"hi": "वायलिन", "en": "Violin"},
+              {"hi": "बांसुरी", "en": "Flute"},
+              {"hi": "ढोल", "en": "Drum"}
+            ],
+            "answer": {"hi": "वायलिन", "en": "Violin"}
+          },
+          {
+            "q": {
+              "hi": "रवि के अनुसार बिल्ली की आवाज़ कैसी थी?",
+              "en": "According to Ravi, how was the cat's voice?"
+            },
+            "options": [
+              {"hi": "मीठी", "en": "Sweet"},
+              {"hi": "डरावनी (whoop EEK)", "en": "Scary/whoop EEK"},
+              {"hi": "धीमी", "en": "Soft"},
+              {"hi": "सुरीली", "en": "Melodious"}
+            ],
+            "answer": {"hi": "डरावनी (whoop EEK)", "en": "Scary/whoop EEK"}
+          },
+          {
+            "q": {
+              "hi": "लाल मिर्च किस चीज़ पर सूखने के लिए रखी गई थी?",
+              "en": "On what were the red chillies kept to dry?"
+            },
+            "options": [
+              {"hi": "प्लेट", "en": "Plate"},
+              {"hi": "बांस की ट्रे (bamboo tray)", "en": "Bamboo tray"},
+              {"hi": "जमीन", "en": "Ground"},
+              {"hi": "मेज़", "en": "Table"}
+            ],
+            "answer": {"hi": "बांस की ट्रे (bamboo tray)", "en": "Bamboo tray"}
+          },
+          {
+            "q": {
+              "hi": "थथा (Thatha) का अर्थ क्या है?",
+              "en": "What is the meaning of 'Thatha'?"
+            },
+            "options": [
+              {"hi": "दादी", "en": "Grandmother"},
+              {"hi": "दादाजी", "en": "Grandfather"},
+              {"hi": "भाई", "en": "Brother"},
+              {"hi": "पिताजी", "en": "Father"}
+            ],
+            "answer": {"hi": "दादाजी", "en": "Grandfather"}
+          },
+          {
+            "q": {
+              "hi": "रवि वायलिन बजाते समय किसको 'पटरी से उतरा' कह रहा था?",
+              "en": "Who did Ravi say was 'derailing' while playing the violin?"
+            },
+            "options": [
+              {"hi": "संगीत मास्टर", "en": "Music master"},
+              {"hi": "लल्ली", "en": "Lalli"},
+              {"hi": "मृदु", "en": "Mridu"},
+              {"hi": "पाती", "en": "Paati"}
+            ],
+            "answer": {"hi": "लल्ली", "en": "Lalli"}
+          },
+          {
+            "q": {
+              "hi": "बिल्ली को 'dirty creature' किसने कहा?",
+              "en": "Who called the cat a 'dirty creature'?"
+            },
+            "options": [
+              {"hi": "रवि", "en": "Ravi"},
+              {"hi": "मृदु", "en": "Mridu"},
+              {"hi": "बड़ों/पाती (implied)", "en": "Elders/Paati"},
+              {"hi": "लल्ली", "en": "Lalli"}
+            ],
+            "answer": {"hi": "बड़ों/पाती (implied)", "en": "Elders/Paati"}
+          },
+          {
+            "q": {
+              "hi": "मृदु की प्रतिक्रिया (reaction) क्या थी?",
+              "en": "What was Mridu's reaction?"
+            },
+            "options": [
+              {"hi": "वह भाग गई", "en": "She ran away"},
+              {"hi": "वह हँसी (giggled)", "en": "She giggled"},
+              {"hi": "वह रोई", "en": "She cried"},
+              {"hi": "वह डर गई", "en": "She got scared"}
+            ],
+            "answer": {"hi": "वह हँसी (giggled)", "en": "She giggled"}
+          },
+          {
+            "q": {
+              "hi": "बिल्ली के फर की तुलना किससे की गई?",
+              "en": "The cat's fur was compared to?"
+            },
+            "options": [
+              {"hi": "शेर की अयाल", "en": "Lion's mane"},
+              {"hi": "ऊन", "en": "Wool"},
+              {"hi": "बालू", "en": "Sand"},
+              {"hi": "घास", "en": "Grass"}
+            ],
+            "answer": {"hi": "शेर की अयाल", "en": "Lion's mane"}
+          },
+          {
+            "q": {
+              "hi": "मृदु, रवि और मीना को क्या करना पड़ा?",
+              "en": "What did Mridu, Ravi and Meena have to do?"
+            },
+            "options": [
+              {"hi": "वायलिन सीखना पड़ा", "en": "Learn violin"},
+              {"hi": "बिल्ली को छिपाना पड़ा", "en": "Keep the cat a secret"},
+              {"hi": "दूध चुराना पड़ा", "en": "Steal milk"},
+              {"hi": "सफाई करनी पड़ी", "en": "Clean the house"}
+            ],
+            "answer": {"hi": "बिल्ली को छिपाना पड़ा", "en": "Keep the cat a secret"}
+          }
         ],
         "section5": [
-          {"q": {"hi": "क्या पति-पत्नी ने सच में पैसे छुपाए थे?", "en": "Did the couple really hide money?"}, "options": [{"hi": "नहीं, यह योजना का हिस्सा था", "en": "No, it was part of the plan"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "नहीं, यह योजना का हिस्सा था"}},
-          {"q": {"hi": "चोर क्यों पकड़ा गया?", "en": "Why was the thief caught?"}, "options": [{"hi": "अपनी उत्सुकता के कारण", "en": "Due to his curiosity"}, {"hi": "रमा की फुर्ती से", "en": "Due to Rama's quickness"}, {"hi": "भाग्य से", "en": "Due to luck"}, {"hi": "पति की मदद से", "en": "With husband's help"}], "answer": {"hi": "अपनी उत्सुकता के कारण"}},
-          {"q": {"hi": "रमा का घर में आगमन क्या दर्शाता है?", "en": "What does Rama's arrival in the house indicate?"}, "options": [{"hi": "योजना की सफलता", "en": "Success of the plan"}, {"hi": "चोर की जीत", "en": "Thief's victory"}, {"hi": "रमा की गलती", "en": "Rama's mistake"}, {"hi": "अनहोनी", "en": "Misfortune"}], "answer": {"hi": "योजना की सफलता"}},
-          {"q": {"hi": "चोर के लिए सबसे बुरी बात क्या थी?", "en": "What was the worst thing for the thief?"}, "options": [{"hi": "पकड़े जाना", "en": "Getting caught"}, {"hi": "भूख", "en": "Hunger"}, {"hi": "अंधेरा", "en": "Darkness"}, {"hi": "पति-पत्नी की बातें", "en": "Husband-wife talk"}], "answer": {"hi": "पकड़े जाना"}},
-          {"q": {"hi": "रमा कब घर पहुँचा?", "en": "When did Rama reach the house?"}, "options": [{"hi": "चोर के अंदर होने पर", "en": "When the thief was inside"}, {"hi": "सुबह", "en": "In the morning"}, {"hi": "रात में", "en": "At night"}, {"hi": "चोर के भागने के बाद", "en": "After the thief ran away"}], "answer": {"hi": "चोर के अंदर होने पर"}},
-          {"q": {"hi": "क्या पति-पत्नी ने चालाकी दिखाई?", "en": "Did the couple show cleverness?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ"}},
-          {"q": {"hi": "चोर ने घर में कहाँ छेद किया था?", "en": "Where did the thief make a hole in the house?"}, "options": [{"hi": "दीवार में", "en": "In the wall"}, {"hi": "छत में", "en": "In the roof"}, {"hi": "दरवाजे में", "en": "In the door"}, {"hi": "जमीन में", "en": "In the floor"}], "answer": {"hi": "दीवार में"}},
-          {"q": {"hi": "रमा ने क्या कहा?", "en": "What did Rama say?"}, "options": [{"hi": "यू आर अंडर अरेस्ट", "en": "You are under arrest"}, {"hi": "कौन हो तुम", "en": "Who are you"}, {"hi": "भागो", "en": "Run"}, {"hi": "जाओ", "en": "Go"}], "answer": {"hi": "यू आर अंडर अरेस्ट"}},
-          {"q": {"hi": "क्या यह कहानी आज के समय में भी प्रासंगिक है?", "en": "Is this story relevant even today?"}, "options": [{"hi": "हाँ, समझदारी के लिए", "en": "Yes, for intelligence"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ, समझदारी के लिए"}},
-          {"q": {"hi": "अंत में कौन हँसा?", "en": "Who laughed at the end?"}, "options": [{"hi": "पति और पत्नी", "en": "Husband and wife"}, {"hi": "चोर", "en": "Thief"}, {"hi": "रमा", "en": "Rama"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "पति और पत्नी"}}
-        ]
-      },
-   "chapter02a": {
-        "section1": [
-          {"q": {"hi": "गजारज कौन था?", "en": "Who was Gajaraj?"}, "options": [{"hi": "एक हाथी", "en": "An elephant"}, {"hi": "एक कुत्ता", "en": "A dog"}, {"hi": "एक किसान", "en": "A farmer"}, {"hi": "एक प्रशिक्षक", "en": "A trainer"}], "answer": {"hi": "एक हाथी", "en": "An elephant"}},
-          {"q": {"hi": "गजारज क्यों दुखी था?", "en": "Why was Gajaraj sad?"}, "options": [{"hi": "क्योंकि उसका कोई दोस्त नहीं था", "en": "Because he had no friends"}, {"hi": "क्योंकि वह भूखा था", "en": "Because he was hungry"}, {"hi": "क्योंकि वह बीमार था", "en": "Because he was ill"}, {"hi": "क्योंकि वह अकेला नहीं रहना चाहता था", "en": "Because he didn't want to be alone"}], "answer": {"hi": "क्योंकि उसका कोई दोस्त नहीं था", "en": "Because he had no friends"}},
-          {"q": {"hi": "गजारज की देखभाल कौन करता था?", "en": "Who looked after Gajaraj?"}, "options": [{"hi": "महावत", "en": "The mahout"}, {"hi": "राजा", "en": "The king"}, {"hi": "किसान", "en": "The farmer"}, {"hi": "एक कुत्ता", "en": "A dog"}], "answer": {"hi": "महावत", "en": "The mahout"}},
-          {"q": {"hi": "गजारज कहाँ रहता था?", "en": "Where did Gajaraj live?"}, "options": [{"hi": "शाही अस्तबल में", "en": "In the royal stables"}, {"hi": "जंगल में", "en": "In the forest"}, {"hi": "किसान के घर", "en": "At the farmer's house"}, {"hi": "एक तालाब में", "en": "In a pond"}], "answer": {"hi": "शाही अस्तबल में", "en": "In the royal stables"}},
-          {"q": {"hi": "कौन सा जानवर गलती से अस्तबल में आ गया?", "en": "Which animal strayed into the stable?"}, "options": [{"hi": "एक कुत्ता", "en": "A dog"}, {"hi": "एक बिल्ली", "en": "A cat"}, {"hi": "एक खरगोश", "en": "A rabbit"}, {"hi": "एक चूहा", "en": "A rat"}], "answer": {"hi": "एक कुत्ता", "en": "A dog"}},
-          {"q": {"hi": "गजारज ने कुत्ते के साथ क्या साझा किया?", "en": "What did Gajaraj share with the dog?"}, "options": [{"hi": "अपना भोजन", "en": "His food"}, {"hi": "अपना पानी", "en": "His water"}, {"hi": "अपना स्थान", "en": "His place"}, {"hi": "अपना खिलौना", "en": "His toy"}], "answer": {"hi": "अपना भोजन", "en": "His food"}},
-          {"q": {"hi": "कुत्ते का नाम क्या था?", "en": "What was the dog's name?"}, "options": [{"hi": "बंटी", "en": "Buntee"}, {"hi": "गजारज", "en": "Gajaraj"}, {"hi": "शेरू", "en": "Sheru"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "बंटी", "en": "Buntee"}},
-          {"q": {"hi": "कुत्ता किसका था?", "en": "Whose dog was it?"}, "options": [{"hi": "एक किसान का", "en": "A farmer's"}, {"hi": "राजा का", "en": "The king's"}, {"hi": "महावत का", "en": "The mahout's"}, {"hi": "गजारज का", "en": "Gajaraj's"}], "answer": {"hi": "एक किसान का", "en": "A farmer's"}},
-          {"q": {"hi": "गजारज ने नहाते समय कुत्ते के साथ क्या खेल खेला?", "en": "What game did Gajaraj play with the dog while bathing?"}, "options": [{"hi": "पानी छिड़कना", "en": "Splashing water"}, {"hi": "पकड़म-पकड़ाई", "en": "Catching"}, {"hi": "दौड़ना", "en": "Running"}, {"hi": "कुछ नहीं", "en": "Nothing"}], "answer": {"hi": "पानी छिड़कना", "en": "Splashing water"}},
-          {"q": {"hi": "कुत्ता गजारज की सवारी कैसे करता था?", "en": "How did the dog ride on Gajaraj?"}, "options": [{"hi": "हाथी उसे अपनी पीठ पर बिठाता था", "en": "The elephant placed him on his back"}, {"hi": "वह हाथी के कान पकड़कर बैठता था", "en": "He sat by holding the ears"}, {"hi": "वह हाथी के साथ दौड़ता था", "en": "He ran with the elephant"}, {"hi": "वह हाथी की पूंछ पकड़ता था", "en": "He held the tail"}], "answer": {"hi": "हाथी उसे अपनी पीठ पर बिठाता था", "en": "The elephant placed him on his back"}}
-        ],
-        "section2": [
-          {"q": {"hi": "किसान को कुत्ता कब मिला?", "en": "When did the farmer find the dog?"}, "options": [{"hi": "रास्ते में जाते हुए", "en": "While passing by"}, {"hi": "अस्तबल में", "en": "In the stable"}, {"hi": "घर पर", "en": "At home"}, {"hi": "नदी के किनारे", "en": "Near the river"}], "answer": {"hi": "रास्ते में जाते हुए", "en": "While passing by"}},
-          {"q": {"hi": "कुत्ते को घर ले जाते समय किसने रस्सी का उपयोग किया?", "en": "Who used a rope to take the dog home?"}, "options": [{"hi": "किसान", "en": "The farmer"}, {"hi": "महावत", "en": "The mahout"}, {"hi": "गजारज", "en": "Gajaraj"}, {"hi": "किसी ने नहीं", "en": "No one"}], "answer": {"hi": "किसान", "en": "The farmer"}},
-          {"q": {"hi": "गजारज और बंटी अलग होने पर कैसे थे?", "en": "How were Gajaraj and Buntee after separation?"}, "options": [{"hi": "दुखी और रो रहे थे", "en": "Sad and crying/in tears"}, {"hi": "खुश", "en": "Happy"}, {"hi": "नाराज", "en": "Angry"}, {"hi": "शांत", "en": "Calm"}], "answer": {"hi": "दुखी और रो रहे थे", "en": "Sad and crying/in tears"}},
-          {"q": {"hi": "गजारज ने खाना क्यों नहीं खाया?", "en": "Why did Gajaraj not eat food?"}, "options": [{"hi": "क्योंकि उसे दोस्त की याद आ रही थी", "en": "Because he was missing his friend"}, {"hi": "क्योंकि वह बीमार था", "en": "Because he was ill"}, {"hi": "क्योंकि खाना अच्छा नहीं था", "en": "Because the food was not good"}, {"hi": "क्योंकि वह थक गया था", "en": "Because he was tired"}], "answer": {"hi": "क्योंकि उसे दोस्त की याद आ रही थी", "en": "Because he was missing his friend"}},
-          {"q": {"hi": "क्या बंटी ने घर पर खाना खाया?", "en": "Did Buntee eat food at home?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "थोड़ा", "en": "A little"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "नहीं", "en": "No"}},
-          {"q": {"hi": "किसान ने कुत्ते को रस्सी से क्यों मुक्त किया?", "en": "Why did the farmer free the dog from the rope?"}, "options": [{"hi": "ताकि वह अपने दोस्त के पास जा सके", "en": "So he could go to his friend"}, {"hi": "क्योंकि वह भाग गया", "en": "Because he ran away"}, {"hi": "क्योंकि कुत्ता बीमार था", "en": "Because the dog was ill"}, {"hi": "क्योंकि उसने खाना खा लिया था", "en": "Because he had eaten"}], "answer": {"hi": "ताकि वह अपने दोस्त के पास जा सके", "en": "So he could go to his friend"}},
-          {"q": {"hi": "कुत्ता वापस कहाँ गया?", "en": "Where did the dog go back to?"}, "options": [{"hi": "अस्तबल", "en": "Stable"}, {"hi": "घर", "en": "Home"}, {"hi": "जंगल", "en": "Forest"}, {"hi": "बाजार", "en": "Market"}], "answer": {"hi": "अस्तबल", "en": "Stable"}},
-          {"q": {"hi": "गजारज ने कुत्ते को वापस देखकर क्या किया?", "en": "What did Gajaraj do seeing the dog back?"}, "options": [{"hi": "उसे अपनी सूंड से झूला झुलाया", "en": "Gave him a joyous swing with his trunk"}, {"hi": "उसे खाना खिलाया", "en": "Fed him"}, {"hi": "उसे बाहर भगा दिया", "en": "Chased him out"}, {"hi": "कुछ नहीं", "en": "Nothing"}], "answer": {"hi": "उसे अपनी सूंड से झूला झुलाया", "en": "Gave him a joyous swing with his trunk"}},
-          {"q": {"hi": "महावत ने क्या राहत महसूस की?", "en": "What relief did the mahout feel?"}, "options": [{"hi": "कि हाथी ने फिर से खाना शुरू कर दिया", "en": "That the elephant started eating again"}, {"hi": "कि राजा आ गया", "en": "That the king arrived"}, {"hi": "कि कुत्ता मर गया", "en": "That the dog died"}, {"hi": "कुछ नहीं", "en": "Nothing"}], "answer": {"hi": "कि हाथी ने फिर से खाना शुरू कर दिया", "en": "That the elephant started eating again"}},
-          {"q": {"hi": "अंत में महावत ने क्या कहा?", "en": "What did the mahout say in the end?"}, "options": [{"hi": "कि उसे भी एक दोस्त मिल गया", "en": "That he also found a friend"}, {"hi": "कि वह नौकरी छोड़ देगा", "en": "That he will quit the job"}, {"hi": "कि वह खुश है", "en": "That he is happy"}, {"hi": "कुछ नहीं", "en": "Nothing"}], "answer": {"hi": "कि उसे भी एक दोस्त मिल गया", "en": "That he also found a friend"}}
-        ],
-        "section3": [
-          {"q": {"hi": "'Munching' का क्या अर्थ है?", "en": "What is the meaning of 'Munching'?"}, "options": [{"hi": "चबाना", "en": "Chewing"}, {"hi": "दौड़ना", "en": "Running"}, {"hi": "सोना", "en": "Sleeping"}, {"hi": "खेलना", "en": "Playing"}], "answer": {"hi": "चबाना", "en": "Chewing"}},
-          {"q": {"hi": "'Delighted' का क्या अर्थ है?", "en": "What is the meaning of 'Delighted'?"}, "options": [{"hi": "बहुत खुश", "en": "Very happy"}, {"hi": "दुखी", "en": "Sad"}, {"hi": "गुस्से में", "en": "Angry"}, {"hi": "डरा हुआ", "en": "Afraid"}], "answer": {"hi": "बहुत खुश", "en": "Very happy"}},
-          {"q": {"hi": "'Plunging' का क्या अर्थ है?", "en": "What is the meaning of 'Plunging'?"}, "options": [{"hi": "कूदना", "en": "Jumping in"}, {"hi": "चलना", "en": "Walking"}, {"hi": "सोना", "en": "Sleeping"}, {"hi": "खाना", "en": "Eating"}], "answer": {"hi": "कूदना", "en": "Jumping in"}},
-          {"q": {"hi": "'Trunk' क्या है?", "en": "What is 'Trunk'?"}, "options": [{"hi": "हाथी की लंबी नाक", "en": "Elephant's long nose"}, {"hi": "हाथी का पैर", "en": "Elephant's leg"}, {"hi": "हाथी की आंख", "en": "Elephant's eye"}, {"hi": "हाथी का कान", "en": "Elephant's ear"}], "answer": {"hi": "हाथी की लंबी नाक", "en": "Elephant's long nose"}},
-          {"q": {"hi": "'Wagged' का क्या अर्थ है?", "en": "What is the meaning of 'Wagged'?"}, "options": [{"hi": "इधर-उधर हिलाना", "en": "Moved from side to side"}, {"hi": "पकड़ना", "en": "Catching"}, {"hi": "सोना", "en": "Sleeping"}, {"hi": "दौड़ना", "en": "Running"}], "answer": {"hi": "इधर-उधर हिलाना", "en": "Moved from side to side"}},
-          {"q": {"hi": "'Indigestion' का क्या अर्थ है?", "en": "What is the meaning of 'Indigestion'?"}, "options": [{"hi": "पेट खराब होना", "en": "Upset stomach"}, {"hi": "बुखार", "en": "Fever"}, {"hi": "दर्द", "en": "Pain"}, {"hi": "कुछ नहीं", "en": "None"}], "answer": {"hi": "पेट खराब होना", "en": "Upset stomach"}},
-          {"q": {"hi": "'Satisfaction' का क्या अर्थ है?", "en": "What is the meaning of 'Satisfaction'?"}, "options": [{"hi": "संतुष्टि", "en": "Happiness/Contentment"}, {"hi": "दुख", "en": "Sadness"}, {"hi": "गुस्सा", "en": "Anger"}, {"hi": "डर", "en": "Fear"}], "answer": {"hi": "संतुष्टि", "en": "Happiness/Contentment"}},
-          {"q": {"hi": "हाथी और कुत्ता क्या थे?", "en": "What were the elephant and dog?"}, "options": [{"hi": "सबसे अच्छे दोस्त", "en": "Best friends"}, {"hi": "दुश्मन", "en": "Enemies"}, {"hi": "अजनबी", "en": "Strangers"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "सबसे अच्छे दोस्त", "en": "Best friends"}},
-          {"q": {"hi": "क्या कहानी सच्ची है?", "en": "Is the story true?"}, "options": [{"hi": "यह एक लोककथा हो सकती है", "en": "It could be a folktale"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "यह एक लोककथा हो सकती है", "en": "It could be a folktale"}},
-          {"q": {"hi": "लेखक का क्या नाम है?", "en": "What is the name of the author?"}, "options": [{"hi": "सुब्बा राव", "en": "Subba Rao"}, {"hi": "आर.के. नारायण", "en": "R.K. Narayan"}, {"hi": "प्रेमचंद", "en": "Premchand"}, {"hi": "रवींद्रनाथ टैगोर", "en": "Rabindranath Tagore"}], "answer": {"hi": "सुब्बा राव", "en": "Subba Rao"}}
-        ],
-        "section4": [
-          {"q": {"hi": "कुत्ता हाथी के साथ क्यों रहना चाहता था?", "en": "Why did the dog want to stay with the elephant?"}, "options": [{"hi": "क्योंकि वह उसका दोस्त था", "en": "Because he was his friend"}, {"hi": "क्योंकि वह भूखा था", "en": "Because he was hungry"}, {"hi": "क्योंकि वह डरता था", "en": "Because he was afraid"}, {"hi": "क्योंकि उसे खाना मिल रहा था", "en": "Because he was getting food"}], "answer": {"hi": "क्योंकि वह उसका दोस्त था", "en": "Because he was his friend"}},
-          {"q": {"hi": "महावत ने हाथी के खाने के बारे में क्या सोचा?", "en": "What did the mahout think about the elephant's eating?"}, "options": [{"hi": "उसे पेट खराब है", "en": "He has indigestion"}, {"hi": "वह बीमार है", "en": "He is ill"}, {"hi": "वह दुखी है", "en": "He is sad"}, {"hi": "वह शरारती है", "en": "He is naughty"}], "answer": {"hi": "उसे पेट खराब है", "en": "He has indigestion"}},
-          {"q": {"hi": "कुत्ते के वापस आने पर किसान ने क्या किया?", "en": "What did the farmer do when the dog came back?"}, "options": [{"hi": "वह उसके पीछे गया", "en": "He followed him"}, {"hi": "वह गुस्सा हुआ", "en": "He got angry"}, {"hi": "उसने पुलिस बुलाई", "en": "He called police"}, {"hi": "उसने कुछ नहीं किया", "en": "He did nothing"}], "answer": {"hi": "वह उसके पीछे गया", "en": "He followed him"}},
-          {"q": {"hi": "क्या हाथी और कुत्ते की दोस्ती को सभी ने पसंद किया?", "en": "Did everyone like the friendship between elephant and dog?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "हाथी को नहाना कैसा लगता था?", "en": "How did the elephant feel about bathing?"}, "options": [{"hi": "उसे पसंद था", "en": "He liked it"}, {"hi": "उसे नफरत थी", "en": "He hated it"}, {"hi": "वह डरता था", "en": "He was afraid"}, {"hi": "उसे फर्क नहीं पड़ता", "en": "Doesn't care"}], "answer": {"hi": "उसे पसंद था", "en": "He liked it"}},
-          {"q": {"hi": "कुत्ते को नहाना कैसा लगता था?", "en": "How did the dog feel about bathing?"}, "options": [{"hi": "उसे पसंद नहीं था", "en": "He didn't like it"}, {"hi": "उसे पसंद था", "en": "He liked it"}, {"hi": "वह खुश था", "en": "He was happy"}, {"hi": "कुछ नहीं", "en": "None"}], "answer": {"hi": "उसे पसंद नहीं था", "en": "He didn't like it"}},
-          {"q": {"hi": "महावत हाथी को रोज कहाँ ले जाता था?", "en": "Where did the mahout take the elephant daily?"}, "options": [{"hi": "तालाब में", "en": "To the pond"}, {"hi": "जंगल में", "en": "To the forest"}, {"hi": "बाजार में", "en": "To the market"}, {"hi": "शहर में", "en": "To the city"}], "answer": {"hi": "तालाब में", "en": "To the pond"}},
-          {"q": {"hi": "हाथी के पास रहने की जगह कैसी थी?", "en": "What was the elephant's living space like?"}, "options": [{"hi": "सबसे अच्छी", "en": "The best booth"}, {"hi": "खराब", "en": "Bad"}, {"hi": "गंदी", "en": "Dirty"}, {"hi": "बहुत बड़ी", "en": "Very big"}], "answer": {"hi": "सबसे अच्छी", "en": "The best booth"}},
-          {"q": {"hi": "कुत्ते ने किसान को कैसे पहचाना?", "en": "How did the dog recognize the farmer?"}, "options": [{"hi": "आवाज से", "en": "By his voice"}, {"hi": "शक्ल से", "en": "By face"}, {"hi": "नाम से", "en": "By name"}, {"hi": "कुछ नहीं", "en": "None"}], "answer": {"hi": "आवाज से"}},
-          {"q": {"hi": "कहानी का मुख्य संदेश क्या है?", "en": "What is the main message of the story?"}, "options": [{"hi": "दोस्ती किसी के साथ भी हो सकती है", "en": "Friendship can happen with anyone"}, {"hi": "हाथी बड़े होते हैं", "en": "Elephants are big"}, {"hi": "कुत्ते वफादार होते हैं", "en": "Dogs are loyal"}, {"hi": "खाना जरूरी है", "en": "Food is necessary"}], "answer": {"hi": "दोस्ती किसी के साथ भी हो सकती है", "en": "Friendship can happen with anyone"}}
-        ],
-        "section5": [
-          {"q": {"hi": "क्या गजारज राजा का प्रिय था?", "en": "Was Gajaraj the king's favorite?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "कुत्ता गजारज के पास कैसे पहुँचा?", "en": "How did the dog reach Gajaraj?"}, "options": [{"hi": "गलती से", "en": "By mistake (strayed)"}, {"hi": "ढूंढते हुए", "en": "Searching"}, {"hi": "राजा ने भेजा", "en": "King sent"}, {"hi": "कुछ नहीं", "en": "None"}], "answer": {"hi": "गलती से"}},
-          {"q": {"hi": "क्या महावत ने कुत्ते को रहने दिया?", "en": "Did the mahout let the dog stay?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "हाथी की सूंड का उपयोग किस खेल में हुआ?", "en": "What was the elephant's trunk used for in play?"}, "options": [{"hi": "पानी छिड़कने", "en": "Splashing water"}, {"hi": "दौड़ने", "en": "Running"}, {"hi": "खाने", "en": "Eating"}, {"hi": "सोने", "en": "Sleeping"}], "answer": {"hi": "पानी छिड़कने"}},
-          {"q": {"hi": "किसान को क्या खुशी हुई?", "en": "What made the farmer happy?"}, "options": [{"hi": "कुत्ता मिल गया", "en": "Found his dog"}, {"hi": "हाथी मिल गया", "en": "Found an elephant"}, {"hi": "पैसा मिल गया", "en": "Found money"}, {"hi": "दोस्त मिल गया", "en": "Found a friend"}], "answer": {"hi": "कुत्ता मिल गया"}},
-          {"q": {"hi": "क्या दोनों दोस्त दोबारा मिले?", "en": "Did both friends meet again?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ"}},
-          {"q": {"hi": "महावत ने किसे गले लगाया?", "en": "Who did the mahout hug?"}, "options": [{"hi": "किसान", "en": "The farmer"}, {"hi": "हाथी", "en": "Elephant"}, {"hi": "कुत्ता", "en": "Dog"}, {"hi": "राजा", "en": "King"}], "answer": {"hi": "किसान"}},
-          {"q": {"hi": "कहानी कहाँ समाप्त होती है?", "en": "Where does the story end?"}, "options": [{"hi": "अस्तबल में", "en": "At the stable"}, {"hi": "घर पर", "en": "At home"}, {"hi": "जंगल में", "en": "In the forest"}, {"hi": "राजा के दरबार में", "en": "In king's court"}], "answer": {"hi": "अस्तबल में"}},
-          {"q": {"hi": "क्या हाथी का व्यवहार कुत्ते के लिए बदला?", "en": "Did the elephant's behavior change for the dog?"}, "options": [{"hi": "नहीं, वह प्यार करता रहा", "en": "No, he kept loving him"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "नहीं, वह प्यार करता रहा"}},
-          {"q": {"hi": "इस कहानी से हम क्या सीखते हैं?", "en": "What do we learn from this story?"}, "options": [{"hi": "दोस्ती का महत्व", "en": "Importance of friendship"}, {"hi": "जानवरों का महत्व", "en": "Importance of animals"}, {"hi": "राजाओं का महत्व", "en": "Importance of kings"}, {"hi": "कुछ नहीं", "en": "Nothing"}], "answer": {"hi": "दोस्ती का महत्व"}}
-        ]
-      },
-    "chapter02b":{
-        "section1": [
-          {"q": {"hi": "कविता में सबसे महत्वपूर्ण चीज क्या होनी चाहिए?", "en": "What should always be the most important thing in the poem?"}, "options": [{"hi": "दोस्ती", "en": "Friendships"}, {"hi": "पैसे", "en": "Money"}, {"hi": "खिलौने", "en": "Toys"}, {"hi": "घर", "en": "Home"}], "answer": {"hi": "दोस्ती", "en": "Friendships"}},
-          {"q": {"hi": "कवि किन दोस्तों के साथ धन्य महसूस करता है?", "en": "With whom does the poet feel blessed?"}, "options": [{"hi": "विशेष दोस्तों के साथ", "en": "With special friends"}, {"hi": "अजनबियों के साथ", "en": "With strangers"}, {"hi": "पड़ोसियों के साथ", "en": "With neighbours"}, {"hi": "परिवार के साथ", "en": "With family"}], "answer": {"hi": "विशेष दोस्तों के साथ", "en": "With special friends"}},
-          {"q": {"hi": "कवि अपने दोस्तों के लिए क्या देना चाहता है?", "en": "What does the poet want to give to his friends?"}, "options": [{"hi": "अपना सर्वश्रेष्ठ", "en": "His very best"}, {"hi": "उपहार", "en": "Gifts"}, {"hi": "समय", "en": "Time"}, {"hi": "पैसा", "en": "Money"}], "answer": {"hi": "अपना सर्वश्रेष्ठ", "en": "His very best"}},
-          {"q": {"hi": "कवि दोस्तों के साथ क्या साझा करना चाहता है?", "en": "What does the poet want to share with friends?"}, "options": [{"hi": "आशाएं और योजनाएं", "en": "Hopes and plans"}, {"hi": "भोजन", "en": "Food"}, {"hi": "कपड़े", "en": "Clothes"}, {"hi": "रहस्य", "en": "Secrets"}], "answer": {"hi": "आशाएं और योजनाएं", "en": "Hopes and plans"}},
-          {"q": {"hi": "कवि दोस्तों की इच्छाओं के लिए क्या करने की कोशिश करेगा?", "en": "What will the poet try to do for friends' wishes?"}, "options": [{"hi": "उन्हें सच करना", "en": "Make them come true"}, {"hi": "उन्हें भूल जाना", "en": "Forget them"}, {"hi": "उन्हें अस्वीकार करना", "en": "Reject them"}, {"hi": "उन्हें बदलना", "en": "Change them"}], "answer": {"hi": "उन्हें सच करना", "en": "Make them come true"}},
-          {"q": {"hi": "कवि दोस्तों को देखने के लिए किसका उपयोग करना चाहता है?", "en": "What does the poet want to use to see friends?"}, "options": [{"hi": "अपने दिल का", "en": "His heart"}, {"hi": "अपनी आंखों का", "en": "His eyes"}, {"hi": "दूरबीन का", "en": "Telescope"}, {"hi": "चश्मे का", "en": "Glasses"}], "answer": {"hi": "अपने दिल का", "en": "His heart"}},
-          {"q": {"hi": "कवि दोस्तों के बारे में क्या महसूस करना चाहता है?", "en": "What does the poet want to realize about friends?"}, "options": [{"hi": "कि दोस्त क्या हो सकते हैं", "en": "What friends can be"}, {"hi": "कि वे कहां रहते हैं", "en": "Where they live"}, {"hi": "वे क्या करते हैं", "en": "What they do"}, {"hi": "उनकी उम्र", "en": "Their age"}], "answer": {"hi": "कि दोस्त क्या हो सकते हैं", "en": "What friends can be"}},
-          {"q": {"hi": "कवि दोस्तों के बारे में क्या नहीं करना चाहता?", "en": "What does the poet not want to do about friends?"}, "options": [{"hi": "दूर से निर्णय लेना", "en": "Make judgements from afar"}, {"hi": "उनसे बात करना", "en": "Talk to them"}, {"hi": "उन्हें प्यार करना", "en": "Love them"}, {"hi": "उनकी मदद करना", "en": "Help them"}], "answer": {"hi": "दूर से निर्णय लेना", "en": "Make judgements from afar"}},
-          {"q": {"hi": "कवि दोस्तों को कैसे प्यार करना चाहता है?", "en": "How does the poet want to love his friends?"}, "options": [{"hi": "जैसे वे हैं", "en": "The way they are"}, {"hi": "बदलकर", "en": "By changing them"}, {"hi": "सुधारकर", "en": "By improving them"}, {"hi": "शर्त के साथ", "en": "With conditions"}], "answer": {"hi": "जैसे वे हैं", "en": "The way they are"}},
-          {"q": {"hi": "यह कविता मुख्य रूप से किसके बारे में है?", "en": "What is this poem mainly about?"}, "options": [{"hi": "दोस्ती", "en": "Friendship"}, {"hi": "प्रकृति", "en": "Nature"}, {"hi": "स्कूल", "en": "School"}, {"hi": "खेल", "en": "Sports"}], "answer": {"hi": "दोस्ती", "en": "Friendship"}}
-        ],
-        "section2": [
-          {"q": {"hi": "कवि के अनुसार दोस्ती कैसी होनी चाहिए?", "en": "According to the poet, how should friendship be?"}, "options": [{"hi": "हमेशा महत्वपूर्ण", "en": "Always important"}, {"hi": "कभी-कभी महत्वपूर्ण", "en": "Sometimes important"}, {"hi": "अस्थायी", "en": "Temporary"}, {"hi": "बोरिंग", "en": "Boring"}], "answer": {"hi": "हमेशा महत्वपूर्ण", "en": "Always important"}},
-          {"q": {"hi": "कवि दोस्तों के लिए क्या करने को तैयार है?", "en": "What is the poet ready to do for friends?"}, "options": [{"hi": "सब कुछ जो एक दोस्त कर सकता है", "en": "Everything a friend can do"}, {"hi": "कुछ नहीं", "en": "Nothing"}, {"hi": "केवल बात करना", "en": "Only talk"}, {"hi": "केवल बैठना", "en": "Only sit"}], "answer": {"hi": "सब कुछ जो एक दोस्त कर सकता है", "en": "Everything a friend can do"}},
-          {"q": {"hi": "कवि के लिए कौन 'विशेष' (special) हैं?", "en": "Who are 'special' to the poet?"}, "options": [{"hi": "दोस्त", "en": "Friends"}, {"hi": "दुश्मन", "en": "Enemies"}, {"hi": "अजनबी", "en": "Strangers"}, {"hi": "खिलौने", "en": "Toys"}], "answer": {"hi": "दोस्त", "en": "Friends"}},
-          {"q": {"hi": "क्या दोस्त की इच्छाओं को पूरा करना चाहिए?", "en": "Should friend's wishes be fulfilled?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "निर्णय (judgements) कहाँ से नहीं लेने चाहिए?", "en": "Where should judgements not be made from?"}, "options": [{"hi": "दूर से", "en": "From afar"}, {"hi": "पास से", "en": "From near"}, {"hi": "घर से", "en": "From home"}, {"hi": "स्कूल से", "en": "From school"}], "answer": {"hi": "दूर से", "en": "From afar"}},
-          {"q": {"hi": "दोस्ती में क्या साझा करना चाहिए?", "en": "What should be shared in friendship?"}, "options": [{"hi": "आशाएं और योजनाएं", "en": "Hopes and plans"}, {"hi": "दुख", "en": "Sorrow"}, {"hi": "क्रोध", "en": "Anger"}, {"hi": "डर", "en": "Fear"}], "answer": {"hi": "आशाएं और योजनाएं", "en": "Hopes and plans"}},
-          {"q": {"hi": "क्या कविता में दोस्तों के लिए प्रार्थना है?", "en": "Is there a prayer for friends in the poem?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "कवि का दिल क्या करने में मदद करता है?", "en": "What does the poet's heart help to do?"}, "options": [{"hi": "दोस्तों को समझने में", "en": "To understand friends"}, {"hi": "दौड़ने में", "en": "To run"}, {"hi": "खाने में", "en": "To eat"}, {"hi": "सोने में", "en": "To sleep"}], "answer": {"hi": "दोस्तों को समझने में", "en": "To understand friends"}},
-          {"q": {"hi": "दोस्ती के बारे में क्या सबसे सच है?", "en": "What is truest about friendship?"}, "options": [{"hi": "यह अनमोल है", "en": "It is precious"}, {"hi": "यह बेकार है", "en": "It is useless"}, {"hi": "यह कठिन है", "en": "It is difficult"}, {"hi": "यह बोरिंग है", "en": "It is boring"}], "answer": {"hi": "यह अनमोल है", "en": "It is precious"}},
-          {"q": {"hi": "क्या कविता सकारात्मक है?", "en": "Is the poem positive?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}}
-        ],
-        "section3": [
-          {"q": {"hi": "'Blessed' का क्या अर्थ है?", "en": "What is the meaning of 'Blessed'?"}, "options": [{"hi": "धन्य या भाग्यशाली", "en": "Lucky/fortunate"}, {"hi": "दुखी", "en": "Sad"}, {"hi": "गरीब", "en": "Poor"}, {"hi": "बीमार", "en": "Sick"}], "answer": {"hi": "धन्य या भाग्यशाली", "en": "Lucky/fortunate"}},
-          {"q": {"hi": "'Realise' का क्या अर्थ है?", "en": "What is the meaning of 'Realise'?"}, "options": [{"hi": "समझना", "en": "To understand"}, {"hi": "दौड़ना", "en": "To run"}, {"hi": "सोना", "en": "To sleep"}, {"hi": "खाना", "en": "To eat"}], "answer": {"hi": "समझना", "en": "To understand"}},
-          {"q": {"hi": "'Judgements' का क्या अर्थ है?", "en": "What is the meaning of 'Judgements'?"}, "options": [{"hi": "फैसले या राय", "en": "Opinions/decisions"}, {"hi": "खेल", "en": "Games"}, {"hi": "खाना", "en": "Food"}, {"hi": "घर", "en": "Home"}], "answer": {"hi": "फैसले या राय", "en": "Opinions/decisions"}},
-          {"q": {"hi": "'Afar' का क्या अर्थ है?", "en": "What is the meaning of 'Afar'?"}, "options": [{"hi": "दूर", "en": "Far away"}, {"hi": "पास", "en": "Near"}, {"hi": "अंदर", "en": "Inside"}, {"hi": "बाहर", "en": "Outside"}], "answer": {"hi": "दूर", "en": "Far away"}},
-          {"q": {"hi": "क्या दोस्तों के साथ समय बिताना अच्छा है?", "en": "Is it good to spend time with friends?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "कविता के अनुसार क्या नहीं करना चाहिए?", "en": "According to the poem, what should not be done?"}, "options": [{"hi": "दूर से निर्णय लेना", "en": "Make judgements from afar"}, {"hi": "दोस्ती करना", "en": "Make friends"}, {"hi": "प्यार करना", "en": "To love"}, {"hi": "मदद करना", "en": "To help"}], "answer": {"hi": "दूर से निर्णय लेना", "en": "Make judgements from afar"}},
-          {"q": {"hi": "दोस्त की कमियों के बारे में क्या विचार है?", "en": "What is the view on a friend's flaws?"}, "options": [{"hi": "उन्हें स्वीकार करना", "en": "Accept them"}, {"hi": "उन्हें बताना", "en": "Tell them"}, {"hi": "उन्हें सुधारना", "en": "Change them"}, {"hi": "उन्हें छोड़ देना", "en": "Leave them"}], "answer": {"hi": "उन्हें स्वीकार करना", "en": "Accept them"}},
-          {"q": {"hi": "कवि दोस्तों के साथ कैसा व्यवहार करना चाहता है?", "en": "How does the poet want to treat friends?"}, "options": [{"hi": "प्यार के साथ", "en": "With love"}, {"hi": "क्रोध के साथ", "en": "With anger"}, {"hi": "नफरत के साथ", "en": "With hate"}, {"hi": "उदासी के साथ", "en": "With sadness"}], "answer": {"hi": "प्यार के साथ", "en": "With love"}},
-          {"q": {"hi": "क्या दोस्तों की मदद करनी चाहिए?", "en": "Should friends be helped?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "कवि किसके बारे में प्रार्थना कर रहा है?", "en": "Who is the poet praying about?"}, "options": [{"hi": "दोस्तों के बारे में", "en": "About friends"}, {"hi": "दुश्मनों के बारे में", "en": "About enemies"}, {"hi": "खुद के बारे में", "en": "About self"}, {"hi": "भगवान के बारे में", "en": "About God"}], "answer": {"hi": "दोस्तों के बारे में", "en": "About friends"}}
-        ],
-        "section4": [
-          {"q": {"hi": "कविता का क्या संदेश है?", "en": "What is the message of the poem?"}, "options": [{"hi": "सच्ची दोस्ती का", "en": "Of true friendship"}, {"hi": "खेल का", "en": "Of games"}, {"hi": "पढ़ाई का", "en": "Of studies"}, {"hi": "काम का", "en": "Of work"}], "answer": {"hi": "सच्ची दोस्ती का", "en": "Of true friendship"}},
-          {"q": {"hi": "क्या दोस्त हमें खुश रखते हैं?", "en": "Do friends keep us happy?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "कवि किसे महत्व देता है?", "en": "Who does the poet give importance to?"}, "options": [{"hi": "दोस्तों को", "en": "To friends"}, {"hi": "पैसों को", "en": "To money"}, {"hi": "गाड़ियों को", "en": "To cars"}, {"hi": "घर को", "en": "To house"}], "answer": {"hi": "दोस्तों को", "en": "To friends"}},
-          {"q": {"hi": "क्या हमें दूसरों को समझना चाहिए?", "en": "Should we understand others?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "दोस्त का क्या अर्थ है?", "en": "What is the meaning of a friend?"}, "options": [{"hi": "एक अच्छा साथी", "en": "A good companion"}, {"hi": "एक दुश्मन", "en": "An enemy"}, {"hi": "अजनबी", "en": "A stranger"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "एक अच्छा साथी", "en": "A good companion"}},
-          {"q": {"hi": "क्या कविता छोटी है?", "en": "Is the poem short?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "कवि दोस्तों के लिए क्या करने की कोशिश करेगा?", "en": "What will the poet try to do for friends?"}, "options": [{"hi": "सब कुछ जो हो सकता है", "en": "Everything possible"}, {"hi": "कुछ नहीं", "en": "Nothing"}, {"hi": "दूरी", "en": "Distance"}, {"hi": "अस्वीकार", "en": "Rejection"}], "answer": {"hi": "सब कुछ जो हो सकता है", "en": "Everything possible"}},
-          {"q": {"hi": "दोस्तों के साथ कैसा महसूस होता है?", "en": "How does it feel with friends?"}, "options": [{"hi": "बहुत अच्छा", "en": "Very good"}, {"hi": "बुरा", "en": "Bad"}, {"hi": "उबाऊ", "en": "Boring"}, {"hi": "डर", "en": "Fear"}], "answer": {"hi": "बहुत अच्छा", "en": "Very good"}},
-          {"q": {"hi": "क्या दोस्तों के साथ योजनाएं बनानी चाहिए?", "en": "Should plans be made with friends?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या हमें दोस्तों को जज करना चाहिए?", "en": "Should we judge friends?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "नहीं", "en": "No"}}
-        ],
-        "section5": [
-          {"q": {"hi": "कवि किस बात के लिए आभारी है?", "en": "What is the poet grateful for?"}, "options": [{"hi": "दोस्ती के लिए", "en": "For friendship"}, {"hi": "पैसे के लिए", "en": "For money"}, {"hi": "खिलौनों के लिए", "en": "For toys"}, {"hi": "घर के लिए", "en": "For home"}], "answer": {"hi": "दोस्ती के लिए", "en": "For friendship"}},
-          {"q": {"hi": "दोस्तों को प्यार करने का सबसे अच्छा तरीका क्या है?", "en": "What is the best way to love friends?"}, "options": [{"hi": "जैसे वे हैं", "en": "The way they are"}, {"hi": "बदलकर", "en": "By changing"}, {"hi": "जज करके", "en": "By judging"}, {"hi": "दूर रहकर", "en": "Staying away"}], "answer": {"hi": "जैसे वे हैं", "en": "The way they are"}},
-          {"q": {"hi": "क्या दोस्ती में खुशी है?", "en": "Is there happiness in friendship?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "कवि के अनुसार दोस्त कैसे हैं?", "en": "How are friends according to the poet?"}, "options": [{"hi": "विशेष", "en": "Special"}, {"hi": "सामान्य", "en": "Normal"}, {"hi": "बुरे", "en": "Bad"}, {"hi": "अजनबी", "en": "Strangers"}], "answer": {"hi": "विशेष", "en": "Special"}},
-          {"q": {"hi": "क्या कविता प्रेरणादायक है?", "en": "Is the poem inspiring?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "दोस्तों के साथ क्या करना चाहिए?", "en": "What should be done with friends?"}, "options": [{"hi": "समय बिताना", "en": "Spend time"}, {"hi": "लड़ना", "en": "Fight"}, {"hi": "दूरी", "en": "Distance"}, {"hi": "जज करना", "en": "Judge"}], "answer": {"hi": "समय बिताना", "en": "Spend time"}},
-          {"q": {"hi": "क्या सच्ची दोस्ती हमेशा रहती है?", "en": "Does true friendship always last?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "कवि प्रार्थना क्यों करता है?", "en": "Why does the poet pray?"}, "options": [{"hi": "अच्छी दोस्ती के लिए", "en": "For good friendship"}, {"hi": "पैसों के लिए", "en": "For money"}, {"hi": "खेल के लिए", "en": "For games"}, {"hi": "घर के लिए", "en": "For home"}], "answer": {"hi": "अच्छी दोस्ती के लिए", "en": "For good friendship"}},
-          {"q": {"hi": "दोस्ती के बारे में यह कविता क्या सिखाती है?", "en": "What does this poem teach about friendship?"}, "options": [{"hi": "इसे महत्व देना", "en": "To value it"}, {"hi": "इसे भूलना", "en": "To forget it"}, {"hi": "इसे तोड़ना", "en": "To break it"}, {"hi": "इसे बदलना", "en": "To change it"}], "answer": {"hi": "इसे महत्व देना", "en": "To value it"}},
-          {"q": {"hi": "क्या दोस्ती जीवन का हिस्सा है?", "en": "Is friendship a part of life?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}}
+          {
+            "q": {
+              "hi": "रवि ने किस ऐतिहासिक स्थान का ज़िक्र किया?",
+              "en": "Which historical place did Ravi mention?"
+            },
+            "options": [
+              {"hi": "दिल्ली", "en": "Delhi"},
+              {"hi": "महाबलीपुरम", "en": "Mahabalipuram"},
+              {"hi": "मद्रास", "en": "Madras"},
+              {"hi": "ताजमहल", "en": "Taj Mahal"}
+            ],
+            "answer": {"hi": "महाबलीपुरम", "en": "Mahabalipuram"}
+          },
+          {
+            "q": {
+              "hi": "पाती को कैसे धोखे में रखा गया?",
+              "en": "How was Paati misled?"
+            },
+            "options": [
+              {"hi": "दूध पीकर", "en": "By drinking the milk"},
+              {"hi": "सोकर", "en": "By sleeping"},
+              {"hi": "भागकर", "en": "By running away"},
+              {"hi": "खेलकर", "en": "By playing"}
+            ],
+            "answer": {"hi": "दूध पीकर", "en": "By drinking the milk"}
+          },
+          {
+            "q": {
+              "hi": "बिल्ली ने अपने पंजे कहाँ तेज किए?",
+              "en": "Where did the cat sharpen its claws?"
+            },
+            "options": [
+              {"hi": "दीवार पर", "en": "On the wall"},
+              {"hi": "नारियल के खोल पर", "en": "On the coconut shell"},
+              {"hi": "चटाई पर", "en": "On the mat"},
+              {"hi": "लकड़ी पर", "en": "On the wood"}
+            ],
+            "answer": {"hi": "नारियल के खोल पर", "en": "On the coconut shell"}
+          },
+          {
+            "q": {
+              "hi": "रवि ने अपनी टहनी (twig) का उपयोग कैसे किया?",
+              "en": "How did Ravi use his twig?"
+            },
+            "options": [
+              {"hi": "बिल्ली को मारने के लिए", "en": "To hit the cat"},
+              {"hi": "हवा में लहराने के लिए (flourished)", "en": "Waved/flourished it"},
+              {"hi": "मिट्टी खोदने के लिए", "en": "To dig sand"},
+              {"hi": "पेड़ को छूने के लिए", "en": "To touch the tree"}
+            ],
+            "answer": {"hi": "हवा में लहराने के लिए (flourished)", "en": "Waved/flourished it"}
+          },
+          {
+            "q": {
+              "hi": "बिल्ली के बच्चे के डर का मुख्य कारण क्या था?",
+              "en": "What was the main reason for the kitten's fear?"
+            },
+            "options": [
+              {"hi": "रवि की आवाज़", "en": "Ravi's voice"},
+              {"hi": "वायलिन की आवाज़ (Kreech)", "en": "Violin's sound (Kreech)"},
+              {"hi": "मिर्च का गिरना", "en": "Falling of chillies"},
+              {"hi": "मृदु का आना", "en": "Mridu's arrival"}
+            ],
+            "answer": {"hi": "वायलिन की आवाज़ (Kreech)", "en": "Violin's sound (Kreech)"}
+          },
+          {
+            "q": {
+              "hi": "रवि और मीना के लिए बिल्ली का नाम क्या था?",
+              "en": "What was the cat's name for Ravi and Meena?"
+            },
+            "options": [
+              {"hi": "महेंद्र", "en": "Mahendran"},
+              {"hi": "पूनाई", "en": "Poonai"},
+              {"hi": "बिल्ली", "en": "Cat"},
+              {"hi": "एम.पी. पूनाई", "en": "M.P. Poonai"}
+            ],
+            "answer": {"hi": "एम.पी. पूनाई", "en": "M.P. Poonai"}
+          },
+          {
+            "q": {
+              "hi": "रवि ने किसे 'इमबेलम' (emblem) बताया?",
+              "en": "Who did Ravi describe as the 'emblem'?"
+            },
+            "options": [
+              {"hi": "बिल्ली", "en": "Cat"},
+              {"hi": "पल्लव शेर", "en": "Pallava lion"},
+              {"hi": "मृदु", "en": "Mridu"},
+              {"hi": "लल्ली", "en": "Lalli"}
+            ],
+            "answer": {"hi": "पल्लव शेर", "en": "Pallava lion"}
+          },
+          {
+            "q": {
+              "hi": "बिल्ली को खिलाने के लिए दूध लाना कैसा काम था?",
+              "en": "How was the task of getting milk to feed the cat?"
+            },
+            "options": [
+              {"hi": "आसान", "en": "Easy"},
+              {"hi": "मुश्किल (hard)", "en": "Hard"},
+              {"hi": "मज़ेदार", "en": "Fun"},
+              {"hi": "असंभव", "en": "Impossible"}
+            ],
+            "answer": {"hi": "मुश्किल (hard)", "en": "Hard"}
+          },
+          {
+            "q": {
+              "hi": "रवि ने किसको वायलिन बजाते हुए देखा था?",
+              "en": "Whom did Ravi see playing the violin?"
+            },
+            "options": [
+              {"hi": "संगीत मास्टर", "en": "Music master"},
+              {"hi": "लल्ली", "en": "Lalli"},
+              {"hi": "खुद", "en": "Himself"},
+              {"hi": "मृदु", "en": "Mridu"}
+            ],
+            "answer": {"hi": "लल्ली", "en": "Lalli"}
+          },
+          {
+            "q": {
+              "hi": "बिल्ली के बच्चे की आँखें कैसी थीं?",
+              "en": "How were the kitten's eyes?"
+            },
+            "options": [
+              {"hi": "शांत", "en": "Calm"},
+              {"hi": "सतर्क (alarmed)", "en": "Alarmed"},
+              {"hi": "सोती हुई", "en": "Sleeping"},
+              {"hi": "रोती हुई", "en": "Crying"}
+            ],
+            "answer": {"hi": "सतर्क (alarmed)", "en": "Alarmed"}
+          }
         ]
       },
     "chapter02c":{
