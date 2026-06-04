@@ -4996,279 +4996,519 @@
           }
         ]
       },
-    "chapter04c":{
+    "chapter05a":{
         "section1": [
           {
-            "q": {"hi": "योग किस तरह का अभ्यास है?", "en": "What kind of practice is yoga?"},
+            "q": { "hi": "मिस्टर गेसलर का व्यवसाय क्या था?", "en": "What was Mr. Gessler's profession?" },
             "options": [
-              {"hi": "केवल शारीरिक", "en": "Only physical"},
-              {"hi": "शारीरिक, मानसिक और आध्यात्मिक", "en": "Physical, mental, and spiritual"},
-              {"hi": "केवल मानसिक", "en": "Only mental"},
-              {"hi": "केवल आध्यात्मिक", "en": "Only spiritual"}
+              {"hi": "दर्जी", "en": "Tailor"},
+              {"hi": "जूता बनाने वाला (bootmaker)", "en": "Bootmaker"},
+              {"hi": "बढ़ई", "en": "Carpenter"},
+              {"hi": "लुहार", "en": "Blacksmith"}
             ],
-            "answer": {"hi": "शारीरिक, मानसिक और आध्यात्मिक", "en": "Physical, mental, and spiritual"}
+            "answer": { "hi": "जूता बनाने वाला (bootmaker)", "en": "Bootmaker" }
           },
           {
-            "q": {"hi": "संस्कृत शब्द 'yuj' का क्या अर्थ है?", "en": "What does the Sanskrit root 'yuj' mean?"},
+            "q": { "hi": "मिस्टर गेसलर की दुकान कहाँ थी?", "en": "Where was Mr. Gessler's shop?" },
             "options": [
-              {"hi": "तोड़ना", "en": "To break"},
-              {"hi": "दौड़ना", "en": "To run"},
-              {"hi": "जोड़ना या मिलाना", "en": "To join or unite"},
-              {"hi": "सोना", "en": "To sleep"}
+              {"hi": "लंदन के एक फैशनेबल इलाके में", "en": "In a fashionable part of London"},
+              {"hi": "गाँव में", "en": "In a village"},
+              {"hi": "दिल्ली में", "en": "In Delhi"},
+              {"hi": "एक बड़े बाज़ार में", "en": "In a big market"}
             ],
-            "answer": {"hi": "जोड़ना या मिलाना", "en": "To join or unite"}
+            "answer": { "hi": "लंदन के एक फैशनेबल इलाके में", "en": "In a fashionable part of London" }
           },
           {
-            "q": {"hi": "योग का प्राचीन इतिहास किस देश से जुड़ा है?", "en": "The ancient tradition of yoga originated in which country?"},
-            "options": [{"hi": "भारत", "en": "India"}, {"hi": "चीन", "en": "China"}, {"hi": "जापान", "en": "Japan"}, {"hi": "मिस्र", "en": "Egypt"}],
-            "answer": {"hi": "भारत", "en": "India"}
+            "q": { "hi": "मिस्टर गेसलर जूते कब बनाते थे?", "en": "When did Mr. Gessler make boots?" },
+            "options": [
+              {"hi": "जब ऑर्डर दिया जाता था", "en": "Only what was ordered"},
+              {"hi": "रोज़ाना", "en": "Daily"},
+              {"hi": "महीने में एक बार", "en": "Once a month"},
+              {"hi": "कभी-कभी", "en": "Sometimes"}
+            ],
+            "answer": { "hi": "जब ऑर्डर दिया जाता था", "en": "Only what was ordered" }
           },
           {
-            "q": {"hi": "योग का व्यवस्थित विवरण किसने प्रस्तुत किया?", "en": "Who presented the ancient tradition of yoga systematically?"},
-            "options": [{"hi": "ऋषि पतंजलि", "en": "Sage Patanjali"}, {"hi": "महात्मा गांधी", "en": "Mahatma Gandhi"}, {"hi": "कबीर दास", "en": "Kabir Das"}, {"hi": "कोई नहीं", "en": "None"}],
-            "answer": {"hi": "ऋषि पतंजलि", "en": "Sage Patanjali"}
+            "q": { "hi": "मिस्टर गेसलर का लहजा कैसा था?", "en": "What was Mr. Gessler's accent?" },
+            "options": [
+              {"hi": "अमेरिकी", "en": "American"},
+              {"hi": "जर्मन", "en": "German"},
+              {"hi": "भारतीय", "en": "Indian"},
+              {"hi": "फ्रांसीसी", "en": "French"}
+            ],
+            "answer": { "hi": "जर्मन", "en": "German" }
           },
           {
-            "q": {"hi": "पतंजलि के योग सूत्रों का मुख्य उद्देश्य क्या है?", "en": "What is the main aim of Patanjali's Yoga Sutras?"},
-            "options": [{"hi": "शरीर को कठोर बनाना", "en": "To make body hard"}, {"hi": "मन को शांत और एकाग्र करना", "en": "To make the mind quiet and free from distractions"}, {"hi": "दौड़ना", "en": "To run"}, {"hi": "पैसा कमाना", "en": "To earn money"}],
-            "answer": {"hi": "मन को शांत और एकाग्र करना", "en": "To make the mind quiet and free from distractions"}
+            "q": { "hi": "जूते बनाने के बारे में मिस्टर गेसलर का क्या कहना था?", "en": "What did Mr. Gessler say about making boots?" },
+            "options": [
+              {"hi": "यह आसान है", "en": "It is easy"},
+              {"hi": "यह एक कला है", "en": "It is an art"},
+              {"hi": "यह बोरिंग है", "en": "It is boring"},
+              {"hi": "यह मेरा काम है", "en": "It is my job"}
+            ],
+            "answer": { "hi": "यह एक कला है", "en": "It is an art" }
           },
           {
-            "q": {"hi": "योग आसन (asanas) शरीर को कैसे प्रभावित करते हैं?", "en": "How do yoga asanas affect the body?"},
-            "options": [{"hi": "मांसपेशियों को मजबूत करते हैं", "en": "Strengthen the muscles"}, {"hi": "शरीर को कमजोर करते हैं", "en": "Weaken the body"}, {"hi": "नींद लाते हैं", "en": "Bring sleep"}, {"hi": "वजन बढ़ाते हैं", "en": "Increase weight"}],
-            "answer": {"hi": "मांसपेशियों को मजबूत करते हैं", "en": "Strengthen the muscles"}
+            "q": { "hi": "मिस्टर गेसलर की दुकान अंदर से कैसी थी?", "en": "How was the inside of Mr. Gessler's shop?" },
+            "options": [
+              {"hi": "शोर वाली", "en": "Noisy"},
+              {"hi": "चर्च जैसी शांत (restfully, like a church)", "en": "Restfully, like a church"},
+              {"hi": "गंदी", "en": "Dirty"},
+              {"hi": "भीड़भाड़ वाली", "en": "Crowded"}
+            ],
+            "answer": { "hi": "चर्च जैसी शांत (restfully, like a church)", "en": "Restfully, like a church" }
           },
           {
-            "q": {"hi": "योग का अभ्यास शारीरिक फिटनेस के अलावा और क्या सुधारता है?", "en": "Besides physical fitness, what does yoga improve?"},
-            "options": [{"hi": "कुछ नहीं", "en": "Nothing"}, {"hi": "लचीलापन और संतुलन", "en": "Flexibility and balance"}, {"hi": "क्रोध", "en": "Anger"}, {"hi": "लालच", "en": "Greed"}],
-            "answer": {"hi": "लचीलापन और संतुलन", "en": "Flexibility and balance"}
+            "q": { "hi": "लेखक ने किस तरह के जूतों का ऑर्डर दिया?", "en": "What kind of boots did the author order?" },
+            "options": [
+              {"hi": "चमड़े के जूते (Russian-leather boots)", "en": "Russian-leather boots"},
+              {"hi": "खेल के जूते", "en": "Sports boots"},
+              {"hi": "सफेद जूते", "en": "White boots"},
+              {"hi": "चप्पलें", "en": "Slippers"}
+            ],
+            "answer": { "hi": "चमड़े के जूते (Russian-leather boots)", "en": "Russian-leather boots" }
           },
           {
-            "q": {"hi": "कौन सा अभ्यास मन को शांत और तनाव मुक्त करता है?", "en": "Which practice helps to calm the mind and reduce stress?"},
-            "options": [{"hi": "दौड़ना", "en": "Running"}, {"hi": "सोना", "en": "Sleeping"}, {"hi": "ध्यान और श्वसन तकनीक", "en": "Meditation and breathing techniques"}, {"hi": "खाना", "en": "Eating"}],
-            "answer": {"hi": "ध्यान और श्वसन तकनीक", "en": "Meditation and breathing techniques"}
+            "q": { "hi": "लेखक ने किस बात की शिकायत की?", "en": "What did the author complain about?" },
+            "options": [
+              {"hi": "कीमत", "en": "Price"},
+              {"hi": "पिछले जूते चरमरा रहे थे (creaked)", "en": "Last pair creaked"},
+              {"hi": "रंग", "en": "Color"},
+              {"hi": "डिजाइन", "en": "Design"}
+            ],
+            "answer": { "hi": "पिछले जूते चरमरा रहे थे (creaked)", "en": "Last pair creaked" }
           },
           {
-            "q": {"hi": "योग का हृदय स्वास्थ्य पर क्या प्रभाव पड़ता है?", "en": "What is the impact of yoga on heart health?"},
-            "options": [{"hi": "रक्तचाप कम करना", "en": "Lowering blood pressure"}, {"hi": "रक्तचाप बढ़ाना", "en": "Increasing blood pressure"}, {"hi": "कुछ नहीं", "en": "Nothing"}, {"hi": "सांस लेना बंद करना", "en": "Stop breathing"}],
-            "answer": {"hi": "रक्तचाप कम करना", "en": "Lowering blood pressure"}
+            "q": { "hi": "मिस्टर गेसलर ने चरमराने का कारण क्या बताया?", "en": "What did Mr. Gessler say was the reason for creaking?" },
+            "options": [
+              {"hi": "खराब चमड़ा", "en": "Bad leather"},
+              {"hi": "जूते गीले होना", "en": "Getting them wet"},
+              {"hi": "जल्दबाजी", "en": "Hurry"},
+              {"hi": "डिजाइन", "en": "Design"}
+            ],
+            "answer": { "hi": "जूते गीले होना", "en": "Getting them wet" }
           },
           {
-            "q": {"hi": "WHO ने किस दिन 'WHO mYoga' ऐप लॉन्च किया?", "en": "On which day did WHO launch the 'WHO mYoga' app?"},
-            "options": [{"hi": "15 अगस्त 2021", "en": "15 Aug 2021"}, {"hi": "20 जून 2021", "en": "20 June 2021"}, {"hi": "26 जनवरी 2022", "en": "26 Jan 2022"}, {"hi": "21 जून 2020", "en": "21 June 2020"}],
-            "answer": {"hi": "20 जून 2021", "en": "20 June 2021"}
+            "q": { "hi": "लेखक ने अनजाने में किस तरह के जूते पहने थे?", "en": "What kind of boots was the author wearing accidentally?" },
+            "options": [
+              {"hi": "मिस्टर गेसलर के जूते", "en": "Mr. Gessler's boots"},
+              {"hi": "किसी बड़ी कंपनी के जूते (bought at a large firm)", "en": "Boots bought at a large firm"},
+              {"hi": "पुराने जूते", "en": "Old boots"},
+              {"hi": "सस्ते जूते", "en": "Cheap boots"}
+            ],
+            "answer": { "hi": "किसी बड़ी कंपनी के जूते (bought at a large firm)", "en": "Boots bought at a large firm" }
           }
         ],
         "section2": [
           {
-            "q": {"hi": "योग के अभ्यास में एकाग्रता (concentration) क्यों जरूरी है?", "en": "Why is concentration important in yoga practice?"},
-            "options": [{"hi": "बिना किसी विकर्षण के अभ्यास के लिए", "en": "To practice without distractions"}, {"hi": "सोने के लिए", "en": "To sleep"}, {"hi": "दौड़ने के लिए", "en": "To run"}, {"hi": "तेज बोलने के लिए", "en": "To speak fast"}],
-            "answer": {"hi": "बिना किसी विकर्षण के अभ्यास के लिए", "en": "To practice without distractions"}
+            "q": { "hi": "मिस्टर गेसलर ने लेखक के जूतों को देखकर क्या कहा?", "en": "What did Mr. Gessler say after looking at the author's boots?" },
+            "options": [
+              {"hi": "ये अच्छे जूते हैं", "en": "These are good boots"},
+              {"hi": "ये मेरे जूते नहीं हैं", "en": "Those are not my boots"},
+              {"hi": "तुमने इन्हें कहाँ से खरीदा?", "en": "Where did you buy them?"},
+              {"hi": "ये बहुत आरामदायक हैं", "en": "These are very comfortable"}
+            ],
+            "answer": { "hi": "ये मेरे जूते नहीं हैं", "en": "Those are not my boots" }
           },
           {
-            "q": {"hi": "योग में 'asanas' का क्या अर्थ है?", "en": "What is the meaning of 'asanas' in yoga?"},
-            "options": [{"hi": "खाना", "en": "Food"}, {"hi": "योग मुद्रा या आसन", "en": "Postures"}, {"hi": "दौड़", "en": "Run"}, {"hi": "बातचीत", "en": "Talk"}],
-            "answer": {"hi": "योग मुद्रा या आसन", "en": "Postures"}
+            "q": { "hi": "मिस्टर गेसलर ने बड़ी कंपनियों के बारे में क्या कहा?", "en": "What did Mr. Gessler say about big firms?" },
+            "options": [
+              {"hi": "वे अच्छा काम करती हैं", "en": "They do good work"},
+              {"hi": "उनमें आत्म-सम्मान नहीं है (no self-respect)", "en": "They have no self-respect"},
+              {"hi": "वे बहुत महंगी हैं", "en": "They are very expensive"},
+              {"hi": "वे बहुत पुरानी हैं", "en": "They are very old"}
+            ],
+            "answer": { "hi": "उनमें आत्म-सम्मान नहीं है (no self-respect)", "en": "They have no self-respect" }
           },
           {
-            "q": {"hi": "योग का प्रतिरक्षा प्रणाली (immune system) पर क्या असर होता है?", "en": "What effect does yoga have on the immune system?"},
-            "options": [{"hi": "उसे कमजोर करता है", "en": "Makes it weak"}, {"hi": "उसे बढ़ाता है", "en": "Boosts it"}, {"hi": "कोई असर नहीं", "en": "No effect"}, {"hi": "बंद करता है", "en": "Stops it"}],
-            "answer": {"hi": "उसे बढ़ाता है", "en": "Boosts it"}
+            "q": { "hi": "मिस्टर गेसलर को काम क्यों कम मिल रहा था?", "en": "Why was Mr. Gessler getting less work?" },
+            "options": [
+              {"hi": "क्योंकि वह बूढ़े थे", "en": "Because he was old"},
+              {"hi": "विज्ञापन के कारण (due to advertisement)", "en": "Because of advertisement"},
+              {"hi": "दुकान दूर थी", "en": "Shop was far"},
+              {"hi": "काम खराब था", "en": "Work was bad"}
+            ],
+            "answer": { "hi": "विज्ञापन के कारण (due to advertisement)", "en": "Because of advertisement" }
           },
           {
-            "q": {"hi": "क्या योग वजन घटाने में मदद कर सकता है?", "en": "Can yoga help in weight loss?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": { "hi": "लेखक ने जब दोबारा दुकान देखी तो क्या हुआ?", "en": "What happened when the author saw the shop again?" },
+            "options": [
+              {"hi": "दुकान और बड़ी थी", "en": "Shop was bigger"},
+              {"hi": "नाम गायब था (shop name was gone)", "en": "The name was gone"},
+              {"hi": "दुकान बंद थी", "en": "Shop was closed"},
+              {"hi": "नया मालिक था", "en": "New owner"}
+            ],
+            "answer": { "hi": "नाम गायब था (shop name was gone)", "en": "The name was gone" }
           },
           {
-            "q": {"hi": "योग अभ्यास के दौरान मन और शरीर का क्या होना चाहिए?", "en": "What should the mind and body be like during yoga?"},
-            "options": [{"hi": "एक साथ (coordinated)", "en": "Coordinated/United"}, {"hi": "अलग-अलग", "en": "Separate"}, {"hi": "विपरीत", "en": "Opposite"}, {"hi": "सोते हुए", "en": "Sleeping"}],
-            "answer": {"hi": "एक साथ (coordinated)", "en": "Coordinated/United"}
+            "q": { "hi": "मिस्टर गेसलर के भाई का क्या हुआ?", "en": "What happened to Mr. Gessler's brother?" },
+            "options": [
+              {"hi": "वह विदेश गया", "en": "He went abroad"},
+              {"hi": "वह मर गया", "en": "He is dead"},
+              {"hi": "वह बीमार था", "en": "He was sick"},
+              {"hi": "वह सो रहा था", "en": "He was sleeping"}
+            ],
+            "answer": { "hi": "वह मर गया", "en": "He is dead" }
           },
           {
-            "q": {"hi": "WHO mYoga ऐप का क्या उद्देश्य था?", "en": "What was the aim of the WHO mYoga app?"},
-            "options": [{"hi": "पैसा कमाना", "en": "To earn money"}, {"hi": "लोगों को योग का अभ्यास सिखाना", "en": "To encourage and teach yoga practice"}, {"hi": "वीडियो गेम खेलना", "en": "To play games"}, {"hi": "बातचीत करना", "en": "To chat"}],
-            "answer": {"hi": "लोगों को योग का अभ्यास सिखाना", "en": "To encourage and teach yoga practice"}
+            "q": { "hi": "मिस्टर गेसलर की मृत्यु का कारण क्या बताया गया?", "en": "What was cited as the cause of Mr. Gessler's death?" },
+            "options": [
+              {"hi": "बीमारी", "en": "Illness"},
+              {"hi": "धीरे-धीरे भुखमरी (slow starvation)", "en": "Slow starvation"},
+              {"hi": "बुढ़ापा", "en": "Old age"},
+              {"hi": "दुर्घटना", "en": "Accident"}
+            ],
+            "answer": { "hi": "धीरे-धीरे भुखमरी (slow starvation)", "en": "Slow starvation" }
           },
           {
-            "q": {"hi": "क्या योग में शरीर को स्ट्रेच (stretch) किया जाता है?", "en": "Is the body stretched in yoga?"},
-            "options": [{"hi": "शायद", "en": "Maybe"}, {"hi": "नहीं", "en": "No"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": { "hi": "मिस्टर गेसलर ने अंतिम समय तक क्या किया?", "en": "What did Mr. Gessler do until the very last?" },
+            "options": [
+              {"hi": "वह यात्रा करते रहे", "en": "He traveled"},
+              {"hi": "वह दिन-रात जूते बनाते रहे", "en": "Sat over his boots day and night"},
+              {"hi": "वह आराम करते रहे", "en": "He rested"},
+              {"hi": "वह गाना गाते रहे", "en": "He kept singing"}
+            ],
+            "answer": { "hi": "वह दिन-रात जूते बनाते रहे", "en": "Sat over his boots day and night" }
           },
           {
-            "q": {"hi": "योग को किसके साथ समन्वय (coordinate) करना चाहिए?", "en": "What should yoga be coordinated with?"},
-            "options": [{"hi": "भोजन", "en": "Food"}, {"hi": "श्वास (breath)", "en": "Breath"}, {"hi": "दौड़", "en": "Run"}, {"hi": "टीवी", "en": "TV"}],
-            "answer": {"hi": "श्वास (breath)", "en": "Breath"}
+            "q": { "hi": "दुकान के नए मालिक ने क्या कहा?", "en": "What did the new shop owner say?" },
+            "options": [
+              {"hi": "मिस्टर गेसलर अच्छे थे", "en": "Mr. Gessler was good"},
+              {"hi": "मिस्टर गेसलर की मृत्यु हो गई", "en": "Mr. Gessler is dead"},
+              {"hi": "मिस्टर गेसलर विदेश गए", "en": "Mr. Gessler went abroad"},
+              {"hi": "मिस्टर गेसलर ने दुकान बेची", "en": "Mr. Gessler sold the shop"}
+            ],
+            "answer": { "hi": "मिस्टर गेसलर की मृत्यु हो गई", "en": "Mr. Gessler is dead" }
           },
           {
-            "q": {"hi": "योग जीवन का कैसा दृष्टिकोण है?", "en": "What approach is yoga for life?"},
-            "options": [{"hi": "होलिस्टिक/समग्र", "en": "Holistic"}, {"hi": "आधा", "en": "Half"}, {"hi": "बुरा", "en": "Bad"}, {"hi": "स्वार्थी", "en": "Selfish"}],
-            "answer": {"hi": "होलिस्टिक/समग्र", "en": "Holistic"}
+            "q": { "hi": "लेखक ने मिस्टर गेसलर के जूतों के बारे में क्या कहा?", "en": "What did the author say about Mr. Gessler's boots?" },
+            "options": [
+              {"hi": "वे बहुत सस्ते थे", "en": "They were cheap"},
+              {"hi": "लंदन में उनसे बेहतर कोई नहीं बनाता था", "en": "Not a man in London made a better boot"},
+              {"hi": "वे जल्दी टूट जाते थे", "en": "They broke easily"},
+              {"hi": "वे आरामदायक नहीं थे", "en": "They were not comfortable"}
+            ],
+            "answer": { "hi": "लंदन में उनसे बेहतर कोई नहीं बनाता था", "en": "Not a man in London made a better boot" }
           },
           {
-            "q": {"hi": "क्या योग का अभ्यास दुनिया भर में मान्यता प्राप्त है?", "en": "Is yoga practice recognized worldwide?"},
-            "options": [{"hi": "नहीं", "en": "No"}, {"hi": "पता नहीं", "en": "Don't know"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": { "hi": "मिस्टर गेसलर का क्या गुण था?", "en": "What was Mr. Gessler's quality?" },
+            "options": [
+              {"hi": "वह बहुत पैसे कमाते थे", "en": "He made lots of money"},
+              {"hi": "वह उत्कृष्ट गुणवत्ता के जूते बनाते थे", "en": "He made excellent quality boots"},
+              {"hi": "वह बहुत तेज़ थे", "en": "He was very fast"},
+              {"hi": "वह विज्ञापन करते थे", "en": "He advertised"}
+            ],
+            "answer": { "hi": "वह उत्कृष्ट गुणवत्ता के जूते बनाते थे", "en": "He made excellent quality boots" }
           }
         ],
         "section3": [
           {
-            "q": {"hi": "क्या योग से कमर दर्द कम हो सकता है?", "en": "Can yoga reduce back pain?"},
-            "options": [{"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "पता नहीं", "en": "Don't know"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": { "hi": "लेखक मिस्टर गेसलर को कब से जानते थे?", "en": "Since when did the author know Mr. Gessler?" },
+            "options": [
+              {"hi": "बचपन से", "en": "Since extreme youth"},
+              {"hi": "पिछले हफ़्ते से", "en": "Since last week"},
+              {"hi": "एक साल से", "en": "For a year"},
+              {"hi": "कभी नहीं", "en": "Never"}
+            ],
+            "answer": { "hi": "बचपन से", "en": "Since extreme youth" }
           },
           {
-            "q": {"hi": "योग का अभ्यास कैसे शुरू करें?", "en": "How to start yoga practice?"},
-            "options": [{"hi": "किसी भी समय", "en": "Any given moment"}, {"hi": "केवल सुबह", "en": "Only morning"}, {"hi": "रात में", "en": "Night"}, {"hi": "कभी नहीं", "en": "Never"}],
-            "answer": {"hi": "किसी भी समय", "en": "Any given moment"}
+            "q": { "hi": "क्या मिस्टर गेसलर की दुकान पर विज्ञापन लगा था?", "en": "Was there an advertisement on Mr. Gessler's shop?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "कभी-कभी", "en": "Sometimes"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": { "hi": "नहीं", "en": "No" }
           },
           {
-            "q": {"hi": "क्या योग से नींद की गुणवत्ता सुधरती है?", "en": "Does yoga improve sleep quality?"},
-            "options": [{"hi": "नहीं", "en": "No"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": { "hi": "मिस्टर गेसलर जूते बनाने के लिए क्या इस्तेमाल करते थे?", "en": "What did Mr. Gessler use to make boots?" },
+            "options": [
+              {"hi": "सस्ता चमड़ा", "en": "Cheap leather"},
+              {"hi": "सबसे अच्छी गुणवत्ता वाला चमड़ा (best leather)", "en": "Best leather"},
+              {"hi": "कपड़ा", "en": "Cloth"},
+              {"hi": "प्लास्टिक", "en": "Plastic"}
+            ],
+            "answer": { "hi": "सबसे अच्छी गुणवत्ता वाला चमड़ा (best leather)", "en": "Best leather" }
           },
           {
-            "q": {"hi": "योग सूत्रों के लेखक कौन थे?", "en": "Who wrote Yoga Sutras?"},
-            "options": [{"hi": "ऋषि पतंजलि", "en": "Sage Patanjali"}, {"hi": "कबीर", "en": "Kabir"}, {"hi": "तुलसीदास", "en": "Tulsidas"}, {"hi": "कोई नहीं", "en": "None"}],
-            "answer": {"hi": "ऋषि पतंजलि", "en": "Sage Patanjali"}
+            "q": { "hi": "लेखक ने अंतिम जूते कब प्राप्त किए थे?", "en": "When did the author receive the last pair of boots?" },
+            "options": [
+              {"hi": "पिछले महीने", "en": "Last month"},
+              {"hi": "पिछले बुधवार (last Wednesday week)", "en": "Last Wednesday week"},
+              {"hi": "एक साल पहले", "en": "A year ago"},
+              {"hi": "कल", "en": "Yesterday"}
+            ],
+            "answer": { "hi": "पिछले बुधवार (last Wednesday week)", "en": "Last Wednesday week" }
           },
           {
-            "q": {"hi": "क्या योग तनाव (stress) को कम करता है?", "en": "Does yoga reduce stress?"},
-            "options": [{"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}, {"hi": "नहीं", "en": "No"}, {"hi": "हाँ", "en": "Yes"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": { "hi": "मिस्टर गेसलर के अनुसार 'बड़ी फर्मों' के पास क्या नहीं था?", "en": "What did big firms lack according to Mr. Gessler?" },
+            "options": [
+              {"hi": "पैसा", "en": "Money"},
+              {"hi": "आत्म-सम्मान", "en": "Self-respect"},
+              {"hi": "ग्राहक", "en": "Customers"},
+              {"hi": "जगह", "en": "Space"}
+            ],
+            "answer": { "hi": "आत्म-सम्मान", "en": "Self-respect" }
           },
           {
-            "q": {"hi": "क्या योग से रक्त परिसंचरण (circulation) सुधरता है?", "en": "Does yoga improve blood circulation?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": { "hi": "मिस्टर गेसलर कैसे जूते बनाते थे?", "en": "What kind of boots did Mr. Gessler make?" },
+            "options": [
+              {"hi": "सस्ते", "en": "Cheap"},
+              {"hi": "असाधारण / उत्तम (wonderful/mysterious)", "en": "Mysterious and wonderful"},
+              {"hi": "खराब", "en": "Bad"},
+              {"hi": "साधारण", "en": "Simple"}
+            ],
+            "answer": { "hi": "असाधारण / उत्तम (wonderful/mysterious)", "en": "Mysterious and wonderful" }
           },
           {
-            "q": {"hi": "योग का अभ्यास किस चीज़ के बिना करना चाहिए?", "en": "What should yoga be practiced without?"},
-            "options": [{"hi": "हवा के", "en": "Air"}, {"hi": "विकर्षण (distractions)", "en": "Distractions"}, {"hi": "शरीर के", "en": "Body"}, {"hi": "खाने के", "en": "Food"}],
-            "answer": {"hi": "विकर्षण (distractions)", "en": "Distractions"}
+            "q": { "hi": "क्या मिस्टर गेसलर अपने जूतों को विज्ञापन देते थे?", "en": "Did Mr. Gessler advertise his boots?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "कभी-कभी", "en": "Sometimes"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": { "hi": "नहीं", "en": "No" }
           },
           {
-            "q": {"hi": "क्या योग स्वास्थ्य और कल्याण का तरीका है?", "en": "Is yoga a way for health and well-being?"},
-            "options": [{"hi": "पता नहीं", "en": "Don't know"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": { "hi": "मिस्टर गेसलर के जूतों का स्थायित्व कैसा था?", "en": "How durable were Mr. Gessler's boots?" },
+            "options": [
+              {"hi": "वे जल्दी टूट जाते थे", "en": "They broke easily"},
+              {"hi": "वे बहुत लंबे समय तक चलते थे (lasted terribly long)", "en": "Lasted terribly long"},
+              {"hi": "वे केवल एक दिन के लिए थे", "en": "Only for a day"},
+              {"hi": "मध्यम", "en": "Average"}
+            ],
+            "answer": { "hi": "वे बहुत लंबे समय तक चलते थे (lasted terribly long)", "en": "Lasted terribly long" }
           },
           {
-            "q": {"hi": "क्या योग का अभ्यास मन को शांत करता है?", "en": "Does yoga practice quiet the mind?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": { "hi": "लेखक ने 'incense of his trade' किसके लिए कहा है?", "en": "To what did the author refer as the 'incense of his trade'?" },
+            "options": [
+              {"hi": "चमड़े की महक", "en": "Smell of leather"},
+              {"hi": "फूलों की खुशबू", "en": "Flowers"},
+              {"hi": "अगरबत्ती", "en": "Incense sticks"},
+              {"hi": "परफ्यूम", "en": "Perfume"}
+            ],
+            "answer": { "hi": "चमड़े की महक", "en": "Smell of leather" }
           },
           {
-            "q": {"hi": "क्या योग का अभ्यास करना आसान है?", "en": "Is it easy to practice yoga?"},
-            "options": [{"hi": "शायद", "en": "Maybe"}, {"hi": "नहीं", "en": "No"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": { "hi": "लेखक का मिस्टर गेसलर के लिए क्या भाव था?", "en": "What was the author's feeling towards Mr. Gessler?" },
+            "options": [
+              {"hi": "सम्मान", "en": "Respect"},
+              {"hi": "नफरत", "en": "Hate"},
+              {"hi": "ईर्ष्या", "en": "Jealousy"},
+              {"hi": "डर", "en": "Fear"}
+            ],
+            "answer": { "hi": "सम्मान", "en": "Respect" }
           }
         ],
         "section4": [
           {
-            "q": {"hi": "योग में ध्यान (meditation) का क्या महत्व है?", "en": "What is the importance of meditation in yoga?"},
-            "options": [{"hi": "मन को शांत करना", "en": "Calming the mind"}, {"hi": "सोना", "en": "Sleeping"}, {"hi": "दौड़ना", "en": "Running"}, {"hi": "गाना", "en": "Singing"}],
-            "answer": {"hi": "मन को शांत करना", "en": "Calming the mind"}
+            "q": { "hi": "क्या मिस्टर गेसलर को भूख का समय नहीं मिलता था?", "en": "Did Mr. Gessler not get time to eat?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": { "hi": "हाँ", "en": "Yes" }
           },
           {
-            "q": {"hi": "योग से लचीलापन (flexibility) कैसे बढ़ता है?", "en": "How does flexibility increase with yoga?"},
-            "options": [{"hi": "आसनों के खिंचाव से", "en": "By stretching postures"}, {"hi": "सोने से", "en": "By sleeping"}, {"hi": "दौड़ने से", "en": "By running"}, {"hi": "खाने से", "en": "By eating"}],
-            "answer": {"hi": "आसनों के खिंचाव से", "en": "By stretching postures"}
+            "q": { "hi": "मिस्टर गेसलर का क्या अंत हुआ?", "en": "What was Mr. Gessler's end?" },
+            "options": [
+              {"hi": "अमीर बनकर मरे", "en": "Died rich"},
+              {"hi": "भुखमरी से (slow starvation)", "en": "Died of slow starvation"},
+              {"hi": "यात्रा करते हुए मरे", "en": "Died while traveling"},
+              {"hi": "विदेश में मरे", "en": "Died abroad"}
+            ],
+            "answer": { "hi": "भुखमरी से (slow starvation)", "en": "Died of slow starvation" }
           },
           {
-            "q": {"hi": "क्या योग का अभ्यास घर पर किया जा सकता है?", "en": "Can yoga be practiced at home?"},
-            "options": [{"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}, {"hi": "हाँ", "en": "Yes"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": { "hi": "लेखक ने मिस्टर गेसलर के चरित्र को क्या कहा?", "en": "What did the author call Mr. Gessler's character?" },
+            "options": [
+              {"hi": "एक अच्छा इंसान", "en": "A good man"},
+              {"hi": "एक चरित्र (a character)", "en": "A character"},
+              {"hi": "एक व्यापारी", "en": "A businessman"},
+              {"hi": "एक कलाकार", "en": "An artist"}
+            ],
+            "answer": { "hi": "एक चरित्र (a character)", "en": "A character" }
           },
           {
-            "q": {"hi": "योग का मुख्य केंद्र क्या है?", "en": "What is the main focus of yoga?"},
-            "options": [{"hi": "आध्यात्मिक संतुलन", "en": "Spiritual balance"}, {"hi": "केवल पैसा", "en": "Only money"}, {"hi": "काम", "en": "Work"}, {"hi": "खेल", "en": "Sport"}],
-            "answer": {"hi": "आध्यात्मिक संतुलन", "en": "Spiritual balance"}
+            "q": { "hi": "क्या मिस्टर गेसलर अपने ग्राहकों का ख्याल रखते थे?", "en": "Did Mr. Gessler take care of his customers?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": { "hi": "हाँ", "en": "Yes" }
           },
           {
-            "q": {"hi": "योग करने के लिए क्या उपकरण चाहिए?", "en": "What equipment is needed for yoga?"},
-            "options": [{"hi": "मशीन", "en": "Machine"}, {"hi": "कुछ खास नहीं (easy-to-use tool)", "en": "Nothing specific/easy tool"}, {"hi": "बहुत सारा पैसा", "en": "Lots of money"}, {"hi": "कोई नहीं", "en": "None"}],
-            "answer": {"hi": "कुछ खास नहीं (easy-to-use tool)", "en": "Nothing specific/easy tool"}
+            "q": { "hi": "क्या मिस्टर गेसलर ने लेखक के पैसे वापस किए?", "en": "Did Mr. Gessler return the author's money?" },
+            "options": [
+              {"hi": "हाँ, अगर जूते खराब थे", "en": "Yes, if boots were bad"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": { "hi": "हाँ, अगर जूते खराब थे", "en": "Yes, if boots were bad" }
           },
           {
-            "q": {"hi": "क्या योग से जागरूकता (awareness) बढ़ती है?", "en": "Does yoga increase awareness?"},
-            "options": [{"hi": "शायद", "en": "Maybe"}, {"hi": "नहीं", "en": "No"}, {"hi": "पता नहीं", "en": "Don't know"}, {"hi": "हाँ", "en": "Yes"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": { "hi": "दुकान का नया मालिक कैसा था?", "en": "How was the new shop owner?" },
+            "options": [
+              {"hi": "वह मिस्टर गेसलर जैसा था", "en": "He was like Mr. Gessler"},
+              {"hi": "वह एक युवा अंग्रेज़ था", "en": "He was a young English man"},
+              {"hi": "वह बूढ़ा था", "en": "He was old"},
+              {"hi": "वह कलाकार था", "en": "He was an artist"}
+            ],
+            "answer": { "hi": "वह एक युवा अंग्रेज़ था", "en": "He was a young English man" }
           },
           {
-            "q": {"hi": "क्या योग पूरे शरीर को फिट बनाता है?", "en": "Does yoga make the whole body fit?"},
-            "options": [{"hi": "नहीं", "en": "No"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": { "hi": "लेखक ने अंतिम बार कब जूता खरीदा?", "en": "When did the author buy boots for the last time?" },
+            "options": [
+              {"hi": "मृत्यु के एक हफ्ते पहले", "en": "A week before death"},
+              {"hi": "एक साल पहले", "en": "A year ago"},
+              {"hi": "कभी नहीं", "en": "Never"},
+              {"hi": "कल", "en": "Yesterday"}
+            ],
+            "answer": { "hi": "मृत्यु के एक हफ्ते पहले", "en": "A week before death" }
           },
           {
-            "q": {"hi": "योग से संतुलन (balance) में क्या सुधार होता है?", "en": "Does yoga improve balance?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": { "hi": "मिस्टर गेसलर के दुकान के नाम में क्या था?", "en": "What was in the name of Mr. Gessler's shop?" },
+            "options": [
+              {"hi": "Gessler Brothers", "en": "Gessler Brothers"},
+              {"hi": "Best Boots", "en": "Best Boots"},
+              {"hi": "Shoe Shop", "en": "Shoe Shop"},
+              {"hi": "Leather Works", "en": "Leather Works"}
+            ],
+            "answer": { "hi": "Gessler Brothers", "en": "Gessler Brothers" }
           },
           {
-            "q": {"hi": "क्या योग का अभ्यास सब कर सकते हैं?", "en": "Can everyone practice yoga?"},
-            "options": [{"hi": "शायद", "en": "Maybe"}, {"hi": "नहीं", "en": "No"}, {"hi": "पता नहीं", "en": "Don't know"}, {"hi": "हाँ", "en": "Yes"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": { "hi": "मिस्टर गेसलर का काम कैसा था?", "en": "How was Mr. Gessler's work?" },
+            "options": [
+              {"hi": "असाधारण / उत्तम", "en": "Excellent/Artistic"},
+              {"hi": "सामान्य", "en": "Ordinary"},
+              {"hi": "खराब", "en": "Bad"},
+              {"hi": "सस्ता", "en": "Cheap"}
+            ],
+            "answer": { "hi": "असाधारण / उत्तम", "en": "Excellent/Artistic" }
           },
           {
-            "q": {"hi": "क्या योग से हृदय स्वस्थ रहता है?", "en": "Does yoga keep the heart healthy?"},
-            "options": [{"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": { "hi": "मिस्टर गेसलर की असफलता का क्या कारण था?", "en": "What was the reason for Mr. Gessler's failure?" },
+            "options": [
+              {"hi": "वह काम नहीं करना चाहते थे", "en": "He didn't want to work"},
+              {"hi": "विज्ञापन और प्रतिस्पर्धा", "en": "Advertisement and competition"},
+              {"hi": "वे बीमार थे", "en": "They were sick"},
+              {"hi": "ग्राहकों की कमी", "en": "Lack of customers"}
+            ],
+            "answer": { "hi": "विज्ञापन और प्रतिस्पर्धा", "en": "Advertisement and competition" }
           }
         ],
         "section5": [
           {
-            "q": {"hi": "क्या योग से सहनशक्ति (endurance) बढ़ती है?", "en": "Does yoga increase endurance?"},
-            "options": [{"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": { "hi": "लेखक के लिए जूते बनाना कैसा था?", "en": "How was making boots for the author?" },
+            "options": [
+              {"hi": "कलात्मक और रहस्यमयी", "en": "Artistic and mysterious"},
+              {"hi": "बोरिंग", "en": "Boring"},
+              {"hi": "मुश्किल", "en": "Hard"},
+              {"hi": "आसान", "en": "Easy"}
+            ],
+            "answer": { "hi": "कलात्मक और रहस्यमयी", "en": "Artistic and mysterious" }
           },
           {
-            "q": {"hi": "योग अभ्यास का क्या मतलब है?", "en": "What is meant by yoga practice?"},
-            "options": [{"hi": "सांस लेना और ध्यान", "en": "Breathing and meditation"}, {"hi": "सोना", "en": "Sleeping"}, {"hi": "खाना", "en": "Eating"}, {"hi": "कुछ नहीं", "en": "None"}],
-            "answer": {"hi": "सांस लेना और ध्यान", "en": "Breathing and meditation"}
+            "q": { "hi": "मिस्टर गेसलर कैसे दिखते थे?", "en": "How did Mr. Gessler look?" },
+            "options": [
+              {"hi": "लंबा और स्वस्थ", "en": "Tall and healthy"},
+              {"hi": "थोड़ा झुका हुआ और बूढ़ा", "en": "A little bent and aged"},
+              {"hi": "नौजवान", "en": "Young"},
+              {"hi": "साधारण", "en": "Simple"}
+            ],
+            "answer": { "hi": "थोड़ा झुका हुआ और बूढ़ा", "en": "A little bent and aged" }
           },
           {
-            "q": {"hi": "योग में किस चीज़ की एकता है?", "en": "What is united in yoga?"},
-            "options": [{"hi": "मन और शरीर", "en": "Mind and body"}, {"hi": "दौड़ और काम", "en": "Running and work"}, {"hi": "खाना और सोना", "en": "Eating and sleeping"}, {"hi": "कोई नहीं", "en": "None"}],
-            "answer": {"hi": "मन और शरीर", "en": "Mind and body"}
+            "q": { "hi": "मिस्टर गेसलर ने लेखक के पैसे वापस करने की पेशकश कब की?", "en": "When did Mr. Gessler offer to return the money?" },
+            "options": [
+              {"hi": "जूते खराब होने पर", "en": "If boots were bad"},
+              {"hi": "पैसे कम होने पर", "en": "If money was low"},
+              {"hi": "कभी नहीं", "en": "Never"},
+              {"hi": "शुरुआत में", "en": "At the start"}
+            ],
+            "answer": { "hi": "जूते खराब होने पर", "en": "If boots were bad" }
           },
           {
-            "q": {"hi": "योग का क्या अर्थ है (Sanskrit root)?", "en": "What is the meaning of 'Yoga'?"},
-            "options": [{"hi": "जोड़ना", "en": "To unite"}, {"hi": "तोड़ना", "en": "To break"}, {"hi": "खाना", "en": "To eat"}, {"hi": "सोना", "en": "To sleep"}],
-            "answer": {"hi": "जोड़ना", "en": "To unite"}
+            "q": { "hi": "मिस्टर गेसलर के दुकान पर क्या कोई साइनबोर्ड था?", "en": "Was there any signboard on Mr. Gessler's shop?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं, सिर्फ नाम था", "en": "No, only the name"},
+              {"hi": "हाँ, विज्ञापन था", "en": "Yes, advertisement"},
+              {"hi": "शायद", "en": "Maybe"}
+            ],
+            "answer": { "hi": "नहीं, सिर्फ नाम था", "en": "No, only the name" }
           },
           {
-            "q": {"hi": "योग का अभ्यास क्यों लोकप्रिय है?", "en": "Why is yoga practice popular?"},
-            "options": [{"hi": "स्वास्थ्य लाभों के लिए", "en": "For health benefits"}, {"hi": "पैसे के लिए", "en": "For money"}, {"hi": "दूरी के लिए", "en": "For distance"}, {"hi": "कोई नहीं", "en": "None"}],
-            "answer": {"hi": "स्वास्थ्य लाभों के लिए", "en": "For health benefits"}
+            "q": { "hi": "क्या मिस्टर गेसलर का काम 'स्थायी' था?", "en": "Was Mr. Gessler's work 'permanent' (lasted long)?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": { "hi": "हाँ", "en": "Yes" }
           },
           {
-            "q": {"hi": "क्या योग के लिए जागरूकता (awareness) आवश्यक है?", "en": "Is awareness necessary for yoga?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "नहीं", "en": "No"}, {"hi": "पता नहीं", "en": "Don't know"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": { "hi": "मिस्टर गेसलर का अंत क्या दर्शाते हैं?", "en": "What does Mr. Gessler's end represent?" },
+            "options": [
+              {"hi": "एक कलाकार का संघर्ष", "en": "A struggle of an artist"},
+              {"hi": "पैसा ही सब कुछ है", "en": "Money is everything"},
+              {"hi": "विज्ञापन की शक्ति", "en": "Power of advertisement"},
+              {"hi": "सब सही है", "en": "All correct"}
+            ],
+            "answer": { "hi": "एक कलाकार का संघर्ष", "en": "A struggle of an artist" }
           },
           {
-            "q": {"hi": "क्या योग का अभ्यास तनाव कम करता है?", "en": "Does yoga practice reduce stress?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": { "hi": "क्या मिस्टर गेसलर ने अपनी दुकान बदली?", "en": "Did Mr. Gessler change his shop?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": { "hi": "नहीं", "en": "No" }
           },
           {
-            "q": {"hi": "क्या योग में फिटनेस के लिए कैलोरी जलती है?", "en": "Does yoga burn calories for fitness?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": { "hi": "मिस्टर गेसलर का भाई कैसा था?", "en": "How was Mr. Gessler's brother?" },
+            "options": [
+              {"hi": "वह एक अच्छा इंसान था", "en": "He was a good man"},
+              {"hi": "वह खराब था", "en": "He was bad"},
+              {"hi": "वह आलसी था", "en": "He was lazy"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": { "hi": "वह एक अच्छा इंसान था", "en": "He was a good man" }
           },
           {
-            "q": {"hi": "योग कैसे अभ्यास करना चाहिए?", "en": "How should yoga be practiced?"},
-            "options": [{"hi": "ध्यान के साथ", "en": "With awareness/meditation"}, {"hi": "जल्दी से", "en": "Quickly"}, {"hi": "शोर में", "en": "In noise"}, {"hi": "कोई नहीं", "en": "None"}],
-            "answer": {"hi": "ध्यान के साथ", "en": "With awareness/meditation"}
+            "q": { "hi": "क्या लेखक को मिस्टर गेसलर की कमी खलती थी?", "en": "Did the author miss Mr. Gessler?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "कभी नहीं", "en": "Never"}
+            ],
+            "answer": { "hi": "हाँ", "en": "Yes" }
           },
           {
-            "q": {"hi": "क्या योग कल्याण का एक तरीका है?", "en": "Is yoga a way of well-being?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": { "hi": "मिस्टर गेसलर के जूते क्या थे?", "en": "What were Mr. Gessler's boots?" },
+            "options": [
+              {"hi": "बहुत अच्छे/गुणवत्तापूर्ण", "en": "Very good quality"},
+              {"hi": "सस्ते", "en": "Cheap"},
+              {"hi": "आम", "en": "Ordinary"},
+              {"hi": "खराब", "en": "Bad"}
+            ],
+            "answer": { "hi": "बहुत अच्छे/गुणवत्तापूर्ण", "en": "Very good quality" }
           }
         ]
       },
-    "chapter05a": {
+    "chapter05aa": {
         "section1": [
           {
             "q": {
