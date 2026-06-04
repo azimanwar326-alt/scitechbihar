@@ -2650,64 +2650,664 @@
       },
     "chapter03a":{
         "section1": [
-          {"q": {"hi": "एम्बर ने पेड़ के बारे में क्या महसूस किया?", "en": "What did Amber feel about the tree?"}, "options": [{"hi": "कि पेड़ बात कर रहा है", "en": "Tree is talking"}, {"hi": "कि पेड़ फुसफुसा रहा है", "en": "Tree is whispering"}, {"hi": "कि पेड़ रो रहा है", "en": "Tree is crying"}, {"hi": "कि पेड़ हँस रहा है", "en": "Tree is laughing"}], "answer": {"hi": "कि पेड़ फुसफुसा रहा है", "en": "Tree is whispering"}},
-          {"q": {"hi": "पेड़ ने एम्बर को क्या नाम रखने को कहा?", "en": "What name did the tree ask Amber to call him?"}, "options": [{"hi": "नीम दादा", "en": "Neem Dada"}, {"hi": "नीम बाबा", "en": "Neem Baba"}, {"hi": "नीम भाई", "en": "Neem Bhai"}, {"hi": "नीम चाचा", "en": "Neem Chacha"}], "answer": {"hi": "नीम बाबा", "en": "Neem Baba"}},
-          {"q": {"hi": "नीम का पेड़ मूल रूप से कहाँ का है?", "en": "Where did the neem tree originate?"}, "options": [{"hi": "अफ्रीका", "en": "Africa"}, {"hi": "अमेरिका", "en": "America"}, {"hi": "भारत या म्यांमार", "en": "India or Myanmar"}, {"hi": "जापान", "en": "Japan"}], "answer": {"hi": "भारत या म्यांमार", "en": "India or Myanmar"}},
-          {"q": {"hi": "नीम नाम किस देश के लोगों ने दिया?", "en": "Which country's people gave the name 'Neem'?"}, "options": [{"hi": "भारत", "en": "India"}, {"hi": "ईरान", "en": "Iran"}, {"hi": "चीन", "en": "China"}, {"hi": "मिस्र", "en": "Egypt"}], "answer": {"hi": "ईरान", "en": "The Iranians"}},
-          {"q": {"hi": "नीम के पेड़ की आयु कितनी है?", "en": "How old is the neem tree?"}, "options": [{"hi": "सैकड़ों साल", "en": "Hundred years"}, {"hi": "हजारों साल", "en": "Thousands of years"}, {"hi": "लाखों साल", "en": "Millions of years"}, {"hi": "दस साल", "en": "Ten years"}], "answer": {"hi": "लाखों साल", "en": "Millions of years"}},
-          {"q": {"hi": "नीम के पेड़ का संस्कृत नाम क्या है?", "en": "What is the Sanskrit name for neem?"}, "options": [{"hi": "अरिष्टा", "en": "Arishta"}, {"hi": "नीम", "en": "Neem"}, {"hi": "निम्", "en": "Nimb"}, {"hi": "लेम्बा", "en": "Leemba"}], "answer": {"hi": "अरिष्टा", "en": "Arishta"}},
-          {"q": {"hi": "वैज्ञानिक नीम को क्या कहते हैं?", "en": "What do scientists call neem?"}, "options": [{"hi": "जादुई पेड़", "en": "Magic tree"}, {"hi": "सफाई वाला पेड़", "en": "Cleanliness-tree"}, {"hi": "ईश्वर की कड़वी कृपा", "en": "Bitter grace of God"}, {"hi": "उपहार", "en": "Gift"}], "answer": {"hi": "ईश्वर की कड़वी कृपा", "en": "Bitter grace of God"}},
-          {"q": {"hi": "दांत साफ करने के लिए क्या उपयोग होता है?", "en": "What is used to clean teeth?"}, "options": [{"hi": "नीम के फूल", "en": "Neem flowers"}, {"hi": "नीम के फल", "en": "Neem fruits"}, {"hi": "नीम की टहनियां", "en": "Neem twigs"}, {"hi": "नीम की जड़", "en": "Neem roots"}], "answer": {"hi": "नीम की टहनियां", "en": "Neem twigs"}},
-          {"q": {"hi": "खसरे के समय नीम की पत्तियों का क्या उपयोग है?", "en": "What is the use of neem leaves during measles?"}, "options": [{"hi": "खाने के लिए", "en": "For eating"}, {"hi": "नहाने के लिए", "en": "For bathing"}, {"hi": "पत्तियों पर लेटने के लिए", "en": "To lie down on them"}, {"hi": "दवा बनाने के लिए", "en": "To make medicine"}], "answer": {"hi": "पत्तियों पर लेटने के लिए", "en": "To lie down on them"}},
-          {"q": {"hi": "नीम की पत्तियां क्या नष्ट करती हैं?", "en": "What do neem leaves destroy?"}, "options": [{"hi": "पानी", "en": "Water"}, {"hi": "कीटाणु", "en": "Germs"}, {"hi": "मिट्टी", "en": "Soil"}, {"hi": "हवा", "en": "Air"}], "answer": {"hi": "कीटाणु", "en": "Germs"}}
+          {
+            "q": {
+              "hi": "हिलसा-मछली के मौसम में मछुआरे केवल किसके बारे में सोच सकते थे?",
+              "en": "In the season for Hilsa-fish, what could the fishermen think of?"
+            },
+            "options": [
+              {"hi": "अन्य मछलियों", "en": "Other fish"},
+              {"hi": "हिलसा-मछली", "en": "Hilsa-fish"},
+              {"hi": "बाज़ार", "en": "Market"},
+              {"hi": "नदी", "en": "River"}
+            ],
+            "answer": {"hi": "हिलसा-मछली", "en": "Hilsa-fish"}
+          },
+          {
+            "q": {
+              "hi": "मछली विक्रेता क्या बेच रहे थे?",
+              "en": "What were the fishmongers selling?"
+            },
+            "options": [
+              {"hi": "कुछ नहीं", "en": "Nothing"},
+              {"hi": "केवल हिलसा-मछली", "en": "Nothing but Hilsa-fish"},
+              {"hi": "सब्जियाँ", "en": "Vegetables"},
+              {"hi": "फल", "en": "Fruits"}
+            ],
+            "answer": {"hi": "केवल हिलसा-मछली", "en": "Nothing but Hilsa-fish"}
+          },
+          {
+            "q": {
+              "hi": "दरबारी महल में किसके बारे में चर्चा कर रहे थे?",
+              "en": "What were the courtiers discussing in the palace?"
+            },
+            "options": [
+              {"hi": "राजनीति", "en": "Politics"},
+              {"hi": "हिलसा-मछली", "en": "Hilsa-fish"},
+              {"hi": "युद्ध", "en": "War"},
+              {"hi": "कर", "en": "Taxes"}
+            ],
+            "answer": {"hi": "हिलसा-मछली", "en": "Hilsa-fish"}
+          },
+          {
+            "q": {
+              "hi": "राजा ने अपना आपा क्यों खो दिया?",
+              "en": "Why did the king lose his temper?"
+            },
+            "options": [
+              {"hi": "क्योंकि कोई काम नहीं कर रहा था", "en": "Because no one was working"},
+              {"hi": "क्योंकि सब हिलसा-मछली के बारे में बात कर रहे थे", "en": "Because everyone was talking about Hilsa-fish"},
+              {"hi": "क्योंकि खाना खराब था", "en": "Because the food was bad"},
+              {"hi": "क्योंकि दरबारी बहस कर रहे थे", "en": "Because courtiers were arguing"}
+            ],
+            "answer": {"hi": "क्योंकि सब हिलसा-मछली के बारे में बात कर रहे थे", "en": "Because everyone was talking about Hilsa-fish"}
+          },
+          {
+            "q": {
+              "hi": "राजा ने दरबारी से क्या पूछा?",
+              "en": "What did the king ask the courtier?"
+            },
+            "options": [
+              {"hi": "तुम क्या कर रहे हो?", "en": "What are you doing?"},
+              {"hi": "क्या तुम दरबारी हो या मछुआरे?", "en": "Are you a courtier or a fisherman?"},
+              {"hi": "हिलसा मछली कैसी है?", "en": "How is the Hilsa-fish?"},
+              {"hi": "क्या तुम पागल हो?", "en": "Are you mad?"}
+            ],
+            "answer": {"hi": "क्या तुम दरबारी हो या मछुआरे?", "en": "Are you a courtier or a fisherman?"}
+          },
+          {
+            "q": {
+              "hi": "राजा ने गोपाल को क्या चुनौती दी?",
+              "en": "What challenge did the king give to Gopal?"
+            },
+            "options": [
+              {"hi": "हिलसा मछली बेचने की", "en": "To sell Hilsa-fish"},
+              {"hi": "हिलसा मछली खरीदकर महल लाने की", "en": "To buy a huge Hilsa and bring it to the palace"},
+              {"hi": "मछुआरे से लड़ने की", "en": "To fight a fisherman"},
+              {"hi": "महल की सफाई की", "en": "To clean the palace"}
+            ],
+            "answer": {"hi": "हिलसा मछली खरीदकर महल लाने की", "en": "To buy a huge Hilsa and bring it to the palace"}
+          },
+          {
+            "q": {
+              "hi": "चुनौती की शर्त क्या थी?",
+              "en": "What was the condition of the challenge?"
+            },
+            "options": [
+              {"hi": "कोई हिलसा मछली के बारे में न पूछे", "en": "No one should ask a word about Hilsa-fish"},
+              {"hi": "गोपाल को नाचना होगा", "en": "Gopal must dance"},
+              {"hi": "गोपाल को रोना होगा", "en": "Gopal must cry"},
+              {"hi": "राजा को मुफ्त में देनी होगी", "en": "King gets it for free"}
+            ],
+            "answer": {"hi": "कोई हिलसा मछली के बारे में न पूछे", "en": "No one should ask a word about Hilsa-fish"}
+          },
+          {
+            "q": {
+              "hi": "गोपाल ने चुनौती स्वीकार करने से पहले क्या किया?",
+              "en": "What did Gopal do before accepting the challenge?"
+            },
+            "options": [
+              {"hi": "कुछ नहीं", "en": "Nothing"},
+              {"hi": "वह खुश हुआ", "en": "He was happy"},
+              {"hi": "उसने तैयारी की (जैसे आधा चेहरा शेव करना)", "en": "He prepared (like half-shaving his face)"},
+              {"hi": "वह सो गया", "en": "He slept"}
+            ],
+            "answer": {"hi": "उसने तैयारी की (जैसे आधा चेहरा शेव करना)", "en": "He prepared (like half-shaving his face)"}
+          },
+          {
+            "q": {
+              "hi": "गोपाल ने खुद पर क्या लगाया?",
+              "en": "What did Gopal smear on himself?"
+            },
+            "options": [
+              {"hi": "तेल", "en": "Oil"},
+              {"hi": "राख", "en": "Ash"},
+              {"hi": "मिट्टी", "en": "Mud"},
+              {"hi": "रंग", "en": "Paint"}
+            ],
+            "answer": {"hi": "राख", "en": "Ash"}
+          },
+          {
+            "q": {
+              "hi": "गोपाल के कपड़े कैसे थे?",
+              "en": "How were Gopal's clothes?"
+            },
+            "options": [
+              {"hi": "साफ", "en": "Clean"},
+              {"hi": "फटे-पुराने (disgraceful rags)", "en": "Disgraceful rags"},
+              {"hi": "शाही", "en": "Royal"},
+              {"hi": "नए", "en": "New"}
+            ],
+            "answer": {"hi": "फटे-पुराने (disgraceful rags)", "en": "Disgraceful rags"}
+          }
         ],
         "section2": [
-          {"q": {"hi": "नीम की छाल का उपयोग क्या ठीक करने में होता है?", "en": "Neem bark is used to cure what?"}, "options": [{"hi": "बुखार", "en": "Fever"}, {"hi": "खांसी", "en": "Cough"}, {"hi": "पेट दर्द", "en": "Stomach ache"}, {"hi": "सिर दर्द", "en": "Headache"}], "answer": {"hi": "खांसी", "en": "Cough"}},
-          {"q": {"hi": "आंखों की खुजली के लिए दादी ने क्या बनाया?", "en": "What did grandma make for eye itching?"}, "options": [{"hi": "नीम का काढ़ा", "en": "Neem decoction"}, {"hi": "नीम का तेल", "en": "Neem oil"}, {"hi": "नीम के फूलों का काजल", "en": "Kajal from neem flowers"}, {"hi": "नीम की पत्ती का लेप", "en": "Neem leaf paste"}], "answer": {"hi": "नीम के फूलों का काजल", "en": "Kajal from neem flowers"}},
-          {"q": {"hi": "किस कीड़ों से बचने के लिए नीम का पाउडर छिड़का जाता है?", "en": "Neem powder is sprayed to save from which insects?"}, "options": [{"hi": "मक्खी", "en": "Houseflies"}, {"hi": " locusts (टिड्डी)", "en": "Locusts"}, {"hi": "चींटी", "en": "Ants"}, {"hi": "तिलचट्टा", "en": "Cockroaches"}], "answer": {"hi": " locusts (टिड्डी)", "en": "Locusts"}},
-          {"q": {"hi": "नीम का उपयोग फसलों को किससे बचाता है?", "en": "Neem protects crops from which pest?"}, "options": [{"hi": "दीमक (termites)", "en": "Termites"}, {"hi": "चूहे", "en": "Rats"}, {"hi": "पक्षी", "en": "Birds"}, {"hi": "जानवर", "en": "Animals"}], "answer": {"hi": "दीमक (termites)", "en": "Termites"}},
-          {"q": {"hi": "नीम का तेल किसमें उपयोग होता है?", "en": "Neem oil is used in what?"}, "options": [{"hi": "खाने में", "en": "Cooking"}, {"hi": "साबुन और टूथपेस्ट", "en": "Soaps and toothpaste"}, {"hi": "पानी में", "en": "Drinking water"}, {"hi": "कपड़ों में", "en": "Clothes"}], "answer": {"hi": "साबुन और टूथपेस्ट", "en": "Soaps and toothpaste"}},
-          {"q": {"hi": "नीम का पेड़ हवा को क्या करता है?", "en": "What does the neem tree do to the air?"}, "options": [{"hi": "शुद्ध (purify)", "en": "Purify"}, {"hi": "गंदा", "en": "Dirty"}, {"hi": "हल्का", "en": "Light"}, {"hi": "गर्म", "en": "Hot"}], "answer": {"hi": "शुद्ध (purify)", "en": "Purify"}},
-          {"q": {"hi": "नीम की कौन सी चीज़ मच्छरों का प्रजनन रोकती है?", "en": "Which thing of neem stops mosquito breeding?"}, "options": [{"hi": "नीम का पाउडर/बीज", "en": "Neem powder/seed"}, {"hi": "नीम का फल", "en": "Neem fruit"}, {"hi": "नीम की जड़", "en": "Neem root"}, {"hi": "नीम का फूल", "en": "Neem flower"}], "answer": {"hi": "नीम का पाउडर/बीज", "en": "Neem powder/seed"}},
-          {"q": {"hi": "नीम के पेड़ का नाम 'जादुई पेड़' क्यों है?", "en": "Why is the neem tree called a 'magic tree'?"}, "options": [{"hi": "उपयोगिता के कारण", "en": "Due to its usefulness"}, {"hi": "ऊंचाई के कारण", "en": "Due to height"}, {"hi": "पत्तों के कारण", "en": "Due to leaves"}, {"hi": "फूलों के कारण", "en": "Due to flowers"}], "answer": {"hi": "उपयोगिता के कारण", "en": "Due to its usefulness"}},
-          {"q": {"hi": "नीम के उपयोग के लिए क्या जरूरी है?", "en": "What is necessary for using neem?"}, "options": [{"hi": "प्रशिक्षण और अनुभव", "en": "Training and experience"}, {"hi": "पैसे", "en": "Money"}, {"hi": "समय", "en": "Time"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "प्रशिक्षण और अनुभव", "en": "Training and experience"}},
-          {"q": {"hi": "एम्बर ने पेड़ से क्या विदा ली?", "en": "What did Amber take from the tree at the end?"}, "options": [{"hi": "फूल", "en": "Flowers"}, {"hi": "फल", "en": "Fruits"}, {"hi": "धन्यवाद और विदा", "en": "Thanks and bye"}, {"hi": "कुछ नहीं", "en": "Nothing"}], "answer": {"hi": "धन्यवाद और विदा", "en": "Thanks and bye"}}
+          {
+            "q": {
+              "hi": "गोपाल की पत्नी को क्या लगा?",
+              "en": "What did Gopal's wife think?"
+            },
+            "options": [
+              {"hi": "वह पागल हो गया है", "en": "He had gone mad"},
+              {"hi": "वह मज़ाक कर रहा है", "en": "He was joking"},
+              {"hi": "वह बीमार है", "en": "He was sick"},
+              {"hi": "वह सो रहा है", "en": "He was sleeping"}
+            ],
+            "answer": {"hi": "वह पागल हो गया है", "en": "He had gone mad"}
+          },
+          {
+            "q": {
+              "hi": "बाज़ार के लोग गोपाल को देखकर क्या कह रहे थे?",
+              "en": "What were the market people saying seeing Gopal?"
+            },
+            "options": [
+              {"hi": "वह एक राजा है", "en": "He is a king"},
+              {"hi": "वह पागल है", "en": "He is a madman"},
+              {"hi": "वह एक अच्छा आदमी है", "en": "He is a good man"},
+              {"hi": "वह एक गायक है", "en": "He is a singer"}
+            ],
+            "answer": {"hi": "वह पागल है", "en": "He is a madman"}
+          },
+          {
+            "q": {
+              "hi": "गोपाल बाज़ार में क्या कर रहा था?",
+              "en": "What was Gopal doing in the market?"
+            },
+            "options": [
+              {"hi": "सो रहा था", "en": "Sleeping"},
+              {"hi": "नाच और गा रहा था", "en": "Dancing and singing loudly"},
+              {"hi": "भीख मांग रहा था", "en": "Begging"},
+              {"hi": "खरीदारी कर रहा था", "en": "Shopping"}
+            ],
+            "answer": {"hi": "नाच और गा रहा था", "en": "Dancing and singing loudly"}
+          },
+          {
+            "q": {
+              "hi": "महल के द्वार पर पहरेदारों ने गोपाल को क्या कहा?",
+              "en": "What did the guards at the palace gate tell Gopal?"
+            },
+            "options": [
+              {"hi": "अंदर आ जाओ", "en": "Come in"},
+              {"hi": "तुम अंदर नहीं जा सकते", "en": "You can't see the king"},
+              {"hi": "राजा इंतज़ार कर रहे हैं", "en": "King is waiting"},
+              {"hi": "हिलसा मछली दे दो", "en": "Give the Hilsa-fish"}
+            ],
+            "answer": {"hi": "तुम अंदर नहीं जा सकते", "en": "You can't see the king"}
+          },
+          {
+            "q": {
+              "hi": "राजा ने पहरेदारों को क्या आदेश दिया?",
+              "en": "What order did the king give to the guards?"
+            },
+            "options": [
+              {"hi": "गोपाल को भगा दो", "en": "Chase Gopal away"},
+              {"hi": "उस आदमी को तुरंत मेरे पास लाओ", "en": "Bring that man to me at once"},
+              {"hi": "मछली जब्त कर लो", "en": "Confiscate the fish"},
+              {"hi": "गोपाल को मार दो", "en": "Beat Gopal"}
+            ],
+            "answer": {"hi": "उस आदमी को तुरंत मेरे पास लाओ", "en": "Bring that man to me at once"}
+          },
+          {
+            "q": {
+              "hi": "दरबारी गोपाल को देखकर क्या सोच रहे थे?",
+              "en": "What were the courtiers thinking seeing Gopal?"
+            },
+            "options": [
+              {"hi": "गोपाल बहुत बुद्धिमान है", "en": "Gopal is very wise"},
+              {"hi": "वह पागल हो गया है", "en": "He has lost his mind"},
+              {"hi": "वह सुंदर लग रहा है", "en": "He looks beautiful"},
+              {"hi": "वह बहुत अमीर है", "en": "He is very rich"}
+            ],
+            "answer": {"hi": "वह पागल हो गया है", "en": "He has lost his mind"}
+          },
+          {
+            "q": {
+              "hi": "राजा ने गोपाल से क्या पूछा?",
+              "en": "What did the king ask Gopal?"
+            },
+            "options": [
+              {"hi": "मछली कैसी है?", "en": "How is the fish?"},
+              {"hi": "तुम ऐसे अजीब कपड़ों में क्यों हो?", "en": "Why are you dressed up in this ridiculous fashion?"},
+              {"hi": "तुम क्यों नाच रहे थे?", "en": "Why were you dancing?"},
+              {"hi": "क्या तुम हार गए?", "en": "Did you lose?"}
+            ],
+            "answer": {"hi": "तुम ऐसे अजीब कपड़ों में क्यों हो?", "en": "Why are you dressed up in this ridiculous fashion?"}
+          },
+          {
+            "q": {
+              "hi": "गोपाल ने राजा को क्या याद दिलाया?",
+              "en": "What did Gopal remind the king of?"
+            },
+            "options": [
+              {"hi": "पुरस्कार", "en": "The reward"},
+              {"hi": "चुनौती", "en": "The challenge"},
+              {"hi": "मछली का दाम", "en": "The price of the fish"},
+              {"hi": "समय", "en": "The time"}
+            ],
+            "answer": {"hi": "चुनौती", "en": "The challenge"}
+          },
+          {
+            "q": {
+              "hi": "क्या रास्ते में किसी ने हिलसा मछली के बारे में बात की?",
+              "en": "Did anyone talk about the Hilsa-fish on the way?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "सबने बात की", "en": "Everyone talked"},
+              {"hi": "कुछ लोगों ने", "en": "Some people"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": {
+              "hi": "राजा गोपाल की बुद्धि से कैसा महसूस कर रहा था?",
+              "en": "How was the king feeling about Gopal's intelligence?"
+            },
+            "options": [
+              {"hi": "क्रोधित", "en": "Angry"},
+              {"hi": "खुश और हैरान", "en": "Happy and congratulated him"},
+              {"hi": "दुखी", "en": "Sad"},
+              {"hi": "ईर्ष्यालु", "en": "Jealous"}
+            ],
+            "answer": {"hi": "खुश और हैरान", "en": "Happy and congratulated him"}
+          }
         ],
         "section3": [
-          {"q": {"hi": "नीम के लकड़ी का क्या उपयोग है?", "en": "What is the use of neem wood?"}, "options": [{"hi": "खाना बनाना", "en": "Cooking"}, {"hi": "फर्नीचर बनाना", "en": "Making furniture"}, {"hi": "खेलना", "en": "Playing"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "फर्नीचर बनाना", "en": "Making furniture"}},
-          {"q": {"hi": "नीम के बीज का पाउडर कहाँ उपयोग होता है?", "en": "Where is neem seed powder used?"}, "options": [{"hi": "अनाज के संरक्षण में", "en": "In saving grains"}, {"hi": "लिखने में", "en": "In writing"}, {"hi": "सोने में", "en": "In sleeping"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "अनाज के संरक्षण में", "en": "In saving grains"}},
-          {"q": {"hi": "नीम के पेड़ को 'bitter grace of God' किसने कहा?", "en": "Who called neem 'bitter grace of God'?"}, "options": [{"hi": "वैज्ञानिकों ने", "en": "Scientists"}, {"hi": "एम्बर ने", "en": "Amber"}, {"hi": "दादी ने", "en": "Grandma"}, {"hi": "किसी ने नहीं", "en": "None"}], "answer": {"hi": "वैज्ञानिकों ने", "en": "Scientists"}},
-          {"q": {"hi": "नीम का पेड़ कहाँ पाया जाता है?", "en": "Where is the neem tree found?"}, "options": [{"hi": "एशियाई और अफ्रीकी देशों में", "en": "In Asian and African countries"}, {"hi": "केवल भारत में", "en": "Only in India"}, {"hi": "केवल अमेरिका में", "en": "Only in America"}, {"hi": "कहीं नहीं", "en": "Nowhere"}], "answer": {"hi": "एशियाई और अफ्रीकी देशों में", "en": "In Asian and African countries"}},
-          {"q": {"hi": "नीम के कितने उपयोग बताए गए हैं?", "en": "How many uses of neem are mentioned?"}, "options": [{"hi": "अनेक", "en": "Many"}, {"hi": "एक", "en": "One"}, {"hi": "दो", "en": "Two"}, {"hi": "तीन", "en": "Three"}], "answer": {"hi": "अनेक", "en": "Many"}},
-          {"q": {"hi": "नीम के बीज का पाउडर पानी में छिड़कने से क्या होता है?", "en": "What happens when neem powder is sprayed in water?"}, "options": [{"hi": "मच्छरों का प्रजनन रुकना", "en": "Stops mosquito breeding"}, {"hi": "मच्छर बढ़ना", "en": "Mosquitoes increase"}, {"hi": "पानी गंदा होना", "en": "Water gets dirty"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "मच्छरों का प्रजनन रुकना", "en": "Stops mosquito breeding"}},
-          {"q": {"hi": "क्या नीम के पेड़ से हवा साफ होती है?", "en": "Does the neem tree clean the air?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "नीम के पेड़ को 'magic tree' क्यों कहा गया?", "en": "Why was neem called a 'magic tree'?"}, "options": [{"hi": "उपयोगी होने के कारण", "en": "Because it is useful"}, {"hi": "ऊंचा होने के कारण", "en": "Because it is tall"}, {"hi": "हरा होने के कारण", "en": "Because it is green"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "उपयोगी होने के कारण", "en": "Because it is useful"}},
-          {"q": {"hi": "नीम के किस अंग को 'bitter grace of God' कहा जाता है?", "en": "Which part is called 'bitter grace of God'?"}, "options": [{"hi": "पूरे पेड़ को", "en": "Whole tree"}, {"hi": "फूल को", "en": "Flower"}, {"hi": "फल को", "en": "Fruit"}, {"hi": "जड़ को", "en": "Root"}], "answer": {"hi": "पूरे पेड़ को", "en": "Whole tree"}},
-          {"q": {"hi": "क्या नीम के औषधीय गुणों की अभी और खोज होनी है?", "en": "Are neem's medicinal qualities still being discovered?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}}
+          {
+            "q": {
+              "hi": "कहानी का मुख्य पात्र कौन है?",
+              "en": "Who is the main character of the story?"
+            },
+            "options": [
+              {"hi": "राजा", "en": "The King"},
+              {"hi": "गोपाल", "en": "Gopal"},
+              {"hi": "पहरेदार", "en": "The Guard"},
+              {"hi": "मछुआरा", "en": "The Fisherman"}
+            ],
+            "answer": {"hi": "गोपाल", "en": "Gopal"}
+          },
+          {
+            "q": {
+              "hi": "हिलसा मछली क्या थी?",
+              "en": "What was the Hilsa-fish?"
+            },
+            "options": [
+              {"hi": "एक जानवर", "en": "An animal"},
+              {"hi": "एक प्रकार की मछली", "en": "A type of fish"},
+              {"hi": "एक पक्षी", "en": "A bird"},
+              {"hi": "एक कीड़ा", "en": "An insect"}
+            ],
+            "answer": {"hi": "एक प्रकार की मछली", "en": "A type of fish"}
+          },
+          {
+            "q": {
+              "hi": "क्या गोपाल ने वाकई चुनौती पूरी की?",
+              "en": "Did Gopal really complete the challenge?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {
+              "hi": "गोपाल ने आधा चेहरा शेव क्यों किया?",
+              "en": "Why did Gopal shave half his face?"
+            },
+            "options": [
+              {"hi": "स्टाइल के लिए", "en": "For style"},
+              {"hi": "चुनौती के लिए", "en": "For the challenge"},
+              {"hi": "ग़लती से", "en": "By mistake"},
+              {"hi": "पैसे बचाने के लिए", "en": "To save money"}
+            ],
+            "answer": {"hi": "चुनौती के लिए", "en": "For the challenge"}
+          },
+          {
+            "q": {
+              "hi": "दरबारी गोपाल के प्रति कैसे थे?",
+              "en": "How were the courtiers towards Gopal?"
+            },
+            "options": [
+              {"hi": "मित्रवत", "en": "Friendly"},
+              {"hi": "हैरान और संदेहशील", "en": "Surprised and suspicious"},
+              {"hi": "मददगार", "en": "Helpful"},
+              {"hi": "अनादरपूर्ण", "en": "Disrespectful"}
+            ],
+            "answer": {"hi": "हैरान और संदेहशील", "en": "Surprised and suspicious"}
+          },
+          {
+            "q": {
+              "hi": "गोपाल ने लोगों का ध्यान कैसे आकर्षित किया?",
+              "en": "How did Gopal attract people's attention?"
+            },
+            "options": [
+              {"hi": "गाकर", "en": "By singing"},
+              {"hi": "अजीब वेशभूषा और व्यवहार से", "en": "By his weird dress and behavior"},
+              {"hi": "रोकर", "en": "By crying"},
+              {"hi": "मछली दिखा कर", "en": "By showing the fish"}
+            ],
+            "answer": {"hi": "अजीब वेशभूषा और व्यवहार से", "en": "By his weird dress and behavior"}
+          },
+          {
+            "q": {
+              "hi": "राजा ने चुनौती में क्या शर्त रखी थी?",
+              "en": "What condition did the king keep in the challenge?"
+            },
+            "options": [
+              {"hi": "मछली खरीदनी है", "en": "Buy fish"},
+              {"hi": "महल तक मछली लानी है", "en": "Bring to palace"},
+              {"hi": "कोई मछली पर बात न करे", "en": "No one talks about it"},
+              {"hi": "उपरोक्त सभी", "en": "All of the above"}
+            ],
+            "answer": {"hi": "उपरोक्त सभी", "en": "All of the above"}
+          },
+          {
+            "q": {
+              "hi": "गोपाल की पत्नी को क्या डर था?",
+              "en": "What was Gopal's wife afraid of?"
+            },
+            "options": [
+              {"hi": "गोपाल के पागल होने का", "en": "Gopal going mad"},
+              {"hi": "गरीबी का", "en": "Poverty"},
+              {"hi": "राजा के क्रोध का", "en": "King's anger"},
+              {"hi": "चोरी का", "en": "Theft"}
+            ],
+            "answer": {"hi": "गोपाल के पागल होने का", "en": "Gopal going mad"}
+          },
+          {
+            "q": {
+              "hi": "क्या गोपाल को लोगों के उपहास का बुरा लगा?",
+              "en": "Did Gopal mind people making fun of him?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "थोड़ा बहुत", "en": "A little"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": {
+              "hi": "कहानी का संदेश क्या है?",
+              "en": "What is the message of the story?"
+            },
+            "options": [
+              {"hi": "बुद्धिमानी से असंभव काम भी संभव है", "en": "Impossible tasks are possible with wit"},
+              {"hi": "राजा बहुत शक्तिशाली है", "en": "King is very powerful"},
+              {"hi": "मछली खाना अच्छा है", "en": "Eating fish is good"},
+              {"hi": "गोपाल अमीर है", "en": "Gopal is rich"}
+            ],
+            "answer": {"hi": "बुद्धिमानी से असंभव काम भी संभव है", "en": "Impossible tasks are possible with wit"}
+          }
         ],
         "section4": [
-          {"q": {"hi": "क्या नीम का उपयोग टूथपेस्ट में होता है?", "en": "Is neem used in toothpaste?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या नीम का फर्नीचर दीमक खा सकती है?", "en": "Can termites eat neem furniture?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "नहीं", "en": "No"}},
-          {"q": {"hi": "एम्बर की दादी ने एम्बर की खांसी कैसे ठीक की?", "en": "How did Amber's grandma cure her cough?"}, "options": [{"hi": "नीम की छाल की दवा से", "en": "With neem bark medicine"}, {"hi": "नीम के तेल से", "en": "With neem oil"}, {"hi": "नीम के पत्तों से", "en": "With neem leaves"}, {"hi": "कुछ नहीं", "en": "None"}], "answer": {"hi": "नीम की छाल की दवा से", "en": "With neem bark medicine"}},
-          {"q": {"hi": "क्या नीम के बीज के पाउडर का उपयोग पानी में मच्छरों को रोकने के लिए होता है?", "en": "Is neem powder used in water to stop mosquitoes?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "नीम का पेड़ कब पैदा हुआ?", "en": "When was the neem tree born?"}, "options": [{"hi": "लाखों साल पहले", "en": "Millions of years ago"}, {"hi": "हजारों साल पहले", "en": "Thousands of years ago"}, {"hi": "सौ साल पहले", "en": "Hundred years ago"}, {"hi": "कभी नहीं", "en": "Never"}], "answer": {"hi": "लाखों साल पहले", "en": "Millions of years ago"}},
-          {"q": {"hi": "नीम के अन्य संस्कृत नाम क्या हैं?", "en": "What are other Sanskrit names of neem?"}, "options": [{"hi": "निम्बा, निम्बाका", "en": "Nimba, Nimbaca"}, {"hi": "आम, नीम", "en": "Mango, Neem"}, {"hi": "पीपल, बरगद", "en": "Peepal, Banyan"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "निम्बा, निम्बाका", "en": "Nimba, Nimbaca"}},
-          {"q": {"hi": "नीम की पत्तियां क्या करने में मदद करती हैं?", "en": "What do neem leaves help with?"}, "options": [{"hi": "कीटाणुओं को मारने में", "en": "To kill germs"}, {"hi": "पानी साफ करने में", "en": "To clean water"}, {"hi": "खाना पकाने में", "en": "To cook food"}, {"hi": "कुछ नहीं", "en": "None"}], "answer": {"hi": "कीटाणुओं को मारने में", "en": "To kill germs"}},
-          {"q": {"hi": "नीम के कौन से हिस्से से काजल बनाया जा सकता है?", "en": "Which part of neem can make kajal?"}, "options": [{"hi": "फूल", "en": "Flower"}, {"hi": "फल", "en": "Fruit"}, {"hi": "पत्ती", "en": "Leaf"}, {"hi": "जड़", "en": "Root"}], "answer": {"hi": "फूल", "en": "Flower"}},
-          {"q": {"hi": "क्या नीम के पेड़ का इतिहास है?", "en": "Does the neem tree have a history?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या एम्बर को नीम के पेड़ से जानकारी मिली?", "en": "Did Amber get information from the neem tree?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}}
+          {
+            "q": {
+              "hi": "राजा के दरबारियों का ध्यान किस पर था?",
+              "en": "What was the attention of the courtiers on?"
+            },
+            "options": [
+              {"hi": "राज्य के काम", "en": "State affairs"},
+              {"hi": "हिलसा मछली", "en": "Hilsa-fish"},
+              {"hi": "युद्ध", "en": "War"},
+              {"hi": "व्यापार", "en": "Business"}
+            ],
+            "answer": {"hi": "हिलसा मछली", "en": "Hilsa-fish"}
+          },
+          {
+            "q": {
+              "hi": "गोपाल ने खुद को राख से क्यों मला?",
+              "en": "Why did Gopal smear himself with ash?"
+            },
+            "options": [
+              {"hi": "धार्मिक कारण", "en": "Religious reason"},
+              {"hi": "मजाक के लिए", "en": "To look funny"},
+              {"hi": "पागल दिखने के लिए (चुनौती हेतु)", "en": "To look mad (for the challenge)"},
+              {"hi": "साफ करने के लिए", "en": "To clean"}
+            ],
+            "answer": {"hi": "पागल दिखने के लिए (चुनौती हेतु)", "en": "To look mad (for the challenge)"}
+          },
+          {
+            "q": {
+              "hi": "राजा को गोपाल पर क्या आया?",
+              "en": "What did the king feel for Gopal?"
+            },
+            "options": [
+              {"hi": "क्रोध", "en": "Anger"},
+              {"hi": "गर्व", "en": "Pride"},
+              {"hi": "हंसी / गर्व (congratulations)", "en": "Laughter / pride (congratulations)"},
+              {"hi": "दया", "en": "Pity"}
+            ],
+            "answer": {"hi": "हंसी / गर्व (congratulations)", "en": "Laughter / pride (congratulations)"}
+          },
+          {
+            "q": {
+              "hi": "क्या गोपाल ने राजा का अपमान किया?",
+              "en": "Did Gopal insult the king?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "थोड़ा बहुत", "en": "A little"},
+              {"hi": "जानबूझकर", "en": "Intentionally"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": {
+              "hi": "दरबार में गोपाल को किसने रोका?",
+              "en": "Who stopped Gopal in the court?"
+            },
+            "options": [
+              {"hi": "राजा", "en": "The King"},
+              {"hi": "पहरेदार", "en": "Guards"},
+              {"hi": "दूसरे दरबारी", "en": "Other courtiers"},
+              {"hi": "उसकी पत्नी", "en": "His wife"}
+            ],
+            "answer": {"hi": "पहरेदार", "en": "Guards"}
+          },
+          {
+            "q": {
+              "hi": "कहानी किस राजा के बारे में है?",
+              "en": "The story is about which king?"
+            },
+            "options": [
+              {"hi": "एक अज्ञात राजा", "en": "An unknown king"},
+              {"hi": "अकबर", "en": "Akbar"},
+              {"hi": "शिवाजी", "en": "Shivaji"},
+              {"hi": "अशोक", "en": "Ashoka"}
+            ],
+            "answer": {"hi": "एक अज्ञात राजा", "en": "An unknown king"}
+          },
+          {
+            "q": {
+              "hi": "गोपाल को महल में प्रवेश करने के लिए क्या करना पड़ा?",
+              "en": "What did Gopal have to do to enter the palace?"
+            },
+            "options": [
+              {"hi": "भीख मांगी", "en": "Begged"},
+              {"hi": "डांस और गाना किया", "en": "Danced and sang"},
+              {"hi": "रिश्वत दी", "en": "Bribed"},
+              {"hi": "झगड़ा किया", "en": "Fought"}
+            ],
+            "answer": {"hi": "डांस और गाना किया", "en": "Danced and sang"}
+          },
+          {
+            "q": {
+              "hi": "बाज़ार में लोग गोपाल को क्या कह रहे थे?",
+              "en": "What were people calling Gopal in the market?"
+            },
+            "options": [
+              {"hi": "comical (मज़ेदार)", "en": "Comical"},
+              {"hi": "madman (पागल)", "en": "Madman"},
+              {"hi": "mystic (रहस्यमयी)", "en": "Mystic"},
+              {"hi": "सभी", "en": "All of the above"}
+            ],
+            "answer": {"hi": "सभी", "en": "All of the above"}
+          },
+          {
+            "q": {
+              "hi": "गोपाल ने चुनौती पूरी करके क्या साबित किया?",
+              "en": "What did Gopal prove by completing the challenge?"
+            },
+            "options": [
+              {"hi": "वह पागल है", "en": "He is mad"},
+              {"hi": "वह चालाक है", "en": "He is clever"},
+              {"hi": "वह अमीर है", "en": "He is rich"},
+              {"hi": "वह गायक है", "en": "He is a singer"}
+            ],
+            "answer": {"hi": "वह चालाक है", "en": "He is clever"}
+          },
+          {
+            "q": {
+              "hi": "राजा क्यों गुस्सा था?",
+              "en": "Why was the king angry?"
+            },
+            "options": [
+              {"hi": "मछली का स्वाद खराब था", "en": "Taste was bad"},
+              {"hi": "सब हिलसा मछली की बात कर रहे थे", "en": "Everyone was talking about Hilsa-fish"},
+              {"hi": "गोपाल नहीं आया था", "en": "Gopal didn't come"},
+              {"hi": "खाना नहीं मिला", "en": "No food"}
+            ],
+            "answer": {"hi": "सब हिलसा मछली की बात कर रहे थे", "en": "Everyone was talking about Hilsa-fish"}
+          }
         ],
         "section5": [
-          {"q": {"hi": "नीम के तेल से क्या बनाया जाता है?", "en": "What is made from neem oil?"}, "options": [{"hi": "साबुन और टूथपेस्ट", "en": "Soaps and toothpaste"}, {"hi": "दूध", "en": "Milk"}, {"hi": "चाय", "en": "Tea"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "साबुन और टूथपेस्ट", "en": "Soaps and toothpaste"}},
-          {"q": {"hi": "क्या एम्बर नीम के पेड़ की प्रशंसा करती है?", "en": "Does Amber admire the neem tree?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या किसान नीम के बीज पाउडर का उपयोग करते हैं?", "en": "Do farmers use neem seed powder?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "नीम का पेड़ एम्बर के कहाँ था?", "en": "Where was the neem tree in Amber's house?"}, "options": [{"hi": "आंगन में", "en": "In courtyard"}, {"hi": "बगीचे में", "en": "In garden"}, {"hi": "घर के बाहर", "en": "Outside house"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "आंगन में", "en": "In courtyard"}},
-          {"q": {"hi": "नीम का पेड़ कैसा था?", "en": "How was the neem tree?"}, "options": [{"hi": "पुराना और ज्ञानी", "en": "Old and wise"}, {"hi": "नया", "en": "New"}, {"hi": "छोटा", "en": "Small"}, {"hi": "कमजोर", "en": "Weak"}], "answer": {"hi": "पुराना और ज्ञानी", "en": "Old and wise"}},
-          {"q": {"hi": "नीम के बीज का पाउडर क्या काम करता है?", "en": "What does neem seed powder do?"}, "options": [{"hi": "कीड़ों को दूर रखना", "en": "Keep insects away"}, {"hi": "रंग बदलना", "en": "Change color"}, {"hi": "फूल उगाना", "en": "Grow flowers"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "कीड़ों को दूर रखना", "en": "Keep insects away"}},
-          {"q": {"hi": "एम्बर ने पेड़ को क्या कहा?", "en": "What did Amber say to the tree?"}, "options": [{"hi": "नमस्ते", "en": "Namaste"}, {"hi": "अलविदा", "en": "Bye"}, {"hi": "शुभ प्रभात", "en": "Good morning"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "नमस्ते", "en": "Namaste"}},
-          {"q": {"hi": "नीम का उपयोग पर्यावरण के लिए कैसा है?", "en": "How is neem use for environment?"}, "options": [{"hi": "अच्छा", "en": "Good"}, {"hi": "खराब", "en": "Bad"}, {"hi": "उबाऊ", "en": "Boring"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "अच्छा", "en": "Good"}},
-          {"q": {"hi": "नीम बाबा ने एम्बर को क्या दिया?", "en": "What did Neem Baba give to Amber?"}, "options": [{"hi": "ज्ञान", "en": "Knowledge"}, {"hi": "पैसा", "en": "Money"}, {"hi": "खाना", "en": "Food"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "ज्ञान", "en": "Knowledge"}},
-          {"q": {"hi": "क्या आपको नीम का पेड़ पसंद है?", "en": "Do you like the neem tree?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}}
+          {
+            "q": {
+              "hi": "राजा गोपाल को क्या कहकर बधाई दी?",
+              "en": "What did the king say to congratulate Gopal?"
+            },
+            "options": [
+              {"hi": "तुम बहादुर हो", "en": "You are brave"},
+              {"hi": "तुमने असंभव काम किया", "en": "You have achieved the impossible"},
+              {"hi": "तुम धन्य हो", "en": "You are blessed"},
+              {"hi": "तुम महान हो", "en": "You are great"}
+            ],
+            "answer": {"hi": "तुमने असंभव काम किया", "en": "You have achieved the impossible"}
+          },
+          {
+            "q": {
+              "hi": "क्या गोपाल ने राजा को मछली दिखाई?",
+              "en": "Did Gopal show the fish to the king?"
+            },
+            "options": [
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "मछली खो गई थी", "en": "Fish was lost"}
+            ],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {
+              "hi": "गोपाल ने चेहरे का क्या किया?",
+              "en": "What did Gopal do to his face?"
+            },
+            "options": [
+              {"hi": "आधा शेव", "en": "Half shave"},
+              {"hi": "पूरा शेव", "en": "Full shave"},
+              {"hi": "रंग लगाया", "en": "Applied color"},
+              {"hi": "कुछ नहीं", "en": "Nothing"}
+            ],
+            "answer": {"hi": "आधा शेव", "en": "Half shave"}
+          },
+          {
+            "q": {
+              "hi": "गोपाल का स्वभाव कैसा है?",
+              "en": "What is Gopal's nature?"
+            },
+            "options": [
+              {"hi": "मूर्ख", "en": "Foolish"},
+              {"hi": "बुद्धिमान", "en": "Intelligent/Wit"},
+              {"hi": "गुस्सैल", "en": "Angry"},
+              {"hi": "डरपोक", "en": "Coward"}
+            ],
+            "answer": {"hi": "बुद्धिमान", "en": "Intelligent/Wit"}
+          },
+          {
+            "q": {
+              "hi": "महल के लोग क्यों हँस रहे थे?",
+              "en": "Why were people in the palace laughing?"
+            },
+            "options": [
+              {"hi": "गोपाल के रूप पर", "en": "At Gopal's appearance"},
+              {"hi": "राजा के चुटकुले पर", "en": "At King's joke"},
+              {"hi": "संगीत पर", "en": "At music"},
+              {"hi": "गोपाल के नृत्य पर", "en": "At Gopal's dance"}
+            ],
+            "answer": {"hi": "गोपाल के रूप पर", "en": "At Gopal's appearance"}
+          },
+          {
+            "q": {
+              "hi": "पहरेदार ने गोपाल को क्यों रोका?",
+              "en": "Why did the guard stop Gopal?"
+            },
+            "options": [
+              {"hi": "गोपाल गरीब था", "en": "Gopal was poor"},
+              {"hi": "उसकी वेशभूषा अजीब थी", "en": "His appearance was weird"},
+              {"hi": "वह बिना अनुमति के था", "en": "He had no permission"},
+              {"hi": "सभी", "en": "All"}
+            ],
+            "answer": {"hi": "सभी", "en": "All"}
+          },
+          {
+            "q": {
+              "hi": "राजा का मूड कैसा था?",
+              "en": "How was the king's mood?"
+            },
+            "options": [
+              {"hi": "खुश", "en": "Happy"},
+              {"hi": "क्रोधित", "en": "Angry"},
+              {"hi": "शांत", "en": "Calm"},
+              {"hi": "उदास", "en": "Sad"}
+            ],
+            "answer": {"hi": "क्रोधित", "en": "Angry"}
+          },
+          {
+            "q": {
+              "hi": "गोपाल का लक्ष्य क्या था?",
+              "en": "What was Gopal's goal?"
+            },
+            "options": [
+              {"hi": "चुनौती जीतना", "en": "To win the challenge"},
+              {"hi": "मछली बेचना", "en": "To sell fish"},
+              {"hi": "प्रसिद्ध होना", "en": "To become famous"},
+              {"hi": "राजा को हराना", "en": "To defeat the king"}
+            ],
+            "answer": {"hi": "चुनौती जीतना", "en": "To win the challenge"}
+          },
+          {
+            "q": {
+              "hi": "क्या गोपाल ने चुनौती पूरी करने में समय लिया?",
+              "en": "Did Gopal take time to complete the challenge?"
+            },
+            "options": [
+              {"hi": "हाँ, कुछ दिन", "en": "Yes, a few days"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "तुरंत", "en": "Immediately"},
+              {"hi": "महीने", "en": "Months"}
+            ],
+            "answer": {"hi": "हाँ, कुछ दिन", "en": "Yes, a few days"}
+          },
+          {
+            "q": {
+              "hi": "कहानी का अंत क्या है?",
+              "en": "What is the end of the story?"
+            },
+            "options": [
+              {"hi": "गोपाल हार गया", "en": "Gopal lost"},
+              {"hi": "गोपाल ने सबको हरा दिया", "en": "Gopal defeated everyone"},
+              {"hi": "राजा ने गोपाल को बधाई दी", "en": "King congratulated Gopal"},
+              {"hi": "गोपाल मर गया", "en": "Gopal died"}
+            ],
+            "answer": {"hi": "राजा ने गोपाल को बधाई दी", "en": "King congratulated Gopal"}
+          }
         ]
       },
     "chapter03b": {
