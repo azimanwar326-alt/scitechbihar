@@ -1986,66 +1986,666 @@
           }
         ]
       },
-    "chapter02c":{
+    "chapter02b":{
         "section1": [
-          {"q": {"hi": "लड़के का नाम क्या था?", "en": "What was the boy's name?"}, "options": [{"hi": "मारियो", "en": "Mario"}, {"hi": "राहुल", "en": "Rahul"}, {"hi": "रमा", "en": "Rama"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "मारियो", "en": "Mario"}},
-          {"q": {"hi": "मारियो क्या करना पसंद करता था?", "en": "What did Mario love to have?"}, "options": [{"hi": "बहुत सारे दोस्त", "en": "Lots of friends"}, {"hi": "बहुत सारे खिलौने", "en": "Lots of toys"}, {"hi": "बहुत सारी किताबें", "en": "Lots of books"}, {"hi": "फल", "en": "Fruits"}], "answer": {"hi": "बहुत सारे दोस्त", "en": "Lots of friends"}},
-          {"q": {"hi": "मारियो क्या करता था?", "en": "What did Mario do?"}, "options": [{"hi": "शेखी बघारता था", "en": "Showed off"}, {"hi": "पढ़ाई करता था", "en": "Studied"}, {"hi": "सोता था", "en": "Slept"}, {"hi": "खेलता था", "en": "Played"}], "answer": {"hi": "शेखी बघारता था", "en": "Showed off"}},
-          {"q": {"hi": "दादाजी ने मारियो के साथ क्या शर्त लगाई?", "en": "What bet did grandfather make with Mario?"}, "options": [{"hi": "फ्रूट चाट", "en": "Fruit chaat"}, {"hi": "एक खिलौना", "en": "A toy"}, {"hi": "एक कहानी", "en": "A story"}, {"hi": "कुछ नहीं", "en": "Nothing"}], "answer": {"hi": "फ्रूट चाट", "en": "Fruit chaat"}},
-          {"q": {"hi": "दादाजी के अनुसार मारियो के साथी कैसे थे?", "en": "According to grandpa, what were Mario's companions?"}, "options": [{"hi": "सिर्फ साथी या पार्टनर", "en": "Just companions or partners"}, {"hi": "सच्चे दोस्त", "en": "True friends"}, {"hi": "दुश्मन", "en": "Enemies"}, {"hi": "भाई", "en": "Brothers"}], "answer": {"hi": "सिर्फ साथी या पार्टनर", "en": "Just companions or partners"}},
-          {"q": {"hi": "दादाजी ने मारियो को क्या सुझाव दिया?", "en": "What did grandpa suggest to Mario?"}, "options": [{"hi": "जादुई कुर्सी", "en": "Magic chair"}, {"hi": "जादुई किताब", "en": "Magic book"}, {"hi": "जादुई फल", "en": "Magic fruit"}, {"hi": "कुछ नहीं", "en": "Nothing"}], "answer": {"hi": "जादुई कुर्सी", "en": "Magic chair"}},
-          {"q": {"hi": "जादुई कुर्सी कहाँ थी?", "en": "Where was the magic chair?"}, "options": [{"hi": "अटारी (attic) में", "en": "In the attic"}, {"hi": "कमरे में", "en": "In the room"}, {"hi": "बागीचे में", "en": "In the garden"}, {"hi": "बाजार में", "en": "In the market"}], "answer": {"hi": "अटारी (attic) में", "en": "In the attic"}},
-          {"q": {"hi": "कुर्सी कैसी थी?", "en": "What was the chair like?"}, "options": [{"hi": "अदृश्य (invisible)", "en": "Invisible"}, {"hi": "बड़ी", "en": "Big"}, {"hi": "पुरानी", "en": "Old"}, {"hi": "लकड़ी की", "en": "Wooden"}], "answer": {"hi": "अदृश्य (invisible)", "en": "Invisible"}},
-          {"q": {"hi": "क्या मारियो को कुर्सी दिख रही थी?", "en": "Could Mario see the chair?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "नहीं", "en": "No"}},
-          {"q": {"hi": "जादुई कुर्सी का काम क्या था?", "en": "What was the magic chair's job?"}, "options": [{"hi": "सच्चे दोस्तों की पहचान कराना", "en": "To identify true friends"}, {"hi": "उड़ाना", "en": "To fly"}, {"hi": "हँसाना", "en": "To make laugh"}, {"hi": "सोना", "en": "To sleep"}], "answer": {"hi": "सच्चे दोस्तों की पहचान कराना", "en": "To identify true friends"}}
+          {
+            "q": {
+              "hi": "जब हर कोई छोटे बाल रखता है, तो विद्रोही (rebel) क्या करता है?",
+              "en": "When everybody has short hair, what does the rebel do?"
+            },
+            "options": [
+              {"hi": "उन्हें और छोटा कटवाता है", "en": "Cuts them shorter"},
+              {"hi": "बाल लंबे होने देता है", "en": "Lets his hair grow long"},
+              {"hi": "सिर मुंडवा लेता है", "en": "Shaves his head"},
+              {"hi": "रंगवा लेता है", "en": "Colors them"}
+            ],
+            "answer": {"hi": "बाल लंबे होने देता है", "en": "Lets his hair grow long"}
+          },
+          {
+            "q": {
+              "hi": "कक्षा में बात करने के बारे में विद्रोही का व्यवहार कैसा होता है?",
+              "en": "How does the rebel behave regarding talking in class?"
+            },
+            "options": [
+              {"hi": "वह जोर-जोर से बातें करता है", "en": "He talks loudly"},
+              {"hi": "वह एक शब्द भी नहीं बोलता", "en": "He doesn't say a word"},
+              {"hi": "वह सबकी बातें सुनता है", "en": "He listens to everyone"},
+              {"hi": "वह दूसरों को चुप कराता है", "en": "He makes others quiet"}
+            ],
+            "answer": {"hi": "वह एक शब्द भी नहीं बोलता", "en": "He doesn't say a word"}
+          },
+          {
+            "q": {
+              "hi": "जब हर कोई यूनिफॉर्म पहनता है, तो विद्रोही क्या पहनता है?",
+              "en": "When everybody wears a uniform, what does the rebel wear?"
+            },
+            "options": [
+              {"hi": "कुछ नहीं", "en": "Nothing"},
+              {"hi": "साधारण कपड़े", "en": "Ordinary clothes"},
+              {"hi": "शानदार कपड़े", "en": "Fantastic clothes"},
+              {"hi": "खेल के कपड़े", "en": "Sports clothes"}
+            ],
+            "answer": {"hi": "शानदार कपड़े", "en": "Fantastic clothes"}
+          },
+          {
+            "q": {
+              "hi": "कुत्ता प्रेमियों की संगति में विद्रोही किसके लिए अपनी पसंद व्यक्त करता है?",
+              "en": "In the company of dog lovers, for whom does the rebel express a preference?"
+            },
+            "options": [
+              {"hi": "बिल्लियों", "en": "Cats"},
+              {"hi": "पक्षियों", "en": "Birds"},
+              {"hi": "खरगोशों", "en": "Rabbits"},
+              {"hi": "मछलियों", "en": "Fish"}
+            ],
+            "answer": {"hi": "बिल्लियों", "en": "Cats"}
+          },
+          {
+            "q": {
+              "hi": "सूरज की तारीफ होने पर विद्रोही क्या कहता है?",
+              "en": "When the sun is praised, what does the rebel remark?"
+            },
+            "options": [
+              {"hi": "गर्मी बहुत है", "en": "It is too hot"},
+              {"hi": "बारिश की जरूरत है", "en": "On the need for rain"},
+              {"hi": "बादल होने चाहिए", "en": "There should be clouds"},
+              {"hi": "मौसम अच्छा है", "en": "The weather is good"}
+            ],
+            "answer": {"hi": "बारिश की जरूरत है", "en": "On the need for rain"}
+          },
+          {
+            "q": {
+              "hi": "मीटिंग के समय विद्रोही क्या करता है?",
+              "en": "What does the rebel do at the time of the meeting?"
+            },
+            "options": [
+              {"hi": "मीटिंग में जाता है", "en": "Goes to the meeting"},
+              {"hi": "घर पर रहकर किताब पढ़ता है", "en": "Stays at home and reads a book"},
+              {"hi": "सो जाता है", "en": "Goes to sleep"},
+              {"hi": "खेलने जाता है", "en": "Goes to play"}
+            ],
+            "answer": {"hi": "घर पर रहकर किताब पढ़ता है", "en": "Stays at home and reads a book"}
+          },
+          {
+            "q": {
+              "hi": "जब हर कोई 'हाँ' कहता है, तो विद्रोही क्या कहता है?",
+              "en": "When everybody says 'Yes', what does the rebel say?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं, धन्यवाद", "en": "No thank you"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "मुझे नहीं पता", "en": "I don't know"}
+            ],
+            "answer": {"hi": "नहीं, धन्यवाद", "en": "No thank you"}
+          },
+          {
+            "q": {
+              "hi": "विद्रोही शब्द का हिंदी अर्थ क्या है?",
+              "en": "What is the Hindi meaning of the word 'Rebel'?"
+            },
+            "options": [
+              {"hi": "शांत", "en": "Quiet"},
+              {"hi": "विद्रोही / बागी", "en": "Rebel"},
+              {"hi": "मित्र", "en": "Friend"},
+              {"hi": "शिक्षक", "en": "Teacher"}
+            ],
+            "answer": {"hi": "विद्रोही / बागी", "en": "Rebel"}
+          },
+          {
+            "q": {
+              "hi": "कविता के अनुसार क्या यह बहुत अच्छी बात है कि हमारे पास विद्रोही हैं?",
+              "en": "According to the poem, is it very good that we have rebels?"
+            },
+            "options": [
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "पता नहीं", "en": "Don't know"},
+              {"hi": "यह खराब है", "en": "It is bad"}
+            ],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {
+              "hi": "विद्रोही होना कैसा हो सकता है?",
+              "en": "How can being a rebel be?"
+            },
+            "options": [
+              {"hi": "बहुत आसान", "en": "Very easy"},
+              {"hi": "बहुत अच्छा", "en": "Very good"},
+              {"hi": "शायद बहुत अच्छा न हो", "en": "May not be very good"},
+              {"hi": "ऊबाऊ", "en": "Boring"}
+            ],
+            "answer": {"hi": "शायद बहुत अच्छा न हो", "en": "May not be very good"}
+          }
         ],
         "section2": [
-          {"q": {"hi": "मारियो कुर्सी कहाँ ले गया?", "en": "Where did Mario take the chair?"}, "options": [{"hi": "स्कूल", "en": "School"}, {"hi": "घर", "en": "Home"}, {"hi": "बाजार", "en": "Market"}, {"hi": "पार्क", "en": "Park"}], "answer": {"hi": "स्कूल", "en": "School"}},
-          {"q": {"hi": "ब्रेक टाइम में मारियो ने क्या किया?", "en": "What did Mario do at break time?"}, "options": [{"hi": "घेरा बनाने को कहा", "en": "Asked to form a circle"}, {"hi": "खेलना शुरू किया", "en": "Started playing"}, {"hi": "पढ़ना शुरू किया", "en": "Started reading"}, {"hi": "कुछ नहीं", "en": "Nothing"}], "answer": {"hi": "घेरा बनाने को कहा", "en": "Asked to form a circle"}},
-          {"q": {"hi": "मारियो कुर्सी पर बैठने की कोशिश करते समय क्या हुआ?", "en": "What happened when Mario tried to sit?"}, "options": [{"hi": "वह गिर गया", "en": "He fell down"}, {"hi": "वह बैठ गया", "en": "He sat"}, {"hi": "वह उड़ गया", "en": "He flew"}, {"hi": "कुर्सी टूट गई", "en": "Chair broke"}], "answer": {"hi": "वह गिर गया", "en": "He fell down"}},
-          {"q": {"hi": "क्लास के बच्चों ने क्या किया?", "en": "What did the classmates do?"}, "options": [{"hi": "हँसने लगे", "en": "Laughed at him"}, {"hi": "मदद की", "en": "Helped him"}, {"hi": "रोने लगे", "en": "Started crying"}, {"hi": "चुप रहे", "en": "Stayed silent"}], "answer": {"hi": "हँसने लगे", "en": "Laughed at him"}},
-          {"q": {"hi": "मारियो ने कितनी बार कोशिश की?", "en": "How many times did Mario try?"}, "options": [{"hi": "कई बार", "en": "Many times"}, {"hi": "एक बार", "en": "Once"}, {"hi": "दो बार", "en": "Twice"}, {"hi": "कभी नहीं", "en": "Never"}], "answer": {"hi": "कई बार", "en": "Many times"}},
-          {"q": {"hi": "अंत में मारियो कैसे बैठा?", "en": "How did Mario sit in the end?"}, "options": [{"hi": "हवा में लटककर", "en": "Hanging in mid-air"}, {"hi": "कुर्सी पर", "en": "On the chair"}, {"hi": "जमीन पर", "en": "On the ground"}, {"hi": "मेज पर", "en": "On the table"}], "answer": {"hi": "हवा में लटककर", "en": "Hanging in mid-air"}},
-          {"q": {"hi": "मारियो को किसने संभाला?", "en": "Who held Mario up?"}, "options": [{"hi": "गुनीत, आसमा और दीपा", "en": "Guneet, Asma, and Deepa"}, {"hi": "सब बच्चे", "en": "All children"}, {"hi": "शिक्षक", "en": "Teacher"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "गुनीत, आसमा और दीपा", "en": "Guneet, Asma, and Deepa"}},
-          {"q": {"hi": "बाकी दोस्तों ने क्या किया?", "en": "What did the other friends do?"}, "options": [{"hi": "मजाक उड़ाया", "en": "Made fun of him"}, {"hi": "मदद की", "en": "Helped"}, {"hi": "चुप रहे", "en": "Stayed silent"}, {"hi": "चले गए", "en": "Left"}], "answer": {"hi": "मजाक उड़ाया", "en": "Made fun of him"}},
-          {"q": {"hi": "सच्चा दोस्त कैसा होता है?", "en": "What is a true friend like?"}, "options": [{"hi": "जो ख्याल रखे", "en": "Who cares for us"}, {"hi": "जो हँसे", "en": "Who laughs"}, {"hi": "जो दूर रहे", "en": "Who stays away"}, {"hi": "जो खेले", "en": "Who plays"}], "answer": {"hi": "जो ख्याल रखे", "en": "Who cares for us"}},
-          {"q": {"hi": "क्या मारियो जीत गया?", "en": "Did Mario win?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}}
+          {
+            "q": {
+              "hi": "जब हर कोई लंबे बाल रखता है, तो विद्रोही क्या करता है?",
+              "en": "When everybody has long hair, what does the rebel do?"
+            },
+            "options": [
+              {"hi": "उन्हें और बढ़ाता है", "en": "Grows them more"},
+              {"hi": "बाल छोटा कटवाता है", "en": "Cuts his hair short"},
+              {"hi": "रंगवाता है", "en": "Colors them"},
+              {"hi": "कुछ नहीं करता", "en": "Does nothing"}
+            ],
+            "answer": {"hi": "बाल छोटा कटवाता है", "en": "Cuts his hair short"}
+          },
+          {
+            "q": {
+              "hi": "जब कोई बात नहीं करता, तो विद्रोही क्या करता है?",
+              "en": "When nobody talks, what does the rebel do?"
+            },
+            "options": [
+              {"hi": "शांति बनाए रखता है", "en": "Maintains silence"},
+              {"hi": " disturbance (हलचल) पैदा करता है", "en": "Creates a disturbance"},
+              {"hi": "सो जाता है", "en": "Goes to sleep"},
+              {"hi": "पढ़ने लगता है", "en": "Starts reading"}
+            ],
+            "answer": {"hi": " disturbance (हलचल) पैदा करता है", "en": "Creates a disturbance"}
+          },
+          {
+            "q": {
+              "hi": "शानदार कपड़ों के समय विद्रोही कैसे कपड़े पहनता है?",
+              "en": "When everyone wears fantastic clothes, how does the rebel dress?"
+            },
+            "options": [
+              {"hi": "शानदार", "en": "Fantastic"},
+              {"hi": "साधारण / संयमित (soberly)", "en": "Soberly"},
+              {"hi": "रंगीन", "en": "Colorful"},
+              {"hi": "गंदे", "en": "Dirty"}
+            ],
+            "answer": {"hi": "साधारण / संयमित (soberly)", "en": "Soberly"}
+          },
+          {
+            "q": {
+              "hi": "बिल्ली प्रेमियों की संगति में विद्रोही किसके लिए अच्छा बोलता है?",
+              "en": "In the company of cat lovers, for whom does the rebel put in a good word?"
+            },
+            "options": [
+              {"hi": "कुत्तों", "en": "Dogs"},
+              {"hi": "पक्षियों", "en": "Birds"},
+              {"hi": "बिल्लियों", "en": "Cats"},
+              {"hi": "शेरों", "en": "Lions"}
+            ],
+            "answer": {"hi": "कुत्तों", "en": "Dogs"}
+          },
+          {
+            "q": {
+              "hi": "जब सब बारिश का स्वागत करते हैं, तो विद्रोही क्या करता है?",
+              "en": "When everybody is greeting the rain, what does the rebel do?"
+            },
+            "options": [
+              {"hi": "खुश होता है", "en": "Is happy"},
+              {"hi": "सूरज की अनुपस्थिति पर पछताता है", "en": "Regrets the absence of sun"},
+              {"hi": "बारिश में नाचता है", "en": "Dances in rain"},
+              {"hi": "घर के अंदर जाता है", "en": "Goes inside"}
+            ],
+            "answer": {"hi": "सूरज की अनुपस्थिति पर पछताता है", "en": "Regrets the absence of sun"}
+          },
+          {
+            "q": {
+              "hi": "जब हर कोई घर पर किताब पढ़ता है, तो विद्रोही कहाँ जाता है?",
+              "en": "When everybody stays at home reading, where does the rebel go?"
+            },
+            "options": [
+              {"hi": "बाज़ार", "en": "To market"},
+              {"hi": "मीटिंग में", "en": "To the meeting"},
+              {"hi": "पार्क में", "en": "To park"},
+              {"hi": "स्कूल में", "en": "To school"}
+            ],
+            "answer": {"hi": "मीटिंग में", "en": "To the meeting"}
+          },
+          {
+            "q": {
+              "hi": "जब हर कोई 'नहीं, धन्यवाद' कहता है, तो विद्रोही क्या कहता है?",
+              "en": "When everybody says 'No thank you', what does the rebel say?"
+            },
+            "options": [
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "हाँ, कृपया", "en": "Yes please"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "ठीक है", "en": "Okay"}
+            ],
+            "answer": {"hi": "हाँ, कृपया", "en": "Yes please"}
+          },
+          {
+            "q": {
+              "hi": "कविता के रचयिता कौन हैं?",
+              "en": "Who is the poet of the poem?"
+            },
+            "options": [
+              {"hi": "डी.जे. एनराइट", "en": "D. J. Enright"},
+              {"hi": "विलियम वर्ड्सवर्थ", "en": "William Wordsworth"},
+              {"hi": "रविंद्रनाथ टैगोर", "en": "Rabindranath Tagore"},
+              {"hi": "मिल्ड्रेड बोवर्स", "en": "Mildred Bowers"}
+            ],
+            "answer": {"hi": "डी.जे. एनराइट", "en": "D. J. Enright"}
+          },
+          {
+            "q": {
+              "hi": "क्या विद्रोही हमेशा दूसरों से अलग कार्य करता है?",
+              "en": "Does the rebel always act differently from others?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "कभी-कभी", "en": "Sometimes"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {
+              "hi": "कविता का मुख्य विषय क्या है?",
+              "en": "What is the main subject of the poem?"
+            },
+            "options": [
+              {"hi": "विद्रोही का स्वभाव", "en": "Nature of a rebel"},
+              {"hi": "बारिश और धूप", "en": "Rain and sun"},
+              {"hi": "स्कूल का अनुशासन", "en": "School discipline"},
+              {"hi": "फैशन", "en": "Fashion"}
+            ],
+            "answer": {"hi": "विद्रोही का स्वभाव", "en": "Nature of a rebel"}
+          }
         ],
         "section3": [
-          {"q": {"hi": "'Showed off' का क्या अर्थ है?", "en": "What is the meaning of 'Showed off'?"}, "options": [{"hi": "शेखी बघारना", "en": "Boasted"}, {"hi": "दौड़ना", "en": "Running"}, {"hi": "सोना", "en": "Sleeping"}, {"hi": "रोना", "en": "Crying"}], "answer": {"hi": "शेखी बघारना", "en": "Boasted"}},
-          {"q": {"hi": "'Attic' क्या है?", "en": "What is an 'Attic'?"}, "options": [{"hi": "छत के नीचे का स्थान", "en": "Space just under the roof"}, {"hi": "कमरा", "en": "Room"}, {"hi": "बागीचा", "en": "Garden"}, {"hi": "कुआं", "en": "Well"}], "answer": {"hi": "छत के नीचे का स्थान", "en": "Space just under the roof"}},
-          {"q": {"hi": "'Invisible' का क्या अर्थ है?", "en": "What is the meaning of 'Invisible'?"}, "options": [{"hi": "जिसे देखा न जा सके", "en": "Impossible to see"}, {"hi": "बड़ा", "en": "Big"}, {"hi": "छोटा", "en": "Small"}, {"hi": "रंगीन", "en": "Colorful"}], "answer": {"hi": "जिसे देखा न जा सके", "en": "Impossible to see"}},
-          {"q": {"hi": "'Determined' का क्या अर्थ है?", "en": "What is the meaning of 'Determined'?"}, "options": [{"hi": "दृढ़ निश्चय", "en": "Firm in decision"}, {"hi": "डरपोक", "en": "Coward"}, {"hi": "आलसी", "en": "Lazy"}, {"hi": "खुश", "en": "Happy"}], "answer": {"hi": "दृढ़ निश्चय", "en": "Firm in decision"}},
-          {"q": {"hi": "'Amazing' का क्या अर्थ है?", "en": "What is the meaning of 'Amazing'?"}, "options": [{"hi": "हैरान कर देने वाला", "en": "Very surprising"}, {"hi": "साधारण", "en": "Simple"}, {"hi": "पुराना", "en": "Old"}, {"hi": "खराब", "en": "Bad"}], "answer": {"hi": "हैरान कर देने वाला", "en": "Very surprising"}},
-          {"q": {"hi": "'Experienced' का क्या अर्थ है?", "en": "What is the meaning of 'Experienced'?"}, "options": [{"hi": "महसूस करना", "en": "Felt"}, {"hi": "दौड़ना", "en": "Run"}, {"hi": "सोना", "en": "Sleep"}, {"hi": "खाना", "en": "Eat"}], "answer": {"hi": "महसूस करना", "en": "Felt"}},
-          {"q": {"hi": "क्या सच्ची दोस्ती बिना शर्त होती है?", "en": "Is true friendship unconditional?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "मारियो ने फ्रूट चाट कैसे जीता?", "en": "How did Mario win the fruit chaat?"}, "options": [{"hi": "सच्चे दोस्त ढूंढकर", "en": "By finding true friends"}, {"hi": "जादू से", "en": "By magic"}, {"hi": "स्कूल जाकर", "en": "By going to school"}, {"hi": "खेलकर", "en": "By playing"}], "answer": {"hi": "सच्चे दोस्त ढूंढकर", "en": "By finding true friends"}},
-          {"q": {"hi": "मारियो ने अपने दोस्तों को क्या बताया?", "en": "What did Mario tell his friends?"}, "options": [{"hi": "दादाजी की तरकीब के बारे में", "en": "About grandpa's trick"}, {"hi": "जादू के बारे में", "en": "About magic"}, {"hi": "स्कूल के बारे में", "en": "About school"}, {"hi": "अपने बारे में", "en": "About himself"}], "answer": {"hi": "दादाजी की तरकीब के बारे में", "en": "About grandpa's trick"}},
-          {"q": {"hi": "क्या दादाजी बुद्धिमान थे?", "en": "Was grandpa wise?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}}
+          {
+            "q": {
+              "hi": "क्या विद्रोही कपड़े पहनने के मामले में भी अलग है?",
+              "en": "Is the rebel different in terms of dressing too?"
+            },
+            "options": [
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "कभी नहीं", "en": "Never"},
+              {"hi": "शायद", "en": "Maybe"}
+            ],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {
+              "hi": "'disturbance' का हिंदी अर्थ क्या है?",
+              "en": "What is the Hindi meaning of 'disturbance'?"
+            },
+            "options": [
+              {"hi": "शांति", "en": "Peace"},
+              {"hi": "हलचल / गड़बड़ी", "en": "Disturbance"},
+              {"hi": "खेल", "en": "Game"},
+              {"hi": "पढ़ाई", "en": "Study"}
+            ],
+            "answer": {"hi": "हलचल / गड़बड़ी", "en": "Disturbance"}
+          },
+          {
+            "q": {
+              "hi": "विद्रोही का व्यवहार कैसा है?",
+              "en": "How is the behavior of the rebel?"
+            },
+            "options": [
+              {"hi": "सहयोगी", "en": "Cooperative"},
+              {"hi": "विरोधी", "en": "Opposite"},
+              {"hi": "आज्ञाकारी", "en": "Obedient"},
+              {"hi": "शर्मीला", "en": "Shy"}
+            ],
+            "answer": {"hi": "विरोधी", "en": "Opposite"}
+          },
+          {
+            "q": {
+              "hi": "क्या सबको विद्रोही बनना पसंद है?",
+              "en": "Does everyone like to be a rebel?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "सबको", "en": "Everyone"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": {
+              "hi": "विद्रोही को 'विद्रोही' क्यों कहा जाता है?",
+              "en": "Why is the rebel called a 'rebel'?"
+            },
+            "options": [
+              {"hi": "क्योंकि वह शांत रहता है", "en": "Because he is quiet"},
+              {"hi": "क्योंकि वह सब कुछ उल्टा करता है", "en": "Because he does everything opposite"},
+              {"hi": "क्योंकि वह मीटिंग में जाता है", "en": "Because he goes to meeting"},
+              {"hi": "क्योंकि वह सुंदर है", "en": "Because he is beautiful"}
+            ],
+            "answer": {"hi": "क्योंकि वह सब कुछ उल्टा करता है", "en": "Because he does everything opposite"}
+          },
+          {
+            "q": {
+              "hi": "जब हर कोई बात कर रहा हो, तो विद्रोही को चुप रहने में क्या मिलता है?",
+              "en": "What does the rebel get by being quiet when everyone is talking?"
+            },
+            "options": [
+              {"hi": "विरोध करने की खुशी", "en": "The pleasure of opposing"},
+              {"hi": "पुरस्कार", "en": "Reward"},
+              {"hi": "शांति", "en": "Peace"},
+              {"hi": "डर", "en": "Fear"}
+            ],
+            "answer": {"hi": "विरोध करने की खुशी", "en": "The pleasure of opposing"}
+          },
+          {
+            "q": {
+              "hi": "क्या विद्रोही का व्यवहार हमारे सामाजिक जीवन को प्रभावित करता है?",
+              "en": "Does the rebel's behavior affect our social life?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "कभी नहीं", "en": "Never"},
+              {"hi": "शायद", "en": "Maybe"}
+            ],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {
+              "hi": "इस कविता के अनुसार 'rebel' क्या है?",
+              "en": "According to the poem, what is a 'rebel'?"
+            },
+            "options": [
+              {"hi": "एक अपराधी", "en": "A criminal"},
+              {"hi": "विपरीत कार्य करने वाला", "en": "Someone who does opposite things"},
+              {"hi": "एक अच्छा इंसान", "en": "A good person"},
+              {"hi": "एक नेता", "en": "A leader"}
+            ],
+            "answer": {"hi": "विपरीत कार्य करने वाला", "en": "Someone who does opposite things"}
+          },
+          {
+            "q": {
+              "hi": "जब सब घर पर हों, तो विद्रोही क्या करता है?",
+              "en": "When everyone is at home, what does the rebel do?"
+            },
+            "options": [
+              {"hi": "मीटिंग में जाता है", "en": "Goes to the meeting"},
+              {"hi": "सोता है", "en": "Sleeps"},
+              {"hi": "खेलता है", "en": "Plays"},
+              {"hi": "बाहर जाता है", "en": "Goes out"}
+            ],
+            "answer": {"hi": "मीटिंग में जाता है", "en": "Goes to the meeting"}
+          },
+          {
+            "q": {
+              "hi": "क्या विद्रोही समाज के लिए महत्वपूर्ण है?",
+              "en": "Is the rebel important for society?"
+            },
+            "options": [
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          }
         ],
         "section4": [
-          {"q": {"hi": "मारियो की कुर्सी वाली कहानी का क्या पाठ है?", "en": "What is the lesson of Mario's chair story?"}, "options": [{"hi": "सच्चे दोस्त संकट में साथ देते हैं", "en": "True friends support in crisis"}, {"hi": "जादू ही सब कुछ है", "en": "Magic is everything"}, {"hi": "दोस्तों का होना जरूरी है", "en": "Friends are necessary"}, {"hi": "कुछ नहीं", "en": "None"}], "answer": {"hi": "सच्चे दोस्त संकट में साथ देते हैं", "en": "True friends support in crisis"}},
-          {"q": {"hi": "क्या दोस्तों का मजाक उड़ाना सही है?", "en": "Is it right to mock friends?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "नहीं", "en": "No"}},
-          {"q": {"hi": "मारियो के कितने दोस्त थे जिन्होंने उसका साथ दिया?", "en": "How many friends helped Mario?"}, "options": [{"hi": "तीन", "en": "Three"}, {"hi": "दो", "en": "Two"}, {"hi": "चार", "en": "Four"}, {"hi": "एक", "en": "One"}], "answer": {"hi": "तीन", "en": "Three"}},
-          {"q": {"hi": "क्या मारियो को पता था कि कौन उसके दोस्त हैं?", "en": "Did Mario know who his friends were?"}, "options": [{"hi": "पहले नहीं, बाद में पता चला", "en": "Not at first, later found out"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "पहले नहीं, बाद में पता चला"}},
-          {"q": {"hi": "मारियो का दोस्त कौन नहीं बना?", "en": "Who did not become Mario's friend?"}, "options": [{"hi": "जो मजाक उड़ाते थे", "en": "Those who made fun"}, {"hi": "गुनीत", "en": "Guneet"}, {"hi": "दीपा", "en": "Deepa"}, {"hi": "आसमा", "en": "Asma"}], "answer": {"hi": "जो मजाक उड़ाते थे"}},
-          {"q": {"hi": "क्या कुर्सी सच में जादुई थी?", "en": "Was the chair really magic?"}, "options": [{"hi": "नहीं, यह दादाजी की तरकीब थी", "en": "No, it was grandpa's trick"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "नहीं, यह दादाजी की तरकीब थी"}},
-          {"q": {"hi": "मारियो को दादाजी की तरकीब कैसी लगी?", "en": "How did Mario find grandpa's trick?"}, "options": [{"hi": "बहुत अच्छी", "en": "Very good"}, {"hi": "बुरी", "en": "Bad"}, {"hi": "उबाऊ", "en": "Boring"}, {"hi": "डर", "en": "Fear"}], "answer": {"hi": "बहुत अच्छी"}},
-          {"q": {"hi": "क्या दोस्तों के साथ समय बिताना चाहिए?", "en": "Should one spend time with friends?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ"}},
-          {"q": {"hi": "मारियो और उसके दोस्त शाम को कहाँ गए?", "en": "Where did Mario and his friends go in the evening?"}, "options": [{"hi": "दादाजी के पास", "en": "To grandpa"}, {"hi": "स्कूल", "en": "School"}, {"hi": "घर", "en": "Home"}, {"hi": "बाजार", "en": "Market"}], "answer": {"hi": "दादाजी के पास"}},
-          {"q": {"hi": "मारियो ने शर्त कैसे जीती?", "en": "How did Mario win the bet?"}, "options": [{"hi": "सच्चे दोस्तों का पता लगाकर", "en": "By finding true friends"}, {"hi": "जादू से", "en": "By magic"}, {"hi": "खेलकर", "en": "By playing"}, {"hi": "पढ़कर", "en": "By reading"}], "answer": {"hi": "सच्चे दोस्तों का पता लगाकर"}}
+          {
+            "q": {
+              "hi": "कविता में विद्रोही को कैसा दिखाया गया है?",
+              "en": "How is the rebel portrayed in the poem?"
+            },
+            "options": [
+              {"hi": "गंभीर", "en": "Serious"},
+              {"hi": "अनाज्ञाकारी", "en": "Disobedient"},
+              {"hi": "उल्टा कार्य करने वाला", "en": "Doing opposite actions"},
+              {"hi": "मददगार", "en": "Helpful"}
+            ],
+            "answer": {"hi": "उल्टा कार्य करने वाला", "en": "Doing opposite actions"}
+          },
+          {
+            "q": {
+              "hi": "विद्रोही और आम लोगों में क्या अंतर है?",
+              "en": "What is the difference between a rebel and common people?"
+            },
+            "options": [
+              {"hi": "कपड़ों का", "en": "Clothes"},
+              {"hi": "कार्य करने के तरीके का", "en": "Ways of working"},
+              {"hi": "विचारधारा का", "en": "Ideology"},
+              {"hi": "सभी", "en": "All"}
+            ],
+            "answer": {"hi": "सभी", "en": "All"}
+          },
+          {
+            "q": {
+              "hi": "विद्रोही कौन सा बाल स्टाइल पसंद करता है?",
+              "en": "What hair style does the rebel prefer?"
+            },
+            "options": [
+              {"hi": "जो दूसरों के पास नहीं है", "en": "What others don't have"},
+              {"hi": "जो सबके पास है", "en": "What everyone has"},
+              {"hi": "कोई भी नहीं", "en": "None"},
+              {"hi": "छोटा", "en": "Short"}
+            ],
+            "answer": {"hi": "जो दूसरों के पास नहीं है", "en": "What others don't have"}
+          },
+          {
+            "q": {
+              "hi": "क्या विद्रोही दूसरों की पसंद का सम्मान करता है?",
+              "en": "Does the rebel respect others' choices?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "कभी-कभी", "en": "Sometimes"},
+              {"hi": "शायद", "en": "Maybe"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": {
+              "hi": "विद्रोही के बारे में कौन सा कथन सही है?",
+              "en": "Which statement is true about the rebel?"
+            },
+            "options": [
+              {"hi": "वह सबकी बात मानता है", "en": "He follows everyone"},
+              {"hi": "वह हमेशा दूसरों से अलग करता है", "en": "He always does differently from others"},
+              {"hi": "वह एक अच्छा दोस्त है", "en": "He is a good friend"},
+              {"hi": "वह मीटिंग में नहीं जाता", "en": "He doesn't go to meeting"}
+            ],
+            "answer": {"hi": "वह हमेशा दूसरों से अलग करता है", "en": "He always does differently from others"}
+          },
+          {
+            "q": {
+              "hi": "जब सब खुश हों, तो विद्रोही क्या करता है?",
+              "en": "When everyone is happy, what does the rebel do?"
+            },
+            "options": [
+              {"hi": "खुश होता है", "en": "Is happy"},
+              {"hi": "दुखी होता है", "en": "Is sad"},
+              {"hi": "शांत रहता है", "en": "Stays quiet"},
+              {"hi": "शोर मचाता है", "en": "Creates noise"}
+            ],
+            "answer": {"hi": "दुखी होता है", "en": "Is sad"}
+          },
+          {
+            "q": {
+              "hi": "कविता के अनुसार क्या विद्रोही अकेला है?",
+              "en": "According to the poem, is the rebel alone?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "हो सकता है", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "शायद हाँ (अकेलापन महसूस होता है)", "en": "Probably yes (feels lonely)"}
+          },
+          {
+            "q": {
+              "hi": "विद्रोही शब्द का उच्चारण क्या है?",
+              "en": "What is the pronunciation of the word 'rebel'?"
+            },
+            "options": [
+              {"hi": "रेबेल", "en": "Rebel"},
+              {"hi": "रिबेल", "en": "Rebel"},
+              {"hi": "राबेल", "en": "Rabel"},
+              {"hi": "रोबेल", "en": "Robel"}
+            ],
+            "answer": {"hi": "रेबेल", "en": "Rebel"}
+          },
+          {
+            "q": {
+              "hi": "क्या कविता में विद्रोही का कोई नाम है?",
+              "en": "Is there any name of the rebel in the poem?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "कविता में दिया है", "en": "Given in poem"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": {
+              "hi": "क्या आप कभी विद्रोही बने हैं?",
+              "en": "Have you ever been a rebel?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "कभी-कभी", "en": "Sometimes"},
+              {"hi": "हर समय", "en": "All the time"}
+            ],
+            "answer": {"hi": "कभी-कभी", "en": "Sometimes"}
+          }
         ],
         "section5": [
-          {"q": {"hi": "क्या सच्ची दोस्ती जीवन भर रहती है?", "en": "Does true friendship last a lifetime?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ"}},
-          {"q": {"hi": "मारियो के दोस्त उसके लिए क्या लाए?", "en": "What did Mario's friends bring for him?"}, "options": [{"hi": "मदद", "en": "Support"}, {"hi": "खिलौने", "en": "Toys"}, {"hi": "फल", "en": "Fruits"}, {"hi": "कहानी", "en": "Story"}], "answer": {"hi": "मदद"}},
-          {"q": {"hi": "मारियो क्या भूल गया था?", "en": "What did Mario forget?"}, "options": [{"hi": "दोस्तों का असली मतलब", "en": "The real meaning of friends"}, {"hi": "स्कूल का काम", "en": "School work"}, {"hi": "घर का रास्ता", "en": "Way home"}, {"hi": "खाना", "en": "Food"}], "answer": {"hi": "दोस्तों का असली मतलब"}},
-          {"q": {"hi": "क्या आप इस कहानी के साथ सहमत हैं?", "en": "Do you agree with this story?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ"}},
-          {"q": {"hi": "दादाजी ने क्या किया?", "en": "What did grandpa do?"}, "options": [{"hi": "मारियो की मदद की", "en": "Helped Mario"}, {"hi": "डांटा", "en": "Scolded"}, {"hi": "छोड़ दिया", "en": "Left"}, {"hi": "कुछ नहीं", "en": "None"}], "answer": {"hi": "मारियो की मदद की"}},
-          {"q": {"hi": "मारियो ने जादुई कुर्सी पर बैठने के लिए क्या कहा?", "en": "What did Mario say to sit on the magic chair?"}, "options": [{"hi": "तकनीकी समस्या", "en": "Technical problem"}, {"hi": "कुछ नहीं", "en": "Nothing"}, {"hi": "जादू", "en": "Magic"}, {"hi": "कोशिश", "en": "Try"}], "answer": {"hi": "तकनीकी समस्या"}},
-          {"q": {"hi": "कहानी के अंत में क्या हुआ?", "en": "What happened at the end of the story?"}, "options": [{"hi": "मारियो ने सच्चे दोस्त पा लिए", "en": "Mario found true friends"}, {"hi": "मारियो हार गया", "en": "Mario lost"}, {"hi": "मारियो चला गया", "en": "Mario left"}, {"hi": "कुछ नहीं", "en": "None"}], "answer": {"hi": "मारियो ने सच्चे दोस्त पा लिए"}},
-          {"q": {"hi": "मारियो ने क्या सीखा?", "en": "What did Mario learn?"}, "options": [{"hi": "सच्ची दोस्ती का अर्थ", "en": "The meaning of true friendship"}, {"hi": "जादू", "en": "Magic"}, {"hi": "खेल", "en": "Games"}, {"hi": "स्कूल", "en": "School"}], "answer": {"hi": "सच्ची दोस्ती का अर्थ"}},
-          {"q": {"hi": "मारियो के कितने दोस्तों ने उसका मजाक उड़ाया?", "en": "How many friends made fun of Mario?"}, "options": [{"hi": "बहुत सारे", "en": "Many"}, {"hi": "तीन", "en": "Three"}, {"hi": "एक", "en": "One"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "बहुत सारे"}},
-          {"q": {"hi": "क्या हमें दोस्तों को परखना चाहिए?", "en": "Should we test friends?"}, "options": [{"hi": "मुश्किल समय में", "en": "In hard times"}, {"hi": "कभी नहीं", "en": "Never"}, {"hi": "रोज", "en": "Daily"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "मुश्किल समय में"}}
+          {
+            "q": {
+              "hi": "जब सब प्रशंसा कर रहे हों, तो विद्रोही क्या करता है?",
+              "en": "When everyone is praising, what does the rebel do?"
+            },
+            "options": [
+              {"hi": "तारीफ करता है", "en": "Praises"},
+              {"hi": "आलोचना करता है", "en": "Criticizes"},
+              {"hi": "चुप रहता है", "en": "Stays quiet"},
+              {"hi": "हंसता है", "en": "Laughs"}
+            ],
+            "answer": {"hi": "आलोचना करता है", "en": "Criticizes"}
+          },
+          {
+            "q": {
+              "hi": "विद्रोही का पसंदीदा मौसम कौन सा है?",
+              "en": "What is the favorite season of the rebel?"
+            },
+            "options": [
+              {"hi": "गर्मी", "en": "Summer"},
+              {"hi": "सर्दी", "en": "Winter"},
+              {"hi": "बारिश", "en": "Rain"},
+              {"hi": "वह हमेशा मौसम के खिलाफ है", "en": "He is always against the season"}
+            ],
+            "answer": {"hi": "वह हमेशा मौसम के खिलाफ है", "en": "He is always against the season"}
+          },
+          {
+            "q": {
+              "hi": "क्या कविता एक संदेश देती है?",
+              "en": "Does the poem give a message?"
+            },
+            "options": [
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "यह एक कहानी है", "en": "It is a story"}
+            ],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {
+              "hi": "कविता का अंत कैसा है?",
+              "en": "How is the end of the poem?"
+            },
+            "options": [
+              {"hi": "दुखद", "en": "Sad"},
+              {"hi": "सीख देने वाला", "en": "Instructive"},
+              {"hi": "मज़ेदार", "en": "Funny"},
+              {"hi": "अधूरा", "en": "Incomplete"}
+            ],
+            "answer": {"hi": "सीख देने वाला", "en": "Instructive"}
+          },
+          {
+            "q": {
+              "hi": "विद्रोही को कैसा महसूस होता होगा?",
+              "en": "How must the rebel feel?"
+            },
+            "options": [
+              {"hi": "खुश", "en": "Happy"},
+              {"hi": "अकेला", "en": "Lonely"},
+              {"hi": "गर्वित", "en": "Proud"},
+              {"hi": "सब विकल्प सही", "en": "All options correct"}
+            ],
+            "answer": {"hi": "सब विकल्प सही", "en": "All options correct"}
+          },
+          {
+            "q": {
+              "hi": "सबके विपरीत कार्य करना क्या कहलाता है?",
+              "en": "Doing the opposite of everyone is called?"
+            },
+            "options": [
+              {"hi": "विद्रोह", "en": "Rebellion"},
+              {"hi": "दोस्ती", "en": "Friendship"},
+              {"hi": "मदद", "en": "Help"},
+              {"hi": "पढ़ाई", "en": "Study"}
+            ],
+            "answer": {"hi": "विद्रोह", "en": "Rebellion"}
+          },
+          {
+            "q": {
+              "hi": "क्या विद्रोही दूसरों को आकर्षित करता है?",
+              "en": "Does the rebel attract others?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": {
+              "hi": "कविता की भाषा कैसी है?",
+              "en": "How is the language of the poem?"
+            },
+            "options": [
+              {"hi": "कठिन", "en": "Difficult"},
+              {"hi": "सरल और मनोरंजक", "en": "Simple and entertaining"},
+              {"hi": "गंभीर", "en": "Serious"},
+              {"hi": "अस्पष्ट", "en": "Vague"}
+            ],
+            "answer": {"hi": "सरल और मनोरंजक", "en": "Simple and entertaining"}
+          },
+          {
+            "q": {
+              "hi": "क्या हमें विद्रोहियों का सम्मान करना चाहिए?",
+              "en": "Should we respect rebels?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "कभी नहीं", "en": "Never"},
+              {"hi": "शायद", "en": "Maybe"}
+            ],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {
+              "hi": "कविता में 'uniform' का अर्थ क्या है?",
+              "en": "What is the meaning of 'uniform' in the poem?"
+            },
+            "options": [
+              {"hi": "एक सा पोशाक", "en": "A standard dress"},
+              {"hi": "शानदार कपड़े", "en": "Fantastic clothes"},
+              {"hi": "किताबें", "en": "Books"},
+              {"hi": "जूते", "en": "Shoes"}
+            ],
+            "answer": {"hi": "एक सा पोशाक", "en": "A standard dress"}
+          }
         ]
       },
     "chapter03a":{
