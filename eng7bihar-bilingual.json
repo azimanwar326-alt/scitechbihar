@@ -4484,128 +4484,516 @@
           }
         ]
       },
-   "chapter04aa": {
+   "chapter04b": {
         "section1": [
-          {"q": {"hi": "प्रभात क्या करना हमेशा चाहता था?", "en": "What did Prabhat always want to do?"}, "options": [{"hi": "हारना", "en": "To lose"}, {"hi": "जीतना", "en": "To win"}, {"hi": "खेलना", "en": "To play"}, {"hi": "सोना", "en": "To sleep"}], "answer": {"hi": "जीतना", "en": "To win"}},
-          {"q": {"hi": "प्रभात क्या बर्दाश्त नहीं कर सकता था?", "en": "What could Prabhat not bear?"}, "options": [{"hi": "जीतना", "en": "Winning"}, {"hi": "हारना", "en": "Losing"}, {"hi": "दौड़ना", "en": "Running"}, {"hi": "खाना", "en": "Eating"}], "answer": {"hi": "हारना", "en": "Losing"}},
-          {"q": {"hi": "यदि प्रभात को हारने का डर होता, तो वह क्या करता?", "en": "What would Prabhat do if he sensed he would lose?"}, "options": [{"hi": "खेल खेलता", "en": "Play the game"}, {"hi": "नहीं खेलता", "en": "Would not play it"}, {"hi": "जीत जाता", "en": "Win"}, {"hi": "रोता", "en": "Cry"}], "answer": {"hi": "नहीं खेलता", "en": "Would not play it"}},
-          {"q": {"hi": "प्रभात किस खेल में अच्छा था?", "en": "What game was Prabhat good at?"}, "options": [{"hi": "बैडमिंटन", "en": "Badminton"}, {"hi": "क्रिकेट", "en": "Cricket"}, {"hi": "फुटबॉल", "en": "Football"}, {"hi": "कबड्डी", "en": "Kabaddi"}], "answer": {"hi": "बैडमिंटन", "en": "Badminton"}},
-          {"q": {"hi": "स्कूल में नया छात्र कौन आया?", "en": "Who was the new student in school?"}, "options": [{"hi": "सूरिया", "en": "Surya"}, {"hi": "राहुल", "en": "Rahul"}, {"hi": "मारियो", "en": "Mario"}, {"hi": "प्रभात", "en": "Prabhat"}], "answer": {"hi": "सूरिया", "en": "Surya"}},
-          {"q": {"hi": "मैच में स्कोर रखने की जिम्मेदारी किसकी थी?", "en": "Who was responsible for keeping the score?"}, "options": [{"hi": "कोच", "en": "Coach"}, {"hi": "सूरिया", "en": "Surya"}, {"hi": "प्रभात", "en": "Prabhat"}, {"hi": "किसी की नहीं", "en": "None"}], "answer": {"hi": "प्रभात", "en": "Prabhat"}},
-          {"q": {"hi": "सूरिया मैच को कैसे ले रहा था?", "en": "How was Surya taking the match?"}, "options": [{"hi": "सीरियस होकर", "en": "Seriously"}, {"hi": "तनाव में", "en": "In tension"}, {"hi": "तनावमुक्त (relaxed)", "en": "Relaxed"}, {"hi": "डरकर", "en": "Afraid"}], "answer": {"hi": "तनावमुक्त (relaxed)", "en": "Relaxed"}},
-          {"q": {"hi": "बैडमिंटन कोर्ट पर सूर्या कैसा था?", "en": "What was Surya like on the badminton court?"}, "options": [{"hi": "एक असली प्रतिभा (phenomenon)", "en": "A real phenomenon"}, {"hi": "कमजोर", "en": "Weak"}, {"hi": "उदास", "en": "Sad"}, {"hi": "बीमार", "en": "Sick"}], "answer": {"hi": "एक असली प्रतिभा (phenomenon)", "en": "A real phenomenon"}},
-          {"q": {"hi": "प्रभात ने मैच कैसे जीता?", "en": "How did Prabhat win the match?"}, "options": [{"hi": "ईमानदारी से", "en": "Honestly"}, {"hi": "धोखाधड़ी से (cheating)", "en": "By cheating"}, {"hi": "मेहनत से", "en": "Hard work"}, {"hi": "कोच की मदद से", "en": "Coach's help"}], "answer": {"hi": "धोखाधड़ी से (cheating)", "en": "By cheating"}},
-          {"q": {"hi": "जीतने के बाद प्रभात कैसा महसूस कर रहा था?", "en": "How was Prabhat feeling after winning?"}, "options": [{"hi": "खुश", "en": "Happy"}, {"hi": "दुखी/असंतोष", "en": "Not happy as usual"}, {"hi": "गर्वित", "en": "Proud"}, {"hi": "उत्साहित", "en": "Excited"}], "answer": {"hi": "दुखी/असंतोष", "en": "Not happy as usual"}}
+          {
+            "q": { "hi": "कविता में 'grown-ups' का क्या अर्थ है?", "en": "What is the meaning of 'grown-ups' in the poem?" },
+            "options": [
+              {"hi": "बच्चे", "en": "Children"},
+              {"hi": "बड़े लोग / वयस्क", "en": "Adults"},
+              {"hi": "शिक्षक", "en": "Teachers"},
+              {"hi": "मित्र", "en": "Friends"}
+            ],
+            "answer": { "hi": "बड़े लोग / वयस्क", "en": "Adults" }
+          },
+          {
+            "q": { "hi": "माइकल की माँ ने उसे किस लिए स्कूल ले जाया था?", "en": "Why did Michael's mother take him to school?" },
+            "options": [
+              {"hi": "खेलने के लिए", "en": "To play"},
+              {"hi": "प्रवेश (admission) के लिए", "en": "For admission"},
+              {"hi": "पिकनिक के लिए", "en": "For a picnic"},
+              {"hi": "दौड़ने के लिए", "en": "To run"}
+            ],
+            "answer": { "hi": "प्रवेश (admission) के लिए", "en": "For admission" }
+          },
+          {
+            "q": { "hi": "शिक्षक ने माइकल से क्या पूछा?", "en": "What did the teacher ask Michael?" },
+            "options": [
+              {"hi": "तुम्हारी उम्र क्या है?", "en": "What is your age?"},
+              {"hi": "तुम्हारी माँ घर पर तुम्हें क्या बुलाती हैं?", "en": "What does your mother call you at home?"},
+              {"hi": "क्या तुम खेलना जानते हो?", "en": "Do you know how to play?"},
+              {"hi": "क्या तुम मेरा नाम जानते हो?", "en": "Do you know my name?"}
+            ],
+            "answer": { "hi": "तुम्हारी माँ घर पर तुम्हें क्या बुलाती हैं?", "en": "What does your mother call you at home?" }
+          },
+          {
+            "q": { "hi": "माइकल ने क्या उत्तर दिया?", "en": "What was Michael's confident reply?" },
+            "options": [
+              {"hi": "माइकल", "en": "Michael"},
+              {"hi": "माइकल डोंट", "en": "Michael Don't"},
+              {"hi": "मेरा नाम माइकल है", "en": "My name is Michael"},
+              {"hi": "नहीं पता", "en": "Don't know"}
+            ],
+            "answer": { "hi": "माइकल डोंट", "en": "Michael Don't" }
+          },
+          {
+            "q": { "hi": "'Chivvy' का शब्दकोश के अनुसार क्या अर्थ है?", "en": "What is the meaning of 'Chivvy' according to the dictionary?" },
+            "options": [
+              {"hi": "खुश करना", "en": "To please"},
+              {"hi": "लगातार काम के लिए प्रेरित करना (to nag)", "en": "To nag / continuously urge"},
+              {"hi": "आराम करना", "en": "To rest"},
+              {"hi": "गाना", "en": "To sing"}
+            ],
+            "answer": { "hi": "लगातार काम के लिए प्रेरित करना (to nag)", "en": "To nag / continuously urge" }
+          },
+          {
+            "q": { "hi": "बड़े लोग क्या कहते हैं?", "en": "What do grown-ups say?" },
+            "options": [
+              {"hi": "Speak up", "en": "Speak up"},
+              {"hi": "Don't point", "en": "Don't point"},
+              {"hi": "Don't interrupt", "en": "Don't interrupt"},
+              {"hi": "उपरोक्त सभी", "en": "All of the above"}
+            ],
+            "answer": { "hi": "उपरोक्त सभी", "en": "All of the above" }
+          },
+          {
+            "q": { "hi": "मुंह भर कर बात करने के बारे में बड़े लोग क्या निर्देश देते हैं?", "en": "What instruction do grown-ups give about talking with a full mouth?" },
+            "options": [
+              {"hi": "Don't talk", "en": "Don't talk"},
+              {"hi": "Speak loudly", "en": "Speak loudly"},
+              {"hi": "Say please", "en": "Say please"},
+              {"hi": "Don't point", "en": "Don't point"}
+            ],
+            "answer": { "hi": "Don't talk", "en": "Don't talk" }
+          },
+          {
+            "q": { "hi": "क्या बड़े लोग हमेशा बच्चों को कुछ न कुछ करने के लिए कहते हैं?", "en": "Do grown-ups always tell children what to do?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "कभी-कभी", "en": "Sometimes"}
+            ],
+            "answer": { "hi": "हाँ", "en": "Yes" }
+          },
+          {
+            "q": { "hi": "बड़ों के अनुसार शोर कैसा होना चाहिए?", "en": "According to grown-ups, how should the noise be?" },
+            "options": [
+              {"hi": "ज़्यादा", "en": "More"},
+              {"hi": "कम (Less noise)", "en": "Less noise"},
+              {"hi": "बहुत तेज़", "en": "Very loud"},
+              {"hi": "सामान्य", "en": "Normal"}
+            ],
+            "answer": { "hi": "कम (Less noise)", "en": "Less noise" }
+          },
+          {
+            "q": { "hi": "दरवाजा बंद करने के लिए क्या निर्देश दिया जाता है?", "en": "What instruction is given to shut the door?" },
+            "options": [
+              {"hi": "Shut the door behind you", "en": "Shut the door behind you"},
+              {"hi": "Open the door", "en": "Open the door"},
+              {"hi": "Don't shut the door", "en": "Don't shut the door"},
+              {"hi": "Break the door", "en": "Break the door"}
+            ],
+            "answer": { "hi": "Shut the door behind you", "en": "Shut the door behind you" }
+          }
         ],
         "section2": [
-          {"q": {"hi": "क्या सूर्या हारने से दुखी था?", "en": "Was Surya sad about losing?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "नहीं", "en": "No"}},
-          {"q": {"hi": "अगले दिन सूर्या क्या खेल रहा था?", "en": "What was Surya playing the next day?"}, "options": [{"hi": "टेनिस", "en": "Tennis"}, {"hi": "बास्केटबॉल", "en": "Basketball"}, {"hi": "बैडमिंटन", "en": "Badminton"}, {"hi": "क्रिकेट", "en": "Cricket"}], "answer": {"hi": "बास्केटबॉल", "en": "Basketball"}},
-          {"q": {"hi": "बास्केटबॉल में सूर्या कैसा था?", "en": "How was Surya at basketball?"}, "options": [{"hi": "बेहतरीन", "en": "Excellent"}, {"hi": "बुरा", "en": "Good"}, {"hi": "नाकाम (hopeless)", "en": "Hopeless"}, {"hi": "औसत", "en": "Average"}], "answer": {"hi": "नाकाम (hopeless)", "en": "Hopeless"}},
-          {"q": {"hi": "बास्केटबॉल में हार के बावजूद सूर्या कैसा था?", "en": "How was Surya despite losing in basketball?"}, "options": [{"hi": "दुखी", "en": "Sad"}, {"hi": "खुश (happy smile)", "en": "Happy"}, {"hi": "गुस्से में", "en": "Angry"}, {"hi": "रो रहा था", "en": "Crying"}], "answer": {"hi": "खुश (happy smile)", "en": "Happy"}},
-          {"q": {"hi": "प्रभात क्या कर रहा था?", "en": "What was Prabhat doing?"}, "options": [{"hi": "सो रहा था", "en": "Sleeping"}, {"hi": "सूर्य पर नज़र रख रहा था (close watch)", "en": "Keeping close watch on Surya"}, {"hi": "पढ़ रहा था", "en": "Studying"}, {"hi": "खेल रहा था", "en": "Playing"}], "answer": {"hi": "सूर्य पर नज़र रख रहा था (close watch)", "en": "Keeping close watch on Surya"}},
-          {"q": {"hi": "प्रभात ने क्या महसूस किया?", "en": "What did Prabhat realize?"}, "options": [{"hi": "खेल का आनंद लेना जरूरी है", "en": "Need to enjoy the game"}, {"hi": "जीतना जरूरी है", "en": "Winning is important"}, {"hi": "स्कोर्स जरूरी हैं", "en": "Scores matter"}, {"hi": "कुछ नहीं", "en": "Nothing"}], "answer": {"hi": "खेल का आनंद लेना जरूरी है", "en": "Need to enjoy the game"}},
-          {"q": {"hi": "प्रभात में क्या बदलाव आया?", "en": "What change came in Prabhat?"}, "options": [{"hi": "वह बुरा हो गया", "en": "Became bad"}, {"hi": "उसने हारना स्वीकार किया", "en": "Started realizing change in himself"}, {"hi": "वह और घमंडी हो गया", "en": "Became arrogant"}, {"hi": "वह नहीं बदला", "en": "Did not change"}], "answer": {"hi": "उसने हारना स्वीकार किया", "en": "Started realizing change in himself"}},
-          {"q": {"hi": "प्रभात ने अब कौन सा खेल शुरू किया?", "en": "What game did Prabhat start playing now?"}, "options": [{"hi": "लुका-छिपी (hide and seek)", "en": "Hide and seek"}, {"hi": "शतरंज", "en": "Chess"}, {"hi": "फुटबॉल", "en": "Football"}, {"hi": "टेबल टेनिस", "en": "Table tennis"}], "answer": {"hi": "लुका-छिपी (hide and seek)", "en": "Hide and seek"}},
-          {"q": {"hi": "दूसरे छात्र क्या कहने लगे?", "en": "What did other students start saying?"}, "options": [{"hi": "प्रभात अच्छा खिलाड़ी है", "en": "Great sporting spirit"}, {"hi": "वह बुरा है", "en": "He is bad"}, {"hi": "वह धोखेबाज है", "en": "He is a cheat"}, {"hi": "वह आलसी है", "en": "He is lazy"}], "answer": {"hi": "प्रभात अच्छा खिलाड़ी है", "en": "Great sporting spirit"}},
-          {"q": {"hi": "खेल में क्या मायने रखता है?", "en": "What matters in a game?"}, "options": [{"hi": "सिर्फ स्कोर", "en": "Only score"}, {"hi": "आनंद लेना और प्रयास करना", "en": "Enjoying and trying well"}, {"hi": "जीत", "en": "Victory"}, {"hi": "हार", "en": "Defeat"}], "answer": {"hi": "आनंद लेना और प्रयास करना", "en": "Enjoying and trying well"}}
+          {
+            "q": { "hi": "बड़े लोग क्या करने से मना करते हैं?", "en": "What do grown-ups forbid?" },
+            "options": [
+              {"hi": "Point", "en": "Point"},
+              {"hi": "Pick your nose", "en": "Pick your nose"},
+              {"hi": "Stare", "en": "Stare"},
+              {"hi": "उपरोक्त सभी", "en": "All of the above"}
+            ],
+            "answer": { "hi": "उपरोक्त सभी", "en": "All of the above" }
+          },
+          {
+            "q": { "hi": "कवि के अनुसार बड़े लोग क्या पूछते हैं?", "en": "What do grown-ups ask according to the poet?" },
+            "options": [
+              {"hi": "क्या तुम खुश हो?", "en": "Are you happy?"},
+              {"hi": "Haven't you got a hankie?", "en": "Haven't you got a hankie?"},
+              {"hi": "क्या तुम खेलना चाहते हो?", "en": "Do you want to play?"},
+              {"hi": "तुम क्या कर रहे हो?", "en": "What are you doing?"}
+            ],
+            "answer": { "hi": "Haven't you got a hankie?", "en": "Haven't you got a hankie?" }
+          },
+          {
+            "q": { "hi": "बड़े लोग कहाँ से हाथ निकालने को कहते हैं?", "en": "Where do grown-ups tell children to take their hands out from?" },
+            "options": [
+              {"hi": "जेब (pockets)", "en": "Pockets"},
+              {"hi": "बैग", "en": "Bag"},
+              {"hi": "मेज", "en": "Table"},
+              {"hi": "टोकरी", "en": "Basket"}
+            ],
+            "answer": { "hi": "जेब (pockets)", "en": "Pockets" }
+          },
+          {
+            "q": { "hi": "मोज़े के बारे में क्या कहा जाता है?", "en": "What is said about socks?" },
+            "options": [
+              {"hi": "Pull your socks up", "en": "Pull your socks up"},
+              {"hi": "Remove socks", "en": "Remove socks"},
+              {"hi": "Wash socks", "en": "Wash socks"},
+              {"hi": "Hide socks", "en": "Hide socks"}
+            ],
+            "answer": { "hi": "Pull your socks up", "en": "Pull your socks up" }
+          },
+          {
+            "q": { "hi": "बात करने के बीच में क्या नहीं करना चाहिए?", "en": "What should not be done in the middle of talking?" },
+            "options": [
+              {"hi": "Interrupt", "en": "Interrupt"},
+              {"hi": "Speak", "en": "Speak"},
+              {"hi": "Listen", "en": "Listen"},
+              {"hi": "Laugh", "en": "Laugh"}
+            ],
+            "answer": { "hi": "Interrupt", "en": "Interrupt" }
+          },
+          {
+            "q": { "hi": "मेज से क्या हटाने को कहा जाता है?", "en": "What are children told to take off the table?" },
+            "options": [
+              {"hi": "Plate", "en": "Plate"},
+              {"hi": "Elbows", "en": "Elbows"},
+              {"hi": "Spoons", "en": "Spoons"},
+              {"hi": "Books", "en": "Books"}
+            ],
+            "answer": { "hi": "Elbows", "en": "Elbows" }
+          },
+          {
+            "q": { "hi": "बड़े लोग क्या करने के लिए कहते हैं?", "en": "What do grown-ups tell to do?" },
+            "options": [
+              {"hi": "Say please", "en": "Say please"},
+              {"hi": "Say thank you", "en": "Say thank you"},
+              {"hi": "Stand up straight", "en": "Stand up straight"},
+              {"hi": "उपरोक्त सभी", "en": "All of the above"}
+            ],
+            "answer": { "hi": "उपरोक्त सभी", "en": "All of the above" }
+          },
+          {
+            "q": { "hi": "बड़े लोग हँसी के बारे में क्या कहते हैं?", "en": "What do grown-ups say about funny behavior?" },
+            "options": [
+              {"hi": "You are funny", "en": "You are funny"},
+              {"hi": "No one thinks you're funny", "en": "No one thinks you're funny"},
+              {"hi": "Keep laughing", "en": "Keep laughing"},
+              {"hi": "Don't laugh", "en": "Don't laugh"}
+            ],
+            "answer": { "hi": "No one thinks you're funny", "en": "No one thinks you're funny" }
+          },
+          {
+            "q": { "hi": "क्या बच्चे अपने फैसले खुद नहीं ले सकते?", "en": "Can't children make their own mind up?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं (according to grown-ups)", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "हमेशा", "en": "Always"}
+            ],
+            "answer": { "hi": "नहीं (according to grown-ups)", "en": "No" }
+          },
+          {
+            "q": { "hi": "इस कविता के लेखक कौन हैं?", "en": "Who is the author of this poem?" },
+            "options": [
+              {"hi": "माइकल रोज़न", "en": "Michael Rosen"},
+              {"hi": "माइकल डोंट", "en": "Michael Don't"},
+              {"hi": "फ्रैंक फ्लिन", "en": "Frank Flynn"},
+              {"hi": "डी.जे. एनराइट", "en": "D.J. Enright"}
+            ],
+            "answer": { "hi": "माइकल रोज़न", "en": "Michael Rosen" }
+          }
         ],
         "section3": [
-          {"q": {"hi": "'Defeat' का क्या अर्थ है?", "en": "What is the meaning of 'Defeat'?"}, "options": [{"hi": "जीत", "en": "Victory"}, {"hi": "हार (loss)", "en": "Loss"}, {"hi": "खेल", "en": "Game"}, {"hi": "मज़ा", "en": "Fun"}], "answer": {"hi": "हार (loss)", "en": "Loss"}},
-          {"q": {"hi": "'Terrible' का क्या अर्थ है?", "en": "What is the meaning of 'Terrible'?"}, "options": [{"hi": "बहुत अच्छा", "en": "Great"}, {"hi": "असहज/नाखुश", "en": "Unhappy"}, {"hi": "सुंदर", "en": "Beautiful"}, {"hi": "मजबूत", "en": "Strong"}], "answer": {"hi": "असहज/नाखुश", "en": "Unhappy"}},
-          {"q": {"hi": "'Phenomenon' का क्या अर्थ है?", "en": "What is the meaning of 'Phenomenon'?"}, "options": [{"hi": "सामान्य व्यक्ति", "en": "Normal person"}, {"hi": "विशेष गुणों वाला", "en": "Someone with special qualities"}, {"hi": "बुरा खिलाड़ी", "en": "Bad player"}, {"hi": "आलसी", "en": "Lazy"}], "answer": {"hi": "विशेष गुणों वाला", "en": "Someone with special qualities"}},
-          {"q": {"hi": "'Hopeless' का क्या अर्थ है?", "en": "What is the meaning of 'Hopeless'?"}, "options": [{"hi": "कुशल", "en": "Skilled"}, {"hi": "कोई कौशल न होना", "en": "Having no skill"}, {"hi": "खुश", "en": "Happy"}, {"hi": "शानदार", "en": "Great"}], "answer": {"hi": "कोई कौशल न होना", "en": "Having no skill"}},
-          {"q": {"hi": "क्या प्रभात को हारना पसंद था?", "en": "Did Prabhat like losing?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "नहीं", "en": "No"}},
-          {"q": {"hi": "क्या सूर्या ने मैच को गंभीरता से लिया?", "en": "Did Surya take the match seriously?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "पता नहीं", "en": "Don't know"}, {"hi": "शायद", "en": "Maybe"}], "answer": {"hi": "नहीं", "en": "No"}},
-          {"q": {"hi": "क्या प्रभात ने अपनी गलती सुधारी?", "en": "Did Prabhat correct his mistake?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "प्रभात का खेल के प्रति नज़रिया क्या था?", "en": "What was Prabhat's view towards sports?"}, "options": [{"hi": "सिर्फ जीत", "en": "Only win"}, {"hi": "खेल का आनंद", "en": "Enjoyment"}, {"hi": "सीखना", "en": "Learning"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "सिर्फ जीत", "en": "Only win"}},
-          {"q": {"hi": "क्या सूर्या एक अच्छा खिलाड़ी था?", "en": "Was Surya a good player?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "प्रभात को हारने में क्या लगता था?", "en": "How did Prabhat feel about losing?"}, "options": [{"hi": "बुरा", "en": "Bad/Terrible"}, {"hi": "अच्छा", "en": "Good"}, {"hi": "सामान्य", "en": "Normal"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "बुरा", "en": "Bad/Terrible"}}
+          {
+            "q": { "hi": "क्या बड़े लोग बच्चों को टोकते रहते हैं?", "en": "Do grown-ups nag children continuously?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "कभी नहीं", "en": "Never"},
+              {"hi": "शायद", "en": "Maybe"}
+            ],
+            "answer": { "hi": "हाँ", "en": "Yes" }
+          },
+          {
+            "q": { "hi": "क्या बच्चों को यह अच्छा लगता है?", "en": "Do children like this?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "अक्सर", "en": "Often"}
+            ],
+            "answer": { "hi": "नहीं", "en": "No" }
+          },
+          {
+            "q": { "hi": "माइकल की माँ उसे घर पर क्या बुलाती थी?", "en": "What did Michael's mother call him at home?" },
+            "options": [
+              {"hi": "माइकल", "en": "Michael"},
+              {"hi": "माइकल डोंट", "en": "Michael Don't"},
+              {"hi": "बच्चा", "en": "Child"},
+              {"hi": "बेटा", "en": "Son"}
+            ],
+            "answer": { "hi": "माइकल डोंट", "en": "Michael Don't" }
+          },
+          {
+            "q": { "hi": "क्या बड़े लोग बच्चों को बैठने का तरीका भी बताते हैं?", "en": "Do grown-ups tell children how to sit?" },
+            "options": [
+              {"hi": "हाँ (Sit up)", "en": "Yes (Sit up)"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "कभी नहीं", "en": "Never"}
+            ],
+            "answer": { "hi": "हाँ (Sit up)", "en": "Yes (Sit up)" }
+          },
+          {
+            "q": { "hi": "पैर घसीट कर चलने के लिए क्या कहा जाता है?", "en": "What is said about dragging feet?" },
+            "options": [
+              {"hi": "Don't drag your feet", "en": "Don't drag your feet"},
+              {"hi": "Drag your feet", "en": "Drag your feet"},
+              {"hi": "Run fast", "en": "Run fast"},
+              {"hi": "Walk slowly", "en": "Walk slowly"}
+            ],
+            "answer": { "hi": "Don't drag your feet", "en": "Don't drag your feet" }
+          },
+          {
+            "q": { "hi": "क्या बड़े लोग बच्चों को घूरने से मना करते हैं?", "en": "Do grown-ups forbid staring?" },
+            "options": [
+              {"hi": "हाँ (Don't stare)", "en": "Yes (Don't stare)"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "हमेशा", "en": "Always"}
+            ],
+            "answer": { "hi": "हाँ (Don't stare)", "en": "Yes (Don't stare)" }
+          },
+          {
+            "q": { "hi": "क्या बड़े लोग खाने के टेबल पर नियम बताते हैं?", "en": "Do grown-ups set rules at the dinner table?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "कभी नहीं", "en": "Never"}
+            ],
+            "answer": { "hi": "हाँ", "en": "Yes" }
+          },
+          {
+            "q": { "hi": "क्या बड़े लोग बच्चों की बात काटते हैं?", "en": "Do grown-ups interrupt children?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "उल्टा, वे बच्चों को रोकने को कहते हैं", "en": "No, they tell children not to"}
+            ],
+            "answer": { "hi": "उल्टा, वे बच्चों को रोकने को कहते हैं", "en": "No, they tell children not to" }
+          },
+          {
+            "q": { "hi": "कविता का मूल स्वर कैसा है?", "en": "How is the tone of the poem?" },
+            "options": [
+              {"hi": "गंभीर", "en": "Serious"},
+              {"hi": "व्यंग्यात्मक / हल्का-फुल्का", "en": "Humorous / Satirical"},
+              {"hi": "दुखद", "en": "Sad"},
+              {"hi": "डरावना", "en": "Scary"}
+            ],
+            "answer": { "hi": "व्यंग्यात्मक / हल्का-फुल्का", "en": "Humorous / Satirical" }
+          },
+          {
+            "q": { "hi": "क्या बच्चों के लिए बड़ों की ये बातें परेशान करने वाली हैं?", "en": "Are these grown-up things annoying for children?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "हमेशा", "en": "Always"}
+            ],
+            "answer": { "hi": "हाँ", "en": "Yes" }
+          }
         ],
         "section4": [
-          {"q": {"hi": "प्रभात ने स्कोरबोर्ड क्यों बदला?", "en": "Why did Prabhat change the scoreboard?"}, "options": [{"hi": "जीतने के लिए", "en": "To win"}, {"hi": "खेल को मजेदार बनाने के लिए", "en": "To make it fun"}, {"hi": "मज़ाक में", "en": "As a joke"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "जीतने के लिए", "en": "To win"}},
-          {"q": {"hi": "क्या खेल का आनंद लेना महत्वपूर्ण है?", "en": "Is enjoying the game important?"}, "options": [{"hi": "पता नहीं", "en": "Don't know"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या प्रभात को अब खेलने में मज़ा आता था?", "en": "Did Prabhat enjoy playing now?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "प्रभात की नई सोच क्या थी?", "en": "What was Prabhat's new thinking?"}, "options": [{"hi": "खेल का आनंद लेना", "en": "Enjoy the game"}, {"hi": "किसी को हराना", "en": "Defeat others"}, {"hi": "सिर्फ जीतना", "en": "Only win"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "खेल का आनंद लेना", "en": "Enjoy the game"}},
-          {"q": {"hi": "मैच के बाद सूर्या ने क्या कहा?", "en": "What did Surya say after the match?"}, "options": [{"hi": "फिर खेलेंगे", "en": "We should play again"}, {"hi": "तुम चीटर हो", "en": "You are a cheater"}, {"hi": "मैं जीत गया", "en": "I won"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "फिर खेलेंगे", "en": "We should play again"}},
-          {"q": {"hi": "क्या प्रभात के माता-पिता उसकी हार न सहने की आदत से चिंतित थे?", "en": "Were his parents worried about his inability to lose?"}, "options": [{"hi": "शायद", "en": "Maybe"}, {"hi": "नहीं", "en": "No"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "प्रभात ने किसको करीब से देखा?", "en": "Whom did Prabhat watch closely?"}, "options": [{"hi": "कोच", "en": "Coach"}, {"hi": "सूरिया", "en": "Surya"}, {"hi": "दोस्तों", "en": "Friends"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "सूरिया", "en": "Surya"}},
-          {"q": {"hi": "प्रभात को क्या महसूस हुआ?", "en": "What did Prabhat feel?"}, "options": [{"hi": "खुशी", "en": "Happiness"}, {"hi": "परिवर्तन (realized change)", "en": "Realized change in himself"}, {"hi": "क्रोध", "en": "Anger"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "परिवर्तन (realized change)", "en": "Realized change in himself"}},
-          {"q": {"hi": "क्या प्रभात ने बैडमिंटन में मजाक करना शुरू किया?", "en": "Did Prabhat start joking in badminton?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "पता नहीं", "en": "Don't know"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या प्रभात की sporting spirit बढ़ गई थी?", "en": "Did Prabhat's sporting spirit increase?"}, "options": [{"hi": "शायद", "en": "Maybe"}, {"hi": "नहीं", "en": "No"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}}
+          {
+            "q": { "hi": "नाक में उंगली डालने पर क्या निर्देश है?", "en": "What is the instruction on picking nose?" },
+            "options": [
+              {"hi": "Pick your nose", "en": "Pick your nose"},
+              {"hi": "Don't pick your nose", "en": "Don't pick your nose"},
+              {"hi": "Use tissue", "en": "Use tissue"},
+              {"hi": "Wash nose", "en": "Wash nose"}
+            ],
+            "answer": { "hi": "Don't pick your nose", "en": "Don't pick your nose" }
+          },
+          {
+            "q": { "hi": "क्या बड़ों को लगता है कि बच्चे मजाकिया हैं?", "en": "Do grown-ups think children are funny?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "कभी-कभी", "en": "Sometimes"}
+            ],
+            "answer": { "hi": "नहीं", "en": "No" }
+          },
+          {
+            "q": { "hi": "क्या बड़ों के निर्देश कभी खत्म होते हैं?", "en": "Do instructions from grown-ups ever end?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "कभी-कभी", "en": "Sometimes"}
+            ],
+            "answer": { "hi": "नहीं", "en": "No" }
+          },
+          {
+            "q": { "hi": "बड़े लोग क्या पूछकर बच्चों की स्वतंत्रता पर सवाल उठाते हैं?", "en": "What do grown-ups ask to question children's independence?" },
+            "options": [
+              {"hi": "Can't you make your own mind up?", "en": "Can't you make your own mind up?"},
+              {"hi": "Are you happy?", "en": "Are you happy?"},
+              {"hi": "Do you want to play?", "en": "Do you want to play?"},
+              {"hi": "What did you eat?", "en": "What did you eat?"}
+            ],
+            "answer": { "hi": "Can't you make your own mind up?", "en": "Can't you make your own mind up?" }
+          },
+          {
+            "q": { "hi": "बड़े लोग क्या कहते हैं?", "en": "What do grown-ups say?" },
+            "options": [
+              {"hi": "Speak up", "en": "Speak up"},
+              {"hi": "Say please", "en": "Say please"},
+              {"hi": "Say thank you", "en": "Say thank you"},
+              {"hi": "उपरोक्त सभी", "en": "All of the above"}
+            ],
+            "answer": { "hi": "उपरोक्त सभी", "en": "All of the above" }
+          },
+          {
+            "q": { "hi": "क्या कविता बच्चों की समस्याओं को दर्शाती है?", "en": "Does the poem show children's problems?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "कभी नहीं", "en": "Never"}
+            ],
+            "answer": { "hi": "हाँ", "en": "Yes" }
+          },
+          {
+            "q": { "hi": "बड़े लोग इशारा करने के बारे में क्या कहते हैं?", "en": "What do grown-ups say about pointing?" },
+            "options": [
+              {"hi": "Point", "en": "Point"},
+              {"hi": "Don't point", "en": "Don't point"},
+              {"hi": "Look", "en": "Look"},
+              {"hi": "Touch", "en": "Touch"}
+            ],
+            "answer": { "hi": "Don't point", "en": "Don't point" }
+          },
+          {
+            "q": { "hi": "क्या बच्चों के पास रुमाल (hankie) होना चाहिए?", "en": "Should children have a hankie?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "ज़रूरी नहीं", "en": "Not necessary"}
+            ],
+            "answer": { "hi": "हाँ", "en": "Yes" }
+          },
+          {
+            "q": { "hi": "बड़े लोग खड़े होने के बारे में क्या कहते हैं?", "en": "What do grown-ups say about standing?" },
+            "options": [
+              {"hi": "Sit down", "en": "Sit down"},
+              {"hi": "Stand up straight", "en": "Stand up straight"},
+              {"hi": "Run", "en": "Run"},
+              {"hi": "Jump", "en": "Jump"}
+            ],
+            "answer": { "hi": "Stand up straight", "en": "Stand up straight" }
+          },
+          {
+            "q": { "hi": "क्या बच्चों को बड़ों की बात माननी चाहिए?", "en": "Should children listen to grown-ups?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "कभी नहीं", "en": "Never"},
+              {"hi": "शायद", "en": "Maybe"}
+            ],
+            "answer": { "hi": "हाँ", "en": "Yes" }
+          }
         ],
         "section5": [
-          {"q": {"hi": "प्रभात क्या बर्दाश्त नहीं कर सकता था?", "en": "What could Prabhat not bear?"}, "options": [{"hi": "जीतना", "en": "Winning"}, {"hi": " हारना", "en": "Losing"}, {"hi": "खेल", "en": "Game"}, {"hi": "पढ़ना", "en": "Reading"}], "answer": {"hi": " हारना", "en": "Losing"}},
-          {"q": {"hi": "क्या सूर्या को खेल के स्कोर की परवाह थी?", "en": "Did Surya care about the game score?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "नहीं", "en": "No"}},
-          {"q": {"hi": "क्या प्रभात को अंत में खुशी मिली?", "en": "Did Prabhat find happiness in the end?"}, "options": [{"hi": "पता नहीं", "en": "Don't know"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "प्रभात ने बैडमिंटन के अलावा कौन सा खेल खेलना शुरू किया?", "en": "What game did Prabhat start playing besides badminton?"}, "options": [{"hi": "लुका-छिपी", "en": "Hide and seek"}, {"hi": "क्रिकेट", "en": "Cricket"}, {"hi": "फुटबॉल", "en": "Football"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "लुका-छिपी", "en": "Hide and seek"}},
-          {"q": {"hi": "क्या कोच फ्रेंडली मैच करवाते थे?", "en": "Did the coach organize friendly matches?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "नहीं", "en": "No"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "प्रभात के दोस्त उसके खेल के बारे में क्या कहते थे?", "en": "What did friends say about his game?"}, "options": [{"hi": "वह अच्छा खेलता था", "en": "He played so well"}, {"hi": "बुरा", "en": "Bad"}, {"hi": "पता नहीं", "en": "Don't know"}, {"hi": "शायद", "en": "Maybe"}], "answer": {"hi": "वह अच्छा खेलता था", "en": "He played so well"}},
-          {"q": {"hi": "क्या प्रभात का स्वभाव बदला?", "en": "Did Prabhat's behavior change?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "प्रभात का सूर्या को देखना क्या था?", "en": "What was Prabhat observing in Surya?"}, "options": [{"hi": "उसकी प्रतिभा", "en": "Talent"}, {"hi": "उसका आनंद", "en": "His enjoyment"}, {"hi": "उसकी हार", "en": "His loss"}, {"hi": "कुछ नहीं", "en": "None"}], "answer": {"hi": "उसका आनंद", "en": "His enjoyment"}},
-          {"q": {"hi": "क्या खेल में जीतना ही सब कुछ है?", "en": "Is winning everything in a game?"}, "options": [{"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "नहीं", "en": "No"}},
-          {"q": {"hi": "प्रभात की हार की चिंता क्यों कम हो गई?", "en": "Why did Prabhat's worry about losing decrease?"}, "options": [{"hi": "खेल का आनंद लेने से", "en": "By enjoying the game"}, {"hi": "جیتنے سے", "en": "Winning"}, {"hi": "पता नहीं", "en": "Don't know"}, {"hi": "शायद", "en": "Maybe"}], "answer": {"hi": "खेल का आनंद लेने से", "en": "By enjoying the game"}}
-        ]
-      },
-    "chapter04b": {
-        "section1": [
-          {"q": {"hi": "वे शाम को कहाँ खेलते हैं?", "en": "Where do they play in the evenings?"}, "options": [{"hi": "पड़ोसी के खेत के पास", "en": "Next to the neighbour's field"}, {"hi": "घर के अंदर", "en": "Inside the house"}, {"hi": "स्कूल में", "en": "In school"}, {"hi": "सड़क पर", "en": "On the road"}], "answer": {"hi": "पड़ोसी के खेत के पास", "en": "Next to the neighbour's field"}},
-          {"q": {"hi": "वे शाम को क्या खेलते हैं?", "en": "What do they play in the evenings?"}, "options": [{"hi": "क्रिकेट", "en": "Cricket"}, {"hi": "बैडमिंटन", "en": "Badminton"}, {"hi": "गेंद (ball)", "en": "Ball"}, {"hi": "लुका-छिपी", "en": "Hide and seek"}], "answer": {"hi": "गेंद (ball)", "en": "Ball"}},
-          {"q": {"hi": "दौड़ते समय क्या होता है?", "en": "What happens when they run?"}, "options": [{"hi": "साँस फूल जाती है", "en": "Can't catch breath"}, {"hi": "वे गिर जाते हैं", "en": "They fall"}, {"hi": "वे हंसते हैं", "en": "They laugh"}, {"hi": "वे सो जाते हैं", "en": "They sleep"}], "answer": {"hi": "साँस फूल जाती है", "en": "Can't catch breath"}},
-          {"q": {"hi": "अंधेरा होने पर क्या होता है?", "en": "What happens when it gets dark?"}, "options": [{"hi": "वे घर जाते हैं", "en": "They go home"}, {"hi": "खेल जारी रहता है", "en": "Game continues"}, {"hi": "वे सोते हैं", "en": "They sleep"}, {"hi": "बारिश होती है", "en": "It rains"}], "answer": {"hi": "वे घर जाते हैं", "en": "They go home"}},
-          {"q": {"hi": "ठंडी घास पैरों को क्या करती है?", "en": "What does the cold grass do to their feet?"}, "options": [{"hi": "दर्द देती है (aches)", "en": "Aches"}, {"hi": "ठंडा करती है", "en": "Cools"}, {"hi": "गीला करती है", "en": "Wets"}, {"hi": "साफ करती है", "en": "Cleans"}], "answer": {"hi": "दर्द देती है (aches)", "en": "Aches"}},
-          {"q": {"hi": "पेड़ क्या करते हैं?", "en": "What do the trees do?"}, "options": [{"hi": "पास आ जाते हैं (creep close)", "en": "Creep close"}, {"hi": "दूर जाते हैं", "en": "Go away"}, {"hi": "गिर जाते हैं", "en": "Fall"}, {"hi": "हँसते हैं", "en": "Laugh"}], "answer": {"hi": "पास आ जाते हैं (creep close)", "en": "Creep close"}},
-          {"q": {"hi": "खेल का क्या होता है?", "en": "What happens to the game?"}, "options": [{"hi": "खेल खत्म (game's over)", "en": "Game's over"}, {"hi": "खेल शुरू", "en": "Game starts"}, {"hi": "जीत गए", "en": "Won"}, {"hi": "हार गए", "en": "Lost"}], "answer": {"hi": "खेल खत्म (game's over)", "en": "Game's over"}},
-          {"q": {"hi": "रात में कौन जीतता है?", "en": "Who wins at night?"}, "options": [{"hi": "बच्चे", "en": "Children"}, {"hi": "पेड़", "en": "Trees"}, {"hi": "रात (Night)", "en": "Night"}, {"hi": "गेंद", "en": "Ball"}], "answer": {"hi": "रात (Night)", "en": "Night"}},
-          {"q": {"hi": "कविता की कवयित्री कौन है?", "en": "Who is the poet of the poem?"}, "options": [{"hi": "जीन डी ला फोंटेन", "en": "Jean de La Fontaine"}, {"hi": "जॉर्जिया हर्ड (Georgia Heard)", "en": "Georgia Heard"}, {"hi": "सुधा मूर्ति", "en": "Sudha Murty"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "जॉर्जिया हर्ड (Georgia Heard)", "en": "Georgia Heard"}},
-          {"q": {"hi": "क्या कविता में शाम का वर्णन है?", "en": "Does the poem describe the evening?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}}
-        ],
-        "section2": [
-          {"q": {"hi": "खेल का मैदान कहाँ स्थित है?", "en": "Where is the playground located?"}, "options": [{"hi": "फील्ड में", "en": "In the field"}, {"hi": "नदी के पास (creek)", "en": "Next to the creek"}, {"hi": "स्कूल के पीछे", "en": "Behind school"}, {"hi": "घर के पास", "en": "Near house"}], "answer": {"hi": "नदी के पास (creek)", "en": "Next to the creek"}},
-          {"q": {"hi": "क्या बच्चे तेज दौड़ते हैं?", "en": "Do the children run fast?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "अंधेरा कैसा है?", "en": "What is the dark like?"}, "options": [{"hi": "काला (black)", "en": "Black"}, {"hi": "लाल", "en": "Red"}, {"hi": "नीला", "en": "Blue"}, {"hi": "पीला", "en": "Yellow"}], "answer": {"hi": "काला (black)", "en": "Black"}},
-          {"q": {"hi": "क्या घास ठंडी है?", "en": "Is the grass cold?"}, "options": [{"hi": "शायद", "en": "Maybe"}, {"hi": "नहीं", "en": "No"}, {"hi": "पता नहीं", "en": "Don't know"}, {"hi": "हाँ", "en": "Yes"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या पेड़ हिल रहे हैं?", "en": "Are the trees moving?"}, "options": [{"hi": "हाँ (पास आ रहे हैं)", "en": "Yes (creep close)"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "नहीं", "en": "No"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ (पास आ रहे हैं)", "en": "Yes (creep close)"}},
-          {"q": {"hi": "रात होने पर कौन जीतता है?", "en": "Who wins at night?"}, "options": [{"hi": "मैदान", "en": "Field"}, {"hi": "गेंद", "en": "Ball"}, {"hi": "रात", "en": "Night"}, {"hi": "पेड़", "en": "Trees"}], "answer": {"hi": "रात", "en": "Night"}},
-          {"q": {"hi": "क्या कविता में बहुत शांति है?", "en": "Is there a lot of peace in the poem?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "खेल कब खत्म होता है?", "en": "When does the game end?"}, "options": [{"hi": "रात होने पर", "en": "At night"}, {"hi": "सुबह होने पर", "en": "In the morning"}, {"hi": "दोपहर में", "en": "In the afternoon"}, {"hi": "शाम में", "en": "In the evening"}], "answer": {"hi": "रात होने पर", "en": "At night"}},
-          {"q": {"hi": "बच्चे कहां दौड़ते हैं?", "en": "Where do children run?"}, "options": [{"hi": "पड़ोसी के खेत में", "en": "In neighbour's field"}, {"hi": "सड़क पर", "en": "On road"}, {"hi": "स्कूल में", "en": "In school"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "पड़ोसी के खेत में", "en": "In neighbour's field"}},
-          {"q": {"hi": "क्या खेल मजेदार है?", "en": "Is the game fun?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "हाँ", "en": "Yes"}}
-        ],
-        "section3": [
-          {"q": {"hi": "'Creek' का क्या अर्थ है?", "en": "What is the meaning of 'Creek'?"}, "options": [{"hi": "छोटी नदी/नाला", "en": "Small stream"}, {"hi": "पहाड़", "en": "Mountain"}, {"hi": "पेड़", "en": "Tree"}, {"hi": "घर", "en": "House"}], "answer": {"hi": "छोटी नदी/नाला", "en": "Small stream"}},
-          {"q": {"hi": "'Aches' का क्या अर्थ है?", "en": "What is the meaning of 'Aches'?"}, "options": [{"hi": "खुजली", "en": "Itching"}, {"hi": "दर्द (pain)", "en": "Pain"}, {"hi": "ठंड", "en": "Cold"}, {"hi": "गरमी", "en": "Heat"}], "answer": {"hi": "दर्द (pain)", "en": "Pain"}},
-          {"q": {"hi": "'Creep' का क्या अर्थ है?", "en": "What is the meaning of 'Creep'?"}, "options": [{"hi": "धीरे-धीरे चलना", "en": "Move slowly"}, {"hi": "दौड़ना", "en": "Run"}, {"hi": "उड़ना", "en": "Fly"}, {"hi": "सोना", "en": "Sleep"}], "answer": {"hi": "धीरे-धीरे चलना", "en": "Move slowly"}},
-          {"q": {"hi": "क्या घास बच्चों के पैरों को ठंडा करती है?", "en": "Does the grass cool the children's feet?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "नहीं (दर्द देती है)", "en": "No (aches)"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "नहीं (दर्द देती है)", "en": "No (aches)"}},
-          {"q": {"hi": "कविता किस समय के बारे में है?", "en": "What time is the poem about?"}, "options": [{"hi": "सुबह", "en": "Morning"}, {"hi": "शाम/रात", "en": "Evening/Night"}, {"hi": "दोपहर", "en": "Afternoon"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "शाम/रात", "en": "Evening/Night"}},
-          {"q": {"hi": "क्या रात जीतती है?", "en": "Does night win?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या बच्चे थक गए हैं?", "en": "Are the children tired?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "नहीं", "en": "No"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "पेड़ का पास आना क्या दर्शाता है?", "en": "What does the tree coming close show?"}, "options": [{"hi": "अंधेरा (darkness)", "en": "Darkness"}, {"hi": "सुबह", "en": "Morning"}, {"hi": "खेल", "en": "Game"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "अंधेरा (darkness)", "en": "Darkness"}},
-          {"q": {"hi": "क्या यह कविता छोटी है?", "en": "Is this poem short?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या बच्चों को खेलना पसंद है?", "en": "Do children like playing?"}, "options": [{"hi": "पता नहीं", "en": "Don't know"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}], "answer": {"hi": "हाँ", "en": "Yes"}}
-        ],
-        "section4": [
-          {"q": {"hi": "क्या घास का दर्द पैरों को महसूस होता है?", "en": "Does the grass pain reach the feet?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "नहीं", "en": "No"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या रात अंधेरी होती है?", "en": "Is the night dark?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "नहीं", "en": "No"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "पड़ोसी का खेत क्या है?", "en": "What is the neighbour's field?"}, "options": [{"hi": "खेल का मैदान", "en": "Playground"}, {"hi": "घर", "en": "Home"}, {"hi": "स्कूल", "en": "School"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "खेल का मैदान", "en": "Playground"}},
-          {"q": {"hi": "क्या बच्चे गेंद खेलते हैं?", "en": "Do the children play ball?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या रात जीतना एक रूपक (metaphor) है?", "en": "Is 'night wins' a metaphor?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या पेड़ धीरे-धीरे चलते हैं?", "en": "Do trees move slowly?"}, "options": [{"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या कविता में दौड़ने का उल्लेख है?", "en": "Is there a mention of running in the poem?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या घास का दर्द सुखद है या दुखद?", "en": "Is the grass pain pleasant or painful?"}, "options": [{"hi": "सुखद", "en": "Pleasant"}, {"hi": "दुखद/दर्द (painful)", "en": "Painful"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "दुखद/दर्द (painful)", "en": "Painful"}},
-          {"q": {"hi": "क्या बच्चों के पास सांस लेने का समय है?", "en": "Do the children have time to catch breath?"}, "options": [{"hi": "नहीं (can't catch)", "en": "No (can't catch)"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "नहीं (can't catch)", "en": "No (can't catch)"}},
-          {"q": {"hi": "क्या शाम के खेल अच्छे होते हैं?", "en": "Are evening games good?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}}
-        ],
-        "section5": [
-          {"q": {"hi": "क्या कविता का दृश्य शांत है?", "en": "Is the scene of the poem peaceful?"}, "options": [{"hi": "शायद", "en": "Maybe"}, {"hi": "नहीं", "en": "No"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या बच्चों को घर वापस जाना पड़ता है?", "en": "Do children have to go back home?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "नहीं", "en": "No"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या रात और दिन का चक्र है?", "en": "Is there a day and night cycle?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या पेड़ का पास आना डरावना है?", "en": "Is the tree coming close scary?"}, "options": [{"hi": "शायद", "en": "Maybe"}, {"hi": "नहीं", "en": "No"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "नहीं", "en": "No"}},
-          {"q": {"hi": "क्या यह कविता प्रकृति पर आधारित है?", "en": "Is this poem based on nature?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या गेंद का खेल शाम को होता है?", "en": "Is the ball game in the evening?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "नहीं", "en": "No"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या बच्चे थक गए हैं?", "en": "Are the children tired?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या रात का अंधेरा काला है?", "en": "Is the night dark black?"}, "options": [{"hi": "शायद", "en": "Maybe"}, {"hi": "नहीं", "en": "No"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या कविता में खुशी है?", "en": "Is there happiness in the poem?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "नहीं", "en": "No"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या आप इस कविता से सहमत हैं?", "en": "Do you agree with this poem?"}, "options": [{"hi": "शायद", "en": "Maybe"}, {"hi": "नहीं", "en": "No"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}}
+          {
+            "q": { "hi": "क्या बड़े लोग बच्चों को टोकते रहते हैं?", "en": "Do grown-ups always nag children?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": { "hi": "हाँ", "en": "Yes" }
+          },
+          {
+            "q": { "hi": "क्या बच्चे अपनी मनमर्जी कर सकते हैं?", "en": "Can children do things according to their wish?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "सब सही है", "en": "All correct"}
+            ],
+            "answer": { "hi": "नहीं", "en": "No" }
+          },
+          {
+            "q": { "hi": "कविता का उद्देश्य क्या है?", "en": "What is the aim of the poem?" },
+            "options": [
+              {"hi": "बच्चों को सिखाना", "en": "To teach children"},
+              {"hi": "बड़ों के व्यवहार पर मज़ाक", "en": "Humor on grown-ups' behavior"},
+              {"hi": "बच्चों को डराना", "en": "To scare children"},
+              {"hi": "पढ़ाई करना", "en": "To study"}
+            ],
+            "answer": { "hi": "बड़ों के व्यवहार पर मज़ाक", "en": "Humor on grown-ups' behavior" }
+          },
+          {
+            "q": { "hi": "क्या बड़े लोग वास्तव में बच्चों का भला चाहते हैं?", "en": "Do grown-ups really want the good of children?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": { "hi": "हाँ", "en": "Yes" }
+          },
+          {
+            "q": { "hi": "माइकल डोंट नाम क्यों पड़ा?", "en": "Why was the name Michael Don't given?" },
+            "options": [
+              {"hi": "वह शरारती था", "en": "He was naughty"},
+              {"hi": "उसकी माँ हमेशा टोकती थी", "en": "His mother nagged"},
+              {"hi": "वह बोलना नहीं जानता था", "en": "He didn't know how to speak"},
+              {"hi": "सब सही है", "en": "All correct"}
+            ],
+            "answer": { "hi": "उसकी माँ हमेशा टोकती थी", "en": "His mother nagged" }
+          },
+          {
+            "q": { "hi": "क्या बच्चे बड़ों के नियमों से ऊब जाते हैं?", "en": "Do children get bored of grown-ups' rules?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": { "hi": "हाँ", "en": "Yes" }
+          },
+          {
+            "q": { "hi": "क्या बड़े लोग हमेशा सही होते हैं?", "en": "Are grown-ups always right?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": { "hi": "नहीं", "en": "No" }
+          },
+          {
+            "q": { "hi": "क्या कविता का हर शब्द निर्देश है?", "en": "Is every word of the poem an instruction?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": { "hi": "हाँ", "en": "Yes" }
+          },
+          {
+            "q": { "hi": "क्या बड़े लोग बात करने के ढंग पर टोकते हैं?", "en": "Do grown-ups nag on speaking habits?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": { "hi": "हाँ", "en": "Yes" }
+          },
+          {
+            "q": { "hi": "क्या कविता में बड़ों की प्रशंसा की गई है?", "en": "Is there praise of grown-ups in the poem?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": { "hi": "नहीं", "en": "No" }
+          }
         ]
       },
     "chapter04c":{
