@@ -6170,1415 +6170,575 @@
           }
         ]
       },
-    "chapter05bb":  {
+    "chapter06a":  {
         "section1": [
           {
             "q": {
-              "hi": "बच्चे शाम को कहाँ खेलते हैं?",
-              "en": "Where do children play in the evenings?"
+              "hi": "निशाद माया से मिस्टर नाथ के बारे में क्या कहता है?",
+              "en": "What does Nishad say to Maya about Mr. Nath?"
             },
             "options": [
-              {
-                "hi": "पड़ोसी के खेत में",
-                "en": "In neighbour's field"
-              },
-              {
-                "hi": "स्कूल में",
-                "en": "School"
-              },
-              {
-                "hi": "घर पर",
-                "en": "Home"
-              },
-              {
-                "hi": "सड़क पर",
-                "en": "Road"
-              }
+              {"hi": "वह एक राक्षस है", "en": "He is a monster"},
+              {"hi": "वह बिल्कुल भी राक्षस जैसा नहीं दिखता", "en": "He doesn't look anything like a monster"},
+              {"hi": "वह एक अपराधी है", "en": "He is a criminal"},
+              {"hi": "वह बहुत अमीर है", "en": "He is very rich"}
             ],
-            "answer": {
-              "hi": "पड़ोसी के खेत में",
-              "en": "In neighbour's field"
-            }
+            "answer": {"hi": "वह बिल्कुल भी राक्षस जैसा नहीं दिखता", "en": "He doesn't look anything like a monster"}
           },
           {
             "q": {
-              "hi": "बच्चे शाम को क्या खेलते हैं?",
-              "en": "What do children play in the evenings?"
+              "hi": "माया को क्या लगता है मिस्टर नाथ के पास कहाँ छिपा है?",
+              "en": "Where does Maya think Mr. Nath has hidden his money?"
             },
             "options": [
-              {
-                "hi": "क्रिकेट",
-                "en": "Cricket"
-              },
-              {
-                "hi": "गेंद (Ball)",
-                "en": "Ball"
-              },
-              {
-                "hi": "बैडमिंटन",
-                "en": "Badminton"
-              },
-              {
-                "hi": "लुका-छिपी",
-                "en": "Hide and seek"
-              }
+              {"hi": "बैंक में", "en": "In the bank"},
+              {"hi": "अपने कमरे में", "en": "Somewhere in his room"},
+              {"hi": "अपने दोस्त के पास", "en": "With his friend"},
+              {"hi": "बाहर कहीं", "en": "Somewhere outside"}
             ],
-            "answer": {
-              "hi": "गेंद (Ball)",
-              "en": "Ball"
-            }
+            "answer": {"hi": "अपने कमरे में", "en": "Somewhere in his room"}
           },
           {
             "q": {
-              "hi": "दौड़ते समय क्या होता है?",
-              "en": "What happens when they run?"
+              "hi": "मिस्टर नाथ के लिए खाना कौन लाता है?",
+              "en": "Who brings meals for Mr. Nath?"
             },
             "options": [
-              {
-                "hi": "वे थक जाते हैं",
-                "en": "They get tired"
-              },
-              {
-                "hi": "उनकी सांस फूल जाती है",
-                "en": "They can't catch breath"
-              },
-              {
-                "hi": "वे रुक जाते हैं",
-                "en": "They stop"
-              },
-              {
-                "hi": "वे गिर जाते हैं",
-                "en": "They fall"
-              }
+              {"hi": "मेहर मेहता", "en": "Mr. Mehta"},
+              {"hi": "रमेश", "en": "Ramesh"},
+              {"hi": "निशाद", "en": "Nishad"},
+              {"hi": "माया", "en": "Maya"}
             ],
-            "answer": {
-              "hi": "उनकी सांस फूल जाती है",
-              "en": "They can't catch breath"
-            }
+            "answer": {"hi": "रमेश", "en": "Ramesh"}
           },
           {
             "q": {
-              "hi": "अंधेरा होने पर क्या होता है?",
-              "en": "What happens when it gets dark?"
+              "hi": "निशाद को मिस्टर नाथ के बारे में क्या संदेह है?",
+              "en": "What is Nishad doubtful about regarding Mr. Nath?"
             },
             "options": [
-              {
-                "hi": "वे घर जाते हैं",
-                "en": "They go home"
-              },
-              {
-                "hi": "वे खेलना जारी रखते हैं",
-                "en": "Continue playing"
-              },
-              {
-                "hi": "वे सोते हैं",
-                "en": "Sleep"
-              },
-              {
-                "hi": "बारिश होती है",
-                "en": "Rain"
-              }
+              {"hi": "वह एक अपराधी है", "en": "He is a criminal"},
+              {"hi": "वह अमीर है", "en": "He is rich"},
+              {"hi": "वह एक कलाकार है", "en": "He is an artist"},
+              {"hi": "वह बहुत खाना खाता है", "en": "He eats a lot"}
             ],
-            "answer": {
-              "hi": "वे घर जाते हैं",
-              "en": "They go home"
-            }
+            "answer": {"hi": "वह एक अपराधी है", "en": "He is a criminal"}
           },
           {
             "q": {
-              "hi": "घास पैरों को क्या करती है?",
-              "en": "What does the grass do to their feet?"
+              "hi": "माया के अनुसार मिस्टर नाथ के चेहरे पर चोट के निशान कैसे आए होंगे?",
+              "en": "According to Maya, how did Mr. Nath get scars on his face?"
             },
             "options": [
-              {
-                "hi": "ठंडा करती है",
-                "en": "Cools"
-              },
-              {
-                "hi": "दर्द देती है (Aches)",
-                "en": "Aches"
-              },
-              {
-                "hi": "गीला करती है",
-                "en": "Wets"
-              },
-              {
-                "hi": "गर्म करती है",
-                "en": "Warms"
-              }
+              {"hi": "गिरने से", "en": "By falling"},
+              {"hi": "पुलिस के साथ गोलीबारी में", "en": "During a shoot-out with police"},
+              {"hi": "खेलते समय", "en": "While playing"},
+              {"hi": "बीमारी से", "en": "By disease"}
             ],
-            "answer": {
-              "hi": "दर्द देती है (Aches)",
-              "en": "Aches"
-            }
+            "answer": {"hi": "पुलिस के साथ गोलीबारी में", "en": "During a shoot-out with police"}
           },
           {
             "q": {
-              "hi": "अंधेरा होने पर पेड़ क्या करते हैं?",
-              "en": "What do trees do when it gets dark?"
+              "hi": "मम्मी ने निशान के बारे में क्या स्पष्ट किया?",
+              "en": "What did Mummy clarify about the scars?"
             },
             "options": [
-              {
-                "hi": "दूर जाते हैं",
-                "en": "Go away"
-              },
-              {
-                "hi": "पास आ जाते हैं (Creep close)",
-                "en": "Creep close"
-              },
-              {
-                "hi": "हँसते हैं",
-                "en": "Laugh"
-              },
-              {
-                "hi": "झुक जाते हैं",
-                "en": "Bend"
-              }
+              {"hi": "वे जलने के निशान हैं", "en": "They were burn scars"},
+              {"hi": "वे पुराने चोट हैं", "en": "They were old injuries"},
+              {"hi": "वे जन्म के निशान हैं", "en": "They were birth marks"},
+              {"hi": "वे किसी ने बनाए हैं", "en": "Someone made them"}
             ],
-            "answer": {
-              "hi": "पास आ जाते हैं (Creep close)",
-              "en": "Creep close"
-            }
+            "answer": {"hi": "वे जलने के निशान हैं", "en": "They were burn scars"}
           },
           {
             "q": {
-              "hi": "खेल कब खत्म होता है?",
-              "en": "When does the game end?"
+              "hi": "मिस्टर नाथ क्या काम करते हैं?",
+              "en": "What does Mr. Nath do for a living?"
             },
             "options": [
-              {
-                "hi": "शाम में",
-                "en": "Evening"
-              },
-              {
-                "hi": "रात होने पर (Game's over)",
-                "en": "Game's over"
-              },
-              {
-                "hi": "दोपहर में",
-                "en": "Afternoon"
-              },
-              {
-                "hi": "सुबह",
-                "en": "Morning"
-              }
+              {"hi": "शिक्षक", "en": "Teacher"},
+              {"hi": "डॉक्टर", "en": "Doctor"},
+              {"hi": "वह कहीं काम नहीं करते", "en": "He doesn't work anywhere"},
+              {"hi": "व्यापारी", "en": "Trader"}
             ],
-            "answer": {
-              "hi": "रात होने पर (Game's over)",
-              "en": "Game's over"
-            }
+            "answer": {"hi": "वह कहीं काम नहीं करते", "en": "He doesn't work anywhere"}
           },
           {
             "q": {
-              "hi": "रात में अंततः कौन जीतता है?",
-              "en": "Who wins at night?"
+              "hi": "मिस्टर नाथ के पास पैसे कहाँ से आते हैं?",
+              "en": "Where does Mr. Nath get money from?"
             },
             "options": [
-              {
-                "hi": "मैदान",
-                "en": "Field"
-              },
-              {
-                "hi": "गेंद",
-                "en": "Ball"
-              },
-              {
-                "hi": "रात (Night wins)",
-                "en": "Night wins"
-              },
-              {
-                "hi": "बच्चे",
-                "en": "Children"
-              }
+              {"hi": "काम से", "en": "From work"},
+              {"hi": "माया का अनुमान है कि छिपा हुआ धन है", "en": "Maya guesses hidden money"},
+              {"hi": "परिवार से", "en": "From family"},
+              {"hi": "पेंशन से", "en": "From pension"}
             ],
-            "answer": {
-              "hi": "रात (Night wins)",
-              "en": "Night wins"
-            }
+            "answer": {"hi": "माया का अनुमान है कि छिपा हुआ धन है", "en": "Maya guesses hidden money"}
           },
           {
             "q": {
-              "hi": "कवयित्री का नाम क्या है?",
-              "en": "Who is the poet of the poem?"
+              "hi": "निशाद ने मिस्टर नाथ को क्या दिया?",
+              "en": "What did Nishad give Mr. Nath?"
             },
             "options": [
-              {
-                "hi": "जॉर्जिया हर्ड",
-                "en": "Georgia Heard"
-              },
-              {
-                "hi": "डैफने लिस्टर",
-                "en": "Daphne Lister"
-              },
-              {
-                "hi": "सुधा मूर्ति",
-                "en": "Sudha Murty"
-              },
-              {
-                "hi": "कोई नहीं",
-                "en": "None"
-              }
+              {"hi": "फल", "en": "Fruits"},
+              {"hi": "चॉकलेट की एक पट्टी", "en": "A bar of chocolate"},
+              {"hi": "फूल", "en": "Flowers"},
+              {"hi": "पत्र", "en": "Letter"}
             ],
-            "answer": {
-              "hi": "डैफने लिस्टर",
-              "en": "Daphne Lister"
-            }
+            "answer": {"hi": "चॉकलेट की एक पट्टी", "en": "A bar of chocolate"}
           },
           {
             "q": {
-              "hi": "कविता में किस चीज का वर्णन है?",
-              "en": "What does the poem describe?"
+              "hi": "क्या मिस्टर नाथ ने निशाद को अंदर बुलाया?",
+              "en": "Did Mr. Nath invite Nishad inside?"
             },
             "options": [
-              {
-                "hi": "शाम के खेल",
-                "en": "Evening games"
-              },
-              {
-                "hi": "सुबह की सैर",
-                "en": "Morning walk"
-              },
-              {
-                "hi": "घर",
-                "en": "Home"
-              },
-              {
-                "hi": "स्कूल",
-                "en": "School"
-              }
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
             ],
-            "answer": {
-              "hi": "शाम के खेल",
-              "en": "Evening games"
-            }
+            "answer": {"hi": "नहीं", "en": "No"}
           }
         ],
         "section2": [
           {
             "q": {
-              "hi": "पतंगें कहाँ उड़ रही हैं?",
-              "en": "Where are the kites flying?"
+              "hi": "रमेश के अनुसार मिस्टर नाथ कैसा खाना खाते हैं?",
+              "en": "According to Ramesh, what kind of food does Mr. Nath eat?"
             },
             "options": [
-              {
-                "hi": "आसमान में (Up in the air)",
-                "en": "Up in the air"
-              },
-              {
-                "hi": "पेड़ पर",
-                "en": "On tree"
-              },
-              {
-                "hi": "घर पर",
-                "en": "At home"
-              },
-              {
-                "hi": "पानी में",
-                "en": "In water"
-              }
+              {"hi": "बहुत स्वादिष्ट", "en": "Very delicious"},
+              {"hi": "साधारण और एक जैसा", "en": "Simple and same food"},
+              {"hi": "कुछ नहीं", "en": "Nothing"},
+              {"hi": "महँगा", "en": "Expensive"}
             ],
-            "answer": {
-              "hi": "आसमान में (Up in the air)",
-              "en": "Up in the air"
-            }
+            "answer": {"hi": "साधारण और एक जैसा", "en": "Simple and same food"}
           },
           {
             "q": {
-              "hi": "पतंगें किसके समान उड़ रही हैं?",
-              "en": "Kites are flying like what?"
+              "hi": "रमेश क्या जानकारी देता है?",
+              "en": "What information does Ramesh provide?"
             },
             "options": [
-              {
-                "hi": "रंगीन पक्षी (coloured birds)",
-                "en": "Coloured birds"
-              },
-              {
-                "hi": "हवाई जहाज",
-                "en": "Aeroplane"
-              },
-              {
-                "hi": "बादल",
-                "en": "Clouds"
-              },
-              {
-                "hi": "फूल",
-                "en": "Flowers"
-              }
+              {"hi": "मिस्टर नाथ अमीर हैं", "en": "Mr. Nath is rich"},
+              {"hi": "मिस्टर नाथ के पास एक आगंतुक (visitor) आता है", "en": "Mr. Nath has a visitor"},
+              {"hi": "मिस्टर नाथ बहुत बोलते हैं", "en": "Mr. Nath talks a lot"},
+              {"hi": "मिस्टर नाथ कहीं जाते हैं", "en": "Mr. Nath goes out"}
             ],
-            "answer": {
-              "hi": "रंगीन पक्षी (coloured birds)",
-              "en": "Coloured birds"
-            }
+            "answer": {"hi": "मिस्टर नाथ के पास एक आगंतुक (visitor) आता है", "en": "Mr. Nath has a visitor"}
           },
           {
             "q": {
-              "hi": "कवयित्री क्या बनना चाहती है?",
-              "en": "What does the poet wish to be?"
+              "hi": "आगंतुक कैसा दिखता है?",
+              "en": "How does the visitor look?"
             },
             "options": [
-              {
-                "hi": "पक्षी",
-                "en": "Bird"
-              },
-              {
-                "hi": "छोटी और हल्की (small and light)",
-                "en": "Small and light as air"
-              },
-              {
-                "hi": "पेड़",
-                "en": "Tree"
-              },
-              {
-                "hi": "गेंद",
-                "en": "Ball"
-              }
+              {"hi": "लंबा, गोरा और हट्टा-कट्टा", "en": "Tall, fair and stout"},
+              {"hi": "नाटा और काला", "en": "Short and dark"},
+              {"hi": "पतला और कमजोर", "en": "Thin and weak"},
+              {"hi": "बच्चा", "en": "Child"}
             ],
-            "answer": {
-              "hi": "छोटी और हल्की (small and light)",
-              "en": "Small and light as air"
-            }
+            "answer": {"hi": "लंबा, गोरा और हट्टा-कट्टा", "en": "Tall, fair and stout"}
           },
           {
             "q": {
-              "hi": "कवयित्री किस पर चढ़ना चाहती है?",
-              "en": "What does the poet want to climb on?"
+              "hi": "क्या मिस्टर नाथ और आगंतुक एक जैसे हैं?",
+              "en": "Are Mr. Nath and the visitor similar?"
             },
             "options": [
-              {
-                "hi": "पतंग (kite)",
-                "en": "A kite"
-              },
-              {
-                "hi": "पेड़",
-                "en": "Tree"
-              },
-              {
-                "hi": "घर",
-                "en": "House"
-              },
-              {
-                "hi": "पहाड़",
-                "en": "Mountain"
-              }
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं, वे अलग हैं", "en": "No, they are different"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "भाई हैं", "en": "They are brothers"}
             ],
-            "answer": {
-              "hi": "पतंग (kite)",
-              "en": "A kite"
-            }
+            "answer": {"hi": "नहीं, वे अलग हैं", "en": "No, they are different"}
           },
           {
             "q": {
-              "hi": "हवा के पंख किसके हैं?",
-              "en": "What has paper wings?"
+              "hi": "माया और निशाद ने खुद को क्या कहा?",
+              "en": "What did Maya and Nishad call themselves?"
             },
             "options": [
-              {
-                "hi": "पक्षी",
-                "en": "Bird"
-              },
-              {
-                "hi": "पतंग (Kite)",
-                "en": "Kite"
-              },
-              {
-                "hi": "हवाई जहाज",
-                "en": "Aeroplane"
-              },
-              {
-                "hi": "बादल",
-                "en": "Cloud"
-              }
+              {"hi": "जासूस", "en": "Detectives"},
+              {"hi": "विशेषज्ञ जासूस", "en": "Expert Detectives"},
+              {"hi": "पुलिस", "en": "Police"},
+              {"hi": "खिलाड़ी", "en": "Players"}
             ],
-            "answer": {
-              "hi": "पतंग (Kite)",
-              "en": "Kite"
-            }
+            "answer": {"hi": "विशेषज्ञ जासूस", "en": "Expert Detectives"}
           },
           {
             "q": {
-              "hi": "पतंग पर उड़ते हुए वह क्या सुनती है?",
-              "en": "What does she hear while sailing on a kite?"
+              "hi": "अपराधियों के बारे में माया का क्या विचार है?",
+              "en": "What is Maya's opinion about criminals?"
             },
             "options": [
-              {
-                "hi": "हवा के गीत (songs of wild wind)",
-                "en": "Songs of wild wind"
-              },
-              {
-                "hi": "लोगों की बातें",
-                "en": "People talking"
-              },
-              {
-                "hi": "गाना",
-                "en": "Song"
-              },
-              {
-                "hi": "शोर",
-                "en": "Noise"
-              }
+              {"hi": "वे डरावने दिखते हैं", "en": "They look scary"},
+              {"hi": "वे सामान्य दिख सकते हैं", "en": "They can look ordinary"},
+              {"hi": "वे हमेशा अमीर होते हैं", "en": "They are always rich"},
+              {"hi": "वे बच्चे होते हैं", "en": "They are children"}
             ],
-            "answer": {
-              "hi": "हवा के गीत (songs of wild wind)",
-              "en": "Songs of wild wind"
-            }
+            "answer": {"hi": "वे सामान्य दिख सकते हैं", "en": "They can look ordinary"}
           },
           {
             "q": {
-              "hi": "पतंग से नीचे देखने पर क्या दिखता है?",
-              "en": "What is visible looking down from the kite?"
+              "hi": "क्या निशाद को लगता है मिस्टर नाथ अपराधी हैं?",
+              "en": "Does Nishad think Mr. Nath is a criminal?"
             },
             "options": [
-              {
-                "hi": "पार्क और छतें",
-                "en": "Park and rooftops"
-              },
-              {
-                "hi": "जंगल",
-                "en": "Forest"
-              },
-              {
-                "hi": "नदी",
-                "en": "River"
-              },
-              {
-                "hi": "समुद्र",
-                "en": "Sea"
-              }
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
             ],
-            "answer": {
-              "hi": "पार्क और छतें",
-              "en": "Park and rooftops"
-            }
+            "answer": {"hi": "नहीं", "en": "No"}
           },
           {
             "q": {
-              "hi": "नीचे खड़े लोग क्या करते हैं?",
-              "en": "What do the people below do?"
+              "hi": "अगले दिन क्या हुआ?",
+              "en": "What happened the next day?"
             },
             "options": [
-              {
-                "hi": "देखते हैं (stare)",
-                "en": "Stand and stare"
-              },
-              {
-                "hi": "खेलते हैं",
-                "en": "Play"
-              },
-              {
-                "hi": "सोते हैं",
-                "en": "Sleep"
-              },
-              {
-                "hi": "दौड़ते हैं",
-                "en": "Run"
-              }
+              {"hi": "धूप निकली", "en": "Sun came out"},
+              {"hi": "मानसून की बारिश हुई", "en": "Monsoons broke / heavy rain"},
+              {"hi": "ठंड थी", "en": "It was cold"},
+              {"hi": "छुट्टी थी", "en": "It was holiday"}
             ],
-            "answer": {
-              "hi": "देखते हैं (stare)",
-              "en": "Stand and stare"
-            }
+            "answer": {"hi": "मानसून की बारिश हुई", "en": "Monsoons broke / heavy rain"}
           },
           {
             "q": {
-              "hi": "लोग क्या चाहते हैं?",
-              "en": "What do people wish for?"
+              "hi": "स्कूल के बारे में क्या हुआ?",
+              "en": "What happened to the school?"
             },
             "options": [
-              {
-                "hi": "पतंग बनना",
-                "en": "To be a kite"
-              },
-              {
-                "hi": "कवयित्री बनना",
-                "en": "To be her/like her"
-              },
-              {
-                "hi": "पक्षी बनना",
-                "en": "To be a bird"
-              },
-              {
-                "hi": "कुछ नहीं",
-                "en": "None"
-              }
+              {"hi": "खुला", "en": "Opened"},
+              {"hi": "अचानक छुट्टी हो गई", "en": "Unexpected holiday"},
+              {"hi": "परीक्षा हुई", "en": "Exams were held"},
+              {"hi": "खेल का दिन था", "en": "Sports day"}
             ],
-            "answer": {
-              "hi": "कवयित्री बनना",
-              "en": "To be her/like her"
-            }
+            "answer": {"hi": "अचानक छुट्टी हो गई", "en": "Unexpected holiday"}
           },
           {
             "q": {
-              "hi": "क्या पतंग ऊँची उड़ती है?",
-              "en": "Does the kite fly high?"
+              "hi": "माया ने अपना समय कैसे बिताने का सोचा?",
+              "en": "How did Maya think of spending her time?"
             },
             "options": [
-              {
-                "hi": "हाँ (High, high)",
-                "en": "Yes (High, high)"
-              },
-              {
-                "hi": "नहीं",
-                "en": "No"
-              },
-              {
-                "hi": "शायद",
-                "en": "Maybe"
-              },
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              }
+              {"hi": "खेलकर", "en": "Playing"},
+              {"hi": "सोकर", "en": "Sleeping"},
+              {"hi": "लिखकर/उपयोग करके", "en": "Usefully (writing)"},
+              {"hi": "खाना खाकर", "en": "Eating"}
             ],
-            "answer": {
-              "hi": "हाँ (High, high)",
-              "en": "Yes (High, high)"
-            }
+            "answer": {"hi": "लिखकर/उपयोग करके", "en": "Usefully (writing)"}
           }
         ],
         "section3": [
           {
-            "q": {
-              "hi": "'Creep' का क्या अर्थ है?",
-              "en": "What is the meaning of 'Creep'?"
-            },
+            "q": { "hi": "क्या माया ने तथ्य इकट्ठा करने का निर्णय लिया?", "en": "Did Maya decide to collect facts?" },
             "options": [
-              {
-                "hi": "तेजी से चलना",
-                "en": "Move fast"
-              },
-              {
-                "hi": "धीरे-धीरे चलना",
-                "en": "Move slowly"
-              },
-              {
-                "hi": "उड़ना",
-                "en": "Fly"
-              },
-              {
-                "hi": "सोना",
-                "en": "Sleep"
-              }
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
             ],
-            "answer": {
-              "hi": "धीरे-धीरे चलना",
-              "en": "Move slowly"
-            }
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "'Aches' का क्या अर्थ है?",
-              "en": "What is the meaning of 'Aches'?"
-            },
+            "q": { "hi": "निशाद का क्या नाम था?", "en": "What was Nishad's name?" },
             "options": [
-              {
-                "hi": "खुजली",
-                "en": "Itching"
-              },
-              {
-                "hi": "दर्द (pain)",
-                "en": "Pain"
-              },
-              {
-                "hi": "ठंड",
-                "en": "Cold"
-              },
-              {
-                "hi": "गरमी",
-                "en": "Heat"
-              }
+              {"hi": "सेवन", "en": "Seven"},
+              {"hi": "माया", "en": "Maya"},
+              {"hi": "नाथ", "en": "Nath"},
+              {"hi": "मेहता", "en": "Mehta"}
             ],
-            "answer": {
-              "hi": "दर्द (pain)",
-              "en": "Pain"
-            }
+            "answer": {"hi": "सेवन", "en": "Seven"}
           },
           {
-            "q": {
-              "hi": "'Creek' क्या है?",
-              "en": "What is a 'Creek'?"
-            },
+            "q": { "hi": "क्या मिस्टर नाथ के पास कोई नौकरी है?", "en": "Does Mr. Nath have any job?" },
             "options": [
-              {
-                "hi": "नदी/नाला (small stream)",
-                "en": "Small stream"
-              },
-              {
-                "hi": "पहाड़",
-                "en": "Mountain"
-              },
-              {
-                "hi": "पेड़",
-                "en": "Tree"
-              },
-              {
-                "hi": "घर",
-                "en": "House"
-              }
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
             ],
-            "answer": {
-              "hi": "नदी/नाला (small stream)",
-              "en": "Small stream"
-            }
+            "answer": {"hi": "नहीं", "en": "No"}
           },
           {
-            "q": {
-              "hi": "क्या घास बच्चों के पैरों को ठंडा करती है?",
-              "en": "Does the grass cool the feet?"
-            },
+            "q": { "hi": "मिस्टर नाथ का खाना कहां से आता है?", "en": "Where does Mr. Nath's food come from?" },
             "options": [
-              {
-                "hi": "नहीं, दर्द देती है",
-                "en": "No (aches)"
-              },
-              {
-                "hi": "हाँ",
-                "en": "Yes"
-              },
-              {
-                "hi": "शायद",
-                "en": "Maybe"
-              },
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              }
+              {"hi": "घर से", "en": "From home"},
+              {"hi": "रेस्टोरेंट से", "en": "From the restaurant downstairs"},
+              {"hi": "बाजार से", "en": "From market"},
+              {"hi": "खेती से", "en": "From farm"}
             ],
-            "answer": {
-              "hi": "नहीं, दर्द देती है",
-              "en": "No (aches)"
-            }
+            "answer": {"hi": "रेस्टोरेंट से", "en": "From the restaurant downstairs"}
           },
           {
-            "q": {
-              "hi": "कविता किस समय के बारे में है?",
-              "en": "What time is the poem about?"
-            },
+            "q": { "hi": "आगंतुक मिस्टर नाथ से क्या करता है?", "en": "What does the visitor do with Mr. Nath?" },
             "options": [
-              {
-                "hi": "दोपहर",
-                "en": "Afternoon"
-              },
-              {
-                "hi": "शाम (Evening)",
-                "en": "Evening"
-              },
-              {
-                "hi": "सुबह",
-                "en": "Morning"
-              },
-              {
-                "hi": "कोई नहीं",
-                "en": "None"
-              }
+              {"hi": "बातें करता है", "en": "Talks a lot"},
+              {"hi": "लड़ता है", "en": "Fights"},
+              {"hi": "चुप रहता है", "en": "Stays quiet"},
+              {"hi": "सोता है", "en": "Sleeps"}
             ],
-            "answer": {
-              "hi": "शाम (Evening)",
-              "en": "Evening"
-            }
+            "answer": {"hi": "बातें करता है", "en": "Talks a lot"}
           },
           {
-            "q": {
-              "hi": "क्या रात जीतती है?",
-              "en": "Does night win?"
-            },
+            "q": { "hi": "माया के अनुसार अपराधी कैसा दिखता है?", "en": "How does a criminal look according to Maya?" },
             "options": [
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              },
-              {
-                "hi": "नहीं",
-                "en": "No"
-              },
-              {
-                "hi": "हाँ",
-                "en": "Yes"
-              },
-              {
-                "hi": "शायद",
-                "en": "Maybe"
-              }
+              {"hi": "डरावना", "en": "Scary"},
+              {"hi": "साधारण", "en": "Ordinary"},
+              {"hi": "अमीर", "en": "Rich"},
+              {"hi": "पागल", "en": "Mad"}
             ],
-            "answer": {
-              "hi": "हाँ",
-              "en": "Yes"
-            }
+            "answer": {"hi": "साधारण", "en": "Ordinary"}
           },
           {
-            "q": {
-              "hi": "क्या बच्चे थक गए हैं?",
-              "en": "Are the children tired?"
-            },
+            "q": { "hi": "क्या निशाद को मिस्टर नाथ के लिए सहानुभूति है?", "en": "Does Nishad feel sympathy for Mr. Nath?" },
             "options": [
-              {
-                "hi": "नहीं",
-                "en": "No"
-              },
-              {
-                "hi": "शायद",
-                "en": "Maybe"
-              },
-              {
-                "hi": "हाँ",
-                "en": "Yes"
-              },
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              }
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
             ],
-            "answer": {
-              "hi": "हाँ",
-              "en": "Yes"
-            }
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "क्या अंधेरा डरावना है?",
-              "en": "Is the darkness scary?"
-            },
+            "q": { "hi": "मिस्टर नाथ ने निशाद को क्या कहा?", "en": "What did Mr. Nath say to Nishad?" },
             "options": [
-              {
-                "hi": "नहीं",
-                "en": "No"
-              },
-              {
-                "hi": "शायद",
-                "en": "Maybe"
-              },
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              },
-              {
-                "hi": "हाँ",
-                "en": "Yes"
-              }
+              {"hi": "Lost another marble?", "en": "Lost another marble?"},
+              {"hi": "Who are you?", "en": "Who are you?"},
+              {"hi": "Go away!", "en": "Go away!"},
+              {"hi": "Give chocolate!", "en": "Give chocolate!"}
             ],
-            "answer": {
-              "hi": "नहीं",
-              "en": "No"
-            }
+            "answer": {"hi": "Lost another marble?", "en": "Lost another marble?"}
           },
           {
-            "q": {
-              "hi": "क्या कविता में शांति है?",
-              "en": "Is there peace in the poem?"
-            },
+            "q": { "hi": "माया जासूस के रूप में कैसी है?", "en": "How is Maya as a detective?" },
             "options": [
-              {
-                "hi": "शायद",
-                "en": "Maybe"
-              },
-              {
-                "hi": "नहीं",
-                "en": "No"
-              },
-              {
-                "hi": "हाँ",
-                "en": "Yes"
-              },
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              }
+              {"hi": "अच्छी", "en": "Good"},
+              {"hi": "उत्साही", "en": "Enthusiastic"},
+              {"hi": "डरी हुई", "en": "Scared"},
+              {"hi": "खराब", "en": "Bad"}
             ],
-            "answer": {
-              "hi": "हाँ",
-              "en": "Yes"
-            }
+            "answer": {"hi": "उत्साही", "en": "Enthusiastic"}
           },
           {
-            "q": {
-              "hi": "खेल कब खत्म होता है?",
-              "en": "When does the game end?"
-            },
+            "q": { "hi": "क्या निशाद माया की बातों से सहमत है?", "en": "Does Nishad agree with Maya?" },
             "options": [
-              {
-                "hi": "रात में",
-                "en": "At night"
-              },
-              {
-                "hi": "शाम में",
-                "en": "In evening"
-              },
-              {
-                "hi": "सुबह",
-                "en": "In morning"
-              },
-              {
-                "hi": "दोपहर",
-                "en": "In afternoon"
-              }
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
             ],
-            "answer": {
-              "hi": "रात में",
-              "en": "At night"
-            }
+            "answer": {"hi": "नहीं", "en": "No"}
           }
         ],
         "section4": [
           {
-            "q": {
-              "hi": "कवयित्री को हवा कैसी लगती है?",
-              "en": "What does the wind feel like?"
-            },
+            "q": { "hi": "क्या मिस्टर नाथ गरीब दिखते हैं?", "en": "Does Mr. Nath look poor?" },
             "options": [
-              {
-                "hi": "तेज",
-                "en": "Fast"
-              },
-              {
-                "hi": "गीत गाती हुई",
-                "en": "Singing songs"
-              },
-              {
-                "hi": "ठंडी",
-                "en": "Cold"
-              },
-              {
-                "hi": "गर्म",
-                "en": "Hot"
-              }
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
             ],
-            "answer": {
-              "hi": "गीत गाती हुई",
-              "en": "Singing songs"
-            }
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "पतंग किस पंखों पर उड़ती है?",
-              "en": "Kite flies on what wings?"
-            },
+            "q": { "hi": "रमेश ने मिस्टर नाथ के बारे में क्या बताया?", "en": "What did Ramesh tell about Mr. Nath?" },
             "options": [
-              {
-                "hi": "कागज के (paper wings)",
-                "en": "Paper wings"
-              },
-              {
-                "hi": "पक्षी के",
-                "en": "Bird wings"
-              },
-              {
-                "hi": "कपड़े के",
-                "en": "Cloth wings"
-              },
-              {
-                "hi": "कोई नहीं",
-                "en": "None"
-              }
+              {"hi": "वह अच्छा है", "en": "He is good"},
+              {"hi": "वह अमीर है", "en": "He is rich"},
+              {"hi": "वह खाना खाता है", "en": "He eats food"},
+              {"hi": "वह रहस्यमयी है", "en": "He is mysterious"}
             ],
-            "answer": {
-              "hi": "कागज के (paper wings)",
-              "en": "Paper wings"
-            }
+            "answer": {"hi": "वह खाना खाता है", "en": "He eats food"}
           },
           {
-            "q": {
-              "hi": "क्या लोग पतंग की प्रशंसा करते हैं?",
-              "en": "Do people admire the kite?"
-            },
+            "q": { "hi": "क्या माया ने मिस्टर नाथ का फोटो देखा था?", "en": "Did Maya see Mr. Nath's photo?" },
             "options": [
-              {
-                "hi": "हाँ",
-                "en": "Yes"
-              },
-              {
-                "hi": "शायद",
-                "en": "Maybe"
-              },
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              },
-              {
-                "hi": "नहीं",
-                "en": "No"
-              }
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
             ],
-            "answer": {
-              "hi": "हाँ",
-              "en": "Yes"
-            }
+            "answer": {"hi": "नहीं", "en": "No"}
           },
           {
-            "q": {
-              "hi": "क्या कवयित्री छोटा होना चाहती है?",
-              "en": "Does the poet wish to be small?"
-            },
+            "q": { "hi": "मिस्टर नाथ के पास क्या होने का माया को शक है?", "en": "What does Maya suspect Mr. Nath has?" },
             "options": [
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              },
-              {
-                "hi": "नहीं",
-                "en": "No"
-              },
-              {
-                "hi": "शायद",
-                "en": "Maybe"
-              },
-              {
-                "hi": "हाँ",
-                "en": "Yes"
-              }
+              {"hi": "धन (hidden money)", "en": "Hidden money"},
+              {"hi": "किताबें", "en": "Books"},
+              {"hi": "खिलौने", "en": "Toys"},
+              {"hi": "कपड़े", "en": "Clothes"}
             ],
-            "answer": {
-              "hi": "हाँ",
-              "en": "Yes"
-            }
+            "answer": {"hi": "धन (hidden money)", "en": "Hidden money"}
           },
           {
-            "q": {
-              "hi": "क्या आकाश में पतंगें रंगीन लगती हैं?",
-              "en": "Do kites look colourful in the sky?"
-            },
+            "q": { "hi": "निशाद का स्वभाव कैसा है?", "en": "How is Nishad's nature?" },
             "options": [
-              {
-                "hi": "नहीं",
-                "en": "No"
-              },
-              {
-                "hi": "हाँ",
-                "en": "Yes"
-              },
-              {
-                "hi": "शायद",
-                "en": "Maybe"
-              },
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              }
+              {"hi": "दयालु", "en": "Kind"},
+              {"hi": "क्रूर", "en": "Cruel"},
+              {"hi": "लालची", "en": "Greedy"},
+              {"hi": "अहंकारी", "en": "Arrogant"}
             ],
-            "answer": {
-              "hi": "हाँ",
-              "en": "Yes"
-            }
+            "answer": {"hi": "दयालु", "en": "Kind"}
           },
           {
-            "q": {
-              "hi": "हवा के पंख किस चीज से बने हैं?",
-              "en": "What are the paper wings?"
-            },
+            "q": { "hi": "क्या यह कहानी जासूसी है?", "en": "Is this story a detective one?" },
             "options": [
-              {
-                "hi": "पतंग (kite)",
-                "en": "Kite"
-              },
-              {
-                "hi": "पेड़",
-                "en": "Tree"
-              },
-              {
-                "hi": "घर",
-                "en": "House"
-              },
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              }
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
             ],
-            "answer": {
-              "hi": "पतंग (kite)",
-              "en": "Kite"
-            }
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "क्या पतंग ऊँची उड़ती है?",
-              "en": "Does the kite fly high?"
-            },
+            "q": { "hi": "मिस्टर नाथ कैसे व्यक्ति हैं?", "en": "What kind of person is Mr. Nath?" },
             "options": [
-              {
-                "hi": "शायद",
-                "en": "Maybe"
-              },
-              {
-                "hi": "हाँ",
-                "en": "Yes"
-              },
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              },
-              {
-                "hi": "नहीं",
-                "en": "No"
-              }
+              {"hi": "रहस्यमयी", "en": "Mysterious"},
+              {"hi": "खुले", "en": "Open"},
+              {"hi": "मिलनसार", "en": "Sociable"},
+              {"hi": "शोर करने वाला", "en": "Noisy"}
             ],
-            "answer": {
-              "hi": "हाँ",
-              "en": "Yes"
-            }
+            "answer": {"hi": "रहस्यमयी", "en": "Mysterious"}
           },
           {
-            "q": {
-              "hi": "क्या लोग कवयित्री जैसा बनना चाहते हैं?",
-              "en": "Do people wish to be like her?"
-            },
+            "q": { "hi": "क्या माया ने तथ्यों को सॉर्ट आउट किया?", "en": "Did Maya sort out the facts?" },
             "options": [
-              {
-                "hi": "नहीं",
-                "en": "No"
-              },
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              },
-              {
-                "hi": "हाँ",
-                "en": "Yes"
-              },
-              {
-                "hi": "शायद",
-                "en": "Maybe"
-              }
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
             ],
-            "answer": {
-              "hi": "हाँ",
-              "en": "Yes"
-            }
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "क्या पतंग का उड़ना मजेदार है?",
-              "en": "Is kite flying fun?"
-            },
+            "q": { "hi": "निशाद को मिस्टर नाथ पर क्या है?", "en": "What does Nishad have for Mr. Nath?" },
             "options": [
-              {
-                "hi": "शायद",
-                "en": "Maybe"
-              },
-              {
-                "hi": "हाँ",
-                "en": "Yes"
-              },
-              {
-                "hi": "नहीं",
-                "en": "No"
-              },
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              }
+              {"hi": "संदेह", "en": "Doubt"},
+              {"hi": "सहानुभूति", "en": "Sympathy"},
+              {"hi": "नफरत", "en": "Hate"},
+              {"hi": "ईर्ष्या", "en": "Jealousy"}
             ],
-            "answer": {
-              "hi": "हाँ",
-              "en": "Yes"
-            }
+            "answer": {"hi": "सहानुभूति", "en": "Sympathy"}
           },
           {
-            "q": {
-              "hi": "कवयित्री को क्या पसंद है?",
-              "en": "What does the poet love?"
-            },
+            "q": { "hi": "माया क्या बनने की कोशिश कर रही है?", "en": "What is Maya trying to be?" },
             "options": [
-              {
-                "hi": "खाना",
-                "en": "Eating"
-              },
-              {
-                "hi": "पतंगें (kites)",
-                "en": "Kites"
-              },
-              {
-                "hi": "सोना",
-                "en": "Sleeping"
-              },
-              {
-                "hi": "दौड़ना",
-                "en": "Running"
-              }
+              {"hi": "पुलिस", "en": "Police"},
+              {"hi": "जासूस", "en": "Detective"},
+              {"hi": "डॉक्टर", "en": "Doctor"},
+              {"hi": "शिक्षक", "en": "Teacher"}
             ],
-            "answer": {
-              "hi": "पतंगें (kites)",
-              "en": "Kites"
-            }
+            "answer": {"hi": "जासूस", "en": "Detective"}
           }
         ],
         "section5": [
           {
-            "q": {
-              "hi": "क्या बच्चे तेज भागते हैं?",
-              "en": "Do children run fast?"
-            },
+            "q": { "hi": "रमेश कहां काम करता है?", "en": "Where does Ramesh work?" },
             "options": [
-              {
-                "hi": "हाँ",
-                "en": "Yes"
-              },
-              {
-                "hi": "नहीं",
-                "en": "No"
-              },
-              {
-                "hi": "शायद",
-                "en": "Maybe"
-              },
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              }
+              {"hi": "मिस्टर नाथ के घर", "en": "At Mr. Nath's home"},
+              {"hi": "नीचे वाले रेस्टोरेंट में", "en": "At the restaurant downstairs"},
+              {"hi": "बाजार में", "en": "In market"},
+              {"hi": "कहीं नहीं", "en": "Nowhere"}
             ],
-            "answer": {
-              "hi": "हाँ",
-              "en": "Yes"
-            }
+            "answer": {"hi": "नीचे वाले रेस्टोरेंट में", "en": "At the restaurant downstairs"}
           },
           {
-            "q": {
-              "hi": "क्या कविता में आकाश का वर्णन है?",
-              "en": "Is the sky described in the poem?"
-            },
+            "q": { "hi": "मिस्टर नाथ का visitor (आगंतुक) कैसा है?", "en": "How is Mr. Nath's visitor?" },
             "options": [
-              {
-                "hi": "शायद",
-                "en": "Maybe"
-              },
-              {
-                "hi": "हाँ",
-                "en": "Yes"
-              },
-              {
-                "hi": "नहीं",
-                "en": "No"
-              },
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              }
+              {"hi": "चुप्पी रहने वाला", "en": "Quiet"},
+              {"hi": "बहुत बातूनी (talks a lot)", "en": "Talks a lot"},
+              {"hi": "क्रूर", "en": "Cruel"},
+              {"hi": "गरीब", "en": "Poor"}
             ],
-            "answer": {
-              "hi": "हाँ",
-              "en": "Yes"
-            }
+            "answer": {"hi": "बहुत बातूनी (talks a lot)", "en": "Talks a lot"}
           },
           {
-            "q": {
-              "hi": "क्या पतंगें पक्षियों जैसी हैं?",
-              "en": "Are kites like birds?"
-            },
+            "q": { "hi": "क्या बारिश ने जांच में बाधा डाली?", "en": "Did rain hinder the investigation?" },
             "options": [
-              {
-                "hi": "नहीं",
-                "en": "No"
-              },
-              {
-                "hi": "हाँ",
-                "en": "Yes"
-              },
-              {
-                "hi": "शायद",
-                "en": "Maybe"
-              },
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              }
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
             ],
-            "answer": {
-              "hi": "हाँ",
-              "en": "Yes"
-            }
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "क्या हवा तेज चलती है?",
-              "en": "Is the wind blowing fast?"
-            },
+            "q": { "hi": "माया ने कागज पर क्या लिखा?", "en": "What did Maya write on paper?" },
             "options": [
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              },
-              {
-                "hi": "हाँ",
-                "en": "Yes"
-              },
-              {
-                "hi": "नहीं",
-                "en": "No"
-              },
-              {
-                "hi": "शायद",
-                "en": "Maybe"
-              }
+              {"hi": "तथ्य", "en": "Facts"},
+              {"hi": "कविता", "en": "Poem"},
+              {"hi": "कहानी", "en": "Story"},
+              {"hi": "पते", "en": "Addresses"}
             ],
-            "answer": {
-              "hi": "हाँ",
-              "en": "Yes"
-            }
+            "answer": {"hi": "तथ्य", "en": "Facts"}
           },
           {
-            "q": {
-              "hi": "क्या कविता में पार्क का उल्लेख है?",
-              "en": "Is the park mentioned in the poem?"
-            },
+            "q": { "hi": "क्या माया को लगता है मिस्टर नाथ अपराधी हैं?", "en": "Does Maya feel Mr. Nath is a criminal?" },
             "options": [
-              {
-                "hi": "नहीं",
-                "en": "No"
-              },
-              {
-                "hi": "शायद",
-                "en": "Maybe"
-              },
-              {
-                "hi": "हाँ",
-                "en": "Yes"
-              },
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              }
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
             ],
-            "answer": {
-              "hi": "हाँ",
-              "en": "Yes"
-            }
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "क्या बच्चे खुश हैं?",
-              "en": "Are the children happy?"
-            },
+            "q": { "hi": "क्या निशाद को लगता है अपराधी सामान्य दिख सकते हैं?", "en": "Does Nishad feel criminals can look ordinary?" },
             "options": [
-              {
-                "hi": "शायद",
-                "en": "Maybe"
-              },
-              {
-                "hi": "हाँ",
-                "en": "Yes"
-              },
-              {
-                "hi": "नहीं",
-                "en": "No"
-              },
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              }
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
             ],
-            "answer": {
-              "hi": "हाँ",
-              "en": "Yes"
-            }
+            "answer": {"hi": "नहीं", "en": "No"}
           },
           {
-            "q": {
-              "hi": "क्या कवयित्री ऊपर जाना चाहती है?",
-              "en": "Does the poet want to go up?"
-            },
+            "q": { "hi": "जासूसी में किसका धैर्य अधिक है?", "en": "Who has more patience in detective work?" },
             "options": [
-              {
-                "hi": "नहीं",
-                "en": "No"
-              },
-              {
-                "hi": "हाँ",
-                "en": "Yes"
-              },
-              {
-                "hi": "शायद",
-                "en": "Maybe"
-              },
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              }
+              {"hi": "माया", "en": "Maya"},
+              {"hi": "निशाद", "en": "Nishad"},
+              {"hi": "दोनों", "en": "Both"},
+              {"hi": "कोई नहीं", "en": "None"}
             ],
-            "answer": {
-              "hi": "हाँ",
-              "en": "Yes"
-            }
+            "answer": {"hi": "निशाद", "en": "Nishad"}
           },
           {
-            "q": {
-              "hi": "क्या शहर के ऊपर से नज़ारा अच्छा है?",
-              "en": "Is the view over the town good?"
-            },
+            "q": { "hi": "क्या मिस्टर नाथ के चेहरे पर जलने के निशान थे?", "en": "Were there burn scars on Mr. Nath's face?" },
             "options": [
-              {
-                "hi": "शायद",
-                "en": "Maybe"
-              },
-              {
-                "hi": "नहीं",
-                "en": "No"
-              },
-              {
-                "hi": "हाँ",
-                "en": "Yes"
-              },
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              }
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
             ],
-            "answer": {
-              "hi": "हाँ",
-              "en": "Yes"
-            }
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "क्या आप पतंग उड़ाना पसंद करते हैं?",
-              "en": "Do you like to fly kites?"
-            },
+            "q": { "hi": "क्या मिस्टर नाथ का रहस्य उजागर हुआ?", "en": "Was Mr. Nath's mystery revealed?" },
             "options": [
-              {
-                "hi": "नहीं",
-                "en": "No"
-              },
-              {
-                "hi": "शायद",
-                "en": "Maybe"
-              },
-              {
-                "hi": "हाँ",
-                "en": "Yes"
-              },
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              }
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
             ],
-            "answer": {
-              "hi": "हाँ",
-              "en": "Yes"
-            }
+            "answer": {"hi": "नहीं", "en": "No"}
           },
           {
-            "q": {
-              "hi": "क्या आपको कविता पसंद आई?",
-              "en": "Did you like the poem?"
-            },
+            "q": { "hi": "निशाद और माया क्या हैं?", "en": "What are Nishad and Maya?" },
             "options": [
-              {
-                "hi": "हाँ",
-                "en": "Yes"
-              },
-              {
-                "hi": "पता नहीं",
-                "en": "Don't know"
-              },
-              {
-                "hi": "नहीं",
-                "en": "No"
-              },
-              {
-                "hi": "शायद",
-                "en": "Maybe"
-              }
+              {"hi": "भाई-बहन", "en": "Siblings"},
+              {"hi": "दोस्त", "en": "Friends"},
+              {"hi": "दुश्मन", "en": "Enemies"},
+              {"hi": "कोई नहीं", "en": "None"}
             ],
-            "answer": {
-              "hi": "हाँ",
-              "en": "Yes"
-            }
+            "answer": {"hi": "भाई-बहन", "en": "Siblings"}
           }
         ]
       },
