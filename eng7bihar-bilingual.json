@@ -7404,156 +7404,546 @@
           }
         ]
       },
-    "chapter05d": {
+    "chapter06b": {
         "section1": [
           {
-            "q": {"hi": "राष्ट्रीय समर स्मारक कहाँ स्थित है?", "en": "Where is the National War Memorial located?"},
+            "q": {
+              "hi": "कविता में किस चीज़ को 'बोलने वाला पंखा' कहा गया है?",
+              "en": "What is called a 'talking fan' in the poem?"
+            },
             "options": [
-              {"hi": "मुंबई", "en": "Mumbai"},
-              {"hi": "कोलकाता", "en": "Kolkata"},
-              {"hi": "नई दिल्ली", "en": "New Delhi"},
-              {"hi": "चेन्नई", "en": "Chennai"}
+              {"hi": "दरवाजा", "en": "Door"},
+              {"hi": "छत का पंखा", "en": "Ceiling fan"},
+              {"hi": "टेबल फैन", "en": "Table fan"},
+              {"hi": "खिलौना", "en": "Toy"}
             ],
-            "answer": {"hi": "नई दिल्ली", "en": "New Delhi"}
+            "answer": {"hi": "छत का पंखा", "en": "Ceiling fan"}
           },
           {
-            "q": {"hi": "इस स्मारक की स्थापना कब हुई थी?", "en": "When was this monument established?"},
+            "q": {
+              "hi": "पंखा कैसी आवाज़ कर रहा था?",
+              "en": "What kind of noise was the fan making?"
+            },
             "options": [
-              {"hi": "फरवरी 2019", "en": "February 2019"},
-              {"hi": "जनवरी 2020", "en": "January 2020"},
-              {"hi": "मार्च 2018", "en": "March 2018"},
-              {"hi": "फरवरी 2020", "en": "February 2020"}
+              {"hi": "चटर-पटर (chatter)", "en": "Chatter"},
+              {"hi": "सीटी", "en": "Whistle"},
+              {"hi": "दहाड़", "en": "Roar"},
+              {"hi": "गाना", "en": "Singing"}
             ],
-            "answer": {"hi": "फरवरी 2019", "en": "February 2019"}
+            "answer": {"hi": "चटर-पटर (chatter)", "en": "Chatter"}
           },
           {
-            "q": {"hi": "यह स्मारक किसके सम्मान में बनाया गया है?", "en": "In whose honour was this monument built?"},
+            "q": {
+              "hi": "क्या कवि पंखे की आवाज़ को समझ पा रहा था?",
+              "en": "Could the poet understand what the fan was saying?"
+            },
             "options": [
-              {"hi": "स्वतंत्रता सेनानियों", "en": "Freedom fighters"},
-              {"hi": "बहादुर सैनिकों", "en": "Brave soldiers"},
-              {"hi": "नेताओं", "en": "Leaders"},
-              {"hi": "वैज्ञानिकों", "en": "Scientists"}
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "कभी-कभी", "en": "Sometimes"}
             ],
-            "answer": {"hi": "बहादुर सैनिकों", "en": "Brave soldiers"}
+            "answer": {"hi": "नहीं", "en": "No"}
           },
           {
-            "q": {"hi": "स्मारक का मुख्य उद्देश्य क्या है?", "en": "What is the main purpose of the monument?"},
+            "q": {
+              "hi": "कवि के अनुसार, क्या यह महत्वपूर्ण है कि पंखा क्या कह रहा था?",
+              "en": "According to the poet, does it matter what the fan was saying?"
+            },
             "options": [
-              {"hi": "बहादुर कहानियों का सम्मान", "en": "To honour brave stories"},
-              {"hi": "बाजार", "en": "Market"},
-              {"hi": "खेल का मैदान", "en": "Playground"},
-              {"hi": "पार्क", "en": "Park"}
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "हमेशा", "en": "Always"}
             ],
-            "answer": {"hi": "बहादुर कहानियों का सम्मान", "en": "To honour brave stories"}
+            "answer": {"hi": "नहीं", "en": "No"}
           },
           {
-            "q": {"hi": "स्मारक में क्या उत्कीर्ण है?", "en": "What is etched in the memorial?"},
+            "q": {
+              "hi": "पंखे की समस्या को किसने हल किया?",
+              "en": "Who solved the fan's problem?"
+            },
             "options": [
-              {"hi": "कविताएं", "en": "Poems"},
-              {"hi": "चित्र", "en": "Pictures"},
-              {"hi": "सैनिकों के नाम", "en": "Names of soldiers"},
+              {"hi": "कवि", "en": "Poet"},
+              {"hi": "किसी ने तेल लगा दिया (somebody oiled it)", "en": "Somebody oiled it"},
+              {"hi": "मैकेनिक ने", "en": "Mechanic"},
+              {"hi": "पंखे ने खुद", "en": "The fan itself"}
+            ],
+            "answer": {"hi": "किसी ने तेल लगा दिया (somebody oiled it)", "en": "Somebody oiled it"}
+          },
+          {
+            "q": {
+              "hi": "तेल लगाने के बाद पंखा कैसा हो गया?",
+              "en": "How did the fan become after being oiled?"
+            },
+            "options": [
+              {"hi": "शोर करने वाला", "en": "Noisy"},
+              {"hi": "शांत (still as water)", "en": "Still as water"},
+              {"hi": "टूट गया", "en": "Broken"},
+              {"hi": "तेज हो गया", "en": "Fast"}
+            ],
+            "answer": {"hi": "शांत (still as water)", "en": "Still as water"}
+          },
+          {
+            "q": {
+              "hi": "पंखे का मोटर कैसा था?",
+              "en": "How was the fan's motor?"
+            },
+            "options": [
+              {"hi": "बड़ा", "en": "Big"},
+              {"hi": "छोटा घूमता हुआ (little whirling motor)", "en": "Little whirling motor"},
+              {"hi": "खराब", "en": "Bad"},
+              {"hi": "नया", "en": "New"}
+            ],
+            "answer": {"hi": "छोटा घूमता हुआ (little whirling motor)", "en": "Little whirling motor"}
+          },
+          {
+            "q": {
+              "hi": "क्या पंखे की आवाज़ को 'बोलना' कहा गया है?",
+              "en": "Is the fan's sound called 'talking'?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {
+              "hi": "पंखे के 'चैटर' (chatter) को क्या कहा गया है?",
+              "en": "What is the fan's chatter called?"
+            },
+            "options": [
+              {"hi": "मैकेनिकल", "en": "Mechanical"},
+              {"hi": "इलेक्ट्रिकल (electrical)", "en": "Electrical"},
+              {"hi": "नेचुरल", "en": "Natural"},
+              {"hi": "खराब", "en": "Bad"}
+            ],
+            "answer": {"hi": "इलेक्ट्रिकल (electrical)", "en": "Electrical"}
+          },
+          {
+            "q": {
+              "hi": "कविता की कवयित्री कौन हैं?",
+              "en": "Who is the poetess of the poem?"
+            },
+            "options": [
+              {"hi": "मौड रुबिन (Maude Rubin)", "en": "Maude Rubin"},
+              {"hi": "शर्ली बॉअर", "en": "Shirley Bauer"},
+              {"hi": "माइकल रोज़न", "en": "Michael Rosen"},
               {"hi": "कोई नहीं", "en": "None"}
             ],
-            "answer": {"hi": "सैनिकों के नाम", "en": "Names of soldiers"}
-          },
-          {
-            "q": {"hi": "स्मारक किसका प्रतीक है?", "en": "What is the monument a symbol of?"},
-            "options": [
-              {"hi": "डर", "en": "Fear"},
-              {"hi": "सम्मान और गर्व", "en": "Respect and pride"},
-              {"hi": "उदासी", "en": "Sadness"},
-              {"hi": "कोई नहीं", "en": "None"}
-            ],
-            "answer": {"hi": "सम्मान और गर्व", "en": "Respect and pride"}
-          },
-          {
-            "q": {"hi": "सैनिकों ने भारत की रक्षा कहाँ की?", "en": "Where did the soldiers defend India?"},
-            "options": [
-              {"hi": "युद्ध क्षेत्रों, आसमानों और महासागरों में", "en": "Battle fields, skies, and oceans"},
-              {"hi": "घर पर", "en": "At home"},
-              {"hi": "ऑफिस में", "en": "In office"},
-              {"hi": "कोई नहीं", "en": "None"}
-            ],
-            "answer": {"hi": "युद्ध क्षेत्रों, आसमानों और महासागरों में", "en": "Battle fields, skies, and oceans"}
-          },
-          {
-            "q": {"hi": "स्मारक में क्या निरंतर जलता है?", "en": "What glows in silence in the memorial?"},
-            "options": [
-              {"hi": "मोमबत्ती", "en": "Candle"},
-              {"hi": "अमर ज्योति (Eternal flame)", "en": "Eternal flame"},
-              {"hi": "दीया", "en": "Lamp"},
-              {"hi": "लाइट", "en": "Light"}
-            ],
-            "answer": {"hi": "अमर ज्योति (Eternal flame)", "en": "Eternal flame"}
-          },
-          {
-            "q": {"hi": "अमर ज्योति किसके साहस को नमन करती है?", "en": "What does the eternal flame pay homage to?"},
-            "options": [
-              {"hi": "सैनिकों के साहस", "en": "Courage of soldiers"},
-              {"hi": "दूरी", "en": "Distance"},
-              {"hi": "डर", "en": "Fear"},
-              {"hi": "कोई नहीं", "en": "None"}
-            ],
-            "answer": {"hi": "सैनिकों के साहस", "en": "Courage of soldiers"}
-          },
-          {
-            "q": {"hi": "इस स्मारक का निर्माण किसने किया?", "en": "Who built the National War Memorial?"},
-            "options": [
-              {"hi": "निजी संस्था", "en": "Private body"},
-              {"hi": "राज्य सरकार", "en": "State government"},
-              {"hi": "भारत सरकार", "en": "Government of India"},
-              {"hi": "कोई नहीं", "en": "None"}
-            ],
-            "answer": {"hi": "भारत सरकार", "en": "Government of India"}
+            "answer": {"hi": "मौड रुबिन (Maude Rubin)", "en": "Maude Rubin"}
           }
         ],
         "section2": [
-          {"q": {"hi": "क्या बलिदान हमें हमेशा याद रखना चाहिए?", "en": "Should we remember the sacrifice of soldiers?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "सैनिक भारत के लिए कैसे खड़े हैं?", "en": "How do soldiers stand for Bharat?"}, "options": [{"hi": "एक साथ (Side by side)", "en": "Side by side"}, {"hi": "अकेले", "en": "Alone"}, {"hi": "दूर", "en": "Far"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "एक साथ (Side by side)", "en": "Side by side"}},
-          {"q": {"hi": "क्या अमर ज्योति चुपचाप जलती है?", "en": "Does the eternal flame glow in silence?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}, {"hi": "हाँ", "en": "Yes"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "बलिदान की याद कहाँ रहती है?", "en": "Where does the sacrifice always stay?"}, "options": [{"hi": "किताब में", "en": "In book"}, {"hi": "बाजार में", "en": "In market"}, {"hi": "हमारे मन में", "en": "In our mind"}, {"hi": "सड़क पर", "en": "On road"}], "answer": {"hi": "हमारे मन में", "en": "In our mind"}},
-          {"q": {"hi": "स्मारक का दृश्य कैसा है?", "en": "How is the sight of the memorial?"}, "options": [{"hi": "अजीब", "en": "Strange"}, {"hi": "भव्य (grand)", "en": "Grand"}, {"hi": "छोटा", "en": "Small"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "भव्य (grand)", "en": "Grand"}},
-          {"q": {"hi": "क्या हर नाम पत्थर पर उत्कीर्ण है?", "en": "Is every name etched on stone?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}, {"hi": "हाँ", "en": "Yes"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या स्मारक का महत्व हमेशा रहेगा?", "en": "Will the memorial's importance remain forever?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या यह भारत के केंद्र में स्थित है?", "en": "Is it located in Bharat's heartland?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}, {"hi": "हाँ", "en": "Yes"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या सैनिकों के साहस की कहानियाँ हैं?", "en": "Are brave stories of soldiers told?"}, "options": [{"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "सैनिकों का सम्मान करना कैसा है?", "en": "Is respecting soldiers good?"}, "options": [{"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}, {"hi": "नहीं", "en": "No"}, {"hi": "हाँ", "en": "Yes"}], "answer": {"hi": "हाँ", "en": "Yes"}}
+          {
+            "q": { "hi": "क्या पंखा वाकई बोल रहा था?", "en": "Was the fan really talking?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं (imagination)", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं (imagination)", "en": "No"}
+          },
+          {
+            "q": { "hi": "पंखे की आवाज़ को 'रहस्य' क्यों कहा गया है?", "en": "Why is the fan's noise called a 'mystery'?" },
+            "options": [
+              {"hi": "क्योंकि वह डरावनी थी", "en": "Because it was scary"},
+              {"hi": "क्योंकि वह समझ नहीं आ रही थी", "en": "Because it could not be understood"},
+              {"hi": "क्योंकि वह मधुर थी", "en": "Because it was sweet"},
+              {"hi": "क्योंकि वह गायब हो गई", "en": "Because it disappeared"}
+            ],
+            "answer": {"hi": "क्योंकि वह समझ नहीं आ रही थी", "en": "Because it could not be understood"}
+          },
+          {
+            "q": { "hi": "तेल लगाने से क्या नष्ट हो गया?", "en": "What was spoiled after oiling?" },
+            "options": [
+              {"hi": "पंखे का रहस्य", "en": "The fan's mystery"},
+              {"hi": "पंखे की गति", "en": "Fan's speed"},
+              {"hi": "पंखे की खूबसूरती", "en": "Fan's beauty"},
+              {"hi": "कुछ नहीं", "en": "Nothing"}
+            ],
+            "answer": {"hi": "पंखे का रहस्य", "en": "The fan's mystery"}
+          },
+          {
+            "q": { "hi": "क्या तेल लगाने के बाद पंखा चलता रहा?", "en": "Did the fan run after oiling?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "धीरे-धीरे", "en": "Slowly"}
+            ],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": { "hi": "कवि का पंखे से क्या रिश्ता बताया गया है?", "en": "What is the fan described as in relation to the poet?", "en_note": "Poem says distant relative" },
+            "options": [
+              {"hi": "दोस्त", "en": "Friend"},
+              {"hi": "दूर का रिश्तेदार (distant relative)", "en": "Distant relative"},
+              {"hi": "दुश्मन", "en": "Enemy"},
+              {"hi": "शिक्षक", "en": "Teacher"}
+            ],
+            "answer": {"hi": "दूर का रिश्तेदार (distant relative)", "en": "Distant relative"}
+          },
+          {
+            "q": { "hi": "पंखे की आवाज़ कैसी थी?", "en": "How was the fan's sound?" },
+            "options": [
+              {"hi": "शांत", "en": "Quiet"},
+              {"hi": "शोर वाली (noisy)", "en": "Noisy"},
+              {"hi": "सुरीली", "en": "Melodious"},
+              {"hi": "अजीब", "en": "Weird"}
+            ],
+            "answer": {"hi": "शोर वाली (noisy)", "en": "Noisy"}
+          },
+          {
+            "q": { "hi": "क्या पंखा बिजली से चलता था?", "en": "Was the fan electrical?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": { "hi": "कवि को पंखे की आवाज़ क्यों नहीं समझ आ रही थी?", "en": "Why couldn't the poet understand the fan's noise?" },
+            "options": [
+              {"hi": "वह तेज़ थी", "en": "It was loud"},
+              {"hi": "वह अस्पष्ट थी (chatter)", "en": "It was electrical chatter"},
+              {"hi": "वह धीमी थी", "en": "It was soft"},
+              {"hi": "वह मधुर थी", "en": "It was sweet"}
+            ],
+            "answer": {"hi": "वह अस्पष्ट थी (chatter)", "en": "It was electrical chatter"}
+          },
+          {
+            "q": { "hi": "क्या पंखा अब भी बोलता है?", "en": "Does the fan talk now?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं (spoiled mystery)", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं (spoiled mystery)", "en": "No"}
+          },
+          {
+            "q": { "hi": "क्या पंखे को ओइलिंग (oiling) की जरूरत थी?", "en": "Did the fan need oiling?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          }
         ],
         "section3": [
-          {"q": {"hi": "'Etched' का अर्थ क्या है?", "en": "What is the meaning of 'Etched'?"}, "options": [{"hi": "मिटाया हुआ", "en": "Erased"}, {"hi": "उत्कीर्ण (carved)", "en": "Carved"}, {"hi": "लिखा हुआ", "en": "Written"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "उत्कीर्ण (carved)", "en": "Carved"}},
-          {"q": {"hi": "'Eternal' का अर्थ क्या है?", "en": "What is the meaning of 'Eternal'?"}, "options": [{"hi": "खत्म होने वाला", "en": "Ending"}, {"hi": "छोटा", "en": "Small"}, {"hi": "शाश्वत (everlasting)", "en": "Everlasting"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "शाश्वत (everlasting)", "en": "Everlasting"}},
-          {"q": {"hi": "'Homage' का अर्थ क्या है?", "en": "What is the meaning of 'Homage'?"}, "options": [{"hi": "श्रद्धांजलि (tribute)", "en": "Tribute"}, {"hi": "मज़ाक", "en": "Joke"}, {"hi": "खेल", "en": "Game"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "श्रद्धांजलि (tribute)", "en": "Tribute"}},
-          {"q": {"hi": "'Sacrifice' का अर्थ क्या है?", "en": "What is the meaning of 'Sacrifice'?"}, "options": [{"hi": "जीत", "en": "Victory"}, {"hi": "बलिदान", "en": "Giving up/sacrifice"}, {"hi": "आराम", "en": "Comfort"}, {"hi": "कोई नहीं", "en": "None"}], "answer": {"hi": "बलिदान", "en": "Giving up/sacrifice"}},
-          {"q": {"hi": "क्या स्मारक का निर्माण सरकार ने किया?", "en": "Did the government build it?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}, {"hi": "हाँ", "en": "Yes"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या सैनिक सीमाओं पर लड़ते हैं?", "en": "Do soldiers fight at borders?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या सैनिकों ने अपना जीवन भारत के लिए दिया?", "en": "Did soldiers give lives for India?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या स्मारक गर्व का प्रतीक है?", "en": "Is the monument a symbol of pride?"}, "options": [{"hi": "शायद", "en": "Maybe"}, {"hi": "नहीं", "en": "No"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या हर सैनिक एक कहानी है?", "en": "Is every soldier a story?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या यह स्मारक नई दिल्ली में है?", "en": "Is the memorial in New Delhi?"}, "options": [{"hi": "शायद", "en": "Maybe"}, {"hi": "नहीं", "en": "No"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}}
+          {
+            "q": { "hi": "क्या पंखा पानी में चल सकता है?", "en": "Can the fan run in water?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": { "hi": "कवि को पंखे की आवाज़ से डर लगता था?", "en": "Was the poet afraid of the fan's sound?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": { "hi": "पंखे का चलना किसके समान था?", "en": "Running of the fan was like what?" },
+            "options": [
+              {"hi": "पानी जितना शांत (still as water)", "en": "Still as water"},
+              {"hi": "शेर जैसा", "en": "Like a lion"},
+              {"hi": "हवा जैसा", "en": "Like wind"},
+              {"hi": "कोई नहीं", "en": "None"}
+            ],
+            "answer": {"hi": "पानी जितना शांत (still as water)", "en": "Still as water"}
+          },
+          {
+            "q": { "hi": "क्या पंखा इंसान जैसा बोलता था?", "en": "Did the fan talk like a human?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": { "hi": "क्या पंखे को ओइलिंग के बाद ठीक किया गया?", "en": "Was the fan fixed after oiling?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": { "hi": "कविता में पंखे को क्या कहा गया है?", "en": "What is the fan called in the poem?" },
+            "options": [
+              {"hi": "मशीन", "en": "Machine"},
+              {"hi": "बोलने वाला पंखा (talking fan)", "en": "Talking fan"},
+              {"hi": "उपकरण", "en": "Device"},
+              {"hi": "कोई नहीं", "en": "None"}
+            ],
+            "answer": {"hi": "बोलने वाला पंखा (talking fan)", "en": "Talking fan"}
+          },
+          {
+            "q": { "hi": "क्या पंखे की आवाज़ एक रहस्य थी?", "en": "Was the fan's sound a mystery?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": { "hi": "पंखे को तेल किसने लगाया?", "en": "Who oiled the fan?" },
+            "options": [
+              {"hi": "कवि", "en": "Poet"},
+              {"hi": "कोई (somebody)", "en": "Somebody"},
+              {"hi": "मैकेनिक", "en": "Mechanic"},
+              {"hi": "मां", "en": "Mother"}
+            ],
+            "answer": {"hi": "कोई (somebody)", "en": "Somebody"}
+          },
+          {
+            "q": { "hi": "पंखे का काम क्या है?", "en": "What is the work of a fan?" },
+            "options": [
+              {"hi": "हवा देना", "en": "To give air"},
+              {"hi": "शोर करना", "en": "To make noise"},
+              {"hi": "बोलना", "en": "To talk"},
+              {"hi": "सब सही है", "en": "All correct"}
+            ],
+            "answer": {"hi": "हवा देना", "en": "To give air"}
+          },
+          {
+            "q": { "hi": "क्या पंखा इंसान है?", "en": "Is the fan a human?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          }
         ],
         "section4": [
-          {"q": {"hi": "क्या अमर ज्योति हमेशा जलती है?", "en": "Does the eternal flame glow always?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या हमें नायकों को याद रखना चाहिए?", "en": "Should we remember our heroes?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या स्मारक 2019 में बना?", "en": "Was the memorial built in 2019?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या स्मारक का दृश्य भव्य है?", "en": "Is the memorial grand?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या सैनिकों ने महासागरों में काम किया?", "en": "Did soldiers work in oceans too?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या हम सैनिकों के कर्जदार हैं?", "en": "Are we indebted to soldiers?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या स्मारक शांति का प्रतीक है?", "en": "Is the memorial a symbol of peace?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या भारत का दिल स्मारक में है?", "en": "Is India's heart in the memorial?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या बहादुर कहानियाँ याद रखने लायक हैं?", "en": "Are brave stories worth remembering?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या स्मारक गर्व दिलाता है?", "en": "Does the monument bring pride?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}}
+          {
+            "q": { "hi": "क्या कवि को पंखे की आवाज़ समझ आती थी?", "en": "Did the poet understand the fan's chatter?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "कभी-कभी", "en": "Sometimes"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": { "hi": "तेल लगाने के बाद पंखा कैसा हो गया?", "en": "How was the fan after oiling?" },
+            "options": [
+              {"hi": "तेज", "en": "Fast"},
+              {"hi": "शांत (still as water)", "en": "Still as water"},
+              {"hi": "शोर वाला", "en": "Noisy"},
+              {"hi": "टूटा हुआ", "en": "Broken"}
+            ],
+            "answer": {"hi": "शांत (still as water)", "en": "Still as water"}
+          },
+          {
+            "q": { "hi": "कविता का शीर्षक क्या है?", "en": "What is the title of the poem?" },
+            "options": [
+              {"hi": "Mystery of the Talking Fan", "en": "Mystery of the Talking Fan"},
+              {"hi": "Talking Fan", "en": "Talking Fan"},
+              {"hi": "Silent Fan", "en": "Silent Fan"},
+              {"hi": "My Fan", "en": "My Fan"}
+            ],
+            "answer": {"hi": "Mystery of the Talking Fan", "en": "Mystery of the Talking Fan"}
+          },
+          {
+            "q": { "hi": "क्या पंखा सचमुच बात कर रहा था?", "en": "Was the fan really talking?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": { "hi": "कवि को पंखे की आवाज़ को लेकर क्या उम्मीद थी?", "en": "What was the poet's hope regarding the fan's chatter?" },
+            "options": [
+              {"hi": "वह कुछ मतलब रखती है", "en": "It means something"},
+              {"hi": "यह मायने नहीं रखती", "en": "It doesn't matter"},
+              {"hi": "वह डरावनी है", "en": "It is scary"},
+              {"hi": "वह गाना है", "en": "It is a song"}
+            ],
+            "answer": {"hi": "यह मायने नहीं रखती", "en": "It doesn't matter"}
+          },
+          {
+            "q": { "hi": "पंखे के घूमने वाली मशीन को क्या कहा गया है?", "en": "What is the fan's whirling machine called?" },
+            "options": [
+              {"hi": "मोटर (whirling motor)", "en": "Whirling motor"},
+              {"hi": "इंजन", "en": "Engine"},
+              {"hi": "पंख", "en": "Blade"},
+              {"hi": "कोई नहीं", "en": "None"}
+            ],
+            "answer": {"hi": "मोटर (whirling motor)", "en": "Whirling motor"}
+          },
+          {
+            "q": { "hi": "क्या कविता में कोई रहस्य है?", "en": "Is there a mystery in the poem?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": { "hi": "पंखे की आवाज़ को क्या नाम दिया गया?", "en": "What name was given to the fan's noise?" },
+            "options": [
+              {"hi": "गपशप (chatter)", "en": "Chatter"},
+              {"hi": "हंसी", "en": "Laugh"},
+              {"hi": "रोने", "en": "Crying"},
+              {"hi": "गाना", "en": "Singing"}
+            ],
+            "answer": {"hi": "गपशप (chatter)", "en": "Chatter"}
+          },
+          {
+            "q": { "hi": "क्या ओइलिंग (oiling) के बाद पंखा फिर बोलने लगा?", "en": "Did the fan start talking again after oiling?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": { "hi": "कवि पंखे को कैसा मानते थे?", "en": "How did the poet think of the fan?" },
+            "options": [
+              {"hi": "दूर का रिश्तेदार", "en": "Distant relative"},
+              {"hi": "दोस्त", "en": "Friend"},
+              {"hi": "दुश्मन", "en": "Enemy"},
+              {"hi": "कोई नहीं", "en": "None"}
+            ],
+            "answer": {"hi": "दूर का रिश्तेदार", "en": "Distant relative"}
+          }
         ],
         "section5": [
-          {"q": {"hi": "क्या हम स्मारक देखने जा सकते हैं?", "en": "Can we visit the memorial?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या स्मारक राष्ट्र के लिए है?", "en": "Is the monument for the nation?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या हमें सैनिकों का सम्मान करना चाहिए?", "en": "Should we respect soldiers?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या बलिदान अमर है?", "en": "Is the sacrifice immortal?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या अमर ज्योति प्रेरणा है?", "en": "Is the eternal flame an inspiration?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या भारतीय सेना का गौरव है?", "en": "Is the Indian army's pride glorious?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या यह नई दिल्ली की शान है?", "en": "Is this the glory of New Delhi?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या सैनिकों के नाम पत्थर पर हैं?", "en": "Are the soldiers' names on stone?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या हमें देश से प्यार है?", "en": "Do we love our country?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
-          {"q": {"hi": "क्या आप राष्ट्रीय समर स्मारक जानते हैं?", "en": "Do you know about the National War Memorial?"}, "options": [{"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "हाँ", "en": "Yes"}, {"hi": "पता नहीं", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}}
+          {
+            "q": { "hi": "क्या पंखा इंसान की भाषा समझता है?", "en": "Does the fan understand human language?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": { "hi": "तेल ने पंखे की आवाज़ कैसे ठीक की?", "en": "How did the oil fix the fan's noise?" },
+            "options": [
+              {"hi": "चिकनाई देकर", "en": "By lubricating"},
+              {"hi": "साफ करके", "en": "By cleaning"},
+              {"hi": "पार्ट बदल कर", "en": "By changing parts"},
+              {"hi": "कोई नहीं", "en": "None"}
+            ],
+            "answer": {"hi": "चिकनाई देकर", "en": "By lubricating"}
+          },
+          {
+            "q": { "hi": "क्या पंखा शोर करना पसंद करता था?", "en": "Did the fan like making noise?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": { "hi": "कविता क्या सिखाती है?", "en": "What does the poem teach?" },
+            "options": [
+              {"hi": "सब कुछ मशीन है", "en": "Everything is machine"},
+              {"hi": "मशीन की देखभाल", "en": "Machine maintenance"},
+              {"hi": "शोर करना बुरा है", "en": "Noise is bad"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "मशीन की देखभाल", "en": "Machine maintenance"}
+          },
+          {
+            "q": { "hi": "क्या पंखे की आवाज़ कोई कहानी थी?", "en": "Was the fan's noise a story?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": { "hi": "पंखे की आवाज़ को क्या नाम दिया गया?", "en": "What is the fan's sound named?" },
+            "options": [
+              {"hi": "गपशप", "en": "Chatter"},
+              {"hi": "रहस्य", "en": "Mystery"},
+              {"hi": "शोर", "en": "Noise"},
+              {"hi": "सब सही है", "en": "All correct"}
+            ],
+            "answer": {"hi": "सब सही है", "en": "All correct"}
+          },
+          {
+            "q": { "hi": "क्या तेल के बाद रहस्य बना रहा?", "en": "Did the mystery remain after the oiling?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": { "hi": "पंखे का चलना पानी जैसा क्या था?", "en": "The fan running was like water, how?" },
+            "options": [
+              {"hi": "शांत", "en": "Still"},
+              {"hi": "तेज", "en": "Fast"},
+              {"hi": "गंदा", "en": "Dirty"},
+              {"hi": "शोर वाला", "en": "Noisy"}
+            ],
+            "answer": {"hi": "शांत", "en": "Still"}
+          },
+          {
+            "q": { "hi": "क्या कवि को पंखे के रहस्य के खत्म होने का दुख था?", "en": "Was the poet sad about the mystery ending?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": { "hi": "क्या पंखा इंसान है?", "en": "Is the fan a human?" },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          }
         ]
       },
     "chapter09a": {
