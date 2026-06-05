@@ -7946,265 +7946,665 @@
           }
         ]
       },
-    "chapter09a": {
+    "chapter07a":{
         "section1": [
           {
-            "q": {"hi": "कविता 'Skills' के कवि कौन हैं?", "en": "Who is the poet of the poem 'Skills'?"},
-            "options": [{"hi": "पॉल किंग", "en": "Paul King"}, {"hi": "रबींद्रनाथ टैगोर", "en": "Rabindranath Tagore"}, {"hi": "रस्किन बॉन्ड", "en": "Ruskin Bond"}, {"hi": "स्टीवी ऐन वाइल्ड", "en": "Stevie Ann Wilde"}],
-            "answer": {"hi": "पॉल किंग", "en": "Paul King"}
+            "q": {
+              "hi": "मिस्टर विली वोंका ने सबसे पहले क्या आविष्कार किया था?",
+              "en": "What did Mr. Willy Wonka invent first?"
+            },
+            "options": [
+              {"hi": "वोंका-वाइट", "en": "Wonka-Vite"},
+              {"hi": "वाइट-वोंका", "en": "Vita-Wonk"},
+              {"hi": "दवा", "en": "Medicine"},
+              {"hi": "खिलौना", "en": "Toy"}
+            ],
+            "answer": {"hi": "वोंका-वाइट", "en": "Wonka-Vite"}
           },
           {
-            "q": {"hi": "कविता के अनुसार, जो उपकरण उपयोग नहीं किए जाते, वे कहाँ खो जाते हैं?", "en": "According to the poem, where does an unused tool lie lost?"},
-            "options": [{"hi": "गहराई में", "en": "In depth"}, {"hi": "धूल में", "en": "In dust"}, {"hi": "पानी में", "en": "In water"}, {"hi": "मिट्टी के नीचे", "en": "Under soil"}],
-            "answer": {"hi": "धूल में", "en": "In dust"}
+            "q": {
+              "hi": "वोंका-वाइट लोगों को क्या बनाता था?",
+              "en": "What did Wonka-Vite make people?"
+            },
+            "options": [
+              {"hi": "बूढ़ा", "en": "Old"},
+              {"hi": "जवान", "en": "Young"},
+              {"hi": "लंबा", "en": "Tall"},
+              {"hi": "ताकतवर", "en": "Strong"}
+            ],
+            "answer": {"hi": "जवान", "en": "Young"}
           },
           {
-            "q": {"hi": "उपयोग न की जाने वाली तलवार का क्या होता है?", "en": "What happens to a sword that is not used?"},
-            "options": [{"hi": "वह तेज हो जाती है", "en": "It becomes sharp"}, {"hi": "उस पर जंग लग जाता है", "en": "It turns dull with rust"}, {"hi": "वह टूट जाती है", "en": "It breaks"}, {"hi": "वह खो जाती है", "en": "It gets lost"}],
-            "answer": {"hi": "उस पर जंग लग जाता है", "en": "It turns dull with rust"}
+            "q": {
+              "hi": "वोंका-वाइट बहुत शक्तिशाली होने के कारण क्या हुआ?",
+              "en": "What happened because Wonka-Vite was too strong?"
+            },
+            "options": [
+              {"hi": "लोग गायब हो गए", "en": "People disappeared"},
+              {"hi": "लोग मोटे हो गए", "en": "People became fat"},
+              {"hi": "लोग बीमार पड़ गए", "en": "People got sick"},
+              {"hi": "लोग रोने लगे", "en": "People started crying"}
+            ],
+            "answer": {"hi": "लोग गायब हो गए", "en": "People disappeared"}
           },
           {
-            "q": {"hi": "कविता में 'clogged' का क्या अर्थ है?", "en": "What is the meaning of 'clogged' in the poem?"},
-            "options": [{"hi": "साफ", "en": "Clean"}, {"hi": "बंद या अवरुद्ध", "en": "Blocked"}, {"hi": "बड़ा", "en": "Big"}, {"hi": "सुंदर", "en": "Beautiful"}],
-            "answer": {"hi": "बंद या अवरुद्ध", "en": "Blocked"}
+            "q": {
+              "hi": "यदि किसी की उम्र 'माइनस' में चली जाए तो क्या होता है?",
+              "en": "What happens if someone's age goes into 'minus'?"
+            },
+            "options": [
+              {"hi": "वह बूढ़ा हो जाता है", "en": "They become old"},
+              {"hi": "उन्हें वापस आने के लिए कई साल इंतजार करना पड़ता है", "en": "They have to wait many years to come back"},
+              {"hi": "वे मर जाते हैं", "en": "They die"},
+              {"hi": "वे अमीर हो जाते हैं", "en": "They become rich"}
+            ],
+            "answer": {"hi": "उन्हें वापस आने के लिए कई साल इंतजार करना पड़ता है", "en": "They have to wait many years to come back"}
           },
           {
-            "q": {"hi": "जिस रास्ते पर कोई नहीं चलता, वह किससे भर जाता है?", "en": "What does an unused path grow with?"},
-            "options": [{"hi": "फूलों से", "en": "With flowers"}, {"hi": "खरपतवार (weed) से", "en": "With weed"}, {"hi": "मिट्टी से", "en": "With soil"}, {"hi": "पत्थरों से", "en": "With stones"}],
-            "answer": {"hi": "खरपतवार (weed) से", "en": "With weed"}
+            "q": {
+              "hi": "मिस्टर वोंका ने क्या बनाने का निर्णय लिया?",
+              "en": "What did Mr. Wonka decide to create?"
+            },
+            "options": [
+              {"hi": "जवान बनाने वाली चीज", "en": "Something to make people young"},
+              {"hi": "बूढ़ा बनाने वाली चीज", "en": "Something to make people old"},
+              {"hi": "उड़ने वाली चीज", "en": "Something to fly"},
+              {"hi": "खाना", "en": "Food"}
+            ],
+            "answer": {"hi": "बूढ़ा बनाने वाली चीज", "en": "Something to make people old"}
           },
           {
-            "q": {"hi": "बिना देखभाल वाली फसल का क्या होता है?", "en": "What happens to an untended crop?"},
-            "options": [{"hi": "वह सूख जाती है", "en": "It dries up"}, {"hi": "वह बीज बन जाती है", "en": "It goes to seed"}, {"hi": "वह बड़ी हो जाती है", "en": "It grows big"}, {"hi": "वह सुरक्षित रहती है", "en": "It remains safe"}],
-            "answer": {"hi": "वह बीज बन जाती है", "en": "It goes to seed"}
+            "q": {
+              "hi": "मिस्टर वोंका ने दुनिया की सबसे पुरानी जीवित चीज के बारे में क्या पूछा?",
+              "en": "What did Mr. Wonka ask about the oldest living thing?"
+            },
+            "options": [
+              {"hi": "क्या है?", "en": "What is it?"},
+              {"hi": "कहां है?", "en": "Where is it?"},
+              {"hi": "कितना बड़ा है?", "en": "How big is it?"},
+              {"hi": "किसने देखा है?", "en": "Who has seen it?"}
+            ],
+            "answer": {"hi": "क्या है?", "en": "What is it?"}
           },
           {
-            "q": {"hi": "कौशल (skills) का उपयोग न करने पर क्या होता है?", "en": "What happens to unused skills?"},
-            "options": [{"hi": "वे निखरते हैं", "en": "They shine"}, {"hi": "वे नष्ट (decay) हो जाते हैं", "en": "They soon decay"}, {"hi": "वे बढ़ते हैं", "en": "They grow"}, {"hi": "वे स्थिर रहते हैं", "en": "They remain stable"}],
-            "answer": {"hi": "वे नष्ट (decay) हो जाते हैं", "en": "They soon decay"}
+            "q": {
+              "hi": "चार्ली के अनुसार दुनिया की सबसे पुरानी जीवित चीज क्या है?",
+              "en": "According to Charlie, what is the oldest living thing?"
+            },
+            "options": [
+              {"hi": "हाथी", "en": "Elephant"},
+              {"hi": "पेड़", "en": "Tree"},
+              {"hi": "कछुआ", "en": "Tortoise"},
+              {"hi": "इंसान", "en": "Human"}
+            ],
+            "answer": {"hi": "पेड़", "en": "Tree"}
           },
           {
-            "q": {"hi": "बर्बाद प्रतिभा (talent) का क्या होता है?", "en": "What happens to wasted talents?"},
-            "options": [{"hi": "वे चमकते हैं", "en": "They shine"}, {"hi": "वे गायब (fade away) हो जाते हैं", "en": "They fade away"}, {"hi": "वे अमर हो जाते हैं", "en": "They become immortal"}, {"hi": "वे वापस आते हैं", "en": "They return"}],
-            "answer": {"hi": "वे गायब (fade away) हो जाते हैं", "en": "They fade away"}
+            "q": {
+              "hi": "मिस्टर वोंका ने किस पेड़ का नाम लिया?",
+              "en": "Which tree did Mr. Wonka name?"
+            },
+            "options": [
+              {"hi": "ओक", "en": "Oak"},
+              {"hi": "ब्रिसलकोन पाइन (Bristlecone pine)", "en": "Bristlecone pine"},
+              {"hi": "देवदार", "en": "Cedar"},
+              {"hi": "बरगद", "en": "Banyan"}
+            ],
+            "answer": {"hi": "ब्रिसलकोन पाइन (Bristlecone pine)", "en": "Bristlecone pine"}
           },
           {
-            "q": {"hi": "कवि किस प्रकार कार्य करने का संकल्प लेता है?", "en": "With what resolve does the poet want to work?"},
-            "options": [{"hi": "बिना मन के", "en": "Without a wish"}, {"hi": "इच्छा और दृढ़ संकल्प के साथ", "en": "With a wish and a will"}, {"hi": "डर के साथ", "en": "With fear"}, {"hi": "मजबूरी में", "en": "Compulsion"}],
-            "answer": {"hi": "इच्छा और दृढ़ संकल्प के साथ", "en": "With a wish and a will"}
+            "q": {
+              "hi": "ब्रिसलकोन पाइन कितने साल पुराने हो सकते हैं?",
+              "en": "How old can Bristlecone pines be?"
+            },
+            "options": [
+              {"hi": "1000 साल", "en": "1000 years"},
+              {"hi": "4000 साल से अधिक", "en": "Over 4000 years"},
+              {"hi": "500 साल", "en": "500 years"},
+              {"hi": "100 साल", "en": "100 years"}
+            ],
+            "answer": {"hi": "4000 साल से अधिक", "en": "Over 4000 years"}
           },
           {
-            "q": {"hi": "कवि जीवन द्वारा लाए गए कार्यों को कैसे पूरा करना चाहता है?", "en": "How does the poet want to fulfill the tasks life brings?"},
-            "options": [{"hi": "दुखी होकर", "en": "Sadly"}, {"hi": "खुशी से (gladly)", "en": "Gladly"}, {"hi": "गुस्से में", "en": "Angrily"}, {"hi": "अनमने ढंग से", "en": "Reluctantly"}],
-            "answer": {"hi": "खुशी से (gladly)", "en": "Gladly"}
+            "q": {
+              "hi": "पेड़ कहाँ उगते हैं?",
+              "en": "Where do the trees grow?"
+            },
+            "options": [
+              {"hi": "नेवादा, अमेरिका के व्हीलर पीक की ढलानों पर", "en": "On the slopes of Wheeler Peak in Nevada, U.S.A."},
+              {"hi": "भारत में", "en": "In India"},
+              {"hi": "समुद्र में", "en": "In the sea"},
+              {"hi": "मैदान में", "en": "In plains"}
+            ],
+            "answer": {"hi": "नेवादा, अमेरिका के व्हीलर पीक की ढलानों पर", "en": "On the slopes of Wheeler Peak in Nevada, U.S.A."}
           }
         ],
         "section2": [
           {
-            "q": {"hi": "नए कौशल विकसित करने से कवि को क्या प्राप्त होगा?", "en": "What will the poet get by unfolding new skills?"},
-            "options": [{"hi": "दुःख", "en": "Sorrow"}, {"hi": "ढेर सारी खुशियाँ (many joys)", "en": "Many joys"}, {"hi": "थकान", "en": "Tiredness"}, {"hi": "धन", "en": "Wealth"}],
-            "answer": {"hi": "ढेर सारी खुशियाँ (many joys)", "en": "Many joys"}
+            "q": {
+              "hi": "मिस्टर वोंका ने दुनिया भर में क्या इकट्ठा किया?",
+              "en": "What did Mr. Wonka collect all over the world?"
+            },
+            "options": [
+              {"hi": "सोना", "en": "Gold"},
+              {"hi": "विशेष चीजें", "en": "Special items"},
+              {"hi": "पैसे", "en": "Money"},
+              {"hi": "किताबें", "en": "Books"}
+            ],
+            "answer": {"hi": "विशेष चीजें", "en": "Special items"}
           },
           {
-            "q": {"hi": "कवि 'dull rust' से क्या करने को कहता है?", "en": "What does the poet ask 'dull rust' to do?"},
-            "options": [{"hi": "पास रहने को", "en": "Stay near"}, {"hi": "दूर जाने को", "en": "Away"}, {"hi": "चमकने को", "en": "Shine"}, {"hi": "बढ़ने को", "en": "Grow"}],
-            "answer": {"hi": "दूर जाने को", "en": "Away"}
+            "q": {
+              "hi": "रूसी किसान पेत्रोविच ग्रेगोरोविच कितने साल का था?",
+              "en": "How old was the Russian farmer Petrovitch Gregorovitch?"
+            },
+            "options": [
+              {"hi": "50 साल", "en": "50 years"},
+              {"hi": "168 साल", "en": "168 years"},
+              {"hi": "100 साल", "en": "100 years"},
+              {"hi": "70 साल", "en": "70 years"}
+            ],
+            "answer": {"hi": "168 साल", "en": "168 years"}
           },
           {
-            "q": {"hi": "कविता का अंत कवि किस भावना के साथ करता है?", "en": "With what feeling does the poet end the poem?"},
-            "options": [{"hi": "निराशा", "en": "Despair"}, {"hi": "चमकने की इच्छा (shine)", "en": "Wish to shine"}, {"hi": "थकान", "en": "Tiredness"}, {"hi": "डर", "en": "Fear"}],
-            "answer": {"hi": "चमकने की इच्छा (shine)", "en": "Wish to shine"}
+            "q": {
+              "hi": "किंग ऑफ टोंगा के कछुए की क्या उम्र थी?",
+              "en": "What was the age of the King of Tonga's tortoise?"
+            },
+            "options": [
+              {"hi": "100 साल", "en": "100 years"},
+              {"hi": "200 साल", "en": "200 years"},
+              {"hi": "50 साल", "en": "50 years"},
+              {"hi": "300 साल", "en": "300 years"}
+            ],
+            "answer": {"hi": "200 साल", "en": "200 years"}
           },
           {
-            "q": {"hi": "कविता में 'untended' का क्या अर्थ है?", "en": "What is the meaning of 'untended'?"},
-            "options": [{"hi": "देखभाल का अभाव", "en": "Lacking care and attention"}, {"hi": "बहुत देखभाल", "en": "Well-tended"}, {"hi": "महंगा", "en": "Expensive"}, {"hi": "सस्ता", "en": "Cheap"}],
-            "answer": {"hi": "देखभाल का अभाव", "en": "Lacking care and attention"}
+            "q": {
+              "hi": "अरब के घोड़े की उम्र क्या थी?",
+              "en": "What was the age of the Arabian horse?"
+            },
+            "options": [
+              {"hi": "20 साल", "en": "20 years"},
+              {"hi": "51 साल", "en": "51 years"},
+              {"hi": "100 साल", "en": "100 years"},
+              {"hi": "5 साल", "en": "5 years"}
+            ],
+            "answer": {"hi": "51 साल", "en": "51 years"}
           },
           {
-            "q": {"hi": "कवि के अनुसार, प्रतिभा को बचाने का एकमात्र तरीका क्या है?", "en": "According to the poet, what is the only way to save talent?"},
-            "options": [{"hi": "उसे छुपाना", "en": "Hide it"}, {"hi": "उसका उपयोग करना", "en": "Use it"}, {"hi": "उसके बारे में सोचना", "en": "Think about it"}, {"hi": "उसे सुरक्षित रखना", "en": "Keep it safe"}],
-            "answer": {"hi": "उसका उपयोग करना", "en": "Use it"}
+            "q": {
+              "hi": "बिल्ली 'क्रमपेट्स' की क्या उम्र थी?",
+              "en": "What was the age of the cat 'Crumpets'?"
+            },
+            "options": [
+              {"hi": "10 साल", "en": "10 years"},
+              {"hi": "36 साल", "en": "36 years"},
+              {"hi": "5 साल", "en": "5 years"},
+              {"hi": "20 साल", "en": "20 years"}
+            ],
+            "answer": {"hi": "36 साल", "en": "36 years"}
           },
           {
-            "q": {"hi": "क्या उपयोग न किए गए उपकरण का मूल्य खत्म हो जाता है?", "en": "Does the value of an unused tool end?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "तिब्बत के विशाल चूहे की उम्र क्या थी?",
+              "en": "What was the age of the giant rat from Tibet?"
+            },
+            "options": [
+              {"hi": "100 साल", "en": "100 years"},
+              {"hi": "207 साल", "en": "207 years"},
+              {"hi": "50 साल", "en": "50 years"},
+              {"hi": "500 साल", "en": "500 years"}
+            ],
+            "answer": {"hi": "207 साल", "en": "207 years"}
           },
           {
-            "q": {"hi": "कवि के अनुसार, क्या जीवन हमें कार्य देता है?", "en": "Does life bring us tasks according to the poet?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "माउंट पोपोकाटेपेटल पर रहने वाले ग्रिमल्किन की उम्र क्या थी?",
+              "en": "What was the age of the Grimalkin on Mount Popocatepetl?"
+            },
+            "options": [
+              {"hi": "50 साल", "en": "50 years"},
+              {"hi": "97 साल", "en": "97 years"},
+              {"hi": "200 साल", "en": "200 years"},
+              {"hi": "10 साल", "en": "10 years"}
+            ],
+            "answer": {"hi": "97 साल", "en": "97 years"}
           },
           {
-            "q": {"hi": "क्या जंग (rust) का अर्थ आलस्य (laziness) का प्रतीक हो सकता है?", "en": "Can rust represent laziness?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "पेरू के कैटालू की उम्र क्या थी?",
+              "en": "What was the age of the Cattaloo from Peru?"
+            },
+            "options": [
+              {"hi": "700 साल", "en": "700 years"},
+              {"hi": "100 साल", "en": "100 years"},
+              {"hi": "50 साल", "en": "50 years"},
+              {"hi": "400 साल", "en": "400 years"}
+            ],
+            "answer": {"hi": "700 साल", "en": "700 years"}
           },
           {
-            "q": {"hi": "कविता में किस चीज पर जोर दिया गया है?", "en": "What is emphasized in the poem?"},
-            "options": [{"hi": "कड़ी मेहनत का महत्व", "en": "Importance of hard work"}, {"hi": "आराम का महत्व", "en": "Importance of rest"}, {"hi": "सोने का महत्व", "en": "Importance of sleep"}],
-            "answer": {"hi": "कड़ी मेहनत का महत्व", "en": "Importance of hard work"}
+            "q": {
+              "hi": "मिस्टर वोंका ने अपनी खोज कहां की?",
+              "en": "Where did Mr. Wonka make his discovery?"
+            },
+            "options": [
+              {"hi": "घर पर", "en": "At home"},
+              {"hi": "इन्वेंटिंग रूम (Inventing Room)", "en": "Inventing Room"},
+              {"hi": "बाहर", "en": "Outside"},
+              {"hi": "स्कूल में", "en": "At school"}
+            ],
+            "answer": {"hi": "इन्वेंटिंग रूम (Inventing Room)", "en": "Inventing Room"}
           },
           {
-            "q": {"hi": "क्या कविता सकारात्मक है?", "en": "Is the poem positive?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "मिस्टर वोंका ने क्या तरल पदार्थ तैयार किया?",
+              "en": "What liquid did Mr. Wonka prepare?"
+            },
+            "options": [
+              {"hi": "काली तरल (tiny cupful of oily black liquid)", "en": "Oily black liquid"},
+              {"hi": "लाल तरल", "en": "Red liquid"},
+              {"hi": "नीली तरल", "en": "Blue liquid"},
+              {"hi": "दूध", "en": "Milk"}
+            ],
+            "answer": {"hi": "काली तरल (tiny cupful of oily black liquid)", "en": "Oily black liquid"}
           }
         ],
         "section3": [
           {
-            "q": {"hi": "उपयोग न किए गए कौशल का क्या परिणाम होता है?", "en": "What is the result of unused skills?"},
-            "options": [{"hi": "वृद्धि", "en": "Growth"}, {"hi": "क्षय (decay)", "en": "Decay"}, {"hi": "सुधार", "en": "Improvement"}],
-            "answer": {"hi": "क्षय (decay)", "en": "Decay"}
+            "q": {
+              "hi": "परीक्षण के लिए किसे चुना गया?",
+              "en": "Who was chosen for testing?"
+            },
+            "options": [
+              {"hi": "चार्ली", "en": "Charlie"},
+              {"hi": "उम्पा-लुम्पा स्वयंसेवक (Oompa-Loompa volunteer)", "en": "Oompa-Loompa volunteer"},
+              {"hi": "एक जानवर", "en": "An animal"},
+              {"hi": "मिस्टर वोंका खुद", "en": "Mr. Wonka himself"}
+            ],
+            "answer": {"hi": "उम्पा-लुम्पा स्वयंसेवक (Oompa-Loompa volunteer)", "en": "Oompa-Loompa volunteer"}
           },
           {
-            "q": {"hi": "कवि ने 'weed' का उपयोग किसके लिए किया है?", "en": "For what does the poet use the word 'weed'?"},
-            "options": [{"hi": "विकास", "en": "Growth"}, {"hi": "अवरोध (clogging)", "en": "Clogging"}, {"hi": "सुंदरता", "en": "Beauty"}],
-            "answer": {"hi": "अवरोध (clogging)", "en": "Clogging"}
+            "q": {
+              "hi": "वोंका-वाइट पीने के बाद स्वयंसेवक की उम्र कितनी थी?",
+              "en": "How old was the volunteer after drinking Vita-Wonk?"
+            },
+            "options": [
+              {"hi": "20 साल", "en": "20 years"},
+              {"hi": "75 साल", "en": "75 years"},
+              {"hi": "100 साल", "en": "100 years"},
+              {"hi": "5 साल", "en": "5 years"}
+            ],
+            "answer": {"hi": "75 साल", "en": "75 years"}
           },
           {
-            "q": {"hi": "क्या काम करने से हमें खुशियाँ मिल सकती हैं?", "en": "Can working bring us joy?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "q": {
+              "hi": "स्वयंसेवक की उम्र क्या थी?",
+              "en": "What was the volunteer's age?"
+            },
+            "options": [
+              {"hi": "75 साल", "en": "75 years"},
+              {"hi": "20 साल", "en": "20 years"},
+              {"hi": "50 साल", "en": "50 years"},
+              {"hi": "10 साल", "en": "10 years"}
+            ],
+            "answer": {"hi": "20 साल", "en": "20 years"}
+          },
+          {
+            "q": {
+              "hi": "क्या आविष्कार सफल रहा?",
+              "en": "Was the invention successful?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
             "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {"hi": "कवि ने स्वयं को किस प्रकार प्रेरित किया है?", "en": "How has the poet inspired himself?"},
-            "options": [{"hi": "स्वयं की इच्छा से", "en": "Through his own will"}, {"hi": "दूसरों के कहने पर", "en": "By others"}, {"hi": "जबरदस्ती", "en": "Forced"}],
-            "answer": {"hi": "स्वयं की इच्छा से", "en": "Through his own will"}
+            "q": {
+              "hi": "मिस्टर वोंका ने अपना दिमाग कैसे इस्तेमाल किया?",
+              "en": "How did Mr. Wonka use his brain?"
+            },
+            "options": [
+              {"hi": "सोकर", "en": "By sleeping"},
+              {"hi": "निचोड़कर (squeezed my brain)", "en": "Squeezed his brain"},
+              {"hi": "लिखकर", "en": "By writing"},
+              {"hi": "पढ़कर", "en": "By reading"}
+            ],
+            "answer": {"hi": "निचोड़कर (squeezed my brain)", "en": "Squeezed his brain"}
           },
           {
-            "q": {"hi": "क्या जंग तलवार को नष्ट कर देती है?", "en": "Does rust destroy the sword?"},
-            "options": [{"hi": "हाँ, उसकी धार को खत्म कर देती है", "en": "Yes, it makes it dull"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ, उसकी धार को खत्म कर देती है", "en": "Yes, it makes it dull"}
+            "q": {
+              "hi": "आविष्कार के लिए क्या करना पड़ता था?",
+              "en": "What had to be done for the invention?"
+            },
+            "options": [
+              {"hi": "उबालना और मिलाना", "en": "Boiling and mixing"},
+              {"hi": "सोना", "en": "Sleeping"},
+              {"hi": "पढ़ना", "en": "Reading"},
+              {"hi": "घूमना", "en": "Traveling"}
+            ],
+            "answer": {"hi": "उबालना और मिलाना", "en": "Boiling and mixing"}
           },
           {
-            "q": {"hi": "क्या हमें आलस्य छोड़ना चाहिए?", "en": "Should we give up laziness?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "q": {
+              "hi": "क्या मिस्टर वोंका ने दुनिया की यात्रा की?",
+              "en": "Did Mr. Wonka travel the world?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
             "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {"hi": "कविता में किसका अर्थ 'lacking care' है?", "en": "Which word in the poem means 'lacking care'?"},
-            "options": [{"hi": "Untended", "en": "Untended"}, {"hi": "Decay", "en": "Decay"}, {"hi": "Lost", "en": "Lost"}],
-            "answer": {"hi": "Untended", "en": "Untended"}
-          },
-          {
-            "q": {"hi": "क्या नए कौशल सीखना चुनौतीपूर्ण है?", "en": "Is learning new skills challenging?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "q": {
+              "hi": "क्या वोंका-वाइट खतरनाक था?",
+              "en": "Was Wonka-Vite dangerous?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
             "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {"hi": "क्या कार्य को खुशी से पूरा करना चाहिए?", "en": "Should tasks be fulfilled gladly?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "मिस्टर वोंका किस चीज के बारे में सोच रहे थे?",
+              "en": "What was Mr. Wonka thinking about?"
+            },
+            "options": [
+              {"hi": "जवानी", "en": "Youth"},
+              {"hi": "बुढ़ापा (age/old)", "en": "Age"},
+              {"hi": "खाना", "en": "Food"},
+              {"hi": "पैसे", "en": "Money"}
+            ],
+            "answer": {"hi": "बुढ़ापा (age/old)", "en": "Age"}
           },
           {
-            "q": {"hi": "क्या कौशल समय के साथ बेहतर होते हैं?", "en": "Do skills improve with time?"},
-            "options": [{"hi": "हाँ, यदि उनका उपयोग किया जाए", "en": "Yes, if they are used"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ, यदि उनका उपयोग किया जाए", "en": "Yes, if they are used"}
+            "q": {
+              "hi": "क्या उम्पा-लुम्पा वालंटियर बहादुर था?",
+              "en": "Was the Oompa-Loompa volunteer brave?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           }
         ],
         "section4": [
           {
-            "q": {"hi": "कवि किस बात से चमकना चाहता है?", "en": "Through what does the poet want to shine?"},
-            "options": [{"hi": "कड़ी मेहनत", "en": "Hard work"}, {"hi": "आलस्य", "en": "Laziness"}, {"hi": "सोने से", "en": "By sleeping"}],
-            "answer": {"hi": "कड़ी मेहनत", "en": "Hard work"}
+            "q": {
+              "hi": "देंड्रोक्रोनोलॉजिस्ट (dendrochronologist) कौन है?",
+              "en": "Who is a dendrochronologist?"
+            },
+            "options": [
+              {"hi": "डॉक्टर", "en": "Doctor"},
+              {"hi": "पेड़ों की उम्र बताने वाला (tree age expert)", "en": "Tree age expert"},
+              {"hi": "शिक्षक", "en": "Teacher"},
+              {"hi": "कोई नहीं", "en": "None"}
+            ],
+            "answer": {"hi": "पेड़ों की उम्र बताने वाला (tree age expert)", "en": "Tree age expert"}
           },
           {
-            "q": {"hi": "क्या कविता में धूल (dust) का उल्लेख है?", "en": "Is dust mentioned in the poem?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "q": {
+              "hi": "क्या आविष्कार में समय लगा?",
+              "en": "Did the invention take time?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
             "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {"hi": "कविता का संदेश किसके लिए है?", "en": "For whom is the message of the poem?"},
-            "options": [{"hi": "हर किसी के लिए", "en": "For everyone"}, {"hi": "केवल आलसियों के लिए", "en": "Only for lazy people"}, {"hi": "केवल बच्चों के लिए", "en": "Only for children"}],
-            "answer": {"hi": "हर किसी के लिए", "en": "For everyone"}
+            "q": {
+              "hi": "मिस्टर वोंका ने अपना क्या किया?",
+              "en": "What did Mr. Wonka roll up?"
+            },
+            "options": [
+              {"hi": "पैर", "en": "Legs"},
+              {"hi": "आस्तीन (sleeves)", "en": "Sleeves"},
+              {"hi": "बाल", "en": "Hair"},
+              {"hi": "कोई नहीं", "en": "None"}
+            ],
+            "answer": {"hi": "आस्तीन (sleeves)", "en": "Sleeves"}
           },
           {
-            "q": {"hi": "क्या कविता में 'shining' का मतलब सफलता है?", "en": "Does 'shining' in the poem mean success?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "वोंका-वाइट ने क्या किया?",
+              "en": "What did Wonka-Vite do?"
+            },
+            "options": [
+              {"hi": "लोगों को जवान बनाया", "en": "Made people young"},
+              {"hi": "लोगों को बूढ़ा बनाया", "en": "Made people old"},
+              {"hi": "लोगों को गायब किया", "en": "Disappeared people"},
+              {"hi": "सब सही है", "en": "All correct"}
+            ],
+            "answer": {"hi": "लोगों को जवान बनाया", "en": "Made people young"}
           },
           {
-            "q": {"hi": "क्या जीवन में चुनौतियाँ (tasks) अनिवार्य हैं?", "en": "Are challenges inevitable in life?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
-          },
-          {
-            "q": {"hi": "कवि के अनुसार, क्या प्रतिभा को बर्बाद करना चाहिए?", "en": "Should talents be wasted according to the poet?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "q": {
+              "hi": "क्या मिस्टर वोंका ने हार मानी?",
+              "en": "Did Mr. Wonka give up?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
             "answer": {"hi": "नहीं", "en": "No"}
           },
           {
-            "q": {"hi": "कवि का लक्ष्य क्या है?", "en": "What is the poet's goal?"},
-            "options": [{"hi": "चमकना (shine)", "en": "To shine"}, {"hi": "सो जाना", "en": "To sleep"}, {"hi": "खाली बैठना", "en": "To sit idle"}],
-            "answer": {"hi": "चमकना (shine)", "en": "To shine"}
-          },
-          {
-            "q": {"hi": "कविता के अनुसार, काम करने का परिणाम क्या है?", "en": "What is the result of working according to the poem?"},
-            "options": [{"hi": "खुशी", "en": "Joy"}, {"hi": "दुःख", "en": "Sorrow"}, {"hi": "थकान", "en": "Tiredness"}],
-            "answer": {"hi": "खुशी", "en": "Joy"}
-          },
-          {
-            "q": {"hi": "क्या कविता में 'rust' का वर्णन है?", "en": "Is rust described in the poem?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "q": {
+              "hi": "क्या आविष्कार में जानवर शामिल थे?",
+              "en": "Were animals involved in the invention?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
             "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {"hi": "क्या हमें अपने कौशलों को निखारना चाहिए?", "en": "Should we sharpen our skills?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "q": {
+              "hi": "क्या आविष्कार में कीट शामिल थे?",
+              "en": "Were insects involved in the invention?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
             "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {
+              "hi": "क्या वोंका-वाइट की मात्रा सही थी?",
+              "en": "Was the quantity of Wonka-Vite correct?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं (too strong)", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं (too strong)", "en": "No"}
+          },
+          {
+            "q": {
+              "hi": "मिस्टर वोंका की कहानी कैसी थी?",
+              "en": "How was Mr. Wonka's story?"
+            },
+            "options": [
+              {"hi": "सच", "en": "True"},
+              {"hi": "काल्पनिक/रोचक", "en": "Fictional/Interesting"},
+              {"hi": "उदास", "en": "Sad"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "काल्पनिक/रोचक", "en": "Fictional/Interesting"}
+          },
+          {
+            "q": {
+              "hi": "क्या मिस्टर वोंका पागल थे?",
+              "en": "Was Mr. Wonka crazy?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं (genius)", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं (genius)", "en": "No"}
           }
         ],
         "section5": [
           {
-            "q": {"hi": "क्या कविता 'Test Your Knowledge' सेक्शन में दी गई है?", "en": "Is the poem given in the 'Test Your Knowledge' section?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "q": {
+              "hi": "आविष्कार के लिए क्या इस्तेमाल किया गया?",
+              "en": "What was used for the invention?"
+            },
+            "options": [
+              {"hi": "पेड़ का रस", "en": "Tree sap"},
+              {"hi": "जानवरों के बाल", "en": "Animal hair"},
+              {"hi": "अंडे", "en": "Eggs"},
+              {"hi": "सब सही है", "en": "All correct"}
+            ],
+            "answer": {"hi": "सब सही है", "en": "All correct"}
+          },
+          {
+            "q": {
+              "hi": "मिस्टर वोंका ने क्या बनाने की कोशिश की?",
+              "en": "What was Mr. Wonka trying to create?"
+            },
+            "options": [
+              {"hi": "जवानी", "en": "Youth"},
+              {"hi": "बुढ़ापा (age)", "en": "Age"},
+              {"hi": "खाना", "en": "Food"},
+              {"hi": "कोई नहीं", "en": "None"}
+            ],
+            "answer": {"hi": "बुढ़ापा (age)", "en": "Age"}
+          },
+          {
+            "q": {
+              "hi": "क्या उम्पा-लुम्पा को दवा मिली?",
+              "en": "Did the Oompa-Loompa get the medicine?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
             "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {"hi": "कविता के अनुसार कार्य क्या है?", "en": "What is work according to the poem?"},
-            "options": [{"hi": "एक वरदान", "en": "A blessing"}, {"hi": "खुशी का स्रोत", "en": "Source of joy"}, {"hi": "बोझ", "en": "Burden"}],
-            "answer": {"hi": "खुशी का स्रोत", "en": "Source of joy"}
-          },
-          {
-            "q": {"hi": "क्या आलसी व्यक्ति सफल हो सकता है?", "en": "Can a lazy person be successful?"},
-            "options": [{"hi": "नहीं", "en": "No"}, {"hi": "हाँ", "en": "Yes"}],
+            "q": {
+              "hi": "क्या मिस्टर वोंका ने हार मानी?",
+              "en": "Did Mr. Wonka give up?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
             "answer": {"hi": "नहीं", "en": "No"}
           },
           {
-            "q": {"hi": "क्या हमें चुनौतियों को खुशी से स्वीकार करना चाहिए?", "en": "Should we accept challenges gladly?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "q": {
+              "hi": "क्या यह आविष्कार काम कर गया?",
+              "en": "Did this invention work?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
             "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {"hi": "कविता का स्वर कैसा है?", "en": "What is the tone of the poem?"},
-            "options": [{"hi": "प्रेरणादायक", "en": "Inspirational"}, {"hi": "दुखद", "en": "Sad"}, {"hi": "व्यंग्यात्मक", "en": "Sarcastic"}],
-            "answer": {"hi": "प्रेरणादायक", "en": "Inspirational"}
+            "q": {
+              "hi": "आविष्कार के बाद स्वयंसेवक कैसा लग रहा था?",
+              "en": "How did the volunteer look after the invention?"
+            },
+            "options": [
+              {"hi": "छोटा", "en": "Small"},
+              {"hi": "बूढ़ा", "en": "Old"},
+              {"hi": "जवान", "en": "Young"},
+              {"hi": "कोई नहीं", "en": "None"}
+            ],
+            "answer": {"hi": "बूढ़ा", "en": "Old"}
           },
           {
-            "q": {"hi": "कवि किनके लिए कार्य करेगा?", "en": "For whom will the poet work?"},
-            "options": [{"hi": "स्वयं और जीवन के लिए", "en": "For himself and life"}, {"hi": "केवल पैसों के लिए", "en": "Only for money"}, {"hi": "दूसरों को दिखाने के लिए", "en": "For show"}],
-            "answer": {"hi": "स्वयं और जीवन के लिए", "en": "For himself and life"}
+            "q": {
+              "hi": "क्या आविष्कार सुरक्षित था?",
+              "en": "Was the invention safe?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "शायद"}
           },
           {
-            "q": {"hi": "क्या उपयोग न करने पर चीजें खराब हो जाती हैं?", "en": "Do things get spoiled if not used?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "q": {
+              "hi": "मिस्टर वोंका का क्या इरादा था?",
+              "en": "What was Mr. Wonka's intention?"
+            },
+            "options": [
+              {"hi": "लोगों को मदद करना", "en": "To help people"},
+              {"hi": "प्रयोग करना", "en": "To experiment"},
+              {"hi": "पैसे कमाना", "en": "To earn money"},
+              {"hi": "कुछ नहीं", "en": "Nothing"}
+            ],
+            "answer": {"hi": "प्रयोग करना", "en": "To experiment"}
+          },
+          {
+            "q": {
+              "hi": "क्या मिस्टर वोंका महान वैज्ञानिक हैं?",
+              "en": "Is Mr. Wonka a great scientist?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
             "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {"hi": "क्या कविता में 'will' का उपयोग दृढ़ निश्चय के लिए हुआ है?", "en": "Is 'will' used for determination in the poem?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
-          },
-          {
-            "q": {"hi": "क्या हमें अपनी प्रतिभा को चमकने देना चाहिए?", "en": "Should we let our talent shine?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
-          },
-          {
-            "q": {"hi": "कविता क्या सिखाती है?", "en": "What does the poem teach?"},
-            "options": [{"hi": "कार्य का महत्व", "en": "Importance of work"}, {"hi": "आलस्य का लाभ", "en": "Benefit of laziness"}, {"hi": "सोना", "en": "Sleeping"}],
-            "answer": {"hi": "कार्य का महत्व", "en": "Importance of work"}
+            "q": {
+              "hi": "इस आविष्कार का क्या नाम है?",
+              "en": "What is the name of this invention?"
+            },
+            "options": [
+              {"hi": "वोंका-वाइट", "en": "Wonka-Vite"},
+              {"hi": "वीटा-वोंक (Vita-Wonk)", "en": "Vita-Wonk"},
+              {"hi": "दवा", "en": "Medicine"},
+              {"hi": "कोई नहीं", "en": "None"}
+            ],
+            "answer": {"hi": "वीटा-वोंक (Vita-Wonk)", "en": "Vita-Wonk"}
           }
         ]
       },
