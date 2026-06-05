@@ -6742,510 +6742,665 @@
           }
         ]
       },
-    "chapter05c": {
+    "chapter06a2": {
         "section1": [
           {
-            "q": {"hi": "इला सचानी कहाँ की रहने वाली थीं?", "en": "Where did Ila Sachani live?"},
+            "q": {
+              "hi": "माया ने कागज पर बड़े अक्षरों में क्या लिखा?",
+              "en": "What did Maya write on the paper in large block letters?"
+            },
             "options": [
-              {"hi": "बहावलपुर", "en": "Bahawalpur"},
-              {"hi": "मोती वावड़ी, गुजरात", "en": "Moti Vavdi, Gujarat"},
-              {"hi": "पटना", "en": "Patna"},
-              {"hi": "दिल्ली", "en": "Delhi"}
+              {"hi": "जासूस की डायरी", "en": "Detective's Diary"},
+              {"hi": "अपराधी को पकड़ना", "en": "Catching a Crook"},
+              {"hi": "मिस्टर नाथ का रहस्य", "en": "Mr. Nath's Mystery"},
+              {"hi": "जासूसी का काम", "en": "Detective Work"}
             ],
-            "answer": {"hi": "मोती वावड़ी, गुजरात", "en": "Moti Vavdi, Gujarat"}
+            "answer": {"hi": "अपराधी को पकड़ना", "en": "Catching a Crook"}
           },
           {
-            "q": {"hi": "इला की विशेष प्रतिभा क्या थी?", "en": "What was Ila's special talent?"},
+            "q": {
+              "hi": "माया ने जासूसों के नाम में क्या लिखा?",
+              "en": "What names did Maya write for the detectives?"
+            },
             "options": [
-              {"hi": "गायन", "en": "Singing"},
-              {"hi": "दौड़ना", "en": "Running"},
-              {"hi": "कढ़ाई (Embroidery)", "en": "Embroidery"},
-              {"hi": "खाना बनाना", "en": "Cooking"}
+              {"hi": "माया और निशाद", "en": "Maya and Nishad"},
+              {"hi": "निशाद और माया पंडित", "en": "Nishad and Maya Pandit"},
+              {"hi": "मिस्टर नाथ के जासूस", "en": "Mr. Nath's detectives"},
+              {"hi": "सच्चे जासूस", "en": "True Detectives"}
             ],
-            "answer": {"hi": "कढ़ाई (Embroidery)", "en": "Embroidery"}
+            "answer": {"hi": "निशाद और माया पंडित", "en": "Nishad and Maya Pandit"}
           },
           {
-            "q": {"hi": "इला ने कढ़ाई किस अंग से की?", "en": "What did Ila use to do the embroidery?"},
+            "q": {
+              "hi": "निशाद क्या कर रहा था?",
+              "en": "What was Nishad doing?"
+            },
             "options": [
-              {"hi": "पैरों से", "en": "Feet"},
-              {"hi": "हाथों से", "en": "Hands"},
-              {"hi": "मशीन से", "en": "Machine"},
-              {"hi": "किसी की मदद से", "en": "With someone's help"}
+              {"hi": "खेल रहा था", "en": "Playing"},
+              {"hi": "कॉमिक्स पढ़ रहा था", "en": "Reading comics"},
+              {"hi": "सो रहा था", "en": "Sleeping"},
+              {"hi": "खाना खा रहा था", "en": "Eating"}
             ],
-            "answer": {"hi": "पैरों से", "en": "Feet"}
+            "answer": {"hi": "कॉमिक्स पढ़ रहा था", "en": "Reading comics"}
           },
           {
-            "q": {"hi": "इला के जन्म के समय क्या समस्या थी?", "en": "What was the problem at Ila's birth?"},
+            "q": {
+              "hi": "तथ्य संख्या 1 के अनुसार मिस्टर नाथ का क्या नाम है?",
+              "en": "According to Fact Number 1, what is Mr. Nath's name?"
+            },
             "options": [
-              {"hi": "चल नहीं सकती थी", "en": "Could not walk"},
-              {"hi": "हाथ काम नहीं करते थे", "en": "Hands were hanging loose"},
-              {"hi": "बोल नहीं सकती थी", "en": "Could not speak"},
-              {"hi": "सुन नहीं सकती थी", "en": "Could not hear"}
+              {"hi": "रमेश", "en": "Ramesh"},
+              {"hi": "मिस्टर नाथ", "en": "Mr. Nath"},
+              {"hi": "कोई नाम नहीं", "en": "No name"},
+              {"hi": "पंडित", "en": "Pandit"}
             ],
-            "answer": {"hi": "हाथ काम नहीं करते थे", "en": "Hands were hanging loose"}
+            "answer": {"hi": "मिस्टर नाथ", "en": "Mr. Nath"}
           },
           {
-            "q": {"hi": "इला का जन्म किस परिवार में हुआ था?", "en": "In what kind of family was Ila born?"},
+            "q": {
+              "hi": "माया के अनुसार अधिकांश अपराधियों का क्या होता है?",
+              "en": "According to Maya, what do most crooks have?"
+            },
             "options": [
-              {"hi": "किसान परिवार", "en": "Farmer's family"},
-              {"hi": "शिक्षक परिवार", "en": "Teacher's family"},
-              {"hi": "व्यापारी", "en": "Businessman"},
-              {"hi": "राजा", "en": "King"}
+              {"hi": "कोई नाम नहीं", "en": "No name"},
+              {"hi": "एक उपनाम (alias)", "en": "An alias"},
+              {"hi": "बहुत सारे दोस्त", "en": "Many friends"},
+              {"hi": "नौकरी", "en": "Job"}
             ],
-            "answer": {"hi": "किसान परिवार", "en": "Farmer's family"}
+            "answer": {"hi": "एक उपनाम (alias)", "en": "An alias"}
           },
           {
-            "q": {"hi": "इला को किसने कढ़ाई सिखाई?", "en": "Who taught Ila embroidery?"},
+            "q": {
+              "hi": "शंकर हाउस के किराएदार मिस्टर नाथ को कैसा बताते हैं?",
+              "en": "What do the tenants at Shankar House say about Mr. Nath?"
+            },
             "options": [
-              {"hi": "पिता", "en": "Father"},
-              {"hi": "दोस्त", "en": "Friends"},
-              {"hi": "मां और दादी", "en": "Mother and Grandmother"},
-              {"hi": "स्कूल शिक्षक", "en": "School teacher"}
+              {"hi": "पागल, अजीब और अमित्र", "en": "Mad, strange and unfriendly"},
+              {"hi": "बहुत अच्छा", "en": "Very good"},
+              {"hi": "अमीर", "en": "Rich"},
+              {"hi": "शांत", "en": "Quiet"}
             ],
-            "answer": {"hi": "मां और दादी", "en": "Mother and Grandmother"}
+            "answer": {"hi": "पागल, अजीब और अमित्र", "en": "Mad, strange and unfriendly"}
           },
           {
-            "q": {"hi": "इला कौन सी कढ़ाई कला में कुशल थीं?", "en": "Ila was skilled in which embroidery art?"},
+            "q": {
+              "hi": "तथ्य संख्या 3 क्या है?",
+              "en": "What is Fact Number 3?"
+            },
             "options": [
-              {"hi": "काठियावाड़ी", "en": "Kathiawar"},
-              {"hi": "मधुबनी", "en": "Madhubani"},
-              {"hi": "वरली", "en": "Warli"},
-              {"hi": "फल्क", "en": "Phulkari"}
+              {"hi": "वह अमीर है", "en": "He is rich"},
+              {"hi": "वह किसी से बात नहीं करता और शिष्टाचारहीन है", "en": "He doesn't talk and is mannerless"},
+              {"hi": "वह यात्रा करता है", "en": "He travels"},
+              {"hi": "वह खाना खाता है", "en": "He eats food"}
             ],
-            "answer": {"hi": "काठियावाड़ी", "en": "Kathiawar"}
+            "answer": {"hi": "वह किसी से बात नहीं करता और शिष्टाचारहीन है", "en": "He doesn't talk and is mannerless"}
           },
           {
-            "q": {"hi": "क्या इला ने हार मानी?", "en": "Did Ila give up?"},
+            "q": {
+              "hi": "मम्मी के अनुसार मिस्टर नाथ कैसे हैं?",
+              "en": "According to Mummy, how is Mr. Nath?"
+            },
+            "options": [
+              {"hi": "अजीब", "en": "Strange"},
+              {"hi": "बहुत विनम्र (polite)", "en": "Very polite"},
+              {"hi": "गुस्सैल", "en": "Angry"},
+              {"hi": "खराब", "en": "Bad"}
+            ],
+            "answer": {"hi": "बहुत विनम्र (polite)", "en": "Very polite"}
+          },
+          {
+            "q": {
+              "hi": "क्या मिस्टर नाथ को कोई पत्र मिलते हैं?",
+              "en": "Does Mr. Nath receive any letters?"
+            },
             "options": [
               {"hi": "हाँ", "en": "Yes"},
-              {"hi": "शायद", "en": "Maybe"},
               {"hi": "नहीं", "en": "No"},
-              {"hi": "पता नहीं", "en": "Don't know"}
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "हर रोज़", "en": "Every day"}
             ],
             "answer": {"hi": "नहीं", "en": "No"}
           },
           {
-            "q": {"hi": "इला के माता-पिता ने क्या किया?", "en": "What did Ila's parents do?"},
+            "q": {
+              "hi": "मिस्टर नाथ शंकर हाउस के किस कमरे में रहते हैं?",
+              "en": "In which room does Mr. Nath live in Shankar House?"
+            },
             "options": [
-              {"hi": "डांटा", "en": "Scolded"},
-              {"hi": "उन्हें प्रोत्साहित किया", "en": "Encouraged her"},
-              {"hi": "छोड़ दिया", "en": "Left her"},
-              {"hi": "स्कूल नहीं भेजा", "en": "Did not send to school"}
+              {"hi": "कमरा नंबर 5", "en": "Room 5"},
+              {"hi": "कमरा नंबर 10", "en": "Room 10"},
+              {"hi": "कमरा नंबर 1", "en": "Room 1"},
+              {"hi": "कमरा नंबर 15", "en": "Room 15"}
             ],
-            "answer": {"hi": "उन्हें प्रोत्साहित किया", "en": "Encouraged her"}
-          },
-          {
-            "q": {"hi": "कढ़ाई सीखने का कार्य कैसा था?", "en": "How was the task of learning embroidery?"},
-            "options": [
-              {"hi": "आसान", "en": "Easy"},
-              {"hi": "मजेदार", "en": "Fun"},
-              {"hi": "कोई नहीं", "en": "None"},
-              {"hi": "बहुत कठिन", "en": "Not an easy task"}
-            ],
-            "answer": {"hi": "बहुत कठिन", "en": "Not an easy task"}
+            "answer": {"hi": "कमरा नंबर 10", "en": "Room 10"}
           }
         ],
         "section2": [
           {
-            "q": {"hi": "लोगों को इला की कला के बारे में कैसे पता चला?", "en": "How did people get to know about Ila's art?"},
+            "q": {
+              "hi": "तथ्य संख्या 6 क्या है?",
+              "en": "What is Fact Number 6?"
+            },
             "options": [
-              {"hi": "टीवी से", "en": "TV"},
-              {"hi": "प्रदर्शनियों से", "en": "Through exhibitions"},
-              {"hi": "अखबार से", "en": "Newspaper"},
-              {"hi": "दोस्तों से", "en": "Friends"}
+              {"hi": "वह अमीर है", "en": "He is rich"},
+              {"hi": "वह काम नहीं करता और कमरे में बैठता है", "en": "He doesn't work and sits in room"},
+              {"hi": "वह बाज़ार जाता है", "en": "He goes to market"},
+              {"hi": "वह दोस्तों से मिलता है", "en": "He meets friends"}
             ],
-            "answer": {"hi": "प्रदर्शनियों से", "en": "Through exhibitions"}
+            "answer": {"hi": "वह काम नहीं करता और कमरे में बैठता है", "en": "He doesn't work and sits in room"}
           },
           {
-            "q": {"hi": "सरकारी कार्यालय कहाँ था?", "en": "Where was the government office?"},
+            "q": {
+              "hi": "शंकर हाउस के बच्चे और बड़े मिस्टर नाथ से क्या हैं?",
+              "en": "How do the kids and grown-ups at Shankar House feel about Mr. Nath?"
+            },
             "options": [
-              {"hi": "सूरत", "en": "Surat"},
-              {"hi": "पटना", "en": "Patna"},
-              {"hi": "दिल्ली", "en": "Delhi"},
-              {"hi": "गांधीनगर", "en": "Gandhinagar"}
+              {"hi": "प्यार करते हैं", "en": "They love him"},
+              {"hi": "डरते हैं", "en": "They are scared of him"},
+              {"hi": "नफरत करते हैं", "en": "They hate him"},
+              {"hi": "परवाह नहीं करते", "en": "They don't care"}
             ],
-            "answer": {"hi": "सूरत", "en": "Surat"}
+            "answer": {"hi": "डरते हैं", "en": "They are scared of him"}
           },
           {
-            "q": {"hi": "क्या सरकार इला के काम से प्रभावित थी?", "en": "Was the government impressed by her work?"},
+            "q": {
+              "hi": "रविवार को मिस्टर नाथ से मिलने कौन आता है?",
+              "en": "Who visits Mr. Nath on Sundays?"
+            },
             "options": [
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "शायद", "en": "Maybe"},
-              {"hi": "हाँ", "en": "Yes"},
-              {"hi": "पता नहीं", "en": "Don't know"}
+              {"hi": "माया", "en": "Maya"},
+              {"hi": "एक चश्मे वाला, गोरा और मोटा आदमी", "en": "A spectacled, fair, stout man"},
+              {"hi": "रमेश", "en": "Ramesh"},
+              {"hi": "कोई नहीं", "en": "No one"}
             ],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "answer": {"hi": "एक चश्मे वाला, गोरा और मोटा आदमी", "en": "A spectacled, fair, stout man"}
           },
           {
-            "q": {"hi": "इला को क्या मिला?", "en": "What did Ila receive?"},
+            "q": {
+              "hi": "मिस्टर नाथ के लिए खाना कौन लाता है?",
+              "en": "Who brings food for Mr. Nath?"
+            },
             "options": [
-              {"hi": "पैसा", "en": "Money"},
-              {"hi": "राष्ट्रपति पदक", "en": "President's Medal"},
-              {"hi": "खिलौने", "en": "Toys"},
-              {"hi": "किताबें", "en": "Books"}
+              {"hi": "रमेश", "en": "Ramesh"},
+              {"hi": "निशाद", "en": "Nishad"},
+              {"hi": "पड़ोसी", "en": "Neighbor"},
+              {"hi": "वह खुद", "en": "Himself"}
             ],
-            "answer": {"hi": "राष्ट्रपति पदक", "en": "President's Medal"}
+            "answer": {"hi": "रमेश", "en": "Ramesh"}
           },
           {
-            "q": {"hi": "इला अब क्या थीं?", "en": "What was Ila now?"},
+            "q": {
+              "hi": "क्या मिस्टर नाथ खाने को लेकर नखरे करते हैं?",
+              "en": "Is Mr. Nath particular about food?"
+            },
             "options": [
-              {"hi": "प्रसिद्ध कलाकार", "en": "Celebrated artist"},
-              {"hi": "किसान", "en": "Farmer"},
-              {"hi": "अजनबी", "en": "Stranger"},
-              {"hi": "कोई नहीं", "en": "None"}
-            ],
-            "answer": {"hi": "प्रसिद्ध कलाकार", "en": "Celebrated artist"}
-          },
-          {
-            "q": {"hi": "इला को क्या नया मिला?", "en": "What new thing did Ila get?"},
-            "options": [
-              {"hi": "दुख", "en": "Sorrow"},
-              {"hi": "आजादी", "en": "Independence"},
-              {"hi": "काम", "en": "Work"},
-              {"hi": "दोस्त", "en": "Friends"}
-            ],
-            "answer": {"hi": "आजादी", "en": "Independence"}
-          },
-          {
-            "q": {"hi": "कला क्या करती है?", "en": "What does art do?"},
-            "options": [{"hi": "नींद लाती है", "en": "Brings sleep"}, {"hi": "सीमाओं से परे", "en": "Rise above physical boundaries"}, {"hi": "खाना खिलाती है", "en": "Feeds"}, {"hi": "कोई नहीं", "en": "None"}],
-            "answer": {"hi": "सीमाओं से परे", "en": "Rise above physical boundaries"}
-          },
-          {
-            "q": {"hi": "क्या चुनौतियों को जीत में बदला जा सकता है?", "en": "Can challenges be turned into victories?"},
-            "options": [
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "शायद", "en": "Maybe"},
-              {"hi": "हाँ", "en": "Yes"},
-              {"hi": "पता नहीं", "en": "Don't know"}
-            ],
-            "answer": {"hi": "हाँ", "en": "Yes"}
-          },
-          {
-            "q": {"hi": "इला की क्या खासियत थी?", "en": "What was Ila's specialty?"},
-            "options": [
-              {"hi": "गुस्सा", "en": "Anger"},
-              {"hi": "सकारात्मकता", "en": "Positivity"},
-              {"hi": "आलस", "en": "Laziness"},
-              {"hi": "कोई नहीं", "en": "None"}
-            ],
-            "answer": {"hi": "सकारात्मकता", "en": "Positivity"}
-          },
-          {
-            "q": {"hi": "इला ने किसे खुश किया?", "en": "Who did Ila make happy?"},
-            "options": [
-              {"hi": "दोस्तों को", "en": "Friends"},
-              {"hi": "सरकार को", "en": "Government"},
-              {"hi": "खुद को", "en": "Herself"},
-              {"hi": "किसी को नहीं", "en": "None"}
-            ],
-            "answer": {"hi": "खुद को", "en": "Herself"}
-          }
-        ],
-        "section3": [
-          {
-            "q": {"hi": "'Awestruck' का क्या अर्थ है?", "en": "What is the meaning of 'Awestruck'?"},
-            "options": [
-              {"hi": "डरना", "en": "Fear"},
-              {"hi": "रोना", "en": "Cry"},
-              {"hi": "हैरान", "en": "Amazed"},
-              {"hi": "हँसना", "en": "Laugh"}
-            ],
-            "answer": {"hi": "हैरान", "en": "Amazed"}
-          },
-          {
-            "q": {"hi": "'Challenges' का क्या अर्थ है?", "en": "What is the meaning of 'Challenges'?"},
-            "options": [
-              {"hi": "आराम", "en": "Comfort"},
-              {"hi": "कठिनाइयां", "en": "Difficulties"},
-              {"hi": "खिलौने", "en": "Toys"},
-              {"hi": "काम", "en": "Work"}
-            ],
-            "answer": {"hi": "कठिनाइयां", "en": "Difficulties"}
-          },
-          {
-            "q": {"hi": "'Single-minded' का क्या अर्थ है?", "en": "What is the meaning of 'Single-minded'?"},
-            "options": [
-              {"hi": "भटका हुआ", "en": "Distracted"},
-              {"hi": "एकाग्र", "en": "Focused"},
-              {"hi": "पागल", "en": "Crazy"},
-              {"hi": "कोई नहीं", "en": "None"}
-            ],
-            "answer": {"hi": "एकाग्र", "en": "Focused"}
-          },
-          {
-            "q": {"hi": "इला ने कढ़ाई किससे की?", "en": "Ila used what to do embroidery?"},
-            "options": [
-              {"hi": "हाथ", "en": "Hands"},
-              {"hi": "नाक", "en": "Nose"},
-              {"hi": "पैर", "en": "Feet"},
-              {"hi": "कोई नहीं", "en": "None"}
-            ],
-            "answer": {"hi": "पैर", "en": "Feet"}
-          },
-          {
-            "q": {"hi": "इला सचानी कहां जन्मी थीं?", "en": "Where was Ila Sachani born?"},
-            "options": [
-              {"hi": "सूरत", "en": "Surat"},
-              {"hi": "अमरेली", "en": "Amreli"},
-              {"hi": "भावनगर", "en": "Bhavnagar"},
-              {"hi": "पटना", "en": "Patna"}
-            ],
-            "answer": {"hi": "अमरेली", "en": "Amreli"}
-          },
-          {
-            "q": {"hi": "क्या मेहनत रंग लाई?", "en": "Did the hard work pay off?"},
-            "options": [
-              {"hi": "शायद", "en": "Maybe"},
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "हाँ", "en": "Yes"},
-              {"hi": "पता नहीं", "en": "Don't know"}
-            ],
-            "answer": {"hi": "हाँ", "en": "Yes"}
-          },
-          {
-            "q": {"hi": "इला की कला कौन से जिला में प्रसिद्ध थी?", "en": "Ila's art was famous in which district?"},
-            "options": [
-              {"hi": "सूरत", "en": "Surat"},
-              {"hi": "भावनगर", "en": "Bhavnagar"},
-              {"hi": "अमरेली", "en": "Amreli"},
-              {"hi": "कोई नहीं", "en": "None"}
-            ],
-            "answer": {"hi": "भावनगर", "en": "Bhavnagar"}
-          },
-          {
-            "q": {"hi": "क्या कला आत्मा को छू सकती है?", "en": "Can art touch the soul?"},
-            "options": [
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "शायद", "en": "Maybe"},
-              {"hi": "हाँ", "en": "Yes"},
-              {"hi": "पता नहीं", "en": "Don't know"}
-            ],
-            "answer": {"hi": "हाँ", "en": "Yes"}
-          },
-          {
-            "q": {"hi": "इला को राष्ट्रपति पदक किसने दिया?", "en": "Who gave the President's medal to Ila?"},
-            "options": [
-              {"hi": "प्रधानमंत्री", "en": "Prime Minister"},
-              {"hi": "राष्ट्रपति", "en": "President"},
-              {"hi": "शिक्षक", "en": "Teacher"},
-              {"hi": "कोई नहीं", "en": "None"}
-            ],
-            "answer": {"hi": "राष्ट्रपति", "en": "President"}
-          },
-          {
-            "q": {"hi": "क्या चुनौती ही जीत की शुरुआत है?", "en": "Is challenge the start of victory?"},
-            "options": [
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "शायद", "en": "Maybe"},
-              {"hi": "हाँ", "en": "Yes"},
-              {"hi": "पता नहीं", "en": "Don't know"}
-            ],
-            "answer": {"hi": "हाँ", "en": "Yes"}
-          }
-        ],
-        "section4": [
-          {
-            "q": {"hi": "क्या इला एक कलाकार थीं?", "en": "Was Ila an artist?"},
-            "options": [
-              {"hi": "शायद", "en": "Maybe"},
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "हाँ", "en": "Yes"},
-              {"hi": "पता नहीं", "en": "Don't know"}
-            ],
-            "answer": {"hi": "हाँ", "en": "Yes"}
-          },
-          {
-            "q": {"hi": "इला कहां कढ़ाई करती थीं?", "en": "Where did Ila do embroidery?"},
-            "options": [
-              {"hi": "सड़क पर", "en": "On road"},
-              {"hi": "घर पर", "en": "At home"},
-              {"hi": "स्कूल में", "en": "In school"},
-              {"hi": "कोई नहीं", "en": "None"}
-            ],
-            "answer": {"hi": "घर पर", "en": "At home"}
-          },
-          {
-            "q": {"hi": "क्या इला ने हार मानी?", "en": "Did Ila give up?"},
-            "options": [
-              {"hi": "शायद", "en": "Maybe"},
               {"hi": "हाँ", "en": "Yes"},
               {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
               {"hi": "पता नहीं", "en": "Don't know"}
             ],
             "answer": {"hi": "नहीं", "en": "No"}
           },
           {
-            "q": {"hi": "कढ़ाई की चमक कैसी थी?", "en": "How was the embroidery shine?"},
+            "q": {
+              "hi": "माया के अनुसार रविवार का आगंतुक कौन है?",
+              "en": "According to Maya, who is the Sunday visitor?"
+            },
             "options": [
-              {"hi": "फीकी", "en": "Dull"},
-              {"hi": "चमकदार", "en": "Shiny"},
-              {"hi": "कोई नहीं", "en": "None"},
-              {"hi": "अजीब", "en": "Strange"}
+              {"hi": "भाई", "en": "Brother"},
+              {"hi": "अपराध में साथी (accomplice)", "en": "Accomplice in crime"},
+              {"hi": "दोस्त", "en": "Friend"},
+              {"hi": "डॉक्टर", "en": "Doctor"}
             ],
-            "answer": {"hi": "चमकदार", "en": "Shiny"}
+            "answer": {"hi": "अपराध में साथी (accomplice)", "en": "Accomplice in crime"}
           },
           {
-            "q": {"hi": "क्या लोग इला से मिले?", "en": "Did people meet Ila?"},
+            "q": {
+              "hi": "निशाद माया की बातों से क्यों गुस्सा है?",
+              "en": "Why is Nishad angry with Maya's words?"
+            },
             "options": [
-              {"hi": "शायद", "en": "Maybe"},
-              {"hi": "नहीं", "en": "No"},
+              {"hi": "माया चश्मा पहनती है", "en": "Maya wears glasses"},
+              {"hi": "माया उसे अपराधी कहती है", "en": "Maya calls him a criminal"},
+              {"hi": "वह पढ़ना चाहता है", "en": "He wants to read"},
+              {"hi": "माया उसे डांटती है", "en": "Maya scolds him"}
+            ],
+            "answer": {"hi": "माया उसे अपराधी कहती है", "en": "Maya calls him a criminal"}
+          },
+          {
+            "q": {
+              "hi": "निशाद को मिस्टर नाथ के बारे में बुरा क्यों नहीं लगता?",
+              "en": "Why does Nishad not feel bad about Mr. Nath?"
+            },
+            "options": [
+              {"hi": "वह अमीर है", "en": "He is rich"},
+              {"hi": "वह उसे दयालु मानता है", "en": "He thinks he is kind"},
+              {"hi": "वह उसका दोस्त है", "en": "He is his friend"},
+              {"hi": "वह उसे जानता है", "en": "He knows him"}
+            ],
+            "answer": {"hi": "वह उसे दयालु मानता है", "en": "He thinks he is kind"}
+          },
+          {
+            "q": {
+              "hi": "माया के अनुसार रमेश रिश्वत क्यों लेता है?",
+              "en": "According to Maya, why does Ramesh take bribes?"
+            },
+            "options": [
+              {"hi": "मिस्टर नाथ को चुप रहने के लिए", "en": "To keep quiet"},
+              {"hi": "मिस्टर नाथ अमीर हैं", "en": "Mr. Nath is rich"},
+              {"hi": "रमेश गरीब है", "en": "Ramesh is poor"},
+              {"hi": "वह लालची है", "en": "He is greedy"}
+            ],
+            "answer": {"hi": "मिस्टर नाथ को चुप रहने के लिए", "en": "To keep quiet"}
+          },
+          {
+            "q": {
+              "hi": "निशाद किसके साथ सहमत नहीं है?",
+              "en": "Who does Nishad not agree with?"
+            },
+            "options": [
+              {"hi": "रमेश", "en": "Ramesh"},
+              {"hi": "माया", "en": "Maya"},
+              {"hi": "मम्मी", "en": "Mummy"},
+              {"hi": "मिस्टर नाथ", "en": "Mr. Nath"}
+            ],
+            "answer": {"hi": "माया", "en": "Maya"}
+          }
+        ],
+        "section3": [
+          {
+            "q": {
+              "hi": "मानसून कब आया?",
+              "en": "When did the monsoons break?"
+            },
+            "options": [
+              {"hi": "अगले दिन", "en": "The next day"},
+              {"hi": "एक हफ्ते बाद", "en": "A week later"},
+              {"hi": "एक महीने बाद", "en": "A month later"},
+              {"hi": "कभी नहीं", "en": "Never"}
+            ],
+            "answer": {"hi": "अगले दिन", "en": "The next day"}
+          },
+          {
+            "q": {
+              "hi": "भारी बारिश के कारण क्या हुआ?",
+              "en": "What happened due to heavy rain?"
+            },
+            "options": [
+              {"hi": "स्कूल खुल गया", "en": "School opened"},
+              {"hi": "अचानक छुट्टी (unexpected holiday)", "en": "Unexpected holiday"},
+              {"hi": "सब बाहर गए", "en": "Everyone went out"},
+              {"hi": "नदी सूख गई", "en": "River dried"}
+            ],
+            "answer": {"hi": "अचानक छुट्टी (unexpected holiday)", "en": "Unexpected holiday"}
+          },
+          {
+            "q": {
+              "hi": "माया ने समय का उपयोग कैसे किया?",
+              "en": "How did Maya use the time?"
+            },
+            "options": [
+              {"hi": "खेलकर", "en": "By playing"},
+              {"hi": "लिखकर", "en": "By writing (usefully)"},
+              {"hi": "सोकर", "en": "By sleeping"},
+              {"hi": "टीवी देखकर", "en": "By watching TV"}
+            ],
+            "answer": {"hi": "लिखकर", "en": "By writing (usefully)"}
+          },
+          {
+            "q": {
+              "hi": "जासूस के रूप में निशाद और माया का क्या काम है?",
+              "en": "What is Nishad and Maya's work as detectives?"
+            },
+            "options": [
+              {"hi": "अपराधी को पकड़ना", "en": "Trap the crook"},
+              {"hi": "मिस्टर नाथ को हराना", "en": "Defeat Mr. Nath"},
+              {"hi": "पढ़ना", "en": "To read"},
+              {"hi": "मज़े करना", "en": "To have fun"}
+            ],
+            "answer": {"hi": "अपराधी को पकड़ना", "en": "Trap the crook"}
+          },
+          {
+            "q": {
+              "hi": "क्या निशाद माया की बातों से प्रभावित हुआ?",
+              "en": "Was Nishad impressed by Maya's words?"
+            },
+            "options": [
               {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": {
+              "hi": "क्या अपराधी सामान्य दिख सकते हैं?",
+              "en": "Can criminals look ordinary?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
               {"hi": "पता नहीं", "en": "Don't know"}
             ],
             "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {"hi": "इला को क्या मिला?", "en": "What did Ila get?"},
+            "q": {
+              "hi": "माया के अनुसार जासूसी में क्या जरूरी है?",
+              "en": "What is necessary in detective work according to Maya?"
+            },
             "options": [
-              {"hi": "दुख", "en": "Sadness"},
-              {"hi": "आलस", "en": "Laziness"},
-              {"hi": "प्रसिद्धि", "en": "Fame"},
-              {"hi": "कुछ नहीं", "en": "None"}
+              {"hi": "धैर्य", "en": "Patience"},
+              {"hi": "तथ्यों को व्यवस्थित करना", "en": "Sort out facts"},
+              {"hi": "डरना", "en": "Fear"},
+              {"hi": "हंसना", "en": "Laugh"}
             ],
-            "answer": {"hi": "प्रसिद्धि", "en": "Fame"}
+            "answer": {"hi": "तथ्यों को व्यवस्थित करना", "en": "Sort out facts"}
           },
           {
-            "q": {"hi": "इला का कार्य कैसा था?", "en": "How was Ila's work?"},
+            "q": {
+              "hi": "निशाद का मिस्टर नाथ के बारे में क्या मानना है?",
+              "en": "What is Nishad's belief about Mr. Nath?"
+            },
             "options": [
-              {"hi": "खराब", "en": "Bad"},
-              {"hi": "उबाऊ", "en": "Boring"},
-              {"hi": "अद्भुत", "en": "Wonderful/Beautiful"},
+              {"hi": "वह दयालु है", "en": "He is kind"},
+              {"hi": "वह दुष्ट है", "en": "He is wicked"},
+              {"hi": "वह अपराधी है", "en": "He is a criminal"},
+              {"hi": "वह अमीर है", "en": "He is rich"}
+            ],
+            "answer": {"hi": "वह दयालु है", "en": "He is kind"}
+          },
+          {
+            "q": {
+              "hi": "क्या मिस्टर नाथ बहुत बोलते हैं?",
+              "en": "Does Mr. Nath talk a lot?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": {
+              "hi": "क्या जासूसी आसान है?",
+              "en": "Is detective work easy?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          }
+        ],
+        "section4": [
+          {
+            "q": {
+              "hi": "माया ने मिस्टर नाथ को क्या कहा?",
+              "en": "What did Maya call Mr. Nath?"
+            },
+            "options": [
+              {"hi": "क्रुक (Crook)", "en": "Crook"},
+              {"hi": "दोस्त", "en": "Friend"},
+              {"hi": "कलाकार", "en": "Artist"},
+              {"hi": "शिक्षक", "en": "Teacher"}
+            ],
+            "answer": {"hi": "क्रुक (Crook)", "en": "Crook"}
+          },
+          {
+            "q": {
+              "hi": "क्या माया ने मिस्टर नाथ को ट्रैप करने की योजना बनाई?",
+              "en": "Did Maya plan to trap Mr. Nath?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {
+              "hi": "मिस्टर नाथ के visitor की क्या विशेषता है?",
+              "en": "What is the characteristic of Mr. Nath's visitor?"
+            },
+            "options": [
+              {"hi": "कम बोलना", "en": "Speaks little"},
+              {"hi": "बहुत बात करना (talks a lot)", "en": "Talks a lot"},
+              {"hi": "डरना", "en": "Scared"},
+              {"hi": "अमीर", "en": "Rich"}
+            ],
+            "answer": {"hi": "बहुत बात करना (talks a lot)", "en": "Talks a lot"}
+          },
+          {
+            "q": {
+              "hi": "क्या निशाद को अपनी जासूसी में मज़ा आया?",
+              "en": "Did Nishad enjoy their detective work?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": {
+              "hi": "माया का अपना दृष्टिकोण क्या है?",
+              "en": "What is Maya's approach?"
+            },
+            "options": [
+              {"hi": "सब सही है", "en": "Everything is fine"},
+              {"hi": "सब गलत है", "en": "Everything is wrong"},
+              {"hi": "जासूस की तरह (like a detective)", "en": "Like a detective"},
               {"hi": "कोई नहीं", "en": "None"}
             ],
-            "answer": {"hi": "अद्भुत", "en": "Wonderful/Beautiful"}
+            "answer": {"hi": "जासूस की तरह (like a detective)", "en": "Like a detective"}
           },
           {
-            "q": {"hi": "क्या सफलता कड़ी मेहनत से मिलती है?", "en": "Does success come from hard work?"},
+            "q": {
+              "hi": "क्या मिस्टर नाथ के पास कोई दोस्त है?",
+              "en": "Does Mr. Nath have any friend?"
+            },
             "options": [
-              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "हाँ (visitor)", "en": "Yes"},
               {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "हाँ (visitor)", "en": "Yes"}
+          },
+          {
+            "q": {
+              "hi": "क्या यह रहस्य हल हो गया?",
+              "en": "Was the mystery solved?"
+            },
+            "options": [
               {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": {
+              "hi": "क्या निशाद मिस्टर नाथ से सहानुभूति रखता है?",
+              "en": "Does Nishad have sympathy for Mr. Nath?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
               {"hi": "पता नहीं", "en": "Don't know"}
             ],
             "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {"hi": "इला का गाँव कौन सा था?", "en": "Which was Ila's village?"},
+            "q": {
+              "hi": "क्या माया ने मिस्टर नाथ पर नज़र रखी?",
+              "en": "Did Maya keep an eye on Mr. Nath?"
+            },
             "options": [
-              {"hi": "अमरेली", "en": "Amreli"},
-              {"hi": "सूरत", "en": "Surat"},
-              {"hi": "मोती वावड़ी", "en": "Moti Vavdi"},
-              {"hi": "पटना", "en": "Patna"}
-            ],
-            "answer": {"hi": "मोती वावड़ी", "en": "Moti Vavdi"}
-          },
-          {
-            "q": {"hi": "क्या इला एक प्रेरणा हैं?", "en": "Is Ila an inspiration?"},
-            "options": [
-              {"hi": "शायद", "en": "Maybe"},
-              {"hi": "नहीं", "en": "No"},
               {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
               {"hi": "पता नहीं", "en": "Don't know"}
             ],
             "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {
+              "hi": "निशाद का क्या नाम था?",
+              "en": "What was Nishad called?"
+            },
+            "options": [
+              {"hi": "सेवन", "en": "Seven"},
+              {"hi": "जासूस", "en": "Detective"},
+              {"hi": "दोस्त", "en": "Friend"},
+              {"hi": "कोई नहीं", "en": "None"}
+            ],
+            "answer": {"hi": "सेवन", "en": "Seven"}
           }
         ],
         "section5": [
           {
-            "q": {"hi": "इला सचानी ने अपने सपनों को कैसे पाया?", "en": "How did Ila Sachani achieve her dreams?"},
+            "q": {
+              "hi": "क्या निशाद को लगता है कि मिस्टर नाथ के पास बहुत पैसे हैं?",
+              "en": "Does Nishad think Mr. Nath has lots of money?"
+            },
             "options": [
-              {"hi": "जादू से", "en": "Through magic"},
-              {"hi": "भाग्य से", "en": "Through luck"},
-              {"hi": "कड़ी मेहनत से", "en": "Through hard work"},
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": {
+              "hi": "माया का क्या उद्देश्य है?",
+              "en": "What is Maya's purpose?"
+            },
+            "options": [
+              {"hi": "अपराधी को पकड़ना", "en": "Catching a crook"},
+              {"hi": "दोस्त बनाना", "en": "Making friends"},
+              {"hi": "अमीर बनना", "en": "Becoming rich"},
+              {"hi": "कुछ नहीं", "en": "Nothing"}
+            ],
+            "answer": {"hi": "अपराधी को पकड़ना", "en": "Catching a crook"}
+          },
+          {
+            "q": {
+              "hi": "क्या मिस्टर नाथ को लेटर मिलते थे?",
+              "en": "Did Mr. Nath receive letters?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": {
+              "hi": "क्या निशाद का मिस्टर नाथ के बारे में दृष्टिकोण बदल गया?",
+              "en": "Did Nishad's view about Mr. Nath change?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": {
+              "hi": "क्या मिस्टर नाथ ने निशाद के साथ बात की?",
+              "en": "Did Mr. Nath talk to Nishad?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {
+              "hi": "माया क्या लिख रही थी?",
+              "en": "What was Maya writing?"
+            },
+            "options": [
+              {"hi": "तथ्य", "en": "Facts"},
+              {"hi": "कहानी", "en": "Story"},
+              {"hi": "कविता", "en": "Poem"},
+              {"hi": "पत्र", "en": "Letter"}
+            ],
+            "answer": {"hi": "तथ्य", "en": "Facts"}
+          },
+          {
+            "q": {
+              "hi": "क्या जासूसी काम में मेहनत लगती है?",
+              "en": "Does detective work take effort?"
+            },
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {
+              "hi": "निशाद का क्या नाम रखा गया था?",
+              "en": "What was Nishad named?"
+            },
+            "options": [
+              {"hi": "सेवन", "en": "Seven"},
+              {"hi": "जासूस", "en": "Detective"},
+              {"hi": "माया", "en": "Maya"},
               {"hi": "कोई नहीं", "en": "None"}
             ],
-            "answer": {"hi": "कड़ी मेहनत से", "en": "Through hard work"}
+            "answer": {"hi": "सेवन", "en": "Seven"}
           },
           {
-            "q": {"hi": "क्या इला को राष्ट्रपति पदक मिला?", "en": "Did Ila get the President's medal?"},
+            "q": {
+              "hi": "क्या अपराधी सामान्य इंसान हो सकते हैं?",
+              "en": "Can criminals be ordinary humans?"
+            },
             "options": [
-              {"hi": "शायद", "en": "Maybe"},
-              {"hi": "नहीं", "en": "No"},
               {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
               {"hi": "पता नहीं", "en": "Don't know"}
             ],
             "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {"hi": "क्या इला की कढ़ाई सुंदर थी?", "en": "Was Ila's embroidery beautiful?"},
+            "q": {
+              "hi": "माया ने अपराध के बारे में क्या कहा?",
+              "en": "What did Maya say about crime?"
+            },
             "options": [
-              {"hi": "शायद", "en": "Maybe"},
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "सब सही है", "en": "Everything is fine"},
+              {"hi": "सब गलत है", "en": "Everything is wrong"},
+              {"hi": "यह एक गंभीर मुद्दा है", "en": "It is a serious issue"},
               {"hi": "पता नहीं", "en": "Don't know"}
             ],
-            "answer": {"hi": "हाँ", "en": "Yes"}
-          },
-          {
-            "q": {"hi": "क्या इला ने अपने पैरों का उपयोग किया?", "en": "Did Ila use her feet?"},
-            "options": [
-              {"hi": "शायद", "en": "Maybe"},
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "हाँ", "en": "Yes"},
-              {"hi": "पता नहीं", "en": "Don't know"}
-            ],
-            "answer": {"hi": "हाँ", "en": "Yes"}
-          },
-          {
-            "q": {"hi": "क्या इला ने कढ़ाई से कमाई की?", "en": "Did Ila earn from embroidery?"},
-            "options": [
-              {"hi": "शायद", "en": "Maybe"},
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "हाँ", "en": "Yes"},
-              {"hi": "पता नहीं", "en": "Don't know"}
-            ],
-            "answer": {"hi": "हाँ", "en": "Yes"}
-          },
-          {
-            "q": {"hi": "क्या इरादे मजबूत होने चाहिए?", "en": "Should intentions be strong?"},
-            "options": [
-              {"hi": "शायद", "en": "Maybe"},
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "हाँ", "en": "Yes"},
-              {"hi": "पता नहीं", "en": "Don't know"}
-            ],
-            "answer": {"hi": "हाँ", "en": "Yes"}
-          },
-          {
-            "q": {"hi": "क्या सफलता के लिए धैर्य जरूरी है?", "en": "Is patience necessary for success?"},
-            "options": [
-              {"hi": "शायद", "en": "Maybe"},
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "हाँ", "en": "Yes"},
-              {"hi": "पता नहीं", "en": "Don't know"}
-            ],
-            "answer": {"hi": "हाँ", "en": "Yes"}
-          },
-          {
-            "q": {"hi": "क्या आप इला सचानी से कुछ सीखते हैं?", "en": "Do you learn something from Ila Sachani?"},
-            "options": [
-              {"hi": "शायद", "en": "Maybe"},
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "हाँ", "en": "Yes"},
-              {"hi": "पता नहीं", "en": "Don't know"}
-            ],
-            "answer": {"hi": "हाँ", "en": "Yes"}
-          },
-          {
-            "q": {"hi": "इला सचानी ने चुनौतियों को कैसे लिया?", "en": "How did Ila Sachani take challenges?"},
-            "options": [
-              {"hi": "डर के साथ", "en": "With fear"},
-              {"hi": "छोड़ दिया", "en": "Gave up"},
-              {"hi": "दृढ़ निश्चय के साथ", "en": "With determination"},
-              {"hi": "कोई नहीं", "en": "None"}
-            ],
-            "answer": {"hi": "दृढ़ निश्चय के साथ", "en": "With determination"}
-          },
-          {
-            "q": {"hi": "इला सचानी किसकी बेटी थीं?", "en": "Who was Ila Sachani the daughter of?"},
-            "options": [
-              {"hi": "शिक्षक", "en": "Teacher"},
-              {"hi": "व्यापारी", "en": "Businessman"},
-              {"hi": "किसान", "en": "Farmer"},
-              {"hi": "कोई नहीं", "en": "None"}
-            ],
-            "answer": {"hi": "किसान", "en": "Farmer"}
+            "answer": {"hi": "यह एक गंभीर मुद्दा है", "en": "It is a serious issue"}
           }
         ]
       },
