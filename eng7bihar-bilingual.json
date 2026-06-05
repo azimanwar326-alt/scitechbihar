@@ -9270,265 +9270,515 @@
           }
         ]
       },
-    "chapter10a": {
+    "chapter07c": {
         "section1": [
           {
-            "q": {"hi": "कविता 'Fences' के कवि कौन हैं?", "en": "Who is the poet of the poem 'Fences'?"},
-            "options": [{"hi": "डीन मैक्नील", "en": "Deen McNeill"}, {"hi": "रस्किन बॉन्ड", "en": "Ruskin Bond"}, {"hi": "रबींद्रनाथ टैगोर", "en": "Rabindranath Tagore"}, {"hi": "स्टीवी ऐन वाइल्ड", "en": "Stevie Ann Wilde"}],
-            "answer": {"hi": "डीन मैक्नील", "en": "Deen McNeill"}
+            "q": {"hi": "कवि ने सांप को देखकर क्या किया?", "en": "What did the poet do after seeing a snake?"},
+            "options": [
+              {"hi": "सांप को मारा", "en": "Killed the snake"},
+              {"hi": "सांप के साथ खेला", "en": "Played with the snake"},
+              {"hi": "सांप को देखकर भाग गया", "en": "Ran away after seeing the snake"},
+              {"hi": "सांप को पकड़ लिया", "en": "Caught the snake"}
+            ],
+            "answer": {"hi": "सांप को देखकर भाग गया", "en": "Ran away after seeing the snake"}
           },
           {
-            "q": {"hi": "बाड़ (fences) खेतों में क्या बनाती हैं?", "en": "What do fences make in fields?"},
-            "options": [{"hi": "गड्ढे", "en": "Pits"}, {"hi": "लाइनें (lines)", "en": "Lines"}, {"hi": "सड़कें", "en": "Roads"}, {"hi": "पहाड़", "en": "Mountains"}],
-            "answer": {"hi": "लाइनें (lines)", "en": "Lines"}
+            "q": {"hi": "लोगों का क्या मानना है?", "en": "What do people believe?"},
+            "options": [
+              {"hi": "सांप दोस्त होते हैं", "en": "Snakes are friends"},
+              {"hi": "सांप खतरनाक होते हैं", "en": "Snakes are dangerous"},
+              {"hi": "सांप पालतू होते हैं", "en": "Snakes are pets"},
+              {"hi": "सांप सुंदर होते हैं", "en": "Snakes are beautiful"}
+            ],
+            "answer": {"hi": "सांप खतरनाक होते हैं", "en": "Snakes are dangerous"}
           },
           {
-            "q": {"hi": "बाड़ किस पौधे को यह बताती है कि वे कहाँ रहते हैं?", "en": "Which plant do fences tell where they live?"},
-            "options": [{"hi": "गेहूँ", "en": "Wheat"}, {"hi": "मक्का (cornstalk)", "en": "Cornstalk"}, {"hi": "चावल", "en": "Rice"}, {"hi": "सरसों", "en": "Mustard"}],
-            "answer": {"hi": "मक्का (cornstalk)", "en": "Cornstalk"}
+            "q": {"hi": "मां के अनुसार बगीचे का सांप कैसा है?", "en": "According to the mother, how is the garden snake?"},
+            "options": [
+              {"hi": "खतरनाक", "en": "Dangerous"},
+              {"hi": "अच्छा / हानिरहित", "en": "Good / harmless"},
+              {"hi": "जहरीला", "en": "Poisonous"},
+              {"hi": "बड़ा", "en": "Big"}
+            ],
+            "answer": {"hi": "अच्छा / हानिरहित", "en": "Good / harmless"}
           },
           {
-            "q": {"hi": "कविता में 'cornstalk' का क्या अर्थ है?", "en": "What is the meaning of 'cornstalk'?"},
-            "options": [{"hi": "मक्के का तना", "en": "The stem of a maize plant"}, {"hi": "मक्के का फल", "en": "Fruit of maize"}, {"hi": "मक्के की जड़", "en": "Root of maize"}, {"hi": "मक्के का फूल", "en": "Flower of maize"}],
-            "answer": {"hi": "मक्के का तना", "en": "The stem of a maize plant"}
+            "q": {"hi": "सांप भोजन के रूप में क्या खाता है?", "en": "What does the snake eat for its food?"},
+            "options": [
+              {"hi": "फल", "en": "Fruits"},
+              {"hi": "कीड़े-मकोड़े", "en": "Insects"},
+              {"hi": "दूध", "en": "Milk"},
+              {"hi": "पत्ते", "en": "Leaves"}
+            ],
+            "answer": {"hi": "कीड़े-मकोड़े", "en": "Insects"}
           },
           {
-            "q": {"hi": "फूल बाड़ के साथ क्या करते हैं?", "en": "What do flowers do along the fences?"},
-            "options": [{"hi": "भागते हैं", "en": "Run"}, {"hi": "चलते हैं (walk)", "en": "Walk"}, {"hi": "सोते हैं", "en": "Sleep"}, {"hi": "उड़ते हैं", "en": "Fly"}],
-            "answer": {"hi": "चलते हैं (walk)", "en": "Walk"}
+            "q": {"hi": "सांप घास में कैसे चलता है?", "en": "How does the snake move in the grass?"},
+            "options": [
+              {"hi": "दौड़कर", "en": "By running"},
+              {"hi": "कूदकर", "en": "By jumping"},
+              {"hi": "रेंगकर (wiggles)", "en": "Wiggles"},
+              {"hi": "उड़कर", "en": "By flying"}
+            ],
+            "answer": {"hi": "रेंगकर (wiggles)", "en": "Wiggles"}
           },
           {
-            "q": {"hi": "बाड़ सड़कों को क्या करने में मदद करती हैं?", "en": "What do fences help roads to do?"},
-            "options": [{"hi": "मुड़ने में", "en": "To turn"}, {"hi": "अनुसरण करने में (follow)", "en": "To follow"}, {"hi": "दौड़ने में", "en": "To run"}, {"hi": "रुकने में", "en": "To stop"}],
-            "answer": {"hi": "अनुसरण करने में (follow)", "en": "To follow"}
+            "q": {"hi": "कवि सांप को गुजरते हुए क्या करेगा?", "en": "What will the poet do while the snake passes?"},
+            "options": [
+              {"hi": "भाग जाएगा", "en": "Run away"},
+              {"hi": "पास खड़ा होकर देखेगा", "en": "Stand aside and watch him pass"},
+              {"hi": "सांप को मारेगा", "en": "Kill the snake"},
+              {"hi": "शोर करेगा", "en": "Make noise"}
+            ],
+            "answer": {"hi": "पास खड़ा होकर देखेगा", "en": "Stand aside and watch him pass"}
           },
           {
-            "q": {"hi": "सड़कें बाड़ के माध्यम से कारों को कहाँ ले जाती हैं?", "en": "Where do roads take cars through fences?"},
-            "options": [{"hi": "जहाँ वे जाना चाहती हैं", "en": "Where they want to go"}, {"hi": "घर पर", "en": "At home"}, {"hi": "स्कूल में", "en": "In school"}, {"hi": "खेत में", "en": "In field"}],
-            "answer": {"hi": "जहाँ वे जाना चाहती हैं", "en": "Where they want to go"}
+            "q": {"hi": "कवि को किस बात में कोई गलती नहीं लगती?", "en": "What does the poet say there is no mistake in?"},
+            "options": [
+              {"hi": "सांप के सुंदर होने में", "en": "In the snake being beautiful"},
+              {"hi": "सांप के हानिरहित होने में", "en": "In it being a harmless garden snake"},
+              {"hi": "सांप के भागने में", "en": "In the snake running"},
+              {"hi": "सांप के रंग में", "en": "In the snake's color"}
+            ],
+            "answer": {"hi": "सांप के हानिरहित होने में", "en": "In it being a harmless garden snake"}
           },
           {
-            "q": {"hi": "बाड़ जानवरों को क्या होने से बचाती हैं?", "en": "What do fences keep animals from doing?"},
-            "options": [{"hi": "भागने से", "en": "From running"}, {"hi": "खो जाने से (getting lost)", "en": "From getting lost"}, {"hi": "सोने से", "en": "From sleeping"}, {"hi": "खेलने से", "en": "From playing"}],
-            "answer": {"hi": "खो जाने से (getting lost)", "en": "From getting lost"}
+            "q": {"hi": "कविता की कवयित्री कौन हैं?", "en": "Who is the poetess of the poem?"},
+            "options": [
+              {"hi": "मुरियल एल. सोने", "en": "Muriel L. Sonne"},
+              {"hi": "शर्ली बॉअर", "en": "Shirley Bauer"},
+              {"hi": "किट राइट", "en": "Kit Wright"},
+              {"hi": "कोई नहीं", "en": "None"}
+            ],
+            "answer": {"hi": "मुरियल एल. सोने", "en": "Muriel L. Sonne"}
           },
           {
-            "q": {"hi": "बाड़ जानवरों को अपनी पीठ क्या करने में मदद करती है?", "en": "What do fences help animals do to their backs?"},
-            "options": [{"hi": "धोने में", "en": "Wash"}, {"hi": "खुजलाने (scratch)", "en": "Scratch"}, {"hi": "साफ करने में", "en": "Clean"}, {"hi": "सुखाने में", "en": "Dry"}],
-            "answer": {"hi": "खुजलाने (scratch)", "en": "Scratch"}
+            "q": {"hi": "क्या सभी सांप खतरनाक होते हैं?", "en": "Are all snakes dangerous?"},
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
           },
           {
-            "q": {"hi": "कविता में 'scratch' शब्द का क्या अर्थ है?", "en": "What is the meaning of 'scratch'?"},
-            "options": [{"hi": "रगड़ना (rub)", "en": "Rub as if to relieve itching"}, {"hi": "काटना", "en": "Cut"}, {"hi": "दबाना", "en": "Press"}, {"hi": "तोड़ना", "en": "Break"}],
-            "answer": {"hi": "रगड़ना (rub)", "en": "Rub as if to relieve itching"}
+            "q": {"hi": "सांप कहाँ रेंगता है?", "en": "Where does the snake wiggle?"},
+            "options": [
+              {"hi": "पानी में", "en": "In water"},
+              {"hi": "घास में", "en": "In the grass"},
+              {"hi": "घर में", "en": "In the house"},
+              {"hi": "पेड़ पर", "en": "On the tree"}
+            ],
+            "answer": {"hi": "घास में", "en": "In the grass"}
           }
         ],
         "section2": [
           {
-            "q": {"hi": "बच्चे बाड़ के साथ क्या करते हैं?", "en": "What do boys and girls do with fences?"},
-            "options": [{"hi": "झांकना (peek)", "en": "Peek through"}, {"hi": "कूदना", "en": "Jump"}, {"hi": "तोड़ना", "en": "Break"}, {"hi": "पेंट करना", "en": "Paint"}],
-            "answer": {"hi": "झांकना (peek)", "en": "Peek through"}
+            "q": {"hi": "सांप ने किसे देखकर अपना रास्ता बदला?", "en": "Whom did the snake wiggle past?"},
+            "options": [
+              {"hi": "कवि", "en": "The poet"},
+              {"hi": "मां", "en": "Mother"},
+              {"hi": "बगीचा", "en": "Garden"},
+              {"hi": "कोई नहीं", "en": "None"}
+            ],
+            "answer": {"hi": "कवि", "en": "The poet"}
           },
           {
-            "q": {"hi": "कविता में 'peek' का क्या अर्थ है?", "en": "What is the meaning of 'peek'?"},
-            "options": [{"hi": "हँसना", "en": "Laugh"}, {"hi": " brief/secret look (संक्षिप्त/गुप्त नज़र)", "en": "Brief/secret look"}, {"hi": "रोने", "en": "Cry"}, {"hi": "बोलना", "en": "Speak"}],
-            "answer": {"hi": "brief/secret look (संक्षिप्त/गुप्त नज़र)", "en": "Brief/secret look"}
+            "q": {"hi": "क्या सांप हमेशा हमला करते हैं?", "en": "Do snakes always attack?"},
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "कभी-कभी", "en": "Sometimes"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
           },
           {
-            "q": {"hi": "बाड़ का उपयोग बच्चे चढ़ने के लिए कैसे करते हैं?", "en": "How do children use fences to climb?"},
-            "options": [{"hi": "Climb up (ऊपर चढ़ना)", "en": "Climb up"}, {"hi": "भागना", "en": "Run"}, {"hi": "सोना", "en": "Sleep"}, {"hi": "नहाना", "en": "Bathe"}],
-            "answer": {"hi": "Climb up (ऊपर चढ़ना)", "en": "Climb up"}
+            "q": {"hi": "कविता का मुख्य संदेश क्या है?", "en": "What is the main message of the poem?"},
+            "options": [
+              {"hi": "सांपों से डरो", "en": "Be afraid of snakes"},
+              {"hi": "सांप पालना अच्छा है", "en": "Snakes are good pets"},
+              {"hi": "सभी सांप खतरनाक नहीं होते", "en": "All snakes are not dangerous"},
+              {"hi": "बगीचे में मत जाओ", "en": "Don't go to garden"}
+            ],
+            "answer": {"hi": "सभी सांप खतरनाक नहीं होते", "en": "All snakes are not dangerous"}
           },
           {
-            "q": {"hi": "बच्चे बाड़ के नीचे क्या करते हैं?", "en": "What do children do under the fence?"},
-            "options": [{"hi": "बैठते हैं", "en": "Sit"}, {"hi": "Slide under (फिसलना)", "en": "Slide under"}, {"hi": "खेलते हैं", "en": "Play"}, {"hi": "चढ़ते हैं", "en": "Climb"}],
-            "answer": {"hi": "Slide under (फिसलना)", "en": "Slide under"}
-          },
-          {
-            "q": {"hi": "बाड़ पर पक्षी क्या करते हैं?", "en": "What do birds do on the fence?"},
-            "options": [{"hi": "बात करते हैं", "en": "Sit when they talk together"}, {"hi": "सोते हैं", "en": "Sleep"}, {"hi": "लड़ते हैं", "en": "Fight"}, {"hi": "खाते हैं", "en": "Eat"}],
-            "answer": {"hi": "बात करते हैं", "en": "Sit when they talk together"}
-          },
-          {
-            "q": {"hi": "बाड़ के पास क्या है जो घरों और बगीचों को सुरक्षित रखता है?", "en": "What do fences have to keep houses safe?"},
-            "options": [{"hi": "मजबूत हथियार (strong arms)", "en": "Strong arms"}, {"hi": "पहरेदार", "en": "Guards"}, {"hi": "कुत्ते", "en": "Dogs"}, {"hi": "दीवारें", "en": "Walls"}],
-            "answer": {"hi": "मजबूत हथियार (strong arms)", "en": "Strong arms"}
-          },
-          {
-            "q": {"hi": "बाड़ किन चीजों को ऊपर थामे रखती हैं?", "en": "What do fences hold up?"},
-            "options": [{"hi": "झाड़ियाँ (bushes)", "en": "Bushes"}, {"hi": "घर", "en": "Houses"}, {"hi": "सड़कें", "en": "Roads"}, {"hi": "फूल", "en": "Flowers"}],
-            "answer": {"hi": "झाड़ियाँ (bushes)", "en": "Bushes"}
-          },
-          {
-            "q": {"hi": "बाड़ क्या थामे रखती (hold down) है?", "en": "What do fences hold down?"},
-            "options": [{"hi": "जमीन (ground)", "en": "Ground"}, {"hi": "आसमान", "en": "Sky"}, {"hi": "पानी", "en": "Water"}, {"hi": "हवा", "en": "Air"}],
-            "answer": {"hi": "जमीन (ground)", "en": "Ground"}
-          },
-          {
-            "q": {"hi": "कवि के अनुसार बाड़ कैसी हैं?", "en": "What does the poet say about fences?"},
-            "options": [{"hi": "अच्छी (good)", "en": "Good"}, {"hi": "बुरी", "en": "Bad"}, {"hi": "डरावनी", "en": "Scary"}, {"hi": "उपयोगी नहीं", "en": "Useless"}],
-            "answer": {"hi": "अच्छी (good)", "en": "Good"}
-          },
-          {
-            "q": {"hi": "क्या बाड़ सुरक्षा प्रदान करती है?", "en": "Do fences provide safety?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "q": {"hi": "क्या सांप कीड़े खाता है?", "en": "Does the snake eat insects?"},
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
             "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "कवि ने सांप को क्या कहा?", "en": "What did the poet call the snake?"},
+            "options": [
+              {"hi": "हानिरहित बगीचे का सांप", "en": "Harmless garden snake"},
+              {"hi": "खतरनाक सांप", "en": "Dangerous snake"},
+              {"hi": "जहरीला", "en": "Poisonous"},
+              {"hi": "अजीब", "en": "Weird"}
+            ],
+            "answer": {"hi": "हानिरहित बगीचे का सांप", "en": "Harmless garden snake"}
+          },
+          {
+            "q": {"hi": "क्या कवि को सांप से डर लगता था?", "en": "Was the poet afraid of the snake?"},
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "हाँ (पहले वह भागा)", "en": "Yes (he ran away initially)"}
+          },
+          {
+            "q": {"hi": "सांप का स्वभाव कैसा था?", "en": "How was the snake's nature?"},
+            "options": [
+              {"hi": "आक्रामक", "en": "Aggressive"},
+              {"hi": "हानिरहित", "en": "Harmless"},
+              {"hi": "जहरीला", "en": "Poisonous"},
+              {"hi": "तेज", "en": "Fast"}
+            ],
+            "answer": {"hi": "हानिरहित", "en": "Harmless"}
+          },
+          {
+            "q": {"hi": "क्या सांप ने कवि को काटा?", "en": "Did the snake bite the poet?"},
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": {"hi": "सांप का घर कहाँ है?", "en": "Where is the snake's home?"},
+            "options": [
+              {"hi": "बगीचा", "en": "Garden"},
+              {"hi": "पानी", "en": "Water"},
+              {"hi": "घर", "en": "House"},
+              {"hi": "पेड़", "en": "Tree"}
+            ],
+            "answer": {"hi": "बगीचा", "en": "Garden"}
+          },
+          {
+            "q": {"hi": "सांप को क्या देखकर कवि डर गया?", "en": "What made the poet run away?"},
+            "options": [
+              {"hi": "उसकी आवाज़", "en": "Its sound"},
+              {"hi": "सांप का होना", "en": "Presence of snake"},
+              {"hi": "उसका काटना", "en": "Its bite"},
+              {"hi": "कोई नहीं", "en": "None"}
+            ],
+            "answer": {"hi": "सांप का होना", "en": "Presence of snake"}
           }
         ],
         "section3": [
           {
-            "q": {"hi": "क्या कविता बाड़ के महत्व को बताती है?", "en": "Does the poem tell the importance of fences?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "q": {"hi": "क्या मां ने सांप के बारे में सही बताया?", "en": "Did mother tell the truth about snakes?"},
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
             "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {"hi": "क्या पक्षी बाड़ का उपयोग बैठने के लिए करते हैं?", "en": "Do birds use fences to sit?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "q": {"hi": "सांप घास में क्या करता है?", "en": "What does the snake do in the grass?"},
+            "options": [
+              {"hi": "दौड़ता है", "en": "Runs"},
+              {"hi": "रेंगता है", "en": "Wiggles"},
+              {"hi": "सोता है", "en": "Sleeps"},
+              {"hi": "खाता है", "en": "Eats"}
+            ],
+            "answer": {"hi": "रेंगता है", "en": "Wiggles"}
+          },
+          {
+            "q": {"hi": "क्या बगीचे में सांप देखना आम है?", "en": "Is it common to see a snake in the garden?"},
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
             "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {"hi": "क्या बच्चे बाड़ के ऊपर चढ़ सकते हैं?", "en": "Can children climb up the fences?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {"hi": "सांप भोजन के लिए क्या ढूंढता है?", "en": "What does the snake hunt for food?"},
+            "options": [
+              {"hi": "कीड़े", "en": "Insects"},
+              {"hi": "फल", "en": "Fruits"},
+              {"hi": "दूध", "en": "Milk"},
+              {"hi": "कोई नहीं", "en": "None"}
+            ],
+            "answer": {"hi": "कीड़े", "en": "Insects"}
           },
           {
-            "q": {"hi": "क्या बाड़ खेतों के लिए सीमाएं बनाती है?", "en": "Do fences make boundaries for fields?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {"hi": "क्या कवि को अब सांप का डर है?", "en": "Is the poet afraid of snakes now?"},
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
           },
           {
-            "q": {"hi": "क्या बाड़ कारों के लिए सड़कें तय करती है?", "en": "Do fences help roads for cars?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {"hi": "क्या सांप जहरीले होते हैं?", "en": "Are snakes poisonous?"},
+            "options": [
+              {"hi": "सभी", "en": "All"},
+              {"hi": "कुछ", "en": "Some"},
+              {"hi": "कोई नहीं", "en": "None"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "कुछ", "en": "Some"}
           },
           {
-            "q": {"hi": "क्या पशु बाड़ के पास अपनी पीठ खुजला सकते हैं?", "en": "Can animals scratch their backs at the fence?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {"hi": "कवि ने सांप को क्या कहा?", "en": "What did the poet refer the snake as?"},
+            "options": [
+              {"hi": "हानिरहित", "en": "Harmless"},
+              {"hi": "खतरनाक", "en": "Dangerous"},
+              {"hi": "जहरीला", "en": "Poisonous"},
+              {"hi": "अजीब", "en": "Weird"}
+            ],
+            "answer": {"hi": "हानिरहित", "en": "Harmless"}
           },
           {
-            "q": {"hi": "क्या बाड़ घरों को सुरक्षित रखने में मदद करती है?", "en": "Do fences help keep houses safe?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {"hi": "क्या सांप इंसानों को देखकर हमेशा हमला करता है?", "en": "Does a snake always attack humans?"},
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
           },
           {
-            "q": {"hi": "क्या बाड़ झाड़ियों को ऊपर थामे रखती है?", "en": "Do fences hold up bushes?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {"hi": "सांप का रंग कैसा हो सकता है?", "en": "What color can a snake be?"},
+            "options": [
+              {"hi": "हरा", "en": "Green"},
+              {"hi": "काला", "en": "Black"},
+              {"hi": "भूरा", "en": "Brown"},
+              {"hi": "सभी", "en": "All"}
+            ],
+            "answer": {"hi": "सभी", "en": "All"}
           },
           {
-            "q": {"hi": "क्या कविता में बाड़ को 'मजबूत भुजाओं' वाला बताया गया है?", "en": "Are fences described as having 'strong arms'?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
-          },
-          {
-            "q": {"hi": "क्या बाड़ का उपयोग खेलना के लिए भी होता है?", "en": "Are fences also used for playing?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {"hi": "क्या हमें सांप को मारना चाहिए?", "en": "Should we kill snakes?"},
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
           }
         ],
         "section4": [
           {
-            "q": {"hi": "क्या बाड़ का उपयोग जमीन को थामने के लिए होता है?", "en": "Do fences hold down the ground?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "q": {"hi": "सांप घास में क्यों चलता है?", "en": "Why does the snake wiggle in grass?"},
+            "options": [
+              {"hi": "खेलने", "en": "To play"},
+              {"hi": "भोजन ढूँढने", "en": "To search food"},
+              {"hi": "सोने", "en": "To sleep"},
+              {"hi": "कोई नहीं", "en": "None"}
+            ],
+            "answer": {"hi": "भोजन ढूँढने", "en": "To search food"}
+          },
+          {
+            "q": {"hi": "सांप की चाल कैसी है?", "en": "How is the snake's movement?"},
+            "options": [
+              {"hi": "रेंगना (wiggles)", "en": "Wiggles"},
+              {"hi": "दौड़ना", "en": "Running"},
+              {"hi": "उड़ना", "en": "Flying"},
+              {"hi": "कूदना", "en": "Jumping"}
+            ],
+            "answer": {"hi": "रेंगना (wiggles)", "en": "Wiggles"}
+          },
+          {
+            "q": {"hi": "क्या सांप को देखना एक अनुभव है?", "en": "Is seeing a snake an experience?"},
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
             "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {"hi": "क्या कविता में बाड़ की उपयोगिता दिखाई गई है?", "en": "Is the usefulness of fences shown in the poem?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {"hi": "सांप को देखकर भागना क्या है?", "en": "What is running after seeing a snake?"},
+            "options": [
+              {"hi": "बहादुरी", "en": "Bravery"},
+              {"hi": "डर (fear)", "en": "Fear"},
+              {"hi": "मज़ा", "en": "Fun"},
+              {"hi": "समझदारी", "en": "Wisdom"}
+            ],
+            "answer": {"hi": "डर (fear)", "en": "Fear"}
           },
           {
-            "q": {"hi": "क्या मक्के के पौधे को अपनी सीमा का पता होता है?", "en": "Does the cornstalk know its boundary?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {"hi": "क्या सांप बगीचे के लिए लाभदायक है?", "en": "Is the snake useful for the garden?"},
+            "options": [
+              {"hi": "हाँ (eat insects)", "en": "Yes (eat insects)"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "हाँ (eat insects)", "en": "Yes (eat insects)"}
           },
           {
-            "q": {"hi": "क्या फूल बाड़ के पास चल सकते हैं?", "en": "Can flowers walk along the fences?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {"hi": "क्या कवि को सांप के बारे में कोई गलती लगती है?", "en": "Does the poet feel any mistake about the snake?"},
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
           },
           {
-            "q": {"hi": "क्या बाड़ पक्षियों के लिए एक जगह प्रदान करती है?", "en": "Do fences provide a place for birds?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {"hi": "सांप कहाँ रेंगता है?", "en": "Where does the snake move?"},
+            "options": [
+              {"hi": "घास में", "en": "In grass"},
+              {"hi": "पेड़ में", "en": "In tree"},
+              {"hi": "पानी में", "en": "In water"},
+              {"hi": "घर में", "en": "In home"}
+            ],
+            "answer": {"hi": "घास में", "en": "In grass"}
           },
           {
-            "q": {"hi": "क्या बाड़ को 'अच्छी' (good) कहा गया है?", "en": "Are fences called 'good'?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {"hi": "कवि को सांप को देखना कैसा लगता है?", "en": "How does the poet feel watching the snake?"},
+            "options": [
+              {"hi": "डरावना", "en": "Scary"},
+              {"hi": "रोचक", "en": "Interesting"},
+              {"hi": "दुखद", "en": "Sad"},
+              {"hi": "कोई नहीं", "en": "None"}
+            ],
+            "answer": {"hi": "रोचक", "en": "Interesting"}
           },
           {
-            "q": {"hi": "क्या बाड़ का उपयोग सड़कों के लिए भी होता है?", "en": "Are fences used for roads?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {"hi": "क्या सांप को परेशान करना चाहिए?", "en": "Should we disturb the snake?"},
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
           },
           {
-            "q": {"hi": "क्या बाड़ बच्चों को झांकने में मदद करती है?", "en": "Do fences help children peek?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
-          },
-          {
-            "q": {"hi": "क्या बाड़ का उपयोग स्लाइड करने के लिए होता है?", "en": "Are fences used to slide under?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
-          },
-          {
-            "q": {"hi": "क्या बाड़ सुरक्षा प्रदान करती है?", "en": "Do fences provide safety?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "q": {"hi": "क्या सांप के दांत होते हैं?", "en": "Do snakes have teeth?"},
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
             "answer": {"hi": "हाँ", "en": "Yes"}
           }
         ],
         "section5": [
           {
-            "q": {"hi": "बाड़ का उपयोग जानवरों के खोने से बचने के लिए क्यों किया जाता है?", "en": "Why are fences used to keep animals from getting lost?"},
-            "options": [{"hi": "सीमा बनाए रखने के लिए", "en": "To maintain boundaries"}, {"hi": "खेलने के लिए", "en": "To play"}, {"hi": "सुलाने के लिए", "en": "To sleep"}],
-            "answer": {"hi": "सीमा बनाए रखने के लिए", "en": "To maintain boundaries"}
+            "q": {"hi": "क्या सांप जमीन पर चलता है?", "en": "Does the snake walk on the ground?"},
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं (crawls)", "en": "No (crawls)"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं (crawls)", "en": "No (crawls)"}
           },
           {
-            "q": {"hi": "क्या बाड़ बागीचों को सुरक्षित रखती है?", "en": "Do fences keep gardens safe?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "q": {"hi": "क्या सांप की खाल चिकनी होती है?", "en": "Is the snake's skin smooth?"},
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
             "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {"hi": "बाड़ का एक कार्य क्या है?", "en": "What is one function of fences?"},
-            "options": [{"hi": "सीमा निर्धारित करना", "en": "Setting boundaries"}, {"hi": "आसमान छूना", "en": "Touching the sky"}, {"hi": "पानी का उपयोग करना", "en": "Using water"}],
-            "answer": {"hi": "सीमा निर्धारित करना", "en": "Setting boundaries"}
+            "q": {"hi": "क्या सांप को देखना डरने की बात है?", "en": "Is seeing a snake something to be afraid of?"},
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
           },
           {
-            "q": {"hi": "बाड़ बच्चों के लिए कैसी है?", "en": "How are fences for children?"},
-            "options": [{"hi": "खेलने का स्थान", "en": "Playing place"}, {"hi": "नुकसानदायक", "en": "Harmful"}, {"hi": "अनावश्यक", "en": "Unnecessary"}],
-            "answer": {"hi": "खेलने का स्थान", "en": "Playing place"}
+            "q": {"hi": "क्या सांप इंसानों को पहचानते हैं?", "en": "Do snakes recognize humans?"},
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
           },
           {
-            "q": {"hi": "बाड़ पक्षियों को किसलिए आमंत्रित करती है?", "en": "What do fences invite birds for?"},
-            "options": [{"hi": "बातचीत के लिए", "en": "To talk"}, {"hi": "सोने के लिए", "en": "To sleep"}, {"hi": "गाना गाने के लिए", "en": "To sing"}],
-            "answer": {"hi": "बातचीत के लिए", "en": "To talk"}
+            "q": {"hi": "सांप का क्या महत्व है?", "en": "What is the importance of snakes?"},
+            "options": [
+              {"hi": "कीड़े खाना", "en": "Eat insects"},
+              {"hi": "खतरा", "en": "Danger"},
+              {"hi": "कुछ नहीं", "en": "Nothing"},
+              {"hi": "सब सही है", "en": "All correct"}
+            ],
+            "answer": {"hi": "कीड़े खाना", "en": "Eat insects"}
           },
           {
-            "q": {"hi": "बाड़ का मुख्य कार्य क्या है?", "en": "What is the main function of a fence?"},
-            "options": [{"hi": "सुरक्षा देना", "en": "To provide safety"}, {"hi": "सजावट करना", "en": "To decorate"}, {"hi": "पानी देना", "en": "To water"}],
-            "answer": {"hi": "सुरक्षा देना", "en": "To provide safety"}
+            "q": {"hi": "क्या सांप को छूना चाहिए?", "en": "Should we touch the snake?"},
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
           },
           {
-            "q": {"hi": "क्या बाड़ झाड़ियों के लिए सहारा है?", "en": "Are fences support for bushes?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "q": {"hi": "क्या कवि को सांप पसंद है?", "en": "Does the poet like the snake?"},
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
             "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {"hi": "क्या कविता में बाड़ का वर्णन है?", "en": "Is the fence described in the poem?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {"hi": "सांप का चलना कैसा है?", "en": "How is the snake's movement?"},
+            "options": [
+              {"hi": "सांप जैसा", "en": "Snake-like"},
+              {"hi": "रेंगना", "en": "Wiggle"},
+              {"hi": "तेज", "en": "Fast"},
+              {"hi": "शोर वाला", "en": "Noisy"}
+            ],
+            "answer": {"hi": "रेंगना", "en": "Wiggle"}
           },
           {
-            "q": {"hi": "क्या बाड़ हर जगह पाई जाती है?", "en": "Are fences found everywhere?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {"hi": "क्या सांप बगीचे की सफाई में मदद करता है?", "en": "Does the snake help in garden cleaning?"},
+            "options": [
+              {"hi": "हाँ (by eating insects)", "en": "Yes (by eating insects)"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "हाँ (by eating insects)", "en": "Yes (by eating insects)"}
           },
           {
-            "q": {"hi": "क्या बाड़ उपयोगी है?", "en": "Are fences useful?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {"hi": "क्या सांप के कान होते हैं?", "en": "Do snakes have ears?"},
+            "options": [
+              {"hi": "हाँ", "en": "Yes"},
+              {"hi": "नहीं", "en": "No"},
+              {"hi": "शायद", "en": "Maybe"},
+              {"hi": "पता नहीं", "en": "Don't know"}
+            ],
+            "answer": {"hi": "नहीं", "en": "No"}
           }
         ]
       }
