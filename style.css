@@ -476,6 +476,83 @@ details ul li a:hover {
 }
 
 
+/* ड्रॉपडाउन कार्ड और सेलेक्ट बॉक्स की स्टाइलिंग */
+.dropdown-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.dropdown-card select {
+  width: 85%;
+  padding: 6px 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 14px;
+  font-family: inherit;
+  background-color: white;
+  cursor: pointer;
+  outline: none;
+}
+
+.dropdown-card select:focus {
+  border-color: #007bff; /* आपके थीम के अनुसार बदला जा सकता है */
+}
+
+
+
+
+.popular-topics{
+    padding:50px 20px;
+    background:#f7f9fc;
+    text-align:center;
+}
+
+.popular-topics h2{
+    color:#002266;
+    margin-bottom:30px;
+    font-size:2rem;
+}
+
+.topic-card-container{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+    gap:20px;
+    max-width:1000px;
+    margin:auto;
+}
+
+.topic-card{
+    background:#ffffff;
+    padding:25px 20px;
+    border-radius:12px;
+    text-decoration:none;
+    box-shadow:0 4px 10px rgba(0,0,0,0.08);
+    transition:0.3s ease;
+    border:1px solid #e5e5e5;
+}
+
+.topic-card:hover{
+    transform:translateY(-5px);
+    box-shadow:0 8px 20px rgba(0,0,0,0.15);
+}
+
+.topic-card h3{
+    color:#003399;
+    margin-bottom:10px;
+    font-size:1.2rem;
+}
+
+.topic-card p{
+    color:#444;
+    font-size:0.95rem;
+}
+
+
 
 
 
@@ -727,13 +804,6 @@ button.wrong {
   color: white;
 }
 
-/* विकल्पों को एक के नीचे एक करने के लिए */
-.options {
-    display: flex;
-    flex-direction: column; /* यह बटनों को vertical लाइन में खड़ा कर देगा */
-    gap: 10px; /* बटनों के बीच की दूरी */
-    margin-top: 20px;
-}
 
 .options button {
     width: 100%; /* बटन पूरे बॉक्स की चौड़ाई घेर लेंगे */
