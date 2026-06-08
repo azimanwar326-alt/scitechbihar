@@ -2623,661 +2623,261 @@
     "chapter06": {
         "section1": [
           {
-            "q": {
-              "hi": "जय अपनी गर्मी की छुट्टियां बिताने कहाँ जा रहा था?",
-              "en": "Where was Jai traveling to spend his summer holidays?"
-            },
-            "options": [
-              {"hi": "दिल्ली", "en": "Delhi"},
-              {"hi": "मुंबई", "en": "Mumbai"},
-              {"hi": "अपने गांव", "en": "His village"},
-              {"hi": "चेन्नई", "en": "Chennai"}
-            ],
-            "answer": {"hi": "मुंबई", "en": "Mumbai"}
+            "q": {"hi": "कुश्ती को भारत में पारंपरिक रूप से किस प्रकार का खेल माना जाता था?", "en": "How was wrestling traditionally considered in India?"},
+            "options": [{"hi": "महिलाओं का खेल", "en": "Women's game"}, {"hi": "पुरुषों का खेल", "en": "Men's game"}, {"hi": "बच्चों का खेल", "en": "Children's game"}, {"hi": "बुजुर्गों का खेल", "en": "Elderly's game"}],
+            "answer": {"hi": "पुरुषों का खेल", "en": "Men's game"}
           },
           {
-            "q": {
-              "hi": "जय ने ट्रेन में किसे देखा?",
-              "en": "Whom did Jai see on the train?"
-            },
-            "options": [
-              {"hi": "एक छोटा लड़का", "en": "A little boy"},
-              {"hi": "एक स्टेशन मास्टर", "en": "A station master"},
-              {"hi": "एक धनी व्यापारी", "en": "A rich merchant"},
-              {"hi": "अपने दादाजी", "en": "His grandfather"}
-            ],
-            "answer": {"hi": "एक छोटा लड़का", "en": "A little boy"}
+            "q": {"hi": "महिलाओं के बारे में क्या धारणा थी?", "en": "What was the assumption about women?"},
+            "options": [{"hi": "वे मजबूत हैं", "en": "They are strong"}, {"hi": "वे शारीरिक शक्ति नहीं रखतीं", "en": "They do not possess stout physical appearance and muscles"}, {"hi": "वे खेल नहीं सकतीं", "en": "They cannot play"}, {"hi": "वे डरपोक हैं", "en": "They are timid"}],
+            "answer": {"hi": "वे शारीरिक शक्ति नहीं रखतीं", "en": "They do not possess stout physical appearance and muscles"}
           },
           {
-            "q": {
-              "hi": "शंटू की उम्र क्या थी?",
-              "en": "How old was Shantu?"
-            },
-            "options": [
-              {"hi": "आठ साल", "en": "Eight years"},
-              {"hi": "दस साल", "en": "Ten years"},
-              {"hi": "बारह साल", "en": "Twelve years"},
-              {"hi": "नौ साल", "en": "Nine years"}
-            ],
-            "answer": {"hi": "दस साल", "en": "Ten years"}
+            "q": {"hi": "गीता फोगट का जन्म कब हुआ था?", "en": "When was Geeta Phogat born?"},
+            "options": [{"hi": "15 दिसंबर, 1988", "en": "15 December, 1988"}, {"hi": "14 जून, 1996", "en": "14 June, 1996"}, {"hi": "3 सितंबर, 1992", "en": "3 September, 1992"}, {"hi": "10 जनवरी, 1990", "en": "10 January, 1990"}],
+            "answer": {"hi": "15 दिसंबर, 1988", "en": "15 December, 1988"}
           },
           {
-            "q": {
-              "hi": "शंटू को ट्रेन में किसने छोड़ दिया था?",
-              "en": "Who left Shantu on the train?"
-            },
-            "options": [
-              {"hi": "उसकी माँ", "en": "His mother"},
-              {"hi": "उसके पिता", "en": "His father"},
-              {"hi": "एक अजनबी", "en": "A stranger"},
-              {"hi": "उसका दोस्त", "en": "His friend"}
-            ],
-            "answer": {"hi": "उसके पिता", "en": "His father"}
+            "q": {"hi": "गीता फोगट के पिता का क्या नाम था?", "en": "What was the name of Geeta Phogat's father?"},
+            "options": [{"hi": "महावीर सिंह फोगट", "en": "Mahaveer Singh Phogat"}, {"hi": "मोहम्मद जमील अहमद", "en": "Mohammad Jameel Ahmed"}, {"hi": "ईश्वर दहिया", "en": "Ishwar Dahiya"}, {"hi": "कोई नहीं", "en": "None"}],
+            "answer": {"hi": "महावीर सिंह फोगट", "en": "Mahaveer Singh Phogat"}
           },
           {
-            "q": {
-              "hi": "शंटू की स्थिति क्या थी?",
-              "en": "What was the situation of Shantu's family?"
-            },
-            "options": [
-              {"hi": "वे बहुत अमीर थे", "en": "They were very rich"},
-              {"hi": "वे बहुत गरीब थे", "en": "They were very poor"},
-              {"hi": "वे मध्यमवर्गीय थे", "en": "They were middle-class"},
-              {"hi": "वे सुखी थे", "en": "They were happy"}
-            ],
-            "answer": {"hi": "वे बहुत गरीब थे", "en": "They were very poor"}
+            "q": {"hi": "गीता फोगट किस खेल के लिए जानी जाती हैं?", "en": "What sport is Geeta Phogat known for?"},
+            "options": [{"hi": "मुक्केबाजी", "en": "Boxing"}, {"hi": "कुश्ती", "en": "Wrestling"}, {"hi": "बैडमिंटन", "en": "Badminton"}, {"hi": "हॉकी", "en": "Hockey"}],
+            "answer": {"hi": "कुश्ती", "en": "Wrestling"}
           },
           {
-            "q": {
-              "hi": "प्लेटफॉर्म पर शंटू को कौन मिला?",
-              "en": "Whom did Shantu meet on the platform?"
-            },
-            "options": [
-              {"hi": "ध्रुव", "en": "Dhruv"},
-              {"hi": "जय", "en": "Jai"},
-              {"hi": "स्टेशन मास्टर", "en": "Station master"},
-              {"hi": "एक पुलिस वाला", "en": "A policeman"}
-            ],
-            "answer": {"hi": "ध्रुव", "en": "Dhruv"}
+            "q": {"hi": "गीता फोगट ने किस प्रतियोगिता में पहला स्वर्ण पदक जीता था?", "en": "In which competition did Geeta Phogat win her first gold medal?"},
+            "options": [{"hi": "विश्व चैंपियनशिप", "en": "World Championship"}, {"hi": "कॉमनवेल्थ रेसलिंग चैंपियनशिप, 2009", "en": "Commonwealth Wrestling Championship, 2009"}, {"hi": "ओलंपिक", "en": "Olympic"}, {"hi": "एशियाई खेल", "en": "Asian Games"}],
+            "answer": {"hi": "कॉमनवेल्थ रेसलिंग चैंपियनशिप, 2009", "en": "Commonwealth Wrestling Championship, 2009"}
           },
           {
-            "q": {
-              "hi": "बच्चों को काम पर लगाने की प्रथा को क्या कहते हैं?",
-              "en": "What is the practice of making children work called?"
-            },
-            "options": [
-              {"hi": "बाल मजदूरी (Child labour)", "en": "Child labour"},
-              {"hi": "स्कूली शिक्षा", "en": "Schooling"},
-              {"hi": "मनोरंजन", "en": "Entertainment"},
-              {"hi": "खेल", "en": "Playing"}
-            ],
-            "answer": {"hi": "बाल मजदूरी", "en": "Child labour"}
+            "q": {"hi": "निकहत जरीन का जन्म कब हुआ था?", "en": "When was Nikhat Zareen born?"},
+            "options": [{"hi": "15 दिसंबर, 1988", "en": "15 December, 1988"}, {"hi": "14 जून, 1996", "en": "14 June, 1996"}, {"hi": "3 सितंबर, 1992", "en": "3 September, 1992"}, {"hi": "10 जनवरी, 1990", "en": "10 January, 1990"}],
+            "answer": {"hi": "14 जून, 1996", "en": "14 June, 1996"}
           },
           {
-            "q": {
-              "hi": "शंटू ने काम के बारे में क्या बताया?",
-              "en": "What did Shantu say about the work children do?"
-            },
-            "options": [
-              {"hi": "यह कानूनी है", "en": "It is legal"},
-              {"hi": "यह गैरकानूनी है", "en": "It is illegal"},
-              {"hi": "यह आसान है", "en": "It is easy"},
-              {"hi": "यह सुरक्षित है", "en": "It is safe"}
-            ],
-            "answer": {"hi": "यह गैरकानूनी है", "en": "It is illegal"}
+            "q": {"hi": "निकहत जरीन के कोच कौन थे?", "en": "Who trained Nikhat Zareen in boxing?"},
+            "options": [{"hi": "महावीर सिंह फोगट", "en": "Mahaveer Singh Phogat"}, {"hi": "मोहम्मद जमील अहमद", "en": "Mohammad Jameel Ahmed"}, {"hi": "आई.वी. राव", "en": "IV Rao"}, {"hi": "ईश्वर दहिया", "en": "Ishwar Dahiya"}],
+            "answer": {"hi": "आई.वी. राव", "en": "IV Rao"}
           },
           {
-            "q": {
-              "hi": "ट्रेन से भागने से पहले जय ने शंटू को क्या दिया?",
-              "en": "What did Jai give to Shantu before he left the train?"
-            },
-            "options": [
-              {"hi": "पैसे", "en": "Money"},
-              {"hi": "कपड़े", "en": "Clothes"},
-              {"hi": "खाना और खिलौना", "en": "Food and his favorite toy"},
-              {"hi": "पानी की बोतल", "en": "Water bottle"}
-            ],
-            "answer": {"hi": "खाना और खिलौना", "en": "Food and his favorite toy"}
+            "q": {"hi": "निकहत जरीन किस खेल में विश्व चैंपियन बनीं?", "en": "In which sport did Nikhat Zareen become a World Champion?"},
+            "options": [{"hi": "कुश्ती", "en": "Wrestling"}, {"hi": "मुक्केबाजी", "en": "Boxing"}, {"hi": "बैडमिंटन", "en": "Badminton"}, {"hi": "हॉकी", "en": "Hockey"}],
+            "answer": {"hi": "मुक्केबाजी", "en": "Boxing"}
           },
           {
-            "q": {
-              "hi": "इस कहानी से जय ने क्या संकल्प लिया?",
-              "en": "What did Jai vow to do after this incident?"
-            },
-            "options": [
-              {"hi": "वह बड़ा होकर डॉक्टर बनेगा", "en": "He would become a doctor"},
-              {"hi": "वह बेघर बच्चों के लिए कुछ करेगा", "en": "He would do something for homeless children"},
-              {"hi": "वह और यात्रा करेगा", "en": "He would travel more"},
-              {"hi": "वह एक अभिनेता बनेगा", "en": "He would become an actor"}
-            ],
-            "answer": {"hi": "वह बेघर बच्चों के लिए कुछ करेगा", "en": "He would do something for homeless children"}
+            "q": {"hi": "निकहत जरीन का जन्म कहाँ हुआ था?", "en": "Where was Nikhat Zareen born?"},
+            "options": [{"hi": "बलली, हरियाणा", "en": "Balali, Haryana"}, {"hi": "निजामाबाद, तेलंगाना", "en": "Nizamabad, Telangana"}, {"hi": "रोहतक, हरियाणा", "en": "Rohtak, Haryana"}, {"hi": "मणिपुर", "en": "Manipur"}],
+            "answer": {"hi": "निजामाबाद, तेलंगाना", "en": "Nizamabad, Telangana"}
           }
         ],
         "section2": [
           {
-            "q": {
-              "hi": "जय अपनी छुट्टियों के बारे में क्या सपना देख रहा था?",
-              "en": "What was Jai dreaming about for his break?"
-            },
-            "options": [
-              {"hi": "जल्दी उठने का", "en": "Waking up early"},
-              {"hi": "देर तक सोने और दादी के खाने का", "en": "Sleeping late and grandmother's treats"},
-              {"hi": "ट्रेन में काम करने का", "en": "Working on the train"},
-              {"hi": "स्कूल जाने का", "en": "Going to school"}
-            ],
-            "answer": {"hi": "देर तक सोने और दादी के खाने का", "en": "Sleeping late and grandmother's treats"}
+            "q": {"hi": "साक्षी मलिक का जन्म कब हुआ था?", "en": "When was Sakshi Malik born?"},
+            "options": [{"hi": "15 दिसंबर, 1988", "en": "15 December, 1988"}, {"hi": "14 जून, 1996", "en": "14 June, 1996"}, {"hi": "3 सितंबर, 1992", "en": "3 September, 1992"}, {"hi": "10 जनवरी, 1990", "en": "10 January, 1990"}],
+            "answer": {"hi": "3 सितंबर, 1992", "en": "3 September, 1992"}
           },
           {
-            "q": {
-              "hi": "शंटू रात में कहाँ सो रहा था?",
-              "en": "Where was Shantu trying to sleep at night?"
-            },
-            "options": [
-              {"hi": "ऊपर की बर्थ पर", "en": "On the upper berth"},
-              {"hi": "फर्श पर दो बर्थों के बीच", "en": "On the floor between two berths"},
-              {"hi": "स्टेशन पर", "en": "At the station"},
-              {"hi": "अपने घर", "en": "At his home"}
-            ],
-            "answer": {"hi": "फर्श पर दो बर्थों के बीच", "en": "On the floor between two berths"}
+            "q": {"hi": "साक्षी मलिक के कोच कौन थे?", "en": "Who was Sakshi Malik's coach?"},
+            "options": [{"hi": "महावीर सिंह फोगट", "en": "Mahaveer Singh Phogat"}, {"hi": "मोहम्मद जमील अहमद", "en": "Mohammad Jameel Ahmed"}, {"hi": "ईश्वर दहिया", "en": "Ishwar Dahiya"}, {"hi": "आई.वी. राव", "en": "IV Rao"}],
+            "answer": {"hi": "ईश्वर दहिया", "en": "Ishwar Dahiya"}
           },
           {
-            "q": {
-              "hi": "शंटू के परिवार में कुल कितने बच्चे थे?",
-              "en": "How many children were there in Shantu's family?"
-            },
-            "options": [
-              {"hi": "पाँच", "en": "Five"},
-              {"hi": "छह", "en": "Six"},
-              {"hi": "चार", "en": "Four"},
-              {"hi": "सात", "en": "Seven"}
-            ],
+            "q": {"hi": "साक्षी मलिक ने 2016 में कौन सा पुरस्कार जीता?", "en": "Which award did Sakshi Malik receive in 2016?"},
+            "options": [{"hi": "पद्म श्री", "en": "Padma Shri"}, {"hi": "राजीव गांधी खेल रत्न पुरस्कार", "en": "Rajiv Gandhi Khel Ratna award"}, {"hi": "अर्जुन पुरस्कार", "en": "Arjuna Award"}, {"hi": "कोई नहीं", "en": "None"}],
+            "answer": {"hi": "राजीव गांधी खेल रत्न पुरस्कार", "en": "Rajiv Gandhi Khel Ratna award"}
+          },
+          {
+            "q": {"hi": "साक्षी मलिक कहाँ की रहने वाली हैं?", "en": "Where is Sakshi Malik from?"},
+            "options": [{"hi": "हरियाणा", "en": "Haryana"}, {"hi": "तेलंगाना", "en": "Telangana"}, {"hi": "मणिपुर", "en": "Manipur"}, {"hi": "पंजाब", "en": "Punjab"}],
+            "answer": {"hi": "हरियाणा", "en": "Haryana"}
+          },
+          {
+            "q": {"hi": "साक्षी मलिक को किस खेल में प्रेरणा मिली?", "en": "What sport inspired Sakshi Malik?"},
+            "options": [{"hi": "कुश्ती", "en": "Wrestling"}, {"hi": "मुक्केबाजी", "en": "Boxing"}, {"hi": "फुटबॉल", "en": "Football"}, {"hi": "वॉलीबॉल", "en": "Volleyball"}],
+            "answer": {"hi": "कुश्ती", "en": "Wrestling"}
+          },
+          {
+            "q": {"hi": "मैरी कॉम का जन्म कहाँ हुआ था?", "en": "Where was Mary Kom born?"},
+            "options": [{"hi": "हरियाणा", "en": "Haryana"}, {"hi": "तेलंगाना", "en": "Telangana"}, {"hi": "मणिपुर", "en": "Manipur"}, {"hi": "पंजाब", "en": "Punjab"}],
+            "answer": {"hi": "मणिपुर", "en": "Manipur"}
+          },
+          {
+            "q": {"hi": "मैरी कॉम ने कितनी बार विश्व एमेच्योर मुक्केबाजी चैंपियनशिप जीती?", "en": "How many times did Mary Kom win the World Amateur Boxing Championship?"},
+            "options": [{"hi": "तीन", "en": "Three"}, {"hi": "चार", "en": "Four"}, {"hi": "पाँच", "en": "Five"}, {"hi": "छह", "en": "Six"}],
             "answer": {"hi": "छह", "en": "Six"}
           },
           {
-            "q": {
-              "hi": "शंटू के पिता उसे बड़े शहर क्यों ले जा रहे थे?",
-              "en": "Why were Shantu's parents taking him to the big city?"
-            },
-            "options": [
-              {"hi": "घूमने के लिए", "en": "For sightseeing"},
-              {"hi": "नौकरी ढूंढने के लिए", "en": "To find a job"},
-              {"hi": "स्कूल भेजने के लिए", "en": "To send him to school"},
-              {"hi": "रिश्तेदारों से मिलने", "en": "To meet relatives"}
-            ],
-            "answer": {"hi": "नौकरी ढूंढने के लिए", "en": "To find a job"}
+            "q": {"hi": "मैरी कॉम को किसने बॉक्सिंग के लिए प्रेरित किया?", "en": "Who inspired Mary Kom for boxing?"},
+            "options": [{"hi": "डिंगको सिंह", "en": "Dingko Singh"}, {"hi": "ईश्वर दहिया", "en": "Ishwar Dahiya"}, {"hi": "आई.वी. राव", "en": "IV Rao"}, {"hi": "कोई नहीं", "en": "None"}],
+            "answer": {"hi": "डिंगको सिंह", "en": "Dingko Singh"}
           },
           {
-            "q": {
-              "hi": "शंटू सुबह उठकर कैसा महसूस कर रहा था?",
-              "en": "How did Shantu feel when he woke up in the morning?"
-            },
-            "options": [
-              {"hi": "खुश", "en": "Happy"},
-              {"hi": "अकेला", "en": "Alone"},
-              {"hi": "उत्साहित", "en": "Excited"},
-              {"hi": "डरा हुआ", "en": "Scared"}
-            ],
-            "answer": {"hi": "अकेला", "en": "Alone"}
+            "q": {"hi": "मैरी कॉम ने बॉक्सिंग की ट्रेनिंग कितने साल की उम्र में शुरू की?", "en": "At what age did Mary Kom start boxing training?"},
+            "options": [{"hi": "12", "en": "12"}, {"hi": "15", "en": "15"}, {"hi": "18", "en": "18"}, {"hi": "20", "en": "20"}],
+            "answer": {"hi": "15", "en": "15"}
           },
           {
-            "q": {
-              "hi": "शंटू के अनुसार, बच्चे क्यों काम करते हैं?",
-              "en": "According to Shantu, why do families sell children?"
-            },
-            "options": [
-              {"hi": "पैसे के लिए", "en": "For money"},
-              {"hi": "पढ़ाई के लिए", "en": "For studies"},
-              {"hi": "खेलने के लिए", "en": "For playing"},
-              {"hi": "मस्ती के लिए", "en": "For fun"}
-            ],
-            "answer": {"hi": "पैसे के लिए", "en": "For money"}
-          },
-          {
-            "q": {
-              "hi": "शंटू ने काम करने वाले बच्चों के बारे में क्या बताया?",
-              "en": "What did Shantu say about the working children?"
-            },
-            "options": [
-              {"hi": "उन्हें बहुत पैसे मिलते हैं", "en": "They get a lot of money"},
-              {"hi": "वे सुरक्षित हैं", "en": "They are safe"},
-              {"hi": "वे खतरनाक परिस्थितियों में काम करते हैं", "en": "They work in dangerous conditions"},
-              {"hi": "वे खुश हैं", "en": "They are happy"}
-            ],
-            "answer": {"hi": "वे खतरनाक परिस्थितियों में काम करते हैं", "en": "They work in dangerous conditions"}
-          },
-          {
-            "q": {
-              "hi": "बच्चे दिन में कितने घंटे काम करते हैं?",
-              "en": "How long do the children work in a day?"
-            },
-            "options": [
-              {"hi": "आठ घंटे", "en": "Eight hours"},
-              {"hi": "बारह घंटे", "en": "Twelve hours"},
-              {"hi": "सोलह घंटे", "en": "Sixteen hours"},
-              {"hi": "चार घंटे", "en": "Four hours"}
-            ],
-            "answer": {"hi": "सोलह घंटे", "en": "Sixteen hours"}
-          },
-          {
-            "q": {
-              "hi": "काम के बदले बच्चों को क्या मिलता था?",
-              "en": "What did the working children often get to eat?"
-            },
-            "options": [
-              {"hi": "ताजा भोजन", "en": "Fresh food"},
-              {"hi": "बचा हुआ खाना", "en": "Leftovers"},
-              {"hi": "फल", "en": "Fruits"},
-              {"hi": "मिठाई", "en": "Sweets"}
-            ],
-            "answer": {"hi": "बचा हुआ खाना", "en": "Leftovers"}
-          },
-          {
-            "q": {
-              "hi": "जय ने इस अनुभव के बाद अपनी स्थिति के बारे में क्या सोचा?",
-              "en": "How did Jai feel about his parents after this?"
-            },
-            "options": [
-              {"hi": "उसे गुस्सा आया", "en": "He got angry"},
-              {"hi": "उसे भगवान का शुक्र हुआ", "en": "He was grateful to God"},
-              {"hi": "उसे दुःख हुआ", "en": "He was sad"},
-              {"hi": "उसने परवाह नहीं की", "en": "He did not care"}
-            ],
-            "answer": {"hi": "उसे भगवान का शुक्र हुआ", "en": "He was grateful to God"}
+            "q": {"hi": "मैरी कॉम को पद्म विभूषण कब मिला?", "en": "When did Mary Kom receive Padma Vibhushan?"},
+            "options": [{"hi": "2006", "en": "2006"}, {"hi": "2013", "en": "2013"}, {"hi": "2020", "en": "2020"}, {"hi": "2017", "en": "2017"}],
+            "answer": {"hi": "2020", "en": "2020"}
           }
         ],
         "section3": [
           {
-            "q": {
-              "hi": "शंटू और जय का संवाद कहाँ शुरू हुआ?",
-              "en": "Where did Shantu and Jai's conversation begin?"
-            },
-            "options": [
-              {"hi": "स्टेशन पर", "en": "At the station"},
-              {"hi": "ट्रेन के अंदर", "en": "Inside the train"},
-              {"hi": "फैक्ट्री में", "en": "In a factory"},
-              {"hi": "सड़क पर", "en": "On the road"}
-            ],
-            "answer": {"hi": "ट्रेन के अंदर", "en": "Inside the train"}
+            "q": {"hi": "गीता फोगट के पिता का नाम क्या था?", "en": "What was Geeta Phogat's father's name?"},
+            "options": [{"hi": "महावीर सिंह फोगट", "en": "Mahaveer Singh Phogat"}, {"hi": "मोहम्मद जमील", "en": "Mohammad Jameel"}, {"hi": "ईश्वर दहिया", "en": "Ishwar Dahiya"}, {"hi": "कोई नहीं", "en": "None"}],
+            "answer": {"hi": "महावीर सिंह फोगट", "en": "Mahaveer Singh Phogat"}
           },
           {
-            "q": {
-              "hi": "शंटू ने अपनी माँ को आखिरी बार कब देखा था?",
-              "en": "When did Shantu last see his mother?"
-            },
-            "options": [
-              {"hi": "ट्रेन में", "en": "On the train"},
-              {"hi": "घर से निकलते समय", "en": "When they left home"},
-              {"hi": "स्टेशन पर", "en": "At the station"},
-              {"hi": "उसे याद नहीं", "en": "He doesn't remember"}
-            ],
-            "answer": {"hi": "घर से निकलते समय", "en": "When they left home"}
+            "q": {"hi": "मैरी कॉम का पूरा नाम क्या है?", "en": "What is the full name of Mary Kom?"},
+            "options": [{"hi": "मैरी कॉम", "en": "Mary Kom"}, {"hi": "मैंगते चुंगनेइजैंग मैरी कॉम", "en": "Mangte Chungneijang Mary Kom"}, {"hi": "मैरी सिंह", "en": "Mary Singh"}, {"hi": "कोई नहीं", "en": "None"}],
+            "answer": {"hi": "मैंगते चुंगनेइजैंग मैरी कॉम", "en": "Mangte Chungneijang Mary Kom"}
           },
           {
-            "q": {
-              "hi": "शंटू ने स्टेशनमास्टर से छिपने के लिए क्या किया?",
-              "en": "What did Shantu do to hide from the stationmaster?"
-            },
-            "options": [
-              {"hi": "ट्रेन के अंदर गया", "en": "Went inside the train"},
-              {"hi": "एक कोने में बैठकर रोने लगा", "en": "Sat in a corner crying"},
-              {"hi": "भाग गया", "en": "Ran away"},
-              {"hi": "सो गया", "en": "Went to sleep"}
-            ],
-            "answer": {"hi": "एक कोने में बैठकर रोने लगा", "en": "Sat in a corner crying"}
+            "q": {"hi": "साक्षी मलिक को किस खेल में ओलंपिक पदक मिला?", "en": "In which sport did Sakshi Malik win an Olympic medal?"},
+            "options": [{"hi": "कुश्ती", "en": "Wrestling"}, {"hi": "मुक्केबाजी", "en": "Boxing"}, {"hi": "बैडमिंटन", "en": "Badminton"}, {"hi": "हॉकी", "en": "Hockey"}],
+            "answer": {"hi": "कुश्ती", "en": "Wrestling"}
           },
           {
-            "q": {
-              "hi": "शंटू के मित्र को किसने नौकरी का लालच दिया था?",
-              "en": "Who tricked Shantu's friends with promises?"
-            },
-            "options": [
-              {"hi": "पिता ने", "en": "Father"},
-              {"hi": "किसी परिचित ने", "en": "Someone they knew"},
-              {"hi": "अध्यापक ने", "en": "Teacher"},
-              {"hi": "अजनबी ने", "en": "Stranger"}
-            ],
-            "answer": {"hi": "किसी परिचित ने", "en": "Someone they knew"}
+            "q": {"hi": "निकहत जरीन के पिता का क्या नाम है?", "en": "What is the name of Nikhat Zareen's father?"},
+            "options": [{"hi": "मोहम्मद जमील अहमद", "en": "Mohammad Jameel Ahmed"}, {"hi": "महावीर सिंह फोगट", "en": "Mahaveer Singh Phogat"}, {"hi": "ईश्वर दहिया", "en": "Ishwar Dahiya"}, {"hi": "कोई नहीं", "en": "None"}],
+            "answer": {"hi": "मोहम्मद जमील अहमद", "en": "Mohammad Jameel Ahmed"}
           },
           {
-            "q": {
-              "hi": "शंटू के अनुसार खतरनाक काम कहाँ होते हैं?",
-              "en": "Where does Shantu mention illegal child labour occurs?"
-            },
-            "options": [
-              {"hi": "दुकानों में", "en": "In shops"},
-              {"hi": "फैक्ट्री और निर्माण स्थलों पर", "en": "In factories and construction sites"},
-              {"hi": "स्कूलों में", "en": "In schools"},
-              {"hi": "घर पर", "en": "At home"}
-            ],
-            "answer": {"hi": "फैक्ट्री और निर्माण स्थलों पर", "en": "In factories and construction sites"}
+            "q": {"hi": "मैरी कॉम के पिता क्या थे?", "en": "What was Mary Kom's father's profession?"},
+            "options": [{"hi": "किसान", "en": "Farmer"}, {"hi": "सैनिक", "en": "Soldier"}, {"hi": "बस कंडक्टर", "en": "Bus conductor"}, {"hi": "शिक्षक", "en": "Teacher"}],
+            "answer": {"hi": "किसान", "en": "Farmer"}
           },
           {
-            "q": {
-              "hi": "शंटू की क्या इच्छा थी?",
-              "en": "What was Shantu's wish?"
-            },
-            "options": [
-              {"hi": "मुंबई जाना", "en": "To go to Mumbai"},
-              {"hi": "पढ़ना", "en": "To study"},
-              {"hi": "गाना", "en": "To sing"},
-              {"hi": "खेलना", "en": "To play"}
-            ],
-            "answer": {"hi": "मुंबई जाना", "en": "To go to Mumbai"}
+            "q": {"hi": "साक्षी मलिक के पिता क्या थे?", "en": "What was Sakshi Malik's father's profession?"},
+            "options": [{"hi": "किसान", "en": "Farmer"}, {"hi": "बस कंडक्टर", "en": "Bus conductor"}, {"hi": "शिक्षक", "en": "Teacher"}, {"hi": "सैनिक", "en": "Soldier"}],
+            "answer": {"hi": "बस कंडक्टर", "en": "Bus conductor"}
           },
           {
-            "q": {
-              "hi": "बच्चे पैसे के लिए क्या करते हैं?",
-              "en": "What do some children do on the streets to survive?"
-            },
-            "options": [
-              {"hi": "नृत्य और गायन", "en": "Sing and dance"},
-              {"hi": "पढ़ाई", "en": "Studies"},
-              {"hi": "व्यापार", "en": "Trading"},
-              {"hi": "खेती", "en": "Farming"}
-            ],
-            "answer": {"hi": "नृत्य और गायन", "en": "Sing and dance"}
+            "q": {"hi": "क्या महिला खिलाड़ी भारत का गौरव हैं?", "en": "Are female athletes India's pride?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "क्या शंटू को अपने पिता का चेहरा याद था?",
-              "en": "Did Shantu remember what his family looked like?"
-            },
-            "options": [
-              {"hi": "हाँ, अच्छे से", "en": "Yes, clearly"},
-              {"hi": "नहीं, मुश्किल से", "en": "Hardly"},
-              {"hi": "हाँ, थोड़ा बहुत", "en": "A little"},
-              {"hi": "नहीं, बिल्कुल नहीं", "en": "No, not at all"}
-            ],
-            "answer": {"hi": "नहीं, मुश्किल से", "en": "Hardly"}
+            "q": {"hi": "क्या खेल में अनुशासन जरूरी है?", "en": "Is discipline necessary in sports?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "जय की दुनिया रात भर में कैसे बदल गई?",
-              "en": "How did Jai's world change in a few hours?"
-            },
-            "options": [
-              {"hi": "वह दुखी हो गया", "en": "He became sad"},
-              {"hi": "वह जागरूक हो गया", "en": "He became aware"},
-              {"hi": "वह डर गया", "en": "He became scared"},
-              {"hi": "वह उत्साहित हो गया", "en": "He became excited"}
-            ],
-            "answer": {"hi": "वह जागरूक हो गया", "en": "He became aware"}
+            "q": {"hi": "खेल का अभ्यास क्या मांगता है?", "en": "What does sports practice demand?"},
+            "options": [{"hi": "कड़ी मेहनत", "en": "Hard work"}, {"hi": "आलस", "en": "Laziness"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "कड़ी मेहनत", "en": "Hard work"}
           },
           {
-            "q": {
-              "hi": "शंटू के अनुसार दिल्ली में ठंड होने पर बच्चे कहाँ जाते हैं?",
-              "en": "Where do children go when it gets cold in Delhi?"
-            },
-            "options": [
-              {"hi": "गांव", "en": "Village"},
-              {"hi": "मुंबई", "en": "Mumbai"},
-              {"hi": "हिमालय", "en": "Himalayas"},
-              {"hi": "चेन्नई", "en": "Chennai"}
-            ],
-            "answer": {"hi": "मुंबई", "en": "Mumbai"}
+            "q": {"hi": "क्या लड़कियों के लिए कुश्ती आसान थी?", "en": "Was wrestling easy for girls?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं (बहुत संघर्ष था)", "en": "No (it was very struggling)"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "नहीं (बहुत संघर्ष था)", "en": "No (it was very struggling)"}
           }
         ],
         "section4": [
           {
-            "q": {
-              "hi": "जय ट्रेन से यात्रा क्यों कर रहा था?",
-              "en": "Why was Jai traveling by train?"
-            },
-            "options": [
-              {"hi": "काम के लिए", "en": "For work"},
-              {"hi": "छुट्टियां बिताने", "en": "To spend summer holidays"},
-              {"hi": "स्कूल के लिए", "en": "For school"},
-              {"hi": "रिश्तेदारों से मिलने", "en": "To meet relatives"}
-            ],
-            "answer": {"hi": "छुट्टियां बिताने", "en": "To spend summer holidays"}
+            "q": {"hi": "क्या समाज की सोच बदल रही है?", "en": "Is the society's perception changing?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "जय के पास क्या था जिससे उसने रात में देखा?",
-              "en": "What did Jai use to see in the dark?"
-            },
-            "options": [
-              {"hi": "मोमबत्ती", "en": "Candle"},
-              {"hi": "टॉर्च", "en": "Torch"},
-              {"hi": "लैंप", "en": "Lamp"},
-              {"hi": "फोन की लाइट", "en": "Phone light"}
-            ],
-            "answer": {"hi": "टॉर्च", "en": "Torch"}
+            "q": {"hi": "क्या एथलीट को अपने शरीर का ध्यान रखना चाहिए?", "en": "Should an athlete take care of their body?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "शंटू को कैसे पता चला कि मुंबई एक बड़ा शहर है?",
-              "en": "Why did Shantu want to go to Mumbai?"
-            },
-            "options": [
-              {"hi": "टीवी पर देखकर", "en": "Saw on TV"},
-              {"hi": "दोस्तों से सुनकर", "en": "Heard from friends"},
-              {"hi": "स्कूल में पढ़कर", "en": "Read in school"},
-              {"hi": "उसे नहीं पता", "en": "He doesn't know"}
-            ],
-            "answer": {"hi": "दोस्तों से सुनकर", "en": "Heard from friends"}
+            "q": {"hi": "क्या अच्छी नींद एथलीट के लिए जरूरी है?", "en": "Is good sleep necessary for an athlete?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "जय शंटू के प्रति कैसा था?",
-              "en": "How did Jai treat Shantu?"
-            },
-            "options": [
-              {"hi": "बुरा", "en": "Bad"},
-              {"hi": "दयालु", "en": "Kind"},
-              {"hi": "अहंकारी", "en": "Arrogant"},
-              {"hi": "अनजान", "en": "Indifferent"}
-            ],
-            "answer": {"hi": "दयालु", "en": "Kind"}
+            "q": {"hi": "क्या इन खिलाड़ियों ने देश का मान बढ़ाया?", "en": "Did these players bring glory to the country?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "बाल मजदूरी के लिए सबसे अधिक जिम्मेदार क्या है?",
-              "en": "What is the primary reason for child labour?"
-            },
-            "options": [
-              {"hi": "लालच", "en": "Greed"},
-              {"hi": "गरीबी", "en": "Poverty"},
-              {"hi": "आलस", "en": "Laziness"},
-              {"hi": "मस्ती", "en": "Fun"}
-            ],
-            "answer": {"hi": "गरीबी", "en": "Poverty"}
+            "q": {"hi": "क्या माता-पिता का सहयोग एथलीट के लिए महत्वपूर्ण है?", "en": "Is parent's support important for an athlete?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "शंटू के दोस्तों को किसके द्वारा काम पर लगाया गया?",
-              "en": "How were Shantu's friends forced to work?"
-            },
-            "options": [
-              {"hi": "स्कूल के द्वारा", "en": "By school"},
-              {"hi": "एक परिचित व्यक्ति द्वारा", "en": "By a person they knew"},
-              {"hi": "सरकार द्वारा", "en": "By government"},
-              {"hi": "पिता द्वारा", "en": "By father"}
-            ],
-            "answer": {"hi": "एक परिचित व्यक्ति द्वारा", "en": "By a person they knew"}
+            "q": {"hi": "क्या बॉक्सिंग केवल पुरुषों का खेल है?", "en": "Is boxing only for men?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}],
+            "answer": {"hi": "नहीं", "en": "No"}
           },
           {
-            "q": {
-              "hi": "क्या बच्चों को घर की याद आती थी?",
-              "en": "Did the children miss their families?"
-            },
-            "options": [
-              {"hi": "हाँ, बहुत", "en": "Yes, very much"},
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "शायद", "en": "Maybe"},
-              {"hi": "कभी नहीं", "en": "Never"}
-            ],
-            "answer": {"hi": "हाँ, बहुत", "en": "Yes, very much"}
+            "q": {"hi": "क्या निकहत जरीन के पिता ने उनका समर्थन किया?", "en": "Did Nikhat Zareen's father support her?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "शंटू और उसके जैसे बच्चों का क्या भविष्य था?",
-              "en": "What is the future of children like Shantu?"
-            },
-            "options": [
-              {"hi": "बहुत उज्ज्वल", "en": "Very bright"},
-              {"hi": "बहुत अनिश्चित", "en": "Very uncertain"},
-              {"hi": "सुरक्षित", "en": "Safe"},
-              {"hi": "धनी", "en": "Wealthy"}
-            ],
-            "answer": {"hi": "बहुत अनिश्चित", "en": "Very uncertain"}
+            "q": {"hi": "क्या इन महिलाओं ने चुनौतियों का सामना किया?", "en": "Did these women face challenges?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "कहानी के अंत में शंटू ने क्या किया?",
-              "en": "What did Shantu do before leaving?"
-            },
-            "options": [
-              {"hi": "उसने जय को धन्यवाद दिया", "en": "He thanked Jai"},
-              {"hi": "वह छिपकर भाग गया", "en": "He escaped to avoid being caught"},
-              {"hi": "वह रोने लगा", "en": "He started crying"},
-              {"hi": "वह सो गया", "en": "He went to sleep"}
-            ],
-            "answer": {"hi": "वह छिपकर भाग गया", "en": "He escaped to avoid being caught"}
+            "q": {"hi": "क्या इन खिलाड़ियों से अन्य लड़कियों को प्रेरणा मिलती है?", "en": "Do other girls get inspired by these players?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "क्या बाल मजदूरी एक सामाजिक बुराई है?",
-              "en": "Is child labour a social evil?"
-            },
-            "options": [
-              {"hi": "हाँ", "en": "Yes"},
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "शायद", "en": "Maybe"},
-              {"hi": "पता नहीं", "en": "Don't know"}
-            ],
+            "q": {"hi": "क्या इन खिलाड़ियों की मेहनत रंग लाई?", "en": "Did their hard work pay off?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}],
             "answer": {"hi": "हाँ", "en": "Yes"}
           }
         ],
         "section5": [
           {
-            "q": {
-              "hi": "क्या बच्चों को काम पर लगाना सही है?",
-              "en": "Is it right to make children work?"
-            },
-            "options": [
-              {"hi": "हाँ", "en": "Yes"},
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "कभी-कभी", "en": "Sometimes"},
-              {"hi": "पता नहीं", "en": "Don't know"}
-            ],
+            "q": {"hi": "क्या खेल में करियर बनाना आसान है?", "en": "Is it easy to build a career in sports?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}],
             "answer": {"hi": "नहीं", "en": "No"}
           },
           {
-            "q": {
-              "hi": "शंटू के जैसे बच्चे क्या पाने के लिए तरसते हैं?",
-              "en": "What do children like Shantu crave most?"
-            },
-            "options": [
-              {"hi": "पैसे", "en": "Money"},
-              {"hi": "प्यार और सुरक्षा", "en": "Love and security"},
-              {"hi": "खिलौने", "en": "Toys"},
-              {"hi": "यात्रा", "en": "Travel"}
-            ],
-            "answer": {"hi": "प्यार और सुरक्षा", "en": "Love and security"}
+            "q": {"hi": "साक्षी मलिक को अर्जुन पुरस्कार कब मिला?", "en": "When did Sakshi Malik receive the Arjuna Award?"},
+            "options": [{"hi": "2016", "en": "2016"}, {"hi": "2017", "en": "2017"}, {"hi": "2015", "en": "2015"}],
+            "answer": {"hi": "2016", "en": "2016"}
           },
           {
-            "q": {
-              "hi": "ट्रेन में शंटू के पकड़े जाने का क्या खतरा था?",
-              "en": "What was the risk for Shantu on the train?"
-            },
-            "options": [
-              {"hi": "गिरने का", "en": "Falling down"},
-              {"hi": "टिकट न होने पर पकड़े जाने का", "en": "Being caught for traveling without a ticket"},
-              {"hi": "प्यास का", "en": "Thirst"},
-              {"hi": "ठंड का", "en": "Cold"}
-            ],
-            "answer": {"hi": "टिकट न होने पर पकड़े जाने का", "en": "Being caught for traveling without a ticket"}
+            "q": {"hi": "मैरी कॉम का जन्म किस गाँव में हुआ?", "en": "In which village was Mary Kom born?"},
+            "options": [{"hi": "कागाथेई", "en": "Kagathei"}, {"hi": "मोखरा", "en": "Mokhra"}, {"hi": "बलाली", "en": "Balali"}],
+            "answer": {"hi": "कागाथेई", "en": "Kagathei"}
           },
           {
-            "q": {
-              "hi": "शंटू को क्या याद नहीं था?",
-              "en": "What did Shantu not remember about his home?"
-            },
-            "options": [
-              {"hi": "पिता का चेहरा", "en": "Father's face"},
-              {"hi": "गांव का नाम", "en": "Name of his village"},
-              {"hi": "अपना नाम", "en": "His own name"},
-              {"hi": "अपनी उम्र", "en": "His age"}
-            ],
-            "answer": {"hi": "गांव का नाम", "en": "Name of his village"}
-          },
-          {
-            "q": {
-              "hi": "जय ने क्या करने का वादा किया था?",
-              "en": "What was Jai's commitment regarding children?"
-            },
-            "options": [
-              {"hi": "मदद करने का", "en": "To help them"},
-              {"hi": "पैसे देने का", "en": "To give money"},
-              {"hi": "साथ घूमने का", "en": "To travel with them"},
-              {"hi": "खिलौने देने का", "en": "To give toys"}
-            ],
-            "answer": {"hi": "मदद करने का", "en": "To help them"}
-          },
-          {
-            "q": {
-              "hi": "क्या विष्णु और रोहन जैसे बच्चों को सराहा जाना चाहिए?",
-              "en": "Should children like Vishnu and Rohan be appreciated?"
-            },
-            "options": [
-              {"hi": "हाँ", "en": "Yes"},
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "शायद", "en": "Maybe"},
-              {"hi": "पता नहीं", "en": "Don't know"}
-            ],
+            "q": {"hi": "क्या लक्ष्य प्राप्ति के लिए समर्पण जरूरी है?", "en": "Is devotion necessary to achieve a goal?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
             "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "शंटू के पास रहने के लिए क्या जगह थी?",
-              "en": "Where did Shantu live?"
-            },
-            "options": [
-              {"hi": "घर", "en": "Home"},
-              {"hi": "फैक्ट्री", "en": "Factory"},
-              {"hi": "कोई निश्चित जगह नहीं", "en": "No fixed place"},
-              {"hi": "होटल", "en": "Hotel"}
-            ],
-            "answer": {"hi": "कोई निश्चित जगह नहीं", "en": "No fixed place"}
+            "q": {"hi": "क्या हमें खेलों को बढ़ावा देना चाहिए?", "en": "Should we promote sports?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "शंटू की क्या हालत थी?",
-              "en": "How did Shantu appear to Jai?"
-            },
-            "options": [
-              {"hi": "स्वस्थ", "en": "Healthy"},
-              {"hi": "डरा हुआ और भूखा", "en": "Scared and hungry"},
-              {"hi": "उत्साहित", "en": "Excited"},
-              {"hi": "अमीर", "en": "Rich"}
-            ],
-            "answer": {"hi": "डरा हुआ और भूखा", "en": "Scared and hungry"}
+            "q": {"hi": "क्या साक्षी मलिक ने कुश्ती में ओलंपिक पदक जीता?", "en": "Did Sakshi Malik win an Olympic medal in wrestling?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "ट्रेन में शंटू क्या कर रहा था?",
-              "en": "What was Shantu doing when he was abandoned by his father?"
-            },
-            "options": [
-              {"hi": "सो रहा था", "en": "Sleeping"},
-              {"hi": "खेल रहा था", "en": "Playing"},
-              {"hi": "रो रहा था", "en": "Crying"},
-              {"hi": "खाना खा रहा था", "en": "Eating"}
-            ],
-            "answer": {"hi": "सो रहा था", "en": "Sleeping"}
+            "q": {"hi": "क्या गीता फोगट कॉमनवेल्थ गेम्स में गोल्ड जीतीं?", "en": "Did Geeta Phogat win gold in Commonwealth Games?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "क्या बाल मजदूरी एक गंभीर समस्या है?",
-              "en": "Is child labour a serious problem?"
-            },
-            "options": [
-              {"hi": "हाँ", "en": "Yes"},
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "शायद", "en": "Maybe"},
-              {"hi": "कभी नहीं", "en": "Never"}
-            ],
+            "q": {"hi": "क्या निकहत जरीन वर्ल्ड बॉक्सिंग चैंपियन हैं?", "en": "Is Nikhat Zareen a World Boxing Champion?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या एथलीट का आहार महत्वपूर्ण है?", "en": "Is an athlete's diet important?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या खिलाड़ी की यात्रा प्रेरणादायक है?", "en": "Is the player's journey inspiring?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
             "answer": {"hi": "हाँ", "en": "Yes"}
           }
         ]
