@@ -2361,661 +2361,261 @@
    "chapter05a": {
         "section1": [
           {
-            "q": {
-              "hi": "कविता 'If' के रचयिता कौन हैं?",
-              "en": "Who is the poet of the poem 'If'?"
-            },
-            "options": [
-              {"hi": "रस्किन बॉन्ड", "en": "Ruskin Bond"},
-              {"hi": "रुडयार्ड किपलिंग", "en": "Rudyard Kipling"},
-              {"hi": "जोनाथन स्विफ्ट", "en": "Jonathan Swift"},
-              {"hi": "अनाम", "en": "Anonymous"}
-            ],
-            "answer": {"hi": "रुडयार्ड किपलिंग", "en": "Rudyard Kipling"}
+            "q": {"hi": "कविता का शीर्षक क्या है?", "en": "What is the title of the poem?"},
+            "options": [{"hi": "द फेथलेस शैडोज़", "en": "The Faithless Shadows"}, {"hi": "द शैडो", "en": "The Shadow"}, {"hi": "द लाइट", "en": "The Light"}, {"hi": "चर्च बेल्स", "en": "Church Bells"}],
+            "answer": {"hi": "द फेथलेस शैडोज़", "en": "The Faithless Shadows"}
           },
           {
-            "q": {
-              "hi": "कवि यह कविता किसके लिए लिख रहा है?",
-              "en": "For whom is the poet writing this poem?"
-            },
-            "options": [
-              {"hi": "अपनी बेटी के लिए", "en": "For his daughter"},
-              {"hi": "अपने बेटे के लिए", "en": "For his son"},
-              {"hi": "अपने दोस्तों के लिए", "en": "For his friends"},
-              {"hi": "सभी छात्रों के लिए", "en": "For all students"}
-            ],
-            "answer": {"hi": "अपने बेटे के लिए", "en": "For his son"}
+            "q": {"hi": "कविता के कवि कौन हैं?", "en": "Who is the poet of the poem?"},
+            "options": [{"hi": "रस्किन बॉन्ड", "en": "Ruskin Bond"}, {"hi": "अलेक्जेंडर ब्लॉक", "en": "Alexander Blok"}, {"hi": "रॉबर्ट फ्रॉस्ट", "en": "Robert Frost"}, {"hi": "केविन विलियम हफ", "en": "Kevin William Huff"}],
+            "answer": {"hi": "अलेक्जेंडर ब्लॉक", "en": "Alexander Blok"}
           },
           {
-            "q": {
-              "hi": "'keep your head' वाक्यांश का क्या अर्थ है?",
-              "en": "What does the phrase 'keep your head' mean?"
-            },
-            "options": [
-              {"hi": "सिर को संतुलित रखना", "en": "Balance your head"},
-              {"hi": "शांत और संयमित रहना", "en": "Maintain a calm and composed mind"},
-              {"hi": "ठंडा चेहरा रखना", "en": "Have a cold expression"},
-              {"hi": "बहुत ज्यादा सोचना", "en": "Thinking too much"}
-            ],
-            "answer": {"hi": "शांत और संयमित रहना", "en": "Maintain a calm and composed mind"}
+            "q": {"hi": "दिन की परछाइयाँ कैसी हैं?", "en": "How are the shadows of the day?"},
+            "options": [{"hi": "स्थिर", "en": "Stable"}, {"hi": "फेथलेस (विश्वासघाती)", "en": "Faithless"}, {"hi": "बड़ी", "en": "Large"}, {"hi": "अंधेरी", "en": "Dark"}],
+            "answer": {"hi": "फेथलेस (विश्वासघाती)", "en": "Faithless"}
           },
           {
-            "q": {
-              "hi": "कवि के अनुसार 'impostors' शब्द किसके लिए प्रयोग किया गया है?",
-              "en": "What does the word 'impostors' in the poem refer to?"
-            },
-            "options": [
-              {"hi": "धूर्त और मूर्ख", "en": "Knaves and fools"},
-              {"hi": "जीत और आपदा", "en": "Triumph and disaster"},
-              {"hi": "मित्र और दुश्मन", "en": "Friends and foes"},
-              {"hi": "अतीत और भविष्य", "en": "Past and future"}
-            ],
-            "answer": {"hi": "जीत और आपदा", "en": "Triumph and disaster"}
+            "q": {"hi": "घंटियों की आवाज़ कैसी है?", "en": "How is the sound of the bells?"},
+            "options": [{"hi": "धीमी", "en": "Slow"}, {"hi": "ऊँची और स्पष्ट", "en": "High and clear"}, {"hi": "डरावनी", "en": "Scary"}, {"hi": "कोई नहीं", "en": "None"}],
+            "answer": {"hi": "ऊँची और स्पष्ट", "en": "High and clear"}
           },
           {
-            "q": {
-              "hi": "'And lose, and start again at your beginnings' का क्या अर्थ है?",
-              "en": "What does the line 'And lose, and start again at your beginnings' mean?"
-            },
-            "options": [
-              {"hi": "शुरुआत में हारना", "en": "Lose at the beginning"},
-              {"hi": "लचीला होना (resilient)", "en": "Being resilient"},
-              {"hi": "फिर से शुरू करना बेकार है", "en": "Beginning again is useless"},
-              {"hi": "अमीर बनना", "en": "Becoming rich"}
-            ],
-            "answer": {"hi": "लचीला होना", "en": "Being resilient"}
+            "q": {"hi": "चर्च की सीढ़ियाँ कैसी चमक रही हैं?", "en": "How are the church steps blazed?"},
+            "options": [{"hi": "सूरज की रोशनी से", "en": "With sunlight"}, {"hi": "बिजली की तरह", "en": "As with the lightning"}, {"hi": "मोमबत्तियों से", "en": "With candles"}, {"hi": "दीयों से", "en": "With lamps"}],
+            "answer": {"hi": "बिजली की तरह", "en": "As with the lightning"}
           },
           {
-            "q": {
-              "hi": "कवि के अनुसार, झूठ बोलने वालों के साथ कैसा व्यवहार करना चाहिए?",
-              "en": "According to the poet, how should one deal with those who lie?"
-            },
-            "options": [
-              {"hi": "झूठ से ही जवाब देना", "en": "Deal in lies"},
-              {"hi": "झूठ का सहारा नहीं लेना", "en": "Don't deal in lies"},
-              {"hi": "उनसे लड़ना", "en": "Fight with them"},
-              {"hi": "उन्हें अनदेखा करना", "en": "Ignore them"}
-            ],
-            "answer": {"hi": "झूठ का सहारा नहीं लेना", "en": "Don't deal in lies"}
+            "q": {"hi": "चर्च के पत्थर कैसे हैं?", "en": "How are the stones of the church?"},
+            "options": [{"hi": "जीवित", "en": "Alive"}, {"hi": "ठंडे", "en": "Chilly"}, {"hi": "सफेद", "en": "White"}, {"hi": "टूट रहे", "en": "Breaking"}],
+            "answer": {"hi": "जीवित", "en": "Alive"}
           },
           {
-            "q": {
-              "hi": "सपने देखने के बारे में कवि की क्या सलाह है?",
-              "en": "What is the poet's advice regarding dreams?"
-            },
-            "options": [
-              {"hi": "सपने नहीं देखना", "en": "Don't dream"},
-              {"hi": "सपनों को अपना मालिक न बनाना", "en": "Don't make dreams your master"},
-              {"hi": "सिर्फ सपने ही देखना", "en": "Only dream"},
-              {"hi": "सपनों को बेचना", "en": "Sell dreams"}
-            ],
-            "answer": {"hi": "सपनों को अपना मालिक न बनाना", "en": "Don't make dreams your master"}
+            "q": {"hi": "चर्च के पत्थर किसका इंतज़ार कर रहे हैं?", "en": "What are the church stones waiting for?"},
+            "options": [{"hi": "बारिश का", "en": "For rain"}, {"hi": "हल्के कदमों का (light steps)", "en": "For your light steps"}, {"hi": "लोगों का", "en": "For people"}, {"hi": "सूरज का", "en": "For sun"}],
+            "answer": {"hi": "हल्के कदमों का (light steps)", "en": "For your light steps"}
           },
           {
-            "q": {
-              "hi": "कविता में 'knaves' का क्या अर्थ है?",
-              "en": "What is the meaning of 'knaves' in the poem?"
-            },
-            "options": [
-              {"hi": "ईमानदार लोग", "en": "Honest people"},
-              {"hi": "धूर्त और अविश्वसनीय व्यक्ति", "en": "A deceitful and unreliable person"},
-              {"hi": "मूर्ख लोग", "en": "Foolish people"},
-              {"hi": "राजा", "en": "Kings"}
-            ],
-            "answer": {"hi": "धूर्त और अविश्वसनीय व्यक्ति", "en": "A deceitful and unreliable person"}
+            "q": {"hi": "पत्थर कैसे हैं जिन्हें आप छूते हैं?", "en": "How is the stone you touch?"},
+            "options": [{"hi": "ठंडा (chilly)", "en": "Chilly"}, {"hi": "गर्म", "en": "Warm"}, {"hi": "मुलायम", "en": "Soft"}, {"hi": "खुरदरा", "en": "Rough"}],
+            "answer": {"hi": "ठंडा (chilly)", "en": "Chilly"}
           },
           {
-            "q": {
-              "hi": "कवि के अनुसार 'sinew' का अर्थ क्या है?",
-              "en": "According to the poem, what is the meaning of 'sinew'?"
-            },
-            "options": [
-              {"hi": "धन", "en": "Wealth"},
-              {"hi": "मांसपेशियों की ताकत", "en": "Having muscular strength"},
-              {"hi": "बुद्धि", "en": "Intelligence"},
-              {"hi": "ईमानदारी", "en": "Honesty"}
-            ],
-            "answer": {"hi": "मांसपेशियों की ताकत", "en": "Having muscular strength"}
+            "q": {"hi": "संत की आंखों के सामने क्या फेंका जाना चाहिए?", "en": "What should be thrown before the eyes of the saint?"},
+            "options": [{"hi": "पत्थर", "en": "Stones"}, {"hi": "वसंत का फूल (flower of spring)", "en": "Flower of spring"}, {"hi": "पानी", "en": "Water"}, {"hi": "मिट्टी", "en": "Soil"}],
+            "answer": {"hi": "वसंत का फूल (flower of spring)", "en": "Flower of spring"}
           },
           {
-            "q": {
-              "hi": "कवि के अनुसार, 'foes' का क्या अर्थ है?",
-              "en": "What is the meaning of 'foes'?"
-            },
-            "options": [
-              {"hi": "दोस्त", "en": "Friends"},
-              {"hi": "दुश्मन", "en": "Enemies"},
-              {"hi": "अजनबी", "en": "Strangers"},
-              {"hi": "रिश्तेदार", "en": "Relatives"}
-            ],
-            "answer": {"hi": "दुश्मन", "en": "Enemies"}
+            "q": {"hi": "अंधेरे में कौन सी परछाइयां बढ़ती हैं?", "en": "Which shadows grow in the misty darkness?"},
+            "options": [{"hi": "काली", "en": "Black"}, {"hi": "गुलाबी (rose shadows)", "en": "Rose shadows"}, {"hi": "सफेद", "en": "White"}, {"hi": "नीली", "en": "Blue"}],
+            "answer": {"hi": "गुलाबी (rose shadows)", "en": "Rose shadows"}
           }
         ],
         "section2": [
           {
-            "q": {
-              "hi": "जब सब लोग आप पर संदेह करें, तब क्या करना चाहिए?",
-              "en": "What should you do when everyone doubts you?"
-            },
-            "options": [
-              {"hi": "खुद पर संदेह करना", "en": "Doubt yourself"},
-              {"hi": "खुद पर विश्वास रखना", "en": "Trust yourself"},
-              {"hi": "लड़ना", "en": "Fight"},
-              {"hi": "हार मान लेना", "en": "Give up"}
-            ],
-            "answer": {"hi": "खुद पर विश्वास रखना", "en": "Trust yourself"}
+            "q": {"hi": "अंधेरा कैसा है?", "en": "How is the darkness?"},
+            "options": [{"hi": "कोहरे वाला (misty)", "en": "Misty"}, {"hi": "साफ", "en": "Clear"}, {"hi": "रोशनी वाला", "en": "Light"}, {"hi": "पीला", "en": "Yellow"}],
+            "answer": {"hi": "कोहरे वाला (misty)", "en": "Misty"}
           },
           {
-            "q": {
-              "hi": "कवि 'thought' के बारे में क्या कहता है?",
-              "en": "What does the poet say about 'thought'?"
-            },
-            "options": [
-              {"hi": "इसे अपना लक्ष्य न बनाना", "en": "Don't make thoughts your aim"},
-              {"hi": "इसे ही लक्ष्य बनाना", "en": "Make thoughts your aim"},
-              {"hi": "इसे कभी न सोचना", "en": "Never think"},
-              {"hi": "इसे सब जगह बताना", "en": "Tell it everywhere"}
-            ],
-            "answer": {"hi": "इसे अपना लक्ष्य न बनाना", "en": "Don't make thoughts your aim"}
+            "q": {"hi": "कवि कहाँ इंतज़ार कर रहा है?", "en": "Where is the poet waiting?"},
+            "options": [{"hi": "घर में", "en": "At home"}, {"hi": "सीढ़ियों पर", "en": "On the steps"}, {"hi": "जंगल में", "en": "In the forest"}, {"hi": "सड़क पर", "en": "On the road"}],
+            "answer": {"hi": "सीढ़ियों पर", "en": "On the steps"}
           },
           {
-            "q": {
-              "hi": "इम्पोस्टर्स (Impostors) के रूप में किन दो चीज़ों का ज़िक्र है?",
-              "en": "Which two things are mentioned as impostors?"
-            },
-            "options": [
-              {"hi": "प्यार और नफरत", "en": "Love and hate"},
-              {"hi": "जीत और आपदा", "en": "Triumph and disaster"},
-              {"hi": "सफलता और विफलता", "en": "Success and failure"},
-              {"hi": "सत्य और असत्य", "en": "Truth and lies"}
-            ],
-            "answer": {"hi": "जीत और आपदा", "en": "Triumph and disaster"}
+            "q": {"hi": "कविता में घंटियों की आवाज़ को क्या कहा गया है?", "en": "What is the ringing of bells called?"},
+            "options": [{"hi": "शोर", "en": "Noise"}, {"hi": "कॉल ऑफ बेल्स (call of bells)", "en": "Call of bells"}, {"hi": "संगीत", "en": "Music"}, {"hi": "बुलाहट", "en": "Summons"}],
+            "answer": {"hi": "कॉल ऑफ बेल्स (call of bells)", "en": "Call of bells"}
           },
           {
-            "q": {
-              "hi": "जब आपकी कही बातों को धूर्त लोग तोड़-मरोड़ दें, तो क्या करना चाहिए?",
-              "en": "What to do when knaves twist the truth you've spoken?"
-            },
-            "options": [
-              {"hi": "गुस्सा होना", "en": "Get angry"},
-              {"hi": "धैर्य रखना और विचलित न होना", "en": "Bear it patiently"},
-              {"hi": "लड़ाई करना", "en": "Fight"},
-              {"hi": "झूठ का सहारा लेना", "en": "Start lying"}
-            ],
-            "answer": {"hi": "धैर्य रखना और विचलित न होना", "en": "Bear it patiently"}
+            "q": {"hi": "परछाइयाँ कैसी हैं?", "en": "How are the shadows?"},
+            "options": [{"hi": "वफादार", "en": "Faithful"}, {"hi": "विश्वासघाती (faithless)", "en": "Faithless"}, {"hi": "स्थिर", "en": "Steady"}, {"hi": "बड़ी", "en": "Large"}],
+            "answer": {"hi": "विश्वासघाती (faithless)", "en": "Faithless"}
           },
           {
-            "q": {
-              "hi": "पिच-एंड-टॉस (pitch-and-toss) का खेल क्या दर्शाता है?",
-              "en": "What does the turn of pitch-and-toss represent?"
-            },
-            "options": [
-              {"hi": "खेल का मज़ा", "en": "Fun of the game"},
-              {"hi": "जीवन में जोखिम लेना", "en": "Taking risks in life"},
-              {"hi": "पैसा कमाना", "en": "Earning money"},
-              {"hi": "हारना", "en": "Losing"}
-            ],
-            "answer": {"hi": "जीवन में जोखिम लेना", "en": "Taking risks in life"}
+            "q": {"hi": "क्या चर्च की सीढ़ियाँ रोशनी से चमकती हैं?", "en": "Do the church steps blaze with light?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "हारने के बाद कवि क्या करने को कहता है?",
-              "en": "What does the poet suggest doing after losing?"
-            },
-            "options": [
-              {"hi": "शिकायत करना", "en": "Complain"},
-              {"hi": "फिर से शुरुआत करना", "en": "Start again from the beginning"},
-              {"hi": "हार मान लेना", "en": "Give up"},
-              {"hi": "दोष देना", "en": "Blame others"}
-            ],
-            "answer": {"hi": "फिर से शुरुआत करना", "en": "Start again from the beginning"}
+            "q": {"hi": "कवि का मूड कैसा है?", "en": "How is the poet's mood?"},
+            "options": [{"hi": "खुश", "en": "Happy"}, {"hi": "चिंतित/प्रतीक्षारत", "en": "Pensive/waiting"}, {"hi": "गुस्से में", "en": "Angry"}, {"hi": "उत्साहित", "en": "Excited"}],
+            "answer": {"hi": "चिंतित/प्रतीक्षारत", "en": "Pensive/waiting"}
           },
           {
-            "q": {
-              "hi": "जब आपके पास कुछ भी न बचे, तब क्या आपकी मदद करता है?",
-              "en": "What helps you when there is nothing left in you?"
-            },
-            "options": [
-              {"hi": "इच्छाशक्ति (Will)", "en": "The Will"},
-              {"hi": "धन", "en": "Money"},
-              {"hi": "दोस्तों की सलाह", "en": "Friends' advice"},
-              {"hi": "भाग्य", "en": "Luck"}
-            ],
-            "answer": {"hi": "इच्छाशक्ति", "en": "The Will"}
+            "q": {"hi": "क्या वसंत के फूल का उल्लेख है?", "en": "Is the flower of spring mentioned?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "भीड़ के साथ रहते समय क्या नहीं खोना चाहिए?",
-              "en": "What should one not lose while walking with crowds?"
-            },
-            "options": [
-              {"hi": "पैसा", "en": "Money"},
-              {"hi": "अपना गुण या नैतिकता (virtue)", "en": "Your virtue"},
-              {"hi": "अपना समय", "en": "Your time"},
-              {"hi": "अपनी पहचान", "en": "Your identity"}
-            ],
-            "answer": {"hi": "अपना गुण या नैतिकता", "en": "Your virtue"}
+            "q": {"hi": "अंधेरा कहाँ है?", "en": "Where is the darkness?"},
+            "options": [{"hi": "चर्च के बाहर", "en": "Outside the church"}, {"hi": "सीढ़ियों पर", "en": "On the steps"}, {"hi": "पेड़ों में", "en": "In trees"}, {"hi": "आसमान में", "en": "In sky"}],
+            "answer": {"hi": "सीढ़ियों पर", "en": "On the steps"}
           },
           {
-            "q": {
-              "hi": "राजाओं के साथ चलते समय क्या याद रखना चाहिए?",
-              "en": "What should you remember while walking with kings?"
-            },
-            "options": [
-              {"hi": "घमंड करना", "en": "To be proud"},
-              {"hi": "सामान्य स्पर्श (common touch) न खोना", "en": "Don't lose the common touch"},
-              {"hi": "अमीर बनना", "en": "Becoming rich"},
-              {"hi": "उनकी नकल करना", "en": "Copying them"}
-            ],
-            "answer": {"hi": "सामान्य स्पर्श न खोना", "en": "Don't lose the common touch"}
+            "q": {"hi": "क्या पत्थर जीवित हैं?", "en": "Are the stones alive?"},
+            "options": [{"hi": "नहीं", "en": "No"}, {"hi": "कविता के अनुसार हाँ", "en": "Yes, according to the poem"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "कविता के अनुसार हाँ", "en": "Yes, according to the poem"}
           },
           {
-            "q": {
-              "hi": "अंत में कवि क्या बनने का वादा करता है?",
-              "en": "What does the poet say you will become in the end?"
-            },
-            "options": [
-              {"hi": "एक राजा", "en": "A king"},
-              {"hi": "एक इंसान (Man)", "en": "A Man"},
-              {"hi": "एक विजेता", "en": "A winner"},
-              {"hi": "एक विद्वान", "en": "A wise man"}
-            ],
-            "answer": {"hi": "एक इंसान", "en": "A Man"}
+            "q": {"hi": "क्या कविता में किसी संत का जिक्र है?", "en": "Is any saint mentioned in the poem?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           }
         ],
         "section3": [
           {
-            "q": {
-              "hi": "क्या 'unforgiving minute' को भरने के लिए कहा गया है?",
-              "en": "How should one fill the 'unforgiving minute'?"
-            },
-            "options": [
-              {"hi": "साठ सेकंड की दौड़ के साथ", "en": "With sixty seconds' worth of distance run"},
-              {"hi": "सोकर", "en": "By sleeping"},
-              {"hi": "आलस करके", "en": "By being lazy"},
-              {"hi": "शिकायत करके", "en": "By complaining"}
-            ],
-            "answer": {"hi": "साठ सेकंड की दौड़ के साथ", "en": "With sixty seconds' worth of distance run"}
+            "q": {"hi": "परछाइयाँ कैसे बदलती हैं?", "en": "How do shadows change?"},
+            "options": [{"hi": "सूरज की रोशनी के साथ", "en": "With sunlight"}, {"hi": "हवा के साथ", "en": "With wind"}, {"hi": "बारिश के साथ", "en": "With rain"}, {"hi": "कुछ नहीं", "en": "Nothing"}],
+            "answer": {"hi": "सूरज की रोशनी के साथ", "en": "With sunlight"}
           },
           {
-            "q": {
-              "hi": "क्या आपको दूसरों के संदेह करने पर उन्हें भी संदेह करने की अनुमति देनी चाहिए?",
-              "en": "Should you make allowance for others' doubting you?"
-            },
-            "options": [
-              {"hi": "हाँ", "en": "Yes"},
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "शायद", "en": "Maybe"},
-              {"hi": "कभी नहीं", "en": "Never"}
-            ],
+            "q": {"hi": "क्या धार्मिक विश्वास परिवर्तनशील हो सकते हैं?", "en": "Can religious beliefs be changeable?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "पता नहीं", "en": "Don't know"}],
             "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "प्रसिद्धि के मामले में कवि क्या कहता है?",
-              "en": "What does the poet say about triumph and disaster?"
-            },
-            "options": [
-              {"hi": "उन्हें अलग तरह से देखें", "en": "Treat them differently"},
-              {"hi": "उन्हें समान रूप से देखें", "en": "Treat those two impostors just the same"},
-              {"hi": "आपदा से डरें", "en": "Fear disaster"},
-              {"hi": "जीत का जश्न मनाएं", "en": "Celebrate triumph"}
-            ],
-            "answer": {"hi": "उन्हें समान रूप से देखें", "en": "Treat those two impostors just the same"}
+            "q": {"hi": "क्या यह कविता प्रतीकात्मक (symbolic) है?", "en": "Is this poem symbolic?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "क्या कवि अति-बुद्धिमान या दिखावा करने की सलाह देता है?",
-              "en": "Does the poet advise to look too good or talk too wise?"
-            },
-            "options": [
-              {"hi": "हाँ", "en": "Yes"},
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "सिर्फ बात करने की", "en": "Only talk wise"},
-              {"hi": "दिखावा करने की", "en": "Only look good"}
-            ],
-            "answer": {"hi": "नहीं", "en": "No"}
+            "q": {"hi": "क्या कवि को इंतज़ार है?", "en": "Is the poet waiting?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "हार के बारे में क्या बात नहीं करनी चाहिए?",
-              "en": "What should you never breathe a word about after losing?"
-            },
-            "options": [
-              {"hi": "अपनी जीत", "en": "Your winnings"},
-              {"hi": "अपने नुकसान (loss)", "en": "Your loss"},
-              {"hi": "अपने दोस्तों", "en": "Your friends"},
-              {"hi": "अपने भविष्य", "en": "Your future"}
-            ],
-            "answer": {"hi": "अपने नुकसान", "en": "Your loss"}
+            "q": {"hi": "सीढ़ियां कैसी हैं?", "en": "How are the steps?"},
+            "options": [{"hi": "पुरानी और नीचे (old and low)", "en": "Old and low"}, {"hi": "नई और ऊँची", "en": "New and high"}, {"hi": "साफ", "en": "Clean"}, {"hi": "बड़ी", "en": "Big"}],
+            "answer": {"hi": "पुरानी और नीचे (old and low)", "en": "Old and low"}
           },
           {
-            "q": {
-              "hi": "क्या दुश्मनों या प्रेम करने वाले दोस्तों को आपको चोट पहुँचाने देनी चाहिए?",
-              "en": "Should foes or loving friends be allowed to hurt you?"
-            },
-            "options": [
-              {"hi": "हाँ", "en": "Yes"},
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "शायद", "en": "Maybe"},
-              {"hi": "निर्भर करता है", "en": "Depends"}
-            ],
-            "answer": {"hi": "नहीं", "en": "No"}
+            "q": {"hi": "कवि किसमें है?", "en": "What is the poet in?"},
+            "options": [{"hi": "अंधेरे", "en": "Darkness"}, {"hi": "रोशनी", "en": "Light"}, {"hi": "पानी", "en": "Water"}, {"hi": "पेड़ों में", "en": "In trees"}],
+            "answer": {"hi": "रोशनी", "en": "Light"}
           },
           {
-            "q": {
-              "hi": "अगर आप सब कुछ खो देते हैं, तो क्या करना चाहिए?",
-              "en": "What to do if you lose everything?"
-            },
-            "options": [
-              {"hi": "दोष दें", "en": "Blame"},
-              {"hi": "शुरू से फिर शुरू करें", "en": "Start again"},
-              {"hi": "हार मान लें", "en": "Give up"},
-              {"hi": "रोएं", "en": "Cry"}
-            ],
-            "answer": {"hi": "शुरू से फिर शुरू करें", "en": "Start again"}
+            "q": {"hi": "कवि किसका इंतज़ार कर रहा है?", "en": "What is the poet waiting for?"},
+            "options": [{"hi": "प्यारे कदमों का", "en": "For dear steps"}, {"hi": "सूरज का", "en": "For sun"}, {"hi": "बारिश का", "en": "For rain"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "प्यारे कदमों का", "en": "For dear steps"}
           },
           {
-            "q": {
-              "hi": "कवि के अनुसार इंसान के अंदर सबसे महत्वपूर्ण चीज़ क्या है?",
-              "en": "What is the most important thing according to the poet inside a person?"
-            },
-            "options": [
-              {"hi": "पैसा", "en": "Money"},
-              {"hi": "इच्छाशक्ति", "en": "Will"},
-              {"hi": "दोस्त", "en": "Friends"},
-              {"hi": "प्रसिद्धि", "en": "Fame"}
-            ],
-            "answer": {"hi": "इच्छाशक्ति", "en": "Will"}
+            "q": {"hi": "क्या कविता में कोहरा (mist) है?", "en": "Is there mist in the poem?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "पृथ्वी और उसमें मौजूद सब कुछ किसका है?",
-              "en": "Who gets the Earth and everything that's in it?"
-            },
-            "options": [
-              {"hi": "अमीर का", "en": "The rich"},
-              {"hi": "आपका (अगर आप सही इंसान हैं)", "en": "Yours"},
-              {"hi": "राजा का", "en": "The king"},
-              {"hi": "कोई नहीं", "en": "None"}
-            ],
-            "answer": {"hi": "आपका", "en": "Yours"}
+            "q": {"hi": "क्या चर्च के पत्थर इंतज़ार कर रहे हैं?", "en": "Are the church stones waiting?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "क्या सबको महत्व देना चाहिए?",
-              "en": "Should all men count with you?"
-            },
-            "options": [
-              {"hi": "हाँ", "en": "Yes"},
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "नहीं, कोई भी बहुत अधिक नहीं", "en": "Yes, but none too much"},
-              {"hi": "सिर्फ खास लोगों को", "en": "Only special ones"}
-            ],
-            "answer": {"hi": "नहीं, कोई भी बहुत अधिक नहीं", "en": "Yes, but none too much"}
+            "q": {"hi": "क्या यह एक रूसी कवि की कविता है?", "en": "Is this a Russian poet's poem?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           }
         ],
         "section4": [
           {
-            "q": {
-              "hi": "जब सब अपनी आपा (head) खो रहे हों, तब क्या करना चाहिए?",
-              "en": "What to do when all about you are losing their heads?"
-            },
-            "options": [
-              {"hi": "आप भी खो दें", "en": "Lose yours too"},
-              {"hi": "अपना सिर शांत रखें", "en": "Keep yours"},
-              {"hi": "भाग जाएं", "en": "Run away"},
-              {"hi": "मज़ाक उड़ाएं", "en": "Make fun"}
-            ],
-            "answer": {"hi": "अपना सिर शांत रखें", "en": "Keep yours"}
+            "q": {"hi": "क्या छाया विश्वासघाती है?", "en": "Is the shadow faithless?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "क्या घृणा के जवाब में घृणा देनी चाहिए?",
-              "en": "Should you give way to hating if you are hated?"
-            },
-            "options": [
-              {"hi": "हाँ", "en": "Yes"},
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "सिर्फ दुश्मनों को", "en": "Only to enemies"},
-              {"hi": "पता नहीं", "en": "Don't know"}
-            ],
-            "answer": {"hi": "नहीं", "en": "No"}
+            "q": {"hi": "क्या कवि चर्च के बाहर है?", "en": "Is the poet outside the church?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "क्या सपने आपका लक्ष्य होने चाहिए?",
-              "en": "Should dreams be your aim?"
-            },
-            "options": [
-              {"hi": "हाँ", "en": "Yes"},
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "सपनों का लक्ष्य बनाना चाहिए", "en": "Dreams should be aims"},
-              {"hi": "हाँ, हमेशा", "en": "Yes, always"}
-            ],
-            "answer": {"hi": "नहीं", "en": "No"}
+            "q": {"hi": "क्या वसंत के फूल को फेंका गया है?", "en": "Is the flower of spring thrown?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "कविता का मूल स्वर क्या है?",
-              "en": "What is the tone of the poem?"
-            },
-            "options": [
-              {"hi": "उदास", "en": "Sad"},
-              {"hi": "प्रेरणादायक", "en": "Inspirational"},
-              {"hi": "मज़ाकिया", "en": "Funny"},
-              {"hi": "डर का", "en": "Fearful"}
-            ],
-            "answer": {"hi": "प्रेरणादायक", "en": "Inspirational"}
+            "q": {"hi": "क्या रोशनी तेज है?", "en": "Is the light bright?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "धैर्य रखने के बारे में कवि का क्या सुझाव है?",
-              "en": "What is the poet's suggestion about waiting?"
-            },
-            "options": [
-              {"hi": "थक जाना", "en": "Get tired"},
-              {"hi": "न थकना", "en": "Not be tired by waiting"},
-              {"hi": "इंतज़ार ही करना", "en": "Just wait"},
-              {"hi": "भाग जाना", "en": "Run away"}
-            ],
-            "answer": {"hi": "न थकना", "en": "Not be tired by waiting"}
+            "q": {"hi": "क्या कविता में चर्च का जिक्र है?", "en": "Is the church mentioned in the poem?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "क्या आपको अपनी जीत का ढिंढोरा पीटना चाहिए?",
-              "en": "Should you talk about your winnings?"
-            },
-            "options": [
-              {"hi": "हाँ", "en": "Yes"},
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "सिर्फ दोस्तों से", "en": "Only with friends"},
-              {"hi": "सबके सामने", "en": "In front of everyone"}
-            ],
-            "answer": {"hi": "नहीं", "en": "No"}
+            "q": {"hi": "क्या पत्थर ठंडे हैं?", "en": "Are the stones cold?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "अपनी इच्छाशक्ति को कैसे बनाए रखना चाहिए?",
-              "en": "How to keep the will going?"
-            },
-            "options": [
-              {"hi": "आराम से", "en": "Easily"},
-              {"hi": "जोर लगाकर", "en": "Hold on"},
-              {"hi": "छोड़कर", "en": "Give up"},
-              {"hi": "दूसरों के भरोसे", "en": "Depend on others"}
-            ],
-            "answer": {"hi": "जोर लगाकर", "en": "Hold on"}
+            "q": {"hi": "क्या कवि रोशनी में खड़ा है?", "en": "Is the poet in the light?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "साठ सेकंड की दौड़ का क्या महत्व है?",
-              "en": "What is the worth of the distance run in sixty seconds?"
-            },
-            "options": [
-              {"hi": "बहुत अधिक", "en": "A lot"},
-              {"hi": "कम", "en": "Less"},
-              {"hi": "शून्य", "en": "Zero"},
-              {"hi": "पता नहीं", "en": "Don't know"}
-            ],
-            "answer": {"hi": "बहुत अधिक", "en": "A lot"}
+            "q": {"hi": "क्या घंटियों की आवाज़ साफ है?", "en": "Is the sound of bells clear?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "जो आप प्यार से बनाते हैं, उनके टूटने पर क्या करना चाहिए?",
-              "en": "What to do when the things you gave your life to are broken?"
-            },
-            "options": [
-              {"hi": "रोना", "en": "Cry"},
-              {"hi": "धीरज रखना और फिर से बनाना", "en": "Bear it and rebuild"},
-              {"hi": "छोड़ देना", "en": "Give up"},
-              {"hi": "दोष देना", "en": "Blame"}
-            ],
-            "answer": {"hi": "धीरज रखना और फिर से बनाना", "en": "Bear it and rebuild"}
+            "q": {"hi": "क्या छाया को बदला जा सकता है?", "en": "Can the shadow be changed?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "जीवन में आगे बढ़ने के लिए क्या ज़रूरी है?",
-              "en": "What is needed to move forward in life?"
-            },
-            "options": [
-              {"hi": "धन", "en": "Wealth"},
-              {"hi": "सकारात्मक रवैया", "en": "Positive attitude"},
-              {"hi": "किस्मत", "en": "Luck"},
-              {"hi": "आलस", "en": "Laziness"}
-            ],
-            "answer": {"hi": "सकारात्मक रवैया", "en": "Positive attitude"}
+            "q": {"hi": "क्या ये छाया दिन की है?", "en": "Are these shadows of the day?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           }
         ],
         "section5": [
           {
-            "q": {
-              "hi": "क्या कवि को बेटे पर विश्वास है?",
-              "en": "Does the poet have faith in his son?"
-            },
-            "options": [
-              {"hi": "हाँ", "en": "Yes"},
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "शायद", "en": "Maybe"},
-              {"hi": "कभी नहीं", "en": "Never"}
-            ],
+            "q": {"hi": "क्या कविता में कोई दार्शनिकता है?", "en": "Is there any philosophy in the poem?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
             "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "कवि 'knaves' से किसे बचाने की बात करता है?",
-              "en": "Who does the poet warn against?"
-            },
-            "options": [
-              {"hi": "दोस्तों को", "en": "Friends"},
-              {"hi": "सत्य को", "en": "Truth"},
-              {"hi": "धूर्त लोगों को", "en": "Knaves"},
-              {"hi": "पिता को", "en": "Father"}
-            ],
-            "answer": {"hi": "धूर्त लोगों को", "en": "Knaves"}
-          },
-          {
-            "q": {
-              "hi": "जीवन के बारे में इस कविता का मुख्य संदेश क्या है?",
-              "en": "What is the main message of the poem about life?"
-            },
-            "options": [
-              {"hi": "हारना ही है", "en": "Just lose"},
-              {"hi": "हमेशा संतुलित और साहसी रहो", "en": "Always be balanced and courageous"},
-              {"hi": "सिर्फ जीतो", "en": "Just win"},
-              {"hi": "इंतज़ार करो", "en": "Just wait"}
-            ],
-            "answer": {"hi": "हमेशा संतुलित और साहसी रहो", "en": "Always be balanced and courageous"}
-          },
-          {
-            "q": {
-              "hi": "जब सब आप पर blame डालें, तो क्या करें?",
-              "en": "What to do when all are blaming it on you?"
-            },
-            "options": [
-              {"hi": "स्वीकार करें", "en": "Accept"},
-              {"hi": "अपना सिर शांत रखें", "en": "Keep your head"},
-              {"hi": "लड़ें", "en": "Fight"},
-              {"hi": "चले जाएं", "en": "Leave"}
-            ],
-            "answer": {"hi": "अपना सिर शांत रखें", "en": "Keep your head"}
-          },
-          {
-            "q": {
-              "hi": "कवि के अनुसार 'thinking' के बारे में सलाह क्या है?",
-              "en": "What is the advice about 'thinking'?"
-            },
-            "options": [
-              {"hi": "सोचो और लक्ष्य बनाओ", "en": "Think and make it your aim"},
-              {"hi": "सोचो लेकिन इसे अपना लक्ष्य न बनाओ", "en": "Think but don't make it your aim"},
-              {"hi": "मत सोचो", "en": "Don't think"},
-              {"hi": "हमेशा सोचो", "en": "Always think"}
-            ],
-            "answer": {"hi": "सोचो लेकिन इसे अपना लक्ष्य न बनाओ", "en": "Think but don't make it your aim"}
-          },
-          {
-            "q": {
-              "hi": "क्या हमें किसी को भी बहुत ज्यादा महत्व देना चाहिए?",
-              "en": "Should anyone count too much?"
-            },
-            "options": [
-              {"hi": "हाँ", "en": "Yes"},
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "सिर्फ दोस्त को", "en": "Only friend"},
-              {"hi": "सिर्फ पिता को", "en": "Only father"}
-            ],
-            "answer": {"hi": "नहीं", "en": "No"}
-          },
-          {
-            "q": {
-              "hi": "क्या सफलता के बाद का अहंकार बुरा है?",
-              "en": "Is arrogance after success bad?"
-            },
-            "options": [
-              {"hi": "हाँ", "en": "Yes"},
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "शायद", "en": "Maybe"},
-              {"hi": "कभी नहीं", "en": "Never"}
-            ],
+            "q": {"hi": "क्या छाया विश्वासघाती होती है?", "en": "Is shadow faithless?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
             "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "कवि के अनुसार कौन-सी ताकत सबसे बड़ी है?",
-              "en": "What is the greatest strength?"
-            },
-            "options": [
-              {"hi": "शरीर की ताकत", "en": "Physical strength"},
-              {"hi": "इच्छाशक्ति", "en": "Willpower"},
-              {"hi": "धन की ताकत", "en": "Financial strength"},
-              {"hi": "दोस्तों की संख्या", "en": "Number of friends"}
-            ],
-            "answer": {"hi": "इच्छाशक्ति", "en": "Willpower"}
+            "q": {"hi": "क्या मंदिर या चर्च एक पवित्र स्थान है?", "en": "Is church a holy place?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "सब कुछ जोखिम में डालने के बाद फिर से शुरुआत करना क्या कहलाता है?",
-              "en": "What is it to start again after losing everything?"
-            },
-            "options": [
-              {"hi": "मूर्खता", "en": "Foolishness"},
-              {"hi": "बहादुरी", "en": "Courage/Resilience"},
-              {"hi": "बर्बादी", "en": "Waste"},
-              {"hi": "पता नहीं", "en": "Don't know"}
-            ],
-            "answer": {"hi": "बहादुरी", "en": "Courage/Resilience"}
+            "q": {"hi": "क्या कविता में वसंत का मौसम है?", "en": "Is there spring season in the poem?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "क्या यह कविता जीवन के हर मोड़ पर काम आती है?",
-              "en": "Is this poem useful at every turn of life?"
-            },
-            "options": [
-              {"hi": "हाँ", "en": "Yes"},
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "शायद", "en": "Maybe"},
-              {"hi": "पता नहीं", "en": "Don't know"}
-            ],
+            "q": {"hi": "क्या कवि को उम्मीद है?", "en": "Does the poet have hope?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या घंटियां बज रही हैं?", "en": "Are the bells ringing?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या छाया रंगीन हो सकती है?", "en": "Can shadow be rose colored?"},
+            "options": [{"hi": "हाँ (कविता में)", "en": "Yes (in poem)"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "हाँ (कविता में)", "en": "Yes (in poem)"}
+          },
+          {
+            "q": {"hi": "क्या चर्च की सीढ़ियां पुरानी हैं?", "en": "Are church steps old?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या कवि शांति चाहता है?", "en": "Does the poet want peace?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या छाया का महत्व है?", "en": "Is shadow important?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
             "answer": {"hi": "हाँ", "en": "Yes"}
           }
         ]
