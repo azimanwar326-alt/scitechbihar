@@ -2885,661 +2885,261 @@
     "chapter06a": {
         "section1": [
           {
-            "q": {
-              "hi": "कवि के अनुसार, सूर्य कहाँ-कहाँ है?",
-              "en": "According to the poet, where is the sun?"
-            },
-            "options": [
-              {"hi": "नदी और पहाड़ी पर", "en": "On the river and on the hill"},
-              {"hi": "घर और स्कूल में", "en": "In the house and school"},
-              {"hi": "पेड़ और खेत में", "en": "In the tree and field"},
-              {"hi": "सड़क और बाजार में", "en": "On the road and market"}
-            ],
-            "answer": {"hi": "नदी और पहाड़ी पर", "en": "On the river and on the hill"}
+            "q": {"hi": "कविता का शीर्षक क्या है?", "en": "What is the title of the poem?"},
+            "options": [{"hi": "सफलता की कुंजी", "en": "Key to Success"}, {"hi": "यू मे सक्सीड एट लास्ट", "en": "You May Succeed at Last"}, {"hi": "मेहनत का फल", "en": "Fruit of Labor"}, {"hi": "आशा की किरण", "en": "Ray of Hope"}],
+            "answer": {"hi": "यू मे सक्सीड एट लास्ट", "en": "You May Succeed at Last"}
           },
           {
-            "q": {
-              "hi": "समुद्र को सुनने के लिए क्या करना पड़ता है?",
-              "en": "What must one do to hear the sea?"
-            },
-            "options": [
-              {"hi": "दौड़ना पड़ता है", "en": "Have to run"},
-              {"hi": "बिल्कुल स्थिर खड़ा होना पड़ता है", "en": "Stand quite still"},
-              {"hi": "चिल्लाना पड़ता है", "en": "Have to shout"},
-              {"hi": "नदी में जाना पड़ता है", "en": "Go to the river"}
-            ],
-            "answer": {"hi": "बिल्कुल स्थिर खड़ा होना पड़ता है", "en": "Stand quite still"}
+            "q": {"hi": "कवि के अनुसार क्या श्रम को नष्ट कर देता है?", "en": "What destroys labour according to the poet?"},
+            "options": [{"hi": "धैर्य", "en": "Patience"}, {"hi": "आलस", "en": "Laziness"}, {"hi": "जुनून और हिंसा", "en": "Passions and violence"}, {"hi": "खुशी", "en": "Happiness"}],
+            "answer": {"hi": "जुनून और हिंसा", "en": "Passions and violence"}
           },
           {
-            "q": {
-              "hi": "राउंडअबाउट फार्म (Roundabout Farm) में कितने नए पिल्ले हैं?",
-              "en": "How many new puppies are at Roundabout Farm?"
-            },
-            "options": [
-              {"hi": "पाँच", "en": "Five"},
-              {"hi": "छह", "en": "Six"},
-              {"hi": "सात", "en": "Seven"},
-              {"hi": "आठ", "en": "Eight"}
-            ],
-            "answer": {"hi": "आठ", "en": "Eight"}
+            "q": {"hi": "कवि हमें किस चीज़ से चिपक कर रहने को कहता है?", "en": "What does the poet ask us to stick tight to?"},
+            "options": [{"hi": "सफलता", "en": "Success"}, {"hi": "अखंडता (integrity)", "en": "Integrity"}, {"hi": "धन", "en": "Wealth"}, {"hi": "डर", "en": "Fear"}],
+            "answer": {"hi": "अखंडता (integrity)", "en": "Integrity"}
           },
           {
-            "q": {
-              "hi": "कवि ने किस प्रकार के नाविक (sailor) को देखा?",
-              "en": "What kind of sailor did the poet see?"
-            },
-            "options": [
-              {"hi": "दो हाथों वाले", "en": "With two arms"},
-              {"hi": "केवल एक हाथ वाले", "en": "With only one arm"},
-              {"hi": "बहुत लंबे", "en": "Very tall"},
-              {"hi": "सोए हुए", "en": "Sleeping"}
-            ],
-            "answer": {"hi": "केवल एक हाथ वाले", "en": "With only one arm"}
+            "q": {"hi": "शुरू करने से पहले हमें क्या करना चाहिए?", "en": "What should we do before we start?"},
+            "options": [{"hi": "सोना", "en": "Sleep"}, {"hi": "सावधानी से सोचना", "en": "Think with care"}, {"hi": "दौड़ना", "en": "Run"}, {"hi": "हंसना", "en": "Laugh"}],
+            "answer": {"hi": "सावधानी से सोचना", "en": "Think with care"}
           },
           {
-            "q": {
-              "hi": "सब लोग कवि को क्या करने के लिए कहते हैं?",
-              "en": "What do people say to the poet?"
-            },
-            "options": [
-              {"hi": "आओ और खेलो", "en": "Come and play"},
-              {"hi": "दूर भागो/रन अलोंग", "en": "Run along"},
-              {"hi": "यहाँ बैठो", "en": "Sit here"},
-              {"hi": "पढ़ो", "en": "Read"}
-            ],
-            "answer": {"hi": "दूर भागो/रन अलोंग", "en": "Run along"}
+            "q": {"hi": "काम कैसा होना चाहिए?", "en": "How should the labour be?"},
+            "options": [{"hi": "ईमानदार दिल के साथ", "en": "Faithful with an honest heart"}, {"hi": "चालाकी भरा", "en": "Cunning"}, {"hi": "अधूरा", "en": "Incomplete"}, {"hi": "सुस्त", "en": "Slow"}],
+            "answer": {"hi": "ईमानदार दिल के साथ", "en": "Faithful with an honest heart"}
           },
           {
-            "q": {
-              "hi": "सब लोग कवि को क्या कहकर पुकारते हैं?",
-              "en": "What do people call the poet?"
-            },
-            "options": [
-              {"hi": "छोटा प्यारा/लिटिल डार्लिंग", "en": "Little darling"},
-              {"hi": "शरारती", "en": "Naughty"},
-              {"hi": "आलसी", "en": "Lazy"},
-              {"hi": "चतुर", "en": "Clever"}
-            ],
-            "answer": {"hi": "छोटा प्यारा/लिटिल डार्लिंग", "en": "Little darling"}
+            "q": {"hi": "समृद्धि (prosperity) की कीमत क्या है?", "en": "What is the price of prosperity?"},
+            "options": [{"hi": "आलस", "en": "Laziness"}, {"hi": "व्यक्तिगत सतर्कता (personal vigilance)", "en": "Personal vigilance"}, {"hi": "धन", "en": "Money"}, {"hi": "सपना", "en": "Dream"}],
+            "answer": {"hi": "व्यक्तिगत सतर्कता (personal vigilance)", "en": "Personal vigilance"}
           },
           {
-            "q": {
-              "hi": "यदि कवि 'लिटिल डार्लिंग' है, तो वह क्या चाहता है?",
-              "en": "If the poet is a 'little darling', what does he want?"
-            },
-            "options": [
-              {"hi": "खिलौने", "en": "Toys"},
-              {"hi": "लोग उसके साथ दौड़ें/खेलें", "en": "People to run/play with him"},
-              {"hi": "पैसा", "en": "Money"},
-              {"hi": "घर जाना", "en": "Go home"}
-            ],
-            "answer": {"hi": "लोग उसके साथ दौड़ें/खेलें", "en": "People to run/play with him"}
+            "q": {"hi": "किस चीज़ से धन की बचत होती है?", "en": "What saves money without driving fast?"},
+            "options": [{"hi": "मितव्ययिता (frugality)", "en": "Frugality"}, {"hi": "लालच", "en": "Greed"}, {"hi": "डर", "en": "Fear"}, {"hi": "धोखा", "en": "Deceit"}],
+            "answer": {"hi": "मितव्ययिता (frugality)", "en": "Frugality"}
           },
           {
-            "q": {
-              "hi": "चक्की (mill) के नीचे कैसा जल-पहिया (water-wheel) है?",
-              "en": "What is under the mill?"
-            },
-            "options": [
-              {"hi": "नया और चमकता", "en": "New and bright"},
-              {"hi": "एक काला मृत जल-पहिया", "en": "A dark dead water-wheel"},
-              {"hi": "बहुत बड़ा", "en": "Very big"},
-              {"hi": "तेजी से घूमता", "en": "Moving fast"}
-            ],
-            "answer": {"hi": "एक काला मृत जल-पहिया", "en": "A dark dead water-wheel"}
+            "q": {"hi": "हमें अधिकारों के लिए बातें तो करनी चाहिए, लेकिन किसे नज़रअंदाज नहीं करना चाहिए?", "en": "We should prate for rights but not ignore what?"},
+            "options": [{"hi": "काम", "en": "Work"}, {"hi": "दान (charity)", "en": "Charity"}, {"hi": "पैसे", "en": "Money"}, {"hi": "नींद", "en": "Sleep"}],
+            "answer": {"hi": "दान (charity)", "en": "Charity"}
           },
           {
-            "q": {
-              "hi": "कवि ने क्या देखा जो डूब गया था?",
-              "en": "What did the poet see that was drowned?"
-            },
-            "options": [
-              {"hi": "एक मछली", "en": "A fish"},
-              {"hi": "एक मक्खी", "en": "A fly"},
-              {"hi": "एक खरगोश", "en": "A rabbit"},
-              {"hi": "एक कुत्ता", "en": "A dog"}
-            ],
-            "answer": {"hi": "एक मक्खी", "en": "A fly"}
+            "q": {"hi": "हमें किसकी सेवा करनी चाहिए?", "en": "We should be a servant on whose ship?"},
+            "options": [{"hi": "सफलता", "en": "Success"}, {"hi": "पुण्य (virtue's)", "en": "Virtue's"}, {"hi": "धन", "en": "Wealth"}, {"hi": "भ्रम", "en": "Confusion"}],
+            "answer": {"hi": "पुण्य (virtue's)", "en": "Virtue's"}
           },
           {
-            "q": {
-              "hi": "कवि को क्या पता है?",
-              "en": "What does the poet know?"
-            },
-            "options": [
-              {"hi": "सब कुछ", "en": "Everything"},
-              {"hi": "खरगोश कहाँ जमीन में जाता है", "en": "Where a rabbit goes into the ground"},
-              {"hi": "नाव कैसे चलाते हैं", "en": "How to sail"},
-              {"hi": "पहाड़ की ऊँचाई", "en": "Height of the hill"}
-            ],
-            "answer": {"hi": "खरगोश कहाँ जमीन में जाता है", "en": "Where a rabbit goes into the ground"}
+            "q": {"hi": "जब कर्तव्य आदेश दे, तो हमें क्या करना चाहिए?", "en": "When duty commands, what should we do?"},
+            "options": [{"hi": "सो जाना चाहिए", "en": "Sleep"}, {"hi": "मस्तूल (mast) पर चढ़ना चाहिए", "en": "Climb up the mast"}, {"hi": "भागना चाहिए", "en": "Run"}, {"hi": "खाना चाहिए", "en": "Eat"}],
+            "answer": {"hi": "मस्तूल (mast) पर चढ़ना चाहिए", "en": "Climb up the mast"}
           }
         ],
         "section2": [
           {
-            "q": {
-              "hi": "कविता का कवि कौन है?",
-              "en": "Who is the poet of this poem?"
-            },
-            "options": [
-              {"hi": "रुडयार्ड किपलिंग", "en": "Rudyard Kipling"},
-              {"hi": "ए.ए. मिल्ने", "en": "A.A. Milne"},
-              {"hi": "रस्किन बॉन्ड", "en": "Ruskin Bond"},
-              {"hi": "कोई नहीं", "en": "None"}
-            ],
-            "answer": {"hi": "ए.ए. मिल्ने", "en": "A.A. Milne"}
+            "q": {"hi": "सुरक्षा के तट के लिए अपने रास्ते का क्या करें?", "en": "What should we do for the security's shore?"},
+            "options": [{"hi": "रास्ता बदलें", "en": "Change way"}, {"hi": "रास्ता खोजें (pilot your way)", "en": "Pilot your way"}, {"hi": "रुकें", "en": "Stop"}, {"hi": "लड़ें", "en": "Fight"}],
+            "answer": {"hi": "रास्ता खोजें (pilot your way)", "en": "Pilot your way"}
           },
           {
-            "q": {
-              "hi": "सब लोग कवि के साथ क्यों नहीं खेलते?",
-              "en": "Why do people not play with the poet?"
-            },
-            "options": [
-              {"hi": "वे नफरत करते हैं", "en": "They hate him"},
-              {"hi": "वे बहुत व्यस्त हैं", "en": "They are very busy"},
-              {"hi": "वे बीमार हैं", "en": "They are sick"},
-              {"hi": "वे उसे पसंद नहीं करते", "en": "They don't like him"}
-            ],
-            "answer": {"hi": "वे बहुत व्यस्त हैं", "en": "They are very busy"}
+            "q": {"hi": "हमें किन चीज़ों पर पछतावा है?", "en": "What are we bound to regret?"},
+            "options": [{"hi": "खुशी", "en": "Happiness"}, {"hi": "बुराइयों और गलतियों (evils and wrongs)", "en": "Evils and wrongs"}, {"hi": "धन", "en": "Wealth"}, {"hi": "जीत", "en": "Victory"}],
+            "answer": {"hi": "बुराइयों और गलतियों (evils and wrongs)", "en": "Evils and wrongs"}
           },
           {
-            "q": {
-              "hi": "कविता में हवा कहाँ है?",
-              "en": "Where is the wind in the poem?"
-            },
-            "options": [
-              {"hi": "घर के अंदर", "en": "Inside the house"},
-              {"hi": "नदी और पहाड़ी पर", "en": "On the river and on the hill"},
-              {"hi": "सड़क पर", "en": "On the road"},
-              {"hi": "पेड़ों में", "en": "In the trees"}
-            ],
-            "answer": {"hi": "नदी और पहाड़ी पर", "en": "On the river and on the hill"}
+            "q": {"hi": "अतीत की अवज्ञा (disobedience) के लिए हमें क्या करना चाहिए?", "en": "What should we do for past disobedience?"},
+            "options": [{"hi": "दुःख (grieve)", "en": "Grieve"}, {"hi": "खुश होना", "en": "Be happy"}, {"hi": "नज़रअंदाज करना", "en": "Ignore"}, {"hi": "लड़ना", "en": "Fight"}],
+            "answer": {"hi": "दुःख (grieve)", "en": "Grieve"}
           },
           {
-            "q": {
-              "hi": "राउंडअबाउट फार्म (Roundabout Farm) में क्या है?",
-              "en": "What is at Roundabout Farm?"
-            },
-            "options": [
-              {"hi": "गाय", "en": "Cows"},
-              {"hi": "आठ नए पिल्ले", "en": "Eight new puppies"},
-              {"hi": "बहुत सारे फूल", "en": "Many flowers"},
-              {"hi": "एक बड़ा तालाब", "en": "A big pond"}
-            ],
-            "answer": {"hi": "आठ नए पिल्ले", "en": "Eight new puppies"}
+            "q": {"hi": "हमें किसे विनम्र गीतों में बदलना चाहिए?", "en": "What should we make humble songs?"},
+            "options": [{"hi": "आशा और सुधार (hope and reformation)", "en": "Hope and reformation"}, {"hi": "क्रोध", "en": "Anger"}, {"hi": "लालच", "en": "Greed"}, {"hi": "डर", "en": "Fear"}],
+            "answer": {"hi": "आशा और सुधार (hope and reformation)", "en": "Hope and reformation"}
           },
           {
-            "q": {
-              "hi": "कवि का मूड कैसा है?",
-              "en": "What is the mood of the poet?"
-            },
-            "options": [
-              {"hi": "खुश", "en": "Happy"},
-              {"hi": "अकेला और उपेक्षित", "en": "Lonely and neglected"},
-              {"hi": "गुस्सैल", "en": "Angry"},
-              {"hi": "उत्साहित", "en": "Excited"}
-            ],
-            "answer": {"hi": "अकेला और उपेक्षित", "en": "Lonely and neglected"}
+            "q": {"hi": "कवि के अनुसार जीवन क्या है?", "en": "According to the poet, what is life?"},
+            "options": [{"hi": "एक त्योहार", "en": "A festival"}, {"hi": "परेशानी (trouble)", "en": "Trouble"}, {"hi": "आसान", "en": "Easy"}, {"hi": "सपना", "en": "Dream"}],
+            "answer": {"hi": "परेशानी (trouble)", "en": "Trouble"}
           },
           {
-            "q": {
-              "hi": "'waterwheel' का क्या कार्य है?",
-              "en": "What is the function of a waterwheel?"
-            },
-            "options": [
-              {"hi": "पानी पीना", "en": "To drink water"},
-              {"hi": "मशीनरी चलाना", "en": "To drive machinery"},
-              {"hi": "पक्षी पकड़ना", "en": "To catch birds"},
-              {"hi": "नदी साफ करना", "en": "To clean the river"}
-            ],
-            "answer": {"hi": "मशीनरी चलाना", "en": "To drive machinery"}
+            "q": {"hi": "हीरो किसे कहा गया है?", "en": "Who is a hero?"},
+            "options": [{"hi": "जो धनवान है", "en": "Who is rich"}, {"hi": "जो अपना काम पूरा करता है", "en": "He that completes his task"}, {"hi": "जो शक्तिशाली है", "en": "Who is powerful"}, {"hi": "जो आलसी है", "en": "Who is lazy"}],
+            "answer": {"hi": "जो अपना काम पूरा करता है", "en": "He that completes his task"}
           },
           {
-            "q": {
-              "hi": "कविता में 'drowned' शब्द का क्या अर्थ है?",
-              "en": "What is the meaning of 'drowned' in the poem?"
-            },
-            "options": [
-              {"hi": "उड़ना", "en": "To fly"},
-              {"hi": "पानी के नीचे बहुत देर रहने से मरना", "en": "Died by being underwater too long"},
-              {"hi": "नहाना", "en": "To bathe"},
-              {"hi": "तैरना", "en": "To swim"}
-            ],
-            "answer": {"hi": "पानी के नीचे बहुत देर रहने से मरना", "en": "Died by being underwater too long"}
+            "q": {"hi": "काम पूरा करना क्या देता है?", "en": "What does completion give?"},
+            "options": [{"hi": "थकान", "en": "Tiredness"}, {"hi": "विश्राम (repose)", "en": "Repose"}, {"hi": "डर", "en": "Fear"}, {"hi": "खुशी", "en": "Happiness"}],
+            "answer": {"hi": "विश्राम (repose)", "en": "Repose"}
           },
           {
-            "q": {
-              "hi": "लोग कवि को व्यस्त क्यों बताते हैं?",
-              "en": "Why do people say they are busy to the poet?"
-            },
-            "options": [
-              {"hi": "वे सच में व्यस्त हैं", "en": "They are really busy"},
-              {"hi": "वे उसे टालना चाहते हैं", "en": "They want to avoid him"},
-              {"hi": "वे काम कर रहे हैं", "en": "They are working"},
-              {"hi": "उन्हें खेलना नहीं आता", "en": "They don't know how to play"}
-            ],
-            "answer": {"hi": "वे उसे टालना चाहते हैं", "en": "They want to avoid him"}
+            "q": {"hi": "समय और अनंत (eternity) किसके लिए नहीं रुकते?", "en": "Who do time and eternity wait for?"},
+            "options": [{"hi": "राजा", "en": "King"}, {"hi": "किसी के लिए नहीं (no one)", "en": "No one"}, {"hi": "मेहनती", "en": "Hardworking"}, {"hi": "बच्चे", "en": "Children"}],
+            "answer": {"hi": "किसी के लिए नहीं (no one)", "en": "No one"}
           },
           {
-            "q": {
-              "hi": "कवि को कौन नहीं देखता (never notice)?",
-              "en": "Who never notices the poet?"
-            },
-            "options": [
-              {"hi": "पशु", "en": "Animals"},
-              {"hi": "सब लोग (everyone)", "en": "Everyone"},
-              {"hi": "नाविक", "en": "Sailor"},
-              {"hi": "पिल्ले", "en": "Puppies"}
-            ],
-            "answer": {"hi": "सब लोग", "en": "Everyone"}
+            "q": {"hi": "कर्तव्य कैसे हैं?", "en": "How are honour and duties?"},
+            "options": [{"hi": "छोटे", "en": "Small"}, {"hi": "विशाल (vast)", "en": "Vast"}, {"hi": "आसान", "en": "Easy"}, {"hi": "बुरा", "en": "Bad"}],
+            "answer": {"hi": "विशाल (vast)", "en": "Vast"}
           },
           {
-            "q": {
-              "hi": "क्या इस कविता से पता चलता है कि बच्चे बड़ों का ध्यान आकर्षित करना चाहते हैं?",
-              "en": "Does this poem show that children want the attention of adults?"
-            },
-            "options": [
-              {"hi": "हाँ", "en": "Yes"},
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "कभी नहीं", "en": "Never"},
-              {"hi": "पता नहीं", "en": "Don't know"}
-            ],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {"hi": "हमें अपने रास्ते पर कैसे चलना चाहिए?", "en": "How should we pursue our way?"},
+            "options": [{"hi": "भ्रम के साथ", "en": "With confusion"}, {"hi": "महानता के साथ (noble)", "en": "Noble"}, {"hi": "डर के साथ", "en": "With fear"}, {"hi": "आलस के साथ", "en": "With laziness"}],
+            "answer": {"hi": "महानता के साथ (noble)", "en": "Noble"}
           }
         ],
         "section3": [
           {
-            "q": {
-              "hi": "कवि नदी और पहाड़ी पर क्या महसूस करता है?",
-              "en": "What does the poet feel on the river and hill?"
-            },
-            "options": [
-              {"hi": "सूरज और हवा", "en": "Sun and wind"},
-              {"hi": "बारिश", "en": "Rain"},
-              {"hi": "गर्मी", "en": "Heat"},
-              {"hi": "बर्फ", "en": "Snow"}
-            ],
-            "answer": {"hi": "सूरज और हवा", "en": "Sun and wind"}
+            "q": {"hi": "ईश्वर का आशीर्वाद किस पर है?", "en": "God's blessings are bestowed upon?"},
+            "options": [{"hi": "हम सभी पर", "en": "Us (all of us)"}, {"hi": "केवल धनी", "en": "Only rich"}, {"hi": "केवल राजा", "en": "Only king"}, {"hi": "कोई नहीं", "en": "None"}],
+            "answer": {"hi": "हम सभी पर", "en": "Us (all of us)"}
           },
           {
-            "q": {
-              "hi": "कविता में 'Roundabout Farm' कहाँ स्थित है?",
-              "en": "Where is Roundabout Farm mentioned in the poem?"
-            },
-            "options": [
-              {"hi": "नदी के पास", "en": "Near the river"},
-              {"hi": "संदर्भ नहीं है", "en": "Not specified"},
-              {"hi": "पहाड़ पर", "en": "On the hill"},
-              {"hi": "चक्की के पास", "en": "Near the mill"}
-            ],
-            "answer": {"hi": "संदर्भ नहीं है", "en": "Not specified"}
+            "q": {"hi": "हमें ईश्वर की दया के लिए क्या करना चाहिए?", "en": "What should we do for His mercy?"},
+            "options": [{"hi": "मांगना", "en": "Ask"}, {"hi": "विनती करना (beseech)", "en": "Beseech"}, {"hi": "चिल्लाना", "en": "Shout"}, {"hi": "कुछ नहीं", "en": "Nothing"}],
+            "answer": {"hi": "विनती करना (beseech)", "en": "Beseech"}
           },
           {
-            "q": {
-              "hi": "समुद्र को सुनने के लिए कवि को क्या करने को कहा गया है?",
-              "en": "What is the poet told to do to hear the sea?"
-            },
-            "options": [
-              {"hi": "दौड़ना", "en": "Run"},
-              {"hi": "चुप रहना (stand quite still)", "en": "Stand quite still"},
-              {"hi": "सुनना", "en": "Listen"},
-              {"hi": "चिल्लाना", "en": "Shout"}
-            ],
-            "answer": {"hi": "चुप रहना", "en": "Stand quite still"}
+            "q": {"hi": "कविता का संदेश क्या है?", "en": "What is the message of the poem?"},
+            "options": [{"hi": "सफलता की राह", "en": "Path to success"}, {"hi": "डर", "en": "Fear"}, {"hi": "धन", "en": "Wealth"}, {"hi": "आलस", "en": "Laziness"}],
+            "answer": {"hi": "सफलता की राह", "en": "Path to success"}
           },
           {
-            "q": {
-              "hi": "कविता में 'Run along' कितनी बार दोहराया गया है?",
-              "en": "How many times is 'Run along' repeated in the poem?"
-            },
-            "options": [
-              {"hi": "एक", "en": "Once"},
-              {"hi": "दो/तीन", "en": "Multiple times"},
-              {"hi": "चार", "en": "Four"},
-              {"hi": "पांच", "en": "Five"}
-            ],
-            "answer": {"hi": "दो/तीन", "en": "Multiple times"}
+            "q": {"hi": "'Integrity' का क्या अर्थ है?", "en": "What is the meaning of 'integrity'?"},
+            "options": [{"hi": "धोखा", "en": "Deceit"}, {"hi": "ईमानदारी", "en": "Honesty"}, {"hi": "आलस", "en": "Laziness"}, {"hi": "डर", "en": "Fear"}],
+            "answer": {"hi": "ईमानदारी", "en": "Honesty"}
           },
           {
-            "q": {
-              "hi": "क्या नाविक के पास दो हाथ थे?",
-              "en": "Did the sailor have two arms?"
-            },
-            "options": [
-              {"hi": "हाँ", "en": "Yes"},
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "पता नहीं", "en": "Don't know"},
-              {"hi": "शायद", "en": "Maybe"}
-            ],
+            "q": {"hi": "'Vigilance' का क्या अर्थ है?", "en": "What is the meaning of 'vigilance'?"},
+            "options": [{"hi": "सोना", "en": "Sleep"}, {"hi": "सावधानी/सतर्कता", "en": "Careful attention"}, {"hi": "दौड़ना", "en": "Running"}, {"hi": "हंसना", "en": "Laughing"}],
+            "answer": {"hi": "सावधानी/सतर्कता", "en": "Careful attention"}
+          },
+          {
+            "q": {"hi": "'Frugality' का क्या अर्थ है?", "en": "What is the meaning of 'frugality'?"},
+            "options": [{"hi": "खर्च करना", "en": "Spend"}, {"hi": "बचत करना (careful with money)", "en": "Careful with money"}, {"hi": "लालच", "en": "Greed"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "बचत करना (careful with money)", "en": "Careful with money"}
+          },
+          {
+            "q": {"hi": "'Bestowed' का क्या अर्थ है?", "en": "What is the meaning of 'bestowed'?"},
+            "options": [{"hi": "छीनना", "en": "Snatch"}, {"hi": "देना (give as honour)", "en": "Give as honour"}, {"hi": "बेचना", "en": "Sell"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "देना (give as honour)", "en": "Give as honour"}
+          },
+          {
+            "q": {"hi": "क्या 'success' आसानी से मिलती है?", "en": "Is success easy?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
             "answer": {"hi": "नहीं", "en": "No"}
           },
           {
-            "q": {
-              "hi": "कवि के पास किस चीज़ की कमी है?",
-              "en": "What is the poet lacking in his life according to the poem?"
-            },
-            "options": [
-              {"hi": "भोजन", "en": "Food"},
-              {"hi": "लोगों का साथ (company)", "en": "Company of others"},
-              {"hi": "कपड़े", "en": "Clothes"},
-              {"hi": "घर", "en": "Home"}
-            ],
-            "answer": {"hi": "लोगों का साथ", "en": "Company of others"}
-          },
-          {
-            "q": {
-              "hi": "कविता का क्या संदेश है?",
-              "en": "What is the message of the poem?"
-            },
-            "options": [
-              {"hi": "खेलना जरूरी है", "en": "Playing is important"},
-              {"hi": "बच्चों की जरूरतों और उपेक्षा को समझना", "en": "Understand children's needs and neglect"},
-              {"hi": "प्रकृति का आनंद लें", "en": "Enjoy nature"},
-              {"hi": "सब सच है", "en": "Everything is true"}
-            ],
-            "answer": {"hi": "बच्चों की जरूरतों और उपेक्षा को समझना", "en": "Understand children's needs and neglect"}
-          },
-          {
-            "q": {
-              "hi": "मृत जल-पहिया कहाँ स्थित है?",
-              "en": "Where is the dark dead water-wheel?"
-            },
-            "options": [
-              {"hi": "नदी के ऊपर", "en": "Above the river"},
-              {"hi": "चक्की के नीचे (under the mill)", "en": "Under the mill"},
-              {"hi": "पहाड़ पर", "en": "On the hill"},
-              {"hi": "खेत में", "en": "In the field"}
-            ],
-            "answer": {"hi": "चक्की के नीचे", "en": "Under the mill"}
-          },
-          {
-            "q": {
-              "hi": "क्या कविता प्रकृति और मानव के बीच के अंतर को दिखाती है?",
-              "en": "Does the poem show the difference between nature and human interaction?"
-            },
-            "options": [
-              {"hi": "हाँ", "en": "Yes"},
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "शायद", "en": "Maybe"},
-              {"hi": "कभी नहीं", "en": "Never"}
-            ],
+            "q": {"hi": "क्या हमें कड़ी मेहनत करनी चाहिए?", "en": "Should we do hard work?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}],
             "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "क्या कवि को प्रकृति से प्यार है?",
-              "en": "Does the poet love nature?"
-            },
-            "options": [
-              {"hi": "हाँ", "en": "Yes"},
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "थोड़ा बहुत", "en": "A little"},
-              {"hi": "पता नहीं", "en": "Don't know"}
-            ],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {"hi": "क्या हमें अपने अतीत पर पछताना चाहिए?", "en": "Should we regret our past?"},
+            "options": [{"hi": "हाँ (सुधार के लिए)", "en": "Yes (to reform)"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}],
+            "answer": {"hi": "हाँ (सुधार के लिए)", "en": "Yes (to reform)"}
           }
         ],
         "section4": [
           {
-            "q": {
-              "hi": "कविता में कौन-सा नाविक है?",
-              "en": "What kind of sailor is in the poem?"
-            },
-            "options": [
-              {"hi": "युवा", "en": "Young"},
-              {"hi": "पुराना/बूढ़ा (old)", "en": "Old"},
-              {"hi": "तेज", "en": "Fast"},
-              {"hi": "सोया हुआ", "en": "Sleeping"}
-            ],
-            "answer": {"hi": "पुराना/बूढ़ा", "en": "Old"}
+            "q": {"hi": "सफलता के लिए किसका होना जरूरी है?", "en": "What is necessary for success?"},
+            "options": [{"hi": "हिंसा", "en": "Violence"}, {"hi": "आशा और ऊर्जा", "en": "Hope and energy"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "आशा और ऊर्जा", "en": "Hope and energy"}
           },
           {
-            "q": {
-              "hi": "सब लोग कवि को 'Run along' क्यों कहते हैं?",
-              "en": "Why do people tell the poet to 'Run along'?"
-            },
-            "options": [
-              {"hi": "प्यार से", "en": "With love"},
-              {"hi": "वे उसे परेशान नहीं करना चाहते", "en": "They don't want to be disturbed"},
-              {"hi": "खेलने के लिए", "en": "To play"},
-              {"hi": "काम सिखाने के लिए", "en": "To teach work"}
-            ],
-            "answer": {"hi": "वे उसे परेशान नहीं करना चाहते", "en": "They don't want to be disturbed"}
-          },
-          {
-            "q": {
-              "hi": "क्या कवि अपनी उपेक्षा से दुखी है?",
-              "en": "Is the poet sad due to being ignored?"
-            },
-            "options": [
-              {"hi": "हाँ", "en": "Yes"},
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "शायद", "en": "Maybe"},
-              {"hi": "पता नहीं", "en": "Don't know"}
-            ],
+            "q": {"hi": "क्या हमें दान देना चाहिए?", "en": "Should we give charity?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
             "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "पिल्ले कहाँ हैं?",
-              "en": "Where are the puppies?"
-            },
-            "options": [
-              {"hi": "घर पर", "en": "At home"},
-              {"hi": "राउंडअबाउट फार्म पर (Roundabout Farm)", "en": "At Roundabout Farm"},
-              {"hi": "नदी में", "en": "In the river"},
-              {"hi": "पहाड़ी पर", "en": "On the hill"}
-            ],
-            "answer": {"hi": "राउंडअबाउट फार्म पर", "en": "At Roundabout Farm"}
+            "q": {"hi": "कवि किसे नौकर बनने के लिए कहता है?", "en": "What should we be servant to?"},
+            "options": [{"hi": "लालच", "en": "Greed"}, {"hi": "पुण्य (virtue)", "en": "Virtue"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "पुण्य (virtue)", "en": "Virtue"}
           },
           {
-            "q": {
-              "hi": "नाविक के कितने हाथ थे?",
-              "en": "How many arms did the sailor have?"
-            },
-            "options": [
-              {"hi": "एक (only one)", "en": "Only one"},
-              {"hi": "दो", "en": "Two"},
-              {"hi": "तीन", "en": "Three"},
-              {"hi": "कोई नहीं", "en": "None"}
-            ],
-            "answer": {"hi": "एक", "en": "Only one"}
+            "q": {"hi": "क्या समय किसी के लिए रुकता है?", "en": "Does time wait for anyone?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "नहीं", "en": "No"}
           },
           {
-            "q": {
-              "hi": "मक्खी के साथ क्या हुआ था?",
-              "en": "What happened to the fly?"
-            },
-            "options": [
-              {"hi": "वह उड़ गई", "en": "It flew away"},
-              {"hi": "वह डूब गई (drowned)", "en": "It drowned"},
-              {"hi": "वह छिप गई", "en": "It hid"},
-              {"hi": "वह सो गई", "en": "It slept"}
-            ],
-            "answer": {"hi": "वह डूब गई", "en": "It drowned"}
-          },
-          {
-            "q": {
-              "hi": "क्या कविता में प्रश्न पूछे गए हैं?",
-              "en": "Are there questions asked in the poem?"
-            },
-            "options": [
-              {"hi": "हाँ", "en": "Yes"},
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "कभी-कभी", "en": "Sometimes"},
-              {"hi": "पता नहीं", "en": "Don't know"}
-            ],
+            "q": {"hi": "क्या जीवन में चुनौतियां हैं?", "en": "Are there trials in life?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
             "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "लोग उसे 'dear' क्यों कहते हैं?",
-              "en": "Why do people call him 'dear'?"
-            },
-            "options": [
-              {"hi": "वे सच में प्यार करते हैं", "en": "They really love him"},
-              {"hi": "यह एक आदत है", "en": "It is just a habit"},
-              {"hi": "वे खेलना चाहते हैं", "en": "They want to play"},
-              {"hi": "वे मज़ाक कर रहे हैं", "en": "They are joking"}
-            ],
-            "answer": {"hi": "यह एक आदत है", "en": "It is just a habit"}
+            "q": {"hi": "क्या हमें भगवान से दया मांगनी चाहिए?", "en": "Should we ask for God's mercy?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "कवि को किस बात की उम्मीद है?",
-              "en": "What is the poet hoping for?"
-            },
-            "options": [
-              {"hi": "धन की", "en": "For money"},
-              {"hi": "किसी के खेलने की", "en": "For someone to play"},
-              {"hi": "बड़ा होने की", "en": "To grow up"},
-              {"hi": "घर जाने की", "en": "To go home"}
-            ],
-            "answer": {"hi": "किसी के खेलने की", "en": "For someone to play"}
+            "q": {"hi": "क्या कविता सफलता के बारे में है?", "en": "Is the poem about success?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "क्या यह कविता उदास करने वाली है?",
-              "en": "Is this poem saddening?"
-            },
-            "options": [
-              {"hi": "हाँ", "en": "Yes"},
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "पता नहीं", "en": "Don't know"},
-              {"hi": "शायद", "en": "Maybe"}
-            ],
+            "q": {"hi": "क्या हमें अपनी मेहनत पर भरोसा करना चाहिए?", "en": "Should we trust our labor?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या अखंडता (integrity) का महत्व है?", "en": "Is integrity important?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या कविता में प्रेरणा है?", "en": "Is there inspiration in the poem?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
             "answer": {"hi": "हाँ", "en": "Yes"}
           }
         ],
         "section5": [
           {
-            "q": {
-              "hi": "कविता का केंद्र बिंदु क्या है?",
-              "en": "What is the focus of the poem?"
-            },
-            "options": [
-              {"hi": "प्रकृति", "en": "Nature"},
-              {"hi": "अकेलापन", "en": "Loneliness"},
-              {"hi": "पशु", "en": "Animals"},
-              {"hi": "समुद्र", "en": "Sea"}
-            ],
-            "answer": {"hi": "अकेलापन", "en": "Loneliness"}
-          },
-          {
-            "q": {
-              "hi": "नाविक कहाँ था?",
-              "en": "Where was the old sailor?"
-            },
-            "options": [
-              {"hi": "नदी पर", "en": "On the river"},
-              {"hi": "पहाड़ी पर", "en": "On the hill"},
-              {"hi": "फार्म पर", "en": "At the farm"},
-              {"hi": "चक्की के पास", "en": "Near the mill"}
-            ],
-            "answer": {"hi": "संदर्भ नहीं है", "en": "Not specified"}
-          },
-          {
-            "q": {
-              "hi": "कवि ने क्या खोजा?",
-              "en": "What did the poet find?"
-            },
-            "options": [
-              {"hi": "खरगोश का बिल", "en": "Rabbit's hole"},
-              {"hi": "पिल्ले", "en": "Puppies"},
-              {"hi": "नाविक", "en": "Sailor"},
-              {"hi": "मक्खी", "en": "Fly"}
-            ],
-            "answer": {"hi": "खरगोश का बिल", "en": "Rabbit's hole"}
-          },
-          {
-            "q": {
-              "hi": "क्या लोग कवि की बात सुनते हैं?",
-              "en": "Do people listen to the poet?"
-            },
-            "options": [
-              {"hi": "हाँ", "en": "Yes"},
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "हमेशा", "en": "Always"},
-              {"hi": "कभी-कभी", "en": "Sometimes"}
-            ],
-            "answer": {"hi": "नहीं", "en": "No"}
-          },
-          {
-            "q": {
-              "hi": "कविता में कितने स्टैंजा (stanza) हैं?",
-              "en": "How many stanzas are in the poem?"
-            },
-            "options": [
-              {"hi": "एक", "en": "One"},
-              {"hi": "दो", "en": "Two"},
-              {"hi": "तीन", "en": "Three"},
-              {"hi": "चार", "en": "Four"}
-            ],
-            "answer": {"hi": "दो", "en": "Two"}
-          },
-          {
-            "q": {
-              "hi": "क्या कवि को लगता है कि उसे उपेक्षित किया जा रहा है?",
-              "en": "Does the poet feel ignored?"
-            },
-            "options": [
-              {"hi": "हाँ", "en": "Yes"},
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "शायद", "en": "Maybe"},
-              {"hi": "कभी नहीं", "en": "Never"}
-            ],
+            "q": {"hi": "क्या 'reformation' का मतलब सुधार है?", "en": "Does 'reformation' mean improvement?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
             "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "नाविक के कितने हाथ थे?",
-              "en": "How many arms did the old sailor have?"
-            },
-            "options": [
-              {"hi": "एक", "en": "One"},
-              {"hi": "दो", "en": "Two"},
-              {"hi": "तीन", "en": "Three"},
-              {"hi": "शून्य", "en": "Zero"}
-            ],
-            "answer": {"hi": "एक", "en": "One"}
+            "q": {"hi": "क्या सफलता के लिए सोचना जरूरी है?", "en": "Is thinking necessary for success?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "कविता का अंत कैसा है?",
-              "en": "How is the ending of the poem?"
-            },
-            "options": [
-              {"hi": "खुश", "en": "Happy"},
-              {"hi": "उदास", "en": "Sad"},
-              {"hi": "रोमांचक", "en": "Exciting"},
-              {"hi": "मज़ाकिया", "en": "Funny"}
-            ],
-            "answer": {"hi": "उदास", "en": "Sad"}
+            "q": {"hi": "क्या हमें आलस से दूर रहना चाहिए?", "en": "Should we avoid laziness?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "क्या कवि को लगता है कि उसे समझना आसान है?",
-              "en": "Does the poet feel that he is understood?"
-            },
-            "options": [
-              {"hi": "हाँ", "en": "Yes"},
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "पता नहीं", "en": "Don't know"},
-              {"hi": "शायद", "en": "Maybe"}
-            ],
-            "answer": {"hi": "नहीं", "en": "No"}
+            "q": {"hi": "क्या समय का मूल्य है?", "en": "Is time valuable?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {
-              "hi": "क्या बच्चों के लिए बड़ों का समय देना ज़रूरी है?",
-              "en": "Is it important for adults to give time to children?"
-            },
-            "options": [
-              {"hi": "हाँ", "en": "Yes"},
-              {"hi": "नहीं", "en": "No"},
-              {"hi": "शायद", "en": "Maybe"},
-              {"hi": "कभी नहीं", "en": "Never"}
-            ],
+            "q": {"hi": "क्या हमें अपने गलत कामों का पछतावा करना चाहिए?", "en": "Should we regret our wrongdoings?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या हमें अपनी मेहनत पर गर्व होना चाहिए?", "en": "Should we be proud of our hard work?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या हमें आशा रखनी चाहिए?", "en": "Should we keep hope?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या हमें दान की उपेक्षा नहीं करनी चाहिए?", "en": "Should we not ignore charity?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या मेहनत ही सफलता का मार्ग है?", "en": "Is hard work the path to success?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या हमें सफलता मिल सकती है?", "en": "Can we succeed at last?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
             "answer": {"hi": "हाँ", "en": "Yes"}
           }
         ]
