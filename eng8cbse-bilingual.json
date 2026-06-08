@@ -3147,342 +3147,262 @@
     "chapter07": {
         "section1": [
           {
-            "q": {
-              "hi": "मिनी की आयु कितनी थी?",
-              "en": "How old was Mini?"
-            },
-            "options": [
-              {"hi": "चार वर्ष", "en": "Four years"},
-              {"hi": "पाँच वर्ष", "en": "Five years"},
-              {"hi": "छह वर्ष", "en": "Six years"},
-              {"hi": "सात वर्ष", "en": "Seven years"}
-            ],
-            "answer": {"hi": "पाँच वर्ष", "en": "Five years"}
+            "q": {"hi": "अमित और इमाद किस त्यौहार के दिन खेल रहे थे?", "en": "On which festival day were Amit and Emad playing?"},
+            "options": [{"hi": "दीपावली", "en": "Diwali"}, {"hi": "होली", "en": "Holi"}, {"hi": "ईद", "en": "Eid"}, {"hi": "दशहरा", "en": "Dussehra"}],
+            "answer": {"hi": "होली", "en": "Holi"}
           },
           {
-            "q": {
-              "hi": "मिनी के बारे में क्या बात प्रसिद्ध थी?",
-              "en": "What was famous about Mini?"
-            },
-            "options": [
-              {"hi": "वह बहुत सुंदर थी", "en": "She was beautiful"},
-              {"hi": "वह बिना बात किए नहीं रह सकती थी", "en": "She could not live without talking"},
-              {"hi": "वह बहुत होशियार थी", "en": "She was very clever"},
-              {"hi": "वह बहुत रोती थी", "en": "She cried a lot"}
-            ],
-            "answer": {"hi": "वह बिना बात किए नहीं रह सकती थी", "en": "She could not live without talking"}
+            "q": {"hi": "अमित और इमाद ने कैसे कपड़े पहने थे?", "en": "How were Amit and Emad dressed?"},
+            "options": [{"hi": "पुराने", "en": "Old"}, {"hi": "नए और एक जैसे", "en": "Identical new clothes"}, {"hi": "रंगीन", "en": "Colorful"}, {"hi": "साधारण", "en": "Simple"}],
+            "answer": {"hi": "नए और एक जैसे", "en": "Identical new clothes"}
           },
           {
-            "q": {
-              "hi": "मिनी के पिता क्या लिख रहे थे?",
-              "en": "What was Mini's father writing?"
-            },
-            "options": [
-              {"hi": "एक कविता", "en": "A poem"},
-              {"hi": "एक उपन्यास का सत्रहवाँ अध्याय", "en": "Seventeenth chapter of his novel"},
-              {"hi": "एक पत्र", "en": "A letter"},
-              {"hi": "एक निबंध", "en": "An essay"}
-            ],
-            "answer": {"hi": "एक उपन्यास का सत्रहवाँ अध्याय", "en": "Seventeenth chapter of his novel"}
+            "q": {"hi": "दोनों लड़कों के बीच क्या समानता थी?", "en": "What was common between the two boys?"},
+            "options": [{"hi": "वे एक ही स्कूल में थे", "en": "They were in the same class and school"}, {"hi": "वे भाई थे", "en": "They were brothers"}, {"hi": "उनकी उम्र अलग थी", "en": "Their ages were different"}, {"hi": "वे पड़ोसी नहीं थे", "en": "They were not neighbors"}],
+            "answer": {"hi": "वे एक ही स्कूल में थे", "en": "They were in the same class and school"}
           },
           {
-            "q": {
-              "hi": "मिनी ने पिता से क्या पूछा?",
-              "en": "What did Mini ask her father?"
-            },
-            "options": [
-              {"hi": "क्या आप खेलेंगे?", "en": "Will you play?"},
-              {"hi": "कौवे को 'कौआ' क्यों कहते हैं?", "en": "Why is a crow called a crow?"},
-              {"hi": "हम कब बाहर जाएंगे?", "en": "When will we go out?"},
-              {"hi": "माँ कहाँ है?", "en": "Where is mother?"}
-            ],
-            "answer": {"hi": "कौवे को 'कौआ' क्यों कहते हैं?", "en": "Why is a crow called a crow?"}
+            "q": {"hi": "अमित और इमाद के पिता क्या काम करते थे?", "en": "What was the profession of Amit and Emad's fathers?"},
+            "options": [{"hi": "शिक्षक", "en": "Teachers"}, {"hi": "किसान", "en": "Farmers"}, {"hi": "डॉक्टर", "en": "Doctors"}, {"hi": "दुकानदार", "en": "Shopkeepers"}],
+            "answer": {"hi": "किसान", "en": "Farmers"}
           },
           {
-            "q": {
-              "hi": "मिनी ने किसे देखकर आवाज़ लगाई?",
-              "en": "Whom did Mini see and shout to?"
-            },
-            "options": [
-              {"hi": "अपनी माँ", "en": "Her mother"},
-              {"hi": "काबुलीवाला", "en": "Kabuliwala"},
-              {"hi": "एक दोस्त", "en": "A friend"},
-              {"hi": "एक फेरीवाला", "en": "A vendor"}
-            ],
-            "answer": {"hi": "काबुलीवाला", "en": "Kabuliwala"}
+            "q": {"hi": "इमाद के परिवार में कौन जीवित था?", "en": "Who was alive in Emad's family?"},
+            "options": [{"hi": "माता-पिता दोनों", "en": "Both parents"}, {"hi": "केवल पिता", "en": "Only his father"}, {"hi": "केवल माता", "en": "Only his mother"}, {"hi": "कोई नहीं", "en": "None"}],
+            "answer": {"hi": "केवल पिता", "en": "Only his father"}
           },
           {
-            "q": {
-              "hi": "काबुलीवाला का नाम क्या था?",
-              "en": "What was the name of the Kabuliwala?"
-            },
-            "options": [
-              {"hi": "रहमान", "en": "Rahman"},
-              {"hi": "रामदयाल", "en": "Ramdayal"},
-              {"hi": "भोला", "en": "Bhola"},
-              {"hi": "रबींद्र", "en": "Rabindra"}
-            ],
-            "answer": {"hi": "रहमान", "en": "Rahman"}
+            "q": {"hi": "अमित को किस बात का डर था?", "en": "What was Amit afraid of?"},
+            "options": [{"hi": "अंधेरे का", "en": "Darkness"}, {"hi": "कपड़े फटने पर माँ की पिटाई का", "en": "His mother thrashing him if clothes tore"}, {"hi": "स्कूल का", "en": "School"}, {"hi": "दोस्तों का", "en": "Friends"}],
+            "answer": {"hi": "कपड़े फटने पर माँ की पिटाई का", "en": "His mother thrashing him if clothes tore"}
           },
           {
-            "q": {
-              "hi": "काबुलीवाला कहाँ से आया था?",
-              "en": "Where had the Kabuliwala come from?"
-            },
-            "options": [
-              {"hi": "ईरान", "en": "Iran"},
-              {"hi": "काबुल", "en": "Kabul"},
-              {"hi": "पाकिस्तान", "en": "Pakistan"},
-              {"hi": "नेपाल", "en": "Nepal"}
-            ],
-            "answer": {"hi": "काबुल", "en": "Kabul"}
+            "q": {"hi": "अमित ने पिता से नए कपड़े के लिए कैसे जिद्द की?", "en": "How did Amit insist on new clothes to his father?"},
+            "options": [{"hi": "पढ़ाई छोड़कर और खाना न खाकर", "en": "By refusing to study and eat"}, {"hi": "रोकर", "en": "By crying"}, {"hi": "चोरी करके", "en": "By stealing"}, {"hi": "झगड़ा करके", "en": "By fighting"}],
+            "answer": {"hi": "पढ़ाई छोड़कर और खाना न खाकर", "en": "By refusing to study and eat"}
           },
           {
-            "q": {
-              "hi": "मिनी के घर के पास कौन आया था?",
-              "en": "Who came near Mini's house?"
-            },
-            "options": [
-              {"hi": "डाकिया", "en": "Postman"},
-              {"hi": "फेरीवाला (Kabuliwala)", "en": "Kabuliwala"},
-              {"hi": "दूधवाला", "en": "Milkman"},
-              {"hi": "सब्जीवाला", "en": "Vegetable seller"}
-            ],
-            "answer": {"hi": "फेरीवाला", "en": "Kabuliwala"}
+            "q": {"hi": "अमित कपड़े लेने के लिए कहाँ छिपा था?", "en": "Where was Amit hiding to get clothes?"},
+            "options": [{"hi": "अपने घर में", "en": "In his house"}, {"hi": "इमाद के पिता के छप्पर (cowshed) में", "en": "In Emad's father's cowshed"}, {"hi": "पेड़ पर", "en": "On tree"}, {"hi": "बाज़ार में", "en": "In market"}],
+            "answer": {"hi": "इमाद के पिता के छप्पर (cowshed) में", "en": "In Emad's father's cowshed"}
           },
           {
-            "q": {
-              "hi": "मिनी के पिता को क्या करने में बाधा हुई?",
-              "en": "What was interrupted for Mini's father?"
-            },
-            "options": [
-              {"hi": "खाना खाना", "en": "Eating"},
-              {"hi": "लिखना", "en": "Writing"},
-              {"hi": "सोना", "en": "Sleeping"},
-              {"hi": "पढ़ना", "en": "Reading"}
-            ],
-            "answer": {"hi": "लिखना", "en": "Writing"}
+            "q": {"hi": "लड़कों के बीच कुश्ती किसने शुरू करवाई?", "en": "Who suggested the wrestling match between boys?"},
+            "options": [{"hi": "अमित", "en": "Amit"}, {"hi": "इमाद", "en": "Emad"}, {"hi": "एक शरारती लड़के ने", "en": "A mischievous boy"}, {"hi": "शिक्षक ने", "en": "Teacher"}],
+            "answer": {"hi": "एक शरारती लड़के ने", "en": "A mischievous boy"}
           },
           {
-            "q": {
-              "hi": "कौवे को 'कौआ' क्यों कहते हैं, यह किसने पूछा?",
-              "en": "Who asked why a crow is called a crow?"
-            },
-            "options": [
-              {"hi": "मिनी के पिता ने", "en": "Mini's father"},
-              {"hi": "मिनी ने", "en": "Mini"},
-              {"hi": "माँ ने", "en": "Mother"},
-              {"hi": "रामदयाल ने", "en": "Ramdayal"}
-            ],
-            "answer": {"hi": "मिनी ने", "en": "Mini"}
+            "q": {"hi": "कुश्ती में कौन जीता?", "en": "Who won the wrestling match?"},
+            "options": [{"hi": "अमित", "en": "Amit"}, {"hi": "इमाद", "en": "Emad"}, {"hi": "कल्लु", "en": "Kallu"}, {"hi": "कोई नहीं", "en": "None"}],
+            "answer": {"hi": "कल्लु", "en": "Kallu"}
           }
         ],
         "section2": [
           {
-            "q": {"hi": "काबुलीवाला क्या बेचता था?", "en": "What did the Kabuliwala sell?"},
-            "options": [{"hi": "सब्जियां", "en": "Vegetables"}, {"hi": "मेवे और कपड़े", "en": "Dry fruits and clothes"}, {"hi": "खिलौने", "en": "Toys"}, {"hi": "किताबें", "en": "Books"}],
-            "answer": {"hi": "मेवे और कपड़े", "en": "Dry fruits and clothes"}
+            "q": {"hi": "इमाद ने कल्लु को कब हराया?", "en": "When did Emad defeat Kallu?"},
+            "options": [{"hi": "खेल के शुरू में", "en": "Start of game"}, {"hi": "जब कल्लु ने अमित को गिराया", "en": "When Kallu pushed Amit"}, {"hi": "स्कूल में", "en": "In school"}, {"hi": "घर पर", "en": "At home"}],
+            "answer": {"hi": "जब कल्लु ने अमित को गिराया", "en": "When Kallu pushed Amit"}
           },
           {
-            "q": {"hi": "क्या काबुलीवाला और मिनी दोस्त बन गए?", "en": "Did the Kabuliwala and Mini become friends?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "कभी नहीं", "en": "Never"}, {"hi": "अनिश्चित", "en": "Uncertain"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {"hi": "कुश्ती के बाद लड़के क्या डर कर भागे?", "en": "Why did boys run away after wrestling?"},
+            "options": [{"hi": "कल्लु के माता-पिता की पिटाई के डर से", "en": "Fear of Kallu's parents beating them"}, {"hi": "शिक्षक के डर से", "en": "Fear of teacher"}, {"hi": "पुलिस के डर से", "en": "Fear of police"}, {"hi": "अंधेरे के डर से", "en": "Fear of dark"}],
+            "answer": {"hi": "कल्लु के माता-पिता की पिटाई के डर से", "en": "Fear of Kallu's parents beating them"}
           },
           {
-            "q": {"hi": "मिनी काबुलीवाला को क्या बुलाती थी?", "en": "What did Mini call the Kabuliwala?"},
-            "options": [{"hi": "रामदयाल", "en": "Ramdayal"}, {"hi": "रहमान", "en": "Rahman"}, {"hi": "फेरीवाला", "en": "Vendor"}, {"hi": "कोई नहीं", "en": "None"}],
-            "answer": {"hi": "रहमान", "en": "Rahman"}
+            "q": {"hi": "इमाद की शर्ट कैसे फटी?", "en": "How did Emad's shirt get torn?"},
+            "options": [{"hi": "कल्लु से लड़ते समय", "en": "Fighting with Kallu"}, {"hi": "पेड़ पर चढ़ते समय", "en": "Climbing tree"}, {"hi": "दौड़ते समय", "en": "Running"}, {"hi": "खेलते समय", "en": "Playing"}],
+            "answer": {"hi": "कल्लु से लड़ते समय", "en": "Fighting with Kallu"}
           },
           {
-            "q": {"hi": "मिनी की माँ को क्या चिंता थी?", "en": "What was Mini's mother worried about?"},
-            "options": [{"hi": "मिनी की पढ़ाई", "en": "Mini's studies"}, {"hi": "काबुलीवाला के साथ दोस्ती", "en": "Friendship with Kabuliwala"}, {"hi": "स्वास्थ्य", "en": "Health"}, {"hi": "भोजन", "en": "Food"}],
-            "answer": {"hi": "काबुलीवाला के साथ दोस्ती", "en": "Friendship with Kabuliwala"}
+            "q": {"hi": "इमाद के पिता ने क्या सुना?", "en": "What did Emad's father shout?"},
+            "options": [{"hi": "कहाँ है इमाद?", "en": "Where is Emad?"}, {"hi": "कहाँ है अमित?", "en": "Where is Amit?"}, {"hi": "लड़ाई क्यों हुई?", "en": "Why fight?"}, {"hi": "खाना दो", "en": "Give food"}],
+            "answer": {"hi": "कहाँ है इमाद?", "en": "Where is Emad?"}
           },
           {
-            "q": {"hi": "क्या पिता ने मिनी को काबुलीवाला से मिलने दिया?", "en": "Did the father let Mini meet the Kabuliwala?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "कभी नहीं", "en": "Never"}, {"hi": "माँ ने रोका", "en": "Mother stopped"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {"hi": "अमित और इमाद ने क्या फैसला किया?", "en": "What did Amit and Emad decide?"},
+            "options": [{"hi": "शर्ट बदल लेने का", "en": "To exchange shirts"}, {"hi": "भाग जाने का", "en": "To run away"}, {"hi": "पिता से माफी का", "en": "To apologize to father"}, {"hi": "छुपाने का", "en": "To hide"}],
+            "answer": {"hi": "शर्ट बदल लेने का", "en": "To exchange shirts"}
           },
           {
-            "q": {"hi": "काबुलीवाला मिनी के लिए क्या लाता था?", "en": "What did Kabuliwala bring for Mini?"},
-            "options": [{"hi": "मेवे", "en": "Dry fruits"}, {"hi": "खिलौने", "en": "Toys"}, {"hi": "कपड़े", "en": "Clothes"}, {"hi": "पुस्तकें", "en": "Books"}],
-            "answer": {"hi": "मेवे", "en": "Dry fruits"}
+            "q": {"hi": "अमित ने शर्ट क्यों बदली?", "en": "Why did Amit exchange shirts?"},
+            "options": [{"hi": "इमाद को बचाने के लिए", "en": "To save Emad"}, {"hi": "खुद को बचाने के लिए", "en": "To save himself"}, {"hi": "मज़ाक के लिए", "en": "For fun"}, {"hi": "इमाद की मदद के लिए", "en": "To help Emad"}],
+            "answer": {"hi": "इमाद को बचाने के लिए", "en": "To save Emad"}
           },
           {
-            "q": {"hi": "क्या काबुलीवाला के पास अपनी बेटी थी?", "en": "Did the Kabuliwala have his own daughter?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "वह विवाहित नहीं था", "en": "He was unmarried"}, {"hi": "कह नहीं सकते", "en": "Cannot say"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {"hi": "अमित ने कहा, 'मेरे पास माँ है' इसका क्या अर्थ है?", "en": "What did Amit mean by 'I have a mother'?"},
+            "options": [{"hi": "वह माँ से पिटवा लेगा", "en": "She will save him"}, {"hi": "माँ उसे बचा लेगी", "en": "She will protect him"}, {"hi": "माँ उसे मार देगी", "en": "She will beat him"}, {"hi": "पिता को नहीं पता", "en": "Father won't know"}],
+            "answer": {"hi": "माँ उसे बचा लेगी", "en": "She will protect him"}
           },
           {
-            "q": {"hi": "मिनी के पिता को क्या बुरा लगता था?", "en": "What made Mini's father sad?"},
-            "options": [{"hi": "लिखना", "en": "Writing"}, {"hi": "मिनी का चुप रहना", "en": "Mini being quiet"}, {"hi": "गरीबी", "en": "Poverty"}, {"hi": "शोर", "en": "Noise"}],
-            "answer": {"hi": "मिनी का चुप रहना", "en": "Mini being quiet"}
+            "q": {"hi": "अमित की माँ ने फटी शर्ट देखकर क्या किया?", "en": "What did Amit's mother do seeing the torn shirt?"},
+            "options": [{"hi": "डांटा", "en": "Scolded"}, {"hi": "सिलाई कर दी", "en": "Stitched it"}, {"hi": "पीटा", "en": "Beat him"}, {"hi": "नयी शर्ट दी", "en": "Gave new shirt"}],
+            "answer": {"hi": "सिलाई कर दी", "en": "Stitched it"}
           },
           {
-            "q": {"hi": "काबुलीवाला को जेल क्यों हुई?", "en": "Why was the Kabuliwala sent to jail?"},
-            "options": [{"hi": "चोरी के लिए", "en": "For stealing"}, {"hi": "झगड़े के लिए", "en": "For a fight"}, {"hi": "हथियार रखने के लिए", "en": "For having a weapon"}, {"hi": "कर न चुकाने पर", "en": "Not paying tax"}],
-            "answer": {"hi": "झगड़े के लिए", "en": "For a fight"}
+            "q": {"hi": "इमाद के पिता ने क्या देखा?", "en": "What did Emad's father see?"},
+            "options": [{"hi": "अमित को इमाद की शर्ट में", "en": "Amit in Emad's shirt"}, {"hi": "इमाद को अमित की शर्ट में", "en": "Emad in Amit's shirt"}, {"hi": "फटी शर्ट", "en": "Torn shirt"}, {"hi": "सब कुछ", "en": "Everything"}],
+            "answer": {"hi": "अमित को इमाद की शर्ट में", "en": "Amit in Emad's shirt"}
           },
           {
-            "q": {"hi": "जेल से लौटने के बाद काबुलीवाला क्या ढूँढ रहा था?", "en": "What was Kabuliwala looking for after returning from jail?"},
-            "options": [{"hi": "मिनी को", "en": "Mini"}, {"hi": "मेवे", "en": "Dry fruits"}, {"hi": "अपनी बेटी को", "en": "His daughter"}, {"hi": "काम को", "en": "Work"}],
-            "answer": {"hi": "मिनी को", "en": "Mini"}
+            "q": {"hi": "इमाद के पिता क्या करते थे?", "en": "What did Emad's father do?"},
+            "options": [{"hi": "हुक्का पीते थे", "en": "Smoked hookah"}, {"hi": "खेती", "en": "Farming"}, {"hi": "व्यापार", "en": "Business"}, {"hi": "पता नहीं", "en": "Unknown"}],
+            "answer": {"hi": "हुक्का पीते थे", "en": "Smoked hookah"}
           }
         ],
         "section3": [
           {
-            "q": {"hi": "मिनी की शादी के दिन क्या हो रहा था?", "en": "What was happening on Mini's wedding day?"},
-            "options": [{"hi": "त्यौहार", "en": "Festival"}, {"hi": "शादी की रस्में", "en": "Wedding ceremonies"}, {"hi": "जन्मदिन", "en": "Birthday"}, {"hi": "पार्टी", "en": "Party"}],
-            "answer": {"hi": "शादी की रस्में", "en": "Wedding ceremonies"}
+            "q": {"hi": "इमाद के पिता ने अमित से क्या कहा?", "en": "What did Emad's father say to Amit?"},
+            "options": [{"hi": "तुम यहाँ क्या कर रहे हो?", "en": "What are you doing here?"}, {"hi": "तुम मेरे बेटे जैसे हो", "en": "You are like my son"}, {"hi": "जाओ यहाँ से", "en": "Go away"}, {"hi": "शर्ट क्यों बदली?", "en": "Why change shirt?"}],
+            "answer": {"hi": "तुम मेरे बेटे जैसे हो", "en": "You are like my son"}
           },
           {
-            "q": {"hi": "क्या काबुलीवाला मिनी को पहचान पाया?", "en": "Did the Kabuliwala recognize Mini?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "थोड़ा बहुत", "en": "A little"}, {"hi": "नहीं पहचान पाया", "en": "Could not recognize"}],
+            "q": {"hi": "इमाद के पिता ने क्या घोषणा की?", "en": "What did Emad's father announce?"},
+            "options": [{"hi": "अमित अब मेरा बेटा है", "en": "Amit is my son now"}, {"hi": "इमाद मेरा बेटा नहीं है", "en": "Emad is not my son"}, {"hi": "मुझे दो बेटे चाहिए", "en": "I want two sons"}, {"hi": "पता नहीं", "en": "Unknown"}],
+            "answer": {"hi": "अमित अब मेरा बेटा है", "en": "Amit is my son now"}
+          },
+          {
+            "q": {"hi": "क्या गांव वाले इस दोस्ती से खुश थे?", "en": "Were villagers happy with this friendship?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}],
             "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {"hi": "मिनी के पिता ने काबुलीवाला को क्या दिया?", "en": "What did Mini's father give to Kabuliwala?"},
-            "options": [{"hi": "भोजन", "en": "Food"}, {"hi": "पैसे", "en": "Money"}, {"hi": "कपड़े", "en": "Clothes"}, {"hi": "खिलौने", "en": "Toys"}],
-            "answer": {"hi": "पैसे", "en": "Money"}
+            "q": {"hi": "अमित और इमाद का नया नाम क्या पड़ा?", "en": "What was the new name given to Amit and Emad?"},
+            "options": [{"hi": "राम-श्याम", "en": "Ram-Shyam"}, {"hi": "अदल-बदल", "en": "Adal-Badal"}, {"hi": "दोस्त", "en": "Friends"}, {"hi": "भाई", "en": "Brothers"}],
+            "answer": {"hi": "अदल-बदल", "en": "Adal-Badal"}
           },
           {
-            "q": {"hi": "पैसे किसलिए थे?", "en": "What was the money for?"},
-            "options": [{"hi": "अपने घर वापस जाने के लिए", "en": "To go back home"}, {"hi": "भोजन के लिए", "en": "For food"}, {"hi": "दवा के लिए", "en": "For medicine"}, {"hi": "सजावट के लिए", "en": "Decoration"}],
-            "answer": {"hi": "अपने घर वापस जाने के लिए", "en": "To go back home"}
+            "q": {"hi": "गाँव के मुखिया ने क्या घोषणा की?", "en": "What did the village headman announce?"},
+            "options": [{"hi": "वे अदल-बदल कहलाएंगे", "en": "They will be called Adal-Badal"}, {"hi": "वे अलग हो जाएंगे", "en": "They will separate"}, {"hi": "वे भाई नहीं हैं", "en": "They are not brothers"}],
+            "answer": {"hi": "वे अदल-बदल कहलाएंगे", "en": "They will be called Adal-Badal"}
           },
           {
-            "q": {"hi": "क्या काबुलीवाला की बेटी बड़ी हो गई थी?", "en": "Had Kabuliwala's daughter grown up?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "q": {"hi": "क्या अदल-बदल नाम पूरे गांव में फैल गया?", "en": "Did Adal-Badal name spread in the village?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}],
             "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {"hi": "मिनी के पिता को क्या महसूस हुआ?", "en": "What did Mini's father feel?"},
-            "options": [{"hi": "खुशी", "en": "Happiness"}, {"hi": "दुख", "en": "Sadness"}, {"hi": "आश्चर्य", "en": "Surprise"}, {"hi": "भय", "en": "Fear"}],
-            "answer": {"hi": "दुख", "en": "Sadness"}
-          },
-          {
-            "q": {"hi": "कहानी का लेखक कौन है?", "en": "Who is the author of the story?"},
-            "options": [{"hi": "टैगोर", "en": "Tagore"}, {"hi": "प्रेमचंद", "en": "Premchand"}, {"hi": "रस्किन बॉन्ड", "en": "Ruskin Bond"}, {"hi": "शेक्सपियर", "en": "Shakespeare"}],
-            "answer": {"hi": "टैगोर", "en": "Tagore"}
-          },
-          {
-            "q": {"hi": "क्या मिनी बड़ी हो गई थी?", "en": "Had Mini grown up?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "थोड़ी", "en": "A little"}, {"hi": "शायद", "en": "Maybe"}],
+            "q": {"hi": "क्या दोस्ती स्वार्थ से मुक्त होती है?", "en": "Is friendship free from selfishness?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
             "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {"hi": "पिता ने काबुलीवाला को अपनी बेटी से क्यों मिलने भेजा?", "en": "Why did the father send Kabuliwala to meet his daughter?"},
-            "options": [{"hi": "उन्हें खुश करने के लिए", "en": "To make them happy"}, {"hi": "सजा के लिए", "en": "For punishment"}, {"hi": "काम के लिए", "en": "For work"}, {"hi": "कह नहीं सकते", "en": "Cannot say"}],
-            "answer": {"hi": "उन्हें खुश करने के लिए", "en": "To make them happy"}
+            "q": {"hi": "क्या यह कहानी सच्ची दोस्ती का उदाहरण है?", "en": "Is this story an example of true friendship?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {"hi": "क्या कहानी एक सुखद अंत के साथ खत्म हुई?", "en": "Did the story end with a happy note?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "कुछ नहीं", "en": "Nothing"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {"hi": "इमाद के पिता ने अमित की क्या प्रशंसा की?", "en": "What did Emad's father praise about Amit?"},
+            "options": [{"hi": "उसकी बहादुरी", "en": "His bravery"}, {"hi": "उसका प्यार", "en": "His affection"}, {"hi": "उसकी मेहनत", "en": "His hard work"}],
+            "answer": {"hi": "उसका प्यार", "en": "His affection"}
+          },
+          {
+            "q": {"hi": "क्या दोस्ती में शर्ट बदलना बड़ी बात है?", "en": "Is exchanging shirts a big deal in friendship?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "नहीं", "en": "No"}
           }
         ],
         "section4": [
           {
-            "q": {"hi": "मिठाई का डिब्बा किसने दिया?", "en": "Who gave the sweet box?"},
-            "options": [{"hi": "पिताजी", "en": "Father"}, {"hi": "काबुलीवाला", "en": "Kabuliwala"}, {"hi": "माँ", "en": "Mother"}, {"hi": "भाई", "en": "Brother"}],
-            "answer": {"hi": "काबुलीवाला", "en": "Kabuliwala"}
+            "q": {"hi": "अमित के कितने भाई थे?", "en": "How many brothers did Amit have?"},
+            "options": [{"hi": "एक", "en": "One"}, {"hi": "दो", "en": "Two"}, {"hi": "तीन", "en": "Three"}, {"hi": "चार", "en": "Four"}],
+            "answer": {"hi": "तीन", "en": "Three"}
           },
           {
-            "q": {"hi": "शादी का खाना कैसा था?", "en": "How was the wedding feast?"},
-            "options": [{"hi": "स्वादिष्ट", "en": "Delicious"}, {"hi": "खराब", "en": "Bad"}, {"hi": "ठंडा", "en": "Cold"}, {"hi": "कोई नहीं", "en": "None"}],
-            "answer": {"hi": "स्वादिष्ट", "en": "Delicious"}
-          },
-          {
-            "q": {"hi": "काबुलीवाला के पास क्या था?", "en": "What did Kabuliwala have?"},
-            "options": [{"hi": "फोटो", "en": "Photo"}, {"hi": "खिलौना", "en": "Toy"}, {"hi": "किताब", "en": "Book"}, {"hi": "पेन", "en": "Pen"}],
-            "answer": {"hi": "फोटो", "en": "Photo"}
-          },
-          {
-            "q": {"hi": "क्या मिनी अब भी बातूनी थी?", "en": "Was Mini still talkative?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "q": {"hi": "क्या इमाद की माँ जीवित थी?", "en": "Was Emad's mother alive?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
             "answer": {"hi": "नहीं", "en": "No"}
           },
           {
-            "q": {"hi": "काबुलीवाला को क्या याद आया?", "en": "What did Kabuliwala remember?"},
-            "options": [{"hi": "अपनी बेटी", "en": "His daughter"}, {"hi": "घर", "en": "Home"}, {"hi": "रास्ता", "en": "Path"}, {"hi": "खाना", "en": "Food"}],
-            "answer": {"hi": "अपनी बेटी", "en": "His daughter"}
+            "q": {"hi": "अदल-बदल नाम का क्या अर्थ है?", "en": "What is the meaning of Adal-Badal?"},
+            "options": [{"hi": "बदलाव (exchange)", "en": "Exchange"}, {"hi": "लड़ाई", "en": "Fight"}, {"hi": "प्यार", "en": "Love"}],
+            "answer": {"hi": "बदलाव (exchange)", "en": "Exchange"}
           },
           {
-            "q": {"hi": "क्या पिता को काबुलीवाला पर दया आई?", "en": "Did the father feel pity for Kabuliwala?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "कह नहीं सकते", "en": "Cannot say"}],
+            "q": {"hi": "क्या यह कहानी होली पर आधारित है?", "en": "Is this story based on Holi?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
             "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {"hi": "काबुलीवाला का मुख्य गुण क्या था?", "en": "What was the main quality of Kabuliwala?"},
-            "options": [{"hi": "क्रोध", "en": "Anger"}, {"hi": "प्यार/सहानुभूति", "en": "Love/Empathy"}, {"hi": "लालच", "en": "Greed"}, {"hi": "डर", "en": "Fear"}],
-            "answer": {"hi": "प्यार/सहानुभूति", "en": "Love/Empathy"}
-          },
-          {
-            "q": {"hi": "मिनी के विवाह का समय कैसा था?", "en": "How was the time of Mini's wedding?"},
-            "options": [{"hi": "उदास", "en": "Sad"}, {"hi": "खुशनुमा", "en": "Happy"}, {"hi": "अंधेरा", "en": "Dark"}, {"hi": "शोर", "en": "Noisy"}],
-            "answer": {"hi": "खुशनुमा", "en": "Happy"}
-          },
-          {
-            "q": {"hi": "क्या काबुलीवाला को मिनी की याद आती थी?", "en": "Did Kabuliwala miss Mini?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "q": {"hi": "क्या दोस्ती में एक-दूसरे का साथ जरूरी है?", "en": "Is togetherness necessary in friendship?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
             "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {"hi": "लेखक ने अपनी बेटी के लिए क्या कामना की?", "en": "What did the author wish for his daughter?"},
-            "options": [{"hi": "खुशी", "en": "Happiness"}, {"hi": "पैसा", "en": "Money"}, {"hi": "पढ़ाई", "en": "Studies"}, {"hi": "कुछ नहीं", "en": "Nothing"}],
-            "answer": {"hi": "खुशी", "en": "Happiness"}
+            "q": {"hi": "इमाद के पिता ने अमित को क्या माना?", "en": "What did Emad's father consider Amit as?"},
+            "options": [{"hi": "अपना बेटा", "en": "His own son"}, {"hi": "दोस्त", "en": "Friend"}, {"hi": "नौकर", "en": "Servant"}],
+            "answer": {"hi": "अपना बेटा", "en": "His own son"}
+          },
+          {
+            "q": {"hi": "अमित के माता-पिता का स्वभाव कैसा था?", "en": "How were Amit's parents?"},
+            "options": [{"hi": "दयालु", "en": "Kind"}, {"hi": "क्रूर", "en": "Cruel"}, {"hi": "पता नहीं", "en": "Unknown"}],
+            "answer": {"hi": "दयालु", "en": "Kind"}
+          },
+          {
+            "q": {"hi": "क्या दोस्त एक-दूसरे के लिए सब कुछ करते हैं?", "en": "Do friends do everything for each other?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या अदल-बदल कहानी प्रसिद्ध है?", "en": "Is Adal-Badal story famous?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या दोस्ती अनमोल है?", "en": "Is friendship priceless?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           }
         ],
         "section5": [
           {
-            "q": {"hi": "लेखक ने उपन्यास का कौन सा अध्याय लिखा था?", "en": "Which chapter of the novel did the author write?"},
-            "options": [{"hi": "16वां", "en": "16th"}, {"hi": "17वां", "en": "17th"}, {"hi": "18वां", "en": "18th"}, {"hi": "19वां", "en": "19th"}],
-            "answer": {"hi": "17वां", "en": "17th"}
+            "q": {"hi": "अमित और इमाद कहाँ रहते थे?", "en": "Where did Amit and Emad live?"},
+            "options": [{"hi": "शहर", "en": "City"}, {"hi": "गाँव", "en": "Village"}, {"hi": "विदेश", "en": "Abroad"}],
+            "answer": {"hi": "गाँव", "en": "Village"}
           },
           {
-            "q": {"hi": "काबुलीवाला के सामान में क्या था?", "en": "What did the Kabuliwala have in his wares?"},
-            "options": [{"hi": "मेवे", "en": "Dry fruits"}, {"hi": "खिलौने", "en": "Toys"}, {"hi": "किताबें", "en": "Books"}, {"hi": "पेन", "en": "Pen"}],
-            "answer": {"hi": "मेवे", "en": "Dry fruits"}
-          },
-          {
-            "q": {"hi": "क्या काबुलीवाला एक अच्छा इंसान था?", "en": "Was Kabuliwala a good person?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "पता नहीं", "en": "Don't know"}, {"hi": "शायद", "en": "Maybe"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
-          },
-          {
-            "q": {"hi": "मिनी के पिता क्या करते थे?", "en": "What did Mini's father do?"},
-            "options": [{"hi": "शिक्षक", "en": "Teacher"}, {"hi": "लेखक", "en": "Author"}, {"hi": "डॉक्टर", "en": "Doctor"}, {"hi": "इंजीनियर", "en": "Engineer"}],
-            "answer": {"hi": "लेखक", "en": "Author"}
-          },
-          {
-            "q": {"hi": "मिनी और काबुलीवाला की दोस्ती का क्या नाम दिया जा सकता है?", "en": "What name can be given to the friendship of Mini and Kabuliwala?"},
-            "options": [{"hi": "अनमोल (Precious)", "en": "Precious"}, {"hi": "साधारण", "en": "Simple"}, {"hi": "बोरियत", "en": "Boredom"}, {"hi": "लड़ाई", "en": "Fight"}],
-            "answer": {"hi": "अनमोल", "en": "Precious"}
-          },
-          {
-            "q": {"hi": "क्या मिनी ने काबुलीवाला को पहचाना?", "en": "Did Mini recognize the Kabuliwala?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "q": {"hi": "क्या दोस्ती में स्वार्थ होता है?", "en": "Is there selfishness in friendship?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
             "answer": {"hi": "नहीं", "en": "No"}
           },
           {
-            "q": {"hi": "लेखक की बेटी के पिता ने क्या महसूस किया?", "en": "What did the father of Mini feel?"},
-            "options": [{"hi": "दुख", "en": "Sadness"}, {"hi": "खुशी", "en": "Happiness"}, {"hi": "डर", "en": "Fear"}, {"hi": "क्रोध", "en": "Anger"}],
-            "answer": {"hi": "दुख", "en": "Sadness"}
+            "q": {"hi": "इमाद का पिता किस प्रकार का इंसान था?", "en": "What type of person was Emad's father?"},
+            "options": [{"hi": "दयालु", "en": "Kind"}, {"hi": "क्रूर", "en": "Cruel"}, {"hi": "पता नहीं", "en": "Unknown"}],
+            "answer": {"hi": "दयालु", "en": "Kind"}
           },
           {
-            "q": {"hi": "कहानी का सार क्या है?", "en": "What is the essence of the story?"},
-            "options": [{"hi": "पिता का प्रेम", "en": "Father's love"}, {"hi": "दोस्ती", "en": "Friendship"}, {"hi": "अजनबी से रिश्ता", "en": "Bond with a stranger"}, {"hi": "सभी", "en": "All"}],
-            "answer": {"hi": "सभी", "en": "All"}
+            "q": {"hi": "क्या दोस्ती में कपड़े मायने रखते हैं?", "en": "Do clothes matter in friendship?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "नहीं", "en": "No"}
           },
           {
-            "q": {"hi": "क्या लेखक काबुलीवाला के प्रति सहानुभूति रखते थे?", "en": "Did the author feel empathy for the Kabuliwala?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "कह नहीं सकते", "en": "Cannot say"}],
+            "q": {"hi": "क्या अदल-बदल दोस्ती की कहानी है?", "en": "Is Adal-Badal a story of friendship?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
             "answer": {"hi": "हाँ", "en": "Yes"}
           },
           {
-            "q": {"hi": "इस कहानी का शीर्षक क्या है?", "en": "What is the title of this story?"},
-            "options": [{"hi": "काबुलीवाला", "en": "Kabuliwala"}, {"hi": "मिनी", "en": "Mini"}, {"hi": "लेखक", "en": "Author"}, {"hi": "कोई नहीं", "en": "None"}],
-            "answer": {"hi": "काबुलीवाला", "en": "Kabuliwala"}
+            "q": {"hi": "क्या अमित के भाई थे?", "en": "Did Amit have brothers?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या इमाद का पिता गरीब था?", "en": "Was Emad's father poor?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या गाँव वाले अदल-बदल के बारे में बात करते थे?", "en": "Did villagers talk about Adal-Badal?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या सच्ची दोस्ती दुर्लभ है?", "en": "Is true friendship rare?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या यह कहानी दिल छू लेने वाली है?", "en": "Is this story heart-touching?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
           }
         ]
       },
