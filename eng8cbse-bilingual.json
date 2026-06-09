@@ -5301,9 +5301,112 @@
             "answer": {"hi": "हाँ", "en": "Yes"}
           }
         ]
+      },
+      "chapter11a": {
+        "section1": [
+          {
+            "q": {"hi": "मिस्टर रेवेन (कौआ) कहाँ बैठा था?", "en": "Where was Mr. Raven sitting?"},
+            "options": [{"hi": "जमीन पर", "en": "On the ground"}, {"hi": "टहनी पर (upon a limb)", "en": "Upon a limb"}, {"hi": "छत पर", "en": "On the roof"}, {"hi": "पानी में", "en": "In the water"}],
+            "answer": {"hi": "टहनी पर", "en": "Upon a limb"}
+          },
+          {
+            "q": {"hi": "रेयनार्ड कौन था?", "en": "Who was Reynard?"},
+            "options": [{"hi": "एक कौआ", "en": "A Raven"}, {"hi": "एक लोमड़ी (the Fox)", "en": "The Fox"}, {"hi": "एक कुत्ता", "en": "A Dog"}, {"hi": "एक शेर", "en": "A Lion"}],
+            "answer": {"hi": "एक लोमड़ी", "en": "The Fox"}
+          },
+          {
+            "q": {"hi": "कौवे की चोंच में क्या था?", "en": "What did the Raven hold in his beak?"},
+            "options": [{"hi": "एक फल", "en": "A fruit"}, {"hi": "एक निवाला (morsel)", "en": "A morsel"}, {"hi": "एक पत्थर", "en": "A stone"}, {"hi": "एक फूल", "en": "A flower"}],
+            "answer": {"hi": "एक निवाला", "en": "A morsel"}
+          },
+          {
+            "q": {"hi": "लोमड़ी ने कौवे को कैसा कहा?", "en": "What did the Fox call the Raven?"},
+            "options": [{"hi": "बदसूरत", "en": "Ugly"}, {"hi": "एक सुंदर पक्षी (handsome bird)", "en": "A handsome bird"}, {"hi": "मूर्ख", "en": "Foolish"}, {"hi": "डरपोक", "en": "Coward"}],
+            "answer": {"hi": "एक सुंदर पक्षी", "en": "A handsome bird"}
+          },
+          {
+            "q": {"hi": "लोमड़ी के अनुसार, यदि कौआ गाता तो वह क्या कहलाता?", "en": "According to the Fox, if the Raven sang, what would he be called?"},
+            "options": [{"hi": "एक गायक", "en": "A singer"}, {"hi": "जंगल का राजा (king of woods)", "en": "King of these woods"}, {"hi": "एक दोस्त", "en": "A friend"}, {"hi": "एक कलाकार", "en": "An artist"}],
+            "answer": {"hi": "जंगल का राजा", "en": "King of these woods"}
+          },
+          {
+            "q": {"hi": "क्या कौवे ने लोमड़ी का मजाक समझा?", "en": "Did the Raven see the joke?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं (did not see the joke)", "en": "No"}],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": {"hi": "कौवे की आवाज़ वास्तव में कैसी थी?", "en": "What was the Raven's voice actually like?"},
+            "options": [{"hi": "मीठी", "en": "Sweet"}, {"hi": "कर्कश (just a croak)", "en": "Just a croak"}, {"hi": "शांत", "en": "Quiet"}, {"hi": "मधुर", "en": "Melodious"}],
+            "answer": {"hi": "कर्कश", "en": "Just a croak"}
+          },
+          {
+            "q": {"hi": "कौवे ने अपनी चोंच क्यों खोली?", "en": "Why did the Raven open his beak?"},
+            "options": [{"hi": "खाने के लिए", "en": "To eat"}, {"hi": "मूर्खतापूर्ण गर्व के कारण (foolish pride)", "en": "In foolish pride"}, {"hi": "गाना गाने के लिए", "en": "To sing"}, {"hi": "बात करने के लिए", "en": "To talk"}],
+            "answer": {"hi": "मूर्खतापूर्ण गर्व के कारण", "en": "In foolish pride"}
+          },
+          {
+            "q": {"hi": "कौवे की चोंच से क्या नीचे गिर गया?", "en": "What fell down from the Raven's beak?"},
+            "options": [{"hi": "पंख", "en": "Feathers"}, {"hi": "निवाला (the morsel)", "en": "The morsel"}, {"hi": "पानी", "en": "Water"}, {"hi": "कुछ नहीं", "en": "Nothing"}],
+            "answer": {"hi": "निवाला", "en": "The morsel"}
+          },
+          {
+            "q": {"hi": "लोमड़ी ने कौवे को क्या सीख दी?", "en": "What lesson did the Fox give the Raven?"},
+            "options": [{"hi": "चलाकी की", "en": "To be cunning"}, {"hi": "चापलूसी (flattery) पर ध्यान न दें", "en": "Should not listen to flattery"}, {"hi": "गाना गाने की", "en": "To sing"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "चापलूसी (flattery) पर ध्यान न दें", "en": "Should not listen to flattery"}
+          }
+        ],
+        "section2": [
+          {"q": {"hi": "क्या लोमड़ी चालाक है?", "en": "Is the fox cunning?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "हाँ", "en": "Yes"}},
+          {"q": {"hi": "क्या कौवा मूर्ख था?", "en": "Was the raven foolish?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "हाँ", "en": "Yes"}},
+          {"q": {"hi": "चापलूसी (flattery) क्या है?", "en": "What is flattery?"}, "options": [{"hi": "झूठी तारीफ", "en": "False praise"}, {"hi": "सच्ची तारीफ", "en": "True praise"}, {"hi": "मदद", "en": "Help"}], "answer": {"hi": "झूठी तारीफ", "en": "False praise"}},
+          {"q": {"hi": "क्या कौवे ने लोमड़ी पर विश्वास किया?", "en": "Did the Raven trust the Fox?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "हाँ", "en": "Yes"}},
+          {"q": {"hi": "क्या लोमड़ी का मकसद भोजन पाना था?", "en": "Was the Fox's goal to get the food?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "हाँ", "en": "Yes"}},
+          {"q": {"hi": "क्या अहंकार का अंत बुरा होता है?", "en": "Does vanity lead to a bad end?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "हाँ", "en": "Yes"}},
+          {"q": {"hi": "क्या लोमड़ी के शब्द कौवे के लिए जाल थे?", "en": "Were the Fox's words a trap for the Raven?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "हाँ", "en": "Yes"}},
+          {"q": {"hi": "क्या कौवे ने अपना खाना खो दिया?", "en": "Did the Raven lose his food?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "हाँ", "en": "Yes"}},
+          {"q": {"hi": "क्या लोमड़ी की प्रशंसा झूठी थी?", "en": "Was the Fox's praise false?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "हाँ", "en": "Yes"}},
+          {"q": {"hi": "क्या यह कहानी हमें सबक सिखाती है?", "en": "Does this story teach us a lesson?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "हाँ", "en": "Yes"}}
+        ],
+        "section3": [
+          {"q": {"hi": "क्या कौवे के पंख सुंदर थे?", "en": "Were the Raven's feathers beautiful?"}, "options": [{"hi": "हाँ (लोमड़ी ने कहा)", "en": "Yes"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "हाँ (लोमड़ी ने कहा)", "en": "Yes"}},
+          {"q": {"hi": "क्या लोमड़ी ने कौवे को राजा कहा?", "en": "Did the Fox call the Raven a king?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "हाँ", "en": "Yes"}},
+          {"q": {"hi": "क्या लोमड़ी ने कौवे का अपमान किया?", "en": "Did the Fox insult the Raven?"}, "options": [{"hi": "नहीं (प्रशंसा का नाटक किया)", "en": "No (pretended to praise)"}, {"hi": "हाँ", "en": "Yes"}], "answer": {"hi": "नहीं (pretended to praise)", "en": "No"}},
+          {"q": {"hi": "क्या कौवे को पता था कि वह मूर्ख बन रहा है?", "en": "Did the Raven know he was being fooled?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "नहीं", "en": "No"}},
+          {"q": {"hi": "क्या लोमड़ी चतुर (cunning) है?", "en": "Is the fox cunning?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "हाँ", "en": "Yes"}},
+          {"q": {"hi": "क्या कौवे के पास गर्व था?", "en": "Did the Raven have pride?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "हाँ", "en": "Yes"}},
+          {"q": {"hi": "क्या निवाला लोमड़ी को मिला?", "en": "Did the Fox get the morsel?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "हाँ", "en": "Yes"}},
+          {"q": {"hi": "क्या लोमड़ी हँसी?", "en": "Did the Fox laugh?"}, "options": [{"hi": "हाँ (Ha-ha!)", "en": "Yes"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "हाँ (Ha-ha!)", "en": "Yes"}},
+          {"q": {"hi": "क्या चापलूसी से बचना चाहिए?", "en": "Should we avoid flattery?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "हाँ", "en": "Yes"}},
+          {"q": {"hi": "क्या अहंकार एक बुरा गुण है?", "en": "Is vanity a bad vice?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "हाँ", "en": "Yes"}}
+        ],
+        "section4": [
+          {"q": {"hi": "क्या हमें दूसरों की बातों पर तुरंत विश्वास करना चाहिए?", "en": "Should we believe others instantly?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "नहीं", "en": "No"}},
+          {"q": {"hi": "क्या लोमड़ी कौवे की दोस्त थी?", "en": "Was the Fox a friend of the Raven?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "नहीं", "en": "No"}},
+          {"q": {"hi": "क्या कौवे के पंख सच में सुंदर थे?", "en": "Were the feathers really beautiful?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं (पता नहीं)", "en": "Don't know"}], "answer": {"hi": "हाँ", "en": "Yes"}},
+          {"q": {"hi": "क्या कौवे को पता था उसकी आवाज कर्कश है?", "en": "Did the Raven know his voice is a croak?"}, "options": [{"hi": "हाँ (पर भूल गया)", "en": "Yes (but forgot)"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "हाँ (but forgot)", "en": "Yes"}},
+          {"q": {"hi": "क्या लोमड़ी की बातें कौवे के लिए नुकसानदेह थीं?", "en": "Were Fox's words harmful?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "हाँ", "en": "Yes"}},
+          {"q": {"hi": "क्या प्रशंसा कभी-कभी हानिकारक होती है?", "en": "Can praise be harmful?"}, "options": [{"hi": "हाँ (झूठी)", "en": "Yes (if false)"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "हाँ (if false)", "en": "Yes"}},
+          {"q": {"hi": "क्या कौवे ने निवाला खो दिया?", "en": "Did the Raven lose the morsel?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "हाँ", "en": "Yes"}},
+          {"q": {"hi": "क्या लोमड़ी ने कौवे को मूर्ख बनाया?", "en": "Did the Fox fool the Raven?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "हाँ", "en": "Yes"}},
+          {"q": {"hi": "क्या हमें अपनी बुद्धि का इस्तेमाल करना चाहिए?", "en": "Should we use our intelligence?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "हाँ", "en": "Yes"}},
+          {"q": {"hi": "क्या कहानी का अंत स्पष्ट है?", "en": "Is the ending of the story clear?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "हाँ", "en": "Yes"}}
+        ],
+        "section5": [
+          {"q": {"hi": "क्या लोमड़ी लालची थी?", "en": "Was the fox greedy?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "हाँ", "en": "Yes"}},
+          {"q": {"hi": "क्या कौवा भोला था?", "en": "Was the raven simple-minded?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "हाँ", "en": "Yes"}},
+          {"q": {"hi": "क्या यह एक प्रसिद्ध दंतकथा (fable) है?", "en": "Is this a famous fable?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "हाँ", "en": "Yes"}},
+          {"q": {"hi": "क्या हमें चापलूसी से सावधान रहना चाहिए?", "en": "Should we be careful of flattery?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "हाँ", "en": "Yes"}},
+          {"q": {"hi": "क्या कौवा पेड़ पर बैठा था?", "en": "Was the Raven sitting on a limb?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "हाँ", "en": "Yes"}},
+          {"q": {"hi": "क्या लोमड़ी ने कौवे को ऊपर देखा?", "en": "Did the Fox look up at the Raven?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "हाँ", "en": "Yes"}},
+          {"q": {"hi": "क्या कौवे ने गर्व से चोंच खोली?", "en": "Did the Raven open his beak in pride?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "हाँ", "en": "Yes"}},
+          {"q": {"hi": "क्या लोमड़ी ने सबक सिखाया?", "en": "Did the Fox teach a lesson?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "हाँ", "en": "Yes"}},
+          {"q": {"hi": "क्या कौवा अब समझदार है?", "en": "Is the Raven wise now?"}, "options": [{"hi": "शायद", "en": "Maybe"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "शायद", "en": "Maybe"}},
+          {"q": {"hi": "क्या यह कहानी मजेदार है?", "en": "Is this story funny?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "हाँ", "en": "Yes"}}
+        ]
       }
     }
   }
+  
     
 
 
