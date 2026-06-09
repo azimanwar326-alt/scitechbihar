@@ -5039,18 +5039,278 @@
           {"q": {"hi": "क्या हमें दोस्त की सराहना करनी चाहिए?", "en": "Should we appreciate our friend?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "हाँ", "en": "Yes"}},
           {"q": {"hi": "क्या आपको यह कविता अच्छी लगी?", "en": "Did you like this poem?"}, "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}], "answer": {"hi": "हाँ", "en": "Yes"}}
         ]
+      },
+      "chapter11": {
+        "section1": [
+          {
+            "q": {"hi": "तनाय किस कक्षा का छात्र था?", "en": "Which class was Tanay a student of?"},
+            "options": [{"hi": "कक्षा IV", "en": "Class IV"}, {"hi": "कक्षा V", "en": "Class V"}, {"hi": "कक्षा VI", "en": "Class VI"}, {"hi": "कक्षा VII", "en": "Class VII"}],
+            "answer": {"hi": "कक्षा V", "en": "Class V"}
+          },
+          {
+            "q": {"hi": "तनाय के पिता क्या थे?", "en": "What was Tanay's father's profession?"},
+            "options": [{"hi": "शिक्षक", "en": "Teacher"}, {"hi": "क्लर्क", "en": "Clerk"}, {"hi": "डॉक्टर", "en": "Doctor"}, {"hi": "सैनिक", "en": "Soldier"}],
+            "answer": {"hi": "क्लर्क", "en": "Clerk"}
+          },
+          {
+            "q": {"hi": "स्कूल का चपरासी कौन था?", "en": "Who was the school chowkidar?"},
+            "options": [{"hi": "मोहन", "en": "Mohan"}, {"hi": "तनय", "en": "Tanay"}, {"hi": "हरीश", "en": "Harish"}, {"hi": "राहुल", "en": "Rahul"}],
+            "answer": {"hi": "मोहन", "en": "Mohan"}
+          },
+          {
+            "q": {"hi": "तनाय की शारीरिक बनावट कैसी थी?", "en": "What was Tanay's physical appearance?"},
+            "options": [{"hi": "मोटा", "en": "Fat"}, {"hi": "दुबला और मजबूत", "en": "Thin and strong"}, {"hi": "लंबा", "en": "Tall"}, {"hi": "कमजोर", "en": "Weak"}],
+            "answer": {"hi": "दुबला और मजबूत", "en": "Thin and strong"}
+          },
+          {
+            "q": {"hi": "तनाय की आँखों का रंग कैसा था?", "en": "What was the color of Tanay's eyes?"},
+            "options": [{"hi": "काली", "en": "Black"}, {"hi": "चमकदार", "en": "Bright"}, {"hi": "नीली", "en": "Blue"}, {"hi": "भूरी", "en": "Brown"}],
+            "answer": {"hi": "चमकदार", "en": "Bright"}
+          },
+          {
+            "q": {"hi": "हरित दुकानदार ने हेडमास्टर से क्या शिकायत की?", "en": "What complaint did Harit, the shopkeeper, make to the Headmaster?"},
+            "options": [{"hi": "तनाय ने सामान चुराया", "en": "Tanay stole goods"}, {"hi": "तनाय ने दुकान पर पत्थर फेंके", "en": "Tanay threw stones at his shop"}, {"hi": "तनाय ने शोर मचाया", "en": "Tanay made noise"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "तनाय ने दुकान पर पत्थर फेंके", "en": "Tanay threw stones at his shop"}
+          },
+          {
+            "q": {"hi": "तनाय ने दुकान पर पत्थर क्यों फेंके थे?", "en": "Why did Tanay throw stones at the shop?"},
+            "options": [{"hi": "दुकानदार बेईमानी करता था", "en": "Shopkeeper was dishonest/cheating"}, {"hi": "मज़ाक के लिए", "en": "For fun"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "दुकानदार बेईमानी करता था", "en": "Shopkeeper was dishonest/cheating"}
+          },
+          {
+            "q": {"hi": "दुकानदार ने एक किलो दाल में कितनी धांधली की थी?", "en": "How much did the shopkeeper short-weight in a kilo of dal?"},
+            "options": [{"hi": "50 ग्राम", "en": "50 grams"}, {"hi": "100 ग्राम", "en": "100 grams"}, {"hi": "150 ग्राम", "en": "150 grams"}, {"hi": "200 ग्राम", "en": "200 grams"}],
+            "answer": {"hi": "150 ग्राम", "en": "150 grams"}
+          },
+          {
+            "q": {"hi": "हेडमास्टर ने तनाय को कितनी बेंत (cane strokes) मारी?", "en": "How many cane strokes did the Headmaster give Tanay?"},
+            "options": [{"hi": "तीन", "en": "Three"}, {"hi": "पाँच", "en": "Five"}, {"hi": "दस", "en": "Ten"}, {"hi": "पंद्रह", "en": "Fifteen"}],
+            "answer": {"hi": "पाँच", "en": "Five"}
+          },
+          {
+            "q": {"hi": "क्या तनाय ने बेंत मारने के बाद भी अपनी बात पर अड़े रहने की हिम्मत दिखाई?", "en": "Did Tanay show courage even after the punishment?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          }
+        ],
+        "section2": [
+          {
+            "q": {"hi": "स्कूल के पास कौन सा जानवर घूम रहा था?", "en": "Which animal was menacing the locality?"},
+            "options": [{"hi": "कुत्ता", "en": "Dog"}, {"hi": "बैल (Ox)", "en": "Ox"}, {"hi": "गाय", "en": "Cow"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "बैल (Ox)", "en": "Ox"}
+          },
+          {
+            "q": {"hi": "तनाय ने बैल को क्या करने की कोशिश की?", "en": "What did Tanay try to do with the ox?"},
+            "options": [{"hi": "मारने की", "en": "To hit"}, {"hi": "पालतू बनाने (tame) की", "en": "To tame"}, {"hi": "भगाने की", "en": "To shoo away"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "पालतू बनाने (tame) की", "en": "To tame"}
+          },
+          {
+            "q": {"hi": "बैल कक्षा VII में घुस गया, इससे क्या हुआ?", "en": "What happened when the ox entered Class VII?"},
+            "options": [{"hi": "कांच की खिड़कियां टूटीं", "en": "Glass panes were broken"}, {"hi": "सब शांत हो गए", "en": "Everything became quiet"}, {"hi": "पढ़ाई शुरू हुई", "en": "Study started"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "कांच की खिड़कियां टूटीं", "en": "Glass panes were broken"}
+          },
+          {
+            "q": {"hi": "शिक्षक रश्मि सहारा ने क्या किया?", "en": "What did the teacher Rashmi Sahara do?"},
+            "options": [{"hi": "लड़ी", "en": "Fought"}, {"hi": "भाग गई", "en": "Escaped"}, {"hi": "तनाय को बचाया", "en": "Saved Tanay"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "भाग गई", "en": "Escaped"}
+          },
+          {
+            "q": {"hi": "हेडमास्टर ने तनाय को कितनी बार बेंत मारी?", "en": "How many strokes did the Headmaster give for the ox incident?"},
+            "options": [{"hi": "पाँच", "en": "Five"}, {"hi": "दस", "en": "Ten"}, {"hi": "पंद्रह", "en": "Fifteen"}, {"hi": "बीस", "en": "Twenty"}],
+            "answer": {"hi": "पंद्रह", "en": "Fifteen"}
+          },
+          {
+            "q": {"hi": "स्कूल ने तनाय पर कितना जुर्माना लगाया?", "en": "How much fine was imposed on Tanay?"},
+            "options": [{"hi": "500/-", "en": "500/-"}, {"hi": "1500/-", "en": "1500/-"}, {"hi": "2500/-", "en": "2500/-"}, {"hi": "5000/-", "en": "5000/-"}],
+            "answer": {"hi": "2500/-", "en": "2500/-"}
+          },
+          {
+            "q": {"hi": "क्या तनाय को स्कूल से निकाला जा सकता था?", "en": "Could Tanay be expelled from school?"},
+            "options": [{"hi": "हाँ (भविष्य की चेतावनी)", "en": "Yes (warning for future)"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ (भविष्य की चेतावनी)", "en": "Yes (warning for future)"}
+          },
+          {
+            "q": {"hi": "तनाय ने बूढ़ी भिखारी महिला की क्या मदद की?", "en": "How did Tanay help the old beggar woman?"},
+            "options": [{"hi": "पैसे देकर", "en": "By giving money"}, {"hi": "घर तक पहुँचाया", "en": "Helped her walk home"}, {"hi": "खाना देकर", "en": "By giving food"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "घर तक पहुँचाया", "en": "Helped her walk home"}
+          },
+          {
+            "q": {"hi": "तनाय ने घायल बैल के लिए क्या किया?", "en": "What did Tanay do for the injured ox?"},
+            "options": [{"hi": "दवा लगाई", "en": "Applied medicine/pulp"}, {"hi": "खाना खिलाया", "en": "Fed it"}, {"hi": "पानी पिलाया", "en": "Gave water"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "दवा लगाई", "en": "Applied medicine/pulp"}
+          },
+          {
+            "q": {"hi": "क्या हेडमास्टर का दिल तनाय को देख कर भर आया?", "en": "Did the Headmaster get emotional after seeing Tanay's kindness?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          }
+        ],
+        "section3": [
+          {
+            "q": {"hi": "पुरस्कार वितरण समारोह में मुख्य अतिथि कौन थे?", "en": "Who was the chief guest at the prize distribution ceremony?"},
+            "options": [{"hi": "गौहाटी कॉलेज के प्रेसिडेंट", "en": "President of Gauhati College"}, {"hi": "गाँव के मुखिया", "en": "Village Headman"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "गौहाटी कॉलेज के प्रेसिडेंट", "en": "President of Gauhati College"}
+          },
+          {
+            "q": {"hi": "तनाय को कौन सा पुरस्कार मिला?", "en": "What prize did Tanay receive?"},
+            "options": [{"hi": "बेस्ट स्टूडेंट", "en": "Best student"}, {"hi": "बेस्ट कैरेक्टर (Best character)", "en": "Best character"}, {"hi": "स्पोर्ट्स", "en": "Sports"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "बेस्ट कैरेक्टर (Best character)", "en": "Best character"}
+          },
+          {
+            "q": {"hi": "पुरस्कार में कौन सी किताबें मिलीं?", "en": "Which books were given as prizes?"},
+            "options": [{"hi": "गांधी और विवेकानंद की जीवनी", "en": "Biographies of Gandhi and Vivekananda"}, {"hi": "कहानी की किताबें", "en": "Story books"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "गांधी और विवेकानंद की जीवनी", "en": "Biographies of Gandhi and Vivekananda"}
+          },
+          {
+            "q": {"hi": "क्या बाकी छात्र तनाय के नाम से हैरान थे?", "en": "Were other students surprised by Tanay's name?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या तनाय पुरस्कार लेने मंच पर गया?", "en": "Did Tanay go on stage to receive the prize?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "हेडमास्टर ने इनाम के अलावा क्या दिया?", "en": "What did the Headmaster give in addition to the prize?"},
+            "options": [{"hi": "500 रुपये", "en": "500/-"}, {"hi": "किताबें", "en": "Books"}, {"hi": "पता नहीं", "en": "Don't know"}],
+            "answer": {"hi": "500 रुपये", "en": "500/-"}
+          },
+          {
+            "q": {"hi": "क्या तनाय की आँखों में आँसू थे?", "en": "Were there tears in Tanay's eyes?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या तनाय बुरा लड़का था?", "en": "Was Tanay a bad boy?"},
+            "options": [{"hi": "हाँ (सब कहते थे)", "en": "Yes (as called by others)"}, {"hi": "नहीं (वह दयालु था)", "en": "No (he was kind)"}],
+            "answer": {"hi": "नहीं (वह दयालु था)", "en": "No (he was kind)"}
+          },
+          {
+            "q": {"hi": "क्या तनाय ने सबका दिल जीत लिया?", "en": "Did Tanay win everyone's heart?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या हमें किसी को जाने बिना जज करना चाहिए?", "en": "Should we judge people without knowing them?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "नहीं", "en": "No"}
+          }
+        ],
+        "section4": [
+          {
+            "q": {"hi": "क्या हेडमास्टर को अपनी गलती का अहसास हुआ?", "en": "Did the Headmaster realize his mistake?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या तनाय ने सही किया?", "en": "Did Tanay do the right thing?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या दूसरों की मदद करना सबसे बड़ा इनाम है?", "en": "Is helping others the biggest prize?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या तनाय अब खुश है?", "en": "Is Tanay happy now?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या हेडमास्टर को गर्व हुआ?", "en": "Was the Headmaster proud?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या तनाय का चरित्र अच्छा था?", "en": "Did Tanay have a good character?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या यह पुरस्कार तनाय के लिए विशेष था?", "en": "Was this prize special for Tanay?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या हमें जानवरों के प्रति दयालु होना चाहिए?", "en": "Should we be kind to animals?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या तनाय के दोस्तों ने उसे चिढ़ाया?", "en": "Did Tanay's friends tease him?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या सच्चाई सामने आई?", "en": "Did the truth come out?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          }
+        ],
+        "section5": [
+          {
+            "q": {"hi": "क्या तनाय ने बेईमानी की?", "en": "Did Tanay do dishonesty?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "नहीं", "en": "No"}
+          },
+          {
+            "q": {"hi": "क्या तनाय का इरादा नेक था?", "en": "Was Tanay's intention noble?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या हेडमास्टर ने इनाम देकर अच्छा किया?", "en": "Did the Headmaster do well by giving the prize?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या तनाय एक संवेदनशील बच्चा है?", "en": "Is Tanay a sensitive child?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या तनाय को इनाम मिलने पर विश्वास हुआ?", "en": "Did Tanay believe he got the prize?"},
+            "options": [{"hi": "हाँ (अंत में)", "en": "Yes (at the end)"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ (अंत में)", "en": "Yes (at the end)"}
+          },
+          {
+            "q": {"hi": "क्या कहानी शिक्षाप्रद है?", "en": "Is the story educative?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या हेडमास्टर तनाय को जानते थे?", "en": "Did the Headmaster know Tanay?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या तनाय के व्यवहार में सुधार आया?", "en": "Did Tanay's behavior improve?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या हमें दूसरों की मदद करनी चाहिए?", "en": "Should we help others?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          },
+          {
+            "q": {"hi": "क्या तनाय का नाम Hazari Lal है?", "en": "Is Tanay's name Hazari Lal?"},
+            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
+            "answer": {"hi": "हाँ", "en": "Yes"}
+          }
+        ]
       }
     }
   }
+    
 
 
   
 
   
-  
 
-
-  
  
     
   
