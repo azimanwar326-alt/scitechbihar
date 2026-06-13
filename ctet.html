@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CTET Quiz - SciTech Bihar</title>
+
+<style>
+*{
+  box-sizing:border-box;
+}
+
+body{
+  font-family:Arial,sans-serif;
+  background:#f5f5f5;
+  text-align:center;
+  margin:0;
+  padding:20px;
+}
+
+h1{
+  margin-top:20px;
+  color:#333;
+}
+
+.card-container{
+  display:flex;
+  justify-content:center;
+  flex-wrap:wrap;
+  gap:20px;
+  margin-top:40px;
+}
+
+.card{
+  width:220px;
+  padding:25px;
+  border-radius:15px;
+  color:white;
+  cursor:pointer;
+  font-size:18px;
+  font-weight:bold;
+  transition:0.3s;
+}
+
+.card:hover{
+  transform:scale(1.05);
+}
+
+/* Different Colors */
+.paper1{ background:#4caf50; }
+.paper2{ background:#2196f3; }
+.cdp{ background:#ff9800; }
+.math{ background:#9c27b0; }
+.evs{ background:#e91e63; }
+.hindi{ background:#795548; }
+.english{ background:#009688; }
+
+@media(max-width:600px){
+
+  .card-container{
+    flex-direction:column;
+    align-items:center;
+  }
+
+  .card{
+    width:85%;
+    max-width:300px;
+    padding:20px;
+    font-size:20px;
+  }
+
+}
+
+a{
+  display:inline-block;
+  margin-top:30px;
+  font-size:18px;
+  text-decoration:none;
+  color:#007bff;
+}
+</style>
+</head>
+
+<body>
+
+<h1>📘 CTET Quiz Categories</h1>
+
+<div class="card-container">
+
+  <div class="card paper1"
+  onclick="location.href='paper1.html'">
+  📝 CTET Paper 1
+  </div>
+
+  <div class="card paper2"
+  onclick="location.href='paper2.html'">
+  📚 CTET Paper 2
+  </div>
+
+  <div class="card cdp"
+  onclick="location.href='cdp.html'">
+  🧠 CDP
+  </div>
+
+  <div class="card math"
+  onclick="location.href='math.html'">
+  ➗ Maths
+  </div>
+
+  <div class="card evs"
+  onclick="location.href='evs.html'">
+  🌿 EVS
+  </div>
+
+  <div class="card hindi"
+  onclick="location.href='hindi.html'">
+  🇮🇳 Hindi
+  </div>
+
+  <div class="card english"
+  onclick="location.href='english.html'">
+  🇬🇧 English
+  </div>
+
+</div>
+
+<a href="index.html">⬅ Back to Home</a>
+
+</body>
+</html>
