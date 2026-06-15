@@ -511,7 +511,855 @@
           "answer": {"hi": "नई जानकारी को पूर्व जानकारी से जोड़ना सीखने को समृद्ध बनाता है", "en": "Connecting new information to previous knowledge enriches learning."}
         }
       ]
-    }
+    },
+    "chapter02":{
+        "section1": [
+          {
+            "q": {
+              "hi": "अभिप्रेरणा के सिद्धान्तों के अनुसार, एक शिक्षक......... के द्वारा सीखने को संवर्द्धित कर सकता है।",
+              "en": "According to the principles of motivation, a teacher can enhance learning by........."
+            },
+            "options": [
+              {
+                "hi": "विद्यार्थियों से वास्तविक अपेक्षाएँ रखने",
+                "en": "Keeping realistic expectations from students"
+              },
+              {
+                "hi": "अपेक्षाओं का एकरूप स्तर रखने",
+                "en": "Keeping a uniform level of expectations"
+              },
+              {
+                "hi": "विद्यार्थियों से किसी प्रकार की अपेक्षाएँ न रखने",
+                "en": "Not keeping any expectations from students"
+              },
+              {
+                "hi": "विद्यार्थियों से बहुत उच्च अपेक्षाएँ रखने",
+                "en": "Keeping very high expectations from students"
+              }
+            ],
+            "answer": {
+              "hi": "विद्यार्थियों से वास्तविक अपेक्षाएँ रखने",
+              "en": "Keeping realistic expectations from students"
+            }
+          },
+          {
+            "q": {
+              "hi": "विकास शुरू होता है",
+              "en": "Development starts from"
+            },
+            "options": [
+              {
+                "hi": "उत्तर-बाल्यावस्था से",
+                "en": "Late childhood"
+              },
+              {
+                "hi": "प्रसवपूर्व अवस्था में",
+                "en": "Prenatal stage"
+              },
+              {
+                "hi": "शैशवावस्था से",
+                "en": "Infancy"
+              },
+              {
+                "hi": "पूर्व-बाल्यावस्था से",
+                "en": "Early childhood"
+              }
+            ],
+            "answer": {
+              "hi": "प्रसवपूर्व अवस्था में",
+              "en": "Prenatal stage"
+            }
+          },
+          {
+            "q": {
+              "hi": "बहुविध बुद्धि सिद्धान्त के अनुसार सभी प्रकार के पशुओं, खनिज और पेड़ पौधों को पहचानने और वर्गीकृत करने की योग्यता कहलाती है",
+              "en": "According to the theory of multiple intelligence, the ability to recognize and classify all types of animals, minerals, and plants is called"
+            },
+            "options": [
+              {
+                "hi": "तार्किक-गणितीय बुद्धि",
+                "en": "Logical-mathematical intelligence"
+              },
+              {
+                "hi": "प्राकृतिक बुद्धि",
+                "en": "Naturalist intelligence"
+              },
+              {
+                "hi": "भाषिक बुद्धि",
+                "en": "Linguistic intelligence"
+              },
+              {
+                "hi": "स्थानिक बुद्धि",
+                "en": "Spatial intelligence"
+              }
+            ],
+            "answer": {
+              "hi": "प्राकृतिक बुद्धि",
+              "en": "Naturalist intelligence"
+            }
+          },
+          {
+            "q": {
+              "hi": "\"अधिकांश व्यक्तियों की बुद्धि औसत होती है, बहुत कम लोग प्रतिभा सम्पन्न होते हैं और बहुत कम व्यक्ति मन्द बुद्धि के होते हैं।\" यह कथन प्रतिस्थापित सिद्धान्त पर आधारित है:",
+              "en": "\"Most people have average intelligence, very few are talented, and very few are intellectually challenged.\" This statement is based on the principle of:"
+            },
+            "options": [
+              {
+                "hi": "बुद्धि और जातीय विभिन्नताओं",
+                "en": "Intelligence and ethnic differences"
+              },
+              {
+                "hi": "बुद्धि के वितरण",
+                "en": "Distribution of intelligence"
+              },
+              {
+                "hi": "बुद्धि की वृद्धि",
+                "en": "Growth of intelligence"
+              },
+              {
+                "hi": "बुद्धि और लौंगिक विभिन्नताओं",
+                "en": "Intelligence and gender differences"
+              }
+            ],
+            "answer": {
+              "hi": "बुद्धि के वितरण",
+              "en": "Distribution of intelligence"
+            }
+          },
+          {
+            "q": {
+              "hi": "सहयोगी अधिगम में अधिक उम्र के प्रवीण विद्यार्थी, छोटे और कम निपुण विद्यार्थियों की मदद करते हैं, इससे",
+              "en": "In collaborative learning, older proficient students help younger and less skilled students, this leads to"
+            },
+            "options": [
+              {
+                "hi": "गहन प्रतियोगिता होती है",
+                "en": "Intense competition"
+              },
+              {
+                "hi": "उच्च नैतिक विकास होता है",
+                "en": "Higher moral development"
+              },
+              {
+                "hi": "समूहों में द्वन्द्व होता है",
+                "en": "Conflict in groups"
+              },
+              {
+                "hi": "उच्च उपलब्धि और आत्म-सम्मान विकसित होता है",
+                "en": "Higher achievement and self-esteem develops"
+              }
+            ],
+            "answer": {
+              "hi": "उच्च उपलब्धि और आत्म-सम्मान विकसित होता है",
+              "en": "Higher achievement and self-esteem develops"
+            }
+          },
+          {
+            "q": {
+              "hi": "जब पूर्व का अधिगम नई स्थितियों के सीखने को बिल्कुल प्रभावित नहीं करता, तो यह कहलाता है",
+              "en": "When prior learning does not affect the learning of new situations at all, it is called"
+            },
+            "options": [
+              {
+                "hi": "अधिगम का शून्य स्थानान्तरण",
+                "en": "Zero transfer of learning"
+              },
+              {
+                "hi": "अधिगम का निरपेक्ष स्थानान्तरण",
+                "en": "Absolute transfer of learning"
+              },
+              {
+                "hi": "अधिगम का सकारात्मक स्थानान्तरण",
+                "en": "Positive transfer of learning"
+              },
+              {
+                "hi": "अधिगम का नकारात्मक स्थानान्तरण",
+                "en": "Negative transfer of learning"
+              }
+            ],
+            "answer": {
+              "hi": "अधिगम का शून्य स्थानान्तरण",
+              "en": "Zero transfer of learning"
+            }
+          },
+          {
+            "q": {
+              "hi": "चिन्तन अनिवार्य रूप से है, एक",
+              "en": "Thinking is essentially a"
+            },
+            "options": [
+              {
+                "hi": "संज्ञानात्मक गतिविधि",
+                "en": "Cognitive activity"
+              },
+              {
+                "hi": "मनोगतिक प्रक्रिया",
+                "en": "Psychomotor process"
+              },
+              {
+                "hi": "मनोवैज्ञानिक परिघटना",
+                "en": "Psychological phenomenon"
+              },
+              {
+                "hi": "भावात्मक व्यवहार",
+                "en": "Affective behavior"
+              }
+            ],
+            "answer": {
+              "hi": "संज्ञानात्मक गतिविधि",
+              "en": "Cognitive activity"
+            }
+          },
+          {
+            "q": {
+              "hi": "एक बाल-केन्द्रित कक्षा में, बच्चे सामान्यतः सीखते हैं",
+              "en": "In a child-centered classroom, children generally learn"
+            },
+            "options": [
+              {
+                "hi": "वैयक्तिक और सामूहिक, दोनों रूपों में",
+                "en": "Individually and collectively, in both forms"
+              },
+              {
+                "hi": "मुख्य रूप से शिक्षक से",
+                "en": "Mainly from the teacher"
+              },
+              {
+                "hi": "वैयक्तिक रूप से",
+                "en": "Individually"
+              },
+              {
+                "hi": "समूहों में",
+                "en": "In groups"
+              }
+            ],
+            "answer": {
+              "hi": "वैयक्तिक और सामूहिक, दोनों रूपों में",
+              "en": "Individually and collectively, in both forms"
+            }
+          },
+          {
+            "q": {
+              "hi": "पियाजे के अधिगम के संज्ञानात्मक सिद्धान्त के अनुसार, वह प्रक्रिया जिसके द्वारा संज्ञानात्मक संरचना को संशोधित किया जाता है, कहलाती है",
+              "en": "According to Piaget's cognitive theory of learning, the process by which cognitive structure is modified is called"
+            },
+            "options": [
+              {
+                "hi": "प्रत्यक्षण",
+                "en": "Perception"
+              },
+              {
+                "hi": "समायोजन",
+                "en": "Accommodation"
+              },
+              {
+                "hi": "समावेशन",
+                "en": "Assimilation"
+              },
+              {
+                "hi": "स्कीमा",
+                "en": "Schema"
+              }
+            ],
+            "answer": {
+              "hi": "समायोजन",
+              "en": "Accommodation"
+            }
+          },
+          {
+            "q": {
+              "hi": "एक शिक्षिका अपने शिक्षार्थियों की सदैव इस रूप में सहायता करती है कि वे एक विषय-क्षेत्र से प्राप्त ज्ञान को दूसरे विषय-क्षेत्रों के ज्ञान के साथ जोड़ सकें। इससे..........को बढ़ावा मिलता है।",
+              "en": "A teacher always helps her learners in such a way that they can connect knowledge gained from one subject-area with the knowledge of other subject-areas. This promotes.........."
+            },
+            "options": [
+              {
+                "hi": "पुनर्बलन",
+                "en": "Reinforcement"
+              },
+              {
+                "hi": "ज्ञान के सह-सम्बन्ध एवं अन्तरण",
+                "en": "Correlation and transfer of knowledge"
+              },
+              {
+                "hi": "वैयक्तिक भिन्नताओं",
+                "en": "Individual differences"
+              },
+              {
+                "hi": "शिक्षार्थी-स्वायत्तता",
+                "en": "Learner-autonomy"
+              }
+            ],
+            "answer": {
+              "hi": "ज्ञान के सह-सम्बन्ध एवं अन्तरण",
+              "en": "Correlation and transfer of knowledge"
+            }
+          }
+        ],
+        "section2": [
+          {
+            "q": {
+              "hi": "सृजनात्मकता मुख्य रूप से.........से सम्बन्धित है।",
+              "en": "Creativity is mainly related to........."
+            },
+            "options": [
+              {
+                "hi": "मॉडलिंग",
+                "en": "Modeling"
+              },
+              {
+                "hi": "अनुकरण",
+                "en": "Imitation"
+              },
+              {
+                "hi": "अभिसारी चिन्तन",
+                "en": "Convergent thinking"
+              },
+              {
+                "hi": "अपसारी (बहुविध) चिन्तन",
+                "en": "Divergent thinking"
+              }
+            ],
+            "answer": {
+              "hi": "अपसारी (बहुविध) चिन्तन",
+              "en": "Divergent thinking"
+            }
+          },
+          {
+            "q": {
+              "hi": "एक विद्यार्थी मेडिकल कॉलेज में दाखिला लेने के लिए कठिन परिश्रम करता है ताकि वह प्रवेश परीक्षा में उत्तीर्ण हो सके। वह विद्यार्थी किस रूप में अभिप्रेरित है?",
+              "en": "A student works hard to get admission in a medical college so that he can pass the entrance examination. In what way is the student motivated?"
+            },
+            "options": [
+              {
+                "hi": "वैयक्तिक",
+                "en": "Personal"
+              },
+              {
+                "hi": "आनुभाविक",
+                "en": "Experiential"
+              },
+              {
+                "hi": "आन्तरिक",
+                "en": "Intrinsic"
+              },
+              {
+                "hi": "बाह्य",
+                "en": "Extrinsic"
+              }
+            ],
+            "answer": {
+              "hi": "आन्तरिक",
+              "en": "Intrinsic"
+            }
+          },
+          {
+            "q": {
+              "hi": "व्यवहार का 'करना' पक्ष.........में आता है।",
+              "en": "The 'doing' aspect of behavior falls in........."
+            },
+            "options": [
+              {
+                "hi": "सीखने के गतिक (कोनेटिव) क्षेत्र",
+                "en": "Conative domain of learning"
+              },
+              {
+                "hi": "सीखने के मनोवैज्ञानिक क्षेत्र",
+                "en": "Psychological domain of learning"
+              },
+              {
+                "hi": "सीखने के संज्ञानात्मक क्षेत्र",
+                "en": "Cognitive domain of learning"
+              },
+              {
+                "hi": "सीखने के भावात्मक क्षेत्र",
+                "en": "Affective domain of learning"
+              }
+            ],
+            "answer": {
+              "hi": "सीखने के गतिक (कोनेटिव) क्षेत्र",
+              "en": "Conative domain of learning"
+            }
+          },
+          {
+            "q": {
+              "hi": "विज्ञान एवं कला प्रदर्शनियाँ, संगीत एवं नृत्य प्रस्तुतियों तथा विद्यालय-पत्रिका निकालना............के लिए है।",
+              "en": "Science and arts exhibitions, music and dance presentations, and bringing out a school magazine are for............"
+            },
+            "options": [
+              {
+                "hi": "शिक्षार्थियों को सृजनात्मक मार्ग उपलब्ध कराने",
+                "en": "Providing creative avenues for learners"
+              },
+              {
+                "hi": "विभिन्न व्यवसायों के लिए विद्यार्थियों को प्रशिक्षित करने",
+                "en": "Training students for various occupations"
+              },
+              {
+                "hi": "विद्यालय का नाम रोशन करने",
+                "en": "Bringing glory to the school"
+              },
+              {
+                "hi": "अभिभावकों को सन्तुष्ट करने",
+                "en": "Satisfying the parents"
+              }
+            ],
+            "answer": {
+              "hi": "शिक्षार्थियों को सृजनात्मक मार्ग उपलब्ध कराने",
+              "en": "Providing creative avenues for learners"
+            }
+          },
+          {
+            "q": {
+              "hi": "एक शिक्षिका अपने शिक्षार्थियों को अनेक तरह की सामूहिक गतिविधियों में व्यस्त रखती है; जैसे-समूह-चर्चा, समूह-परियोजनाएँ, भूमिका निर्वाह आदि। यह सीखने के किस आयाम को उजागर करता है?",
+              "en": "A teacher keeps her learners busy in many types of collaborative activities; such as group-discussion, group-projects, role-play etc. This highlights which dimension of learning?"
+            },
+            "options": [
+              {
+                "hi": "सामाजिक गतिविधि के रूप में अधिगम",
+                "en": "Learning as a social activity"
+              },
+              {
+                "hi": "मनोरंजन द्वारा अधिगम",
+                "en": "Learning through recreation"
+              },
+              {
+                "hi": "भाषा-निर्देशित अधिगम",
+                "en": "Language-directed learning"
+              },
+              {
+                "hi": "प्रतियोगिता-आधारित अधिगम",
+                "en": "Competition-based learning"
+              }
+            ],
+            "answer": {
+              "hi": "सामाजिक गतिविधि के रूप में अधिगम",
+              "en": "Learning as a social activity"
+            }
+          },
+          {
+            "q": {
+              "hi": "जब एक शिक्षिका दृष्टिबाधित शिक्षार्थी को कक्षा के अन्य शिक्षार्थियों के साथ सामूहिक गतिविधियों में शामिल करती है, तो वह",
+              "en": "When a teacher includes a visually impaired learner in group activities with other learners of the class, she is"
+            },
+            "options": [
+              {
+                "hi": "कक्षा के लिए सीखने हेतु बाधाएँ उत्पन्न कर रही है",
+                "en": "Creating barriers to learning for the class"
+              },
+              {
+                "hi": "समावेशी शिक्षा की भावना के अनुसार कार्य कर रही है",
+                "en": "Working according to the spirit of inclusive education"
+              },
+              {
+                "hi": "सभी शिक्षार्थियों में दृष्टिबाधित शिक्षार्थी के प्रति सहानुभूति विकसित करने में मदद कर रही है",
+                "en": "Helping to develop empathy in all learners towards the visually impaired learner"
+              },
+              {
+                "hi": "दृष्टिबाधित शिक्षार्थी पर सम्भवतः तनाव बढ़ा रही है",
+                "en": "Possibly increasing stress on the visually impaired learner"
+              }
+            ],
+            "answer": {
+              "hi": "समावेशी शिक्षा की भावना के अनुसार कार्य कर रही है",
+              "en": "Working according to the spirit of inclusive education"
+            }
+          },
+          {
+            "q": {
+              "hi": "कोहलबर्ग के अनुसार, सही और गलत के प्रश्न के बारे में निर्णय लेने में शामिल, चिन्तन-प्रक्रिया को कहा जाता है",
+              "en": "According to Kohlberg, the thinking process involved in judgments about questions of right and wrong is called"
+            },
+            "options": [
+              {
+                "hi": "सहयोग की नैतिकता",
+                "en": "Morality of cooperation"
+              },
+              {
+                "hi": "नैतिक तर्कणा",
+                "en": "Moral reasoning"
+              },
+              {
+                "hi": "नैतिक यथार्थवाद",
+                "en": "Moral realism"
+              },
+              {
+                "hi": "नैतिक दुविधा",
+                "en": "Moral dilemma"
+              }
+            ],
+            "answer": {
+              "hi": "नैतिक तर्कणा",
+              "en": "Moral reasoning"
+            }
+          },
+          {
+            "q": {
+              "hi": "शिक्षकों को यह सलाह दी जाती है कि वे अपने शिक्षार्थियों को सामूहिक गतिविधियों में शामिल करें क्योंकि सीखने को सुगम बनाने के अतिरिक्त, ये..... में भी सहायता करती हैं।",
+              "en": "Teachers are advised to involve their learners in collaborative activities because, besides facilitating learning, these also help in....."
+            },
+            "options": [
+              {
+                "hi": "दुश्चिता",
+                "en": "Anxiety"
+              },
+              {
+                "hi": "समाजीकरण",
+                "en": "Socialization"
+              },
+              {
+                "hi": "मूल्य द्वन्द्व",
+                "en": "Value conflict"
+              },
+              {
+                "hi": "आक्रामकता",
+                "en": "Aggression"
+              }
+            ],
+            "answer": {
+              "hi": "समाजीकरण",
+              "en": "Socialization"
+            }
+          },
+          {
+            "q": {
+              "hi": "निम्नलिखित में से ..... के अतिरिक्त सभी वातावरणीय कारक विकास को आकार देते हैं।",
+              "en": "All environmental factors shape development except....."
+            },
+            "options": [
+              {
+                "hi": "पौष्टिकता की गुणवत्ता",
+                "en": "Quality of nutrition"
+              },
+              {
+                "hi": "संस्कृति",
+                "en": "Culture"
+              },
+              {
+                "hi": "शिक्षा की गुणात्मकता",
+                "en": "Quality of education"
+              },
+              {
+                "hi": "शारीरिक गठन",
+                "en": "Physique"
+              }
+            ],
+            "answer": {
+              "hi": "शारीरिक गठन",
+              "en": "Physique"
+            }
+          },
+          {
+            "q": {
+              "hi": "समावेशी शिक्षा किस विद्यालयी शिक्षा व्यवस्था की ओर संकेत करती है?",
+              "en": "Inclusive education refers to which school education system?"
+            },
+            "options": [
+              {
+                "hi": "विशेष आवश्यकता वाले बच्चों को विशिष्ट विद्यालयों के माध्यम से शिक्षा देने को प्रोत्साहित करती है",
+                "en": "Encourages education of children with special needs through special schools"
+              },
+              {
+                "hi": "केवल बालिका शिक्षा को बढ़ावा देने की आवश्यकता पर बल देती है",
+                "en": "Emphasizes the need to promote only girls' education"
+              },
+              {
+                "hi": "जो सभी निर्योग्य बच्चों को शामिल करती है",
+                "en": "Which includes all disabled children"
+              },
+              {
+                "hi": "जो उनकी शारीरिक, बौद्धिक, सामाजिक, भाषिक या अन्य विभिन्न योग्यता स्थितियों को ध्यान में रखे बगैर सभी बच्चों को शामिल करती है",
+                "en": "Which includes all children regardless of their physical, intellectual, social, linguistic, or other different ability conditions"
+              }
+            ],
+            "answer": {
+              "hi": "जो उनकी शारीरिक, बौद्धिक, सामाजिक, भाषिक या अन्य विभिन्न योग्यता स्थितियों को ध्यान में रखे बगैर सभी बच्चों को शामिल करती है",
+              "en": "Which includes all children regardless of their physical, intellectual, social, linguistic, or other different ability conditions"
+            }
+          }
+        ],
+        "section3": [
+          {
+            "q": {
+              "hi": "निम्नलिखित में से कौन-सा मुख्य रूप से आनुवांशिकता सम्बन्धी कारक है?",
+              "en": "Which of the following is mainly a heredity-related factor?"
+            },
+            "options": [
+              {
+                "hi": "आँखों का रंग",
+                "en": "Color of eyes"
+              },
+              {
+                "hi": "सामाजिक गतिविधियों में भागीदारिता",
+                "en": "Participation in social activities"
+              },
+              {
+                "hi": "समकक्ष व्यक्तियों के समूह के प्रति अभिवृत्ति",
+                "en": "Attitude towards peer group"
+              },
+              {
+                "hi": "चिन्तन पैटर्न",
+                "en": "Thinking pattern"
+              }
+            ],
+            "answer": {
+              "hi": "आँखों का रंग",
+              "en": "Color of eyes"
+            }
+          },
+          {
+            "q": {
+              "hi": "शिक्षकों को अपने विद्यार्थियों की त्रुटियों का अध्ययन करना चाहिए, क्योंकि वे प्राय.......... की ओर संकेत करती हैं।",
+              "en": "Teachers should study the errors of their students, because they often point towards.........."
+            },
+            "options": [
+              {
+                "hi": "योग्यताओं के अनुसार समूह बनाने हेतु दिशानिर्देश",
+                "en": "Guidelines for forming groups according to abilities"
+              },
+              {
+                "hi": "भिन्न प्रकार की पाठ्यचर्या की आवश्यकता",
+                "en": "Need for a different type of curriculum"
+              },
+              {
+                "hi": "उनके ज्ञान की सीमा",
+                "en": "Limits of their knowledge"
+              },
+              {
+                "hi": "आवश्यक उपचारात्मक युक्तियों",
+                "en": "Necessary remedial strategies"
+              }
+            ],
+            "answer": {
+              "hi": "आवश्यक उपचारात्मक युक्तियों",
+              "en": "Necessary remedial strategies"
+            }
+          },
+          {
+            "q": {
+              "hi": "सीमा हर पाठ को बहुत जल्दी सीख लेती है जबकि लीना उसे सीखने में ज्यादा समय लेती है। यह विकास के किस सिद्धान्त को दर्शाता है?",
+              "en": "Seema learns every lesson very quickly, whereas Leena takes more time to learn it. This shows which principle of development?"
+            },
+            "options": [
+              {
+                "hi": "वैयक्तिक भिन्नता",
+                "en": "Individual difference"
+              },
+              {
+                "hi": "अन्तः सम्बन्ध",
+                "en": "Inter-relation"
+              },
+              {
+                "hi": "निरन्तरता",
+                "en": "Continuity"
+              },
+              {
+                "hi": "सामान्य से विशिष्ट की ओर",
+                "en": "From general to specific"
+              }
+            ],
+            "answer": {
+              "hi": "वैयक्तिक भिन्नता",
+              "en": "Individual difference"
+            }
+          },
+          {
+            "q": {
+              "hi": "श्रवण ह्रास से ग्रसित बच्चे कक्षा में किस सबसे मुख्य नैराश्य (कुण्ठा) का सामना करते हैं?",
+              "en": "What is the main frustration faced by hearing-impaired children in the classroom?"
+            },
+            "options": [
+              {
+                "hi": "दूसरों के साथ सम्प्रेषण करने तथा सूचनाओं को बाँटने में अक्षमता",
+                "en": "Inability to communicate and share information with others"
+              },
+              {
+                "hi": "दूसरे विद्यार्थियों के साथ परीक्षा देने में अक्षमता",
+                "en": "Inability to take exams with other students"
+              },
+              {
+                "hi": "प्रस्तावित पाठ्य-पुस्तक को पढ़ने की अक्षमता",
+                "en": "Inability to read the proposed textbook"
+              },
+              {
+                "hi": "खेल-कूद में भागीदारिता निभाने में अक्षमता",
+                "en": "Inability to participate in sports"
+              }
+            ],
+            "answer": {
+              "hi": "दूसरों के साथ सम्प्रेषण करने तथा सूचनाओं को बाँटने में अक्षमता",
+              "en": "Inability to communicate and share information with others"
+            }
+          },
+          {
+            "q": {
+              "hi": "'डिस्लेक्सिया' मुख्य रूप से........ समस्या से सम्बन्धित है।",
+              "en": "'Dyslexia' is mainly related to........ problem."
+            },
+            "options": [
+              {
+                "hi": "सुनने",
+                "en": "Hearing"
+              },
+              {
+                "hi": "पढ़ने",
+                "en": "Reading"
+              },
+              {
+                "hi": "बोलने",
+                "en": "Speaking"
+              },
+              {
+                "hi": "बोलने व सुनने",
+                "en": "Speaking and hearing"
+              }
+            ],
+            "answer": {
+              "hi": "पढ़ने",
+              "en": "Reading"
+            }
+          },
+          {
+            "q": {
+              "hi": "प्रतिभाशाली विद्यार्थी अपनी क्षमताओं को तब विकसित कर पाएँगे, जब",
+              "en": "Gifted students will be able to develop their potential when"
+            },
+            "options": [
+              {
+                "hi": "बार-बार उनकी परीक्षा होगी",
+                "en": "They are tested repeatedly"
+              },
+              {
+                "hi": "वे अन्य विद्यार्थियों के साथ अधिगम-प्रक्रिया से जुड़ते हैं",
+                "en": "They participate in the learning process with other students"
+              },
+              {
+                "hi": "उन्हें अन्य विद्यार्थियों से अलग किया जाएगा",
+                "en": "They are separated from other students"
+              },
+              {
+                "hi": "वे निजी कोचिंग कक्षाओं में पढ़ेंगे",
+                "en": "They study in private coaching classes"
+              }
+            ],
+            "answer": {
+              "hi": "वे अन्य विद्यार्थियों के साथ अधिगम-प्रक्रिया से जुड़ते हैं",
+              "en": "They participate in the learning process with other students"
+            }
+          },
+          {
+            "q": {
+              "hi": "एक अच्छी पाठ्य पुस्तक...... से बचती है।",
+              "en": "A good textbook avoids......"
+            },
+            "options": [
+              {
+                "hi": "लैंगिक समानता",
+                "en": "Gender equality"
+              },
+              {
+                "hi": "सामाजिक उत्तरदायित्व",
+                "en": "Social responsibility"
+              },
+              {
+                "hi": "लैंगिक पूर्वाग्रह",
+                "en": "Gender bias"
+              },
+              {
+                "hi": "लैंगिक संवेदनशीलता",
+                "en": "Gender sensitivity"
+              }
+            ],
+            "answer": {
+              "hi": "लैंगिक पूर्वाग्रह",
+              "en": "Gender bias"
+            }
+          },
+          {
+            "q": {
+              "hi": "पियाजे के अनुसार, संज्ञानात्मक विकास के किस चरण पर बच्चा 'वस्तु स्थायित्व' को प्रदर्शित करता है?",
+              "en": "According to Piaget, at which stage of cognitive development does a child exhibit 'object permanence'?"
+            },
+            "options": [
+              {
+                "hi": "मूर्त सक्रियात्मक चरण",
+                "en": "Concrete operational stage"
+              },
+              {
+                "hi": "औपचारिक सक्रियात्मक चरण",
+                "en": "Formal operational stage"
+              },
+              {
+                "hi": "संवेदीप्रेरक चरण",
+                "en": "Sensorimotor stage"
+              },
+              {
+                "hi": "पूर्व-सक्रियात्मक चरण",
+                "en": "Pre-operational stage"
+              }
+            ],
+            "answer": {
+              "hi": "संवेदीप्रेरक चरण",
+              "en": "Sensorimotor stage"
+            }
+          },
+          {
+            "q": {
+              "hi": "एक शिक्षिका अपने शिक्षण में दृश्य-श्रव्य सामग्रियों और शारीरिक गतिविधियों का प्रयोग करती है, क्योंकि",
+              "en": "A teacher uses audio-visual materials and physical activities in her teaching, because"
+            },
+            "options": [
+              {
+                "hi": "वे शिक्षक को आराम देते हैं",
+                "en": "They give rest to the teacher"
+              },
+              {
+                "hi": "वे प्रभावी आकलन को सुगम बनाते हैं",
+                "en": "They facilitate effective assessment"
+              },
+              {
+                "hi": "वे शिक्षार्थियों को वैविध्य उपलब्ध कराते हैं",
+                "en": "They provide variety to learners"
+              },
+              {
+                "hi": "इनमें अधिकतम इन्द्रियों का उपयोग सीखने को संवर्द्धित करता है",
+                "en": "Maximum use of senses in them enhances learning"
+              }
+            ],
+            "answer": {
+              "hi": "इनमें अधिकतम इन्द्रियों का उपयोग सीखने को संवर्द्धित करता है",
+              "en": "Maximum use of senses in them enhances learning"
+            }
+          },
+          {
+            "q": {
+              "hi": "एक विद्यार्थी अपने समकक्ष व्यक्तियों के समूह के प्रति आक्रामक व्यवहार करता है और विद्यालय के मानदण्डों को नहीं मानता। इस विद्यार्थी को ....... में सहायता की आवश्यकता है।",
+              "en": "A student behaves aggressively towards his peer group and does not accept school norms. This student needs help in......."
+            },
+            "options": [
+              {
+                "hi": "उच्चस्तरीय चिन्तन कौशल",
+                "en": "Higher-order thinking skills"
+              },
+              {
+                "hi": "संज्ञानात्मक क्षेत्र",
+                "en": "Cognitive domain"
+              },
+              {
+                "hi": "मनोगत्यात्मक क्षेत्र",
+                "en": "Psychomotor domain"
+              },
+              {
+                "hi": "भावात्मक क्षेत्र",
+                "en": "Affective domain"
+              }
+            ],
+            "answer": {
+              "hi": "भावात्मक क्षेत्र",
+              "en": "Affective domain"
+            }
+          }
+        ]
+      }
   }
 }
 
