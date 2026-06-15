@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contact Us - SciTech Bihar</title>
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family: Arial, sans-serif;
+    background:#f4f7fb;
+    color:#333;
+}
+
+header{
+    background:#0d47a1;
+    color:white;
+    padding:20px;
+    text-align:center;
+}
+
+header h1{
+    margin-bottom:5px;
+}
+
+.container{
+    width:90%;
+    max-width:1100px;
+    margin:30px auto;
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:25px;
+}
+
+.contact-info,
+.contact-form{
+    background:white;
+    padding:25px;
+    border-radius:12px;
+    box-shadow:0 4px 10px rgba(0,0,0,0.1);
+}
+
+h2{
+    margin-bottom:15px;
+    color:#0d47a1;
+}
+
+.contact-info p{
+    margin:12px 0;
+    line-height:1.6;
+}
+
+.contact-form form{
+    display:flex;
+    flex-direction:column;
+}
+
+.contact-form input,
+.contact-form textarea{
+    padding:12px;
+    margin-bottom:15px;
+    border:1px solid #ccc;
+    border-radius:8px;
+    font-size:16px;
+}
+
+.contact-form textarea{
+    resize:none;
+    height:120px;
+}
+
+.contact-form button{
+    background:#0d47a1;
+    color:white;
+    padding:12px;
+    border:none;
+    border-radius:8px;
+    font-size:16px;
+    cursor:pointer;
+    transition:0.3s;
+}
+
+.contact-form button:hover{
+    background:#1565c0;
+}
+
+footer{
+    text-align:center;
+    padding:15px;
+    background:#0d47a1;
+    color:white;
+    margin-top:30px;
+}
+
+.social-links a{
+    text-decoration:none;
+    color:#0d47a1;
+    margin-right:15px;
+    font-weight:bold;
+}
+
+@media(max-width:768px){
+    .container{
+        grid-template-columns:1fr;
+    }
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>Contact Us</h1>
+    <p>Welcome to SciTech Bihar</p>
+</header>
+
+<header>
+    <h1>Contact Us</h1>
+    <p>Welcome to SciTech Bihar</p>
+
+    <button onclick="history.back()" class="back-btn">
+        ⬅ Back
+    </button>
+</header>
+
+<div class="container">
+
+    <!-- Contact Information -->
+    <div class="contact-info">
+        <h2>Get in Touch</h2>
+
+        <p><strong>Email:</strong> azimanwar327@gmail.com</p>
+
+        <p><strong>Website:</strong> www.scitechbihar.in</p>
+
+        <p><strong>Location:</strong> Bihar, India</p>
+
+        <h2>Follow Us</h2>
+
+        <div class="social-links">
+            <a href="https://www.youtube.com/@AzimAnwar-h4n" target="_blank">
+                YouTube
+            </a>
+
+            <a href="#">
+                Facebook
+            </a>
+
+            <a href="#">
+                Instagram
+            </a>
+        </div>
+    </div>
+
+    <!-- Contact Form -->
+    <div class="contact-form">
+        <h2>Send Message</h2>
+
+        <form>
+            <input type="text" placeholder="Your Name" required>
+
+            <input type="email" placeholder="Your Email" required>
+
+            <input type="text" placeholder="Subject">
+
+            <textarea placeholder="Write your message here..." required></textarea>
+
+            <button type="submit">Send Message</button>
+        </form>
+    </div>
+
+</div>
+
+<footer>
+    © 2026 SciTech Bihar | All Rights Reserved
+</footer>
+
+</body>
+</html>
