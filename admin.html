@@ -101,15 +101,24 @@ const teachersList =
 document.getElementById("teachersList");
 
 const requestsList =
-document.getElementById("requestsList");
+document.getElementById("requestsList"); 
+let allTeachers = [];
+
+
+
+
 
 onValue(ref(db,"teachers"), (snapshot)=>{
 
-teachersList.innerHTML="";
+teachersList.innerHTML = "";
+
+allTeachers = [];
 
 snapshot.forEach((child)=>{
 
 const t = child.val();
+
+allTeachers.push(t);
 
 teachersList.innerHTML += `
 <div class="card">
@@ -124,57 +133,64 @@ Experience: ${t.experience} Years
 
 });
 
+
 onValue(ref(db,"parentRequests"), (snapshot)=>{
 
-requestsList.innerHTML="";
+requestsList.innerHTML = "";
 
 snapshot.forEach((child)=>{
 
 const r = child.val();
 
+const matched = allTeachers.filter(t =>
+
+t.subject &&
+t.subject.toLowerCase() ===
+r.subject.toLowerCase()
+
+);
+
 requestsList.innerHTML += `
+
 <div class="card">
 
-```
-const subjectNeeded =
-r.subject.toLowerCase();
+<b>${r.studentName}</b><br>
 
-let matchedTeachers = "";
+Parent: ${r.parentName}<br>
 
-teachersSnapshot.forEach((teacherChild)=>{
+Class: ${r.className}<br>
 
-const t = teacherChild.val();
+Subject Needed: ${r.subject}<br>
 
-if(
-t.subject &&
-t.subject.toLowerCase() === subjectNeeded
-){
+Medium: ${r.medium}<br>
 
-matchedTeachers += `
-<li>
-${t.name}
-(${t.subject})
-</li>
-`;
+WhatsApp: ${r.whatsapp}<br>
 
+<hr>
+
+<b>Matched Teachers:</b>
+
+<ul>
+
+${matched.length ?
+
+matched.map(t =>
+`<li>${t.name} (${t.subject})</li>`
+).join("") 
+:
+"<li>No Teacher Found</li>"
 }
 
-});
-```
+</ul>
 
-
-<b>${r.studentName}</b><br>
-Parent: ${r.parentName}<br>
-Class: ${r.className}<br>
-Subject: ${r.subject}<br>
-Medium: ${r.medium}<br>
-WhatsApp: ${r.whatsapp}
 </div>
+
 `;
 
 });
 
 });
+
 
 </script>
 
