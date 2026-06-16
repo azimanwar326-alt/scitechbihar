@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Admin Panel</title>
+
+<style>
+
+body{
+    font-family:Arial,sans-serif;
+    background:#f5f7fb;
+    padding:20px;
+}
+
+h1,h2{
+    color:#1565c0;
+}
+
+.section{
+    background:white;
+    padding:20px;
+    margin-bottom:20px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+
+.card{
+    border:1px solid #ddd;
+    padding:15px;
+    margin-top:10px;
+    border-radius:8px;
+}
+
+.back-btn{
+    padding:10px 15px;
+    border:none;
+    background:#1565c0;
+    color:white;
+    border-radius:6px;
+    cursor:pointer;
+    margin-bottom:20px;
+}
+
+</style>
+</head>
+
+<body>
+
+<button onclick="history.back()" class="back-btn">
+← Back
+</button>
+
+<h1>Admin Panel</h1>
+
+<div class="section">
+<h2>Registered Teachers</h2>
+<div id="teachersList"></div>
+</div>
+
+<div class="section">
+<h2>Parent Requests</h2>
+<div id="requestsList"></div>
+</div>
+
+<script type="module">
+
+import { initializeApp }
+from "https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js";
+
+import {
+getDatabase,
+ref,
+onValue
+}
+from "https://www.gstatic.com/firebasejs/10.12.2/firebase-database.js";
+
+const firebaseConfig = {
+
+apiKey: "AIzaSyDZUuQ1xid9vcKryIWi5rmM13Pq-tioyow",
+
+authDomain: "scitechbihar-academy.firebaseapp.com",
+
+databaseURL: "https://scitechbihar-academy-default-rtdb.asia-southeast1.firebasedatabase.app",
+
+projectId: "scitechbihar-academy",
+
+storageBucket: "scitechbihar-academy.appspot.com",
+
+messagingSenderId: "489533985206",
+
+appId: "1:489533985206:web:ed29ff09b109272f543117"
+
+};
+
+const app = initializeApp(firebaseConfig);
+const db = getDatabase(app);
+
+const teachersList =
+document.getElementById("teachersList");
+
+const requestsList =
+document.getElementById("requestsList");
+
+onValue(ref(db,"teachers"), (snapshot)=>{
+
+teachersList.innerHTML="";
+
+snapshot.forEach((child)=>{
+
+const t = child.val();
+
+teachersList.innerHTML += `
+<div class="card">
+<b>${t.name}</b><br>
+Subject: ${t.subject}<br>
+Qualification: ${t.qualification}<br>
+Experience: ${t.experience} Years
+</div>
+`;
+
+});
+
+});
+
+onValue(ref(db,"parentRequests"), (snapshot)=>{
+
+requestsList.innerHTML="";
+
+snapshot.forEach((child)=>{
+
+const r = child.val();
+
+requestsList.innerHTML += `
+<div class="card">
+
+```
+const subjectNeeded =
+r.subject.toLowerCase();
+
+let matchedTeachers = "";
+
+teachersSnapshot.forEach((teacherChild)=>{
+
+const t = teacherChild.val();
+
+if(
+t.subject &&
+t.subject.toLowerCase() === subjectNeeded
+){
+
+matchedTeachers += `
+<li>
+${t.name}
+(${t.subject})
+</li>
+`;
+
+}
+
+});
+```
+
+
+<b>${r.studentName}</b><br>
+Parent: ${r.parentName}<br>
+Class: ${r.className}<br>
+Subject: ${r.subject}<br>
+Medium: ${r.medium}<br>
+WhatsApp: ${r.whatsapp}
+</div>
+`;
+
+});
+
+});
+
+</script>
+
+</body>
+</html>
