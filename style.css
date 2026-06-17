@@ -22,11 +22,34 @@ body, html {
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
+
+
+
 .logo {
-    font-size: 1.8rem;
-    font-weight: bold;
-    color: white;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-left: 20px; /* लोगो को बाईं ओर रखें */
 }
+
+.logo img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+
+.logo h1,
+.logo a {
+    color: #fff;          /* सफेद रंग */
+    font-size: 2.5rem;
+    font-weight: 700;
+    text-decoration: none;
+    white-space: nowrap;  /* SciTech Bihar एक ही लाइन में रहेगा */
+    margin: 0;
+}
+
+
+
 
 .nav-links {
     display: flex;
@@ -1402,3 +1425,80 @@ button.wrong {
   color: white;        /* टेक्स्ट का रंग सफेद */
 }
 
+
+
+
+
+/* सबसे पहले ये सुनिश्चित करें कि .card की कॉमन स्टाइल ये है */
+.card {
+    padding: 20px;
+    margin: 10px;
+    border-radius: 12px;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.3s;
+    color: white; /* टेक्स्ट का रंग सफेद */
+    display: block; /* यह सुनिश्चित करेगा कि यह ठीक से दिखे */
+}
+
+/* अब प्रत्येक क्लास के लिए सिर्फ बैकग्राउंड कलर रखें */
+.cdp { background-color: #3498db !important; }
+.cdp:hover { background-color: #2980b9 !important; }
+
+.phy { background-color: #9b59b6 !important; }
+.phy:hover { background-color: #8e44ad !important; }
+
+.che { background-color: #e67e22 !important; }
+.che:hover { background-color: #d35400 !important; }
+
+.his { background-color: #27ae60 !important; }
+.his:hover { background-color: #219150 !important; }
+
+
+
+
+.dropdown{
+    position:relative;
+}
+
+.dropdown > a{
+    color:white !important;
+}
+
+.dropdown-menu{
+    display:none;
+    position:absolute;
+    top:100%;
+    left:0;
+    background:white;
+    min-width:220px;
+    list-style:none;
+    padding:0;
+    margin:0;
+    box-shadow:0 4px 10px rgba(0,0,0,0.15);
+    z-index:1000;
+}
+
+.dropdown-menu li{
+    border-bottom:1px solid #eee;
+}
+
+.dropdown-menu li a{
+    display:block;
+    padding:12px;
+    color:#333;
+    text-decoration:none;
+}
+
+.dropdown-menu li a:hover{
+    background:#f5f5f5;
+}
+
+.dropdown:hover .dropdown-menu{
+    display:block;
+}
+
+.dropdown {
+    margin-left: 25%;
+}
