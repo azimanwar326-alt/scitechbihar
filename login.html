@@ -52,6 +52,21 @@ button{
     text-align:center;
     margin-top:10px;
 }
+
+.back-btn{
+    width:100%;
+    padding:12px;
+    margin-top:10px;
+    background:#6c757d;
+    color:white;
+    border:none;
+    border-radius:6px;
+    cursor:pointer;
+}
+
+.back-btn:hover{
+    background:#5a6268;
+}
 </style>
 </head>
 
@@ -68,6 +83,13 @@ button{
 <button onclick="login()">
 Login
 </button>
+
+
+<button onclick="history.back()" class="back-btn">
+← Back
+</button>
+
+<p id="error"></p>
 
 <p id="error"></p>
 
@@ -103,6 +125,9 @@ document.getElementById("error").innerHTML =
 }
 
 </script>
+
+</button>
+
 
 </body>
 </html>
