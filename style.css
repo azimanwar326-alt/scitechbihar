@@ -24,6 +24,32 @@ body, html {
 
 
 
+@media (max-width: 768px) {
+
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 15px;
+    box-sizing: border-box;
+    overflow: visible; /* hidden नहीं */
+  }
+
+  .menu-toggle,
+  .hamburger {
+    font-size: 30px;
+    color: #fff;
+    cursor: pointer;
+    margin-right: 10px;
+    z-index: 1001;
+    flex-shrink: 0;
+  }
+
+}
+
+
+
+
 
 .logo {
     display: flex;
