@@ -10,6 +10,10 @@ body, html {
 
 
 .navbar {
+     display:flex;
+    align-items:center;
+    justify-content:space-between;
+    padding:0 10px;
     background: linear-gradient(135deg, #1e3a8a, #3b82f6);
     padding: 0 10%;
     height: 70px;
@@ -27,6 +31,8 @@ body, html {
 @media (max-width: 768px) {
 
   .navbar {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -49,19 +55,23 @@ body, html {
 
 
 
-
-
-.logo {
-    display: flex;
-    align-items: center;
-    gap: 15px;
-    margin-left: 20px; /* लोगो को बाईं ओर रखें */
+.logo{
+    display:flex;
+    align-items:center;
+    gap:10px;
+    margin:0;
 }
 
-.logo img {
-    width: 60px;
-    height: 60px;
-    border-radius: 50%;
+.logo img{
+    width:60px;
+    height:60px;
+    border-radius:50%;
+}
+
+.logo span{
+    color:#fff;
+    font-size:28px;
+    font-weight:bold;
 }
 
 .logo h1,
