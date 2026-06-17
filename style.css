@@ -11,7 +11,7 @@ body, html {
 
 .navbar {
     background: linear-gradient(135deg, #1e3a8a, #3b82f6);
-    padding: 0 5%;
+    padding: 0 10%;
     height: 70px;
     display: flex;
     align-items: center;
@@ -116,7 +116,27 @@ body, html {
 }
 
 
+@media (max-width:768px){
 
+  .logo{
+      margin-left: 0;
+      gap: 8px;
+  }
+
+  .logo h1{
+      font-size: 1.4rem;
+  }
+
+  .dropdown{
+      margin-left: 0 !important;
+  }
+
+  .hamburger{
+      margin-right: 0 !important;
+      padding-right: 5px;
+  }
+
+}
 
 
 /* ================= HAMBURGER ================= */
@@ -1549,5 +1569,5 @@ button.wrong {
 }
 
 .dropdown {
-    margin-left: 25%;
+    margin-left: 0;
 }
