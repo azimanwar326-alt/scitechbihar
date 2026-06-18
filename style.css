@@ -12,6 +12,7 @@ body, html {
 .navbar {
      display:flex;
     align-items:center;
+    flex-wrap: nowrap;
     justify-content:space-between;
     padding:0 10px;
     background: linear-gradient(135deg, #1e3a8a, #3b82f6);
