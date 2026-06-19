@@ -13,7 +13,7 @@ let timerInterval; // <--- यह लाइन सुनिश्चित क�
 let timeLeft = 30;
 
 // URL पैरामीटर हटा दिए गए हैं। अब डेटा सीधे HTML के body attributes से लिया जाएगा।
-const classNum = document.body.getAttribute('data-class') || '6'; 
+const classNum = document.body.getAttribute('data-class') || '6' || '6cbse'; 
 const subject = document.body.getAttribute('data-sub') || 'sci'; 
 
 // डायनामिक फाइल का नाम और डेटा की 'Key' तय करना
@@ -241,3 +241,42 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 
 });
+
+
+
+
+
+
+const blogGrid = document.querySelector(".blog-grid");
+
+const latestBlogs = blogs.slice(0,4);
+
+latestBlogs.forEach(blog => {
+
+blogGrid.innerHTML += `
+<div class="blog-card">
+<img src="${blog.image}">
+<h3>${blog.title}</h3>
+<p>${blog.desc}</p>
+<a href="${blog.link}">Read Blog</a>
+</div>
+`;
+
+});
+
+
+
+function getBoxAnimation() {
+  const animations = document.getAnimations();
+  return animations[0]; // यह पहला एनिमेशन पकड़ता है
+}
+
+function pauseAnimation() {
+  const anim = getBoxAnimation();
+  if (anim) anim.pause();
+}
+
+function playAnimation() {
+  const anim = getBoxAnimation();
+  if (anim) anim.play();
+}
