@@ -1607,3 +1607,8 @@ button.wrong {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.grid-container{
+    display: grid;
+    grid-template-columns: 8% 8% 8% 8% 8% 8% 8% 8% 8% 8% 8% 8% ;
+}
