@@ -1585,30 +1585,43 @@ button.wrong {
 
 
 
+.grid-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+            padding: 20px 0; 
+            width: 100%;
+            /* यह कंटेनर को बॉक्स के रोटेशन के साथ एडजस्ट होने में मदद करेगा */
+            overflow: visible; 
+        }
 
+        .box-wrapper {
+            width: 30px;
+            height: 30px;
+            margin: 5px; /* आपस में दूरी */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-shrink: 0; /* यह बॉक्स को सिकुड़ने या कटने से रोकेगा */
+        }
 
+        .myBox {
+            width: 25px; /* साइज को थोड़ा कम किया ताकि रोटेशन में कोना न कटे */
+            height: 25px;
+            background: rgb(6, 233, 44);
+            color: #150dfb;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 14px;
+            font-weight: bold;
+            border-radius: 3px;
+            /* एनीमेशन को स्मूथ रखने के लिए */
+            animation: spin 3s linear infinite;
+        }
 
-#myBox {
-  width: 100px; 
-  height: 100px; 
-  background: rgb(6, 233, 44); 
-  margin: 50px;
-  animation: spin 3s linear infinite; /* यह लाइन बॉक्स 
-  cको घुमाती है */
-  color: #150dfb;
-  text-align: center;
-  font-size: larger;
-  display: flex;          /* लेआउट को फ्लेक्सिबल बनाता है */
-  justify-content: center; /* हॉरिजॉन्टल (क्षैतिज) सेंटर के लिए */
-  align-items: center;
-}
-
-@keyframes spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
-}
-
-.grid-container{
-    display: grid;
-    grid-template-columns: 8% 8% 8% 8% 8% 8% 8% 8% 8% 8% 8% 8% ;
-}
+        @keyframes spin {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+        }
