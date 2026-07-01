@@ -1585,43 +1585,43 @@ button.wrong {
 
 
 
+/* बॉडी का ओवरफ्लो रहने दें, बस कंटेनर को सुरक्षित करें */
 .grid-container {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            align-items: center;
-            padding: 20px 0; 
-            width: 100%;
-            /* यह कंटेनर को बॉक्स के रोटेशन के साथ एडजस्ट होने में मदद करेगा */
-            overflow: visible; 
-        }
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    /* किनारों पर 20px की अतिरिक्त जगह दें ताकि स्पिनिंग बक्से कटें नहीं */
+    padding: 20px 20px; 
+    width: calc(100% - 40px); /* 100% चौड़ाई में से 40px कम कर दी */
+    margin: 0 auto;
+    overflow: visible; /* यह बहुत जरूरी है */
+    box-sizing: border-box;
+}
+    /* यह बॉक्स की जगह को फिक्स रखेगा ताकि वे ओवरलैप न हों */
+    .box-wrapper {
+        width: 45px;
+        height: 45px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
 
-        .box-wrapper {
-            width: 30px;
-            height: 30px;
-            margin: 5px; /* आपस में दूरी */
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            flex-shrink: 0; /* यह बॉक्स को सिकुड़ने या कटने से रोकेगा */
-        }
+    .myBox {
+        width: 35px;
+        height: 35px;
+        background: rgb(6, 233, 44);
+        color: #150dfb;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 18px;
+        font-weight: bold;
+        border-radius: 5px;
+        animation: spin 3s linear infinite;
+    }
 
-        .myBox {
-            width: 25px; /* साइज को थोड़ा कम किया ताकि रोटेशन में कोना न कटे */
-            height: 25px;
-            background: rgb(6, 233, 44);
-            color: #150dfb;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            font-size: 14px;
-            font-weight: bold;
-            border-radius: 3px;
-            /* एनीमेशन को स्मूथ रखने के लिए */
-            animation: spin 3s linear infinite;
-        }
-
-        @keyframes spin {
-            from { transform: rotate(0deg); }
-            to { transform: rotate(360deg); }
-        }
+    @keyframes spin {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+    }
