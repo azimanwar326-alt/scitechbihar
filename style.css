@@ -1585,18 +1585,19 @@ button.wrong {
 
 
 
-/* बॉडी का ओवरफ्लो रहने दें, बस कंटेनर को सुरक्षित करें */
 .grid-container {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    /* किनारों पर 20px की अतिरिक्त जगह दें ताकि स्पिनिंग बक्से कटें नहीं */
-    padding: 20px 20px; 
-    width: calc(100% - 40px); /* 100% चौड़ाई में से 40px कम कर दी */
-    margin: 0 auto;
-    overflow: visible; /* यह बहुत जरूरी है */
-    box-sizing: border-box;
+    gap: 15px;
+    
+    /* यहाँ ध्यान दें: padding को बढ़ाएं */
+    padding: 30px 10px; 
+    
+    /* यह सबसे ज़रूरी है: इसे visible रखें */
+    overflow: visible; 
+    width: 100%;
 }
     /* यह बॉक्स की जगह को फिक्स रखेगा ताकि वे ओवरलैप न हों */
     .box-wrapper {
