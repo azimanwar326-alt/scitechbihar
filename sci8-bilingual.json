@@ -8606,9 +8606,672 @@
           "answer": {"hi": "4-6 घंटे", "en": "4-6 hours"}
         }
       ]
+    },
+    "chapter14": {
+      "section1": [
+        {
+          "q": {
+            "hi": "मानव आँख केवल उसी आकार की वस्तुओं को देख सकती है जो एक निश्चित सीमा से:",
+            "en": "The human eye can only see objects that are above a certain:"
+          },
+          "options": [
+            {"hi": "नीचे हों", "en": "Below"},
+            {"hi": "ऊपर हों", "en": "Above"},
+            {"hi": "बराबर हों", "en": "Equal"},
+            {"hi": "समान हों", "en": "Same"}
+          ],
+          "answer": {"hi": "ऊपर हों", "en": "Above"}
+        },
+        {
+          "q": {
+            "hi": "कांच का एक घुमावदार टुकड़ा जो छोटी चीजों को बड़ा दिखाता है, क्या कहलाता है?",
+            "en": "A curved piece of glass that makes small things look bigger is called a:"
+          },
+          "options": [
+            {"hi": "दर्पण", "en": "Mirror"},
+            {"hi": "लेंस", "en": "Lens"},
+            {"hi": "प्रिज्म", "en": "Prism"},
+            {"hi": "फ्लास्क", "en": "Flask"}
+          ],
+          "answer": {"hi": "लेंस", "en": "Lens"}
+        },
+        {
+          "q": {
+            "hi": "लेंस का नाम किस बीज के आकार पर रखा गया था, जो बीच में मोटा और किनारों पर पतला होता है?",
+            "en": "The lens was named after the shape of which seed, which is thick in the middle and thin at the edge?"
+          },
+          "options": [
+            {"hi": "मटर का बीज", "en": "Pea seed"},
+            {"hi": "मसूर का बीज", "en": "Lentil seed"},
+            {"hi": "सेम का बीज", "en": "Bean seed"},
+            {"hi": "गेहूं का दाना", "en": "Wheat grain"}
+          ],
+          "answer": {"hi": "मसूर का बीज", "en": "Lentil seed"}
+        },
+        {
+          "q": {
+            "hi": "सभी जीवित प्राणियों, चाहे वे पौधे हों या जानवर, को क्या कहा जाता है?",
+            "en": "All living beings, whether plants or animals, are called:"
+          },
+          "options": [
+            {"hi": "लेंस", "en": "Lenses"},
+            {"hi": "जीव (ऑर्गेनिज्म)", "en": "Organisms"},
+            {"hi": "कोशिकाएं", "en": "Cells"},
+            {"hi": "ऊतक", "en": "Tissues"}
+          ],
+          "answer": {"hi": "जीव (ऑर्गेनिज्म)", "en": "Organisms"}
+        },
+        {
+          "q": {
+            "hi": "पानी से भरा हुआ गोल पेंदी वाला फ्लास्क किस उपकरण की तरह कार्य करता है?",
+            "en": "A round-bottom flask filled with water acts like a:"
+          },
+          "options": [
+            {"hi": "सूक्ष्मदर्शी", "en": "Microscope"},
+            {"hi": "आवर्धक कांच (मैग्नीफाइंग ग्लास)", "en": "Magnifying glass"},
+            {"hi": "दर्पण", "en": "Mirror"},
+            {"hi": "फिल्टर पेपर", "en": "Filter paper"}
+          ],
+          "answer": {"hi": "आवर्धक कांच (मैग्नीफाइंग ग्लास)", "en": "Magnifying glass"}
+        },
+        {
+          "q": {
+            "hi": "वर्ष 1665 में 'माइक्रोग्राफिया' नामक पुस्तक किस वैज्ञानिक ने प्रकाशित की थी?",
+            "en": "Which scientist published a book called Micrographia in the year 1665?"
+          },
+          "options": [
+            {"hi": "रॉबर्ट हुक", "en": "Robert Hooke"},
+            {"hi": "एंटनी वैन लीवेनहोक", "en": "Antonie van Leeuwenhoek"},
+            {"hi": "डॉ. आनंद मोहन चक्रवर्ती", "en": "Dr. Ananda Mohan Chakrabarty"},
+            {"hi": "रॉबर्ट ब्राउन", "en": "Robert Brown"}
+          ],
+          "answer": {"hi": "रॉबर्ट हुक", "en": "Robert Hooke"}
+        },
+        {
+          "q": {
+            "hi": "रॉबर्ट हुक का सूक्ष्मदर्शी वस्तुओं को सामान्य आंख की तुलना में कितने गुना बड़ा दिखा सकता था?",
+            "en": "Robert Hooke's microscope made things look how many times bigger than the unaided eye?"
+          },
+          "options": [
+            {"hi": "10 से 20 गुना", "en": "10 to 20 times"},
+            {"hi": "50 से 100 गुना", "en": "50 to 100 times"},
+            {"hi": "200 से 300 गुना", "en": "200 to 300 times"},
+            {"hi": "1000 गुना", "en": "1000 times"}
+          ],
+          "answer": {"hi": "200 से 300 गुना", "en": "200 to 300 times"}
+        },
+        {
+          "q": {
+            "hi": "रॉबर्ट हुक ने कॉर्क के पतले टुकड़े में दिखाई देने वाले छोटे खाली स्थानों को क्या नाम दिया?",
+            "en": "What did Robert Hooke call each small empty space he saw in a thin slice of cork?"
+          },
+          "options": [
+            {"hi": "ऊतक (टिश्यू)", "en": "Tissue"},
+            {"hi": "कोशिका (सेल)", "en": "Cell"},
+            {"hi": "नाभिक", "en": "Nucleus"},
+            {"hi": "कवक", "en": "Fungus"}
+          ],
+          "answer": {"hi": "कोशिका (सेल)", "en": "Cell"}
+        },
+        {
+          "q": {
+            "hi": "कॉर्क की कोशिकाएं देखने में किसके समान प्रतीत होती हैं?",
+            "en": "The compartments of cork cells reminded Robert Hooke of a:"
+          },
+          "options": [
+            {"hi": "मधुमक्खी के छत्ते", "en": "Honeycomb"},
+            {"hi": "ईंट की दीवार", "en": "Brick wall"},
+            {"hi": "प्याज की झिल्ली", "en": "Onion peel"},
+            {"hi": "पानी की बूंद", "en": "Water drop"}
+          ],
+          "answer": {"hi": "मधुमक्खी के छत्ते", "en": "Honeycomb"}
+        },
+        {
+          "q": {
+            "hi": "विज्ञान में जीवन की मूलभूत इकाई का वर्णन करने के लिए 'सेल' (कोशिका) शब्द का प्रयोग सबसे पहले कब किया गया था?",
+            "en": "When was the word cell first used in science to describe the basic unit of life?"
+          },
+          "options": [
+            {"hi": "1660", "en": "1660"},
+            {"hi": "1665", "en": "1665"},
+            {"hi": "1671", "en": "1671"},
+            {"hi": "1980", "en": "1980"}
+          ],
+          "answer": {"hi": "1665", "en": "1665"}
+        }
+      ],
+      "section2": [
+        {
+          "q": {
+            "hi": "जीवाणु (बैक्टीरिया) और रक्त कोशिकाओं को स्पष्ट रूप से देखने और उनका वर्णन करने वाले पहले व्यक्ति कौन थे?",
+            "en": "Who was the first person to clearly see and describe tiny living things like bacteria and blood cells?"
+          },
+          "options": [
+            {"hi": "रॉबर्ट हुक", "en": "Robert Hooke"},
+            {"hi": "एंटनी वैन लीवेनहोक", "en": "Antonie van Leeuwenhoek"},
+            {"hi": "लॉबक्टोबैसिलस", "en": "Lactobacillus"},
+            {"hi": "आनंद मोहन", "en": "Ananda Mohan"}
+          ],
+          "answer": {"hi": "एंटनी वैन लीवेनहोक", "en": "Antonie van Leeuwenhoek"}
+        },
+        {
+          "q": {
+            "hi": "माइक्रोबायोलॉजी का जनक (Father of Microbiology) किसे कहा जाता है?",
+            "en": "Who is known as the Father of Microbiology?"
+          },
+          "options": [
+            {"hi": "रॉबर्ट हुक", "en": "Robert Hooke"},
+            {"hi": "एंटनी वैन लीवेनहोक", "en": "Antonie van Leeuwenhoek"},
+            {"hi": "अरस्तू", "en": "Aristotle"},
+            {"hi": "यीस्ट", "en": "Yeast"}
+          ],
+          "answer": {"hi": "एंटनी वैन लीवेनहोक", "en": "Antonie van Leeuwenhoek"}
+        },
+        {
+          "q": {
+            "hi": "प्याज की झिल्ली की कोशिकाओं को स्पष्ट रूप से देखने के लिए किस लाल रंग के रंजक (स्टेन) का उपयोग किया जाता है?",
+            "en": "Which red-coloured stain is used to see the cells of onion peel clearly?"
+          },
+          "options": [
+            {"hi": "मेथिलीन ब्लू", "en": "Methylene blue"},
+            {"hi": "सैफ्रानिन", "en": "Safranin"},
+            {"hi": "ग्लिसरीन", "en": "Glycerin"},
+            {"hi": "आयोडीन", "en": "Iodine"}
+          ],
+          "answer": {"hi": "सैफ्रानिन", "en": "Safranin"}
+        },
+        {
+          "q": {
+            "hi": "प्याज की झिल्ली तैयार करते समय स्लाइड पर ग्लिसरीन की एक बूंद क्यों डाली जाती है?",
+            "en": "Why is a drop of glycerin put over the onion peel on the slide?"
+          },
+          "options": [
+            {"hi": "कोशिकाओं को रंगने के लिए", "en": "To stain the cells"},
+            {"hi": "कोशिकाओं को सूखने से बचाने के लिए", "en": "To prevent drying of cells"},
+            {"hi": "हवा के बुलबुले बनाने के लिए", "en": "To create air bubbles"},
+            {"hi": "अतिरिक्त रंजक हटाने के लिए", "en": "To remove extra stain"}
+          ],
+          "answer": {"hi": "कोशिकाओं को सूखने से बचाने के लिए", "en": "To prevent drying of cells"}
+        },
+        {
+          "q": {
+            "hi": "सूक्ष्मदर्शी के नीचे देखने पर प्याज की झिल्ली की कोशिकाएं किस आकार की दिखाई देती हैं?",
+            "en": "What shape of structures do you observe when viewing onion peel under a microscope?"
+          },
+          "options": [
+            {"hi": "गोलाकार", "en": "Spherical"},
+            {"hi": "लगभग आयताकार", "en": "Nearly rectangular"},
+            {"hi": "ताराकार", "en": "Star-shaped"},
+            {"hi": "अनियमित", "en": "Irregular"}
+          ],
+          "answer": {"hi": "लगभग आयताकार", "en": "Nearly rectangular"}
+        },
+        {
+          "q": {
+            "hi": "मानव गाल की कोशिकाओं (cheek cells) को रंगने के लिए किस रंजक का उपयोग किया जाता है?",
+            "en": "Which stain is used to improve the visibility of human cheek cells?"
+          },
+          "options": [
+            {"hi": "सैफ्रानिन", "en": "Safranin"},
+            {"hi": "मेथिलीन ब्लू", "en": "Methylene blue"},
+            {"hi": "अल्कोहल", "en": "Alcohol"},
+            {"hi": "क्लोरोफिल", "en": "Chlorophyll"}
+          ],
+          "answer": {"hi": "मेथिलीन ब्लू", "en": "Methylene blue"}
+        },
+        {
+          "q": {
+            "hi": "सूक्ष्मदर्शी से देखने पर मानव गाल की कोशिकाएं किस आकृति की दिखाई देती हैं?",
+            "en": "What shaped structure will you observe in human cheek cells under the microscope?"
+          },
+          "options": [
+            {"hi": "आयताकार", "en": "Rectangular"},
+            {"hi": "बहुभुज आकार (polygon-shaped)", "en": "Polygon-shaped"},
+            {"hi": "स्पिंडल आकार", "en": "Spindle-shaped"},
+            {"hi": "धागे जैसी", "en": "Thread-like"}
+          ],
+          "answer": {"hi": "बहुभुज आकार (polygon-shaped)", "en": "Polygon-shaped"}
+        },
+        {
+          "q": {
+            "hi": "एक कोशिका के तीन मुख्य भाग कौन से होते हैं?",
+            "en": "What are the three main basic parts of a cell?"
+          },
+          "options": [
+            {"hi": "कोशिका भित्ति, क्लोरोप्लास्ट और रिक्तिका", "en": "Cell wall, Chloroplast and Vacuole"},
+            {"hi": "कोशिका झिल्ली, कोशिका द्रव्य और केंद्रक", "en": "Cell membrane, Cytoplasm and Nucleus"},
+            {"hi": "प्लास्टिड, माइटोकॉन्ड्रिया और न्यूक्लियॉइड", "en": "Plastid, Mitochondria and Nucleoid"},
+            {"hi": "त्वचा, ऊतक और अंग", "en": "Skin, Tissue and Organ"}
+          ],
+          "answer": {"hi": "कोशिका झिल्ली, कोशिका द्रव्य और केंद्रक", "en": "Cell membrane, Cytoplasm and Nucleus"}
+        },
+        {
+          "q": {
+            "hi": "कोशिका झिल्ली और केंद्रक के बीच का स्थान किससे भरा होता है?",
+            "en": "The space between the cell membrane and nucleus is filled with:"
+          },
+          "options": [
+            {"hi": "कोशिका भित्ति", "en": "Cell wall"},
+            {"hi": "कोशिका द्रव्य (साइटोप्लाज्म)", "en": "Cytoplasm"},
+            {"hi": "रिक्तिका (वैक्यूओल)", "en": "Vacuole"},
+            {"hi": "लैक्टोज", "en": "Lactose"}
+          ],
+          "answer": {"hi": "कोशिका द्रव्य (साइटोप्लाज्म)", "en": "Cytoplasm"}
+        },
+        {
+          "q": {
+            "hi": "कौन सी संरचना प्याज की झिल्ली की कोशिकाओं में पाई जाती है लेकिन मानव गाल की कोशिकाओं में नहीं?",
+            "en": "Which structure is present in onion peel cells but absent in human cheek cells?"
+          },
+          "options": [
+            {"hi": "कोशिका झिल्ली", "en": "Cell membrane"},
+            {"hi": "केंद्रक (न्यूक्लियस)", "en": "Nucleus"},
+            {"hi": "कोशिका भित्ति (सेल वॉल)", "en": "Cell wall"},
+            {"hi": "कोशिका द्रव्य", "en": "Cytoplasm"}
+          ],
+          "answer": {"hi": "कोशिका भित्ति (सेल वॉल)", "en": "Cell wall"}
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "कोशिका झिल्ली की क्या विशेषता है जो इसे आवश्यक पदार्थों के प्रवेश और अपशिष्ट के निकास की अनुमति देती है?",
+            "en": "What feature of the cell membrane allows the entry of essential materials and exit of waste?"
+          },
+          "options": [
+            {"hi": "यह कठोर होती है", "en": "It is rigid"},
+            {"hi": "यह छिद्रपूर्ण (सरंध्र/porous) होती है", "en": "It is porous"},
+            {"hi": "यह अभेद्य होती है", "en": "It is impermeable"},
+            {"hi": "यह गैर-जीवित होती है", "en": "It is non-living"}
+          ],
+          "answer": {"hi": "यह छिद्रपूर्ण (सरंध्र/porous) होती है", "en": "It is porous"}
+        },
+        {
+          "q": {
+            "hi": "अधिकांश जीवन प्रक्रियाएं (life processes) कोशिका के किस भाग के भीतर संपन्न होती हैं?",
+            "en": "Most of the life processes take place within the:"
+          },
+          "options": [
+            {"hi": "केंद्रक", "en": "Nucleus"},
+            {"hi": "कोशिका द्रव्य (साइटोप्लाज्म)", "en": "Cytoplasm"},
+            {"hi": "कोशिका भित्ति", "en": "Cell wall"},
+            {"hi": "रिक्तिका", "en": "Vacuole"}
+          ],
+          "answer": {"hi": "कोशिका द्रव्य (साइटोप्लाज्म)", "en": "Cytoplasm"}
+        },
+        {
+          "q": {
+            "hi": "कोशिका के भीतर होने वाली सभी गतिविधियों और वृद्धि को कौन नियंत्रित करता है?",
+            "en": "Which part regulates all activities and growth that occur within the cell?"
+          },
+          "options": [
+            {"hi": "रिक्तिका", "en": "Vacuole"},
+            {"hi": "क्लोरोप्लास्ट", "en": "Chloroplast"},
+            {"hi": "केंद्रक (न्यूक्लियस)", "en": "Nucleus"},
+            {"hi": "कोशिका झिल्ली", "en": "Cell membrane"}
+          ],
+          "answer": {"hi": "केंद्रक (न्यूक्लियस)", "en": "Nucleus"}
+        },
+        {
+          "q": {
+            "hi": "पादप कोशिकाओं में कोशिका भित्ति का मुख्य कार्य क्या है?",
+            "en": "What is the main function of the cell wall in plant cells?"
+          },
+          "options": [
+            {"hi": "प्रकाश संश्लेषण करना", "en": "To perform photosynthesis"},
+            {"hi": "दृढ़ता और मजबूती प्रदान करना", "en": "To provide rigidity and strength"},
+            {"hi": "संदेशों को प्रसारित करना", "en": "To transmit messages"},
+            {"hi": "वसा का संचय करना", "en": "To store fats"}
+          ],
+          "answer": {"hi": "दृढ़ता और मजबूती प्रदान करना", "en": "To provide rigidity and strength"}
+        },
+        {
+          "q": {
+            "hi": "पौधों के सभी भागों में पाई जाने वाली छोटी छड़ के आकार की संरचनाओं को क्या कहते हैं?",
+            "en": "What are the tiny rod-shaped structures found in all parts of a plant called?"
+          },
+          "options": [
+            {"hi": "प्लास्टिड", "en": "Plastids"},
+            {"hi": "न्यूक्लियॉइड", "en": "Nucleoids"},
+            {"hi": "न्यूरॉन्स", "en": "Neurons"},
+            {"hi": "कवकतंतु", "en": "Filaments"}
+          ],
+          "answer": {"hi": "प्लास्टिड", "en": "Plastids"}
+        },
+        {
+          "q": {
+            "hi": "क्लोरोप्लास्ट में कौन सा वर्णक होता है जो उन्हें हरा बनाता है और प्रकाश संश्लेषण में मदद करता है?",
+            "en": "Which pigment is contained in chloroplasts that makes them green and helps in photosynthesis?"
+          },
+          "options": [
+            {"hi": "हीमोग्लोबिन", "en": "Hemoglobin"},
+            {"hi": "क्लोरोफिल (पर्णहरित)", "en": "Chlorophyll"},
+            {"hi": "लैक्टोज", "en": "Lactose"},
+            {"hi": "सैफ्रानिन", "en": "Safranin"}
+          ],
+          "answer": {"hi": "क्लोरोफिल (पर्णहरित)", "en": "Chlorophyll"}
+        },
+        {
+          "q": {
+            "hi": "पादप कोशिका का वह बड़ा, खाली दिखने वाला स्थान जो अपशिष्ट निकालने और कोशिका का आकार बनाए रखने में मदद करता है, क्या कहलाता है?",
+            "en": "The large, empty-looking space in a plant cell that helps get rid of waste and maintain cell shape is a:"
+          },
+          "options": [
+            {"hi": "केंद्रक", "en": "Nucleus"},
+            {"hi": "रिक्तिका (वैक्यूओल)", "en": "Vacuole"},
+            {"hi": "माइटोकॉन्ड्रिया", "en": "Mitochondria"},
+            {"hi": "प्लास्टिड", "en": "Plastid"}
+          ],
+          "answer": {"hi": "रिक्तिका (वैक्यूओल)", "en": "Vacuole"}
+        },
+        {
+          "q": {
+            "hi": "मानव शरीर में स्पिंडल (तकला) के आकार की कोशिका कौन सी होती है?",
+            "en": "Which cell in humans is shaped like a spindle?"
+          },
+          "options": [
+            {"hi": "तंत्रिका कोशिका (नर्व सेल)", "en": "Nerve cell"},
+            {"hi": "पेशी कोशिका (मसल सेल)", "en": "Muscle cell"},
+            {"hi": "रक्त कोशिका", "en": "Blood cell"},
+            {"hi": "गाल की कोशिका", "en": "Cheek cell"}
+          ],
+          "answer": {"hi": "पेशी कोशिका (मसल सेल)", "en": "Muscle cell"}
+        },
+        {
+          "q": {
+            "hi": "मानव शरीर की कौन सी कोशिका बहुत लंबी होती है और उसमें शाखाएं होती हैं?",
+            "en": "Which human cell is very long and has branches?"
+          },
+          "options": [
+            {"hi": "पेशी कोशिका", "en": "Muscle cell"},
+            {"hi": "तंत्रिका कोशिका (नर्व सेल / न्यूरॉन)", "en": "Nerve cell / Neuron"},
+            {"hi": "त्वचा कोशिका", "en": "Skin cell"},
+            {"hi": "कॉर्क कोशिका", "en": "Cork cell"}
+          ],
+          "answer": {"hi": "तंत्रिका कोशिका (नर्व सेल / न्यूरॉन)", "en": "Nerve cell / Neuron"}
+        },
+        {
+          "q": {
+            "hi": "तंत्रिका कोशिकाओं की लंबी और शाखित संरचना उन्हें किस कार्य में मदद करती है?",
+            "en": "The elongated shape and branched structure of nerve cells help them to:"
+          },
+          "options": [
+            {"hi": "भोजन चबाने में", "en": "Churn food"},
+            {"hi": "तेजी से संदेश पहुंचाने में", "en": "Pass on messages quickly"},
+            {"hi": "ऑक्सीजन बनाने में", "en": "Produce oxygen"},
+            {"hi": "नाइट्रोजन स्थिर करने में", "en": "Fix nitrogen"}
+          ],
+          "answer": {"hi": "तेजी से संदेश पहुंचाने में", "en": "Pass on messages quickly"}
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "समान कोशिकाओं का समूह मिलकर क्या बनाता है?",
+            "en": "A group of similar cells forms a:"
+          },
+          "options": [
+            {"hi": "अंग (ऑर्गन)", "en": "Organ"},
+            {"hi": "ऊतक (टिश्यू)", "en": "Tissue"},
+            {"hi": "अंग प्रणाली", "en": "Organ system"},
+            {"hi": "जीव", "en": "Organism"}
+          ],
+          "answer": {"hi": "ऊतक (टिश्यू)", "en": "Tissue"}
+        },
+        {
+          "q": {
+            "hi": "शरीर के संगठन के विभिन्न स्तरों का सही क्रम क्या है?",
+            "en": "What is the correct sequence of the levels of organization?"
+          },
+          "options": [
+            {"hi": "ऊतक -> कोशिका -> अंग -> अंग प्रणाली -> जीव", "en": "Tissue -> Cell -> Organ -> Organ system -> Organism"},
+            {"hi": "कोशिका -> ऊतक -> अंग -> अंग प्रणाली -> जीव", "en": "Cell -> Tissue -> Organ -> Organ system -> Organism"},
+            {"hi": "अंग -> अंग प्रणाली -> कोशिका -> ऊतक -> जीव", "en": "Organ -> Organ system -> Cell -> Tissue -> Organism"},
+            {"hi": "जीव -> अंग प्रणाली -> अंग -> ऊतक -> कोशिका", "en": "Organism -> Organ system -> Organ -> Tissue -> Cell"}
+          ],
+          "answer": {"hi": "कोशिका -> ऊतक -> अंग -> अंग प्रणाली -> जीव", "en": "Cell -> Tissue -> Organ -> Organ system -> Organism"}
+        },
+        {
+          "q": {
+            "hi": "जीवों की जीवन की शुरुआत एक एकल कोशिका से होती है, जिसे क्या कहते हैं?",
+            "en": "The life of complex living organisms begins with a single cell called:"
+          },
+          "options": [
+            {"hi": "ऊतक", "en": "Tissue"},
+            {"hi": "अंडा (एग)", "en": "Egg"},
+            {"hi": "जीवाणु", "en": "Bacterium"},
+            {"hi": "अमीबा", "en": "Amoeba"}
+          ],
+          "answer": {"hi": "अंडा (एग)", "en": "Egg"}
+        },
+        {
+          "q": {
+            "hi": "सजीव जगत में सबसे बड़ी ज्ञात कोशिका कौन सी है?",
+            "en": "What is the largest known cell in the living world?"
+          },
+          "options": [
+            {"hi": "मानव तंत्रिका कोशिका", "en": "Human nerve cell"},
+            {"hi": "शुतुरमुर्ग के अंडे का पीला भाग (योल्क)", "en": "The yolk of an ostrich egg"},
+            {"hi": "प्याज की कोशिका", "en": "Onion cell"},
+            {"hi": "बृहत् जीवाणु", "en": "Large bacterium"}
+          ],
+          "answer": {"hi": "शुतुरमुर्ग के अंडे का पीला भाग (योल्क)", "en": "The yolk of an ostrich egg"}
+        },
+        {
+          "q": {
+            "hi": "शुतुरमुर्ग के अंडे के पीले भाग (योल्क) का व्यास लगभग कितना होता है?",
+            "en": "What is the diameter of the yolk of an ostrich egg?"
+          },
+          "options": [
+            {"hi": "10 मिमी से 50 मिमी", "en": "10 mm to 50 mm"},
+            {"hi": "130 मिमी से 170 मिमी", "en": "130 mm to 170 mm"},
+            {"hi": "500 मिमी", "en": "500 mm"},
+            {"hi": "1 मिमी से कम", "en": "Less than 1 mm"}
+          ],
+          "answer": {"hi": "130 मिमी से 170 मिमी", "en": "130 mm to 170 mm"}
+        },
+        {
+          "q": {
+            "hi": "अमीबा और जीवाणु (बैक्टीरिया) किस प्रकार के जीवों के उदाहरण हैं?",
+            "en": "Amoeba and bacteria are examples of which type of organisms?"
+          },
+          "options": [
+            {"hi": "बहुकोशिकीय (मल्टीसेल्यूलर)", "en": "Multicellular"},
+            {"hi": "एककोशिकीय (यूनिसेल्यूलर)", "en": "Unicellular"},
+            {"hi": "अकोशिकीय (एसेल्यूलर)", "en": "Acellular"},
+            {"hi": "ऊतक स्तरीय जीव", "en": "Tissue-level organisms"}
+          ],
+          "answer": {"hi": "एककोशिकीय (यूनिसेल्यूलर)", "en": "Unicellular"}
+        },
+        {
+          "q": {
+            "hi": "कागज से बना कम लागत वाला और मोड़ने योग्य सूक्ष्मदर्शी क्या कहलाता है?",
+            "en": "What is the low-cost and foldable paper microscope created by scientists called?"
+          },
+          "options": [
+            {"hi": "इलेक्ट्रॉन सूक्ष्मदर्शी", "en": "Electron microscope"},
+            {"hi": "फोल्डस्कोप", "en": "Foldscope"},
+            {"hi": "मैग्नीफायर", "en": "Magnifier"},
+            {"hi": "फ्लेक्सिस्कोप", "en": "Flexiscope"}
+          ],
+          "answer": {"hi": "फोल्डस्कोप", "en": "Foldscope"}
+        },
+        {
+          "q": {
+            "hi": "गंदे पानी या मिट्टी के घोल को स्थिर रखने के बाद जो ऊपरी परत का पानी मिलता है, उसे क्या कहते हैं?",
+            "en": "The fine particles of soil mixed with water is called a soil:"
+          },
+          "options": [
+            {"hi": "विलयन (सॉल्यूशन)", "en": "Solution"},
+            {"hi": "निलंबन (सस्पेंशन)", "en": "Suspension"},
+            {"hi": "मिश्रण", "en": "Mixture"},
+            {"hi": "Preservative"}
+          ],
+          "answer": {"hi": "निलंबन (सस्पेंशन)", "en": "Suspension"}
+        },
+        {
+          "q": {
+            "hi": "तालाब के पानी में पाए जाने वाले उस प्रोटोजोआ का नाम क्या है जिसका आकार अनियमित होता है?",
+            "en": "What is the name of the protozoa present in pond water that has an irregular shape?"
+          },
+          "options": [
+            {"hi": "पैरामीशियम", "en": "Paramecium"},
+            {"hi": "अमीबा", "en": "Amoeba"},
+            {"hi": "स्पाइरुलिना", "en": "Spirulina"},
+            {"hi": "लैक्टोबैसिलस", "en": "Lactobacillus"}
+          ],
+          "answer": {"hi": "अमीबा", "en": "Amoeba"}
+        },
+        {
+          "q": {
+            "hi": "अकोशिकीय (acellular) और केवल किसी जीवित कोशिका के भीतर ही गुणन करने वाले सूक्ष्म कण क्या कहलाते हैं?",
+            "en": "Microscopic and acellular entities that multiply only when they enter a living cell are called:"
+          },
+          "options": [
+            {"hi": "जीवाणु", "en": "Bacteria"},
+            {"hi": "विषाणु (वायरस)", "en": "Viruses"},
+            {"hi": "कवक", "en": "Fungi"},
+            {"hi": "शैवाल", "en": "Algae"}
+          ],
+          "answer": {"hi": "विषाणु (वायरस)", "en": "Viruses"}
+        }
+      ],
+      "section5": [
+        {
+          "q": {
+            "hi": "अचार और मुरब्बा जल्दी खराब क्यों नहीं होते?",
+            "en": "Why do microorganisms not infect pickles and murabbas easily?"
+          },
+          "options": [
+            {"hi": "क्योंकि वे अंधेरे में रखे जाते हैं", "en": "Because they are kept in the dark"},
+            {"hi": "नमक या चीनी की उच्च सांद्रता के कारण", "en": "Due to high concentration of salt or sugar"},
+            {"hi": "क्योंकि वे तेल से रहित होते हैं", "en": "Because they lack oil"},
+            {"hi": "विषाणुओं की उपस्थिति के कारण", "en": "Due to the presence of viruses"}
+          ],
+          "answer": {"hi": "नमक या चीनी की उच्च सांद्रता के कारण", "en": "Due to high concentration of salt or sugar"}
+        },
+        {
+          "q": {
+            "hi": "प्राचीन भारतीय ग्रंथों (विशेषकर वेदों) में सूक्ष्म जीवों के लिए किस शब्द का उल्लेख मिलता है?",
+            "en": "Which word is used in ancient Indian texts, particularly the Vedas, to refer to tiny entities?"
+          },
+          "options": [
+            {"hi": "कोशिका", "en": "Cell"},
+            {"hi": "कृमि (Krimi)", "en": "Krimi"},
+            {"hi": "लेंस", "en": "Lens"},
+            {"hi": "जीवाणु", "en": "Bacteria"}
+          ],
+          "answer": {"hi": "कृमि (Krimi)", "en": "Krimi"}
+        },
+        {
+          "q": {
+            "hi": "वेदों में वर्णित 'अदृश्य' शब्द का क्या अर्थ है?",
+            "en": "What does the word 'Adrishya' mean in the ancient Vedic texts?"
+          },
+          "options": [
+            {"hi": "दिखाई देने वाला", "en": "Visible"},
+            {"hi": "अदृश्य (जो दिखाई न दे)", "en": "Invisible"},
+            {"hi": "बड़ा", "en": "Large"},
+            {"hi": "हानिकारक", "en": "Harmful"}
+          ],
+          "answer": {"hi": "अदृश्य (जो दिखाई न दे)", "en": "Invisible"}
+        },
+        {
+          "q": {
+            "hi": "ऑक्सीजन मुक्त वातावरण में रहने वाले बैक्टीरिया द्वारा कचरे के अपघटन से मुख्य रूप से कौन सी ईंधन गैस बनती है?",
+            "en": "Decomposition of waste by bacteria in an oxygen-free environment releases a high proportion of which fuel gas?"
+          },
+          "options": [
+            {"hi": "ऑक्सीजन", "en": "Oxygen"},
+            {"hi": "मीथेन", "en": "Methane"},
+            {"hi": "नाइट्रोजन", "en": "Nitrogen"},
+            {"hi": "हाइड्रोजन", "en": "Hydrogen"}
+          ],
+          "answer": {"hi": "मीथेन", "en": "Methane"}
+        },
+        {
+          "q": {
+            "hi": "वर्ष 1971 में तेल रिसाव (oil spills) को तोड़ने वाले विशेष बैक्टीरिया का विकास किस वैज्ञानिक ने किया था?",
+            "en": "Which scientist developed a special bacterium in 1971 that could break down oil spills?"
+          },
+          "options": [
+            {"hi": "रॉबर्ट हुक", "en": "Robert Hooke"},
+            {"hi": "डॉ. आनंद मोहन चक्रवर्ती", "en": "Dr. Ananda Mohan Chakrabarty"},
+            {"hi": "लीवेनहोक", "en": "Leeuwenhoek"},
+            {"hi": "रॉबर्ट ब्राउन", "en": "Robert Brown"}
+          ],
+          "answer": {"hi": "डॉ. आनंद मोहन चक्रवर्ती", "en": "Dr. Ananda Mohan Chakrabarty"}
+        },
+        {
+          "q": {
+            "hi": "किसी आविष्कारक को दिया जाने वाला वह कानूनी अधिकार जिससे कोई उसकी अनुमति के बिना उसे कॉपी नहीं कर सकता, क्या कहलाता है?",
+            "en": "A copyright given to a person so that no one else can copy, use or sell his/her invention without permission is a:"
+          },
+          "options": [
+            {"hi": "लाइसेंस", "en": "License"},
+            {"hi": "पेटेंट", "en": "Patent"},
+            {"hi": "अनुबंध", "en": "Contract"},
+            {"hi": "प्रमाण पत्र", "en": "Certificate"}
+          ],
+          "answer": {"hi": "पेटेंट", "en": "Patent"}
+        },
+        {
+          "q": {
+            "hi": "यीस्ट (Yeast) सूक्ष्मजीवों के किस समूह से संबंधित है?",
+            "en": "Yeast belongs to which group of microorganisms?"
+          },
+          "options": [
+            {"hi": "जीवाणु (बैक्टीरिया)", "en": "Bacteria"},
+            {"hi": "कवक (फंगी)", "en": "Fungi"},
+            {"hi": "प्रोटोजोआ", "en": "Protozoa"},
+            {"hi": "शैवाल", "en": "Algae"}
+          ],
+          "answer": {"hi": "कवक (फंगी)", "en": "Fungi"}
+        },
+        {
+          "q": {
+            "hi": "आटा गूंथते समय यीस्ट द्वारा श्वसन के दौरान कौन सी गैस निकलती है जो आटे को फुला देती है?",
+            "en": "Which gas is released by yeast during respiration, making the dough soft and fluffy?"
+          },
+          "options": [
+            {"hi": "ऑक्सीजन", "en": "Oxygen"},
+            {"hi": "नाइट्रोजन", "en": "Nitrogen"},
+            {"hi": "कार्बन डाइऑक्साइड", "en": "Carbon dioxide"},
+            {"hi": "हाइड्रोजन", "en": "Hydrogen"}
+          ],
+          "answer": {"hi": "कार्बन डाइऑक्साइड", "en": "Carbon dioxide"}
+        },
+        {
+          "q": {
+            "hi": "दूध को दही में बदलने के लिए कौन सा जीवाणु (बैक्टीरिया) उत्तरदायी है?",
+            "en": "Which bacterium is responsible for turning milk into curd?"
+          },
+          "options": [
+            {"hi": "राइजोबियम", "en": "Rhizobium"},
+            {"hi": "लैक्टोबैसिलस (Lactobacillus)", "en": "Lactobacillus"},
+            {"hi": "यीस्ट", "en": "Yeast"},
+            {"hi": "अमीबा", "en": "Amoeba"}
+          ],
+          "answer": {"hi": "लैक्टोबैसिलस (Lactobacillus)", "en": "Lactobacillus"}
+        },
+        {
+          "q": {
+            "hi": "कौन सा बैक्टीरिया फलीदार पौधों (जैसे मटर, बीन्स) की जड़ों की ग्रंथियों में रहकर हवा से नाइट्रोजन का स्थिरीकरण करता है?",
+            "en": "Which bacterium lives in the root nodules of legumes and traps nitrogen from the air?"
+          },
+          "options": [
+            {"hi": "लैक्टोबैसिलस", "en": "Lactobacillus"},
+            {"hi": "राइजोबियम (Rhizobium)", "en": "Rhizobium"},
+            {"hi": "स्पाइरुलिना", "en": "Spirulina"},
+            {"hi": "विषाणु", "en": "Virus"}
+          ],
+          "answer": {"hi": "राइजोबियम (Rhizobium)", "en": "Rhizobium"}
+        }
+      ]
     }
   }
 }
+
 
 
 
