@@ -24,11 +24,27 @@
         th { background-color: #0044cc; color: white; font-weight: bold; }
         tr:hover { background-color: #f9f9f9; }
         
+        /* बटनों को एक साथ रखने और स्टाइल करने के लिए */
+        .action-buttons {
+            display: flex;
+            gap: 8px;
+            align-items: center;
+        }
+
+
         .pdf-link { 
             background: #d32f2f; color: white !important; padding: 6px 12px; 
             border-radius: 4px; text-decoration: none; font-size: 0.9rem; font-weight: bold;
         }
         .pdf-link:hover { background: #b71c1c; }
+
+        .view-link {
+            background: #f8f9fa; color: #333 !important; padding: 6px 12px; 
+            border-radius: 4px; text-decoration: none; font-size: 0.9rem; font-weight: bold;
+            display: inline-block;
+            border: 1px solid #ccc;
+        }
+
     </style>
 </head>
 <body>
@@ -71,7 +87,7 @@
                         <th>पत्रांक</th>
                         <th>पत्र का विषय (Subject)</th>
                         <th>विभाग</th>
-                        <th>डाउनलोड</th>
+                        <th>कार्रवाई (Action)</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -82,7 +98,10 @@
                         <td>####</td>
                         <td>DPS-Edn-Patna: राज्य के प्रारंभिक विद्याल्यों के लिये शिक्षकों के मानक निर्धारण  </td>
                         <td>DPS PATNA  letters-page-container</td>
-                        <td><a href="https://drive.google.com/uc?export=download&id=1vdJ9zTYpxhgImi54H-lyjNTZrgS9ElHp" class="pdf-link" target="_blank">PDF</a></td>
+                        <td>
+                            <a href="https://drive.google.com/uc?export=download&id=1vdJ9zTYpxhgImi54H-lyjNTZrgS9ElHp" class="pdf-link" target="_blank">PDF</a>
+                            <a href="https://drive.google.com/file/d/1vdJ9zTYpxhgImi54H-lyjNTZrgS9ElHp" class="view-link" target="_blank">View</a>
+                        </td>
                     </tr>
 
                     <tr>
@@ -90,31 +109,52 @@
                         <td>1061</td>
                         <td>DMS-Edn-Patna: ग्रीष्मकाल में भीषण गर्मी एवं लू के कारण समय-सारणी में परिवर्तन </td>
                         <td>DMS PATNA  letters-page-container</td>
-                        <td><a href="https://drive.google.com/uc?export=download&id=142nozsXgWPoEsQ4LSws3mPswjnrZgn5n" class="pdf-link" target="_blank">PDF</a></td>
+                        <td>
+                            <div class="action-buttons">
+                            <a href="https://drive.google.com/uc?export=download&id=142nozsXgWPoEsQ4LSws3mPswjnrZgn5n" class="pdf-link" target="_blank">PDF</a>
+                             <a href="https://drive.google.com/file/d/142nozsXgWPoEsQ4LSws3mPswjnrZgn5n/view" class="view-link" target="_blank">View</a>   
+                            </div>
+                        </td>
                     </tr>
 
                      <tr>
                         <td>15-06-2026</td> 
-                         <td>####</td>
+                         <td>459</td>
                         <td>DMS-Edn-Patna: सरकारी शिक्षकों के कोचिंग, निजि ट्युशन पर रोक </td>
                         <td>DMS PATNA  letters-page-container</td>
-                        <td><a href="https://drive.google.com/uc?export=download&id=1vVdAkocaGgpSjzuZX3CNaTS5a2oEpmP8" class="pdf-link" target="_blank">PDF</a></td>
+                        <td>
+                            <div class="action-buttons">
+                                <a href="https://drive.google.com/uc?export=download&id=1vVdAkocaGgpSjzuZX3CNaTS5a2oEpmP8" class="pdf-link" target="_blank">PDF</a>
+                                <a href="https://drive.google.com/file/d/1vVdAkocaGgpSjzuZX3CNaTS5a2oEpmP8/view" class="view-link" target="_blank">View</a> 
+                            </div>
+                        </td>
                     </tr>
 
                      <tr>
                         <td>14-05-2026</td> 
-                         <td>####</td>
+                         <td>701</td>
                         <td>ACS-Edn-Patna: BEST+ APP से विद्यालय का अुश्रवण </td>
                         <td>ACS PATNA  letters-page-container</td>
-                        <td><a href="https://drive.google.com/uc?export=download&id=1hXBleY5eHLOcmLMdzjRy9QLoxOVnC7L9" class="pdf-link" target="_blank">PDF</a></td>
+                        <td>
+                            <div class="action-buttons">
+                                <a href="https://drive.google.com/uc?export=download&id=1hXBleY5eHLOcmLMdzjRy9QLoxOVnC7L9" class="pdf-link" target="_blank">PDF</a>
+                                <a href="https://drive.google.com/file/d/1hXBleY5eHLOcmLMdzjRy9QLoxOVnC7L9/view" class="view-link" target="_blank">View</a> 
+                            </div>
+                        </td>
                     </tr>
 
                     <tr>
                         <td>13-05-2026</td> 
-                         <td>####</td>
+                         <td>1631</td>
                         <td>ACS-Edn-Patna: प्रगणक एवं पर्यवेक्षक को शिक्षण कार्य के साथ गणना कार्य करने केे संबंध में </td>
                         <td>ACS PATNA  letters-page-container</td>
-                        <td><a href="https://drive.google.com/uc?export=download&id=1xi69wkSUtsgoAKimTYfV73KZCcG2nFBV" class="pdf-link" target="_blank">PDF</a></td>
+                        <td>
+                             <div class="action-buttons">
+                                <a href="https://drive.google.com/uc?export=download&id=1xi69wkSUtsgoAKimTYfV73KZCcG2nFBV" class="pdf-link" target="_blank">PDF</a>
+                                <a href="https://drive.google.com/file/d/1xi69wkSUtsgoAKimTYfV73KZCcG2nFBV/view" class="view-link" target="_blank">View</a> 
+                            </div>
+                        
+                        </td>
                     </tr>
 
                      <tr>
