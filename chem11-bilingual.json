@@ -662,6 +662,668 @@
           "answer": {"hi": "क्योंकि द्रव्यमान तापमान से अप्रभावित रहता है", "en": "Because mass remains unaffected with temperature"}
         }
       ]
+    },
+    "chapter02": {
+      "section1": [
+        {
+          "q": {
+            "hi": "कैथोड किरणों की खोज किसने की थी?",
+            "en": "Who discovered cathode rays?"
+          },
+          "options": [
+            {"hi": "जे. जे. थॉमसन", "en": "J. J. Thomson"},
+            {"hi": "जॉन डाल्टन", "en": "John Dalton"},
+            {"hi": "रदरफोर्ड", "en": "Rutherford"},
+            {"hi": "चैडविक", "en": "Chadwick"}
+          ],
+          "answer": {"hi": "जे. जे. थॉमसन", "en": "J. J. Thomson"}
+        },
+        {
+          "q": {
+            "hi": "इलेक्ट्रॉन पर आवेश और द्रव्यमान का अनुपात (e/m) सबसे पहले किसने निर्धारित किया था?",
+            "en": "Who first determined the charge-to-mass ratio (e/m) of an electron?"
+          },
+          "options": [
+            {"hi": "आर. ए. मिलिकन", "en": "R. A. Millikan"},
+            {"hi": "जे. जे. थॉमसन", "en": "J. J. Thomson"},
+            {"hi": "गोल्डस्टीन", "en": "Goldstein"},
+            {"hi": "रंटजन", "en": "Rontgen"}
+          ],
+          "answer": {"hi": "जे. जे. थॉमसन", "en": "J. J. Thomson"}
+        },
+        {
+          "q": {
+            "hi": "इलेक्ट्रॉन पर उपस्थित आवेश का निरपेक्ष मान ज्ञात करने के लिए 'तेल बूंद प्रयोग' किसने किया था?",
+            "en": "Who conducted the 'oil drop experiment' to determine the absolute charge on an electron?"
+          },
+          "options": [
+            {"hi": "जे. जे. थॉमसन", "en": "J. J. Thomson"},
+            {"hi": "आर. ए. मिलिकन", "en": "R. A. Millikan"},
+            {"hi": "रदरफोर्ड", "en": "Rutherford"},
+            {"hi": "चैडविक", "en": "Chadwick"}
+          ],
+          "answer": {"hi": "आर. ए. मिलिकन", "en": "R. A. Millikan"}
+        },
+        {
+          "q": {
+            "hi": "धनाग्र किरणों (Anode Rays) या कैनाल किरणों की खोज का श्रेय किसे दिया जाता है?",
+            "en": "Who is credited with the discovery of anode rays or canal rays?"
+          },
+          "options": [
+            {"hi": "ई. गोल्डस्टीन", "en": "E. Goldstein"},
+            {"hi": "जे. जे. थॉमसन", "en": "J. J. Thomson"},
+            {"hi": "चैडविक", "en": "Chadwick"},
+            {"hi": "डाल्टन", "en": "Dalton"}
+          ],
+          "answer": {"hi": "ई. गोल्डस्टीन", "en": "E. Goldstein"}
+        },
+        {
+          "q": {
+            "hi": "न्यूट्रॉन की खोज 1932 में किसने की थी?",
+            "en": "Who discovered the neutron in 1932?"
+          },
+          "options": [
+            {"hi": "रदरफोर्ड", "en": "Rutherford"},
+            {"hi": "जेम्स चैडविक", "en": "James Chadwick"},
+            {"hi": "गोल्डस्टीन", "en": "Goldstein"},
+            {"hi": "नील्स बोर", "en": "Niels Bohr"}
+          ],
+          "answer": {"hi": "जेम्स चैडविक", "en": "James Chadwick"}
+        },
+        {
+          "q": {
+            "hi": "परमाणु के 'प्लम पुडिंग' या 'तरबूज मॉडल' का प्रस्ताव किसने दिया था?",
+            "en": "Who proposed the 'plum pudding' or 'watermelon model' of an atom?"
+          },
+          "options": [
+            {"hi": "रदरफोर्ड", "en": "Rutherford"},
+            {"hi": "जे. जे. थॉमसन", "en": "J. J. Thomson"},
+            {"hi": "डाल्टन", "en": "Dalton"},
+            {"hi": "नील्स बोर", "en": "Niels Bohr"}
+          ],
+          "answer": {"hi": "जे. जे. थॉमसन", "en": "J. J. Thomson"}
+        },
+        {
+          "q": {
+            "hi": "रदरफोर्ड के प्रसिद्ध प्रकीर्णन प्रयोग में किन कणों की बौछार सोने की पन्नी पर की गई थी?",
+            "en": "In Rutherford's famous scattering experiment, which particles were bombarded on a thin gold foil?"
+          },
+          "options": [
+            {"hi": "बीटा ($\beta$) कण", "en": "Beta ($\beta$) particles"},
+            {"hi": "गामा ($\\gamma$) किरणें", "en": "Gamma ($\\gamma$) rays"},
+            {"hi": "अल्फा ($\\alpha$) कण", "en": "Alpha ($\\alpha$) particles"},
+            {"hi": "न्यूट्रॉन", "en": "Neutrons"}
+          ],
+          "answer": {"hi": "अल्फा ($\\alpha$) कण", "en": "Alpha ($\\alpha$) particles"}
+        },
+        {
+          "q": {
+            "hi": "परमाणु के नाभिक (Nucleus) की खोज का श्रेय किसे जाता है?",
+            "en": "Who is credited with the discovery of the atomic nucleus?"
+          },
+          "options": [
+            {"hi": "जे. जे. थॉमसन", "en": "J. J. Thomson"},
+            {"hi": "अर्नेस्ट रदरफोर्ड", "en": "Ernest Rutherford"},
+            {"hi": "चैडविक", "en": "Chadwick"},
+            {"hi": "मैक्स प्लांक", "en": "Max Planck"}
+          ],
+          "answer": {"hi": "अर्नेस्ट रदरफोर्ड", "en": "Ernest Rutherford"}
+        },
+        {
+          "q": {
+            "hi": "रदरफोर्ड के अनुसार, परमाणु का लगभग पूरा द्रव्यमान और उसका धन आवेश कहाँ केंद्रित होता है?",
+            "en": "According to Rutherford, where is almost the entire mass and positive charge of an atom concentrated?"
+          },
+          "options": [
+            {"hi": "इलेक्ट्रॉन कक्षाओं में", "en": "In electron orbits"},
+            {"hi": "नाभिक में", "en": "In the nucleus"},
+            {"hi": "परमाणु के बाहर", "en": "Outside the atom"},
+            {"hi": "पूरे परमाणु में समान रूप से", "en": "Uniformly throughout the atom"}
+          ],
+          "answer": {"hi": "नाभिक में", "en": "In the nucleus"}
+        },
+        {
+          "q": {
+            "hi": "रदरफोर्ड के परमाणु मॉडल की मुख्य कमी क्या थी?",
+            "en": "What was the main drawback of Rutherford's nuclear model?"
+          },
+          "options": [
+            {"hi": "यह न्यूट्रॉन की व्याख्या नहीं कर सका", "en": "It could not explain neutrons"},
+            {"hi": "यह परमाणु के स्थायित्व की व्याख्या नहीं कर सका", "en": "It could not explain the stability of the atom"},
+            {"hi": "यह धन आवेश की स्थिति नहीं बता सका", "en": "It could not locate the positive charge"},
+            {"hi": "यह भारी तत्वों के लिए मान्य नहीं था", "en": "It was not applicable to heavy elements"}
+          ],
+          "answer": {"hi": "परमाणु के स्थायित्व की व्याख्या नहीं कर सका", "en": "It could not explain the stability of the atom"}
+        }
+      ],
+      "section2": [
+        {
+          "q": {
+            "hi": "किसी परमाणु की परमाणु संख्या (Z) किसके बराबर होती है?",
+            "en": "The atomic number (Z) of an atom is equal to the number of:"
+          },
+          "options": [
+            {"hi": "नाभिक में न्यूट्रॉनों की संख्या", "en": "Neutrons in the nucleus"},
+            {"hi": "नाभिक में प्रोटॉनों की संख्या", "en": "Protons in the nucleus"},
+            {"hi": "प्रोटॉन और न्यूट्रॉन का योग", "en": "Sum of protons and neutrons"},
+            {"hi": "कक्षाओं की कुल संख्या", "en": "Total number of orbits"}
+          ],
+          "answer": {"hi": "नाभिक में प्रोटॉनों की संख्या", "en": "Protons in the nucleus"}
+        },
+        {
+          "q": {
+            "hi": "द्रव्यमान संख्या (A) क्या होती है?",
+            "en": "What is the mass number (A)?"
+          },
+          "options": [
+            {"hi": "केवल प्रोटॉनों की संख्या", "en": "Number of protons only"},
+            {"hi": "केवल न्यूट्रॉनों की संख्या", "en": "Number of neutrons only"},
+            {"hi": "प्रोटॉनों और न्यूट्रॉनों की संख्या का योग", "en": "Sum of the number of protons and neutrons"},
+            {"hi": "इलेक्ट्रॉनों और प्रोटॉनों का गुणनफल", "en": "Product of electrons and protons"}
+          ],
+          "answer": {"hi": "प्रोटॉनों और न्यूट्रॉनों की संख्या का योग", "en": "Sum of the number of protons and neutrons"}
+        },
+        {
+          "q": {
+            "hi": "ऐसे परमाणु जिनकी परमाणु संख्या समान लेकिन द्रव्यमान संख्या भिन्न होती है, कहलाते हैं:",
+            "en": "Atoms with the same atomic number but different mass numbers are called:"
+          },
+          "options": [
+            {"hi": "समभारिक (Isobars)", "en": "Isobars"},
+            {"hi": "समस्थानिक (Isotopes)", "en": "Isotopes"},
+            {"hi": "समन्यूट्रॉनिक (Isotones)", "en": "Isotones"},
+            {"hi": "समइलेक्ट्रॉनी (Isoelectronic)", "en": "Isoelectronic"}
+          ],
+          "answer": {"hi": "समस्थानिक (Isotopes)", "en": "Isotopes"}
+        },
+        {
+          "q": {
+            "hi": "समान द्रव्यमान संख्या लेकिन भिन्न परमाणु संख्या वाले परमाणुओं को क्या कहा जाता है?",
+            "en": "What are atoms with the same mass number but different atomic numbers called?"
+          },
+          "options": [
+            {"hi": "समस्थानिक", "en": "Isotopes"},
+            {"hi": "समभारिक (Isobars)", "en": "Isobars"},
+            {"hi": "समन्यूट्रॉनिक", "en": "Isotones"},
+            {"hi": "समइलेक्ट्रॉनी", "en": "Isoelectronic"}
+          ],
+          "answer": {"hi": "समभारिक (Isobars)", "en": "Isobars"}
+        },
+        {
+          "q": {
+            "hi": "विद्युत चुंबकीय विकिरण के तरंग दैर्ध्य ($\\lambda$) और आवृत्ति ($\nu$) के बीच क्या संबंध है? (जहाँ c प्रकाश की गति है)",
+            "en": "What is the relation between wavelength ($\\lambda$) and frequency ($\nu$) of electromagnetic radiation? (where c is speed of light)"
+          },
+          "options": [
+            {"hi": "$c = \\nu \\lambda$", "en": "$c = \\nu \\lambda$"},
+            {"hi": "$\\nu = c \\lambda$", "en": "$\\nu = c \\lambda$"},
+            {"hi": "$\\lambda = c \\nu$", "en": "\\lambda = c \\nu"},
+            {"hi": "$c = \\nu / \\lambda$", "en": "$c = \\nu / \\lambda$"}
+          ],
+          "answer": {"hi": "$c = \\nu \\lambda$", "en": "$c = \\nu \\lambda$"}
+        },
+        {
+          "q": {
+            "hi": "तरंग संख्या (Wave number, $\\bar{\\nu}$) की इकाई क्या होती है?",
+            "en": "What is the unit of wave number ($\\bar{\\nu}$)?"
+          },
+          "options": [
+            {"hi": "s$^{-1}$", "en": "s$^{-1}$"},
+            {"hi": "m$^{-1}$", "en": "m$^{-1}$"},
+            {"hi": "m s$^{-1}$", "en": "m s$^{-1}$"},
+            {"hi": "J s", "en": "J s"}
+          ],
+          "answer": {"hi": "m$^{-1}$", "en": "m$^{-1}$"}
+        },
+        {
+          "q": {
+            "hi": "मैक्स प्लांक के क्वांटम सिद्धांत के अनुसार, ऊर्जा का उत्सर्जन या अवशोषण सतत न होकर छोटे पैकेटों में होता है, जिन्हें कहते हैं:",
+            "en": "According to Max Planck's quantum theory, energy is emitted or absorbed in discrete packets called:"
+          },
+          "options": [
+            {"hi": "इलेक्ट्रॉन", "en": "Electrons"},
+            {"hi": "प्रोटॉन", "en": "Protons"},
+            {"hi": "क्वांटम या फोटॉन", "en": "Quantum or Photon"},
+            {"hi": "पॉज़िट्रॉन", "en": "Positrons"}
+          ],
+          "answer": {"hi": "क्वांटम या फोटॉन", "en": "Quantum or Photon"}
+        },
+        {
+          "q": {
+            "hi": "प्लांक समीकरण $E = h\\nu$ में '$h$' क्या प्रदर्शित करता है?",
+            "en": "In the Planck equation $E = h\\nu$, what does '$h$' represent?"
+          },
+          "options": [
+            {"hi": "प्रकाश का वेग", "en": "Velocity of light"},
+            {"hi": "प्लांक स्थिरांक (Planck's constant)", "en": "Planck's constant"},
+            {"hi": "आवृत्ति", "en": "Frequency"},
+            {"hi": "तरंगदैर्ध्य", "en": "Wavelength"}
+          ],
+          "answer": {"hi": "प्लांक स्थिरांक (Planck's constant)", "en": "Planck's constant"}
+        },
+        {
+          "q": {
+            "hi": "प्लांक स्थिरांक ($h$) का मान कितना होता है?",
+            "en": "What is the value of Planck's constant ($h$)?"
+          },
+          "options": [
+            {"hi": "$6.626 \\times 10^{-34}$ J s", "en": "$6.626 \\times 10^{-34}$ J s"},
+            {"hi": "$3.00 \\times 10^8$ m/s", "en": "$3.00 \\times 10^8$ m/s"},
+            {"hi": "$6.022 \\times 10^{23}$ mol$^{-1}$", "en": "$6.022 \\times 10^{23}$ mol$^{-1}$"},
+            {"hi": "$1.602 \\times 10^{-19}$ C", "en": "$1.602 \\times 10^{-19}$ C"}
+          ],
+          "answer": {"hi": "$6.626 \\times 10^{-34}$ J s", "en": "$6.626 \\times 10^{-34}$ J s"}
+        },
+        {
+          "q": {
+            "hi": "विद्युत चुंबकीय स्पेक्ट्रम में दृश्य प्रकाश (Visible light) क्षेत्र की अनुमानित तरंगदैर्ध्य सीमा क्या है?",
+            "en": "What is the approximate wavelength range of the visible light region in the electromagnetic spectrum?"
+          },
+          "options": [
+            {"hi": "100 nm से 200 nm", "en": "100 nm to 200 nm"},
+            {"hi": "400 nm से 750 nm", "en": "400 nm to 750 nm"},
+            {"hi": "1000 nm से 2000 nm", "en": "1000 nm to 2000 nm"},
+            {"hi": "10$^{-3}$ nm से 1 nm", "en": "10$^{-3}$ nm to 1 nm"}
+          ],
+          "answer": {"hi": "400 nm से 750 nm", "en": "400 nm to 750 nm"}
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "उपयुक्त आवृत्ति के प्रकाश की बौछार करने पर धातु की सतह से इलेक्ट्रॉनों के निकलने की परिघटना कहलाती है:",
+            "en": "The phenomenon of ejection of electrons from the surface of a metal when light of suitable frequency strikes it is called:"
+          },
+          "options": [
+            {"hi": "थर्मिओनिक उत्सर्जन", "en": "Thermionic emission"},
+            {"hi": "प्रकाश वैद्युत प्रभाव (Photoelectric effect)", "en": "Photoelectric effect"},
+            {"hi": "रमन प्रभाव", "en": "Raman effect"},
+            {"hi": "इंटरफेरेंस", "en": "Interference"}
+          ],
+          "answer": {"hi": "प्रकाश वैद्युत प्रभाव (Photoelectric effect)", "en": "Photoelectric effect"}
+        },
+        {
+          "q": {
+            "hi": "प्रकाश वैद्युत प्रभाव उत्पन्न करने के लिए आवश्यक न्यूनतम आवृत्ति को क्या कहा जाता है?",
+            "en": "The minimum frequency required to cause the photoelectric effect is known as:"
+          },
+          "options": [
+            {"hi": "उच्चतम आवृत्ति", "en": "Highest frequency"},
+            {"hi": "देहली आवृत्ति (Threshold frequency)", "en": "Threshold frequency"},
+            {"hi": "सक्रियण आवृत्ति", "en": "Activation frequency"},
+            {"hi": "प्लांक आवृत्ति", "en": "Planck frequency"}
+          ],
+          "answer": {"hi": "देहली आवृत्ति (Threshold frequency)", "en": "Threshold frequency"}
+        },
+        {
+          "q": {
+            "hi": "हाइड्रोजन परमाणु के लिए बोर मॉडल (Bohr's Model) के अनुसार, इलेक्ट्रॉन केवल उन्हीं कक्षाओं में घूम सकते हैं जिनमें उनका कोणीय संवेग किसका पूर्णांक गुणज होता है?",
+            "en": "According to Bohr's model for the hydrogen atom, electrons can only revolve in orbits where their angular momentum is an integral multiple of:"
+          },
+          "options": [
+            {"hi": "$h / 2\\pi$", "en": "$h / 2\\pi$"},
+            {"hi": "$2\\pi / h$", "en": "$2\\pi / h$"},
+            {"hi": "$h \\nu$", "en": "$h \\nu$"},
+            {"hi": "$mc^2$", "en": "$mc^2$"}
+          ],
+          "answer": {"hi": "$h / 2\\pi$", "en": "$h / 2\\pi$"}
+        },
+        {
+          "q": {
+            "hi": "बोर के अनुसार, हाइड्रोजन परमाणु की प्रथम स्थिर कक्षा (बोर त्रिज्या, $r_1$) का मान कितना होता है?",
+            "en": "According to Bohr, what is the value of the first stationary orbit (Bohr radius, $r_1$) of the hydrogen atom?"
+          },
+          "options": [
+            {"hi": "52.9 pm", "en": "52.9 pm"},
+            {"hi": "0.529 pm", "en": "0.529 pm"},
+            {"hi": "100 pm", "en": "100 pm"},
+            {"hi": "2.18 pm", "en": "2.18 pm"}
+          ],
+          "answer": {"hi": "52.9 pm", "en": "52.9 pm"}
+        },
+        {
+          "q": {
+            "hi": "हाइड्रोजन स्पेक्ट्रम की कौन सी श्रेणी विद्युत चुंबकीय स्पेक्ट्रम के दृश्य (Visible) क्षेत्र में पड़ती है?",
+            "en": "Which series of the hydrogen spectrum falls in the visible region of the electromagnetic spectrum?"
+          },
+          "options": [
+            {"hi": "लाइमैन श्रेणी", "en": "Lyman series"},
+            {"hi": "बामर श्रेणी (Balmer series)", "en": "Balmer series"},
+            {"hi": "पाश्चन श्रेणी", "en": "Paschen series"},
+            {"hi": "ब्रैकेट श्रेणी", "en": "Brackett series"}
+          ],
+          "answer": {"hi": "बामर श्रेणी (Balmer series)", "en": "Balmer series"}
+        },
+        {
+          "q": {
+            "hi": "हाइड्रोजन स्पेक्ट्रम की लाइमैन श्रेणी (Lyman series) किस क्षेत्र में आती है?",
+            "en": "In which region does the Lyman series of the hydrogen spectrum lie?"
+          },
+          "options": [
+            {"hi": "अवरक्त (Infrared)", "en": "Infrared"},
+            {"hi": "दृश्य (Visible)", "en": "Visible"},
+            {"hi": "पराबैंगनी (Ultraviolet)", "en": "Ultraviolet"},
+            {"hi": "एक्स-रे", "en": "X-ray"}
+          ],
+          "answer": {"hi": "पराबैंगनी (Ultraviolet)", "en": "Ultraviolet"}
+        },
+        {
+          "q": {
+            "hi": "हाइड्रोजन परमाणु की n-वीं कक्षा में इलेक्ट्रॉन की ऊर्जा का सूत्र क्या है?",
+            "en": "What is the formula for the energy of an electron in the n-th orbit of a hydrogen atom?"
+          },
+          "options": [
+            {"hi": "$E_n = -2.18 \\times 10^{-18} (1/n^2)$ J", "en": "$E_n = -2.18 \\times 10^{-18} (1/n^2)$ J"},
+            {"hi": "$E_n = +2.18 \\times 10^{-18} (n^2)$ J", "en": "$E_n = +2.18 \\times 10^{-18} (n^2)$ J"},
+            {"hi": "$E_n = -13.6 (n^2)$ eV", "en": "$E_n = -13.6 (n^2)$ eV"},
+            {"hi": "$E_n = 0$", "en": "$E_n = 0$"}
+          ],
+          "answer": {"hi": "$E_n = -2.18 \\times 10^{-18} (1/n^2)$ J", "en": "$E_n = -2.18 \\times 10^{-18} (1/n^2)$ J"}
+        },
+        {
+          "q": {
+            "hi": "बोर का परमाणु मॉडल निम्नलिखित में से किसकी व्याख्या करने में विफल रहा?",
+            "en": "Bohr's atomic model failed to explain which of the following?"
+          },
+          "options": [
+            {"hi": "केवल हाइड्रोजन का स्पेक्ट्रम", "en": "Spectrum of hydrogen only"},
+            {"hi": "बहु-इलेक्ट्रॉन परमाणुओं का स्पेक्ट्रम", "en": "Spectrum of multi-electron atoms"},
+            {"hi": "$r_1$ का मान", "en": "The value of $r_1$"},
+            {"hi": "एकल इलेक्ट्रॉन प्रणालियों का स्थायित्व", "en": "Stability of single-electron systems"}
+          ],
+          "answer": {"hi": "बहु-इलेक्ट्रॉन परमाणुओं का स्पेक्ट्रम", "en": "Spectrum of multi-electron atoms"}
+        },
+        {
+          "q": {
+            "hi": "चुंबकीय क्षेत्र के प्रभाव में स्पेक्ट्रमी रेखाओं के विपाटन (Splitting) को क्या कहा जाता है?",
+            "en": "The splitting of spectral lines under the influence of a magnetic field is called:"
+          },
+          "options": [
+            {"hi": "स्टार्क प्रभाव", "en": "Stark effect"},
+            {"hi": "जीमान प्रभाव (Zeeman effect)", "en": "Zeeman effect"},
+            {"hi": "प्रकाश वैद्युत प्रभाव", "en": "Photoelectric effect"},
+            {"hi": "कंपटन प्रभाव", "en": "Compton effect"}
+          ],
+          "answer": {"hi": "जीमान प्रभाव (Zeeman effect)", "en": "Zeeman effect"}
+        },
+        {
+          "q": {
+            "hi": "विद्युत क्षेत्र के प्रभाव में स्पेक्ट्रमी रेखाओं के विपाटन को क्या कहा जाता है?",
+            "en": "The splitting of spectral lines under the influence of an electric field is called:"
+          },
+          "options": [
+            {"hi": "जीमान प्रभाव", "en": "Zeeman effect"},
+            {"hi": "स्टार्क प्रभाव (Stark effect)", "en": "Stark effect"},
+            {"hi": "डॉपलर प्रभाव", "en": "Doppler effect"},
+            {"hi": "रमन प्रभाव", "en": "Raman effect"}
+          ],
+          "answer": {"hi": "स्टार्क प्रभाव (Stark effect)", "en": "Stark effect"}
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "पदार्थ के द्वैत व्यवहार (Dual behavior of matter) का प्रस्ताव किसने दिया था, जिसके अनुसार द्रव्य में कण और तरंग दोनों के गुण होते हैं?",
+            "en": "Who proposed the dual behavior of matter, stating that matter possesses both particle and wave-like properties?"
+          },
+          "options": [
+            {"hi": "नील्स बोर", "en": "Niels Bohr"},
+            {"hi": "लुई डी ब्रॉग्ली (Louis de Broglie)", "en": "Louis de Broglie"},
+            {"hi": "हाइजेनबर्ग", "en": "Heisenberg"},
+            {"hi": "श्रोडिंगर", "en": "Schrodinger"}
+          ],
+          "answer": {"hi": "लुई डी ब्रॉग्ली (Louis de Broglie)", "en": "Louis de Broglie"}
+        },
+        {
+          "q": {
+            "hi": "डी ब्रॉग्ली समीकरण के अनुसार, किसी गतिमान कण की तरंगदैर्ध्य ($\\lambda$) का सूत्र क्या है?",
+            "en": "According to the de Broglie equation, what is the formula for the wavelength ($\\lambda$) of a moving particle?"
+          },
+          "options": [
+            {"hi": "$\\lambda = h / mv$", "en": "$\\lambda = h / mv$"},
+            {"hi": "$\\lambda = mv / h$", "en": "$\\lambda = mv / h$"},
+            {"hi": "$\\lambda = h \\cdot m \\cdot v$", "en": "\\lambda = h \\cdot m \\cdot v"},
+            {"hi": "$\\lambda = E / c$", "en": "\\lambda = E / c"}
+          ],
+          "answer": {"hi": "$\\lambda = h / mv$", "en": "$\\lambda = h / mv$"}
+        },
+        {
+          "q": {
+            "hi": "हाइजेनबर्ग के अनिश्चितता सिद्धांत (Uncertainty Principle) के अनुसार, किन दो राशियों को एक साथ पूर्ण शुद्धता से मापना असंभव है?",
+            "en": "According to Heisenberg's Uncertainty Principle, it is impossible to determine simultaneously with absolute accuracy both the:"
+          },
+          "options": [
+            {"hi": "द्रव्यमान और वेग", "en": "Mass and velocity"},
+            {"hi": "स्थिति और संवेग (Position and momentum)", "en": "Position and momentum"},
+            {"hi": "ऊर्जा और आवृत्ति", "en": "Energy and frequency"},
+            {"hi": "आवेश और द्रव्यमान", "en": "Charge and mass"}
+          ],
+          "answer": {"hi": "स्थिति और संवेग (Position and momentum)", "en": "Position and momentum"}
+        },
+        {
+          "q": {
+            "hi": "हाइजेनबर्ग अनिश्चितता सिद्धांत का गणितीय रूप क्या है?",
+            "en": "What is the mathematical form of Heisenberg's uncertainty principle?"
+          },
+          "options": [
+            {"hi": "$\\Delta x \\cdot \\Delta p_x \\ge \\frac{h}{4\\pi}$", "en": "$\\Delta x \\cdot \\Delta p_x \\ge \\frac{h}{4\\pi}$"},
+            {"hi": "$\\Delta x \\cdot \\Delta p_x = h$", "en": "$\\Delta x \\cdot \\Delta p_x = h$"},
+            {"hi": "$\\Delta x / \\Delta p_x \\ge 4\\pi$", "en": "$\\Delta x / \\Delta p_x \\ge 4\\pi$"},
+            {"hi": "$\\Delta x \\cdot \\Delta v_x \\le \\frac{h}{2\\pi}$", "en": "$\\Delta x \\cdot \\Delta v_x \\le \\frac{h}{2\\pi}$"}
+          ],
+          "answer": {"hi": "$\\Delta x \\cdot \\Delta p_x \\ge \\frac{h}{4\\pi}$", "en": "$\\Delta x \\cdot \\Delta p_x \\ge \\frac{h}{4\\pi}$"}
+        },
+        {
+          "q": {
+            "hi": "अनिश्चितता का सिद्धांत हमारे दैनिक जीवन में बड़े पिण्डों (जैसे कार या गेंद) के लिए महत्वपूर्ण क्यों नहीं है?",
+            "en": "Why is the uncertainty principle not significant for macroscopic objects (like a car or a ball) in daily life?"
+          },
+          "options": [
+            {"hi": "क्योंकि उनका वेग बहुत अधिक होता है", "en": "Because their velocity is very high"},
+            {"hi": "क्योंकि उनका द्रव्यमान बहुत अधिक होता है, जिससे अनिश्चितता नगण्य हो जाती है", "en": "Because their mass is very large, making the uncertainty negligible"},
+            {"hi": "क्योंकि वे आवेशित नहीं होते", "en": "Because they are not charged"},
+            {"hi": "क्योंकि प्लांक स्थिरांक बदल जाता है", "en": "Because Planck's constant changes"}
+          ],
+          "answer": {"hi": "क्योंकि उनका द्रव्यमान बहुत अधिक होता है, जिससे अनिश्चितता नगण्य हो जाती है", "en": "Because their mass is very large, making the uncertainty negligible"}
+        },
+        {
+          "q": {
+            "hi": "परमाणु के क्वांटम यांत्रिकी मॉडल (Quantum Mechanical Model) का विकास मुख्य रूप से किसने किया था?",
+            "en": "Who primarily developed the quantum mechanical model of the atom?"
+          },
+          "options": [
+            {"hi": "इरविन श्रोडिंगर (Erwin Schrodinger)", "en": "Erwin Schrodinger"},
+            {"hi": "जॉन डाल्टन", "en": "John Dalton"},
+            {"hi": "जे. जे. थॉमसन", "en": "J. J. Thomson"},
+            {"hi": "नील्स बोर", "en": "Niels Bohr"}
+          ],
+          "answer": {"hi": "इरविन श्रोडिंगर (Erwin Schrodinger)", "en": "Erwin Schrodinger"}
+        },
+        {
+          "q": {
+            "hi": "श्रोडिंगर तरंग समीकरण में प्रयुक्त प्रतीक $\\psi$ (Psi) क्या कहलाता है?",
+            "en": "What is the symbol $\\psi$ (Psi) used in the Schrodinger wave equation called?"
+          },
+          "options": [
+            {"hi": "ऊर्जा स्तर", "en": "Energy level"},
+            {"hi": "तरंग फलन (Wave function)", "en": "Wave function"},
+            {"hi": "संभावना घनत्व", "en": "Probability density"},
+            {"hi": "कक्षीय त्रिज्या", "en": "Orbital radius"}
+          ],
+          "answer": {"hi": "तरंग फलन (Wave function)", "en": "Wave function"}
+        },
+        {
+          "q": {
+            "hi": "किसी स्थान पर $\\psi^2$ का मान क्या प्रदर्शित करता है?",
+            "en": "What does the value of $\\psi^2$ at a point represent?"
+          },
+          "options": [
+            {"hi": "इलेक्ट्रॉन की गति", "en": "Velocity of the electron"},
+            {"hi": "इलेक्ट्रॉन के पाए जाने की संभावना घनत्व", "en": "Probability density of finding the electron"},
+            {"hi": "इलेक्ट्रॉन का निश्चित पथ", "en": "Definite path of the electron"},
+            {"hi": "नाभिक का द्रव्यमान", "en": "Mass of the nucleus"}
+          ],
+          "answer": {"hi": "इलेक्ट्रॉन के पाए जाने की संभावना घनत्व", "en": "Probability density of finding the electron"}
+        },
+        {
+          "q": {
+            "hi": "नाभिक के परितः वह त्रिविम क्षेत्र जहाँ इलेक्ट्रॉन के पाए जाने की संभावना सबसे अधिक (लगभग 90-95%) होती है, कहलाता है:",
+            "en": "The three-dimensional space around the nucleus where the probability of finding an electron is maximum is called a/an:"
+          },
+          "options": [
+            {"hi": "कक्षा (Orbit)", "en": "Orbit"},
+            {"hi": "कक्षक (Orbital)", "en": "Orbital"},
+            {"hi": "नोड (Node)", "en": "Node"},
+            {"hi": "कोश", "en": "Shell"}
+          ],
+          "answer": {"hi": "कक्षक (Orbital)", "en": "Orbital"}
+        },
+        {
+          "q": {
+            "hi": "परमाणु कक्षक को पूरी तरह से परिभाषित करने के लिए कितने क्वांटम नंबरों की आवश्यकता होती है?",
+            "en": "How many quantum numbers are required to completely define an atomic orbital?"
+          },
+          "options": [
+            {"hi": "2", "en": "2"},
+            {"hi": "3", "en": "3"},
+            {"hi": "4", "en": "4"},
+            {"hi": "1", "en": "1"}
+          ],
+          "answer": {"hi": "3", "en": "3"}
+        }
+      ],
+      "section5": [
+        {
+          "q": {
+            "hi": "मुख्य क्वांटम संख्या (Principal quantum number, n) मुख्य रूप से क्या निर्धारित करती है?",
+            "en": "What does the principal quantum number (n) mainly determine?"
+          },
+          "options": [
+            {"hi": "कक्षक का आकार और ऊर्जा स्तर", "en": "Size and energy level of the orbital"},
+            {"hi": "कक्षक की त्रिविम दिशा", "en": "Three-dimensional orientation of the orbital"},
+            {"hi": "इलेक्ट्रॉन का चक्रण", "en": "Spin of the electron"},
+            {"hi": "कक्षक की ज्यामितीय आकृति", "en": "Geometric shape of the orbital"}
+          ],
+          "answer": {"hi": "कक्षक का आकार और ऊर्जा स्तर", "en": "Size and energy level of the orbital"}
+        },
+        {
+          "q": {
+            "hi": "दिगंशी क्वांटम संख्या (Azimuthal quantum number, l) कक्षक की किस विशेषता को निर्धारित करती है?",
+            "en": "Which characteristic of the orbital is determined by the Azimuthal quantum number (l)?"
+          },
+          "options": [
+            {"hi": "कक्षक का आकार", "en": "Size of the orbital"},
+            {"hi": "कक्षक की आकृति (Shape of the orbital)", "en": "Shape of the orbital"},
+            {"hi": "कक्षक का अभिविन्यास", "en": "Orientation of the orbital"},
+            {"hi": "इलेक्ट्रॉन की चक्रण दिशा", "en": "Spin direction of the electron"}
+          ],
+          "answer": {"hi": "कक्षक की आकृति (Shape of the orbital)", "en": "Shape of the orbital"}
+        },
+        {
+          "q": {
+            "hi": "यदि मुख्य क्वांटम संख्या $n = 3$ है, तो दिगंशी क्वांटम संख्या ($l$) के संभावित मान क्या होंगे?",
+            "en": "If the principal quantum number $n = 3$, what are the possible values of the azimuthal quantum number ($l$)?"
+          },
+          "options": [
+            {"hi": "1, 2, 3", "en": "1, 2, 3"},
+            {"hi": "0, 1, 2", "en": "0, 1, 2"},
+            {"hi": "-3, 0, +3", "en": "-3, 0, +3"},
+            {"hi": "केवल 3", "en": "3 only"}
+          ],
+          "answer": {"hi": "0, 1, 2", "en": "0, 1, 2"}
+        },
+        {
+          "q": {
+            "hi": "एक दिए गए उपकोश में कक्षकों की संख्या ज्ञात करने का सूत्र क्या है, जो चुंबकीय क्वांटम संख्या ($m_l$) के कुल मानों को दर्शाता है?",
+            "en": "What is the formula to find the number of orbitals in a given subshell, representing total values of $m_l$?"
+          },
+          "options": [
+            {"hi": "$2l + 1$", "en": "$2l + 1$"},
+            {"hi": "$n^2$", "en": "$n^2$"},
+            {"hi": "$2n^2$", "en": "$2n^2$"},
+            {"hi": "$l + 1$", "en": "$l + 1$"}
+          ],
+          "answer": {"hi": "$2l + 1$", "en": "$2l + 1$"}
+        },
+        {
+          "q": {
+            "hi": "s-कक्षक (s-orbital) की आकृति कैसी होती है?",
+            "en": "What is the shape of an s-orbital?"
+          },
+          "options": [
+            {"hi": "डम्बलाकार (Dumbbell)", "en": "Dumbbell"},
+            {"hi": "गोलाकार (Spherical)", "en": "Spherical"},
+            {"hi": "द्वि-डम्बलाकार (Double dumbbell)", "en": "Double dumbbell"},
+            {"hi": "जटिल आकृति", "en": "Complex shape"}
+          ],
+          "answer": {"hi": "गोलाकार (Spherical)", "en": "Spherical"}
+        },
+        {
+          "q": {
+            "hi": "वह क्षेत्र या सतह जहाँ इलेक्ट्रॉन घनत्व या इलेक्ट्रॉन के पाए जाने की संभावना शून्य होती है, कहलाती है:",
+            "en": "The region or surface where the electron density or probability of finding an electron is zero is called a/an:"
+          },
+          "options": [
+            {"hi": "एंटी-नोड", "en": "Anti-node"},
+            {"hi": "नोड या नोडीय सतह (Node / Nodal surface)", "en": "Node / Nodal surface"},
+            {"hi": "कक्षक", "en": "Orbital"},
+            {"hi": "कोर", "en": "Core"}
+          ],
+          "answer": {"hi": "नोड या नोडीय सतह (Node / Nodal surface)", "en": "Node / Nodal surface"}
+        },
+        {
+          "q": {
+            "hi": "आउफबाउ सिद्धांत (Aufbau Principle) के अनुसार कक्षकों को भरा जाता है:",
+            "en": "According to the Aufbau Principle, orbitals are filled in order of their:"
+          },
+          "options": [
+            {"hi": "घटती ऊर्जा के क्रम में", "en": "Decreasing energy"},
+            {"hi": "बढ़ती ऊर्जा के क्रम में (Increasing energy)", "en": "Increasing energy"},
+            {"hi": "केवल आकार के आधार पर", "en": "Size only"},
+            {"hi": "यादृच्छिक क्रम में", "en": "Random order"}
+          ],
+          "answer": {"hi": "बढ़ती ऊर्जा के क्रम में (Increasing energy)", "en": "Increasing energy"}
+        },
+        {
+          "q": {
+            "hi": "कक्षकों की आपेक्षिक ऊर्जा निर्धारित करने के लिए किस नियम का उपयोग किया जाता है?",
+            "en": "Which rule is used to determine the relative energies of orbitals?"
+          },
+          "options": [
+            {"hi": "$(n + l)$ नियम", "en": "$(n + l)$ rule"},
+            {"hi": "हुंड का नियम", "en": "Hund's rule"},
+            {"hi": "पाउली का नियम", "en": "Pauli's rule"},
+            {"hi": "हाइजेनबर्ग नियम", "en": "Heisenberg rule"}
+          ],
+          "answer": {"hi": "$(n + l)$ नियम", "en": "$(n + l)$ rule"}
+        },
+        {
+          "q": {
+            "hi": "पाउली के अपवर्जन सिद्धांत (Pauli's Exclusion Principle) के अनुसार:",
+            "en": "According to Pauli's Exclusion Principle:"
+          },
+          "options": [
+            {"hi": "एक कक्षक में अधिकतम चार इलेक्ट्रॉन हो सकते हैं", "en": "An orbital can hold a maximum of four electrons"},
+            {"hi": "किसी परमाणु में किन्हीं भी दो इलेक्ट्रॉनों के लिए चारों क्वांटम संख्याओं का मान समान नहीं हो सकता", "en": "No two electrons in an atom can have the same set of all four quantum numbers"},
+            {"hi": "इलेक्ट्रॉन हमेशा समान चक्रण में रहते हैं", "en": "Electrons always have the same spin"},
+            {"hi": "पहले उच्च ऊर्जा स्तर भरे जाते हैं", "en": "Higher energy levels are filled first"}
+          ],
+          "answer": {"hi": "किसी परमाणु में किन्हीं भी दो इलेक्ट्रॉनों के लिए चारों क्वांटम संख्याओं का मान समान नहीं हो सकता", "en": "No two electrons in an atom can have the same set of all four quantum numbers"}
+        },
+        {
+          "q": {
+            "hi": "हुंड के अधिकतम बहुलता के नियम (Hund's Rule of Maximum Multiplicity) के अनुसार किसी उपकोश के कक्षकों में इलेक्ट्रॉनों का युग्मन (Pairing) तब तक नहीं होता जब तक कि:",
+            "en": "According to Hund's Rule of Maximum Multiplicity, pairing of electrons in orbitals of a subshell does not take place until:"
+          },
+          "options": [
+            {"hi": "सभी कक्षक खाली न हो जाएं", "en": "All orbitals are empty"},
+            {"hi": "उस उपकोश के प्रत्येक कक्षक में एक-एक इलेक्ट्रॉन न आ जाए", "en": "Each orbital of that subshell is singly occupied"},
+            {"hi": "तापमान 0 K न हो जाए", "en": "The temperature reaches 0 K"},
+            {"hi": "$s$ कक्षक पूरी तरह न भर जाए", "en": "The $s$ orbital is completely filled"}
+          ],
+          "answer": {"hi": "उस उपकोश के प्रत्येक कक्षक में एक-एक इलेक्ट्रॉन न आ जाए", "en": "Each orbital of that subshell is singly occupied"}
+        }
+      ]
     }
   }
 }
