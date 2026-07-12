@@ -1,0 +1,667 @@
+{
+  "class11": {
+    "chapter01": {
+      "section1": [
+        {
+          "q": {
+            "hi": "प्राचीन भारत में रसायन विज्ञान को क्या कहा जाता था?",
+            "en": "What was chemistry called in ancient India?"
+          },
+          "options": [
+            {"hi": "भौतिक शास्त्र", "en": "Bhautik Shastra"},
+            {"hi": "रसायन शास्त्र या रसविद्या", "en": "Rasayan Shastra or Rasvidya"},
+            {"hi": "जीव विज्ञान", "en": "Jeev Vigyan"},
+            {"hi": "भूगर्भ शास्त्र", "en": "Bhoogarbha Shastra"}
+          ],
+          "answer": {"hi": "रसायन शास्त्र या रसविद्या", "en": "Rasayan Shastra or Rasvidya"}
+        },
+        {
+          "q": {
+            "hi": "1300-1600 ईस्वी के दौरान रसायन विज्ञान का विकास मुख्य रूप से किस रूप में हुआ?",
+            "en": "During 1300-1600 CE, chemistry developed mainly in the form of what?"
+          },
+          "options": [
+            {"hi": "आधुनिक रसायन", "en": "Modern Chemistry"},
+            {"hi": "कीमियागरी और रसचिकित्सा (Alchemy & Iatrochemistry)", "en": "Alchemy and Iatrochemistry"},
+            {"hi": "नाभिकीय रसायन", "en": "Nuclear Chemistry"},
+            {"hi": "हरित रसायन", "en": "Green Chemistry"}
+          ],
+          "answer": {"hi": "कीमियागरी और रसचिकित्सा (Alchemy & Iatrochemistry)", "en": "Alchemy and Iatrochemistry"}
+        },
+        {
+          "q": {
+            "hi": "मोहनजोदड़ो में निर्माण कार्य में किस प्रकार के सीमेंट का उपयोग किया गया था?",
+            "en": "What type of cement was used in the construction work at Mohenjodaro?"
+          },
+          "options": [
+            {"hi": "पोर्टलैंड सीमेंट", "en": "Portland cement"},
+            {"hi": "जिप्सम सीमेंट", "en": "Gypsum cement"},
+            {"hi": "सिलिका सीमेंट", "en": "Silica cement"},
+            {"hi": "प्लास्टिक सीमेंट", "en": "Plastic cement"}
+          ],
+          "answer": {"hi": "जिप्सम सीमेंट", "en": "Gypsum cement"}
+        },
+        {
+          "q": {
+            "hi": "पारे के यौगिकों के निर्माण से संबंधित पुस्तक 'रसरत्नाकर' के लेखक कौन थे?",
+            "en": "Who was the author of the book 'Rasratnakar' which deals with the formulation of mercury compounds?"
+          },
+          "options": [
+            {"hi": "सुश्रुत", "en": "Sushruta"},
+            {"hi": "चरक", "en": "Charaka"},
+            {"hi": "नागार्जुन", "en": "Nagarjuna"},
+            {"hi": "चक्रपाणि", "en": "Chakrapani"}
+          ],
+          "answer": {"hi": "नागार्जुन", "en": "Nagarjuna"}
+        },
+        {
+          "q": {
+            "hi": "साबुन के आविष्कार और मरकरी सल्फाइड की खोज का श्रेय किसे जाता है?",
+            "en": "Who is credited with inventing soap and discovering mercury sulphide?"
+          },
+          "options": [
+            {"hi": "चक्रपाणि", "en": "Chakrapani"},
+            {"hi": "कणाद", "en": "Kanada"},
+            {"hi": "वाराहमिहिर", "en": "Varahamihir"},
+            {"hi": "कौटिल्य", "en": "Kautilya"}
+          ],
+          "answer": {"hi": "चक्रपाणि", "en": "Chakrapani"}
+        },
+        {
+          "q": {
+            "hi": "परमाणु सिद्धांत के प्रथम प्रणेता कौन थे, जिन्होंने 'परमाणु' नाम दिया था?",
+            "en": "Who was the first proponent of the atomic theory who named it 'Paramanu'?"
+          },
+          "options": [
+            {"hi": "जॉन डाल्टन", "en": "John Dalton"},
+            {"hi": "आचार्य कणाद", "en": "Acharya Kanada"},
+            {"hi": "डेमोक्रिटस", "en": "Democritus"},
+            {"hi": "रदरफोर्ड", "en": "Rutherford"}
+          ],
+          "answer": {"hi": "आचार्य कणाद", "en": "Acharya Kanada"}
+        },
+        {
+          "q": {
+            "hi": "आचार्य कणाद द्वारा रचित प्रसिद्ध ग्रंथ का नाम क्या है?",
+            "en": "What is the name of the famous text authored by Acharya Kanada?"
+          },
+          "options": [
+            {"hi": "चरक संहिता", "en": "Charaka Samhita"},
+            {"hi": "वैशेषिक सूत्र", "en": "Vaiseshika Sutras"},
+            {"hi": "सुश्रुत संहिता", "en": "Sushruta Samhita"},
+            {"hi": "बृहत् संहिता", "en": "Brihat Samhita"}
+          ],
+          "answer": {"hi": "वैशेषिक सूत्र", "en": "Vaiseshika Sutras"}
+        },
+        {
+          "q": {
+            "hi": "कैंसर थेरेपी में प्रभावी जीवन रक्षक दवाएं कौन सी हैं?",
+            "en": "Which life-saving drugs are effective in cancer therapy?"
+          },
+          "options": [
+            {"hi": "AZT", "en": "AZT"},
+            {"hi": "सिस्प्लैटिन और टैक्सोल", "en": "Cisplatin and taxol"},
+            {"hi": "पेनिसिलिन", "en": "Penicillin"},
+            {"hi": "पैरासिटामोल", "en": "Paracetamol"}
+          ],
+          "answer": {"hi": "सिस्प्लैटिन और टैक्सोल", "en": "Cisplatin and taxol"}
+        },
+        {
+          "q": {
+            "hi": "एड्स (AIDS) रोगियों की मदद के लिए किस दवा का उपयोग किया जाता है?",
+            "en": "Which drug is used for helping AIDS patients?"
+          },
+          "options": [
+            {"hi": "टैक्सोल", "en": "Taxol"},
+            {"hi": "सिस्प्लैटिन", "en": "Cisplatin"},
+            {"hi": "AZT (एजिडोथैमिडीन)", "en": "AZT (Azidothymidine)"},
+            {"hi": "स्ट्रेप्टोमाइसिन", "en": "Streptomycin"}
+          ],
+          "answer": {"hi": "AZT (एजिडोथैमिडीन)", "en": "AZT (Azidothymidine)"}
+        },
+        {
+          "q": {
+            "hi": "समताप मंडल में ओजोन परत के क्षय के लिए कौन सी गैसें जिम्मेदार हैं?",
+            "en": "Which gases are responsible for ozone depletion in the stratosphere?"
+          },
+          "options": [
+            {"hi": "CFCs (क्लोरोफ्लोरोकार्बन)", "en": "CFCs (Chlorofluorocarbons)"},
+            {"hi": "ऑक्सीजन", "en": "Oxygen"},
+            {"hi": "नाइट्रोजन", "en": "Nitrogen"},
+            {"hi": "आर्गन", "en": "Argon"}
+          ],
+          "answer": {"hi": "CFCs (क्लोरोफ्लोरोकार्बन)", "en": "CFCs (Chlorofluorocarbons)"}
+        }
+      ],
+      "section2": [
+        {
+          "q": {
+            "hi": "कोई भी वस्तु जिसका द्रव्यमान होता है और जो स्थान घेरती है, कहलाती है:",
+            "en": "Anything which has mass and occupies space is called:"
+          },
+          "options": [
+            {"hi": "ऊर्जा", "en": "Energy"},
+            {"hi": "द्रव्य (पदार्थ)", "en": "Matter"},
+            {"hi": "प्रकाश", "en": "Light"},
+            {"hi": "वैक्यूम", "en": "Vacuum"}
+          ],
+          "answer": {"hi": "द्रव्य (पदार्थ)", "en": "Matter"}
+        },
+        {
+          "q": {
+            "hi": "पदार्थ की किस अवस्था में कण एक व्यवस्थित क्रम में बहुत पास-पास होते हैं?",
+            "en": "In which state of matter are particles held very close to each other in an orderly fashion?"
+          },
+          "options": [
+            {"hi": "ठोस", "en": "Solid"},
+            {"hi": "द्रव", "en": "Liquid"},
+            {"hi": "गैस", "en": "Gas"},
+            {"hi": "प्लाज्मा", "en": "Plasma"}
+          ],
+          "answer": {"hi": "ठोस", "en": "Solid"}
+        },
+        {
+          "q": {
+            "hi": "द्रवों की क्या विशेषता होती है?",
+            "en": "What is the characteristic of liquids?"
+          },
+          "options": [
+            {"hi": "निश्चित आयतन और निश्चित आकार", "en": "Definite volume and definite shape"},
+            {"hi": "निश्चित आयतन लेकिन कोई निश्चित आकार नहीं", "en": "Definite volume but no definite shape"},
+            {"hi": "न तो निश्चित आयतन और न ही निश्चित आकार", "en": "Neither definite volume nor definite shape"},
+            {"hi": "परिवर्तनीय आयतन और निश्चित आकार", "en": "Variable volume and definite shape"}
+          ],
+          "answer": {"hi": "निश्चित आयतन लेकिन कोई निश्चित आकार नहीं", "en": "Definite volume but no definite shape"}
+        },
+        {
+          "q": {
+            "hi": "गैसों की क्या विशेषता होती है?",
+            "en": "What is the characteristic of gases?"
+          },
+          "options": [
+            {"hi": "निश्चित आकार और निश्चित आयतन", "en": "Definite shape and definite volume"},
+            {"hi": "निश्चित आयतन लेकिन अनिश्चित आकार", "en": "Definite volume but indefinite shape"},
+            {"hi": "न तो निश्चित आयतन और न ही निश्चित आकार", "en": "Neither definite volume nor definite shape"},
+            {"hi": "उच्च घनत्व और निश्चित आकार", "en": "High density and definite shape"}
+          ],
+          "answer": {"hi": "न तो निश्चित आयतन और न ही निश्चित आकार", "en": "Neither definite volume nor definite shape"}
+        },
+        {
+          "q": {
+            "hi": "जब किसी मिश्रण के घटक एक-दूसरे में पूरी तरह मिल जाते हैं और उसका संघटन समान रहता है, तो वह कहलाता है:",
+            "en": "When the components of a mixture completely mix with each other and its composition is uniform throughout, it is called:"
+          },
+          "options": [
+            {"hi": "विषमांगी मिश्रण", "en": "Heterogeneous mixture"},
+            {"hi": "समांगी मिश्रण", "en": "Homogeneous mixture"},
+            {"hi": "यौगिक", "en": "Compound"},
+            {"hi": "तत्व", "en": "Element"}
+          ],
+          "answer": {"hi": "समांगी मिश्रण", "en": "Homogeneous mixture"}
+        },
+        {
+          "q": {
+            "hi": "निम्नलिखित में से कौन सा विषमांगी मिश्रण का उदाहरण है?",
+            "en": "Which of the following is an example of a heterogeneous mixture?"
+          },
+          "options": [
+            {"hi": "हवा", "en": "Air"},
+            {"hi": "पानी में चीनी का घोल", "en": "Sugar solution in water"},
+            {"hi": "नमक और चीनी का मिश्रण", "en": "Mixture of salt and sugar"},
+            {"hi": "मिश्र धातु", "en": "Alloy"}
+          ],
+          "answer": {"hi": "नमक और चीनी का मिश्रण", "en": "Mixture of salt and sugar"}
+        },
+        {
+          "q": {
+            "hi": "मिश्रण के घटकों को किन विधियों द्वारा अलग किया जा सकता है?",
+            "en": "By which methods can the components of a mixture be separated?"
+          },
+          "options": [
+            {"hi": "केवल रासायनिक विधियों द्वारा", "en": "Only by chemical methods"},
+            {"hi": "भौतिक विधियों जैसे निस्पंदन, क्रिस्टलीकरण द्वारा", "en": "Physical methods such as filtration, crystallisation"},
+            {"hi": "नाभिकीय विखंडन द्वारा", "en": "By nuclear fission"},
+            {"hi": "इन्हें अलग नहीं किया जा सकता", "en": "They cannot be separated"}
+          ],
+          "answer": {"hi": "भौतिक विधियों जैसे निस्पंदन, क्रिस्टलीकरण द्वारा", "en": "Physical methods such as filtration, crystallisation"}
+        },
+        {
+          "q": {
+            "hi": "किसी तत्व के कणों में केवल:",
+            "en": "Particles of an element consist of only:"
+          },
+          "options": [
+            {"hi": "एक ही प्रकार के परमाणु होते हैं", "en": "One type of atoms"},
+            {"hi": "दो अलग-अलग प्रकार के यौगिक होते हैं", "en": "Two different types of compounds"},
+            {"hi": "विषमांगी कण होते हैं", "en": "Heterogeneous particles"},
+            {"hi": "केवल इलेक्ट्रॉन होते हैं", "en": "Only electrons"}
+          ],
+          "answer": {"hi": "एक ही प्रकार के परमाणु होते हैं", "en": "One type of atoms"}
+        },
+        {
+          "q": {
+            "hi": "जब दो या दो से अधिक विभिन्न तत्वों के परमाणु एक निश्चित अनुपात में जुड़ते हैं, तो प्राप्त होता है:",
+            "en": "When two or more atoms of different elements combine together in a definite ratio, we obtain a:"
+          },
+          "options": [
+            {"hi": "मिश्रण", "en": "Mixture"},
+            {"hi": "तत्व", "en": "Element"},
+            {"hi": "यौगिक का अणु", "en": "Molecule of a compound"},
+            {"hi": "मिश्र धातु", "en": "Alloy"}
+          ],
+          "answer": {"hi": "यौगिक का अणु", "en": "Molecule of a compound"}
+        },
+        {
+          "q": {
+            "hi": "यौगिकों के अवयवों को अलग किया जा सकता है:",
+            "en": "The constituents of a compound can be separated by:"
+          },
+          "options": [
+            {"hi": "सरल भौतिक विधियों द्वारा", "en": "Simple physical methods"},
+            {"hi": "केवल रासायनिक विधियों द्वारा", "en": "Only by chemical methods"},
+            {"hi": "हाथ से चुनकर", "en": "By simple hand-picking"},
+            {"hi": "छानकर (Filtration)", "en": "By filtration"}
+          ],
+          "answer": {"hi": "केवल रासायनिक विधियों द्वारा", "en": "Only by chemical methods"}
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "द्रव्यमान का SI मात्रक क्या है?",
+            "en": "What is the SI unit of mass?"
+          },
+          "options": [
+            {"hi": "ग्राम (g)", "en": "Gram (g)"},
+            {"hi": "किलोग्राम (kg)", "en": "Kilogram (kg)"},
+            {"hi": "मिलीग्राम (mg)", "en": "Megagram (mg)"},
+            {"hi": "पाउंड (lb)", "en": "Pound (lb)"
+            }
+          ],
+          "answer": {"hi": "किलोग्राम (kg)", "en": "Kilogram (kg)"}
+        },
+        {
+          "q": {
+            "hi": "पदार्थ की मात्रा (Amount of substance) का SI मात्रक क्या है?",
+            "en": "What is the SI unit of amount of substance?"
+          },
+          "options": [
+            {"hi": "मोल (mol)", "en": "Mole (mol)"},
+            {"hi": "कैंडेला (cd)", "en": "Candela (cd)"},
+            {"hi": "केल्विन (K)", "en": "Kelvin (K)"},
+            {"hi": "एम्पियर (A)", "en": "Ampere (A)"}
+          ],
+          "answer": {"hi": "मोल (mol)", "en": "Mole (mol)"}
+        },
+        {
+          "q": {
+            "hi": "किसी वस्तु पर गुरुत्वाकर्षण द्वारा लगाया गया बल क्या कहलाता है?",
+            "en": "What is the force exerted by gravity on an object called?"
+          },
+          "options": [
+            {"hi": "द्रव्यमान (Mass)", "en": "Mass"},
+            {"hi": "भार (Weight)", "en": "Weight"},
+            {"hi": "घनत्व (Density)", "en": "Density"},
+            {"hi": "आयतन (Volume)", "en": "Volume"}
+          ],
+          "answer": {"hi": "भार (Weight)", "en": "Weight"}
+        },
+        {
+          "q": {
+            "hi": "प्रयोगशाला में किसी पदार्थ का द्रव्यमान सटीकता से मापने के लिए किसका उपयोग किया जाता है?",
+            "en": "What is used to determine the mass of a substance accurately in the laboratory?"
+          },
+          "options": [
+            {"hi": "प्लेटफॉर्म बैलेंस", "en": "Platform balance"},
+            {"hi": "विश्लेषणात्मक तुला (Analytical balance)", "en": "Analytical balance"},
+            {"hi": "थर्मामीटर", "en": "Thermometer"},
+            {"hi": "ब्यूरेट", "en": "Burette"}
+          ],
+          "answer": {"hi": "विश्लेषणात्मक तुला (Analytical balance)", "en": "Analytical balance"}
+        },
+        {
+          "q": {
+            "hi": "SI प्रणाली में आयतन का मात्रक क्या है?",
+            "en": "What is the unit of volume in the SI system?"
+          },
+          "options": [
+            {"hi": "लीटर (L)", "en": "Litre (L)"},
+            {"hi": "$m^3$", "en": "$m^3$"},
+            {"hi": "mL", "en": "mL"},
+            {"hi": "$cm^3$", "en": "$cm^3$"}
+          ],
+          "answer": {"hi": "$m^3$", "en": "$m^3$"}
+        },
+        {
+          "q": {
+            "hi": "घनत्व (Density) का सूत्र क्या है?",
+            "en": "What is the formula for Density?"
+          },
+          "options": [
+            {"hi": "द्रव्यमान $\\times$ आयतन", "en": "Mass $\\times$ Volume"},
+            {"hi": "आयतन / द्रव्यमान", "en": "Volume / Mass"},
+            {"hi": "द्रव्यमान / आयतन", "en": "Mass / Volume"},
+            {"hi": "भार $\\times$ गुरुत्वाकर्षण", "en": "Weight $\\times$ Gravity"}
+          ],
+          "answer": {"hi": "द्रव्यमान / आयतन", "en": "Mass / Volume"}
+        },
+        {
+          "q": {
+            "hi": "तापमान मापने का SI मात्रक क्या है?",
+            "en": "What is the SI unit to measure temperature?"
+          },
+          "options": [
+            {"hi": "डिग्री सेल्सियस ($^\\circ$C)", "en": "Degree celsius ($^\\circ$C)"},
+            {"hi": "डिग्री फारेनहाइट ($^\\circ$F)", "en": "Degree fahrenheit ($^\\circ$F)"},
+            {"hi": "केल्विन (K)", "en": "Kelvin (K)"},
+            {"hi": "रैंकिन", "en": "Rankine"}
+          ],
+          "answer": {"hi": "केल्विन (K)", "en": "Kelvin (K)"}
+        },
+        {
+          "q": {
+            "hi": "फॉरेनहाइट और सेल्सियस पैमाने के बीच सही संबंध क्या है?",
+            "en": "What is the correct relationship between Fahrenheit and Celsius scales?"
+          },
+          "options": [
+            {"hi": "$^\\circ$F = $\\frac{9}{5}(^\\circ$C) + 32", "en": "$^\\circ$F = \\frac{9}{5}(^\\circ$C) + 32"},
+            {"hi": "$^\\circ$F = $\\frac{5}{9}(^\\circ$C) - 32", "en": "$^\\circ$F = \\frac{5}{9}(^\\circ$C) - 32"},
+            {"hi": "$^\\circ$F = $^\\circ$C + 273.15", "en": "$^\\circ$F = ^\\circ$C + 273.15"},
+            {"hi": "$^\\circ$F = $\\frac{9}{5}(^\\circ$C) - 32", "en": "$^\\circ$F = \\frac{9}{5}(^\\circ$C) - 32"}
+          ],
+          "answer": {"hi": "$^\\circ$F = $\\frac{9}{5}(^\\circ$C) + 32", "en": "$^\\circ$F = \\frac{9}{5}(^\\circ$C) + 32"}
+        },
+        {
+          "q": {
+            "hi": "केल्विन पैमाने पर कौन सा तापमान संभव नहीं है?",
+            "en": "Which temperature is not possible on the Kelvin scale?"
+          },
+          "options": [
+            {"hi": "0 K", "en": "0 K"},
+            {"hi": "100 K", "en": "100 K"},
+            {"hi": "ऋणात्मक तापमान (Negative temperature)", "en": "Negative temperature"},
+            {"hi": "273.15 K", "en": "273.15 K"}
+          ],
+          "answer": {"hi": "ऋणात्मक तापमान (Negative temperature)", "en": "Negative temperature"}
+        },
+        {
+          "q": {
+            "hi": "भारत में माप के राष्ट्रीय मानकों को बनाए रखने की जिम्मेदारी किस प्रयोगशाला की है?",
+            "en": "Which laboratory is responsible for maintaining the National Standards of Measurement in India?"
+          },
+          "options": [
+            {"hi": "भारतीय विज्ञान संस्थान (IISc)", "en": "Indian Institute of Science (IISc)"},
+            {"hi": "राष्ट्रीय भौतिक प्रयोगशाला (NPL), नई दिल्ली", "en": "National Physical Laboratory (NPL), New Delhi"},
+            {"hi": "भाभा परमाणु अनुसंधान केंद्र (BARC)", "en": "Bhabha Atomic Research Centre (BARC)"},
+            {"hi": "IIT दिल्ली", "en": "IIT Delhi"}
+          ],
+          "answer": {"hi": "राष्ट्रीय भौतिक प्रयोगशाला (NPL), नई दिल्ली", "en": "National Physical Laboratory (NPL), New Delhi"}
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "वैज्ञानिक संकेतन (Scientific Notation) में किसी भी संख्या को किस रूप में प्रदर्शित किया जाता है?",
+            "en": "In scientific notation, any number can be represented in which form?"
+          },
+          "options": [
+            {"hi": "$N \\times 10^n$", "en": "$N \\times 10^n$"},
+            {"hi": "$N + 10^n$", "en": "$N + 10^n$"},
+            {"hi": "$N / 10^n$", "en": "$N / 10^n$"},
+            {"hi": "$N^n$", "en": "$N^n$"}
+          ],
+          "answer": {"hi": "$N \\times 10^n$", "en": "$N \\times 10^n$"}
+        },
+        {
+          "q": {
+            "hi": "वैज्ञानिक संकेतन में 232.508 को कैसे लिखा जाएगा?",
+            "en": "How will 232.508 be written in scientific notation?"
+          },
+          "options": [
+            {"hi": "$23.2508 \\times 10^1$", "en": "$23.2508 \\times 10^1$"},
+            {"hi": "$2.32508 \\times 10^2$", "en": "$2.32508 \\times 10^2$"},
+            {"hi": "$0.232508 \\times 10^3$", "en": "$0.232508 \\times 10^3$"},
+            {"hi": "$2.32508 \\times 10^{-2}$", "en": "$2.32508 \\times 10^{-2}$"}
+          ],
+          "answer": {"hi": "$2.32508 \\times 10^2$", "en": "$2.32508 \\times 10^2$"}
+        },
+        {
+          "q": {
+            "hi": "संख्या 0.0025 में कितने सार्थक अंक (Significant Figures) मौजूद हैं?",
+            "en": "How many significant figures are present in the number 0.0025?"
+          },
+          "options": [
+            {"hi": "4", "en": "4"},
+            {"hi": "2", "en": "2"},
+            {"hi": "3", "en": "3"},
+            {"hi": "1", "en": "1"}
+          ],
+          "answer": {"hi": "2", "en": "2"}
+        },
+        {
+          "q": {
+            "hi": "संख्या 2.005 में सार्थक अंकों की संख्या कितनी है?",
+            "en": "What is the number of significant figures in 2.005?"
+          },
+          "options": [
+            {"hi": "2", "en": "2"},
+            {"hi": "3", "en": "3"},
+            {"hi": "4", "en": "4"},
+            {"hi": "5", "en": "5"}
+          ],
+          "answer": {"hi": "4", "en": "4"}
+        },
+        {
+          "q": {
+            "hi": "किसी संख्या के अंत में या दाईं ओर के शून्य सार्थक होते हैं, यदि वे:",
+            "en": "Zeros at the end or right of a number are significant, provided they are:"
+          },
+          "options": [
+            {"hi": "दशमलव बिंदु के दाईं ओर हों", "en": "On the right side of the decimal point"},
+            {"hi": "संख्या के शुरुआत में हों", "en": "At the beginning of the number"},
+            {"hi": "बिना दशमलव वाली संख्या में हों", "en": "In a number without a decimal"},
+            {"hi": "ऋणात्मक हों", "en": "Negative"}
+          ],
+          "answer": {"hi": "दशमलव बिंदु के दाईं ओर हों", "en": "On the right side of the decimal point"}
+        },
+        {
+          "q": {
+            "hi": "परिशुद्धता (Precision) शब्द का क्या अर्थ है?",
+            "en": "What does the term precision refer to?"
+          },
+          "options": [
+            {"hi": "किसी विशिष्ट मान का वास्तविक मान से मेल खाना", "en": "Agreement of a particular value to the true value"},
+            {"hi": "एक ही राशि के विभिन्न मापनों की आपस में निकटता", "en": "Closeness of various measurements for the same quantity"},
+            {"hi": "मापन में अनिश्चितता का पूर्ण अभाव", "en": "Complete absence of uncertainty in measurement"},
+            {"hi": "वैज्ञानिक संकेतन का सही उपयोग", "en": "Correct use of scientific notation"}
+          ],
+          "answer": {"hi": "एक ही राशि के विभिन्न मापनों की आपस में निकटता", "en": "Closeness of various measurements for the same quantity"}
+        },
+        {
+          "q": {
+            "hi": "यथार्थता (Accuracy) का संबंध किससे है?",
+            "en": "What is accuracy related to?"
+          },
+          "options": [
+            {"hi": "विभिन्न मापनों की आपस में निकटता से", "en": "Closeness of various measurements to each other"},
+            {"hi": "किसी विशिष्ट मान का परिणाम के वास्तविक मान से मेल खाने से", "en": "Agreement of a particular value to the true value of the result"},
+            {"hi": "सार्थक अंकों की संख्या बढ़ाने से", "en": "Increasing the number of significant figures"},
+            {"hi": "इकाइयों के विमीय विश्लेषण से", "en": "Dimensional analysis of units"}
+          ],
+          "answer": {"hi": "किसी विशिष्ट मान का परिणाम के वास्तविक मान से मेल खाने से", "en": "Agreement of a particular value to the true value of the result"}
+        },
+        {
+          "q": {
+            "hi": "यदि 6.35 को 5 हटाकर निकटित (round off) करना हो, तो परिणाम क्या होगा?",
+            "en": "If 6.35 is to be rounded off by removing 5, what will be the result?"
+          },
+          "options": [
+            {"hi": "6.3", "en": "6.3"},
+            {"hi": "6.4", "en": "6.4"},
+            {"hi": "6.35", "en": "6.35"},
+            {"hi": "6.2", "en": "6.2"}
+          ],
+          "answer": {"hi": "6.4", "en": "6.4"}
+        },
+        {
+          "q": {
+            "hi": "गणना करते समय इकाइयों को एक प्रणाली से दूसरी प्रणाली में बदलने की विधि को क्या कहते हैं?",
+            "en": "What is the method used to convert units from one system to another while calculating called?"
+          },
+          "options": [
+            {"hi": "सार्थक विश्लेषण", "en": "Significant analysis"},
+            {"hi": "विमीय विश्लेषण (Dimensional analysis)", "en": "Dimensional analysis"},
+            {"hi": "वैज्ञानिक संकेतन", "en": "Scientific notation"},
+            {"hi": "परिशुद्धता मापन", "en": "Precision measurement"}
+          ],
+          "answer": {"hi": "विमीय विश्लेषण (Dimensional analysis)", "en": "Dimensional analysis"}
+        },
+        {
+          "q": {
+            "hi": "1 इंच (in) कितने सेंटीमीटर (cm) के बराबर होता है?",
+            "en": "1 inch (in) is equal to how many centimeters (cm)?"
+          },
+          "options": [
+            {"hi": "1.00 cm", "en": "1.00 cm"},
+            {"hi": "2.54 cm", "en": "2.54 cm"},
+            {"hi": "5.42 cm", "en": "5.42 cm"},
+            {"hi": "0.39 cm", "en": "0.39 cm"}
+          ],
+          "answer": {"hi": "2.54 cm", "en": "2.54 cm"}
+        }
+      ],
+      "section5": [
+        {
+          "q": {
+            "hi": "द्रव्यमान संरक्षण का नियम (Law of Conservation of Mass) किसने प्रतिपादित किया था?",
+            "en": "Who put forth the Law of Conservation of Mass?"
+          },
+          "options": [
+            {"hi": "जोसेफ प्राउस्ट", "en": "Joseph Proust"},
+            {"hi": "एंटोनी लेवोशिए (Antoine Lavoisier)", "en": "Antoine Lavoisier"},
+            {"hi": "जॉन डाल्टन", "en": "John Dalton"},
+            {"hi": "गे लुसाक", "en": "Gay Lussac"}
+          ],
+          "answer": {"hi": "एंटोनी लेवोशिए (Antoine Lavoisier)", "en": "Antoine Lavoisier"}
+        },
+        {
+          "q": {
+            "hi": "स्थिर अनुपात का नियम (Law of Definite Proportions) किसके द्वारा दिया गया था?",
+            "en": "By whom was the Law of Definite Proportions given?"
+          },
+          "options": [
+            {"hi": "जोसेफ प्राउस्ट", "en": "Joseph Proust"},
+            {"hi": "एंटोनी लेवोशिए", "en": "Antoine Lavoisier"},
+            {"hi": "आवोगाद्रो", "en": "Avogadro"},
+            {"hi": "डाल्टन", "en": "Dalton"}
+          ],
+          "answer": {"hi": "जोसेफ प्राउस्ट", "en": "Joseph Proust"}
+        },
+        {
+          "q": {
+            "hi": "गुणित अनुपात का नियम (Law of Multiple Proportions) डाल्टन द्वारा किस वर्ष प्रस्तावित किया गया था?",
+            "en": "In which year was the Law of Multiple Proportions proposed by Dalton?"
+          },
+          "options": [
+            {"hi": "1789", "en": "1789"},
+            {"hi": "1803", "en": "1803"},
+            {"hi": "1811", "en": "1811"},
+            {"hi": "1860", "en": "1860"}
+          ],
+          "answer": {"hi": "1803", "en": "1803"}
+        },
+        {
+          "q": {
+            "hi": "समान तापमान और दबाव पर गैसों के समान आयतन में अणुओं की संख्या समान होनी चाहिए, यह किसका नियम है?",
+            "en": "Equal volumes of all gases at the same temperature and pressure should contain equal number of molecules, whose law is this?"
+          },
+          "options": [
+            {"hi": "गे लुसाक का नियम", "en": "Gay Lussac's Law"},
+            {"hi": "आवोगाद्रो का नियम (Avogadro's Law)", "en": "Avogadro's Law"},
+            {"hi": "डाल्टन का नियम", "en": "Dalton's Law"},
+            {"hi": "प्राउस्ट का नियम", "en": "Proust's Law"}
+          ],
+          "answer": {"hi": "आवोगाद्रो का नियम (Avogadro's Law)", "en": "Avogadro's Law"}
+        },
+        {
+          "q": {
+            "hi": "वर्तमान में परमाणु द्रव्यमान प्रणाली किस मानक परमाणु पर आधारित है?",
+            "en": "The present system of atomic masses is based on which standard atom?"
+          },
+          "options": [
+            {"hi": "हाइड्रोजन-1 ($^1$H)", "en": "Hydrogen-1 ($^1$H)"},
+            {"hi": "कार्बन-12 ($^{12}$C)", "en": "Carbon-12 ($^{12}$C)"},
+            {"hi": "ऑक्सीजन-16 ($^{16}$O)", "en": "Oxygen-16 ($^{16}$O)"},
+            {"hi": "नाइट्रोजन-14 ($^{14}$N)", "en": "Nitrogen-14 ($^{14}$N)"}
+          ],
+          "answer": {"hi": "कार्बन-12 ($^{12}$C)", "en": "Carbon-12 ($^{12}$C)"}
+        },
+        {
+          "q": {
+            "hi": "एक मोल (1 mol) में प्राथमिक संस्थाओं (elementary entities) की निश्चित संख्या क्या होती है?",
+            "en": "What is the exact number of elementary entities contained in one mole (1 mol)?"
+          },
+          "options": [
+            {"hi": "$6.022 \\times 10^{23}$", "en": "$6.022 \\times 10^{23}$"},
+            {"hi": "$1.66 \\times 10^{-24}$", "en": "$1.66 \\times 10^{-24}$"},
+            {"hi": "$3.0 \\times 10^8$", "en": "$3.0 \\times 10^8$"},
+            {"hi": "$6.626 \\times 10^{-34}$", "en": "$6.626 \\times 10^{-34}$"}
+          ],
+          "answer": {"hi": "$6.022 \\times 10^{23}$", "en": "$6.022 \\times 10^{23}$"}
+        },
+        {
+          "q": {
+            "hi": "कौन सा सूत्र किसी यौगिक में मौजूद विभिन्न परमाणुओं के सरलतम पूर्ण संख्या अनुपात को दर्शाता है?",
+            "en": "Which formula represents the simplest whole number ratio of various atoms present in a compound?"
+          },
+          "options": [
+            {"hi": "आणविक सूत्र (Molecular formula)", "en": "Molecular formula"},
+            {"hi": "मूलानुपाती सूत्र (Empirical formula)", "en": "Empirical formula"},
+            {"hi": "संरचनात्मक सूत्र", "en": "Structural formula"},
+            {"hi": "रासायनिक समीकरण", "en": "Chemical equation"}
+          ],
+          "answer": {"hi": "मूलानुपाती सूत्र (Empirical formula)", "en": "Empirical formula"}
+        },
+        {
+          "q": {
+            "hi": "संतुलित रासायनिक अभिक्रिया में जो अभिकर्मक सबसे पहले समाप्त (उपभोग) हो जाता है, उसे कहते हैं:",
+            "en": "The reactant which gets consumed first in a balanced chemical reaction limits the amount of product formed and is called:"
+          },
+          "options": [
+            {"hi": "आधिक्य रेएजेंट (Excess reagent)", "en": "Excess reagent"},
+            {"hi": "सीमांत अभिकर्मक (Limiting Reagent)", "en": "Limiting Reagent"},
+            {"hi": "उत्प्रेरक (Catalyst)", "en": "Catalyst"},
+            {"hi": "उत्पाद (Product)", "en": "Product"}
+          ],
+          "answer": {"hi": "सीमांत अभिकर्मक (Limiting Reagent)", "en": "Limiting Reagent"}
+        },
+        {
+          "q": {
+            "hi": "विलेय के मोलों की संख्या जो 1 लीटर विलयन में घुली हो, कहलाती है:",
+            "en": "The number of moles of the solute present in 1 litre of the solution is defined as:"
+          },
+          "options": [
+            {"hi": "मोललता (Molality)", "en": "Molality"},
+            {"hi": "मोल अंश (Mole fraction)", "en": "Mole fraction"},
+            {"hi": "मोलरता (Molarity)", "en": "Molarity"},
+            {"hi": "द्रव्यमान प्रतिशत", "en": "Mass per cent"}
+          ],
+          "answer": {"hi": "मोलरता (Molarity)", "en": "Molarity"}
+        },
+        {
+          "q": {
+            "hi": "विलयन की मोललता (Molality) तापमान के साथ क्यों नहीं बदलती?",
+            "en": "Why does the molality of a solution not change with temperature?"
+          },
+          "options": [
+            {"hi": "क्योंकि आयतन तापमान पर निर्भर करता है", "en": "Because volume depends on temperature"},
+            {"hi": "क्योंकि द्रव्यमान तापमान से अप्रभावित रहता है", "en": "Because mass remains unaffected with temperature"},
+            {"hi": "क्योंकि घनत्व नियत रहता है", "en": "Because density remains constant"},
+            {"hi": "क्योंकि मोल अंश बदल जाता है", "en": "Because mole fraction changes"}
+          ],
+          "answer": {"hi": "क्योंकि द्रव्यमान तापमान से अप्रभावित रहता है", "en": "Because mass remains unaffected with temperature"}
+        }
+      ]
+    }
+  }
+}
