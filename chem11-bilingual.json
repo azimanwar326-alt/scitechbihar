@@ -1986,6 +1986,668 @@
           "answer": {"hi": "यह बढ़ती है (It increases)", "en": "It increases"}
         }
       ]
+    },
+    "chapter04": {
+      "section1": [
+        {
+          "q": {
+            "hi": "उत्कृष्ट गैसों को छोड़कर अन्य तत्वों के परमाणु आपस में रासायनिक रूप से क्यों जुड़ते हैं?",
+            "en": "Why do atoms of elements other than noble gases combine chemically with each other?"
+          },
+          "options": [
+            {"hi": "स्थायित्व प्राप्त करने और अष्टक पूरा करने के लिए", "en": "To achieve stability and complete their octet"},
+            {"hi": "अपने प्रोटॉन खोने के लिए", "en": "To lose their protons"},
+            {"hi": "आकार बढ़ाने के लिए", "en": "To increase their size"},
+            {"hi": "गैसीय अवस्था से ठोस में बदलने के लिए", "en": "To change from gaseous to solid state"}
+          ],
+          "answer": {"hi": "स्थायित्व प्राप्त करने और अष्टक पूरा करने के लिए", "en": "To achieve stability and complete their octet"}
+        },
+        {
+          "q": {
+            "hi": "रासायनिक आबंधन की व्याख्या के लिए सबसे पहले इलेक्ट्रॉनिक अवधारणा किसने प्रस्तुत की थी?",
+            "en": "Who first presented the electronic theory for explaining chemical bonding?"
+          },
+          "options": [
+            {"hi": "डाल्टन और रदरफोर्ड", "en": "Dalton and Rutherford"},
+            {"hi": "कोसेल तथा लूइस (Kossel and Lewis)", "en": "Kossel and Lewis"},
+            {"hi": "बोर और थॉमसन", "en": "Bohr and Thomson"},
+            {"hi": "श्रोडिंगर और हाइजेनबर्ग", "en": "Schrodinger and Heisenberg"}
+          ],
+          "answer": {"hi": "कोसेल तथा लूइस (Kossel and Lewis)", "en": "Kossel and Lewis"}
+        },
+        {
+          "q": {
+            "hi": "लूइस प्रतीकों (Lewis symbols) में एक तत्व के प्रतीक के चारों ओर बिंदु क्या प्रदर्शित करते हैं?",
+            "en": "In Lewis symbols, what do the dots around the symbol of an element represent?"
+          },
+          "options": [
+            {"hi": "कुल इलेक्ट्रॉनों की संख्या", "en": "Total number of electrons"},
+            {"hi": "संयोजी इलेक्ट्रॉनों की संख्या (Number of valence electrons)", "en": "Number of valence electrons"},
+            {"hi": "प्रोटॉनों की संख्या", "en": "Number of protons"},
+            {"hi": "परमाणु का द्रव्यमान", "en": "Mass of the atom"}
+          ],
+          "answer": {"hi": "संयोजी इलेक्ट्रॉनों की संख्या (Number of valence electrons)", "en": "Number of valence electrons"}
+        },
+        {
+          "q": {
+            "hi": "परमाणुओं के बीच इलेक्ट्रॉनों के पूर्ण स्थानांतरण (transfer) से बनने वाले आबंध को क्या कहते हैं?",
+            "en": "What is the bond formed by the complete transfer of electrons between atoms called?"
+          },
+          "options": [
+            {"hi": "सहसंयोजक आबंध", "en": "Covalent bond"},
+            {"hi": "वैद्युत संयोजक या आयनिक आबंध (Ionic bond)", "en": "Electrovalent or Ionic bond"},
+            {"hi": "धात्विक आबंध", "en": "Metallic bond"},
+            {"hi": "हाइड्रोजन आबंध", "en": "Hydrogen bond"}
+          ],
+          "answer": {"hi": "वैद्युत संयोजक या आयनिक आबंध (Ionic bond)", "en": "Electrovalent or Ionic bond"}
+        },
+        {
+          "q": {
+            "hi": "परमाणुओं के बीच इलेक्ट्रॉनों के समान साझाकरण (sharing) से बनने वाले आबंध को क्या कहा जाता है?",
+            "en": "What is the bond formed by the equal sharing of electrons between atoms called?"
+          },
+          "options": [
+            {"hi": "आनिक आबंध", "en": "Ionic bond"},
+            {"hi": "सहसंयोजक आबंध (Covalent bond)", "en": "Covalent bond"},
+            {"hi": "हाइड्रोजन आबंध", "en": "Hydrogen bond"},
+            {"hi": "वांडरवाल्स आबंध", "en": "Van der Waals bond"}
+          ],
+          "answer": {"hi": "सहसंयोजक आबंध (Covalent bond)", "en": "Covalent bond"}
+        },
+        {
+          "q": {
+            "hi": "निम्नलिखित में से किस अणु में केंद्रीय परमाणु का अष्टक अपूर्ण (incomplete octet) है?",
+            "en": "In which of the following molecules does the central atom have an incomplete octet?"
+          },
+          "options": [
+            {"hi": "H$_2$O", "en": "H$_2$O"},
+            {"hi": "NH$_3$", "en": "NH$_3$"},
+            {"hi": "LiCl / BeH$_2$", "en": "LiCl / BeH$_2$"},
+            {"hi": "CH$_4$", "en": "CH$_4$"}
+          ],
+          "answer": {"hi": "LiCl / BeH$_2$", "en": "LiCl / BeH$_2$"}
+        },
+        {
+          "q": {
+            "hi": "विषम इलेक्ट्रॉन अणुओं (Odd-electron molecules) का एक उदाहरण कौन सा है जो अष्टक नियम का अपवाद है?",
+            "en": "Which is an example of odd-electron molecules that forms an exception to the octet rule?"
+          },
+          "options": [
+            {"hi": "CO$_2$", "en": "CO$_2$"},
+            {"hi": "NO (नाइट्रिक ऑक्साइड)", "en": "NO (Nitric oxide)"},
+            {"hi": "H$_2$O", "en": "H$_2$O"},
+            {"hi": "NH$_4^+$", "en": "NH$_4^+$"}
+          ],
+          "answer": {"hi": "NO (नाइट्रिक ऑक्साइड)", "en": "NO (Nitric oxide)"}
+        },
+        {
+          "q": {
+            "hi": "SF$_6$ (सल्फर हेक्साफ्लोराइड) अणु में केंद्रीय सल्फर परमाणु के चारों ओर 12 इलेक्ट्रॉन होते हैं। इसे क्या कहा जाता है?",
+            "en": "In SF$_6$, the central sulfur atom is surrounded by 12 electrons. What is this called?"
+          },
+          "options": [
+            {"hi": "अपूर्ण अष्टक", "en": "Incomplete octet"},
+            {"hi": "प्रसारित अष्टक (Expanded octet)", "en": "Expanded octet"},
+            {"hi": "सामान्य अष्टक", "en": "Normal octet"},
+            {"hi": "आयनिक कोर", "en": "Ionic core"}
+          ],
+          "answer": {"hi": "प्रसारित अष्टक (Expanded octet)", "en": "Expanded octet"}
+        },
+        {
+          "q": {
+            "hi": "किसी अणु में आबंधित परमाणुओं के नाभिकों के बीच की साम्यावस्था दूरी क्या कहलाती है?",
+            "en": "What is the equilibrium distance between the nuclei of bonded atoms in a molecule called?"
+          },
+          "options": [
+            {"hi": "आबंध कोण", "en": "Bond angle"},
+            {"hi": "आबंध लंबाई (Bond length)", "en": "Bond length"},
+            {"hi": "आबंध एंथैल्पी", "en": "Bond enthalpy"},
+            {"hi": "परमाणु त्रिज्या", "en": "Atomic radius"}
+          ],
+          "answer": {"hi": "आबंध लंबाई (Bond length)", "en": "Bond length"}
+        },
+        {
+          "q": {
+            "hi": "एक बहुपरमाणुक अणु में केंद्रीय परमाणु के परितः आबंधित इलेक्ट्रॉनों वाले कक्षकों के बीच के कोण को क्या कहते हैं?",
+            "en": "What is the angle between the orbitals containing bonding electrons around the central atom in a polyatomic molecule called?"
+          },
+          "options": [
+            {"hi": "आबंध लंबाई", "en": "Bond length"},
+            {"hi": "आबंध कोण (Bond angle)", "en": "Bond angle"},
+            {"hi": "द्विध्रुव आघूर्ण", "en": "Dipole moment"},
+            {"hi": "क्रांतिक कोण", "en": "Critical angle"}
+          ],
+          "answer": {"hi": "आबंध कोण (Bond angle)", "en": "Bond angle"}
+        }
+      ],
+      "section2": [
+        {
+          "q": {
+            "hi": "गैसीय अवस्था में दो परमाणुओं के बीच एक मोल आबंधों को तोड़ने के लिए आवश्यक ऊर्जा कहलाती है:",
+            "en": "The energy required to break one mole of bonds between two atoms in a gaseous state is called:"
+          },
+          "options": [
+            {"hi": "जलयोजन ऊर्जा", "en": "Hydration energy"},
+            {"hi": "आबंध एंथैल्पी (Bond enthalpy)", "en": "Bond enthalpy"},
+            {"hi": "जालक ऊर्जा", "en": "Lattice energy"},
+            {"hi": "आयनन विभव", "en": "Ionization potential"}
+          ],
+          "answer": {"hi": "आबंध एंथैल्पी (Bond enthalpy)", "en": "Bond enthalpy"}
+        },
+        {
+          "q": {
+            "hi": "लूइस संरचना के अनुसार, नाइट्रोजन अणु (N$_2$) में नाइट्रोजन परमाणुओं के बीच आबंध कोटि (Bond order) क्या है?",
+            "en": "According to Lewis structure, what is the bond order between nitrogen atoms in a nitrogen molecule (N$_2$)?"
+          },
+          "options": [
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "3", "en": "3"},
+            {"hi": "0", "en": "0"}
+          ],
+          "answer": {"hi": "3", "en": "3"}
+        },
+        {
+          "q": {
+            "hi": "आबंध कोटि (Bond order) बढ़ने पर आबंध लंबाई और आबंध एंथैल्पी पर क्या प्रभाव पड़ता है?",
+            "en": "As the bond order increases, what happens to bond length and bond enthalpy?"
+          },
+          "options": [
+            {"hi": "आबंध लंबाई बढ़ती है और आबंध एंथैल्पी घटती है", "en": "Bond length increases and bond enthalpy decreases"},
+            {"hi": "आबंध लंबाई घटती है और आबंध एंथैल्पी बढ़ती है", "en": "Bond length decreases and bond enthalpy increases"},
+            {"hi": "दोनों बढ़ते हैं", "en": "Both increase"},
+            {"hi": "दोनों घटते हैं", "en": "Both decrease"}
+          ],
+          "answer": {"hi": "आबंध लंबाई घटती है और आबंध एंथैल्पी बढ़ती है", "en": "Bond length decreases and bond enthalpy increases"}
+        },
+        {
+          "q": {
+            "hi": "जब किसी अणु को केवल एक लूइस संरचना द्वारा सही ढंग से नहीं दर्शाया जा सकता, तो उसकी व्याख्या कई कैनोनिकल संरचनाओं द्वारा की जाती है। इस परिघटना को क्या कहते हैं?",
+            "en": "When a molecule cannot be represented correctly by a single Lewis structure, it is explained by multiple canonical structures. What is this called?"
+          },
+          "options": [
+            {"hi": "संकरण", "en": "Hybridisation"},
+            {"hi": "अनुनाद (Resonance)", "en": "Resonance"},
+            {"hi": "ध्रुवण", "en": "Polarisation"},
+            {"hi": "समावयवता", "en": "Isomerism"}
+          ],
+          "answer": {"hi": "अनुनाद (Resonance)", "en": "Resonance"}
+        },
+        {
+          "q": {
+            "hi": "किसी सहसंयोजक आबंध में आवेश के पृथक्करण (separation of charge) के माप को क्या कहते हैं?",
+            "en": "What is the measure of the separation of charge in a covalent bond called?"
+          },
+          "options": [
+            {"hi": "आबंध कोटि", "en": "Bond order"},
+            {"hi": "द्विध्रुव आघूर्ण (Dipole moment)", "en": "Dipole moment"},
+            {"hi": "औपचारिक आवेश", "en": "Formal charge"},
+            {"hi": "विद्युत ऋणात्मकता", "en": "Electronegativity"}
+          ],
+          "answer": {"hi": "द्विध्रुव आघूर्ण (Dipole moment)", "en": "Dipole moment"}
+        },
+        {
+          "q": {
+            "hi": "द्विध्रुव आघूर्ण ($\\mu$) की SI इकाई क्या है, या इसे सामान्यतः किस गैर-SI मात्रक में मापा जाता है?",
+            "en": "What is the common unit used to express dipole moment ($\\mu$)?"
+          },
+          "options": [
+            {"hi": "कूलॉम (C)", "en": "Coulomb (C)"},
+            {"hi": "डिबाई (Debye, D)", "en": "Debye (D)"},
+            {"hi": "जूल (J)", "en": "Joule (J)"},
+            {"hi": "फैराडे (F)", "en": "Faraday (F)"}
+          ],
+          "answer": {"hi": "डिबाई (Debye, D)", "en": "Debye (D)"}
+        },
+        {
+          "q": {
+            "hi": "यद्यपि BF$_3$ (बोरॉन ट्राइफ्लोराइड) में तीन ध्रुवीय B-F आबंध होते हैं, फिर भी इसका कुल द्विध्रुव आघूर्ण शून्य क्यों होता है?",
+            "en": "Although BF$_3$ contains three polar B-F bonds, why is its net dipole moment zero?"
+          },
+          "options": [
+            {"hi": "क्योंकि आबंध परस्पर 90 डिग्री पर होते हैं", "en": "Because the bonds are at 90 degrees to each other"},
+            {"hi": "इसकी सममित त्रिकोणीय समतलीय आकृति आबंध आघूर्णों को निरस्त कर देती है", "en": "Its symmetrical trigonal planar shape cancels out the bond moments"},
+            {"hi": "बोरॉन अधातु है", "en": "Boron is a non-metal"},
+            {"hi": "क्योंकि फ्लोरिन बहुत छोटा है", "en": "Because fluorine is very small"}
+          ],
+          "answer": {"hi": "इसकी सममित त्रिकोणीय समतलीय आकृति आबंध आघूर्णों को निरस्त कर देती है", "en": "Its symmetrical trigonal planar shape cancels out the bond moments"}
+        },
+        {
+          "q": {
+            "hi": "NH$_3$ (अमोनिया) और NF$_3$ (नाइट्रोजन ट्राइफ्लोराइड) में से किसका द्विध्रुव आघूर्ण अधिक होता है?",
+            "en": "Which molecule has a higher dipole moment between NH$_3$ and NF$_3$?"
+          },
+          "options": [
+            {"hi": "NF$_3$", "en": "NF$_3$"},
+            {"hi": "NH$_3$", "en": "NH$_3$"},
+            {"hi": "दोनों का बिल्कुल बराबर होता है", "en": "Both have exactly equal dipole moment"},
+            {"hi": "दोनों का शून्य होता है", "en": "Both have zero dipole moment"}
+          ],
+          "answer": {"hi": "NH$_3$", "en": "NH$_3$"}
+        },
+        {
+          "q": {
+            "hi": "किस नियम के अनुसार, एक आयनिक आबंध में धनायन द्वारा ऋणायन के इलेक्ट्रॉन अभ्र को विकृत करने की क्षमता (ध्रुवण क्षमता) की व्याख्या की जाती है?",
+            "en": "Which rule describes the polarizing power of a cation and polarisability of an anion in a bond?"
+          },
+          "options": [
+            {"hi": "हुंड का नियम", "en": "Hund's rule"},
+            {"hi": "फायन्स का नियम (Fajans' Rules)", "en": "Fajans' Rules"},
+            {"hi": "पाउली का नियम", "en": "Pauli's rule"},
+            {"hi": "आउफबाउ नियम", "en": "Aufbau rule"}
+          ],
+          "answer": {"hi": "फायन्स का नियम (Fajans' Rules)", "en": "Fajans' Rules"}
+        },
+        {
+          "q": {
+            "hi": "सहसंयोजक अणुओं की ज्यामिति और आकृतियों की भविष्यवाणी करने के लिए सिडविक और पावेल द्वारा प्रतिपादित सिद्धांत कौन सा है?",
+            "en": "Which theory was proposed by Sidgwick and Powell to predict the geometry of covalent molecules?"
+          },
+          "options": [
+            {"hi": "आणविक कक्षक सिद्धांत", "en": "Molecular orbital theory"},
+            {"hi": "संयोजी कोश इलेक्ट्रॉन युग्म प्रतिकर्षण सिद्धांत (VSEPR Theory)", "en": "Valence Shell Electron Pair Repulsion Theory"},
+            {"hi": "संयोजकता बंध सिद्धांत", "en": "Valence bond theory"},
+            {"hi": "क्रिस्टल क्षेत्र सिद्धांत", "en": "Crystal field theory"}
+          ],
+          "answer": {"hi": "संयोजी कोश इलेक्ट्रॉन युग्म प्रतिकर्षण सिद्धांत (VSEPR Theory)", "en": "Valence Shell Electron Pair Repulsion Theory"}
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "VSEPR सिद्धांत के अनुसार, इलेक्ट्रॉन युग्मों के बीच प्रतिकर्षण (repulsion) का सही घटता हुआ क्रम कौन सा है?",
+            "en": "According to VSEPR theory, what is the correct decreasing order of repulsion between electron pairs?"
+          },
+          "options": [
+            {"hi": "bp-bp > lp-bp > lp-lp", "en": "bp-bp > lp-bp > lp-lp"},
+            {"hi": "lp-lp > lp-bp > bp-bp", "en": "lp-lp > lp-bp > bp-bp"},
+            {"hi": "lp-bp > lp-lp > bp-bp", "en": "lp-bp > lp-lp > bp-bp"},
+            {"hi": "lp-lp > bp-bp > lp-bp", "en": "lp-lp > bp-bp > lp-bp"}
+          ],
+          "answer": {"hi": "lp-lp > lp-bp > bp-bp", "en": "lp-lp > lp-bp > bp-bp"}
+        },
+        {
+          "q": {
+            "hi": "CH$_4$ (मीथेन) अणु की ज्यामिति (geometry) कैसी होती है?",
+            "en": "What is the geometry of a CH$_4$ (methane) molecule?"
+          },
+          "options": [
+            {"hi": "त्रिकोणीय समतलीय", "en": "Trigonal planar"},
+            {"hi": "रेखीय", "en": "Linear"},
+            {"hi": "चतुष्फलकीय (Tetrahedral)", "en": "Tetrahedral"},
+            {"hi": "अष्टफलकीय", "en": "Octahedral"}
+          ],
+          "answer": {"hi": "चतुष्फलकीय (Tetrahedral)", "en": "Tetrahedral"}
+        },
+        {
+          "q": {
+            "hi": "NH$_3$ (अमोनिया) अणु में 3 आबंध युग्म (bond pairs) और 1 एकाकी युग्म (lone pair) होते हैं। इसकी आकृति कैसी होती है?",
+            "en": "An ammonia (NH$_3$) molecule has 3 bond pairs and 1 lone pair. What is its shape?"
+          },
+          "options": [
+            {"hi": "चतुष्फलकीय", "en": "Tetrahedral"},
+            {"hi": "त्रिकोणीय पिरामिडी (Trigonal pyramidal)", "en": "Trigonal pyramidal"},
+            {"hi": "V-आकृति (मुड़ी हुई)", "en": "V-shape / bent"},
+            {"hi": "त्रिकोणीय द्वि-पिरामिडी", "en": "Trigonal bipyramidal"}
+          ],
+          "answer": {"hi": "त्रिकोणीय पिरामिडी (Trigonal pyramidal)", "en": "Trigonal pyramidal"}
+        },
+        {
+          "q": {
+            "hi": "जल के अणु (H$_2$O) में दो एकाकी युग्मों (lone pairs) की उपस्थिति के कारण इसका आबंध कोण चतुष्फलकीय कोण ($109.5^\\circ$) से घटकर कितना हो जाता है?",
+            "en": "Due to the presence of two lone pairs in a water molecule, its bond angle reduces from the tetrahedral angle to:"
+          },
+          "options": [
+            {"hi": "$120^\\circ$", "en": "$120^\\circ$"},
+            {"hi": "$180^\\circ$", "en": "$180^\\circ$"},
+            {"hi": "$104.5^\\circ$", "en": "$104.5^\\circ$"},
+            {"hi": "$90^\\circ$", "en": "$90^\\circ$"}
+          ],
+          "answer": {"hi": "$104.5^\\circ$", "en": "$104.5^\\circ$"}
+        },
+        {
+          "q": {
+            "hi": "PCl$_5$ (फास्फोरस पेंटाक्लोराइड) अणु की ज्यामिति कैसी होती है?",
+            "en": "What is the geometry of a PCl$_5$ molecule?"
+          },
+          "options": [
+            {"hi": "अष्टफलकीय", "en": "Octahedral"},
+            {"hi": "त्रिकोणीय द्वि-पिरामिडी (Trigonal bipyramidal)", "en": "Trigonal bipyramidal"},
+            {"hi": "वर्ग समतलीय", "en": "Square planar"},
+            {"hi": "चतुष्फलकीय", "en": "Tetrahedral"}
+          ],
+          "answer": {"hi": "त्रिकोणीय द्वि-पिरामिडी (Trigonal bipyramidal)", "en": "Trigonal bipyramidal"}
+        },
+        {
+          "q": {
+            "hi": "परमाणु कक्षकों के अतिव्यापन (overlapping) और तरंग यांत्रिकी पर आधारित रासायनिक आबंधन का सिद्धांत कौन सा है, जिसे हिटलर और लंडन ने दिया था?",
+            "en": "Which theory of chemical bonding is based on orbital overlapping and wave mechanics, introduced by Heitler and London?"
+          },
+          "options": [
+            {"hi": "संयोजकता बंध सिद्धांत (Valence Bond Theory)", "en": "Valence Bond Theory"},
+            {"hi": "आणविक कक्षक सिद्धांत", "en": "Molecular Orbital Theory"},
+            {"hi": "VSEPR सिद्धांत", "en": "VSEPR Theory"},
+            {"hi": "लूइस सिद्धांत", "en": "Lewis Theory"}
+          ],
+          "answer": {"hi": "संयोजकता बंध सिद्धांत (Valence Bond Theory)", "en": "Valence Bond Theory"}
+        },
+        {
+          "q": {
+            "hi": "दो परमाणु कक्षकों के अंतर-नाभिकीय अक्ष (internuclear axis) पर सिरे-से-सिरे (end-to-end) अतिव्यापन से कौन सा आबंध बनता है?",
+            "en": "Which bond is formed by the end-to-end overlapping of atomic orbitals along the internuclear axis?"
+          },
+          "options": [
+            {"hi": "पाई ($\\pi$) आबंध", "en": "Pi ($\\pi$) bond"},
+            {"hi": "सिग्मा ($\\sigma$) आबंध", "en": "Sigma ($\\sigma$) bond"},
+            {"hi": "हाइड्रोजन आबंध", "en": "Hydrogen bond"},
+            {"hi": "आयनिक आबंध", "en": "Ionic bond"}
+          ],
+          "answer": {"hi": "सिग्मा ($\\sigma$) आबंध", "en": "Sigma ($\\sigma$) bond"}
+        },
+        {
+          "q": {
+            "hi": "परमाणु कक्षकों के पार्श्व अतिव्यापन (sideways or lateral overlapping) से बनने वाले आबंध को क्या कहते हैं?",
+            "en": "What is the bond formed by the sideways or lateral overlapping of atomic orbitals called?"
+          },
+          "options": [
+            {"hi": "सिग्मा ($\\sigma$) आबंध", "en": "Sigma ($\\sigma$) bond"},
+            {"hi": "पाई ($\\pi$) आबंध", "en": "Pi ($\\pi$) bond"},
+            {"hi": "सहसंयोजक आबंध", "en": "Covalent bond"},
+            {"hi": "धात्विक आबंध", "en": "Metallic bond"}
+          ],
+          "answer": {"hi": "पाई ($\\pi$) आबंध", "en": "Pi ($\\pi$) bond"}
+        },
+        {
+          "q": {
+            "hi": "सिग्मा ($\\sigma$) आबंध और पाई ($\\pi$) आबंध में से कौन सा आबंध अधिक प्रबल (stronger) होता है?",
+            "en": "Which bond is stronger between a sigma ($\\sigma$) bond and a pi ($\\pi$) bond?"
+          },
+          "options": [
+            {"hi": "पाई ($\\pi$) आबंध", "en": "Pi ($\\pi$) bond"},
+            {"hi": "सिग्मा ($\\sigma$) आबंध", "en": "Sigma ($\\sigma$) bond"},
+            {"hi": "दोनों की प्रबलता समान होती है", "en": "Both have equal strength"},
+            {"hi": "यह तापमान पर निर्भर करता है", "en": "It depends on temperature"}
+          ],
+          "answer": {"hi": "सिग्मा ($\\sigma$) आबंध", "en": "Sigma ($\\sigma$) bond"}
+        },
+        {
+          "q": {
+            "hi": "लगभग समान ऊर्जा वाले परमाणु कक्षकों के आपस में मिलकर समान संख्या में नए समान ऊर्जा वाले कक्षकों को बनाने की प्रक्रिया कहलाती है:",
+            "en": "The process of intermixing of atomic orbitals of slightly different energies to form an equal number of new equivalent orbitals is called:"
+          },
+          "options": [
+            {"hi": "अनुनाद", "en": "Resonance"},
+            {"hi": "संकरण (Hybridisation)", "en": "Hybridisation"},
+            {"hi": "अतिव्यापन", "en": "Overlapping"},
+            {"hi": "आयनीकरण", "en": "Ionization"}
+          ],
+          "answer": {"hi": "संकरण (Hybridisation)", "en": "Hybridisation"}
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "जब एक $s$ और एक $p$ कक्षक आपस में संकरित होते हैं, तो बनने वाले कक्षकों की ज्यामिति कैसी होती है?",
+            "en": "When one $s$ and one $p$ orbital hybridize, what is the geometry of the resulting orbitals?"
+          },
+          "options": [
+            {"hi": "त्रिकोणीय समतलीय", "en": "Trigonal planar"},
+            {"hi": "रेखीय (Linear)", "en": "Linear"},
+            {"hi": "चतुष्फलकीय", "en": "Tetrahedral"},
+            {"hi": "वर्ग समतलीय", "en": "Square planar"}
+          ],
+          "answer": {"hi": "रेखीय (Linear)", "en": "Linear"}
+        },
+        {
+          "q": {
+            "hi": "BF$_3$ (बोरॉन ट्राइफ्लोराइड) अणु में केंद्रीय बोरॉन परमाणु का संकरण (hybridisation) क्या है?",
+            "en": "What is the hybridisation of the central boron atom in a BF$_3$ molecule?"
+          },
+          "options": [
+            {"hi": "$sp$", "en": "$sp$"},
+            {"hi": "$sp^2$", "en": "$sp^2$"},
+            {"hi": "$sp^3$", "en": "$sp^3$"},
+            {"hi": "$sp^3d$", "en": "$sp^3d$"}
+          ],
+          "answer": {"hi": "$sp^2$", "en": "$sp^2$"}
+        },
+        {
+          "q": {
+            "hi": "CH$_4$ (मीथेन) अणु में कार्बन परमाणु का संकरण कौन सा होता है?",
+            "en": "Which hybridisation does the carbon atom undergo in a CH$_4$ molecule?"
+          },
+          "options": [
+            {"hi": "$sp^2$", "en": "$sp^2$"},
+            {"hi": "$sp^3$", "en": "$sp^3$"},
+            {"hi": "$sp$", "en": "$sp$"},
+            {"hi": "$sp^3d^2$", "en": "$sp^3d^2$"}
+          ],
+          "answer": {"hi": "$sp^3$", "en": "$sp^3$"}
+        },
+        {
+          "q": {
+            "hi": "H$_2$O (जल) के अणु में ऑक्सीजन परमाणु का संकरण क्या होता है?",
+            "en": "What is the hybridisation of the oxygen atom in a H$_2$O molecule?"
+          },
+          "options": [
+            {"hi": "$sp$", "en": "$sp$"},
+            {"hi": "$sp^2$", "en": "$sp^2$"},
+            {"hi": "$sp^3$", "en": "$sp^3$"},
+            {"hi": "$sp^3d$", "en": "$sp^3d$"}
+          ],
+          "answer": {"hi": "$sp^3$", "en": "$sp^3$"}
+        },
+        {
+          "q": {
+            "hi": "SF$_6$ (सल्फर हेक्साफ्लोराइड) अणु में केंद्रीय सल्फर परमाणु का संकरण क्या है?",
+            "en": "What is the hybridisation of the central sulfur atom in a SF$_6$ molecule?"
+          },
+          "options": [
+            {"hi": "$sp^3d$", "en": "$sp^3d$"},
+            {"hi": "$sp^3d^2$", "en": "$sp^3d^2$"},
+            {"hi": "$sp^3$", "en": "$sp^3$"},
+            {"hi": "$sp^2$", "en": "$sp^2$"}
+          ],
+          "answer": {"hi": "$sp^3d^2$", "en": "$sp^3d^2$"}
+        },
+        {
+          "q": {
+            "hi": "एथीन अणु (C$_2$H$_4$) में प्रत्येक कार्बन परमाणु का संकरण क्या होता है?",
+            "en": "What is the hybridisation of each carbon atom in an ethene molecule (C$_2$H$_4$)?"
+          },
+          "options": [
+            {"hi": "$sp$", "en": "$sp$"},
+            {"hi": "$sp^2$", "en": "$sp^2$"},
+            {"hi": "$sp^3$", "en": "$sp^3$"},
+            {"hi": "$sp^3d$", "en": "$sp^3d$"}
+          ],
+          "answer": {"hi": "$sp^2$", "en": "$sp^2$"}
+        },
+        {
+          "q": {
+            "hi": "एथाइन अणु (C$_2$H$_2$) में कार्बन-कार्बन परमाणुओं के बीच उपस्थित आबंधों के प्रकार क्या हैं?",
+            "en": "What are the types of bonds present between carbon atoms in an ethyne molecule (C$_2$H$_2$)?"
+          },
+          "options": [
+            {"hi": "एक सिग्मा और एक पाई आबंध", "en": "One sigma and one pi bond"},
+            {"hi": "एक सिग्मा और दो पाई आबंध (One sigma and two pi bonds)", "en": "One sigma and two pi bonds"},
+            {"hi": "तीन सिग्मा आबंध", "en": "Three sigma bonds"},
+            {"hi": "केवल दो पाई आबंध", "en": "Two pi bonds only"}
+          ],
+          "answer": {"hi": "एक सिग्मा और दो पाई आबंध (One sigma and two pi bonds)", "en": "One sigma and two pi bonds"}
+        },
+        {
+          "q": {
+            "hi": "हुंड और मुलिकन द्वारा प्रतिपादित वह सिद्धांत कौन सा है जिसके अनुसार इलेक्ट्रॉन पूरे अणु के नाभिकों के प्रभाव में घूमते हैं?",
+            "en": "Which theory was developed by Hund and Mulliken where electrons move under the influence of all nuclei in a molecule?"
+          },
+          "options": [
+            {"hi": "संयोजकता बंध सिद्धांत", "en": "Valence bond theory"},
+            {"hi": "आणविक कक्षक सिद्धांत (Molecular Orbital Theory)", "en": "Molecular Orbital Theory"},
+            {"hi": "लूइस सिद्धांत", "en": "Lewis theory"},
+            {"hi": "VSEPR सिद्धांत", "en": "VSEPR theory"}
+          ],
+          "answer": {"hi": "आणविक कक्षक सिद्धांत (Molecular Orbital Theory)", "en": "Molecular Orbital Theory"}
+        },
+        {
+          "q": {
+            "hi": "परमाणु कक्षकों के रैखिक संयोग (LCAO) द्वारा कौन से दो प्रकार के आणविक कक्षक प्राप्त होते हैं?",
+            "en": "Which two types of molecular orbitals are obtained by the linear combination of atomic orbitals (LCAO)?"
+          },
+          "options": [
+            {"hi": "मुख्य और दिगंशी कक्षक", "en": "Principal and azimuthal orbitals"},
+            {"hi": "आबंधी और प्रति-आबंधी आणविक कक्षक", "en": "Bonding and Anti-bonding molecular orbitals"},
+            {"hi": "संकरित और असंकरित कक्षक", "en": "Hybridised and unhybridised orbitals"},
+            {"hi": "अल्फा और बीटा कक्षक", "en": "Alpha and beta orbitals"}
+          ],
+          "answer": {"hi": "आबंधी और प्रति-आबंधी आणविक कक्षक", "en": "Bonding and Anti-bonding molecular orbitals"}
+        },
+        {
+          "q": {
+            "hi": "प्रति-आबंधी आणविक कक्षक (Anti-bonding molecular orbital) की ऊर्जा आबंधी आणविक कक्षक से कैसी होती है?",
+            "en": "How does the energy of an anti-bonding molecular orbital compare to a bonding molecular orbital?"
+          },
+          "options": [
+            {"hi": "हमेशा कम होती है", "en": "Always lower"},
+            {"hi": "हमेशा अधिक होती है (Always higher)", "en": "Always higher"},
+            {"hi": "बिल्कुल बराबर होती है", "en": "Exactly equal"},
+            {"hi": "शून्य होती है", "en": "It is zero"}
+          ],
+          "answer": {"hi": "हमेशा अधिक होती है (Always higher)", "en": "Always higher"}
+        }
+      ],
+      "section5": [
+        {
+          "q": {
+            "hi": "आणविक कक्षक सिद्धांत के अनुसार, आबंध कोटि (Bond Order) ज्ञात करने का सही सूत्र क्या है?",
+            "en": "According to MOT, what is the correct formula to calculate Bond Order?"
+          },
+          "options": [
+            {"hi": "$N_b - N_a$", "en": "$N_b - N_a$"},
+            {"hi": "$\\frac{1}{2}(N_b - N_a)$", "en": "\\frac{1}{2}(N_b - N_a)"},
+            {"hi": "$\\frac{1}{2}(N_b + N_a)$", "en": "\\frac{1}{2}(N_b + N_a)"},
+            {"hi": "$N_b / N_a$", "en": "$N_b / N_a$"}
+          ],
+          "answer": {"hi": "$\\frac{1}{2}(N_b - N_a)$", "en": "\\frac{1}{2}(N_b - N_a)"}
+        },
+        {
+          "q": {
+            "hi": "यदि किसी अणु के लिए परिकलित आबंध कोटि का मान शून्य (Bond Order = 0) आता है, तो इसका क्या अर्थ है?",
+            "en": "If the calculated bond order for a molecule is zero, what does it mean?"
+          },
+          "options": [
+            {"hi": "अणु अत्यधिक स्थायी है", "en": "The molecule is highly stable"},
+            {"hi": "अणु का अस्तित्व नहीं होता (The molecule does not exist)", "en": "The molecule does not exist"},
+            {"hi": "अणु में केवल आयनिक आबंध है", "en": "The molecule has ionic bond only"},
+            {"hi": "अणु गैसीय नहीं है", "en": "The molecule is not gaseous"}
+          ],
+          "answer": {"hi": "अणु का अस्तित्व नहीं होता (The molecule does not exist)", "en": "The molecule does not exist"}
+        },
+        {
+          "q": {
+            "hi": "आणविक कक्षक सिद्धांत (MOT) के आधार पर स्पष्ट कीजिए कि Be$_2$ अणु का अस्तित्व क्यों नहीं होता?",
+            "en": "Based on MOT, explain why the Be$_2$ molecule does not exist?"
+          },
+          "options": [
+            {"hi": "क्योंकि इसका परमाणु भार बहुत कम है", "en": "Because its atomic weight is very low"},
+            {"hi": "क्योंकि इसकी आबंध कोटि शून्य होती है (Its bond order is zero)", "en": "Its bond order is zero"},
+            {"hi": "यह उत्कृष्ट गैस है", "en": "It is a noble gas"},
+            {"hi": "इसके पास इलेक्ट्रॉन नहीं होते", "en": "It has no electrons"}
+          ],
+          "answer": {"hi": "क्योंकि इसकी आबंध कोटि शून्य होती है (Its bond order is zero)", "en": "Its bond order is zero"}
+        },
+        {
+          "q": {
+            "hi": "यदि किसी स्पीशीज में सभी इलेक्ट्रॉन युग्मित (paired) होते हैं, तो उसकी चुंबकीय प्रकृति कैसी होती है?",
+            "en": "If all electrons in a species are paired, what is its magnetic nature?"
+          },
+          "options": [
+            {"hi": "अनुचुंबकीय (Paramagnetic)", "en": "Paramagnetic"},
+            {"hi": "प्रतिचुंबकीय (Diamagnetic)", "en": "Diamagnetic"},
+            {"hi": "फेरोचुंबकीय", "en": "Ferromagnetic"},
+            {"hi": "अचुंबकीय", "en": "Non-magnetic"}
+          ],
+          "answer": {"hi": "प्रतिचुंबकीय (Diamagnetic)", "en": "Diamagnetic"}
+        },
+        {
+          "q": {
+            "hi": "ऑक्सीजन अणु (O$_2$) अनुचुंबकीय (paramagnetic) क्यों होता है, जिसे संयोजकता बंध सिद्धांत नहीं समझा सका था?",
+            "en": "Why is the oxygen molecule (O$_2$) paramagnetic, which could not be explained by VBT?"
+          },
+          "options": [
+            {"hi": "इसके सभी इलेक्ट्रॉन युग्मित होते हैं", "en": "All its electrons are paired"},
+            {"hi": "इसके प्रति-आबंधी कक्षकों में दो अयुग्मित इलेक्ट्रॉन होते हैं", "en": "It has two unpaired electrons in its anti-bonding orbitals"},
+            {"hi": "क्योंकि यह एक गैस है", "en": "Because it is a gas"},
+            {"hi": "इसमें कोई पाई आबंध नहीं होता", "en": "It contains no pi bond"}
+          ],
+          "answer": {"hi": "इसके प्रति-आबंधी कक्षकों में दो अयुग्मित इलेक्ट्रॉन होते हैं", "en": "It has two unpaired electrons in its anti-bonding orbitals"}
+        },
+        {
+          "q": {
+            "hi": "जब हाइड्रोजन परमाणु किसी अत्यधिक विद्युत ऋणात्मक तत्व (जैसे F, O, N) से जुड़ा होता है, तो बनने वाले कमजोर आकर्षण बल को क्या कहते हैं?",
+            "en": "When a hydrogen atom is bonded to a highly electronegative element (like F, O, N), the weak attractive force formed is called:"
+          },
+          "options": [
+            {"hi": "सहसंयोजक आबंध", "en": "Covalent bond"},
+            {"hi": "आयनिक आबंध", "en": "Ionic bond"},
+            {"hi": "हाइड्रोजन आबंध (Hydrogen bond)", "en": "Hydrogen bond"},
+            {"hi": "धात्विक आबंध", "en": "Metallic bond"}
+          ],
+          "answer": {"hi": "हाइड्रोजन आबंध (Hydrogen bond)", "en": "Hydrogen bond"}
+        },
+        {
+          "q": {
+            "hi": "HF, H$_2$O और NH$_3$ अणुओं के बीच किस प्रकार का हाइड्रोजन आबंध पाया जाता है?",
+            "en": "What type of hydrogen bond is found between different molecules like HF, H$_2$O, and NH$_3$?"
+          },
+          "options": [
+            {"hi": "अंतःआणुक हाइड्रोजन आबंध (Intermolecular hydrogen bond)", "en": "Intermolecular hydrogen bond"},
+            {"hi": "अंतरा-आणुक हाइड्रोजन आबंध (Intramolecular hydrogen bond)", "en": "Intramolecular hydrogen bond"},
+            {"hi": "आयनिक हाइड्रोजन आबंध", "en": "Ionic hydrogen bond"},
+            {"hi": "सिग्मा हाइड्रोजन आबंध", "en": "Sigma hydrogen bond"}
+          ],
+          "answer": {"hi": "अंतःआणुक हाइड्रोजन आबंध (Intermolecular hydrogen bond)", "en": "Intermolecular hydrogen bond"}
+        },
+        {
+          "q": {
+            "hi": "जब हाइड्रोजन आबंध एक ही अणु के भीतर उपस्थित दो परमाणुओं के बीच बनता है (जैसे ऑर्थो-नाइट्रोफिनॉल), तो उसे क्या कहते हैं?",
+            "en": "When a hydrogen bond is formed between two atoms within the same molecule, it is called a/an:"
+          },
+          "options": [
+            {"hi": "अंतःआणुक हाइड्रोजन आबंध", "en": "Intermolecular hydrogen bond"},
+            {"hi": "अंतरा-आणुक हाइड्रोजन आबंध (Intramolecular hydrogen bond)", "en": "Intramolecular hydrogen bond"},
+            {"hi": "धात्विक आबंध", "en": "Metallic bond"},
+            {"hi": "वांडरवाल्स आकर्षण", "en": "Van der Waals attraction"}
+          ],
+          "answer": {"hi": "अंतरा-आणुक हाइड्रोजन आबंध (Intramolecular hydrogen bond)", "en": "Intramolecular hydrogen bond"}
+        },
+        {
+          "q": {
+            "hi": "हाइड्रोजन आबंधन के कारण जल (H$_2$O) का क्वथनांक H$_2$S की तुलना में कैसा होता है?",
+            "en": "Due to hydrogen bonding, how does the boiling point of water (H$_2$O) compare to H$_2$S?"
+          },
+          "options": [
+            {"hi": "बहुत कम होता है", "en": "Much lower"},
+            {"hi": "बहुत अधिक होता है (Much higher)", "en": "Much higher"},
+            {"hi": "बिल्कुल बराबर होता है", "en": "Exactly equal"},
+            {"hi": "पहले घटता है फिर बढ़ता है", "en": "First decreases then increases"}
+          ],
+          "answer": {"hi": "बहुत अधिक होता है (Much higher)", "en": "Much higher"}
+        },
+        {
+          "q": {
+            "hi": "H$_2^+$ स्पीशीज की आबंध कोटि (Bond Order) क्या होगी?",
+            "en": "What will be the bond order of H$_2^+$ species?"
+          },
+          "options": [
+            {"hi": "1", "en": "1"},
+            {"hi": "0.5", "en": "0.5"},
+            {"hi": "2", "en": "2"},
+            {"hi": "0", "en": "0"}
+          ],
+          "answer": {"hi": "0.5", "en": "0.5"}
+        }
+      ]
     }
   }
 }
