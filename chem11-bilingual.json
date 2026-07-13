@@ -1324,6 +1324,668 @@
           "answer": {"hi": "उस उपकोश के प्रत्येक कक्षक में एक-एक इलेक्ट्रॉन न आ जाए", "en": "Each orbital of that subshell is singly occupied"}
         }
       ]
+    },
+    "chapter03": {
+      "section1": [
+        {
+          "q": {
+            "hi": "तत्वों के वर्गीकरण का मुख्य उद्देश्य क्या है?",
+            "en": "What is the main objective of the classification of elements?"
+          },
+          "options": [
+            {"hi": "रासायनिक अभिक्रियाओं को तेज करना", "en": "To speed up chemical reactions"},
+            {"hi": "तत्वों के अध्ययन को व्यवस्थित और सरल बनाना", "en": "To make the study of elements systematic and simple"},
+            {"hi": "नए तत्वों का निर्माण करना", "en": "To synthesize new elements"},
+            {"hi": "परमाणु भार को कम करना", "en": "To decrease atomic weights"}
+          ],
+          "answer": {"hi": "तत्वों के अध्ययन को व्यवस्थित और सरल बनाना", "en": "To make the study of elements systematic and simple"}
+        },
+        {
+          "q": {
+            "hi": "तत्वों के वर्गीकरण के लिए सबसे पहला 'त्रिक नियम' (Law of Triads) किसने दिया था?",
+            "en": "Who first proposed the 'Law of Triads' for the classification of elements?"
+          },
+          "options": [
+            {"hi": "जोहान डोबेराइनर", "en": "Johann Dobereiner"},
+            {"hi": "न्यूलैंड्स", "en": "Newlands"},
+            {"hi": "मेंडेलीव", "en": "Mendeleev"},
+            {"hi": "लोथर मेयर", "en": "Lothar Meyer"}
+          ],
+          "answer": {"hi": "जोहान डोबेराइनर", "en": "Johann Dobereiner"}
+        },
+        {
+          "q": {
+            "hi": "डोबेराइनर के त्रिक नियम के अनुसार, मध्य तत्व का परमाणु भार अन्य दो तत्वों के परमाणु भार का क्या होता है?",
+            "en": "According to Dobereiner's Law of Triads, the atomic weight of the middle element is what of the other two elements?"
+          },
+          "options": [
+            {"hi": "गुणनफल", "en": "Product"},
+            {"hi": "अंतर", "en": "Difference"},
+            {"hi": "औसत (माध्य)", "en": "Average (Mean)"},
+            {"hi": "दोगुना", "en": "Double"}
+          ],
+          "answer": {"hi": "औसत (माध्य)", "en": "Average (Mean)"}
+        },
+        {
+          "q": {
+            "hi": "तत्वों के वर्गीकरण से संबंधित 'अष्टक नियम' (Law of Octaves) किसने प्रस्तावित किया था?",
+            "en": "Who proposed the 'Law of Octaves' related to the classification of elements?"
+          },
+          "options": [
+            {"hi": "डोबेराइनर", "en": "Dobereiner"},
+            {"hi": "जॉन अलेक्जेंडर न्यूलैंड्स", "en": "John Alexander Newlands"},
+            {"hi": "मोसले", "en": "Moseley"},
+            {"hi": "मेंडेलीव", "en": "Mendeleev"}
+          ],
+          "answer": {"hi": "जॉन अलेक्जेंडर न्यूलैंड्स", "en": "John Alexander Newlands"}
+        },
+        {
+          "q": {
+            "hi": "न्यूलैंड्स का अष्टक नियम केवल किस तत्व तक के लिए सही प्रतीत होता था?",
+            "en": "Up to which element did Newlands' Law of Octaves seem to hold true?"
+          },
+          "options": [
+            {"hi": "सोडियम", "en": "Sodium"},
+            {"hi": "कैल्शियम", "en": "Calcium"},
+            {"hi": "लोहा", "en": "Iron"},
+            {"hi": "पोटेशियम", "en": "Potassium"}
+          ],
+          "answer": {"hi": "कैल्शियम", "en": "Calcium"}
+        },
+        {
+          "q": {
+            "hi": "किस वैज्ञानिक ने तत्वों के परमाणु भारों को उनके भौतिक गुणों (जैसे परमाणु आयतन) के विरुद्ध आलेखित कर एक वक्र बनाया था?",
+            "en": "Which scientist plotted the atomic weights of elements against their physical properties (like atomic volume) to obtain a curve?"
+          },
+          "options": [
+            {"hi": "लोथर मेयर", "en": "Lothar Meyer"},
+            {"hi": "मेंडेलीव", "en": "Mendeleev"},
+            {"hi": "न्यूलैंड्स", "en": "Newlands"},
+            {"hi": "मोसले", "en": "Moseley"}
+          ],
+          "answer": {"hi": "लोथर मेयर", "en": "Lothar Meyer"}
+        },
+        {
+          "q": {
+            "hi": "मेंडेलीव का आवर्त नियम (Periodic Law) किस पर आधारित है?",
+            "en": "Mendeleev's Periodic Law is based on which property?"
+          },
+          "options": [
+            {"hi": "परमाणु क्रमांक", "en": "Atomic number"},
+            {"hi": "परमाणु द्रव्यमान (परमाणु भार)", "en": "Atomic mass (Atomic weight)"},
+            {"hi": "इलेक्ट्रॉनिक विन्यास", "en": "Electronic configuration"},
+            {"hi": "नाभिकीय आवेश", "en": "Nuclear charge"}
+          ],
+          "answer": {"hi": "परमाणु द्रव्यमान (परमाणु भार)", "en": "Atomic mass (Atomic weight)"}
+        },
+        {
+          "q": {
+            "hi": "मेंडेलीव ने अपनी आवर्त सारणी में कुछ अज्ञात तत्वों के लिए खाली स्थान छोड़े थे, जैसे 'एका-एल्युमीनियम'। बाद में खोजे गए इस तत्व का नाम क्या था?",
+            "en": "Mendeleev left gaps in his periodic table for undiscovered elements like 'Eka-Aluminium'. What was the name of this element discovered later?"
+          },
+          "options": [
+            {"hi": "स्कैंडियम", "en": "Scandium"},
+            {"hi": "गैलियम", "en": "Gallium"},
+            {"hi": "जर्मेनियम", "en": "Germanium"},
+            {"hi": "सिलिकॉन", "en": "Silicon"}
+          ],
+          "answer": {"hi": "गैलियम", "en": "Gallium"}
+        },
+        {
+          "q": {
+            "hi": "मेंडेलीव की आवर्त सारणी में 'एका-सिलिकॉन' के स्थान पर बाद में कौन सा तत्व आया?",
+            "en": "Which element later replaced 'Eka-Silicon' in Mendeleev's periodic table?"
+          },
+          "options": [
+            {"hi": "जर्मेनियम", "en": "Germanium"},
+            {"hi": "गैलियम", "en": "Gallium"},
+            {"hi": "बोरॉन", "en": "Boron"},
+            {"hi": "एल्युमीनियम", "en": "Aluminium"}
+          ],
+          "answer": {"hi": "जर्मेनियम", "en": "Germanium"}
+        },
+        {
+          "q": {
+            "hi": "आधुनिक आवर्त नियम (Modern Periodic Law) किसने प्रस्तुत किया था?",
+            "en": "Who proposed the Modern Periodic Law?"
+          },
+          "options": [
+            {"hi": "डी. आई. मेंडेलीव", "en": "D. I. Mendeleev"},
+            {"hi": "हेनरी मोसले", "en": "Henry Moseley"},
+            {"hi": "नील्स बोर", "en": "Niels Bohr"},
+            {"hi": "जॉन डाल्टन", "en": "John Dalton"}
+          ],
+          "answer": {"hi": "हेनरी मोसले", "en": "Henry Moseley"}
+        }
+      ],
+      "section2": [
+        {
+          "q": {
+            "hi": "आधुनिक आवर्त नियम के अनुसार, तत्वों के भौतिक और रासायनिक गुण उनके किसके आवर्ती फलन होते हैं?",
+            "en": "According to the Modern Periodic Law, the physical and chemical properties of elements are periodic functions of their:"
+          },
+          "options": [
+            {"hi": "परमाणु भारों के", "en": "Atomic weights"},
+            {"hi": "परमाणु क्रमांकों के", "en": "Atomic numbers"},
+            {"hi": "द्रव्यमान संख्या के", "en": "Mass number"},
+            {"hi": "संयोजकता के", "en": "Valency"}
+          ],
+          "answer": {"hi": "परमाणु क्रमांकों के", "en": "Atomic numbers"}
+        },
+        {
+          "q": {
+            "hi": "आधुनिक आवर्त सारणी (दीर्घ रूप) में कुल कितने क्षैतिज आवर्त (Horizontal Periods) हैं?",
+            "en": "How many horizontal periods are there in the long form of the modern periodic table?"
+          },
+          "options": [
+            {"hi": "7", "en": "7"},
+            {"hi": "18", "en": "18"},
+            {"hi": "8", "en": "8"},
+            {"hi": "9", "en": "9"}
+          ],
+          "answer": {"hi": "7", "en": "7"}
+        },
+        {
+          "q": {
+            "hi": "आधुनिक आवर्त सारणी में ऊर्ध्वाधर स्तंभों (Vertical Columns) को क्या कहा जाता है और इनकी कुल संख्या कितनी है?",
+            "en": "What are the vertical columns in the modern periodic table called and what is their total number?"
+          },
+          "options": [
+            {"hi": "आवर्त, 7", "en": "Periods, 7"},
+            {"hi": "वर्ग (समूह), 18", "en": "Groups, 18"},
+            {"hi": "ब्लॉक, 4", "en": "Blocks, 4"},
+            {"hi": "श्रेणी, 10", "en": "Series, 10"}
+          ],
+          "answer": {"hi": "वर्ग (समूह), 18", "en": "Groups, 18"}
+        },
+        {
+          "q": {
+            "hi": "IUPAC पद्धति के अनुसार, 100 से अधिक परमाणु क्रमांक वाले तत्वों के नामकरण में मूल शब्द 'अन' (un) किस अंक को दर्शाता है?",
+            "en": "According to the IUPAC nomenclature for elements with Z > 100, the root word 'un' represents which digit?"
+          },
+          "options": [
+            {"hi": "0", "en": "0"},
+            {"hi": "1", "en": "1"},
+            {"hi": "2", "en": "2"},
+            {"hi": "3", "en": "3"}
+          ],
+          "answer": {"hi": "1", "en": "1"}
+        },
+        {
+          "q": {
+            "hi": "परमाणु क्रमांक 120 (Z = 120) वाले तत्व का अस्थायी IUPAC आधिकारिक नाम क्या होगा?",
+            "en": "What will be the temporary IUPAC systematic name for the element with atomic number 120 (Z = 120)?"
+          },
+          "options": [
+            {"hi": "अनअनबियम (Ununbium)", "en": "Ununbium"},
+            {"hi": "अनबिएनिलियम (Unbiennilium)", "en": "Unbiennilium"},
+            {"hi": "अनट्रियम (Ununtrium)", "en": "Ununtrium"},
+            {"hi": "बिएनिलियम (Biennilium)", "en": "Biennilium"}
+          ],
+          "answer": {"hi": "अनबिएनिलियम (Unbiennilium)", "en": "Unbiennilium"}
+        },
+        {
+          "q": {
+            "hi": "किसी आवर्त की संख्या (Period number) इलेक्ट्रॉनिक विन्यास में उपस्थित किस मुख्य मान को दर्शाती है?",
+            "en": "The period number of an element corresponds to the highest value of which quantum number in its electronic configuration?"
+          },
+          "options": [
+            {"hi": "दिगंशी क्वांटम संख्या ($l$)", "en": "Azimuthal quantum number ($l$)"},
+            {"hi": "मुख्य क्वांटम संख्या ($n$)", "en": "Principal quantum number ($n$)"},
+            {"hi": "चुंबकीय क्वांटम संख्या ($m$)", "en": "Magnetic quantum number ($m$)"},
+            {"hi": "चक्रण क्वांटम संख्या ($s$)", "en": "Spin quantum number ($s$)"}
+          ],
+          "answer": {"hi": "मुख्य क्वांटम संख्या ($n$)", "en": "Principal quantum number ($n$)"}
+        },
+        {
+          "q": {
+            "hi": "आवर्त सारणी के प्रथम आवर्त (First Period) में अधिकतम कितने तत्व उपस्थित हो सकते हैं?",
+            "en": "What is the maximum number of elements that can be present in the first period of the periodic table?"
+          },
+          "options": [
+            {"hi": "2", "en": "2"},
+            {"hi": "8", "en": "8"},
+            {"hi": "18", "en": "18"},
+            {"hi": "32", "en": "32"}
+          ],
+          "answer": {"hi": "2", "en": "2"}
+        },
+        {
+          "q": {
+            "hi": "आवर्त सारणी के छठे आवर्त (Sixth Period) में कुल कितने तत्व शामिल हैं?",
+            "en": "How many elements are included in the sixth period of the periodic table?"
+          },
+          "options": [
+            {"hi": "8", "en": "8"},
+            {"hi": "18", "en": "18"},
+            {"hi": "32", "en": "32"},
+            {"hi": "14", "en": "14"}
+          ],
+          "answer": {"hi": "32", "en": "32"}
+        },
+        {
+          "q": {
+            "hi": "इलेक्ट्रॉनिक विन्यास के आधार पर तत्वों को आवर्त सारणी में किन चार ब्लॉकों में विभाजित किया गया है?",
+            "en": "Based on electronic configuration, into which four blocks are elements divided in the periodic table?"
+          },
+          "options": [
+            {"hi": "$\\alpha, \\beta, \\gamma, \\delta$ ब्लॉक", "en": "$\\alpha, \\beta, \\gamma, \\delta$ blocks"},
+            {"hi": "$s, p, d, f$ ब्लॉक", "en": "$s, p, d, f$ blocks"},
+            {"hi": "$1, 2, 3, 4$ ब्लॉक", "en": "$1, 2, 3, 4$ blocks"},
+            {"hi": "धातु, अधातु, उपधातु, गैस ब्लॉक", "en": "Metal, Non-metal, Metalloid, Gas blocks"}
+          ],
+          "answer": {"hi": "$s, p, d, f$ ब्लॉक", "en": "$s, p, d, f$ blocks"}
+        },
+        {
+          "q": {
+            "hi": "वर्ग 1 और वर्ग 2 के तत्वों को संयुक्त रूप से क्या कहा जाता है?",
+            "en": "What are the elements of Group 1 and Group 2 collectively called?"
+          },
+          "options": [
+            {"hi": "$p$-ब्लॉक तत्व", "en": "$p$-block elements"},
+            {"hi": "$s$-ब्लॉक तत्व", "en": "$s$-block elements"},
+            {"hi": "$d$-ब्लॉक तत्व", "en": "$d$-block elements"},
+            {"hi": "अंतर-संक्रमण तत्व", "en": "Inner-transition elements"}
+          ],
+          "answer": {"hi": "$s$-ब्लॉक तत्व", "en": "$s$-block elements"}
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "वर्ग 1 के तत्वों (जैसे Li, Na, K) को किस नाम से जाना जाता है?",
+            "en": "By what name are the Group 1 elements (like Li, Na, K) known?"
+          },
+          "options": [
+            {"hi": "क्षारीय मृदा धातुएँ", "en": "Alkaline earth metals"},
+            {"hi": "क्षार धातुएँ (Alkali metals)", "en": "Alkali metals"},
+            {"hi": "हैलोगन्स", "en": "Halogens"},
+            {"hi": "उत्कृष्ट गैसें", "en": "Noble gases"}
+          ],
+          "answer": {"hi": "क्षार धातुएँ (Alkali metals)", "en": "Alkali metals"}
+        },
+        {
+          "q": {
+            "hi": "वर्ग 2 के तत्वों (जैसे Be, Mg, Ca) को आवर्त सारणी में क्या कहा जाता है?",
+            "en": "What are the Group 2 elements (like Be, Mg, Ca) called in the periodic table?"
+          },
+          "options": [
+            {"hi": "क्षार धातुएँ", "en": "Alkali metals"},
+            {"hi": "क्षारीय मृदा धातुएँ (Alkaline earth metals)", "en": "Alkaline earth metals"},
+            {"hi": "चालकोजन", "en": "Chalcogens"},
+            {"hi": "संक्रमण तत्व", "en": "Transition elements"}
+          ],
+          "answer": {"hi": "क्षारीय मृदा धातुएँ (Alkaline earth metals)", "en": "Alkaline earth metals"}
+        },
+        {
+          "q": {
+            "hi": "आवर्त सारणी के वर्ग 13 से लेकर वर्ग 18 तक के तत्वों को किस ब्लॉक में रखा गया है?",
+            "en": "In which block are the elements from Group 13 to Group 18 placed in the periodic table?"
+          },
+          "options": [
+            {"hi": "$s$-ब्लॉक", "en": "$s$-block"},
+            {"hi": "$p$-ब्लॉक", "en": "$p$-block"},
+            {"hi": "$d$-ब्लॉक", "en": "$d$-block"},
+            {"hi": "$f$-ब्लॉक", "en": "$f$-block"}
+          ],
+          "answer": {"hi": "$p$-ब्लॉक", "en": "$p$-block"}
+        },
+        {
+          "q": {
+            "hi": "$s$-ब्लॉक और $p$-ब्लॉक तत्वों को संयुक्त रूप से क्या कहा जाता है?",
+            "en": "What are $s$-block and $p$-block elements collectively called?"
+          },
+          "options": [
+            {"hi": "संक्रमण तत्व", "en": "Transition elements"},
+            {"hi": "प्रतिनिधि तत्व या मुख्य समूह तत्व", "en": "Representative elements or Main group elements"},
+            {"hi": "दुर्लभ मृदा तत्व", "en": "Rare earth elements"},
+            {"hi": "उत्कृष्ट गैसें", "en": "Noble gases"}
+          ],
+          "answer": {"hi": "प्रतिनिधि तत्व या मुख्य समूह तत्व", "en": "Representative elements or Main group elements"}
+        },
+        {
+          "q": {
+            "hi": "वर्ग 17 के तत्वों को सामान्यतः किस नाम से पुकारा जाता है?",
+            "en": "By what name are the Group 17 elements generally called?"
+          },
+          "options": [
+            {"hi": "उत्कृष्ट गैसें", "en": "Noble gases"},
+            {"hi": "चालकोजन", "en": "Chalcogens"},
+            {"hi": "हैलोगन (Halogens)", "en": "Halogens"},
+            {"hi": "क्षार धातुएँ", "en": "Alkali metals"}
+          ],
+          "answer": {"hi": "हैलोगन (Halogens)", "en": "Halogens"}
+        },
+        {
+          "q": {
+            "hi": "वर्ग 16 के तत्वों को अन्य किस नाम से जाना जाता है?",
+            "en": "By what other name are the Group 16 elements known?"
+          },
+          "options": [
+            {"hi": "हैलोगन", "en": "Halogens"},
+            {"hi": "चालकोजन (Chalcogens)", "en": "Chalcogens"},
+            {"hi": "निकोजन", "en": "Pnictogens"},
+            {"hi": "उत्कृष्ट गैसें", "en": "Noble gases"}
+          ],
+          "answer": {"hi": "चालकोजन (Chalcogens)", "en": "Chalcogens"}
+        },
+        {
+          "q": {
+            "hi": "आवर्त सारणी के मध्य भाग में स्थित वर्ग 3 से 12 तक के तत्वों को क्या कहा जाता है?",
+            "en": "What are the elements of Groups 3 to 12 located in the middle part of the periodic table called?"
+          },
+          "options": [
+            {"hi": "प्रतिनिधि तत्व", "en": "Representative elements"},
+            {"hi": "संक्रमण तत्व (Transition elements)", "en": "Transition elements"},
+            {"hi": "अंतर-संक्रमण तत्व", "en": "Inner-transition elements"},
+            {"hi": "अधातुएँ", "en": "Non-metals"}
+          ],
+          "answer": {"hi": "संक्रमण तत्व (Transition elements)", "en": "Transition elements"}
+        },
+        {
+          "q": {
+            "hi": "आवर्त सारणी के निचले भाग में स्थित दो श्रेणियों (लैंथेनाइड्स और एक्टिनाइड्स) को संयुक्त रूप से क्या कहा जाता है?",
+            "en": "What are the two series located at the bottom of the periodic table (Lanthanoids and Actinoids) collectively called?"
+          },
+          "options": [
+            {"hi": "$s$-ब्लॉक तत्व", "en": "$s$-block elements"},
+            {"hi": "$p$-ब्लॉक तत्व", "en": "$p$-block elements"},
+            {"hi": "अंतर-संक्रमण तत्व ($f$-ब्लॉक तत्व)", "en": "Inner-transition elements ($f$-block elements)"},
+            {"hi": "उत्कृष्ट धातुएँ", "en": "Noble metals"}
+          ],
+          "answer": {"hi": "अंतर-संक्रमण तत्व ($f$-ब्लॉक तत्व)", "en": "Inner-transition elements ($f$-block elements)"}
+        },
+        {
+          "q": {
+            "hi": "आवर्त सारणी में कुल ज्ञात तत्वों में से लगभग कितने प्रतिशत तत्व धातुएँ (Metals) हैं?",
+            "en": "Approximately what percentage of all known elements in the periodic table are metals?"
+          },
+          "options": [
+            {"hi": "20% से कम", "en": "Less than 20%"},
+            {"hi": "50%", "en": "50%"},
+            {"hi": "78% से अधिक", "en": "More than 78%"},
+            {"hi": "10%", "en": "10%"}
+          ],
+          "answer": {"hi": "78% से अधिक", "en": "More than 78%"}
+        },
+        {
+          "q": {
+            "hi": "धातुओं और अधातुओं के बीच एक तिरछी रेखा पर स्थित तत्व जिनमें दोनों के गुण होते हैं, कहलाते हैं:",
+            "en": "Elements lying along a diagonal line between metals and non-metals that show properties of both are called:"
+          },
+          "options": [
+            {"hi": "संक्रमण धातुएँ", "en": "Transition metals"},
+            {"hi": "उपधातु या अर्धधातु (Metalloids)", "en": "Metalloids"},
+            {"hi": "उत्कृष्ट गैसें", "en": "Noble gases"},
+            {"hi": "हैलोगन्स", "en": "Halogens"}
+          ],
+          "answer": {"hi": "उपधातु या अर्धधातु (Metalloids)", "en": "Metalloids"}
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "एक आवर्त में बाईं से दाईं ओर जाने पर परमाणु त्रिज्या (Atomic Radius) में क्या परिवर्तन होता है?",
+            "en": "What change occurs in the atomic radius when moving from left to right across a period?"
+          },
+          "options": [
+            {"hi": "त्रिज्या बढ़ती है", "en": "Radius increases"},
+            {"hi": "त्रिज्या घटती है (Radius decreases)", "en": "Radius decreases"},
+            {"hi": "त्रिज्या अपरिवर्तित रहती है", "en": "Radius remains unchanged"},
+            {"hi": "पहले घटती है फिर तेजी से बढ़ती है", "en": "First decreases then increases sharply"}
+          ],
+          "answer": {"hi": "त्रिज्या घटती है (Radius decreases)", "en": "Radius decreases"}
+        },
+        {
+          "q": {
+            "hi": "किसी वर्ग (Group) में ऊपर से नीचे जाने पर परमाणु त्रिज्या क्यों बढ़ती है?",
+            "en": "Why does the atomic radius increase when moving down a group?"
+          },
+          "options": [
+            {"hi": "क्योंकि मुख्य क्वांटम संख्या ($n$) या कोर्शो की संख्या बढ़ती है", "en": "Because the principal quantum number ($n$) or number of shells increases"},
+            {"hi": "क्योंकि नाभिकीय आवेश बढ़ता है", "en": "Because nuclear charge increases"},
+            {"hi": "क्योंकि इलेक्ट्रॉनों की संख्या घटती है", "en": "Because the number of electrons decreases"},
+            {"hi": "क्योंकि शील्डिंग प्रभाव शून्य हो जाता है", "en": "Because shielding effect becomes zero"}
+          ],
+          "answer": {"hi": "क्योंकि मुख्य क्वांटम संख्या ($n$) या कोर्शो की संख्या बढ़ती है", "en": "Because the principal quantum number ($n$) or number of shells increases"}
+        },
+        {
+          "q": {
+            "hi": "आंतरिक कोर्शो के इलेक्ट्रॉनों द्वारा बाहरी इलेक्ट्रॉनों पर नाभिकीय आकर्षण बल को कम करने की परिघटना क्या कहलाती है?",
+            "en": "The phenomenon where inner shell electrons reduce the nuclear attraction on outer electrons is called:"
+          },
+          "options": [
+            {"hi": "प्रकाश विद्युत प्रभाव", "en": "Photoelectric effect"},
+            {"hi": "परिरक्षण प्रभाव या आवरण प्रभाव (Shielding effect)", "en": "Shielding/Screening effect"},
+            {"hi": "जीमान प्रभाव", "en": "Zeeman effect"},
+            {"hi": "आयनन प्रभाव", "en": "Ionization effect"}
+          ],
+          "answer": {"hi": "परिरक्षण प्रभाव या आवरण प्रभाव (Shielding effect)", "en": "Shielding/Screening effect"}
+        },
+        {
+          "q": {
+            "hi": "गैसीय अवस्था में एक विलगित उदासीन परमाणु से सबसे ढीले बंधे इलेक्ट्रॉन को बाहर निकालने के लिए आवश्यक न्यूनतम ऊर्जा कहलाती है:",
+            "en": "The minimum energy required to remove the most loosely bound electron from an isolated gaseous neutral atom is called:"
+          },
+          "options": [
+            {"hi": "इलेक्ट्रॉन लब्धि एंथैल्पी", "en": "Electron gain enthalpy"},
+            {"hi": "आयनन एंथैल्पी या आयनन विभव (Ionization Enthalpy)", "en": "Ionization Enthalpy"},
+            {"hi": "विद्युत ऋणात्मकता", "en": "Electronegativity"},
+            {"hi": "जलयोजन ऊर्जा", "en": "Hydration energy"}
+          ],
+          "answer": {"hi": "आयनन एंथैल्पी या आयनन विभव (Ionization Enthalpy)", "en": "Ionization Enthalpy"}
+        },
+        {
+          "q": {
+            "hi": "सामान्यतः एक आवर्त में बाईं से दाईं ओर बढ़ने पर आयनन एंथैल्पी (Ionization Enthalpy) में क्या परिवर्तन होता है?",
+            "en": "Generally, what change occurs in ionization enthalpy when moving from left to right across a period?"
+          },
+          "options": [
+            {"hi": "यह घटती है", "en": "It decreases"},
+            {"hi": "यह बढ़ती है (It increases)", "en": "It increases"},
+            {"hi": "यह नियत रहती है", "en": "It remains constant"},
+            {"hi": "यह शून्य हो जाती है", "en": "It becomes zero"}
+          ],
+          "answer": {"hi": "यह बढ़ती है (It increases)", "en": "It increases"}
+        },
+        {
+          "q": {
+            "hi": "किसी विलगित गैसीय उदासीन परमाणु में एक इलेक्ट्रॉन जोड़ने पर होने वाले एंथैल्पी परिवर्तन को क्या कहते हैं?",
+            "en": "The enthalpy change occurring when an electron is added to an isolated gaseous neutral atom is called:"
+          },
+          "options": [
+            {"hi": "आयनन ऊर्जा", "en": "Ionization energy"},
+            {"hi": "इलेक्ट्रॉन लब्धि एंथैल्पी (Electron Gain Enthalpy)", "en": "Electron Gain Enthalpy"},
+            {"hi": "विद्युत ऋणात्मकता", "en": "Electronegativity"},
+            {"hi": "जालक ऊर्जा", "en": "Lattice energy"}
+          ],
+          "answer": {"hi": "इलेक्ट्रॉन लब्धि एंथैल्पी (Electron Gain Enthalpy)", "en": "Electron Gain Enthalpy"}
+        },
+        {
+          "q": {
+            "hi": "आवर्त सारणी के किस वर्ग के तत्वों की इलेक्ट्रॉन लब्धि एंथैल्पी का मान अत्यधिक ऋणात्मक होता है क्योंकि वे एक इलेक्ट्रॉन ग्रहण कर उत्कृष्ट गैस विन्यास प्राप्त कर सकते हैं?",
+            "en": "Which group of elements has highly negative electron gain enthalpies because they can attain a noble gas configuration by accepting one electron?"
+          },
+          "options": [
+            {"hi": "वर्ग 1 (क्षार धातुएँ)", "en": "Group 1 (Alkali metals)"},
+            {"hi": "वर्ग 17 (हैलोगन्स)", "en": "Group 17 (Halogens)"},
+            {"hi": "वर्ग 18 (उत्कृष्ट गैसें)", "en": "Group 18 (Noble gases)"},
+            {"hi": "वर्ग 2", "en": "Group 2"}
+          ],
+          "answer": {"hi": "वर्ग 17 (हैलोगन्स)", "en": "Group 17 (Halogens)"}
+        },
+        {
+          "q": {
+            "hi": "किसी रासायनिक यौगिक में एक परमाणु द्वारा सहसंयोजक बंध के इलेक्ट्रॉन युग्म को अपनी ओर आकर्षित करने की सापेक्ष क्षमता कहलाती है:",
+            "en": "The relative ability of an atom in a chemical compound to attract the shared pair of electrons towards itself is called:"
+          },
+          "options": [
+            {"hi": "इलेक्ट्रॉन बंधुता", "en": "Electron affinity"},
+            {"hi": "विद्युत ऋणात्मकता (Electronegativity)", "en": "Electronegativity"},
+            {"hi": "आयनन विभव", "en": "Ionization potential"},
+            {"hi": "नाभिकीय विखंडन", "en": "Nuclear fission"}
+          ],
+          "answer": {"hi": "विद्युत ऋणात्मकता (Electronegativity)", "en": "Electronegativity"}
+        },
+        {
+          "q": {
+            "hi": "संपूर्ण आवर्त सारणी में सबसे अधिक विद्युत ऋणात्मक (Most Electronegative) तत्व कौन सा है?",
+            "en": "Which is the most electronegative element in the entire periodic table?"
+          },
+          "options": [
+            {"hi": "ऑक्सीजन (O)", "en": "Oxygen (O)"},
+            {"hi": "क्लोरीन (Cl)", "en": "Chlorine (Cl)"},
+            {"hi": "फ्लुओरीन (F)", "en": "Fluorine (F)"},
+            {"hi": "नाइट्रोजन (N)", "en": "Nitrogen (N)"}
+          ],
+          "answer": {"hi": "फ्लुओरीन (F)", "en": "Fluorine (F)"}
+        },
+        {
+          "q": {
+            "hi": "आवर्त सारणी के दूसरे आवर्त के कुछ तत्वों (जैसे Li, Be) का अपने से अगले वर्ग के तीसरे आवर्त के तत्वों (जैसे Mg, Al) के साथ गुणों में समानता क्या कहलाती है?",
+            "en": "The similarity in properties of some elements of the second period (like Li, Be) with elements of the third period in the next group (like Mg, Al) is called a/an:"
+          },
+          "options": [
+            {"hi": "क्षैतिज संबंध", "en": "Horizontal relationship"},
+            {"hi": "विकर्ण संबंध (Diagonal relationship)", "en": "Diagonal relationship"},
+            {"hi": "समस्थानिक संबंध", "en": "Isotopic relationship"},
+            {"hi": "त्रिक संबंध", "en": "Triad relationship"}
+          ],
+          "answer": {"hi": "विकर्ण संबंध (Diagonal relationship)", "en": "Diagonal relationship"}
+        }
+      ],
+      "section5": [
+        {
+          "q": {
+            "hi": "सम-इलेक्ट्रॉनिक स्पीशीज (Isoelectronic species) क्या होती हैं?",
+            "en": "What are isoelectronic species?"
+          },
+          "options": [
+            {"hi": "परमाणु जिनमें न्यूट्रॉनों की संख्या समान हो", "en": "Atoms with same number of neutrons"},
+            {"hi": "परमाणु या आयन जिनमें इलेक्ट्रॉनों की कुल संख्या समान हो", "en": "Atoms or ions containing the same total number of electrons"},
+            {"hi": "समान परमाणु भार वाले तत्व", "en": "Elements with same atomic weight"},
+            {"hi": "समान संयोजकता वाले तत्व", "en": "Elements with same valency"}
+          ],
+          "answer": {"hi": "परमाणु या आयन जिनमें इलेक्ट्रॉनों की कुल संख्या समान हो", "en": "Atoms or ions containing the same total number of electrons"}
+        },
+        {
+          "q": {
+            "hi": "निम्नलिखित स्पीशीज में से कौन सी एक सम-इलेक्ट्रॉनिक (Isoelectronic) समूह बनाती है?",
+            "en": "Which of the following sets forms an isoelectronic series?"
+          },
+          "options": [
+            {"hi": "Na$^+$, Mg$^{2+}$, F$^-$, Ne", "en": "Na$^+$, Mg$^{2+}$, F$^-$, Ne"},
+            {"hi": "Li$^+$, Na$^+$, K$^+$, Rb$^+$", "en": "Li$^+$, Na$^+$, K$^+$, Rb$^+$"},
+            {"hi": "F$^-$, Cl$^-$, Br$^-$, I$^-$", "en": "F$^-$, Cl$^-$, Br$^-$, I$^-$"},
+            {"hi": "O, F, Ne, Na", "en": "O, F, Ne, Na"}
+          ],
+          "answer": {"hi": "Na$^+$, Mg$^{2+}$, F$^-$, Ne", "en": "Na$^+$, Mg$^{2+}$, F$^-$, Ne"}
+        },
+        {
+          "q": {
+            "hi": "किसी परमाणु की तुलना में उसके ऋणायन (Anion) का आकार कैसा होता है?",
+            "en": "How does the size of an anion compare to its parent atom?"
+          },
+          "options": [
+            {"hi": "ऋणायन हमेशा छोटा होता है", "en": "The anion is always smaller"},
+            {"hi": "ऋणायन हमेशा बड़ा होता है (The anion is always larger)", "en": "The anion is always larger"},
+            {"hi": "दोनों का आकार बिल्कुल समान होता है", "en": "Both have exactly the same size"},
+            {"hi": "ऋणायन का आकार अनिश्चित होता है", "en": "The size of the anion is unpredictable"}
+          ],
+          "answer": {"hi": "ऋणायन हमेशा बड़ा होता है (The anion is always larger)", "en": "The anion is always larger"}
+        },
+        {
+          "q": {
+            "hi": "किसी परमाणु की तुलना में उसके धनायन (Cation) का आकार कैसा होता है?",
+            "en": "How does the size of a cation compare to its parent atom?"
+          },
+          "options": [
+            {"hi": "धनायन हमेशा छोटा होता है (The cation is always smaller)", "en": "The cation is always smaller"},
+            {"hi": "धनायन हमेशा बड़ा होता है", "en": "The cation is always larger"},
+            {"hi": "आकार समान रहता है", "en": "The size remains the same"},
+            {"hi": "धनायन आधा हो जाता है", "en": "The cation becomes half"}
+          ],
+          "answer": {"hi": "धनायन हमेशा छोटा होता है (The cation is always smaller)", "en": "The cation is always smaller"}
+        },
+        {
+          "q": {
+            "hi": "तत्वों के रासायनिक गुणों में आवर्तिता मुख्य रूप से किसके आवर्ती दोहराव के कारण होती है?",
+            "en": "Periodicity in the chemical properties of elements is primarily due to the periodic repetition of what?"
+          },
+          "options": [
+            {"hi": "परमाणु द्रव्यमान का", "en": "Atomic mass"},
+            {"hi": "बाहरी संयोजी कोश के इलेक्ट्रॉनिक विन्यास का", "en": "Outer valence shell electronic configuration"},
+            {"hi": "न्यूट्रॉन-प्रोटॉन अनुपात का", "en": "Neutron-to-proton ratio"},
+            {"hi": "परमाणु आयतन का", "en": "Atomic volume"}
+          ],
+          "answer": {"hi": "बाहरी संयोजी कोश के इलेक्ट्रॉनिक विन्यास का", "en": "Outer valence shell electronic configuration"}
+        },
+        {
+          "q": {
+            "hi": "आवर्त सारणी में अधातुएँ (Non-metals) मुख्य रूप से किस भाग में पाई जाती हैं?",
+            "en": "Where are non-metals primarily located in the periodic table?"
+          },
+          "options": [
+            {"hi": "निचले भाग में ($f$-ब्लॉक)", "en": "At the bottom ($f$-block)"},
+            {"hi": "बाईं ओर ऊपर की तरफ", "en": "On the top left side"},
+            {"hi": "दाईं ओर ऊपर की तरफ ($p$-ब्लॉक)", "en": "On the top right side ($p$-block)"},
+            {"hi": "मध्य भाग में ($d$-ब्लॉक)", "en": "In the middle ($d$-block)"}
+          ],
+          "answer": {"hi": "दाईं ओर ऊपर की तरफ ($p$-ब्लॉक)", "en": "On the top right side ($p$-block)"}
+        },
+        {
+          "q": {
+            "hi": "मेंडेलीव की आवर्त सारणी की तुलना में आधुनिक आवर्त सारणी का मुख्य लाभ क्या है?",
+            "en": "What is the primary advantage of the modern periodic table over Mendeleev's periodic table?"
+          },
+          "options": [
+            {"hi": "यह तत्वों को वर्णानुक्रम में व्यवस्थित करती है", "en": "It arranges elements alphabetically"},
+            {"hi": "यह परमाणु क्रमांक पर आधारित है जो अधिक मौलिक गुण है", "en": "It is based on atomic number, which is a more fundamental property"},
+            {"hi": "इसमें कम वर्ग हैं", "en": "It has fewer groups"},
+            {"hi": "यह भारी तत्वों को पूरी तरह अनदेखा करती है", "en": "It completely ignores heavy elements"}
+          ],
+          "answer": {"hi": "यह तत्वों को परमाणु क्रमांक पर आधारित है जो अधिक मौलिक गुण है", "en": "It is based on atomic number, which is a more fundamental property"}
+        },
+        {
+          "q": {
+            "hi": "प्रथम आयनन एंथैल्पी ($\\Delta_i H_1$) की तुलना में द्वितीय आयनन एंथैल्पी ($\\Delta_i H_2$) का मान हमेशा कैसा होता है?",
+            "en": "How does the second ionization enthalpy ($\\Delta_i H_2$) always compare to the first ionization enthalpy ($\\Delta_i H_1$)?"
+          },
+          "options": [
+            {"hi": "हमेशा कम होता है", "en": "Always lower"},
+            {"hi": "हमेशा अधिक होता है (Always higher)", "en": "Always higher"},
+            {"hi": "बिल्कुल बराबर होता है", "en": "Exactly equal"},
+            {"hi": "शून्य होता है", "en": "It is zero"}
+          ],
+          "answer": {"hi": "हमेशा अधिक होता है (Always higher)", "en": "Always higher"}
+        },
+        {
+          "q": {
+            "hi": "निम्नलिखित में से किस तत्व की इलेक्ट्रॉनिक लब्धि एंथैल्पी का मान अप्रत्याशित रूप से सबसे अधिक ऋणात्मक होता है (पूरी आवर्त सारणी में)?",
+            "en": "Which of the following elements has the most negative electron gain enthalpy value in the entire periodic table?"
+          },
+          "options": [
+            {"hi": "फ्लुओरीन (F)", "en": "Fluorine (F)"},
+            {"hi": "क्लोरीन (Cl)", "en": "Chlorine (Cl)"},
+            {"hi": "ब्रोमीन (Br)", "en": "Bromine (Br)"},
+            {"hi": "आयोडीन (I)", "en": "Iodine (I)"}
+          ],
+          "answer": {"hi": "क्लोरीन (Cl)", "en": "Chlorine (Cl)"}
+        },
+        {
+          "q": {
+            "hi": "किसी आवर्त में बाईं से दाईं ओर जाने पर तत्वों के ऑक्साइडों की अम्लीय प्रकृति (Acidic character) में क्या परिवर्तन होता है?",
+            "en": "What change occurs in the acidic character of oxides of elements when moving from left to right across a period?"
+          },
+          "options": [
+            {"hi": "यह घटती है", "en": "It decreases"},
+            {"hi": "यह बढ़ती है (It increases)", "en": "It increases"},
+            {"hi": "यह अपरिवर्तित रहती है", "en": "It remains unchanged"},
+            {"hi": "ऑक्साइड पूरी तरह उदासीन हो जाते हैं", "en": "Oxides become completely neutral"}
+          ],
+          "answer": {"hi": "यह बढ़ती है (It increases)", "en": "It increases"}
+        }
+      ]
     }
   }
 }
