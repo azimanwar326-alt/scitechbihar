@@ -2648,6 +2648,668 @@
           "answer": {"hi": "0.5", "en": "0.5"}
         }
       ]
+    },
+    "chapter05": {
+      "section1": [
+        {
+          "q": {
+            "hi": "ऊष्मागतिकी में ब्रह्मांड का वह विशिष्ट भाग जिसका हम अध्ययन करते हैं, क्या कहलाता है?",
+            "en": "In thermodynamics, the specific part of the universe which is under investigation is called:"
+          },
+          "options": [
+            {"hi": "परिवेश (Surroundings)", "en": "Surroundings"},
+            {"hi": "निकाय (System)", "en": "System"},
+            {"hi": "सीमा (Boundary)", "en": "Boundary"},
+            {"hi": "ब्रह्मांड (Universe)", "en": "Universe"}
+          ],
+          "answer": {"hi": "निकाय (System)", "en": "System"}
+        },
+        {
+          "q": {
+            "hi": "निकाय के अतिरिक्त ब्रह्मांड का शेष समस्त भाग क्या कहलाता है?",
+            "en": "The rest of the universe excluding the system is called:"
+          },
+          "options": [
+            {"hi": "निकाय (System)", "en": "System"},
+            {"hi": "परिवेश (Surroundings)", "en": "Surroundings"},
+            {"hi": "अवस्था फलन", "en": "State function"},
+            {"hi": "साम्यावस्था", "en": "Equilibrium"}
+          ],
+          "answer": {"hi": "परिवेश (Surroundings)", "en": "Surroundings"}
+        },
+        {
+          "q": {
+            "hi": "वह निकाय जो परिवेश के साथ ऊर्जा और द्रव्य (पदार्थ) दोनों का विनिमय कर सकता है, कहलाता है:",
+            "en": "A system which can exchange both energy and matter with the surroundings is called a/an:"
+          },
+          "options": [
+            {"hi": "बंद निकाय (Closed system)", "en": "Closed system"},
+            {"hi": "विवृत या खुला निकाय (Open system)", "en": "Open system"},
+            {"hi": "विलगित निकाय (Isolated system)", "en": "Isolated system"},
+            {"hi": "आदर्श निकाय", "en": "Ideal system"}
+          ],
+          "answer": {"hi": "विवृत या खुला निकाय (Open system)", "en": "Open system"}
+        },
+        {
+          "q": {
+            "hi": "एक स्टील के बंद थर्मस फ्लास्क (या सीलबंद बीकर) में रखी गर्म चाय किस निकाय का उदाहरण है, जो केवल ऊर्जा का विनिमय कर सकती है पदार्थ का नहीं?",
+            "en": "Hot tea kept in a sealed beaker or closed container can exchange energy but not matter. This is an example of a/an:"
+          },
+          "options": [
+            {"hi": "खुला निकाय", "en": "Open system"},
+            {"hi": "बंद निकाय (Closed system)", "en": "Closed system"},
+            {"hi": "विलगित निकाय", "en": "Isolated system"},
+            {"hi": "समांगी निकाय", "en": "Homogeneous system"}
+          ],
+          "answer": {"hi": "बंद निकाय (Closed system)", "en": "Closed system"}
+        },
+        {
+          "q": {
+            "hi": "वह निकाय जो परिवेश के साथ न तो ऊर्जा और न ही द्रव्य का विनिमय कर सकता है (जैसे पूर्णतः इंसुलेटेड थर्मस फ्लास्क), कहलाता है:",
+            "en": "A system which can exchange neither matter nor energy with the surroundings is called a/an:"
+          },
+          "options": [
+            {"hi": "खुला निकाय", "en": "Open system"},
+            {"hi": "बंद निकाय", "en": "Closed system"},
+            {"hi": "विलगित निकाय (Isolated system)", "en": "Isolated system"},
+            {"hi": "विषमांगी निकाय", "en": "Heterogeneous system"}
+          ],
+          "answer": {"hi": "विलगित निकाय (Isolated system)", "en": "Isolated system"}
+        },
+        {
+          "q": {
+            "hi": "वह गुणधर्म जिसका मान निकाय में उपस्थित पदार्थ की मात्रा पर निर्भर नहीं करता, कहलाता है:",
+            "en": "A property whose value does not depend on the quantity or size of matter present in the system is called a/an:"
+          },
+          "options": [
+            {"hi": "विस्तीर्ण गुणधर्म (Extensive property)", "en": "Extensive property"},
+            {"hi": "गहन गुणधर्म (Intensive property)", "en": "Intensive property"},
+            {"hi": "अवस्था फलन", "en": "State function"},
+            {"hi": "पथ फलन", "en": "Path function"}
+          ],
+          "answer": {"hi": "गहन गुणधर्म (Intensive property)", "en": "Intensive property"}
+        },
+        {
+          "q": {
+            "hi": "निम्नलिखित में से कौन सा एक विस्तीर्ण गुणधर्म (Extensive property) है, जो पदार्थ की मात्रा पर निर्भर करता है?",
+            "en": "Which of the following is an extensive property, which depends on the amount of matter?"
+          },
+          "options": [
+            {"hi": "तापमान (Temperature)", "en": "Temperature"},
+            {"hi": "घनत्व (Density)", "en": "Density"},
+            {"hi": "द्रव्यमान या आयतन (Mass or Volume)", "en": "Mass or Volume"},
+            {"hi": "दाब (Pressure)", "en": "Pressure"}
+          ],
+          "answer": {"hi": "द्रव्यमान या आयतन (Mass or Volume)", "en": "Mass or Volume"}
+        },
+        {
+          "q": {
+            "hi": "वह ऊष्मागतिक राशि जिसका मान केवल निकाय की प्रारंभिक और अंतिम अवस्था पर निर्भर करता है, न कि उस पथ पर जिससे वह अवस्था प्राप्त की गई है, कहलाती है:",
+            "en": "A thermodynamic quantity whose value depends only on the initial and final states of the system and not on the path followed is called a/an:"
+          },
+          "options": [
+            {"hi": "पथ फलन (Path function)", "en": "Path function"},
+            {"hi": "अवस्था फलन (State function)", "en": "State function"},
+            {"hi": "विस्तीर्ण गुणधर्म", "en": "Extensive property"},
+            {"hi": "गहन गुणधर्म", "en": "Intensive property"}
+          ],
+          "answer": {"hi": "अवस्था फलन (State function)", "en": "State function"}
+        },
+        {
+          "q": {
+            "hi": "निम्नलिखित में से कौन से दो चर 'पथ फलन' (Path functions) के उदाहरण हैं?",
+            "en": "Which of the following two variables are examples of path functions?"
+          },
+          "options": [
+            {"hi": "आंतरिक ऊर्जा ($U$) और एन्थैल्पी ($H$)", "en": "Internal energy ($U$) and Enthalpy ($H$)"},
+            {"hi": "कार्य ($w$) और ऊष्मा ($q$)", "en": "Work ($w$) and Heat ($q$)"},
+            {"hi": "तापमान ($T$) और दाब ($P$)", "en": "Temperature ($T$) and Pressure ($P$)"},
+            {"hi": "एन्ट्रॉपी ($S$) और गिब्स ऊर्जा ($G$)", "en": "Entropy ($S$) and Gibbs energy ($G$)"}
+          ],
+          "answer": {"hi": "कार्य ($w$) और ऊष्मा ($q$)", "en": "Work ($w$) and Heat ($q$)"}
+        },
+        {
+          "q": {
+            "hi": "एक प्रक्रम जो अत्यंत धीमा होता है और किसी भी क्षण दिशा को उत्क्रमित (reverse) किया जा सकता है, कहलाता है:",
+            "en": "A process which conducts infinitesimally slowly such that it can be reversed at any stage is called a/an:"
+          },
+          "options": [
+            {"hi": "अनुत्क्रमणीय प्रक्रम (Irreversible process)", "en": "Irreversible process"},
+            {"hi": "उत्क्रमणीय प्रक्रम (Reversible process)", "en": "Reversible process"},
+            {"hi": "रुद्धोष्म प्रक्रम", "en": "Adiabatic process"},
+            {"hi": "समतापी प्रक्रम", "en": "Isothermal process"}
+          ],
+          "answer": {"hi": "उत्क्रमणीय प्रक्रम (Reversible process)", "en": "Reversible process"}
+        }
+      ],
+      "section2": [
+        {
+          "q": {
+            "hi": "वह प्रक्रम जिसमें पूरे परिवर्तन के दौरान निकाय का तापमान स्थिर रहता है ($\\Delta T = 0$), कहलाता है:",
+            "en": "A process in which the temperature of the system remains constant throughout ($\\Delta T = 0$) is called a/an:"
+          },
+          "options": [
+            {"hi": "समदाबी प्रक्रम (Isobaric process)", "en": "Isobaric process"},
+            {"hi": "समतापी प्रक्रम (Isothermal process)", "en": "Isothermal process"},
+            {"hi": "समायतनी प्रक्रम (Isochoric process)", "en": "Isochoric process"},
+            {"hi": "रुद्धोष्म प्रक्रम", "en": "Adiabatic process"}
+          ],
+          "answer": {"hi": "समतापी प्रक्रम (Isothermal process)", "en": "Isothermal process"}
+        },
+        {
+          "q": {
+            "hi": "वह प्रक्रम जिसमें निकाय और परिवेश के बीच कोई ऊष्मा का विनिमय नहीं होता ($q = 0$), कहलाता है:",
+            "en": "A process in which there is no heat exchange between the system and surroundings ($q = 0$) is called a/an:"
+          },
+          "options": [
+            {"hi": "समतापी प्रक्रम", "en": "Isothermal process"},
+            {"hi": "रुद्धोष्म प्रक्रम (Adiabatic process)", "en": "Adiabatic process"},
+            {"hi": "समदाबी प्रक्रम", "en": "Isobaric process"},
+            {"hi": "समायतनी प्रक्रम", "en": "Isochoric process"}
+          ],
+          "answer": {"hi": "रुद्धोष्म प्रक्रम (Adiabatic process)", "en": "Adiabatic process"}
+        },
+        {
+          "q": {
+            "hi": "IUPAC परिपाटी के अनुसार, जब निकाय द्वारा परिवेश पर कार्य किया जाता है (प्रसार कार्य), तो कार्य ($w$) का चिह्न क्या होता है?",
+            "en": "According to IUPAC convention, when work is done by the system on the surroundings (expansion), the sign of work ($w$) is:"
+          },
+          "options": [
+            {"hi": "धनात्मक (+)", "en": "Positive (+)"},
+            {"hi": "ऋणात्मक (-)", "en": "Negative (-)"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "अनंत", "en": "Infinite"}
+          ],
+          "answer": {"hi": "ऋणात्मक (-)", "en": "Negative (-)"}
+        },
+        {
+          "q": {
+            "hi": "ऊष्मागतिकी का प्रथम नियम (First Law of Thermodynamics) वास्तव में किस सिद्धांत का रूप है?",
+            "en": "The First Law of Thermodynamics is a statement of which principle?"
+          },
+          "options": [
+            {"hi": "द्रव्यमान संरक्षण का नियम", "en": "Law of conservation of mass"},
+            {"hi": "ऊर्जा संरक्षण का नियम (Law of Conservation of Energy)", "en": "Law of Conservation of Energy"},
+            {"hi": "नियत ऊष्मा संकलन का नियम", "en": "Law of constant heat summation"},
+            {"hi": "एन्ट्रॉपी का नियम", "en": "Law of entropy"}
+          ],
+          "answer": {"hi": "ऊर्जा संरक्षण का नियम (Law of Conservation of Energy)", "en": "Law of Conservation of Energy"}
+        },
+        {
+          "q": {
+            "hi": "ऊष्मागतिकी के प्रथम नियम का सही गणितीय समीकरण क्या है?",
+            "en": "What is the correct mathematical equation for the First Law of Thermodynamics?"
+          },
+          "options": [
+            {"hi": "$\\Delta U = q + w$", "en": "$\\Delta U = q + w$"},
+            {"hi": "$\\Delta U = q - w$", "en": "$\\Delta U = q - w$"},
+            {"hi": "$q = \\Delta U - w$", "en": "$q = \\Delta U - w$"},
+            {"hi": "$\\Delta H = \\Delta U + P\\Delta V$", "en": "\\Delta H = \\Delta U + P\\Delta V"}
+          ],
+          "answer": {"hi": "$\\Delta U = q + w$", "en": "$\\Delta U = q + w$"}
+        },
+        {
+          "q": {
+            "hi": "स्थिर आयतन पर निकाय को दी गई या उससे ली गई ऊष्मा ($q_v$) किसके बराबर होती है?",
+            "en": "The heat supplied or evolved at constant volume ($q_v$) is equal to the change in:"
+          },
+          "options": [
+            {"hi": "एन्थैल्पी परिवर्तन ($\\Delta H$)", "en": "Enthalpy change ($\\Delta H$)"},
+            {"hi": "आंतरिक ऊर्जा परिवर्तन ($\\Delta U$)", "en": "Internal energy change ($\\Delta U$)"},
+            {"hi": "गिब्स मुक्त ऊर्जा परिवर्तन ($\\Delta G$)", "en": "Gibbs free energy change ($\\Delta G$)"},
+            {"hi": "एन्ट्रॉपी परिवर्तन ($\\Delta S$)", "en": "Entropy change ($\\Delta S$)"}
+          ],
+          "answer": {"hi": "आंतरिक ऊर्जा परिवर्तन ($\\Delta U$)", "en": "Internal energy change ($\\Delta U$)"}
+        },
+        {
+          "q": {
+            "hi": "स्थिर दाब पर निकाय की ऊष्मा सामग्री में होने वाला परिवर्तन ($q_p$) क्या कहलाता है?",
+            "en": "The heat change taking place at constant pressure ($q_p$) is defined as:"
+          },
+          "options": [
+            {"hi": "आंतरिक ऊर्जा ($\\Delta U$)", "en": "Internal energy ($\\Delta U$)"},
+            {"hi": "एन्थैल्पी परिवर्तन ($\\Delta H$)", "en": "Enthalpy change ($\\Delta H$)"},
+            {"hi": "कार्य ($w$)", "en": "Work ($w$)"},
+            {"hi": "साम्य स्थिरांक", "en": "Equilibrium constant"}
+          ],
+          "answer": {"hi": "एन्थैल्पी परिवर्तन ($\\Delta H$)", "en": "Enthalpy change ($\\Delta H$)"}
+        },
+        {
+          "q": {
+            "hi": "एन्थैल्पी परिवर्तन ($\\Delta H$) और आंतरिक ऊर्जा परिवर्तन ($\\Delta U$) के बीच सही संबंध क्या है?",
+            "en": "What is the correct relationship between Enthalpy change ($\\Delta H$) and Internal Energy change ($\\Delta U$)?"
+          },
+          "options": [
+            {"hi": "$\\Delta H = \\Delta U - P\\Delta V$", "en": "\\Delta H = \\Delta U - P\\Delta V"},
+            {"hi": "$\\Delta H = \\Delta U + \\Delta n_g RT$", "en": "\\Delta H = \\Delta U + \\Delta n_g RT$"},
+            {"hi": "$\\Delta U = \\Delta H + \\Delta n_g RT$", "en": "\\Delta U = \\Delta H + \\Delta n_g RT$"},
+            {"hi": "$\\Delta H = \\Delta U + P V$", "en": "\\Delta H = \\Delta U + P V"}
+          ],
+          "answer": {"hi": "$\\Delta H = \\Delta U + \\Delta n_g RT$", "en": "\\Delta H = \\Delta U + \\Delta n_g RT$"}
+        },
+        {
+          "q": {
+            "hi": "समीकरण $\\Delta H = \\Delta U + \\Delta n_g RT$ में $\\Delta n_g$ क्या प्रदर्शित करता है?",
+            "en": "In the equation $\\Delta H = \\Delta U + \\Delta n_g RT$, what does $\\Delta n_g$ represent?"
+          },
+          "options": [
+            {"hi": "कुल अभिकारकों के मोलों की संख्या", "en": "Total number of moles of reactants"},
+            {"hi": "गैसीय उत्पादों के मोलों की संख्या और गैसीय अभिकारकों के मोलों की संख्या का अंतर", "en": "Difference between moles of gaseous products and gaseous reactants"},
+            {"hi": "ठोस उत्पादों के मोलों की संख्या", "en": "Number of moles of solid products"},
+            {"hi": "विलयन की मोलरता", "en": "Molarity of the solution"}
+          ],
+          "answer": {"hi": "गैसीय उत्पादों के मोलों की संख्या और गैसीय अभिकारकों के मोलों की संख्या का अंतर", "en": "Difference between moles of gaseous products and gaseous reactants"}
+        },
+        {
+          "q": {
+            "hi": "एक बंद सुचालक कंटेनर में होने वाली बम कैलोरीमीटर (Bomb Calorimeter) अभिक्रियाएँ किस परिस्थिति में की जाती हैं?",
+            "en": "Reactions inside a bomb calorimeter are performed under which condition?"
+          },
+          "options": [
+            {"hi": "स्थिर दाब पर ($P$ = const)", "en": "At constant pressure ($P$ = const)"},
+            {"hi": "स्थिर आयतन पर ($V$ = const)", "en": "At constant volume ($V$ = const)"},
+            {"hi": "स्थिर तापमान पर ($T$ = const)", "en": "At constant temperature ($T$ = const)"},
+            {"hi": "शून्य गुरुत्वाकर्षण पर", "en": "At zero gravity"}
+          ],
+          "answer": {"hi": "स्थिर आयतन पर ($V$ = const)", "en": "At constant volume ($V$ = const)"}
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "एक ऊष्माशोषी (Endothermic) अभिक्रिया के लिए एन्थैल्पी परिवर्तन ($\\Delta H$) का चिह्न क्या होता है?",
+            "en": "For an endothermic reaction, the sign of enthalpy change ($\\Delta H$) is always:"
+          },
+          "options": [
+            {"hi": "ऋणात्मक (-)", "en": "Negative (-)"},
+            {"hi": "धनात्मक (+)", "en": "Positive (+)"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "परिवर्तनीय", "en": "Variable"}
+          ],
+          "answer": {"hi": "धनात्मक (+)", "en": "Positive (+)"}
+        },
+        {
+          "q": {
+            "hi": "एक ऊष्माक्षेपी (Exothermic) अभिक्रिया के लिए एन्थैल्पी परिवर्तन ($\\Delta H$) का मान कैसा होता है?",
+            "en": "For an exothermic reaction, the value of enthalpy change ($\\Delta H$) is always:"
+          },
+          "options": [
+            {"hi": "धनात्मक (> 0)", "en": "Positive (> 0)"},
+            {"hi": "ऋणात्मक (< 0)", "en": "Negative (< 0)"},
+            {"hi": "शून्य (= 0)", "en": "Zero (= 0)"},
+            {"hi": "एक से अधिक", "en": "Greater than one"}
+          ],
+          "answer": {"hi": "ऋणात्मक (< 0)", "en": "Negative (< 0)"}
+        },
+        {
+          "q": {
+            "hi": "1 मोल पदार्थ को उसके मानक अवस्था में उसके अवयवी तत्वों से बनाने पर होने वाला एन्थैल्पी परिवर्तन कहलाता है:",
+            "en": "The enthalpy change for the formation of 1 mole of a compound from its constituent elements in their standard states is called:"
+          },
+          "options": [
+            {"hi": "मानक दहन एन्थैल्पी", "en": "Standard enthalpy of combustion"},
+            {"hi": "मानक विरचन (या संभवन) एन्थैल्पी (Standard Enthalpy of Formation)", "en": "Standard Enthalpy of Formation"},
+            {"hi": "उदासीनीकरण एन्थैल्पी", "en": "Enthalpy of neutralization"},
+            {"hi": "कणन एन्थैल्पी", "en": "Enthalpy of atomisation"}
+          ],
+          "answer": {"hi": "मानक विरचन (या संभवन) एन्थैल्पी (Standard Enthalpy of Formation)", "en": "Standard Enthalpy of Formation"}
+        },
+        {
+          "q": {
+            "hi": "परिपाटी के अनुसार, सभी तत्वों की उनकी मानक अवस्था (जैसे $O_2$ गैस, $C$ ग्रेफाइट) में मानक विरचन एन्थैल्पी ($\\Delta_f H^\\circ$) का मान क्या माना जाता है?",
+            "en": "By convention, the standard enthalpy of formation ($\\Delta_f H^\\circ$) of elements in their reference standard states is taken as:"
+          },
+          "options": [
+            {"hi": "100 kJ/mol", "en": "100 kJ/mol"},
+            {"hi": "शून्य (Zero)", "en": "Zero"},
+            {"hi": "-298 kJ/mol", "en": "-298 kJ/mol"},
+            {"hi": "अनंत", "en": "Infinite"}
+          ],
+          "answer": {"hi": "शून्य (Zero)", "en": "Zero"}
+        },
+        {
+          "q": {
+            "hi": "1 मोल गैसीय आबंधों को तोड़कर गैसीय उत्पाद बनाने में होने वाला एन्थैल्पी परिवर्तन क्या कहलाता है?",
+            "en": "The enthalpy change involved in breaking one mole of bonds in gaseous molecules is called:"
+          },
+          "options": [
+            {"hi": "आबंध वियोजन एन्थैल्पी (Bond Dissociation Enthalpy)", "en": "Bond Dissociation Enthalpy"},
+            {"hi": "विलयन एन्थैल्पी", "en": "Enthalpy of solution"},
+            {"hi": "जलयोजन एन्थैल्पी", "en": "Enthalpy of hydration"},
+            {"hi": "संगलन एन्थैल्पी", "en": "Enthalpy of fusion"}
+          ],
+          "answer": {"hi": "आबंध वियोजन एन्थैल्पी (Bond Dissociation Enthalpy)", "en": "Bond Dissociation Enthalpy"}
+        },
+        {
+          "q": {
+            "hi": "हेस का नियत ऊष्मा संकलन का नियम (Hess's Law of Constant Heat Summation) क्या कहता है?",
+            "en": "What does Hess's Law of Constant Heat Summation state?"
+          },
+          "options": [
+            {"hi": "अभिक्रिया का एन्थैल्पी परिवर्तन प्रक्रम के पथ पर निर्भर करता है", "en": "The enthalpy change of a reaction depends on the path followed"},
+            {"hi": "कुल रासायनिक परिवर्तन में अवशोषित या उत्सर्जित ऊष्मा समान रहती है चाहे अभिक्रिया एक पद में हो या कई पदों में", "en": "The total enthalpy change for a reaction is the same whether it takes place in one step or in several steps"},
+            {"hi": "तापमान बढ़ने से ऊष्मा हमेशा बढ़ती है", "en": "Heat always increases with temperature"},
+            {"hi": "केवल गैसीय अभिक्रियाओं पर हेस का नियम लागू होता है", "en": "Hess's law applies only to gaseous reactions"}
+          ],
+          "answer": {"hi": "कुल रासायनिक परिवर्तन में अवशोषित या उत्सर्जित ऊष्मा समान रहती है चाहे अभिक्रिया एक पद में हो या कई पदों में", "en": "The total enthalpy change for a reaction is the same whether it takes place in one step or in several steps"}
+        },
+        {
+          "q": {
+            "hi": "किसी ठोस क्रिस्टलीय जालक के 1 मोल को विलगित गैसीय आयनों में अनंत दूरी तक अलग करने के लिए आवश्यक ऊर्जा कहलाती है:",
+            "en": "The energy required to completely separate one mole of a solid ionic compound into gaseous constituent ions is called:"
+          },
+          "options": [
+            {"hi": "जलयोजन ऊर्जा", "en": "Hydration energy"},
+            {"hi": "जालक एन्थैल्पी (Lattice Enthalpy)", "en": "Lattice Enthalpy"},
+            {"hi": "कणन एन्थैल्पी", "en": "Enthalpy of atomisation"},
+            {"hi": "वाष्पन एन्थैल्पी", "en": "Enthalpy of vaporization"}
+          ],
+          "answer": {"hi": "जालक एन्थैल्पी (Lattice Enthalpy)", "en": "Lattice Enthalpy"}
+        },
+        {
+          "q": {
+            "hi": "आयनिक ठोसों की जालक ऊर्जा (Lattice Enthalpy) को प्रायोगिक रूप से निर्धारित करने के लिए किस चक्र (Cycle) का उपयोग किया जाता है?",
+            "en": "Which cycle is used to determine the lattice enthalpy of ionic solids indirectly?"
+          },
+          "options": [
+            {"hi": "कार्नो चक्र", "en": "Carnot cycle"},
+            {"hi": "बॉर्न-हैबर चक्र (Born-Haber Cycle)", "en": "Born-Haber Cycle"},
+            {"hi": "नाइट्रोजन चक्र", "en": "Nitrogen cycle"},
+            {"hi": "क्रैब्स चक्र", "en": "Krebs cycle"}
+          ],
+          "answer": {"hi": "बॉर्न-हैबर चक्र (Born-Haber Cycle)", "en": "Born-Haber Cycle"}
+        },
+        {
+          "q": {
+            "hi": "स्थिर दाब पर किसी पदार्थ के तापमान को 1 केल्विन बढ़ाने के लिए आवश्यक ऊष्मा क्या कहलाती है?",
+            "en": "The heat capacity of a substance measured at constant pressure is denoted as:"
+          },
+          "options": [
+            {"hi": "$C_v$", "en": "$C_v$"},
+            {"hi": "$C_p$", "en": "$C_p$"},
+            {"hi": "$\\Delta H$", "en": "\\Delta H"},
+            {"hi": "$R$", "en": "$R$"}
+          ],
+          "answer": {"hi": "$C_p$", "en": "$C_p$"}
+        },
+        {
+          "q": {
+            "hi": "एक आदर्श गैस के लिए $C_p$ (स्थिर दाब पर मोलर ऊष्मा धारिता) और $C_v$ (स्थिर आयतन पर मोलर ऊष्मा धारिता) के बीच सही संबंध क्या है?",
+            "en": "What is the correct relationship between $C_p$ and $C_v$ for an ideal gas?"
+          },
+          "options": [
+            {"hi": "$C_v - C_p = R$", "en": "$C_v - C_p = R$"},
+            {"hi": "$C_p - C_v = R$", "en": "$C_p - C_v = R$"},
+            {"hi": "$C_p / C_v = R$", "en": "$C_p / C_v = R$"},
+            {"hi": "$C_p + C_v = R$", "en": "$C_p + C_v = R$"}
+          ],
+          "answer": {"hi": "$C_p - C_v = R$", "en": "$C_p - C_v = R$"}
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "एक प्रक्रम जो बिना किसी बाहरी सहायता के अपने आप घटित हो सकता है, कहलाता है:",
+            "en": "A process that can occur on its own without any external assistance is called a/an:"
+          },
+          "options": [
+            {"hi": "अस्वतः प्रक्रम", "en": "Non-spontaneous process"},
+            {"hi": "स्वतः प्रक्रम (Spontaneous process)", "en": "Spontaneous process"},
+            {"hi": "साम्यावस्था प्रक्रम", "en": "Equilibrium process"},
+            {"hi": "आदर्श प्रक्रम", "en": "Ideal process"}
+          ],
+          "answer": {"hi": "स्वतः प्रक्रम (Spontaneous process)", "en": "Spontaneous process"}
+        },
+        {
+          "q": {
+            "hi": "निकाय की यादृच्छिकता (रैंडमनेस) या अव्यवस्था की माप को व्यक्त करने वाला ऊष्मागतिक फलन कौन सा है?",
+            "en": "Which thermodynamic function is used as a measure of randomness or disorder in a system?"
+          },
+          "options": [
+            {"hi": "एन्थैल्पी ($H$)", "en": "Enthalpy ($H$)"},
+            {"hi": "एन्ट्रॉपी (Entropy, $S$)", "en": "Entropy ($S$)"},
+            {"hi": "आंतरिक ऊर्जा ($U$)", "en": "Internal energy ($U$)"},
+            {"hi": "कार्य ($w$)", "en": "Work ($w$)"}
+          ],
+          "answer": {"hi": "एन्ट्रॉपी (Entropy, $S$)", "en": "Entropy ($S$)"}
+        },
+        {
+          "q": {
+            "hi": "पदार्थ की तीनों भौतिक अवस्थाओं में से किस अवस्था में एन्ट्रॉपी का मान सबसे अधिक होता है?",
+            "en": "Among the three states of matter, which state has the highest value of entropy?"
+          },
+          "options": [
+            {"hi": "ठोस अवस्था", "en": "Solid state"},
+            {"hi": "द्रव अवस्था", "en": "Liquid state"},
+            {"hi": "गैसीय अवस्था (Gaseous state)", "en": "Gaseous state"},
+            {"hi": "सभी में समान होता है", "en": "Same in all states"}
+          ],
+          "answer": {"hi": "गैसीय अवस्था (Gaseous state)", "en": "Gaseous state"}
+        },
+        {
+          "q": {
+            "hi": "ऊष्मागतिकी के द्वितीय नियम (Second Law of Thermodynamics) के अनुसार, किसी स्वतः प्रक्रम के लिए ब्रह्मांड की कुल एन्ट्रॉपी परिवर्तन ($\\Delta S_{total}$) हमेशा कैसी होनी चाहिए?",
+            "en": "According to the Second Law of Thermodynamics, for any spontaneous process, the total entropy change of the universe ($\\Delta S_{total}$) must be:"
+          },
+          "options": [
+            {"hi": "शून्य से कम (< 0)", "en": "Less than zero (< 0)"},
+            {"hi": "शून्य के बराबर (= 0)", "en": "Equal to zero (= 0)"},
+            {"hi": "शून्य से अधिक या धनात्मक (> 0)", "en": "Greater than zero / Positive (> 0)"},
+            {"hi": "-1 के बराबर", "en": "Equal to -1"}
+          ],
+          "answer": {"hi": "शून्य से अधिक या धनात्मक (> 0)", "en": "Greater than zero / Positive (> 0)"}
+        },
+        {
+          "q": {
+            "hi": "एन्ट्रॉपी परिवर्तन ($\\Delta S$) का सामान्य सूत्र ऊष्मा ($q$) और तापमान ($T$) के पदों में क्या होता है?",
+            "en": "What is the relation to calculate entropy change ($\\Delta S$) in terms of heat ($q$) and temperature ($T$)?"
+          },
+          "options": [
+            {"hi": "$\\Delta S = q_{rev} \\times T$", "en": "$\\Delta S = q_{rev} \\times T$"},
+            {"hi": "$\\Delta S = q_{rev} / T$", "en": "$\\Delta S = q_{rev} / T$"},
+            {"hi": "$\\Delta S = T / q_{rev}$", "en": "$\\Delta S = T / q_{rev}$"},
+            {"hi": "$\\Delta S = \\Delta H + T$", "en": "\\Delta S = \\Delta H + T"}
+          ],
+          "answer": {"hi": "$\\Delta S = q_{rev} / T$", "en": "$\\Delta S = q_{rev} / T$"}
+        },
+        {
+          "q": {
+            "hi": "स्थिर तापमान और स्थिर दाब पर स्वतः स्फूर्तता (spontaneity) की कसौटी निर्धारित करने के लिए किस ऊर्जा फलन का उपयोग किया जाता है?",
+            "en": "Which thermodynamic state function is best suited to predict spontaneity at constant temperature and pressure?"
+          },
+          "options": [
+            {"hi": "आंतरिक ऊर्जा", "en": "Internal energy"},
+            {"hi": "गिब्स ऊर्जा या गिब्स मुक्त ऊर्जा (Gibbs Energy, $G$)", "en": "Gibbs Energy ($G$)"},
+            {"hi": "कार्य फलन", "en": "Work function"},
+            {"hi": "कुल एन्थैल्पी", "en": "Total enthalpy"}
+          ],
+          "answer": {"hi": "गिब्स ऊर्जा या गिब्स मुक्त ऊर्जा (Gibbs Energy, $G$)", "en": "Gibbs Energy ($G$)"}
+        },
+        {
+          "q": {
+            "hi": "गिब्स-हेल्महोल्ट्ज़ समीकरण (Gibbs-Helmholtz Equation) स्थिर तापमान पर $\\Delta G$, $\\Delta H$ और $\\Delta S$ को किस प्रकार जोड़ता है?",
+            "en": "What is the Gibbs energy change equation at constant temperature?"
+          },
+          "options": [
+            {"hi": "$\\Delta G = \\Delta H + T\\Delta S$", "en": "\\Delta G = \\Delta H + T\\Delta S"},
+            {"hi": "$\\Delta G = \\Delta H - T\\Delta S$", "en": "\\Delta G = \\Delta H - T\\Delta S"},
+            {"hi": "$\\Delta H = \\Delta G - T\\Delta S$", "en": "\\Delta H = \\Delta G - T\\Delta S"},
+            {"hi": "$\\Delta G = T\\Delta S - \\Delta H$", "en": "\\Delta G = T\\Delta S - \\Delta H"}
+          ],
+          "answer": {"hi": "$\\Delta G = \\Delta H - T\\Delta S$", "en": "\\Delta G = \\Delta H - T\\Delta S"}
+        },
+        {
+          "q": {
+            "hi": "स्थिर तापमान और दाब पर किसी स्वतः (spontaneous) प्रक्रम के लिए गिब्स ऊर्जा परिवर्तन ($\\Delta G$) का मान होना चाहिए:",
+            "en": "For a spontaneous process at constant temperature and pressure, the Gibbs energy change ($\\Delta G$) must be:"
+          },
+          "options": [
+            {"hi": "धनात्मक ($\\Delta G > 0$)", "en": "Positive ($\\Delta G > 0$)"},
+            {"hi": "ऋणात्मक ($\\Delta G < 0$)", "en": "Negative ($\\Delta G < 0$)"},
+            {"hi": "शून्य ($\\Delta G = 0$)", "en": "Zero ($\\Delta G = 0$)"},
+            {"hi": "इलेक्ट्रॉन के द्रव्यमान के बराबर", "en": "Equal to mass of electron"}
+          ],
+          "answer": {"hi": "ऋणात्मक ($\\Delta G < 0$)", "en": "Negative ($\\Delta G < 0$)"}
+        },
+        {
+          "q": {
+            "hi": "यदि किसी तंत्र में साम्यावस्था (Equilibrium) स्थापित हो चुकी है, तो उस स्थिति में $\\Delta G$ का मान क्या होगा?",
+            "en": "When a system reaches equilibrium, what is the value of Gibbs energy change ($\\Delta G$)?"
+          },
+          "options": [
+            {"hi": "धनात्मक", "en": "Positive"},
+            {"hi": "ऋणात्मक", "en": "Negative"},
+            {"hi": "शून्य (Zero)", "en": "Zero"},
+            {"hi": "अपरिभाषित", "en": "Undefined"}
+          ],
+          "answer": {"hi": "शून्य (Zero)", "en": "Zero"}
+        },
+        {
+          "q": {
+            "hi": "यदि किसी रासायनिक अभिक्रिया के लिए $\\Delta H$ धनात्मक है और $\\Delta S$ ऋणात्मक है, तो यह अभिक्रिया कैसी होगी?",
+            "en": "If a reaction has a positive $\\Delta H$ and negative $\\Delta S$, then the reaction will be:"
+          },
+          "options": [
+            {"hi": "सभी तापमानों पर स्वतः (Spontaneous at all T)", "en": "Spontaneous at all temperatures"},
+            {"hi": "किसी भी तापमान पर स्वतः नहीं होगी (Non-spontaneous at all T)", "en": "Non-spontaneous at all temperatures"},
+            {"hi": "केवल उच्च तापमान पर स्वतः", "en": "Spontaneous only at high temperatures"},
+            {"hi": "केवल निम्न तापमान पर स्वतः", "en": "Spontaneous only at low temperatures"}
+          ],
+          "answer": {"hi": "किसी भी तापमान पर स्वतः नहीं होगी (Non-spontaneous at all T)", "en": "Non-spontaneous at all temperatures"}
+        }
+      ],
+      "section5": [
+        {
+          "q": {
+            "hi": "ऊष्मागतिकी का तृतीय नियम (Third Law of Thermodynamics) क्या बताता है?",
+            "en": "What does the Third Law of Thermodynamics state?"
+          },
+          "options": [
+            {"hi": "परम शून्य तापमान पर एक पूर्णतः क्रिस्टलीय पदार्थ की एन्ट्रॉपी शून्य होती है", "en": "The entropy of a perfectly crystalline substance approaches zero as the temperature approaches absolute zero"},
+            {"hi": "ऊर्जा को नष्ट किया जा सकता है", "en": "Energy can be destroyed"},
+            {"hi": "ब्रह्मांड की एन्ट्रॉपी घट रही है", "en": "The entropy of the universe is decreasing"},
+            {"hi": "सभी रासायनिक यौगिकों का विरचन स्वतः होता है", "en": "All chemical compounds form spontaneously"}
+          ],
+          "answer": {"hi": "परम शून्य तापमान पर एक पूर्णतः क्रिस्टलीय पदार्थ की एन्ट्रॉपी शून्य होती है", "en": "The entropy of a perfectly crystalline substance approaches zero as the temperature approaches absolute zero"}
+        },
+        {
+          "q": {
+            "hi": "मानक मुक्त ऊर्जा परिवर्तन ($\\Delta G^\\circ$) और अभिक्रिया के साम्य स्थिरांक ($K$) के बीच सही संबंध क्या है?",
+            "en": "What is the relation between standard Gibbs energy change ($\\Delta G^\\circ$) and equilibrium constant ($K$)?"
+          },
+          "options": [
+            {"hi": "$\\Delta G^\\circ = -RT \\ln K$", "en": "$\\Delta G^\\circ = -RT \\ln K$"},
+            {"hi": "$\\Delta G^\\circ = RT \\ln K$", "en": "$\\Delta G^\\circ = RT \\ln K$"},
+            {"hi": "$\\Delta G^\\circ = -2.303 RT \\log K$", "en": "$\\Delta G^\\circ = -2.303 RT \\log K$"},
+            {"hi": "विकल्प (a) और (c) दोनों सही हैं", "en": "Both (a) and (c) are correct"}
+          ],
+          "answer": {"hi": "विकल्प (a) और (c) दोनों सही हैं", "en": "Both (a) and (c) are correct"}
+        },
+        {
+          "q": {
+            "hi": "एक विलक्षण विलगित निकाय (Isolated System) के लिए $\\Delta U = 0$ होने पर स्वतः प्रक्रम के लिए $\\Delta S$ का मान क्या होगा?",
+            "en": "For an isolated system, if $\\Delta U = 0$, what will be the sign of $\\Delta S$ for a spontaneous process?"
+          },
+          "options": [
+            {"hi": "$\\Delta S = 0$", "en": "$\\Delta S = 0$"},
+            {"hi": "$\\Delta S < 0$", "en": "$\\Delta S < 0$"},
+            {"hi": "$\\Delta S > 0$ (धनात्मक)", "en": "$\\Delta S > 0$ (Positive)"},
+            {"hi": "$\\Delta S = -\\infty$", "en": "$\\Delta S = -\\infty$"}
+          ],
+          "answer": {"hi": "$\\Delta S > 0$ (धनात्मक)", "en": "$\\Delta S > 0$ (Positive)"}
+        },
+        {
+          "q": {
+            "hi": "अभिक्रिया $2Cl(g) \\rightarrow Cl_2(g)$ के लिए $\\Delta H$ और $\\Delta S$ के चिह्नों का सही युग्म कौन सा है?",
+            "en": "For the reaction $2Cl(g) \\rightarrow Cl_2(g)$, what are the signs of $\\Delta H$ and $\\Delta S$?"
+          },
+          "options": [
+            {"hi": "दोनों धनात्मक (+, +)", "en": "Both positive (+, +)"},
+            {"hi": "दोनों ऋणात्मक (-, -)", "en": "Both negative (-, -)"},
+            {"hi": " धनात्मक और ऋणात्मक (+, -)", "en": "Positive and Negative (+, -)"},
+            {"hi": "ऋणात्मक और धनात्मक (-, +)", "en": "Negative and Positive (-, +)"}
+          ],
+          "answer": {"hi": "दोनों ऋणात्मक (-, -)", "en": "Both negative (-, -)"}
+        },
+        {
+          "q": {
+            "hi": "ऊष्मागतिकी में 'परम शून्य ताप' (Absolute Zero Temperature) का मान कितना होता है?",
+            "en": "What is the value of absolute zero temperature in thermodynamics?"
+          },
+          "options": [
+            {"hi": "$0^\\circ$C", "en": "$0^\\circ$C"},
+            {"hi": "0 K (या -273.15$^\\circ$C)", "en": "0 K (or -273.15$^\\circ$C)"},
+            {"hi": "100 K", "en": "100 K"},
+            {"hi": "273.15 K", "en": "273.15 K"}
+          ],
+          "answer": {"hi": "0 K (या -273.15$^\\circ$C)", "en": "0 K (or -273.15$^\\circ$C)"}
+        },
+        {
+          "q": {
+            "hi": "जब किसी आदर्श गैस का निर्वात (Vacuum) में मुक्त प्रसार (Free expansion) होता है, तो किया गया कार्य ($w$) कितना होता है?",
+            "en": "When an ideal gas undergoes free expansion in vacuum, the work done ($w$) is:"
+          },
+          "options": [
+            {"hi": "अधिकतम", "en": "Maximum"},
+            {"hi": "शून्य (Zero)", "en": "Zero"},
+            {"hi": "ऋणात्मक अनंत", "en": "Negative infinite"},
+            {"hi": "$P \\times V$", "en": "$P \\times V$"}
+          ],
+          "answer": {"hi": "शून्य (Zero)", "en": "Zero"}
+        },
+        {
+          "q": {
+            "hi": "एक मोल बर्फ के जल में पिघलने (संगलन प्रक्रम) के लिए एन्ट्रॉपी परिवर्तन कैसा होता है?",
+            "en": "For the melting of 1 mole of ice into water, the entropy change is:"
+          },
+          "options": [
+            {"hi": "ऋणात्मक", "en": "Negative"},
+            {"hi": "धनात्मक (Positive)", "en": "Positive"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "अपरिवर्तित", "en": "Unchanged"}
+          ],
+          "answer": {"hi": "धनात्मक (Positive)", "en": "Positive"}
+        },
+        {
+          "q": {
+            "hi": "ऊष्मागतिकी का कौन सा नियम यह बताता है कि यदि दो निकाय किसी तीसरे निकाय के साथ अलग-अलग तापीय साम्य में हैं, तो वे आपस में भी तापीय साम्य में होंगे?",
+            "en": "Which law states that if two systems are in thermal equilibrium with a third system separately, they are in thermal equilibrium with each other?"
+          },
+          "options": [
+            {"hi": "प्रथम नियम", "en": "First law"},
+            {"hi": "द्वितीय नियम", "en": "Second law"},
+            {"hi": "शून्यांकी नियम (Zeroth Law of Thermodynamics)", "en": "Zeroth Law of Thermodynamics"},
+            {"hi": "तृतीय नियम", "en": "Third law"}
+          ],
+          "answer": {"hi": "शून्यांकी नियम (Zeroth Law of Thermodynamics)", "en": "Zeroth Law of Thermodynamics"}
+        },
+        {
+          "q": {
+            "hi": "किसी पदार्थ की 'विशिष्ट ऊष्मा धारिता' (Specific Heat Capacity) क्या होती है?",
+            "en": "What is the specific heat capacity of a substance?"
+          },
+          "options": [
+            {"hi": "1 मोल पदार्थ का तापमान 1 K बढ़ाने के लिए आवश्यक ऊष्मा", "en": "Heat required to raise the temperature of 1 mole of substance by 1 K"},
+            {"hi": "1 ग्राम पदार्थ का तापमान 1 K (या $1^\\circ$C) बढ़ाने के लिए आवश्यक ऊष्मा", "en": "Heat required to raise the temperature of 1 gram of substance by 1 K (or $1^\\circ$C)"},
+            {"hi": "पूरे निकाय की कुल ऊष्मा क्षमता", "en": "Total heat capacity of the entire system"},
+            {"hi": "स्थिर दाब पर दी गई ऊष्मा", "en": "Heat given at constant pressure"}
+          ],
+          "answer": {"hi": "1 ग्राम पदार्थ का तापमान 1 K (या $1^\\circ$C) बढ़ाने के लिए आवश्यक ऊष्मा", "en": "Heat required to raise the temperature of 1 gram of substance by 1 K (or $1^\\circ$C)"}
+        },
+        {
+          "q": {
+            "hi": "एक उत्क्रमणीय समतापी प्रसार में आदर्श गैस के लिए आंतरिक ऊर्जा में परिवर्तन ($\\Delta U$) कितना होता है?",
+            "en": "For an ideal gas undergoing a reversible isothermal expansion, the change in internal energy ($\\Delta U$) is:"
+          },
+          "options": [
+            {"hi": "धनात्मक", "en": "Positive"},
+            {"hi": "ऋणात्मक", "en": "Negative"},
+            {"hi": "शून्य (Zero)", "en": "Zero"},
+            {"hi": "स्थिरांक $R$ के बराबर", "en": "Equal to constant $R$"}
+          ],
+          "answer": {"hi": "शून्य (Zero)", "en": "Zero"}
+        }
+      ]
     }
   }
 }
