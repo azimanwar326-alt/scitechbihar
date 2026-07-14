@@ -3310,6 +3310,668 @@
           "answer": {"hi": "शून्य (Zero)", "en": "Zero"}
         }
       ]
+    },
+    "chapter06": {
+      "section1": [
+        {
+          "q": {
+            "hi": "रासायनिक या भौतिक प्रक्रमों में वह अवस्था जिसमें अग्रगामी और विपरीत प्रक्रमों की दरें समान हो जाती हैं, कहलाती है:",
+            "en": "The state in chemical or physical processes where the rates of forward and reverse processes become equal is called:"
+          },
+          "options": [
+            {"hi": "साम्यावस्था (Equilibrium)", "en": "Equilibrium"},
+            {"hi": "स्थैतिक अवस्था", "en": "Static state"},
+            {"hi": "पूर्णता अवस्था", "en": "Completion state"},
+            {"hi": "क्रांतिक अवस्था", "en": "Critical state"}
+          ],
+          "answer": {"hi": "साम्यावस्था (Equilibrium)", "en": "Equilibrium"}
+        },
+        {
+          "q": {
+            "hi": "साम्यावस्था की प्रकृति कैसी होती है, जिसमें सूक्ष्म स्तर पर अभिक्रियाएँ बंद नहीं होती हैं?",
+            "en": "What is the nature of equilibrium, indicating that reactions do not stop at the microscopic level?"
+          },
+          "options": [
+            {"hi": "स्थैतिक (Static)", "en": "Static"},
+            {"hi": "गतिक (Dynamic)", "en": "Dynamic"},
+            {"hi": "अपरिवर्तनीय", "en": "Irreversible"},
+            {"hi": "अस्थायी", "en": "Unstable"}
+          ],
+          "answer": {"hi": "गतिक (Dynamic)", "en": "Dynamic"}
+        },
+        {
+          "q": {
+            "hi": "एक बंद कंटेनर में तरल का वाष्पीकरण और वाष्प का संघनन किस भौतिक साम्य का उदाहरण है?",
+            "en": "Evaporation of a liquid and condensation of vapour in a closed container is an example of which physical equilibrium?"
+          },
+          "options": [
+            {"hi": "ठोस-द्रव साम्य", "en": "Solid-liquid equilibrium"},
+            {"hi": "द्रव-वाष्प साम्य (Liquid-vapour equilibrium)", "en": "Liquid-vapour equilibrium"},
+            {"hi": "ठोस-वाष्प साम्य", "en": "Solid-vapour equilibrium"},
+            {"hi": "यौगिक साम्य", "en": "Compound equilibrium"}
+          ],
+          "answer": {"hi": "द्रव-वाष्प साम्य (Liquid-vapour equilibrium)", "en": "Liquid-vapour equilibrium"}
+        },
+        {
+          "q": {
+            "hi": "दिए गए तापमान पर किसी द्रव का वाष्प दाब हमेशा कैसा रहता है यदि वह साम्यावस्था में हो?",
+            "en": "At a given temperature, the vapour pressure of a liquid in equilibrium always remains:"
+          },
+          "options": [
+            {"hi": "परिवर्तनीय", "en": "Variable"},
+            {"hi": "स्थिर (Constant)", "en": "Constant"},
+            {"hi": "शून्य", "en": "Zero"},
+            {"hi": "अनंत", "en": "Infinite"}
+          ],
+          "answer": {"hi": "स्थिर (Constant)", "en": "Constant"}
+        },
+        {
+          "q": {
+            "hi": "नियत तापमान पर, किसी विलायक की दी गई मात्रा में घुले हुए विलेय की अधिकतम मात्रा वाला विलयन क्या कहलाता है?",
+            "en": "At a constant temperature, a solution containing the maximum amount of dissolved solute in a given amount of solvent is called a/an:"
+          },
+          "options": [
+            {"hi": "असंतृप्त विलयन", "en": "Unsaturated solution"},
+            {"hi": "संतृप्त विलयन (Saturated solution)", "en": "Saturated solution"},
+            {"hi": "तनु विलयन", "en": "Dilute solution"},
+            {"hi": "आदर्श विलयन", "en": "Ideal solution"}
+          ],
+          "answer": {"hi": "संतृप्त विलयन (Saturated solution)", "en": "Saturated solution"}
+        },
+        {
+          "q": {
+            "hi": "हेनरी के नियम (Henry's Law) के अनुसार, किसी विलायक में गैस की घुलनशीलता सीधे किसके समानुपाती होती है?",
+            "en": "According to Henry's Law, the solubility of a gas in a solvent is directly proportional to the:"
+          },
+          "options": [
+            {"hi": "द्रव के आयतन के", "en": "Volume of the liquid"},
+            {"hi": "तरल की सतह पर गैस के दाब के (Pressure of the gas)", "en": "Pressure of the gas above the surface of liquid"},
+            {"hi": "गैस के परमाणु भार के", "en": "Atomic weight of the gas"},
+            {"hi": "विलायक के घनत्व के", "en": "Density of the solvent"}
+          ],
+          "answer": {"hi": "तरल की सतह पर गैस के दाब के (Pressure of the gas)", "en": "Pressure of the gas above the surface of liquid"}
+        },
+        {
+          "q": {
+            "hi": "द्रव्य अनुपाती क्रिया के नियम (Law of Mass Action) के अनुसार, रासायनिक अभिक्रिया की दर अभिकारकों के सक्रिय द्रव्यमानों के गुणनफल के समानुपाती होती है। यह नियम किसने दिया था?",
+            "en": "According to the Law of Mass Action, the rate of a reaction is proportional to the product of active masses of reactants. Who gave this law?"
+          },
+          "options": [
+            {"hi": "ले शातेलिए", "en": "Le Chatelier"},
+            {"hi": "गुल्डबर्ग और वागे (Guldberg and Waage)", "en": "Guldberg and Waage"},
+            {"hi": "ब्रोन्स्टेड और लॉरी", "en": "Bronsted and Lowry"},
+            {"hi": "अरेनियस", "en": "Arrhenius"}
+          ],
+          "answer": {"hi": "गुल्डबर्ग और वागे (Guldberg and Waage)", "en": "Guldberg and Waage"}
+        },
+        {
+          "q": {
+            "hi": "रासायनिक साम्यावस्था समीकरण में किसी पदार्थ के 'सक्रिय द्रव्यमान' (Active Mass) का क्या अर्थ होता है?",
+            "en": "In chemical equilibrium expressions, what does the term 'Active Mass' mean?"
+          },
+          "options": [
+            {"hi": "पदार्थ का कुल द्रव्यमान", "en": "Total mass of the substance"},
+            {"hi": "मोलर सांद्रता या मोल प्रति लीटर (Molar concentration / mol L$^{-1}$)", "en": "Molar concentration / mol L$^{-1}$"},
+            {"hi": "परमाणु क्रमांक", "en": "Atomic number"},
+            {"hi": "गैसीय आयतन", "en": "Gaseous volume"}
+          ],
+          "answer": {"hi": "मोलर सांद्रता या मोल प्रति लीटर (Molar concentration / mol L$^{-1}$)", "en": "Molar concentration / mol L$^{-1}$"}
+        },
+        {
+          "q": {
+            "hi": "सामान्य अभिक्रिया $aA + bB \\rightleftharpoons cC + dD$ के लिए साम्य स्थिरांक ($K_c$) का सही व्यंजक क्या है?",
+            "en": "What is the correct expression for the equilibrium constant ($K_c$) for the general reaction $aA + bB \\rightleftharpoons cC + dD$?"
+          },
+          "options": [
+            {"hi": "$K_c = \\frac{[A]^a [B]^b}{[C]^c [D]^d}$", "en": "$K_c = \\frac{[A]^a [B]^b}{[C]^c [D]^d}$"},
+            {"hi": "$K_c = \\frac{[C]^c [D]^d}{[A]^a [B]^b}$", "en": "$K_c = \\frac{[C]^c [D]^d}{[A]^a [B]^b}$"},
+            {"hi": "$K_c = [C][D] - [A][B]$", "en": "$K_c = [C][D] - [A][B]$"},
+            {"hi": "$K_c = \\frac{a[A] \\cdot b[B]}{c[C] \\cdot d[D]}$", "en": "$K_c = \\frac{a[A] \\cdot b[B]}{c[C] \\cdot d[D]}$"}
+          ],
+          "answer": {"hi": "$K_c = \\frac{[C]^c [D]^d}{[A]^a [B]^b}$", "en": "$K_c = \\frac{[C]^c [D]^d}{[A]^a [B]^b}$"}
+        },
+        {
+          "q": {
+            "hi": "साम्य स्थिरांक $K_p$ और $K_c$ के बीच सही संबंध क्या है?",
+            "en": "What is the correct relationship between the equilibrium constants $K_p$ and $K_c$?"
+          },
+          "options": [
+            {"hi": "$K_p = K_c(RT)^{\\Delta n}$", "en": "$K_p = K_c(RT)^{\\Delta n}$"},
+            {"hi": "$K_c = K_p(RT)^{\\Delta n}$", "en": "$K_c = K_p(RT)^{\\Delta n}$"},
+            {"hi": "$K_p = K_c + RT$", "en": "$K_p = K_c + RT$"},
+            {"hi": "$K_p = K_c / (RT)^{\\Delta n}$", "en": "$K_p = K_c / (RT)^{\\Delta n}$"}
+          ],
+          "answer": {"hi": "$K_p = K_c(RT)^{\\Delta n}$", "en": "$K_p = K_c(RT)^{\\Delta n}$"}
+        }
+      ],
+      "section2": [
+        {
+          "q": {
+            "hi": "अभिक्रिया $H_2(g) + I_2(g) \\rightleftharpoons 2HI(g)$ के लिए $\\Delta n$ का मान क्या होगा और इस स्थिति में $K_p$ तथा $K_c$ में क्या संबंध होगा?",
+            "en": "For the reaction $H_2(g) + I_2(g) \\rightleftharpoons 2HI(g)$, what is the value of $\\Delta n$ and relation between $K_p$ and $K_c$?"
+          },
+          "options": [
+            {"hi": "$\\Delta n = 1, K_p > K_c$", "en": "\\Delta n = 1, K_p > K_c"},
+            {"hi": "$\\Delta n = 0, K_p = K_c$", "en": "\\Delta n = 0, K_p = K_c"},
+            {"hi": "$\\Delta n = -1, K_p < K_c$", "en": "\\Delta n = -1, K_p < K_c"},
+            {"hi": "$\\Delta n = 2, K_p = K_c^2$", "en": "\\Delta n = 2, K_p = K_c^2"}
+          ],
+          "answer": {"hi": "$\\Delta n = 0, K_p = K_c$", "en": "$\\Delta n = 0, K_p = K_c"}
+        },
+        {
+          "q": {
+            "hi": "यदि किसी दी गई रासायनिक अभिक्रिया को उलट (reverse) दिया जाए, तो नई अभिक्रिया का साम्य स्थिरांक मूल स्थिरांक ($K$) से कैसे संबंधित होगा?",
+            "en": "If a given chemical reaction is reversed, how is the new equilibrium constant related to the original constant ($K$)?"
+          },
+          "options": [
+            {"hi": "समान रहेगा ($K$)", "en": "Remains same ($K$)"},
+            {"hi": "व्युत्क्रम हो जाएगा ($1/K$)", "en": "Becomes reciprocal ($1/K$)"},
+            {"hi": "दोगुना हो जाएगा ($2K$)", "en": "Becomes double ($2K$)"},
+            {"hi": "ऋणात्मक हो जाएगा ($-K$)", "en": "Becomes negative ($-K$)"}
+          ],
+          "answer": {"hi": "व्युत्क्रम हो जाएगा ($1/K$)", "en": "Becomes reciprocal ($1/K$)"}
+        },
+        {
+          "q": {
+            "hi": "वह साम्यावस्था जिसमें सभी अभिकारक और उत्पाद एक ही भौतिक प्रावस्था (phase) में होते हैं, कहलाती है:",
+            "en": "An equilibrium in which all the reactants and products are present in the same phase is called a/an:"
+          },
+          "options": [
+            {"hi": "विषमांगी साम्य", "en": "Heterogeneous equilibrium"},
+            {"hi": "समांगी साम्य (Homogeneous equilibrium)", "en": "Homogeneous equilibrium"},
+            {"hi": "गतिक साम्य", "en": "Dynamic equilibrium"},
+            {"hi": "आयनिक साम्य", "en": "Ionic equilibrium"}
+          ],
+          "answer": {"hi": "समांगी साम्य (Homogeneous equilibrium)", "en": "Homogeneous equilibrium"}
+        },
+        {
+          "q": {
+            "hi": "अभिक्रिया $CaCO_3(s) \\rightleftharpoons CaO(s) + CO_2(g)$ किस प्रकार की साम्यावस्था का एक उदाहरण है?",
+            "en": "The reaction $CaCO_3(s) \\rightleftharpoons CaO(s) + CO_2(g)$ is an example of which type of equilibrium?"
+          },
+          "options": [
+            {"hi": "समांगी साम्य", "en": "Homogeneous equilibrium"},
+            {"hi": "विषमांगी साम्य (Heterogeneous equilibrium)", "en": "Heterogeneous equilibrium"},
+            {"hi": "विलयन साम्य", "en": "Solution equilibrium"},
+            {"hi": "अपरिवर्तनीय साम्य", "en": "Irreversible equilibrium"}
+          ],
+          "answer": {"hi": "विषमांगी साम्य (Heterogeneous equilibrium)", "en": "Heterogeneous equilibrium"}
+        },
+        {
+          "q": {
+            "hi": "विषमांगी साम्य के लिए व्यंजक लिखते समय किन पदार्थों की सांद्रता को स्थिर (या 1) मानकर छोड़ दिया जाता है?",
+            "en": "While writing equilibrium expressions for heterogeneous equilibria, the concentrations of which substances are omitted (taken as 1)?"
+          },
+          "options": [
+            {"hi": "केवल गैसों की", "en": "Gases only"},
+            {"hi": "शुद्ध ठोस और शुद्ध द्रवों की (Pure solids and pure liquids)", "en": "Pure solids and pure liquids"},
+            {"hi": "केवल जलीय आयनों की", "en": "Aqueous ions only"},
+            {"hi": "सभी अभिकारकों की", "en": "All reactants"}
+          ],
+          "answer": {"hi": "शुद्ध ठोस और शुद्ध द्रवों की (Pure solids and pure liquids)", "en": "Pure solids and pure liquids"}
+        },
+        {
+          "q": {
+            "hi": "यदि साम्य स्थिरांक ($K$) का मान बहुत अधिक ($K > 10^3$) है, तो इसका क्या अर्थ है?",
+            "en": "If the value of the equilibrium constant ($K$) is very large ($K > 10^3$), it implies that:"
+          },
+          "options": [
+            {"hi": "अभिक्रिया मुश्किल से शुरू हुई है", "en": "The reaction has barely started"},
+            {"hi": "साम्यावस्था पर उत्पादों की सांद्रता अभिकारकों से बहुत अधिक है", "en": "Products predominate over reactants at equilibrium"},
+            {"hi": "अभिक्रिया की दर बहुत धीमी है", "en": "The rate of reaction is very slow"},
+            {"hi": "साम्य संभव नहीं है", "en": "Equilibrium is not possible"}
+          ],
+          "answer": {"hi": "साम्यावस्था पर उत्पादों की सांद्रता अभिकारकों से बहुत अधिक है", "en": "Products predominate over reactants at equilibrium"}
+        },
+        {
+          "q": {
+            "hi": "किसी भी समय अभिक्रिया के अभिकारकों और उत्पादों की सांद्रता के अनुपात को क्या कहा जाता है, जो यह बताता है कि अभिक्रिया किस दिशा में आगे बढ़ रही है?",
+            "en": "The ratio of concentrations of products to reactants at any given time is called the:"
+          },
+          "options": [
+            {"hi": "साम्य स्थिरांक", "en": "Equilibrium constant"},
+            {"hi": "अभिक्रिया भागफल (Reaction Quotient, Q)", "en": "Reaction Quotient (Q)"},
+            {"hi": "सक्रियण स्थिरांक", "en": "Activation constant"},
+            {"hi": "वेग नियतांक", "en": "Rate constant"}
+          ],
+          "answer": {"hi": "अभिक्रिया भागफल (Reaction Quotient, Q)", "en": "Reaction Quotient (Q)"}
+        },
+        {
+          "q": {
+            "hi": "यदि किसी क्षण अभिक्रिया भागफल का मान साम्य स्थिरांक से कम है ($Q < K$), तो अभिक्रिया किस दिशा में आगे बढ़ेगी?",
+            "en": "If at any instant the reaction quotient is less than the equilibrium constant ($Q < K$), the reaction will proceed in the:"
+          },
+          "options": [
+            {"hi": "विपरीत दिशा (पार्श्व दिशा) में", "en": "Backward direction"},
+            {"hi": "अग्रगामी दिशा में (Forward direction)", "en": "Forward direction"},
+            {"hi": "किसी भी दिशा में नहीं बढ़ेगी", "en": "Neither direction"},
+            {"hi": "अभिक्रिया रुक जाएगी", "en": "Reaction will stop"}
+          ],
+          "answer": {"hi": "अग्रगामी दिशा में (Forward direction)", "en": "Forward direction"}
+        },
+        {
+          "q": {
+            "hi": "मानक गिब्स मुक्त ऊर्जा परिवर्तन ($\\Delta G^\\circ$) और साम्य स्थिरांक ($K$) के बीच सही संबंध क्या है?",
+            "en": "What is the correct relationship between standard Gibbs free energy change ($\\Delta G^\\circ$) and equilibrium constant ($K$)?"
+          },
+          "options": [
+            {"hi": "$\\Delta G^\\circ = -RT \\ln K$", "en": "$\\Delta G^\\circ = -RT \\ln K$"},
+            {"hi": "$\\Delta G^\\circ = RT \\ln K$", "en": "$\\Delta G^\\circ = RT \\ln K$"},
+            {"hi": "$\\Delta G^\\circ = -2.303 RT \\log K$", "en": "$\\Delta G^\\circ = -2.303 RT \\log K$"},
+            {"hi": "विकल्प (a) और (c) दोनों सही हैं", "en": "Both (a) and (c) are correct"}
+          ],
+          "answer": {"hi": "विकल्प (a) और (c) दोनों सही हैं", "en": "Both (a) and (c) are correct"}
+        },
+        {
+          "q": {
+            "hi": "यदि किसी साम्यावस्था पर बाह्य कारक (जैसे सांद्रता, दाब या ताप) बदला जाए, तो साम्य उस दिशा में विस्थापित होता है जहाँ उस परिवर्तन का प्रभाव कम हो सके। यह नियम क्या कहलाता है?",
+            "en": "If a stress is applied to a system at equilibrium, the system shifts in a way to undo the effect of stress. This principle is called:"
+          },
+          "options": [
+            {"hi": "हेनरी का नियम", "en": "Henry's law"},
+            {"hi": "ले शातेलिए का सिद्धांत (Le Chatelier's Principle)", "en": "Le Chatelier's Principle"},
+            {"hi": "डाल्टन का नियम", "en": "Dalton's law"},
+            {"hi": "हैल का सिद्धांत", "en": "Hess's principle"}
+          ],
+          "answer": {"hi": "ले शातेलिए का सिद्धांत (Le Chatelier's Principle)", "en": "Le Chatelier's Principle"}
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "एक बंद ऊष्मारोधी निकाय में साम्यावस्था पर अभिकारकों की सांद्रता बढ़ाने पर ले शातेलिए सिद्धांत के अनुसार क्या होगा?",
+            "en": "According to Le Chatelier's principle, increasing the concentration of reactants at equilibrium will shift the reaction in the:"
+          },
+          "options": [
+            {"hi": "विपरीत दिशा में", "en": "Backward direction"},
+            {"hi": "अग्रगामी दिशा में (Forward direction)", "en": "Forward direction"},
+            {"hi": "कोई प्रभाव नहीं पड़ेगा", "en": "No effect"},
+            {"hi": "साम्य नष्ट हो जाएगा", "en": "Equilibrium will be destroyed"}
+          ],
+          "answer": {"hi": "अग्रगामी दिशा में (Forward direction)", "en": "Forward direction"}
+        },
+        {
+          "q": {
+            "hi": "दाब बढ़ाने पर साम्यावस्था उस दिशा में विस्थापित होती है जहाँ गैस के मोलों की संख्या:",
+            "en": "On increasing the pressure, the equilibrium shifts in the direction where the number of gaseous moles:"
+          },
+          "options": [
+            {"hi": "बढ़ती है", "en": "Increases"},
+            {"hi": "घटती है (Decreases)", "en": "Decreases"},
+            {"hi": "स्थिर रहती है", "en": "Remains constant"},
+            {"hi": "शून्य हो जाती है", "en": "Becomes zero"}
+          ],
+          "answer": {"hi": "घटती है (Decreases)", "en": "Decreases"}
+        },
+        {
+          "q": {
+            "hi": "हैबर प्रक्रम द्वारा अमोनिया के निर्माण ($N_2(g) + 3H_2(g) \\rightleftharpoons 2NH_3(g) + \\text{ऊष्मा}$) में अधिक उपज प्राप्त करने के लिए अनुकूल परिस्थितियाँ क्या हैं?",
+            "en": "What are the favorable conditions for high yield of ammonia in Haber's process ($N_2(g) + 3H_2(g) \\rightleftharpoons 2NH_3(g) + \\text{Heat}$)?"
+          },
+          "options": [
+            {"hi": "उच्च तापमान और निम्न दाब", "en": "High temperature and low pressure"},
+            {"hi": "निम्न तापमान और उच्च दाब (Low temperature and High pressure)", "en": "Low temperature and High pressure"},
+            {"hi": "उच्च तापमान और उच्च दाब", "en": "High temperature and high pressure"},
+            {"hi": "निम्न तापमान और निम्न दाब", "en": "Low temperature and low pressure"}
+          ],
+          "answer": {"hi": "निम्न तापमान और उच्च दाब (Low temperature and High pressure)", "en": "Low temperature and High pressure"}
+        },
+        {
+          "q": {
+            "hi": "एक ऊष्माशोषी (Endothermic) अभिक्रिया के लिए तापमान बढ़ाने पर साम्य स्थिरांक ($K$) के मान पर क्या प्रभाव पड़ता है?",
+            "en": "For an endothermic reaction, increasing the temperature will cause the equilibrium constant ($K$) to:"
+          },
+          "options": [
+            {"hi": "घटना", "en": "Decrease"},
+            {"hi": "बढ़ना (Increase)", "en": "Increase"},
+            {"hi": "अपरिवर्तित रहना", "en": "Remain unchanged"},
+            {"hi": "शून्य होना", "en": "Become zero"}
+          ],
+          "answer": {"hi": "बढ़ना (Increase)", "en": "Increase"}
+        },
+        {
+          "q": {
+            "hi": "रासायनिक साम्यावस्था में उत्प्रेरक (Catalyst) मिलाने पर क्या प्रभाव पड़ता है?",
+            "en": "What is the effect of adding a catalyst to a chemical reaction at equilibrium?"
+          },
+          "options": [
+            {"hi": "यह साम्य स्थिरांक का मान बढ़ा देता है", "en": "It increases the equilibrium constant"},
+            {"hi": "यह केवल साम्यावस्था को तेजी से प्राप्त करने में मदद करता है (Does not change equilibrium position)", "en": "It only helps in attaining the equilibrium faster"},
+            {"hi": "यह साम्य को अग्र दिशा में विस्थापित करता है", "en": "It shifts the equilibrium in forward direction"},
+            {"hi": "यह विपरीत अभिक्रिया को रोक देता है", "en": "It stops the backward reaction"}
+          ],
+          "answer": {"hi": "यह केवल साम्यावस्था को तेजी से प्राप्त करने में मदद करता है (Does not change equilibrium position)", "en": "It only helps in attaining the equilibrium faster"}
+        },
+        {
+          "q": {
+            "hi": "जलीय विलयनों में आयनों से संबंधित साम्यावस्था को क्या कहा जाता है?",
+            "en": "The equilibrium involving ions in aqueous solutions is called:"
+          },
+          "options": [
+            {"hi": "भौतिक साम्य", "en": "Physical equilibrium"},
+            {"hi": "आयनिक साम्य (Ionic Equilibrium)", "en": "Ionic Equilibrium"},
+            {"hi": "गैसीय साम्य", "en": "Gaseous equilibrium"},
+            {"hi": "तापीय साम्य", "en": "Thermal equilibrium"}
+          ],
+          "answer": {"hi": "आयनिक साम्य (Ionic Equilibrium)", "en": "Ionic Equilibrium"}
+        },
+        {
+          "q": {
+            "hi": "वे पदार्थ जो अपने जलीय विलयन में पूरी तरह से आयनित हो जाते हैं और विद्युत का संचालन करते हैं, कहलाते हैं:",
+            "en": "Substances which ionize almost completely in their aqueous solutions and conduct electricity are called:"
+          },
+          "options": [
+            {"hi": "दुर्बल वैद्युतअपघट्य", "en": "Weak electrolytes"},
+            {"hi": "प्रबल वैद्युतअपघट्य (Strong electrolytes)", "en": "Strong electrolytes"},
+            {"hi": "अन-वैद्युतअपघट्य", "en": "Non-electrolytes"},
+            {"hi": "सहसंयोजक विलायक", "en": "Covalent solvents"}
+          ],
+          "answer": {"hi": "प्रबल वैद्युतअपघट्य (Strong electrolytes)", "en": "Strong electrolytes"}
+        },
+        {
+          "q": {
+            "hi": "अरेनियस (Arrhenius) अवधारणा के अनुसार, अम्ल वे पदार्थ हैं जो जलीय विलयन में क्या मुक्त करते हैं?",
+            "en": "According to the Arrhenius concept, acids are substances that dissociate in water to give:"
+          },
+          "options": [
+            {"hi": "हाइड्रॉक्सिल आयन (OH$^-$)", "en": "Hydroxyl ions (OH$^-$)"},
+            {"hi": "हाइड्रोजन आयन (H$^+$) या हाइड्रोनियम आयन (H$_3$O$^+$)", "en": "Hydrogen ions (H$^+$) or Hydronium ions (H$_3$O$^+$)"},
+            {"hi": "केवल इलेक्ट्रॉन", "en": "Electrons only"},
+            {"hi": "सोडियम आयन", "en": "Sodium ions"}
+          ],
+          "answer": {"hi": "हाइड्रोजन आयन (H$^+$) या हाइड्रोनियम आयन (H$_3$O$^+$)", "en": "Hydrogen ions (H$^+$) or Hydronium ions (H$_3$O$^+$)"}
+        },
+        {
+          "q": {
+            "hi": "ब्रोन्स्टेड-लॉरी (Bronsted-Lowry) सिद्धांत के अनुसार, एक अम्ल और एक क्षार को क्रमशः किस रूप में परिभाषित किया जाता है?",
+            "en": "According to the Bronsted-Lowry theory, an acid and a base are defined respectively as:"
+          },
+          "options": [
+            {"hi": "प्रोटॉन दाता और प्रोटॉन ग्राही (Proton donor and Proton acceptor)", "en": "Proton donor and Proton acceptor"},
+            {"hi": "प्रोटॉन ग्राही और प्रोटॉन दाता", "en": "Proton acceptor and Proton donor"},
+            {"hi": "इलेक्ट्रॉन युग्म दाता और ग्राही", "en": "Electron pair donor and acceptor"},
+            {"hi": "OH$^-$ दाता और H$^+$ दाता", "en": "OH$^-$ donor and H$^+$ donor"}
+          ],
+          "answer": {"hi": "प्रोटॉन दाता और प्रोटॉन ग्राही (Proton donor and Proton acceptor)", "en": "Proton donor and Proton acceptor"}
+        },
+        {
+          "q": {
+            "hi": "एक अम्ल-क्षार युग्म जिसमें केवल एक प्रोटॉन ($H^+$) का अंतर होता है, कहलाता है:",
+            "en": "An acid-base pair that differs only by a single proton ($H^+$) is called a/an:"
+          },
+          "options": [
+            {"hi": "उदासीन युग्म", "en": "Neutral pair"},
+            {"hi": "संयुग्मी अम्ल-क्षार युग्म (Conjugate acid-base pair)", "en": "Conjugate acid-base pair"},
+            {"hi": "अरेनियस युग्म", "en": "Arrhenius pair"},
+            {"hi": "लूइस अम्ल-क्षार", "en": "Lewis acid-base"}
+          ],
+          "answer": {"hi": "संयुग्मी अम्ल-क्षार युग्म (Conjugate acid-base pair)", "en": "Conjugate acid-base pair"}
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "NH$_3$ (अमोनिया) का संयुग्मी अम्ल (Conjugate Acid) क्या होगा?",
+            "en": "What will be the conjugate acid of NH$_3$ (ammonia)?"
+          },
+          "options": [
+            {"hi": "NH$_2^-$", "en": "NH$_2^-$"},
+            {"hi": "NH$_4^+$", "en": "NH$_4^+$"},
+            {"hi": "NH_3", "en": "NH_3"},
+            {"hi": "HNO$_3$", "en": "HNO$_3$"}
+          ],
+          "answer": {"hi": "NH$_4^+$", "en": "NH$_4^+$"}
+        },
+        {
+          "q": {
+            "hi": "लूइस (Lewis) अवधारणा के अनुसार, एक क्षार वह पदार्थ है जो:",
+            "en": "According to the Lewis concept, a base is a substance which:"
+          },
+          "options": [
+            {"hi": "प्रोटॉन दान करता है", "en": "Donates a proton"},
+            {"hi": "इलेक्ट्रॉन युग्म दान करता है (Donates an electron pair)", "en": "Donates an electron pair"},
+            {"hi": "इलेक्ट्रॉन युग्म स्वीकार करता है", "en": "Accepts an electron pair"},
+            {"hi": "जलीय विलयन में H$^+$ देता है", "en": "Gives H$^+$ in water"}
+          ],
+          "answer": {"hi": "इलेक्ट्रॉन युग्म दान करता है (Donates an electron pair)", "en": "Donates an electron pair"}
+        },
+        {
+          "q": {
+            "hi": "निम्नलिखित में से कौन सा यौगिक एक लूइस अम्ल (Lewis Acid) की तरह व्यवहार करता है क्योंकि इसका अष्टक अपूर्ण है?",
+            "en": "Which of the following compounds acts as a Lewis acid due to its incomplete octet?"
+          },
+          "options": [
+            {"hi": "NH$_3$", "en": "NH$_3$"},
+            {"hi": "H$_2$O", "en": "H$_2$O"},
+            {"hi": "BF$_3$ (बोरॉन ट्राइफ्लोराइड)", "en": "BF$_3$ (Boron trifluoride)"},
+            {"hi": "CH$_4$", "en": "CH$_4$"}
+          ],
+          "answer": {"hi": "BF$_3$ (बोरॉन ट्राइफ्लोराइड)", "en": "BF$_3$ (Boron trifluoride)"}
+        },
+        {
+          "q": {
+            "hi": "जल का आयनिक गुणनफल ($K_w$) 298 K पर कितना होता है?",
+            "en": "What is the value of the ionic product of water ($K_w$) at 298 K?"
+          },
+          "options": [
+            {"hi": "$1.0 \\times 10^{-7}$", "en": "$1.0 \\times 10^{-7}$"},
+            {"hi": "$1.0 \\times 10^{-14}$", "en": "$1.0 \\times 10^{-14}$"},
+            {"hi": "$1.0 \\times 10^{-10}$", "en": "$1.0 \\times 10^{-10}$"},
+            {"hi": "7.0", "en": "7.0"}
+          ],
+          "answer": {"hi": "$1.0 \\times 10^{-14}$", "en": "$1.0 \\times 10^{-14}$"}
+        },
+        {
+          "q": {
+            "hi": "pH पैमाने (pH scale) को किसने प्रस्तावित किया था, जो हाइड्रोजन आयन सांद्रता को मापने का एक सरल तरीका है?",
+            "en": "Who introduced the pH scale to express hydrogen ion concentrations easily?"
+          },
+          "options": [
+            {"hi": "एस. पी. एल. सोरेन्सन (S. P. L. Sorensen)", "en": "S. P. L. Sorensen"},
+            {"hi": "अरेनियस", "en": "Arrhenius"},
+            {"hi": "बोर", "en": "Bohr"},
+            {"hi": "लुईस", "en": "Lewis"}
+          ],
+          "answer": {"hi": "एस. पी. एल. सोरेन्सन (S. P. L. Sorensen)", "en": "S. P. L. Sorensen"}
+        },
+        {
+          "q": {
+            "hi": "pH की सही गणितीय परिभाषा क्या है?",
+            "en": "What is the correct mathematical definition of pH?"
+          },
+          "options": [
+            {"hi": "$\text{pH} = \\log_{10}[H^+]$", "en": "\\text{pH} = \\log_{10}[H^+]"},
+            {"hi": "$\text{pH} = -\\log_{10}[H^+]$", "en": "\\text{pH} = -\\log_{10}[H^+]"},
+            {"hi": "$\text{pH} = 1 / [H^+]$", "en": "\\text{pH} = 1 / [H^+]"},
+            {"hi": "$\text{pH} = [H^+][OH^-]$", "en": "\\text{pH} = [H^+][OH^-]"}
+          ],
+          "answer": {"hi": "$\text{pH} = -\\log_{10}[H^+]$", "en": "\\text{pH} = -\\log_{10}[H^+]"}
+        },
+        {
+          "q": {
+            "hi": "298 K पर एक उदासीन विलयन (Neutral solution) का pH मान कितना होता है?",
+            "en": "What is the pH value of a neutral solution at 298 K?"
+          },
+          "options": [
+            {"hi": "0", "en": "0"},
+            {"hi": "7", "en": "7"},
+            {"hi": "14", "en": "14"},
+            {"hi": "1", "en": "1"}
+          ],
+          "answer": {"hi": "7", "en": "7"}
+        },
+        {
+          "q": {
+            "hi": "यदि किसी विलयन का pH मान 3 है, तो वह विलयन किस प्रकृति का होगा?",
+            "en": "If a solution has a pH value of 3, what is the nature of the solution?"
+          },
+          "options": [
+            {"hi": "क्षारीय (Basic)", "en": "Basic"},
+            {"hi": "अम्लीय (Acidic)", "en": "Acidic"},
+            {"hi": "उदासीन (Neutral)", "en": "Neutral"},
+            {"hi": "उभयधर्मी", "en": "Amphoteric"}
+          ],
+          "answer": {"hi": "अम्लीय (Acidic)", "en": "Acidic"}
+        },
+        {
+          "q": {
+            "hi": "298 K पर किसी भी जलीय विलयन के लिए pH और pOH का योग हमेशा किसके बराबर होता है?",
+            "en": "At 298 K, the sum of pH and pOH for any aqueous solution is always equal to:"
+          },
+          "options": [
+            {"hi": "7", "en": "7"},
+            {"hi": "14", "en": "14"},
+            {"hi": "0", "en": "0"},
+            {"hi": "10", "en": "10"}
+          ],
+          "answer": {"hi": "14", "en": "14"}
+        },
+        {
+          "q": {
+            "hi": "एक दुर्बल अम्ल के आयनन स्थिरांक ($K_a$) और उसकी वियोजन की मात्रा ($\\alpha$) के बीच ओस्टवाल्ड तनुता नियम के अनुसार क्या संबंध है? (जहाँ C सांद्रता है)",
+            "en": "According to Ostwald's dilution law for a weak acid, what is the relation between $K_a$ and degree of dissociation ($\\alpha$)?"
+          },
+          "options": [
+            {"hi": "$K_a = C\\alpha$", "en": "$K_a = C\\alpha$"},
+            {"hi": "$K_a = C\\alpha^2$", "en": "$K_a = C\\alpha^2$"},
+            {"hi": "$K_a = C^2\\alpha$", "en": "$K_a = C^2\\alpha$"},
+            {"hi": "$K_a = \\alpha^2 / C$", "en": "$K_a = \\alpha^2 / C$"}
+          ],
+          "answer": {"hi": "$K_a = C\\alpha^2$", "en": "$K_a = C\\alpha^2$"}
+        }
+      ],
+      "section5": [
+        {
+          "q": {
+            "hi": "किसी दुर्बल वैद्युतअपघट्य के विलयन में एक प्रबल वैद्युतअपघट्य मिलाने पर जिसमें एक आयन समान (common) हो, दुर्बल वैद्युतअपघट्य का आयनन घट जाता है। इसे क्या कहते हैं?",
+            "en": "The decrease in dissociation of a weak electrolyte by adding a strong electrolyte containing a common ion is called:"
+          },
+          "options": [
+            {"hi": "उदासीनीकरण प्रभाव", "en": "Neutralization effect"},
+            {"hi": "सम-आयन प्रभाव (Common Ion Effect)", "en": "Common Ion Effect"},
+            {"hi": "बफर प्रभाव", "en": "Buffer effect"},
+            {"hi": "हेनरी प्रभाव", "en": "Henry effect"}
+          ],
+          "answer": {"hi": "सम-आयन प्रभाव (Common Ion Effect)", "en": "Common Ion Effect"}
+        },
+        {
+          "q": {
+            "hi": "वह विलयन जो थोड़ा अम्ल या क्षार मिलाने पर भी अपने pH मान में परिवर्तन का विरोध करता है, कहलाता है:",
+            "en": "A solution which resists any change in its pH value upon addition of small amounts of acid or base is called a/an:"
+          },
+          "options": [
+            {"hi": "आदर्श विलयन", "en": "Ideal solution"},
+            {"hi": "बफर विलयन या उभयप्रतिरोधी विलयन (Buffer Solution)", "en": "Buffer Solution"},
+            {"hi": "संतृप्त विलयन", "en": "Saturated solution"},
+            {"hi": "तनु विलयन", "en": "Dilute solution"}
+          ],
+          "answer": {"hi": "बफर विलयन या उभयप्रतिरोधी विलयन (Buffer Solution)", "en": "Buffer Solution"}
+        },
+        {
+          "q": {
+            "hi": "निम्नलिखित में से कौन सा एक अम्लीय बफर विलयन (Acidic Buffer) का उदाहरण है?",
+            "en": "Which of the following is an example of an acidic buffer solution?"
+          },
+          "options": [
+            {"hi": "HCl + NaCl", "en": "HCl + NaCl"},
+            {"hi": "CH$_3$COOH + CH$_3$COONa", "en": "CH$_3$COOH + CH$_3$COONa"},
+            {"hi": "NH$_4$OH + NH$_4$Cl", "en": "NH$_4$OH + NH$_4$Cl"},
+            {"hi": "NaOH + CH$_3$COONa", "en": "NaOH + CH$_3$COONa"}
+          ],
+          "answer": {"hi": "CH$_3$COOH + CH$_3$COONa", "en": "CH$_3$COOH + CH$_3$COONa"}
+        },
+        {
+          "q": {
+            "hi": "बफर विलयन के pH की गणना करने के लिए प्रयुक्त समीकरण $\text{pH} = \text{p}K_a + \\log\\frac{[\\text{लवण}]}{[\\text{अम्ल}]}$ को क्या कहा जाता है?",
+            "en": "The equation $\text{pH} = \text{p}K_a + \\log\\frac{[\\text{Salt}]}{[\\text{Acid}]}$ used for buffer calculations is known as:"
+          },
+          "options": [
+            {"hi": "अरेनियस समीकरण", "en": "Arrhenius equation"},
+            {"hi": "हेन्डरसन-हैसलबैल्क समीकरण (Henderson-Hasselbalch Equation)", "en": "Henderson-Hasselbalch Equation"},
+            {"hi": "बोर समीकरण", "en": "Bohr equation"},
+            {"hi": "ओस्टवाल्ड समीकरण", "en": "Ostwald equation"}
+          ],
+          "answer": {"hi": "हेन्डरसन-हैसलबैल्क समीकरण (Henderson-Hasselbalch Equation)", "en": "Henderson-Hasselbalch Equation"}
+        },
+        {
+          "q": {
+            "hi": "एक अल्पविलेय लवण $A_xB_y$ के लिए विलेयता गुणनफल स्थिरक ($K_{sp}$) का सही व्यंजक क्या होगा, यदि इसकी विलेयता आयनों के रूप में साम्य में हो?",
+            "en": "What is the general expression for solubility product constant ($K_{sp}$) of a sparingly soluble salt $A_xB_y$?"
+          },
+          "options": [
+            {"hi": "$K_{sp} = [A^{y+}]^x [B^{x-}]^y$", "en": "$K_{sp} = [A^{y+}]^x [B^{x-}]^y$"},
+            {"hi": "$K_{sp} = [A^{y+}] \\cdot [B^{x-}]$", "en": "$K_{sp} = [A^{y+}] \\cdot [B^{x-}]$"},
+            {"hi": "$K_{sp} = [A_xB_y]$", "en": "$K_{sp} = [A_xB_y]$"},
+            {"hi": "$K_{sp} = x[A] \\cdot y[B]$", "en": "$K_{sp} = x[A] \\cdot y[B]$"}
+          ],
+          "answer": {"hi": "$K_{sp} = [A^{y+}]^x [B^{x-}]^y$", "en": "$K_{sp} = [A^{y+}]^x [B^{x-}]^y$"}
+        },
+        {
+          "q": {
+            "hi": "यदि किसी अल्पविलेय लवण के आयनों की सांद्रता का गुणनफल (आयनिक गुणनफल, $Q_{sp}$) उसके विलेयता गुणनफल ($K_{sp}$) से अधिक हो जाता है, तो क्या होगा?",
+            "en": "If the ionic product ($Q_{sp}$) of a sparingly soluble salt exceeds its solubility product ($K_{sp}$), what will happen?"
+          },
+          "options": [
+            {"hi": "लवण अधिक घुल जाएगा", "en": "More salt will dissolve"},
+            {"hi": "लवण का अवक्षेपण होगा (Precipitation will occur)", "en": "Precipitation will occur"},
+            {"hi": "विलयन खौलने लगेगा", "en": "The solution will boil"},
+            {"hi": "कोई परिवर्तन नहीं होगा", "en": "No change"}
+          ],
+          "answer": {"hi": "लवण का अवक्षेपण होगा (Precipitation will occur)", "en": "Precipitation will occur"}
+        },
+        {
+          "q": {
+            "hi": "AgCl (सिल्वर क्लोराइड) जैसे लवण की जल में विलेयता, NaCl (सोडियम क्लोराइड) विलयन मिलाने पर कम क्यों हो जाती है?",
+            "en": "Why does the solubility of AgCl in water decrease upon the addition of a NaCl solution?"
+          },
+          "options": [
+            {"hi": "उदासीनीकरण के कारण", "en": "Due to neutralization"},
+            {"hi": "क्लोराइड आयन के सम-आयन प्रभाव के कारण (Common ion effect of Cl$^-$)", "en": "Due to the common ion effect of Cl$^-$ ions"},
+            {"hi": "तापमान घटने के कारण", "en": "Due to temperature drop"},
+            {"hi": "AgCl के आबंध टूटने के कारण", "en": "Due to breaking of AgCl bonds"}
+          ],
+          "answer": {"hi": "क्लोराइड आयन के सम-आयन प्रभाव के कारण (Common ion effect of Cl$^-$)", "en": "Due to the common ion effect of Cl$^-$ ions"}
+        },
+        {
+          "q": {
+            "hi": "मनुष्य के रक्त (Blood) का pH मान लगभग कितना होता है और इसे बफर के रूप में कौन बनाए रखता है?",
+            "en": "What is the approximate pH of human blood and which buffer maintains it?"
+          },
+          "options": [
+            {"hi": "7.4, कार्बोनिक अम्ल-बाइकार्बोनेट बफर (H$_2$CO$_3$/HCO$_3^-$)", "en": "7.4, Carbonic acid-bicarbonate buffer"},
+            {"hi": "5.5, एसीटेट बफर", "en": "5.5, Acetate buffer"},
+            {"hi": "2.0, फास्फेट बफर", "en": "2.0, Phosphate buffer"},
+            {"hi": "9.2, अमोनियम बफर", "en": "9.2, Ammonium buffer"}
+          ],
+          "answer": {"hi": "7.4, कार्बोनिक अम्ल-बाइकार्बोनेट बफर (H$_2$CO$_3$/HCO$_3^-$)", "en": "7.4, Carbonic acid-bicarbonate buffer"}
+        },
+        {
+          "q": {
+            "hi": "शुद्ध जल में $H^+$ और $OH^-$ आयनों की सांद्रता 298 K पर कितनी होती है?",
+            "en": "What is the concentration of $H^+$ and $OH^-$ ions in pure water at 298 K?"
+          },
+          "options": [
+            {"hi": "$1.0 \\times 10^{-14}$ M", "en": "$1.0 \\times 10^{-14}$ M"},
+            {"hi": "$1.0 \\times 10^{-7}$ M", "en": "$1.0 \\times 10^{-7}$ M"},
+            {"hi": "1.0 M", "en": "1.0 M"},
+            {"hi": "$7.0 \\times 10^{-7}$ M", "en": "$7.0 \\times 10^{-7}$ M"}
+          ],
+          "answer": {"hi": "$1.0 \\times 10^{-7}$ M", "en": "$1.0 \\times 10^{-7}$ M"}
+        },
+        {
+          "q": {
+            "hi": "एक निश्चित तापमान पर साम्य स्थिरांक ($K_c$) का मान किस पर निर्भर करता है?",
+            "en": "At a constant temperature, the value of the equilibrium constant ($K_c$) depends only on:"
+          },
+          "options": [
+            {"hi": "अभिकारकों की प्रारंभिक सांद्रता पर", "en": "Initial concentration of reactants"},
+            {"hi": "कंटेनर के आयतन पर", "en": "Volume of the container"},
+            {"hi": "अभिक्रिया की प्रकृति और तापमान पर (Nature of reaction and Temperature)", "en": "Nature of reaction and Temperature"},
+            {"hi": "उत्प्रेरक की उपस्थिति पर", "en": "Presence of a catalyst"}
+          ],
+          "answer": {"hi": "अभिक्रिया की प्रकृति और तापमान पर (Nature of reaction and Temperature)", "en": "Nature of reaction and Temperature"}
+        }
+      ]
     }
   }
 }
