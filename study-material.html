@@ -1,23 +1,59 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Govt. Letters - SciTech Bihar</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/png" href="logo.png">
+    <style>
+        /* इस पेज के लिए खास स्टाइल */
+        .letters-page-container { max-width: 1100px; margin: 40px auto; padding: 20px; }
+        .page-header { text-align: center; margin-bottom: 40px; }
+        .page-header h1 { color: #002266; font-size: 2.2rem; }
+        
+        .search-filter { margin-bottom: 30px; display: flex; justify-content: center; }
+        .search-filter input { 
+            width: 100%; max-width: 500px; padding: 12px 20px; 
+            border: 2px solid #0044cc; border-radius: 50px; font-size: 1rem;
+        }
 
-<title>Study Material | SciTech Bihar</title>
-
-<meta name="description" content="Science study material, MCQ, notes and educational resources for students.">
-
-<link rel="stylesheet" href="style.css">
+        .letters-table-container { overflow-x: auto; background: white; border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.05); }
+        table { width: 100%; border-collapse: collapse; min-width: 600px; }
+        th, td { padding: 15px; text-align: left; border-bottom: 1px solid #eee; }
+        th { background-color: #0044cc; color: white; font-weight: bold; }
+        tr:hover { background-color: #f9f9f9; }
+        
+        .pdf-link { 
+            background: #d32f2f; color: white !important; padding: 6px 12px; 
+            border-radius: 4px; text-decoration: none; font-size: 0.9rem; font-weight: bold;
+        }
+        .pdf-link:hover { background: #b71c1c; }
+    </style>
 </head>
-
 <body>
 
-<header class="topbar">
-SciTech Bihar | Study Material
-</header>
+    
+    <nav class="navbar">
+        <div class="logo">SciTech Bihar</div>
 
+       
+    <ul class="nav-links" id="navLinks">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="govt-letters.html">Govt Letters</a></li>
+        <li><a href="#">Study Material</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="#">YouTube</a></li>
+        <li><a href="#">Contact</a></li>
+    </ul>
+    <div class="hamburger" id="hamburger">
+    <span></span>
+    <span></span>
+    <span></span>
+</div>
+</nav>
 
+    
 <section class="study-material" id="study-material">
         <h2>📚 Study Material</h2>
         <div class="class-grid">
@@ -26,19 +62,32 @@ SciTech Bihar | Study Material
             <a href="class8.html" class="class-card">Class 8</a>
             <a href="class9.html" class="class-card">Class 9</a>
             <a href="class10.html" class="class-card">Class 10</a>
+             <a href="class11.html" class="class-card">Class 11</a>
         </div>
     </section>
 
+    <script>
+        // सर्च फिल्टर काम करने के लिए छोटा सा फंक्शन
+        function filterLetters() {
+            let input = document.getElementById('letterSearch');
+            let filter = input.value.toUpperCase();
+            let table = document.getElementById('lettersTable');
+            let tr = table.getElementsByTagName('tr');
 
-
-
-
-<br>
-
-<a href="index.html">⬅ Back to Home</a>
-
-</section>
-
+            for (let i = 1; i < tr.length; i++) {
+                let td = tr[i].getElementsByTagName('td')[1]; // विषय वाला कॉलम
+                if (td) {
+                    let textValue = td.textContent || td.innerText;
+                    if (textValue.toUpperCase().indexOf(filter) > -1) {
+                        tr[i].style.display = "";
+                    } else {
+                        tr[i].style.display = "none";
+                    }
+                }
+            }
+        }
+    </script>
+    <a href="index.html">⬅ Back to Home</a>
+    <script src="script.js"></script>
 </body>
 </html>
-
