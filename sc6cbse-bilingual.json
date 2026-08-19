@@ -3969,345 +3969,664 @@
           }
         ]
       },
-    "chapter07": {
-        "section1": [
+    "chapter07": {"section1": [
           {
             "q": {
-              "hi": "मिनी की आयु कितनी थी?",
-              "en": "How old was Mini?"
+              "hi": "किसी पिंड की उष्णता (hotness) या शीतलता (coldness) की डिग्री के माप को क्या कहते हैं?",
+              "en": "What is the measure of the degree of hotness or coldness of a body called?"
             },
             "options": [
-              {"hi": "चार वर्ष", "en": "Four years"},
-              {"hi": "पाँच वर्ष", "en": "Five years"},
-              {"hi": "छह वर्ष", "en": "Six years"},
-              {"hi": "सात वर्ष", "en": "Seven years"}
+              {"hi": "तापमान (Temperature)", "en": "Temperature"},
+              {"hi": "ऊष्मा (Heat)", "en": "Heat"},
+              {"hi": "घनत्व (Density)", "en": "Density"},
+              {"hi": "दाब (Pressure)", "en": "Pressure"}
             ],
-            "answer": {"hi": "पाँच वर्ष", "en": "Five years"}
+            "answer": {"hi": "तापमान (Temperature)", "en": "Temperature"}
           },
           {
             "q": {
-              "hi": "मिनी के बारे में क्या बात प्रसिद्ध थी?",
-              "en": "What was famous about Mini?"
+              "hi": "तापमान को मापने के लिए उपयोग किए जाने वाले उपकरण को क्या कहा जाता है?",
+              "en": "What is a device that is used to measure the temperature called?"
             },
             "options": [
-              {"hi": "वह बहुत सुंदर थी", "en": "She was beautiful"},
-              {"hi": "वह बिना बात किए नहीं रह सकती थी", "en": "She could not live without talking"},
-              {"hi": "वह बहुत होशियार थी", "en": "She was very clever"},
-              {"hi": "वह बहुत रोती थी", "en": "She cried a lot"}
+              {"hi": "थर्मामीटर (Thermometer)", "en": "Thermometer"},
+              {"hi": "ब्यूरोमीटर (Barometer)", "en": "Barometer"},
+              {"hi": "अल्टीमीटर (Altimeter)", "en": "Altimeter"},
+              {"hi": "मापने वाला स्केल (Scale)", "en": "Scale"}
             ],
-            "answer": {"hi": "वह बिना बात किए नहीं रह सकती थी", "en": "She could not live without talking"}
+            "answer": {"hi": "थर्मामीटर (Thermometer)", "en": "Thermometer"}
           },
           {
             "q": {
-              "hi": "मिनी के पिता क्या लिख रहे थे?",
-              "en": "What was Mini's father writing?"
+              "hi": "लैटिन शब्द 'thermo' और 'meter' का क्या अर्थ है?",
+              "en": "What do the Latin words 'thermo' and 'meter' mean?"
             },
             "options": [
-              {"hi": "एक कविता", "en": "A poem"},
-              {"hi": "एक उपन्यास का सत्रहवाँ अध्याय", "en": "Seventeenth chapter of his novel"},
-              {"hi": "एक पत्र", "en": "A letter"},
-              {"hi": "एक निबंध", "en": "An essay"}
+              {"hi": "'thermo' का अर्थ गर्मी और 'meter' का अर्थ मापने वाला उपकरण है", "en": "'thermo' means heat and 'meter' means a measuring device"},
+              {"hi": "'thermo' का अर्थ ठंड और 'meter' का अर्थ समय है", "en": "'thermo' means cold and 'meter' means time"},
+              {"hi": "'thermo' का अर्थ हवा और 'meter' का अर्थ वजन है", "en": "'thermo' means air and 'meter' means weight"},
+              {"hi": "'thermo' का अर्थ पानी और 'meter' का अर्थ गति है", "en": "'thermo' means water and 'meter' means speed"}
             ],
-            "answer": {"hi": "एक उपन्यास का सत्रहवाँ अध्याय", "en": "Seventeenth chapter of his novel"}
+            "answer": {"hi": "'thermo' का अर्थ गर्मी और 'meter' का अर्थ मापने वाला उपकरण है", "en": "'thermo' means heat and 'meter' means a measuring device"}
           },
           {
             "q": {
-              "hi": "मिनी ने पिता से क्या पूछा?",
-              "en": "What did Mini ask her father?"
+              "hi": "तापमान को मापने के लिए आमतौर पर कितने तापमान पैमानों (temperature scales) का उपयोग किया जाता है?",
+              "en": "How many temperature scales are generally used to measure temperature?"
             },
             "options": [
-              {"hi": "क्या आप खेलेंगे?", "en": "Will you play?"},
-              {"hi": "कौवे को 'कौआ' क्यों कहते हैं?", "en": "Why is a crow called a crow?"},
-              {"hi": "हम कब बाहर जाएंगे?", "en": "When will we go out?"},
-              {"hi": "माँ कहाँ है?", "en": "Where is mother?"}
+              {"hi": "तीन (Three)", "en": "Three"},
+              {"hi": "दो (Two)", "en": "Two"},
+              {"hi": "चार (Four)", "en": "Four"},
+              {"hi": "पाँच (Five)", "en": "Five"}
             ],
-            "answer": {"hi": "कौवे को 'कौआ' क्यों कहते हैं?", "en": "Why is a crow called a crow?"}
+            "answer": {"hi": "तीन (Three)", "en": "Three"}
           },
           {
             "q": {
-              "hi": "मिनी ने किसे देखकर आवाज़ लगाई?",
-              "en": "Whom did Mini see and shout to?"
+              "hi": "सेल्सियस पैमाने पर पानी का हिमांक (freezing point) कितना होता है?",
+              "en": "What is the lower fixed point or freezing point of water on the Celsius scale?"
             },
             "options": [
-              {"hi": "अपनी माँ", "en": "Her mother"},
-              {"hi": "काबुलीवाला", "en": "Kabuliwala"},
-              {"hi": "एक दोस्त", "en": "A friend"},
-              {"hi": "एक फेरीवाला", "en": "A vendor"}
+              {"hi": "0°C", "en": "0°C"},
+              {"hi": "32°C", "en": "32°C"},
+              {"hi": "100°C", "en": "100°C"},
+              {"hi": "273°C", "en": "273°C"}
             ],
-            "answer": {"hi": "काबुलीवाला", "en": "Kabuliwala"}
+            "answer": {"hi": "0°C", "en": "0°C"}
           },
           {
             "q": {
-              "hi": "काबुलीवाला का नाम क्या था?",
-              "en": "What was the name of the Kabuliwala?"
+              "hi": "सेल्सियस पैमाने पर पानी का क्वथनांक (boiling point) कितना होता है?",
+              "en": "What is the upper fixed point or boiling point of water on the Celsius scale?"
             },
             "options": [
-              {"hi": "रहमान", "en": "Rahman"},
-              {"hi": "रामदयाल", "en": "Ramdayal"},
-              {"hi": "भोला", "en": "Bhola"},
-              {"hi": "रबींद्र", "en": "Rabindra"}
+              {"hi": "100°C", "en": "100°C"},
+              {"hi": "0°C", "en": "0°C"},
+              {"hi": "212°C", "en": "212°C"},
+              {"hi": "373°C", "en": "373°C"}
             ],
-            "answer": {"hi": "रहमान", "en": "Rahman"}
+            "answer": {"hi": "100°C", "en": "100°C"}
           },
           {
             "q": {
-              "hi": "काबुलीवाला कहाँ से आया था?",
-              "en": "Where had the Kabuliwala come from?"
+              "hi": "सेल्सियस पैमाने का आविष्कार किसने किया था?",
+              "en": "Who invented the Celsius temperature scale?"
             },
             "options": [
-              {"hi": "ईरान", "en": "Iran"},
-              {"hi": "काबुल", "en": "Kabul"},
-              {"hi": "पाकिस्तान", "en": "Pakistan"},
-              {"hi": "नेपाल", "en": "Nepal"}
+              {"hi": "एंडर्स सेल्सियस (Anders Celsius)", "en": "Anders Celsius"},
+              {"hi": "डैनियल गेब्रियल फारेनहाइट (Daniel Gabriel Fahrenheit)", "en": "Daniel Gabriel Fahrenheit"},
+              {"hi": "विलियम थॉमसन / लॉर्ड केल्विन (William Thomson)", "en": "William Thomson"},
+              {"hi": "गालीलियो गैलीलई (Galileo Galilei)", "en": "Galileo Galilei"}
             ],
-            "answer": {"hi": "काबुल", "en": "Kabul"}
+            "answer": {"hi": "एंडर्स सेल्सियस (Anders Celsius)", "en": "Anders Celsius"}
           },
           {
             "q": {
-              "hi": "मिनी के घर के पास कौन आया था?",
-              "en": "Who came near Mini's house?"
+              "hi": "फारेनहाइट पैमाने का प्रस्ताव किसने रखा था?",
+              "en": "Who proposed the Fahrenheit temperature scale?"
             },
             "options": [
-              {"hi": "डाकिया", "en": "Postman"},
-              {"hi": "फेरीवाला (Kabuliwala)", "en": "Kabuliwala"},
-              {"hi": "दूधवाला", "en": "Milkman"},
-              {"hi": "सब्जीवाला", "en": "Vegetable seller"}
+              {"hi": "डैनियल गेब्रियल फारेनहाइट (Daniel Gabriel Fahrenheit)", "en": "Daniel Gabriel Fahrenheit"},
+              {"hi": "एंडर्स सेल्सियस (Anders Celsius)", "en": "Anders Celsius"},
+              {"hi": "लॉर्ड केल्विन (Lord Kelvin)", "en": "Lord Kelvin"},
+              {"hi": "थॉमस एडिसन (Thomas Edison)", "en": "Thomas Edison"}
             ],
-            "answer": {"hi": "फेरीवाला", "en": "Kabuliwala"}
+            "answer": {"hi": "डैनियल गेब्रियल फारेनहाइट (Daniel Gabriel Fahrenheit)", "en": "Daniel Gabriel Fahrenheit"}
           },
           {
             "q": {
-              "hi": "मिनी के पिता को क्या करने में बाधा हुई?",
-              "en": "What was interrupted for Mini's father?"
+              "hi": "फारेनहाइट पैमाने पर पानी का हिमांक (freezing point) कितना होता है?",
+              "en": "What is the freezing point of water on the Fahrenheit scale?"
             },
             "options": [
-              {"hi": "खाना खाना", "en": "Eating"},
-              {"hi": "लिखना", "en": "Writing"},
-              {"hi": "सोना", "en": "Sleeping"},
-              {"hi": "पढ़ना", "en": "Reading"}
+              {"hi": "32°F", "en": "32°F"},
+              {"hi": "0°F", "en": "0°F"},
+              {"hi": "100°F", "en": "100°F"},
+              {"hi": "212°F", "en": "212°F"}
             ],
-            "answer": {"hi": "लिखना", "en": "Writing"}
+            "answer": {"hi": "32°F", "en": "32°F"}
           },
           {
             "q": {
-              "hi": "कौवे को 'कौआ' क्यों कहते हैं, यह किसने पूछा?",
-              "en": "Who asked why a crow is called a crow?"
+              "hi": "फारेनहाइट पैमाने पर पानी का क्वथनांक (boiling point) कितना होता है?",
+              "en": "What is the boiling point of water on the Fahrenheit scale?"
             },
             "options": [
-              {"hi": "मिनी के पिता ने", "en": "Mini's father"},
-              {"hi": "मिनी ने", "en": "Mini"},
-              {"hi": "माँ ने", "en": "Mother"},
-              {"hi": "रामदयाल ने", "en": "Ramdayal"}
+              {"hi": "212°F", "en": "212°F"},
+              {"hi": "32°F", "en": "32°F"},
+              {"hi": "100°F", "en": "100°F"},
+              {"hi": "180°F", "en": "180°F"}
             ],
-            "answer": {"hi": "मिनी ने", "en": "Mini"}
+            "answer": {"hi": "212°F", "en": "212°F"}
           }
         ],
         "section2": [
           {
-            "q": {"hi": "काबुलीवाला क्या बेचता था?", "en": "What did the Kabuliwala sell?"},
-            "options": [{"hi": "सब्जियां", "en": "Vegetables"}, {"hi": "मेवे और कपड़े", "en": "Dry fruits and clothes"}, {"hi": "खिलौने", "en": "Toys"}, {"hi": "किताबें", "en": "Books"}],
-            "answer": {"hi": "मेवे और कपड़े", "en": "Dry fruits and clothes"}
+            "q": {
+              "hi": "तापमान की एस.आई. (SI) इकाई क्या है?",
+              "en": "What is the SI unit of temperature?"
+            },
+            "options": [
+              {"hi": "केल्विन (Kelvin)", "en": "Kelvin"},
+              {"hi": "सेल्सियस (Celsius)", "en": "Celsius"},
+              {"hi": "फारेनहाइट (Fahrenheit)", "en": "Fahrenheit"},
+              {"hi": "जूल (Joule)", "en": "Joule"}
+            ],
+            "answer": {"hi": "केल्विन (Kelvin)", "en": "Kelvin"}
           },
           {
-            "q": {"hi": "क्या काबुलीवाला और मिनी दोस्त बन गए?", "en": "Did the Kabuliwala and Mini become friends?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "कभी नहीं", "en": "Never"}, {"hi": "अनिश्चित", "en": "Uncertain"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "केल्विन पैमाने का आविष्कार किसने किया था?",
+              "en": "Who invented the Kelvin scale?"
+            },
+            "options": [
+              {"hi": "विलियम थॉमसन / लॉर्ड केल्विन (William Thomson / Lord Kelvin)", "en": "William Thomson / Lord Kelvin"},
+              {"hi": "एंडर्स सेल्सियस (Anders Celsius)", "en": "Anders Celsius"},
+              {"hi": "फारेनहाइट (Fahrenheit)", "en": "Fahrenheit"},
+              {"hi": "आइज़क न्यूटन (Isaac Newton)", "en": "Isaac Newton"}
+            ],
+            "answer": {"hi": "विलियम थॉमसन / लॉर्ड केल्विन (William Thomson / Lord Kelvin)", "en": "William Thomson / Lord Kelvin"}
           },
           {
-            "q": {"hi": "मिनी काबुलीवाला को क्या बुलाती थी?", "en": "What did Mini call the Kabuliwala?"},
-            "options": [{"hi": "रामदयाल", "en": "Ramdayal"}, {"hi": "रहमान", "en": "Rahman"}, {"hi": "फेरीवाला", "en": "Vendor"}, {"hi": "कोई नहीं", "en": "None"}],
-            "answer": {"hi": "रहमान", "en": "Rahman"}
+            "q": {
+              "hi": "केल्विन पैमाने पर परम शून्य (absolute zero) का मान कितना होता है?",
+              "en": "What is the absolute zero temperature on the Kelvin scale?"
+            },
+            "options": [
+              {"hi": "0 K", "en": "0 K"},
+              {"hi": "273.15 K", "en": "273.15 K"},
+              {"hi": "373.15 K", "en": "373.15 K"},
+              {"hi": "-273.15 K", "en": "-273.15 K"}
+            ],
+            "answer": {"hi": "0 K", "en": "0 K"}
           },
           {
-            "q": {"hi": "मिनी की माँ को क्या चिंता थी?", "en": "What was Mini's mother worried about?"},
-            "options": [{"hi": "मिनी की पढ़ाई", "en": "Mini's studies"}, {"hi": "काबुलीवाला के साथ दोस्ती", "en": "Friendship with Kabuliwala"}, {"hi": "स्वास्थ्य", "en": "Health"}, {"hi": "भोजन", "en": "Food"}],
-            "answer": {"hi": "काबुलीवाला के साथ दोस्ती", "en": "Friendship with Kabuliwala"}
+            "q": {
+              "hi": "केल्विन पैमाने पर पानी का हिमांक और क्वथनांक क्रमशः कितना होता है?",
+              "en": "What are the freezing and boiling points of water on the Kelvin scale respectively?"
+            },
+            "options": [
+              {"hi": "273.15 K और 373.15 K", "en": "273.15 K and 373.15 K"},
+              {"hi": "0 K और 100 K", "en": "0 K and 100 K"},
+              {"hi": "32 K और 212 K", "en": "32 K and 212 K"},
+              {"hi": "273 K और 0 K", "en": "273 K and 0 K"}
+            ],
+            "answer": {"hi": "273.15 K और 373.15 K", "en": "273.15 K and 373.15 K"}
           },
           {
-            "q": {"hi": "क्या पिता ने मिनी को काबुलीवाला से मिलने दिया?", "en": "Did the father let Mini meet the Kabuliwala?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "कभी नहीं", "en": "Never"}, {"hi": "माँ ने रोका", "en": "Mother stopped"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "सेल्सियस पैमाने को केल्विन में बदलने का सही सूत्र क्या है?",
+              "en": "What is the correct formula to convert Celsius scale to Kelvin scale?"
+            },
+            "options": [
+              {"hi": "K = 273.15 + °C", "en": "K = 273.15 + °C"},
+              {"hi": "K = °C - 273.15", "en": "K = °C - 273.15"},
+              {"hi": "K = 100 + °C", "en": "K = 100 + °C"},
+              {"hi": "K = °C × 1.8 + 32", "en": "K = °C × 1.8 + 32"}
+            ],
+            "answer": {"hi": "K = 273.15 + °C", "en": "K = 273.15 + °C"}
           },
           {
-            "q": {"hi": "काबुलीवाला मिनी के लिए क्या लाता था?", "en": "What did Kabuliwala bring for Mini?"},
-            "options": [{"hi": "मेवे", "en": "Dry fruits"}, {"hi": "खिलौने", "en": "Toys"}, {"hi": "कपड़े", "en": "Clothes"}, {"hi": "पुस्तकें", "en": "Books"}],
-            "answer": {"hi": "मेवे", "en": "Dry fruits"}
+            "q": {
+              "hi": "फारेनहाइट को सेल्सियस में बदलने का सही सूत्र कौन सा है?",
+              "en": "Which formula is used to convert the Fahrenheit scale to the Celsius scale?"
+            },
+            "options": [
+              {"hi": "°C = (5/9) × (°F - 32)", "en": "°C = (5/9) × (°F - 32)"},
+              {"hi": "°C = (9/5) × (°F + 32)", "en": "°C = (9/5) × (°F + 32)"},
+              {"hi": "°C = °F - 273", "en": "°C = °F - 273"},
+              {"hi": "°C = (°F - 32) × 1.8", "en": "°C = (°F - 32) × 1.8"}
+            ],
+            "answer": {"hi": "°C = (5/9) × (°F - 32)", "en": "°C = (5/9) × (°F - 32)"}
           },
           {
-            "q": {"hi": "क्या काबुलीवाला के पास अपनी बेटी थी?", "en": "Did the Kabuliwala have his own daughter?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "वह विवाहित नहीं था", "en": "He was unmarried"}, {"hi": "कह नहीं सकते", "en": "Cannot say"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "सेल्सियस को फारेनहाइट में बदलने का सही सूत्र क्या है?",
+              "en": "What is the formula to convert the Celsius scale to the Fahrenheit scale?"
+            },
+            "options": [
+              {"hi": "°F = ((9/5) × °C) + 32", "en": "°F = ((9/5) × °C) + 32"},
+              {"hi": "°F = ((5/9) × °C) - 32", "en": "°F = ((5/9) × °C) + 32"},
+              {"hi": "°F = °C + 273.15", "en": "°F = °C + 273.15"},
+              {"hi": "°F = (°C × 9) + 32", "en": "°F = (°C × 9) + 32"}
+            ],
+            "answer": {"hi": "°F = ((9/5) × °C) + 32", "en": "°F = ((9/5) × °C) + 32"}
           },
           {
-            "q": {"hi": "मिनी के पिता को क्या बुरा लगता था?", "en": "What made Mini's father sad?"},
-            "options": [{"hi": "लिखना", "en": "Writing"}, {"hi": "मिनी का चुप रहना", "en": "Mini being quiet"}, {"hi": "गरीबी", "en": "Poverty"}, {"hi": "शोर", "en": "Noise"}],
-            "answer": {"hi": "मिनी का चुप रहना", "en": "Mini being quiet"}
+            "q": {
+              "hi": "शरीर के तापमान को मापने के लिए किस थर्मामीटर का उपयोग किया जाता है?",
+              "en": "Which thermometer is used to measure body temperature?"
+            },
+            "options": [
+              {"hi": "क्लीनिकल थर्मामीटर (Clinical thermometer)", "en": "Clinical thermometer"},
+              {"hi": "प्रयोगशाला थर्मामीटर (Laboratory thermometer)", "en": "Laboratory thermometer"},
+              {"hi": "वॉल थर्मामीटर (Wall thermometer)", "en": "Wall thermometer"},
+              {"hi": "बैरोमीटर (Barometer)", "en": "Barometer"}
+            ],
+            "answer": {"hi": "क्लीनिकल थर्मामीटर (Clinical thermometer)", "en": "Clinical thermometer"}
           },
           {
-            "q": {"hi": "काबुलीवाला को जेल क्यों हुई?", "en": "Why was the Kabuliwala sent to jail?"},
-            "options": [{"hi": "चोरी के लिए", "en": "For stealing"}, {"hi": "झगड़े के लिए", "en": "For a fight"}, {"hi": "हथियार रखने के लिए", "en": "For having a weapon"}, {"hi": "कर न चुकाने पर", "en": "Not paying tax"}],
-            "answer": {"hi": "झगड़े के लिए", "en": "For a fight"}
+            "q": {
+              "hi": "एक स्वस्थ मानव के शरीर का सामान्य तापमान लगभग कितना होता है?",
+              "en": "What is the normal body temperature of a healthy human approximately?"
+            },
+            "options": [
+              {"hi": "37°C (या 98.6°F)", "en": "37°C (or 98.6°F)"},
+              {"hi": "100°C (या 212°F)", "en": "100°C (or 212°F)"},
+              {"hi": "0°C (या 32°F)", "en": "0°C (or 32°F)"},
+              {"hi": "42°C (या 105°F)", "en": "42°C (or 105°F)"}
+            ],
+            "answer": {"hi": "37°C (या 98.6°F)", "en": "37°C (or 98.6°F)"}
           },
           {
-            "q": {"hi": "जेल से लौटने के बाद काबुलीवाला क्या ढूँढ रहा था?", "en": "What was Kabuliwala looking for after returning from jail?"},
-            "options": [{"hi": "मिनी को", "en": "Mini"}, {"hi": "मेवे", "en": "Dry fruits"}, {"hi": "अपनी बेटी को", "en": "His daughter"}, {"hi": "काम को", "en": "Work"}],
-            "answer": {"hi": "मिनी को", "en": "Mini"}
+            "q": {
+              "hi": "क्लीनिकल थर्मामीटर की माप सीमा (range) आमतौर पर क्या होती है?",
+              "en": "What is the typical temperature range of a clinical thermometer?"
+            },
+            "options": [
+              {"hi": "35°C से 42°C", "en": "35°C to 42°C"},
+              {"hi": "-10°C से 110°C", "en": "-10°C to 110°C"},
+              {"hi": "0°C से 100°C", "en": "0°C to 100°C"},
+              {"hi": "273 K से 373 K", "en": "273 K to 373 K"}
+            ],
+            "answer": {"hi": "35°C से 42°C", "en": "35°C to 42°C"}
           }
         ],
         "section3": [
           {
-            "q": {"hi": "मिनी की शादी के दिन क्या हो रहा था?", "en": "What was happening on Mini's wedding day?"},
-            "options": [{"hi": "त्यौहार", "en": "Festival"}, {"hi": "शादी की रस्में", "en": "Wedding ceremonies"}, {"hi": "जन्मदिन", "en": "Birthday"}, {"hi": "पार्टी", "en": "Party"}],
-            "answer": {"hi": "शादी की रस्में", "en": "Wedding ceremonies"}
+            "q": {
+              "hi": "पारंपरिक थर्मामीटर के अंदर कौन सा तरल पदार्थ उपयोग किया जाता था?",
+              "en": "Which liquid was traditionally used inside mercury thermometers?"
+            },
+            "options": [
+              {"hi": "पारा या मरकरी (Mercury) या अल्कोहल", "en": "Mercury or alcohol"},
+              {"hi": "साधारण पानी", "en": "Plain water"},
+              {"hi": "खाना पकाने का तेल", "en": "Cooking oil"},
+              {"hi": "दूध", "en": "Milk"}
+            ],
+            "answer": {"hi": "पारा या मरकरी (Mercury) या अल्कोहल", "en": "Mercury or alcohol"}
           },
           {
-            "q": {"hi": "क्या काबुलीवाला मिनी को पहचान पाया?", "en": "Did the Kabuliwala recognize Mini?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "थोड़ा बहुत", "en": "A little"}, {"hi": "नहीं पहचान पाया", "en": "Could not recognize"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "पारे के स्तर को अपने आप नीचे गिरने से रोकने के लिए क्लीनिकल थर्मामीटर में क्या होता है?",
+              "en": "What is present in a clinical thermometer to prevent mercury from falling back on its own?"
+            },
+            "options": [
+              {"hi": "एक किंक या मोड़ (A kink)", "en": "A kink"},
+              {"hi": "एक वाल्व (A valve)", "en": "A valve"},
+              {"hi": "एक फिल्टर (A filter)", "en": "A filter"},
+              {"hi": "एक स्प्रिंग (A spring)", "en": "A spring"}
+            ],
+            "answer": {"hi": "एक किंक या मोड़ (A kink)", "en": "A kink"}
           },
           {
-            "q": {"hi": "मिनी के पिता ने काबुलीवाला को क्या दिया?", "en": "What did Mini's father give to Kabuliwala?"},
-            "options": [{"hi": "भोजन", "en": "Food"}, {"hi": "पैसे", "en": "Money"}, {"hi": "कपड़े", "en": "Clothes"}, {"hi": "खिलौने", "en": "Toys"}],
-            "answer": {"hi": "पैसे", "en": "Money"}
+            "q": {
+              "hi": "आजकल पारे के थर्मामीटर की जगह किस थर्मामीटर का अधिक उपयोग किया जाता है?",
+              "en": "What is used nowadays instead of mercury thermometers to measure body temperature?"
+            },
+            "options": [
+              {"hi": "डिजिटल थर्मामीटर (Digital thermometer)", "en": "Digital thermometer"},
+              {"hi": "कांच का बीकर", "en": "Glass beaker"},
+              {"hi": "हाइड्रॉमीटर", "en": "Hydrometer"},
+              {"hi": "एनीमोमीटर", "en": "Anemometer"}
+            ],
+            "answer": {"hi": "डिजिटल थर्मामीटर (Digital thermometer)", "en": "Digital thermometer"}
           },
           {
-            "q": {"hi": "पैसे किसलिए थे?", "en": "What was the money for?"},
-            "options": [{"hi": "अपने घर वापस जाने के लिए", "en": "To go back home"}, {"hi": "भोजन के लिए", "en": "For food"}, {"hi": "दवा के लिए", "en": "For medicine"}, {"hi": "सजावट के लिए", "en": "Decoration"}],
-            "answer": {"hi": "अपने घर वापस जाने के लिए", "en": "To go back home"}
+            "q": {
+              "hi": "डिजिटल थर्मामीटर पारे वाले थर्मामीटर से क्यों बेहतर माने जाते हैं?",
+              "en": "Why are digital thermometers preferred over mercury thermometers?"
+            },
+            "options": [
+              {"hi": "क्योंकि पारा अत्यधिक विषैला होता है और डिजिटल थर्मामीटर सुरक्षित होते हैं", "en": "Because mercury is toxic and digital ones are safer and easy to handle"},
+              {"hi": "क्योंकि डिजिटल थर्मामीटर बहुत महंगे होते हैं", "en": "Because digital ones are very expensive"},
+              {"hi": "क्योंकि पारे के थर्मामीटर काम नहीं करते", "en": "Because mercury ones do not work"},
+              {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+            ],
+            "answer": {"hi": "क्योंकि पारा अत्यधिक विषैला होता है और डिजिटल थर्मामीटर सुरक्षित होते हैं", "en": "Because mercury is toxic and digital ones are safer and easy to handle"}
           },
           {
-            "q": {"hi": "क्या काबुलीवाला की बेटी बड़ी हो गई थी?", "en": "Had Kabuliwala's daughter grown up?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "COVID-19 महामारी के दौरान बिना संपर्क के शरीर का तापमान मापने के लिए किस थर्मामीटर का उपयोग किया गया था?",
+              "en": "Which type of thermometer was used during the COVID-19 pandemic to measure body temperature without contact?"
+            },
+            "options": [
+              {"hi": "इंफ्रारेड थर्मामीटर (Infrared thermometer)", "en": "Infrared thermometer"},
+              {"hi": "प्रयोगशाला थर्मामीटर", "en": "Laboratory thermometer"},
+              {"hi": "पारे वाला थर्मामीटर", "en": "Mercury thermometer"},
+              {"hi": "दीवार थर्मामीटर", "en": "Wall thermometer"}
+            ],
+            "answer": {"hi": "इंफ्रारेड थर्मामीटर (Infrared thermometer)", "en": "Infrared thermometer"}
           },
           {
-            "q": {"hi": "मिनी के पिता को क्या महसूस हुआ?", "en": "What did Mini's father feel?"},
-            "options": [{"hi": "खुशी", "en": "Happiness"}, {"hi": "दुख", "en": "Sadness"}, {"hi": "आश्चर्य", "en": "Surprise"}, {"hi": "भय", "en": "Fear"}],
-            "answer": {"hi": "दुख", "en": "Sadness"}
+            "q": {
+              "hi": "रासायनिक प्रयोगों में विलयनों का तापमान मापने के लिए किस थर्मामीटर का उपयोग किया जाता है?",
+              "en": "Which thermometer is used to measure the temperature of solutions in scientific experiments?"
+            },
+            "options": [
+              {"hi": "प्रयोगशाला थर्मामीटर (Laboratory thermometer)", "en": "Laboratory thermometer"},
+              {"hi": "क्लीनिकल थर्मामीटर", "en": "Clinical thermometer"},
+              {"hi": "डिजिटल थर्मामीटर", "en": "Digital thermometer"},
+              {"hi": "इंफ्रारेड थर्मामीटर", "en": "Infrared thermometer"}
+            ],
+            "answer": {"hi": "प्रयोगशाला थर्मामीटर (Laboratory thermometer)", "en": "Laboratory thermometer"}
           },
           {
-            "q": {"hi": "कहानी का लेखक कौन है?", "en": "Who is the author of the story?"},
-            "options": [{"hi": "टैगोर", "en": "Tagore"}, {"hi": "प्रेमचंद", "en": "Premchand"}, {"hi": "रस्किन बॉन्ड", "en": "Ruskin Bond"}, {"hi": "शेक्सपियर", "en": "Shakespeare"}],
-            "answer": {"hi": "टैगोर", "en": "Tagore"}
+            "q": {
+              "hi": "एक सामान्य प्रयोगशाला थर्मामीटर की माप सीमा (range) कितनी होती है?",
+              "en": "What is the typical range of a laboratory thermometer?"
+            },
+            "options": [
+              {"hi": "-10°C से 110°C", "en": "-10°C to 110°C"},
+              {"hi": "35°C से 42°C", "en": "35°C to 42°C"},
+              {"hi": "0°C से 100°C", "en": "0°C to 100°C"},
+              {"hi": "-50°C से 50°C", "en": "-50°C to 50°C"}
+            ],
+            "answer": {"hi": "-10°C से 110°C", "en": "-10°C to 110°C"}
           },
           {
-            "q": {"hi": "क्या मिनी बड़ी हो गई थी?", "en": "Had Mini grown up?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "थोड़ी", "en": "A little"}, {"hi": "शायद", "en": "Maybe"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "हवा के गर्म या ठंडे होने के माप को क्या कहा जाता है?",
+              "en": "The measurement of how hot or cold the air is called what?"
+            },
+            "options": [
+              {"hi": "वायु तापमान या वातावरणीय तापमान (Air temperature / Atmospheric temperature)", "en": "Air temperature"},
+              {"hi": "शरीर का तापमान", "en": "Body temperature"},
+              {"hi": "पानी का तापमान", "en": "Water temperature"},
+              {"hi": "उबलने का तापमान", "en": "Boiling temperature"}
+            ],
+            "answer": {"hi": "वायु तापमान या वातावरणीय तापमान (Air temperature / Atmospheric temperature)", "en": "Air temperature"}
           },
           {
-            "q": {"hi": "पिता ने काबुलीवाला को अपनी बेटी से क्यों मिलने भेजा?", "en": "Why did the father send Kabuliwala to meet his daughter?"},
-            "options": [{"hi": "उन्हें खुश करने के लिए", "en": "To make them happy"}, {"hi": "सजा के लिए", "en": "For punishment"}, {"hi": "काम के लिए", "en": "For work"}, {"hi": "कह नहीं सकते", "en": "Cannot say"}],
-            "answer": {"hi": "उन्हें खुश करने के लिए", "en": "To make them happy"}
+            "q": {
+              "hi": "कमरे या आसपास की हवा का अनुमानित तापमान मापने के लिए किस उपकरण का उपयोग किया जाता है?",
+              "en": "Which devices are used to measure the approximate temperature of the room or surrounding air?"
+            },
+            "options": [
+              {"hi": "वॉल थर्मामीटर (Wall thermometers)", "en": "Wall thermometers"},
+              {"hi": "क्लीनिकल थर्मामीटर", "en": "Clinical thermometers"},
+              {"hi": "इंफ्रारेड थर्मामीटर", "en": "Infrared thermometers"},
+              {"hi": "प्रयोगशाला थर्मामीटर", "en": "Laboratory thermometers"}
+            ],
+            "answer": {"hi": "वॉल थर्मामीटर (Wall thermometers)", "en": "Wall thermometers"}
           },
           {
-            "q": {"hi": "क्या कहानी एक सुखद अंत के साथ खत्म हुई?", "en": "Did the story end with a happy note?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "कुछ नहीं", "en": "Nothing"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "भारत की 'वेदर वुमन ऑफ इंडिया' (Weather Woman of India) के रूप में किसे जाना जाता है?",
+              "en": "Who is often known as the 'Weather Woman of India'?"
+            },
+            "options": [
+              {"hi": "अन्ना मणि (Anna Mani)", "en": "Anna Mani"},
+              {"hi": "कल्पना चावला", "en": "Kalpana Chawla"},
+              {"hi": "असिमा चटर्जी", "en": "Asima Chatterjee"},
+              {"hi": "जानकी अम्मल", "en": "Janaki Ammal"}
+            ],
+            "answer": {"hi": "अन्ना मणि (Anna Mani)", "en": "Anna Mani"}
           }
         ],
         "section4": [
           {
-            "q": {"hi": "मिठाई का डिब्बा किसने दिया?", "en": "Who gave the sweet box?"},
-            "options": [{"hi": "पिताजी", "en": "Father"}, {"hi": "काबुलीवाला", "en": "Kabuliwala"}, {"hi": "माँ", "en": "Mother"}, {"hi": "भाई", "en": "Brother"}],
-            "answer": {"hi": "काबुलीवाला", "en": "Kabuliwala"}
+            "q": {
+              "hi": "अन्ना मणि (1918-2001) ने भारत में किस क्षेत्र में अत्यधिक योगदान दिया था?",
+              "en": "In what field did Anna Mani make immense contributions to India?"
+            },
+            "options": [
+              {"hi": "मौसम मापने वाले उपकरणों के आविष्कार और विकास में", "en": "Invention and development of various devices that measure the weather"},
+              {"hi": "अंतरिक्ष विज्ञान में", "en": "In space science"},
+              {"hi": "चिकित्सा अनुसंधान में", "en": "In medical research"},
+              {"hi": "कृषि तकनीक में", "en": "In agricultural technology"}
+            ],
+            "answer": {"hi": "मौसम मापने वाले उपकरणों के आविष्कार और विकास में", "en": "Invention and development of various devices that measure the weather"}
           },
           {
-            "q": {"hi": "शादी का खाना कैसा था?", "en": "How was the wedding feast?"},
-            "options": [{"hi": "स्वादिष्ट", "en": "Delicious"}, {"hi": "खराब", "en": "Bad"}, {"hi": "ठंडा", "en": "Cold"}, {"hi": "कोई नहीं", "en": "None"}],
-            "answer": {"hi": "स्वादिष्ट", "en": "Delicious"}
+            "q": {
+              "hi": "प्रयोगशाला थर्मामीटर का उपयोग करते समय उसका बल्ब बर्तन के किस हिस्से को नहीं छूना चाहिए?",
+              "en": "While using a laboratory thermometer, what should the bulb NOT touch?"
+            },
+            "options": [
+              {"hi": "बर्तन का आधार या साइड्स (Base or sides of the beaker)", "en": "Base or sides of the beaker"},
+              {"hi": "केवल विलयन को", "en": "Only solution"},
+              {"hi": "केवल हवा को", "en": "Only air"},
+              {"hi": "स्टिरर को", "en": "Stirrer"}
+            ],
+            "answer": {"hi": "बर्तन का आधार या साइड्स (Base or sides of the beaker)", "en": "Base or sides of the beaker"}
           },
           {
-            "q": {"hi": "काबुलीवाला के पास क्या था?", "en": "What did Kabuliwala have?"},
-            "options": [{"hi": "फोटो", "en": "Photo"}, {"hi": "खिलौना", "en": "Toy"}, {"hi": "किताब", "en": "Book"}, {"hi": "पेन", "en": "Pen"}],
-            "answer": {"hi": "फोटो", "en": "Photo"}
+            "q": {
+              "hi": "प्रयोगशाला थर्मामीटर से पाठ्यांक (reading) कब लेना चाहिए?",
+              "en": "When should the temperature reading be taken using a laboratory thermometer?"
+            },
+            "options": [
+              {"hi": "जब थर्मामीटर अभी भी विलयन के अंदर हो", "en": "While the thermometer is still in the solution"},
+              {"hi": "विलयन से बाहर निकालने के बाद", "en": "After removing from the solution"},
+              {"hi": "थर्मामीटर ठंडा होने के बाद", "en": "After the thermometer cools down"},
+              {"hi": "कभी भी ले सकते हैं", "en": "Anytime"}
+            ],
+            "answer": {"hi": "जब थर्मामीटर अभी भी विलयन के अंदर हो", "en": "While the thermometer is still in the solution"}
           },
           {
-            "q": {"hi": "क्या मिनी अब भी बातूनी थी?", "en": "Was Mini still talkative?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
-            "answer": {"hi": "नहीं", "en": "No"}
+            "q": {
+              "hi": "पारे वाले थर्मामीटर को उपयोग करने से पहले पारे के स्तर को कहाँ से नीचे लाना आवश्यक होता है?",
+              "en": "Before using a mercury thermometer, the mercury level must be brought below what mark?"
+            },
+            "options": [
+              {"hi": "35°C", "en": "35°C"},
+              {"hi": "0°C", "en": "0°C"},
+              {"hi": "37°C", "en": "37°C"},
+              {"hi": "42°C", "en": "42°C"}
+            ],
+            "answer": {"hi": "35°C", "en": "35°C"}
           },
           {
-            "q": {"hi": "काबुलीवाला को क्या याद आया?", "en": "What did Kabuliwala remember?"},
-            "options": [{"hi": "अपनी बेटी", "en": "His daughter"}, {"hi": "घर", "en": "Home"}, {"hi": "रास्ता", "en": "Path"}, {"hi": "खाना", "en": "Food"}],
-            "answer": {"hi": "अपनी बेटी", "en": "His daughter"}
+            "q": {
+              "hi": "छोटे बच्चों या बुजुर्गों के शरीर का तापमान मापने के लिए डिजिटल थर्मामीटर को आमतौर पर कहाँ रखा जाता है?",
+              "en": "Where is a digital thermometer usually placed to measure body temperature in small children or elderly people?"
+            },
+            "options": [
+              {"hi": "कांख (Armpit) या जीभ के नीचे", "en": "Under the armpits or tongue"},
+              {"hi": "हाथ की हथेली पर", "en": "On the palm"},
+              {"hi": "माथे पर सीधे", "en": "Directly on forehead"},
+              {"hi": "पैर के तलवे पर", "en": "On foot"}
+            ],
+            "answer": {"hi": "कांख (Armpit) या जीभ के नीचे", "en": "Under the armpits or tongue"}
           },
           {
-            "q": {"hi": "क्या पिता को काबुलीवाला पर दया आई?", "en": "Did the father feel pity for Kabuliwala?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "कह नहीं सकते", "en": "Cannot say"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "कांख (armpit) में तापमान मापने पर यह वास्तविक शरीर के तापमान से कितना कम रिकॉर्ड हो सकता है?",
+              "en": "Measuring temperature in the armpit records a temperature how much lower than the actual body temperature?"
+            },
+            "options": [
+              {"hi": "लगभग 0.5°C से 1°C कम", "en": "About 0.5°C to 1°C lower"},
+              {"hi": "2°C से 3°C अधिक", "en": "2°C to 3°C higher"},
+              {"hi": "ठीक बराबर", "en": "Exactly equal"},
+              {"hi": "5°C कम", "en": "5°C lower"}
+            ],
+            "answer": {"hi": "लगभग 0.5°C से 1°C कम", "en": "About 0.5°C to 1°C lower"}
           },
           {
-            "q": {"hi": "काबुलीवाला का मुख्य गुण क्या था?", "en": "What was the main quality of Kabuliwala?"},
-            "options": [{"hi": "क्रोध", "en": "Anger"}, {"hi": "प्यार/सहानुभूति", "en": "Love/Empathy"}, {"hi": "लालच", "en": "Greed"}, {"hi": "डर", "en": "Fear"}],
-            "answer": {"hi": "प्यार/सहानुभूति", "en": "Love/Empathy"}
+            "q": {
+              "hi": "मानव शरीर में असामान्य तापमान की स्थिति कब मानी जाती है?",
+              "en": "When is abnormal human body temperature considered?"
+            },
+            "options": [
+              {"hi": "35°C से कम या 42°C से अधिक होने पर", "en": "Less than 35°C or greater than 42°C"},
+              {"hi": "37°C होने पर", "en": "At 37°C"},
+              {"hi": "98.6°F होने पर", "en": "At 98.6°F"},
+              {"hi": "36°C होने पर", "en": "At 36°C"}
+            ],
+            "answer": {"hi": "35°C से कम या 42°C से अधिक होने पर", "en": "Less than 35°C or greater than 42°C"}
           },
           {
-            "q": {"hi": "मिनी के विवाह का समय कैसा था?", "en": "How was the time of Mini's wedding?"},
-            "options": [{"hi": "उदास", "en": "Sad"}, {"hi": "खुशनुमा", "en": "Happy"}, {"hi": "अंधेरा", "en": "Dark"}, {"hi": "शोर", "en": "Noisy"}],
-            "answer": {"hi": "खुशनुमा", "en": "Happy"}
+            "q": {
+              "hi": "फारेनहाइट पैमाने पर दो निश्चित बिंदुओं (freezing and boiling points) के बीच की दूरी को कितने बराबर भागों में बांटा गया है?",
+              "en": "Into how many equal parts is the interval between the two fixed points divided on the Fahrenheit scale?"
+            },
+            "options": [
+              {"hi": "180 भाग", "en": "180 equal parts"},
+              {"hi": "100 भाग", "en": "100 equal parts"},
+              {"hi": "212 भाग", "en": "212 parts"},
+              {"hi": "32 भाग", "en": "32 parts"}
+            ],
+            "answer": {"hi": "180 भाग", "en": "180 equal parts"}
           },
           {
-            "q": {"hi": "क्या काबुलीवाला को मिनी की याद आती थी?", "en": "Did Kabuliwala miss Mini?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "सेल्सियस पैमाने पर दो निश्चित बिंदुओं के बीच के अंतराल को कितने बराबर भागों में बांटा गया है?",
+              "en": "Into how many equal parts is the interval between the two fixed points divided on the Celsius scale?"
+            },
+            "options": [
+              {"hi": "100 भाग", "en": "100 degrees / parts"},
+              {"hi": "180 भाग", "en": "180 parts"},
+              {"hi": "212 भाग", "en": "212 parts"},
+              {"hi": "50 भाग", "en": "50 parts"}
+            ],
+            "answer": {"hi": "100 भाग", "en": "100 degrees / parts"}
           },
           {
-            "q": {"hi": "लेखक ने अपनी बेटी के लिए क्या कामना की?", "en": "What did the author wish for his daughter?"},
-            "options": [{"hi": "खुशी", "en": "Happiness"}, {"hi": "पैसा", "en": "Money"}, {"hi": "पढ़ाई", "en": "Studies"}, {"hi": "कुछ नहीं", "en": "Nothing"}],
-            "answer": {"hi": "खुशी", "en": "Happiness"}
+            "q": {
+              "hi": "एंडर्स सेल्सियस द्वारा मूल रूप से इस पैमाने को क्या नाम दिया गया था जिसका लैटिन में अर्थ 'सौ चरण' होता है?",
+              "en": "What name did Anders Celsius originally give to his scale, meaning 'hundred steps' in Latin?"
+            },
+            "options": [
+              {"hi": "सेंटीग्रेड (Centigrade)", "en": "Centigrade"},
+              {"hi": "केल्विन", "en": "Kelvin"},
+              {"hi": "फारेनहाइट", "en": "Fahrenheit"},
+              {"hi": "थर्मामीटर", "en": "Thermometer"}
+            ],
+            "answer": {"hi": "सेंटीग्रेड (Centigrade)", "en": "Centigrade"}
           }
         ],
         "section5": [
           {
-            "q": {"hi": "लेखक ने उपन्यास का कौन सा अध्याय लिखा था?", "en": "Which chapter of the novel did the author write?"},
-            "options": [{"hi": "16वां", "en": "16th"}, {"hi": "17वां", "en": "17th"}, {"hi": "18वां", "en": "18th"}, {"hi": "19वां", "en": "19th"}],
-            "answer": {"hi": "17वां", "en": "17th"}
+            "q": {
+              "hi": "क्या केल्विन पैमाने पर कोई ऋणात्मक (negative) तापमान होता है?",
+              "en": "Is there any negative temperature on the Kelvin scale?"
+            },
+            "options": [
+              {"hi": "नहीं, क्योंकि इसका शून्य absolute zero (सबसे कम संभव तापमान) पर सेट होता है", "en": "No, because its zero is set to absolute zero"},
+              {"hi": "हाँ, होता है", "en": "Yes, it exists"},
+              {"hi": "केवल सर्दियों में होता है", "en": "Only in winters"},
+              {"hi": "कहा नहीं जा सकता", "en": "Cannot say"}
+            ],
+            "answer": {"hi": "नहीं, क्योंकि इसका शून्य absolute zero (सबसे कम संभव तापमान) पर सेट होता है", "en": "No, because its zero is set to absolute zero"}
           },
           {
-            "q": {"hi": "काबुलीवाला के सामान में क्या था?", "en": "What did the Kabuliwala have in his wares?"},
-            "options": [{"hi": "मेवे", "en": "Dry fruits"}, {"hi": "खिलौने", "en": "Toys"}, {"hi": "किताबें", "en": "Books"}, {"hi": "पेन", "en": "Pen"}],
-            "answer": {"hi": "मेवे", "en": "Dry fruits"}
+            "q": {
+              "hi": "यदि किसी वस्तु का तापमान 35°C है, तो केल्विन पैमाने पर इसका मान कितना होगा?",
+              "en": "If the temperature of an object is 35°C, what will be its value on the Kelvin scale?"
+            },
+            "options": [
+              {"hi": "308.15 K", "en": "308.15 K"},
+              {"hi": "273.15 K", "en": "273.15 K"},
+              {"hi": "318.15 K", "en": "318.15 K"},
+              {"hi": "35 K", "en": "35 K"}
+            ],
+            "answer": {"hi": "308.15 K", "en": "308.15 K"}
           },
           {
-            "q": {"hi": "क्या काबुलीवाला एक अच्छा इंसान था?", "en": "Was Kabuliwala a good person?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "पता नहीं", "en": "Don't know"}, {"hi": "शायद", "en": "Maybe"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "यदि तापमान 45°C है, तो फारेनहाइट पैमाने पर इसका मान कितना होगा?",
+              "en": "If the temperature is 45°C, what will be its value on the Fahrenheit scale?"
+            },
+            "options": [
+              {"hi": "113°F", "en": "113°F"},
+              {"hi": "74°F", "en": "74°F"},
+              {"hi": "98.6°F", "en": "98.6°F"},
+              {"hi": "212°F", "en": "212°F"}
+            ],
+            "answer": {"hi": "113°F", "en": "113°F"}
           },
           {
-            "q": {"hi": "मिनी के पिता क्या करते थे?", "en": "What did Mini's father do?"},
-            "options": [{"hi": "शिक्षक", "en": "Teacher"}, {"hi": "लेखक", "en": "Author"}, {"hi": "डॉक्टर", "en": "Doctor"}, {"hi": "इंजीनियर", "en": "Engineer"}],
-            "answer": {"hi": "लेखक", "en": "Author"}
+            "q": {
+              "hi": "यदि तापमान 74°F है, तो सेल्सियस पैमाने पर इसका मान लगभग कितना होगा?",
+              "en": "If the temperature is 74°F, what is its value on the Celsius scale approximately?"
+            },
+            "options": [
+              {"hi": "23.33°C", "en": "23.33°C"},
+              {"hi": "37°C", "en": "37°C"},
+              {"hi": "45°C", "en": "45°C"},
+              {"hi": "100°C", "en": "100°C"}
+            ],
+            "answer": {"hi": "23.33°C", "en": "23.33°C"}
           },
           {
-            "q": {"hi": "मिनी और काबुलीवाला की दोस्ती का क्या नाम दिया जा सकता है?", "en": "What name can be given to the friendship of Mini and Kabuliwala?"},
-            "options": [{"hi": "अनमोल (Precious)", "en": "Precious"}, {"hi": "साधारण", "en": "Simple"}, {"hi": "बोरियत", "en": "Boredom"}, {"hi": "लड़ाई", "en": "Fight"}],
-            "answer": {"hi": "अनमोल", "en": "Precious"}
+            "q": {
+              "hi": "यदि तापमान 370 K है, तो सेल्सियस पैमाने पर इसका मान कितना होगा?",
+              "en": "If the temperature is 370 K, what will be its value on the Celsius scale?"
+            },
+            "options": [
+              {"hi": "96.85°C", "en": "96.85°C"},
+              {"hi": "100°C", "en": "100°C"},
+              {"hi": "37°C", "en": "37°C"},
+              {"hi": "273.15°C", "en": "273.15°C"}
+            ],
+            "answer": {"hi": "96.85°C", "en": "96.85°C"}
           },
           {
-            "q": {"hi": "क्या मिनी ने काबुलीवाला को पहचाना?", "en": "Did Mini recognize the Kabuliwala?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "पता नहीं", "en": "Don't know"}],
-            "answer": {"hi": "नहीं", "en": "No"}
+            "q": {
+              "hi": "क्या हम केवल स्पर्श (sensory touch) करके किसी वस्तु का सटीक तापमान बता सकते हैं?",
+              "en": "Can we tell the exact temperature of an object just by sensory touch?"
+            },
+            "options": [
+              {"hi": "नहीं, स्पर्श भ्रामक हो सकता है, सटीक माप के लिए थर्मामीटर की आवश्यकता होती है", "en": "No, touch can be misleading; a thermometer is needed for exact measurement"},
+              {"hi": "हाँ, हमेशा सटीक बता सकते हैं", "en": "Yes, always exact"},
+              {"hi": "केवल ठंडी वस्तुओं का बता सकते हैं", "en": "Only for cold objects"},
+              {"hi": "केवल गर्म वस्तुओं का बता सकते हैं", "en": "Only for hot objects"}
+            ],
+            "answer": {"hi": "नहीं, स्पर्श भ्रामक हो सकता है, सटीक माप के लिए थर्मामीटर की आवश्यकता होती है", "en": "No, touch can be misleading; a thermometer is needed for exact measurement"}
           },
           {
-            "q": {"hi": "लेखक की बेटी के पिता ने क्या महसूस किया?", "en": "What did the father of Mini feel?"},
-            "options": [{"hi": "दुख", "en": "Sadness"}, {"hi": "खुशी", "en": "Happiness"}, {"hi": "डर", "en": "Fear"}, {"hi": "क्रोध", "en": "Anger"}],
-            "answer": {"hi": "दुख", "en": "Sadness"}
+            "q": {
+              "hi": "डिजिटल थर्मामीटर को साफ करने के लिए किसका उपयोग किया जाना चाहिए?",
+              "en": "What should be used to clean a digital thermometer before and after use?"
+            },
+            "options": [
+              {"hi": "एंटीसेप्टिक घोल (Antiseptic solution)", "en": "Antiseptic solution"},
+              {"hi": "साधारण तेल", "en": "Plain oil"},
+              {"hi": "गंदा पानी", "en": "Dirty water"},
+              {"hi": "एसिड", "en": "Acid"}
+            ],
+            "answer": {"hi": "एंटीसेप्टिक घोल (Antiseptic solution)", "en": "Antiseptic solution"}
           },
           {
-            "q": {"hi": "कहानी का सार क्या है?", "en": "What is the essence of the story?"},
-            "options": [{"hi": "पिता का प्रेम", "en": "Father's love"}, {"hi": "दोस्ती", "en": "Friendship"}, {"hi": "अजनबी से रिश्ता", "en": "Bond with a stranger"}, {"hi": "सभी", "en": "All"}],
-            "answer": {"hi": "सभी", "en": "All"}
+            "q": {
+              "hi": "डिजिटल थर्मामीटर को धोते समय किस बात का विशेष ध्यान रखना चाहिए?",
+              "en": "What should be taken care of while washing a digital thermometer?"
+            },
+            "options": [
+              {"hi": "पानी डिजिटल डिस्प्ले (screen) तक न पहुँचे", "en": "Water should not reach the digital display"},
+              {"hi": "इसे आग में उबालना चाहिए", "en": "It should be boiled in fire"},
+              {"hi": "इसे बल्ब से पकड़ना चाहिए", "en": "It should be held by bulb"},
+              {"hi": "इसे जोर से पटकना चाहिए", "en": "It should be banged hard"}
+            ],
+            "answer": {"hi": "पानी डिजिटल डिस्प्ले (screen) तक न पहुँचे", "en": "Water should not reach the digital display"}
           },
           {
-            "q": {"hi": "क्या लेखक काबुलीवाला के प्रति सहानुभूति रखते थे?", "en": "Did the author feel empathy for the Kabuliwala?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}, {"hi": "शायद", "en": "Maybe"}, {"hi": "कह नहीं सकते", "en": "Cannot say"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "थर्मामीटर को संभालते समय उसे कभी भी किस हिस्से से नहीं पकड़ना चाहिए?",
+              "en": "By which part should a thermometer never be held while handling?"
+            },
+            "options": [
+              {"hi": "बल्ब (Bulb) से", "en": "By the bulb"},
+              {"hi": "ऊपरी सिरे से", "en": "From upper end"},
+              {"hi": "बीच के हिस्से से", "en": "From middle part"},
+              {"hi": "प्लास्टिक केस से", "en": "From plastic case"}
+            ],
+            "answer": {"hi": "बल्ब (Bulb) से", "en": "By the bulb"}
           },
           {
-            "q": {"hi": "इस कहानी का शीर्षक क्या है?", "en": "What is the title of this story?"},
-            "options": [{"hi": "काबुलीवाला", "en": "Kabuliwala"}, {"hi": "मिनी", "en": "Mini"}, {"hi": "लेखक", "en": "Author"}, {"hi": "कोई नहीं", "en": "None"}],
-            "answer": {"hi": "काबुलीवाला", "en": "Kabuliwala"}
+            "q": {
+              "hi": "मौसम और जलवायु को समझने के लिए मुख्य रूप से किसका मापन किया जाता है?",
+              "en": "What is primarily measured to understand local weather and climate conditions?"
+            },
+            "options": [
+              {"hi": "वायु तापमान (Air temperature)", "en": "Air temperature"},
+              {"hi": "शरीर का तापमान", "en": "Body temperature"},
+              {"hi": "बर्फ का हिमांक", "en": "Freezing point of ice"},
+              {"hi": "थर्मामीटर की लंबाई", "en": "Length of thermometer"}
+            ],
+            "answer": {"hi": "वायु तापमान (Air temperature)", "en": "Air temperature"}
           }
         ]
       },
