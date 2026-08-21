@@ -5953,265 +5953,664 @@
           }
         ]
       },
-    "chapter10": {
-        "section1": [
+    "chapter10": {"section1": [
           {
-            "q": {"hi": "तानसेन की समाधि कहाँ स्थित है?", "en": "Where is the tomb of Tansen located?"},
-            "options": [{"hi": "आगरा", "en": "Agra"}, {"hi": "ग्वालियर", "en": "Gwalior"}, {"hi": "रेवा", "en": "Rewa"}, {"hi": "वृंदावन", "en": "Brindaban"}],
-            "answer": {"hi": "ग्वालियर", "en": "Gwalior"}
+            "q": {
+              "hi": "सभी सजीवों द्वारा जीवित रहने के लिए किए जाने वाले प्रक्रमों को क्या कहते हैं?",
+              "en": "What are the processes carried out by all living things to stay alive called?"
+            },
+            "options": [
+              {"hi": "जीवन प्रक्रम या लाइफ प्रोसेसेस (Life processes)", "en": "Life processes"},
+              {"hi": "रासायनिक क्रियाएं", "en": "Chemical reactions"},
+              {"hi": "भौतिक परिवर्तन", "en": "Physical changes"},
+              {"hi": "पाचन प्रक्रिया", "en": "Digestion process"}
+            ],
+            "answer": {"hi": "जीवन प्रक्रम या लाइफ प्रोसेसेस (Life processes)", "en": "Life processes"}
           },
           {
-            "q": {"hi": "तानसेन के बचपन का नाम क्या था?", "en": "What was Tansen's name in childhood?"},
-            "options": [{"hi": "तन्ना", "en": "Tanna"}, {"hi": "तानसेन", "en": "Tansen"}, {"hi": "मुकुंद", "en": "Mukand"}, {"hi": "मोहम्मद", "en": "Mohammed"}],
-            "answer": {"hi": "तानसेन", "en": "Tansen"}
+            "q": {
+              "hi": "सभी सजीवों की मूल इकाई (basic unit) क्या है?",
+              "en": "What is the basic unit of living things?"
+            },
+            "options": [
+              {"hi": "कोशिका या सेल (Cell)", "en": "Cell"},
+              {"hi": "ऊतक (Tissue)", "en": "Tissue"},
+              {"hi": "अंग (Organ)", "en": "Organ"},
+              {"hi": "परमाणु (Atom)", "en": "Atom"}
+            ],
+            "answer": {"hi": "कोशिका या सेल (Cell)", "en": "Cell"}
           },
           {
-            "q": {"hi": "तानसेन के पिता कौन थे?", "en": "Who was Tansen's father?"},
-            "options": [{"hi": "मोहम्मद गौस", "en": "Mohammad Ghaus"}, {"hi": "मुकुंद मिश्र", "en": "Mukand Mishra"}, {"hi": "हरिदास", "en": "Haridas"}, {"hi": "रामचंद्र", "en": "Ramchandra"}],
-            "answer": {"hi": "मुकुंद मिश्र", "en": "Mukand Mishra"}
+            "q": {
+              "hi": "समान संरचना और एक विशिष्ट कार्य करने वाली कोशिकाओं के समूह को क्या कहा जाता है?",
+              "en": "A group of cells which performs a specific function and has similar structure is called what?"
+            },
+            "options": [
+              {"hi": "ऊतक या टिशू (Tissue)", "en": "Tissue"},
+              {"hi": "अंग (Organ)", "en": "Organ"},
+              {"hi": "अंग तंत्र (Organ system)", "en": "Organ system"},
+              {"hi": "जीव (Organism)", "en": "Organism"}
+            ],
+            "answer": {"hi": "ऊतक या टिशू (Tissue)", "en": "Tissue"}
           },
           {
-            "q": {"hi": "तानसेन के पहले गुरु कौन थे?", "en": "Who was Tansen's first music teacher?"},
-            "options": [{"hi": "हरिदास", "en": "Haridas"}, {"hi": "मोहम्मद गौस", "en": "Mohammad Ghaus"}, {"hi": "मुकुंद मिश्र", "en": "Mukand Mishra"}, {"hi": "अकबर", "en": "Akbar"}],
-            "answer": {"hi": "हरिदास", "en": "Haridas"}
+            "q": {
+              "hi": "अमीबा, यीस्ट और बैक्टीरिया जैसे जीव कितने सेल (कोशिका) से बने होते हैं?",
+              "en": "Living things like amoeba, yeast and bacteria are made up of how many cells?"
+            },
+            "options": [
+              {"hi": "एक कोशिका (Single cell)", "en": "A single cell"},
+              {"hi": "दो कोशिकाएं", "en": "Two cells"},
+              {"hi": "अनेक कोशिकाएं", "en": "Multiple cells"},
+              {"hi": "कोशिका रहित", "en": "Cell-less"}
+            ],
+            "answer": {"hi": "एक कोशिका (Single cell)", "en": "A single cell"}
           },
           {
-            "q": {"hi": "तानसेन को जानवरों और पक्षियों की आवाज़ की नकल करने का अभ्यास कहाँ से मिला?", "en": "Where did Tansen practice imitating animal and bird sounds?"},
-            "options": [{"hi": "दरबार में", "en": "In court"}, {"hi": "जंगल में", "en": "In the forest"}, {"hi": "घर पर", "en": "At home"}, {"hi": "विद्यालय में", "en": "In school"}],
-            "answer": {"hi": "जंगल में", "en": "In the forest"}
+            "q": {
+              "hi": "एक से अधिक कोशिकाओं से बने जीवों को क्या कहा जाता है?",
+              "en": "Living things made up of multiple cells are called what?"
+            },
+            "options": [
+              {"hi": "बहुकोशिकीय जीव या मल्टीसेल्यूलर ऑर्गेनिズム (Multicellular organisms)", "en": "Multicellular organisms"},
+              {"hi": "एककोशिकीय जीव (Unicellular organisms)", "en": "Unicellular organisms"},
+              {"hi": "सूक्ष्मजीव (Microorganisms)", "en": "Microorganisms"},
+              {"hi": "अकोशिकीय जीव (Acellular organisms)", "en": "Acellular organisms"}
+            ],
+            "answer": {"hi": "बहुकोशिकीय जीव या मल्टीसेल्यूलर ऑर्गेनिズム (Multicellular organisms)", "en": "Multicellular organisms"}
           },
           {
-            "q": {"hi": "तानसेन ने कितने वर्षों तक हरिदास से संगीत सीखा?", "en": "For how many years did Tansen study music from Haridas?"},
-            "options": [{"hi": "पाँच वर्ष", "en": "Five years"}, {"hi": "दस वर्ष", "en": "Ten years"}, {"hi": "पंद्रह वर्ष", "en": "Fifteen years"}, {"hi": "बीस वर्ष", "en": "Twenty years"}],
-            "answer": {"hi": "दस वर्ष", "en": "Ten years"}
+            "q": {
+              "hi": "पौधे प्रकाश संश्लेषण (photosynthesis) द्वारा अपना भोजन स्वयं बनाते हैं, इस प्रक्रिया के लिए उन्हें किसकी आवश्यकता होती है?",
+              "en": "What do plants need to make their own food through photosynthesis?"
+            },
+            "options": [
+              {"hi": "सूर्य का प्रकाश, कार्बन डाइऑक्साइड, पानी और खनिज", "en": "Sunlight, carbon dioxide, water and minerals"},
+              {"hi": "केवल ऑक्सीजन", "en": "Only oxygen"},
+              {"hi": "केवल नाइट्रोजन", "en": "Only nitrogen"},
+              {"hi": "केवल मिट्टी", "en": "Only soil"}
+            ],
+            "answer": {"hi": "सूर्य का प्रकाश, कार्बन डाइऑक्साइड, पानी और खनिज", "en": "Sunlight, carbon dioxide, water and minerals"}
           },
           {
-            "q": {"hi": "तानसेन ने किनके साथ विवाह किया?", "en": "Whom did Tansen marry?"},
-            "options": [{"hi": "हुसैनी", "en": "Husani"}, {"hi": "मेहर", "en": "Mehar"}, {"hi": "ज़ैनाब", "en": "Zainab"}, {"hi": "लाता", "en": "Lata"}],
-            "answer": {"hi": "हुसैनी", "en": "Husani"}
+            "q": {
+              "hi": "भोजन से ऊर्जा मुक्त होने की प्रक्रिया को क्या कहते हैं?",
+              "en": "The process in which energy is released from food is called what?"
+            },
+            "options": [
+              {"hi": "श्वसन या रेस्पिरेशन (Respiration)", "en": "Respiration"},
+              {"hi": "प्रकाश संश्लेषण (Photosynthesis)", "en": "Photosynthesis"},
+              {"hi": "उत्सर्जन (Excretion)", "en": "Excretion"},
+              {"hi": "वाष्पोत्सर्जन (Transpiration)", "en": "Transpiration"}
+            ],
+            "answer": {"hi": "श्वसन या रेस्पिरेशन (Respiration)", "en": "Respiration"}
           },
           {
-            "q": {"hi": "तानसेन रेवा के राजा के दरबार में क्यों गए?", "en": "Why did Tansen go to the court of King Ramchandra of Rewa?"},
-            "options": [{"hi": "राजा के निमंत्रण पर", "en": "On King's invitation"}, {"hi": "हरिदास के कहने पर", "en": "On Haridas's advice"}, {"hi": "मोहम्मद गौस के कहने पर", "en": "On Mohammad Ghaus's advice"}, {"hi": "स्वयं की इच्छा से", "en": "On his own will"}],
-            "answer": {"hi": "राजा के निमंत्रण पर", "en": "On King's invitation"}
+            "q": {
+              "hi": "श्वसन प्रक्रिया के दौरान रासायनिक रूप से ऊर्जा किस छोटे पैकेट के रूप में मुक्त होती है?",
+              "en": "Energy is released chemically in the form of small packets called what?"
+            },
+            "options": [
+              {"hi": "एडेनोसिन ट्राइफॉस्फेट या एटीपी (ATP)", "en": "Adenosine triphosphate (ATP)"},
+              {"hi": "ग्लूकोज (Glucose)", "en": "Glucose"},
+              {"hi": "ऑक्सीजन (Oxygen)", "en": "Oxygen"},
+              {"hi": "कार्बोहाइड्रेट (Carbohydrate)", "en": "Carbohydrate"}
+            ],
+            "answer": {"hi": "एडेनोसिन ट्राइफॉस्फेट या एटीपी (ATP)", "en": "Adenosine triphosphate (ATP)"}
           },
           {
-            "q": {"hi": "सम्राट अकबर ने तानसेन को किसके दरबार से बुलाया?", "en": "From whose court did Emperor Akbar summon Tansen?"},
-            "options": [{"hi": "राजा रामचंद्र", "en": "King Ramchandra"}, {"hi": "ग्वालियर के शासक", "en": "Ruler of Gwalior"}, {"hi": "मोहम्मद गौस", "en": "Mohammad Ghaus"}, {"hi": "हरिदास", "en": "Haridas"}],
-            "answer": {"hi": "राजा रामचंद्र", "en": "King Ramchandra"}
+            "q": {
+              "hi": "केंचुए (earthworms) किस अंग या भाग से सांस लेते हैं?",
+              "en": "Through which part do earthworms breathe?"
+            },
+            "options": [
+              {"hi": "अपनी त्वचा (Skin) से", "en": "Through their skin"},
+              {"hi": "फेफड़ों से (Lungs)", "en": "Through lungs"},
+              {"hi": "गिल्स से (Gills)", "en": "Through gills"},
+              {"hi": "मुंह से (Mouth)", "en": "Through mouth"}
+            ],
+            "answer": {"hi": "अपनी त्वचा (Skin) से", "en": "Through their skin"}
           },
           {
-            "q": {"hi": "तानसेन को अकबर के दरबार में किस नाम से जाना गया?", "en": "What was Tansen's status in Akbar's court?"},
-            "options": [{"hi": "वज़ीर", "en": "Vazir"}, {"hi": "नवरत्न", "en": "Navratna"}, {"hi": "राजकवि", "en": "Royal poet"}, {"hi": "प्रधान", "en": "Chief"}],
-            "answer": {"hi": "नवरत्न", "en": "Navratna"}
+            "q": {
+              "hi": "मछलियाँ पानी में सांस लेने के लिए किस अंग का उपयोग करती हैं?",
+              "en": "Through which organ do fish take in oxygen dissolved in water?"
+            },
+            "options": [
+              {"hi": "गिल्स या क्लोम (Gills)", "en": "Gills"},
+              {"hi": "त्वचा (Skin)", "en": "Skin"},
+              {"hi": "फेफड़े (Lungs)", "en": "Lungs"},
+              {"hi": "मुंह (Mouth)", "en": "Mouth"}
+            ],
+            "answer": {"hi": "गिल्स या क्लोम (Gills)", "en": "Gills"}
           }
         ],
         "section2": [
           {
-            "q": {"hi": "तानसेन की समाधि के पास कौन सा पेड़ है?", "en": "Which tree stands next to Tansen's tomb?"},
-            "options": [{"hi": "पीपल", "en": "Peepal"}, {"hi": "बरगद", "en": "Banyan"}, {"hi": "इमली", "en": "Tamarind"}, {"hi": "आम", "en": "Mango"}],
-            "answer": {"hi": "इमली", "en": "Tamarind"}
+            "q": {
+              "hi": "पौधों में गैसों का आदान-प्रदान (exchange of gases) किसके माध्यम से होता है?",
+              "en": "In plants, small openings called what help in the exchange of gases?"
+            },
+            "options": [
+              {"hi": "रंध्र या स्टोमेटा (Stomata)", "en": "Stomata"},
+              {"hi": "जड़ें (Roots)", "en": "Roots"},
+              {"hi": "फूल (Flowers)", "en": "Flowers"},
+              {"hi": "बीजक (Seed coat)", "en": "Seed coat"}
+            ],
+            "answer": {"hi": "रंध्र या स्टोमेटा (Stomata)", "en": "Stomata"}
           },
           {
-            "q": {"hi": "तानसेन की मृत्यु के समय उनके पास कौन था?", "en": "Who was at Tansen's bedside when he died?"},
-            "options": [{"hi": "हरिदास", "en": "Haridas"}, {"hi": "अकबर", "en": "Akbar"}, {"hi": "हुसैनी", "en": "Husani"}, {"hi": "मोहम्मद गौस", "en": "Mohammad Ghaus"}],
-            "answer": {"hi": "अकबर", "en": "Akbar"}
+            "q": {
+              "hi": "स्टोमेटा (stomata) मुख्य रूप से पत्तियों में कहाँ उपस्थित होते हैं?",
+              "en": "Where are stomata present mostly on leaves?"
+            },
+            "options": [
+              {"hi": "पत्तियों की निचلی सतह पर (Underside of the leaves)", "en": "Underside of the leaves"},
+              {"hi": "पत्तियों के ऊपरी हिस्से पर", "en": "Upper side of the leaves"},
+              {"hi": "तने के बीच में", "en": "In the middle of the stem"},
+              {"hi": "जड़ों की टिप पर", "en": "At the root tip"}
+            ],
+            "answer": {"hi": "पत्तियों की निचली सतह पर (Underside of the leaves)", "en": "Underside of the leaves"}
           },
           {
-            "q": {"hi": "तानसेन के संगीत का जानवरों और पक्षियों पर क्या प्रभाव पड़ता था?", "en": "What effect did Tansen's music have on animals and birds?"},
-            "options": [{"hi": "वे भाग जाते थे", "en": "They ran away"}, {"hi": "वे सुनने के लिए एकत्र हो जाते थे", "en": "They would gather to hear him"}, {"hi": "वे डर जाते थे", "en": "They got scared"}, {"hi": "कोई प्रभाव नहीं", "en": "No effect"}],
-            "answer": {"hi": "वे सुनने के लिए एकत्र हो जाते थे", "en": "They would gather to hear him"}
+            "q": {
+              "hi": "जीवों द्वारा हानिकारक और अपशिष्ट उत्पादों को शरीर से बाहर निकालने की प्रक्रिया क्या कहलाती है?",
+              "en": "The process of removal of waste products by a living organism is called what?"
+            },
+            "options": [
+              {"hi": "उत्सर्जन या एक्सप्रेशन (Excretion)", "en": "Excretion"},
+              {"hi": "पोषण (Nutrition)", "en": "Nutrition"},
+              {"hi": "श्वसन (Respiration)", "en": "Respiration"},
+              {"hi": "प्रजनन (Reproduction)", "en": "Reproduction"}
+            ],
+            "answer": {"hi": "उत्सर्जन या एक्सप्रेशन (Excretion)", "en": "Excretion"}
           },
           {
-            "q": {"hi": "तानसेन ने कौन से मूल संगीत नोटों से शुरुआत की?", "en": "With which basic musical notes did Tansen start?"},
-            "options": [{"hi": "सा रे गा मा", "en": "Sa Re Ga Ma"}, {"hi": "ए बी सी डी", "en": "A B C D"}, {"hi": "सा रे गा पा धा नी सा", "en": "SA RE GA PA DHA NI SA"}, {"hi": "कोई नहीं", "en": "None"}],
-            "answer": {"hi": "सा रे गा पा धा नी सा", "en": "SA RE GA PA DHA NI SA"}
+            "q": {
+              "hi": "रबड़ के पौधे या मदार के पौधे की टहनी तोड़ने पर निकलने वाले गाढ़े सफेद तरल पदार्थ को क्या कहते हैं?",
+              "en": "What is the thick fluid that comes out when a twig of a rubber or madar plant is broken called?"
+            },
+            "options": [
+              {"hi": "लैटेक्स या लेटेक्स (Latex)", "en": "Latex"},
+              {"hi": "गोंद (Gum)", "en": "Gum"},
+              {"hi": "रेत (Sand)", "en": "Sand"},
+              {"hi": "ग्लूकोज (Glucose)", "en": "Glucose"}
+            ],
+            "answer": {"hi": "लैटेक्स या लेटेक्स (Latex)", "en": "Latex"}
           },
           {
-            "q": {"hi": "तानसेन की मृत्यु के बाद हर साल ग्वालियर में क्या आयोजित किया जाता है?", "en": "What is held every year in Gwalior after Tansen's death?"},
-            "options": [{"hi": "नाटक", "en": "Drama"}, {"hi": "संगीत महोत्सव", "en": "Music festival"}, {"hi": "नृत्य प्रतियोगिता", "en": "Dance competition"}, {"hi": "खेल कूद", "en": "Sports"}],
-            "answer": {"hi": "संगीत महोत्सव", "en": "Music festival"}
+            "q": {
+              "hi": "जीवधारियों द्वारा अपने ही जैसे नए जीवों को उत्पन्न करने की प्रक्रिया क्या कहलाती है?",
+              "en": "The process by which living things produce new organisms of their own kind is known as what?"
+            },
+            "options": [
+              {"hi": "प्रजनन या रिप्रोडक्शन (Reproduction)", "en": "Reproduction"},
+              {"hi": "वृद्धि (Growth)", "en": "Growth"},
+              {"hi": "उत्सर्जन (Excretion)", "en": "Excretion"},
+              {"hi": "अनुकूलन (Adaptation)", "en": "Adaptation"}
+            ],
+            "answer": {"hi": "प्रजनन या रिप्रोडक्शन (Reproduction)", "en": "Reproduction"}
           },
           {
-            "q": {"hi": "सम्राट अकबर ने तानसेन को क्या सम्मान दिया?", "en": "What highest honour did Akbar bestow on Tansen?"},
-            "options": [{"hi": "नवरत्न", "en": "Navratna"}, {"hi": "स्वर्ण पदक", "en": "Gold medal"}, {"hi": "साम्राज्य", "en": "Empire"}, {"hi": "पदवी", "en": "Title"}],
-            "answer": {"hi": "नवरत्न", "en": "Navratna"}
+            "q": {
+              "hi": "मेंहदी और गुलाब के पौधे आमतौर पर किस विधि द्वारा नए पौधे उत्पन्न करते हैं?",
+              "en": "How do henna and rose plants reproduce?"
+            },
+            "options": [
+              {"hi": "तना काटकर या स्टेम कटिंग (Stem cuttings)", "en": "Stem cuttings"},
+              {"hi": "बीजों द्वारा (Through seeds)", "en": "Through seeds"},
+              {"hi": "पत्तियों के माध्यम से", "en": "Through leaves"},
+              {"hi": "जड़ों द्वारा", "en": "Through roots"}
+            ],
+            "answer": {"hi": "तना काटकर या स्टेम कटिंग (Stem cuttings)", "en": "Stem cuttings"}
           },
           {
-            "q": {"hi": "तानसेन के संगीत को किस घराने के नाम से जाना जाता है?", "en": "What is the style of music created by Tansen known as?"},
-            "options": [{"hi": "आगरा घराना", "en": "Agra Gharana"}, {"hi": "ग्वालियर घराना", "en": "Gwalior Gharana"}, {"hi": "दिल्ली घराना", "en": "Delhi Gharana"}, {"hi": "लखनऊ घराना", "en": "Lucknow Gharana"}],
-            "answer": {"hi": "ग्वालियर घराना", "en": "Gwalior Gharana"}
+            "q": {
+              "hi": "ब्रायोफाइलम (Bryophyllum) पौधे में नए पौधे किस भाग से विकसित होते हैं?",
+              "en": "How does Bryophyllum reproduce?"
+            },
+            "options": [
+              {"hi": "पत्तियों पर मौजूद कलियों/आउटग्रोथ से (Outgrowths on its leaves)", "en": "Outgrowths on its leaves"},
+              {"hi": "तने के टुकड़ों से", "en": "Stem pieces"},
+              {"hi": "केवल बीजों से", "en": "Only through seeds"},
+              {"hi": "जड़ों से", "en": "Roots"}
+            ],
+            "answer": {"hi": "पत्तियों पर मौजूद कलियों/आउटग्रोथ से (Outgrowths on its leaves)", "en": "Outgrowths on its leaves"}
           },
           {
-            "q": {"hi": "राजा रामचंद्र अकबर के प्रति क्या महसूस करते थे?", "en": "What did King Ramchandra feel towards Akbar?"},
-            "options": [{"hi": "सम्मान", "en": "Respect"}, {"hi": "डर/अनिच्छा", "en": "Fear/Reluctance to displease him"}, {"hi": "दोस्ती", "en": "Friendship"}, {"hi": "नफरत", "en": "Hatred"}],
-            "answer": {"hi": "डर/अनिच्छा", "en": "Fear/Reluctance to displease him"}
+            "q": {
+              "hi": "वातावरण में होने वाला वह परिवर्तन जो किसी जीव में प्रतिक्रिया उत्पन्न करता है, क्या कहलाता है?",
+              "en": "Any change in the surroundings which produces a reaction in an organism is called what?"
+            },
+            "options": [
+              {"hi": "उद्दीपन या स्टिमुलस (Stimulus)", "en": "Stimulus"},
+              {"hi": "प्रतिक्रिया (Response)", "en": "Response"},
+              {"hi": "वृद्धि (Growth)", "en": "Growth"},
+              {"hi": "पोषण (Nutrition)", "en": "Nutrition"}
+            ],
+            "answer": {"hi": "उद्दीपन या स्टिमुलस (Stimulus)", "en": "Stimulus"}
           },
           {
-            "q": {"hi": "हुसैनी का क्या अर्थ बताया गया है?", "en": "What is the meaning given for Husani?"},
-            "options": [{"hi": "सबसे बुद्धिमान", "en": "The wisest"}, {"hi": "सुंदर (the beautiful one)", "en": "The beautiful one"}, {"hi": "सबसे अमीर", "en": "The richest"}, {"hi": "संगीतज्ञ", "en": "Musician"}],
-            "answer": {"hi": "सुंदर (the beautiful one)", "en": "The beautiful one"}
+            "q": {
+              "hi": "उद्दीपन (stimulus) के प्रति जीव की प्रतिक्रिया को क्या कहा जाता है?",
+              "en": "The organism's reaction to the stimulus is called what?"
+            },
+            "options": [
+              {"hi": "प्रतिसाद या रिस्पांस (Response)", "en": "Response"},
+              {"hi": "उद्दीपन (Stimulus)", "en": "Stimulus"},
+              {"hi": "उत्सर्जन (Excretion)", "en": "Excretion"},
+              {"hi": "श्वसन (Respiration)", "en": "Respiration"}
+            ],
+            "answer": {"hi": "प्रतिसाद या रिस्पांस (Response)", "en": "Response"}
           },
           {
-            "q": {"hi": "राजा रामचंद्र ने तानसेन को क्या उपहार दिए?", "en": "What gifts did King Ramchandra lavish on Tansen?"},
-            "options": [{"hi": "सोने के सिक्के", "en": "Gold coins"}, {"hi": "हाथी", "en": "Elephants"}, {"hi": "तलवारें", "en": "Swords"}, {"hi": "भूमि", "en": "Land"}],
-            "answer": {"hi": "सोने के सिक्के", "en": "Gold coins"}
+            "q": {
+              "hi": "छुईमुई (Touch-me-not / Mimosa pudica) के पौधे की पत्तियाँ छूने पर क्या करती हैं?",
+              "en": "What happens to the leaves of a touch-me-not plant when they are touched?"
+            },
+            "options": [
+              {"hi": "सिकुड़ या मुड़ जाती हैं (Fold)", "en": "They fold"},
+              {"hi": "खिल जाती हैं", "en": "They bloom"},
+              {"hi": "पीली हो जाती हैं", "en": "They turn yellow"},
+              {"hi": "नीचे गिर जाती हैं", "en": "They fall down"}
+            ],
+            "answer": {"hi": "सिकुड़ या मुड़ जाती हैं (Fold)", "en": "Fold"}
           }
         ],
         "section3": [
           {
-            "q": {"hi": "क्या तानसेन के पिता बहुत धनी थे?", "en": "Was Tansen's father very wealthy?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "नहीं", "en": "No"}
+            "q": {
+              "hi": "अनाजों और पौधों पर प्रयोग करने वाले किस भारतीय वैज्ञानिक ने 'क्रेस्कोग्राफ' (crescograph) यंत्र का आविष्कार किया था?",
+              "en": "Which Indian scientist invented the device 'crescograph' to observe plant responses?"
+            },
+            "options": [
+              {"hi": "जगदीश चंद्र बोस (Jagadish Chandra Bose)", "en": "Jagadish Chandra Bose"},
+              {"hi": "सी. वी. रमन (C. V. Raman)", "en": "C. V. Raman"},
+              {"hi": "होमी भाभा (Homi Bhabha)", "en": "Homi Bhabha"},
+              {"hi": "विक्रम साराभाई (Vikram Sarabhai)", "en": "Vikram Sarabhai"}
+            ],
+            "answer": {"hi": "जगदीश चंद्र बोस (Jagadish Chandra Bose)", "en": "Jagadish Chandra Bose"}
           },
           {
-            "q": {"hi": "क्या तानसेन एक महान संगीतकार थे?", "en": "Was Tansen a great musician?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "बीज के अंदर मौजूद उस नन्हे अविकसित पौधे को क्या कहते हैं जो नए पौधे को जन्म देता है?",
+              "en": "What is a tiny undeveloped plant inside the seed called?"
+            },
+            "options": [
+              {"hi": "भ्रूण या एम्ब्रियो (Embryo)", "en": "Embryo"},
+              {"hi": "बीज आवरण (Seed coat)", "en": "Seed coat"},
+              {"hi": "बीजपत्र (Cotyledon)", "en": "Cotyledon"},
+              {"hi": "जड़ (Root)", "en": "Root"}
+            ],
+            "answer": {"hi": "भ्रूण या एम्ब्रियो (Embryo)", "en": "Embryo"}
           },
           {
-            "q": {"hi": "क्या तानसेन केवल एक संगीतकार थे?", "en": "Was Tansen only a musician?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं, वे कवि भी थे", "en": "No, he was also a poet"}],
-            "answer": {"hi": "नहीं, वे कवि भी थे", "en": "No, he was also a poet"}
+            "q": {
+              "hi": "बीज के निष्क्रिय (dormant) भ्रूण के सक्रिय होकर नए पौधे में विकसित होने की प्रक्रिया क्या कहलाती है?",
+              "en": "The process by which the dormant seed becomes active and grows into a new plant is known as what?"
+            },
+            "options": [
+              {"hi": "बीज अंकुरण या जर्मिनेशन (Germination)", "en": "Germination"},
+              {"hi": "परागण (Pollination)", "en": "Pollination"},
+              {"hi": "वाष्पोत्सर्जन (Transpiration)", "en": "Transpiration"},
+              {"hi": "किण्वन (Fermentation)", "en": "Fermentation"}
+            ],
+            "answer": {"hi": "बीज अंकुरण या जर्मिनेशन (Germination)", "en": "Germination"}
           },
           {
-            "q": {"hi": "क्या तानसेन अपने गुरु हरिदास से अनुमति लेने गए थे?", "en": "Did Tansen seek permission from his guru Haridas?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "बीज के अंकुरण के लिए कौन सी प्रमुख परिस्थितियाँ आवश्यक होती हैं?",
+              "en": "What conditions are necessary for seed germination?"
+            },
+            "options": [
+              {"hi": "पानी, हवा (ऑक्सीजन), उचित तापमान और मिट्टी", "en": "Water, air, proper temperature and soil"},
+              {"hi": "केवल अंधकार", "en": "Only darkness"},
+              {"hi": "केवल अत्यधिक ठंड", "en": "Only extreme cold"},
+              {"hi": "केवल नमक", "en": "Only salt"}
+            ],
+            "answer": {"hi": "पानी, हवा (ऑक्सीजन), उचित तापमान और मिट्टी", "en": "Water, air, proper temperature and soil"}
           },
           {
-            "q": {"hi": "क्या तानसेन ने अपनी माँ की मृत्यु के बाद घर छोड़ा?", "en": "Did Tansen leave home after his mother's death?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "बीज अंकुरण के लिए आदर्श तापमान (ideal temperature) लगभग कितना माना जाता है?",
+              "en": "What is the ideal temperature range for the germination of seeds?"
+            },
+            "options": [
+              {"hi": "35°C से 40°C", "en": "35°C to 40°C"},
+              {"hi": "0°C से 5°C", "en": "0°C to 5°C"},
+              {"hi": "60°C से 70°C", "en": "60°C to 70°C"},
+              {"hi": "100°C से ऊपर", "en": "Above 100°C"}
+            ],
+            "answer": {"hi": "35°C से 40°C", "en": "35°C to 40°C"}
           },
           {
-            "q": {"hi": "क्या राग से मूड बदल सकता है?", "en": "Can a raga change the mood?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "निर्जिव वस्तुओं (non-living things) की मूल संरचनात्मक इकाई क्या होती है?",
+              "en": "What is the structural unit in the case of non-living things?"
+            },
+            "options": [
+              {"hi": "परमाणु या एटम (Atom)", "en": "Atom"},
+              {"hi": "कोशिका (Cell)", "en": "Cell"},
+              {"hi": "ऊतक (Tissue)", "en": "Tissue"},
+              {"hi": "अंग (Organ)", "en": "Organ"}
+            ],
+            "answer": {"hi": "परमाणु या एटम (Atom)", "en": "Atom"}
           },
           {
-            "q": {"hi": "क्या लता मंगेशकर को 'क्वीन ऑफ मेलोडी' कहा जाता है?", "en": "Is Lata Mangeshkar known as the Queen of Melody?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "सजीवों की वृद्धि (growth) किस प्रकार की होती है?",
+              "en": "How is the growth in living things characterized?"
+            },
+            "options": [
+              {"hi": "आंतरिक और अपरिवर्तनीय (Internal and irreversible)", "en": "Internal and irreversible"},
+              {"hi": "बाहरी और परिवर्तनीय", "en": "External and reversible"},
+              {"hi": "केवल अस्थायी", "en": "Only temporary"},
+              {"hi": "बिना किसी कारण के", "en": "Without any reason"}
+            ],
+            "answer": {"hi": "आंतरिक और अपरिवर्तनीय (Internal and irreversible)", "en": "Internal and irreversible"}
           },
           {
-            "q": {"hi": "क्या सम्राट अकबर तानसेन के संगीत से प्रभावित थे?", "en": "Was Emperor Akbar impressed by Tansen's music?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "मच्छर के जीवन चक्र (life cycle) में कुल कितनी अवस्थाएँ होती हैं?",
+              "en": "How many stages are there in a mosquito's life cycle?"
+            },
+            "options": [
+              {"hi": "चार अवस्थाएँ - अंडा, लार्वा, प्यूपा, वयस्क (Four stages)", "en": "Four stages: egg, larva, pupa and adult"},
+              {"hi": "दो अवस्थाएँ", "en": "Two stages"},
+              {"hi": "तीन अवस्थाएँ", "en": "Three stages"},
+              {"hi": "पाँच अवस्थाएँ", "en": "Five stages"}
+            ],
+            "answer": {"hi": "चार अवस्थाएँ - अंडा, लार्वा, प्यूपा, वयस्क (Four stages)", "en": "Four stages: egg, larva, pupa and adult"}
           },
           {
-            "q": {"hi": "क्या तानसेन को अकबर ने नवरत्नों में शामिल किया था?", "en": "Did Akbar include Tansen in his Navratnas?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "मादा मच्छर के काटने से कौन सी बीमारियाँ फैल सकती हैं?",
+              "en": "Female mosquitoes can spread which diseases?"
+            },
+            "options": [
+              {"hi": "मलेरिया, डेंगू और चिकनगुनिया (Malaria, dengue and chikungunya)", "en": "Malaria, dengue and chikungunya"},
+              {"hi": "केवल जुकाम", "en": "Only common cold"},
+              {"hi": "केवल टीबी", "en": "Only TB"},
+              {"hi": "कैंसर", "en": "Cancer"}
+            ],
+            "answer": {"hi": "मलेरिया, डेंगू और चिकनगुनिया (Malaria, dengue and chikungunya)", "en": "Malaria, dengue and chikungunya"}
           },
           {
-            "q": {"hi": "क्या तानसेन ने नए रागों की रचना की?", "en": "Did Tansen compose many new ragas?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "मेंढक के अंडों के क्लस्टर (गुच्छे) को क्या कहा जाता है?",
+              "en": "Clusters of frog eggs contained in a jelly-like substance are called what?"
+            },
+            "options": [
+              {"hi": "स्पॉन (Spawn)", "en": "Spawn"},
+              {"hi": "टैडपोल (Tadpole)", "en": "Tadpole"},
+              {"hi": "एम्ब्रियो (Embryo)", "en": "Embryo"},
+              {"hi": "लार्वा (Larva)", "en": "Larva"}
+            ],
+            "answer": {"hi": "स्पॉन (Spawn)", "en": "Spawn"}
           }
         ],
         "section4": [
           {
-            "q": {"hi": "मोहम्मद गौस ने मुकुंद मिश्र को क्या दिया?", "en": "What did Mohammad Ghaus give to Mukand Mishra?"},
-            "options": [{"hi": "पैसे", "en": "Money"}, {"hi": "पवित्र धागा", "en": "Holy thread"}, {"hi": "उपहार", "en": "Gift"}, {"hi": "किताब", "en": "Book"}],
-            "answer": {"hi": "पवित्र धागा", "en": "Holy thread"}
+            "q": {
+              "hi": "मेंढक के जीवन चक्र की प्रारंभिक अवस्था जो बिना पैरों और पूंछ के साथ होती है, क्या कहलाती है?",
+              "en": "In a frog's life cycle, the stage that initially has a tail and no legs is called what?"
+            },
+            "options": [
+              {"hi": "टैडपोल (Tadpole)", "en": "Tadpole"},
+              {"hi": "फ्रॉगलेट (Froglet)", "en": "Froglet"},
+              {"hi": "वयस्क मेंढक (Adult frog)", "en": "Adult frog"},
+              {"hi": "प्यूपा (Pupa)", "en": "Pupa"}
+            ],
+            "answer": {"hi": "टैडपोल (Tadpole)", "en": "Tadpole"}
           },
           {
-            "q": {"hi": "तानसेन ने जंगल में गायक समूह को क्या करके डराया?", "en": "How did Tansen scare the singers in the forest?"},
-            "options": [{"hi": "शेर की दहाड़", "en": "Roaring like a tiger"}, {"hi": "साँप बनकर", "en": "Hissing like a snake"}, {"hi": "हँसकर", "en": "Laughing"}, {"hi": "चिल्लाकर", "en": "Shouting"}],
-            "answer": {"hi": "शेर की दहाड़", "en": "Roaring like a tiger"}
+            "q": {
+              "hi": "मच्छर कहाँ अंडे देते हैं?",
+              "en": "Where do mosquitoes lay their eggs?"
+            },
+            "options": [
+              {"hi": "स्थिर या खड़े पानी में (Stagnant or standing water)", "en": "Stagnant or standing water"},
+              {"hi": "बहती हुई साफ नदी में", "en": "In flowing clean river"},
+              {"hi": "सूखी मिट्टी में", "en": "In dry soil"},
+              {"hi": "तेज धूप में", "en": "In bright sunlight"}
+            ],
+            "answer": {"hi": "स्थिर या खड़े पानी में (Stagnant or standing water)", "en": "Stagnant or standing water"}
           },
           {
-            "q": {"hi": "तानसेन को किस शहर में संगीत की शिक्षा के लिए भेजा गया?", "en": "To which city was Tansen sent for music study?"},
-            "options": [{"hi": "ग्वालियर", "en": "Gwalior"}, {"hi": "वृंदावन", "en": "Brindaban"}, {"hi": "आगरा", "en": "Agra"}, {"hi": "दिल्ली", "en": "Delhi"}],
-            "answer": {"hi": "वृंदावन", "en": "Brindaban"}
+            "q": {
+              "hi": "सजीवों और निर्जीवों के बीच मुख्य अंतर क्या है?",
+              "en": "What is the primary difference between living and non-living things?"
+            },
+            "options": [
+              {"hi": "सजीव जीवन प्रक्रम (जैसे पोषण, श्वसन, वृद्धि, प्रजनन) करते हैं, जबकि निर्जीव नहीं", "en": "Living things carry out life processes, whereas non-living things do not"},
+              {"hi": "निर्जीव चीजें सांस लेती हैं", "en": "Non-living things breathe"},
+              {"hi": "सजीवों में द्रव्यमान नहीं होता", "en": "Living things have no mass"},
+              {"hi": "निर्जीव चीजें भोजन करती हैं", "en": "Non-living things eat food"}
+            ],
+            "answer": {"hi": "सजीव जीवन प्रक्रम (जैसे पोषण, श्वसन, वृद्धि, प्रजनन) करते हैं, जबकि निर्जीव नहीं", "en": "Living things carry out life processes, whereas non-living things do not"}
           },
           {
-            "q": {"hi": "तानसेन की मृत्यु पर अकबर को कैसा महसूस हुआ?", "en": "How did Akbar feel at Tansen's death?"},
-            "options": [{"hi": "खुश", "en": "Happy"}, {"hi": "दुखी", "en": "Filled with great sorrow"}, {"hi": "शांत", "en": "Calm"}, {"hi": "सामान्य", "en": "Normal"}],
-            "answer": {"hi": "दुखी", "en": "Filled with great sorrow"}
+            "q": {
+              "hi": "सजीवों और निर्जीवों में क्या समानता (similarity) पाई जाती है?",
+              "en": "What similarity is found between living and non-living things?"
+            },
+            "options": [
+              {"hi": "दोनों पदार्थ से बने हैं, द्रव्यमान रखते हैं और स्थान घेरते हैं", "en": "Both are composed of matter, have mass, and occupy space"},
+              {"hi": "दोनों भोजन करते हैं", "en": "Both consume food"},
+              {"hi": "दोनों बच्चे पैदा करते हैं", "en": "Both reproduce"},
+              {"hi": "दोनों में कोशिकाएँ होती हैं", "en": "Both have cells"}
+            ],
+            "answer": {"hi": "दोनों पदार्थ से बने हैं, द्रव्यमान रखते हैं और स्थान घेरते हैं", "en": "Both are composed of matter, have mass, and occupy space"}
           },
           {
-            "q": {"hi": "तानसेन सुबह-सुबह कौन सा राग गाते थे?", "en": "Which ragas did Tansen sing in the morning to awaken the Emperor?"},
-            "options": [{"hi": "विशेष राग", "en": "Special ragas"}, {"hi": "साधारण गीत", "en": "Ordinary songs"}, {"hi": "लोरी", "en": "Lullaby"}, {"hi": "कुछ नहीं", "en": "None"}],
-            "answer": {"hi": "विशेष राग", "en": "Special ragas"}
+            "q": {
+              "hi": "बीज के बाहरी आवरण को क्या कहा जाता है?",
+              "en": "What is the outer covering of a seed called?"
+            },
+            "options": [
+              {"hi": "बीज आवरण या सीड कोट (Seed coat)", "en": "Seed coat"},
+              {"hi": "भ्रूण (Embryo)", "en": "Embryo"},
+              {"hi": "बीजपत्र (Cotyledon)", "en": "Cotyledon"},
+              {"hi": "पत्ती (Leaf)", "en": "Leaf"}
+            ],
+            "answer": {"hi": "बीज आवरण या सीड कोट (Seed coat)", "en": "Seed coat"}
           },
           {
-            "q": {"hi": "तानसेन के गुरु हरिदास ने उन्हें क्या कहा?", "en": "What did Haridas say to Tansen about leaving?"},
-            "options": [{"hi": "मत जाओ", "en": "Don't go"}, {"hi": "तुम हमेशा स्वागत योग्य हो", "en": "You are always welcome"}, {"hi": "मुझे भूल जाओ", "en": "Forget me"}, {"hi": "तुम आज़ाद हो", "en": "You are free"}],
-            "answer": {"hi": "तुम हमेशा स्वागत योग्य हो", "en": "You are always welcome"}
+            "q": {
+              "hi": "जब पौधे को एक तरफ से प्रकाश मिलता है, तो उसका तना (shoot) किस दिशा में बढ़ता है?",
+              "en": "If light comes from one side of a plant, how does the shoot grow?"
+            },
+            "options": [
+              {"hi": "प्रकाश के स्रोत की ओर (Towards the source of light)", "en": "Towards the source of light"},
+              {"hi": "प्रकाश से विपरीत दिशा में", "en": "Away from light"},
+              {"hi": "केवल नीचे की ओर", "en": "Only downward"},
+              {"hi": "बढ़ना बंद कर देता है", "en": "Stops growing"}
+            ],
+            "answer": {"hi": "प्रकाश के स्रोत की ओर (Towards the source of light)", "en": "Towards the source of light"}
           },
           {
-            "q": {"hi": "क्या संगीत से किसी को खुशी मिल सकती है?", "en": "Can music bring happiness?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "जन्म से लेकर मृत्यु तक के सभी जीवन कार्यक्रमों की श्रृंखला को क्या कहा जाता है?",
+              "en": "A series of life events that begin with birth and end at death in all living organisms is called what?"
+            },
+            "options": [
+              {"hi": "जीवन चक्र या लाइफ साइकिल (Life cycle)", "en": "Life cycle"},
+              {"hi": "खाद्य श्रृंखला (Food chain)", "en": "Food chain"},
+              {"hi": "पारिस्थितिकी तंत्र (Ecosystem)", "en": "Ecosystem"},
+              {"hi": "ऊर्जा प्रवाह (Energy flow)", "en": "Energy flow"}
+            ],
+            "answer": {"hi": "जीवन चक्र या लाइफ साइकिल (Life cycle)", "en": "Life cycle"}
           },
           {
-            "q": {"hi": "तानसेन की पहली गुरु के प्रति क्या भावना थी?", "en": "What were Tansen's feelings towards his first guru?"},
-            "options": [{"hi": "नफरत", "en": "Hatred"}, {"hi": "सम्मान", "en": "Respect"}, {"hi": "उदासीनता", "en": "Indifference"}, {"hi": "क्रोध", "en": "Anger"}],
-            "answer": {"hi": "सम्मान", "en": "Respect"}
+            "q": {
+              "hi": "क्या पौधे भी साँस (respiration) लेते हैं?",
+              "en": "Do plants undergo respiration?"
+            },
+            "options": [
+              {"hi": "हाँ, पौधे भी श्वसन करते हैं (True)", "en": "True"},
+              {"hi": "नहीं, पौधे सांस नहीं लेते (False)", "en": "False"},
+              {"hi": "केवल रात में सांस लेते हैं", "en": "Only breathe at night"},
+              {"hi": "केवल मृत पौधे सांस लेते हैं", "en": "Only dead plants breathe"}
+            ],
+            "answer": {"hi": "हाँ, पौधे भी श्वसन करते हैं (True)", "en": "True"}
           },
           {
-            "q": {"hi": "क्या सफलता के लिए नियमित अभ्यास की आवश्यकता है?", "en": "Is regular practice necessary for success?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "क्या निर्जीव वस्तुएँ गति (movement) कर सकती हैं?",
+              "en": "Can non-living things move on their own?"
+            },
+            "options": [
+              {"hi": "नहीं, वे अपने आप गति नहीं करते (False)", "en": "False"},
+              {"hi": "हाँ, वे दौड़ सकते हैं", "en": "Yes, they can run"},
+              {"hi": "वे सजीवों की तरह चल सकते हैं", "en": "They walk like living things"},
+              {"hi": "केवल कुछ निर्जीव चीजें चलती हैं", "en": "Only some non-living things move"}
+            ],
+            "answer": {"hi": "नहीं, वे अपने आप गति नहीं करते (False)", "en": "False"}
           },
           {
-            "q": {"hi": "तानसेन को किसके दरबार में जाने का निमंत्रण मिला?", "en": "Whose court invited Tansen?"},
-            "options": [{"hi": "राजा रामचंद्र", "en": "King Ramchandra"}, {"hi": "अकबर", "en": "Akbar"}, {"hi": "मोहम्मद गौस", "en": "Mohammad Ghaus"}],
-            "answer": {"hi": "राजा रामचंद्र", "en": "King Ramchandra"}
+            "q": {
+              "hi": "माइक्रोस्कोप (सूक्ष्मदर्शी) की आवश्यकता किसे देखने के लिए होती है?",
+              "en": "A microscope is required to observe what?"
+            },
+            "options": [
+              {"hi": "कोशिका या सूक्ष्मजीवों को (A cell or microorganisms)", "en": "A cell or microorganisms"},
+              {"hi": "बड़े पेड़ों को", "en": "Large trees"},
+              {"hi": "पहाड़ों को", "en": "Mountains"},
+              {"hi": "आसमान के बादलों को", "en": "Clouds in the sky"}
+            ],
+            "answer": {"hi": "कोशिका या सूक्ष्मजीवों को (A cell or microorganisms)", "en": "A cell or microorganisms"}
           }
         ],
         "section5": [
           {
-            "q": {"hi": "तानसेन किस शहर के निवासी थे?", "en": "Which town was Tansen associated with?"},
-            "options": [{"hi": "ग्वालियर", "en": "Gwalior"}, {"hi": "आगरा", "en": "Agra"}, {"hi": "वृंदावन", "en": "Brindaban"}],
-            "answer": {"hi": "ग्वालियर", "en": "Gwalior"}
+            "q": {
+              "hi": "क्या सभी सजीवों को जीवित रहने के लिए भोजन (nutrition) की आवश्यकता होती है?",
+              "en": "Do all living things require food to survive?"
+            },
+            "options": [
+              {"hi": "सत्य (True)", "en": "True"},
+              {"hi": "असत्य (False)", "en": "False"},
+              {"hi": "केवल जंतुओं को आवश्यकता होती है", "en": "Only animals need it"},
+              {"hi": "केवल पौधों को आवश्यकता होती है", "en": "Only plants need it"}
+            ],
+            "answer": {"hi": "सत्य (True)", "en": "True"}
           },
           {
-            "q": {"hi": "क्या तानसेन ने अपनी माँ की देखभाल की?", "en": "Did Tansen look after his mother?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "क्या पौधे अपने लिए भोजन स्वयं बना सकते हैं?",
+              "en": "Can plants make their own food?"
+            },
+            "options": [
+              {"hi": "सत्य, प्रकाश संश्लेषण द्वारा (True)", "en": "True"},
+              {"hi": "असत्य, वे दूसरों पर निर्भर हैं (False)", "en": "False"},
+              {"hi": "वे कभी भोजन नहीं बनाते", "en": "They never make food"},
+              {"hi": "वे केवल पानी पीते हैं", "en": "They only drink water"}
+            ],
+            "answer": {"hi": "सत्य, प्रकाश संश्लेषण द्वारा (True)", "en": "True"}
           },
           {
-            "q": {"hi": "क्या तानसेन का संगीत समय के साथ जीवित रहा?", "en": "Did Tansen's music live on through time?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "क्या वृद्धि (growth) सजीवों में एक आंतरिक और अपरिवर्तनीय प्रक्रिया है?",
+              "en": "Is growth in living things an internal and irreversible process?"
+            },
+            "options": [
+              {"hi": "सत्य (True)", "en": "True"},
+              {"hi": "असत्य (False)", "en": "False"},
+              {"hi": "यह बाहरी और reversible होती है", "en": "It is external and reversible"},
+              {"hi": "यह केवल निर्जीवों में होती है", "en": "It occurs only in non-living things"}
+            ],
+            "answer": {"hi": "सत्य (True)", "en": "True"}
           },
           {
-            "q": {"hi": "क्या चुनौतीपूर्ण स्थितियाँ सफलता में मदद करती हैं?", "en": "Do challenging circumstances help in success?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "क्या निर्जीव वस्तुओं में कोशिका संगठन (cellular organisation) पाया जाता है?",
+              "en": "Are cells present in non-living things?"
+            },
+            "options": [
+              {"hi": "असत्य, कोशिकाओं का अभाव होता है (False)", "en": "False"},
+              {"hi": "सत्य, उनमें कोशिकाएँ होती हैं (True)", "en": "True"},
+              {"hi": "केवल कुछ निर्जीवों में कोशिकाएँ होती हैं", "en": "Only some non-living things have cells"},
+              {"hi": "कहा नहीं जा सकता", "en": "Cannot say"}
+            ],
+            "answer": {"hi": "असत्य, कोशिकाओं का अभाव होता है (False)", "en": "False"}
           },
           {
-            "q": {"hi": "संगीतकार किसके स्टाइल का अनुसरण करते हैं?", "en": "Whose musical style do musicians follow?"},
-            "options": [{"hi": "अकबर", "en": "Akbar"}, {"hi": "तानसेन", "en": "Tansen"}, {"hi": "हरिदास", "en": "Haridas"}],
-            "answer": {"hi": "तानसेन", "en": "Tansen"}
+            "q": {
+              "hi": "क्या प्रजनन (reproduction) पृथ्वी पर जीवन की निरंतरता के लिए आवश्यक है?",
+              "en": "Is reproduction necessary for the continuation of life on earth?"
+            },
+            "options": [
+              {"hi": "सत्य (True)", "en": "True"},
+              {"hi": "असत्य (False)", "en": "False"},
+              {"hi": "यह केवल पौधों के लिए आवश्यक है", "en": "Necessary only for plants"},
+              {"hi": "इसका जीवन से कोई संबंध नहीं है", "en": "Has no relation to life"}
+            ],
+            "answer": {"hi": "सत्य (True)", "en": "True"}
           },
           {
-            "q": {"hi": "अकबर ने तानसेन को क्यों बुलाया?", "en": "Why did Akbar call Tansen?"},
-            "options": [{"hi": "उसकी प्रशंसा सुनकर", "en": "After hearing his praise"}, {"hi": "राजा रामचंद्र के कहने पर", "en": "On Ramchandra's advice"}, {"hi": "अपनी इच्छा से", "en": "On his own will"}],
-            "answer": {"hi": "After hearing his praise", "en": "After hearing his praise"}
+            "q": {
+              "hi": "क्या सूखी अवस्था वाले सूखे बीज (dry seeds) अंकुरण से पहले जीवित प्राणी की तरह सक्रिय गतिविधि दिखाते हैं?",
+              "en": "Do dry seeds show active characteristics of living things before germination?"
+            },
+            "options": [
+              {"hi": "नहीं, वे निष्क्रिय (dormant) अवस्था में होते हैं", "en": "No, they remain dormant"},
+              {"hi": "हाँ, वे दौड़ते हैं", "en": "Yes, they run"},
+              {"hi": "हाँ, वे तुरंत पौधे बन जाते हैं", "en": "Yes, they turn into plants instantly"},
+              {"hi": "वे सांस लेते रहते हैं", "en": "They keep breathing actively"}
+            ],
+            "answer": {"hi": "नहीं, वे निष्क्रिय (dormant) अवस्था में होते हैं", "en": "No, they remain dormant"}
           },
           {
-            "q": {"hi": "क्या तानसेन अपनी संगीत प्रतिभा के लिए प्रसिद्ध थे?", "en": "Was Tansen famous for his musical talent?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "श्वसन के दौरान भोजन (ग्लूकोज) किसके साथ प्रतिक्रिया करके ऊर्जा मुक्त करता है?",
+              "en": "During respiration, food reacts with what to release energy?"
+            },
+            "options": [
+              {"hi": "ऑक्सीजन (Oxygen)", "en": "Oxygen"},
+              {"hi": "कार्बन डाइऑक्साइड", "en": "Carbon dioxide"},
+              {"hi": "नाइट्रोजन", "en": "Nitrogen"},
+              {"hi": "हाइड्रोजन", "en": "Hydrogen"}
+            ],
+            "answer": {"hi": "ऑक्सीजन (Oxygen)", "en": "Oxygen"}
           },
           {
-            "q": {"hi": "तानसेन की विरासत को आगे कौन बढ़ाता है?", "en": "Who carries forward Tansen's legacy?"},
-            "options": [{"hi": "संगीतकार", "en": "Musicians"}, {"hi": "दरबारी", "en": "Courtiers"}, {"hi": "कोई नहीं", "en": "None"}],
-            "answer": {"hi": "संगीतकार", "en": "Musicians"}
+            "q": {
+              "hi": "पौधों की जड़ें सामान्यतः किस दिशा में बढ़ती हैं?",
+              "en": "In what direction do plant roots generally grow?"
+            },
+            "options": [
+              {"hi": "नीचे की ओर मिट्टी में (Downwards in the soil)", "en": "Downwards in the soil"},
+              {"hi": "सूरज की रोशनी की ओर ऊपर", "en": "Upwards towards sunlight"},
+              {"hi": "हवा में क्षैतिज रूप से", "en": "Horizontally in air"},
+              {"hi": "किसी भी दिशा में नहीं", "en": "In no direction"}
+            ],
+            "answer": {"hi": "नीचे की ओर मिट्टी में (Downwards in the soil)", "en": "Downwards in the soil"}
           },
           {
-            "q": {"hi": "क्या संगीत मूड (mood) बदलने की शक्ति रखता है?", "en": "Does music have the power to change the mood?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "सांस लेने (breathing) की प्रक्रिया में मुख्य रूप से क्या शामिल होता है?",
+              "en": "What does the process of breathing involve?"
+            },
+            "options": [
+              {"hi": "जीव और वातावरण के बीच गैसों (ऑक्सीजन और कार्बन डाइऑक्साइड) का आदान-प्रदान", "en": "Exchange of gases between an organism and the atmosphere"},
+              {"hi": "केवल खाना पकाना", "en": "Only cooking food"},
+              {"hi": "भोजन का पाचन", "en": "Digestion of food"},
+              {"hi": "रक्त का निर्माण", "en": "Formation of blood"}
+            ],
+            "answer": {"hi": "जीव और वातावरण के बीच गैसों (ऑक्सीजन और कार्बन डाइऑक्साइड) का आदान-प्रदान", "en": "Exchange of gases between an organism and the atmosphere"}
           },
           {
-            "q": {"hi": "क्या तानसेन ने अपनी मेहनत से नाम कमाया?", "en": "Did Tansen earn fame through his hard work?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "पेड़-पौधे अपने शरीर से अपशिष्ट पदार्थों का निष्कासन किस रूप में करते हैं?",
+              "en": "How do plants remove or excrete waste products?"
+            },
+            "options": [
+              {"hi": "कार्बन डाइऑक्साइड, जल वाष्प, गोंद और लेटेक्स के रूप में", "en": "In the form of carbon dioxide, water vapour, gum and latex"},
+              {"hi": "पसीने और मूत्र के रूप में", "en": "As sweat and urine"},
+              {"hi": "मल के रूप में", "en": "As faeces"},
+              {"hi": "वे कोई अपशिष्ट नहीं निकालते", "en": "They do not produce wastes"}
+            ],
+            "answer": {"hi": "कार्बन डाइऑक्साइड, जल वाष्प, गोंद और लेटेक्स के रूप में", "en": "In the form of carbon dioxide, water vapour, gum and latex"}
           }
         ]
       }
