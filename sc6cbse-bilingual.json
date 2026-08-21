@@ -5291,265 +5291,665 @@
           }
         ]
       },
-       "chapter09": {
-        "section1": [
+       "chapter09": {"section1": [
           {
-            "q": {"hi": "राहुल अपना अधिकतर समय किसके साथ बिताता था?", "en": "With whom did Rahul spend most of his day?"},
-            "options": [{"hi": "अपनी दादी", "en": "His grandmother"}, {"hi": "अपने दोस्तों", "en": "His friends"}, {"hi": "शिक्षक", "en": "Teacher"}, {"hi": "पालतू जानवर", "en": "Pet"}],
-            "answer": {"hi": "अपनी दादी", "en": "His grandmother"}
+            "q": {
+              "hi": "अशुद्ध पदार्थों को अन्य किस नाम से जाना जाता है?",
+              "en": "What are impure substances also called?"
+            },
+            "options": [
+              {"hi": "मिश्रण (Mixtures)", "en": "Mixtures"},
+              {"hi": "शुद्ध तत्व", "en": "Pure elements"},
+              {"hi": "यौगिक", "en": "Compounds"},
+              {"hi": "विलयन", "en": "Solution"}
+            ],
+            "answer": {"hi": "मिश्रण (Mixtures)", "en": "Mixtures"}
           },
           {
-            "q": {"hi": "सुनील ने राहुल को क्या जीतने के बारे में बताया?", "en": "What did Sunil tell Rahul he won?"},
-            "options": [{"hi": "क्रिकेट बैट", "en": "Cricket bat"}, {"hi": "टेनिस बॉल", "en": "Tennis ball"}, {"hi": "मेडल", "en": "Medal"}, {"hi": "खिलौना", "en": "Toy"}],
-            "answer": {"hi": "टेनिस बॉल", "en": "Tennis ball"}
+            "q": {
+              "hi": "कच्चे तेल (crude oil) से किन उपयोगी घटकों को अलग किया जाता है?",
+              "en": "Which useful components are separated from crude oil?"
+            },
+            "options": [
+              {"hi": "पेट्रोल, डीजल और केरोसिन", "en": "Petrol, diesel and kerosene"},
+              {"hi": "केवल पानी", "en": "Only water"},
+              {"hi": "दूध और मक्खन", "en": "Milk and butter"},
+              {"hi": "नमक और चीनी", "en": "Salt and sugar"}
+            ],
+            "answer": {"hi": "पेट्रोल, डीजल और केरोसिन", "en": "Petrol, diesel and kerosene"}
           },
           {
-            "q": {"hi": "राहुल ने सुनील के घर जाकर कौन सा खेल खेलने का निर्णय लिया?", "en": "Which game did Rahul decide to play at Sunil's house?"},
-            "options": [{"hi": "क्रिकेट", "en": "Cricket"}, {"hi": "मोनोपॉली", "en": "Monopoly"}, {"hi": "लुडो", "en": "Ludo"}, {"hi": "फुटबॉल", "en": "Football"}],
-            "answer": {"hi": "मोनोपॉली", "en": "Monopoly"}
+            "q": {
+              "hi": "किस प्रकार के मिश्रण में घटक पूरे मिश्रण में समान रूप से फैले होते हैं?",
+              "en": "In what type of mixture are the constituents uniformly spread throughout?"
+            },
+            "options": [
+              {"hi": "समांगी मिश्रण (Homogeneous mixture)", "en": "Homogeneous mixture"},
+              {"hi": "विषमांगी मिश्रण (Heterogeneous mixture)", "en": "Heterogeneous mixture"},
+              {"hi": "अमिश्रणीय मिश्रण", "en": "Immiscible mixture"},
+              {"hi": "खुरदरा मिश्रण", "en": "Rough mixture"}
+            ],
+            "answer": {"hi": "समांगी मिश्रण (Homogeneous mixture)", "en": "Homogeneous mixture"}
           },
           {
-            "q": {"hi": "सुनील के घर के दरवाजे के पीछे कौन थे?", "en": "Who were behind the closed door at Sunil's house?"},
-            "options": [{"hi": "उसके दोस्त", "en": "His friends"}, {"hi": "डाकू", "en": "Robbers"}, {"hi": "पुलिस", "en": "Police"}, {"hi": "पड़ोसी", "en": "Neighbours"}],
-            "answer": {"hi": "डाकू", "en": "Robbers"}
+            "q": {
+              "hi": "लोहे के बुरादे और सल्फर के मिश्रण को किस आधार पर अलग किया जा सकता है?",
+              "en": "On the basis of which property can a mixture of iron filings and sulphur be separated?"
+            },
+            "options": [
+              {"hi": "चुंबकीय प्रकृति (Magnetic nature)", "en": "Magnetic nature"},
+              {"hi": "रंग (Colour)", "en": "Colour"},
+              {"hi": "घुलनशीलता (Solubility)", "en": "Solubility"},
+              {"hi": "कठोरता (Hardness)", "en": "Hardness"}
+            ],
+            "answer": {"hi": "चुंबकीय प्रकृति (Magnetic nature)", "en": "Magnetic nature"}
           },
           {
-            "q": {"hi": "सुनील और उसकी दादी को किसने बंधक बनाया था?", "en": "Who held Sunil and his grandmother captive?"},
-            "options": [{"hi": "राहुल", "en": "Rahul"}, {"hi": "डाकू", "en": "Robbers"}, {"hi": "अजनबी", "en": "Strangers"}, {"hi": "कोई नहीं", "en": "None"}],
-            "answer": {"hi": "डाकू", "en": "Robbers"}
+            "q": {
+              "hi": "चावल और दालों में से अवांछित पत्थरों और कीड़ों को हाथ से अलग करने की विधि क्या कहलाती है?",
+              "en": "What is the method of separating undesirable solid substances from useful solids by hand called?"
+            },
+            "options": [
+              {"hi": "हैंडपिकिंग या बीनना (Handpicking)", "en": "Handpicking"},
+              {"hi": "चालना या सीविंग (Sieving)", "en": "Sieving"},
+              {"hi": "थ्रेशिंग (Threshing)", "en": "Threshing"},
+              {"hi": "विनोइंग (Winnowing)", "en": "Winnowing"}
+            ],
+            "answer": {"hi": "हैंडपिकिंग या बीनना (Handpicking)", "en": "Handpicking"}
           },
           {
-            "q": {"hi": "राहुल ने पुलिस सहायता बूथ पर क्या देखा जो उसने उठाया?", "en": "What did Rahul notice at the counter of the police booth?"},
-            "options": [{"hi": "चाबी", "en": "Key"}, {"hi": "घड़ी", "en": "Watch"}, {"hi": "पेन", "en": "Pen"}, {"hi": "डायरी", "en": "Diary"}],
-            "answer": {"hi": "घड़ी", "en": "Watch"}
+            "q": {
+              "hi": "बारीक कणों को बड़े कणों से अलग करने के लिए किसका उपयोग किया जाता है?",
+              "en": "Which device is used to separate finer particles from bigger components?"
+            },
+            "options": [
+              {"hi": "छलनी या सीव (Sieve)", "en": "Sieve"},
+              {"hi": "थर्मामीटर", "en": "Thermometer"},
+              {"hi": "चुंबक", "en": "Magnet"},
+              {"hi": "फनल", "en": "Funnel"}
+            ],
+            "answer": {"hi": "छलनी या सीव (Sieve)", "en": "Sieve"}
           },
           {
-            "q": {"hi": "राहुल ने घड़ी क्यों चुराई थी?", "en": "Why did Rahul steal the watch?"},
-            "options": [{"hi": "लालच के कारण", "en": "Greed"}, {"hi": "पुलिस को घर तक बुलाने के लिए", "en": "To bring police to the house"}, {"hi": "मजाक के लिए", "en": "Prank"}, {"hi": "बेचने के लिए", "en": "To sell"}],
-            "answer": {"hi": "पुलिस को घर तक बुलाने के लिए", "en": "To bring police to the house"}
+            "q": {
+              "hi": "फसल कटाई के बाद डंठलों से अनाजों को अलग करने की प्रक्रिया क्या कहलाती है?",
+              "en": "The process of separating grains from the stalks is called what?"
+            },
+            "options": [
+              {"hi": "थ्रेशिंग (Threshing)", "en": "Threshing"},
+              {"hi": "विनोइंग (Winnowing)", "en": "Winnowing"},
+              {"hi": "हैंडपिकिंग (Handpicking)", "en": "Handpicking"},
+              {"hi": "फिल्ट्रेशन (Filtration)", "en": "Filtration"}
+            ],
+            "answer": {"hi": "थ्रेशिंग (Threshing)", "en": "Threshing"}
           },
           {
-            "q": {"hi": "पुलिस इंस्पेक्टर ने राहुल की बहादुरी के लिए क्या कहा?", "en": "What did the inspector say about Rahul's act?"},
-            "options": [{"hi": "वह शरारती है", "en": "He is naughty"}, {"hi": "उसकी सूझबूझ ने सबको बचाया", "en": "His presence of mind saved everyone"}, {"hi": "वह चोर है", "en": "He is a thief"}, {"hi": "वह मूर्ख है", "en": "He is foolish"}],
-            "answer": {"hi": "उसकी सूझबूझ ने सबको बचाया", "en": "His presence of mind saved everyone"}
+            "q": {
+              "hi": "हवा का उपयोग करके अनाज से भूसी (husk) को अलग करने की विधि क्या कहलाती है?",
+              "en": "The method in which wind is used to separate husk from grains is called what?"
+            },
+            "options": [
+              {"hi": "विनोइंग या ओससाना (Winnowing)", "en": "Winnowing"},
+              {"hi": "थ्रेशिंग (Threshing)", "en": "Threshing"},
+              {"hi": "निस्तारण (Decantation)", "en": "Decantation"},
+              {"hi": "चुंबकीय पृथक्करण (Magnetic separation)", "en": "Magnetic separation"}
+            ],
+            "answer": {"hi": "विनोइंग या ओससाना (Winnowing)", "en": "Winnowing"}
           },
           {
-            "q": {"hi": "कहानी के अंत में राहुल की खुशी का क्या कारण था?", "en": "What was the reason for Rahul's happiness at the end?"},
-            "options": [{"hi": "इनाम मिला", "en": "Got a reward"}, {"hi": "सुनील उसे अब बच्चा नहीं मानता था", "en": "Sunil did not treat him as a child anymore"}, {"hi": "क्रिकेट खेलने गया", "en": "Went to play cricket"}, {"hi": "पुलिस ने तारीफ की", "en": "Police praised him"}],
-            "answer": {"hi": "सुनील उसे अब बच्चा नहीं मानता था", "en": "Sunil did not treat him as a child anymore"}
+            "q": {
+              "hi": "चुंबक का उपयोग करके मिश्रण से लोहे को अलग करने की विधि को क्या कहते हैं?",
+              "en": "The method of separating iron-containing substances using a magnet is known as what?"
+            },
+            "options": [
+              {"hi": "चुंबकीय पृथक्करण (Magnetic separation)", "en": "Magnetic separation"},
+              {"hi": "फिल्ट्रेशन (Filtration)", "en": "Filtration"},
+              {"hi": "अवसादन (Sedimentation)", "en": "Sedimentation"},
+              {"hi": "वाष्पीकरण (Evaporation)", "en": "Evaporation"}
+            ],
+            "answer": {"hi": "चुंबकीय पृथक्करण (Magnetic separation)", "en": "Magnetic separation"}
           },
           {
-            "q": {"hi": "राहुल की उम्र का क्या संकेत दिया गया है?", "en": "What kind of maturity did Rahul show?"},
-            "options": [{"hi": "बचकाना", "en": "Childish"}, {"hi": "वीरतापूर्ण", "en": "Brave/Courageous"}, {"hi": "डरपोक", "en": "Cowardly"}, {"hi": "अहंकारी", "en": "Arrogant"}],
-            "answer": {"hi": "वीरतापूर्ण", "en": "Brave/Courageous"}
+            "q": {
+              "hi": "मिश्रण में अघुलनशील भारी कणों का बर्तन के तले में बैठ जाना क्या कहलाता है?",
+              "en": "The process in which heavier particles of an insoluble solid settle down at the bottom is known as what?"
+            },
+            "options": [
+              {"hi": "अवसादन या सेडिमेंटेशन (Sedimentation)", "en": "Sedimentation"},
+              {"hi": "निस्तारण (Decantation)", "en": "Decantation"},
+              {"hi": "फिल्ट्रेशन (Filtration)", "en": "Filtration"},
+              {"hi": "वाष्पीकरण (Evaporation)", "en": "Evaporation"}
+            ],
+            "answer": {"hi": "अवसादन या सेडिमेंटेशन (Sedimentation)", "en": "Sedimentation"}
           }
         ],
         "section2": [
           {
-            "q": {"hi": "सुनील और उसके परिवार को किसने बचाया?", "en": "Who rescued Sunil and his family?"},
-            "options": [{"hi": "राहुल", "en": "Rahul"}, {"hi": "पुलिस", "en": "Police"}, {"hi": "पड़ोसी", "en": "Neighbours"}, {"hi": "खुद से", "en": "Themselves"}],
-            "answer": {"hi": "पुलिस", "en": "Police"}
+            "q": {
+              "hi": "अवसादन के बाद बिना तलछट को हिलाए साफ पानी को दूसरे बर्तन में उड़ेलने की प्रक्रिया क्या कहलाती है?",
+              "en": "The process of pouring out the clear liquid without disturbing the sediments is known as what?"
+            },
+            "options": [
+              {"hi": "निस्तारण या डिकैन्टेशन (Decantation)", "en": "Decantation"},
+              {"hi": "सेडिमेंटेशन (Sedimentation)", "en": "Sedimentation"},
+              {"hi": "थ्रेशिंग (Threshing)", "en": "Threshing"},
+              {"hi": "मंथन (Churning)", "en": "Churning"}
+            ],
+            "answer": {"hi": "निस्तारण या डिकैन्टेशन (Decantation)", "en": "Decantation"}
           },
           {
-            "q": {"hi": "डाकू कितने थे?", "en": "How many robbers were there?"},
-            "options": [{"hi": "दो", "en": "Two"}, {"hi": "तीन", "en": "Three"}, {"hi": "चार", "en": "Four"}, {"hi": "पाँच", "en": "Five"}],
-            "answer": {"hi": "चार", "en": "Four"}
+            "q": {
+              "hi": "अघुलनशील ठोस पदार्थों को द्रव से अलग करने के लिए फिल्टर पेपर का उपयोग करके की जाने वाली प्रक्रिया क्या है?",
+              "en": "The process by which an insoluble solid is separated from a liquid using a filter is called what?"
+            },
+            "options": [
+              {"hi": "निस्पंदन या फिल्ट्रेशन (Filtration)", "en": "Filtration"},
+              {"hi": "वाष्पीकरण (Evaporation)", "en": "Evaporation"},
+              {"hi": "संघनन (Condensation)", "en": "Condensation"},
+              {"hi": "आसवन (Distillation)", "en": "Distillation"}
+            ],
+            "answer": {"hi": "निस्पंदन या फिल्ट्रेशन (Filtration)", "en": "Filtration"}
           },
           {
-            "q": {"hi": "राहुल ने पुलिस को घर का पता कैसे दिया?", "en": "How did Rahul inform the police about the house address?"},
-            "options": [{"hi": "फोन पर", "en": "By phone"}, {"hi": "लिखकर", "en": "By writing note"}, {"hi": "बोलकर", "en": "By telling"}, {"hi": "नहीं बताया", "en": "Did not tell"}],
-            "answer": {"hi": "लिखकर", "en": "By writing note"}
+            "q": {
+              "hi": "विलयन के बहुत बारीक अघुलनशील कणों को भारी बनाने के लिए उसमें क्या मिलाया जाता है?",
+              "en": "What is added to a solution to make very fine insoluble particles heavy so they settle down?"
+            },
+            "options": [
+              {"hi": "फिटकरी या एलम (Alum)", "en": "Alum"},
+              {"hi": "नमक (Salt)", "en": "Salt"},
+              {"hi": "चीनी (Sugar)", "en": "Sugar"},
+              {"hi": "रेत (Sand)", "en": "Sand"}
+            ],
+            "answer": {"hi": "फिटकरी या एलम (Alum)", "en": "Alum"}
           },
           {
-            "q": {"hi": "क्या सुनील का घर लूटने के दौरान टेलीफोन काम कर रहा था?", "en": "Was the telephone working during the robbery?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं, डाकू ने काट दिया था", "en": "No, robbers cut it"}],
-            "answer": {"hi": "नहीं, डाकू ने काट दिया था", "en": "No, robbers cut it"}
+            "q": {
+              "hi": "फिटकरी मिलाने की इस प्रक्रिया को क्या कहा जाता है?",
+              "en": "What is the method by which fine particles of solution are made heavy by adding alum called?"
+            },
+            "options": [
+              {"hi": "भारण या लोडिंग (Loading)", "en": "Loading"},
+              {"hi": "फिल्ट्रेशन (Filtration)", "en": "Filtration"},
+              {"hi": "थ्रेशिंग (Threshing)", "en": "Threshing"},
+              {"hi": "मंथन (Churning)", "en": "Churning"}
+            ],
+            "answer": {"hi": "भारण या लोडिंग (Loading)", "en": "Loading"}
           },
           {
-            "q": {"hi": "राहुल का चेहरा खुशी से कब चमक उठा?", "en": "When did Rahul's face beam with joy?"},
-            "options": [{"hi": "घड़ी मिलने पर", "en": "Getting the watch"}, {"hi": "सुनील के साथ खेलने पर", "en": "When Sunil let him play cricket"}, {"hi": "इनाम मिलने पर", "en": "Getting reward"}, {"hi": "घर जाने पर", "en": "Going home"}],
-            "answer": {"hi": "सुनील के साथ खेलने पर", "en": "When Sunil let him play cricket"}
+            "q": {
+              "hi": "घुलनशील ठोस पदार्थों को द्रव से अलग करने के लिए मुख्य रूप से किस विधि का उपयोग किया जाता है?",
+              "en": "Which method is used to separate a soluble solid from a liquid?"
+            },
+            "options": [
+              {"hi": "वाष्पीकरण या इवेपोरेशन (Evaporation)", "en": "Evaporation"},
+              {"hi": "हैंडपिकिंग (Handpicking)", "en": "Handpicking"},
+              {"hi": "सीविंग (Sieving)", "en": "Sieving"},
+              {"hi": "विनोइंग (Winnowing)", "en": "Winnowing"}
+            ],
+            "answer": {"hi": "वाष्पीकरण या इवेपोरेशन (Evaporation)", "en": "Evaporation"}
           },
           {
-            "q": {"hi": "पुलिस ने डाकुओं को पकड़ने के लिए क्या इस्तेमाल किया?", "en": "What did police use to catch robbers?"},
-            "options": [{"hi": "बंदूकें", "en": "Guns"}, {"hi": "जीप", "en": "Jeep"}, {"hi": "वाकी-टाकी", "en": "Walkie-talkie"}, {"hi": "हथकड़ी", "en": "Handcuffs"}],
-            "answer": {"hi": "वाकी-टाकी", "en": "Walkie-talkie"}
+            "q": {
+              "hi": "समुद्र के पानी से सामान्य नमक किस प्रक्रिया द्वारा प्राप्त किया जाता है?",
+              "en": "How is common salt obtained from seawater?"
+            },
+            "options": [
+              {"hi": "वाष्पीकरण (Evaporation)", "en": "Evaporation"},
+              {"hi": "फिल्ट्रेशन (Filtration)", "en": "Filtration"},
+              {"hi": "हैंडपिकिंग (Handpicking)", "en": "Handpicking"},
+              {"hi": "चुंबकीय पृथक्करण (Magnetic separation)", "en": "Magnetic separation"}
+            ],
+            "answer": {"hi": "वाष्पीकरण (Evaporation)", "en": "Evaporation"}
           },
           {
-            "q": {"hi": "डाकुओं के पास कौन सा हथियार था?", "en": "What weapon did the robbers have?"},
-            "options": [{"hi": "चाकू", "en": "Knife"}, {"hi": "पिस्तौल", "en": "Pistols"}, {"hi": "तलवार", "en": "Sword"}, {"hi": "डंडा", "en": "Stick"}],
-            "answer": {"hi": "पिस्तौल", "en": "Pistols"}
+            "q": {
+              "hi": "दूध या दही से मक्खन अलग करने की प्रक्रिया को क्या कहते हैं?",
+              "en": "The process of separating butter from curd or milk is called what?"
+            },
+            "options": [
+              {"hi": "मंथन या चर्निंग (Churning)", "en": "Churning"},
+              {"hi": "थ्रेशिंग (Threshing)", "en": "Threshing"},
+              {"hi": "वाष्पीकरण (Evaporation)", "en": "Evaporation"},
+              {"hi": "संघनन (Condensation)", "en": "Condensation"}
+            ],
+            "answer": {"hi": "मंथन या चर्निंग (Churning)", "en": "Churning"}
           },
           {
-            "q": {"hi": "क्या राहुल पुलिस स्टेशन जाने से डरा था?", "en": "Was Rahul afraid to go to the police station?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "नहीं", "en": "No"}
+            "q": {
+              "hi": "दही या दूध से मक्खन अलग करने के लिए किसका उपयोग किया जाता है?",
+              "en": "What is used to churn milk or curd to separate butter?"
+            },
+            "options": [
+              {"hi": "मथनी या चर्नर (Churner / Mathni)", "en": "Churner or mathni"},
+              {"hi": "चलनी (Sieve)", "en": "Sieve"},
+              {"hi": "चुंबक (Magnet)", "en": "Magnet"},
+              {"hi": "फिल्टर पेपर (Filter paper)", "en": "Filter paper"}
+            ],
+            "answer": {"hi": "मथनी या चर्नर (Churner / Mathni)", "en": "Churner or mathni"}
           },
           {
-            "q": {"hi": "कहानी में 'scuffle' का अर्थ क्या है?", "en": "What is the meaning of 'scuffle' in the story?"},
-            "options": [{"hi": "शांति", "en": "Peace"}, {"hi": "झगड़ा/हाथापाई", "en": "Rough struggle/fight"}, {"hi": "चोरी", "en": "Theft"}, {"hi": "दौड़", "en": "Run"}],
-            "answer": {"hi": "झगड़ा/हाथापाई", "en": "Rough struggle/fight"}
+            "q": {
+              "hi": "वाष्पीकृत होने वाले द्रव को वापस प्राप्त करने के लिए किस प्रक्रिया का उपयोग किया जाता है?",
+              "en": "The liquid that evaporates can be recovered by which process?"
+            },
+            "options": [
+              {"hi": "संघनन या कंडेंसेशन (Condensation)", "en": "Condensation"},
+              {"hi": "अवसादन (Sedimentation)", "en": "Sedimentation"},
+              {"hi": "निस्तारण (Decantation)", "en": "Decantation"},
+              {"hi": "भारण (Loading)", "en": "Loading"}
+            ],
+            "answer": {"hi": "संघनन या कंडेंसेशन (Condensation)", "en": "Condensation"}
           },
           {
-            "q": {"hi": "क्या सुनील का दादा जी घायल हुए थे?", "en": "Was Sunil's grandfather injured?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "चयनात्मक वाष्पीकरण और संघनन द्वारा तरल मिश्रण के घटकों को अलग करने की विधि क्या कहलाती है?",
+              "en": "The process of separating components of a liquid mixture by selective evaporation and condensation is called what?"
+            },
+            "options": [
+              {"hi": "आसवन या डिस्टिलेशन (Distillation)", "en": "Distillation"},
+              {"hi": "थ्रेशिंग (Threshing)", "en": "Threshing"},
+              {"hi": "हैंडपिकिंग (Handpicking)", "en": "Handpicking"},
+              {"hi": "भारण (Loading)", "en": "Loading"}
+            ],
+            "answer": {"hi": "आसवन या डिस्टिलेशन (Distillation)", "en": "Distillation"}
           }
         ],
         "section3": [
           {
-            "q": {"hi": "पुलिस बूथ पर पहला पुलिसवाला राहुल की बात क्यों नहीं सुन रहा था?", "en": "Why did the first policeman ignore Rahul?"},
-            "options": [{"hi": "वह सो रहा था", "en": "He was sleeping"}, {"hi": "वह इसे मजाक समझ रहा था", "en": "He thought it was a prank"}, {"hi": "वह व्यस्त था", "en": "He was busy"}, {"hi": "वह अनपढ़ था", "en": "He was illiterate"}],
-            "answer": {"hi": "वह इसे मजाक समझ रहा था", "en": "He thought it was a prank"}
+            "q": {
+              "hi": "किसी विलयन में जो पदार्थ घुलता है, उसे क्या कहते हैं?",
+              "en": "The substance that gets dissolved in a solution is known as what?"
+            },
+            "options": [
+              {"hi": "विलेय या सॉल्यूट (Solute)", "en": "Solute"},
+              {"hi": "विलायक (Solvent)", "en": "Solvent"},
+              {"hi": "विलयन (Solution)", "en": "Solution"},
+              {"hi": " sediment (अवसाद)", "en": "Sediment"}
+            ],
+            "answer": {"hi": "विलेय या सॉल्यूट (Solute)", "en": "Solute"}
           },
           {
-            "q": {"hi": "क्या प्रियांश जोशी की कहानी राहुल की कहानी से मिलती है?", "en": "Is Priyanshu Joshi's story similar in theme to Rahul's?"},
-            "options": [{"hi": "हाँ, बहादुरी के मामले में", "en": "Yes, in terms of courage"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ, बहादुरी के मामले में", "en": "Yes, in terms of courage"}
+            "q": {
+              "hi": "जिस पदार्थ में विलेय (solute) घुलता है, उसे क्या कहा जाता है?",
+              "en": "The substance in which the solute gets dissolved is called what?"
+            },
+            "options": [
+              {"hi": "विलायक या सॉल्वेंट (Solvent)", "en": "Solvent"},
+              {"hi": "विलेय (Solute)", "en": "Solute"},
+              {"hi": "मिश्रण (Mixture)", "en": "Mixture"},
+              {"hi": "अवसाद (Sediment)", "en": "Sediment"}
+            ],
+            "answer": {"hi": "विलायक या सॉल्वेंट (Solvent)", "en": "Solvent"}
           },
           {
-            "q": {"hi": "राहुल का घर पहुँचने का तरीका कैसा था?", "en": "How did Rahul go to Sunil's house?"},
-            "options": [{"hi": "धीरे-धीरे", "en": "Slowly"}, {"hi": "दौड़ते हुए", "en": "Running/Dashing"}, {"hi": "गाड़ी में", "en": "In a car"}, {"hi": "चलकर", "en": "Walking"}],
-            "answer": {"hi": "दौड़ते हुए", "en": "Running/Dashing"}
+            "q": {
+              "hi": "सॉल्यूट और सॉल्वेंट के मिलने से क्या बनता है?",
+              "en": "The mixture of solute and solvent is called what?"
+            },
+            "options": [
+              {"hi": "विलयन या सॉल्यूशन (Solution)", "en": "Solution"},
+              {"hi": "निलंबन (Suspension)", "en": "Suspension"},
+              {"hi": "कोलाइड (Colloid)", "en": "Colloid"},
+              {"hi": "अवक्षेप (Precipitate)", "en": "Precipitate"}
+            ],
+            "answer": {"hi": "विलयन या सॉल्यूशन (Solution)", "en": "Solution"}
           },
           {
-            "q": {"hi": "डाकू जब बाहर आए, तो उन्होंने क्या ढका हुआ था?", "en": "What did the robbers have on their faces?"},
-            "options": [{"hi": "टोपी", "en": "Caps"}, {"hi": "मास्क", "en": "Masks"}, {"hi": "कुछ नहीं", "en": "Nothing"}, {"hi": "चश्मा", "en": "Glasses"}],
-            "answer": {"hi": "मास्क", "en": "Masks"}
+            "q": {
+              "hi": "वह विलयन जिसमें एक निश्चित तापमान पर और अधिक विलेय (solute) नहीं घोला जा सकता, क्या कहलाता है?",
+              "en": "A solution in which no more solute can be dissolved at a specific temperature is known as what?"
+            },
+            "options": [
+              {"hi": "संतृप्त विलयन या सैचुरेटेड सॉल्यूशन (Saturated solution)", "en": "Saturated solution"},
+              {"hi": "असंतृप्त विलयन (Unsaturated solution)", "en": "Unsaturated solution"},
+              {"hi": "तनु विलयन (Dilute solution)", "en": "Dilute solution"},
+              {"hi": "सांद्र विलयन (Concentrated solution)", "en": "Concentrated solution"}
+            ],
+            "answer": {"hi": "संतृप्त विलयन या सैचुरेटेड सॉल्यूशन (Saturated solution)", "en": "Saturated solution"}
           },
           {
-            "q": {"hi": "राहुल ने किसे अपना 'बड़ा भाई' जैसा माना था?", "en": "Whom did Rahul consider as his elder brother?"},
-            "options": [{"hi": "पुलिस वाले को", "en": "Policeman"}, {"hi": "सुनील को", "en": "Sunil"}, {"hi": "डाकू को", "en": "Robber"}, {"hi": "कोई नहीं", "en": "None"}],
-            "answer": {"hi": "सुनील को", "en": "Sunil"}
+            "q": {
+              "hi": "यदि किसी मिश्रण में दो से अधिक घटक हों, तो उन्हें अलग करने के लिए क्या करना पड़ता है?",
+              "en": "If a mixture contains more than two components, what needs to be done?"
+            },
+            "options": [
+              {"hi": "एक से अधिक पृथक्करण विधियों का उपयोग करना पड़ता है", "en": "More than one method of separation can be employed"},
+              {"hi": "केवल वाष्पीकरण करना पड़ता है", "en": "Only evaporation is done"},
+              {"hi": "उन्हें अलग नहीं किया जा सकता", "en": "They cannot be separated"},
+              {"hi": "केवल हाथ से बीनना पड़ता है", "en": "Only handpicking is done"}
+            ],
+            "answer": {"hi": "एक से अधिक पृथक्करण विधियों का उपयोग करना पड़ता है", "en": "More than one method of separation can be employed"}
           },
           {
-            "q": {"hi": "क्या पुलिस ने अंत में डाकुओं को हरा दिया?", "en": "Did the police overpower the robbers?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "रेत और नमक के मिश्रण को अलग करने के लिए किन विधियों के संयोजन का उपयोग किया जाता है?",
+              "en": "Which combination of methods is used to separate a mixture of sand and salt?"
+            },
+            "options": [
+              {"hi": "अवसादन, निस्तारण और वाष्पीकरण", "en": "Sedimentation, decantation followed by evaporation"},
+              {"hi": "केवल हाथ से बीनना", "en": "Only handpicking"},
+              {"hi": "केवल चुंबक का उपयोग", "en": "Only using magnet"},
+              {"hi": "केवल छानना (Filtering)"},
+              {"en": "Only filtering"}
+            ],
+            "answer": {"hi": "अवसादन, निस्तारण और वाष्पीकरण", "en": "Sedimentation, decantation followed by evaporation"}
           },
           {
-            "q": {"hi": "राहुल को 'indignantly' (गुस्से में) कैसा लगा जब सुनील ने उसे छोटा बच्चा कहा?", "en": "How did Rahul feel when Sunil called him a small child?"},
-            "options": [{"hi": "खुश", "en": "Happy"}, {"hi": "नाराज", "en": "Angry"}, {"hi": "शांत", "en": "Calm"}, {"hi": "उदासीन", "en": "Indifferent"}],
-            "answer": {"hi": "नाराज", "en": "Angry"}
+            "q": {
+              "hi": "चाय बनाते समय चायपत्ती को अलग करने के लिए किस उपकरण का उपयोग किया जाता है?",
+              "en": "What is used to separate tea leaves from prepared tea?"
+            },
+            "options": [
+              {"hi": "छलनी या स्ट्रेनर (Strainer)", "en": "Strainer"},
+              {"hi": "चुंबक (Magnet)", "en": "Magnet"},
+              {"hi": "थर्मामीटर (Thermometer)", "en": "Thermometer"},
+              {"hi": "कीप (Funnel)", "en": "Funnel"}
+            ],
+            "answer": {"hi": "छलनी या स्ट्रेनर (Strainer)", "en": "Strainer"}
           },
           {
-            "q": {"hi": "एम्बुलेंस क्यों बुलाई गई?", "en": "Why was the ambulance called?"},
-            "options": [{"hi": "दादी के लिए", "en": "For grandmother"}, {"hi": "दादाजी की चोट के लिए", "en": "For grandfather's injury"}, {"hi": "सुनील के लिए", "en": "For Sunil"}, {"hi": "राहुल के लिए", "en": "For Rahul"}],
-            "answer": {"hi": "दादाजी की चोट के लिए", "en": "For grandfather's injury"}
+            "q": {
+              "hi": "मानव शरीर में रक्त को शुद्ध करने वाला मुख्य अंग कौन सा है?",
+              "en": "Which organ of the human body purifies blood?"
+            },
+            "options": [
+              {"hi": "गुर्दा या किडनी (Kidney)", "en": "Kidney"},
+              {"hi": "फेफड़े (Lungs)", "en": "Lungs"},
+              {"hi": "हृदय (Heart)", "en": "Heart"},
+              {"hi": "यकृत (Liver)", "en": "Liver"}
+            ],
+            "answer": {"hi": "गुर्दा या किडनी (Kidney)", "en": "Kidney"}
           },
           {
-            "q": {"hi": "क्या पुलिस बूथ के पुलिस वाले बाद में राहुल को समझ पाए?", "en": "Did the police understand Rahul later?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "बालू और लोहे के बुरादे के मिश्रण से लोहे के कणों को अलग करने की सबसे अच्छी विधि कौन सी है?",
+              "en": "What is the best method to separate iron filings from a mixture of sand and iron?"
+            },
+            "options": [
+              {"hi": "चुंबकीय पृथक्करण (Magnetic separation)", "en": "Magnetic separation"},
+              {"hi": "वाष्पीकरण (Evaporation)", "en": "Evaporation"},
+              {"hi": "थ्रेशिंग (Threshing)", "en": "Threshing"},
+              {"hi": "निस्तारण (Decantation)", "en": "Decantation"}
+            ],
+            "answer": {"hi": "चुंबकीय पृथक्करण (Magnetic separation)", "en": "Magnetic separation"}
           },
           {
-            "q": {"hi": "राहुल के अनुसार 'every minute' कैसा था?", "en": "What was every minute for Rahul?"},
-            "options": [{"hi": "बेकार", "en": "Useless"}, {"hi": "कीमती", "en": "Precious"}, {"hi": "लंबा", "en": "Long"}, {"hi": "छोटा", "en": "Short"}],
-            "answer": {"hi": "कीमती", "en": "Precious"}
+            "q": {
+              "hi": "फिल्टर पेपर को कोन (cone) के आकार में मोड़ने के बाद उसे किसमें रखा जाता है?",
+              "en": "After folding a circular filter paper into a cone shape, where is it placed?"
+            },
+            "options": [
+              {"hi": "कीप या फनल (Funnel) में", "en": "Inside the funnel"},
+              {"hi": "सीधे बीकर की तली में", "en": "Directly at bottom of beaker"},
+              {"hi": "चाइना डिश में", "en": "In a china dish"},
+              {"hi": "परखनली में", "en": "In a test tube"}
+            ],
+            "answer": {"hi": "कीप या फनल (Funnel) में", "en": "Inside the funnel"}
           }
         ],
         "section4": [
           {
-            "q": {"hi": "सुनील की माँ और दादाजी को कहाँ से छुड़ाया गया?", "en": "Where were Sunil's mother and grandfather untied from?"},
-            "options": [{"hi": "रसोई", "en": "Kitchen"}, {"hi": "बेडरूम", "en": "Bedroom"}, {"hi": "बाथरूम", "en": "Bathroom"}, {"hi": "बगीचा", "en": "Garden"}],
-            "answer": {"hi": "बेडरूम", "en": "Bedroom"}
+            "q": {
+              "hi": "उन पदार्थों को क्या कहते हैं जिन्हें भौतिक या रासायनिक तरीकों से सरल पदार्थों में विभाजित नहीं किया जा सकता?",
+              "en": "What are substances that cannot be further broken down into simpler substances by physical or chemical methods called?"
+            },
+            "options": [
+              {"hi": "तत्व या एलिमेंट्स (Elements)", "en": "Elements"},
+              {"hi": "मिश्रण (Mixtures)", "en": "Mixtures"},
+              {"hi": "विलयन (Solutions)", "en": "Solutions"},
+              {"hi": "यौगिक (Compounds)", "en": "Compounds"}
+            ],
+            "answer": {"hi": "तत्व या एलिमेंट्स (Elements)", "en": "Elements"}
           },
           {
-            "q": {"hi": "डाकू घर से कैसे बाहर निकले?", "en": "How did the robbers come out of the house?"},
-            "options": [{"hi": "सावधानीपूर्वक", "en": "Cautiously"}, {"hi": "तेजी से भागते हुए", "en": "Running fast"}, {"hi": "डरते हुए", "en": "Fearfully"}, {"hi": "लड़ते हुए", "en": "Fighting"}],
-            "answer": {"hi": "सावधानीपूर्वक", "en": "Cautiously"}
+            "q": {
+              "hi": "रासायनिक प्रतीक 'Mg' किस तत्व को दर्शाता है?",
+              "en": "What element does the chemical symbol 'Mg' represent?"
+            },
+            "options": [
+              {"hi": "मैग्नीशियम (Magnesium)", "en": "Magnesium"},
+              {"hi": "मैंगनीज (Manganese)", "en": "Manganese"},
+              {"hi": "पारा (Mercury)", "en": "Mercury"},
+              {"hi": "सोना (Gold)", "en": "Gold"}
+            ],
+            "answer": {"hi": "मैग्नीशियम (Magnesium)", "en": "Magnesium"}
           },
           {
-            "q": {"hi": "क्या डाकू शुरू में तैयार थे?", "en": "Were the robbers prepared for the attack?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "नहीं", "en": "No"}
+            "q": {
+              "hi": "हैंडपिकिंग (बीनना) विधि का उपयोग सामान्यतः कब किया जाता है?",
+              "en": "When is the method of handpicking commonly used?"
+            },
+            "options": [
+              {"hi": "जब अशुद्धियों की मात्रा कम हो और उनका आकार/रंग उपयोगी पदार्थ से भिन्न हो", "en": "When undesirable substances are in small quantities and differ in shape, size or colour"},
+              {"hi": "जब मिश्रण बहुत अधिक मात्रा में हो", "en": "When mixture is in very large quantity"},
+              {"hi": "जब कण बहुत सूक्ष्म हों", "en": "When particles are microscopic"},
+              {"hi": "जब दोनों घटक द्रव हों", "en": "When both components are liquid"}
+            ],
+            "answer": {"hi": "जब अशुद्धियों की मात्रा कम हो और उनका आकार/रंग उपयोगी पदार्थ से भिन्न हो", "en": "When undesirable substances are in small quantities and differ in shape, size or colour"}
           },
           {
-            "q": {"hi": "राहुल की बातों को पुलिस ने क्या कहा?", "en": "What did the police call Rahul's talking?"},
-            "options": [{"hi": "सच्चाई", "en": "Truth"}, {"hi": "बड़बड़ाना", "en": "Blabbering"}, {"hi": "कहानी", "en": "Story"}, {"hi": "मदद", "en": "Help"}],
-            "answer": {"hi": "बड़बड़ाना", "en": "Blabbering"}
+            "q": {
+              "hi": "निर्माण स्थलों (construction sites) पर रेत से पत्थर और कंकड़ अलग करने के लिए किसका उपयोग किया जाता है?",
+              "en": "What is used at construction sites to separate stones and pebbles from sand?"
+            },
+            "options": [
+              {"hi": "बड़ी छलनी या सीव (Large sieve)", "en": "Large sieve"},
+              {"hi": "चुंबक (Magnet)", "en": "Magnet"},
+              {"hi": "फिल्टर पेपर (Filter paper)", "en": "Filter paper"},
+              {"hi": "चुम्चा (Spoon)", "en": "Spoon"}
+            ],
+            "answer": {"hi": "बड़ी छलनी या सीव (Large sieve)", "en": "Large sieve"}
           },
           {
-            "q": {"hi": "राहुल ने पुलिस की क्या चुराया था?", "en": "What did Rahul take from the police?"},
-            "options": [{"hi": "पेन", "en": "Pen"}, {"hi": "घड़ी", "en": "Watch"}, {"hi": "मोबाइल", "en": "Mobile"}, {"hi": "टोपी", "en": "Cap"}],
-            "answer": {"hi": "घड़ी", "en": "Watch"}
+            "q": {
+              "hi": "थ्रेशिंग की पारंपरिक या आधुनिक विधियों में फसलों को किससे अलग किया जाता है?",
+              "en": "In threshing, what is separated from what?"
+            },
+            "options": [
+              {"hi": "डंठलों से अनाज (Grains from the stalks)", "en": "Grains from the stalks"},
+              {"hi": "चावल से भूसी (Husk from rice)", "en": "Husk from rice"},
+              {"hi": "रेत से पानी (Water from sand)", "en": "Water from sand"},
+              {"hi": "दूध से मक्खन (Butter from milk)", "en": "Butter from milk"}
+            ],
+            "answer": {"hi": "डंठलों से अनाज (Grains from the stalks)", "en": "Grains from the stalks"}
           },
           {
-            "q": {"hi": "क्या सुनील ने राहुल को 'बहादुर' माना?", "en": "Did Sunil consider Rahul brave?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "मिश्रण के घटकों को अलग करने का आधार क्या होता है?",
+              "en": "On what basis are the components of a mixture separated?"
+            },
+            "options": [
+              {"hi": "उनकी भौतिक गुणों में अंतर जैसे आकार, अवस्था, चुम्बकीय प्रकृति और विलेयता", "en": "Their physical properties like particle size, state of matter, magnetic nature and solubility"},
+              {"hi": "केवल उनके स्वाद के आधार पर", "en": "Only on their taste"},
+              {"hi": "केवल उनके मूल्य के आधार पर", "en": "Only on their cost"},
+              {"hi": "केवल उनकी गंध के आधार पर", "en": "Only on their smell"}
+            ],
+            "answer": {"hi": "उनकी भौतिक गुणों में अंतर जैसे आकार, अवस्था, चुम्बकीय प्रकृति और विलेयता", "en": "Their physical properties like particle size, state of matter, magnetic nature and solubility"}
           },
           {
-            "q": {"hi": "राहुल और सुनील ने क्या खेलने का सोचा था?", "en": "What did Rahul and Sunil plan to play?"},
-            "options": [{"hi": "क्रिकेट", "en": "Cricket"}, {"hi": "मोनोपॉली", "en": "Monopoly"}, {"hi": "चेस", "en": "Chess"}],
-            "answer": {"hi": "मोनोपॉली", "en": "Monopoly"}
+            "q": {
+              "hi": "मिट्टी और पानी के गंदे मिश्रण से साफ पानी प्राप्त करने के लिए अंतिम रूप से कौन सी विधि अपनाई जाती है?",
+              "en": "Which method is used finally to obtain clear water from a muddy water mixture?"
+            },
+            "options": [
+              {"hi": "निस्यंदन या फिल्ट्रेशन (Filtration)", "en": "Filtration"},
+              {"hi": "थ्रेशिंग (Threshing)", "en": "Threshing"},
+              {"hi": "विनोइंग (Winnowing)", "en": "Winnowing"},
+              {"hi": "हैंडपिकिंग (Handpicking)", "en": "Handpicking"}
+            ],
+            "answer": {"hi": "निस्यंदन या फिल्ट्रेशन (Filtration)", "en": "Filtration"}
           },
           {
-            "q": {"hi": "डाकू के पास क्या था जिसमें वो अपना सामान रखे हुए थे?", "en": "What did one of the robbers have to carry things?"},
-            "options": [{"hi": "बैग", "en": "Canvas bag"}, {"hi": "झोला", "en": "Pouch"}, {"hi": "बॉक्स", "en": "Box"}],
-            "answer": {"hi": "बैग", "en": "Canvas bag"}
+            "q": {
+              "hi": "यदि पानी में घुले हुए नमक को पानी सहित पुनः प्राप्त करना हो, तो वाष्पीकरण के साथ किस प्रक्रिया का उपयोग करना होगा?",
+              "en": "If both salt and water are to be recovered from a salt solution, which process must follow evaporation?"
+            },
+            "options": [
+              {"hi": "संघनन (Condensation)", "en": "Condensation"},
+              {"hi": "अवसादन (Sedimentation)", "en": "Sedimentation"},
+              {"hi": "छानना (Filtration)", "en": "Filtration"},
+              {"hi": "थ्रेशिंग (Threshing)", "en": "Threshing"}
+            ],
+            "answer": {"hi": "संघनन (Condensation)", "en": "Condensation"}
           },
           {
-            "q": {"hi": "पुलिस ने राहुल की प्रशंसा किस आधार पर की?", "en": "On what basis did the police praise Rahul?"},
-            "options": [{"hi": "उसकी बहादुरी", "en": "Bravery"}, {"hi": "सूझबूझ", "en": "Presence of mind"}, {"hi": "घड़ी चोरी करने पर", "en": "Stealing watch"}],
-            "answer": {"hi": "सूझबूझ", "en": "Presence of mind"}
+            "q": {
+              "hi": "नीले थोथे (कॉपर सल्फेट) को पानी में घोलकर संतृप्त विलयन बनाने के बाद उसे एक दिन के लिए रखने पर क्या प्राप्त होता है?",
+              "en": "What can be seen in the China dish when a saturated solution of copper sulphate is left undisturbed for a day?"
+            },
+            "options": [
+              {"hi": "क्रिस्टल (Crystals)", "en": "Crystals"},
+              {"hi": "केवल गैस", "en": "Only gas"},
+              {"hi": "साधारण तेल", "en": "Plain oil"},
+              {"hi": "मिट्टी", "en": "Soil"}
+            ],
+            "answer": {"hi": "क्रिस्टल (Crystals)", "en": "Crystals"}
           },
           {
-            "q": {"hi": "क्या पुलिस वालों का व्यवहार बाद में बदल गया था?", "en": "Did the policeman's behavior change later?"},
-            "options": [{"hi": "हाँ, वे कम शत्रुतापूर्ण हो गए", "en": "Yes, they became less hostile"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ, वे कम शत्रुतापूर्ण हो गए", "en": "Yes, they became less hostile"}
+            "q": {
+              "hi": "असंतृप्त विलयन (Unsaturated solution) किसे कहते हैं?",
+              "en": "What is an unsaturated solution?"
+            },
+            "options": [
+              {"hi": "वह विलयन जिसमें और अधिक solute घोला जा सके", "en": "A solution in which more solute can be dissolved"},
+              {"hi": "वह विलयन जिसमें और अधिक solute न घुल सके", "en": "A solution in which no more solute can dissolve"},
+              {"hi": "बिना पानी का घोल", "en": "Solution without water"},
+              {"hi": "ठोस पदार्थों का मिश्रण", "en": "Mixture of solids"}
+            ],
+            "answer": {"hi": "वह विलयन जिसमें और अधिक solute घोला जा सके", "en": "A solution in which more solute can be dissolved"}
           }
         ],
         "section5": [
           {
-            "q": {"hi": "क्या राहुल और सुनील अच्छे दोस्त थे?", "en": "Were Rahul and Sunil good friends?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "क्या चीनी पानी में घुलनशील (soluble) है?",
+              "en": "Is sugar soluble in water?"
+            },
+            "options": [
+              {"hi": "हाँ, चीनी पानी में पूरी तरह घुल जाती है (True)", "en": "True"},
+              {"hi": "नहीं, यह अघुलनशील है (False)", "en": "False"},
+              {"hi": "यह केवल तेल में घुलती है", "en": "It dissolves only in oil"},
+              {"hi": "यह कभी नहीं घुलती", "en": "It never dissolves"}
+            ],
+            "answer": {"hi": "हाँ, चीनी पानी में पूरी तरह घुल जाती है (True)", "en": "True"}
           },
           {
-            "q": {"hi": "राहुल का सुनील के घर खिड़की पर जाना कैसा था?", "en": "What did Rahul do at the window of Sunil's room?"},
-            "options": [{"hi": "खिड़की बंद थी", "en": "Window was closed"}, {"hi": "उसने अंदर देखा", "en": "He looked inside"}, {"hi": "खिड़की तोड़ी", "en": "Broke window"}],
-            "answer": {"hi": "खिड़की बंद थी", "en": "Window was closed"}
+            "q": {
+              "hi": "अनाज से भूसी अलग करने के लिए किसान किस तकनीक का उपयोग करते हैं?",
+              "en": "Which technique do farmers use to separate husk from grains?"
+            },
+            "options": [
+              {"hi": "ओससाना या विनोइंग (Winnowing)", "en": "Winnowing"},
+              {"hi": "चुंबकीय पृथक्करण", "en": "Magnetic separation"},
+              {"hi": "आसवन", "en": "Distillation"},
+              {"hi": "भारण", "en": "Loading"}
+            ],
+            "answer": {"hi": "ओससाना या विनोइंग (Winnowing)", "en": "Winnowing"}
           },
           {
-            "q": {"hi": "पुलिस को कैसे पता चला कि राहुल का कहना सच था?", "en": "How did the police confirm Rahul's information?"},
-            "options": [{"hi": "नोट पढ़कर", "en": "Reading the note"}, {"hi": "देखकर", "en": "By seeing"}, {"hi": "बात मानकर", "en": "By believing"}],
-            "answer": {"hi": "नोट पढ़कर", "en": "Reading the note"}
+            "q": {
+              "hi": "बालू और पानी के मिश्रण में बालू नीचे बैठ जाती है, इस प्रक्रिया को क्या कहते हैं?",
+              "en": "In a mixture of sand and water, sand settles down at the bottom. What is this process called?"
+            },
+            "options": [
+              {"hi": "अवसादन (Sedimentation)", "en": "Sedimentation"},
+              {"hi": "वाष्पीकरण (Evaporation)", "en": "Evaporation"},
+              {"hi": "संघनन (Condensation)", "en": "Condensation"},
+              {"hi": "मंथन (Churning)", "en": "Churning"}
+            ],
+            "answer": {"hi": "अवसादन (Sedimentation)", "en": "Sedimentation"}
           },
           {
-            "q": {"hi": "सुनील ने राहुल को क्या कहकर बुलाया था?", "en": "What did Sunil call Rahul?"},
-            "options": [{"hi": "छोटा बच्चा", "en": "Small child"}, {"hi": "बहादुर", "en": "Brave"}, {"hi": "दोस्त", "en": "Friend"}],
-            "answer": {"hi": "छोटा बच्चा", "en": "Small child"}
+            "q": {
+              "hi": "मिश्रण में नीचे बैठे हुए ठोस कण क्या कहलाते हैं?",
+              "en": "The solid particles that settle down during sedimentation are known as what?"
+            },
+            "options": [
+              {"hi": "तलछट या सेडिमेंट्स (Sediments)", "en": "Sediments"},
+              {"hi": "विलायक (Solvent)", "en": "Solvent"},
+              {"hi": "क्रिस्टल (Crystals)", "en": "Crystals"},
+              {"hi": "भाप (Vapour)", "en": "Vapour"}
+            ],
+            "answer": {"hi": "तलछट या सेडिमेंट्स (Sediments)", "en": "Sediments"}
           },
           {
-            "q": {"hi": "कहानी का मुख्य सन्देश क्या है?", "en": "What is the main message of the story?"},
-            "options": [{"hi": "बहादुरी", "en": "Courage"}, {"hi": "चोरी करना", "en": "Stealing"}, {"hi": "क्रिकेट खेलना", "en": "Playing cricket"}],
-            "answer": {"hi": "बहादुरी", "en": "Courage"}
+            "q": {
+              "hi": "क्या समुद्री पानी से नमक प्राप्त करने के लिए वाष्पीकरण विधि का उपयोग किया जाता है?",
+              "en": "Is the process of evaporation used to obtain common salt from seawater?"
+            },
+            "options": [
+              {"hi": "सत्य (True)", "en": "True"},
+              {"hi": "असत्य (False)", "en": "False"},
+              {"hi": "केवल सर्दियों में", "en": "Only in winter"},
+              {"hi": "केवल प्रयोगशाला में", "en": "Only in lab"}
+            ],
+            "answer": {"hi": "सत्य (True)", "en": "True"}
           },
           {
-            "q": {"hi": "क्या प्रियांश जोशी ने तेंदुए से अपनी बहन को बचाया?", "en": "Did Priyanshu save his sister from a leopard?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "चावल और दालों को पकाने से पहले उनमें से गंदगी और कीड़े हटाने के लिए उन्हें किसमें भिगोया जाता है?",
+              "en": "Why are rice grains and pulses soaked in water at home before cooking?"
+            },
+            "options": [
+              {"hi": "दत्तक/धूल, गंदगी और कीड़ों को हटाने के लिए", "en": "To remove dirt and insects"},
+              {"hi": "उन्हें मीठा बनाने के लिए", "en": "To make them sweet"},
+              {"hi": "उनका रंग बदलने के लिए", "en": "To change their color"},
+              {"hi": "उन्हें और अधिक भारी बनाने के लिए", "en": "To make them heavier"}
+            ],
+            "answer": {"hi": "दत्तक/धूल, गंदगी और कीड़ों को हटाने के लिए", "en": "To remove dirt and insects"}
           },
           {
-            "q": {"hi": "क्या राहुल का सुनील से फिर से क्रिकेट खेलने का मन था?", "en": "Did Rahul want to play cricket with Sunil?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "मिश्रण पृथक्करण का मुख्य उद्देश्य क्या होता है?",
+              "en": "What is the main purpose of separating components of a mixture?"
+            },
+            "options": [
+              {"hi": "हानिकारक अशुद्धियों को हटाना और उपयोगी घटकों को अलग करना", "en": "To remove harmful impurities and use components separately"},
+              {"hi": "चीजों को आपस में मिलाना", "en": "To mix things together"},
+              {"hi": "वजन बढ़ाना", "en": "To increase weight"},
+              {"hi": "रंग बदलना", "en": "To change color"}
+            ],
+            "answer": {"hi": "हानिकारक अशुद्धियों को हटाना और उपयोगी घटकों को अलग करना", "en": "To remove harmful impurities and use components separately"}
           },
           {
-            "q": {"hi": "डाकू को कैसे काबू किया गया?", "en": "How were the robbers overpowered?"},
-            "options": [{"hi": "अचानक हमला करके", "en": "By sudden attack"}, {"hi": "बात करके", "en": "By talking"}, {"hi": "छिपकर", "en": "By hiding"}],
-            "answer": {"hi": "अचानक हमला करके", "en": "By sudden attack"}
+            "q": {
+              "hi": "ठंडे पानी की बोतल की बाहरी सतह पर पानी की बूंदों का दिखना किस प्रक्रिया का परिणाम है?",
+              "en": "The appearance of water droplets on the outer surface of a cold water bottle is a result of what?"
+            },
+            "options": [
+              {"hi": "संघनन (Condensation)", "en": "Condensation"},
+              {"hi": "वाष्पीकरण (Evaporation)", "en": "Evaporation"},
+              {"hi": "पिघलना (Melting)", "en": "Melting"},
+              {"hi": "थ्रेशिंग (Threshing)", "en": "Threshing"}
+            ],
+            "answer": {"hi": "संघनन (Condensation)", "en": "Condensation"}
           },
           {
-            "q": {"hi": "क्या पुलिस स्टेशन के पास कोई बूथ था?", "en": "Was there a police booth?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "क्या बालू और पानी के मिश्रण को छानकर (filtering) अलग किया जा सकता है?",
+              "en": "Can a mixture of sand and water be separated by filtration?"
+            },
+            "options": [
+              {"hi": "सत्य (True)", "en": "True"},
+              {"hi": "असत्य (False)", "en": "False"},
+              {"hi": "केवल उबालकर", "en": "Only by boiling"},
+              {"hi": "केवल चुंबक से", "en": "Only by magnet"}
+            ],
+            "answer": {"hi": "सत्य (True)", "en": "True"}
           },
           {
-            "q": {"hi": "राहुल का सुनील के प्रति व्यवहार कैसा था?", "en": "How did Rahul feel towards Sunil?"},
-            "options": [{"hi": "सम्मानजनक", "en": "Respectful"}, {"hi": "डरपोक", "en": "Fearful"}, {"hi": "दुश्मन जैसा", "en": "Like an enemy"}],
-            "answer": {"hi": "सम्मानजनक", "en": "Respectful"}
+            "q": {
+              "hi": "अनाज के दानों से भारी भूसी और तिनके अलग करने के लिए कौन सी विधि उपयुक्त है?",
+              "en": "Which method is suitable for separating lighter husk and chaff from heavier grains?"
+            },
+            "options": [
+              {"hi": "ओससाना या विनोइंग (Winnowing)", "en": "Winnowing"},
+              {"hi": "हैंडपिकिंग (Handpicking)", "en": "Handpicking"},
+              {"hi": "चुंबकीय पृथक्करण (Magnetic separation)", "en": "Magnetic separation"},
+              {"hi": "आसवन (Distillation)", "en": "Distillation"}
+            ],
+            "answer": {"hi": "ओससाना या विनोइंग (Winnowing)", "en": "Winnowing"}
           }
         ]
       },
