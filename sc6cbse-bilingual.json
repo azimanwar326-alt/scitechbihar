@@ -4630,265 +4630,664 @@
           }
         ]
       },
-    "chapter08": {
-        "section1": [
+    "chapter08": {"section1": [
           {
-            "q": {"hi": "डॉ. ए.पी.जे. अब्दुल कलाम का जन्म कहाँ हुआ था?", "en": "Where was Dr. A.P.J. Abdul Kalam born?"},
-            "options": [{"hi": "रामेश्वरम", "en": "Rameswaram"}, {"hi": "मदुरै", "en": "Madurai"}, {"hi": "चेन्नई", "en": "Chennai"}, {"hi": "बैंगलोर", "en": "Bangalore"}],
-            "answer": {"hi": "रामेश्वरम", "en": "Rameswaram"}
+            "q": {
+              "hi": "पृथ्वी की सतह का लगभग कितना प्रतिशत भाग पानी से ढका हुआ है?",
+              "en": "Around what percentage of the earth's surface is covered by water?"
+            },
+            "options": [
+              {"hi": "लगभग 71%", "en": "Around 71%"},
+              {"hi": "लगभग 50%", "en": "Around 50%"},
+              {"hi": "लगभग 90%", "en": "Around 90%"},
+              {"hi": "लगभग 30%", "en": "Around 30%"}
+            ],
+            "answer": {"hi": "लगभग 71%", "en": "Around 71%"}
           },
           {
-            "q": {"hi": "कलाम के पिता का नाम क्या था?", "en": "What was the name of Kalam's father?"},
-            "options": [{"hi": "जैनुलआबदीन", "en": "Jainulabdeen"}, {"hi": "अब्दुल रहीम", "en": "Abdul Rahim"}, {"hi": "मोहम्मद", "en": "Mohammed"}, {"hi": "हसन", "en": "Hassan"}],
-            "answer": {"hi": "जैनुलआबदीन", "en": "Jainulabdeen"}
+            "q": {
+              "hi": "पृथ्वी पर कुल पानी का कितना प्रतिशत हिस्सा ताजा पानी (freshwater) के रूप में उपलब्ध है?",
+              "en": "What percentage of the total water present on earth is freshwater?"
+            },
+            "options": [
+              {"hi": "2.5%", "en": "2.5%"},
+              {"hi": "96.5%", "en": "96.5%"},
+              {"hi": "50%", "en": "50%"},
+              {"hi": "1.7%", "en": "1.7%"}
+            ],
+            "answer": {"hi": "2.5%", "en": "2.5%"}
           },
           {
-            "q": {"hi": "कलाम की माता का नाम क्या था?", "en": "What was the name of Kalam's mother?"},
-            "options": [{"hi": "फातिमा", "en": "Fatima"}, {"hi": "आशियाम्मा", "en": "Ashiamma"}, {"hi": "ज़ैनाब", "en": "Zainab"}, {"hi": "मरियम", "en": "Mariam"}],
-            "answer": {"hi": "आशियाम्मा", "en": "Ashiamma"}
+            "q": {
+              "hi": "कुल ताजे पानी (freshwater) का कितना हिस्सा बर्फ के रूप में मौजूद है?",
+              "en": "What percentage of the total freshwater is in the form of ice?"
+            },
+            "options": [
+              {"hi": "98.8%", "en": "98.8%"},
+              {"hi": "0.3%", "en": "0.3%"},
+              {"hi": "50%", "en": "50%"},
+              {"hi": "10%", "en": "10%"}
+            ],
+            "answer": {"hi": "98.8%", "en": "98.8%"}
           },
           {
-            "q": {"hi": "कलाम के पिता ने अंग्रेजों से क्या उपाधि प्राप्त की थी?", "en": "What title was bestowed upon one of the mother's forbears by the British?"},
-            "options": [{"hi": "नवाब", "en": "Nawab"}, {"hi": "बहादुर", "en": "Bahadur"}, {"hi": "सर", "en": "Sir"}, {"hi": "राजा", "en": "Raja"}],
-            "answer": {"hi": "बहादुर", "en": "Bahadur"}
+            "q": {
+              "hi": "नदियों, झीलों और हवा में कुल ताजे पानी का कितना प्रतिशत से भी कम हिस्सा उपलब्ध है?",
+              "en": "Less than what percentage of total freshwater is found in rivers, lakes and air?"
+            },
+            "options": [
+              {"hi": "0.3%", "en": "0.3%"},
+              {"hi": "2.5%", "en": "2.5%"},
+              {"hi": "98.8%", "en": "98.8%"},
+              {"hi": "5%", "en": "5%"}
+            ],
+            "answer": {"hi": "0.3%", "en": "0.3%"}
           },
           {
-            "q": {"hi": "कलाम का घर किस चीज से बना था?", "en": "What was Kalam's house made of?"},
-            "options": [{"hi": "मिट्टी और लकड़ी", "en": "Mud and wood"}, {"hi": "चूना पत्थर और ईंट", "en": "Limestone and bricks"}, {"hi": "सीमेंट और लोहा", "en": "Cement and iron"}, {"hi": "पत्थर और मिट्टी", "en": "Stone and mud"}],
-            "answer": {"hi": "चूना पत्थर और ईंट", "en": "Limestone and bricks"}
+            "q": {
+              "hi": "जल मुख्य रूप से कितनी अवस्थाओं में पाया जाता है?",
+              "en": "In how many states does water exist?"
+            },
+            "options": [
+              {"hi": "तीन (Three)", "en": "Three"},
+              {"hi": "दो (Two)", "en": "Two"},
+              {"hi": "चार (Four)", "en": "Four"},
+              {"hi": "पाँच (Five)", "en": "Five"}
+            ],
+            "answer": {"hi": "तीन (Three)", "en": "Three"}
           },
           {
-            "q": {"hi": "कलाम के बचपन का घर किस स्ट्रीट पर स्थित था?", "en": "On which street was Kalam's childhood house located?"},
-            "options": [{"hi": "मंदिर स्ट्रीट", "en": "Temple Street"}, {"hi": "मस्जिद स्ट्रीट", "en": "Mosque Street"}, {"hi": "मार्केट स्ट्रीट", "en": "Market Street"}, {"hi": "स्कूल स्ट्रीट", "en": "School Street"}],
-            "answer": {"hi": "मस्जिद स्ट्रीट", "en": "Mosque Street"}
+            "q": {
+              "hi": "पानी अपने ठोस रूप (Solid state) में किस रूप में पाया जाता है?",
+              "en": "In solid state, how does water exist?"
+            },
+            "options": [
+              {"hi": "बर्फ, हिमपात या पाला (Ice, snow or frost)", "en": "Snow, frost or ice"},
+              {"hi": "केवल भाप", "en": "Only steam"},
+              {"hi": "केवल तरल", "en": "Only liquid"},
+              {"hi": "बारिश की बूंदें", "en": "Raindrops"}
+            ],
+            "answer": {"hi": "बर्फ, हिमपात या पाला (Ice, snow or frost)", "en": "Snow, frost or ice"}
           },
           {
-            "q": {"hi": "कलाम ने अपने बचपन को कैसा बताया है?", "en": "How did Kalam describe his childhood?"},
-            "options": [{"hi": "कठिन", "en": "Difficult"}, {"hi": "असुरक्षित", "en": "Insecure"}, {"hi": "सुरक्षित", "en": "Secured"}, {"hi": "गरीब", "en": "Poor"}],
-            "answer": {"hi": "सुरक्षित", "en": "Secured"}
+            "q": {
+              "hi": "कमरे के तापमान पर पानी किस अवस्था में मौजूद होता है?",
+              "en": "At room temperature, in which state does water exist?"
+            },
+            "options": [
+              {"hi": "द्रव (Liquid)", "en": "Liquid"},
+              {"hi": "ठोस (Solid)", "en": "Solid"},
+              {"hi": "गैस (Gas)", "en": "Gas"},
+              {"hi": "प्लाज्मा (Plasma)", "en": "Plasma"}
+            ],
+            "answer": {"hi": "द्रव (Liquid)", "en": "Liquid"}
           },
           {
-            "q": {"hi": "कलाम भोजन कहाँ बैठकर करते थे?", "en": "Where did Kalam sit to eat his food?"},
-            "options": [{"hi": "मेज पर", "en": "On the table"}, {"hi": "रसोई के फर्श पर", "en": "On the kitchen floor"}, {"hi": "बगीचे में", "en": "In the garden"}, {"hi": "सोफे पर", "en": "On the sofa"}],
-            "answer": {"hi": "रसोई के फर्श पर", "en": "On the kitchen floor"}
+            "q": {
+              "hi": "गैसीय अवस्था में पानी किस रूप में मौजूद होता है?",
+              "en": "In gaseous state, how does water exist?"
+            },
+            "options": [
+              {"hi": "जल वाष्प या भाप (Water vapour or steam)", "en": "Water vapour or steam"},
+              {"hi": "बर्फ (Ice)", "en": "Ice"},
+              {"hi": "कोहरा (Fog)", "en": "Fog"},
+              {"hi": "ओस (Dew)", "en": "Dew"}
+            ],
+            "answer": {"hi": "जल वाष्प या भाप (Water vapour or steam)", "en": "Water vapour or steam"}
           },
           {
-            "q": {"hi": "भोजन किस पर परोसा जाता था?", "en": "On what was the food served?"},
-            "options": [{"hi": "प्लेट", "en": "Plate"}, {"hi": "केले के पत्ते", "en": "Banana leaf"}, {"hi": "कटोरा", "en": "Bowl"}, {"hi": "कागज", "en": "Paper"}],
-            "answer": {"hi": "केले के पत्ते", "en": "Banana leaf"}
+            "q": {
+              "hi": "ठोस बर्फ का पिघुलकर पानी (द्रव) में बदलना क्या कहलाता है?",
+              "en": "What is the process of conversion of a solid into its liquid state known as?"
+            },
+            "options": [
+              {"hi": "गलनांक या पिघलना (Melting)", "en": "Melting"},
+              {"hi": "हिमीकरण (Freezing)", "en": "Freezing"},
+              {"hi": "संघनन (Condensation)", "en": "Condensation"},
+              {"hi": "वाष्पीकरण (Evaporation)", "en": "Evaporation"}
+            ],
+            "answer": {"hi": "गलनांक या पिघलना (Melting)", "en": "Melting"}
           },
           {
-            "q": {"hi": "कलाम की माता जी उन्हें भोजन में क्या देती थीं?", "en": "What did Kalam's mother serve him?"},
-            "options": [{"hi": "दाल और रोटी", "en": "Dal and roti"}, {"hi": "चावल और सांभर", "en": "Rice and sambhar"}, {"hi": "नूडल्स", "en": "Noodles"}, {"hi": "सूप", "en": "Soup"}],
-            "answer": {"hi": "चावल और सांभर", "en": "Rice and sambhar"}
+            "q": {
+              "hi": "तरल पानी का ठंडक पाकर ठोस बर्फ में बदलना क्या कहलाता है?",
+              "en": "What is the process of conversion of a liquid into a solid called?"
+            },
+            "options": [
+              {"hi": "हिमीकरण या ठोसकरण (Freezing or solidification)", "en": "Freezing or solidification"},
+              {"hi": "वाष्पीकरण (Vaporisation)", "en": "Vaporisation"},
+              {"hi": "संलयन (Fusion)", "en": "Fusion"},
+              {"hi": "उत्प्रेरण (Catalysis)", "en": "Catalysis"}
+            ],
+            "answer": {"hi": "हिमीकरण या ठोसकरण (Freezing or solidification)", "en": "Freezing or solidification"}
           }
         ],
         "section2": [
           {
-            "q": {"hi": "रामेश्वरम का प्रसिद्ध मंदिर उनके घर से कितनी दूर था?", "en": "How far was the famous temple from their house?"},
-            "options": [{"hi": "5 मिनट", "en": "5 minutes"}, {"hi": "10 मिनट", "en": "10 minutes"}, {"hi": "15 मिनट", "en": "15 minutes"}, {"hi": "20 मिनट", "en": "20 minutes"}],
-            "answer": {"hi": "10 मिनट", "en": "10 minutes"}
+            "q": {
+              "hi": "द्रव का गैसीय या वाष्प अवस्था में बदलने की प्रक्रिया क्या कहलाती है?",
+              "en": "The process by which a liquid changes into its gaseous or vapour state is called what?"
+            },
+            "options": [
+              {"hi": "वाष्पीकरण (Vaporisation)", "en": "Vaporisation"},
+              {"hi": "संघनन (Condensation)", "en": "Condensation"},
+              {"hi": "हिमीकरण (Freezing)", "en": "Freezing"},
+              {"hi": "पिघलना (Melting)", "en": "Melting"}
+            ],
+            "answer": {"hi": "वाष्पीकरण (Vaporisation)", "en": "Vaporisation"}
           },
           {
-            "q": {"hi": "रामेश्वरम के मंदिर के मुख्य पुजारी कौन थे?", "en": "Who was the high priest of Rameswaram Temple?"},
-            "options": [{"hi": "पक्षी लक्ष्मण शास्त्री", "en": "Pakshi Lakshmana Sastry"}, {"hi": "राम कृष्ण", "en": "Ram Krishna"}, {"hi": "शिवन", "en": "Shivan"}, {"hi": "सुब्रमण्यम", "en": "Subramaniam"}],
-            "answer": {"hi": "पक्षी लक्ष्मण शास्त्री", "en": "Pakshi Lakshmana Sastry"}
+            "q": {
+              "hi": "वाष्पीकरण (Evaporation) की प्रक्रिया किस तापमान पर होती है?",
+              "en": "At what temperature does evaporation occur?"
+            },
+            "options": [
+              {"hi": "सभी तापमानों पर (At all temperatures)", "en": "At all temperatures"},
+              {"hi": "केवल 0°C पर", "en": "Only at 0°C"},
+              {"hi": "केवल 100°C पर", "en": "Only at 100°C"},
+              {"hi": "केवल -10°C पर", "en": "Only at -10°C"}
+            ],
+            "answer": {"hi": "सभी तापमानों पर (At all temperatures)", "en": "At all temperatures"}
           },
           {
-            "q": {"hi": "कलाम के पिता के मित्र कौन थे?", "en": "Who was a close friend of Kalam's father?"},
-            "options": [{"hi": "पक्षी लक्ष्मण शास्त्री", "en": "Pakshi Lakshmana Sastry"}, {"hi": "एक डॉक्टर", "en": "A doctor"}, {"hi": "एक शिक्षक", "en": "A teacher"}, {"hi": "एक व्यापारी", "en": "A businessman"}],
-            "answer": {"hi": "पक्षी लक्ष्मण शास्त्री", "en": "Pakshi Lakshmana Sastry"}
+            "q": {
+              "hi": "पौधों में पत्तियों से जल वाष्प के रूप में पानी के नुकसान की प्रक्रिया क्या कहलाती है?",
+              "en": "Water lost from the leaves of plants in the form of water vapour is called what?"
+            },
+            "options": [
+              {"hi": "वाष्पोत्सर्जन (Transpiration)", "en": "Transpiration"},
+              {"hi": "वाष्पीकरण (Evaporation)", "en": "Evaporation"},
+              {"hi": "संघनन (Condensation)", "en": "Condensation"},
+              {"hi": "अवक्षेपण (Precipitation)", "en": "Precipitation"}
+            ],
+            "answer": {"hi": "वाष्पोत्सर्जन (Transpiration)", "en": "Transpiration"}
           },
           {
-            "q": {"hi": "कलाम के पिता क्या करने से बचते थे?", "en": "What did Kalam's father avoid?"},
-            "options": [{"hi": "प्रार्थना", "en": "Prayer"}, {"hi": "अनावश्यक सुख-सुविधाएँ", "en": "Inessential comforts"}, {"hi": "काम", "en": "Work"}, {"hi": "मित्रता", "en": "Friendship"}],
-            "answer": {"hi": "अनावश्यक सुख-सुविधाएँ", "en": "Inessential comforts"}
+            "q": {
+              "hi": "गैस या वाष्प का ठंडा होकर द्रव में बदलने की प्रक्रिया क्या कहलाती है?",
+              "en": "What is the process of conversion of gas into liquid called?"
+            },
+            "options": [
+              {"hi": "संघनन या कंडेंसेशन (Condensation)", "en": "Condensation"},
+              {"hi": "वाष्पीकरण (Evaporation)", "en": "Evaporation"},
+              {"hi": "उबलना (Boiling)", "en": "Boiling"},
+              {"hi": "हिमीकरण (Freezing)", "en": "Freezing"}
+            ],
+            "answer": {"hi": "संघनन या कंडेंसेशन (Condensation)", "en": "Condensation"}
           },
           {
-            "q": {"hi": "कलाम के अनुसार उनके पिता की क्या विशेषता थी?", "en": "What was a great quality of Kalam's father?"},
-            "options": [{"hi": "बहुत धन", "en": "Much wealth"}, {"hi": "जन्मजात बुद्धिमत्ता", "en": "Innate wisdom"}, {"hi": "सुंदरता", "en": "Beauty"}, {"hi": "शक्ति", "en": "Strength"}],
-            "answer": {"hi": "जन्मजात बुद्धिमत्ता", "en": "Innate wisdom"}
+            "q": {
+              "hi": "वातावरण में मौजूद जल वाष्प की मात्रा को क्या कहा जाता है?",
+              "en": "The amount of water vapour in the air is also called what?"
+            },
+            "options": [
+              {"hi": "आर्द्रता या ह्यूमिडिटी (Humidity)", "en": "Humidity"},
+              {"hi": "वर्षा (Rain)", "en": "Rain"},
+              {"hi": "घनत्व (Density)", "en": "Density"},
+              {"hi": "दबाव (Pressure)", "en": "Pressure"}
+            ],
+            "answer": {"hi": "आर्द्रता या ह्यूमिडिटी (Humidity)", "en": "Humidity"}
           },
           {
-            "q": {"hi": "कलाम ने 'cosmos' शब्द का क्या अर्थ बताया है?", "en": "What is the meaning of 'cosmos' in the text?"},
-            "options": [{"hi": "पृथ्वी", "en": "Earth"}, {"hi": "ब्रह्मांड", "en": "Universe"}, {"hi": "सितारे", "en": "Stars"}, {"hi": "सूरज", "en": "Sun"}],
-            "answer": {"hi": "ब्रह्मांड", "en": "Universe"}
+            "q": {
+              "hi": "निम्नलिखित में से कौन सा कारक वाष्पीकरण की दर (rate of evaporation) को प्रभावित करता है?",
+              "en": "Which of the following factors influences the rate of evaporation?"
+            },
+            "options": [
+              {"hi": "सतह का क्षेत्रफल, तापमान, हवा और आर्द्रता (Surface area, temperature, wind and humidity)", "en": "Surface area, temperature, wind and humidity"},
+              {"hi": "केवल वस्तु का रंग", "en": "Only colour of object"},
+              {"hi": "केवल वस्तु का वजन", "en": "Only weight"},
+              {"hi": "केवल चुंबकत्व", "en": "Only magnetism"}
+            ],
+            "answer": {"hi": "सतह का क्षेत्रफल, तापमान, हवा और आर्द्रता (Surface area, temperature, wind and humidity)", "en": "Surface area, temperature, wind and humidity"}
           },
           {
-            "q": {"hi": "कलाम की माँ का स्वभाव कैसा था?", "en": "What kind of nature did Kalam's mother have?"},
-            "options": [{"hi": "कठोर", "en": "Strict"}, {"hi": "उदार", "en": "Generous"}, {"hi": "गुस्सैल", "en": "Angry"}, {"hi": "स्वार्थी", "en": "Selfish"}],
-            "answer": {"hi": "उदार", "en": "Generous"}
+            "q": {
+              "hi": "सतह का क्षेत्रफल बढ़ने पर वाष्पीकरण की दर पर क्या प्रभाव पड़ता है?",
+              "en": "What happens to the rate of evaporation when the surface area increases?"
+            },
+            "options": [
+              {"hi": "वाष्पीकरण की दर बढ़ जाती है (Increases)", "en": "Increases"},
+              {"hi": "वाष्पीकरण की दर कम हो जाती है", "en": "Decreases"},
+              {"hi": "कोई परिवर्तन नहीं होता", "en": "No change"},
+              {"hi": "वाष्पीकरण रुक जाता है", "en": "Stops completely"}
+            ],
+            "answer": {"hi": "वाष्पीकरण की दर बढ़ जाती है (Increases)", "en": "Increases"}
           },
           {
-            "q": {"hi": "प्रार्थना के बारे में पिता ने क्या कहा?", "en": "What did his father say about prayer?"},
-            "options": [{"hi": "यह समय की बर्बादी है", "en": "It is a waste of time"}, {"hi": "यह शरीर से परे जाने का मार्ग है", "en": "It helps to transcend the body"}, {"hi": "यह केवल रविवार को होनी चाहिए", "en": "It should be done only on Sundays"}, {"hi": "यह अनिवार्य नहीं है", "en": "It is not mandatory"}],
-            "answer": {"hi": "यह शरीर से परे जाने का मार्ग है", "en": "It helps to transcend the body"}
+            "q": {
+              "hi": "तापमान बढ़ने पर वाष्पीकरण की दर कैसी हो जाती है?",
+              "en": "What happens to the rate of evaporation with an increase in temperature?"
+            },
+            "options": [
+              {"hi": "तेज़ हो जाती है / बढ़ जाती है", "en": "Increases"},
+              {"hi": "धीमी हो जाती है", "en": "Decreases"},
+              {"hi": "शून्य हो जाती है", "en": "Becomes zero"},
+              {"hi": "स्थिर रहती है", "en": "Remains constant"}
+            ],
+            "answer": {"hi": "तेज़ हो जाती है / बढ़ जाती है", "en": "Increases"}
           },
           {
-            "q": {"hi": "रामेश्वरम कैसा शहर था?", "en": "What kind of town was Rameswaram?"},
-            "options": [{"hi": "पहाड़ी इलाका", "en": "Hilly area"}, {"hi": "द्वीप का शहर", "en": "Island town"}, {"hi": "रेगिस्तानी इलाका", "en": "Desert area"}, {"hi": "औद्योगिक शहर", "en": "Industrial city"}],
-            "answer": {"hi": "द्वीप का शहर", "en": "Island town"}
+            "q": {
+              "hi": "हवा की गति बढ़ने पर कपड़ों के सूखने की गति पर क्या प्रभाव पड़ता है?",
+              "en": "How does an increase in wind speed affect the drying of clothes?"
+            },
+            "options": [
+              {"hi": "कपड़े जल्दी सूखते हैं (Evaporation increases)", "en": "Clothes dry more quickly"},
+              {"hi": "कपड़े देर से सूखते हैं", "en": "Clothes dry slowly"},
+              {"hi": "कोई असर नहीं पड़ता", "en": "No effect"},
+              {"hi": "कपड़े गीले हो जाते हैं", "en": "Clothes get wetter"}
+            ],
+            "answer": {"hi": "कपड़े जल्दी सूखते हैं (Evaporation increases)", "en": "Clothes dry more quickly"}
           },
           {
-            "q": {"hi": "कलाम किस पुस्तक के लेखक हैं?", "en": "Kalam is the author of which book?"},
-            "options": [{"hi": "Wings of Fire", "en": "Wings of Fire"}, {"hi": "My Autobiography", "en": "My Autobiography"}, {"hi": "Rameswaram Days", "en": "Rameswaram Days"}, {"hi": "Childhood Memories", "en": "Childhood Memories"}],
-            "answer": {"hi": "Wings of Fire", "en": "Wings of Fire"}
+            "q": {
+              "hi": "वायुमंडल में आर्द्रता (humidity) अधिक होने पर वाष्पीकरण की दर कैसी हो जाती है?",
+              "en": "What happens to the rate of evaporation when humidity in the atmosphere is high?"
+            },
+            "options": [
+              {"hi": "कम हो जाती है (Decreases)", "en": "Decreases"},
+              {"hi": "बढ़ जाती है", "en": "Increases"},
+              {"hi": "दोगुनी हो जाती है", "en": "Doubles"},
+              {"hi": "अपरिवर्तित रहती है", "en": "Remains unchanged"}
+            ],
+            "answer": {"hi": "कम हो जाती है (Decreases)", "en": "Decreases"}
           }
         ],
         "section3": [
           {
-            "q": {"hi": "क्या कलाम के पिता बहुत शिक्षित थे?", "en": "Was Kalam's father highly educated?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "नहीं", "en": "No"}
+            "q": {
+              "hi": "मिट्टी के घड़े (मटके) का पानी ठंडा क्यों रहता है?",
+              "en": "Why is water kept in a clay pot (matka) cooler than water in a steel container?"
+            },
+            "options": [
+              {"hi": "घड़े के छिद्रों से पानी रिसकर बाहर वाष्pीकृत होता है जो शीतलन प्रभाव पैदा करता है", "en": "Due to water seeping through pores and evaporating, causing a cooling effect"},
+              {"hi": "घड़े में बर्फ पड़ी होती है", "en": "Ice is kept inside"},
+              {"hi": "मिट्टी ठंडी होती है", "en": "Soil is cold"},
+              {"hi": "हवा अंदर नहीं जाती", "en": "Air does not enter"}
+            ],
+            "answer": {"hi": "घड़े के छिद्रों से पानी रिसकर बाहर वाष्pीकृत होता है जो शीतलन प्रभाव पैदा करता है", "en": "Due to water seeping through pores and evaporating, causing a cooling effect"}
           },
           {
-            "q": {"hi": "कलाम के मोहल्ले में ज्यादातर लोग किस धर्म के थे?", "en": "What was the religion of most people in Kalam's locality?"},
-            "options": [{"hi": "हिंदू", "en": "Hindu"}, {"hi": "मुस्लिम", "en": "Muslim"}, {"hi": "ईसाई", "en": "Christian"}, {"hi": "सिख", "en": "Sikh"}],
-            "answer": {"hi": "मुस्लिम", "en": "Muslim"}
+            "q": {
+              "hi": "हाथ पर सैनिटाइज़र लगाने पर ठंडक क्यों महसूस होती है?",
+              "en": "Why do we feel a cooling sensation when applying hand sanitizer?"
+            },
+            "options": [
+              {"hi": "क्योंकि उसमें मौजूद अल्कोहल तुरंत वाष्पीकृत होकर त्वचा से ऊष्मा खींच लेता है", "en": "Because alcohol evaporates instantly, removing heat from skin"},
+              {"hi": "क्योंकि वह ठंडा होता है", "en": "Because it is cold"},
+              {"hi": "क्योंकि वह बर्फ से बनता है", "en": "Because it is made from ice"},
+              {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+            ],
+            "answer": {"hi": "क्योंकि उसमें मौजूद अल्कोहल तुरंत वाष्पीकृत होकर त्वचा से ऊष्मा खींच लेता है", "en": "Because alcohol evaporates instantly, removing heat from skin"}
           },
           {
-            "q": {"hi": "क्या कलाम के माता-पिता को एक आदर्श जोड़ा माना जाता था?", "en": "Were Kalam's parents considered an ideal couple?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "ऊंचाई पर जाने पर हवा ठंडी होने के कारण जलवाष्प किस रूप में संघनित हो जाती है?",
+              "en": "As air becomes cooler at higher altitudes, water vapour condenses into what?"
+            },
+            "options": [
+              {"hi": "सूक्ष्म जल की बूंदें (Tiny water droplets)", "en": "Tiny water droplets"},
+              {"hi": "बर्फ की ईंटें", "en": "Ice bricks"},
+              {"hi": "नमक के कण", "en": "Salt particles"},
+              {"hi": "धूल के गोले", "en": "Dust balls"}
+            ],
+            "answer": {"hi": "सूक्ष्म जल की बूंदें (Tiny water droplets)", "en": "Tiny water droplets"}
           },
           {
-            "q": {"hi": "क्या कलाम ने अपनी आत्मकथा में अपनी शारीरिक बनावट का वर्णन किया है?", "en": "Did Kalam describe his physical appearance in his autobiography?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "तैरती हुई जल की सूक्ष्म बूंदें आपस में मिलकर क्या बनाती हैं?",
+              "en": "What do floating tiny water droplets combine to form?"
+            },
+            "options": [
+              {"hi": "बादल (Clouds)", "en": "Clouds"},
+              {"hi": "नदियाँ", "en": "Rivers"},
+              {"hi": "समुद्र", "en": "Oceans"},
+              {"hi": "बर्फ के पहाड़", "en": "Icebergs"}
+            ],
+            "answer": {"hi": "बादल (Clouds)", "en": "Clouds"}
           },
           {
-            "q": {"hi": "आरोग्य (invalids) लोग कलाम के पिता के पास क्यों आते थे?", "en": "Why did invalids visit Kalam's father?"},
-            "options": [{"hi": "दवा लेने", "en": "To take medicine"}, {"hi": "प्रार्थना और आशीर्वाद के लिए", "en": "For prayers and blessings"}, {"hi": "पैसे के लिए", "en": "For money"}, {"hi": "सलाह के लिए", "en": "For advice"}],
-            "answer": {"hi": "प्रार्थना और आशीर्वाद के लिए", "en": "For prayers and blessings"}
+            "q": {
+              "hi": "जब पानी की बूंदें बहुत भारी हो जाती हैं, तो वे जमीन पर किस रूप में गिरती हैं?",
+              "en": "When water drops become too heavy, how do they fall on the ground?"
+            },
+            "options": [
+              {"hi": "वर्षा, ओले या बर्फ (Rain, hail and snow)", "en": "Rain, hail and snow"},
+              {"hi": "केवल भाप के रूप में", "en": "Only as steam"},
+              {"hi": "केवल कोहरे के रूप में", "en": "Only as fog"},
+              {"hi": "हवा के रूप में", "en": "As wind"}
+            ],
+            "answer": {"hi": "वर्षा, ओले या बर्फ (Rain, hail and snow)", "en": "Rain, hail and snow"}
           },
           {
-            "q": {"hi": "पिता के अनुसार ब्रह्मांड में क्या मायने नहीं रखता?", "en": "What does not matter in the cosmos according to the father?"},
-            "options": [{"hi": "धर्म", "en": "Religion"}, {"hi": "धन, जाति और उम्र", "en": "Wealth, caste and age"}, {"hi": "स्थान", "en": "Location"}, {"hi": "भाषा", "en": "Language"}],
-            "answer": {"hi": "धन, जाति और उम्र", "en": "Wealth, caste and age"}
+            "q": {
+              "hi": "बारिश, ओले या बर्फ के रूप में पानी का वापस पृथ्वी पर लौटना क्या कहलाता है?",
+              "en": "The process of water returning back to the earth as rain, hail or snow is called what?"
+            },
+            "options": [
+              {"hi": "अवक्षेपण या प्रेसिपिटेशन (Precipitation)", "en": "Precipitation"},
+              {"hi": "वाष्पीकरण (Evaporation)", "en": "Evaporation"},
+              {"hi": "संघनन (Condensation)", "en": "Condensation"},
+              {"hi": "वाष्पोत्सर्जन (Transpiration)", "en": "Transpiration"}
+            ],
+            "answer": {"hi": "अवक्षेपण या प्रेसिपिटेशन (Precipitation)", "en": "Precipitation"}
           },
           {
-            "q": {"hi": "क्या कलाम अरबी प्रार्थना का अर्थ समझते थे?", "en": "Did Kalam understand the meaning of the Arabic prayers?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "नहीं", "en": "No"}
+            "q": {
+              "hi": "पृथ्वी की सतह से पानी का वाष्प बनना, फिर संघनित होकर बारिश के रूप में वापस लौटना क्या कहलाता है?",
+              "en": "The continuous exchange of water through evaporation, condensation, and precipitation is called what?"
+            },
+            "options": [
+              {"hi": "जल चक्र या वाटर साइकिल (Water cycle)", "en": "Water cycle"},
+              {"hi": "मौसम चक्र", "en": "Weather cycle"},
+              {"hi": "जीवन चक्र", "en": "Life cycle"},
+              {"hi": "पवन चक्र", "en": "Wind cycle"}
+            ],
+            "answer": {"hi": "जल चक्र या वाटर साइकिल (Water cycle)", "en": "Water cycle"}
           },
           {
-            "q": {"hi": "कलाम ने अपने बचपन को भौतिक रूप से कैसा बताया है?", "en": "How did Kalam describe his childhood materially?"},
-            "options": [{"hi": "गरीब", "en": "Poor"}, {"hi": "सुरक्षित", "en": "Secured"}, {"hi": "विलासी", "en": "Luxurious"}, {"hi": "कठिन", "en": "Difficult"}],
-            "answer": {"hi": "सुरक्षित", "en": "Secured"}
+            "q": {
+              "hi": "जल चक्र (Water cycle) का मुख्य कार्य क्या है?",
+              "en": "What is the main function of the water cycle?"
+            },
+            "options": [
+              {"hi": "पृथ्वी पर पानी का संतुलन बनाए रखना और जीवन को sosten रखना", "en": "Maintains water balance and sustains plant and animal life on earth"},
+              {"hi": "केवल बिजली पैदा करना", "en": "Only to generate electricity"},
+              {"hi": "समुद्र का पानी खारा करना", "en": "To make sea water salty"},
+              {"hi": "हवा को गर्म करना", "en": "To heat the air"}
+            ],
+            "answer": {"hi": "पृथ्वी पर पानी का संतुलन बनाए रखना और जीवन को sosten रखना", "en": "Maintains water balance and sustains plant and animal life on earth"}
           },
           {
-            "q": {"hi": "कलाम के मोहल्ले में क्या शांतिपूर्ण संबंध थे?", "en": "Were there peaceful relations in Kalam's locality?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "घरों, उद्योगों और खेतों से निकलने वाले कचरे को जल स्रोतों में डालने से क्या होता है?",
+              "en": "Throwing wastes generated in homes and industries into water bodies leads to what?"
+            },
+            "options": [
+              {"hi": "जल प्रदूषण (Water pollution)", "en": "Water pollution"},
+              {"hi": "जल शुद्धिकरण", "en": "Water purification"},
+              {"hi": "जल की बचत", "en": "Water saving"},
+              {"hi": "बारिश में वृद्धि", "en": "Increase in rainfall"}
+            ],
+            "answer": {"hi": "जल प्रदूषण (Water pollution)", "en": "Water pollution"}
           },
           {
-            "q": {"hi": "पिता किसे धन्यवाद देने के लिए कहते थे?", "en": "Whom did his father ask them to thank?"},
-            "options": [{"hi": "ईश्वर", "en": "God"}, {"hi": "अल्लाह", "en": "Allah"}, {"hi": "खुद को", "en": "Self"}, {"hi": "डॉक्टर को", "en": "Doctor"}],
-            "answer": {"hi": "अल्लाह", "en": "Allah"}
+            "q": {
+              "hi": "अधिक पेड़ लगाने से पर्यावरण में क्या सहायता मिलती है?",
+              "en": "How does planting more trees help the environment regarding water?"
+            },
+            "options": [
+              {"hi": "यह पानी के अवशोषण को बढ़ाता है और जल संतुलन में मदद करता है", "en": "It increases absorption and helps maintain water balance"},
+              {"hi": "इससे प्रदूषण बढ़ता है", "en": "It increases pollution"},
+              {"hi": "इससे तापमान बढ़ता है", "en": "It increases temperature"},
+              {"hi": "इससे बारिश रुक जाती है", "en": "It stops rainfall"}
+            ],
+            "answer": {"hi": "यह पानी के अवशोषण को बढ़ाता है और जल संतुलन में मदद करता है", "en": "It increases absorption and helps maintain water balance"}
           }
         ],
         "section4": [
           {
-            "q": {"hi": "कलाम ने 'transcend' का क्या अर्थ बताया है?", "en": "What is the meaning of 'transcend'?"},
-            "options": [{"hi": "सीमित रहना", "en": "To limit"}, {"hi": "परे जाना", "en": "To go beyond"}, {"hi": "सो जाना", "en": "To sleep"}, {"hi": "ऊपर चढ़ना", "en": "To climb"}],
-            "answer": {"hi": "परे जाना", "en": "To go beyond"}
+            "q": {
+              "hi": "बर्फ पानी पर क्यों तैरती है?",
+              "en": "Why does ice float on water?"
+            },
+            "options": [
+              {"hi": "क्योंकि बर्फ पानी से हल्की होती है", "en": "Ice is lighter than water"},
+              {"hi": "क्योंकि बर्फ भारी होती है", "en": "Ice is heavier than water"},
+              {"hi": "चुंबकीय बल के कारण", "en": "Due to magnetic force"},
+              {"hi": "हवा के दबाव के कारण", "en": "Due to air pressure"}
+            ],
+            "answer": {"hi": "क्योंकि बर्फ पानी से हल्की होती है", "en": "Ice is lighter than water"}
           },
           {
-            "q": {"hi": "कलाम के अनुसार कौन लोग उदार थे?", "en": "Who were considered generous according to the text?"},
-            "options": [{"hi": "केवल पिता", "en": "Only father"}, {"hi": "माता-पिता दोनों", "en": "Both parents"}, {"hi": "केवल माँ", "en": "Only mother"}, {"hi": "पड़ोसी", "en": "Neighbors"}],
-            "answer": {"hi": "माता-पिता दोनों", "en": "Both parents"}
+            "q": {
+              "hi": "सामान्य तापमान और दबाव पर गैसीय अवस्था में रहने वाले पदार्थ को क्या कहते हैं?",
+              "en": "A substance that exists in the gaseous state under normal conditions of temperature and pressure is called what?"
+            },
+            "options": [
+              {"hi": "गैस (Gas)", "en": "Gas"},
+              {"hi": "वाष्प (Vapour)", "en": "Vapour"},
+              {"hi": "द्रव (Liquid)", "en": "Liquid"},
+              {"hi": "ठोस (Solid)", "en": "Solid"}
+            ],
+            "answer": {"hi": "गैस (Gas)", "en": "Gas"}
           },
           {
-            "q": {"hi": "कलाम ने खुद को कैसा लड़का बताया है?", "en": "How did Kalam describe himself as a boy?"},
-            "options": [{"hi": "लंबा", "en": "Tall"}, {"hi": "छोटा और सामान्य दिखने वाला", "en": "Short and undistinguished"}, {"hi": "बहुत सुंदर", "en": "Very handsome"}, {"hi": "मोटा", "en": "Fat"}],
-            "answer": {"hi": "छोटा और सामान्य दिखने वाला", "en": "Short and undistinguished"}
+            "q": {
+              "hi": "सामान्य परिस्थितियों में ठोस या द्रव रूप में रहने वाला पदार्थ विशिष्ट परिस्थितियों में गैसीय अवस्था में बदले तो उसे क्या कहते हैं?",
+              "en": "A substance that exists as solid or liquid under normal conditions but changes to gaseous state under specific conditions is called what?"
+            },
+            "options": [
+              {"hi": "वाष्प या वेपर (Vapour)", "en": "Vapour"},
+              {"hi": "गैस (Gas)", "en": "Gas"},
+              {"hi": "धातु (Metal)", "en": "Metal"},
+              {"hi": "खनिज (Mineral)", "en": "Mineral"}
+            ],
+            "answer": {"hi": "वाष्प या वेपर (Vapour)", "en": "Vapour"}
           },
           {
-            "q": {"hi": "क्या कलाम के घर में बाहरी लोगों का आना-जाना था?", "en": "Did outsiders visit Kalam's home often?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "जूस में बर्फ मिलाने पर गिलास की बाहरी सतह पर पानी की छोटी बूंदें क्यों जमा हो जाती हैं?",
+              "en": "Why do tiny water droplets appear on the outer surface of a glass containing cold juice and ice?"
+            },
+            "options": [
+              {"hi": "वायुमंडल में मौजूद जलवाष्प ठंडी सतह के संपर्क में आकर संघनित हो जाती है", "en": "Water vapour in atmosphere condenses on coming in contact with cold surface"},
+              {"hi": "गिलास लीक हो रहा होता है", "en": "Glass is leaking"},
+              {"hi": "बर्फ पिघलकर बाहर आ जाती है", "en": "Ice melts outside"},
+              {"hi": "गिलास पसीना छोड़ता है", "en": "Glass sweats"}
+            ],
+            "answer": {"hi": "वायुमंडल में मौजूद जलवाष्प ठंडी सतह के संपर्क में आकर संघनित हो जाती है", "en": "Water vapour in atmosphere condenses on coming in contact with cold surface"}
           },
           {
-            "q": {"hi": "कलाम के घर की दीवारें कैसी थीं?", "en": "What kind of house was it?"},
-            "options": [{"hi": "कच्चा", "en": "Kutcha"}, {"hi": "पक्का", "en": "Pucca"}, {"hi": "झोपड़ी", "en": "Hut"}, {"hi": "गुफा", "en": "Cave"}],
-            "answer": {"hi": "पक्का", "en": "Pucca"}
+            "q": {
+              "hi": "उबलते पानी के बर्तन के ढक्कन पर अंदर की तरफ पानी की बूंदें क्यों बन जाती हैं?",
+              "en": "Why are water droplets formed on the inner side of a lid covering boiling water?"
+            },
+            "options": [
+              {"hi": "भाप ठंडी होकर संघनित (condense) हो जाती है", "en": "Steam condenses on cooling"},
+              {"hi": "पानी बाहर से अंदर जाता है", "en": "Water enters from outside"},
+              {"hi": "ढक्कन पिघल जाता है", "en": "Lid melts"},
+              {"hi": "हवा भर जाती है", "en": "Air fills up"}
+            ],
+            "answer": {"hi": "भाप ठंडी होकर संघनित (condense) हो जाती है", "en": "Steam condenses on cooling"}
           },
           {
-            "q": {"hi": "क्या कलाम के पिता शाम की प्रार्थना के लिए जाते थे?", "en": "Did Kalam's father go for evening prayers?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "उबलते पानी की भाप से हाथ क्यों जल सकता है?",
+              "en": "Why can steam from boiling water cause severe burns?"
+            },
+            "options": [
+              {"hi": "क्योंकि भाप में बहुत अधिक उष्मीय ऊर्जा होती है", "en": "Because steam causes severe burns due to high heat energy"},
+              {"hi": "क्योंकि भाप ठंडी होती है", "en": "Because steam is cold"},
+              {"hi": "क्योंकि भाप में पानी नहीं होता", "en": "Because steam has no water"},
+              {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+            ],
+            "answer": {"hi": "क्योंकि भाप में बहुत अधिक उष्मीय ऊर्जा होती है", "en": "Because steam causes severe burns due to high heat energy"}
           },
           {
-            "q": {"hi": "पिता के पास लोग क्या लाते थे?", "en": "What did people bring to the father?"},
-            "options": [{"hi": "पानी का कटोरा", "en": "Bowl of water"}, {"hi": "भोजन", "en": "Food"}, {"hi": "उपहार", "en": "Gifts"}, {"hi": "फूल", "en": "Flowers"}],
-            "answer": {"hi": "पानी का कटोरा", "en": "Bowl of water"}
+            "q": {
+              "hi": "यदि पानी की समान मात्रा को एक छोटी कटोरी और एक बड़ी थाली में रखा जाए, तो किसमें वाष्पीकरण तेजी से होगा?",
+              "en": "If the same amount of water is kept in a small bowl and a wide plate, in which will evaporation be faster?"
+            },
+            "options": [
+              {"hi": "बड़ी थाली में, क्योंकि उसका सतह क्षेत्र (surface area) अधिक होता है", "en": "In the plate, because of larger surface area"},
+              {"hi": "छोटी कटोरी में", "en": "In the small bowl"},
+              {"hi": "दोनों में बराबर समय लगेगा", "en": "Both take equal time"},
+              {"hi": "किसी में वाष्पीकरण नहीं होगा", "en": "Neither will evaporate"}
+            ],
+            "answer": {"hi": "बड़ी थाली में, क्योंकि उसका सतह क्षेत्र (surface area) अधिक होता है", "en": "In the plate, because of larger surface area"}
           },
           {
-            "q": {"hi": "कलाम के माता-पिता की जोड़ी कैसी थी?", "en": "How was the parents' couple?"},
-            "options": [{"hi": "असामान्य", "en": "Unusual"}, {"hi": "आदर्श", "en": "Ideal"}, {"hi": "विवादित", "en": "Controversial"}, {"hi": "साधारण", "en": "Ordinary"}],
-            "answer": {"hi": "आदर्श", "en": "Ideal"}
+            "q": {
+              "hi": "धूप में रखे पानी के कटोरे का पानी छाया में रखे कटोरे की तुलना में जल्दी क्यों सूख जाता है?",
+              "en": "Why does water in a bowl kept in the sun evaporate faster than one kept in the shade?"
+            },
+            "options": [
+              {"hi": "क्योंकि धूप में तापमान अधिक होने से वाष्पीकरण की दर बढ़ जाती है", "en": "Because higher temperature in sun increases rate of evaporation"},
+              {"hi": "क्योंकि धूप में हवा नहीं चलती", "en": "Because there is no wind in sun"},
+              {"hi": "क्योंकि छाया में पानी भारी हो जाता है", "en": "Because water becomes heavy in shade"},
+              {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+            ],
+            "answer": {"hi": "क्योंकि धूप में तापमान अधिक होने से वाष्पीकरण की दर बढ़ जाती है", "en": "Because higher temperature in sun increases rate of evaporation"}
           },
           {
-            "q": {"hi": "OMNISTS कौन होते हैं?", "en": "Who are OMNISTS?"},
-            "options": [{"hi": "जो किसी धर्म को नहीं मानते", "en": "Those who don't follow any religion"}, {"hi": "जो सभी धर्मों का सम्मान करते हैं", "en": "Those who respect all religions equally"}, {"hi": "जो बहुत अमीर हैं", "en": "Very rich people"}, {"hi": "जो नेता हैं", "en": "Leaders"}],
-            "answer": {"hi": "जो सभी धर्मों का सम्मान करते हैं", "en": "Those who respect all religions equally"}
+            "q": {
+              "hi": "तूफानी या हवादार दिन में गीले कपड़े जल्दी क्यों सूख जाते हैं?",
+              "en": "Why do wet clothes dry quickly on a windy day?"
+            },
+            "options": [
+              {"hi": "क्योंकि हवा की गति बढ़ने से वाष्पीकरण की दर बढ़ जाती है", "en": "Because increased wind speed increases rate of evaporation"},
+              {"hi": "क्योंकि हवा ठंडी होती है", "en": "Because wind is cold"},
+              {"hi": "क्योंकि हवा से कपड़े गर्म हो जाते हैं", "en": "Because clothes get heated by wind"},
+              {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+            ],
+            "answer": {"hi": "क्योंकि हवा की गति बढ़ने से वाष्पीकरण की दर बढ़ जाती है", "en": "Because increased wind speed increases rate of evaporation"}
           },
           {
-            "q": {"hi": "क्या हमें हर धर्म का सम्मान करना चाहिए?", "en": "Should we respect every religion equally?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "बरसात के दिनों में कपड़े देर से क्यों सूखते हैं?",
+              "en": "Why do clothes dry more slowly on rainy days?"
+            },
+            "options": [
+              {"hi": "क्योंकि हवा में आर्द्रता (humidity) अधिक होती है", "en": "Due to increased humidity in the air"},
+              {"hi": "क्योंकि तापमान बहुत अधिक होता है", "en": "Because temperature is very high"},
+              {"hi": "क्योंकि हवा बिल्कुल नहीं चलती", "en": "Because there is no wind at all"},
+              {"hi": "क्योंकि कपड़े बहुत मोटे होते हैं", "en": "Because clothes are thick"}
+            ],
+            "answer": {"hi": "क्योंकि हवा में आर्द्रता (humidity) अधिक होती है", "en": "Due to increased humidity in the air"}
           }
         ],
         "section5": [
           {
-            "q": {"hi": "कलाम के अनुसार 'aromatic' का क्या अर्थ है?", "en": "What is the meaning of 'aromatic'?"},
-            "options": [{"hi": "सुखद गंध", "en": "Pleasant smell"}, {"hi": "खराब गंध", "en": "Bad smell"}, {"hi": "बिना गंध का", "en": "No smell"}, {"hi": "बहुत तेज गंध", "en": "Very strong smell"}],
-            "answer": {"hi": "सुखद गंध", "en": "Pleasant smell"}
+            "q": {
+              "hi": "पानी के तीनों राज्यों (ठोस, द्रव, गैस) के आपस में बदलने की प्रक्रिया कैसी होती है?",
+              "en": "Are the three states of water interconvertible?"
+            },
+            "options": [
+              {"hi": "हाँ, वे ऊष्मा देने या हटाने से आपस में बदले जा सकते हैं", "en": "Yes, they can be changed from one state to another by applying or removing heat"},
+              {"hi": "नहीं, वे स्थिर होते हैं", "en": "No, they are fixed"},
+              {"hi": "केवल बर्फ पानी बन सकती है", "en": "Only ice can turn to water"},
+              {"hi": "केवल भाप पानी बन सकती है", "en": "Only steam can turn to water"}
+            ],
+            "answer": {"hi": "हाँ, वे ऊष्मा देने या हटाने से आपस में बदले जा सकते हैं", "en": "Yes, they can be changed from one state to another by applying or removing heat"}
           },
           {
-            "q": {"hi": "कलाम के पिता के पास क्या नहीं था?", "en": "What did Kalam's father lack?"},
-            "options": [{"hi": "बुद्धि", "en": "Wisdom"}, {"hi": "धन और औपचारिक शिक्षा", "en": "Wealth and formal education"}, {"hi": "दोस्त", "en": "Friends"}, {"hi": "परिवार", "en": "Family"}],
-            "answer": {"hi": "धन और औपचारिक शिक्षा", "en": "Wealth and formal education"}
+            "q": {
+              "hi": "जल संरक्षण (Water conservation) क्यों आवश्यक है?",
+              "en": "Why is water conservation necessary?"
+            },
+            "options": [
+              {"hi": "क्योंकि पीने योग्य ताजे पानी की मात्रा बहुत कम है और यह भविष्य के लिए जरूरी है", "en": "Because available freshwater is very less and needed for future generations"},
+              {"hi": "क्योंकि पानी कभी खत्म नहीं होता", "en": "Because water never finishes"},
+              {"hi": "क्योंकि पानी बहुत महंगा है", "en": "Because water is very expensive"},
+              {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+            ],
+            "answer": {"hi": "क्योंकि पीने योग्य ताजे पानी की मात्रा बहुत कम है और यह भविष्य के लिए जरूरी है", "en": "Because available freshwater is very less and needed for future generations"}
           },
           {
-            "q": {"hi": "कलाम के अनुसार उनके घर में कौन खाते थे?", "en": "Who ate in Kalam's house according to him?"},
-            "options": [{"hi": "केवल परिवार", "en": "Only family"}, {"hi": "बाहरी लोग", "en": "Outsiders"}, {"hi": "कोई नहीं", "en": "None"}, {"hi": "केवल रिश्तेदार", "en": "Only relatives"}],
-            "answer": {"hi": "बाहरी लोग", "en": "Outsiders"}
+            "q": {
+              "hi": "समुद्र और महासागरों में मौजूद पानी कैसा होता है?",
+              "en": "What kind of water is present in seas and oceans?"
+            },
+            "options": [
+              {"hi": "खारा पानी या लवणीय जल (Saline water)", "en": "Saline water"},
+              {"hi": "ताजा पानी (Freshwater)", "en": "Freshwater"},
+              {"hi": "आसुत जल (Distilled water)", "en": "Distilled water"},
+              {"hi": "पीने योग्य पानी", "en": "Potable water"}
+            ],
+            "answer": {"hi": "खारा पानी या लवणीय जल (Saline water)", "en": "Saline water"}
           },
           {
-            "q": {"hi": "क्या 'Unity in Diversity' का अर्थ है?", "en": "What is meant by 'Unity in Diversity'?"},
-            "options": [{"hi": "सब अलग हैं", "en": "All are different"}, {"hi": "विविधता में एकता", "en": "Unity in diversity"}, {"hi": "सब समान हैं", "en": "All are same"}, {"hi": "कोई एकता नहीं", "en": "No unity"}],
-            "answer": {"hi": "विविधता में एकता", "en": "Unity in diversity"}
+            "q": {
+              "hi": "समुद्र और महासागरों में कुल पानी का लगभग कितना प्रतिशत हिस्सा मौजूद है?",
+              "en": "What percentage of total water is present in seas and oceans as saline water?"
+            },
+            "options": [
+              {"hi": "96.5%", "en": "96.5%"},
+              {"hi": "2.5%", "en": "2.5%"},
+              {"hi": "50%", "en": "50%"},
+              {"hi": "10%", "en": "10%"}
+            ],
+            "answer": {"hi": "96.5%", "en": "96.5%"}
           },
           {
-            "q": {"hi": "कलाम के अनुसार प्रार्थना किसे छू सकती है?", "en": "Whom can prayer reach according to the belief mentioned?"},
-            "options": [{"hi": "केवल देवताओं को", "en": "Only gods"}, {"hi": "ईश्वर को", "en": "To God"}, {"hi": "किसी को नहीं", "en": "No one"}, {"hi": "पड़ोसियों को", "en": "Neighbors"}],
-            "answer": {"hi": "ईश्वर को", "en": "To God"}
+            "q": {
+              "hi": "पृथ्वी को 'नीला ग्रह' (Blue Planet) क्यों कहा जाता है?",
+              "en": "Why is Earth called the blue planet?"
+            },
+            "options": [
+              {"hi": "क्योंकि इसकी सतह का बड़ा हिस्सा (लगभग 71%) पानी से ढका है", "en": "Because a large part of its surface is covered with water"},
+              {"hi": "क्योंकि आकाश नीला है", "en": "Because the sky is blue"},
+              {"hi": "क्योंकि यहाँ बहुत सारे नीले पौधे हैं", "en": "Because there are blue plants"},
+              {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+            ],
+            "answer": {"hi": "क्योंकि इसकी सतह का बड़ा हिस्सा (लगभग 71%) पानी से ढका है", "en": "Because a large part of its surface is covered with water"}
           },
           {
-            "q": {"hi": "क्या कलाम के पिता को लोगों की मदद करने में खुशी मिलती थी?", "en": "Did Kalam's father enjoy helping people?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "ठोस अवस्था में पानी के अणु कैसे होते हैं?",
+              "en": "How are molecules packed in solid water (ice)?"
+            },
+            "options": [
+              {"hi": "कड़ाई से और पास-पास बंधे होते हैं (Closely packed with fixed shape)", "en": "Closely packed and have a fixed shape"},
+              {"hi": "बहुत दूर-दूर होते हैं", "en": "Very far apart"},
+              {"hi": "स्वतंत्र रूप से तैरते हैं", "en": "Move freely"},
+              {"hi": "कोई निश्चित व्यवस्था नहीं होती", "en": "No fixed arrangement"}
+            ],
+            "answer": {"hi": "कड़ाई से और पास-पास बंधे होते हैं (Closely packed with fixed shape)", "en": "Closely packed and have a fixed shape"}
           },
           {
-            "q": {"hi": "कलाम के पिता क्या पहनते थे?", "en": "What did Kalam's father wear?"},
-            "options": [{"hi": "आधुनिक कपड़े", "en": "Modern clothes"}, {"hi": "पारंपरिक कपड़े", "en": "Traditional clothing"}, {"hi": "वर्दी", "en": "Uniform"}, {"hi": "कुछ नहीं", "en": "Nothing"}],
-            "answer": {"hi": "पारंपरिक कपड़े", "en": "Traditional clothing"}
+            "q": {
+              "hi": "द्रव जल (Liquid water) का कौन सा गुण इसे बर्तन का आकार लेने में मदद करता है?",
+              "en": "What property of liquid water allows it to take the shape of a container?"
+            },
+            "options": [
+              {"hi": "इसका कोई निश्चित आकार नहीं होता और यह बह सकता है", "en": "It has no fixed shape and can flow freely"},
+              {"hi": "इसका कोई आयतन नहीं होता", "en": "It has no volume"},
+              {"hi": "यह बहुत कठोर होता है", "en": "It is very hard"},
+              {"hi": "यह स्थिर रहता है", "en": "It remains stationary"}
+            ],
+            "answer": {"hi": "इसका कोई निश्चित आकार नहीं होता और यह बह सकता है", "en": "It has no fixed shape and can flow freely"}
           },
           {
-            "q": {"hi": "क्या कलाम के पिता के पास बहुत संपत्ति थी?", "en": "Did Kalam's father have much wealth?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "नहीं", "en": "No"}
+            "q": {
+              "hi": "जल वाष्प (Water vapour) के अणुओं के बीच की दूरी ठोस और द्रव की तुलना में कैसी होती है?",
+              "en": "How are the molecules of water vapour arranged compared to ice and liquid?"
+            },
+            "options": [
+              {"hi": "वे एक-दूसरे से बहुत दूर होते हैं (Far from each other)", "en": "They are far from each other"},
+              {"hi": "वे बहुत पास-पास होते हैं", "en": "They are very close"},
+              {"hi": "वे आपस में चिपके होते हैं", "en": "They stick together"},
+              {"hi": "इनमें से कोई नहीं", "en": "None of these"}
+            ],
+            "answer": {"hi": "वे एक-दूसरे से बहुत दूर होते हैं (Far from each other)", "en": "Far from each other"}
           },
           {
-            "q": {"hi": "कलाम के परिवार की स्थिति क्या थी?", "en": "What was the family background of Kalam?"},
-            "options": [{"hi": "अमीर", "en": "Rich"}, {"hi": "मध्यम वर्गीय", "en": "Middle-class"}, {"hi": "अति गरीब", "en": "Very poor"}, {"hi": "शाही", "en": "Royal"}],
-            "answer": {"hi": "मध्यम वर्गीय", "en": "Middle-class"}
+            "q": {
+              "hi": "पानी के स्रोत को दूषित होने से बचाने और स्वस्थ जीवन के लिए हमें क्या नहीं करना चाहिए?",
+              "en": "What should we avoid doing to prevent water pollution in water bodies?"
+            },
+            "options": [
+              {"hi": "घरों और उद्योगों का कचरा सीधे पानी में नहीं फेंकना चाहिए", "en": "Wastes from homes and industries should not be thrown into water bodies"},
+              {"hi": "अधिक पेड़ लगाने चाहिए", "en": "Plant more trees"},
+              {"hi": "पानी का विवेकपूर्ण उपयोग करना चाहिए", "en": "Use water judiciously"},
+              {"hi": "वर्षा जल संचयन करना चाहिए", "en": "Harvest rainwater"}
+            ],
+            "answer": {"hi": "घरों और उद्योगों का कचरा सीधे पानी में नहीं फेंकना चाहिए", "en": "Wastes from homes and industries should not be thrown into water bodies"}
           },
           {
-            "q": {"hi": "क्या कलाम को अपना बचपन याद है?", "en": "Does Kalam remember his childhood?"},
-            "options": [{"hi": "हाँ", "en": "Yes"}, {"hi": "नहीं", "en": "No"}],
-            "answer": {"hi": "हाँ", "en": "Yes"}
+            "q": {
+              "hi": "फल का जूस जमाकर पॉप्सिकल (कुल्फी) बनाने की प्रक्रिया में तापमान में क्या बदलाव होता है?",
+              "en": "What change in temperature causes juice to turn into popsicles?"
+            },
+            "options": [
+              {"hi": "तापमान में कमी (Cooling / lower temperature than room temperature)", "en": "Temperature is lowered in the freezer"},
+              {"hi": "तापमान में वृद्धि", "en": "Temperature increases"},
+              {"hi": "तापमान स्थिर रहता है", "en": "Temperature remains constant"},
+              {"hi": "कोई तापमान परिवर्तन नहीं", "en": "No temperature change"}
+            ],
+            "answer": {"hi": "तापमान में कमी (Cooling / lower temperature than room temperature)", "en": "Temperature is lowered in the freezer"}
           }
         ]
       },
