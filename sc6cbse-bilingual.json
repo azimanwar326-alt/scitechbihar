@@ -7275,6 +7275,668 @@
             "answer": {"hi": "कोयला और प्राकृतिक गैस (Coal and natural gas)", "en": "Coal and natural gas"}
           }
         ]
+      },
+      "chapter12": {
+        "section1": [
+          {
+            "q": {
+              "hi": "ब्रह्मांड की उत्पत्ति और अस्तित्व की व्याख्या करने वाले सिद्धांत का क्या नाम है?",
+              "en": "What is the name of the theory that explains the formation and existence of the universe?"
+            },
+            "options": [
+              {"hi": "बिग बैंग थ्योरी (Big Bang Theory)", "en": "Big Bang Theory"},
+              {"hi": "नेबुलर थ्योरी", "en": "Nebular Theory"},
+              {"hi": "स्टेडी स्टेट थ्योरी", "en": "Steady State Theory"},
+              {"hi": "क्वांटम थ्योरी", "en": "Quantum Theory"}
+            ],
+            "answer": {"hi": "बिग बैंग थ्योरी (Big Bang Theory)", "en": "Big Bang Theory"}
+          },
+          {
+            "q": {
+              "hi": "तारा (Star) वास्तव में क्या होता है?",
+              "en": "What is a star?"
+            },
+            "options": [
+              {"hi": "जलती हुई गैसों का एक बड़ा गोला जो अपनी ऊष्मा और प्रकाश उत्पन्न करता है", "en": "A big ball of burning gases that produces its own heat and light"},
+              {"hi": "एक ठोस चट्टानी पिंड", "en": "A solid rocky body"},
+              {"hi": "बर्फ का एक गोला", "en": "A ball of ice"},
+              {"hi": "एक कृत्रिम उपग्रह", "en": "An artificial satellite"}
+            ],
+            "answer": {"hi": "जलती हुई गैसों का एक बड़ा गोला जो अपनी ऊष्मा और प्रकाश उत्पन्न करता है", "en": "A big ball of burning gases that produces its own heat and light"}
+          },
+          {
+            "q": {
+              "hi": "सूर्य के सबसे निकट ज्ञात तारा कौन सा है?",
+              "en": "Which is the nearest known star to the sun?"
+            },
+            "options": [
+              {"hi": "प्रॉक्सीमा सेंटॉरी (Proxima Centauri)", "en": "Proxima Centauri"},
+              {"hi": "साइरियस (Sirius)", "en": "Sirius"},
+              {"hi": "ध्रुव तारा (Pole Star)", "en": "Pole Star"},
+              {"hi": "बेटेलज्यूस (Betelgeuse)", "en": "Betelgeuse"}
+            ],
+            "answer": {"hi": "प्रॉक्सीमा सेंटॉरी (Proxima Centauri)", "en": "Proxima Centauri"}
+          },
+          {
+            "q": {
+              "hi": "आकाश में तारों द्वारा बनने वाले पहचानने योग्य पैटर्न (आकृतियों) को क्या कहते हैं?",
+              "en": "What are recognisable patterns formed by stars in the sky called?"
+            },
+            "options": [
+              {"hi": "तारामंडल या कॉन्स्टेलशन (Constellations)", "en": "Constellations"},
+              {"hi": "आकाशगंगा (Galaxy)", "en": "Galaxy"},
+              {"hi": "सौर मंडल (Solar System)", "en": "Solar System"},
+              {"hi": "क्षुद्रग्रह (Asteroid)", "en": "Asteroid"}
+            ],
+            "answer": {"hi": "तारामंडल या कॉन्स्टेलशन (Constellations)", "en": "Constellations"}
+          },
+          {
+            "q": {
+              "hi": "अंतर्राष्ट्रीय खगोलीय संघ (IAU) द्वारा आधिकारिक तौर पर कितने तारामंडलों को मान्यता दी गई है?",
+              "en": "How many constellations are officially recognised by the International Astronomical Union (IAU)?"
+            },
+            "options": [
+              {"hi": "88", "en": "88"},
+              {"hi": "12", "en": "12"},
+              {"hi": "150", "en": "150"},
+              {"hi": "7", "en": "7"}
+            ],
+            "answer": {"hi": "88", "en": "88"}
+          },
+          {
+            "q": {
+              "hi": "वृहत सप्तर्षि (Ursa Major) में कितने चमकीले तारे होते हैं?",
+              "en": "How many bright stars does Ursa Major consist of?"
+            },
+            "options": [
+              {"hi": "सात (Seven)", "en": "Seven"},
+              {"hi": "पाँच (Five)", "en": "Five"},
+              {"hi": "बारह (Twelve)", "en": "Twelve"},
+              {"hi": "तीन (Three)", "en": "Three"}
+            ],
+            "answer": {"hi": "सात (Seven)", "en": "Seven"}
+          },
+          {
+            "q": {
+              "hi": "किस तारामंडल की मदद से ध्रुव तारे (Pole Star) की स्थिति का पता लगाया जाता है?",
+              "en": "Which constellation helps in locating the Pole Star?"
+            },
+            "options": [
+              {"hi": "वृहत सप्तर्षि या उरसा मेजर (Ursa Major)", "en": "Ursa Major"},
+              {"hi": "ओरियन (Orion)", "en": "Orion"},
+              {"hi": "कैसियोपिया (Cassiopeia)", "en": "Cassiopeia"},
+              {"hi": "कैनिस मेजर (Canis Major)", "en": "Canis Major"}
+            ],
+            "answer": {"hi": "वृहत सप्तर्षि या उरसा मेजर (Ursa Major)", "en": "Ursa Major"}
+          },
+          {
+            "q": {
+              "hi": "ध्रुव तारा (Pole Star) उत्तरी गोलार्ध में किस दिशा को दर्शाने के लिए उपयोग किया जाता है?",
+              "en": "The Pole Star is used to locate which direction in the Northern Hemisphere?"
+            },
+            "options": [
+              {"hi": "उत्तर दिशा (North direction)", "en": "North direction"},
+              {"hi": "दक्षिण दिशा (South direction)", "en": "South direction"},
+              {"hi": "पूर्व दिशा (East direction)", "en": "East direction"},
+              {"hi": "पश्चिम दिशा (West direction)", "en": "West direction"}
+            ],
+            "answer": {"hi": "उत्तर दिशा (North direction)", "en": "North direction"}
+          },
+          {
+            "q": {
+              "hi": "शिकारी (Hunter) के रूप में दर्शाए जाने वाला और बीच में तीन चमकीले तारों की बेल्ट वाला प्रमुख तारामंडल कौन सा है?",
+              "en": "Which constellation is represented as a hunter with three bright stars forming a belt?"
+            },
+            "options": [
+              {"hi": "ओरियन या व्याध/मृग (Orion)", "en": "Orion"},
+              {"hi": "कैसियोपिया (Cassiopeia)", "en": "Cassiopeia"},
+              {"hi": "उरसा मेजर (Ursa Major)", "en": "Ursa Major"},
+              {"hi": "कैनिस मेजर (Canis Major)", "en": "Canis Major"}
+            ],
+            "answer": {"hi": "ओरियन या व्याध/मृग (Orion)", "en": "Orion"}
+          },
+          {
+            "q": {
+              "hi": "W या M आकार में व्यवस्थित पाँच चमकीले तारों वाले तारामंडल का क्या नाम है?",
+              "en": "Which group of five bright stars is arranged in a W or M shape?"
+            },
+            "options": [
+              {"hi": "कैसियोपिया या शर्मिष्ठा (Cassiopeia)", "en": "Cassiopeia"},
+              {"hi": "ओरियन (Orion)", "en": "Orion"},
+              {"hi": "सप्तर्षि (Ursa Major)", "en": "Ursa Major"},
+              {"hi": "कैनिस मेजर (Canis Major)", "en": "Canis Major"}
+            ],
+            "answer": {"hi": "कैसियोपिया या शर्मिष्ठा (Cassiopeia)", "en": "Cassiopeia"}
+          }
+        ],
+        "section2": [
+          {
+            "q": {
+              "hi": "आकाश का सबसे चमकीला तारा कौन सा है जिसे 'डॉग स्टार' या 'साइरियस' भी कहते हैं?",
+              "en": "Which is the brightest star in the sky, also called the Dog Star?"
+            },
+            "options": [
+              {"hi": "कैनिस मेजर या साइरियस (Canis Major / Sirius)", "en": "Canis Major / Sirius"},
+              {"hi": "ध्रुव तारा (Pole Star)", "en": "Pole Star"},
+              {"hi": "प्रोक्सीमा सेंटॉरी", "en": "Proxima Centauri"},
+              {"hi": "बेटेलज्यूस", "en": "Betelgeuse"}
+            ],
+            "answer": {"hi": "कैनिस मेजर या साइरियस (Canis Major / Sirius)", "en": "Canis Major / Sirius"}
+          },
+          {
+            "q": {
+              "hi": "रात के आसमान में अत्यधिक कृत्रिम रोशनी के दिखने की समस्या को क्या कहते हैं?",
+              "en": "What is the term used to refer to the excessive amount of artificial light that appears at night?"
+            },
+            "options": [
+              {"hi": "प्रकाश प्रदूषण या लाइट पोल्यूशन (Light pollution)", "en": "Light pollution"},
+              {"hi": "वायु प्रदूषण (Air pollution)", "en": "Air pollution"},
+              {"hi": "ध्वनि प्रदूषण (Noise pollution)", "en": "Noise pollution"},
+              {"hi": "जल प्रदूषण (Water pollution)", "en": "Water pollution"}
+            ],
+            "answer": {"hi": "प्रकाश प्रदूषण या लाइट पोल्यूशन (Light pollution)", "en": "Light pollution"}
+          },
+          {
+            "q": {
+              "hi": "दूर की वस्तुओं को देखने के लिए उपयोग किए जाने वाले उपकरण को क्या कहते हैं?",
+              "en": "A device that helps humans see distant objects is called what?"
+            },
+            "options": [
+              {"hi": "टेलीस्कोप (Telescope)", "en": "Telescope"},
+              {"hi": "थर्मामीटर (Thermometer)", "en": "Thermometer"},
+              {"hi": "माइक्रोस्कोप (Microscope)", "en": "Microscope"},
+              {"hi": "बैरोमीटर (Barometer)", "en": "Barometer"}
+            ],
+            "answer": {"hi": "टेलीस्कोप (Telescope)", "en": "Telescope"}
+          },
+          {
+            "q": {
+              "hi": "ब्रह्मांड में सबसे पहले टेलीस्कोप से अध्ययन करने वाले इतालवी खगोलविद कौन थे?",
+              "en": "Who was the first Italian astronomer to study the universe with a telescope?"
+            },
+            "options": [
+              {"hi": "गैलीलियो गैलीली (Galileo Galilei)", "en": "Galileo Galilei"},
+              {"hi": "आइजैक न्यूटन (Isaac Newton)", "en": "Isaac Newton"},
+              {"hi": "एंडर्स सेल्सियस", "en": "Anders Celsius"},
+              {"hi": "अल्बर्ट आइंस्टीन", "en": "Albert Einstein"}
+            ],
+            "answer": {"hi": "गैलीलियो गैलीली (Galileo Galilei)", "en": "Galileo Galilei"}
+          },
+          {
+            "q": {
+              "hi": "दुनिया का सबसे बड़ा टेलीस्कोप कौन सा है जो हवाई में स्थित है?",
+              "en": "What is the name of the biggest telescope in the world located in Hawaii?"
+            },
+            "options": [
+              {"hi": "कैक टेलीस्कोप (Keck telescope)", "en": "Keck telescope"},
+              {"hi": "हबल टेलीस्कोप", "en": "Hubble telescope"},
+              {"hi": "जेम्स वेब टेलीस्कोप", "en": "James Webb telescope"},
+              {"hi": "गैलीलियो टेलीस्कोप", "en": "Galileo telescope"}
+            ],
+            "answer": {"hi": "कैक टेलीस्कोप (Keck telescope)", "en": "Keck telescope"}
+          },
+          {
+            "q": {
+              "hi": "सौर परिवार (Solar system) के केंद्र में कौन स्थित है?",
+              "en": "What lies at the centre of the solar system?"
+            },
+            "options": [
+              {"hi": "सूर्य (Sun)", "en": "Sun"},
+              {"hi": "पृथ्वी (Earth)", "en": "Earth"},
+              {"hi": "चंद्रमा (Moon)", "en": "Moon"},
+              {"hi": "बृहस्पति (Jupiter)", "en": "Jupiter"}
+            ],
+            "answer": {"hi": "सूर्य (Sun)", "en": "Sun"}
+          },
+          {
+            "q": {
+              "hi": "ग्रह सूर्य के चारों ओर किस प्रकार के पथ पर चक्कर लगाते हैं?",
+              "en": "Planets revolve around the Sun in fixed paths known as what?"
+            },
+            "options": [
+              {"hi": "दीर्घवृत्तीय पथ या ऑर्बिट (Elliptical paths / Orbits)", "en": "Elliptical paths / Orbits"},
+              {"hi": "पूर्ण वृत्त (Perfect circle)", "en": "Perfect circle"},
+              {"hi": "सीधी रेखा (Straight line)", "en": "Straight line"},
+              {"hi": "अनियमित रास्ता (Random path)", "en": "Random path"}
+            ],
+            "answer": {"hi": "दीर्घवृत्तीय पथ या ऑर्बिट (Elliptical paths / Orbits)", "en": "Elliptical paths / Orbits"}
+          },
+          {
+            "q": {
+              "hi": "सूर्य का अधिकांश द्रव्यमान (mass) मुख्य रूप से किन गैसों से बना है?",
+              "en": "The Sun is mainly made up of which gases?"
+            },
+            "options": [
+              {"hi": "हाइड्रोजन और हीलियम (Hydrogen and helium)", "en": "Hydrogen and helium"},
+              {"hi": "ऑक्सीजन और नाइट्रोजन", "en": "Oxygen and nitrogen"},
+              {"hi": "कार्बन डाइऑक्साइड और मीथेन", "en": "Carbon dioxide and methane"},
+              {"hi": "हाइड्रोजन और ऑक्सीजन", "en": "Hydrogen and oxygen"}
+            ],
+            "answer": {"hi": "हाइड्रोजन और हीलियम (Hydrogen and helium)", "en": "Hydrogen and helium"}
+          },
+          {
+            "q": {
+              "hi": "सूर्य की किरणें पृथ्वी तक पहुँचने में लगभग कितना समय लेती हैं?",
+              "en": "How long do the Sun's rays take to reach the Earth?"
+            },
+            "options": [
+              {"hi": "लगभग 8 मिनट (About 8 minutes)", "en": "About 8 minutes"},
+              {"hi": "लगभग 1 घंटा", "en": "About 1 hour"},
+              {"hi": "लगभग 24 घंटे", "en": "About 24 hours"},
+              {"hi": "लगभग 30 सेकंड", "en": "About 30 seconds"}
+            ],
+            "answer": {"hi": "लगभग 8 मिनट (About 8 minutes)", "en": "About 8 minutes"}
+          },
+          {
+            "q": {
+              "hi": "ग्रीक भाषा में 'ग्रह' (Planet) शब्द का क्या अर्थ है?",
+              "en": "What does the word 'planet' mean in Greek?"
+            },
+            "options": [
+              {"hi": "घुमक्कड़ या भटकाव करने वाला (Wanderer)", "en": "Wanderer"},
+              {"hi": "चमकता तारा (Shining star)", "en": "Shining star"},
+              {"hi": "बड़ा गोला (Big sphere)", "en": "Big sphere"},
+              {"hi": "स्थिर पिंड (Fixed body)", "en": "Fixed body"}
+            ],
+            "answer": {"hi": "घुमक्कड़ या भटकाव करने वाला (Wanderer)", "en": "Wanderer"}
+          }
+        ],
+        "section3": [
+          {
+            "q": {
+              "hi": "आंतरिक ग्रहों (Inner planets) में कौन-कौन से ग्रह शामिल हैं?",
+              "en": "Which planets are included in the inner planets?"
+            },
+            "options": [
+              {"hi": "बुध, शुक्र, पृथ्वी और मंगल (Mercury, Venus, Earth and Mars)", "en": "Mercury, Venus, Earth and Mars"},
+              {"hi": "बृहस्पति, शनि, अरुण, वरुण", "en": "Jupiter, Saturn, Uranus, Neptune"},
+              {"hi": "प्लूटो, सेरेस, एरिस", "en": "Pluto, Ceres, Eris"},
+              {"hi": "केवल पृथ्वी और मंगल", "en": "Only Earth and Mars"}
+            ],
+            "answer": {"hi": "बुध, शुक्र, पृथ्वी और मंगल (Mercury, Venus, Earth and Mars)", "en": "Mercury, Venus, Earth and Mars"}
+          },
+          {
+            "q": {
+              "hi": "बाहरी ग्रहों (Outer planets) में कौन-कौन से ग्रह शामिल हैं?",
+              "en": "Which planets are included in the outer planets?"
+            },
+            "options": [
+              {"hi": "बृहस्पति, शनि, अरुण और वरुण (Jupiter, Saturn, Uranus and Neptune)", "en": "Jupiter, Saturn, Uranus and Neptune"},
+              {"hi": "बुध, शुक्र, पृथ्वी, मंगल", "en": "Mercury, Venus, Earth, Mars"},
+              {"hi": "केवल शनि और बृहस्पति", "en": "Only Saturn and Jupiter"},
+              {"hi": "सूर्य और चंद्रमा", "en": "Sun and Moon"}
+            ],
+            "answer": {"hi": "बृहस्पति, शनि, अरुण और वरुण (Jupiter, Saturn, Uranus and Neptune)", "en": "Jupiter, Saturn, Uranus and Neptune"}
+          },
+          {
+            "q": {
+              "hi": "सौरमंडल का सबसे छोटा और सूर्य के सबसे निकट का ग्रह कौन सा है?",
+              "en": "Which is the smallest and closest planet to the Sun?"
+            },
+            "options": [
+              {"hi": "बुध या मर्करी (Mercury)", "en": "Mercury"},
+              {"hi": "शुक्र (Venus)", "en": "Venus"},
+              {"hi": "मंगल (Mars)", "en": "Mars"},
+              {"hi": "पृथ्वी (Earth)", "en": "Earth"}
+            ],
+            "answer": {"hi": "बुध या मर्करी (Mercury)", "en": "Mercury"}
+          },
+          {
+            "q": {
+              "hi": "आसमान में सबसे चमकीली वस्तु कौन सी है जिसे 'भोर का तारा' या 'सांझ का तारा' भी कहते हैं?",
+              "en": "Which planet is known as the 'Morning Star' or 'Evening Star'?"
+            },
+            "options": [
+              {"hi": "शुक्र या वीनस (Venus)", "en": "Venus"},
+              {"hi": "बुध (Mercury)", "en": "Mercury"},
+              {"hi": "मंगल (Mars)", "en": "Mars"},
+              {"hi": "बृहस्पति (Jupiter)", "en": "Jupiter"}
+            ],
+            "answer": {"hi": "शुक्र या वीनस (Venus)", "en": "Venus"}
+          },
+          {
+            "q": {
+              "hi": "जल की उपस्थिति के कारण पृथ्वी को किस नाम से जाना जाता है?",
+              "en": "Why is Earth called the 'Blue Planet'?"
+            },
+            "options": [
+              {"hi": "नीला ग्रह (Blue Planet)", "en": "Blue Planet"},
+              {"hi": "लाल ग्रह (Red Planet)", "en": "Red Planet"},
+              {"hi": "पीला ग्रह (Yellow Planet)", "en": "Yellow Planet"},
+              {"hi": "हरा ग्रह (Green Planet)", "en": "Green Planet"}
+            ],
+            "answer": {"hi": "नीला ग्रह (Blue Planet)", "en": "Blue Planet"}
+          },
+          {
+            "q": {
+              "hi": "किस ग्रह को उसकी लाल रंग की उपस्थिति के कारण 'लाल ग्रह' (Red Planet) कहा जाता है?",
+              "en": "Which planet is called the 'Red Planet' because it appears reddish in colour?"
+            },
+            "options": [
+              {"hi": "मंगल या मार्स (Mars)", "en": "Mars"},
+              {"hi": "शुक्र (Venus)", "en": "Venus"},
+              {"hi": "शनि (Saturn)", "en": "Saturn"},
+              {"hi": "नेपच्यून (Neptune)", "en": "Neptune"}
+            ],
+            "answer": {"hi": "मंगल या मार्स (Mars)", "en": "Mars"}
+          },
+          {
+            "q": {
+              "hi": "सौरमंडल का सबसे बड़ा ग्रह कौन सा है?",
+              "en": "Which is the largest planet in the solar system?"
+            },
+            "options": [
+              {"hi": "बृहस्पति या जुपिटर (Jupiter)", "en": "Jupiter"},
+              {"hi": "शनि (Saturn)", "en": "Saturn"},
+              {"hi": "नेपच्यून (Neptune)", "en": "Neptune"},
+              {"hi": "पृथ्वी (Earth)", "en": "Earth"}
+            ],
+            "answer": {"hi": "बृहस्पति या जुपिटर (Jupiter)", "en": "Jupiter"}
+          },
+          {
+            "q": {
+              "hi": "किस ग्रह के चारों ओर नौ प्रमुख वलय (rings) पाए जाते हैं?",
+              "en": "Which planet is surrounded by nine prominent rings made up of dust particles, rocks, and ice?"
+            },
+            "options": [
+              {"hi": "शनि या सैटर्न (Saturn)", "en": "Saturn"},
+              {"hi": "बृहस्पति (Jupiter)", "en": "Jupiter"},
+              {"hi": "यूरेनस (Uranus)", "en": "Uranus"},
+              {"hi": "मंगल (Mars)", "en": "Mars"}
+            ],
+            "answer": {"hi": "शनि या सैटर्न (Saturn)", "en": "Saturn"}
+          },
+          {
+            "q": {
+              "hi": "किस ग्रह के अक्ष का झुकाव लगभग 90° है जिससे वह घूमते समय एक विशाल पहिये की तरह प्रतीत होता है?",
+              "en": "Which planet has a tilt of about 90° on its axis so that it looks like a giant wheel when rotating?"
+            },
+            "options": [
+              {"hi": "अरुण या यूरेनस (Uranus)", "en": "Uranus"},
+              {"hi": "वरुण या नेपच्यून (Neptune)", "en": "Neptune"},
+              {"hi": "शनि (Saturn)", "en": "Saturn"},
+              {"hi": "पृथ्वी (Earth)", "en": "Earth"}
+            ],
+            "answer": {"hi": "अरुण या यूरेनस (Uranus)", "en": "Uranus"}
+          },
+          {
+            "q": {
+              "hi": "सूर्य से सबसे अधिक दूरी पर होने के कारण सबसे ठंडा ग्रह कौन सा है?",
+              "en": "Which is the coldest planet because it is farthest from the Sun?"
+            },
+            "options": [
+              {"hi": "वरुण या नेपच्यून (Neptune)", "en": "Neptune"},
+              {"hi": "यूरेनस (Uranus)", "en": "Uranus"},
+              {"hi": "शनि (Saturn)", "en": "Saturn"},
+              {"hi": "बुध (Mercury)", "en": "Mercury"}
+            ],
+            "answer": {"hi": "वरुण या नेपच्यून (Neptune)", "en": "Neptune"}
+          }
+        ],
+        "section4": [
+          {
+            "q": {
+              "hi": "अंतर्राष्ट्रीय खगोलीय संघ (IAU) द्वारा किसे 'बौने ग्रह' (dwarf planet) का दर्जा दिया गया है?",
+              "en": "Which celestial body was once considered the ninth planet but is now classified as a 'dwarf planet'?"
+            },
+            "options": [
+              {"hi": "प्लूटो (Pluto)", "en": "Pluto"},
+              {"hi": "टाइटन (Titan)", "en": "Titan"},
+              {"hi": "गैनिमेड (Ganymede)", "en": "Ganymede"},
+              {"hi": "मून (Moon)", "en": "Moon"}
+            ],
+            "answer": {"hi": "प्लूटो (Pluto)", "en": "Pluto"}
+          },
+          {
+            "q": {
+              "hi": "ग्रहों के चारों ओर चक्कर लगाने वाले छोटे खगोलीय पिंडों को क्या कहा जाता है?",
+              "en": "A small celestial body that revolves around the planets is called a what?"
+            },
+            "options": [
+              {"hi": "उपग्रह या सैटेलाइट (Satellite)", "en": "Satellite"},
+              {"hi": "क्षुद्रग्रह (Asteroid)", "en": "Asteroid"},
+              {"hi": "धूमकेतु (Comet)", "en": "Comet"},
+              {"hi": "उल्कापिंड (Meteoroid)", "en": "Meteoroid"}
+            ],
+            "answer": {"hi": "उपग्रह या सैटेलाइट (Satellite)", "en": "Satellite"}
+          },
+          {
+            "q": {
+              "hi": "पृथ्वी का एकमात्र प्राकृतिक उपग्रह कौन सा है?",
+              "en": "What is the only natural satellite of the Earth?"
+            },
+            "options": [
+              {"hi": "चंद्रमा (Moon)", "en": "Moon"},
+              {"hi": "गैनिमेड (Ganymede)", "en": "Ganymede"},
+              {"hi": "टाइटन (Titan)", "en": "Titan"},
+              {"hi": "फोबोस (Phobos)", "en": "Phobos"}
+            ],
+            "answer": {"hi": "चंद्रमा (Moon)", "en": "Moon"}
+          },
+          {
+            "q": {
+              "hi": "सौरमंडल का सबसे बड़ा प्राकृतिक उपग्रह कौन सा है जो बृहस्पति का चक्कर लगाता है?",
+              "en": "What is the largest natural satellite in the solar system?"
+            },
+            "options": [
+              {"hi": "गैनिमेड (Ganymede)", "en": "Ganymede"},
+              {"hi": "चंद्रमा (Moon)", "en": "Moon"},
+              {"hi": "टाइटन (Titan)", "en": "Titan"},
+              {"hi": "यूरोपा (Europa)", "en": "Europa"}
+            ],
+            "answer": {"hi": "गैनिमेड (Ganymede)", "en": "Ganymede"}
+          },
+          {
+            "q": {
+              "hi": "मानવ निर्मित वे मशीनें जो अंतरिक्ष में सूचना एकत्र करने और संचार के लिए भेजी जाती हैं, क्या कहलाती हैं?",
+              "en": "Machines made by humans and sent into space for collecting information and communication are called what?"
+            },
+            "options": [
+              {"hi": "कृत्रिम उपग्रह (Artificial satellites)", "en": "Artificial satellites"},
+              {"hi": "प्राकृतिक उपग्रह (Natural satellites)", "en": "Natural satellites"},
+              {"hi": "क्षुद्रग्रह (Asteroids)", "en": "Asteroids"},
+              {"hi": "धूमकेतु (Comets)", "en": "Comets"}
+            ],
+            "answer": {"hi": "कृत्रिम उपग्रह (Artificial satellites)", "en": "Artificial satellites"}
+          },
+          {
+            "q": {
+              "hi": "दुनिया का पहला कृत्रिम उपग्रह 'स्पुतनिक 1' किस वर्ष लॉन्च किया गया था?",
+              "en": "When was Sputnik 1, the first artificial satellite, launched?"
+            },
+            "options": [
+              {"hi": "1957 में", "en": "1957"},
+              {"hi": "1975 में", "en": "1975"},
+              {"hi": "1969 में", "en": "1969"},
+              {"hi": "2008 में", "en": "2008"}
+            ],
+            "answer": {"hi": "1957 में", "en": "1957"}
+          },
+          {
+            "q": {
+              "hi": "भारत का पहला कृत्रिम उपग्रह कौन सा था जिसे 1975 में लॉन्च किया गया था?",
+              "en": "What was the name of the first Indian artificial satellite launched in 1975?"
+            },
+            "options": [
+              {"hi": "आर्यभट्ट (Aryabhata)", "en": "Aryabhata"},
+              {"hi": "भास्कर I (Bhaskara I)", "en": "Bhaskara I"},
+              {"hi": "चंद्रयान-1 (Chandrayaan-1)", "en": "Chandrayaan-1"},
+              {"hi": "इन्सैट (INSAT)", "en": "INSAT"}
+            ],
+            "answer": {"hi": "आर्यभट्ट (Aryabhata)", "en": "Aryabhata"}
+          },
+          {
+            "q": {
+              "hi": "भारत का पहला चंद्र मिशन 'चंद्रयान-1' किस वर्ष लॉन्च किया गया था?",
+              "en": "In which year was India's first Moon mission 'Chandrayaan-1' launched?"
+            },
+            "options": [
+              {"hi": "2008 में", "en": "2008"},
+              {"hi": "2019 में", "en": "2019"},
+              {"hi": "2023 में", "en": "2023"},
+              {"hi": "1975 में", "en": "1975"}
+            ],
+            "answer": {"hi": "2008 में", "en": "2008"}
+          },
+          {
+            "q": {
+              "hi": "मंगल और बृहस्पति के बीच पाए जाने वाले चट्टानी खगोलीय पिंडों को क्या कहते हैं?",
+              "en": "Rocky celestial bodies that revolve around the Sun, mostly lying between Mars and Jupiter, are called what?"
+            },
+            "options": [
+              {"hi": "क्षुद्रग्रह या एस्टेरॉयड (Asteroids)", "en": "Asteroids"},
+              {"hi": "धूमकेतु (Comets)", "en": "Comets"},
+              {"hi": "उल्कापिंड (Meteoroids)", "en": "Meteoroids"},
+              {"hi": "उपग्रह (Satellites)", "en": "Satunters"}
+            ],
+            "answer": {"hi": "क्षुद्रग्रह या एस्टेरॉयड (Asteroids)", "en": "Asteroids"}
+          },
+          {
+            "q": {
+              "hi": "सबसे बड़ा क्षुद्रग्रह (asteroid) कौन सा है जिसे बौने ग्रह का दर्जा भी दिया गया है?",
+              "en": "What is the largest asteroid which has been assigned the status of a dwarf planet?"
+            },
+            "options": [
+              {"hi": "सेरेस (Ceres)", "en": "Ceres"},
+              {"hi": "प्लूटो (Pluto)", "en": "Pluto"},
+              {"hi": "इरिस (Eris)", "en": "Eris"},
+              {"hi": "मेकमाके (Makemake)", "en": "Makemake"}
+            ],
+            "answer": {"hi": "सेरेस (Ceres)", "en": "Ceres"}
+          }
+        ],
+        "section5": [
+          {
+            "q": {
+              "hi": "बर्फ, गैस और धूल कणों से बने बर्फीले खगोलीय पिंड जिनकी एक लंबी पूंछ होती है, क्या कहलाते हैं?",
+              "en": "An icy body which releases gas or dust and forms an elongated tail as it orbits the Sun is called a what?"
+            },
+            "options": [
+              {"hi": "धूमकेतु या कॉमेट (Comet)", "en": "Comet"},
+              {"hi": "क्षुद्रग्रह (Asteroid)", "en": "Asteroid"},
+              {"hi": "उल्कापिंड (Meteoroid)", "en": "Meteoroid"},
+              {"hi": "उल्का (Meteor)", "en": "Meteor"}
+            ],
+            "answer": {"hi": "धूमकेतु या कॉमेट (Comet)", "en": "Comet"}
+          },
+          {
+            "q": {
+              "hi": "प्रसिद्ध 'हैley का धूमकेतु' (Halley's Comet) कितने वर्षों के अंतराल पर दिखाई देता है?",
+              "en": "After how many years does Halley's Comet appear?"
+            },
+            "options": [
+              {"hi": "76 वर्ष", "en": "76 years"},
+              {"hi": "50 वर्ष", "en": "50 years"},
+              {"hi": "100 वर्ष", "en": "100 years"},
+              {"hi": "76 महीने", "en": "76 months"}
+            ],
+            "answer": {"hi": "76 वर्ष", "en": "76 years"}
+          },
+          {
+            "q": {
+              "hi": "हैley का धूमकेतु पिछली बार किस वर्ष देखा गया था?",
+              "en": "In which year was Halley's Comet last seen?"
+            },
+            "options": [
+              {"hi": "1986 में", "en": "1986"},
+              {"hi": "1957 में", "en": "1957"},
+              {"hi": "2008 में", "en": "2008"},
+              {"hi": "1975 में", "en": "1975"}
+            ],
+            "answer": {"hi": "1986 में", "en": "1986"}
+          },
+          {
+            "q": {
+              "hi": "जब अंतरिक्ष का कोई ठोस टुकड़ा पृथ्वी के वायुमंडल में प्रवेश करके जल उठता है, तो उसे क्या कहते हैं?",
+              "en": "A solid piece of debris that enters the Earth's atmosphere and starts burning, causing a flash of light, is called a what?"
+            },
+            "options": [
+              {"hi": "उल्का या शूटिंग स्टार (Meteor)", "en": "Meteor"},
+              {"hi": "उल्कापिंड (Meteorite)", "en": "Meteorite"},
+              {"hi": "क्षुद्रग्रह (Asteroid)", "en": "Asteroid"},
+              {"hi": "धूमकेतु (Comet)", "en": "Comet"}
+            ],
+            "answer": {"hi": "उल्का या शूटिंग स्टार (Meteor)", "en": "Meteor"}
+          },
+          {
+            "q": {
+              "hi": "जो उल्कापिंड पूरी तरह जल नहीं पाते और पृथ्वी की सतह से टकराते हैं, उन्हें क्या कहा जाता है?",
+              "en": "When a meteor survives its passage through the atmosphere and collides with the Earth's surface, it is known as what?"
+            },
+            "options": [
+              {"hi": "उल्कापिंड या मेटियोर이트 (Meteorite)", "en": "Meteorite"},
+              {"hi": "उल्का (Meteor)", "en": "Meteor"},
+              {"hi": "धूमकेतु (Comet)", "en": "Comet"},
+              {"hi": "क्षुद्रग्रह (Asteroid)", "en": "Asteroid"}
+            ],
+            "answer": {"hi": "उल्कापिंड या मेटियोर이트 (Meteorite)", "en": "Meteorite"}
+          },
+          {
+            "q": {
+              "hi": "तारों, धूल और गैसों के विशाल समूह को क्या कहा जाता है?",
+              "en": "A cluster of stars, dust, and gases is known as what?"
+            },
+            "options": [
+              {"hi": "आकाशगंगा या गैलेक्सी (Galaxy)", "en": "Galaxy"},
+              {"hi": "सौर मंडल (Solar System)", "en": "Solar System"},
+              {"hi": "ब्रह्मांड (Universe)", "en": "Universe"},
+              {"hi": "तारामंडल (Constellation)", "en": "Constellation"}
+            ],
+            "answer": {"hi": "आकाशगंगा या गैलेक्सी (Galaxy)", "en": "Galaxy"}
+          },
+          {
+            "q": {
+              "hi": "हमारी अपनी आकाशगंगा का क्या नाम है?",
+              "en": "What is the name of our galaxy?"
+            },
+            "options": [
+              {"hi": "दुग्ध मेखला या मिल्की वे (Milky Way / Akasha Ganga)", "en": "Milky Way"},
+              {"hi": "एंड्रॉइड गैलेक्सी", "en": "Android Galaxy"},
+              {"hi": "सोम्ब्रेरो गैलेक्सी", "en": "Sombrero Galaxy"},
+              {"hi": "ब्लैक होल गैलेक्सी", "en": "Black Hole Galaxy"}
+            ],
+            "answer": {"hi": "दुग्ध मेखला या मिल्की वे (Milky Way / Akasha Ganga)", "en": "Milky Way"}
+          },
+          {
+            "q": {
+              "hi": "पृथ्वी के सबसे निकट की आकाशगंगा कौन सी है?",
+              "en": "What is the closest galaxy to the Earth?"
+            },
+            "options": [
+              {"hi": "एंड्रोमेडा गैलेक्सी (Andromeda Galaxy)", "en": "Andromeda Galaxy"},
+              {"hi": "मिल्की वे गैलेक्सी", "en": "Milky Way Galaxy"},
+              {"hi": "मेगेलैनिक क्लाउड", "en": "Magellanic Cloud"},
+              {"hi": "सोम्ब्रेरो गैलेक्सी", "en": "Sombrero Galaxy"}
+            ],
+            "answer": {"hi": "एंड्रोमेडा गैलेक्सी (Andromeda Galaxy)", "en": "Andromeda Galaxy"}
+          },
+          {
+            "q": {
+              "hi": "मिल्की वे आकाशगंगा का आकार किस प्रकार का है?",
+              "en": "What is the shape of the Milky Way galaxy?"
+            },
+            "options": [
+              {"hi": "सर्पिल आकार या स्पाइरल (Spiral-shaped)", "en": "Spiral-shaped"},
+              {"hi": "गोलाकार (Spherical)", "en": "Spherical"},
+              {"hi": "दीर्घवृत्तीय (Elliptical)", "en": "Elliptical"},
+              {"hi": "अनियमित (Irregular)", "en": "Irregular"}
+            ],
+            "answer": {"hi": "सर्पिल आकार या स्पाइरल (Spiral-shaped)", "en": "Spiral-shaped"}
+          },
+          {
+            "q": {
+              "hi": "अन्य तारों की परिक्रमा करने वाले ग्रहों को क्या कहा जाता है?",
+              "en": "Planets found orbiting other stars in our galaxy are called what?"
+            },
+            "options": [
+              {"hi": "एक्सोप्लेनेट या बाह्य ग्रह (Exoplanets)", "en": "Exoplanets"},
+              {"hi": "क्षुद्रग्रह (Asteroids)", "en": "Asteroids"},
+              {"hi": "प्राकृतिक उपग्रह (Natural satellites)", "en": "Natural satellites"},
+              {"hi": "उल्कापिंड (Meteoroids)", "en": "Meteoroids"}
+            ],
+            "answer": {"hi": "एक्सोप्लेनेट या बाह्य ग्रह (Exoplanets)", "en": "Exoplanets"}
+          }
+        ]
       }
     }
   }
