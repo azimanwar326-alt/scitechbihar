@@ -6613,9 +6613,672 @@
             "answer": {"hi": "कार्बन डाइऑक्साइड, जल वाष्प, गोंद और लेटेक्स के रूप में", "en": "In the form of carbon dioxide, water vapour, gum and latex"}
           }
         ]
+      },
+      "chapter11":{
+      "section1": [
+          {
+            "q": {
+              "hi": "मानव आवश्यकताओं को पूरा करने के लिए उपयोग की जाने वाली प्राकृतिक या मानव निर्मित वस्तुओं या सामग्रियों को क्या कहा जाता है?",
+              "en": "What are the materials or objects whether natural or man-made, that can be used to meet human needs referred to as?"
+            },
+            "options": [
+              {"hi": "संसाधन या रिसोर्सेज (Resources)", "en": "Resources"},
+              {"hi": "कचरा", "en": "Waste"},
+              {"hi": "ईंधन", "en": "Fuel"},
+              {"hi": "खनिज", "en": "Mineral"}
+            ],
+            "answer": {"hi": "संसाधन या रिसोर्सेज (Resources)", "en": "Resources"}
+          },
+          {
+            "q": {
+              "hi": "प्राकृतिक संसाधन कितने प्रकार के होते हैं?",
+              "en": "How many main categories can natural resources be divided into based on renewability?"
+            },
+            "options": [
+              {"hi": "दो (नवीकरणीय और अनवीकरणीय)", "en": "Two (Renewable and non-renewable)"},
+              {"hi": "तीन", "en": "Three"},
+              {"hi": "चार", "en": "Four"},
+              {"hi": "पाँच", "en": "Five"}
+            ],
+            "answer": {"hi": "दो (नवीकरणीय और अनवीकरणीय)", "en": "Two (Renewable and non-renewable)"}
+          },
+          {
+            "q": {
+              "hi": "वे प्राकृतिक संसाधन जो असीमित मात्रा में मौजूद हैं और प्राकृतिक प्रक्रियाओं द्वारा पुनः पूरित हो जाते हैं, क्या कहलाते हैं?",
+              "en": "Natural resources that are present in unlimited amounts and get replenished through natural processes are called what?"
+            },
+            "options": [
+              {"hi": "नवीकरणीय संसाधन (Renewable resources)", "en": "Renewable resources"},
+              {"hi": "अनवीकरणीय संसाधन (Non-renewable resources)", "en": "Non-renewable resources"},
+              {"hi": "मानव निर्मित संसाधन", "en": "Human-made resources"},
+              {"hi": "जीवाश्म ईंधन", "en": "Fossil fuels"}
+            ],
+            "answer": {"hi": "नवीकरणीय संसाधन (Renewable resources)", "en": "Renewable resources"}
+          },
+          {
+            "q": {
+              "hi": "वायु में नाइट्रोजन की मात्रा लगभग कितने प्रतिशत होती है?",
+              "en": "What percentage of nitrogen is present in air?"
+            },
+            "options": [
+              {"hi": "लगभग 78%", "en": "Nearly 78%"},
+              {"hi": "लगभग 21%", "en": "Nearly 21%"},
+              {"hi": "0.03%", "en": "0.03%"},
+              {"hi": "1%", "en": "1%"}
+            ],
+            "answer": {"hi": "लगभग 78%", "en": "Nearly 78%"}
+          },
+          {
+            "q": {
+              "hi": "वायु में ऑक्सीजन की मात्रा लगभग कितने प्रतिशत होती है?",
+              "en": "What percentage of oxygen is present in air?"
+            },
+            "options": [
+              {"hi": "21%", "en": "21%"},
+              {"hi": "78%", "en": "78%"},
+              {"hi": "0.03%", "en": "0.03%"},
+              {"hi": "50%", "en": "50%"}
+            ],
+            "answer": {"hi": "21%", "en": "21%"}
+          },
+          {
+            "q": {
+              "hi": "वायु में कार्बन डाइऑक्साइड की मात्रा लगभग कितने प्रतिशत होती है?",
+              "en": "What percentage of carbon dioxide is present in air?"
+            },
+            "options": [
+              {"hi": "0.03%", "en": "0.03%"},
+              {"hi": "78%", "en": "78%"},
+              {"hi": "21%", "en": "21%"},
+              {"hi": "0.9%", "en": "0.9%"}
+            ],
+            "answer": {"hi": "0.03%", "en": "0.03%"}
+          },
+          {
+            "q": {
+              "hi": "हवा में कार्बन डाइऑक्साइड की मात्रा में वृद्धि से पृथ्वी के तापमान में होने वाली वृद्धि को क्या कहते हैं?",
+              "en": "The increase in the amount of carbon dioxide in the air leading to an increase in earth's temperature is called what?"
+            },
+            "options": [
+              {"hi": "ग्लोबल वार्मिंग (Global warming)", "en": "Global warming"},
+              {"hi": "जल प्रदूषण", "en": "Water pollution"},
+              {"hi": "ओजोन क्षيरण", "en": "Ozone depletion"},
+              {"hi": "अम्ल वर्षा", "en": "Acid rain"}
+            ],
+            "answer": {"hi": "ग्लोबल वार्मिंग (Global warming)", "en": "Global warming"}
+          },
+          {
+            "q": {
+              "hi": "बहती हुई हवा को क्या कहा जाता है?",
+              "en": "What is moving air called?"
+            },
+            "options": [
+              {"hi": "पवन या विंड (Wind)", "en": "Wind"},
+              {"hi": "बादल", "en": "Cloud"},
+              {"hi": "भाप", "en": "Steam"},
+              {"hi": "धुआँ", "en": "Smoke"}
+            ],
+            "answer": {"hi": "पवन या विंड (Wind)", "en": "Wind"}
+          },
+          {
+            "q": {
+              "hi": "पवन ऊर्जा (wind power) उत्पन्न करने के लिए किस उपकरण का उपयोग किया जाता है?",
+              "en": "Wind power is generated directly from the wind by using what?"
+            },
+            "options": [
+              {"hi": "पवन चक्की या विंडमिल (Windmill)", "en": "Windmill"},
+              {"hi": "सौर पैनल", "en": "Solar panel"},
+              {"hi": "जनरेटर", "en": "Generator"},
+              {"hi": "थर्मामीटर", "en": "Thermometer"}
+            ],
+            "answer": {"hi": "पवन चक्की या विंडमिल (Windmill)", "en": "Windmill"}
+          },
+          {
+            "q": {
+              "hi": "बाद में उपयोग के लिए वर्षा के पानी को एकत्र करने और संग्रहीत करने की प्रक्रिया को क्या कहते हैं?",
+              "en": "The process of collecting and storing rainwater for later use is called what?"
+            },
+            "options": [
+              {"hi": "वर्षा जल संचयन या रेनवाटर हार्वेस्टिंग (Rainwater harvesting)", "en": "Rainwater harvesting"},
+              {"hi": "जल प्रदूषण", "en": "Water pollution"},
+              {"hi": "वाष्पीकरण", "en": "Evaporation"},
+              {"hi": "संघनन", "en": "Condensation"}
+            ],
+            "answer": {"hi": "वर्षा जल संचयन या रेनवाटर हार्वेस्टिंग (Rainwater harvesting)", "en": "Rainwater harvesting"}
+          }
+        ],
+        "section2": [
+          {
+            "q": {
+              "hi": "राजस्थान में सीढ़ीदार कुओं को किस नाम से जाना जाता है?",
+              "en": "What are stepwells in Rajasthan known as?"
+            },
+            "options": [
+              {"hi": "बावड़ी (Bawadi)", "en": "Bawadi"},
+              {"hi": "वाव", "en": "Vav"},
+              {"hi": "तालाब", "en": "Pond"},
+              {"hi": "झील", "en": "Lake"}
+            ],
+            "answer": {"hi": "बावड़ी (Bawadi)", "en": "Bawadi"}
+          },
+          {
+            "q": {
+              "hi": "गुजरात में सीढ़ीदार कुओं को क्या कहा जाता है?",
+              "en": "What are stepwells in Gujarat known as?"
+            },
+            "options": [
+              {"hi": "वाव (Vav)", "en": "Vav"},
+              {"hi": "बावड़ी", "en": "Bawadi"},
+              {"hi": "कुआं", "en": "Well"},
+              {"hi": "बाँध", "en": "Dam"}
+            ],
+            "answer": {"hi": "वाव (Vav)", "en": "Vav"}
+          },
+          {
+            "q": {
+              "hi": "सूर्य से प्राप्त होने वाली ऊर्जा को क्या कहते हैं?",
+              "en": "Energy which we get from sunlight is known as what?"
+            },
+            "options": [
+              {"hi": "सौर ऊर्जा या सोलर एनर्जी (Solar energy)", "en": "Solar energy"},
+              {"hi": "पवन ऊर्जा", "en": "Wind energy"},
+              {"hi": "भू-ऊर्जा", "en": "Geothermal energy"},
+              {"hi": "जल विद्युत", "en": "Hydroelectric energy"}
+            ],
+            "answer": {"hi": "सौर ऊर्जा या सोलर एनर्जी (Solar energy)", "en": "Solar energy"}
+          },
+          {
+            "q": {
+              "hi": "प्रकाश ऊर्जा को सीधे विद्युत ऊर्जा में परिवर्तित करने वाले उपकरण को क्या कहते हैं?",
+              "en": "A device that converts light energy directly into electrical energy is called a what?"
+            },
+            "options": [
+              {"hi": "सोलर पैनल (Solar panel)", "en": "Solar panel"},
+              {"hi": "विंडमिल", "en": "Windmill"},
+              {"hi": "बैटरी", "en": "Battery"},
+              {"hi": "चूल्हा", "en": "Heater"}
+            ],
+            "answer": {"hi": "सोलर पैनल (Solar panel)", "en": "Solar panel"}
+          },
+          {
+            "q": {
+              "hi": "भारत में वनों के संरक्षण और पेड़ लगाने से संबंधित वार्षिक सप्ताह भर का त्योहार कौन सा है?",
+              "en": "Which annual week-long festival in India is related to tree planting and forest conservation?"
+            },
+            "options": [
+              {"hi": "वन महोत्सव (Van Mahotsav)", "en": "Van Mahotsav"},
+              {"hi": "दीवाली", "en": "Diwali"},
+              {"hi": "होली", "en": "Holi"},
+              {"hi": "पर्यावरण दिवस", "en": "Environment Day"}
+            ],
+            "answer": {"hi": "वन महोत्सव (Van Mahotsav)", "en": "Van Mahotsav"}
+          },
+          {
+            "q": {
+              "hi": "उत्तराखंड में पेड़ों को काटने से बचाने के लिए स्थानीय महिलाओं द्वारा कौन सा प्रसिद्ध आंदोलन शुरू किया गया था?",
+              "en": "Which movement started in the early 1970s in Uttarakhand where local women hugged trees to prevent them from being cut?"
+            },
+            "options": [
+              {"hi": "चिपको आंदोलन (Chipko Movement)", "en": "Chipko Movement"},
+              {"hi": "नर्मदा बचाو आंदोलन", "en": "Narmada Bachao Andolan"},
+              {"hi": "अपिको आंदोलन", "en": "Appiko Movement"},
+              {"hi": "साइलेंट वैली आंदोलन", "en": "Silent Valley Movement"}
+            ],
+            "answer": {"hi": "चिपको आंदोलन (Chipko Movement)", "en": "Chipko Movement"}
+          },
+          {
+            "q": {
+              "hi": "लगातार उपयोग किए जाने पर जो प्राकृतिक संसाधन समाप्त हो जाते हैं और दोबारा नहीं बनते, उन्हें क्या कहते हैं?",
+              "en": "Natural resources that are consumed continuously, get depleted and do not replenish with time are called what?"
+            },
+            "options": [
+              {"hi": "अनवीकरणीय संसाधन (Non-renewable resources)", "en": "Non-renewable resources"},
+              {"hi": "नवीकरणीय संसाधन", "en": "Renewable resources"},
+              {"hi": "मानव निर्मित संसाधन", "en": "Human-made resources"},
+              {"hi": "असीमित संसाधन", "en": "Unlimited resources"}
+            ],
+            "answer": {"hi": "अनवीकरणीय संसाधन (Non-renewable resources)", "en": "Non-renewable resources"}
+          },
+          {
+            "q": {
+              "hi": "पृथ्वी की सतह की सबसे ऊपरी पतली परत को क्या कहते हैं?",
+              "en": "The thin uppermost layer of the earth's surface is called what?"
+            },
+            "options": [
+              {"hi": "मिट्टी या सॉइल (Soil)", "en": "Soil"},
+              {"hi": "चट्टान (Rock)", "en": "Rock"},
+              {"hi": "खनिज (Mineral)", "en": "Mineral"},
+              {"hi": "कोर (Core)", "en": "Core"}
+            ],
+            "answer": {"hi": "मिट्टी या सॉइल (Soil)", "en": "Soil"}
+          },
+          {
+            "q": {
+              "hi": "मृत पौधों और जंतुओं के अवशेषों को कार्बनिक पदार्थों में तोड़ने वाले सूक्ष्म जीवों को क्या कहते हैं?",
+              "en": "Organisms that decompose dead plants and animals into organic matter are called what?"
+            },
+            "options": [
+              {"hi": "सूक्ष्मजीव या माइक्रोऑर्गेनिज्म (Microorganisms)", "en": "Microorganisms"},
+              {"hi": "खनिज", "en": "Minerals"},
+              {"hi": "जीवाश्म", "en": "Fossils"},
+              {"hi": "अम्ल", "en": "Acids"}
+            ],
+            "answer": {"hi": "सूक्ष्मजीव या माइक्रोऑर्गेनिज्म (Microorganisms)", "en": "Microorganisms"}
+          },
+          {
+            "q": {
+              "hi": "प्राकृतिक कारकों जैसे वर्षा, हवा और बर्फ द्वारा चट्टानों के टूटने की प्रक्रिया को क्या कहते हैं?",
+              "en": "The breaking down of rocks due to natural factors like rain, wind and snow is called what?"
+            },
+            "options": [
+              {"hi": "अपक्षय या वेदरिंग (Weathering)", "en": "Weathering"},
+              {"hi": "अपरदन (Erosion)", "en": "Erosion"},
+              {"hi": "अवसादन (Sedimentation)", "en": "Sedimentation"},
+              {"hi": "वाष्पीकरण (Evaporation)", "en": "Evaporation"}
+            ],
+            "answer": {"hi": "अपक्षय या वेदरिंग (Weathering)", "en": "Weathering"}
+          }
+        ],
+        "section3": [
+          {
+            "q": {
+              "hi": "छत की स्लैटे (slate) बनाने के लिए किस चट्टान का उपयोग किया जाता है?",
+              "en": "Which rock is used for roofing purposes?"
+            },
+            "options": [
+              {"hi": "स्लेट (Slate)", "en": "Slate"},
+              {"hi": "संगमरमर (Marble)", "en": "Marble"},
+              {"hi": "ग्रैनाइट (Granite)", "en": "Granite"},
+              {"hi": "बलुआ पत्थर (Sandstone)", "en": "Sandstone"}
+            ],
+            "answer": {"hi": "स्लेट (Slate)", "en": "Slate"}
+          },
+          {
+            "q": {
+              "hi": "ईंटों की तरह भवन निर्माण सामग्री के रूप में उपयोग की जाने वाली चट्टान कौन सी है?",
+              "en": "Which type of rock is used as a building material similar to bricks?"
+            },
+            "options": [
+              {"hi": "लैटेराइट (Laterite)", "en": "Laterite"},
+              {"hi": "स्लेट (Slate)", "en": "Slate"},
+              {"hi": "संगमरमर (Marble)", "en": "Marble"},
+              {"hi": "बलुआ पत्थर (Sandstone)", "en": "Sandstone"}
+            ],
+            "answer": {"hi": "लैटेराइट (Laterite)", "en": "Laterite"}
+          },
+          {
+            "q": {
+              "hi": "तीन प्रमुख प्रकार की चट्टानें कौन सी हैं?",
+              "en": "What are three major kinds of rocks mentioned in the text?"
+            },
+            "options": [
+              {"hi": "संगमरमर, बलुआ पत्थर और ग्रेनाइट (Marble, sandstone and granite)", "en": "Marble, sandstone and granite"},
+              {"hi": "कोयला, पेट्रोल और डीजल", "en": "Coal, petrol and diesel"},
+              {"hi": "तांबा, सोना और लोहा", "en": "Copper, gold and iron"},
+              {"hi": "चिकनी मिट्टी, दोमट और बलुई", "en": "Clay, loam and sandy"}
+            ],
+            "answer": {"hi": "संगमरमर, बलुआ पत्थर और ग्रेनाइट (Marble, sandstone and granite)", "en": "Marble, sandstone and granite"}
+          },
+          {
+            "q": {
+              "hi": "विभिन्न धातुओं (जैसे तांबा, लोहा, सोना, एल्युमिनियम) के स्रोत क्या हैं?",
+              "en": "What are the sources of various metals such as copper, iron, gold and aluminium?"
+            },
+            "options": [
+              {"hi": "खनिज या मिनरल्स (Minerals)", "en": "Minerals"},
+              {"hi": "जीवाश्म ईंधन (Fossil fuels)", "en": "Fossil fuels"},
+              {"hi": "वन (Forests)", "en": "Forests"},
+              {"hi": "हवा (Air)", "en": "Air"}
+            ],
+            "answer": {"hi": "खनिज या मिनरल्स (Minerals)", "en": "Minerals"}
+          },
+          {
+            "q": {
+              "hi": "एक साधारण मोबाइल फोन में लगभग कितने खनिज मौजूद होते हैं?",
+              "en": "Over a dozen minerals, such as gold, silver, copper and cobalt, are present in what?"
+            },
+            "options": [
+              {"hi": "बेसिक मोबाइल फोन में (Basic mobile phones)", "en": "Basic mobile phones"},
+              {"hi": "सोलर पैनल में", "en": "Solar panels"},
+              {"hi": "विंडमिल में", "en": "Windmills"},
+              {"hi": "जल फिल्टर में", "en": "Water filters"}
+            ],
+            "answer": {"hi": "बेसिक मोबाइल फोन में (Basic mobile phones)", "en": "Basic mobile phones"}
+          },
+          {
+            "q": {
+              "hi": "हवा में या ऑक्सीजन में जलाने पर ऊष्मा ऊर्जा उत्पन्न करने वाले प्राकृतिक कार्बन-युक्त पदार्थों को क्या कहते हैं?",
+              "en": "Naturally occurring carbon-containing materials that produce heat energy when burnt in air are called what?"
+            },
+            "options": [
+              {"hi": "जीवाश्म ईंधन या फोजिल फ्यूल्स (Fossil fuels)", "en": "Fossil fuels"},
+              {"hi": "खनिज (Minerals)", "en": "Minerals"},
+              {"hi": "अक्रिय गैसें (Inert gases)", "en": "Inert gases"},
+              {"hi": "नवीकरणीय ऊर्जा", "en": "Renewable energy"}
+            ],
+            "answer": {"hi": "जीवाश्म ईंधन या फोजिल फ्यूल्स (Fossil fuels)", "en": "Fossil fuels"}
+          },
+          {
+            "q": {
+              "hi": "जीवाश्म ईंधन (fossil fuels) के मुख्य रूप कौन से हैं?",
+              "en": "What are the three major forms of fossil fuels?"
+            },
+            "options": [
+              {"hi": "कोयला, पेट्रोलियम और प्राकृतिक गैस (Coal, petroleum and natural gas)", "en": "Coal, petroleum and natural gas"},
+              {"hi": "हवा, पानी और धूप", "en": "Air, water and sunlight"},
+              {"hi": "लकड़ी, गोबर और घास", "en": "Wood, cow dung and grass"},
+              {"hi": "सोना, चांदी और तांबा", "en": "Gold, silver and copper"}
+            ],
+            "answer": {"hi": "कोयला, पेट्रोलियम और प्राकृतिक गैस (Coal, petroleum and natural gas)", "en": "Coal, petroleum and natural gas"}
+          },
+          {
+            "q": {
+              "hi": "प्राकृतिक गैस में मुख्य रूप से कौन सी गैस पाई जाती है?",
+              "en": "Natural gas is a fossil fuel that contains which main gas?"
+            },
+            "options": [
+              {"hi": "मीथेन (Methane)", "en": "Methane"},
+              {"hi": "ऑक्सीजन (Oxygen)", "en": "Oxygen"},
+              {"hi": "नाइट्रोजन (Nitrogen)", "en": "Nitrogen"},
+              {"hi": "हाइड्रोजन (Hydrogen)", "en": "Hydrogen"}
+            ],
+            "answer": {"hi": "मीथेन (Methane)", "en": "Methane"}
+          },
+          {
+            "q": {
+              "hi": "वाहन ईंधन के रूप में उपयोग की जाने वाली सीएनजी (CNG) का पूरा नाम क्या है?",
+              "en": "What does CNG stand for?"
+            },
+            "options": [
+              {"hi": "संपीडित प्राकृतिक गैस (Compressed Natural Gas)", "en": "Compressed Natural Gas"},
+              {"hi": "कार्बन नाइट्रोजन गैस", "en": "Carbon Nitrogen Gas"},
+              {"hi": "कॉमन नेचुरल गैस", "en": "Common Natural Gas"},
+              {"hi": "क्लीन नेचुरल गैस", "en": "Clean Natural Gas"}
+            ],
+            "answer": {"hi": "संपीडित प्राकृतिक गैस (Compressed Natural Gas)", "en": "Compressed Natural Gas"}
+          },
+          {
+            "q": {
+              "hi": "वर्तमान पीढ़ी की आवश्यकताओं को पूरा करना ताकि भविष्य की पीढ़ियों के साथ समझौता न हो, क्या कहलाता है?",
+              "en": "Meeting the needs of the present generation without compromising those of future generations is called what?"
+            },
+            "options": [
+              {"hi": "सतत विकास या सस्टेनेबल डेवलपमेंट (Sustainable development)", "en": "Sustainable development"},
+              {"hi": "ग्लोबल वार्मिंग (Global warming)", "en": "Global warming"},
+              {"hi": "वनीकरण (Afforestation)", "en": "Afforestation"},
+              {"hi": "औद्योगीकरण (Industrialization)", "en": "Industrialization"}
+            ],
+            "answer": {"hi": "सतत विकास या सस्टेनेबल डेवलपमेंट (Sustainable development)", "en": "Sustainable development"}
+          }
+        ],
+        "section4": [
+          {
+            "q": {
+              "hi": "संसाधनों को बचाने के लिए कौन सा प्रसिद्ध 3R दृष्टिकोण उपयोग किया जाता है?",
+              "en": "What are the three core principles (3Rs) commonly used to save resources?"
+            },
+            "options": [
+              {"hi": "रिड्यूस, रीूज, रीसायकल (Reduce, Reuse, Recycle)", "en": "Reduce, Reuse, Recycle"},
+              {"hi": "रीड, राइट, रिमेंबर", "en": "Read, Write, Remember"},
+              {"hi": "रिमूव, रिप्लेस, रिपेयर", "en": "Remove, Replace, Repair"},
+              {"hi": "रेस्ट, रिलैक्स, रिचार्ज", "en": "Rest, Relax, Recharge"}
+            ],
+            "answer": {"hi": "रिड्यूस, रीूज, रीसायकल (Reduce, Reuse, Recycle)", "en": "Reduce, Reuse, Recycle"}
+          },
+          {
+            "q": {
+              "hi": "मानवों द्वारा बनाए गए और संशोधित किए जाने वाले संसाधन क्या कहलाते हैं?",
+              "en": "Resources that are created and modified by humans are called what?"
+            },
+            "options": [
+              {"hi": "मानव-निर्मित या मैन-मेड संसाधन (Human-made resources)", "en": "Human-made resources"},
+              {"hi": "प्राकृतिक संसाधन", "en": "Natural resources"},
+              {"hi": "नवीकरणीय संसाधन", "en": "Renewable resources"},
+              {"hi": "जीवाश्म ईंधन", "en": "Fossil fuels"}
+            ],
+            "answer": {"hi": "मानव-निर्मित या मैन-मेड संसाधन (Human-made resources)", "en": "Human-made resources"}
+          },
+          {
+            "q": {
+              "hi": "निम्नलिखित में से कौन सा मानव-निर्मित संसाधन (man-made resource) का उदाहरण है?",
+              "en": "Which of the following is an example of a man-made resource?"
+            },
+            "options": [
+              {"hi": "पुल और सड़कें (Bridges and roads)", "en": "Bridges and roads"},
+              {"hi": "नदियाँ और पर्वत", "en": "Rivers and mountains"},
+              {"hi": "खनिज अयस्क", "en": "Mineral ores"},
+              {"hi": "वन्य जीव", "en": "Wildlife"}
+            ],
+            "answer": {"hi": "पुल और सड़कें (Bridges and roads)", "en": "Bridges and roads"}
+          },
+          {
+            "q": {
+              "hi": "पृथ्वी की सतह का कितना भाग पानी से ढका हुआ है लेकिन उसका अधिकांश भाग खारा (saline) है?",
+              "en": "Water covers about two-thirds of the earth's surface, but most of this water is what?"
+            },
+            "options": [
+              {"hi": "खारा या लवणीय (Saline)", "en": "Saline and not safe for human use"},
+              {"hi": "शुद्ध पेयजल", "en": "Pure drinking water"},
+              {"hi": "आसुत जल", "en": "Distilled water"},
+              {"hi": "बर्फ का पानी", "en": "Ice water"}
+            ],
+            "answer": {"hi": "खारा या लवणीय (Saline)", "en": "Saline and not safe for human use"}
+          },
+          {
+            "q": {
+              "hi": "कंक्रीट से ढके क्षेत्रों में वर्षा के पानी को जमीन के नीचे पहुँचाने या टैंक में भरने के लिए क्या किया जाता है?",
+              "en": "In areas covered with concrete, what techniques are used to collect and use rainwater?"
+            },
+            "options": [
+              {"hi": "वर्षा जल संचयन (Rooftop and surface run-off harvesting)", "en": "Rainwater harvesting"},
+              {"hi": "वनों की कटाई", "en": "Deforestation"},
+              {"hi": "मशीनों से सिंचाई", "en": "Machine irrigation"},
+              {"hi": "भूमिगत खनन", "en": "Underground mining"}
+            ],
+            "answer": {"hi": "वर्षा जल संचयन (Rooftop and surface run-off harvesting)", "en": "Rainwater harvesting"}
+          },
+          {
+            "q": {
+              "hi": "सौर ऊर्जा को संग्रहित करने वाले सेल क्या कहलाते हैं?",
+              "en": "Energy from the sun is harnessed using solar collectors called what?"
+            },
+            "options": [
+              {"hi": "सौर सेल या सोलर सेल्स (Solar cells)", "en": "Solar cells"},
+              {"hi": "विंड टर्बाइन", "en": "Wind turbines"},
+              {"hi": "थर्मोकपल", "en": "Thermocouples"},
+              {"hi": "मैग्नेटिक कॉइल", "en": "Magnetic coils"}
+            ],
+            "answer": {"hi": "सौर सेल या सोलर सेल्स (Solar cells)", "en": "Solar cells"}
+          },
+          {
+            "q": {
+              "hi": "बड़े पैमाने पर वनों की कटाई को क्या कहा जाता है?",
+              "en": "The cutting of trees in the forest for land and human activities is called what?"
+            },
+            "options": [
+              {"hi": "वनों की कटाई या डिफॉरेस्टेशन (Deforestation)", "en": "Deforestation"},
+              {"hi": "वनीकरण (Afforestation)", "en": "Afforestation"},
+              {"hi": "वर्षा जल संचयन", "en": "Rainwater harvesting"},
+              {"hi": "अपक्षय (Weathering)", "en": "Weathering"}
+            ],
+            "answer": {"hi": "वनों की कटाई या डिफॉरेस्टेशन (Deforestation)", "en": "Deforestation"}
+          },
+          {
+            "q": {
+              "hi": "विभिन्न प्रकार के जीव जो पृथ्वी पर निवास करते हैं, उनके समग्र रूप को क्या कहते हैं?",
+              "en": "Different types of organisms living on earth are referred to as what?"
+            },
+            "options": [
+              {"hi": "जैविक विविधता या जैव विविधता (Biodiversity)", "en": "Biodiversity"},
+              {"hi": "जीवाश्म ईंधन", "en": "Fossil fuels"},
+              {"hi": "पारिस्थितिकी", "en": "Ecology"},
+              {"hi": "खनिज संपदा", "en": "Mineral wealth"}
+            ],
+            "answer": {"hi": "जैविक विविधता या जैव विविधता (Biodiversity)", "en": "Biodiversity"}
+          },
+          {
+            "q": {
+              "hi": "जीवाश्म ईंधनों के जलने से वायुमंडल में कौन सी ग्रीनहाउस गैस मुक्त होती है?",
+              "en": "Burning fossil fuels releases which greenhouse gas into the atmosphere?"
+            },
+            "options": [
+              {"hi": "कार्बन डाइऑक्साइड (Carbon dioxide)", "en": "Carbon dioxide"},
+              {"hi": "ऑक्सीजन (Oxygen)", "en": "Oxygen"},
+              {"hi": "हाइड्रोजन (Hydrogen)", "en": "Hydrogen"},
+              {"hi": "नाइट्रोजन (Nitrogen)", "en": "Nitrogen"}
+            ],
+            "answer": {"hi": "कार्बन डाइऑक्साइड (Carbon dioxide)", "en": "Carbon dioxide"}
+          },
+          {
+            "q": {
+              "hi": "मिट्टी की उर्वरता (fertility of soil) का क्या अर्थ है?",
+              "en": "What is meant by the fertility of soil?"
+            },
+            "options": [
+              {"hi": "पौधों को पोषक तत्व प्रदान करके उनके विकास में सहायता करने की क्षमता", "en": "Ability of the soil to support plant growth by providing nutrients"},
+              {"hi": "मिट्टी का काला रंग", "en": "Black color of soil"},
+              {"hi": "मिट्टी में पानी न रुकना", "en": "No water retention"},
+              {"hi": "केवल कंकड़ होना", "en": "Presence of only stones"}
+            ],
+            "answer": {"hi": "पौधों को पोषक तत्व प्रदान करके उनके विकास में सहायता करने की क्षमता", "en": "Ability of the soil to support plant growth by providing nutrients"}
+          }
+        ],
+        "section5": [
+          {
+            "q": {
+              "hi": "क्या सूरज पृथ्वी का प्राथमिक ऊर्जा स्रोत (primary energy source) है?",
+              "en": "Is the sun the earth's primary energy source?"
+            },
+            "options": [
+              {"hi": "सत्य (True)", "en": "True"},
+              {"hi": "असत्य (False)", "en": "False"},
+              {"hi": "केवल रात के लिए सत्य", "en": "True only for night"},
+              {"hi": "कहा नहीं जा सकता", "en": "Cannot say"}
+            ],
+            "answer": {"hi": "सत्य (True)", "en": "True"}
+          },
+          {
+            "q": {
+              "hi": "क्या कोयला, पेट्रोलियम और प्राकृतिक गैस नवीकरणीय संसाधन हैं?",
+              "en": "Are coal, petroleum and natural gas renewable resources?"
+            },
+            "options": [
+              {"hi": "असत्य, ये अनवीकरणीय (non-renewable) संसाधन हैं (False)", "en": "False"},
+              {"hi": "सत्य (True)", "en": "True"},
+              {"hi": "यह केवल पानी के लिए सत्य है", "en": "True only for water"},
+              {"hi": "यह हवा के लिए सत्य है", "en": "True for air"}
+            ],
+            "answer": {"hi": "असत्य, ये अनवीकरणीय (non-renewable) संसाधन हैं (False)", "en": "False"}
+          },
+          {
+            "q": {
+              "hi": "क्या हवा विभिन्न गैसों का एक मिश्रण है?",
+              "en": "Is air a mixture of gases?"
+            },
+            "options": [
+              {"hi": "सत्य (True)", "en": "True"},
+              {"hi": "असत्य (False)", "en": "False"},
+              {"hi": "यह केवल शुद्ध ऑक्सीजन है", "en": "It is only pure oxygen"},
+              {"hi": "यह केवल नाइट्रोजन है", "en": "It is only nitrogen"}
+            ],
+            "answer": {"hi": "सत्य (True)", "en": "True"}
+          },
+          {
+            "q": {
+              "hi": "क्या जंगलों का संरक्षण करना हमारे पर्यावरण के लिए आवश्यक है?",
+              "en": "Is it necessary to conserve forests?"
+            },
+            "options": [
+              {"hi": "सत्य (True)", "en": "True"},
+              {"hi": "असत्य (False)", "en": "False"},
+              {"hi": "वनों का कोई महत्व नहीं है", "en": "Forests have no importance"},
+              {"hi": "केवल काटने के लिए हैं", "en": "Only for cutting down"}
+            ],
+            "answer": {"hi": "सत्य (True)", "en": "True"}
+          },
+          {
+            "q": {
+              "hi": "क्या मिट्टी के विभिन्न नमूनों का रंग और बनावट (texture) अलग-अलग हो सकती है?",
+              "en": "Can soil samples from different locations vary in colour and texture?"
+            },
+            "options": [
+              {"hi": "सत्य (True)", "en": "True"},
+              {"hi": "असत्य (False)", "en": "False"},
+              {"hi": "सभी मिट्टी बिल्कुल एक जैसी होती है", "en": "All soils are identical"},
+              {"hi": "मिट्टी का कोई रंग नहीं होता", "en": "Soil has no color"}
+            ],
+            "answer": {"hi": "सत्य (True)", "en": "True"}
+          },
+          {
+            "q": {
+              "hi": "वाहनों में साफ ईंधन के रूप में किसका उपयोग किया जाता है जिससे प्रदूषण कम होता है?",
+              "en": "Which cleaner fuel is used in vehicles to cause less pollution?"
+            },
+            "options": [
+              {"hi": "सीएनजी या संपीड़ित प्राकृतिक गैस (CNG)", "en": "CNG"},
+              {"hi": "कोयला पाउडर", "en": "Coal powder"},
+              {"hi": "प्लास्टिक कचरा", "en": "Plastic waste"},
+              {"hi": "गंदा तेल", "en": "Dirty oil"}
+            ],
+            "answer": {"hi": "सीएनजी या संपीड़ित प्राकृतिक गैस (CNG)", "en": "CNG"}
+          },
+          {
+            "q": {
+              "hi": "पेड़ पौधे अपना भोजन किस प्रक्रिया द्वारा बनाते हैं?",
+              "en": "By what process do plants make their own food?"
+            },
+            "options": [
+              {"hi": "प्रकाश संश्लेषण (Photosynthesis)", "en": "Photosynthesis"},
+              {"hi": "श्वसन (Respiration)", "en": "Respiration"},
+              {"hi": "वाष्पोत्सर्जन (Transpiration)", "en": "Transpiration"},
+              {"hi": "किण्वन (Fermentation)", "en": "Fermentation"}
+            ],
+            "answer": {"hi": "प्रकाश संश्लेषण (Photosynthesis)", "en": "Photosynthesis"}
+          },
+          {
+            "q": {
+              "hi": "पानी का वह स्रोत जो नमकयुक्त होता है, क्या कहलाता है?",
+              "en": "Water that has salt in it is known as what?"
+            },
+            "options": [
+              {"hi": "लवणीय या खारा पानी (Saline water)", "en": "Saline water"},
+              {"hi": "ताजा पानी (Freshwater)", "en": "Freshwater"},
+              {"hi": "वर्षा जल", "en": "Rainwater"},
+              {"hi": "आसुत जल", "en": "Distilled water"}
+            ],
+            "answer": {"hi": "लवणीय या खारा पानी (Saline water)", "en": "Saline water"}
+          },
+          {
+            "q": {
+              "hi": "पृथ्वी के तापमान में लगातार वृद्धि की समस्या को क्या कहा जाता है?",
+              "en": "The increase in the earth's temperature over time is known as what?"
+            },
+            "options": [
+              {"hi": "ग्लोबल वार्मिंग (Global warming)", "en": "Global warming"},
+              {"hi": "शीतलन (Cooling)", "en": "Cooling"},
+              {"hi": "जल चक्र", "en": "Water cycle"},
+              {"hi": "अम्ल वर्षा", "en": "Acid rain"}
+            ],
+            "answer": {"hi": "ग्लोबल वार्मिंग (Global warming)", "en": "Global warming"}
+          },
+          {
+            "q": {
+              "hi": "भवन निर्माण में निम्नलिखित में से किस चट्टान का उपयोग नहीं किया जाता या ऊर्जा स्रोत के रूप में किया जाता है?",
+              "en": "Which of the following is a fossil fuel used for producing electricity and cooking?"
+            },
+            "options": [
+              {"hi": "कोयला और प्राकृतिक गैस (Coal and natural gas)", "en": "Coal and natural gas"},
+              {"hi": "संगमरमर (Marble)", "en": "Marble"},
+              {"hi": "ग्रैनाइट (Granite)", "en": "Granite"},
+              {"hi": "स्लेट (Slate)", "en": "Slate"}
+            ],
+            "answer": {"hi": "कोयला और प्राकृतिक गैस (Coal and natural gas)", "en": "Coal and natural gas"}
+          }
+        ]
       }
     }
   }
+  
   
   
 
