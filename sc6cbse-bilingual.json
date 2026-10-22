@@ -21,10 +21,10 @@
               "en": "What do humans begin doing from childhood?"
             },
             "options": [
-              {"hi": "अन्वेषण और पर्यावरण के बारे में प्रश्न पूछना", "en": "Exploring and asking questions about the environment"},
               {"hi": "बड़ी मशीनें बनाना", "en": "Building large machines"},
               {"hi": "केवल सोना", "en": "Only sleeping"},
-              {"hi": "किताबें लिखना", "en": "Writing books"}
+              {"hi": "किताबें लिखना", "en": "Writing books"},
+              {"hi": "अन्वेषण और पर्यावरण के बारे में प्रश्न पूछना", "en": "Exploring and asking questions about the environment"}
             ],
             "answer": {"hi": "अन्वेषण और पर्यावरण के बारे में प्रश्न पूछना", "en": "Exploring and asking questions about the environment"}
           },
@@ -60,9 +60,9 @@
               "en": "Where is the presence of science found among these?"
             },
             "options": [
-              {"hi": "रसोई में खाना पकाने से लेकर खेल के मैदान तक", "en": "From what's cooking in the kitchen to what's happening on the playground"},
               {"hi": "केवल अंतरिक्ष में", "en": "Only in outer space"},
               {"hi": "केवल समुद्र की गहराई में", "en": "Only in the depths of the ocean"},
+               {"hi": "रसोई में खाना पकाने से लेकर खेल के मैदान तक", "en": "From what's cooking in the kitchen to what's happening on the playground"},
               {"hi": "केवल जंगलों में", "en": "Only in forests"}
             ],
             "answer": {"hi": "रसोई में खाना पकाने से लेकर खेल के मैदान तक", "en": "From what's cooking in the kitchen to what's happening on the playground"}
@@ -73,10 +73,11 @@
               "en": "Which statement is true about scientific discoveries?"
             },
             "options": [
-              {"hi": "खोजों की कोई सीमा नहीं है", "en": "Science has no limits to discoveries"},
+              
               {"hi": "खोजें सीमित होती हैं", "en": "Discoveries are limited"},
               {"hi": "एक बार खोज होने के बाद नए प्रश्न नहीं उठते", "en": "No new questions arise after a discovery"},
-              {"hi": "गलत परिणाम उपयोगी नहीं होते", "en": "Wrong results are not useful"}
+              {"hi": "गलत परिणाम उपयोगी नहीं होते", "en": "Wrong results are not useful"},
+              {"hi": "खोजों की कोई सीमा नहीं है", "en": "Science has no limits to discoveries"}
             ],
             "answer": {"hi": "खोजों की कोई सीमा नहीं है", "en": "Science has no limits to discoveries"}
           },
@@ -86,8 +87,8 @@
               "en": "What happens when scientists do not get the results they want?"
             },
             "options": [
-              {"hi": "वह जानकारी फिर भी उपयोगी होती है", "en": "That information is still useful"},
               {"hi": "वह पूरी तरह व्यर्थ हो जाती है", "en": "It becomes completely useless"},
+              {"hi": "वह जानकारी फिर भी उपयोगी होती है", "en": "That information is still useful"},
               {"hi": "वैज्ञानिक काम करना बंद कर देते हैं", "en": "Scientists stop working"},
               {"hi": "प्रयोग बंद हो जाते हैं", "en": "Experiments are stopped"}
             ],
@@ -99,9 +100,9 @@
               "en": "What does the information from unexpected results do?"
             },
             "options": [
-              {"hi": "दुनिया की हमारी समझ को बदलती है और भविष्य के अनुसंधान को प्रेरित करती है", "en": "Alters our understanding of the world and inspires future research"},
               {"hi": "भ्रम पैदा करती है", "en": "Creates confusion"},
               {"hi": "समय बर्बाद करती है", "en": "Wastes time"},
+              {"hi": "दुनिया की हमारी समझ को बदलती है और भविष्य के अनुसंधान को प्रेरित करती है", "en": "Alters our understanding of the world and inspires future research"},
               {"hi": "अध्ययन रोक देती है", "en": "Stops study"}
             ],
             "answer": {"hi": "दुनिया की हमारी समझ को बदलती है और भविष्य के अनुसंधान को प्रेरित करती है", "en": "Alters our understanding of the world and inspires future research"}
@@ -112,8 +113,8 @@
               "en": "Which is the only known planet to support life to survive?"
             },
             "options": [
-              {"hi": "पृथ्वी (Earth)", "en": "Earth"},
               {"hi": "मंगल (Mars)", "en": "Mars"},
+              {"hi": "पृथ्वी (Earth)", "en": "Earth"},
               {"hi": "शुक्र (Venus)", "en": "Venus"},
               {"hi": "बृहस्पति (Jupiter)", "en": "Jupiter"}
             ],
