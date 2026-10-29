@@ -18,9 +18,8 @@ const subject = document.body.getAttribute('data-sub') || 'sci';
 
 // डायनामिक फाइल का नाम और डेटा की 'Key' तय करना
 // अगर class 6 है तो 'mcq-bilingual.json' अन्यथा 'sci7-bilingual.json' आदि
-const fileName = (classNum === '6' && subject === 'sci') ? './mcq-bilingual.json' : `./${subject}${classNum}-bilingual.json`;
-const classKey = `class${classNum}`;
-const chapterKey = document.body.getAttribute('data-page');
+
+
 
 const correctSound = document.getElementById("correctSound");
 const wrongSound = document.getElementById("wrongSound");
@@ -28,47 +27,81 @@ const wrongSound = document.getElementById("wrongSound");
 
 
 
-// 2. JSON डेटा लोड करना (बाकी कोड पहले जैसा ही रहेगा)
-fetch(fileName)
-    .then(response => {
-        if (!response.ok) throw new Error(`${fileName} लोड नहीं हो सकी!`);
-        return response.json();
-    })
-// ... बाकी का कोड वैसा ही रहने दें
+const board = document.body.dataset.board;
 
+const fileName = {
+    cbse: "sc6cbse-bilingual.json",
+    biharboard: "sc6biharboard-bilingual.json"
+}[board];
 
-    .then(data => {
-        // यहाँ data[classKey] का उपयोग किया गया है ताकि class6, 7, 8 कुछ भी लोड हो सके
-        console.log("CHAPTER DATA:", data[classKey][chapterKey]);
-         console.log("CLASS:", classKey);
-         console.log("CLASS DATA:", data[classKey]);
-    console.log("CHAPTER:", chapterKey);
-    console.log("DATA:", data);
+const classKey = board === "biharboard"
+    ? `class${classNum}biharboard`
+    : `class${classNum}`;
+const chapterKey = document.body.getAttribute("data-page");
 
-        if (data[classKey] && data[classKey][chapterKey]) {
-            chapterData = data[classKey][chapterKey];
-            const sections = Object.keys(chapterData);
-            if (sections.length > 0) {
-                loadSection('section1'); // डिफ़ॉल्ट Section 1
+if (!fileName) {
+    showError("Unknown board: " + board);
+} else {
+    fetch(fileName)
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(
+                    `${fileName} लोड नहीं हुई: ${response.status}`
+                );
             }
-        } else {
-            showError(`त्रुटि: ${classKey} के अंदर '${chapterKey}' नहीं मिला।`);
-        }
-    })
-    .catch(err => showError("Loading Error: " + err.message));
+            return response.json();
+        })
+        .then(data => {
+            console.log("MCQ JSON loaded:", board, data);
+            console.log("CLASS:", classKey);
+            console.log("CHAPTER:", chapterKey);
+            console.log("CLASS DATA:", data[classKey]);
 
-// 3. सेक्शन लोड करने का फंक्शन (इसमें बदलाव की जरूरत नहीं)
+            if (
+                data[classKey] &&
+                data[classKey][chapterKey]
+            ) {
+                chapterData = data[classKey][chapterKey];
+
+                console.log("CHAPTER DATA:", chapterData);
+
+                const sections = Object.keys(chapterData);
+
+                if (sections.length > 0) {
+                    loadSection("section1");
+                } else {
+                    showError("इस अध्याय में कोई सेक्शन नहीं मिला।");
+                }
+            } else {
+                showError(
+                    `त्रुटि: ${classKey} के अंदर '${chapterKey}' नहीं मिला।`
+                );
+            }
+        })
+        .catch(err => {
+            console.error("MCQ loading error:", err);
+            showError("Loading Error: " + err.message);
+        });
+}
+
 window.loadSection = function(sectionId, btn) {
+
     if (!chapterData || !chapterData[sectionId]) return;
 
-    document.querySelectorAll(".section-buttons button").forEach(b => b.classList.remove("active"));
-    if (btn) btn.classList.add("active");
+    document.querySelectorAll(".section-buttons button")
+        .forEach(b => b.classList.remove("active"));
+
+    if (btn) {
+        btn.classList.add("active");
+    }
 
     currentQuestions = chapterData[sectionId];
     currentQIdx = 0;
     score = 0;
+
     updateScoreUI();
-    displayQuestion(); 
+    displayQuestion();
+
 };
 
 function startTimer() {
@@ -233,15 +266,15 @@ document.addEventListener("DOMContentLoaded", () => {
     const hamburger = document.getElementById("hamburger");
     const navLinks = document.getElementById("navLinks");
 
-    hamburger.addEventListener("click", () => {
+    if (hamburger && navLinks) {
+        hamburger.addEventListener("click", () => {
 
         hamburger.classList.toggle("active");
         navLinks.classList.toggle("active");
 
     });
-
+    }
 });
-
 
 
 
@@ -249,21 +282,15 @@ document.addEventListener("DOMContentLoaded", () => {
 
 const blogGrid = document.querySelector(".blog-grid");
 
-const latestBlogs = blogs.slice(0,4);
+if (blogGrid && typeof blogs !== "undefined") {
+    const latestBlogs = blogs.slice(0, 4);
 
-latestBlogs.forEach(blog => {
-
-blogGrid.innerHTML += `
-<div class="blog-card">
-<img src="${blog.image}">
-<h3>${blog.title}</h3>
-<p>${blog.desc}</p>
-<a href="${blog.link}">Read Blog</a>
-</div>
-`;
-
-});
-
+    latestBlogs.forEach(blog => {
+        blogGrid.innerHTML += `
+            DIL0
+        `;
+    });
+}
 
 
 function getBoxAnimation() {
