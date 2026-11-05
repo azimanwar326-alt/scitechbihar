@@ -1626,3 +1626,47 @@ button.wrong {
         from { transform: rotate(0deg); }
         to { transform: rotate(360deg); }
     }
+
+
+    /* अध्याय के प्रश्नोत्तर की टेबल */
+.chapter-section table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 16px 0;
+  font-size: 16px;
+  background-color: #fff;
+}
+
+.chapter-section th,
+.chapter-section td {
+  border: 1px solid #ccc;
+  padding: 10px 12px;
+  text-align: left;
+  vertical-align: top;
+}
+
+.chapter-section th {
+  background-color: #eaf2ff;
+  color: #222;
+  font-weight: bold;
+}
+
+.chapter-section tbody tr:nth-child(even) {
+  background-color: #f7f9fc;
+}
+
+/* मोबाइल पर टेबल को स्क्रॉल करने योग्य बनाएं */
+.chapter-section {
+  overflow-x: auto;
+}
+
+@media (max-width: 600px) {
+  .chapter-section table {
+    font-size: 14px;
+  }
+
+  .chapter-section th,
+  .chapter-section td {
+    padding: 8px;
+  }
+}
