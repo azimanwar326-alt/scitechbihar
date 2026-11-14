@@ -26,7 +26,6 @@ const wrongSound = document.getElementById("wrongSound");
 
 
 
-
 const board = document.body.dataset.board;
 
 const fileName = {
@@ -34,55 +33,94 @@ const fileName = {
     biharboard: "sc6biharboard-bilingual.json"
 }[board];
 
-const classKey = board === "biharboard"
-    ? `class${classNum}biharboard`
-    : `class${classNum}`;
+const classKey = {
+    cbse: "class6cbse",
+    biharboard: "class6biharboard"
+}[board];
+
 const chapterKey = document.body.getAttribute("data-page");
+
+console.log("NEW SCRIPT VERSION RUNNING");
+console.log("BOARD:", board);
+console.log("CLASS KEY:", classKey);
+console.log("CHAPTER KEY:", chapterKey);
+console.log("JSON FILE:", fileName);
+
+
+
+
 
 if (!fileName) {
     showError("Unknown board: " + board);
+
 } else {
     fetch(fileName)
         .then(response => {
             if (!response.ok) {
                 throw new Error(
-                    `${fileName} लोड नहीं हुई: ${response.status}`
+                    `${fileName} load failed: ${response.status}`
                 );
             }
+
             return response.json();
         })
+
         .then(data => {
+
             console.log("MCQ JSON loaded:", board, data);
-            console.log("CLASS:", classKey);
+            console.log("CLASS KEY:", classKey);
             console.log("CHAPTER:", chapterKey);
+
+            // Check class data
+            if (!data[classKey]) {
+                console.error("CLASS DATA NOT FOUND:", classKey);
+                showError("Class data not found: " + classKey);
+                return;
+            }
+
             console.log("CLASS DATA:", data[classKey]);
 
-            if (
-                data[classKey] &&
-                data[classKey][chapterKey]
-            ) {
-                chapterData = data[classKey][chapterKey];
-
-                console.log("CHAPTER DATA:", chapterData);
-
-                const sections = Object.keys(chapterData);
-
-                if (sections.length > 0) {
-                    loadSection("section1");
-                } else {
-                    showError("इस अध्याय में कोई सेक्शन नहीं मिला।");
-                }
-            } else {
-                showError(
-                    `त्रुटि: ${classKey} के अंदर '${chapterKey}' नहीं मिला।`
-                );
+            // Check chapter data
+            if (!data[classKey][chapterKey]) {
+                console.error("CHAPTER NOT FOUND:", chapterKey);
+                showError("Chapter not found: " + chapterKey);
+                return;
             }
+
+            chapterData = data[classKey][chapterKey];
+
+            console.log("CHAPTER DATA:", chapterData);
+
+            // Check sections
+            const sections = Object.keys(chapterData);
+
+            console.log("SECTIONS:", sections);
+
+            if (sections.length > 0) {
+
+                loadSection(sections[0]);
+
+            } else {
+
+                showError("इस अध्याय में कोई सेक्शन नहीं मिला।");
+
+            }
+
         })
+
         .catch(err => {
+
             console.error("MCQ loading error:", err);
+
             showError("Loading Error: " + err.message);
+
         });
 }
+
+
+
+
+
 
 window.loadSection = function(sectionId, btn) {
 
