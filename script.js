@@ -26,27 +26,38 @@ const wrongSound = document.getElementById("wrongSound");
 
 
 
+// Get board, class and chapter information
 const board = document.body.dataset.board;
+const classKey = document.body.dataset.class;
+const chapterKey = document.body.dataset.page;
 
-const fileName = {
-    cbse: "sc6cbse-bilingual.json",
-    biharboard: "sc6biharboard-bilingual.json"
-}[board];
+// JSON file configuration
+const jsonFiles = {
+    cbse: {
+        class6cbse: "sc6cbse-bilingual.json",
+        class7cbse: "sc7cbse-bilingual.json",
+        class8cbse: "sc8cbse-bilingual.json"
+    },
 
-const classKey = {
-    cbse: "class6cbse",
-    biharboard: "class6biharboard"
-}[board];
+    biharboard: {
+        class6biharboard: "sc6biharboard-bilingual.json",
+        class7biharboard: "sc7biharboard-bilingual.json",
+        class8biharboard: "sc8biharboard-bilingual.json"
+    }
+};
 
-const chapterKey = document.body.getAttribute("data-page");
+// Select JSON file automatically
+const fileName = jsonFiles[board]?.[classKey];
 
-console.log("NEW SCRIPT VERSION RUNNING");
-console.log("BOARD:", board);
-console.log("CLASS KEY:", classKey);
-console.log("CHAPTER KEY:", chapterKey);
-console.log("JSON FILE:", fileName);
-
-
+// Check JSON file
+if (!fileName) {
+    console.error("JSON FILE NOT FOUND:", board, classKey);
+} else {
+    console.log("BOARD:", board);
+    console.log("CLASS KEY:", classKey);
+    console.log("CHAPTER KEY:", chapterKey);
+    console.log("JSON FILE:", fileName);
+}
 
 
 
