@@ -5656,667 +5656,817 @@
           },
 
     
-       "chapter09": {"section1": [
-          {
-            "q": {
-              "hi": "अशुद्ध पदार्थों को अन्य किस नाम से जाना जाता है?",
-              "en": "What are impure substances also called?"
-            },
-            "options": [
-              {"hi": "मिश्रण (Mixtures)", "en": "Mixtures"},
-              {"hi": "शुद्ध तत्व", "en": "Pure elements"},
-              {"hi": "यौगिक", "en": "Compounds"},
-              {"hi": "विलयन", "en": "Solution"}
-            ],
-            "answer": {"hi": "मिश्रण (Mixtures)", "en": "Mixtures"}
+       "chapter09":
+        {"section1":  [
+        {
+          "q": {
+            "hi": "जब दो या दो से अधिक पदार्थ मिलकर एक समान मिश्रण बनाते हैं, तो उसे क्या कहते हैं?",
+            "en": "What is formed when two or more substances mix to form a uniform mixture?"
           },
-          {
-            "q": {
-              "hi": "कच्चे तेल (crude oil) से किन उपयोगी घटकों को अलग किया जाता है?",
-              "en": "Which useful components are separated from crude oil?"
-            },
-            "options": [
-              {"hi": "पेट्रोल, डीजल और केरोसिन", "en": "Petrol, diesel and kerosene"},
-              {"hi": "केवल पानी", "en": "Only water"},
-              {"hi": "दूध और मक्खन", "en": "Milk and butter"},
-              {"hi": "नमक और चीनी", "en": "Salt and sugar"}
-            ],
-            "answer": {"hi": "पेट्रोल, डीजल और केरोसिन", "en": "Petrol, diesel and kerosene"}
-          },
-          {
-            "q": {
-              "hi": "किस प्रकार के मिश्रण में घटक पूरे मिश्रण में समान रूप से फैले होते हैं?",
-              "en": "In what type of mixture are the constituents uniformly spread throughout?"
-            },
-            "options": [
-              {"hi": "समांगी मिश्रण (Homogeneous mixture)", "en": "Homogeneous mixture"},
-              {"hi": "विषमांगी मिश्रण (Heterogeneous mixture)", "en": "Heterogeneous mixture"},
-              {"hi": "अमिश्रणीय मिश्रण", "en": "Immiscible mixture"},
-              {"hi": "खुरदरा मिश्रण", "en": "Rough mixture"}
-            ],
-            "answer": {"hi": "समांगी मिश्रण (Homogeneous mixture)", "en": "Homogeneous mixture"}
-          },
-          {
-            "q": {
-              "hi": "लोहे के बुरादे और सल्फर के मिश्रण को किस आधार पर अलग किया जा सकता है?",
-              "en": "On the basis of which property can a mixture of iron filings and sulphur be separated?"
-            },
-            "options": [
-              {"hi": "चुंबकीय प्रकृति (Magnetic nature)", "en": "Magnetic nature"},
-              {"hi": "रंग (Colour)", "en": "Colour"},
-              {"hi": "घुलनशीलता (Solubility)", "en": "Solubility"},
-              {"hi": "कठोरता (Hardness)", "en": "Hardness"}
-            ],
-            "answer": {"hi": "चुंबकीय प्रकृति (Magnetic nature)", "en": "Magnetic nature"}
-          },
-          {
-            "q": {
-              "hi": "चावल और दालों में से अवांछित पत्थरों और कीड़ों को हाथ से अलग करने की विधि क्या कहलाती है?",
-              "en": "What is the method of separating undesirable solid substances from useful solids by hand called?"
-            },
-            "options": [
-              {"hi": "हैंडपिकिंग या बीनना (Handpicking)", "en": "Handpicking"},
-              {"hi": "चालना या सीविंग (Sieving)", "en": "Sieving"},
-              {"hi": "थ्रेशिंग (Threshing)", "en": "Threshing"},
-              {"hi": "विनोइंग (Winnowing)", "en": "Winnowing"}
-            ],
-            "answer": {"hi": "हैंडपिकिंग या बीनना (Handpicking)", "en": "Handpicking"}
-          },
-          {
-            "q": {
-              "hi": "बारीक कणों को बड़े कणों से अलग करने के लिए किसका उपयोग किया जाता है?",
-              "en": "Which device is used to separate finer particles from bigger components?"
-            },
-            "options": [
-              {"hi": "छलनी या सीव (Sieve)", "en": "Sieve"},
-              {"hi": "थर्मामीटर", "en": "Thermometer"},
-              {"hi": "चुंबक", "en": "Magnet"},
-              {"hi": "फनल", "en": "Funnel"}
-            ],
-            "answer": {"hi": "छलनी या सीव (Sieve)", "en": "Sieve"}
-          },
-          {
-            "q": {
-              "hi": "फसल कटाई के बाद डंठलों से अनाजों को अलग करने की प्रक्रिया क्या कहलाती है?",
-              "en": "The process of separating grains from the stalks is called what?"
-            },
-            "options": [
-              {"hi": "थ्रेशिंग (Threshing)", "en": "Threshing"},
-              {"hi": "विनोइंग (Winnowing)", "en": "Winnowing"},
-              {"hi": "हैंडपिकिंग (Handpicking)", "en": "Handpicking"},
-              {"hi": "फिल्ट्रेशन (Filtration)", "en": "Filtration"}
-            ],
-            "answer": {"hi": "थ्रेशिंग (Threshing)", "en": "Threshing"}
-          },
-          {
-            "q": {
-              "hi": "हवा का उपयोग करके अनाज से भूसी (husk) को अलग करने की विधि क्या कहलाती है?",
-              "en": "The method in which wind is used to separate husk from grains is called what?"
-            },
-            "options": [
-              {"hi": "विनोइंग या ओससाना (Winnowing)", "en": "Winnowing"},
-              {"hi": "थ्रेशिंग (Threshing)", "en": "Threshing"},
-              {"hi": "निस्तारण (Decantation)", "en": "Decantation"},
-              {"hi": "चुंबकीय पृथक्करण (Magnetic separation)", "en": "Magnetic separation"}
-            ],
-            "answer": {"hi": "विनोइंग या ओससाना (Winnowing)", "en": "Winnowing"}
-          },
-          {
-            "q": {
-              "hi": "चुंबक का उपयोग करके मिश्रण से लोहे को अलग करने की विधि को क्या कहते हैं?",
-              "en": "The method of separating iron-containing substances using a magnet is known as what?"
-            },
-            "options": [
-              {"hi": "चुंबकीय पृथक्करण (Magnetic separation)", "en": "Magnetic separation"},
-              {"hi": "फिल्ट्रेशन (Filtration)", "en": "Filtration"},
-              {"hi": "अवसादन (Sedimentation)", "en": "Sedimentation"},
-              {"hi": "वाष्पीकरण (Evaporation)", "en": "Evaporation"}
-            ],
-            "answer": {"hi": "चुंबकीय पृथक्करण (Magnetic separation)", "en": "Magnetic separation"}
-          },
-          {
-            "q": {
-              "hi": "मिश्रण में अघुलनशील भारी कणों का बर्तन के तले में बैठ जाना क्या कहलाता है?",
-              "en": "The process in which heavier particles of an insoluble solid settle down at the bottom is known as what?"
-            },
-            "options": [
-              {"hi": "अवसादन या सेडिमेंटेशन (Sedimentation)", "en": "Sedimentation"},
-              {"hi": "निस्तारण (Decantation)", "en": "Decantation"},
-              {"hi": "फिल्ट्रेशन (Filtration)", "en": "Filtration"},
-              {"hi": "वाष्पीकरण (Evaporation)", "en": "Evaporation"}
-            ],
-            "answer": {"hi": "अवसादन या सेडिमेंटेशन (Sedimentation)", "en": "Sedimentation"}
+          "options": [
+            {"hi": "निलंबन", "en": "Suspension"},
+            {"hi": "विलयन", "en": "Solution"},
+            {"hi": "शुद्ध पदार्थ", "en": "Pure substance"},
+            {"hi": "अवसाद", "en": "Sediment"}
+          ],
+          "answer": {
+            "hi": "विलयन",
+            "en": "Solution"
           }
-        ],
-        "section2": [
-          {
-            "q": {
-              "hi": "अवसादन के बाद बिना तलछट को हिलाए साफ पानी को दूसरे बर्तन में उड़ेलने की प्रक्रिया क्या कहलाती है?",
-              "en": "The process of pouring out the clear liquid without disturbing the sediments is known as what?"
-            },
-            "options": [
-              {"hi": "निस्तारण या डिकैन्टेशन (Decantation)", "en": "Decantation"},
-              {"hi": "सेडिमेंटेशन (Sedimentation)", "en": "Sedimentation"},
-              {"hi": "थ्रेशिंग (Threshing)", "en": "Threshing"},
-              {"hi": "मंथन (Churning)", "en": "Churning"}
-            ],
-            "answer": {"hi": "निस्तारण या डिकैन्टेशन (Decantation)", "en": "Decantation"}
+        },
+        {
+          "q": {
+            "hi": "जब नमक पानी में घुलता है, तो नमक को क्या कहते हैं?",
+            "en": "When salt dissolves in water, what is salt called?"
           },
-          {
-            "q": {
-              "hi": "अघुलनशील ठोस पदार्थों को द्रव से अलग करने के लिए फिल्टर पेपर का उपयोग करके की जाने वाली प्रक्रिया क्या है?",
-              "en": "The process by which an insoluble solid is separated from a liquid using a filter is called what?"
-            },
-            "options": [
-              {"hi": "निस्पंदन या फिल्ट्रेशन (Filtration)", "en": "Filtration"},
-              {"hi": "वाष्पीकरण (Evaporation)", "en": "Evaporation"},
-              {"hi": "संघनन (Condensation)", "en": "Condensation"},
-              {"hi": "आसवन (Distillation)", "en": "Distillation"}
-            ],
-            "answer": {"hi": "निस्पंदन या फिल्ट्रेशन (Filtration)", "en": "Filtration"}
-          },
-          {
-            "q": {
-              "hi": "विलयन के बहुत बारीक अघुलनशील कणों को भारी बनाने के लिए उसमें क्या मिलाया जाता है?",
-              "en": "What is added to a solution to make very fine insoluble particles heavy so they settle down?"
-            },
-            "options": [
-              {"hi": "फिटकरी या एलम (Alum)", "en": "Alum"},
-              {"hi": "नमक (Salt)", "en": "Salt"},
-              {"hi": "चीनी (Sugar)", "en": "Sugar"},
-              {"hi": "रेत (Sand)", "en": "Sand"}
-            ],
-            "answer": {"hi": "फिटकरी या एलम (Alum)", "en": "Alum"}
-          },
-          {
-            "q": {
-              "hi": "फिटकरी मिलाने की इस प्रक्रिया को क्या कहा जाता है?",
-              "en": "What is the method by which fine particles of solution are made heavy by adding alum called?"
-            },
-            "options": [
-              {"hi": "भारण या लोडिंग (Loading)", "en": "Loading"},
-              {"hi": "फिल्ट्रेशन (Filtration)", "en": "Filtration"},
-              {"hi": "थ्रेशिंग (Threshing)", "en": "Threshing"},
-              {"hi": "मंथन (Churning)", "en": "Churning"}
-            ],
-            "answer": {"hi": "भारण या लोडिंग (Loading)", "en": "Loading"}
-          },
-          {
-            "q": {
-              "hi": "घुलनशील ठोस पदार्थों को द्रव से अलग करने के लिए मुख्य रूप से किस विधि का उपयोग किया जाता है?",
-              "en": "Which method is used to separate a soluble solid from a liquid?"
-            },
-            "options": [
-              {"hi": "वाष्पीकरण या इवेपोरेशन (Evaporation)", "en": "Evaporation"},
-              {"hi": "हैंडपिकिंग (Handpicking)", "en": "Handpicking"},
-              {"hi": "सीविंग (Sieving)", "en": "Sieving"},
-              {"hi": "विनोइंग (Winnowing)", "en": "Winnowing"}
-            ],
-            "answer": {"hi": "वाष्पीकरण या इवेपोरेशन (Evaporation)", "en": "Evaporation"}
-          },
-          {
-            "q": {
-              "hi": "समुद्र के पानी से सामान्य नमक किस प्रक्रिया द्वारा प्राप्त किया जाता है?",
-              "en": "How is common salt obtained from seawater?"
-            },
-            "options": [
-              {"hi": "वाष्पीकरण (Evaporation)", "en": "Evaporation"},
-              {"hi": "फिल्ट्रेशन (Filtration)", "en": "Filtration"},
-              {"hi": "हैंडपिकिंग (Handpicking)", "en": "Handpicking"},
-              {"hi": "चुंबकीय पृथक्करण (Magnetic separation)", "en": "Magnetic separation"}
-            ],
-            "answer": {"hi": "वाष्पीकरण (Evaporation)", "en": "Evaporation"}
-          },
-          {
-            "q": {
-              "hi": "दूध या दही से मक्खन अलग करने की प्रक्रिया को क्या कहते हैं?",
-              "en": "The process of separating butter from curd or milk is called what?"
-            },
-            "options": [
-              {"hi": "मंथन या चर्निंग (Churning)", "en": "Churning"},
-              {"hi": "थ्रेशिंग (Threshing)", "en": "Threshing"},
-              {"hi": "वाष्पीकरण (Evaporation)", "en": "Evaporation"},
-              {"hi": "संघनन (Condensation)", "en": "Condensation"}
-            ],
-            "answer": {"hi": "मंथन या चर्निंग (Churning)", "en": "Churning"}
-          },
-          {
-            "q": {
-              "hi": "दही या दूध से मक्खन अलग करने के लिए किसका उपयोग किया जाता है?",
-              "en": "What is used to churn milk or curd to separate butter?"
-            },
-            "options": [
-              {"hi": "मथनी या चर्नर (Churner / Mathni)", "en": "Churner or mathni"},
-              {"hi": "चलनी (Sieve)", "en": "Sieve"},
-              {"hi": "चुंबक (Magnet)", "en": "Magnet"},
-              {"hi": "फिल्टर पेपर (Filter paper)", "en": "Filter paper"}
-            ],
-            "answer": {"hi": "मथनी या चर्नर (Churner / Mathni)", "en": "Churner or mathni"}
-          },
-          {
-            "q": {
-              "hi": "वाष्पीकृत होने वाले द्रव को वापस प्राप्त करने के लिए किस प्रक्रिया का उपयोग किया जाता है?",
-              "en": "The liquid that evaporates can be recovered by which process?"
-            },
-            "options": [
-              {"hi": "संघनन या कंडेंसेशन (Condensation)", "en": "Condensation"},
-              {"hi": "अवसादन (Sedimentation)", "en": "Sedimentation"},
-              {"hi": "निस्तारण (Decantation)", "en": "Decantation"},
-              {"hi": "भारण (Loading)", "en": "Loading"}
-            ],
-            "answer": {"hi": "संघनन या कंडेंसेशन (Condensation)", "en": "Condensation"}
-          },
-          {
-            "q": {
-              "hi": "चयनात्मक वाष्पीकरण और संघनन द्वारा तरल मिश्रण के घटकों को अलग करने की विधि क्या कहलाती है?",
-              "en": "The process of separating components of a liquid mixture by selective evaporation and condensation is called what?"
-            },
-            "options": [
-              {"hi": "आसवन या डिस्टिलेशन (Distillation)", "en": "Distillation"},
-              {"hi": "थ्रेशिंग (Threshing)", "en": "Threshing"},
-              {"hi": "हैंडपिकिंग (Handpicking)", "en": "Handpicking"},
-              {"hi": "भारण (Loading)", "en": "Loading"}
-            ],
-            "answer": {"hi": "आसवन या डिस्टिलेशन (Distillation)", "en": "Distillation"}
+          "options": [
+            {"hi": "विलायक", "en": "Solvent"},
+            {"hi": "मिश्रण", "en": "Mixture"},
+            {"hi": "विलेय", "en": "Solute"},
+            {"hi": "निलंबन", "en": "Suspension"}
+          ],
+          "answer": {
+            "hi": "विलेय",
+            "en": "Solute"
           }
-        ],
-        "section3": [
-          {
-            "q": {
-              "hi": "किसी विलयन में जो पदार्थ घुलता है, उसे क्या कहते हैं?",
-              "en": "The substance that gets dissolved in a solution is known as what?"
-            },
-            "options": [
-              {"hi": "विलेय या सॉल्यूट (Solute)", "en": "Solute"},
-              {"hi": "विलायक (Solvent)", "en": "Solvent"},
-              {"hi": "विलयन (Solution)", "en": "Solution"},
-              {"hi": " sediment (अवसाद)", "en": "Sediment"}
-            ],
-            "answer": {"hi": "विलेय या सॉल्यूट (Solute)", "en": "Solute"}
+        },
+        {
+          "q": {
+            "hi": "नमक और पानी के विलयन में विलायक कौन है?",
+            "en": "Which is the solvent in a salt and water solution?"
           },
-          {
-            "q": {
-              "hi": "जिस पदार्थ में विलेय (solute) घुलता है, उसे क्या कहा जाता है?",
-              "en": "The substance in which the solute gets dissolved is called what?"
-            },
-            "options": [
-              {"hi": "विलायक या सॉल्वेंट (Solvent)", "en": "Solvent"},
-              {"hi": "विलेय (Solute)", "en": "Solute"},
-              {"hi": "मिश्रण (Mixture)", "en": "Mixture"},
-              {"hi": "अवसाद (Sediment)", "en": "Sediment"}
-            ],
-            "answer": {"hi": "विलायक या सॉल्वेंट (Solvent)", "en": "Solvent"}
-          },
-          {
-            "q": {
-              "hi": "सॉल्यूट और सॉल्वेंट के मिलने से क्या बनता है?",
-              "en": "The mixture of solute and solvent is called what?"
-            },
-            "options": [
-              {"hi": "विलयन या सॉल्यूशन (Solution)", "en": "Solution"},
-              {"hi": "निलंबन (Suspension)", "en": "Suspension"},
-              {"hi": "कोलाइड (Colloid)", "en": "Colloid"},
-              {"hi": "अवक्षेप (Precipitate)", "en": "Precipitate"}
-            ],
-            "answer": {"hi": "विलयन या सॉल्यूशन (Solution)", "en": "Solution"}
-          },
-          {
-            "q": {
-              "hi": "वह विलयन जिसमें एक निश्चित तापमान पर और अधिक विलेय (solute) नहीं घोला जा सकता, क्या कहलाता है?",
-              "en": "A solution in which no more solute can be dissolved at a specific temperature is known as what?"
-            },
-            "options": [
-              {"hi": "संतृप्त विलयन या सैचुरेटेड सॉल्यूशन (Saturated solution)", "en": "Saturated solution"},
-              {"hi": "असंतृप्त विलयन (Unsaturated solution)", "en": "Unsaturated solution"},
-              {"hi": "तनु विलयन (Dilute solution)", "en": "Dilute solution"},
-              {"hi": "सांद्र विलयन (Concentrated solution)", "en": "Concentrated solution"}
-            ],
-            "answer": {"hi": "संतृप्त विलयन या सैचुरेटेड सॉल्यूशन (Saturated solution)", "en": "Saturated solution"}
-          },
-          {
-            "q": {
-              "hi": "यदि किसी मिश्रण में दो से अधिक घटक हों, तो उन्हें अलग करने के लिए क्या करना पड़ता है?",
-              "en": "If a mixture contains more than two components, what needs to be done?"
-            },
-            "options": [
-              {"hi": "एक से अधिक पृथक्करण विधियों का उपयोग करना पड़ता है", "en": "More than one method of separation can be employed"},
-              {"hi": "केवल वाष्पीकरण करना पड़ता है", "en": "Only evaporation is done"},
-              {"hi": "उन्हें अलग नहीं किया जा सकता", "en": "They cannot be separated"},
-              {"hi": "केवल हाथ से बीनना पड़ता है", "en": "Only handpicking is done"}
-            ],
-            "answer": {"hi": "एक से अधिक पृथक्करण विधियों का उपयोग करना पड़ता है", "en": "More than one method of separation can be employed"}
-          },
-          {
-            "q": {
-              "hi": "रेत और नमक के मिश्रण को अलग करने के लिए किन विधियों के संयोजन का उपयोग किया जाता है?",
-              "en": "Which combination of methods is used to separate a mixture of sand and salt?"
-            },
-            "options": [
-              {"hi": "अवसादन, निस्तारण और वाष्पीकरण", "en": "Sedimentation, decantation followed by evaporation"},
-              {"hi": "केवल हाथ से बीनना", "en": "Only handpicking"},
-              {"hi": "केवल चुंबक का उपयोग", "en": "Only using magnet"},
-              {"hi": "केवल छानना (Filtering)"},
-              {"en": "Only filtering"}
-            ],
-            "answer": {"hi": "अवसादन, निस्तारण और वाष्पीकरण", "en": "Sedimentation, decantation followed by evaporation"}
-          },
-          {
-            "q": {
-              "hi": "चाय बनाते समय चायपत्ती को अलग करने के लिए किस उपकरण का उपयोग किया जाता है?",
-              "en": "What is used to separate tea leaves from prepared tea?"
-            },
-            "options": [
-              {"hi": "छलनी या स्ट्रेनर (Strainer)", "en": "Strainer"},
-              {"hi": "चुंबक (Magnet)", "en": "Magnet"},
-              {"hi": "थर्मामीटर (Thermometer)", "en": "Thermometer"},
-              {"hi": "कीप (Funnel)", "en": "Funnel"}
-            ],
-            "answer": {"hi": "छलनी या स्ट्रेनर (Strainer)", "en": "Strainer"}
-          },
-          {
-            "q": {
-              "hi": "मानव शरीर में रक्त को शुद्ध करने वाला मुख्य अंग कौन सा है?",
-              "en": "Which organ of the human body purifies blood?"
-            },
-            "options": [
-              {"hi": "गुर्दा या किडनी (Kidney)", "en": "Kidney"},
-              {"hi": "फेफड़े (Lungs)", "en": "Lungs"},
-              {"hi": "हृदय (Heart)", "en": "Heart"},
-              {"hi": "यकृत (Liver)", "en": "Liver"}
-            ],
-            "answer": {"hi": "गुर्दा या किडनी (Kidney)", "en": "Kidney"}
-          },
-          {
-            "q": {
-              "hi": "बालू और लोहे के बुरादे के मिश्रण से लोहे के कणों को अलग करने की सबसे अच्छी विधि कौन सी है?",
-              "en": "What is the best method to separate iron filings from a mixture of sand and iron?"
-            },
-            "options": [
-              {"hi": "चुंबकीय पृथक्करण (Magnetic separation)", "en": "Magnetic separation"},
-              {"hi": "वाष्पीकरण (Evaporation)", "en": "Evaporation"},
-              {"hi": "थ्रेशिंग (Threshing)", "en": "Threshing"},
-              {"hi": "निस्तारण (Decantation)", "en": "Decantation"}
-            ],
-            "answer": {"hi": "चुंबकीय पृथक्करण (Magnetic separation)", "en": "Magnetic separation"}
-          },
-          {
-            "q": {
-              "hi": "फिल्टर पेपर को कोन (cone) के आकार में मोड़ने के बाद उसे किसमें रखा जाता है?",
-              "en": "After folding a circular filter paper into a cone shape, where is it placed?"
-            },
-            "options": [
-              {"hi": "कीप या फनल (Funnel) में", "en": "Inside the funnel"},
-              {"hi": "सीधे बीकर की तली में", "en": "Directly at bottom of beaker"},
-              {"hi": "चाइना डिश में", "en": "In a china dish"},
-              {"hi": "परखनली में", "en": "In a test tube"}
-            ],
-            "answer": {"hi": "कीप या फनल (Funnel) में", "en": "Inside the funnel"}
+          "options": [
+            {"hi": "नमक", "en": "Salt"},
+            {"hi": "पानी", "en": "Water"},
+            {"hi": "दोनों", "en": "Both"},
+            {"hi": "कोई नहीं", "en": "Neither"}
+          ],
+          "answer": {
+            "hi": "पानी",
+            "en": "Water"
           }
-        ],
-        "section4": [
-          {
-            "q": {
-              "hi": "उन पदार्थों को क्या कहते हैं जिन्हें भौतिक या रासायनिक तरीकों से सरल पदार्थों में विभाजित नहीं किया जा सकता?",
-              "en": "What are substances that cannot be further broken down into simpler substances by physical or chemical methods called?"
-            },
-            "options": [
-              {"hi": "तत्व या एलिमेंट्स (Elements)", "en": "Elements"},
-              {"hi": "मिश्रण (Mixtures)", "en": "Mixtures"},
-              {"hi": "विलयन (Solutions)", "en": "Solutions"},
-              {"hi": "यौगिक (Compounds)", "en": "Compounds"}
-            ],
-            "answer": {"hi": "तत्व या एलिमेंट्स (Elements)", "en": "Elements"}
+        },
+        {
+          "q": {
+            "hi": "रेत और पानी का मिश्रण किस प्रकार का मिश्रण है?",
+            "en": "What type of mixture is sand and water?"
           },
-          {
-            "q": {
-              "hi": "रासायनिक प्रतीक 'Mg' किस तत्व को दर्शाता है?",
-              "en": "What element does the chemical symbol 'Mg' represent?"
-            },
-            "options": [
-              {"hi": "मैग्नीशियम (Magnesium)", "en": "Magnesium"},
-              {"hi": "मैंगनीज (Manganese)", "en": "Manganese"},
-              {"hi": "पारा (Mercury)", "en": "Mercury"},
-              {"hi": "सोना (Gold)", "en": "Gold"}
-            ],
-            "answer": {"hi": "मैग्नीशियम (Magnesium)", "en": "Magnesium"}
-          },
-          {
-            "q": {
-              "hi": "हैंडपिकिंग (बीनना) विधि का उपयोग सामान्यतः कब किया जाता है?",
-              "en": "When is the method of handpicking commonly used?"
-            },
-            "options": [
-              {"hi": "जब अशुद्धियों की मात्रा कम हो और उनका आकार/रंग उपयोगी पदार्थ से भिन्न हो", "en": "When undesirable substances are in small quantities and differ in shape, size or colour"},
-              {"hi": "जब मिश्रण बहुत अधिक मात्रा में हो", "en": "When mixture is in very large quantity"},
-              {"hi": "जब कण बहुत सूक्ष्म हों", "en": "When particles are microscopic"},
-              {"hi": "जब दोनों घटक द्रव हों", "en": "When both components are liquid"}
-            ],
-            "answer": {"hi": "जब अशुद्धियों की मात्रा कम हो और उनका आकार/रंग उपयोगी पदार्थ से भिन्न हो", "en": "When undesirable substances are in small quantities and differ in shape, size or colour"}
-          },
-          {
-            "q": {
-              "hi": "निर्माण स्थलों (construction sites) पर रेत से पत्थर और कंकड़ अलग करने के लिए किसका उपयोग किया जाता है?",
-              "en": "What is used at construction sites to separate stones and pebbles from sand?"
-            },
-            "options": [
-              {"hi": "बड़ी छलनी या सीव (Large sieve)", "en": "Large sieve"},
-              {"hi": "चुंबक (Magnet)", "en": "Magnet"},
-              {"hi": "फिल्टर पेपर (Filter paper)", "en": "Filter paper"},
-              {"hi": "चुम्चा (Spoon)", "en": "Spoon"}
-            ],
-            "answer": {"hi": "बड़ी छलनी या सीव (Large sieve)", "en": "Large sieve"}
-          },
-          {
-            "q": {
-              "hi": "थ्रेशिंग की पारंपरिक या आधुनिक विधियों में फसलों को किससे अलग किया जाता है?",
-              "en": "In threshing, what is separated from what?"
-            },
-            "options": [
-              {"hi": "डंठलों से अनाज (Grains from the stalks)", "en": "Grains from the stalks"},
-              {"hi": "चावल से भूसी (Husk from rice)", "en": "Husk from rice"},
-              {"hi": "रेत से पानी (Water from sand)", "en": "Water from sand"},
-              {"hi": "दूध से मक्खन (Butter from milk)", "en": "Butter from milk"}
-            ],
-            "answer": {"hi": "डंठलों से अनाज (Grains from the stalks)", "en": "Grains from the stalks"}
-          },
-          {
-            "q": {
-              "hi": "मिश्रण के घटकों को अलग करने का आधार क्या होता है?",
-              "en": "On what basis are the components of a mixture separated?"
-            },
-            "options": [
-              {"hi": "उनकी भौतिक गुणों में अंतर जैसे आकार, अवस्था, चुम्बकीय प्रकृति और विलेयता", "en": "Their physical properties like particle size, state of matter, magnetic nature and solubility"},
-              {"hi": "केवल उनके स्वाद के आधार पर", "en": "Only on their taste"},
-              {"hi": "केवल उनके मूल्य के आधार पर", "en": "Only on their cost"},
-              {"hi": "केवल उनकी गंध के आधार पर", "en": "Only on their smell"}
-            ],
-            "answer": {"hi": "उनकी भौतिक गुणों में अंतर जैसे आकार, अवस्था, चुम्बकीय प्रकृति और विलेयता", "en": "Their physical properties like particle size, state of matter, magnetic nature and solubility"}
-          },
-          {
-            "q": {
-              "hi": "मिट्टी और पानी के गंदे मिश्रण से साफ पानी प्राप्त करने के लिए अंतिम रूप से कौन सी विधि अपनाई जाती है?",
-              "en": "Which method is used finally to obtain clear water from a muddy water mixture?"
-            },
-            "options": [
-              {"hi": "निस्यंदन या फिल्ट्रेशन (Filtration)", "en": "Filtration"},
-              {"hi": "थ्रेशिंग (Threshing)", "en": "Threshing"},
-              {"hi": "विनोइंग (Winnowing)", "en": "Winnowing"},
-              {"hi": "हैंडपिकिंग (Handpicking)", "en": "Handpicking"}
-            ],
-            "answer": {"hi": "निस्यंदन या फिल्ट्रेशन (Filtration)", "en": "Filtration"}
-          },
-          {
-            "q": {
-              "hi": "यदि पानी में घुले हुए नमक को पानी सहित पुनः प्राप्त करना हो, तो वाष्पीकरण के साथ किस प्रक्रिया का उपयोग करना होगा?",
-              "en": "If both salt and water are to be recovered from a salt solution, which process must follow evaporation?"
-            },
-            "options": [
-              {"hi": "संघनन (Condensation)", "en": "Condensation"},
-              {"hi": "अवसादन (Sedimentation)", "en": "Sedimentation"},
-              {"hi": "छानना (Filtration)", "en": "Filtration"},
-              {"hi": "थ्रेशिंग (Threshing)", "en": "Threshing"}
-            ],
-            "answer": {"hi": "संघनन (Condensation)", "en": "Condensation"}
-          },
-          {
-            "q": {
-              "hi": "नीले थोथे (कॉपर सल्फेट) को पानी में घोलकर संतृप्त विलयन बनाने के बाद उसे एक दिन के लिए रखने पर क्या प्राप्त होता है?",
-              "en": "What can be seen in the China dish when a saturated solution of copper sulphate is left undisturbed for a day?"
-            },
-            "options": [
-              {"hi": "क्रिस्टल (Crystals)", "en": "Crystals"},
-              {"hi": "केवल गैस", "en": "Only gas"},
-              {"hi": "साधारण तेल", "en": "Plain oil"},
-              {"hi": "मिट्टी", "en": "Soil"}
-            ],
-            "answer": {"hi": "क्रिस्टल (Crystals)", "en": "Crystals"}
-          },
-          {
-            "q": {
-              "hi": "असंतृप्त विलयन (Unsaturated solution) किसे कहते हैं?",
-              "en": "What is an unsaturated solution?"
-            },
-            "options": [
-              {"hi": "वह विलयन जिसमें और अधिक solute घोला जा सके", "en": "A solution in which more solute can be dissolved"},
-              {"hi": "वह विलयन जिसमें और अधिक solute न घुल सके", "en": "A solution in which no more solute can dissolve"},
-              {"hi": "बिना पानी का घोल", "en": "Solution without water"},
-              {"hi": "ठोस पदार्थों का मिश्रण", "en": "Mixture of solids"}
-            ],
-            "answer": {"hi": "वह विलयन जिसमें और अधिक solute घोला जा सके", "en": "A solution in which more solute can be dissolved"}
+          "options": [
+            {"hi": "समान मिश्रण", "en": "Uniform mixture"},
+            {"hi": "विलयन", "en": "Solution"},
+            {"hi": "असमान मिश्रण", "en": "Non-uniform mixture"},
+            {"hi": "शुद्ध पदार्थ", "en": "Pure substance"}
+          ],
+          "answer": {
+            "hi": "असमान मिश्रण",
+            "en": "Non-uniform mixture"
           }
-        ],
-        "section5": [
-          {
-            "q": {
-              "hi": "क्या चीनी पानी में घुलनशील (soluble) है?",
-              "en": "Is sugar soluble in water?"
-            },
-            "options": [
-              {"hi": "हाँ, चीनी पानी में पूरी तरह घुल जाती है (True)", "en": "True"},
-              {"hi": "नहीं, यह अघुलनशील है (False)", "en": "False"},
-              {"hi": "यह केवल तेल में घुलती है", "en": "It dissolves only in oil"},
-              {"hi": "यह कभी नहीं घुलती", "en": "It never dissolves"}
-            ],
-            "answer": {"hi": "हाँ, चीनी पानी में पूरी तरह घुल जाती है (True)", "en": "True"}
+        },
+        {
+          "q": {
+            "hi": "दो द्रवों से बने विलयन में कम मात्रा में उपस्थित पदार्थ को क्या कहते हैं?",
+            "en": "In a solution made of two liquids, what is the substance present in a smaller amount called?"
           },
-          {
-            "q": {
-              "hi": "अनाज से भूसी अलग करने के लिए किसान किस तकनीक का उपयोग करते हैं?",
-              "en": "Which technique do farmers use to separate husk from grains?"
-            },
-            "options": [
-              {"hi": "ओससाना या विनोइंग (Winnowing)", "en": "Winnowing"},
-              {"hi": "चुंबकीय पृथक्करण", "en": "Magnetic separation"},
-              {"hi": "आसवन", "en": "Distillation"},
-              {"hi": "भारण", "en": "Loading"}
-            ],
-            "answer": {"hi": "ओससाना या विनोइंग (Winnowing)", "en": "Winnowing"}
-          },
-          {
-            "q": {
-              "hi": "बालू और पानी के मिश्रण में बालू नीचे बैठ जाती है, इस प्रक्रिया को क्या कहते हैं?",
-              "en": "In a mixture of sand and water, sand settles down at the bottom. What is this process called?"
-            },
-            "options": [
-              {"hi": "अवसादन (Sedimentation)", "en": "Sedimentation"},
-              {"hi": "वाष्पीकरण (Evaporation)", "en": "Evaporation"},
-              {"hi": "संघनन (Condensation)", "en": "Condensation"},
-              {"hi": "मंथन (Churning)", "en": "Churning"}
-            ],
-            "answer": {"hi": "अवसादन (Sedimentation)", "en": "Sedimentation"}
-          },
-          {
-            "q": {
-              "hi": "मिश्रण में नीचे बैठे हुए ठोस कण क्या कहलाते हैं?",
-              "en": "The solid particles that settle down during sedimentation are known as what?"
-            },
-            "options": [
-              {"hi": "तलछट या सेडिमेंट्स (Sediments)", "en": "Sediments"},
-              {"hi": "विलायक (Solvent)", "en": "Solvent"},
-              {"hi": "क्रिस्टल (Crystals)", "en": "Crystals"},
-              {"hi": "भाप (Vapour)", "en": "Vapour"}
-            ],
-            "answer": {"hi": "तलछट या सेडिमेंट्स (Sediments)", "en": "Sediments"}
-          },
-          {
-            "q": {
-              "hi": "क्या समुद्री पानी से नमक प्राप्त करने के लिए वाष्पीकरण विधि का उपयोग किया जाता है?",
-              "en": "Is the process of evaporation used to obtain common salt from seawater?"
-            },
-            "options": [
-              {"hi": "सत्य (True)", "en": "True"},
-              {"hi": "असत्य (False)", "en": "False"},
-              {"hi": "केवल सर्दियों में", "en": "Only in winter"},
-              {"hi": "केवल प्रयोगशाला में", "en": "Only in lab"}
-            ],
-            "answer": {"hi": "सत्य (True)", "en": "True"}
-          },
-          {
-            "q": {
-              "hi": "चावल और दालों को पकाने से पहले उनमें से गंदगी और कीड़े हटाने के लिए उन्हें किसमें भिगोया जाता है?",
-              "en": "Why are rice grains and pulses soaked in water at home before cooking?"
-            },
-            "options": [
-              {"hi": "दत्तक/धूल, गंदगी और कीड़ों को हटाने के लिए", "en": "To remove dirt and insects"},
-              {"hi": "उन्हें मीठा बनाने के लिए", "en": "To make them sweet"},
-              {"hi": "उनका रंग बदलने के लिए", "en": "To change their color"},
-              {"hi": "उन्हें और अधिक भारी बनाने के लिए", "en": "To make them heavier"}
-            ],
-            "answer": {"hi": "दत्तक/धूल, गंदगी और कीड़ों को हटाने के लिए", "en": "To remove dirt and insects"}
-          },
-          {
-            "q": {
-              "hi": "मिश्रण पृथक्करण का मुख्य उद्देश्य क्या होता है?",
-              "en": "What is the main purpose of separating components of a mixture?"
-            },
-            "options": [
-              {"hi": "हानिकारक अशुद्धियों को हटाना और उपयोगी घटकों को अलग करना", "en": "To remove harmful impurities and use components separately"},
-              {"hi": "चीजों को आपस में मिलाना", "en": "To mix things together"},
-              {"hi": "वजन बढ़ाना", "en": "To increase weight"},
-              {"hi": "रंग बदलना", "en": "To change color"}
-            ],
-            "answer": {"hi": "हानिकारक अशुद्धियों को हटाना और उपयोगी घटकों को अलग करना", "en": "To remove harmful impurities and use components separately"}
-          },
-          {
-            "q": {
-              "hi": "ठंडे पानी की बोतल की बाहरी सतह पर पानी की बूंदों का दिखना किस प्रक्रिया का परिणाम है?",
-              "en": "The appearance of water droplets on the outer surface of a cold water bottle is a result of what?"
-            },
-            "options": [
-              {"hi": "संघनन (Condensation)", "en": "Condensation"},
-              {"hi": "वाष्पीकरण (Evaporation)", "en": "Evaporation"},
-              {"hi": "पिघलना (Melting)", "en": "Melting"},
-              {"hi": "थ्रेशिंग (Threshing)", "en": "Threshing"}
-            ],
-            "answer": {"hi": "संघनन (Condensation)", "en": "Condensation"}
-          },
-          {
-            "q": {
-              "hi": "क्या बालू और पानी के मिश्रण को छानकर (filtering) अलग किया जा सकता है?",
-              "en": "Can a mixture of sand and water be separated by filtration?"
-            },
-            "options": [
-              {"hi": "सत्य (True)", "en": "True"},
-              {"hi": "असत्य (False)", "en": "False"},
-              {"hi": "केवल उबालकर", "en": "Only by boiling"},
-              {"hi": "केवल चुंबक से", "en": "Only by magnet"}
-            ],
-            "answer": {"hi": "सत्य (True)", "en": "True"}
-          },
-          {
-            "q": {
-              "hi": "अनाज के दानों से भारी भूसी और तिनके अलग करने के लिए कौन सी विधि उपयुक्त है?",
-              "en": "Which method is suitable for separating lighter husk and chaff from heavier grains?"
-            },
-            "options": [
-              {"hi": "ओससाना या विनोइंग (Winnowing)", "en": "Winnowing"},
-              {"hi": "हैंडपिकिंग (Handpicking)", "en": "Handpicking"},
-              {"hi": "चुंबकीय पृथक्करण (Magnetic separation)", "en": "Magnetic separation"},
-              {"hi": "आसवन (Distillation)", "en": "Distillation"}
-            ],
-            "answer": {"hi": "ओससाना या विनोइंग (Winnowing)", "en": "Winnowing"}
+          "options": [
+            {"hi": "विलायक", "en": "Solvent"},
+            {"hi": "विलेय", "en": "Solute"},
+            {"hi": "अवक्षेप", "en": "Precipitate"},
+            {"hi": "निलंबन", "en": "Suspension"}
+          ],
+          "answer": {
+            "hi": "विलेय",
+            "en": "Solute"
           }
-        ]
+        },
+        {
+          "q": {
+            "hi": "चीनी के शरबत में चीनी को विलेय क्यों माना जाता है?",
+            "en": "Why is sugar considered the solute in sugar syrup?"
+          },
+          "options": [
+            {"hi": "क्योंकि चीनी कम मात्रा में होती है", "en": "Because sugar is present in a smaller amount"},
+            {"hi": "क्योंकि चीनी गैस है", "en": "Because sugar is a gas"},
+            {"hi": "क्योंकि चीनी पानी में नहीं घुलती", "en": "Because sugar does not dissolve in water"},
+            {"hi": "क्योंकि चीनी द्रव है", "en": "Because sugar is a liquid"}
+          ],
+          "answer": {
+            "hi": "क्योंकि चीनी कम मात्रा में होती है",
+            "en": "Because sugar is present in a smaller amount"
+          }
+        },
+        {
+          "q": {
+            "hi": "निम्नलिखित में से कौन-सा एक समान मिश्रण है?",
+            "en": "Which of the following is a uniform mixture?"
+          },
+          "options": [
+            {"hi": "रेत और पानी", "en": "Sand and water"},
+            {"hi": "चूरा और पानी", "en": "Sawdust and water"},
+            {"hi": "नमक और पानी", "en": "Salt and water"},
+            {"hi": "चॉक पाउडर और पानी", "en": "Chalk powder and water"}
+          ],
+          "answer": {
+            "hi": "नमक और पानी",
+            "en": "Salt and water"
+          }
+        },
+        {
+          "q": {
+            "hi": "ORS में चीनी और नमक पानी में किस प्रकार वितरित रहते हैं?",
+            "en": "How are sugar and salt distributed in water in an ORS solution?"
+          },
+          "options": [
+            {"hi": "केवल नीचे", "en": "Only at the bottom"},
+            {"hi": "समान रूप से", "en": "Uniformly"},
+            {"hi": "केवल ऊपर", "en": "Only at the top"},
+            {"hi": "अलग-अलग परतों में", "en": "In separate layers"}
+          ],
+          "answer": {
+            "hi": "समान रूप से",
+            "en": "Uniformly"
+          }
+        },
+        {
+          "q": {
+            "hi": "चूरा और पानी का मिश्रण कैसा होता है?",
+            "en": "What type of mixture is sawdust and water?"
+          },
+          "options": [
+            {"hi": "समान मिश्रण", "en": "Uniform mixture"},
+            {"hi": "शुद्ध पदार्थ", "en": "Pure substance"},
+            {"hi": "असमान मिश्रण", "en": "Non-uniform mixture"},
+            {"hi": "विलयन", "en": "Solution"}
+          ],
+          "answer": {
+            "hi": "असमान मिश्रण",
+            "en": "Non-uniform mixture"
+          }
+        },
+        {
+          "q": {
+            "hi": "वायु को किस प्रकार का मिश्रण माना जाता है?",
+            "en": "What type of mixture is air considered?"
+          },
+          "options": [
+            {"hi": "असमान मिश्रण", "en": "Non-uniform mixture"},
+            {"hi": "समान मिश्रण", "en": "Uniform mixture"},
+            {"hi": "शुद्ध पदार्थ", "en": "Pure substance"},
+            {"hi": "ठोस मिश्रण", "en": "Solid mixture"}
+          ],
+          "answer": {
+            "hi": "समान मिश्रण",
+            "en": "Uniform mixture"
+          }
+        }
+      ],
+      "section2": [
+        {
+          "q": {
+            "hi": "जिस विलयन में किसी निश्चित तापमान पर और अधिक विलेय घुल सकता है, उसे क्या कहते हैं?",
+            "en": "What is a solution called if more solute can dissolve in it at a given temperature?"
+          },
+          "options": [
+            {"hi": "संतृप्त विलयन", "en": "Saturated solution"},
+            {"hi": "असंतृप्त विलयन", "en": "Unsaturated solution"},
+            {"hi": "सांद्र विलयन", "en": "Concentrated solution"},
+            {"hi": "निलंबन", "en": "Suspension"}
+          ],
+          "answer": {
+            "hi": "असंतृप्त विलयन",
+            "en": "Unsaturated solution"
+          }
+        },
+        {
+          "q": {
+            "hi": "जिस विलयन में निश्चित तापमान पर और अधिक विलेय नहीं घुल सकता, उसे क्या कहते हैं?",
+            "en": "What is a solution called when no more solute can dissolve in it at a given temperature?"
+          },
+          "options": [
+            {"hi": "तनु विलयन", "en": "Dilute solution"},
+            {"hi": "असंतृप्त विलयन", "en": "Unsaturated solution"},
+            {"hi": "संतृप्त विलयन", "en": "Saturated solution"},
+            {"hi": "गैसीय विलयन", "en": "Gaseous solution"}
+          ],
+          "answer": {
+            "hi": "संतृप्त विलयन",
+            "en": "Saturated solution"
+          }
+        },
+        {
+          "q": {
+            "hi": "निश्चित मात्रा में विलयन में उपस्थित विलेय की मात्रा को क्या कहते हैं?",
+            "en": "What is the amount of solute present in a fixed quantity of solution called?"
+          },
+          "options": [
+            {"hi": "घनत्व", "en": "Density"},
+            {"hi": "सांद्रता", "en": "Concentration"},
+            {"hi": "आयतन", "en": "Volume"},
+            {"hi": "द्रव्यमान", "en": "Mass"}
+          ],
+          "answer": {
+            "hi": "सांद्रता",
+            "en": "Concentration"
+          }
+        },
+        {
+          "q": {
+            "hi": "जिस विलयन में विलेय की मात्रा कम होती है, उसे क्या कहते हैं?",
+            "en": "What is a solution containing a smaller amount of solute called?"
+          },
+          "options": [
+            {"hi": "सांद्र विलयन", "en": "Concentrated solution"},
+            {"hi": "संतृप्त विलयन", "en": "Saturated solution"},
+            {"hi": "तनु विलयन", "en": "Dilute solution"},
+            {"hi": "असमान मिश्रण", "en": "Non-uniform mixture"}
+          ],
+          "answer": {
+            "hi": "तनु विलयन",
+            "en": "Dilute solution"
+          }
+        },
+        {
+          "q": {
+            "hi": "निश्चित मात्रा के विलायक में घुलने वाले विलेय की अधिकतम मात्रा को क्या कहते हैं?",
+            "en": "What is the maximum amount of solute that dissolves in a fixed quantity of solvent called?"
+          },
+          "options": [
+            {"hi": "घनत्व", "en": "Density"},
+            {"hi": "विलेयता", "en": "Solubility"},
+            {"hi": "द्रव्यमान", "en": "Mass"},
+            {"hi": "आयतन", "en": "Volume"}
+          ],
+          "answer": {
+            "hi": "विलेयता",
+            "en": "Solubility"
+          }
+        },
+        {
+          "q": {
+            "hi": "अधिकांश ठोस पदार्थों की जल में विलेयता तापमान बढ़ने पर सामान्यतः क्या होती है?",
+            "en": "What generally happens to the solubility of most solids in water when temperature increases?"
+          },
+          "options": [
+            {"hi": "घटती है", "en": "Decreases"},
+            {"hi": "बढ़ती है", "en": "Increases"},
+            {"hi": "शून्य हो जाती है", "en": "Becomes zero"},
+            {"hi": "हमेशा समान रहती है", "en": "Always remains the same"}
+          ],
+          "answer": {
+            "hi": "बढ़ती है",
+            "en": "Increases"
+          }
+        },
+        {
+          "q": {
+            "hi": "बेकिंग सोडा के प्रयोग में 70°C का पानी 50°C के पानी की तुलना में क्या करता है?",
+            "en": "In the baking soda experiment, what does water at 70°C do compared with water at 50°C?"
+          },
+          "options": [
+            {"hi": "कम बेकिंग सोडा घोलता है", "en": "Dissolves less baking soda"},
+            {"hi": "बेकिंग सोडा नहीं घोलता", "en": "Does not dissolve baking soda"},
+            {"hi": "अधिक बेकिंग सोडा घोलता है", "en": "Dissolves more baking soda"},
+            {"hi": "बेकिंग सोडा को ठोस में बदलता है", "en": "Changes baking soda into a solid"}
+          ],
+          "answer": {
+            "hi": "अधिक बेकिंग सोडा घोलता है",
+            "en": "Dissolves more baking soda"
+          }
+        },
+        {
+          "q": {
+            "hi": "किस तापमान पर नमक का संतृप्त विलयन अधिक विलेय घोल सकता है?",
+            "en": "At a higher temperature, what happens to the ability of a saturated solution to dissolve more solute?"
+          },
+          "options": [
+            {"hi": "वह असंतृप्त जैसा व्यवहार कर सकता है", "en": "It can behave like an unsaturated solution"},
+            {"hi": "वह हमेशा जम जाता है", "en": "It always freezes"},
+            {"hi": "उसका विलेय गायब हो जाता है", "en": "Its solute disappears"},
+            {"hi": "वह गैस बन जाता है", "en": "It becomes a gas"}
+          ],
+          "answer": {
+            "hi": "वह असंतृप्त जैसा व्यवहार कर सकता है",
+            "en": "It can behave like an unsaturated solution"
+          }
+        },
+        {
+          "q": {
+            "hi": "संतृप्त विलयन में और नमक मिलाने पर न घुला हुआ नमक सामान्यतः कहाँ जमा होता है?",
+            "en": "Where does undissolved salt generally settle when more salt is added to a saturated solution?"
+          },
+          "options": [
+            {"hi": "सतह पर", "en": "On the surface"},
+            {"hi": "तली में", "en": "At the bottom"},
+            {"hi": "हवा में", "en": "In the air"},
+            {"hi": "विलयन के बाहर", "en": "Outside the solution"}
+          ],
+          "answer": {
+            "hi": "तली में",
+            "en": "At the bottom"
+          }
+        },
+        {
+          "q": {
+            "hi": "2 चम्मच नमक को 100 mL पानी में घोलने की तुलना में 4 चम्मच नमक को 50 mL पानी में घोलने पर कौन-सा विलयन अधिक सांद्र होगा?",
+            "en": "Which solution is more concentrated: 2 spoons of salt in 100 mL water or 4 spoons in 50 mL water?"
+          },
+          "options": [
+            {"hi": "पहला विलयन", "en": "The first solution"},
+            {"hi": "दोनों समान", "en": "Both are equal"},
+            {"hi": "दूसरा विलयन", "en": "The second solution"},
+            {"hi": "निर्धारित नहीं किया जा सकता", "en": "Cannot be determined"}
+          ],
+          "answer": {
+            "hi": "दूसरा विलयन",
+            "en": "The second solution"
+          }
+        }
+      ],
+      "section3": [
+        {
+          "q": {
+            "hi": "ऑक्सीजन गैस पानी में किस प्रकार घुलती है?",
+            "en": "How does oxygen gas dissolve in water?"
+          },
+          "options": [
+            {"hi": "बड़ी मात्रा में", "en": "In large amounts"},
+            {"hi": "केवल गर्म पानी में", "en": "Only in hot water"},
+            {"hi": "थोड़ी मात्रा में", "en": "In a small amount"},
+            {"hi": "बिल्कुल नहीं", "en": "Not at all"}
+          ],
+          "answer": {
+            "hi": "थोड़ी मात्रा में",
+            "en": "In a small amount"
+          }
+        },
+        {
+          "q": {
+            "hi": "पानी में घुली ऑक्सीजन किसके जीवन को बनाए रखने में सहायता करती है?",
+            "en": "Dissolved oxygen in water helps sustain the life of which organisms?"
+          },
+          "options": [
+            {"hi": "केवल मनुष्य", "en": "Only humans"},
+            {"hi": "जलीय जीव", "en": "Aquatic organisms"},
+            {"hi": "केवल पक्षी", "en": "Only birds"},
+            {"hi": "केवल स्थलीय पौधे", "en": "Only land plants"}
+          ],
+          "answer": {
+            "hi": "जलीय जीव",
+            "en": "Aquatic organisms"
+          }
+        },
+        {
+          "q": {
+            "hi": "तापमान बढ़ने पर द्रवों में गैसों की विलेयता सामान्यतः क्या होती है?",
+            "en": "What generally happens to the solubility of gases in liquids when temperature increases?"
+          },
+          "options": [
+            {"hi": "बढ़ती है", "en": "Increases"},
+            {"hi": "घटती है", "en": "Decreases"},
+            {"hi": "दोगुनी हो जाती है", "en": "Doubles"},
+            {"hi": "अपरिवर्तित रहती है", "en": "Remains unchanged"}
+          ],
+          "answer": {
+            "hi": "घटती है",
+            "en": "Decreases"
+          }
+        },
+        {
+          "q": {
+            "hi": "ठंडे पानी में गर्म पानी की तुलना में अधिक ऑक्सीजन क्यों घुल सकती है?",
+            "en": "Why can cold water dissolve more oxygen than warm water?"
+          },
+          "options": [
+            {"hi": "क्योंकि गैसों की विलेयता ठंडे पानी में अधिक होती है", "en": "Because gases are more soluble in cold water"},
+            {"hi": "क्योंकि ठंडे पानी में नमक नहीं होता", "en": "Because cold water contains no salt"},
+            {"hi": "क्योंकि ठंडा पानी ठोस होता है", "en": "Because cold water is a solid"},
+            {"hi": "क्योंकि ऑक्सीजन ठंड में बनती है", "en": "Because oxygen is produced in cold conditions"}
+          ],
+          "answer": {
+            "hi": "क्योंकि गैसों की विलेयता ठंडे पानी में अधिक होती है",
+            "en": "Because gases are more soluble in cold water"
+          }
+        },
+        {
+          "q": {
+            "hi": "पानी में घुली विभिन्न गैसों का मिश्रण कैसा होता है?",
+            "en": "What type of mixture is formed by gases dissolved in water?"
+          },
+          "options": [
+            {"hi": "असमान मिश्रण", "en": "Non-uniform mixture"},
+            {"hi": "समान मिश्रण", "en": "Uniform mixture"},
+            {"hi": "निलंबन", "en": "Suspension"},
+            {"hi": "शुद्ध पदार्थ", "en": "Pure substance"}
+          ],
+          "answer": {
+            "hi": "समान मिश्रण",
+            "en": "Uniform mixture"
+          }
+        },
+        {
+          "q": {
+            "hi": "वस्तु के घनत्व की परिभाषा क्या है?",
+            "en": "What is the definition of density?"
+          },
+          "options": [
+            {"hi": "प्रति इकाई आयतन में द्रव्यमान", "en": "Mass per unit volume"},
+            {"hi": "प्रति इकाई समय में दूरी", "en": "Distance per unit time"},
+            {"hi": "कुल लंबाई", "en": "Total length"},
+            {"hi": "कुल क्षेत्रफल", "en": "Total area"}
+          ],
+          "answer": {
+            "hi": "प्रति इकाई आयतन में द्रव्यमान",
+            "en": "Mass per unit volume"
+          }
+        },
+        {
+          "q": {
+            "hi": "घनत्व का सही सूत्र कौन-सा है?",
+            "en": "Which is the correct formula for density?"
+          },
+          "options": [
+            {"hi": "आयतन ÷ द्रव्यमान", "en": "Volume ÷ Mass"},
+            {"hi": "द्रव्यमान × आयतन", "en": "Mass × Volume"},
+            {"hi": "द्रव्यमान ÷ आयतन", "en": "Mass ÷ Volume"},
+            {"hi": "द्रव्यमान + आयतन", "en": "Mass + Volume"}
+          ],
+          "answer": {
+            "hi": "द्रव्यमान ÷ आयतन",
+            "en": "Mass ÷ Volume"
+          }
+        },
+        {
+          "q": {
+            "hi": "घनत्व की SI इकाई क्या है?",
+            "en": "What is the SI unit of density?"
+          },
+          "options": [
+            {"hi": "किलोग्राम", "en": "Kilogram"},
+            {"hi": "न्यूटन", "en": "Newton"},
+            {"hi": "किलोग्राम प्रति घन मीटर", "en": "Kilogram per cubic metre"},
+            {"hi": "मीटर", "en": "Metre"}
+          ],
+          "answer": {
+            "hi": "किलोग्राम प्रति घन मीटर",
+            "en": "Kilogram per cubic metre"
+          }
+        },
+        {
+          "q": {
+            "hi": "पानी के 1 mL का द्रव्यमान कमरे के तापमान पर लगभग कितना होता है?",
+            "en": "What is the approximate mass of 1 mL of water at room temperature?"
+          },
+          "options": [
+            {"hi": "10 ग्राम", "en": "10 grams"},
+            {"hi": "1 ग्राम", "en": "1 gram"},
+            {"hi": "100 ग्राम", "en": "100 grams"},
+            {"hi": "0.1 ग्राम", "en": "0.1 gram"}
+          ],
+          "answer": {
+            "hi": "1 ग्राम",
+            "en": "1 gram"
+          }
+        },
+        {
+          "q": {
+            "hi": "यदि किसी एल्युमिनियम ब्लॉक का द्रव्यमान 27 g और आयतन 10 cm³ है, तो उसका घनत्व कितना होगा?",
+            "en": "If an aluminium block has a mass of 27 g and a volume of 10 cm³, what is its density?"
+          },
+          "options": [
+            {"hi": "27 g/cm³", "en": "27 g/cm³"},
+            {"hi": "0.27 g/cm³", "en": "0.27 g/cm³"},
+            {"hi": "2.7 g/cm³", "en": "2.7 g/cm³"},
+            {"hi": "3.7 g/cm³", "en": "3.7 g/cm³"}
+          ],
+          "answer": {
+            "hi": "2.7 g/cm³",
+            "en": "2.7 g/cm³"
+          }
+        }
+      ],
+      "section4": [
+        {
+          "q": {
+            "hi": "किसी वस्तु का द्रव्यमान मापने के लिए किस उपकरण का उपयोग किया जाता है?",
+            "en": "Which instrument is used to measure the mass of an object?"
+          },
+          "options": [
+            {"hi": "थर्मामीटर", "en": "Thermometer"},
+            {"hi": "मापक सिलेंडर", "en": "Measuring cylinder"},
+            {"hi": "तराजू", "en": "Balance"},
+            {"hi": "मीटर स्केल", "en": "Metre scale"}
+          ],
+          "answer": {
+            "hi": "तराजू",
+            "en": "Balance"
+          }
+        },
+        {
+          "q": {
+            "hi": "द्रव का आयतन मापने के लिए सामान्यतः किस उपकरण का प्रयोग किया जाता है?",
+            "en": "Which instrument is commonly used to measure the volume of a liquid?"
+          },
+          "options": [
+            {"hi": "डिजिटल तराजू", "en": "Digital balance"},
+            {"hi": "मापक सिलेंडर", "en": "Measuring cylinder"},
+            {"hi": "थर्मामीटर", "en": "Thermometer"},
+            {"hi": "कम्पास", "en": "Compass"}
+          ],
+          "answer": {
+            "hi": "मापक सिलेंडर",
+            "en": "Measuring cylinder"
+          }
+        },
+        {
+          "q": {
+            "hi": "आयतन का SI मात्रक क्या है?",
+            "en": "What is the SI unit of volume?"
+          },
+          "options": [
+            {"hi": "लीटर", "en": "Litre"},
+            {"hi": "घन सेंटीमीटर", "en": "Cubic centimetre"},
+            {"hi": "घन मीटर", "en": "Cubic metre"},
+            {"hi": "मिलीलीटर", "en": "Millilitre"}
+          ],
+          "answer": {
+            "hi": "घन मीटर",
+            "en": "Cubic metre"
+          }
+        },
+        {
+          "q": {
+            "hi": "1 mL किसके बराबर होता है?",
+            "en": "What is 1 mL equivalent to?"
+          },
+          "options": [
+            {"hi": "1 cm³", "en": "1 cm³"},
+            {"hi": "10 cm³", "en": "10 cm³"},
+            {"hi": "100 cm³", "en": "100 cm³"},
+            {"hi": "1 m³", "en": "1 m³"}
+          ],
+          "answer": {
+            "hi": "1 cm³",
+            "en": "1 cm³"
+          }
+        },
+        {
+          "q": {
+            "hi": "मापक सिलेंडर में पानी की घुमावदार सतह को क्या कहते हैं?",
+            "en": "What is the curved surface of water in a measuring cylinder called?"
+          },
+          "options": [
+            {"hi": "घनत्व", "en": "Density"},
+            {"hi": "मेनिस्कस", "en": "Meniscus"},
+            {"hi": "विलेयता", "en": "Solubility"},
+            {"hi": "अवसाद", "en": "Sediment"}
+          ],
+          "answer": {
+            "hi": "मेनिस्कस",
+            "en": "Meniscus"
+          }
+        },
+        {
+          "q": {
+            "hi": "रंगहीन द्रव का मापक सिलेंडर में पठन किस स्थान से लेना चाहिए?",
+            "en": "At which point should the reading of a colourless liquid be taken in a measuring cylinder?"
+          },
+          "options": [
+            {"hi": "मेनिस्कस के ऊपर से", "en": "From the top of the meniscus"},
+            {"hi": "मेनिस्कस के नीचे से", "en": "From the bottom of the meniscus"},
+            {"hi": "सिलेंडर की तली से", "en": "From the bottom of the cylinder"},
+            {"hi": "किसी भी स्थान से", "en": "From any point"}
+          ],
+          "answer": {
+            "hi": "मेनिस्कस के नीचे से",
+            "en": "From the bottom of the meniscus"
+          }
+        },
+        {
+          "q": {
+            "hi": "नियमित आकार वाले घनाभ का आयतन निकालने का सूत्र क्या है?",
+            "en": "What is the formula for calculating the volume of a cuboid?"
+          },
+          "options": [
+            {"hi": "लंबाई + चौड़ाई + ऊँचाई", "en": "Length + Width + Height"},
+            {"hi": "लंबाई × चौड़ाई × ऊँचाई", "en": "Length × Width × Height"},
+            {"hi": "लंबाई × चौड़ाई", "en": "Length × Width"},
+            {"hi": "द्रव्यमान ÷ आयतन", "en": "Mass ÷ Volume"}
+          ],
+          "answer": {
+            "hi": "लंबाई × चौड़ाई × ऊँचाई",
+            "en": "Length × Width × Height"
+          }
+        },
+        {
+          "q": {
+            "hi": "अनियमित आकार की ठोस वस्तु का आयतन मापने के लिए किस विधि का उपयोग किया जाता है?",
+            "en": "Which method is used to measure the volume of an irregular solid object?"
+          },
+          "options": [
+            {"hi": "विस्थापन विधि", "en": "Displacement method"},
+            {"hi": "ताप विधि", "en": "Heating method"},
+            {"hi": "छानने की विधि", "en": "Filtration method"},
+            {"hi": "वाष्पीकरण विधि", "en": "Evaporation method"}
+          ],
+          "answer": {
+            "hi": "विस्थापन विधि",
+            "en": "Displacement method"
+          }
+        },
+        {
+          "q": {
+            "hi": "यदि मापक सिलेंडर में पानी का प्रारंभिक आयतन 50 mL और अंतिम आयतन 55 mL है, तो वस्तु का आयतन कितना होगा?",
+            "en": "If the initial water volume in a measuring cylinder is 50 mL and the final volume is 55 mL, what is the volume of the object?"
+          },
+          "options": [
+            {"hi": "55 cm³", "en": "55 cm³"},
+            {"hi": "50 cm³", "en": "50 cm³"},
+            {"hi": "10 cm³", "en": "10 cm³"},
+            {"hi": "5 cm³", "en": "5 cm³"}
+          ],
+          "answer": {
+            "hi": "5 cm³",
+            "en": "5 cm³"
+          }
+        },
+        {
+          "q": {
+            "hi": "विज्ञान में द्रव्यमान किसे कहते हैं?",
+            "en": "What is mass in science?"
+          },
+          "options": [
+            {"hi": "वस्तु द्वारा घेरा गया स्थान", "en": "The space occupied by an object"},
+            {"hi": "वस्तु में उपस्थित पदार्थ की मात्रा", "en": "The quantity of matter present in an object"},
+            {"hi": "वस्तु का तापमान", "en": "The temperature of an object"},
+            {"hi": "वस्तु का रंग", "en": "The colour of an object"}
+          ],
+          "answer": {
+            "hi": "वस्तु में उपस्थित पदार्थ की मात्रा",
+            "en": "The quantity of matter present in an object"
+          }
+        }
+      ],
+      "section5": [
+        {
+          "q": {
+            "hi": "यदि किसी वस्तु का घनत्व पानी से कम है, तो सामान्यतः वह पानी में क्या करेगी?",
+            "en": "If an object's density is less than that of water, what will it generally do in water?"
+          },
+          "options": [
+            {"hi": "डूब जाएगी", "en": "Sink"},
+            {"hi": "तैरने लगेगी", "en": "Float"},
+            {"hi": "घुल जाएगी", "en": "Dissolve"},
+            {"hi": "गैस बन जाएगी", "en": "Turn into a gas"}
+          ],
+          "answer": {
+            "hi": "तैरने लगेगी",
+            "en": "Float"
+          }
+        },
+        {
+          "q": {
+            "hi": "तेल पानी की सतह पर क्यों तैरता है?",
+            "en": "Why does oil float on the surface of water?"
+          },
+          "options": [
+            {"hi": "तेल पानी से अधिक घना है", "en": "Oil is denser than water"},
+            {"hi": "तेल पानी से कम घना है", "en": "Oil is less dense than water"},
+            {"hi": "तेल पानी में घुल जाता है", "en": "Oil dissolves in water"},
+            {"hi": "तेल का द्रव्यमान शून्य है", "en": "Oil has zero mass"}
+          ],
+          "answer": {
+            "hi": "तेल पानी से कम घना है",
+            "en": "Oil is less dense than water"
+          }
+        },
+        {
+          "q": {
+            "hi": "तापमान बढ़ने पर अधिकांश पदार्थों का घनत्व सामान्यतः क्या होता है?",
+            "en": "What generally happens to the density of most substances when temperature increases?"
+          },
+          "options": [
+            {"hi": "बढ़ता है", "en": "Increases"},
+            {"hi": "घटता है", "en": "Decreases"},
+            {"hi": "दोगुना होता है", "en": "Doubles"},
+            {"hi": "शून्य हो जाता है", "en": "Becomes zero"}
+          ],
+          "answer": {
+            "hi": "घटता है",
+            "en": "Decreases"
+          }
+        },
+        {
+          "q": {
+            "hi": "गैस पर दबाव बढ़ाने से उसका घनत्व सामान्यतः क्या होता है?",
+            "en": "What generally happens to the density of a gas when pressure increases?"
+          },
+          "options": [
+            {"hi": "घटता है", "en": "Decreases"},
+            {"hi": "बढ़ता है", "en": "Increases"},
+            {"hi": "शून्य हो जाता है", "en": "Becomes zero"},
+            {"hi": "अपरिवर्तित रहता है", "en": "Remains unchanged"}
+          ],
+          "answer": {
+            "hi": "बढ़ता है",
+            "en": "Increases"
+          }
+        },
+        {
+          "q": {
+            "hi": "पानी का अधिकतम घनत्व किस तापमान पर होता है?",
+            "en": "At what temperature does water have its maximum density?"
+          },
+          "options": [
+            {"hi": "0°C", "en": "0°C"},
+            {"hi": "10°C", "en": "10°C"},
+            {"hi": "4°C", "en": "4°C"},
+            {"hi": "100°C", "en": "100°C"}
+          ],
+          "answer": {
+            "hi": "4°C",
+            "en": "4°C"
+          }
+        },
+        {
+          "q": {
+            "hi": "बर्फ पानी की सतह पर क्यों तैरती है?",
+            "en": "Why does ice float on the surface of water?"
+          },
+          "options": [
+            {"hi": "बर्फ का घनत्व पानी से कम होता है", "en": "Ice has a lower density than water"},
+            {"hi": "बर्फ का द्रव्यमान नहीं होता", "en": "Ice has no mass"},
+            {"hi": "बर्फ पानी में घुल जाती है", "en": "Ice dissolves in water"},
+            {"hi": "बर्फ पानी से अधिक गर्म होती है", "en": "Ice is warmer than water"}
+          ],
+          "answer": {
+            "hi": "बर्फ का घनत्व पानी से कम होता है",
+            "en": "Ice has a lower density than water"
+          }
+        },
+        {
+          "q": {
+            "hi": "गर्म हवा का गुब्बारा ऊपर क्यों उठता है?",
+            "en": "Why does a hot air balloon rise?"
+          },
+          "options": [
+            {"hi": "गर्म हवा ठंडी हवा से अधिक घनी होती है", "en": "Hot air is denser than cold air"},
+            {"hi": "गर्म हवा कम घनी होती है", "en": "Hot air is less dense"},
+            {"hi": "गर्म हवा का कोई द्रव्यमान नहीं होता", "en": "Hot air has no mass"},
+            {"hi": "गर्म हवा पानी में घुलती है", "en": "Hot air dissolves in water"}
+          ],
+          "answer": {
+            "hi": "गर्म हवा कम घनी होती है",
+            "en": "Hot air is less dense"
+          }
+        },
+        {
+          "q": {
+            "hi": "सापेक्ष घनत्व का कोई मात्रक क्यों नहीं होता?",
+            "en": "Why does relative density have no unit?"
+          },
+          "options": [
+            {"hi": "क्योंकि यह केवल द्रवों के लिए होता है", "en": "Because it is only for liquids"},
+            {"hi": "क्योंकि यह दो घनत्वों का अनुपात है", "en": "Because it is the ratio of two densities"},
+            {"hi": "क्योंकि इसमें द्रव्यमान नहीं होता", "en": "Because it has no mass"},
+            {"hi": "क्योंकि इसका मान हमेशा शून्य होता है", "en": "Because its value is always zero"}
+          ],
+          "answer": {
+            "hi": "क्योंकि यह दो घनत्वों का अनुपात है",
+            "en": "Because it is the ratio of two densities"
+          }
+        },
+        {
+          "q": {
+            "hi": "यदि किसी वस्तु का द्रव्यमान 120 g और आयतन 60 cm³ है, तो उसका घनत्व कितना होगा?",
+            "en": "If an object has a mass of 120 g and a volume of 60 cm³, what is its density?"
+          },
+          "options": [
+            {"hi": "3 g/cm³", "en": "3 g/cm³"},
+            {"hi": "0.5 g/cm³", "en": "0.5 g/cm³"},
+            {"hi": "2 g/cm³", "en": "2 g/cm³"},
+            {"hi": "180 g/cm³", "en": "180 g/cm³"}
+          ],
+          "answer": {
+            "hi": "2 g/cm³",
+            "en": "2 g/cm³"
+          }
+        },
+        {
+          "q": {
+            "hi": "द्रव्यमान और भार में मुख्य अंतर क्या है?",
+            "en": "What is the main difference between mass and weight?"
+          },
+          "options": [
+            {"hi": "द्रव्यमान पदार्थ की मात्रा है, जबकि भार गुरुत्वाकर्षण बल है", "en": "Mass is the quantity of matter, while weight is the gravitational force"},
+            {"hi": "दोनों बिल्कुल समान हैं", "en": "Both are exactly the same"},
+            {"hi": "द्रव्यमान न्यूटन में मापा जाता है", "en": "Mass is measured in newtons"},
+            {"hi": "भार ग्राम में मापा जाता है", "en": "Weight is measured in grams"}
+          ],
+          "answer": {
+            "hi": "द्रव्यमान पदार्थ की मात्रा है, जबकि भार गुरुत्वाकर्षण बल है",
+            "en": "Mass is the quantity of matter, while weight is the gravitational force"
+          }
+        }
+      ]
       },
     "chapter10": {"section1": [
           {
